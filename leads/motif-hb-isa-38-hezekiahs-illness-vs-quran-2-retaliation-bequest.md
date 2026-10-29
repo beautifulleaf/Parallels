@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-38-hezekiahs-illness-vs-quran-2-retaliation-bequest
 title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm ↔ Retaliation and bequests
-summary: 'These two units share 1 motifs: bequest (wasiyya) to parents and kin prescribed for one who
-  leaves wealth; altering it is a sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - bequest-to-parents-and-kin
-passages:
-- tradition: judaism
-  ref: Isa 38:1
-  note: 'Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-    (Isa 38:1 ṣaw lĕ-bêtekā kî mēt ʾattâ: ''give charge to your house, for you are dying''; Q 2:180 kutiba
-    ʿalaykum idhā ḥaḍara aḥadakumu l-mawtu in taraka khayrani l-waṣiyyatu li-l-wālidayni wa-l-aqrabīn:
-    a dying person''s charge (ṣiwwâ / waṣiyya) to the household, made a duty and given a property content
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ הַנָּבִ֗יא
-    וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
-- tradition: islam
-  ref: Quran 2:180
-  note: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ
-    وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُتَّقِينَ
-- tradition: islam
-  ref: Quran 2:181
-  note: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ إِنَّ
-    ٱللَّهَ سَمِيعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 38:1 ṣaw lĕ-bêtekā kî mēt ʾattâ: ''give charge to your house, for you are dying''; Q 2:180
-    kutiba ʿalaykum idhā ḥaḍara aḥadakumu l-mawtu in taraka khayrani l-waṣiyyatu li-l-wālidayni wa-l-aqrabīn:
-    a dying person''s charge (ṣiwwâ / waṣiyya) to the household, made a duty and given a property content
-    in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bequest (wasiyya) to parents and kin prescribed for one who leaves
     wealth; altering it is a sin (weight 6.3). Pair score 6.3.'
@@ -77,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
+kinds:
+- echo
+units:
+- id: hb-isa-38-hezekiahs-illness
+  title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm
+  tradition: judaism
+- id: quran-2-retaliation-bequest
+  title: Retaliation and bequests
+  tradition: islam
+matches:
+- kind: echo
+  label: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
+  note: 'Isa 38:1 ṣaw lĕ-bêtekā kî mēt ʾattâ: ''give charge to your house, for you are dying''; Q 2:180
+    kutiba ʿalaykum idhā ḥaḍara aḥadakumu l-mawtu in taraka khayrani l-waṣiyyatu li-l-wālidayni wa-l-aqrabīn:
+    a dying person''s charge (ṣiwwâ / waṣiyya) to the household, made a duty and given a property content
+    in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:1
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
+        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:180
+      lang: ar
+      text: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ
+        وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُتَّقِينَ
 ---
 
 ## Questions

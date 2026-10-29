@@ -2,8 +2,7 @@
 id: motif-hb-jer-36-burned-scroll-vs-quran-25-furqan-and-objections
 title: Baruch reads the scroll; Jehoiakim cuts it with a penknife and burns it; it is rewritten ↔ The
   Criterion sent down; charges of forgery and the prophet who eats in markets
-summary: 'These two units share 1 motifs: who dictated and who wrote down a prophet''s book [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,61 +14,9 @@ layers:
 - motif
 motifs:
 - how-the-prophets-book-was-written-as-contrast
-passages:
-- tradition: judaism
-  ref: Jer 36:4
-  note: 'Who dictated and who wrote down a prophet''s book [contrast between the texts] (Who dictates
-    to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh mip-pî Yirmyāhû
-    ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents'' charge the prophet
-    has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā ʿalayhi bukratan
-    wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the charge: it was sent
-    down by the one who knows the secret (25:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֣א יִרְמְיָ֔הוּ אֶת בָּר֖וּךְ בֶּן נֵֽרִיָּ֑ה וַיִּכְתֹּ֨ב בָּר֜וּךְ מִפִּ֣י יִרְמְיָ֗הוּ
-    אֵ֣ת כָּל דִּבְרֵ֧י יְהוָ֛ה אֲשֶׁר דִּבֶּ֥ר אֵלָ֖יו עַל מְגִלַּת סֵֽפֶר
-- tradition: judaism
-  ref: Jer 36:18
-  note: 'Who dictated and who wrote down a prophet''s book [contrast between the texts] (Who dictates
-    to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh mip-pî Yirmyāhû
-    ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents'' charge the prophet
-    has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā ʿalayhi bukratan
-    wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the charge: it was sent
-    down by the one who knows the secret (25:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר לָהֶם֙ בָּר֔וּךְ מִפִּיו֙ יִקְרָ֣א אֵלַ֔י אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַאֲנִ֛י
-    כֹּתֵ֥ב עַל הַסֵּ֖פֶר בַּדְּיֽוֹ
-- tradition: islam
-  ref: Quran 25:4
-  note: 'Who dictated and who wrote down a prophet''s book [contrast between the texts] (Who dictates
-    to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh mip-pî Yirmyāhû
-    ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents'' charge the prophet
-    has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā ʿalayhi bukratan
-    wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the charge: it was sent
-    down by the one who knows the secret (25:6).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ قَوْمٌ
-    ءَاخَرُونَ فَقَدْ جَآءُو ظُلْمًا وَزُورًا
-- tradition: islam
-  ref: Quran 25:5
-  note: 'Who dictated and who wrote down a prophet''s book [contrast between the texts] (Who dictates
-    to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh mip-pî Yirmyāhû
-    ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents'' charge the prophet
-    has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā ʿalayhi bukratan
-    wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the charge: it was sent
-    down by the one who knows the secret (25:6).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Who dictates to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv
-    Bārûkh mip-pî Yirmyāhû ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents''
-    charge the prophet has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā
-    ʿalayhi bukratan wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the
-    charge: it was sent down by the one who knows the secret (25:6).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who dictated and who wrote down a prophet''s book [contrast between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -104,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who dictated and who wrote down a prophet's book
+kinds:
+- contrast
+units:
+- id: hb-jer-36-burned-scroll
+  title: Baruch reads the scroll; Jehoiakim cuts it with a penknife and burns it; it is rewritten
+  tradition: judaism
+- id: quran-25-furqan-and-objections
+  title: The Criterion sent down; charges of forgery and the prophet who eats in markets
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who dictated and who wrote down a prophet's book
+  note: 'Who dictates to whom: in Jeremiah the prophet dictates and the scribe writes, wa-yyiktōv Bārûkh
+    mip-pî Yirmyāhû ... mip-pîw yiqrāʾ ʾēlay ... wa-ʾănî kōtēv ʿal has-sēfer bad-dəyô; in the opponents''
+    charge the prophet has old tales written down and they are dictated to him (iktatabahā fa-hiya tumlā
+    ʿalayhi bukratan wa-aṣīlan), with helpers (aʿānahu ʿalayhi qawmun ākharūn). The Quran rejects the
+    charge: it was sent down by the one who knows the secret (25:6).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 36:4
+      lang: he
+      text: וַיִּקְרָ֣א יִרְמְיָ֔הוּ אֶת בָּר֖וּךְ בֶּן נֵֽרִיָּ֑ה וַיִּכְתֹּ֨ב בָּר֜וּךְ מִפִּ֣י יִרְמְיָ֗הוּ
+        אֵ֣ת כָּל דִּבְרֵ֧י יְהוָ֛ה אֲשֶׁר דִּבֶּ֥ר אֵלָ֖יו עַל מְגִלַּת סֵֽפֶר
+    - ref: Jer 36:18
+      lang: he
+      text: וַיֹּ֤אמֶר לָהֶם֙ בָּר֔וּךְ מִפִּיו֙ יִקְרָ֣א אֵלַ֔י אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַאֲנִ֛י
+        כֹּתֵ֥ב עַל הַסֵּ֖פֶר בַּדְּיֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:4
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ إِفْكٌ ٱفْتَرَىٰهُ وَأَعَانَهُۥ عَلَيْهِ
+        قَوْمٌ ءَاخَرُونَ فَقَدْ جَآءُو ظُلْمًا وَزُورًا
+    - ref: Quran 25:5
+      lang: ar
+      text: وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا
 ---
 
 ## Questions

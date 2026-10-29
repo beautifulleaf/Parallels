@@ -2,8 +2,7 @@
 id: motif-hb-ps-76-salem-vs-quran-95-fig
 title: Psalm 76, God's lair in Salem where he broke the flaming arrows ↔ The fig and the olive, Mount
   Sinai and the secure city
-summary: 'These two units share 1 motifs: hero challenges god: shall the judge of all the earth not do
-  justice?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - judge-of-all-earth-must-be-just
-passages:
-- tradition: judaism
-  ref: Ps 76:9-10
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (from heaven you uttered
-    judgment; the earth feared and was still)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (76:9) מִ֭שָּׁמַיִם הִשְׁמַ֣עְתָּ דִּ֑ין אֶ֖רֶץ יָֽרְאָ֣ה וְשָׁקָֽטָה (76:10) בְּקוּם לַמִּשְׁפָּ֥ט
-    אֱלֹהִ֑ים לְהוֹשִׁ֖יעַ כָּל עַנְוֵי אֶ֣רֶץ סֶֽלָה
-- tradition: judaism
-  ref: Ps 76:9
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (from heaven you uttered
-    judgment; the earth feared and was still)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֭שָּׁמַיִם הִשְׁמַ֣עְתָּ דִּ֑ין אֶ֖רֶץ יָֽרְאָ֣ה וְשָׁקָֽטָה
-- tradition: islam
-  ref: Quran 95:8
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (''is God not the most
-    just of judges?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. aḥkamu l-ḥākimīn ~ mi-ššāmayim hišmaʿtā dîn ... be-qûm la-mmišpāṭ ʾĕlōhîm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
     (weight 6.0). Pair score 6.0.'
@@ -69,6 +45,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hero challenges God: shall the judge of all the earth not do justice?'
+kinds:
+- echo
+units:
+- id: hb-ps-76-salem
+  title: Psalm 76, God's lair in Salem where he broke the flaming arrows
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hero challenges God: shall the judge of all the earth not do justice?'
+  note: aḥkamu l-ḥākimīn ~ mi-ššāmayim hišmaʿtā dîn ... be-qûm la-mmišpāṭ ʾĕlōhîm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 76:9
+      lang: he
+      text: מִ֭שָּׁמַיִם הִשְׁמַ֣עְתָּ דִּ֑ין אֶ֖רֶץ יָֽרְאָ֣ה וְשָׁקָֽטָה
+    - ref: Ps 76:10
+      lang: he
+      text: בְּקוּם לַמִּשְׁפָּ֥ט אֱלֹהִ֑ים לְהוֹשִׁ֖יעַ כָּל עַנְוֵי אֶ֣רֶץ סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 95:8
+      lang: ar
+      text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-16-korah-vs-quran-7-calf
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ The lowing calf and the seventy
-summary: 'These two units share 1 motifs: intercessor asks: shall one man sin and you rage at the whole
-  community?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - collective-vs-individual-guilt
-passages:
-- tradition: judaism
-  ref: Num 16:22
-  note: 'Intercessor asks: shall one man sin and you rage at the whole community?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפְּל֤וּ עַל פְּנֵיהֶם֙ וַיֹּ֣אמְר֔וּ אֵ֕ל אֱלֹהֵ֥י הָרוּחֹ֖ת לְכָל בָּשָׂ֑ר הָאִ֤ישׁ אֶחָד֙
-    יֶחֱטָ֔א וְעַ֥ל כָּל הָעֵדָ֖ה תִּקְצֹֽף
-- tradition: islam
-  ref: Quran 7:155
-  note: 'Intercessor asks: shall one man sin and you rage at the whole community? (Intercession against
-    collective punishment: a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā vs hāʾîš ʾeḥād yeḥĕṭāʾ wᵉʿal kol-hāʿēdāh
-    tiqṣōp.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Intercession against collective punishment: a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā vs
-    hāʾîš ʾeḥād yeḥĕṭāʾ wᵉʿal kol-hāʿēdāh tiqṣōp.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercessor asks: shall one man sin and you rage at the whole community?
     (weight 6.3). Pair score 6.3.'
@@ -72,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Intercessor asks: shall one man sin and you rage at the whole community?'
+kinds:
+- parallel
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Intercessor asks: shall one man sin and you rage at the whole community?'
+  note: 'Intercession against collective punishment: a-tuhlikunā bi-mā faʿala s-sufahāʾu minnā vs hāʾîš
+    ʾeḥād yeḥĕṭāʾ wᵉʿal kol-hāʿēdāh tiqṣōp.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:22
+      lang: he
+      text: וַיִּפְּל֤וּ עַל פְּנֵיהֶם֙ וַיֹּ֣אמְר֔וּ אֵ֕ל אֱלֹהֵ֥י הָרוּחֹ֖ת לְכָל בָּשָׂ֑ר הָאִ֤ישׁ
+        אֶחָד֙ יֶחֱטָ֔א וְעַ֥ל כָּל הָעֵדָ֖ה תִּקְצֹֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-23-burden-of-yhwh-vs-quran-2-polemic-israel
 title: What is the burden of YHWH? ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: accusation that some people of the book distort (yuharrifuna)
-  god''s word after understanding it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - scripture-altered-tahrif
-passages:
-- tradition: judaism
-  ref: Jer 23:36
-  note: Accusation that some People of the Book distort (yuharrifuna) God's word after understanding it
-    (Jer 23:36 wa-hăpaktem ʾet dibrê ʾĕlōhîm ḥayyîm 'you have overturned the words of the living God';
-    Q 2:75 yasmaʿūna kalāma llāhi thumma yuḥarrifūnahu min baʿdi mā ʿaqalūhu 'they hear God's word, then
-    distort it after understanding it'. Twisting God's spoken word (dibrê ʾĕlōhîm / kalām allāh).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמַשָּׂ֥א יְהוָ֖ה לֹ֣א תִזְכְּרוּ ע֑וֹד כִּ֣י הַמַּשָּׂ֗א יִֽהְיֶה֙ לְאִ֣ישׁ דְּבָר֔וֹ וַהֲפַכְתֶּ֗ם
-    אֶת דִּבְרֵי֙ אֱלֹהִ֣ים חַיִּ֔ים יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵֽינוּ
-- tradition: islam
-  ref: Quran 2:75
-  note: Accusation that some People of the Book distort (yuharrifuna) God's word after understanding it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَٰمَ ٱللَّهِ
-    ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Jer 23:36 wa-hăpaktem ʾet dibrê ʾĕlōhîm ḥayyîm ''you have overturned the words of the living
-    God''; Q 2:75 yasmaʿūna kalāma llāhi thumma yuḥarrifūnahu min baʿdi mā ʿaqalūhu ''they hear God''s
-    word, then distort it after understanding it''. Twisting God''s spoken word (dibrê ʾĕlōhîm / kalām
-    allāh).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Accusation that some People of the Book distort (yuharrifuna) God''s
     word after understanding it (weight 5.8). Pair score 5.8.'
@@ -66,6 +44,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Accusation that some People of the Book distort (yuharrifuna) God's word after understanding
+  it
+kinds:
+- parallel
+units:
+- id: hb-jer-23-burden-of-yhwh
+  title: What is the burden of YHWH?
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: parallel
+  label: Accusation that some People of the Book distort (yuharrifuna) God's word after understanding
+    it
+  note: Jer 23:36 wa-hăpaktem ʾet dibrê ʾĕlōhîm ḥayyîm 'you have overturned the words of the living God';
+    Q 2:75 yasmaʿūna kalāma llāhi thumma yuḥarrifūnahu min baʿdi mā ʿaqalūhu 'they hear God's word, then
+    distort it after understanding it'. Twisting God's spoken word (dibrê ʾĕlōhîm / kalām allāh).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:36
+      lang: he
+      text: וּמַשָּׂ֥א יְהוָ֖ה לֹ֣א תִזְכְּרוּ ע֑וֹד כִּ֣י הַמַּשָּׂ֗א יִֽהְיֶה֙ לְאִ֣ישׁ דְּבָר֔וֹ וַהֲפַכְתֶּ֗ם
+        אֶת דִּבְרֵי֙ אֱלֹהִ֣ים חַיִּ֔ים יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:75
+      lang: ar
+      text: أَفَتَطْمَعُونَ أَن يُؤْمِنُوا۟ لَكُمْ وَقَدْ كَانَ فَرِيقٌ مِّنْهُمْ يَسْمَعُونَ كَلَٰمَ
+        ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعْدِ مَا عَقَلُوهُ وَهُمْ يَعْلَمُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-prov-26-fool-sayings-vs-quran-7-closing-recitation
 title: Sayings on the fool (the 'book of fools') ↔ Forbearance, refuge from Satan, and the prostration
   of the near ones
-summary: 'These two units share 1 motifs: contradictory pair: ''do not answer a fool according to his
-  folly'' / ''answer a fool according to his folly''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - answer-and-do-not-answer-fool
-passages:
-- tradition: judaism
-  ref: Prov 26:4
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּ֣עַן כְּ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּֽן תִּשְׁוֶה לּ֥וֹ גַם אָֽתָּה
-- tradition: judaism
-  ref: Prov 26:5
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲנֵ֣ה כְ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּן יִהְיֶ֖ה חָכָ֣ם בְּעֵינָֽיו
-- tradition: islam
-  ref: Quran 7:199
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'' (Advice not to engage the fool: wa-aʿriḍ ʿani l-jāhilīn vs ʾal-taʿan kᵉsîl kᵉʾiwwaltô
-    pen-tišweh-llô gam-ʾāttāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَٰهِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Advice not to engage the fool: wa-aʿriḍ ʿani l-jāhilīn vs ʾal-taʿan kᵉsîl kᵉʾiwwaltô pen-tišweh-llô
-    gam-ʾāttāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contradictory pair: ''Do not answer a fool according to his folly''
     / ''Answer a fool according to his folly'' (weight 6.3). Pair score 6.3.'
@@ -68,6 +43,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
+  to his folly'''
+kinds:
+- echo
+units:
+- id: hb-prov-26-fool-sayings
+  title: Sayings on the fool (the 'book of fools')
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
+    to his folly'''
+  note: 'Advice not to engage the fool: wa-aʿriḍ ʿani l-jāhilīn vs ʾal-taʿan kᵉsîl kᵉʾiwwaltô pen-tišweh-llô
+    gam-ʾāttāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 26:4
+      lang: he
+      text: אַל תַּ֣עַן כְּ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּֽן תִּשְׁוֶה לּ֥וֹ גַם אָֽתָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:199
+      lang: ar
+      text: خُذِ ٱلْعَفْوَ وَأْمُرْ بِٱلْعُرْفِ وَأَعْرِضْ عَنِ ٱلْجَٰهِلِينَ
 ---
 
 ## Questions

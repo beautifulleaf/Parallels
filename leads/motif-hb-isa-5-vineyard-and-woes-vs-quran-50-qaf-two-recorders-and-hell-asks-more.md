@@ -2,8 +2,7 @@
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Song of the vineyard; six woes; the nation from afar ↔ Nearer than the jugular vein; the two recorders;
   driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 2 motifs: sheol enlarges its appetite and opens its mouth without limit
-  to swallow the people, god asks gehenna ''are you full?'' and it answers ''are there any more?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,41 +16,9 @@ layers:
 motifs:
 - sheol-opens-its-throat
 - hell-asks-for-more
-passages:
-- tradition: judaism
-  ref: Isa 5:14
-  note: Sheol enlarges its appetite and opens its mouth without limit to swallow the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֗ן הִרְחִ֤יבָה שְּׁאוֹל֙ נַפְשָׁ֔הּ וּפָעֲרָ֥ה פִ֖יהָ לִבְלִי חֹ֑ק וְיָרַ֨ד הֲדָרָ֧הּ וַהֲמוֹנָ֛הּ
-    וּשְׁאוֹנָ֖הּ וְעָלֵ֥ז בָּֽהּ
-- tradition: islam
-  ref: Quran 50:30
-  note: Sheol enlarges its appetite and opens its mouth without limit to swallow the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
-- tradition: judaism
-  ref: Isa 5:14
-  note: 'God asks Gehenna ''Are you full?'' and it answers ''Are there any more?'' (The underworld''s
-    endless appetite: lāḵēn hirḥîḇâ šəʾôl nap̄šāh û-p̄āʿărâ p̄îhā li-ḇlî ḥōq vs. yawma naqūlu li-jahannama
-    hali mtalaʾti wa-taqūlu hal min mazīd. Isaiah''s Sheol opens its mouth for Jerusalem''s revellers;
-    the Quran''s Gehenna talks with God and asks for more.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֗ן הִרְחִ֤יבָה שְּׁאוֹל֙ נַפְשָׁ֔הּ וּפָעֲרָ֥ה פִ֖יהָ לִבְלִי חֹ֑ק וְיָרַ֨ד הֲדָרָ֧הּ וַהֲמוֹנָ֛הּ
-    וּשְׁאוֹנָ֖הּ וְעָלֵ֥ז בָּֽהּ
-- tradition: islam
-  ref: Quran 50:30
-  note: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The underworld''s endless appetite: lāḵēn hirḥîḇâ šəʾôl nap̄šāh û-p̄āʿărâ p̄îhā li-ḇlî ḥōq
-    vs. yawma naqūlu li-jahannama hali mtalaʾti wa-taqūlu hal min mazīd. Isaiah''s Sheol opens its mouth
-    for Jerusalem''s revellers; the Quran''s Gehenna talks with God and asks for more.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sheol enlarges its appetite and opens its mouth without limit to
     swallow the people (weight 6.7); God asks Gehenna ''Are you full?'' and it answers ''Are there any
@@ -92,6 +59,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: parallel
+  label: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
+  note: 'The underworld''s endless appetite: lāḵēn hirḥîḇâ šəʾôl nap̄šāh û-p̄āʿărâ p̄îhā li-ḇlî ḥōq vs.
+    yawma naqūlu li-jahannama hali mtalaʾti wa-taqūlu hal min mazīd. Isaiah''s Sheol opens its mouth for
+    Jerusalem''s revellers; the Quran''s Gehenna talks with God and asks for more.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:14
+      lang: he
+      text: לָכֵ֗ן הִרְחִ֤יבָה שְּׁאוֹל֙ נַפְשָׁ֔הּ וּפָעֲרָ֥ה פִ֖יהָ לִבְלִי חֹ֑ק וְיָרַ֨ד הֲדָרָ֧הּ
+        וַהֲמוֹנָ֛הּ וּשְׁאוֹנָ֖הּ וְעָלֵ֥ז בָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:30
+      lang: ar
+      text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
+- kind: shared
+  label: Sheol enlarges its appetite and opens its mouth without limit to swallow the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:14
+      lang: he
+      text: לָכֵ֗ן הִרְחִ֤יבָה שְּׁאוֹל֙ נַפְשָׁ֔הּ וּפָעֲרָ֥ה פִ֖יהָ לִבְלִי חֹ֑ק וְיָרַ֨ד הֲדָרָ֧הּ
+        וַהֲמוֹנָ֛הּ וּשְׁאוֹנָ֖הּ וְעָלֵ֥ז בָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:30
+      lang: ar
+      text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
 ---
 
 ## Questions

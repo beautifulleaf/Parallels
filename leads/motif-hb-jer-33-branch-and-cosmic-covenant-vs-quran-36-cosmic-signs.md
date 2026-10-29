@@ -2,7 +2,7 @@
 id: motif-hb-jer-33-branch-and-cosmic-covenant-vs-quran-36-cosmic-signs
 title: Healing of the city, the Righteous Branch and the covenant with day and night ↔ Signs of the dead
   earth, night, sun, moon and the laden ship
-summary: 'These two units share 1 motifs: sun and moon each swim in an orbit (falak).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - celestial-bodies-swim-in-orbit
-passages:
-- tradition: judaism
-  ref: Jer 33:20
-  note: 'Sun and moon each swim in an orbit (falak) (bərîṯî ha-yyôm wə-ʾeṯ-bərîṯî ha-llāyəlâ û-lə-ḇilttî
-    hĕyôṯ yômām wā-laylâ bə-ʿittām vs. wa-lā l-laylu sābiqu n-nahāri wa-kullun fī falakin yasbaḥūn: day
-    and night keep their fixed order. Jeremiah calls it a covenant that guarantees David''s line; the
-    Quran calls it a sign of God''s decree.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה אִם תָּפֵ֨רוּ֙ אֶת בְּרִיתִ֣י הַיּ֔וֹם וְאֶת בְּרִיתִ֖י הַלָּ֑יְלָה וּלְבִלְתִּ֛י
-    הֱי֥וֹת יֽוֹמָם וָלַ֖יְלָה בְּעִתָּֽם
-- tradition: islam
-  ref: Quran 36:40
-  note: Sun and moon each swim in an orbit (falak)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. bərîṯî ha-yyôm wə-ʾeṯ-bərîṯî ha-llāyəlâ û-lə-ḇilttî hĕyôṯ yômām wā-laylâ bə-ʿittām vs. wa-lā
-    l-laylu sābiqu n-nahāri wa-kullun fī falakin yasbaḥūn: day and night keep their fixed order. Jeremiah
-    calls it a covenant that guarantees David''s line; the Quran calls it a sign of God''s decree.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon each swim in an orbit (falak) (weight 6.0). Pair score
     6.0.'
@@ -72,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon each swim in an orbit (falak)
+kinds:
+- echo
+units:
+- id: hb-jer-33-branch-and-cosmic-covenant
+  title: Healing of the city, the Righteous Branch and the covenant with day and night
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon each swim in an orbit (falak)
+  note: 'bərîṯî ha-yyôm wə-ʾeṯ-bərîṯî ha-llāyəlâ û-lə-ḇilttî hĕyôṯ yômām wā-laylâ bə-ʿittām vs. wa-lā
+    l-laylu sābiqu n-nahāri wa-kullun fī falakin yasbaḥūn: day and night keep their fixed order. Jeremiah
+    calls it a covenant that guarantees David''s line; the Quran calls it a sign of God''s decree.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 33:20
+      lang: he
+      text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה אִם תָּפֵ֨רוּ֙ אֶת בְּרִיתִ֣י הַיּ֔וֹם וְאֶת בְּרִיתִ֖י הַלָּ֑יְלָה וּלְבִלְתִּ֛י
+        הֱי֥וֹת יֽוֹמָם וָלַ֖יְלָה בְּעִתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 36:40
+      lang: ar
+      text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+        فِى فَلَكٍ يَسْبَحُونَ
 ---
 
 ## Questions

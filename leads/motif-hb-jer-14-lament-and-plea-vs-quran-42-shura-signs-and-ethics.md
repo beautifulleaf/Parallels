@@ -2,8 +2,7 @@
 id: motif-hb-jer-14-lament-and-plea-vs-quran-42-shura-signs-and-ethics
 title: Let my eyes run with tears; do not spurn us ↔ Provision in measure, rain, ships like mountains
   and the ethics of consultation and pardon
-summary: 'These two units share 1 motifs: god sends down rain after people have despaired and spreads
-  out his mercy.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - rain-after-despair
-passages:
-- tradition: judaism
-  ref: Jer 14:22
-  note: 'God sends down rain after people have despaired and spreads out his mercy (Only God gives rain:
-    hă-yēš bə-haḇlê hag-gôyim magšimîm ... hă-lōʾ ʾattâ hûʾ YHWH ʾĕlōhênû û-nəqawweh lāḵ vs. wa-huwa lladhī
-    yunazzilu l-ghayitha min baʿdi mā qanaṭū. Jeremiah''s people wait (nəqawweh) in drought; the Quran''s
-    rain comes after they have despaired (qanaṭū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגּוֹיִם֙ מַגְשִׁמִ֔ים וְאִם הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א אַתָּה
-    ה֜וּא יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ וּ֨נְקַוֶּה לָּ֔ךְ כִּֽי אַתָּ֥ה עָשִׂ֖יתָ אֶת כָּל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 42:28
-  note: God sends down rain after people have despaired and spreads out his mercy
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ وَهُوَ ٱلْوَلِىُّ
-    ٱلْحَمِيدُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Only God gives rain: hă-yēš bə-haḇlê hag-gôyim magšimîm ... hă-lōʾ ʾattâ hûʾ YHWH ʾĕlōhênû û-nəqawweh
-    lāḵ vs. wa-huwa lladhī yunazzilu l-ghayitha min baʿdi mā qanaṭū. Jeremiah''s people wait (nəqawweh)
-    in drought; the Quran''s rain comes after they have despaired (qanaṭū).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends down rain after people have despaired and spreads out
     his mercy (weight 6.7). Pair score 6.7.'
@@ -69,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends down rain after people have despaired and spreads out his mercy
+kinds:
+- echo
+units:
+- id: hb-jer-14-lament-and-plea
+  title: Let my eyes run with tears; do not spurn us
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: echo
+  label: God sends down rain after people have despaired and spreads out his mercy
+  note: 'Only God gives rain: hă-yēš bə-haḇlê hag-gôyim magšimîm ... hă-lōʾ ʾattâ hûʾ YHWH ʾĕlōhênû û-nəqawweh
+    lāḵ vs. wa-huwa lladhī yunazzilu l-ghayitha min baʿdi mā qanaṭū. Jeremiah''s people wait (nəqawweh)
+    in drought; the Quran''s rain comes after they have despaired (qanaṭū).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 14:22
+      lang: he
+      text: הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגּוֹיִם֙ מַגְשִׁמִ֔ים וְאִם הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א
+        אַתָּה ה֜וּא יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ וּ֨נְקַוֶּה לָּ֔ךְ כִּֽי אַתָּ֥ה עָשִׂ֖יתָ אֶת כָּל אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 42:28
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُنَزِّلُ ٱلْغَيْثَ مِنۢ بَعْدِ مَا قَنَطُوا۟ وَيَنشُرُ رَحْمَتَهُۥ وَهُوَ
+        ٱلْوَلِىُّ ٱلْحَمِيدُ
 ---
 
 ## Questions

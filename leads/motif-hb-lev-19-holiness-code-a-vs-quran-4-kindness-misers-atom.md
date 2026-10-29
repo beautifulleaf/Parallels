@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-19-holiness-code-a-vs-quran-4-kindness-misers-atom
 title: Be holy - ethical laws and love of neighbor ↔ The circle of kindness, misers, and the atom's weight
-summary: 'These two units share 1 motifs: love your neighbor as yourself.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - love-neighbor-as-yourself
-passages:
-- tradition: judaism
-  ref: Lev 19:18
-  note: Love your neighbor as yourself
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִקֹּ֤ם וְלֹֽא תִטֹּר֙ אֶת בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י יְהוָֽה
-- tradition: judaism
-  ref: Lev 19:3
-  note: Love your neighbor as yourself
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 4:36
-  note: Love your neighbor as yourself (the neighbor-who-is-kin and the stranger-neighbor (al-jār al-junub))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ
-    وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Lev 19:3-4, 18 ʾîš ʾimmô wĕ-ʾābîw tîrāʾû ... ʾal tipnû ʾel hā-ʾĕlîlîm ... wĕ-ʾāhabtā lĕ-rēʿăkā
-    kāmôkā: revere parents, no idols, love your neighbour; Q 4:36 wa-ʿbudū llāha wa-lā tushrikū bihi shayʾan
-    wa-bi-l-wālidayni iḥsānan ... wa-l-jāri dhī l-qurbā wa-l-jāri l-junubi: worship God alone, be good
-    to parents, to the neighbour who is kin and the neighbour who is a stranger. Same sequence (God, parents,
-    neighbour); the Quran spells out the circles of the neighbour.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Love your neighbor as yourself (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -72,6 +47,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Love your neighbor as yourself
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: parallel
+  label: Love your neighbor as yourself
+  note: 'Lev 19:3-4, 18 ʾîš ʾimmô wĕ-ʾābîw tîrāʾû ... ʾal tipnû ʾel hā-ʾĕlîlîm ... wĕ-ʾāhabtā lĕ-rēʿăkā
+    kāmôkā: revere parents, no idols, love your neighbour; Q 4:36 wa-ʿbudū llāha wa-lā tushrikū bihi shayʾan
+    wa-bi-l-wālidayni iḥsānan ... wa-l-jāri dhī l-qurbā wa-l-jāri l-junubi: worship God alone, be good
+    to parents, to the neighbour who is kin and the neighbour who is a stranger. Same sequence (God, parents,
+    neighbour); the Quran spells out the circles of the neighbour.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:3
+      lang: he
+      text: אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+    - ref: Lev 19:4
+      lang: he
+      text: אַל תִּפְנוּ֙ אֶל הָ֣אֱלִילִ֔ים וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהוָ֥ה
+        אֱלֹהֵיכֶֽם
+    - ref: Lev 19:18
+      lang: he
+      text: לֹֽא תִקֹּ֤ם וְלֹֽא תִטֹּר֙ אֶת בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:36
+      lang: ar
+      text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ
+        بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ
+        مُخْتَالًا فَخُورًا
 ---
 
 ## Questions

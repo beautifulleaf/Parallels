@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-44-dukhan-pharaoh-drowned
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Moses asks Pharaoh to hand over God's
   servants; the sea left parted; heaven did not weep
-summary: 'These two units share 2 motifs: the people walk on dry ground through the sea with the waters
-  as a wall on either side, the returning waters drown the pursuing army; not one survives.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,32 +16,7 @@ layers:
 motifs:
 - walk-on-dry-ground-waters-as-walls
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:13
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (va-yatsev
-    mayim kemo ned, waters stood like a heap)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
-- tradition: islam
-  ref: Quran 44:24
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 44:24
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
     a wall on either side (weight 5.3); The returning waters drown the pursuing army; not one survives
@@ -80,6 +54,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people walk on dry ground through the sea with the waters as a wall on either side
+kinds:
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: shared
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:13
+      lang: he
+      text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
+    note: va-yatsev mayim kemo ned, waters stood like a heap
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-hos-12-jacob-vs-quran-83-defrauders
 title: 'Jacob''s story as indictment; Canaan''s false scales ↔ The defrauders: Sijjin and ''Illiyyun'
-summary: 'These two units share 1 motifs: a merchant (canaan) with false scales in his hand loves to oppress.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - merchant-with-false-scales
-passages:
-- tradition: judaism
-  ref: Hos 12:8-9
-  note: A merchant (Canaan) with false scales in his hand loves to oppress
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (12:8) כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב (12:9) וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ
-    עָשַׁ֔רְתִּי מָצָ֥אתִי א֖וֹן לִ֑י כָּל יְגִיעַ֕י לֹ֥א יִמְצְאוּ לִ֖י עָוֺ֥ן אֲשֶׁר חֵֽטְא
-- tradition: judaism
-  ref: Hos 12:8
-  note: A merchant (Canaan) with false scales in his hand loves to oppress
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב
-- tradition: islam
-  ref: Quran 83:3
-  note: A merchant (Canaan) with false scales in his hand loves to oppress
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-idhā kālūhum aw wazanūhum yukhsirūn ~ Kenaʿan be-yādô môʾzenê mirmāh laʿăšōq ʾāhēv.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A merchant (Canaan) with false scales in his hand loves to oppress
     (weight 6.7). Pair score 6.7.'
@@ -70,6 +50,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A merchant (Canaan) with false scales in his hand loves to oppress
+kinds:
+- echo
+units:
+- id: hb-hos-12-jacob
+  title: Jacob's story as indictment; Canaan's false scales
+  tradition: judaism
+- id: quran-83-defrauders
+  title: 'The defrauders: Sijjin and ''Illiyyun'
+  tradition: islam
+matches:
+- kind: echo
+  label: A merchant (Canaan) with false scales in his hand loves to oppress
+  note: wa-idhā kālūhum aw wazanūhum yukhsirūn ~ Kenaʿan be-yādô môʾzenê mirmāh laʿăšōq ʾāhēv.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 12:8
+      lang: he
+      text: כְּנַ֗עַן בְּיָד֛וֹ מֹאזְנֵ֥י מִרְמָ֖ה לַעֲשֹׁ֥ק אָהֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 83:3
+      lang: ar
+      text: وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ
 ---
 
 ## Questions

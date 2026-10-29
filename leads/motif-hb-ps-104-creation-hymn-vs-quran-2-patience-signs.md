@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-2-patience-signs
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Patience, Safa and Marwa,
   signs of creation
-summary: 'These two units share 3 motifs: ships go to and fro on the great sea, catalogue of signs: heavens
-  and earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds, clouds, rain
-  from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -19,88 +17,9 @@ motifs:
 - ships-on-the-sea
 - signs-in-creation-catalogue
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:25-26
-  note: Ships go to and fro on the great sea
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (104:25) זֶ֤ה הַיָּ֥ם גָּדוֹל֮ וּרְחַ֪ב יָ֫דָ֥יִם שָֽׁם רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר חַיּ֥וֹת קְ֝טַנּ֗וֹת
-    עִם גְּדֹלֽוֹת (104:26) שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן לִ֝וְיָתָ֗ן זֶֽה יָצַ֥רְתָּ לְשַֽׂחֶק בּֽוֹ
-- tradition: islam
-  ref: Quran 2:164
-  note: Ships go to and fro on the great sea
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى
-    تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ
-    ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Same inventory in nearly the same order: heavens, waters and clouds
-    (Ps 104:3 ha-śśām ʿābîm rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night
-    (104:19-20 tāšet ḥōšek wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships
-    (104:26 šām ʾŏniyyôt yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri
-    wa-l-fulki llatī tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli
-    dābbatin wa-taṣrīfi r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents
-    the list as signs for those who reason (la-āyātin li-qawmin yaʿqilūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:13
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Same inventory in nearly the same order: heavens, waters and clouds
-    (Ps 104:3 ha-śśām ʿābîm rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night
-    (104:19-20 tāšet ḥōšek wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships
-    (104:26 šām ʾŏniyyôt yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri
-    wa-l-fulki llatī tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli
-    dābbatin wa-taṣrīfi r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents
-    the list as signs for those who reason (la-āyātin li-qawmin yaʿqilūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:164
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى
-    تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ
-    ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 2:164
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى
-    تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ
-    ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo, parallel. Same inventory in nearly the same order: heavens, waters and clouds (Ps 104:3 ha-śśām
-    ʿābîm rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night (104:19-20 tāšet
-    ḥōšek wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships (104:26 šām ʾŏniyyôt
-    yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri wa-l-fulki llatī
-    tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli dābbatin wa-taṣrīfi
-    r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents the list as signs
-    for those who reason (la-āyātin li-qawmin yaʿqilūn). Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš
-    pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā:
-    the earth renewed by God''s spirit vs revived by rain after its death.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ships go to and fro on the great sea (weight 6.3); Catalogue of
     signs: heavens and earth, alternation of night and day, ships, rain reviving dead earth, beasts, winds,
@@ -136,6 +55,88 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+  earth, beasts, winds, clouds'
+kinds:
+- parallel
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+    earth, beasts, winds, clouds'
+  note: 'Same inventory in nearly the same order: heavens, waters and clouds (Ps 104:3 ha-śśām ʿābîm rĕkûbô),
+    rain watering the earth (104:13), moon and sun, darkness and night (104:19-20 tāšet ḥōšek wî-hî lāylâ),
+    the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships (104:26 šām ʾŏniyyôt yĕhallēkûn); Q 2:164
+    khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri wa-l-fulki llatī tajrī fī l-baḥri ...
+    min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli dābbatin wa-taṣrīfi r-riyāḥi wa-s-saḥāb.
+    The psalm praises (mah rabbû maʿăśêkā); the Quran presents the list as signs for those who reason
+    (la-āyātin li-qawmin yaʿqilūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:164
+      lang: ar
+      text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ
+        ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن
+        مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+        ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+- kind: echo
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+    s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+    by rain after its death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:164
+      lang: ar
+      text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ
+        ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن
+        مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+        ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+- kind: shared
+  label: Ships go to and fro on the great sea
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:25-26
+      lang: he
+      text: (104:25) זֶ֤ה הַיָּ֥ם גָּדוֹל֮ וּרְחַ֪ב יָ֫דָ֥יִם שָֽׁם רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר חַיּ֥וֹת
+        קְ֝טַנּ֗וֹת עִם גְּדֹלֽוֹת (104:26) שָׁ֭ם אֳנִיּ֣וֹת יְהַלֵּכ֑וּן לִ֝וְיָתָ֗ן זֶֽה יָצַ֥רְתָּ
+        לְשַֽׂחֶק בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:164
+      lang: ar
+      text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ
+        ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن
+        مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+        ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

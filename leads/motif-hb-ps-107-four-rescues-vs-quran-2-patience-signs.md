@@ -2,7 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-2-patience-signs
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Patience, Safa
   and Marwa, signs of creation
-summary: 'These two units share 1 motifs: ships go to and fro on the great sea.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - ships-on-the-sea
-passages:
-- tradition: judaism
-  ref: Ps 107:23
-  note: Ships go to and fro on the great sea
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
-- tradition: islam
-  ref: Quran 2:164
-  note: Ships go to and fro on the great sea
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى
-    تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ
-    ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 107:23 yôrĕdê ha-yyām bā-ʾŏniyyôt ʿōśê mĕlāʾkâ bĕ-mayim rabbîm: seafarers doing business
-    on great waters; Q 2:164 wa-l-fulki llatī tajrī fī l-baḥri bi-mā yanfaʿu n-nās: ships running on the
-    sea with what profits people.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ships go to and fro on the great sea (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -71,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ships go to and fro on the great sea
+kinds:
+- echo
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: echo
+  label: Ships go to and fro on the great sea
+  note: 'Ps 107:23 yôrĕdê ha-yyām bā-ʾŏniyyôt ʿōśê mĕlāʾkâ bĕ-mayim rabbîm: seafarers doing business on
+    great waters; Q 2:164 wa-l-fulki llatī tajrī fī l-baḥri bi-mā yanfaʿu n-nās: ships running on the
+    sea with what profits people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:23
+      lang: he
+      text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:164
+      lang: ar
+      text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ
+        ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن
+        مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+        ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-9-baraa-treaties
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ The disavowal - treaties,
   sacred months and asylum
-summary: 'These two units share 1 motifs: three annual pilgrimage festivals when every male appears before
-  god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 23:14-17
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת
-    יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ
-    מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר
-    תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה
-    (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: judaism
-  ref: Exod 23:14
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
-- tradition: islam
-  ref: Quran 9:3
-  note: 'Three annual pilgrimage festivals when every male appears before God (The pilgrimage feast as
-    the public occasion, with cognate words: yawma l-ḥajji l-akbari (ḥajj) vs šālōš rᵉgālîm tāḥōg lî;
-    ḥag hammaṣṣôt ... ḥag hāʾāsip (ḥgg). Q singles out ''the greatest pilgrimage'' as the day to proclaim
-    the disavowal; Exod lists three.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ
-    بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ وَرَسُولُهُۥ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَوَلَّيْتُمْ
-    فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The pilgrimage feast as the public occasion, with cognate words: yawma l-ḥajji l-akbari (ḥajj)
-    vs šālōš rᵉgālîm tāḥōg lî; ḥag hammaṣṣôt ... ḥag hāʾāsip (ḥgg). Q singles out ''the greatest pilgrimage''
-    as the day to proclaim the disavowal; Exod lists three.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Three annual pilgrimage festivals when every male appears before
     God (weight 5.3). Pair score 5.3.'
@@ -81,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Three annual pilgrimage festivals when every male appears before God
+kinds:
+- echo
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-9-baraa-treaties
+  title: The disavowal - treaties, sacred months and asylum
+  tradition: islam
+matches:
+- kind: echo
+  label: Three annual pilgrimage festivals when every male appears before God
+  note: 'The pilgrimage feast as the public occasion, with cognate words: yawma l-ḥajji l-akbari (ḥajj)
+    vs šālōš rᵉgālîm tāḥōg lî; ḥag hammaṣṣôt ... ḥag hāʾāsip (ḥgg). Q singles out ''the greatest pilgrimage''
+    as the day to proclaim the disavowal; Exod lists three.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:14
+      lang: he
+      text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:3
+      lang: ar
+      text: وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ
+        بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ وَرَسُولُهُۥ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَوَلَّيْتُمْ
+        فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-ps-132-davids-oath-ark-vs-quran-27-israel-beast-trumpet
 title: Psalm 132, David's vow, the ark and the oath to David ↔ The Quran and Israel's disputes; the beast
   of the earth, the trumpet and the sacred town
-summary: 'These two units share 1 motifs: the city god chose or made sacred [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - gods-chosen-sacred-city-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 132:13
-  note: 'The city God chose or made sacred [divergence between the texts] (God''s chosen city: kî vāḥar
-    YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba hādhihi l-baldati lladhī ḥarramahā
-    wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm it is Zion, God''s dwelling; in
-    the Quran it is Mecca, unnamed (''this town''), which God made sacred but does not dwell in, for ''everything
-    is his''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי בָחַ֣ר יְהוָ֣ה בְּצִיּ֑וֹן אִ֝וָּ֗הּ לְמוֹשָׁ֥ב לֽוֹ
-- tradition: judaism
-  ref: Ps 132:14
-  note: 'The city God chose or made sacred [divergence between the texts] (God''s chosen city: kî vāḥar
-    YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba hādhihi l-baldati lladhī ḥarramahā
-    wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm it is Zion, God''s dwelling; in
-    the Quran it is Mecca, unnamed (''this town''), which God made sacred but does not dwell in, for ''everything
-    is his''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹאת מְנוּחָתִ֥י עֲדֵי עַ֑ד פֹּֽה אֵ֝שֵׁ֗ב כִּ֣י אִוִּתִֽיהָ
-- tradition: islam
-  ref: Quran 27:91
-  note: 'The city God chose or made sacred [divergence between the texts] (God''s chosen city: kî vāḥar
-    YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba hādhihi l-baldati lladhī ḥarramahā
-    wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm it is Zion, God''s dwelling; in
-    the Quran it is Mecca, unnamed (''this town''), which God made sacred but does not dwell in, for ''everything
-    is his''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ ٱلْبَلْدَةِ ٱلَّذِى حَرَّمَهَا وَلَهُۥ كُلُّ شَىْءٍ
-    وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. God''s chosen city: kî vāḥar YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda
-    rabba hādhihi l-baldati lladhī ḥarramahā wa-lahu kullu shayʾin: the Lord tied to a sacred town. In
-    the Psalm it is Zion, God''s dwelling; in the Quran it is Mecca, unnamed (''this town''), which God
-    made sacred but does not dwell in, for ''everything is his''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The city God chose or made sacred [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -85,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The city God chose or made sacred
+kinds:
+- divergence
+units:
+- id: hb-ps-132-davids-oath-ark
+  title: Psalm 132, David's vow, the ark and the oath to David
+  tradition: judaism
+- id: quran-27-israel-beast-trumpet
+  title: The Quran and Israel's disputes; the beast of the earth, the trumpet and the sacred town
+  tradition: islam
+matches:
+- kind: divergence
+  label: The city God chose or made sacred
+  note: 'God''s chosen city: kî vāḥar YHWH bə-Ṣiyyôn ʾiwwāh lə-môšāv lô ~ innamā umirtu an aʿbuda rabba
+    hādhihi l-baldati lladhī ḥarramahā wa-lahu kullu shayʾin: the Lord tied to a sacred town. In the Psalm
+    it is Zion, God''s dwelling; in the Quran it is Mecca, unnamed (''this town''), which God made sacred
+    but does not dwell in, for ''everything is his''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 132:13
+      lang: he
+      text: כִּֽי בָחַ֣ר יְהוָ֣ה בְּצִיּ֑וֹן אִ֝וָּ֗הּ לְמוֹשָׁ֥ב לֽוֹ
+    - ref: Ps 132:14
+      lang: he
+      text: זֹאת מְנוּחָתִ֥י עֲדֵי עַ֑ד פֹּֽה אֵ֝שֵׁ֗ב כִּ֣י אִוִּתִֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:91
+      lang: ar
+      text: إِنَّمَآ أُمِرْتُ أَنْ أَعْبُدَ رَبَّ هَٰذِهِ ٱلْبَلْدَةِ ٱلَّذِى حَرَّمَهَا وَلَهُۥ كُلُّ
+        شَىْءٍ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

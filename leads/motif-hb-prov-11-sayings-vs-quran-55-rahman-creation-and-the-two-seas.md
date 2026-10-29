@@ -2,7 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Sayings on honest scales, generosity and the fate of the wicked ↔ Al-Rahman: the Merciful taught
   the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,24 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 11:1
-  note: Honest balances, weights, ephah and hin are commanded (false balances are an abomination; a full
-    stone (even shelemah) his delight)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
-- tradition: islam
-  ref: Quran 55:9
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. mōʾzənê mirmâ tôʿăḇaṯ YHWH wə-ʾeḇen šəlēmâ rəṣônô vs. wa-aqīmū l-wazna bi-l-qisṭi wa-lā
-    tukhsirū l-mīzān (balance: mōʾzənayim / mīzān).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -72,6 +57,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'mōʾzənê mirmâ tôʿăḇaṯ YHWH wə-ʾeḇen šəlēmâ rəṣônô vs. wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū
+    l-mīzān (balance: mōʾzənayim / mīzān).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:1
+      lang: he
+      text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:9
+      lang: ar
+      text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
 ---
 
 ## Questions

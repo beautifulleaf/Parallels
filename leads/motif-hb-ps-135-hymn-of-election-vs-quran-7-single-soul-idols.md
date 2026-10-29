@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-7-single-soul-idols
 title: Psalm 135, hymn on God's power, election and the idols ↔ The single soul, the couple's vow, and
   powerless idols
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +15,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 135:15-17
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (135:15) עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (135:16) פֶּֽה לָ֭הֶם
-    וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (135:17) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ
-    אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
-- tradition: judaism
-  ref: Ps 135:16
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: islam
-  ref: Quran 7:195
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
-    يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
-    فَلَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 7:198
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yaʾăzînû vs am lahum aʿyunun yubṣirūna bihā
-    am lahum ādhānun yasmaʿūna bihā.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -83,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- parallel
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yaʾăzînû vs am lahum aʿyunun yubṣirūna bihā am
+    lahum ādhānun yasmaʿūna bihā.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:16
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 135:17
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:195
+      lang: ar
+      text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
+        يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
+        فَلَا تُنظِرُونِ
 ---
 
 ## Questions

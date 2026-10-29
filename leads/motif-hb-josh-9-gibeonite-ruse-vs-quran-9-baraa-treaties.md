@@ -1,7 +1,7 @@
 ---
 id: motif-hb-josh-9-gibeonite-ruse-vs-quran-9-baraa-treaties
 title: The Gibeonites trick Israel into a treaty ↔ The disavowal - treaties, sacred months and asylum
-summary: 'These two units share 1 motifs: treaties with those who kept them are honored until their term.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,50 +14,9 @@ layers:
 - motif
 motifs:
 - honor-treaty-until-its-term
-passages:
-- tradition: judaism
-  ref: Josh 9:19
-  note: 'Treaties with those who kept them are honored until their term (A sworn pact with a people otherwise
-    marked for war is kept: illā lladhīna ʿāhadtum mina l-mushrikīna thumma lam yanquṣūkum shayʾan ...
-    fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh
-    ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath holds although it was obtained by deceit; in Q only
-    while the partner stays faithful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֤וּ כָל הַנְּשִׂיאִים֙ אֶל כָּל הָ֣עֵדָ֔ה אֲנַ֨חְנוּ֙ נִשְׁבַּ֣עְנוּ לָהֶ֔ם בַּֽיהוָ֖ה
-    אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְעַתָּ֕ה לֹ֥א נוּכַ֖ל לִנְגֹּ֥עַ בָּהֶֽם
-- tradition: judaism
-  ref: Josh 9:20
-  note: 'Treaties with those who kept them are honored until their term (A sworn pact with a people otherwise
-    marked for war is kept: illā lladhīna ʿāhadtum mina l-mushrikīna thumma lam yanquṣūkum shayʾan ...
-    fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh
-    ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath holds although it was obtained by deceit; in Q only
-    while the partner stays faithful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹ֛את נַעֲשֶׂ֥ה לָהֶ֖ם וְהַחֲיֵ֣ה אוֹתָ֑ם וְלֹֽא יִֽהְיֶ֤ה עָלֵ֨ינוּ֙ קֶ֔צֶף עַל הַשְּׁבוּעָ֖ה
-    אֲשֶׁר נִשְׁבַּ֥עְנוּ לָהֶֽם
-- tradition: islam
-  ref: Quran 9:4
-  note: Treaties with those who kept them are honored until their term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟
-    عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ
-- tradition: islam
-  ref: Quran 9:7
-  note: Treaties with those who kept them are honored until their term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ
-    عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ
-    ٱلْمُتَّقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. A sworn pact with a people otherwise marked for war is kept: illā lladhīna ʿāhadtum mina
-    l-mushrikīna thumma lam yanquṣūkum shayʾan ... fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem
-    baYHWH ... lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath
-    holds although it was obtained by deceit; in Q only while the partner stays faithful.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Treaties with those who kept them are honored until their term (weight
     6.7). Pair score 6.7.'
@@ -89,6 +48,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Treaties with those who kept them are honored until their term
+kinds:
+- parallel
+units:
+- id: hb-josh-9-gibeonite-ruse
+  title: The Gibeonites trick Israel into a treaty
+  tradition: judaism
+- id: quran-9-baraa-treaties
+  title: The disavowal - treaties, sacred months and asylum
+  tradition: islam
+matches:
+- kind: parallel
+  label: Treaties with those who kept them are honored until their term
+  note: 'A sworn pact with a people otherwise marked for war is kept: illā lladhīna ʿāhadtum mina l-mushrikīna
+    thumma lam yanquṣūkum shayʾan ... fa-atimmū ilayhim ʿahdahum vs ʾănaḥnû nišbaʿnû lāhem baYHWH ...
+    lōʾ nûkal lingōaʿ bāhem ... wᵉlōʾ-yihyeh ʿālênû qeṣep ʿal-haššᵉbûʿāh. In Josh the oath holds although
+    it was obtained by deceit; in Q only while the partner stays faithful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 9:19
+      lang: he
+      text: וַיֹּאמְר֤וּ כָל הַנְּשִׂיאִים֙ אֶל כָּל הָ֣עֵדָ֔ה אֲנַ֨חְנוּ֙ נִשְׁבַּ֣עְנוּ לָהֶ֔ם בַּֽיהוָ֖ה
+        אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְעַתָּ֕ה לֹ֥א נוּכַ֖ל לִנְגֹּ֥עַ בָּהֶֽם
+    - ref: Josh 9:20
+      lang: he
+      text: זֹ֛את נַעֲשֶׂ֥ה לָהֶ֖ם וְהַחֲיֵ֣ה אוֹתָ֑ם וְלֹֽא יִֽהְיֶ֤ה עָלֵ֨ינוּ֙ קֶ֔צֶף עַל הַשְּׁבוּעָ֖ה
+        אֲשֶׁר נִשְׁבַּ֥עְנוּ לָהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:4
+      lang: ar
+      text: إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَٰهِرُوا۟
+        عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ إِنَّ ٱللَّهَ يُحِبُّ
+        ٱلْمُتَّقِينَ
+    - ref: Quran 9:7
+      lang: ar
+      text: كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَٰهَدتُّمْ
+        عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ فَمَا ٱسْتَقَٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ إِنَّ ٱللَّهَ يُحِبُّ
+        ٱلْمُتَّقِينَ
 ---
 
 ## Questions

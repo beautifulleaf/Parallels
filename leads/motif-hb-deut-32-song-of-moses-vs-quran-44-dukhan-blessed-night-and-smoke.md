@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'The Song of Moses (Ha''azinu) ↔ Ha-Mim: the blessed night and the day of the smoke'
-summary: 'These two units share 1 motifs: god kills and makes alive, brings down to sheol and raises up.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - god-kills-and-makes-alive
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: 'God kills and makes alive, brings down to Sheol and raises up (Sole godhead joined to power over
-    life and death: ʾănî ʾănî hûʾ wə-ʾên ʾĕlōhîm ʿimmāḏî ʾănî ʾāmîṯ wa-ʾăḥayyeh vs. lā ilāha illā huwa
-    yuḥyī wa-yumītu. God speaks in the first person in Deuteronomy, the creed is in the third person in
-    the Quran; the order of the verbs is reversed (kill/make alive vs. give life/give death).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 44:8
-  note: 'God kills and makes alive, brings down to Sheol and raises up (Sole godhead joined to power over
-    life and death: ʾănî ʾănî hûʾ wə-ʾên ʾĕlōhîm ʿimmāḏî ʾănî ʾāmîṯ wa-ʾăḥayyeh vs. lā ilāha illā huwa
-    yuḥyī wa-yumītu. God speaks in the first person in Deuteronomy, the creed is in the third person in
-    the Quran; the order of the verbs is reversed (kill/make alive vs. give life/give death).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Sole godhead joined to power over life and death: ʾănî ʾănî hûʾ wə-ʾên ʾĕlōhîm ʿimmāḏî ʾănî
-    ʾāmîṯ wa-ʾăḥayyeh vs. lā ilāha illā huwa yuḥyī wa-yumītu. God speaks in the first person in Deuteronomy,
-    the creed is in the third person in the Quran; the order of the verbs is reversed (kill/make alive
-    vs. give life/give death).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God kills and makes alive, brings down to Sheol and raises up (weight
     5.8). Pair score 5.8.'
@@ -72,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God kills and makes alive, brings down to Sheol and raises up
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God kills and makes alive, brings down to Sheol and raises up
+  note: 'Sole godhead joined to power over life and death: ʾănî ʾănî hûʾ wə-ʾên ʾĕlōhîm ʿimmāḏî ʾănî ʾāmîṯ
+    wa-ʾăḥayyeh vs. lā ilāha illā huwa yuḥyī wa-yumītu. God speaks in the first person in Deuteronomy,
+    the creed is in the third person in the Quran; the order of the verbs is reversed (kill/make alive
+    vs. give life/give death).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 44:8
+      lang: ar
+      text: لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

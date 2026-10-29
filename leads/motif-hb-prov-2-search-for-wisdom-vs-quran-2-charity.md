@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-2-search-for-wisdom-vs-quran-2-charity
 title: Proverbs 2, seeking wisdom as treasure; the strange woman ↔ Parables of charity
-summary: 'These two units share 1 motifs: god gives wisdom to whom he wills; whoever is given wisdom is
-  given much good.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - wisdom-given-to-whom-god-wills
-passages:
-- tradition: judaism
-  ref: Prov 2:6
-  note: 'God gives wisdom to whom he wills; whoever is given wisdom is given much good (Prov 2:6 kî YHWH
-    yittēn ḥokmâ mi-ppîw daʿat û-tĕbûnâ; Q 2:269 yuʾtī l-ḥikmata man yashāʾu wa-man yuʾta l-ḥikmata fa-qad
-    ūtiya khayran kathīran: God gives wisdom (ḥokmâ / ḥikma, cognate). Proverbs: to those who seek it
-    (2:4); the Quran: to whom he wills.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יְ֭הוָה יִתֵּ֣ן חָכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה
-- tradition: islam
-  ref: Quran 2:269
-  note: God gives wisdom to whom he wills; whoever is given wisdom is given much good
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا وَمَا
-    يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 2:6 kî YHWH yittēn ḥokmâ mi-ppîw daʿat û-tĕbûnâ; Q 2:269 yuʾtī l-ḥikmata man yashāʾu
-    wa-man yuʾta l-ḥikmata fa-qad ūtiya khayran kathīran: God gives wisdom (ḥokmâ / ḥikma, cognate). Proverbs:
-    to those who seek it (2:4); the Quran: to whom he wills.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gives wisdom to whom he wills; whoever is given wisdom is given
     much good (weight 6.7). Pair score 6.7.'
@@ -69,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gives wisdom to whom he wills; whoever is given wisdom is given much good
+kinds:
+- parallel
+units:
+- id: hb-prov-2-search-for-wisdom
+  title: Proverbs 2, seeking wisdom as treasure; the strange woman
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: parallel
+  label: God gives wisdom to whom he wills; whoever is given wisdom is given much good
+  note: 'Prov 2:6 kî YHWH yittēn ḥokmâ mi-ppîw daʿat û-tĕbûnâ; Q 2:269 yuʾtī l-ḥikmata man yashāʾu wa-man
+    yuʾta l-ḥikmata fa-qad ūtiya khayran kathīran: God gives wisdom (ḥokmâ / ḥikma, cognate). Proverbs:
+    to those who seek it (2:4); the Quran: to whom he wills.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 2:6
+      lang: he
+      text: כִּֽי יְ֭הוָה יִתֵּ֣ן חָכְמָ֑ה מִ֝פִּ֗יו דַּ֣עַת וּתְבוּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:269
+      lang: ar
+      text: يُؤْتِى ٱلْحِكْمَةَ مَن يَشَآءُ وَمَن يُؤْتَ ٱلْحِكْمَةَ فَقَدْ أُوتِىَ خَيْرًا كَثِيرًا
+        وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 ---
 
 ## Questions

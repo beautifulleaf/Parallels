@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-18-rain-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Elijah prays for rain and runs before Ahab ↔ Hud warns 'Ad at the dunes; the cloud that was not
   rain; the jinn listen to the Quran
-summary: 'These two units share 1 motifs: a cloud seen over a land in drought, bringing rain or destruction
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,57 +14,9 @@ layers:
 - motif
 motifs:
 - cloud-over-a-land-in-drought-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:44
-  note: 'A cloud seen over a land in drought, bringing rain or destruction [contrast between the texts]
-    (A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ kə-ḵap̄ ʾîš
-    ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd: fa-lammā raʾawhu
-    ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā ʿadhābun alīm,
-    tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִי֙ בַּשְּׁבִעִ֔ית וַיֹּ֗אמֶר הִנֵּה עָ֛ב קְטַנָּ֥ה כְּכַף אִ֖ישׁ עֹלָ֣ה מִיָּ֑ם וַיֹּ֗אמֶר
-    עֲלֵ֨ה אֱמֹ֤ר אֶל אַחְאָב֙ אֱסֹ֣ר וָרֵ֔ד וְלֹ֥א יַעַצָרְכָ֖ה הַגָּֽשֶׁם
-- tradition: judaism
-  ref: 1Kgs 18:45
-  note: 'A cloud seen over a land in drought, bringing rain or destruction [contrast between the texts]
-    (A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ kə-ḵap̄ ʾîš
-    ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd: fa-lammā raʾawhu
-    ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā ʿadhābun alīm,
-    tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י עַד כֹּ֣ה וְעַד כֹּ֗ה וְהַשָּׁמַ֨יִם֙ הִֽתְקַדְּרוּ֙ עָבִ֣ים וְר֔וּחַ וַיְהִ֖י גֶּ֣שֶׁם
-    גָּד֑וֹל וַיִּרְכַּ֥ב אַחְאָ֖ב וַיֵּ֥לֶךְ יִזְרְעֶֽאלָה
-- tradition: islam
-  ref: Quran 46:24
-  note: 'A cloud seen over a land in drought, bringing rain or destruction [contrast between the texts]
-    (A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ kə-ḵap̄ ʾîš
-    ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd: fa-lammā raʾawhu
-    ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā ʿadhābun alīm,
-    tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا بَلْ
-    هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
-- tradition: islam
-  ref: Quran 46:25
-  note: 'A cloud seen over a land in drought, bringing rain or destruction [contrast between the texts]
-    (A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ kə-ḵap̄ ʾîš
-    ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd: fa-lammā raʾawhu
-    ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā ʿadhābun alīm,
-    tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَٰكِنُهُمْ كَذَٰلِكَ
-    نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ
-    kə-ḵap̄ ʾîš ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd:
-    fa-lammā raʾawhu ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā
-    ʿadhābun alīm, tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A cloud seen over a land in drought, bringing rain or destruction
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -95,6 +46,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A cloud seen over a land in drought, bringing rain or destruction
+kinds:
+- contrast
+units:
+- id: hb-1kgs-18-rain
+  title: Elijah prays for rain and runs before Ahab
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: contrast
+  label: A cloud seen over a land in drought, bringing rain or destruction
+  note: 'A cloud seen over a land in drought, with opposite outcomes. Carmel: hinnēh ʿāḇ qəṭannâ kə-ḵap̄
+    ʾîš ʿōlâ mi-yyām ... wa-yhî gešem gāḏôl (the small cloud brings the longed-for rain). ʿĀd: fa-lammā
+    raʾawhu ʿāriḍan mustaqbila awdiyatihim qālū hādhā ʿāriḍun mumṭirunā bal huwa ... rīḥun fīhā ʿadhābun
+    alīm, tudammiru kulla shayʾ (the cloud they hail as rain is a destroying wind).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:44
+      lang: he
+      text: וַֽיְהִי֙ בַּשְּׁבִעִ֔ית וַיֹּ֗אמֶר הִנֵּה עָ֛ב קְטַנָּ֥ה כְּכַף אִ֖ישׁ עֹלָ֣ה מִיָּ֑ם וַיֹּ֗אמֶר
+        עֲלֵ֨ה אֱמֹ֤ר אֶל אַחְאָב֙ אֱסֹ֣ר וָרֵ֔ד וְלֹ֥א יַעַצָרְכָ֖ה הַגָּֽשֶׁם
+    - ref: 1Kgs 18:45
+      lang: he
+      text: וַיְהִ֣י עַד כֹּ֣ה וְעַד כֹּ֗ה וְהַשָּׁמַ֨יִם֙ הִֽתְקַדְּרוּ֙ עָבִ֣ים וְר֔וּחַ וַיְהִ֖י גֶּ֣שֶׁם
+        גָּד֑וֹל וַיִּרְכַּ֥ב אַחְאָ֖ב וַיֵּ֥לֶךְ יִזְרְעֶֽאלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 46:24
+      lang: ar
+      text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا
+        بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+    - ref: Quran 46:25
+      lang: ar
+      text: تُدَمِّرُ كُلَّ شَىْءٍۭ بِأَمْرِ رَبِّهَا فَأَصْبَحُوا۟ لَا يُرَىٰٓ إِلَّا مَسَٰكِنُهُمْ كَذَٰلِكَ
+        نَجْزِى ٱلْقَوْمَ ٱلْمُجْرِمِينَ
 ---
 
 ## Questions

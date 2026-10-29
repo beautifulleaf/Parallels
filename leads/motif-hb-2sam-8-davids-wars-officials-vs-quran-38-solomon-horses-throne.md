@@ -2,8 +2,7 @@
 id: motif-hb-2sam-8-davids-wars-officials-vs-quran-38-solomon-horses-throne
 title: David's conquests and list of officials ↔ Solomon's steeds, the body on his throne, and the unmatched
   kingdom
-summary: 'These two units share 1 motifs: the enemy''s horses are hamstrung and their chariots burned
-  by divine command.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - hamstring-horses-burn-chariots
-passages:
-- tradition: judaism
-  ref: 2Sam 8:4
-  note: The enemy's horses are hamstrung and their chariots burned by divine command (Keeps a hundred
-    chariots)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּלְכֹּ֨ד דָּוִ֜ד מִמֶּ֗נּוּ אֶ֤לֶף וּשְׁבַע מֵאוֹת֙ פָּרָשִׁ֔ים וְעֶשְׂרִ֥ים אֶ֖לֶף אִ֣ישׁ
-    רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִד֙ אֶת כָּל הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב
-- tradition: islam
-  ref: Quran 38:33
-  note: The enemy's horses are hamstrung and their chariots burned by divine command (if 'mash' means
-    slashing legs and necks)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yəʿaqqēr dāwiḏ ʾeṯ-kol-hā-reḵeḇ vs. masḥan bi-s-sūqi wa-l-aʿnāq: the king disabling horses
-    through the legs (sūq). Same caveat on masḥ.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The enemy''s horses are hamstrung and their chariots burned by divine
     command (weight 6.0). Pair score 6.0.'
@@ -64,6 +46,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The enemy's horses are hamstrung and their chariots burned by divine command
+kinds:
+- echo
+units:
+- id: hb-2sam-8-davids-wars-officials
+  title: David's conquests and list of officials
+  tradition: judaism
+- id: quran-38-solomon-horses-throne
+  title: Solomon's steeds, the body on his throne, and the unmatched kingdom
+  tradition: islam
+matches:
+- kind: echo
+  label: The enemy's horses are hamstrung and their chariots burned by divine command
+  note: 'wa-yəʿaqqēr dāwiḏ ʾeṯ-kol-hā-reḵeḇ vs. masḥan bi-s-sūqi wa-l-aʿnāq: the king disabling horses
+    through the legs (sūq). Same caveat on masḥ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 8:4
+      lang: he
+      text: וַיִּלְכֹּ֨ד דָּוִ֜ד מִמֶּ֗נּוּ אֶ֤לֶף וּשְׁבַע מֵאוֹת֙ פָּרָשִׁ֔ים וְעֶשְׂרִ֥ים אֶ֖לֶף אִ֣ישׁ
+        רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִד֙ אֶת כָּל הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 38:33
+      lang: ar
+      text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
 ---
 
 ## Questions

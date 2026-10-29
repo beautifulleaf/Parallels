@@ -2,8 +2,7 @@
 id: motif-hb-1sam-12-samuel-farewell-vs-quran-9-hypocrites-vow
 title: Samuel's farewell speech and the sign of thunder ↔ The broken vow of charity; seventy prayers in
   vain
-summary: 'These two units share 1 motifs: whether the prophet should intercede for a sinful people [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-intercession-for-sinful-people-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Sam 12:23
-  note: 'Whether the prophet should intercede for a sinful people [contrast between the texts] (Opposite
-    rulings on the prophet''s intercession for a sinful people: Samuel calls it a sin to stop (ḥālîlāh
-    llî mēḥăṭōʾ laYHWH mēḥădōl lᵉhitpallēl bᵉʿadkem); Q tells the prophet his prayer for the hypocrites
-    is in vain (istaghfir lahum aw lā tastaghfir lahum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּ֣ם אָנֹכִ֗י חָלִ֤ילָה לִּי֙ מֵחֲטֹ֣א לַֽיהוָ֔ה מֵחֲדֹ֖ל לְהִתְפַּלֵּ֣ל בַּעַדְכֶ֑ם וְהוֹרֵיתִ֣י
-    אֶתְכֶ֔ם בְּדֶ֥רֶךְ הַטּוֹבָ֖ה וְהַיְשָׁרָֽה
-- tradition: islam
-  ref: Quran 9:80
-  note: 'Whether the prophet should intercede for a sinful people [contrast between the texts] (Opposite
-    rulings on the prophet''s intercession for a sinful people: Samuel calls it a sin to stop (ḥālîlāh
-    llî mēḥăṭōʾ laYHWH mēḥădōl lᵉhitpallēl bᵉʿadkem); Q tells the prophet his prayer for the hypocrites
-    is in vain (istaghfir lahum aw lā tastaghfir lahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن
-    يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Opposite rulings on the prophet''s intercession for a sinful people: Samuel calls it a sin
-    to stop (ḥālîlāh llî mēḥăṭōʾ laYHWH mēḥădōl lᵉhitpallēl bᵉʿadkem); Q tells the prophet his prayer
-    for the hypocrites is in vain (istaghfir lahum aw lā tastaghfir lahum).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the prophet should intercede for a sinful people [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -67,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the prophet should intercede for a sinful people
+kinds:
+- contrast
+units:
+- id: hb-1sam-12-samuel-farewell
+  title: Samuel's farewell speech and the sign of thunder
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the prophet should intercede for a sinful people
+  note: 'Opposite rulings on the prophet''s intercession for a sinful people: Samuel calls it a sin to
+    stop (ḥālîlāh llî mēḥăṭōʾ laYHWH mēḥădōl lᵉhitpallēl bᵉʿadkem); Q tells the prophet his prayer for
+    the hypocrites is in vain (istaghfir lahum aw lā tastaghfir lahum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 12:23
+      lang: he
+      text: גַּ֣ם אָנֹכִ֗י חָלִ֤ילָה לִּי֙ מֵחֲטֹ֣א לַֽיהוָ֔ה מֵחֲדֹ֖ל לְהִתְפַּלֵּ֣ל בַּעַדְכֶ֑ם וְהוֹרֵיתִ֣י
+        אֶתְכֶ֔ם בְּדֶ֥רֶךְ הַטּוֹבָ֖ה וְהַיְשָׁרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:80
+      lang: ar
+      text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً
+        فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا
+        يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

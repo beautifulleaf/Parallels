@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-32-sajda
 title: 'Second creation account, Eden, and the making of woman ↔ Al-Sajda: creation, the angel of death,
   and the two fates'
-summary: 'These two units share 2 motifs: deity breathes the breath of life into the first human''s nostrils,
-  first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,47 +16,9 @@ layers:
 motifs:
 - breath-of-life-into-nostrils
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: Deity breathes the breath of life into the first human's nostrils
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 32:9
-  note: Deity breathes the breath of life into the first human's nostrils ('breathed into him of his spirit')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ
-    قَلِيلًا مَّا تَشْكُرُونَ
-- tradition: islam
-  ref: Quran 32:7
-  note: Deity breathes the breath of life into the first human's nostrils ('breathed into him of his spirit')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
-- tradition: judaism
-  ref: Gen 2:7
-  note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
-    Gen 2:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 32:7
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyîṣer ... ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. wa-badaʾa khalqa
-    l-insāni min ṭīnin ... thumma sawwāhu wa-nafakha fīhi min rūḥihi. nāp̄aḥ/nafakha are cognate. The
-    Quran has clay (ṭīn) for dust, ''of his spirit'' (rūḥ) for breath of life (nəšāmâ), and adds a middle
-    stage: the descendants from a despised fluid (māʾin mahīn, 32:8).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
     (weight 5.3); First human shaped from dust, clay or soil (weight 4.6). Pair score 9.9.'
@@ -93,6 +54,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity breathes the breath of life into the first human's nostrils
+kinds:
+- parallel
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Deity breathes the breath of life into the first human's nostrils
+  note: 'wa-yyîṣer ... ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. wa-badaʾa khalqa l-insāni
+    min ṭīnin ... thumma sawwāhu wa-nafakha fīhi min rūḥihi. nāp̄aḥ/nafakha are cognate. The Quran has
+    clay (ṭīn) for dust, ''of his spirit'' (rūḥ) for breath of life (nəšāmâ), and adds a middle stage:
+    the descendants from a despised fluid (māʾin mahīn, 32:8).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 32:7
+      lang: ar
+      text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
+    - ref: Quran 32:9
+      lang: ar
+      text: ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ
+        قَلِيلًا مَّا تَشْكُرُونَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+    note: adam from adamah; animals also formed from the ground, Gen 2:19
+  - tradition: islam
+    passages:
+    - ref: Quran 32:7
+      lang: ar
+      text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
 ---
 
 ## Questions

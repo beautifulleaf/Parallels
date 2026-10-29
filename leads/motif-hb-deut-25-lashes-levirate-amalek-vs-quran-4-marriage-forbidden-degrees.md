@@ -2,8 +2,7 @@
 id: motif-hb-deut-25-lashes-levirate-amalek-vs-quran-4-marriage-forbidden-degrees
 title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek ↔ Inheriting women, the dowry,
   and the forbidden degrees
-summary: 'These two units share 2 motifs: what becomes of a dead man''s widow within his family [contrast
-  between the texts], a man must marry his dead brother''s widow to raise seed for the brother.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,61 +15,9 @@ layers:
 motifs:
 - widow-of-deceased-kinsman-as-contrast
 - levirate-marriage
-passages:
-- tradition: judaism
-  ref: Deut 25:5
-  note: 'What becomes of a dead man''s widow within his family [contrast between the texts] (Deut 25:5
-    lōʾ tihyeh ʾēšet ha-mmēt ha-ḥûṣâ lĕ-ʾîš zār yĕbāmāh yābōʾ ʿālêhā û-lĕqāḥāh lô lĕ-ʾiššâ: the dead man''s
-    widow must not marry outside, her brother-in-law takes her; Q 4:19 lā yaḥillu lakum an tarithū n-nisāʾa
-    karhan wa-lā taʿḍulūhunna: you may not inherit women against their will or hold them back. A widow
-    kept in the family by law vs a ban on taking a widow as part of the estate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין ל֔וֹ לֹֽא תִהְיֶ֧ה אֵֽשֶׁת
-    הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ
-- tradition: islam
-  ref: Quran 4:19
-  note: 'What becomes of a dead man''s widow within his family [contrast between the texts] (Deut 25:5
-    lōʾ tihyeh ʾēšet ha-mmēt ha-ḥûṣâ lĕ-ʾîš zār yĕbāmāh yābōʾ ʿālêhā û-lĕqāḥāh lô lĕ-ʾiššâ: the dead man''s
-    widow must not marry outside, her brother-in-law takes her; Q 4:19 lā yaḥillu lakum an tarithū n-nisāʾa
-    karhan wa-lā taʿḍulūhunna: you may not inherit women against their will or hold them back. A widow
-    kept in the family by law vs a ban on taking a widow as part of the estate.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ
-    لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ
-    بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ
-    خَيْرًا كَثِيرًا
-- tradition: judaism
-  ref: Deut 25:5
-  note: A man must marry his dead brother's widow to raise seed for the brother
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין ל֔וֹ לֹֽא תִהְיֶ֧ה אֵֽשֶׁת
-    הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ
-- tradition: judaism
-  ref: Deut 25:6
-  note: A man must marry his dead brother's widow to raise seed for the brother
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה הַבְּכוֹר֙ אֲשֶׁ֣ר תֵּלֵ֔ד יָק֕וּם עַל שֵׁ֥ם אָחִ֖יו הַמֵּ֑ת וְלֹֽא יִמָּחֶ֥ה שְׁמ֖וֹ
-    מִיִּשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 4:19
-  note: 'A man must marry his dead brother''s widow to raise seed for the brother (inverse: a dead man''s
-    wife may not be inherited against her will (an-tarithū l-nisāʾa karhan))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا تَعْضُلُوهُنَّ
-    لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ
-    بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ
-    خَيْرًا كَثِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Deut 25:5 lōʾ tihyeh ʾēšet ha-mmēt ha-ḥûṣâ lĕ-ʾîš zār yĕbāmāh yābōʾ ʿālêhā û-lĕqāḥāh lô
-    lĕ-ʾiššâ: the dead man''s widow must not marry outside, her brother-in-law takes her; Q 4:19 lā yaḥillu
-    lakum an tarithū n-nisāʾa karhan wa-lā taʿḍulūhunna: you may not inherit women against their will
-    or hold them back. A widow kept in the family by law vs a ban on taking a widow as part of the estate.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What becomes of a dead man''s widow within his family [contrast
     between the texts] (weight 6.7); A man must marry his dead brother''s widow to raise seed for the
@@ -104,6 +51,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What becomes of a dead man's widow within his family
+kinds:
+- contrast
+- shared
+units:
+- id: hb-deut-25-lashes-levirate-amalek
+  title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: contrast
+  label: What becomes of a dead man's widow within his family
+  note: 'Deut 25:5 lōʾ tihyeh ʾēšet ha-mmēt ha-ḥûṣâ lĕ-ʾîš zār yĕbāmāh yābōʾ ʿālêhā û-lĕqāḥāh lô lĕ-ʾiššâ:
+    the dead man''s widow must not marry outside, her brother-in-law takes her; Q 4:19 lā yaḥillu lakum
+    an tarithū n-nisāʾa karhan wa-lā taʿḍulūhunna: you may not inherit women against their will or hold
+    them back. A widow kept in the family by law vs a ban on taking a widow as part of the estate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 25:5
+      lang: he
+      text: כִּֽי יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין ל֔וֹ לֹֽא תִהְיֶ֧ה אֵֽשֶׁת
+        הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:19
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا
+        تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ
+        مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا
+        وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
+- kind: shared
+  label: A man must marry his dead brother's widow to raise seed for the brother
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 25:5
+      lang: he
+      text: כִּֽי יֵשְׁב֨וּ אַחִ֜ים יַחְדָּ֗ו וּמֵ֨ת אַחַ֤ד מֵהֶם֙ וּבֵ֣ן אֵֽין ל֔וֹ לֹֽא תִהְיֶ֧ה אֵֽשֶׁת
+        הַמֵּ֛ת הַח֖וּצָה לְאִ֣ישׁ זָ֑ר יְבָמָהּ֙ יָבֹ֣א עָלֶ֔יהָ וּלְקָחָ֥הּ ל֛וֹ לְאִשָּׁ֖ה וְיִבְּמָֽהּ
+    - ref: Deut 25:6
+      lang: he
+      text: וְהָיָ֗ה הַבְּכוֹר֙ אֲשֶׁ֣ר תֵּלֵ֔ד יָק֕וּם עַל שֵׁ֥ם אָחִ֖יו הַמֵּ֑ת וְלֹֽא יִמָּחֶ֥ה שְׁמ֖וֹ
+        מִיִּשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 4:19
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا وَلَا
+        تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ
+        مُّبَيِّنَةٍ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا
+        وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا
+    note: 'inverse: a dead man''s wife may not be inherited against her will (an-tarithū l-nisāʾa karhan)'
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-18-levites-prophet-vs-quran-2-abraham-kaaba
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Abraham, Ishmael and the House
-summary: 'These two units share 2 motifs: a future prophet ''from among them'' [divergence between the
-  texts], god will raise up a prophet like moses from among the brothers and put his words in his mouth.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,56 +14,9 @@ layers:
 motifs:
 - prophet-from-among-their-brothers-as-divergence
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'A future prophet ''from among them'' [divergence between the texts] (Deut 18:18 nābîʾ ʾāqîm lāhem
-    mi-qqereb ʾăḥêhem kāmôkā wĕ-nātattî dĕbāray bĕ-pîw: God promises Moses a prophet ''from among their
-    brothers''; Q 2:129 rabbanā wa-bʿath fīhim rasūlan minhum yatlū ʿalayhim āyātika: Abraham and Ishmael
-    pray for a messenger ''from among them'' who will recite God''s signs. Promise to Moses about Israel
-    becomes a prayer of Abraham and Ishmael about their own offspring.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 2:129
-  note: 'A future prophet ''from among them'' [divergence between the texts] (Deut 18:18 nābîʾ ʾāqîm lāhem
-    mi-qqereb ʾăḥêhem kāmôkā wĕ-nātattî dĕbāray bĕ-pîw: God promises Moses a prophet ''from among their
-    brothers''; Q 2:129 rabbanā wa-bʿath fīhim rasūlan minhum yatlū ʿalayhim āyātika: Abraham and Ishmael
-    pray for a messenger ''from among them'' who will recite God''s signs. Promise to Moses about Israel
-    becomes a prayer of Abraham and Ishmael about their own offspring.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
-    ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-- tradition: judaism
-  ref: Deut 18:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 2:129
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    (a messenger 'from among them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
-    ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 18:18 nābîʾ ʾāqîm lāhem mi-qqereb ʾăḥêhem kāmôkā wĕ-nātattî dĕbāray bĕ-pîw: God promises
-    Moses a prophet ''from among their brothers''; Q 2:129 rabbanā wa-bʿath fīhim rasūlan minhum yatlū
-    ʿalayhim āyātika: Abraham and Ishmael pray for a messenger ''from among them'' who will recite God''s
-    signs. Promise to Moses about Israel becomes a prayer of Abraham and Ishmael about their own offspring.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A future prophet ''from among them'' [divergence between the texts]
     (weight 6.7); God will raise up a prophet like Moses from among the brothers and put his words in
@@ -100,6 +52,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A future prophet 'from among them'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: A future prophet 'from among them'
+  note: 'Deut 18:18 nābîʾ ʾāqîm lāhem mi-qqereb ʾăḥêhem kāmôkā wĕ-nātattî dĕbāray bĕ-pîw: God promises
+    Moses a prophet ''from among their brothers''; Q 2:129 rabbanā wa-bʿath fīhim rasūlan minhum yatlū
+    ʿalayhim āyātika: Abraham and Ishmael pray for a messenger ''from among them'' who will recite God''s
+    signs. Promise to Moses about Israel becomes a prayer of Abraham and Ishmael about their own offspring.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:129
+      lang: ar
+      text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+- kind: shared
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+    - ref: Deut 18:19
+      lang: he
+      text: וְהָיָ֗ה הָאִישׁ֙ אֲשֶׁ֤ר לֹֽא יִשְׁמַע֙ אֶל דְּבָרַ֔י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּשְׁמִ֑י אָנֹכִ֖י
+        אֶדְרֹ֥שׁ מֵעִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:129
+      lang: ar
+      text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    note: a messenger 'from among them'
 ---
 
 ## Questions

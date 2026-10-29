@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Qaf: wonder at the warner,
   the earth that consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 2 motifs: human comes from dust and returns to dust, rain from the sky
-  gives life to the earth after its death, a sign of resurrection.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,46 +16,7 @@ layers:
 motifs:
 - dust-to-dust
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:29
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
-- tradition: judaism
-  ref: Ps 104:30
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 50:3
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 50:9
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ
-- tradition: islam
-  ref: Quran 50:11
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0); Rain from
     the sky gives life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 9.4.'
@@ -93,6 +53,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: shared
+  label: Human comes from dust and returns to dust
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:29
+      lang: he
+      text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 50:3
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 50:9
+      lang: ar
+      text: وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ
+    - ref: Quran 50:11
+      lang: ar
+      text: رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ
 ---
 
 ## Questions

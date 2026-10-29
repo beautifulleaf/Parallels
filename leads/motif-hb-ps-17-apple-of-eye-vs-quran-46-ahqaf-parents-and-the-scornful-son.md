@@ -2,8 +2,7 @@
 id: motif-hb-ps-17-apple-of-eye-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: Psalm 17 - prayer of the innocent; shadow of your wings ↔ Kindness to parents, thirty months of
   bearing and weaning, the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 1 motifs: the damned are told: you used up your good things in your worldly
-  life and enjoyed them; today you are repaid with humiliation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - good-things-used-up-in-this-life
-passages:
-- tradition: judaism
-  ref: Ps 17:14
-  note: 'The damned are told: you used up your good things in your worldly life and enjoyed them; today
-    you are repaid with humiliation (The wicked whose share is this life only: mi-mṯîm mē-ḥeleḏ ḥelqām
-    ba-ḥayyîm ... yiśbəʿû ḇānîm vs. adhhabtum ṭayyibātikum fī ḥayātikumu d-dunyā wa-stamtaʿtum bihā fa-l-yawma
-    tujzawna ʿadhāba l-hūn. The psalm sets their worldly portion against the speaker''s hope of seeing
-    God''s face (17:15); the Quran makes it their whole reward. cf. Luke 16:25.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽמְתִ֥ים יָדְךָ֨ יְהוָ֡ה מִֽמְתִ֬ים מֵחֶ֗לֶד חֶלְקָ֥ם בַּֽחַיִּים֮ וצפינך וּֽצְפוּנְךָ֮ תְּמַלֵּ֪א
-    בִ֫טְנָ֥ם יִשְׂבְּע֥וּ בָנִ֑ים וְהִנִּ֥יחוּ יִ֝תְרָ֗ם לְעוֹלְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 46:20
-  note: 'The damned are told: you used up your good things in your worldly life and enjoyed them; today
-    you are repaid with humiliation'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ
-    ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ
-    فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The wicked whose share is this life only: mi-mṯîm mē-ḥeleḏ ḥelqām ba-ḥayyîm ... yiśbəʿû ḇānîm
-    vs. adhhabtum ṭayyibātikum fī ḥayātikumu d-dunyā wa-stamtaʿtum bihā fa-l-yawma tujzawna ʿadhāba l-hūn.
-    The psalm sets their worldly portion against the speaker''s hope of seeing God''s face (17:15); the
-    Quran makes it their whole reward. cf. Luke 16:25.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned are told: you used up your good things in your worldly
     life and enjoyed them; today you are repaid with humiliation (weight 6.7). Pair score 6.7.'
@@ -75,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The damned are told: you used up your good things in your worldly life and enjoyed them; today
+  you are repaid with humiliation'
+kinds:
+- echo
+units:
+- id: hb-ps-17-apple-of-eye
+  title: Psalm 17 - prayer of the innocent; shadow of your wings
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The damned are told: you used up your good things in your worldly life and enjoyed them; today
+    you are repaid with humiliation'
+  note: 'The wicked whose share is this life only: mi-mṯîm mē-ḥeleḏ ḥelqām ba-ḥayyîm ... yiśbəʿû ḇānîm
+    vs. adhhabtum ṭayyibātikum fī ḥayātikumu d-dunyā wa-stamtaʿtum bihā fa-l-yawma tujzawna ʿadhāba l-hūn.
+    The psalm sets their worldly portion against the speaker''s hope of seeing God''s face (17:15); the
+    Quran makes it their whole reward. cf. Luke 16:25.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 17:14
+      lang: he
+      text: מִֽמְתִ֥ים יָדְךָ֨ יְהוָ֡ה מִֽמְתִ֬ים מֵחֶ֗לֶד חֶלְקָ֥ם בַּֽחַיִּים֮ וצפינך וּֽצְפוּנְךָ֮
+        תְּמַלֵּ֪א בִ֫טְנָ֥ם יִשְׂבְּע֥וּ בָנִ֑ים וְהִנִּ֥יחוּ יִ֝תְרָ֗ם לְעוֹלְלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 46:20
+      lang: ar
+      text: وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَذْهَبْتُمْ طَيِّبَٰتِكُمْ فِى حَيَاتِكُمُ
+        ٱلدُّنْيَا وَٱسْتَمْتَعْتُم بِهَا فَٱلْيَوْمَ تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَسْتَكْبِرُونَ
+        فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَبِمَا كُنتُمْ تَفْسُقُونَ
 ---
 
 ## Questions

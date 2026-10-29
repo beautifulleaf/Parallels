@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-25-servants-of-the-merciful
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ The virtues of the
   servants of the Merciful
-summary: 'These two units share 1 motifs: though sins be like scarlet they shall be white as snow; though
-  red as crimson, like wool.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - sins-scarlet-white-as-snow
-passages:
-- tradition: judaism
-  ref: Isa 1:18
-  note: Though sins be like scarlet they shall be white as snow; though red as crimson, like wool
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְכוּ נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ
-    אִם יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ
-- tradition: islam
-  ref: Quran 25:70
-  note: 'Though sins be like scarlet they shall be white as snow; though red as crimson, like wool (illā
-    man tāba wa-āmana wa-ʿamila ʿamalan ṣāliḥan fa-ulāʾika yubaddilu llāhu sayyiʾātihim ḥasanātin ~ ʾim
-    yihyû ḥăṭāʾêkem ka-ššānîm ka-ššeleg yalbînû: God turns sins into their opposite. Isaiah changes the
-    color, scarlet to white; the Quran changes the value, evil deeds to good deeds. In the Quran the condition
-    is repentance and good works; in Isaiah 1:16-17 it is ceasing evil and doing justice. cf. b. Yoma
-    86b, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَٰلِحًا فَأُو۟لَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ
-    حَسَنَٰتٍ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. illā man tāba wa-āmana wa-ʿamila ʿamalan ṣāliḥan fa-ulāʾika yubaddilu llāhu sayyiʾātihim
-    ḥasanātin ~ ʾim yihyû ḥăṭāʾêkem ka-ššānîm ka-ššeleg yalbînû: God turns sins into their opposite. Isaiah
-    changes the color, scarlet to white; the Quran changes the value, evil deeds to good deeds. In the
-    Quran the condition is repentance and good works; in Isaiah 1:16-17 it is ceasing evil and doing justice.
-    cf. b. Yoma 86b, outside the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Though sins be like scarlet they shall be white as snow; though
     red as crimson, like wool (weight 6.7). Pair score 6.7.'
@@ -79,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Though sins be like scarlet they shall be white as snow; though red as crimson, like wool
+kinds:
+- parallel
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: parallel
+  label: Though sins be like scarlet they shall be white as snow; though red as crimson, like wool
+  note: 'illā man tāba wa-āmana wa-ʿamila ʿamalan ṣāliḥan fa-ulāʾika yubaddilu llāhu sayyiʾātihim ḥasanātin
+    ~ ʾim yihyû ḥăṭāʾêkem ka-ššānîm ka-ššeleg yalbînû: God turns sins into their opposite. Isaiah changes
+    the color, scarlet to white; the Quran changes the value, evil deeds to good deeds. In the Quran the
+    condition is repentance and good works; in Isaiah 1:16-17 it is ceasing evil and doing justice. cf.
+    b. Yoma 86b, outside the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:18
+      lang: he
+      text: לְכוּ נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג
+        יַלְבִּ֔ינוּ אִם יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:70
+      lang: ar
+      text: إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلًا صَٰلِحًا فَأُو۟لَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمْ
+        حَسَنَٰتٍ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

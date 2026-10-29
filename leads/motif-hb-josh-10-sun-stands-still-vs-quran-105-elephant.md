@@ -2,8 +2,7 @@
 id: motif-hb-josh-10-sun-stands-still-vs-quran-105-elephant
 title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
   ↔ The companions of the elephant
-summary: 'These two units share 1 motifs: god casts great hailstones from heaven, killing more than the
-  sword.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - hailstones-from-heaven-kill-enemy
-passages:
-- tradition: judaism
-  ref: Josh 10:11
-  note: God casts great hailstones from heaven, killing more than the sword (more died by hailstones than
-    by the sword)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ עֲלֵיהֶם֩
-    אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙ בְּאַבְנֵ֣י
-    הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
-- tradition: islam
-  ref: Quran 105:4
-  note: God casts great hailstones from heaven, killing more than the sword (stones of sijjil cast from
-    above destroy an army)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. tarmīhim bi-ḥijāratin min sijjīl ~ wa-YHWH hišlîk ʿălêhem ʾăvānîm gedōlôt min ha-ššāmayim
-    ... ba-ʾavnê ha-bbārād: stones cast on a fleeing army from above. Hail in Joshua, baked clay (sijjīl)
-    carried by birds in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God casts great hailstones from heaven, killing more than the sword
     (weight 5.6). Pair score 5.6.'
@@ -67,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God casts great hailstones from heaven, killing more than the sword
+kinds:
+- parallel
+units:
+- id: hb-josh-10-sun-stands-still
+  title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
+  tradition: judaism
+- id: quran-105-elephant
+  title: The companions of the elephant
+  tradition: islam
+matches:
+- kind: parallel
+  label: God casts great hailstones from heaven, killing more than the sword
+  note: 'tarmīhim bi-ḥijāratin min sijjīl ~ wa-YHWH hišlîk ʿălêhem ʾăvānîm gedōlôt min ha-ššāmayim ...
+    ba-ʾavnê ha-bbārād: stones cast on a fleeing army from above. Hail in Joshua, baked clay (sijjīl)
+    carried by birds in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 10:11
+      lang: he
+      text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ
+        עֲלֵיהֶם֩ אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙
+        בְּאַבְנֵ֣י הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 105:4
+      lang: ar
+      text: تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ
 ---
 
 ## Questions

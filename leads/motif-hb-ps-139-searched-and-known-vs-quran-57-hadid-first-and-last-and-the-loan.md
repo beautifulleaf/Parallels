@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ Al-Hadid: First and Last, Outward and
   Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: god knows what enters and leaves the earth and what descends
-  from and ascends to heaven, and he is with you wherever you are.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - god-with-you-wherever-you-are
-passages:
-- tradition: judaism
-  ref: Ps 139:8
-  note: 'God knows what enters and leaves the earth and what descends from and ascends to heaven, and
-    he is with you wherever you are (God present above and below: ʾim ʾessaq šāmayim šām ʾāttâ wə-ʾaṣṣîʿâ
-    šəʾôl hinnekkā ... gam šām yāḏəḵā ṯanḥēnî vs. yaʿlamu mā yaliju fī l-arḍi wa-mā yakhruju minhā wa-mā
-    yanzilu mina s-samāʾi wa-mā yaʿruju fīhā wa-huwa maʿakum ayna mā kuntum. The psalmist goes up and
-    down and finds God there; in the Quran things go up and down and God knows them and is ''with you''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ
-- tradition: judaism
-  ref: Ps 139:9
-  note: 'God knows what enters and leaves the earth and what descends from and ascends to heaven, and
-    he is with you wherever you are (God present above and below: ʾim ʾessaq šāmayim šām ʾāttâ wə-ʾaṣṣîʿâ
-    šəʾôl hinnekkā ... gam šām yāḏəḵā ṯanḥēnî vs. yaʿlamu mā yaliju fī l-arḍi wa-mā yakhruju minhā wa-mā
-    yanzilu mina s-samāʾi wa-mā yaʿruju fīhā wa-huwa maʿakum ayna mā kuntum. The psalmist goes up and
-    down and finds God there; in the Quran things go up and down and God knows them and is ''with you''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶשָּׂ֥א כַנְפֵי שָׁ֑חַר אֶ֝שְׁכְּנָ֗ה בְּאַחֲרִ֥ית יָֽם
-- tradition: islam
-  ref: Quran 57:4
-  note: God knows what enters and leaves the earth and what descends from and ascends to heaven, and he
-    is with you wherever you are
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
-    يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا يَعْرُجُ
-    فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God present above and below: ʾim ʾessaq šāmayim šām ʾāttâ wə-ʾaṣṣîʿâ šəʾôl hinnekkā ...
-    gam šām yāḏəḵā ṯanḥēnî vs. yaʿlamu mā yaliju fī l-arḍi wa-mā yakhruju minhā wa-mā yanzilu mina s-samāʾi
-    wa-mā yaʿruju fīhā wa-huwa maʿakum ayna mā kuntum. The psalmist goes up and down and finds God there;
-    in the Quran things go up and down and God knows them and is ''with you''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God knows what enters and leaves the earth and what descends from
     and ascends to heaven, and he is with you wherever you are (weight 6.3). Pair score 6.3.'
@@ -89,6 +55,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God knows what enters and leaves the earth and what descends from and ascends to heaven, and
+  he is with you wherever you are
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God knows what enters and leaves the earth and what descends from and ascends to heaven, and
+    he is with you wherever you are
+  note: 'God present above and below: ʾim ʾessaq šāmayim šām ʾāttâ wə-ʾaṣṣîʿâ šəʾôl hinnekkā ... gam šām
+    yāḏəḵā ṯanḥēnî vs. yaʿlamu mā yaliju fī l-arḍi wa-mā yakhruju minhā wa-mā yanzilu mina s-samāʾi wa-mā
+    yaʿruju fīhā wa-huwa maʿakum ayna mā kuntum. The psalmist goes up and down and finds God there; in
+    the Quran things go up and down and God knows them and is ''with you''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:8
+      lang: he
+      text: אִם אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ
+    - ref: Ps 139:9
+      lang: he
+      text: אֶשָּׂ֥א כַנְפֵי שָׁ֑חַר אֶ֝שְׁכְּנָ֗ה בְּאַחֲרִ֥ית יָֽם
+    - ref: Ps 139:10
+      lang: he
+      text: גַּם שָׁ֭ם יָדְךָ֣ תַנְחֵ֑נִי וְֽתֹאחֲזֵ֥נִי יְמִינֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:4
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
+        يَعْلَمُ مَا يَلِجُ فِى ٱلْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنزِلُ مِنَ ٱلسَّمَآءِ وَمَا
+        يَعْرُجُ فِيهَا وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-22-micaiah-vs-quran-22-destroyed-towns-satanic-insinuation
 title: Micaiah son of Imlah and the lying spirit ↔ Rejected prophets, ruined towns, the thousand-year
   day and Satan's insertion
-summary: 'These two units share 1 motifs: where false words in a prophet''s message come from, and what
-  becomes of them [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,63 +14,9 @@ layers:
 - motif
 motifs:
 - source-of-false-words-in-prophecy-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 22:22
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
-    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
-    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
-    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
-    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
-    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר אֵצֵא֙ וְהָיִ֨יתִי֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאָ֑יו וַיֹּ֗אמֶר תְּפַתֶּה֙ וְגַם
-    תּוּכָ֔ל צֵ֖א וַעֲשֵׂה כֵֽן
-- tradition: judaism
-  ref: 1Kgs 22:23
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
-    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
-    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
-    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
-    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
-    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאֶ֣יךָ אֵ֑לֶּה וַֽיהוָ֔ה דִּבֶּ֥ר
-    עָלֶ֖יךָ רָעָֽה
-- tradition: islam
-  ref: Quran 22:52
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
-    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
-    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
-    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
-    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
-    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَٰنُ
-    فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَٰتِهِۦ
-    وَٱللَّهُ عَلِيمٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 22:53
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [divergence between
-    the texts] (Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
-    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
-    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
-    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
-    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ
-    قُلُوبُهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Both say falsehood can be put into prophets'' speech and that it serves as a test or snare.
-    1Kgs: a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH
-    approves (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā
-    sh-shayṭān), God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author
-    of the false word moves from God''s council to Satan, and God goes from sending it to cancelling it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where false words in a prophet''s message come from, and what becomes
     of them [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -107,6 +52,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where false words in a prophet's message come from, and what becomes of them
+kinds:
+- divergence
+units:
+- id: hb-1kgs-22-micaiah
+  title: Micaiah son of Imlah and the lying spirit
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: divergence
+  label: Where false words in a prophet's message come from, and what becomes of them
+  note: 'Both say falsehood can be put into prophets'' speech and that it serves as a test or snare. 1Kgs:
+    a spirit of the heavenly court volunteers, wə-hāyîtî rûaḥ šeqer bə-fî kol nəvîʾāyw, and YHWH approves
+    (təfatteh wə-gam tûkāl ... nātan YHWH rûaḥ šeqer); Q 22:52-53: the source is Satan (alqā sh-shayṭān),
+    God abrogates it and makes it a trial (fitna) for those whose hearts are sick. The author of the false
+    word moves from God''s council to Satan, and God goes from sending it to cancelling it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 22:22
+      lang: he
+      text: וַיֹּ֗אמֶר אֵצֵא֙ וְהָיִ֨יתִי֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאָ֑יו וַיֹּ֗אמֶר תְּפַתֶּה֙
+        וְגַם תּוּכָ֔ל צֵ֖א וַעֲשֵׂה כֵֽן
+    - ref: 1Kgs 22:23
+      lang: he
+      text: וְעַתָּ֗ה הִנֵּ֨ה נָתַ֤ן יְהוָה֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאֶ֣יךָ אֵ֑לֶּה וַֽיהוָ֔ה
+        דִּבֶּ֥ר עָלֶ֖יךָ רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:52
+      lang: ar
+      text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى
+        ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ
+        ءَايَٰتِهِۦ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+    - ref: Quran 22:53
+      lang: ar
+      text: لِّيَجْعَلَ مَا يُلْقِى ٱلشَّيْطَٰنُ فِتْنَةً لِّلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْقَاسِيَةِ
+        قُلُوبُهُمْ وَإِنَّ ٱلظَّٰلِمِينَ لَفِى شِقَاقٍۭ بَعِيدٍ
 ---
 
 ## Questions

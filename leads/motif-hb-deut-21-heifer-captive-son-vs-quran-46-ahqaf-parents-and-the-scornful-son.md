@@ -2,9 +2,7 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ Kindness to parents,
   thirty months of bearing and weaning, the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 2 motifs: stubborn and rebellious son, glutton and drunkard, stoned by
-  the men of his city, a son who rejects his parents: the charge and the penalty [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,86 +15,9 @@ layers:
 motifs:
 - stubborn-rebellious-son-stoned
 - son-who-rejects-his-parents-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 21:18
-  note: Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל
-    אִמּ֑וֹ וְיסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם
-- tradition: judaism
-  ref: Deut 21:19
-  note: Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְתָ֥פְשׂוּ ב֖וֹ אָבִ֣יו וְאִמּ֑וֹ וְהוֹצִ֧יאוּ אֹת֛וֹ אֶל זִקְנֵ֥י עִיר֖וֹ וְאֶל שַׁ֥עַר מְקֹמֽוֹ
-- tradition: islam
-  ref: Quran 46:17
-  note: Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city (here only rebuke
-    and doom, no human penalty)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ
-    مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا
-    هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
-- tradition: judaism
-  ref: Deut 21:18
-  note: 'A son who rejects his parents: the charge and the penalty [divergence between the texts] (The
-    son who rejects his parents, with a different charge and ending. Deuteronomy: bēn sôrēr û-môreh ʾênennû
-    šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him to the elders and kol
-    ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin lakumā a-taʿidāninī
-    an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents pray for him (yastaghīthāni
-    llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu l-qawl).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל
-    אִמּ֑וֹ וְיסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם
-- tradition: judaism
-  ref: Deut 21:20
-  note: 'A son who rejects his parents: the charge and the penalty [divergence between the texts] (The
-    son who rejects his parents, with a different charge and ending. Deuteronomy: bēn sôrēr û-môreh ʾênennû
-    šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him to the elders and kol
-    ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin lakumā a-taʿidāninī
-    an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents pray for him (yastaghīthāni
-    llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu l-qawl).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמְר֞וּ אֶל זִקְנֵ֣י עִיר֗וֹ בְּנֵ֤נוּ זֶה֙ סוֹרֵ֣ר וּמֹרֶ֔ה אֵינֶ֥נּוּ שֹׁמֵ֖עַ בְּקֹלֵ֑נוּ
-    זוֹלֵ֖ל וְסֹבֵֽא
-- tradition: islam
-  ref: Quran 46:17
-  note: 'A son who rejects his parents: the charge and the penalty [divergence between the texts] (The
-    son who rejects his parents, with a different charge and ending. Deuteronomy: bēn sôrēr û-môreh ʾênennû
-    šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him to the elders and kol
-    ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin lakumā a-taʿidāninī
-    an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents pray for him (yastaghīthāni
-    llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu l-qawl).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ
-    مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا
-    هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
-- tradition: islam
-  ref: Quran 46:18
-  note: 'A son who rejects his parents: the charge and the penalty [divergence between the texts] (The
-    son who rejects his parents, with a different charge and ending. Deuteronomy: bēn sôrēr û-môreh ʾênennû
-    šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him to the elders and kol
-    ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin lakumā a-taʿidāninī
-    an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents pray for him (yastaghīthāni
-    llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu l-qawl).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ
-    ٱلْجِنِّ وَٱلْإِنسِ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The son who rejects his parents, with a different charge and ending. Deuteronomy: bēn
-    sôrēr û-môreh ʾênennû šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him
-    to the elders and kol ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin
-    lakumā a-taʿidāninī an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents
-    pray for him (yastaghīthāni llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu
-    l-qawl).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Stubborn and rebellious son, glutton and drunkard, stoned by the
     men of his city (weight 6.7); A son who rejects his parents: the charge and the penalty [divergence
@@ -135,6 +56,77 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'A son who rejects his parents: the charge and the penalty'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-21-heifer-captive-son
+  title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'A son who rejects his parents: the charge and the penalty'
+  note: 'The son who rejects his parents, with a different charge and ending. Deuteronomy: bēn sôrēr û-môreh
+    ʾênennû šōmēaʿ bə-qôl ʾāḇîw û-ḇə-qôl ʾimmô ... zôlēl wə-sōḇēʾ; the parents bring him to the elders
+    and kol ʾanšê ʿîrô stone him (ûḇiʿartā hā-rāʿ). Quran: wa-lladhī qāla li-wālidayhi uffin lakumā a-taʿidāninī
+    an ukhraja; the charge is denying the resurrection (asāṭīru l-awwalīn), the parents pray for him (yastaghīthāni
+    llāh), and there is no human penalty, only God''s sentence (ḥaqqa ʿalayhimu l-qawl).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:18
+      lang: he
+      text: כִּֽי יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל
+        אִמּ֑וֹ וְיסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם
+    - ref: Deut 21:20
+      lang: he
+      text: וְאָמְר֞וּ אֶל זִקְנֵ֣י עִיר֗וֹ בְּנֵ֤נוּ זֶה֙ סוֹרֵ֣ר וּמֹרֶ֔ה אֵינֶ֥נּוּ שֹׁמֵ֖עַ בְּקֹלֵ֑נוּ
+        זוֹלֵ֖ל וְסֹבֵֽא
+    - ref: Deut 21:21
+      lang: he
+      text: וּ֠רְגָמֻהוּ כָּל אַנְשֵׁ֨י עִיר֤וֹ בָֽאֲבָנִים֙ וָמֵ֔ת וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּ֑ךָ
+        וְכָל יִשְׂרָאֵ֖ל יִשְׁמְע֥וּ וְיִרָֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:17
+      lang: ar
+      text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ
+        ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ
+        فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+    - ref: Quran 46:18
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ فِىٓ أُمَمٍ قَدْ خَلَتْ مِن قَبْلِهِم مِّنَ
+        ٱلْجِنِّ وَٱلْإِنسِ إِنَّهُمْ كَانُوا۟ خَٰسِرِينَ
+- kind: shared
+  label: Stubborn and rebellious son, glutton and drunkard, stoned by the men of his city
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:18
+      lang: he
+      text: כִּֽי יִהְיֶ֣ה לְאִ֗ישׁ בֵּ֚ן סוֹרֵ֣ר וּמוֹרֶ֔ה אֵינֶ֣נּוּ שֹׁמֵ֔עַ בְּק֥וֹל אָבִ֖יו וּבְק֣וֹל
+        אִמּ֑וֹ וְיסְּר֣וּ אֹת֔וֹ וְלֹ֥א יִשְׁמַ֖ע אֲלֵיהֶֽם
+    - ref: Deut 21:19
+      lang: he
+      text: וְתָ֥פְשׂוּ ב֖וֹ אָבִ֣יו וְאִמּ֑וֹ וְהוֹצִ֧יאוּ אֹת֛וֹ אֶל זִקְנֵ֥י עִיר֖וֹ וְאֶל שַׁ֥עַר
+        מְקֹמֽוֹ
+    - ref: Deut 21:20
+      lang: he
+      text: וְאָמְר֞וּ אֶל זִקְנֵ֣י עִיר֗וֹ בְּנֵ֤נוּ זֶה֙ סוֹרֵ֣ר וּמֹרֶ֔ה אֵינֶ֥נּוּ שֹׁמֵ֖עַ בְּקֹלֵ֑נוּ
+        זוֹלֵ֖ל וְסֹבֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 46:17
+      lang: ar
+      text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ
+        ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ
+        فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+    note: here only rebuke and doom, no human penalty
 ---
 
 ## Questions

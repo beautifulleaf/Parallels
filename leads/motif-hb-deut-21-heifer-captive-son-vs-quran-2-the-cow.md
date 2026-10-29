@@ -2,9 +2,7 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-2-the-cow
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ The cow and the slain
   man
-summary: 'These two units share 2 motifs: a heifer and a killing whose perpetrator is unknown [divergence
-  between the texts], unsolved murder: elders of nearest city break the neck of an unworked heifer in
-  an untilled wadi.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,101 +15,9 @@ layers:
 motifs:
 - heifer-and-unsolved-killing-as-divergence
 - unsolved-murder-heifer-ritual
-passages:
-- tradition: judaism
-  ref: Deut 21:1
-  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
-    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
-    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
-    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
-    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
-    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
-    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
-    the dead man is revived and the killer known.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל
-    בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ
-- tradition: judaism
-  ref: Deut 21:3
-  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
-    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
-    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
-    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
-    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
-    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
-    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
-    the dead man is revived and the killer known.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר
-    אֲשֶׁ֤ר לֹֽא עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא מָשְׁכָ֖ה בְּעֹֽל
-- tradition: islam
-  ref: Quran 2:71
-  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
-    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
-    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
-    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
-    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
-    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
-    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
-    the dead man is revived and the killer known.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
-    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
-- tradition: islam
-  ref: Quran 2:72
-  note: 'A heifer and a killing whose perpetrator is unknown [divergence between the texts] (Deut 21:1,
-    3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh ʾăšer lōʾ māšĕkâ
-    bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru l-arḍa ... wa-idh
-    qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing over which people
-    dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken (wĕ-ʿārĕpû)
-    and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the Quran the cow
-    is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun mā kuntum taktumūn):
-    the dead man is revived and the killer known.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
-- tradition: judaism
-  ref: Deut 21:1
-  note: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi
-    (distance measured to the nearest city; נחל איתן never ploughed or sown)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל
-    בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ
-- tradition: judaism
-  ref: Deut 21:2
-  note: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi
-    (distance measured to the nearest city; נחל איתן never ploughed or sown)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָצְא֥וּ זְקֵנֶ֖יךָ וְשֹׁפְטֶ֑יךָ וּמָדְדוּ֙ אֶל הֶ֣עָרִ֔ים אֲשֶׁ֖ר סְבִיבֹ֥ת הֶחָלָֽל
-- tradition: islam
-  ref: Quran 2:71
-  note: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi
-    (a heifer not worked plowing or watering, connected to an unsolved killing)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
-    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
-- tradition: islam
-  ref: Quran 2:72
-  note: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled wadi
-    (a heifer not worked plowing or watering, connected to an unsolved killing)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 21:1, 3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad
-    bāh ʾăšer lōʾ māšĕkâ bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru
-    l-arḍa ... wa-idh qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing
-    over which people dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken
-    (wĕ-ʿārĕpû) and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the
-    Quran the cow is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun
-    mā kuntum taktumūn): the dead man is revived and the killer known.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A heifer and a killing whose perpetrator is unknown [divergence
     between the texts] (weight 6.7); Unsolved murder: elders of nearest city break the neck of an unworked
@@ -146,6 +52,89 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A heifer and a killing whose perpetrator is unknown
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-21-heifer-captive-son
+  title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body
+  tradition: judaism
+- id: quran-2-the-cow
+  title: The cow and the slain man
+  tradition: islam
+matches:
+- kind: divergence
+  label: A heifer and a killing whose perpetrator is unknown
+  note: 'Deut 21:1, 3 kî yimmāṣēʾ ḥālāl ... lōʾ nôdaʿ mî hikkāhû ... ʿeglat bāqār ʾăšer lōʾ ʿubbad bāh
+    ʾăšer lōʾ māšĕkâ bĕ-ʿōl: an unsolved killing and an unworked heifer; Q 2:71-72 lā dhalūlun tuthīru
+    l-arḍa ... wa-idh qataltum nafsan fa-ddāraʾtum fīhā: a heifer not used for ploughing and a killing
+    over which people dispute. The ending is reversed: in Deut the killer stays unknown, the neck is broken
+    (wĕ-ʿārĕpû) and the elders declare yādênû lōʾ šāpĕkû ʾet ha-ddām ha-zzeh, the blood atoned; in the
+    Quran the cow is slaughtered (fa-dhabaḥūhā) and God brings out what was hidden (wa-llāhu mukhrijun
+    mā kuntum taktumūn): the dead man is revived and the killer known.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:1
+      lang: he
+      text: כִּי יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל
+        בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ
+    - ref: Deut 21:3
+      lang: he
+      text: וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר
+        אֲשֶׁ֤ר לֹֽא עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא מָשְׁכָ֖ה בְּעֹֽל
+    - ref: Deut 21:4
+      lang: he
+      text: וְהוֹרִ֡דוּ זִקְנֵי֩ הָעִ֨יר הַהִ֤וא אֶת הָֽעֶגְלָה֙ אֶל נַ֣חַל אֵיתָ֔ן אֲשֶׁ֛ר לֹא יֵעָבֵ֥ד
+        בּ֖וֹ וְלֹ֣א יִזָּרֵ֑עַ וְעָֽרְפוּ שָׁ֥ם אֶת הָעֶגְלָ֖ה בַּנָּֽחַל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:71
+      lang: ar
+      text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+        مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟
+        يَفْعَلُونَ
+    - ref: Quran 2:72
+      lang: ar
+      text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
+    - ref: Quran 2:73
+      lang: ar
+      text: فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ
+        لَعَلَّكُمْ تَعْقِلُونَ
+- kind: shared
+  label: 'Unsolved murder: elders of nearest city break the neck of an unworked heifer in an untilled
+    wadi'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:1
+      lang: he
+      text: כִּי יִמָּצֵ֣א חָלָ֗ל בָּאֲדָמָה֙ אֲשֶׁר֩ יְהוָ֨ה אֱלֹהֶ֜יךָ נֹתֵ֤ן לְךָ֙ לְרִשְׁתָּ֔הּ נֹפֵ֖ל
+        בַּשָּׂדֶ֑ה לֹ֥א נוֹדַ֖ע מִ֥י הִכָּֽהוּ
+    - ref: Deut 21:2
+      lang: he
+      text: וְיָצְא֥וּ זְקֵנֶ֖יךָ וְשֹׁפְטֶ֑יךָ וּמָדְדוּ֙ אֶל הֶ֣עָרִ֔ים אֲשֶׁ֖ר סְבִיבֹ֥ת הֶחָלָֽל
+    - ref: Deut 21:3
+      lang: he
+      text: וְהָיָ֣ה הָעִ֔יר הַקְּרֹבָ֖ה אֶל הֶחָלָ֑ל וְלָֽקְח֡וּ זִקְנֵי֩ הָעִ֨יר הַהִ֜וא עֶגְלַ֣ת בָּקָ֗ר
+        אֲשֶׁ֤ר לֹֽא עֻבַּד֙ בָּ֔הּ אֲשֶׁ֥ר לֹא מָשְׁכָ֖ה בְּעֹֽל
+    note: distance measured to the nearest city; נחל איתן never ploughed or sown
+  - tradition: islam
+    passages:
+    - ref: Quran 2:71
+      lang: ar
+      text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+        مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟
+        يَفْعَلُونَ
+    - ref: Quran 2:72
+      lang: ar
+      text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
+    - ref: Quran 2:73
+      lang: ar
+      text: فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ
+        لَعَلَّكُمْ تَعْقِلُونَ
+    note: a heifer not worked plowing or watering, connected to an unsolved killing
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-4-wealth-household
 title: The Decalogue restated and the people's fear at Horeb ↔ Wealth by consent, major sins, and discord
   in marriage
-summary: 'These two units share 2 motifs: prohibition of coveting the neighbor''s wife and property, prohibitions
-  of murder, adultery, theft and false witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,51 +15,9 @@ layers:
 motifs:
 - covet-prohibition
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Deut 5:21
-  note: Prohibition of coveting the neighbor's wife and property (wife listed before house; 'field' added)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א תַחְמֹ֖ד אֵ֣שֶׁת רֵעֶ֑ךָ וְלֹ֨א תִתְאַוֶּ֜ה בֵּ֣ית רֵעֶ֗ךָ שָׂדֵ֜הוּ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙
-    שׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
-- tradition: islam
-  ref: Quran 4:32
-  note: Prohibition of coveting the neighbor's wife and property (do not covet (lā tatamannaw) what God
-    preferred some with; ask God of his bounty)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا
-    ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ
-    ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 4:29
-  note: 'Prohibitions of murder, adultery, theft and false witness (Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ
-    tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili illā an takūna tijāratan ʿan tarāḍin minkum
-    wa-lā taqtulū anfusakum: no wrongful taking of wealth (except by consented trade) and no killing,
-    side by side as in the Decalogue.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
-    أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ
-    رَحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 5:21 wĕ-lōʾ titʾawweh bêt rēʿekā: do not desire (hitʾawwâ) your neighbour''s house; Q 4:32
-    wa-lā tatamannaw: do not wish for (tamannā) what others were given. Both turn the ban on taking into
-    a ban on wanting.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of coveting the neighbor''s wife and property (weight
     5.8); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair score 10.9.'
@@ -93,6 +50,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibition of coveting the neighbor's wife and property
+kinds:
+- echo
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-4-wealth-household
+  title: Wealth by consent, major sins, and discord in marriage
+  tradition: islam
+matches:
+- kind: echo
+  label: Prohibition of coveting the neighbor's wife and property
+  note: 'Deut 5:21 wĕ-lōʾ titʾawweh bêt rēʿekā: do not desire (hitʾawwâ) your neighbour''s house; Q 4:32
+    wa-lā tatamannaw: do not wish for (tamannā) what others were given. Both turn the ban on taking into
+    a ban on wanting.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:21
+      lang: he
+      text: וְלֹ֥א תַחְמֹ֖ד אֵ֣שֶׁת רֵעֶ֑ךָ וְלֹ֨א תִתְאַוֶּ֜ה בֵּ֣ית רֵעֶ֗ךָ שָׂדֵ֜הוּ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙
+        שׁוֹר֣וֹ וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:32
+      lang: ar
+      text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ
+        مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ
+        إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
+- kind: shared
+  label: Prohibitions of murder, adultery, theft and false witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:19
+      lang: he
+      text: וְלֹ֖א תִּגְנֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 4:29
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
+        أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ
+        بِكُمْ رَحِيمًا
+    note: 'Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili
+      illā an takūna tijāratan ʿan tarāḍin minkum wa-lā taqtulū anfusakum: no wrongful taking of wealth
+      (except by consented trade) and no killing, side by side as in the Decalogue.'
 ---
 
 ## Questions

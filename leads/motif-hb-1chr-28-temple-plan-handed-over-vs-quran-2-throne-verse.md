@@ -2,8 +2,7 @@
 id: motif-hb-1chr-28-temple-plan-handed-over-vs-quran-2-throne-verse
 title: David's assembly speech and the written pattern of the temple ↔ Ranks of the messengers and the
   Throne Verse
-summary: 'These two units share 1 motifs: the temple as a house of rest for the ark and the footstool
-  of god''s feet.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,26 +15,7 @@ layers:
 - motif
 motifs:
 - temple-as-house-of-rest-footstool
-passages:
-- tradition: judaism
-  ref: 1Chr 28:2
-  note: The temple as a house of rest for the ark and the footstool of God's feet ('a house of rest for
-    the ark ... the footstool of our God's feet')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֨קָם דָּוִ֤יד הַמֶּ֨לֶךְ֙ עַל רַגְלָ֔יו וַיֹּ֕אמֶר שְׁמָע֖וּנִי אַחַ֣י וְעַמִּ֑י אֲנִ֣י עִם
-    לְבָבִ֡י לִבְנוֹת֩ בֵּ֨ית מְנוּחָ֜ה לַאֲר֣וֹן בְּרִית יְהוָ֗ה וְלַהֲדֹם֙ רַגְלֵ֣י אֱלֹהֵ֔ינוּ וַהֲכִינ֖וֹתִי
-    לִבְנֽוֹת
-- tradition: islam
-  ref: Quran 2:255
-  note: The temple as a house of rest for the ark and the footstool of God's feet (kursi (Aramaic kursya,
-    throne))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The temple as a house of rest for the ark and the footstool of God''s
     feet (weight 6.7). Pair score 6.7.'
@@ -67,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The temple as a house of rest for the ark and the footstool of God's feet
+kinds:
+- shared
+units:
+- id: hb-1chr-28-temple-plan-handed-over
+  title: David's assembly speech and the written pattern of the temple
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: shared
+  label: The temple as a house of rest for the ark and the footstool of God's feet
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 28:2
+      lang: he
+      text: וַיָּ֨קָם דָּוִ֤יד הַמֶּ֨לֶךְ֙ עַל רַגְלָ֔יו וַיֹּ֕אמֶר שְׁמָע֖וּנִי אַחַ֣י וְעַמִּ֑י אֲנִ֣י
+        עִם לְבָבִ֡י לִבְנוֹת֩ בֵּ֨ית מְנוּחָ֜ה לַאֲר֣וֹן בְּרִית יְהוָ֗ה וְלַהֲדֹם֙ רַגְלֵ֣י אֱלֹהֵ֔ינוּ
+        וַהֲכִינ֖וֹתִי לִבְנֽוֹת
+    note: '''a house of rest for the ark ... the footstool of our God''s feet'''
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
+    note: kursi (Aramaic kursya, throne)
 ---
 
 ## Questions

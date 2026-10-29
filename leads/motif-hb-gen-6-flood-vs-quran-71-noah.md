@@ -1,10 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-71-noah
 title: The Flood (full read) ↔ Noah's preaching, the five idols and the flood
-summary: 'These two units share 8 motifs: destruction motivated by human wickedness or violence [divergence
-  between the texts], deity resolves or promises not to repeat the destruction [divergence between the
-  texts], seek forgiveness and repent, and god will send the sky down on you in abundant rain [divergence
-  between the texts], hero asks the deity to judge or destroy his opponents [divergence between the texts]….'
+summary: '6 correspondences read side by side: 6 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,340 +12,23 @@ traditions:
 layers:
 - motif
 motifs:
-- reason-human-wickedness-as-divergence
-- promise-never-again-as-divergence
 - repentance-brings-abundant-rain-as-divergence
+- promise-never-again-as-divergence
+- reason-human-wickedness-as-divergence
 - hero-prays-for-judgment-as-divergence
 - hero-preaches-to-people-as-divergence
 - family-saved-as-divergence
 - hero-warned-by-deity
 - universal-destruction
-passages:
-- tradition: judaism
-  ref: Gen 6:5
-  note: 'Destruction motivated by human wickedness or violence [divergence between the texts] (Motive
-    changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ
-    ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi innahum
-    ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha
-    wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל יֵ֨צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק
-    רַ֖ע כָּל הַיּֽוֹם
-- tradition: judaism
-  ref: Gen 6:11
-  note: 'Destruction motivated by human wickedness or violence [divergence between the texts] (Motive
-    changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ
-    ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi innahum
-    ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha
-    wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
-- tradition: islam
-  ref: Quran 71:21
-  note: 'Destruction motivated by human wickedness or violence [divergence between the texts] (Motive
-    changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ
-    ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi innahum
-    ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha
-    wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ
-    إِلَّا خَسَارًا
-- tradition: islam
-  ref: Quran 71:23
-  note: 'Destruction motivated by human wickedness or violence [divergence between the texts] (Motive
-    changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ
-    ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi innahum
-    ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha
-    wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ
-    وَنَسْرًا
-- tradition: judaism
-  ref: Gen 8:20
-  note: 'Deity resolves or promises not to repeat the destruction [divergence between the texts] (Ending
-    changed: Genesis ends with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh
-    ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū
-    nāran) and Noah''s prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā).
-    No sacrifice, no covenant, no ''never again''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף
-    הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
-- tradition: judaism
-  ref: Gen 8:21
-  note: 'Deity resolves or promises not to repeat the destruction [divergence between the texts] (Ending
-    changed: Genesis ends with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh
-    ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū
-    nāran) and Noah''s prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā).
-    No sacrifice, no covenant, no ''never again''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣רַח יְהוָה֮ אֶת רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל לִבּ֗וֹ לֹֽא אֹ֠סִף לְקַלֵּ֨ל
-    ע֤וֹד אֶת הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא אֹסִ֥ף
-    ע֛וֹד לְהַכּ֥וֹת אֶת כָּל חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי
-- tradition: islam
-  ref: Quran 71:25
-  note: 'Deity resolves or promises not to repeat the destruction [divergence between the texts] (Ending
-    changed: Genesis ends with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh
-    ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū
-    nāran) and Noah''s prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā).
-    No sacrifice, no covenant, no ''never again''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ
-    أَنصَارًا
-- tradition: islam
-  ref: Quran 71:28
-  note: 'Deity resolves or promises not to repeat the destruction [divergence between the texts] (Ending
-    changed: Genesis ends with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh
-    ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū
-    nāran) and Noah''s prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā).
-    No sacrifice, no covenant, no ''never again''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ
-    وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
-- tradition: judaism
-  ref: Gen 7:11
-  note: 'Seek forgiveness and repent, and God will send the sky down on you in abundant rain [divergence
-    between the texts] (Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt
-    ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain
-    as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25)
-    mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר י֖וֹם
-    לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
-    נִפְתָּֽחוּ
-- tradition: judaism
-  ref: Gen 7:12
-  note: 'Seek forgiveness and repent, and God will send the sky down on you in abundant rain [divergence
-    between the texts] (Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt
-    ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain
-    as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25)
-    mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֥י הַגֶּ֖שֶׁם עַל הָאָ֑רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה
-- tradition: islam
-  ref: Quran 71:10
-  note: 'Seek forgiveness and repent, and God will send the sky down on you in abundant rain [divergence
-    between the texts] (Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt
-    ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain
-    as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25)
-    mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا
-- tradition: islam
-  ref: Quran 71:11
-  note: 'Seek forgiveness and repent, and God will send the sky down on you in abundant rain [divergence
-    between the texts] (Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt
-    ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain
-    as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25)
-    mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
-- tradition: judaism
-  ref: Gen 6:9
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: judaism
-  ref: Gen 6:18
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: islam
-  ref: Quran 71:26
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Who calls
-    for destruction is reversed: in Genesis God decides alone (wa-yyōʾmer YHWH ʾemḥeh ʾet hā-ʾādām; we-hinnî
-    mašḥîtām ʾet hā-ʾāreṣ) and even regrets creating (wa-yyinnāḥem YHWH). In Q 71:26-27 Noah asks: rabbi
-    lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, innaka in tadharhum yuḍillū ʿibādaka. There is no
-    divine regret in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
-- tradition: islam
-  ref: Quran 71:27
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Who calls
-    for destruction is reversed: in Genesis God decides alone (wa-yyōʾmer YHWH ʾemḥeh ʾet hā-ʾādām; we-hinnî
-    mašḥîtām ʾet hā-ʾāreṣ) and even regrets creating (wa-yyinnāḥem YHWH). In Q 71:26-27 Noah asks: rabbi
-    lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, innaka in tadharhum yuḍillū ʿibādaka. There is no
-    divine regret in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا
-- tradition: judaism
-  ref: Gen 6:9
-  note: 'Hero warns or preaches to his people before the flood [divergence between the texts] (Noah''s
-    role. Gen: Noah never speaks before the flood. He is ʾîš ṣaddîq tāmîm ... ʾet-hā-ʾĕlōhîm hithallekh-Nōaḥ,
-    God speaks to him alone, and he obeys in silence. Q: Noah is a messenger who preaches, yā qawmi ʿbudū
-    llāha mā lakum min ilāhin ghayruhu, innī rasūlun min rabbi l-ʿālamīna, ublighukum risālāti rabbī wa-anṣaḥu
-    lakum. A silent righteous man becomes a warning prophet, the model of Muhammad.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: judaism
-  ref: Gen 6:13
-  note: 'Hero warns or preaches to his people before the flood [divergence between the texts] (Noah''s
-    role. Gen: Noah never speaks before the flood. He is ʾîš ṣaddîq tāmîm ... ʾet-hā-ʾĕlōhîm hithallekh-Nōaḥ,
-    God speaks to him alone, and he obeys in silence. Q: Noah is a messenger who preaches, yā qawmi ʿbudū
-    llāha mā lakum min ilāhin ghayruhu, innī rasūlun min rabbi l-ʿālamīna, ublighukum risālāti rabbī wa-anṣaḥu
-    lakum. A silent righteous man becomes a warning prophet, the model of Muhammad.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 71:2
-  note: 'Hero warns or preaches to his people before the flood [divergence between the texts] (Added role:
-    in Genesis God speaks only to Noah (wa-yyōʾmer ʾĕlōhîm le-Nōaḥ qēṣ kol bāśār bāʾ le-fānay) and Noah
-    never speaks to anyone; he only obeys (wa-yyaʿaś Nōaḥ ke-kōl ʾăšer ṣiwwāh ʾōtô ʾĕlōhîm). In Q 71 Noah
-    is a messenger and warner: yā-qawmi innī lakum nadhīrun mubīn, uʿbudū llāha wa-ttaqūhu wa-aṭīʿūn,
-    preaching laylan wa-nahāran, jihāran, iʿlānan wa-isrāran. cf. 2 Pet 2:5, b. Sanh. 108 (Noah as preacher),
-    not a match.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 71:3
-  note: 'Hero warns or preaches to his people before the flood [divergence between the texts] (Added role:
-    in Genesis God speaks only to Noah (wa-yyōʾmer ʾĕlōhîm le-Nōaḥ qēṣ kol bāśār bāʾ le-fānay) and Noah
-    never speaks to anyone; he only obeys (wa-yyaʿaś Nōaḥ ke-kōl ʾăšer ṣiwwāh ʾōtô ʾĕlōhîm). In Q 71 Noah
-    is a messenger and warner: yā-qawmi innī lakum nadhīrun mubīn, uʿbudū llāha wa-ttaqūhu wa-aṭīʿūn,
-    preaching laylan wa-nahāran, jihāran, iʿlānan wa-isrāran. cf. 2 Pet 2:5, b. Sanh. 108 (Noah as preacher),
-    not a match.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
-- tradition: judaism
-  ref: Gen 7:1
-  note: 'Hero''s family saved with him [divergence between the texts] (Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā
-    ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw, his household. Q: fa-anjaynāhu wa-lladhīna maʿahu
-    fī l-fulki, ''those with him'', a community of believers rather than a family (cf. Q 11:46, where
-    a son drowns).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
-    צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
-- tradition: judaism
-  ref: Gen 7:7
-  note: 'Hero''s family saved with him [divergence between the texts] (Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā
-    ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw, his household. Q: fa-anjaynāhu wa-lladhīna maʿahu
-    fī l-fulki, ''those with him'', a community of believers rather than a family (cf. Q 11:46, where
-    a son drowns).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 71:28
-  note: 'Hero''s family saved with him [divergence between the texts] (The saved are defined by faith,
-    not by house: Gen 7:1 bōʾ ʾattāh we-kol bêtkā ʾel ha-ttēvāh kî ʾōtkā rāʾîtî ṣaddîq. Q 71:28 rabbi
-    ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya muʾminan wa-li-l-muʾminīna wa-l-muʾmināt: whoever
-    enters my house as a believer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ
-    وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
-- tradition: judaism
-  ref: Gen 6:13
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 6:17
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
-- tradition: islam
-  ref: Quran 71:1
-  note: Hero privately warned of the coming flood by a deity (Noah is sent to warn before a painful punishment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-    عَذَابٌ أَلِيمٌ
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:22
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
-- tradition: islam
-  ref: Quran 71:25
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ
-    أَنصَارًا
-- tradition: islam
-  ref: Quran 71:26
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Added role: in Genesis God speaks only to Noah (wa-yyōʾmer ʾĕlōhîm le-Nōaḥ qēṣ kol bāśār
-    bāʾ le-fānay) and Noah never speaks to anyone; he only obeys (wa-yyaʿaś Nōaḥ ke-kōl ʾăšer ṣiwwāh ʾōtô
-    ʾĕlōhîm). In Q 71 Noah is a messenger and warner: yā-qawmi innī lakum nadhīrun mubīn, uʿbudū llāha
-    wa-ttaqūhu wa-aṭīʿūn, preaching laylan wa-nahāran, jihāran, iʿlānan wa-isrāran. cf. 2 Pet 2:5, b.
-    Sanh. 108 (Noah as preacher), not a match. Motive changed: Genesis gives moral corruption and violence
-    (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection
-    of the messenger and idolatry: rabbi innahum ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna
-    waddan wa-lā suwāʿan wa-lā yaghūtha wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but
-    YHWH/Elohim. Who calls for destruction is reversed: in Genesis God decides alone (wa-yyōʾmer YHWH
-    ʾemḥeh ʾet hā-ʾādām; we-hinnî mašḥîtām ʾet hā-ʾāreṣ) and even regrets creating (wa-yyinnāḥem YHWH).
-    In Q 71:26-27 Noah asks: rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, innaka in tadharhum
-    yuḍillū ʿibādaka. There is no divine regret in the Quran. Rain reversed: in Genesis rain from opened
-    sky is the destruction (wa-ʾărubbōt ha-ššāmayim niftāḥû, wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm).
-    Noah in Q 71:10-11 promises rain as blessing if they repent: istaghfirū rabbakum ... yursili s-samāʾa
-    ʿalaykum midrāran, then (71:25) mimmā khaṭīʾātihim ughriqū: the sky that could have blessed them drowns
-    them. The saved are defined by faith, not by house: Gen 7:1 bōʾ ʾattāh we-kol bêtkā ʾel ha-ttēvāh
-    kî ʾōtkā rāʾîtî ṣaddîq. Q 71:28 rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya muʾminan
-    wa-li-l-muʾminīna wa-l-muʾmināt: whoever enters my house as a believer. Ending changed: Genesis ends
-    with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd ʾet hā-ʾădāmāh ... we-lōʾ ʾōsîf ʿôd
-    lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into fire (ughriqū fa-udkhilū nāran) and
-    Noah''s prayer of forgiveness and of destruction (wa-lā tazidi ẓ-ẓālimīna illā tabārā). No sacrifice,
-    no covenant, no ''never again''.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Destruction motivated by human wickedness or violence [divergence
-    between the texts] (weight 6.7); Deity resolves or promises not to repeat the destruction [divergence
-    between the texts] (weight 6.7); Seek forgiveness and repent, and God will send the sky down on you
-    in abundant rain [divergence between the texts] (weight 6.7); Hero asks the deity to judge or destroy
-    his opponents [divergence between the texts] (weight 6.3); Hero warns or preaches to his people before
+- text: 'Shared motifs, rarest first: Seek forgiveness and repent, and God will send the sky down on you
+    in abundant rain [divergence between the texts] (weight 6.7); Deity resolves or promises not to repeat
+    the destruction [divergence between the texts] (weight 6.7); Destruction motivated by human wickedness
+    or violence [divergence between the texts] (weight 6.7); Hero asks the deity to judge or destroy his
+    opponents [divergence between the texts] (weight 6.3); Hero warns or preaches to his people before
     the flood [divergence between the texts] (weight 6.3); Hero''s family saved with him [divergence between
     the texts] (weight 5.4); Hero privately warned of the coming flood by a deity (weight 5.1); All others
     perish (weight 5.0). Pair score 48.1.'
@@ -382,6 +62,225 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero warns or preaches to his people before the flood
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero warns or preaches to his people before the flood
+  note: 'Added role: in Genesis God speaks only to Noah (wa-yyōʾmer ʾĕlōhîm le-Nōaḥ qēṣ kol bāśār bāʾ
+    le-fānay) and Noah never speaks to anyone; he only obeys (wa-yyaʿaś Nōaḥ ke-kōl ʾăšer ṣiwwāh ʾōtô
+    ʾĕlōhîm). In Q 71 Noah is a messenger and warner: yā-qawmi innī lakum nadhīrun mubīn, uʿbudū llāha
+    wa-ttaqūhu wa-aṭīʿūn, preaching laylan wa-nahāran, jihāran, iʿlānan wa-isrāran. cf. 2 Pet 2:5, b.
+    Sanh. 108 (Noah as preacher), not a match.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:22
+      lang: he
+      text: וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 71:2
+      lang: ar
+      text: قَالَ يَٰقَوْمِ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
+    - ref: Quran 71:3
+      lang: ar
+      text: أَنِ ٱعْبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ
+    - ref: Quran 71:5
+      lang: ar
+      text: قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا
+- kind: divergence
+  label: Destruction motivated by human wickedness or violence
+  note: 'Motive changed: Genesis gives moral corruption and violence (rabbāh rāʿat hā-ʾādām ... wa-ttimmālēʾ
+    hā-ʾāreṣ ḥāmās; hišḥît kol bāśār ʾet darkô). Q 71 gives rejection of the messenger and idolatry: rabbi
+    innahum ʿaṣawnī ... wa-qālū lā tadharunna ālihatakum wa-lā tadharunna waddan wa-lā suwāʿan wa-lā yaghūtha
+    wa-yaʿūqa wa-nasrā. Five named gods; Genesis names no god but YHWH/Elohim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:5
+      lang: he
+      text: וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל יֵ֨צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ
+        רַ֥ק רַ֖ע כָּל הַיּֽוֹם
+    - ref: Gen 6:11
+      lang: he
+      text: וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
+    - ref: Gen 6:12
+      lang: he
+      text: וַיַּ֧רְא אֱלֹהִ֛ים אֶת הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי הִשְׁחִ֧ית כָּל בָּשָׂ֛ר אֶת
+        דַּרְכּ֖וֹ עַל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 71:21
+      lang: ar
+      text: قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِى وَٱتَّبَعُوا۟ مَن لَّمْ يَزِدْهُ مَالُهُۥ وَوَلَدُهُۥٓ
+        إِلَّا خَسَارًا
+    - ref: Quran 71:23
+      lang: ar
+      text: وَقَالُوا۟ لَا تَذَرُنَّ ءَالِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ
+        وَيَعُوقَ وَنَسْرًا
+    - ref: Quran 71:24
+      lang: ar
+      text: وَقَدْ أَضَلُّوا۟ كَثِيرًا وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا ضَلَٰلًا
+- kind: divergence
+  label: Hero asks the deity to judge or destroy his opponents
+  note: 'Who calls for destruction is reversed: in Genesis God decides alone (wa-yyōʾmer YHWH ʾemḥeh ʾet
+    hā-ʾādām; we-hinnî mašḥîtām ʾet hā-ʾāreṣ) and even regrets creating (wa-yyinnāḥem YHWH). In Q 71:26-27
+    Noah asks: rabbi lā tadhar ʿalā l-arḍi mina l-kāfirīna dayyāran, innaka in tadharhum yuḍillū ʿibādaka.
+    There is no divine regret in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 71:26
+      lang: ar
+      text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+    - ref: Quran 71:27
+      lang: ar
+      text: إِنَّكَ إِن تَذَرْهُمْ يُضِلُّوا۟ عِبَادَكَ وَلَا يَلِدُوٓا۟ إِلَّا فَاجِرًا كَفَّارًا
+- kind: divergence
+  label: Seek forgiveness and repent, and God will send the sky down on you in abundant rain
+  note: 'Rain reversed: in Genesis rain from opened sky is the destruction (wa-ʾărubbōt ha-ššāmayim niftāḥû,
+    wa-yehî ha-ggešem ʿal hā-ʾāreṣ ʾarbāʿîm yôm). Noah in Q 71:10-11 promises rain as blessing if they
+    repent: istaghfirū rabbakum ... yursili s-samāʾa ʿalaykum midrāran, then (71:25) mimmā khaṭīʾātihim
+    ughriqū: the sky that could have blessed them drowns them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:11
+      lang: he
+      text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר
+        י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
+        נִפְתָּֽחוּ
+    - ref: Gen 7:12
+      lang: he
+      text: וַֽיְהִ֥י הַגֶּ֖שֶׁם עַל הָאָ֑רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 71:10
+      lang: ar
+      text: فَقُلْتُ ٱسْتَغْفِرُوا۟ رَبَّكُمْ إِنَّهُۥ كَانَ غَفَّارًا
+    - ref: Quran 71:11
+      lang: ar
+      text: يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
+- kind: divergence
+  label: Hero's family saved with him
+  note: 'The saved are defined by faith, not by house: Gen 7:1 bōʾ ʾattāh we-kol bêtkā ʾel ha-ttēvāh kî
+    ʾōtkā rāʾîtî ṣaddîq. Q 71:28 rabbi ghfir lī wa-li-wālidayya wa-li-man dakhala baytiya muʾminan wa-li-l-muʾminīna
+    wa-l-muʾmināt: whoever enters my house as a believer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+  - tradition: islam
+    passages:
+    - ref: Quran 71:28
+      lang: ar
+      text: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ
+        وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
+- kind: divergence
+  label: Deity resolves or promises not to repeat the destruction
+  note: 'Ending changed: Genesis ends with Noah''s sacrifice and God''s promise lōʾ ʾōsîf leqallēl ʿôd
+    ʾet hā-ʾădāmāh ... we-lōʾ ʾōsîf ʿôd lehakkôt ʾet kol ḥay. Q 71 ends with the drowned sent on into
+    fire (ughriqū fa-udkhilū nāran) and Noah''s prayer of forgiveness and of destruction (wa-lā tazidi
+    ẓ-ẓālimīna illā tabārā). No sacrifice, no covenant, no ''never again''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 8:20
+      lang: he
+      text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙
+        הָע֣וֹף הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
+    - ref: Gen 8:21
+      lang: he
+      text: וַיָּ֣רַח יְהוָה֮ אֶת רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל לִבּ֗וֹ לֹֽא אֹ֠סִף לְקַלֵּ֨ל
+        ע֤וֹד אֶת הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא
+        אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת כָּל חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 71:25
+      lang: ar
+      text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
+        ٱللَّهِ أَنصَارًا
+    - ref: Quran 71:28
+      lang: ar
+      text: رَّبِّ ٱغْفِرْ لِى وَلِوَٰلِدَىَّ وَلِمَن دَخَلَ بَيْتِىَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ
+        وَلَا تَزِدِ ٱلظَّٰلِمِينَ إِلَّا تَبَارًۢا
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:22
+      lang: he
+      text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 71:25
+      lang: ar
+      text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
+        ٱللَّهِ أَنصَارًا
+    - ref: Quran 71:26
+      lang: ar
+      text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-13-enticers-vs-quran-2-sleeper-hundred-years
 title: False prophet, enticing kin, and the apostate city ↔ The man who passed a ruined town
-summary: 'These two units share 1 motifs: the fate of a destroyed town: lasting ruin or revival [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - fate-of-a-ruined-city-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 13:17
-  note: 'The fate of a destroyed town: lasting ruin or revival [contrast between the texts] (Deut 13:17
-    wĕ-hāyĕtâ tēl ʿôlām lōʾ tibbāneh ʿôd: the apostate city is never to be rebuilt; Q 2:259 annā yuḥyī
-    hādhihi llāhu baʿda mawtihā: a dead town that God can revive.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת כָּל שְׁלָלָ֗הּ תִּקְבֹּץ֮ אֶל תּ֣וֹךְ רְחֹבָהּ֒ וְשָׂרַפְתָּ֨ בָאֵ֜שׁ אֶת הָעִ֤יר וְאֶת
-    כָּל שְׁלָלָהּ֙ כָּלִ֔יל לַיהוָ֖ה אֱלֹהֶ֑יךָ וְהָיְתָה֙ תֵּ֣ל עוֹלָ֔ם לֹ֥א תִבָּנֶ֖ה עֽוֹד
-- tradition: islam
-  ref: Quran 2:259
-  note: 'The fate of a destroyed town: lasting ruin or revival [contrast between the texts] (Josh 8:28
-    wa-yĕśîmehā tēl ʿôlām šĕmāmâ ʿad ha-yyôm ha-zzeh: Ai made a ruin mound forever; Q 2:259 ʿalā qaryatin
-    wa-hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: a town fallen on its
-    roofs, and the question whether God can revive it. Permanent ruin vs ruin as a test case for resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
-    هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ
-    قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ
-    وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ
-    إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ
-    أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Deut 13:17 wĕ-hāyĕtâ tēl ʿôlām lōʾ tibbāneh ʿôd: the apostate city is never to be rebuilt;
-    Q 2:259 annā yuḥyī hādhihi llāhu baʿda mawtihā: a dead town that God can revive.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fate of a destroyed town: lasting ruin or revival [contrast
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -70,6 +44,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The fate of a destroyed town: lasting ruin or revival'
+kinds:
+- contrast
+units:
+- id: hb-deut-13-enticers
+  title: False prophet, enticing kin, and the apostate city
+  tradition: judaism
+- id: quran-2-sleeper-hundred-years
+  title: The man who passed a ruined town
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'The fate of a destroyed town: lasting ruin or revival'
+  note: 'Deut 13:17 wĕ-hāyĕtâ tēl ʿôlām lōʾ tibbāneh ʿôd: the apostate city is never to be rebuilt; Q
+    2:259 annā yuḥyī hādhihi llāhu baʿda mawtihā: a dead town that God can revive.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 13:17
+      lang: he
+      text: וְאֶת כָּל שְׁלָלָ֗הּ תִּקְבֹּץ֮ אֶל תּ֣וֹךְ רְחֹבָהּ֒ וְשָׂרַפְתָּ֨ בָאֵ֜שׁ אֶת הָעִ֤יר וְאֶת
+        כָּל שְׁלָלָהּ֙ כָּלִ֔יל לַיהוָ֖ה אֱלֹהֶ֑יךָ וְהָיְתָה֙ תֵּ֣ל עוֹלָ֔ם לֹ֥א תִבָּנֶ֖ה עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:259
+      lang: ar
+      text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
+        هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ
+        لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ
+        إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً
+        لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ
+        لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

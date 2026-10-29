@@ -2,8 +2,7 @@
 id: motif-hb-gen-26-isaac-in-gerar-vs-quran-3-abraham-people-of-book
 title: Isaac in Gerar, the wife-sister episode, wells and treaty ↔ The common word; Abraham neither Jew
   nor Christian
-summary: 'These two units share 1 motifs: abraham''s relation to the law given later at sinai [response
-  between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -15,57 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-and-the-law-before-sinai-as-response
-passages:
-- tradition: judaism
-  ref: Gen 26:5
-  note: 'Abraham''s relation to the law given later at Sinai [response between the texts] (Gen 26:5 ʿēqeb
-    ʾăšer šāmaʿ ʾabrāhām bĕ-qōlî wa-yyišmōr mišmartî miṣwōtay ḥuqqôtay wĕ-tôrōtāy: Abraham kept God''s
-    commandments, statutes and torot, before Sinai; Q 3:65, 67 lima tuḥājjūna fī ibrāhīma wa-mā unzilati
-    t-tawrātu wa-l-injīlu illā min baʿdihi ... mā kāna ibrāhīmu yahūdiyyan wa-lā naṣrāniyyan wa-lākin
-    kāna ḥanīfan musliman: the Torah was sent down after Abraham, so he was neither Jew nor Christian
-    but a ḥanīf. Genesis has Abraham keep torot before the Torah; the Quran makes the late date of the
-    Torah the proof that he belonged to neither later community. cf. Jubilees and rabbinic readings of
-    Gen 26:5 (Abraham kept the whole Torah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי
-- tradition: islam
-  ref: Quran 3:65
-  note: 'Abraham''s relation to the law given later at Sinai [response between the texts] (Gen 26:5 ʿēqeb
-    ʾăšer šāmaʿ ʾabrāhām bĕ-qōlî wa-yyišmōr mišmartî miṣwōtay ḥuqqôtay wĕ-tôrōtāy: Abraham kept God''s
-    commandments, statutes and torot, before Sinai; Q 3:65, 67 lima tuḥājjūna fī ibrāhīma wa-mā unzilati
-    t-tawrātu wa-l-injīlu illā min baʿdihi ... mā kāna ibrāhīmu yahūdiyyan wa-lā naṣrāniyyan wa-lākin
-    kāna ḥanīfan musliman: the Torah was sent down after Abraham, so he was neither Jew nor Christian
-    but a ḥanīf. Genesis has Abraham keep torot before the Torah; the Quran makes the late date of the
-    Torah the proof that he belonged to neither later community. cf. Jubilees and rabbinic readings of
-    Gen 26:5 (Abraham kept the whole Torah).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ
-    إِلَّا مِنۢ بَعْدِهِۦٓ أَفَلَا تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 3:67
-  note: 'Abraham''s relation to the law given later at Sinai [response between the texts] (Gen 26:5 ʿēqeb
-    ʾăšer šāmaʿ ʾabrāhām bĕ-qōlî wa-yyišmōr mišmartî miṣwōtay ḥuqqôtay wĕ-tôrōtāy: Abraham kept God''s
-    commandments, statutes and torot, before Sinai; Q 3:65, 67 lima tuḥājjūna fī ibrāhīma wa-mā unzilati
-    t-tawrātu wa-l-injīlu illā min baʿdihi ... mā kāna ibrāhīmu yahūdiyyan wa-lā naṣrāniyyan wa-lākin
-    kāna ḥanīfan musliman: the Torah was sent down after Abraham, so he was neither Jew nor Christian
-    but a ḥanīf. Genesis has Abraham keep torot before the Torah; the Quran makes the late date of the
-    Torah the proof that he belonged to neither later community. cf. Jubilees and rabbinic readings of
-    Gen 26:5 (Abraham kept the whole Torah).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَٰكِن كَانَ حَنِيفًا مُّسْلِمًا وَمَا
-    كَانَ مِنَ ٱلْمُشْرِكِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    response. Gen 26:5 ʿēqeb ʾăšer šāmaʿ ʾabrāhām bĕ-qōlî wa-yyišmōr mišmartî miṣwōtay ḥuqqôtay wĕ-tôrōtāy:
-    Abraham kept God''s commandments, statutes and torot, before Sinai; Q 3:65, 67 lima tuḥājjūna fī ibrāhīma
-    wa-mā unzilati t-tawrātu wa-l-injīlu illā min baʿdihi ... mā kāna ibrāhīmu yahūdiyyan wa-lā naṣrāniyyan
-    wa-lākin kāna ḥanīfan musliman: the Torah was sent down after Abraham, so he was neither Jew nor Christian
-    but a ḥanīf. Genesis has Abraham keep torot before the Torah; the Quran makes the late date of the
-    Torah the proof that he belonged to neither later community. cf. Jubilees and rabbinic readings of
-    Gen 26:5 (Abraham kept the whole Torah).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham''s relation to the law given later at Sinai [response between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -98,6 +49,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham's relation to the law given later at Sinai
+kinds:
+- response
+units:
+- id: hb-gen-26-isaac-in-gerar
+  title: Isaac in Gerar, the wife-sister episode, wells and treaty
+  tradition: judaism
+- id: quran-3-abraham-people-of-book
+  title: The common word; Abraham neither Jew nor Christian
+  tradition: islam
+matches:
+- kind: response
+  label: Abraham's relation to the law given later at Sinai
+  note: 'Gen 26:5 ʿēqeb ʾăšer šāmaʿ ʾabrāhām bĕ-qōlî wa-yyišmōr mišmartî miṣwōtay ḥuqqôtay wĕ-tôrōtāy:
+    Abraham kept God''s commandments, statutes and torot, before Sinai; Q 3:65, 67 lima tuḥājjūna fī ibrāhīma
+    wa-mā unzilati t-tawrātu wa-l-injīlu illā min baʿdihi ... mā kāna ibrāhīmu yahūdiyyan wa-lā naṣrāniyyan
+    wa-lākin kāna ḥanīfan musliman: the Torah was sent down after Abraham, so he was neither Jew nor Christian
+    but a ḥanīf. Genesis has Abraham keep torot before the Torah; the Quran makes the late date of the
+    Torah the proof that he belonged to neither later community. cf. Jubilees and rabbinic readings of
+    Gen 26:5 (Abraham kept the whole Torah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 26:5
+      lang: he
+      text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י
+        וְתוֹרֹתָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 3:65
+      lang: ar
+      text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ
+        إِلَّا مِنۢ بَعْدِهِۦٓ أَفَلَا تَعْقِلُونَ
+    - ref: Quran 3:67
+      lang: ar
+      text: مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّا وَلَا نَصْرَانِيًّا وَلَٰكِن كَانَ حَنِيفًا مُّسْلِمًا
+        وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
 ---
 
 ## Questions

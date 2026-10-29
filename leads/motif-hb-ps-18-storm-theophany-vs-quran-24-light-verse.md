@@ -2,8 +2,7 @@
 id: motif-hb-ps-18-storm-theophany-vs-quran-24-light-verse
 title: Psalm 18 - David's song of deliverance and the storm theophany ↔ The Light Verse; the mirage, the
   dark sea, the praising birds, hail and the creatures
-summary: 'These two units share 2 motifs: god is called the speaker''s lamp who lights his darkness, god
-  sends hail mingled with fire and thunder from heaven.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,65 +15,9 @@ layers:
 motifs:
 - god-is-my-lamp
 - hail-and-fire-from-heaven
-passages:
-- tradition: judaism
-  ref: Ps 18:29
-  note: God is called the speaker's lamp who lights his darkness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה תָּאִ֣יר נֵרִ֑י יְהוָ֥ה אֱ֝לֹהַ֗י יַגִּ֥יהַּ חָשְׁכִּֽי
-- tradition: islam
-  ref: Quran 24:35
-  note: God is called the speaker's lamp who lights his darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
-- tradition: islam
-  ref: Quran 24:40
-  note: God is called the speaker's lamp who lights his darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ
-    ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن لَّمْ يَجْعَلِ
-    ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ
-- tradition: judaism
-  ref: Ps 18:13-14
-  note: God sends hail mingled with fire and thunder from heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (18:13) מִנֹּ֗גַהּ נֶ֫גְדּ֥וֹ עָבָ֥יו עָבְר֑וּ בָּ֝רָ֗ד וְגַֽחֲלֵי אֵֽשׁ (18:14) וַיַּרְעֵ֬ם בַּשָּׁמַ֨יִם
-    יְֽהוָ֗ה וְ֭עֶלְיוֹן יִתֵּ֣ן קֹל֑וֹ בָּ֝רָ֗ד וְגַֽחֲלֵי אֵֽשׁ
-- tradition: judaism
-  ref: Ps 18:12
-  note: God sends hail mingled with fire and thunder from heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָ֤שֶׁת חֹ֨שֶׁךְ סִתְר֗וֹ סְבִֽיבוֹתָ֥יו סֻכָּת֑וֹ חֶשְׁכַת מַ֝֗יִם עָבֵ֥י שְׁחָקִֽים
-- tradition: islam
-  ref: Quran 24:43
-  note: 'God sends hail mingled with fire and thunder from heaven (yuzjī saḥāban ... wa-yunazzilu mina
-    s-samāʾi min jibālin fīhā min baradin ... yakādu sanā barqihi yadhhabu bi-l-abṣāri ~ ḥeškat mayim
-    ʿăvê šəḥāqîm ... ʿāvāw ʿāvərû bārād wə-gaḥălê ʾēš ... û-vərāqîm rāv: dark clouds, hail (barad / bārād)
-    and lightning (barq / bārāq). Ps 18 is a theophany coming to rescue the king, the Quran a sign of
-    God''s ordinary governance.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
-    فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ
-    فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. allāhu nūru s-samāwāti wa-l-arḍi ... wa-man lam yajʿali llāhu lahu nūran fa-mā lahu min nūrin
-    ~ kî ʾattâ tāʾîr nērî YHWH ʾĕlōhay yaggîha ḥoškî: God gives light to the one in darkness. The Psalm
-    is one speaker''s trust; the Quran has God as the light of the cosmos and denies light to those he
-    does not light. yuzjī saḥāban ... wa-yunazzilu mina s-samāʾi min jibālin fīhā min baradin ... yakādu
-    sanā barqihi yadhhabu bi-l-abṣāri ~ ḥeškat mayim ʿăvê šəḥāqîm ... ʿāvāw ʿāvərû bārād wə-gaḥălê ʾēš
-    ... û-vərāqîm rāv: dark clouds, hail (barad / bārād) and lightning (barq / bārāq). Ps 18 is a theophany
-    coming to rescue the king, the Quran a sign of God''s ordinary governance.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is called the speaker''s lamp who lights his darkness (weight
     6.3); God sends hail mingled with fire and thunder from heaven (weight 5.8). Pair score 12.1.'
@@ -112,6 +55,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is called the speaker's lamp who lights his darkness
+kinds:
+- echo
+units:
+- id: hb-ps-18-storm-theophany
+  title: Psalm 18 - David's song of deliverance and the storm theophany
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: God is called the speaker's lamp who lights his darkness
+  note: 'allāhu nūru s-samāwāti wa-l-arḍi ... wa-man lam yajʿali llāhu lahu nūran fa-mā lahu min nūrin
+    ~ kî ʾattâ tāʾîr nērî YHWH ʾĕlōhay yaggîha ḥoškî: God gives light to the one in darkness. The Psalm
+    is one speaker''s trust; the Quran has God as the light of the cosmos and denies light to those he
+    does not light.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 18:29
+      lang: he
+      text: כִּֽי אַ֭תָּה תָּאִ֣יר נֵרִ֑י יְהוָ֥ה אֱ֝לֹהַ֗י יַגִּ֥יהַּ חָשְׁכִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+    - ref: Quran 24:40
+      lang: ar
+      text: أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ
+        سَحَابٌ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا وَمَن
+        لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ
+- kind: echo
+  label: God sends hail mingled with fire and thunder from heaven
+  note: 'yuzjī saḥāban ... wa-yunazzilu mina s-samāʾi min jibālin fīhā min baradin ... yakādu sanā barqihi
+    yadhhabu bi-l-abṣāri ~ ḥeškat mayim ʿăvê šəḥāqîm ... ʿāvāw ʿāvərû bārād wə-gaḥălê ʾēš ... û-vərāqîm
+    rāv: dark clouds, hail (barad / bārād) and lightning (barq / bārāq). Ps 18 is a theophany coming to
+    rescue the king, the Quran a sign of God''s ordinary governance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 18:12
+      lang: he
+      text: יָ֤שֶׁת חֹ֨שֶׁךְ סִתְר֗וֹ סְבִֽיבוֹתָ֥יו סֻכָּת֑וֹ חֶשְׁכַת מַ֝֗יִם עָבֵ֥י שְׁחָקִֽים
+    - ref: Ps 18:13
+      lang: he
+      text: מִנֹּ֗גַהּ נֶ֫גְדּ֥וֹ עָבָ֥יו עָבְר֑וּ בָּ֝רָ֗ד וְגַֽחֲלֵי אֵֽשׁ
+    - ref: Ps 18:15
+      lang: he
+      text: וַיִּשְׁלַ֣ח חִ֭צָּיו וַיְפִיצֵ֑ם וּבְרָקִ֥ים רָ֝ב וַיְהֻמֵּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 24:43
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
+        فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ
+        بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ
+        بِٱلْأَبْصَٰرِ
 ---
 
 ## Questions

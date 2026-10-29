@@ -2,8 +2,7 @@
 id: motif-hb-ezek-38-gog-invasion-vs-quran-11-lot
 title: Gog of Magog invades the land dwelling at the navel of the earth ↔ Lot, his guests, his daughters
   and the stones of sijjil
-summary: 'These two units share 2 motifs: god casts great hailstones from heaven, killing more than the
-  sword, god rains sulfur and fire from heaven on cities.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,36 +16,7 @@ layers:
 motifs:
 - hailstones-from-heaven-kill-enemy
 - fire-and-brimstone-from-heaven
-passages:
-- tradition: judaism
-  ref: Ezek 38:22
-  note: God casts great hailstones from heaven, killing more than the sword
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ
-    וְגָפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל אֲגַפָּ֔יו וְעַל עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ
-- tradition: islam
-  ref: Quran 11:82
-  note: 'God casts great hailstones from heaven, killing more than the sword (Stones cast by God from
-    the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt min-haššāmayim ... ʾabnê habbārād.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن
-    سِجِّيلٍ مَّنضُودٍ
-- tradition: judaism
-  ref: Ezek 38:22
-  note: God rains sulfur and fire from heaven on cities
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ
-    וְגָפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל אֲגַפָּ֔יו וְעַל עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ
-- tradition: islam
-  ref: Quran 11:82
-  note: God rains sulfur and fire from heaven on cities (stones, not sulfur and fire)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن
-    سِجِّيلٍ مَّنضُودٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God casts great hailstones from heaven, killing more than the sword
     (weight 5.6); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 10.4.'
@@ -83,6 +53,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God casts great hailstones from heaven, killing more than the sword
+kinds:
+- shared
+units:
+- id: hb-ezek-38-gog-invasion
+  title: Gog of Magog invades the land dwelling at the navel of the earth
+  tradition: judaism
+- id: quran-11-lot
+  title: Lot, his guests, his daughters and the stones of sijjil
+  tradition: islam
+matches:
+- kind: shared
+  label: God casts great hailstones from heaven, killing more than the sword
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 38:22
+      lang: he
+      text: וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ
+        וְגָפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל אֲגַפָּ֔יו וְעַל עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:82
+      lang: ar
+      text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
+        مِّن سِجِّيلٍ مَّنضُودٍ
+    note: 'Stones cast by God from the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt
+      min-haššāmayim ... ʾabnê habbārād.'
+- kind: shared
+  label: God rains sulfur and fire from heaven on cities
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 38:22
+      lang: he
+      text: וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ
+        וְגָפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל אֲגַפָּ֔יו וְעַל עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:82
+      lang: ar
+      text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
+        مِّن سِجِّيلٍ مَّنضُودٍ
+    note: stones, not sulfur and fire
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-18-abraham-bargains-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: Abraham bargains for Sodom ↔ Abraham's honored guests, the barren old wife striking her face, the
   stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 1 motifs: how abraham learns of sodom''s fate, and his response [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,58 +14,9 @@ layers:
 - motif
 motifs:
 - how-abraham-learns-of-sodoms-fate-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 18:17
-  note: 'How Abraham learns of Sodom''s fate, and his response [divergence between the texts] (How Abraham
-    learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh ʾănî mē-ʾaḇrāhām and tells
-    him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32). Quran: Abraham asks
-    fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn; no bargaining
-    in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and the plea for
-    the city is left out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהֹוָ֖ה אָמָ֑ר הַֽמְכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה
-- tradition: judaism
-  ref: Gen 18:20
-  note: 'How Abraham learns of Sodom''s fate, and his response [divergence between the texts] (How Abraham
-    learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh ʾănî mē-ʾaḇrāhām and tells
-    him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32). Quran: Abraham asks
-    fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn; no bargaining
-    in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and the plea for
-    the city is left out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֔ה זַעֲקַ֛ת סְדֹ֥ם וַעֲמֹרָ֖ה כִּי רָ֑בָּה וְחַ֨טָּאתָ֔ם כִּ֥י כָבְדָ֖ה מְאֹֽד
-- tradition: islam
-  ref: Quran 51:31
-  note: 'How Abraham learns of Sodom''s fate, and his response [divergence between the texts] (How Abraham
-    learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh ʾănî mē-ʾaḇrāhām and tells
-    him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32). Quran: Abraham asks
-    fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn; no bargaining
-    in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and the plea for
-    the city is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
-- tradition: islam
-  ref: Quran 51:32
-  note: 'How Abraham learns of Sodom''s fate, and his response [divergence between the texts] (How Abraham
-    learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh ʾănî mē-ʾaḇrāhām and tells
-    him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32). Quran: Abraham asks
-    fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn; no bargaining
-    in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and the plea for
-    the city is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. How Abraham learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh
-    ʾănî mē-ʾaḇrāhām and tells him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32).
-    Quran: Abraham asks fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn;
-    no bargaining in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and
-    the plea for the city is left out.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham learns of Sodom''s fate, and his response [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -102,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Abraham learns of Sodom's fate, and his response
+kinds:
+- divergence
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Abraham learns of Sodom's fate, and his response
+  note: 'How Abraham learns of Sodom''s fate, and what follows. Genesis: YHWH decides ha-mḵasseh ʾănî
+    mē-ʾaḇrāhām and tells him of the outcry (zaʿăqaṯ səḏōm), and Abraham bargains for the city (18:23-32).
+    Quran: Abraham asks fa-mā khaṭbukum ayyuhā l-mursalūn and they answer innā ursilnā ilā qawmin mujrimīn;
+    no bargaining in Q 51 (cf. Q 11:74, yujādilunā). God''s confidence becomes Abraham''s question, and
+    the plea for the city is left out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:17
+      lang: he
+      text: וַֽיהֹוָ֖ה אָמָ֑ר הַֽמְכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה
+    - ref: Gen 18:20
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֔ה זַעֲקַ֛ת סְדֹ֥ם וַעֲמֹרָ֖ה כִּי רָ֑בָּה וְחַ֨טָּאתָ֔ם כִּ֥י כָבְדָ֖ה מְאֹֽד
+    - ref: Gen 18:21
+      lang: he
+      text: אֵֽרֲדָה נָּ֣א וְאֶרְאֶ֔ה הַכְּצַעֲקָתָ֛הּ הַבָּ֥אָה אֵלַ֖י עָשׂ֣וּ כָּלָ֑ה וְאִם לֹ֖א אֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 51:31
+      lang: ar
+      text: قَالَ فَمَا خَطْبُكُمْ أَيُّهَا ٱلْمُرْسَلُونَ
+    - ref: Quran 51:32
+      lang: ar
+      text: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
 ---
 
 ## Questions

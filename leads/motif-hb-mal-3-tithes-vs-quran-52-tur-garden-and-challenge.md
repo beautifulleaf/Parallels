@@ -2,7 +2,7 @@
 id: motif-hb-mal-3-tithes-vs-quran-52-tur-garden-and-challenge
 title: 'Return to me; will a man rob God? Test me with the tithe ↔ The Garden: offspring joined with parents,
   the cup without idle talk, youths like pearls; the run of ''or...?'' challenges'
-summary: 'These two units share 1 motifs: god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Mal 3:10
-  note: God opens his good storehouse, the heavens, to give rain (arubbot ha-shamayim, as in the flood
-    (Gen 7:11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
-    נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י
-    לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
-- tradition: islam
-  ref: Quran 52:37
-  note: God opens his good storehouse, the heavens, to give rain ('do they hold the treasuries of your
-    Lord?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. hāḇîʾû ʾeṯ kol ham-maʿăśēr ʾel bêṯ hā-ʾôṣār ... ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
-    (bring the tithe to the storehouse; I will open the windows of heaven) vs. am ʿindahum khazāʾinu rabbik.
-    Malachi: men fill God''s earthly storehouse and he opens heaven''s; Quran: men hold none of the Lord''s
-    treasuries.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
     5.3). Pair score 5.3.'
@@ -73,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens his good storehouse, the heavens, to give rain
+kinds:
+- echo
+units:
+- id: hb-mal-3-tithes
+  title: Return to me; will a man rob God? Test me with the tithe
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens his good storehouse, the heavens, to give rain
+  note: 'hāḇîʾû ʾeṯ kol ham-maʿăśēr ʾel bêṯ hā-ʾôṣār ... ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
+    (bring the tithe to the storehouse; I will open the windows of heaven) vs. am ʿindahum khazāʾinu rabbik.
+    Malachi: men fill God''s earthly storehouse and he opens heaven''s; Quran: men hold none of the Lord''s
+    treasuries.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:10
+      lang: he
+      text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
+        נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם
+        וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 52:37
+      lang: ar
+      text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
 ---
 
 ## Questions

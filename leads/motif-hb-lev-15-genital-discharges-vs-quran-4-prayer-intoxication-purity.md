@@ -2,8 +2,7 @@
 id: motif-hb-lev-15-genital-discharges-vs-quran-4-prayer-intoxication-purity
 title: Impurity of bodily discharges, semen and menstruation ↔ Prayer not while drunk; bathing and dry
   ablution
-summary: 'These two units share 2 motifs: purification after seminal emission or intercourse [divergence
-  between the texts], emission of semen makes a man (and his partner) unclean until evening.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,90 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- purification-after-intercourse-as-divergence
 - seminal-emission-impurity-until-evening
-passages:
-- tradition: judaism
-  ref: Lev 15:16
-  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
-    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
-    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
-    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
-    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
-    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
-    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
-    עַד הָעָֽרֶב
-- tradition: judaism
-  ref: Lev 15:18
-  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
-    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
-    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
-    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
-    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
-    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
-    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ עַד
-    הָעָֽרֶב
-- tradition: islam
-  ref: Quran 4:43
-  note: 'Purification after seminal emission or intercourse [divergence between the texts] (Lev 15:16,
-    18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ ʿad hā-ʿāreb ...
-    wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse requires
-    bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā taghtasilū
-    ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major impurity,
-    or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth. The bath
-    is kept; the wait until evening is dropped, and a substitute is allowed when there is no water.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
-- tradition: judaism
-  ref: Lev 15:16
-  note: Emission of semen makes a man (and his partner) unclean until evening (Intercourse renders both
-    partners unclean until evening)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
-    עַד הָעָֽרֶב
-- tradition: judaism
-  ref: Lev 15:17
-  note: Emission of semen makes a man (and his partner) unclean until evening (Intercourse renders both
-    partners unclean until evening)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל בֶּ֣גֶד וְכָל ע֔וֹר אֲשֶׁר יִהְיֶ֥ה עָלָ֖יו שִׁכְבַת זָ֑רַע וְכֻבַּ֥ס בַּמַּ֖יִם וְטָמֵ֥א
-    עַד הָעָֽרֶב
-- tradition: islam
-  ref: Quran 4:43
-  note: Emission of semen makes a man (and his partner) unclean until evening (junub; 'or you have touched
-    women' (lāmastum))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
+- purification-after-intercourse-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 15:16, 18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô
-    wĕ-ṭāmēʾ ʿad hā-ʿāreb ... wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission
-    or intercourse requires bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī
-    sabīlin ḥattā taghtasilū ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban:
-    one in major impurity, or who has ''touched women'', bathes before prayer; with no water, wipes with
-    clean earth. The bath is kept; the wait until evening is dropped, and a substitute is allowed when
-    there is no water.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Purification after seminal emission or intercourse [divergence between
-    the texts] (weight 6.7); Emission of semen makes a man (and his partner) unclean until evening (weight
+- text: 'Shared motifs, rarest first: Emission of semen makes a man (and his partner) unclean until evening
+    (weight 6.7); Purification after seminal emission or intercourse [divergence between the texts] (weight
     6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Impurity of bodily discharges, semen and menstruation: Human impurity defiles God''s
@@ -123,6 +46,75 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Purification after seminal emission or intercourse
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-15-genital-discharges
+  title: Impurity of bodily discharges, semen and menstruation
+  tradition: judaism
+- id: quran-4-prayer-intoxication-purity
+  title: Prayer not while drunk; bathing and dry ablution
+  tradition: islam
+matches:
+- kind: divergence
+  label: Purification after seminal emission or intercourse
+  note: 'Lev 15:16, 18 wĕ-ʾîš kî tēṣēʾ mimmennû šikbat zāraʿ wĕ-rāḥaṣ ba-mmayim ʾet kol bĕśārô wĕ-ṭāmēʾ
+    ʿad hā-ʿāreb ... wĕ-ʾiššâ ʾăšer yiškab ʾîš ʾōtāh ... wĕ-rāḥăṣû ba-mmayim: seminal emission or intercourse
+    requires bathing and leaves one unclean until evening; Q 4:43 wa-lā junuban illā ʿābirī sabīlin ḥattā
+    taghtasilū ... aw lāmastumu n-nisāʾa fa-lam tajidū māʾan fa-tayammamū ṣaʿīdan ṭayyiban: one in major
+    impurity, or who has ''touched women'', bathes before prayer; with no water, wipes with clean earth.
+    The bath is kept; the wait until evening is dropped, and a substitute is allowed when there is no
+    water.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 15:16
+      lang: he
+      text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
+        עַד הָעָֽרֶב
+    - ref: Lev 15:18
+      lang: he
+      text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ
+        עַד הָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+- kind: shared
+  label: Emission of semen makes a man (and his partner) unclean until evening
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 15:16
+      lang: he
+      text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
+        עַד הָעָֽרֶב
+    - ref: Lev 15:17
+      lang: he
+      text: וְכָל בֶּ֣גֶד וְכָל ע֔וֹר אֲשֶׁר יִהְיֶ֥ה עָלָ֖יו שִׁכְבַת זָ֑רַע וְכֻבַּ֥ס בַּמַּ֖יִם וְטָמֵ֥א
+        עַד הָעָֽרֶב
+    - ref: Lev 15:18
+      lang: he
+      text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ
+        עַד הָעָֽרֶב
+    note: Intercourse renders both partners unclean until evening
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+    note: junub; 'or you have touched women' (lāmastum)
 ---
 
 ## Questions

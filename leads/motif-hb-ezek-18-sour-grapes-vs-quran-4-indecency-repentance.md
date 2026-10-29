@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-4-indecency-repentance
 title: Sour grapes - individual responsibility and repentance ↔ Indecency, four witnesses, and the limits
   of repentance
-summary: 'These two units share 1 motifs: whether repentance has a time limit [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,67 +14,9 @@ layers:
 - motif
 motifs:
 - time-limit-of-repentance-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 18:21
-  note: 'Whether repentance has a time limit [divergence between the texts] (Ezek 18:21-23 wĕ-hā-rāšāʿ
-    kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ
-    ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are not remembered, God does not desire
-    his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu li-lladhīna yaʿmalūna s-sayyiʾāti
-    ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance is accepted from those who repent
-    soon, not from one who says ''now I repent'' when death comes. Ezekiel sets no deadline; the Quran
-    sets death as the limit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָרָשָׁ֗ע כִּ֤י יָשׁוּב֙ מִכָּל חטאתו חַטֹּאתָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְשָׁמַר֙ אֶת כָּל חֻקּוֹתַ֔י
-    וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָ֑ה חָיֹ֥ה יִחְיֶ֖ה לֹ֥א יָמֽוּת
-- tradition: judaism
-  ref: Ezek 18:22
-  note: 'Whether repentance has a time limit [divergence between the texts] (Ezek 18:21-23 wĕ-hā-rāšāʿ
-    kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ
-    ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are not remembered, God does not desire
-    his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu li-lladhīna yaʿmalūna s-sayyiʾāti
-    ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance is accepted from those who repent
-    soon, not from one who says ''now I repent'' when death comes. Ezekiel sets no deadline; the Quran
-    sets death as the limit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל פְּשָׁעָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה לֹ֥א יִזָּכְר֖וּ ל֑וֹ בְּצִדְקָת֥וֹ אֲשֶׁר עָשָׂ֖ה יִֽחְיֶֽה
-- tradition: islam
-  ref: Quran 4:17
-  note: 'Whether repentance has a time limit [divergence between the texts] (Ezek 18:21-23 wĕ-hā-rāšāʿ
-    kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ
-    ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are not remembered, God does not desire
-    his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu li-lladhīna yaʿmalūna s-sayyiʾāti
-    ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance is accepted from those who repent
-    soon, not from one who says ''now I repent'' when death comes. Ezekiel sets no deadline; the Quran
-    sets death as the limit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ
-    مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
-- tradition: islam
-  ref: Quran 4:18
-  note: 'Whether repentance has a time limit [divergence between the texts] (Ezek 18:21-23 wĕ-hā-rāšāʿ
-    kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ
-    ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are not remembered, God does not desire
-    his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu li-lladhīna yaʿmalūna s-sayyiʾāti
-    ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance is accepted from those who repent
-    soon, not from one who says ''now I repent'' when death comes. Ezekiel sets no deadline; the Quran
-    sets death as the limit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ
-    ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ أَعْتَدْنَا
-    لَهُمْ عَذَابًا أَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ezek 18:21-23 wĕ-hā-rāšāʿ kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw
-    ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are
-    not remembered, God does not desire his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu
-    li-lladhīna yaʿmalūna s-sayyiʾāti ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance
-    is accepted from those who repent soon, not from one who says ''now I repent'' when death comes. Ezekiel
-    sets no deadline; the Quran sets death as the limit.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether repentance has a time limit [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -111,6 +52,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether repentance has a time limit
+kinds:
+- divergence
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-4-indecency-repentance
+  title: Indecency, four witnesses, and the limits of repentance
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether repentance has a time limit
+  note: 'Ezek 18:21-23 wĕ-hā-rāšāʿ kî yāšûb mi-kkol ḥaṭṭōʾtāw ... ḥāyōh yiḥyeh lōʾ yāmût kol pĕšāʿāyw
+    ... lōʾ yizzākĕrû lô ... he-ḥāpōṣ ʾeḥpōṣ môt rāšāʿ: whenever the wicked turns he lives, his sins are
+    not remembered, God does not desire his death; Q 4:17-18 yatūbūna min qarībin ... wa-laysati t-tawbatu
+    li-lladhīna yaʿmalūna s-sayyiʾāti ḥattā idhā ḥaḍara aḥadahumu l-mawtu qāla innī tubtu l-āna: repentance
+    is accepted from those who repent soon, not from one who says ''now I repent'' when death comes. Ezekiel
+    sets no deadline; the Quran sets death as the limit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:21
+      lang: he
+      text: וְהָרָשָׁ֗ע כִּ֤י יָשׁוּב֙ מִכָּל חטאתו חַטֹּאתָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְשָׁמַר֙ אֶת כָּל חֻקּוֹתַ֔י
+        וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָ֑ה חָיֹ֥ה יִחְיֶ֖ה לֹ֥א יָמֽוּת
+    - ref: Ezek 18:22
+      lang: he
+      text: כָּל פְּשָׁעָיו֙ אֲשֶׁ֣ר עָשָׂ֔ה לֹ֥א יִזָּכְר֖וּ ל֑וֹ בְּצִדְקָת֥וֹ אֲשֶׁר עָשָׂ֖ה יִֽחְיֶֽה
+    - ref: Ezek 18:23
+      lang: he
+      text: הֶחָפֹ֤ץ אֶחְפֹּץ֙ מ֣וֹת רָשָׁ֔ע נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה הֲל֛וֹא בְּשׁוּב֥וֹ מִדְּרָכָ֖יו
+        וְחָיָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:17
+      lang: ar
+      text: إِنَّمَا ٱلتَّوْبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعْمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٍ ثُمَّ يَتُوبُونَ
+        مِن قَرِيبٍ فَأُو۟لَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيْهِمْ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+    - ref: Quran 4:18
+      lang: ar
+      text: وَلَيْسَتِ ٱلتَّوْبَةُ لِلَّذِينَ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ حَتَّىٰٓ إِذَا حَضَرَ أَحَدَهُمُ
+        ٱلْمَوْتُ قَالَ إِنِّى تُبْتُ ٱلْـَٰٔنَ وَلَا ٱلَّذِينَ يَمُوتُونَ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ
+        أَعْتَدْنَا لَهُمْ عَذَابًا أَلِيمًا
 ---
 
 ## Questions

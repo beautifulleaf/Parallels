@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-96-clot
 title: 'Lessons of the wilderness; the good land; beware of pride ↔ The clot: recite! and the forelock'
-summary: 'These two units share 1 motifs: woe to every slanderer and backbiter (humaza lumaza) who amasses
-  and counts wealth, thinking it makes him immortal.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - slanderer-and-hoarder-condemned
-passages:
-- tradition: judaism
-  ref: Deut 8:12
-  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
-    it makes him immortal (kallā inna l-insāna la-yaṭghā an raʾāhu staghnā ~ pen tōʾkal we-śāvāʿtā ...
-    we-kesef we-zāhāv yirbeh lāk ... we-rām levāvekā we-šākaḥtā ʾet YHWH: self-sufficiency in wealth makes
-    man arrogant and forgetful of God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּן תֹּאכַ֖ל וְשָׂבָ֑עְתָּ וּבָתִּ֥ים טוֹבִ֛ים תִּבְנֶ֖ה וְיָשָֽׁבְתָּ
-- tradition: judaism
-  ref: Deut 8:13
-  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
-    it makes him immortal (kallā inna l-insāna la-yaṭghā an raʾāhu staghnā ~ pen tōʾkal we-śāvāʿtā ...
-    we-kesef we-zāhāv yirbeh lāk ... we-rām levāvekā we-šākaḥtā ʾet YHWH: self-sufficiency in wealth makes
-    man arrogant and forgetful of God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה לָּ֑ךְ וְכֹ֥ל אֲשֶׁר לְךָ֖ יִרְבֶּֽה
-- tradition: islam
-  ref: Quran 96:6
-  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
-    makes him immortal (man transgresses when he sees himself self-sufficient)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ
-- tradition: islam
-  ref: Quran 96:7
-  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
-    makes him immortal (man transgresses when he sees himself self-sufficient)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَن رَّءَاهُ ٱسْتَغْنَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. kallā inna l-insāna la-yaṭghā an raʾāhu staghnā ~ pen tōʾkal we-śāvāʿtā ... we-kesef we-zāhāv
-    yirbeh lāk ... we-rām levāvekā we-šākaḥtā ʾet YHWH: self-sufficiency in wealth makes man arrogant
-    and forgetful of God.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every slanderer and backbiter (humaza lumaza) who amasses
     and counts wealth, thinking it makes him immortal (weight 5.6). Pair score 5.6.'
@@ -80,6 +44,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+  it makes him immortal
+kinds:
+- parallel
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-96-clot
+  title: 'The clot: recite! and the forelock'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+    it makes him immortal
+  note: 'kallā inna l-insāna la-yaṭghā an raʾāhu staghnā ~ pen tōʾkal we-śāvāʿtā ... we-kesef we-zāhāv
+    yirbeh lāk ... we-rām levāvekā we-šākaḥtā ʾet YHWH: self-sufficiency in wealth makes man arrogant
+    and forgetful of God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:12
+      lang: he
+      text: פֶּן תֹּאכַ֖ל וְשָׂבָ֑עְתָּ וּבָתִּ֥ים טוֹבִ֛ים תִּבְנֶ֖ה וְיָשָֽׁבְתָּ
+    - ref: Deut 8:13
+      lang: he
+      text: וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה לָּ֑ךְ וְכֹ֥ל אֲשֶׁר לְךָ֖
+        יִרְבֶּֽה
+    - ref: Deut 8:14
+      lang: he
+      text: וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם
+        מִבֵּ֥ית עֲבָדִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 96:6
+      lang: ar
+      text: كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ
+    - ref: Quran 96:7
+      lang: ar
+      text: أَن رَّءَاهُ ٱسْتَغْنَىٰٓ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-6-shema-vs-quran-2-abraham-kaaba
 title: The Shema and the instruction to teach ↔ Abraham, Ishmael and the House
-summary: 'These two units share 1 motifs: hear o israel: yhwh our god, yhwh is one.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,25 +13,9 @@ layers:
 - motif
 motifs:
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Deut 6:4
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
-- tradition: islam
-  ref: Quran 2:133
-  note: 'Hear O Israel: YHWH our God, YHWH is one (ilahan wahidan)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 6:4 šĕmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād; Q 2:133 ilāhan wāḥidan wa-naḥnu lahu muslimūn,
-    confessed by the sons of Israel (Jacob). The Quran gives the confession to Jacob''s sons in his lifetime.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
     5.4.'
@@ -63,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hear O Israel: YHWH our God, YHWH is one'
+kinds:
+- echo
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: Deut 6:4 šĕmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād; Q 2:133 ilāhan wāḥidan wa-naḥnu lahu muslimūn,
+    confessed by the sons of Israel (Jacob). The Quran gives the confession to Jacob's sons in his lifetime.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:4
+      lang: he
+      text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 ---
 
 ## Questions

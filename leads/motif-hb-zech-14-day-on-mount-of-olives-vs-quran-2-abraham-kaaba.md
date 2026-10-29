@@ -2,8 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-2-abraham-kaaba
 title: The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ Abraham, Ishmael
   and the House
-summary: 'These two units share 2 motifs: a sanctuary to which all peoples come [divergence between the
-  texts], hear o israel: yhwh our god, yhwh is one.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,52 +16,9 @@ layers:
 motifs:
 - universal-pilgrimage-center-as-divergence
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Zech 14:16
-  note: 'A sanctuary to which all peoples come [divergence between the texts] (Zech 14:16 wĕ-ʿālû middê
-    šānâ bĕ-šānâ lĕ-hištaḥăwōt lĕ-melek YHWH ṣĕbāʾôt: the nations go up every year to Jerusalem to bow
-    down; Q 2:125 jaʿalnā l-bayta mathābatan li-n-nāsi wa-amnan ... li-ṭ-ṭāʾifīna wa-l-ʿākifīna wa-r-rukkaʿi
-    s-sujūd: the House is the place all people return to, for those who circle, stay, bow and prostrate.
-    A future universal pilgrimage to Jerusalem vs a present one to Abraham''s House.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה כָּל הַנּוֹתָר֙ מִכָּל הַגּוֹיִ֔ם הַבָּאִ֖ים עַל יְרֽוּשָׁלִָ֑ם וְעָל֞וּ מִדֵּ֧י שָׁנָ֣ה
-    בְשָׁנָ֗ה לְהִֽשְׁתַּחֲוֺת֙ לְמֶ֨לֶךְ֙ יְהוָ֣ה צְבָא֔וֹת וְלָחֹ֖ג אֶת חַ֥ג הַסֻּכּֽוֹת
-- tradition: islam
-  ref: Quran 2:125
-  note: 'A sanctuary to which all peoples come [divergence between the texts] (Zech 14:16 wĕ-ʿālû middê
-    šānâ bĕ-šānâ lĕ-hištaḥăwōt lĕ-melek YHWH ṣĕbāʾôt: the nations go up every year to Jerusalem to bow
-    down; Q 2:125 jaʿalnā l-bayta mathābatan li-n-nāsi wa-amnan ... li-ṭ-ṭāʾifīna wa-l-ʿākifīna wa-r-rukkaʿi
-    s-sujūd: the House is the place all people return to, for those who circle, stay, bow and prostrate.
-    A future universal pilgrimage to Jerusalem vs a present one to Abraham''s House.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
-    مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ
-    وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: judaism
-  ref: Zech 14:9
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 2:133
-  note: 'Hear O Israel: YHWH our God, YHWH is one (ilahan wahidan)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo. Zech 14:9 yihyeh YHWH ʾeḥād û-šĕmô ʾeḥād; Q 2:133 ilāhan wāḥidan. Zech 14:16 wĕ-ʿālû
-    middê šānâ bĕ-šānâ lĕ-hištaḥăwōt lĕ-melek YHWH ṣĕbāʾôt: the nations go up every year to Jerusalem
-    to bow down; Q 2:125 jaʿalnā l-bayta mathābatan li-n-nāsi wa-amnan ... li-ṭ-ṭāʾifīna wa-l-ʿākifīna
-    wa-r-rukkaʿi s-sujūd: the House is the place all people return to, for those who circle, stay, bow
-    and prostrate. A future universal pilgrimage to Jerusalem vs a present one to Abraham''s House.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A sanctuary to which all peoples come [divergence between the texts]
     (weight 6.7); Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score 12.1.'
@@ -100,6 +56,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A sanctuary to which all peoples come
+kinds:
+- divergence
+- echo
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: A sanctuary to which all peoples come
+  note: 'Zech 14:16 wĕ-ʿālû middê šānâ bĕ-šānâ lĕ-hištaḥăwōt lĕ-melek YHWH ṣĕbāʾôt: the nations go up
+    every year to Jerusalem to bow down; Q 2:125 jaʿalnā l-bayta mathābatan li-n-nāsi wa-amnan ... li-ṭ-ṭāʾifīna
+    wa-l-ʿākifīna wa-r-rukkaʿi s-sujūd: the House is the place all people return to, for those who circle,
+    stay, bow and prostrate. A future universal pilgrimage to Jerusalem vs a present one to Abraham''s
+    House.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:16
+      lang: he
+      text: וְהָיָ֗ה כָּל הַנּוֹתָר֙ מִכָּל הַגּוֹיִ֔ם הַבָּאִ֖ים עַל יְרֽוּשָׁלִָ֑ם וְעָל֞וּ מִדֵּ֧י
+        שָׁנָ֣ה בְשָׁנָ֗ה לְהִֽשְׁתַּחֲוֺת֙ לְמֶ֨לֶךְ֙ יְהוָ֣ה צְבָא֔וֹת וְלָחֹ֖ג אֶת חַ֥ג הַסֻּכּֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:125
+      lang: ar
+      text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
+        مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ
+        وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+- kind: echo
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: Zech 14:9 yihyeh YHWH ʾeḥād û-šĕmô ʾeḥād; Q 2:133 ilāhan wāḥidan.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:9
+      lang: he
+      text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
+        אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 ---
 
 ## Questions

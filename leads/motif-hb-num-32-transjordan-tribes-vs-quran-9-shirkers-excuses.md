@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-32-transjordan-tribes-vs-quran-9-shirkers-excuses
 title: Reuben, Gad and half-Manasseh settle east of the Jordan ↔ The excuses of those who stayed behind
-summary: 'These two units share 1 motifs: hypocrites swear excuses and ask permission to stay behind from
-  the campaign.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - hypocrites-ask-leave-to-stay-behind
-passages:
-- tradition: judaism
-  ref: Num 32:6
-  note: 'Hypocrites swear excuses and ask permission to stay behind from the campaign (Staying put while
-    the brothers march out is condemned as discouraging the rest: haʾaḥêkem yābōʾû lammilḥāmāh wᵉʾattem
-    tēšᵉbû pōh wᵉlāmmāh tᵉnîʾûn ʾet-lēb bᵉnê yiśrāʾēl vs qʿudū maʿa l-qāʿidīn; mā zādūkum illā khabālan.
-    The tribes in Num then promise to fight; the Q shirkers do not.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֔ה לִבְנֵי גָ֖ד וְלִבְנֵ֣י רְאוּבֵ֑ן הַאַֽחֵיכֶ֗ם יָבֹ֨אוּ֙ לַמִּלְחָמָ֔ה וְאַתֶּ֖ם
-    תֵּ֥שְׁבוּ פֹֽה
-- tradition: judaism
-  ref: Num 32:7
-  note: 'Hypocrites swear excuses and ask permission to stay behind from the campaign (Staying put while
-    the brothers march out is condemned as discouraging the rest: haʾaḥêkem yābōʾû lammilḥāmāh wᵉʾattem
-    tēšᵉbû pōh wᵉlāmmāh tᵉnîʾûn ʾet-lēb bᵉnê yiśrāʾēl vs qʿudū maʿa l-qāʿidīn; mā zādūkum illā khabālan.
-    The tribes in Num then promise to fight; the Q shirkers do not.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָ֣מָּה תנואון תְנִיא֔וּן אֶת לֵ֖ב בְּנֵ֣י יִשְׂרָאֵ֑ל מֵֽעֲבֹר֙ אֶל הָאָ֔רֶץ אֲשֶׁר נָתַ֥ן
-    לָהֶ֖ם יְהוָֽה
-- tradition: islam
-  ref: Quran 9:42
-  note: Hypocrites swear excuses and ask permission to stay behind from the campaign
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ
-    وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ
-    يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ
-- tradition: islam
-  ref: Quran 9:44
-  note: Hypocrites swear excuses and ask permission to stay behind from the campaign
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ
-    وَأَنفُسِهِمْ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Staying put while the brothers march out is condemned as discouraging the rest: haʾaḥêkem
-    yābōʾû lammilḥāmāh wᵉʾattem tēšᵉbû pōh wᵉlāmmāh tᵉnîʾûn ʾet-lēb bᵉnê yiśrāʾēl vs qʿudū maʿa l-qāʿidīn;
-    mā zādūkum illā khabālan. The tribes in Num then promise to fight; the Q shirkers do not.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hypocrites swear excuses and ask permission to stay behind from
     the campaign (weight 6.3). Pair score 6.3.'
@@ -84,6 +45,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hypocrites swear excuses and ask permission to stay behind from the campaign
+kinds:
+- parallel
+units:
+- id: hb-num-32-transjordan-tribes
+  title: Reuben, Gad and half-Manasseh settle east of the Jordan
+  tradition: judaism
+- id: quran-9-shirkers-excuses
+  title: The excuses of those who stayed behind
+  tradition: islam
+matches:
+- kind: parallel
+  label: Hypocrites swear excuses and ask permission to stay behind from the campaign
+  note: 'Staying put while the brothers march out is condemned as discouraging the rest: haʾaḥêkem yābōʾû
+    lammilḥāmāh wᵉʾattem tēšᵉbû pōh wᵉlāmmāh tᵉnîʾûn ʾet-lēb bᵉnê yiśrāʾēl vs qʿudū maʿa l-qāʿidīn; mā
+    zādūkum illā khabālan. The tribes in Num then promise to fight; the Q shirkers do not.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 32:6
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֔ה לִבְנֵי גָ֖ד וְלִבְנֵ֣י רְאוּבֵ֑ן הַאַֽחֵיכֶ֗ם יָבֹ֨אוּ֙ לַמִּלְחָמָ֔ה
+        וְאַתֶּ֖ם תֵּ֥שְׁבוּ פֹֽה
+    - ref: Num 32:7
+      lang: he
+      text: וְלָ֣מָּה תנואון תְנִיא֔וּן אֶת לֵ֖ב בְּנֵ֣י יִשְׂרָאֵ֑ל מֵֽעֲבֹר֙ אֶל הָאָ֔רֶץ אֲשֶׁר נָתַ֥ן
+        לָהֶ֖ם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:42
+      lang: ar
+      text: لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتْ عَلَيْهِمُ
+        ٱلشُّقَّةُ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ
+        وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَٰذِبُونَ
+    - ref: Quran 9:46
+      lang: ar
+      text: وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ
+        فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-34-sheba
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Sheba's two gardens
   and the bursting of the dam
-summary: 'These two units share 1 motifs: god sends the flood of al-''arim (the dam) and turns the two
-  gardens into bitter fruit, tamarisk and a few lote-trees.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,48 +15,9 @@ layers:
 - motif
 motifs:
 - flood-of-the-dam-arim
-passages:
-- tradition: judaism
-  ref: Ps 107:33
-  note: 'God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
-    and a few lote-trees (yāśēm nəhārôṯ lə-miḏbār ... ʾereṣ pərî li-mlēḥâ mē-rāʿaṯ yôšəḇê ḇāh vs. wa-baddalnāhum
-    bi-jannatayhim jannatayni dhawātay ukulin khamṭin wa-athlin ... dhālika jazaynāhum bi-mā kafarū: God
-    turns a fruitful land barren because of its inhabitants. The psalm says it in general terms; the Quran
-    names Sabaʾ and its ingratitude (fa-aʿraḍū; wa-shkurū lahu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָשֵׂ֣ם נְהָר֣וֹת לְמִדְבָּ֑ר וּמֹצָ֥אֵי מַ֝֗יִם לְצִמָּאֽוֹן
-- tradition: judaism
-  ref: Ps 107:34
-  note: 'God sends the flood of al-''Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
-    and a few lote-trees (yāśēm nəhārôṯ lə-miḏbār ... ʾereṣ pərî li-mlēḥâ mē-rāʿaṯ yôšəḇê ḇāh vs. wa-baddalnāhum
-    bi-jannatayhim jannatayni dhawātay ukulin khamṭin wa-athlin ... dhālika jazaynāhum bi-mā kafarū: God
-    turns a fruitful land barren because of its inhabitants. The psalm says it in general terms; the Quran
-    names Sabaʾ and its ingratitude (fa-aʿraḍū; wa-shkurū lahu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֣רֶץ פְּ֭רִי לִמְלֵחָ֑ה מֵ֝רָעַ֗ת יֹ֣שְׁבֵי בָֽהּ
-- tradition: islam
-  ref: Quran 34:16
-  note: God sends the flood of al-'Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
-    and a few lote-trees
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ
-    ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
-- tradition: islam
-  ref: Quran 34:17
-  note: God sends the flood of al-'Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
-    and a few lote-trees
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. yāśēm nəhārôṯ lə-miḏbār ... ʾereṣ pərî li-mlēḥâ mē-rāʿaṯ yôšəḇê ḇāh vs. wa-baddalnāhum bi-jannatayhim
-    jannatayni dhawātay ukulin khamṭin wa-athlin ... dhālika jazaynāhum bi-mā kafarū: God turns a fruitful
-    land barren because of its inhabitants. The psalm says it in general terms; the Quran names Sabaʾ
-    and its ingratitude (fa-aʿraḍū; wa-shkurū lahu).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends the flood of al-''Arim (the dam) and turns the two gardens
     into bitter fruit, tamarisk and a few lote-trees (weight 6.3). Pair score 6.3.'
@@ -90,6 +50,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends the flood of al-'Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
+  and a few lote-trees
+kinds:
+- parallel
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-34-sheba
+  title: Sheba's two gardens and the bursting of the dam
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends the flood of al-'Arim (the dam) and turns the two gardens into bitter fruit, tamarisk
+    and a few lote-trees
+  note: 'yāśēm nəhārôṯ lə-miḏbār ... ʾereṣ pərî li-mlēḥâ mē-rāʿaṯ yôšəḇê ḇāh vs. wa-baddalnāhum bi-jannatayhim
+    jannatayni dhawātay ukulin khamṭin wa-athlin ... dhālika jazaynāhum bi-mā kafarū: God turns a fruitful
+    land barren because of its inhabitants. The psalm says it in general terms; the Quran names Sabaʾ
+    and its ingratitude (fa-aʿraḍū; wa-shkurū lahu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:33
+      lang: he
+      text: יָשֵׂ֣ם נְהָר֣וֹת לְמִדְבָּ֑ר וּמֹצָ֥אֵי מַ֝֗יִם לְצִמָּאֽוֹן
+    - ref: Ps 107:34
+      lang: he
+      text: אֶ֣רֶץ פְּ֭רִי לִמְלֵחָ֑ה מֵ֝רָעַ֗ת יֹ֣שְׁבֵי בָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:16
+      lang: ar
+      text: فَأَعْرَضُوا۟ فَأَرْسَلْنَا عَلَيْهِمْ سَيْلَ ٱلْعَرِمِ وَبَدَّلْنَٰهُم بِجَنَّتَيْهِمْ جَنَّتَيْنِ
+        ذَوَاتَىْ أُكُلٍ خَمْطٍ وَأَثْلٍ وَشَىْءٍ مِّن سِدْرٍ قَلِيلٍ
+    - ref: Quran 34:17
+      lang: ar
+      text: ذَٰلِكَ جَزَيْنَٰهُم بِمَا كَفَرُوا۟ وَهَلْ نُجَٰزِىٓ إِلَّا ٱلْكَفُورَ
 ---
 
 ## Questions

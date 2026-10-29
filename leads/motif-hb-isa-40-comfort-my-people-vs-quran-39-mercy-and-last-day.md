@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-39-mercy-and-last-day
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Do not despair of mercy;
   the earth in God's grip; the throngs to hell and Garden
-summary: 'These two units share 1 motifs: on the day of resurrection the whole earth is in god''s grip
-  and the heavens folded in his right hand.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - earth-in-gods-grip-heavens-folded-in-right-hand
-passages:
-- tradition: judaism
-  ref: Isa 40:12
-  note: 'On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his right
-    hand (mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ... wə-ʾel-mî
-    təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu
-    maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God''s hand-measures, and people have not
-    measured God rightly (qadarū / tikkēn, measuring).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר הָאָ֑רֶץ
-    וְשָׁקַ֤ל בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם
-- tradition: judaism
-  ref: Isa 40:18
-  note: 'On the Day of Resurrection the whole earth is in God''s grip and the heavens folded in his right
-    hand (mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ... wə-ʾel-mî
-    təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu
-    maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God''s hand-measures, and people have not
-    measured God rightly (qadarū / tikkēn, measuring).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
-- tradition: islam
-  ref: Quran 39:67
-  note: On the Day of Resurrection the whole earth is in God's grip and the heavens folded in his right
-    hand
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ
-    مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ...
-    wə-ʾel-mî təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu
-    maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God''s hand-measures, and people have not
-    measured God rightly (qadarū / tikkēn, measuring).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day of Resurrection the whole earth is in God''s grip and
     the heavens folded in his right hand (weight 6.7). Pair score 6.7.'
@@ -92,6 +58,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the Day of Resurrection the whole earth is in God's grip and the heavens folded in his right
+  hand
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: parallel
+  label: On the Day of Resurrection the whole earth is in God's grip and the heavens folded in his right
+    hand
+  note: 'mî-māḏaḏ bə-šoʿŏlô mayim wə-šāmayim ba-zzereṯ tikkēn wə-ḵāl ba-ššālīš ʿăp̄ar hā-ʾāreṣ ... wə-ʾel-mî
+    təḏamməyûn ʾēl vs. wa-mā qadarū llāha ḥaqqa qadrihi wa-l-arḍu jamīʿan qabḍatuhu ... wa-s-samāwātu
+    maṭwiyyātun bi-yamīnihi: the earth and the heavens held in God''s hand-measures, and people have not
+    measured God rightly (qadarū / tikkēn, measuring).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:12
+      lang: he
+      text: מִֽי מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר
+        הָאָ֑רֶץ וְשָׁקַ֤ל בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם
+    - ref: Isa 40:18
+      lang: he
+      text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:67
+      lang: ar
+      text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ
+        وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

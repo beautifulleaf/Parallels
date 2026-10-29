@@ -2,7 +2,7 @@
 id: motif-hb-deut-28-blessings-curses-vs-quran-51-dhariyat-oaths-and-the-righteous
 title: 'Blessings and the great curses ↔ Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful
   righteous and the beggar''s due'
-summary: 'These two units share 1 motifs: in heaven is your provision and what you are promised.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - provision-is-in-heaven
-passages:
-- tradition: judaism
-  ref: Deut 28:12
-  note: In heaven is your provision and what you are promised (yip̄taḥ YHWH ləḵā ʾeṯ ʾôṣārô haṭ-ṭôḇ ʾeṯ
-    haš-šāmayim lāṯēṯ məṭar ʾarṣəḵā bə-ʿittô vs. wa-fī s-samāʾi rizqukum wa-mā tūʿadūn. Deuteronomy's
-    heavenly treasury opens to reward obedience; the Quran's heaven holds both provision and 'what you
-    are promised' (the judgment).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִפְתַּ֣ח יְהוָ֣ה לְ֠ךָ אֶת אוֹצָר֨וֹ הַטּ֜וֹב אֶת הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר אַרְצְךָ֙ בְּעִתּ֔וֹ
-    וּלְבָרֵ֕ךְ אֵ֖ת כָּל מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֨יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה
-- tradition: islam
-  ref: Quran 51:22
-  note: In heaven is your provision and what you are promised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. yip̄taḥ YHWH ləḵā ʾeṯ ʾôṣārô haṭ-ṭôḇ ʾeṯ haš-šāmayim lāṯēṯ məṭar ʾarṣəḵā bə-ʿittô vs. wa-fī
-    s-samāʾi rizqukum wa-mā tūʿadūn. Deuteronomy''s heavenly treasury opens to reward obedience; the Quran''s
-    heaven holds both provision and ''what you are promised'' (the judgment).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In heaven is your provision and what you are promised (weight 6.7).
     Pair score 6.7.'
@@ -69,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In heaven is your provision and what you are promised
+kinds:
+- echo
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-51-dhariyat-oaths-and-the-righteous
+  title: 'Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and the beggar''s
+    due'
+  tradition: islam
+matches:
+- kind: echo
+  label: In heaven is your provision and what you are promised
+  note: yip̄taḥ YHWH ləḵā ʾeṯ ʾôṣārô haṭ-ṭôḇ ʾeṯ haš-šāmayim lāṯēṯ məṭar ʾarṣəḵā bə-ʿittô vs. wa-fī s-samāʾi
+    rizqukum wa-mā tūʿadūn. Deuteronomy's heavenly treasury opens to reward obedience; the Quran's heaven
+    holds both provision and 'what you are promised' (the judgment).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:12
+      lang: he
+      text: יִפְתַּ֣ח יְהוָ֣ה לְ֠ךָ אֶת אוֹצָר֨וֹ הַטּ֜וֹב אֶת הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר אַרְצְךָ֙ בְּעִתּ֔וֹ
+        וּלְבָרֵ֕ךְ אֵ֖ת כָּל מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֨יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 51:22
+      lang: ar
+      text: وَفِى ٱلسَّمَآءِ رِزْقُكُمْ وَمَا تُوعَدُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-josh-11-hazor-northern-campaign-vs-quran-38-solomon-horses-throne
 title: Northern coalition under Jabin of Hazor; hamstrung horses; Anakim destroyed ↔ Solomon's steeds,
   the body on his throne, and the unmatched kingdom
-summary: 'These two units share 1 motifs: the enemy''s horses are hamstrung and their chariots burned
-  by divine command.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - hamstring-horses-burn-chariots
-passages:
-- tradition: judaism
-  ref: Josh 11:6
-  note: The enemy's horses are hamstrung and their chariots burned by divine command
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֣ה אֶל יְהוֹשֻׁעַ֮ אַל תִּירָ֣א מִפְּנֵיהֶם֒ כִּֽי מָחָ֞ר כָּעֵ֣ת הַזֹּ֗את אָנֹכִ֞י
-    נֹתֵ֧ן אֶת כֻּלָּ֛ם חֲלָלִ֖ים לִפְנֵ֣י יִשְׂרָאֵ֑ל אֶת סוּסֵיהֶ֣ם תְּעַקֵּ֔ר וְאֶת מַרְכְּבֹתֵיהֶ֖ם
-    תִּשְׂרֹ֥ף בָּאֵֽשׁ
-- tradition: judaism
-  ref: Josh 11:9
-  note: The enemy's horses are hamstrung and their chariots burned by divine command
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤עַשׂ לָהֶם֙ יְהוֹשֻׁ֔עַ כַּאֲשֶׁ֥ר אָֽמַר ל֖וֹ יְהוָ֑ה אֶת סוּסֵיהֶ֣ם עִקֵּ֔ר וְאֶת מַרְכְּבֹתֵיהֶ֖ם
-    שָׂרַ֥ף בָּאֵֽשׁ
-- tradition: islam
-  ref: Quran 38:33
-  note: The enemy's horses are hamstrung and their chariots burned by divine command (if 'mash' means
-    slashing legs and necks)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾeṯ-sûsêhem təʿaqqēr wə-ʾeṯ-markəḇōṯêhem tiśrōp̄ bā-ʾēš vs. fa-ṭafiqa masḥan bi-s-sūqi wa-l-aʿnāq.
-    Joshua hamstrings the enemy''s horses at God''s command; if masḥ means cutting, Solomon does it to
-    his own horses as penance. Lead depends on the reading of masḥ.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The enemy''s horses are hamstrung and their chariots burned by divine
     command (weight 6.0). Pair score 6.0.'
@@ -72,6 +46,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The enemy's horses are hamstrung and their chariots burned by divine command
+kinds:
+- echo
+units:
+- id: hb-josh-11-hazor-northern-campaign
+  title: Northern coalition under Jabin of Hazor; hamstrung horses; Anakim destroyed
+  tradition: judaism
+- id: quran-38-solomon-horses-throne
+  title: Solomon's steeds, the body on his throne, and the unmatched kingdom
+  tradition: islam
+matches:
+- kind: echo
+  label: The enemy's horses are hamstrung and their chariots burned by divine command
+  note: ʾeṯ-sûsêhem təʿaqqēr wə-ʾeṯ-markəḇōṯêhem tiśrōp̄ bā-ʾēš vs. fa-ṭafiqa masḥan bi-s-sūqi wa-l-aʿnāq.
+    Joshua hamstrings the enemy's horses at God's command; if masḥ means cutting, Solomon does it to his
+    own horses as penance. Lead depends on the reading of masḥ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 11:6
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֣ה אֶל יְהוֹשֻׁעַ֮ אַל תִּירָ֣א מִפְּנֵיהֶם֒ כִּֽי מָחָ֞ר כָּעֵ֣ת הַזֹּ֗את
+        אָנֹכִ֞י נֹתֵ֧ן אֶת כֻּלָּ֛ם חֲלָלִ֖ים לִפְנֵ֣י יִשְׂרָאֵ֑ל אֶת סוּסֵיהֶ֣ם תְּעַקֵּ֔ר וְאֶת מַרְכְּבֹתֵיהֶ֖ם
+        תִּשְׂרֹ֥ף בָּאֵֽשׁ
+    - ref: Josh 11:9
+      lang: he
+      text: וַיַּ֤עַשׂ לָהֶם֙ יְהוֹשֻׁ֔עַ כַּאֲשֶׁ֥ר אָֽמַר ל֖וֹ יְהוָ֑ה אֶת סוּסֵיהֶ֣ם עִקֵּ֔ר וְאֶת
+        מַרְכְּבֹתֵיהֶ֖ם שָׂרַ֥ף בָּאֵֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:33
+      lang: ar
+      text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
 ---
 
 ## Questions

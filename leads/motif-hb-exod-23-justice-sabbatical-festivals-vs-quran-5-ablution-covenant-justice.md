@@ -2,7 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-5-ablution-covenant-justice
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ Ablution, the covenant 'we
   hear and obey', and justice despite hatred
-summary: 'These two units share 1 motifs: let not hatred of a people move you to injustice; be just.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - hatred-must-not-pervert-justice
-passages:
-- tradition: judaism
-  ref: Exod 23:4
-  note: 'Let not hatred of a people move you to injustice; be just (The cognate root ś-n-ʾ / sh-n-ʾ for
-    enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod:
-    kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô; a duty toward the one who hates you.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ
-- tradition: judaism
-  ref: Exod 23:5
-  note: 'Let not hatred of a people move you to injustice; be just (The cognate root ś-n-ʾ / sh-n-ʾ for
-    enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod:
-    kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô; a duty toward the one who hates you.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
-    תַּעֲזֹ֖ב עִמּֽוֹ
-- tradition: islam
-  ref: Quran 5:8
-  note: Let not hatred of a people move you to injustice; be just
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا يَجْرِمَنَّكُمْ
-    شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: wa-lā yajrimannakum shanaʾānu qawmin ʿalā allā taʿdilū iʿdilū. Exod: ḥămôr śōnaʾăkhā ...
-    lōʾ taṭṭeh mišpaṭ ʾevyōnəkhā bə-rîvô. Both have justice and help owed to one who hates you; the root
-    is cognate (ś-n-ʾ / sh-n-ʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Let not hatred of a people move you to injustice; be just (weight
     6.3). Pair score 6.3.'
@@ -76,6 +48,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Let not hatred of a people move you to injustice; be just
+kinds:
+- echo
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-5-ablution-covenant-justice
+  title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+  tradition: islam
+matches:
+- kind: echo
+  label: Let not hatred of a people move you to injustice; be just
+  note: 'Q: wa-lā yajrimannakum shanaʾānu qawmin ʿalā allā taʿdilū iʿdilū. Exod: ḥămôr śōnaʾăkhā ... lōʾ
+    taṭṭeh mišpaṭ ʾevyōnəkhā bə-rîvô. Both have justice and help owed to one who hates you; the root is
+    cognate (ś-n-ʾ / sh-n-ʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:5
+      lang: he
+      text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
+        תַּעֲזֹ֖ב עִמּֽוֹ
+    - ref: Exod 23:6
+      lang: he
+      text: לֹ֥א תַטֶּ֛ה מִשְׁפַּ֥ט אֶבְיֹנְךָ֖ בְּרִיבֽוֹ
+    - ref: Exod 23:7
+      lang: he
+      text: מִדְּבַר שֶׁ֖קֶר תִּרְחָ֑ק וְנָקִ֤י וְצַדִּיק֙ אַֽל תַּהֲרֹ֔ג כִּ֥י לֹא אַצְדִּ֖יק רָשָֽׁע
+  - tradition: islam
+    passages:
+    - ref: Quran 5:8
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ وَلَا
+        يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 ---
 
 ## Questions

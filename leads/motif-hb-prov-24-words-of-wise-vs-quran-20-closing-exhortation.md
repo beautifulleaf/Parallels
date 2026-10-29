@@ -2,8 +2,7 @@
 id: motif-hb-prov-24-words-of-wise-vs-quran-20-closing-exhortation
 title: End of the Words of the Wise (Amenemope parallel section) ↔ Destroyed generations, patience, prayer
   times and waiting
-summary: 'These two units share 1 motifs: do not stretch your eyes toward the worldly splendor given to
-  others to test them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - do-not-envy-worldly-splendor
-passages:
-- tradition: judaism
-  ref: Prov 24:1
-  note: 'Do not stretch your eyes toward the worldly splendor given to others to test them (ʾal-təqannēʾ
-    bəʾanšê rāʿâ wəʾal-titʾāw lihyôt ʾittām; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā bihi azwājan minhum
-    ... wa-rizqu rabbika khayrun wa-abqā: do not envy the wicked their prosperity.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תְּ֭קַנֵּא בְּאַנְשֵׁ֣י רָעָ֑ה וְאַל תתאו תִּ֝תְאָ֗יו לִהְי֥וֹת אִתָּֽם
-- tradition: islam
-  ref: Quran 20:131
-  note: Do not stretch your eyes toward the worldly splendor given to others to test them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾal-təqannēʾ bəʾanšê rāʿâ wəʾal-titʾāw lihyôt ʾittām; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā
-    bihi azwājan minhum ... wa-rizqu rabbika khayrun wa-abqā: do not envy the wicked their prosperity.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not stretch your eyes toward the worldly splendor given to others
     to test them (weight 6.3). Pair score 6.3.'
@@ -69,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not stretch your eyes toward the worldly splendor given to others to test them
+kinds:
+- parallel
+units:
+- id: hb-prov-24-words-of-wise
+  title: End of the Words of the Wise (Amenemope parallel section)
+  tradition: judaism
+- id: quran-20-closing-exhortation
+  title: Destroyed generations, patience, prayer times and waiting
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not stretch your eyes toward the worldly splendor given to others to test them
+  note: 'ʾal-təqannēʾ bəʾanšê rāʿâ wəʾal-titʾāw lihyôt ʾittām; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā
+    bihi azwājan minhum ... wa-rizqu rabbika khayrun wa-abqā: do not envy the wicked their prosperity.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 24:1
+      lang: he
+      text: אַל תְּ֭קַנֵּא בְּאַנְשֵׁ֣י רָעָ֑ה וְאַל תתאו תִּ֝תְאָ֗יו לִהְי֥וֹת אִתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:131
+      lang: ar
+      text: وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ
+        ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
 ---
 
 ## Questions

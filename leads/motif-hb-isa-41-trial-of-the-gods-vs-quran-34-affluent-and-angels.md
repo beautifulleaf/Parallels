@@ -2,7 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-34-affluent-and-angels
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
-summary: 'These two units share 1 motifs: truth has come; falsehood neither originates nor restores.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - truth-has-come-falsehood-vanishes
-passages:
-- tradition: judaism
-  ref: Isa 41:22
-  note: 'Truth has come; falsehood neither originates nor restores (hā-rīʾšōnôṯ mâ hēnnâ haggîdû ... ʾap̄-têṭîḇû
-    wə-ṯārēʿû vs. wa-mā yubdiʾu l-bāṭilu wa-mā yuʿīd and lā yamliku baʿḍukum li-baʿḍin nafʿan wa-lā ḍarrā:
-    the false gods can neither begin nor bring back, neither help nor harm (têṭîḇû wə-ṯārēʿû = nafʿan
-    wa-ḍarran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ
-    וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ
-- tradition: judaism
-  ref: Isa 41:23
-  note: 'Truth has come; falsehood neither originates nor restores (hā-rīʾšōnôṯ mâ hēnnâ haggîdû ... ʾap̄-têṭîḇû
-    wə-ṯārēʿû vs. wa-mā yubdiʾu l-bāṭilu wa-mā yuʿīd and lā yamliku baʿḍukum li-baʿḍin nafʿan wa-lā ḍarrā:
-    the false gods can neither begin nor bring back, neither help nor harm (têṭîḇû wə-ṯārēʿû = nafʿan
-    wa-ḍarran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַגִּ֨ידוּ֙ הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף תֵּיטִ֣יבוּ וְתָרֵ֔עוּ
-    וְנִשְׁתָּ֖עָה ונרא וְנִרְאֶ֥ה יַחְדָּֽו
-- tradition: islam
-  ref: Quran 34:48
-  note: Truth has come; falsehood neither originates nor restores
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِنَّ رَبِّى يَقْذِفُ بِٱلْحَقِّ عَلَّٰمُ ٱلْغُيُوبِ
-- tradition: islam
-  ref: Quran 34:49
-  note: Truth has come; falsehood neither originates nor restores
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَٰطِلُ وَمَا يُعِيدُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hā-rīʾšōnôṯ mâ hēnnâ haggîdû ... ʾap̄-têṭîḇû wə-ṯārēʿû vs. wa-mā yubdiʾu l-bāṭilu wa-mā yuʿīd
-    and lā yamliku baʿḍukum li-baʿḍin nafʿan wa-lā ḍarrā: the false gods can neither begin nor bring back,
-    neither help nor harm (têṭîḇû wə-ṯārēʿû = nafʿan wa-ḍarran).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Truth has come; falsehood neither originates nor restores (weight
     6.7). Pair score 6.7.'
@@ -88,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Truth has come; falsehood neither originates nor restores
+kinds:
+- echo
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-34-affluent-and-angels
+  title: The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
+  tradition: islam
+matches:
+- kind: echo
+  label: Truth has come; falsehood neither originates nor restores
+  note: 'hā-rīʾšōnôṯ mâ hēnnâ haggîdû ... ʾap̄-têṭîḇû wə-ṯārēʿû vs. wa-mā yubdiʾu l-bāṭilu wa-mā yuʿīd
+    and lā yamliku baʿḍukum li-baʿḍin nafʿan wa-lā ḍarrā: the false gods can neither begin nor bring back,
+    neither help nor harm (têṭîḇû wə-ṯārēʿû = nafʿan wa-ḍarran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:22
+      lang: he
+      text: יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ
+        וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ
+    - ref: Isa 41:23
+      lang: he
+      text: הַגִּ֨ידוּ֙ הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף תֵּיטִ֣יבוּ וְתָרֵ֔עוּ
+        וְנִשְׁתָּ֖עָה ונרא וְנִרְאֶ֥ה יַחְדָּֽו
+  - tradition: islam
+    passages:
+    - ref: Quran 34:42
+      lang: ar
+      text: فَٱلْيَوْمَ لَا يَمْلِكُ بَعْضُكُمْ لِبَعْضٍ نَّفْعًا وَلَا ضَرًّا وَنَقُولُ لِلَّذِينَ ظَلَمُوا۟
+        ذُوقُوا۟ عَذَابَ ٱلنَّارِ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ
+    - ref: Quran 34:49
+      lang: ar
+      text: قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَٰطِلُ وَمَا يُعِيدُ
 ---
 
 ## Questions

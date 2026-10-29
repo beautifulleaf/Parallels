@@ -2,8 +2,7 @@
 id: motif-hb-ps-119-alef-he-vs-quran-6-slaughter-chest-jinn
 title: Psalm 119, stanzas alef to he ↔ Eat what God's name is spoken over; the opened breast; jinn and
   humans judged
-summary: 'These two units share 1 motifs: god opens the breast of the guided to islam; the astray''s breast
-  is tight, as if climbing into the sky.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - breast-opened-or-constricted
-passages:
-- tradition: judaism
-  ref: Ps 119:32
-  note: 'God opens the breast of the guided to Islam; the astray''s breast is tight, as if climbing into
-    the sky (Guidance as a widening of the heart. Q: fa-man yuridi llāhu an yahdiyahu yashraḥ ṣadrahu
-    li-l-islāmi wa-man yurid an yuḍillahu yajʿal ṣadrahu ḍayyiqan ḥarajan. Ps: derekh-miṣwōtêkhā ʾārûṣ
-    kî tarḥîv libbî. Q adds the opposite: the narrowed breast, ''as if climbing into the sky''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דֶּֽרֶךְ מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי
-- tradition: islam
-  ref: Quran 6:125
-  note: God opens the breast of the guided to Islam; the astray's breast is tight, as if climbing into
-    the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَٰمِ وَمَن يُرِدْ أَن يُضِلَّهُۥ
-    يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ
-    ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Guidance as a widening of the heart. Q: fa-man yuridi llāhu an yahdiyahu yashraḥ ṣadrahu li-l-islāmi
-    wa-man yurid an yuḍillahu yajʿal ṣadrahu ḍayyiqan ḥarajan. Ps: derekh-miṣwōtêkhā ʾārûṣ kî tarḥîv libbî.
-    Q adds the opposite: the narrowed breast, ''as if climbing into the sky''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens the breast of the guided to Islam; the astray''s breast
     is tight, as if climbing into the sky (weight 6.7). Pair score 6.7.'
@@ -72,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens the breast of the guided to Islam; the astray's breast is tight, as if climbing into
+  the sky
+kinds:
+- echo
+units:
+- id: hb-ps-119-alef-he
+  title: Psalm 119, stanzas alef to he
+  tradition: judaism
+- id: quran-6-slaughter-chest-jinn
+  title: Eat what God's name is spoken over; the opened breast; jinn and humans judged
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens the breast of the guided to Islam; the astray's breast is tight, as if climbing into
+    the sky
+  note: 'Guidance as a widening of the heart. Q: fa-man yuridi llāhu an yahdiyahu yashraḥ ṣadrahu li-l-islāmi
+    wa-man yurid an yuḍillahu yajʿal ṣadrahu ḍayyiqan ḥarajan. Ps: derekh-miṣwōtêkhā ʾārûṣ kî tarḥîv libbî.
+    Q adds the opposite: the narrowed breast, ''as if climbing into the sky''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:32
+      lang: he
+      text: דֶּֽרֶךְ מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 6:125
+      lang: ar
+      text: فَمَن يُرِدِ ٱللَّهُ أَن يَهْدِيَهُۥ يَشْرَحْ صَدْرَهُۥ لِلْإِسْلَٰمِ وَمَن يُرِدْ أَن يُضِلَّهُۥ
+        يَجْعَلْ صَدْرَهُۥ ضَيِّقًا حَرَجًا كَأَنَّمَا يَصَّعَّدُ فِى ٱلسَّمَآءِ كَذَٰلِكَ يَجْعَلُ ٱللَّهُ
+        ٱلرِّجْسَ عَلَى ٱلَّذِينَ لَا يُؤْمِنُونَ
 ---
 
 ## Questions

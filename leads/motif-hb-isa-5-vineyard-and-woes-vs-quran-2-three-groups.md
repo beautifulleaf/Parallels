@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-2-three-groups
 title: Song of the vineyard; six woes; the nation from afar ↔ Believers, unbelievers and hypocrites
-summary: 'These two units share 1 motifs: woe to those who call evil good and good evil, darkness light
-  and bitter sweet.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +13,9 @@ layers:
 - motif
 motifs:
 - calling-evil-good
-passages:
-- tradition: judaism
-  ref: Isa 5:20
-  note: Woe to those who call evil good and good evil, darkness light and bitter sweet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹי הָאֹמְרִ֥ים לָרַ֛ע ט֖וֹב וְלַטּ֣וֹב רָ֑ע שָׂמִ֨ים חֹ֤שֶׁךְ לְאוֹר֙ וְא֣וֹר לְחֹ֔שֶׁךְ שָׂמִ֥ים
-    מַ֛ר לְמָת֖וֹק וּמָת֥וֹק לְמָֽר
-- tradition: judaism
-  ref: Isa 5:21
-  note: Woe to those who call evil good and good evil, darkness light and bitter sweet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֖וֹי חֲכָמִ֣ים בְּעֵֽינֵיהֶ֑ם וְנֶ֥גֶד פְּנֵיהֶ֖ם נְבֹנִֽים
-- tradition: islam
-  ref: Quran 2:11
-  note: 'Woe to those who call evil good and good evil, darkness light and bitter sweet (Isa 5:20 hôy
-    hā-ʾōmĕrîm lā-raʿ ṭôb ..., 5:21 hôy ḥăkāmîm bĕ-ʿênêhem: those who call evil good and are wise in their
-    own eyes; Q 2:11-12 lā tufsidū fī l-arḍi qālū innamā naḥnu muṣliḥūn / alā innahum humu l-mufsidūn:
-    the corrupters call themselves reformers, and 2:13 call believers fools (sufahāʾ) and are the fools.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
-- tradition: islam
-  ref: Quran 2:12
-  note: 'Woe to those who call evil good and good evil, darkness light and bitter sweet (Isa 5:20 hôy
-    hā-ʾōmĕrîm lā-raʿ ṭôb ..., 5:21 hôy ḥăkāmîm bĕ-ʿênêhem: those who call evil good and are wise in their
-    own eyes; Q 2:11-12 lā tufsidū fī l-arḍi qālū innamā naḥnu muṣliḥūn / alā innahum humu l-mufsidūn:
-    the corrupters call themselves reformers, and 2:13 call believers fools (sufahāʾ) and are the fools.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 5:20 hôy hā-ʾōmĕrîm lā-raʿ ṭôb ..., 5:21 hôy ḥăkāmîm bĕ-ʿênêhem: those who call evil good
-    and are wise in their own eyes; Q 2:11-12 lā tufsidū fī l-arḍi qālū innamā naḥnu muṣliḥūn / alā innahum
-    humu l-mufsidūn: the corrupters call themselves reformers, and 2:13 call believers fools (sufahāʾ)
-    and are the fools.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who call evil good and good evil, darkness light and
     bitter sweet (weight 6.7). Pair score 6.7.'
@@ -88,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to those who call evil good and good evil, darkness light and bitter sweet
+kinds:
+- echo
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: echo
+  label: Woe to those who call evil good and good evil, darkness light and bitter sweet
+  note: 'Isa 5:20 hôy hā-ʾōmĕrîm lā-raʿ ṭôb ..., 5:21 hôy ḥăkāmîm bĕ-ʿênêhem: those who call evil good
+    and are wise in their own eyes; Q 2:11-12 lā tufsidū fī l-arḍi qālū innamā naḥnu muṣliḥūn / alā innahum
+    humu l-mufsidūn: the corrupters call themselves reformers, and 2:13 call believers fools (sufahāʾ)
+    and are the fools.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:20
+      lang: he
+      text: ה֣וֹי הָאֹמְרִ֥ים לָרַ֛ע ט֖וֹב וְלַטּ֣וֹב רָ֑ע שָׂמִ֨ים חֹ֤שֶׁךְ לְאוֹר֙ וְא֣וֹר לְחֹ֔שֶׁךְ
+        שָׂמִ֥ים מַ֛ר לְמָת֖וֹק וּמָת֥וֹק לְמָֽר
+    - ref: Isa 5:21
+      lang: he
+      text: ה֖וֹי חֲכָמִ֣ים בְּעֵֽינֵיהֶ֑ם וְנֶ֥גֶד פְּנֵיהֶ֖ם נְבֹנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:11
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ قَالُوٓا۟ إِنَّمَا نَحْنُ مُصْلِحُونَ
+    - ref: Quran 2:12
+      lang: ar
+      text: أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَٰكِن لَّا يَشْعُرُونَ
+    - ref: Quran 2:13
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓا۟ أَنُؤْمِنُ كَمَآ ءَامَنَ
+        ٱلسُّفَهَآءُ أَلَآ إِنَّهُمْ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعْلَمُونَ
 ---
 
 ## Questions

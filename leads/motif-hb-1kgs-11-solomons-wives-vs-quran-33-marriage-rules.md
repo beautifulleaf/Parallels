@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-11-solomons-wives-vs-quran-33-marriage-rules
 title: Solomon's foreign wives and apostasy ↔ Divorce before consummation; the prophet's marriages; the
   curtain and the cloaks
-summary: 'These two units share 2 motifs: limits on how many wives the leader may take [contrast between
-  the texts], king must not multiply horses, wives or silver and gold, nor return the people to egypt.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,47 +15,9 @@ layers:
 motifs:
 - limit-on-the-leaders-wives-as-contrast
 - king-not-multiply-horses-wives-gold
-passages:
-- tradition: judaism
-  ref: 1Kgs 11:3
-  note: 'Limits on how many wives the leader may take [contrast between the texts] (wa-yəhî-lô nāšîm śārôṯ
-    šəḇaʿ mēʾôṯ û-p̄ilaḡšîm šəlōš mēʾôṯ wa-yyaṭṭû nāšâw ʾeṯ-libbô vs. lā yaḥillu laka n-nisāʾu min baʿdu
-    ... wa-law aʿjabaka ḥusnuhunna: the king''s unlimited harem that turns his heart, against the prophet''s
-    harem closed by decree.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי ל֣וֹ נָשִׁ֗ים שָׂרוֹת֙ שְׁבַ֣ע מֵא֔וֹת וּפִֽלַגְשִׁ֖ים שְׁלֹ֣שׁ מֵא֑וֹת וַיַּטּ֥וּ נָשָׁ֖יו
-    אֶת לִבּֽוֹ
-- tradition: islam
-  ref: Quran 33:52
-  note: 'Limits on how many wives the leader may take [contrast between the texts] (wa-yəhî-lô nāšîm śārôṯ
-    šəḇaʿ mēʾôṯ û-p̄ilaḡšîm šəlōš mēʾôṯ wa-yyaṭṭû nāšâw ʾeṯ-libbô vs. lā yaḥillu laka n-nisāʾu min baʿdu
-    ... wa-law aʿjabaka ḥusnuhunna: the king''s unlimited harem that turns his heart, against the prophet''s
-    harem closed by decree.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ
-    حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا
-- tradition: judaism
-  ref: 1Kgs 11:3
-  note: King must not multiply horses, wives or silver and gold, nor return the people to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי ל֣וֹ נָשִׁ֗ים שָׂרוֹת֙ שְׁבַ֣ע מֵא֔וֹת וּפִֽלַגְשִׁ֖ים שְׁלֹ֣שׁ מֵא֑וֹת וַיַּטּ֥וּ נָשָׁ֖יו
-    אֶת לִבּֽוֹ
-- tradition: islam
-  ref: Quran 33:52
-  note: King must not multiply horses, wives or silver and gold, nor return the people to Egypt (no more
-    women are lawful to the prophet hereafter, even if their beauty pleases him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ
-    حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. wa-yəhî-lô nāšîm śārôṯ šəḇaʿ mēʾôṯ û-p̄ilaḡšîm šəlōš mēʾôṯ wa-yyaṭṭû nāšâw ʾeṯ-libbô vs.
-    lā yaḥillu laka n-nisāʾu min baʿdu ... wa-law aʿjabaka ḥusnuhunna: the king''s unlimited harem that
-    turns his heart, against the prophet''s harem closed by decree.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Limits on how many wives the leader may take [contrast between the
     texts] (weight 6.7); King must not multiply horses, wives or silver and gold, nor return the people
@@ -89,6 +50,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Limits on how many wives the leader may take
+kinds:
+- contrast
+- shared
+units:
+- id: hb-1kgs-11-solomons-wives
+  title: Solomon's foreign wives and apostasy
+  tradition: judaism
+- id: quran-33-marriage-rules
+  title: Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+  tradition: islam
+matches:
+- kind: contrast
+  label: Limits on how many wives the leader may take
+  note: 'wa-yəhî-lô nāšîm śārôṯ šəḇaʿ mēʾôṯ û-p̄ilaḡšîm šəlōš mēʾôṯ wa-yyaṭṭû nāšâw ʾeṯ-libbô vs. lā yaḥillu
+    laka n-nisāʾu min baʿdu ... wa-law aʿjabaka ḥusnuhunna: the king''s unlimited harem that turns his
+    heart, against the prophet''s harem closed by decree.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 11:3
+      lang: he
+      text: וַיְהִי ל֣וֹ נָשִׁ֗ים שָׂרוֹת֙ שְׁבַ֣ע מֵא֔וֹת וּפִֽלַגְשִׁ֖ים שְׁלֹ֣שׁ מֵא֑וֹת וַיַּטּ֥וּ
+        נָשָׁ֖יו אֶת לִבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:52
+      lang: ar
+      text: لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ
+        أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا
+- kind: shared
+  label: King must not multiply horses, wives or silver and gold, nor return the people to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 11:3
+      lang: he
+      text: וַיְהִי ל֣וֹ נָשִׁ֗ים שָׂרוֹת֙ שְׁבַ֣ע מֵא֔וֹת וּפִֽלַגְשִׁ֖ים שְׁלֹ֣שׁ מֵא֑וֹת וַיַּטּ֥וּ
+        נָשָׁ֖יו אֶת לִבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:52
+      lang: ar
+      text: لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ
+        أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا
+    note: no more women are lawful to the prophet hereafter, even if their beauty pleases him
 ---
 
 ## Questions

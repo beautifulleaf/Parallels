@@ -1,8 +1,7 @@
 ---
 id: motif-hb-hab-2-watchtower-and-woes-vs-quran-102-104-rivalry-time-slanderer
 title: The vision on tablets; the righteous live by faith; five woes ↔ Rivalry, time and the slanderer
-summary: 'These two units share 1 motifs: woe to every slanderer and backbiter (humaza lumaza) who amasses
-  and counts wealth, thinking it makes him immortal.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - slanderer-and-hoarder-condemned
-passages:
-- tradition: judaism
-  ref: Hab 2:5
-  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
-    it makes him immortal (waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur
-    ~ hôy ha-mmarbeh llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up
-    of wealth (takāthur ~ marbeh, both ''increasing'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַף֙ כִּֽי הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל
-    נַפְשׁ֗וֹ וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ אֵלָ֖יו
-    כָּל הָעַמִּֽים
-- tradition: judaism
-  ref: Hab 2:6
-  note: 'Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
-    it makes him immortal (waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur
-    ~ hôy ha-mmarbeh llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up
-    of wealth (takāthur ~ marbeh, both ''increasing'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלוֹא אֵ֣לֶּה כֻלָּ֗ם עָלָיו֙ מָשָׁ֣ל יִשָּׂ֔אוּ וּמְלִיצָ֖ה חִיד֣וֹת ל֑וֹ וְיֹאמַ֗ר ה֚וֹי הַמַּרְבֶּ֣ה
-    לֹּא ל֔וֹ עַד מָתַ֕י וּמַכְבִּ֥יד עָלָ֖יו עַבְטִֽיט
-- tradition: islam
-  ref: Quran 104:1
-  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
-    makes him immortal
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
-- tradition: islam
-  ref: Quran 104:2
-  note: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking it
-    makes him immortal
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur ~ hôy ha-mmarbeh
-    llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up of wealth (takāthur
-    ~ marbeh, both ''increasing'').'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every slanderer and backbiter (humaza lumaza) who amasses
     and counts wealth, thinking it makes him immortal (weight 5.6). Pair score 5.6.'
@@ -89,6 +50,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+  it makes him immortal
+kinds:
+- parallel
+units:
+- id: hb-hab-2-watchtower-and-woes
+  title: The vision on tablets; the righteous live by faith; five woes
+  tradition: judaism
+- id: quran-102-104-rivalry-time-slanderer
+  title: Rivalry, time and the slanderer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Woe to every slanderer and backbiter (humaza lumaza) who amasses and counts wealth, thinking
+    it makes him immortal
+  note: 'waylun li-kulli humazatin lumazatin alladhī jamaʿa mālan; alhākumu t-takāthur ~ hôy ha-mmarbeh
+    llōʾ lô ... we-lōʾ yiśbāʿ wa-yyeʾĕsōf ʾēlāyw: a ''woe'' on the insatiable piler-up of wealth (takāthur
+    ~ marbeh, both ''increasing'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:5
+      lang: he
+      text: וְאַף֙ כִּֽי הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל
+        נַפְשׁ֗וֹ וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ
+        אֵלָ֖יו כָּל הָעַמִּֽים
+    - ref: Hab 2:6
+      lang: he
+      text: הֲלוֹא אֵ֣לֶּה כֻלָּ֗ם עָלָיו֙ מָשָׁ֣ל יִשָּׂ֔אוּ וּמְלִיצָ֖ה חִיד֣וֹת ל֑וֹ וְיֹאמַ֗ר ה֚וֹי
+        הַמַּרְבֶּ֣ה לֹּא ל֔וֹ עַד מָתַ֕י וּמַכְבִּ֥יד עָלָ֖יו עַבְטִֽיט
+  - tradition: islam
+    passages:
+    - ref: Quran 104:1
+      lang: ar
+      text: وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
+    - ref: Quran 104:2
+      lang: ar
+      text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
+    - ref: Quran 102:1
+      lang: ar
+      text: أَلْهَىٰكُمُ ٱلتَّكَاثُرُ
 ---
 
 ## Questions

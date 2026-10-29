@@ -2,8 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-28-pharaohs-tower-and-end
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Pharaoh,
   'no god but me', Haman's tower of fired brick, and the drowning
-summary: 'These two units share 1 motifs: prophet''s wonders are imitated by the king''s magicians in
-  a contest.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - contest-with-court-magicians
-passages:
-- tradition: judaism
-  ref: Exod 7:11
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: judaism
-  ref: Exod 7:12
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
-- tradition: islam
-  ref: Quran 28:36
-  note: Prophet's wonders are imitated by the king's magicians in a contest (the signs dismissed as forged
-    sorcery)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى
-    وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. qālū mā hādhā illā siḥrun muftaran ~ wa-yyaʿăśû gam hēm ḥarṭummê Miṣrayim bə-lahăṭêhem kēn:
-    the signs set on a level with sorcery; Exodus by imitation, the Quran by the charge ''forged magic''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet''s wonders are imitated by the king''s magicians in a contest
     (weight 5.1). Pair score 5.1.'
@@ -78,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet's wonders are imitated by the king's magicians in a contest
+kinds:
+- echo
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  note: 'qālū mā hādhā illā siḥrun muftaran ~ wa-yyaʿăśû gam hēm ḥarṭummê Miṣrayim bə-lahăṭêhem kēn: the
+    signs set on a level with sorcery; Exodus by imitation, the Quran by the charge ''forged magic''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 28:36
+      lang: ar
+      text: فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٍ قَالُوا۟ مَا هَٰذَآ إِلَّا سِحْرٌ مُّفْتَرًى
+        وَمَا سَمِعْنَا بِهَٰذَا فِىٓ ءَابَآئِنَا ٱلْأَوَّلِينَ
 ---
 
 ## Questions

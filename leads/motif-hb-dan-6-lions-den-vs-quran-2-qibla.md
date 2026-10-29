@@ -1,7 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-2-qibla
 title: Daniel in the lions' den ↔ The change of qibla
-summary: 'These two units share 1 motifs: the direction faced in prayer [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,53 +13,9 @@ layers:
 - motif
 motifs:
 - direction-of-prayer-as-divergence
-passages:
-- tradition: judaism
-  ref: Dan 6:11
-  note: 'The direction faced in prayer [divergence between the texts] (Dan 6:11 wĕ-kawwîn pĕtîḥān lēh
-    bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through windows open toward Jerusalem; Q 2:142-144
-    mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli wajhaka shaṭra l-masjidi l-ḥarām: the
-    believers are turned from their former qibla (by tradition Jerusalem) to the Sacred Mosque. The fixed
-    direction of prayer is kept and its goal changed. Note the cognate prayer verb (Aram. mĕṣallēʾ / Ar.
-    ṣallā, muṣallā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙
-    בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
-    וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
-- tradition: islam
-  ref: Quran 2:142
-  note: 'The direction faced in prayer [divergence between the texts] (Dan 6:11 wĕ-kawwîn pĕtîḥān lēh
-    bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through windows open toward Jerusalem; Q 2:142-144
-    mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli wajhaka shaṭra l-masjidi l-ḥarām: the
-    believers are turned from their former qibla (by tradition Jerusalem) to the Sacred Mosque. The fixed
-    direction of prayer is kept and its goal changed. Note the cognate prayer verb (Aram. mĕṣallēʾ / Ar.
-    ṣallā, muṣallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا
-    قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
-- tradition: islam
-  ref: Quran 2:144
-  note: 'The direction faced in prayer [divergence between the texts] (Dan 6:11 wĕ-kawwîn pĕtîḥān lēh
-    bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through windows open toward Jerusalem; Q 2:142-144
-    mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli wajhaka shaṭra l-masjidi l-ḥarām: the
-    believers are turned from their former qibla (by tradition Jerusalem) to the Sacred Mosque. The fixed
-    direction of prayer is kept and its goal changed. Note the cognate prayer verb (Aram. mĕṣallēʾ / Ar.
-    ṣallā, muṣallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
-    وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
-    ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
-    عَمَّا يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Dan 6:11 wĕ-kawwîn pĕtîḥān lēh bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through
-    windows open toward Jerusalem; Q 2:142-144 mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli
-    wajhaka shaṭra l-masjidi l-ḥarām: the believers are turned from their former qibla (by tradition Jerusalem)
-    to the Sacred Mosque. The fixed direction of prayer is kept and its goal changed. Note the cognate
-    prayer verb (Aram. mĕṣallēʾ / Ar. ṣallā, muṣallā).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The direction faced in prayer [divergence between the texts] (weight
     6.0). Pair score 6.0.'
@@ -90,6 +46,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The direction faced in prayer
+kinds:
+- divergence
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-2-qibla
+  title: The change of qibla
+  tradition: islam
+matches:
+- kind: divergence
+  label: The direction faced in prayer
+  note: 'Dan 6:11 wĕ-kawwîn pĕtîḥān lēh bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through
+    windows open toward Jerusalem; Q 2:142-144 mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli
+    wajhaka shaṭra l-masjidi l-ḥarām: the believers are turned from their former qibla (by tradition Jerusalem)
+    to the Sacred Mosque. The fixed direction of prayer is kept and its goal changed. Note the cognate
+    prayer verb (Aram. mĕṣallēʾ / Ar. ṣallā, muṣallā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:11
+      lang: he
+      text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן
+        לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
+        וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:142
+      lang: ar
+      text: سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا
+        قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+    - ref: Quran 2:144
+      lang: ar
+      text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
+        وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
+        ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا يَعْمَلُونَ
 ---
 
 ## Questions

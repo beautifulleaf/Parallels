@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-10-locusts-darkness-vs-quran-10-moses-pharaoh
 title: 'Plagues 8-9: locusts and darkness ↔ Moses, the houses as qibla, and Pharaoh''s drowning faith'
-summary: 'These two units share 2 motifs: the king confesses he has sinned and that god is righteous,
-  the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,51 +15,7 @@ layers:
 motifs:
 - pharaoh-confesses-sin
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 10:16
-  note: The king confesses he has sinned and that God is righteous
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַהֵ֣ר פַּרְעֹ֔ה לִקְרֹ֖א לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֑ן וַיֹּ֗אמֶר חָטָ֛אתִי לַיהוָ֥ה אֱלֹֽהֵיכֶ֖ם
-    וְלָכֶֽם
-- tradition: judaism
-  ref: Exod 10:17
-  note: The king confesses he has sinned and that God is righteous
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה שָׂ֣א נָ֤א חַטָּאתִי֙ אַ֣ךְ הַפַּ֔עַם וְהַעְתִּ֖ירוּ לַיהוָ֣ה אֱלֹהֵיכֶ֑ם וְיָסֵר֙ מֵֽעָלַ֔י
-    רַ֖ק אֶת הַמָּ֥וֶת הַזֶּֽה
-- tradition: islam
-  ref: Quran 10:90
-  note: The king confesses he has sinned and that God is righteous
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
-    حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
-    بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
-- tradition: judaism
-  ref: Exod 10:1
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה כִּֽי אֲנִ֞י הִכְבַּ֤דְתִּי אֶת לִבּוֹ֙ וְאֶת
-    לֵ֣ב עֲבָדָ֔יו לְמַ֗עַן שִׁתִ֛י אֹתֹתַ֥י אֵ֖לֶּה בְּקִרְבּֽוֹ
-- tradition: judaism
-  ref: Exod 10:20
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֥ק יְהוָ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king confesses he has sinned and that God is righteous (weight
     6.3); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
@@ -96,6 +51,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king confesses he has sinned and that God is righteous
+kinds:
+- shared
+units:
+- id: hb-exod-10-locusts-darkness
+  title: 'Plagues 8-9: locusts and darkness'
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: shared
+  label: The king confesses he has sinned and that God is righteous
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 10:16
+      lang: he
+      text: וַיְמַהֵ֣ר פַּרְעֹ֔ה לִקְרֹ֖א לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֑ן וַיֹּ֗אמֶר חָטָ֛אתִי לַיהוָ֥ה אֱלֹֽהֵיכֶ֖ם
+        וְלָכֶֽם
+    - ref: Exod 10:17
+      lang: he
+      text: וְעַתָּ֗ה שָׂ֣א נָ֤א חַטָּאתִי֙ אַ֣ךְ הַפַּ֔עַם וְהַעְתִּ֖ירוּ לַיהוָ֣ה אֱלֹהֵיכֶ֑ם וְיָסֵר֙
+        מֵֽעָלַ֔י רַ֖ק אֶת הַמָּ֥וֶת הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:90
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا
+        وَعَدْوًا حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ
+        ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 10:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה כִּֽי אֲנִ֞י הִכְבַּ֤דְתִּי אֶת לִבּוֹ֙
+        וְאֶת לֵ֣ב עֲבָדָ֔יו לְמַ֗עַן שִׁתִ֛י אֹתֹתַ֥י אֵ֖לֶּה בְּקִרְבּֽוֹ
+    - ref: Exod 10:20
+      lang: he
+      text: וַיְחַזֵּ֥ק יְהוָ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֥י יִשְׂרָאֵֽל
+    - ref: Exod 10:27
+      lang: he
+      text: וַיְחַזֵּ֥ק יְהוָ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְלֹ֥א אָבָ֖ה לְשַׁלְּחָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

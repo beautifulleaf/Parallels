@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-23-lordship-arguments
 title: Psalm 2 - the nations rage; the king as God's son ↔ Who owns the earth? The fables of the ancients
   and the impossibility of many gods
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: judaism
-  ref: Ps 2:2
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
-- tradition: islam
-  ref: Quran 23:91
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (mā ttakhadha llāhu min waladin ~ bənî ʾattâ ʾănî hay-yôm yəlidtîkā: God declares the king his begotten
-    son in the Psalm; the Quran denies that God took any child (walad). The Quran''s target is Christian
-    and pagan claims, not Ps 2 directly; recorded as a lead on divine sonship.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
-    بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. mā ttakhadha llāhu min waladin ~ bənî ʾattâ ʾănî hay-yôm yəlidtîkā: God declares the king
-    his begotten son in the Psalm; the Quran denies that God took any child (walad). The Quran''s target
-    is Christian and pagan claims, not Ps 2 directly; recorded as a lead on divine sonship.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [contrast between the texts] (weight 5.4). Pair score 5.4.'
@@ -82,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: 'mā ttakhadha llāhu min waladin ~ bənî ʾattâ ʾănî hay-yôm yəlidtîkā: God declares the king his
+    begotten son in the Psalm; the Quran denies that God took any child (walad). The Quran''s target is
+    Christian and pagan claims, not Ps 2 directly; recorded as a lead on divine sonship.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:91
+      lang: ar
+      text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
+        بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
 ---
 
 ## Questions

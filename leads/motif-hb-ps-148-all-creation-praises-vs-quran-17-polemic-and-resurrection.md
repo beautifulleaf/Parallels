@@ -2,8 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-17-polemic-and-resurrection
 title: Psalm 148, praise from heaven and earth ↔ Daughters of God, all things glorify him, bones and dust,
   the cursed tree (Surah 17:40-60)
-summary: 'These two units share 1 motifs: the seven heavens, the earth and everything in them glorify
-  god, though humans do not understand their praise.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - all-creation-glorifies-god
-passages:
-- tradition: judaism
-  ref: Ps 148:1
-  note: 'The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (tusabbiḥu lahu s-samāwātu s-sabʿu wa-l-arḍu wa-man fīhinna wa-in min shayʾin illā yusabbiḥu
-    bi-ḥamdih; hallûhû ... šəmê haššāmāyim ... min-hāʾāreṣ tannînîm ... ʾēš ûbārād ... hehārîm ... ʿēṣ
-    pərî: heavens, earth and everything in them, living or not, praise God. Ps calls on them to praise;
-    Q states that they already do.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥לְלוּ יָ֨הּ הַֽלְל֣וּ אֶת יְ֭הוָה מִן הַשָּׁמַ֑יִם הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים
-- tradition: judaism
-  ref: Ps 148:2
-  note: 'The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (tusabbiḥu lahu s-samāwātu s-sabʿu wa-l-arḍu wa-man fīhinna wa-in min shayʾin illā yusabbiḥu
-    bi-ḥamdih; hallûhû ... šəmê haššāmāyim ... min-hāʾāreṣ tannînîm ... ʾēš ûbārād ... hehārîm ... ʿēṣ
-    pərî: heavens, earth and everything in them, living or not, praise God. Ps calls on them to praise;
-    Q states that they already do.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽלְל֥וּהוּ כָל מַלְאָכָ֑יו הַֽ֝לְל֗וּהוּ כָּל צבאו צְבָאָֽיו
-- tradition: islam
-  ref: Quran 17:44
-  note: The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (there is nothing but glorifies his praise, though you do not understand their glorification)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ
-    بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. tusabbiḥu lahu s-samāwātu s-sabʿu wa-l-arḍu wa-man fīhinna wa-in min shayʾin illā yusabbiḥu
-    bi-ḥamdih; hallûhû ... šəmê haššāmāyim ... min-hāʾāreṣ tannînîm ... ʾēš ûbārād ... hehārîm ... ʿēṣ
-    pərî: heavens, earth and everything in them, living or not, praise God. Ps calls on them to praise;
-    Q states that they already do.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seven heavens, the earth and everything in them glorify God,
     though humans do not understand their praise (weight 6.3). Pair score 6.3.'
@@ -87,6 +54,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The seven heavens, the earth and everything in them glorify God, though humans do not understand
+  their praise
+kinds:
+- parallel
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The seven heavens, the earth and everything in them glorify God, though humans do not understand
+    their praise
+  note: 'tusabbiḥu lahu s-samāwātu s-sabʿu wa-l-arḍu wa-man fīhinna wa-in min shayʾin illā yusabbiḥu bi-ḥamdih;
+    hallûhû ... šəmê haššāmāyim ... min-hāʾāreṣ tannînîm ... ʾēš ûbārād ... hehārîm ... ʿēṣ pərî: heavens,
+    earth and everything in them, living or not, praise God. Ps calls on them to praise; Q states that
+    they already do.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:1
+      lang: he
+      text: הַ֥לְלוּ יָ֨הּ הַֽלְל֣וּ אֶת יְ֭הוָה מִן הַשָּׁמַ֑יִם הַֽ֝לְל֗וּהוּ בַּמְּרוֹמִֽים
+    - ref: Ps 148:2
+      lang: he
+      text: הַֽלְל֥וּהוּ כָל מַלְאָכָ֑יו הַֽ֝לְל֗וּהוּ כָּל צבאו צְבָאָֽיו
+    - ref: Ps 148:3
+      lang: he
+      text: הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל כּ֥וֹכְבֵי אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 17:44
+      lang: ar
+      text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا
+        يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
 ---
 
 ## Questions

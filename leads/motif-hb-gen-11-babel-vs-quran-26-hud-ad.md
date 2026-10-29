@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-11-babel-vs-quran-26-hud-ad
 title: The Tower of Babel ↔ Hud and the monument-building people of Ad
-summary: 'These two units share 2 motifs: builders seek to make a name for themselves and avoid dispersal,
-  building with baked bricks and bitumen instead of stone and mortar.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,61 +14,9 @@ layers:
 motifs:
 - make-a-name-for-ourselves
 - brick-and-bitumen-building
-passages:
-- tradition: judaism
-  ref: Gen 11:4
-  note: Builders seek to make a name for themselves and avoid dispersal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
-    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 26:128
-  note: 'Builders seek to make a name for themselves and avoid dispersal (a-tabnūna bi-kulli rīʿin āyatan
-    taʿbathūna wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô
-    vaš-šāmayim wə-naʿăśeh llānû šēm: monumental building to win permanence. The Quran does not mention
-    bricks and bitumen (Gen 11:3). The punishment differs: Babel''s builders are scattered, ʿĀd is destroyed
-    for rejecting its messenger (26:139).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
-- tradition: islam
-  ref: Quran 26:129
-  note: 'Builders seek to make a name for themselves and avoid dispersal (a-tabnūna bi-kulli rīʿin āyatan
-    taʿbathūna wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô
-    vaš-šāmayim wə-naʿăśeh llānû šēm: monumental building to win permanence. The Quran does not mention
-    bricks and bitumen (Gen 11:3). The punishment differs: Babel''s builders are scattered, ʿĀd is destroyed
-    for rejecting its messenger (26:139).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
-- tradition: judaism
-  ref: Gen 11:3
-  note: Building with baked bricks and bitumen instead of stone and mortar
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ אִ֣ישׁ אֶל רֵעֵ֗הוּ הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְנִשְׂרְפָ֖ה לִשְׂרֵפָ֑ה וַתְּהִ֨י
-    לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר
-- tradition: islam
-  ref: Quran 26:128
-  note: Building with baked bricks and bitumen instead of stone and mortar (building to win immortality,
-    compare the tower of Gen 11:4 'let us make a name')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
-- tradition: islam
-  ref: Quran 26:129
-  note: Building with baked bricks and bitumen instead of stone and mortar (building to win immortality,
-    compare the tower of Gen 11:4 'let us make a name')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-tabnūna bi-kulli rīʿin āyatan taʿbathūna wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~
-    hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim wə-naʿăśeh llānû šēm: monumental building to win
-    permanence. The Quran does not mention bricks and bitumen (Gen 11:3). The punishment differs: Babel''s
-    builders are scattered, ʿĀd is destroyed for rejecting its messenger (26:139).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Builders seek to make a name for themselves and avoid dispersal
     (weight 6.7); Building with baked bricks and bitumen instead of stone and mortar (weight 6.3). Pair
@@ -100,6 +47,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Builders seek to make a name for themselves and avoid dispersal
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-11-babel
+  title: The Tower of Babel
+  tradition: judaism
+- id: quran-26-hud-ad
+  title: Hud and the monument-building people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Builders seek to make a name for themselves and avoid dispersal
+  note: 'a-tabnūna bi-kulli rīʿin āyatan taʿbathūna wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~
+    hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim wə-naʿăśeh llānû šēm: monumental building to win
+    permanence. The Quran does not mention bricks and bitumen (Gen 11:3). The punishment differs: Babel''s
+    builders are scattered, ʿĀd is destroyed for rejecting its messenger (26:139).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:4
+      lang: he
+      text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה
+        לָּ֖נוּ שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:128
+      lang: ar
+      text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
+    - ref: Quran 26:129
+      lang: ar
+      text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
+- kind: shared
+  label: Building with baked bricks and bitumen instead of stone and mortar
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:3
+      lang: he
+      text: וַיֹּאמְר֞וּ אִ֣ישׁ אֶל רֵעֵ֗הוּ הָ֚בָה נִלְבְּנָ֣ה לְבֵנִ֔ים וְנִשְׂרְפָ֖ה לִשְׂרֵפָ֑ה וַתְּהִ֨י
+        לָהֶ֤ם הַלְּבֵנָה֙ לְאָ֔בֶן וְהַ֣חֵמָ֔ר הָיָ֥ה לָהֶ֖ם לַחֹֽמֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 26:128
+      lang: ar
+      text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
+    - ref: Quran 26:129
+      lang: ar
+      text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
+    note: building to win immortality, compare the tower of Gen 11:4 'let us make a name'
 ---
 
 ## Questions

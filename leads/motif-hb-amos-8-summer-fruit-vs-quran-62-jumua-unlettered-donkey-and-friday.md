@@ -2,8 +2,7 @@
 id: motif-hb-amos-8-summer-fruit-vs-quran-62-jumua-unlettered-donkey-and-friday
 title: 'The basket of summer fruit; cheating merchants; famine of the word ↔ Al-Jumu''a: the messenger
   among the unlettered, the donkey carrying books, wishing for death, and the Friday prayer'
-summary: 'These two units share 1 motifs: merchants ask when the new moon and sabbath will be over so
-  they can sell grain with small ephah, big shekel and false scales.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,48 +15,9 @@ layers:
 - motif
 motifs:
 - merchants-impatient-for-sabbath-to-end
-passages:
-- tradition: judaism
-  ref: Amos 8:4-6
-  note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
-    big shekel and false scales
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:4) שִׁמְעוּ זֹ֕את הַשֹּׁאֲפִ֖ים אֶבְי֑וֹן וְלַשְׁבִּ֖ית ענוי עֲנִיֵּי אָֽרֶץ (8:5) לֵאמֹ֗ר
-    מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין אֵיפָה֙
-    וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה (8:6) לִקְנ֤וֹת בַּכֶּ֨סֶף֙ דַּלִּ֔ים וְאֶבְי֖וֹן
-    בַּעֲב֣וּר נַעֲלָ֑יִם וּמַפַּ֥ל בַּ֖ר נַשְׁבִּֽיר
-- tradition: judaism
-  ref: Amos 8:5
-  note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
-    big shekel and false scales
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין
-    אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
-- tradition: islam
-  ref: Quran 62:10
-  note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
-    big shekel and false scales
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟
-    ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
-- tradition: islam
-  ref: Quran 62:11
-  note: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
-    big shekel and false scales
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا قُلْ مَا عِندَ
-    ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Commerce pulling people away from the holy time: mātay yaʿăḇōr ha-ḥōḏeš wə-našbîrâ šeḇer
-    wə-haš-šabbāṯ wə-nip̄təḥâ bār vs. wa-idhā raʾaw tijāratan aw lahwan nfaḍḍū ilayhā wa-tarakūka qāʾiman,
-    qul mā ʿinda llāhi khayrun mina l-lahwi wa-mina t-tijāra. Amos''s merchants wait impatiently for the
-    Sabbath to end; the Quran''s congregation leaves the Prophet in the middle of the Friday sermon for
-    a caravan.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Merchants ask when the new moon and sabbath will be over so they
     can sell grain with small ephah, big shekel and false scales (weight 6.7). Pair score 6.7.'
@@ -95,6 +55,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
+  big shekel and false scales
+kinds:
+- parallel
+units:
+- id: hb-amos-8-summer-fruit
+  title: The basket of summer fruit; cheating merchants; famine of the word
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Merchants ask when the new moon and sabbath will be over so they can sell grain with small ephah,
+    big shekel and false scales
+  note: 'Commerce pulling people away from the holy time: mātay yaʿăḇōr ha-ḥōḏeš wə-našbîrâ šeḇer wə-haš-šabbāṯ
+    wə-nip̄təḥâ bār vs. wa-idhā raʾaw tijāratan aw lahwan nfaḍḍū ilayhā wa-tarakūka qāʾiman, qul mā ʿinda
+    llāhi khayrun mina l-lahwi wa-mina t-tijāra. Amos''s merchants wait impatiently for the Sabbath to
+    end; the Quran''s congregation leaves the Prophet in the middle of the Friday sermon for a caravan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 8:5
+      lang: he
+      text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר
+        לְהַקְטִ֤ין אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 62:11
+      lang: ar
+      text: وَإِذَا رَأَوْا۟ تِجَٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا قُلْ مَا
+        عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَٰرَةِ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ
 ---
 
 ## Questions

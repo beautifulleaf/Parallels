@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-2-wine-marriage
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Wine, gambling, orphans,
   mixed marriage and menstruation
-summary: 'These two units share 1 motifs: whether wine is good or harmful [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - worth-of-wine-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 104:15
-  note: 'Whether wine is good or harmful [contrast between the texts] (Ps 104:15 wĕ-yayin yĕśammaḥ lĕbab
-    ʾĕnôš: wine is God''s gift to gladden man, listed with oil and bread; Q 2:219 fīhimā ithmun kabīrun
-    ... wa-ithmuhumā akbaru min nafʿihimā: wine is mainly sin. The psalm praises the benefit; the Quran
-    admits it and judges the harm greater.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיַ֤יִן יְשַׂמַּ֬ח לְֽבַב אֱנ֗וֹשׁ לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן וְ֝לֶ֗חֶם לְֽבַב אֱנ֥וֹשׁ
-    יִסְעָֽד
-- tradition: islam
-  ref: Quran 2:219
-  note: 'Whether wine is good or harmful [contrast between the texts] (Ps 104:15 wĕ-yayin yĕśammaḥ lĕbab
-    ʾĕnôš: wine is God''s gift to gladden man, listed with oil and bread; Q 2:219 fīhimā ithmun kabīrun
-    ... wa-ithmuhumā akbaru min nafʿihimā: wine is mainly sin. The psalm praises the benefit; the Quran
-    admits it and judges the harm greater.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ
-    وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ
-    يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Ps 104:15 wĕ-yayin yĕśammaḥ lĕbab ʾĕnôš: wine is God''s gift to gladden man, listed with
-    oil and bread; Q 2:219 fīhimā ithmun kabīrun ... wa-ithmuhumā akbaru min nafʿihimā: wine is mainly
-    sin. The psalm praises the benefit; the Quran admits it and judges the harm greater.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether wine is good or harmful [contrast between the texts] (weight
     6.7). Pair score 6.7.'
@@ -76,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether wine is good or harmful
+kinds:
+- contrast
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether wine is good or harmful
+  note: 'Ps 104:15 wĕ-yayin yĕśammaḥ lĕbab ʾĕnôš: wine is God''s gift to gladden man, listed with oil
+    and bread; Q 2:219 fīhimā ithmun kabīrun ... wa-ithmuhumā akbaru min nafʿihimā: wine is mainly sin.
+    The psalm praises the benefit; the Quran admits it and judges the harm greater.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:15
+      lang: he
+      text: וְיַ֤יִן יְשַׂמַּ֬ח לְֽבַב אֱנ֗וֹשׁ לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן וְ֝לֶ֗חֶם לְֽבַב אֱנ֥וֹשׁ
+        יִסְעָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:219
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ
+        وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ
+        يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 ---
 
 ## Questions

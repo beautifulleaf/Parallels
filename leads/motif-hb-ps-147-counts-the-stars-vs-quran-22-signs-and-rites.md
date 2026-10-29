@@ -2,8 +2,7 @@
 id: motif-hb-ps-147-counts-the-stars-vs-quran-22-signs-and-rites
 title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow ↔ Migrants provided for; the night
   and day, the held sky, a rite for every nation
-summary: 'These two units share 1 motifs: god visits the earth with rain, softens it with showers, and
-  crowns the year with harvest.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - god-gives-rain-and-harvest
-passages:
-- tradition: judaism
-  ref: Ps 147:8
-  note: God visits the earth with rain, softens it with showers, and crowns the year with harvest (Covers
-    heaven with clouds, makes grass grow on mountains)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽמְכַסֶּ֬ה שָׁמַ֨יִם בְּעָבִ֗ים הַמֵּכִ֣ין לָאָ֣רֶץ מָטָ֑ר הַמַּצְמִ֖יחַ הָרִ֣ים חָצִֽיר
-- tradition: islam
-  ref: Quran 22:63
-  note: 'God visits the earth with rain, softens it with showers, and crowns the year with harvest (anzala
-    mina s-samāʾi māʾan fa-tuṣbiḥu l-arḍu mukhḍarratan ~ ha-mmēkîn lā-ʾāreṣ māṭār ha-mmaṣmîaḥ hārîm ḥāṣîr:
-    rain from the sky turns the land green.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلْأَرْضُ مُخْضَرَّةً إِنَّ
-    ٱللَّهَ لَطِيفٌ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. anzala mina s-samāʾi māʾan fa-tuṣbiḥu l-arḍu mukhḍarratan ~ ha-mmēkîn lā-ʾāreṣ māṭār ha-mmaṣmîaḥ
-    hārîm ḥāṣîr: rain from the sky turns the land green.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God visits the earth with rain, softens it with showers, and crowns
     the year with harvest (weight 5.3). Pair score 5.3.'
@@ -67,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God visits the earth with rain, softens it with showers, and crowns the year with harvest
+kinds:
+- echo
+units:
+- id: hb-ps-147-counts-the-stars
+  title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow
+  tradition: judaism
+- id: quran-22-signs-and-rites
+  title: Migrants provided for; the night and day, the held sky, a rite for every nation
+  tradition: islam
+matches:
+- kind: echo
+  label: God visits the earth with rain, softens it with showers, and crowns the year with harvest
+  note: 'anzala mina s-samāʾi māʾan fa-tuṣbiḥu l-arḍu mukhḍarratan ~ ha-mmēkîn lā-ʾāreṣ māṭār ha-mmaṣmîaḥ
+    hārîm ḥāṣîr: rain from the sky turns the land green.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 147:8
+      lang: he
+      text: הַֽמְכַסֶּ֬ה שָׁמַ֨יִם בְּעָבִ֗ים הַמֵּכִ֣ין לָאָ֣רֶץ מָטָ֑ר הַמַּצְמִ֖יחַ הָרִ֣ים חָצִֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 22:63
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَتُصْبِحُ ٱلْأَرْضُ مُخْضَرَّةً
+        إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
 ---
 
 ## Questions

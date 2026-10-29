@@ -2,10 +2,7 @@
 id: motif-hb-jonah-2-in-the-fish-vs-quran-68-qalam-shin-and-jonah
 title: Jonah swallowed by the great fish and his psalm ↔ Do you have a book or oaths binding God?; the
   shin laid bare; the companion of the fish; the evil eye
-summary: 'These two units share 4 motifs: at god''s command the fish vomits the prophet onto dry land
-  [divergence between the texts], the prophet prays to god from inside the fish [divergence between the
-  texts], the prophet prays to god from inside the fish, at god''s command the fish vomits the prophet
-  onto dry land.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,94 +17,9 @@ motifs:
 - prayer-from-belly-of-fish-as-divergence
 - prayer-from-belly-of-fish
 - fish-vomits-prophet-onto-land
-passages:
-- tradition: judaism
-  ref: Jonah 2:11
-  note: 'At God''s command the fish vomits the prophet onto dry land [divergence between the texts] (Outcome
-    made counterfactual: Jonah 2:11 wa-yyāqēʾ ʾet Yônāh ʾel ha-yyabbāšāh (he is spat onto dry land). Q
-    68:49 law-lā an tadārakahu niʿmatun min rabbihi la-nubidha bi-l-ʿarāʾi wa-huwa madhmūm: without his
-    Lord''s grace he WOULD have been thrown on the barren shore in disgrace. (Q 37:145 says he was thrown
-    there, sick, outside this unit.))'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת יוֹנָ֖ה אֶל הַיַּבָּשָֽׁה
-- tradition: islam
-  ref: Quran 68:49
-  note: 'At God''s command the fish vomits the prophet onto dry land [divergence between the texts] (Outcome
-    made counterfactual: Jonah 2:11 wa-yyāqēʾ ʾet Yônāh ʾel ha-yyabbāšāh (he is spat onto dry land). Q
-    68:49 law-lā an tadārakahu niʿmatun min rabbihi la-nubidha bi-l-ʿarāʾi wa-huwa madhmūm: without his
-    Lord''s grace he WOULD have been thrown on the barren shore in disgrace. (Q 37:145 says he was thrown
-    there, sick, outside this unit.))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ
-- tradition: judaism
-  ref: Jonah 2:1
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה
-    יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת
-- tradition: judaism
-  ref: Jonah 2:2
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
-- tradition: islam
-  ref: Quran 68:48
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (The cry from the
-    fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH wa-yyaʿănēnî, a psalm of thanksgiving.
-    Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti idh nādā wa-huwa makẓūm: the call made
-    ''choked with grief/anger'' is held up as what the prophet must not imitate. Jonah is unnamed, ''the
-    companion of the fish''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: judaism
-  ref: Jonah 2:2
-  note: The prophet prays to God from inside the fish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
-- tradition: islam
-  ref: Quran 68:48
-  note: The prophet prays to God from inside the fish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: judaism
-  ref: Jonah 2:11
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת יוֹנָ֖ה אֶל הַיַּבָּשָֽׁה
-- tradition: islam
-  ref: Quran 68:49
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. The cry from the fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH
-    wa-yyaʿănēnî, a psalm of thanksgiving. Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti
-    idh nādā wa-huwa makẓūm: the call made ''choked with grief/anger'' is held up as what the prophet
-    must not imitate. Jonah is unnamed, ''the companion of the fish''. Outcome made counterfactual: Jonah
-    2:11 wa-yyāqēʾ ʾet Yônāh ʾel ha-yyabbāšāh (he is spat onto dry land). Q 68:49 law-lā an tadārakahu
-    niʿmatun min rabbihi la-nubidha bi-l-ʿarāʾi wa-huwa madhmūm: without his Lord''s grace he WOULD have
-    been thrown on the barren shore in disgrace. (Q 37:145 says he was thrown there, sick, outside this
-    unit.).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At God''s command the fish vomits the prophet onto dry land [divergence
     between the texts] (weight 6.7); The prophet prays to God from inside the fish [divergence between
@@ -149,6 +61,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet prays to God from inside the fish
+kinds:
+- divergence
+units:
+- id: hb-jonah-2-in-the-fish
+  title: Jonah swallowed by the great fish and his psalm
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet prays to God from inside the fish
+  note: 'The cry from the fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH wa-yyaʿănēnî,
+    a psalm of thanksgiving. Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti idh nādā wa-huwa
+    makẓūm: the call made ''choked with grief/anger'' is held up as what the prophet must not imitate.
+    Jonah is unnamed, ''the companion of the fish''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:2
+      lang: he
+      text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
+    - ref: Jonah 2:3
+      lang: he
+      text: וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי
+        שָׁמַ֥עְתָּ קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 68:48
+      lang: ar
+      text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+- kind: divergence
+  label: At God's command the fish vomits the prophet onto dry land
+  note: 'Outcome made counterfactual: Jonah 2:11 wa-yyāqēʾ ʾet Yônāh ʾel ha-yyabbāšāh (he is spat onto
+    dry land). Q 68:49 law-lā an tadārakahu niʿmatun min rabbihi la-nubidha bi-l-ʿarāʾi wa-huwa madhmūm:
+    without his Lord''s grace he WOULD have been thrown on the barren shore in disgrace. (Q 37:145 says
+    he was thrown there, sick, outside this unit.)'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:11
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת יוֹנָ֖ה אֶל הַיַּבָּשָֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 68:49
+      lang: ar
+      text: لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ
 ---
 
 ## Questions

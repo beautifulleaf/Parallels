@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-86-night-comer
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ The night-comer: fluid from between backbone
   and ribs'
-summary: 'These two units share 1 motifs: ''search me, god, and know my heart; test me and know my thoughts;
-  lead me in the everlasting way''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - search-me-and-test-my-heart
-passages:
-- tradition: judaism
-  ref: Ps 139:23-24
-  note: '''Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting
-    way'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (139:23) חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי (139:24) וּרְאֵ֗ה אִם
-    דֶּֽרֶךְ עֹ֥צֶב בִּ֑י וּ֝נְחֵ֗נִי בְּדֶ֣רֶךְ עוֹלָֽם
-- tradition: judaism
-  ref: Ps 139:23
-  note: '''Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting
-    way'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי
-- tradition: islam
-  ref: Quran 86:9
-  note: '''Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting
-    way'' (yawma tublā s-sarāʾir (the day the secrets are tested) ~ ḥoqrēnî ʾēl we-daʿ levāvî beḥānēnî
-    we-daʿ śarʿappāy. Testing of the inner thoughts; the Psalmist asks for it now, the Quran sets it on
-    the Day.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تُبْلَى ٱلسَّرَآئِرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yawma tublā s-sarāʾir (the day the secrets are tested) ~ ḥoqrēnî ʾēl we-daʿ levāvî beḥānēnî
-    we-daʿ śarʿappāy. Testing of the inner thoughts; the Psalmist asks for it now, the Quran sets it on
-    the Day.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Search me, God, and know my heart; test me and know my thoughts;
     lead me in the everlasting way'' (weight 6.7). Pair score 6.7.'
@@ -79,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting
+  way'''
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-86-night-comer
+  title: 'The night-comer: fluid from between backbone and ribs'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Search me, God, and know my heart; test me and know my thoughts; lead me in the everlasting
+    way'''
+  note: yawma tublā s-sarāʾir (the day the secrets are tested) ~ ḥoqrēnî ʾēl we-daʿ levāvî beḥānēnî we-daʿ
+    śarʿappāy. Testing of the inner thoughts; the Psalmist asks for it now, the Quran sets it on the Day.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:23
+      lang: he
+      text: חָקְרֵ֣נִי אֵ֭ל וְדַ֣ע לְבָבִ֑י בְּ֝חָנֵ֗נִי וְדַ֣ע שַׂרְעַפָּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 86:9
+      lang: ar
+      text: يَوْمَ تُبْلَى ٱلسَّرَآئِرُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-6-prophets-lineage-torah-sheets
 title: Job's piety, the heavenly council and the first test ↔ Abraham's line of eighteen prophets; Torah
   in sheets; the false claimant
-summary: 'These two units share 1 motifs: ''naked i came from my mother''s womb and naked i shall return
-  there''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - naked-from-womb-naked-return
-passages:
-- tradition: judaism
-  ref: Job 1:21
-  note: '''Naked I came from my mother''s womb and naked I shall return there'' (''shamah'' (there) equates
-    the womb with the earth)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה
-    לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
-- tradition: islam
-  ref: Quran 6:94
-  note: '''Naked I came from my mother''s womb and naked I shall return there'' (''you have come to Us
-    alone (furādā) as We created you the first time, leaving behind what We gave you'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ
-    وَرَآءَ ظُهُورِكُمْ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟
-    لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-laqad jiʾtumūnā furādā ka-mā khalaqnākum awwala marratin wa-taraktum mā khawwalnākum
-    warāʾa ẓuhūrikum. Job: ʿārōm yāṣāʾtî mi-beṭen ʾimmî wə-ʿārōm ʾāšûv šāmmāh. Job''s ''naked'' is Q''s
-    ''alone'' (furādā), coming to God as at the first creation.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Naked I came from my mother''s womb and naked I shall return there''
     (weight 6.3). Pair score 6.3.'
@@ -73,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Naked I came from my mother''s womb and naked I shall return there'''
+kinds:
+- parallel
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Naked I came from my mother''s womb and naked I shall return there'''
+  note: 'Q: wa-laqad jiʾtumūnā furādā ka-mā khalaqnākum awwala marratin wa-taraktum mā khawwalnākum warāʾa
+    ẓuhūrikum. Job: ʿārōm yāṣāʾtî mi-beṭen ʾimmî wə-ʿārōm ʾāšûv šāmmāh. Job''s ''naked'' is Q''s ''alone''
+    (furādā), coming to God as at the first creation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:21
+      lang: he
+      text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן
+        וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:94
+      lang: ar
+      text: وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ
+        وَرَآءَ ظُهُورِكُمْ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ
+        شُرَكَٰٓؤُا۟ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 ---
 
 ## Questions

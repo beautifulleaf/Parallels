@@ -2,8 +2,7 @@
 id: motif-hb-exod-31-bezalel-sabbath-tablets-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Bezalel and Oholiab; Sabbath as sign; the tablets ↔ Hud warns 'Ad at the dunes; the cloud that
   was not rain; the jinn listen to the Quran
-summary: 'These two units share 2 motifs: god rested and was refreshed on the seventh day, whether god
-  rested, or could tire, after creating heaven and earth [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -14,59 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- god-refreshed-on-seventh-day
 - god-rest-or-weariness-after-creation-as-response
-passages:
-- tradition: judaism
-  ref: Exod 31:17
-  note: God rested and was refreshed on the seventh day (vayinnafash, God 'caught his breath')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
-    אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
-- tradition: islam
-  ref: Quran 46:33
-  note: God rested and was refreshed on the seventh day (implicit rebuttal of Exod 31:17 'rested and was
-    refreshed')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
-    بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Exod 31:17
-  note: Whether God rested, or could tire, after creating heaven and earth [response between the texts]
-    (kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš
-    (he rested and caught his breath) vs. a-wa-lam yaraw anna llāha lladhī khalaqa s-samāwāti wa-l-arḍa
-    wa-lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya l-mawtā (he was not wearied by creating them).
-    The Quran's denial of weariness answers the anthropomorphic wa-yyinnāp̄aš, and uses it as proof that
-    God can raise the dead. See also Q 50:38.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
-    אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
-- tradition: islam
-  ref: Quran 46:33
-  note: Whether God rested, or could tire, after creating heaven and earth [response between the texts]
-    (kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš
-    (he rested and caught his breath) vs. a-wa-lam yaraw anna llāha lladhī khalaqa s-samāwāti wa-l-arḍa
-    wa-lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya l-mawtā (he was not wearied by creating them).
-    The Quran's denial of weariness answers the anthropomorphic wa-yyinnāp̄aš, and uses it as proof that
-    God can raise the dead. See also Q 50:38.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
-    بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- god-refreshed-on-seventh-day
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    response. kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš
-    (he rested and caught his breath) vs. a-wa-lam yaraw anna llāha lladhī khalaqa s-samāwāti wa-l-arḍa
-    wa-lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya l-mawtā (he was not wearied by creating them).
-    The Quran''s denial of weariness answers the anthropomorphic wa-yyinnāp̄aš, and uses it as proof that
-    God can raise the dead. See also Q 50:38.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God rested and was refreshed on the seventh day (weight 6.3); Whether
-    God rested, or could tire, after creating heaven and earth [response between the texts] (weight 6.3).
-    Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Whether God rested, or could tire, after creating heaven and earth
+    [response between the texts] (weight 6.3); God rested and was refreshed on the seventh day (weight
+    6.3). Pair score 12.6.'
   basis: reading
 - text: 'Only in Bezalel and Oholiab; Sabbath as sign; the tablets: God calls a master craftsman by name
     for the sacred work; Whoever works on the Sabbath shall be put to death; The Sabbath is justified
@@ -97,6 +52,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God rested, or could tire, after creating heaven and earth
+kinds:
+- response
+- shared
+units:
+- id: hb-exod-31-bezalel-sabbath-tablets
+  title: Bezalel and Oholiab; Sabbath as sign; the tablets
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: response
+  label: Whether God rested, or could tire, after creating heaven and earth
+  note: kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš
+    (he rested and caught his breath) vs. a-wa-lam yaraw anna llāha lladhī khalaqa s-samāwāti wa-l-arḍa
+    wa-lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya l-mawtā (he was not wearied by creating them).
+    The Quran's denial of weariness answers the anthropomorphic wa-yyinnāp̄aš, and uses it as proof that
+    God can raise the dead. See also Q 50:38.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 31:17
+      lang: he
+      text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
+        אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:33
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
+        بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: God rested and was refreshed on the seventh day
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 31:17
+      lang: he
+      text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
+        אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
+    note: vayinnafash, God 'caught his breath'
+  - tradition: islam
+    passages:
+    - ref: Quran 46:33
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
+        بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    note: implicit rebuttal of Exod 31:17 'rested and was refreshed'
 ---
 
 ## Questions

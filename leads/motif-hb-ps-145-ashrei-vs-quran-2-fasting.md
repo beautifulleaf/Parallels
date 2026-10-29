@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-145-ashrei-vs-quran-2-fasting
 title: Psalm 145, acrostic praise of the King (Ashrei) ↔ The fast of Ramadan
-summary: 'These two units share 1 motifs: yhwh is near to all who call on him in truth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - god-near-to-all-who-call
-passages:
-- tradition: judaism
-  ref: Ps 145:18
-  note: YHWH is near to all who call on him in truth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָר֣וֹב יְ֭הוָה לְכָל קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת
-- tradition: islam
-  ref: Quran 2:186
-  note: YHWH is near to all who call on him in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ فَلْيَسْتَجِيبُوا۟
-    لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 145:18 qārôb YHWH lĕ-kol qōrĕʾāyw lĕ-kōl ʾăšer yiqrāʾuhû be-ʾĕmet; Q 2:186 fa-innī qarībun
-    ujību daʿwata d-dāʿi idhā daʿāni: cognate qārôb / qarīb, ''near to those who call''. The psalm speaks
-    of God; in the Quran God speaks in the first person (innī).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH is near to all who call on him in truth (weight 6.3). Pair
     score 6.3.'
@@ -64,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: YHWH is near to all who call on him in truth
+kinds:
+- parallel
+units:
+- id: hb-ps-145-ashrei
+  title: Psalm 145, acrostic praise of the King (Ashrei)
+  tradition: judaism
+- id: quran-2-fasting
+  title: The fast of Ramadan
+  tradition: islam
+matches:
+- kind: parallel
+  label: YHWH is near to all who call on him in truth
+  note: 'Ps 145:18 qārôb YHWH lĕ-kol qōrĕʾāyw lĕ-kōl ʾăšer yiqrāʾuhû be-ʾĕmet; Q 2:186 fa-innī qarībun
+    ujību daʿwata d-dāʿi idhā daʿāni: cognate qārôb / qarīb, ''near to those who call''. The psalm speaks
+    of God; in the Quran God speaks in the first person (innī).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 145:18
+      lang: he
+      text: קָר֣וֹב יְ֭הוָה לְכָל קֹרְאָ֑יו לְכֹ֤ל אֲשֶׁ֖ר יִקְרָאֻ֣הוּ בֶאֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:186
+      lang: ar
+      text: وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ
+        فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ
 ---
 
 ## Questions

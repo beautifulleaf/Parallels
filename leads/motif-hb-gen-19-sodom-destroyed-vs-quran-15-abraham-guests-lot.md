@@ -2,10 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-15-abraham-guests-lot
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Abraham's guests and the destruction of
   Lot's people (Surah 15:51-77)
-summary: 'These two units share 13 motifs: host offers his virgin daughters to the mob to protect his
-  guests [divergence between the texts], command not to look back while fleeing a doomed place [divergence
-  between the texts], the angelic guests reveal they are sent against a criminal people [divergence between
-  the texts], lot''s wife is among those who stay behind and perish [divergence between the texts]….'
+summary: '7 correspondences read side by side: 6 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,335 +15,35 @@ traditions:
 layers:
 - motif
 motifs:
-- host-offers-daughters-as-divergence
-- do-not-look-back-as-divergence
-- angels-sent-against-criminal-people-as-divergence
-- lots-wife-among-those-left-behind-as-divergence
-- cities-overturned-as-divergence
-- angels-lodge-with-lot-as-divergence
 - lot-forbidden-to-host-strangers
+- host-offers-daughters-as-divergence
+- lots-wife-among-those-left-behind-as-divergence
+- angels-sent-against-criminal-people-as-divergence
+- angels-lodge-with-lot-as-divergence
+- cities-overturned-as-divergence
+- do-not-look-back-as-divergence
 - do-not-look-back
-- mob-demands-guest
 - angels-lodge-with-lot
+- mob-demands-guest
 - host-offers-daughters
 - cities-overturned
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 19:7
-  note: 'Host offers his virgin daughters to the mob to protect his guests [divergence between the texts]
-    (Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû ʾîš ... waʿăśû lāhen kaṭṭôb bəʿênêkem.
-    Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi banātī in kuntum fāʿilīn. Q keeps the
-    offer but drops ''do with them as you please'' and adds an appeal to fear God (Q''s form is open to
-    the later reading of marriage).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר אַל נָ֥א אַחַ֖י תָּרֵֽעוּ
-- tradition: judaism
-  ref: Gen 19:8
-  note: 'Host offers his virgin daughters to the mob to protect his guests [divergence between the texts]
-    (Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû ʾîš ... waʿăśû lāhen kaṭṭôb bəʿênêkem.
-    Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi banātī in kuntum fāʿilīn. Q keeps the
-    offer but drops ''do with them as you please'' and adds an appeal to fear God (Q''s form is open to
-    the later reading of marriage).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
-    וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי עַל
-    כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
-- tradition: islam
-  ref: Quran 15:68
-  note: 'Host offers his virgin daughters to the mob to protect his guests [divergence between the texts]
-    (Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû ʾîš ... waʿăśû lāhen kaṭṭôb bəʿênêkem.
-    Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi banātī in kuntum fāʿilīn. Q keeps the
-    offer but drops ''do with them as you please'' and adds an appeal to fear God (Q''s form is open to
-    the later reading of marriage).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
-- tradition: islam
-  ref: Quran 15:69
-  note: 'Host offers his virgin daughters to the mob to protect his guests [divergence between the texts]
-    (Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû ʾîš ... waʿăśû lāhen kaṭṭôb bəʿênêkem.
-    Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi banātī in kuntum fāʿilīn. Q keeps the
-    offer but drops ''do with them as you please'' and adds an appeal to fear God (Q''s form is open to
-    the later reading of marriage).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
-- tradition: judaism
-  ref: Gen 19:15
-  note: 'Command not to look back while fleeing a doomed place [divergence between the texts] (Gen: at
-    dawn (kəmô haššaḥar ʿālâ) the angels drag the lingering Lot out by the hand; ʾal-tabbîṭ ʾaḥărêkā.
-    Q: by night, fa-asri bi-ahlika bi-qiṭʿin mina l-layl wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥad:
-    no hesitation, and Lot walks behind his family.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּכְמוֹ֙ הַשַּׁ֣חַר עָלָ֔ה וַיָּאִ֥יצוּ הַמַּלְאָכִ֖ים בְּל֣וֹט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶֽת אִשְׁתְּךָ֜
-    וְאֶת שְׁתֵּ֤י בְנֹתֶ֨יךָ֙ הַנִּמְצָאֹ֔ת פֶּן תִּסָּפֶ֖ה בַּעֲוֺ֥ן הָעִֽיר
-- tradition: judaism
-  ref: Gen 19:16
-  note: 'Command not to look back while fleeing a doomed place [divergence between the texts] (Gen: at
-    dawn (kəmô haššaḥar ʿālâ) the angels drag the lingering Lot out by the hand; ʾal-tabbîṭ ʾaḥărêkā.
-    Q: by night, fa-asri bi-ahlika bi-qiṭʿin mina l-layl wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥad:
-    no hesitation, and Lot walks behind his family.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: islam
-  ref: Quran 15:65
-  note: 'Command not to look back while fleeing a doomed place [divergence between the texts] (Gen: at
-    dawn (kəmô haššaḥar ʿālâ) the angels drag the lingering Lot out by the hand; ʾal-tabbîṭ ʾaḥărêkā.
-    Q: by night, fa-asri bi-ahlika bi-qiṭʿin mina l-layl wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥad:
-    no hesitation, and Lot walks behind his family.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
-    أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
-- tradition: judaism
-  ref: Gen 19:4
-  note: 'The angelic guests reveal they are sent against a criminal people [divergence between the texts]
-    (Order reversed. Gen: first the mob (19:4-11), then the angels reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm
-    hazzeh (19:13). Q: the messengers state their mission and order the flight (15:63-66, dābira hāʾulāʾi
-    maqṭūʿun muṣbiḥīn), and only then do the townsmen come (wa-jāʾa ahlu l-madīnati yastabshirūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל הַבַּ֔יִת מִנַּ֖עַר וְעַד
-    זָקֵ֑ן כָּל הָעָ֖ם מִקָּצֶֽה
-- tradition: judaism
-  ref: Gen 19:5
-  note: 'The angelic guests reveal they are sent against a criminal people [divergence between the texts]
-    (Order reversed. Gen: first the mob (19:4-11), then the angels reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm
-    hazzeh (19:13). Q: the messengers state their mission and order the flight (15:63-66, dābira hāʾulāʾi
-    maqṭūʿun muṣbiḥīn), and only then do the townsmen come (wa-jāʾa ahlu l-madīnati yastabshirūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֤וּ אֶל לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
-    הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם
-- tradition: islam
-  ref: Quran 15:58
-  note: 'The angelic guests reveal they are sent against a criminal people [divergence between the texts]
-    (Order reversed. Gen: first the mob (19:4-11), then the angels reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm
-    hazzeh (19:13). Q: the messengers state their mission and order the flight (15:63-66, dābira hāʾulāʾi
-    maqṭūʿun muṣbiḥīn), and only then do the townsmen come (wa-jāʾa ahlu l-madīnati yastabshirūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
-- tradition: islam
-  ref: Quran 15:63
-  note: 'The angelic guests reveal they are sent against a criminal people [divergence between the texts]
-    (Order reversed. Gen: first the mob (19:4-11), then the angels reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm
-    hazzeh (19:13). Q: the messengers state their mission and order the flight (15:63-66, dābira hāʾulāʾi
-    maqṭūʿun muṣbiḥīn), and only then do the townsmen come (wa-jāʾa ahlu l-madīnati yastabshirūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ
-- tradition: judaism
-  ref: Gen 19:26
-  note: 'Lot''s wife is among those who stay behind and perish [divergence between the texts] (Gen: her
-    fate follows from her act, wattabbēṭ ʾištô mēʾaḥărāyw wattəhî nəṣîb melaḥ. Q: her fate is decreed
-    in advance, qaddarnā innahā la-mina l-ghābirīn. There is no looking back and no pillar of salt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 15:60
-  note: 'Lot''s wife is among those who stay behind and perish [divergence between the texts] (Gen: her
-    fate follows from her act, wattabbēṭ ʾištô mēʾaḥărāyw wattəhî nəṣîb melaḥ. Q: her fate is decreed
-    in advance, qaddarnā innahā la-mina l-ghābirīn. There is no looking back and no pillar of salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
-- tradition: judaism
-  ref: Gen 19:23
-  note: 'Cities overturned (hafakh) and the plain destroyed [divergence between the texts] (Same hour
-    and same overturning: haššemeš yāṣāʾ ʿal-hāʾāreṣ / fa-akhadhathumu ṣ-ṣayḥatu mushriqīn; wayyahăpōk
-    ʾet-hehārîm hāʾēl / jaʿalnā ʿāliyahā sāfilahā. Changed weapon: Gen''s gāprît wāʾēš mēʾēt YHWH min-haššāmāyim
-    becomes al-ṣayḥa and ḥijāratan min sijjīl. Zoar (19:18-23) is left out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשֶּׁ֖מֶשׁ יָצָ֣א עַל הָאָ֑רֶץ וְל֖וֹט בָּ֥א צֹֽעֲרָה
-- tradition: judaism
-  ref: Gen 19:24
-  note: 'Cities overturned (hafakh) and the plain destroyed [divergence between the texts] (Same hour
-    and same overturning: haššemeš yāṣāʾ ʿal-hāʾāreṣ / fa-akhadhathumu ṣ-ṣayḥatu mushriqīn; wayyahăpōk
-    ʾet-hehārîm hāʾēl / jaʿalnā ʿāliyahā sāfilahā. Changed weapon: Gen''s gāprît wāʾēš mēʾēt YHWH min-haššāmāyim
-    becomes al-ṣayḥa and ḥijāratan min sijjīl. Zoar (19:18-23) is left out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 15:73
-  note: 'Cities overturned (hafakh) and the plain destroyed [divergence between the texts] (Same hour
-    and same overturning: haššemeš yāṣāʾ ʿal-hāʾāreṣ / fa-akhadhathumu ṣ-ṣayḥatu mushriqīn; wayyahăpōk
-    ʾet-hehārîm hāʾēl / jaʿalnā ʿāliyahā sāfilahā. Changed weapon: Gen''s gāprît wāʾēš mēʾēt YHWH min-haššāmāyim
-    becomes al-ṣayḥa and ḥijāratan min sijjīl. Zoar (19:18-23) is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ
-- tradition: islam
-  ref: Quran 15:74
-  note: 'Cities overturned (hafakh) and the plain destroyed [divergence between the texts] (Same hour
-    and same overturning: haššemeš yāṣāʾ ʿal-hāʾāreṣ / fa-akhadhathumu ṣ-ṣayḥatu mushriqīn; wayyahăpōk
-    ʾet-hehārîm hāʾēl / jaʿalnā ʿāliyahā sāfilahā. Changed weapon: Gen''s gāprît wāʾēš mēʾēt YHWH min-haššāmāyim
-    becomes al-ṣayḥa and ḥijāratan min sijjīl. Zoar (19:18-23) is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ
-- tradition: judaism
-  ref: Gen 19:1
-  note: 'Two angels are received as guests by Lot in Sodom [divergence between the texts] (Gen: Lot rises
-    to meet them at the gate, bows, presses them to stay and bakes maṣṣôt. Q: Lot greets them coldly,
-    innakum qawmun munkarūn (''you are strangers''). Hospitality is replaced by unease, as with Abraham.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יָּבֹאוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֨מָה֙ בָּעֶ֔רֶב וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר סְדֹ֑ם וַיַּרְא
-    לוֹט֙ וַיָּ֣קָם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה
-- tradition: judaism
-  ref: Gen 19:2
-  note: 'Two angels are received as guests by Lot in Sodom [divergence between the texts] (Gen: Lot rises
-    to meet them at the gate, bows, presses them to stay and bakes maṣṣôt. Q: Lot greets them coldly,
-    innakum qawmun munkarūn (''you are strangers''). Hospitality is replaced by unease, as with Abraham.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֜אמֶר הִנֶּ֣ה נָּא אֲדֹנַ֗י ס֣וּרוּ נָ֠א אֶל בֵּ֨ית עַבְדְּכֶ֤ם וְלִ֨ינוּ֙ וְרַחֲצ֣וּ רַגְלֵיכֶ֔ם
-    וְהִשְׁכַּמְתֶּ֖ם וַהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם וַיֹּאמְר֣וּ לֹּ֔א כִּ֥י בָרְח֖וֹב נָלִֽין
-- tradition: islam
-  ref: Quran 15:61
-  note: 'Two angels are received as guests by Lot in Sodom [divergence between the texts] (Gen: Lot rises
-    to meet them at the gate, bows, presses them to stay and bakes maṣṣôt. Q: Lot greets them coldly,
-    innakum qawmun munkarūn (''you are strangers''). Hospitality is replaced by unease, as with Abraham.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
-- tradition: islam
-  ref: Quran 15:62
-  note: 'Two angels are received as guests by Lot in Sodom [divergence between the texts] (Gen: Lot rises
-    to meet them at the gate, bows, presses them to stay and bakes maṣṣôt. Q: Lot greets them coldly,
-    innakum qawmun munkarūn (''you are strangers''). Hospitality is replaced by unease, as with Abraham.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
-- tradition: judaism
-  ref: Gen 19:9
-  note: The townsmen remind Lot they had forbidden him to receive outsiders (hāʾeḥād bāʾ-lāgûr wayyišpōṭ
-    šāpôṭ, the townsmen resent the sojourner judging them; a-wa-lam nanhaka ʿani l-ʿālamīn, they forbade
-    him to take in outsiders. Both turn on Lot's status as an outsider to the town.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
-    נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
-- tradition: islam
-  ref: Quran 15:70
-  note: The townsmen remind Lot they had forbidden him to receive outsiders ('did we not forbid you (to
-    protect) anyone (al-ʿālamīn)?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Gen 19:17
-  note: Command not to look back while fleeing a doomed place
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ כְהוֹצִיאָ֨ם אֹתָ֜ם הַח֗וּצָה וַיֹּ֨אמֶר֙ הִמָּלֵ֣ט עַל נַפְשֶׁ֔ךָ אַל תַּבִּ֣יט אַחֲרֶ֔יךָ
-    וְאַֽל תַּעֲמֹ֖ד בְּכָל הַכִּכָּ֑ר הָהָ֥רָה הִמָּלֵ֖ט פֶּן תִּסָּפֶֽה
-- tradition: islam
-  ref: Quran 15:65
-  note: Command not to look back while fleeing a doomed place (lā yaltafit minkum aḥad)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
-    أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
-- tradition: judaism
-  ref: Gen 19:4
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('young and old, all the
-    people')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל הַבַּ֔יִת מִנַּ֖עַר וְעַד
-    זָקֵ֑ן כָּל הָעָ֖ם מִקָּצֶֽה
-- tradition: judaism
-  ref: Gen 19:5
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('young and old, all the
-    people')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֤וּ אֶל לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
-    הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם
-- tradition: islam
-  ref: Quran 15:67
-  note: Townsmen surround the house and demand the male guest for sexual abuse (the townsmen come rejoicing
-    (yastabshirūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
-- tradition: islam
-  ref: Quran 15:68
-  note: Townsmen surround the house and demand the male guest for sexual abuse (the townsmen come rejoicing
-    (yastabshirūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
-- tradition: judaism
-  ref: Gen 19:1
-  note: Two angels are received as guests by Lot in Sodom (Lot sits in the gate; unleavened bread baked)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יָּבֹאוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֨מָה֙ בָּעֶ֔רֶב וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר סְדֹ֑ם וַיַּרְא
-    לוֹט֙ וַיָּ֣קָם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה
-- tradition: judaism
-  ref: Gen 19:2
-  note: Two angels are received as guests by Lot in Sodom (Lot sits in the gate; unleavened bread baked)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֜אמֶר הִנֶּ֣ה נָּא אֲדֹנַ֗י ס֣וּרוּ נָ֠א אֶל בֵּ֨ית עַבְדְּכֶ֤ם וְלִ֨ינוּ֙ וְרַחֲצ֣וּ רַגְלֵיכֶ֔ם
-    וְהִשְׁכַּמְתֶּ֖ם וַהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם וַיֹּאמְר֣וּ לֹּ֔א כִּ֥י בָרְח֖וֹב נָלִֽין
-- tradition: islam
-  ref: Quran 15:61
-  note: Two angels are received as guests by Lot in Sodom ('you are unknown people')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
-- tradition: islam
-  ref: Quran 15:62
-  note: Two angels are received as guests by Lot in Sodom ('you are unknown people')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. Gen: Lot rises to meet them at the gate, bows, presses them to stay and bakes
-    maṣṣôt. Q: Lot greets them coldly, innakum qawmun munkarūn (''you are strangers''). Hospitality is
-    replaced by unease, as with Abraham. Order reversed. Gen: first the mob (19:4-11), then the angels
-    reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm hazzeh (19:13). Q: the messengers state their mission and
-    order the flight (15:63-66, dābira hāʾulāʾi maqṭūʿun muṣbiḥīn), and only then do the townsmen come
-    (wa-jāʾa ahlu l-madīnati yastabshirūn). Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû
-    ʾîš ... waʿăśû lāhen kaṭṭôb bəʿênêkem. Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi
-    banātī in kuntum fāʿilīn. Q keeps the offer but drops ''do with them as you please'' and adds an appeal
-    to fear God (Q''s form is open to the later reading of marriage). hāʾeḥād bāʾ-lāgûr wayyišpōṭ šāpôṭ,
-    the townsmen resent the sojourner judging them; a-wa-lam nanhaka ʿani l-ʿālamīn, they forbade him
-    to take in outsiders. Both turn on Lot''s status as an outsider to the town. Gen: at dawn (kəmô haššaḥar
-    ʿālâ) the angels drag the lingering Lot out by the hand; ʾal-tabbîṭ ʾaḥărêkā. Q: by night, fa-asri
-    bi-ahlika bi-qiṭʿin mina l-layl wa-ttabiʿ adbārahum wa-lā yaltafit minkum aḥad: no hesitation, and
-    Lot walks behind his family. Gen: her fate follows from her act, wattabbēṭ ʾištô mēʾaḥărāyw wattəhî
-    nəṣîb melaḥ. Q: her fate is decreed in advance, qaddarnā innahā la-mina l-ghābirīn. There is no looking
-    back and no pillar of salt.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: Passages are shown for the 10 rarest of 13 shared motifs; the full list follows.
-  basis: reading
-- text: 'Shared motifs, rarest first: Host offers his virgin daughters to the mob to protect his guests
-    [divergence between the texts] (weight 6.7); Command not to look back while fleeing a doomed place
-    [divergence between the texts] (weight 6.7); The angelic guests reveal they are sent against a criminal
-    people [divergence between the texts] (weight 6.7); Lot''s wife is among those who stay behind and
-    perish [divergence between the texts] (weight 6.7); Cities overturned (hafakh) and the plain destroyed
-    [divergence between the texts] (weight 6.7); Two angels are received as guests by Lot in Sodom [divergence
-    between the texts] (weight 6.7); The townsmen remind Lot they had forbidden him to receive outsiders
-    (weight 6.7); Command not to look back while fleeing a doomed place (weight 6.3); Townsmen surround
-    the house and demand the male guest for sexual abuse (weight 6.0); Two angels are received as guests
-    by Lot in Sodom (weight 6.0); Host offers his virgin daughters to the mob to protect his guests (weight
-    6.0); Cities overturned (hafakh) and the plain destroyed (weight 5.6); Hero''s family saved with him
-    (weight 4.5). Pair score 81.2.'
+- text: 'Shared motifs, rarest first: The townsmen remind Lot they had forbidden him to receive outsiders
+    (weight 6.7); Host offers his virgin daughters to the mob to protect his guests [divergence between
+    the texts] (weight 6.7); Lot''s wife is among those who stay behind and perish [divergence between
+    the texts] (weight 6.7); The angelic guests reveal they are sent against a criminal people [divergence
+    between the texts] (weight 6.7); Two angels are received as guests by Lot in Sodom [divergence between
+    the texts] (weight 6.7); Cities overturned (hafakh) and the plain destroyed [divergence between the
+    texts] (weight 6.7); Command not to look back while fleeing a doomed place [divergence between the
+    texts] (weight 6.7); Command not to look back while fleeing a doomed place (weight 6.3); Two angels
+    are received as guests by Lot in Sodom (weight 6.0); Townsmen surround the house and demand the male
+    guest for sexual abuse (weight 6.0); Host offers his virgin daughters to the mob to protect his guests
+    (weight 6.0); Cities overturned (hafakh) and the plain destroyed (weight 5.6); Hero''s family saved
+    with him (weight 4.5). Pair score 81.2.'
   basis: reading
 - text: 'Only in Lot''s guests and the destruction of Sodom and Gomorrah: A small town is spared at the
     refugee''s request (Zoar, ''small''); Angels seize the hesitating family by the hand and lead them
@@ -378,6 +75,241 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Two angels are received as guests by Lot in Sodom
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-15-abraham-guests-lot
+  title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Two angels are received as guests by Lot in Sodom
+  note: 'Gen: Lot rises to meet them at the gate, bows, presses them to stay and bakes maṣṣôt. Q: Lot
+    greets them coldly, innakum qawmun munkarūn (''you are strangers''). Hospitality is replaced by unease,
+    as with Abraham.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:1
+      lang: he
+      text: וַ֠יָּבֹאוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֨מָה֙ בָּעֶ֔רֶב וְל֖וֹט יֹשֵׁ֣ב בְּשַֽׁעַר סְדֹ֑ם וַיַּרְא
+        לוֹט֙ וַיָּ֣קָם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה
+    - ref: Gen 19:2
+      lang: he
+      text: וַיֹּ֜אמֶר הִנֶּ֣ה נָּא אֲדֹנַ֗י ס֣וּרוּ נָ֠א אֶל בֵּ֨ית עַבְדְּכֶ֤ם וְלִ֨ינוּ֙ וְרַחֲצ֣וּ
+        רַגְלֵיכֶ֔ם וְהִשְׁכַּמְתֶּ֖ם וַהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם וַיֹּאמְר֣וּ לֹּ֔א כִּ֥י בָרְח֖וֹב נָלִֽין
+    - ref: Gen 19:3
+      lang: he
+      text: וַיִּפְצַר בָּ֣ם מְאֹ֔ד וַיָּסֻ֣רוּ אֵלָ֔יו וַיָּבֹ֖אוּ אֶל בֵּית֑וֹ וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה
+        וּמַצּ֥וֹת אָפָ֖ה וַיֹּאכֵֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 15:61
+      lang: ar
+      text: فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلْمُرْسَلُونَ
+    - ref: Quran 15:62
+      lang: ar
+      text: قَالَ إِنَّكُمْ قَوْمٌ مُّنكَرُونَ
+- kind: divergence
+  label: The angelic guests reveal they are sent against a criminal people
+  note: 'Order reversed. Gen: first the mob (19:4-11), then the angels reveal kî-mašḥitîm ʾănaḥnû ʾet-hammāqôm
+    hazzeh (19:13). Q: the messengers state their mission and order the flight (15:63-66, dābira hāʾulāʾi
+    maqṭūʿun muṣbiḥīn), and only then do the townsmen come (wa-jāʾa ahlu l-madīnati yastabshirūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:4
+      lang: he
+      text: טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל הַבַּ֔יִת מִנַּ֖עַר
+        וְעַד זָקֵ֑ן כָּל הָעָ֖ם מִקָּצֶֽה
+    - ref: Gen 19:5
+      lang: he
+      text: וַיִּקְרְא֤וּ אֶל לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
+        הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם
+    - ref: Gen 19:12
+      lang: he
+      text: וַיֹּאמְר֨וּ הָאֲנָשִׁ֜ים אֶל ל֗וֹט עֹ֚ד מִֽי לְךָ֣ פֹ֔ה חָתָן֙ וּבָנֶ֣יךָ וּבְנֹתֶ֔יךָ וְכֹ֥ל
+        אֲשֶׁר לְךָ֖ בָּעִ֑יר הוֹצֵ֖א מִן הַמָּקֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 15:58
+      lang: ar
+      text: قَالُوٓا۟ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمٍ مُّجْرِمِينَ
+    - ref: Quran 15:63
+      lang: ar
+      text: قَالُوا۟ بَلْ جِئْنَٰكَ بِمَا كَانُوا۟ فِيهِ يَمْتَرُونَ
+    - ref: Quran 15:64
+      lang: ar
+      text: وَأَتَيْنَٰكَ بِٱلْحَقِّ وَإِنَّا لَصَٰدِقُونَ
+- kind: divergence
+  label: Host offers his virgin daughters to the mob to protect his guests
+  note: 'Gen: ʾal-nāʾ ʾaḥay tārēʿû hinnēh-nāʾ lî šətê bānôt ʾăšer lōʾ-yādəʿû ʾîš ... waʿăśû lāhen kaṭṭôb
+    bəʿênêkem. Q: hāʾulāʾi ḍayfī fa-lā tafḍaḥūni wa-ttaqū llāha ... hāʾulāʾi banātī in kuntum fāʿilīn.
+    Q keeps the offer but drops ''do with them as you please'' and adds an appeal to fear God (Q''s form
+    is open to the later reading of marriage).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:7
+      lang: he
+      text: וַיֹּאמַ֑ר אַל נָ֥א אַחַ֖י תָּרֵֽעוּ
+    - ref: Gen 19:8
+      lang: he
+      text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי
+        עַל כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 15:68
+      lang: ar
+      text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
+    - ref: Quran 15:69
+      lang: ar
+      text: وَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
+    - ref: Quran 15:71
+      lang: ar
+      text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
+- kind: divergence
+  label: Command not to look back while fleeing a doomed place
+  note: 'Gen: at dawn (kəmô haššaḥar ʿālâ) the angels drag the lingering Lot out by the hand; ʾal-tabbîṭ
+    ʾaḥărêkā. Q: by night, fa-asri bi-ahlika bi-qiṭʿin mina l-layl wa-ttabiʿ adbārahum wa-lā yaltafit
+    minkum aḥad: no hesitation, and Lot walks behind his family.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:15
+      lang: he
+      text: וּכְמוֹ֙ הַשַּׁ֣חַר עָלָ֔ה וַיָּאִ֥יצוּ הַמַּלְאָכִ֖ים בְּל֣וֹט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶֽת אִשְׁתְּךָ֜
+        וְאֶת שְׁתֵּ֤י בְנֹתֶ֨יךָ֙ הַנִּמְצָאֹ֔ת פֶּן תִּסָּפֶ֖ה בַּעֲוֺ֥ן הָעִֽיר
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:17
+      lang: he
+      text: וַיְהִי֩ כְהוֹצִיאָ֨ם אֹתָ֜ם הַח֗וּצָה וַיֹּ֨אמֶר֙ הִמָּלֵ֣ט עַל נַפְשֶׁ֔ךָ אַל תַּבִּ֣יט
+        אַחֲרֶ֔יךָ וְאַֽל תַּעֲמֹ֖ד בְּכָל הַכִּכָּ֑ר הָהָ֥רָה הִמָּלֵ֖ט פֶּן תִּסָּפֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 15:65
+      lang: ar
+      text: فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ ٱلَّيْلِ وَٱتَّبِعْ أَدْبَٰرَهُمْ وَلَا يَلْتَفِتْ مِنكُمْ
+        أَحَدٌ وَٱمْضُوا۟ حَيْثُ تُؤْمَرُونَ
+- kind: divergence
+  label: Lot's wife is among those who stay behind and perish
+  note: 'Gen: her fate follows from her act, wattabbēṭ ʾištô mēʾaḥărāyw wattəhî nəṣîb melaḥ. Q: her fate
+    is decreed in advance, qaddarnā innahā la-mina l-ghābirīn. There is no looking back and no pillar
+    of salt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 15:60
+      lang: ar
+      text: إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَآ إِنَّهَا لَمِنَ ٱلْغَٰبِرِينَ
+- kind: divergence
+  label: Cities overturned (hafakh) and the plain destroyed
+  note: 'Same hour and same overturning: haššemeš yāṣāʾ ʿal-hāʾāreṣ / fa-akhadhathumu ṣ-ṣayḥatu mushriqīn;
+    wayyahăpōk ʾet-hehārîm hāʾēl / jaʿalnā ʿāliyahā sāfilahā. Changed weapon: Gen''s gāprît wāʾēš mēʾēt
+    YHWH min-haššāmāyim becomes al-ṣayḥa and ḥijāratan min sijjīl. Zoar (19:18-23) is left out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:23
+      lang: he
+      text: הַשֶּׁ֖מֶשׁ יָצָ֣א עַל הָאָ֑רֶץ וְל֖וֹט בָּ֥א צֹֽעֲרָה
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 15:73
+      lang: ar
+      text: فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُشْرِقِينَ
+    - ref: Quran 15:74
+      lang: ar
+      text: فَجَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّن سِجِّيلٍ
+- kind: parallel
+  label: The townsmen remind Lot they had forbidden him to receive outsiders
+  note: hāʾeḥād bāʾ-lāgûr wayyišpōṭ šāpôṭ, the townsmen resent the sojourner judging them; a-wa-lam nanhaka
+    ʿani l-ʿālamīn, they forbade him to take in outsiders. Both turn on Lot's status as an outsider to
+    the town.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:9
+      lang: he
+      text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
+        נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 15:70
+      lang: ar
+      text: قَالُوٓا۟ أَوَلَمْ نَنْهَكَ عَنِ ٱلْعَٰلَمِينَ
+- kind: shared
+  label: Townsmen surround the house and demand the male guest for sexual abuse
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:4
+      lang: he
+      text: טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל הַבַּ֔יִת מִנַּ֖עַר
+        וְעַד זָקֵ֑ן כָּל הָעָ֖ם מִקָּצֶֽה
+    - ref: Gen 19:5
+      lang: he
+      text: וַיִּקְרְא֤וּ אֶל לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָאֲנָשִׁ֛ים אֲשֶׁר בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה
+        הוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵדְעָ֖ה אֹתָֽם
+    - ref: Gen 19:9
+      lang: he
+      text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
+        נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
+    note: '''young and old, all the people'''
+  - tradition: islam
+    passages:
+    - ref: Quran 15:67
+      lang: ar
+      text: وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
+    - ref: Quran 15:68
+      lang: ar
+      text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
+    - ref: Quran 15:71
+      lang: ar
+      text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
+    note: the townsmen come rejoicing (yastabshirūn)
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:29
+      lang: he
+      text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם
+        וַיְשַׁלַּ֤ח אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+    note: Lot saved for Abraham's sake
+  - tradition: islam
+    passages:
+    - ref: Quran 15:59
+      lang: ar
+      text: إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمْ أَجْمَعِينَ
+    note: the family of Lot (āl Lūṭ)
 ---
 
 ## Questions

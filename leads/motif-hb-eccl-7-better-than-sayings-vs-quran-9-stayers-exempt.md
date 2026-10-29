@@ -2,7 +2,7 @@
 id: motif-hb-eccl-7-better-than-sayings-vs-quran-9-stayers-exempt
 title: Better-than sayings (name, mourning, end of a thing) ↔ Those who stayed behind, the exempt, and
   the Bedouin
-summary: 'These two units share 1 motifs: let them laugh a little and weep much.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - laugh-little-weep-much
-passages:
-- tradition: judaism
-  ref: Eccl 7:3
-  note: 'Let them laugh a little and weep much (Weeping preferred to laughter: fa-l-yaḍḥakū qalīlan wa-l-yabkū
-    kathīran vs ṭôb kaʿas miśśᵉḥōq ... lēb ḥăkāmîm bᵉbêt ʾēbel wᵉlēb kᵉsîlîm bᵉbêt śimḥāh. In Eccl it
-    is wisdom; in Q a punishment for the shirkers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ט֥וֹב כַּ֖עַס מִשְּׂחֹ֑ק כִּֽי בְרֹ֥עַ פָּנִ֖ים יִ֥יטַב לֵֽב
-- tradition: judaism
-  ref: Eccl 7:4
-  note: 'Let them laugh a little and weep much (Weeping preferred to laughter: fa-l-yaḍḥakū qalīlan wa-l-yabkū
-    kathīran vs ṭôb kaʿas miśśᵉḥōq ... lēb ḥăkāmîm bᵉbêt ʾēbel wᵉlēb kᵉsîlîm bᵉbêt śimḥāh. In Eccl it
-    is wisdom; in Q a punishment for the shirkers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֤ב חֲכָמִים֙ בְּבֵ֣ית אֵ֔בֶל וְלֵ֥ב כְּסִילִ֖ים בְּבֵ֥ית שִׂמְחָֽה
-- tradition: islam
-  ref: Quran 9:82
-  note: Let them laugh a little and weep much
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Weeping preferred to laughter: fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs ṭôb kaʿas miśśᵉḥōq
-    ... lēb ḥăkāmîm bᵉbêt ʾēbel wᵉlēb kᵉsîlîm bᵉbêt śimḥāh. In Eccl it is wisdom; in Q a punishment for
-    the shirkers.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Let them laugh a little and weep much (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -75,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Let them laugh a little and weep much
+kinds:
+- echo
+units:
+- id: hb-eccl-7-better-than-sayings
+  title: Better-than sayings (name, mourning, end of a thing)
+  tradition: judaism
+- id: quran-9-stayers-exempt
+  title: Those who stayed behind, the exempt, and the Bedouin
+  tradition: islam
+matches:
+- kind: echo
+  label: Let them laugh a little and weep much
+  note: 'Weeping preferred to laughter: fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs ṭôb kaʿas miśśᵉḥōq
+    ... lēb ḥăkāmîm bᵉbêt ʾēbel wᵉlēb kᵉsîlîm bᵉbêt śimḥāh. In Eccl it is wisdom; in Q a punishment for
+    the shirkers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 7:3
+      lang: he
+      text: ט֥וֹב כַּ֖עַס מִשְּׂחֹ֑ק כִּֽי בְרֹ֥עַ פָּנִ֖ים יִ֥יטַב לֵֽב
+    - ref: Eccl 7:4
+      lang: he
+      text: לֵ֤ב חֲכָמִים֙ בְּבֵ֣ית אֵ֔בֶל וְלֵ֥ב כְּסִילִ֖ים בְּבֵ֥ית שִׂמְחָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:82
+      lang: ar
+      text: فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 ---
 
 ## Questions

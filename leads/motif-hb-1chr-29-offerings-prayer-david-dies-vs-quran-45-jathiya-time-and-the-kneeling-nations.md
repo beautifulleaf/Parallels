@@ -2,8 +2,7 @@
 id: motif-hb-1chr-29-offerings-prayer-david-dies-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Free-will gifts, David's doxology, Solomon enthroned again, David's death ↔ Desire as god, 'only
   Time destroys us', and every nation kneeling before its book
-summary: 'These two units share 1 motifs: to god belongs the grandeur (kibriya'') in the heavens and the
-  earth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - divine-grandeur-in-heavens-and-earth
-passages:
-- tradition: judaism
-  ref: 1Chr 29:11
-  note: 'To God belongs the grandeur (kibriya'') in the heavens and the earth (Closing doxology ascribing
-    greatness in heaven and earth: ləḵā YHWH hag-gəḏullâ wə-hag-gəḇûrâ wə-hat-tip̄ʾereṯ ... kî ḵōl baš-šāmayim
-    û-ḇā-ʾāreṣ vs. fa-li-llāhi l-ḥamdu rabbi s-samāwāti wa-rabbi l-arḍi rabbi l-ʿālamīn, wa-lahu l-kibriyāʾu
-    fī s-samāwāti wa-l-arḍ. David''s prayer ends a reign; the verses end a sura.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ יְ֠הוָה הַגְּדֻלָּ֨ה וְהַגְּבוּרָ֤ה וְהַתִּפְאֶ֨רֶת֙ וְהַנֵּ֣צַח וְהַה֔וֹד כִּי כֹ֖ל בַּשָּׁמַ֣יִם
-    וּבָאָ֑רֶץ לְךָ֤ יְהוָה֙ הַמַּמְלָכָ֔ה וְהַמִּתְנַשֵּׂ֖א לְכֹ֥ל לְרֹֽאשׁ
-- tradition: islam
-  ref: Quran 45:37
-  note: To God belongs the grandeur (kibriya') in the heavens and the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-- tradition: islam
-  ref: Quran 45:36
-  note: To God belongs the grandeur (kibriya') in the heavens and the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Closing doxology ascribing greatness in heaven and earth: ləḵā YHWH hag-gəḏullâ wə-hag-gəḇûrâ
-    wə-hat-tip̄ʾereṯ ... kî ḵōl baš-šāmayim û-ḇā-ʾāreṣ vs. fa-li-llāhi l-ḥamdu rabbi s-samāwāti wa-rabbi
-    l-arḍi rabbi l-ʿālamīn, wa-lahu l-kibriyāʾu fī s-samāwāti wa-l-arḍ. David''s prayer ends a reign;
-    the verses end a sura.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To God belongs the grandeur (kibriya'') in the heavens and the earth
     (weight 6.7). Pair score 6.7.'
@@ -82,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: To God belongs the grandeur (kibriya') in the heavens and the earth
+kinds:
+- parallel
+units:
+- id: hb-1chr-29-offerings-prayer-david-dies
+  title: Free-will gifts, David's doxology, Solomon enthroned again, David's death
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: parallel
+  label: To God belongs the grandeur (kibriya') in the heavens and the earth
+  note: 'Closing doxology ascribing greatness in heaven and earth: ləḵā YHWH hag-gəḏullâ wə-hag-gəḇûrâ
+    wə-hat-tip̄ʾereṯ ... kî ḵōl baš-šāmayim û-ḇā-ʾāreṣ vs. fa-li-llāhi l-ḥamdu rabbi s-samāwāti wa-rabbi
+    l-arḍi rabbi l-ʿālamīn, wa-lahu l-kibriyāʾu fī s-samāwāti wa-l-arḍ. David''s prayer ends a reign;
+    the verses end a sura.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 29:11
+      lang: he
+      text: לְךָ֣ יְ֠הוָה הַגְּדֻלָּ֨ה וְהַגְּבוּרָ֤ה וְהַתִּפְאֶ֨רֶת֙ וְהַנֵּ֣צַח וְהַה֔וֹד כִּי כֹ֖ל
+        בַּשָּׁמַ֣יִם וּבָאָ֑רֶץ לְךָ֤ יְהוָה֙ הַמַּמְלָכָ֔ה וְהַמִּתְנַשֵּׂ֖א לְכֹ֥ל לְרֹֽאשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:36
+      lang: ar
+      text: فَلِلَّهِ ٱلْحَمْدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلْأَرْضِ رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 45:37
+      lang: ar
+      text: وَلَهُ ٱلْكِبْرِيَآءُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

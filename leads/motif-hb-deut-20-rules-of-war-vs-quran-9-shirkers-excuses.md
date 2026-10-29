@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-20-rules-of-war-vs-quran-9-shirkers-excuses
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The excuses of those who stayed behind'
-summary: 'These two units share 2 motifs: who is excused from going out to war [contrast between the texts],
-  the fearful are sent home before battle.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,91 +16,9 @@ layers:
 motifs:
 - exemption-from-campaign-as-contrast
 - fearful-sent-home
-passages:
-- tradition: judaism
-  ref: Deut 20:5
-  note: 'Who is excused from going out to war [contrast between the texts] (Opposite rulings on leave
-    from the campaign: Deut grants exemptions as of right (mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... yēlēk
-    wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q treats asking leave as a mark of unbelief (lā
-    yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka lladhīna lā yuʾminūn) and reproaches the
-    prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:6
-  note: 'Who is excused from going out to war [contrast between the texts] (Opposite rulings on leave
-    from the campaign: Deut grants exemptions as of right (mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... yēlēk
-    wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q treats asking leave as a mark of unbelief (lā
-    yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka lladhīna lā yuʾminūn) and reproaches the
-    prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
-    בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
-- tradition: islam
-  ref: Quran 9:43
-  note: 'Who is excused from going out to war [contrast between the texts] (Opposite rulings on leave
-    from the campaign: Deut grants exemptions as of right (mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... yēlēk
-    wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q treats asking leave as a mark of unbelief (lā
-    yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka lladhīna lā yuʾminūn) and reproaches the
-    prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ
-    ٱلْكَٰذِبِينَ
-- tradition: islam
-  ref: Quran 9:44
-  note: 'Who is excused from going out to war [contrast between the texts] (Opposite rulings on leave
-    from the campaign: Deut grants exemptions as of right (mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... yēlēk
-    wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q treats asking leave as a mark of unbelief (lā
-    yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka lladhīna lā yuʾminūn) and reproaches the
-    prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ
-    وَأَنفُسِهِمْ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
-- tradition: judaism
-  ref: Deut 20:8
-  note: 'The fearful are sent home before battle (Same reasoning for keeping the unwilling out of the
-    army: they would weaken the rest. law kharajū fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata
-    vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô. In Deut the officers send them home; in Q God himself holds
-    them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum wa-qīla qʿudū maʿa l-qāʿidīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
-    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
-- tradition: islam
-  ref: Quran 9:46
-  note: 'The fearful are sent home before battle (Same reasoning for keeping the unwilling out of the
-    army: they would weaken the rest. law kharajū fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata
-    vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô. In Deut the officers send them home; in Q God himself holds
-    them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum wa-qīla qʿudū maʿa l-qāʿidīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ
-    فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
-- tradition: islam
-  ref: Quran 9:47
-  note: 'The fearful are sent home before battle (Same reasoning for keeping the unwilling out of the
-    army: they would weaken the rest. law kharajū fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata
-    vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô. In Deut the officers send them home; in Q God himself holds
-    them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum wa-qīla qʿudū maʿa l-qāʿidīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ يَبْغُونَكُمُ
-    ٱلْفِتْنَةَ وَفِيكُمْ سَمَّٰعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast, parallel. Opposite rulings on leave from the campaign: Deut grants exemptions as of right
-    (mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... yēlēk wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q
-    treats asking leave as a mark of unbelief (lā yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka
-    lladhīna lā yuʾminūn) and reproaches the prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).
-    Same reasoning for keeping the unwilling out of the army: they would weaken the rest. law kharajū
-    fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô.
-    In Deut the officers send them home; in Q God himself holds them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum
-    wa-qīla qʿudū maʿa l-qāʿidīn).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is excused from going out to war [contrast between the texts]
     (weight 6.7); The fearful are sent home before battle (weight 6.3). Pair score 13.0.'
@@ -134,6 +51,76 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is excused from going out to war
+kinds:
+- contrast
+- parallel
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-9-shirkers-excuses
+  title: The excuses of those who stayed behind
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who is excused from going out to war
+  note: 'Opposite rulings on leave from the campaign: Deut grants exemptions as of right (mî-hāʾîš ʾăšer
+    bānāh bayit-ḥādāš ... yēlēk wᵉyāšōb lᵉbêtô, also vineyard and betrothed bride); Q treats asking leave
+    as a mark of unbelief (lā yastaʾdhinuka lladhīna yuʾminūna ... innamā yastaʾdhinuka lladhīna lā yuʾminūn)
+    and reproaches the prophet for granting it (ʿafā llāhu ʿanka li-ma adhinta lahum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:43
+      lang: ar
+      text: عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ
+        ٱلْكَٰذِبِينَ
+    - ref: Quran 9:44
+      lang: ar
+      text: لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ أَن يُجَٰهِدُوا۟
+        بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ
+    - ref: Quran 9:45
+      lang: ar
+      text: إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱرْتَابَتْ
+        قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ
+- kind: parallel
+  label: The fearful are sent home before battle
+  note: 'Same reasoning for keeping the unwilling out of the army: they would weaken the rest. law kharajū
+    fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô.
+    In Deut the officers send them home; in Q God himself holds them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum
+    wa-qīla qʿudū maʿa l-qāʿidīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:8
+      lang: he
+      text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
+        יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:46
+      lang: ar
+      text: وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ
+        فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
+    - ref: Quran 9:47
+      lang: ar
+      text: لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ يَبْغُونَكُمُ
+        ٱلْفِتْنَةَ وَفِيكُمْ سَمَّٰعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
 ---
 
 ## Questions

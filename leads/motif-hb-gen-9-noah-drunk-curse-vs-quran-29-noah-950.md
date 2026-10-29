@@ -2,8 +2,7 @@
 id: motif-hb-gen-9-noah-drunk-curse-vs-quran-29-noah-950
 title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death ↔ Noah remains a thousand years
   less fifty among his people
-summary: 'These two units share 2 motifs: noah''s span of 950 years, and what it measures [divergence
-  between the texts], hero''s life or mission spans 950 years.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,65 +15,9 @@ layers:
 motifs:
 - noahs-950-years-as-divergence
 - hero-age-950
-passages:
-- tradition: judaism
-  ref: Gen 9:28
-  note: 'Noah''s span of 950 years, and what it measures [divergence between the texts] (The same number
-    with a different meaning: Genesis gives the whole lifespan, wa-yyihyû kol yəmê Nōaḥ təšaʿ mēʾôt šānâ
-    wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran gives the time Noah spent preaching
-    among his people before the flood, fa-labitha fīhim alfa sanatin illā khamsīna ʿāman fa-akhadhahumu
-    ṭ-ṭūfān. The Quran also writes ''a thousand less fifty'' instead of ''nine hundred and fifty''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְחִי נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה
-- tradition: judaism
-  ref: Gen 9:29
-  note: 'Noah''s span of 950 years, and what it measures [divergence between the texts] (The same number
-    with a different meaning: Genesis gives the whole lifespan, wa-yyihyû kol yəmê Nōaḥ təšaʿ mēʾôt šānâ
-    wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran gives the time Noah spent preaching
-    among his people before the flood, fa-labitha fīhim alfa sanatin illā khamsīna ʿāman fa-akhadhahumu
-    ṭ-ṭūfān. The Quran also writes ''a thousand less fifty'' instead of ''nine hundred and fifty''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְיוּ֙ כָּל יְמֵי נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת
-- tradition: islam
-  ref: Quran 29:14
-  note: 'Noah''s span of 950 years, and what it measures [divergence between the texts] (The same number
-    with a different meaning: Genesis gives the whole lifespan, wa-yyihyû kol yəmê Nōaḥ təšaʿ mēʾôt šānâ
-    wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran gives the time Noah spent preaching
-    among his people before the flood, fa-labitha fīhim alfa sanatin illā khamsīna ʿāman fa-akhadhahumu
-    ṭ-ṭūfān. The Quran also writes ''a thousand less fifty'' instead of ''nine hundred and fifty''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا
-    فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
-- tradition: judaism
-  ref: Gen 9:28
-  note: Hero's life or mission spans 950 years
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְחִי נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה
-- tradition: judaism
-  ref: Gen 9:29
-  note: Hero's life or mission spans 950 years
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְיוּ֙ כָּל יְמֵי נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת
-- tradition: islam
-  ref: Quran 29:14
-  note: Hero's life or mission spans 950 years ('a thousand years less fifty' spent among his people before
-    the flood, not his total lifespan as in Gen 9:29)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا
-    فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. The same number with a different meaning: Genesis gives the whole lifespan, wa-yyihyû
-    kol yəmê Nōaḥ təšaʿ mēʾôt šānâ wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran
-    gives the time Noah spent preaching among his people before the flood, fa-labitha fīhim alfa sanatin
-    illā khamsīna ʿāman fa-akhadhahumu ṭ-ṭūfān. The Quran also writes ''a thousand less fifty'' instead
-    of ''nine hundred and fifty''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Noah''s span of 950 years, and what it measures [divergence between
     the texts] (weight 6.7); Hero''s life or mission spans 950 years (weight 6.0). Pair score 12.7.'
@@ -99,6 +42,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Noah's span of 950 years, and what it measures
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-9-noah-drunk-curse
+  title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death
+  tradition: judaism
+- id: quran-29-noah-950
+  title: Noah remains a thousand years less fifty among his people
+  tradition: islam
+matches:
+- kind: divergence
+  label: Noah's span of 950 years, and what it measures
+  note: 'The same number with a different meaning: Genesis gives the whole lifespan, wa-yyihyû kol yəmê
+    Nōaḥ təšaʿ mēʾôt šānâ wa-ḥămiššîm šānâ wa-yyāmōt (350 of them after the flood); the Quran gives the
+    time Noah spent preaching among his people before the flood, fa-labitha fīhim alfa sanatin illā khamsīna
+    ʿāman fa-akhadhahumu ṭ-ṭūfān. The Quran also writes ''a thousand less fifty'' instead of ''nine hundred
+    and fifty''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:28
+      lang: he
+      text: וַֽיְחִי נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה
+    - ref: Gen 9:29
+      lang: he
+      text: וַיִּֽהְיוּ֙ כָּל יְמֵי נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 29:14
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ
+        عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
+- kind: shared
+  label: Hero's life or mission spans 950 years
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:28
+      lang: he
+      text: וַֽיְחִי נֹ֖חַ אַחַ֣ר הַמַּבּ֑וּל שְׁלֹ֤שׁ מֵאוֹת֙ שָׁנָ֔ה וַֽחֲמִשִּׁ֖ים שָׁנָֽה
+    - ref: Gen 9:29
+      lang: he
+      text: וַיִּֽהְיוּ֙ כָּל יְמֵי נֹ֔חַ תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וַחֲמִשִּׁ֖ים שָׁנָ֑ה וַיָּמֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 29:14
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ
+        عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
+    note: '''a thousand years less fifty'' spent among his people before the flood, not his total lifespan
+      as in Gen 9:29'
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-eccl-3-time-for-everything-vs-quran-53-najm-goddesses-and-scrolls
 title: A time for everything; eternity in the heart ↔ Al-Lat, al-'Uzza and Manat; angelic intercession;
   the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: it is god who makes to laugh and to weep, who gives death and
-  life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - god-makes-laugh-and-weep
-passages:
-- tradition: judaism
-  ref: Eccl 3:4
-  note: 'It is God who makes to laugh and to weep, who gives death and life (ʿēṯ liḇkôṯ wə-ʿēṯ liśḥôq
-    vs. wa-annahu huwa aḍḥaka wa-abkā: weeping and laughter as a pair. Qohelet assigns them to times;
-    the Quran to God as agent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵ֤ת לִבְכּוֹת֙ וְעֵ֣ת לִשְׂח֔וֹק עֵ֥ת סְפ֖וֹד וְעֵ֥ת רְקֽוֹד
-- tradition: islam
-  ref: Quran 53:43
-  note: It is God who makes to laugh and to weep, who gives death and life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
-- tradition: islam
-  ref: Quran 53:44
-  note: It is God who makes to laugh and to weep, who gives death and life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. ʿēṯ liḇkôṯ wə-ʿēṯ liśḥôq vs. wa-annahu huwa aḍḥaka wa-abkā: weeping and laughter as a pair.
-    Qohelet assigns them to times; the Quran to God as agent.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: It is God who makes to laugh and to weep, who gives death and life
     (weight 6.7). Pair score 6.7.'
@@ -74,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: It is God who makes to laugh and to weep, who gives death and life
+kinds:
+- echo
+units:
+- id: hb-eccl-3-time-for-everything
+  title: A time for everything; eternity in the heart
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: echo
+  label: It is God who makes to laugh and to weep, who gives death and life
+  note: 'ʿēṯ liḇkôṯ wə-ʿēṯ liśḥôq vs. wa-annahu huwa aḍḥaka wa-abkā: weeping and laughter as a pair. Qohelet
+    assigns them to times; the Quran to God as agent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 3:4
+      lang: he
+      text: עֵ֤ת לִבְכּוֹת֙ וְעֵ֣ת לִשְׂח֔וֹק עֵ֥ת סְפ֖וֹד וְעֵ֥ת רְקֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 53:43
+      lang: ar
+      text: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
 ---
 
 ## Questions

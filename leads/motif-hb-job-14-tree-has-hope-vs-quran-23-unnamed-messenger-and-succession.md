@@ -2,8 +2,7 @@
 id: motif-hb-job-14-tree-has-hope-vs-quran-23-unnamed-messenger-and-succession
 title: Job - 'man born of woman'; the tree has hope ↔ A later generation's messenger, the Cry, and messengers
   in succession
-summary: 'These two units share 1 motifs: whether those who die and return to dust rise again [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - fate-of-humans-after-death-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 14:10
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (hayhāta hayhāta
-    limā tūʿadūna ... wa-mā naḥnu bi-mabʿūthīna ~ wə-ʾîš šākhav wə-lōʾ yāqûm ... lōʾ yāqîṣû wə-lōʾ yēʿōrû
-    miš-šənātām; ʾim yāmût gever ha-yiḥyeh: Job''s lament that man lies down and does not rise is, in
-    the Quran, the deniers'' answer to the messenger''s promise of being ''brought out'' (mukhrajūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ
-- tradition: judaism
-  ref: Job 14:12
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (hayhāta hayhāta
-    limā tūʿadūna ... wa-mā naḥnu bi-mabʿūthīna ~ wə-ʾîš šākhav wə-lōʾ yāqûm ... lōʾ yāqîṣû wə-lōʾ yēʿōrû
-    miš-šənātām; ʾim yāmût gever ha-yiḥyeh: Job''s lament that man lies down and does not rise is, in
-    the Quran, the deniers'' answer to the messenger''s promise of being ''brought out'' (mukhrajūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא יָ֫ק֥וּם עַד בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא יֵ֝עֹ֗רוּ מִשְּׁנָתָֽם
-- tradition: islam
-  ref: Quran 23:35
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:37
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. hayhāta hayhāta limā tūʿadūna ... wa-mā naḥnu bi-mabʿūthīna ~ wə-ʾîš šākhav wə-lōʾ yāqûm
-    ... lōʾ yāqîṣû wə-lōʾ yēʿōrû miš-šənātām; ʾim yāmût gever ha-yiḥyeh: Job''s lament that man lies down
-    and does not rise is, in the Quran, the deniers'' answer to the messenger''s promise of being ''brought
-    out'' (mukhrajūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [contrast between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -92,6 +47,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether those who die and return to dust rise again
+kinds:
+- contrast
+units:
+- id: hb-job-14-tree-has-hope
+  title: Job - 'man born of woman'; the tree has hope
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether those who die and return to dust rise again
+  note: 'hayhāta hayhāta limā tūʿadūna ... wa-mā naḥnu bi-mabʿūthīna ~ wə-ʾîš šākhav wə-lōʾ yāqûm ...
+    lōʾ yāqîṣû wə-lōʾ yēʿōrû miš-šənātām; ʾim yāmût gever ha-yiḥyeh: Job''s lament that man lies down
+    and does not rise is, in the Quran, the deniers'' answer to the messenger''s promise of being ''brought
+    out'' (mukhrajūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 14:10
+      lang: he
+      text: וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ
+    - ref: Job 14:12
+      lang: he
+      text: וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא יָ֫ק֥וּם עַד בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא יֵ֝עֹ֗רוּ
+        מִשְּׁנָתָֽם
+    - ref: Job 14:14
+      lang: he
+      text: אִם יָמ֥וּת גֶּ֗בֶר הֲיִ֫חְיֶ֥ה כָּל יְמֵ֣י צְבָאִ֣י אֲיַחֵ֑ל עַד בּ֝֗וֹא חֲלִיפָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
+    - ref: Quran 23:36
+      lang: ar
+      text: هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ
+    - ref: Quran 23:37
+      lang: ar
+      text: إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
 ---
 
 ## Questions

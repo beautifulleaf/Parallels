@@ -2,9 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-53-najm-goddesses-and-scrolls
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Al-Lat, al-'Uzza and
   Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 2 motifs: god as maker or lord of named stars [divergence between the
-  texts], god made the pleiades and orion (kimah and kesil), turns deep darkness into morning, and pours
-  the sea waters on the earth.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,56 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- god-as-lord-of-named-stars-as-divergence
 - maker-of-pleiades-and-orion
-passages:
-- tradition: judaism
-  ref: Amos 5:8
-  note: 'God as maker or lord of named stars [divergence between the texts] (God as lord of a named star,
-    with a different star. Amos: ʿōśēh ḵîmâ û-ḵəsîl ... YHWH šəmô (maker of the Pleiades and Orion). Quran:
-    wa-annahu huwa rabbu sh-shiʿrā (he is the Lord of Sirius). In both the star is claimed for the one
-    God. Amos names constellations without known cult; the Quran names a star worshipped in Arabia, so
-    the claim is also polemical.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א
-    לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 53:49
-  note: 'God as maker or lord of named stars [divergence between the texts] (God as lord of a named star,
-    with a different star. Amos: ʿōśēh ḵîmâ û-ḵəsîl ... YHWH šəmô (maker of the Pleiades and Orion). Quran:
-    wa-annahu huwa rabbu sh-shiʿrā (he is the Lord of Sirius). In both the star is claimed for the one
-    God. Amos names constellations without known cult; the Quran names a star worshipped in Arabia, so
-    the claim is also polemical.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
-- tradition: judaism
-  ref: Amos 5:8-9
-  note: God made the Pleiades and Orion (kimah and kesil), turns deep darkness into morning, and pours
-    the sea waters on the earth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (5:8) עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א
-    לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ (5:9) הַמַּבְלִ֥יג שֹׁ֖ד עַל
-    עָ֑ז וְשֹׁ֖ד עַל מִבְצָ֥ר יָבֽוֹא
-- tradition: islam
-  ref: Quran 53:49
-  note: God made the Pleiades and Orion (kimah and kesil), turns deep darkness into morning, and pours
-    the sea waters on the earth (a named star claimed for the one God)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
+- god-as-lord-of-named-stars-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. God as lord of a named star, with a different star. Amos: ʿōśēh ḵîmâ û-ḵəsîl ... YHWH
-    šəmô (maker of the Pleiades and Orion). Quran: wa-annahu huwa rabbu sh-shiʿrā (he is the Lord of Sirius).
-    In both the star is claimed for the one God. Amos names constellations without known cult; the Quran
-    names a star worshipped in Arabia, so the claim is also polemical.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God as maker or lord of named stars [divergence between the texts]
-    (weight 6.7); God made the Pleiades and Orion (kimah and kesil), turns deep darkness into morning,
-    and pours the sea waters on the earth (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: God made the Pleiades and Orion (kimah and kesil), turns deep darkness
+    into morning, and pours the sea waters on the earth (weight 6.7); God as maker or lord of named stars
+    [divergence between the texts] (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Lament for virgin Israel; seek me and live; the Day of YHWH is darkness: Futility curse:
     you built houses of hewn stone but will not live in them, planted vineyards but will not drink their
@@ -98,6 +55,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God as maker or lord of named stars
+kinds:
+- divergence
+- shared
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: divergence
+  label: God as maker or lord of named stars
+  note: 'God as lord of a named star, with a different star. Amos: ʿōśēh ḵîmâ û-ḵəsîl ... YHWH šəmô (maker
+    of the Pleiades and Orion). Quran: wa-annahu huwa rabbu sh-shiʿrā (he is the Lord of Sirius). In both
+    the star is claimed for the one God. Amos names constellations without known cult; the Quran names
+    a star worshipped in Arabia, so the claim is also polemical.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:8
+      lang: he
+      text: עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א
+        לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 53:49
+      lang: ar
+      text: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
+- kind: shared
+  label: God made the Pleiades and Orion (kimah and kesil), turns deep darkness into morning, and pours
+    the sea waters on the earth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:8-9
+      lang: he
+      text: (5:8) עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ
+        הַקּוֹרֵ֣א לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ (5:9) הַמַּבְלִ֥יג
+        שֹׁ֖ד עַל עָ֑ז וְשֹׁ֖ד עַל מִבְצָ֥ר יָבֽוֹא
+  - tradition: islam
+    passages:
+    - ref: Quran 53:49
+      lang: ar
+      text: وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعْرَىٰ
+    note: a named star claimed for the one God
 ---
 
 ## Questions

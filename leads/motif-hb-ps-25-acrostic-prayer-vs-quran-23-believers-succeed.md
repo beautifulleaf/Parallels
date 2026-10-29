@@ -2,8 +2,7 @@
 id: motif-hb-ps-25-acrostic-prayer-vs-quran-23-believers-succeed
 title: Psalm 25 - acrostic prayer for guidance and forgiveness ↔ The successful believers who inherit
   Firdaws
-summary: 'These two units share 1 motifs: the meek / those who wait for yhwh / the righteous and their
-  seed shall inherit the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 25:13
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (his seed shall inherit the land)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
-- tradition: islam
-  ref: Quran 23:10
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) ('they are the inheritors (al-wārithūn)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
-- tradition: islam
-  ref: Quran 23:11
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) ('they are the inheritors (al-wārithūn)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. humu l-wārithūn ~ wə-zarʿô yîraš ʾāreṣ: the God-fearer''s seed inherits the land; in the Quran
-    the believers themselves inherit al-firdaws.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
     shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
@@ -66,6 +42,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+  arets)
+kinds:
+- echo
+units:
+- id: hb-ps-25-acrostic-prayer
+  title: Psalm 25 - acrostic prayer for guidance and forgiveness
+  tradition: judaism
+- id: quran-23-believers-succeed
+  title: The successful believers who inherit Firdaws
+  tradition: islam
+matches:
+- kind: echo
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  note: 'humu l-wārithūn ~ wə-zarʿô yîraš ʾāreṣ: the God-fearer''s seed inherits the land; in the Quran
+    the believers themselves inherit al-firdaws.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 25:13
+      lang: he
+      text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:10
+      lang: ar
+      text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
 ---
 
 ## Questions

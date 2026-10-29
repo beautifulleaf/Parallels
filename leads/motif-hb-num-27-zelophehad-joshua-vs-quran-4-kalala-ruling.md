@@ -1,9 +1,7 @@
 ---
 id: motif-hb-num-27-zelophehad-joshua-vs-quran-4-kalala-ruling
 title: Daughters of Zelophehad; Moses views the land; Joshua commissioned ↔ The final ruling on kalāla
-summary: 'These two units share 2 motifs: statutory order of inheritance: son, daughter, brothers, father''s
-  brothers, nearest kin [divergence between the texts], leader defers an unprecedented legal case to a
-  divine oracle.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,77 +16,9 @@ layers:
 motifs:
 - order-of-inheritance-as-divergence
 - leader-awaits-oracle-on-case
-passages:
-- tradition: judaism
-  ref: Num 27:8
-  note: 'Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin [divergence
-    between the texts] (Inheritance of a man with no child. Num: ʾîš kî-yāmût û-vēn ʾên lô ... lə-vittô;
-    wə-ʾim-ʾên lô bat ... lə-ʾeḥāyw, then the father''s brothers and the nearest kin. Sisters are never
-    named. Q: in imruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka: a sister takes
-    half, two sisters two thirds, and mixed siblings share li-l-dhakari mithlu ḥaẓẓi l-unthayayn. Q gives
-    fixed fractions; Num gives only an order of heirs.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֣ישׁ כִּֽי יָמ֗וּת וּבֵן֙ אֵ֣ין ל֔וֹ וְהַֽעֲבַרְתֶּ֥ם
-    אֶת נַחֲלָת֖וֹ לְבִתּֽוֹ
-- tradition: judaism
-  ref: Num 27:9
-  note: 'Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin [divergence
-    between the texts] (Inheritance of a man with no child. Num: ʾîš kî-yāmût û-vēn ʾên lô ... lə-vittô;
-    wə-ʾim-ʾên lô bat ... lə-ʾeḥāyw, then the father''s brothers and the nearest kin. Sisters are never
-    named. Q: in imruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka: a sister takes
-    half, two sisters two thirds, and mixed siblings share li-l-dhakari mithlu ḥaẓẓi l-unthayayn. Q gives
-    fixed fractions; Num gives only an order of heirs.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אֵ֥ין ל֖וֹ בַּ֑ת וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לְאֶחָיו
-- tradition: islam
-  ref: Quran 4:176
-  note: 'Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin [divergence
-    between the texts] (Inheritance of a man with no child. Num: ʾîš kî-yāmût û-vēn ʾên lô ... lə-vittô;
-    wə-ʾim-ʾên lô bat ... lə-ʾeḥāyw, then the father''s brothers and the nearest kin. Sisters are never
-    named. Q: in imruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka: a sister takes
-    half, two sisters two thirds, and mixed siblings share li-l-dhakari mithlu ḥaẓẓi l-unthayayn. Q gives
-    fixed fractions; Num gives only an order of heirs.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ
-    وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا
-    ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ
-    مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
-- tradition: judaism
-  ref: Num 27:5
-  note: Leader defers an unprecedented legal case to a divine oracle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּקְרֵ֥ב מֹשֶׁ֛ה אֶת מִשְׁפָּטָ֖ן לִפְנֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Num 27:8
-  note: Leader defers an unprecedented legal case to a divine oracle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֣ישׁ כִּֽי יָמ֗וּת וּבֵן֙ אֵ֣ין ל֔וֹ וְהַֽעֲבַרְתֶּ֥ם
-    אֶת נַחֲלָת֖וֹ לְבִתּֽוֹ
-- tradition: islam
-  ref: Quran 4:176
-  note: 'Leader defers an unprecedented legal case to a divine oracle (An inheritance question is put
-    to the prophet and the answer comes from God. Num: wa-yyaqrēv Mōšeh ʾet-mišpāṭān lifnê YHWH, and God
-    legislates (wə-ʾel-bənê Yiśrāʾēl tədabbēr). Q: yastaftūnaka quli llāhu yuftīkum fī l-kalāla.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ وَلَدٌ
-    وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا
-    ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا وَنِسَآءً فَلِلذَّكَرِ
-    مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence, parallel. Inheritance of a man with no child. Num: ʾîš kî-yāmût û-vēn ʾên lô ... lə-vittô;
-    wə-ʾim-ʾên lô bat ... lə-ʾeḥāyw, then the father''s brothers and the nearest kin. Sisters are never
-    named. Q: in imruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka: a sister takes
-    half, two sisters two thirds, and mixed siblings share li-l-dhakari mithlu ḥaẓẓi l-unthayayn. Q gives
-    fixed fractions; Num gives only an order of heirs. An inheritance question is put to the prophet and
-    the answer comes from God. Num: wa-yyaqrēv Mōšeh ʾet-mišpāṭān lifnê YHWH, and God legislates (wə-ʾel-bənê
-    Yiśrāʾēl tədabbēr). Q: yastaftūnaka quli llāhu yuftīkum fī l-kalāla.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Statutory order of inheritance: son, daughter, brothers, father''s
     brothers, nearest kin [divergence between the texts] (weight 6.7); Leader defers an unprecedented
@@ -115,6 +45,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin'
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-num-27-zelophehad-joshua
+  title: Daughters of Zelophehad; Moses views the land; Joshua commissioned
+  tradition: judaism
+- id: quran-4-kalala-ruling
+  title: The final ruling on kalāla
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Statutory order of inheritance: son, daughter, brothers, father''s brothers, nearest kin'
+  note: 'Inheritance of a man with no child. Num: ʾîš kî-yāmût û-vēn ʾên lô ... lə-vittô; wə-ʾim-ʾên lô
+    bat ... lə-ʾeḥāyw, then the father''s brothers and the nearest kin. Sisters are never named. Q: in
+    imruʾun halaka laysa lahu waladun wa-lahu ukhtun fa-lahā niṣfu mā taraka: a sister takes half, two
+    sisters two thirds, and mixed siblings share li-l-dhakari mithlu ḥaẓẓi l-unthayayn. Q gives fixed
+    fractions; Num gives only an order of heirs.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 27:8
+      lang: he
+      text: וְאֶל בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֣ישׁ כִּֽי יָמ֗וּת וּבֵן֙ אֵ֣ין ל֔וֹ וְהַֽעֲבַרְתֶּ֥ם
+        אֶת נַחֲלָת֖וֹ לְבִתּֽוֹ
+    - ref: Num 27:9
+      lang: he
+      text: וְאִם אֵ֥ין ל֖וֹ בַּ֑ת וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לְאֶחָיו
+    - ref: Num 27:10
+      lang: he
+      text: וְאִם אֵ֥ין ל֖וֹ אַחִ֑ים וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לַאֲחֵ֥י אָבִֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 4:176
+      lang: ar
+      text: يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ
+        وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ
+        فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا
+        وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ
+        بِكُلِّ شَىْءٍ عَلِيمٌۢ
+- kind: parallel
+  label: Leader defers an unprecedented legal case to a divine oracle
+  note: 'An inheritance question is put to the prophet and the answer comes from God. Num: wa-yyaqrēv
+    Mōšeh ʾet-mišpāṭān lifnê YHWH, and God legislates (wə-ʾel-bənê Yiśrāʾēl tədabbēr). Q: yastaftūnaka
+    quli llāhu yuftīkum fī l-kalāla.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 27:5
+      lang: he
+      text: וַיַּקְרֵ֥ב מֹשֶׁ֛ה אֶת מִשְׁפָּטָ֖ן לִפְנֵ֥י יְהוָֽה
+    - ref: Num 27:8
+      lang: he
+      text: וְאֶל בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֣ישׁ כִּֽי יָמ֗וּת וּבֵן֙ אֵ֣ין ל֔וֹ וְהַֽעֲבַרְתֶּ֥ם
+        אֶת נַחֲלָת֖וֹ לְבִתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:176
+      lang: ar
+      text: يَسْتَفْتُونَكَ قُلِ ٱللَّهُ يُفْتِيكُمْ فِى ٱلْكَلَٰلَةِ إِنِ ٱمْرُؤٌا۟ هَلَكَ لَيْسَ لَهُۥ
+        وَلَدٌ وَلَهُۥٓ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَآ إِن لَّمْ يَكُن لَّهَا وَلَدٌ
+        فَإِن كَانَتَا ٱثْنَتَيْنِ فَلَهُمَا ٱلثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوٓا۟ إِخْوَةً رِّجَالًا
+        وَنِسَآءً فَلِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ يُبَيِّنُ ٱللَّهُ لَكُمْ أَن تَضِلُّوا۟ وَٱللَّهُ
+        بِكُلِّ شَىْءٍ عَلِيمٌۢ
 ---
 
 ## Questions

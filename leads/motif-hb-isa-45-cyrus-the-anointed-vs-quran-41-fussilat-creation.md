@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-41-fussilat-creation
 title: 'Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Ha-Mim
   Fussilat: the veil between; creation in days; heaven as smoke'
-summary: 'These two units share 1 motifs: god revealed to each heaven its command (amr) and adorned the
-  lowest heaven with lamps and protection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - each-heaven-given-its-command
-passages:
-- tradition: judaism
-  ref: Isa 45:12
-  note: 'God revealed to each heaven its command (amr) and adorned the lowest heaven with lamps and protection
-    (ʾănî yāḏay nāṭû šāmayim wə-ḵol-ṣəḇāʾām ṣiwwêṯî vs. wa-awḥā fī kulli samāʾin amrahā wa-zayyannā s-samāʾa
-    d-dunyā bi-maṣābīḥ: God gives the heavens and their hosts their command (ṣiwwâ / amr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל צְבָאָ֖ם
-    צִוֵּֽיתִי
-- tradition: islam
-  ref: Quran 41:12
-  note: God revealed to each heaven its command (amr) and adorned the lowest heaven with lamps and protection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا
-    ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾănî yāḏay nāṭû šāmayim wə-ḵol-ṣəḇāʾām ṣiwwêṯî vs. wa-awḥā fī kulli samāʾin amrahā wa-zayyannā
-    s-samāʾa d-dunyā bi-maṣābīḥ: God gives the heavens and their hosts their command (ṣiwwâ / amr).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God revealed to each heaven its command (amr) and adorned the lowest
     heaven with lamps and protection (weight 6.7). Pair score 6.7.'
@@ -75,6 +56,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God revealed to each heaven its command (amr) and adorned the lowest heaven with lamps and protection
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-41-fussilat-creation
+  title: 'Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke'
+  tradition: islam
+matches:
+- kind: echo
+  label: God revealed to each heaven its command (amr) and adorned the lowest heaven with lamps and protection
+  note: 'ʾănî yāḏay nāṭû šāmayim wə-ḵol-ṣəḇāʾām ṣiwwêṯî vs. wa-awḥā fī kulli samāʾin amrahā wa-zayyannā
+    s-samāʾa d-dunyā bi-maṣābīḥ: God gives the heavens and their hosts their command (ṣiwwâ / amr).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:12
+      lang: he
+      text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל
+        צְבָאָ֖ם צִוֵּֽיתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 41:12
+      lang: ar
+      text: فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا
+        ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

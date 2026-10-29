@@ -2,9 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-19-prophets-remembered
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Moses,
   Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 2 motifs: an eloquent brother is appointed to speak for the hero, who
-  is ''as god'' to him [divergence between the texts], an eloquent brother is appointed to speak for the
-  hero, who is ''as god'' to him.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,66 +15,9 @@ layers:
 motifs:
 - brother-as-spokesman-as-divergence
 - brother-as-spokesman
-passages:
-- tradition: judaism
-  ref: Exod 7:1
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min
-    raḥmatinā akhāhu Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses''
-    prophet, with Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift
-    of mercy to Moses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה
-    נְבִיאֶֽךָ
-- tradition: judaism
-  ref: Exod 7:2
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min
-    raḥmatinā akhāhu Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses''
-    prophet, with Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift
-    of mercy to Moses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה וְשִׁלַּ֥ח
-    אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
-- tradition: islam
-  ref: Quran 19:53
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min
-    raḥmatinā akhāhu Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses''
-    prophet, with Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift
-    of mercy to Moses.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
-- tradition: judaism
-  ref: Exod 7:1
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה
-    נְבִיאֶֽךָ
-- tradition: judaism
-  ref: Exod 7:2
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה וְשִׁלַּ֥ח
-    אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
-- tradition: islam
-  ref: Quran 19:53
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron given 'from
-    our mercy' as a prophet)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min raḥmatinā
-    akhāhu Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses'' prophet,
-    with Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift of mercy
-    to Moses.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An eloquent brother is appointed to speak for the hero, who is ''as
     God'' to him [divergence between the texts] (weight 6.3); An eloquent brother is appointed to speak
@@ -113,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+kinds:
+- divergence
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: divergence
+  label: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+  note: 'nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min raḥmatinā akhāhu
+    Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses'' prophet, with
+    Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift of mercy to
+    Moses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ
+        יִהְיֶ֥ה נְבִיאֶֽךָ
+    - ref: Exod 7:2
+      lang: he
+      text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה
+        וְשִׁלַּ֥ח אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:53
+      lang: ar
+      text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
 ---
 
 ## Questions

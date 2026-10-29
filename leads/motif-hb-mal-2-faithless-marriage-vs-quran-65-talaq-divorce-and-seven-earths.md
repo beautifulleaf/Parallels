@@ -2,9 +2,7 @@
 id: motif-hb-mal-2-faithless-marriage-vs-quran-65-talaq-divorce-and-seven-earths
 title: 'One father, one God; foreign wives and the wife of one''s youth ↔ Al-Talaq: divorce and the waiting
   period, two witnesses, nursing wages, and the seven heavens and earths'
-summary: 'These two units share 2 motifs: husband writes a bill of divorcement for ''some indecency''
-  and sends her away [contrast between the texts], husband writes a bill of divorcement for ''some indecency''
-  and sends her away.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,78 +15,9 @@ layers:
 motifs:
 - bill-of-divorce-as-contrast
 - bill-of-divorce
-passages:
-- tradition: judaism
-  ref: Mal 2:14
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away [contrast between
-    the texts] (Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên
-    ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā
-    ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the
-    parting, while the warning is ittaqū llāha rabbakum.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲמַרְתֶּ֖ם עַל מָ֑ה עַ֡ל כִּי יְהוָה֩ הֵעִ֨יד בֵּינְךָ֜ וּבֵ֣ין אֵ֣שֶׁת נְעוּרֶ֗יךָ אֲשֶׁ֤ר
-    אַתָּה֙ בָּגַ֣דְתָּה בָּ֔הּ וְהִ֥יא חֲבֶרְתְּךָ֖ וְאֵ֥שֶׁת בְּרִיתֶֽךָ
-- tradition: judaism
-  ref: Mal 2:16
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away [contrast between
-    the texts] (Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên
-    ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā
-    ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the
-    parting, while the warning is ittaqū llāha rabbakum.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי שָׂנֵ֣א שַׁלַּ֗ח אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכִסָּ֤ה חָמָס֙ עַל לְבוּשׁ֔וֹ אָמַ֖ר
-    יְהוָ֣ה צְבָא֑וֹת וְנִשְׁמַרְתֶּ֥ם בְּרוּחֲכֶ֖ם וְלֹ֥א תִבְגֹּֽדוּ
-- tradition: islam
-  ref: Quran 65:1
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away [contrast between
-    the texts] (Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên
-    ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā
-    ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the
-    parting, while the warning is ittaqū llāha rabbakum.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
-    ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ
-    أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ
-    ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
-- tradition: islam
-  ref: Quran 65:2
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away [contrast between
-    the texts] (Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên
-    ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā
-    ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the
-    parting, while the warning is ittaqū llāha rabbakum.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟
-    ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ
-    بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا
-- tradition: judaism
-  ref: Mal 2:16
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away (shallah, sending
-    away)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי שָׂנֵ֣א שַׁלַּ֗ח אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכִסָּ֤ה חָמָס֙ עַל לְבוּשׁ֔וֹ אָמַ֖ר
-    יְהוָ֣ה צְבָא֑וֹת וְנִשְׁמַרְתֶּ֥ם בְּרוּחֲכֶ֖ם וְלֹ֥א תִבְגֹּֽדוּ
-- tradition: islam
-  ref: Quran 65:1
-  note: Husband writes a bill of divorcement for 'some indecency' and sends her away (for 'flagrant indecency'
-    (fahisha mubayyina), cf. Deut 24:1 'ervat davar')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
-    ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ إِلَّآ
-    أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدْ
-    ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên
-    ʾēšet neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā
-    ṭallaqtumu n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the
-    parting, while the warning is ittaqū llāha rabbakum.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Husband writes a bill of divorcement for ''some indecency'' and
     sends her away [contrast between the texts] (weight 6.7); Husband writes a bill of divorcement for
@@ -125,6 +54,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Husband writes a bill of divorcement for 'some indecency' and sends her away
+kinds:
+- contrast
+units:
+- id: hb-mal-2-faithless-marriage
+  title: One father, one God; foreign wives and the wife of one's youth
+  tradition: judaism
+- id: quran-65-talaq-divorce-and-seven-earths
+  title: 'Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven heavens
+    and earths'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Husband writes a bill of divorcement for 'some indecency' and sends her away
+  note: Mal 2:16 kî śānēʾ šallaḥ ʾāmar YHWH (God hates sending away), and YHWH hēʿîd bênkā û-vên ʾēšet
+    neʿûrêkā (God is the witness of the marriage). Q 65 regulates divorce without censure (idhā ṭallaqtumu
+    n-nisāʾa fa-ṭalliqūhunna li-ʿiddatihinna) and the witnesses are two human ʿadl men at the parting,
+    while the warning is ittaqū llāha rabbakum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 2:14
+      lang: he
+      text: וַאֲמַרְתֶּ֖ם עַל מָ֑ה עַ֡ל כִּי יְהוָה֩ הֵעִ֨יד בֵּינְךָ֜ וּבֵ֣ין אֵ֣שֶׁת נְעוּרֶ֗יךָ אֲשֶׁ֤ר
+        אַתָּה֙ בָּגַ֣דְתָּה בָּ֔הּ וְהִ֥יא חֲבֶרְתְּךָ֖ וְאֵ֥שֶׁת בְּרִיתֶֽךָ
+    - ref: Mal 2:16
+      lang: he
+      text: כִּֽי שָׂנֵ֣א שַׁלַּ֗ח אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכִסָּ֤ה חָמָס֙ עַל לְבוּשׁ֔וֹ
+        אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וְנִשְׁמַרְתֶּ֥ם בְּרוּחֲכֶ֖ם וְלֹ֥א תִבְגֹּֽדוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 65:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحْصُوا۟
+        ٱلْعِدَّةَ وَٱتَّقُوا۟ ٱللَّهَ رَبَّكُمْ لَا تُخْرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخْرُجْنَ
+        إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ وَتِلْكَ حُدُودُ ٱللَّهِ وَمَن يَتَعَدَّ حُدُودَ
+        ٱللَّهِ فَقَدْ ظَلَمَ نَفْسَهُۥ لَا تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَٰلِكَ أَمْرًا
+    - ref: Quran 65:2
+      lang: ar
+      text: فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ فَارِقُوهُنَّ بِمَعْرُوفٍ وَأَشْهِدُوا۟
+        ذَوَىْ عَدْلٍ مِّنكُمْ وَأَقِيمُوا۟ ٱلشَّهَٰدَةَ لِلَّهِ ذَٰلِكُمْ يُوعَظُ بِهِۦ مَن كَانَ يُؤْمِنُ
+        بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا
 ---
 
 ## Questions

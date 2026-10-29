@@ -2,8 +2,7 @@
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'Song of Hannah ↔ Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost,
   the Companions of the Right and their Garden'
-summary: 'These two units share 1 motifs: hymn of reversals: the barren bears seven, the mighty broken,
-  the poor raised from the dung-heap.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - song-reversal-of-fortunes
-passages:
-- tradition: judaism
-  ref: 1Sam 2:4
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל
-- tradition: judaism
-  ref: 1Sam 2:5
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂבֵעִ֤ים בַּלֶּ֨חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת
-    בָּנִ֖ים אֻמְלָֽלָה
-- tradition: islam
-  ref: Quran 56:3
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap
-    (khafida rafi''a, cf. 1 Sam 2:7)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَافِضَةٌ رَّافِعَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. YHWH ... mašpîl ʾap̄ mərômēm vs. khāfiḍatun rāfiʿa: lowering and raising. Hannah praises reversals
-    in this life; the Quran puts them at the end.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hymn of reversals: the barren bears seven, the mighty broken, the
     poor raised from the dung-heap (weight 6.0). Pair score 6.0.'
@@ -70,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
+kinds:
+- echo
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
+  note: 'YHWH ... mašpîl ʾap̄ mərômēm vs. khāfiḍatun rāfiʿa: lowering and raising. Hannah praises reversals
+    in this life; the Quran puts them at the end.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:7
+      lang: he
+      text: יְהוָ֖ה מוֹרִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף מְרוֹמֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 56:3
+      lang: ar
+      text: خَافِضَةٌ رَّافِعَةٌ
 ---
 
 ## Questions

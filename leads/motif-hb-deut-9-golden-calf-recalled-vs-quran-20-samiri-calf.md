@@ -2,9 +2,7 @@
 id: motif-hb-deut-9-golden-calf-recalled-vs-quran-20-samiri-calf
 title: Not for your righteousness; the golden calf and Moses' intercession recalled ↔ Moses hastens to
   the appointment; the Samiri and the calf
-summary: 'These two units share 3 motifs: calf burned, ground to dust, and the dust thrown into the stream,
-  aaron warns the people against the calf; they refuse to stop until moses returns [divergence between
-  the texts], people make a molten calf while the leader is on the mountain.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,86 +18,9 @@ motifs:
 - calf-burned-ground-dust-in-stream
 - aaron-opposes-calf-as-divergence
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Deut 9:21
-  note: Calf burned, ground to dust, and the dust thrown into the stream
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽאֶת חַטַּאתְכֶ֞ם אֲשֶׁר עֲשִׂיתֶ֣ם אֶת הָעֵ֗גֶל לָקַחְתִּי֮ וָאֶשְׂרֹ֣ף אֹת֣וֹ בָּאֵשׁ֒ וָאֶכֹּ֨ת
-    אֹת֤וֹ טָחוֹן֙ הֵיטֵ֔ב עַ֥ד אֲשֶׁר דַּ֖ק לְעָפָ֑ר וָֽאַשְׁלִךְ֙ אֶת עֲפָר֔וֹ אֶל הַנַּ֖חַל הַיֹּרֵ֥ד
-    מִן הָהָֽר
-- tradition: islam
-  ref: Quran 20:97
-  note: Calf burned, ground to dust, and the dust thrown into the stream
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن
-    تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ
-    فِى ٱلْيَمِّ نَسْفًا
-- tradition: judaism
-  ref: Deut 9:20
-  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
-    between the texts] (ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut
-    keeps Aaron guilty and nearly destroyed, saved by Moses'' prayer. Q makes Aaron innocent and the one
-    who warned; only Moses'' anger touches him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
-    בָּעֵ֥ת הַהִֽוא
-- tradition: islam
-  ref: Quran 20:90
-  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
-    between the texts] (Reversal. Exod: Aaron builds the altar before the calf and proclaims ḥag laYHWH
-    māḥār. Q: Aaron warns them, yā qawmi innamā futintum bihi wa-inna rabbakumu r-Raḥmānu fa-ttabiʿūnī,
-    and the people refuse, lan nabraḥa ʿalayhi ʿākifīna ḥattā yarjiʿa ilaynā Mūsā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ وَإِنَّ رَبَّكُمُ
-    ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
-- tradition: islam
-  ref: Quran 20:91
-  note: 'Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
-    between the texts] (Reversal. Exod: Aaron builds the altar before the calf and proclaims ḥag laYHWH
-    māḥār. Q: Aaron warns them, yā qawmi innamā futintum bihi wa-inna rabbakumu r-Raḥmānu fa-ttabiʿūnī,
-    and the people refuse, lan nabraḥa ʿalayhi ʿākifīna ḥattā yarjiʿa ilaynā Mūsā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَن نَّبْرَحَ عَلَيْهِ عَٰكِفِينَ حَتَّىٰ يَرْجِعَ إِلَيْنَا مُوسَىٰ
-- tradition: judaism
-  ref: Deut 9:12
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ק֣וּם רֵ֤ד מַהֵר֙ מִזֶּ֔ה כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הוֹצֵ֖אתָ מִמִּצְרָ֑יִם
-    סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֥וּ לָהֶ֖ם מַסֵּכָֽה
-- tradition: judaism
-  ref: Deut 9:16
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם
-    מַהֵ֔ר מִן הַדֶּ֕רֶךְ אֲשֶׁר צִוָּ֥ה יְהוָ֖ה אֶתְכֶֽם
-- tradition: islam
-  ref: Quran 20:85
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
-- tradition: islam
-  ref: Quran 20:88
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
-    فَنَسِىَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut
-    keeps Aaron guilty and nearly destroyed, saved by Moses'' prayer. Q makes Aaron innocent and the one
-    who warned; only Moses'' anger touches him. wāʾeśrōp ʾōtô bāʾēš wāʾekkōt ʾōtô ṭāḥôn hêṭēb ʿad ʾăšer-daq
-    ləʿāpār wāʾašlik ʾet-ʿăpārô ʾel-hannaḥal; la-nuḥarriqannahu thumma la-nansifannahu fī l-yamm: burned,
-    pulverized and thrown into water. Deut has no drinking either.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
     (weight 6.7); Aaron warns the people against the calf; they refuse to stop until Moses returns [divergence
@@ -136,6 +57,86 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Aaron warns the people against the calf; they refuse to stop until Moses returns
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-deut-9-golden-calf-recalled
+  title: Not for your righteousness; the golden calf and Moses' intercession recalled
+  tradition: judaism
+- id: quran-20-samiri-calf
+  title: Moses hastens to the appointment; the Samiri and the calf
+  tradition: islam
+matches:
+- kind: divergence
+  label: Aaron warns the people against the calf; they refuse to stop until Moses returns
+  note: 'ûbəʾahărōn hitʾannap YHWH məʾōd ləhašmîdô wāʾetpallēl gam-bəʿad ʾahărōn: Deut keeps Aaron guilty
+    and nearly destroyed, saved by Moses'' prayer. Q makes Aaron innocent and the one who warned; only
+    Moses'' anger touches him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:20
+      lang: he
+      text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
+        בָּעֵ֥ת הַהִֽוא
+  - tradition: islam
+    passages:
+    - ref: Quran 20:90
+      lang: ar
+      text: وَلَقَدْ قَالَ لَهُمْ هَٰرُونُ مِن قَبْلُ يَٰقَوْمِ إِنَّمَا فُتِنتُم بِهِۦ وَإِنَّ رَبَّكُمُ
+        ٱلرَّحْمَٰنُ فَٱتَّبِعُونِى وَأَطِيعُوٓا۟ أَمْرِى
+    - ref: Quran 20:92
+      lang: ar
+      text: قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
+    - ref: Quran 20:94
+      lang: ar
+      text: قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ
+        بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
+- kind: parallel
+  label: Calf burned, ground to dust, and the dust thrown into the stream
+  note: 'wāʾeśrōp ʾōtô bāʾēš wāʾekkōt ʾōtô ṭāḥôn hêṭēb ʿad ʾăšer-daq ləʿāpār wāʾašlik ʾet-ʿăpārô ʾel-hannaḥal;
+    la-nuḥarriqannahu thumma la-nansifannahu fī l-yamm: burned, pulverized and thrown into water. Deut
+    has no drinking either.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:21
+      lang: he
+      text: וְֽאֶת חַטַּאתְכֶ֞ם אֲשֶׁר עֲשִׂיתֶ֣ם אֶת הָעֵ֗גֶל לָקַחְתִּי֮ וָאֶשְׂרֹ֣ף אֹת֣וֹ בָּאֵשׁ֒
+        וָאֶכֹּ֨ת אֹת֤וֹ טָחוֹן֙ הֵיטֵ֔ב עַ֥ד אֲשֶׁר דַּ֖ק לְעָפָ֑ר וָֽאַשְׁלִךְ֙ אֶת עֲפָר֔וֹ אֶל הַנַּ֖חַל
+        הַיֹּרֵ֥ד מִן הָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 20:97
+      lang: ar
+      text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا
+        لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ
+        ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ק֣וּם רֵ֤ד מַהֵר֙ מִזֶּ֔ה כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הוֹצֵ֖אתָ
+        מִמִּצְרָ֑יִם סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֥וּ לָהֶ֖ם מַסֵּכָֽה
+    - ref: Deut 9:16
+      lang: he
+      text: וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם
+        מַהֵ֔ר מִן הַדֶּ֕רֶךְ אֲשֶׁר צִוָּ֥ה יְהוָ֖ה אֶתְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:85
+      lang: ar
+      text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
 ---
 
 ## Questions

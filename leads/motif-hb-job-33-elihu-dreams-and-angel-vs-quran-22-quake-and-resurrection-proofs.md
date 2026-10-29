@@ -2,7 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-22-quake-and-resurrection-proofs
 title: Elihu - warning dreams and the interceding angel ↔ The quake of the Hour and the proofs from embryo
   and rain
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 22:5
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
-    ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
-    لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا
-    ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ
-    ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا
-    عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mēḥōmer qōraṣtî gam-ʾānî; khalaqnākum min turāb: man nipped from clay.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -76,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-22-quake-and-resurrection-proofs
+  title: The quake of the Hour and the proofs from embryo and rain
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'mēḥōmer qōraṣtî gam-ʾānî; khalaqnākum min turāb: man nipped from clay.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 22:5
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
+        ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
+        لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ
+        طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ
+        أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً
+        فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
 ---
 
 ## Questions

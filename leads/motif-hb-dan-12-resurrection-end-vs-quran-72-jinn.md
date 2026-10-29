@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-12-resurrection-end-vs-quran-72-jinn
 title: Michael arises, the resurrection, and the sealed book ↔ The jinn hear the recitation
-summary: 'These two units share 1 motifs: your dead shall live, their corpses rise; dwellers in the dust
-  shall awake and sing.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Dan 12:2
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (yeshene admat
-    afar yaqitsu; le-hayye olam / la-harafot le-dir'on olam)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: islam
-  ref: Quran 72:7
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (jinn and
-    men had thought God would never raise anyone)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. lan yabʿatha llāhu aḥadan ~ we-rabbîm mi-yyešēnê ʾadmat ʿāfār yāqîṣû.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
     awake and sing (weight 4.9). Pair score 4.9.'
@@ -70,6 +53,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+kinds:
+- echo
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-72-jinn
+  title: The jinn hear the recitation
+  tradition: islam
+matches:
+- kind: echo
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  note: lan yabʿatha llāhu aḥadan ~ we-rabbîm mi-yyešēnê ʾadmat ʿāfār yāqîṣû.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 72:7
+      lang: ar
+      text: وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
 ---
 
 ## Questions

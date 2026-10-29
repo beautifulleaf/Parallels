@@ -2,8 +2,7 @@
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-42-shura-judgment-and-divine-speech
 title: Song of Hannah ↔ The damned seek a way back; God gives children as he wills; three ways God speaks
   to man
-summary: 'These two units share 1 motifs: god grants daughters to whom he wills, sons to whom he wills,
-  or both, and makes barren whom he wills.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - god-grants-sons-daughters-or-barrenness
-passages:
-- tradition: judaism
-  ref: 1Sam 2:5
-  note: 'God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom
-    he wills (Cognate word for the barren: ʿaḏ ʿăqārâ yāləḏâ šiḇʿâ wə-rabbaṯ bānîm ʾumlālâ vs. wa-yajʿalu
-    man yashāʾu ʿaqīman (ʿ-q-r). Hannah sings a reversal (the barren bears, the mother of many languishes);
-    the Quran lists God''s free choices without reversal: daughters, sons, both, or none.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂבֵעִ֤ים בַּלֶּ֨חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת
-    בָּנִ֖ים אֻמְלָֽלָה
-- tradition: islam
-  ref: Quran 42:49
-  note: God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he
-    wills (daughters named first)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَخْلُقُ مَا يَشَآءُ يَهَبُ لِمَن يَشَآءُ إِنَٰثًا
-    وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ
-- tradition: islam
-  ref: Quran 42:50
-  note: God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom he
-    wills (daughters named first)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Cognate word for the barren: ʿaḏ ʿăqārâ yāləḏâ šiḇʿâ wə-rabbaṯ bānîm ʾumlālâ vs. wa-yajʿalu
-    man yashāʾu ʿaqīman (ʿ-q-r). Hannah sings a reversal (the barren bears, the mother of many languishes);
-    the Quran lists God''s free choices without reversal: daughters, sons, both, or none.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God grants daughters to whom he wills, sons to whom he wills, or
     both, and makes barren whom he wills (weight 6.3). Pair score 6.3.'
@@ -74,6 +45,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom
+  he wills
+kinds:
+- echo
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-42-shura-judgment-and-divine-speech
+  title: The damned seek a way back; God gives children as he wills; three ways God speaks to man
+  tradition: islam
+matches:
+- kind: echo
+  label: God grants daughters to whom he wills, sons to whom he wills, or both, and makes barren whom
+    he wills
+  note: 'Cognate word for the barren: ʿaḏ ʿăqārâ yāləḏâ šiḇʿâ wə-rabbaṯ bānîm ʾumlālâ vs. wa-yajʿalu man
+    yashāʾu ʿaqīman (ʿ-q-r). Hannah sings a reversal (the barren bears, the mother of many languishes);
+    the Quran lists God''s free choices without reversal: daughters, sons, both, or none.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:5
+      lang: he
+      text: שְׂבֵעִ֤ים בַּלֶּ֨חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה
+        וְרַבַּ֥ת בָּנִ֖ים אֻמְלָֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 42:50
+      lang: ar
+      text: أَوْ يُزَوِّجُهُمْ ذُكْرَانًا وَإِنَٰثًا وَيَجْعَلُ مَن يَشَآءُ عَقِيمًا إِنَّهُۥ عَلِيمٌ
+        قَدِيرٌ
 ---
 
 ## Questions

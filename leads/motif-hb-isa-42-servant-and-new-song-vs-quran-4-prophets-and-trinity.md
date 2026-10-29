@@ -2,8 +2,7 @@
 id: motif-hb-isa-42-servant-and-new-song-vs-quran-4-prophets-and-trinity
 title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
   blind servant ↔ The chain of revelation; Jesus, word and spirit; 'say not three'
-summary: 'These two units share 1 motifs: first servant song: god''s chosen servant with his spirit brings
-  justice to the nations without crying out; a bruised reed he will not break.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - servant-song-gentle-servant
-passages:
-- tradition: judaism
-  ref: Isa 42:1-4
-  note: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
-    crying out; a bruised reed he will not break'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (42:1) הֵ֤ן עַבְדִּי֙ אֶתְמָךְ בּ֔וֹ בְּחִירִ֖י רָצְתָ֣ה נַפְשִׁ֑י נָתַ֤תִּי רוּחִי֙ עָלָ֔יו מִשְׁפָּ֖ט
-    לַגּוֹיִ֥ם יוֹצִֽיא (42:2) לֹ֥א יִצְעַ֖ק וְלֹ֣א יִשָּׂ֑א וְלֹֽא יַשְׁמִ֥יעַ בַּח֖וּץ קוֹלֽוֹ (42:3)
-    קָנֶ֤ה רָצוּץ֙ לֹ֣א יִשְׁבּ֔וֹר וּפִשְׁתָּ֥ה כֵהָ֖ה לֹ֣א יְכַבֶּ֑נָּה לֶאֱמֶ֖ת יוֹצִ֥יא מִשְׁפָּֽט
-    (42:4) לֹ֤א יִכְהֶה֙ וְלֹ֣א יָר֔וּץ עַד יָשִׂ֥ים בָּאָ֖רֶץ מִשְׁפָּ֑ט וּלְתוֹרָת֖וֹ אִיִּ֥ים יְיַחֵֽילוּ
-- tradition: judaism
-  ref: Isa 42:1
-  note: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
-    crying out; a bruised reed he will not break'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤ן עַבְדִּי֙ אֶתְמָךְ בּ֔וֹ בְּחִירִ֖י רָצְתָ֣ה נַפְשִׁ֑י נָתַ֤תִּי רוּחִי֙ עָלָ֔יו מִשְׁפָּ֖ט
-    לַגּוֹיִ֥ם יוֹצִֽיא
-- tradition: islam
-  ref: Quran 4:171
-  note: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
-    crying out; a bruised reed he will not break (Isa: hēn ʿavdî ʾetmākh-bô ... nātattî rûḥî ʿālāyw (servant
-    and spirit). Q: lan yastankifa l-masīḥu an yakūna ʿabdan li-llāhi, and Jesus as rūḥun minhu. Q calls
-    the Messiah God''s servant (''abd) who has a spirit from God, against deification.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
-    إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
-    وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ
-    إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ
-    وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
-- tradition: islam
-  ref: Quran 4:172
-  note: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
-    crying out; a bruised reed he will not break (Isa: hēn ʿavdî ʾetmākh-bô ... nātattî rûḥî ʿālāyw (servant
-    and spirit). Q: lan yastankifa l-masīḥu an yakūna ʿabdan li-llāhi, and Jesus as rūḥun minhu. Q calls
-    the Messiah God''s servant (''abd) who has a spirit from God, against deification.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ
-    وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Isa: hēn ʿavdî ʾetmākh-bô ... nātattî rûḥî ʿālāyw (servant and spirit). Q: lan yastankifa l-masīḥu
-    an yakūna ʿabdan li-llāhi, and Jesus as rūḥun minhu. Q calls the Messiah God''s servant (''abd) who
-    has a spirit from God, against deification.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First servant song: God''s chosen servant with his spirit brings
     justice to the nations without crying out; a bruised reed he will not break (weight 6.7). Pair score
@@ -98,6 +53,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
+  crying out; a bruised reed he will not break'
+kinds:
+- echo
+units:
+- id: hb-isa-42-servant-and-new-song
+  title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
+    blind servant
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'First servant song: God''s chosen servant with his spirit brings justice to the nations without
+    crying out; a bruised reed he will not break'
+  note: 'Isa: hēn ʿavdî ʾetmākh-bô ... nātattî rûḥî ʿālāyw (servant and spirit). Q: lan yastankifa l-masīḥu
+    an yakūna ʿabdan li-llāhi, and Jesus as rūḥun minhu. Q calls the Messiah God''s servant (''abd) who
+    has a spirit from God, against deification.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 42:1
+      lang: he
+      text: הֵ֤ן עַבְדִּי֙ אֶתְמָךְ בּ֔וֹ בְּחִירִ֖י רָצְתָ֣ה נַפְשִׁ֑י נָתַ֤תִּי רוּחִי֙ עָלָ֔יו מִשְׁפָּ֖ט
+        לַגּוֹיִ֥ם יוֹצִֽיא
+  - tradition: islam
+    passages:
+    - ref: Quran 4:171
+      lang: ar
+      text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
+        إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
+        وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا
+        لَّكُمْ إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى
+        ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
+    - ref: Quran 4:172
+      lang: ar
+      text: لَّن يَسْتَنكِفَ ٱلْمَسِيحُ أَن يَكُونَ عَبْدًا لِّلَّهِ وَلَا ٱلْمَلَٰٓئِكَةُ ٱلْمُقَرَّبُونَ
+        وَمَن يَسْتَنكِفْ عَنْ عِبَادَتِهِۦ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ إِلَيْهِ جَمِيعًا
 ---
 
 ## Questions

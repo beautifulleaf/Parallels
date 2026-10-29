@@ -2,9 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-16-abrogation-food-abraham-sabbath
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Abrogation,
   the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 2 motifs: making some of god''s provision unlawful and some lawful on
-  your own authority is condemned, god sets a seal on the unbelievers'' hearts and hearing and a covering
-  over their eyes.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,40 +16,7 @@ layers:
 motifs:
 - self-made-food-prohibitions-condemned
 - god-seals-hearts-ears-eyes
-passages:
-- tradition: judaism
-  ref: Isa 29:13
-  note: 'Making some of God''s provision unlawful and some lawful on your own authority is condemned (Religious
-    rules made by men in place of God''s: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu adhina lakum
-    am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
-    וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
-- tradition: islam
-  ref: Quran 16:116
-  note: Making some of God's provision unlawful and some lawful on your own authority is condemned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌ وَهَٰذَا حَرَامٌ لِّتَفْتَرُوا۟
-    عَلَى ٱللَّهِ ٱلْكَذِبَ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
-- tradition: judaism
-  ref: Isa 29:10
-  note: 'God sets a seal on the unbelievers'' hearts and hearing and a covering over their eyes (Isa 29:10
-    kî nāsak ʿălêkem YHWH rûaḥ tardēmâ wa-yĕʿaṣṣēm ʾet ʿênêkem ... kissâ: God pours a spirit of stupor,
-    shuts their eyes and covers the seers; Q 2:7 ʿalā abṣārihim ghishāwatun ''over their eyes a covering''
-    set by God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי נָסַ֨ךְ עֲלֵיכֶ֤ם יְהוָה֙ ר֣וּחַ תַּרְדֵּמָ֔ה וַיְעַצֵּ֖ם אֶת עֵֽינֵיכֶ֑ם אֶת הַנְּבִיאִ֛ים
-    וְאֶת רָאשֵׁיכֶ֥ם הַחֹזִ֖ים כִּסָּֽה
-- tradition: islam
-  ref: Quran 16:108
-  note: God sets a seal on the unbelievers' hearts and hearing and a covering over their eyes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَٰرِهِمْ وَأُو۟لَٰٓئِكَ
-    هُمُ ٱلْغَٰفِلُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Making some of God''s provision unlawful and some lawful on your
     own authority is condemned (weight 6.3); God sets a seal on the unbelievers'' hearts and hearing and
@@ -92,6 +57,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Making some of God's provision unlawful and some lawful on your own authority is condemned
+kinds:
+- shared
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: shared
+  label: Making some of God's provision unlawful and some lawful on your own authority is condemned
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:13
+      lang: he
+      text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
+        וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
+    note: 'Religious rules made by men in place of God''s: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu
+      adhina lakum am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh.'
+  - tradition: islam
+    passages:
+    - ref: Quran 16:116
+      lang: ar
+      text: وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلْسِنَتُكُمُ ٱلْكَذِبَ هَٰذَا حَلَٰلٌ وَهَٰذَا حَرَامٌ لِّتَفْتَرُوا۟
+        عَلَى ٱللَّهِ ٱلْكَذِبَ إِنَّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ لَا يُفْلِحُونَ
+- kind: shared
+  label: God sets a seal on the unbelievers' hearts and hearing and a covering over their eyes
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:10
+      lang: he
+      text: כִּֽי נָסַ֨ךְ עֲלֵיכֶ֤ם יְהוָה֙ ר֣וּחַ תַּרְדֵּמָ֔ה וַיְעַצֵּ֖ם אֶת עֵֽינֵיכֶ֑ם אֶת הַנְּבִיאִ֛ים
+        וְאֶת רָאשֵׁיכֶ֥ם הַחֹזִ֖ים כִּסָּֽה
+    note: 'Isa 29:10 kî nāsak ʿălêkem YHWH rûaḥ tardēmâ wa-yĕʿaṣṣēm ʾet ʿênêkem ... kissâ: God pours a
+      spirit of stupor, shuts their eyes and covers the seers; Q 2:7 ʿalā abṣārihim ghishāwatun ''over
+      their eyes a covering'' set by God.'
+  - tradition: islam
+    passages:
+    - ref: Quran 16:108
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَسَمْعِهِمْ وَأَبْصَٰرِهِمْ وَأُو۟لَٰٓئِكَ
+        هُمُ ٱلْغَٰفِلُونَ
 ---
 
 ## Questions

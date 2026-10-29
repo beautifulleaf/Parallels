@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-28-jacobs-ladder-vs-quran-6-prophet-consoled-signs
 title: Jacob's dream at Bethel ↔ The Prophet consoled; a ladder to the sky; animals as communities
-summary: 'These two units share 1 motifs: a ladder (sullam / sullām) reaching from earth to heaven.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - ladder-to-heaven-sullam
-passages:
-- tradition: judaism
-  ref: Gen 28:12
-  note: 'A ladder (sullam / sullām) reaching from earth to heaven (The same word for a ladder to heaven:
-    Q sullam = Heb sullām (hapax in HB). Gen: sullām muṣṣāv ʾarṣāh wə-rōʾšô maggîaʿ haš-šāmāymāh. Q: fa-ini
-    staṭaʿta an tabtaghiya nafaqan fī l-arḍi aw sullaman fī l-samāʾi fa-taʾtiyahum bi-āyatin. The ladder
-    is a hypothetical, impossible way to fetch a sign; in Gen angels go up and down it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
-    מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
-- tradition: islam
-  ref: Quran 6:35
-  note: 'A ladder (sullam / sullām) reaching from earth to heaven (The same word for a ladder to heaven:
-    Q sullam = Heb sullām (hapax in HB). Gen: sullām muṣṣāv ʾarṣāh wə-rōʾšô maggîaʿ haš-šāmāymāh. Q: fa-ini
-    staṭaʿta an tabtaghiya nafaqan fī l-arḍi aw sullaman fī l-samāʾi fa-taʾtiyahum bi-āyatin. The ladder
-    is a hypothetical, impossible way to fetch a sign; in Gen angels go up and down it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ
-    أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ
-    فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The same word for a ladder to heaven: Q sullam = Heb sullām (hapax in HB). Gen: sullām muṣṣāv
-    ʾarṣāh wə-rōʾšô maggîaʿ haš-šāmāymāh. Q: fa-ini staṭaʿta an tabtaghiya nafaqan fī l-arḍi aw sullaman
-    fī l-samāʾi fa-taʾtiyahum bi-āyatin. The ladder is a hypothetical, impossible way to fetch a sign;
-    in Gen angels go up and down it.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ladder (sullam / sullām) reaching from earth to heaven (weight
     6.7). Pair score 6.7.'
@@ -73,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A ladder (sullam / sullām) reaching from earth to heaven
+kinds:
+- echo
+units:
+- id: hb-gen-28-jacobs-ladder
+  title: Jacob's dream at Bethel
+  tradition: judaism
+- id: quran-6-prophet-consoled-signs
+  title: The Prophet consoled; a ladder to the sky; animals as communities
+  tradition: islam
+matches:
+- kind: echo
+  label: A ladder (sullam / sullām) reaching from earth to heaven
+  note: 'The same word for a ladder to heaven: Q sullam = Heb sullām (hapax in HB). Gen: sullām muṣṣāv
+    ʾarṣāh wə-rōʾšô maggîaʿ haš-šāmāymāh. Q: fa-ini staṭaʿta an tabtaghiya nafaqan fī l-arḍi aw sullaman
+    fī l-samāʾi fa-taʾtiyahum bi-āyatin. The ladder is a hypothetical, impossible way to fetch a sign;
+    in Gen angels go up and down it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:12
+      lang: he
+      text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
+        מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:35
+      lang: ar
+      text: وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ
+        أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى
+        ٱلْهُدَىٰ فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-prov-25-hezekiah-collection-vs-quran-41-steadfast-and-repel-evil
 title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies) ↔ Angels descend on the steadfast;
   repel evil with good; signs on the horizons
-summary: 'These two units share 2 motifs: doing good to an enemy, and what it brings [divergence between
-  the texts], repel evil with what is better.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,88 +15,9 @@ layers:
 motifs:
 - doing-good-to-an-enemy-as-divergence
 - repel-evil-with-better
-passages:
-- tradition: judaism
-  ref: Prov 25:21
-  note: 'Doing good to an enemy, and what it brings [divergence between the texts] (Doing good to an enemy:
-    ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh ʿal rōʾšô wa-YHWH yəšallem lāḵ vs.
-    idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm. Changed
-    ending: in Proverbs the kindness heaps coals on the enemy''s head and YHWH repays you; in the Quran
-    it turns the enemy into a warm friend, and the reward is a ''great portion'' (dhū ḥaẓẓin ʿaẓīm) for
-    the patient (ṣabarū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
-- tradition: judaism
-  ref: Prov 25:22
-  note: 'Doing good to an enemy, and what it brings [divergence between the texts] (Doing good to an enemy:
-    ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh ʿal rōʾšô wa-YHWH yəšallem lāḵ vs.
-    idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm. Changed
-    ending: in Proverbs the kindness heaps coals on the enemy''s head and YHWH repays you; in the Quran
-    it turns the enemy into a warm friend, and the reward is a ''great portion'' (dhū ḥaẓẓin ʿaẓīm) for
-    the patient (ṣabarū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
-- tradition: islam
-  ref: Quran 41:34
-  note: 'Doing good to an enemy, and what it brings [divergence between the texts] (Doing good to an enemy:
-    ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh ʿal rōʾšô wa-YHWH yəšallem lāḵ vs.
-    idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm. Changed
-    ending: in Proverbs the kindness heaps coals on the enemy''s head and YHWH repays you; in the Quran
-    it turns the enemy into a warm friend, and the reward is a ''great portion'' (dhū ḥaẓẓin ʿaẓīm) for
-    the patient (ṣabarū).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
-    بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
-- tradition: islam
-  ref: Quran 41:35
-  note: 'Doing good to an enemy, and what it brings [divergence between the texts] (Doing good to an enemy:
-    ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh ʿal rōʾšô wa-YHWH yəšallem lāḵ vs.
-    idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu waliyyun ḥamīm. Changed
-    ending: in Proverbs the kindness heaps coals on the enemy''s head and YHWH repays you; in the Quran
-    it turns the enemy into a warm friend, and the reward is a ''great portion'' (dhū ḥaẓẓin ʿaẓīm) for
-    the patient (ṣabarū).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ
-- tradition: judaism
-  ref: Prov 25:21
-  note: 'Repel evil with what is better (idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû
-    leḥem ... wa-YHWH yəšallem lāk: answering hostility with kindness; Proverbs adds the ''coals of fire''
-    on the enemy''s head and God''s reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
-- tradition: judaism
-  ref: Prov 25:22
-  note: 'Repel evil with what is better (idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû
-    leḥem ... wa-YHWH yəšallem lāk: answering hostility with kindness; Proverbs adds the ''coals of fire''
-    on the enemy''s head and God''s reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
-- tradition: islam
-  ref: Quran 41:34
-  note: Repel evil with what is better
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
-    بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
-- tradition: islam
-  ref: Quran 41:35
-  note: Repel evil with what is better
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Doing good to an enemy: ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh
-    ʿal rōʾšô wa-YHWH yəšallem lāḵ vs. idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun
-    ka-annahu waliyyun ḥamīm. Changed ending: in Proverbs the kindness heaps coals on the enemy''s head
-    and YHWH repays you; in the Quran it turns the enemy into a warm friend, and the reward is a ''great
-    portion'' (dhū ḥaẓẓin ʿaẓīm) for the patient (ṣabarū).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Doing good to an enemy, and what it brings [divergence between the
     texts] (weight 6.7); Repel evil with what is better (weight 5.8). Pair score 12.5.'
@@ -136,6 +56,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Doing good to an enemy, and what it brings
+kinds:
+- divergence
+- shared
+units:
+- id: hb-prov-25-hezekiah-collection
+  title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies)
+  tradition: judaism
+- id: quran-41-steadfast-and-repel-evil
+  title: Angels descend on the steadfast; repel evil with good; signs on the horizons
+  tradition: islam
+matches:
+- kind: divergence
+  label: Doing good to an enemy, and what it brings
+  note: 'Doing good to an enemy: ʾim rāʿēḇ śōnaʾăḵā haʾăḵilēhû leḥem ... kî ḡeḥālîm ʾattâ ḥōṯeh ʿal rōʾšô
+    wa-YHWH yəšallem lāḵ vs. idfaʿ bi-llatī hiya aḥsanu fa-idhā lladhī baynaka wa-baynahu ʿadāwatun ka-annahu
+    waliyyun ḥamīm. Changed ending: in Proverbs the kindness heaps coals on the enemy''s head and YHWH
+    repays you; in the Quran it turns the enemy into a warm friend, and the reward is a ''great portion''
+    (dhū ḥaẓẓin ʿaẓīm) for the patient (ṣabarū).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 25:21
+      lang: he
+      text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
+    - ref: Prov 25:22
+      lang: he
+      text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:34
+      lang: ar
+      text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
+        بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
+    - ref: Quran 41:35
+      lang: ar
+      text: وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ
+- kind: shared
+  label: Repel evil with what is better
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 25:21
+      lang: he
+      text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
+    - ref: Prov 25:22
+      lang: he
+      text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
+    note: 'idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû leḥem ... wa-YHWH yəšallem
+      lāk: answering hostility with kindness; Proverbs adds the ''coals of fire'' on the enemy''s head
+      and God''s reward.'
+  - tradition: islam
+    passages:
+    - ref: Quran 41:34
+      lang: ar
+      text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
+        بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
+    - ref: Quran 41:35
+      lang: ar
+      text: وَمَا يُلَقَّىٰهَآ إِلَّا ٱلَّذِينَ صَبَرُوا۟ وَمَا يُلَقَّىٰهَآ إِلَّا ذُو حَظٍّ عَظِيمٍ
 ---
 
 ## Questions

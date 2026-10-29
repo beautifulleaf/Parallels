@@ -2,8 +2,7 @@
 id: motif-hb-ps-87-zion-birthplace-vs-quran-69-haqqa-books-in-right-and-left-hands
 title: Psalm 87, Zion mother of nations; this one was born there ↔ The book in the right hand and in the
   left, the seventy-cubit chain, ghislin, and the aorta of a forger
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 87:6
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 69:19
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
-- tradition: islam
-  ref: Quran 69:25
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. kitābahu ~ YHWH yispōr bi-ktôv ʿammîm zeh yullad šām: God''s register of persons.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -74,6 +52,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-87-zion-birthplace
+  title: Psalm 87, Zion mother of nations; this one was born there
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'kitābahu ~ YHWH yispōr bi-ktôv ʿammîm zeh yullad šām: God''s register of persons.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 69:19
+      lang: ar
+      text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-1-spies-retold-vs-quran-2-exodus-calf
 title: The spies episode retold ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: the people grumble against their leaders about food or water,
-  god leads the people in a pillar of cloud by day and a pillar of fire by night.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -14,45 +13,12 @@ traditions:
 layers:
 - motif
 motifs:
-- murmuring-in-wilderness
 - pillar-of-cloud-and-fire
-passages:
-- tradition: judaism
-  ref: Deut 1:27
-  note: The people grumble against their leaders about food or water ('because YHWH hated us he brought
-    us out')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּרָגְנ֤וּ בְאָהֳלֵיכֶם֙ וַתֹּ֣אמְר֔וּ בְּשִׂנְאַ֤ת יְהוָה֙ אֹתָ֔נוּ הוֹצִיאָ֖נוּ מֵאֶ֣רֶץ
-    מִצְרָ֑יִם לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַשְׁמִידֵֽנוּ
-- tradition: islam
-  ref: Quran 2:61
-  note: The people grumble against their leaders about food or water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
-    لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ
-    أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا
-    سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ
-    بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ
-    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
-- tradition: judaism
-  ref: Deut 1:33
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַהֹלֵ֨ךְ לִפְנֵיכֶ֜ם בַּדֶּ֗רֶךְ לָת֥וּר לָכֶ֛ם מָק֖וֹם לַֽחֲנֹֽתְכֶ֑ם בָּאֵ֣שׁ לַ֗יְלָה לַרְאֹֽתְכֶם֙
-    בַּדֶּ֨רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ בָ֔הּ וּבֶעָנָ֖ן יוֹמָֽם
-- tradition: islam
-  ref: Quran 2:57
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (shaded with clouds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- murmuring-in-wilderness
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The people grumble against their leaders about food or water (weight
-    5.1); God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1).
+- text: 'Shared motifs, rarest first: God leads the people in a pillar of cloud by day and a pillar of
+    fire by night (weight 5.1); The people grumble against their leaders about food or water (weight 5.1).
     Pair score 10.2.'
   basis: reading
 - text: 'Only in The spies episode retold: Children ''who do not yet know good and evil'' will inherit;
@@ -80,6 +46,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God leads the people in a pillar of cloud by day and a pillar of fire by night
+kinds:
+- shared
+units:
+- id: hb-deut-1-spies-retold
+  title: The spies episode retold
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: shared
+  label: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 1:33
+      lang: he
+      text: הַהֹלֵ֨ךְ לִפְנֵיכֶ֜ם בַּדֶּ֗רֶךְ לָת֥וּר לָכֶ֛ם מָק֖וֹם לַֽחֲנֹֽתְכֶ֑ם בָּאֵ֣שׁ לַ֗יְלָה
+        לַרְאֹֽתְכֶם֙ בַּדֶּ֨רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ בָ֔הּ וּבֶעָנָ֖ן יוֹמָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    note: shaded with clouds
+- kind: shared
+  label: The people grumble against their leaders about food or water
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 1:27
+      lang: he
+      text: וַתֵּרָגְנ֤וּ בְאָהֳלֵיכֶם֙ וַתֹּ֣אמְר֔וּ בְּשִׂנְאַ֤ת יְהוָה֙ אֹתָ֔נוּ הוֹצִיאָ֖נוּ מֵאֶ֣רֶץ
+        מִצְרָ֑יִם לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַשְׁמִידֵֽנוּ
+    note: '''because YHWH hated us he brought us out'''
+  - tradition: islam
+    passages:
+    - ref: Quran 2:61
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+        لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+        قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ
+        لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
+        ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ
+        بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

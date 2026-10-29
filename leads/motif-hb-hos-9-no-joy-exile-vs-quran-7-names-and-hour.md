@@ -2,7 +2,7 @@
 id: motif-hb-hos-9-no-joy-exile-vs-quran-7-names-and-hour
 title: No rejoicing for Israel; exile, the mad prophet, Baal-peor ↔ Made for hell, the beautiful names,
   the unknown Hour
-summary: 'These two units share 1 motifs: the charge that a prophet is mad [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - charge-that-prophet-is-mad-as-response
-passages:
-- tradition: judaism
-  ref: Hos 9:7
-  note: 'The charge that a prophet is mad [response between the texts] (The charge that the prophet is
-    mad: Hos quotes it (ʾĕwîl hannābîʾ mᵉšuggāʿ ʾîš hārûaḥ); Q rebuts it (mā bi-ṣāḥibihim min jinnatin
-    in huwa illā nadhīrun mubīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣אוּ יְמֵ֣י הַפְּקֻדָּ֗ה בָּ֚אוּ יְמֵ֣י הַשִׁלֻּ֔ם יֵדְע֖וּ יִשְׂרָאֵ֑ל אֱוִ֣יל הַנָּבִ֗יא
-    מְשֻׁגָּע֙ אִ֣ישׁ הָר֔וּחַ עַ֚ל רֹ֣ב עֲוֺנְךָ֔ וְרַבָּ֖ה מַשְׂטֵמָֽה
-- tradition: islam
-  ref: Quran 7:184
-  note: 'The charge that a prophet is mad [response between the texts] (The charge that the prophet is
-    mad: Hos quotes it (ʾĕwîl hannābîʾ mᵉšuggāʿ ʾîš hārûaḥ); Q rebuts it (mā bi-ṣāḥibihim min jinnatin
-    in huwa illā nadhīrun mubīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    response. The charge that the prophet is mad: Hos quotes it (ʾĕwîl hannābîʾ mᵉšuggāʿ ʾîš hārûaḥ);
-    Q rebuts it (mā bi-ṣāḥibihim min jinnatin in huwa illā nadhīrun mubīn).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The charge that a prophet is mad [response between the texts] (weight
     6.7). Pair score 6.7.'
@@ -67,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The charge that a prophet is mad
+kinds:
+- response
+units:
+- id: hb-hos-9-no-joy-exile
+  title: No rejoicing for Israel; exile, the mad prophet, Baal-peor
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: response
+  label: The charge that a prophet is mad
+  note: 'The charge that the prophet is mad: Hos quotes it (ʾĕwîl hannābîʾ mᵉšuggāʿ ʾîš hārûaḥ); Q rebuts
+    it (mā bi-ṣāḥibihim min jinnatin in huwa illā nadhīrun mubīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 9:7
+      lang: he
+      text: בָּ֣אוּ יְמֵ֣י הַפְּקֻדָּ֗ה בָּ֚אוּ יְמֵ֣י הַשִׁלֻּ֔ם יֵדְע֖וּ יִשְׂרָאֵ֑ל אֱוִ֣יל הַנָּבִ֗יא
+        מְשֻׁגָּע֙ אִ֣ישׁ הָר֔וּחַ עַ֚ל רֹ֣ב עֲוֺנְךָ֔ וְרַבָּ֖ה מַשְׂטֵמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:184
+      lang: ar
+      text: أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ
 ---
 
 ## Questions

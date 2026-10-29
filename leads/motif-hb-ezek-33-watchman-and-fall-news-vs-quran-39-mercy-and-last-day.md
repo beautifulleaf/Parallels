@@ -2,8 +2,7 @@
 id: motif-hb-ezek-33-watchman-and-fall-news-vs-quran-39-mercy-and-last-day
 title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer ↔
   Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
-summary: 'These two units share 1 motifs: ''o my servants who have transgressed against themselves, do
-  not despair of god''s mercy; god forgives all sins''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,52 +15,9 @@ layers:
 - motif
 motifs:
 - do-not-despair-god-forgives-all-sins
-passages:
-- tradition: judaism
-  ref: Ezek 33:10
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'' (Answer to despair over sin. Ezek: kî-p̄əšāʿênû wə-ḥaṭṭōʾṯênû ʿālênû û-ḇām ʾănaḥnû
-    nəmaqqîm wə-ʾêḵ niḥyeh ... ʾim-ʾeḥpōṣ bə-môṯ hā-rāšāʿ kî ʾim-bə-šûḇ rāšāʿ mi-ddarkô wə-ḥāyâ šûḇû šûḇû.
-    Q: yā-ʿibādiya lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati llāhi inna llāha yaghfiru dh-dhunūba
-    jamīʿan ... wa-anībū ilā rabbikum. Do not give up; turn back (šûḇ / anāba).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֣ה בֶן אָדָ֗ם אֱמֹר֙ אֶל בֵּ֣ית יִשְׂרָאֵ֔ל כֵּ֤ן אֲמַרְתֶּם֙ לֵאמֹ֔ר כִּֽי פְשָׁעֵ֥ינוּ
-    וְחַטֹּאתֵ֖ינוּ עָלֵ֑ינוּ וּבָ֛ם אֲנַ֥חְנוּ נְמַקִּ֖ים וְאֵ֥יךְ נִֽחְיֶֽה
-- tradition: judaism
-  ref: Ezek 33:11
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'' (Answer to despair over sin. Ezek: kî-p̄əšāʿênû wə-ḥaṭṭōʾṯênû ʿālênû û-ḇām ʾănaḥnû
-    nəmaqqîm wə-ʾêḵ niḥyeh ... ʾim-ʾeḥpōṣ bə-môṯ hā-rāšāʿ kî ʾim-bə-šûḇ rāšāʿ mi-ddarkô wə-ḥāyâ šûḇû šûḇû.
-    Q: yā-ʿibādiya lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati llāhi inna llāha yaghfiru dh-dhunūba
-    jamīʿan ... wa-anībū ilā rabbikum. Do not give up; turn back (šûḇ / anāba).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱמֹ֨ר אֲלֵיהֶ֜ם חַי אָ֣נִי נְאֻ֣ם אֲדֹנָ֣י יְהוִ֗ה אִם אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י אִם
-    בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה תָמ֖וּתוּ
-    בֵּ֥ית יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 39:53
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ
-    إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 39:54
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ
-    لَا تُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. Answer to despair over sin. Ezek: kî-p̄əšāʿênû wə-ḥaṭṭōʾṯênû ʿālênû û-ḇām ʾănaḥnû nəmaqqîm
-    wə-ʾêḵ niḥyeh ... ʾim-ʾeḥpōṣ bə-môṯ hā-rāšāʿ kî ʾim-bə-šûḇ rāšāʿ mi-ddarkô wə-ḥāyâ šûḇû šûḇû. Q: yā-ʿibādiya
-    lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati llāhi inna llāha yaghfiru dh-dhunūba jamīʿan
-    ... wa-anībū ilā rabbikum. Do not give up; turn back (šûḇ / anāba).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''O my servants who have transgressed against themselves, do not
     despair of God''s mercy; God forgives all sins'' (weight 6.3). Pair score 6.3.'
@@ -103,6 +59,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
+  forgives all sins'''
+kinds:
+- parallel
+units:
+- id: hb-ezek-33-watchman-and-fall-news
+  title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
+    forgives all sins'''
+  note: 'Answer to despair over sin. Ezek: kî-p̄əšāʿênû wə-ḥaṭṭōʾṯênû ʿālênû û-ḇām ʾănaḥnû nəmaqqîm wə-ʾêḵ
+    niḥyeh ... ʾim-ʾeḥpōṣ bə-môṯ hā-rāšāʿ kî ʾim-bə-šûḇ rāšāʿ mi-ddarkô wə-ḥāyâ šûḇû šûḇû. Q: yā-ʿibādiya
+    lladhīna asrafū ʿalā anfusihim lā taqnaṭū min raḥmati llāhi inna llāha yaghfiru dh-dhunūba jamīʿan
+    ... wa-anībū ilā rabbikum. Do not give up; turn back (šûḇ / anāba).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 33:10
+      lang: he
+      text: וְאַתָּ֣ה בֶן אָדָ֗ם אֱמֹר֙ אֶל בֵּ֣ית יִשְׂרָאֵ֔ל כֵּ֤ן אֲמַרְתֶּם֙ לֵאמֹ֔ר כִּֽי פְשָׁעֵ֥ינוּ
+        וְחַטֹּאתֵ֖ינוּ עָלֵ֑ינוּ וּבָ֛ם אֲנַ֥חְנוּ נְמַקִּ֖ים וְאֵ֥יךְ נִֽחְיֶֽה
+    - ref: Ezek 33:11
+      lang: he
+      text: אֱמֹ֨ר אֲלֵיהֶ֜ם חַי אָ֣נִי נְאֻ֣ם אֲדֹנָ֣י יְהוִ֗ה אִם אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י
+        אִם בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה
+        תָמ֖וּתוּ בֵּ֥ית יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 39:53
+      lang: ar
+      text: قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ
+        ٱللَّهِ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+    - ref: Quran 39:54
+      lang: ar
+      text: وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ
+        ثُمَّ لَا تُنصَرُونَ
 ---
 
 ## Questions

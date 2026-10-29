@@ -3,8 +3,7 @@ id: motif-hb-neh-13-nehemiahs-final-reforms-vs-quran-62-jumua-unlettered-donkey-
 title: 'Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites'' portions, Sabbath
   and mixed marriages ↔ Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing
   for death, and the Friday prayer'
-summary: 'These two units share 2 motifs: trade on the weekly holy day [divergence between the texts],
-  reformer rebukes treading winepresses, loading donkeys and selling fish on the sabbath.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,86 +16,9 @@ layers:
 motifs:
 - trade-on-weekly-holy-day-as-divergence
 - sabbath-labor-and-trade-rebuked
-passages:
-- tradition: judaism
-  ref: Neh 13:15
-  note: 'Trade on the weekly holy day [divergence between the texts] (Trade and the weekly holy day. Nehemiah:
-    dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates
-    are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti
-    min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū
-    fī l-arḍi wa-btaghū min faḍli llāh. Trade stops only for the prayer, and after it the believers are
-    told to go out and seek God''s bounty (trade). A day of rest becomes an hour of assembly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה דֹּֽרְכִֽים גִּתּ֣וֹת בַּשַּׁבָּ֡ת וּמְבִיאִ֣ים הָעֲרֵמ֣וֹת
-    וְֽעֹמְסִ֪ים עַל הַחֲמֹרִ֟ים וְאַף יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל מַשָּׂ֔א וּמְבִיאִ֥ים יְרוּשָׁלִַ֖ם
-    בְּי֣וֹם הַשַּׁבָּ֑ת וָאָעִ֕יד בְּי֖וֹם מִכְרָ֥ם צָֽיִד
-- tradition: judaism
-  ref: Neh 13:16
-  note: 'Trade on the weekly holy day [divergence between the texts] (Trade and the weekly holy day. Nehemiah:
-    dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates
-    are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti
-    min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū
-    fī l-arḍi wa-btaghū min faḍli llāh. Trade stops only for the prayer, and after it the believers are
-    told to go out and seek God''s bounty (trade). A day of rest becomes an hour of assembly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַצֹּרִים֙ יָ֣שְׁבוּ בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י
-    יְהוּדָ֖ה וּבִירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 62:9
-  note: 'Trade on the weekly holy day [divergence between the texts] (Trade and the weekly holy day. Nehemiah:
-    dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates
-    are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti
-    min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū
-    fī l-arḍi wa-btaghū min faḍli llāh. Trade stops only for the prayer, and after it the believers are
-    told to go out and seek God''s bounty (trade). A day of rest becomes an hour of assembly.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
-    إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: islam
-  ref: Quran 62:10
-  note: 'Trade on the weekly holy day [divergence between the texts] (Trade and the weekly holy day. Nehemiah:
-    dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates
-    are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti
-    min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū
-    fī l-arḍi wa-btaghū min faḍli llāh. Trade stops only for the prayer, and after it the believers are
-    told to go out and seek God''s bounty (trade). A day of rest becomes an hour of assembly.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟
-    ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
-- tradition: judaism
-  ref: Neh 13:15-18
-  note: Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath (treading
-    winepresses, loading donkeys; Tyrians selling fish on the Sabbath)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (13:15) בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה דֹּֽרְכִֽים גִּתּ֣וֹת בַּשַּׁבָּ֡ת וּמְבִיאִ֣ים
-    הָעֲרֵמ֣וֹת וְֽעֹמְסִ֪ים עַל הַחֲמֹרִ֟ים וְאַף יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל מַשָּׂ֔א וּמְבִיאִ֥ים
-    יְרוּשָׁלִַ֖ם בְּי֣וֹם הַשַּׁבָּ֑ת וָאָעִ֕יד בְּי֖וֹם מִכְרָ֥ם צָֽיִד (13:16) וְהַצֹּרִים֙ יָ֣שְׁבוּ
-    בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י יְהוּדָ֖ה וּבִירוּשָׁלִָֽם
-    (13:17) וָאָרִ֕יבָה אֵ֖ת חֹרֵ֣י יְהוּדָ֑ה וָאֹמְרָ֣ה לָהֶ֗ם מָֽה הַדָּבָ֨ר הָרָ֤ע הַזֶּה֙ אֲשֶׁ֣ר
-    אַתֶּ֣ם עֹשִׂ֔ים וּֽמְחַלְּלִ֖ים אֶת י֥וֹם הַשַּׁבָּֽת (13:18) הֲל֨וֹא כֹ֤ה עָשׂוּ֙ אֲבֹ֣תֵיכֶ֔ם וַיָּבֵ֨א
-    אֱלֹהֵ֜ינוּ עָלֵ֗ינוּ אֵ֚ת כָּל הָרָעָ֣ה הַזֹּ֔את וְעַ֖ל הָעִ֣יר הַזֹּ֑את וְאַתֶּ֞ם מוֹסִיפִ֤ים חָרוֹן֙
-    עַל יִשְׂרָאֵ֔ל לְחַלֵּ֖ל אֶת הַשַּׁבָּֽת
-- tradition: islam
-  ref: Quran 62:9
-  note: Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath (trade
-    suspended for the weekly assembly, but only during the prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
-    إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Trade and the weekly holy day. Nehemiah: dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ
-    ... mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm
-    ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi
-    wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū fī l-arḍi wa-btaghū min faḍli llāh. Trade stops
-    only for the prayer, and after it the believers are told to go out and seek God''s bounty (trade).
-    A day of rest becomes an hour of assembly.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Trade on the weekly holy day [divergence between the texts] (weight
     6.7); Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath (weight
@@ -137,6 +59,77 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Trade on the weekly holy day
+kinds:
+- divergence
+- shared
+units:
+- id: hb-neh-13-nehemiahs-final-reforms
+  title: Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites' portions, Sabbath
+    and mixed marriages
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Trade on the weekly holy day
+  note: 'Trade and the weekly holy day. Nehemiah: dōrəḵîm gittôṯ baš-šabbāṯ ... û-mōḵərîm baš-šabbāṯ ...
+    mə-ḥalləlîm ʾeṯ yôm haš-šabbāṯ, and the gates are shut from Sabbath eve to its end (wə-lōʾ yip̄tāḥûm
+    ʿaḏ ʾaḥar haš-šabbāṯ). Quran: idhā nūdiya li-ṣ-ṣalāti min yawmi l-jumuʿati fa-sʿaw ilā dhikri llāhi
+    wa-dharū l-bayʿ; fa-idhā quḍiyati ṣ-ṣalātu fa-ntashirū fī l-arḍi wa-btaghū min faḍli llāh. Trade stops
+    only for the prayer, and after it the believers are told to go out and seek God''s bounty (trade).
+    A day of rest becomes an hour of assembly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 13:15
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה דֹּֽרְכִֽים גִּתּ֣וֹת בַּשַּׁבָּ֡ת וּמְבִיאִ֣ים
+        הָעֲרֵמ֣וֹת וְֽעֹמְסִ֪ים עַל הַחֲמֹרִ֟ים וְאַף יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל מַשָּׂ֔א וּמְבִיאִ֥ים
+        יְרוּשָׁלִַ֖ם בְּי֣וֹם הַשַּׁבָּ֑ת וָאָעִ֕יד בְּי֖וֹם מִכְרָ֥ם צָֽיִד
+    - ref: Neh 13:16
+      lang: he
+      text: וְהַצֹּרִים֙ יָ֣שְׁבוּ בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י
+        יְהוּדָ֖ה וּבִירוּשָׁלִָֽם
+    - ref: Neh 13:17
+      lang: he
+      text: וָאָרִ֕יבָה אֵ֖ת חֹרֵ֣י יְהוּדָ֑ה וָאֹמְרָ֣ה לָהֶ֗ם מָֽה הַדָּבָ֨ר הָרָ֤ע הַזֶּה֙ אֲשֶׁ֣ר
+        אַתֶּ֣ם עֹשִׂ֔ים וּֽמְחַלְּלִ֖ים אֶת י֥וֹם הַשַּׁבָּֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 62:9
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
+        إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+    - ref: Quran 62:10
+      lang: ar
+      text: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟
+        ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
+- kind: shared
+  label: Reformer rebukes treading winepresses, loading donkeys and selling fish on the Sabbath
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 13:15-18
+      lang: he
+      text: (13:15) בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה דֹּֽרְכִֽים גִּתּ֣וֹת בַּשַּׁבָּ֡ת וּמְבִיאִ֣ים
+        הָעֲרֵמ֣וֹת וְֽעֹמְסִ֪ים עַל הַחֲמֹרִ֟ים וְאַף יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל מַשָּׂ֔א וּמְבִיאִ֥ים
+        יְרוּשָׁלִַ֖ם בְּי֣וֹם הַשַּׁבָּ֑ת וָאָעִ֕יד בְּי֖וֹם מִכְרָ֥ם צָֽיִד (13:16) וְהַצֹּרִים֙ יָ֣שְׁבוּ
+        בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י יְהוּדָ֖ה וּבִירוּשָׁלִָֽם
+        (13:17) וָאָרִ֕יבָה אֵ֖ת חֹרֵ֣י יְהוּדָ֑ה וָאֹמְרָ֣ה לָהֶ֗ם מָֽה הַדָּבָ֨ר הָרָ֤ע הַזֶּה֙ אֲשֶׁ֣ר
+        אַתֶּ֣ם עֹשִׂ֔ים וּֽמְחַלְּלִ֖ים אֶת י֥וֹם הַשַּׁבָּֽת (13:18) הֲל֨וֹא כֹ֤ה עָשׂוּ֙ אֲבֹ֣תֵיכֶ֔ם
+        וַיָּבֵ֨א אֱלֹהֵ֜ינוּ עָלֵ֗ינוּ אֵ֚ת כָּל הָרָעָ֣ה הַזֹּ֔את וְעַ֖ל הָעִ֣יר הַזֹּ֑את וְאַתֶּ֞ם
+        מוֹסִיפִ֤ים חָרוֹן֙ עַל יִשְׂרָאֵ֔ל לְחַלֵּ֖ל אֶת הַשַּׁבָּֽת
+    note: treading winepresses, loading donkeys; Tyrians selling fish on the Sabbath
+  - tradition: islam
+    passages:
+    - ref: Quran 62:9
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
+        إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+    note: trade suspended for the weekly assembly, but only during the prayer
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-10-ingratitude-sea
 title: Jonah flees to Tarshish and is thrown into the sea ↔ Prayer in distress, a changed Quran, the storm
   at sea
-summary: 'These two units share 1 motifs: sailors in a storm pray and vow to god [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,57 +14,9 @@ layers:
 - motif
 motifs:
 - sailors-pray-and-vow-in-storm-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 1:5
-  note: 'Sailors in a storm pray and vow to God [divergence between the texts] (Sailors in a storm pray
-    and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw
-    ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors fear YHWH, sacrifice and
-    keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors transgress once saved.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים אֲשֶׁ֤ר
-    בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב
-    וַיֵּרָדַֽם
-- tradition: judaism
-  ref: Jonah 1:14
-  note: 'Sailors in a storm pray and vow to God [divergence between the texts] (Sailors in a storm pray
-    and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw
-    ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors fear YHWH, sacrifice and
-    keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors transgress once saved.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
-    הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
-- tradition: islam
-  ref: Quran 10:22
-  note: 'Sailors in a storm pray and vow to God [divergence between the texts] (Sailors in a storm pray
-    and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw
-    ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors fear YHWH, sacrifice and
-    keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors transgress once saved.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ
-    بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن كُلِّ
-    مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ لَئِنْ أَنجَيْتَنَا
-    مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
-- tradition: islam
-  ref: Quran 10:23
-  note: 'Sailors in a storm pray and vow to God [divergence between the texts] (Sailors in a storm pray
-    and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw
-    ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors fear YHWH, sacrifice and
-    keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors transgress once saved.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ
-    إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ
-    فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Sailors in a storm pray and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn
-    vs wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors
-    fear YHWH, sacrifice and keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors
-    transgress once saved.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sailors in a storm pray and vow to God [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -102,6 +53,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sailors in a storm pray and vow to God
+kinds:
+- divergence
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-10-ingratitude-sea
+  title: Prayer in distress, a changed Quran, the storm at sea
+  tradition: islam
+matches:
+- kind: divergence
+  label: Sailors in a storm pray and vow to God
+  note: 'Sailors in a storm pray and vow: la-in anjaytanā min hādhihi la-nakūnanna mina sh-shākirīn vs
+    wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw ... wayyiqrᵉʾû ʾel-YHWH. The outcome is opposite: Jonah''s pagan sailors
+    fear YHWH, sacrifice and keep their vows (wayyizbᵉḥû-zebaḥ laYHWH wayyiddᵉrû nᵉdārîm); Q''s sailors
+    transgress once saved.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:5
+      lang: he
+      text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים
+        אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה
+        וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם
+    - ref: Jonah 1:14
+      lang: he
+      text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
+        הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
+    - ref: Jonah 1:16
+      lang: he
+      text: וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת יְהוָ֑ה וַיִּֽזְבְּחוּ זֶ֨בַח֙ לַֽיהוָ֔ה
+        וַֽיִּדְּר֖וּ נְדָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 10:22
+      lang: ar
+      text: هُوَ ٱلَّذِى يُسَيِّرُكُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ حَتَّىٰٓ إِذَا كُنتُمْ فِى ٱلْفُلْكِ وَجَرَيْنَ
+        بِهِم بِرِيحٍ طَيِّبَةٍ وَفَرِحُوا۟ بِهَا جَآءَتْهَا رِيحٌ عَاصِفٌ وَجَآءَهُمُ ٱلْمَوْجُ مِن
+        كُلِّ مَكَانٍ وَظَنُّوٓا۟ أَنَّهُمْ أُحِيطَ بِهِمْ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ
+        لَئِنْ أَنجَيْتَنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+    - ref: Quran 10:23
+      lang: ar
+      text: فَلَمَّآ أَنجَىٰهُمْ إِذَا هُمْ يَبْغُونَ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ يَٰٓأَيُّهَا ٱلنَّاسُ
+        إِنَّمَا بَغْيُكُمْ عَلَىٰٓ أَنفُسِكُم مَّتَٰعَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ثُمَّ إِلَيْنَا مَرْجِعُكُمْ
+        فَنُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-2-food-piety
 title: A new exodus from the north; fishers and hunters ↔ Lawful food and true piety
-summary: 'These two units share 1 motifs: appeal to the religion of the fathers [contrast between the
-  texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - appeal-to-ancestral-religion-as-contrast
-passages:
-- tradition: judaism
-  ref: Jer 16:19
-  note: 'Appeal to the religion of the fathers [contrast between the texts] (Jer 16:19 ʾēlêkā gôyim yābōʾû
-    mē-ʾapsê ʾāreṣ wĕ-yōʾmĕrû ʾak šeqer nāḥălû ʾăbôtênû hebel: the nations come and renounce their fathers''
-    heritage; Q 2:170 qālū bal nattabiʿu mā alfaynā ʿalayhi ābāʾanā: the hearers cling to their fathers''
-    way. Same appeal to ancestors, opposite answer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
-    אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
-- tradition: islam
-  ref: Quran 2:170
-  note: 'Appeal to the religion of the fathers [contrast between the texts] (Jer 16:19 ʾēlêkā gôyim yābōʾû
-    mē-ʾapsê ʾāreṣ wĕ-yōʾmĕrû ʾak šeqer nāḥălû ʾăbôtênû hebel: the nations come and renounce their fathers''
-    heritage; Q 2:170 qālū bal nattabiʿu mā alfaynā ʿalayhi ābāʾanā: the hearers cling to their fathers''
-    way. Same appeal to ancestors, opposite answer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا
-    عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Jer 16:19 ʾēlêkā gôyim yābōʾû mē-ʾapsê ʾāreṣ wĕ-yōʾmĕrû ʾak šeqer nāḥălû ʾăbôtênû hebel:
-    the nations come and renounce their fathers'' heritage; Q 2:170 qālū bal nattabiʿu mā alfaynā ʿalayhi
-    ābāʾanā: the hearers cling to their fathers'' way. Same appeal to ancestors, opposite answer.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Appeal to the religion of the fathers [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Appeal to the religion of the fathers
+kinds:
+- contrast
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: contrast
+  label: Appeal to the religion of the fathers
+  note: 'Jer 16:19 ʾēlêkā gôyim yābōʾû mē-ʾapsê ʾāreṣ wĕ-yōʾmĕrû ʾak šeqer nāḥălû ʾăbôtênû hebel: the
+    nations come and renounce their fathers'' heritage; Q 2:170 qālū bal nattabiʿu mā alfaynā ʿalayhi
+    ābāʾanā: the hearers cling to their fathers'' way. Same appeal to ancestors, opposite answer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:19
+      lang: he
+      text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
+        אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:170
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَآ أَلْفَيْنَا
+        عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْقِلُونَ شَيْـًٔا وَلَا يَهْتَدُونَ
 ---
 
 ## Questions

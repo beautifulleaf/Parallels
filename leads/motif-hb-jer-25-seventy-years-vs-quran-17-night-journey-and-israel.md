@@ -2,8 +2,7 @@
 id: motif-hb-jer-25-seventy-years-vs-quran-17-night-journey-and-israel
 title: Twenty-three years of warning; seventy years of servitude ↔ The Night Journey and the two corruptions
   of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 1 motifs: god sends against israel servants of his of great might who
-  range through their homes.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - god-sends-foreign-army-as-punishment
-passages:
-- tradition: judaism
-  ref: Jer 25:9
-  note: 'God sends against Israel servants of his of great might who range through their homes (wəʾel-nəbûkadreʾṣṣar
-    melek-bābel ʿabdî wahăbiʾōtîm ʿal-hāʾāreṣ hazzōʾt; baʿathnā ʿalaykum ʿibādan lanā ulī baʾsin shadīd:
-    the conqueror is God''s own servant (ʿabdî / ʿibādan lanā), sent to punish Israel. Jer names Nebuchadnezzar;
-    Q names no one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנְנִ֣י שֹׁלֵ֡חַ וְלָקַחְתִּי֩ אֶת כָּל מִשְׁפְּח֨וֹת צָפ֜וֹן נְאֻם יְהוָ֗ה וְאֶל נְבֽוּכַדְרֶאצַּ֣ר
-    מֶֽלֶךְ בָּבֶל֮ עַבְדִּי֒ וַהֲבִ֨אֹתִ֜ים עַל הָאָ֤רֶץ הַזֹּאת֙ וְעַל יֹ֣שְׁבֶ֔יהָ וְעַ֛ל כָּל הַגּוֹיִ֥ם
-    הָאֵ֖לֶּה סָבִ֑יב וְהַ֣חֲרַמְתִּ֔ים וְשַׂמְתִּים֙ לְשַׁמָּ֣ה וְלִשְׁרֵקָ֔ה וּלְחָרְב֖וֹת עוֹלָֽם
-- tradition: islam
-  ref: Quran 17:5
-  note: God sends against Israel servants of his of great might who range through their homes (ʿibādan
-    lanā ulī baʾsin shadīd, who ranged through the homes)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
-    فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
-- tradition: islam
-  ref: Quran 17:4
-  note: God sends against Israel servants of his of great might who range through their homes (ʿibādan
-    lanā ulī baʾsin shadīd, who ranged through the homes)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَٰبِ لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ
-    وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wəʾel-nəbûkadreʾṣṣar melek-bābel ʿabdî wahăbiʾōtîm ʿal-hāʾāreṣ hazzōʾt; baʿathnā ʿalaykum
-    ʿibādan lanā ulī baʾsin shadīd: the conqueror is God''s own servant (ʿabdî / ʿibādan lanā), sent to
-    punish Israel. Jer names Nebuchadnezzar; Q names no one.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends against Israel servants of his of great might who range
     through their homes (weight 6.7). Pair score 6.7.'
@@ -81,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends against Israel servants of his of great might who range through their homes
+kinds:
+- parallel
+units:
+- id: hb-jer-25-seventy-years
+  title: Twenty-three years of warning; seventy years of servitude
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends against Israel servants of his of great might who range through their homes
+  note: 'wəʾel-nəbûkadreʾṣṣar melek-bābel ʿabdî wahăbiʾōtîm ʿal-hāʾāreṣ hazzōʾt; baʿathnā ʿalaykum ʿibādan
+    lanā ulī baʾsin shadīd: the conqueror is God''s own servant (ʿabdî / ʿibādan lanā), sent to punish
+    Israel. Jer names Nebuchadnezzar; Q names no one.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 25:9
+      lang: he
+      text: הִנְנִ֣י שֹׁלֵ֡חַ וְלָקַחְתִּי֩ אֶת כָּל מִשְׁפְּח֨וֹת צָפ֜וֹן נְאֻם יְהוָ֗ה וְאֶל נְבֽוּכַדְרֶאצַּ֣ר
+        מֶֽלֶךְ בָּבֶל֮ עַבְדִּי֒ וַהֲבִ֨אֹתִ֜ים עַל הָאָ֤רֶץ הַזֹּאת֙ וְעַל יֹ֣שְׁבֶ֔יהָ וְעַ֛ל כָּל
+        הַגּוֹיִ֥ם הָאֵ֖לֶּה סָבִ֑יב וְהַ֣חֲרַמְתִּ֔ים וְשַׂמְתִּים֙ לְשַׁמָּ֣ה וְלִשְׁרֵקָ֔ה וּלְחָרְב֖וֹת
+        עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:4
+      lang: ar
+      text: وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ فِى ٱلْكِتَٰبِ لَتُفْسِدُنَّ فِى ٱلْأَرْضِ مَرَّتَيْنِ
+        وَلَتَعْلُنَّ عُلُوًّا كَبِيرًا
+    - ref: Quran 17:5
+      lang: ar
+      text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
+        فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
 ---
 
 ## Questions

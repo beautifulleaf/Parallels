@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-115-not-to-us-vs-quran-7-names-and-hour
 title: Psalm 115, not to us, polemic against idols ↔ Made for hell, the beautiful names, the unknown Hour
-summary: 'These two units share 1 motifs: having eyes that do not see and ears that do not hear, said
-  of idols or of people [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - eyes-and-ears-that-do-not-perceive-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 115:5
-  note: Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts] (The same formula, said of idols in Ps (ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem
-    wᵉlōʾ yišmāʿû) and of humans and jinn in Q (lahum aʿyunun lā yubṣirūna bihā ...).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: judaism
-  ref: Ps 115:6
-  note: Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts] (The same formula, said of idols in Ps (ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem
-    wᵉlōʾ yišmāʿû) and of humans and jinn in Q (lahum aʿyunun lā yubṣirūna bihā ...).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
-- tradition: islam
-  ref: Quran 7:179
-  note: Having eyes that do not see and ears that do not hear, said of idols or of people [divergence
-    between the texts] (The same formula, said of idols in Ps (ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem
-    wᵉlōʾ yišmāʿû) and of humans and jinn in Q (lahum aʿyunun lā yubṣirūna bihā ...).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
-    بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
-    كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. The same formula, said of idols in Ps (ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ
-    yišmāʿû) and of humans and jinn in Q (lahum aʿyunun lā yubṣirūna bihā ...).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Having eyes that do not see and ears that do not hear, said of idols
     or of people [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -77,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Having eyes that do not see and ears that do not hear, said of idols or of people
+kinds:
+- divergence
+units:
+- id: hb-ps-115-not-to-us
+  title: Psalm 115, not to us, polemic against idols
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: divergence
+  label: Having eyes that do not see and ears that do not hear, said of idols or of people
+  note: The same formula, said of idols in Ps (ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû)
+    and of humans and jinn in Q (lahum aʿyunun lā yubṣirūna bihā ...).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:5
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 115:6
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 7:179
+      lang: ar
+      text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
+        بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
+        كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
 ---
 
 ## Questions

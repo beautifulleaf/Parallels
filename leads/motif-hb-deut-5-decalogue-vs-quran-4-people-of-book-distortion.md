@@ -2,8 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-4-people-of-book-distortion
 title: The Decalogue restated and the people's fear at Horeb ↔ Shifted words, 'we hear and disobey', and
   the people of the Sabbath
-summary: 'These two units share 1 motifs: the people answer as one: all that yhwh has spoken we will do
-  [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - people-accept-covenant-we-will-do-as-response
-passages:
-- tradition: judaism
-  ref: Deut 5:27
-  note: 'The people answer as one: all that YHWH has spoken we will do [response between the texts] (Q
-    samiʿnā wa-ʿaṣaynā (''we hear and we disobey'') against the people''s pledge at Horeb wə-šāmaʿnû wə-ʿāśînû
-    (''we will hear and do''); Arabic ʿaṣaynā sounds like Hebrew ʿāśînû. Q also gives the correct form,
-    samiʿnā wa-aṭaʿnā. cf. (not a match) b. Shabbat 88a and the Targum tradition of the pun.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קְרַ֤ב אַתָּה֙ וּֽשֲׁמָ֔ע אֵ֛ת כָּל אֲשֶׁ֥ר יֹאמַ֖ר יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאַ֣תְּ תְּדַבֵּ֣ר אֵלֵ֗ינוּ
-    אֵת֩ כָּל אֲשֶׁ֨ר יְדַבֵּ֜ר יְהוָ֧ה אֱלֹהֵ֛ינוּ אֵלֶ֖יךָ וְשָׁמַ֥עְנוּ וְעָשִֽׂינוּ
-- tradition: islam
-  ref: Quran 4:46
-  note: 'The people answer as one: all that YHWH has spoken we will do [response between the texts] (Q
-    samiʿnā wa-ʿaṣaynā (''we hear and we disobey'') against the people''s pledge at Horeb wə-šāmaʿnû wə-ʿāśînû
-    (''we will hear and do''); Arabic ʿaṣaynā sounds like Hebrew ʿāśînû. Q also gives the correct form,
-    samiʿnā wa-aṭaʿnā. cf. (not a match) b. Shabbat 88a and the Targum tradition of the pun.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
-    وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
-    قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ
-    ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    response. Q samiʿnā wa-ʿaṣaynā (''we hear and we disobey'') against the people''s pledge at Horeb
-    wə-šāmaʿnû wə-ʿāśînû (''we will hear and do''); Arabic ʿaṣaynā sounds like Hebrew ʿāśînû. Q also gives
-    the correct form, samiʿnā wa-aṭaʿnā. cf. (not a match) b. Shabbat 88a and the Targum tradition of
-    the pun.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do [response
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -79,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The people answer as one: all that YHWH has spoken we will do'
+kinds:
+- response
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: response
+  label: 'The people answer as one: all that YHWH has spoken we will do'
+  note: Q samiʿnā wa-ʿaṣaynā ('we hear and we disobey') against the people's pledge at Horeb wə-šāmaʿnû
+    wə-ʿāśînû ('we will hear and do'); Arabic ʿaṣaynā sounds like Hebrew ʿāśînû. Q also gives the correct
+    form, samiʿnā wa-aṭaʿnā. cf. (not a match) b. Shabbat 88a and the Targum tradition of the pun.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:27
+      lang: he
+      text: קְרַ֤ב אַתָּה֙ וּֽשֲׁמָ֔ע אֵ֛ת כָּל אֲשֶׁ֥ר יֹאמַ֖ר יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאַ֣תְּ תְּדַבֵּ֣ר
+        אֵלֵ֗ינוּ אֵת֩ כָּל אֲשֶׁ֨ר יְדַבֵּ֜ר יְהוָ֧ה אֱלֹהֵ֛ינוּ אֵלֶ֖יךָ וְשָׁמַ֥עְנוּ וְעָשִֽׂינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:46
+      lang: ar
+      text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
+        وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
+        قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن
+        لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

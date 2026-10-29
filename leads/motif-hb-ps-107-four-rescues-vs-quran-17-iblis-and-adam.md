@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-17-iblis-and-adam
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Iblis's threat
   to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
-summary: 'These two units share 1 motifs: in distress, at sea or otherwise, people call on god alone,
-  then return to polytheism once rescued [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - call-on-god-in-distress-forget-after-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 107:23
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [divergence between the texts] (Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû
-    ʾel-YHWH baṣṣar lāhem ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks,
-    yôdû laYHWH ḥasdô. Q: idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum
-    ilā l-barri aʿraḍtum wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
-- tradition: judaism
-  ref: Ps 107:25
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [divergence between the texts] (Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû
-    ʾel-YHWH baṣṣar lāhem ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks,
-    yôdû laYHWH ḥasdô. Q: idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum
-    ilā l-barri aʿraḍtum wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
-- tradition: islam
-  ref: Quran 17:66
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [divergence between the texts] (Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû
-    ʾel-YHWH baṣṣar lāhem ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks,
-    yôdû laYHWH ḥasdô. Q: idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum
-    ilā l-barri aʿraḍtum wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ
-    كَانَ بِكُمْ رَحِيمًا
-- tradition: islam
-  ref: Quran 17:67
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [divergence between the texts] (Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû
-    ʾel-YHWH baṣṣar lāhem ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks,
-    yôdû laYHWH ḥasdô. Q: idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum
-    ilā l-barri aʿraḍtum wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ
-    إِلَى ٱلْبَرِّ أَعْرَضْتُمْ وَكَانَ ٱلْإِنسَٰنُ كَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû ʾel-YHWH baṣṣar
-    lāhem ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks, yôdû laYHWH ḥasdô.
-    Q: idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum ilā l-barri aʿraḍtum
-    wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In distress, at sea or otherwise, people call on God alone, then
     return to polytheism once rescued [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -104,6 +57,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+kinds:
+- divergence
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-17-iblis-and-adam
+  title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+  tradition: islam
+matches:
+- kind: divergence
+  label: In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+  note: 'Same scene, opposite ending. Ps: yôrədê hayyām bāʾŏniyyôt ... wayyiṣʿăqû ʾel-YHWH baṣṣar lāhem
+    ... yāqēm səʿārâ lidmāmâ ... wayyanḥēm ʾel-məḥôz ḥepṣām, followed by thanks, yôdû laYHWH ḥasdô. Q:
+    idhā massakumu ḍ-ḍurru fī l-baḥri ḍalla man tadʿūna illā iyyāhu fa-lammā najjākum ilā l-barri aʿraḍtum
+    wa-kāna l-insānu kafūrā. The rescued give thanks in Ps and turn away in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:23
+      lang: he
+      text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
+    - ref: Ps 107:25
+      lang: he
+      text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
+    - ref: Ps 107:28
+      lang: he
+      text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:66
+      lang: ar
+      text: رَّبُّكُمُ ٱلَّذِى يُزْجِى لَكُمُ ٱلْفُلْكَ فِى ٱلْبَحْرِ لِتَبْتَغُوا۟ مِن فَضْلِهِۦٓ إِنَّهُۥ
+        كَانَ بِكُمْ رَحِيمًا
+    - ref: Quran 17:67
+      lang: ar
+      text: وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ
+        إِلَى ٱلْبَرِّ أَعْرَضْتُمْ وَكَانَ ٱلْإِنسَٰنُ كَفُورًا
 ---
 
 ## Questions

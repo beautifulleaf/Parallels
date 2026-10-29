@@ -2,8 +2,7 @@
 id: motif-hb-gen-46-descent-seventy-souls-vs-quran-12-joseph-full
 title: Vision at Beersheba, the seventy who went down, reunion in Goshen ↔ Joseph and his brothers (Surah
   12, full read)
-summary: 'These two units share 3 motifs: hero meets and embraces his father [divergence between the texts],
-  hero meets and embraces his father, the whole family moves to egypt.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,81 +16,9 @@ motifs:
 - reunion-with-father-as-divergence
 - reunion-with-father
 - family-migrates-to-egypt
-passages:
-- tradition: judaism
-  ref: Gen 46:29
-  note: 'Hero meets and embraces his father [divergence between the texts] (Gen: Joseph meets Israel in
-    Goshen, wayyippōl ʿal-ṣawwāʾrāyw, and Jacob says ʾāmûtâ happaʿam. Q: āwā ilayhi abawayhi, both parents,
-    although Gen has Rachel dead (Gen 35:19), and the welcome is udkhulū Miṣra in shāʾa llāhu āminīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א
-    אֵלָ֗יו וַיִּפֹּל֙ עַל צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל צַוָּארָ֖יו עֽוֹד
-- tradition: judaism
-  ref: Gen 46:30
-  note: 'Hero meets and embraces his father [divergence between the texts] (Gen: Joseph meets Israel in
-    Goshen, wayyippōl ʿal-ṣawwāʾrāyw, and Jacob says ʾāmûtâ happaʿam. Q: āwā ilayhi abawayhi, both parents,
-    although Gen has Rachel dead (Gen 35:19), and the welcome is udkhulū Miṣra in shāʾa llāhu āminīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל יוֹסֵ֖ף אָמ֣וּתָה הַפָּ֑עַם אַחֲרֵי֙ רְאוֹתִ֣י אֶת פָּנֶ֔יךָ כִּ֥י
-    עוֹדְךָ֖ חָֽי
-- tradition: islam
-  ref: Quran 12:99
-  note: 'Hero meets and embraces his father [divergence between the texts] (Gen: Joseph meets Israel in
-    Goshen, wayyippōl ʿal-ṣawwāʾrāyw, and Jacob says ʾāmûtâ happaʿam. Q: āwā ilayhi abawayhi, both parents,
-    although Gen has Rachel dead (Gen 35:19), and the welcome is udkhulū Miṣra in shāʾa llāhu āminīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
-- tradition: judaism
-  ref: Gen 46:29
-  note: Hero meets and embraces his father (falls on his neck and weeps)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א
-    אֵלָ֗יו וַיִּפֹּל֙ עַל צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל צַוָּארָ֖יו עֽוֹד
-- tradition: islam
-  ref: Quran 12:99
-  note: Hero meets and embraces his father (both parents (abawayhi))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
-- tradition: judaism
-  ref: Gen 46:5
-  note: The whole family moves to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֥קָם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת יַעֲקֹ֣ב אֲבִיהֶ֗ם וְאֶת
-    טַפָּם֙ וְאֶת נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ
-- tradition: judaism
-  ref: Gen 46:6
-  note: The whole family moves to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְח֣וּ אֶת מִקְנֵיהֶ֗ם וְאֶת רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ
-    מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל זַרְע֥וֹ אִתּֽוֹ
-- tradition: islam
-  ref: Quran 12:93
-  note: The whole family moves to Egypt ('from the desert (al-badw)' (12:100))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
-    أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 12:99
-  note: The whole family moves to Egypt ('from the desert (al-badw)' (12:100))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: Joseph meets Israel in Goshen, wayyippōl ʿal-ṣawwāʾrāyw, and Jacob says ʾāmûtâ happaʿam.
-    Q: āwā ilayhi abawayhi, both parents, although Gen has Rachel dead (Gen 35:19), and the welcome is
-    udkhulū Miṣra in shāʾa llāhu āminīn.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero meets and embraces his father [divergence between the texts]
     (weight 6.7); Hero meets and embraces his father (weight 6.0); The whole family moves to Egypt (weight
@@ -123,6 +50,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero meets and embraces his father
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-46-descent-seventy-souls
+  title: Vision at Beersheba, the seventy who went down, reunion in Goshen
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero meets and embraces his father
+  note: 'Gen: Joseph meets Israel in Goshen, wayyippōl ʿal-ṣawwāʾrāyw, and Jacob says ʾāmûtâ happaʿam.
+    Q: āwā ilayhi abawayhi, both parents, although Gen has Rachel dead (Gen 35:19), and the welcome is
+    udkhulū Miṣra in shāʾa llāhu āminīn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 46:29
+      lang: he
+      text: וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א
+        אֵלָ֗יו וַיִּפֹּל֙ עַל צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל צַוָּארָ֖יו עֽוֹד
+    - ref: Gen 46:30
+      lang: he
+      text: וַיֹּ֧אמֶר יִשְׂרָאֵ֛ל אֶל יוֹסֵ֖ף אָמ֣וּתָה הַפָּ֑עַם אַחֲרֵי֙ רְאוֹתִ֣י אֶת פָּנֶ֔יךָ כִּ֥י
+        עוֹדְךָ֖ חָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 12:99
+      lang: ar
+      text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
+        شَآءَ ٱللَّهُ ءَامِنِينَ
+- kind: shared
+  label: The whole family moves to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 46:5
+      lang: he
+      text: וַיָּ֥קָם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת יַעֲקֹ֣ב אֲבִיהֶ֗ם
+        וְאֶת טַפָּם֙ וְאֶת נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ
+    - ref: Gen 46:6
+      lang: he
+      text: וַיִּקְח֣וּ אֶת מִקְנֵיהֶ֗ם וְאֶת רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ
+        מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל זַרְע֥וֹ אִתּֽוֹ
+    - ref: Gen 46:7
+      lang: he
+      text: בָּנָ֞יו וּבְנֵ֤י בָנָיו֙ אִתּ֔וֹ בְּנֹתָ֛יו וּבְנ֥וֹת בָּנָ֖יו וְכָל זַרְע֑וֹ הֵבִ֥יא אִתּ֖וֹ
+        מִצְרָֽיְמָה
+  - tradition: islam
+    passages:
+    - ref: Quran 12:93
+      lang: ar
+      text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
+        أَجْمَعِينَ
+    - ref: Quran 12:99
+      lang: ar
+      text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
+        شَآءَ ٱللَّهُ ءَامِنِينَ
+    note: '''from the desert (al-badw)'' (12:100)'
 ---
 
 ## Questions

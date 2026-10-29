@@ -3,7 +3,7 @@ id: motif-hb-ezek-1-chariot-throne-vs-quran-53-najm-vision-and-lote-tree
 title: 'Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of eyes, the
   throne and the glory ↔ Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away,
   and the Lote-Tree of the Boundary'
-summary: 'These two units share 1 motifs: he saw some of the greatest signs of his lord.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,55 +15,9 @@ layers:
 - motif
 motifs:
 - greatest-signs-of-lord-seen
-passages:
-- tradition: judaism
-  ref: Ezek 1:26
-  note: 'He saw some of the greatest signs of his Lord (A prophet''s vision of the divine described with
-    deliberate distance. Ezekiel: dəmûṯ kə-marʾēh ʾāḏām ... kə-marʾēh haq-qešeṯ ʾăšer yihyeh ḇe-ʿānān
-    ... hûʾ marʾēh dəmûṯ kəḇôḏ YHWH wā-ʾerʾeh wā-ʾeppōl ʿal pānāy (the likeness of the appearance of the
-    glory, framed by a bow in the cloud). Quran: fa-kāna qāba qawsayni aw adnā ... mā kadhaba l-fuʾādu
-    mā raʾā ... la-qad raʾā min āyāti rabbihi l-kubrā. Bow (qešeṯ / qaws, cognate) and seeing in both;
-    Ezekiel falls on his face, while the Prophet''s ''sight did not swerve'' (mā zāgha l-baṣaru). The
-    bow link is a lead only: the Quran''s ''two bow-lengths'' is a measure of distance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִמַּ֗עַל לָרָקִ֨יעַ֙ אֲשֶׁ֣ר עַל רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶֽבֶן סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א וְעַל֙
-    דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה
-- tradition: judaism
-  ref: Ezek 1:28
-  note: 'He saw some of the greatest signs of his Lord (A prophet''s vision of the divine described with
-    deliberate distance. Ezekiel: dəmûṯ kə-marʾēh ʾāḏām ... kə-marʾēh haq-qešeṯ ʾăšer yihyeh ḇe-ʿānān
-    ... hûʾ marʾēh dəmûṯ kəḇôḏ YHWH wā-ʾerʾeh wā-ʾeppōl ʿal pānāy (the likeness of the appearance of the
-    glory, framed by a bow in the cloud). Quran: fa-kāna qāba qawsayni aw adnā ... mā kadhaba l-fuʾādu
-    mā raʾā ... la-qad raʾā min āyāti rabbihi l-kubrā. Bow (qešeṯ / qaws, cognate) and seeing in both;
-    Ezekiel falls on his face, while the Prophet''s ''sight did not swerve'' (mā zāgha l-baṣaru). The
-    bow link is a lead only: the Quran''s ''two bow-lengths'' is a measure of distance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִֽהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֨גַהּ֙
-    סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד יְהוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל פָּנַ֔י וָאֶשְׁמַ֖ע ק֥וֹל
-    מְדַבֵּֽר
-- tradition: islam
-  ref: Quran 53:18
-  note: He saw some of the greatest signs of his Lord
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ رَأَىٰ مِنْ ءَايَٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ
-- tradition: islam
-  ref: Quran 53:9
-  note: He saw some of the greatest signs of his Lord
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A prophet''s vision of the divine described with deliberate distance. Ezekiel: dəmûṯ kə-marʾēh
-    ʾāḏām ... kə-marʾēh haq-qešeṯ ʾăšer yihyeh ḇe-ʿānān ... hûʾ marʾēh dəmûṯ kəḇôḏ YHWH wā-ʾerʾeh wā-ʾeppōl
-    ʿal pānāy (the likeness of the appearance of the glory, framed by a bow in the cloud). Quran: fa-kāna
-    qāba qawsayni aw adnā ... mā kadhaba l-fuʾādu mā raʾā ... la-qad raʾā min āyāti rabbihi l-kubrā. Bow
-    (qešeṯ / qaws, cognate) and seeing in both; Ezekiel falls on his face, while the Prophet''s ''sight
-    did not swerve'' (mā zāgha l-baṣaru). The bow link is a lead only: the Quran''s ''two bow-lengths''
-    is a measure of distance.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He saw some of the greatest signs of his Lord (weight 6.7). Pair
     score 6.7.'
@@ -99,6 +53,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He saw some of the greatest signs of his Lord
+kinds:
+- echo
+units:
+- id: hb-ezek-1-chariot-throne
+  title: 'Ezekiel''s inaugural vision by the Chebar canal: four living creatures, wheels full of eyes,
+    the throne and the glory'
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: echo
+  label: He saw some of the greatest signs of his Lord
+  note: 'A prophet''s vision of the divine described with deliberate distance. Ezekiel: dəmûṯ kə-marʾēh
+    ʾāḏām ... kə-marʾēh haq-qešeṯ ʾăšer yihyeh ḇe-ʿānān ... hûʾ marʾēh dəmûṯ kəḇôḏ YHWH wā-ʾerʾeh wā-ʾeppōl
+    ʿal pānāy (the likeness of the appearance of the glory, framed by a bow in the cloud). Quran: fa-kāna
+    qāba qawsayni aw adnā ... mā kadhaba l-fuʾādu mā raʾā ... la-qad raʾā min āyāti rabbihi l-kubrā. Bow
+    (qešeṯ / qaws, cognate) and seeing in both; Ezekiel falls on his face, while the Prophet''s ''sight
+    did not swerve'' (mā zāgha l-baṣaru). The bow link is a lead only: the Quran''s ''two bow-lengths''
+    is a measure of distance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 1:26
+      lang: he
+      text: וּמִמַּ֗עַל לָרָקִ֨יעַ֙ אֲשֶׁ֣ר עַל רֹאשָׁ֔ם כְּמַרְאֵ֥ה אֶֽבֶן סַפִּ֖יר דְּמ֣וּת כִּסֵּ֑א
+        וְעַל֙ דְּמ֣וּת הַכִּסֵּ֔א דְּמ֞וּת כְּמַרְאֵ֥ה אָדָ֛ם עָלָ֖יו מִלְמָֽעְלָה
+    - ref: Ezek 1:28
+      lang: he
+      text: כְּמַרְאֵ֣ה הַקֶּ֡שֶׁת אֲשֶׁר֩ יִֽהְיֶ֨ה בֶעָנָ֜ן בְּי֣וֹם הַגֶּ֗שֶׁם כֵּ֣ן מַרְאֵ֤ה הַנֹּ֨גַהּ֙
+        סָבִ֔יב ה֕וּא מַרְאֵ֖ה דְּמ֣וּת כְּבוֹד יְהוָ֑ה וָֽאֶרְאֶה֙ וָאֶפֹּ֣ל עַל פָּנַ֔י וָאֶשְׁמַ֖ע
+        ק֥וֹל מְדַבֵּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 53:9
+      lang: ar
+      text: فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ
+    - ref: Quran 53:11
+      lang: ar
+      text: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
+    - ref: Quran 53:18
+      lang: ar
+      text: لَقَدْ رَأَىٰ مِنْ ءَايَٰتِ رَبِّهِ ٱلْكُبْرَىٰٓ
 ---
 
 ## Questions

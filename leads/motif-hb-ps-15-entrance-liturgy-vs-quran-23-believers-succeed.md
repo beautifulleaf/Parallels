@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-15-entrance-liturgy-vs-quran-23-believers-succeed
 title: Psalm 15 - who may dwell on your holy mountain ↔ The successful believers who inherit Firdaws
-summary: 'These two units share 1 motifs: entrance liturgy: ''who may dwell on your holy mountain?'' answered
-  by a list of ethical qualifications.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - entrance-liturgy-who-may-dwell
-passages:
-- tradition: judaism
-  ref: Ps 15:1-5
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (15:1) מִזְמ֗וֹר לְדָ֫וִ֥ד יְ֭הֹוָה מִי יָג֣וּר בְּאָהֳלֶ֑ךָ מִֽי יִ֝שְׁכֹּ֗ן בְּהַ֣ר קָדְשֶֽׁךָ
-    (15:2) הוֹלֵ֣ךְ תָּ֭מִים וּפֹעֵ֥ל צֶ֑דֶק וְדֹבֵ֥ר אֱ֝מֶ֗ת בִּלְבָבֽוֹ (15:3) לֹֽא רָגַ֨ל עַל לְשֹׁנ֗וֹ
-    לֹא עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא נָשָׂ֥א עַל קְרֹֽבוֹ (15:4) נִבְזֶ֤ה בְּֽעֵ֘ינָ֤יו
-    נִמְאָ֗ס וְאֶת יִרְאֵ֣י יְהוָ֣ה יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א יָמִֽר (15:5) כַּסְפּ֤וֹ לֹא
-    נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל נָקִ֗י לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה אֵ֑לֶּה לֹ֖א יִמּ֣וֹט לְעוֹלָֽם
-- tradition: judaism
-  ref: Ps 15:1
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִזְמ֗וֹר לְדָ֫וִ֥ד יְ֭הֹוָה מִי יָג֣וּר בְּאָהֳלֶ֑ךָ מִֽי יִ֝שְׁכֹּ֗ן בְּהַ֣ר קָדְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 23:1
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications
-    (Both are lists of qualities ending in a lasting reward: Ps 15 mî yāgûr bə-ʾohŏlekā ... ʿōśēh ʾēlleh
-    lōʾ yimmôṭ lə-ʿôlām; Q 23:1-11 qad aflaḥa l-muʾminūna ... hum fīhā khālidūn. Shared items include
-    faithfulness to one''s word (23:8 li-amānātihim wa-ʿahdihim rāʿūna ~ 15:4 nišbaʿ lə-hāraʿ wə-lōʾ yāmir).
-    Ps 15 lists only social ethics (tongue, interest, bribes); Q 23 frames them with prayer (23:2, 23:9),
-    zakāt and sexual restraint.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 23:8
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications
-    (Both are lists of qualities ending in a lasting reward: Ps 15 mî yāgûr bə-ʾohŏlekā ... ʿōśēh ʾēlleh
-    lōʾ yimmôṭ lə-ʿôlām; Q 23:1-11 qad aflaḥa l-muʾminūna ... hum fīhā khālidūn. Shared items include
-    faithfulness to one''s word (23:8 li-amānātihim wa-ʿahdihim rāʿūna ~ 15:4 nišbaʿ lə-hāraʿ wə-lōʾ yāmir).
-    Ps 15 lists only social ethics (tongue, interest, bribes); Q 23 frames them with prayer (23:2, 23:9),
-    zakāt and sexual restraint.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. Both are lists of qualities ending in a lasting reward: Ps 15 mî yāgûr bə-ʾohŏlekā ... ʿōśēh
-    ʾēlleh lōʾ yimmôṭ lə-ʿôlām; Q 23:1-11 qad aflaḥa l-muʾminūna ... hum fīhā khālidūn. Shared items include
-    faithfulness to one''s word (23:8 li-amānātihim wa-ʿahdihim rāʿūna ~ 15:4 nišbaʿ lə-hāraʿ wə-lōʾ yāmir).
-    Ps 15 lists only social ethics (tongue, interest, bribes); Q 23 frames them with prayer (23:2, 23:9),
-    zakāt and sexual restraint.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
     by a list of ethical qualifications (weight 5.8). Pair score 5.8.'
@@ -83,6 +39,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
+kinds:
+- parallel
+units:
+- id: hb-ps-15-entrance-liturgy
+  title: Psalm 15 - who may dwell on your holy mountain
+  tradition: judaism
+- id: quran-23-believers-succeed
+  title: The successful believers who inherit Firdaws
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
+  note: 'Both are lists of qualities ending in a lasting reward: Ps 15 mî yāgûr bə-ʾohŏlekā ... ʿōśēh
+    ʾēlleh lōʾ yimmôṭ lə-ʿôlām; Q 23:1-11 qad aflaḥa l-muʾminūna ... hum fīhā khālidūn. Shared items include
+    faithfulness to one''s word (23:8 li-amānātihim wa-ʿahdihim rāʿūna ~ 15:4 nišbaʿ lə-hāraʿ wə-lōʾ yāmir).
+    Ps 15 lists only social ethics (tongue, interest, bribes); Q 23 frames them with prayer (23:2, 23:9),
+    zakāt and sexual restraint.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 15:1
+      lang: he
+      text: מִזְמ֗וֹר לְדָ֫וִ֥ד יְ֭הֹוָה מִי יָג֣וּר בְּאָהֳלֶ֑ךָ מִֽי יִ֝שְׁכֹּ֗ן בְּהַ֣ר קָדְשֶֽׁךָ
+    - ref: Ps 15:2
+      lang: he
+      text: הוֹלֵ֣ךְ תָּ֭מִים וּפֹעֵ֥ל צֶ֑דֶק וְדֹבֵ֥ר אֱ֝מֶ֗ת בִּלְבָבֽוֹ
+    - ref: Ps 15:4
+      lang: he
+      text: נִבְזֶ֤ה בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס וְאֶת יִרְאֵ֣י יְהוָ֣ה יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א
+        יָמִֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 23:1
+      lang: ar
+      text: قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ
+    - ref: Quran 23:8
+      lang: ar
+      text: وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ
+    - ref: Quran 23:10
+      lang: ar
+      text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
 ---
 
 ## Questions

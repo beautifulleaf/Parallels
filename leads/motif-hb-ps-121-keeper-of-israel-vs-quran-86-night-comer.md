@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-121-keeper-of-israel-vs-quran-86-night-comer
 title: 'Psalm 121, the keeper who does not sleep ↔ The night-comer: fluid from between backbone and ribs'
-summary: 'These two units share 1 motifs: there is no soul but has a guardian (hafiz) over it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - guardian-over-every-soul
-passages:
-- tradition: judaism
-  ref: Ps 121:4
-  note: 'There is no soul but has a guardian (hafiz) over it (in kullu nafsin lammā ʿalayhā ḥāfiẓ ~ hinnēh
-    lōʾ yānûm we-lōʾ yîšān šômēr Yiśrāʾēl, YHWH šōmrekā: a keeper over each person; in the Psalm God protects,
-    in the Quran the ḥāfiẓ (an angel, cf. 82:10) also records.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Ps 121:5
-  note: 'There is no soul but has a guardian (hafiz) over it (in kullu nafsin lammā ʿalayhā ḥāfiẓ ~ hinnēh
-    lōʾ yānûm we-lōʾ yîšān šômēr Yiśrāʾēl, YHWH šōmrekā: a keeper over each person; in the Psalm God protects,
-    in the Quran the ḥāfiẓ (an angel, cf. 82:10) also records.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֥ה שֹׁמְרֶ֑ךָ יְהוָ֥ה צִ֝לְּךָ֗ עַל יַ֥ד יְמִינֶֽךָ
-- tradition: islam
-  ref: Quran 86:4
-  note: There is no soul but has a guardian (hafiz) over it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. in kullu nafsin lammā ʿalayhā ḥāfiẓ ~ hinnēh lōʾ yānûm we-lōʾ yîšān šômēr Yiśrāʾēl, YHWH šōmrekā:
-    a keeper over each person; in the Psalm God protects, in the Quran the ḥāfiẓ (an angel, cf. 82:10)
-    also records.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There is no soul but has a guardian (hafiz) over it (weight 6.3).
     Pair score 6.3.'
@@ -71,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: There is no soul but has a guardian (hafiz) over it
+kinds:
+- echo
+units:
+- id: hb-ps-121-keeper-of-israel
+  title: Psalm 121, the keeper who does not sleep
+  tradition: judaism
+- id: quran-86-night-comer
+  title: 'The night-comer: fluid from between backbone and ribs'
+  tradition: islam
+matches:
+- kind: echo
+  label: There is no soul but has a guardian (hafiz) over it
+  note: 'in kullu nafsin lammā ʿalayhā ḥāfiẓ ~ hinnēh lōʾ yānûm we-lōʾ yîšān šômēr Yiśrāʾēl, YHWH šōmrekā:
+    a keeper over each person; in the Psalm God protects, in the Quran the ḥāfiẓ (an angel, cf. 82:10)
+    also records.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:4
+      lang: he
+      text: הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
+    - ref: Ps 121:5
+      lang: he
+      text: יְהוָ֥ה שֹׁמְרֶ֑ךָ יְהוָ֥ה צִ֝לְּךָ֗ עַל יַ֥ד יְמִינֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 86:4
+      lang: ar
+      text: إِن كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌ
 ---
 
 ## Questions

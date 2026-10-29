@@ -2,8 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-60-mumtahana-abrahams-example-and-the-womens-pledge
 title: 'Idols in the heart; Noah, Daniel and Job could not save the land ↔ Al-Mumtahana: no affection
   for God''s enemies, Abraham''s excellent example, examining emigrant women, and the women''s pledge'
-summary: 'These two units share 1 motifs: neither your blood-ties nor your children will benefit you on
-  the day of resurrection.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - kinship-of-no-avail-at-judgment
-passages:
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'Neither your blood-ties nor your children will benefit you on the Day of Resurrection (Family
-    ties do not save on the day of judgment: nōaḥ dāniʾēl wə-ʾiyyôḇ ... ʾim bēn ʾim baṯ yaṣṣîlû hēmmâ
-    ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lan tanfaʿakum arḥāmukum wa-lā awlādukum yawma l-qiyāmati yafṣilu
-    baynakum. Ezekiel: the righteous cannot save even their children; Quran: one''s kin and children cannot
-    benefit one. The Quran uses it to warn believers who keep secret ties with Meccan kin.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: judaism
-  ref: Ezek 14:20
-  note: 'Neither your blood-ties nor your children will benefit you on the Day of Resurrection (Family
-    ties do not save on the day of judgment: nōaḥ dāniʾēl wə-ʾiyyôḇ ... ʾim bēn ʾim baṯ yaṣṣîlû hēmmâ
-    ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lan tanfaʿakum arḥāmukum wa-lā awlādukum yawma l-qiyāmati yafṣilu
-    baynakum. Ezekiel: the righteous cannot save even their children; Quran: one''s kin and children cannot
-    benefit one. The Quran uses it to warn believers who keep secret ties with Meccan kin.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן אִם
-    בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
-- tradition: islam
-  ref: Quran 60:3
-  note: Neither your blood-ties nor your children will benefit you on the Day of Resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ يَوْمَ ٱلْقِيَٰمَةِ يَفْصِلُ بَيْنَكُمْ وَٱللَّهُ
-    بِمَا تَعْمَلُونَ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Family ties do not save on the day of judgment: nōaḥ dāniʾēl wə-ʾiyyôḇ ... ʾim bēn ʾim baṯ
-    yaṣṣîlû hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lan tanfaʿakum arḥāmukum wa-lā awlādukum yawma l-qiyāmati
-    yafṣilu baynakum. Ezekiel: the righteous cannot save even their children; Quran: one''s kin and children
-    cannot benefit one. The Quran uses it to warn believers who keep secret ties with Meccan kin.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither your blood-ties nor your children will benefit you on the
     Day of Resurrection (weight 6.7). Pair score 6.7.'
@@ -94,6 +60,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Neither your blood-ties nor your children will benefit you on the Day of Resurrection
+kinds:
+- parallel
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Neither your blood-ties nor your children will benefit you on the Day of Resurrection
+  note: 'Family ties do not save on the day of judgment: nōaḥ dāniʾēl wə-ʾiyyôḇ ... ʾim bēn ʾim baṯ yaṣṣîlû
+    hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lan tanfaʿakum arḥāmukum wa-lā awlādukum yawma l-qiyāmati yafṣilu
+    baynakum. Ezekiel: the righteous cannot save even their children; Quran: one''s kin and children cannot
+    benefit one. The Quran uses it to warn believers who keep secret ties with Meccan kin.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+    - ref: Ezek 14:20
+      lang: he
+      text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן
+        אִם בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 60:3
+      lang: ar
+      text: لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَٰدُكُمْ يَوْمَ ٱلْقِيَٰمَةِ يَفْصِلُ بَيْنَكُمْ
+        وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-neh-10-sealed-covenant-vs-quran-5-contracts-food-laws
 title: The sealed pledge (amanah) and its stipulations ↔ Contracts, pilgrim sanctity and the forbidden
   foods
-summary: 'These two units share 2 motifs: prohibition of intermarriage with the peoples of the land lest
-  they turn sons to other gods [contrast between the texts], prohibition of intermarriage with the peoples
-  of the land lest they turn sons to other gods.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,52 +15,9 @@ layers:
 motifs:
 - no-intermarriage-with-nations-as-contrast
 - no-intermarriage-with-nations
-passages:
-- tradition: judaism
-  ref: Neh 10:31
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods [contrast
-    between the texts] (Neh: wa-ʾăšer lōʾ-nittēn bənōtênû lə-ʿammê hā-ʾāreṣ wə-ʾet-bənōtêhem lōʾ niqqaḥ
-    lə-vānênû, a sworn pledge (bāʾîm bə-ʾālāh û-vi-šəvûʿāh, 10:30). Q 5:5 opens marriage to chaste women
-    of ''those given the Book before you''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
-- tradition: islam
-  ref: Quran 5:5
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods [contrast
-    between the texts] (Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît
-    ... wə-qārāʾ ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen.
-    Q: wa-ṭaʿāmu lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so
-    their food is lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s
-    permission concerns the People of the Book.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ
-    حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ
-    مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ
-    أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
-- tradition: judaism
-  ref: Neh 10:31
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods (pledge
-    not to give or take daughters)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
-- tradition: islam
-  ref: Quran 5:5
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods (revision:
-    women of the People of the Book permitted)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ
-    حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ
-    مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ
-    أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Neh: wa-ʾăšer lōʾ-nittēn bənōtênû lə-ʿammê hā-ʾāreṣ wə-ʾet-bənōtêhem lōʾ niqqaḥ lə-vānênû,
-    a sworn pledge (bāʾîm bə-ʾālāh û-vi-šəvûʿāh, 10:30). Q 5:5 opens marriage to chaste women of ''those
-    given the Book before you''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of intermarriage with the peoples of the land lest they
     turn sons to other gods [contrast between the texts] (weight 6.3); Prohibition of intermarriage with
@@ -95,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+kinds:
+- contrast
+units:
+- id: hb-neh-10-sealed-covenant
+  title: The sealed pledge (amanah) and its stipulations
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: contrast
+  label: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+  note: 'Neh: wa-ʾăšer lōʾ-nittēn bənōtênû lə-ʿammê hā-ʾāreṣ wə-ʾet-bənōtêhem lōʾ niqqaḥ lə-vānênû, a
+    sworn pledge (bāʾîm bə-ʾālāh û-vi-šəvûʿāh, 10:30). Q 5:5 opens marriage to chaste women of ''those
+    given the Book before you''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 10:31
+      lang: he
+      text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:5
+      lang: ar
+      text: ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ
+        وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ
+        أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
+        وَلَا مُتَّخِذِىٓ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ
+        مِنَ ٱلْخَٰسِرِينَ
 ---
 
 ## Questions

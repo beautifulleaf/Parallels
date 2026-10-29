@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-16-manna-quail-sabbath-vs-quran-7-sabbath-town
 title: Manna and quail; the first Sabbath ↔ The Sabbath-breaking seaside town turned into apes
-summary: 'These two units share 1 motifs: god tests the people through food and the sabbath [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - sabbath-food-test-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 16:4
-  note: 'God tests the people through food and the Sabbath [divergence between the texts] (The Sabbath
-    as a test through food: ka-dhālika nablūhum vs lᵉmaʿan ʾănassennû hăyēlēk bᵉtôrātî ʾim-lōʾ. Reversed:
-    in Exod no manna falls on the Sabbath, and those who go out find nothing (yāṣᵉʾû ... lilqōṭ wᵉlōʾ
-    māṣāʾû); in Q the fish come openly only on the Sabbath (taʾtīhim ḥītānuhum yawma sabtihim shurraʿan
-    wa-yawma lā yasbitūna lā taʾtīhim).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן הַשָּׁמָ֑יִם וְיָצָ֨א הָעָ֤ם
-    וְלָֽקְטוּ֙ דְּבַר י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם לֹֽא
-- tradition: judaism
-  ref: Exod 16:26
-  note: 'God tests the people through food and the Sabbath [divergence between the texts] (The Sabbath
-    as a test through food: ka-dhālika nablūhum vs lᵉmaʿan ʾănassennû hăyēlēk bᵉtôrātî ʾim-lōʾ. Reversed:
-    in Exod no manna falls on the Sabbath, and those who go out find nothing (yāṣᵉʾû ... lilqōṭ wᵉlōʾ
-    māṣāʾû); in Q the fish come openly only on the Sabbath (taʾtīhim ḥītānuhum yawma sabtihim shurraʿan
-    wa-yawma lā yasbitūna lā taʾtīhim).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ וּבַיּ֧וֹם הַשְּׁבִיעִ֛י שַׁבָּ֖ת לֹ֥א יִֽהְיֶה בּֽוֹ
-- tradition: islam
-  ref: Quran 7:163
-  note: 'God tests the people through food and the Sabbath [divergence between the texts] (The Sabbath
-    as a test through food: ka-dhālika nablūhum vs lᵉmaʿan ʾănassennû hăyēlēk bᵉtôrātî ʾim-lōʾ. Reversed:
-    in Exod no manna falls on the Sabbath, and those who go out find nothing (yāṣᵉʾû ... lilqōṭ wᵉlōʾ
-    māṣāʾû); in Q the fish come openly only on the Sabbath (taʾtīhim ḥītānuhum yawma sabtihim shurraʿan
-    wa-yawma lā yasbitūna lā taʾtīhim).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ
-    إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ
-    كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. The Sabbath as a test through food: ka-dhālika nablūhum vs lᵉmaʿan ʾănassennû hăyēlēk
-    bᵉtôrātî ʾim-lōʾ. Reversed: in Exod no manna falls on the Sabbath, and those who go out find nothing
-    (yāṣᵉʾû ... lilqōṭ wᵉlōʾ māṣāʾû); in Q the fish come openly only on the Sabbath (taʾtīhim ḥītānuhum
-    yawma sabtihim shurraʿan wa-yawma lā yasbitūna lā taʾtīhim).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the people through food and the Sabbath [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +46,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the people through food and the Sabbath
+kinds:
+- divergence
+units:
+- id: hb-exod-16-manna-quail-sabbath
+  title: Manna and quail; the first Sabbath
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: divergence
+  label: God tests the people through food and the Sabbath
+  note: 'The Sabbath as a test through food: ka-dhālika nablūhum vs lᵉmaʿan ʾănassennû hăyēlēk bᵉtôrātî
+    ʾim-lōʾ. Reversed: in Exod no manna falls on the Sabbath, and those who go out find nothing (yāṣᵉʾû
+    ... lilqōṭ wᵉlōʾ māṣāʾû); in Q the fish come openly only on the Sabbath (taʾtīhim ḥītānuhum yawma
+    sabtihim shurraʿan wa-yawma lā yasbitūna lā taʾtīhim).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 16:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה הִנְנִ֨י מַמְטִ֥יר לָכֶ֛ם לֶ֖חֶם מִן הַשָּׁמָ֑יִם וְיָצָ֨א
+        הָעָ֤ם וְלָֽקְטוּ֙ דְּבַר י֣וֹם בְּיוֹמ֔וֹ לְמַ֧עַן אֲנַסֶּ֛נּוּ הֲיֵלֵ֥ךְ בְּתוֹרָתִ֖י אִם לֹֽא
+    - ref: Exod 16:26
+      lang: he
+      text: שֵׁ֥שֶׁת יָמִ֖ים תִּלְקְטֻ֑הוּ וּבַיּ֧וֹם הַשְּׁבִיעִ֛י שַׁבָּ֖ת לֹ֥א יִֽהְיֶה בּֽוֹ
+    - ref: Exod 16:27
+      lang: he
+      text: וַֽיְהִי֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י יָצְא֥וּ מִן הָעָ֖ם לִלְקֹ֑ט וְלֹ֖א מָצָֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:163
+      lang: ar
+      text: وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ
+        إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ
+        كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
 ---
 
 ## Questions

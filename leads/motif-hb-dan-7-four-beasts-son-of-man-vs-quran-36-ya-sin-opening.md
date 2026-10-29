@@ -2,8 +2,7 @@
 id: motif-hb-dan-7-four-beasts-son-of-man-vs-quran-36-ya-sin-opening
 title: The four beasts, the Ancient of Days and one like a son of man ↔ Ya-Sin; the collars and the barrier;
   deeds recorded
-summary: 'These two units share 1 motifs: god records what people sent ahead and their traces (athar),
-  and counts everything in a clear register (imam mubin).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - deeds-and-traces-recorded-in-register
-passages:
-- tradition: judaism
-  ref: Dan 7:10
-  note: 'God records what people sent ahead and their traces (athar), and counts everything in a clear
-    register (imam mubin) (dînāʾ yəṯiḇ wə-sip̄rîn pəṯîḥû (Aramaic: the court sat and the books were opened)
-    vs. wa-kulla shayʾin aḥṣaynāhu fī imāmin mubīn, beside innā naḥnu nuḥyi l-mawtā: books of record at
-    the judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ
-    רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
-- tradition: islam
-  ref: Quran 36:12
-  note: God records what people sent ahead and their traces (athar), and counts everything in a clear
-    register (imam mubin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَٰرَهُمْ وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ
-    فِىٓ إِمَامٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. dînāʾ yəṯiḇ wə-sip̄rîn pəṯîḥû (Aramaic: the court sat and the books were opened) vs. wa-kulla
-    shayʾin aḥṣaynāhu fī imāmin mubīn, beside innā naḥnu nuḥyi l-mawtā: books of record at the judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God records what people sent ahead and their traces (athar), and
     counts everything in a clear register (imam mubin) (weight 6.3). Pair score 6.3.'
@@ -68,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God records what people sent ahead and their traces (athar), and counts everything in a clear
+  register (imam mubin)
+kinds:
+- echo
+units:
+- id: hb-dan-7-four-beasts-son-of-man
+  title: The four beasts, the Ancient of Days and one like a son of man
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: God records what people sent ahead and their traces (athar), and counts everything in a clear
+    register (imam mubin)
+  note: 'dînāʾ yəṯiḇ wə-sip̄rîn pəṯîḥû (Aramaic: the court sat and the books were opened) vs. wa-kulla
+    shayʾin aḥṣaynāhu fī imāmin mubīn, beside innā naḥnu nuḥyi l-mawtā: books of record at the judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:10
+      lang: he
+      text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ
+        וְרִבּ֥וֹ רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:12
+      lang: ar
+      text: إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَٰرَهُمْ وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ
+        فِىٓ إِمَامٍ مُّبِينٍ
 ---
 
 ## Questions

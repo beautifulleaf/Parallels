@@ -2,8 +2,7 @@
 id: motif-hb-mic-6-covenant-lawsuit-vs-quran-33-hour-and-trust
 title: YHWH's lawsuit with his people; what YHWH requires ↔ The Hour, the blaming of leaders, Moses cleared,
   and the Trust
-summary: 'These two units share 1 motifs: god offered the trust (amana) to the heavens, earth and mountains;
-  they refused and feared it, but man bore it, unjust and ignorant.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - trust-offered-to-heavens-earth-mountains
-passages:
-- tradition: judaism
-  ref: Mic 6:1
-  note: 'God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
-    but man bore it, unjust and ignorant (šimʿû hārîm ʾeṯ-rîḇ YHWH wə-hā-ʾēṯānîm mōsḏê ʾāreṣ vs. ʿalā
-    s-samāwāti wa-l-arḍi wa-l-jibāl: the mountains and the foundations of the earth as parties to God''s
-    dealings with humans, as hearers in Micah and as those who refuse the amāna in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֕א אֵ֥ת אֲשֶׁר יְהוָ֖ה אֹמֵ֑ר ק֚וּם רִ֣יב אֶת הֶהָרִ֔ים וְתִשְׁמַ֥עְנָה הַגְּבָע֖וֹת
-    קוֹלֶֽךָ
-- tradition: judaism
-  ref: Mic 6:2
-  note: 'God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
-    but man bore it, unjust and ignorant (šimʿû hārîm ʾeṯ-rîḇ YHWH wə-hā-ʾēṯānîm mōsḏê ʾāreṣ vs. ʿalā
-    s-samāwāti wa-l-arḍi wa-l-jibāl: the mountains and the foundations of the earth as parties to God''s
-    dealings with humans, as hearers in Micah and as those who refuse the amāna in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְע֤וּ הָרִים֙ אֶת רִ֣יב יְהוָ֔ה וְהָאֵתָנִ֖ים מֹ֣סְדֵי אָ֑רֶץ כִּ֣י רִ֤יב לַֽיהוָה֙ עִם עַמּ֔וֹ
-    וְעִם יִשְׂרָאֵ֖ל יִתְוַכָּֽח
-- tradition: islam
-  ref: Quran 33:72
-  note: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
-    but man bore it, unjust and ignorant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا
-    وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. šimʿû hārîm ʾeṯ-rîḇ YHWH wə-hā-ʾēṯānîm mōsḏê ʾāreṣ vs. ʿalā s-samāwāti wa-l-arḍi wa-l-jibāl:
-    the mountains and the foundations of the earth as parties to God''s dealings with humans, as hearers
-    in Micah and as those who refuse the amāna in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God offered the Trust (amana) to the heavens, earth and mountains;
     they refused and feared it, but man bore it, unjust and ignorant (weight 6.3). Pair score 6.3.'
@@ -75,6 +43,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
+  but man bore it, unjust and ignorant
+kinds:
+- echo
+units:
+- id: hb-mic-6-covenant-lawsuit
+  title: YHWH's lawsuit with his people; what YHWH requires
+  tradition: judaism
+- id: quran-33-hour-and-trust
+  title: The Hour, the blaming of leaders, Moses cleared, and the Trust
+  tradition: islam
+matches:
+- kind: echo
+  label: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
+    but man bore it, unjust and ignorant
+  note: 'šimʿû hārîm ʾeṯ-rîḇ YHWH wə-hā-ʾēṯānîm mōsḏê ʾāreṣ vs. ʿalā s-samāwāti wa-l-arḍi wa-l-jibāl:
+    the mountains and the foundations of the earth as parties to God''s dealings with humans, as hearers
+    in Micah and as those who refuse the amāna in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 6:1
+      lang: he
+      text: שִׁמְעוּ נָ֕א אֵ֥ת אֲשֶׁר יְהוָ֖ה אֹמֵ֑ר ק֚וּם רִ֣יב אֶת הֶהָרִ֔ים וְתִשְׁמַ֥עְנָה הַגְּבָע֖וֹת
+        קוֹלֶֽךָ
+    - ref: Mic 6:2
+      lang: he
+      text: שִׁמְע֤וּ הָרִים֙ אֶת רִ֣יב יְהוָ֔ה וְהָאֵתָנִ֖ים מֹ֣סְדֵי אָ֑רֶץ כִּ֣י רִ֤יב לַֽיהוָה֙ עִם
+        עַמּ֔וֹ וְעִם יִשְׂרָאֵ֖ל יִתְוַכָּֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 33:72
+      lang: ar
+      text: إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن
+        يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا
 ---
 
 ## Questions

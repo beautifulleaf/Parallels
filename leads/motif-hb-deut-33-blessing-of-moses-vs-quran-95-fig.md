@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-33-blessing-of-moses-vs-quran-95-fig
 title: The Blessing of Moses on the tribes ↔ The fig and the olive, Mount Sinai and the secure city
-summary: 'These two units share 1 motifs: god shines forth from sinai, seir and mount paran with holy
-  myriads.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - god-comes-from-sinai-seir-paran
-passages:
-- tradition: judaism
-  ref: Deut 33:2
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (with myriads of holy ones)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ הוֹפִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן וְאָתָ֖ה
-    מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינ֕וֹ אשדת אֵ֥שׁ דָּ֖ת לָֽמוֹ
-- tradition: islam
-  ref: Quran 95:1
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (a triad of sacred sites with
-    Sinai at the center (tur sinin); exegetes read fig/olive as the Holy Land and the secure city as Mecca)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلتِّينِ وَٱلزَّيْتُونِ
-- tradition: islam
-  ref: Quran 95:2
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (a triad of sacred sites with
-    Sinai at the center (tur sinin); exegetes read fig/olive as the Holy Land and the secure city as Mecca)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَطُورِ سِينِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-t-tīni wa-z-zaytūni wa-ṭūri sīnīna wa-hādhā l-baladi l-amīn ~ YHWH mi-ssînay bāʾ we-zāraḥ
-    mi-śśēʿîr lāmô hôfîaʿ mē-har pāʾrān: a triad of holy places with Sinai at its center. The Quran swears
-    by them; Deuteronomy has God shine forth from them. cf. the medieval Muslim reading of both triads
-    as Moses, Jesus and Muhammad (not a match).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shines forth from Sinai, Seir and Mount Paran with holy myriads
     (weight 5.6). Pair score 5.6.'
@@ -72,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+kinds:
+- echo
+units:
+- id: hb-deut-33-blessing-of-moses
+  title: The Blessing of Moses on the tribes
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: echo
+  label: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+  note: 'wa-t-tīni wa-z-zaytūni wa-ṭūri sīnīna wa-hādhā l-baladi l-amīn ~ YHWH mi-ssînay bāʾ we-zāraḥ
+    mi-śśēʿîr lāmô hôfîaʿ mē-har pāʾrān: a triad of holy places with Sinai at its center. The Quran swears
+    by them; Deuteronomy has God shine forth from them. cf. the medieval Muslim reading of both triads
+    as Moses, Jesus and Muhammad (not a match).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 33:2
+      lang: he
+      text: וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ הוֹפִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן
+        וְאָתָ֖ה מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינ֕וֹ אשדת אֵ֥שׁ דָּ֖ת לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 95:1
+      lang: ar
+      text: وَٱلتِّينِ وَٱلزَّيْتُونِ
+    - ref: Quran 95:2
+      lang: ar
+      text: وَطُورِ سِينِينَ
+    - ref: Quran 95:3
+      lang: ar
+      text: وَهَٰذَا ٱلْبَلَدِ ٱلْأَمِينِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-josh-2-rahab-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Rahab hides the spies in Jericho ↔ Solomon, the speech of birds, the ants, the hoopoe and the Queen
   of Sheba
-summary: 'These two units share 1 motifs: a foreigner confesses that israel''s god is god in heaven above
-  and earth below.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - foreigner-confesses-israels-god
-passages:
-- tradition: judaism
-  ref: Josh 2:11
-  note: A foreigner confesses that Israel's God is God in heaven above and earth below (echoes Deut 4:39
-    verbatim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַנִּשְׁמַע֙ וַיִּמַּ֣ס לְבָבֵ֔נוּ וְלֹא קָ֨מָה ע֥וֹד ר֛וּחַ בְּאִ֖ישׁ מִפְּנֵיכֶ֑ם כִּ֚י יְהוָ֣ה
-    אֱלֹֽהֵיכֶ֔ם ה֤וּא אֱלֹהִים֙ בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּֽחַת
-- tradition: islam
-  ref: Quran 27:44
-  note: A foreigner confesses that Israel's God is God in heaven above and earth below
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا
-    قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ
-    مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīna ~ kî YHWH ʾĕlōhêkem hûʾ ʾĕlōhîm ba-ššāmayim
-    mimmaʿal wə-ʿal hā-ʾāreṣ mittāḥat: a foreign woman confesses the God of heaven and earth after hearing
-    of his power. Rahab says ''your God'', the queen ''with Solomon, to the Lord of the worlds''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foreigner confesses that Israel''s God is God in heaven above
     and earth below (weight 5.8). Pair score 5.8.'
@@ -70,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foreigner confesses that Israel's God is God in heaven above and earth below
+kinds:
+- echo
+units:
+- id: hb-josh-2-rahab
+  title: Rahab hides the spies in Jericho
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: echo
+  label: A foreigner confesses that Israel's God is God in heaven above and earth below
+  note: 'aslamtu maʿa Sulaymāna lillāhi rabbi l-ʿālamīna ~ kî YHWH ʾĕlōhêkem hûʾ ʾĕlōhîm ba-ššāmayim mimmaʿal
+    wə-ʿal hā-ʾāreṣ mittāḥat: a foreign woman confesses the God of heaven and earth after hearing of his
+    power. Rahab says ''your God'', the queen ''with Solomon, to the Lord of the worlds''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 2:11
+      lang: he
+      text: וַנִּשְׁמַע֙ וַיִּמַּ֣ס לְבָבֵ֔נוּ וְלֹא קָ֨מָה ע֥וֹד ר֛וּחַ בְּאִ֖ישׁ מִפְּנֵיכֶ֑ם כִּ֚י
+        יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֤וּא אֱלֹהִים֙ בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּֽחַת
+  - tradition: islam
+    passages:
+    - ref: Quran 27:44
+      lang: ar
+      text: قِيلَ لَهَا ٱدْخُلِى ٱلصَّرْحَ فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً وَكَشَفَتْ عَن سَاقَيْهَا
+        قَالَ إِنَّهُۥ صَرْحٌ مُّمَرَّدٌ مِّن قَوَارِيرَ قَالَتْ رَبِّ إِنِّى ظَلَمْتُ نَفْسِى وَأَسْلَمْتُ
+        مَعَ سُلَيْمَٰنَ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

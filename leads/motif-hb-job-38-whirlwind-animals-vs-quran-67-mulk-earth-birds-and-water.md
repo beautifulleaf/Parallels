@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-animals-vs-quran-67-mulk-earth-birds-and-water
 title: God's first speech from the whirlwind - the wild animals ↔ The tractable earth, the one in heaven
   who could make it swallow you, the birds held up, and the water that could sink away
-summary: 'These two units share 2 motifs: by god''s wisdom the hawk soars and spreads its wings toward
-  the south, the birds above them spreading and folding their wings: none holds them up but the merciful.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,43 +16,9 @@ layers:
 motifs:
 - hawk-migrates-south
 - birds-held-aloft-by-the-merciful
-passages:
-- tradition: judaism
-  ref: Job 39:26
-  note: By God's wisdom the hawk soars and spreads its wings toward the south (the hawk spreads its wings
-    toward the south (teman))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו כְּנָפָ֣יו לְתֵימָֽן
-- tradition: islam
-  ref: Quran 67:19
-  note: By God's wisdom the hawk soars and spreads its wings toward the south (the bird's flight sustained
-    by divine wisdom (Job 39:26))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا
-    ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
-- tradition: judaism
-  ref: Job 39:26
-  note: 'The birds above them spreading and folding their wings: none holds them up but the Merciful (a-wa-lam
-    yaraw ilā ṭ-ṭayri fawqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna illā r-raḥmān ~ hă-mi-bbînātekā yaʾăver
-    nēṣ yifrōś kenāfāyw le-têmān. The spread wings of the bird in flight held up by God, not by human
-    wisdom; both are rhetorical questions.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו כְּנָפָ֣יו לְתֵימָֽן
-- tradition: islam
-  ref: Quran 67:19
-  note: 'The birds above them spreading and folding their wings: none holds them up but the Merciful'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا
-    ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-wa-lam yaraw ilā ṭ-ṭayri fawqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna illā r-raḥmān ~
-    hă-mi-bbînātekā yaʾăver nēṣ yifrōś kenāfāyw le-têmān. The spread wings of the bird in flight held
-    up by God, not by human wisdom; both are rhetorical questions.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: By God''s wisdom the hawk soars and spreads its wings toward the
     south (weight 6.7); The birds above them spreading and folding their wings: none holds them up but
@@ -86,6 +51,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The birds above them spreading and folding their wings: none holds them up but the Merciful'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-job-38-whirlwind-animals
+  title: God's first speech from the whirlwind - the wild animals
+  tradition: judaism
+- id: quran-67-mulk-earth-birds-and-water
+  title: The tractable earth, the one in heaven who could make it swallow you, the birds held up, and
+    the water that could sink away
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The birds above them spreading and folding their wings: none holds them up but the Merciful'
+  note: a-wa-lam yaraw ilā ṭ-ṭayri fawqahum ṣāffātin wa-yaqbiḍna mā yumsikuhunna illā r-raḥmān ~ hă-mi-bbînātekā
+    yaʾăver nēṣ yifrōś kenāfāyw le-têmān. The spread wings of the bird in flight held up by God, not by
+    human wisdom; both are rhetorical questions.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 39:26
+      lang: he
+      text: הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו כְּנָפָ֣יו לְתֵימָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 67:19
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا
+        ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+- kind: shared
+  label: By God's wisdom the hawk soars and spreads its wings toward the south
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 39:26
+      lang: he
+      text: הֲֽ֭מִבִּינָ֣תְךָ יַֽאֲבֶר נֵ֑ץ יִפְרֹ֖שׂ כנפו כְּנָפָ֣יו לְתֵימָֽן
+    note: the hawk spreads its wings toward the south (teman)
+  - tradition: islam
+    passages:
+    - ref: Quran 67:19
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ مَا يُمْسِكُهُنَّ إِلَّا
+        ٱلرَّحْمَٰنُ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ
+    note: the bird's flight sustained by divine wisdom (Job 39:26)
 ---
 
 ## Questions

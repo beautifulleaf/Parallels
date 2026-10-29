@@ -2,7 +2,7 @@
 id: motif-hb-num-17-censers-plague-rod-vs-quran-3-imran-mary-zechariah
 title: Censers as altar plating, Aaron stops the plague, Aaron's rod blossoms ↔ The family of Imran, Mary
   and Zechariah
-summary: 'These two units share 1 motifs: lots, rods or reeds decide who will be the child''s guardian.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +14,9 @@ layers:
 - motif
 motifs:
 - lots-for-guardian
-passages:
-- tradition: judaism
-  ref: Num 17:20
-  note: 'Lots, rods or reeds decide who will be the child''s guardian (Num 17:20, 23 hā-ʾîš ʾăšer ʾebḥar
-    bô maṭṭēhû yipraḥ ... wĕ-hinnēh pāraḥ maṭṭēh ʾahărōn: rods laid before God decide who is chosen (Aaron);
-    Q 3:44 idh yulqūna aqlāmahum ayyuhum yakfulu maryama: they cast their reeds/pens to decide who would
-    be Mary''s guardian. Rods / pens as a divine lot among rivals; the chosen one is a priest in both
-    (Aaron, Zechariah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה הָאִ֛ישׁ אֲשֶׁ֥ר אֶבְחַר בּ֖וֹ מַטֵּ֣הוּ יִפְרָ֑ח וַהֲשִׁכֹּתִ֣י מֵֽעָלַ֗י אֶת תְּלֻנּוֹת֙
-    בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֛ר הֵ֥ם מַלִּינִ֖ם עֲלֵיכֶֽם
-- tradition: judaism
-  ref: Num 17:23
-  note: 'Lots, rods or reeds decide who will be the child''s guardian (Num 17:20, 23 hā-ʾîš ʾăšer ʾebḥar
-    bô maṭṭēhû yipraḥ ... wĕ-hinnēh pāraḥ maṭṭēh ʾahărōn: rods laid before God decide who is chosen (Aaron);
-    Q 3:44 idh yulqūna aqlāmahum ayyuhum yakfulu maryama: they cast their reeds/pens to decide who would
-    be Mary''s guardian. Rods / pens as a divine lot among rivals; the chosen one is a priest in both
-    (Aaron, Zechariah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י מִֽמָּחֳרָ֗ת וַיָּבֹ֤א מֹשֶׁה֙ אֶל אֹ֣הֶל הָעֵד֔וּת וְהִנֵּ֛ה פָּרַ֥ח מַטֵּֽה אַהֲרֹ֖ן
-    לְבֵ֣ית לֵוִ֑י וַיֹּ֤צֵֽא פֶ֨רַח֙ וַיָּ֣צֵֽץ צִ֔יץ וַיִּגְמֹ֖ל שְׁקֵדִֽים
-- tradition: islam
-  ref: Quran 3:44
-  note: Lots, rods or reeds decide who will be the child's guardian (they cast their pens (aqlam))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ
-    أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 17:20, 23 hā-ʾîš ʾăšer ʾebḥar bô maṭṭēhû yipraḥ ... wĕ-hinnēh pāraḥ maṭṭēh ʾahărōn: rods
-    laid before God decide who is chosen (Aaron); Q 3:44 idh yulqūna aqlāmahum ayyuhum yakfulu maryama:
-    they cast their reeds/pens to decide who would be Mary''s guardian. Rods / pens as a divine lot among
-    rivals; the chosen one is a priest in both (Aaron, Zechariah).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Lots, rods or reeds decide who will be the child''s guardian (weight
     6.0). Pair score 6.0.'
@@ -80,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Lots, rods or reeds decide who will be the child's guardian
+kinds:
+- echo
+units:
+- id: hb-num-17-censers-plague-rod
+  title: Censers as altar plating, Aaron stops the plague, Aaron's rod blossoms
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: echo
+  label: Lots, rods or reeds decide who will be the child's guardian
+  note: 'Num 17:20, 23 hā-ʾîš ʾăšer ʾebḥar bô maṭṭēhû yipraḥ ... wĕ-hinnēh pāraḥ maṭṭēh ʾahărōn: rods
+    laid before God decide who is chosen (Aaron); Q 3:44 idh yulqūna aqlāmahum ayyuhum yakfulu maryama:
+    they cast their reeds/pens to decide who would be Mary''s guardian. Rods / pens as a divine lot among
+    rivals; the chosen one is a priest in both (Aaron, Zechariah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 17:20
+      lang: he
+      text: וְהָיָ֗ה הָאִ֛ישׁ אֲשֶׁ֥ר אֶבְחַר בּ֖וֹ מַטֵּ֣הוּ יִפְרָ֑ח וַהֲשִׁכֹּתִ֣י מֵֽעָלַ֗י אֶת תְּלֻנּוֹת֙
+        בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֛ר הֵ֥ם מַלִּינִ֖ם עֲלֵיכֶֽם
+    - ref: Num 17:23
+      lang: he
+      text: וַיְהִ֣י מִֽמָּחֳרָ֗ת וַיָּבֹ֤א מֹשֶׁה֙ אֶל אֹ֣הֶל הָעֵד֔וּת וְהִנֵּ֛ה פָּרַ֥ח מַטֵּֽה אַהֲרֹ֖ן
+        לְבֵ֣ית לֵוִ֑י וַיֹּ֤צֵֽא פֶ֨רַח֙ וַיָּ֣צֵֽץ צִ֔יץ וַיִּגְמֹ֖ל שְׁקֵדִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 3:44
+      lang: ar
+      text: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ
+        أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
 ---
 
 ## Questions

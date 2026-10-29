@@ -2,9 +2,7 @@
 id: motif-hb-job-20-zophar-portion-of-wicked-vs-quran-47-muhammad-battle-and-rivers
 title: 'Zophar''s second speech - the portion of the wicked ↔ Muhammad: deeds nullified, striking necks
   and freeing captives, and the four rivers of the Garden'
-summary: 'These two units share 3 motifs: streams and rivers flowing with honey and curds (denied to the
-  wicked), rivers or streams of honey and milk (curds) [divergence between the texts], promised land described
-  as flowing with milk and honey.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,77 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- rivers-of-honey-and-curds
 - rivers-of-honey-and-milk-as-divergence
+- rivers-of-honey-and-curds
 - land-flowing-milk-and-honey
-passages:
-- tradition: judaism
-  ref: Job 20:17
-  note: Streams and rivers flowing with honey and curds (denied to the wicked)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
-- tradition: islam
-  ref: Quran 47:15
-  note: Streams and rivers flowing with honey and curds (denied to the wicked)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
-- tradition: judaism
-  ref: Job 20:17
-  note: 'Rivers or streams of honey and milk (curds) [divergence between the texts] (Rivers of honey and
-    dairy. Job: ʾal yēreʾ ḇi-p̄laggôṯ naharê naḥălê dəḇaš wə-ḥemʾâ (the wicked will not see the streams,
-    the rivers of honey and curds). Quran: fīhā anhārun min māʾin ghayri āsin wa-anhārun min labanin lam
-    yataghayyar ṭaʿmuhu wa-anhārun min khamrin ... wa-anhārun min ʿasalin muṣaffā (nahar / anhār; dəḇaš
-    / ʿasal; ḥemʾâ / laban). In Job they are earthly plenty withheld from the wicked; in the Quran they
-    are in the Garden promised to the God-fearing, and wine and water are added.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
-- tradition: islam
-  ref: Quran 47:15
-  note: 'Rivers or streams of honey and milk (curds) [divergence between the texts] (Rivers of honey and
-    dairy. Job: ʾal yēreʾ ḇi-p̄laggôṯ naharê naḥălê dəḇaš wə-ḥemʾâ (the wicked will not see the streams,
-    the rivers of honey and curds). Quran: fīhā anhārun min māʾin ghayri āsin wa-anhārun min labanin lam
-    yataghayyar ṭaʿmuhu wa-anhārun min khamrin ... wa-anhārun min ʿasalin muṣaffā (nahar / anhār; dəḇaš
-    / ʿasal; ḥemʾâ / laban). In Job they are earthly plenty withheld from the wicked; in the Quran they
-    are in the Garden promised to the God-fearing, and wine and water are added.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
-- tradition: judaism
-  ref: Job 20:17
-  note: Promised land described as flowing with milk and honey (here honey and butter/curds)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
-- tradition: islam
-  ref: Quran 47:15
-  note: Promised land described as flowing with milk and honey
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Rivers of honey and dairy. Job: ʾal yēreʾ ḇi-p̄laggôṯ naharê naḥălê dəḇaš wə-ḥemʾâ (the
-    wicked will not see the streams, the rivers of honey and curds). Quran: fīhā anhārun min māʾin ghayri
-    āsin wa-anhārun min labanin lam yataghayyar ṭaʿmuhu wa-anhārun min khamrin ... wa-anhārun min ʿasalin
-    muṣaffā (nahar / anhār; dəḇaš / ʿasal; ḥemʾâ / laban). In Job they are earthly plenty withheld from
-    the wicked; in the Quran they are in the Garden promised to the God-fearing, and wine and water are
-    added.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Streams and rivers flowing with honey and curds (denied to the wicked)
-    (weight 6.7); Rivers or streams of honey and milk (curds) [divergence between the texts] (weight 6.7);
-    Promised land described as flowing with milk and honey (weight 4.6). Pair score 18.0.'
+- text: 'Shared motifs, rarest first: Rivers or streams of honey and milk (curds) [divergence between
+    the texts] (weight 6.7); Streams and rivers flowing with honey and curds (denied to the wicked) (weight
+    6.7); Promised land described as flowing with milk and honey (weight 4.6). Pair score 18.0.'
   basis: reading
 - text: 'Only in Zophar''s second speech - the portion of the wicked: Fleeing an iron weapon, the wicked
     is pierced by a bronze bow; the glittering arrow comes out of his gall; Evil held sweet under the
@@ -117,6 +54,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rivers or streams of honey and milk (curds)
+kinds:
+- divergence
+- shared
+units:
+- id: hb-job-20-zophar-portion-of-wicked
+  title: Zophar's second speech - the portion of the wicked
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Rivers or streams of honey and milk (curds)
+  note: 'Rivers of honey and dairy. Job: ʾal yēreʾ ḇi-p̄laggôṯ naharê naḥălê dəḇaš wə-ḥemʾâ (the wicked
+    will not see the streams, the rivers of honey and curds). Quran: fīhā anhārun min māʾin ghayri āsin
+    wa-anhārun min labanin lam yataghayyar ṭaʿmuhu wa-anhārun min khamrin ... wa-anhārun min ʿasalin muṣaffā
+    (nahar / anhār; dəḇaš / ʿasal; ḥemʾâ / laban). In Job they are earthly plenty withheld from the wicked;
+    in the Quran they are in the Garden promised to the God-fearing, and wine and water are added.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 20:17
+      lang: he
+      text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+- kind: shared
+  label: Streams and rivers flowing with honey and curds (denied to the wicked)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 20:17
+      lang: he
+      text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+- kind: shared
+  label: Promised land described as flowing with milk and honey
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 20:17
+      lang: he
+      text: אַל יֵ֥רֶא בִפְלַגּ֑וֹת נַהֲרֵ֥י נַ֝חֲלֵ֗י דְּבַ֣שׁ וְחֶמְאָֽה
+    note: here honey and butter/curds
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
 ---
 
 ## Questions

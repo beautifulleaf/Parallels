@@ -2,8 +2,7 @@
 id: motif-hb-jer-21-zedekiah-inquiry-vs-quran-90-city
 title: 'Zedekiah''s inquiry - the way of life and the way of death ↔ The city: the two highways and the
   steep ascent'
-summary: 'These two units share 1 motifs: i set before you life and death, blessing and curse: choose
-  life.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - choose-life
-passages:
-- tradition: judaism
-  ref: Jer 21:8
-  note: 'I set before you life and death, blessing and curse: choose life (''I set before you the way
-    of life and the way of death'' (Deut 30:15 reversed into surrender))'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל הָעָ֤ם הַזֶּה֙ תֹּאמַ֔ר כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנְנִ֤י נֹתֵן֙ לִפְנֵיכֶ֔ם אֶת דֶּ֥רֶךְ הַחַיִּ֖ים
-    וְאֶת דֶּ֥רֶךְ הַמָּֽוֶת
-- tradition: islam
-  ref: Quran 90:10
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
-- tradition: islam
-  ref: Quran 90:18
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-hadaynāhu n-najdayn (we showed him the two highways) ~ hinnî nōtēn li-fnêkem ʾet derek
-    ha-ḥayyîm we-ʾet derek ha-mmāwet: two ways set before man by God.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
     (weight 5.6). Pair score 5.6.'
@@ -74,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'I set before you life and death, blessing and curse: choose life'
+kinds:
+- parallel
+units:
+- id: hb-jer-21-zedekiah-inquiry
+  title: Zedekiah's inquiry - the way of life and the way of death
+  tradition: judaism
+- id: quran-90-city
+  title: 'The city: the two highways and the steep ascent'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'I set before you life and death, blessing and curse: choose life'
+  note: 'wa-hadaynāhu n-najdayn (we showed him the two highways) ~ hinnî nōtēn li-fnêkem ʾet derek ha-ḥayyîm
+    we-ʾet derek ha-mmāwet: two ways set before man by God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 21:8
+      lang: he
+      text: וְאֶל הָעָ֤ם הַזֶּה֙ תֹּאמַ֔ר כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנְנִ֤י נֹתֵן֙ לִפְנֵיכֶ֔ם אֶת דֶּ֥רֶךְ
+        הַחַיִּ֖ים וְאֶת דֶּ֥רֶךְ הַמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 90:10
+      lang: ar
+      text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
 ---
 
 ## Questions

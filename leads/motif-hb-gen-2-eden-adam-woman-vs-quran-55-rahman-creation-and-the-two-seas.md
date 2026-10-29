@@ -2,7 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Second creation account, Eden, and the making of woman ↔ Al-Rahman: the Merciful taught the Quran;
   sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
-    Gen 2:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 55:14
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ vs. khalaqa l-insāna min ṣalṣālin
-    ka-l-fakhkhār. Dust from the ground (and the potter''s verb yāṣar) in Genesis; dry, ringing clay like
-    pottery in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -72,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ vs. khalaqa l-insāna min ṣalṣālin ka-l-fakhkhār.
+    Dust from the ground (and the potter's verb yāṣar) in Genesis; dry, ringing clay like pottery in the
+    Quran.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 55:14
+      lang: ar
+      text: خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-18-abraham-bargains-vs-quran-68-qalam-shin-and-jonah
 title: Abraham bargains for Sodom ↔ Do you have a book or oaths binding God?; the shin laid bare; the
   companion of the fish; the evil eye
-summary: 'These two units share 1 motifs: do evildoers think god will make them equal to the righteous
-  in life and in death?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - wicked-not-equal-to-righteous-in-life-and-death
-passages:
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Do evildoers think God will make them equal to the righteous in life and in death? (Treating
-    righteous and wicked alike is unthinkable for God: ḥālilâ lləḵā ... lə-hāmîṯ ṣaddîq ʿim rāšāʿ wə-hāyâ
-    ḵaṣ-ṣaddîq kā-rāšāʿ; hă-šōp̄ēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ vs. an najʿalahum ka-lladhīna āmanū
-    ... sawāʾan; sāʾa mā yaḥkumūn. Abraham puts it to God as a challenge; the Quran puts it as God''s
-    rebuke of the wicked''s presumption.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 68:35
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ
-- tradition: islam
-  ref: Quran 68:36
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-fa-najʿalu l-muslimīna ka-l-mujrimīn, mā lakum kayfa taḥkumūn ~ ḥālilāh lekā ... le-hāmît
-    ṣaddîq ʿim rāšāʿ we-hāyāh ka-ṣṣaddîq kā-rāšāʿ ... hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ. The same
-    rhetorical principle; the speaker is reversed: Abraham puts it to God, God puts it to the deniers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do evildoers think God will make them equal to the righteous in
     life and in death? (weight 5.6). Pair score 5.6.'
@@ -81,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do evildoers think God will make them equal to the righteous in life and in death?
+kinds:
+- parallel
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do evildoers think God will make them equal to the righteous in life and in death?
+  note: 'a-fa-najʿalu l-muslimīna ka-l-mujrimīn, mā lakum kayfa taḥkumūn ~ ḥālilāh lekā ... le-hāmît ṣaddîq
+    ʿim rāšāʿ we-hāyāh ka-ṣṣaddîq kā-rāšāʿ ... hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ. The same rhetorical
+    principle; the speaker is reversed: Abraham puts it to God, God puts it to the deniers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:25
+      lang: he
+      text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
+        כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 68:35
+      lang: ar
+      text: أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ
+    - ref: Quran 68:36
+      lang: ar
+      text: مَا لَكُمْ كَيْفَ تَحْكُمُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-34-elihu-defends-gods-justice-vs-quran-8-death-angels-custom
 title: Elihu - God cannot do wrong ↔ Angels at the death of unbelievers; the custom of Pharaoh's people
-summary: 'These two units share 1 motifs: ''far be it from god to do wickedness, from shaddai to do wrong'';
-  he repays a man according to his deeds.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - far-be-it-from-god-to-do-wrong
-passages:
-- tradition: judaism
-  ref: Job 34:10
-  note: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
-    to his deeds'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֤ן אַ֥נֲשֵׁ֥י לֵבָ֗ב שִׁמְע֫וּ לִ֥י חָלִ֖לָה לָאֵ֥ל מֵרֶ֗שַׁע וְשַׁדַּ֥י מֵעָֽוֶל
-- tradition: judaism
-  ref: Job 34:11
-  note: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
-    to his deeds'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י פֹ֣עַל אָ֭דָם יְשַׁלֶּם ל֑וֹ וּֽכְאֹ֥רַח אִ֝֗ישׁ יַמְצִאֶֽנּוּ
-- tradition: islam
-  ref: Quran 8:51
-  note: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
-    to his deeds (Punishment is the deeds repaid, never divine injustice: dhālika bi-mā qaddamat aydīkum
-    wa-anna llāha laysa bi-ẓallāmin li-l-ʿabīd vs ḥālilāh lāʾēl mēreša ʿ wᵉšadday mēʿāwel kî pōʿal ʾādām
-    yᵉšallem-lô.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍ لِّلْعَبِيدِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Punishment is the deeds repaid, never divine injustice: dhālika bi-mā qaddamat aydīkum wa-anna
-    llāha laysa bi-ẓallāmin li-l-ʿabīd vs ḥālilāh lāʾēl mēreša ʿ wᵉšadday mēʿāwel kî pōʿal ʾādām yᵉšallem-lô.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Far be it from God to do wickedness, from Shaddai to do wrong'';
     he repays a man according to his deeds (weight 6.0). Pair score 6.0.'
@@ -71,6 +45,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+  to his deeds'
+kinds:
+- parallel
+units:
+- id: hb-job-34-elihu-defends-gods-justice
+  title: Elihu - God cannot do wrong
+  tradition: judaism
+- id: quran-8-death-angels-custom
+  title: Angels at the death of unbelievers; the custom of Pharaoh's people
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+    to his deeds'
+  note: 'Punishment is the deeds repaid, never divine injustice: dhālika bi-mā qaddamat aydīkum wa-anna
+    llāha laysa bi-ẓallāmin li-l-ʿabīd vs ḥālilāh lāʾēl mēreša ʿ wᵉšadday mēʿāwel kî pōʿal ʾādām yᵉšallem-lô.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 34:10
+      lang: he
+      text: לָכֵ֤ן אַ֥נֲשֵׁ֥י לֵבָ֗ב שִׁמְע֫וּ לִ֥י חָלִ֖לָה לָאֵ֥ל מֵרֶ֗שַׁע וְשַׁדַּ֥י מֵעָֽוֶל
+    - ref: Job 34:11
+      lang: he
+      text: כִּ֤י פֹ֣עַל אָ֭דָם יְשַׁלֶּם ל֑וֹ וּֽכְאֹ֥רַח אִ֝֗ישׁ יַמְצִאֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:51
+      lang: ar
+      text: ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍ لِّلْعَبِيدِ
 ---
 
 ## Questions

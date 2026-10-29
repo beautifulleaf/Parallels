@@ -2,8 +2,7 @@
 id: motif-hb-num-27-zelophehad-joshua-vs-quran-33-adoption-and-zihar
 title: Daughters of Zelophehad; Moses views the land; Joshua commissioned ↔ Two hearts, zihar, adopted
   sons, and the prophet's wives as mothers
-summary: 'These two units share 1 motifs: blood relatives are nearer to one another (in inheritance) in
-  god''s book.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - kin-nearer-in-book-of-god
-passages:
-- tradition: judaism
-  ref: Num 27:9
-  note: 'Blood relatives are nearer to one another (in inheritance) in God''s book (wə-nəṯattem ʾeṯ-naḥălāṯô
-    li-šʾērô ha-qqārōḇ ʾēlâw mi-mmišpaḥtô ... lə-ḥuqqaṯ mišpāṭ vs. wa-ulū l-arḥāmi baʿḍuhum awlā bi-baʿḍin
-    fī kitābi llāh: inheritance goes by nearness of blood as written law. The Quran adds that it comes
-    before the bond of faith and emigration (mina l-muʾminīna wa-l-muhājirīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אֵ֥ין ל֖וֹ בַּ֑ת וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לְאֶחָיו
-- tradition: judaism
-  ref: Num 27:10
-  note: 'Blood relatives are nearer to one another (in inheritance) in God''s book (wə-nəṯattem ʾeṯ-naḥălāṯô
-    li-šʾērô ha-qqārōḇ ʾēlâw mi-mmišpaḥtô ... lə-ḥuqqaṯ mišpāṭ vs. wa-ulū l-arḥāmi baʿḍuhum awlā bi-baʿḍin
-    fī kitābi llāh: inheritance goes by nearness of blood as written law. The Quran adds that it comes
-    before the bond of faith and emigration (mina l-muʾminīna wa-l-muhājirīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אֵ֥ין ל֖וֹ אַחִ֑ים וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לַאֲחֵ֥י אָבִֽיו
-- tradition: islam
-  ref: Quran 33:6
-  note: Blood relatives are nearer to one another (in inheritance) in God's book
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟
-    ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ
-    إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-nəṯattem ʾeṯ-naḥălāṯô li-šʾērô ha-qqārōḇ ʾēlâw mi-mmišpaḥtô ... lə-ḥuqqaṯ mišpāṭ vs.
-    wa-ulū l-arḥāmi baʿḍuhum awlā bi-baʿḍin fī kitābi llāh: inheritance goes by nearness of blood as written
-    law. The Quran adds that it comes before the bond of faith and emigration (mina l-muʾminīna wa-l-muhājirīn).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blood relatives are nearer to one another (in inheritance) in God''s
     book (weight 6.3). Pair score 6.3.'
@@ -79,6 +49,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Blood relatives are nearer to one another (in inheritance) in God's book
+kinds:
+- parallel
+units:
+- id: hb-num-27-zelophehad-joshua
+  title: Daughters of Zelophehad; Moses views the land; Joshua commissioned
+  tradition: judaism
+- id: quran-33-adoption-and-zihar
+  title: Two hearts, zihar, adopted sons, and the prophet's wives as mothers
+  tradition: islam
+matches:
+- kind: parallel
+  label: Blood relatives are nearer to one another (in inheritance) in God's book
+  note: 'wə-nəṯattem ʾeṯ-naḥălāṯô li-šʾērô ha-qqārōḇ ʾēlâw mi-mmišpaḥtô ... lə-ḥuqqaṯ mišpāṭ vs. wa-ulū
+    l-arḥāmi baʿḍuhum awlā bi-baʿḍin fī kitābi llāh: inheritance goes by nearness of blood as written
+    law. The Quran adds that it comes before the bond of faith and emigration (mina l-muʾminīna wa-l-muhājirīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 27:9
+      lang: he
+      text: וְאִם אֵ֥ין ל֖וֹ בַּ֑ת וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לְאֶחָיו
+    - ref: Num 27:10
+      lang: he
+      text: וְאִם אֵ֥ין ל֖וֹ אַחִ֑ים וּנְתַתֶּ֥ם אֶת נַחֲלָת֖וֹ לַאֲחֵ֥י אָבִֽיו
+    - ref: Num 27:11
+      lang: he
+      text: וְאִם אֵ֣ין אַחִים֮ לְאָבִיו֒ וּנְתַתֶּ֣ם אֶת נַחֲלָת֗וֹ לִשְׁאֵר֞וֹ הַקָּרֹ֥ב אֵלָ֛יו מִמִּשְׁפַּחְתּ֖וֹ
+        וְיָרַ֣שׁ אֹתָ֑הּ וְֽהָ֨יְתָ֜ה לִבְנֵ֤י יִשְׂרָאֵל֙ לְחֻקַּ֣ת מִשְׁפָּ֔ט כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה
+        אֶת מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 33:6
+      lang: ar
+      text: ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ وَأُو۟لُوا۟
+        ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَٰجِرِينَ
+        إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا كَانَ ذَٰلِكَ فِى ٱلْكِتَٰبِ مَسْطُورًا
 ---
 
 ## Questions

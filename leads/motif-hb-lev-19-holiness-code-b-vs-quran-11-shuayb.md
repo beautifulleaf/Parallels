@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-11-shuayb
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ Shu'ayb - measures, the prayer
   that commands, the clan
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Lev 19:35
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
-- tradition: judaism
-  ref: Lev 19:36
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם
-    אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 11:84
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
-    عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
-- tradition: islam
-  ref: Quran 11:85
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
-    وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Honest measure and weight as God''s command: wa-lā tanquṣū l-mikyāla wa-l-mīzān ... awfū
-    l-mikyāla wa-l-mīzāna bi-l-qisṭ vs lōʾ-taʿăśû ʿāwel bammišpāṭ bammiddāh bammišqāl ûbammᵉśûrāh mōʾznê
-    ṣedeq ʾabnê-ṣedeq ʾêpat ṣedeq. In Lev it is Israel''s law; in Q the message of Shuʿayb to Midian (madyan),
-    a non-Israelite people.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -84,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'Honest measure and weight as God''s command: wa-lā tanquṣū l-mikyāla wa-l-mīzān ... awfū l-mikyāla
+    wa-l-mīzāna bi-l-qisṭ vs lōʾ-taʿăśû ʿāwel bammišpāṭ bammiddāh bammišqāl ûbammᵉśûrāh mōʾznê ṣedeq ʾabnê-ṣedeq
+    ʾêpat ṣedeq. In Lev it is Israel''s law; in Q the message of Shuʿayb to Midian (madyan), a non-Israelite
+    people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:35
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
+    - ref: Lev 19:36
+      lang: he
+      text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה
+        אֱלֹֽהֵיכֶ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 11:84
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
+        عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
+    - ref: Quran 11:85
+      lang: ar
+      text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
+        وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

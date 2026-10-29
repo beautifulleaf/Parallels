@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-11-babel-vs-quran-2-community-trials
 title: The Tower of Babel ↔ The corrupter, God in clouds, one community, fighting in the sacred month
-summary: 'These two units share 1 motifs: mankind once one, then divided [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,51 +13,9 @@ layers:
 - motif
 motifs:
 - original-unity-of-mankind-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 11:1
-  note: 'Mankind once one, then divided [divergence between the texts] (Gen 11:1, 8 wa-yhî kol hā-ʾāreṣ
-    śāpâ ʾeḥāt ... wa-yyāpeṣ YHWH ʾōtām: mankind of one speech, scattered by God; Q 2:213 kāna n-nāsu
-    ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna ... wa-mā khtalafa fīhi illā lladhīna ūtūhu ... baghyan
-    baynahum: mankind one community, then prophets and the Book sent, and division caused by those who
-    received it, out of mutual envy. Original unity in both; its end is God''s act in Genesis and human
-    rivalry over scripture in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
-- tradition: judaism
-  ref: Gen 11:8
-  note: 'Mankind once one, then divided [divergence between the texts] (Gen 11:1, 8 wa-yhî kol hā-ʾāreṣ
-    śāpâ ʾeḥāt ... wa-yyāpeṣ YHWH ʾōtām: mankind of one speech, scattered by God; Q 2:213 kāna n-nāsu
-    ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna ... wa-mā khtalafa fīhi illā lladhīna ūtūhu ... baghyan
-    baynahum: mankind one community, then prophets and the Book sent, and division caused by those who
-    received it, out of mutual envy. Original unity in both; its end is God''s act in Genesis and human
-    rivalry over scripture in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֨פֶץ יְהוָ֥ה אֹתָ֛ם מִשָּׁ֖ם עַל פְּנֵ֣י כָל הָאָ֑רֶץ וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר
-- tradition: islam
-  ref: Quran 2:213
-  note: 'Mankind once one, then divided [divergence between the texts] (Gen 11:1, 8 wa-yhî kol hā-ʾāreṣ
-    śāpâ ʾeḥāt ... wa-yyāpeṣ YHWH ʾōtām: mankind of one speech, scattered by God; Q 2:213 kāna n-nāsu
-    ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna ... wa-mā khtalafa fīhi illā lladhīna ūtūhu ... baghyan
-    baynahum: mankind one community, then prophets and the Book sent, and division caused by those who
-    received it, out of mutual envy. Original unity in both; its end is God''s act in Genesis and human
-    rivalry over scripture in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ
-    مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ وَمَا ٱخْتَلَفَ
-    فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا بَيْنَهُمْ فَهَدَى
-    ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ وَٱللَّهُ يَهْدِى
-    مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 11:1, 8 wa-yhî kol hā-ʾāreṣ śāpâ ʾeḥāt ... wa-yyāpeṣ YHWH ʾōtām: mankind of one speech,
-    scattered by God; Q 2:213 kāna n-nāsu ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna ... wa-mā khtalafa
-    fīhi illā lladhīna ūtūhu ... baghyan baynahum: mankind one community, then prophets and the Book sent,
-    and division caused by those who received it, out of mutual envy. Original unity in both; its end
-    is God''s act in Genesis and human rivalry over scripture in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mankind once one, then divided [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -88,6 +46,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mankind once one, then divided
+kinds:
+- divergence
+units:
+- id: hb-gen-11-babel
+  title: The Tower of Babel
+  tradition: judaism
+- id: quran-2-community-trials
+  title: The corrupter, God in clouds, one community, fighting in the sacred month
+  tradition: islam
+matches:
+- kind: divergence
+  label: Mankind once one, then divided
+  note: 'Gen 11:1, 8 wa-yhî kol hā-ʾāreṣ śāpâ ʾeḥāt ... wa-yyāpeṣ YHWH ʾōtām: mankind of one speech, scattered
+    by God; Q 2:213 kāna n-nāsu ummatan wāḥidatan fa-baʿatha llāhu n-nabiyyīna ... wa-mā khtalafa fīhi
+    illā lladhīna ūtūhu ... baghyan baynahum: mankind one community, then prophets and the Book sent,
+    and division caused by those who received it, out of mutual envy. Original unity in both; its end
+    is God''s act in Genesis and human rivalry over scripture in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:1
+      lang: he
+      text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
+    - ref: Gen 11:8
+      lang: he
+      text: וַיָּ֨פֶץ יְהוָ֥ה אֹתָ֛ם מִשָּׁ֖ם עַל פְּנֵ֣י כָל הָאָ֑רֶץ וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:213
+      lang: ar
+      text: كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّۦنَ مُبَشِّرِينَ وَمُنذِرِينَ
+        وَأَنزَلَ مَعَهُمُ ٱلْكِتَٰبَ بِٱلْحَقِّ لِيَحْكُمَ بَيْنَ ٱلنَّاسِ فِيمَا ٱخْتَلَفُوا۟ فِيهِ
+        وَمَا ٱخْتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ بَغْيًۢا
+        بَيْنَهُمْ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ لِمَا ٱخْتَلَفُوا۟ فِيهِ مِنَ ٱلْحَقِّ بِإِذْنِهِۦ
+        وَٱللَّهُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 ---
 
 ## Questions

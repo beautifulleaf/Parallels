@@ -3,7 +3,7 @@ id: motif-hb-exod-6-name-and-levite-genealogy-vs-quran-66-tahrim-wives-and-the-f
 title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron ↔ Al-Tahrim:
   the prohibited thing and the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s
   wife and Mary daughter of ''Imran'
-summary: 'These two units share 1 motifs: miriam / maryam named as the daughter of amram / ʿimran.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - daughter-of-amram-named-miriam
-passages:
-- tradition: judaism
-  ref: Exod 6:20
-  note: 'Miriam / Maryam named as the daughter of Amram / ʿImran (ʿimrān ~ wa-yiqqaḥ ʿAmrām ʾet Yôkeved
-    ... wa-tēled lô ʾet ʾAhărōn we-ʾet Mōšeh: Amram as father of the prophets'' family (Miriam unnamed
-    here; named in Num 26:59).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח עַמְרָ֜ם אֶת יוֹכֶ֤בֶד דֹּֽדָתוֹ֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֣לֶד ל֔וֹ אֶֽת אַהֲרֹ֖ן וְאֶת
-    מֹשֶׁ֑ה וּשְׁנֵי֙ חַיֵּ֣י עַמְרָ֔ם שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה
-- tradition: islam
-  ref: Quran 66:12
-  note: 'Miriam / Maryam named as the daughter of Amram / ʿImran (maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām
-    ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The Hebrew Bible''s only Miriam is the daughter of
-    Amram and sister of Aaron; the Quran gives the mother of Jesus the same name and father. Leads only:
-    the identification question is for the checkers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ
-    بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. ʿimrān ~ wa-yiqqaḥ ʿAmrām ʾet Yôkeved ... wa-tēled lô ʾet ʾAhărōn we-ʾet Mōšeh: Amram as father
-    of the prophets'' family (Miriam unnamed here; named in Num 26:59).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Miriam / Maryam named as the daughter of Amram / ʿImran (weight
     6.3). Pair score 6.3.'
@@ -78,6 +57,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Miriam / Maryam named as the daughter of Amram / ʿImran
+kinds:
+- echo
+units:
+- id: hb-exod-6-name-and-levite-genealogy
+  title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron'
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: Miriam / Maryam named as the daughter of Amram / ʿImran
+  note: 'ʿimrān ~ wa-yiqqaḥ ʿAmrām ʾet Yôkeved ... wa-tēled lô ʾet ʾAhărōn we-ʾet Mōšeh: Amram as father
+    of the prophets'' family (Miriam unnamed here; named in Num 26:59).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 6:20
+      lang: he
+      text: וַיִּקַּ֨ח עַמְרָ֜ם אֶת יוֹכֶ֤בֶד דֹּֽדָתוֹ֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֣לֶד ל֔וֹ אֶֽת אַהֲרֹ֖ן
+        וְאֶת מֹשֶׁ֑ה וּשְׁנֵי֙ חַיֵּ֣י עַמְרָ֔ם שֶׁ֧בַע וּשְׁלֹשִׁ֛ים וּמְאַ֖ת שָׁנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 66:12
+      lang: ar
+      text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا
+        وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
 ---
 
 ## Questions

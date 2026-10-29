@@ -2,8 +2,7 @@
 id: motif-hb-lev-7-guilt-peace-portions-vs-quran-16-abrogation-food-abraham-sabbath
 title: Guilt and well-being offerings; priests' portions; fat and blood bans ↔ Abrogation, the foreign
   teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 2 motifs: good foods once lawful were forbidden to the jews as punishment
-  for their wrongdoing [response between the texts], eating blood is forbidden.'
+summary: '2 correspondences read side by side: 1 answers the other, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,64 +17,9 @@ layers:
 motifs:
 - good-things-forbidden-to-jews-as-punishment-as-response
 - prohibition-of-eating-blood
-passages:
-- tradition: judaism
-  ref: Lev 7:23
-  note: 'Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing [response
-    between the texts] (Lev gives the fat ban as a permanent cultic law: kol-ḥēleb šôr wəkeśeb wāʿēz lōʾ
-    tōʾkēlû ... wənikrətâ hannepeš. Q explains such restrictions on ''those who are Jews'' as imposed
-    for their wrongdoing, wa-mā ẓalamnāhum wa-lākin kānū anfusahum yaẓlimūn, referring back (mā qaṣaṣnā
-    ʿalayka min qabl) to Q 6:146, which names the fat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֛ר אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ
-- tradition: judaism
-  ref: Lev 7:24
-  note: 'Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing [response
-    between the texts] (Lev gives the fat ban as a permanent cultic law: kol-ḥēleb šôr wəkeśeb wāʿēz lōʾ
-    tōʾkēlû ... wənikrətâ hannepeš. Q explains such restrictions on ''those who are Jews'' as imposed
-    for their wrongdoing, wa-mā ẓalamnāhum wa-lākin kānū anfusahum yaẓlimūn, referring back (mā qaṣaṣnā
-    ʿalayka min qabl) to Q 6:146, which names the fat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחֵ֤לֶב נְבֵלָה֙ וְחֵ֣לֶב טְרֵפָ֔ה יֵעָשֶׂ֖ה לְכָל מְלָאכָ֑ה וְאָכֹ֖ל לֹ֥א תֹאכְלֻֽהוּ
-- tradition: islam
-  ref: Quran 16:118
-  note: 'Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing [response
-    between the texts] (Lev gives the fat ban as a permanent cultic law: kol-ḥēleb šôr wəkeśeb wāʿēz lōʾ
-    tōʾkēlû ... wənikrətâ hannepeš. Q explains such restrictions on ''those who are Jews'' as imposed
-    for their wrongdoing, wa-mā ẓalamnāhum wa-lākin kānū anfusahum yaẓlimūn, referring back (mā qaṣaṣnā
-    ʿalayka min qabl) to Q 6:146, which names the fat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن
-    كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Lev 7:26
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
-- tradition: judaism
-  ref: Lev 7:27
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 16:115
-  note: Eating blood is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel, response. wəkol-dām lōʾ tōʾkəlû bəkōl môšəbōtêkem; wa-d-dam among the four prohibitions.
-    Lev gives the fat ban as a permanent cultic law: kol-ḥēleb šôr wəkeśeb wāʿēz lōʾ tōʾkēlû ... wənikrətâ
-    hannepeš. Q explains such restrictions on ''those who are Jews'' as imposed for their wrongdoing,
-    wa-mā ẓalamnāhum wa-lākin kānū anfusahum yaẓlimūn, referring back (mā qaṣaṣnā ʿalayka min qabl) to
-    Q 6:146, which names the fat.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Good foods once lawful were forbidden to the Jews as punishment
     for their wrongdoing [response between the texts] (weight 6.7); Eating blood is forbidden (weight
@@ -112,6 +56,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing
+kinds:
+- response
+- parallel
+units:
+- id: hb-lev-7-guilt-peace-portions
+  title: Guilt and well-being offerings; priests' portions; fat and blood bans
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: response
+  label: Good foods once lawful were forbidden to the Jews as punishment for their wrongdoing
+  note: 'Lev gives the fat ban as a permanent cultic law: kol-ḥēleb šôr wəkeśeb wāʿēz lōʾ tōʾkēlû ...
+    wənikrətâ hannepeš. Q explains such restrictions on ''those who are Jews'' as imposed for their wrongdoing,
+    wa-mā ẓalamnāhum wa-lākin kānū anfusahum yaẓlimūn, referring back (mā qaṣaṣnā ʿalayka min qabl) to
+    Q 6:146, which names the fat.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 7:23
+      lang: he
+      text: דַּבֵּ֛ר אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ
+    - ref: Lev 7:24
+      lang: he
+      text: וְחֵ֤לֶב נְבֵלָה֙ וְחֵ֣לֶב טְרֵפָ֔ה יֵעָשֶׂ֖ה לְכָל מְלָאכָ֑ה וְאָכֹ֖ל לֹ֥א תֹאכְלֻֽהוּ
+    - ref: Lev 7:25
+      lang: he
+      text: כִּ֚י כָּל אֹכֵ֣ל חֵ֔לֶב מִן הַ֨בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהוָ֑ה וְנִכְרְתָ֛ה
+        הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:118
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا مَا قَصَصْنَا عَلَيْكَ مِن قَبْلُ وَمَا ظَلَمْنَٰهُمْ
+        وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: parallel
+  label: Eating blood is forbidden
+  note: wəkol-dām lōʾ tōʾkəlû bəkōl môšəbōtêkem; wa-d-dam among the four prohibitions.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 7:26
+      lang: he
+      text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
+    - ref: Lev 7:27
+      lang: he
+      text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:115
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ
+        ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

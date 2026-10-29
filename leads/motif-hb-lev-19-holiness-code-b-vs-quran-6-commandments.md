@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-6-commandments
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ The recited commandments (the
   Quranic decalogue)
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Lev 19:35
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
-- tradition: judaism
-  ref: Lev 19:36
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם
-    אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 6:152
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-awfū l-kayla wa-l-mīzāna bi-l-qisṭi. Lev: lōʾ-taʿăśû ʿāwel bam-mišpāṭ bam-middāh bam-mišqāl
-    ... mōʾznê ṣedeq ʾavnê-ṣedeq. Q puts just measure into its commandment list; Lev attaches it to the
-    Exodus formula.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -77,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-6-commandments
+  title: The recited commandments (the Quranic decalogue)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'Q: wa-awfū l-kayla wa-l-mīzāna bi-l-qisṭi. Lev: lōʾ-taʿăśû ʿāwel bam-mišpāṭ bam-middāh bam-mišqāl
+    ... mōʾznê ṣedeq ʾavnê-ṣedeq. Q puts just measure into its commandment list; Lev attaches it to the
+    Exodus formula.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:35
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
+    - ref: Lev 19:36
+      lang: he
+      text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה
+        אֱלֹֽהֵיכֶ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
 ---
 
 ## Questions

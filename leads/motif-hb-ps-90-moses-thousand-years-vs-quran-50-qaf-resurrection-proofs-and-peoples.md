@@ -2,7 +2,7 @@
 id: motif-hb-ps-90-moses-thousand-years-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'Psalm 90, prayer of Moses; a thousand years as yesterday ↔ Qaf: wonder at the warner, the earth
   that consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 1 motifs: human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Ps 90:3
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי אָדָֽם
-- tradition: islam
-  ref: Quran 50:3
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. tāšēḇ ʾĕnôš ʿaḏ dakkāʾ wat-tōʾmer šûḇû ḇənê ʾāḏām (you turn man back to dust and say ''Return,
-    sons of man'') vs. a-idhā mitnā wa-kunnā turāban dhālika rajʿun baʿīd. The psalm''s ''return'' (šûḇû)
-    is said by God; the deniers call the return far off.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
     5.0.'
@@ -68,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- echo
+units:
+- id: hb-ps-90-moses-thousand-years
+  title: Psalm 90, prayer of Moses; a thousand years as yesterday
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: echo
+  label: Human comes from dust and returns to dust
+  note: tāšēḇ ʾĕnôš ʿaḏ dakkāʾ wat-tōʾmer šûḇû ḇənê ʾāḏām (you turn man back to dust and say 'Return,
+    sons of man') vs. a-idhā mitnā wa-kunnā turāban dhālika rajʿun baʿīd. The psalm's 'return' (šûḇû)
+    is said by God; the deniers call the return far off.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 90:3
+      lang: he
+      text: תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 50:3
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-1-gang-of-sinners-vs-quran-31-luqman
 title: Proverbs 1:8-19, warning against the gang of robbers ↔ Luqman's advice to his son
-summary: 'These two units share 1 motifs: ''hear, my son, your father''s instruction and do not forsake
-  your mother''s teaching (torah)''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - fathers-instruction-mothers-torah
-passages:
-- tradition: judaism
-  ref: Prov 1:8
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֣ע בְּ֭נִי מוּסַ֣ר אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
-- tradition: judaism
-  ref: Prov 1:10
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּנִ֡י אִם יְפַתּ֥וּךָ חַ֝טָּאִ֗ים אַל תֹּבֵֽא
-- tradition: islam
-  ref: Quran 31:13
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)''
-    (''O my little son'' (ya bunayya) instruction form)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ إِنَّ ٱلشِّرْكَ
-    لَظُلْمٌ عَظِيمٌ
-- tradition: islam
-  ref: Quran 31:16
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)''
-    (''O my little son'' (ya bunayya) instruction form)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ
-    أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. Father-to-son wisdom address: yā-bunayya (31:13, 16, 17) vs. šəmaʿ bənî ... bənî ʾim-yəp̄attûḵā
-    ḥaṭṭāʾîm ʾal-tōḇēʾ. Proverbs'' first warning is against a gang of sinners; Luqman''s first warning
-    is lā tushrik bi-llāh, inna sh-shirka la-ẓulmun ʿaẓīm.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Hear, my son, your father''s instruction and do not forsake your
     mother''s teaching (torah)'' (weight 6.3). Pair score 6.3.'
@@ -77,6 +45,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
+kinds:
+- parallel
+units:
+- id: hb-prov-1-gang-of-sinners
+  title: Proverbs 1:8-19, warning against the gang of robbers
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
+  note: 'Father-to-son wisdom address: yā-bunayya (31:13, 16, 17) vs. šəmaʿ bənî ... bənî ʾim-yəp̄attûḵā
+    ḥaṭṭāʾîm ʾal-tōḇēʾ. Proverbs'' first warning is against a gang of sinners; Luqman''s first warning
+    is lā tushrik bi-llāh, inna sh-shirka la-ẓulmun ʿaẓīm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 1:8
+      lang: he
+      text: שְׁמַ֣ע בְּ֭נִי מוּסַ֣ר אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
+    - ref: Prov 1:10
+      lang: he
+      text: בְּנִ֡י אִם יְפַתּ֥וּךָ חַ֝טָּאִ֗ים אַל תֹּבֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 31:13
+      lang: ar
+      text: وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ إِنَّ
+        ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ
+    - ref: Quran 31:16
+      lang: ar
+      text: يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى
+        ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
+    - ref: Quran 31:17
+      lang: ar
+      text: يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ
+        مَآ أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
 ---
 
 ## Questions

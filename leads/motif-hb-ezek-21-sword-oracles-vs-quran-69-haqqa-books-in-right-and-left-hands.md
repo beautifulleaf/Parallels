@@ -3,8 +3,7 @@ id: motif-hb-ezek-21-sword-oracles-vs-quran-69-haqqa-books-in-right-and-left-han
 title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
   Ammon ↔ The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta
   of a forger
-summary: 'These two units share 1 motifs: it is the word of a noble messenger, not the word of a poet
-  or soothsayer.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - word-of-noble-messenger-not-poet-or-soothsayer
-passages:
-- tradition: judaism
-  ref: Ezek 21:5
-  note: 'It is the word of a noble messenger, not the word of a poet or soothsayer (wa-mā huwa bi-qawli
-    shāʿirin ... wa-lā bi-qawli kāhin ~ hēmmāh ʾōmerîm lî hă-lōʾ memaššēl mešālîm hûʾ: the prophet dismissed
-    as a mere maker of poetry/parables; the Quran denies it, Ezekiel complains of it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמַ֕ר אֲהָ֖הּ אֲדֹנָ֣י יְהוִ֑ה הֵ֚מָּה אֹמְרִ֣ים לִ֔י הֲלֹ֛א מְמַשֵּׁ֥ל מְשָׁלִ֖ים הֽוּא
-- tradition: islam
-  ref: Quran 69:40
-  note: It is the word of a noble messenger, not the word of a poet or soothsayer
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ
-- tradition: islam
-  ref: Quran 69:41
-  note: It is the word of a noble messenger, not the word of a poet or soothsayer
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-mā huwa bi-qawli shāʿirin ... wa-lā bi-qawli kāhin ~ hēmmāh ʾōmerîm lî hă-lōʾ memaššēl mešālîm
-    hûʾ: the prophet dismissed as a mere maker of poetry/parables; the Quran denies it, Ezekiel complains
-    of it.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: It is the word of a noble messenger, not the word of a poet or soothsayer
     (weight 6.7). Pair score 6.7.'
@@ -81,6 +57,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: It is the word of a noble messenger, not the word of a poet or soothsayer
+kinds:
+- echo
+units:
+- id: hb-ezek-21-sword-oracles
+  title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
+    Ammon
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: echo
+  label: It is the word of a noble messenger, not the word of a poet or soothsayer
+  note: 'wa-mā huwa bi-qawli shāʿirin ... wa-lā bi-qawli kāhin ~ hēmmāh ʾōmerîm lî hă-lōʾ memaššēl mešālîm
+    hûʾ: the prophet dismissed as a mere maker of poetry/parables; the Quran denies it, Ezekiel complains
+    of it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 21:5
+      lang: he
+      text: וָאֹמַ֕ר אֲהָ֖הּ אֲדֹנָ֣י יְהוִ֑ה הֵ֚מָּה אֹמְרִ֣ים לִ֔י הֲלֹ֛א מְמַשֵּׁ֥ל מְשָׁלִ֖ים הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 69:41
+      lang: ar
+      text: وَمَا هُوَ بِقَوْلِ شَاعِرٍ قَلِيلًا مَّا تُؤْمِنُونَ
+    - ref: Quran 69:42
+      lang: ar
+      text: وَلَا بِقَوْلِ كَاهِنٍ قَلِيلًا مَّا تَذَكَّرُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-139-searched-and-known-vs-quran-3-badr-uhud
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Badr and Uhud
-summary: 'These two units share 1 motifs: no soul dies except by god''s leave at a term written (kitaban
-  mu''ajjalan).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +13,9 @@ layers:
 - motif
 motifs:
 - appointed-term-of-death-written
-passages:
-- tradition: judaism
-  ref: Ps 139:16
-  note: 'No soul dies except by God''s leave at a term written (kitaban mu''ajjalan) (Ps 139:16 wĕ-ʿal
-    sipĕrkā kullām yikkātēbû yāmîm yuṣṣārû: all my days were written in your book before they were formed;
-    Q 3:145 wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalan: no soul dies except
-    by God''s leave, at a written term.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
-    אֶחָ֣ד בָּהֶֽם
-- tradition: islam
-  ref: Quran 3:145
-  note: No soul dies except by God's leave at a term written (kitaban mu'ajjalan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًا مُّؤَجَّلًا وَمَن يُرِدْ ثَوَابَ
-    ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى ٱلشَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 139:16 wĕ-ʿal sipĕrkā kullām yikkātēbû yāmîm yuṣṣārû: all my days were written in your book
-    before they were formed; Q 3:145 wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalan:
-    no soul dies except by God''s leave, at a written term.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No soul dies except by God''s leave at a term written (kitaban mu''ajjalan)
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No soul dies except by God's leave at a term written (kitaban mu'ajjalan)
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: echo
+  label: No soul dies except by God's leave at a term written (kitaban mu'ajjalan)
+  note: 'Ps 139:16 wĕ-ʿal sipĕrkā kullām yikkātēbû yāmîm yuṣṣārû: all my days were written in your book
+    before they were formed; Q 3:145 wa-mā kāna li-nafsin an tamūta illā bi-idhni llāhi kitāban muʾajjalan:
+    no soul dies except by God''s leave, at a written term.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:145
+      lang: ar
+      text: وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ ٱللَّهِ كِتَٰبًا مُّؤَجَّلًا وَمَن يُرِدْ
+        ثَوَابَ ٱلدُّنْيَا نُؤْتِهِۦ مِنْهَا وَمَن يُرِدْ ثَوَابَ ٱلْءَاخِرَةِ نُؤْتِهِۦ مِنْهَا وَسَنَجْزِى
+        ٱلشَّٰكِرِينَ
 ---
 
 ## Questions

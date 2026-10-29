@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-11-salih
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Salih, the she-camel and the Shout
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,24 +13,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 11:61
-  note: First human shaped from dust, clay or soil (ansha'akum min al-ard)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
-    إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. kî-kaḥōmer ʿăśîtānî wᵉʾel-ʿāpār tᵉšîbēnî vs huwa anshaʾakum mina l-arḍ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -62,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- echo
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-11-salih
+  title: Salih, the she-camel and the Shout
+  tradition: islam
+matches:
+- kind: echo
+  label: First human shaped from dust, clay or soil
+  note: kî-kaḥōmer ʿăśîtānî wᵉʾel-ʿāpār tᵉšîbēnî vs huwa anshaʾakum mina l-arḍ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:61
+      lang: ar
+      text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
+        إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
 ---
 
 ## Questions

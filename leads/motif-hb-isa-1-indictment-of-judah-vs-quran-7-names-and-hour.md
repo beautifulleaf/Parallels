@@ -2,7 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-7-names-and-hour
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Made for hell, the
   beautiful names, the unknown Hour
-summary: 'These two units share 1 motifs: the heedless are like cattle, or even more astray.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - worse-than-cattle
-passages:
-- tradition: judaism
-  ref: Isa 1:3
-  note: 'The heedless are like cattle, or even more astray (Animals understand better than the heedless:
-    ulāʾika ka-l-anʿāmi bal hum aḍallu vs yādaʿ šôr qōnēhû waḥămôr ʾēbûs bᵉʿālāyw yiśrāʾēl lōʾ yādaʿ ʿammî
-    lōʾ hitbônān.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
-- tradition: islam
-  ref: Quran 7:179
-  note: The heedless are like cattle, or even more astray
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
-    بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
-    كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Animals understand better than the heedless: ulāʾika ka-l-anʿāmi bal hum aḍallu vs yādaʿ
-    šôr qōnēhû waḥămôr ʾēbûs bᵉʿālāyw yiśrāʾēl lōʾ yādaʿ ʿammî lōʾ hitbônān.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The heedless are like cattle, or even more astray (weight 6.0).
     Pair score 6.0.'
@@ -72,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The heedless are like cattle, or even more astray
+kinds:
+- parallel
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: parallel
+  label: The heedless are like cattle, or even more astray
+  note: 'Animals understand better than the heedless: ulāʾika ka-l-anʿāmi bal hum aḍallu vs yādaʿ šôr
+    qōnēhû waḥămôr ʾēbûs bᵉʿālāyw yiśrāʾēl lōʾ yādaʿ ʿammî lōʾ hitbônān.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:3
+      lang: he
+      text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 7:179
+      lang: ar
+      text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
+        بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
+        كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
 ---
 
 ## Questions

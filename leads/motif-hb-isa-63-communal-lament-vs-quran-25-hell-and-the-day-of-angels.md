@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-25-hell-and-the-day-of-angels
 title: Remembering the days of Moses - O that you would rend the heavens ↔ Raging hell, the disowning
   of false gods, the split sky and the regretful wrongdoer
-summary: 'These two units share 1 motifs: the sky torn open for a descent from heaven [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - heavens-torn-open-for-a-descent-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 63:19
-  note: 'The sky torn open for a descent from heaven [divergence between the texts] (wa-yawma tashaqqaqu
-    s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā šāmayim yāradtā mip-pānêkā hārîm
-    nāzōllû: the sky torn open for a descent. Isaiah prays that God himself would rend the heavens and
-    come down to save his people; in the Quran the sky splits on the Day and the angels are sent down,
-    and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָיִ֗ינוּ מֵֽעוֹלָם֙ לֹֽא מָשַׁ֣לְתָּ בָּ֔ם לֹֽא נִקְרָ֥א שִׁמְךָ֖ עֲלֵיהֶ֑ם לוּא קָרַ֤עְתָּ שָׁמַ֨יִם֙
-    יָרַ֔דְתָּ מִפָּנֶ֖יךָ הָרִ֥ים נָזֹֽלּוּ
-- tradition: islam
-  ref: Quran 25:25
-  note: 'The sky torn open for a descent from heaven [divergence between the texts] (wa-yawma tashaqqaqu
-    s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā šāmayim yāradtā mip-pānêkā hārîm
-    nāzōllû: the sky torn open for a descent. Isaiah prays that God himself would rend the heavens and
-    come down to save his people; in the Quran the sky splits on the Day and the angels are sent down,
-    and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَٰمِ وَنُزِّلَ ٱلْمَلَٰٓئِكَةُ تَنزِيلًا
-- tradition: islam
-  ref: Quran 25:26
-  note: 'The sky torn open for a descent from heaven [divergence between the texts] (wa-yawma tashaqqaqu
-    s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā šāmayim yāradtā mip-pānêkā hārîm
-    nāzōllû: the sky torn open for a descent. Isaiah prays that God himself would rend the heavens and
-    come down to save his people; in the Quran the sky splits on the Day and the angels are sent down,
-    and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَٰنِ وَكَانَ يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. wa-yawma tashaqqaqu s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā
-    šāmayim yāradtā mip-pānêkā hārîm nāzōllû: the sky torn open for a descent. Isaiah prays that God himself
-    would rend the heavens and come down to save his people; in the Quran the sky splits on the Day and
-    the angels are sent down, and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sky torn open for a descent from heaven [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sky torn open for a descent from heaven
+kinds:
+- divergence
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-25-hell-and-the-day-of-angels
+  title: Raging hell, the disowning of false gods, the split sky and the regretful wrongdoer
+  tradition: islam
+matches:
+- kind: divergence
+  label: The sky torn open for a descent from heaven
+  note: 'wa-yawma tashaqqaqu s-samāʾu bi-l-ghamāmi wa-nuzzila l-malāʾikatu tanzīlan ~ lû qāraʿtā šāmayim
+    yāradtā mip-pānêkā hārîm nāzōllû: the sky torn open for a descent. Isaiah prays that God himself would
+    rend the heavens and come down to save his people; in the Quran the sky splits on the Day and the
+    angels are sent down, and the day is hard for the unbelievers (yawman ʿalā l-kāfirīna ʿasīran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:19
+      lang: he
+      text: הָיִ֗ינוּ מֵֽעוֹלָם֙ לֹֽא מָשַׁ֣לְתָּ בָּ֔ם לֹֽא נִקְרָ֥א שִׁמְךָ֖ עֲלֵיהֶ֑ם לוּא קָרַ֤עְתָּ
+        שָׁמַ֨יִם֙ יָרַ֔דְתָּ מִפָּנֶ֖יךָ הָרִ֥ים נָזֹֽלּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:25
+      lang: ar
+      text: وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَٰمِ وَنُزِّلَ ٱلْمَلَٰٓئِكَةُ تَنزِيلًا
+    - ref: Quran 25:26
+      lang: ar
+      text: ٱلْمُلْكُ يَوْمَئِذٍ ٱلْحَقُّ لِلرَّحْمَٰنِ وَكَانَ يَوْمًا عَلَى ٱلْكَٰفِرِينَ عَسِيرًا
 ---
 
 ## Questions

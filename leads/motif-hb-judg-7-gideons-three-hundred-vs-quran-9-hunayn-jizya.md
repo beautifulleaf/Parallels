@@ -2,8 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-9-hunayn-jizya
 title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ Hunayn, the impurity
   of polytheists, the jizya
-summary: 'These two units share 1 motifs: a large army must not claim the victory for itself [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - large-army-and-gods-glory-as-divergence
-passages:
-- tradition: judaism
-  ref: Judg 7:2
-  note: 'A large army must not claim the victory for itself [divergence between the texts] (A large army
-    must not take the credit: idh aʿjabatkum kathratukum fa-lam tughni ʿankum shayʾan vs rab hāʿām ʾăšer
-    ʾittāk ... pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. In Judg God cuts the army down before
-    the battle; in Q the large army is first routed (wallaytum mudbirīn), then rescued by God''s sakīna
-    and unseen hosts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת מִדְיָ֖ן בְּיָדָ֑ם
-    פֶּן יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי
-- tradition: islam
-  ref: Quran 9:25
-  note: 'A large army must not claim the victory for itself [divergence between the texts] (A large army
-    must not take the credit: idh aʿjabatkum kathratukum fa-lam tughni ʿankum shayʾan vs rab hāʿām ʾăšer
-    ʾittāk ... pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. In Judg God cuts the army down before
-    the battle; in Q the large army is first routed (wallaytum mudbirīn), then rescued by God''s sakīna
-    and unseen hosts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
-    فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ
-- tradition: islam
-  ref: Quran 9:26
-  note: 'A large army must not claim the victory for itself [divergence between the texts] (A large army
-    must not take the credit: idh aʿjabatkum kathratukum fa-lam tughni ʿankum shayʾan vs rab hāʿām ʾăšer
-    ʾittāk ... pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. In Judg God cuts the army down before
-    the battle; in Q the large army is first routed (wallaytum mudbirīn), then rescued by God''s sakīna
-    and unseen hosts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا
-    لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A large army must not take the credit: idh aʿjabatkum kathratukum fa-lam tughni ʿankum
-    shayʾan vs rab hāʿām ʾăšer ʾittāk ... pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. In Judg
-    God cuts the army down before the battle; in Q the large army is first routed (wallaytum mudbirīn),
-    then rescued by God''s sakīna and unseen hosts.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A large army must not claim the victory for itself [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A large army must not claim the victory for itself
+kinds:
+- divergence
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: divergence
+  label: A large army must not claim the victory for itself
+  note: 'A large army must not take the credit: idh aʿjabatkum kathratukum fa-lam tughni ʿankum shayʾan
+    vs rab hāʿām ʾăšer ʾittāk ... pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. In Judg God cuts
+    the army down before the battle; in Q the large army is first routed (wallaytum mudbirīn), then rescued
+    by God''s sakīna and unseen hosts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:2
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת מִדְיָ֖ן בְּיָדָ֑ם
+        פֶּן יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 9:25
+      lang: ar
+      text: لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
+        فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم
+        مُّدْبِرِينَ
+    - ref: Quran 9:26
+      lang: ar
+      text: ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا
+        لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

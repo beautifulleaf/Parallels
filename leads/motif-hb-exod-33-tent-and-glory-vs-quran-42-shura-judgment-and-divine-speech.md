@@ -2,9 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-42-shura-judgment-and-divine-speech
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ The damned seek a way back; God
   gives children as he wills; three ways God speaks to man
-summary: 'These two units share 2 motifs: how god speaks to prophets: face to face, in vision or dream,
-  from behind a veil, or by a messenger [divergence between the texts], no human can see god''s face and
-  live.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -19,59 +17,9 @@ layers:
 motifs:
 - modes-of-divine-speech-to-prophets-as-divergence
 - no-man-sees-god-and-lives
-passages:
-- tradition: judaism
-  ref: Exod 33:11
-  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts] (wə-ḏibber YHWH ʾel mōšeh pānîm ʾel pānîm kaʾăšer yəḏabbēr ʾîš ʾel
-    rēʿēhû vs. min warāʾi ḥijābin. The Quran admits no face-to-face speech with any bashar.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙
-    אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל
-- tradition: islam
-  ref: Quran 42:51
-  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
-    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
-    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
-    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
-    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
-    رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
-- tradition: judaism
-  ref: Exod 33:20
-  note: No human can see God's face and live
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
-- tradition: judaism
-  ref: Exod 33:22
-  note: No human can see God's face and live
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ בַּעֲבֹ֣ר כְּבֹדִ֔י וְשַׂמְתִּ֖יךָ בְּנִקְרַ֣ת הַצּ֑וּר וְשַׂכֹּתִ֥י כַפִּ֛י עָלֶ֖יךָ
-    עַד עָבְרִֽי
-- tradition: islam
-  ref: Quran 42:51
-  note: 'No human can see God''s face and live (In the same chapter Exodus itself limits the vision: lōʾ
-    yirʾanî hā-ʾāḏām wā-ḥāy; God covers Moses with his palm (wə-śakkōṯî ḵappî ʿāleḵā) and lets him see
-    only his back (ʾăḥōrāy) while pānay lōʾ yērāʾû. The Quran''s ''from behind a veil'' (min warāʾi ḥijāb)
-    agrees with this limit, against Exod 33:11 and Num 12:8. cf. b. Yevamot 49b on Moses'' clear aspaqlaria.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
-    رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence, parallel. wə-ḏibber YHWH ʾel mōšeh pānîm ʾel pānîm kaʾăšer yəḏabbēr ʾîš ʾel rēʿēhû vs.
-    min warāʾi ḥijābin. The Quran admits no face-to-face speech with any bashar. In the same chapter Exodus
-    itself limits the vision: lōʾ yirʾanî hā-ʾāḏām wā-ḥāy; God covers Moses with his palm (wə-śakkōṯî
-    ḵappî ʿāleḵā) and lets him see only his back (ʾăḥōrāy) while pānay lōʾ yērāʾû. The Quran''s ''from
-    behind a veil'' (min warāʾi ḥijāb) agrees with this limit, against Exod 33:11 and Num 12:8. cf. b.
-    Yevamot 49b on Moses'' clear aspaqlaria.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God speaks to prophets: face to face, in vision or dream, from
     behind a veil, or by a messenger [divergence between the texts] (weight 6.3); No human can see God''s
@@ -105,6 +53,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger'
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-42-shura-judgment-and-divine-speech
+  title: The damned seek a way back; God gives children as he wills; three ways God speaks to man
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger'
+  note: wə-ḏibber YHWH ʾel mōšeh pānîm ʾel pānîm kaʾăšer yəḏabbēr ʾîš ʾel rēʿēhû vs. min warāʾi ḥijābin.
+    The Quran admits no face-to-face speech with any bashar.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:11
+      lang: he
+      text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ
+        וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ
+        הָאֹֽהֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 42:51
+      lang: ar
+      text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ
+        يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+- kind: parallel
+  label: No human can see God's face and live
+  note: 'In the same chapter Exodus itself limits the vision: lōʾ yirʾanî hā-ʾāḏām wā-ḥāy; God covers
+    Moses with his palm (wə-śakkōṯî ḵappî ʿāleḵā) and lets him see only his back (ʾăḥōrāy) while pānay
+    lōʾ yērāʾû. The Quran''s ''from behind a veil'' (min warāʾi ḥijāb) agrees with this limit, against
+    Exod 33:11 and Num 12:8. cf. b. Yevamot 49b on Moses'' clear aspaqlaria.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:20
+      lang: he
+      text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
+    - ref: Exod 33:22
+      lang: he
+      text: וְהָיָה֙ בַּעֲבֹ֣ר כְּבֹדִ֔י וְשַׂמְתִּ֖יךָ בְּנִקְרַ֣ת הַצּ֑וּר וְשַׂכֹּתִ֥י כַפִּ֛י עָלֶ֖יךָ
+        עַד עָבְרִֽי
+    - ref: Exod 33:23
+      lang: he
+      text: וַהֲסִרֹתִי֙ אֶת כַּפִּ֔י וְרָאִ֖יתָ אֶת אֲחֹרָ֑י וּפָנַ֖י לֹ֥א יֵרָאֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:51
+      lang: ar
+      text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ
+        يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
 ---
 
 ## Questions

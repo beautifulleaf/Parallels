@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-68-qalam-the-pen-and-the-slanderer
 title: 'Be holy - ethical laws and love of neighbor ↔ Nun: by the pen; the prophet''s great character;
   the swearer, slanderer and base-born man branded on the snout'
-summary: 'These two units share 1 motifs: do not go about as a talebearer among your people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - talebearing-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 19:16
-  note: Do not go about as a talebearer among your people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 68:11
-  note: Do not go about as a talebearer among your people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ
-- tradition: islam
-  ref: Quran 68:10
-  note: Do not go about as a talebearer among your people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-lā tuṭiʿ kulla ḥallāfin mahīn, hammāzin mashshāʾin bi-namīm ~ lōʾ tēlēk rākîl be-ʿammêkā:
-    the one who ''goes about'' (mashshāʾ / hōlēk) with slander. Law of conduct in Leviticus; in the Quran
-    a portrait of a named opponent who must not be obeyed.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not go about as a talebearer among your people (weight 5.8).
     Pair score 5.8.'
@@ -73,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not go about as a talebearer among your people
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-68-qalam-the-pen-and-the-slanderer
+  title: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not go about as a talebearer among your people
+  note: 'wa-lā tuṭiʿ kulla ḥallāfin mahīn, hammāzin mashshāʾin bi-namīm ~ lōʾ tēlēk rākîl be-ʿammêkā:
+    the one who ''goes about'' (mashshāʾ / hōlēk) with slander. Law of conduct in Leviticus; in the Quran
+    a portrait of a named opponent who must not be obeyed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:16
+      lang: he
+      text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 68:10
+      lang: ar
+      text: وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
+    - ref: Quran 68:11
+      lang: ar
+      text: هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ
 ---
 
 ## Questions

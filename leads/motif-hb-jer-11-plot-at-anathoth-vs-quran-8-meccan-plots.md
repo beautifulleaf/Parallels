@@ -2,8 +2,7 @@
 id: motif-hb-jer-11-plot-at-anathoth-vs-quran-8-meccan-plots
 title: First confession - a gentle lamb led to slaughter; the men of Anathoth ↔ The plot against the prophet
   and the worship of the pagans
-summary: 'These two units share 1 motifs: unbelievers plot to confine, kill or expel the prophet, but
-  god plots too.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - plot-to-imprison-kill-or-expel-prophet
-passages:
-- tradition: judaism
-  ref: Jer 11:19
-  note: 'Unbelievers plot to confine, kill or expel the prophet, but God plots too (His own townsmen plot
-    to kill the prophet: wa-idh yamkuru bika lladhīna kafarū li-yuthbitūka aw yaqtulūka aw yukhrijūka
-    vs wᵉlōʾ-yādaʿtî kî-ʿālay ḥāšᵉbû maḥăšābôt naštîtāh ʿēṣ bᵉlaḥmô wᵉnikrᵉtennû mēʾereṣ ḥayyîm. God reveals
-    the plot in both (Jer 11:18 waYHWH hôdîʿanî; Q wa-yamkuru llāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֕י כְּכֶ֥בֶשׂ אַלּ֖וּף יוּבַ֣ל לִטְב֑וֹחַ וְלֹֽא יָדַ֜עְתִּי כִּֽי עָלַ֣י חָשְׁב֣וּ מַחֲשָׁב֗וֹת
-    נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמוֹ֙ וְנִכְרְתֶ֨נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים וּשְׁמ֖וֹ לֹֽא יִזָּכֵ֥ר עֽוֹד
-- tradition: islam
-  ref: Quran 8:30
-  note: Unbelievers plot to confine, kill or expel the prophet, but God plots too
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ
-    وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
-- tradition: islam
-  ref: Quran 8:31
-  note: Unbelievers plot to confine, kill or expel the prophet, but God plots too
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ
-    هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. His own townsmen plot to kill the prophet: wa-idh yamkuru bika lladhīna kafarū li-yuthbitūka
-    aw yaqtulūka aw yukhrijūka vs wᵉlōʾ-yādaʿtî kî-ʿālay ḥāšᵉbû maḥăšābôt naštîtāh ʿēṣ bᵉlaḥmô wᵉnikrᵉtennû
-    mēʾereṣ ḥayyîm. God reveals the plot in both (Jer 11:18 waYHWH hôdîʿanî; Q wa-yamkuru llāh).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers plot to confine, kill or expel the prophet, but God
     plots too (weight 5.8). Pair score 5.8.'
@@ -77,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unbelievers plot to confine, kill or expel the prophet, but God plots too
+kinds:
+- parallel
+units:
+- id: hb-jer-11-plot-at-anathoth
+  title: First confession - a gentle lamb led to slaughter; the men of Anathoth
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: parallel
+  label: Unbelievers plot to confine, kill or expel the prophet, but God plots too
+  note: 'His own townsmen plot to kill the prophet: wa-idh yamkuru bika lladhīna kafarū li-yuthbitūka
+    aw yaqtulūka aw yukhrijūka vs wᵉlōʾ-yādaʿtî kî-ʿālay ḥāšᵉbû maḥăšābôt naštîtāh ʿēṣ bᵉlaḥmô wᵉnikrᵉtennû
+    mēʾereṣ ḥayyîm. God reveals the plot in both (Jer 11:18 waYHWH hôdîʿanî; Q wa-yamkuru llāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 11:19
+      lang: he
+      text: וַאֲנִ֕י כְּכֶ֥בֶשׂ אַלּ֖וּף יוּבַ֣ל לִטְב֑וֹחַ וְלֹֽא יָדַ֜עְתִּי כִּֽי עָלַ֣י חָשְׁב֣וּ
+        מַחֲשָׁב֗וֹת נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמוֹ֙ וְנִכְרְתֶ֨נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים וּשְׁמ֖וֹ לֹֽא יִזָּכֵ֥ר
+        עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 8:30
+      lang: ar
+      text: وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ
+        وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
 ---
 
 ## Questions

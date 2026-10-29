@@ -1,8 +1,7 @@
 ---
 id: motif-hb-eccl-5-words-and-vows-vs-quran-9-hypocrites-vow
 title: Few words before God and paying vows ↔ The broken vow of charity; seventy prayers in vain
-summary: 'These two units share 2 motifs: better not to vow than to vow and not pay, pay vows without
-  delay; not vowing is no sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,63 +14,9 @@ layers:
 motifs:
 - better-not-to-vow-than-not-pay
 - vows-must-be-paid-promptly
-passages:
-- tradition: judaism
-  ref: Eccl 5:4
-  note: Better not to vow than to vow and not pay
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ט֖וֹב אֲשֶׁ֣ר לֹֽא תִדֹּ֑ר מִשֶׁתִּדּ֖וֹר וְלֹ֥א תְשַׁלֵּֽם
-- tradition: judaism
-  ref: Eccl 5:3
-  note: Better not to vow than to vow and not pay
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּאֲשֶׁר֩ תִּדֹּ֨ר נֶ֜דֶר לֵֽאלֹהִ֗ים אַל תְּאַחֵר֙ לְשַׁלְּמ֔וֹ כִּ֛י אֵ֥ין חֵ֖פֶץ בַּכְּסִילִ֑ים
-    אֵ֥ת אֲשֶׁר תִּדֹּ֖ר שַׁלֵּֽם
-- tradition: islam
-  ref: Quran 9:75
-  note: Better not to vow than to vow and not pay (ṭôb ʾăšer lōʾ-tiddōr miššettiddôr wᵉlōʾ tᵉšallēm; kî
-    ʾên ḥēpeṣ bakkᵉsîlîm vs the vowers who 'went back on what they promised God' (akhlafū llāha mā waʿadūhu).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ
-    مِنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 9:76
-  note: Better not to vow than to vow and not pay (ṭôb ʾăšer lōʾ-tiddōr miššettiddôr wᵉlōʾ tᵉšallēm; kî
-    ʾên ḥēpeṣ bakkᵉsîlîm vs the vowers who 'went back on what they promised God' (akhlafū llāha mā waʿadūhu).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
-- tradition: judaism
-  ref: Eccl 5:3
-  note: Pay vows without delay; not vowing is no sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּאֲשֶׁר֩ תִּדֹּ֨ר נֶ֜דֶר לֵֽאלֹהִ֗ים אַל תְּאַחֵר֙ לְשַׁלְּמ֔וֹ כִּ֛י אֵ֥ין חֵ֖פֶץ בַּכְּסִילִ֑ים
-    אֵ֥ת אֲשֶׁר תִּדֹּ֖ר שַׁלֵּֽם
-- tradition: islam
-  ref: Quran 9:76
-  note: 'Pay vows without delay; not vowing is no sin (Breaking a vow to God is held against the vower:
-    fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ...
-    lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
-- tradition: islam
-  ref: Quran 9:77
-  note: 'Pay vows without delay; not vowing is no sin (Breaking a vow to God is held against the vower:
-    fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ...
-    lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ
-    مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. ṭôb ʾăšer lōʾ-tiddōr miššettiddôr wᵉlōʾ tᵉšallēm; kî ʾên ḥēpeṣ bakkᵉsîlîm vs the vowers who
-    ''went back on what they promised God'' (akhlafū llāha mā waʿadūhu).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Better not to vow than to vow and not pay (weight 6.7); Pay vows
     without delay; not vowing is no sin (weight 6.3). Pair score 13.0.'
@@ -97,6 +42,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Better not to vow than to vow and not pay
+kinds:
+- echo
+- shared
+units:
+- id: hb-eccl-5-words-and-vows
+  title: Few words before God and paying vows
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: echo
+  label: Better not to vow than to vow and not pay
+  note: ṭôb ʾăšer lōʾ-tiddōr miššettiddôr wᵉlōʾ tᵉšallēm; kî ʾên ḥēpeṣ bakkᵉsîlîm vs the vowers who 'went
+    back on what they promised God' (akhlafū llāha mā waʿadūhu).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 5:3
+      lang: he
+      text: כַּאֲשֶׁר֩ תִּדֹּ֨ר נֶ֜דֶר לֵֽאלֹהִ֗ים אַל תְּאַחֵר֙ לְשַׁלְּמ֔וֹ כִּ֛י אֵ֥ין חֵ֖פֶץ בַּכְּסִילִ֑ים
+        אֵ֥ת אֲשֶׁר תִּדֹּ֖ר שַׁלֵּֽם
+    - ref: Eccl 5:4
+      lang: he
+      text: ט֖וֹב אֲשֶׁ֣ר לֹֽא תִדֹּ֑ר מִשֶׁתִּדּ֖וֹר וְלֹ֥א תְשַׁלֵּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:75
+      lang: ar
+      text: وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ
+        مِنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 9:76
+      lang: ar
+      text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
+    - ref: Quran 9:77
+      lang: ar
+      text: فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ
+        مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ
+- kind: shared
+  label: Pay vows without delay; not vowing is no sin
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 5:3
+      lang: he
+      text: כַּאֲשֶׁר֩ תִּדֹּ֨ר נֶ֜דֶר לֵֽאלֹהִ֗ים אַל תְּאַחֵר֙ לְשַׁלְּמ֔וֹ כִּ֛י אֵ֥ין חֵ֖פֶץ בַּכְּסִילִ֑ים
+        אֵ֥ת אֲשֶׁר תִּדֹּ֖ר שַׁלֵּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:76
+      lang: ar
+      text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
+    - ref: Quran 9:77
+      lang: ar
+      text: فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ
+        مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ
+    note: 'Breaking a vow to God is held against the vower: fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā
+      akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ... lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû
+      YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.'
 ---
 
 ## Questions

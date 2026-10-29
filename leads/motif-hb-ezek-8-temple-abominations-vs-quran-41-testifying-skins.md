@@ -2,7 +2,7 @@
 id: motif-hb-ezek-8-temple-abominations-vs-quran-41-testifying-skins
 title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship ↔
   Skins testify; evil companions; the misled ask to trample their misleaders
-summary: 'These two units share 1 motifs: sinners say ''yhwh does not see us; yhwh has forsaken the land''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +15,9 @@ layers:
 - motif
 motifs:
 - god-does-not-see-us
-passages:
-- tradition: judaism
-  ref: Ezek 8:12
-  note: Sinners say 'YHWH does not see us; YHWH has forsaken the land'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַי֮ הֲרָאִ֣יתָ בֶן אָדָם֒ אֲשֶׁ֨ר זִקְנֵ֤י בֵֽית יִשְׂרָאֵל֙ עֹשִׂ֣ים בַּחֹ֔שֶׁךְ
-    אִ֖ישׁ בְּחַדְרֵ֣י מַשְׂכִּית֑וֹ כִּ֣י אֹמְרִ֗ים אֵ֤ין יְהוָה֙ רֹאֶ֣ה אֹתָ֔נוּ עָזַ֥ב יְהוָ֖ה אֶת
-    הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 41:22
-  note: 'Sinners say ''YHWH does not see us; YHWH has forsaken the land'' (The secret sinners'' claim:
-    ẓanantum anna llāha lā yaʿlamu kathīran mimmā taʿmalūn; dhālikum ẓannukumu lladhī ẓanantum bi-rabbikum
-    ardākum vs. ʿōśîm ba-ḥōšeḵ ... kî ʾōmərîm ʾên YHWH rōʾeh ʾōṯānû. Ezekiel''s elders say it aloud in
-    the dark chambers; the Quran calls it a ẓann (supposition) that ruined them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا جُلُودُكُمْ
-    وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ
-- tradition: islam
-  ref: Quran 41:23
-  note: 'Sinners say ''YHWH does not see us; YHWH has forsaken the land'' (The secret sinners'' claim:
-    ẓanantum anna llāha lā yaʿlamu kathīran mimmā taʿmalūn; dhālikum ẓannukumu lladhī ẓanantum bi-rabbikum
-    ardākum vs. ʿōśîm ba-ḥōšeḵ ... kî ʾōmərîm ʾên YHWH rōʾeh ʾōṯānû. Ezekiel''s elders say it aloud in
-    the dark chambers; the Quran calls it a ẓann (supposition) that ruined them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The secret sinners'' claim: ẓanantum anna llāha lā yaʿlamu kathīran mimmā taʿmalūn; dhālikum
-    ẓannukumu lladhī ẓanantum bi-rabbikum ardākum vs. ʿōśîm ba-ḥōšeḵ ... kî ʾōmərîm ʾên YHWH rōʾeh ʾōṯānû.
-    Ezekiel''s elders say it aloud in the dark chambers; the Quran calls it a ẓann (supposition) that
-    ruined them.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sinners say ''YHWH does not see us; YHWH has forsaken the land''
     (weight 6.3). Pair score 6.3.'
@@ -86,6 +55,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sinners say 'YHWH does not see us; YHWH has forsaken the land'
+kinds:
+- parallel
+units:
+- id: hb-ezek-8-temple-abominations
+  title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship
+  tradition: judaism
+- id: quran-41-testifying-skins
+  title: Skins testify; evil companions; the misled ask to trample their misleaders
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sinners say 'YHWH does not see us; YHWH has forsaken the land'
+  note: 'The secret sinners'' claim: ẓanantum anna llāha lā yaʿlamu kathīran mimmā taʿmalūn; dhālikum
+    ẓannukumu lladhī ẓanantum bi-rabbikum ardākum vs. ʿōśîm ba-ḥōšeḵ ... kî ʾōmərîm ʾên YHWH rōʾeh ʾōṯānû.
+    Ezekiel''s elders say it aloud in the dark chambers; the Quran calls it a ẓann (supposition) that
+    ruined them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 8:12
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַי֮ הֲרָאִ֣יתָ בֶן אָדָם֒ אֲשֶׁ֨ר זִקְנֵ֤י בֵֽית יִשְׂרָאֵל֙ עֹשִׂ֣ים בַּחֹ֔שֶׁךְ
+        אִ֖ישׁ בְּחַדְרֵ֣י מַשְׂכִּית֑וֹ כִּ֣י אֹמְרִ֗ים אֵ֤ין יְהוָה֙ רֹאֶ֣ה אֹתָ֔נוּ עָזַ֥ב יְהוָ֖ה
+        אֶת הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:22
+      lang: ar
+      text: وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا
+        جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ
+    - ref: Quran 41:23
+      lang: ar
+      text: وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَٰسِرِينَ
 ---
 
 ## Questions

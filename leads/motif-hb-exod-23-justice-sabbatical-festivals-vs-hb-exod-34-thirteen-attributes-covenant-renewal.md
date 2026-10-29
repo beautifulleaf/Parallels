@@ -2,9 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-hb-exod-34-thirteen-attributes-covenant-renewal
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ New tablets, the attributes
   of mercy and the ritual decalogue
-summary: 'These two units share 6 motifs: do not offer sacrificial blood with leavened bread; fat not
-  left until morning, no one shall appear before god empty-handed, how often and when pilgrimage is made
-  [divergence between the texts], prohibition of boiling a kid in its mother''s milk….'
+summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -14,146 +12,16 @@ traditions:
 layers:
 - motif
 motifs:
-- no-leaven-with-sacrificial-blood
 - not-appear-empty-handed
+- no-leaven-with-sacrificial-blood
 - number-and-season-of-pilgrimage-as-divergence
 - kid-in-mothers-milk
 - first-fruits-to-house-of-god
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 23:18
-  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִזְבַּ֥ח עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹֽא יָלִ֥ין חֵֽלֶב חַגִּ֖י עַד בֹּֽקֶר
-- tradition: judaism
-  ref: Exod 34:25
-  note: Do not offer sacrificial blood with leavened bread; fat not left until morning
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִשְׁחַ֥ט עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹא יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח
-- tradition: judaism
-  ref: Exod 23:15
-  note: No one shall appear before God empty-handed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙
-    חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
-- tradition: judaism
-  ref: Exod 34:20
-  note: No one shall appear before God empty-handed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּפֶ֤טֶר חֲמוֹר֙ תִּפְדֶּ֣ה בְשֶׂ֔ה וְאִם לֹ֥א תִפְדֶּ֖ה וַעֲרַפְתּ֑וֹ כֹּ֣ל בְּכ֤וֹר בָּנֶ֨יךָ֙
-    תִּפְדֶּ֔ה וְלֹֽא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
-- tradition: judaism
-  ref: Exod 23:15
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙
-    חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
-- tradition: judaism
-  ref: Exod 23:17
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: judaism
-  ref: Exod 34:23
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
-    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
-    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
-    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
-    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
-    rabbukum (''your Lord'', 2:198).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
-    יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Exod 34:24
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
-    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
-    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
-    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
-    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
-    rabbukum (''your Lord'', 2:198).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙ אֶֽת
-    אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
-- tradition: judaism
-  ref: Exod 23:19
-  note: Prohibition of boiling a kid in its mother's milk
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י
-    בַּחֲלֵ֥ב אִמּֽוֹ
-- tradition: judaism
-  ref: Exod 34:26
-  note: Prohibition of boiling a kid in its mother's milk
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹא תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב
-    אִמּֽוֹ
-- tradition: judaism
-  ref: Exod 23:19
-  note: Bring the first fruits of the land to the house of God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י
-    בַּחֲלֵ֥ב אִמּֽוֹ
-- tradition: judaism
-  ref: Exod 34:26
-  note: Bring the first fruits of the land to the house of God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹא תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב
-    אִמּֽוֹ
-- tradition: judaism
-  ref: Exod 23:14-17
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת
-    יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ
-    מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר
-    תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה
-    (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: judaism
-  ref: Exod 23:14
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
-- tradition: judaism
-  ref: Exod 34:18
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
-    חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
-- tradition: judaism
-  ref: Exod 34:22
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Do not offer sacrificial blood with leavened bread; fat not left
-    until morning (weight 6.7); No one shall appear before God empty-handed (weight 6.7); How often and
+- text: 'Shared motifs, rarest first: No one shall appear before God empty-handed (weight 6.7); Do not
+    offer sacrificial blood with leavened bread; fat not left until morning (weight 6.7); How often and
     when pilgrimage is made [divergence between the texts] (weight 6.3); Prohibition of boiling a kid
     in its mother''s milk (weight 6.3); Bring the first fruits of the land to the house of God (weight
     6.0); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair score
@@ -189,6 +57,141 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one shall appear before God empty-handed
+kinds:
+- shared
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+matches:
+- kind: shared
+  label: No one shall appear before God empty-handed
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:15
+      lang: he
+      text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ
+        לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:20
+      lang: he
+      text: וּפֶ֤טֶר חֲמוֹר֙ תִּפְדֶּ֣ה בְשֶׂ֔ה וְאִם לֹ֥א תִפְדֶּ֖ה וַעֲרַפְתּ֑וֹ כֹּ֣ל בְּכ֤וֹר בָּנֶ֨יךָ֙
+        תִּפְדֶּ֔ה וְלֹֽא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
+- kind: shared
+  label: Do not offer sacrificial blood with leavened bread; fat not left until morning
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:18
+      lang: he
+      text: לֹֽא תִזְבַּ֥ח עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹֽא יָלִ֥ין חֵֽלֶב חַגִּ֖י עַד בֹּֽקֶר
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:25
+      lang: he
+      text: לֹֽא תִשְׁחַ֥ט עַל חָמֵ֖ץ דַּם זִבְחִ֑י וְלֹא יָלִ֣ין לַבֹּ֔קֶר זֶ֖בַח חַ֥ג הַפָּֽסַח
+- kind: shared
+  label: How often and when pilgrimage is made
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:15
+      lang: he
+      text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ
+        לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    note: 'Exod 23:17 šālōš pĕʿāmîm ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ
+      yērāʾû pānay rêqām: three pilgrimages a year for every male, not empty-handed; Q 2:196-197 wa-atimmū
+      l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi
+      t-taqwā: one pilgrimage in known months, with an offering (hady), and ''the best provision is piety''.'
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:23
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+        יִשְׂרָאֵֽל
+    - ref: Exod 34:24
+      lang: he
+      text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙
+        אֶֽת אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
+    note: 'Exod 34:23-24 šālōš pĕʿāmîm ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages
+      to ''the Lord YHWH, God of Israel'', with God''s promise that no one will covet the land while they
+      go; Q 2:196 fa-in uḥṣirtum ... fa-idhā amintum: the pilgrimage rules provide for being blocked and
+      for when ''you are safe''. A protected land vs a pilgrimage that may be prevented. Divine title:
+      ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs rabbukum (''your Lord'', 2:198).'
+- kind: shared
+  label: Prohibition of boiling a kid in its mother's milk
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:19
+      lang: he
+      text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י
+        בַּחֲלֵ֥ב אִמּֽוֹ
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:26
+      lang: he
+      text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹא תְבַשֵּׁ֥ל גְּדִ֖י
+        בַּחֲלֵ֥ב אִמּֽוֹ
+- kind: shared
+  label: Bring the first fruits of the land to the house of God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:19
+      lang: he
+      text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י
+        בַּחֲלֵ֥ב אִמּֽוֹ
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:26
+      lang: he
+      text: רֵאשִׁ֗ית בִּכּוּרֵי֙ אַדְמָ֣תְךָ֔ תָּבִ֕יא בֵּ֖ית יְהוָ֣ה אֱלֹהֶ֑יךָ לֹא תְבַשֵּׁ֥ל גְּדִ֖י
+        בַּחֲלֵ֥ב אִמּֽוֹ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:14-17
+      lang: he
+      text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒
+        שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי
+        ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י
+        מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת
+        מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל
+        פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    - ref: Exod 23:14
+      lang: he
+      text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    note: Matzot, Harvest, Ingathering
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:18
+      lang: he
+      text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
+        חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
+    - ref: Exod 34:22
+      lang: he
+      text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת
+        הַשָּׁנָֽה
+    - ref: Exod 34:23
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+        יִשְׂרָאֵֽל
+    note: Shavuot named; Ingathering at the turn of the year
 ---
 
 ## Questions

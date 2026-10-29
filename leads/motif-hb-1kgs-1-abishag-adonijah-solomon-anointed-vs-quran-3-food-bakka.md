@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-1-abishag-adonijah-solomon-anointed-vs-quran-3-food-bakka
 title: Abishag warms the old king; Adonijah's feast; Solomon anointed at Gihon ↔ Israel's self-imposed
   food law and the House at Bakka
-summary: 'These two units share 1 motifs: a fugitive grasps the horns of the altar seeking asylum.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - grasping-horns-of-altar-for-asylum
-passages:
-- tradition: judaism
-  ref: 1Kgs 1:50
-  note: A fugitive grasps the horns of the altar seeking asylum
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲדֹ֣נִיָּ֔הוּ יָרֵ֖א מִפְּנֵ֣י שְׁלֹמֹ֑ה וַיָּ֣קָם וַיֵּ֔לֶךְ וַֽיַּחֲזֵ֖ק בְּקַרְנ֥וֹת הַמִּזְבֵּֽחַ
-- tradition: judaism
-  ref: 1Kgs 1:51
-  note: A fugitive grasps the horns of the altar seeking asylum
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֻּגַּ֤ד לִשְׁלֹמֹה֙ לֵאמֹ֔ר הִנֵּה֙ אֲדֹ֣נִיָּ֔הוּ יָרֵ֖א אֶת הַמֶּ֣לֶךְ שְׁלֹמֹ֑ה וְ֠הִנֵּה
-    אָחַ֞ז בְּקַרְנ֤וֹת הַמִּזְבֵּ֨חַ֙ לֵאמֹ֔ר יִשָּֽׁבַֽע לִ֤י כַיּוֹם֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה אִם יָמִ֥ית
-    אֶת עַבְדּ֖וֹ בֶּחָֽרֶב
-- tradition: islam
-  ref: Quran 3:97
-  note: A fugitive grasps the horns of the altar seeking asylum
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ عَلَى
-    ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ
-    ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Kgs 1:50-51 wa-yyaḥăzēq bĕ-qarnôt ha-mmizbēaḥ ... yiššābaʿ lî ... ʾim yāmît ʾet ʿabdô be-ḥāreb:
-    Adonijah seizes the altar horns and asks an oath he will not be killed; Q 3:97 wa-man dakhalahu kāna
-    āminan: whoever enters the House is safe. In Kings safety depends on the king''s oath; in the Quran
-    it is a property of the House.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fugitive grasps the horns of the altar seeking asylum (weight
     6.7). Pair score 6.7.'
@@ -77,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A fugitive grasps the horns of the altar seeking asylum
+kinds:
+- echo
+units:
+- id: hb-1kgs-1-abishag-adonijah-solomon-anointed
+  title: Abishag warms the old king; Adonijah's feast; Solomon anointed at Gihon
+  tradition: judaism
+- id: quran-3-food-bakka
+  title: Israel's self-imposed food law and the House at Bakka
+  tradition: islam
+matches:
+- kind: echo
+  label: A fugitive grasps the horns of the altar seeking asylum
+  note: '1Kgs 1:50-51 wa-yyaḥăzēq bĕ-qarnôt ha-mmizbēaḥ ... yiššābaʿ lî ... ʾim yāmît ʾet ʿabdô be-ḥāreb:
+    Adonijah seizes the altar horns and asks an oath he will not be killed; Q 3:97 wa-man dakhalahu kāna
+    āminan: whoever enters the House is safe. In Kings safety depends on the king''s oath; in the Quran
+    it is a property of the House.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 1:50
+      lang: he
+      text: וַאֲדֹ֣נִיָּ֔הוּ יָרֵ֖א מִפְּנֵ֣י שְׁלֹמֹ֑ה וַיָּ֣קָם וַיֵּ֔לֶךְ וַֽיַּחֲזֵ֖ק בְּקַרְנ֥וֹת
+        הַמִּזְבֵּֽחַ
+    - ref: 1Kgs 1:51
+      lang: he
+      text: וַיֻּגַּ֤ד לִשְׁלֹמֹה֙ לֵאמֹ֔ר הִנֵּה֙ אֲדֹ֣נִיָּ֔הוּ יָרֵ֖א אֶת הַמֶּ֣לֶךְ שְׁלֹמֹ֑ה וְ֠הִנֵּה
+        אָחַ֞ז בְּקַרְנ֤וֹת הַמִּזְבֵּ֨חַ֙ לֵאמֹ֔ר יִשָּֽׁבַֽע לִ֤י כַיּוֹם֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה אִם
+        יָמִ֥ית אֶת עַבְדּ֖וֹ בֶּחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 3:97
+      lang: ar
+      text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ
+        عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ
+        غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

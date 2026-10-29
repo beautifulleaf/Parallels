@@ -2,8 +2,7 @@
 id: motif-hb-ps-49-no-ransom-vs-quran-47-muhammad-battle-and-rivers
 title: 'Psalm 49 - no man can ransom his brother ↔ Muhammad: deeds nullified, striking necks and freeing
   captives, and the four rivers of the Garden'
-summary: 'These two units share 1 motifs: unbelievers enjoy themselves and eat as cattle eat; the fire
-  is their lodging.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - unbelievers-eat-like-cattle
-passages:
-- tradition: judaism
-  ref: Ps 49:13
-  note: 'Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging (wə-ʾāḏām bî-qār
-    bal yālîn nimšal kab-bəhēmôṯ nidmû vs. wa-lladhīna kafarū yatamattaʿūna wa-yaʾkulūna ka-mā taʾkulu
-    l-anʿāmu wa-n-nāru mathwan lahum. The rich and godless likened to beasts: they perish like beasts
-    in the psalm, they feed like cattle in the Quran, then the Fire.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָדָ֣ם בִּ֭יקָר בַּל יָלִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ
-- tradition: islam
-  ref: Quran 47:12
-  note: Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا
-    ٱلْأَنْهَٰرُ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ وَٱلنَّارُ
-    مَثْوًى لَّهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-ʾāḏām bî-qār bal yālîn nimšal kab-bəhēmôṯ nidmû vs. wa-lladhīna kafarū yatamattaʿūna wa-yaʾkulūna
-    ka-mā taʾkulu l-anʿāmu wa-n-nāru mathwan lahum. The rich and godless likened to beasts: they perish
-    like beasts in the psalm, they feed like cattle in the Quran, then the Fire.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers enjoy themselves and eat as cattle eat; the Fire is
     their lodging (weight 6.7). Pair score 6.7.'
@@ -74,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging
+kinds:
+- echo
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: Unbelievers enjoy themselves and eat as cattle eat; the Fire is their lodging
+  note: 'wə-ʾāḏām bî-qār bal yālîn nimšal kab-bəhēmôṯ nidmû vs. wa-lladhīna kafarū yatamattaʿūna wa-yaʾkulūna
+    ka-mā taʾkulu l-anʿāmu wa-n-nāru mathwan lahum. The rich and godless likened to beasts: they perish
+    like beasts in the psalm, they feed like cattle in the Quran, then the Fire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:13
+      lang: he
+      text: וְאָדָ֣ם בִּ֭יקָר בַּל יָלִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:12
+      lang: ar
+      text: إِنَّ ٱللَّهَ يُدْخِلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ جَنَّٰتٍ تَجْرِى مِن
+        تَحْتِهَا ٱلْأَنْهَٰرُ وَٱلَّذِينَ كَفَرُوا۟ يَتَمَتَّعُونَ وَيَأْكُلُونَ كَمَا تَأْكُلُ ٱلْأَنْعَٰمُ
+        وَٱلنَّارُ مَثْوًى لَّهُمْ
 ---
 
 ## Questions

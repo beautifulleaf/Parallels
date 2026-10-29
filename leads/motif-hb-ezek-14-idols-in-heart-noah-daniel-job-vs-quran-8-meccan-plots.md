@@ -2,8 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-8-meccan-plots
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ The plot against the prophet
   and the worship of the pagans
-summary: 'These two units share 1 motifs: whether the righteous among a guilty people shield it from punishment
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - righteous-presence-shields-guilty-as-contrast
-passages:
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'Whether the righteous among a guilty people shield it from punishment [contrast between the texts]
-    (Opposite rulings on whether the righteous shield a guilty people. Ezek: even Noah, Daniel and Job
-    hēmmāh bᵉṣidqātām yᵉnaṣṣᵉlû napšām, saving only themselves. Q: the messenger''s presence (wa-anta
-    fīhim), or the people''s asking forgiveness, holds back punishment from all.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: islam
-  ref: Quran 8:33
-  note: 'Whether the righteous among a guilty people shield it from punishment [contrast between the texts]
-    (Opposite rulings on whether the righteous shield a guilty people. Ezek: even Noah, Daniel and Job
-    hēmmāh bᵉṣidqātām yᵉnaṣṣᵉlû napšām, saving only themselves. Q: the messenger''s presence (wa-anta
-    fīhim), or the people''s asking forgiveness, holds back punishment from all.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Opposite rulings on whether the righteous shield a guilty people. Ezek: even Noah, Daniel
-    and Job hēmmāh bᵉṣidqātām yᵉnaṣṣᵉlû napšām, saving only themselves. Q: the messenger''s presence (wa-anta
-    fīhim), or the people''s asking forgiveness, holds back punishment from all.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the righteous among a guilty people shield it from punishment
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -78,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the righteous among a guilty people shield it from punishment
+kinds:
+- contrast
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the righteous among a guilty people shield it from punishment
+  note: 'Opposite rulings on whether the righteous shield a guilty people. Ezek: even Noah, Daniel and
+    Job hēmmāh bᵉṣidqātām yᵉnaṣṣᵉlû napšām, saving only themselves. Q: the messenger''s presence (wa-anta
+    fīhim), or the people''s asking forgiveness, holds back punishment from all.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:33
+      lang: ar
+      text: وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ
+        يَسْتَغْفِرُونَ
 ---
 
 ## Questions

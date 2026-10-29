@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-26-revelation-devils-poets
 title: Remembering the days of Moses - O that you would rend the heavens ↔ The Trustworthy Spirit, the
   scriptures of the ancients, devils, kin and poets
-summary: 'These two units share 1 motifs: god''s ''holy spirit'' (ruah qodesh) is asked not to be taken
-  away from a person.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - holy-spirit-of-god
-passages:
-- tradition: judaism
-  ref: Isa 63:10
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (they rebelled and
-    grieved his holy spirit (ruah qodsho), and he became their enemy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵ֛מָּה מָר֥וּ וְעִצְּב֖וּ אֶת ר֣וּחַ קָדְשׁ֑וֹ וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאוֹיֵ֖ב ה֥וּא נִלְחַם
-    בָּֽם
-- tradition: judaism
-  ref: Isa 63:11
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (they rebelled and
-    grieved his holy spirit (ruah qodsho), and he became their enemy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּזְכֹּ֥ר יְמֵֽי עוֹלָ֖ם מֹשֶׁ֣ה עַמּ֑וֹ אַיֵּ֣ה הַֽמַּעֲלֵ֣ם מִיָּ֗ם אֵ֚ת רֹעֵ֣י צֹאנ֔וֹ אַיֵּ֛ה
-    הַשָּׂ֥ם בְּקִרְבּ֖וֹ אֶת ר֥וּחַ קָדְשֽׁוֹ
-- tradition: islam
-  ref: Quran 26:193
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. ar-rūḥu l-amīnu ~ ʾayyēh haś-śām bə-qirbô ʾet rûaḥ qodšô: a spirit of God given to Moses'' generation
-    (Isaiah) or bringing revelation to the prophet (Quran).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away
     from a person (weight 6.0). Pair score 6.0.'
@@ -80,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+kinds:
+- echo
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-26-revelation-devils-poets
+  title: The Trustworthy Spirit, the scriptures of the ancients, devils, kin and poets
+  tradition: islam
+matches:
+- kind: echo
+  label: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+  note: 'ar-rūḥu l-amīnu ~ ʾayyēh haś-śām bə-qirbô ʾet rûaḥ qodšô: a spirit of God given to Moses'' generation
+    (Isaiah) or bringing revelation to the prophet (Quran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:10
+      lang: he
+      text: וְהֵ֛מָּה מָר֥וּ וְעִצְּב֖וּ אֶת ר֣וּחַ קָדְשׁ֑וֹ וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאוֹיֵ֖ב ה֥וּא נִלְחַם
+        בָּֽם
+    - ref: Isa 63:11
+      lang: he
+      text: וַיִּזְכֹּ֥ר יְמֵֽי עוֹלָ֖ם מֹשֶׁ֣ה עַמּ֑וֹ אַיֵּ֣ה הַֽמַּעֲלֵ֣ם מִיָּ֗ם אֵ֚ת רֹעֵ֣י צֹאנ֔וֹ
+        אַיֵּ֛ה הַשָּׂ֥ם בְּקִרְבּ֖וֹ אֶת ר֥וּחַ קָדְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:193
+      lang: ar
+      text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
 ---
 
 ## Questions

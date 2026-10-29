@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-53-najm-vision-and-lote-tree
 title: 'Concerning the prophets - who has stood in the council of YHWH? ↔ Al-Najm: the star that sets,
   the mighty one on the horizon two bow-lengths away, and the Lote-Tree of the Boundary'
-summary: 'These two units share 1 motifs: whether a prophet speaks from his own heart or desire, or by
-  revelation [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - source-of-prophets-words-as-contrast
-passages:
-- tradition: judaism
-  ref: Jer 23:16
-  note: 'Whether a prophet speaks from his own heart or desire, or by revelation [contrast between the
-    texts] (The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā
-    yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah''s criterion for false prophecy is exactly
-    what the Quran denies of the Prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים לָכֶ֔ם
-    מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 53:3
-  note: 'Whether a prophet speaks from his own heart or desire, or by revelation [contrast between the
-    texts] (The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā
-    yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah''s criterion for false prophecy is exactly
-    what the Quran denies of the Prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
-- tradition: islam
-  ref: Quran 53:4
-  note: 'Whether a prophet speaks from his own heart or desire, or by revelation [contrast between the
-    texts] (The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā
-    yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah''s criterion for false prophecy is exactly
-    what the Quran denies of the Prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā
-    yanṭiqu ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah''s criterion for false prophecy is exactly
-    what the Quran denies of the Prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet speaks from his own heart or desire, or by revelation
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether a prophet speaks from his own heart or desire, or by revelation
+kinds:
+- contrast
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether a prophet speaks from his own heart or desire, or by revelation
+  note: 'The false prophet does speak from himself: ḥăzôn libbām yəḏabbērû lōʾ mip-pî YHWH vs. wa-mā yanṭiqu
+    ʿani l-hawā in huwa illā waḥyun yūḥā. Jeremiah''s criterion for false prophecy is exactly what the
+    Quran denies of the Prophet.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:16
+      lang: he
+      text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים
+        לָכֶ֔ם מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 53:3
+      lang: ar
+      text: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
+    - ref: Quran 53:4
+      lang: ar
+      text: إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ
 ---
 
 ## Questions

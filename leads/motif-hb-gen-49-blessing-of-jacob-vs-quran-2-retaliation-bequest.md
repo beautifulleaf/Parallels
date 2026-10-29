@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-49-blessing-of-jacob-vs-quran-2-retaliation-bequest
 title: The Testament (Blessing) of Jacob and his death ↔ Retaliation and bequests
-summary: 'These two units share 1 motifs: bequest (wasiyya) to parents and kin prescribed for one who
-  leaves wealth; altering it is a sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +13,9 @@ layers:
 - motif
 motifs:
 - bequest-to-parents-and-kin
-passages:
-- tradition: judaism
-  ref: Gen 49:33
-  note: 'Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-    (Gen 49:33 wa-ykal yaʿăqōb lĕ-ṣawwōt ʾet bānāyw: the dying patriarch''s last charge (ṣawwōt) to his
-    sons; Q 2:180-181 al-waṣiyya ... fa-man baddalahu baʿdamā samiʿahu fa-innamā ithmuhu ʿalā lladhīna
-    yubaddilūnahu: the deathbed charge as a binding bequest whose alteration is a sin.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל יַעֲקֹב֙ לְצַוֺּ֣ת אֶת בָּנָ֔יו וַיֶּאֱסֹ֥ף רַגְלָ֖יו אֶל הַמִּטָּ֑ה וַיִּגְוַ֖ע וַיֵּאָ֥סֶף
-    אֶל עַמָּֽיו
-- tradition: islam
-  ref: Quran 2:180
-  note: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ
-    وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُتَّقِينَ
-- tradition: islam
-  ref: Quran 2:181
-  note: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ إِنَّ
-    ٱللَّهَ سَمِيعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 49:33 wa-ykal yaʿăqōb lĕ-ṣawwōt ʾet bānāyw: the dying patriarch''s last charge (ṣawwōt)
-    to his sons; Q 2:180-181 al-waṣiyya ... fa-man baddalahu baʿdamā samiʿahu fa-innamā ithmuhu ʿalā lladhīna
-    yubaddilūnahu: the deathbed charge as a binding bequest whose alteration is a sin.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bequest (wasiyya) to parents and kin prescribed for one who leaves
     wealth; altering it is a sin (weight 6.3). Pair score 6.3.'
@@ -72,6 +44,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
+kinds:
+- echo
+units:
+- id: hb-gen-49-blessing-of-jacob
+  title: The Testament (Blessing) of Jacob and his death
+  tradition: judaism
+- id: quran-2-retaliation-bequest
+  title: Retaliation and bequests
+  tradition: islam
+matches:
+- kind: echo
+  label: Bequest (wasiyya) to parents and kin prescribed for one who leaves wealth; altering it is a sin
+  note: 'Gen 49:33 wa-ykal yaʿăqōb lĕ-ṣawwōt ʾet bānāyw: the dying patriarch''s last charge (ṣawwōt) to
+    his sons; Q 2:180-181 al-waṣiyya ... fa-man baddalahu baʿdamā samiʿahu fa-innamā ithmuhu ʿalā lladhīna
+    yubaddilūnahu: the deathbed charge as a binding bequest whose alteration is a sin.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 49:33
+      lang: he
+      text: וַיְכַ֤ל יַעֲקֹב֙ לְצַוֺּ֣ת אֶת בָּנָ֔יו וַיֶּאֱסֹ֥ף רַגְלָ֖יו אֶל הַמִּטָּ֑ה וַיִּגְוַ֖ע
+        וַיֵּאָ֥סֶף אֶל עַמָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:180
+      lang: ar
+      text: كُتِبَ عَلَيْكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ إِن تَرَكَ خَيْرًا ٱلْوَصِيَّةُ لِلْوَٰلِدَيْنِ
+        وَٱلْأَقْرَبِينَ بِٱلْمَعْرُوفِ حَقًّا عَلَى ٱلْمُتَّقِينَ
+    - ref: Quran 2:181
+      lang: ar
+      text: فَمَنۢ بَدَّلَهُۥ بَعْدَمَا سَمِعَهُۥ فَإِنَّمَآ إِثْمُهُۥ عَلَى ٱلَّذِينَ يُبَدِّلُونَهُۥٓ
+        إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

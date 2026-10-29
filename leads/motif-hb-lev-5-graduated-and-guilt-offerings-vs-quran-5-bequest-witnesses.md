@@ -2,8 +2,7 @@
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-5-bequest-witnesses
 title: Graduated purification offering and the guilt (asham) offering ↔ Witnesses to a bequest made far
   from home
-summary: 'These two units share 1 motifs: a witness who hears a public adjuration and withholds testimony
-  bears guilt.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - witness-who-hears-adjuration-must-testify
-passages:
-- tradition: judaism
-  ref: Lev 5:1
-  note: A witness who hears a public adjuration and withholds testimony bears guilt (qol alah, public
-    curse on withholders)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֶ֣פֶשׁ כִּֽי תֶחֱטָ֗א וְשָֽׁמְעָה֙ ק֣וֹל אָלָ֔ה וְה֣וּא עֵ֔ד א֥וֹ רָאָ֖ה א֣וֹ יָדָ֑ע אִם ל֥וֹא
-    יַגִּ֖יד וְנָשָׂ֥א עֲוֺנֽוֹ
-- tradition: islam
-  ref: Quran 5:106
-  note: A witness who hears a public adjuration and withholds testimony bears guilt ('we will not conceal
-    the testimony of God')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
-    ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
-    فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
-    بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ
-    ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Withholding testimony under oath is sin. Q: fa-yuqsimāni bi-llāhi ... wa-lā naktumu shahādata
-    llāhi innā idhan la-mina l-āthimīna. Lev: wə-šāmʿāh qôl ʾālāh wə-hûʾ ʿēd ... ʾim-lôʾ yaggîd wə-nāśāʾ
-    ʿăwōnô. Both name the guilt (āthimīn / ʿăwōnô) of the witness who conceals.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A witness who hears a public adjuration and withholds testimony
     bears guilt (weight 6.3). Pair score 6.3.'
@@ -68,6 +45,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A witness who hears a public adjuration and withholds testimony bears guilt
+kinds:
+- parallel
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-5-bequest-witnesses
+  title: Witnesses to a bequest made far from home
+  tradition: islam
+matches:
+- kind: parallel
+  label: A witness who hears a public adjuration and withholds testimony bears guilt
+  note: 'Withholding testimony under oath is sin. Q: fa-yuqsimāni bi-llāhi ... wa-lā naktumu shahādata
+    llāhi innā idhan la-mina l-āthimīna. Lev: wə-šāmʿāh qôl ʾālāh wə-hûʾ ʿēd ... ʾim-lôʾ yaggîd wə-nāśāʾ
+    ʿăwōnô. Both name the guilt (āthimīn / ʿăwōnô) of the witness who conceals.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:1
+      lang: he
+      text: וְנֶ֣פֶשׁ כִּֽי תֶחֱטָ֗א וְשָֽׁמְעָה֙ ק֣וֹל אָלָ֔ה וְה֣וּא עֵ֔ד א֥וֹ רָאָ֖ה א֣וֹ יָדָ֑ע אִם
+        ל֥וֹא יַגִּ֖יד וְנָשָׂ֥א עֲוֺנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:106
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
+        ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
+        فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
+        بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ
+        شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
 ---
 
 ## Questions

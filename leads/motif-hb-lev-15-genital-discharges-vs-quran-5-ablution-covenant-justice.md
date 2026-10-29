@@ -2,7 +2,7 @@
 id: motif-hb-lev-15-genital-discharges-vs-quran-5-ablution-covenant-justice
 title: Impurity of bodily discharges, semen and menstruation ↔ Ablution, the covenant 'we hear and obey',
   and justice despite hatred
-summary: 'These two units share 1 motifs: bathing in water after sexual emission or intercourse.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,46 +15,9 @@ layers:
 - motif
 motifs:
 - bathing-after-sexual-impurity
-passages:
-- tradition: judaism
-  ref: Lev 15:16
-  note: 'Bathing in water after sexual emission or intercourse (Sexual impurity requires a full wash.
-    Q: wa-in kuntum junuban fa-ṭṭahharū ... aw lāmastumu l-nisāʾa. Lev: wə-rāḥaṣ bam-mayim ʾet-kol-bəśārô;
-    wə-ʾiššāh ʾăšer yiškav ʾîš ʾōtāh ... wə-rāḥăṣû vam-mayim. Q adds the waterless substitute (fa-tayammamū
-    ṣaʿīdan ṭayyiban) and drops ''unclean until evening''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
-    עַד הָעָֽרֶב
-- tradition: judaism
-  ref: Lev 15:18
-  note: 'Bathing in water after sexual emission or intercourse (Sexual impurity requires a full wash.
-    Q: wa-in kuntum junuban fa-ṭṭahharū ... aw lāmastumu l-nisāʾa. Lev: wə-rāḥaṣ bam-mayim ʾet-kol-bəśārô;
-    wə-ʾiššāh ʾăšer yiškav ʾîš ʾōtāh ... wə-rāḥăṣû vam-mayim. Q adds the waterless substitute (fa-tayammamū
-    ṣaʿīdan ṭayyiban) and drops ''unclean until evening''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ עַד
-    הָעָֽרֶב
-- tradition: islam
-  ref: Quran 5:6
-  note: 'Bathing in water after sexual emission or intercourse (Sexual impurity requires a full wash.
-    Q: wa-in kuntum junuban fa-ṭṭahharū ... aw lāmastumu l-nisāʾa. Lev: wə-rāḥaṣ bam-mayim ʾet-kol-bəśārô;
-    wə-ʾiššāh ʾăšer yiškav ʾîš ʾōtāh ... wə-rāḥăṣû vam-mayim. Q adds the waterless substitute (fa-tayammamū
-    ṣaʿīdan ṭayyiban) and drops ''unclean until evening''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ
-    إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا
-    فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ
-    أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟
-    بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن
-    يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Sexual impurity requires a full wash. Q: wa-in kuntum junuban fa-ṭṭahharū ... aw lāmastumu
-    l-nisāʾa. Lev: wə-rāḥaṣ bam-mayim ʾet-kol-bəśārô; wə-ʾiššāh ʾăšer yiškav ʾîš ʾōtāh ... wə-rāḥăṣû vam-mayim.
-    Q adds the waterless substitute (fa-tayammamū ṣaʿīdan ṭayyiban) and drops ''unclean until evening''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bathing in water after sexual emission or intercourse (weight 6.7).
     Pair score 6.7.'
@@ -87,6 +50,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Bathing in water after sexual emission or intercourse
+kinds:
+- parallel
+units:
+- id: hb-lev-15-genital-discharges
+  title: Impurity of bodily discharges, semen and menstruation
+  tradition: judaism
+- id: quran-5-ablution-covenant-justice
+  title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+  tradition: islam
+matches:
+- kind: parallel
+  label: Bathing in water after sexual emission or intercourse
+  note: 'Sexual impurity requires a full wash. Q: wa-in kuntum junuban fa-ṭṭahharū ... aw lāmastumu l-nisāʾa.
+    Lev: wə-rāḥaṣ bam-mayim ʾet-kol-bəśārô; wə-ʾiššāh ʾăšer yiškav ʾîš ʾōtāh ... wə-rāḥăṣû vam-mayim.
+    Q adds the waterless substitute (fa-tayammamū ṣaʿīdan ṭayyiban) and drops ''unclean until evening''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 15:16
+      lang: he
+      text: וְאִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת זָ֑רַע וְרָחַ֥ץ בַּמַּ֛יִם אֶת כָּל בְּשָׂר֖וֹ וְטָמֵ֥א
+        עַד הָעָֽרֶב
+    - ref: Lev 15:18
+      lang: he
+      text: וְאִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ אֹתָ֖הּ שִׁכְבַת זָ֑רַע וְרָחֲצ֣וּ בַמַּ֔יִם וְטָמְא֖וּ
+        עַד הָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 5:6
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ
+        وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ
+        وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ
+        مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟
+        صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ
+        عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ
+        تَشْكُرُونَ
 ---
 
 ## Questions

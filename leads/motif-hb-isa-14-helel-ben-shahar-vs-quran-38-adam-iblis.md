@@ -2,8 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-38-adam-iblis
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ Adam made from
   clay; Iblis refuses and is granted respite
-summary: 'These two units share 1 motifs: god expels iblis as accursed (rajim) with a curse until the
-  day of judgment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - iblis-expelled-and-cursed
-passages:
-- tradition: judaism
-  ref: Isa 14:12
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (ʾêk nāpaltā miššāmayim
-    hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh ləʿelyôn ʾak ʾel-šəʾôl
-    tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A proud being of heaven
-    is cast down for its own self-exaltation. Isa's taunt is over the king of Babylon; Iblis's pride is
-    against man, not God.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל גּוֹיִֽם
-- tradition: judaism
-  ref: Isa 14:13
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (ʾêk nāpaltā miššāmayim
-    hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh ləʿelyôn ʾak ʾel-šəʾôl
-    tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A proud being of heaven
-    is cast down for its own self-exaltation. Isa's taunt is over the king of Babylon; Iblis's pride is
-    against man, not God.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים כִּסְאִ֑י
-    וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
-- tradition: islam
-  ref: Quran 38:77
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-- tradition: islam
-  ref: Quran 38:78
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾêḵ nāp̄altā miš-šāmayim hêlēl ben-šāḥar ... ʾeʿĕleh ʿal-bāmŏṯê ʿāḇ ʾeddammeh lə-ʿelyôn vs.
-    a-stakbarta am kunta mina l-ʿālīn ... fa-khruj minhā fa-innaka rajīm. The proud being who would be
-    ''high'' is thrown down; ʿelyôn and ʿālīn share the root ʿ-l-y. Isaiah''s taunt is over the king of
-    Babylon.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
     of Judgment (weight 6.0). Pair score 6.0.'
@@ -91,6 +53,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+kinds:
+- echo
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: echo
+  label: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+  note: ʾêḵ nāp̄altā miš-šāmayim hêlēl ben-šāḥar ... ʾeʿĕleh ʿal-bāmŏṯê ʿāḇ ʾeddammeh lə-ʿelyôn vs. a-stakbarta
+    am kunta mina l-ʿālīn ... fa-khruj minhā fa-innaka rajīm. The proud being who would be 'high' is thrown
+    down; ʿelyôn and ʿālīn share the root ʿ-l-y. Isaiah's taunt is over the king of Babylon.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:12
+      lang: he
+      text: אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל גּוֹיִֽם
+    - ref: Isa 14:13
+      lang: he
+      text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים
+        כִּסְאִ֑י וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
+    - ref: Isa 14:14
+      lang: he
+      text: אֶעֱלֶ֖ה עַל בָּ֣מֳתֵי עָ֑ב אֶדַּמֶּ֖ה לְעֶלְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 38:75
+      lang: ar
+      text: قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ أَسْتَكْبَرْتَ أَمْ
+        كُنتَ مِنَ ٱلْعَالِينَ
+    - ref: Quran 38:77
+      lang: ar
+      text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
 ---
 
 ## Questions

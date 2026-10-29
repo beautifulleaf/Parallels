@@ -2,9 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-20-sea-crossing-sinai
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ The night departure, the dry road through
   the sea, the mount and manna
-summary: 'These two units share 3 motifs: manna named from the people''s question ''what is it?'' (man
-  hu), the people walk on dry ground through the sea with the waters as a wall on either side, the returning
-  waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -19,73 +17,9 @@ motifs:
 - what-is-it-name-of-manna
 - walk-on-dry-ground-waters-as-walls
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:24
-  note: 'Manna named from the people''s question ''What is it?'' (man hu) (wayyamṭēr ʿălêhem mān leʾĕkōl
-    ... wayyamṭēr ʿălêhem keʿāpār šəʾēr ... ʿôd ʾoklām bəpîhem wəʾap ʾĕlōhîm ʿālâ bāhem; nazzalnā ʿalaykumu
-    l-manna wa-s-salwā ... wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum ghaḍabī: manna and fowl sent down, then
-    God''s wrath at greed. The mān / mann name is the same.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ
-- tradition: judaism
-  ref: Ps 78:27
-  note: 'Manna named from the people''s question ''What is it?'' (man hu) (wayyamṭēr ʿălêhem mān leʾĕkōl
-    ... wayyamṭēr ʿălêhem keʿāpār šəʾēr ... ʿôd ʾoklām bəpîhem wəʾap ʾĕlōhîm ʿālâ bāhem; nazzalnā ʿalaykumu
-    l-manna wa-s-salwā ... wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum ghaḍabī: manna and fowl sent down, then
-    God''s wrath at greed. The mān / mann name is the same.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף
-- tradition: islam
-  ref: Quran 20:80
-  note: Manna named from the people's question 'What is it?' (man hu) (al-mann wa-l-salwā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
-    ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-- tradition: islam
-  ref: Quran 20:81
-  note: Manna named from the people's question 'What is it?' (man hu) (al-mann wa-l-salwā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن
-    يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
-- tradition: judaism
-  ref: Ps 78:13
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (va-yatsev
-    mayim kemo ned, waters stood like a heap)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
-- tradition: islam
-  ref: Quran 20:77
-  note: The people walk on dry ground through the sea with the waters as a wall on either side ('strike
-    for them a dry road (ṭarīqan yabasan) in the sea'; departure by night (asri))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى ٱلْبَحْرِ
-    يَبَسًا لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 20:78
-  note: The returning waters drown the pursuing army; not one survives ('there covered them of the sea
-    what covered them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyamṭēr ʿălêhem mān leʾĕkōl ... wayyamṭēr ʿălêhem keʿāpār šəʾēr ... ʿôd ʾoklām bəpîhem
-    wəʾap ʾĕlōhîm ʿālâ bāhem; nazzalnā ʿalaykumu l-manna wa-s-salwā ... wa-lā taṭghaw fīhi fa-yaḥilla
-    ʿalaykum ghaḍabī: manna and fowl sent down, then God''s wrath at greed. The mān / mann name is the
-    same.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Manna named from the people''s question ''What is it?'' (man hu)
     (weight 6.3); The people walk on dry ground through the sea with the waters as a wall on either side
@@ -118,6 +52,75 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Manna named from the people's question 'What is it?' (man hu)
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-20-sea-crossing-sinai
+  title: The night departure, the dry road through the sea, the mount and manna
+  tradition: islam
+matches:
+- kind: parallel
+  label: Manna named from the people's question 'What is it?' (man hu)
+  note: 'wayyamṭēr ʿălêhem mān leʾĕkōl ... wayyamṭēr ʿălêhem keʿāpār šəʾēr ... ʿôd ʾoklām bəpîhem wəʾap
+    ʾĕlōhîm ʿālâ bāhem; nazzalnā ʿalaykumu l-manna wa-s-salwā ... wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum
+    ghaḍabī: manna and fowl sent down, then God''s wrath at greed. The mān / mann name is the same.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:24
+      lang: he
+      text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ
+    - ref: Ps 78:27
+      lang: he
+      text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף
+    - ref: Ps 78:29
+      lang: he
+      text: וַיֹּאכְל֣וּ וַיִּשְׂבְּע֣וּ מְאֹ֑ד וְ֝תַֽאֲוָתָ֗ם יָבִ֥א לָהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:80
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
+        ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
+    - ref: Quran 20:81
+      lang: ar
+      text: كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى
+        وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
+- kind: shared
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:13
+      lang: he
+      text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
+    note: va-yatsev mayim kemo ned, waters stood like a heap
+  - tradition: islam
+    passages:
+    - ref: Quran 20:77
+      lang: ar
+      text: وَلَقَدْ أَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِى فَٱضْرِبْ لَهُمْ طَرِيقًا فِى
+        ٱلْبَحْرِ يَبَسًا لَّا تَخَٰفُ دَرَكًا وَلَا تَخْشَىٰ
+    note: '''strike for them a dry road (ṭarīqan yabasan) in the sea''; departure by night (asri)'
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:78
+      lang: ar
+      text: فَأَتْبَعَهُمْ فِرْعَوْنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلْيَمِّ مَا غَشِيَهُمْ
+    note: '''there covered them of the sea what covered them'''
 ---
 
 ## Questions

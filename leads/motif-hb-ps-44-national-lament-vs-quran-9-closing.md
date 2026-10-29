@@ -2,8 +2,7 @@
 id: motif-hb-ps-44-national-lament-vs-quran-9-closing
 title: Psalm 44 - national lament; why do you sleep, O Lord ↔ Surahs that increase faith; the compassionate
   messenger
-summary: 'These two units share 1 motifs: they did not win the land by their sword but by god''s right
-  hand, arm and the light of his face.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - not-by-their-sword-but-gods-arm
-passages:
-- tradition: judaism
-  ref: Ps 44:4
-  note: They did not win the land by their sword but by God's right hand, arm and the light of his face
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י לֹ֪א בְחַרְבָּ֡ם יָ֥רְשׁוּ אָ֗רֶץ וּזְרוֹעָם֮ לֹא הוֹשִׁ֪יעָ֫ה לָּ֥מוֹ כִּֽי יְמִֽינְךָ֣
-    וּ֭זְרוֹעֲךָ וְא֥וֹר פָּנֶ֗יךָ כִּ֣י רְצִיתָֽם
-- tradition: judaism
-  ref: Ps 44:7
-  note: They did not win the land by their sword but by God's right hand, arm and the light of his face
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י לֹ֣א בְקַשְׁתִּ֣י אֶבְטָ֑ח וְ֝חַרְבִּ֗י לֹ֣א תוֹשִׁיעֵֽנִי
-- tradition: islam
-  ref: Quran 9:129
-  note: 'They did not win the land by their sword but by God''s right hand, arm and the light of his face
-    (Reliance on God, not on one''s own arms: ḥasbiya llāhu ... ʿalayhi tawakkaltu vs kî lōʾ bᵉqaštî ʾebṭāḥ
-    wᵉḥarbî lōʾ tôšîʿēnî kî hôšaʿtānû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
-    رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Reliance on God, not on one''s own arms: ḥasbiya llāhu ... ʿalayhi tawakkaltu vs kî lōʾ bᵉqaštî
-    ʾebṭāḥ wᵉḥarbî lōʾ tôšîʿēnî kî hôšaʿtānû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They did not win the land by their sword but by God''s right hand,
     arm and the light of his face (weight 6.7). Pair score 6.7.'
@@ -72,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They did not win the land by their sword but by God's right hand, arm and the light of his face
+kinds:
+- echo
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-9-closing
+  title: Surahs that increase faith; the compassionate messenger
+  tradition: islam
+matches:
+- kind: echo
+  label: They did not win the land by their sword but by God's right hand, arm and the light of his face
+  note: 'Reliance on God, not on one''s own arms: ḥasbiya llāhu ... ʿalayhi tawakkaltu vs kî lōʾ bᵉqaštî
+    ʾebṭāḥ wᵉḥarbî lōʾ tôšîʿēnî kî hôšaʿtānû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:7
+      lang: he
+      text: כִּ֤י לֹ֣א בְקַשְׁתִּ֣י אֶבְטָ֑ח וְ֝חַרְבִּ֗י לֹ֣א תוֹשִׁיעֵֽנִי
+    - ref: Ps 44:8
+      lang: he
+      text: כִּ֣י ה֭וֹשַׁעְתָּנוּ מִצָּרֵ֑ינוּ וּמְשַׂנְאֵ֥ינוּ הֱבִישֽׁוֹתָ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:129
+      lang: ar
+      text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
+        رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 ---
 
 ## Questions

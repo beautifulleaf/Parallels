@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-2-call-to-worship
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Call to worship the Creator;
   the challenge; paradise and the gnat
-summary: 'These two units share 3 motifs: god takes life and gives it again [divergence between the texts],
-  god stretches out the heavens like a tent curtain, god visits the earth with rain, softens it with showers,
-  and crowns the year with harvest.'
+summary: '3 correspondences read side by side: 1 deliberately changed, 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -20,91 +18,9 @@ motifs:
 - god-takes-and-gives-life-as-divergence
 - heavens-stretched-like-tent
 - god-gives-rain-and-harvest
-passages:
-- tradition: judaism
-  ref: Ps 104:29
-  note: 'God takes life and gives it again [divergence between the texts] (Ps 104:29-30 tōsēp rûḥām yigwāʿûn
-    ... tĕšallaḥ rûḥăkā yibbārēʾûn: God takes breath and creatures die, sends his spirit and they are
-    created, a cycle within nature; Q 2:28 kuntum amwātan fa-aḥyākum thumma yumītukum thumma yuḥyīkum
-    thumma ilayhi turjaʿūn: the same give-and-take of life told of each person and closed by resurrection
-    and return to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'God takes life and gives it again [divergence between the texts] (Ps 104:29-30 tōsēp rûḥām yigwāʿûn
-    ... tĕšallaḥ rûḥăkā yibbārēʾûn: God takes breath and creatures die, sends his spirit and they are
-    created, a cycle within nature; Q 2:28 kuntum amwātan fa-aḥyākum thumma yumītukum thumma yuḥyīkum
-    thumma ilayhi turjaʿūn: the same give-and-take of life told of each person and closed by resurrection
-    and return to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 2:28
-  note: 'God takes life and gives it again [divergence between the texts] (Ps 104:29-30 tōsēp rûḥām yigwāʿûn
-    ... tĕšallaḥ rûḥăkā yibbārēʾûn: God takes breath and creatures die, sends his spirit and they are
-    created, a cycle within nature; Q 2:28 kuntum amwātan fa-aḥyākum thumma yumītukum thumma yuḥyīkum
-    thumma ilayhi turjaʿūn: the same give-and-take of life told of each person and closed by resurrection
-    and return to God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًا فَأَحْيَٰكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ
-    ثُمَّ إِلَيْهِ تُرْجَعُونَ
-- tradition: judaism
-  ref: Ps 104:2
-  note: God stretches out the heavens like a tent curtain (noteh shamayim ka-yeri'ah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
-- tradition: islam
-  ref: Quran 2:22
-  note: 'God stretches out the heavens like a tent curtain (Ps 104:2 nôṭeh šāmayim ka-yrîʿâ ''stretches
-    out the heavens like a tent curtain''; Q 2:22 jaʿala lakumu l-arḍa firāshan wa-s-samāʾa bināʾan: earth
-    a spread bed, sky a built canopy. Textile tent vs built structure; in the Quran both are made ''for
-    you'' (lakum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً
-    فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ
-- tradition: judaism
-  ref: Ps 104:10-14
-  note: God visits the earth with rain, softens it with showers, and crowns the year with harvest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (104:10) הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן (104:11) יַ֭שְׁקוּ
-    כָּל חַיְת֣וֹ שָׂדָ֑י יִשְׁבְּר֖וּ פְרָאִ֣ים צְמָאָֽם (104:12) עֲ֭לֵיהֶם עוֹף הַשָּׁמַ֣יִם יִשְׁכּ֑וֹן
-    מִבֵּ֥ין עֳ֝פָאיִ֗ם יִתְּנוּ קֽוֹל (104:13) מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ
-    תִּשְׂבַּ֥ע הָאָֽרֶץ (104:14) מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא
-    לֶ֝֗חֶם מִן הָאָֽרֶץ
-- tradition: judaism
-  ref: Ps 104:13
-  note: God visits the earth with rain, softens it with showers, and crowns the year with harvest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:22
-  note: 'God visits the earth with rain, softens it with showers, and crowns the year with harvest (Ps
-    104:13-14 mašqeh hārîm mē-ʿăliyyôtāyw ... lĕhôṣîʾ leḥem min hā-ʾāreṣ; Q 2:22 wa-anzala mina s-samāʾi
-    māʾan fa-akhraja bihi mina th-thamarāti rizqan lakum: rain from above brings out food from the earth
-    (hôṣîʾ / akhraja).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً
-    فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo, parallel. Ps 104:13-14 mašqeh hārîm mē-ʿăliyyôtāyw ... lĕhôṣîʾ leḥem min hā-ʾāreṣ;
-    Q 2:22 wa-anzala mina s-samāʾi māʾan fa-akhraja bihi mina th-thamarāti rizqan lakum: rain from above
-    brings out food from the earth (hôṣîʾ / akhraja). Ps 104:2 nôṭeh šāmayim ka-yrîʿâ ''stretches out
-    the heavens like a tent curtain''; Q 2:22 jaʿala lakumu l-arḍa firāshan wa-s-samāʾa bināʾan: earth
-    a spread bed, sky a built canopy. Textile tent vs built structure; in the Quran both are made ''for
-    you'' (lakum). Ps 104:29-30 tōsēp rûḥām yigwāʿûn ... tĕšallaḥ rûḥăkā yibbārēʾûn: God takes breath
-    and creatures die, sends his spirit and they are created, a cycle within nature; Q 2:28 kuntum amwātan
-    fa-aḥyākum thumma yumītukum thumma yuḥyīkum thumma ilayhi turjaʿūn: the same give-and-take of life
-    told of each person and closed by resurrection and return to God.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes life and gives it again [divergence between the texts]
     (weight 6.7); God stretches out the heavens like a tent curtain (weight 6.3); God visits the earth
@@ -141,6 +57,79 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God takes life and gives it again
+kinds:
+- divergence
+- parallel
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: divergence
+  label: God takes life and gives it again
+  note: 'Ps 104:29-30 tōsēp rûḥām yigwāʿûn ... tĕšallaḥ rûḥăkā yibbārēʾûn: God takes breath and creatures
+    die, sends his spirit and they are created, a cycle within nature; Q 2:28 kuntum amwātan fa-aḥyākum
+    thumma yumītukum thumma yuḥyīkum thumma ilayhi turjaʿūn: the same give-and-take of life told of each
+    person and closed by resurrection and return to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:29
+      lang: he
+      text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:28
+      lang: ar
+      text: كَيْفَ تَكْفُرُونَ بِٱللَّهِ وَكُنتُمْ أَمْوَٰتًا فَأَحْيَٰكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ
+        ثُمَّ إِلَيْهِ تُرْجَعُونَ
+- kind: parallel
+  label: God visits the earth with rain, softens it with showers, and crowns the year with harvest
+  note: 'Ps 104:13-14 mašqeh hārîm mē-ʿăliyyôtāyw ... lĕhôṣîʾ leḥem min hā-ʾāreṣ; Q 2:22 wa-anzala mina
+    s-samāʾi māʾan fa-akhraja bihi mina th-thamarāti rizqan lakum: rain from above brings out food from
+    the earth (hôṣîʾ / akhraja).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    - ref: Ps 104:14
+      lang: he
+      text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:22
+      lang: ar
+      text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ
+        مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا
+        وَأَنتُمْ تَعْلَمُونَ
+- kind: echo
+  label: God stretches out the heavens like a tent curtain
+  note: 'Ps 104:2 nôṭeh šāmayim ka-yrîʿâ ''stretches out the heavens like a tent curtain''; Q 2:22 jaʿala
+    lakumu l-arḍa firāshan wa-s-samāʾa bināʾan: earth a spread bed, sky a built canopy. Textile tent vs
+    built structure; in the Quran both are made ''for you'' (lakum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:2
+      lang: he
+      text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:22
+      lang: ar
+      text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ
+        مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا
+        وَأَنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

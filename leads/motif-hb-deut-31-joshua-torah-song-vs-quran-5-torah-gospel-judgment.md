@@ -2,7 +2,7 @@
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-5-torah-gospel-judgment
 title: Joshua commissioned; Torah written and deposited; the Song commanded ↔ Judging by the Torah, the
   Gospel and the Quran; eye for eye
-summary: 'These two units share 1 motifs: the written torah is entrusted to custodians who are its witnesses.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,48 +15,9 @@ layers:
 - motif
 motifs:
 - custodians-of-the-written-torah
-passages:
-- tradition: judaism
-  ref: Deut 31:9
-  note: 'The written Torah is entrusted to custodians who are its witnesses (Guardians of the written
-    Torah act as its witnesses. Q: wa-l-rabbāniyyūna wa-l-aḥbāru bi-mā stuḥfiẓū min kitābi llāhi wa-kānū
-    ʿalayhi shuhadāʾa. Deut: Moses gives the Torah to ha-kkōhănîm bənê Lēwî; lāqōaḥ ʾēt sēfer hat-tôrāh
-    ... wə-hāyāh šām bəkhā lə-ʿēd. In Deut the book itself is the witness (ʿēd); in Q the custodians are
-    (shuhadāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַנֹּ֣שְׂאִ֔ים
-    אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Deut 31:26
-  note: 'The written Torah is entrusted to custodians who are its witnesses (Guardians of the written
-    Torah act as its witnesses. Q: wa-l-rabbāniyyūna wa-l-aḥbāru bi-mā stuḥfiẓū min kitābi llāhi wa-kānū
-    ʿalayhi shuhadāʾa. Deut: Moses gives the Torah to ha-kkōhănîm bənê Lēwî; lāqōaḥ ʾēt sēfer hat-tôrāh
-    ... wə-hāyāh šām bəkhā lə-ʿēd. In Deut the book itself is the witness (ʿēd); in Q the custodians are
-    (shuhadāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית יְהוָ֖ה אֱלֹהֵיכֶ֑ם
-    וְהָֽיָה שָׁ֥ם בְּךָ֖ לְעֵֽד
-- tradition: islam
-  ref: Quran 5:44
-  note: 'The written Torah is entrusted to custodians who are its witnesses (Guardians of the written
-    Torah act as its witnesses. Q: wa-l-rabbāniyyūna wa-l-aḥbāru bi-mā stuḥfiẓū min kitābi llāhi wa-kānū
-    ʿalayhi shuhadāʾa. Deut: Moses gives the Torah to ha-kkōhănîm bənê Lēwî; lāqōaḥ ʾēt sēfer hat-tôrāh
-    ... wə-hāyāh šām bəkhā lə-ʿēd. In Deut the book itself is the witness (ʿēd); in Q the custodians are
-    (shuhadāʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟
-    لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ ٱللَّهِ وَكَانُوا۟
-    عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا
-    وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Guardians of the written Torah act as its witnesses. Q: wa-l-rabbāniyyūna wa-l-aḥbāru bi-mā
-    stuḥfiẓū min kitābi llāhi wa-kānū ʿalayhi shuhadāʾa. Deut: Moses gives the Torah to ha-kkōhănîm bənê
-    Lēwî; lāqōaḥ ʾēt sēfer hat-tôrāh ... wə-hāyāh šām bəkhā lə-ʿēd. In Deut the book itself is the witness
-    (ʿēd); in Q the custodians are (shuhadāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The written Torah is entrusted to custodians who are its witnesses
     (weight 6.7). Pair score 6.7.'
@@ -91,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The written Torah is entrusted to custodians who are its witnesses
+kinds:
+- parallel
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: parallel
+  label: The written Torah is entrusted to custodians who are its witnesses
+  note: 'Guardians of the written Torah act as its witnesses. Q: wa-l-rabbāniyyūna wa-l-aḥbāru bi-mā stuḥfiẓū
+    min kitābi llāhi wa-kānū ʿalayhi shuhadāʾa. Deut: Moses gives the Torah to ha-kkōhănîm bənê Lēwî;
+    lāqōaḥ ʾēt sēfer hat-tôrāh ... wə-hāyāh šām bəkhā lə-ʿēd. In Deut the book itself is the witness (ʿēd);
+    in Q the custodians are (shuhadāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:9
+      lang: he
+      text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י
+        הַנֹּ֣שְׂאִ֔ים אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
+    - ref: Deut 31:26
+      lang: he
+      text: לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית יְהוָ֖ה
+        אֱלֹהֵיכֶ֑ם וְהָֽיָה שָׁ֥ם בְּךָ֖ לְעֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 5:44
+      lang: ar
+      text: إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ
+        أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ
+        ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟
+        بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ
 ---
 
 ## Questions

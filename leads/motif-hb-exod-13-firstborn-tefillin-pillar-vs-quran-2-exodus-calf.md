@@ -2,8 +2,7 @@
 id: motif-hb-exod-13-firstborn-tefillin-pillar-vs-quran-2-exodus-calf
 title: Consecration of the firstborn, sign on hand and forehead, Joseph's bones, pillar of cloud and fire
   ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: the cloud over israel in the wilderness: guide or shade [divergence
-  between the texts], god leads the people in a pillar of cloud by day and a pillar of fire by night.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,52 +15,9 @@ layers:
 motifs:
 - cloud-over-israel-in-wilderness-as-divergence
 - pillar-of-cloud-and-fire
-passages:
-- tradition: judaism
-  ref: Exod 13:21
-  note: 'The cloud over Israel in the wilderness: guide or shade [divergence between the texts] (Exod
-    13:21 bĕ-ʿammûd ʿānān lanḥōtām ha-derek wĕ-laylâ bĕ-ʿammûd ʾēš: a pillar that leads the way, by day
-    and night; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma: clouds as shade over them. The guide becomes a
-    shelter; the fire is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה בְּעַמּ֥וּד
-    אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
-- tradition: islam
-  ref: Quran 2:57
-  note: 'The cloud over Israel in the wilderness: guide or shade [divergence between the texts] (Exod
-    13:21 bĕ-ʿammûd ʿānān lanḥōtām ha-derek wĕ-laylâ bĕ-ʿammûd ʾēš: a pillar that leads the way, by day
-    and night; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma: clouds as shade over them. The guide becomes a
-    shelter; the fire is dropped.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Exod 13:21
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה בְּעַמּ֥וּד
-    אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
-- tradition: judaism
-  ref: Exod 13:22
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יָמִ֞ישׁ עַמּ֤וּד הֶֽעָנָן֙ יוֹמָ֔ם וְעַמּ֥וּד הָאֵ֖שׁ לָ֑יְלָה לִפְנֵ֖י הָעָֽם
-- tradition: islam
-  ref: Quran 2:57
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (shaded with clouds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 13:21 bĕ-ʿammûd ʿānān lanḥōtām ha-derek wĕ-laylâ bĕ-ʿammûd ʾēš: a pillar that leads
-    the way, by day and night; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma: clouds as shade over them. The
-    guide becomes a shelter; the fire is dropped.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The cloud over Israel in the wilderness: guide or shade [divergence
     between the texts] (weight 6.7); God leads the people in a pillar of cloud by day and a pillar of
@@ -96,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The cloud over Israel in the wilderness: guide or shade'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-13-firstborn-tefillin-pillar
+  title: Consecration of the firstborn, sign on hand and forehead, Joseph's bones, pillar of cloud and
+    fire
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The cloud over Israel in the wilderness: guide or shade'
+  note: 'Exod 13:21 bĕ-ʿammûd ʿānān lanḥōtām ha-derek wĕ-laylâ bĕ-ʿammûd ʾēš: a pillar that leads the
+    way, by day and night; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma: clouds as shade over them. The guide
+    becomes a shelter; the fire is dropped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 13:21
+      lang: he
+      text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה
+        בְּעַמּ֥וּד אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: shared
+  label: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 13:21
+      lang: he
+      text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה
+        בְּעַמּ֥וּד אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
+    - ref: Exod 13:22
+      lang: he
+      text: לֹֽא יָמִ֞ישׁ עַמּ֤וּד הֶֽעָנָן֙ יוֹמָ֔ם וְעַמּ֥וּד הָאֵ֖שׁ לָ֑יְלָה לִפְנֵ֖י הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    note: shaded with clouds
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-amos-3-lion-has-roared-vs-quran-6-slaughter-chest-jinn
 title: '''You only have I known''; the lion has roared ↔ Eat what God''s name is spoken over; the opened
   breast; jinn and humans judged'
-summary: 'These two units share 1 motifs: god does not punish a people before sending a messenger, lest
-  they plead they had none.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - no-punishment-without-messenger
-passages:
-- tradition: judaism
-  ref: Amos 3:7
-  note: 'God does not punish a people before sending a messenger, lest they plead they had none (No judgement
-    without prior warning through messengers. Amos: kî lōʾ yaʿăśeh ʾădōnāy YHWH dāvār kî ʾim-gālāh sôdô
-    ʾel-ʿăvādāyw han-nəvîʾîm. Q: a-lam yaʾtikum rusulun minkum ... dhālika an lam yakun rabbuka muhlika
-    l-qurā bi-ẓulmin wa-ahluhā ghāfilūna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י לֹ֧א יַעֲשֶׂ֛ה אֲדֹנָ֥י יְהוִ֖ה דָּבָ֑ר כִּ֚י אִם גָּלָ֣ה סוֹד֔וֹ אֶל עֲבָדָ֖יו הַנְּבִיאִֽים
-- tradition: islam
-  ref: Quran 6:131
-  note: God does not punish a people before sending a messenger, lest they plead they had none
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَٰفِلُونَ
-- tradition: islam
-  ref: Quran 6:130
-  note: God does not punish a people before sending a messenger, lest they plead they had none
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى
-    وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ
-    ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. No judgement without prior warning through messengers. Amos: kî lōʾ yaʿăśeh ʾădōnāy YHWH dāvār
-    kî ʾim-gālāh sôdô ʾel-ʿăvādāyw han-nəvîʾîm. Q: a-lam yaʾtikum rusulun minkum ... dhālika an lam yakun
-    rabbuka muhlika l-qurā bi-ẓulmin wa-ahluhā ghāfilūna.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not punish a people before sending a messenger, lest they
     plead they had none (weight 5.4). Pair score 5.4.'
@@ -77,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not punish a people before sending a messenger, lest they plead they had none
+kinds:
+- echo
+units:
+- id: hb-amos-3-lion-has-roared
+  title: '''You only have I known''; the lion has roared'
+  tradition: judaism
+- id: quran-6-slaughter-chest-jinn
+  title: Eat what God's name is spoken over; the opened breast; jinn and humans judged
+  tradition: islam
+matches:
+- kind: echo
+  label: God does not punish a people before sending a messenger, lest they plead they had none
+  note: 'No judgement without prior warning through messengers. Amos: kî lōʾ yaʿăśeh ʾădōnāy YHWH dāvār
+    kî ʾim-gālāh sôdô ʾel-ʿăvādāyw han-nəvîʾîm. Q: a-lam yaʾtikum rusulun minkum ... dhālika an lam yakun
+    rabbuka muhlika l-qurā bi-ẓulmin wa-ahluhā ghāfilūna.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 3:7
+      lang: he
+      text: כִּ֣י לֹ֧א יַעֲשֶׂ֛ה אֲדֹנָ֥י יְהוִ֖ה דָּבָ֑ר כִּ֚י אִם גָּלָ֣ה סוֹד֔וֹ אֶל עֲבָדָ֖יו הַנְּבִיאִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 6:130
+      lang: ar
+      text: يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ أَلَمْ يَأْتِكُمْ رُسُلٌ مِّنكُمْ يَقُصُّونَ عَلَيْكُمْ ءَايَٰتِى
+        وَيُنذِرُونَكُمْ لِقَآءَ يَوْمِكُمْ هَٰذَا قَالُوا۟ شَهِدْنَا عَلَىٰٓ أَنفُسِنَا وَغَرَّتْهُمُ
+        ٱلْحَيَوٰةُ ٱلدُّنْيَا وَشَهِدُوا۟ عَلَىٰٓ أَنفُسِهِمْ أَنَّهُمْ كَانُوا۟ كَٰفِرِينَ
+    - ref: Quran 6:131
+      lang: ar
+      text: ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ ٱلْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَٰفِلُونَ
 ---
 
 ## Questions

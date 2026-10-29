@@ -1,9 +1,7 @@
 ---
 id: motif-quran-11-salih-vs-quran-11-shuayb
 title: Salih, the she-camel and the Shout ↔ Shu'ayb - measures, the prayer that commands, the clan
-summary: 'These two units share 5 motifs: a people is destroyed by the shout / blast (al-sayha), refrain
-  ''away with...'' (bu''dan li-) the destroyed people, the destroyed are as if they had never lived in
-  their land, morning finds the destroyed lying prostrate (jathimin) in their dwellings….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -18,73 +16,7 @@ motifs:
 - as-if-they-had-never-dwelt-there
 - found-dead-prostrate-in-homes
 - worship-god-no-other-god-formula
-passages:
-- tradition: islam
-  ref: Quran 11:67
-  note: A people is destroyed by the Shout / Blast (al-sayha)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
-- tradition: islam
-  ref: Quran 11:94
-  note: A people is destroyed by the Shout / Blast (al-sayha) (in 7:91 it is the quake)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا
-    وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
-- tradition: islam
-  ref: Quran 11:68
-  note: Refrain 'away with...' (bu'dan li-) the destroyed people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ أَلَا بُعْدًا لِّثَمُودَ
-- tradition: islam
-  ref: Quran 11:95
-  note: Refrain 'away with...' (bu'dan li-) the destroyed people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
-- tradition: islam
-  ref: Quran 11:68
-  note: The destroyed are as if they had never lived in their land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ أَلَا بُعْدًا لِّثَمُودَ
-- tradition: islam
-  ref: Quran 11:95
-  note: The destroyed are as if they had never lived in their land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
-- tradition: islam
-  ref: Quran 11:67
-  note: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
-- tradition: islam
-  ref: Quran 11:94
-  note: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا
-    وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
-- tradition: islam
-  ref: Quran 11:61
-  note: 'Prophet''s refrain to his people: ''Worship God; you have no god other than him'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
-    إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
-- tradition: islam
-  ref: Quran 11:84
-  note: 'Prophet''s refrain to his people: ''Worship God; you have no god other than him'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
-    عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A people is destroyed by the Shout / Blast (al-sayha) (weight 6.7);
     Refrain ''away with...'' (bu''dan li-) the destroyed people (weight 6.0); The destroyed are as if
@@ -112,6 +44,89 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A people is destroyed by the Shout / Blast (al-sayha)
+kinds:
+- shared
+units:
+- id: quran-11-salih
+  title: Salih, the she-camel and the Shout
+  tradition: islam
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: shared
+  label: A people is destroyed by the Shout / Blast (al-sayha)
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:67
+      lang: ar
+      text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:94
+      lang: ar
+      text: وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا
+        وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
+    note: in 7:91 it is the quake
+- kind: shared
+  label: Refrain 'away with...' (bu'dan li-) the destroyed people
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:68
+      lang: ar
+      text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ أَلَا بُعْدًا لِّثَمُودَ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:95
+      lang: ar
+      text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
+- kind: shared
+  label: The destroyed are as if they had never lived in their land
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:68
+      lang: ar
+      text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَآ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمْ أَلَا بُعْدًا لِّثَمُودَ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:95
+      lang: ar
+      text: كَأَن لَّمْ يَغْنَوْا۟ فِيهَآ أَلَا بُعْدًا لِّمَدْيَنَ كَمَا بَعِدَتْ ثَمُودُ
+- kind: shared
+  label: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:67
+      lang: ar
+      text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:94
+      lang: ar
+      text: وَلَمَّا جَآءَ أَمْرُنَا نَجَّيْنَا شُعَيْبًا وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ بِرَحْمَةٍ مِّنَّا
+        وَأَخَذَتِ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
+- kind: shared
+  label: 'Prophet''s refrain to his people: ''Worship God; you have no god other than him'''
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:61
+      lang: ar
+      text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
+        إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:84
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
+        عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
 ---
 
 ## Questions

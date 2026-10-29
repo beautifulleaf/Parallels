@@ -2,7 +2,7 @@
 id: motif-hb-ps-119-vav-kaf-vs-quran-51-dhariyat-oaths-and-the-righteous
 title: 'Psalm 119, stanzas vav to kaf ↔ Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful
   righteous and the beggar''s due'
-summary: 'These two units share 1 motifs: speaker rises at midnight to give thanks to god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - rise-at-midnight-to-praise
-passages:
-- tradition: judaism
-  ref: Ps 119:62
-  note: Speaker rises at midnight to give thanks to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
-- tradition: islam
-  ref: Quran 51:17
-  note: Speaker rises at midnight to give thanks to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ
-- tradition: islam
-  ref: Quran 51:18
-  note: Speaker rises at midnight to give thanks to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Night devotion of the righteous: ḥăṣôṯ laylâ ʾāqûm ləhôḏôṯ lāḵ ʿal mišpəṭê ṣiḏqeḵā vs. kānū
-    qalīlan mina l-layli mā yahjaʿūn wa-bi-l-asḥāri hum yastaghfirūn. The psalmist rises to give thanks;
-    the Quran''s righteous sleep little and ask forgiveness before dawn.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
     score 6.0.'
@@ -73,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker rises at midnight to give thanks to God
+kinds:
+- parallel
+units:
+- id: hb-ps-119-vav-kaf
+  title: Psalm 119, stanzas vav to kaf
+  tradition: judaism
+- id: quran-51-dhariyat-oaths-and-the-righteous
+  title: 'Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and the beggar''s
+    due'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Speaker rises at midnight to give thanks to God
+  note: 'Night devotion of the righteous: ḥăṣôṯ laylâ ʾāqûm ləhôḏôṯ lāḵ ʿal mišpəṭê ṣiḏqeḵā vs. kānū qalīlan
+    mina l-layli mā yahjaʿūn wa-bi-l-asḥāri hum yastaghfirūn. The psalmist rises to give thanks; the Quran''s
+    righteous sleep little and ask forgiveness before dawn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:62
+      lang: he
+      text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 51:17
+      lang: ar
+      text: كَانُوا۟ قَلِيلًا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ
+    - ref: Quran 51:18
+      lang: ar
+      text: وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ
 ---
 
 ## Questions

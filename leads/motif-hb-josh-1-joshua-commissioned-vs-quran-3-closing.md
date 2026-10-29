@@ -2,8 +2,7 @@
 id: motif-hb-josh-1-joshua-commissioned-vs-quran-3-closing
 title: God commissions Joshua; Transjordan tribes pledged ↔ Signs for people of understanding; closing
   prayer
-summary: 'These two units share 1 motifs: meditate on the book of the torah day and night; it shall not
-  depart from your mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - meditate-on-torah-day-and-night
-passages:
-- tradition: judaism
-  ref: Josh 1:8
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יָמ֡וּשׁ סֵפֶר֩ הַתּוֹרָ֨ה הַזֶּ֜ה מִפִּ֗יךָ וְהָגִ֤יתָ בּוֹ֙ יוֹמָ֣ם וָלַ֔יְלָה לְמַ֨עַן֙
-    תִּשְׁמֹ֣ר לַעֲשׂ֔וֹת כְּכָל הַכָּת֖וּב בּ֑וֹ כִּי אָ֛ז תַּצְלִ֥יחַ אֶת דְּרָכֶ֖ךָ וְאָ֥ז תַּשְׂכִּֽיל
-- tradition: islam
-  ref: Quran 3:191
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth (cf. Deut
-    6:7 'when you sit, walk, lie down and rise')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Josh 1:8 lōʾ yāmûš sēper ha-ttôrâ ha-zzeh mi-ppîkā wĕ-hāgîtā bô yômām wā-laylâ: constant meditation
-    on the Torah; Q 3:191 yadhkurūna llāha ... wa-yatafakkarūna fī khalqi s-samāwāti wa-l-arḍ: constant
-    remembrance of God and reflection on creation. The object of meditation moves from the book to God
-    and the world.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Meditate on the book of the Torah day and night; it shall not depart
     from your mouth (weight 6.0). Pair score 6.0.'
@@ -63,6 +43,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+kinds:
+- echo
+units:
+- id: hb-josh-1-joshua-commissioned
+  title: God commissions Joshua; Transjordan tribes pledged
+  tradition: judaism
+- id: quran-3-closing
+  title: Signs for people of understanding; closing prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+  note: 'Josh 1:8 lōʾ yāmûš sēper ha-ttôrâ ha-zzeh mi-ppîkā wĕ-hāgîtā bô yômām wā-laylâ: constant meditation
+    on the Torah; Q 3:191 yadhkurūna llāha ... wa-yatafakkarūna fī khalqi s-samāwāti wa-l-arḍ: constant
+    remembrance of God and reflection on creation. The object of meditation moves from the book to God
+    and the world.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 1:8
+      lang: he
+      text: לֹֽא יָמ֡וּשׁ סֵפֶר֩ הַתּוֹרָ֨ה הַזֶּ֜ה מִפִּ֗יךָ וְהָגִ֤יתָ בּוֹ֙ יוֹמָ֣ם וָלַ֔יְלָה לְמַ֨עַן֙
+        תִּשְׁמֹ֣ר לַעֲשׂ֔וֹת כְּכָל הַכָּת֖וּב בּ֑וֹ כִּי אָ֛ז תַּצְלִ֥יחַ אֶת דְּרָכֶ֖ךָ וְאָ֥ז תַּשְׂכִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 3:191
+      lang: ar
+      text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى
+        خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ
+        ٱلنَّارِ
 ---
 
 ## Questions

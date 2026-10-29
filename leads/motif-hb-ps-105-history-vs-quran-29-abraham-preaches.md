@@ -2,7 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-29-abraham-preaches
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Abraham preaches
   against idols, is saved from the fire, and Lot believes
-summary: 'These two units share 1 motifs: god identifies himself as god of abraham, isaac and jacob.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - god-of-abraham-isaac-jacob
-passages:
-- tradition: judaism
-  ref: Ps 105:9-10
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (105:9) אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק (105:10) וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב
-    לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
-- tradition: judaism
-  ref: Ps 105:9
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
-- tradition: islam
-  ref: Quran 29:27
-  note: God identifies himself as God of Abraham, Isaac and Jacob (Isaac and Jacob 'granted' to Abraham;
-    Jacob as gift alongside Isaac)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ
-    وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-wahabnā lahu Isḥāqa wa-Yaʿqūba wa-jaʿalnā fī dhurriyyatihi n-nubuwwata wa-l-kitāba ~ ʾăšer
-    kārat ʾet ʾAvrāhām û-šəvûʿātô lə-Yiśḥāq wa-yyaʿămîdehā lə-Yaʿăqōv ... ʾal tiggəʿû vi-mšîḥāy wə-li-nvîʾay
-    ʾal tārēʿû: Abraham, Isaac and Jacob as a line of God''s favor, and the patriarchs called ''prophets''
-    (nəvîʾay / nubuwwa). The Psalm speaks of covenant and oath, the Quran of gifts, prophecy and the Book.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God identifies himself as God of Abraham, Isaac and Jacob (weight
     5.6). Pair score 5.6.'
@@ -77,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God identifies himself as God of Abraham, Isaac and Jacob
+kinds:
+- echo
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-29-abraham-preaches
+  title: Abraham preaches against idols, is saved from the fire, and Lot believes
+  tradition: islam
+matches:
+- kind: echo
+  label: God identifies himself as God of Abraham, Isaac and Jacob
+  note: 'wa-wahabnā lahu Isḥāqa wa-Yaʿqūba wa-jaʿalnā fī dhurriyyatihi n-nubuwwata wa-l-kitāba ~ ʾăšer
+    kārat ʾet ʾAvrāhām û-šəvûʿātô lə-Yiśḥāq wa-yyaʿămîdehā lə-Yaʿăqōv ... ʾal tiggəʿû vi-mšîḥāy wə-li-nvîʾay
+    ʾal tārēʿû: Abraham, Isaac and Jacob as a line of God''s favor, and the patriarchs called ''prophets''
+    (nəvîʾay / nubuwwa). The Psalm speaks of covenant and oath, the Quran of gifts, prophecy and the Book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:9
+      lang: he
+      text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
+    - ref: Ps 105:10
+      lang: he
+      text: וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+    - ref: Ps 105:15
+      lang: he
+      text: אַֽל תִּגְּע֥וּ בִמְשִׁיחָ֑י וְ֝לִנְבִיאַי אַל תָּרֵֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:27
+      lang: ar
+      text: وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ وَجَعَلْنَا فِى ذُرِّيَّتِهِ ٱلنُّبُوَّةَ وَٱلْكِتَٰبَ
+        وَءَاتَيْنَٰهُ أَجْرَهُۥ فِى ٱلدُّنْيَا وَإِنَّهُۥ فِى ٱلْءَاخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-6-prophets-lineage-torah-sheets
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Abraham's line of eighteen prophets;
   Torah in sheets; the false claimant
-summary: 'These two units share 2 motifs: false prophet put to death [divergence between the texts], false
-  prophet put to death.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,53 +15,9 @@ layers:
 motifs:
 - false-prophet-death-as-divergence
 - false-prophet-death
-passages:
-- tradition: judaism
-  ref: Deut 18:20
-  note: 'False prophet put to death [divergence between the texts] (Deut: ʾăšer yāzîd lə-dabbēr dāvār
-    bi-šmî ʾēt ʾăšer lōʾ-ṣiwwîtîw ... û-mēt han-nāvîʾ ha-hûʾ, a death sentence. Q: wa-man aẓlamu mimmani
-    ftarā ʿalā llāhi kadhiban ... wa-law tarā idhi l-ẓālimūna fī ghamarāti l-mawti wa-l-malāʾikatu bāsiṭū
-    aydīhim. The false claimant is punished by angels at death and after it, not executed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙ לְדַבֵּ֔ר
-    וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
-- tradition: islam
-  ref: Quran 6:93
-  note: 'False prophet put to death [divergence between the texts] (Deut: ʾăšer yāzîd lə-dabbēr dāvār
-    bi-šmî ʾēt ʾăšer lōʾ-ṣiwwîtîw ... û-mēt han-nāvîʾ ha-hûʾ, a death sentence. Q: wa-man aẓlamu mimmani
-    ftarā ʿalā llāhi kadhiban ... wa-law tarā idhi l-ẓālimūna fī ghamarāti l-mawti wa-l-malāʾikatu bāsiṭū
-    aydīhim. The false claimant is punished by angels at death and after it, not executed.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ
-    إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
-    فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
-    تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
-    ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
-- tradition: judaism
-  ref: Deut 18:20
-  note: False prophet put to death
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙ לְדַבֵּ֔ר
-    וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
-- tradition: islam
-  ref: Quran 6:93
-  note: False prophet put to death (punished in the throes of death (ghamarāt al-mawt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ
-    إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
-    فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
-    تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
-    ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Deut: ʾăšer yāzîd lə-dabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ-ṣiwwîtîw ... û-mēt han-nāvîʾ ha-hûʾ,
-    a death sentence. Q: wa-man aẓlamu mimmani ftarā ʿalā llāhi kadhiban ... wa-law tarā idhi l-ẓālimūna
-    fī ghamarāti l-mawti wa-l-malāʾikatu bāsiṭū aydīhim. The false claimant is punished by angels at death
-    and after it, not executed.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False prophet put to death [divergence between the texts] (weight
     6.3); False prophet put to death (weight 5.8). Pair score 12.1.'
@@ -97,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: False prophet put to death
+kinds:
+- divergence
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: divergence
+  label: False prophet put to death
+  note: 'Deut: ʾăšer yāzîd lə-dabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ-ṣiwwîtîw ... û-mēt han-nāvîʾ ha-hûʾ, a
+    death sentence. Q: wa-man aẓlamu mimmani ftarā ʿalā llāhi kadhiban ... wa-law tarā idhi l-ẓālimūna
+    fī ghamarāti l-mawti wa-l-malāʾikatu bāsiṭū aydīhim. The false claimant is punished by angels at death
+    and after it, not executed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:20
+      lang: he
+      text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙
+        לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 6:93
+      lang: ar
+      text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ
+        يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
+        فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
+        تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
+        ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 ---
 
 ## Questions

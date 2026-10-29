@@ -2,8 +2,7 @@
 id: motif-hb-2sam-4-ishbosheth-murdered-vs-quran-5-war-on-god-theft
 title: Ishbosheth murdered in his bed; Mephibosheth's lameness ↔ Penalty for waging war on God; the ransom
   of the earth; the thief's hand
-summary: 'These two units share 1 motifs: executed men''s hands and feet cut off and their bodies hung
-  up publicly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - hands-and-feet-cut-off-hung
-passages:
-- tradition: judaism
-  ref: 2Sam 4:12
-  note: Executed men's hands and feet cut off and their bodies hung up publicly (Hung by the pool in Hebron)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַו֩ דָּוִ֨ד אֶת הַנְּעָרִ֜ים וַיַּהַרְג֗וּם וַֽיְקַצְּצ֤וּ אֶת יְדֵיהֶם֙ וְאֶת רַגְלֵיהֶ֔ם
-    וַיִּתְל֥וּ עַל הַבְּרֵכָ֖ה בְּחֶבְר֑וֹן וְאֵ֨ת רֹ֤אשׁ אִֽישׁ בֹּ֨שֶׁת֙ לָקָ֔חוּ וַיִּקְבְּר֥וּ בְקֶֽבֶר
-    אַבְנֵ֖ר בְּחֶבְרֽוֹן
-- tradition: islam
-  ref: Quran 5:33
-  note: Executed men's hands and feet cut off and their bodies hung up publicly (amputation and crucifixion
-    as public penalty (cf. 2 Sam 4:12))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ فَسَادًا
-    أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَٰفٍ أَوْ يُنفَوْا۟
-    مِنَ ٱلْأَرْضِ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: an yuqattalū aw yuṣallabū aw tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāfin. 2Sam: wa-yyahargûm
-    wa-yqaṣṣəṣû ʾet-yədêhem wə-ʾet-raglêhem wa-yyitlû ʿal-hab-bərēkhāh. Hands and feet cut off and the
-    body exposed. In 2Sam it is the king''s one-off sentence on assassins; in Q a standing law for those
-    who wage war on God and his Messenger, with ''opposite sides'' and an alternative of exile (yunfaw).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Executed men''s hands and feet cut off and their bodies hung up
     publicly (weight 6.7). Pair score 6.7.'
@@ -65,6 +43,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Executed men's hands and feet cut off and their bodies hung up publicly
+kinds:
+- parallel
+units:
+- id: hb-2sam-4-ishbosheth-murdered
+  title: Ishbosheth murdered in his bed; Mephibosheth's lameness
+  tradition: judaism
+- id: quran-5-war-on-god-theft
+  title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+  tradition: islam
+matches:
+- kind: parallel
+  label: Executed men's hands and feet cut off and their bodies hung up publicly
+  note: 'Q: an yuqattalū aw yuṣallabū aw tuqaṭṭaʿa aydīhim wa-arjuluhum min khilāfin. 2Sam: wa-yyahargûm
+    wa-yqaṣṣəṣû ʾet-yədêhem wə-ʾet-raglêhem wa-yyitlû ʿal-hab-bərēkhāh. Hands and feet cut off and the
+    body exposed. In 2Sam it is the king''s one-off sentence on assassins; in Q a standing law for those
+    who wage war on God and his Messenger, with ''opposite sides'' and an alternative of exile (yunfaw).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 4:12
+      lang: he
+      text: וַיְצַו֩ דָּוִ֨ד אֶת הַנְּעָרִ֜ים וַיַּהַרְג֗וּם וַֽיְקַצְּצ֤וּ אֶת יְדֵיהֶם֙ וְאֶת רַגְלֵיהֶ֔ם
+        וַיִּתְל֥וּ עַל הַבְּרֵכָ֖ה בְּחֶבְר֑וֹן וְאֵ֨ת רֹ֤אשׁ אִֽישׁ בֹּ֨שֶׁת֙ לָקָ֔חוּ וַיִּקְבְּר֥וּ
+        בְקֶֽבֶר אַבְנֵ֖ר בְּחֶבְרֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 5:33
+      lang: ar
+      text: إِنَّمَا جَزَٰٓؤُا۟ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسْعَوْنَ فِى ٱلْأَرْضِ
+        فَسَادًا أَن يُقَتَّلُوٓا۟ أَوْ يُصَلَّبُوٓا۟ أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلَٰفٍ
+        أَوْ يُنفَوْا۟ مِنَ ٱلْأَرْضِ ذَٰلِكَ لَهُمْ خِزْىٌ فِى ٱلدُّنْيَا وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ
+        عَظِيمٌ
 ---
 
 ## Questions

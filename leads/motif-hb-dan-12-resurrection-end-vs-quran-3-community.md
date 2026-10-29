@@ -1,7 +1,7 @@
 ---
 id: motif-hb-dan-12-resurrection-end-vs-quran-3-community
 title: Michael arises, the resurrection, and the sealed book ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: on the day some faces turn white and some turn black.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,49 +13,9 @@ layers:
 - motif
 motifs:
 - faces-whitened-and-blackened
-passages:
-- tradition: judaism
-  ref: Dan 12:2
-  note: 'On the day some faces turn white and some turn black (Dan 12:2-3 ʾēlleh lĕ-ḥayyê ʿôlām wĕ-ʾēlleh
-    la-ḥărāpôt lĕ-dirʾôn ʿôlām wĕ-ha-mmaśkîlîm yazhirû kĕ-zōhar hā-rāqîaʿ: on the last day two groups,
-    one to everlasting life, one to shame; the wise shine; Q 3:106-107 yawma tabyaḍḍu wujūhun wa-taswaddu
-    wujūhun ... fa-fī raḥmati llāhi hum fīhā khālidūn: on the day some faces turn white and some black,
-    the white-faced in God''s mercy forever. Shining vs shame in Daniel, white vs black faces in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: judaism
-  ref: Dan 12:3
-  note: 'On the day some faces turn white and some turn black (Dan 12:2-3 ʾēlleh lĕ-ḥayyê ʿôlām wĕ-ʾēlleh
-    la-ḥărāpôt lĕ-dirʾôn ʿôlām wĕ-ha-mmaśkîlîm yazhirû kĕ-zōhar hā-rāqîaʿ: on the last day two groups,
-    one to everlasting life, one to shame; the wise shine; Q 3:106-107 yawma tabyaḍḍu wujūhun wa-taswaddu
-    wujūhun ... fa-fī raḥmati llāhi hum fīhā khālidūn: on the day some faces turn white and some black,
-    the white-faced in God''s mercy forever. Shining vs shame in Daniel, white vs black faces in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֨מַּשְׂכִּלִ֔ים יַזְהִ֖רוּ כְּזֹ֣הַר הָרָקִ֑יעַ וּמַצְדִּיקֵי֙ הָֽרַבִּ֔ים כַּכּוֹכָבִ֖ים
-    לְעוֹלָ֥ם וָעֶֽד
-- tradition: islam
-  ref: Quran 3:106
-  note: On the day some faces turn white and some turn black
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم
-    بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
-- tradition: islam
-  ref: Quran 3:107
-  note: On the day some faces turn white and some turn black
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Dan 12:2-3 ʾēlleh lĕ-ḥayyê ʿôlām wĕ-ʾēlleh la-ḥărāpôt lĕ-dirʾôn ʿôlām wĕ-ha-mmaśkîlîm yazhirû
-    kĕ-zōhar hā-rāqîaʿ: on the last day two groups, one to everlasting life, one to shame; the wise shine;
-    Q 3:106-107 yawma tabyaḍḍu wujūhun wa-taswaddu wujūhun ... fa-fī raḥmati llāhi hum fīhā khālidūn:
-    on the day some faces turn white and some black, the white-faced in God''s mercy forever. Shining
-    vs shame in Daniel, white vs black faces in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day some faces turn white and some turn black (weight 6.3).
     Pair score 6.3.'
@@ -92,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day some faces turn white and some turn black
+kinds:
+- echo
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day some faces turn white and some turn black
+  note: 'Dan 12:2-3 ʾēlleh lĕ-ḥayyê ʿôlām wĕ-ʾēlleh la-ḥărāpôt lĕ-dirʾôn ʿôlām wĕ-ha-mmaśkîlîm yazhirû
+    kĕ-zōhar hā-rāqîaʿ: on the last day two groups, one to everlasting life, one to shame; the wise shine;
+    Q 3:106-107 yawma tabyaḍḍu wujūhun wa-taswaddu wujūhun ... fa-fī raḥmati llāhi hum fīhā khālidūn:
+    on the day some faces turn white and some black, the white-faced in God''s mercy forever. Shining
+    vs shame in Daniel, white vs black faces in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+    - ref: Dan 12:3
+      lang: he
+      text: וְהַ֨מַּשְׂכִּלִ֔ים יַזְהִ֖רוּ כְּזֹ֣הַר הָרָקִ֑יעַ וּמַצְדִּיקֵי֙ הָֽרַבִּ֔ים כַּכּוֹכָבִ֖ים
+        לְעוֹלָ֥ם וָעֶֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 3:106
+      lang: ar
+      text: يَوْمَ تَبْيَضُّ وُجُوهٌ وَتَسْوَدُّ وُجُوهٌ فَأَمَّا ٱلَّذِينَ ٱسْوَدَّتْ وُجُوهُهُمْ أَكَفَرْتُم
+        بَعْدَ إِيمَٰنِكُمْ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+    - ref: Quran 3:107
+      lang: ar
+      text: وَأَمَّا ٱلَّذِينَ ٱبْيَضَّتْ وُجُوهُهُمْ فَفِى رَحْمَةِ ٱللَّهِ هُمْ فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

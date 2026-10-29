@@ -2,7 +2,7 @@
 id: motif-hb-mic-3-rulers-and-prophets-vs-quran-26-hud-ad
 title: Cannibal rulers, hireling prophets and Zion plowed as a field ↔ Hud and the monument-building people
   of Ad
-summary: 'These two units share 1 motifs: woe to the one who builds a city (zion) with bloodshed and injustice.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - city-built-with-blood
-passages:
-- tradition: judaism
-  ref: Mic 3:10
-  note: Woe to the one who builds a city (Zion) with bloodshed and injustice
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֹּנֶ֥ה צִיּ֖וֹן בְּדָמִ֑ים וִירוּשָׁלִַ֖ם בְּעַוְלָֽה
-- tradition: islam
-  ref: Quran 26:128
-  note: 'Woe to the one who builds a city (Zion) with bloodshed and injustice (a-tabnūna ... wa-idhā baṭashtum
-    baṭashtum jabbārīna ~ bōneh Ṣiyyôn bə-dāmîm wî-rûšālaim bə-ʿawlâ: building joined with violent oppression.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
-- tradition: islam
-  ref: Quran 26:130
-  note: 'Woe to the one who builds a city (Zion) with bloodshed and injustice (a-tabnūna ... wa-idhā baṭashtum
-    baṭashtum jabbārīna ~ bōneh Ṣiyyôn bə-dāmîm wî-rûšālaim bə-ʿawlâ: building joined with violent oppression.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-tabnūna ... wa-idhā baṭashtum baṭashtum jabbārīna ~ bōneh Ṣiyyôn bə-dāmîm wî-rûšālaim bə-ʿawlâ:
-    building joined with violent oppression.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to the one who builds a city (Zion) with bloodshed and injustice
     (weight 6.0). Pair score 6.0.'
@@ -73,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to the one who builds a city (Zion) with bloodshed and injustice
+kinds:
+- echo
+units:
+- id: hb-mic-3-rulers-and-prophets
+  title: Cannibal rulers, hireling prophets and Zion plowed as a field
+  tradition: judaism
+- id: quran-26-hud-ad
+  title: Hud and the monument-building people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Woe to the one who builds a city (Zion) with bloodshed and injustice
+  note: 'a-tabnūna ... wa-idhā baṭashtum baṭashtum jabbārīna ~ bōneh Ṣiyyôn bə-dāmîm wî-rûšālaim bə-ʿawlâ:
+    building joined with violent oppression.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 3:10
+      lang: he
+      text: בֹּנֶ֥ה צִיּ֖וֹן בְּדָמִ֑ים וִירוּשָׁלִַ֖ם בְּעַוְלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:128
+      lang: ar
+      text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
+    - ref: Quran 26:130
+      lang: ar
+      text: وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
 ---
 
 ## Questions

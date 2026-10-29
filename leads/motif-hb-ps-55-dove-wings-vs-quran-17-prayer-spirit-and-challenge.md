@@ -2,7 +2,7 @@
 id: motif-hb-ps-55-dove-wings-vs-quran-17-prayer-spirit-and-challenge
 title: Psalm 55, wings of a dove and the treacherous friend ↔ Near compromise, prayer times, the praised
   station, the spirit, the challenge and the demanded signs (Surah 17:73-100)
-summary: 'These two units share 1 motifs: prayer at evening, morning and noon (three fixed times a day).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - prayer-three-times-daily
-passages:
-- tradition: judaism
-  ref: Ps 55:18
-  note: Prayer at evening, morning and noon (three fixed times a day) (erev va-voqer ve-tsohorayim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
-- tradition: islam
-  ref: Quran 17:78
-  note: 'Prayer at evening, morning and noon (three fixed times a day) (three anchoring times: noon decline,
-    nightfall, dawn)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ
-    ٱلْفَجْرِ كَانَ مَشْهُودًا
-- tradition: islam
-  ref: Quran 17:79
-  note: 'Prayer at evening, morning and noon (three fixed times a day) (three anchoring times: noon decline,
-    nightfall, dawn)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʿereb wābōqer wəṣohŏrayim ʾāśîḥâ wəʾehĕmeh; aqimi ṣ-ṣalāta li-dulūki sh-shamsi ilā ghasaqi
-    l-layli wa-qurʾāna l-fajr: three anchors of the day for prayer, noon, nightfall and dawn on both sides.
-    Ps orders them evening, morning, noon (the day starting at evening); Q gives the sun''s decline, then
-    night, then the dawn recitation.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer at evening, morning and noon (three fixed times a day) (weight
     6.0). Pair score 6.0.'
@@ -77,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer at evening, morning and noon (three fixed times a day)
+kinds:
+- parallel
+units:
+- id: hb-ps-55-dove-wings
+  title: Psalm 55, wings of a dove and the treacherous friend
+  tradition: judaism
+- id: quran-17-prayer-spirit-and-challenge
+  title: Near compromise, prayer times, the praised station, the spirit, the challenge and the demanded
+    signs (Surah 17:73-100)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prayer at evening, morning and noon (three fixed times a day)
+  note: 'ʿereb wābōqer wəṣohŏrayim ʾāśîḥâ wəʾehĕmeh; aqimi ṣ-ṣalāta li-dulūki sh-shamsi ilā ghasaqi l-layli
+    wa-qurʾāna l-fajr: three anchors of the day for prayer, noon, nightfall and dawn on both sides. Ps
+    orders them evening, morning, noon (the day starting at evening); Q gives the sun''s decline, then
+    night, then the dawn recitation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 55:18
+      lang: he
+      text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 17:78
+      lang: ar
+      text: أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ
+        قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا
 ---
 
 ## Questions

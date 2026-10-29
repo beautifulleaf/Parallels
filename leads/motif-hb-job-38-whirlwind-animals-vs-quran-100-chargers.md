@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-38-whirlwind-animals-vs-quran-100-chargers
 title: God's first speech from the whirlwind - the wild animals ↔ The chargers
-summary: 'These two units share 1 motifs: the warhorse with thundering mane paws the valley, laughs at
-  fear and says ''aha!'' at the trumpet.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - warhorse-laughs-at-fear
-passages:
-- tradition: judaism
-  ref: Job 39:19-25
-  note: The warhorse with thundering mane paws the valley, laughs at fear and says 'Aha!' at the trumpet
-    (he'ah! at the shofar)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (39:19) הֲתִתֵּ֣ן לַסּ֣וּס גְּבוּרָ֑ה הֲתַלְבִּ֖ישׁ צַוָּאר֣וֹ רַעְמָֽה (39:20) הְֽ֭תַרְעִישֶׁנּוּ
-    כָּאַרְבֶּ֑ה ה֖וֹד נַחְר֣וֹ אֵימָֽה (39:21) יַחְפְּר֣וּ בָ֭עֵמֶק וְיָשִׂ֣ישׂ בְּכֹ֑חַ יֵ֝צֵ֗א לִקְרַאת
-    נָֽשֶׁק (39:22) יִשְׂחַ֣ק לְ֭פַחַד וְלֹ֣א יֵחָ֑ת וְלֹֽא יָ֝שׁ֗וּב מִפְּנֵי חָֽרֶב (39:23) עָ֭לָיו
-    תִּרְנֶ֣ה אַשְׁפָּ֑ה לַ֖הַב חֲנִ֣ית וְכִידֽוֹן (39:24) בְּרַ֣עַשׁ וְ֭רֹגֶז יְגַמֶּא אָ֑רֶץ וְלֹֽא
-    יַ֝אֲמִ֗ין כִּי ק֥וֹל שׁוֹפָֽר (39:25) בְּדֵ֤י שֹׁפָ֨ר יֹ֘אמַ֤ר הֶאָ֗ח וּֽ֭מֵרָחוֹק יָרִ֣יחַ מִלְחָמָ֑ה
-    רַ֥עַם שָׂ֝רִים וּתְרוּעָֽה
-- tradition: judaism
-  ref: Job 39:19
-  note: The warhorse with thundering mane paws the valley, laughs at fear and says 'Aha!' at the trumpet
-    (he'ah! at the shofar)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲתִתֵּ֣ן לַסּ֣וּס גְּבוּרָ֑ה הֲתַלְבִּ֖ישׁ צַוָּאר֣וֹ רַעְמָֽה
-- tradition: islam
-  ref: Quran 100:1
-  note: 'The warhorse with thundering mane paws the valley, laughs at fear and says ''Aha!'' at the trumpet
-    (wa-l-ʿādiyāti ḍabḥan fa-l-mūriyāti qadḥan fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan fa-wasaṭna
-    bihi jamʿan ~ yaḥperû vā-ʿēmeq ... yēṣēʾ liqraʾt nāšeq ... be-raʿaš we-rōgez yegammeʾ ʾāreṣ ... û-mē-rāḥôq
-    yārîaḥ milḥāmāh: the charging war-horse snorting, pawing and swallowing the ground, rushing into battle.
-    Job uses it as wonder of creation, the Quran as an oath before an indictment of human ingratitude
-    (100:6 inna l-insāna li-rabbihi la-kanūd).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْعَٰدِيَٰتِ ضَبْحًا
-- tradition: islam
-  ref: Quran 100:2
-  note: 'The warhorse with thundering mane paws the valley, laughs at fear and says ''Aha!'' at the trumpet
-    (wa-l-ʿādiyāti ḍabḥan fa-l-mūriyāti qadḥan fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan fa-wasaṭna
-    bihi jamʿan ~ yaḥperû vā-ʿēmeq ... yēṣēʾ liqraʾt nāšeq ... be-raʿaš we-rōgez yegammeʾ ʾāreṣ ... û-mē-rāḥôq
-    yārîaḥ milḥāmāh: the charging war-horse snorting, pawing and swallowing the ground, rushing into battle.
-    Job uses it as wonder of creation, the Quran as an oath before an indictment of human ingratitude
-    (100:6 inna l-insāna li-rabbihi la-kanūd).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْمُورِيَٰتِ قَدْحًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-l-ʿādiyāti ḍabḥan fa-l-mūriyāti qadḥan fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan fa-wasaṭna
-    bihi jamʿan ~ yaḥperû vā-ʿēmeq ... yēṣēʾ liqraʾt nāšeq ... be-raʿaš we-rōgez yegammeʾ ʾāreṣ ... û-mē-rāḥôq
-    yārîaḥ milḥāmāh: the charging war-horse snorting, pawing and swallowing the ground, rushing into battle.
-    Job uses it as wonder of creation, the Quran as an oath before an indictment of human ingratitude
-    (100:6 inna l-insāna li-rabbihi la-kanūd).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The warhorse with thundering mane paws the valley, laughs at fear
     and says ''Aha!'' at the trumpet (weight 6.7). Pair score 6.7.'
@@ -93,6 +46,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The warhorse with thundering mane paws the valley, laughs at fear and says 'Aha!' at the trumpet
+kinds:
+- parallel
+units:
+- id: hb-job-38-whirlwind-animals
+  title: God's first speech from the whirlwind - the wild animals
+  tradition: judaism
+- id: quran-100-chargers
+  title: The chargers
+  tradition: islam
+matches:
+- kind: parallel
+  label: The warhorse with thundering mane paws the valley, laughs at fear and says 'Aha!' at the trumpet
+  note: 'wa-l-ʿādiyāti ḍabḥan fa-l-mūriyāti qadḥan fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan fa-wasaṭna
+    bihi jamʿan ~ yaḥperû vā-ʿēmeq ... yēṣēʾ liqraʾt nāšeq ... be-raʿaš we-rōgez yegammeʾ ʾāreṣ ... û-mē-rāḥôq
+    yārîaḥ milḥāmāh: the charging war-horse snorting, pawing and swallowing the ground, rushing into battle.
+    Job uses it as wonder of creation, the Quran as an oath before an indictment of human ingratitude
+    (100:6 inna l-insāna li-rabbihi la-kanūd).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 39:19
+      lang: he
+      text: הֲתִתֵּ֣ן לַסּ֣וּס גְּבוּרָ֑ה הֲתַלְבִּ֖ישׁ צַוָּאר֣וֹ רַעְמָֽה
+    - ref: Job 39:21
+      lang: he
+      text: יַחְפְּר֣וּ בָ֭עֵמֶק וְיָשִׂ֣ישׂ בְּכֹ֑חַ יֵ֝צֵ֗א לִקְרַאת נָֽשֶׁק
+    - ref: Job 39:24
+      lang: he
+      text: בְּרַ֣עַשׁ וְ֭רֹגֶז יְגַמֶּא אָ֑רֶץ וְלֹֽא יַ֝אֲמִ֗ין כִּי ק֥וֹל שׁוֹפָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 100:1
+      lang: ar
+      text: وَٱلْعَٰدِيَٰتِ ضَبْحًا
+    - ref: Quran 100:2
+      lang: ar
+      text: فَٱلْمُورِيَٰتِ قَدْحًا
+    - ref: Quran 100:3
+      lang: ar
+      text: فَٱلْمُغِيرَٰتِ صُبْحًا
 ---
 
 ## Questions

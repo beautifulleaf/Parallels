@@ -2,7 +2,7 @@
 id: motif-hb-josh-6-jericho-vs-quran-8-spoils-and-believers
 title: Fall of Jericho; Rahab spared; curse on the rebuilder ↔ The question of spoils and the marks of
   true believers
-summary: 'These two units share 1 motifs: the spoils of war (anfal) belong to god and the messenger.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - spoils-belong-to-god-and-messenger
-passages:
-- tradition: judaism
-  ref: Josh 6:19
-  note: 'The spoils of war (anfal) belong to God and the messenger (Booty claimed by God: quli l-anfālu
-    li-llāhi wa-r-rasūli vs wᵉkōl kesep wᵉzāhāb ... qōdeš hûʾ laYHWH ʾôṣar YHWH yābôʾ. In Josh God''s
-    share goes to the treasury; in Q God and the messenger hold the spoils jointly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכֹ֣ל כֶּ֣סֶף וְזָהָ֗ב וּכְלֵ֤י נְחֹ֨שֶׁת֙ וּבַרְזֶ֔ל קֹ֥דֶשׁ ה֖וּא לַֽיהוָ֑ה אוֹצַ֥ר יְהוָ֖ה
-    יָבֽוֹא
-- tradition: islam
-  ref: Quran 8:1
-  note: The spoils of war (anfal) belong to God and the messenger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟
-    ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Booty claimed by God: quli l-anfālu li-llāhi wa-r-rasūli vs wᵉkōl kesep wᵉzāhāb ... qōdeš
-    hûʾ laYHWH ʾôṣar YHWH yābôʾ. In Josh God''s share goes to the treasury; in Q God and the messenger
-    hold the spoils jointly.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The spoils of war (anfal) belong to God and the messenger (weight
     6.7). Pair score 6.7.'
@@ -64,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The spoils of war (anfal) belong to God and the messenger
+kinds:
+- parallel
+units:
+- id: hb-josh-6-jericho
+  title: Fall of Jericho; Rahab spared; curse on the rebuilder
+  tradition: judaism
+- id: quran-8-spoils-and-believers
+  title: The question of spoils and the marks of true believers
+  tradition: islam
+matches:
+- kind: parallel
+  label: The spoils of war (anfal) belong to God and the messenger
+  note: 'Booty claimed by God: quli l-anfālu li-llāhi wa-r-rasūli vs wᵉkōl kesep wᵉzāhāb ... qōdeš hûʾ
+    laYHWH ʾôṣar YHWH yābôʾ. In Josh God''s share goes to the treasury; in Q God and the messenger hold
+    the spoils jointly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 6:19
+      lang: he
+      text: וְכֹ֣ל כֶּ֣סֶף וְזָהָ֗ב וּכְלֵ֤י נְחֹ֨שֶׁת֙ וּבַרְזֶ֔ל קֹ֥דֶשׁ ה֖וּא לַֽיהוָ֑ה אוֹצַ֥ר יְהוָ֖ה
+        יָבֽוֹא
+  - tradition: islam
+    passages:
+    - ref: Quran 8:1
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ
+        وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

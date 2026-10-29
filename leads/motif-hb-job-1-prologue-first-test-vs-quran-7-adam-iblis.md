@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-7-adam-iblis
 title: Job's piety, the heavenly council and the first test ↔ The prostration to Adam, Iblis' refusal
   and the fall
-summary: 'These two units share 2 motifs: god gives the adversary (satan) leave to act against humans,
-  the devil asks for and is granted respite until the day the dead are raised.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,78 +15,9 @@ layers:
 motifs:
 - god-grants-the-adversary-leave
 - devil-granted-respite-until-resurrection
-passages:
-- tradition: judaism
-  ref: Job 1:7
-  note: 'God gives the adversary (Satan) leave to act against humans (God gives the adversary leave to
-    work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā,
-    a limited permission over one man. Q: anẓirnī ilā yawmi yubʿathūna, qāla innaka mina l-munẓarīna,
-    and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma ... la-ātiyannahum min bayni aydīhim wa-min
-    khalfihim. A respite until resurrection, against all of humankind.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר יְהוָ֛ה אֶל הַשָּׂטָ֖ן מֵאַ֣יִן תָּבֹ֑א וַיַּ֨עַן הַשָּׂטָ֤ן אֶת יְהוָה֙ וַיֹּאמַ֔ר
-    מִשּׁ֣וּט בָּאָ֔רֶץ וּמֵֽהִתְהַלֵּ֖ךְ בָּֽהּ
-- tradition: judaism
-  ref: Job 1:11
-  note: 'God gives the adversary (Satan) leave to act against humans (God gives the adversary leave to
-    work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā,
-    a limited permission over one man. Q: anẓirnī ilā yawmi yubʿathūna, qāla innaka mina l-munẓarīna,
-    and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma ... la-ātiyannahum min bayni aydīhim wa-min
-    khalfihim. A respite until resurrection, against all of humankind.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאוּלָם֙ שְֽׁלַֽח נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל אֲשֶׁר ל֑וֹ אִם לֹ֥א עַל פָּנֶ֖יךָ יְבָרֲכֶֽךָּ
-- tradition: islam
-  ref: Quran 7:14
-  note: 'God gives the adversary (Satan) leave to act against humans (God gives the adversary leave to
-    work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā,
-    a limited permission over one man. Q: anẓirnī ilā yawmi yubʿathūna, qāla innaka mina l-munẓarīna,
-    and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma ... la-ātiyannahum min bayni aydīhim wa-min
-    khalfihim. A respite until resurrection, against all of humankind.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 7:15
-  note: 'God gives the adversary (Satan) leave to act against humans (God gives the adversary leave to
-    work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā,
-    a limited permission over one man. Q: anẓirnī ilā yawmi yubʿathūna, qāla innaka mina l-munẓarīna,
-    and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma ... la-ātiyannahum min bayni aydīhim wa-min
-    khalfihim. A respite until resurrection, against all of humankind.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
-- tradition: judaism
-  ref: Job 1:12
-  note: 'The devil asks for and is granted respite until the day the dead are raised (hinnēh ḵol-ʾăšer-lô
-    bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ... la-ughwiyannahum ajmaʿīna
-    illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within a limit. In Job the licence
-    is a single test of one man by a member of the court; in the Quran it is respite until the Day for
-    a cursed rebel, limited by the sincere servants.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
-    יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 7:14
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 7:15
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. God gives the adversary leave to work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô
-    bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā, a limited permission over one man. Q: anẓirnī ilā yawmi
-    yubʿathūna, qāla innaka mina l-munẓarīna, and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma
-    ... la-ātiyannahum min bayni aydīhim wa-min khalfihim. A respite until resurrection, against all of
-    humankind.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gives the adversary (Satan) leave to act against humans (weight
     6.7); The devil asks for and is granted respite until the day the dead are raised (weight 5.8). Pair
@@ -124,6 +54,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gives the adversary (Satan) leave to act against humans
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-7-adam-iblis
+  title: The prostration to Adam, Iblis' refusal and the fall
+  tradition: islam
+matches:
+- kind: echo
+  label: God gives the adversary (Satan) leave to act against humans
+  note: 'God gives the adversary leave to work on humans. Job: miš-šûṭ bā-ʾāreṣ ... hinnēh khol-ʾăšer-lô
+    bə-yādekhā raq ʾēlāyw ʾal-tišlaḥ yādekhā, a limited permission over one man. Q: anẓirnī ilā yawmi
+    yubʿathūna, qāla innaka mina l-munẓarīna, and the devil vows la-aqʿudanna lahum ṣirāṭaka l-mustaqīma
+    ... la-ātiyannahum min bayni aydīhim wa-min khalfihim. A respite until resurrection, against all of
+    humankind.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:7
+      lang: he
+      text: וַיֹּ֧אמֶר יְהוָ֛ה אֶל הַשָּׂטָ֖ן מֵאַ֣יִן תָּבֹ֑א וַיַּ֨עַן הַשָּׂטָ֤ן אֶת יְהוָה֙ וַיֹּאמַ֔ר
+        מִשּׁ֣וּט בָּאָ֔רֶץ וּמֵֽהִתְהַלֵּ֖ךְ בָּֽהּ
+    - ref: Job 1:11
+      lang: he
+      text: וְאוּלָם֙ שְֽׁלַֽח נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל אֲשֶׁר ל֑וֹ אִם לֹ֥א עַל פָּנֶ֖יךָ יְבָרֲכֶֽךָּ
+    - ref: Job 1:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
+        יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:14
+      lang: ar
+      text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 7:15
+      lang: ar
+      text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
+    - ref: Quran 7:16
+      lang: ar
+      text: قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ
+- kind: shared
+  label: The devil asks for and is granted respite until the day the dead are raised
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
+        יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
+    note: 'hinnēh ḵol-ʾăšer-lô bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ...
+      la-ughwiyannahum ajmaʿīna illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within
+      a limit. In Job the licence is a single test of one man by a member of the court; in the Quran it
+      is respite until the Day for a cursed rebel, limited by the sincere servants.'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:14
+      lang: ar
+      text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 7:15
+      lang: ar
+      text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
 ---
 
 ## Questions

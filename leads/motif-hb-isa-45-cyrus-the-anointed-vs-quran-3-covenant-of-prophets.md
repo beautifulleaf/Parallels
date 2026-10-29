@@ -2,7 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-3-covenant-of-prophets
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ The covenant
   of the prophets and the apostates
-summary: 'These two units share 1 motifs: all in heavens and earth submit to god willingly or unwillingly.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - all-in-heavens-submit-willingly-or-not
-passages:
-- tradition: judaism
-  ref: Isa 45:23
-  note: 'All in heavens and earth submit to God willingly or unwillingly (Isa 45:23 kî lî tikraʿ kol berek
-    tiššābaʿ kol lāšôn; Q 3:83 wa-lahu aslama man fī s-samāwāti wa-l-arḍi ṭawʿan wa-karhan: all submit
-    to God. Isaiah: a future universal homage; the Quran: present submission of all creation, willing
-    or not.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּ֣י נִשְׁבַּ֔עְתִּי יָצָ֨א מִפִּ֧י צְדָקָ֛ה דָּבָ֖ר וְלֹ֣א יָשׁ֑וּב כִּי לִי֙ תִּכְרַ֣ע כָּל
-    בֶּ֔רֶךְ תִּשָּׁבַ֖ע כָּל לָשֽׁוֹן
-- tradition: islam
-  ref: Quran 3:83
-  note: All in heavens and earth submit to God willingly or unwillingly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا
-    وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 45:23 kî lî tikraʿ kol berek tiššābaʿ kol lāšôn; Q 3:83 wa-lahu aslama man fī s-samāwāti
-    wa-l-arḍi ṭawʿan wa-karhan: all submit to God. Isaiah: a future universal homage; the Quran: present
-    submission of all creation, willing or not.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All in heavens and earth submit to God willingly or unwillingly
     (weight 6.7). Pair score 6.7.'
@@ -72,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All in heavens and earth submit to God willingly or unwillingly
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-3-covenant-of-prophets
+  title: The covenant of the prophets and the apostates
+  tradition: islam
+matches:
+- kind: echo
+  label: All in heavens and earth submit to God willingly or unwillingly
+  note: 'Isa 45:23 kî lî tikraʿ kol berek tiššābaʿ kol lāšôn; Q 3:83 wa-lahu aslama man fī s-samāwāti
+    wa-l-arḍi ṭawʿan wa-karhan: all submit to God. Isaiah: a future universal homage; the Quran: present
+    submission of all creation, willing or not.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:23
+      lang: he
+      text: בִּ֣י נִשְׁבַּ֔עְתִּי יָצָ֨א מִפִּ֧י צְדָקָ֛ה דָּבָ֖ר וְלֹ֣א יָשׁ֑וּב כִּי לִי֙ תִּכְרַ֣ע
+        כָּל בֶּ֔רֶךְ תִּשָּׁבַ֖ע כָּל לָשֽׁוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:83
+      lang: ar
+      text: أَفَغَيْرَ دِينِ ٱللَّهِ يَبْغُونَ وَلَهُۥٓ أَسْلَمَ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ طَوْعًا
+        وَكَرْهًا وَإِلَيْهِ يُرْجَعُونَ
 ---
 
 ## Questions

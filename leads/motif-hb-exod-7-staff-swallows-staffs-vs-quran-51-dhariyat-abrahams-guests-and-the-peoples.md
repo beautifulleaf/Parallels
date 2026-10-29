@@ -3,8 +3,7 @@ id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-51-dhariyat-abrahams-guests-a
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Abraham's
   honored guests, the barren old wife striking her face, the stones of clay for Lot's people; Pharaoh,
   'Ad, Thamud and Noah
-summary: 'These two units share 1 motifs: pharaoh turned away with his power/pillar (rukn) and called
-  moses ''a sorcerer or a madman''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-turns-away-with-his-power
-passages:
-- tradition: judaism
-  ref: Exod 7:11
-  note: 'Pharaoh turned away with his power/pillar (rukn) and called Moses ''a sorcerer or a madman''
-    (Pharaoh treats Moses'' sign as sorcery: wa-yiqrāʾ gam parʿōh la-ḥăḵāmîm wə-lam-ḵaššəp̄îm wa-yyaʿăśû
-    ḡam hēm ḥarṭummê miṣrayim bə-lahăṭêhem kēn vs. fa-tawallā bi-ruknihi wa-qāla sāḥirun aw majnūn. Exodus
-    implies it by having his sorcerers copy the sign; the Quran''s Pharaoh says it outright.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: islam
-  ref: Quran 51:38
-  note: Pharaoh turned away with his power/pillar (rukn) and called Moses 'a sorcerer or a madman'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 51:39
-  note: Pharaoh turned away with his power/pillar (rukn) and called Moses 'a sorcerer or a madman'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Pharaoh treats Moses'' sign as sorcery: wa-yiqrāʾ gam parʿōh la-ḥăḵāmîm wə-lam-ḵaššəp̄îm wa-yyaʿăśû
-    ḡam hēm ḥarṭummê miṣrayim bə-lahăṭêhem kēn vs. fa-tawallā bi-ruknihi wa-qāla sāḥirun aw majnūn. Exodus
-    implies it by having his sorcerers copy the sign; the Quran''s Pharaoh says it outright.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh turned away with his power/pillar (rukn) and called Moses
     ''a sorcerer or a madman'' (weight 6.7). Pair score 6.7.'
@@ -81,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh turned away with his power/pillar (rukn) and called Moses 'a sorcerer or a madman'
+kinds:
+- echo
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: echo
+  label: Pharaoh turned away with his power/pillar (rukn) and called Moses 'a sorcerer or a madman'
+  note: 'Pharaoh treats Moses'' sign as sorcery: wa-yiqrāʾ gam parʿōh la-ḥăḵāmîm wə-lam-ḵaššəp̄îm wa-yyaʿăśû
+    ḡam hēm ḥarṭummê miṣrayim bə-lahăṭêhem kēn vs. fa-tawallā bi-ruknihi wa-qāla sāḥirun aw majnūn. Exodus
+    implies it by having his sorcerers copy the sign; the Quran''s Pharaoh says it outright.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 51:38
+      lang: ar
+      text: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ
+    - ref: Quran 51:39
+      lang: ar
+      text: فَتَوَلَّىٰ بِرُكْنِهِۦ وَقَالَ سَٰحِرٌ أَوْ مَجْنُونٌ
 ---
 
 ## Questions

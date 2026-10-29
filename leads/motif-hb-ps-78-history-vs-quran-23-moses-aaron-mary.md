@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-23-moses-aaron-mary
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Moses and Aaron rejected; the son of
   Mary and his mother on a height
-summary: 'These two units share 1 motifs: psalm retells israel''s sacred history (patriarchs, egypt, wilderness,
-  conquest) as instruction or praise.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - historical-recital-psalm
-passages:
-- tradition: judaism
-  ref: Ps 78:1-72
-  note: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text_omitted: longer than 12 verses; read it in the source
-- tradition: judaism
-  ref: Ps 78:43
-  note: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁר שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה צֹֽעַן
-- tradition: islam
-  ref: Quran 23:45
-  note: 'Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise (bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
-    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 23:48
-  note: 'Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise (bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
-    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
-    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness,
     conquest) as instruction or praise (weight 5.6). Pair score 5.6.'
@@ -81,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
+  or praise
+kinds:
+- echo
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-23-moses-aaron-mary
+  title: Moses and Aaron rejected; the son of Mary and his mother on a height
+  tradition: islam
+matches:
+- kind: echo
+  label: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
+    or praise
+  note: 'bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
+    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:43
+      lang: he
+      text: אֲשֶׁר שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה צֹֽעַן
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:45
+      lang: ar
+      text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
+    - ref: Quran 23:48
+      lang: ar
+      text: فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ
 ---
 
 ## Questions

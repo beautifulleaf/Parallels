@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-28-blessings-curses-vs-quran-7-sabbath-town
 title: Blessings and the great curses ↔ The Sabbath-breaking seaside town turned into apes
-summary: 'These two units share 1 motifs: god proclaims he will send against them until resurrection those
-  who inflict harsh punishment.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - oppressors-sent-against-israel-until-judgment
-passages:
-- tradition: judaism
-  ref: Deut 28:33
-  note: 'God proclaims he will send against them until resurrection those who inflict harsh punishment
-    (God sends oppressors on Israel for good: la-yabʿathanna ʿalayhim ilā yawmi l-qiyāmati man yasūmuhum
-    sūʾa l-ʿadhābi vs wᵉhāyîtā raq ʿāšûq wᵉrāṣûṣ kol-hayyāmîm; ʾōyᵉbêkā ʾăšer yᵉšallᵉḥennû YHWH bāk (baʿatha
-    = šillaḥ). Q sets the term at the day of resurrection; Deut says ''all the days'' and ''until he destroys
-    you''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פְּרִ֤י אַדְמָֽתְךָ֙ וְכָל יְגִ֣יעֲךָ֔ יֹאכַ֥ל עַ֖ם אֲשֶׁ֣ר לֹא יָדָ֑עְתָּ וְהָיִ֗יתָ רַ֛ק עָשׁ֥וּק
-    וְרָצ֖וּץ כָּל הַיָּמִֽים
-- tradition: judaism
-  ref: Deut 28:48
-  note: 'God proclaims he will send against them until resurrection those who inflict harsh punishment
-    (God sends oppressors on Israel for good: la-yabʿathanna ʿalayhim ilā yawmi l-qiyāmati man yasūmuhum
-    sūʾa l-ʿadhābi vs wᵉhāyîtā raq ʿāšûq wᵉrāṣûṣ kol-hayyāmîm; ʾōyᵉbêkā ʾăšer yᵉšallᵉḥennû YHWH bāk (baʿatha
-    = šillaḥ). Q sets the term at the day of resurrection; Deut says ''all the days'' and ''until he destroys
-    you''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָבַדְתָּ֣ אֶת אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם
-    וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ
-- tradition: islam
-  ref: Quran 7:167
-  note: God proclaims he will send against them until resurrection those who inflict harsh punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ تَأَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَن يَسُومُهُمْ سُوٓءَ
-    ٱلْعَذَابِ إِنَّ رَبَّكَ لَسَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God sends oppressors on Israel for good: la-yabʿathanna ʿalayhim ilā yawmi l-qiyāmati man
-    yasūmuhum sūʾa l-ʿadhābi vs wᵉhāyîtā raq ʿāšûq wᵉrāṣûṣ kol-hayyāmîm; ʾōyᵉbêkā ʾăšer yᵉšallᵉḥennû YHWH
-    bāk (baʿatha = šillaḥ). Q sets the term at the day of resurrection; Deut says ''all the days'' and
-    ''until he destroys you''.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God proclaims he will send against them until resurrection those
     who inflict harsh punishment (weight 6.7). Pair score 6.7.'
@@ -82,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God proclaims he will send against them until resurrection those who inflict harsh punishment
+kinds:
+- parallel
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: parallel
+  label: God proclaims he will send against them until resurrection those who inflict harsh punishment
+  note: 'God sends oppressors on Israel for good: la-yabʿathanna ʿalayhim ilā yawmi l-qiyāmati man yasūmuhum
+    sūʾa l-ʿadhābi vs wᵉhāyîtā raq ʿāšûq wᵉrāṣûṣ kol-hayyāmîm; ʾōyᵉbêkā ʾăšer yᵉšallᵉḥennû YHWH bāk (baʿatha
+    = šillaḥ). Q sets the term at the day of resurrection; Deut says ''all the days'' and ''until he destroys
+    you''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:33
+      lang: he
+      text: פְּרִ֤י אַדְמָֽתְךָ֙ וְכָל יְגִ֣יעֲךָ֔ יֹאכַ֥ל עַ֖ם אֲשֶׁ֣ר לֹא יָדָ֑עְתָּ וְהָיִ֗יתָ רַ֛ק
+        עָשׁ֥וּק וְרָצ֖וּץ כָּל הַיָּמִֽים
+    - ref: Deut 28:48
+      lang: he
+      text: וְעָבַדְתָּ֣ אֶת אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם
+        וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:167
+      lang: ar
+      text: وَإِذْ تَأَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ مَن يَسُومُهُمْ
+        سُوٓءَ ٱلْعَذَابِ إِنَّ رَبَّكَ لَسَرِيعُ ٱلْعِقَابِ وَإِنَّهُۥ لَغَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

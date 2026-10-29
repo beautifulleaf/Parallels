@@ -2,7 +2,7 @@
 id: motif-hb-prov-23-drunkard-vs-quran-37-hell-and-garden
 title: Father's appeal, the harlot as pit, and the drunkard's woes ↔ The damned questioned; the blessed
   on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: the effects of wine on the drinker [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,59 +14,9 @@ layers:
 - motif
 motifs:
 - effects-of-wine-as-contrast
-passages:
-- tradition: judaism
-  ref: Prov 23:29
-  note: 'The effects of wine on the drinker [contrast between the texts] (The effects of wine, point by
-    point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr
-    tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused speech). Q: bayḍāʾa ladhdhatin
-    li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful, with no ghawl, no headache
-    or harm, and no loss of senses). The heavenly cup is defined by the absence of the very harms Proverbs
-    lists.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְמִ֨י א֥וֹי לְמִ֪י אֲב֡וֹי לְמִ֤י מדונים מִדְיָנִ֨ים לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם
-    לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם
-- tradition: judaism
-  ref: Prov 23:33
-  note: 'The effects of wine on the drinker [contrast between the texts] (The effects of wine, point by
-    point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr
-    tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused speech). Q: bayḍāʾa ladhdhatin
-    li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful, with no ghawl, no headache
-    or harm, and no loss of senses). The heavenly cup is defined by the absence of the very harms Proverbs
-    lists.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵ֭ינֶיךָ יִרְא֣וּ זָר֑וֹת וְ֝לִבְּךָ֗ יְדַבֵּ֥ר תַּהְפֻּכֽוֹת
-- tradition: islam
-  ref: Quran 37:45
-  note: 'The effects of wine on the drinker [contrast between the texts] (The effects of wine, point by
-    point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr
-    tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused speech). Q: bayḍāʾa ladhdhatin
-    li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful, with no ghawl, no headache
-    or harm, and no loss of senses). The heavenly cup is defined by the absence of the very harms Proverbs
-    lists.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ
-- tradition: islam
-  ref: Quran 37:46
-  note: 'The effects of wine on the drinker [contrast between the texts] (The effects of wine, point by
-    point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr
-    tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused speech). Q: bayḍāʾa ladhdhatin
-    li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful, with no ghawl, no headache
-    or harm, and no loss of senses). The heavenly cup is defined by the absence of the very harms Proverbs
-    lists.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَيْضَآءَ لَذَّةٍ لِّلشَّٰرِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. The effects of wine, point by point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim
-    ... ʿênêḵā yirʾû zārôṯ wə-libbəḵā yəḏabbēr tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions,
-    confused speech). Q: bayḍāʾa ladhdhatin li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white,
-    delightful, with no ghawl, no headache or harm, and no loss of senses). The heavenly cup is defined
-    by the absence of the very harms Proverbs lists.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The effects of wine on the drinker [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -105,6 +55,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The effects of wine on the drinker
+kinds:
+- contrast
+units:
+- id: hb-prov-23-drunkard
+  title: Father's appeal, the harlot as pit, and the drunkard's woes
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: contrast
+  label: The effects of wine on the drinker
+  note: 'The effects of wine, point by point. Prov: lə-mî p̄əṣāʿîm ḥinnām lə-mî ḥaḵlilûṯ ʿênāyim ... ʿênêḵā
+    yirʾû zārôṯ wə-libbəḵā yəḏabbēr tahpuḵôṯ ... hikkûnî ḇal-ḥālîṯî (wounds, red eyes, visions, confused
+    speech). Q: bayḍāʾa ladhdhatin li-sh-shāribīna lā fīhā ghawlun wa-lā hum ʿanhā yunzafūn (white, delightful,
+    with no ghawl, no headache or harm, and no loss of senses). The heavenly cup is defined by the absence
+    of the very harms Proverbs lists.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:29
+      lang: he
+      text: לְמִ֨י א֥וֹי לְמִ֪י אֲב֡וֹי לְמִ֤י מדונים מִדְיָנִ֨ים לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם
+        לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם
+    - ref: Prov 23:33
+      lang: he
+      text: עֵ֭ינֶיךָ יִרְא֣וּ זָר֑וֹת וְ֝לִבְּךָ֗ יְדַבֵּ֥ר תַּהְפֻּכֽוֹת
+    - ref: Prov 23:35
+      lang: he
+      text: הִכּ֥וּנִי בַל חָלִיתִי֮ הֲלָמ֗וּנִי בַּל יָ֫דָ֥עְתִּי מָתַ֥י אָקִ֑יץ א֝וֹסִ֗יף אֲבַקְשֶׁ֥נּוּ
+        עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 37:45
+      lang: ar
+      text: يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ
+    - ref: Quran 37:46
+      lang: ar
+      text: بَيْضَآءَ لَذَّةٍ لِّلشَّٰرِبِينَ
+    - ref: Quran 37:47
+      lang: ar
+      text: لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنزَفُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-10-aramaic-verse-vs-quran-22-fly-parable-abraham
 title: The Aramaic verse - gods who did not make heaven and earth ↔ The parable of the fly; messengers
   from angels and men; the religion of Abraham
-summary: 'These two units share 1 motifs: aramaic declaration: the gods who did not make heaven and earth
-  shall perish from the earth and from under the heavens.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - gods-who-did-not-make-heaven-perish
-passages:
-- tradition: judaism
-  ref: Jer 10:11
-  note: 'Aramaic declaration: the gods who did not make heaven and earth shall perish from the earth and
-    from under the heavens (kidnah te''merun lehom: ''Thus shall you say to them''; both ''arqa and ''ar''a
-    for ''earth'' in one verse)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּדְנָה֙ תֵּאמְר֣וּן לְה֔וֹם אֱלָ֣הַיָּ֔א דִּֽי שְׁמַיָּ֥א וְאַרְקָ֖א לָ֣א עֲבַ֑דוּ יֵאבַ֧דוּ
-    מֵֽאַרְעָ֛א וּמִן תְּח֥וֹת שְׁמַיָּ֖א אֵֽלֶּה
-- tradition: islam
-  ref: Quran 22:73
-  note: 'Aramaic declaration: the gods who did not make heaven and earth shall perish from the earth and
-    from under the heavens (inna lladhīna tadʿūna min dūni llāhi lan yakhluqū dhubāban wa-law ijtamaʿū
-    lahu ~ ʾĕlāhayyāʾ dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăvadû yēʾvadû: creating is the test of a true god; Jeremiah''s
-    gods did not make heaven and earth, the Quran''s cannot make even a fly, and cannot take back what
-    the fly snatches.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ
-    ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا
-    لَّا يَسْتَنقِذُوهُ مِنْهُ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. inna lladhīna tadʿūna min dūni llāhi lan yakhluqū dhubāban wa-law ijtamaʿū lahu ~ ʾĕlāhayyāʾ
-    dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăvadû yēʾvadû: creating is the test of a true god; Jeremiah''s gods did
-    not make heaven and earth, the Quran''s cannot make even a fly, and cannot take back what the fly
-    snatches.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Aramaic declaration: the gods who did not make heaven and earth
     shall perish from the earth and from under the heavens (weight 6.7). Pair score 6.7.'
@@ -67,6 +41,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Aramaic declaration: the gods who did not make heaven and earth shall perish from the earth
+  and from under the heavens'
+kinds:
+- parallel
+units:
+- id: hb-jer-10-aramaic-verse
+  title: The Aramaic verse - gods who did not make heaven and earth
+  tradition: judaism
+- id: quran-22-fly-parable-abraham
+  title: The parable of the fly; messengers from angels and men; the religion of Abraham
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Aramaic declaration: the gods who did not make heaven and earth shall perish from the earth
+    and from under the heavens'
+  note: 'inna lladhīna tadʿūna min dūni llāhi lan yakhluqū dhubāban wa-law ijtamaʿū lahu ~ ʾĕlāhayyāʾ
+    dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăvadû yēʾvadû: creating is the test of a true god; Jeremiah''s gods did
+    not make heaven and earth, the Quran''s cannot make even a fly, and cannot take back what the fly
+    snatches.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:11
+      lang: he
+      text: כִּדְנָה֙ תֵּאמְר֣וּן לְה֔וֹם אֱלָ֣הַיָּ֔א דִּֽי שְׁמַיָּ֥א וְאַרְקָ֖א לָ֣א עֲבַ֑דוּ יֵאבַ֧דוּ
+        מֵֽאַרְעָ֛א וּמִן תְּח֥וֹת שְׁמַיָּ֖א אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:73
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ
+        ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا
+        لَّا يَسْتَنقِذُوهُ مِنْهُ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ
 ---
 
 ## Questions

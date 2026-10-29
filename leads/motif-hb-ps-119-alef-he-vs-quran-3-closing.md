@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-119-alef-he-vs-quran-3-closing
 title: Psalm 119, stanzas alef to he ↔ Signs for people of understanding; closing prayer
-summary: 'These two units share 1 motifs: meditate on the book of the torah day and night; it shall not
-  depart from your mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - meditate-on-torah-day-and-night
-passages:
-- tradition: judaism
-  ref: Ps 119:15
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּפִקֻּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹרְחֹתֶֽיךָ
-- tradition: judaism
-  ref: Ps 119:23
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּ֤ם יָֽשְׁב֣וּ שָׂ֭רִים בִּ֣י נִדְבָּ֑רוּ עַ֝בְדְּךָ֗ יָשִׂ֥יחַ בְּחֻקֶּֽיךָ
-- tradition: islam
-  ref: Quran 3:191
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth (cf. Deut
-    6:7 'when you sit, walk, lie down and rise')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 119:15 bĕ-piqqûdêkā ʾāśîḥâ wĕ-ʾabbîṭâ ʾōrḥōtêkā; Q 3:191 wa-yatafakkarūna fī khalqi s-samāwāti
-    wa-l-arḍ. Reflection on the precepts vs on creation.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Meditate on the book of the Torah day and night; it shall not depart
     from your mouth (weight 6.0). Pair score 6.0.'
@@ -69,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+kinds:
+- echo
+units:
+- id: hb-ps-119-alef-he
+  title: Psalm 119, stanzas alef to he
+  tradition: judaism
+- id: quran-3-closing
+  title: Signs for people of understanding; closing prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+  note: Ps 119:15 bĕ-piqqûdêkā ʾāśîḥâ wĕ-ʾabbîṭâ ʾōrḥōtêkā; Q 3:191 wa-yatafakkarūna fī khalqi s-samāwāti
+    wa-l-arḍ. Reflection on the precepts vs on creation.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:15
+      lang: he
+      text: בְּפִקֻּדֶ֥יךָ אָשִׂ֑יחָה וְ֝אַבִּ֗יטָה אֹרְחֹתֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:191
+      lang: ar
+      text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى
+        خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ
+        ٱلنَّارِ
 ---
 
 ## Questions

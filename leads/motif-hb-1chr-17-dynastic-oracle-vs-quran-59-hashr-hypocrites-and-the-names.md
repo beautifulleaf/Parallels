@@ -2,7 +2,7 @@
 id: motif-hb-1chr-17-dynastic-oracle-vs-quran-59-hashr-hypocrites-and-the-names
 title: Nathan's oracle of an eternal house and David's prayer ↔ The hypocrites' false promises, Satan's
   disowning, the Quran on a mountain, and the litany of beautiful names
-summary: 'These two units share 1 motifs: ''there is none like you and no god beside you''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - no-god-beside-you-confession
-passages:
-- tradition: judaism
-  ref: 1Chr 17:20
-  note: '''There is none like you and no God beside you'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָה֙ אֵ֣ין כָּמ֔וֹךָ וְאֵ֥ין אֱלֹהִ֖ים זוּלָתֶ֑ךָ בְּכֹ֥ל אֲשֶׁר שָׁמַ֖עְנוּ בְּאָזְנֵֽינוּ
-- tradition: islam
-  ref: Quran 59:22
-  note: '''There is none like you and no God beside you'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
-    ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 59:23
-  note: '''There is none like you and no God beside you'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ
-    ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. YHWH ʾên kāmôḵā wə-ʾên ʾĕlōhîm zûlāṯeḵā vs. huwa llāhu lladhī lā ilāha illā huwa (twice).
-    David''s prayer in the second person; the Quran''s creed in the third.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 5.8). Pair
     score 5.8.'
@@ -75,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''There is none like you and no God beside you'''
+kinds:
+- parallel
+units:
+- id: hb-1chr-17-dynastic-oracle
+  title: Nathan's oracle of an eternal house and David's prayer
+  tradition: judaism
+- id: quran-59-hashr-hypocrites-and-the-names
+  title: The hypocrites' false promises, Satan's disowning, the Quran on a mountain, and the litany of
+    beautiful names
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''There is none like you and no God beside you'''
+  note: YHWH ʾên kāmôḵā wə-ʾên ʾĕlōhîm zûlāṯeḵā vs. huwa llāhu lladhī lā ilāha illā huwa (twice). David's
+    prayer in the second person; the Quran's creed in the third.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 17:20
+      lang: he
+      text: יְהוָה֙ אֵ֣ין כָּמ֔וֹךָ וְאֵ֥ין אֱלֹהִ֖ים זוּלָתֶ֑ךָ בְּכֹ֥ל אֲשֶׁר שָׁמַ֖עְנוּ בְּאָזְנֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 59:22
+      lang: ar
+      text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
+        ٱلرَّحِيمُ
+    - ref: Quran 59:23
+      lang: ar
+      text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ
+        ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

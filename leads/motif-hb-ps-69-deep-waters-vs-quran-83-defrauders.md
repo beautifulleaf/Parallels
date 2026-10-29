@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ps-69-deep-waters-vs-quran-83-defrauders
 title: 'Psalm 69, the waters have come up to my neck; gall and vinegar ↔ The defrauders: Sijjin and ''Illiyyun'
-summary: 'These two units share 2 motifs: the record of the wicked is in sijjin, that of the righteous
-  in ''illiyyun, each an inscribed book (kitab marqum) witnessed by those brought near [divergence between
-  the texts], god keeps a book in which names are written and from which sinners are blotted.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,63 +14,9 @@ layers:
 motifs:
 - registers-sijjin-and-illiyyun-as-divergence
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 69:29
-  note: 'The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed
-    book (kitab marqum) witnessed by those brought near [divergence between the texts] (One book vs two:
-    Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the wicked blotted out of the one
-    book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri la-fī ʿilliyyīn, each a kitābun
-    marqūm: separate inscribed registers for the wicked and the righteous.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 83:7
-  note: 'The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed
-    book (kitab marqum) witnessed by those brought near [divergence between the texts] (One book vs two:
-    Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the wicked blotted out of the one
-    book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri la-fī ʿilliyyīn, each a kitābun
-    marqūm: separate inscribed registers for the wicked and the righteous.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ
-- tradition: islam
-  ref: Quran 83:9
-  note: 'The record of the wicked is in Sijjin, that of the righteous in ''Illiyyun, each an inscribed
-    book (kitab marqum) witnessed by those brought near [divergence between the texts] (One book vs two:
-    Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the wicked blotted out of the one
-    book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri la-fī ʿilliyyīn, each a kitābun
-    marqūm: separate inscribed registers for the wicked and the righteous.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِتَٰبٌ مَّرْقُومٌ
-- tradition: judaism
-  ref: Ps 69:29
-  note: God keeps a book in which names are written and from which sinners are blotted (yimmahu mi-sefer
-    hayyim ve-im tsaddiqim al yikkatevu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 83:18
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ
-- tradition: islam
-  ref: Quran 83:20
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِتَٰبٌ مَّرْقُومٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. One book vs two: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the
-    wicked blotted out of the one book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri
-    la-fī ʿilliyyīn, each a kitābun marqūm: separate inscribed registers for the wicked and the righteous.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The record of the wicked is in Sijjin, that of the righteous in
     ''Illiyyun, each an inscribed book (kitab marqum) witnessed by those brought near [divergence between
@@ -110,6 +54,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The record of the wicked is in Sijjin, that of the righteous in 'Illiyyun, each an inscribed
+  book (kitab marqum) witnessed by those brought near
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-69-deep-waters
+  title: Psalm 69, the waters have come up to my neck; gall and vinegar
+  tradition: judaism
+- id: quran-83-defrauders
+  title: 'The defrauders: Sijjin and ''Illiyyun'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The record of the wicked is in Sijjin, that of the righteous in 'Illiyyun, each an inscribed
+    book (kitab marqum) witnessed by those brought near
+  note: 'One book vs two: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim ṣaddîqîm ʾal yikkātēvû (the wicked
+    blotted out of the one book of life). Q 83 kitāba l-fujjāri la-fī sijjīn ... kitāba l-abrāri la-fī
+    ʿilliyyīn, each a kitābun marqūm: separate inscribed registers for the wicked and the righteous.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 83:7
+      lang: ar
+      text: كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ
+    - ref: Quran 83:9
+      lang: ar
+      text: كِتَٰبٌ مَّرْقُومٌ
+    - ref: Quran 83:18
+      lang: ar
+      text: كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ
+- kind: shared
+  label: God keeps a book in which names are written and from which sinners are blotted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+    note: yimmahu mi-sefer hayyim ve-im tsaddiqim al yikkatevu
+  - tradition: islam
+    passages:
+    - ref: Quran 83:18
+      lang: ar
+      text: كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ
+    - ref: Quran 83:20
+      lang: ar
+      text: كِتَٰبٌ مَّرْقُومٌ
+    - ref: Quran 83:9
+      lang: ar
+      text: كِتَٰبٌ مَّرْقُومٌ
+    note: the record of the righteous is an inscribed book in 'Illiyyun
 ---
 
 ## Questions

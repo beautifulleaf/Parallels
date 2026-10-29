@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-10-table-of-nations-vs-quran-26-hud-ad
 title: The Table of Nations ↔ Hud and the monument-building people of Ad
-summary: 'These two units share 1 motifs: nimrod, first mighty man, a mighty hunter before the lord.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - nimrod-mighty-hunter
-passages:
-- tradition: judaism
-  ref: Gen 10:8
-  note: Nimrod, first mighty man, a mighty hunter before the LORD (a proverb is quoted)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכ֖וּשׁ יָלַ֣ד אֶת נִמְרֹ֑ד ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ
-- tradition: judaism
-  ref: Gen 10:9
-  note: Nimrod, first mighty man, a mighty hunter before the LORD (a proverb is quoted)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֽוּא הָיָ֥ה גִבֹּֽר צַ֖יִד לִפְנֵ֣י יְהוָ֑ה עַל כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד
-    לִפְנֵ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 26:130
-  note: 'Nimrod, first mighty man, a mighty hunter before the LORD (wa-idhā baṭashtum baṭashtum jabbārīna
-    ~ hûʾ hēḥēl lihyôt gibbōr bā-ʾāreṣ ... wat-təhî rēʾšît mamlakhtô Bāvel: a people or king of builders
-    called ''mighty'' (cognate jabbār / gibbôr). In Genesis it is neutral (gibbōr ṣayid lifnê YHWH), in
-    the Quran the violence of tyrants.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-idhā baṭashtum baṭashtum jabbārīna ~ hûʾ hēḥēl lihyôt gibbōr bā-ʾāreṣ ... wat-təhî rēʾšît
-    mamlakhtô Bāvel: a people or king of builders called ''mighty'' (cognate jabbār / gibbôr). In Genesis
-    it is neutral (gibbōr ṣayid lifnê YHWH), in the Quran the violence of tyrants.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nimrod, first mighty man, a mighty hunter before the LORD (weight
     6.3). Pair score 6.3.'
@@ -69,6 +44,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nimrod, first mighty man, a mighty hunter before the LORD
+kinds:
+- echo
+units:
+- id: hb-gen-10-table-of-nations
+  title: The Table of Nations
+  tradition: judaism
+- id: quran-26-hud-ad
+  title: Hud and the monument-building people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Nimrod, first mighty man, a mighty hunter before the LORD
+  note: 'wa-idhā baṭashtum baṭashtum jabbārīna ~ hûʾ hēḥēl lihyôt gibbōr bā-ʾāreṣ ... wat-təhî rēʾšît
+    mamlakhtô Bāvel: a people or king of builders called ''mighty'' (cognate jabbār / gibbôr). In Genesis
+    it is neutral (gibbōr ṣayid lifnê YHWH), in the Quran the violence of tyrants.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 10:8
+      lang: he
+      text: וְכ֖וּשׁ יָלַ֣ד אֶת נִמְרֹ֑ד ה֣וּא הֵחֵ֔ל לִֽהְי֥וֹת גִּבֹּ֖ר בָּאָֽרֶץ
+    - ref: Gen 10:9
+      lang: he
+      text: הֽוּא הָיָ֥ה גִבֹּֽר צַ֖יִד לִפְנֵ֣י יְהוָ֑ה עַל כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד
+        לִפְנֵ֥י יְהוָֽה
+    - ref: Gen 10:10
+      lang: he
+      text: וַתְּהִ֨י רֵאשִׁ֤ית מַמְלַכְתּוֹ֙ בָּבֶ֔ל וְאֶ֖רֶךְ וְאַכַּ֣ד וְכַלְנֵ֑ה בְּאֶ֖רֶץ שִׁנְעָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 26:130
+      lang: ar
+      text: وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ
 ---
 
 ## Questions

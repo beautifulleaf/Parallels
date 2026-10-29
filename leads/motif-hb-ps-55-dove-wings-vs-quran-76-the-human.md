@@ -2,7 +2,7 @@
 id: motif-hb-ps-55-dove-wings-vs-quran-76-the-human
 title: 'Psalm 55, wings of a dove and the treacherous friend ↔ The human: the mingled drop and the camphor
   cup'
-summary: 'These two units share 1 motifs: prayer at evening, morning and noon (three fixed times a day).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - prayer-three-times-daily
-passages:
-- tradition: judaism
-  ref: Ps 55:18
-  note: Prayer at evening, morning and noon (three fixed times a day) (erev va-voqer ve-tsohorayim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
-- tradition: islam
-  ref: Quran 76:25
-  note: Prayer at evening, morning and noon (three fixed times a day) (remember the Lord morning and afternoon,
-    prostrate in the night and glorify him through the long night)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا
-- tradition: islam
-  ref: Quran 76:26
-  note: Prayer at evening, morning and noon (three fixed times a day) (remember the Lord morning and afternoon,
-    prostrate in the night and glorify him through the long night)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-dhkuri sma rabbika bukratan wa-aṣīlan wa-mina l-layli fa-sjud lahu ~ ʿerev wā-vōqer we-ṣohŏrayim
-    ʾāśîḥāh we-ʾehĕmeh: morning, evening and a third time (noon in the Psalm, night in the Quran).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer at evening, morning and noon (three fixed times a day) (weight
     6.0). Pair score 6.0.'
@@ -72,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer at evening, morning and noon (three fixed times a day)
+kinds:
+- echo
+units:
+- id: hb-ps-55-dove-wings
+  title: Psalm 55, wings of a dove and the treacherous friend
+  tradition: judaism
+- id: quran-76-the-human
+  title: 'The human: the mingled drop and the camphor cup'
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer at evening, morning and noon (three fixed times a day)
+  note: 'wa-dhkuri sma rabbika bukratan wa-aṣīlan wa-mina l-layli fa-sjud lahu ~ ʿerev wā-vōqer we-ṣohŏrayim
+    ʾāśîḥāh we-ʾehĕmeh: morning, evening and a third time (noon in the Psalm, night in the Quran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 55:18
+      lang: he
+      text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 76:25
+      lang: ar
+      text: وَٱذْكُرِ ٱسْمَ رَبِّكَ بُكْرَةً وَأَصِيلًا
+    - ref: Quran 76:26
+      lang: ar
+      text: وَمِنَ ٱلَّيْلِ فَٱسْجُدْ لَهُۥ وَسَبِّحْهُ لَيْلًا طَوِيلًا
 ---
 
 ## Questions

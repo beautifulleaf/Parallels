@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-51-dhariyat-oaths-and-the-righteous
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Al-Dhariyat: the oath by
   the winds, the conjecturers, the night-wakeful righteous and the beggar''s due'
-summary: 'These two units share 1 motifs: oath cluster by the scatterers, the burden-bearers, the easy
-  runners and the distributors of command (winds, clouds, ships or angels).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - oath-by-winds-scattering-and-bearing
-passages:
-- tradition: judaism
-  ref: Ps 104:4
-  note: 'Oath cluster by the scatterers, the burden-bearers, the easy runners and the distributors of
-    command (winds, clouds, ships or angels) (Winds as God''s agents: ʿōśeh malʾāḵâw rûḥôṯ məšārəṯâw ʾēš
-    lōhēṭ vs. wa-dh-dhāriyāti dharwan fa-l-ḥāmilāti wiqran fa-l-jāriyāti yusran fa-l-muqassimāti amran.
-    The psalm makes winds God''s messengers; the Quran swears by winds (or angels) that scatter, carry
-    and distribute the command. The ambiguity of malʾāḵ/rûaḥ (angel/wind) mirrors the exegetical debate
-    over the Quran''s oath-figures.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 51:1
-  note: Oath cluster by the scatterers, the burden-bearers, the easy runners and the distributors of command
-    (winds, clouds, ships or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلذَّٰرِيَٰتِ ذَرْوًا
-- tradition: islam
-  ref: Quran 51:2
-  note: Oath cluster by the scatterers, the burden-bearers, the easy runners and the distributors of command
-    (winds, clouds, ships or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْحَٰمِلَٰتِ وِقْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Winds as God''s agents: ʿōśeh malʾāḵâw rûḥôṯ məšārəṯâw ʾēš lōhēṭ vs. wa-dh-dhāriyāti dharwan
-    fa-l-ḥāmilāti wiqran fa-l-jāriyāti yusran fa-l-muqassimāti amran. The psalm makes winds God''s messengers;
-    the Quran swears by winds (or angels) that scatter, carry and distribute the command. The ambiguity
-    of malʾāḵ/rûaḥ (angel/wind) mirrors the exegetical debate over the Quran''s oath-figures.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Oath cluster by the scatterers, the burden-bearers, the easy runners
     and the distributors of command (winds, clouds, ships or angels) (weight 6.7). Pair score 6.7.'
@@ -81,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Oath cluster by the scatterers, the burden-bearers, the easy runners and the distributors of
+  command (winds, clouds, ships or angels)
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-51-dhariyat-oaths-and-the-righteous
+  title: 'Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and the beggar''s
+    due'
+  tradition: islam
+matches:
+- kind: echo
+  label: Oath cluster by the scatterers, the burden-bearers, the easy runners and the distributors of
+    command (winds, clouds, ships or angels)
+  note: 'Winds as God''s agents: ʿōśeh malʾāḵâw rûḥôṯ məšārəṯâw ʾēš lōhēṭ vs. wa-dh-dhāriyāti dharwan
+    fa-l-ḥāmilāti wiqran fa-l-jāriyāti yusran fa-l-muqassimāti amran. The psalm makes winds God''s messengers;
+    the Quran swears by winds (or angels) that scatter, carry and distribute the command. The ambiguity
+    of malʾāḵ/rûaḥ (angel/wind) mirrors the exegetical debate over the Quran''s oath-figures.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 51:1
+      lang: ar
+      text: وَٱلذَّٰرِيَٰتِ ذَرْوًا
+    - ref: Quran 51:2
+      lang: ar
+      text: فَٱلْحَٰمِلَٰتِ وِقْرًا
+    - ref: Quran 51:3
+      lang: ar
+      text: فَٱلْجَٰرِيَٰتِ يُسْرًا
 ---
 
 ## Questions

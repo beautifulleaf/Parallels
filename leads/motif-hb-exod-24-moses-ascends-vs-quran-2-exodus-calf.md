@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-24-moses-ascends-vs-quran-2-exodus-calf
 title: Moses ascends into the cloud for forty days ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 1 motifs: a prophet spends forty days and forty nights in a set period.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - forty-days-and-nights
-passages:
-- tradition: judaism
-  ref: Exod 24:18
-  note: A prophet spends forty days and forty nights in a set period
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֥א מֹשֶׁ֛ה בְּת֥וֹךְ הֶעָנָ֖ן וַיַּ֣עַל אֶל הָהָ֑ר וַיְהִ֤י מֹשֶׁה֙ בָּהָ֔ר אַרְבָּעִ֣ים
-    י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה
-- tradition: islam
-  ref: Quran 2:51
-  note: A prophet spends forty days and forty nights in a set period (forty nights)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
-    ظَٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Exod 24:18 wa-yhî mōšeh bā-hār ʾarbāʿîm yôm wĕ-ʾarbāʿîm lāylâ; Q 2:51 wa-idh wāʿadnā mūsā
-    arbaʿīna laylatan: forty nights only, framed as an appointment made by God (wāʿadnā).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet spends forty days and forty nights in a set period (weight
     5.8). Pair score 5.8.'
@@ -62,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A prophet spends forty days and forty nights in a set period
+kinds:
+- parallel
+units:
+- id: hb-exod-24-moses-ascends
+  title: Moses ascends into the cloud for forty days
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: parallel
+  label: A prophet spends forty days and forty nights in a set period
+  note: 'Exod 24:18 wa-yhî mōšeh bā-hār ʾarbāʿîm yôm wĕ-ʾarbāʿîm lāylâ; Q 2:51 wa-idh wāʿadnā mūsā arbaʿīna
+    laylatan: forty nights only, framed as an appointment made by God (wāʿadnā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:18
+      lang: he
+      text: וַיָּבֹ֥א מֹשֶׁ֛ה בְּת֥וֹךְ הֶעָנָ֖ן וַיַּ֣עַל אֶל הָהָ֑ר וַיְהִ֤י מֹשֶׁה֙ בָּהָ֔ר אַרְבָּעִ֣ים
+        י֔וֹם וְאַרְבָּעִ֖ים לָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:51
+      lang: ar
+      text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ
+        وَأَنتُمْ ظَٰلِمُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-18-iblis-and-judgment
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ Iblis
   was of the jinn; the partners do not answer (Surah 18:50-59)
-summary: 'These two units share 1 motifs: god did not make satan and his offspring witnesses of the creation
-  of the heavens and earth, nor of their own.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - none-witnessed-creation
-passages:
-- tradition: judaism
-  ref: Job 38:4
-  note: 'God did not make Satan and his offspring witnesses of the creation of the heavens and earth,
-    nor of their own (ʾêpōh hāyîtā bəyosdî-ʾāreṣ haggēd ʾim-yādaʿtā bînâ ... mî-śām məmaddêhā; mā ashhadtuhum
-    khalqa s-samāwāti wa-l-arḍi wa-lā khalqa anfusihim: no creature was present at creation. Job is asked
-    it to silence a man; in Q it is denied to Satan and his offspring, so that no one takes them as patrons.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:5
-  note: 'God did not make Satan and his offspring witnesses of the creation of the heavens and earth,
-    nor of their own (ʾêpōh hāyîtā bəyosdî-ʾāreṣ haggēd ʾim-yādaʿtā bînâ ... mî-śām məmaddêhā; mā ashhadtuhum
-    khalqa s-samāwāti wa-l-arḍi wa-lā khalqa anfusihim: no creature was present at creation. Job is asked
-    it to silence a man; in Q it is denied to Satan and his offspring, so that no one takes them as patrons.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִי שָׂ֣ם מְ֭מַדֶּיהָ כִּ֣י תֵדָ֑ע א֤וֹ מִֽי נָטָ֖ה עָלֶ֣יהָ קָּֽו
-- tradition: islam
-  ref: Quran 18:51
-  note: God did not make Satan and his offspring witnesses of the creation of the heavens and earth, nor
-    of their own (I did not make them witness the creation of the heavens and earth, nor of themselves)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ
-    ٱلْمُضِلِّينَ عَضُدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾêpōh hāyîtā bəyosdî-ʾāreṣ haggēd ʾim-yādaʿtā bînâ ... mî-śām məmaddêhā; mā ashhadtuhum
-    khalqa s-samāwāti wa-l-arḍi wa-lā khalqa anfusihim: no creature was present at creation. Job is asked
-    it to silence a man; in Q it is denied to Satan and his offspring, so that no one takes them as patrons.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not make Satan and his offspring witnesses of the creation
     of the heavens and earth, nor of their own (weight 6.7). Pair score 6.7.'
@@ -82,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God did not make Satan and his offspring witnesses of the creation of the heavens and earth,
+  nor of their own
+kinds:
+- parallel
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-18-iblis-and-judgment
+  title: Iblis was of the jinn; the partners do not answer (Surah 18:50-59)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God did not make Satan and his offspring witnesses of the creation of the heavens and earth,
+    nor of their own
+  note: 'ʾêpōh hāyîtā bəyosdî-ʾāreṣ haggēd ʾim-yādaʿtā bînâ ... mî-śām məmaddêhā; mā ashhadtuhum khalqa
+    s-samāwāti wa-l-arḍi wa-lā khalqa anfusihim: no creature was present at creation. Job is asked it
+    to silence a man; in Q it is denied to Satan and his offspring, so that no one takes them as patrons.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:5
+      lang: he
+      text: מִי שָׂ֣ם מְ֭מַדֶּיהָ כִּ֣י תֵדָ֑ע א֤וֹ מִֽי נָטָ֖ה עָלֶ֣יהָ קָּֽו
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:51
+      lang: ar
+      text: مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ
+        مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-lev-26-curses-vs-quran-4-israel-indictment-crucifixion
 title: Covenant curses, exile, and remembered covenant ↔ The indictment of Israel; the Messiah not crucified
   but raised
-summary: 'These two units share 2 motifs: the people''s ''uncircumcised heart'' must be humbled [divergence
-  between the texts], the people''s ''uncircumcised heart'' must be humbled.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,49 +15,9 @@ layers:
 motifs:
 - uncircumcised-heart-as-divergence
 - uncircumcised-heart
-passages:
-- tradition: judaism
-  ref: Lev 26:41
-  note: 'The people''s ''uncircumcised heart'' must be humbled [divergence between the texts] (Lev: ʾô-ʾāz
-    yikkānaʿ ləvāvām he-ʿārēl, where God calls the heart uncircumcised and expects it to be humbled. Q:
-    the people say it of themselves as an excuse, qulūbunā ghulfun (''our hearts are uncircumcised/wrapped''),
-    and God answers bal ṭabaʿa llāhu ʿalayhā bi-kufrihim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
-    לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
-- tradition: islam
-  ref: Quran 4:155
-  note: 'The people''s ''uncircumcised heart'' must be humbled [divergence between the texts] (Lev: ʾô-ʾāz
-    yikkānaʿ ləvāvām he-ʿārēl, where God calls the heart uncircumcised and expects it to be humbled. Q:
-    the people say it of themselves as an excuse, qulūbunā ghulfun (''our hearts are uncircumcised/wrapped''),
-    and God answers bal ṭabaʿa llāhu ʿalayhā bi-kufrihim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ
-    حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ
-    إِلَّا قَلِيلًا
-- tradition: judaism
-  ref: Lev 26:41
-  note: The people's 'uncircumcised heart' must be humbled
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
-    לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
-- tradition: islam
-  ref: Quran 4:155
-  note: The people's 'uncircumcised heart' must be humbled ('our hearts are wrapped' (qulūbunā ghulf),
-    cf. Lev 26:41, Jer 9:25)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ
-    حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ
-    إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Lev: ʾô-ʾāz yikkānaʿ ləvāvām he-ʿārēl, where God calls the heart uncircumcised and expects
-    it to be humbled. Q: the people say it of themselves as an excuse, qulūbunā ghulfun (''our hearts
-    are uncircumcised/wrapped''), and God answers bal ṭabaʿa llāhu ʿalayhā bi-kufrihim.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s ''uncircumcised heart'' must be humbled [divergence
     between the texts] (weight 6.7); The people''s ''uncircumcised heart'' must be humbled (weight 5.6).
@@ -93,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's 'uncircumcised heart' must be humbled
+kinds:
+- divergence
+units:
+- id: hb-lev-26-curses
+  title: Covenant curses, exile, and remembered covenant
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: divergence
+  label: The people's 'uncircumcised heart' must be humbled
+  note: 'Lev: ʾô-ʾāz yikkānaʿ ləvāvām he-ʿārēl, where God calls the heart uncircumcised and expects it
+    to be humbled. Q: the people say it of themselves as an excuse, qulūbunā ghulfun (''our hearts are
+    uncircumcised/wrapped''), and God answers bal ṭabaʿa llāhu ʿalayhā bi-kufrihim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:41
+      lang: he
+      text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
+        לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:155
+      lang: ar
+      text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ
+        بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا
+        يُؤْمِنُونَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

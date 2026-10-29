@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-145-ashrei-vs-quran-7-calf
 title: Psalm 145, acrostic praise of the King (Ashrei) ↔ The lowing calf and the seventy
-summary: 'These two units share 1 motifs: god''s mercy encompasses all things.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - mercy-encompasses-all-things
-passages:
-- tradition: judaism
-  ref: Ps 145:9
-  note: 'God''s mercy encompasses all things (Mercy extends to all: wa-raḥmatī wasiʿat kulla shayʾ vs
-    ṭôb-YHWH lakkōl wᵉraḥămāyw ʿal-kol-maʿăśāyw.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: טוֹב יְהוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל כָּל מַעֲשָֽׂיו
-- tradition: islam
-  ref: Quran 7:156
-  note: God's mercy encompasses all things
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ قَالَ
-    عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ
-    يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Mercy extends to all: wa-raḥmatī wasiʿat kulla shayʾ vs ṭôb-YHWH lakkōl wᵉraḥămāyw ʿal-kol-maʿăśāyw.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s mercy encompasses all things (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -64,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's mercy encompasses all things
+kinds:
+- parallel
+units:
+- id: hb-ps-145-ashrei
+  title: Psalm 145, acrostic praise of the King (Ashrei)
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: parallel
+  label: God's mercy encompasses all things
+  note: 'Mercy extends to all: wa-raḥmatī wasiʿat kulla shayʾ vs ṭôb-YHWH lakkōl wᵉraḥămāyw ʿal-kol-maʿăśāyw.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 145:9
+      lang: he
+      text: טוֹב יְהוָ֥ה לַכֹּ֑ל וְ֝רַחֲמָ֗יו עַל כָּל מַעֲשָֽׂיו
+  - tradition: islam
+    passages:
+    - ref: Quran 7:156
+      lang: ar
+      text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ
+        قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا
+        لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-21-heedless-and-doomed-towns
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ The
   reckoning approaches; mortal messengers and destroyed towns
-summary: 'These two units share 1 motifs: the people''s reckoning draws near while they turn away in heedlessness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - reckoning-near-people-heedless
-passages:
-- tradition: judaism
-  ref: Isa 29:13
-  note: 'The people''s reckoning draws near while they turn away in heedlessness (bəpîw ûbiśpātāyw kibbədûnî
-    wəlibbô riḥaq mimmennî; istamaʿūhu wa-hum yalʿabūna lāhiyatan qulūbuhum: outward hearing with an absent
-    heart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
-    וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
-- tradition: islam
-  ref: Quran 21:1
-  note: The people's reckoning draws near while they turn away in heedlessness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ
-- tradition: islam
-  ref: Quran 21:2
-  note: The people's reckoning draws near while they turn away in heedlessness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا يَأْتِيهِم مِّن ذِكْرٍ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. bəpîw ûbiśpātāyw kibbədûnî wəlibbô riḥaq mimmennî; istamaʿūhu wa-hum yalʿabūna lāhiyatan qulūbuhum:
-    outward hearing with an absent heart.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s reckoning draws near while they turn away in heedlessness
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's reckoning draws near while they turn away in heedlessness
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-21-heedless-and-doomed-towns
+  title: The reckoning approaches; mortal messengers and destroyed towns
+  tradition: islam
+matches:
+- kind: echo
+  label: The people's reckoning draws near while they turn away in heedlessness
+  note: 'bəpîw ûbiśpātāyw kibbədûnî wəlibbô riḥaq mimmennî; istamaʿūhu wa-hum yalʿabūna lāhiyatan qulūbuhum:
+    outward hearing with an absent heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:13
+      lang: he
+      text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
+        וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:1
+      lang: ar
+      text: ٱقْتَرَبَ لِلنَّاسِ حِسَابُهُمْ وَهُمْ فِى غَفْلَةٍ مُّعْرِضُونَ
+    - ref: Quran 21:2
+      lang: ar
+      text: مَا يَأْتِيهِم مِّن ذِكْرٍ مِّن رَّبِّهِم مُّحْدَثٍ إِلَّا ٱسْتَمَعُوهُ وَهُمْ يَلْعَبُونَ
+    - ref: Quran 21:3
+      lang: ar
+      text: لَاهِيَةً قُلُوبُهُمْ وَأَسَرُّوا۟ ٱلنَّجْوَى ٱلَّذِينَ ظَلَمُوا۟ هَلْ هَٰذَآ إِلَّا بَشَرٌ
+        مِّثْلُكُمْ أَفَتَأْتُونَ ٱلسِّحْرَ وَأَنتُمْ تُبْصِرُونَ
 ---
 
 ## Questions

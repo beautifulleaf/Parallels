@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-4-hypocrites-two-factions
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The hypocrites, deserters and those who offer
   peace'
-summary: 'These two units share 2 motifs: messengers offer peace terms before battle [divergence between
-  the texts], messengers offer peace terms before battle.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,79 +15,9 @@ layers:
 motifs:
 - peace-offer-before-war-as-divergence
 - peace-offer-before-war
-passages:
-- tradition: judaism
-  ref: Deut 20:10
-  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
-    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
-    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
-    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
-    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
-    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
-    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 4:90
-  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
-    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
-    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
-    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ
-    صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
-    فَلَقَٰتَلُوكُمْ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا
-    جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
-- tradition: islam
-  ref: Quran 4:91
-  note: 'Messengers offer peace terms before battle [divergence between the texts] (The roles are reversed.
-    Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city that answers šālôm becomes forced
-    labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw ilaykumu l-salama) and withdraws,
-    and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on them, no tribute.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟
-    إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ
-    وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأُو۟لَٰٓئِكُمْ جَعَلْنَا
-    لَكُمْ عَلَيْهِمْ سُلْطَٰنًا مُّبِينًا
-- tradition: judaism
-  ref: Deut 20:10
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 4:90
-  note: 'Messengers offer peace terms before battle (inverse: those who ''cast you peace (al-salam)''
-    and withdraw may not be fought)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ حَصِرَتْ
-    صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ عَلَيْكُمْ
-    فَلَقَٰتَلُوكُمْ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ ٱلسَّلَمَ فَمَا
-    جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. The roles are reversed. Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and
-    a city that answers šālôm becomes forced labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers
-    (wa-alqaw ilaykumu l-salama) and withdraws, and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no
-    claim on them, no tribute.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Messengers offer peace terms before battle [divergence between the
     texts] (weight 6.7); Messengers offer peace terms before battle (weight 5.8). Pair score 12.5.'
@@ -115,6 +44,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Messengers offer peace terms before battle
+kinds:
+- divergence
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-4-hypocrites-two-factions
+  title: The hypocrites, deserters and those who offer peace
+  tradition: islam
+matches:
+- kind: divergence
+  label: Messengers offer peace terms before battle
+  note: 'The roles are reversed. Deut: Israel makes the offer (wə-qārāʾtā ʾēlêhā lə-šālôm), and a city
+    that answers šālôm becomes forced labour (yihyû ləkā lāmas waʿăbādûkā). Q: the other side offers (wa-alqaw
+    ilaykumu l-salama) and withdraws, and then fa-mā jaʿala llāhu lakum ʿalayhim sabīlan: no claim on
+    them, no tribute.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:90
+      lang: ar
+      text: إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ أَوْ جَآءُوكُمْ
+        حَصِرَتْ صُدُورُهُمْ أَن يُقَٰتِلُوكُمْ أَوْ يُقَٰتِلُوا۟ قَوْمَهُمْ وَلَوْ شَآءَ ٱللَّهُ لَسَلَّطَهُمْ
+        عَلَيْكُمْ فَلَقَٰتَلُوكُمْ فَإِنِ ٱعْتَزَلُوكُمْ فَلَمْ يُقَٰتِلُوكُمْ وَأَلْقَوْا۟ إِلَيْكُمُ
+        ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمْ عَلَيْهِمْ سَبِيلًا
+    - ref: Quran 4:91
+      lang: ar
+      text: سَتَجِدُونَ ءَاخَرِينَ يُرِيدُونَ أَن يَأْمَنُوكُمْ وَيَأْمَنُوا۟ قَوْمَهُمْ كُلَّ مَا رُدُّوٓا۟
+        إِلَى ٱلْفِتْنَةِ أُرْكِسُوا۟ فِيهَا فَإِن لَّمْ يَعْتَزِلُوكُمْ وَيُلْقُوٓا۟ إِلَيْكُمُ ٱلسَّلَمَ
+        وَيَكُفُّوٓا۟ أَيْدِيَهُمْ فَخُذُوهُمْ وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْ وَأُو۟لَٰٓئِكُمْ
+        جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَٰنًا مُّبِينًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-37-ranks-and-guarded-heaven
 title: Concerning the prophets - who has stood in the council of YHWH? ↔ The ranks, the guarded heaven
   and the shooting stars
-summary: 'These two units share 2 motifs: ''have you listened in the council (sod) of god, and limited
-  wisdom to yourself?'', god enthroned with the host of heaven standing at his right and left deliberates.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,58 +15,9 @@ layers:
 motifs:
 - listening-in-council-of-god
 - divine-council-scene
-passages:
-- tradition: judaism
-  ref: Jer 23:18
-  note: '''Have you listened in the council (sod) of God, and limited wisdom to yourself?'' (true prophets
-    have stood in the sod YHWH)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
-    וַיִּשְׁמָֽע
-- tradition: judaism
-  ref: Jer 23:22
-  note: '''Have you listened in the council (sod) of God, and limited wisdom to yourself?'' (true prophets
-    have stood in the sod YHWH)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
-    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 37:8
-  note: '''Have you listened in the council (sod) of God, and limited wisdom to yourself?'' (kî mî ʿāmaḏ
-    bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô vs. lā yassammaʿūna ilā l-malaʾi l-aʿlā: listening in on
-    the divine council is the mark of true revelation. Jeremiah denies it to the false prophets, the Quran
-    to the devils who feed the soothsayers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
-- tradition: judaism
-  ref: Jer 23:18
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
-    וַיִּשְׁמָֽע
-- tradition: judaism
-  ref: Jer 23:22
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
-    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 37:8
-  note: God enthroned with the host of heaven standing at his right and left deliberates ('the Exalted
-    Assembly' (al-mala' al-a'la))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô vs. lā yassammaʿūna ilā l-malaʾi l-aʿlā:
-    listening in on the divine council is the mark of true revelation. Jeremiah denies it to the false
-    prophets, the Quran to the devils who feed the soothsayers.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Have you listened in the council (sod) of God, and limited wisdom
     to yourself?'' (weight 6.3); God enthroned with the host of heaven standing at his right and left
@@ -105,6 +55,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Have you listened in the council (sod) of God, and limited wisdom to yourself?'''
+kinds:
+- echo
+- shared
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-37-ranks-and-guarded-heaven
+  title: The ranks, the guarded heaven and the shooting stars
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Have you listened in the council (sod) of God, and limited wisdom to yourself?'''
+  note: 'kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô vs. lā yassammaʿūna ilā l-malaʾi l-aʿlā:
+    listening in on the divine council is the mark of true revelation. Jeremiah denies it to the false
+    prophets, the Quran to the devils who feed the soothsayers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:18
+      lang: he
+      text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי
+        דְּבָר֖וֹ וַיִּשְׁמָֽע
+    - ref: Jer 23:22
+      lang: he
+      text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+        וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:8
+      lang: ar
+      text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+- kind: shared
+  label: God enthroned with the host of heaven standing at his right and left deliberates
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:18
+      lang: he
+      text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי
+        דְּבָר֖וֹ וַיִּשְׁמָֽע
+    - ref: Jer 23:22
+      lang: he
+      text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+        וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:8
+      lang: ar
+      text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+    note: '''the Exalted Assembly'' (al-mala'' al-a''la)'
 ---
 
 ## Questions

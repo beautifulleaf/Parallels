@@ -2,8 +2,7 @@
 id: motif-hb-isa-2-mountain-and-day-of-yhwh-vs-quran-20-judgment-day
 title: The mountain of the Lord's house; the Day of YHWH against all that is proud ↔ The trumpet, the
   leveled mountains and the hushed judgment
-summary: 'These two units share 1 motifs: on the day of judgment voices are hushed before the merciful;
-  only a faint murmur is heard.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - voices-hushed-to-whisper-at-judgment
-passages:
-- tradition: judaism
-  ref: Isa 2:11
-  note: 'On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard (ʿênê
-    gabhût ʾādām šāpēl wəšaḥ rûm ʾănāšîm wəniśgab YHWH ləbaddô bayyôm hahûʾ; wa-khashaʿati l-aṣwātu li-r-Raḥmān
-    ... wa-ʿanati l-wujūhu li-l-ḥayyi l-qayyūm: on that day human pride is brought low before God alone
-    (šaḥ, ''bowed'', against khashaʿat and ʿanat).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵינֵ֞י גַּבְה֤וּת אָדָם֙ שָׁפֵ֔ל וְשַׁ֖ח ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ בַּיּ֥וֹם
-    הַהֽוּא
-- tradition: islam
-  ref: Quran 20:108
-  note: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا
-    تَسْمَعُ إِلَّا هَمْسًا
-- tradition: islam
-  ref: Quran 20:111
-  note: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʿênê gabhût ʾādām šāpēl wəšaḥ rûm ʾănāšîm wəniśgab YHWH ləbaddô bayyôm hahûʾ; wa-khashaʿati
-    l-aṣwātu li-r-Raḥmān ... wa-ʿanati l-wujūhu li-l-ḥayyi l-qayyūm: on that day human pride is brought
-    low before God alone (šaḥ, ''bowed'', against khashaʿat and ʿanat).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of judgment voices are hushed before the Merciful; only
     a faint murmur is heard (weight 6.3). Pair score 6.3.'
@@ -78,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
+kinds:
+- echo
+units:
+- id: hb-isa-2-mountain-and-day-of-yhwh
+  title: The mountain of the Lord's house; the Day of YHWH against all that is proud
+  tradition: judaism
+- id: quran-20-judgment-day
+  title: The trumpet, the leveled mountains and the hushed judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
+  note: 'ʿênê gabhût ʾādām šāpēl wəšaḥ rûm ʾănāšîm wəniśgab YHWH ləbaddô bayyôm hahûʾ; wa-khashaʿati l-aṣwātu
+    li-r-Raḥmān ... wa-ʿanati l-wujūhu li-l-ḥayyi l-qayyūm: on that day human pride is brought low before
+    God alone (šaḥ, ''bowed'', against khashaʿat and ʿanat).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 2:11
+      lang: he
+      text: עֵינֵ֞י גַּבְה֤וּת אָדָם֙ שָׁפֵ֔ל וְשַׁ֖ח ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ
+        בַּיּ֥וֹם הַהֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 20:108
+      lang: ar
+      text: يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ
+        فَلَا تَسْمَعُ إِلَّا هَمْسًا
+    - ref: Quran 20:111
+      lang: ar
+      text: وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا
 ---
 
 ## Questions

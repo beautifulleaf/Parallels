@@ -2,8 +2,7 @@
 id: motif-hb-jer-5-sea-boundary-vs-quran-22-destroyed-towns-satanic-insinuation
 title: The sea's sand boundary; houses full of deceit ↔ Rejected prophets, ruined towns, the thousand-year
   day and Satan's insertion
-summary: 'These two units share 1 motifs: a foolish people who have eyes but do not see and ears but do
-  not hear.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - eyes-that-do-not-see
-passages:
-- tradition: judaism
-  ref: Jer 5:21
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
-    וְלֹ֥א יִשְׁמָֽעוּ
-- tradition: islam
-  ref: Quran 22:46
-  note: 'A foolish people who have eyes but do not see and ears but do not hear (a-fa-lam yasīrū fī l-arḍi
-    fa-takūna lahum qulūbun yaʿqilūna bihā aw ādhānun yasmaʿūna bihā fa-innahā lā taʿmā l-abṣāru wa-lākin
-    taʿmā l-qulūbu ~ ʿam sākhāl wə-ʾên lēv ʿênayim lāhem wə-lōʾ yirʾû ʾoznayim lāhem wə-lōʾ yišmāʿû: heart
-    (lēv / qalb), eyes and ears that fail; the Quran shifts the blindness from the eyes to the heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَآ أَوْ ءَاذَانٌ يَسْمَعُونَ
-    بِهَا فَإِنَّهَا لَا تَعْمَى ٱلْأَبْصَٰرُ وَلَٰكِن تَعْمَى ٱلْقُلُوبُ ٱلَّتِى فِى ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-fa-lam yasīrū fī l-arḍi fa-takūna lahum qulūbun yaʿqilūna bihā aw ādhānun yasmaʿūna bihā fa-innahā
-    lā taʿmā l-abṣāru wa-lākin taʿmā l-qulūbu ~ ʿam sākhāl wə-ʾên lēv ʿênayim lāhem wə-lōʾ yirʾû ʾoznayim
-    lāhem wə-lōʾ yišmāʿû: heart (lēv / qalb), eyes and ears that fail; the Quran shifts the blindness
-    from the eyes to the heart.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
     hear (weight 5.4). Pair score 5.4.'
@@ -70,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foolish people who have eyes but do not see and ears but do not hear
+kinds:
+- echo
+units:
+- id: hb-jer-5-sea-boundary
+  title: The sea's sand boundary; houses full of deceit
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: echo
+  label: A foolish people who have eyes but do not see and ears but do not hear
+  note: 'a-fa-lam yasīrū fī l-arḍi fa-takūna lahum qulūbun yaʿqilūna bihā aw ādhānun yasmaʿūna bihā fa-innahā
+    lā taʿmā l-abṣāru wa-lākin taʿmā l-qulūbu ~ ʿam sākhāl wə-ʾên lēv ʿênayim lāhem wə-lōʾ yirʾû ʾoznayim
+    lāhem wə-lōʾ yišmāʿû: heart (lēv / qalb), eyes and ears that fail; the Quran shifts the blindness
+    from the eyes to the heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 5:21
+      lang: he
+      text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
+        וְלֹ֥א יִשְׁמָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:46
+      lang: ar
+      text: أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَآ أَوْ ءَاذَانٌ
+        يَسْمَعُونَ بِهَا فَإِنَّهَا لَا تَعْمَى ٱلْأَبْصَٰرُ وَلَٰكِن تَعْمَى ٱلْقُلُوبُ ٱلَّتِى فِى
+        ٱلصُّدُورِ
 ---
 
 ## Questions

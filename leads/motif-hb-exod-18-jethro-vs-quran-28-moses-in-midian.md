@@ -2,7 +2,7 @@
 id: motif-hb-exod-18-jethro-vs-quran-28-moses-in-midian
 title: Jethro's visit and the appointment of judges ↔ At the water of Midian; the two women, their old
   father and the marriage contract
-summary: 'These two units share 1 motifs: the prophet''s father-in-law is a foreign priest.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,30 +15,7 @@ layers:
 - motif
 motifs:
 - foreign-priest-father-in-law
-passages:
-- tradition: judaism
-  ref: Exod 18:1
-  note: The prophet's father-in-law is a foreign priest (Jethro, priest of Midian)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כָּל אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה
-    וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי הוֹצִ֧יא יְהוָ֛ה אֶת יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם
-- tradition: islam
-  ref: Quran 28:25
-  note: The prophet's father-in-law is a foreign priest (unnamed here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
-    أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
-    مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 28:27
-  note: The prophet's father-in-law is a foreign priest (unnamed here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ
-    حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ
-    إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The prophet''s father-in-law is a foreign priest (weight 6.7). Pair
     score 6.7.'
@@ -70,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's father-in-law is a foreign priest
+kinds:
+- shared
+units:
+- id: hb-exod-18-jethro
+  title: Jethro's visit and the appointment of judges
+  tradition: judaism
+- id: quran-28-moses-in-midian
+  title: At the water of Midian; the two women, their old father and the marriage contract
+  tradition: islam
+matches:
+- kind: shared
+  label: The prophet's father-in-law is a foreign priest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 18:1
+      lang: he
+      text: וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כָּל אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה
+        וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי הוֹצִ֧יא יְהוָ֛ה אֶת יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם
+    note: Jethro, priest of Midian
+  - tradition: islam
+    passages:
+    - ref: Quran 28:25
+      lang: ar
+      text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
+        أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
+        مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+    - ref: Quran 28:27
+      lang: ar
+      text: قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى
+        ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ
+        سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
+    note: unnamed here
 ---
 
 ## Questions

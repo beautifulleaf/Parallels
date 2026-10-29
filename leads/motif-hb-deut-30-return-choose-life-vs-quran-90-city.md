@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-90-city
 title: 'Return from exile; the near commandment; choose life ↔ The city: the two highways and the steep
   ascent'
-summary: 'These two units share 1 motifs: i set before you life and death, blessing and curse: choose
-  life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - choose-life
-passages:
-- tradition: judaism
-  ref: Deut 30:15
-  note: 'I set before you life and death, blessing and curse: choose life'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת הָרָֽע
-- tradition: judaism
-  ref: Deut 30:19
-  note: 'I set before you life and death, blessing and curse: choose life'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
-    לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 90:10
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
-- tradition: islam
-  ref: Quran 90:18
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-hadaynāhu n-najdayn ~ ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā ba-ḥayyîm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
     (weight 5.6). Pair score 5.6.'
@@ -78,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'I set before you life and death, blessing and curse: choose life'
+kinds:
+- echo
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-90-city
+  title: 'The city: the two highways and the steep ascent'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'I set before you life and death, blessing and curse: choose life'
+  note: wa-hadaynāhu n-najdayn ~ ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā ba-ḥayyîm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:15
+      lang: he
+      text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת
+        הָרָֽע
+    - ref: Deut 30:19
+      lang: he
+      text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
+        לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 90:10
+      lang: ar
+      text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
 ---
 
 ## Questions

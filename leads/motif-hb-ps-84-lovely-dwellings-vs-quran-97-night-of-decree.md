@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-84-lovely-dwellings-vs-quran-97-night-of-decree
 title: Psalm 84, how lovely are your dwellings; the sparrow at the altar ↔ The Night of Decree
-summary: 'These two units share 1 motifs: a day in god''s courts is better than a thousand elsewhere;
-  better a doorkeeper than dwell in tents of wickedness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +13,9 @@ layers:
 - motif
 motifs:
 - one-day-in-courts-better-than-thousand
-passages:
-- tradition: judaism
-  ref: Ps 84:11
-  note: A day in God's courts is better than a thousand elsewhere; better a doorkeeper than dwell in tents
-    of wickedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י טֽוֹב י֥וֹם בַּחֲצֵרֶ֗יךָ מֵ֫אָ֥לֶף בָּחַ֗רְתִּי הִ֭סְתּוֹפֵף בְּבֵ֣ית אֱלֹהַ֑י מִ֝דּ֗וּר
-    בְּאָהֳלֵי רֶֽשַׁע
-- tradition: islam
-  ref: Quran 97:3
-  note: 'A day in God''s courts is better than a thousand elsewhere; better a doorkeeper than dwell in
-    tents of wickedness (laylatu l-qadri khayrun min alfi shahr ~ kî ṭôv yôm ba-ḥăṣērêkā mē-ʾālef: one
-    sacred time ''better than a thousand''; a day in the Temple courts vs. the night of revelation, a
-    thousand (days) vs a thousand months.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. laylatu l-qadri khayrun min alfi shahr ~ kî ṭôv yôm ba-ḥăṣērêkā mē-ʾālef: one sacred time ''better
-    than a thousand''; a day in the Temple courts vs. the night of revelation, a thousand (days) vs a
-    thousand months.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A day in God''s courts is better than a thousand elsewhere; better
     a doorkeeper than dwell in tents of wickedness (weight 6.7). Pair score 6.7.'
@@ -64,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A day in God's courts is better than a thousand elsewhere; better a doorkeeper than dwell in
+  tents of wickedness
+kinds:
+- echo
+units:
+- id: hb-ps-84-lovely-dwellings
+  title: Psalm 84, how lovely are your dwellings; the sparrow at the altar
+  tradition: judaism
+- id: quran-97-night-of-decree
+  title: The Night of Decree
+  tradition: islam
+matches:
+- kind: echo
+  label: A day in God's courts is better than a thousand elsewhere; better a doorkeeper than dwell in
+    tents of wickedness
+  note: 'laylatu l-qadri khayrun min alfi shahr ~ kî ṭôv yôm ba-ḥăṣērêkā mē-ʾālef: one sacred time ''better
+    than a thousand''; a day in the Temple courts vs. the night of revelation, a thousand (days) vs a
+    thousand months.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 84:11
+      lang: he
+      text: כִּ֤י טֽוֹב י֥וֹם בַּחֲצֵרֶ֗יךָ מֵ֫אָ֥לֶף בָּחַ֗רְתִּי הִ֭סְתּוֹפֵף בְּבֵ֣ית אֱלֹהַ֑י מִ֝דּ֗וּר
+        בְּאָהֳלֵי רֶֽשַׁע
+  - tradition: islam
+    passages:
+    - ref: Quran 97:3
+      lang: ar
+      text: لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ
 ---
 
 ## Questions

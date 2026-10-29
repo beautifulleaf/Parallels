@@ -2,9 +2,7 @@
 id: motif-hb-ps-79-nations-in-inheritance-vs-quran-17-night-journey-and-israel
 title: Psalm 79, the nations have come into your inheritance ↔ The Night Journey and the two corruptions
   of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 2 motifs: enemies roar in the sanctuary, hack its carved work with axes
-  and burn it to the ground [divergence between the texts], enemies roar in the sanctuary, hack its carved
-  work with axes and burn it to the ground.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,59 +15,9 @@ layers:
 motifs:
 - temple-destroyed-by-enemies-as-divergence
 - temple-destroyed-by-enemies
-passages:
-- tradition: judaism
-  ref: Ps 79:1
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (bāʾû gôyim bənaḥălātekā ṭimməʾû ʾet-hêkal qodšekā; fa-jāsū khilāla d-diyār ...
-    wa-li-yadkhulū l-masjid. In Ps the nations are intruders to be punished (šəpōk ḥămātəkā ʾel-haggôyim,
-    79:6); in Q they are sent by God (baʿathnā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֡ים בָּ֤אוּ גוֹיִ֨ם בְּֽנַחֲלָתֶ֗ךָ טִ֭מְּאוּ אֶת הֵיכַ֣ל קָדְשֶׁ֑ךָ
-    שָׂ֖מוּ אֶת יְרוּשָׁלִַ֣ם לְעִיִּֽים
-- tradition: islam
-  ref: Quran 17:7
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
-- tradition: islam
-  ref: Quran 17:5
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
-    فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
-- tradition: judaism
-  ref: Ps 79:1
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground (defiled
-    your holy temple, made Jerusalem a heap of ruins)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֡ים בָּ֤אוּ גוֹיִ֨ם בְּֽנַחֲלָתֶ֗ךָ טִ֭מְּאוּ אֶת הֵיכַ֣ל קָדְשֶׁ֑ךָ
-    שָׂ֖מוּ אֶת יְרוּשָׁלִַ֣ם לְעִיִּֽים
-- tradition: islam
-  ref: Quran 17:7
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. bāʾû gôyim bənaḥălātekā ṭimməʾû ʾet-hêkal qodšekā; fa-jāsū khilāla d-diyār ... wa-li-yadkhulū
-    l-masjid. In Ps the nations are intruders to be punished (šəpōk ḥămātəkā ʾel-haggôyim, 79:6); in Q
-    they are sent by God (baʿathnā).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies roar in the sanctuary, hack its carved work with axes and
     burn it to the ground [divergence between the texts] (weight 6.3); Enemies roar in the sanctuary,
@@ -101,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+kinds:
+- divergence
+units:
+- id: hb-ps-79-nations-in-inheritance
+  title: Psalm 79, the nations have come into your inheritance
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+  note: bāʾû gôyim bənaḥălātekā ṭimməʾû ʾet-hêkal qodšekā; fa-jāsū khilāla d-diyār ... wa-li-yadkhulū
+    l-masjid. In Ps the nations are intruders to be punished (šəpōk ḥămātəkā ʾel-haggôyim, 79:6); in Q
+    they are sent by God (baʿathnā).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 79:1
+      lang: he
+      text: מִזְמ֗וֹר לְאָ֫סָ֥ף אֱֽלֹהִ֡ים בָּ֤אוּ גוֹיִ֨ם בְּֽנַחֲלָתֶ֗ךָ טִ֭מְּאוּ אֶת הֵיכַ֣ל קָדְשֶׁ֑ךָ
+        שָׂ֖מוּ אֶת יְרוּשָׁלִַ֣ם לְעִיִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 17:5
+      lang: ar
+      text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
+        فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
+    - ref: Quran 17:7
+      lang: ar
+      text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ
+        ٱلْءَاخِرَةِ لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ
+        وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا
 ---
 
 ## Questions

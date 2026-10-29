@@ -2,9 +2,7 @@
 id: motif-hb-ps-119-vav-kaf-vs-quran-39-pure-religion
 title: Psalm 119, stanzas vav to kaf ↔ Pure religion; no son for God; creation from one soul in three
   darknesses
-summary: 'These two units share 2 motifs: the believers'' sides forsake their beds as they call on their
-  lord in fear and hope (night vigil), god formed the kidneys and wove (knit) the speaker in his mother''s
-  womb.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,43 +15,9 @@ layers:
 motifs:
 - sides-forsake-beds-night-prayer
 - knit-together-in-mothers-womb
-passages:
-- tradition: judaism
-  ref: Ps 119:62
-  note: 'The believers'' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
-    (ḥăṣôṯ-laylâ ʾāqûm ləhôḏôṯ lāḵ vs. a-man huwa qānitun ānāʾa l-layli sājidan wa-qāʾiman: rising in
-    the night to pray (ʾāqûm / qāʾim).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
-- tradition: islam
-  ref: Quran 39:9
-  note: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
-    (devout through the hours of the night, prostrating and standing)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟
-    رَحْمَةَ رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ إِنَّمَا يَتَذَكَّرُ
-    أُو۟لُوا۟ ٱلْأَلْبَٰبِ
-- tradition: judaism
-  ref: Ps 119:73
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb ('Your hands made me and
-    fashioned me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ
-- tradition: islam
-  ref: Quran 39:6
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ḥăṣôṯ-laylâ ʾāqûm ləhôḏôṯ lāḵ vs. a-man huwa qānitun ānāʾa l-layli sājidan wa-qāʾiman: rising
-    in the night to pray (ʾāqûm / qāʾim).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' sides forsake their beds as they call on their Lord
     in fear and hope (night vigil) (weight 6.0); God formed the kidneys and wove (knit) the speaker in
@@ -89,6 +53,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-119-vav-kaf
+  title: Psalm 119, stanzas vav to kaf
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: echo
+  label: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
+  note: 'ḥăṣôṯ-laylâ ʾāqûm ləhôḏôṯ lāḵ vs. a-man huwa qānitun ānāʾa l-layli sājidan wa-qāʾiman: rising
+    in the night to pray (ʾāqûm / qāʾim).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:62
+      lang: he
+      text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:9
+      lang: ar
+      text: أَمَّنْ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيْلِ سَاجِدًا وَقَآئِمًا يَحْذَرُ ٱلْءَاخِرَةَ وَيَرْجُوا۟
+        رَحْمَةَ رَبِّهِۦ قُلْ هَلْ يَسْتَوِى ٱلَّذِينَ يَعْلَمُونَ وَٱلَّذِينَ لَا يَعْلَمُونَ إِنَّمَا
+        يَتَذَكَّرُ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
+- kind: shared
+  label: God formed the kidneys and wove (knit) the speaker in his mother's womb
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:73
+      lang: he
+      text: יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ
+    note: '''Your hands made me and fashioned me'''
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-11-dietary-laws-vs-quran-5-contracts-food-laws
 title: Clean and unclean animals; carcass impurity ↔ Contracts, pilgrim sanctity and the forbidden foods
-summary: 'These two units share 1 motifs: the pig is unclean and forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - pork-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 11:7
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא
-    יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
-- tradition: judaism
-  ref: Lev 11:8
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם
-- tradition: islam
-  ref: Quran 5:3
-  note: The pig is unclean and forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-laḥmu l-khinzīri. Lev: wə-ʾet-ha-ḥăzîr ... ṭāmēʾ hûʾ lākhem. Q gives no reason; Lev
-    reasons from hoof and cud (mafrîs parsāh ... gērāh lōʾ-yiggār).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The pig is unclean and forbidden (weight 5.3). Pair score 5.3.'
   basis: reading
@@ -74,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The pig is unclean and forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: parallel
+  label: The pig is unclean and forbidden
+  note: 'Q: wa-laḥmu l-khinzīri. Lev: wə-ʾet-ha-ḥăzîr ... ṭāmēʾ hûʾ lākhem. Q gives no reason; Lev reasons
+    from hoof and cud (mafrîs parsāh ... gērāh lōʾ-yiggār).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:7
+      lang: he
+      text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה
+        לֹֽא יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

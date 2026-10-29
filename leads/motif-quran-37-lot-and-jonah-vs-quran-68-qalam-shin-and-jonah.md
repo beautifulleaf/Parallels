@@ -2,10 +2,7 @@
 id: motif-quran-37-lot-and-jonah-vs-quran-68-qalam-shin-and-jonah
 title: Lot's old woman; Jonah and the fish ↔ Do you have a book or oaths binding God?; the shin laid bare;
   the companion of the fish; the evil eye
-summary: 'These two units share 4 motifs: the man of the fish (dhū l-nūn) cries from the darknesses ''there
-  is no god but you; i was a wrongdoer'' and is saved, the prophet prays to god from inside the fish [divergence
-  between the texts], the prophet prays to god from inside the fish, at god''s command the fish vomits
-  the prophet onto dry land.'
+summary: 4 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -19,77 +16,7 @@ motifs:
 - prayer-from-belly-of-fish-as-divergence
 - prayer-from-belly-of-fish
 - fish-vomits-prophet-onto-land
-passages:
-- tradition: islam
-  ref: Quran 37:143
-  note: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
-    and is saved
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
-- tradition: islam
-  ref: Quran 68:48
-  note: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
-    and is saved
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: islam
-  ref: Quran 37:142
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
-- tradition: islam
-  ref: Quran 37:143
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
-- tradition: islam
-  ref: Quran 68:48
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (The cry from the
-    fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH wa-yyaʿănēnî, a psalm of thanksgiving.
-    Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti idh nādā wa-huwa makẓūm: the call made
-    ''choked with grief/anger'' is held up as what the prophet must not imitate. Jonah is unnamed, ''the
-    companion of the fish''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: islam
-  ref: Quran 37:143
-  note: The prophet prays to God from inside the fish (he was among those who glorify (al-musabbihin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
-- tradition: islam
-  ref: Quran 68:48
-  note: The prophet prays to God from inside the fish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: islam
-  ref: Quran 37:145
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ
-- tradition: islam
-  ref: Quran 68:49
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The man of the fish (Dhū l-Nūn) cries from the darknesses ''There
     is no god but you; I was a wrongdoer'' and is saved (weight 6.3); The prophet prays to God from inside
@@ -131,6 +58,89 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
+  and is saved
+kinds:
+- shared
+units:
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: shared
+  label: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
+    and is saved
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 37:143
+      lang: ar
+      text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:48
+      lang: ar
+      text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+- kind: shared
+  label: The prophet prays to God from inside the fish
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 37:142
+      lang: ar
+      text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
+    - ref: Quran 37:143
+      lang: ar
+      text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+    - ref: Quran 37:144
+      lang: ar
+      text: لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    note: 'In the fish. Jonah: wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ,
+      then a full psalm (qārāʾṯî mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa
+      mulīm, fa-law-lā annahu kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish
+      swallows him while blameworthy (mulīm). There is no three-day count, and the psalm is reduced to
+      his being one who glorifies. The counterfactual of staying in the belly until the Resurrection has
+      no Hebrew counterpart.'
+  - tradition: islam
+    passages:
+    - ref: Quran 68:48
+      lang: ar
+      text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+    note: 'The cry from the fish is a warning, not a model: Jonah 2:3 qārāʾtî mi-ṣṣārāh lî ʾel YHWH wa-yyaʿănēnî,
+      a psalm of thanksgiving. Q 68:48 fa-ṣbir li-ḥukmi rabbika wa-lā takun ka-ṣāḥibi l-ḥūti idh nādā
+      wa-huwa makẓūm: the call made ''choked with grief/anger'' is held up as what the prophet must not
+      imitate. Jonah is unnamed, ''the companion of the fish''.'
+- kind: shared
+  label: The prophet prays to God from inside the fish
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 37:143
+      lang: ar
+      text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+    note: he was among those who glorify (al-musabbihin)
+  - tradition: islam
+    passages:
+    - ref: Quran 68:48
+      lang: ar
+      text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+- kind: shared
+  label: At God's command the fish vomits the prophet onto dry land
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 37:145
+      lang: ar
+      text: فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:49
+      lang: ar
+      text: لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ
 ---
 
 ## Questions

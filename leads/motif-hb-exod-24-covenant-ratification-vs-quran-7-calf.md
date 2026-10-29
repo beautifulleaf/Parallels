@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-24-covenant-ratification-vs-quran-7-calf
 title: Covenant ratified in blood; the elders see God ↔ The lowing calf and the seventy
-summary: 'These two units share 2 motifs: seventy elders of israel accompany or assist the prophet [contrast
-  between the texts], seventy elders of israel accompany or assist the prophet.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,69 +14,9 @@ layers:
 motifs:
 - seventy-elders-as-contrast
 - seventy-elders
-passages:
-- tradition: judaism
-  ref: Exod 24:9
-  note: 'Seventy elders of Israel accompany or assist the prophet [contrast between the texts] (Seventy
-    men go up to meet God: wa-khtāra mūsā qawmahu sabʿīna rajulan li-mīqātinā fa-lammā akhadhathumu r-rajfatu
-    vs šibʿîm mizziqnê yiśrāʾēl wayyirʾû ʾēt ʾĕlōhê yiśrāʾēl ... lōʾ šālaḥ yādô wayyeḥĕzû ʾet-hāʾĕlōhîm
-    wayyōʾkᵉlû wayyištû. The outcome is reversed: in Exod they see God unharmed and eat; in Q the tremor
-    seizes them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Exod 24:10
-  note: 'Seventy elders of Israel accompany or assist the prophet [contrast between the texts] (Seventy
-    men go up to meet God: wa-khtāra mūsā qawmahu sabʿīna rajulan li-mīqātinā fa-lammā akhadhathumu r-rajfatu
-    vs šibʿîm mizziqnê yiśrāʾēl wayyirʾû ʾēt ʾĕlōhê yiśrāʾēl ... lōʾ šālaḥ yādô wayyeḥĕzû ʾet-hāʾĕlōhîm
-    wayyōʾkᵉlû wayyištû. The outcome is reversed: in Exod they see God unharmed and eat; in Q the tremor
-    seizes them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם
-    הַשָּׁמַ֖יִם לָטֹֽהַר
-- tradition: islam
-  ref: Quran 7:155
-  note: 'Seventy elders of Israel accompany or assist the prophet [contrast between the texts] (Seventy
-    men go up to meet God: wa-khtāra mūsā qawmahu sabʿīna rajulan li-mīqātinā fa-lammā akhadhathumu r-rajfatu
-    vs šibʿîm mizziqnê yiśrāʾēl wayyirʾû ʾēt ʾĕlōhê yiśrāʾēl ... lōʾ šālaḥ yādô wayyeḥĕzû ʾet-hāʾĕlōhîm
-    wayyōʾkᵉlû wayyištû. The outcome is reversed: in Exod they see God unharmed and eat; in Q the tremor
-    seizes them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
-- tradition: judaism
-  ref: Exod 24:1
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מֹשֶׁ֨ה אָמַ֜ר עֲלֵ֣ה אֶל יְהוָ֗ה אַתָּה֙ וְאַהֲרֹן֙ נָדָ֣ב וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֣י
-    יִשְׂרָאֵ֑ל וְהִשְׁתַּחֲוִיתֶ֖ם מֵרָחֹֽק
-- tradition: judaism
-  ref: Exod 24:9
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 7:155
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Seventy men go up to meet God: wa-khtāra mūsā qawmahu sabʿīna rajulan li-mīqātinā fa-lammā
-    akhadhathumu r-rajfatu vs šibʿîm mizziqnê yiśrāʾēl wayyirʾû ʾēt ʾĕlōhê yiśrāʾēl ... lōʾ šālaḥ yādô
-    wayyeḥĕzû ʾet-hāʾĕlōhîm wayyōʾkᵉlû wayyištû. The outcome is reversed: in Exod they see God unharmed
-    and eat; in Q the tremor seizes them.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seventy elders of Israel accompany or assist the prophet [contrast
     between the texts] (weight 6.7); Seventy elders of Israel accompany or assist the prophet (weight
@@ -110,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seventy elders of Israel accompany or assist the prophet
+kinds:
+- contrast
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: contrast
+  label: Seventy elders of Israel accompany or assist the prophet
+  note: 'Seventy men go up to meet God: wa-khtāra mūsā qawmahu sabʿīna rajulan li-mīqātinā fa-lammā akhadhathumu
+    r-rajfatu vs šibʿîm mizziqnê yiśrāʾēl wayyirʾû ʾēt ʾĕlōhê yiśrāʾēl ... lōʾ šālaḥ yādô wayyeḥĕzû ʾet-hāʾĕlōhîm
+    wayyōʾkᵉlû wayyištû. The outcome is reversed: in Exod they see God unharmed and eat; in Q the tremor
+    seizes them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:9
+      lang: he
+      text: וַיַּ֥עַל מֹשֶׁ֖ה וְאַהֲרֹ֑ן נָדָב֙ וַאֲבִיה֔וּא וְשִׁבְעִ֖ים מִזִּקְנֵ֥י יִשְׂרָאֵֽל
+    - ref: Exod 24:10
+      lang: he
+      text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר
+        וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר
+    - ref: Exod 24:11
+      lang: he
+      text: וְאֶל אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ וַֽיֶּחֱזוּ֙ אֶת הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ
+        וַיִּשְׁתּֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 ---
 
 ## Questions

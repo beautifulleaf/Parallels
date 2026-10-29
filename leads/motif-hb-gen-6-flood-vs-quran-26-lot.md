@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-26-lot
 title: The Flood (full read) ↔ Lot and his people
-summary: 'These two units share 2 motifs: who is saved with the hero from the destruction, and why [divergence
-  between the texts], hero''s family saved with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,73 +15,7 @@ layers:
 motifs:
 - who-is-saved-from-the-destruction-as-divergence
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 7:1
-  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Genesis
-    saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the
-    Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43),
-    and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
-    צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
-- tradition: judaism
-  ref: Gen 7:7
-  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Genesis
-    saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê vānāyw; the
-    Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son of 11:42-43),
-    and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 26:169
-  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Why
-    Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham''s sake, and
-    the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī
-    wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither
-    hesitates nor depends on Abraham.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 26:170
-  note: 'Who is saved with the hero from the destruction, and why [divergence between the texts] (Why
-    Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham''s sake, and
-    the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays rabbi najjinī
-    wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake. Lot neither
-    hesitates nor depends on Abraham.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
-- tradition: judaism
-  ref: Gen 6:18
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: judaism
-  ref: Gen 7:7
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 26:169
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 26:170
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Who is saved with the hero from the destruction, and why [divergence
     between the texts] (weight 5.8); Hero''s family saved with him (weight 4.5). Pair score 10.3.'
@@ -112,6 +45,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is saved with the hero from the destruction, and why
+kinds:
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-26-lot
+  title: Lot and his people
+  tradition: islam
+matches:
+- kind: shared
+  label: Who is saved with the hero from the destruction, and why
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    note: 'Genesis saves the whole household, bōʾ ʾattâ wə-khol bêtəkā ... Nōaḥ û-vānāyw wə-ʾištô û-nəšê
+      vānāyw; the Quran excepts some: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu minhum (the drowned son
+      of 11:42-43), and forbids Noah to plead for the wrongdoers (wa-lā tukhāṭibnī fī lladhīna ẓalamū).'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:169
+      lang: ar
+      text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
+    - ref: Quran 26:170
+      lang: ar
+      text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+    note: 'Why Lot is saved: Gen 19:29 wa-yyizkōr ʾĕlōhîm ʾet ʾAvrāhām wa-yšallaḥ ʾet Lôṭ, for Abraham''s
+      sake, and the angels drag the hesitating family out (wa-yyitmahmāh, 19:16); Q 26:169-170 Lot prays
+      rabbi najjinī wa-ahlī mimmā yaʿmalūna and God saves him and his family in answer, for his own sake.
+      Lot neither hesitates nor depends on Abraham.'
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:18
+      lang: he
+      text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥
+        וּנְשֵֽׁי בָנֶ֖יךָ אִתָּֽךְ
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    - ref: Gen 7:13
+      lang: he
+      text: בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם וְחָ֥ם וָיֶ֖פֶת בְּנֵי נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ
+        וּשְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛יו אִתָּ֖ם אֶל הַתֵּבָֽה
+    note: eight persons
+  - tradition: islam
+    passages:
+    - ref: Quran 26:169
+      lang: ar
+      text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
+    - ref: Quran 26:170
+      lang: ar
+      text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-47-temple-river-vs-quran-35-originator
 title: The river from the temple and the healing of the sea ↔ The Originator, winged angels, and the two
   seas
-summary: 'These two units share 1 motifs: what happens where fresh and salt water meet [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - meeting-of-fresh-and-salt-water-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 47:8
-  note: 'What happens where fresh and salt water meet [divergence between the texts] (Fresh and salt water.
-    Ezek: the temple river flows into the salt sea wə-nirpûʾ ha-mmayim, the sea is healed and full of
-    fish, only its marshes stay lə-melaḥ nittānû. Q: wa-mā yastawī l-baḥrāni hādhā ʿadhbun furātun ...
-    wa-hādhā milḥun ujāj, the two waters stay different, yet both give fresh meat (laḥman ṭariyyan) and
-    ornaments. Ezekiel''s eschatological sweetening is answered by a permanent distinction.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֗י הַמַּ֤יִם הָאֵ֨לֶּה֙ יוֹצְאִ֗ים אֶל הַגְּלִילָה֙ הַקַּדְמוֹנָ֔ה וְיָרְד֖וּ עַל
-    הָֽעֲרָבָ֑ה וּבָ֣אוּ הַיָּ֔מָּה אֶל הַיָּ֥מָּה הַמּֽוּצָאִ֖ים ונרפאו וְנִרְפּ֥וּ הַמָּֽיִם
-- tradition: judaism
-  ref: Ezek 47:9
-  note: 'What happens where fresh and salt water meet [divergence between the texts] (Fresh and salt water.
-    Ezek: the temple river flows into the salt sea wə-nirpûʾ ha-mmayim, the sea is healed and full of
-    fish, only its marshes stay lə-melaḥ nittānû. Q: wa-mā yastawī l-baḥrāni hādhā ʿadhbun furātun ...
-    wa-hādhā milḥun ujāj, the two waters stay different, yet both give fresh meat (laḥman ṭariyyan) and
-    ornaments. Ezekiel''s eschatological sweetening is answered by a permanent distinction.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה כָל נֶ֣פֶשׁ חַיָּ֣ה אֲֽשֶׁר יִשְׁרֹ֡ץ אֶ֣ל כָּל אֲשֶׁר֩ יָב֨וֹא שָׁ֤ם נַחֲלַ֨יִם֙ יִֽחְיֶ֔ה
-    וְהָיָ֥ה הַדָּגָ֖ה רַבָּ֣ה מְאֹ֑ד כִּי֩ בָ֨אוּ שָׁ֜מָּה הַמַּ֣יִם הָאֵ֗לֶּה וְיֵרָֽפְאוּ֙ וָחָ֔י כֹּ֛ל
-    אֲשֶׁר יָ֥בוֹא שָׁ֖מָּה הַנָּֽחַל
-- tradition: islam
-  ref: Quran 35:12
-  note: 'What happens where fresh and salt water meet [divergence between the texts] (Fresh and salt water.
-    Ezek: the temple river flows into the salt sea wə-nirpûʾ ha-mmayim, the sea is healed and full of
-    fish, only its marshes stay lə-melaḥ nittānû. Q: wa-mā yastawī l-baḥrāni hādhā ʿadhbun furātun ...
-    wa-hādhā milḥun ujāj, the two waters stay different, yet both give fresh meat (laḥman ṭariyyan) and
-    ornaments. Ezekiel''s eschatological sweetening is answered by a permanent distinction.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ
-    وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ
-    فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Fresh and salt water. Ezek: the temple river flows into the salt sea wə-nirpûʾ ha-mmayim,
-    the sea is healed and full of fish, only its marshes stay lə-melaḥ nittānû. Q: wa-mā yastawī l-baḥrāni
-    hādhā ʿadhbun furātun ... wa-hādhā milḥun ujāj, the two waters stay different, yet both give fresh
-    meat (laḥman ṭariyyan) and ornaments. Ezekiel''s eschatological sweetening is answered by a permanent
-    distinction.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What happens where fresh and salt water meet [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +48,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What happens where fresh and salt water meet
+kinds:
+- divergence
+units:
+- id: hb-ezek-47-temple-river
+  title: The river from the temple and the healing of the sea
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: divergence
+  label: What happens where fresh and salt water meet
+  note: 'Fresh and salt water. Ezek: the temple river flows into the salt sea wə-nirpûʾ ha-mmayim, the
+    sea is healed and full of fish, only its marshes stay lə-melaḥ nittānû. Q: wa-mā yastawī l-baḥrāni
+    hādhā ʿadhbun furātun ... wa-hādhā milḥun ujāj, the two waters stay different, yet both give fresh
+    meat (laḥman ṭariyyan) and ornaments. Ezekiel''s eschatological sweetening is answered by a permanent
+    distinction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 47:8
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֗י הַמַּ֤יִם הָאֵ֨לֶּה֙ יוֹצְאִ֗ים אֶל הַגְּלִילָה֙ הַקַּדְמוֹנָ֔ה וְיָרְד֖וּ
+        עַל הָֽעֲרָבָ֑ה וּבָ֣אוּ הַיָּ֔מָּה אֶל הַיָּ֥מָּה הַמּֽוּצָאִ֖ים ונרפאו וְנִרְפּ֥וּ הַמָּֽיִם
+    - ref: Ezek 47:9
+      lang: he
+      text: וְהָיָ֣ה כָל נֶ֣פֶשׁ חַיָּ֣ה אֲֽשֶׁר יִשְׁרֹ֡ץ אֶ֣ל כָּל אֲשֶׁר֩ יָב֨וֹא שָׁ֤ם נַחֲלַ֨יִם֙
+        יִֽחְיֶ֔ה וְהָיָ֥ה הַדָּגָ֖ה רַבָּ֣ה מְאֹ֑ד כִּי֩ בָ֨אוּ שָׁ֜מָּה הַמַּ֣יִם הָאֵ֗לֶּה וְיֵרָֽפְאוּ֙
+        וָחָ֔י כֹּ֛ל אֲשֶׁר יָ֥בוֹא שָׁ֖מָּה הַנָּֽחַל
+    - ref: Ezek 47:11
+      lang: he
+      text: בצאתו בִּצֹּאתָ֧יו וּגְבָאָ֛יו וְלֹ֥א יֵרָפְא֖וּ לְמֶ֥לַח נִתָּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 35:12
+      lang: ar
+      text: وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ
+        وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ
+        فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

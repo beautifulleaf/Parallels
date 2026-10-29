@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-6-adultery-fire-vs-quran-31-luqman
 title: Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom ↔ Luqman's advice to his son
-summary: 'These two units share 2 motifs: how far a child must obey father and mother [divergence between
-  the texts], ''hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,83 +14,9 @@ layers:
 motifs:
 - limits-of-parental-authority-as-divergence
 - fathers-instruction-mothers-torah
-passages:
-- tradition: judaism
-  ref: Prov 6:20
-  note: 'How far a child must obey father and mother [divergence between the texts] (Parental authority.
-    Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without condition. Q: wa-waṣṣaynā
-    l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā
-    maʿrūfan. The duty to parents is commanded by God, not by the father, and it stops where the parents
-    urge shirk. The mother''s part is grounded in pregnancy and two years of nursing (waḥnan ʿalā waḥnin
-    wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
-- tradition: judaism
-  ref: Prov 6:22
-  note: 'How far a child must obey father and mother [divergence between the texts] (Parental authority.
-    Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without condition. Q: wa-waṣṣaynā
-    l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā
-    maʿrūfan. The duty to parents is commanded by God, not by the father, and it stops where the parents
-    urge shirk. The mother''s part is grounded in pregnancy and two years of nursing (waḥnan ʿalā waḥnin
-    wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּהִתְהַלֶּכְךָ֨ תַּנְחֶ֬ה אֹתָ֗ךְ בְּֽ֭שָׁכְבְּךָ תִּשְׁמֹ֣ר עָלֶ֑יךָ וַ֝הֲקִיצ֗וֹתָ הִ֣יא תְשִׂיחֶֽךָ
-- tradition: islam
-  ref: Quran 31:14
-  note: 'How far a child must obey father and mother [divergence between the texts] (Parental authority.
-    Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without condition. Q: wa-waṣṣaynā
-    l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā
-    maʿrūfan. The duty to parents is commanded by God, not by the father, and it stops where the parents
-    urge shirk. The mother''s part is grounded in pregnancy and two years of nursing (waḥnan ʿalā waḥnin
-    wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَٰلُهُۥ
-    فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
-- tradition: islam
-  ref: Quran 31:15
-  note: 'How far a child must obey father and mother [divergence between the texts] (Parental authority.
-    Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without condition. Q: wa-waṣṣaynā
-    l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā
-    maʿrūfan. The duty to parents is commanded by God, not by the father, and it stops where the parents
-    urge shirk. The mother''s part is grounded in pregnancy and two years of nursing (waḥnan ʿalā waḥnin
-    wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا
-    فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
-    بِمَا كُنتُمْ تَعْمَلُونَ
-- tradition: judaism
-  ref: Prov 6:20
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
-- tradition: islam
-  ref: Quran 31:13
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)''
-    (''O my little son'' (ya bunayya) instruction form)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ إِنَّ ٱلشِّرْكَ
-    لَظُلْمٌ عَظِيمٌ
-- tradition: islam
-  ref: Quran 31:16
-  note: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)''
-    (''O my little son'' (ya bunayya) instruction form)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى ٱلسَّمَٰوَٰتِ
-    أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Parental authority. Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding
-    without condition. Q: wa-waṣṣaynā l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ...
-    fa-lā tuṭiʿhumā wa-ṣāḥibhumā fī d-dunyā maʿrūfan. The duty to parents is commanded by God, not by
-    the father, and it stops where the parents urge shirk. The mother''s part is grounded in pregnancy
-    and two years of nursing (waḥnan ʿalā waḥnin wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How far a child must obey father and mother [divergence between
     the texts] (weight 6.7); ''Hear, my son, your father''s instruction and do not forsake your mother''s
@@ -126,6 +51,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How far a child must obey father and mother
+kinds:
+- divergence
+- shared
+units:
+- id: hb-prov-6-adultery-fire
+  title: Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: divergence
+  label: How far a child must obey father and mother
+  note: 'Parental authority. Prov: nəṣōr bənî miṣwaṯ ʾāḇîḵā wə-ʾal-tiṭṭōš tôraṯ ʾimmeḵā, binding without
+    condition. Q: wa-waṣṣaynā l-insāna bi-wālidayhi ... wa-in jāhadāka ʿalā an tushrika bī ... fa-lā tuṭiʿhumā
+    wa-ṣāḥibhumā fī d-dunyā maʿrūfan. The duty to parents is commanded by God, not by the father, and
+    it stops where the parents urge shirk. The mother''s part is grounded in pregnancy and two years of
+    nursing (waḥnan ʿalā waḥnin wa-fiṣāluhu fī ʿāmayn), not in her tôrâ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 6:20
+      lang: he
+      text: נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
+    - ref: Prov 6:22
+      lang: he
+      text: בְּהִתְהַלֶּכְךָ֨ תַּנְחֶ֬ה אֹתָ֗ךְ בְּֽ֭שָׁכְבְּךָ תִּשְׁמֹ֣ר עָלֶ֑יךָ וַ֝הֲקִיצ֗וֹתָ הִ֣יא
+        תְשִׂיחֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 31:14
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حَمَلَتْهُ أُمُّهُۥ وَهْنًا عَلَىٰ وَهْنٍ وَفِصَٰلُهُۥ
+        فِى عَامَيْنِ أَنِ ٱشْكُرْ لِى وَلِوَٰلِدَيْكَ إِلَىَّ ٱلْمَصِيرُ
+    - ref: Quran 31:15
+      lang: ar
+      text: وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا
+        فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
+        بِمَا كُنتُمْ تَعْمَلُونَ
+- kind: shared
+  label: '''Hear, my son, your father''s instruction and do not forsake your mother''s teaching (torah)'''
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 6:20
+      lang: he
+      text: נְצֹ֣ר בְּ֭נִי מִצְוַ֣ת אָבִ֑יךָ וְאַל תִּ֝טֹּ֗שׁ תּוֹרַ֥ת אִמֶּֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 31:13
+      lang: ar
+      text: وَإِذْ قَالَ لُقْمَٰنُ لِٱبْنِهِۦ وَهُوَ يَعِظُهُۥ يَٰبُنَىَّ لَا تُشْرِكْ بِٱللَّهِ إِنَّ
+        ٱلشِّرْكَ لَظُلْمٌ عَظِيمٌ
+    - ref: Quran 31:16
+      lang: ar
+      text: يَٰبُنَىَّ إِنَّهَآ إِن تَكُ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ فَتَكُن فِى صَخْرَةٍ أَوْ فِى
+        ٱلسَّمَٰوَٰتِ أَوْ فِى ٱلْأَرْضِ يَأْتِ بِهَا ٱللَّهُ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٌ
+    - ref: Quran 31:17
+      lang: ar
+      text: يَٰبُنَىَّ أَقِمِ ٱلصَّلَوٰةَ وَأْمُرْ بِٱلْمَعْرُوفِ وَٱنْهَ عَنِ ٱلْمُنكَرِ وَٱصْبِرْ عَلَىٰ
+        مَآ أَصَابَكَ إِنَّ ذَٰلِكَ مِنْ عَزْمِ ٱلْأُمُورِ
+    note: '''O my little son'' (ya bunayya) instruction form'
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-51-dhariyat-oaths-and-the-righteous
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ Al-Dhariyat: the oath by the winds, the
   conjecturers, the night-wakeful righteous and the beggar''s due'
-summary: 'These two units share 1 motifs: in the earth are signs for the certain, and in yourselves; will
-  you not see?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - signs-in-earth-and-in-yourselves
-passages:
-- tradition: judaism
-  ref: Ps 139:14
-  note: 'In the earth are signs for the certain, and in yourselves; will you not see? (The self as a wonder
-    of God''s making: ʾôḏəḵā ʿal kî nôrāʾôṯ nip̄lêṯî nip̄lāʾîm maʿăśêḵā wə-nap̄šî yōḏaʿaṯ məʾōḏ vs. wa-fī
-    anfusikum a-fa-lā tubṣirūn. The psalmist knows it and praises; the Quran asks the hearers why they
-    do not see it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֽוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד
-- tradition: islam
-  ref: Quran 51:20
-  note: In the earth are signs for the certain, and in yourselves; will you not see?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ
-- tradition: islam
-  ref: Quran 51:21
-  note: In the earth are signs for the certain, and in yourselves; will you not see?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِىٓ أَنفُسِكُمْ أَفَلَا تُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The self as a wonder of God''s making: ʾôḏəḵā ʿal kî nôrāʾôṯ nip̄lêṯî nip̄lāʾîm maʿăśêḵā wə-nap̄šî
-    yōḏaʿaṯ məʾōḏ vs. wa-fī anfusikum a-fa-lā tubṣirūn. The psalmist knows it and praises; the Quran asks
-    the hearers why they do not see it.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the earth are signs for the certain, and in yourselves; will
     you not see? (weight 6.7). Pair score 6.7.'
@@ -78,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In the earth are signs for the certain, and in yourselves; will you not see?
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-51-dhariyat-oaths-and-the-righteous
+  title: 'Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and the beggar''s
+    due'
+  tradition: islam
+matches:
+- kind: echo
+  label: In the earth are signs for the certain, and in yourselves; will you not see?
+  note: 'The self as a wonder of God''s making: ʾôḏəḵā ʿal kî nôrāʾôṯ nip̄lêṯî nip̄lāʾîm maʿăśêḵā wə-nap̄šî
+    yōḏaʿaṯ məʾōḏ vs. wa-fī anfusikum a-fa-lā tubṣirūn. The psalmist knows it and praises; the Quran asks
+    the hearers why they do not see it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:14
+      lang: he
+      text: אֽוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת
+        מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 51:20
+      lang: ar
+      text: وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ
+    - ref: Quran 51:21
+      lang: ar
+      text: وَفِىٓ أَنفُسِكُمْ أَفَلَا تُبْصِرُونَ
 ---
 
 ## Questions

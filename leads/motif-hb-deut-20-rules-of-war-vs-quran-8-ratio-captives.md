@@ -2,7 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-8-ratio-captives
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The ratio of the steadfast, captives and
   ransom'
-summary: 'These two units share 1 motifs: livestock and spoil taken as booty after the ban.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,25 +15,9 @@ layers:
 - motif
 motifs:
 - livestock-and-spoil-kept
-passages:
-- tradition: judaism
-  ref: Deut 20:14
-  note: 'Livestock and spoil taken as booty after the ban (Booty given by God to be eaten: fa-kulū mimmā
-    ghanimtum ḥalālan ṭayyiban vs wᵉʾākaltā ʾet-šᵉlal ʾōyᵉbêkā ʾăšer nātan YHWH ʾĕlōhêkā lāk.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֣ק הַ֠נָּשִׁים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כָּל שְׁלָלָ֖הּ תָּבֹ֣ז
-    לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
-- tradition: islam
-  ref: Quran 8:69
-  note: Livestock and spoil taken as booty after the ban (eat what you took as lawful and good)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Booty given by God to be eaten: fa-kulū mimmā ghanimtum ḥalālan ṭayyiban vs wᵉʾākaltā ʾet-šᵉlal
-    ʾōyᵉbêkā ʾăšer nātan YHWH ʾĕlōhêkā lāk.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Livestock and spoil taken as booty after the ban (weight 6.0). Pair
     score 6.0.'
@@ -64,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Livestock and spoil taken as booty after the ban
+kinds:
+- parallel
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-8-ratio-captives
+  title: The ratio of the steadfast, captives and ransom
+  tradition: islam
+matches:
+- kind: parallel
+  label: Livestock and spoil taken as booty after the ban
+  note: 'Booty given by God to be eaten: fa-kulū mimmā ghanimtum ḥalālan ṭayyiban vs wᵉʾākaltā ʾet-šᵉlal
+    ʾōyᵉbêkā ʾăšer nātan YHWH ʾĕlōhêkā lāk.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:14
+      lang: he
+      text: רַ֣ק הַ֠נָּשִׁים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כָּל שְׁלָלָ֖הּ תָּבֹ֣ז
+        לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:69
+      lang: ar
+      text: فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

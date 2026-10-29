@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-11-hud
 title: Solomon's prayer of dedication ↔ Hud and Ad
-summary: 'These two units share 1 motifs: heaven is shut and no rain falls because of the people''s sin;
-  repentance brings rain.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - drought-as-punishment-for-sin
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:35-36
-  note: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:35) בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל
-    הַמָּק֤וֹם הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם (8:36) וְאַתָּ֣ה
-    תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְסָ֨לַחְתָּ֜ לְחַטַּ֤את עֲבָדֶ֨יךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל כִּ֥י תוֹרֵ֛ם
-    אֶת הַדֶּ֥רֶךְ הַטּוֹבָ֖ה אֲשֶׁ֣ר יֵֽלְכוּ בָ֑הּ וְנָתַתָּ֤ה מָטָר֙ עַל אַרְצְךָ֔ אֲשֶׁר נָתַ֥תָּה
-    לְעַמְּךָ֖ לְנַחֲלָֽה
-- tradition: judaism
-  ref: 1Kgs 8:35
-  note: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל הַמָּק֤וֹם
-    הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם
-- tradition: islam
-  ref: Quran 11:52
-  note: 'Heaven is shut and no rain falls because of the people''s sin; repentance brings rain (positive
-    form: repentance brings rain and strength)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
-    وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Asking forgiveness and turning back brings rain: istaghfirū rabbakum thumma tūbū ilayhi
-    yursili s-samāʾa ʿalaykum midrāran vs bᵉhēʿāṣēr šāmayim wᵉlōʾ-yihyeh māṭār ... ûmēḥaṭṭāʾtām yᵉšûbûn
-    ... wᵉsālaḥtā ... wᵉnātattāh māṭār (tūbū = yᵉšûbûn). Q says it to the non-Israelite ʿĀd; Kings to
-    Israel praying at the temple.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven is shut and no rain falls because of the people''s sin; repentance
     brings rain (weight 6.0). Pair score 6.0.'
@@ -76,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
+kinds:
+- parallel
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-11-hud
+  title: Hud and Ad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
+  note: 'Asking forgiveness and turning back brings rain: istaghfirū rabbakum thumma tūbū ilayhi yursili
+    s-samāʾa ʿalaykum midrāran vs bᵉhēʿāṣēr šāmayim wᵉlōʾ-yihyeh māṭār ... ûmēḥaṭṭāʾtām yᵉšûbûn ... wᵉsālaḥtā
+    ... wᵉnātattāh māṭār (tūbū = yᵉšûbûn). Q says it to the non-Israelite ʿĀd; Kings to Israel praying
+    at the temple.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:35
+      lang: he
+      text: בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל הַמָּק֤וֹם
+        הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם
+    - ref: 1Kgs 8:36
+      lang: he
+      text: וְאַתָּ֣ה תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְסָ֨לַחְתָּ֜ לְחַטַּ֤את עֲבָדֶ֨יךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל
+        כִּ֥י תוֹרֵ֛ם אֶת הַדֶּ֥רֶךְ הַטּוֹבָ֖ה אֲשֶׁ֣ר יֵֽלְכוּ בָ֑הּ וְנָתַתָּ֤ה מָטָר֙ עַל אַרְצְךָ֔
+        אֲשֶׁר נָתַ֥תָּה לְעַמְּךָ֖ לְנַחֲלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:52
+      lang: ar
+      text: وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم
+        مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 ---
 
 ## Questions

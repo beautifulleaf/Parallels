@@ -2,9 +2,7 @@
 id: motif-hb-prov-23-amenemope-sayings-vs-quran-4-creation-kinship-orphans
 title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field ↔
   One soul, the wombs, orphans' property and the bride-gift
-summary: 'These two units share 2 motifs: do not enter the fields of the fatherless, for their redeemer
-  (go''el) is strong and will plead their cause, guardians must keep orphans'' property intact and hand
-  it over when they come of age.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,88 +16,9 @@ layers:
 motifs:
 - orphans-field-strong-redeemer
 - orphan-property-guardianship
-passages:
-- tradition: judaism
-  ref: Prov 23:10
-  note: Do not enter the fields of the fatherless, for their redeemer (go'el) is strong and will plead
-    their cause
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
-- tradition: judaism
-  ref: Prov 23:11
-  note: Do not enter the fields of the fatherless, for their redeemer (go'el) is strong and will plead
-    their cause
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
-- tradition: islam
-  ref: Quran 4:2
-  note: 'Do not enter the fields of the fatherless, for their redeemer (go''el) is strong and will plead
-    their cause (Prov 23:10-11 û-bi-śdê yĕtômîm ʾal tābōʾ kî gōʾălām ḥāzāq hûʾ yārîb ʾet rîbām ʾittāk:
-    do not encroach on orphans'' fields, their strong redeemer (God) will plead against you; Q 4:2, 10
-    wa-lā taʾkulū amwālahum ilā amwālikum ... inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna
-    fī buṭūnihim nāran: do not devour orphans'' property; those who do eat fire. Orphans'' property protected
-    by divine sanction.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟
-    أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
-- tradition: islam
-  ref: Quran 4:10
-  note: 'Do not enter the fields of the fatherless, for their redeemer (go''el) is strong and will plead
-    their cause (Prov 23:10-11 û-bi-śdê yĕtômîm ʾal tābōʾ kî gōʾălām ḥāzāq hûʾ yārîb ʾet rîbām ʾittāk:
-    do not encroach on orphans'' fields, their strong redeemer (God) will plead against you; Q 4:2, 10
-    wa-lā taʾkulū amwālahum ilā amwālikum ... inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna
-    fī buṭūnihim nāran: do not devour orphans'' property; those who do eat fire. Orphans'' property protected
-    by divine sanction.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ
-    نَارًا وَسَيَصْلَوْنَ سَعِيرًا
-- tradition: judaism
-  ref: Prov 23:10
-  note: 'Guardians must keep orphans'' property intact and hand it over when they come of age (ʾal-tassēg
-    gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi illā bi-llatī hiya
-    aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the orphans'' gōʾēl;
-    Q sets a term (ḥattā yablugha ashuddah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
-- tradition: judaism
-  ref: Prov 23:11
-  note: 'Guardians must keep orphans'' property intact and hand it over when they come of age (ʾal-tassēg
-    gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi illā bi-llatī hiya
-    aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the orphans'' gōʾēl;
-    Q sets a term (ḥattā yablugha ashuddah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
-- tradition: islam
-  ref: Quran 4:2
-  note: Guardians must keep orphans' property intact and hand it over when they come of age (test them
-    until they reach marriage age; if mature, hand over before witnesses; the poor guardian may eat 'reasonably')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟
-    أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
-- tradition: islam
-  ref: Quran 4:6
-  note: Guardians must keep orphans' property intact and hand it over when they come of age (test them
-    until they reach marriage age; if mature, hand over before witnesses; the poor guardian may eat 'reasonably')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا
-    فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ وَمَن
-    كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا دَفَعْتُمْ
-    إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 23:10-11 û-bi-śdê yĕtômîm ʾal tābōʾ kî gōʾălām ḥāzāq hûʾ yārîb ʾet rîbām ʾittāk: do
-    not encroach on orphans'' fields, their strong redeemer (God) will plead against you; Q 4:2, 10 wa-lā
-    taʾkulū amwālahum ilā amwālikum ... inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna
-    fī buṭūnihim nāran: do not devour orphans'' property; those who do eat fire. Orphans'' property protected
-    by divine sanction.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not enter the fields of the fatherless, for their redeemer (go''el)
     is strong and will plead their cause (weight 6.7); Guardians must keep orphans'' property intact and
@@ -135,6 +54,74 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not enter the fields of the fatherless, for their redeemer (go'el) is strong and will plead
+  their cause
+kinds:
+- parallel
+- shared
+units:
+- id: hb-prov-23-amenemope-sayings
+  title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not enter the fields of the fatherless, for their redeemer (go'el) is strong and will plead
+    their cause
+  note: 'Prov 23:10-11 û-bi-śdê yĕtômîm ʾal tābōʾ kî gōʾălām ḥāzāq hûʾ yārîb ʾet rîbām ʾittāk: do not
+    encroach on orphans'' fields, their strong redeemer (God) will plead against you; Q 4:2, 10 wa-lā
+    taʾkulū amwālahum ilā amwālikum ... inna lladhīna yaʾkulūna amwāla l-yatāmā ẓulman innamā yaʾkulūna
+    fī buṭūnihim nāran: do not devour orphans'' property; those who do eat fire. Orphans'' property protected
+    by divine sanction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:10
+      lang: he
+      text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
+    - ref: Prov 23:11
+      lang: he
+      text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:2
+      lang: ar
+      text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا
+        تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
+    - ref: Quran 4:10
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يَأْكُلُونَ أَمْوَٰلَ ٱلْيَتَٰمَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِى بُطُونِهِمْ
+        نَارًا وَسَيَصْلَوْنَ سَعِيرًا
+- kind: shared
+  label: Guardians must keep orphans' property intact and hand it over when they come of age
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:10
+      lang: he
+      text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
+    - ref: Prov 23:11
+      lang: he
+      text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
+    note: 'ʾal-tassēg gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi
+      illā bi-llatī hiya aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as
+      the orphans'' gōʾēl; Q sets a term (ḥattā yablugha ashuddah).'
+  - tradition: islam
+    passages:
+    - ref: Quran 4:2
+      lang: ar
+      text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا
+        تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
+    - ref: Quran 4:6
+      lang: ar
+      text: وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ
+        رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟
+        وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا
+        دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
+    note: test them until they reach marriage age; if mature, hand over before witnesses; the poor guardian
+      may eat 'reasonably'
 ---
 
 ## Questions

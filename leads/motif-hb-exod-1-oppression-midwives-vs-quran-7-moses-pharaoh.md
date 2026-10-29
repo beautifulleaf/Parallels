@@ -2,9 +2,7 @@
 id: motif-hb-exod-1-oppression-midwives-vs-quran-7-moses-pharaoh
 title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons ↔ Moses before Pharaoh,
   the magicians and the plagues
-summary: 'These two units share 3 motifs: rulers fear that a people will leave the land, or drive them
-  out of it [divergence between the texts], ruler orders the killing of male infants [divergence between
-  the texts], ruler orders the killing of male infants.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,105 +16,9 @@ motifs:
 - fear-of-being-driven-from-the-land-as-divergence
 - king-kills-male-infants-as-divergence
 - king-kills-male-infants
-passages:
-- tradition: judaism
-  ref: Exod 1:10
-  note: 'Rulers fear that a people will leave the land, or drive them out of it [divergence between the
-    texts] (Who is feared to leave the land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ,
-    Pharaoh fears Israel will go up out of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū
-    minhā ahlahā. The courtiers fear Moses will expel them, the Egyptians, from their own land.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם
-    הוּא֙ עַל שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם בָּ֖נוּ וְעָלָ֥ה מִן הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 7:110
-  note: 'Rulers fear that a people will leave the land, or drive them out of it [divergence between the
-    texts] (Who is feared to leave the land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ,
-    Pharaoh fears Israel will go up out of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū
-    minhā ahlahā. The courtiers fear Moses will expel them, the Egyptians, from their own land.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ فَمَاذَا تَأْمُرُونَ
-- tradition: islam
-  ref: Quran 7:123
-  note: 'Rulers fear that a people will leave the land, or drive them out of it [divergence between the
-    texts] (Who is feared to leave the land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ,
-    Pharaoh fears Israel will go up out of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū
-    minhā ahlahā. The courtiers fear Moses will expel them, the Egyptians, from their own land.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ
-    فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا فَسَوْفَ تَعْلَمُونَ
-- tradition: judaism
-  ref: Exod 1:16
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (Exod 1:22 kol ha-bēn
-    ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna abnāʾakum wa-yastaḥyūna
-    nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both: tĕḥayyûn / yastaḥyūna),
-    but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes the deed of ''the
-    house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun min rabbikum
-    ʿaẓīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן
-    אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
-- tradition: judaism
-  ref: Exod 1:22
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (Exod 1:22 kol ha-bēn
-    ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna abnāʾakum wa-yastaḥyūna
-    nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both: tĕḥayyûn / yastaḥyūna),
-    but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes the deed of ''the
-    house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun min rabbikum
-    ʿaẓīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
-    וְכָל הַבַּ֖ת תְּחַיּֽוּן
-- tradition: islam
-  ref: Quran 7:127
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (The same decree, with
-    cognate ḥ-y-y for sparing the girls. Exod: ʾim-bēn hûʾ wa-hămitten ʾōtô wə-ʾim-bat hîʾ wā-ḥāyāh; kol-hab-bēn
-    hay-yillôd hay-yəʾōrāh tašlîkhuhû wə-khol-hab-bat təḥayyûn. Q: sa-nuqattilu abnāʾahum wa-nastaḥyī
-    nisāʾahum. The time differs: Exod puts the decree before Moses'' birth, Q after his mission, as reprisal
-    for the magicians'' conversion.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ
-    وَيَذَرَكَ وَءَالِهَتَكَ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ
-    قَٰهِرُونَ
-- tradition: judaism
-  ref: Exod 1:16
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן
-    אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
-- tradition: judaism
-  ref: Exod 1:22
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
-    וְכָל הַבַּ֖ת תְּחַיּֽוּן
-- tradition: islam
-  ref: Quran 7:127
-  note: 'Ruler orders the killing of male infants (renewed after Moses'' mission: kill sons, spare women)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ
-    وَيَذَرَكَ وَءَالِهَتَكَ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا فَوْقَهُمْ
-    قَٰهِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. The same decree, with cognate ḥ-y-y for sparing the girls. Exod: ʾim-bēn hûʾ wa-hămitten
-    ʾōtô wə-ʾim-bat hîʾ wā-ḥāyāh; kol-hab-bēn hay-yillôd hay-yəʾōrāh tašlîkhuhû wə-khol-hab-bat təḥayyûn.
-    Q: sa-nuqattilu abnāʾahum wa-nastaḥyī nisāʾahum. The time differs: Exod puts the decree before Moses''
-    birth, Q after his mission, as reprisal for the magicians'' conversion. Who is feared to leave the
-    land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ, Pharaoh fears Israel will go up out
-    of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū minhā ahlahā. The courtiers fear Moses
-    will expel them, the Egyptians, from their own land.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rulers fear that a people will leave the land, or drive them out
     of it [divergence between the texts] (weight 6.7); Ruler orders the killing of male infants [divergence
@@ -152,6 +54,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ruler orders the killing of male infants
+kinds:
+- divergence
+units:
+- id: hb-exod-1-oppression-midwives
+  title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: divergence
+  label: Ruler orders the killing of male infants
+  note: 'The same decree, with cognate ḥ-y-y for sparing the girls. Exod: ʾim-bēn hûʾ wa-hămitten ʾōtô
+    wə-ʾim-bat hîʾ wā-ḥāyāh; kol-hab-bēn hay-yillôd hay-yəʾōrāh tašlîkhuhû wə-khol-hab-bat təḥayyûn. Q:
+    sa-nuqattilu abnāʾahum wa-nastaḥyī nisāʾahum. The time differs: Exod puts the decree before Moses''
+    birth, Q after his mission, as reprisal for the magicians'' conversion.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 1:16
+      lang: he
+      text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙
+        וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
+    - ref: Exod 1:22
+      lang: he
+      text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
+        וְכָל הַבַּ֖ת תְּחַיּֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 7:127
+      lang: ar
+      text: وَقَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ أَتَذَرُ مُوسَىٰ وَقَوْمَهُۥ لِيُفْسِدُوا۟ فِى ٱلْأَرْضِ
+        وَيَذَرَكَ وَءَالِهَتَكَ قَالَ سَنُقَتِّلُ أَبْنَآءَهُمْ وَنَسْتَحْىِۦ نِسَآءَهُمْ وَإِنَّا
+        فَوْقَهُمْ قَٰهِرُونَ
+- kind: divergence
+  label: Rulers fear that a people will leave the land, or drive them out of it
+  note: 'Who is feared to leave the land. Exod: pen-yirbeh ... wə-nilḥam-bānû wə-ʿālāh min-hā-ʾāreṣ, Pharaoh
+    fears Israel will go up out of the land. Q: yurīdu an yukhrijakum min arḍikum; li-tukhrijū minhā ahlahā.
+    The courtiers fear Moses will expel them, the Egyptians, from their own land.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 1:10
+      lang: he
+      text: הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף
+        גַּם הוּא֙ עַל שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם בָּ֖נוּ וְעָלָ֥ה מִן הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:110
+      lang: ar
+      text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُمْ فَمَاذَا تَأْمُرُونَ
+    - ref: Quran 7:123
+      lang: ar
+      text: قَالَ فِرْعَوْنُ ءَامَنتُم بِهِۦ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّ هَٰذَا لَمَكْرٌ مَّكَرْتُمُوهُ
+        فِى ٱلْمَدِينَةِ لِتُخْرِجُوا۟ مِنْهَآ أَهْلَهَا فَسَوْفَ تَعْلَمُونَ
 ---
 
 ## Questions

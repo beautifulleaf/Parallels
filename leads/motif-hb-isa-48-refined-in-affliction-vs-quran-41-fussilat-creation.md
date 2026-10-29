@@ -2,8 +2,7 @@
 id: motif-hb-isa-48-refined-in-affliction-vs-quran-41-fussilat-creation
 title: 'Obstinate Israel, former and new things, flee from Babylon ↔ Ha-Mim Fussilat: the veil between;
   creation in days; heaven as smoke'
-summary: 'These two units share 1 motifs: god says to heaven and earth ''come willingly or unwillingly'',
-  and they answer ''we come willingly''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - heaven-and-earth-come-willingly
-passages:
-- tradition: judaism
-  ref: Isa 48:13
-  note: 'God says to heaven and earth ''Come willingly or unwillingly'', and they answer ''We come willingly''
-    (ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. fa-qāla lahā
-    wa-li-l-arḍi ʾtiyā ṭawʿan aw karhan qālatā ataynā ṭāʾiʿīn: God addresses heaven and earth together
-    and they obey at once (yaḥdāw / the dual). In the Quran they also answer in speech.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף יָדִי֙ יָ֣סְדָה אֶ֔רֶץ וִֽימִינִ֖י טִפְּחָ֣ה שָׁמָ֑יִם קֹרֵ֥א אֲנִ֛י אֲלֵיהֶ֖ם יַעַמְד֥וּ
-    יַחְדָּֽו
-- tradition: islam
-  ref: Quran 41:11
-  note: God says to heaven and earth 'Come willingly or unwillingly', and they answer 'We come willingly'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا
-    أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. fa-qāla
-    lahā wa-li-l-arḍi ʾtiyā ṭawʿan aw karhan qālatā ataynā ṭāʾiʿīn: God addresses heaven and earth together
-    and they obey at once (yaḥdāw / the dual). In the Quran they also answer in speech.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God says to heaven and earth ''Come willingly or unwillingly'',
     and they answer ''We come willingly'' (weight 6.7). Pair score 6.7.'
@@ -74,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God says to heaven and earth 'Come willingly or unwillingly', and they answer 'We come willingly'
+kinds:
+- parallel
+units:
+- id: hb-isa-48-refined-in-affliction
+  title: Obstinate Israel, former and new things, flee from Babylon
+  tradition: judaism
+- id: quran-41-fussilat-creation
+  title: 'Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God says to heaven and earth 'Come willingly or unwillingly', and they answer 'We come willingly'
+  note: 'ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. fa-qāla
+    lahā wa-li-l-arḍi ʾtiyā ṭawʿan aw karhan qālatā ataynā ṭāʾiʿīn: God addresses heaven and earth together
+    and they obey at once (yaḥdāw / the dual). In the Quran they also answer in speech.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 48:13
+      lang: he
+      text: אַף יָדִי֙ יָ֣סְדָה אֶ֔רֶץ וִֽימִינִ֖י טִפְּחָ֣ה שָׁמָ֑יִם קֹרֵ֥א אֲנִ֛י אֲלֵיהֶ֖ם יַעַמְד֥וּ
+        יַחְדָּֽו
+  - tradition: islam
+    passages:
+    - ref: Quran 41:11
+      lang: ar
+      text: ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا
+        أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-41-steadfast-and-repel-evil
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Angels descend on the steadfast; repel
   evil with good; signs on the horizons
-summary: 'These two units share 1 motifs: when harm touches people they turn to god; when he gives them
-  relief a party of them associates partners again.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,46 +15,9 @@ layers:
 - motif
 motifs:
 - distress-prayer-then-ingratitude
-passages:
-- tradition: judaism
-  ref: Ps 78:34
-  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
-    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
-    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ אֵֽל
-- tradition: judaism
-  ref: Ps 78:36
-  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
-    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
-    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ לֽוֹ
-- tradition: islam
-  ref: Quran 41:49
-  note: When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ
-- tradition: islam
-  ref: Quran 41:51
-  note: When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ
-    فَذُو دُعَآءٍ عَرِيضٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. ʾim hărāḡām û-ḏərāšûhû wə-šāḇû wə-šiḥărû ʾēl ... wa-yp̄attûhû bə-p̄îhem ... wə-libbām lōʾ
-    nāḵôn ʿimmô vs. wa-idhā massahu sh-sharru fa-dhū duʿāʾin ʿarīḍ; wa-idhā anʿamnā ʿalā l-insāni aʿraḍa
-    wa-naʾā bi-jānibihi. Psalm: Israel in the wilderness, a historical pattern; Quran: al-insān, a trait
-    of man in general.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When harm touches people they turn to God; when he gives them relief
     a party of them associates partners again (weight 5.4). Pair score 5.4.'
@@ -93,6 +55,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When harm touches people they turn to God; when he gives them relief a party of them associates
+  partners again
+kinds:
+- parallel
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-41-steadfast-and-repel-evil
+  title: Angels descend on the steadfast; repel evil with good; signs on the horizons
+  tradition: islam
+matches:
+- kind: parallel
+  label: When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again
+  note: 'ʾim hărāḡām û-ḏərāšûhû wə-šāḇû wə-šiḥărû ʾēl ... wa-yp̄attûhû bə-p̄îhem ... wə-libbām lōʾ nāḵôn
+    ʿimmô vs. wa-idhā massahu sh-sharru fa-dhū duʿāʾin ʿarīḍ; wa-idhā anʿamnā ʿalā l-insāni aʿraḍa wa-naʾā
+    bi-jānibihi. Psalm: Israel in the wilderness, a historical pattern; Quran: al-insān, a trait of man
+    in general.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:34
+      lang: he
+      text: אִם הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ אֵֽל
+    - ref: Ps 78:35
+      lang: he
+      text: וַֽ֭יִּזְכְּרוּ כִּֽי אֱלֹהִ֣ים צוּרָ֑ם וְאֵ֥ל עֶ֝לְיוֹן גֹּאֲלָֽם
+    - ref: Ps 78:36
+      lang: he
+      text: וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:49
+      lang: ar
+      text: لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ مِن دُعَآءِ ٱلْخَيْرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٌ قَنُوطٌ
+    - ref: Quran 41:51
+      lang: ar
+      text: وَإِذَآ أَنْعَمْنَا عَلَى ٱلْإِنسَٰنِ أَعْرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ
+        فَذُو دُعَآءٍ عَرِيضٍ
 ---
 
 ## Questions

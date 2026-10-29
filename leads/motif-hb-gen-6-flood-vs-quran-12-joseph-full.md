@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-12-joseph-full
 title: The Flood (full read) ↔ Joseph and his brothers (Surah 12, full read)
-summary: 'These two units share 1 motifs: every inclination (yetser) of the human heart is only evil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - evil-inclination-of-heart
-passages:
-- tradition: judaism
-  ref: Gen 6:5
-  note: Every inclination (yetser) of the human heart is only evil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל יֵ֨צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק
-    רַ֖ע כָּל הַיּֽוֹם
-- tradition: judaism
-  ref: Gen 8:21
-  note: Every inclination (yetser) of the human heart is only evil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣רַח יְהוָה֮ אֶת רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל לִבּ֗וֹ לֹֽא אֹ֠סִף לְקַלֵּ֨ל
-    ע֤וֹד אֶת הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא אֹסִ֥ף
-    ע֛וֹד לְהַכּ֥וֹת אֶת כָּל חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי
-- tradition: islam
-  ref: Quran 12:53
-  note: 'Every inclination (yetser) of the human heart is only evil (inna n-nafsa la-ammāratun bi-s-sūʾi
-    illā mā raḥima rabbī; kol-yēṣer maḥšəbōt libbô raq raʿ kol-hayyôm / yēṣer lēb hāʾādām raʿ minnəʿurāyw:
-    human inwardness drives to evil. Q makes an exception for divine mercy; Gen 8:21 makes it a reason
-    not to curse the ground again.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أُبَرِّئُ نَفْسِىٓ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ
-    إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. inna n-nafsa la-ammāratun bi-s-sūʾi illā mā raḥima rabbī; kol-yēṣer maḥšəbōt libbô raq raʿ
-    kol-hayyôm / yēṣer lēb hāʾādām raʿ minnəʿurāyw: human inwardness drives to evil. Q makes an exception
-    for divine mercy; Gen 8:21 makes it a reason not to curse the ground again.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every inclination (yetser) of the human heart is only evil (weight
     6.7). Pair score 6.7.'
@@ -77,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every inclination (yetser) of the human heart is only evil
+kinds:
+- parallel
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Every inclination (yetser) of the human heart is only evil
+  note: 'inna n-nafsa la-ammāratun bi-s-sūʾi illā mā raḥima rabbī; kol-yēṣer maḥšəbōt libbô raq raʿ kol-hayyôm
+    / yēṣer lēb hāʾādām raʿ minnəʿurāyw: human inwardness drives to evil. Q makes an exception for divine
+    mercy; Gen 8:21 makes it a reason not to curse the ground again.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:5
+      lang: he
+      text: וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל יֵ֨צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ
+        רַ֥ק רַ֖ע כָּל הַיּֽוֹם
+    - ref: Gen 8:21
+      lang: he
+      text: וַיָּ֣רַח יְהוָה֮ אֶת רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל לִבּ֗וֹ לֹֽא אֹ֠סִף לְקַלֵּ֨ל
+        ע֤וֹד אֶת הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא
+        אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת כָּל חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 12:53
+      lang: ar
+      text: وَمَآ أُبَرِّئُ نَفْسِىٓ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ
+        إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

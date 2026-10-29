@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-139-searched-and-known-vs-quran-82-cleaving
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ The cleaving: the noble scribes'
-summary: 'These two units share 1 motifs: god formed the kidneys and wove (knit) the speaker in his mother''s
-  womb.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - knit-together-in-mothers-womb
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: judaism
-  ref: Ps 139:15
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: islam
-  ref: Quran 82:7
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (who created you, proportioned
-    you, balanced you, and assembled you in whatever form he willed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
-- tradition: islam
-  ref: Quran 82:8
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (who created you, proportioned
-    you, balanced you, and assembled you in whatever form he willed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. alladhī khalaqaka fa-sawwāka fa-ʿadalaka fī ayyi ṣūratin mā shāʾa rakkabak ~ kî ʾattāh qānîtā
-    kilyōtāy tesukkēnî be-veṭen ʾimmî ... niflāʾîm maʿăśêkā. God forming and assembling the body; the
-    Quran uses it to rebuke ingratitude (mā gharraka bi-rabbika l-karīm, 82:6), the Psalm to praise.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
     womb (weight 5.8). Pair score 5.8.'
@@ -85,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God formed the kidneys and wove (knit) the speaker in his mother's womb
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-82-cleaving
+  title: 'The cleaving: the noble scribes'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God formed the kidneys and wove (knit) the speaker in his mother's womb
+  note: alladhī khalaqaka fa-sawwāka fa-ʿadalaka fī ayyi ṣūratin mā shāʾa rakkabak ~ kî ʾattāh qānîtā
+    kilyōtāy tesukkēnî be-veṭen ʾimmî ... niflāʾîm maʿăśêkā. God forming and assembling the body; the
+    Quran uses it to rebuke ingratitude (mā gharraka bi-rabbika l-karīm, 82:6), the Psalm to praise.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:14
+      lang: he
+      text: אֽוֹדְךָ֗ עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת
+        מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 82:7
+      lang: ar
+      text: ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
+    - ref: Quran 82:8
+      lang: ar
+      text: فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-2-patience-signs
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Patience, Safa and Marwa,
   signs of creation
-summary: 'These two units share 1 motifs: declaration that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Isa 43:10-11
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (43:10) אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
-    לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה (43:11) אָנֹכִ֥י
-    אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ
-- tradition: judaism
-  ref: Isa 43:11
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָנֹכִ֥י אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ
-- tradition: islam
-  ref: Quran 2:163
-  note: Declaration that YHWH is God and there is no other besides him (Isa 43:11 ʾānōkî ʾānōkî YHWH wĕ-ʾên
-    mi-bbalʿāday môšîaʿ; Q 2:163 lā ilāha illā huwa.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 43:11 ʾānōkî ʾānōkî YHWH wĕ-ʾên mi-bbalʿāday môšîaʿ; Q 2:163 lā ilāha illā huwa.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
     5.1). Pair score 5.1.'
@@ -75,6 +53,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Declaration that YHWH is God and there is no other besides him
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: echo
+  label: Declaration that YHWH is God and there is no other besides him
+  note: Isa 43:11 ʾānōkî ʾānōkî YHWH wĕ-ʾên mi-bbalʿāday môšîaʿ; Q 2:163 lā ilāha illā huwa.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:11
+      lang: he
+      text: אָנֹכִ֥י אָנֹכִ֖י יְהוָ֑ה וְאֵ֥ין מִבַּלְעָדַ֖י מוֹשִֽׁיעַ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:163
+      lang: ar
+      text: وَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
 ---
 
 ## Questions

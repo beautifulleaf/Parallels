@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-1-prologue-first-test-vs-quran-2-patience-signs
 title: Job's piety, the heavenly council and the first test ↔ Patience, Safa and Marwa, signs of creation
-summary: 'These two units share 2 motifs: god''s test by loss of goods, lives and children [divergence
-  between the texts], ''yhwh gave and yhwh has taken; blessed be the name of yhwh''.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,71 +16,9 @@ layers:
 motifs:
 - test-by-loss-of-goods-and-children-as-divergence
 - lord-gave-lord-has-taken
-passages:
-- tradition: judaism
-  ref: Job 1:12
-  note: 'God''s test by loss of goods, lives and children [divergence between the texts] (Job 1:12-19:
-    God gives the Satan leave (hinnēh kol ʾăšer lô bĕ-yādekā) and Job loses flocks, servants and children;
-    Q 2:155 wa-la-nabluwannakum bi-shayʾin mina l-khawfi wa-l-jūʿi wa-naqṣin mina l-amwāli wa-l-anfusi
-    wa-th-thamarāt wa-bashshiri ṣ-ṣābirīn: God himself announces the test of the believers with loss of
-    goods, lives and crops. No Satan and no wager; the test is announced beforehand to a community, and
-    patience (ṣabr) is promised its reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
-    יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Job 1:19
-  note: 'God''s test by loss of goods, lives and children [divergence between the texts] (Job 1:12-19:
-    God gives the Satan leave (hinnēh kol ʾăšer lô bĕ-yādekā) and Job loses flocks, servants and children;
-    Q 2:155 wa-la-nabluwannakum bi-shayʾin mina l-khawfi wa-l-jūʿi wa-naqṣin mina l-amwāli wa-l-anfusi
-    wa-th-thamarāt wa-bashshiri ṣ-ṣābirīn: God himself announces the test of the believers with loss of
-    goods, lives and crops. No Satan and no wager; the test is announced beforehand to a community, and
-    patience (ṣabr) is promised its reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּה֩ ר֨וּחַ גְּדוֹלָ֜ה בָּ֣אָה מֵעֵ֣בֶר הַמִּדְבָּ֗ר וַיִּגַּע֙ בְּאַרְבַּע֙ פִּנּ֣וֹת הַבַּ֔יִת
-    וַיִּפֹּ֥ל עַל הַנְּעָרִ֖ים וַיָּמ֑וּתוּ וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ
-- tradition: islam
-  ref: Quran 2:155
-  note: 'God''s test by loss of goods, lives and children [divergence between the texts] (Job 1:12-19:
-    God gives the Satan leave (hinnēh kol ʾăšer lô bĕ-yādekā) and Job loses flocks, servants and children;
-    Q 2:155 wa-la-nabluwannakum bi-shayʾin mina l-khawfi wa-l-jūʿi wa-naqṣin mina l-amwāli wa-l-anfusi
-    wa-th-thamarāt wa-bashshiri ṣ-ṣābirīn: God himself announces the test of the believers with loss of
-    goods, lives and crops. No Satan and no wager; the test is announced beforehand to a community, and
-    patience (ṣabr) is promised its reward.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ
-    وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ
-- tradition: judaism
-  ref: Job 1:21
-  note: '''YHWH gave and YHWH has taken; blessed be the name of YHWH'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה
-    לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
-- tradition: islam
-  ref: Quran 2:156
-  note: '''YHWH gave and YHWH has taken; blessed be the name of YHWH'' (Words of the afflicted at loss:
-    Job 1:21 ʿārōm yāṣāʾtî mi-bbeṭen ʾimmî wĕ-ʿārōm ʾāšûb šāmmâ YHWH nātan wa-YHWH lāqāḥ; Q 2:156 alladhīna
-    idhā aṣābathum muṣībatun qālū innā li-llāhi wa-innā ilayhi rājiʿūn. Both confess that life is God''s
-    and return (šûb / rajaʿa). Job returns to the womb/earth (''there''); the Quran''s speakers return
-    to God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, parallel. Words of the afflicted at loss: Job 1:21 ʿārōm yāṣāʾtî mi-bbeṭen ʾimmî wĕ-ʿārōm
-    ʾāšûb šāmmâ YHWH nātan wa-YHWH lāqāḥ; Q 2:156 alladhīna idhā aṣābathum muṣībatun qālū innā li-llāhi
-    wa-innā ilayhi rājiʿūn. Both confess that life is God''s and return (šûb / rajaʿa). Job returns to
-    the womb/earth (''there''); the Quran''s speakers return to God. Job 1:12-19: God gives the Satan
-    leave (hinnēh kol ʾăšer lô bĕ-yādekā) and Job loses flocks, servants and children; Q 2:155 wa-la-nabluwannakum
-    bi-shayʾin mina l-khawfi wa-l-jūʿi wa-naqṣin mina l-amwāli wa-l-anfusi wa-th-thamarāt wa-bashshiri
-    ṣ-ṣābirīn: God himself announces the test of the believers with loss of goods, lives and crops. No
-    Satan and no wager; the test is announced beforehand to a community, and patience (ṣabr) is promised
-    its reward.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s test by loss of goods, lives and children [divergence between
     the texts] (weight 6.7); ''YHWH gave and YHWH has taken; blessed be the name of YHWH'' (weight 6.7).
@@ -116,6 +53,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's test by loss of goods, lives and children
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's test by loss of goods, lives and children
+  note: 'Job 1:12-19: God gives the Satan leave (hinnēh kol ʾăšer lô bĕ-yādekā) and Job loses flocks,
+    servants and children; Q 2:155 wa-la-nabluwannakum bi-shayʾin mina l-khawfi wa-l-jūʿi wa-naqṣin mina
+    l-amwāli wa-l-anfusi wa-th-thamarāt wa-bashshiri ṣ-ṣābirīn: God himself announces the test of the
+    believers with loss of goods, lives and crops. No Satan and no wager; the test is announced beforehand
+    to a community, and patience (ṣabr) is promised its reward.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
+        יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
+    - ref: Job 1:19
+      lang: he
+      text: וְהִנֵּה֩ ר֨וּחַ גְּדוֹלָ֜ה בָּ֣אָה מֵעֵ֣בֶר הַמִּדְבָּ֗ר וַיִּגַּע֙ בְּאַרְבַּע֙ פִּנּ֣וֹת
+        הַבַּ֔יִת וַיִּפֹּ֥ל עַל הַנְּעָרִ֖ים וַיָּמ֑וּתוּ וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד
+        לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:155
+      lang: ar
+      text: وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ
+        وَٱلثَّمَرَٰتِ وَبَشِّرِ ٱلصَّٰبِرِينَ
+- kind: parallel
+  label: '''YHWH gave and YHWH has taken; blessed be the name of YHWH'''
+  note: 'Words of the afflicted at loss: Job 1:21 ʿārōm yāṣāʾtî mi-bbeṭen ʾimmî wĕ-ʿārōm ʾāšûb šāmmâ YHWH
+    nātan wa-YHWH lāqāḥ; Q 2:156 alladhīna idhā aṣābathum muṣībatun qālū innā li-llāhi wa-innā ilayhi
+    rājiʿūn. Both confess that life is God''s and return (šûb / rajaʿa). Job returns to the womb/earth
+    (''there''); the Quran''s speakers return to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:21
+      lang: he
+      text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן
+        וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:156
+      lang: ar
+      text: ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ
 ---
 
 ## Questions

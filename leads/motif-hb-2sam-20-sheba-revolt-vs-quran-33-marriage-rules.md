@@ -2,8 +2,7 @@
 id: motif-hb-2sam-20-sheba-revolt-vs-quran-33-marriage-rules
 title: Sheba's revolt, Joab's murder of Amasa, and the wise woman of Abel ↔ Divorce before consummation;
   the prophet's marriages; the curtain and the cloaks
-summary: 'These two units share 1 motifs: the prophet''s wives are the mothers of the believers and may
-  not be married after him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-wives-mothers-of-believers
-passages:
-- tradition: judaism
-  ref: 2Sam 20:3
-  note: The prophet's wives are the mothers of the believers and may not be married after him (wa-yyittənēm
-    bêṯ-mišmereṯ ... wa-ʾălêhem lōʾ-ḇāʾ wa-ttihyênâ ṣərurôṯ ʿaḏ-yôm mutān ʾalmənûṯ ḥayyûṯ (shut up till
-    death in a living widowhood) vs. wa-mā kāna lakum ... an tankiḥū azwājahu min baʿdihi abadā. The leader's
-    women are withdrawn from any other man for life. In Samuel it follows Absalom's violation; in the
-    Quran it is a permanent rule. The rabbinic ban on a king's widow remarrying is later (cf. only).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א דָוִ֣ד אֶל בֵּיתוֹ֮ יְרֽוּשָׁלִַם֒ וַיִּקַּ֣ח הַמֶּ֡לֶךְ אֵ֣ת עֶֽשֶׂר נָשִׁ֣ים פִּלַגְשִׁ֡ים
-    אֲשֶׁ֣ר הִנִּיחַ֩ לִשְׁמֹ֨ר הַבַּ֜יִת וַֽיִּתְּנֵ֤ם בֵּית מִשְׁמֶ֨רֶת֙ וַֽיְכַלְכְּלֵ֔ם וַאֲלֵיהֶ֖ם
-    לֹא בָ֑א וַתִּהְיֶ֧ינָה צְרֻר֛וֹת עַד י֥וֹם מֻתָ֖ן אַלְמְנ֥וּת חַיּֽוּת
-- tradition: islam
-  ref: Quran 33:53
-  note: The prophet's wives are the mothers of the believers and may not be married after him (never marry
-    his wives after him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ
-    إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ
-    فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ
-    مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا فَسْـَٔلُوهُنَّ
-    مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟
-    رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا إِنَّ ذَٰلِكُمْ كَانَ
-    عِندَ ٱللَّهِ عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyittənēm bêṯ-mišmereṯ ... wa-ʾălêhem lōʾ-ḇāʾ wa-ttihyênâ ṣərurôṯ ʿaḏ-yôm mutān ʾalmənûṯ
-    ḥayyûṯ (shut up till death in a living widowhood) vs. wa-mā kāna lakum ... an tankiḥū azwājahu min
-    baʿdihi abadā. The leader''s women are withdrawn from any other man for life. In Samuel it follows
-    Absalom''s violation; in the Quran it is a permanent rule. The rabbinic ban on a king''s widow remarrying
-    is later (cf. only).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives are the mothers of the believers and may not
     be married after him (weight 6.3). Pair score 6.3.'
@@ -84,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's wives are the mothers of the believers and may not be married after him
+kinds:
+- echo
+units:
+- id: hb-2sam-20-sheba-revolt
+  title: Sheba's revolt, Joab's murder of Amasa, and the wise woman of Abel
+  tradition: judaism
+- id: quran-33-marriage-rules
+  title: Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet's wives are the mothers of the believers and may not be married after him
+  note: wa-yyittənēm bêṯ-mišmereṯ ... wa-ʾălêhem lōʾ-ḇāʾ wa-ttihyênâ ṣərurôṯ ʿaḏ-yôm mutān ʾalmənûṯ ḥayyûṯ
+    (shut up till death in a living widowhood) vs. wa-mā kāna lakum ... an tankiḥū azwājahu min baʿdihi
+    abadā. The leader's women are withdrawn from any other man for life. In Samuel it follows Absalom's
+    violation; in the Quran it is a permanent rule. The rabbinic ban on a king's widow remarrying is later
+    (cf. only).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 20:3
+      lang: he
+      text: וַיָּבֹ֨א דָוִ֣ד אֶל בֵּיתוֹ֮ יְרֽוּשָׁלִַם֒ וַיִּקַּ֣ח הַמֶּ֡לֶךְ אֵ֣ת עֶֽשֶׂר נָשִׁ֣ים פִּלַגְשִׁ֡ים
+        אֲשֶׁ֣ר הִנִּיחַ֩ לִשְׁמֹ֨ר הַבַּ֜יִת וַֽיִּתְּנֵ֤ם בֵּית מִשְׁמֶ֨רֶת֙ וַֽיְכַלְכְּלֵ֔ם וַאֲלֵיהֶ֖ם
+        לֹא בָ֑א וַתִּהְיֶ֧ינָה צְרֻר֛וֹת עַד י֥וֹם מֻתָ֖ן אַלְמְנ֥וּת חַיּֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 33:53
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ
+        لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَٰظِرِينَ إِنَىٰهُ وَلَٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا
+        طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ
+        فَيَسْتَحْىِۦ مِنكُمْ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ وَإِذَا سَأَلْتُمُوهُنَّ مَتَٰعًا
+        فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ وَمَا كَانَ
+        لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا
+        إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا
 ---
 
 ## Questions

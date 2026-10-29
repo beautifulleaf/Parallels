@@ -2,8 +2,7 @@
 id: motif-hb-1sam-25-nabal-abigail-vs-quran-109-111-disbelievers-help-flame
 title: Nabal the fool, Abigail the wise and David's averted vengeance ↔ The disbelievers, the help, and
   the flame
-summary: 'These two units share 1 motifs: a person''s name declared to match his character: ''as his name
-  is, so is he''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - name-is-destiny
-passages:
-- tradition: judaism
-  ref: 1Sam 25:3
-  note: 'A person''s name declared to match his character: ''as his name is, so is he'' (''As his name
-    is, so is he: Nabal (fool) is his name and folly (nevalah) is with him'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֵׁ֤ם הָאִישׁ֙ נָבָ֔ל וְשֵׁ֥ם אִשְׁתּ֖וֹ אֲבִגָ֑יִל וְהָאִשָּׁ֤ה טֽוֹבַת שֶׂ֨כֶל֙ וִ֣יפַת תֹּ֔אַר
-    וְהָאִ֥ישׁ קָשֶׁ֛ה וְרַ֥ע מַעֲלָלִ֖ים וְה֥וּא כלבו כָלִבִּֽי
-- tradition: judaism
-  ref: 1Sam 25:25
-  note: 'A person''s name declared to match his character: ''as his name is, so is he'' (''As his name
-    is, so is he: Nabal (fool) is his name and folly (nevalah) is with him'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל נָ֣א יָשִׂ֣ים אֲדֹנִ֣י אֶת לִבּ֡וֹ אֶל אִישׁ֩ הַבְּלִיַּ֨עַל הַזֶּ֜ה עַל נָבָ֗ל כִּ֤י כִשְׁמוֹ֙
-    כֶּן ה֔וּא נָבָ֣ל שְׁמ֔וֹ וּנְבָלָ֖ה עִמּ֑וֹ וַֽאֲנִי֙ אֲמָ֣תְךָ֔ לֹ֥א רָאִ֛יתִי אֶת נַעֲרֵ֥י אֲדֹנִ֖י
-    אֲשֶׁ֥ר שָׁלָֽחְתָּ
-- tradition: islam
-  ref: Quran 111:1
-  note: 'A person''s name declared to match his character: ''as his name is, so is he'' (Abu Lahab, ''father
-    of flame'', will burn in a fire ''possessing flame'' (dhat lahab))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ
-- tradition: islam
-  ref: Quran 111:3
-  note: 'A person''s name declared to match his character: ''as his name is, so is he'' (Abu Lahab, ''father
-    of flame'', will burn in a fire ''possessing flame'' (dhat lahab))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. tabbat yadā abī lahabin ... sa-yaṣlā nāran dhāta lahab ~ kî ki-šmô ken hûʾ nāvāl šemô û-nevālāh
-    ʿimmô: the enemy''s name foretells his end (Father of Flame burns in flame; Fool and folly).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A person''s name declared to match his character: ''as his name
     is, so is he'' (weight 6.7). Pair score 6.7.'
@@ -81,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'A person''s name declared to match his character: ''as his name is, so is he'''
+kinds:
+- parallel
+units:
+- id: hb-1sam-25-nabal-abigail
+  title: Nabal the fool, Abigail the wise and David's averted vengeance
+  tradition: judaism
+- id: quran-109-111-disbelievers-help-flame
+  title: The disbelievers, the help, and the flame
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'A person''s name declared to match his character: ''as his name is, so is he'''
+  note: 'tabbat yadā abī lahabin ... sa-yaṣlā nāran dhāta lahab ~ kî ki-šmô ken hûʾ nāvāl šemô û-nevālāh
+    ʿimmô: the enemy''s name foretells his end (Father of Flame burns in flame; Fool and folly).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 25:25
+      lang: he
+      text: אַל נָ֣א יָשִׂ֣ים אֲדֹנִ֣י אֶת לִבּ֡וֹ אֶל אִישׁ֩ הַבְּלִיַּ֨עַל הַזֶּ֜ה עַל נָבָ֗ל כִּ֤י
+        כִשְׁמוֹ֙ כֶּן ה֔וּא נָבָ֣ל שְׁמ֔וֹ וּנְבָלָ֖ה עִמּ֑וֹ וַֽאֲנִי֙ אֲמָ֣תְךָ֔ לֹ֥א רָאִ֛יתִי אֶת
+        נַעֲרֵ֥י אֲדֹנִ֖י אֲשֶׁ֥ר שָׁלָֽחְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 111:1
+      lang: ar
+      text: تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ
+    - ref: Quran 111:3
+      lang: ar
+      text: سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-54-qamar-moon-split-and-noah
 title: 'Blessing of Noah, blood laws and the covenant of the bow ↔ Al-Qamar: the moon split, the dead
   like locusts, and Noah''s ark of planks and fibres'
-summary: 'These two units share 1 motifs: the sign left after the flood: the rainbow, or the ark [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - sign-left-after-the-flood-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 9:12
-  note: 'The sign left after the flood: the rainbow, or the ark [divergence between the texts] (What remains
-    as the flood''s sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān (the rainbow as covenant
-    sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal min muddakir (we left
-    it, the ark or the event, as a sign; will anyone take heed?). Genesis'' sign reassures that the flood
-    will not return; the Quran''s warns that punishment comes again (the refrain fa-kayfa kāna ʿadhābī
-    wa-nudhur).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים זֹ֤את אֽוֹת הַבְּרִית֙ אֲשֶׁר אֲנִ֣י נֹתֵ֗ן בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין
-    כָּל נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּכֶ֑ם לְדֹרֹ֖ת עוֹלָֽם
-- tradition: judaism
-  ref: Gen 9:13
-  note: 'The sign left after the flood: the rainbow, or the ark [divergence between the texts] (What remains
-    as the flood''s sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān (the rainbow as covenant
-    sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal min muddakir (we left
-    it, the ark or the event, as a sign; will anyone take heed?). Genesis'' sign reassures that the flood
-    will not return; the Quran''s warns that punishment comes again (the refrain fa-kayfa kāna ʿadhābī
-    wa-nudhur).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 54:15
-  note: 'The sign left after the flood: the rainbow, or the ark [divergence between the texts] (What remains
-    as the flood''s sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān (the rainbow as covenant
-    sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal min muddakir (we left
-    it, the ark or the event, as a sign; will anyone take heed?). Genesis'' sign reassures that the flood
-    will not return; the Quran''s warns that punishment comes again (the refrain fa-kayfa kāna ʿadhābī
-    wa-nudhur).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَد تَّرَكْنَٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. What remains as the flood''s sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān
-    (the rainbow as covenant sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal
-    min muddakir (we left it, the ark or the event, as a sign; will anyone take heed?). Genesis'' sign
-    reassures that the flood will not return; the Quran''s warns that punishment comes again (the refrain
-    fa-kayfa kāna ʿadhābī wa-nudhur).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sign left after the flood: the rainbow, or the ark [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -94,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The sign left after the flood: the rainbow, or the ark'
+kinds:
+- divergence
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-54-qamar-moon-split-and-noah
+  title: 'Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The sign left after the flood: the rainbow, or the ark'
+  note: 'What remains as the flood''s sign. Genesis: zōʾṯ ʾôṯ hab-bərîṯ ... ʾeṯ qaštî nāṯattî be-ʿānān
+    (the rainbow as covenant sign that it will not happen again). Quran: wa-la-qad taraknāhā āyatan fa-hal
+    min muddakir (we left it, the ark or the event, as a sign; will anyone take heed?). Genesis'' sign
+    reassures that the flood will not return; the Quran''s warns that punishment comes again (the refrain
+    fa-kayfa kāna ʿadhābī wa-nudhur).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:12
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים זֹ֤את אֽוֹת הַבְּרִית֙ אֲשֶׁר אֲנִ֣י נֹתֵ֗ן בֵּינִי֙ וּבֵ֣ינֵיכֶ֔ם וּבֵ֛ין
+        כָּל נֶ֥פֶשׁ חַיָּ֖ה אֲשֶׁ֣ר אִתְּכֶ֑ם לְדֹרֹ֖ת עוֹלָֽם
+    - ref: Gen 9:13
+      lang: he
+      text: אֶת קַשְׁתִּ֕י נָתַ֖תִּי בֶּֽעָנָ֑ן וְהָֽיְתָה֙ לְא֣וֹת בְּרִ֔ית בֵּינִ֖י וּבֵ֥ין הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 54:15
+      lang: ar
+      text: وَلَقَد تَّرَكْنَٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ
 ---
 
 ## Questions

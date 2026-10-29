@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-49-blessing-of-jacob-vs-quran-2-abraham-kaaba
 title: The Testament (Blessing) of Jacob and his death ↔ Abraham, Ishmael and the House
-summary: 'These two units share 2 motifs: dying jacob addresses his sons [divergence between the texts],
-  a dying father gathers his sons to bless them and foretell their destinies.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,79 +14,9 @@ layers:
 motifs:
 - jacobs-deathbed-address-to-sons-as-divergence
 - deathbed-blessing-of-sons
-passages:
-- tradition: judaism
-  ref: Gen 49:1
-  note: 'Dying Jacob addresses his sons [divergence between the texts] (Gen 49:1 wa-yyiqrāʾ yaʿăqōb ʾel
-    bānāyw wa-yyōʾmer hēʾāsĕpû wĕ-ʾaggîdâ lākem ʾēt ʾăšer yiqrāʾ ʾetkem bĕ-ʾaḥărît ha-yyāmîm: dying Jacob
-    summons his sons to tell them their future; Q 2:133 idh ḥaḍara yaʿqūba l-mawtu idh qāla li-banīhi
-    mā taʿbudūna min baʿdī: dying Jacob asks his sons what they will worship, and they confess. Tribal
-    oracles become a test of faith; the speaker moves from foretelling to questioning. cf. Gen. Rabbah
-    98:3 (sons answer with the Shema).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל בָּנָ֑יו וַיֹּ֗אמֶר הֵאָֽסְפוּ֙ וְאַגִּ֣ידָה לָכֶ֔ם אֵ֛ת אֲשֶׁר יִקְרָ֥א
-    אֶתְכֶ֖ם בְּאַחֲרִ֥ית הַיָּמִֽים
-- tradition: islam
-  ref: Quran 2:132
-  note: 'Dying Jacob addresses his sons [divergence between the texts] (Gen 49:1 wa-yyiqrāʾ yaʿăqōb ʾel
-    bānāyw wa-yyōʾmer hēʾāsĕpû wĕ-ʾaggîdâ lākem ʾēt ʾăšer yiqrāʾ ʾetkem bĕ-ʾaḥărît ha-yyāmîm: dying Jacob
-    summons his sons to tell them their future; Q 2:133 idh ḥaḍara yaʿqūba l-mawtu idh qāla li-banīhi
-    mā taʿbudūna min baʿdī: dying Jacob asks his sons what they will worship, and they confess. Tribal
-    oracles become a test of faith; the speaker moves from foretelling to questioning. cf. Gen. Rabbah
-    98:3 (sons answer with the Shema).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ
-    فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
-- tradition: islam
-  ref: Quran 2:133
-  note: 'Dying Jacob addresses his sons [divergence between the texts] (Gen 49:1 wa-yyiqrāʾ yaʿăqōb ʾel
-    bānāyw wa-yyōʾmer hēʾāsĕpû wĕ-ʾaggîdâ lākem ʾēt ʾăšer yiqrāʾ ʾetkem bĕ-ʾaḥărît ha-yyāmîm: dying Jacob
-    summons his sons to tell them their future; Q 2:133 idh ḥaḍara yaʿqūba l-mawtu idh qāla li-banīhi
-    mā taʿbudūna min baʿdī: dying Jacob asks his sons what they will worship, and they confess. Tribal
-    oracles become a test of faith; the speaker moves from foretelling to questioning. cf. Gen. Rabbah
-    98:3 (sons answer with the Shema).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
-- tradition: judaism
-  ref: Gen 49:1
-  note: A dying father gathers his sons to bless them and foretell their destinies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל בָּנָ֑יו וַיֹּ֗אמֶר הֵאָֽסְפוּ֙ וְאַגִּ֣ידָה לָכֶ֔ם אֵ֛ת אֲשֶׁר יִקְרָ֥א
-    אֶתְכֶ֖ם בְּאַחֲרִ֥ית הַיָּמִֽים
-- tradition: judaism
-  ref: Gen 49:2
-  note: A dying father gathers his sons to bless them and foretell their destinies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִקָּבְצ֥וּ וְשִׁמְע֖וּ בְּנֵ֣י יַעֲקֹ֑ב וְשִׁמְע֖וּ אֶל יִשְׂרָאֵ֥ל אֲבִיכֶֽם
-- tradition: islam
-  ref: Quran 2:132
-  note: A dying father gathers his sons to bless them and foretell their destinies
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ ٱلدِّينَ
-    فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
-- tradition: islam
-  ref: Quran 2:133
-  note: A dying father gathers his sons to bless them and foretell their destinies
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 49:1 wa-yyiqrāʾ yaʿăqōb ʾel bānāyw wa-yyōʾmer hēʾāsĕpû wĕ-ʾaggîdâ lākem ʾēt ʾăšer
-    yiqrāʾ ʾetkem bĕ-ʾaḥărît ha-yyāmîm: dying Jacob summons his sons to tell them their future; Q 2:133
-    idh ḥaḍara yaʿqūba l-mawtu idh qāla li-banīhi mā taʿbudūna min baʿdī: dying Jacob asks his sons what
-    they will worship, and they confess. Tribal oracles become a test of faith; the speaker moves from
-    foretelling to questioning. cf. Gen. Rabbah 98:3 (sons answer with the Shema).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Dying Jacob addresses his sons [divergence between the texts] (weight
     6.7); A dying father gathers his sons to bless them and foretell their destinies (weight 6.3). Pair
@@ -122,6 +51,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Dying Jacob addresses his sons
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-49-blessing-of-jacob
+  title: The Testament (Blessing) of Jacob and his death
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: Dying Jacob addresses his sons
+  note: 'Gen 49:1 wa-yyiqrāʾ yaʿăqōb ʾel bānāyw wa-yyōʾmer hēʾāsĕpû wĕ-ʾaggîdâ lākem ʾēt ʾăšer yiqrāʾ
+    ʾetkem bĕ-ʾaḥărît ha-yyāmîm: dying Jacob summons his sons to tell them their future; Q 2:133 idh ḥaḍara
+    yaʿqūba l-mawtu idh qāla li-banīhi mā taʿbudūna min baʿdī: dying Jacob asks his sons what they will
+    worship, and they confess. Tribal oracles become a test of faith; the speaker moves from foretelling
+    to questioning. cf. Gen. Rabbah 98:3 (sons answer with the Shema).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 49:1
+      lang: he
+      text: וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל בָּנָ֑יו וַיֹּ֗אמֶר הֵאָֽסְפוּ֙ וְאַגִּ֣ידָה לָכֶ֔ם אֵ֛ת אֲשֶׁר יִקְרָ֥א
+        אֶתְכֶ֖ם בְּאַחֲרִ֥ית הַיָּמִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:132
+      lang: ar
+      text: وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ
+        ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+- kind: shared
+  label: A dying father gathers his sons to bless them and foretell their destinies
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 49:1
+      lang: he
+      text: וַיִּקְרָ֥א יַעֲקֹ֖ב אֶל בָּנָ֑יו וַיֹּ֗אמֶר הֵאָֽסְפוּ֙ וְאַגִּ֣ידָה לָכֶ֔ם אֵ֛ת אֲשֶׁר יִקְרָ֥א
+        אֶתְכֶ֖ם בְּאַחֲרִ֥ית הַיָּמִֽים
+    - ref: Gen 49:2
+      lang: he
+      text: הִקָּבְצ֥וּ וְשִׁמְע֖וּ בְּנֵ֣י יַעֲקֹ֑ב וְשִׁמְע֖וּ אֶל יִשְׂרָאֵ֥ל אֲבִיכֶֽם
+    - ref: Gen 49:28
+      lang: he
+      text: כָּל אֵ֛לֶּה שִׁבְטֵ֥י יִשְׂרָאֵ֖ל שְׁנֵ֣ים עָשָׂ֑ר וְ֠זֹאת אֲשֶׁר דִּבֶּ֨ר לָהֶ֤ם אֲבִיהֶם֙
+        וַיְבָ֣רֶךְ אוֹתָ֔ם אִ֛ישׁ אֲשֶׁ֥ר כְּבִרְכָת֖וֹ בֵּרַ֥ךְ אֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:132
+      lang: ar
+      text: وَوَصَّىٰ بِهَآ إِبْرَٰهِۦمُ بَنِيهِ وَيَعْقُوبُ يَٰبَنِىَّ إِنَّ ٱللَّهَ ٱصْطَفَىٰ لَكُمُ
+        ٱلدِّينَ فَلَا تَمُوتُنَّ إِلَّا وَأَنتُم مُّسْلِمُونَ
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
 ---
 
 ## Questions

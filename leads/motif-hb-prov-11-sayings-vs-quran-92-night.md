@@ -2,8 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-92-night
 title: 'Sayings on honest scales, generosity and the fate of the wicked ↔ The night: the giver and the
   miser'
-summary: 'These two units share 2 motifs: one scatters and yet increases; the generous soul is made fat
-  and who waters will be watered, wealth does not profit on the day of wrath.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,58 +16,9 @@ layers:
 motifs:
 - generous-giver-enriched
 - wealth-useless-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Prov 11:24
-  note: One scatters and yet increases; the generous soul is made fat and who waters will be watered
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ לְמַחְסֽוֹר
-- tradition: judaism
-  ref: Prov 11:25
-  note: One scatters and yet increases; the generous soul is made fat and who waters will be watered
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֶֽפֶשׁ בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם ה֥וּא יוֹרֶֽא
-- tradition: islam
-  ref: Quran 92:5
-  note: 'One scatters and yet increases; the generous soul is made fat and who waters will be watered
-    (fa-ammā man aʿṭā wa-ttaqā ... fa-sanuyassiruhu li-l-yusrā, wa-ammā man bakhila wa-staghnā ... fa-sanuyassiruhu
-    li-l-ʿusrā ~ yēš mefazzēr we-nôsāf ʿôd we-ḥôśēk mi-yyōšer ʾak le-maḥsôr; nefeš berākāh tedussān: the
-    giver prospers, the withholder comes to want. Proverbs speaks of this life, the Quran of the way eased
-    toward the Garden or the Fire.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ
-- tradition: islam
-  ref: Quran 92:6
-  note: 'One scatters and yet increases; the generous soul is made fat and who waters will be watered
-    (fa-ammā man aʿṭā wa-ttaqā ... fa-sanuyassiruhu li-l-yusrā, wa-ammā man bakhila wa-staghnā ... fa-sanuyassiruhu
-    li-l-ʿusrā ~ yēš mefazzēr we-nôsāf ʿôd we-ḥôśēk mi-yyōšer ʾak le-maḥsôr; nefeš berākāh tedussān: the
-    giver prospers, the withholder comes to want. Proverbs speaks of this life, the Quran of the way eased
-    toward the Garden or the Fire.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَصَدَّقَ بِٱلْحُسْنَىٰ
-- tradition: judaism
-  ref: Prov 11:4
-  note: Wealth does not profit on the day of wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
-- tradition: islam
-  ref: Quran 92:11
-  note: Wealth does not profit on the day of wrath
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-ammā man aʿṭā wa-ttaqā ... fa-sanuyassiruhu li-l-yusrā, wa-ammā man bakhila wa-staghnā
-    ... fa-sanuyassiruhu li-l-ʿusrā ~ yēš mefazzēr we-nôsāf ʿôd we-ḥôśēk mi-yyōšer ʾak le-maḥsôr; nefeš
-    berākāh tedussān: the giver prospers, the withholder comes to want. Proverbs speaks of this life,
-    the Quran of the way eased toward the Garden or the Fire. wa-mā yughnī ʿanhu māluhu idhā taraddā ~
-    lōʾ yôʿîl hôn be-yôm ʿevrāh û-ṣedāqāh taṣṣîl mi-mmāwet.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One scatters and yet increases; the generous soul is made fat and
     who waters will be watered (weight 6.0); Wealth does not profit on the day of wrath (weight 5.4).
@@ -100,6 +50,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One scatters and yet increases; the generous soul is made fat and who waters will be watered
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-92-night
+  title: 'The night: the giver and the miser'
+  tradition: islam
+matches:
+- kind: parallel
+  label: One scatters and yet increases; the generous soul is made fat and who waters will be watered
+  note: 'fa-ammā man aʿṭā wa-ttaqā ... fa-sanuyassiruhu li-l-yusrā, wa-ammā man bakhila wa-staghnā ...
+    fa-sanuyassiruhu li-l-ʿusrā ~ yēš mefazzēr we-nôsāf ʿôd we-ḥôśēk mi-yyōšer ʾak le-maḥsôr; nefeš berākāh
+    tedussān: the giver prospers, the withholder comes to want. Proverbs speaks of this life, the Quran
+    of the way eased toward the Garden or the Fire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:24
+      lang: he
+      text: יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ לְמַחְסֽוֹר
+    - ref: Prov 11:25
+      lang: he
+      text: נֶֽפֶשׁ בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם ה֥וּא יוֹרֶֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 92:5
+      lang: ar
+      text: فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ
+    - ref: Quran 92:6
+      lang: ar
+      text: وَصَدَّقَ بِٱلْحُسْنَىٰ
+    - ref: Quran 92:7
+      lang: ar
+      text: فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ
+- kind: parallel
+  label: Wealth does not profit on the day of wrath
+  note: wa-mā yughnī ʿanhu māluhu idhā taraddā ~ lōʾ yôʿîl hôn be-yôm ʿevrāh û-ṣedāqāh taṣṣîl mi-mmāwet.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:4
+      lang: he
+      text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 92:11
+      lang: ar
+      text: وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ
 ---
 
 ## Questions

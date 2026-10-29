@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-11-salih
 title: Elihu - warning dreams and the interceding angel ↔ Salih, the she-camel and the Shout
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,30 +13,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 11:61
-  note: First human shaped from dust, clay or soil (ansha'akum min al-ard)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
-    إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. hēn-ʾănî kᵉpîkā lāʾēl mēḥōmer qōraṣtî gam-ʾānî vs anshaʾakum mina l-arḍ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -69,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- echo
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-11-salih
+  title: Salih, the she-camel and the Shout
+  tradition: islam
+matches:
+- kind: echo
+  label: First human shaped from dust, clay or soil
+  note: hēn-ʾănî kᵉpîkā lāʾēl mēḥōmer qōraṣtî gam-ʾānî vs anshaʾakum mina l-arḍ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:61
+      lang: ar
+      text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
+        إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
 ---
 
 ## Questions

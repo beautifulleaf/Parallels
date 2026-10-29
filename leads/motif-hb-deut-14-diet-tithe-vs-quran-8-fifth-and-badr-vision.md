@@ -2,8 +2,7 @@
 id: motif-hb-deut-14-diet-tithe-vs-quran-8-fifth-and-badr-vision
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ The fifth of the spoils, the dream of
   few, Satan's desertion
-summary: 'These two units share 1 motifs: a fifth of all spoils goes to god, the messenger, kin, orphans,
-  the poor and the wayfarer.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - fifth-of-spoils-for-god
-passages:
-- tradition: judaism
-  ref: Deut 14:29
-  note: 'A fifth of all spoils goes to God, the messenger, kin, orphans, the poor and the wayfarer (God''s
-    portion goes to the dependent: wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl vs wᵉhallēwî
-    ... wᵉhaggēr wᵉhayyātôm wᵉhāʾalmānāh ... wᵉʾākᵉlû wᵉśābēʿû. The orphan (yatīm = yātôm) is in both;
-    Deut''s Levite and widow correspond to Q''s kin of the messenger and the poor, and the traveller to
-    the stranger. The source differs: the third-year tithe in Deut, war booty in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
-    אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
-    יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 8:41
-  note: A fifth of all spoils goes to God, the messenger, kin, orphans, the poor and the wayfarer
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا
-    عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s portion goes to the dependent: wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl
-    vs wᵉhallēwî ... wᵉhaggēr wᵉhayyātôm wᵉhāʾalmānāh ... wᵉʾākᵉlû wᵉśābēʿû. The orphan (yatīm = yātôm)
-    is in both; Deut''s Levite and widow correspond to Q''s kin of the messenger and the poor, and the
-    traveller to the stranger. The source differs: the third-year tithe in Deut, war booty in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fifth of all spoils goes to God, the messenger, kin, orphans,
     the poor and the wayfarer (weight 6.7). Pair score 6.7.'
@@ -76,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A fifth of all spoils goes to God, the messenger, kin, orphans, the poor and the wayfarer
+kinds:
+- echo
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-8-fifth-and-badr-vision
+  title: The fifth of the spoils, the dream of few, Satan's desertion
+  tradition: islam
+matches:
+- kind: echo
+  label: A fifth of all spoils goes to God, the messenger, kin, orphans, the poor and the wayfarer
+  note: 'God''s portion goes to the dependent: wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl
+    vs wᵉhallēwî ... wᵉhaggēr wᵉhayyātôm wᵉhāʾalmānāh ... wᵉʾākᵉlû wᵉśābēʿû. The orphan (yatīm = yātôm)
+    is in both; Deut''s Levite and widow correspond to Q''s kin of the messenger and the poor, and the
+    traveller to the stranger. The source differs: the third-year tithe in Deut, war booty in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:29
+      lang: he
+      text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
+        אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
+        יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:41
+      lang: ar
+      text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ
+        وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

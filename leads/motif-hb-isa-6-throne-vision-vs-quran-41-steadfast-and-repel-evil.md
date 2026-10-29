@@ -2,7 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-41-steadfast-and-repel-evil
 title: The throne vision and the call of Isaiah ↔ Angels descend on the steadfast; repel evil with good;
   signs on the horizons
-summary: 'These two units share 1 motifs: those with god glorify him night and day without tiring.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - angels-praise-unceasingly
-passages:
-- tradition: judaism
-  ref: Isa 6:3
-  note: 'Those with God glorify him night and day without tiring (Heavenly beings praising God: wə-qārāʾ
-    zeh ʾel zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš YHWH ṣəḇāʾôṯ vs. fa-lladhīna ʿinda rabbika yusabbiḥūna lahu
-    bi-l-layli wa-n-nahāri wa-hum lā yasʾamūn. Isaiah''s seraphim cry to one another; the Quran''s ''those
-    with your Lord'' praise night and day without weariness, set against men who are too proud (istakbarū)
-    to prostrate. Unceasing praise is not stated in Isa 6; cf. 1 Enoch 39:12-13, Rev 4:8.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְקָרָ֨א זֶ֤ה אֶל זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ קָד֛וֹשׁ קָד֖וֹשׁ יְהוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל הָאָ֖רֶץ
-    כְּבוֹדֽוֹ
-- tradition: islam
-  ref: Quran 41:38
-  note: Those with God glorify him night and day without tiring
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ وَهُمْ
-    لَا يَسْـَٔمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Heavenly beings praising God: wə-qārāʾ zeh ʾel zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš YHWH ṣəḇāʾôṯ vs.
-    fa-lladhīna ʿinda rabbika yusabbiḥūna lahu bi-l-layli wa-n-nahāri wa-hum lā yasʾamūn. Isaiah''s seraphim
-    cry to one another; the Quran''s ''those with your Lord'' praise night and day without weariness,
-    set against men who are too proud (istakbarū) to prostrate. Unceasing praise is not stated in Isa
-    6; cf. 1 Enoch 39:12-13, Rev 4:8.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those with God glorify him night and day without tiring (weight
     6.3). Pair score 6.3.'
@@ -77,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those with God glorify him night and day without tiring
+kinds:
+- echo
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-41-steadfast-and-repel-evil
+  title: Angels descend on the steadfast; repel evil with good; signs on the horizons
+  tradition: islam
+matches:
+- kind: echo
+  label: Those with God glorify him night and day without tiring
+  note: 'Heavenly beings praising God: wə-qārāʾ zeh ʾel zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš YHWH ṣəḇāʾôṯ vs.
+    fa-lladhīna ʿinda rabbika yusabbiḥūna lahu bi-l-layli wa-n-nahāri wa-hum lā yasʾamūn. Isaiah''s seraphim
+    cry to one another; the Quran''s ''those with your Lord'' praise night and day without weariness,
+    set against men who are too proud (istakbarū) to prostrate. Unceasing praise is not stated in Isa
+    6; cf. 1 Enoch 39:12-13, Rev 4:8.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:3
+      lang: he
+      text: וְקָרָ֨א זֶ֤ה אֶל זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ קָד֛וֹשׁ קָד֖וֹשׁ יְהוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל הָאָ֖רֶץ
+        כְּבוֹדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:38
+      lang: ar
+      text: فَإِنِ ٱسْتَكْبَرُوا۟ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيْلِ وَٱلنَّهَارِ
+        وَهُمْ لَا يَسْـَٔمُونَ
 ---
 
 ## Questions

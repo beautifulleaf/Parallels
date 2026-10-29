@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-22-abraham-house-pilgrimage
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ Abraham, the Ancient House and
   the rites of pilgrimage and sacrifice
-summary: 'These two units share 1 motifs: three annual pilgrimage festivals when every male appears before
-  god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 34:18
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
-    חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
-- tradition: judaism
-  ref: Exod 34:22
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה
-- tradition: islam
-  ref: Quran 22:27
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. bi-l-ḥajji ~ ḥag šāvuʿōt ... wə-ḥag hā-ʾāsîp ... šālōš pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā:
-    the same festival-pilgrimage term (ḥag / ḥajj); see the note on Exod 23 for the differences.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Three annual pilgrimage festivals when every male appears before
     God (weight 5.3). Pair score 5.3.'
@@ -88,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Three annual pilgrimage festivals when every male appears before God
+kinds:
+- parallel
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: parallel
+  label: Three annual pilgrimage festivals when every male appears before God
+  note: 'bi-l-ḥajji ~ ḥag šāvuʿōt ... wə-ḥag hā-ʾāsîp ... šālōš pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā: the
+    same festival-pilgrimage term (ḥag / ḥajj); see the note on Exod 23 for the differences.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:22
+      lang: he
+      text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת
+        הַשָּׁנָֽה
+    - ref: Exod 34:23
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+        יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
 ---
 
 ## Questions

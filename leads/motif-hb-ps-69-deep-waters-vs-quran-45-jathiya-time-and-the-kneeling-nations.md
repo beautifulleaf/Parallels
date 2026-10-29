@@ -2,8 +2,7 @@
 id: motif-hb-ps-69-deep-waters-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Psalm 69, the waters have come up to my neck; gall and vinegar ↔ Desire as god, 'only Time destroys
   us', and every nation kneeling before its book
-summary: 'These two units share 2 motifs: what god''s heavenly book records: names or deeds [divergence
-  between the texts], god keeps a book in which names are written and from which sinners are blotted.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,52 +15,9 @@ layers:
 motifs:
 - contents-of-heavenly-book-as-divergence
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 69:29
-  note: 'What God''s heavenly book records: names or deeds [divergence between the texts] (What the heavenly
-    book holds. Ps 69: yimmāḥû mis-sēp̄er ḥayyîm wə-ʿim ṣaddîqîm ʾal yikkāṯēḇû (blotted out of the book
-    of the living, names). Quran: innā kunnā nastansikhu mā kuntum taʿmalūn (a transcript of deeds). A
-    register of names becomes a ledger of acts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 45:29
-  note: 'What God''s heavenly book records: names or deeds [divergence between the texts] (What the heavenly
-    book holds. Ps 69: yimmāḥû mis-sēp̄er ḥayyîm wə-ʿim ṣaddîqîm ʾal yikkāṯēḇû (blotted out of the book
-    of the living, names). Quran: innā kunnā nastansikhu mā kuntum taʿmalūn (a transcript of deeds). A
-    register of names becomes a ledger of acts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
-- tradition: judaism
-  ref: Ps 69:29
-  note: God keeps a book in which names are written and from which sinners are blotted (yimmahu mi-sefer
-    hayyim ve-im tsaddiqim al yikkatevu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 45:28
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
-    مَا كُنتُمْ تَعْمَلُونَ
-- tradition: islam
-  ref: Quran 45:29
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. What the heavenly book holds. Ps 69: yimmāḥû mis-sēp̄er ḥayyîm wə-ʿim ṣaddîqîm ʾal yikkāṯēḇû
-    (blotted out of the book of the living, names). Quran: innā kunnā nastansikhu mā kuntum taʿmalūn (a
-    transcript of deeds). A register of names becomes a ledger of acts.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God''s heavenly book records: names or deeds [divergence between
     the texts] (weight 6.7); God keeps a book in which names are written and from which sinners are blotted
@@ -101,6 +57,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What God''s heavenly book records: names or deeds'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-69-deep-waters
+  title: Psalm 69, the waters have come up to my neck; gall and vinegar
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What God''s heavenly book records: names or deeds'
+  note: 'What the heavenly book holds. Ps 69: yimmāḥû mis-sēp̄er ḥayyîm wə-ʿim ṣaddîqîm ʾal yikkāṯēḇû
+    (blotted out of the book of the living, names). Quran: innā kunnā nastansikhu mā kuntum taʿmalūn (a
+    transcript of deeds). A register of names becomes a ledger of acts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:29
+      lang: ar
+      text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+- kind: shared
+  label: God keeps a book in which names are written and from which sinners are blotted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+    note: yimmahu mi-sefer hayyim ve-im tsaddiqim al yikkatevu
+  - tradition: islam
+    passages:
+    - ref: Quran 45:28
+      lang: ar
+      text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
+        مَا كُنتُمْ تَعْمَلُونَ
+    - ref: Quran 45:29
+      lang: ar
+      text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+    note: a ledger of deeds rather than of names
 ---
 
 ## Questions

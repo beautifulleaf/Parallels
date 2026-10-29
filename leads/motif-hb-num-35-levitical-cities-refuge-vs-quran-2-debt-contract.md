@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-35-levitical-cities-refuge-vs-quran-2-debt-contract
 title: Levitical cities, cities of refuge and the law of homicide ↔ The debt verse
-summary: 'These two units share 1 motifs: no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,35 +13,9 @@ layers:
 - motif
 motifs:
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Num 35:30
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
-    לָמֽוּת
-- tradition: islam
-  ref: Quran 2:282
-  note: No one put to death on the testimony of a single witness (two witnesses for a contract)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ
-    وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ ٱللَّهُ
-    فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا يَبْخَسْ مِنْهُ
-    شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ
-    هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ
-    يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا
-    فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟
-    أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ
-    لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا
-    بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا
-    يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ
-    ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 35:30 lĕ-pî ʿēdîm ... wĕ-ʿēd ʾeḥād lōʾ yaʿăneh bĕ-nepeš: plural witnesses for homicide;
-    Q 2:282 shahīdayni: two witnesses for a loan.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one put to death on the testimony of a single witness (weight
     5.4). Pair score 5.4.'
@@ -70,6 +44,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one put to death on the testimony of a single witness
+kinds:
+- echo
+units:
+- id: hb-num-35-levitical-cities-refuge
+  title: Levitical cities, cities of refuge and the law of homicide
+  tradition: judaism
+- id: quran-2-debt-contract
+  title: The debt verse
+  tradition: islam
+matches:
+- kind: echo
+  label: No one put to death on the testimony of a single witness
+  note: 'Num 35:30 lĕ-pî ʿēdîm ... wĕ-ʿēd ʾeḥād lōʾ yaʿăneh bĕ-nepeš: plural witnesses for homicide; Q
+    2:282 shahīdayni: two witnesses for a loan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 35:30
+      lang: he
+      text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
+        לָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:282
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَٱكْتُبُوهُ
+        وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌۢ بِٱلْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ
+        ٱللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا
+        يَبْخَسْ مِنْهُ شَيْـًٔا فَإِن كَانَ ٱلَّذِى عَلَيْهِ ٱلْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا
+        يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُۥ بِٱلْعَدْلِ وَٱسْتَشْهِدُوا۟ شَهِيدَيْنِ
+        مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَٱمْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ
+        ٱلشُّهَدَآءِ أَن تَضِلَّ إِحْدَىٰهُمَا فَتُذَكِّرَ إِحْدَىٰهُمَا ٱلْأُخْرَىٰ وَلَا يَأْبَ ٱلشُّهَدَآءُ
+        إِذَا مَا دُعُوا۟ وَلَا تَسْـَٔمُوٓا۟ أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰٓ أَجَلِهِۦ
+        ذَٰلِكُمْ أَقْسَطُ عِندَ ٱللَّهِ وَأَقْوَمُ لِلشَّهَٰدَةِ وَأَدْنَىٰٓ أَلَّا تَرْتَابُوٓا۟ إِلَّآ
+        أَن تَكُونَ تِجَٰرَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا
+        وَأَشْهِدُوٓا۟ إِذَا تَبَايَعْتُمْ وَلَا يُضَآرَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا۟ فَإِنَّهُۥ
+        فُسُوقٌۢ بِكُمْ وَٱتَّقُوا۟ ٱللَّهَ وَيُعَلِّمُكُمُ ٱللَّهُ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

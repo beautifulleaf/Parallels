@@ -2,7 +2,7 @@
 id: motif-hb-gen-14-war-of-kings-melchizedek-vs-quran-87-most-high
 title: 'War of the four kings, rescue of Lot, Melchizedek ↔ The Most High: the scrolls of Abraham and
   Moses'
-summary: 'These two units share 1 motifs: god most high (el elyon), creator/possessor of heaven and earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - el-elyon-creator
-passages:
-- tradition: judaism
-  ref: Gen 14:19
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (qoneh shamayim wa-arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 14:20
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (qoneh shamayim wa-arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל
-- tradition: islam
-  ref: Quran 87:1
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
-- tradition: islam
-  ref: Quran 87:2
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. rabbika l-aʿlā lladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾēl ʿElyôn qōnēh šāmayim
-    wā-ʾāreṣ: the Most High as creator. In Genesis a title used by the priest-king of Salem; in the Quran
-    the Prophet''s own Lord.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
     (weight 5.8). Pair score 5.8.'
@@ -71,6 +42,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God Most High (El Elyon), creator/possessor of heaven and earth
+kinds:
+- echo
+units:
+- id: hb-gen-14-war-of-kings-melchizedek
+  title: War of the four kings, rescue of Lot, Melchizedek
+  tradition: judaism
+- id: quran-87-most-high
+  title: 'The Most High: the scrolls of Abraham and Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: God Most High (El Elyon), creator/possessor of heaven and earth
+  note: 'rabbika l-aʿlā lladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾēl ʿElyôn qōnēh šāmayim wā-ʾāreṣ:
+    the Most High as creator. In Genesis a title used by the priest-king of Salem; in the Quran the Prophet''s
+    own Lord.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 14:19
+      lang: he
+      text: וַֽיְבָרְכֵ֖הוּ וַיֹּאמַ֑ר בָּר֤וּךְ אַבְרָם֙ לְאֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ
+    - ref: Gen 14:20
+      lang: he
+      text: וּבָרוּךְ֙ אֵ֣ל עֶלְי֔וֹן אֲשֶׁר מִגֵּ֥ן צָרֶ֖יךָ בְּיָדֶ֑ךָ וַיִּתֶּן ל֥וֹ מַעֲשֵׂ֖ר מִכֹּֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 87:1
+      lang: ar
+      text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
+    - ref: Quran 87:2
+      lang: ar
+      text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+    - ref: Quran 87:3
+      lang: ar
+      text: وَٱلَّذِى قَدَّرَ فَهَدَىٰ
 ---
 
 ## Questions

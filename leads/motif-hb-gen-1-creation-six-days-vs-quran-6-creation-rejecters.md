@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-6-creation-rejecters
 title: Creation in six days and the seventh-day rest ↔ Darkness and light, clay and two terms, and those
   who would not believe
-summary: 'These two units share 1 motifs: whether darkness is made by god or exists before creation [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - origin-of-darkness-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 1:2
-  note: 'Whether darkness is made by God or exists before creation [divergence between the texts] (Gen:
-    wə-ḥōšekh ʿal-pənê təhôm already exists, God says yəhî ʾôr and then separates (wa-yyavdēl ... bên
-    hā-ʾôr û-vên ha-ḥōšekh). Only light is created. Q 6:1: jaʿala l-ẓulumāti wa-l-nūra, God made the darknesses
-    too (plural ẓulumāt, singular nūr). Darkness is put under creation, as in Isa 45:7, not left before
-    it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
-    עַל פְּנֵ֥י הַמָּֽיִם
-- tradition: judaism
-  ref: Gen 1:3
-  note: 'Whether darkness is made by God or exists before creation [divergence between the texts] (Gen:
-    wə-ḥōšekh ʿal-pənê təhôm already exists, God says yəhî ʾôr and then separates (wa-yyavdēl ... bên
-    hā-ʾôr û-vên ha-ḥōšekh). Only light is created. Q 6:1: jaʿala l-ẓulumāti wa-l-nūra, God made the darknesses
-    too (plural ẓulumāt, singular nūr). Darkness is put under creation, as in Isa 45:7, not left before
-    it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
-- tradition: islam
-  ref: Quran 6:1
-  note: 'Whether darkness is made by God or exists before creation [divergence between the texts] (Gen:
-    wə-ḥōšekh ʿal-pənê təhôm already exists, God says yəhî ʾôr and then separates (wa-yyavdēl ... bên
-    hā-ʾôr û-vên ha-ḥōšekh). Only light is created. Q 6:1: jaʿala l-ẓulumāti wa-l-nūra, God made the darknesses
-    too (plural ẓulumāt, singular nūr). Darkness is put under creation, as in Isa 45:7, not left before
-    it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ثُمَّ
-    ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Gen: wə-ḥōšekh ʿal-pənê təhôm already exists, God says yəhî ʾôr and then separates (wa-yyavdēl
-    ... bên hā-ʾôr û-vên ha-ḥōšekh). Only light is created. Q 6:1: jaʿala l-ẓulumāti wa-l-nūra, God made
-    the darknesses too (plural ẓulumāt, singular nūr). Darkness is put under creation, as in Isa 45:7,
-    not left before it.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether darkness is made by God or exists before creation [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether darkness is made by God or exists before creation
+kinds:
+- divergence
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-6-creation-rejecters
+  title: Darkness and light, clay and two terms, and those who would not believe
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether darkness is made by God or exists before creation
+  note: 'Gen: wə-ḥōšekh ʿal-pənê təhôm already exists, God says yəhî ʾôr and then separates (wa-yyavdēl
+    ... bên hā-ʾôr û-vên ha-ḥōšekh). Only light is created. Q 6:1: jaʿala l-ẓulumāti wa-l-nūra, God made
+    the darknesses too (plural ẓulumāt, singular nūr). Darkness is put under creation, as in Isa 45:7,
+    not left before it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:2
+      lang: he
+      text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
+        עַל פְּנֵ֥י הַמָּֽיִם
+    - ref: Gen 1:3
+      lang: he
+      text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+    - ref: Gen 1:4
+      lang: he
+      text: וַיַּ֧רְא אֱלֹהִ֛ים אֶת הָא֖וֹר כִּי ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:1
+      lang: ar
+      text: ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ
+        ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ
 ---
 
 ## Questions

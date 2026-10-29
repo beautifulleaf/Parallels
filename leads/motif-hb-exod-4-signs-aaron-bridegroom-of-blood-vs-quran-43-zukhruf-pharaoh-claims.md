@@ -2,9 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses before
   Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 2 motifs: moses'' difficulty of speech, pleaded by himself or thrown at
-  him [divergence between the texts], prophet protests he is heavy of mouth and tongue or ''uncircumcised
-  of lips''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,54 +15,9 @@ layers:
 motifs:
 - moses-speech-impediment-as-divergence
 - prophet-slow-of-speech
-passages:
-- tradition: judaism
-  ref: Exod 4:10
-  note: 'Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence between the texts]
-    (Moses'' speech defect, told by a different speaker. Exodus: Moses says it of himself to God: lōʾ
-    ʾîš dəḇārîm ʾānōḵî ... kî ḵəḇaḏ peh û-ḵəḇaḏ lāšôn ʾānōḵî. Quran: Pharaoh says it to mock him: am ana
-    khayrun min hādhā lladhī huwa mahīnun wa-lā yakādu yubīn. A humble excuse becomes the enemy''s taunt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
-    גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי
-- tradition: islam
-  ref: Quran 43:52
-  note: 'Moses'' difficulty of speech, pleaded by himself or thrown at him [divergence between the texts]
-    (Moses'' speech defect, told by a different speaker. Exodus: Moses says it of himself to God: lōʾ
-    ʾîš dəḇārîm ʾānōḵî ... kî ḵəḇaḏ peh û-ḵəḇaḏ lāšôn ʾānōḵî. Quran: Pharaoh says it to mock him: am ana
-    khayrun min hādhā lladhī huwa mahīnun wa-lā yakādu yubīn. A humble excuse becomes the enemy''s taunt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
-- tradition: judaism
-  ref: Exod 4:10
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (kevad peh u-khevad
-    lashon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
-    גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי
-- tradition: judaism
-  ref: Exod 4:13
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (kevad peh u-khevad
-    lashon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר בִּ֣י אֲדֹנָ֑י שְֽׁלַֽח נָ֖א בְּיַד תִּשְׁלָֽח
-- tradition: islam
-  ref: Quran 43:52
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' ('he can scarcely
-    make himself clear' (la yakadu yubin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Moses'' speech defect, told by a different speaker. Exodus: Moses says it of himself to
-    God: lōʾ ʾîš dəḇārîm ʾānōḵî ... kî ḵəḇaḏ peh û-ḵəḇaḏ lāšôn ʾānōḵî. Quran: Pharaoh says it to mock
-    him: am ana khayrun min hādhā lladhī huwa mahīnun wa-lā yakādu yubīn. A humble excuse becomes the
-    enemy''s taunt.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses'' difficulty of speech, pleaded by himself or thrown at him
     [divergence between the texts] (weight 6.7); Prophet protests he is heavy of mouth and tongue or ''uncircumcised
@@ -103,6 +56,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses' difficulty of speech, pleaded by himself or thrown at him
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Moses' difficulty of speech, pleaded by himself or thrown at him
+  note: 'Moses'' speech defect, told by a different speaker. Exodus: Moses says it of himself to God:
+    lōʾ ʾîš dəḇārîm ʾānōḵî ... kî ḵəḇaḏ peh û-ḵəḇaḏ lāšôn ʾānōḵî. Quran: Pharaoh says it to mock him:
+    am ana khayrun min hādhā lladhī huwa mahīnun wa-lā yakādu yubīn. A humble excuse becomes the enemy''s
+    taunt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:10
+      lang: he
+      text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
+        גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן
+        אָנֹֽכִי
+  - tradition: islam
+    passages:
+    - ref: Quran 43:52
+      lang: ar
+      text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
+- kind: shared
+  label: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:10
+      lang: he
+      text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
+        גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן
+        אָנֹֽכִי
+    - ref: Exod 4:13
+      lang: he
+      text: וַיֹּ֖אמֶר בִּ֣י אֲדֹנָ֑י שְֽׁלַֽח נָ֖א בְּיַד תִּשְׁלָֽח
+    note: kevad peh u-khevad lashon
+  - tradition: islam
+    passages:
+    - ref: Quran 43:52
+      lang: ar
+      text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
+    note: '''he can scarcely make himself clear'' (la yakadu yubin)'
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-44-dukhan-pharaoh-drowned
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses asks Pharaoh to hand over God''s servants;
   the sea left parted; heaven did not weep'
-summary: 'These two units share 1 motifs: the prophet seeks refuge in god from being stoned by his people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-seeks-refuge-from-stoning
-passages:
-- tradition: judaism
-  ref: Exod 8:22
-  note: 'The prophet seeks refuge in God from being stoned by his people (Moses fears stoning by the Egyptians:
-    hēn nizbaḥ ʾeṯ tôʿăḇaṯ miṣrayim lə-ʿênêhem wə-lōʾ yisqəlūnû vs. wa-innī ʿudhtu bi-rabbī wa-rabbikum
-    an tarjumūn. Exodus gives a cause (sacrificing what Egypt abhors); the Quran has Moses take refuge
-    in ''my Lord and your Lord'', a Lord he shares with the Egyptians.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֗ה לֹ֤א נָכוֹן֙ לַעֲשׂ֣וֹת כֵּ֔ן כִּ֚י תּוֹעֲבַ֣ת מִצְרַ֔יִם נִזְבַּ֖ח לַיהוָ֣ה
-    אֱלֹהֵ֑ינוּ הֵ֣ן נִזְבַּ֞ח אֶת תּוֹעֲבַ֥ת מִצְרַ֛יִם לְעֵינֵיהֶ֖ם וְלֹ֥א יִסְקְלֻֽנוּ
-- tradition: islam
-  ref: Quran 44:20
-  note: The prophet seeks refuge in God from being stoned by his people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Moses fears stoning by the Egyptians: hēn nizbaḥ ʾeṯ tôʿăḇaṯ miṣrayim lə-ʿênêhem wə-lōʾ
-    yisqəlūnû vs. wa-innī ʿudhtu bi-rabbī wa-rabbikum an tarjumūn. Exodus gives a cause (sacrificing what
-    Egypt abhors); the Quran has Moses take refuge in ''my Lord and your Lord'', a Lord he shares with
-    the Egyptians.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet seeks refuge in God from being stoned by his people
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet seeks refuge in God from being stoned by his people
+kinds:
+- parallel
+units:
+- id: hb-exod-8-plagues-flies-murrain-boils
+  title: 'Plagues 4-6: swarms, pestilence of livestock, boils'
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: parallel
+  label: The prophet seeks refuge in God from being stoned by his people
+  note: 'Moses fears stoning by the Egyptians: hēn nizbaḥ ʾeṯ tôʿăḇaṯ miṣrayim lə-ʿênêhem wə-lōʾ yisqəlūnû
+    vs. wa-innī ʿudhtu bi-rabbī wa-rabbikum an tarjumūn. Exodus gives a cause (sacrificing what Egypt
+    abhors); the Quran has Moses take refuge in ''my Lord and your Lord'', a Lord he shares with the Egyptians.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:22
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה לֹ֤א נָכוֹן֙ לַעֲשׂ֣וֹת כֵּ֔ן כִּ֚י תּוֹעֲבַ֣ת מִצְרַ֔יִם נִזְבַּ֖ח לַיהוָ֣ה
+        אֱלֹהֵ֑ינוּ הֵ֣ן נִזְבַּ֞ח אֶת תּוֹעֲבַ֥ת מִצְרַ֛יִם לְעֵינֵיהֶ֖ם וְלֹ֥א יִסְקְלֻֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:20
+      lang: ar
+      text: وَإِنِّى عُذْتُ بِرَبِّى وَرَبِّكُمْ أَن تَرْجُمُونِ
 ---
 
 ## Questions

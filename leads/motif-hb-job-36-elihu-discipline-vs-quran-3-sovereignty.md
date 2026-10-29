@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-36-elihu-discipline-vs-quran-3-sovereignty
 title: Elihu on God's justice and suffering as discipline ↔ Owner of sovereignty
-summary: 'These two units share 1 motifs: god gives justice to the poor and seats kings (or the lowly)
-  on the throne.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - god-exalts-kings-and-lowly
-passages:
-- tradition: judaism
-  ref: Job 36:6-7
-  note: God gives justice to the poor and seats kings (or the lowly) on the throne (God gives the poor
-    justice and seats kings on the throne forever)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (36:6) לֹא יְחַיֶּ֥ה רָשָׁ֑ע וּמִשְׁפַּ֖ט עֲנִיִּ֣ים יִתֵּֽן (36:7) לֹֽא יִגְרַ֥ע מִצַּדִּ֗יק
-    עֵ֫ינָ֥יו וְאֶת מְלָכִ֥ים לַכִּסֵּ֑א וַיֹּשִׁיבֵ֥ם לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ
-- tradition: judaism
-  ref: Job 36:7
-  note: God gives justice to the poor and seats kings (or the lowly) on the throne (God gives the poor
-    justice and seats kings on the throne forever)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יִגְרַ֥ע מִצַּדִּ֗יק עֵ֫ינָ֥יו וְאֶת מְלָכִ֥ים לַכִּסֵּ֑א וַיֹּשִׁיבֵ֥ם לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ
-- tradition: islam
-  ref: Quran 3:26
-  note: God gives justice to the poor and seats kings (or the lowly) on the throne
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ
-    وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Job 36:7 wĕ-ʾet mĕlākîm la-kkissēʾ wa-yyōšîbēm la-neṣaḥ wa-yyigbāhû: God seats kings on the
-    throne and they are exalted; Q 3:26 tuʾtī l-mulka man tashāʾu ... wa-tuʿizzu man tashāʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gives justice to the poor and seats kings (or the lowly) on
     the throne (weight 6.7). Pair score 6.7.'
@@ -65,6 +40,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gives justice to the poor and seats kings (or the lowly) on the throne
+kinds:
+- echo
+units:
+- id: hb-job-36-elihu-discipline
+  title: Elihu on God's justice and suffering as discipline
+  tradition: judaism
+- id: quran-3-sovereignty
+  title: Owner of sovereignty
+  tradition: islam
+matches:
+- kind: echo
+  label: God gives justice to the poor and seats kings (or the lowly) on the throne
+  note: 'Job 36:7 wĕ-ʾet mĕlākîm la-kkissēʾ wa-yyōšîbēm la-neṣaḥ wa-yyigbāhû: God seats kings on the throne
+    and they are exalted; Q 3:26 tuʾtī l-mulka man tashāʾu ... wa-tuʿizzu man tashāʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 36:7
+      lang: he
+      text: לֹֽא יִגְרַ֥ע מִצַּדִּ֗יק עֵ֫ינָ֥יו וְאֶת מְלָכִ֥ים לַכִּסֵּ֑א וַיֹּשִׁיבֵ֥ם לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:26
+      lang: ar
+      text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن
+        تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

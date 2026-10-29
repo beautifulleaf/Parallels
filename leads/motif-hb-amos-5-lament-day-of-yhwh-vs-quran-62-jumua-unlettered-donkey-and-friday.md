@@ -2,7 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-62-jumua-unlettered-donkey-and-friday
 title: 'Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Al-Jumu''a: the messenger
   among the unlettered, the donkey carrying books, wishing for death, and the Friday prayer'
-summary: 'These two units share 1 motifs: the death you flee from will surely meet you.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - death-you-flee-will-meet-you
-passages:
-- tradition: judaism
-  ref: Amos 5:19
-  note: 'The death you flee from will surely meet you (Fleeing doom only to meet it: kaʾăšer yānûs ʾîš
-    mip-pənê hā-ʾărî û-p̄əḡāʿô had-dōḇ ... û-nəšāḵô han-nāḥāš vs. inna l-mawta lladhī tafirrūna minhu
-    fa-innahu mulāqīkum. Amos''s image is the Day of YHWH; the Quran''s is death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּאֲשֶׁ֨ר יָנ֥וּס אִישׁ֙ מִפְּנֵ֣י הָאֲרִ֔י וּפְגָע֖וֹ הַדֹּ֑ב וּבָ֣א הַבַּ֔יִת וְסָמַ֤ךְ יָדוֹ֙
-    עַל הַקִּ֔יר וּנְשָׁכ֖וֹ הַנָּחָֽשׁ
-- tradition: islam
-  ref: Quran 62:8
-  note: The death you flee from will surely meet you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ثُمَّ تُرَدُّونَ إِلَىٰ
-    عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Fleeing doom only to meet it: kaʾăšer yānûs ʾîš mip-pənê hā-ʾărî û-p̄əḡāʿô had-dōḇ ... û-nəšāḵô
-    han-nāḥāš vs. inna l-mawta lladhī tafirrūna minhu fa-innahu mulāqīkum. Amos''s image is the Day of
-    YHWH; the Quran''s is death.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The death you flee from will surely meet you (weight 6.7). Pair
     score 6.7.'
@@ -76,6 +57,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The death you flee from will surely meet you
+kinds:
+- echo
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: echo
+  label: The death you flee from will surely meet you
+  note: 'Fleeing doom only to meet it: kaʾăšer yānûs ʾîš mip-pənê hā-ʾărî û-p̄əḡāʿô had-dōḇ ... û-nəšāḵô
+    han-nāḥāš vs. inna l-mawta lladhī tafirrūna minhu fa-innahu mulāqīkum. Amos''s image is the Day of
+    YHWH; the Quran''s is death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:19
+      lang: he
+      text: כַּאֲשֶׁ֨ר יָנ֥וּס אִישׁ֙ מִפְּנֵ֣י הָאֲרִ֔י וּפְגָע֖וֹ הַדֹּ֑ב וּבָ֣א הַבַּ֔יִת וְסָמַ֤ךְ
+        יָדוֹ֙ עַל הַקִּ֔יר וּנְשָׁכ֖וֹ הַנָּחָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 62:8
+      lang: ar
+      text: قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَٰقِيكُمْ ثُمَّ تُرَدُّونَ إِلَىٰ
+        عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

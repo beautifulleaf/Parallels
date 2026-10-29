@@ -2,9 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-75-resurrection
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ The resurrection: bones, fingertips and
   the collarbone'
-summary: 'These two units share 2 motifs: on that day man asks ''where to flee?'' but there is no refuge;
-  the destination is with god, god poured the embryo out like milk and curdled it like cheese, clothing
-  it with skin and flesh and knitting bones and sinews.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -18,68 +16,9 @@ layers:
 motifs:
 - no-refuge-on-judgment-day
 - embryo-curdled-like-cheese
-passages:
-- tradition: judaism
-  ref: Ps 139:7
-  note: On that day man asks 'where to flee?' but there is no refuge; the destination is with God (yaqūlu
-    l-insānu yawmaʾidhin ayna l-mafarr, kallā lā wazar, ilā rabbika yawmaʾidhini l-mustaqarr ~ ʾānāh ʾēlēk
-    mē-rûḥekā we-ʾānāh mi-ppānêkā ʾevrāḥ. Same question 'where can one flee?'; in the Psalm a confession
-    of God's presence everywhere, in the Quran the panic of the Day.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
-- tradition: islam
-  ref: Quran 75:10
-  note: On that day man asks 'where to flee?' but there is no refuge; the destination is with God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ
-- tradition: islam
-  ref: Quran 75:11
-  note: On that day man asks 'where to flee?' but there is no refuge; the destination is with God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّا لَا وَزَرَ
-- tradition: judaism
-  ref: Ps 139:13-16
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (Parallel theme of divine embryology (Job 10:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (139:13) כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי (139:14) אֽוֹדְךָ֗
-    עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד (139:15) לֹא
-    נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת אָֽרֶץ (139:16)
-    גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ אֶחָ֣ד
-    בָּהֶֽם
-- tradition: judaism
-  ref: Ps 139:13
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (Parallel theme of divine embryology (Job 10:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: islam
-  ref: Quran 75:37
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (drop of emitted semen, then a clot, then shaped and proportioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
-- tradition: islam
-  ref: Quran 75:38
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (drop of emitted semen, then a clot, then shaped and proportioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. yaqūlu l-insānu yawmaʾidhin ayna l-mafarr, kallā lā wazar, ilā rabbika yawmaʾidhini l-mustaqarr
-    ~ ʾānāh ʾēlēk mē-rûḥekā we-ʾānāh mi-ppānêkā ʾevrāḥ. Same question ''where can one flee?''; in the
-    Psalm a confession of God''s presence everywhere, in the Quran the panic of the Day. a-lam yaku nuṭfatan
-    min maniyyin yumnā, thumma kāna ʿalaqatan fa-khalaqa fa-sawwā ~ tesukkēnî be-veṭen ʾimmî ... ruqqamtî
-    be-taḥtiyyôt ʾāreṣ, golmî rāʾû ʿênêkā. God shapes the embryo; the Quran names the stages (nuṭfa, ʿalaqa),
-    the Psalm speaks of weaving and the unformed golem.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day man asks ''where to flee?'' but there is no refuge;
     the destination is with God (weight 6.3); God poured the embryo out like milk and curdled it like
@@ -119,6 +58,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day man asks 'where to flee?' but there is no refuge; the destination is with God
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-75-resurrection
+  title: 'The resurrection: bones, fingertips and the collarbone'
+  tradition: islam
+matches:
+- kind: parallel
+  label: On that day man asks 'where to flee?' but there is no refuge; the destination is with God
+  note: yaqūlu l-insānu yawmaʾidhin ayna l-mafarr, kallā lā wazar, ilā rabbika yawmaʾidhini l-mustaqarr
+    ~ ʾānāh ʾēlēk mē-rûḥekā we-ʾānāh mi-ppānêkā ʾevrāḥ. Same question 'where can one flee?'; in the Psalm
+    a confession of God's presence everywhere, in the Quran the panic of the Day.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:7
+      lang: he
+      text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 75:10
+      lang: ar
+      text: يَقُولُ ٱلْإِنسَٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ
+    - ref: Quran 75:11
+      lang: ar
+      text: كَلَّا لَا وَزَرَ
+    - ref: Quran 75:12
+      lang: ar
+      text: إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ
+- kind: parallel
+  label: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
+    and knitting bones and sinews
+  note: a-lam yaku nuṭfatan min maniyyin yumnā, thumma kāna ʿalaqatan fa-khalaqa fa-sawwā ~ tesukkēnî
+    be-veṭen ʾimmî ... ruqqamtî be-taḥtiyyôt ʾāreṣ, golmî rāʾû ʿênêkā. God shapes the embryo; the Quran
+    names the stages (nuṭfa, ʿalaqa), the Psalm speaks of weaving and the unformed golem.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 75:37
+      lang: ar
+      text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
+    - ref: Quran 75:38
+      lang: ar
+      text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
 ---
 
 ## Questions

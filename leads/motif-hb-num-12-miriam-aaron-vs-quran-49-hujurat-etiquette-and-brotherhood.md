@@ -2,8 +2,7 @@
 id: motif-hb-num-12-miriam-aaron-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Miriam and Aaron speak against Moses ↔ Al-Hujurat: lowering voices, verifying reports, reconciling
   believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: believers must not put themselves before god and his messenger,
-  nor raise their voices above the prophet''s or shout to him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - do-not-raise-voice-above-prophet
-passages:
-- tradition: judaism
-  ref: Num 12:8
-  note: 'Believers must not put themselves before God and his messenger, nor raise their voices above
-    the prophet''s or shout to him (Speaking against or over God''s prophet: û-maddûaʿ lōʾ yəreʾṯem lə-ḏabbēr
-    bə-ʿaḇdî ḇə-mōšeh vs. lā tarfaʿū aṣwātakum fawqa ṣawti n-nabiyyi ... an taḥbaṭa aʿmālukum. Miriam
-    is struck with skin disease; the believers risk losing their deeds.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
-    לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
-- tradition: islam
-  ref: Quran 49:1
-  note: Believers must not put themselves before God and his messenger, nor raise their voices above the
-    prophet's or shout to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُقَدِّمُوا۟ بَيْنَ يَدَىِ ٱللَّهِ وَرَسُولِهِۦ وَٱتَّقُوا۟
-    ٱللَّهَ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 49:2
-  note: Believers must not put themselves before God and his messenger, nor raise their voices above the
-    prophet's or shout to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ وَلَا
-    تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ لَا
-    تَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Speaking against or over God''s prophet: û-maddûaʿ lōʾ yəreʾṯem lə-ḏabbēr bə-ʿaḇdî ḇə-mōšeh
-    vs. lā tarfaʿū aṣwātakum fawqa ṣawti n-nabiyyi ... an taḥbaṭa aʿmālukum. Miriam is struck with skin
-    disease; the believers risk losing their deeds.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers must not put themselves before God and his messenger,
     nor raise their voices above the prophet''s or shout to him (weight 6.7). Pair score 6.7.'
@@ -86,6 +55,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Believers must not put themselves before God and his messenger, nor raise their voices above
+  the prophet's or shout to him
+kinds:
+- echo
+units:
+- id: hb-num-12-miriam-aaron
+  title: Miriam and Aaron speak against Moses
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: Believers must not put themselves before God and his messenger, nor raise their voices above
+    the prophet's or shout to him
+  note: 'Speaking against or over God''s prophet: û-maddûaʿ lōʾ yəreʾṯem lə-ḏabbēr bə-ʿaḇdî ḇə-mōšeh vs.
+    lā tarfaʿū aṣwātakum fawqa ṣawti n-nabiyyi ... an taḥbaṭa aʿmālukum. Miriam is struck with skin disease;
+    the believers risk losing their deeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 12:8
+      lang: he
+      text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
+        לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 49:2
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَرْفَعُوٓا۟ أَصْوَٰتَكُمْ فَوْقَ صَوْتِ ٱلنَّبِىِّ
+        وَلَا تَجْهَرُوا۟ لَهُۥ بِٱلْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَن تَحْبَطَ أَعْمَٰلُكُمْ وَأَنتُمْ
+        لَا تَشْعُرُونَ
+    - ref: Quran 49:3
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يَغُضُّونَ أَصْوَٰتَهُمْ عِندَ رَسُولِ ٱللَّهِ أُو۟لَٰٓئِكَ ٱلَّذِينَ ٱمْتَحَنَ
+        ٱللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ لَهُم مَّغْفِرَةٌ وَأَجْرٌ عَظِيمٌ
 ---
 
 ## Questions

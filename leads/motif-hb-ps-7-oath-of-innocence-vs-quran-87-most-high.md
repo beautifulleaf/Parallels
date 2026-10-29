@@ -2,7 +2,7 @@
 id: motif-hb-ps-7-oath-of-innocence-vs-quran-87-most-high
 title: 'Psalm 7 - Shiggayon concerning Cush the Benjaminite ↔ The Most High: the scrolls of Abraham and
   Moses'
-summary: 'These two units share 1 motifs: god most high (el elyon), creator/possessor of heaven and earth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - el-elyon-creator
-passages:
-- tradition: judaism
-  ref: Ps 7:18
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (only the title YHWH Elyon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אוֹדֶ֣ה יְהוָ֣ה כְּצִדְק֑וֹ וַ֝אֲזַמְּרָ֗ה שֵֽׁם יְהוָ֥ה עֶלְיֽוֹן
-- tradition: islam
-  ref: Quran 87:1
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
-- tradition: islam
-  ref: Quran 87:2
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. sabbiḥi sma rabbika l-aʿlā ~ wa-ʾăzammerāh šēm YHWH ʿElyôn: praise of ''the name'' of the
-    Lord ''Most High'' (al-aʿlā ~ ʿelyôn).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
     (weight 5.8). Pair score 5.8.'
@@ -69,6 +47,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God Most High (El Elyon), creator/possessor of heaven and earth
+kinds:
+- parallel
+units:
+- id: hb-ps-7-oath-of-innocence
+  title: Psalm 7 - Shiggayon concerning Cush the Benjaminite
+  tradition: judaism
+- id: quran-87-most-high
+  title: 'The Most High: the scrolls of Abraham and Moses'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God Most High (El Elyon), creator/possessor of heaven and earth
+  note: 'sabbiḥi sma rabbika l-aʿlā ~ wa-ʾăzammerāh šēm YHWH ʿElyôn: praise of ''the name'' of the Lord
+    ''Most High'' (al-aʿlā ~ ʿelyôn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 7:18
+      lang: he
+      text: אוֹדֶ֣ה יְהוָ֣ה כְּצִדְק֑וֹ וַ֝אֲזַמְּרָ֗ה שֵֽׁם יְהוָ֥ה עֶלְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 87:1
+      lang: ar
+      text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
 ---
 
 ## Questions

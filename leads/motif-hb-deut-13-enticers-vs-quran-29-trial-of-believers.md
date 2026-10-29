@@ -2,8 +2,7 @@
 id: motif-hb-deut-13-enticers-vs-quran-29-trial-of-believers
 title: False prophet, enticing kin, and the apostate city ↔ Believers tested; parents and idolatry; the
   false offer to carry sins
-summary: 'These two units share 1 motifs: how to treat close kin who urge one to worship other gods [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - kin-who-urge-other-gods-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 13:7
-  note: 'How to treat close kin who urge one to worship other gods [divergence between the texts] (Close
-    kin who press one to other gods: Deut lists brother, son, daughter, wife and friend (but not parents),
-    kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô wə-lōʾ tišmaʿ ʾēlāyw
-    wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in jāhadāka li-tushrika
-    bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness to them (bi-wālidayhi
-    ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution becomes refusal plus
-    continued kindness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
-    רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁר֙
-    לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
-- tradition: judaism
-  ref: Deut 13:9
-  note: 'How to treat close kin who urge one to worship other gods [divergence between the texts] (Close
-    kin who press one to other gods: Deut lists brother, son, daughter, wife and friend (but not parents),
-    kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô wə-lōʾ tišmaʿ ʾēlāyw
-    wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in jāhadāka li-tushrika
-    bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness to them (bi-wālidayhi
-    ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution becomes refusal plus
-    continued kindness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל וְלֹֽא
-    תְכַסֶּ֖ה עָלָֽיו
-- tradition: islam
-  ref: Quran 29:8
-  note: 'How to treat close kin who urge one to worship other gods [divergence between the texts] (Close
-    kin who press one to other gods: Deut lists brother, son, daughter, wife and friend (but not parents),
-    kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô wə-lōʾ tišmaʿ ʾēlāyw
-    wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in jāhadāka li-tushrika
-    bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness to them (bi-wālidayhi
-    ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution becomes refusal plus
-    continued kindness.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حُسْنًا وَإِن جَٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ
-    بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Close kin who press one to other gods: Deut lists brother, son, daughter, wife and friend
-    (but not parents), kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô
-    wə-lōʾ tišmaʿ ʾēlāyw wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in
-    jāhadāka li-tushrika bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness
-    to them (bi-wālidayhi ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution
-    becomes refusal plus continued kindness.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How to treat close kin who urge one to worship other gods [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -97,6 +50,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How to treat close kin who urge one to worship other gods
+kinds:
+- divergence
+units:
+- id: hb-deut-13-enticers
+  title: False prophet, enticing kin, and the apostate city
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: divergence
+  label: How to treat close kin who urge one to worship other gods
+  note: 'Close kin who press one to other gods: Deut lists brother, son, daughter, wife and friend (but
+    not parents), kî yəsîtəkhā ... nēlkhâ wə-naʿavdâ ʾĕlōhîm ʾăḥērîm, and commands lōʾ tōʾveh lô wə-lōʾ
+    tišmaʿ ʾēlāyw wə-lōʾ tāḥôs ... kî hārōg tahargennû. The Quran names exactly the parents, wa-in jāhadāka
+    li-tushrika bī ... fa-lā tuṭiʿhumā: do not obey them, but the same verse enjoins kindness to them
+    (bi-wālidayhi ḥusnan) and leaves judgment to God (ilayya marjiʿukum). Refusal plus execution becomes
+    refusal plus continued kindness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 13:7
+      lang: he
+      text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
+        רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים
+        אֲשֶׁר֙ לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
+    - ref: Deut 13:9
+      lang: he
+      text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל
+        וְלֹֽא תְכַסֶּ֖ה עָלָֽיו
+    - ref: Deut 13:10
+      lang: he
+      text: כִּ֤י הָרֹג֙ תַּֽהַרְגֶ֔נּוּ יָֽדְךָ֛ תִּֽהְיֶה בּ֥וֹ בָרִֽאשׁוֹנָ֖ה לַהֲמִית֑וֹ וְיַ֥ד כָּל
+        הָעָ֖ם בָּאַחֲרֹנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 29:8
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حُسْنًا وَإِن جَٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ
+        لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

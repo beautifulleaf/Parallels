@@ -2,8 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-2-polemic-israel
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Polemic with the People of the
   Book
-summary: 'These two units share 3 motifs: people of the book cast god''s book behind their backs, israel
-  killed the prophets who warned them, people make a molten calf while the leader is on the mountain.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -18,85 +17,9 @@ motifs:
 - scripture-cast-behind-backs
 - prophets-killed-by-israel
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Neh 9:26
-  note: People of the Book cast God's book behind their backs (Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê
-    gawwām 'they cast your Torah behind their backs' (Israel's own confession); Q 2:41-42 lā tashtarū
-    bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqqa, said to the Children of Israel. The exact image
-    'behind their backs' is the Quran's at 3:187 and 2:101.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 2:101
-  note: People of the Book cast God's book behind their backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَهُمْ رَسُولٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ
-    ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Neh 9:26
-  note: Israel killed the prophets who warned them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 2:87
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ وَءَاتَيْنَا عِيسَى
-    ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ بِمَا
-    لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ
-- tradition: islam
-  ref: Quran 2:91
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا
-    وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ قُلْ فَلِمَ تَقْتُلُونَ
-    أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Neh 9:18
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֗ף כִּֽי עָשׂ֤וּ לָהֶם֙ עֵ֣גֶל מַסֵּכָ֔ה וַיֹּ֣אמְר֔וּ זֶ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֥ר הֶעֶלְךָ֖ מִמִּצְרָ֑יִם
-    וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדֹלֽוֹת
-- tradition: judaism
-  ref: Neh 9:17
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמָאֲנ֣וּ לִשְׁמֹ֗עַ וְלֹא זָכְר֤וּ נִפְלְאֹתֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ עִמָּהֶ֔ם וַיַּקְשׁוּ֙
-    אֶת עָרְפָּ֔ם וַיִּתְּנוּ רֹ֛אשׁ לָשׁ֥וּב לְעַבְדֻתָ֖ם בְּמִרְיָ֑ם וְאַתָּה֩ אֱל֨וֹהַּ סְלִיח֜וֹת
-    חַנּ֧וּן וְרַח֛וּם אֶֽרֶךְ אַפַּ֥יִם וְרַב וחסד חֶ֖סֶד וְלֹ֥א עֲזַבְתָּֽם
-- tradition: islam
-  ref: Quran 2:92
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
-    ظَٰلِمُونَ
-- tradition: islam
-  ref: Quran 2:93
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 2:87 fa-farīqan kadhdhabtum wa-farīqan taqtulūn, 2:91
-    fa-li-ma taqtulūna anbiyāʾa llāhi min qablu. Same image: Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê
-    gawwām ''they cast your Torah behind their back''; Q 2:101 nabadha farīqun mina lladhīna ūtū l-kitāba
-    kitāba llāhi warāʾa ẓuhūrihim ''a party of those given the Book cast God''s Book behind their backs''.
-    In Nehemiah, Israel''s own confession of the past; in the Quran, a charge about the present, rejecting
-    the new messenger.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8);
     Israel killed the prophets who warned them (weight 5.1); People make a molten calf while the leader
@@ -131,6 +54,90 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel killed the prophets who warned them
+kinds:
+- parallel
+- shared
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel killed the prophets who warned them
+  note: Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 2:87 fa-farīqan kadhdhabtum wa-farīqan taqtulūn, 2:91 fa-li-ma
+    taqtulūna anbiyāʾa llāhi min qablu.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:87
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ وَءَاتَيْنَا
+        عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ أَفَكُلَّمَا جَآءَكُمْ رَسُولٌۢ
+        بِمَا لَا تَهْوَىٰٓ أَنفُسُكُمُ ٱسْتَكْبَرْتُمْ فَفَرِيقًا كَذَّبْتُمْ وَفَرِيقًا تَقْتُلُونَ
+    - ref: Quran 2:91
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا
+        وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا مَعَهُمْ قُلْ فَلِمَ تَقْتُلُونَ
+        أَنۢبِيَآءَ ٱللَّهِ مِن قَبْلُ إِن كُنتُم مُّؤْمِنِينَ
+- kind: parallel
+  label: People of the Book cast God's book behind their backs
+  note: 'Same image: Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām ''they cast your Torah behind their
+    back''; Q 2:101 nabadha farīqun mina lladhīna ūtū l-kitāba kitāba llāhi warāʾa ẓuhūrihim ''a party
+    of those given the Book cast God''s Book behind their backs''. In Nehemiah, Israel''s own confession
+    of the past; in the Quran, a charge about the present, rejecting the new messenger.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:101
+      lang: ar
+      text: وَلَمَّا جَآءَهُمْ رَسُولٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ نَبَذَ فَرِيقٌ مِّنَ
+        ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمْ كَأَنَّهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:18
+      lang: he
+      text: אַ֗ף כִּֽי עָשׂ֤וּ לָהֶם֙ עֵ֣גֶל מַסֵּכָ֔ה וַיֹּ֣אמְר֔וּ זֶ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֥ר הֶעֶלְךָ֖
+        מִמִּצְרָ֑יִם וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדֹלֽוֹת
+    - ref: Neh 9:17
+      lang: he
+      text: וַיְמָאֲנ֣וּ לִשְׁמֹ֗עַ וְלֹא זָכְר֤וּ נִפְלְאֹתֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ עִמָּהֶ֔ם וַיַּקְשׁוּ֙
+        אֶת עָרְפָּ֔ם וַיִּתְּנוּ רֹ֛אשׁ לָשׁ֥וּב לְעַבְדֻתָ֖ם בְּמִרְיָ֑ם וְאַתָּה֩ אֱל֨וֹהַּ סְלִיח֜וֹת
+        חַנּ֧וּן וְרַח֛וּם אֶֽרֶךְ אַפַּ֥יִם וְרַב וחסד חֶ֖סֶד וְלֹ֥א עֲזַבְתָּֽם
+    - ref: Neh 9:19
+      lang: he
+      text: וְאַתָּה֙ בְּרַחֲמֶ֣יךָ הָֽרַבִּ֔ים לֹ֥א עֲזַבְתָּ֖ם בַּמִּדְבָּ֑ר אֶת עַמּ֣וּד הֶ֠עָנָן לֹא
+        סָ֨ר מֵעֲלֵיהֶ֤ם בְּיוֹמָם֙ לְהַנְחֹתָ֣ם בְּהַדֶּ֔רֶךְ וְאֶת עַמּ֨וּד הָאֵ֤שׁ בְּלַ֨יְלָה֙ לְהָאִ֣יר
+        לָהֶ֔ם וְאֶת הַדֶּ֖רֶךְ אֲשֶׁ֥ר יֵֽלְכוּ בָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:92
+      lang: ar
+      text: وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
+        ظَٰلِمُونَ
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

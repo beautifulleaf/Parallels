@@ -2,7 +2,7 @@
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-65-talaq-divorce-and-seven-earths
 title: 'Graduated purification offering and the guilt (asham) offering ↔ Al-Talaq: divorce and the waiting
   period, two witnesses, nursing wages, and the seven heavens and earths'
-summary: 'These two units share 1 motifs: the offering is reduced for those who cannot afford it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - offering-scaled-to-means
-passages:
-- tradition: judaism
-  ref: Lev 5:7
-  note: The offering is reduced for those who cannot afford it (lamb, or two birds, or a tenth of an ephah
-    of flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
-    אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
-- tradition: judaism
-  ref: Lev 5:11
-  note: The offering is reduced for those who cannot afford it (lamb, or two birds, or a tenth of an ephah
-    of flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת קָרְבָּנ֜וֹ
-    אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙
-    לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
-- tradition: islam
-  ref: Quran 65:7
-  note: The offering is reduced for those who cannot afford it (maintenance scaled to means)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ
-    ٱللَّهُ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ يُسْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. li-yunfiq dhū saʿatin min saʿatihi wa-man qudira ʿalayhi rizquhu fa-l-yunfiq mimmā ātāhu llāh,
-    lā yukallifu llāhu nafsan illā mā ātāhā ~ we-ʾim lōʾ taggîaʿ yādô dê śeh ... šettê tōrîm. Same principle
-    of obligation scaled to means; Leviticus applies it to the sin offering, the Quran to child-support
-    of a divorcee.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The offering is reduced for those who cannot afford it (weight 6.3).
     Pair score 6.3.'
@@ -82,6 +54,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The offering is reduced for those who cannot afford it
+kinds:
+- echo
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-65-talaq-divorce-and-seven-earths
+  title: 'Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven heavens
+    and earths'
+  tradition: islam
+matches:
+- kind: echo
+  label: The offering is reduced for those who cannot afford it
+  note: li-yunfiq dhū saʿatin min saʿatihi wa-man qudira ʿalayhi rizquhu fa-l-yunfiq mimmā ātāhu llāh,
+    lā yukallifu llāhu nafsan illā mā ātāhā ~ we-ʾim lōʾ taggîaʿ yādô dê śeh ... šettê tōrîm. Same principle
+    of obligation scaled to means; Leviticus applies it to the sin offering, the Quran to child-support
+    of a divorcee.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:7
+      lang: he
+      text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
+        אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
+    - ref: Lev 5:11
+      lang: he
+      text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת
+        קָרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן
+        וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
+  - tradition: islam
+    passages:
+    - ref: Quran 65:7
+      lang: ar
+      text: لِيُنفِقْ ذُو سَعَةٍ مِّن سَعَتِهِۦ وَمَن قُدِرَ عَلَيْهِ رِزْقُهُۥ فَلْيُنفِقْ مِمَّآ ءَاتَىٰهُ
+        ٱللَّهُ لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا مَآ ءَاتَىٰهَا سَيَجْعَلُ ٱللَّهُ بَعْدَ عُسْرٍ
+        يُسْرًا
 ---
 
 ## Questions

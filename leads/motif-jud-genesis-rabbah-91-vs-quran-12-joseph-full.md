@@ -2,8 +2,7 @@
 id: motif-jud-genesis-rabbah-91-vs-quran-12-joseph-full
 title: Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5) ↔ Joseph and his brothers (Surah
   12, full read)
-summary: 'These two units share 2 motifs: father tells the sons to enter by separate gates, father refuses
-  at first to send the youngest.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,48 +16,7 @@ layers:
 motifs:
 - separate-gates-evil-eye
 - father-reluctant-youngest
-passages:
-- tradition: judaism
-  ref: 'Jacob''s warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91:6'
-  note: Father tells the sons to enter by separate gates (check the exact section; Rashi on Gen 42:5 cites
-    this tradition)
-- tradition: islam
-  ref: Quran 12:67
-  note: 'Father tells the sons to enter by separate gates (the evil eye is implied, not named: ''a need
-    in Jacob''s soul'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ
-    وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ
-    وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
-- tradition: islam
-  ref: Quran 12:68
-  note: 'Father tells the sons to enter by separate gates (the evil eye is implied, not named: ''a need
-    in Jacob''s soul'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن
-    شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ
-    أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: 'Jacob''s warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91'
-  note: Father refuses at first to send the youngest
-- tradition: islam
-  ref: Quran 12:63
-  note: Father refuses at first to send the youngest ('shall I trust you with him as I trusted you with
-    his brother?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ
-    مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
-- tradition: islam
-  ref: Quran 12:64
-  note: Father refuses at first to send the youngest ('shall I trust you with him as I trusted you with
-    his brother?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ
-    خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Father tells the sons to enter by separate gates (weight 6.3); Father
     refuses at first to send the youngest (weight 5.6). Pair score 11.9.'
@@ -70,6 +28,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Father tells the sons to enter by separate gates
+kinds:
+- shared
+units:
+- id: jud-genesis-rabbah-91
+  title: Jacob's warning about the evil eye (Genesis Rabbah 91, on Gen 42:5)
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: shared
+  label: Father tells the sons to enter by separate gates
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Jacob''s warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91:6'
+    note: check the exact section; Rashi on Gen 42:5 cites this tradition
+  - tradition: islam
+    passages:
+    - ref: Quran 12:67
+      lang: ar
+      text: وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ
+        وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ
+        وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ
+    - ref: Quran 12:68
+      lang: ar
+      text: وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ
+        مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ
+        وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+    note: 'the evil eye is implied, not named: ''a need in Jacob''s soul'''
+- kind: shared
+  label: Father refuses at first to send the youngest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Jacob''s warning about the evil eye (Genesis Rabbah 91, on Gen 42:5): 91'
+  - tradition: islam
+    passages:
+    - ref: Quran 12:63
+      lang: ar
+      text: فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ
+        مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ
+    - ref: Quran 12:64
+      lang: ar
+      text: قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ
+        خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+    note: '''shall I trust you with him as I trusted you with his brother?'''
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-15-iblis
 title: Elihu - warning dreams and the interceding angel ↔ Man from black mud, jinn from scorching fire,
   and Iblis's refusal (Surah 15:26-50)
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 15:26
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
-- tradition: islam
-  ref: Quran 15:28
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mēḥōmer qōraṣtî gam-ʾānî ... rûaḥ-ʾēl ʿāśātnî wənišmat šadday təḥayyēnî; min ṣalṣālin min
-    ḥamaʾin masnūn ... wa-nafakhtu fīhi min rūḥī: man pinched off from clay (ḥōmer) and given life by
-    God''s spirit.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -82,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-15-iblis
+  title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'mēḥōmer qōraṣtî gam-ʾānî ... rûaḥ-ʾēl ʿāśātnî wənišmat šadday təḥayyēnî; min ṣalṣālin min ḥamaʾin
+    masnūn ... wa-nafakhtu fīhi min rūḥī: man pinched off from clay (ḥōmer) and given life by God''s spirit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:4
+      lang: he
+      text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 15:26
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    - ref: Quran 15:29
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
 ---
 
 ## Questions

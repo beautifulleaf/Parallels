@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-22-micaiah-vs-quran-48-fath-clear-victory-and-pledge
 title: 'Micaiah son of Imlah and the lying spirit ↔ Al-Fath: the clear opening, the sakina, the hand of
   God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 1 motifs: prophet stakes his authority: ''if you return in peace, yhwh
-  has not spoken by me''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - if-you-return-safely-god-has-not-spoken
-passages:
-- tradition: judaism
-  ref: 1Kgs 22:28
-  note: 'Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by me'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מִיכָ֔יְהוּ אִם שׁ֤וֹב תָּשׁוּב֙ בְּשָׁל֔וֹם לֹֽא דִבֶּ֥ר יְהוָ֖ה בִּ֑י וַיֹּ֕אמֶר
-    שִׁמְע֖וּ עַמִּ֥ים כֻּלָּֽם
-- tradition: judaism
-  ref: 1Kgs 22:27
-  note: 'Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by me'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֗ כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ שִׂ֥ימוּ אֶת זֶ֖ה בֵּ֣ית הַכֶּ֑לֶא וְהַאֲכִילֻ֨הוּ לֶ֤חֶם
-    לַ֨חַץ֙ וּמַ֣יִם לַ֔חַץ עַ֖ד בֹּאִ֥י בְשָׁלֽוֹם
-- tradition: islam
-  ref: Quran 48:12
-  note: 'Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by me'' (Whether
-    the leader comes back from the expedition as a test of the prophetic word: ʿaḏ bōʾî ḇə-šālôm; ʾim
-    šôḇ tāšûḇ bə-šālôm lōʾ ḏibber YHWH bî vs. bal ẓanantum an lan yanqaliba r-rasūlu wa-l-muʾminūna ilā
-    ahlīhim abadan. Micaiah predicts Ahab''s death and is right; the bedouin predict the Prophet''s death
-    and are wrong.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا وَزُيِّنَ
-    ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Whether the leader comes back from the expedition as a test of the prophetic word: ʿaḏ bōʾî
-    ḇə-šālôm; ʾim šôḇ tāšûḇ bə-šālôm lōʾ ḏibber YHWH bî vs. bal ẓanantum an lan yanqaliba r-rasūlu wa-l-muʾminūna
-    ilā ahlīhim abadan. Micaiah predicts Ahab''s death and is right; the bedouin predict the Prophet''s
-    death and are wrong.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet stakes his authority: ''If you return in peace, YHWH has
     not spoken by me'' (weight 6.7). Pair score 6.7.'
@@ -82,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by me'''
+kinds:
+- echo
+units:
+- id: hb-1kgs-22-micaiah
+  title: Micaiah son of Imlah and the lying spirit
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Prophet stakes his authority: ''If you return in peace, YHWH has not spoken by me'''
+  note: 'Whether the leader comes back from the expedition as a test of the prophetic word: ʿaḏ bōʾî ḇə-šālôm;
+    ʾim šôḇ tāšûḇ bə-šālôm lōʾ ḏibber YHWH bî vs. bal ẓanantum an lan yanqaliba r-rasūlu wa-l-muʾminūna
+    ilā ahlīhim abadan. Micaiah predicts Ahab''s death and is right; the bedouin predict the Prophet''s
+    death and are wrong.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 22:27
+      lang: he
+      text: וְאָמַרְתָּ֗ כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ שִׂ֥ימוּ אֶת זֶ֖ה בֵּ֣ית הַכֶּ֑לֶא וְהַאֲכִילֻ֨הוּ לֶ֤חֶם
+        לַ֨חַץ֙ וּמַ֣יִם לַ֔חַץ עַ֖ד בֹּאִ֥י בְשָׁלֽוֹם
+    - ref: 1Kgs 22:28
+      lang: he
+      text: וַיֹּ֣אמֶר מִיכָ֔יְהוּ אִם שׁ֤וֹב תָּשׁוּב֙ בְּשָׁל֔וֹם לֹֽא דִבֶּ֥ר יְהוָ֖ה בִּ֑י וַיֹּ֕אמֶר
+        שִׁמְע֖וּ עַמִּ֥ים כֻּלָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 48:12
+      lang: ar
+      text: بَلْ ظَنَنتُمْ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلْمُؤْمِنُونَ إِلَىٰٓ أَهْلِيهِمْ أَبَدًا
+        وَزُيِّنَ ذَٰلِكَ فِى قُلُوبِكُمْ وَظَنَنتُمْ ظَنَّ ٱلسَّوْءِ وَكُنتُمْ قَوْمًۢا بُورًا
 ---
 
 ## Questions

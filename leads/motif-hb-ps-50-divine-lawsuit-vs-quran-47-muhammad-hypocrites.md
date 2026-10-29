@@ -2,8 +2,7 @@
 id: motif-hb-ps-50-divine-lawsuit-vs-quran-47-muhammad-hypocrites
 title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls ↔ The sick-hearted faint at
   the call to fight; locks on hearts; the twist of speech; God rich, you poor
-summary: 'These two units share 1 motifs: god is the rich (al-ghani) and you are the poor; the miser is
-  miserly only against himself.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - god-rich-you-poor
-passages:
-- tradition: judaism
-  ref: Ps 50:10
-  note: 'God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself (God
-    needs nothing from his worshippers: ʾim ʾerʿaḇ lōʾ ʾōmar lāḵ kî lî ṯēḇēl û-məlōʾāh vs. wa-llāhu l-ghaniyyu
-    wa-antumu l-fuqarāʾ. The psalm says it of sacrifices; the Quran of spending in God''s way (li-tunfiqū
-    fī sabīli llāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי לִ֥י כָל חַיְתוֹ יָ֑עַר בְּ֝הֵמ֗וֹת בְּהַרְרֵי אָֽלֶף
-- tradition: judaism
-  ref: Ps 50:12
-  note: 'God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself (God
-    needs nothing from his worshippers: ʾim ʾerʿaḇ lōʾ ʾōmar lāḵ kî lî ṯēḇēl û-məlōʾāh vs. wa-llāhu l-ghaniyyu
-    wa-antumu l-fuqarāʾ. The psalm says it of sacrifices; the Quran of spending in God''s way (li-tunfiqū
-    fī sabīli llāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
-- tradition: islam
-  ref: Quran 47:38
-  note: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ وَمَن
-    يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ وَإِن تَتَوَلَّوْا۟
-    يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God needs nothing from his worshippers: ʾim ʾerʿaḇ lōʾ ʾōmar lāḵ kî lî ṯēḇēl û-məlōʾāh vs. wa-llāhu
-    l-ghaniyyu wa-antumu l-fuqarāʾ. The psalm says it of sacrifices; the Quran of spending in God''s way
-    (li-tunfiqū fī sabīli llāh).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is the Rich (al-ghani) and you are the poor; the miser is miserly
     only against himself (weight 5.8). Pair score 5.8.'
@@ -83,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
+kinds:
+- echo
+units:
+- id: hb-ps-50-divine-lawsuit
+  title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: echo
+  label: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
+  note: 'God needs nothing from his worshippers: ʾim ʾerʿaḇ lōʾ ʾōmar lāḵ kî lî ṯēḇēl û-məlōʾāh vs. wa-llāhu
+    l-ghaniyyu wa-antumu l-fuqarāʾ. The psalm says it of sacrifices; the Quran of spending in God''s way
+    (li-tunfiqū fī sabīli llāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:10
+      lang: he
+      text: כִּי לִ֥י כָל חַיְתוֹ יָ֑עַר בְּ֝הֵמ֗וֹת בְּהַרְרֵי אָֽלֶף
+    - ref: Ps 50:12
+      lang: he
+      text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:38
+      lang: ar
+      text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ
+        وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ
+        وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
 ---
 
 ## Questions

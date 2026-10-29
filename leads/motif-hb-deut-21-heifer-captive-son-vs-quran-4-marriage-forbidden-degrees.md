@@ -2,8 +2,7 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-4-marriage-forbidden-degrees
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ Inheriting women,
   the dowry, and the forbidden degrees
-summary: 'These two units share 1 motifs: married women are forbidden except those one''s right hand possesses
-  (captives).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - married-women-forbidden-except-captives
-passages:
-- tradition: judaism
-  ref: Deut 21:10
-  note: 'Married women are forbidden except those one''s right hand possesses (captives) (Deut 21:10-13
-    wĕ-šābîtā šibyô wĕ-rāʾîtā ba-ššibyâ ʾēšet yĕpat tōʾar ... wĕ-ʾaḥar kēn tābôʾ ʾēlêhā û-bĕʿaltāh: a
-    captive woman may be taken as wife after a month of mourning; Q 4:24 wa-l-muḥṣanātu mina n-nisāʾi
-    illā mā malakat aymānukum: married women are forbidden except those your right hands possess. A war
-    captive as the exception to the normal bars, in both.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תֵצֵ֥א לַמִּלְחָמָ֖ה עַל אֹיְבֶ֑יךָ וּנְתָנ֞וֹ יְהוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ וְשָׁבִ֥יתָ
-    שִׁבְיֽוֹ
-- tradition: judaism
-  ref: Deut 21:11
-  note: 'Married women are forbidden except those one''s right hand possesses (captives) (Deut 21:10-13
-    wĕ-šābîtā šibyô wĕ-rāʾîtā ba-ššibyâ ʾēšet yĕpat tōʾar ... wĕ-ʾaḥar kēn tābôʾ ʾēlêhā û-bĕʿaltāh: a
-    captive woman may be taken as wife after a month of mourning; Q 4:24 wa-l-muḥṣanātu mina n-nisāʾi
-    illā mā malakat aymānukum: married women are forbidden except those your right hands possess. A war
-    captive as the exception to the normal bars, in both.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָאִיתָ֙ בַּשִּׁבְיָ֔ה אֵ֖שֶׁת יְפַת תֹּ֑אַר וְחָשַׁקְתָּ֣ בָ֔הּ וְלָקַחְתָּ֥ לְךָ֖ לְאִשָּֽׁה
-- tradition: islam
-  ref: Quran 4:24
-  note: Married women are forbidden except those one's right hand possesses (captives)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ
-    وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
-    فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ عَلَيْكُمْ
-    فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 21:10-13 wĕ-šābîtā šibyô wĕ-rāʾîtā ba-ššibyâ ʾēšet yĕpat tōʾar ... wĕ-ʾaḥar kēn tābôʾ ʾēlêhā
-    û-bĕʿaltāh: a captive woman may be taken as wife after a month of mourning; Q 4:24 wa-l-muḥṣanātu
-    mina n-nisāʾi illā mā malakat aymānukum: married women are forbidden except those your right hands
-    possess. A war captive as the exception to the normal bars, in both.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Married women are forbidden except those one''s right hand possesses
     (captives) (weight 6.7). Pair score 6.7.'
@@ -89,6 +54,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Married women are forbidden except those one's right hand possesses (captives)
+kinds:
+- echo
+units:
+- id: hb-deut-21-heifer-captive-son
+  title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: echo
+  label: Married women are forbidden except those one's right hand possesses (captives)
+  note: 'Deut 21:10-13 wĕ-šābîtā šibyô wĕ-rāʾîtā ba-ššibyâ ʾēšet yĕpat tōʾar ... wĕ-ʾaḥar kēn tābôʾ ʾēlêhā
+    û-bĕʿaltāh: a captive woman may be taken as wife after a month of mourning; Q 4:24 wa-l-muḥṣanātu
+    mina n-nisāʾi illā mā malakat aymānukum: married women are forbidden except those your right hands
+    possess. A war captive as the exception to the normal bars, in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:10
+      lang: he
+      text: כִּֽי תֵצֵ֥א לַמִּלְחָמָ֖ה עַל אֹיְבֶ֑יךָ וּנְתָנ֞וֹ יְהוָ֧ה אֱלֹהֶ֛יךָ בְּיָדֶ֖ךָ וְשָׁבִ֥יתָ
+        שִׁבְיֽוֹ
+    - ref: Deut 21:11
+      lang: he
+      text: וְרָאִיתָ֙ בַּשִּׁבְיָ֔ה אֵ֖שֶׁת יְפַת תֹּ֑אַר וְחָשַׁקְתָּ֣ בָ֔הּ וְלָקַחְתָּ֥ לְךָ֖ לְאִשָּֽׁה
+    - ref: Deut 21:13
+      lang: he
+      text: וְהֵסִ֩ירָה֩ אֶת שִׂמְלַ֨ת שִׁבְיָ֜הּ מֵעָלֶ֗יהָ וְיָֽשְׁבָה֙ בְּבֵיתֶ֔ךָ וּבָֽכְתָ֛ה אֶת
+        אָבִ֥יהָ וְאֶת אִמָּ֖הּ יֶ֣רַח יָמִ֑ים וְאַ֨חַר כֵּ֜ן תָּב֤וֹא אֵלֶ֨יהָ֙ וּבְעַלְתָּ֔הּ וְהָיְתָ֥ה
+        לְךָ֖ לְאִשָּֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:24
+      lang: ar
+      text: وَٱلْمُحْصَنَٰتُ مِنَ ٱلنِّسَآءِ إِلَّا مَا مَلَكَتْ أَيْمَٰنُكُمْ كِتَٰبَ ٱللَّهِ عَلَيْكُمْ
+        وَأُحِلَّ لَكُم مَّا وَرَآءَ ذَٰلِكُمْ أَن تَبْتَغُوا۟ بِأَمْوَٰلِكُم مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
+        فَمَا ٱسْتَمْتَعْتُم بِهِۦ مِنْهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِيضَةً وَلَا جُنَاحَ عَلَيْكُمْ
+        فِيمَا تَرَٰضَيْتُم بِهِۦ مِنۢ بَعْدِ ٱلْفَرِيضَةِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

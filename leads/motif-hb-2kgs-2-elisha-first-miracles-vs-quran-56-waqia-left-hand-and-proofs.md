@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-2-elisha-first-miracles-vs-quran-56-waqia-left-hand-and-proofs
 title: Elisha heals Jericho's water; the bears of Bethel ↔ The Companions of the Left in smoke and samum;
   who creates semen, crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 2 motifs: god''s power to make water sweet or bitter [contrast between
-  the texts], bitter water made drinkable by throwing in a piece of wood god shows the leader.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - water-made-sweet-or-bitter-as-contrast
 - bitter-water-sweetened-by-wood
-passages:
-- tradition: judaism
-  ref: 2Kgs 2:21
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (wa-yyašleḵ šām melaḥ
-    wa-yyōʾmer kōh ʾāmar YHWH rippēʾṯî lam-mayim hā-ʾēlleh ... wa-yyērāp̄û ham-mayim vs. law nashāʾu jaʿalnāhu
-    ujājan: Elisha heals bad water (with salt); the Quran''s God could make good water salt-bitter (ujāj).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵא֙ אֶל מוֹצָ֣א הַמַּ֔יִם וַיַּשְׁלֶךְ שָׁ֖ם מֶ֑לַח וַיֹּ֜אמֶר כֹּֽה אָמַ֣ר יְהוָ֗ה רִפִּ֨אתִי֙
-    לַמַּ֣יִם הָאֵ֔לֶּה לֹֽא יִהְיֶ֥ה מִשָּׁ֛ם ע֖וֹד מָ֥וֶת וּמְשַׁכָּֽלֶת
-- tradition: judaism
-  ref: 2Kgs 2:22
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (wa-yyašleḵ šām melaḥ
-    wa-yyōʾmer kōh ʾāmar YHWH rippēʾṯî lam-mayim hā-ʾēlleh ... wa-yyērāp̄û ham-mayim vs. law nashāʾu jaʿalnāhu
-    ujājan: Elisha heals bad water (with salt); the Quran''s God could make good water salt-bitter (ujāj).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָפ֣וּ הַמַּ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּדְבַ֥ר אֱלִישָׁ֖ע אֲשֶׁ֥ר דִּבֵּֽר
-- tradition: islam
-  ref: Quran 56:68
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
-- tradition: islam
-  ref: Quran 56:69
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ
-- tradition: judaism
-  ref: 2Kgs 2:21
-  note: Bitter water made drinkable by throwing in a piece of wood God shows the leader (Same 'I have
-    healed' (rippiti) formula as Marah, Exod 15:26)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵא֙ אֶל מוֹצָ֣א הַמַּ֔יִם וַיַּשְׁלֶךְ שָׁ֖ם מֶ֑לַח וַיֹּ֜אמֶר כֹּֽה אָמַ֣ר יְהוָ֗ה רִפִּ֨אתִי֙
-    לַמַּ֣יִם הָאֵ֔לֶּה לֹֽא יִהְיֶ֥ה מִשָּׁ֛ם ע֖וֹד מָ֥וֶת וּמְשַׁכָּֽלֶת
-- tradition: islam
-  ref: Quran 56:70
-  note: 'Bitter water made drinkable by throwing in a piece of wood God shows the leader (inverse: sweet
-    water could be made bitter)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. wa-yyašleḵ šām melaḥ wa-yyōʾmer kōh ʾāmar YHWH rippēʾṯî lam-mayim hā-ʾēlleh ... wa-yyērāp̄û
-    ham-mayim vs. law nashāʾu jaʿalnāhu ujājan: Elisha heals bad water (with salt); the Quran''s God could
-    make good water salt-bitter (ujāj).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s power to make water sweet or bitter [contrast between the
     texts] (weight 6.3); Bitter water made drinkable by throwing in a piece of wood God shows the leader
@@ -104,6 +48,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's power to make water sweet or bitter
+kinds:
+- contrast
+- shared
+units:
+- id: hb-2kgs-2-elisha-first-miracles
+  title: Elisha heals Jericho's water; the bears of Bethel
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: contrast
+  label: God's power to make water sweet or bitter
+  note: 'wa-yyašleḵ šām melaḥ wa-yyōʾmer kōh ʾāmar YHWH rippēʾṯî lam-mayim hā-ʾēlleh ... wa-yyērāp̄û ham-mayim
+    vs. law nashāʾu jaʿalnāhu ujājan: Elisha heals bad water (with salt); the Quran''s God could make
+    good water salt-bitter (ujāj).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 2:21
+      lang: he
+      text: וַיֵּצֵא֙ אֶל מוֹצָ֣א הַמַּ֔יִם וַיַּשְׁלֶךְ שָׁ֖ם מֶ֑לַח וַיֹּ֜אמֶר כֹּֽה אָמַ֣ר יְהוָ֗ה
+        רִפִּ֨אתִי֙ לַמַּ֣יִם הָאֵ֔לֶּה לֹֽא יִהְיֶ֥ה מִשָּׁ֛ם ע֖וֹד מָ֥וֶת וּמְשַׁכָּֽלֶת
+    - ref: 2Kgs 2:22
+      lang: he
+      text: וַיֵּרָפ֣וּ הַמַּ֔יִם עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּדְבַ֥ר אֱלִישָׁ֖ע אֲשֶׁ֥ר דִּבֵּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 56:70
+      lang: ar
+      text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+- kind: shared
+  label: Bitter water made drinkable by throwing in a piece of wood God shows the leader
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 2:21
+      lang: he
+      text: וַיֵּצֵא֙ אֶל מוֹצָ֣א הַמַּ֔יִם וַיַּשְׁלֶךְ שָׁ֖ם מֶ֑לַח וַיֹּ֜אמֶר כֹּֽה אָמַ֣ר יְהוָ֗ה
+        רִפִּ֨אתִי֙ לַמַּ֣יִם הָאֵ֔לֶּה לֹֽא יִהְיֶ֥ה מִשָּׁ֛ם ע֖וֹד מָ֥וֶת וּמְשַׁכָּֽלֶת
+    note: Same 'I have healed' (rippiti) formula as Marah, Exod 15:26
+  - tradition: islam
+    passages:
+    - ref: Quran 56:70
+      lang: ar
+      text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+    note: 'inverse: sweet water could be made bitter'
 ---
 
 ## Questions

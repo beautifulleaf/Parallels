@@ -2,8 +2,7 @@
 id: motif-hb-gen-28-jacobs-ladder-vs-quran-70-ascending-stairways
 title: 'Jacob''s dream at Bethel ↔ The ascending stairways: the day of fifty thousand years and the steadfast
   worshippers'
-summary: 'These two units share 1 motifs: the angels and the spirit (al-ruh) ascend to god by stairways
-  (ma''arij); god is ''lord of the ascending ways''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - angels-and-spirit-ascend-to-god
-passages:
-- tradition: judaism
-  ref: Gen 28:12
-  note: The angels and the Spirit (al-ruh) ascend to God by stairways (ma'arij); God is 'Lord of the ascending
-    ways' (mina llāhi dhī l-maʿārij, taʿruju l-malāʾikatu wa-r-rūḥu ilayhi ~ we-hinnēh sullām muṣṣāv ʾarṣāh
-    we-rōʾšô maggîaʿ ha-ššāmāymāh we-hinnēh malʾăkê ʾĕlōhîm ʿōlîm we-yōrdîm bô. Angels ascending by a
-    stair; in the Quran it becomes a divine title (dhū l-maʿārij), with no dream and no descending.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
-    מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
-- tradition: islam
-  ref: Quran 70:3
-  note: The angels and the Spirit (al-ruh) ascend to God by stairways (ma'arij); God is 'Lord of the ascending
-    ways' (dhi al-ma'arij, 'Lord of the ascending stairways')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ
-- tradition: islam
-  ref: Quran 70:4
-  note: The angels and the Spirit (al-ruh) ascend to God by stairways (ma'arij); God is 'Lord of the ascending
-    ways' (dhi al-ma'arij, 'Lord of the ascending stairways')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. mina llāhi dhī l-maʿārij, taʿruju l-malāʾikatu wa-r-rūḥu ilayhi ~ we-hinnēh sullām muṣṣāv ʾarṣāh
-    we-rōʾšô maggîaʿ ha-ššāmāymāh we-hinnēh malʾăkê ʾĕlōhîm ʿōlîm we-yōrdîm bô. Angels ascending by a
-    stair; in the Quran it becomes a divine title (dhū l-maʿārij), with no dream and no descending.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels and the Spirit (al-ruh) ascend to God by stairways (ma''arij);
     God is ''Lord of the ascending ways'' (weight 6.7). Pair score 6.7.'
@@ -81,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angels and the Spirit (al-ruh) ascend to God by stairways (ma'arij); God is 'Lord of the
+  ascending ways'
+kinds:
+- echo
+units:
+- id: hb-gen-28-jacobs-ladder
+  title: Jacob's dream at Bethel
+  tradition: judaism
+- id: quran-70-ascending-stairways
+  title: 'The ascending stairways: the day of fifty thousand years and the steadfast worshippers'
+  tradition: islam
+matches:
+- kind: echo
+  label: The angels and the Spirit (al-ruh) ascend to God by stairways (ma'arij); God is 'Lord of the
+    ascending ways'
+  note: mina llāhi dhī l-maʿārij, taʿruju l-malāʾikatu wa-r-rūḥu ilayhi ~ we-hinnēh sullām muṣṣāv ʾarṣāh
+    we-rōʾšô maggîaʿ ha-ššāmāymāh we-hinnēh malʾăkê ʾĕlōhîm ʿōlîm we-yōrdîm bô. Angels ascending by a
+    stair; in the Quran it becomes a divine title (dhū l-maʿārij), with no dream and no descending.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:12
+      lang: he
+      text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
+        מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 70:3
+      lang: ar
+      text: مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ
+    - ref: Quran 70:4
+      lang: ar
+      text: تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ
+        سَنَةٍ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-1-creation-six-days-vs-quran-2-war-pilgrimage
 title: Creation in six days and the seventh-day rest ↔ New moons, fighting and the pilgrimage rites
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 2:189
-  note: Sun and moon are set to rule day and night and mark signs and seasons (signs and seasons)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ بِأَن
-    تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا
-    وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 1:14 wĕ-hāyû lĕ-ʾōtōt û-lĕ-môʿădîm û-lĕ-yāmîm wĕ-šānîm; Q 2:189 hiya mawāqītu li-n-nāsi
-    wa-l-ḥajj: the lights as markers of sacred times.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -75,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-2-war-pilgrimage
+  title: New moons, fighting and the pilgrimage rites
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'Gen 1:14 wĕ-hāyû lĕ-ʾōtōt û-lĕ-môʿădîm û-lĕ-yāmîm wĕ-šānîm; Q 2:189 hiya mawāqītu li-n-nāsi wa-l-ḥajj:
+    the lights as markers of sacred times.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:189
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ
+        بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ
+        مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

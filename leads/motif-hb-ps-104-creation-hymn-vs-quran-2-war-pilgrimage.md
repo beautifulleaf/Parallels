@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-2-war-pilgrimage
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ New moons, fighting and the
   pilgrimage rites
-summary: 'These two units share 2 motifs: the new moons are time markers for people and for the pilgrimage,
-  sun and moon are set to rule day and night and mark signs and seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,51 +16,9 @@ layers:
 motifs:
 - new-moons-as-time-markers
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'The new moons are time markers for people and for the pilgrimage (Ps 104:19 ʿāśâ yārēaḥ lĕ-môʿădîm:
-    the moon made for appointed times (festivals); Q 2:189 yasʾalūnaka ʿani l-ahillati qul hiya mawāqītu
-    li-n-nāsi wa-l-ḥajj: the new moons are fixed times for people and for the pilgrimage. môʿădîm / mawāqīt,
-    both from roots for ''appointed time''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: islam
-  ref: Quran 2:189
-  note: The new moons are time markers for people and for the pilgrimage
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ بِأَن
-    تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا
-    وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 2:189
-  note: Sun and moon are set to rule day and night and mark signs and seasons (signs and seasons)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ بِأَن
-    تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ مِنْ أَبْوَٰبِهَا
-    وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 104:19 ʿāśâ yārēaḥ lĕ-môʿădîm: the moon made for appointed times (festivals); Q 2:189
-    yasʾalūnaka ʿani l-ahillati qul hiya mawāqītu li-n-nāsi wa-l-ḥajj: the new moons are fixed times for
-    people and for the pilgrimage. môʿădîm / mawāqīt, both from roots for ''appointed time''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The new moons are time markers for people and for the pilgrimage
     (weight 6.7); Sun and moon are set to rule day and night and mark signs and seasons (weight 4.7).
@@ -97,6 +54,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The new moons are time markers for people and for the pilgrimage
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-2-war-pilgrimage
+  title: New moons, fighting and the pilgrimage rites
+  tradition: islam
+matches:
+- kind: parallel
+  label: The new moons are time markers for people and for the pilgrimage
+  note: 'Ps 104:19 ʿāśâ yārēaḥ lĕ-môʿădîm: the moon made for appointed times (festivals); Q 2:189 yasʾalūnaka
+    ʿani l-ahillati qul hiya mawāqītu li-n-nāsi wa-l-ḥajj: the new moons are fixed times for people and
+    for the pilgrimage. môʿădîm / mawāqīt, both from roots for ''appointed time''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:189
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ
+        بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ
+        مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+    note: moon for appointed times; the sun knows its setting
+  - tradition: islam
+    passages:
+    - ref: Quran 2:189
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَهِلَّةِ قُلْ هِىَ مَوَٰقِيتُ لِلنَّاسِ وَٱلْحَجِّ وَلَيْسَ ٱلْبِرُّ
+        بِأَن تَأْتُوا۟ ٱلْبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلْبِرَّ مَنِ ٱتَّقَىٰ وَأْتُوا۟ ٱلْبُيُوتَ
+        مِنْ أَبْوَٰبِهَا وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تُفْلِحُونَ
+    note: signs and seasons
 ---
 
 ## Questions

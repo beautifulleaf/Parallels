@@ -2,7 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-30-signs
 title: Job - 'Your hands fashioned me'; land of darkness ↔ The Hour, the times of praise, and the signs
   of God
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 30:20
-  note: First human shaped from dust, clay or soil (from dust (turab))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. zəḵor-nāʾ kî-ḵa-ḥōmer ʿăśîṯānî wə-ʾel-ʿāp̄ār təšîḇēnî vs. khalaqakum min turāb. Job makes the
-    clay origin a complaint (you will return me to dust); the Quran makes it a sign (min āyātihi).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -65,6 +51,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- echo
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: First human shaped from dust, clay or soil
+  note: zəḵor-nāʾ kî-ḵa-ḥōmer ʿăśîṯānî wə-ʾel-ʿāp̄ār təšîḇēnî vs. khalaqakum min turāb. Job makes the
+    clay origin a complaint (you will return me to dust); the Quran makes it a sign (min āyātihi).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 30:20
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍ ثُمَّ إِذَآ أَنتُم بَشَرٌ تَنتَشِرُونَ
 ---
 
 ## Questions

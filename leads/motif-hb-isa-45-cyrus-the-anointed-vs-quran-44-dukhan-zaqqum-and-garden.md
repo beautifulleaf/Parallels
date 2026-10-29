@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-44-dukhan-zaqqum-and-garden
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Deniers
   demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: god did not create the heavens and earth and what is between
-  them in play (la''ibin) but in truth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - creation-not-in-play
-passages:
-- tradition: judaism
-  ref: Isa 45:18
-  note: 'God did not create the heavens and earth and what is between them in play (la''ibin) but in truth
-    (lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God
-    did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
-    or pastime (lahw), but with truth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
-    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 44:38
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
-- tradition: islam
-  ref: Quran 44:39
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا خَلَقْنَٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Creation has a purpose: bôrēʾ haš-šāmayim ... lōʾ ṯōhû ḇərāʾāh lā-šeḇeṯ yəṣārāh (he did
-    not create it a void; he formed it to be inhabited) vs. wa-mā khalaqnā s-samāwāti wa-l-arḍa wa-mā
-    baynahumā lāʿibīn; mā khalaqnāhumā illā bi-l-ḥaqq. Isaiah''s purpose is habitation; the Quran''s is
-    truth and the coming Day of Sorting (yawm al-faṣl, 44:40).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
     in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
@@ -85,6 +58,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+kinds:
+- parallel
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: parallel
+  label: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+  note: 'Creation has a purpose: bôrēʾ haš-šāmayim ... lōʾ ṯōhû ḇərāʾāh lā-šeḇeṯ yəṣārāh (he did not create
+    it a void; he formed it to be inhabited) vs. wa-mā khalaqnā s-samāwāti wa-l-arḍa wa-mā baynahumā lāʿibīn;
+    mā khalaqnāhumā illā bi-l-ḥaqq. Isaiah''s purpose is habitation; the Quran''s is truth and the coming
+    Day of Sorting (yawm al-faṣl, 44:40).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:18
+      lang: he
+      text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙
+        ה֣וּא כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 44:38
+      lang: ar
+      text: وَمَا خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
+    - ref: Quran 44:39
+      lang: ar
+      text: مَا خَلَقْنَٰهُمَآ إِلَّا بِٱلْحَقِّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
 ---
 
 ## Questions

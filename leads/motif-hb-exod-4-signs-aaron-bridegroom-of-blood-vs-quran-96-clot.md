@@ -2,7 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-96-clot
 title: 'Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ The clot: recite!
   and the forelock'
-summary: 'These two units share 1 motifs: god taught humankind by the pen (qalam) what it did not know.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - god-taught-by-the-pen
-passages:
-- tradition: judaism
-  ref: Exod 4:12
-  note: 'God taught humankind by the pen (qalam) what it did not know (ʿallama l-insāna mā lam yaʿlam
-    ~ we-ʾānōkî ʾehyeh ʿim pîkā we-hôrêtîkā ʾăšer tedabbēr: God teaches the messenger what to say.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר
-- tradition: islam
-  ref: Quran 96:4
-  note: God taught humankind by the pen (qalam) what it did not know
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ
-- tradition: islam
-  ref: Quran 96:5
-  note: God taught humankind by the pen (qalam) what it did not know
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. ʿallama l-insāna mā lam yaʿlam ~ we-ʾānōkî ʾehyeh ʿim pîkā we-hôrêtîkā ʾăšer tedabbēr: God teaches
-    the messenger what to say.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God taught humankind by the pen (qalam) what it did not know (weight
     6.7). Pair score 6.7.'
@@ -69,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God taught humankind by the pen (qalam) what it did not know
+kinds:
+- echo
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-96-clot
+  title: 'The clot: recite! and the forelock'
+  tradition: islam
+matches:
+- kind: echo
+  label: God taught humankind by the pen (qalam) what it did not know
+  note: 'ʿallama l-insāna mā lam yaʿlam ~ we-ʾānōkî ʾehyeh ʿim pîkā we-hôrêtîkā ʾăšer tedabbēr: God teaches
+    the messenger what to say.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:12
+      lang: he
+      text: וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 96:4
+      lang: ar
+      text: ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ
+    - ref: Quran 96:5
+      lang: ar
+      text: عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ
 ---
 
 ## Questions

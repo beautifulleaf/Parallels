@@ -2,8 +2,7 @@
 id: motif-hb-ezek-29-pharaoh-the-dragon-vs-quran-79-pharaoh-and-cosmos
 title: 'Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s wages
   ↔ Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
-summary: 'These two units share 1 motifs: pharaoh gathers the people and proclaims ''i am your lord most
-  high''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-claims-to-be-supreme-lord
-passages:
-- tradition: judaism
-  ref: Ezek 29:3
-  note: 'Pharaoh gathers the people and proclaims ''I am your Lord most high'' (anā rabbukumu l-aʿlā ~
-    ʾăšer ʾāmar lî yeʾōrî wa-ʾănî ʿăśîtinî (''my Nile is mine, I made myself''): Pharaoh''s divine claim
-    in his own mouth, in both cases followed by God''s punishment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
-    הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
-- tradition: islam
-  ref: Quran 79:23
-  note: Pharaoh gathers the people and proclaims 'I am your Lord most high'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَشَرَ فَنَادَىٰ
-- tradition: islam
-  ref: Quran 79:24
-  note: Pharaoh gathers the people and proclaims 'I am your Lord most high'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. anā rabbukumu l-aʿlā ~ ʾăšer ʾāmar lî yeʾōrî wa-ʾănî ʿăśîtinî (''my Nile is mine, I made
-    myself''): Pharaoh''s divine claim in his own mouth, in both cases followed by God''s punishment.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh gathers the people and proclaims ''I am your Lord most high''
     (weight 6.7). Pair score 6.7.'
@@ -83,6 +59,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh gathers the people and proclaims 'I am your Lord most high'
+kinds:
+- parallel
+units:
+- id: hb-ezek-29-pharaoh-the-dragon
+  title: Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar's wages
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Pharaoh gathers the people and proclaims 'I am your Lord most high'
+  note: 'anā rabbukumu l-aʿlā ~ ʾăšer ʾāmar lî yeʾōrî wa-ʾănî ʿăśîtinî (''my Nile is mine, I made myself''):
+    Pharaoh''s divine claim in his own mouth, in both cases followed by God''s punishment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 29:3
+      lang: he
+      text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
+        הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 79:24
+      lang: ar
+      text: فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
 ---
 
 ## Questions

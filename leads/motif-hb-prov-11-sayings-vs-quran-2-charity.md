@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-11-sayings-vs-quran-2-charity
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ Parables of charity
-summary: 'These two units share 1 motifs: one scatters and yet increases; the generous soul is made fat
-  and who waters will be watered.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - generous-giver-enriched
-passages:
-- tradition: judaism
-  ref: Prov 11:24
-  note: One scatters and yet increases; the generous soul is made fat and who waters will be watered
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ לְמַחְסֽוֹר
-- tradition: judaism
-  ref: Prov 11:25
-  note: One scatters and yet increases; the generous soul is made fat and who waters will be watered
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֶֽפֶשׁ בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם ה֥וּא יוֹרֶֽא
-- tradition: islam
-  ref: Quran 2:261
-  note: 'One scatters and yet increases; the generous soul is made fat and who waters will be watered
-    (Prov 11:24-25 yēš mĕpazzēr wĕ-nôsāp ʿôd ... nepeš bĕrākâ tĕduššān û-marweh gam hûʾ yôreʾ: one who
-    scatters gains more; who waters will be watered; Q 2:261, 265 wa-llāhu yuḍāʿifu li-man yashāʾ ...
-    ka-mathali jannatin bi-rabwatin aṣābahā wābilun fa-ātat ukulahā ḍiʿfayn: spending multiplied, the
-    watered garden yields double. Both use watering/rain for the giver''s return.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ
-    سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ
-    عَلِيمٌ
-- tradition: islam
-  ref: Quran 2:265
-  note: 'One scatters and yet increases; the generous soul is made fat and who waters will be watered
-    (Prov 11:24-25 yēš mĕpazzēr wĕ-nôsāp ʿôd ... nepeš bĕrākâ tĕduššān û-marweh gam hûʾ yôreʾ: one who
-    scatters gains more; who waters will be watered; Q 2:261, 265 wa-llāhu yuḍāʿifu li-man yashāʾ ...
-    ka-mathali jannatin bi-rabwatin aṣābahā wābilun fa-ātat ukulahā ḍiʿfayn: spending multiplied, the
-    watered garden yields double. Both use watering/rain for the giver''s return.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ أَنفُسِهِمْ
-    كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن لَّمْ يُصِبْهَا
-    وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 11:24-25 yēš mĕpazzēr wĕ-nôsāp ʿôd ... nepeš bĕrākâ tĕduššān û-marweh gam hûʾ yôreʾ:
-    one who scatters gains more; who waters will be watered; Q 2:261, 265 wa-llāhu yuḍāʿifu li-man yashāʾ
-    ... ka-mathali jannatin bi-rabwatin aṣābahā wābilun fa-ātat ukulahā ḍiʿfayn: spending multiplied,
-    the watered garden yields double. Both use watering/rain for the giver''s return.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One scatters and yet increases; the generous soul is made fat and
     who waters will be watered (weight 6.0). Pair score 6.0.'
@@ -92,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One scatters and yet increases; the generous soul is made fat and who waters will be watered
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: parallel
+  label: One scatters and yet increases; the generous soul is made fat and who waters will be watered
+  note: 'Prov 11:24-25 yēš mĕpazzēr wĕ-nôsāp ʿôd ... nepeš bĕrākâ tĕduššān û-marweh gam hûʾ yôreʾ: one
+    who scatters gains more; who waters will be watered; Q 2:261, 265 wa-llāhu yuḍāʿifu li-man yashāʾ
+    ... ka-mathali jannatin bi-rabwatin aṣābahā wābilun fa-ātat ukulahā ḍiʿfayn: spending multiplied,
+    the watered garden yields double. Both use watering/rain for the giver''s return.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:24
+      lang: he
+      text: יֵ֣שׁ מְ֭פַזֵּר וְנוֹסָ֥ף ע֑וֹד וְחוֹשֵׂ֥ךְ מִ֝יֹּ֗שֶׁר אַךְ לְמַחְסֽוֹר
+    - ref: Prov 11:25
+      lang: he
+      text: נֶֽפֶשׁ בְּרָכָ֥ה תְדֻשָּׁ֑ן וּ֝מַרְוֶ֗ה גַּם ה֥וּא יוֹרֶֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 2:261
+      lang: ar
+      text: مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ
+        سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ
+        وَٰسِعٌ عَلِيمٌ
+    - ref: Quran 2:265
+      lang: ar
+      text: وَمَثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمُ ٱبْتِغَآءَ مَرْضَاتِ ٱللَّهِ وَتَثْبِيتًا مِّنْ
+        أَنفُسِهِمْ كَمَثَلِ جَنَّةٍۭ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَـَٔاتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِن
+        لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ
 ---
 
 ## Questions

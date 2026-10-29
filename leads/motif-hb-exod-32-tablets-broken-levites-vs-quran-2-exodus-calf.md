@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-2-exodus-calf
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: the killing of israelites after the golden calf [divergence
-  between the texts], the levites kill idolaters including their own kin and are consecrated for it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,79 +14,9 @@ layers:
 motifs:
 - killing-after-the-calf-as-divergence
 - levites-kill-idolaters-kin
-passages:
-- tradition: judaism
-  ref: Exod 32:27
-  note: 'The killing of Israelites after the golden calf [divergence between the texts] (Exod 32:27 kōh
-    ʾāmar YHWH ʾĕlōhê yiśrāʾēl ... wĕ-hirgû ʾîš ʾet ʾāḥîw: the Levites alone kill about three thousand
-    of their brothers and are ordained for it (32:29 milʾû yedkem ha-yyôm); Q 2:54 fa-tūbū ilā bāriʾikum
-    fa-qtulū anfusakum ... fa-tāba ʿalaykum: the killing is commanded to the whole people as their repentance,
-    and ends in God''s forgiveness. The divine title changes too: ''YHWH, God of Israel'' becomes bāriʾukum
-    ''your Creator'' (cognate of bārāʾ), said twice. No Levites, no ordination, no plague (32:35).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: 'The killing of Israelites after the golden calf [divergence between the texts] (Exod 32:27 kōh
-    ʾāmar YHWH ʾĕlōhê yiśrāʾēl ... wĕ-hirgû ʾîš ʾet ʾāḥîw: the Levites alone kill about three thousand
-    of their brothers and are ordained for it (32:29 milʾû yedkem ha-yyôm); Q 2:54 fa-tūbū ilā bāriʾikum
-    fa-qtulū anfusakum ... fa-tāba ʿalaykum: the killing is commanded to the whole people as their repentance,
-    and ends in God''s forgiveness. The divine title changes too: ''YHWH, God of Israel'' becomes bāriʾukum
-    ''your Creator'' (cognate of bārāʾ), said twice. No Levites, no ordination, no plague (32:35).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 2:54
-  note: 'The killing of Israelites after the golden calf [divergence between the texts] (Exod 32:27 kōh
-    ʾāmar YHWH ʾĕlōhê yiśrāʾēl ... wĕ-hirgû ʾîš ʾet ʾāḥîw: the Levites alone kill about three thousand
-    of their brothers and are ordained for it (32:29 milʾû yedkem ha-yyôm); Q 2:54 fa-tūbū ilā bāriʾikum
-    fa-qtulū anfusakum ... fa-tāba ʿalaykum: the killing is commanded to the whole people as their repentance,
-    and ends in God''s forgiveness. The divine title changes too: ''YHWH, God of Israel'' becomes bāriʾukum
-    ''your Creator'' (cognate of bārāʾ), said twice. No Levites, no ordination, no plague (32:35).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ
-    فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
-    فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
-- tradition: judaism
-  ref: Exod 32:27
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 2:54
-  note: The Levites kill idolaters including their own kin and are consecrated for it ('kill yourselves'
-    as repentance)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلْعِجْلَ
-    فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ بَارِئِكُمْ
-    فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 32:27 kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl ... wĕ-hirgû ʾîš ʾet ʾāḥîw: the Levites alone
-    kill about three thousand of their brothers and are ordained for it (32:29 milʾû yedkem ha-yyôm);
-    Q 2:54 fa-tūbū ilā bāriʾikum fa-qtulū anfusakum ... fa-tāba ʿalaykum: the killing is commanded to
-    the whole people as their repentance, and ends in God''s forgiveness. The divine title changes too:
-    ''YHWH, God of Israel'' becomes bāriʾukum ''your Creator'' (cognate of bārāʾ), said twice. No Levites,
-    no ordination, no plague (32:35).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The killing of Israelites after the golden calf [divergence between
     the texts] (weight 6.7); The Levites kill idolaters including their own kin and are consecrated for
@@ -123,6 +52,76 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The killing of Israelites after the golden calf
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: divergence
+  label: The killing of Israelites after the golden calf
+  note: 'Exod 32:27 kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl ... wĕ-hirgû ʾîš ʾet ʾāḥîw: the Levites alone kill
+    about three thousand of their brothers and are ordained for it (32:29 milʾû yedkem ha-yyôm); Q 2:54
+    fa-tūbū ilā bāriʾikum fa-qtulū anfusakum ... fa-tāba ʿalaykum: the killing is commanded to the whole
+    people as their repentance, and ends in God''s forgiveness. The divine title changes too: ''YHWH,
+    God of Israel'' becomes bāriʾukum ''your Creator'' (cognate of bārāʾ), said twice. No Levites, no
+    ordination, no plague (32:35).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:54
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ
+        ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ
+        بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+- kind: shared
+  label: The Levites kill idolaters including their own kin and are consecrated for it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+    note: about three thousand; ordination by killing son and brother
+  - tradition: islam
+    passages:
+    - ref: Quran 2:54
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنفُسَكُم بِٱتِّخَاذِكُمُ
+        ٱلْعِجْلَ فَتُوبُوٓا۟ إِلَىٰ بَارِئِكُمْ فَٱقْتُلُوٓا۟ أَنفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَّكُمْ عِندَ
+        بَارِئِكُمْ فَتَابَ عَلَيْكُمْ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+    note: '''kill yourselves'' as repentance'
 ---
 
 ## Questions

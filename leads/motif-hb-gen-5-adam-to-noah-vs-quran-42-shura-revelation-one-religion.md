@@ -2,7 +2,7 @@
 id: motif-hb-gen-5-adam-to-noah-vs-quran-42-shura-revelation-one-religion
 title: 'The book of the generations of Adam, Adam to Noah ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels''
   intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: humanity created male and female in one act.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - male-and-female-created-together
-passages:
-- tradition: judaism
-  ref: Gen 5:2
-  note: Humanity created male and female in one act (God names them both 'adam')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם
-- tradition: islam
-  ref: Quran 42:11
-  note: Humanity created male and female in one act (mates made for humans and for cattle from themselves)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
-    أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. zāḵār û-nəqēḇâ bərāʾām ... wa-yiqrāʾ ʾeṯ šəmām ʾāḏām vs. jaʿala lakum min anfusikum azwājan
-    wa-mina l-anʿāmi azwājan yadhraʾukum fīhi. The Quran puts the pairs of cattle beside the human pairs
-    and makes pairing the means by which God multiplies (yadhraʾu) them; Gen 5:2 adds the blessing and
-    one name for both.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humanity created male and female in one act (weight 6.0). Pair score
     6.0.'
@@ -65,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humanity created male and female in one act
+kinds:
+- echo
+units:
+- id: hb-gen-5-adam-to-noah
+  title: The book of the generations of Adam, Adam to Noah
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: echo
+  label: Humanity created male and female in one act
+  note: zāḵār û-nəqēḇâ bərāʾām ... wa-yiqrāʾ ʾeṯ šəmām ʾāḏām vs. jaʿala lakum min anfusikum azwājan wa-mina
+    l-anʿāmi azwājan yadhraʾukum fīhi. The Quran puts the pairs of cattle beside the human pairs and makes
+    pairing the means by which God multiplies (yadhraʾu) them; Gen 5:2 adds the blessing and one name
+    for both.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 5:2
+      lang: he
+      text: זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 42:11
+      lang: ar
+      text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
+        أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-81-folding-up
 title: 'Song of the strong city; your dead shall live ↔ The folding up: twelve signs of the end and the
   messenger on the horizon'
-summary: 'These two units share 1 motifs: victim''s blood cries out from the ground to god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - blood-cries-from-ground
-passages:
-- tradition: judaism
-  ref: Isa 26:21
-  note: Victim's blood cries out from the ground to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
-    הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
-- tradition: islam
-  ref: Quran 81:8
-  note: Victim's blood cries out from the ground to God (the murdered victim herself is made to testify
-    at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ
-- tradition: islam
-  ref: Quran 81:9
-  note: Victim's blood cries out from the ground to God (the murdered victim herself is made to testify
-    at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِأَىِّ ذَنۢبٍ قُتِلَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-idhā l-mawʾūdatu suʾilat bi-ayyi dhanbin qutilat (the buried girl is questioned) ~ we-gilletāh
-    hā-ʾāreṣ ʾet dāmêhā we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the hidden murdered victim exposed at the judgment;
-    the Quran makes the victim herself witness.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Victim''s blood cries out from the ground to God (weight 6.3). Pair
     score 6.3.'
@@ -77,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Victim's blood cries out from the ground to God
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-81-folding-up
+  title: 'The folding up: twelve signs of the end and the messenger on the horizon'
+  tradition: islam
+matches:
+- kind: echo
+  label: Victim's blood cries out from the ground to God
+  note: 'wa-idhā l-mawʾūdatu suʾilat bi-ayyi dhanbin qutilat (the buried girl is questioned) ~ we-gilletāh
+    hā-ʾāreṣ ʾet dāmêhā we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the hidden murdered victim exposed at the judgment;
+    the Quran makes the victim herself witness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:21
+      lang: he
+      text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
+        הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 81:8
+      lang: ar
+      text: وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ
+    - ref: Quran 81:9
+      lang: ar
+      text: بِأَىِّ ذَنۢبٍ قُتِلَتْ
 ---
 
 ## Questions

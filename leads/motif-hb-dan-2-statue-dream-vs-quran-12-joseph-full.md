@@ -2,8 +2,7 @@
 id: motif-hb-dan-2-statue-dream-vs-quran-12-joseph-full
 title: The statue of four metals and the stone cut without hands ↔ Joseph and his brothers (Surah 12,
   full read)
-summary: 'These two units share 2 motifs: hero placed over the land''s storehouses or the kingdom, hero
-  attributes his dream interpretation to god.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,61 +16,7 @@ layers:
 motifs:
 - hero-appointed-over-storehouses
 - interpretation-from-god
-passages:
-- tradition: judaism
-  ref: Dan 2:48-49
-  note: Hero placed over the land's storehouses or the kingdom (ruler over the province of Babylon and
-    chief prefect of the wise men)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (2:48) אֱדַ֨יִן מַלְכָּ֜א לְדָנִיֵּ֣אל רַבִּ֗י וּמַתְּנָ֨ן רַבְרְבָ֤ן שַׂגִּיאָן֙ יְהַב לֵ֔הּ
-    וְהַ֨שְׁלְטֵ֔הּ עַ֖ל כָּל מְדִינַ֣ת בָּבֶ֑ל וְרַב סִגְנִ֔ין עַ֖ל כָּל חַכִּימֵ֥י בָבֶֽל (2:49) וְדָנִיֵּאל֙
-    בְּעָ֣א מִן מַלְכָּ֔א וּמַנִּ֗י עַ֤ל עֲבִֽידְתָּא֙ דִּ֚י מְדִינַ֣ת בָּבֶ֔ל לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ
-    וַעֲבֵ֣ד נְג֑וֹ וְדָנִיֵּ֖אל בִּתְרַ֥ע מַלְכָּֽא
-- tradition: islam
-  ref: Quran 12:54
-  note: Hero placed over the land's storehouses or the kingdom (Joseph asks for the treasuries of the
-    land himself)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ
-    ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
-- tradition: islam
-  ref: Quran 12:55
-  note: Hero placed over the land's storehouses or the kingdom (Joseph asks for the treasuries of the
-    land himself)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
-- tradition: judaism
-  ref: Dan 2:27-30
-  note: Hero attributes his dream interpretation to God (not by any wisdom in me)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (2:27) עָנֵ֧ה דָנִיֵּ֛אל קֳדָ֥ם מַלְכָּ֖א וְאָמַ֑ר רָזָה֙ דִּֽי מַלְכָּ֣א שָׁאֵ֔ל לָ֧א חַכִּימִ֣ין
-    אָֽשְׁפִ֗ין חַרְטֻמִּין֙ גָּזְרִ֔ין יָכְלִ֖ין לְהַֽחֲוָיָ֥ה לְמַלְכָּֽא (2:28) בְּרַ֡ם אִיתַ֞י אֱלָ֤הּ
-    בִּשְׁמַיָּא֙ גָּלֵ֣א רָזִ֔ין וְהוֹדַ֗ע לְמַלְכָּא֙ נְבֽוּכַדְנֶצַּ֔ר מָ֛ה דִּ֥י לֶהֱוֵ֖א בְּאַחֲרִ֣ית
-    יוֹמַיָּ֑א חֶלְמָ֨ךְ וְחֶזְוֵ֥י רֵאשָׁ֛ךְ עַֽל מִשְׁכְּבָ֖ךְ דְּנָ֥ה הֽוּא (2:29) אַ֣נְתְּה מַלְכָּ֗א
-    רַעְיוֹנָךְ֙ עַל מִשְׁכְּבָ֣ךְ סְלִ֔קוּ מָ֛ה דִּ֥י לֶהֱוֵ֖א אַחֲרֵ֣י דְנָ֑ה וְגָלֵ֧א רָזַיָּ֛א הוֹדְעָ֖ךְ
-    מָה דִ֥י לֶהֱוֵֽא (2:30) וַאֲנָ֗ה לָ֤א בְחָכְמָה֙ דִּֽי אִיתַ֥י בִּי֙ מִן כָּל חַיַּיָּ֔א רָזָ֥א דְנָ֖ה
-    גֱּלִ֣י לִ֑י לָהֵ֗ן עַל דִּבְרַת֙ דִּ֤י פִשְׁרָא֙ לְמַלְכָּ֣א יְהוֹדְע֔וּן וְרַעְיוֹנֵ֥י לִבְבָ֖ךְ
-    תִּנְדַּֽע
-- tradition: islam
-  ref: Quran 12:6
-  note: Hero attributes his dream interpretation to God (taʾwīl al-aḥādīth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ
-    عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ
-    إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 12:21
-  note: Hero attributes his dream interpretation to God (taʾwīl al-aḥādīth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ
-    أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
-    ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero placed over the land''s storehouses or the kingdom (weight
     5.6); Hero attributes his dream interpretation to God (weight 5.4). Pair score 11.0.'
@@ -107,6 +52,77 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero placed over the land's storehouses or the kingdom
+kinds:
+- shared
+units:
+- id: hb-dan-2-statue-dream
+  title: The statue of four metals and the stone cut without hands
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero placed over the land's storehouses or the kingdom
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 2:48-49
+      lang: he
+      text: (2:48) אֱדַ֨יִן מַלְכָּ֜א לְדָנִיֵּ֣אל רַבִּ֗י וּמַתְּנָ֨ן רַבְרְבָ֤ן שַׂגִּיאָן֙ יְהַב לֵ֔הּ
+        וְהַ֨שְׁלְטֵ֔הּ עַ֖ל כָּל מְדִינַ֣ת בָּבֶ֑ל וְרַב סִגְנִ֔ין עַ֖ל כָּל חַכִּימֵ֥י בָבֶֽל (2:49)
+        וְדָנִיֵּאל֙ בְּעָ֣א מִן מַלְכָּ֔א וּמַנִּ֗י עַ֤ל עֲבִֽידְתָּא֙ דִּ֚י מְדִינַ֣ת בָּבֶ֔ל לְשַׁדְרַ֥ךְ
+        מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ וְדָנִיֵּ֖אל בִּתְרַ֥ע מַלְכָּֽא
+    note: ruler over the province of Babylon and chief prefect of the wise men
+  - tradition: islam
+    passages:
+    - ref: Quran 12:54
+      lang: ar
+      text: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ
+        ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
+    - ref: Quran 12:55
+      lang: ar
+      text: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
+    - ref: Quran 12:56
+      lang: ar
+      text: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ
+        بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+    note: Joseph asks for the treasuries of the land himself
+- kind: shared
+  label: Hero attributes his dream interpretation to God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 2:27-30
+      lang: he
+      text: (2:27) עָנֵ֧ה דָנִיֵּ֛אל קֳדָ֥ם מַלְכָּ֖א וְאָמַ֑ר רָזָה֙ דִּֽי מַלְכָּ֣א שָׁאֵ֔ל לָ֧א חַכִּימִ֣ין
+        אָֽשְׁפִ֗ין חַרְטֻמִּין֙ גָּזְרִ֔ין יָכְלִ֖ין לְהַֽחֲוָיָ֥ה לְמַלְכָּֽא (2:28) בְּרַ֡ם אִיתַ֞י
+        אֱלָ֤הּ בִּשְׁמַיָּא֙ גָּלֵ֣א רָזִ֔ין וְהוֹדַ֗ע לְמַלְכָּא֙ נְבֽוּכַדְנֶצַּ֔ר מָ֛ה דִּ֥י לֶהֱוֵ֖א
+        בְּאַחֲרִ֣ית יוֹמַיָּ֑א חֶלְמָ֨ךְ וְחֶזְוֵ֥י רֵאשָׁ֛ךְ עַֽל מִשְׁכְּבָ֖ךְ דְּנָ֥ה הֽוּא (2:29)
+        אַ֣נְתְּה מַלְכָּ֗א רַעְיוֹנָךְ֙ עַל מִשְׁכְּבָ֣ךְ סְלִ֔קוּ מָ֛ה דִּ֥י לֶהֱוֵ֖א אַחֲרֵ֣י דְנָ֑ה
+        וְגָלֵ֧א רָזַיָּ֛א הוֹדְעָ֖ךְ מָה דִ֥י לֶהֱוֵֽא (2:30) וַאֲנָ֗ה לָ֤א בְחָכְמָה֙ דִּֽי אִיתַ֥י
+        בִּי֙ מִן כָּל חַיַּיָּ֔א רָזָ֥א דְנָ֖ה גֱּלִ֣י לִ֑י לָהֵ֗ן עַל דִּבְרַת֙ דִּ֤י פִשְׁרָא֙ לְמַלְכָּ֣א
+        יְהוֹדְע֔וּן וְרַעְיוֹנֵ֥י לִבְבָ֖ךְ תִּנְדַּֽע
+    note: not by any wisdom in me
+  - tradition: islam
+    passages:
+    - ref: Quran 12:6
+      lang: ar
+      text: وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ
+        عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ
+        وَإِسْحَٰقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ
+    - ref: Quran 12:21
+      lang: ar
+      text: وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ
+        أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ
+        ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+    - ref: Quran 12:37
+      lang: ar
+      text: قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ
+        أَن يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ
+        بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ
+    note: taʾwīl al-aḥādīth
 ---
 
 ## Questions

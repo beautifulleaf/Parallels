@@ -2,8 +2,7 @@
 id: motif-hb-ps-130-de-profundis-vs-quran-35-heirs-of-book
 title: Psalm 130, out of the depths ↔ The heirs of the Book, the Gardens of Eden and the cries of the
   damned
-summary: 'These two units share 1 motifs: if god took people to task for what they earned he would not
-  leave a creature on the earth''s back, but he defers them to a set term.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - if-god-punished-all-no-creature-left
-passages:
-- tradition: judaism
-  ref: Ps 130:3
-  note: 'If God took people to task for what they earned he would not leave a creature on the earth''s
-    back, but he defers them to a set term (ʾim-ʿăwōnôṯ tišmār-yāh ʾăḏōnāy mî yaʿămōḏ vs. wa-law yuʾākhidhu
-    llāhu n-nāsa bi-mā kasabū mā taraka ʿalā ẓahrihā min dābbatin: if God kept strict account no one would
-    survive. The psalm goes on to forgiveness (kî-ʿimməḵā ha-ssəlîḥâ); the Quran to a deferral until an
-    appointed term (yuʾakhkhiruhum ilā ajalin musammā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם עֲוֺנ֥וֹת תִּשְׁמָר יָ֑הּ אֲ֝דֹנָ֗י מִ֣י יַעֲמֹֽד
-- tradition: islam
-  ref: Quran 35:45
-  note: If God took people to task for what they earned he would not leave a creature on the earth's back,
-    but he defers them to a set term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَٰكِن
-    يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ
-    بَصِيرًۢا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾim-ʿăwōnôṯ tišmār-yāh ʾăḏōnāy mî yaʿămōḏ vs. wa-law yuʾākhidhu llāhu n-nāsa bi-mā kasabū
-    mā taraka ʿalā ẓahrihā min dābbatin: if God kept strict account no one would survive. The psalm goes
-    on to forgiveness (kî-ʿimməḵā ha-ssəlîḥâ); the Quran to a deferral until an appointed term (yuʾakhkhiruhum
-    ilā ajalin musammā).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God took people to task for what they earned he would not leave
     a creature on the earth''s back, but he defers them to a set term (weight 6.7). Pair score 6.7.'
@@ -70,6 +46,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God took people to task for what they earned he would not leave a creature on the earth's
+  back, but he defers them to a set term
+kinds:
+- parallel
+units:
+- id: hb-ps-130-de-profundis
+  title: Psalm 130, out of the depths
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: parallel
+  label: If God took people to task for what they earned he would not leave a creature on the earth's
+    back, but he defers them to a set term
+  note: 'ʾim-ʿăwōnôṯ tišmār-yāh ʾăḏōnāy mî yaʿămōḏ vs. wa-law yuʾākhidhu llāhu n-nāsa bi-mā kasabū mā
+    taraka ʿalā ẓahrihā min dābbatin: if God kept strict account no one would survive. The psalm goes
+    on to forgiveness (kî-ʿimməḵā ha-ssəlîḥâ); the Quran to a deferral until an appointed term (yuʾakhkhiruhum
+    ilā ajalin musammā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 130:3
+      lang: he
+      text: אִם עֲוֺנ֥וֹת תִּשְׁמָר יָ֑הּ אֲ֝דֹנָ֗י מִ֣י יַעֲמֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 35:45
+      lang: ar
+      text: وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ
+        وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ
+        بِعِبَادِهِۦ بَصِيرًۢا
 ---
 
 ## Questions

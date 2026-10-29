@@ -2,9 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-2-call-to-worship
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ Call to worship the Creator; the challenge; paradise and the gnat
-summary: 'These two units share 2 motifs: a challenge to rivals to prove a divine claim [divergence between
-  the texts], god summons the coastlands and nations (and their gods) to a court trial to argue their
-  case.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,81 +15,9 @@ layers:
 motifs:
 - challenge-to-prove-divine-claim-as-divergence
 - trial-of-nations-and-gods
-passages:
-- tradition: judaism
-  ref: Isa 41:21
-  note: 'A challenge to rivals to prove a divine claim [divergence between the texts] (Isa 41:21-23 qārĕbû
-    rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem: the gods are challenged to tell
-    what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin min mithlihi ... fa-in lam
-    tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah like it, with the answer
-    given in advance (wa-lan tafʿalū). The proof moves from prediction to the text itself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
-- tradition: judaism
-  ref: Isa 41:22
-  note: 'A challenge to rivals to prove a divine claim [divergence between the texts] (Isa 41:21-23 qārĕbû
-    rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem: the gods are challenged to tell
-    what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin min mithlihi ... fa-in lam
-    tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah like it, with the answer
-    given in advance (wa-lan tafʿalū). The proof moves from prediction to the text itself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ
-    וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ
-- tradition: islam
-  ref: Quran 2:23
-  note: 'A challenge to rivals to prove a divine claim [divergence between the texts] (Isa 41:21-23 qārĕbû
-    rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem: the gods are challenged to tell
-    what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin min mithlihi ... fa-in lam
-    tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah like it, with the answer
-    given in advance (wa-lan tafʿalū). The proof moves from prediction to the text itself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
-    وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: islam
-  ref: Quran 2:24
-  note: 'A challenge to rivals to prove a divine claim [divergence between the texts] (Isa 41:21-23 qārĕbû
-    rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem: the gods are challenged to tell
-    what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin min mithlihi ... fa-in lam
-    tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah like it, with the answer
-    given in advance (wa-lan tafʿalū). The proof moves from prediction to the text itself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ
-    أُعِدَّتْ لِلْكَٰفِرِينَ
-- tradition: judaism
-  ref: Isa 41:1
-  note: God summons the coastlands and nations (and their gods) to a court trial to argue their case
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַחֲרִ֤ישׁוּ אֵלַי֙ אִיִּ֔ים וּלְאֻמִּ֖ים יַחֲלִ֣יפוּ כֹ֑חַ יִגְּשׁוּ֙ אָ֣ז יְדַבֵּ֔רוּ יַחְדָּ֖ו
-    לַמִּשְׁפָּ֥ט נִקְרָֽבָה
-- tradition: judaism
-  ref: Isa 41:21
-  note: God summons the coastlands and nations (and their gods) to a court trial to argue their case
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
-- tradition: islam
-  ref: Quran 2:23
-  note: God summons the coastlands and nations (and their gods) to a court trial to argue their case (Isa
-    43:9 mî bāhem yaggîd zōʾt ... yittĕnû ʿēdêhem wĕ-yiṣdāqû 'let them bring their witnesses and be proved
-    right'; Q 2:23 fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in kuntum ṣādiqīn
-    'call your witnesses besides God, if you are truthful'. Same court-challenge diction (witnesses +
-    ṣ-d-q). Isaiah challenges the gods to foretell; the Quran challenges the hearers to produce a scripture.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
-    وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 41:21-23 qārĕbû rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem:
-    the gods are challenged to tell what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin
-    min mithlihi ... fa-in lam tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah
-    like it, with the answer given in advance (wa-lan tafʿalū). The proof moves from prediction to the
-    text itself.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A challenge to rivals to prove a divine claim [divergence between
     the texts] (weight 6.7); God summons the coastlands and nations (and their gods) to a court trial
@@ -128,6 +54,73 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A challenge to rivals to prove a divine claim
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: divergence
+  label: A challenge to rivals to prove a divine claim
+  note: 'Isa 41:21-23 qārĕbû rîbĕkem ... haggîdû hā-ʾōtiyyôt lĕ-ʾāḥôr wĕ-nēdĕʿâ kî ʾĕlōhîm ʾattem: the
+    gods are challenged to tell what is to come and so prove they are gods; Q 2:23-24 fa-ʾtū bi-sūratin
+    min mithlihi ... fa-in lam tafʿalū wa-lan tafʿalū: the opponents are challenged to produce one surah
+    like it, with the answer given in advance (wa-lan tafʿalū). The proof moves from prediction to the
+    text itself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:21
+      lang: he
+      text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
+    - ref: Isa 41:22
+      lang: he
+      text: יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ
+        וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ
+    - ref: Isa 41:23
+      lang: he
+      text: הַגִּ֨ידוּ֙ הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף תֵּיטִ֣יבוּ וְתָרֵ֔עוּ
+        וְנִשְׁתָּ֖עָה ונרא וְנִרְאֶ֥ה יַחְדָּֽו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:23
+      lang: ar
+      text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
+        وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 2:24
+      lang: ar
+      text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ
+        وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ
+- kind: shared
+  label: God summons the coastlands and nations (and their gods) to a court trial to argue their case
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:1
+      lang: he
+      text: הַחֲרִ֤ישׁוּ אֵלַי֙ אִיִּ֔ים וּלְאֻמִּ֖ים יַחֲלִ֣יפוּ כֹ֑חַ יִגְּשׁוּ֙ אָ֣ז יְדַבֵּ֔רוּ יַחְדָּ֖ו
+        לַמִּשְׁפָּ֥ט נִקְרָֽבָה
+    - ref: Isa 41:21
+      lang: he
+      text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 2:23
+      lang: ar
+      text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
+        وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+    note: Isa 43:9 mî bāhem yaggîd zōʾt ... yittĕnû ʿēdêhem wĕ-yiṣdāqû 'let them bring their witnesses
+      and be proved right'; Q 2:23 fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in
+      kuntum ṣādiqīn 'call your witnesses besides God, if you are truthful'. Same court-challenge diction
+      (witnesses + ṣ-d-q). Isaiah challenges the gods to foretell; the Quran challenges the hearers to
+      produce a scripture.
 ---
 
 ## Questions

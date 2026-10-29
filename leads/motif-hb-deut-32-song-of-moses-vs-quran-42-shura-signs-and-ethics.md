@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-42-shura-signs-and-ethics
 title: The Song of Moses (Ha'azinu) ↔ Provision in measure, rain, ships like mountains and the ethics
   of consultation and pardon
-summary: 'These two units share 1 motifs: if god gave his servants unlimited provision they would transgress
-  on earth, so he sends down in measure.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - too-much-provision-breeds-insolence
-passages:
-- tradition: judaism
-  ref: Deut 32:15
-  note: 'If God gave his servants unlimited provision they would transgress on earth, so he sends down
-    in measure (Plenty leads to rebellion: wa-yišman yəšurûn wa-yiḇʿāṭ ... wa-yiṭṭōš ʾĕlôah ʿāśāhû vs.
-    wa-law basaṭa llāhu r-rizqa li-ʿibādihi la-baghaw fī l-arḍ. Changed ending: Deuteronomy tells what
-    happened after God fed Israel; the Quran says that this is why God does not give unlimited provision:
-    wa-lākin yunazzilu bi-qadarin mā yashāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ וַיִּטֹּשׁ֙ אֱל֣וֹהַ עָשָׂ֔הוּ
-    וַיְנַבֵּ֖ל צ֥וּר יְשֻׁעָתֽוֹ
-- tradition: islam
-  ref: Quran 42:27
-  note: If God gave his servants unlimited provision they would transgress on earth, so he sends down
-    in measure (compare Deut 32:15 'Jeshurun grew fat and kicked')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ
-    مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Plenty leads to rebellion: wa-yišman yəšurûn wa-yiḇʿāṭ ... wa-yiṭṭōš ʾĕlôah ʿāśāhû vs. wa-law
-    basaṭa llāhu r-rizqa li-ʿibādihi la-baghaw fī l-arḍ. Changed ending: Deuteronomy tells what happened
-    after God fed Israel; the Quran says that this is why God does not give unlimited provision: wa-lākin
-    yunazzilu bi-qadarin mā yashāʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God gave his servants unlimited provision they would transgress
     on earth, so he sends down in measure (weight 6.7). Pair score 6.7.'
@@ -77,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God gave his servants unlimited provision they would transgress on earth, so he sends down
+  in measure
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: parallel
+  label: If God gave his servants unlimited provision they would transgress on earth, so he sends down
+    in measure
+  note: 'Plenty leads to rebellion: wa-yišman yəšurûn wa-yiḇʿāṭ ... wa-yiṭṭōš ʾĕlôah ʿāśāhû vs. wa-law
+    basaṭa llāhu r-rizqa li-ʿibādihi la-baghaw fī l-arḍ. Changed ending: Deuteronomy tells what happened
+    after God fed Israel; the Quran says that this is why God does not give unlimited provision: wa-lākin
+    yunazzilu bi-qadarin mā yashāʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:15
+      lang: he
+      text: וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ וַיִּטֹּשׁ֙ אֱל֣וֹהַ עָשָׂ֔הוּ
+        וַיְנַבֵּ֖ל צ֥וּר יְשֻׁעָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:27
+      lang: ar
+      text: وَلَوْ بَسَطَ ٱللَّهُ ٱلرِّزْقَ لِعِبَادِهِۦ لَبَغَوْا۟ فِى ٱلْأَرْضِ وَلَٰكِن يُنَزِّلُ بِقَدَرٍ
+        مَّا يَشَآءُ إِنَّهُۥ بِعِبَادِهِۦ خَبِيرٌۢ بَصِيرٌ
 ---
 
 ## Questions

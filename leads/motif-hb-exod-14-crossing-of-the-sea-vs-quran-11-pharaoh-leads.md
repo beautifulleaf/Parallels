@@ -2,8 +2,7 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-11-pharaoh-leads
 title: The pursuit and the parting of the sea ↔ Pharaoh leads his people into the fire; the towns standing
   and mown
-summary: 'These two units share 1 motifs: pharaoh goes at the head of his people to their destruction
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - pharaoh-leads-his-people-to-ruin-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 14:6
-  note: 'Pharaoh goes at the head of his people to their destruction [divergence between the texts] (Pharaoh
-    leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu yawma l-qiyāmati
-    fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô lāqaḥ ʿimmô wayyiqqaḥ
-    šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in Q he leads them into
-    the fire on the day of resurrection, a fire called a ''watering place'' (wird).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּאְסֹ֖ר אֶת רִכְבּ֑וֹ וְאֶת עַמּ֖וֹ לָקַ֥ח עִמּֽוֹ
-- tradition: judaism
-  ref: Exod 14:7
-  note: 'Pharaoh goes at the head of his people to their destruction [divergence between the texts] (Pharaoh
-    leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu yawma l-qiyāmati
-    fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô lāqaḥ ʿimmô wayyiqqaḥ
-    šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in Q he leads them into
-    the fire on the day of resurrection, a fire called a ''watering place'' (wird).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֗ח שֵׁשׁ מֵא֥וֹת רֶ֨כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָׁלִשִׁ֖ם עַל כֻּלּֽוֹ
-- tradition: islam
-  ref: Quran 11:97
-  note: 'Pharaoh goes at the head of his people to their destruction [divergence between the texts] (Pharaoh
-    leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu yawma l-qiyāmati
-    fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô lāqaḥ ʿimmô wayyiqqaḥ
-    šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in Q he leads them into
-    the fire on the day of resurrection, a fire called a ''watering place'' (wird).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱتَّبَعُوٓا۟ أَمْرَ فِرْعَوْنَ وَمَآ أَمْرُ فِرْعَوْنَ بِرَشِيدٍ
-- tradition: islam
-  ref: Quran 11:98
-  note: 'Pharaoh goes at the head of his people to their destruction [divergence between the texts] (Pharaoh
-    leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu yawma l-qiyāmati
-    fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô lāqaḥ ʿimmô wayyiqqaḥ
-    šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in Q he leads them into
-    the fire on the day of resurrection, a fire called a ''watering place'' (wird).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Pharaoh leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu
-    qawmahu yawma l-qiyāmati fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô
-    lāqaḥ ʿimmô wayyiqqaḥ šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in
-    Q he leads them into the fire on the day of resurrection, a fire called a ''watering place'' (wird).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh goes at the head of his people to their destruction [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -91,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh goes at the head of his people to their destruction
+kinds:
+- divergence
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-11-pharaoh-leads
+  title: Pharaoh leads his people into the fire; the towns standing and mown
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh goes at the head of his people to their destruction
+  note: 'Pharaoh leads his people at their head to their end: fa-ttabaʿū amra firʿawna ... yaqdumu qawmahu
+    yawma l-qiyāmati fa-awradahumu n-nāra wa-biʾsa l-wirdu l-mawrūd vs wayyeʾsōr ʾet-rikbô wᵉʾet-ʿammô
+    lāqaḥ ʿimmô wayyiqqaḥ šēš-mēʾôt rekeb. The setting is moved: in Exod he leads them into the sea; in
+    Q he leads them into the fire on the day of resurrection, a fire called a ''watering place'' (wird).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:6
+      lang: he
+      text: וַיֶּאְסֹ֖ר אֶת רִכְבּ֑וֹ וְאֶת עַמּ֖וֹ לָקַ֥ח עִמּֽוֹ
+    - ref: Exod 14:7
+      lang: he
+      text: וַיִּקַּ֗ח שֵׁשׁ מֵא֥וֹת רֶ֨כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָׁלִשִׁ֖ם עַל כֻּלּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:97
+      lang: ar
+      text: إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَٱتَّبَعُوٓا۟ أَمْرَ فِرْعَوْنَ وَمَآ أَمْرُ فِرْعَوْنَ
+        بِرَشِيدٍ
+    - ref: Quran 11:98
+      lang: ar
+      text: يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-24-moses-ascends-vs-quran-9-hunayn-jizya
 title: Moses ascends into the cloud for forty days ↔ Hunayn, the impurity of polytheists, the jizya
-summary: 'These two units share 1 motifs: god sends down his sakina (tranquility, cf. shekhinah) on the
-  prophet and believers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - sakina-descends
-passages:
-- tradition: judaism
-  ref: Exod 24:16
-  note: 'God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers (Root s-k-n
-    / š-k-n for God''s presence coming down: thumma anzala llāhu sakīnatahu ʿalā rasūlihi wa-ʿalā l-muʾminīn
-    vs wayyiškōn kᵉbôd-YHWH ʿal-har sînay. The noun šᵉkînāh is rabbinic, not biblical; in Q sakīna is
-    calm sent into the fighters, in Exod the glory settling on the mountain. A lead on the word, to check.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁכֹּ֤ן כְּבוֹד יְהוָה֙ עַל הַ֣ר סִינַ֔י וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א
-    אֶל מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן
-- tradition: islam
-  ref: Quran 9:26
-  note: God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا
-    لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Root s-k-n / š-k-n for God''s presence coming down: thumma anzala llāhu sakīnatahu ʿalā rasūlihi
-    wa-ʿalā l-muʾminīn vs wayyiškōn kᵉbôd-YHWH ʿal-har sînay. The noun šᵉkînāh is rabbinic, not biblical;
-    in Q sakīna is calm sent into the fighters, in Exod the glory settling on the mountain. A lead on
-    the word, to check.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends down his sakina (tranquility, cf. shekhinah) on the prophet
     and believers (weight 5.8). Pair score 5.8.'
@@ -65,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers
+kinds:
+- echo
+units:
+- id: hb-exod-24-moses-ascends
+  title: Moses ascends into the cloud for forty days
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: echo
+  label: God sends down his sakina (tranquility, cf. shekhinah) on the prophet and believers
+  note: 'Root s-k-n / š-k-n for God''s presence coming down: thumma anzala llāhu sakīnatahu ʿalā rasūlihi
+    wa-ʿalā l-muʾminīn vs wayyiškōn kᵉbôd-YHWH ʿal-har sînay. The noun šᵉkînāh is rabbinic, not biblical;
+    in Q sakīna is calm sent into the fighters, in Exod the glory settling on the mountain. A lead on
+    the word, to check.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:16
+      lang: he
+      text: וַיִּשְׁכֹּ֤ן כְּבוֹד יְהוָה֙ עַל הַ֣ר סִינַ֔י וַיְכַסֵּ֥הוּ הֶעָנָ֖ן שֵׁ֣שֶׁת יָמִ֑ים וַיִּקְרָ֧א
+        אֶל מֹשֶׁ֛ה בַּיּ֥וֹם הַשְּׁבִיעִ֖י מִתּ֥וֹךְ הֶעָנָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 9:26
+      lang: ar
+      text: ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا
+        لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ وَذَٰلِكَ جَزَآءُ ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-17-courts-king-vs-quran-8-treaties-peace
 title: Idolater's trial; witnesses; high court; law of the king ↔ Treaty-breakers, deterrence and peace
-summary: 'These two units share 1 motifs: amassing war horses, and trust in god [contrast between the
-  texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - war-horses-and-trust-in-god-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 17:16
-  note: 'Amassing war horses, and trust in God [contrast between the texts] (Opposite rulings on war horses:
-    Q orders wa-aʿiddū lahum mā staṭaʿtum min quwwatin wa-min ribāṭi l-khayli turhibūna bihi ʿaduwwa llāh;
-    Deut forbids the king to amass them, raq lōʾ-yarbeh-llô sûsîm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַק֮ לֹא יַרְבֶּה לּ֣וֹ סוּסִים֒ וְלֹֽא יָשִׁ֤יב אֶת הָעָם֙ מִצְרַ֔יְמָה לְמַ֖עַן הַרְבּ֣וֹת ס֑וּס
-    וַֽיהוָה֙ אָמַ֣ר לָכֶ֔ם לֹ֣א תֹסִפ֗וּן לָשׁ֛וּב בַּדֶּ֥רֶךְ הַזֶּ֖ה עֽוֹד
-- tradition: islam
-  ref: Quran 8:60
-  note: 'Amassing war horses, and trust in God [contrast between the texts] (Opposite rulings on war horses:
-    Q orders wa-aʿiddū lahum mā staṭaʿtum min quwwatin wa-min ribāṭi l-khayli turhibūna bihi ʿaduwwa llāh;
-    Deut forbids the king to amass them, raq lōʾ-yarbeh-llô sûsîm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ عَدُوَّ
-    ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ وَمَا تُنفِقُوا۟
-    مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Opposite rulings on war horses: Q orders wa-aʿiddū lahum mā staṭaʿtum min quwwatin wa-min
-    ribāṭi l-khayli turhibūna bihi ʿaduwwa llāh; Deut forbids the king to amass them, raq lōʾ-yarbeh-llô
-    sûsîm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Amassing war horses, and trust in God [contrast between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -70,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Amassing war horses, and trust in God
+kinds:
+- contrast
+units:
+- id: hb-deut-17-courts-king
+  title: Idolater's trial; witnesses; high court; law of the king
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: contrast
+  label: Amassing war horses, and trust in God
+  note: 'Opposite rulings on war horses: Q orders wa-aʿiddū lahum mā staṭaʿtum min quwwatin wa-min ribāṭi
+    l-khayli turhibūna bihi ʿaduwwa llāh; Deut forbids the king to amass them, raq lōʾ-yarbeh-llô sûsîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 17:16
+      lang: he
+      text: רַק֮ לֹא יַרְבֶּה לּ֣וֹ סוּסִים֒ וְלֹֽא יָשִׁ֤יב אֶת הָעָם֙ מִצְרַ֔יְמָה לְמַ֖עַן הַרְבּ֣וֹת
+        ס֑וּס וַֽיהוָה֙ אָמַ֣ר לָכֶ֔ם לֹ֣א תֹסִפ֗וּן לָשׁ֛וּב בַּדֶּ֥רֶךְ הַזֶּ֖ה עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 8:60
+      lang: ar
+      text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ
+        عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ
+        وَمَا تُنفِقُوا۟ مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-flood-vs-quran-21-noah-david-solomon
 title: The Flood (full read) ↔ Noah answered; David and Solomon's judgment, the praising mountains, mail
   and wind
-summary: 'These two units share 3 motifs: hero asks the deity to judge or destroy his opponents [divergence
-  between the texts], all others perish, hero''s family saved with him.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,103 +16,9 @@ motifs:
 - hero-prays-for-judgment-as-divergence
 - universal-destruction
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 6:9
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: judaism
-  ref: Gen 6:18
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: islam
-  ref: Quran 21:76
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
-    ٱلْعَظِيمِ
-- tradition: islam
-  ref: Quran 21:77
-  note: 'Hero asks the deity to judge or destroy his opponents [divergence between the texts] (Gen: Noah
-    never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay) and tells him
-    to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm). Q: Noah calls
-    out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ... fa-aghraqnāhum
-    ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people who denied
-    our signs''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ
-    فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:22
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
-- tradition: islam
-  ref: Quran 21:77
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ
-    فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
-- tradition: judaism
-  ref: Gen 6:18
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: judaism
-  ref: Gen 7:7
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 21:76
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
-    ٱلْعَظِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: Noah never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq
-    ləpānay) and tells him to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm).
-    Q: Noah calls out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ...
-    fa-aghraqnāhum ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people
-    who denied our signs''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero asks the deity to judge or destroy his opponents [divergence
     between the texts] (weight 6.3); All others perish (weight 5.0); Hero''s family saved with him (weight
@@ -147,6 +52,97 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero asks the deity to judge or destroy his opponents
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero asks the deity to judge or destroy his opponents
+  note: 'Gen: Noah never speaks or prays; God chooses him as righteous (kî-ʾōtəkā rāʾîtî ṣaddîq ləpānay)
+    and tells him to enter with his household, and everything else is wiped out (wayyimaḥ ʾet-kol-hayqûm).
+    Q: Noah calls out and is answered, idh nādā min qablu fa-stajabnā lahu fa-najjaynāhu wa-ahlahu ...
+    fa-aghraqnāhum ajmaʿīn. Rescue by election becomes an answer to prayer, and the drowned are ''a people
+    who denied our signs''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:9
+      lang: he
+      text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+        הִֽתְהַלֶּךְ נֹֽחַ
+    - ref: Gen 6:18
+      lang: he
+      text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥
+        וּנְשֵֽׁי בָנֶ֖יךָ אִתָּֽךְ
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:76
+      lang: ar
+      text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
+        ٱلْعَظِيمِ
+    - ref: Quran 21:77
+      lang: ar
+      text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ
+        سَوْءٍ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:22
+      lang: he
+      text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:77
+      lang: ar
+      text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ
+        سَوْءٍ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:18
+      lang: he
+      text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥
+        וּנְשֵֽׁי בָנֶ֖יךָ אִתָּֽךְ
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    - ref: Gen 7:13
+      lang: he
+      text: בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם וְחָ֥ם וָיֶ֖פֶת בְּנֵי נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ
+        וּשְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛יו אִתָּ֖ם אֶל הַתֵּבָֽה
+    note: eight persons
+  - tradition: islam
+    passages:
+    - ref: Quran 21:76
+      lang: ar
+      text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
+        ٱلْعَظِيمِ
 ---
 
 ## Questions

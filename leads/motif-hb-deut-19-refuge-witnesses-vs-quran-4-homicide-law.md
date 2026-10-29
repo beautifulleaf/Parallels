@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-19-refuge-witnesses-vs-quran-4-homicide-law
 title: Cities of refuge, boundary stones, false witnesses ↔ Accidental and deliberate killing of a believer
-summary: 'These two units share 1 motifs: a place of refuge for one who kills unintentionally [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,47 +13,9 @@ layers:
 - motif
 motifs:
 - city-of-refuge-accidental-killer-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 19:4
-  note: 'A place of refuge for one who kills unintentionally [divergence between the texts] (Deut: ʾăšer
-    yakkeh ʾet-rēʿēhû bi-vlî-daʿat wə-hûʾ lōʾ-śōnēʾ lô (the axe-head case) ... yānûs ... wā-ḥāy. Q: the
-    same category khaṭaʾan, but the remedy is payment to the family and freeing a slave, with no refuge
-    or avenger (gōʾēl ha-dām).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר יָנ֥וּס שָׁ֖מָּה וָחָ֑י אֲשֶׁ֨ר יַכֶּ֤ה אֶת רֵעֵ֨הוּ֙ בִּבְלִי
-    דַ֔עַת וְה֛וּא לֹא שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם
-- tradition: judaism
-  ref: Deut 19:5
-  note: 'A place of refuge for one who kills unintentionally [divergence between the texts] (Deut: ʾăšer
-    yakkeh ʾet-rēʿēhû bi-vlî-daʿat wə-hûʾ lōʾ-śōnēʾ lô (the axe-head case) ... yānûs ... wā-ḥāy. Q: the
-    same category khaṭaʾan, but the remedy is payment to the family and freeing a slave, with no refuge
-    or avenger (gōʾēl ha-dām).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲשֶׁר֩ יָבֹ֨א אֶת רֵעֵ֥הוּ בַיַּעַר֮ לַחְטֹ֣ב עֵצִים֒ וְנִדְּחָ֨ה יָד֤וֹ בַגַּרְזֶן֙ לִכְרֹ֣ת
-    הָעֵ֔ץ וְנָשַׁ֤ל הַבַּרְזֶל֙ מִן הָעֵ֔ץ וּמָצָ֥א אֶת רֵעֵ֖הוּ וָמֵ֑ת ה֗וּא יָנ֛וּס אֶל אַחַ֥ת הֶעָרִים
-    הָאֵ֖לֶּה וָחָֽי
-- tradition: islam
-  ref: Quran 4:92
-  note: 'A place of refuge for one who kills unintentionally [divergence between the texts] (The same
-    legal category: Q khaṭaʾan = Num bi-šəgāgāh (unintentional killing). The remedy differs. Num: asylum
-    in a city of refuge (wə-nās šāmmāh rōṣēaḥ makkēh-nefeš bi-šəgāgāh). Q: taḥrīru raqabatin muʾminatin
-    wa-diyatun musallamatun ilā ahlihi (free a slave, pay blood money), and if one cannot, fast two months.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا
-    فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟
-    فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَإِن كَانَ
-    مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ رَقَبَةٍ
-    مُّؤْمِنَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ وَكَانَ
-    ٱللَّهُ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Deut: ʾăšer yakkeh ʾet-rēʿēhû bi-vlî-daʿat wə-hûʾ lōʾ-śōnēʾ lô (the axe-head case) ...
-    yānûs ... wā-ḥāy. Q: the same category khaṭaʾan, but the remedy is payment to the family and freeing
-    a slave, with no refuge or avenger (gōʾēl ha-dām).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A place of refuge for one who kills unintentionally [divergence
     between the texts] (weight 6.0). Pair score 6.0.'
@@ -84,6 +45,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A place of refuge for one who kills unintentionally
+kinds:
+- divergence
+units:
+- id: hb-deut-19-refuge-witnesses
+  title: Cities of refuge, boundary stones, false witnesses
+  tradition: judaism
+- id: quran-4-homicide-law
+  title: Accidental and deliberate killing of a believer
+  tradition: islam
+matches:
+- kind: divergence
+  label: A place of refuge for one who kills unintentionally
+  note: 'Deut: ʾăšer yakkeh ʾet-rēʿēhû bi-vlî-daʿat wə-hûʾ lōʾ-śōnēʾ lô (the axe-head case) ... yānûs
+    ... wā-ḥāy. Q: the same category khaṭaʾan, but the remedy is payment to the family and freeing a slave,
+    with no refuge or avenger (gōʾēl ha-dām).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:4
+      lang: he
+      text: וְזֶה֙ דְּבַ֣ר הָרֹצֵ֔חַ אֲשֶׁר יָנ֥וּס שָׁ֖מָּה וָחָ֑י אֲשֶׁ֨ר יַכֶּ֤ה אֶת רֵעֵ֨הוּ֙ בִּבְלִי
+        דַ֔עַת וְה֛וּא לֹא שֹׂנֵ֥א ל֖וֹ מִתְּמֹ֥ל שִׁלְשֹֽׁם
+    - ref: Deut 19:5
+      lang: he
+      text: וַאֲשֶׁר֩ יָבֹ֨א אֶת רֵעֵ֥הוּ בַיַּעַר֮ לַחְטֹ֣ב עֵצִים֒ וְנִדְּחָ֨ה יָד֤וֹ בַגַּרְזֶן֙ לִכְרֹ֣ת
+        הָעֵ֔ץ וְנָשַׁ֤ל הַבַּרְזֶל֙ מִן הָעֵ֔ץ וּמָצָ֥א אֶת רֵעֵ֖הוּ וָמֵ֑ת ה֗וּא יָנ֛וּס אֶל אַחַ֥ת
+        הֶעָרִים הָאֵ֖לֶּה וָחָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:92
+      lang: ar
+      text: وَمَا كَانَ لِمُؤْمِنٍ أَن يَقْتُلَ مُؤْمِنًا إِلَّا خَطَـًٔا وَمَن قَتَلَ مُؤْمِنًا خَطَـًٔا
+        فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦٓ إِلَّآ أَن يَصَّدَّقُوا۟
+        فَإِن كَانَ مِن قَوْمٍ عَدُوٍّ لَّكُمْ وَهُوَ مُؤْمِنٌ فَتَحْرِيرُ رَقَبَةٍ مُّؤْمِنَةٍ وَإِن
+        كَانَ مِن قَوْمٍۭ بَيْنَكُمْ وَبَيْنَهُم مِّيثَٰقٌ فَدِيَةٌ مُّسَلَّمَةٌ إِلَىٰٓ أَهْلِهِۦ وَتَحْرِيرُ
+        رَقَبَةٍ مُّؤْمِنَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ تَوْبَةً مِّنَ ٱللَّهِ
+        وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

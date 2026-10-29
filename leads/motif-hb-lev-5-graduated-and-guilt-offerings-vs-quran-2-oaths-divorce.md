@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-2-oaths-divorce
 title: Graduated purification offering and the guilt (asham) offering ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 2 motifs: liability for oaths spoken thoughtlessly [contrast between the
-  texts], a rash oath spoken thoughtlessly requires atonement.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,56 +14,9 @@ layers:
 motifs:
 - liability-for-thoughtless-oaths-as-contrast
 - rash-oath-requires-atonement
-passages:
-- tradition: judaism
-  ref: Lev 5:4
-  note: 'Liability for oaths spoken thoughtlessly [contrast between the texts] (Lev 5:4 ʾô nepeš kî tiššābaʿ
-    lĕ-baṭṭēʾ bi-śpātayim ... wĕ-neʿlam mimmennû wĕ-hûʾ yādaʿ wĕ-ʾāšēm: a rash oath uttered with the lips,
-    even one forgotten, brings guilt and needs an offering; Q 2:225 lā yuʾākhidhukumu llāhu bi-l-laghwi
-    fī aymānikum wa-lākin yuʾākhidhukum bi-mā kasabat qulūbukum: God does not hold you to thoughtless
-    oaths, only to what your hearts intended. Lips vs heart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
-    יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
-- tradition: islam
-  ref: Quran 2:225
-  note: 'Liability for oaths spoken thoughtlessly [contrast between the texts] (Lev 5:4 ʾô nepeš kî tiššābaʿ
-    lĕ-baṭṭēʾ bi-śpātayim ... wĕ-neʿlam mimmennû wĕ-hûʾ yādaʿ wĕ-ʾāšēm: a rash oath uttered with the lips,
-    even one forgotten, brings guilt and needs an offering; Q 2:225 lā yuʾākhidhukumu llāhu bi-l-laghwi
-    fī aymānikum wa-lākin yuʾākhidhukum bi-mā kasabat qulūbukum: God does not hold you to thoughtless
-    oaths, only to what your hearts intended. Lips vs heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
-    قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
-- tradition: judaism
-  ref: Lev 5:4
-  note: A rash oath spoken thoughtlessly requires atonement
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
-    יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
-- tradition: islam
-  ref: Quran 2:224
-  note: A rash oath spoken thoughtlessly requires atonement (God does not hold you to idle oaths)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟
-    بَيْنَ ٱلنَّاسِ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 2:225
-  note: A rash oath spoken thoughtlessly requires atonement (God does not hold you to idle oaths)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
-    قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Lev 5:4 ʾô nepeš kî tiššābaʿ lĕ-baṭṭēʾ bi-śpātayim ... wĕ-neʿlam mimmennû wĕ-hûʾ yādaʿ wĕ-ʾāšēm:
-    a rash oath uttered with the lips, even one forgotten, brings guilt and needs an offering; Q 2:225
-    lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum wa-lākin yuʾākhidhukum bi-mā kasabat qulūbukum: God
-    does not hold you to thoughtless oaths, only to what your hearts intended. Lips vs heart.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Liability for oaths spoken thoughtlessly [contrast between the texts]
     (weight 6.7); A rash oath spoken thoughtlessly requires atonement (weight 6.3). Pair score 13.0.'
@@ -97,6 +49,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Liability for oaths spoken thoughtlessly
+kinds:
+- contrast
+- shared
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: contrast
+  label: Liability for oaths spoken thoughtlessly
+  note: 'Lev 5:4 ʾô nepeš kî tiššābaʿ lĕ-baṭṭēʾ bi-śpātayim ... wĕ-neʿlam mimmennû wĕ-hûʾ yādaʿ wĕ-ʾāšēm:
+    a rash oath uttered with the lips, even one forgotten, brings guilt and needs an offering; Q 2:225
+    lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum wa-lākin yuʾākhidhukum bi-mā kasabat qulūbukum: God
+    does not hold you to thoughtless oaths, only to what your hearts intended. Lips vs heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:4
+      lang: he
+      text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
+        יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:225
+      lang: ar
+      text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
+        قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
+- kind: shared
+  label: A rash oath spoken thoughtlessly requires atonement
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:4
+      lang: he
+      text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
+        יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:224
+      lang: ar
+      text: وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟
+        بَيْنَ ٱلنَّاسِ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+    - ref: Quran 2:225
+      lang: ar
+      text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
+        قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
+    note: God does not hold you to idle oaths
 ---
 
 ## Questions

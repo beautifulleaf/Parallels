@@ -2,8 +2,7 @@
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-22-destroyed-towns-satanic-insinuation
 title: Song of the vineyard; six woes; the nation from afar ↔ Rejected prophets, ruined towns, the thousand-year
   day and Satan's insertion
-summary: 'These two units share 1 motifs: scoffers ask the prophet to hasten the punishment; it is held
-  back only by an appointed term and will come suddenly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - punishment-hastened-by-scoffers
-passages:
-- tradition: judaism
-  ref: Isa 5:19
-  note: 'Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term
-    and will come suddenly (wa-yastaʿjilūnaka bi-l-ʿadhābi wa-lan yukhlifa llāhu waʿdahu ~ hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh: the scoffers dare God to hurry (istaʿjala / mihēr, ḥîš) the
-    threatened judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת קְד֥וֹשׁ
-    יִשְׂרָאֵ֖ל וְנֵדָֽעָה
-- tradition: islam
-  ref: Quran 22:47
-  note: 'Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term
-    and will come suddenly (wa-yastaʿjilūnaka bi-l-ʿadhābi wa-lan yukhlifa llāhu waʿdahu ~ hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh: the scoffers dare God to hurry (istaʿjala / mihēr, ḥîš) the
-    threatened judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن يُخْلِفَ ٱللَّهُ وَعْدَهُۥ وَإِنَّ يَوْمًا عِندَ رَبِّكَ
-    كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-yastaʿjilūnaka bi-l-ʿadhābi wa-lan yukhlifa llāhu waʿdahu ~ hā-ʾōmərîm yəmahēr yāḥîšâ
-    maʿăśēhû ləmaʿan nirʾeh: the scoffers dare God to hurry (istaʿjala / mihēr, ḥîš) the threatened judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers ask the prophet to hasten the punishment; it is held back
     only by an appointed term and will come suddenly (weight 5.6). Pair score 5.6.'
@@ -78,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term
+  and will come suddenly
+kinds:
+- parallel
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: parallel
+  label: Scoffers ask the prophet to hasten the punishment; it is held back only by an appointed term
+    and will come suddenly
+  note: 'wa-yastaʿjilūnaka bi-l-ʿadhābi wa-lan yukhlifa llāhu waʿdahu ~ hā-ʾōmərîm yəmahēr yāḥîšâ maʿăśēhû
+    ləmaʿan nirʾeh: the scoffers dare God to hurry (istaʿjala / mihēr, ḥîš) the threatened judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:19
+      lang: he
+      text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת
+        קְד֥וֹשׁ יִשְׂרָאֵ֖ל וְנֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:47
+      lang: ar
+      text: وَيَسْتَعْجِلُونَكَ بِٱلْعَذَابِ وَلَن يُخْلِفَ ٱللَّهُ وَعْدَهُۥ وَإِنَّ يَوْمًا عِندَ رَبِّكَ
+        كَأَلْفِ سَنَةٍ مِّمَّا تَعُدُّونَ
 ---
 
 ## Questions

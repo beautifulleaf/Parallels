@@ -2,8 +2,7 @@
 id: motif-ec-pseudo-matthew-vs-quran-19-mary-and-jesus
 title: Gospel of Pseudo-Matthew ↔ Mary, the spirit in human form, the birth under the palm, the speaking
   infant (Surah 19:16-40)
-summary: 'These two units share 2 motifs: a palm tree provides food to the mother, a spring or stream
-  appears for the mother.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,31 +16,7 @@ layers:
 motifs:
 - palm-tree-provides
 - miraculous-spring
-passages:
-- tradition: christianity-early
-  ref: 'Gospel of Pseudo-Matthew: 20'
-  note: A palm tree provides food to the mother
-- tradition: islam
-  ref: Quran 19:25
-  note: 'A palm tree provides food to the mother (shake the trunk: fresh ripe dates fall)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا
-- tradition: christianity-early
-  ref: 'Gospel of Pseudo-Matthew: 20'
-  note: A spring or stream appears for the mother
-- tradition: islam
-  ref: Quran 19:24
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
-- tradition: islam
-  ref: Quran 19:22
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A palm tree provides food to the mother (weight 6.3); A spring or
     stream appears for the mother (weight 5.6). Pair score 11.9.'
@@ -53,6 +28,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A palm tree provides food to the mother
+kinds:
+- shared
+units:
+- id: ec-pseudo-matthew
+  title: Gospel of Pseudo-Matthew
+  tradition: christianity-early
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: shared
+  label: A palm tree provides food to the mother
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Gospel of Pseudo-Matthew: 20'
+  - tradition: islam
+    passages:
+    - ref: Quran 19:25
+      lang: ar
+      text: وَهُزِّىٓ إِلَيْكِ بِجِذْعِ ٱلنَّخْلَةِ تُسَٰقِطْ عَلَيْكِ رُطَبًا جَنِيًّا
+    note: 'shake the trunk: fresh ripe dates fall'
+- kind: shared
+  label: A spring or stream appears for the mother
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Gospel of Pseudo-Matthew: 20'
+  - tradition: islam
+    passages:
+    - ref: Quran 19:24
+      lang: ar
+      text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+    - ref: Quran 19:22
+      lang: ar
+      text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+    note: sariyyan, a rivulet beneath her
 ---
 
 ## Questions

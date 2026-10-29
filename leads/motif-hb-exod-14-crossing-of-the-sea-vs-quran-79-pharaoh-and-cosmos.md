@@ -2,8 +2,7 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-79-pharaoh-and-cosmos
 title: 'The pursuit and the parting of the sea ↔ Those who drag forth: Moses at Tuwa, Pharaoh''s claim,
   and the spreading of the earth'
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people, the returning waters drown the pursuing army; not one survives.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,57 +16,7 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:4
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחִזַּקְתִּ֣י אֶת לֵב פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל חֵיל֔וֹ
-    וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ כֵֽן
-- tradition: judaism
-  ref: Exod 14:8
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל
-    וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה
-- tradition: islam
-  ref: Quran 79:20
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
-- tradition: islam
-  ref: Quran 79:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 79:25
-  note: 'The returning waters drown the pursuing army; not one survives (fa-akhadhahu llāhu nakāla l-ākhirati
-    wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment
-    in the next world as well.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people (weight 4.6); The returning waters drown the pursuing army; not one survives
@@ -105,6 +54,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- shared
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:4
+      lang: he
+      text: וְחִזַּקְתִּ֣י אֶת לֵב פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל חֵיל֔וֹ
+        וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ כֵֽן
+    - ref: Exod 14:8
+      lang: he
+      text: וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל
+        וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה
+    - ref: Exod 14:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִ֤י מְחַזֵּק֙ אֶת לֵ֣ב מִצְרַ֔יִם וְיָבֹ֖אוּ אַחֲרֵיהֶ֑ם וְאִכָּבְדָ֤ה בְּפַרְעֹה֙
+        וּבְכָל חֵיל֔וֹ בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו
+  - tradition: islam
+    passages:
+    - ref: Quran 79:20
+      lang: ar
+      text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
+    - ref: Quran 79:21
+      lang: ar
+      text: فَكَذَّبَ وَعَصَىٰ
+    - ref: Quran 79:22
+      lang: ar
+      text: ثُمَّ أَدْبَرَ يَسْعَىٰ
+    note: shown the greatest sign, he denied and disobeyed
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:26
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
+        עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
+    - ref: Exod 14:27
+      lang: he
+      text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ
+        וּמִצְרַ֖יִם נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+    note: '''not one remained'''
+  - tradition: islam
+    passages:
+    - ref: Quran 79:25
+      lang: ar
+      text: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ
+    note: 'fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh
+      himself punished by God; the Quran adds punishment in the next world as well.'
 ---
 
 ## Questions

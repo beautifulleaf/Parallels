@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-9-baraa-treaties
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The disavowal - treaties, sacred months and
   asylum'
-summary: 'These two units share 1 motifs: war on the idolatrous inhabitants: total destruction or a way
-  out [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - war-on-idolaters-of-the-land-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 20:16
-  note: 'War on the idolatrous inhabitants: total destruction or a way out [contrast between the texts]
-    (War against the idolaters of the land: Q fa-qtulū l-mushrikīna ḥaythu wajadtumūhum ... fa-in tābū
-    wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum (repentance opens a way out); Deut lōʾ tᵉḥayyeh
-    kol-nᵉšāmāh kî-haḥărēm taḥărîmēm (no survivor, lest they teach their abominations). Opposite on whether
-    conversion spares.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה לֹ֥א תְחַיֶּ֖ה
-    כָּל נְשָׁמָֽה
-- tradition: judaism
-  ref: Deut 20:17
-  note: 'War on the idolatrous inhabitants: total destruction or a way out [contrast between the texts]
-    (War against the idolaters of the land: Q fa-qtulū l-mushrikīna ḥaythu wajadtumūhum ... fa-in tābū
-    wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum (repentance opens a way out); Deut lōʾ tᵉḥayyeh
-    kol-nᵉšāmāh kî-haḥărēm taḥărîmēm (no survivor, lest they teach their abominations). Opposite on whether
-    conversion spares.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הַחֲרֵ֣ם תַּחֲרִימֵ֗ם הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִ֑י
-    כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ
-- tradition: islam
-  ref: Quran 9:5
-  note: 'War on the idolatrous inhabitants: total destruction or a way out [contrast between the texts]
-    (War against the idolaters of the land: Q fa-qtulū l-mushrikīna ḥaythu wajadtumūhum ... fa-in tābū
-    wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum (repentance opens a way out); Deut lōʾ tᵉḥayyeh
-    kol-nᵉšāmāh kî-haḥărēm taḥărîmēm (no survivor, lest they teach their abominations). Opposite on whether
-    conversion spares.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ
-    وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟
-    ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. War against the idolaters of the land: Q fa-qtulū l-mushrikīna ḥaythu wajadtumūhum ... fa-in
-    tābū wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum (repentance opens a way out); Deut lōʾ
-    tᵉḥayyeh kol-nᵉšāmāh kî-haḥărēm taḥărîmēm (no survivor, lest they teach their abominations). Opposite
-    on whether conversion spares.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: War on the idolatrous inhabitants: total destruction or a way out
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'War on the idolatrous inhabitants: total destruction or a way out'
+kinds:
+- contrast
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-9-baraa-treaties
+  title: The disavowal - treaties, sacred months and asylum
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'War on the idolatrous inhabitants: total destruction or a way out'
+  note: 'War against the idolaters of the land: Q fa-qtulū l-mushrikīna ḥaythu wajadtumūhum ... fa-in
+    tābū wa-aqāmū ṣ-ṣalāta wa-ātawu z-zakāta fa-khallū sabīlahum (repentance opens a way out); Deut lōʾ
+    tᵉḥayyeh kol-nᵉšāmāh kî-haḥărēm taḥărîmēm (no survivor, lest they teach their abominations). Opposite
+    on whether conversion spares.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:16
+      lang: he
+      text: רַ֗ק מֵעָרֵ֤י הָֽעַמִּים֙ הָאֵ֔לֶּה אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה לֹ֥א
+        תְחַיֶּ֖ה כָּל נְשָׁמָֽה
+    - ref: Deut 20:17
+      lang: he
+      text: כִּֽי הַחֲרֵ֣ם תַּחֲרִימֵ֗ם הַחִתִּ֤י וְהָאֱמֹרִי֙ הַכְּנַעֲנִ֣י וְהַפְּרִזִּ֔י הַחִוִּ֖י
+        וְהַיְבוּסִ֑י כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ
+    - ref: Deut 20:18
+      lang: he
+      text: לְמַ֗עַן אֲשֶׁ֨ר לֹֽא יְלַמְּד֤וּ אֶתְכֶם֙ לַעֲשׂ֔וֹת כְּכֹל֙ תּֽוֹעֲבֹתָ֔ם אֲשֶׁ֥ר עָשׂ֖וּ
+        לֵֽאלֹהֵיהֶ֑ם וַחֲטָאתֶ֖ם לַיהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:5
+      lang: ar
+      text: فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ
+        وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ
+        وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

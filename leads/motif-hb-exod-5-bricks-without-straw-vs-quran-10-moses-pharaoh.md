@@ -2,8 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-10-moses-pharaoh
 title: First audience with Pharaoh; bricks without straw ↔ Moses, the houses as qibla, and Pharaoh's drowning
   faith
-summary: 'These two units share 1 motifs: unbelievers defend their practice as what they found their fathers
-  doing.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - ancestral-custom-defense
-passages:
-- tradition: judaism
-  ref: Exod 5:4
-  note: 'Unbelievers defend their practice as what they found their fathers doing (Pharaoh''s court accuses
-    Moses and Aaron of turning the people aside: a-jiʾtanā li-talfitanā ʿammā wajadnā ʿalayhi ābāʾanā
-    wa-takūna lakumā l-kibriyāʾu fī l-arḍ vs lāmmāh mōšeh wᵉʾahărōn tapriʿû ʾet-hāʿām mimmaʿăśāyw. In
-    Exod the charge is distraction from labour; in Q turning them from ancestral religion and a bid for
-    power.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֲלֵהֶם֙ מֶ֣לֶךְ מִצְרַ֔יִם לָ֚מָּה מֹשֶׁ֣ה וְאַהֲרֹ֔ן תַּפְרִ֥יעוּ אֶת הָעָ֖ם מִמַּֽעֲשָׂ֑יו
-    לְכ֖וּ לְסִבְלֹתֵיכֶֽם
-- tradition: islam
-  ref: Quran 10:78
-  note: Unbelievers defend their practice as what they found their fathers doing
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلْكِبْرِيَآءُ
-    فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Pharaoh''s court accuses Moses and Aaron of turning the people aside: a-jiʾtanā li-talfitanā
-    ʿammā wajadnā ʿalayhi ābāʾanā wa-takūna lakumā l-kibriyāʾu fī l-arḍ vs lāmmāh mōšeh wᵉʾahărōn tapriʿû
-    ʾet-hāʿām mimmaʿăśāyw. In Exod the charge is distraction from labour; in Q turning them from ancestral
-    religion and a bid for power.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers defend their practice as what they found their fathers
     doing (weight 5.1). Pair score 5.1.'
@@ -75,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unbelievers defend their practice as what they found their fathers doing
+kinds:
+- echo
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: echo
+  label: Unbelievers defend their practice as what they found their fathers doing
+  note: 'Pharaoh''s court accuses Moses and Aaron of turning the people aside: a-jiʾtanā li-talfitanā
+    ʿammā wajadnā ʿalayhi ābāʾanā wa-takūna lakumā l-kibriyāʾu fī l-arḍ vs lāmmāh mōšeh wᵉʾahărōn tapriʿû
+    ʾet-hāʿām mimmaʿăśāyw. In Exod the charge is distraction from labour; in Q turning them from ancestral
+    religion and a bid for power.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:4
+      lang: he
+      text: וַיֹּ֤אמֶר אֲלֵהֶם֙ מֶ֣לֶךְ מִצְרַ֔יִם לָ֚מָּה מֹשֶׁ֣ה וְאַהֲרֹ֔ן תַּפְרִ֥יעוּ אֶת הָעָ֖ם
+        מִמַּֽעֲשָׂ֑יו לְכ֖וּ לְסִבְלֹתֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:78
+      lang: ar
+      text: قَالُوٓا۟ أَجِئْتَنَا لِتَلْفِتَنَا عَمَّا وَجَدْنَا عَلَيْهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا
+        ٱلْكِبْرِيَآءُ فِى ٱلْأَرْضِ وَمَا نَحْنُ لَكُمَا بِمُؤْمِنِينَ
 ---
 
 ## Questions

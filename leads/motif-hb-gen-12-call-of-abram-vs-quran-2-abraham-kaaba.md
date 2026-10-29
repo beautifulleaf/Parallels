@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-12-call-of-abram-vs-quran-2-abraham-kaaba
 title: The call of Abram and his journey through Canaan ↔ Abraham, Ishmael and the House
-summary: 'These two units share 2 motifs: a patriarch builds an altar or house of worship [divergence
-  between the texts], patriarch builds an altar where god appeared to him.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,69 +14,9 @@ layers:
 motifs:
 - patriarch-builds-sanctuary-as-divergence
 - altar-at-theophany-site
-passages:
-- tradition: judaism
-  ref: Gen 12:7
-  note: 'A patriarch builds an altar or house of worship [divergence between the texts] (Gen 12:7 wa-yyiben
-    šām mizbēaḥ la-YHWH ha-nnirʾeh ʾēlāyw: Abraham alone builds altars in Canaan (Shechem, Bethel, Hebron);
-    Q 2:127 wa-idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa-ismāʿīlu: Abraham with Ishmael raises the
-    foundations of ''the House'', which God makes a place of return and security for all people (2:125).
-    Altar becomes House, Canaan becomes (by context) Mecca, and Ishmael is his partner.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֤א יְהוָה֙ אֶל אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן
-    שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו
-- tradition: islam
-  ref: Quran 2:125
-  note: 'A patriarch builds an altar or house of worship [divergence between the texts] (Gen 12:7 wa-yyiben
-    šām mizbēaḥ la-YHWH ha-nnirʾeh ʾēlāyw: Abraham alone builds altars in Canaan (Shechem, Bethel, Hebron);
-    Q 2:127 wa-idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa-ismāʿīlu: Abraham with Ishmael raises the
-    foundations of ''the House'', which God makes a place of return and security for all people (2:125).
-    Altar becomes House, Canaan becomes (by context) Mecca, and Ishmael is his partner.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
-    مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ
-    وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: islam
-  ref: Quran 2:127
-  note: 'A patriarch builds an altar or house of worship [divergence between the texts] (Gen 12:7 wa-yyiben
-    šām mizbēaḥ la-YHWH ha-nnirʾeh ʾēlāyw: Abraham alone builds altars in Canaan (Shechem, Bethel, Hebron);
-    Q 2:127 wa-idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa-ismāʿīlu: Abraham with Ishmael raises the
-    foundations of ''the House'', which God makes a place of return and security for all people (2:125).
-    Altar becomes House, Canaan becomes (by context) Mecca, and Ishmael is his partner.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ
-    إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-- tradition: judaism
-  ref: Gen 12:7
-  note: Patriarch builds an altar where God appeared to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֤א יְהוָה֙ אֶל אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן
-    שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו
-- tradition: judaism
-  ref: Gen 12:8
-  note: Patriarch builds an altar where God appeared to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית אֵ֖ל וַיֵּ֣ט אָהֳלֹ֑ה בֵּֽית אֵ֤ל מִיָּם֙ וְהָעַ֣י
-    מִקֶּ֔דֶם וַיִּֽבֶן שָׁ֤ם מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה וַיִּקְרָ֖א בְּשֵׁ֥ם יְהוָֽה
-- tradition: islam
-  ref: Quran 2:127
-  note: Patriarch builds an altar where God appeared to him (patriarch builds a sanctuary)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ
-    إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 12:7 wa-yyiben šām mizbēaḥ la-YHWH ha-nnirʾeh ʾēlāyw: Abraham alone builds altars
-    in Canaan (Shechem, Bethel, Hebron); Q 2:127 wa-idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa-ismāʿīlu:
-    Abraham with Ishmael raises the foundations of ''the House'', which God makes a place of return and
-    security for all people (2:125). Altar becomes House, Canaan becomes (by context) Mecca, and Ishmael
-    is his partner.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A patriarch builds an altar or house of worship [divergence between
     the texts] (weight 6.7); Patriarch builds an altar where God appeared to him (weight 6.0). Pair score
@@ -111,6 +50,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A patriarch builds an altar or house of worship
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-12-call-of-abram
+  title: The call of Abram and his journey through Canaan
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: A patriarch builds an altar or house of worship
+  note: 'Gen 12:7 wa-yyiben šām mizbēaḥ la-YHWH ha-nnirʾeh ʾēlāyw: Abraham alone builds altars in Canaan
+    (Shechem, Bethel, Hebron); Q 2:127 wa-idh yarfaʿu ibrāhīmu l-qawāʿida mina l-bayti wa-ismāʿīlu: Abraham
+    with Ishmael raises the foundations of ''the House'', which God makes a place of return and security
+    for all people (2:125). Altar becomes House, Canaan becomes (by context) Mecca, and Ishmael is his
+    partner.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:7
+      lang: he
+      text: וַיֵּרָ֤א יְהוָה֙ אֶל אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן
+        שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:125
+      lang: ar
+      text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
+        مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ
+        وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+    - ref: Quran 2:127
+      lang: ar
+      text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ
+        مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+- kind: shared
+  label: Patriarch builds an altar where God appeared to him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:7
+      lang: he
+      text: וַיֵּרָ֤א יְהוָה֙ אֶל אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן
+        שָׁם֙ מִזְבֵּ֔חַ לַיהוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו
+    - ref: Gen 12:8
+      lang: he
+      text: וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית אֵ֖ל וַיֵּ֣ט אָהֳלֹ֑ה בֵּֽית אֵ֤ל מִיָּם֙
+        וְהָעַ֣י מִקֶּ֔דֶם וַיִּֽבֶן שָׁ֤ם מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה וַיִּקְרָ֖א בְּשֵׁ֥ם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:127
+      lang: ar
+      text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ
+        مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    note: patriarch builds a sanctuary
 ---
 
 ## Questions

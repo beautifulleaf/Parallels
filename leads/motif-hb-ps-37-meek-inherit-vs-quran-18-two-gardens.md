@@ -2,8 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-18-two-gardens
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ The parable of the two gardens;
   this life as rain-fed plants; the book of deeds (Surah 18:32-49)'
-summary: 'These two units share 2 motifs: the wicked fade like grass and green herbs, parable of two men:
-  one owns two rich gardens and boasts to his poorer believing companion.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,76 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- wicked-wither-like-grass
 - parable-of-proud-garden-owner
-passages:
-- tradition: judaism
-  ref: Ps 37:2
-  note: The wicked fade like grass and green herbs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֶ֭חָצִיר מְהֵרָ֣ה יִמָּ֑לוּ וּכְיֶ֥רֶק דֶּ֝֗שֶׁא יִבּוֹלֽוּן
-- tradition: judaism
-  ref: Ps 37:1
-  note: The wicked fade like grass and green herbs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְדָוִ֨ד אַל תִּתְחַ֥ר בַּמְּרֵעִ֑ים אַל תְּ֝קַנֵּ֗א בְּעֹשֵׂ֥י עַוְלָֽה
-- tradition: islam
-  ref: Quran 18:45
-  note: The wicked fade like grass and green herbs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
-    بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ
-    مُّقْتَدِرًا
-- tradition: judaism
-  ref: Ps 37:35
-  note: 'Parable of two men: one owns two rich gardens and boasts to his poorer believing companion (rāʾîtî
-    rāšāʿ ʿārîṣ ûmitʿāreh kəʾezrāḥ raʿănān wayyaʿăbōr wəhinnēh ʾênennû; mā aẓunnu an tabīda hādhihi abadan
-    ... fa-aṣbaḥa yuqallibu kaffayhi ... wa-hiya khāwiyatun ʿalā ʿurūshihā: the arrogant man flourishing
-    like a green tree, and suddenly gone. Q makes it a dialogue in which the poorer believer warns him
-    beforehand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָ֭אִיתִי רָשָׁ֣ע עָרִ֑יץ וּ֝מִתְעָרֶ֗ה כְּאֶזְרָ֥ח רַעֲנָֽן
-- tradition: judaism
-  ref: Ps 37:36
-  note: 'Parable of two men: one owns two rich gardens and boasts to his poorer believing companion (rāʾîtî
-    rāšāʿ ʿārîṣ ûmitʿāreh kəʾezrāḥ raʿănān wayyaʿăbōr wəhinnēh ʾênennû; mā aẓunnu an tabīda hādhihi abadan
-    ... fa-aṣbaḥa yuqallibu kaffayhi ... wa-hiya khāwiyatun ʿalā ʿurūshihā: the arrogant man flourishing
-    like a green tree, and suddenly gone. Q makes it a dialogue in which the poorer believer warns him
-    beforehand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֭יַּֽעֲבֹר וְהִנֵּ֣ה אֵינֶ֑נּוּ וָֽ֝אֲבַקְשֵׁ֗הוּ וְלֹ֣א נִמְצָֽא
-- tradition: islam
-  ref: Quran 18:32
-  note: 'Parable of two men: one owns two rich gardens and boasts to his poorer believing companion (two
-    vineyards ringed with palms, a river between)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱضْرِبْ لَهُم مَّثَلًا رَّجُلَيْنِ جَعَلْنَا لِأَحَدِهِمَا جَنَّتَيْنِ مِنْ أَعْنَٰبٍ وَحَفَفْنَٰهُمَا
-    بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًا
-- tradition: islam
-  ref: Quran 18:33
-  note: 'Parable of two men: one owns two rich gardens and boasts to his poorer believing companion (two
-    vineyards ringed with palms, a river between)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِلْتَا ٱلْجَنَّتَيْنِ ءَاتَتْ أُكُلَهَا وَلَمْ تَظْلِم مِّنْهُ شَيْـًٔا وَفَجَّرْنَا خِلَٰلَهُمَا
-    نَهَرًا
+- wicked-wither-like-grass
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo, parallel. kî keḥāṣîr məhērâ yimmālû ûkəyereq dešeʾ yibbôlûn; fa-khtalaṭa bihi nabātu l-arḍi
-    fa-aṣbaḥa hashīman: green herbage cut down fast. rāʾîtî rāšāʿ ʿārîṣ ûmitʿāreh kəʾezrāḥ raʿănān wayyaʿăbōr
-    wəhinnēh ʾênennû; mā aẓunnu an tabīda hādhihi abadan ... fa-aṣbaḥa yuqallibu kaffayhi ... wa-hiya
-    khāwiyatun ʿalā ʿurūshihā: the arrogant man flourishing like a green tree, and suddenly gone. Q makes
-    it a dialogue in which the poorer believer warns him beforehand.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The wicked fade like grass and green herbs (weight 6.7); Parable
-    of two men: one owns two rich gardens and boasts to his poorer believing companion (weight 6.7). Pair
-    score 13.4.'
+- text: 'Shared motifs, rarest first: Parable of two men: one owns two rich gardens and boasts to his
+    poorer believing companion (weight 6.7); The wicked fade like grass and green herbs (weight 6.7).
+    Pair score 13.4.'
   basis: reading
 - text: 'Only in Psalm 37 - acrostic: do not fret; the meek shall inherit the land: Commit your way to
     YHWH, trust in him, and he will act; Do not fret over evildoers nor envy the wrongdoers; they wither
@@ -119,6 +57,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wicked fade like grass and green herbs
+kinds:
+- parallel
+- echo
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-18-two-gardens
+  title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The wicked fade like grass and green herbs
+  note: 'kî keḥāṣîr məhērâ yimmālû ûkəyereq dešeʾ yibbôlûn; fa-khtalaṭa bihi nabātu l-arḍi fa-aṣbaḥa hashīman:
+    green herbage cut down fast.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:1
+      lang: he
+      text: לְדָוִ֨ד אַל תִּתְחַ֥ר בַּמְּרֵעִ֑ים אַל תְּ֝קַנֵּ֗א בְּעֹשֵׂ֥י עַוְלָֽה
+    - ref: Ps 37:2
+      lang: he
+      text: כִּ֣י כֶ֭חָצִיר מְהֵרָ֣ה יִמָּ֑לוּ וּכְיֶ֥רֶק דֶּ֝֗שֶׁא יִבּוֹלֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 18:45
+      lang: ar
+      text: وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
+        بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ
+        شَىْءٍ مُّقْتَدِرًا
+- kind: echo
+  label: 'Parable of two men: one owns two rich gardens and boasts to his poorer believing companion'
+  note: 'rāʾîtî rāšāʿ ʿārîṣ ûmitʿāreh kəʾezrāḥ raʿănān wayyaʿăbōr wəhinnēh ʾênennû; mā aẓunnu an tabīda
+    hādhihi abadan ... fa-aṣbaḥa yuqallibu kaffayhi ... wa-hiya khāwiyatun ʿalā ʿurūshihā: the arrogant
+    man flourishing like a green tree, and suddenly gone. Q makes it a dialogue in which the poorer believer
+    warns him beforehand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:35
+      lang: he
+      text: רָ֭אִיתִי רָשָׁ֣ע עָרִ֑יץ וּ֝מִתְעָרֶ֗ה כְּאֶזְרָ֥ח רַעֲנָֽן
+    - ref: Ps 37:36
+      lang: he
+      text: וַ֭יַּֽעֲבֹר וְהִנֵּ֣ה אֵינֶ֑נּוּ וָֽ֝אֲבַקְשֵׁ֗הוּ וְלֹ֣א נִמְצָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 18:34
+      lang: ar
+      text: وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا
+        وَأَعَزُّ نَفَرًا
+    - ref: Quran 18:35
+      lang: ar
+      text: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا
+    - ref: Quran 18:42
+      lang: ar
+      text: وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ
+        عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا
 ---
 
 ## Questions

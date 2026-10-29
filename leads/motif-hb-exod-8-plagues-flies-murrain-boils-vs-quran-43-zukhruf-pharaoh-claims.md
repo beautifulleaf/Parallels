@@ -2,9 +2,7 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses before Pharaoh: the laughing courtiers,
   the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 2 motifs: who causes pharaoh''s refusal: god hardening his heart, or pharaoh
-  and his people themselves [divergence between the texts], the king breaks his promise to release the
-  people once a plague is lifted.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,70 +15,9 @@ layers:
 motifs:
 - who-hardens-pharaohs-resistance-as-divergence
 - pharaoh-deceives-again
-passages:
-- tradition: judaism
-  ref: Exod 9:12
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    [divergence between the texts] (Who causes the refusal. Exod 9:12: wa-yḥazzēq YHWH ʾeṯ lēḇ parʿōh
-    wə-lōʾ šāmaʿ ʾălēhem (God hardens Pharaoh''s heart). Q 43:50, 43:54: idhā hum yankuthūn; fa-stakhaffa
-    qawmahu fa-aṭāʿūhu innahum kānū qawman fāsiqīn. The Quran has no hardening by God here; Pharaoh''s
-    people break the pledge, and Pharaoh sways his people, who obey.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל
-    מֹשֶֽׁה
-- tradition: islam
-  ref: Quran 43:50
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    [divergence between the texts] (Who causes the refusal. Exod 9:12: wa-yḥazzēq YHWH ʾeṯ lēḇ parʿōh
-    wə-lōʾ šāmaʿ ʾălēhem (God hardens Pharaoh''s heart). Q 43:50, 43:54: idhā hum yankuthūn; fa-stakhaffa
-    qawmahu fa-aṭāʿūhu innahum kānū qawman fāsiqīn. The Quran has no hardening by God here; Pharaoh''s
-    people break the pledge, and Pharaoh sways his people, who obey.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
-- tradition: islam
-  ref: Quran 43:54
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    [divergence between the texts] (Who causes the refusal. Exod 9:12: wa-yḥazzēq YHWH ʾeṯ lēḇ parʿōh
-    wə-lōʾ šāmaʿ ʾălēhem (God hardens Pharaoh''s heart). Q 43:50, 43:54: idhā hum yankuthūn; fa-stakhaffa
-    qawmahu fa-aṭāʿūhu innahum kānū qawman fāsiqīn. The Quran has no hardening by God here; Pharaoh''s
-    people break the pledge, and Pharaoh sways his people, who obey.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
-- tradition: judaism
-  ref: Exod 8:25
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר הֶעָרֹ֗ב
-    מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙ שַׁלַּ֣ח אֶת
-    הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
-- tradition: judaism
-  ref: Exod 8:28
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 43:49
-  note: The king breaks his promise to release the people once a plague is lifted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
-- tradition: islam
-  ref: Quran 43:50
-  note: The king breaks his promise to release the people once a plague is lifted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Who causes the refusal. Exod 9:12: wa-yḥazzēq YHWH ʾeṯ lēḇ parʿōh wə-lōʾ šāmaʿ ʾălēhem
-    (God hardens Pharaoh''s heart). Q 43:50, 43:54: idhā hum yankuthūn; fa-stakhaffa qawmahu fa-aṭāʿūhu
-    innahum kānū qawman fāsiqīn. The Quran has no hardening by God here; Pharaoh''s people break the pledge,
-    and Pharaoh sways his people, who obey.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh
     and his people themselves [divergence between the texts] (weight 6.7); The king breaks his promise
@@ -117,6 +54,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-8-plagues-flies-murrain-boils
+  title: 'Plagues 4-6: swarms, pestilence of livestock, boils'
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves'
+  note: 'Who causes the refusal. Exod 9:12: wa-yḥazzēq YHWH ʾeṯ lēḇ parʿōh wə-lōʾ šāmaʿ ʾălēhem (God hardens
+    Pharaoh''s heart). Q 43:50, 43:54: idhā hum yankuthūn; fa-stakhaffa qawmahu fa-aṭāʿūhu innahum kānū
+    qawman fāsiqīn. The Quran has no hardening by God here; Pharaoh''s people break the pledge, and Pharaoh
+    sways his people, who obey.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:12
+      lang: he
+      text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        אֶל מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 43:50
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
+    - ref: Quran 43:54
+      lang: ar
+      text: فَٱسْتَخَفَّ قَوْمَهُۥ فَأَطَاعُوهُ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+- kind: shared
+  label: The king breaks his promise to release the people once a plague is lifted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:25
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר
+        הֶעָרֹ֗ב מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙
+        שַׁלַּ֣ח אֶת הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 8:24
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֗ה אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ וּזְבַחְתֶּ֞ם לַיהוָ֤ה אֱלֹֽהֵיכֶם֙ בַּמִּדְבָּ֔ר
+        רַ֛ק הַרְחֵ֥ק לֹא תַרְחִ֖יקוּ לָלֶ֑כֶת הַעְתִּ֖ירוּ בַּעֲדִֽי
+    note: hatel
+  - tradition: islam
+    passages:
+    - ref: Quran 43:49
+      lang: ar
+      text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
+    - ref: Quran 43:50
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 ---
 
 ## Questions

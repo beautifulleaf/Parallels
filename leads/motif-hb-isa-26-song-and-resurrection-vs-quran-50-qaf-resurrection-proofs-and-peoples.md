@@ -2,8 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'Song of the strong city; your dead shall live ↔ Qaf: wonder at the warner, the earth that consumes
   the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 1 motifs: rain from the sky gives life to the earth after its death, a
-  sign of resurrection.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (yiḥyû mētêkā
-    nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm tappîl; wa-tarā
-    l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu man fī l-qubūr:
-    moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights directly brings
-    up the shades; in Q rain reviving the earth is the analogy that proves resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 50:9
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ
-- tradition: islam
-  ref: Quran 50:11
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Water from heaven raising the dead: yiḥyû mēṯêḵā ... hāqîṣû wə-rannənû šōḵnê ʿāp̄ār kî ṭal
-    ʾôrōṯ ṭallekā wā-ʾāreṣ rəp̄āʾîm tappîl (your dew is a dew of lights and the earth gives birth to the
-    shades) vs. wa-nazzalnā mina s-samāʾi māʾan mubārakan ... wa-aḥyaynā bihi baldatan maytan ka-dhālika
-    l-khurūj. In Isaiah dew acts on the dead directly; in the Quran rain on the dead land is the analogy
-    for the ''coming out''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rain from the sky gives life to the earth after its death, a sign
     of resurrection (weight 4.4). Pair score 4.4.'
@@ -83,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rain from the sky gives life to the earth after its death, a sign of resurrection
+kinds:
+- parallel
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  note: 'Water from heaven raising the dead: yiḥyû mēṯêḵā ... hāqîṣû wə-rannənû šōḵnê ʿāp̄ār kî ṭal ʾôrōṯ
+    ṭallekā wā-ʾāreṣ rəp̄āʾîm tappîl (your dew is a dew of lights and the earth gives birth to the shades)
+    vs. wa-nazzalnā mina s-samāʾi māʾan mubārakan ... wa-aḥyaynā bihi baldatan maytan ka-dhālika l-khurūj.
+    In Isaiah dew acts on the dead directly; in the Quran rain on the dead land is the analogy for the
+    ''coming out''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 50:9
+      lang: ar
+      text: وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ
+    - ref: Quran 50:11
+      lang: ar
+      text: رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ
 ---
 
 ## Questions

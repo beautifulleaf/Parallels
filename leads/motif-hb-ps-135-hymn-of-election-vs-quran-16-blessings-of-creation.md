@@ -2,8 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-16-blessings-of-creation
 title: Psalm 135, hymn on God's power, election and the idols ↔ The command has come; cattle, rain, sea
   and stars as blessings (Surah 16:1-23)
-summary: 'These two units share 2 motifs: the idols create nothing, are themselves created, and are dead,
-  not living, idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,64 +16,9 @@ layers:
 motifs:
 - idols-dead-not-living
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 135:15
-  note: 'The idols create nothing, are themselves created, and are dead, not living (ʾap ʾên yeš-rûaḥ
-    bəpîhem; amwātun ghayru aḥyāʾ: idols have no breath of life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
-- tradition: judaism
-  ref: Ps 135:16
-  note: 'The idols create nothing, are themselves created, and are dead, not living (ʾap ʾên yeš-rûaḥ
-    bəpîhem; amwātun ghayru aḥyāʾ: idols have no breath of life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: islam
-  ref: Quran 16:20
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 16:21
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
-- tradition: judaism
-  ref: Ps 135:15-17
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (135:15) עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (135:16) פֶּֽה לָ֭הֶם
-    וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (135:17) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ
-    אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
-- tradition: judaism
-  ref: Ps 135:16
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: islam
-  ref: Quran 16:20
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 16:21
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾap ʾên yeš-rûaḥ bəpîhem; amwātun ghayru aḥyāʾ: idols have no breath of life.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idols create nothing, are themselves created, and are dead,
     not living (weight 6.0); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
@@ -109,6 +53,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The idols create nothing, are themselves created, and are dead, not living
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-16-blessings-of-creation
+  title: The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The idols create nothing, are themselves created, and are dead, not living
+  note: 'ʾap ʾên yeš-rûaḥ bəpîhem; amwātun ghayru aḥyāʾ: idols have no breath of life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:15
+      lang: he
+      text: עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
+    - ref: Ps 135:16
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 135:17
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 16:20
+      lang: ar
+      text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 16:21
+      lang: ar
+      text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:15-17
+      lang: he
+      text: (135:15) עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (135:16) פֶּֽה לָ֭הֶם
+        וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (135:17) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ
+        אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+    - ref: Ps 135:16
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 135:17
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+    note: Adds 'no breath (ruah) in their mouths'
+  - tradition: islam
+    passages:
+    - ref: Quran 16:20
+      lang: ar
+      text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 16:21
+      lang: ar
+      text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 ---
 
 ## Questions

@@ -1,9 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-8-badr-help
 title: The pursuit and the parting of the sea ↔ Badr - angels, slumber, rain and God's throw
-summary: 'These two units share 2 motifs: the threatened people cry to god before the decisive encounter
-  [divergence between the texts], the victory is credited to god, not to the fighters [divergence between
-  the texts].'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,94 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- people-cry-to-god-before-battle-as-divergence
 - victory-credited-to-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 14:10
-  note: 'The threatened people cry to God before the decisive encounter [divergence between the texts]
-    (The frightened people cry to God before the decisive battle: idh tastaghīthūna rabbakum fa-stajāba
-    lakum annī mumiddukum bi-alfin mina l-malāʾikati vs wayyiṣʿăqû bᵉnê-yiśrāʾēl ʾel-YHWH ... mah-tiṣʿaq
-    ʾēlāy dabbēr ʾel-bᵉnê-yiśrāʾēl wᵉyissāʿû. God''s answer differs: in Q he answers the plea with angelic
-    reinforcement; in Exod he rebukes the crying and orders them forward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּפַרְעֹ֖ה הִקְרִ֑יב וַיִּשְׂאוּ֩ בְנֵֽי יִשְׂרָאֵ֨ל אֶת עֵינֵיהֶ֜ם וְהִנֵּ֥ה מִצְרַ֣יִם נֹסֵ֣עַ
-    אַחֲרֵיהֶ֗ם וַיִּֽירְאוּ֙ מְאֹ֔ד וַיִּצְעֲק֥וּ בְנֵֽי יִשְׂרָאֵ֖ל אֶל יְהוָֽה
-- tradition: judaism
-  ref: Exod 14:15
-  note: 'The threatened people cry to God before the decisive encounter [divergence between the texts]
-    (The frightened people cry to God before the decisive battle: idh tastaghīthūna rabbakum fa-stajāba
-    lakum annī mumiddukum bi-alfin mina l-malāʾikati vs wayyiṣʿăqû bᵉnê-yiśrāʾēl ʾel-YHWH ... mah-tiṣʿaq
-    ʾēlāy dabbēr ʾel-bᵉnê-yiśrāʾēl wᵉyissāʿû. God''s answer differs: in Q he answers the plea with angelic
-    reinforcement; in Exod he rebukes the crying and orders them forward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה מַה תִּצְעַ֖ק אֵלָ֑י דַּבֵּ֥ר אֶל בְּנֵי יִשְׂרָאֵ֖ל וְיִסָּֽעוּ
-- tradition: islam
-  ref: Quran 8:9
-  note: 'The threatened people cry to God before the decisive encounter [divergence between the texts]
-    (The frightened people cry to God before the decisive battle: idh tastaghīthūna rabbakum fa-stajāba
-    lakum annī mumiddukum bi-alfin mina l-malāʾikati vs wayyiṣʿăqû bᵉnê-yiśrāʾēl ʾel-YHWH ... mah-tiṣʿaq
-    ʾēlāy dabbēr ʾel-bᵉnê-yiśrāʾēl wᵉyissāʿû. God''s answer differs: in Q he answers the plea with angelic
-    reinforcement; in Exod he rebukes the crying and orders them forward.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ
-    مُرْدِفِينَ
-- tradition: judaism
-  ref: Exod 14:13
-  note: 'The victory is credited to God, not to the fighters [divergence between the texts] (The victory
-    belongs to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna llāha qatalahum vs
-    YHWH yillāḥēm lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not fight; in Q the believers
-    fight, and their killing is credited to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל הָעָם֮ אַל תִּירָאוּ֒ הִֽתְיַצְב֗וּ וּרְאוּ֙ אֶת יְשׁוּעַ֣ת יְהוָ֔ה אֲשֶׁר
-    יַעֲשֶׂ֥ה לָכֶ֖ם הַיּ֑וֹם כִּ֗י אֲשֶׁ֨ר רְאִיתֶ֤ם אֶת מִצְרַ֨יִם֙ הַיּ֔וֹם לֹ֥א תֹסִ֛יפוּ לִרְאֹתָ֥ם
-    ע֖וֹד עַד עוֹלָֽם
-- tradition: judaism
-  ref: Exod 14:14
-  note: 'The victory is credited to God, not to the fighters [divergence between the texts] (The victory
-    belongs to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna llāha qatalahum vs
-    YHWH yillāḥēm lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not fight; in Q the believers
-    fight, and their killing is credited to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן
-- tradition: islam
-  ref: Quran 8:10
-  note: 'The victory is credited to God, not to the fighters [divergence between the texts] (The victory
-    belongs to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna llāha qatalahum vs
-    YHWH yillāḥēm lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not fight; in Q the believers
-    fight, and their killing is credited to God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ وَمَا ٱلنَّصْرُ إِلَّا
-    مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 8:17
-  note: 'The victory is credited to God, not to the fighters [divergence between the texts] (The victory
-    belongs to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna llāha qatalahum vs
-    YHWH yillāḥēm lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not fight; in Q the believers
-    fight, and their killing is credited to God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ
-    رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+- people-cry-to-god-before-battle-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. The frightened people cry to God before the decisive battle: idh tastaghīthūna rabbakum
-    fa-stajāba lakum annī mumiddukum bi-alfin mina l-malāʾikati vs wayyiṣʿăqû bᵉnê-yiśrāʾēl ʾel-YHWH ...
-    mah-tiṣʿaq ʾēlāy dabbēr ʾel-bᵉnê-yiśrāʾēl wᵉyissāʿû. God''s answer differs: in Q he answers the plea
-    with angelic reinforcement; in Exod he rebukes the crying and orders them forward. The victory belongs
-    to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna llāha qatalahum vs YHWH yillāḥēm
-    lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not fight; in Q the believers fight,
-    and their killing is credited to God.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The threatened people cry to God before the decisive encounter [divergence
-    between the texts] (weight 6.7); The victory is credited to God, not to the fighters [divergence between
-    the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The victory is credited to God, not to the fighters [divergence
+    between the texts] (weight 6.7); The threatened people cry to God before the decisive encounter [divergence
+    between the texts] (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in The pursuit and the parting of the sea: God''s angel and the cloud pillar move behind
     the fleeing people to screen them from the pursuers; Israel camps by the sea opposite Baal-zephon,
@@ -131,6 +50,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The threatened people cry to God before the decisive encounter
+kinds:
+- divergence
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: divergence
+  label: The threatened people cry to God before the decisive encounter
+  note: 'The frightened people cry to God before the decisive battle: idh tastaghīthūna rabbakum fa-stajāba
+    lakum annī mumiddukum bi-alfin mina l-malāʾikati vs wayyiṣʿăqû bᵉnê-yiśrāʾēl ʾel-YHWH ... mah-tiṣʿaq
+    ʾēlāy dabbēr ʾel-bᵉnê-yiśrāʾēl wᵉyissāʿû. God''s answer differs: in Q he answers the plea with angelic
+    reinforcement; in Exod he rebukes the crying and orders them forward.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:10
+      lang: he
+      text: וּפַרְעֹ֖ה הִקְרִ֑יב וַיִּשְׂאוּ֩ בְנֵֽי יִשְׂרָאֵ֨ל אֶת עֵינֵיהֶ֜ם וְהִנֵּ֥ה מִצְרַ֣יִם נֹסֵ֣עַ
+        אַחֲרֵיהֶ֗ם וַיִּֽירְאוּ֙ מְאֹ֔ד וַיִּצְעֲק֥וּ בְנֵֽי יִשְׂרָאֵ֖ל אֶל יְהוָֽה
+    - ref: Exod 14:15
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה מַה תִּצְעַ֖ק אֵלָ֑י דַּבֵּ֥ר אֶל בְּנֵי יִשְׂרָאֵ֖ל וְיִסָּֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:9
+      lang: ar
+      text: إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ
+        مُرْدِفِينَ
+- kind: divergence
+  label: The victory is credited to God, not to the fighters
+  note: 'The victory belongs to God: wa-mā n-naṣru illā min ʿindi llāhi; fa-lam taqtulūhum wa-lākinna
+    llāha qatalahum vs YHWH yillāḥēm lākem wᵉʾattem taḥărîšûn. In Exod Israel stands still and does not
+    fight; in Q the believers fight, and their killing is credited to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:13
+      lang: he
+      text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל הָעָם֮ אַל תִּירָאוּ֒ הִֽתְיַצְב֗וּ וּרְאוּ֙ אֶת יְשׁוּעַ֣ת יְהוָ֔ה
+        אֲשֶׁר יַעֲשֶׂ֥ה לָכֶ֖ם הַיּ֑וֹם כִּ֗י אֲשֶׁ֨ר רְאִיתֶ֤ם אֶת מִצְרַ֨יִם֙ הַיּ֔וֹם לֹ֥א תֹסִ֛יפוּ
+        לִרְאֹתָ֥ם ע֖וֹד עַד עוֹלָֽם
+    - ref: Exod 14:14
+      lang: he
+      text: יְהוָ֖ה יִלָּחֵ֣ם לָכֶ֑ם וְאַתֶּ֖ם תַּחֲרִישֽׁוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 8:10
+      lang: ar
+      text: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ وَمَا ٱلنَّصْرُ إِلَّا
+        مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+    - ref: Quran 8:17
+      lang: ar
+      text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ
+        ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

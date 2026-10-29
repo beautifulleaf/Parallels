@@ -2,8 +2,7 @@
 id: motif-hb-gen-24-bride-for-isaac-vs-quran-28-moses-in-midian
 title: Abraham's servant finds Rebekah for Isaac ↔ At the water of Midian; the two women, their old father
   and the marriage contract
-summary: 'These two units share 2 motifs: future bride or groom met at a well, leading to betrothal, hero
-  meets his future wife at a well.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,91 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- meeting-at-the-well-betrothal
 - meeting-future-wife-at-well
-passages:
-- tradition: judaism
-  ref: Gen 24:11
-  note: Future bride or groom met at a well, leading to betrothal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּבְרֵ֧ךְ הַגְּמַלִּ֛ים מִח֥וּץ לָעִ֖יר אֶל בְּאֵ֣ר הַמָּ֑יִם לְעֵ֣ת עֶ֔רֶב לְעֵ֖ת צֵ֥את הַשֹּׁאֲבֹֽת
-- tradition: judaism
-  ref: Gen 24:13
-  note: Future bride or groom met at a well, leading to betrothal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל עֵ֣ין הַמָּ֑יִם וּבְנוֹת֙ אַנְשֵׁ֣י הָעִ֔יר יֹצְאֹ֖ת לִשְׁאֹ֥ב מָֽיִם
-- tradition: islam
-  ref: Quran 28:23
-  note: 'Future bride or groom met at a well, leading to betrothal (wa-lammā warada māʾa Madyana wajada
-    ʿalayhi ummatan mina n-nāsi yasqūna ... fa-saqā lahumā ~ wə-hinnēh šām šəlōšâ ʿedrê ṣōʾn ... wa-yyāgel
-    ʾet hā-ʾeven ... wa-yyašqə ʾet ṣōʾn Lāvān: the newcomer at a well where shepherds water their flocks
-    waters the flock of the woman he will marry (saqā / hišqâ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن
-    دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ
-    وَأَبُونَا شَيْخٌ كَبِيرٌ
-- tradition: islam
-  ref: Quran 28:24
-  note: 'Future bride or groom met at a well, leading to betrothal (wa-lammā warada māʾa Madyana wajada
-    ʿalayhi ummatan mina n-nāsi yasqūna ... fa-saqā lahumā ~ wə-hinnēh šām šəlōšâ ʿedrê ṣōʾn ... wa-yyāgel
-    ʾet hā-ʾeven ... wa-yyašqə ʾet ṣōʾn Lāvān: the newcomer at a well where shepherds water their flocks
-    waters the flock of the woman he will marry (saqā / hišqâ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ
-    مِنْ خَيْرٍ فَقِيرٌ
-- tradition: judaism
-  ref: Gen 24:11
-  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
-    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
-    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
-    animals as a sign; in the Quran the stranger waters the women''s flock.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּבְרֵ֧ךְ הַגְּמַלִּ֛ים מִח֥וּץ לָעִ֖יר אֶל בְּאֵ֣ר הַמָּ֑יִם לְעֵ֣ת עֶ֔רֶב לְעֵ֖ת צֵ֥את הַשֹּׁאֲבֹֽת
-- tradition: judaism
-  ref: Gen 24:13
-  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
-    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
-    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
-    animals as a sign; in the Quran the stranger waters the women''s flock.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל עֵ֣ין הַמָּ֑יִם וּבְנוֹת֙ אַנְשֵׁ֣י הָעִ֔יר יֹצְאֹ֖ת לִשְׁאֹ֥ב מָֽיִם
-- tradition: islam
-  ref: Quran 28:23
-  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
-    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
-    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
-    animals as a sign; in the Quran the stranger waters the women''s flock.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ مِن
-    دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ ٱلرِّعَآءُ
-    وَأَبُونَا شَيْخٌ كَبِيرٌ
-- tradition: islam
-  ref: Quran 28:25
-  note: 'Hero meets his future wife at a well (wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~
-    hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at
-    a town''s water meets the young woman who leads to a marriage. In Genesis the woman waters the stranger''s
-    animals as a sign; in the Quran the stranger waters the women''s flock.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
-    أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
-    مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- meeting-at-the-well-betrothal
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~ hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim
-    û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at a town''s water meets the young woman
-    who leads to a marriage. In Genesis the woman waters the stranger''s animals as a sign; in the Quran
-    the stranger waters the women''s flock.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Future bride or groom met at a well, leading to betrothal (weight
-    6.3); Hero meets his future wife at a well (weight 6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Hero meets his future wife at a well (weight 6.3); Future bride
+    or groom met at a well, leading to betrothal (weight 6.3). Pair score 12.6.'
   basis: reading
 - text: 'Only in Abraham''s servant finds Rebekah for Isaac: God sends his angel ahead to guide the journey;
     Departing bride blessed to become thousands of myriads; The bride is asked and consents to go (''I
@@ -127,6 +49,84 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero meets his future wife at a well
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-24-bride-for-isaac
+  title: Abraham's servant finds Rebekah for Isaac
+  tradition: judaism
+- id: quran-28-moses-in-midian
+  title: At the water of Midian; the two women, their old father and the marriage contract
+  tradition: islam
+matches:
+- kind: echo
+  label: Hero meets his future wife at a well
+  note: 'wa-lammā warada māʾa Madyana ... fa-jāʾathu iḥdāhumā ~ hinnēh ʾānōkhî niṣṣāv ʿal ʿên ham-mayim
+    û-vənôt ʾanšê hā-ʿîr yōṣʾōt lišʾōv māyim: a man arriving at a town''s water meets the young woman
+    who leads to a marriage. In Genesis the woman waters the stranger''s animals as a sign; in the Quran
+    the stranger waters the women''s flock.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 24:11
+      lang: he
+      text: וַיַּבְרֵ֧ךְ הַגְּמַלִּ֛ים מִח֥וּץ לָעִ֖יר אֶל בְּאֵ֣ר הַמָּ֑יִם לְעֵ֣ת עֶ֔רֶב לְעֵ֖ת צֵ֥את
+        הַשֹּׁאֲבֹֽת
+    - ref: Gen 24:13
+      lang: he
+      text: הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל עֵ֣ין הַמָּ֑יִם וּבְנוֹת֙ אַנְשֵׁ֣י הָעִ֔יר יֹצְאֹ֖ת לִשְׁאֹ֥ב
+        מָֽיִם
+    - ref: Gen 24:14
+      lang: he
+      text: וְהָיָ֣ה הַֽנַּעֲרָ֗ אֲשֶׁ֨ר אֹמַ֤ר אֵלֶ֨יהָ֙ הַטִּי נָ֤א כַדֵּךְ֙ וְאֶשְׁתֶּ֔ה וְאָמְרָ֣ה
+        שְׁתֵ֔ה וְגַם גְּמַלֶּ֖יךָ אַשְׁקֶ֑ה אֹתָ֤הּ הֹכַ֨חְתָּ֙ לְעַבְדְּךָ֣ לְיִצְחָ֔ק וּבָ֣הּ אֵדַ֔ע
+        כִּי עָשִׂ֥יתָ חֶ֖סֶד עִם אֲדֹנִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 28:23
+      lang: ar
+      text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ
+        مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ
+        ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ
+    - ref: Quran 28:25
+      lang: ar
+      text: فَجَآءَتْهُ إِحْدَىٰهُمَا تَمْشِى عَلَى ٱسْتِحْيَآءٍ قَالَتْ إِنَّ أَبِى يَدْعُوكَ لِيَجْزِيَكَ
+        أَجْرَ مَا سَقَيْتَ لَنَا فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيْهِ ٱلْقَصَصَ قَالَ لَا تَخَفْ نَجَوْتَ
+        مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- kind: shared
+  label: Future bride or groom met at a well, leading to betrothal
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 24:11
+      lang: he
+      text: וַיַּבְרֵ֧ךְ הַגְּמַלִּ֛ים מִח֥וּץ לָעִ֖יר אֶל בְּאֵ֣ר הַמָּ֑יִם לְעֵ֣ת עֶ֔רֶב לְעֵ֖ת צֵ֥את
+        הַשֹּׁאֲבֹֽת
+    - ref: Gen 24:13
+      lang: he
+      text: הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל עֵ֣ין הַמָּ֑יִם וּבְנוֹת֙ אַנְשֵׁ֣י הָעִ֔יר יֹצְאֹ֖ת לִשְׁאֹ֥ב
+        מָֽיִם
+    - ref: Gen 24:15
+      lang: he
+      text: וַֽיְהִי ה֗וּא טֶרֶם֮ כִּלָּ֣ה לְדַבֵּר֒ וְהִנֵּ֧ה רִבְקָ֣ה יֹצֵ֗את אֲשֶׁ֤ר יֻלְּדָה֙ לִבְתוּאֵ֣ל
+        בֶּן מִלְכָּ֔ה אֵ֥שֶׁת נָח֖וֹר אֲחִ֣י אַבְרָהָ֑ם וְכַדָּ֖הּ עַל שִׁכְמָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:23
+      lang: ar
+      text: وَلَمَّا وَرَدَ مَآءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِّنَ ٱلنَّاسِ يَسْقُونَ وَوَجَدَ
+        مِن دُونِهِمُ ٱمْرَأَتَيْنِ تَذُودَانِ قَالَ مَا خَطْبُكُمَا قَالَتَا لَا نَسْقِى حَتَّىٰ يُصْدِرَ
+        ٱلرِّعَآءُ وَأَبُونَا شَيْخٌ كَبِيرٌ
+    - ref: Quran 28:24
+      lang: ar
+      text: فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ
+        مِنْ خَيْرٍ فَقِيرٌ
+    note: 'wa-lammā warada māʾa Madyana wajada ʿalayhi ummatan mina n-nāsi yasqūna ... fa-saqā lahumā
+      ~ wə-hinnēh šām šəlōšâ ʿedrê ṣōʾn ... wa-yyāgel ʾet hā-ʾeven ... wa-yyašqə ʾet ṣōʾn Lāvān: the newcomer
+      at a well where shepherds water their flocks waters the flock of the woman he will marry (saqā /
+      hišqâ).'
 ---
 
 ## Questions

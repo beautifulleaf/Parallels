@@ -2,8 +2,7 @@
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-17-iblis-and-adam
 title: Jonah flees to Tarshish and is thrown into the sea ↔ Iblis's threat to bridle Adam's offspring;
   sea peril; the honored children of Adam (Surah 17:61-72)
-summary: 'These two units share 1 motifs: in distress, at sea or otherwise, people call on god alone,
-  then return to polytheism once rescued [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - call-on-god-in-distress-forget-after-as-contrast
-passages:
-- tradition: judaism
-  ref: Jonah 1:5
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [contrast between the texts] (In the storm the sailors first cry each to his own god (wayyizʿăqû ʾîš
-    ʾel-ʾĕlōhāyw), then to YHWH alone (wayyiqrəʾû ʾel-YHWH). Once saved, they sacrifice and vow to YHWH
-    (wayyizbəḥû-zebaḥ laYHWH wayyiddərû nədārîm). Q: in distress the other gods vanish (ḍalla man tadʿūna
-    illā iyyāhu), and on land people return to ingratitude (aʿraḍtum). Jonah''s sailors stay converted;
-    Q''s turn back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים אֲשֶׁ֤ר
-    בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב
-    וַיֵּרָדַֽם
-- tradition: judaism
-  ref: Jonah 1:14
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [contrast between the texts] (In the storm the sailors first cry each to his own god (wayyizʿăqû ʾîš
-    ʾel-ʾĕlōhāyw), then to YHWH alone (wayyiqrəʾû ʾel-YHWH). Once saved, they sacrifice and vow to YHWH
-    (wayyizbəḥû-zebaḥ laYHWH wayyiddərû nədārîm). Q: in distress the other gods vanish (ḍalla man tadʿūna
-    illā iyyāhu), and on land people return to ingratitude (aʿraḍtum). Jonah''s sailors stay converted;
-    Q''s turn back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
-    הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
-- tradition: islam
-  ref: Quran 17:67
-  note: 'In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
-    [contrast between the texts] (In the storm the sailors first cry each to his own god (wayyizʿăqû ʾîš
-    ʾel-ʾĕlōhāyw), then to YHWH alone (wayyiqrəʾû ʾel-YHWH). Once saved, they sacrifice and vow to YHWH
-    (wayyizbəḥû-zebaḥ laYHWH wayyiddərû nədārîm). Q: in distress the other gods vanish (ḍalla man tadʿūna
-    illā iyyāhu), and on land people return to ingratitude (aʿraḍtum). Jonah''s sailors stay converted;
-    Q''s turn back.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ
-    إِلَى ٱلْبَرِّ أَعْرَضْتُمْ وَكَانَ ٱلْإِنسَٰنُ كَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    contrast. In the storm the sailors first cry each to his own god (wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw), then
-    to YHWH alone (wayyiqrəʾû ʾel-YHWH). Once saved, they sacrifice and vow to YHWH (wayyizbəḥû-zebaḥ
-    laYHWH wayyiddərû nədārîm). Q: in distress the other gods vanish (ḍalla man tadʿūna illā iyyāhu),
-    and on land people return to ingratitude (aʿraḍtum). Jonah''s sailors stay converted; Q''s turn back.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In distress, at sea or otherwise, people call on God alone, then
     return to polytheism once rescued [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -96,6 +54,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+kinds:
+- contrast
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-17-iblis-and-adam
+  title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+  tradition: islam
+matches:
+- kind: contrast
+  label: In distress, at sea or otherwise, people call on God alone, then return to polytheism once rescued
+  note: 'In the storm the sailors first cry each to his own god (wayyizʿăqû ʾîš ʾel-ʾĕlōhāyw), then to
+    YHWH alone (wayyiqrəʾû ʾel-YHWH). Once saved, they sacrifice and vow to YHWH (wayyizbəḥû-zebaḥ laYHWH
+    wayyiddərû nədārîm). Q: in distress the other gods vanish (ḍalla man tadʿūna illā iyyāhu), and on
+    land people return to ingratitude (aʿraḍtum). Jonah''s sailors stay converted; Q''s turn back.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:5
+      lang: he
+      text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים
+        אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה
+        וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם
+    - ref: Jonah 1:14
+      lang: he
+      text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
+        הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
+    - ref: Jonah 1:16
+      lang: he
+      text: וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת יְהוָ֑ה וַיִּֽזְבְּחוּ זֶ֨בַח֙ לַֽיהוָ֔ה
+        וַֽיִּדְּר֖וּ נְדָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 17:67
+      lang: ar
+      text: وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِى ٱلْبَحْرِ ضَلَّ مَن تَدْعُونَ إِلَّآ إِيَّاهُ فَلَمَّا نَجَّىٰكُمْ
+        إِلَى ٱلْبَرِّ أَعْرَضْتُمْ وَكَانَ ٱلْإِنسَٰنُ كَفُورًا
 ---
 
 ## Questions

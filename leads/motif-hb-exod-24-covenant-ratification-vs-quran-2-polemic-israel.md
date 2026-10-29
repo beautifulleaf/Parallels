@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-24-covenant-ratification-vs-quran-2-polemic-israel
 title: Covenant ratified in blood; the elders see God ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: the people''s answer to the covenant (''we hear ...'') [response
-  between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - peoples-answer-to-the-covenant-as-response
-passages:
-- tradition: judaism
-  ref: Exod 24:7
-  note: The people's answer to the covenant ('we hear ...') [response between the texts] (Exod 24:7 kōl
-    ʾăšer dibber YHWH naʿăśeh wĕ-nišmāʿ, said when the book of the covenant is read; Q 2:93 qālū samiʿnā
-    wa-ʿaṣaynā, said when the covenant is taken under the raised mountain. 'We will do and hear' becomes
-    'we hear and disobey'.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 2:93
-  note: The people's answer to the covenant ('we hear ...') [response between the texts] (Deut 5:27 ...
-    wĕ-šāmaʿnû wĕ-ʿāśînû 'and we will hear and do'; Q 2:93 khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū
-    samiʿnā wa-ʿaṣaynā 'we hear and we disobey'. The covenant answer is kept in form (š-m-ʿ / s-m-ʿ, first
-    plural) with the second verb turned into its opposite.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    response. Exod 24:7 kōl ʾăšer dibber YHWH naʿăśeh wĕ-nišmāʿ, said when the book of the covenant is
-    read; Q 2:93 qālū samiʿnā wa-ʿaṣaynā, said when the covenant is taken under the raised mountain. ''We
-    will do and hear'' becomes ''we hear and disobey''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s answer to the covenant (''we hear ...'') [response
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -72,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's answer to the covenant ('we hear ...')
+kinds:
+- response
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: response
+  label: The people's answer to the covenant ('we hear ...')
+  note: Exod 24:7 kōl ʾăšer dibber YHWH naʿăśeh wĕ-nišmāʿ, said when the book of the covenant is read;
+    Q 2:93 qālū samiʿnā wa-ʿaṣaynā, said when the covenant is taken under the raised mountain. 'We will
+    do and hear' becomes 'we hear and disobey'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

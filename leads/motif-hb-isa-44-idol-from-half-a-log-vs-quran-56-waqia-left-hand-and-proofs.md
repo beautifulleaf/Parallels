@@ -3,8 +3,7 @@ id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-56-waqia-left-hand-and-proofs
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The Companions of
   the Left in smoke and samum; who creates semen, crops, rain and fire?; the hidden Book; the soul at
   the throat
-summary: 'These two units share 2 motifs: fire kindled from a tree that god made grow [divergence between
-  the texts], god made fire for you from the green tree, from which you kindle.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,94 +16,9 @@ layers:
 motifs:
 - fire-kindled-from-a-tree-as-divergence
 - fire-from-green-tree
-passages:
-- tradition: judaism
-  ref: Isa 44:14
-  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
-    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
-    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
-    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
-    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
-    Quran makes the fire a reminder of the Creator.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לִכְרָת ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ ל֖וֹ בַּעֲצֵי יָ֑עַר נָטַ֥ע
-    אֹ֖רֶן וְגֶ֥שֶׁם יְגַדֵּֽל
-- tradition: judaism
-  ref: Isa 44:15
-  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
-    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
-    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
-    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
-    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
-    Quran makes the fire a reminder of the Creator.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
-    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
-- tradition: islam
-  ref: Quran 56:71
-  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
-    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
-    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
-    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
-    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
-    Quran makes the fire a reminder of the Creator.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
-- tradition: islam
-  ref: Quran 56:72
-  note: 'Fire kindled from a tree that God made grow [divergence between the texts] (Fire kindled from
-    a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄
-    bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows to it (wa-yyisgōḏ lāmô).
-    Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am naḥnu l-munshiʾūn, naḥnu
-    jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also worships the wood, the
-    Quran makes the fire a reminder of the Creator.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
-- tradition: judaism
-  ref: Isa 44:15
-  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
-    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
-    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
-    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
-    the firewood; the Quran makes the fire from wood a gift of the true God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
-    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
-- tradition: judaism
-  ref: Isa 44:16
-  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
-    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
-    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
-    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
-    the firewood; the Quran makes the fire from wood a gift of the true God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף יָחֹם֙
-    וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
-- tradition: islam
-  ref: Quran 56:71
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
-- tradition: islam
-  ref: Quran 56:72
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Fire kindled from a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ
-    lə-ʾāḏām lə-ḇāʿēr ... ḥeṣyô śārap̄ bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god
-    and bows to it (wa-yyisgōḏ lāmô). Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā
-    am naḥnu l-munshiʾūn, naḥnu jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who
-    also worships the wood, the Quran makes the fire a reminder of the Creator.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fire kindled from a tree that God made grow [divergence between
     the texts] (weight 6.7); God made fire for you from the green tree, from which you kindle (weight
@@ -147,6 +61,85 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fire kindled from a tree that God made grow
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: divergence
+  label: Fire kindled from a tree that God made grow
+  note: 'Fire kindled from a tree God made grow. Isaiah: nāṭaʿ ʾōren wə-ḡešem yəḡaddēl; wə-hāyâ lə-ʾāḏām
+    lə-ḇāʿēr ... ḥeṣyô śārap̄ bəmô ʾēš ... rāʾîṯî ʾûr, and from the other half he makes a god and bows
+    to it (wa-yyisgōḏ lāmô). Quran: a-fa-raʾaytumu n-nāra llatī tūrūn a-antum anshaʾtum shajaratahā am
+    naḥnu l-munshiʾūn, naḥnu jaʿalnāhā tadhkiratan. The same tree and fire; Isaiah mocks the man who also
+    worships the wood, the Quran makes the fire a reminder of the Creator.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:14
+      lang: he
+      text: לִכְרָת ל֣וֹ אֲרָזִ֔ים וַיִּקַּ֤ח תִּרְזָה֙ וְאַלּ֔וֹן וַיְאַמֶּץ ל֖וֹ בַּעֲצֵי יָ֑עַר נָטַ֥ע
+        אֹ֖רֶן וְגֶ֥שֶׁם יְגַדֵּֽל
+    - ref: Isa 44:15
+      lang: he
+      text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+        אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+    - ref: Isa 44:16
+      lang: he
+      text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף
+        יָחֹם֙ וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
+  - tradition: islam
+    passages:
+    - ref: Quran 56:71
+      lang: ar
+      text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+    - ref: Quran 56:72
+      lang: ar
+      text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+    - ref: Quran 56:73
+      lang: ar
+      text: نَحْنُ جَعَلْنَٰهَا تَذْكِرَةً وَمَتَٰعًا لِّلْمُقْوِينَ
+- kind: shared
+  label: God made fire for you from the green tree, from which you kindle
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:15
+      lang: he
+      text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+        אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+    - ref: Isa 44:16
+      lang: he
+      text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף
+        יָחֹם֙ וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
+    - ref: Isa 44:17
+      lang: he
+      text: וּשְׁאֵ֣רִית֔וֹ לְאֵ֥ל עָשָׂ֖ה לְפִסְל֑וֹ יסגוד יִסְגָּד ל֤וֹ וְיִשְׁתַּ֨חוּ֙ וְיִתְפַּלֵּ֣ל
+        אֵלָ֔יו וְיֹאמַר֙ הַצִּילֵ֔נִי כִּ֥י אֵלִ֖י אָֽתָּה
+    note: 'Wood as fuel set against false gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš
+      ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned for fire, the rest made a god). Q: alladhī jaʿala lakum
+      mina sh-shajari l-akhḍari nāran fa-idhā antum minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan
+      (36:74). Isaiah mocks the idol made from the firewood; the Quran makes the fire from wood a gift
+      of the true God.'
+  - tradition: islam
+    passages:
+    - ref: Quran 56:71
+      lang: ar
+      text: أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ
+    - ref: Quran 56:72
+      lang: ar
+      text: ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ
+    - ref: Quran 56:73
+      lang: ar
+      text: نَحْنُ جَعَلْنَٰهَا تَذْكِرَةً وَمَتَٰعًا لِّلْمُقْوِينَ
 ---
 
 ## Questions

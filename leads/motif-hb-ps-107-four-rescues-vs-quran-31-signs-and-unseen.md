@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-31-signs-and-unseen
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ God's signs,
   the inexhaustible words, and the five things only God knows
-summary: 'These two units share 1 motifs: seafarers cry to god in a storm; what they do once rescued [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - sailors-response-after-rescue-from-storm-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 107:28
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
-- tradition: judaism
-  ref: Ps 107:30
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׂמְח֥וּ כִֽי יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
-- tradition: islam
-  ref: Quran 31:32
-  note: Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (wa-idhā
-    ghashiyahum mawjun ka-ẓ-ẓulali daʿawu llāha mukhliṣīna lahu d-dīn vs. wa-ttərômēm gallâw ... wa-yiṣʿăqû
-    ʾel-YHWH ba-ṣṣar lāhem. After the rescue Ps 107:31 has all thank (yôḏû la-YHWH ḥasdô); Q 31:32 has
-    only some keep a middle course (fa-minhum muqtaṣid) while the treacherous (khattār kafūr) deny. Compare
-    Q 29:65 above.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
-    إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٍ كَفُورٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-idhā ghashiyahum mawjun ka-ẓ-ẓulali daʿawu llāha mukhliṣīna lahu d-dīn vs. wa-ttərômēm
-    gallâw ... wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem. After the rescue Ps 107:31 has all thank (yôḏû la-YHWH
-    ḥasdô); Q 31:32 has only some keep a middle course (fa-minhum muqtaṣid) while the treacherous (khattār
-    kafūr) deny. Compare Q 29:65 above.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -92,6 +56,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seafarers cry to God in a storm; what they do once rescued
+kinds:
+- divergence
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: divergence
+  label: Seafarers cry to God in a storm; what they do once rescued
+  note: wa-idhā ghashiyahum mawjun ka-ẓ-ẓulali daʿawu llāha mukhliṣīna lahu d-dīn vs. wa-ttərômēm gallâw
+    ... wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem. After the rescue Ps 107:31 has all thank (yôḏû la-YHWH ḥasdô);
+    Q 31:32 has only some keep a middle course (fa-minhum muqtaṣid) while the treacherous (khattār kafūr)
+    deny. Compare Q 29:65 above.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:25
+      lang: he
+      text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
+    - ref: Ps 107:28
+      lang: he
+      text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+    - ref: Ps 107:31
+      lang: he
+      text: יוֹד֣וּ לַיהוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 31:32
+      lang: ar
+      text: وَإِذَا غَشِيَهُم مَّوْجٌ كَٱلظُّلَلِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا
+        نَجَّىٰهُمْ إِلَى ٱلْبَرِّ فَمِنْهُم مُّقْتَصِدٌ وَمَا يَجْحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٍ
+        كَفُورٍ
 ---
 
 ## Questions

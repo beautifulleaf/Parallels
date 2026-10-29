@@ -2,8 +2,7 @@
 id: motif-hb-ezek-8-temple-abominations-vs-quran-17-night-journey-and-israel
 title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship ↔
   The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 1 motifs: god carried his servant by night from the sacred mosque to the
-  farthest mosque.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - night-journey-to-farthest-mosque
-passages:
-- tradition: judaism
-  ref: Ezek 8:3
-  note: 'God carried his servant by night from the Sacred Mosque to the Farthest Mosque (wattiśśāʾ ʾōtî
-    rûaḥ bên-hāʾāreṣ ûbên haššāmayim wattābēʾ ʾōtî yərûšālaymâ bəmarʾôt ʾĕlōhîm; asrā bi-ʿabdihi laylan
-    mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā ... li-nuriyahu min āyātinā: a prophet carried by God
-    to the Jerusalem sanctuary to be shown things. Ezek is shown abominations that doom the temple; Q''s
-    servant is shown signs at a sanctuary whose surroundings are blessed (bāraknā ḥawlahu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַח֙ תַּבְנִ֣ית יָ֔ד וַיִּקָּחֵ֖נִי בְּצִיצִ֣ת רֹאשִׁ֑י וַתִּשָּׂ֣א אֹתִ֣י ר֣וּחַ בֵּֽין
-    הָאָ֣רֶץ וּבֵ֣ין הַשָּׁמַ֡יִם וַתָּבֵא֩ אֹתִ֨י יְרוּשָׁלְַ֜מָה בְּמַרְא֣וֹת אֱלֹהִ֗ים אֶל פֶּ֜תַח
-    שַׁ֤עַר הַפְּנִימִית֙ הַפּוֹנֶ֣ה צָפ֔וֹנָה אֲשֶׁר שָׁ֣ם מוֹשַׁ֔ב סֵ֖מֶל הַקִּנְאָ֥ה הַמַּקְנֶֽה
-- tradition: judaism
-  ref: Ezek 8:4
-  note: 'God carried his servant by night from the Sacred Mosque to the Farthest Mosque (wattiśśāʾ ʾōtî
-    rûaḥ bên-hāʾāreṣ ûbên haššāmayim wattābēʾ ʾōtî yərûšālaymâ bəmarʾôt ʾĕlōhîm; asrā bi-ʿabdihi laylan
-    mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā ... li-nuriyahu min āyātinā: a prophet carried by God
-    to the Jerusalem sanctuary to be shown things. Ezek is shown abominations that doom the temple; Q''s
-    servant is shown signs at a sanctuary whose surroundings are blessed (bāraknā ḥawlahu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִ֨נֵּה שָׁ֔ם כְּב֖וֹד אֱלֹהֵ֣י יִשְׂרָאֵ֑ל כַּמַּרְאֶ֕ה אֲשֶׁ֥ר רָאִ֖יתִי בַּבִּקְעָֽה
-- tradition: islam
-  ref: Quran 17:1
-  note: God carried his servant by night from the Sacred Mosque to the Farthest Mosque (asrā bi-ʿabdihi
-    laylan mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā, whose surroundings are blessed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ
-    ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wattiśśāʾ ʾōtî rûaḥ bên-hāʾāreṣ ûbên haššāmayim wattābēʾ ʾōtî yərûšālaymâ bəmarʾôt ʾĕlōhîm;
-    asrā bi-ʿabdihi laylan mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā ... li-nuriyahu min āyātinā: a
-    prophet carried by God to the Jerusalem sanctuary to be shown things. Ezek is shown abominations that
-    doom the temple; Q''s servant is shown signs at a sanctuary whose surroundings are blessed (bāraknā
-    ḥawlahu).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God carried his servant by night from the Sacred Mosque to the Farthest
     Mosque (weight 6.7). Pair score 6.7.'
@@ -90,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God carried his servant by night from the Sacred Mosque to the Farthest Mosque
+kinds:
+- echo
+units:
+- id: hb-ezek-8-temple-abominations
+  title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: echo
+  label: God carried his servant by night from the Sacred Mosque to the Farthest Mosque
+  note: 'wattiśśāʾ ʾōtî rûaḥ bên-hāʾāreṣ ûbên haššāmayim wattābēʾ ʾōtî yərûšālaymâ bəmarʾôt ʾĕlōhîm; asrā
+    bi-ʿabdihi laylan mina l-masjidi l-ḥarāmi ilā l-masjidi l-aqṣā ... li-nuriyahu min āyātinā: a prophet
+    carried by God to the Jerusalem sanctuary to be shown things. Ezek is shown abominations that doom
+    the temple; Q''s servant is shown signs at a sanctuary whose surroundings are blessed (bāraknā ḥawlahu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 8:3
+      lang: he
+      text: וַיִּשְׁלַח֙ תַּבְנִ֣ית יָ֔ד וַיִּקָּחֵ֖נִי בְּצִיצִ֣ת רֹאשִׁ֑י וַתִּשָּׂ֣א אֹתִ֣י ר֣וּחַ
+        בֵּֽין הָאָ֣רֶץ וּבֵ֣ין הַשָּׁמַ֡יִם וַתָּבֵא֩ אֹתִ֨י יְרוּשָׁלְַ֜מָה בְּמַרְא֣וֹת אֱלֹהִ֗ים אֶל
+        פֶּ֜תַח שַׁ֤עַר הַפְּנִימִית֙ הַפּוֹנֶ֣ה צָפ֔וֹנָה אֲשֶׁר שָׁ֣ם מוֹשַׁ֔ב סֵ֖מֶל הַקִּנְאָ֥ה הַמַּקְנֶֽה
+    - ref: Ezek 8:4
+      lang: he
+      text: וְהִ֨נֵּה שָׁ֔ם כְּב֖וֹד אֱלֹהֵ֣י יִשְׂרָאֵ֑ל כַּמַּרְאֶ֕ה אֲשֶׁ֥ר רָאִ֖יתִי בַּבִּקְעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 17:1
+      lang: ar
+      text: سُبْحَٰنَ ٱلَّذِىٓ أَسْرَىٰ بِعَبْدِهِۦ لَيْلًا مِّنَ ٱلْمَسْجِدِ ٱلْحَرَامِ إِلَى ٱلْمَسْجِدِ
+        ٱلْأَقْصَا ٱلَّذِى بَٰرَكْنَا حَوْلَهُۥ لِنُرِيَهُۥ مِنْ ءَايَٰتِنَآ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْبَصِيرُ
 ---
 
 ## Questions

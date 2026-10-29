@@ -2,8 +2,7 @@
 id: motif-hb-jer-7-queen-of-heaven-vs-quran-63-munafiqun-propped-timbers
 title: 'Do not pray for this people; cakes for the Queen of Heaven ↔ Al-Munafiqun: false testimony, propped-up
   timbers, ''the mightier will expel the meaner'', and the deathbed plea for delay'
-summary: 'These two units share 1 motifs: god forbids the prophet to pray or intercede for the people,
-  for he will not hear.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-forbidden-to-intercede
-passages:
-- tradition: judaism
-  ref: Jer 7:16
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה אַל תִּתְפַּלֵּ֣ל בְּעַד הָעָ֣ם הַזֶּ֗ה וְאַל תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה
-    וְאַל תִּפְגַּע בִּ֑י כִּי אֵינֶ֥נִּי שֹׁמֵ֖עַ אֹתָֽךְ
-- tradition: islam
-  ref: Quran 63:6
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ
-    إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. sawāʾun ʿalayhim a-staghfarta lahum am lam tastaghfir lahum lan yaghfira llāhu lahum ~ we-ʾattāh
-    ʾal titpallēl beʿad hā-ʿām ha-zzeh ... kî ʾênennî šōmēaʿ ʾōtāk. In Jeremiah God forbids the prophet
-    to pray because he will not hear; in the Quran the prophet''s asking forgiveness is declared useless
-    for the hypocrites.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
     he will not hear (weight 5.4). Pair score 5.4.'
@@ -68,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God forbids the prophet to pray or intercede for the people, for he will not hear
+kinds:
+- parallel
+units:
+- id: hb-jer-7-queen-of-heaven
+  title: Do not pray for this people; cakes for the Queen of Heaven
+  tradition: judaism
+- id: quran-63-munafiqun-propped-timbers
+  title: 'Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'', and
+    the deathbed plea for delay'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God forbids the prophet to pray or intercede for the people, for he will not hear
+  note: sawāʾun ʿalayhim a-staghfarta lahum am lam tastaghfir lahum lan yaghfira llāhu lahum ~ we-ʾattāh
+    ʾal titpallēl beʿad hā-ʿām ha-zzeh ... kî ʾênennî šōmēaʿ ʾōtāk. In Jeremiah God forbids the prophet
+    to pray because he will not hear; in the Quran the prophet's asking forgiveness is declared useless
+    for the hypocrites.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 7:16
+      lang: he
+      text: וְאַתָּ֞ה אַל תִּתְפַּלֵּ֣ל בְּעַד הָעָ֣ם הַזֶּ֗ה וְאַל תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה
+        וְאַל תִּפְגַּע בִּ֑י כִּי אֵינֶ֥נִּי שֹׁמֵ֖עַ אֹתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 63:6
+      lang: ar
+      text: سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ
+        لَهُمْ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

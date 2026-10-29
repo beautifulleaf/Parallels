@@ -1,10 +1,7 @@
 ---
 id: motif-hb-jonah-4-qiqayon-vs-quran-37-lot-and-jonah
 title: Jonah's anger, the qiqayon plant and God's question ↔ Lot's old woman; Jonah and the fish
-summary: 'These two units share 3 motifs: god makes a plant (qiqayon, gourd or castor) grow overnight
-  to shade the prophet, god makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet
-  [divergence between the texts], nineveh has more than 120,000 people who do not know their right hand
-  from their left.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,88 +14,17 @@ traditions:
 layers:
 - motif
 motifs:
-- miraculous-shade-plant
-- miraculous-shade-plant-as-divergence
 - city-of-twelve-myriads-who-know-not-right-from-left
-passages:
-- tradition: judaism
-  ref: Jonah 4:6
-  note: God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet (qiqayon (castor-oil
-    plant or gourd); Jonah's 'great joy')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֣ן יְהוָֽה אֱ֠לֹהִים קִיקָי֞וֹן וַיַּ֣עַל מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל רֹאשׁ֔וֹ
-    לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה
-- tradition: islam
-  ref: Quran 37:146
-  note: God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet (a plant of yaqtin
-    (gourd) grown over him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ
-- tradition: judaism
-  ref: Jonah 4:6
-  note: 'God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet [divergence
-    between the texts] (The plant, moved in the story and given a new function. Jonah: after Nineveh is
-    spared, wa-yman YHWH ʾĕlōhîm qîqāyôn ... lihyôṯ ṣēl ʿal-rōʾšô, then a worm destroys it (wa-yman hā-ʾĕlōhîm
-    tôlaʿaṯ), and God draws the lesson, ʾattâ ḥastā ʿal-ha-qqîqāyôn. Q: wa-anbatnā ʿalayhi shajaratan
-    min yaqṭīn, right after the fish, as care for the sick prophet. There is no worm, no wind, no anger
-    and no lesson.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֣ן יְהוָֽה אֱ֠לֹהִים קִיקָי֞וֹן וַיַּ֣עַל מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל רֹאשׁ֔וֹ
-    לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה
-- tradition: judaism
-  ref: Jonah 4:7
-  note: 'God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet [divergence
-    between the texts] (The plant, moved in the story and given a new function. Jonah: after Nineveh is
-    spared, wa-yman YHWH ʾĕlōhîm qîqāyôn ... lihyôṯ ṣēl ʿal-rōʾšô, then a worm destroys it (wa-yman hā-ʾĕlōhîm
-    tôlaʿaṯ), and God draws the lesson, ʾattâ ḥastā ʿal-ha-qqîqāyôn. Q: wa-anbatnā ʿalayhi shajaratan
-    min yaqṭīn, right after the fish, as care for the sick prophet. There is no worm, no wind, no anger
-    and no lesson.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֤ן הָֽאֱלֹהִים֙ תּוֹלַ֔עַת בַּעֲל֥וֹת הַשַּׁ֖חַר לַֽמָּחֳרָ֑ת וַתַּ֥ךְ אֶת הַקִּֽיקָי֖וֹן
-    וַיִּיבָֽשׁ
-- tradition: islam
-  ref: Quran 37:146
-  note: 'God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet [divergence
-    between the texts] (The plant, moved in the story and given a new function. Jonah: after Nineveh is
-    spared, wa-yman YHWH ʾĕlōhîm qîqāyôn ... lihyôṯ ṣēl ʿal-rōʾšô, then a worm destroys it (wa-yman hā-ʾĕlōhîm
-    tôlaʿaṯ), and God draws the lesson, ʾattâ ḥastā ʿal-ha-qqîqāyôn. Q: wa-anbatnā ʿalayhi shajaratan
-    min yaqṭīn, right after the fish, as care for the sick prophet. There is no worm, no wind, no anger
-    and no lesson.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ
-- tradition: judaism
-  ref: Jonah 4:11
-  note: Nineveh has more than 120,000 people who do not know their right hand from their left
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים
-    עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא יָדַע֙ בֵּין יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה
-- tradition: islam
-  ref: Quran 37:147
-  note: Nineveh has more than 120,000 people who do not know their right hand from their left ('a hundred
-    thousand or more')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
+- miraculous-shade-plant-as-divergence
+- miraculous-shade-plant
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence, parallel. The plant, moved in the story and given a new function. Jonah: after Nineveh
-    is spared, wa-yman YHWH ʾĕlōhîm qîqāyôn ... lihyôṯ ṣēl ʿal-rōʾšô, then a worm destroys it (wa-yman
-    hā-ʾĕlōhîm tôlaʿaṯ), and God draws the lesson, ʾattâ ḥastā ʿal-ha-qqîqāyôn. Q: wa-anbatnā ʿalayhi
-    shajaratan min yaqṭīn, right after the fish, as care for the sick prophet. There is no worm, no wind,
-    no anger and no lesson. harbēh miššətêm-ʿeśrēh ribbô ʾāḏām vs. ilā miʾati alfin aw yazīdūn: the city''s
-    size, with ''more than'' on both sides. The Quran rounds 120,000 to 100,000 and does not name Nineveh,
-    its ignorance of right and left, or its animals.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God makes a plant (qiqayon, gourd or castor) grow overnight to shade
-    the prophet (weight 6.7); God makes a plant (qiqayon, gourd or castor) grow overnight to shade the
-    prophet [divergence between the texts] (weight 6.7); Nineveh has more than 120,000 people who do not
-    know their right hand from their left (weight 6.7). Pair score 20.1.'
+- text: 'Shared motifs, rarest first: Nineveh has more than 120,000 people who do not know their right
+    hand from their left (weight 6.7); God makes a plant (qiqayon, gourd or castor) grow overnight to
+    shade the prophet [divergence between the texts] (weight 6.7); God makes a plant (qiqayon, gourd or
+    castor) grow overnight to shade the prophet (weight 6.7). Pair score 20.1.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in
@@ -131,6 +57,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-jonah-4-qiqayon
+  title: Jonah's anger, the qiqayon plant and God's question
+  tradition: judaism
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+matches:
+- kind: divergence
+  label: God makes a plant (qiqayon, gourd or castor) grow overnight to shade the prophet
+  note: 'The plant, moved in the story and given a new function. Jonah: after Nineveh is spared, wa-yman
+    YHWH ʾĕlōhîm qîqāyôn ... lihyôṯ ṣēl ʿal-rōʾšô, then a worm destroys it (wa-yman hā-ʾĕlōhîm tôlaʿaṯ),
+    and God draws the lesson, ʾattâ ḥastā ʿal-ha-qqîqāyôn. Q: wa-anbatnā ʿalayhi shajaratan min yaqṭīn,
+    right after the fish, as care for the sick prophet. There is no worm, no wind, no anger and no lesson.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 4:6
+      lang: he
+      text: וַיְמַ֣ן יְהוָֽה אֱ֠לֹהִים קִיקָי֞וֹן וַיַּ֣עַל מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל רֹאשׁ֔וֹ
+        לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה
+    - ref: Jonah 4:7
+      lang: he
+      text: וַיְמַ֤ן הָֽאֱלֹהִים֙ תּוֹלַ֔עַת בַּעֲל֥וֹת הַשַּׁ֖חַר לַֽמָּחֳרָ֑ת וַתַּ֥ךְ אֶת הַקִּֽיקָי֖וֹן
+        וַיִּיבָֽשׁ
+    - ref: Jonah 4:10
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֔ה אַתָּ֥ה חַ֨סְתָּ֙ עַל הַקִּ֣יקָי֔וֹן אֲשֶׁ֛ר לֹא עָמַ֥לְתָּ בּ֖וֹ וְלֹ֣א
+        גִדַּלְתּ֑וֹ שֶׁבִּן לַ֥יְלָה הָיָ֖ה וּבִן לַ֥יְלָה אָבָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 37:146
+      lang: ar
+      text: وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ
+- kind: parallel
+  label: Nineveh has more than 120,000 people who do not know their right hand from their left
+  note: 'harbēh miššətêm-ʿeśrēh ribbô ʾāḏām vs. ilā miʾati alfin aw yazīdūn: the city''s size, with ''more
+    than'' on both sides. The Quran rounds 120,000 to 100,000 and does not name Nineveh, its ignorance
+    of right and left, or its animals.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 4:11
+      lang: he
+      text: וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים
+        עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא יָדַע֙ בֵּין יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 37:147
+      lang: ar
+      text: وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
 ---
 
 ## Questions

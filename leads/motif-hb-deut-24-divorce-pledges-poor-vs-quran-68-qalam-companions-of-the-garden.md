@@ -2,9 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-68-qalam-companions-of-the-garden
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ The companions of the garden who swore to harvest
   without 'if God wills' and to exclude the poor
-summary: 'These two units share 2 motifs: forgotten sheaf, olive and grape gleanings left for stranger,
-  orphan and widow [contrast between the texts], forgotten sheaf, olive and grape gleanings left for stranger,
-  orphan and widow.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,72 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- gleanings-for-poor-as-contrast
 - gleanings-for-poor
-passages:
-- tradition: judaism
-  ref: Deut 24:19
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ
-    לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה
-    יָדֶֽיךָ
-- tradition: islam
-  ref: Quran 68:22
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
-- tradition: islam
-  ref: Quran 68:23
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
-- tradition: judaism
-  ref: Deut 24:19
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ
-    לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה
-    יָדֶֽיךָ
-- tradition: judaism
-  ref: Deut 24:20
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י תַחְבֹּט֙ זֵֽיתְךָ֔ לֹ֥א תְפָאֵ֖ר אַחֲרֶ֑יךָ לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶֽה
-- tradition: islam
-  ref: Quran 68:24
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow (they deny the
-    poor their harvest share)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ
+- gleanings-for-poor-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forgotten sheaf, olive and grape gleanings left for stranger, orphan
-    and widow [contrast between the texts] (weight 6.3); Forgotten sheaf, olive and grape gleanings left
-    for stranger, orphan and widow (weight 6.3). Pair score 12.6.'
+    and widow (weight 6.3); Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+    [contrast between the texts] (weight 6.3). Pair score 12.6.'
   basis: reading
 - text: 'Only in Divorce, newlyweds, pledges, wages, gleanings: Millstones may not be taken in pledge,
     for that is taking a life; Newly married man exempt from army for one year to gladden his wife; Remember
@@ -110,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+kinds:
+- contrast
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-68-qalam-companions-of-the-garden
+  title: The companions of the garden who swore to harvest without 'if God wills' and to exclude the poor
+  tradition: islam
+matches:
+- kind: contrast
+  label: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+  note: 'The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn ...
+    an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ tāšûv
+    le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
+    for leaving the poor''s share; the garden is destroyed for excluding the poor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:19
+      lang: he
+      text: כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ
+        לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה
+        יָדֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:22
+      lang: ar
+      text: أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
+    - ref: Quran 68:23
+      lang: ar
+      text: فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
+    - ref: Quran 68:24
+      lang: ar
+      text: أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ
 ---
 
 ## Questions

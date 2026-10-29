@@ -2,8 +2,7 @@
 id: motif-hb-ezek-33-watchman-and-fall-news-vs-quran-45-jathiya-signs-and-israel
 title: 'The watchman; turn and live; the fugitive''s news; Abraham was one; the prophet as love-singer
   ↔ Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: woe to every sinful liar who hears god''s signs recited, persists
-  in arrogance as if he had not heard, and takes them in mockery.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - woe-to-sinful-liar-who-hears-and-scorns
-passages:
-- tradition: judaism
-  ref: Ezek 33:31
-  note: 'Woe to every sinful liar who hears God''s signs recited, persists in arrogance as if he had not
-    heard, and takes them in mockery (Hearing the prophet''s words and not acting on them: wə-šāməʿû ʾeṯ
-    dəḇārêḵā wə-ʿōśîm ʾênām ʾôṯām; wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm (you are to them like a love song)
-    vs. yasmaʿu āyāti llāhi tutlā ʿalayhi thumma yuṣirru mustakbiran ka-an lam yasmaʿhā ... ittakhadhahā
-    huzuwan. Ezekiel''s hearers enjoy the words as entertainment; the Quran''s mock them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָב֣וֹאוּ אֵ֠לֶיךָ כִּמְבוֹא עָ֞ם וְיֵשְׁב֤וּ לְפָנֶ֨יךָ֙ עַמִּ֔י וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
-    וְאוֹתָ֖ם לֹ֣א יַֽעֲשׂ֑וּ כִּֽי עֲגָבִ֤ים בְּפִיהֶם֙ הֵ֣מָּה עֹשִׂ֔ים אַחֲרֵ֥י בִצְעָ֖ם לִבָּ֥ם הֹלֵֽךְ
-- tradition: judaism
-  ref: Ezek 33:32
-  note: 'Woe to every sinful liar who hears God''s signs recited, persists in arrogance as if he had not
-    heard, and takes them in mockery (Hearing the prophet''s words and not acting on them: wə-šāməʿû ʾeṯ
-    dəḇārêḵā wə-ʿōśîm ʾênām ʾôṯām; wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm (you are to them like a love song)
-    vs. yasmaʿu āyāti llāhi tutlā ʿalayhi thumma yuṣirru mustakbiran ka-an lam yasmaʿhā ... ittakhadhahā
-    huzuwan. Ezekiel''s hearers enjoy the words as entertainment; the Quran''s mock them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנְּךָ֤ לָהֶם֙ כְּשִׁ֣יר עֲגָבִ֔ים יְפֵ֥ה ק֖וֹל וּמֵטִ֣ב נַגֵּ֑ן וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
-    וְעֹשִׂ֥ים אֵינָ֖ם אוֹתָֽם
-- tradition: islam
-  ref: Quran 45:7
-  note: Woe to every sinful liar who hears God's signs recited, persists in arrogance as if he had not
-    heard, and takes them in mockery
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ
-- tradition: islam
-  ref: Quran 45:8
-  note: Woe to every sinful liar who hears God's signs recited, persists in arrogance as if he had not
-    heard, and takes them in mockery
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْمَعُ ءَايَٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا
-    فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Hearing the prophet''s words and not acting on them: wə-šāməʿû ʾeṯ dəḇārêḵā wə-ʿōśîm ʾênām ʾôṯām;
-    wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm (you are to them like a love song) vs. yasmaʿu āyāti llāhi tutlā ʿalayhi
-    thumma yuṣirru mustakbiran ka-an lam yasmaʿhā ... ittakhadhahā huzuwan. Ezekiel''s hearers enjoy the
-    words as entertainment; the Quran''s mock them.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to every sinful liar who hears God''s signs recited, persists
     in arrogance as if he had not heard, and takes them in mockery (weight 6.7). Pair score 6.7.'
@@ -99,6 +57,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to every sinful liar who hears God's signs recited, persists in arrogance as if he had not
+  heard, and takes them in mockery
+kinds:
+- echo
+units:
+- id: hb-ezek-33-watchman-and-fall-news
+  title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: echo
+  label: Woe to every sinful liar who hears God's signs recited, persists in arrogance as if he had not
+    heard, and takes them in mockery
+  note: 'Hearing the prophet''s words and not acting on them: wə-šāməʿû ʾeṯ dəḇārêḵā wə-ʿōśîm ʾênām ʾôṯām;
+    wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm (you are to them like a love song) vs. yasmaʿu āyāti llāhi tutlā ʿalayhi
+    thumma yuṣirru mustakbiran ka-an lam yasmaʿhā ... ittakhadhahā huzuwan. Ezekiel''s hearers enjoy the
+    words as entertainment; the Quran''s mock them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 33:31
+      lang: he
+      text: וְיָב֣וֹאוּ אֵ֠לֶיךָ כִּמְבוֹא עָ֞ם וְיֵשְׁב֤וּ לְפָנֶ֨יךָ֙ עַמִּ֔י וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
+        וְאוֹתָ֖ם לֹ֣א יַֽעֲשׂ֑וּ כִּֽי עֲגָבִ֤ים בְּפִיהֶם֙ הֵ֣מָּה עֹשִׂ֔ים אַחֲרֵ֥י בִצְעָ֖ם לִבָּ֥ם
+        הֹלֵֽךְ
+    - ref: Ezek 33:32
+      lang: he
+      text: וְהִנְּךָ֤ לָהֶם֙ כְּשִׁ֣יר עֲגָבִ֔ים יְפֵ֥ה ק֖וֹל וּמֵטִ֣ב נַגֵּ֑ן וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
+        וְעֹשִׂ֥ים אֵינָ֖ם אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 45:7
+      lang: ar
+      text: وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ
+    - ref: Quran 45:8
+      lang: ar
+      text: يَسْمَعُ ءَايَٰتِ ٱللَّهِ تُتْلَىٰ عَلَيْهِ ثُمَّ يُصِرُّ مُسْتَكْبِرًا كَأَن لَّمْ يَسْمَعْهَا
+        فَبَشِّرْهُ بِعَذَابٍ أَلِيمٍ
+    - ref: Quran 45:9
+      lang: ar
+      text: وَإِذَا عَلِمَ مِنْ ءَايَٰتِنَا شَيْـًٔا ٱتَّخَذَهَا هُزُوًا أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ مُّهِينٌ
 ---
 
 ## Questions

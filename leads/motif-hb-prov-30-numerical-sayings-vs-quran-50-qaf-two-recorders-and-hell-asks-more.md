@@ -3,8 +3,7 @@ id: motif-hb-prov-30-numerical-sayings-vs-quran-50-qaf-two-recorders-and-hell-as
 title: Agur's numerical sayings (leech, four wonders, four small wise creatures) ↔ Nearer than the jugular
   vein; the two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without
   weariness
-summary: 'These two units share 1 motifs: four things are never satisfied: sheol, the barren womb, earth
-  not filled with water, and fire that never says ''enough''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,34 +16,9 @@ layers:
 - motif
 motifs:
 - four-things-never-satisfied
-passages:
-- tradition: judaism
-  ref: Prov 30:15
-  note: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire
-    that never says ''Enough'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַֽעֲלוּקָ֨ה שְׁתֵּ֥י בָנוֹת֮ הַ֤ב הַ֥ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא אָ֥מְרוּ
-    הֽוֹן
-- tradition: judaism
-  ref: Prov 30:16
-  note: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire
-    that never says ''Enough'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁאוֹל֮ וְעֹ֪צֶ֫ר רָ֥חַם אֶ֭רֶץ לֹא שָׂ֣בְעָה מַּ֑יִם וְ֝אֵ֗שׁ לֹא אָ֥מְרָה הֽוֹן
-- tradition: islam
-  ref: Quran 50:30
-  note: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire
-    that never says ''Enough'' (insatiable underworld; cf. Prov 30:16, Isa 5:14)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Sheol and fire that never say ''enough'': šəʾôl wə-ʿōṣer rāḥam ... wə-ʾēš lōʾ ʾāmərâ hôn
-    vs. Gehenna (fire) answering hal min mazīd. Proverbs: fire that never says ''Enough!'' (hôn); Quran:
-    hell-fire that says ''Is there more?''. The same idea put as a positive request.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Four things are never satisfied: Sheol, the barren womb, earth not
     filled with water, and fire that never says ''Enough'' (weight 6.7). Pair score 6.7.'
@@ -86,6 +60,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire
+  that never says ''Enough'''
+kinds:
+- parallel
+units:
+- id: hb-prov-30-numerical-sayings
+  title: Agur's numerical sayings (leech, four wonders, four small wise creatures)
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Four things are never satisfied: Sheol, the barren womb, earth not filled with water, and fire
+    that never says ''Enough'''
+  note: 'Sheol and fire that never say ''enough'': šəʾôl wə-ʿōṣer rāḥam ... wə-ʾēš lōʾ ʾāmərâ hôn vs.
+    Gehenna (fire) answering hal min mazīd. Proverbs: fire that never says ''Enough!'' (hôn); Quran: hell-fire
+    that says ''Is there more?''. The same idea put as a positive request.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 30:15
+      lang: he
+      text: לַֽעֲלוּקָ֨ה שְׁתֵּ֥י בָנוֹת֮ הַ֤ב הַ֥ב שָׁל֣וֹשׁ הֵ֭נָּה לֹ֣א תִשְׂבַּ֑עְנָה אַ֝רְבַּ֗ע לֹא
+        אָ֥מְרוּ הֽוֹן
+    - ref: Prov 30:16
+      lang: he
+      text: שְׁאוֹל֮ וְעֹ֪צֶ֫ר רָ֥חַם אֶ֭רֶץ לֹא שָׂ֣בְעָה מַּ֑יִם וְ֝אֵ֗שׁ לֹא אָ֥מְרָה הֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 50:30
+      lang: ar
+      text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
 ---
 
 ## Questions

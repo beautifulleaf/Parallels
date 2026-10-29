@@ -2,8 +2,7 @@
 id: motif-hb-1chr-29-offerings-prayer-david-dies-vs-quran-28-qarun
 title: Free-will gifts, David's doxology, Solomon enthroned again, David's death ↔ Qarun's treasures and
   his swallowing by the earth; closing
-summary: 'These two units share 1 motifs: donors confess that everything comes from god and they only
-  give back what is his.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - all-comes-from-god-we-give-back
-passages:
-- tradition: judaism
-  ref: 1Chr 29:14
-  note: Donors confess that everything comes from God and they only give back what is his ('from your
-    hand we have given you')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִ֨י מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י כִּֽי נַעְצֹ֣ר כֹּ֔חַ לְהִתְנַדֵּ֖ב כָּזֹ֑את כִּֽי מִמְּךָ֣
-    הַכֹּ֔ל וּמִיָּדְךָ֖ נָתַ֥נּוּ לָֽךְ
-- tradition: judaism
-  ref: 1Chr 29:16
-  note: Donors confess that everything comes from God and they only give back what is his ('from your
-    hand we have given you')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֣ה אֱלֹהֵ֔ינוּ כֹ֣ל הֶהָמ֤וֹן הַזֶּה֙ אֲשֶׁ֣ר הֲכִינֹ֔נוּ לִבְנֽוֹת לְךָ֥ בַ֖יִת לְשֵׁ֣ם
-    קָדְשֶׁ֑ךָ מִיָּדְךָ֥ היא ה֖וּא וּלְךָ֥ הַכֹּֽל
-- tradition: islam
-  ref: Quran 28:77
-  note: 'Donors confess that everything comes from God and they only give back what is his (wa-btaghi
-    fīmā ātāka llāhu d-dāra l-ākhirata ... wa-aḥsin kamā aḥsana llāhu ilayka ~ wə-hā-ʿōšer wə-hak-kāvôd
-    mil-ləfānêkā ... kî mimməkā hak-kōl û-mi-yyādəkā nātannû lākh: wealth is God''s gift and should be
-    used toward God; David''s people give back from it, Qārūn is told to and refuses.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا
-    وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ لَا
-    يُحِبُّ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-btaghi fīmā ātāka llāhu d-dāra l-ākhirata ... wa-aḥsin kamā aḥsana llāhu ilayka ~ wə-hā-ʿōšer
-    wə-hak-kāvôd mil-ləfānêkā ... kî mimməkā hak-kōl û-mi-yyādəkā nātannû lākh: wealth is God''s gift
-    and should be used toward God; David''s people give back from it, Qārūn is told to and refuses.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Donors confess that everything comes from God and they only give
     back what is his (weight 6.7). Pair score 6.7.'
@@ -81,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Donors confess that everything comes from God and they only give back what is his
+kinds:
+- echo
+units:
+- id: hb-1chr-29-offerings-prayer-david-dies
+  title: Free-will gifts, David's doxology, Solomon enthroned again, David's death
+  tradition: judaism
+- id: quran-28-qarun
+  title: Qarun's treasures and his swallowing by the earth; closing
+  tradition: islam
+matches:
+- kind: echo
+  label: Donors confess that everything comes from God and they only give back what is his
+  note: 'wa-btaghi fīmā ātāka llāhu d-dāra l-ākhirata ... wa-aḥsin kamā aḥsana llāhu ilayka ~ wə-hā-ʿōšer
+    wə-hak-kāvôd mil-ləfānêkā ... kî mimməkā hak-kōl û-mi-yyādəkā nātannû lākh: wealth is God''s gift
+    and should be used toward God; David''s people give back from it, Qārūn is told to and refuses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 29:12
+      lang: he
+      text: וְהָעֹ֤שֶׁר וְהַכָּבוֹד֙ מִלְּפָנֶ֔יךָ וְאַתָּה֙ מוֹשֵׁ֣ל בַּכֹּ֔ל וּבְיָדְךָ֖ כֹּ֣חַ וּגְבוּרָ֑ה
+        וּבְיָ֣דְךָ֔ לְגַדֵּ֥ל וּלְחַזֵּ֖ק לַכֹּֽל
+    - ref: 1Chr 29:14
+      lang: he
+      text: וְכִ֨י מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י כִּֽי נַעְצֹ֣ר כֹּ֔חַ לְהִתְנַדֵּ֖ב כָּזֹ֑את כִּֽי מִמְּךָ֣
+        הַכֹּ֔ל וּמִיָּדְךָ֖ נָתַ֥נּוּ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:77
+      lang: ar
+      text: وَٱبْتَغِ فِيمَآ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلْءَاخِرَةَ وَلَا تَنسَ نَصِيبَكَ مِنَ ٱلدُّنْيَا
+        وَأَحْسِن كَمَآ أَحْسَنَ ٱللَّهُ إِلَيْكَ وَلَا تَبْغِ ٱلْفَسَادَ فِى ٱلْأَرْضِ إِنَّ ٱللَّهَ
+        لَا يُحِبُّ ٱلْمُفْسِدِينَ
 ---
 
 ## Questions

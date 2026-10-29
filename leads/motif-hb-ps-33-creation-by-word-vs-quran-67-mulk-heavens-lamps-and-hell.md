@@ -2,8 +2,7 @@
 id: motif-hb-ps-33-creation-by-word-vs-quran-67-mulk-heavens-lamps-and-hell
 title: 'Psalm 33 - by the word of YHWH the heavens were made ↔ Al-Mulk: death and life as test, seven
   flawless heavens, stars as missiles against devils, hell nearly bursting with rage'
-summary: 'These two units share 1 motifs: god, who fashions the hearts of all and observes all their deeds,
-  looks down from his dwelling.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - god-fashions-all-hearts
-passages:
-- tradition: judaism
-  ref: Ps 33:15
-  note: God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַיֹּצֵ֣ר יַ֣חַד לִבָּ֑ם הַ֝מֵּבִ֗ין אֶל כָּל מַעֲשֵׂיהֶֽם
-- tradition: judaism
-  ref: Ps 33:13
-  note: God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֭שָּׁמַיִם הִבִּ֣יט יְהוָ֑ה רָ֝אָ֗ה אֶֽת כָּל בְּנֵ֥י הָאָדָֽם
-- tradition: islam
-  ref: Quran 67:13
-  note: 'God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
-    (innahu ʿalīmun bi-dhāti ṣ-ṣudūr, a-lā yaʿlamu man khalaqa ~ ha-yyōṣēr yaḥad libbām ha-mmēvîn ʾel
-    kol maʿăśêhem: he who formed the hearts knows them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
-- tradition: islam
-  ref: Quran 67:14
-  note: 'God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
-    (innahu ʿalīmun bi-dhāti ṣ-ṣudūr, a-lā yaʿlamu man khalaqa ~ ha-yyōṣēr yaḥad libbām ha-mmēvîn ʾel
-    kol maʿăśêhem: he who formed the hearts knows them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. innahu ʿalīmun bi-dhāti ṣ-ṣudūr, a-lā yaʿlamu man khalaqa ~ ha-yyōṣēr yaḥad libbām ha-mmēvîn
-    ʾel kol maʿăśêhem: he who formed the hearts knows them.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God, who fashions the hearts of all and observes all their deeds,
     looks down from his dwelling (weight 6.7). Pair score 6.7.'
@@ -83,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
+kinds:
+- parallel
+units:
+- id: hb-ps-33-creation-by-word
+  title: Psalm 33 - by the word of YHWH the heavens were made
+  tradition: judaism
+- id: quran-67-mulk-heavens-lamps-and-hell
+  title: 'Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils, hell
+    nearly bursting with rage'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God, who fashions the hearts of all and observes all their deeds, looks down from his dwelling
+  note: 'innahu ʿalīmun bi-dhāti ṣ-ṣudūr, a-lā yaʿlamu man khalaqa ~ ha-yyōṣēr yaḥad libbām ha-mmēvîn
+    ʾel kol maʿăśêhem: he who formed the hearts knows them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 33:13
+      lang: he
+      text: מִ֭שָּׁמַיִם הִבִּ֣יט יְהוָ֑ה רָ֝אָ֗ה אֶֽת כָּל בְּנֵ֥י הָאָדָֽם
+    - ref: Ps 33:15
+      lang: he
+      text: הַיֹּצֵ֣ר יַ֣חַד לִבָּ֑ם הַ֝מֵּבִ֗ין אֶל כָּל מַעֲשֵׂיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 67:13
+      lang: ar
+      text: وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    - ref: Quran 67:14
+      lang: ar
+      text: أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 ---
 
 ## Questions

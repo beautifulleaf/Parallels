@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-1-hannah-vs-quran-19-zechariah-and-john
 title: Hannah's vow and Samuel's birth ↔ Zechariah's secret prayer and the birth of John (Surah 19:1-15)
-summary: 'These two units share 1 motifs: a petitioner calls to god in a hidden, secret voice [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,44 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-in-a-hidden-voice-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Sam 1:12
-  note: 'A petitioner calls to God in a hidden, secret voice [divergence between the texts] (A prayer
-    for a child said in a hidden voice: wəḥannâ hîʾ mədabberet ʿal-libbāh raq śəpātêhā nāʿôt wəqôlāh lōʾ
-    yiššāmēaʿ; idh nādā rabbahu nidāʾan khafiyyā. The petitioner changes: the barren wife in Samuel, the
-    aged husband-priest in Q. Hannah is misjudged by the priest Eli, while in Q the praying man is himself
-    the priest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת פִּֽיהָ
-- tradition: judaism
-  ref: 1Sam 1:13
-  note: 'A petitioner calls to God in a hidden, secret voice [divergence between the texts] (A prayer
-    for a child said in a hidden voice: wəḥannâ hîʾ mədabberet ʿal-libbāh raq śəpātêhā nāʿôt wəqôlāh lōʾ
-    yiššāmēaʿ; idh nādā rabbahu nidāʾan khafiyyā. The petitioner changes: the barren wife in Samuel, the
-    aged husband-priest in Q. Hannah is misjudged by the priest Eli, while in Q the praying man is himself
-    the priest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
-    וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
-- tradition: islam
-  ref: Quran 19:3
-  note: 'A petitioner calls to God in a hidden, secret voice [divergence between the texts] (A prayer
-    for a child said in a hidden voice: wəḥannâ hîʾ mədabberet ʿal-libbāh raq śəpātêhā nāʿôt wəqôlāh lōʾ
-    yiššāmēaʿ; idh nādā rabbahu nidāʾan khafiyyā. The petitioner changes: the barren wife in Samuel, the
-    aged husband-priest in Q. Hannah is misjudged by the priest Eli, while in Q the praying man is himself
-    the priest.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. A prayer for a child said in a hidden voice: wəḥannâ hîʾ mədabberet ʿal-libbāh raq śəpātêhā
-    nāʿôt wəqôlāh lōʾ yiššāmēaʿ; idh nādā rabbahu nidāʾan khafiyyā. The petitioner changes: the barren
-    wife in Samuel, the aged husband-priest in Q. Hannah is misjudged by the priest Eli, while in Q the
-    praying man is himself the priest.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A petitioner calls to God in a hidden, secret voice [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A petitioner calls to God in a hidden, secret voice
+kinds:
+- divergence
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-19-zechariah-and-john
+  title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+  tradition: islam
+matches:
+- kind: divergence
+  label: A petitioner calls to God in a hidden, secret voice
+  note: 'A prayer for a child said in a hidden voice: wəḥannâ hîʾ mədabberet ʿal-libbāh raq śəpātêhā nāʿôt
+    wəqôlāh lōʾ yiššāmēaʿ; idh nādā rabbahu nidāʾan khafiyyā. The petitioner changes: the barren wife
+    in Samuel, the aged husband-priest in Q. Hannah is misjudged by the priest Eli, while in Q the praying
+    man is himself the priest.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:12
+      lang: he
+      text: וְהָיָה֙ כִּ֣י הִרְבְּתָ֔ה לְהִתְפַּלֵּ֖ל לִפְנֵ֣י יְהוָ֑ה וְעֵלִ֖י שֹׁמֵ֥ר אֶת פִּֽיהָ
+    - ref: 1Sam 1:13
+      lang: he
+      text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
+        וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 19:3
+      lang: ar
+      text: إِذْ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيًّا
 ---
 
 ## Questions

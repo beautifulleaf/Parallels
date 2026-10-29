@@ -2,9 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Creation in six days and the seventh-day rest ↔ Al-Rahman: the Merciful taught the Quran; sun
   and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 2 motifs: god let loose the two seas, one sweet, one salt, with a barrier
-  (barzakh) and partition between them, sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,70 +15,9 @@ layers:
 motifs:
 - two-seas-sweet-and-salt-with-barrier
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:6
-  note: 'God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
-    them (Two bodies of water kept apart by God: yəhî rāqîaʿ bə-ṯôḵ ham-mayim wî-hî maḇdîl bên mayim lā-māyim
-    vs. maraja l-baḥrayni yaltaqiyān, baynahumā barzakhun lā yabghiyān. Genesis divides upper from lower
-    waters with a firmament; the Quran two seas side by side with a barrier (barzakh). Weak lead: shared
-    idea of separation only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם
-- tradition: judaism
-  ref: Gen 1:7
-  note: 'God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
-    them (Two bodies of water kept apart by God: yəhî rāqîaʿ bə-ṯôḵ ham-mayim wî-hî maḇdîl bên mayim lā-māyim
-    vs. maraja l-baḥrayni yaltaqiyān, baynahumā barzakhun lā yabghiyān. Genesis divides upper from lower
-    waters with a firmament; the Quran two seas side by side with a barrier (barzakh). Weak lead: shared
-    idea of separation only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ
-    וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי כֵֽן
-- tradition: islam
-  ref: Quran 55:19
-  note: God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
-    them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ
-- tradition: islam
-  ref: Quran 55:20
-  note: God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
-    them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 55:5
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Two bodies of water kept apart by God: yəhî rāqîaʿ bə-ṯôḵ ham-mayim wî-hî maḇdîl bên mayim lā-māyim
-    vs. maraja l-baḥrayni yaltaqiyān, baynahumā barzakhun lā yabghiyān. Genesis divides upper from lower
-    waters with a firmament; the Quran two seas side by side with a barrier (barzakh). Weak lead: shared
-    idea of separation only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God let loose the two seas, one sweet, one salt, with a barrier
     (barzakh) and partition between them (weight 5.8); Sun and moon are set to rule day and night and
@@ -119,6 +56,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
+  them
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: echo
+  label: God let loose the two seas, one sweet, one salt, with a barrier (barzakh) and partition between
+    them
+  note: 'Two bodies of water kept apart by God: yəhî rāqîaʿ bə-ṯôḵ ham-mayim wî-hî maḇdîl bên mayim lā-māyim
+    vs. maraja l-baḥrayni yaltaqiyān, baynahumā barzakhun lā yabghiyān. Genesis divides upper from lower
+    waters with a firmament; the Quran two seas side by side with a barrier (barzakh). Weak lead: shared
+    idea of separation only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:6
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם
+        לָמָֽיִם
+    - ref: Gen 1:7
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֨יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ
+        וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי כֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 55:19
+      lang: ar
+      text: مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ
+    - ref: Quran 55:20
+      lang: ar
+      text: بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+    - ref: Gen 1:18
+      lang: he
+      text: וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא
+        אֱלֹהִ֖ים כִּי טֽוֹב
+    note: 'sun and moon unnamed: ''the great light'' and ''the small light'''
+  - tradition: islam
+    passages:
+    - ref: Quran 55:5
+      lang: ar
+      text: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ
 ---
 
 ## Questions

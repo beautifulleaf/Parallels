@@ -2,7 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-20-sea-crossing-sinai
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ The night departure,
   the dry road through the sea, the mount and manna
-summary: 'These two units share 1 motifs: wind brings quail in vast quantity to feed the people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - quail-miracle
-passages:
-- tradition: judaism
-  ref: Ps 105:40
-  note: Wind brings quail in vast quantity to feed the people (šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm;
-    nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps 105 has no anger; Q follows the Ps 78 / Num 11 version with
-    its warning.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-- tradition: islam
-  ref: Quran 20:80
-  note: Wind brings quail in vast quantity to feed the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
-    ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-- tradition: islam
-  ref: Quran 20:81
-  note: Wind brings quail in vast quantity to feed the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن
-    يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm; nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps
-    105 has no anger; Q follows the Ps 78 / Num 11 version with its warning.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8).
     Pair score 5.8.'
@@ -73,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wind brings quail in vast quantity to feed the people
+kinds:
+- parallel
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-20-sea-crossing-sinai
+  title: The night departure, the dry road through the sea, the mount and manna
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wind brings quail in vast quantity to feed the people
+  note: šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm; nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps 105 has
+    no anger; Q follows the Ps 78 / Num 11 version with its warning.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:40
+      lang: he
+      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:80
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
+        ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
 ---
 
 ## Questions

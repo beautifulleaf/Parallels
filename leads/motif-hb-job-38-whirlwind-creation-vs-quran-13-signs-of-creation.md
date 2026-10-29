@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-13-signs-of-creation
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   signs of creation, thunder and the parable of the foam (Surah 13:1-17)
-summary: 'These two units share 2 motifs: god shows lightning in fear and hope and sends thunderbolts
-  on whom he wills, god set the mountains as pegs or firm anchors (awtad, rawasi) for the earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,69 +15,9 @@ layers:
 motifs:
 - thunderbolts-strike-whom-god-wills
 - mountains-as-pegs
-passages:
-- tradition: judaism
-  ref: Job 38:25
-  note: 'God shows lightning in fear and hope and sends thunderbolts on whom he wills (hătəšallaḥ bərāqîm
-    wəyēlēkû wəyōʾmərû ləkā hinnēnû ... derek laḥăzîz qōlôt; huwa lladhī yurīkumu l-barqa ... wa-yursilu
-    ṣ-ṣawāʿiqa fa-yuṣību bihā man yashāʾ: God alone sends lightning and thunderbolts. Job turns it into
-    a challenge to man; Q into a sign.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי פִלַּ֣ג לַשֶּׁ֣טֶף תְּעָלָ֑ה וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת
-- tradition: judaism
-  ref: Job 38:34
-  note: 'God shows lightning in fear and hope and sends thunderbolts on whom he wills (hătəšallaḥ bərāqîm
-    wəyēlēkû wəyōʾmərû ləkā hinnēnû ... derek laḥăzîz qōlôt; huwa lladhī yurīkumu l-barqa ... wa-yursilu
-    ṣ-ṣawāʿiqa fa-yuṣību bihā man yashāʾ: God alone sends lightning and thunderbolts. Job turns it into
-    a challenge to man; Q into a sign.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲתָרִ֣ים לָעָ֣ב קוֹלֶ֑ךָ וְֽשִׁפְעַת מַ֥יִם תְּכַסֶּֽךָּ
-- tradition: islam
-  ref: Quran 13:12
-  note: God shows lightning in fear and hope and sends thunderbolts on whom he wills
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
-- tradition: islam
-  ref: Quran 13:13
-  note: God shows lightning in fear and hope and sends thunderbolts on whom he wills
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ
-    بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ
-- tradition: judaism
-  ref: Job 38:4
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:6
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
-- tradition: islam
-  ref: Quran 13:3
-  note: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (madda l-arḍ; rawāsī)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
-    جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
-    يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. hătəšallaḥ bərāqîm wəyēlēkû wəyōʾmərû ləkā hinnēnû ... derek laḥăzîz qōlôt; huwa lladhī yurīkumu
-    l-barqa ... wa-yursilu ṣ-ṣawāʿiqa fa-yuṣību bihā man yashāʾ: God alone sends lightning and thunderbolts.
-    Job turns it into a challenge to man; Q into a sign.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shows lightning in fear and hope and sends thunderbolts on whom
     he wills (weight 6.7); God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
@@ -116,6 +55,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shows lightning in fear and hope and sends thunderbolts on whom he wills
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-13-signs-of-creation
+  title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+  tradition: islam
+matches:
+- kind: echo
+  label: God shows lightning in fear and hope and sends thunderbolts on whom he wills
+  note: 'hătəšallaḥ bərāqîm wəyēlēkû wəyōʾmərû ləkā hinnēnû ... derek laḥăzîz qōlôt; huwa lladhī yurīkumu
+    l-barqa ... wa-yursilu ṣ-ṣawāʿiqa fa-yuṣību bihā man yashāʾ: God alone sends lightning and thunderbolts.
+    Job turns it into a challenge to man; Q into a sign.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:25
+      lang: he
+      text: מִֽי פִלַּ֣ג לַשֶּׁ֣טֶף תְּעָלָ֑ה וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת
+    - ref: Job 38:34
+      lang: he
+      text: הֲתָרִ֣ים לָעָ֣ב קוֹלֶ֑ךָ וְֽשִׁפְעַת מַ֥יִם תְּכַסֶּֽךָּ
+    - ref: Job 38:35
+      lang: he
+      text: הַֽתְשַׁלַּ֣ח בְּרָקִ֣ים וְיֵלֵ֑כוּ וְיֹאמְר֖וּ לְךָ֣ הִנֵּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 13:12
+      lang: ar
+      text: هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
+    - ref: Quran 13:13
+      lang: ar
+      text: وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ
+        فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ
+- kind: shared
+  label: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+    note: 'a-lam najʿali l-arḍa kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî
+      ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk
+      in Job, towering anchors (mountains) in the Quran.'
+  - tradition: islam
+    passages:
+    - ref: Quran 13:3
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
+        جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
+        يَتَفَكَّرُونَ
+    note: madda l-arḍ; rawāsī
 ---
 
 ## Questions

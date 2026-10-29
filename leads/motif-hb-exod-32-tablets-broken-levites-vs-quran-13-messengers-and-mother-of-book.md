@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-13-messengers-and-mother-of-book
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Messengers, the Mother of the
   Book and the witness of scripture (Surah 13:30-43)
-summary: 'These two units share 1 motifs: god erases what he wills and confirms, and with him is the mother
-  of the book (umm al-kitab).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - god-erases-and-confirms-mother-of-book
-passages:
-- tradition: judaism
-  ref: Exod 32:32
-  note: 'God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab)
-    (yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb; məḥēnî nāʾ missiprəkā ʾăšer kātābtā ...
-    mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî. Cognate root m-ḥ-w / m-ḥ-h: God keeps a book and erases from
-    it as he wills. Exod has names of sinners blotted out; Q has the decree itself, alongside an unchanging
-    Mother of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
-- tradition: judaism
-  ref: Exod 32:33
-  note: 'God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab)
-    (yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb; məḥēnî nāʾ missiprəkā ʾăšer kātābtā ...
-    mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî. Cognate root m-ḥ-w / m-ḥ-h: God keeps a book and erases from
-    it as he wills. Exod has names of sinners blotted out; Q has the decree itself, alongside an unchanging
-    Mother of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
-- tradition: islam
-  ref: Quran 13:39
-  note: God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab) (yamḥū
-    ... wa-yuthbit wa-ʿindahu umm al-kitāb)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb; məḥēnî nāʾ missiprəkā ʾăšer
-    kātābtā ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî. Cognate root m-ḥ-w / m-ḥ-h: God keeps a book and
-    erases from it as he wills. Exod has names of sinners blotted out; Q has the decree itself, alongside
-    an unchanging Mother of the Book.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God erases what he wills and confirms, and with him is the Mother
     of the Book (umm al-kitab) (weight 6.7). Pair score 6.7.'
@@ -86,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab)
+kinds:
+- parallel
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-13-messengers-and-mother-of-book
+  title: Messengers, the Mother of the Book and the witness of scripture (Surah 13:30-43)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God erases what he wills and confirms, and with him is the Mother of the Book (umm al-kitab)
+  note: 'yamḥū llāhu mā yashāʾu wa-yuthbitu wa-ʿindahu ummu l-kitāb; məḥēnî nāʾ missiprəkā ʾăšer kātābtā
+    ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî. Cognate root m-ḥ-w / m-ḥ-h: God keeps a book and erases from
+    it as he wills. Exod has names of sinners blotted out; Q has the decree itself, alongside an unchanging
+    Mother of the Book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:32
+      lang: he
+      text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
+    - ref: Exod 32:33
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 13:39
+      lang: ar
+      text: يَمْحُوا۟ ٱللَّهُ مَا يَشَآءُ وَيُثْبِتُ وَعِندَهُۥٓ أُمُّ ٱلْكِتَٰبِ
 ---
 
 ## Questions

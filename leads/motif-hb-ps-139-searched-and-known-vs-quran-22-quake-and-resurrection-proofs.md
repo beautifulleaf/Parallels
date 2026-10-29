@@ -2,9 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-22-quake-and-resurrection-proofs
 title: Psalm 139, God's all-knowing presence and the embryo ↔ The quake of the Hour and the proofs from
   embryo and rain
-summary: 'These two units share 2 motifs: humans created from dust, then a drop (nuṭfa), then a clinging
-  clot (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped, god poured the embryo out like milk
-  and curdled it like cheese, clothing it with skin and flesh and knitting bones and sinews.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,76 +16,9 @@ layers:
 motifs:
 - embryo-stages-dust-drop-clot-lump
 - embryo-curdled-like-cheese
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: 'Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump
-    (muḍgha), shaped and unshaped (təsukkēnî bəbeṭen ʾimmî ... ruqqamtî bətaḥtiyyôt ʾāreṣ golmî rāʾû ʿênêkā;
-    thumma min muḍghatin mukhallaqatin wa-ghayri mukhallaqa ... wa-nuqirru fī l-arḥāmi mā nashāʾ: the
-    unformed embryo (gōlem / muḍgha ''shaped and unshaped'') under God''s eye, linked with the earth.
-    Ps adds that its days are written in God''s book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: judaism
-  ref: Ps 139:15
-  note: 'Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump
-    (muḍgha), shaped and unshaped (təsukkēnî bəbeṭen ʾimmî ... ruqqamtî bətaḥtiyyôt ʾāreṣ golmî rāʾû ʿênêkā;
-    thumma min muḍghatin mukhallaqatin wa-ghayri mukhallaqa ... wa-nuqirru fī l-arḥāmi mā nashāʾ: the
-    unformed embryo (gōlem / muḍgha ''shaped and unshaped'') under God''s eye, linked with the earth.
-    Ps adds that its days are written in God''s book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: islam
-  ref: Quran 22:5
-  note: Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump
-    (muḍgha), shaped and unshaped
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
-    ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
-    لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا
-    ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ
-    ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا
-    عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
-- tradition: judaism
-  ref: Ps 139:13-16
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (Parallel theme of divine embryology (Job 10:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (139:13) כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי (139:14) אֽוֹדְךָ֗
-    עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד (139:15) לֹא
-    נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת אָֽרֶץ (139:16)
-    גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ אֶחָ֣ד
-    בָּהֶֽם
-- tradition: judaism
-  ref: Ps 139:13
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (Parallel theme of divine embryology (Job 10:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: islam
-  ref: Quran 22:5
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
-    ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
-    لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا
-    ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ
-    ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا
-    عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. təsukkēnî bəbeṭen ʾimmî ... ruqqamtî bətaḥtiyyôt ʾāreṣ golmî rāʾû ʿênêkā; thumma min muḍghatin
-    mukhallaqatin wa-ghayri mukhallaqa ... wa-nuqirru fī l-arḥāmi mā nashāʾ: the unformed embryo (gōlem
-    / muḍgha ''shaped and unshaped'') under God''s eye, linked with the earth. Ps adds that its days are
-    written in God''s book.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans created from dust, then a drop (nuṭfa), then a clinging clot
     (ʿalaqa), then a chewed lump (muḍgha), shaped and unshaped (weight 6.3); God poured the embryo out
@@ -123,6 +54,81 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump
+  (muḍgha), shaped and unshaped
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-22-quake-and-resurrection-proofs
+  title: The quake of the Hour and the proofs from embryo and rain
+  tradition: islam
+matches:
+- kind: parallel
+  label: Humans created from dust, then a drop (nuṭfa), then a clinging clot (ʿalaqa), then a chewed lump
+    (muḍgha), shaped and unshaped
+  note: 'təsukkēnî bəbeṭen ʾimmî ... ruqqamtî bətaḥtiyyôt ʾāreṣ golmî rāʾû ʿênêkā; thumma min muḍghatin
+    mukhallaqatin wa-ghayri mukhallaqa ... wa-nuqirru fī l-arḥāmi mā nashāʾ: the unformed embryo (gōlem
+    / muḍgha ''shaped and unshaped'') under God''s eye, linked with the earth. Ps adds that its days are
+    written in God''s book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:5
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
+        ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
+        لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ
+        طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ
+        أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً
+        فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+- kind: shared
+  label: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
+    and knitting bones and sinews
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13-16
+      lang: he
+      text: (139:13) כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי (139:14) אֽוֹדְךָ֗
+        עַ֤ל כִּ֥י נוֹרָא֗וֹת נִ֫פְלֵ֥יתִי נִפְלָאִ֥ים מַעֲשֶׂ֑יךָ וְ֝נַפְשִׁ֗י יֹדַ֥עַת מְאֹֽד (139:15)
+        לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ (139:16) גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ
+        ולא וְל֖וֹ אֶחָ֣ד בָּהֶֽם
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    note: Parallel theme of divine embryology (Job 10:10-11)
+  - tradition: islam
+    passages:
+    - ref: Quran 22:5
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
+        ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
+        لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ
+        طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ
+        أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً
+        فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
 ---
 
 ## Questions

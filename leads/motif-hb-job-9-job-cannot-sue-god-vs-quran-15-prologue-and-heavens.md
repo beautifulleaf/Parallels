@@ -2,8 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-15-prologue-and-heavens
 title: Job - cosmic power of God and the impossible lawsuit ↔ The guarded reminder, the guarded heaven
   and the fertilizing winds (Surah 15:1-25)
-summary: 'These two units share 1 motifs: god set constellations (buruj) in the sky and adorned it for
-  beholders.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - constellations-adorn-sky
-passages:
-- tradition: judaism
-  ref: Job 9:9
-  note: 'God set constellations (buruj) in the sky and adorned it for beholders (wa-la-qad jaʿalnā fī
-    s-samāʾi burūjan wa-zayyannāhā li-n-nāẓirīn; ʿōśeh-ʿāš kəsîl wəkîmâ wəḥadrê tēmān: God made the constellations.
-    Job names them (the Bear, Orion, the Pleiades); Q only calls them burūj and adds the guard against
-    eavesdropping devils.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹֽשֶׂה עָ֭שׁ כְּסִ֥יל וְכִימָ֗ה וְחַדְרֵ֥י תֵמָֽן
-- tradition: islam
-  ref: Quran 15:16
-  note: God set constellations (buruj) in the sky and adorned it for beholders (burūj)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-la-qad jaʿalnā fī s-samāʾi burūjan wa-zayyannāhā li-n-nāẓirīn; ʿōśeh-ʿāš kəsîl wəkîmâ
-    wəḥadrê tēmān: God made the constellations. Job names them (the Bear, Orion, the Pleiades); Q only
-    calls them burūj and adds the guard against eavesdropping devils.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set constellations (buruj) in the sky and adorned it for beholders
     (weight 6.0). Pair score 6.0.'
@@ -71,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set constellations (buruj) in the sky and adorned it for beholders
+kinds:
+- parallel
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-15-prologue-and-heavens
+  title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God set constellations (buruj) in the sky and adorned it for beholders
+  note: 'wa-la-qad jaʿalnā fī s-samāʾi burūjan wa-zayyannāhā li-n-nāẓirīn; ʿōśeh-ʿāš kəsîl wəkîmâ wəḥadrê
+    tēmān: God made the constellations. Job names them (the Bear, Orion, the Pleiades); Q only calls them
+    burūj and adds the guard against eavesdropping devils.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:9
+      lang: he
+      text: עֹֽשֶׂה עָ֭שׁ כְּסִ֥יל וְכִימָ֗ה וְחַדְרֵ֥י תֵמָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 15:16
+      lang: ar
+      text: وَلَقَدْ جَعَلْنَا فِى ٱلسَّمَآءِ بُرُوجًا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ
 ---
 
 ## Questions

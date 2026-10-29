@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-24-privacy-modesty-marriage
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ Entering houses, lowering the
   gaze, head-coverings, marriage and manumission
-summary: 'These two units share 2 motifs: a father must not make his daughter a prostitute, the head of
-  a household must not prostitute a woman under his authority [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,54 +15,9 @@ layers:
 motifs:
 - daughter-not-made-prostitute
 - householder-forbidden-to-prostitute-dependents-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 19:29
-  note: A father must not make his daughter a prostitute
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תְּחַלֵּ֥ל אֶֽת בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה
-- tradition: islam
-  ref: Quran 24:33
-  note: A father must not make his daughter a prostitute (slave girls (fatayāt) not to be forced into
-    prostitution)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ
-    يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا
-    وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ
-    إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ
-    ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Lev 19:29
-  note: 'The head of a household must not prostitute a woman under his authority [divergence between the
-    texts] (ʾal təḥallēl ʾet bittəkā lə-haznôtāh ~ wa-lā tukrihū fatayātikum ʿalā l-bighāʾi in aradna
-    taḥaṣṣunan: forbidding the head of the house to prostitute a woman under him. Leviticus speaks of
-    a daughter and the land filling with lewdness; the Quran speaks of slave girls (fatayāt) who want
-    chastity, done for worldly gain, and adds forgiveness for the women who were forced.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תְּחַלֵּ֥ל אֶֽת בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה
-- tradition: islam
-  ref: Quran 24:33
-  note: 'The head of a household must not prostitute a woman under his authority [divergence between the
-    texts] (ʾal təḥallēl ʾet bittəkā lə-haznôtāh ~ wa-lā tukrihū fatayātikum ʿalā l-bighāʾi in aradna
-    taḥaṣṣunan: forbidding the head of the house to prostitute a woman under him. Leviticus speaks of
-    a daughter and the land filling with lewdness; the Quran speaks of slave girls (fatayāt) who want
-    chastity, done for worldly gain, and adds forgiveness for the women who were forced.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ
-    يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا
-    وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ
-    إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ
-    ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ʾal təḥallēl ʾet bittəkā lə-haznôtāh ~ wa-lā tukrihū fatayātikum ʿalā l-bighāʾi in aradna
-    taḥaṣṣunan: forbidding the head of the house to prostitute a woman under him. Leviticus speaks of
-    a daughter and the land filling with lewdness; the Quran speaks of slave girls (fatayāt) who want
-    chastity, done for worldly gain, and adds forgiveness for the women who were forced.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A father must not make his daughter a prostitute (weight 6.7); The
     head of a household must not prostitute a woman under his authority [divergence between the texts]
@@ -100,6 +54,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The head of a household must not prostitute a woman under his authority
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: divergence
+  label: The head of a household must not prostitute a woman under his authority
+  note: 'ʾal təḥallēl ʾet bittəkā lə-haznôtāh ~ wa-lā tukrihū fatayātikum ʿalā l-bighāʾi in aradna taḥaṣṣunan:
+    forbidding the head of the house to prostitute a woman under him. Leviticus speaks of a daughter and
+    the land filling with lewdness; the Quran speaks of slave girls (fatayāt) who want chastity, done
+    for worldly gain, and adds forgiveness for the women who were forced.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:29
+      lang: he
+      text: אַל תְּחַלֵּ֥ל אֶֽת בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:33
+      lang: ar
+      text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ
+        وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ
+        فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ
+        عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن
+        يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
+- kind: shared
+  label: A father must not make his daughter a prostitute
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:29
+      lang: he
+      text: אַל תְּחַלֵּ֥ל אֶֽת בִּתְּךָ֖ לְהַזְנוֹתָ֑הּ וְלֹא תִזְנֶ֣ה הָאָ֔רֶץ וּמָלְאָ֥ה הָאָ֖רֶץ זִמָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:33
+      lang: ar
+      text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ
+        وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ
+        فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ
+        عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن
+        يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
+    note: slave girls (fatayāt) not to be forced into prostitution
 ---
 
 ## Questions

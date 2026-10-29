@@ -2,8 +2,7 @@
 id: motif-hb-deut-19-refuge-witnesses-vs-quran-5-torah-gospel-judgment
 title: Cities of refuge, boundary stones, false witnesses ↔ Judging by the Torah, the Gospel and the Quran;
   eye for eye
-summary: 'These two units share 2 motifs: eye for an eye, tooth for a tooth (lex talionis) [contrast between
-  the texts], eye for an eye, tooth for a tooth (lex talionis).'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,50 +15,9 @@ layers:
 motifs:
 - eye-for-eye-as-contrast
 - eye-for-eye
-passages:
-- tradition: judaism
-  ref: Deut 19:21
-  note: 'Eye for an eye, tooth for a tooth (lex talionis) [contrast between the texts] (Opposite instructions
-    on mercy. Deut: wə-lōʾ tāḥôs ʿênekhā nefeš bə-nefeš ʿayin bə-ʿayin, ''your eye shall not pity'' (same
-    preposition bə- as Q''s bi-). Q: fa-man taṣaddaqa bihi fa-huwa kaffāratun lahu, waiving retaliation
-    is charity and expiation for the one who waives.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א תָח֖וֹס עֵינֶ֑ךָ נֶ֣פֶשׁ בְּנֶ֗פֶשׁ עַ֤יִן בְּעַ֨יִן֙ שֵׁ֣ן בְּשֵׁ֔ן יָ֥ד בְּיָ֖ד רֶ֥גֶל
-    בְּרָֽגֶל
-- tradition: islam
-  ref: Quran 5:45
-  note: 'Eye for an eye, tooth for a tooth (lex talionis) [contrast between the texts] (Opposite instructions
-    on mercy. Deut: wə-lōʾ tāḥôs ʿênekhā nefeš bə-nefeš ʿayin bə-ʿayin, ''your eye shall not pity'' (same
-    preposition bə- as Q''s bi-). Q: fa-man taṣaddaqa bihi fa-huwa kaffāratun lahu, waiving retaliation
-    is charity and expiation for the one who waives.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
-    بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِۦ
-    فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
-- tradition: judaism
-  ref: Deut 19:21
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life for life, eye for eye, tooth for tooth,
-    hand for hand, foot for foot)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א תָח֖וֹס עֵינֶ֑ךָ נֶ֣פֶשׁ בְּנֶ֗פֶשׁ עַ֤יִן בְּעַ֨יִן֙ שֵׁ֣ן בְּשֵׁ֔ן יָ֥ד בְּיָ֖ד רֶ֥גֶל
-    בְּרָֽגֶל
-- tradition: islam
-  ref: Quran 5:45
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life for life, eye for eye, nose for nose, ear
-    for ear, tooth for tooth, wounds by retaliation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
-    بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِۦ
-    فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite instructions on mercy. Deut: wə-lōʾ tāḥôs ʿênekhā nefeš bə-nefeš ʿayin bə-ʿayin,
-    ''your eye shall not pity'' (same preposition bə- as Q''s bi-). Q: fa-man taṣaddaqa bihi fa-huwa kaffāratun
-    lahu, waiving retaliation is charity and expiation for the one who waives.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) [contrast between
     the texts] (weight 6.7); Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair score
@@ -94,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eye for an eye, tooth for a tooth (lex talionis)
+kinds:
+- contrast
+units:
+- id: hb-deut-19-refuge-witnesses
+  title: Cities of refuge, boundary stones, false witnesses
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: contrast
+  label: Eye for an eye, tooth for a tooth (lex talionis)
+  note: 'Opposite instructions on mercy. Deut: wə-lōʾ tāḥôs ʿênekhā nefeš bə-nefeš ʿayin bə-ʿayin, ''your
+    eye shall not pity'' (same preposition bə- as Q''s bi-). Q: fa-man taṣaddaqa bihi fa-huwa kaffāratun
+    lahu, waiving retaliation is charity and expiation for the one who waives.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:21
+      lang: he
+      text: וְלֹ֥א תָח֖וֹס עֵינֶ֑ךָ נֶ֣פֶשׁ בְּנֶ֗פֶשׁ עַ֤יִן בְּעַ֨יִן֙ שֵׁ֣ן בְּשֵׁ֔ן יָ֥ד בְּיָ֖ד רֶ֥גֶל
+        בְּרָֽגֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 5:45
+      lang: ar
+      text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
+        بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ
+        بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
 ---
 
 ## Questions

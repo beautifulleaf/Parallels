@@ -2,8 +2,7 @@
 id: motif-hb-deut-14-diet-tithe-vs-quran-5-covenant-twelve-chiefs
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ Israel's covenant and twelve chiefs;
   the Christians' forgotten portion
-summary: 'These two units share 2 motifs: israel called sons of god [response between the texts], israel
-  called sons of god.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -16,47 +15,9 @@ layers:
 motifs:
 - children-of-god-israel-as-response
 - children-of-god-israel
-passages:
-- tradition: judaism
-  ref: Deut 14:1
-  note: 'Israel called sons of God [response between the texts] (Deut: bānîm ʾattem la-YHWH ʾĕlōhêkhem.
-    Q quotes the claim and rejects it: wa-qālati l-yahūdu wa-l-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu
-    qul fa-lima yuʿadhdhibukum bi-dhunūbikum bal antum basharun mimman khalaqa.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּנִ֣ים אַתֶּ֔ם לַֽיהוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא תָשִׂ֧ימוּ קָרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם
-    לָמֵֽת
-- tradition: islam
-  ref: Quran 5:18
-  note: 'Israel called sons of God [response between the texts] (Deut: bānîm ʾattem la-YHWH ʾĕlōhêkhem.
-    Q quotes the claim and rejects it: wa-qālati l-yahūdu wa-l-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu
-    qul fa-lima yuʿadhdhibukum bi-dhunūbikum bal antum basharun mimman khalaqa.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم
-    بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَلِلَّهِ
-    مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ
-- tradition: judaism
-  ref: Deut 14:1
-  note: Israel called sons of God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּנִ֣ים אַתֶּ֔ם לַֽיהוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא תָשִׂ֧ימוּ קָרְחָ֛ה בֵּ֥ין עֵינֵיכֶ֖ם
-    לָמֵֽת
-- tradition: islam
-  ref: Quran 5:18
-  note: Israel called sons of God ('we are the sons of God and his beloved' (Jews and Christians), cf.
-    Deut 14:1)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ يُعَذِّبُكُم
-    بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَلِلَّهِ
-    مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    response. Deut: bānîm ʾattem la-YHWH ʾĕlōhêkhem. Q quotes the claim and rejects it: wa-qālati l-yahūdu
-    wa-l-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu qul fa-lima yuʿadhdhibukum bi-dhunūbikum bal antum basharun
-    mimman khalaqa.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel called sons of God [response between the texts] (weight 6.7);
     Israel called sons of God (weight 6.3). Pair score 13.0.'
@@ -92,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel called sons of God
+kinds:
+- response
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-5-covenant-twelve-chiefs
+  title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+  tradition: islam
+matches:
+- kind: response
+  label: Israel called sons of God
+  note: 'Deut: bānîm ʾattem la-YHWH ʾĕlōhêkhem. Q quotes the claim and rejects it: wa-qālati l-yahūdu
+    wa-l-naṣārā naḥnu abnāʾu llāhi wa-aḥibbāʾuhu qul fa-lima yuʿadhdhibukum bi-dhunūbikum bal antum basharun
+    mimman khalaqa.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:1
+      lang: he
+      text: בָּנִ֣ים אַתֶּ֔ם לַֽיהוָ֖ה אֱלֹהֵיכֶ֑ם לֹ֣א תִתְגֹּֽדְד֗וּ וְלֹֽא תָשִׂ֧ימוּ קָרְחָ֛ה בֵּ֥ין
+        עֵינֵיכֶ֖ם לָמֵֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 5:18
+      lang: ar
+      text: وَقَالَتِ ٱلْيَهُودُ وَٱلنَّصَٰرَىٰ نَحْنُ أَبْنَٰٓؤُا۟ ٱللَّهِ وَأَحِبَّٰٓؤُهُۥ قُلْ فَلِمَ
+        يُعَذِّبُكُم بِذُنُوبِكُم بَلْ أَنتُم بَشَرٌ مِّمَّنْ خَلَقَ يَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ
+        مَن يَشَآءُ وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا وَإِلَيْهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

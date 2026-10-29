@@ -2,8 +2,7 @@
 id: motif-hb-ezek-2-3-commission-eaten-scroll-vs-quran-5-covenant-twelve-chiefs
 title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
   ↔ Israel's covenant and twelve chiefs; the Christians' forgotten portion
-summary: 'These two units share 1 motifs: the people''s hearts are called hard (arabic q-s-w, hebrew q-sh-h),
-  or god makes them so.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - hearts-made-hard
-passages:
-- tradition: judaism
-  ref: Ezek 3:7
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so (The
-    cognate root q-s-w / q-š-h for a hard heart. Q: wa-jaʿalnā qulūbahum qāsiyatan. Ezek: kî kol-bêt Yiśrāʾēl
-    ḥizqê-mēṣaḥ û-qəšê-lēv hēmmāh. In Q God makes the hearts hard as a penalty for breaking the covenant
-    (fa-bi-mā naqḍihim mīthāqahum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבֵ֣ית יִשְׂרָאֵ֗ל לֹ֤א יֹאבוּ֙ לִשְׁמֹ֣עַ אֵלֶ֔יךָ כִּֽי אֵינָ֥ם אֹבִ֖ים לִשְׁמֹ֣עַ אֵלָ֑י כִּ֚י
-    כָּל בֵּ֣ית יִשְׂרָאֵ֔ל חִזְקֵי מֵ֥צַח וּקְשֵׁי לֵ֖ב הֵֽמָּה
-- tradition: islam
-  ref: Quran 5:13
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so (The
-    cognate root q-s-w / q-š-h for a hard heart. Q: wa-jaʿalnā qulūbahum qāsiyatan. Ezek: kî kol-bêt Yiśrāʾēl
-    ḥizqê-mēṣaḥ û-qəšê-lēv hēmmāh. In Q God makes the hearts hard as a penalty for breaking the covenant
-    (fa-bi-mā naqḍihim mīthāqahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ
-    عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ
-    مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The cognate root q-s-w / q-š-h for a hard heart. Q: wa-jaʿalnā qulūbahum qāsiyatan. Ezek: kî
-    kol-bêt Yiśrāʾēl ḥizqê-mēṣaḥ û-qəšê-lēv hēmmāh. In Q God makes the hearts hard as a penalty for breaking
-    the covenant (fa-bi-mā naqḍihim mīthāqahum).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h),
     or God makes them so (weight 6.7). Pair score 6.7.'
@@ -75,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+kinds:
+- echo
+units:
+- id: hb-ezek-2-3-commission-eaten-scroll
+  title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
+  tradition: judaism
+- id: quran-5-covenant-twelve-chiefs
+  title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+  tradition: islam
+matches:
+- kind: echo
+  label: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+  note: 'The cognate root q-s-w / q-š-h for a hard heart. Q: wa-jaʿalnā qulūbahum qāsiyatan. Ezek: kî
+    kol-bêt Yiśrāʾēl ḥizqê-mēṣaḥ û-qəšê-lēv hēmmāh. In Q God makes the hearts hard as a penalty for breaking
+    the covenant (fa-bi-mā naqḍihim mīthāqahum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:7
+      lang: he
+      text: וּבֵ֣ית יִשְׂרָאֵ֗ל לֹ֤א יֹאבוּ֙ לִשְׁמֹ֣עַ אֵלֶ֔יךָ כִּֽי אֵינָ֥ם אֹבִ֖ים לִשְׁמֹ֣עַ אֵלָ֑י
+        כִּ֚י כָּל בֵּ֣ית יִשְׂרָאֵ֔ל חִזְקֵי מֵ֥צַח וּקְשֵׁי לֵ֖ב הֵֽמָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:13
+      lang: ar
+      text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ
+        ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ
+        عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ
+        يُحِبُّ ٱلْمُحْسِنِينَ
 ---
 
 ## Questions

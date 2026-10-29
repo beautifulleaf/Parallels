@@ -2,8 +2,7 @@
 id: motif-hb-2chr-36-last-kings-and-fall-vs-quran-43-zukhruf-book-and-daughters
 title: 'Last kings of Judah, burning of the temple, exile and seventy years ↔ Ha-Mim: the Mother of the
   Book, the riding prayer and the ''daughters'' of God'
-summary: 'These two units share 1 motifs: the people mock god''s messengers, despise his words and scoff
-  at his prophets.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - prophets-mocked
-passages:
-- tradition: judaism
-  ref: 2Chr 36:16
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבוֹזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים בִּנְבִאָ֑יו
-    עַ֠ד עֲל֧וֹת חֲמַת יְהוָ֛ה בְּעַמּ֖וֹ עַד לְאֵ֥ין מַרְפֵּֽא
-- tradition: judaism
-  ref: 2Chr 36:15
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֡ח יְהוָה֩ אֱלֹהֵ֨י אֲבוֹתֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁל֑וֹחַ
-    כִּֽי חָמַ֥ל עַל עַמּ֖וֹ וְעַל מְעוֹנֽוֹ
-- tradition: islam
-  ref: Quran 43:6
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ
-- tradition: islam
-  ref: Quran 43:7
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Prophets sent, mocked, and the people destroyed: wa-yihyû malʿiḇîm bə-malʾăḵê hā-ʾĕlōhîm
-    û-ḇôzîm dəḇārâw û-miṯʿattəʿîm bi-nḇiʾâw ʿaḏ ... lə-ʾên marpēʾ vs. wa-kam arsalnā min nabiyyin fī l-awwalīn;
-    wa-mā yaʾtīhim min nabiyyin illā kānū bihi yastahziʾūn; fa-ahlaknā ashadda minhum baṭshan. Chronicles:
-    God''s own people, and the end is the fall of Jerusalem; Quran: the ancients in general, as a lesson
-    (mathalu l-awwalīn) for the Meccans.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people mock God''s messengers, despise his words and scoff at
     his prophets (weight 5.4). Pair score 5.4.'
@@ -86,6 +54,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people mock God's messengers, despise his words and scoff at his prophets
+kinds:
+- parallel
+units:
+- id: hb-2chr-36-last-kings-and-fall
+  title: Last kings of Judah, burning of the temple, exile and seventy years
+  tradition: judaism
+- id: quran-43-zukhruf-book-and-daughters
+  title: 'Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The people mock God's messengers, despise his words and scoff at his prophets
+  note: 'Prophets sent, mocked, and the people destroyed: wa-yihyû malʿiḇîm bə-malʾăḵê hā-ʾĕlōhîm û-ḇôzîm
+    dəḇārâw û-miṯʿattəʿîm bi-nḇiʾâw ʿaḏ ... lə-ʾên marpēʾ vs. wa-kam arsalnā min nabiyyin fī l-awwalīn;
+    wa-mā yaʾtīhim min nabiyyin illā kānū bihi yastahziʾūn; fa-ahlaknā ashadda minhum baṭshan. Chronicles:
+    God''s own people, and the end is the fall of Jerusalem; Quran: the ancients in general, as a lesson
+    (mathalu l-awwalīn) for the Meccans.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 36:15
+      lang: he
+      text: וַיִּשְׁלַ֡ח יְהוָה֩ אֱלֹהֵ֨י אֲבוֹתֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁל֑וֹחַ
+        כִּֽי חָמַ֥ל עַל עַמּ֖וֹ וְעַל מְעוֹנֽוֹ
+    - ref: 2Chr 36:16
+      lang: he
+      text: וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבוֹזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים
+        בִּנְבִאָ֑יו עַ֠ד עֲל֧וֹת חֲמַת יְהוָ֛ה בְּעַמּ֖וֹ עַד לְאֵ֥ין מַרְפֵּֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 43:6
+      lang: ar
+      text: وَكَمْ أَرْسَلْنَا مِن نَّبِىٍّ فِى ٱلْأَوَّلِينَ
+    - ref: Quran 43:7
+      lang: ar
+      text: وَمَا يَأْتِيهِم مِّن نَّبِىٍّ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+    - ref: Quran 43:8
+      lang: ar
+      text: فَأَهْلَكْنَآ أَشَدَّ مِنْهُم بَطْشًا وَمَضَىٰ مَثَلُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

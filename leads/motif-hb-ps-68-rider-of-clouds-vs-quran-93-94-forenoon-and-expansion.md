@@ -2,8 +2,7 @@
 id: motif-hb-ps-68-rider-of-clouds-vs-quran-93-94-forenoon-and-expansion
 title: 'Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain ↔ The forenoon
   and the expansion: the orphan prophet consoled'
-summary: 'These two units share 1 motifs: god is father of orphans and defender of widows, who sets the
-  lonely in a home and frees prisoners.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - father-of-orphans-judge-of-widows
-passages:
-- tradition: judaism
-  ref: Ps 68:6-7
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (68:6) אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קָדְשֽׁוֹ (68:7) אֱלֹהִ֤ים
-    מ֘וֹשִׁ֤יב יְחִידִ֨ים בַּ֗יְתָה מוֹצִ֣יא אֲ֭סִירִים בַּכּוֹשָׁר֑וֹת אַ֥ךְ ס֝וֹרֲרִ֗ים שָׁכְנ֥וּ צְחִיחָֽה
-- tradition: judaism
-  ref: Ps 68:6
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קָדְשֽׁוֹ
-- tradition: islam
-  ref: Quran 93:6
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-    (God himself shelters the orphan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-lam yajidka yatīman fa-āwā ~ ʾăvî yetômîm we-dayyan ʾalmānôt ʾĕlōhîm ... ʾĕlōhîm môšîv
-    yeḥîdîm baytāh: God shelters the orphan and gives the lonely a home (āwā ~ môšîv ... baytāh). The
-    Quran applies it to the Prophet''s own orphanhood.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is father of orphans and defender of widows, who sets the lonely
     in a home and frees prisoners (weight 6.0). Pair score 6.0.'
@@ -73,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+kinds:
+- parallel
+units:
+- id: hb-ps-68-rider-of-clouds
+  title: Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain
+  tradition: judaism
+- id: quran-93-94-forenoon-and-expansion
+  title: 'The forenoon and the expansion: the orphan prophet consoled'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+  note: 'a-lam yajidka yatīman fa-āwā ~ ʾăvî yetômîm we-dayyan ʾalmānôt ʾĕlōhîm ... ʾĕlōhîm môšîv yeḥîdîm
+    baytāh: God shelters the orphan and gives the lonely a home (āwā ~ môšîv ... baytāh). The Quran applies
+    it to the Prophet''s own orphanhood.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 68:6
+      lang: he
+      text: אֲבִ֣י יְ֭תוֹמִים וְדַיַּ֣ן אַלְמָנ֑וֹת אֱ֝לֹהִ֗ים בִּמְע֥וֹן קָדְשֽׁוֹ
+    - ref: Ps 68:7
+      lang: he
+      text: אֱלֹהִ֤ים מ֘וֹשִׁ֤יב יְחִידִ֨ים בַּ֗יְתָה מוֹצִ֣יא אֲ֭סִירִים בַּכּוֹשָׁר֑וֹת אַ֥ךְ ס֝וֹרֲרִ֗ים
+        שָׁכְנ֥וּ צְחִיחָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 93:6
+      lang: ar
+      text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-9-cave-and-call
 title: Rebellion after the spies' report and the forty-year sentence ↔ The call to go forth; the second
   of two in the cave
-summary: 'These two units share 2 motifs: god threatens to destroy a people and put another in its place
-  [divergence between the texts], if god wills he takes you away and brings another people in your place.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,59 +15,9 @@ layers:
 motifs:
 - god-threatens-to-replace-a-people-as-divergence
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Num 14:12
-  note: 'God threatens to destroy a people and put another in its place [divergence between the texts]
-    (God threatens to replace a people that will not go forward: illā tanfirū yuʿadhdhibkum ʿadhāban alīman
-    wa-yastabdil qawman ghayrakum vs ʾakkennû baddeber wᵉʾôrišennû wᵉʾeʿĕśeh ʾōtᵉkā lᵉgôy-gādôl wᵉʿāṣûm
-    mimmennû. In Num the new nation comes from Moses; in Q it is simply another people. In both the failure
-    is refusing to advance (the spies; the call to march).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 9:39
-  note: 'God threatens to destroy a people and put another in its place [divergence between the texts]
-    (God threatens to replace a people that will not go forward: illā tanfirū yuʿadhdhibkum ʿadhāban alīman
-    wa-yastabdil qawman ghayrakum vs ʾakkennû baddeber wᵉʾôrišennû wᵉʾeʿĕśeh ʾōtᵉkā lᵉgôy-gādôl wᵉʿāṣûm
-    mimmennû. In Num the new nation comes from Moses; in Q it is simply another people. In both the failure
-    is refusing to advance (the spies; the call to march).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ
-    شَيْـًٔا وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Num 14:12
-  note: 'If God wills he takes you away and brings another people in your place (God threatens to replace
-    the reluctant people with another: ʾakkennû ḇad-deḇer wə-ʾôrišennû wə-ʾeʿĕśeh ʾōṯəḵā lə-ḡôy gāḏôl
-    wə-ʿāṣûm mimmennû vs. wa-in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum. Both
-    follow a refusal to go out and fight; in Numbers Moses intercedes and the threat is withdrawn, in
-    the Quran it stands as a warning.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 9:38
-  note: If God wills he takes you away and brings another people in your place
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ
-    ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ فَمَا مَتَٰعُ
-    ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
-- tradition: islam
-  ref: Quran 9:39
-  note: If God wills he takes you away and brings another people in your place
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ
-    شَيْـًٔا وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God threatens to replace a people that will not go forward: illā tanfirū yuʿadhdhibkum
-    ʿadhāban alīman wa-yastabdil qawman ghayrakum vs ʾakkennû baddeber wᵉʾôrišennû wᵉʾeʿĕśeh ʾōtᵉkā lᵉgôy-gādôl
-    wᵉʿāṣûm mimmennû. In Num the new nation comes from Moses; in Q it is simply another people. In both
-    the failure is refusing to advance (the spies; the call to march).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God threatens to destroy a people and put another in its place [divergence
     between the texts] (weight 6.7); If God wills he takes you away and brings another people in your
@@ -100,6 +49,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God threatens to destroy a people and put another in its place
+kinds:
+- divergence
+- shared
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: divergence
+  label: God threatens to destroy a people and put another in its place
+  note: 'God threatens to replace a people that will not go forward: illā tanfirū yuʿadhdhibkum ʿadhāban
+    alīman wa-yastabdil qawman ghayrakum vs ʾakkennû baddeber wᵉʾôrišennû wᵉʾeʿĕśeh ʾōtᵉkā lᵉgôy-gādôl
+    wᵉʿāṣûm mimmennû. In Num the new nation comes from Moses; in Q it is simply another people. In both
+    the failure is refusing to advance (the spies; the call to march).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:12
+      lang: he
+      text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:39
+      lang: ar
+      text: إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا
+        تَضُرُّوهُ شَيْـًٔا وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: If God wills he takes you away and brings another people in your place
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:12
+      lang: he
+      text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
+    note: 'God threatens to replace the reluctant people with another: ʾakkennû ḇad-deḇer wə-ʾôrišennû
+      wə-ʾeʿĕśeh ʾōṯəḵā lə-ḡôy gāḏôl wə-ʿāṣûm mimmennû vs. wa-in tatawallaw yastabdil qawman ghayrakum
+      thumma lā yakūnū amthālakum. Both follow a refusal to go out and fight; in Numbers Moses intercedes
+      and the threat is withdrawn, in the Quran it stands as a warning.'
+  - tradition: islam
+    passages:
+    - ref: Quran 9:38
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ
+        ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْءَاخِرَةِ فَمَا مَتَٰعُ
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْءَاخِرَةِ إِلَّا قَلِيلٌ
+    - ref: Quran 9:39
+      lang: ar
+      text: إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا
+        تَضُرُّوهُ شَيْـًٔا وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

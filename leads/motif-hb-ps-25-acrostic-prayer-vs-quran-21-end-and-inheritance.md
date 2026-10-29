@@ -2,8 +2,7 @@
 id: motif-hb-ps-25-acrostic-prayer-vs-quran-21-end-and-inheritance
 title: Psalm 25 - acrostic prayer for guidance and forgiveness ↔ One community, Gog and Magog, the rolled
   heaven and the Zabur's promise
-summary: 'These two units share 1 motifs: the meek / those who wait for yhwh / the righteous and their
-  seed shall inherit the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 25:13
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (his seed shall inherit the land)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
-- tradition: islam
-  ref: Quran 21:105
-  note: 'The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (explicit citation: ''We wrote in the Zabūr after the Reminder that my righteous servants will
-    inherit the earth'' = Ps 37:29)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّٰلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wəzarʿô yîraš ʾāreṣ; anna l-arḍa yarithuhā ʿibādiya ṣ-ṣāliḥūn: the God-fearer''s offspring
-    inherit the land.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
     shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
@@ -65,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+  arets)
+kinds:
+- parallel
+units:
+- id: hb-ps-25-acrostic-prayer
+  title: Psalm 25 - acrostic prayer for guidance and forgiveness
+  tradition: judaism
+- id: quran-21-end-and-inheritance
+  title: One community, Gog and Magog, the rolled heaven and the Zabur's promise
+  tradition: islam
+matches:
+- kind: parallel
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  note: 'wəzarʿô yîraš ʾāreṣ; anna l-arḍa yarithuhā ʿibādiya ṣ-ṣāliḥūn: the God-fearer''s offspring inherit
+    the land.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 25:13
+      lang: he
+      text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:105
+      lang: ar
+      text: وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ
+        ٱلصَّٰلِحُونَ
 ---
 
 ## Questions

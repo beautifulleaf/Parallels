@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-31-signs-and-unseen
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ God's signs, the inexhaustible
   words, and the five things only God knows
-summary: 'These two units share 1 motifs: sun and moon are subjected, each running to an appointed term.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - sun-and-moon-run-to-appointed-term
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'Sun and moon are subjected, each running to an appointed term (wa-sakhkhara sh-shamsa wa-l-qamara
-    kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš yādaʿ məbôʾô: sun and moon made subject
-    to fixed times.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: islam
-  ref: Quran 31:29
-  note: Sun and moon are subjected, each running to an appointed term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ
-    ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-sakhkhara sh-shamsa wa-l-qamara kullun yajrī
-    ilā ajalin musammā: sun and moon are bound to appointed times (môʿăḏîm / ajal musammā). The psalm
-    gives the sun knowledge of its setting; the Quran makes both subjected (sakhkhara).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are subjected, each running to an appointed term (weight
     5.8). Pair score 5.8.'
@@ -71,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are subjected, each running to an appointed term
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are subjected, each running to an appointed term
+  note: 'ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-sakhkhara sh-shamsa wa-l-qamara kullun yajrī
+    ilā ajalin musammā: sun and moon are bound to appointed times (môʿăḏîm / ajal musammā). The psalm
+    gives the sun knowledge of its setting; the Quran makes both subjected (sakhkhara).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 31:29
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ
+        وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِىٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى وَأَنَّ ٱللَّهَ بِمَا
+        تَعْمَلُونَ خَبِيرٌ
 ---
 
 ## Questions

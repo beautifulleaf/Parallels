@@ -2,8 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ Al-Hadid: First and
   Last, Outward and Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: god declares ''i am the first and i am the last'' (or ''with
-  the last'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,25 +15,9 @@ layers:
 - motif
 motifs:
 - first-and-last
-passages:
-- tradition: judaism
-  ref: Isa 44:6
-  note: God declares 'I am the first and I am the last' (or 'with the last')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֨ר יְהוָ֧ה מֶֽלֶךְ יִשְׂרָאֵ֛ל וְגֹאֲל֖וֹ יְהוָ֣ה צְבָא֑וֹת אֲנִ֤י רִאשׁוֹן֙ וַאֲנִ֣י
-    אַחֲר֔וֹן וּמִבַּלְעָדַ֖י אֵ֥ין אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 57:3
-  note: God declares 'I am the first and I am the last' (or 'with the last') (Isa 44:6 / 48:12)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلْأَوَّلُ وَٱلْءَاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. ʾănî rīšôn wa-ʾănî ʾaḥărôn û-mib-baləʿāḏay ʾên ʾĕlōhîm vs. huwa l-awwalu wa-l-ākhir. Isaiah
-    draws the monotheist conclusion in the same verse; the Quran draws omniscience: wa-huwa bi-kulli shayʾin
-    ʿalīm.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God declares ''I am the first and I am the last'' (or ''with the
     last'') (weight 6.0). Pair score 6.0.'
@@ -74,6 +57,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God declares 'I am the first and I am the last' (or 'with the last')
+kinds:
+- parallel
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God declares 'I am the first and I am the last' (or 'with the last')
+  note: 'ʾănî rīšôn wa-ʾănî ʾaḥărôn û-mib-baləʿāḏay ʾên ʾĕlōhîm vs. huwa l-awwalu wa-l-ākhir. Isaiah draws
+    the monotheist conclusion in the same verse; the Quran draws omniscience: wa-huwa bi-kulli shayʾin
+    ʿalīm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:6
+      lang: he
+      text: כֹּֽה אָמַ֨ר יְהוָ֧ה מֶֽלֶךְ יִשְׂרָאֵ֛ל וְגֹאֲל֖וֹ יְהוָ֣ה צְבָא֑וֹת אֲנִ֤י רִאשׁוֹן֙ וַאֲנִ֣י
+        אַחֲר֔וֹן וּמִבַּלְעָדַ֖י אֵ֥ין אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 57:3
+      lang: ar
+      text: هُوَ ٱلْأَوَّلُ وَٱلْءَاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

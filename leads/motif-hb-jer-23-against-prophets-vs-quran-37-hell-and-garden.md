@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-37-hell-and-garden
 title: Concerning the prophets - who has stood in the council of YHWH? ↔ The damned questioned; the blessed
   on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: the tree of zaqqum grows from the bottom of hell; its spathes
-  are like the heads of devils; the damned fill their bellies and drink boiling water.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - tree-of-zaqqum
-passages:
-- tradition: judaism
-  ref: Jer 23:15
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (hinnî maʾăḵîl ʾôṯām laʿănâ wə-hišqiṯîm mê-rōʾš
-    vs. fa-innahum la-ākilūna minhā fa-māliʾūna minhā l-buṭūn thumma inna lahum ʿalayhā la-shawban min
-    ḥamīm: a punishment of bitter food and a foul drink. In Jeremiah it is for the false prophets in this
-    world; in the Quran it is the hell-tree''s fruit with boiling water.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֞ן כֹּֽה אָמַ֨ר יְהוָ֤ה צְבָאוֹת֙ עַל הַנְּבִאִ֔ים הִנְנִ֨י מַאֲכִ֤יל אוֹתָם֙ לַֽעֲנָ֔ה וְהִשְׁקִתִ֖ים
-    מֵי רֹ֑אשׁ כִּ֗י מֵאֵת֙ נְבִיאֵ֣י יְרוּשָׁלִַ֔ם יָצְאָ֥ה חֲנֻפָּ֖ה לְכָל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 37:62
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ
-- tradition: islam
-  ref: Quran 37:63
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا جَعَلْنَٰهَا فِتْنَةً لِّلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hinnî maʾăḵîl ʾôṯām laʿănâ wə-hišqiṯîm mê-rōʾš vs. fa-innahum la-ākilūna minhā fa-māliʾūna minhā
-    l-buṭūn thumma inna lahum ʿalayhā la-shawban min ḥamīm: a punishment of bitter food and a foul drink.
-    In Jeremiah it is for the false prophets in this world; in the Quran it is the hell-tree''s fruit
-    with boiling water.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
     like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8). Pair
@@ -86,6 +56,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+  damned fill their bellies and drink boiling water
+kinds:
+- echo
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: echo
+  label: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  note: 'hinnî maʾăḵîl ʾôṯām laʿănâ wə-hišqiṯîm mê-rōʾš vs. fa-innahum la-ākilūna minhā fa-māliʾūna minhā
+    l-buṭūn thumma inna lahum ʿalayhā la-shawban min ḥamīm: a punishment of bitter food and a foul drink.
+    In Jeremiah it is for the false prophets in this world; in the Quran it is the hell-tree''s fruit
+    with boiling water.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:15
+      lang: he
+      text: לָכֵ֞ן כֹּֽה אָמַ֨ר יְהוָ֤ה צְבָאוֹת֙ עַל הַנְּבִאִ֔ים הִנְנִ֨י מַאֲכִ֤יל אוֹתָם֙ לַֽעֲנָ֔ה
+        וְהִשְׁקִתִ֖ים מֵי רֹ֑אשׁ כִּ֗י מֵאֵת֙ נְבִיאֵ֣י יְרוּשָׁלִַ֔ם יָצְאָ֥ה חֲנֻפָּ֖ה לְכָל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:62
+      lang: ar
+      text: أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ
+    - ref: Quran 37:66
+      lang: ar
+      text: فَإِنَّهُمْ لَءَاكِلُونَ مِنْهَا فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+    - ref: Quran 37:67
+      lang: ar
+      text: ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِّنْ حَمِيمٍ
 ---
 
 ## Questions

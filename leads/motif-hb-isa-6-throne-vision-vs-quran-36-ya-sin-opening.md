@@ -1,9 +1,7 @@
 ---
 id: motif-hb-isa-6-throne-vision-vs-quran-36-ya-sin-opening
 title: The throne vision and the call of Isaiah ↔ Ya-Sin; the collars and the barrier; deeds recorded
-summary: 'These two units share 2 motifs: who makes the hearers deaf, blind and closed of heart to the
-  message [divergence between the texts], prophet commissioned to make the people''s heart fat, ears heavy
-  and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,90 +14,9 @@ layers:
 motifs:
 - who-closes-the-hearers-hearts-ears-and-eyes-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:9
-  note: 'Who makes the hearers deaf, blind and closed of heart to the message [divergence between the
-    texts] (Deaf ears, blind eyes, closed hearts. In Isaiah the prophet himself is sent to do it: hašmēn
-    lēḇ hā-ʿām ha-zzeh wə-ʾoznâw hakbēd wə-ʿênâw hāšaʿ pen ... wā-šāḇ wə-rāp̄āʾ lô. In the Quran God does
-    the sealing, ka-dhālika yaṭbaʿu llāhu ʿalā qulūbi lladhīna lā yaʿlamūn, and the prophet is told he
-    cannot overcome it: fa-innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾ ... wa-mā anta bi-hādi
-    l-ʿumyi.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ
-    וְאַל תֵּדָֽעוּ
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'Who makes the hearers deaf, blind and closed of heart to the message [divergence between the
-    texts] (Deaf ears, blind eyes, closed hearts. In Isaiah the prophet himself is sent to do it: hašmēn
-    lēḇ hā-ʿām ha-zzeh wə-ʾoznâw hakbēd wə-ʿênâw hāšaʿ pen ... wā-šāḇ wə-rāp̄āʾ lô. In the Quran God does
-    the sealing, ka-dhālika yaṭbaʿu llāhu ʿalā qulūbi lladhīna lā yaʿlamūn, and the prophet is told he
-    cannot overcome it: fa-innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾ ... wa-mā anta bi-hādi
-    l-ʿumyi.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 36:9
-  note: 'Who makes the hearers deaf, blind and closed of heart to the message [divergence between the
-    texts] (wə-ʿênâw hāšaʿ pen-yirʾeh ḇə-ʿênâw vs. fa-aghshaynāhum fa-hum lā yubṣirūn: God makes them
-    unable to see. In Isaiah the prophet is ordered to do it; in the Quran God has done it already (innā
-    jaʿalnā), and the prophet only warns those who will follow (innamā tundhiru mani ttabaʿa dh-dhikr,
-    36:11).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ لَا
-    يُبْصِرُونَ
-- tradition: islam
-  ref: Quran 36:10
-  note: 'Who makes the hearers deaf, blind and closed of heart to the message [divergence between the
-    texts] (wə-ʿênâw hāšaʿ pen-yirʾeh ḇə-ʿênâw vs. fa-aghshaynāhum fa-hum lā yubṣirūn: God makes them
-    unable to see. In Isaiah the prophet is ordered to do it; in the Quran God has done it already (innā
-    jaʿalnā), and the prophet only warns those who will follow (innamā tundhiru mani ttabaʿa dh-dhikr,
-    36:11).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 36:9
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (covered so they cannot see; warned or not, they will not believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ لَا
-    يُبْصِرُونَ
-- tradition: islam
-  ref: Quran 36:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (covered so they cannot see; warned or not, they will not believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wə-ʿênâw hāšaʿ pen-yirʾeh ḇə-ʿênâw vs. fa-aghshaynāhum fa-hum lā yubṣirūn: God makes them
-    unable to see. In Isaiah the prophet is ordered to do it; in the Quran God has done it already (innā
-    jaʿalnā), and the prophet only warns those who will follow (innamā tundhiru mani ttabaʿa dh-dhikr,
-    36:11).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who makes the hearers deaf, blind and closed of heart to the message
     [divergence between the texts] (weight 6.0); Prophet commissioned to make the people''s heart fat,
@@ -130,6 +47,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who makes the hearers deaf, blind and closed of heart to the message
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who makes the hearers deaf, blind and closed of heart to the message
+  note: 'wə-ʿênâw hāšaʿ pen-yirʾeh ḇə-ʿênâw vs. fa-aghshaynāhum fa-hum lā yubṣirūn: God makes them unable
+    to see. In Isaiah the prophet is ordered to do it; in the Quran God has done it already (innā jaʿalnā),
+    and the prophet only warns those who will follow (innamā tundhiru mani ttabaʿa dh-dhikr, 36:11).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9
+      lang: he
+      text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:9
+      lang: ar
+      text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ
+        لَا يُبْصِرُونَ
+    - ref: Quran 36:10
+      lang: ar
+      text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+- kind: shared
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9-10
+      lang: he
+      text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
+        פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:9
+      lang: ar
+      text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ
+        لَا يُبْصِرُونَ
+    - ref: Quran 36:10
+      lang: ar
+      text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+    note: covered so they cannot see; warned or not, they will not believe
 ---
 
 ## Questions

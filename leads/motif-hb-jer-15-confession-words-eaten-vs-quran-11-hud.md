@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-15-confession-words-eaten-vs-quran-11-hud
 title: Second confession - woe that my mother bore me; your words I ate ↔ Hud and Ad
-summary: 'These two units share 1 motifs: god reassures the frightened prophet: ''do not fear them, for
-  i am with you to deliver you''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +13,9 @@ layers:
 - motif
 motifs:
 - i-am-with-you-to-deliver
-passages:
-- tradition: judaism
-  ref: Jer 15:20
-  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֨שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא י֣וּכְלוּ
-    לָ֑ךְ כִּֽי אִתְּךָ֥ אֲנִ֛י לְהוֹשִֽׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם יְהוָֽה
-- tradition: judaism
-  ref: Jer 15:21
-  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִצַּלְתִּ֖יךָ מִיַּ֣ד רָעִ֑ים וּפְדִתִ֖יךָ מִכַּ֥ף עָרִצִֽים
-- tradition: islam
-  ref: Quran 11:55
-  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''
-    (The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
-    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
-    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِن دُونِهِۦ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 11:56
-  note: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you''
-    (The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
-    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
-    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ بِنَاصِيَتِهَآ
-    إِنَّ رَبِّى عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
-    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
-    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reassures the frightened prophet: ''Do not fear them, for I
     am with you to deliver you'' (weight 6.0). Pair score 6.0.'
@@ -81,6 +45,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
+kinds:
+- echo
+units:
+- id: hb-jer-15-confession-words-eaten
+  title: Second confession - woe that my mother bore me; your words I ate
+  tradition: judaism
+- id: quran-11-hud
+  title: Hud and Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God reassures the frightened prophet: ''Do not fear them, for I am with you to deliver you'''
+  note: 'The prophet stands alone against his people, trusting God''s protection: fa-kīdūnī jamīʿan thumma
+    lā tunẓirūni innī tawakkaltu ʿalā llāhi rabbī wa-rabbikum vs wᵉnilḥămû ʾēlêkā wᵉlōʾ-yûkᵉlû lāk kî-ʾittᵉkā
+    ʾănî lᵉhôšîʿăkā. In Jer God promises it; in Q the prophet defies them with it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 15:20
+      lang: he
+      text: וּנְתַתִּ֜יךָ לָעָ֣ם הַזֶּ֗ה לְחוֹמַ֤ת נְחֹ֨שֶׁת֙ בְּצוּרָ֔ה וְנִלְחֲמ֥וּ אֵלֶ֖יךָ וְלֹא י֣וּכְלוּ
+        לָ֑ךְ כִּֽי אִתְּךָ֥ אֲנִ֛י לְהוֹשִֽׁיעֲךָ֥ וּלְהַצִּילֶ֖ךָ נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:55
+      lang: ar
+      text: مِن دُونِهِۦ فَكِيدُونِى جَمِيعًا ثُمَّ لَا تُنظِرُونِ
+    - ref: Quran 11:56
+      lang: ar
+      text: إِنِّى تَوَكَّلْتُ عَلَى ٱللَّهِ رَبِّى وَرَبِّكُم مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذٌۢ
+        بِنَاصِيَتِهَآ إِنَّ رَبِّى عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
 ---
 
 ## Questions

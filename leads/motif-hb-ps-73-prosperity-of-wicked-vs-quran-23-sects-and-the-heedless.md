@@ -2,8 +2,7 @@
 id: motif-hb-ps-73-prosperity-of-wicked-vs-quran-23-sects-and-the-heedless
 title: Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory ↔ One community
   split into sects; the heedless rich and the God-fearing
-summary: 'These two units share 1 motifs: speaker is troubled by the prosperity and ease of the wicked
-  (theodicy).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - prosperity-of-the-wicked
-passages:
-- tradition: judaism
-  ref: Ps 73:2-12
-  note: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (73:2) וַאֲנִ֗י כִּ֭מְעַט נטוי נָטָ֣יוּ רַגְלָ֑י כְּ֝אַ֗יִן שפכה שֻׁפְּכ֥וּ אֲשֻׁרָֽי (73:3) כִּֽי
-    קִ֭נֵּאתִי בַּֽהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה (73:4) כִּ֤י אֵ֖ין חַרְצֻבּ֥וֹת לְמוֹתָ֗ם וּבָרִ֥יא
-    אוּלָֽם (73:5) בַּעֲמַ֣ל אֱנ֣וֹשׁ אֵינֵ֑מוֹ וְעִם אָ֝דָ֗ם לֹ֣א יְנֻגָּֽעוּ (73:6) לָ֭כֵן עֲנָקַ֣תְמוֹ
-    גַאֲוָ֑ה יַעֲטָף שִׁ֝֗ית חָמָ֥ס לָֽמוֹ (73:7) יָ֭צָא מֵחֵ֣לֶב עֵינֵ֑מוֹ עָ֝בְר֗וּ מַשְׂכִּיּ֥וֹת לֵבָֽב
-    (73:8) יָמִ֤יקוּ וִידַבְּר֣וּ בְרָ֣ע עֹ֑שֶׁק מִמָּר֥וֹם יְדַבֵּֽרוּ (73:9) שַׁתּ֣וּ בַשָּׁמַ֣יִם פִּיהֶ֑ם
-    וּ֝לְשׁוֹנָ֗ם תִּֽהֲלַ֥ךְ בָּאָֽרֶץ (73:10) לָכֵ֤ן ישיב יָשׁ֣וּב עַמּ֣וֹ הֲלֹ֑ם וּמֵ֥י מָ֝לֵ֗א יִמָּ֥צוּ
-    לָֽמוֹ (73:11) וְֽאָמְר֗וּ אֵיכָ֥ה יָדַֽע אֵ֑ל וְיֵ֖שׁ דֵּעָ֣ה בְעֶלְיֽוֹן (73:12) הִנֵּה אֵ֥לֶּה
-    רְשָׁעִ֑ים וְשַׁלְוֵ֥י ע֝וֹלָ֗ם הִשְׂגּוּ חָֽיִל
-- tradition: judaism
-  ref: Ps 73:3
-  note: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי קִ֭נֵּאתִי בַּֽהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה
-- tradition: islam
-  ref: Quran 23:55
-  note: 'Speaker is troubled by the prosperity and ease of the wicked (theodicy) (a-yaḥsabūna annamā numidduhum
-    bihi min mālin wa-banīna nusāriʿu lahum fī l-khayrāti bal lā yashʿurūna ~ kî qinnēʾtî ba-hôləlîm šəlôm
-    rəšāʿîm ʾerʾeh: the prosperity of the heedless is no sign of favor. The Psalmist is troubled by it
-    and finds the answer in their end (73:17-19); the Quran states the answer at once.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ
-- tradition: islam
-  ref: Quran 23:56
-  note: 'Speaker is troubled by the prosperity and ease of the wicked (theodicy) (a-yaḥsabūna annamā numidduhum
-    bihi min mālin wa-banīna nusāriʿu lahum fī l-khayrāti bal lā yashʿurūna ~ kî qinnēʾtî ba-hôləlîm šəlôm
-    rəšāʿîm ʾerʾeh: the prosperity of the heedless is no sign of favor. The Psalmist is troubled by it
-    and finds the answer in their end (73:17-19); the Quran states the answer at once.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ بَل لَّا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-yaḥsabūna annamā numidduhum bihi min mālin wa-banīna nusāriʿu lahum fī l-khayrāti bal lā yashʿurūna
-    ~ kî qinnēʾtî ba-hôləlîm šəlôm rəšāʿîm ʾerʾeh: the prosperity of the heedless is no sign of favor.
-    The Psalmist is troubled by it and finds the answer in their end (73:17-19); the Quran states the
-    answer at once.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
     (weight 6.3). Pair score 6.3.'
@@ -93,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
+kinds:
+- echo
+units:
+- id: hb-ps-73-prosperity-of-wicked
+  title: Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory
+  tradition: judaism
+- id: quran-23-sects-and-the-heedless
+  title: One community split into sects; the heedless rich and the God-fearing
+  tradition: islam
+matches:
+- kind: echo
+  label: Speaker is troubled by the prosperity and ease of the wicked (theodicy)
+  note: 'a-yaḥsabūna annamā numidduhum bihi min mālin wa-banīna nusāriʿu lahum fī l-khayrāti bal lā yashʿurūna
+    ~ kî qinnēʾtî ba-hôləlîm šəlôm rəšāʿîm ʾerʾeh: the prosperity of the heedless is no sign of favor.
+    The Psalmist is troubled by it and finds the answer in their end (73:17-19); the Quran states the
+    answer at once.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 73:3
+      lang: he
+      text: כִּֽי קִ֭נֵּאתִי בַּֽהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה
+    - ref: Ps 73:4
+      lang: he
+      text: כִּ֤י אֵ֖ין חַרְצֻבּ֥וֹת לְמוֹתָ֗ם וּבָרִ֥יא אוּלָֽם
+    - ref: Ps 73:5
+      lang: he
+      text: בַּעֲמַ֣ל אֱנ֣וֹשׁ אֵינֵ֑מוֹ וְעִם אָ֝דָ֗ם לֹ֣א יְנֻגָּֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:55
+      lang: ar
+      text: أَيَحْسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٍ وَبَنِينَ
+    - ref: Quran 23:56
+      lang: ar
+      text: نُسَارِعُ لَهُمْ فِى ٱلْخَيْرَٰتِ بَل لَّا يَشْعُرُونَ
 ---
 
 ## Questions

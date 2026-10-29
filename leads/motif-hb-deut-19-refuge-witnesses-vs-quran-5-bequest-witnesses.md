@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-19-refuge-witnesses-vs-quran-5-bequest-witnesses
 title: Cities of refuge, boundary stones, false witnesses ↔ Witnesses to a bequest made far from home
-summary: 'These two units share 1 motifs: no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,50 +13,9 @@ layers:
 - motif
 motifs:
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Deut 19:15
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
-    עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
-- tradition: judaism
-  ref: Deut 19:18
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
-- tradition: islam
-  ref: Quran 5:106
-  note: 'No one put to death on the testimony of a single witness (Two witnesses are required, and false
-    testimony is uncovered. Q: ithnāni dhawā ʿadlin minkum aw ākharāni min ghayrikum; fa-in ʿuthira ʿalā
-    annahumā staḥaqqā ithman fa-ākharāni yaqūmāni maqāmahumā. Deut: ʿal-pî šənê ʿēdîm ...; wə-dārəšû haš-šōfəṭîm
-    hêṭēv wə-hinnēh ʿēd-šeqer. In Q the remedy is a counter-oath by the heirs, not the court.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
-    ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
-    فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
-    بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ
-    ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
-- tradition: islam
-  ref: Quran 5:107
-  note: 'No one put to death on the testimony of a single witness (Two witnesses are required, and false
-    testimony is uncovered. Q: ithnāni dhawā ʿadlin minkum aw ākharāni min ghayrikum; fa-in ʿuthira ʿalā
-    annahumā staḥaqqā ithman fa-ākharāni yaqūmāni maqāmahumā. Deut: ʿal-pî šənê ʿēdîm ...; wə-dārəšû haš-šōfəṭîm
-    hêṭēv wə-hinnēh ʿēd-šeqer. In Q the remedy is a counter-oath by the heirs, not the court.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ
-    ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن
-    شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Two witnesses are required, and false testimony is uncovered. Q: ithnāni dhawā ʿadlin minkum
-    aw ākharāni min ghayrikum; fa-in ʿuthira ʿalā annahumā staḥaqqā ithman fa-ākharāni yaqūmāni maqāmahumā.
-    Deut: ʿal-pî šənê ʿēdîm ...; wə-dārəšû haš-šōfəṭîm hêṭēv wə-hinnēh ʿēd-šeqer. In Q the remedy is a
-    counter-oath by the heirs, not the court.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one put to death on the testimony of a single witness (weight
     5.4). Pair score 5.4.'
@@ -84,6 +43,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one put to death on the testimony of a single witness
+kinds:
+- echo
+units:
+- id: hb-deut-19-refuge-witnesses
+  title: Cities of refuge, boundary stones, false witnesses
+  tradition: judaism
+- id: quran-5-bequest-witnesses
+  title: Witnesses to a bequest made far from home
+  tradition: islam
+matches:
+- kind: echo
+  label: No one put to death on the testimony of a single witness
+  note: 'Two witnesses are required, and false testimony is uncovered. Q: ithnāni dhawā ʿadlin minkum
+    aw ākharāni min ghayrikum; fa-in ʿuthira ʿalā annahumā staḥaqqā ithman fa-ākharāni yaqūmāni maqāmahumā.
+    Deut: ʿal-pî šənê ʿēdîm ...; wə-dārəšû haš-šōfəṭîm hêṭēv wə-hinnēh ʿēd-šeqer. In Q the remedy is a
+    counter-oath by the heirs, not the court.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:15
+      lang: he
+      text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
+        עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
+    - ref: Deut 19:18
+      lang: he
+      text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 5:106
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
+        ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
+        فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
+        بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ
+        شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
+    - ref: Quran 5:107
+      lang: ar
+      text: فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا
+        مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ
+        مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

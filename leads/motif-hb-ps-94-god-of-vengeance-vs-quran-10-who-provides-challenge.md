@@ -2,8 +2,7 @@
 id: motif-hb-ps-94-god-of-vengeance-vs-quran-10-who-provides-challenge
 title: Psalm 94, God of vengeance; he who planted the ear ↔ Who provides and who restores creation; the
   challenge of the surah
-summary: 'These two units share 1 motifs: argument: he who planted the ear, does he not hear? he who formed
-  the eye, does he not see?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - maker-of-eye-and-ear-sees-and-hears
-passages:
-- tradition: judaism
-  ref: Ps 94:9-11
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (94:9) הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט (94:10) הֲיֹסֵ֣ר
-    גּ֭וֹיִם הֲלֹ֣א יוֹכִ֑יחַ הַֽמְלַמֵּ֖ד אָדָ֣ם דָּֽעַת (94:11) יְֽהוָ֗ה יֹ֭דֵעַ מַחְשְׁב֣וֹת אָדָ֑ם
-    כִּי הֵ֥מָּה הָֽבֶל
-- tradition: judaism
-  ref: Ps 94:9
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
-- tradition: islam
-  ref: Quran 10:31
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see? (who
-    owns hearing and sight?)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن
-    يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ فَسَيَقُولُونَ
-    ٱللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Hearing and sight belong to their maker: amman yamliku s-samʿa wa-l-abṣāra vs hănōṭaʿ ʾōzen
-    hălōʾ yišmāʿ ʾim-yōṣēr ʿayin hălōʾ yabbîṭ. Ps argues that God therefore sees; Q that God, not the
-    partners, owns these faculties.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Argument: He who planted the ear, does he not hear? He who formed
     the eye, does he not see? (weight 6.3). Pair score 6.3.'
@@ -72,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
+kinds:
+- echo
+units:
+- id: hb-ps-94-god-of-vengeance
+  title: Psalm 94, God of vengeance; he who planted the ear
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
+  note: 'Hearing and sight belong to their maker: amman yamliku s-samʿa wa-l-abṣāra vs hănōṭaʿ ʾōzen hălōʾ
+    yišmāʿ ʾim-yōṣēr ʿayin hălōʾ yabbîṭ. Ps argues that God therefore sees; Q that God, not the partners,
+    owns these faculties.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 94:9
+      lang: he
+      text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
+  - tradition: islam
+    passages:
+    - ref: Quran 10:31
+      lang: ar
+      text: قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ
+        وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ
+        فَسَيَقُولُونَ ٱللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ
 ---
 
 ## Questions

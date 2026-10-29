@@ -2,8 +2,7 @@
 id: motif-hb-isa-35-desert-blooms-vs-quran-24-light-verse
 title: The desert blossoms; the blind see and the lame leap; the Way of Holiness ↔ The Light Verse; the
   mirage, the dark sea, the praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: the mirage and the thirsty traveler [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - mirage-and-the-thirsty-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 35:7
-  note: 'The mirage and the thirsty traveler [divergence between the texts] (ka-sarābin bi-qīʿatin yaḥsabuhu
-    ẓ-ẓamʾānu māʾan ḥattā idhā jāʾahu lam yajidhu shayʾan ~ wə-hāyâ haš-šārāv la-ʾăgam wə-ṣimmāʾôn lə-mabbûʿê
-    māyim: the same word for mirage (sarāb / šārāv) and the same thirsty person (ẓamʾān / ṣimmāʾôn). Reversed:
-    in Isaiah the mirage becomes a real pool for the redeemed; in the Quran it stays nothing and the unbeliever
-    finds only God''s reckoning.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֤ה הַשָּׁרָב֙ לַאֲגַ֔ם וְצִמָּא֖וֹן לְמַבּ֣וּעֵי מָ֑יִם בִּנְוֵ֤ה תַנִּים֙ רִבְצָ֔הּ חָצִ֖יר
-    לְקָנֶ֥ה וָגֹֽמֶא
-- tradition: islam
-  ref: Quran 24:39
-  note: 'The mirage and the thirsty traveler [divergence between the texts] (ka-sarābin bi-qīʿatin yaḥsabuhu
-    ẓ-ẓamʾānu māʾan ḥattā idhā jāʾahu lam yajidhu shayʾan ~ wə-hāyâ haš-šārāv la-ʾăgam wə-ṣimmāʾôn lə-mabbûʿê
-    māyim: the same word for mirage (sarāb / šārāv) and the same thirsty person (ẓamʾān / ṣimmāʾôn). Reversed:
-    in Isaiah the mirage becomes a real pool for the redeemed; in the Quran it stays nothing and the unbeliever
-    finds only God''s reckoning.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً حَتَّىٰٓ
-    إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ وَٱللَّهُ
-    سَرِيعُ ٱلْحِسَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ka-sarābin bi-qīʿatin yaḥsabuhu ẓ-ẓamʾānu māʾan ḥattā idhā jāʾahu lam yajidhu shayʾan
-    ~ wə-hāyâ haš-šārāv la-ʾăgam wə-ṣimmāʾôn lə-mabbûʿê māyim: the same word for mirage (sarāb / šārāv)
-    and the same thirsty person (ẓamʾān / ṣimmāʾôn). Reversed: in Isaiah the mirage becomes a real pool
-    for the redeemed; in the Quran it stays nothing and the unbeliever finds only God''s reckoning.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The mirage and the thirsty traveler [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -82,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The mirage and the thirsty traveler
+kinds:
+- divergence
+units:
+- id: hb-isa-35-desert-blooms
+  title: The desert blossoms; the blind see and the lame leap; the Way of Holiness
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: divergence
+  label: The mirage and the thirsty traveler
+  note: 'ka-sarābin bi-qīʿatin yaḥsabuhu ẓ-ẓamʾānu māʾan ḥattā idhā jāʾahu lam yajidhu shayʾan ~ wə-hāyâ
+    haš-šārāv la-ʾăgam wə-ṣimmāʾôn lə-mabbûʿê māyim: the same word for mirage (sarāb / šārāv) and the
+    same thirsty person (ẓamʾān / ṣimmāʾôn). Reversed: in Isaiah the mirage becomes a real pool for the
+    redeemed; in the Quran it stays nothing and the unbeliever finds only God''s reckoning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 35:7
+      lang: he
+      text: וְהָיָ֤ה הַשָּׁרָב֙ לַאֲגַ֔ם וְצִמָּא֖וֹן לְמַבּ֣וּעֵי מָ֑יִם בִּנְוֵ֤ה תַנִּים֙ רִבְצָ֔הּ
+        חָצִ֖יר לְקָנֶ֥ה וָגֹֽמֶא
+  - tradition: islam
+    passages:
+    - ref: Quran 24:39
+      lang: ar
+      text: وَٱلَّذِينَ كَفَرُوٓا۟ أَعْمَٰلُهُمْ كَسَرَابٍۭ بِقِيعَةٍ يَحْسَبُهُ ٱلظَّمْـَٔانُ مَآءً
+        حَتَّىٰٓ إِذَا جَآءَهُۥ لَمْ يَجِدْهُ شَيْـًٔا وَوَجَدَ ٱللَّهَ عِندَهُۥ فَوَفَّىٰهُ حِسَابَهُۥ
+        وَٱللَّهُ سَرِيعُ ٱلْحِسَابِ
 ---
 
 ## Questions

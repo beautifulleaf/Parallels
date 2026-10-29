@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-49-no-ransom-vs-quran-26-hud-ad
 title: Psalm 49 - no man can ransom his brother ↔ Hud and the monument-building people of Ad
-summary: 'These two units share 1 motifs: their graves (qirbam = qivram) are their houses forever, though
-  they named lands after themselves.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - graves-their-houses-forever
-passages:
-- tradition: judaism
-  ref: Ps 49:12
-  note: Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קִרְבָּ֤ם בָּתֵּ֨ימוֹ לְֽעוֹלָ֗ם מִ֭שְׁכְּנֹתָם לְדֹ֣ר וָדֹ֑ר קָֽרְא֥וּ בִ֝שְׁמוֹתָ֗ם עֲלֵ֣י אֲדָמֽוֹת
-- tradition: judaism
-  ref: Ps 49:13
-  note: Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָדָ֣ם בִּ֭יקָר בַּל יָלִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ
-- tradition: islam
-  ref: Quran 26:129
-  note: 'Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves
-    (wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ qirbām bāttêmô lə-ʿôlām miškənōtām lə-dōr wā-dōr
-    qārəʾû vi-šmôtām ʿălê ʾădāmôt wə-ʾādām bîqār bal yālîn: the rich think their buildings make them last
-    forever (khalada / lə-ʿôlām), but man in his pomp does not endure.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ qirbām bāttêmô lə-ʿôlām miškənōtām lə-dōr
-    wā-dōr qārəʾû vi-šmôtām ʿălê ʾădāmôt wə-ʾādām bîqār bal yālîn: the rich think their buildings make
-    them last forever (khalada / lə-ʿôlām), but man in his pomp does not endure.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Their graves (qirbam = qivram) are their houses forever, though
     they named lands after themselves (weight 6.7). Pair score 6.7.'
@@ -75,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-26-hud-ad
+  title: Hud and the monument-building people of Ad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Their graves (qirbam = qivram) are their houses forever, though they named lands after themselves
+  note: 'wa-tattakhidhūna maṣāniʿa laʿallakum takhludūna ~ qirbām bāttêmô lə-ʿôlām miškənōtām lə-dōr wā-dōr
+    qārəʾû vi-šmôtām ʿălê ʾădāmôt wə-ʾādām bîqār bal yālîn: the rich think their buildings make them last
+    forever (khalada / lə-ʿôlām), but man in his pomp does not endure.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:12
+      lang: he
+      text: קִרְבָּ֤ם בָּתֵּ֨ימוֹ לְֽעוֹלָ֗ם מִ֭שְׁכְּנֹתָם לְדֹ֣ר וָדֹ֑ר קָֽרְא֥וּ בִ֝שְׁמוֹתָ֗ם עֲלֵ֣י
+        אֲדָמֽוֹת
+    - ref: Ps 49:13
+      lang: he
+      text: וְאָדָ֣ם בִּ֭יקָר בַּל יָלִ֑ין נִמְשַׁ֖ל כַּבְּהֵמ֣וֹת נִדְמֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:129
+      lang: ar
+      text: وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ
 ---
 
 ## Questions

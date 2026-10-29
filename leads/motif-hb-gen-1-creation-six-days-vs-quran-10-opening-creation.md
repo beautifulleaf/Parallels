@@ -2,9 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-10-opening-creation
 title: Creation in six days and the seventh-day rest ↔ The wise Book, creation, sun and moon, the prayer
   of paradise
-summary: 'These two units share 4 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons [divergence between the texts], creation is completed in six days [divergence between the texts],
-  creation is completed in six days, sun and moon are set to rule day and night and mark signs and seasons.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -19,148 +17,9 @@ motifs:
 - creation-in-six-days-as-divergence
 - creation-in-six-days
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons [divergence between the
-    texts] (God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr
-    haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the
-    great light, the small light''); Q names them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons [divergence between the
-    texts] (God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr
-    haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the
-    great light, the small light''); Q names them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 10:5
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons [divergence between the
-    texts] (God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr
-    haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the
-    great light, the small light''); Q names them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
-    عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
-    لِقَوْمٍ يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 10:6
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons [divergence between the
-    texts] (God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr
-    haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the
-    great light, the small light''); Q names them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: judaism
-  ref: Gen 2:3
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל מְלַאכְתּ֔וֹ
-    אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 10:3
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ ٱللَّهُ
-    رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 10:3
-  note: Creation is completed in six days
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ ٱللَّهُ
-    رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 10:5
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
-    عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
-    لِقَوْمٍ يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 10:6
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Six days of creation, then what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati
-    ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ...
-    wayyišbōt bayyôm haššᵉbîʿî. The seventh day is replaced: Gen has rest (šābat) and a hallowed day;
-    Q has God mounting the Throne and governing, with no rest and no seventh day. God makes the two lights
-    to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu manāzila li-taʿlamū ʿadada
-    s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr haqqāṭōn lᵉmemšelet
-    hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the great light, the small
-    light''); Q names them.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     [divergence between the texts] (weight 6.7); Creation is completed in six days [divergence between
@@ -195,6 +54,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Creation is completed in six days
+kinds:
+- divergence
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-10-opening-creation
+  title: The wise Book, creation, sun and moon, the prayer of paradise
+  tradition: islam
+matches:
+- kind: divergence
+  label: Creation is completed in six days
+  note: 'Six days of creation, then what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin
+    thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt
+    bayyôm haššᵉbîʿî. The seventh day is replaced: Gen has rest (šābat) and a hallowed day; Q has God
+    mounting the Throne and governing, with no rest and no seventh day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:2
+      lang: he
+      text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
+        הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
+    - ref: Gen 2:3
+      lang: he
+      text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל
+        מְלַאכְתּ֔וֹ אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 10:3
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ
+        ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ
+- kind: divergence
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'God makes the two lights to measure time: jaʿala sh-shamsa ḍiyāʾan wa-l-qamara nūran wa-qaddarahu
+    manāzila li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb vs ʾet-hammāʾôr haggādōl lᵉmemšelet hayyôm wᵉʾet-hammāʾôr
+    haqqāṭōn lᵉmemšelet hallaylāh; wᵉhāyû ... lᵉyāmîm wᵉšānîm. Gen avoids the names sun and moon (''the
+    great light, the small light''); Q names them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 10:5
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
+        عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
+        لِقَوْمٍ يَعْلَمُونَ
+    - ref: Quran 10:6
+      lang: ar
+      text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
 ---
 
 ## Questions

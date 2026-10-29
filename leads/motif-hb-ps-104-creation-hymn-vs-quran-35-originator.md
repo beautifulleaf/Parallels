@@ -2,10 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-35-originator
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The Originator, winged angels,
   and the two seas
-summary: 'These two units share 4 motifs: god makes winds his messengers (angels) and flaming fire his
-  ministers, sun and moon are subjected, each running to an appointed term, god sends the winds as heralds
-  before his mercy and sends down pure water from the sky, rain from the sky gives life to the earth after
-  its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,106 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- winds-as-angels-fire-as-ministers
 - sun-and-moon-run-to-appointed-term
+- winds-as-angels-fire-as-ministers
 - winds-herald-mercy-pure-water
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:4
-  note: God makes winds his messengers (angels) and flaming fire his ministers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 35:1
-  note: 'God makes winds his messengers (angels) and flaming fire his ministers (ʿōśeh malʾāḵâw rûḥôṯ
-    məšārəṯâw ʾēš lōhēṭ vs. jāʿili l-malāʾikati rusulan (35:1) and arsala r-riyāḥa (35:9). Both make (ʿōśeh
-    / jāʿil) heavenly envoys: malʾāḵ and malak are the same word and both mean ''one sent'', which the
-    Quran repeats with rusulan.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ
-    مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ
-    قَدِيرٌ
-- tradition: islam
-  ref: Quran 35:9
-  note: 'God makes winds his messengers (angels) and flaming fire his ministers (ʿōśeh malʾāḵâw rûḥôṯ
-    məšārəṯâw ʾēš lōhēṭ vs. jāʿili l-malāʾikati rusulan (35:1) and arsala r-riyāḥa (35:9). Both make (ʿōśeh
-    / jāʿil) heavenly envoys: malʾāḵ and malak are the same word and both mean ''one sent'', which the
-    Quran repeats with rusulan.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'Sun and moon are subjected, each running to an appointed term (wa-sakhkhara sh-shamsa wa-l-qamara
-    kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš yādaʿ məbôʾô: sun and moon made subject
-    to fixed times.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: islam
-  ref: Quran 35:13
-  note: Sun and moon are subjected, each running to an appointed term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ
-    كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ
-    مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:4
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 35:9
-  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 35:9
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection ('thus is the
-    resurrection (al-nushur)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿōśeh malʾāḵâw rûḥôṯ məšārəṯâw ʾēš lōhēṭ vs. jāʿili l-malāʾikati rusulan (35:1) and arsala r-riyāḥa
-    (35:9). Both make (ʿōśeh / jāʿil) heavenly envoys: malʾāḵ and malak are the same word and both mean
-    ''one sent'', which the Quran repeats with rusulan.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God makes winds his messengers (angels) and flaming fire his ministers
-    (weight 5.8); Sun and moon are subjected, each running to an appointed term (weight 5.8); God sends
+- text: 'Shared motifs, rarest first: Sun and moon are subjected, each running to an appointed term (weight
+    5.8); God makes winds his messengers (angels) and flaming fire his ministers (weight 5.8); God sends
     the winds as heralds before his mercy and sends down pure water from the sky (weight 5.4); Rain from
     the sky gives life to the earth after its death, a sign of resurrection (weight 4.4). Pair score 21.4.'
   basis: reading
@@ -151,6 +58,101 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes winds his messengers (angels) and flaming fire his ministers
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: echo
+  label: God makes winds his messengers (angels) and flaming fire his ministers
+  note: 'ʿōśeh malʾāḵâw rûḥôṯ məšārəṯâw ʾēš lōhēṭ vs. jāʿili l-malāʾikati rusulan (35:1) and arsala r-riyāḥa
+    (35:9). Both make (ʿōśeh / jāʿil) heavenly envoys: malʾāḵ and malak are the same word and both mean
+    ''one sent'', which the Quran repeats with rusulan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 35:1
+      lang: ar
+      text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ
+        أَجْنِحَةٍ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ
+        كُلِّ شَىْءٍ قَدِيرٌ
+    - ref: Quran 35:9
+      lang: ar
+      text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ
+        فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
+- kind: shared
+  label: Sun and moon are subjected, each running to an appointed term
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    note: 'wa-sakhkhara sh-shamsa wa-l-qamara kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš
+      yādaʿ məbôʾô: sun and moon made subject to fixed times.'
+  - tradition: islam
+    passages:
+    - ref: Quran 35:13
+      lang: ar
+      text: يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ
+        كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ
+        مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
+- kind: shared
+  label: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    note: 'God''s winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ...
+      mašqeh hārîm mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa
+      lladhī yursilu l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā
+      bihi l-māʾa. The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju
+      l-mawtā).'
+  - tradition: islam
+    passages:
+    - ref: Quran 35:9
+      lang: ar
+      text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ
+        فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 35:9
+      lang: ar
+      text: وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ
+        فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ
+    note: '''thus is the resurrection (al-nushur)'''
 ---
 
 ## Questions

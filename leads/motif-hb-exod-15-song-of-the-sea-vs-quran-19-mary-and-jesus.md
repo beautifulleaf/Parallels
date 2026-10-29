@@ -2,8 +2,7 @@
 id: motif-hb-exod-15-song-of-the-sea-vs-quran-19-mary-and-jesus
 title: The Song of the Sea and Miriam's song ↔ Mary, the spirit in human form, the birth under the palm,
   the speaking infant (Surah 19:16-40)
-summary: 'These two units share 1 motifs: mary is addressed as ''sister of aaron'' [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - mary-called-sister-of-aaron-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 15:20
-  note: 'Mary is addressed as ''sister of Aaron'' [divergence between the texts] (miryām hannəbîʾâ ʾăḥôt
-    ʾahărōn; yā ukhta Hārūn: the epithet of Miriam, Moses'' sister, given to Maryam the mother of Jesus.
-    Same name (Miryām / Maryam). Exod''s Miriam leads the women in song; Q''s Maryam is reproached by
-    her people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּקַּח֩ מִרְיָ֨ם הַנְּבִיאָ֜ה אֲח֧וֹת אַהֲרֹ֛ן אֶת הַתֹּ֖ף בְּיָדָ֑הּ וַתֵּצֶ֤אןָ כָֽל הַנָּשִׁים֙
-    אַחֲרֶ֔יהָ בְּתֻפִּ֖ים וּבִמְחֹלֹֽת
-- tradition: islam
-  ref: Quran 19:28
-  note: 'Mary is addressed as ''sister of Aaron'' [divergence between the texts] (miryām hannəbîʾâ ʾăḥôt
-    ʾahărōn; yā ukhta Hārūn: the epithet of Miriam, Moses'' sister, given to Maryam the mother of Jesus.
-    Same name (Miryām / Maryam). Exod''s Miriam leads the women in song; Q''s Maryam is reproached by
-    her people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. miryām hannəbîʾâ ʾăḥôt ʾahărōn; yā ukhta Hārūn: the epithet of Miriam, Moses'' sister,
-    given to Maryam the mother of Jesus. Same name (Miryām / Maryam). Exod''s Miriam leads the women in
-    song; Q''s Maryam is reproached by her people.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mary is addressed as ''sister of Aaron'' [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -72,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mary is addressed as 'sister of Aaron'
+kinds:
+- divergence
+units:
+- id: hb-exod-15-song-of-the-sea
+  title: The Song of the Sea and Miriam's song
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Mary is addressed as 'sister of Aaron'
+  note: 'miryām hannəbîʾâ ʾăḥôt ʾahărōn; yā ukhta Hārūn: the epithet of Miriam, Moses'' sister, given
+    to Maryam the mother of Jesus. Same name (Miryām / Maryam). Exod''s Miriam leads the women in song;
+    Q''s Maryam is reproached by her people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:20
+      lang: he
+      text: וַתִּקַּח֩ מִרְיָ֨ם הַנְּבִיאָ֜ה אֲח֧וֹת אַהֲרֹ֛ן אֶת הַתֹּ֖ף בְּיָדָ֑הּ וַתֵּצֶ֤אןָ כָֽל
+        הַנָּשִׁים֙ אַחֲרֶ֔יהָ בְּתֻפִּ֖ים וּבִמְחֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 19:28
+      lang: ar
+      text: يَٰٓأُخْتَ هَٰرُونَ مَا كَانَ أَبُوكِ ٱمْرَأَ سَوْءٍ وَمَا كَانَتْ أُمُّكِ بَغِيًّا
 ---
 
 ## Questions

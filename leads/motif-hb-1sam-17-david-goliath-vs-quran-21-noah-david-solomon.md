@@ -2,8 +2,7 @@
 id: motif-hb-1sam-17-david-goliath-vs-quran-21-noah-david-solomon
 title: David and Goliath ↔ Noah answered; David and Solomon's judgment, the praising mountains, mail and
   wind
-summary: 'These two units share 1 motifs: god taught david the craft of making coats of mail [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - david-taught-to-make-mail-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Sam 17:38
-  note: 'God taught David the craft of making coats of mail [contrast between the texts] (1Sam: David
-    cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ nissîtî wayəsirēm.
-    Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum min baʾsikum.
-    The shepherd who shed armor becomes the armorer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ
-    אֹת֖וֹ שִׁרְיֽוֹן
-- tradition: judaism
-  ref: 1Sam 17:39
-  note: 'God taught David the craft of making coats of mail [contrast between the texts] (1Sam: David
-    cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ nissîtî wayəsirēm.
-    Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum min baʾsikum.
-    The shepherd who shed armor becomes the armorer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּחְגֹּ֣ר דָּוִ֣ד אֶת חַ֠רְבּוֹ מֵעַ֨ל לְמַדָּ֜יו וַיֹּ֣אֶל לָלֶכֶת֮ כִּ֣י לֹֽא נִסָּה֒ וַיֹּ֨אמֶר
-    דָּוִ֜ד אֶל שָׁא֗וּל לֹ֥א אוּכַ֛ל לָלֶ֥כֶת בָּאֵ֖לֶּה כִּ֣י לֹ֣א נִסִּ֑יתִי וַיְסִרֵ֥ם דָּוִ֖ד מֵעָלָֽיו
-- tradition: islam
-  ref: Quran 21:80
-  note: 'God taught David the craft of making coats of mail [contrast between the texts] (1Sam: David
-    cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ nissîtî wayəsirēm.
-    Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum min baʾsikum.
-    The shepherd who shed armor becomes the armorer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَّمْنَٰهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ فَهَلْ أَنتُمْ شَٰكِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    contrast. 1Sam: David cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ
-    nissîtî wayəsirēm. Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum
-    min baʾsikum. The shepherd who shed armor becomes the armorer.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God taught David the craft of making coats of mail [contrast between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -82,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God taught David the craft of making coats of mail
+kinds:
+- contrast
+units:
+- id: hb-1sam-17-david-goliath
+  title: David and Goliath
+  tradition: judaism
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: contrast
+  label: God taught David the craft of making coats of mail
+  note: '1Sam: David cannot wear armor, wayyalbēš ʾōtô širyôn ... lōʾ ʾûkal lāleket bāʾēlleh kî lōʾ nissîtî
+    wayəsirēm. Q: God teaches David to make armor, wa-ʿallamnāhu ṣanʿata labūsin lakum li-tuḥṣinakum min
+    baʾsikum. The shepherd who shed armor becomes the armorer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 17:38
+      lang: he
+      text: וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ
+        אֹת֖וֹ שִׁרְיֽוֹן
+    - ref: 1Sam 17:39
+      lang: he
+      text: וַיַּחְגֹּ֣ר דָּוִ֣ד אֶת חַ֠רְבּוֹ מֵעַ֨ל לְמַדָּ֜יו וַיֹּ֣אֶל לָלֶכֶת֮ כִּ֣י לֹֽא נִסָּה֒
+        וַיֹּ֨אמֶר דָּוִ֜ד אֶל שָׁא֗וּל לֹ֥א אוּכַ֛ל לָלֶ֥כֶת בָּאֵ֖לֶּה כִּ֣י לֹ֣א נִסִּ֑יתִי וַיְסִרֵ֥ם
+        דָּוִ֖ד מֵעָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 21:80
+      lang: ar
+      text: وَعَلَّمْنَٰهُ صَنْعَةَ لَبُوسٍ لَّكُمْ لِتُحْصِنَكُم مِّنۢ بَأْسِكُمْ فَهَلْ أَنتُمْ شَٰكِرُونَ
 ---
 
 ## Questions

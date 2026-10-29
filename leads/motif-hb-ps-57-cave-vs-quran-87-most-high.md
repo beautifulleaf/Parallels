@@ -2,7 +2,7 @@
 id: motif-hb-ps-57-cave-vs-quran-87-most-high
 title: 'Psalm 57, in the shadow of your wings (in the cave) ↔ The Most High: the scrolls of Abraham and
   Moses'
-summary: 'These two units share 1 motifs: god most high (el elyon), creator/possessor of heaven and earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - el-elyon-creator
-passages:
-- tradition: judaism
-  ref: Ps 57:3
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (Elohim Elyon, 'El who completes
-    for me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֭קְרָא לֵֽאלֹהִ֣ים עֶלְי֑וֹן לָ֝אֵ֗ל גֹּמֵ֥ר עָלָֽי
-- tradition: islam
-  ref: Quran 87:1
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
-- tradition: islam
-  ref: Quran 87:2
-  note: God Most High (El Elyon), creator/possessor of heaven and earth ('glorify the name of your Lord
-    the Most High (al-a'la), who created and proportioned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. rabbika l-aʿlā ~ ʾeqrāʾ lēʾlōhîm ʿElyôn lā-ʾēl gōmēr ʿālāy.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
     (weight 5.8). Pair score 5.8.'
@@ -66,6 +44,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God Most High (El Elyon), creator/possessor of heaven and earth
+kinds:
+- echo
+units:
+- id: hb-ps-57-cave
+  title: Psalm 57, in the shadow of your wings (in the cave)
+  tradition: judaism
+- id: quran-87-most-high
+  title: 'The Most High: the scrolls of Abraham and Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: God Most High (El Elyon), creator/possessor of heaven and earth
+  note: rabbika l-aʿlā ~ ʾeqrāʾ lēʾlōhîm ʿElyôn lā-ʾēl gōmēr ʿālāy.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 57:3
+      lang: he
+      text: אֶ֭קְרָא לֵֽאלֹהִ֣ים עֶלְי֑וֹן לָ֝אֵ֗ל גֹּמֵ֥ר עָלָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 87:1
+      lang: ar
+      text: سَبِّحِ ٱسْمَ رَبِّكَ ٱلْأَعْلَى
 ---
 
 ## Questions

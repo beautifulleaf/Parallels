@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-9-uzayr-clergy
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ 'Uzayr and the Messiah
   called sons of God; rabbis and monks as lords
-summary: 'These two units share 1 motifs: a bribe blinds the clear-sighted and perverts the words of the
-  righteous.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - bribe-blinds-the-wise
-passages:
-- tradition: judaism
-  ref: Isa 1:23
-  note: A bribe blinds the clear-sighted and perverts the words of the righteous (princes love bribes
-    and chase gifts)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙
-    לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
-- tradition: islam
-  ref: Quran 9:34
-  note: 'A bribe blinds the clear-sighted and perverts the words of the righteous (Leaders greedy for
-    gain: śārayik sôrᵉrîm ... kullô ʾōhēb šōḥad wᵉrōdēp šalmōnîm vs la-yaʾkulūna amwāla n-nāsi bi-l-bāṭili
-    wa-yaṣuddūna ʿan sabīli llāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
-    أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
-    وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Leaders greedy for gain: śārayik sôrᵉrîm ... kullô ʾōhēb šōḥad wᵉrōdēp šalmōnîm vs la-yaʾkulūna
-    amwāla n-nāsi bi-l-bāṭili wa-yaṣuddūna ʿan sabīli llāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A bribe blinds the clear-sighted and perverts the words of the righteous
     (weight 5.6). Pair score 5.6.'
@@ -73,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A bribe blinds the clear-sighted and perverts the words of the righteous
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-9-uzayr-clergy
+  title: '''Uzayr and the Messiah called sons of God; rabbis and monks as lords'
+  tradition: islam
+matches:
+- kind: echo
+  label: A bribe blinds the clear-sighted and perverts the words of the righteous
+  note: 'Leaders greedy for gain: śārayik sôrᵉrîm ... kullô ʾōhēb šōḥad wᵉrōdēp šalmōnîm vs la-yaʾkulūna
+    amwāla n-nāsi bi-l-bāṭili wa-yaṣuddūna ʿan sabīli llāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:23
+      lang: he
+      text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים
+        יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:34
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
+        أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
+        وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 ---
 
 ## Questions

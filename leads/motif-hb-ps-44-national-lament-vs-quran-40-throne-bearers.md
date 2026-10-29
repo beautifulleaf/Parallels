@@ -2,7 +2,7 @@
 id: motif-hb-ps-44-national-lament-vs-quran-40-throne-bearers
 title: 'Psalm 44 - national lament; why do you sleep, O Lord ↔ Ha-Mim: the Forgiver; the throne-bearers
   pray for the believers'
-summary: 'These two units share 1 motifs: god knows the treachery of the eyes and what the breasts conceal.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - god-knows-treachery-of-eyes
-passages:
-- tradition: judaism
-  ref: Ps 44:22
-  note: 'God knows the treachery of the eyes and what the breasts conceal (hă-lōʾ ʾĕlōhîm yaḥăqor-zōʾṯ
-    kî-hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. yaʿlamu khāʾinata l-aʿyuni wa-mā tukhfī ṣ-ṣudūr: God knows the hidden
-    things of the heart. The psalm uses it to protest innocence; the Quran to warn the guilty.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
-- tradition: islam
-  ref: Quran 40:19
-  note: God knows the treachery of the eyes and what the breasts conceal
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. hă-lōʾ ʾĕlōhîm yaḥăqor-zōʾṯ kî-hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. yaʿlamu khāʾinata l-aʿyuni wa-mā
-    tukhfī ṣ-ṣudūr: God knows the hidden things of the heart. The psalm uses it to protest innocence;
-    the Quran to warn the guilty.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God knows the treachery of the eyes and what the breasts conceal
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God knows the treachery of the eyes and what the breasts conceal
+kinds:
+- parallel
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-40-throne-bearers
+  title: 'Ha-Mim: the Forgiver; the throne-bearers pray for the believers'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God knows the treachery of the eyes and what the breasts conceal
+  note: 'hă-lōʾ ʾĕlōhîm yaḥăqor-zōʾṯ kî-hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. yaʿlamu khāʾinata l-aʿyuni wa-mā
+    tukhfī ṣ-ṣudūr: God knows the hidden things of the heart. The psalm uses it to protest innocence;
+    the Quran to warn the guilty.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:22
+      lang: he
+      text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 40:19
+      lang: ar
+      text: يَعْلَمُ خَآئِنَةَ ٱلْأَعْيُنِ وَمَا تُخْفِى ٱلصُّدُورُ
 ---
 
 ## Questions

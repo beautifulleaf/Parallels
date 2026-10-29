@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ps-106-national-confession-vs-quran-7-calf
 title: Psalm 106, national confession of sins from Egypt to exile ↔ The lowing calf and the seventy
-summary: 'These two units share 3 motifs: moses ''stood in the breach'' (pérets) before god to turn back
-  his wrath from destroying the people, the people exchanged their glory for the image of an ox that eats
-  grass, people make a molten calf while the leader is on the mountain.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,75 +15,9 @@ motifs:
 - moses-stands-in-the-breach
 - exchanged-glory-for-ox-image
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Ps 106:23
-  note: Moses 'stood in the breach' (pérets) before God to turn back his wrath from destroying the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לְֽהַשְׁמִ֫ידָ֥ם לוּלֵ֡י מֹ֘שֶׁ֤ה בְחִיר֗וֹ עָמַ֣ד בַּפֶּ֣רֶץ לְפָנָ֑יו לְהָשִׁ֥יב
-    חֲ֝מָת֗וֹ מֵֽהַשְׁחִֽית
-- tradition: islam
-  ref: Quran 7:155
-  note: 'Moses ''stood in the breach'' (pérets) before God to turn back his wrath from destroying the
-    people (Moses averts destruction after the calf: rabbi law shiʾta ahlaktahum ... fa-ghfir lanā vs
-    wayyōʾmer lᵉhašmîdām lûlê mōšeh bᵉḥîrô ʿāmad bappereṣ lᵉpānāyw.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
-- tradition: islam
-  ref: Quran 7:156
-  note: 'Moses ''stood in the breach'' (pérets) before God to turn back his wrath from destroying the
-    people (Moses averts destruction after the calf: rabbi law shiʾta ahlaktahum ... fa-ghfir lanā vs
-    wayyōʾmer lᵉhašmîdām lûlê mōšeh bᵉḥîrô ʿāmad bappereṣ lᵉpānāyw.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ قَالَ
-    عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ
-    يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
-- tradition: judaism
-  ref: Ps 106:20
-  note: 'The people exchanged their Glory for the image of an ox that eats grass (Tiqqun soferim tradition:
-    originally ''my/his glory''; cf. Rom 1:23)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
-- tradition: islam
-  ref: Quran 7:148
-  note: 'The people exchanged their Glory for the image of an ox that eats grass (Both mock the calf as
-    a mere animal: ʿijlan jasadan lahu khuwār vs bᵉtabnît šôr ʾōkēl ʿēśeb (''an ox that eats grass'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
-- tradition: judaism
-  ref: Ps 106:19-20
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:19) יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה (106:20) וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם
-    בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
-- tradition: judaism
-  ref: Ps 106:19
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
-- tradition: islam
-  ref: Quran 7:148
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Both mock the calf as a mere animal: ʿijlan jasadan lahu khuwār vs bᵉtabnît šôr ʾōkēl ʿēśeb
-    (''an ox that eats grass''). Moses averts destruction after the calf: rabbi law shiʾta ahlaktahum
-    ... fa-ghfir lanā vs wayyōʾmer lᵉhašmîdām lûlê mōšeh bᵉḥîrô ʿāmad bappereṣ lᵉpānāyw.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses ''stood in the breach'' (pérets) before God to turn back his
     wrath from destroying the people (weight 6.7); The people exchanged their Glory for the image of an
@@ -121,6 +53,80 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people exchanged their Glory for the image of an ox that eats grass
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: echo
+  label: The people exchanged their Glory for the image of an ox that eats grass
+  note: 'Both mock the calf as a mere animal: ʿijlan jasadan lahu khuwār vs bᵉtabnît šôr ʾōkēl ʿēśeb (''an
+    ox that eats grass'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:20
+      lang: he
+      text: וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+- kind: echo
+  label: Moses 'stood in the breach' (pérets) before God to turn back his wrath from destroying the people
+  note: 'Moses averts destruction after the calf: rabbi law shiʾta ahlaktahum ... fa-ghfir lanā vs wayyōʾmer
+    lᵉhašmîdām lûlê mōšeh bᵉḥîrô ʿāmad bappereṣ lᵉpānāyw.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:23
+      lang: he
+      text: וַיֹּ֗אמֶר לְֽהַשְׁמִ֫ידָ֥ם לוּלֵ֡י מֹ֘שֶׁ֤ה בְחִיר֗וֹ עָמַ֣ד בַּפֶּ֣רֶץ לְפָנָ֑יו לְהָשִׁ֥יב
+        חֲ֝מָת֗וֹ מֵֽהַשְׁחִֽית
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+    - ref: Quran 7:156
+      lang: ar
+      text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ
+        قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا
+        لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:19-20
+      lang: he
+      text: (106:19) יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה (106:20) וַיָּמִ֥ירוּ אֶת
+        כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
+    - ref: Ps 106:19
+      lang: he
+      text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
+    - ref: Ps 106:20
+      lang: he
+      text: וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
+    note: Located at Horeb
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
 ---
 
 ## Questions

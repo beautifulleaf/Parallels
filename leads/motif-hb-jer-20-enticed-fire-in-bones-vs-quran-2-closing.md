@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-20-enticed-fire-in-bones-vs-quran-2-closing
 title: Fifth confession - you enticed me; fire shut up in my bones ↔ Closing confession and prayer
-summary: 'These two units share 1 motifs: god tests the hearts and the kidneys (inner self).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,27 +13,9 @@ layers:
 - motif
 motifs:
 - god-tests-hearts-and-kidneys
-passages:
-- tradition: judaism
-  ref: Jer 20:12
-  note: God tests the hearts and the kidneys (inner self)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיהוָ֤ה צְבָאוֹת֙ בֹּחֵ֣ן צַדִּ֔יק רֹאֶ֥ה כְלָי֖וֹת וָלֵ֑ב אֶרְאֶ֤ה נִקְמָֽתְךָ֙ מֵהֶ֔ם כִּ֥י
-    אֵלֶ֖יךָ גִּלִּ֥יתִי אֶת רִיבִֽי
-- tradition: islam
-  ref: Quran 2:284
-  note: God tests the hearts and the kidneys (inner self) (whether you show or hide what is in yourselves,
-    God will reckon)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ
-    يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ
-    شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 20:12 bōḥēn ṣaddîq rōʾeh kĕlāyôt wā-lēb; Q 2:284 in tubdū mā fī anfusikum aw tukhfūhu yuḥāsibkum
-    bihi llāh.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the hearts and the kidneys (inner self) (weight 5.6).
     Pair score 5.6.'
@@ -60,6 +42,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the hearts and the kidneys (inner self)
+kinds:
+- echo
+units:
+- id: hb-jer-20-enticed-fire-in-bones
+  title: Fifth confession - you enticed me; fire shut up in my bones
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: God tests the hearts and the kidneys (inner self)
+  note: Jer 20:12 bōḥēn ṣaddîq rōʾeh kĕlāyôt wā-lēb; Q 2:284 in tubdū mā fī anfusikum aw tukhfūhu yuḥāsibkum
+    bihi llāh.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 20:12
+      lang: he
+      text: וַיהוָ֤ה צְבָאוֹת֙ בֹּחֵ֣ן צַדִּ֔יק רֹאֶ֥ה כְלָי֖וֹת וָלֵ֑ב אֶרְאֶ֤ה נִקְמָֽתְךָ֙ מֵהֶ֔ם כִּ֥י
+        אֵלֶ֖יךָ גִּלִּ֥יתִי אֶת רִיבִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:284
+      lang: ar
+      text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ
+        تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

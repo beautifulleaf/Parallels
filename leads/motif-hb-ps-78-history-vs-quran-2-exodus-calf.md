@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ps-78-history-vs-quran-2-exodus-calf
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 4 motifs: prophet stretches his staff over the sea and god splits it with
-  a strong east wind, manna, unknown food from heaven, god leads the people in a pillar of cloud by day
-  and a pillar of fire by night, the returning waters drown the pursuing army; not one survives.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -19,74 +17,9 @@ motifs:
 - manna
 - pillar-of-cloud-and-fire
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:13
-  note: 'Prophet stretches his staff over the sea and God splits it with a strong east wind (Ps 78:13
-    bāqaʿ yām wa-yyaʿăbîrēm: God himself split the sea and brought them through; Q 2:50 faraqnā bikumu
-    l-baḥra fa-anjaynākum: the same telling with God as sole subject, without the staff and wind of Exod
-    14.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
-- tradition: islam
-  ref: Quran 2:50
-  note: Prophet stretches his staff over the sea and God splits it with a strong east wind (we parted
-    the sea for you)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
-- tradition: judaism
-  ref: Ps 78:24
-  note: Manna, unknown food from heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ
-- tradition: judaism
-  ref: Ps 78:27
-  note: Manna, unknown food from heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף
-- tradition: islam
-  ref: Quran 2:57
-  note: Manna, unknown food from heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Ps 78:14
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכָל הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ
-- tradition: islam
-  ref: Quran 2:57
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (shaded with clouds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 2:50
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 78:24, 27 wa-yyamṭēr ʿălêhem mān leʾĕkōl ... wa-yyamṭēr ʿălêhem ka-ʿāpār šĕʾēr: God rains
-    down manna and flesh on them; Q 2:57 wa-anzalnā ʿalaykumu l-manna wa-s-salwā: God as subject sending
-    both down on them (ʿălêhem / ʿalaykum). Ps 78:13 bāqaʿ yām wa-yyaʿăbîrēm: God himself split the sea
-    and brought them through; Q 2:50 faraqnā bikumu l-baḥra fa-anjaynākum: the same telling with God as
-    sole subject, without the staff and wind of Exod 14.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet stretches his staff over the sea and God splits it with
     a strong east wind (weight 6.0); Manna, unknown food from heaven (weight 6.0); God leads the people
@@ -123,6 +56,84 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Manna, unknown food from heaven
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: parallel
+  label: Manna, unknown food from heaven
+  note: 'Ps 78:24, 27 wa-yyamṭēr ʿălêhem mān leʾĕkōl ... wa-yyamṭēr ʿălêhem ka-ʿāpār šĕʾēr: God rains
+    down manna and flesh on them; Q 2:57 wa-anzalnā ʿalaykumu l-manna wa-s-salwā: God as subject sending
+    both down on them (ʿălêhem / ʿalaykum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:24
+      lang: he
+      text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם מָ֣ן לֶאֱכֹ֑ל וּדְגַן שָׁ֝מַ֗יִם נָ֣תַן לָֽמוֹ
+    - ref: Ps 78:27
+      lang: he
+      text: וַיַּמְטֵ֬ר עֲלֵיהֶ֣ם כֶּעָפָ֣ר שְׁאֵ֑ר וּֽכְח֥וֹל יַ֝מִּ֗ים ע֣וֹף כָּנָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: parallel
+  label: Prophet stretches his staff over the sea and God splits it with a strong east wind
+  note: 'Ps 78:13 bāqaʿ yām wa-yyaʿăbîrēm: God himself split the sea and brought them through; Q 2:50
+    faraqnā bikumu l-baḥra fa-anjaynākum: the same telling with God as sole subject, without the staff
+    and wind of Exod 14.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:13
+      lang: he
+      text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:50
+      lang: ar
+      text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ
+        تَنظُرُونَ
+- kind: shared
+  label: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:14
+      lang: he
+      text: וַיַּנְחֵ֣ם בֶּעָנָ֣ן יוֹמָ֑ם וְכָל הַ֝לַּ֗יְלָה בְּא֣וֹר אֵֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    note: shaded with clouds
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:50
+      lang: ar
+      text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ
+        تَنظُرُونَ
 ---
 
 ## Questions

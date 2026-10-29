@@ -2,8 +2,7 @@
 id: motif-hb-prov-23-amenemope-sayings-vs-quran-17-commandments
 title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field ↔
   The code of commandments (Surah 17:22-39)
-summary: 'These two units share 1 motifs: guardians must keep orphans'' property intact and hand it over
-  when they come of age.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - orphan-property-guardianship
-passages:
-- tradition: judaism
-  ref: Prov 23:10
-  note: 'Guardians must keep orphans'' property intact and hand it over when they come of age (ʾal-tassēg
-    gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi illā bi-llatī hiya
-    aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the orphans'' gōʾēl;
-    Q sets a term (ḥattā yablugha ashuddah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
-- tradition: judaism
-  ref: Prov 23:11
-  note: 'Guardians must keep orphans'' property intact and hand it over when they come of age (ʾal-tassēg
-    gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi illā bi-llatī hiya
-    aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the orphans'' gōʾēl;
-    Q sets a term (ḥattā yablugha ashuddah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
-- tradition: islam
-  ref: Quran 17:34
-  note: Guardians must keep orphans' property intact and hand it over when they come of age (until he
-    reaches maturity)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾal-tassēg gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi
-    illā bi-llatī hiya aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the
-    orphans'' gōʾēl; Q sets a term (ḥattā yablugha ashuddah).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Guardians must keep orphans'' property intact and hand it over when
     they come of age (weight 5.8). Pair score 5.8.'
@@ -82,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Guardians must keep orphans' property intact and hand it over when they come of age
+kinds:
+- parallel
+units:
+- id: hb-prov-23-amenemope-sayings
+  title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Guardians must keep orphans' property intact and hand it over when they come of age
+  note: 'ʾal-tassēg gəbûl ʿôlām ûbiśdê yətômîm ʾal-tābōʾ kî-gōʾălām ḥāzāq; wa-lā taqrabū māla l-yatīmi
+    illā bi-llatī hiya aḥsan: ''do not enter / approach'' the orphan''s property. Prov names God as the
+    orphans'' gōʾēl; Q sets a term (ḥattā yablugha ashuddah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:10
+      lang: he
+      text: אַל תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם וּבִשְׂדֵ֥י יְ֝תוֹמִ֗ים אַל תָּבֹֽא
+    - ref: Prov 23:11
+      lang: he
+      text: כִּֽי גֹאֲלָ֥ם חָזָ֑ק הֽוּא יָרִ֖יב אֶת רִיבָ֣ם אִתָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:34
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا
 ---
 
 ## Questions

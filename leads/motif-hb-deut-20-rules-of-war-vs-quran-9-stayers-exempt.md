@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-9-stayers-exempt
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Those who stayed behind, the exempt, and
   the Bedouin'
-summary: 'These two units share 2 motifs: who is excused from going out to war [divergence between the
-  texts], exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,94 +15,9 @@ layers:
 motifs:
 - exemption-from-campaign-as-divergence
 - military-exemptions-house-vineyard-bride
-passages:
-- tradition: judaism
-  ref: Deut 20:5
-  note: 'Who is excused from going out to war [divergence between the texts] (Who is exempt from the campaign:
-    laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš
-    ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh ... hayyārēʾ wᵉrak hallēbāb. The grounds
-    are changed: Deut releases the newly settled, the betrothed and the fearful; Q releases only the weak,
-    the sick and those without means, and condemns the rich who ask leave (innamā s-sabīlu ʿalā lladhīna
-    yastaʾdhinūnaka wa-hum aghniyāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:6
-  note: 'Who is excused from going out to war [divergence between the texts] (Who is exempt from the campaign:
-    laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš
-    ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh ... hayyārēʾ wᵉrak hallēbāb. The grounds
-    are changed: Deut releases the newly settled, the betrothed and the fearful; Q releases only the weak,
-    the sick and those without means, and condemns the rich who ask leave (innamā s-sabīlu ʿalā lladhīna
-    yastaʾdhinūnaka wa-hum aghniyāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
-    בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
-- tradition: islam
-  ref: Quran 9:91
-  note: 'Who is excused from going out to war [divergence between the texts] (Who is exempt from the campaign:
-    laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš
-    ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh ... hayyārēʾ wᵉrak hallēbāb. The grounds
-    are changed: Deut releases the newly settled, the betrothed and the fearful; Q releases only the weak,
-    the sick and those without means, and condemns the rich who ask leave (innamā s-sabīlu ʿalā lladhīna
-    yastaʾdhinūnaka wa-hum aghniyāʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ
-    حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ غَفُورٌ
-    رَّحِيمٌ
-- tradition: islam
-  ref: Quran 9:92
-  note: 'Who is excused from going out to war [divergence between the texts] (Who is exempt from the campaign:
-    laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš
-    ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh ... hayyārēʾ wᵉrak hallēbāb. The grounds
-    are changed: Deut releases the newly settled, the betrothed and the fearful; Q releases only the weak,
-    the sick and those without means, and condemns the rich who ask leave (innamā s-sabīlu ʿalā lladhīna
-    yastaʾdhinūnaka wa-hum aghniyāʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ
-    عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
-- tradition: judaism
-  ref: Deut 20:5
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:6
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
-    בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
-- tradition: islam
-  ref: Quran 9:91
-  note: 'Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (exempt here: the weak, the sick, the penniless)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ
-    حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ غَفُورٌ
-    رَّحِيمٌ
-- tradition: islam
-  ref: Quran 9:92
-  note: 'Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (exempt here: the weak, the sick, the penniless)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ
-    عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Who is exempt from the campaign: laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna
-    lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh
-    ... hayyārēʾ wᵉrak hallēbāb. The grounds are changed: Deut releases the newly settled, the betrothed
-    and the fearful; Q releases only the weak, the sick and those without means, and condemns the rich
-    who ask leave (innamā s-sabīlu ʿalā lladhīna yastaʾdhinūnaka wa-hum aghniyāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is excused from going out to war [divergence between the texts]
     (weight 6.7); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
@@ -137,6 +51,84 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is excused from going out to war
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-9-stayers-exempt
+  title: Those who stayed behind, the exempt, and the Bedouin
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who is excused from going out to war
+  note: 'Who is exempt from the campaign: laysa ʿalā ḍ-ḍuʿafāʾi wa-lā ʿalā l-marḍā wa-lā ʿalā lladhīna
+    lā yajidūna mā yunfiqūna ḥarajun vs mî-hāʾîš ʾăšer bānāh bayit-ḥādāš ... nāṭaʿ kerem ... ʾēraś ʾiššāh
+    ... hayyārēʾ wᵉrak hallēbāb. The grounds are changed: Deut releases the newly settled, the betrothed
+    and the fearful; Q releases only the weak, the sick and those without means, and condemns the rich
+    who ask leave (innamā s-sabīlu ʿalā lladhīna yastaʾdhinūnaka wa-hum aghniyāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:91
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا
+        يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ
+        غَفُورٌ رَّحِيمٌ
+    - ref: Quran 9:92
+      lang: ar
+      text: وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ
+        عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
+    - ref: Quran 9:93
+      lang: ar
+      text: إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ رَضُوا۟ بِأَن يَكُونُوا۟
+        مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:91
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا
+        يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ وَٱللَّهُ
+        غَفُورٌ رَّحِيمٌ
+    - ref: Quran 9:92
+      lang: ar
+      text: وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ
+        عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ
+    note: 'exempt here: the weak, the sick, the penniless'
 ---
 
 ## Questions

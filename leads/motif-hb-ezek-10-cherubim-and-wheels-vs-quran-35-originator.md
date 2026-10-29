@@ -2,9 +2,7 @@
 id: motif-hb-ezek-10-cherubim-and-wheels-vs-quran-35-originator
 title: Coals from between the cherubim; the wheels full of eyes; the glory leaves the temple ↔ The Originator,
   winged angels, and the two seas
-summary: 'These two units share 2 motifs: the form, faces and number of wings of heavenly beings [divergence
-  between the texts], each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four
-  wings and human hands under the wings.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,62 +15,9 @@ layers:
 motifs:
 - form-of-winged-heavenly-beings-as-divergence
 - four-faced-cherubim
-passages:
-- tradition: judaism
-  ref: Ezek 10:21
-  note: 'The form, faces and number of wings of heavenly beings [divergence between the texts] (Winged
-    heavenly beings. Ezek: ʾarbāʿâ ʾarbāʿâ p̄ānîm lə-ʾeḥāḏ wə-ʾarbaʿ kənāp̄ayim lə-ʾeḥāḏ, fixed throne-bearers
-    each with four faces and four wings. Q: jāʿili l-malāʾikati rusulan ulī ajniḥatin mathnā wa-thulātha
-    wa-rubāʿa yazīdu fī l-khalqi mā yashāʾ. The angels are messengers, their wings vary (two, three, four),
-    they have no faces, and God adds as he wills.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַרְבָּעָ֨ה אַרְבָּעָ֤ה פָנִים֙ לְאֶחָ֔ד וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאֶחָ֑ד וּדְמוּת֙ יְדֵ֣י אָדָ֔ם
-    תַּ֖חַת כַּנְפֵיהֶֽם
-- tradition: islam
-  ref: Quran 35:1
-  note: 'The form, faces and number of wings of heavenly beings [divergence between the texts] (Winged
-    heavenly beings. Ezek: ʾarbāʿâ ʾarbāʿâ p̄ānîm lə-ʾeḥāḏ wə-ʾarbaʿ kənāp̄ayim lə-ʾeḥāḏ, fixed throne-bearers
-    each with four faces and four wings. Q: jāʿili l-malāʾikati rusulan ulī ajniḥatin mathnā wa-thulātha
-    wa-rubāʿa yazīdu fī l-khalqi mā yashāʾ. The angels are messengers, their wings vary (two, three, four),
-    they have no faces, and God adds as he wills.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ
-    مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ
-    قَدِيرٌ
-- tradition: judaism
-  ref: Ezek 10:8
-  note: Each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four wings and
-    human hands under the wings (here the first face is 'the face of the cherub' where Ezek 1:10 has an
-    ox)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֖א לַכְּרֻבִ֑ים תַּבְנִית֙ יַד אָדָ֔ם תַּ֖חַת כַּנְפֵיהֶֽם
-- tradition: judaism
-  ref: Ezek 10:14
-  note: Each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four wings and
-    human hands under the wings (here the first face is 'the face of the cherub' where Ezek 1:10 has an
-    ox)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ד פְּנֵ֨י הָאֶחָ֜ד פְּנֵ֣י הַכְּר֗וּב וּפְנֵ֤י הַשֵּׁנִי֙ פְּנֵ֣י
-    אָדָ֔ם וְהַשְּׁלִישִׁי֙ פְּנֵ֣י אַרְיֵ֔ה וְהָרְבִיעִ֖י פְּנֵי נָֽשֶׁר
-- tradition: islam
-  ref: Quran 35:1
-  note: Each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four wings and
-    human hands under the wings (winged angels; here wings in pairs, threes and fours)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ
-    مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ
-    قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Winged heavenly beings. Ezek: ʾarbāʿâ ʾarbāʿâ p̄ānîm lə-ʾeḥāḏ wə-ʾarbaʿ kənāp̄ayim lə-ʾeḥāḏ,
-    fixed throne-bearers each with four faces and four wings. Q: jāʿili l-malāʾikati rusulan ulī ajniḥatin
-    mathnā wa-thulātha wa-rubāʿa yazīdu fī l-khalqi mā yashāʾ. The angels are messengers, their wings
-    vary (two, three, four), they have no faces, and God adds as he wills.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The form, faces and number of wings of heavenly beings [divergence
     between the texts] (weight 6.7); Each cherub or living creature has four faces (human, lion, ox/cherub,
@@ -110,6 +55,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The form, faces and number of wings of heavenly beings
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ezek-10-cherubim-and-wheels
+  title: Coals from between the cherubim; the wheels full of eyes; the glory leaves the temple
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: divergence
+  label: The form, faces and number of wings of heavenly beings
+  note: 'Winged heavenly beings. Ezek: ʾarbāʿâ ʾarbāʿâ p̄ānîm lə-ʾeḥāḏ wə-ʾarbaʿ kənāp̄ayim lə-ʾeḥāḏ,
+    fixed throne-bearers each with four faces and four wings. Q: jāʿili l-malāʾikati rusulan ulī ajniḥatin
+    mathnā wa-thulātha wa-rubāʿa yazīdu fī l-khalqi mā yashāʾ. The angels are messengers, their wings
+    vary (two, three, four), they have no faces, and God adds as he wills.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 10:21
+      lang: he
+      text: אַרְבָּעָ֨ה אַרְבָּעָ֤ה פָנִים֙ לְאֶחָ֔ד וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאֶחָ֑ד וּדְמוּת֙ יְדֵ֣י
+        אָדָ֔ם תַּ֖חַת כַּנְפֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 35:1
+      lang: ar
+      text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ
+        أَجْنِحَةٍ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ
+        كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: Each cherub or living creature has four faces (human, lion, ox/cherub, eagle), four wings and
+    human hands under the wings
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 10:8
+      lang: he
+      text: וַיֵּרָ֖א לַכְּרֻבִ֑ים תַּבְנִית֙ יַד אָדָ֔ם תַּ֖חַת כַּנְפֵיהֶֽם
+    - ref: Ezek 10:14
+      lang: he
+      text: וְאַרְבָּעָ֥ה פָנִ֖ים לְאֶחָ֑ד פְּנֵ֨י הָאֶחָ֜ד פְּנֵ֣י הַכְּר֗וּב וּפְנֵ֤י הַשֵּׁנִי֙ פְּנֵ֣י
+        אָדָ֔ם וְהַשְּׁלִישִׁי֙ פְּנֵ֣י אַרְיֵ֔ה וְהָרְבִיעִ֖י פְּנֵי נָֽשֶׁר
+    - ref: Ezek 10:21
+      lang: he
+      text: אַרְבָּעָ֨ה אַרְבָּעָ֤ה פָנִים֙ לְאֶחָ֔ד וְאַרְבַּ֥ע כְּנָפַ֖יִם לְאֶחָ֑ד וּדְמוּת֙ יְדֵ֣י
+        אָדָ֔ם תַּ֖חַת כַּנְפֵיהֶֽם
+    note: here the first face is 'the face of the cherub' where Ezek 1:10 has an ox
+  - tradition: islam
+    passages:
+    - ref: Quran 35:1
+      lang: ar
+      text: ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ
+        أَجْنِحَةٍ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ
+        كُلِّ شَىْءٍ قَدِيرٌ
+    note: winged angels; here wings in pairs, threes and fours
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-num-13-spies-vs-quran-5-covenant-twelve-chiefs
 title: The twelve spies and their report ↔ Israel's covenant and twelve chiefs; the Christians' forgotten
   portion
-summary: 'These two units share 2 motifs: god raised twelve chieftains (nuqabāʾ) from israel when taking
-  their covenant, twelve men sent to scout the promised land.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,67 +16,9 @@ layers:
 motifs:
 - twelve-chieftains-of-israel
 - spies-sent-to-land
-passages:
-- tradition: judaism
-  ref: Num 13:2
-  note: 'God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant (Q: wa-baʿathnā
-    minhumu thnay ʿashara naqīban (twelve chiefs ''sent/raised''). Num: šəlaḥ-ləkhā ʾănāšîm ... ʾîš ʾeḥād
-    ʾîš ʾeḥād lə-maṭṭēh ʾăvōtāyw ... kōl nāśîʾ vāhem. One chief per tribe. In Q they are tied to taking
-    the covenant, not to scouting.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁלַח לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל
-    אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם
-- tradition: judaism
-  ref: Num 13:3
-  note: 'God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant (Q: wa-baʿathnā
-    minhumu thnay ʿashara naqīban (twelve chiefs ''sent/raised''). Num: šəlaḥ-ləkhā ʾănāšîm ... ʾîš ʾeḥād
-    ʾîš ʾeḥād lə-maṭṭēh ʾăvōtāyw ... kōl nāśîʾ vāhem. One chief per tribe. In Q they are tied to taking
-    the covenant, not to scouting.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י
-    בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה
-- tradition: islam
-  ref: Quran 5:12
-  note: God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا
-    وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم
-    بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
-    وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ
-    فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
-- tradition: judaism
-  ref: Num 13:2
-  note: Twelve men sent to scout the promised land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁלַח לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל
-    אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם
-- tradition: judaism
-  ref: Num 13:3
-  note: Twelve men sent to scout the promised land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י
-    בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה
-- tradition: islam
-  ref: Quran 5:12
-  note: Twelve men sent to scout the promised land (ithnay ʿashara naqīban; exegetes identify them with
-    the twelve scouts (Num 13))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا
-    وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم
-    بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
-    وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ
-    فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-baʿathnā minhumu thnay ʿashara naqīban (twelve chiefs ''sent/raised''). Num: šəlaḥ-ləkhā
-    ʾănāšîm ... ʾîš ʾeḥād ʾîš ʾeḥād lə-maṭṭēh ʾăvōtāyw ... kōl nāśîʾ vāhem. One chief per tribe. In Q
-    they are tied to taking the covenant, not to scouting.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised twelve chieftains (nuqabāʾ) from Israel when taking their
     covenant (weight 6.7); Twelve men sent to scout the promised land (weight 5.8). Pair score 12.5.'
@@ -106,6 +47,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant
+kinds:
+- parallel
+- shared
+units:
+- id: hb-num-13-spies
+  title: The twelve spies and their report
+  tradition: judaism
+- id: quran-5-covenant-twelve-chiefs
+  title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+  tradition: islam
+matches:
+- kind: parallel
+  label: God raised twelve chieftains (nuqabāʾ) from Israel when taking their covenant
+  note: 'Q: wa-baʿathnā minhumu thnay ʿashara naqīban (twelve chiefs ''sent/raised''). Num: šəlaḥ-ləkhā
+    ʾănāšîm ... ʾîš ʾeḥād ʾîš ʾeḥād lə-maṭṭēh ʾăvōtāyw ... kōl nāśîʾ vāhem. One chief per tribe. In Q
+    they are tied to taking the covenant, not to scouting.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 13:2
+      lang: he
+      text: שְׁלַח לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל
+        אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם
+    - ref: Num 13:3
+      lang: he
+      text: וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י
+        בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:12
+      lang: ar
+      text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ
+        نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ
+        وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ
+        عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن
+        كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+- kind: shared
+  label: Twelve men sent to scout the promised land
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 13:2
+      lang: he
+      text: שְׁלַח לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֨רוּ֙ אֶת אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל
+        אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם
+    - ref: Num 13:3
+      lang: he
+      text: וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל פִּ֣י יְהוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י
+        בְנֵֽי יִשְׂרָאֵ֖ל הֵֽמָּה
+    - ref: Num 13:17
+      lang: he
+      text: וַיִּשְׁלַ֤ח אֹתָם֙ מֹשֶׁ֔ה לָת֖וּר אֶת אֶ֣רֶץ כְּנָ֑עַן וַיֹּ֣אמֶר אֲלֵהֶ֗ם עֲל֥וּ זֶה֙ בַּנֶּ֔גֶב
+        וַעֲלִיתֶ֖ם אֶת הָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 5:12
+      lang: ar
+      text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ
+        نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ
+        وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ
+        عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن
+        كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+    note: ithnay ʿashara naqīban; exegetes identify them with the twelve scouts (Num 13)
 ---
 
 ## Questions

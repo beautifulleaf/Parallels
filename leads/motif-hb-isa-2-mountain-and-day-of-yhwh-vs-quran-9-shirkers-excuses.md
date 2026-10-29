@@ -2,8 +2,7 @@
 id: motif-hb-isa-2-mountain-and-day-of-yhwh-vs-quran-9-shirkers-excuses
 title: The mountain of the Lord's house; the Day of YHWH against all that is proud ↔ The excuses of those
   who stayed behind
-summary: 'These two units share 1 motifs: people hide in caves, thickets, rocks and pits from an invading
-  army.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - people-hide-in-caves
-passages:
-- tradition: judaism
-  ref: Isa 2:10
-  note: People hide in caves, thickets, rocks and pits from an invading army (from the terror of YHWH
-    when he rises to terrify the earth)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בּ֣וֹא בַצּ֔וּר וְהִטָּמֵ֖ן בֶּֽעָפָ֑ר מִפְּנֵי֙ פַּ֣חַד יְהוָ֔ה וּמֵהֲדַ֖ר גְּאֹנֽוֹ
-- tradition: judaism
-  ref: Isa 2:19
-  note: People hide in caves, thickets, rocks and pits from an invading army (from the terror of YHWH
-    when he rises to terrify the earth)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֨אוּ֙ בִּמְעָר֣וֹת צֻרִ֔ים וּבִמְחִלּ֖וֹת עָפָ֑ר מִפְּנֵ֞י פַּ֤חַד יְהוָה֙ וּמֵהֲדַ֣ר גְּאוֹנ֔וֹ
-    בְּקוּמ֖וֹ לַעֲרֹ֥ץ הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 9:57
-  note: 'People hide in caves, thickets, rocks and pits from an invading army (Terror drives them into
-    caves: law yajidūna maljaʾan aw maghārātin aw muddakhalan la-wallaw ilayhi wa-hum yajmaḥūn vs ûbāʾû
-    bimʿārôt ṣurîm ûbimḥillôt ʿāpār mippᵉnê paḥad YHWH. Isa: from God''s terror on his day; Q: the shirkers''
-    fear of battle.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Terror drives them into caves: law yajidūna maljaʾan aw maghārātin aw muddakhalan la-wallaw
-    ilayhi wa-hum yajmaḥūn vs ûbāʾû bimʿārôt ṣurîm ûbimḥillôt ʿāpār mippᵉnê paḥad YHWH. Isa: from God''s
-    terror on his day; Q: the shirkers'' fear of battle.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People hide in caves, thickets, rocks and pits from an invading
     army (weight 6.3). Pair score 6.3.'
@@ -79,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People hide in caves, thickets, rocks and pits from an invading army
+kinds:
+- echo
+units:
+- id: hb-isa-2-mountain-and-day-of-yhwh
+  title: The mountain of the Lord's house; the Day of YHWH against all that is proud
+  tradition: judaism
+- id: quran-9-shirkers-excuses
+  title: The excuses of those who stayed behind
+  tradition: islam
+matches:
+- kind: echo
+  label: People hide in caves, thickets, rocks and pits from an invading army
+  note: 'Terror drives them into caves: law yajidūna maljaʾan aw maghārātin aw muddakhalan la-wallaw ilayhi
+    wa-hum yajmaḥūn vs ûbāʾû bimʿārôt ṣurîm ûbimḥillôt ʿāpār mippᵉnê paḥad YHWH. Isa: from God''s terror
+    on his day; Q: the shirkers'' fear of battle.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 2:19
+      lang: he
+      text: וּבָ֨אוּ֙ בִּמְעָר֣וֹת צֻרִ֔ים וּבִמְחִלּ֖וֹת עָפָ֑ר מִפְּנֵ֞י פַּ֤חַד יְהוָה֙ וּמֵהֲדַ֣ר
+        גְּאוֹנ֔וֹ בְּקוּמ֖וֹ לַעֲרֹ֥ץ הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:57
+      lang: ar
+      text: لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ
 ---
 
 ## Questions

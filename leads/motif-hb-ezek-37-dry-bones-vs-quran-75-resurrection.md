@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ezek-37-dry-bones-vs-quran-75-resurrection
 title: 'The valley of dry bones ↔ The resurrection: bones, fingertips and the collarbone'
-summary: 'These two units share 1 motifs: at the prophet''s word there is a rattling; bones come together
-  bone to bone, then sinews, flesh and skin cover them, but there is no breath.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - bones-reassembled-sinews-flesh-skin
-passages:
-- tradition: judaism
-  ref: Ezek 37:4
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (qol ... ra'ash, a noise and a quaking/rattling)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א עַל הָעֲצָמ֣וֹת הָאֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם הָעֲצָמוֹת֙ הַיְבֵשׁ֔וֹת
-    שִׁמְע֖וּ דְּבַר יְהוָֽה
-- tradition: judaism
-  ref: Ezek 37:5
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (qol ... ra'ash, a noise and a quaking/rattling)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם
-- tradition: islam
-  ref: Quran 75:3
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna
-    ʿalā an nusawwiya banānahu ~ wa-ttiqrevû ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... gīdîm û-vāśār ʿālāh wa-yyiqram
-    ʿălêhem ʿôr. Bones gathered and the body restored in detail (sinews, flesh, skin / fingertips). Ezekiel's
-    vision is a figure for national restoration (37:11), the Quran's is the individual's resurrection
-    argued against a skeptic.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ
-- tradition: islam
-  ref: Quran 75:4
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna
-    ʿalā an nusawwiya banānahu ~ wa-ttiqrevû ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... gīdîm û-vāśār ʿālāh wa-yyiqram
-    ʿălêhem ʿôr. Bones gathered and the body restored in detail (sinews, flesh, skin / fingertips). Ezekiel's
-    vision is a figure for national restoration (37:11), the Quran's is the individual's resurrection
-    argued against a skeptic.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna ʿalā an nusawwiya banānahu ~ wa-ttiqrevû
-    ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... gīdîm û-vāśār ʿālāh wa-yyiqram ʿălêhem ʿôr. Bones gathered and the body
-    restored in detail (sinews, flesh, skin / fingertips). Ezekiel''s vision is a figure for national
-    restoration (37:11), the Quran''s is the individual''s resurrection argued against a skeptic.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the prophet''s word there is a rattling; bones come together
     bone to bone, then sinews, flesh and skin cover them, but there is no breath (weight 6.3). Pair score
@@ -96,6 +54,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
+  and skin cover them, but there is no breath
+kinds:
+- parallel
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-75-resurrection
+  title: 'The resurrection: bones, fingertips and the collarbone'
+  tradition: islam
+matches:
+- kind: parallel
+  label: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
+    and skin cover them, but there is no breath
+  note: a-yaḥsabu l-insānu allan najmaʿa ʿiẓāmahu, balā qādirīna ʿalā an nusawwiya banānahu ~ wa-ttiqrevû
+    ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... gīdîm û-vāśār ʿālāh wa-yyiqram ʿălêhem ʿôr. Bones gathered and the body
+    restored in detail (sinews, flesh, skin / fingertips). Ezekiel's vision is a figure for national restoration
+    (37:11), the Quran's is the individual's resurrection argued against a skeptic.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:7
+      lang: he
+      text: וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה רַ֔עַשׁ וַתִּקְרְב֣וּ
+        עֲצָמ֔וֹת עֶ֖צֶם אֶל עַצְמֽוֹ
+    - ref: Ezek 37:8
+      lang: he
+      text: וְרָאִ֜יתִי וְהִנֵּֽה עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה
+        וְר֖וּחַ אֵ֥ין בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 75:3
+      lang: ar
+      text: أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ
+    - ref: Quran 75:4
+      lang: ar
+      text: بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ
 ---
 
 ## Questions

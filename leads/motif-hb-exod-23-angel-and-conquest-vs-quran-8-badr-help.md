@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-23-angel-and-conquest-vs-quran-8-badr-help
 title: The angel sent ahead and promises of conquest ↔ Badr - angels, slumber, rain and God's throw
-summary: 'These two units share 1 motifs: god sends terror ahead to panic the enemies.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - divine-terror-precedes-army
-passages:
-- tradition: judaism
-  ref: Exod 23:27
-  note: God sends terror ahead to panic the enemies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
-    אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
-- tradition: islam
-  ref: Quran 8:12
-  note: God sends terror ahead to panic the enemies (God casts terror (ru'b) into unbelievers' hearts)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
-    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
-    بَنَانٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God sends his terror against the enemy: sa-ulqī fī qulūbi lladhīna kafarū r-ruʿba vs ʾet-ʾêmātî
-    ʾăšallaḥ lᵉpānêkā wᵉhammōtî ʾet-kol-hāʿām ... wᵉnātattî ʾet-kol-ʾōyᵉbêkā ʾēlêkā ʿōrep (enemies turning
-    their backs, cf. Q tuwallūhumu l-adbār in 8:15).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends terror ahead to panic the enemies (weight 6.0). Pair score
     6.0.'
@@ -64,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends terror ahead to panic the enemies
+kinds:
+- parallel
+units:
+- id: hb-exod-23-angel-and-conquest
+  title: The angel sent ahead and promises of conquest
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends terror ahead to panic the enemies
+  note: 'God sends his terror against the enemy: sa-ulqī fī qulūbi lladhīna kafarū r-ruʿba vs ʾet-ʾêmātî
+    ʾăšallaḥ lᵉpānêkā wᵉhammōtî ʾet-kol-hāʿām ... wᵉnātattî ʾet-kol-ʾōyᵉbêkā ʾēlêkā ʿōrep (enemies turning
+    their backs, cf. Q tuwallūhumu l-adbār in 8:15).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:27
+      lang: he
+      text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
+        אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
+  - tradition: islam
+    passages:
+    - ref: Quran 8:12
+      lang: ar
+      text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟
+        سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟
+        مِنْهُمْ كُلَّ بَنَانٍ
 ---
 
 ## Questions

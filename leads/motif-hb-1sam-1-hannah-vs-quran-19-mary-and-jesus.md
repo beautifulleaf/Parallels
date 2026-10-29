@@ -2,7 +2,7 @@
 id: motif-hb-1sam-1-hannah-vs-quran-19-mary-and-jesus
 title: Hannah's vow and Samuel's birth ↔ Mary, the spirit in human form, the birth under the palm, the
   speaking infant (Surah 19:16-40)
-summary: 'These two units share 1 motifs: mother keeps a vow of silence [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - vow-of-silence-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Sam 1:11
-  note: 'Mother keeps a vow of silence [divergence between the texts] (wattiddōr neder ... ûnətattîw laYHWH
-    kol-yəmê ḥayyāyw; innī nadhartu li-r-Raḥmāni ṣawman fa-lan ukallima l-yawma insiyyā: a mother''s vow
-    (neder / nadhr, cognate) bound up with her child. Hannah vows the child to God; Maryam vows silence
-    and lets the child speak for her.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
-    וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל
-    יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
-- tradition: islam
-  ref: Quran 19:26
-  note: 'Mother keeps a vow of silence [divergence between the texts] (wattiddōr neder ... ûnətattîw laYHWH
-    kol-yəmê ḥayyāyw; innī nadhartu li-r-Raḥmāni ṣawman fa-lan ukallima l-yawma insiyyā: a mother''s vow
-    (neder / nadhr, cognate) bound up with her child. Hannah vows the child to God; Maryam vows silence
-    and lets the child speak for her.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى
-    نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. wattiddōr neder ... ûnətattîw laYHWH kol-yəmê ḥayyāyw; innī nadhartu li-r-Raḥmāni ṣawman
-    fa-lan ukallima l-yawma insiyyā: a mother''s vow (neder / nadhr, cognate) bound up with her child.
-    Hannah vows the child to God; Maryam vows silence and lets the child speak for her.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mother keeps a vow of silence [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -73,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mother keeps a vow of silence
+kinds:
+- divergence
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Mother keeps a vow of silence
+  note: 'wattiddōr neder ... ûnətattîw laYHWH kol-yəmê ḥayyāyw; innī nadhartu li-r-Raḥmāni ṣawman fa-lan
+    ukallima l-yawma insiyyā: a mother''s vow (neder / nadhr, cognate) bound up with her child. Hannah
+    vows the child to God; Maryam vows silence and lets the child speak for her.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:11
+      lang: he
+      text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
+        וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙
+        כָּל יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:26
+      lang: ar
+      text: فَكُلِى وَٱشْرَبِى وَقَرِّى عَيْنًا فَإِمَّا تَرَيِنَّ مِنَ ٱلْبَشَرِ أَحَدًا فَقُولِىٓ إِنِّى
+        نَذَرْتُ لِلرَّحْمَٰنِ صَوْمًا فَلَنْ أُكَلِّمَ ٱلْيَوْمَ إِنسِيًّا
 ---
 
 ## Questions

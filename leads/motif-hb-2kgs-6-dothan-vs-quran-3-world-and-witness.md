@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-6-dothan-vs-quran-3-world-and-witness
 title: Elisha at Dothan; the blinded Arameans ↔ The two hosts, worldly lures, God's witness
-summary: 'These two units share 1 motifs: ''do not fear, for those with us are more than those with them''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,40 +13,9 @@ layers:
 - motif
 motifs:
 - more-with-us-than-with-them
-passages:
-- tradition: judaism
-  ref: 2Kgs 6:16
-  note: '''Do not fear, for those with us are more than those with them'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר אַל תִּירָ֑א כִּ֤י רַבִּים֙ אֲשֶׁ֣ר אִתָּ֔נוּ מֵאֲשֶׁ֖ר אוֹתָֽם
-- tradition: judaism
-  ref: 2Kgs 6:17
-  note: '''Do not fear, for those with us are more than those with them'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֤ל אֱלִישָׁע֙ וַיֹּאמַ֔ר יְהוָ֕ה פְּקַח נָ֥א אֶת עֵינָ֖יו וְיִרְאֶ֑ה וַיִּפְקַ֤ח
-    יְהוָה֙ אֶת עֵינֵ֣י הַנַּ֔עַר וַיַּ֗רְא וְהִנֵּ֨ה הָהָ֜ר מָלֵ֨א סוּסִ֥ים וְרֶ֛כֶב אֵ֖שׁ סְבִיבֹ֥ת
-    אֱלִישָֽׁע
-- tradition: islam
-  ref: Quran 3:13
-  note: '''Do not fear, for those with us are more than those with them'' (2Kgs 6:16-17 ʾal tîrāʾ kî rabbîm
-    ʾăšer ʾittānû mē-ʾăšer ʾôtām ... wa-yyipqaḥ YHWH ʾet ʿênê ha-nnaʿar wa-yyarʾ: God opens the servant''s
-    eyes to see that those with them outnumber the enemy; Q 3:13 qad kāna lakum āyatun fī fiʾatayni ltaqatā
-    ... yarawnahum mithlayhim raʾya l-ʿayni: a sign in two hosts, one seeing the other as twice its number
-    with their own eyes. God alters what is seen of the numbers in battle, as a sign (ʿibra li-ulī l-abṣār).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا فِئَةٌ تُقَٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ
-    كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ
-    إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَٰرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 2Kgs 6:16-17 ʾal tîrāʾ kî rabbîm ʾăšer ʾittānû mē-ʾăšer ʾôtām ... wa-yyipqaḥ YHWH ʾet ʿênê ha-nnaʿar
-    wa-yyarʾ: God opens the servant''s eyes to see that those with them outnumber the enemy; Q 3:13 qad
-    kāna lakum āyatun fī fiʾatayni ltaqatā ... yarawnahum mithlayhim raʾya l-ʿayni: a sign in two hosts,
-    one seeing the other as twice its number with their own eyes. God alters what is seen of the numbers
-    in battle, as a sign (ʿibra li-ulī l-abṣār).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Do not fear, for those with us are more than those with them''
     (weight 6.3). Pair score 6.3.'
@@ -75,6 +44,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Do not fear, for those with us are more than those with them'''
+kinds:
+- echo
+units:
+- id: hb-2kgs-6-dothan
+  title: Elisha at Dothan; the blinded Arameans
+  tradition: judaism
+- id: quran-3-world-and-witness
+  title: The two hosts, worldly lures, God's witness
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Do not fear, for those with us are more than those with them'''
+  note: '2Kgs 6:16-17 ʾal tîrāʾ kî rabbîm ʾăšer ʾittānû mē-ʾăšer ʾôtām ... wa-yyipqaḥ YHWH ʾet ʿênê ha-nnaʿar
+    wa-yyarʾ: God opens the servant''s eyes to see that those with them outnumber the enemy; Q 3:13 qad
+    kāna lakum āyatun fī fiʾatayni ltaqatā ... yarawnahum mithlayhim raʾya l-ʿayni: a sign in two hosts,
+    one seeing the other as twice its number with their own eyes. God alters what is seen of the numbers
+    in battle, as a sign (ʿibra li-ulī l-abṣār).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 6:16
+      lang: he
+      text: וַיֹּ֖אמֶר אַל תִּירָ֑א כִּ֤י רַבִּים֙ אֲשֶׁ֣ר אִתָּ֔נוּ מֵאֲשֶׁ֖ר אוֹתָֽם
+    - ref: 2Kgs 6:17
+      lang: he
+      text: וַיִּתְפַּלֵּ֤ל אֱלִישָׁע֙ וַיֹּאמַ֔ר יְהוָ֕ה פְּקַח נָ֥א אֶת עֵינָ֖יו וְיִרְאֶ֑ה וַיִּפְקַ֤ח
+        יְהוָה֙ אֶת עֵינֵ֣י הַנַּ֔עַר וַיַּ֗רְא וְהִנֵּ֨ה הָהָ֜ר מָלֵ֨א סוּסִ֥ים וְרֶ֛כֶב אֵ֖שׁ סְבִיבֹ֥ת
+        אֱלִישָֽׁע
+  - tradition: islam
+    passages:
+    - ref: Quran 3:13
+      lang: ar
+      text: قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا فِئَةٌ تُقَٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ
+        كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ
+        إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَٰرِ
 ---
 
 ## Questions

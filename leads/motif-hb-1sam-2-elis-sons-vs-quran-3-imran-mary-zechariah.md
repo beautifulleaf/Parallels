@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-2-elis-sons-vs-quran-3-imran-mary-zechariah
 title: Sins of Eli's sons and the oracle against Eli's house ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 1 motifs: child raised in the sanctuary or temple.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - child-raised-in-sanctuary
-passages:
-- tradition: judaism
-  ref: 1Sam 2:11
-  note: Child raised in the sanctuary or temple (Linen ephod; grows 'in favor with YHWH and with men')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת פְּנֵ֖י
-    עֵלִ֥י הַכֹּהֵֽן
-- tradition: judaism
-  ref: 1Sam 2:18
-  note: Child raised in the sanctuary or temple (Linen ephod; grows 'in favor with YHWH and with men')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁמוּאֵ֕ל מְשָׁרֵ֖ת אֶת פְּנֵ֣י יְהוָ֑ה נַ֕עַר חָג֖וּר אֵפ֥וֹד בָּֽד
-- tradition: islam
-  ref: Quran 3:37
-  note: Child raised in the sanctuary or temple
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
-    كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
-    لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. 1Sam 2:11, 21 wĕ-ha-nnaʿar hāyâ mĕšārēt ʾet YHWH ʾet pĕnê ʿēlî ha-kkōhēn ... wa-yyigdal
-    ha-nnaʿar šĕmûʾēl ʿim YHWH: the dedicated boy grows up in the sanctuary in the care of the priest
-    Eli; Q 3:37 wa-anbatahā nabātan ḥasanan wa-kaffalahā zakariyyā kullamā dakhala ʿalayhā zakariyyā l-miḥrāba:
-    the dedicated girl grows up in the sanctuary in the care of the priest Zechariah. Boy to girl; Eli
-    to Zechariah.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Child raised in the sanctuary or temple (weight 5.4). Pair score
     5.4.'
@@ -71,6 +45,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Child raised in the sanctuary or temple
+kinds:
+- parallel
+units:
+- id: hb-1sam-2-elis-sons
+  title: Sins of Eli's sons and the oracle against Eli's house
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: parallel
+  label: Child raised in the sanctuary or temple
+  note: '1Sam 2:11, 21 wĕ-ha-nnaʿar hāyâ mĕšārēt ʾet YHWH ʾet pĕnê ʿēlî ha-kkōhēn ... wa-yyigdal ha-nnaʿar
+    šĕmûʾēl ʿim YHWH: the dedicated boy grows up in the sanctuary in the care of the priest Eli; Q 3:37
+    wa-anbatahā nabātan ḥasanan wa-kaffalahā zakariyyā kullamā dakhala ʿalayhā zakariyyā l-miḥrāba: the
+    dedicated girl grows up in the sanctuary in the care of the priest Zechariah. Boy to girl; Eli to
+    Zechariah.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:11
+      lang: he
+      text: וַיֵּ֧לֶךְ אֶלְקָנָ֛ה הָרָמָ֖תָה עַל בֵּית֑וֹ וְהַנַּ֗עַר הָיָ֤ה מְשָׁרֵת֙ אֶת יְהוָ֔ה אֶת
+        פְּנֵ֖י עֵלִ֥י הַכֹּהֵֽן
+    - ref: 1Sam 2:21
+      lang: he
+      text: כִּֽי פָקַ֤ד יְהוָה֙ אֶת חַנָּ֔ה וַתַּ֛הַר וַתֵּ֥לֶד שְׁלֹשָֽׁה בָנִ֖ים וּשְׁתֵּ֣י בָנ֑וֹת
+        וַיִּגְדַּ֛ל הַנַּ֥עַר שְׁמוּאֵ֖ל עִם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:37
+      lang: ar
+      text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
+        كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
+        لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 ---
 
 ## Questions

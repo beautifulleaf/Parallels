@@ -2,7 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: The Decalogue restated and the people's fear at Horeb ↔ Kindness to parents, thirty months of bearing
   and weaning, the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 1 motifs: honor father and mother, with the promise of long life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - honor-parents-long-life
-passages:
-- tradition: judaism
-  ref: Deut 5:16
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 46:15
-  note: Honor father and mother, with the promise of long life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا
-    وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ
-    سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ
-    وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى
-    مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. kabbēḏ ʾeṯ ʾāḇîḵā wə-ʾeṯ ʾimmeḵā kaʾăšer ṣiwwəḵā YHWH ... ləmaʿan yîṭaḇ lāḵ vs. wa-waṣṣaynā
-    l-insāna bi-wālidayhi iḥsānan. Deuteronomy''s ''as YHWH commanded you'' (ṣiwwəḵā) matches the Quran''s
-    ''we enjoined'' (waṣṣaynā), both from the root ṣ-w-y.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3).
     Pair score 5.3.'
@@ -74,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- echo
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: echo
+  label: Honor father and mother, with the promise of long life
+  note: kabbēḏ ʾeṯ ʾāḇîḵā wə-ʾeṯ ʾimmeḵā kaʾăšer ṣiwwəḵā YHWH ... ləmaʿan yîṭaḇ lāḵ vs. wa-waṣṣaynā l-insāna
+    bi-wālidayhi iḥsānan. Deuteronomy's 'as YHWH commanded you' (ṣiwwəḵā) matches the Quran's 'we enjoined'
+    (waṣṣaynā), both from the root ṣ-w-y.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:16
+      lang: he
+      text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+        יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:15
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ
+        كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ
+        أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ
+        وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى
+        تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-44-national-lament-vs-quran-28-destroyed-towns-and-judgment
 title: Psalm 44 - national lament; why do you sleep, O Lord ↔ Towns destroyed for ingratitude; 'Where
   are my partners?'; perpetual night and day
-summary: 'These two units share 2 motifs: god knows the secrets of the heart (ta''alumot lev), god alone
-  knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 motifs:
 - god-knows-secrets-of-heart
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: Ps 44:22
-  note: God knows the secrets of the heart (ta'alumot lev)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
-- tradition: islam
-  ref: Quran 28:69
-  note: 'God knows the secrets of the heart (ta''alumot lev) (yaʿlamu mā tukinnu ṣudūruhum ~ kî hûʾ yōdēaʿ
-    taʿălumôt lēv: God knows the secrets of the heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
-- tradition: judaism
-  ref: Ps 44:22
-  note: God alone knows the hearts of all humans (kî hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. innahu ʿalīmun bi-dhāti
-    ṣ-ṣudūr. In the psalm a protest of innocence (God would know if we had spread our hands to a strange
-    god); in the Quran it closes the reply to the charge that the Prophet forged (iftarā) the message.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
-- tradition: islam
-  ref: Quran 28:69
-  note: God alone knows the hearts of all humans
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yaʿlamu mā tukinnu ṣudūruhum ~ kî hûʾ yōdēaʿ taʿălumôt lēv: God knows the secrets of the heart.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God knows the secrets of the heart (ta''alumot lev) (weight 6.0);
     God alone knows the hearts of all humans (weight 5.0). Pair score 11.0.'
@@ -80,6 +51,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God knows the secrets of the heart (ta'alumot lev)
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-28-destroyed-towns-and-judgment
+  title: Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night and day
+  tradition: islam
+matches:
+- kind: echo
+  label: God knows the secrets of the heart (ta'alumot lev)
+  note: 'yaʿlamu mā tukinnu ṣudūruhum ~ kî hûʾ yōdēaʿ taʿălumôt lēv: God knows the secrets of the heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:22
+      lang: he
+      text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 28:69
+      lang: ar
+      text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+- kind: shared
+  label: God alone knows the hearts of all humans
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:22
+      lang: he
+      text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
+    note: kî hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. innahu ʿalīmun bi-dhāti ṣ-ṣudūr. In the psalm a protest of innocence
+      (God would know if we had spread our hands to a strange god); in the Quran it closes the reply to
+      the charge that the Prophet forged (iftarā) the message.
+  - tradition: islam
+    passages:
+    - ref: Quran 28:69
+      lang: ar
+      text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
 ---
 
 ## Questions

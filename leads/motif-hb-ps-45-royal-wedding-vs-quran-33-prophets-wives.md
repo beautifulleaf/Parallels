@@ -2,8 +2,7 @@
 id: motif-hb-ps-45-royal-wedding-vs-quran-33-prophets-wives
 title: Psalm 45 - royal wedding song ↔ The prophet's wives, the people of the House, and the believers
   men and women
-summary: 'These two units share 1 motifs: the prophet''s wives are to stay in their houses, not soften
-  their speech, and not display themselves as in the former jahiliyya.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-wives-stay-in-houses
-passages:
-- tradition: judaism
-  ref: Ps 45:14
-  note: 'The prophet''s wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya (kol-kəḇûddāh ḇaṯ-meleḵ pənîmâ (all glorious is the king''s daughter within)
-    vs. wa-qarna fī buyūtikunna wa-lā tabarrajna: the royal or prophetic woman kept inside. The psalm
-    praises it, the Quran commands it. The rabbinic use of Ps 45:14 as a modesty rule is later and goes
-    under cf. only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל כְּבוּדָּ֣ה בַת מֶ֣לֶךְ פְּנִ֑ימָה מִֽמִּשְׁבְּצ֖וֹת זָהָ֣ב לְבוּשָֽׁהּ
-- tradition: islam
-  ref: Quran 33:32
-  note: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ
-    بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا
-- tradition: islam
-  ref: Quran 33:33
-  note: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ
-    وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ
-    ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kol-kəḇûddāh ḇaṯ-meleḵ pənîmâ (all glorious is the king''s daughter within) vs. wa-qarna fī
-    buyūtikunna wa-lā tabarrajna: the royal or prophetic woman kept inside. The psalm praises it, the
-    Quran commands it. The rabbinic use of Ps 45:14 as a modesty rule is later and goes under cf. only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives are to stay in their houses, not soften their
     speech, and not display themselves as in the former Jahiliyya (weight 6.3). Pair score 6.3.'
@@ -78,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
+  as in the former Jahiliyya
+kinds:
+- echo
+units:
+- id: hb-ps-45-royal-wedding
+  title: Psalm 45 - royal wedding song
+  tradition: judaism
+- id: quran-33-prophets-wives
+  title: The prophet's wives, the people of the House, and the believers men and women
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
+    as in the former Jahiliyya
+  note: 'kol-kəḇûddāh ḇaṯ-meleḵ pənîmâ (all glorious is the king''s daughter within) vs. wa-qarna fī buyūtikunna
+    wa-lā tabarrajna: the royal or prophetic woman kept inside. The psalm praises it, the Quran commands
+    it. The rabbinic use of Ps 45:14 as a modesty rule is later and goes under cf. only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 45:14
+      lang: he
+      text: כָּל כְּבוּדָּ֣ה בַת מֶ֣לֶךְ פְּנִ֑ימָה מִֽמִּשְׁבְּצ֖וֹת זָהָ֣ב לְבוּשָֽׁהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:33
+      lang: ar
+      text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ
+        ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ
+        عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 ---
 
 ## Questions

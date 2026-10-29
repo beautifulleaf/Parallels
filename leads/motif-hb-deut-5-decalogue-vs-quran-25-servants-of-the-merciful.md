@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-5-decalogue-vs-quran-25-servants-of-the-merciful
 title: The Decalogue restated and the people's fear at Horeb ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 2 motifs: prohibitions of murder, adultery, theft and false witness [divergence
-  between the texts], prohibitions of murder, adultery, theft and false witness.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,84 +15,9 @@ layers:
 motifs:
 - prohibition-murder-adultery-theft-false-witness-as-divergence
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Deut 5:17
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 25:68
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
-- tradition: islam
-  ref: Quran 25:72
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 25:68
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
-- tradition: islam
-  ref: Quran 25:72
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-lā yaqtulūna ... wa-lā yaznūna ... lā yashhadūna z-zūra ~ lōʾ tirṣāḥ wə-lōʾ tinʾāf ...
-    wə-lōʾ taʿăneh və-rēʿăkā ʿēd šāwʾ: Deut''s ''empty witness'' (ʿēd šāwʾ) is closer to the Quran''s
-    zūr (falsehood) than Exodus'' ʿēd šāqer. See the note on Exod 20.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
     between the texts] (weight 5.8); Prohibitions of murder, adultery, theft and false witness (weight
@@ -127,6 +51,77 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibitions of murder, adultery, theft and false witness
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'wa-lā yaqtulūna ... wa-lā yaznūna ... lā yashhadūna z-zūra ~ lōʾ tirṣāḥ wə-lōʾ tinʾāf ... wə-lōʾ
+    taʿăneh və-rēʿăkā ʿēd šāwʾ: Deut''s ''empty witness'' (ʿēd šāwʾ) is closer to the Quran''s zūr (falsehood)
+    than Exodus'' ʿēd šāqer. See the note on Exod 20.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:20
+      lang: he
+      text: וְלֹֽא תַעֲנֶ֥ה בְרֵֽעֲךָ֖ עֵ֥ד שָֽׁוְא
+  - tradition: islam
+    passages:
+    - ref: Quran 25:68
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى
+        حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
+    - ref: Quran 25:72
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+- kind: shared
+  label: Prohibitions of murder, adultery, theft and false witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:20
+      lang: he
+      text: וְלֹֽא תַעֲנֶ֥ה בְרֵֽעֲךָ֖ עֵ֥ד שָֽׁוְא
+    note: 'Deut: lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies
+      and widens: wa-lā taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā
+      taqrabū l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum
+      fa-ʿdilū wa-law kāna dhā qurbā (just speech even against kin). Theft is absent.'
+  - tradition: islam
+    passages:
+    - ref: Quran 25:68
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى
+        حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
+    - ref: Quran 25:72
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+    note: 'The same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa
+      llāhi ilāhan ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ...
+      lā yashhadūna z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh
+      və-rēʿăkā ʿēd šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā
+      bi-l-ḥaqq); theft is left out; the commands become a description of the righteous (alladhīna lā
+      ...), followed by doubled punishment and an exception for those who repent (25:69-70).'
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-15-covenant-between-pieces-vs-quran-37-sacrifice-of-son
 title: The covenant between the pieces ↔ Abraham's dream and the near-sacrifice of his son
-summary: 'These two units share 1 motifs: a divine messenger announces a son''s birth and gives his name.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,45 +13,9 @@ layers:
 - motif
 motifs:
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: Gen 15:2
-  note: 'A divine messenger announces a son''s birth and gives his name (The childless patriarch asks
-    and is promised a son: mah-titten-lî wə-ʾānōḵî hôlēḵ ʿărîrî ... kî ʾim-ʾăšer yēṣēʾ mi-mmēʿeyḵā vs.
-    rabbi hab lī mina ṣ-ṣāliḥīna fa-bashsharnāhu bi-ghulāmin ḥalīm. Abram complains; Abraham in Q prays
-    for a righteous son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אַבְרָ֗ם אֲדֹנָ֤י יֱהוִה֙ מַה תִּתֶּן לִ֔י וְאָנֹכִ֖י הוֹלֵ֣ךְ עֲרִירִ֑י וּבֶן מֶ֣שֶׁק
-    בֵּיתִ֔י ה֖וּא דַּמֶּ֥שֶׂק אֱלִיעֶֽזֶר
-- tradition: judaism
-  ref: Gen 15:3
-  note: 'A divine messenger announces a son''s birth and gives his name (The childless patriarch asks
-    and is promised a son: mah-titten-lî wə-ʾānōḵî hôlēḵ ʿărîrî ... kî ʾim-ʾăšer yēṣēʾ mi-mmēʿeyḵā vs.
-    rabbi hab lī mina ṣ-ṣāliḥīna fa-bashsharnāhu bi-ghulāmin ḥalīm. Abram complains; Abraham in Q prays
-    for a righteous son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אַבְרָ֔ם הֵ֣ן לִ֔י לֹ֥א נָתַ֖תָּה זָ֑רַע וְהִנֵּ֥ה בֶן בֵּיתִ֖י יוֹרֵ֥שׁ אֹתִֽי
-- tradition: islam
-  ref: Quran 37:101
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ
-- tradition: islam
-  ref: Quran 37:112
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. The childless patriarch asks and is promised a son: mah-titten-lî wə-ʾānōḵî hôlēḵ ʿărîrî ...
-    kî ʾim-ʾăšer yēṣēʾ mi-mmēʿeyḵā vs. rabbi hab lī mina ṣ-ṣāliḥīna fa-bashsharnāhu bi-ghulāmin ḥalīm.
-    Abram complains; Abraham in Q prays for a righteous son.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
     5.2). Pair score 5.2.'
@@ -84,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son's birth and gives his name
+kinds:
+- echo
+units:
+- id: hb-gen-15-covenant-between-pieces
+  title: The covenant between the pieces
+  tradition: judaism
+- id: quran-37-sacrifice-of-son
+  title: Abraham's dream and the near-sacrifice of his son
+  tradition: islam
+matches:
+- kind: echo
+  label: A divine messenger announces a son's birth and gives his name
+  note: 'The childless patriarch asks and is promised a son: mah-titten-lî wə-ʾānōḵî hôlēḵ ʿărîrî ...
+    kî ʾim-ʾăšer yēṣēʾ mi-mmēʿeyḵā vs. rabbi hab lī mina ṣ-ṣāliḥīna fa-bashsharnāhu bi-ghulāmin ḥalīm.
+    Abram complains; Abraham in Q prays for a righteous son.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 15:2
+      lang: he
+      text: וַיֹּ֣אמֶר אַבְרָ֗ם אֲדֹנָ֤י יֱהוִה֙ מַה תִּתֶּן לִ֔י וְאָנֹכִ֖י הוֹלֵ֣ךְ עֲרִירִ֑י וּבֶן
+        מֶ֣שֶׁק בֵּיתִ֔י ה֖וּא דַּמֶּ֥שֶׂק אֱלִיעֶֽזֶר
+    - ref: Gen 15:3
+      lang: he
+      text: וַיֹּ֣אמֶר אַבְרָ֔ם הֵ֣ן לִ֔י לֹ֥א נָתַ֖תָּה זָ֑רַע וְהִנֵּ֥ה בֶן בֵּיתִ֖י יוֹרֵ֥שׁ אֹתִֽי
+    - ref: Gen 15:4
+      lang: he
+      text: וְהִנֵּ֨ה דְבַר יְהוָ֤ה אֵלָיו֙ לֵאמֹ֔ר לֹ֥א יִֽירָשְׁךָ֖ זֶ֑ה כִּי אִם֙ אֲשֶׁ֣ר יֵצֵ֣א מִמֵּעֶ֔יךָ
+        ה֖וּא יִֽירָשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:100
+      lang: ar
+      text: رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 37:101
+      lang: ar
+      text: فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ
 ---
 
 ## Questions

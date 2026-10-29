@@ -2,8 +2,7 @@
 id: motif-hb-exod-22-property-laws-vs-quran-21-noah-david-solomon
 title: Covenant Code - theft, deposits, seduction ↔ Noah answered; David and Solomon's judgment, the praising
   mountains, mail and wind
-summary: 'These two units share 1 motifs: liability for one''s grazing animals or spreading fire damaging
-  another''s field.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - grazing-and-fire-damage-liability
-passages:
-- tradition: judaism
-  ref: Exod 22:4
-  note: Liability for one's grazing animals or spreading fire damaging another's field
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י יַבְעֶר אִישׁ֙ שָׂדֶ֣ה אוֹ כֶ֔רֶם וְשִׁלַּח֙ אֶת בעירה בְּעִיר֔וֹ וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר
-    מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם
-- tradition: judaism
-  ref: Exod 22:5
-  note: Liability for one's grazing animals or spreading fire damaging another's field
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תֵצֵ֨א אֵ֜שׁ וּמָצְאָ֤ה קֹצִים֙ וְנֶאֱכַ֣ל גָּדִ֔ישׁ א֥וֹ הַקָּמָ֖ה א֣וֹ הַשָּׂדֶ֑ה שַׁלֵּ֣ם
-    יְשַׁלֵּ֔ם הַמַּבְעִ֖ר אֶת הַבְּעֵרָֽה
-- tradition: islam
-  ref: Quran 21:78
-  note: Liability for one's grazing animals or spreading fire damaging another's field (compare the law
-    of Exod 22:4)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا
-    لِحُكْمِهِمْ شَٰهِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. kî yabʿer-ʾîš śādeh ʾô-kerem wəšillaḥ ʾet-bəʿîrô ûbiʿēr biśdēh ʾaḥēr mêṭab śādēhû ... yəšallēm;
-    idh yaḥkumāni fī l-ḥarthi idh nafashat fīhi ghanamu l-qawm: a flock straying into another''s field
-    and the owner''s liability. Exod states a general law of compensation; Q tells it as a case judged
-    by David and Solomon.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Liability for one''s grazing animals or spreading fire damaging
     another''s field (weight 6.7). Pair score 6.7.'
@@ -75,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Liability for one's grazing animals or spreading fire damaging another's field
+kinds:
+- parallel
+units:
+- id: hb-exod-22-property-laws
+  title: Covenant Code - theft, deposits, seduction
+  tradition: judaism
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: parallel
+  label: Liability for one's grazing animals or spreading fire damaging another's field
+  note: 'kî yabʿer-ʾîš śādeh ʾô-kerem wəšillaḥ ʾet-bəʿîrô ûbiʿēr biśdēh ʾaḥēr mêṭab śādēhû ... yəšallēm;
+    idh yaḥkumāni fī l-ḥarthi idh nafashat fīhi ghanamu l-qawm: a flock straying into another''s field
+    and the owner''s liability. Exod states a general law of compensation; Q tells it as a case judged
+    by David and Solomon.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:4
+      lang: he
+      text: כִּ֤י יַבְעֶר אִישׁ֙ שָׂדֶ֣ה אוֹ כֶ֔רֶם וְשִׁלַּח֙ אֶת בעירה בְּעִיר֔וֹ וּבִעֵ֖ר בִּשְׂדֵ֣ה
+        אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 21:78
+      lang: ar
+      text: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ
+        وَكُنَّا لِحُكْمِهِمْ شَٰهِدِينَ
 ---
 
 ## Questions

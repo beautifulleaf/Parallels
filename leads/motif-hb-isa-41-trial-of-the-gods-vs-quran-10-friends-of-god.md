@@ -2,7 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-10-friends-of-god
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ Healing for hearts, the atom's weight, God has no son
-summary: 'These two units share 1 motifs: god''s friends (awliya'') have no fear and will not grieve.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - friends-of-god-no-fear
-passages:
-- tradition: judaism
-  ref: Isa 41:8
-  note: 'God''s friends (awliya'') have no fear and will not grieve (God''s friends need not fear: alā
-    inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ
-    kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham''s seed; Q to all who believe and fear God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי
-- tradition: judaism
-  ref: Isa 41:10
-  note: 'God''s friends (awliya'') have no fear and will not grieve (God''s friends need not fear: alā
-    inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ
-    kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham''s seed; Q to all who believe and fear God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּירָא֙ כִּ֣י עִמְּךָ אָ֔נִי אַל תִּשְׁתָּ֖ע כִּֽי אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֨יךָ֙ אַף
-    עֲזַרְתִּ֔יךָ אַף תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי
-- tradition: islam
-  ref: Quran 10:62
-  note: God's friends (awliya') have no fear and will not grieve
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-- tradition: islam
-  ref: Quran 10:63
-  note: God's friends (awliya') have no fear and will not grieve
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s friends need not fear: alā inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn
-    vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham''s seed;
-    Q to all who believe and fear God.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s friends (awliya'') have no fear and will not grieve (weight
     6.7). Pair score 6.7.'
@@ -81,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's friends (awliya') have no fear and will not grieve
+kinds:
+- echo
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: echo
+  label: God's friends (awliya') have no fear and will not grieve
+  note: 'God''s friends need not fear: alā inna awliyāʾa llāhi lā khawfun ʿalayhim wa-lā hum yaḥzanūn
+    vs zeraʿ ʾabrāhām ʾōhăbî ... ʾal-tîrāʾ kî ʿimmᵉkā-ʾānî ʾal-tištāʿ. Isa says it to Abraham''s seed;
+    Q to all who believe and fear God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:8
+      lang: he
+      text: וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי
+    - ref: Isa 41:10
+      lang: he
+      text: אַל תִּירָא֙ כִּ֣י עִמְּךָ אָ֔נִי אַל תִּשְׁתָּ֖ע כִּֽי אֲנִ֣י אֱלֹהֶ֑יךָ אִמַּצְתִּ֨יךָ֙
+        אַף עֲזַרְתִּ֔יךָ אַף תְּמַכְתִּ֖יךָ בִּימִ֥ין צִדְקִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 10:62
+      lang: ar
+      text: أَلَآ إِنَّ أَوْلِيَآءَ ٱللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+    - ref: Quran 10:63
+      lang: ar
+      text: ٱلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ
 ---
 
 ## Questions

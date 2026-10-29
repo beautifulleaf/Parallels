@@ -2,8 +2,7 @@
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-44-dukhan-pharaoh-drowned
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ Moses asks Pharaoh to
   hand over God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 2 motifs: how israel leaves egypt by night: expelled, or secretly [divergence
-  between the texts], sacrificial meal eaten in haste, loins girded, sandals on, staff in hand.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,59 +15,9 @@ layers:
 motifs:
 - night-departure-from-egypt-as-divergence
 - eaten-in-haste-dressed-for-journey
-passages:
-- tradition: judaism
-  ref: Exod 12:31
-  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
-    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
-    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
-    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
-    no expulsion and no request for a blessing.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֩ לְמֹשֶׁ֨ה וּֽלְאַהֲרֹ֜ן לַ֗יְלָה וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִתּ֣וֹךְ עַמִּ֔י גַּם
-    אַתֶּ֖ם גַּם בְּנֵ֣י יִשְׂרָאֵ֑ל וּלְכ֛וּ עִבְד֥וּ אֶת יְהוָ֖ה כְּדַבֶּרְכֶֽם
-- tradition: judaism
-  ref: Exod 12:32
-  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
-    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
-    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
-    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
-    no expulsion and no request for a blessing.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם צֹאנְכֶ֨ם גַּם בְּקַרְכֶ֥ם קְח֛וּ כַּאֲשֶׁ֥ר דִּבַּרְתֶּ֖ם וָלֵ֑כוּ וּבֵֽרַכְתֶּ֖ם גַּם אֹתִֽי
-- tradition: islam
-  ref: Quran 44:23
-  note: 'How Israel leaves Egypt by night: expelled, or secretly [divergence between the texts] (A night
-    departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû ṣəʾû mit-tôḵ
-    ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām). Quran:
-    God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit foretold,
-    no expulsion and no request for a blessing.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
-- tradition: judaism
-  ref: Exod 12:11
-  note: Sacrificial meal eaten in haste, loins girded, sandals on, staff in hand (loins girded, sandals
-    on, staff in hand, be-hippazon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָכָה֮ תֹּאכְל֣וּ אֹתוֹ֒ מָתְנֵיכֶ֣ם חֲגֻרִ֔ים נַֽעֲלֵיכֶם֙ בְּרַגְלֵיכֶ֔ם וּמַקֶּלְכֶ֖ם בְּיֶדְכֶ֑ם
-    וַאֲכַלְתֶּ֤ם אֹתוֹ֙ בְּחִפָּז֔וֹן פֶּ֥סַח ה֖וּא לַיהוָֽה
-- tradition: islam
-  ref: Quran 44:23
-  note: 'Sacrificial meal eaten in haste, loins girded, sandals on, staff in hand (night departure: ''travel
-    by night with my servants; you will be pursued'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A night departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them:
-    qûmû ṣəʾû mit-tôḵ ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr
-    lə-šalləḥām). Quran: God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey
-    with pursuit foretold, no expulsion and no request for a blessing.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Israel leaves Egypt by night: expelled, or secretly [divergence
     between the texts] (weight 6.7); Sacrificial meal eaten in haste, loins girded, sandals on, staff
@@ -105,6 +54,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'How Israel leaves Egypt by night: expelled, or secretly'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-12-passover-firstborn-exodus
+  title: Passover law, matzot, the night of the firstborn, departure from Egypt
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'How Israel leaves Egypt by night: expelled, or secretly'
+  note: 'A night departure, but who sends whom. Exodus: Pharaoh calls Moses laylâ and expels them: qûmû
+    ṣəʾû mit-tôḵ ʿammî ... û-ḇēraḵtem gam ʾōṯî, and Egypt presses them to leave quickly (lə-mahēr lə-šalləḥām).
+    Quran: God tells Moses fa-asri bi-ʿibādī laylan innakum muttabaʿūn: a secret night journey with pursuit
+    foretold, no expulsion and no request for a blessing.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:31
+      lang: he
+      text: וַיִּקְרָא֩ לְמֹשֶׁ֨ה וּֽלְאַהֲרֹ֜ן לַ֗יְלָה וַיֹּ֨אמֶר֙ ק֤וּמוּ צְּאוּ֙ מִתּ֣וֹךְ עַמִּ֔י
+        גַּם אַתֶּ֖ם גַּם בְּנֵ֣י יִשְׂרָאֵ֑ל וּלְכ֛וּ עִבְד֥וּ אֶת יְהוָ֖ה כְּדַבֶּרְכֶֽם
+    - ref: Exod 12:32
+      lang: he
+      text: גַּם צֹאנְכֶ֨ם גַּם בְּקַרְכֶ֥ם קְח֛וּ כַּאֲשֶׁ֥ר דִּבַּרְתֶּ֖ם וָלֵ֑כוּ וּבֵֽרַכְתֶּ֖ם גַּם
+        אֹתִֽי
+    - ref: Exod 12:33
+      lang: he
+      text: וַתֶּחֱזַ֤ק מִצְרַ֨יִם֙ עַל הָעָ֔ם לְמַהֵ֖ר לְשַׁלְּחָ֣ם מִן הָאָ֑רֶץ כִּ֥י אָמְר֖וּ כֻּלָּ֥נוּ
+        מֵתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 44:23
+      lang: ar
+      text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
+- kind: shared
+  label: Sacrificial meal eaten in haste, loins girded, sandals on, staff in hand
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:11
+      lang: he
+      text: וְכָכָה֮ תֹּאכְל֣וּ אֹתוֹ֒ מָתְנֵיכֶ֣ם חֲגֻרִ֔ים נַֽעֲלֵיכֶם֙ בְּרַגְלֵיכֶ֔ם וּמַקֶּלְכֶ֖ם
+        בְּיֶדְכֶ֑ם וַאֲכַלְתֶּ֤ם אֹתוֹ֙ בְּחִפָּז֔וֹן פֶּ֥סַח ה֖וּא לַיהוָֽה
+    note: loins girded, sandals on, staff in hand, be-hippazon
+  - tradition: islam
+    passages:
+    - ref: Quran 44:23
+      lang: ar
+      text: فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ
+    note: 'night departure: ''travel by night with my servants; you will be pursued'''
 ---
 
 ## Questions

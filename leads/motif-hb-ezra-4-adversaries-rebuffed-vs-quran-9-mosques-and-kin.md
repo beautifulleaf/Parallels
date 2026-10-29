@@ -2,8 +2,7 @@
 id: motif-hb-ezra-4-adversaries-rebuffed-vs-quran-9-mosques-and-kin
 title: Offer of help from the deportee peoples rejected; opposition and accusations ↔ Who maintains the
   mosques; God above family
-summary: 'These two units share 1 motifs: only those who believe, pray and give alms may maintain god''s
-  places of worship.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,49 +15,9 @@ layers:
 - motif
 motifs:
 - only-believers-maintain-mosques
-passages:
-- tradition: judaism
-  ref: Ezra 4:2
-  note: 'Only those who believe, pray and give alms may maintain God''s places of worship (Outsiders who
-    worship wrongly may not build or tend God''s house: mā kāna li-l-mushrikīna an yaʿmurū masājida llāh;
-    innamā yaʿmuru masājida llāhi man āmana vs nibneh ʿimmākem kî kākem nidrôš lēʾlōhêkem ... lōʾ-lākem
-    wālānû libnôt bayit lēʾlōhênû. In Ezra the excluded claim to worship the same God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְּשׁ֨וּ אֶל זְרֻבָּבֶ֜ל וְאֶל רָאשֵׁ֣י הָֽאָב֗וֹת וַיֹּאמְר֤וּ לָהֶם֙ נִבְנֶ֣ה עִמָּכֶ֔ם
-    כִּ֣י כָכֶ֔ם נִדְר֖וֹשׁ לֵֽאלֹהֵיכֶ֑ם ולא וְל֣וֹ אֲנַ֣חְנוּ זֹבְחִ֗ים מִימֵי֙ אֵסַ֤ר חַדֹּן֙ מֶ֣לֶךְ
-    אַשּׁ֔וּר הַמַּעֲלֶ֥ה אֹתָ֖נוּ פֹּֽה
-- tradition: judaism
-  ref: Ezra 4:3
-  note: 'Only those who believe, pray and give alms may maintain God''s places of worship (Outsiders who
-    worship wrongly may not build or tend God''s house: mā kāna li-l-mushrikīna an yaʿmurū masājida llāh;
-    innamā yaʿmuru masājida llāhi man āmana vs nibneh ʿimmākem kî kākem nidrôš lēʾlōhêkem ... lōʾ-lākem
-    wālānû libnôt bayit lēʾlōhênû. In Ezra the excluded claim to worship the same God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ לָהֶ֨ם זְרֻבָּבֶ֜ל וְיֵשׁ֗וּעַ וּשְׁאָ֨ר רָאשֵׁ֤י הָֽאָבוֹת֙ לְיִשְׂרָאֵ֔ל לֹֽא לָ֣כֶם
-    וָלָ֔נוּ לִבְנ֥וֹת בַּ֖יִת לֵאלֹהֵ֑ינוּ כִּי֩ אֲנַ֨חְנוּ יַ֜חַד נִבְנֶ֗ה לַֽיהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    כַּאֲשֶׁ֣ר צִוָּ֔נוּ הַמֶּ֖לֶךְ כּ֥וֹרֶשׁ מֶֽלֶךְ פָּרָֽס
-- tradition: islam
-  ref: Quran 9:17
-  note: Only those who believe, pray and give alms may maintain God's places of worship
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ
-    أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 9:18
-  note: Only those who believe, pray and give alms may maintain God's places of worship
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ
-    وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Outsiders who worship wrongly may not build or tend God''s house: mā kāna li-l-mushrikīna
-    an yaʿmurū masājida llāh; innamā yaʿmuru masājida llāhi man āmana vs nibneh ʿimmākem kî kākem nidrôš
-    lēʾlōhêkem ... lōʾ-lākem wālānû libnôt bayit lēʾlōhênû. In Ezra the excluded claim to worship the
-    same God.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only those who believe, pray and give alms may maintain God''s places
     of worship (weight 6.7). Pair score 6.7.'
@@ -84,6 +43,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Only those who believe, pray and give alms may maintain God's places of worship
+kinds:
+- parallel
+units:
+- id: hb-ezra-4-adversaries-rebuffed
+  title: Offer of help from the deportee peoples rejected; opposition and accusations
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: parallel
+  label: Only those who believe, pray and give alms may maintain God's places of worship
+  note: 'Outsiders who worship wrongly may not build or tend God''s house: mā kāna li-l-mushrikīna an
+    yaʿmurū masājida llāh; innamā yaʿmuru masājida llāhi man āmana vs nibneh ʿimmākem kî kākem nidrôš
+    lēʾlōhêkem ... lōʾ-lākem wālānû libnôt bayit lēʾlōhênû. In Ezra the excluded claim to worship the
+    same God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezra 4:2
+      lang: he
+      text: וַיִּגְּשׁ֨וּ אֶל זְרֻבָּבֶ֜ל וְאֶל רָאשֵׁ֣י הָֽאָב֗וֹת וַיֹּאמְר֤וּ לָהֶם֙ נִבְנֶ֣ה עִמָּכֶ֔ם
+        כִּ֣י כָכֶ֔ם נִדְר֖וֹשׁ לֵֽאלֹהֵיכֶ֑ם ולא וְל֣וֹ אֲנַ֣חְנוּ זֹבְחִ֗ים מִימֵי֙ אֵסַ֤ר חַדֹּן֙ מֶ֣לֶךְ
+        אַשּׁ֔וּר הַמַּעֲלֶ֥ה אֹתָ֖נוּ פֹּֽה
+    - ref: Ezra 4:3
+      lang: he
+      text: וַיֹּאמֶר֩ לָהֶ֨ם זְרֻבָּבֶ֜ל וְיֵשׁ֗וּעַ וּשְׁאָ֨ר רָאשֵׁ֤י הָֽאָבוֹת֙ לְיִשְׂרָאֵ֔ל לֹֽא
+        לָ֣כֶם וָלָ֔נוּ לִבְנ֥וֹת בַּ֖יִת לֵאלֹהֵ֑ינוּ כִּי֩ אֲנַ֨חְנוּ יַ֜חַד נִבְנֶ֗ה לַֽיהוָה֙ אֱלֹהֵ֣י
+        יִשְׂרָאֵ֔ל כַּאֲשֶׁ֣ר צִוָּ֔נוּ הַמֶּ֖לֶךְ כּ֥וֹרֶשׁ מֶֽלֶךְ פָּרָֽס
+  - tradition: islam
+    passages:
+    - ref: Quran 9:17
+      lang: ar
+      text: مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَٰجِدَ ٱللَّهِ شَٰهِدِينَ عَلَىٰٓ أَنفُسِهِم
+        بِٱلْكُفْرِ أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَٰلِدُونَ
+    - ref: Quran 9:18
+      lang: ar
+      text: إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ
+        ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟
+        مِنَ ٱلْمُهْتَدِينَ
 ---
 
 ## Questions

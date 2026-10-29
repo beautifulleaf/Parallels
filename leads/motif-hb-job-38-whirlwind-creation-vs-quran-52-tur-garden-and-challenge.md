@@ -3,8 +3,7 @@ id: motif-hb-job-38-whirlwind-creation-vs-quran-52-tur-garden-and-challenge
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the run of ''or...?''
   challenges'
-summary: 'These two units share 2 motifs: were they created from nothing, or are they the creators? did
-  they create the heavens and earth?, storehouses of snow and hail reserved for the day of battle.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,58 +17,9 @@ layers:
 motifs:
 - created-from-nothing-or-self-created
 - storehouses-of-snow-and-hail
-passages:
-- tradition: judaism
-  ref: Job 38:4
-  note: Were they created from nothing, or are they the creators? Did they create the heavens and earth?
-    (ʾêp̄ōh hāyîṯā bə-yāsəḏî ʾāreṣ haggēḏ ʾim yāḏaʿtā ḇînâ vs. am khuliqū min ghayri shayʾin am humu l-khāliqūn;
-    am khalaqū s-samāwāti wa-l-arḍ. Job is asked if he was present at creation; the deniers are asked
-    if they created themselves or the world.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: islam
-  ref: Quran 52:35
-  note: Were they created from nothing, or are they the creators? Did they create the heavens and earth?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ
-- tradition: islam
-  ref: Quran 52:36
-  note: Were they created from nothing, or are they the creators? Did they create the heavens and earth?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ خَلَقُوا۟ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بَل لَّا يُوقِنُونَ
-- tradition: judaism
-  ref: Job 38:22-23
-  note: Storehouses of snow and hail reserved for the day of battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:22) הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה (38:23) אֲשֶׁר חָשַׂ֥כְתִּי
-    לְעֶת צָ֑ר לְי֥וֹם קְ֝רָ֗ב וּמִלְחָמָֽה
-- tradition: judaism
-  ref: Job 38:22
-  note: Storehouses of snow and hail reserved for the day of battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה
-- tradition: islam
-  ref: Quran 52:37
-  note: 'Storehouses of snow and hail reserved for the day of battle (A rhetorical challenge about God''s
-    treasuries: ha-ḇāʾṯā ʾel ʾōṣərôṯ šeleḡ wə-ʾōṣərôṯ bārāḏ tirʾeh vs. am ʿindahum khazāʾinu rabbika am
-    humu l-muṣayṭirūn. Both are part of a long run of challenging questions (Job 38''s mî ... / hă-; Q
-    52:35-43''s eleven am ...?). Job''s questions humble a sufferer; the Quran''s corner the deniers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo, parallel. A rhetorical challenge about God''s treasuries: ha-ḇāʾṯā ʾel ʾōṣərôṯ šeleḡ wə-ʾōṣərôṯ
-    bārāḏ tirʾeh vs. am ʿindahum khazāʾinu rabbika am humu l-muṣayṭirūn. Both are part of a long run of
-    challenging questions (Job 38''s mî ... / hă-; Q 52:35-43''s eleven am ...?). Job''s questions humble
-    a sufferer; the Quran''s corner the deniers. ʾêp̄ōh hāyîṯā bə-yāsəḏî ʾāreṣ haggēḏ ʾim yāḏaʿtā ḇînâ
-    vs. am khuliqū min ghayri shayʾin am humu l-khāliqūn; am khalaqū s-samāwāti wa-l-arḍ. Job is asked
-    if he was present at creation; the deniers are asked if they created themselves or the world.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Were they created from nothing, or are they the creators? Did they
     create the heavens and earth? (weight 6.7); Storehouses of snow and hail reserved for the day of battle
@@ -108,6 +58,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Storehouses of snow and hail reserved for the day of battle
+kinds:
+- parallel
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Storehouses of snow and hail reserved for the day of battle
+  note: 'A rhetorical challenge about God''s treasuries: ha-ḇāʾṯā ʾel ʾōṣərôṯ šeleḡ wə-ʾōṣərôṯ bārāḏ tirʾeh
+    vs. am ʿindahum khazāʾinu rabbika am humu l-muṣayṭirūn. Both are part of a long run of challenging
+    questions (Job 38''s mî ... / hă-; Q 52:35-43''s eleven am ...?). Job''s questions humble a sufferer;
+    the Quran''s corner the deniers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:22
+      lang: he
+      text: הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה
+    - ref: Job 38:23
+      lang: he
+      text: אֲשֶׁר חָשַׂ֥כְתִּי לְעֶת צָ֑ר לְי֥וֹם קְ֝רָ֗ב וּמִלְחָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 52:37
+      lang: ar
+      text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+- kind: echo
+  label: Were they created from nothing, or are they the creators? Did they create the heavens and earth?
+  note: ʾêp̄ōh hāyîṯā bə-yāsəḏî ʾāreṣ haggēḏ ʾim yāḏaʿtā ḇînâ vs. am khuliqū min ghayri shayʾin am humu
+    l-khāliqūn; am khalaqū s-samāwāti wa-l-arḍ. Job is asked if he was present at creation; the deniers
+    are asked if they created themselves or the world.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 52:35
+      lang: ar
+      text: أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَٰلِقُونَ
+    - ref: Quran 52:36
+      lang: ar
+      text: أَمْ خَلَقُوا۟ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بَل لَّا يُوقِنُونَ
 ---
 
 ## Questions

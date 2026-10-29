@@ -2,7 +2,7 @@
 id: motif-hb-ezek-3-watchman-and-muteness-vs-quran-4-false-accusation
 title: Ezekiel appointed watchman; bound and struck dumb in his house ↔ Guilt cast on the innocent and
   the Prophet who must not defend traitors
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Ezek 3:18-21
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:18) בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר
-    רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥
-    אֲבַקֵּֽשׁ (3:19) וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה
-    ה֚וּא בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ (3:20) וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙
-    וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ
-    יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ (3:21) וְאַתָּ֞ה
-    כִּ֧י הִזְהַרְתּ֣וֹ צַדִּ֗יק לְבִלְתִּ֥י חֲטֹ֛א צַדִּ֖יק וְה֣וּא לֹא חָטָ֑א חָי֤וֹ יִֽחְיֶה֙ כִּ֣י
-    נִזְהָ֔ר וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
-- tradition: judaism
-  ref: Ezek 3:18
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר רָשָׁ֛ע
-    מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ
-- tradition: islam
-  ref: Quran 4:111
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Ezek: hûʾ rāšāʿ baʿăwōnô yāmût, and the warned watchman has saved his own life (ʾet-nafšəkhā
-    hiṣṣaltā). Q 4:111 ʿalā nafsihi; the Prophet is also told not to take on the traitors'' cause (4:105,
-    4:109).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -76,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- echo
+units:
+- id: hb-ezek-3-watchman-and-muteness
+  title: Ezekiel appointed watchman; bound and struck dumb in his house
+  tradition: judaism
+- id: quran-4-false-accusation
+  title: Guilt cast on the innocent and the Prophet who must not defend traitors
+  tradition: islam
+matches:
+- kind: echo
+  label: Each person dies for his own sin
+  note: 'Ezek: hûʾ rāšāʿ baʿăwōnô yāmût, and the warned watchman has saved his own life (ʾet-nafšəkhā
+    hiṣṣaltā). Q 4:111 ʿalā nafsihi; the Prophet is also told not to take on the traitors'' cause (4:105,
+    4:109).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:18
+      lang: he
+      text: בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר
+        רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥
+        אֲבַקֵּֽשׁ
+    - ref: Ezek 3:19
+      lang: he
+      text: וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה ה֚וּא
+        בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:111
+      lang: ar
+      text: وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

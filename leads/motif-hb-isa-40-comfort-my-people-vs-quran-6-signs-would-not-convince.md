@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-6-signs-would-not-convince
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Sworn oaths for a sign;
   even the dead speaking would not convince
-summary: 'These two units share 1 motifs: none can change the words of god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - no-changer-of-gods-words
-passages:
-- tradition: judaism
-  ref: Isa 40:8
-  note: 'None can change the words of God (Q: wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila
-    li-kalimātihi. Isa: yāvēš ḥāṣîr nāvēl ṣîṣ û-dəvar-ʾĕlōhênû yāqûm lə-ʿôlām. God''s word stands and
-    cannot be changed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
-- tradition: islam
-  ref: Quran 6:115
-  note: None can change the words of God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَهُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi. Isa: yāvēš ḥāṣîr
-    nāvēl ṣîṣ û-dəvar-ʾĕlōhênû yāqûm lə-ʿôlām. God''s word stands and cannot be changed.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: None can change the words of God (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -67,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: None can change the words of God
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-6-signs-would-not-convince
+  title: Sworn oaths for a sign; even the dead speaking would not convince
+  tradition: islam
+matches:
+- kind: echo
+  label: None can change the words of God
+  note: 'Q: wa-tammat kalimatu rabbika ṣidqan wa-ʿadlan lā mubaddila li-kalimātihi. Isa: yāvēš ḥāṣîr nāvēl
+    ṣîṣ û-dəvar-ʾĕlōhênû yāqûm lə-ʿôlām. God''s word stands and cannot be changed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:8
+      lang: he
+      text: יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:115
+      lang: ar
+      text: وَتَمَّتْ كَلِمَتُ رَبِّكَ صِدْقًا وَعَدْلًا لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَهُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
 ---
 
 ## Questions

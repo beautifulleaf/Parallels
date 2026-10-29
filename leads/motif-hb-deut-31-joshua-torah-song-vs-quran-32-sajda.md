@@ -2,8 +2,7 @@
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-32-sajda
 title: 'Joshua commissioned; Torah written and deposited; the Song commanded ↔ Al-Sajda: creation, the
   angel of death, and the two fates'
-summary: 'These two units share 1 motifs: whether moses wrote the book or was given it [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - how-moses-received-the-book-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 31:9
-  note: 'Whether Moses wrote the book or was given it [divergence between the texts] (Who produces the
-    book. Deut: wa-yyiḵtōḇ mōšeh ʾeṯ-ha-ttôrâ ha-zzōʾṯ ... kə-ḵallôṯ mōšeh liḵtōḇ ʾeṯ-diḇrê ha-ttôrâ ʿal-sēp̄er.
-    Q: wa-la-qad ātaynā Mūsā l-kitāb, where God gives Moses the book and Moses is the receiver, not the
-    writer. This matches the Quran''s view of its own revelation (tanzīlu l-kitābi ... min rabbi l-ʿālamīn,
-    32:2).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַנֹּ֣שְׂאִ֔ים
-    אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Deut 31:24
-  note: 'Whether Moses wrote the book or was given it [divergence between the texts] (Who produces the
-    book. Deut: wa-yyiḵtōḇ mōšeh ʾeṯ-ha-ttôrâ ha-zzōʾṯ ... kə-ḵallôṯ mōšeh liḵtōḇ ʾeṯ-diḇrê ha-ttôrâ ʿal-sēp̄er.
-    Q: wa-la-qad ātaynā Mūsā l-kitāb, where God gives Moses the book and Moses is the receiver, not the
-    writer. This matches the Quran''s view of its own revelation (tanzīlu l-kitābi ... min rabbi l-ʿālamīn,
-    32:2).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י כְּכַלּ֣וֹת מֹשֶׁ֗ה לִכְתֹּ֛ב אֶת דִּבְרֵ֥י הַתּוֹרָֽה הַזֹּ֖את עַל סֵ֑פֶר עַ֖ד תֻּמָּֽם
-- tradition: islam
-  ref: Quran 32:23
-  note: 'Whether Moses wrote the book or was given it [divergence between the texts] (Who produces the
-    book. Deut: wa-yyiḵtōḇ mōšeh ʾeṯ-ha-ttôrâ ha-zzōʾṯ ... kə-ḵallôṯ mōšeh liḵtōḇ ʾeṯ-diḇrê ha-ttôrâ ʿal-sēp̄er.
-    Q: wa-la-qad ātaynā Mūsā l-kitāb, where God gives Moses the book and Moses is the receiver, not the
-    writer. This matches the Quran''s view of its own revelation (tanzīlu l-kitābi ... min rabbi l-ʿālamīn,
-    32:2).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ
-    هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Who produces the book. Deut: wa-yyiḵtōḇ mōšeh ʾeṯ-ha-ttôrâ ha-zzōʾṯ ... kə-ḵallôṯ mōšeh
-    liḵtōḇ ʾeṯ-diḇrê ha-ttôrâ ʿal-sēp̄er. Q: wa-la-qad ātaynā Mūsā l-kitāb, where God gives Moses the
-    book and Moses is the receiver, not the writer. This matches the Quran''s view of its own revelation
-    (tanzīlu l-kitābi ... min rabbi l-ʿālamīn, 32:2).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Moses wrote the book or was given it [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether Moses wrote the book or was given it
+kinds:
+- divergence
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether Moses wrote the book or was given it
+  note: 'Who produces the book. Deut: wa-yyiḵtōḇ mōšeh ʾeṯ-ha-ttôrâ ha-zzōʾṯ ... kə-ḵallôṯ mōšeh liḵtōḇ
+    ʾeṯ-diḇrê ha-ttôrâ ʿal-sēp̄er. Q: wa-la-qad ātaynā Mūsā l-kitāb, where God gives Moses the book and
+    Moses is the receiver, not the writer. This matches the Quran''s view of its own revelation (tanzīlu
+    l-kitābi ... min rabbi l-ʿālamīn, 32:2).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:9
+      lang: he
+      text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י
+        הַנֹּ֣שְׂאִ֔ים אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
+    - ref: Deut 31:24
+      lang: he
+      text: וַיְהִ֣י כְּכַלּ֣וֹת מֹשֶׁ֗ה לִכְתֹּ֛ב אֶת דִּבְרֵ֥י הַתּוֹרָֽה הַזֹּ֖את עַל סֵ֑פֶר עַ֖ד תֻּמָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 32:23
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ
+        هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

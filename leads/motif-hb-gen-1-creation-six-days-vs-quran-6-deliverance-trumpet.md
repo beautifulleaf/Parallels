@@ -2,7 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-6-deliverance-trumpet
 title: Creation in six days and the seventh-day rest ↔ Rescue in the darkness of land and sea; the bewildered
   man; the trumpet
-summary: 'These two units share 1 motifs: deity creates by spoken command (let there be...).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - creation-by-word
-passages:
-- tradition: judaism
-  ref: Gen 1:3
-  note: Deity creates by spoken command (Let there be...)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
-- tradition: judaism
-  ref: Gen 1:6
-  note: Deity creates by spoken command (Let there be...)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם
-- tradition: islam
-  ref: Quran 6:73
-  note: Deity creates by spoken command (Let there be...) (kun fa-yakūn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَيَوْمَ يَقُولُ كُن فَيَكُونُ قَوْلُهُ
-    ٱلْحَقُّ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ وَهُوَ ٱلْحَكِيمُ
-    ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Gen: wa-yyōʾmer ʾĕlōhîm yəhî ʾôr wa-yəhî-ʾôr. Q: kun fa-yakūnu. The jussive of ''be'' followed
-    by its fulfilment (kun/yakūn = yəhî/wa-yəhî).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity creates by spoken command (Let there be...) (weight 5.8).
     Pair score 5.8.'
@@ -74,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity creates by spoken command (Let there be...)
+kinds:
+- parallel
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-6-deliverance-trumpet
+  title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+  tradition: islam
+matches:
+- kind: parallel
+  label: Deity creates by spoken command (Let there be...)
+  note: 'Gen: wa-yyōʾmer ʾĕlōhîm yəhî ʾôr wa-yəhî-ʾôr. Q: kun fa-yakūnu. The jussive of ''be'' followed
+    by its fulfilment (kun/yakūn = yəhî/wa-yəhî).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:3
+      lang: he
+      text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 6:73
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَيَوْمَ يَقُولُ كُن فَيَكُونُ
+        قَوْلُهُ ٱلْحَقُّ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ
+        وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 ---
 
 ## Questions

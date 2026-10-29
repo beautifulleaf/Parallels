@@ -2,7 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-16-deniers-and-angels-of-death
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Legends of the ancients, the fallen
   roof, the angels who take souls (Surah 16:24-50)
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Ps 106:17-18
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:17) תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם (106:18) וַתִּבְעַר
-    אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים
-- tradition: judaism
-  ref: Ps 106:17
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
-- tradition: islam
-  ref: Quran 16:45
-  note: The earth opens its mouth and swallows rebels alive into Sheol (an yakhsifa llāhu bihimu l-arḍ)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ
-    ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. tiptaḥ-ʾereṣ wattiblaʿ dātān; an yakhsifa llāhu bihimu l-arḍ.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -77,6 +54,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- parallel
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-16-deniers-and-angels-of-death
+  title: Legends of the ancients, the fallen roof, the angels who take souls (Surah 16:24-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: tiptaḥ-ʾereṣ wattiblaʿ dātān; an yakhsifa llāhu bihimu l-arḍ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:17
+      lang: he
+      text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 16:45
+      lang: ar
+      text: أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ
+        ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
 ---
 
 ## Questions

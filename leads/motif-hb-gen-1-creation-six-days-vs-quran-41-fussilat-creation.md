@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-41-fussilat-creation
 title: 'Creation in six days and the seventh-day rest ↔ Ha-Mim Fussilat: the veil between; creation in
   days; heaven as smoke'
-summary: 'These two units share 2 motifs: the order of creating heaven and earth and the days allotted
-  to each [divergence between the texts], creation is completed in six days.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,97 +15,9 @@ layers:
 motifs:
 - order-and-days-of-creating-heaven-and-earth-as-divergence
 - creation-in-six-days
-passages:
-- tradition: judaism
-  ref: Gen 1:6
-  note: 'The order of creating heaven and earth and the days allotted to each [divergence between the
-    texts] (The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî),
-    dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one
-    work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma
-    stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created
-    first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned
-    by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries
-    are ''lamps'' of the lowest heaven.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם
-- tradition: judaism
-  ref: Gen 1:8
-  note: 'The order of creating heaven and earth and the days allotted to each [divergence between the
-    texts] (The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî),
-    dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one
-    work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma
-    stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created
-    first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned
-    by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries
-    are ''lamps'' of the lowest heaven.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי
-- tradition: islam
-  ref: Quran 41:9
-  note: 'The order of creating heaven and earth and the days allotted to each [divergence between the
-    texts] (The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî),
-    dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one
-    work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma
-    stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created
-    first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned
-    by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries
-    are ''lamps'' of the lowest heaven.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ
-    أَندَادًا ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 41:10
-  note: 'The order of creating heaven and earth and the days allotted to each [divergence between the
-    texts] (The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî),
-    dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one
-    work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma
-    stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created
-    first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned
-    by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries
-    are ''lamps'' of the lowest heaven.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ
-    أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 41:9
-  note: Creation is completed in six days (2 + 4 + 2 days, harmonized by exegetes to six)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ
-    أَندَادًا ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 41:10
-  note: Creation is completed in six days (2 + 4 + 2 days, harmonized by exegetes to six)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ
-    أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm
-    šēnî), dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth,
-    one work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ...
-    thumma stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is
-    created first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are
-    reckoned by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the
-    luminaries are ''lamps'' of the lowest heaven.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The order of creating heaven and earth and the days allotted to
     each [divergence between the texts] (weight 6.7); Creation is completed in six days (weight 5.2).
@@ -143,6 +54,82 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The order of creating heaven and earth and the days allotted to each
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-41-fussilat-creation
+  title: 'Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The order of creating heaven and earth and the days allotted to each
+  note: 'The order and the counting of the days. Gen: the firmament called šāmāyim on day 2 (yôm šēnî),
+    dry land and plants on day 3, luminaries in the firmament on day 4, so heaven before dry earth, one
+    work per day. Q: khalaqa l-arḍa fī yawmayni ... wa-qaddara fīhā aqwātahā fī arbaʿati ayyām ... thumma
+    stawā ilā s-samāʾi wa-hiya dukhān ... fa-qaḍāhunna sabʿa samāwātin fī yawmayn. The earth is created
+    first, its provisions in four days, and only then the seven heavens; the sums (2+4+2) are reckoned
+    by the exegetes to six. There is no evening-and-morning formula, no seventh day, and the luminaries
+    are ''lamps'' of the lowest heaven.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:6
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם
+        לָמָֽיִם
+    - ref: Gen 1:8
+      lang: he
+      text: וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם שֵׁנִֽי
+    - ref: Gen 1:9
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֨יִם֙ אֶל מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה
+        הַיַּבָּשָׁ֑ה וַֽיְהִי כֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 41:9
+      lang: ar
+      text: قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ
+        أَندَادًا ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
+    - ref: Quran 41:10
+      lang: ar
+      text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ
+        أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
+    - ref: Quran 41:11
+      lang: ar
+      text: ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا
+        أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
+- kind: shared
+  label: Creation is completed in six days
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:31
+      lang: he
+      text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי
+        בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי
+    - ref: Gen 2:1
+      lang: he
+      text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 41:9
+      lang: ar
+      text: قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِٱلَّذِى خَلَقَ ٱلْأَرْضَ فِى يَوْمَيْنِ وَتَجْعَلُونَ لَهُۥٓ
+        أَندَادًا ذَٰلِكَ رَبُّ ٱلْعَٰلَمِينَ
+    - ref: Quran 41:10
+      lang: ar
+      text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ
+        أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
+    - ref: Quran 41:12
+      lang: ar
+      text: فَقَضَىٰهُنَّ سَبْعَ سَمَٰوَاتٍ فِى يَوْمَيْنِ وَأَوْحَىٰ فِى كُلِّ سَمَآءٍ أَمْرَهَا وَزَيَّنَّا
+        ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَحِفْظًا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
+    note: 2 + 4 + 2 days, harmonized by exegetes to six
 ---
 
 ## Questions

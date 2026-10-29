@@ -2,8 +2,7 @@
 id: motif-hb-exod-24-covenant-ratification-vs-quran-4-people-of-book-distortion
 title: Covenant ratified in blood; the elders see God ↔ Shifted words, 'we hear and disobey', and the
   people of the Sabbath
-summary: 'These two units share 2 motifs: the people answer as one: all that yhwh has spoken we will do
-  [divergence between the texts], the people answer as one: all that yhwh has spoken we will do.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,70 +15,9 @@ layers:
 motifs:
 - people-accept-covenant-we-will-do-as-divergence
 - people-accept-covenant-we-will-do
-passages:
-- tradition: judaism
-  ref: Exod 24:7
-  note: 'The people answer as one: all that YHWH has spoken we will do [divergence between the texts]
-    (Exod 24:7 kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ, the people''s assent, comes back in Q 4:46 as
-    the opposite, samiʿnā wa-ʿaṣaynā, put in the mouth of ''those who are Jews'' (alladhīna hādū). Hearing
-    is kept and doing becomes disobeying.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: judaism
-  ref: Exod 24:3
-  note: 'The people answer as one: all that YHWH has spoken we will do [divergence between the texts]
-    (Exod 24:7 kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ, the people''s assent, comes back in Q 4:46 as
-    the opposite, samiʿnā wa-ʿaṣaynā, put in the mouth of ''those who are Jews'' (alladhīna hādū). Hearing
-    is kept and doing becomes disobeying.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל הַמִּשְׁפָּטִ֑ים
-    וַיַּ֨עַן כָּל הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל הַדְּבָרִ֛ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 4:46
-  note: 'The people answer as one: all that YHWH has spoken we will do [divergence between the texts]
-    (Exod 24:7 kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ, the people''s assent, comes back in Q 4:46 as
-    the opposite, samiʿnā wa-ʿaṣaynā, put in the mouth of ''those who are Jews'' (alladhīna hādū). Hearing
-    is kept and doing becomes disobeying.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
-    وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
-    قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ
-    ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
-- tradition: judaism
-  ref: Exod 24:3
-  note: 'The people answer as one: all that YHWH has spoken we will do (''we will do and we will hear''
-    (na''aseh ve-nishma) in 24:7)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל הַמִּשְׁפָּטִ֑ים
-    וַיַּ֨עַן כָּל הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל הַדְּבָרִ֛ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה
-- tradition: judaism
-  ref: Exod 24:7
-  note: 'The people answer as one: all that YHWH has spoken we will do (''we will do and we will hear''
-    (na''aseh ve-nishma) in 24:7)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 4:46
-  note: 'The people answer as one: all that YHWH has spoken we will do (parodied: ''we hear and we disobey''
-    instead of ''we hear and we obey'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
-    وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
-    قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ
-    ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Exod 24:7 kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ, the people''s assent, comes back in
-    Q 4:46 as the opposite, samiʿnā wa-ʿaṣaynā, put in the mouth of ''those who are Jews'' (alladhīna
-    hādū). Hearing is kept and doing becomes disobeying.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do [divergence
     between the texts] (weight 6.7); The people answer as one: all that YHWH has spoken we will do (weight
@@ -114,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The people answer as one: all that YHWH has spoken we will do'
+kinds:
+- divergence
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The people answer as one: all that YHWH has spoken we will do'
+  note: Exod 24:7 kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ, the people's assent, comes back in Q 4:46 as
+    the opposite, samiʿnā wa-ʿaṣaynā, put in the mouth of 'those who are Jews' (alladhīna hādū). Hearing
+    is kept and doing becomes disobeying.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+    - ref: Exod 24:3
+      lang: he
+      text: וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל הַמִּשְׁפָּטִ֑ים
+        וַיַּ֨עַן כָּל הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל הַדְּבָרִ֛ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:46
+      lang: ar
+      text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
+        وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
+        قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن
+        لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

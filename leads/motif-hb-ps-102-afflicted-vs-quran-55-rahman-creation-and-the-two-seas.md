@@ -2,9 +2,7 @@
 id: motif-hb-ps-102-afflicted-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Psalm 102, prayer of the afflicted; the heavens wear out like a garment ↔ Al-Rahman: the Merciful
   taught the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 2 motifs: earth and heavens will perish and wear out like a garment, changed
-  like clothing, but god remains the same, all on earth perish; there remains the face of your lord, possessor
-  of majesty and honor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,72 +16,9 @@ layers:
 motifs:
 - heavens-wear-out-like-garment
 - all-perish-but-the-face-of-god
-passages:
-- tradition: judaism
-  ref: Ps 102:26-28
-  note: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
-    the same (ve-attah hu u-shenotekha lo yittammu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (102:26) לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם (102:27) הֵ֤מָּה יֹאבֵדוּ֮
-    וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם וְֽיַחֲלֹֽפוּ (102:28)
-    וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
-- tradition: judaism
-  ref: Ps 102:26
-  note: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
-    the same (ve-attah hu u-shenotekha lo yittammu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם
-- tradition: islam
-  ref: Quran 55:26
-  note: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
-    the same (all perish, God remains (Ps 102:27))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ مَنْ عَلَيْهَا فَانٍ
-- tradition: islam
-  ref: Quran 55:27
-  note: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
-    the same (all perish, God remains (Ps 102:27))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
-- tradition: judaism
-  ref: Ps 102:27
-  note: 'All on earth perish; there remains the Face of your Lord, possessor of majesty and honor (kullu
-    shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû:
-    everything perishes (halaka / ʾāvad) except God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
-    וְֽיַחֲלֹֽפוּ
-- tradition: judaism
-  ref: Ps 102:28
-  note: 'All on earth perish; there remains the Face of your Lord, possessor of majesty and honor (kullu
-    shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû:
-    everything perishes (halaka / ʾāvad) except God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
-- tradition: islam
-  ref: Quran 55:26
-  note: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ مَنْ عَلَيْهَا فَانٍ
-- tradition: islam
-  ref: Quran 55:27
-  note: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Creation passes away, God remains: hēmmâ yōʾḇēḏû wə-ʾattâ ṯaʿămōḏ wə-ḵullām kab-beḡeḏ yiḇlû
-    ... wə-ʾattâ hûʾ û-šənôṯêḵā lōʾ yittāmmû vs. kullu man ʿalayhā fānin wa-yabqā wajhu rabbika dhū l-jalāli
-    wa-l-ikrām. The psalm''s heavens and earth perish; the Quran''s ''all on it'' (on the earth) perish.
-    What remains is ''you'' (ʾattâ hûʾ) and ''the face of your Lord''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Earth and heavens will perish and wear out like a garment, changed
     like clothing, but God remains the same (weight 6.7); All on earth perish; there remains the Face
@@ -123,6 +58,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
+  the same
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-102-afflicted
+  title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Earth and heavens will perish and wear out like a garment, changed like clothing, but God remains
+    the same
+  note: 'Creation passes away, God remains: hēmmâ yōʾḇēḏû wə-ʾattâ ṯaʿămōḏ wə-ḵullām kab-beḡeḏ yiḇlû ...
+    wə-ʾattâ hûʾ û-šənôṯêḵā lōʾ yittāmmû vs. kullu man ʿalayhā fānin wa-yabqā wajhu rabbika dhū l-jalāli
+    wa-l-ikrām. The psalm''s heavens and earth perish; the Quran''s ''all on it'' (on the earth) perish.
+    What remains is ''you'' (ʾattâ hûʾ) and ''the face of your Lord''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 102:26
+      lang: he
+      text: לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם
+    - ref: Ps 102:27
+      lang: he
+      text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
+        וְֽיַחֲלֹֽפוּ
+    - ref: Ps 102:28
+      lang: he
+      text: וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:26
+      lang: ar
+      text: كُلُّ مَنْ عَلَيْهَا فَانٍ
+    - ref: Quran 55:27
+      lang: ar
+      text: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+- kind: shared
+  label: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 102:27
+      lang: he
+      text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
+        וְֽיַחֲלֹֽפוּ
+    - ref: Ps 102:28
+      lang: he
+      text: וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
+    note: 'kullu shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā
+      lōʾ yittāmmû: everything perishes (halaka / ʾāvad) except God.'
+  - tradition: islam
+    passages:
+    - ref: Quran 55:26
+      lang: ar
+      text: كُلُّ مَنْ عَلَيْهَا فَانٍ
+    - ref: Quran 55:27
+      lang: ar
+      text: وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Remembering the days of Moses - O that you would rend the heavens ↔ Al-Rahman: the Merciful taught
   the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 1 motifs: ''we are the clay and you are our potter; we are all the work
-  of your hand''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - we-are-clay-you-are-potter
-passages:
-- tradition: judaism
-  ref: Isa 64:7
-  note: '''We are the clay and you are our potter; we are all the work of your hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֥ה יְהוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֨מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה יָדְךָ֖
-    כֻּלָּֽנוּ
-- tradition: judaism
-  ref: Isa 64:8
-  note: '''We are the clay and you are our potter; we are all the work of your hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּקְצֹ֤ף יְהוָה֙ עַד מְאֹ֔ד וְאַל לָעַ֖ד תִּזְכֹּ֣ר עָוֺ֑ן הֵ֥ן הַבֶּט נָ֖א עַמְּךָ֥ כֻלָּֽנוּ
-- tradition: islam
-  ref: Quran 55:14
-  note: '''We are the clay and you are our potter; we are all the work of your hand'' (salsal ka-l-fakhkhar,
-    clay like pottery)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Man as potter''s clay: ʾănaḥnû ha-ḥōmer wə-ʾattâ yōṣərēnû û-maʿăśēh yāḏəḵā kullānû vs. khalaqa
-    l-insāna min ṣalṣālin ka-l-fakhkhār. Isaiah uses it as a plea to the father-potter for mercy; the
-    Quran as a fact of creation, set beside the jinn''s fire.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''We are the clay and you are our potter; we are all the work of
     your hand'' (weight 6.0). Pair score 6.0.'
@@ -81,6 +57,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''We are the clay and you are our potter; we are all the work of your hand'''
+kinds:
+- echo
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''We are the clay and you are our potter; we are all the work of your hand'''
+  note: 'Man as potter''s clay: ʾănaḥnû ha-ḥōmer wə-ʾattâ yōṣərēnû û-maʿăśēh yāḏəḵā kullānû vs. khalaqa
+    l-insāna min ṣalṣālin ka-l-fakhkhār. Isaiah uses it as a plea to the father-potter for mercy; the
+    Quran as a fact of creation, set beside the jinn''s fire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 64:7
+      lang: he
+      text: וְעַתָּ֥ה יְהוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֨מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה
+        יָדְךָ֖ כֻּלָּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:14
+      lang: ar
+      text: خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ
 ---
 
 ## Questions

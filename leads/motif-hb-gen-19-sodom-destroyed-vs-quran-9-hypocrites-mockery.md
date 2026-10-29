@@ -2,7 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-9-hypocrites-mockery
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Hypocrites who mock and the destroyed
   peoples
-summary: 'These two units share 1 motifs: the ''overturned cities'' (al-mu''tafikat), lot''s towns.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - overturned-cities-mutafikat
-passages:
-- tradition: judaism
-  ref: Gen 19:25
-  note: 'The ''overturned cities'' (al-mu''tafikat), Lot''s towns (Lot''s cities called the ''overturned''
-    ones, after the overturning in Gen: wa-l-muʾtafikāt (root ʾ-f-k) vs wayyahăpōk ʾet-heʿārîm hāʾēl (root
-    h-p-k). Q uses the participle as their name.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: islam
-  ref: Quran 9:70
-  note: The 'overturned cities' (al-mu'tafikat), Lot's towns
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ
-    وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ
-    وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Lot''s cities called the ''overturned'' ones, after the overturning in Gen: wa-l-muʾtafikāt
-    (root ʾ-f-k) vs wayyahăpōk ʾet-heʿārîm hāʾēl (root h-p-k). Q uses the participle as their name.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''overturned cities'' (al-mu''tafikat), Lot''s towns (weight
     6.0). Pair score 6.0.'
@@ -70,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'overturned cities' (al-mu'tafikat), Lot's towns
+kinds:
+- echo
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: The 'overturned cities' (al-mu'tafikat), Lot's towns
+  note: 'Lot''s cities called the ''overturned'' ones, after the overturning in Gen: wa-l-muʾtafikāt (root
+    ʾ-f-k) vs wayyahăpōk ʾet-heʿārîm hāʾēl (root h-p-k). Q uses the participle as their name.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:70
+      lang: ar
+      text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ
+        إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

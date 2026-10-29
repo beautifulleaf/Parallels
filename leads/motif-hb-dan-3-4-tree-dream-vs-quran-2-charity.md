@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-3-4-tree-dream-vs-quran-2-charity
 title: Nebuchadnezzar's letter, the great tree dream and his madness ↔ Parables of charity
-summary: 'These two units share 1 motifs: advice to break off sins by righteousness/almsgiving (tsidqah)
-  and iniquities by mercy to the poor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - atone-sins-by-almsgiving
-passages:
-- tradition: judaism
-  ref: Dan 4:24
-  note: Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the
-    poor (hatayakh be-tsidqah peruq)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
-    בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
-- tradition: islam
-  ref: Quran 2:271
-  note: Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the
-    poor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ
-    خَيْرٌ لَّكُمْ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Cognate key word: Dan 4:24 wa-ḥăṭāyāk bĕ-ṣidqâ pĕruq wa-ʿăwāyātāk bĕ-miḥan ʿănāyin ''break
-    off your sins by ṣidqâ and your iniquities by mercy to the poor''; Q 2:271 in tubdū ṣ-ṣadaqāti ...
-    wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum wa-yukaffiru ʿankum min sayyiʾātikum: alms (ṣadaqāt) given
-    to the poor expiate sins. Aramaic ṣidqâ (''righteousness'', here almsgiving) and Arabic ṣadaqa. Daniel
-    advises a pagan king; the Quran makes it a rule for believers and prefers secret giving.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Advice to break off sins by righteousness/almsgiving (tsidqah) and
     iniquities by mercy to the poor (weight 6.7). Pair score 6.7.'
@@ -74,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the
+  poor
+kinds:
+- parallel
+units:
+- id: hb-dan-3-4-tree-dream
+  title: Nebuchadnezzar's letter, the great tree dream and his madness
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: parallel
+  label: Advice to break off sins by righteousness/almsgiving (tsidqah) and iniquities by mercy to the
+    poor
+  note: 'Cognate key word: Dan 4:24 wa-ḥăṭāyāk bĕ-ṣidqâ pĕruq wa-ʿăwāyātāk bĕ-miḥan ʿănāyin ''break off
+    your sins by ṣidqâ and your iniquities by mercy to the poor''; Q 2:271 in tubdū ṣ-ṣadaqāti ... wa-tuʾtūhā
+    l-fuqarāʾa fa-huwa khayrun lakum wa-yukaffiru ʿankum min sayyiʾātikum: alms (ṣadaqāt) given to the
+    poor expiate sins. Aramaic ṣidqâ (''righteousness'', here almsgiving) and Arabic ṣadaqa. Daniel advises
+    a pagan king; the Quran makes it a rule for believers and prefers secret giving.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 4:24
+      lang: he
+      text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
+        בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:271
+      lang: ar
+      text: إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ
+        خَيْرٌ لَّكُمْ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
 ---
 
 ## Questions

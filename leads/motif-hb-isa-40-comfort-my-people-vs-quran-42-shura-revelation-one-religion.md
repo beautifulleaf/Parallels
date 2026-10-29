@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-42-shura-revelation-one-religion
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Ha-Mim ''Ayn-Sin-Qaf:
   revelation, the angels'' intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: ''to whom will you liken god, what likeness compare to him?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - to-whom-will-you-liken-god
-passages:
-- tradition: judaism
-  ref: Isa 40:18
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
-- tradition: judaism
-  ref: Isa 40:25
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ
-- tradition: islam
-  ref: Quran 42:11
-  note: '''To whom will you liken God, what likeness compare to him?'' (God has no likeness: wə-ʾel mî
-    təḏamməyûn ʾēl û-mah dəmûṯ taʿarḵû lô; ʾel mî ṯəḏamməyûnî wə-ʾešweh vs. laysa ka-mithlihi shayʾun
-    wa-huwa s-samīʿu l-baṣīr. Isaiah asks the question against idol-making (40:19-20); the Quran states
-    it as a creed, then gives him the attributes of hearing and sight.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
-    أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God has no likeness: wə-ʾel mî təḏamməyûn ʾēl û-mah dəmûṯ taʿarḵû lô; ʾel mî ṯəḏamməyûnî
-    wə-ʾešweh vs. laysa ka-mithlihi shayʾun wa-huwa s-samīʿu l-baṣīr. Isaiah asks the question against
-    idol-making (40:19-20); the Quran states it as a creed, then gives him the attributes of hearing and
-    sight.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''To whom will you liken God, what likeness compare to him?'' (weight
     6.0). Pair score 6.0.'
@@ -83,6 +57,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''To whom will you liken God, what likeness compare to him?'''
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''To whom will you liken God, what likeness compare to him?'''
+  note: 'God has no likeness: wə-ʾel mî təḏamməyûn ʾēl û-mah dəmûṯ taʿarḵû lô; ʾel mî ṯəḏamməyûnî wə-ʾešweh
+    vs. laysa ka-mithlihi shayʾun wa-huwa s-samīʿu l-baṣīr. Isaiah asks the question against idol-making
+    (40:19-20); the Quran states it as a creed, then gives him the attributes of hearing and sight.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:18
+      lang: he
+      text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
+    - ref: Isa 40:25
+      lang: he
+      text: וְאֶל מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:11
+      lang: ar
+      text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
+        أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
 ---
 
 ## Questions

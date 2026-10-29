@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-12-miriam-aaron-vs-quran-2-throne-verse
 title: Miriam and Aaron speak against Moses ↔ Ranks of the messengers and the Throne Verse
-summary: 'These two units share 1 motifs: god ranked some messengers above others; to some god spoke.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-ranked-some-above-others
-passages:
-- tradition: judaism
-  ref: Num 12:6
-  note: 'God ranked some messengers above others; to some God spoke (Num 12:6-8 ʾim yihyeh nĕbîʾăkem ...
-    ba-ḥălôm ʾădabber bô lōʾ kēn ʿabdî mōšeh ... peh ʾel peh ʾădabber bô: other prophets by dreams, Moses
-    mouth to mouth; Q 2:253 tilka r-rusulu faḍḍalnā baʿḍahum ʿalā baʿḍin minhum man kallama llāhu wa-rafaʿa
-    baʿḍahum darajātin: some messengers above others, to some God spoke. The Quran then names Jesus with
-    the holy spirit alongside.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע
-    בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ
-- tradition: judaism
-  ref: Num 12:7
-  note: 'God ranked some messengers above others; to some God spoke (Num 12:6-8 ʾim yihyeh nĕbîʾăkem ...
-    ba-ḥălôm ʾădabber bô lōʾ kēn ʿabdî mōšeh ... peh ʾel peh ʾădabber bô: other prophets by dreams, Moses
-    mouth to mouth; Q 2:253 tilka r-rusulu faḍḍalnā baʿḍahum ʿalā baʿḍin minhum man kallama llāhu wa-rafaʿa
-    baʿḍahum darajātin: some messengers above others, to some God spoke. The Quran then names Jesus with
-    the holy spirit alongside.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
-- tradition: islam
-  ref: Quran 2:253
-  note: God ranked some messengers above others; to some God spoke
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ بَعْضَهُمْ
-    دَرَجَٰتٍ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ وَلَوْ
-    شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ
-    وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلُوا۟
-    وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Num 12:6-8 ʾim yihyeh nĕbîʾăkem ... ba-ḥălôm ʾădabber bô lōʾ kēn ʿabdî mōšeh ... peh ʾel
-    peh ʾădabber bô: other prophets by dreams, Moses mouth to mouth; Q 2:253 tilka r-rusulu faḍḍalnā baʿḍahum
-    ʿalā baʿḍin minhum man kallama llāhu wa-rafaʿa baʿḍahum darajātin: some messengers above others, to
-    some God spoke. The Quran then names Jesus with the holy spirit alongside.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God ranked some messengers above others; to some God spoke (weight
     6.3). Pair score 6.3.'
@@ -83,6 +48,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God ranked some messengers above others; to some God spoke
+kinds:
+- parallel
+units:
+- id: hb-num-12-miriam-aaron
+  title: Miriam and Aaron speak against Moses
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: parallel
+  label: God ranked some messengers above others; to some God spoke
+  note: 'Num 12:6-8 ʾim yihyeh nĕbîʾăkem ... ba-ḥălôm ʾădabber bô lōʾ kēn ʿabdî mōšeh ... peh ʾel peh
+    ʾădabber bô: other prophets by dreams, Moses mouth to mouth; Q 2:253 tilka r-rusulu faḍḍalnā baʿḍahum
+    ʿalā baʿḍin minhum man kallama llāhu wa-rafaʿa baʿḍahum darajātin: some messengers above others, to
+    some God spoke. The Quran then names Jesus with the holy spirit alongside.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 12:6
+      lang: he
+      text: וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו
+        אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ
+    - ref: Num 12:7
+      lang: he
+      text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
+    - ref: Num 12:8
+      lang: he
+      text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
+        לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:253
+      lang: ar
+      text: تِلْكَ ٱلرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ مِّنْهُم مَّن كَلَّمَ ٱللَّهُ وَرَفَعَ
+        بَعْضَهُمْ دَرَجَٰتٍ وَءَاتَيْنَا عِيسَى ٱبْنَ مَرْيَمَ ٱلْبَيِّنَٰتِ وَأَيَّدْنَٰهُ بِرُوحِ ٱلْقُدُسِ
+        وَلَوْ شَآءَ ٱللَّهُ مَا ٱقْتَتَلَ ٱلَّذِينَ مِنۢ بَعْدِهِم مِّنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ
+        وَلَٰكِنِ ٱخْتَلَفُوا۟ فَمِنْهُم مَّنْ ءَامَنَ وَمِنْهُم مَّن كَفَرَ وَلَوْ شَآءَ ٱللَّهُ مَا
+        ٱقْتَتَلُوا۟ وَلَٰكِنَّ ٱللَّهَ يَفْعَلُ مَا يُرِيدُ
 ---
 
 ## Questions

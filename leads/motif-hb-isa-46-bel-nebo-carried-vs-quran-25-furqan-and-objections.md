@@ -2,8 +2,7 @@
 id: motif-hb-isa-46-bel-nebo-carried-vs-quran-25-furqan-and-objections
 title: Bel and Nebo carried off; God who carries Israel ↔ The Criterion sent down; charges of forgery
   and the prophet who eats in markets
-summary: 'These two units share 1 motifs: the made idol cannot move from its place, speak or answer and
-  save those who cry to it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - idol-cannot-move-or-answer
-passages:
-- tradition: judaism
-  ref: Isa 46:7
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ לֹ֣א
-    יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
-- tradition: judaism
-  ref: Isa 46:6
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ
-    אֵ֔ל יִסְגְּד֖וּ אַף יִֽשְׁתַּחֲוּֽוּ
-- tradition: islam
-  ref: Quran 25:3
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it (they create
-    nothing and are themselves created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
-    لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-ttakhadhū min dūnihi ālihatan lā yakhluqūna shayʾan wa-hum yukhlaqūna ~ yiśkərû ṣôrēf
-    wə-yaʿăśēhû ʾēl ... mim-məqômô lōʾ yāmîš ʾaf yiṣʿaq ʾēlāyw wə-lōʾ yaʿăneh mi-ṣṣārātô lōʾ yôšîʿennû:
-    gods who are themselves made and cannot save; the Quran adds that they have no power over death, life
-    or resurrection (wa-lā yamlikūna mawtan wa-lā ḥayātan wa-lā nushūran).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
     those who cry to it (weight 5.4). Pair score 5.4.'
@@ -76,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The made idol cannot move from its place, speak or answer and save those who cry to it
+kinds:
+- parallel
+units:
+- id: hb-isa-46-bel-nebo-carried
+  title: Bel and Nebo carried off; God who carries Israel
+  tradition: judaism
+- id: quran-25-furqan-and-objections
+  title: The Criterion sent down; charges of forgery and the prophet who eats in markets
+  tradition: islam
+matches:
+- kind: parallel
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  note: 'wa-ttakhadhū min dūnihi ālihatan lā yakhluqūna shayʾan wa-hum yukhlaqūna ~ yiśkərû ṣôrēf wə-yaʿăśēhû
+    ʾēl ... mim-məqômô lōʾ yāmîš ʾaf yiṣʿaq ʾēlāyw wə-lōʾ yaʿăneh mi-ṣṣārātô lōʾ yôšîʿennû: gods who are
+    themselves made and cannot save; the Quran adds that they have no power over death, life or resurrection
+    (wa-lā yamlikūna mawtan wa-lā ḥayātan wa-lā nushūran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 46:6
+      lang: he
+      text: הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ
+        אֵ֔ל יִסְגְּד֖וּ אַף יִֽשְׁתַּחֲוּֽוּ
+    - ref: Isa 46:7
+      lang: he
+      text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ
+        לֹ֣א יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:3
+      lang: ar
+      text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
+        لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
 ---
 
 ## Questions

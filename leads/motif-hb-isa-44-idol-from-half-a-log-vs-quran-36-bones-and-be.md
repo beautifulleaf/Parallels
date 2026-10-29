@@ -2,7 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-36-bones-and-be
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ Who revives rotten
   bones? Fire from the green tree; Be and it is
-summary: 'These two units share 1 motifs: god made fire for you from the green tree, from which you kindle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,48 +14,9 @@ layers:
 - motif
 motifs:
 - fire-from-green-tree
-passages:
-- tradition: judaism
-  ref: Isa 44:15
-  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
-    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
-    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
-    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
-    the firewood; the Quran makes the fire from wood a gift of the true God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
-    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
-- tradition: judaism
-  ref: Isa 44:16
-  note: 'God made fire for you from the green tree, from which you kindle (Wood as fuel set against false
-    gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned
-    for fire, the rest made a god). Q: alladhī jaʿala lakum mina sh-shajari l-akhḍari nāran fa-idhā antum
-    minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan (36:74). Isaiah mocks the idol made from
-    the firewood; the Quran makes the fire from wood a gift of the true God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף יָחֹם֙
-    וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
-- tradition: islam
-  ref: Quran 36:80
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
-- tradition: islam
-  ref: Quran 36:74
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. Wood as fuel set against false gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš
-    ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned for fire, the rest made a god). Q: alladhī jaʿala lakum mina
-    sh-shajari l-akhḍari nāran fa-idhā antum minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan
-    (36:74). Isaiah mocks the idol made from the firewood; the Quran makes the fire from wood a gift of
-    the true God.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made fire for you from the green tree, from which you kindle
     (weight 6.0). Pair score 6.0.'
@@ -91,6 +52,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made fire for you from the green tree, from which you kindle
+kinds:
+- echo
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-36-bones-and-be
+  title: Who revives rotten bones? Fire from the green tree; Be and it is
+  tradition: islam
+matches:
+- kind: echo
+  label: God made fire for you from the green tree, from which you kindle
+  note: 'Wood as fuel set against false gods. Isa: wə-hāyâ lə-ʾāḏām ləḇāʿēr ... ḥeṣyô śārap̄ bəmô-ʾēš
+    ... û-šəʾērîṯô lə-ʾēl ʿāśâ (half burned for fire, the rest made a god). Q: alladhī jaʿala lakum mina
+    sh-shajari l-akhḍari nāran fa-idhā antum minhu tūqidūn, after wa-ttakhadhū min dūni llāhi ālihatan
+    (36:74). Isaiah mocks the idol made from the firewood; the Quran makes the fire from wood a gift of
+    the true God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:15
+      lang: he
+      text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+        אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+    - ref: Isa 44:16
+      lang: he
+      text: חֶצְיוֹ֙ שָׂרַ֣ף בְּמוֹ אֵ֔שׁ עַל חֶצְיוֹ֙ בָּשָׂ֣ר יֹאכֵ֔ל יִצְלֶ֥ה צָלִ֖י וְיִשְׂבָּ֑ע אַף
+        יָחֹם֙ וְיֹאמַ֣ר הֶאָ֔ח חַמּוֹתִ֖י רָאִ֥יתִי אֽוּר
+    - ref: Isa 44:17
+      lang: he
+      text: וּשְׁאֵ֣רִית֔וֹ לְאֵ֥ל עָשָׂ֖ה לְפִסְל֑וֹ יסגוד יִסְגָּד ל֤וֹ וְיִשְׁתַּ֨חוּ֙ וְיִתְפַּלֵּ֣ל
+        אֵלָ֔יו וְיֹאמַר֙ הַצִּילֵ֔נִי כִּ֥י אֵלִ֖י אָֽתָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 36:74
+      lang: ar
+      text: وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
+    - ref: Quran 36:80
+      lang: ar
+      text: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
 ---
 
 ## Questions

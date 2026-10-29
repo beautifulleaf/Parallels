@@ -2,9 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-4-hypocrites-wavering
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Articles
   of faith; hypocrites wavering between two sides
-summary: 'These two units share 2 motifs: the hypocrites try to deceive god, but it is he who deceives
-  them, this people honors god with lips while its heart is far; its fear of him is a commandment of men
-  learned by rote.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,46 +15,9 @@ layers:
 motifs:
 - deceivers-deceived-by-god
 - lip-service-heart-far
-passages:
-- tradition: judaism
-  ref: Isa 29:15
-  note: 'The hypocrites try to deceive God, but it is he who deceives them (Isa 29:15 hôy ha-maʿămîqîm
-    mē-YHWH lastir ʿēṣâ ... wa-yōʾmĕrû mî rōʾēnû: hiding plans from God; Q 2:9 yukhādiʿūna llāha wa-lladhīna
-    āmanū wa-mā yakhdaʿūna illā anfusahum wa-mā yashʿurūn: trying to deceive God, deceiving only themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
-    מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
-- tradition: islam
-  ref: Quran 4:142
-  note: The hypocrites try to deceive God, but it is he who deceives them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
-    قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
-- tradition: judaism
-  ref: Isa 29:13
-  note: This people honors God with lips while its heart is far; its fear of him is a commandment of men
-    learned by rote
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
-    וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
-- tradition: islam
-  ref: Quran 4:142
-  note: 'This people honors God with lips while its heart is far; its fear of him is a commandment of
-    men learned by rote (Worship performed without the heart. Q: wa-idhā qāmū ilā l-ṣalāti qāmū kusālā
-    yurāʾūna l-nāsa wa-lā yadhkurūna llāha illā qalīlan. Isa: bə-fîw û-vi-śfātāyw kibbədûnî wə-libbô riḥaq
-    mimmennî wa-ttəhî yirʾātām ʾōtî miṣwat ʾănāšîm mə-lummādāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
-    قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Worship performed without the heart. Q: wa-idhā qāmū ilā l-ṣalāti qāmū kusālā yurāʾūna l-nāsa
-    wa-lā yadhkurūna llāha illā qalīlan. Isa: bə-fîw û-vi-śfātāyw kibbədûnî wə-libbô riḥaq mimmennî wa-ttəhî
-    yirʾātām ʾōtî miṣwat ʾănāšîm mə-lummādāh.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hypocrites try to deceive God, but it is he who deceives them
     (weight 6.3); This people honors God with lips while its heart is far; its fear of him is a commandment
@@ -94,6 +55,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: This people honors God with lips while its heart is far; its fear of him is a commandment of
+  men learned by rote
+kinds:
+- echo
+- shared
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-4-hypocrites-wavering
+  title: Articles of faith; hypocrites wavering between two sides
+  tradition: islam
+matches:
+- kind: echo
+  label: This people honors God with lips while its heart is far; its fear of him is a commandment of
+    men learned by rote
+  note: 'Worship performed without the heart. Q: wa-idhā qāmū ilā l-ṣalāti qāmū kusālā yurāʾūna l-nāsa
+    wa-lā yadhkurūna llāha illā qalīlan. Isa: bə-fîw û-vi-śfātāyw kibbədûnî wə-libbô riḥaq mimmennî wa-ttəhî
+    yirʾātām ʾōtî miṣwat ʾănāšîm mə-lummādāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:13
+      lang: he
+      text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
+        וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:142
+      lang: ar
+      text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
+        قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
+- kind: shared
+  label: The hypocrites try to deceive God, but it is he who deceives them
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:15
+      lang: he
+      text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
+        מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
+    note: 'Isa 29:15 hôy ha-maʿămîqîm mē-YHWH lastir ʿēṣâ ... wa-yōʾmĕrû mî rōʾēnû: hiding plans from
+      God; Q 2:9 yukhādiʿūna llāha wa-lladhīna āmanū wa-mā yakhdaʿūna illā anfusahum wa-mā yashʿurūn:
+      trying to deceive God, deceiving only themselves.'
+  - tradition: islam
+    passages:
+    - ref: Quran 4:142
+      lang: ar
+      text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
+        قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

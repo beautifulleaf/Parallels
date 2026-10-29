@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-19-resurrection-and-the-son
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Kneeling around hell,
   all will come to it; 'al-Rahman has taken a son' (Surah 19:66-98)
-summary: 'These two units share 1 motifs: every one of you will come to (pass by) hell; then the pious
-  are rescued.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - everyone-must-come-to-hell
-passages:
-- tradition: judaism
-  ref: Isa 43:2
-  note: 'Every one of you will come to (pass by) hell; then the pious are rescued (kî-tēlēk bəmô-ʾēš lōʾ
-    tikkāweh wəlehābâ lōʾ tibʿar-bāk; wa-in minkum illā wāriduhā ... thumma nunajjī lladhīna ttaqaw: God''s
-    people pass through fire unharmed. Isa says it of historical trials; Q of every soul''s coming to
-    hell, from which the God-fearing are rescued.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תַעֲבֹ֤ר בַּמַּ֨יִם֙ אִתְּךָ אָ֔נִי וּבַנְּהָר֖וֹת לֹ֣א יִשְׁטְפ֑וּךָ כִּֽי תֵלֵ֤ךְ בְּמוֹ
-    אֵשׁ֙ לֹ֣א תִכָּוֶ֔ה וְלֶהָבָ֖ה לֹ֥א תִבְעַר בָּֽךְ
-- tradition: islam
-  ref: Quran 19:71
-  note: 'Every one of you will come to (pass by) hell; then the pious are rescued (wa-in minkum illā wāriduhā;
-    the pious then rescued (later: the bridge over hell))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا
-- tradition: islam
-  ref: Quran 19:72
-  note: 'Every one of you will come to (pass by) hell; then the pious are rescued (wa-in minkum illā wāriduhā;
-    the pious then rescued (later: the bridge over hell))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. kî-tēlēk bəmô-ʾēš lōʾ tikkāweh wəlehābâ lōʾ tibʿar-bāk; wa-in minkum illā wāriduhā ... thumma
-    nunajjī lladhīna ttaqaw: God''s people pass through fire unharmed. Isa says it of historical trials;
-    Q of every soul''s coming to hell, from which the God-fearing are rescued.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every one of you will come to (pass by) hell; then the pious are
     rescued (weight 6.7). Pair score 6.7.'
@@ -83,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every one of you will come to (pass by) hell; then the pious are rescued
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-19-resurrection-and-the-son
+  title: Kneeling around hell, all will come to it; 'al-Rahman has taken a son' (Surah 19:66-98)
+  tradition: islam
+matches:
+- kind: echo
+  label: Every one of you will come to (pass by) hell; then the pious are rescued
+  note: 'kî-tēlēk bəmô-ʾēš lōʾ tikkāweh wəlehābâ lōʾ tibʿar-bāk; wa-in minkum illā wāriduhā ... thumma
+    nunajjī lladhīna ttaqaw: God''s people pass through fire unharmed. Isa says it of historical trials;
+    Q of every soul''s coming to hell, from which the God-fearing are rescued.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:2
+      lang: he
+      text: כִּֽי תַעֲבֹ֤ר בַּמַּ֨יִם֙ אִתְּךָ אָ֔נִי וּבַנְּהָר֖וֹת לֹ֣א יִשְׁטְפ֑וּךָ כִּֽי תֵלֵ֤ךְ
+        בְּמוֹ אֵשׁ֙ לֹ֣א תִכָּוֶ֔ה וְלֶהָבָ֖ה לֹ֥א תִבְעַר בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:71
+      lang: ar
+      text: وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا
+    - ref: Quran 19:72
+      lang: ar
+      text: ثُمَّ نُنَجِّى ٱلَّذِينَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيًّا
 ---
 
 ## Questions

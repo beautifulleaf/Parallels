@@ -2,8 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-7-primordial-covenant
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ The primordial covenant ("Am I not
   your Lord?")
-summary: 'These two units share 2 motifs: covenant made with those present and with those not here today
-  [divergence between the texts], covenant made with those present and with those not here today.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,68 +15,9 @@ layers:
 motifs:
 - covenant-includes-absent-future-generations-as-divergence
 - covenant-includes-absent-future-generations
-passages:
-- tradition: judaism
-  ref: Deut 29:9
-  note: 'Covenant made with those present and with those not here today [divergence between the texts]
-    (A covenant that binds those not yet born: akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum
-    vs wᵉlōʾ ʾittᵉkem lᵉbaddᵉkem ... wᵉʾēt ʾăšer ʾênennû pōh ʿimmānû hayyôm. Widened: in Deut it is Israel
-    at Moab, all ranks from woodcutter to water-drawer (ʾattem niṣṣābîm hayyôm kullᵉkem); in Q it is all
-    the children of Adam, drawn from their loins before history.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵיכֶ֑ם רָאשֵׁיכֶ֣ם שִׁבְטֵיכֶ֗ם זִקְנֵיכֶם֙
-    וְשֹׁ֣טְרֵיכֶ֔ם כֹּ֖ל אִ֥ישׁ יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Deut 29:13
-  note: 'Covenant made with those present and with those not here today [divergence between the texts]
-    (A covenant that binds those not yet born: akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum
-    vs wᵉlōʾ ʾittᵉkem lᵉbaddᵉkem ... wᵉʾēt ʾăšer ʾênennû pōh ʿimmānû hayyôm. Widened: in Deut it is Israel
-    at Moab, all ranks from woodcutter to water-drawer (ʾattem niṣṣābîm hayyôm kullᵉkem); in Q it is all
-    the children of Adam, drawn from their loins before history.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת הַבְּרִ֣ית הַזֹּ֔את וְאֶת הָאָלָ֖ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 7:172
-  note: 'Covenant made with those present and with those not here today [divergence between the texts]
-    (A covenant that binds those not yet born: akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum
-    vs wᵉlōʾ ʾittᵉkem lᵉbaddᵉkem ... wᵉʾēt ʾăšer ʾênennû pōh ʿimmānû hayyôm. Widened: in Deut it is Israel
-    at Moab, all ranks from woodcutter to water-drawer (ʾattem niṣṣābîm hayyôm kullᵉkem); in Q it is all
-    the children of Adam, drawn from their loins before history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ
-    أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا
-    كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
-- tradition: judaism
-  ref: Deut 29:13
-  note: Covenant made with those present and with those not here today
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת הַבְּרִ֣ית הַזֹּ֔את וְאֶת הָאָלָ֖ה הַזֹּֽאת
-- tradition: judaism
-  ref: Deut 29:14
-  note: Covenant made with those present and with those not here today
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ אֶת אֲשֶׁ֨ר יֶשְׁנ֜וֹ פֹּ֗ה עִמָּ֨נוּ֙ עֹמֵ֣ד הַיּ֔וֹם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאֵ֨ת
-    אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה עִמָּ֥נוּ הַיּֽוֹם
-- tradition: islam
-  ref: Quran 7:172
-  note: Covenant made with those present and with those not here today (all humanity, drawn from their
-    loins)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ
-    أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا
-    كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A covenant that binds those not yet born: akhadha rabbuka min banī ādama min ẓuhūrihim
-    dhurriyyatahum vs wᵉlōʾ ʾittᵉkem lᵉbaddᵉkem ... wᵉʾēt ʾăšer ʾênennû pōh ʿimmānû hayyôm. Widened: in
-    Deut it is Israel at Moab, all ranks from woodcutter to water-drawer (ʾattem niṣṣābîm hayyôm kullᵉkem);
-    in Q it is all the children of Adam, drawn from their loins before history.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Covenant made with those present and with those not here today [divergence
     between the texts] (weight 6.7); Covenant made with those present and with those not here today (weight
@@ -107,6 +47,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Covenant made with those present and with those not here today
+kinds:
+- divergence
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-7-primordial-covenant
+  title: The primordial covenant ("Am I not your Lord?")
+  tradition: islam
+matches:
+- kind: divergence
+  label: Covenant made with those present and with those not here today
+  note: 'A covenant that binds those not yet born: akhadha rabbuka min banī ādama min ẓuhūrihim dhurriyyatahum
+    vs wᵉlōʾ ʾittᵉkem lᵉbaddᵉkem ... wᵉʾēt ʾăšer ʾênennû pōh ʿimmānû hayyôm. Widened: in Deut it is Israel
+    at Moab, all ranks from woodcutter to water-drawer (ʾattem niṣṣābîm hayyôm kullᵉkem); in Q it is all
+    the children of Adam, drawn from their loins before history.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:9
+      lang: he
+      text: אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵיכֶ֑ם רָאשֵׁיכֶ֣ם שִׁבְטֵיכֶ֗ם
+        זִקְנֵיכֶם֙ וְשֹׁ֣טְרֵיכֶ֔ם כֹּ֖ל אִ֥ישׁ יִשְׂרָאֵֽל
+    - ref: Deut 29:13
+      lang: he
+      text: וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת הַבְּרִ֣ית הַזֹּ֔את וְאֶת הָאָלָ֖ה הַזֹּֽאת
+    - ref: Deut 29:14
+      lang: he
+      text: כִּי֩ אֶת אֲשֶׁ֨ר יֶשְׁנ֜וֹ פֹּ֗ה עִמָּ֨נוּ֙ עֹמֵ֣ד הַיּ֔וֹם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵ֑ינוּ
+        וְאֵ֨ת אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה עִמָּ֥נוּ הַיּֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:172
+      lang: ar
+      text: وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ
+        أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ
+        إِنَّا كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
 ---
 
 ## Questions

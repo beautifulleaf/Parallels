@@ -2,8 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-7-moses-pharaoh
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ Moses before Pharaoh, the
   magicians and the plagues'
-summary: 'These two units share 1 motifs: the meek / those who wait for yhwh / the righteous and their
-  seed shall inherit the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,46 +15,9 @@ layers:
 - motif
 motifs:
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 37:9
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
-- tradition: judaism
-  ref: Ps 37:11
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
-- tradition: islam
-  ref: Quran 7:128
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (the earth is God's; he gives it to whom he wills; the oppressed inherit east and west of the
-    blessed land)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا
-    مَن يَشَآءُ مِنْ عِبَادِهِۦ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ
-- tradition: islam
-  ref: Quran 7:137
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (the earth is God's; he gives it to whom he wills; the oppressed inherit east and west of the
-    blessed land)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا
-    ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا
-    صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. The cognate roots w-r-th / y-r-š. Ps: wə-qōwê YHWH hēmmāh yîrəšû-ʾāreṣ; wa-ʿănāwîm yîrəšû-ʾāreṣ;
-    ṣaddîqîm yîrəšû-ʾāreṣ. Q: inna l-arḍa li-llāhi yūrithuhā man yashāʾu min ʿibādihi wa-l-ʿāqibatu li-l-muttaqīna;
-    wa-awrathnā l-qawma lladhīna kānū yustaḍʿafūna mashāriqa l-arḍi wa-maghāribahā. Q tells it of Israel
-    as the oppressed (mustaḍʿafūn ≈ ʿănāwîm) after Pharaoh''s fall.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
     shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
@@ -91,6 +53,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+  arets)
+kinds:
+- parallel
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: parallel
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  note: 'The cognate roots w-r-th / y-r-š. Ps: wə-qōwê YHWH hēmmāh yîrəšû-ʾāreṣ; wa-ʿănāwîm yîrəšû-ʾāreṣ;
+    ṣaddîqîm yîrəšû-ʾāreṣ. Q: inna l-arḍa li-llāhi yūrithuhā man yashāʾu min ʿibādihi wa-l-ʿāqibatu li-l-muttaqīna;
+    wa-awrathnā l-qawma lladhīna kānū yustaḍʿafūna mashāriqa l-arḍi wa-maghāribahā. Q tells it of Israel
+    as the oppressed (mustaḍʿafūn ≈ ʿănāwîm) after Pharaoh''s fall.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:9
+      lang: he
+      text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
+    - ref: Ps 37:11
+      lang: he
+      text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
+    - ref: Ps 37:29
+      lang: he
+      text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:128
+      lang: ar
+      text: قَالَ مُوسَىٰ لِقَوْمِهِ ٱسْتَعِينُوا۟ بِٱللَّهِ وَٱصْبِرُوٓا۟ إِنَّ ٱلْأَرْضَ لِلَّهِ يُورِثُهَا
+        مَن يَشَآءُ مِنْ عِبَادِهِۦ وَٱلْعَٰقِبَةُ لِلْمُتَّقِينَ
+    - ref: Quran 7:137
+      lang: ar
+      text: وَأَوْرَثْنَا ٱلْقَوْمَ ٱلَّذِينَ كَانُوا۟ يُسْتَضْعَفُونَ مَشَٰرِقَ ٱلْأَرْضِ وَمَغَٰرِبَهَا
+        ٱلَّتِى بَٰرَكْنَا فِيهَا وَتَمَّتْ كَلِمَتُ رَبِّكَ ٱلْحُسْنَىٰ عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ بِمَا
+        صَبَرُوا۟ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُۥ وَمَا كَانُوا۟ يَعْرِشُونَ
 ---
 
 ## Questions

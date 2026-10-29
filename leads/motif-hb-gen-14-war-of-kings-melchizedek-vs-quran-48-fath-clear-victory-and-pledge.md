@@ -2,7 +2,7 @@
 id: motif-hb-gen-14-war-of-kings-melchizedek-vs-quran-48-fath-clear-victory-and-pledge
 title: 'War of the four kings, rescue of Lot, Melchizedek ↔ Al-Fath: the clear opening, the sakina, the
   hand of God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 1 motifs: oath sworn by raising the hand to god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - oath-with-raised-hand
-passages:
-- tradition: judaism
-  ref: Gen 14:22
-  note: Oath sworn by raising the hand to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אַבְרָ֖ם אֶל מֶ֣לֶךְ סְדֹ֑ם הֲרִימֹ֨תִי יָדִ֤י אֶל יְהוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם
-    וָאָֽרֶץ
-- tradition: islam
-  ref: Quran 48:10
-  note: Oath sworn by raising the hand to God (handclasp of bay'a)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ فَمَن
-    نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ فَسَيُؤْتِيهِ
-    أَجْرًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A raised hand that binds before God: hărîmōṯî yāḏî ʾel YHWH ʾēl ʿelyôn qōnēh šāmayim wā-ʾāreṣ
-    vs. inna lladhīna yubāyiʿūnaka innamā yubāyiʿūna llāha yadu llāhi fawqa aydīhim fa-man nakatha fa-innamā
-    yankuthu ʿalā nafsih. Abram raises his own hand in an oath to God; in the Quran the believers'' hands
-    are clasped in a pledge to the Prophet, and God''s hand is over theirs.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Oath sworn by raising the hand to God (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -66,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Oath sworn by raising the hand to God
+kinds:
+- echo
+units:
+- id: hb-gen-14-war-of-kings-melchizedek
+  title: War of the four kings, rescue of Lot, Melchizedek
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: echo
+  label: Oath sworn by raising the hand to God
+  note: 'A raised hand that binds before God: hărîmōṯî yāḏî ʾel YHWH ʾēl ʿelyôn qōnēh šāmayim wā-ʾāreṣ
+    vs. inna lladhīna yubāyiʿūnaka innamā yubāyiʿūna llāha yadu llāhi fawqa aydīhim fa-man nakatha fa-innamā
+    yankuthu ʿalā nafsih. Abram raises his own hand in an oath to God; in the Quran the believers'' hands
+    are clasped in a pledge to the Prophet, and God''s hand is over theirs.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 14:22
+      lang: he
+      text: וַיֹּ֥אמֶר אַבְרָ֖ם אֶל מֶ֣לֶךְ סְדֹ֑ם הֲרִימֹ֨תִי יָדִ֤י אֶל יְהוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה
+        שָׁמַ֥יִם וָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 48:10
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يُبَايِعُونَكَ إِنَّمَا يُبَايِعُونَ ٱللَّهَ يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ
+        فَمَن نَّكَثَ فَإِنَّمَا يَنكُثُ عَلَىٰ نَفْسِهِۦ وَمَنْ أَوْفَىٰ بِمَا عَٰهَدَ عَلَيْهُ ٱللَّهَ
+        فَسَيُؤْتِيهِ أَجْرًا عَظِيمًا
 ---
 
 ## Questions

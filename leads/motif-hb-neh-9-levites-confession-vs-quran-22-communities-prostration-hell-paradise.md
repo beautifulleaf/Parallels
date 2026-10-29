@@ -2,7 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-22-communities-prostration-hell-paradise
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Six communities judged; all
   things prostrate; garments of fire and bracelets of gold
-summary: 'These two units share 1 motifs: the host of heaven bows down to god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - host-of-heaven-bows-to-god
-passages:
-- tradition: judaism
-  ref: Neh 9:6
-  note: The host of heaven bows down to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל
-    צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת
-    כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
-- tradition: islam
-  ref: Quran 22:18
-  note: The host of heaven bows down to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
-    وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
-    حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا
-    يَشَآءُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yasjudu lahu man fī s-samāwāti ~ û-ṣəvāʾ haš-šāmayim ləkā mištaḥăwîm: the heavenly host
-    prostrates to God (sajada / hištaḥăwâ).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -69,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The host of heaven bows down to God
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-22-communities-prostration-hell-paradise
+  title: Six communities judged; all things prostrate; garments of fire and bracelets of gold
+  tradition: islam
+matches:
+- kind: parallel
+  label: The host of heaven bows down to God
+  note: 'yasjudu lahu man fī s-samāwāti ~ û-ṣəvāʾ haš-šāmayim ləkā mištaḥăwîm: the heavenly host prostrates
+    to God (sajada / hištaḥăwâ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:6
+      lang: he
+      text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם
+        וְכָל צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה
+        אֶת כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 22:18
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
+        وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
+        حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ
+        مَا يَشَآءُ
 ---
 
 ## Questions

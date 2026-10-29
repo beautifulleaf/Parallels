@@ -2,10 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-7-moses-pharaoh
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses before Pharaoh,
   the magicians and the plagues
-summary: 'These two units share 5 motifs: prophet''s hand turns leprous, white as snow, and is restored
-  as a sign [divergence between the texts], nile water is turned to blood, prophet''s hand turns leprous,
-  white as snow, and is restored as a sign, a staff thrown down becomes a serpent and turns back into
-  a staff….'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -22,125 +19,9 @@ motifs:
 - hand-turned-leprous-white-as-snow
 - staff-becomes-serpent
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 4:6
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
-    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
-    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:30
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
-    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
-    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֑ה וַיַּ֥עַשׂ הָאֹתֹ֖ת
-    לְעֵינֵ֥י הָעָֽם
-- tradition: islam
-  ref: Quran 7:108
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
-    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
-    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
-- tradition: judaism
-  ref: Exod 4:9
-  note: Nile water is turned to blood
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֡ה אִם לֹ֣א יַאֲמִ֡ינוּ גַּם֩ לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה וְלֹ֤א יִשְׁמְעוּן֙ לְקֹלֶ֔ךָ
-    וְלָקַחְתָּ֙ מִמֵּימֵ֣י הַיְאֹ֔ר וְשָׁפַכְתָּ֖ הַיַּבָּשָׁ֑ה וְהָי֤וּ הַמַּ֨יִם֙ אֲשֶׁ֣ר תִּקַּ֣ח
-    מִן הַיְאֹ֔ר וְהָי֥וּ לְדָ֖ם בַּיַּבָּֽשֶׁת
-- tradition: islam
-  ref: Quran 7:133
-  note: Nile water is turned to blood (only 'blood')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Exod 4:6
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:7
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
-    וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
-- tradition: islam
-  ref: Quran 7:108
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand drawn out white for
-    beholders; no leprosy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
-- tradition: judaism
-  ref: Exod 4:2
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
-- tradition: judaism
-  ref: Exod 4:3
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס מֹשֶׁ֖ה
-    מִפָּנָֽיו
-- tradition: islam
-  ref: Quran 7:107
-  note: A staff thrown down becomes a serpent and turns back into a staff (thu'ban mubin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
-- tradition: judaism
-  ref: Exod 4:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙ אֲשֶׁר
-    שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח
-    אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 7:132
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 7:133
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence, echo. Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś
-    hā-ʾōtōt lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for
-    the beholders'', performed before Pharaoh. Q drops the leprosy and changes the audience. Exod: wa-yyašlikhēhû
-    ʾarṣāh wa-yhî lə-nāḥāš wa-yyānos Mōšeh mip-pānāyw (a private sign at the bush; Moses flees). Q: fa-alqā
-    ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun, before Pharaoh, with no flight.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet''s hand turns leprous, white as snow, and is restored as
     a sign [divergence between the texts] (weight 6.3); Nile water is turned to blood (weight 5.8); Prophet''s
@@ -179,6 +60,93 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet's hand turns leprous, white as snow, and is restored as a sign
+kinds:
+- divergence
+- echo
+- shared
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prophet's hand turns leprous, white as snow, and is restored as a sign
+  note: 'Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
+    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
+    performed before Pharaoh. Q drops the leprosy and changes the audience.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:6
+      lang: he
+      text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ
+        וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
+    - ref: Exod 4:30
+      lang: he
+      text: וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֑ה וַיַּ֥עַשׂ
+        הָאֹתֹ֖ת לְעֵינֵ֥י הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:108
+      lang: ar
+      text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
+- kind: echo
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  note: 'Exod: wa-yyašlikhēhû ʾarṣāh wa-yhî lə-nāḥāš wa-yyānos Mōšeh mip-pānāyw (a private sign at the
+    bush; Moses flees). Q: fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun, before Pharaoh, with no flight.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:3
+      lang: he
+      text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס
+        מֹשֶׁ֖ה מִפָּנָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 7:107
+      lang: ar
+      text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
+- kind: shared
+  label: Nile water is turned to blood
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:9
+      lang: he
+      text: וְהָיָ֡ה אִם לֹ֣א יַאֲמִ֡ינוּ גַּם֩ לִשְׁנֵ֨י הָאֹת֜וֹת הָאֵ֗לֶּה וְלֹ֤א יִשְׁמְעוּן֙ לְקֹלֶ֔ךָ
+        וְלָקַחְתָּ֙ מִמֵּימֵ֣י הַיְאֹ֔ר וְשָׁפַכְתָּ֖ הַיַּבָּשָׁ֑ה וְהָי֤וּ הַמַּ֨יִם֙ אֲשֶׁ֣ר תִּקַּ֣ח
+        מִן הַיְאֹ֔ר וְהָי֥וּ לְדָ֖ם בַּיַּבָּֽשֶׁת
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    note: only 'blood'
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:21
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙
+        אֲשֶׁר שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א
+        יְשַׁלַּ֖ח אֶת הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:132
+      lang: ar
+      text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    note: self-arrogance rather than divine hardening
 ---
 
 ## Questions

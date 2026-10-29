@@ -2,7 +2,7 @@
 id: motif-hb-jer-33-branch-and-cosmic-covenant-vs-quran-40-call-on-me
 title: Healing of the city, the Righteous Branch and the covenant with day and night ↔ God helps his messengers;
   call on me; the stages of life
-summary: 'These two units share 1 motifs: your lord said ''call on me and i will answer you''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - call-on-me-i-will-answer
-passages:
-- tradition: judaism
-  ref: Jer 33:3
-  note: 'Your Lord said ''Call on me and I will answer you'' (qərāʾ ʾēlay wə-ʾeʿĕnekkā wə-ʾaggîḏâ ləḵā
-    gəḏōlôṯ û-ḇəṣurôṯ vs. wa-qāla rabbukumu dʿūnī astajib lakum: call to me and I will answer. Jeremiah''s
-    words are to the prophet in prison; the Quran''s to all (''your Lord said''), followed by a threat
-    to those too proud to worship.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קְרָ֥א אֵלַ֖י וְאֶעֱנֶ֑ךָּ וְאַגִּ֧ידָה לְּךָ֛ גְּדֹל֥וֹת וּבְצֻר֖וֹת לֹ֥א יְדַעְתָּֽם
-- tradition: islam
-  ref: Quran 40:60
-  note: Your Lord said 'Call on me and I will answer you'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى
-    سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. qərāʾ ʾēlay wə-ʾeʿĕnekkā wə-ʾaggîḏâ ləḵā gəḏōlôṯ û-ḇəṣurôṯ vs. wa-qāla rabbukumu dʿūnī astajib
-    lakum: call to me and I will answer. Jeremiah''s words are to the prophet in prison; the Quran''s
-    to all (''your Lord said''), followed by a threat to those too proud to worship.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your Lord said ''Call on me and I will answer you'' (weight 6.7).
     Pair score 6.7.'
@@ -70,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your Lord said 'Call on me and I will answer you'
+kinds:
+- parallel
+units:
+- id: hb-jer-33-branch-and-cosmic-covenant
+  title: Healing of the city, the Righteous Branch and the covenant with day and night
+  tradition: judaism
+- id: quran-40-call-on-me
+  title: God helps his messengers; call on me; the stages of life
+  tradition: islam
+matches:
+- kind: parallel
+  label: Your Lord said 'Call on me and I will answer you'
+  note: 'qərāʾ ʾēlay wə-ʾeʿĕnekkā wə-ʾaggîḏâ ləḵā gəḏōlôṯ û-ḇəṣurôṯ vs. wa-qāla rabbukumu dʿūnī astajib
+    lakum: call to me and I will answer. Jeremiah''s words are to the prophet in prison; the Quran''s
+    to all (''your Lord said''), followed by a threat to those too proud to worship.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 33:3
+      lang: he
+      text: קְרָ֥א אֵלַ֖י וְאֶעֱנֶ֑ךָּ וְאַגִּ֧ידָה לְּךָ֛ גְּדֹל֥וֹת וּבְצֻר֖וֹת לֹ֥א יְדַעְתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 40:60
+      lang: ar
+      text: وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى
+        سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ
 ---
 
 ## Questions

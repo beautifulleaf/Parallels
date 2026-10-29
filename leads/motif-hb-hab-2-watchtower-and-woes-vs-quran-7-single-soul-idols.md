@@ -2,8 +2,7 @@
 id: motif-hb-hab-2-watchtower-and-woes-vs-quran-7-single-soul-idols
 title: The vision on tablets; the righteous live by faith; five woes ↔ The single soul, the couple's vow,
   and powerless idols
-summary: 'These two units share 2 motifs: woe to the one who says to wood ''awake!'' and to dumb stone
-  ''arise!''; there is no breath in it, idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,68 +15,9 @@ layers:
 motifs:
 - cry-awake-to-wood-and-dumb-stone
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Hab 2:19
-  note: Woe to the one who says to wood 'Awake!' and to dumb stone 'Arise!'; there is no breath in it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה ה֗וּא תָּפוּשׂ֙ זָהָ֣ב
-    וָכֶ֔סֶף וְכָל ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ
-- tradition: judaism
-  ref: Hab 2:18
-  note: Woe to the one who says to wood 'Awake!' and to dumb stone 'Arise!'; there is no breath in it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: islam
-  ref: Quran 7:193
-  note: 'Woe to the one who says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in
-    it (Calling on an idol that cannot respond: wa-in tadʿūhum ilā l-hudā lā yattabiʿūkum sawāʾun ʿalaykum
-    a-daʿawtumūhum am antum ṣāmitūn vs hôy ʾōmēr lāʿēṣ hāqîṣāh ʿûrî lᵉʾeben dûmām ... ʾĕlîlîm ʾillᵉmîm.
-    Silence (ṣāmitūn) is the worshippers'' in Q, the stone''s (dûmām) in Hab.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ أَمْ
-    أَنتُمْ صَٰمِتُونَ
-- tradition: islam
-  ref: Quran 7:198
-  note: 'Woe to the one who says to wood ''Awake!'' and to dumb stone ''Arise!''; there is no breath in
-    it (Calling on an idol that cannot respond: wa-in tadʿūhum ilā l-hudā lā yattabiʿūkum sawāʾun ʿalaykum
-    a-daʿawtumūhum am antum ṣāmitūn vs hôy ʾōmēr lāʿēṣ hāqîṣāh ʿûrî lᵉʾeben dûmām ... ʾĕlîlîm ʾillᵉmîm.
-    Silence (ṣāmitūn) is the worshippers'' in Q, the stone''s (dûmām) in Hab.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
-- tradition: judaism
-  ref: Hab 2:18
-  note: Idols of wood and stone that cannot see, hear, eat or smell (dumb idols (elilim illemim))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: islam
-  ref: Quran 7:195
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
-    يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
-    فَلَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 7:198
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Calling on an idol that cannot respond: wa-in tadʿūhum ilā l-hudā lā yattabiʿūkum sawāʾun ʿalaykum
-    a-daʿawtumūhum am antum ṣāmitūn vs hôy ʾōmēr lāʿēṣ hāqîṣāh ʿûrî lᵉʾeben dûmām ... ʾĕlîlîm ʾillᵉmîm.
-    Silence (ṣāmitūn) is the worshippers'' in Q, the stone''s (dûmām) in Hab.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to the one who says to wood ''Awake!'' and to dumb stone ''Arise!'';
     there is no breath in it (weight 6.7); Idols of wood and stone that cannot see, hear, eat or smell
@@ -113,6 +53,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to the one who says to wood 'Awake!' and to dumb stone 'Arise!'; there is no breath in it
+kinds:
+- echo
+- shared
+units:
+- id: hb-hab-2-watchtower-and-woes
+  title: The vision on tablets; the righteous live by faith; five woes
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: echo
+  label: Woe to the one who says to wood 'Awake!' and to dumb stone 'Arise!'; there is no breath in it
+  note: 'Calling on an idol that cannot respond: wa-in tadʿūhum ilā l-hudā lā yattabiʿūkum sawāʾun ʿalaykum
+    a-daʿawtumūhum am antum ṣāmitūn vs hôy ʾōmēr lāʿēṣ hāqîṣāh ʿûrî lᵉʾeben dûmām ... ʾĕlîlîm ʾillᵉmîm.
+    Silence (ṣāmitūn) is the worshippers'' in Q, the stone''s (dûmām) in Hab.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+    - ref: Hab 2:19
+      lang: he
+      text: ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה ה֗וּא תָּפוּשׂ֙
+        זָהָ֣ב וָכֶ֔סֶף וְכָל ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:193
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَتَّبِعُوكُمْ سَوَآءٌ عَلَيْكُمْ أَدَعَوْتُمُوهُمْ
+        أَمْ أَنتُمْ صَٰمِتُونَ
+    - ref: Quran 7:198
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ
+        لَا يُبْصِرُونَ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+    note: dumb idols (elilim illemim)
+  - tradition: islam
+    passages:
+    - ref: Quran 7:195
+      lang: ar
+      text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
+        يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
+        فَلَا تُنظِرُونِ
+    - ref: Quran 7:198
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ
+        لَا يُبْصِرُونَ
 ---
 
 ## Questions

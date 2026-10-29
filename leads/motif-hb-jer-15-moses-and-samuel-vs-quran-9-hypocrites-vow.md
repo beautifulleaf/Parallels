@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-15-moses-and-samuel-vs-quran-9-hypocrites-vow
 title: Though Moses and Samuel stood before me ↔ The broken vow of charity; seventy prayers in vain
-summary: 'These two units share 1 motifs: even if the prophet asks forgiveness for them seventy times
-  god will not forgive them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - seventy-times-forgiveness-useless
-passages:
-- tradition: judaism
-  ref: Jer 15:1
-  note: 'Even if the prophet asks forgiveness for them seventy times God will not forgive them (No amount
-    of intercession will change God''s verdict: in tastaghfir lahum sabʿīna marratan fa-lan yaghfira llāhu
-    lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it seventy prayers;
-    Jer the greatest intercessors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל הָעָ֣ם
-    הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל פָּנַ֖י וְיֵצֵֽאוּ
-- tradition: islam
-  ref: Quran 9:80
-  note: Even if the prophet asks forgiveness for them seventy times God will not forgive them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن
-    يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. No amount of intercession will change God''s verdict: in tastaghfir lahum sabʿīna marratan fa-lan
-    yaghfira llāhu lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it
-    seventy prayers; Jer the greatest intercessors.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Even if the prophet asks forgiveness for them seventy times God
     will not forgive them (weight 6.7). Pair score 6.7.'
@@ -64,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Even if the prophet asks forgiveness for them seventy times God will not forgive them
+kinds:
+- echo
+units:
+- id: hb-jer-15-moses-and-samuel
+  title: Though Moses and Samuel stood before me
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: echo
+  label: Even if the prophet asks forgiveness for them seventy times God will not forgive them
+  note: 'No amount of intercession will change God''s verdict: in tastaghfir lahum sabʿīna marratan fa-lan
+    yaghfira llāhu lahum vs ʾim-yaʿămōd mōšeh ûšᵉmûʾēl lᵉpānay ʾên napšî ʾel-hāʿām hazzeh. Q makes it
+    seventy prayers; Jer the greatest intercessors.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 15:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל הָעָ֣ם
+        הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל פָּנַ֖י וְיֵצֵֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:80
+      lang: ar
+      text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً
+        فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا
+        يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

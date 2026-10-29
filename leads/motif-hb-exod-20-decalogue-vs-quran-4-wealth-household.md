@@ -1,9 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-4-wealth-household
 title: The Ten Words and the people's fear ↔ Wealth by consent, major sins, and discord in marriage
-summary: 'These two units share 3 motifs: prohibition of coveting the neighbor''s wife and property [divergence
-  between the texts], prohibition of coveting the neighbor''s wife and property, prohibitions of murder,
-  adultery, theft and false witness.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,84 +16,9 @@ motifs:
 - covet-prohibition-as-divergence
 - covet-prohibition
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Exod 20:17
-  note: 'Prohibition of coveting the neighbor''s wife and property [divergence between the texts] (Exod
-    20:17 lōʾ taḥmōd bêt rēʿekā lōʾ taḥmōd ʾēšet rēʿekā ... wĕ-kōl ʾăšer lĕ-rēʿekā: do not covet your
-    neighbour''s house, wife, slaves, animals; Q 4:32 wa-lā tatamannaw mā faḍḍala llāhu bihi baʿḍakum
-    ʿalā baʿḍin li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna wa-sʾalū llāha
-    min faḍlihi: do not wish for what God has given some of you over others; men and women each have their
-    share; ask God for his bounty. The object shifts from a neighbour''s goods (including his wife) to
-    God-given advantage, especially between men and women, and the alternative is offered: ask God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ
-    וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
-- tradition: islam
-  ref: Quran 4:32
-  note: 'Prohibition of coveting the neighbor''s wife and property [divergence between the texts] (Exod
-    20:17 lōʾ taḥmōd bêt rēʿekā lōʾ taḥmōd ʾēšet rēʿekā ... wĕ-kōl ʾăšer lĕ-rēʿekā: do not covet your
-    neighbour''s house, wife, slaves, animals; Q 4:32 wa-lā tatamannaw mā faḍḍala llāhu bihi baʿḍakum
-    ʿalā baʿḍin li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna wa-sʾalū llāha
-    min faḍlihi: do not wish for what God has given some of you over others; men and women each have their
-    share; ask God for his bounty. The object shifts from a neighbour''s goods (including his wife) to
-    God-given advantage, especially between men and women, and the alternative is offered: ask God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا
-    ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ
-    ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
-- tradition: judaism
-  ref: Exod 20:17
-  note: Prohibition of coveting the neighbor's wife and property
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ
-    וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
-- tradition: islam
-  ref: Quran 4:32
-  note: Prohibition of coveting the neighbor's wife and property (do not covet (lā tatamannaw) what God
-    preferred some with; ask God of his bounty)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا
-    ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ
-    ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
-- tradition: judaism
-  ref: Exod 20:13
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Exod 20:14
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 4:29
-  note: 'Prohibitions of murder, adultery, theft and false witness (Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ
-    tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili illā an takūna tijāratan ʿan tarāḍin minkum
-    wa-lā taqtulū anfusakum: no wrongful taking of wealth (except by consented trade) and no killing,
-    side by side as in the Decalogue.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
-    أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ
-    رَحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo. Exod 20:17 lōʾ taḥmōd bêt rēʿekā lōʾ taḥmōd ʾēšet rēʿekā ... wĕ-kōl ʾăšer lĕ-rēʿekā:
-    do not covet your neighbour''s house, wife, slaves, animals; Q 4:32 wa-lā tatamannaw mā faḍḍala llāhu
-    bihi baʿḍakum ʿalā baʿḍin li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna
-    wa-sʾalū llāha min faḍlihi: do not wish for what God has given some of you over others; men and women
-    each have their share; ask God for his bounty. The object shifts from a neighbour''s goods (including
-    his wife) to God-given advantage, especially between men and women, and the alternative is offered:
-    ask God. Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili
-    illā an takūna tijāratan ʿan tarāḍin minkum wa-lā taqtulū anfusakum: no wrongful taking of wealth
-    (except by consented trade) and no killing, side by side as in the Decalogue.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of coveting the neighbor''s wife and property [divergence
     between the texts] (weight 6.7); Prohibition of coveting the neighbor''s wife and property (weight
@@ -127,6 +50,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibition of coveting the neighbor's wife and property
+kinds:
+- divergence
+- echo
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-4-wealth-household
+  title: Wealth by consent, major sins, and discord in marriage
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prohibition of coveting the neighbor's wife and property
+  note: 'Exod 20:17 lōʾ taḥmōd bêt rēʿekā lōʾ taḥmōd ʾēšet rēʿekā ... wĕ-kōl ʾăšer lĕ-rēʿekā: do not covet
+    your neighbour''s house, wife, slaves, animals; Q 4:32 wa-lā tatamannaw mā faḍḍala llāhu bihi baʿḍakum
+    ʿalā baʿḍin li-r-rijāli naṣībun mimmā ktasabū wa-li-n-nisāʾi naṣībun mimmā ktasabna wa-sʾalū llāha
+    min faḍlihi: do not wish for what God has given some of you over others; men and women each have their
+    share; ask God for his bounty. The object shifts from a neighbour''s goods (including his wife) to
+    God-given advantage, especially between men and women, and the alternative is offered: ask God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:17
+      lang: he
+      text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ
+        וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:32
+      lang: ar
+      text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ
+        مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ
+        إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
+- kind: echo
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'Exod 20:13, 15 lōʾ tirṣāḥ ... lōʾ tignōb; Q 4:29 lā taʾkulū amwālakum baynakum bi-l-bāṭili illā
+    an takūna tijāratan ʿan tarāḍin minkum wa-lā taqtulū anfusakum: no wrongful taking of wealth (except
+    by consented trade) and no killing, side by side as in the Decalogue.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:13
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Exod 20:15
+      lang: he
+      text: לֹ֖א תִּגְנֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 4:29
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
+        أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ
+        بِكُمْ رَحِيمًا
 ---
 
 ## Questions

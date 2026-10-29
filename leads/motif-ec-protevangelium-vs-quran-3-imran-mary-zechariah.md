@@ -1,9 +1,7 @@
 ---
 id: motif-ec-protevangelium-vs-quran-3-imran-mary-zechariah
 title: Protevangelium of James ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 4 motifs: child miraculously fed in the sanctuary, lots, rods or reeds
-  decide who will be the child''s guardian, mother vows her (unborn) child to god''s service, child raised
-  in the sanctuary or temple.'
+summary: 4 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -19,49 +17,7 @@ motifs:
 - lots-for-guardian
 - mother-dedicates-child
 - child-raised-in-sanctuary
-passages:
-- tradition: christianity-early
-  ref: 'Protevangelium of James: 8'
-  note: Child miraculously fed in the sanctuary (fed by the hand of an angel)
-- tradition: islam
-  ref: Quran 3:37
-  note: Child miraculously fed in the sanctuary
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
-    كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
-    لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
-- tradition: christianity-early
-  ref: 'Protevangelium of James: 9'
-  note: Lots, rods or reeds decide who will be the child's guardian (the widowers' rods)
-- tradition: islam
-  ref: Quran 3:44
-  note: Lots, rods or reeds decide who will be the child's guardian (they cast their pens (aqlam))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ
-    أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
-- tradition: christianity-early
-  ref: 'Protevangelium of James: 4'
-  note: Mother vows her (unborn) child to God's service
-- tradition: islam
-  ref: Quran 3:35
-  note: Mother vows her (unborn) child to God's service (muharraran, consecrated)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
-    مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-- tradition: christianity-early
-  ref: 'Protevangelium of James: 7–8'
-  note: Child raised in the sanctuary or temple
-- tradition: islam
-  ref: Quran 3:37
-  note: Child raised in the sanctuary or temple
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
-    كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
-    لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Child miraculously fed in the sanctuary (weight 6.3); Lots, rods
     or reeds decide who will be the child''s guardian (weight 6.0); Mother vows her (unborn) child to
@@ -73,6 +29,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Child miraculously fed in the sanctuary
+kinds:
+- shared
+units:
+- id: ec-protevangelium
+  title: Protevangelium of James
+  tradition: christianity-early
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: shared
+  label: Child miraculously fed in the sanctuary
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Protevangelium of James: 8'
+    note: fed by the hand of an angel
+  - tradition: islam
+    passages:
+    - ref: Quran 3:37
+      lang: ar
+      text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
+        كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
+        لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
+- kind: shared
+  label: Lots, rods or reeds decide who will be the child's guardian
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Protevangelium of James: 9'
+    note: the widowers' rods
+  - tradition: islam
+    passages:
+    - ref: Quran 3:44
+      lang: ar
+      text: ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ
+        أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ
+    note: they cast their pens (aqlam)
+- kind: shared
+  label: Mother vows her (unborn) child to God's service
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Protevangelium of James: 4'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:35
+      lang: ar
+      text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
+        مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    note: muharraran, consecrated
+- kind: shared
+  label: Child raised in the sanctuary or temple
+  sides:
+  - tradition: christianity-early
+    passages:
+    - ref: 'Protevangelium of James: 7–8'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:37
+      lang: ar
+      text: فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا
+        كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ
+        لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-37-dry-bones-vs-quran-23-creation-of-man-and-gifts
 title: The valley of dry bones ↔ Man from clay through the stages of the womb; seven paths, water, Sinai's
   tree, cattle and ships
-summary: 'These two units share 1 motifs: in the womb god makes the lump into bones and clothes the bones
-  with flesh, then makes it another creation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - bones-clothed-with-flesh
-passages:
-- tradition: judaism
-  ref: Ezek 37:6
-  note: 'In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
-    creation (fa-kasawnā l-ʿiẓāma laḥman ~ wə-hāʿălêtî ʿălêkem bāśār wə-qāramtî ʿălêkem ʿôr: flesh laid
-    over bones; Ezekiel uses it for the reviving of the dead, the Quran for the embryo and then for the
-    raising on the Day of Resurrection (tubʿathūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּי֩ עֲלֵיכֶ֨ם גִּדִ֜ים וְֽהַעֲלֵתִ֧י עֲלֵיכֶ֣ם בָּשָׂ֗ר וְקָרַמְתִּ֤י עֲלֵיכֶם֙ ע֔וֹר
-    וְנָתַתִּ֥י בָכֶ֛ם ר֖וּחַ וִחְיִיתֶ֑ם וִידַעְתֶּ֖ם כִּֽי אֲנִ֥י יְהוָֽה
-- tradition: judaism
-  ref: Ezek 37:8
-  note: 'In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
-    creation (fa-kasawnā l-ʿiẓāma laḥman ~ wə-hāʿălêtî ʿălêkem bāśār wə-qāramtî ʿălêkem ʿôr: flesh laid
-    over bones; Ezekiel uses it for the reviving of the dead, the Quran for the embryo and then for the
-    raising on the Day of Resurrection (tubʿathūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָאִ֜יתִי וְהִנֵּֽה עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה
-    וְר֖וּחַ אֵ֥ין בָּהֶֽם
-- tradition: islam
-  ref: Quran 23:14
-  note: In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
-    creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
-    عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ
-    ٱلْخَٰلِقِينَ
-- tradition: islam
-  ref: Quran 23:16
-  note: In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
-    creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَٰمَةِ تُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-kasawnā l-ʿiẓāma laḥman ~ wə-hāʿălêtî ʿălêkem bāśār wə-qāramtî ʿălêkem ʿôr: flesh laid over
-    bones; Ezekiel uses it for the reviving of the dead, the Quran for the embryo and then for the raising
-    on the Day of Resurrection (tubʿathūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the womb God makes the lump into bones and clothes the bones
     with flesh, then makes it another creation (weight 6.7). Pair score 6.7.'
@@ -92,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
+  creation
+kinds:
+- echo
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-23-creation-of-man-and-gifts
+  title: Man from clay through the stages of the womb; seven paths, water, Sinai's tree, cattle and ships
+  tradition: islam
+matches:
+- kind: echo
+  label: In the womb God makes the lump into bones and clothes the bones with flesh, then makes it another
+    creation
+  note: 'fa-kasawnā l-ʿiẓāma laḥman ~ wə-hāʿălêtî ʿălêkem bāśār wə-qāramtî ʿălêkem ʿôr: flesh laid over
+    bones; Ezekiel uses it for the reviving of the dead, the Quran for the embryo and then for the raising
+    on the Day of Resurrection (tubʿathūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:6
+      lang: he
+      text: וְנָתַתִּי֩ עֲלֵיכֶ֨ם גִּדִ֜ים וְֽהַעֲלֵתִ֧י עֲלֵיכֶ֣ם בָּשָׂ֗ר וְקָרַמְתִּ֤י עֲלֵיכֶם֙ ע֔וֹר
+        וְנָתַתִּ֥י בָכֶ֛ם ר֖וּחַ וִחְיִיתֶ֑ם וִידַעְתֶּ֖ם כִּֽי אֲנִ֥י יְהוָֽה
+    - ref: Ezek 37:8
+      lang: he
+      text: וְרָאִ֜יתִי וְהִנֵּֽה עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה
+        וְר֖וּחַ אֵ֥ין בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:14
+      lang: ar
+      text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
+        عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ
+        أَحْسَنُ ٱلْخَٰلِقِينَ
+    - ref: Quran 23:16
+      lang: ar
+      text: ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَٰمَةِ تُبْعَثُونَ
 ---
 
 ## Questions

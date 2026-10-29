@@ -2,8 +2,7 @@
 id: motif-hb-ps-16-my-portion-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'Psalm 16 - YHWH my portion; not abandoned to Sheol ↔ Al-Waqi''a: the Event that abases and exalts;
   the three classes; the Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 1 motifs: god shows the path of life; fullness of joy in his presence,
-  pleasures at his right hand forever.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - path-of-life-pleasures-at-right-hand
-passages:
-- tradition: judaism
-  ref: Ps 16:11
-  note: God shows the path of life; fullness of joy in his presence, pleasures at his right hand forever
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּֽוֹדִיעֵנִי֮ אֹ֤רַח חַ֫יִּ֥ים שֹׂ֣בַע שְׂ֭מָחוֹת אֶת פָּנֶ֑יךָ נְעִמ֖וֹת בִּימִינְךָ֣ נֶֽצַח
-- tradition: islam
-  ref: Quran 56:8
-  note: God shows the path of life; fullness of joy in his presence, pleasures at his right hand forever
-    (the blessed are 'of the right')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ
-- tradition: islam
-  ref: Quran 56:27
-  note: God shows the path of life; fullness of joy in his presence, pleasures at his right hand forever
-    (the blessed are 'of the right')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Joy at the right hand: tôḏîʿēnî ʾōraḥ ḥayyîm śōḇaʿ śəmāḥôṯ ʾeṯ pāneyḵā nəʿimôṯ bî-mînəḵā neṣaḥ
-    vs. fa-aṣḥābu l-maymana mā aṣḥābu l-maymana; wa-aṣḥābu l-yamīni mā aṣḥābu l-yamīn. The psalm''s delights
-    are at God''s right hand; in the Quran the blessed are the people of the right (yamīn / yāmîn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shows the path of life; fullness of joy in his presence, pleasures
     at his right hand forever (weight 6.7). Pair score 6.7.'
@@ -74,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shows the path of life; fullness of joy in his presence, pleasures at his right hand forever
+kinds:
+- echo
+units:
+- id: hb-ps-16-my-portion
+  title: Psalm 16 - YHWH my portion; not abandoned to Sheol
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: God shows the path of life; fullness of joy in his presence, pleasures at his right hand forever
+  note: 'Joy at the right hand: tôḏîʿēnî ʾōraḥ ḥayyîm śōḇaʿ śəmāḥôṯ ʾeṯ pāneyḵā nəʿimôṯ bî-mînəḵā neṣaḥ
+    vs. fa-aṣḥābu l-maymana mā aṣḥābu l-maymana; wa-aṣḥābu l-yamīni mā aṣḥābu l-yamīn. The psalm''s delights
+    are at God''s right hand; in the Quran the blessed are the people of the right (yamīn / yāmîn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 16:11
+      lang: he
+      text: תּֽוֹדִיעֵנִי֮ אֹ֤רַח חַ֫יִּ֥ים שֹׂ֣בַע שְׂ֭מָחוֹת אֶת פָּנֶ֑יךָ נְעִמ֖וֹת בִּימִינְךָ֣ נֶֽצַח
+  - tradition: islam
+    passages:
+    - ref: Quran 56:8
+      lang: ar
+      text: فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+    - ref: Quran 56:27
+      lang: ar
+      text: وَأَصْحَٰبُ ٱلْيَمِينِ مَآ أَصْحَٰبُ ٱلْيَمِينِ
 ---
 
 ## Questions

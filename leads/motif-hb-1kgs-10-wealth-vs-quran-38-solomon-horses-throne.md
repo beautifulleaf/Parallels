@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-10-wealth-vs-quran-38-solomon-horses-throne
 title: Solomon's gold, ivory throne, fleet and horse trade ↔ Solomon's steeds, the body on his throne,
   and the unmatched kingdom
-summary: 'These two units share 2 motifs: king keeps tens of thousands of chariot horses and horsemen,
-  king must not multiply horses, wives or silver and gold, nor return the people to egypt.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,53 +16,7 @@ layers:
 motifs:
 - royal-stables-chariot-horses
 - king-not-multiply-horses-wives-gold
-passages:
-- tradition: judaism
-  ref: 1Kgs 10:26
-  note: King keeps tens of thousands of chariot horses and horsemen (1,400 chariots, 12,000 horsemen)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּפָרָשִׁים֒ וַיְהִי ל֗וֹ אֶ֤לֶף וְאַרְבַּע מֵאוֹת֙ רֶ֔כֶב וּשְׁנֵים
-    עָשָׂ֥ר אֶ֖לֶף פָּֽרָשִׁ֑ים וַיַּנְחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 38:31
-  note: King keeps tens of thousands of chariot horses and horsemen ('standing steeds' (al-safinat al-jiyad))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ
-- tradition: judaism
-  ref: 1Kgs 10:26-29
-  note: King must not multiply horses, wives or silver and gold, nor return the people to Egypt (Violates
-    Deut 17:16-17 by multiplying gold and Egyptian horses)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (10:26) וַיֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּפָרָשִׁים֒ וַיְהִי ל֗וֹ אֶ֤לֶף וְאַרְבַּע מֵאוֹת֙ רֶ֔כֶב
-    וּשְׁנֵים עָשָׂ֥ר אֶ֖לֶף פָּֽרָשִׁ֑ים וַיַּנְחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם
-    (10:27) וַיִּתֵּ֨ן הַמֶּ֧לֶךְ אֶת הַכֶּ֛סֶף בִּירוּשָׁלִַ֖ם כָּאֲבָנִ֑ים וְאֵ֣ת הָאֲרָזִ֗ים נָתַ֛ן
-    כַּשִּׁקְמִ֥ים אֲשֶׁר בַּשְּׁפֵלָ֖ה לָרֹֽב (10:28) וּמוֹצָ֧א הַסּוּסִ֛ים אֲשֶׁ֥ר לִשְׁלֹמֹ֖ה מִמִּצְרָ֑יִם
-    וּמִקְוֵ֕ה סֹחֲרֵ֣י הַמֶּ֔לֶךְ יִקְח֥וּ מִקְוֵ֖ה בִּמְחִֽיר (10:29) וַֽ֠תַּעֲלֶה וַתֵּצֵ֨א מֶרְכָּבָ֤ה
-    מִמִּצְרַ֨יִם֙ בְּשֵׁ֣שׁ מֵא֣וֹת כֶּ֔סֶף וְס֖וּס בַּחֲמִשִּׁ֣ים וּמֵאָ֑ה וְ֠כֵן לְכָל מַלְכֵ֧י הַחִתִּ֛ים
-    וּלְמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם יֹצִֽאוּ
-- tradition: islam
-  ref: Quran 38:32
-  note: 'King must not multiply horses, wives or silver and gold, nor return the people to Egypt (raq
-    lōʾ-yarbeh-lô sûsîm vs. innī aḥbabtu ḥubba l-khayri ʿan dhikri rabbī ... ruddūhā ʿalayya fa-ṭafiqa
-    masḥan bi-s-sūqi wa-l-aʿnāq: the king''s horses as a danger to his devotion. Deut forbids him to multiply
-    them; the Quranic Solomon, distracted by them, either strokes or slashes them (the sense of masḥ is
-    disputed).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ
-- tradition: islam
-  ref: Quran 38:33
-  note: 'King must not multiply horses, wives or silver and gold, nor return the people to Egypt (raq
-    lōʾ-yarbeh-lô sûsîm vs. innī aḥbabtu ḥubba l-khayri ʿan dhikri rabbī ... ruddūhā ʿalayya fa-ṭafiqa
-    masḥan bi-s-sūqi wa-l-aʿnāq: the king''s horses as a danger to his devotion. Deut forbids him to multiply
-    them; the Quranic Solomon, distracted by them, either strokes or slashes them (the sense of masḥ is
-    disputed).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: King keeps tens of thousands of chariot horses and horsemen (weight
     6.3); King must not multiply horses, wives or silver and gold, nor return the people to Egypt (weight
@@ -94,6 +47,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: King keeps tens of thousands of chariot horses and horsemen
+kinds:
+- shared
+units:
+- id: hb-1kgs-10-wealth
+  title: Solomon's gold, ivory throne, fleet and horse trade
+  tradition: judaism
+- id: quran-38-solomon-horses-throne
+  title: Solomon's steeds, the body on his throne, and the unmatched kingdom
+  tradition: islam
+matches:
+- kind: shared
+  label: King keeps tens of thousands of chariot horses and horsemen
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 10:26
+      lang: he
+      text: וַיֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּפָרָשִׁים֒ וַיְהִי ל֗וֹ אֶ֤לֶף וְאַרְבַּע מֵאוֹת֙ רֶ֔כֶב וּשְׁנֵים
+        עָשָׂ֥ר אֶ֖לֶף פָּֽרָשִׁ֑ים וַיַּנְחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם
+    note: 1,400 chariots, 12,000 horsemen
+  - tradition: islam
+    passages:
+    - ref: Quran 38:31
+      lang: ar
+      text: إِذْ عُرِضَ عَلَيْهِ بِٱلْعَشِىِّ ٱلصَّٰفِنَٰتُ ٱلْجِيَادُ
+    note: '''standing steeds'' (al-safinat al-jiyad)'
+- kind: shared
+  label: King must not multiply horses, wives or silver and gold, nor return the people to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 10:26-29
+      lang: he
+      text: (10:26) וַיֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּפָרָשִׁים֒ וַיְהִי ל֗וֹ אֶ֤לֶף וְאַרְבַּע מֵאוֹת֙ רֶ֔כֶב
+        וּשְׁנֵים עָשָׂ֥ר אֶ֖לֶף פָּֽרָשִׁ֑ים וַיַּנְחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם
+        (10:27) וַיִּתֵּ֨ן הַמֶּ֧לֶךְ אֶת הַכֶּ֛סֶף בִּירוּשָׁלִַ֖ם כָּאֲבָנִ֑ים וְאֵ֣ת הָאֲרָזִ֗ים נָתַ֛ן
+        כַּשִּׁקְמִ֥ים אֲשֶׁר בַּשְּׁפֵלָ֖ה לָרֹֽב (10:28) וּמוֹצָ֧א הַסּוּסִ֛ים אֲשֶׁ֥ר לִשְׁלֹמֹ֖ה מִמִּצְרָ֑יִם
+        וּמִקְוֵ֕ה סֹחֲרֵ֣י הַמֶּ֔לֶךְ יִקְח֥וּ מִקְוֵ֖ה בִּמְחִֽיר (10:29) וַֽ֠תַּעֲלֶה וַתֵּצֵ֨א מֶרְכָּבָ֤ה
+        מִמִּצְרַ֨יִם֙ בְּשֵׁ֣שׁ מֵא֣וֹת כֶּ֔סֶף וְס֖וּס בַּחֲמִשִּׁ֣ים וּמֵאָ֑ה וְ֠כֵן לְכָל מַלְכֵ֧י
+        הַחִתִּ֛ים וּלְמַלְכֵ֥י אֲרָ֖ם בְּיָדָ֥ם יֹצִֽאוּ
+    note: Violates Deut 17:16-17 by multiplying gold and Egyptian horses
+  - tradition: islam
+    passages:
+    - ref: Quran 38:32
+      lang: ar
+      text: فَقَالَ إِنِّىٓ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ عَن ذِكْرِ رَبِّى حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ
+    - ref: Quran 38:33
+      lang: ar
+      text: رُدُّوهَا عَلَىَّ فَطَفِقَ مَسْحًۢا بِٱلسُّوقِ وَٱلْأَعْنَاقِ
+    note: 'raq lōʾ-yarbeh-lô sûsîm vs. innī aḥbabtu ḥubba l-khayri ʿan dhikri rabbī ... ruddūhā ʿalayya
+      fa-ṭafiqa masḥan bi-s-sūqi wa-l-aʿnāq: the king''s horses as a danger to his devotion. Deut forbids
+      him to multiply them; the Quranic Solomon, distracted by them, either strokes or slashes them (the
+      sense of masḥ is disputed).'
 ---
 
 ## Questions

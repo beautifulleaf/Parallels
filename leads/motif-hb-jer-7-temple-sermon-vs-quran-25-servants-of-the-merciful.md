@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-7-temple-sermon-vs-quran-25-servants-of-the-merciful
 title: The temple sermon - a den of robbers; remember Shiloh ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 1 motifs: prohibitions of murder, adultery, theft and false witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,35 +13,9 @@ layers:
 - motif
 motifs:
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Jer 7:9
-  note: 'Prohibitions of murder, adultery, theft and false witness (steal, murder, commit adultery, swear
-    falsely, burn incense to Baal: a Decalogue list)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲגָנֹ֤ב רָצֹ֨חַ֙ וְֽנָאֹ֔ף וְהִשָּׁבֵ֥עַ לַשֶּׁ֖קֶר וְקַטֵּ֣ר לַבָּ֑עַל וְהָלֹ֗ךְ אַחֲרֵ֛י אֱלֹהִ֥ים
-    אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא יְדַעְתֶּֽם
-- tradition: islam
-  ref: Quran 25:68
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
-- tradition: islam
-  ref: Quran 25:72
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. lā yadʿūna maʿa llāhi ilāhan ākhara wa-lā yaqtulūna ... wa-lā yaznūna ~ ha-gānōv rāṣōaḥ wə-nāʾōf
-    wə-hiššāvēaʿ laš-šeqer wə-qaṭṭēr lab-baʿal wə-hālōkh ʾaḥărê ʾĕlōhîm ʾăḥērîm: a Decalogue list joined
-    to other gods; Jeremiah charges the people with all of it, the Quran praises those who avoid it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness (weight
     5.1). Pair score 5.1.'
@@ -73,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibitions of murder, adultery, theft and false witness
+kinds:
+- echo
+units:
+- id: hb-jer-7-temple-sermon
+  title: The temple sermon - a den of robbers; remember Shiloh
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: echo
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'lā yadʿūna maʿa llāhi ilāhan ākhara wa-lā yaqtulūna ... wa-lā yaznūna ~ ha-gānōv rāṣōaḥ wə-nāʾōf
+    wə-hiššāvēaʿ laš-šeqer wə-qaṭṭēr lab-baʿal wə-hālōkh ʾaḥărê ʾĕlōhîm ʾăḥērîm: a Decalogue list joined
+    to other gods; Jeremiah charges the people with all of it, the Quran praises those who avoid it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 7:9
+      lang: he
+      text: הֲגָנֹ֤ב רָצֹ֨חַ֙ וְֽנָאֹ֔ף וְהִשָּׁבֵ֥עַ לַשֶּׁ֖קֶר וְקַטֵּ֣ר לַבָּ֑עַל וְהָלֹ֗ךְ אַחֲרֵ֛י
+        אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא יְדַעְתֶּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 25:68
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى
+        حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
 ---
 
 ## Questions

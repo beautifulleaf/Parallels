@@ -2,8 +2,7 @@
 id: motif-hb-prov-24-words-of-wise-vs-quran-16-daughters-and-the-bee
 title: End of the Words of the Wise (Amenemope parallel section) ↔ Not two gods; daughters ascribed to
   God and buried alive; milk, wine and the bee (Surah 16:51-70)
-summary: 'These two units share 1 motifs: from the bee''s belly comes a drink of many colors in which
-  is healing for people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - honey-as-healing
-passages:
-- tradition: judaism
-  ref: Prov 24:13
-  note: 'From the bee''s belly comes a drink of many colors in which is healing for people (ʾĕkol-bənî
-    dəbaš kî-ṭôb ... kēn dəʿeh ḥokmâ lənapšekā; kulī min kulli th-thamarāt ... fīhi shifāʾun li-n-nās,
-    inna fī dhālika la-āyatan: honey is good, and stands for something beyond itself (wisdom in Prov,
-    a sign in Q).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱכָל בְּנִ֣י דְבַ֣שׁ כִּי ט֑וֹב וְנֹ֥פֶת מָ֝ת֗וֹק עַל חִכֶּֽךָ
-- tradition: judaism
-  ref: Prov 24:14
-  note: 'From the bee''s belly comes a drink of many colors in which is healing for people (ʾĕkol-bənî
-    dəbaš kî-ṭôb ... kēn dəʿeh ḥokmâ lənapšekā; kulī min kulli th-thamarāt ... fīhi shifāʾun li-n-nās,
-    inna fī dhālika la-āyatan: honey is good, and stands for something beyond itself (wisdom in Prov,
-    a sign in Q).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֵּ֤ן דְּעֶ֥ה חָכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת
-- tradition: islam
-  ref: Quran 16:69
-  note: From the bee's belly comes a drink of many colors in which is healing for people (drink of many
-    colors, fīhi shifāʾun li-l-nās)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنۢ بُطُونِهَا
-    شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʾĕkol-bənî dəbaš kî-ṭôb ... kēn dəʿeh ḥokmâ lənapšekā; kulī min kulli th-thamarāt ... fīhi shifāʾun
-    li-n-nās, inna fī dhālika la-āyatan: honey is good, and stands for something beyond itself (wisdom
-    in Prov, a sign in Q).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From the bee''s belly comes a drink of many colors in which is healing
     for people (weight 6.3). Pair score 6.3.'
@@ -83,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: From the bee's belly comes a drink of many colors in which is healing for people
+kinds:
+- echo
+units:
+- id: hb-prov-24-words-of-wise
+  title: End of the Words of the Wise (Amenemope parallel section)
+  tradition: judaism
+- id: quran-16-daughters-and-the-bee
+  title: Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah 16:51-70)
+  tradition: islam
+matches:
+- kind: echo
+  label: From the bee's belly comes a drink of many colors in which is healing for people
+  note: 'ʾĕkol-bənî dəbaš kî-ṭôb ... kēn dəʿeh ḥokmâ lənapšekā; kulī min kulli th-thamarāt ... fīhi shifāʾun
+    li-n-nās, inna fī dhālika la-āyatan: honey is good, and stands for something beyond itself (wisdom
+    in Prov, a sign in Q).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 24:13
+      lang: he
+      text: אֱכָל בְּנִ֣י דְבַ֣שׁ כִּי ט֑וֹב וְנֹ֥פֶת מָ֝ת֗וֹק עַל חִכֶּֽךָ
+    - ref: Prov 24:14
+      lang: he
+      text: כֵּ֤ן דְּעֶ֥ה חָכְמָ֗ה לְנַ֫פְשֶׁ֥ךָ אִם מָ֭צָאתָ וְיֵ֣שׁ אַחֲרִ֑ית וְ֝תִקְוָתְךָ֗ לֹ֣א תִכָּרֵֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 16:69
+      lang: ar
+      text: ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنۢ بُطُونِهَا
+        شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ
+        يَتَفَكَّرُونَ
 ---
 
 ## Questions

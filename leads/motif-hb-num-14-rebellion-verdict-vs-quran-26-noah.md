@@ -2,7 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-26-noah
 title: Rebellion after the spies' report and the forty-year sentence ↔ Noah, the lowly followers and the
   laden ark
-summary: 'These two units share 1 motifs: the people are about to stone their leader.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - people-threaten-to-stone-leader
-passages:
-- tradition: judaism
-  ref: Num 14:10
-  note: The people are about to stone their leader
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּֽאמְרוּ֙ כָּל הָ֣עֵדָ֔ה לִרְגּ֥וֹם אֹתָ֖ם בָּאֲבָנִ֑ים וּכְב֣וֹד יְהוָ֗ה נִרְאָה֙ בְּאֹ֣הֶל
-    מוֹעֵ֔ד אֶֽל כָּל בְּנֵ֖י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 26:116
-  note: 'The people are about to stone their leader (la-takūnanna mina l-marjūmīna ~ wa-yyōʾmərû kol hā-ʿēdâ
-    lirgôm ʾōtām bā-ʾăvānîm: the cognate verb rajama / rāgam, the people threatening to stone God''s messenger.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. la-takūnanna mina l-marjūmīna ~ wa-yyōʾmərû kol hā-ʿēdâ lirgôm ʾōtām bā-ʾăvānîm: the cognate
-    verb rajama / rāgam, the people threatening to stone God''s messenger.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people are about to stone their leader (weight 6.0). Pair score
     6.0.'
@@ -66,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people are about to stone their leader
+kinds:
+- echo
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-26-noah
+  title: Noah, the lowly followers and the laden ark
+  tradition: islam
+matches:
+- kind: echo
+  label: The people are about to stone their leader
+  note: 'la-takūnanna mina l-marjūmīna ~ wa-yyōʾmərû kol hā-ʿēdâ lirgôm ʾōtām bā-ʾăvānîm: the cognate
+    verb rajama / rāgam, the people threatening to stone God''s messenger.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:10
+      lang: he
+      text: וַיֹּֽאמְרוּ֙ כָּל הָ֣עֵדָ֔ה לִרְגּ֥וֹם אֹתָ֖ם בָּאֲבָנִ֑ים וּכְב֣וֹד יְהוָ֗ה נִרְאָה֙ בְּאֹ֣הֶל
+        מוֹעֵ֔ד אֶֽל כָּל בְּנֵ֖י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 26:116
+      lang: ar
+      text: قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ
 ---
 
 ## Questions

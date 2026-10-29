@@ -2,8 +2,7 @@
 id: motif-hb-job-6-job-answers-friends-vs-quran-101-striking
 title: 'Job''s reply - the weight of grief and the treacherous wadi ↔ The striking day: moths, wool and
   the scales'
-summary: 'These two units share 1 motifs: deeds are weighed on judgment day; heavy scales mean salvation,
-  light scales loss.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - deeds-weighed-in-scales
-passages:
-- tradition: judaism
-  ref: Job 6:2
-  note: 'Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss (thaqulat mawāzīnuhu
-    ... fa-ummuhu hāwiya ~ lû šāqôl yiššāqēl kaʿśî we-hawwātî be-môʾzenayim yiśʾû yaḥad: weighing in scales;
-    Job weighs his grief and his ruin (hawwātî), the Quran deeds and the abyss (hāwiya). The hawwāh /
-    hāwiya resemblance is a lead for the philologists only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י והיתי וְ֝הַוָּתִ֗י בְּֽמֹאזְנַ֥יִם יִשְׂאוּ יָֽחַד
-- tradition: islam
-  ref: Quran 101:6
-  note: Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
-- tradition: islam
-  ref: Quran 101:7
-  note: Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. thaqulat mawāzīnuhu ... fa-ummuhu hāwiya ~ lû šāqôl yiššāqēl kaʿśî we-hawwātî be-môʾzenayim
-    yiśʾû yaḥad: weighing in scales; Job weighs his grief and his ruin (hawwātî), the Quran deeds and
-    the abyss (hāwiya). The hawwāh / hāwiya resemblance is a lead for the philologists only.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deeds are weighed on judgment day; heavy scales mean salvation,
     light scales loss (weight 6.3). Pair score 6.3.'
@@ -68,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss
+kinds:
+- echo
+units:
+- id: hb-job-6-job-answers-friends
+  title: Job's reply - the weight of grief and the treacherous wadi
+  tradition: judaism
+- id: quran-101-striking
+  title: 'The striking day: moths, wool and the scales'
+  tradition: islam
+matches:
+- kind: echo
+  label: Deeds are weighed on judgment day; heavy scales mean salvation, light scales loss
+  note: 'thaqulat mawāzīnuhu ... fa-ummuhu hāwiya ~ lû šāqôl yiššāqēl kaʿśî we-hawwātî be-môʾzenayim yiśʾû
+    yaḥad: weighing in scales; Job weighs his grief and his ruin (hawwātî), the Quran deeds and the abyss
+    (hāwiya). The hawwāh / hāwiya resemblance is a lead for the philologists only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 6:2
+      lang: he
+      text: ל֗וּ שָׁק֣וֹל יִשָּׁקֵ֣ל כַּעְשִׂ֑י והיתי וְ֝הַוָּתִ֗י בְּֽמֹאזְנַ֥יִם יִשְׂאוּ יָֽחַד
+  - tradition: islam
+    passages:
+    - ref: Quran 101:6
+      lang: ar
+      text: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
+    - ref: Quran 101:9
+      lang: ar
+      text: فَأُمُّهُۥ هَاوِيَةٌ
 ---
 
 ## Questions

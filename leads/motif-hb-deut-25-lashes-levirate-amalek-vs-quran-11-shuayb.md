@@ -2,7 +2,7 @@
 id: motif-hb-deut-25-lashes-levirate-amalek-vs-quran-11-shuayb
 title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek ↔ Shu'ayb - measures, the prayer
   that commands, the clan
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Deut 25:13
-  note: 'Honest balances, weights, ephah and hin are commanded (Full and just measure promises lasting
-    good: awfū l-mikyāla ... baqiyyatu llāhi khayrun lakum vs ʾeben šᵉlēmāh wāṣedeq yihyeh-llāk ʾêpāh
-    šᵉlēmāh wāṣedeq ... lᵉmaʿan yaʾărîkû yāmêkā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יִהְיֶ֥ה לְךָ֛ בְּכִֽיסְךָ֖ אֶ֣בֶן וָאָ֑בֶן גְּדוֹלָ֖ה וּקְטַנָּֽה
-- tradition: judaism
-  ref: Deut 25:15
-  note: 'Honest balances, weights, ephah and hin are commanded (Full and just measure promises lasting
-    good: awfū l-mikyāla ... baqiyyatu llāhi khayrun lakum vs ʾeben šᵉlēmāh wāṣedeq yihyeh-llāk ʾêpāh
-    šᵉlēmāh wāṣedeq ... lᵉmaʿan yaʾărîkû yāmêkā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֣בֶן שְׁלֵמָ֤ה וָצֶ֨דֶק֙ יִֽהְיֶה לָּ֔ךְ אֵיפָ֧ה שְׁלֵמָ֛ה וָצֶ֖דֶק יִֽהְיֶה לָּ֑ךְ לְמַ֨עַן֙
-    יַאֲרִ֣יכוּ יָמֶ֔יךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 11:84
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
-    عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
-- tradition: islam
-  ref: Quran 11:85
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
-    وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Full and just measure promises lasting good: awfū l-mikyāla ... baqiyyatu llāhi khayrun
-    lakum vs ʾeben šᵉlēmāh wāṣedeq yihyeh-llāk ʾêpāh šᵉlēmāh wāṣedeq ... lᵉmaʿan yaʾărîkû yāmêkā.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -82,6 +48,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-deut-25-lashes-levirate-amalek
+  title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek
+  tradition: judaism
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'Full and just measure promises lasting good: awfū l-mikyāla ... baqiyyatu llāhi khayrun lakum
+    vs ʾeben šᵉlēmāh wāṣedeq yihyeh-llāk ʾêpāh šᵉlēmāh wāṣedeq ... lᵉmaʿan yaʾărîkû yāmêkā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 25:13
+      lang: he
+      text: לֹֽא יִהְיֶ֥ה לְךָ֛ בְּכִֽיסְךָ֖ אֶ֣בֶן וָאָ֑בֶן גְּדוֹלָ֖ה וּקְטַנָּֽה
+    - ref: Deut 25:15
+      lang: he
+      text: אֶ֣בֶן שְׁלֵמָ֤ה וָצֶ֨דֶק֙ יִֽהְיֶה לָּ֔ךְ אֵיפָ֧ה שְׁלֵמָ֛ה וָצֶ֖דֶק יִֽהְיֶה לָּ֑ךְ לְמַ֨עַן֙
+        יַאֲרִ֣יכוּ יָמֶ֔יךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:84
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
+        عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
+    - ref: Quran 11:85
+      lang: ar
+      text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
+        وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+    - ref: Quran 11:86
+      lang: ar
+      text: بَقِيَّتُ ٱللَّهِ خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ وَمَآ أَنَا۠ عَلَيْكُم بِحَفِيظٍ
 ---
 
 ## Questions

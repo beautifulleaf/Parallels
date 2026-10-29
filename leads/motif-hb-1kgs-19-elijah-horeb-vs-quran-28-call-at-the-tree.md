@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-19-elijah-horeb-vs-quran-28-call-at-the-tree
 title: Elijah flees to Horeb; the still small voice ↔ The fire on the side of the Mount; the call from
   the tree; Aaron as helper
-summary: 'These two units share 1 motifs: prophet lodges in ''the cave'' on horeb, the mountain of god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,48 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-in-cave-on-horeb
-passages:
-- tradition: judaism
-  ref: 1Kgs 19:9
-  note: Prophet lodges in 'the cave' on Horeb, the mountain of God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹא שָׁ֥ם אֶל הַמְּעָרָ֖ה וַיָּ֣לֶן שָׁ֑ם וְהִנֵּ֤ה דְבַר יְהוָה֙ אֵלָ֔יו וַיֹּ֣אמֶר ל֔וֹ
-    מַה לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ
-- tradition: judaism
-  ref: 1Kgs 19:13
-  note: Prophet lodges in 'the cave' on Horeb, the mountain of God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י כִּשְׁמֹ֣עַ אֵלִיָּ֗הוּ וַיָּ֤לֶט פָּנָיו֙ בְּאַדַּרְתּ֔וֹ וַיֵּצֵ֕א וַֽיַּעֲמֹ֖ד פֶּ֣תַח
-    הַמְּעָרָ֑ה וְהִנֵּ֤ה אֵלָיו֙ ק֔וֹל וַיֹּ֕אמֶר מַה לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ
-- tradition: islam
-  ref: Quran 28:29
-  note: 'Prophet lodges in ''the cave'' on Horeb, the mountain of God (A prophet fleeing those who seek
-    his life is addressed by God at the holy mountain: ʿad har hā-ʾĕlōhîm Ḥōrēv ... wa-yvaqšû ʾet nafšî
-    ləqaḥtāh ... qôl dəmāmâ daqqâ ~ ānasa min jānibi ṭ-Ṭūri nāran ... fa-akhāfu an yaqtulūni. In 1 Kgs
-    God is not in the fire (lōʾ vāʾēš YHWH); in the Quran the call comes from the fire and tree.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ
-    لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ
-    مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
-- tradition: islam
-  ref: Quran 28:30
-  note: 'Prophet lodges in ''the cave'' on Horeb, the mountain of God (A prophet fleeing those who seek
-    his life is addressed by God at the holy mountain: ʿad har hā-ʾĕlōhîm Ḥōrēv ... wa-yvaqšû ʾet nafšî
-    ləqaḥtāh ... qôl dəmāmâ daqqâ ~ ānasa min jānibi ṭ-Ṭūri nāran ... fa-akhāfu an yaqtulūni. In 1 Kgs
-    God is not in the fire (lōʾ vāʾēš YHWH); in the Quran the call comes from the fire and tree.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
-    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. A prophet fleeing those who seek his life is addressed by God at the holy mountain: ʿad har
-    hā-ʾĕlōhîm Ḥōrēv ... wa-yvaqšû ʾet nafšî ləqaḥtāh ... qôl dəmāmâ daqqâ ~ ānasa min jānibi ṭ-Ṭūri nāran
-    ... fa-akhāfu an yaqtulūni. In 1 Kgs God is not in the fire (lōʾ vāʾēš YHWH); in the Quran the call
-    comes from the fire and tree.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet lodges in ''the cave'' on Horeb, the mountain of God (weight
     6.7). Pair score 6.7.'
@@ -92,6 +53,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet lodges in 'the cave' on Horeb, the mountain of God
+kinds:
+- echo
+units:
+- id: hb-1kgs-19-elijah-horeb
+  title: Elijah flees to Horeb; the still small voice
+  tradition: judaism
+- id: quran-28-call-at-the-tree
+  title: The fire on the side of the Mount; the call from the tree; Aaron as helper
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet lodges in 'the cave' on Horeb, the mountain of God
+  note: 'A prophet fleeing those who seek his life is addressed by God at the holy mountain: ʿad har hā-ʾĕlōhîm
+    Ḥōrēv ... wa-yvaqšû ʾet nafšî ləqaḥtāh ... qôl dəmāmâ daqqâ ~ ānasa min jānibi ṭ-Ṭūri nāran ... fa-akhāfu
+    an yaqtulūni. In 1 Kgs God is not in the fire (lōʾ vāʾēš YHWH); in the Quran the call comes from the
+    fire and tree.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:8
+      lang: he
+      text: וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙
+        וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב
+    - ref: 1Kgs 19:10
+      lang: he
+      text: וַיֹּאמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהוָ֣ה אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י
+        יִשְׂרָאֵ֔ל אֶת מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָֽאִוָּתֵ֤ר אֲנִי֙
+        לְבַדִּ֔י וַיְבַקְשׁ֥וּ אֶת נַפְשִׁ֖י לְקַחְתָּֽהּ
+    - ref: 1Kgs 19:12
+      lang: he
+      text: וְאַחַ֤ר הָרַ֨עַשׁ֙ אֵ֔שׁ לֹ֥א בָאֵ֖שׁ יְהוָ֑ה וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 28:29
+      lang: ar
+      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
+        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+    - ref: Quran 28:33
+      lang: ar
+      text: قَالَ رَبِّ إِنِّى قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَن يَقْتُلُونِ
 ---
 
 ## Questions

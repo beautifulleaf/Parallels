@@ -2,8 +2,7 @@
 id: motif-hb-ps-113-raises-the-poor-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Psalm 113, God on high raises the poor and the barren ↔ Nearer than the jugular vein; the two recorders;
   driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: glorify your lord before the rising of the sun and before its
-  setting, in the night and after prostrations.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - glorify-before-sunrise-and-sunset
-passages:
-- tradition: judaism
-  ref: Ps 113:3
-  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
-    prostrations (mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb.
-    The psalm's sunrise-to-sunset is spatial (from east to west); the Quran's is a time of day.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 50:39
-  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
-    prostrations
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ
-- tradition: islam
-  ref: Quran 50:40
-  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
-    prostrations
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb.
-    The psalm''s sunrise-to-sunset is spatial (from east to west); the Quran''s is a time of day.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Glorify your Lord before the rising of the sun and before its setting,
     in the night and after prostrations (weight 6.3). Pair score 6.3.'
@@ -75,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Glorify your Lord before the rising of the sun and before its setting, in the night and after
+  prostrations
+kinds:
+- echo
+units:
+- id: hb-ps-113-raises-the-poor
+  title: Psalm 113, God on high raises the poor and the barren
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: echo
+  label: Glorify your Lord before the rising of the sun and before its setting, in the night and after
+    prostrations
+  note: mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb. The
+    psalm's sunrise-to-sunset is spatial (from east to west); the Quran's is a time of day.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 113:3
+      lang: he
+      text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 50:39
+      lang: ar
+      text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ
+        ٱلْغُرُوبِ
 ---
 
 ## Questions

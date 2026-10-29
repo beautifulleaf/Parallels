@@ -2,8 +2,7 @@
 id: motif-hb-1sam-3-call-of-samuel-vs-quran-5-allies-mockery
 title: The call of Samuel in the temple at Shiloh ↔ Allies, apostates replaced, the mocked call to prayer,
   apes and swine
-summary: 'These two units share 1 motifs: rabbis and scholars (or the community) do not forbid one another
-  the wrong they do.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - leaders-fail-to-forbid-sin
-passages:
-- tradition: judaism
-  ref: 1Sam 3:13
-  note: 'Rabbis and scholars (or the community) do not forbid one another the wrong they do (Guilt for
-    failing to restrain. 1Sam: ba-ʿăwōn ʾăšer-yādaʿ kî-məqalləlîm lāhem bānāyw wə-lōʾ khihāh bām: Eli
-    did not rebuke his sons, and his house is judged. Q: law-lā yanhāhumu l-rabbāniyyūna wa-l-aḥbāru ...
-    la-biʾsa mā kānū yaṣnaʿūna: the rabbis are blamed for not forbidding.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִגַּ֣דְתִּי ל֔וֹ כִּֽי שֹׁפֵ֥ט אֲנִ֛י אֶת בֵּית֖וֹ עַד עוֹלָ֑ם בַּעֲוֺ֣ן אֲשֶׁר יָדַ֗ע כִּֽי
-    מְקַֽלְלִ֤ים לָהֶם֙ בָּנָ֔יו וְלֹ֥א כִהָ֖ה בָּֽם
-- tradition: islam
-  ref: Quran 5:63
-  note: Rabbis and scholars (or the community) do not forbid one another the wrong they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ
-    لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Guilt for failing to restrain. 1Sam: ba-ʿăwōn ʾăšer-yādaʿ kî-məqalləlîm lāhem bānāyw wə-lōʾ
-    khihāh bām: Eli did not rebuke his sons, and his house is judged. Q: law-lā yanhāhumu l-rabbāniyyūna
-    wa-l-aḥbāru ... la-biʾsa mā kānū yaṣnaʿūna: the rabbis are blamed for not forbidding.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rabbis and scholars (or the community) do not forbid one another
     the wrong they do (weight 6.3). Pair score 6.3.'
@@ -64,6 +43,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rabbis and scholars (or the community) do not forbid one another the wrong they do
+kinds:
+- parallel
+units:
+- id: hb-1sam-3-call-of-samuel
+  title: The call of Samuel in the temple at Shiloh
+  tradition: judaism
+- id: quran-5-allies-mockery
+  title: Allies, apostates replaced, the mocked call to prayer, apes and swine
+  tradition: islam
+matches:
+- kind: parallel
+  label: Rabbis and scholars (or the community) do not forbid one another the wrong they do
+  note: 'Guilt for failing to restrain. 1Sam: ba-ʿăwōn ʾăšer-yādaʿ kî-məqalləlîm lāhem bānāyw wə-lōʾ khihāh
+    bām: Eli did not rebuke his sons, and his house is judged. Q: law-lā yanhāhumu l-rabbāniyyūna wa-l-aḥbāru
+    ... la-biʾsa mā kānū yaṣnaʿūna: the rabbis are blamed for not forbidding.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 3:13
+      lang: he
+      text: וְהִגַּ֣דְתִּי ל֔וֹ כִּֽי שֹׁפֵ֥ט אֲנִ֛י אֶת בֵּית֖וֹ עַד עוֹלָ֑ם בַּעֲוֺ֣ן אֲשֶׁר יָדַ֗ע
+        כִּֽי מְקַֽלְלִ֤ים לָהֶם֙ בָּנָ֔יו וְלֹ֥א כִהָ֖ה בָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:63
+      lang: ar
+      text: لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ
+        ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-22-apodictic-and-social-laws-vs-quran-2-usury
 title: Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ Usury
-summary: 'These two units share 2 motifs: to whom and how widely the ban on interest applies [divergence
-  between the texts], do not charge interest to the poor of my people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,69 +14,9 @@ layers:
 motifs:
 - scope-of-interest-ban-as-divergence
 - prohibition-of-interest
-passages:
-- tradition: judaism
-  ref: Exod 22:24
-  note: 'To whom and how widely the ban on interest applies [divergence between the texts] (Exod 22:24
-    ʾim kesep talweh ʾet ʿammî ʾet he-ʿānî ʿimmāk ... lōʾ tĕśîmûn ʿālāyw nešek: loans to the poor of ''my
-    people'' without interest; Q 2:279 wa-in tubtum fa-lakum ruʾūsu amwālikum lā taẓlimūna wa-lā tuẓlamūn:
-    the creditor keeps only the principal. The protected class (God''s poor) is replaced by a general
-    rule of justice for both sides.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא תְשִׂימ֥וּן
-    עָלָ֖יו נֶֽשֶׁךְ
-- tradition: islam
-  ref: Quran 2:275
-  note: 'To whom and how widely the ban on interest applies [divergence between the texts] (Lev 25:36-37
-    ʾal tiqqaḥ mēʾittô nešek wĕ-tarbît ... wĕ-ḥê ʾāḥîkā ʿimmāk: no interest or increase (tarbît, cognate
-    of ribā) from your brother; Q 2:275, 278 wa-aḥalla llāhu l-bayʿa wa-ḥarrama r-ribā ... wa-dharū mā
-    baqiya mina r-ribā: usury forbidden outright, set against lawful trade, with no limit to a brother.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ
-    مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ
-    ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ
-    وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 2:278
-  note: 'To whom and how widely the ban on interest applies [divergence between the texts] (Lev 25:36-37
-    ʾal tiqqaḥ mēʾittô nešek wĕ-tarbît ... wĕ-ḥê ʾāḥîkā ʿimmāk: no interest or increase (tarbît, cognate
-    of ribā) from your brother; Q 2:275, 278 wa-aḥalla llāhu l-bayʿa wa-ḥarrama r-ribā ... wa-dharū mā
-    baqiya mina r-ribā: usury forbidden outright, set against lawful trade, with no limit to a brother.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
-    كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Exod 22:24
-  note: Do not charge interest to the poor of my people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא תְשִׂימ֥וּן
-    עָלָ֖יו נֶֽשֶׁךְ
-- tradition: islam
-  ref: Quran 2:275
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ
-    مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ
-    ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ
-    وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 2:278
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
-    كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 22:24 ʾim kesep talweh ʾet ʿammî ʾet he-ʿānî ʿimmāk ... lōʾ tĕśîmûn ʿālāyw nešek:
-    loans to the poor of ''my people'' without interest; Q 2:279 wa-in tubtum fa-lakum ruʾūsu amwālikum
-    lā taẓlimūna wa-lā tuẓlamūn: the creditor keeps only the principal. The protected class (God''s poor)
-    is replaced by a general rule of justice for both sides.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To whom and how widely the ban on interest applies [divergence between
     the texts] (weight 6.3); Do not charge interest to the poor of my people (weight 5.8). Pair score
@@ -108,6 +47,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: To whom and how widely the ban on interest applies
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-22-apodictic-and-social-laws
+  title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+  tradition: judaism
+- id: quran-2-usury
+  title: Usury
+  tradition: islam
+matches:
+- kind: divergence
+  label: To whom and how widely the ban on interest applies
+  note: 'Exod 22:24 ʾim kesep talweh ʾet ʿammî ʾet he-ʿānî ʿimmāk ... lōʾ tĕśîmûn ʿālāyw nešek: loans
+    to the poor of ''my people'' without interest; Q 2:279 wa-in tubtum fa-lakum ruʾūsu amwālikum lā taẓlimūna
+    wa-lā tuẓlamūn: the creditor keeps only the principal. The protected class (God''s poor) is replaced
+    by a general rule of justice for both sides.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:24
+      lang: he
+      text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא
+        תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:275
+      lang: ar
+      text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ
+        ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟
+        وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ
+        فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ
+        فِيهَا خَٰلِدُونَ
+    - ref: Quran 2:279
+      lang: ar
+      text: فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ
+        رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
+- kind: shared
+  label: Do not charge interest to the poor of my people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:24
+      lang: he
+      text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא
+        תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:275
+      lang: ar
+      text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ
+        ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟
+        وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ
+        فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ
+        فِيهَا خَٰلِدُونَ
+    - ref: Quran 2:278
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟
+        إِن كُنتُم مُّؤْمِنِينَ
+    - ref: Quran 2:277
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟
+        ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 ---
 
 ## Questions

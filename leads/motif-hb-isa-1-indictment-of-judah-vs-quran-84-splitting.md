@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-84-splitting
 title: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ The splitting:
   the book in the right hand'
-summary: 'These two units share 1 motifs: sky and earth ''listen to their lord'' (adhinat) and are made
-  to obey at the end.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - cosmos-hears-and-obeys-its-lord
-passages:
-- tradition: judaism
-  ref: Isa 1:2
-  note: 'Sky and earth ''listen to their Lord'' (adhinat) and are made to obey at the end (idhā s-samāʾu
-    nshaqqat wa-adhinat li-rabbihā wa-ḥuqqat ... wa-idhā l-arḍu muddat ~ šimʿû šāmayim we-haʾăzînî ʾereṣ:
-    heaven and earth ''give ear'' (Arabic adhina, Hebrew heʾĕzîn, the same root ʾ-dh-n / ʾ-z-n). In Isaiah
-    they are witnesses to Israel''s rebellion; in the Quran they obey at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְע֤וּ שָׁמַ֨יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי
-    וְהֵ֖ם פָּ֥שְׁעוּ בִֽי
-- tradition: islam
-  ref: Quran 84:2
-  note: Sky and earth 'listen to their Lord' (adhinat) and are made to obey at the end
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
-- tradition: islam
-  ref: Quran 84:5
-  note: Sky and earth 'listen to their Lord' (adhinat) and are made to obey at the end
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. idhā s-samāʾu nshaqqat wa-adhinat li-rabbihā wa-ḥuqqat ... wa-idhā l-arḍu muddat ~ šimʿû šāmayim
-    we-haʾăzînî ʾereṣ: heaven and earth ''give ear'' (Arabic adhina, Hebrew heʾĕzîn, the same root ʾ-dh-n
-    / ʾ-z-n). In Isaiah they are witnesses to Israel''s rebellion; in the Quran they obey at the end.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sky and earth ''listen to their Lord'' (adhinat) and are made to
     obey at the end (weight 6.7). Pair score 6.7.'
@@ -79,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sky and earth 'listen to their Lord' (adhinat) and are made to obey at the end
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-84-splitting
+  title: 'The splitting: the book in the right hand'
+  tradition: islam
+matches:
+- kind: echo
+  label: Sky and earth 'listen to their Lord' (adhinat) and are made to obey at the end
+  note: 'idhā s-samāʾu nshaqqat wa-adhinat li-rabbihā wa-ḥuqqat ... wa-idhā l-arḍu muddat ~ šimʿû šāmayim
+    we-haʾăzînî ʾereṣ: heaven and earth ''give ear'' (Arabic adhina, Hebrew heʾĕzîn, the same root ʾ-dh-n
+    / ʾ-z-n). In Isaiah they are witnesses to Israel''s rebellion; in the Quran they obey at the end.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:2
+      lang: he
+      text: שִׁמְע֤וּ שָׁמַ֨יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי
+        וְהֵ֖ם פָּ֥שְׁעוּ בִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 84:1
+      lang: ar
+      text: إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ
+    - ref: Quran 84:2
+      lang: ar
+      text: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
+    - ref: Quran 84:5
+      lang: ar
+      text: وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ
 ---
 
 ## Questions

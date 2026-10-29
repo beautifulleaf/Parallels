@@ -2,7 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-26-shuayb-ayka
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Shuayb and the People of the Thicket;
   the day of the canopy
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 20:10
-  note: Honest balances, weights, ephah and hin are commanded ('a stone and a stone, an ephah and an ephah'
-    (two standards))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
-- tradition: judaism
-  ref: Prov 20:23
-  note: Honest balances, weights, ephah and hin are commanded ('a stone and a stone, an ephah and an ephah'
-    (two standards))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
-- tradition: islam
-  ref: Quran 26:181
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ
-- tradition: islam
-  ref: Quran 26:182
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-lā tabkhasū n-nāsa ashyāʾahum ~ ʾeven wā-ʾeven ʾêfâ wə-ʾêfâ tôʿăvat YHWH ... û-mōʾzənê mirmâ
-    lōʾ ṭôv: double weights and false scales are an abomination.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -77,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-26-shuayb-ayka
+  title: Shuayb and the People of the Thicket; the day of the canopy
+  tradition: islam
+matches:
+- kind: echo
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'wa-lā tabkhasū n-nāsa ashyāʾahum ~ ʾeven wā-ʾeven ʾêfâ wə-ʾêfâ tôʿăvat YHWH ... û-mōʾzənê mirmâ
+    lōʾ ṭôv: double weights and false scales are an abomination.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:10
+      lang: he
+      text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
+    - ref: Prov 20:23
+      lang: he
+      text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
+  - tradition: islam
+    passages:
+    - ref: Quran 26:182
+      lang: ar
+      text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
+    - ref: Quran 26:183
+      lang: ar
+      text: وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

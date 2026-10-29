@@ -3,8 +3,7 @@ id: motif-hb-exod-2-moses-birth-flight-midian-vs-quran-66-tahrim-wives-and-the-f
 title: 'Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel''s cry ↔ Al-Tahrim:
   the prohibited thing and the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s
   wife and Mary daughter of ''Imran'
-summary: 'These two units share 1 motifs: infant found by members of a royal household [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,48 +15,9 @@ layers:
 - motif
 motifs:
 - found-by-royal-household-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 2:5
-  note: 'Infant found by members of a royal household [divergence between the texts] (Exod: Pharaoh''s
-    daughter finds him, takes pity (wattaḥmōl ʿālāyw) and adopts and names him (wayhî-lāh ləbēn wattiqrāʾ
-    šəmô mōšeh). Q: the finder is ''an enemy to me and an enemy to him'' (yaʾkhudhhu ʿaduwwun lī wa-ʿaduwwun
-    lah), and the love comes from God, wa-alqaytu ʿalayka maḥabbatan minnī. The naming and the rescuer''s
-    compassion are dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּ֤רֶד בַּת פַּרְעֹה֙ לִרְחֹ֣ץ עַל הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא
-    אֶת הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת אֲמָתָ֖הּ וַתִּקָּחֶֽהָ
-- tradition: judaism
-  ref: Exod 2:6
-  note: 'Infant found by members of a royal household [divergence between the texts] (Exod: Pharaoh''s
-    daughter finds him, takes pity (wattaḥmōl ʿālāyw) and adopts and names him (wayhî-lāh ləbēn wattiqrāʾ
-    šəmô mōšeh). Q: the finder is ''an enemy to me and an enemy to him'' (yaʾkhudhhu ʿaduwwun lī wa-ʿaduwwun
-    lah), and the love comes from God, wa-alqaytu ʿalayka maḥabbatan minnī. The naming and the rescuer''s
-    compassion are dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפְתַּח֙ וַתִּרְאֵ֣הוּ אֶת הַיֶּ֔לֶד וְהִנֵּה נַ֖עַר בֹּכֶ֑ה וַתַּחְמֹ֣ל עָלָ֔יו וַתֹּ֕אמֶר
-    מִיַּלְדֵ֥י הָֽעִבְרִ֖ים זֶֽה
-- tradition: islam
-  ref: Quran 66:11
-  note: 'Infant found by members of a royal household [divergence between the texts] (The righteous woman
-    of Pharaoh''s house: Exodus has bat parʿōh, who pities the Hebrew child (wattaḥmōl ʿālāyw) and adopts
-    him (wa-yehî lāh le-vēn). The Quran has imraʾata firʿawna, held up as the model believer who prays
-    rabbi bni lī ʿindaka baytan fī l-janna wa-najjinī min firʿawna wa-ʿamalihi: daughter becomes wife,
-    and she is set against Pharaoh himself. Her rescue of Moses is told in Q 28:9, outside this unit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ
-    لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ
-    ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. The righteous woman of Pharaoh''s house: Exodus has bat parʿōh, who pities the Hebrew
-    child (wattaḥmōl ʿālāyw) and adopts him (wa-yehî lāh le-vēn). The Quran has imraʾata firʿawna, held
-    up as the model believer who prays rabbi bni lī ʿindaka baytan fī l-janna wa-najjinī min firʿawna
-    wa-ʿamalihi: daughter becomes wife, and she is set against Pharaoh himself. Her rescue of Moses is
-    told in Q 28:9, outside this unit.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Infant found by members of a royal household [divergence between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -97,6 +57,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Infant found by members of a royal household
+kinds:
+- divergence
+units:
+- id: hb-exod-2-moses-birth-flight-midian
+  title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Infant found by members of a royal household
+  note: 'The righteous woman of Pharaoh''s house: Exodus has bat parʿōh, who pities the Hebrew child (wattaḥmōl
+    ʿālāyw) and adopts him (wa-yehî lāh le-vēn). The Quran has imraʾata firʿawna, held up as the model
+    believer who prays rabbi bni lī ʿindaka baytan fī l-janna wa-najjinī min firʿawna wa-ʿamalihi: daughter
+    becomes wife, and she is set against Pharaoh himself. Her rescue of Moses is told in Q 28:9, outside
+    this unit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:5
+      lang: he
+      text: וַתֵּ֤רֶד בַּת פַּרְעֹה֙ לִרְחֹ֣ץ עַל הַיְאֹ֔ר וְנַעֲרֹתֶ֥יהָ הֹלְכֹ֖ת עַל יַ֣ד הַיְאֹ֑ר וַתֵּ֤רֶא
+        אֶת הַתֵּבָה֙ בְּת֣וֹךְ הַסּ֔וּף וַתִּשְׁלַ֥ח אֶת אֲמָתָ֖הּ וַתִּקָּחֶֽהָ
+    - ref: Exod 2:6
+      lang: he
+      text: וַתִּפְתַּח֙ וַתִּרְאֵ֣הוּ אֶת הַיֶּ֔לֶד וְהִנֵּה נַ֖עַר בֹּכֶ֑ה וַתַּחְמֹ֣ל עָלָ֔יו וַתֹּ֕אמֶר
+        מִיַּלְדֵ֥י הָֽעִבְרִ֖ים זֶֽה
+    - ref: Exod 2:10
+      lang: he
+      text: וַיִגְדַּ֣ל הַיֶּ֗לֶד וַתְּבִאֵ֨הוּ֙ לְבַת פַּרְעֹ֔ה וַֽיְהִי לָ֖הּ לְבֵ֑ן וַתִּקְרָ֤א שְׁמוֹ֙
+        מֹשֶׁ֔ה וַתֹּ֕אמֶר כִּ֥י מִן הַמַּ֖יִם מְשִׁיתִֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 66:11
+      lang: ar
+      text: وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ
+        لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ
+        ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

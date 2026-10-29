@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-41-steadfast-and-repel-evil
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Angels descend on the steadfast; repel
   evil with good; signs on the horizons
-summary: 'These two units share 1 motifs: do not say ''i will repay evil''; wait for yhwh and he will
-  save you.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - do-not-repay-evil-wait-for-yhwh
-passages:
-- tradition: judaism
-  ref: Prov 20:22
-  note: Do not say 'I will repay evil'; wait for YHWH and he will save you
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תֹּאמַ֥ר אֲשַׁלְּמָה רָ֑ע קַוֵּ֥ה לַֽ֝יהוָ֗ה וְיֹ֣שַֽׁע לָֽךְ
-- tradition: islam
-  ref: Quran 41:34
-  note: Do not say 'I will repay evil'; wait for YHWH and he will save you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
-    بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
-- tradition: islam
-  ref: Quran 41:36
-  note: Do not say 'I will repay evil'; wait for YHWH and he will save you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. ʾal tōʾmar ʾăšalləmâ rāʿ qawwēh la-YHWH wə-yōšaʿ lāḵ vs. lā tastawī l-ḥasanatu wa-lā s-sayyiʾa,
-    idfaʿ bi-llatī hiya aḥsan ... fa-staʿidh bi-llāh. Both forbid answering evil with evil and send the
-    urge to God: Proverbs to wait (qawwēh) for his salvation, the Quran to seek refuge (istaʿidh) from
-    Satan''s prompting (nazgh).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not say ''I will repay evil''; wait for YHWH and he will save
     you (weight 6.7). Pair score 6.7.'
@@ -80,6 +55,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not say 'I will repay evil'; wait for YHWH and he will save you
+kinds:
+- parallel
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-41-steadfast-and-repel-evil
+  title: Angels descend on the steadfast; repel evil with good; signs on the horizons
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not say 'I will repay evil'; wait for YHWH and he will save you
+  note: 'ʾal tōʾmar ʾăšalləmâ rāʿ qawwēh la-YHWH wə-yōšaʿ lāḵ vs. lā tastawī l-ḥasanatu wa-lā s-sayyiʾa,
+    idfaʿ bi-llatī hiya aḥsan ... fa-staʿidh bi-llāh. Both forbid answering evil with evil and send the
+    urge to God: Proverbs to wait (qawwēh) for his salvation, the Quran to seek refuge (istaʿidh) from
+    Satan''s prompting (nazgh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:22
+      lang: he
+      text: אַל תֹּאמַ֥ר אֲשַׁלְּמָה רָ֑ע קַוֵּ֥ה לַֽ֝יהוָ֗ה וְיֹ֣שַֽׁע לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:34
+      lang: ar
+      text: وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى
+        بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ
+    - ref: Quran 41:36
+      lang: ar
+      text: وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيْطَٰنِ نَزْغٌ فَٱسْتَعِذْ بِٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
 ---
 
 ## Questions

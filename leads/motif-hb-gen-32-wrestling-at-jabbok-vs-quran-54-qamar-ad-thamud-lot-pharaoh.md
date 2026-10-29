@@ -2,7 +2,7 @@
 id: motif-hb-gen-32-wrestling-at-jabbok-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: Jacob wrestles at the Jabbok and becomes Israel ↔ Refrains over 'Ad, Thamud's she-camel, Lot's
   guests and Pharaoh; everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: supernatural being must leave before daybreak.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,25 +15,7 @@ layers:
 - motif
 motifs:
 - must-depart-before-dawn
-passages:
-- tradition: judaism
-  ref: Gen 32:25
-  note: Supernatural being must leave before daybreak
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּוָּתֵ֥ר יַעֲקֹ֖ב לְבַדּ֑וֹ וַיֵּאָבֵ֥ק אִישׁ֙ עִמּ֔וֹ עַ֖ד עֲל֥וֹת הַשָּֽׁחַר
-- tradition: judaism
-  ref: Gen 32:27
-  note: Supernatural being must leave before daybreak
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר שַׁלְּחֵ֔נִי כִּ֥י עָלָ֖ה הַשָּׁ֑חַר וַיֹּ֨אמֶר֙ לֹ֣א אֲשַֽׁלֵּחֲךָ֔ כִּ֖י אִם בֵּרַכְתָּֽנִי
-- tradition: islam
-  ref: Quran 54:34
-  note: Supernatural being must leave before daybreak (rescue at sahar; cf. Gen 19:15 'when the dawn rose')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Supernatural being must leave before daybreak (weight 6.7). Pair
     score 6.7.'
@@ -66,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Supernatural being must leave before daybreak
+kinds:
+- shared
+units:
+- id: hb-gen-32-wrestling-at-jabbok
+  title: Jacob wrestles at the Jabbok and becomes Israel
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: shared
+  label: Supernatural being must leave before daybreak
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 32:25
+      lang: he
+      text: וַיִּוָּתֵ֥ר יַעֲקֹ֖ב לְבַדּ֑וֹ וַיֵּאָבֵ֥ק אִישׁ֙ עִמּ֔וֹ עַ֖ד עֲל֥וֹת הַשָּֽׁחַר
+    - ref: Gen 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר שַׁלְּחֵ֔נִי כִּ֥י עָלָ֖ה הַשָּׁ֑חַר וַיֹּ֨אמֶר֙ לֹ֣א אֲשַֽׁלֵּחֲךָ֔ כִּ֖י אִם
+        בֵּרַכְתָּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 54:34
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
+    note: rescue at sahar; cf. Gen 19:15 'when the dawn rose'
 ---
 
 ## Questions

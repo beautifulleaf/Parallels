@@ -2,8 +2,7 @@
 id: motif-hb-exod-24-covenant-ratification-vs-quran-53-najm-vision-and-lote-tree
 title: 'Covenant ratified in blood; the elders see God ↔ Al-Najm: the star that sets, the mighty one on
   the horizon two bow-lengths away, and the Lote-Tree of the Boundary'
-summary: 'These two units share 2 motifs: leaders see god with a sapphire-like pavement under his feet,
-  what or whom the visionaries saw: god himself or his messenger [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,88 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- elders-see-god-sapphire-pavement
 - what-was-seen-in-vision-of-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 24:10
-  note: Leaders see God with a sapphire-like pavement under his feet (under his feet like a work of sapphire
-    brick, like the very heaven for clarity)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם
-    הַשָּׁמַ֖יִם לָטֹֽהַר
-- tradition: islam
-  ref: Quran 53:11
-  note: 'Leaders see God with a sapphire-like pavement under his feet (ambiguous: whether the prophet
-    saw God or Gabriel)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
-- tradition: islam
-  ref: Quran 53:13
-  note: 'Leaders see God with a sapphire-like pavement under his feet (ambiguous: whether the prophet
-    saw God or Gabriel)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
-- tradition: judaism
-  ref: Exod 24:10
-  note: 'What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
-    (What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ
-    raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran
-    leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him
-    at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus'' open sight
-    of God has no plain counterpart in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר וּכְעֶ֥צֶם
-    הַשָּׁמַ֖יִם לָטֹֽהַר
-- tradition: judaism
-  ref: Exod 24:11
-  note: 'What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
-    (What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ
-    raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran
-    leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him
-    at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus'' open sight
-    of God has no plain counterpart in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ וַֽיֶּחֱזוּ֙ אֶת הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ
-    וַיִּשְׁתּֽוּ
-- tradition: islam
-  ref: Quran 53:11
-  note: 'What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
-    (What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ
-    raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran
-    leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him
-    at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus'' open sight
-    of God has no plain counterpart in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
-- tradition: islam
-  ref: Quran 53:13
-  note: 'What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
-    (What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ
-    raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran
-    leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him
-    at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus'' open sight
-    of God has no plain counterpart in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
+- elders-see-god-sapphire-pavement
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl
-    wə-ṯaḥaṯ raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû.
-    The Quran leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā
-    (he saw him at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus''
-    open sight of God has no plain counterpart in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Leaders see God with a sapphire-like pavement under his feet (weight
-    6.7); What or whom the visionaries saw: God himself or his messenger [divergence between the texts]
-    (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: What or whom the visionaries saw: God himself or his messenger [divergence
+    between the texts] (weight 6.7); Leaders see God with a sapphire-like pavement under his feet (weight
+    6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Covenant ratified in blood; the elders see God: Sacrificial blood splashed on altar and
     people seals the covenant (''blood of the covenant''); A meal eaten in God''s presence seals a covenant;
@@ -125,6 +51,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What or whom the visionaries saw: God himself or his messenger'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What or whom the visionaries saw: God himself or his messenger'
+  note: 'What was seen. Exodus says plainly that the elders saw God: wa-yyirʾû ʾēṯ ʾĕlōhê yiśrāʾēl wə-ṯaḥaṯ
+    raḡlâw kə-maʿăśēh liḇnaṯ has-sappîr ... wa-yyeḥĕzû ʾeṯ hā-ʾĕlōhîm wa-yyōʾḵəlû wa-yyištû. The Quran
+    leaves the object unnamed: mā kadhaba l-fuʾādu mā raʾā; wa-la-qad raʾāhu nazlatan ukhrā (he saw him
+    at another descent), and the exegetes dispute whether ''him'' is God or Gabriel. Exodus'' open sight
+    of God has no plain counterpart in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:10
+      lang: he
+      text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר
+        וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר
+    - ref: Exod 24:11
+      lang: he
+      text: וְאֶל אֲצִילֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לֹ֥א שָׁלַ֖ח יָד֑וֹ וַֽיֶּחֱזוּ֙ אֶת הָ֣אֱלֹהִ֔ים וַיֹּאכְל֖וּ
+        וַיִּשְׁתּֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 53:11
+      lang: ar
+      text: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
+    - ref: Quran 53:13
+      lang: ar
+      text: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
+- kind: shared
+  label: Leaders see God with a sapphire-like pavement under his feet
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:10
+      lang: he
+      text: וַיִּרְא֕וּ אֵ֖ת אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְתַ֣חַת רַגְלָ֗יו כְּמַעֲשֵׂה֙ לִבְנַ֣ת הַסַּפִּ֔יר
+        וּכְעֶ֥צֶם הַשָּׁמַ֖יִם לָטֹֽהַר
+    note: under his feet like a work of sapphire brick, like the very heaven for clarity
+  - tradition: islam
+    passages:
+    - ref: Quran 53:11
+      lang: ar
+      text: مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰٓ
+    - ref: Quran 53:13
+      lang: ar
+      text: وَلَقَدْ رَءَاهُ نَزْلَةً أُخْرَىٰ
+    note: 'ambiguous: whether the prophet saw God or Gabriel'
 ---
 
 ## Questions

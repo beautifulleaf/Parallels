@@ -1,10 +1,7 @@
 ---
 id: motif-hb-exod-9-hail-vs-quran-10-moses-pharaoh
 title: 'Plague 7: hail and fire ↔ Moses, the houses as qibla, and Pharaoh''s drowning faith'
-summary: 'These two units share 4 motifs: pharaoh acknowledges israel''s god or his own sin, and what
-  follows [divergence between the texts], the king confesses he has sinned and that god is righteous,
-  who causes pharaoh''s refusal: god hardening his heart, or pharaoh and his people themselves, the king''s
-  heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,162 +13,18 @@ layers:
 - motif
 motifs:
 - pharaohs-confession-of-god-as-divergence
-- pharaoh-confesses-sin
 - who-hardens-pharaohs-resistance
+- pharaoh-confesses-sin
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 9:27
-  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence between the texts]
-    (Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla
-    wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and
-    ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ);
-    in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late
-    (āl-āna wa-qad ʿaṣayta qablu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
-    יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
-- tradition: judaism
-  ref: Exod 9:28
-  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence between the texts]
-    (Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla
-    wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and
-    ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ);
-    in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late
-    (āl-āna wa-qad ʿaṣayta qablu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעְתִּ֨ירוּ֙ אֶל יְהוָ֔ה וְרַ֕ב מִֽהְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּבָרָ֑ד וַאֲשַׁלְּחָ֣ה אֶתְכֶ֔ם וְלֹ֥א
-    תֹסִפ֖וּן לַעֲמֹֽד
-- tradition: islam
-  ref: Quran 10:90
-  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence between the texts]
-    (Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla
-    wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and
-    ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ);
-    in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late
-    (āl-āna wa-qad ʿaṣayta qablu).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
-    حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
-    بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
-- tradition: islam
-  ref: Quran 10:91
-  note: 'Pharaoh acknowledges Israel''s God or his own sin, and what follows [divergence between the texts]
-    (Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla
-    wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and
-    ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ);
-    in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late
-    (āl-āna wa-qad ʿaṣayta qablu).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَآلْـَٰٔنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ
-- tradition: judaism
-  ref: Exod 9:27
-  note: The king confesses he has sinned and that God is righteous ('YHWH is righteous, I and my people
-    are the wicked')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
-    יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
-- tradition: islam
-  ref: Quran 10:90
-  note: The king confesses he has sinned and that God is righteous
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا وَعَدْوًا
-    حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ ءَامَنَتْ
-    بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
-- tradition: judaism
-  ref: Exod 9:34
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד
-    לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו
-- tradition: judaism
-  ref: Exod 9:35
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
-    בְּיַד מֹשֶֽׁה
-- tradition: islam
-  ref: Quran 10:88
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
-- tradition: islam
-  ref: Quran 10:89
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Exod 9:34
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד
-    לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו
-- tradition: judaism
-  ref: Exod 9:35
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
-    בְּיַד מֹשֶֽׁה
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā
-    amwālihim wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā
-    vs wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in
-    Exod Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh);
-    in Q God hardens it at the prayer of Moses and Aaron. Pharaoh acknowledges Israel''s God: āmantu annahu
-    lā ilāha illā lladhī āmanat bihi banū isrāʾīla wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq
-    waʾănî wᵉʿammî hārᵉšāʿîm. The timing and ending change: in Exod it is in the middle of the plagues,
-    Pharaoh then relapses (wayyōsep laḥăṭōʾ); in Q it is at the moment of drowning (ḥattā idhā adrakahu
-    l-gharaqu), and God refuses it as too late (āl-āna wa-qad ʿaṣayta qablu).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh acknowledges Israel''s God or his own sin, and what follows
-    [divergence between the texts] (weight 6.7); The king confesses he has sinned and that God is righteous
-    (weight 6.3); Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (weight 6.3); The king''s heart is hardened (by himself or by God) so he refuses to release the people
-    (weight 4.6). Pair score 23.9.'
+    [divergence between the texts] (weight 6.7); Who causes Pharaoh''s refusal: God hardening his heart,
+    or Pharaoh and his people themselves (weight 6.3); The king confesses he has sinned and that God is
+    righteous (weight 6.3); The king''s heart is hardened (by himself or by God) so he refuses to release
+    the people (weight 4.6). Pair score 23.9.'
   basis: reading
 - text: 'Only in Plague 7: hail and fire: Narrator dates a plague by the growth stage of named crops (barley
     in ear, flax in bud, wheat late); Some of the king''s servants fear God''s word and bring their slaves
@@ -203,6 +56,113 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-9-hail
+  title: 'Plague 7: hail and fire'
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves'
+  note: 'Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
+    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
+    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
+    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
+    God hardens it at the prayer of Moses and Aaron.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:34
+      lang: he
+      text: וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד
+        לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו
+    - ref: Exod 9:35
+      lang: he
+      text: וַֽיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        בְּיַד מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    - ref: Quran 10:89
+      lang: ar
+      text: قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا
+        يَعْلَمُونَ
+- kind: divergence
+  label: Pharaoh acknowledges Israel's God or his own sin, and what follows
+  note: 'Pharaoh acknowledges Israel''s God: āmantu annahu lā ilāha illā lladhī āmanat bihi banū isrāʾīla
+    wa-ana mina l-muslimīn vs ḥāṭāʾtî happāʿam YHWH haṣṣaddîq waʾănî wᵉʿammî hārᵉšāʿîm. The timing and
+    ending change: in Exod it is in the middle of the plagues, Pharaoh then relapses (wayyōsep laḥăṭōʾ);
+    in Q it is at the moment of drowning (ḥattā idhā adrakahu l-gharaqu), and God refuses it as too late
+    (āl-āna wa-qad ʿaṣayta qablu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:27
+      lang: he
+      text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
+        יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
+    - ref: Exod 9:28
+      lang: he
+      text: הַעְתִּ֨ירוּ֙ אֶל יְהוָ֔ה וְרַ֕ב מִֽהְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּבָרָ֑ד וַאֲשַׁלְּחָ֣ה אֶתְכֶ֔ם
+        וְלֹ֥א תֹסִפ֖וּן לַעֲמֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 10:90
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا
+        وَعَدْوًا حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ
+        ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+    - ref: Quran 10:91
+      lang: ar
+      text: ءَآلْـَٰٔنَ وَقَدْ عَصَيْتَ قَبْلُ وَكُنتَ مِنَ ٱلْمُفْسِدِينَ
+- kind: shared
+  label: The king confesses he has sinned and that God is righteous
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:27
+      lang: he
+      text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
+        יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
+    note: '''YHWH is righteous, I and my people are the wicked'''
+  - tradition: islam
+    passages:
+    - ref: Quran 10:90
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُودُهُۥ بَغْيًا
+        وَعَدْوًا حَتَّىٰٓ إِذَآ أَدْرَكَهُ ٱلْغَرَقُ قَالَ ءَامَنتُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱلَّذِىٓ
+        ءَامَنَتْ بِهِۦ بَنُوٓا۟ إِسْرَٰٓءِيلَ وَأَنَا۠ مِنَ ٱلْمُسْلِمِينَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:34
+      lang: he
+      text: וַיַּ֣רְא פַּרְעֹ֗ה כִּֽי חָדַ֨ל הַמָּטָ֧ר וְהַבָּרָ֛ד וְהַקֹּלֹ֖ת וַיֹּ֣סֶף לַחֲטֹ֑א וַיַּכְבֵּ֥ד
+        לִבּ֖וֹ ה֥וּא וַעֲבָדָֽיו
+    - ref: Exod 9:35
+      lang: he
+      text: וַֽיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת בְּנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        בְּיַד מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

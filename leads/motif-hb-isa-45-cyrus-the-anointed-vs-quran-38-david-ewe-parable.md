@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-38-david-ewe-parable
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ David's
   mountains, the two litigants and the ninety-nine ewes
-summary: 'These two units share 1 motifs: god did not create the heavens and earth and what is between
-  them in play (la''ibin) but in truth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - creation-not-in-play
-passages:
-- tradition: judaism
-  ref: Isa 45:18
-  note: 'God did not create the heavens and earth and what is between them in play (la''ibin) but in truth
-    (lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God
-    did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
-    or pastime (lahw), but with truth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
-    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 38:27
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَٰطِلًا ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُوا۟
-    فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. lōʾ-ṯōhû ḇərāʾāh lā-šeḇeṯ yəṣārāh vs. wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā
-    bāṭilan: creation was not made for nothing (tōhû / bāṭil).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
     in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
@@ -78,6 +58,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+kinds:
+- parallel
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: parallel
+  label: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+  note: 'lōʾ-ṯōhû ḇərāʾāh lā-šeḇeṯ yəṣārāh vs. wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā bāṭilan:
+    creation was not made for nothing (tōhû / bāṭil).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:18
+      lang: he
+      text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙
+        ה֣וּא כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 38:27
+      lang: ar
+      text: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا بَٰطِلًا ذَٰلِكَ ظَنُّ ٱلَّذِينَ
+        كَفَرُوا۟ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا۟ مِنَ ٱلنَّارِ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-20-moses-pharaoh-magicians
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses and Aaron before Pharaoh; the contest
   with the magicians'
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
-  god) so he refuses to release the people.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,59 +16,7 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 8:28
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: judaism
-  ref: Exod 9:12
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל
-    מֹשֶֽׁה
-- tradition: islam
-  ref: Quran 20:56
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
-- tradition: judaism
-  ref: Exod 8:28
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
-    9:12 YHWH hardens)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: judaism
-  ref: Exod 9:7
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
-    9:12 YHWH hardens)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֣ח פַּרְעֹ֔ה וְהִנֵּ֗ה לֹא מֵ֛ת מִמִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד אֶחָ֑ד וַיִּכְבַּד֙ לֵ֣ב
-    פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 20:56
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    all the signs, he denied and refused)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
@@ -108,6 +54,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- shared
+units:
+- id: hb-exod-8-plagues-flies-murrain-boils
+  title: 'Plagues 4-6: swarms, pestilence of livestock, boils'
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 9:12
+      lang: he
+      text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        אֶל מֹשֶֽׁה
+    note: 'Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam haz-zōʾt),
+      then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā bihā
+      fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
+      and break their word (yankuthūna). God never hardens them in this unit.'
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+    note: 'Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq lēb parʿōh
+      ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā fa-kadhdhaba
+      wa-abā, and God''s hand in it is not stated.'
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 9:7
+      lang: he
+      text: וַיִּשְׁלַ֣ח פַּרְעֹ֔ה וְהִנֵּ֗ה לֹא מֵ֛ת מִמִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד אֶחָ֑ד וַיִּכְבַּד֙
+        לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 9:12
+      lang: he
+      text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        אֶל מֹשֶֽׁה
+    note: from 9:12 YHWH hardens
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+    note: shown all the signs, he denied and refused
 ---
 
 ## Questions

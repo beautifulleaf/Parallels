@@ -1,9 +1,7 @@
 ---
 id: motif-sux-eridu-genesis-vs-hb-gen-6-flood
 title: Ziusudra (Eridu Genesis) ↔ The Flood (full read)
-summary: 'These two units share 5 motifs: hero offers sacrifice after leaving the vessel, deity decides
-  to destroy humankind, hero singled out as righteous or pious, hero privately warned of the coming flood
-  by a deity….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,90 +14,14 @@ layers:
 - motif
 motifs:
 - sacrifice-after-flood
-- divine-decision-to-destroy
 - hero-righteous
+- divine-decision-to-destroy
 - hero-warned-by-deity
 - universal-destruction
-passages:
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: Hero offers sacrifice after leaving the vessel
-- tradition: judaism
-  ref: Gen 8:20
-  note: Hero offers sacrifice after leaving the vessel
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף
-    הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: Deity decides to destroy humankind
-- tradition: judaism
-  ref: Gen 6:7
-  note: Deity decides to destroy humankind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
-    עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
-- tradition: judaism
-  ref: Gen 6:13
-  note: Deity decides to destroy humankind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: Hero singled out as righteous or pious (pious king)
-- tradition: judaism
-  ref: Gen 6:8
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Gen 6:9
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: Hero privately warned of the coming flood by a deity (Enki)
-- tradition: judaism
-  ref: Gen 6:13
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 6:17
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
-- tradition: ane-sumerian
-  ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
-  note: All others perish
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:22
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero offers sacrifice after leaving the vessel (weight 5.4); Deity
-    decides to destroy humankind (weight 5.3); Hero singled out as righteous or pious (weight 5.3); Hero
+- text: 'Shared motifs, rarest first: Hero offers sacrifice after leaving the vessel (weight 5.4); Hero
+    singled out as righteous or pious (weight 5.3); Deity decides to destroy humankind (weight 5.3); Hero
     privately warned of the coming flood by a deity (weight 5.1); All others perish (weight 5.0). Pair
     score 26.1.'
   basis: reading
@@ -109,6 +31,107 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero offers sacrifice after leaving the vessel
+kinds:
+- shared
+units:
+- id: sux-eridu-genesis
+  title: Ziusudra (Eridu Genesis)
+  tradition: ane-sumerian
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+matches:
+- kind: shared
+  label: Hero offers sacrifice after leaving the vessel
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+  - tradition: judaism
+    passages:
+    - ref: Gen 8:20
+      lang: he
+      text: וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙
+        הָע֣וֹף הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ
+- kind: shared
+  label: Hero singled out as righteous or pious
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+    note: pious king
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:8
+      lang: he
+      text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
+    - ref: Gen 6:9
+      lang: he
+      text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+        הִֽתְהַלֶּךְ נֹֽחַ
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+    note: tsaddiq tamim, 'walked with God' like Enoch
+- kind: shared
+  label: Deity decides to destroy humankind
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+    note: Enki
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: ane-sumerian
+    passages:
+    - ref: 'Ziusudra (Eridu Genesis): Eridu Genesis'
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:22
+      lang: he
+      text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
 ---
 
 ## Questions

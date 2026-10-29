@@ -2,8 +2,7 @@
 id: motif-hb-eccl-8-king-and-retribution-vs-quran-56-waqia-left-hand-and-proofs
 title: Obeying the king, the hour of death and the failure of retribution ↔ The Companions of the Left
   in smoke and samum; who creates semen, crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 1 motifs: when the soul reaches the throat at death and you look on, god
-  is nearer than you; if you are not to be judged, bring it back!.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - soul-at-the-throat-cannot-be-returned
-passages:
-- tradition: judaism
-  ref: Eccl 8:8
-  note: 'When the soul reaches the throat at death and you look on, God is nearer than you; if you are
-    not to be judged, bring it back! (No man can hold back the departing spirit: ʾên ʾāḏām šallîṭ bā-rûaḥ
-    li-ḵlôʾ ʾeṯ hā-rûaḥ wə-ʾên šilṭôn bə-yôm ham-māweṯ vs. fa-lawlā idhā balaghati l-ḥulqūm ... fa-lawlā
-    in kuntum ghayra madīnīna tarjiʿūnahā in kuntum ṣādiqīn. Qohelet states it as a limit of human power;
-    the Quran turns it into a challenge: if you are not to be judged, bring the soul back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣ין אָדָ֞ם שַׁלִּ֤יט בָּר֨וּחַ֙ לִכְל֣וֹא אֶת הָר֔וּחַ וְאֵ֤ין שִׁלְטוֹן֙ בְּי֣וֹם הַמָּ֔וֶת
-    וְאֵ֥ין מִשְׁלַ֖חַת בַּמִּלְחָמָ֑ה וְלֹֽא יְמַלֵּ֥ט רֶ֖שַׁע אֶת בְּעָלָֽיו
-- tradition: islam
-  ref: Quran 56:83
-  note: When the soul reaches the throat at death and you look on, God is nearer than you; if you are
-    not to be judged, bring it back!
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ
-- tradition: islam
-  ref: Quran 56:84
-  note: When the soul reaches the throat at death and you look on, God is nearer than you; if you are
-    not to be judged, bring it back!
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. No man can hold back the departing spirit: ʾên ʾāḏām šallîṭ bā-rûaḥ li-ḵlôʾ ʾeṯ hā-rûaḥ
-    wə-ʾên šilṭôn bə-yôm ham-māweṯ vs. fa-lawlā idhā balaghati l-ḥulqūm ... fa-lawlā in kuntum ghayra
-    madīnīna tarjiʿūnahā in kuntum ṣādiqīn. Qohelet states it as a limit of human power; the Quran turns
-    it into a challenge: if you are not to be judged, bring the soul back.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When the soul reaches the throat at death and you look on, God is
     nearer than you; if you are not to be judged, bring it back! (weight 6.7). Pair score 6.7.'
@@ -88,6 +58,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When the soul reaches the throat at death and you look on, God is nearer than you; if you are
+  not to be judged, bring it back!
+kinds:
+- parallel
+units:
+- id: hb-eccl-8-king-and-retribution
+  title: Obeying the king, the hour of death and the failure of retribution
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: parallel
+  label: When the soul reaches the throat at death and you look on, God is nearer than you; if you are
+    not to be judged, bring it back!
+  note: 'No man can hold back the departing spirit: ʾên ʾāḏām šallîṭ bā-rûaḥ li-ḵlôʾ ʾeṯ hā-rûaḥ wə-ʾên
+    šilṭôn bə-yôm ham-māweṯ vs. fa-lawlā idhā balaghati l-ḥulqūm ... fa-lawlā in kuntum ghayra madīnīna
+    tarjiʿūnahā in kuntum ṣādiqīn. Qohelet states it as a limit of human power; the Quran turns it into
+    a challenge: if you are not to be judged, bring the soul back.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 8:8
+      lang: he
+      text: אֵ֣ין אָדָ֞ם שַׁלִּ֤יט בָּר֨וּחַ֙ לִכְל֣וֹא אֶת הָר֔וּחַ וְאֵ֤ין שִׁלְטוֹן֙ בְּי֣וֹם הַמָּ֔וֶת
+        וְאֵ֥ין מִשְׁלַ֖חַת בַּמִּלְחָמָ֑ה וְלֹֽא יְמַלֵּ֥ט רֶ֖שַׁע אֶת בְּעָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 56:83
+      lang: ar
+      text: فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ
+    - ref: Quran 56:86
+      lang: ar
+      text: فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ
+    - ref: Quran 56:87
+      lang: ar
+      text: تَرْجِعُونَهَآ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-36-new-heart-new-spirit-vs-quran-2-the-cow
 title: For my holy name - clean water, new heart, my spirit within; the land like Eden ↔ The cow and the
   slain man
-summary: 'These two units share 2 motifs: hearts of stone [divergence between the texts], god will remove
-  the heart of stone and give a heart of flesh and a new spirit.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,54 +15,9 @@ layers:
 motifs:
 - heart-of-stone-as-divergence
 - heart-of-stone-to-heart-of-flesh
-passages:
-- tradition: judaism
-  ref: Ezek 36:26
-  note: 'Hearts of stone [divergence between the texts] (Ezek 36:26 wa-hăsirōtî ʾet lēb hā-ʾeben mi-bbĕśarkem
-    wĕ-nātattî lākem lēb bāśār: God will take away the heart of stone; Q 2:74 thumma qasat qulūbukum min
-    baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan: the hearts became like stone or harder, and
-    stones are said to be better: some gush water, split, or fall in fear of God. Promise of a new heart
-    vs indictment of hearts harder than rock.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת לֵ֤ב
-    הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 2:74
-  note: 'Hearts of stone [divergence between the texts] (Ezek 36:26 wa-hăsirōtî ʾet lēb hā-ʾeben mi-bbĕśarkem
-    wĕ-nātattî lākem lēb bāśār: God will take away the heart of stone; Q 2:74 thumma qasat qulūbukum min
-    baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan: the hearts became like stone or harder, and
-    stones are said to be better: some gush water, split, or fall in fear of God. Promise of a new heart
-    vs indictment of hearts harder than rock.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
-    مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-    مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا
-    تَعْمَلُونَ
-- tradition: judaism
-  ref: Ezek 36:26
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת לֵ֤ב
-    הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 2:74
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
-    مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-    مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا
-    تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ezek 36:26 wa-hăsirōtî ʾet lēb hā-ʾeben mi-bbĕśarkem wĕ-nātattî lākem lēb bāśār: God will
-    take away the heart of stone; Q 2:74 thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati
-    aw ashaddu qaswatan: the hearts became like stone or harder, and stones are said to be better: some
-    gush water, split, or fall in fear of God. Promise of a new heart vs indictment of hearts harder than
-    rock.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hearts of stone [divergence between the texts] (weight 6.3); God
     will remove the heart of stone and give a heart of flesh and a new spirit (weight 5.8). Pair score
@@ -100,6 +54,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hearts of stone
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ezek-36-new-heart-new-spirit
+  title: For my holy name - clean water, new heart, my spirit within; the land like Eden
+  tradition: judaism
+- id: quran-2-the-cow
+  title: The cow and the slain man
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hearts of stone
+  note: 'Ezek 36:26 wa-hăsirōtî ʾet lēb hā-ʾeben mi-bbĕśarkem wĕ-nātattî lākem lēb bāśār: God will take
+    away the heart of stone; Q 2:74 thumma qasat qulūbukum min baʿdi dhālika fa-hiya ka-l-ḥijārati aw
+    ashaddu qaswatan: the hearts became like stone or harder, and stones are said to be better: some gush
+    water, split, or fall in fear of God. Promise of a new heart vs indictment of hearts harder than rock.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 36:26
+      lang: he
+      text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת
+        לֵ֤ב הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:74
+      lang: ar
+      text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
+        مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+        مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا تَعْمَلُونَ
+- kind: shared
+  label: God will remove the heart of stone and give a heart of flesh and a new spirit
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 36:26
+      lang: he
+      text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת
+        לֵ֤ב הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:74
+      lang: ar
+      text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
+        مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+        مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا تَعْمَلُونَ
 ---
 
 ## Questions

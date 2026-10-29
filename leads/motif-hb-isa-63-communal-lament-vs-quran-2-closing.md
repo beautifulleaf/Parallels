@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-63-communal-lament-vs-quran-2-closing
 title: Remembering the days of Moses - O that you would rend the heavens ↔ Closing confession and prayer
-summary: 'These two units share 1 motifs: ''we are the clay and you are our potter; we are all the work
-  of your hand''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +13,9 @@ layers:
 - motif
 motifs:
 - we-are-clay-you-are-potter
-passages:
-- tradition: judaism
-  ref: Isa 64:7
-  note: '''We are the clay and you are our potter; we are all the work of your hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֥ה יְהוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֨מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה יָדְךָ֖
-    כֻּלָּֽנוּ
-- tradition: judaism
-  ref: Isa 64:8
-  note: '''We are the clay and you are our potter; we are all the work of your hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּקְצֹ֤ף יְהוָה֙ עַד מְאֹ֔ד וְאַל לָעַ֖ד תִּזְכֹּ֣ר עָוֺ֑ן הֵ֥ן הַבֶּט נָ֖א עַמְּךָ֥ כֻלָּֽנוּ
-- tradition: islam
-  ref: Quran 2:286
-  note: '''We are the clay and you are our potter; we are all the work of your hand'' (Isa 64:7-8 wĕ-ʿattâ
-    YHWH ʾābînû ʾāttâ ... ʾal liqṣōp YHWH ʿad mĕʾōd wĕ-ʾal lāʿad tizkōr ʿāwōn: a communal prayer ending
-    ''you are our father, do not remember iniquity forever''; Q 2:286 wa-ʿfu ʿannā wa-ghfir lanā wa-rḥamnā
-    anta mawlānā: ''pardon us, forgive us, have mercy on us; you are our protector''. Father (ʾāb) in
-    Isaiah, patron (mawlā) in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
-    رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا
-    كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا
-    بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 64:7-8 wĕ-ʿattâ YHWH ʾābînû ʾāttâ ... ʾal liqṣōp YHWH ʿad mĕʾōd wĕ-ʾal lāʿad tizkōr ʿāwōn:
-    a communal prayer ending ''you are our father, do not remember iniquity forever''; Q 2:286 wa-ʿfu
-    ʿannā wa-ghfir lanā wa-rḥamnā anta mawlānā: ''pardon us, forgive us, have mercy on us; you are our
-    protector''. Father (ʾāb) in Isaiah, patron (mawlā) in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''We are the clay and you are our potter; we are all the work of
     your hand'' (weight 6.0). Pair score 6.0.'
@@ -79,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''We are the clay and you are our potter; we are all the work of your hand'''
+kinds:
+- echo
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: '''We are the clay and you are our potter; we are all the work of your hand'''
+  note: 'Isa 64:7-8 wĕ-ʿattâ YHWH ʾābînû ʾāttâ ... ʾal liqṣōp YHWH ʿad mĕʾōd wĕ-ʾal lāʿad tizkōr ʿāwōn:
+    a communal prayer ending ''you are our father, do not remember iniquity forever''; Q 2:286 wa-ʿfu
+    ʿannā wa-ghfir lanā wa-rḥamnā anta mawlānā: ''pardon us, forgive us, have mercy on us; you are our
+    protector''. Father (ʾāb) in Isaiah, patron (mawlā) in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 64:7
+      lang: he
+      text: וְעַתָּ֥ה יְהוָ֖ה אָבִ֣ינוּ אָ֑תָּה אֲנַ֤חְנוּ הַחֹ֨מֶר֙ וְאַתָּ֣ה יֹצְרֵ֔נוּ וּמַעֲשֵׂ֥ה
+        יָדְךָ֖ כֻּלָּֽנוּ
+    - ref: Isa 64:8
+      lang: he
+      text: אַל תִּקְצֹ֤ף יְהוָה֙ עַד מְאֹ֔ד וְאַל לָעַ֖ד תִּזְכֹּ֣ר עָוֺ֑ן הֵ֥ן הַבֶּט נָ֖א עַמְּךָ֥
+        כֻלָּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:286
+      lang: ar
+      text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
+        رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ
+        إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ
+        لَنَا بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ
+        ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

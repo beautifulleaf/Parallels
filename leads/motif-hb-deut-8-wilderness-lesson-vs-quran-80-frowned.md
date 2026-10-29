@@ -2,7 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-80-frowned
 title: 'Lessons of the wilderness; the good land; beware of pride ↔ He frowned: the blind man and the
   honored scrolls'
-summary: 'These two units share 1 motifs: land of wheat, barley, vine, fig, pomegranate, olive and honey.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - seven-species-of-land
-passages:
-- tradition: judaism
-  ref: Deut 8:8
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
-- tradition: islam
-  ref: Quran 80:27
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey (grain, grapes, olives and palms
-    among the listed crops)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنۢبَتْنَا فِيهَا حَبًّا
-- tradition: islam
-  ref: Quran 80:28
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey (grain, grapes, olives and palms
-    among the listed crops)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعِنَبًا وَقَضْبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-anbatnā fīhā ḥabban wa-ʿinaban wa-qaḍban wa-zaytūnan wa-nakhlan ... wa-fākihatan wa-abban
-    matāʿan lakum ~ ʾereṣ ḥiṭṭāh û-śeʿōrāh we-gefen û-teʾēnāh we-rimmôn ʾereṣ zêt šemen û-devāš. Grain,
-    vine and olive in both lists; the Quran adds palms and fodder and gives the crops of every land, not
-    the promised land''s.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
     5.8). Pair score 5.8.'
@@ -73,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Land of wheat, barley, vine, fig, pomegranate, olive and honey
+kinds:
+- echo
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-80-frowned
+  title: 'He frowned: the blind man and the honored scrolls'
+  tradition: islam
+matches:
+- kind: echo
+  label: Land of wheat, barley, vine, fig, pomegranate, olive and honey
+  note: fa-anbatnā fīhā ḥabban wa-ʿinaban wa-qaḍban wa-zaytūnan wa-nakhlan ... wa-fākihatan wa-abban matāʿan
+    lakum ~ ʾereṣ ḥiṭṭāh û-śeʿōrāh we-gefen û-teʾēnāh we-rimmôn ʾereṣ zêt šemen û-devāš. Grain, vine and
+    olive in both lists; the Quran adds palms and fodder and gives the crops of every land, not the promised
+    land's.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:8
+      lang: he
+      text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 80:27
+      lang: ar
+      text: فَأَنۢبَتْنَا فِيهَا حَبًّا
+    - ref: Quran 80:28
+      lang: ar
+      text: وَعِنَبًا وَقَضْبًا
+    - ref: Quran 80:29
+      lang: ar
+      text: وَزَيْتُونًا وَنَخْلًا
 ---
 
 ## Questions

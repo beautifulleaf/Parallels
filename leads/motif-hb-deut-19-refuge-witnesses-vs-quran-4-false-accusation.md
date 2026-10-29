@@ -2,8 +2,7 @@
 id: motif-hb-deut-19-refuge-witnesses-vs-quran-4-false-accusation
 title: Cities of refuge, boundary stones, false witnesses ↔ Guilt cast on the innocent and the Prophet
   who must not defend traitors
-summary: 'These two units share 2 motifs: false witness receives the punishment he plotted for his brother
-  [divergence between the texts], false witness receives the punishment he plotted for his brother.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,61 +15,9 @@ layers:
 motifs:
 - false-witness-suffers-intended-penalty-as-divergence
 - false-witness-suffers-intended-penalty
-passages:
-- tradition: judaism
-  ref: Deut 19:16
-  note: 'False witness receives the punishment he plotted for his brother [divergence between the texts]
-    (Both deal with charging an innocent person. Deut: the court punishes the false witness: wa-ʿăśîtem
-    lô kaʾăšer zāmam laʿăśôt lə-ʾāḥîw. Q: thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan wa-ithman
-    mubīnan. The accuser ''carries'' the slander as sin before God, and no court penalty is named.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יָק֥וּם עֵד חָמָ֖ס בְּאִ֑ישׁ לַעֲנ֥וֹת בּ֖וֹ סָרָֽה
-- tradition: judaism
-  ref: Deut 19:18
-  note: 'False witness receives the punishment he plotted for his brother [divergence between the texts]
-    (Both deal with charging an innocent person. Deut: the court punishes the false witness: wa-ʿăśîtem
-    lô kaʾăšer zāmam laʿăśôt lə-ʾāḥîw. Q: thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan wa-ithman
-    mubīnan. The accuser ''carries'' the slander as sin before God, and no court penalty is named.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
-- tradition: islam
-  ref: Quran 4:112
-  note: 'False witness receives the punishment he plotted for his brother [divergence between the texts]
-    (Both deal with charging an innocent person. Deut: the court punishes the false witness: wa-ʿăśîtem
-    lô kaʾăšer zāmam laʿăśôt lə-ʾāḥîw. Q: thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan wa-ithman
-    mubīnan. The accuser ''carries'' the slander as sin before God, and no court penalty is named.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا
-    وَإِثْمًا مُّبِينًا
-- tradition: judaism
-  ref: Deut 19:16
-  note: False witness receives the punishment he plotted for his brother
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יָק֥וּם עֵד חָמָ֖ס בְּאִ֑ישׁ לַעֲנ֥וֹת בּ֖וֹ סָרָֽה
-- tradition: judaism
-  ref: Deut 19:18
-  note: False witness receives the punishment he plotted for his brother
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
-- tradition: islam
-  ref: Quran 4:112
-  note: False witness receives the punishment he plotted for his brother (the accuser 'carries' the slander
-    (iḥtamala buhtānan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا
-    وَإِثْمًا مُّبِينًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Both deal with charging an innocent person. Deut: the court punishes the false witness:
-    wa-ʿăśîtem lô kaʾăšer zāmam laʿăśôt lə-ʾāḥîw. Q: thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan
-    wa-ithman mubīnan. The accuser ''carries'' the slander as sin before God, and no court penalty is
-    named.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False witness receives the punishment he plotted for his brother
     [divergence between the texts] (weight 6.7); False witness receives the punishment he plotted for
@@ -101,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: False witness receives the punishment he plotted for his brother
+kinds:
+- divergence
+units:
+- id: hb-deut-19-refuge-witnesses
+  title: Cities of refuge, boundary stones, false witnesses
+  tradition: judaism
+- id: quran-4-false-accusation
+  title: Guilt cast on the innocent and the Prophet who must not defend traitors
+  tradition: islam
+matches:
+- kind: divergence
+  label: False witness receives the punishment he plotted for his brother
+  note: 'Both deal with charging an innocent person. Deut: the court punishes the false witness: wa-ʿăśîtem
+    lô kaʾăšer zāmam laʿăśôt lə-ʾāḥîw. Q: thumma yarmi bihi barīʾan fa-qadi ḥtamala buhtānan wa-ithman
+    mubīnan. The accuser ''carries'' the slander as sin before God, and no court penalty is named.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:16
+      lang: he
+      text: כִּֽי יָק֥וּם עֵד חָמָ֖ס בְּאִ֑ישׁ לַעֲנ֥וֹת בּ֖וֹ סָרָֽה
+    - ref: Deut 19:18
+      lang: he
+      text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
+    - ref: Deut 19:19
+      lang: he
+      text: וַעֲשִׂ֣יתֶם ל֔וֹ כַּאֲשֶׁ֥ר זָמַ֖ם לַעֲשׂ֣וֹת לְאָחִ֑יו וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:112
+      lang: ar
+      text: وَمَن يَكْسِبْ خَطِيٓـَٔةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِۦ بَرِيٓـًٔا فَقَدِ ٱحْتَمَلَ بُهْتَٰنًا
+        وَإِثْمًا مُّبِينًا
 ---
 
 ## Questions

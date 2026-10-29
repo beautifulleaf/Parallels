@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-5-eliphaz-doctrine-vs-quran-26-abraham
 title: Eliphaz continues - seek God, accept discipline ↔ Abraham's argument against idols and his prayer
-summary: 'These two units share 1 motifs: god wounds and binds up, strikes and his hands heal.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -14,27 +14,7 @@ layers:
 - motif
 motifs:
 - god-wounds-and-heals
-passages:
-- tradition: judaism
-  ref: Job 5:18
-  note: God wounds and binds up, strikes and his hands heal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י ה֣וּא יַכְאִ֣יב וְיֶחְבָּ֑שׁ יִ֝מְחַ֗ץ וידו וְיָדָ֥יו תִּרְפֶּֽינָה
-- tradition: islam
-  ref: Quran 26:80
-  note: God wounds and binds up, strikes and his hands heal (compare Deut 32:39 'I kill and make alive,
-    I wound and I heal')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
-- tradition: islam
-  ref: Quran 26:81
-  note: God wounds and binds up, strikes and his hands heal (compare Deut 32:39 'I kill and make alive,
-    I wound and I heal')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God wounds and binds up, strikes and his hands heal (weight 6.7).
     Pair score 6.7.'
@@ -66,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God wounds and binds up, strikes and his hands heal
+kinds:
+- shared
+units:
+- id: hb-job-5-eliphaz-doctrine
+  title: Eliphaz continues - seek God, accept discipline
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: shared
+  label: God wounds and binds up, strikes and his hands heal
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 5:18
+      lang: he
+      text: כִּ֤י ה֣וּא יַכְאִ֣יב וְיֶחְבָּ֑שׁ יִ֝מְחַ֗ץ וידו וְיָדָ֥יו תִּרְפֶּֽינָה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:80
+      lang: ar
+      text: وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
+    - ref: Quran 26:81
+      lang: ar
+      text: وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
+    note: compare Deut 32:39 'I kill and make alive, I wound and I heal'
 ---
 
 ## Questions

@@ -3,8 +3,7 @@ id: motif-hb-ps-68-rider-of-clouds-vs-quran-55-rahman-judgment-and-the-four-gard
 title: Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain ↔ Passing the
   regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens with secluded
   maidens
-summary: 'These two units share 1 motifs: the guilty are known by their marks and seized by the forelocks
-  and the feet.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - guilty-seized-by-forelocks-and-feet
-passages:
-- tradition: judaism
-  ref: Ps 68:22
-  note: 'The guilty are known by their marks and seized by the forelocks and the feet (God strikes the
-    guilty by the hair of the head: ʾaḵ ʾĕlōhîm yimḥaṣ rōʾš ʾōyəḇâw qoḏqōḏ śēʿār miṯhallēḵ ba-ʾăšāmâw
-    vs. yuʿrafu l-mujrimūna bi-sīmāhum fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām. The psalm''s battle becomes
-    judgment day, and the hairy crown the forelock.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַךְ אֱלֹהִ֗ים יִמְחַץ֮ רֹ֤אשׁ אֹ֫יְבָ֥יו קָדְקֹ֥ד שֵׂעָ֑ר מִ֝תְהַלֵּ֗ךְ בַּאֲשָׁמָֽיו
-- tradition: islam
-  ref: Quran 55:41
-  note: The guilty are known by their marks and seized by the forelocks and the feet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God strikes the guilty by the hair of the head: ʾaḵ ʾĕlōhîm yimḥaṣ rōʾš ʾōyəḇâw qoḏqōḏ śēʿār
-    miṯhallēḵ ba-ʾăšāmâw vs. yuʿrafu l-mujrimūna bi-sīmāhum fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām. The psalm''s
-    battle becomes judgment day, and the hairy crown the forelock.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The guilty are known by their marks and seized by the forelocks
     and the feet (weight 6.7). Pair score 6.7.'
@@ -74,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The guilty are known by their marks and seized by the forelocks and the feet
+kinds:
+- echo
+units:
+- id: hb-ps-68-rider-of-clouds
+  title: Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain
+  tradition: judaism
+- id: quran-55-rahman-judgment-and-the-four-gardens
+  title: Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens
+    with secluded maidens
+  tradition: islam
+matches:
+- kind: echo
+  label: The guilty are known by their marks and seized by the forelocks and the feet
+  note: 'God strikes the guilty by the hair of the head: ʾaḵ ʾĕlōhîm yimḥaṣ rōʾš ʾōyəḇâw qoḏqōḏ śēʿār
+    miṯhallēḵ ba-ʾăšāmâw vs. yuʿrafu l-mujrimūna bi-sīmāhum fa-yuʾkhadhu bi-n-nawāṣī wa-l-aqdām. The psalm''s
+    battle becomes judgment day, and the hairy crown the forelock.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 68:22
+      lang: he
+      text: אַךְ אֱלֹהִ֗ים יִמְחַץ֮ רֹ֤אשׁ אֹ֫יְבָ֥יו קָדְקֹ֥ד שֵׂעָ֑ר מִ֝תְהַלֵּ֗ךְ בַּאֲשָׁמָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 55:41
+      lang: ar
+      text: يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ
 ---
 
 ## Questions

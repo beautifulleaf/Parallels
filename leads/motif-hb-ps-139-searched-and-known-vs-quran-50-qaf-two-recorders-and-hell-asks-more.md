@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Nearer than the jugular vein; the two recorders;
   driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: god''s knowledge of a person''s thoughts and words, from afar
-  or from near [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,59 +14,9 @@ layers:
 - motif
 motifs:
 - god-knowledge-of-thought-near-or-far-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 139:2
-  note: 'God''s knowledge of a person''s thoughts and words, from afar or from near [divergence between
-    the texts] (God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought
-    from afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
-    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
-    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
-    knowledge of every word is backed by an angelic recorder.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק
-- tradition: judaism
-  ref: Ps 139:4
-  note: 'God''s knowledge of a person''s thoughts and words, from afar or from near [divergence between
-    the texts] (God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought
-    from afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
-    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
-    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
-    knowledge of every word is backed by an angelic recorder.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ
-- tradition: islam
-  ref: Quran 50:16
-  note: 'God''s knowledge of a person''s thoughts and words, from afar or from near [divergence between
-    the texts] (God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought
-    from afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
-    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
-    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
-    knowledge of every word is backed by an angelic recorder.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ
-    مِنْ حَبْلِ ٱلْوَرِيدِ
-- tradition: islam
-  ref: Quran 50:18
-  note: 'God''s knowledge of a person''s thoughts and words, from afar or from near [divergence between
-    the texts] (God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought
-    from afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
-    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
-    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
-    knowledge of every word is backed by an angelic recorder.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought
-    from afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
-    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
-    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
-    knowledge of every word is backed by an angelic recorder.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s knowledge of a person''s thoughts and words, from afar or
     from near [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -107,6 +56,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's knowledge of a person's thoughts and words, from afar or from near
+kinds:
+- divergence
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's knowledge of a person's thoughts and words, from afar or from near
+  note: 'God knows thought and speech. Ps 139: bantâ lə-rēʿî mē-rāḥôq (you understand my thought from
+    afar); kî ʾên millâ bi-lšônî hēn YHWH yāḏaʿtā ḵullāh (no word on my tongue that you do not know).
+    Quran: naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd; mā yalfiẓu min
+    qawlin illā ladayhi raqībun ʿatīd. ''From afar'' becomes ''nearer than the jugular vein'', and God''s
+    knowledge of every word is backed by an angelic recorder.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:2
+      lang: he
+      text: אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק
+    - ref: Ps 139:4
+      lang: he
+      text: כִּ֤י אֵ֣ין מִ֭לָּה בִּלְשׁוֹנִ֑י הֵ֥ן יְ֝הוָ֗ה יָדַ֥עְתָּ כֻלָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:16
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ
+        إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ
+    - ref: Quran 50:18
+      lang: ar
+      text: مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
 ---
 
 ## Questions

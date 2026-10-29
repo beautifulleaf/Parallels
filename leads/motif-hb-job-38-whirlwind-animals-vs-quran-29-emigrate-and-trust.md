@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-animals-vs-quran-29-emigrate-and-trust
 title: God's first speech from the whirlwind - the wild animals ↔ God's earth is wide; every soul tastes
   death; signs and the secure sanctuary
-summary: 'These two units share 1 motifs: god provides prey for the lion and food for the raven''s young
-  that cry to him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 - motif
 motifs:
 - god-feeds-wild-animals
-passages:
-- tradition: judaism
-  ref: Job 38:39-41
-  note: God provides prey for the lion and food for the raven's young that cry to him (raven's young cry
-    to El)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:39) הֲתָצ֣וּד לְלָבִ֣יא טָ֑רֶף וְחַיַּ֖ת כְּפִירִ֣ים תְּמַלֵּֽא (38:40) כִּי יָשֹׁ֥חוּ בַמְּעוֹנ֑וֹת
-    יֵשְׁב֖וּ בַסֻּכָּ֣ה לְמוֹ אָֽרֶב (38:41) מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי ילדו יְ֭לָדָיו אֶל
-    אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי אֹֽכֶל
-- tradition: judaism
-  ref: Job 38:41
-  note: God provides prey for the lion and food for the raven's young that cry to him (raven's young cry
-    to El)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי ילדו יְ֭לָדָיו אֶל אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי אֹֽכֶל
-- tradition: islam
-  ref: Quran 29:60
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
-- tradition: islam
-  ref: Quran 29:62
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ بِكُلِّ
-    شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. mî yāḵîn lā-ʿōrēḇ ṣêḏô kî yəlāḏâw ʾel-ʾēl yəšawwēʿû vs. Allāhu yarzuquhā: Job asks who provides,
-    the Quran answers it.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God provides prey for the lion and food for the raven''s young that
     cry to him (weight 6.0). Pair score 6.0.'
@@ -87,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God provides prey for the lion and food for the raven's young that cry to him
+kinds:
+- parallel
+units:
+- id: hb-job-38-whirlwind-animals
+  title: God's first speech from the whirlwind - the wild animals
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: parallel
+  label: God provides prey for the lion and food for the raven's young that cry to him
+  note: 'mî yāḵîn lā-ʿōrēḇ ṣêḏô kî yəlāḏâw ʾel-ʾēl yəšawwēʿû vs. Allāhu yarzuquhā: Job asks who provides,
+    the Quran answers it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:41
+      lang: he
+      text: מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי ילדו יְ֭לָדָיו אֶל אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי
+        אֹֽכֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 29:60
+      lang: ar
+      text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ
+        ٱلسَّمِيعُ ٱلْعَلِيمُ
 ---
 
 ## Questions

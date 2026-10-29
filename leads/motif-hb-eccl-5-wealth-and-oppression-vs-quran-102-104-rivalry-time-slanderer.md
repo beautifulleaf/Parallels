@@ -1,8 +1,7 @@
 ---
 id: motif-hb-eccl-5-wealth-and-oppression-vs-quran-102-104-rivalry-time-slanderer
 title: Bureaucratic oppression, the love of money and wealth that perishes ↔ Rivalry, time and the slanderer
-summary: 'These two units share 1 motifs: riches kept by their owner to his hurt, lost in a bad venture,
-  so that his son has nothing in hand.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - riches-hoarded-to-owners-harm
-passages:
-- tradition: judaism
-  ref: Eccl 5:12
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵ֚שׁ רָעָ֣ה חוֹלָ֔ה רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ עֹ֛שֶׁר שָׁמ֥וּר לִבְעָלָ֖יו לְרָעָתֽוֹ
-- tradition: judaism
-  ref: Eccl 5:13
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָבַ֛ד הָעֹ֥שֶׁר הַה֖וּא בְּעִנְיַ֣ן רָ֑ע וְהוֹלִ֣יד בֵּ֔ן וְאֵ֥ין בְּיָד֖וֹ מְאֽוּמָה
-- tradition: islam
-  ref: Quran 104:2
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
-- tradition: islam
-  ref: Quran 104:3
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. alladhī jamaʿa mālan wa-ʿaddadahu yaḥsabu anna mālahu akhladah; alhākumu t-takāthuru ḥattā
-    zurtumu l-maqābir ~ ʿōšer šāmûr li-vʿālāyw le-rāʿātô ... ka-ʾăšer yāṣāʾ mi-bbeṭen ʾimmô ʿārôm yāšûv
-    ... û-meʾûmāh lōʾ yiśśāʾ baʿămālô: hoarded and counted wealth does not survive the grave. Qohelet
-    draws resignation, the Quran a threat (la-yunbadhanna fī l-ḥuṭama).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Riches kept by their owner to his hurt, lost in a bad venture, so
     that his son has nothing in hand (weight 6.3). Pair score 6.3.'
@@ -82,6 +49,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
+  hand
+kinds:
+- parallel
+units:
+- id: hb-eccl-5-wealth-and-oppression
+  title: Bureaucratic oppression, the love of money and wealth that perishes
+  tradition: judaism
+- id: quran-102-104-rivalry-time-slanderer
+  title: Rivalry, time and the slanderer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
+    hand
+  note: 'alladhī jamaʿa mālan wa-ʿaddadahu yaḥsabu anna mālahu akhladah; alhākumu t-takāthuru ḥattā zurtumu
+    l-maqābir ~ ʿōšer šāmûr li-vʿālāyw le-rāʿātô ... ka-ʾăšer yāṣāʾ mi-bbeṭen ʾimmô ʿārôm yāšûv ... û-meʾûmāh
+    lōʾ yiśśāʾ baʿămālô: hoarded and counted wealth does not survive the grave. Qohelet draws resignation,
+    the Quran a threat (la-yunbadhanna fī l-ḥuṭama).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 5:12
+      lang: he
+      text: יֵ֚שׁ רָעָ֣ה חוֹלָ֔ה רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ עֹ֛שֶׁר שָׁמ֥וּר לִבְעָלָ֖יו לְרָעָתֽוֹ
+    - ref: Eccl 5:13
+      lang: he
+      text: וְאָבַ֛ד הָעֹ֥שֶׁר הַה֖וּא בְּעִנְיַ֣ן רָ֑ע וְהוֹלִ֣יד בֵּ֔ן וְאֵ֥ין בְּיָד֖וֹ מְאֽוּמָה
+    - ref: Eccl 5:14
+      lang: he
+      text: כַּאֲשֶׁ֤ר יָצָא֙ מִבֶּ֣טֶן אִמּ֔וֹ עָר֛וֹם יָשׁ֥וּב לָלֶ֖כֶת כְּשֶׁבָּ֑א וּמְא֨וּמָה֙ לֹא
+        יִשָּׂ֣א בַעֲמָל֔וֹ שֶׁיֹּלֵ֖ךְ בְּיָדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 104:2
+      lang: ar
+      text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
+    - ref: Quran 104:3
+      lang: ar
+      text: يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
+    - ref: Quran 102:1
+      lang: ar
+      text: أَلْهَىٰكُمُ ٱلتَّكَاثُرُ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-19-red-heifer-vs-quran-4-prayer-intoxication-purity
 title: The red heifer and corpse impurity ↔ Prayer not while drunk; bathing and dry ablution
-summary: 'These two units share 1 motifs: without water, purify with clean earth (tayammum), wiping face
-  and hands.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - dry-ablution-with-earth
-passages:
-- tradition: judaism
-  ref: Num 19:17
-  note: 'Without water, purify with clean earth (tayammum), wiping face and hands (Num 19:17 wĕ-lāqĕḥû
-    la-ṭṭāmēʾ mē-ʿăpar śĕrēpat ha-ḥaṭṭāʾt wĕ-nātan ʿālāyw mayim ḥayyîm: dust (ʿāpār) from the burnt purification
-    offering, with living water, purifies the unclean; Q 4:43 fa-tayammamū ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum
-    wa-aydīkum: clean earth wiped on face and hands purifies when there is no water. Dust as a purifying
-    agent: in Numbers mixed with water, in the Quran in place of water. Weak; cf. b. Berakhot 15a for
-    wiping with earth before prayer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את וְנָתַ֥ן עָלָ֛יו מַ֥יִם חַיִּ֖ים אֶל כֶּֽלִי
-- tradition: islam
-  ref: Quran 4:43
-  note: Without water, purify with clean earth (tayammum), wiping face and hands
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 19:17 wĕ-lāqĕḥû la-ṭṭāmēʾ mē-ʿăpar śĕrēpat ha-ḥaṭṭāʾt wĕ-nātan ʿālāyw mayim ḥayyîm: dust
-    (ʿāpār) from the burnt purification offering, with living water, purifies the unclean; Q 4:43 fa-tayammamū
-    ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum wa-aydīkum: clean earth wiped on face and hands purifies when
-    there is no water. Dust as a purifying agent: in Numbers mixed with water, in the Quran in place of
-    water. Weak; cf. b. Berakhot 15a for wiping with earth before prayer.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Without water, purify with clean earth (tayammum), wiping face and
     hands (weight 6.3). Pair score 6.3.'
@@ -68,6 +41,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Without water, purify with clean earth (tayammum), wiping face and hands
+kinds:
+- echo
+units:
+- id: hb-num-19-red-heifer
+  title: The red heifer and corpse impurity
+  tradition: judaism
+- id: quran-4-prayer-intoxication-purity
+  title: Prayer not while drunk; bathing and dry ablution
+  tradition: islam
+matches:
+- kind: echo
+  label: Without water, purify with clean earth (tayammum), wiping face and hands
+  note: 'Num 19:17 wĕ-lāqĕḥû la-ṭṭāmēʾ mē-ʿăpar śĕrēpat ha-ḥaṭṭāʾt wĕ-nātan ʿālāyw mayim ḥayyîm: dust
+    (ʿāpār) from the burnt purification offering, with living water, purifies the unclean; Q 4:43 fa-tayammamū
+    ṣaʿīdan ṭayyiban fa-msaḥū bi-wujūhikum wa-aydīkum: clean earth wiped on face and hands purifies when
+    there is no water. Dust as a purifying agent: in Numbers mixed with water, in the Quran in place of
+    water. Weak; cf. b. Berakhot 15a for wiping with earth before prayer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 19:17
+      lang: he
+      text: וְלָֽקְחוּ֙ לַטָּמֵ֔א מֵעֲפַ֖ר שְׂרֵפַ֣ת הַֽחַטָּ֑את וְנָתַ֥ן עָלָ֛יו מַ֥יִם חַיִּ֖ים אֶל
+        כֶּֽלִי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 ---
 
 ## Questions

@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-18-visitors-at-mamre-vs-quran-3-imran-mary-zechariah
 title: Three visitors at Mamre and the promise of Isaac ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 3 motifs: doubt voiced at the promise of a son in old age [divergence
-  between the texts], a divine messenger announces a son to a barren couple [divergence between the texts],
-  patriarch or matriarch laughs at the promise of a child in old age.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,108 +15,9 @@ motifs:
 - doubt-at-promise-of-son-in-old-age-as-divergence
 - annunciation-of-son-to-barren-couple-as-divergence
 - patriarch-laughs-at-promise
-passages:
-- tradition: judaism
-  ref: Gen 18:11
-  note: 'Doubt voiced at the promise of a son in old age [divergence between the texts] (Gen 18:12 wa-ttiṣḥaq
-    śārâ bĕ-qirbāh lēʾmōr ʾaḥărê bĕlōtî hāyĕtâ llî ʿednâ wa-ʾdōnî zāqēn: the old wife doubts and laughs,
-    citing her own age and her husband''s; Q 3:40 qāla rabbi annā yakūnu lī ghulāmun wa-qad balaghaniya
-    l-kibaru wa-mraʾatī ʿāqirun: the old husband objects, citing his age and his wife''s barrenness. The
-    doubt moves from wife to husband, and there is no laughter and no rebuke (contrast Gen 18:13-15):
-    God answers kadhālika llāhu yafʿalu mā yashāʾ, cf. Gen 18:14 ha-yippālēʾ mē-YHWH dābār.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַבְרָהָ֤ם וְשָׂרָה֙ זְקֵנִ֔ים בָּאִ֖ים בַּיָּמִ֑ים חָדַל֙ לִהְי֣וֹת לְשָׂרָ֔ה אֹ֖רַח כַּנָּשִֽׁים
-- tradition: judaism
-  ref: Gen 18:12
-  note: 'Doubt voiced at the promise of a son in old age [divergence between the texts] (Gen 18:12 wa-ttiṣḥaq
-    śārâ bĕ-qirbāh lēʾmōr ʾaḥărê bĕlōtî hāyĕtâ llî ʿednâ wa-ʾdōnî zāqēn: the old wife doubts and laughs,
-    citing her own age and her husband''s; Q 3:40 qāla rabbi annā yakūnu lī ghulāmun wa-qad balaghaniya
-    l-kibaru wa-mraʾatī ʿāqirun: the old husband objects, citing his age and his wife''s barrenness. The
-    doubt moves from wife to husband, and there is no laughter and no rebuke (contrast Gen 18:13-15):
-    God answers kadhālika llāhu yafʿalu mā yashāʾ, cf. Gen 18:14 ha-yippālēʾ mē-YHWH dābār.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 3:40
-  note: 'Doubt voiced at the promise of a son in old age [divergence between the texts] (Gen 18:12 wa-ttiṣḥaq
-    śārâ bĕ-qirbāh lēʾmōr ʾaḥărê bĕlōtî hāyĕtâ llî ʿednâ wa-ʾdōnî zāqēn: the old wife doubts and laughs,
-    citing her own age and her husband''s; Q 3:40 qāla rabbi annā yakūnu lī ghulāmun wa-qad balaghaniya
-    l-kibaru wa-mraʾatī ʿāqirun: the old husband objects, citing his age and his wife''s barrenness. The
-    doubt moves from wife to husband, and there is no laughter and no rebuke (contrast Gen 18:13-15):
-    God answers kadhālika llāhu yafʿalu mā yashāʾ, cf. Gen 18:14 ha-yippālēʾ mē-YHWH dābār.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
-- tradition: judaism
-  ref: Gen 18:10
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (The promise
-    of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn
-    lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names
-    Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
-    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
-- tradition: judaism
-  ref: Gen 18:14
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (The promise
-    of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā kāʿēt ḥayyāh wᵉhinnēh-bēn
-    lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen (Sarah only overhears); Q names
-    Isaac and adds Jacob after him; Gen names no child here and adds a date (lammôʿēd ... kāʿēt ḥayyāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
-- tradition: islam
-  ref: Quran 3:39
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
-    بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 3:40
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
-- tradition: judaism
-  ref: Gen 18:12
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 3:40
-  note: Patriarch or matriarch laughs at the promise of a child in old age ('how shall I have a son when
-    old age has reached me?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 18:12 wa-ttiṣḥaq śārâ bĕ-qirbāh lēʾmōr ʾaḥărê bĕlōtî hāyĕtâ llî ʿednâ wa-ʾdōnî zāqēn:
-    the old wife doubts and laughs, citing her own age and her husband''s; Q 3:40 qāla rabbi annā yakūnu
-    lī ghulāmun wa-qad balaghaniya l-kibaru wa-mraʾatī ʿāqirun: the old husband objects, citing his age
-    and his wife''s barrenness. The doubt moves from wife to husband, and there is no laughter and no
-    rebuke (contrast Gen 18:13-15): God answers kadhālika llāhu yafʿalu mā yashāʾ, cf. Gen 18:14 ha-yippālēʾ
-    mē-YHWH dābār.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Doubt voiced at the promise of a son in old age [divergence between
     the texts] (weight 6.7); A divine messenger announces a son to a barren couple [divergence between
@@ -154,6 +53,89 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Doubt voiced at the promise of a son in old age
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-18-visitors-at-mamre
+  title: Three visitors at Mamre and the promise of Isaac
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: divergence
+  label: Doubt voiced at the promise of a son in old age
+  note: 'Gen 18:12 wa-ttiṣḥaq śārâ bĕ-qirbāh lēʾmōr ʾaḥărê bĕlōtî hāyĕtâ llî ʿednâ wa-ʾdōnî zāqēn: the
+    old wife doubts and laughs, citing her own age and her husband''s; Q 3:40 qāla rabbi annā yakūnu lī
+    ghulāmun wa-qad balaghaniya l-kibaru wa-mraʾatī ʿāqirun: the old husband objects, citing his age and
+    his wife''s barrenness. The doubt moves from wife to husband, and there is no laughter and no rebuke
+    (contrast Gen 18:13-15): God answers kadhālika llāhu yafʿalu mā yashāʾ, cf. Gen 18:14 ha-yippālēʾ
+    mē-YHWH dābār.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:11
+      lang: he
+      text: וְאַבְרָהָ֤ם וְשָׂרָה֙ זְקֵנִ֔ים בָּאִ֖ים בַּיָּמִ֑ים חָדַל֙ לִהְי֣וֹת לְשָׂרָ֔ה אֹ֖רַח כַּנָּשִֽׁים
+    - ref: Gen 18:12
+      lang: he
+      text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
+        זָקֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+- kind: shared
+  label: A divine messenger announces a son to a barren couple
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:10
+      lang: he
+      text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+        שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+    - ref: Gen 18:14
+      lang: he
+      text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
+    note: 'The promise of a son: fa-basharnāhā bi-isḥāqa wa-min warāʾi isḥāqa yaʿqūb vs šôb ʾāšûb ʾēlêkā
+      kāʿēt ḥayyāh wᵉhinnēh-bēn lᵉśārāh ʾištekā. It is said to Sarah directly in Q, to Abraham in Gen
+      (Sarah only overhears); Q names Isaac and adds Jacob after him; Gen names no child here and adds
+      a date (lammôʿēd ... kāʿēt ḥayyāh).'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:39
+      lang: ar
+      text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
+        بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+    note: 'Judg 13:3, 5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm
+      yihyeh ha-nnaʿar min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated
+      son; Q 3:39-40 fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī
+      ʿāqirun: the angels speak to the husband while he prays in the sanctuary, and announce a chaste
+      (ḥaṣūr) son, a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.'
+- kind: shared
+  label: Patriarch or matriarch laughs at the promise of a child in old age
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:12
+      lang: he
+      text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
+        זָקֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+    note: '''how shall I have a son when old age has reached me?'''
 ---
 
 ## Questions

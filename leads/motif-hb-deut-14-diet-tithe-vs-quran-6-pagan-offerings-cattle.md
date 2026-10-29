@@ -2,9 +2,7 @@
 id: motif-hb-deut-14-diet-tithe-vs-quran-6-pagan-offerings-cattle
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ Pagan portions and taboos; eight pairs;
   what is forbidden to all and to the Jews
-summary: 'These two units share 3 motifs: list of clean and unclean animals: split hoof and chewing cud
-  [response between the texts], list of clean and unclean animals: split hoof and chewing cud, the pig
-  is unclean and forbidden.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -18,98 +16,9 @@ motifs:
 - clean-unclean-animals-list-as-response
 - clean-unclean-animals-list
 - pork-forbidden
-passages:
-- tradition: judaism
-  ref: Deut 14:4
-  note: 'List of clean and unclean animals: split hoof and chewing cud [response between the texts] (Deut:
-    zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl ... ṭəmēʾîm hēm
-    lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower Jewish list is
-    a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum bi-baghyihim.
-    Q explains the HB restriction as punishment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹ֥את הַבְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְשֵׂ֥ה עִזִּֽים
-- tradition: judaism
-  ref: Deut 14:7
-  note: 'List of clean and unclean animals: split hoof and chewing cud [response between the texts] (Deut:
-    zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl ... ṭəmēʾîm hēm
-    lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower Jewish list is
-    a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum bi-baghyihim.
-    Q explains the HB restriction as punishment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ אֶת זֶ֞ה לֹ֤א תֹֽאכְלוּ֙ מִמַּֽעֲלֵ֣י הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֥י הַפַּרְסָ֖ה הַשְּׁסוּעָ֑ה
-    אֶֽת הַ֠גָּמָל וְאֶת הָאַרְנֶ֨בֶת וְאֶת הַשָּׁפָ֜ן כִּֽי מַעֲלֵ֧ה גֵרָ֣ה הֵ֗מָּה וּפַרְסָה֙ לֹ֣א הִפְרִ֔יסוּ
-    טְמֵאִ֥ים הֵ֖ם לָכֶֽם
-- tradition: islam
-  ref: Quran 6:143
-  note: 'List of clean and unclean animals: split hoof and chewing cud [response between the texts] (Deut:
-    zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl ... ṭəmēʾîm hēm
-    lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower Jewish list is
-    a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum bi-baghyihim.
-    Q explains the HB restriction as punishment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ
-    حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ نَبِّـُٔونِى بِعِلْمٍ
-    إِن كُنتُمْ صَٰدِقِينَ
-- tradition: islam
-  ref: Quran 6:144
-  note: 'List of clean and unclean animals: split hoof and chewing cud [response between the texts] (Deut:
-    zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl ... ṭəmēʾîm hēm
-    lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower Jewish list is
-    a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum bi-baghyihim.
-    Q explains the HB restriction as punishment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ
-    أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ
-    بِهَٰذَا فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ
-    إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Deut 14:4
-  note: 'List of clean and unclean animals: split hoof and chewing cud (includes wild species: deer, gazelle,
-    roebuck, ibex, antelope, oryx, mountain sheep; camel, hare, hyrax forbidden)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹ֥את הַבְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְשֵׂ֥ה עִזִּֽים
-- tradition: judaism
-  ref: Deut 14:5
-  note: 'List of clean and unclean animals: split hoof and chewing cud (includes wild species: deer, gazelle,
-    roebuck, ibex, antelope, oryx, mountain sheep; camel, hare, hyrax forbidden)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַיָּ֥ל וּצְבִ֖י וְיַחְמ֑וּר וְאַקּ֥וֹ וְדִישֹׁ֖ן וּתְא֥וֹ וָזָֽמֶר
-- tradition: islam
-  ref: Quran 6:146
-  note: 'List of clean and unclean animals: split hoof and chewing cud (kull dhī ẓufur, ''every animal
-    with a claw/undivided hoof'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
-- tradition: judaism
-  ref: Deut 14:8
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙
-    לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ
-- tradition: islam
-  ref: Quran 6:145
-  note: The pig is unclean and forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ
-    مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    response. Deut: zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl
-    ... ṭəmēʾîm hēm lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower
-    Jewish list is a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum
-    bi-baghyihim. Q explains the HB restriction as punishment.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: List of clean and unclean animals: split hoof and chewing cud [response
     between the texts] (weight 6.7); List of clean and unclean animals: split hoof and chewing cud (weight
@@ -147,6 +56,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'List of clean and unclean animals: split hoof and chewing cud'
+kinds:
+- response
+- shared
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: response
+  label: 'List of clean and unclean animals: split hoof and chewing cud'
+  note: 'Deut: zōʾt hab-bəhēmāh ʾăšer tōʾkhēlû šôr śēh khəśāvîm wə-śēh ʿizzîm, but ʾet-hag-gāmāl ... ṭəmēʾîm
+    hēm lākhem. Q: eight pairs (sheep, goats, camels, cattle) are lawful, and the narrower Jewish list
+    is a later penalty: wa-ʿalā lladhīna hādū ḥarramnā kulla dhī ẓufurin ... dhālika jazaynāhum bi-baghyihim.
+    Q explains the HB restriction as punishment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:4
+      lang: he
+      text: זֹ֥את הַבְּהֵמָ֖ה אֲשֶׁ֣ר תֹּאכֵ֑לוּ שׁ֕וֹר שֵׂ֥ה כְשָׂבִ֖ים וְשֵׂ֥ה עִזִּֽים
+    - ref: Deut 14:7
+      lang: he
+      text: אַ֣ךְ אֶת זֶ֞ה לֹ֤א תֹֽאכְלוּ֙ מִמַּֽעֲלֵ֣י הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֥י הַפַּרְסָ֖ה הַשְּׁסוּעָ֑ה
+        אֶֽת הַ֠גָּמָל וְאֶת הָאַרְנֶ֨בֶת וְאֶת הַשָּׁפָ֜ן כִּֽי מַעֲלֵ֧ה גֵרָ֣ה הֵ֗מָּה וּפַרְסָה֙ לֹ֣א
+        הִפְרִ֔יסוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:143
+      lang: ar
+      text: ثَمَٰنِيَةَ أَزْوَٰجٍ مِّنَ ٱلضَّأْنِ ٱثْنَيْنِ وَمِنَ ٱلْمَعْزِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ
+        حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ نَبِّـُٔونِى
+        بِعِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 6:144
+      lang: ar
+      text: وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ
+        أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ
+        ٱللَّهُ بِهَٰذَا فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ
+        عِلْمٍ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+    - ref: Quran 6:146
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
+        عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ
+        بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+- kind: shared
+  label: The pig is unclean and forbidden
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:8
+      lang: he
+      text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙
+        לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:145
+      lang: ar
+      text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن
+        يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ
+        لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

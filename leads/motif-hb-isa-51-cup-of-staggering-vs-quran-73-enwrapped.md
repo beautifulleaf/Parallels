@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-51-cup-of-staggering-vs-quran-73-enwrapped
 title: 'I am your comforter; the cup of staggering ↔ The enwrapped one: the night vigil'
-summary: 'These two units share 1 motifs: god will raise up a prophet like moses from among the brothers
-  and put his words in his mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Isa 51:16
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('I put my words in your mouth and covered you in the shadow of my hand')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאָשִׂ֤ים דְּבָרַי֙ בְּפִ֔יךָ וּבְצֵ֥ל יָדִ֖י כִּסִּיתִ֑יךָ לִנְטֹ֤עַ שָׁמַ֨יִם֙ וְלִיסֹ֣ד אָ֔רֶץ
-    וְלֵאמֹ֥ר לְצִיּ֖וֹן עַמִּי אָֽתָּה
-- tradition: islam
-  ref: Quran 73:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('we sent to you a messenger, a witness against you, as we sent a messenger to Pharaoh')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ
-    رَسُولًا
-- tradition: islam
-  ref: Quran 73:16
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('we sent to you a messenger, a witness against you, as we sent a messenger to Pharaoh')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًا وَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. sa-nulqī ʿalayka qawlan ~ wā-ʾāśîm devāray be-fîkā.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
     put his words in his mouth (weight 5.2). Pair score 5.2.'
@@ -70,6 +45,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+kinds:
+- echo
+units:
+- id: hb-isa-51-cup-of-staggering
+  title: I am your comforter; the cup of staggering
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: echo
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  note: sa-nulqī ʿalayka qawlan ~ wā-ʾāśîm devāray be-fîkā.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 51:16
+      lang: he
+      text: וָאָשִׂ֤ים דְּבָרַי֙ בְּפִ֔יךָ וּבְצֵ֥ל יָדִ֖י כִּסִּיתִ֑יךָ לִנְטֹ֤עַ שָׁמַ֨יִם֙ וְלִיסֹ֣ד
+        אָ֔רֶץ וְלֵאמֹ֥ר לְצִיּ֖וֹן עַמִּי אָֽתָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 73:5
+      lang: ar
+      text: إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا
 ---
 
 ## Questions

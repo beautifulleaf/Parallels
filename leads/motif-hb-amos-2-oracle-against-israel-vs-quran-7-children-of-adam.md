@@ -2,7 +2,7 @@
 id: motif-hb-amos-2-oracle-against-israel-vs-quran-7-children-of-adam
 title: The oracle against Israel; sandals, pledged garments and silenced prophets ↔ Children of Adam -
   clothing, Satan's enmity, what God forbids
-summary: 'These two units share 1 motifs: clothing at every altar or place of prostration.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - garments-at-every-place-of-worship
-passages:
-- tradition: judaism
-  ref: Amos 2:8
-  note: 'Clothing at every altar or place of prostration (Garments at every place of worship. Amos: wə-ʿal-bəgādîm
-    ḥăvulîm yaṭṭû ʾēṣel kol-mizbēaḥ, condemning the use of pledged clothes. Q: khudhū zīnatakum ʿinda
-    kulli masjidin wa-kulū wa-shrabū wa-lā tusrifū, commanding proper dress. ''Beside every altar'' matches
-    ''at every place of prostration'', with opposite force.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַל בְּגָדִ֤ים חֲבֻלִים֙ יַטּ֔וּ אֵ֖צֶל כָּל מִזְבֵּ֑חַ וְיֵ֤ין עֲנוּשִׁים֙ יִשְׁתּ֔וּ בֵּ֖ית
-    אֱלֹהֵיהֶֽם
-- tradition: islam
-  ref: Quran 7:31
-  note: 'Clothing at every altar or place of prostration (Garments at every place of worship. Amos: wə-ʿal-bəgādîm
-    ḥăvulîm yaṭṭû ʾēṣel kol-mizbēaḥ, condemning the use of pledged clothes. Q: khudhū zīnatakum ʿinda
-    kulli masjidin wa-kulū wa-shrabū wa-lā tusrifū, commanding proper dress. ''Beside every altar'' matches
-    ''at every place of prostration'', with opposite force.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟
-    إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Garments at every place of worship. Amos: wə-ʿal-bəgādîm ḥăvulîm yaṭṭû ʾēṣel kol-mizbēaḥ, condemning
-    the use of pledged clothes. Q: khudhū zīnatakum ʿinda kulli masjidin wa-kulū wa-shrabū wa-lā tusrifū,
-    commanding proper dress. ''Beside every altar'' matches ''at every place of prostration'', with opposite
-    force.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Clothing at every altar or place of prostration (weight 6.7). Pair
     score 6.7.'
@@ -75,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Clothing at every altar or place of prostration
+kinds:
+- echo
+units:
+- id: hb-amos-2-oracle-against-israel
+  title: The oracle against Israel; sandals, pledged garments and silenced prophets
+  tradition: judaism
+- id: quran-7-children-of-adam
+  title: Children of Adam - clothing, Satan's enmity, what God forbids
+  tradition: islam
+matches:
+- kind: echo
+  label: Clothing at every altar or place of prostration
+  note: 'Garments at every place of worship. Amos: wə-ʿal-bəgādîm ḥăvulîm yaṭṭû ʾēṣel kol-mizbēaḥ, condemning
+    the use of pledged clothes. Q: khudhū zīnatakum ʿinda kulli masjidin wa-kulū wa-shrabū wa-lā tusrifū,
+    commanding proper dress. ''Beside every altar'' matches ''at every place of prostration'', with opposite
+    force.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 2:8
+      lang: he
+      text: וְעַל בְּגָדִ֤ים חֲבֻלִים֙ יַטּ֔וּ אֵ֖צֶל כָּל מִזְבֵּ֑חַ וְיֵ֤ין עֲנוּשִׁים֙ יִשְׁתּ֔וּ בֵּ֖ית
+        אֱלֹהֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:31
+      lang: ar
+      text: يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟
+        إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
 ---
 
 ## Questions

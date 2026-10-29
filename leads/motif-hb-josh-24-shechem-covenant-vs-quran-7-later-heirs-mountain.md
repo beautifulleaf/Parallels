@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-7-later-heirs-mountain
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Heirs
   of the book and the mountain lifted over Israel
-summary: 'These two units share 1 motifs: the words of a covenant are written in a book of the law of
-  god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - covenant-book-written
-passages:
-- tradition: judaism
-  ref: Josh 24:25-26
-  note: The words of a covenant are written in a book of the law of God (written in the 'book of the Torah
-    of God')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:25) וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט
-    בִּשְׁכֶֽם (24:26) וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים
-    וַיִּקַּח֙ אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
-- tradition: judaism
-  ref: Josh 24:25
-  note: The words of a covenant are written in a book of the law of God (written in the 'book of the Torah
-    of God')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט בִּשְׁכֶֽם
-- tradition: islam
-  ref: Quran 7:169
-  note: The words of a covenant are written in a book of the law of God (mithaq al-kitab)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ
-    سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَٰقُ
-    ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ وَٱلدَّارُ ٱلْءَاخِرَةُ
-    خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The covenant is bound to a written book: a-lam yuʾkhadh ʿalayhim mīthāqu l-kitābi ... wa-darasū
-    mā fīhi vs wayyikrōt yᵉhôšuaʿ bᵉrît lāʿām ... wayyiktōb ... bᵉsēper tôrat ʾĕlōhîm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The words of a covenant are written in a book of the law of God
     (weight 6.7). Pair score 6.7.'
@@ -76,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The words of a covenant are written in a book of the law of God
+kinds:
+- parallel
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-7-later-heirs-mountain
+  title: Heirs of the book and the mountain lifted over Israel
+  tradition: islam
+matches:
+- kind: parallel
+  label: The words of a covenant are written in a book of the law of God
+  note: 'The covenant is bound to a written book: a-lam yuʾkhadh ʿalayhim mīthāqu l-kitābi ... wa-darasū
+    mā fīhi vs wayyikrōt yᵉhôšuaʿ bᵉrît lāʿām ... wayyiktōb ... bᵉsēper tôrat ʾĕlōhîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:25
+      lang: he
+      text: וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט
+        בִּשְׁכֶֽם
+    - ref: Josh 24:26
+      lang: he
+      text: וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙
+        אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:169
+      lang: ar
+      text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ
+        وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ أَلَمْ يُؤْخَذْ عَلَيْهِم
+        مِّيثَٰقُ ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ وَٱلدَّارُ
+        ٱلْءَاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ
 ---
 
 ## Questions

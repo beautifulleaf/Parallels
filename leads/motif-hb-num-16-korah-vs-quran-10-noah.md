@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-16-korah-vs-quran-10-noah
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ Noah's challenge to his people
-summary: 'These two units share 1 motifs: leader protests he never took so much as a donkey from anyone.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,27 +13,9 @@ layers:
 - motif
 motifs:
 - leader-denies-taking-anything
-passages:
-- tradition: judaism
-  ref: Num 16:15
-  note: Leader protests he never took so much as a donkey from anyone
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֤חַר לְמֹשֶׁה֙ מְאֹ֔ד וַיֹּ֨אמֶר֙ אֶל יְהוָ֔ה אַל תֵּ֖פֶן אֶל מִנְחָתָ֑ם לֹ֠א חֲמ֨וֹר אֶחָ֤ד
-    מֵהֶם֙ נָשָׂ֔אתִי וְלֹ֥א הֲרֵעֹ֖תִי אֶת אַחַ֥ד מֵהֶֽם
-- tradition: islam
-  ref: Quran 10:72
-  note: 'Leader protests he never took so much as a donkey from anyone (The prophet''s integrity: he took
-    nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā
-    saʾaltukum min ajr.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
-    أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. lōʾ ḥămôr ʾeḥād mēhem nāśāʾtî vs fa-mā saʾaltukum min ajrin: a leader under attack disclaims
-    any gain from his people.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader protests he never took so much as a donkey from anyone (weight
     6.3). Pair score 6.3.'
@@ -64,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader protests he never took so much as a donkey from anyone
+kinds:
+- echo
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-10-noah
+  title: Noah's challenge to his people
+  tradition: islam
+matches:
+- kind: echo
+  label: Leader protests he never took so much as a donkey from anyone
+  note: 'lōʾ ḥămôr ʾeḥād mēhem nāśāʾtî vs fa-mā saʾaltukum min ajrin: a leader under attack disclaims
+    any gain from his people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:15
+      lang: he
+      text: וַיִּ֤חַר לְמֹשֶׁה֙ מְאֹ֔ד וַיֹּ֨אמֶר֙ אֶל יְהוָ֔ה אַל תֵּ֖פֶן אֶל מִנְחָתָ֑ם לֹ֠א חֲמ֨וֹר
+        אֶחָ֤ד מֵהֶם֙ נָשָׂ֔אתִי וְלֹ֥א הֲרֵעֹ֖תִי אֶת אַחַ֥ד מֵהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:72
+      lang: ar
+      text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
+        أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

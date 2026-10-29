@@ -2,8 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-29-abraham-preaches
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Abraham preaches against idols,
   is saved from the fire, and Lot believes
-summary: 'These two units share 1 motifs: how god brings abraham out of his homeland''s danger (ur, or
-  the fire) [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - how-abraham-is-brought-out-as-divergence
-passages:
-- tradition: judaism
-  ref: Neh 9:7
-  note: 'How God brings Abraham out of his homeland''s danger (Ur, or the fire) [divergence between the
-    texts] (ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu llāhu
-    mina n-nāri: God ''brought Abraham out'' of Ur of the Chaldees (Nehemiah) or ''saved him from the
-    fire'' (Quran). The link is made by the midrashic reading of ʾûr as ''fire'' (cf. Gen. Rab. 38:13,
-    outside the HB); in the HB itself Ur is only a place.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֨רְתָּ֙ בְּאַבְרָ֔ם וְהוֹצֵאת֖וֹ מֵא֣וּר כַּשְׂדִּ֑ים
-    וְשַׂ֥מְתָּ שְּׁמ֖וֹ אַבְרָהָֽם
-- tradition: islam
-  ref: Quran 29:24
-  note: 'How God brings Abraham out of his homeland''s danger (Ur, or the fire) [divergence between the
-    texts] (ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu llāhu
-    mina n-nāri: God ''brought Abraham out'' of Ur of the Chaldees (Nehemiah) or ''saved him from the
-    fire'' (Quran). The link is made by the midrashic reading of ʾûr as ''fire'' (cf. Gen. Rab. 38:13,
-    outside the HB); in the HB itself Ur is only a place.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ ٱللَّهُ
-    مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 29:26
-  note: 'How God brings Abraham out of his homeland''s danger (Ur, or the fire) [divergence between the
-    texts] (ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu llāhu
-    mina n-nāri: God ''brought Abraham out'' of Ur of the Chaldees (Nehemiah) or ''saved him from the
-    fire'' (Quran). The link is made by the midrashic reading of ʾûr as ''fire'' (cf. Gen. Rab. 38:13,
-    outside the HB); in the HB itself Ur is only a place.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu
-    llāhu mina n-nāri: God ''brought Abraham out'' of Ur of the Chaldees (Nehemiah) or ''saved him from
-    the fire'' (Quran). The link is made by the midrashic reading of ʾûr as ''fire'' (cf. Gen. Rab. 38:13,
-    outside the HB); in the HB itself Ur is only a place.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God brings Abraham out of his homeland''s danger (Ur, or the
     fire) [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -88,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How God brings Abraham out of his homeland's danger (Ur, or the fire)
+kinds:
+- divergence
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-29-abraham-preaches
+  title: Abraham preaches against idols, is saved from the fire, and Lot believes
+  tradition: islam
+matches:
+- kind: divergence
+  label: How God brings Abraham out of his homeland's danger (Ur, or the fire)
+  note: 'ʾăšer bāḥartā bə-ʾAvrām wə-hôṣēʾtô mē-ʾÛr Kaśdîm ~ qālū qtulūhu aw ḥarriqūhu fa-anjāhu llāhu
+    mina n-nāri: God ''brought Abraham out'' of Ur of the Chaldees (Nehemiah) or ''saved him from the
+    fire'' (Quran). The link is made by the midrashic reading of ʾûr as ''fire'' (cf. Gen. Rab. 38:13,
+    outside the HB); in the HB itself Ur is only a place.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:7
+      lang: he
+      text: אַתָּה הוּא֙ יְהוָ֣ה הָאֱלֹהִ֔ים אֲשֶׁ֤ר בָּחַ֨רְתָּ֙ בְּאַבְרָ֔ם וְהוֹצֵאת֖וֹ מֵא֣וּר כַּשְׂדִּ֑ים
+        וְשַׂ֥מְתָּ שְּׁמ֖וֹ אַבְרָהָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:24
+      lang: ar
+      text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنجَىٰهُ
+        ٱللَّهُ مِنَ ٱلنَّارِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ
+    - ref: Quran 29:26
+      lang: ar
+      text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

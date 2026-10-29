@@ -2,7 +2,7 @@
 id: motif-hb-ezek-3-watchman-and-muteness-vs-quran-33-zayd-seal-of-prophets
 title: Ezekiel appointed watchman; bound and struck dumb in his house ↔ Zayd's wife, the seal of the prophets,
   and the prophet as a lamp
-summary: 'These two units share 1 motifs: the prophet is sent as witness, bearer of good tidings and warner.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-as-witness-bearer-of-tidings-warner
-passages:
-- tradition: judaism
-  ref: Ezek 3:17
-  note: 'The prophet is sent as witness, bearer of good tidings and warner (ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl
-    ... wə-hizhartā ʾôṯām mimmennî vs. innā arsalnāka shāhidan wa-mubashshiran wa-nadhīrā: the prophet
-    set as watcher or witness and as warner (hizhîr / nadhīr). Ezekiel is sent to the house of Israel
-    only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֕ם צֹפֶ֥ה נְתַתִּ֖יךָ לְבֵ֣ית יִשְׂרָאֵ֑ל וְשָׁמַעְתָּ֤ מִפִּי֙ דָּבָ֔ר וְהִזְהַרְתָּ֥
-    אוֹתָ֖ם מִמֶּֽנִּי
-- tradition: islam
-  ref: Quran 33:45
-  note: The prophet is sent as witness, bearer of good tidings and warner
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا
-- tradition: islam
-  ref: Quran 33:46
-  note: The prophet is sent as witness, bearer of good tidings and warner
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl ... wə-hizhartā ʾôṯām mimmennî vs. innā arsalnāka shāhidan
-    wa-mubashshiran wa-nadhīrā: the prophet set as watcher or witness and as warner (hizhîr / nadhīr).
-    Ezekiel is sent to the house of Israel only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
     (weight 6.0). Pair score 6.0.'
@@ -77,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet is sent as witness, bearer of good tidings and warner
+kinds:
+- echo
+units:
+- id: hb-ezek-3-watchman-and-muteness
+  title: Ezekiel appointed watchman; bound and struck dumb in his house
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet is sent as witness, bearer of good tidings and warner
+  note: 'ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl ... wə-hizhartā ʾôṯām mimmennî vs. innā arsalnāka shāhidan wa-mubashshiran
+    wa-nadhīrā: the prophet set as watcher or witness and as warner (hizhîr / nadhīr). Ezekiel is sent
+    to the house of Israel only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:17
+      lang: he
+      text: בֶּן אָדָ֕ם צֹפֶ֥ה נְתַתִּ֖יךָ לְבֵ֣ית יִשְׂרָאֵ֑ל וְשָׁמַעְתָּ֤ מִפִּי֙ דָּבָ֔ר וְהִזְהַרְתָּ֥
+        אוֹתָ֖ם מִמֶּֽנִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 33:45
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا
 ---
 
 ## Questions

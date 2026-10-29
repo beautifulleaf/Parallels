@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-112-114-unity-and-refuge
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Sincerity, daybreak
   and mankind: God''s unity and the two refuges'
-summary: 'These two units share 1 motifs: ''to whom will you liken god, what likeness compare to him?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - to-whom-will-you-liken-god
-passages:
-- tradition: judaism
-  ref: Isa 40:18
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
-- tradition: judaism
-  ref: Isa 40:25
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ
-- tradition: islam
-  ref: Quran 112:4
-  note: '''To whom will you liken God, what likeness compare to him?'' (wa-lam yakun lahu kufuwan aḥad
-    ~ we-ʾel mî tedammeyûn ʾēl ... we-ʾel mî tedammeyûnî we-ʾešweh: nothing equal to God (kufuʾ ~ ʾešweh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-lam yakun lahu kufuwan aḥad ~ we-ʾel mî tedammeyûn ʾēl ... we-ʾel mî tedammeyûnî we-ʾešweh:
-    nothing equal to God (kufuʾ ~ ʾešweh).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''To whom will you liken God, what likeness compare to him?'' (weight
     6.0). Pair score 6.0.'
@@ -78,6 +57,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''To whom will you liken God, what likeness compare to him?'''
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''To whom will you liken God, what likeness compare to him?'''
+  note: 'wa-lam yakun lahu kufuwan aḥad ~ we-ʾel mî tedammeyûn ʾēl ... we-ʾel mî tedammeyûnî we-ʾešweh:
+    nothing equal to God (kufuʾ ~ ʾešweh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:18
+      lang: he
+      text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
+    - ref: Isa 40:25
+      lang: he
+      text: וְאֶל מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 112:4
+      lang: ar
+      text: وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ
 ---
 
 ## Questions

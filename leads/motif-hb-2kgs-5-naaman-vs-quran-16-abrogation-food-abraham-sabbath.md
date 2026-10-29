@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-5-naaman-vs-quran-16-abrogation-food-abraham-sabbath
 title: Naaman healed of leprosy; Gehazi's greed ↔ Abrogation, the foreign teacher, coerced unbelief, food
   law, Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 1 motifs: one forced to disbelieve while his heart is firm in faith is
-  excused.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - coerced-disbelief-excused
-passages:
-- tradition: judaism
-  ref: 2Kgs 5:17
-  note: 'One forced to disbelieve while his heart is firm in faith is excused (laddābār hazzeh yislaḥ
-    YHWH ləʿabdekā bəbôʾ ʾădōnî bêt-rimmôn ləhištaḥăwōt šāmmâ ... wəhištaḥăwêtî; illā man ukriha wa-qalbuhu
-    muṭmaʾinnun bi-l-īmān: an outward act of idolatry under compulsion is pardoned while the heart stays
-    loyal. Elisha answers lēk ləšālôm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֮ נַעֲמָן֒ וָלֹ֕א יֻתַּן נָ֣א לְעַבְדְּךָ֔ מַשָּׂ֥א צֶֽמֶד פְּרָדִ֖ים אֲדָמָ֑ה כִּ֡י
-    לֽוֹא יַעֲשֶׂה֩ ע֨וֹד עַבְדְּךָ֜ עֹלָ֤ה וָזֶ֨בַח֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים כִּ֖י אִם לַיהוָֽה
-- tradition: judaism
-  ref: 2Kgs 5:18
-  note: 'One forced to disbelieve while his heart is firm in faith is excused (laddābār hazzeh yislaḥ
-    YHWH ləʿabdekā bəbôʾ ʾădōnî bêt-rimmôn ləhištaḥăwōt šāmmâ ... wəhištaḥăwêtî; illā man ukriha wa-qalbuhu
-    muṭmaʾinnun bi-l-īmān: an outward act of idolatry under compulsion is pardoned while the heart stays
-    loyal. Elisha answers lēk ləšālôm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַדָּבָ֣ר הַזֶּ֔ה יִסְלַ֥ח יְהוָ֖ה לְעַבְדֶּ֑ךָ בְּב֣וֹא אֲדֹנִ֣י בֵית רִמּוֹן֩ לְהִשְׁתַּחֲוֺ֨ת
-    שָׁ֜מָּה וְה֣וּא נִשְׁעָ֣ן עַל יָדִ֗י וְהִֽשְׁתַּחֲוֵ֨יתִי֙ בֵּ֣ית רִמֹּ֔ן בְּהִשְׁתַּחֲוָיָ֨תִי֙
-    בֵּ֣ית רִמֹּ֔ן יִסְלַח נא יְהוָ֥ה לְעַבְדְּךָ֖ בַּדָּבָ֥ר הַזֶּֽה
-- tradition: islam
-  ref: Quran 16:106
-  note: One forced to disbelieve while his heart is firm in faith is excused (illā man ukriha wa-qalbuhu
-    muṭmaʾinnun bi-l-īmān)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ بِٱلْإِيمَٰنِ
-    وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ عَذَابٌ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. laddābār hazzeh yislaḥ YHWH ləʿabdekā bəbôʾ ʾădōnî bêt-rimmôn ləhištaḥăwōt šāmmâ ... wəhištaḥăwêtî;
-    illā man ukriha wa-qalbuhu muṭmaʾinnun bi-l-īmān: an outward act of idolatry under compulsion is pardoned
-    while the heart stays loyal. Elisha answers lēk ləšālôm.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One forced to disbelieve while his heart is firm in faith is excused
     (weight 6.7). Pair score 6.7.'
@@ -87,6 +54,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One forced to disbelieve while his heart is firm in faith is excused
+kinds:
+- parallel
+units:
+- id: hb-2kgs-5-naaman
+  title: Naaman healed of leprosy; Gehazi's greed
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: parallel
+  label: One forced to disbelieve while his heart is firm in faith is excused
+  note: 'laddābār hazzeh yislaḥ YHWH ləʿabdekā bəbôʾ ʾădōnî bêt-rimmôn ləhištaḥăwōt šāmmâ ... wəhištaḥăwêtî;
+    illā man ukriha wa-qalbuhu muṭmaʾinnun bi-l-īmān: an outward act of idolatry under compulsion is pardoned
+    while the heart stays loyal. Elisha answers lēk ləšālôm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:17
+      lang: he
+      text: וַיֹּאמֶר֮ נַעֲמָן֒ וָלֹ֕א יֻתַּן נָ֣א לְעַבְדְּךָ֔ מַשָּׂ֥א צֶֽמֶד פְּרָדִ֖ים אֲדָמָ֑ה כִּ֡י
+        לֽוֹא יַעֲשֶׂה֩ ע֨וֹד עַבְדְּךָ֜ עֹלָ֤ה וָזֶ֨בַח֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים כִּ֖י אִם לַיהוָֽה
+    - ref: 2Kgs 5:18
+      lang: he
+      text: לַדָּבָ֣ר הַזֶּ֔ה יִסְלַ֥ח יְהוָ֖ה לְעַבְדֶּ֑ךָ בְּב֣וֹא אֲדֹנִ֣י בֵית רִמּוֹן֩ לְהִשְׁתַּחֲוֺ֨ת
+        שָׁ֜מָּה וְה֣וּא נִשְׁעָ֣ן עַל יָדִ֗י וְהִֽשְׁתַּחֲוֵ֨יתִי֙ בֵּ֣ית רִמֹּ֔ן בְּהִשְׁתַּחֲוָיָ֨תִי֙
+        בֵּ֣ית רִמֹּ֔ן יִסְלַח נא יְהוָ֥ה לְעַבְדְּךָ֖ בַּדָּבָ֥ר הַזֶּֽה
+    - ref: 2Kgs 5:19
+      lang: he
+      text: וַיֹּ֥אמֶר ל֖וֹ לֵ֣ךְ לְשָׁל֑וֹם וַיֵּ֥לֶךְ מֵאִתּ֖וֹ כִּבְרַת אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:106
+      lang: ar
+      text: مَن كَفَرَ بِٱللَّهِ مِنۢ بَعْدِ إِيمَٰنِهِۦٓ إِلَّا مَنْ أُكْرِهَ وَقَلْبُهُۥ مُطْمَئِنٌّۢ
+        بِٱلْإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلْكُفْرِ صَدْرًا فَعَلَيْهِمْ غَضَبٌ مِّنَ ٱللَّهِ وَلَهُمْ
+        عَذَابٌ عَظِيمٌ
 ---
 
 ## Questions

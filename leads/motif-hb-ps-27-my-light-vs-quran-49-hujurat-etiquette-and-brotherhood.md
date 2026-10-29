@@ -2,8 +2,7 @@
 id: motif-hb-ps-27-my-light-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Psalm 27 - YHWH is my light; one thing I ask ↔ Al-Hujurat: lowering voices, verifying reports,
   reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: avoid suspicion, spying and backbiting: would one of you like
-  to eat the flesh of his dead brother?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - backbiting-as-eating-dead-brothers-flesh
-passages:
-- tradition: judaism
-  ref: Ps 27:2
-  note: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?
-    (biqrōḇ ʿālay məreʿîm leʾĕḵōl ʾeṯ bəśārî vs. an yaʾkula laḥma akhīhi: enemies ''eating flesh''. In
-    the psalm the enemies attack the speaker; in the Quran the eater is the slandering believer and the
-    flesh is his brother''s.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּקְרֹ֤ב עָלַ֨י מְרֵעִים֮ לֶאֱכֹ֪ל אֶת בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ וְנָפָֽלוּ
-- tradition: islam
-  ref: Quran 49:12
-  note: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. biqrōḇ ʿālay məreʿîm leʾĕḵōl ʾeṯ bəśārî vs. an yaʾkula laḥma akhīhi: enemies ''eating flesh''.
-    In the psalm the enemies attack the speaker; in the Quran the eater is the slandering believer and
-    the flesh is his brother''s.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Avoid suspicion, spying and backbiting: would one of you like to
     eat the flesh of his dead brother? (weight 6.3). Pair score 6.3.'
@@ -75,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
+kinds:
+- echo
+units:
+- id: hb-ps-27-my-light
+  title: Psalm 27 - YHWH is my light; one thing I ask
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
+  note: 'biqrōḇ ʿālay məreʿîm leʾĕḵōl ʾeṯ bəśārî vs. an yaʾkula laḥma akhīhi: enemies ''eating flesh''.
+    In the psalm the enemies attack the speaker; in the Quran the eater is the slandering believer and
+    the flesh is his brother''s.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 27:2
+      lang: he
+      text: בִּקְרֹ֤ב עָלַ֨י מְרֵעִים֮ לֶאֱכֹ֪ל אֶת בְּשָׂ֫רִ֥י צָרַ֣י וְאֹיְבַ֣י לִ֑י הֵ֖מָּה כָשְׁל֣וּ
+        וְנָפָֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
 ---
 
 ## Questions

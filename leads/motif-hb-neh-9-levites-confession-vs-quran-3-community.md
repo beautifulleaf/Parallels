@@ -1,7 +1,7 @@
 ---
 id: motif-hb-neh-9-levites-confession-vs-quran-3-community
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: israel killed the prophets who warned them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-killed-by-israel
-passages:
-- tradition: judaism
-  ref: Neh 9:26
-  note: Israel killed the prophets who warned them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 3:112
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ
-    ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ
-    كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا
-    عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 3:112 wa-yaqtulūna l-anbiyāʾa bi-ghayri ḥaqqin, as the
-    cause of the humiliation stamped on them.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
     5.1.'
@@ -68,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel killed the prophets who warned them
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel killed the prophets who warned them
+  note: Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 3:112 wa-yaqtulūna l-anbiyāʾa bi-ghayri ḥaqqin, as the cause
+    of the humiliation stamped on them.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:112
+      lang: ar
+      text: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ
+        مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ
+        كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ
+        بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

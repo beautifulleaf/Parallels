@@ -2,8 +2,7 @@
 id: motif-hb-ps-55-dove-wings-vs-quran-30-signs
 title: Psalm 55, wings of a dove and the treacherous friend ↔ The Hour, the times of praise, and the signs
   of God
-summary: 'These two units share 1 motifs: glorify god in the evening, morning, afternoon and noon (set
-  times of praise or prayer).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - praise-at-set-times-of-day
-passages:
-- tradition: judaism
-  ref: Ps 55:18
-  note: 'Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer) (fa-subḥāna
-    llāhi ḥīna tumsūna wa-ḥīna tuṣbiḥūna ... wa-ʿashiyyan wa-ḥīna tuẓhirūn (evening, morning, late afternoon,
-    noon) vs. ʿereḇ wā-ḇōqer wə-ṣohŏrayim ʾāśîḥâ wə-ʾehĕmeh (evening, morning and noon). The same order
-    evening-morning-noon, with the Quran adding ʿashiyy: three times become four.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
-- tradition: islam
-  ref: Quran 30:17
-  note: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
-- tradition: islam
-  ref: Quran 30:18
-  note: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. fa-subḥāna llāhi ḥīna tumsūna wa-ḥīna tuṣbiḥūna ... wa-ʿashiyyan wa-ḥīna tuẓhirūn (evening,
-    morning, late afternoon, noon) vs. ʿereḇ wā-ḇōqer wə-ṣohŏrayim ʾāśîḥâ wə-ʾehĕmeh (evening, morning
-    and noon). The same order evening-morning-noon, with the Quran adding ʿashiyy: three times become
-    four.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Glorify God in the evening, morning, afternoon and noon (set times
     of praise or prayer) (weight 5.8). Pair score 5.8.'
@@ -76,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
+kinds:
+- parallel
+units:
+- id: hb-ps-55-dove-wings
+  title: Psalm 55, wings of a dove and the treacherous friend
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: parallel
+  label: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
+  note: 'fa-subḥāna llāhi ḥīna tumsūna wa-ḥīna tuṣbiḥūna ... wa-ʿashiyyan wa-ḥīna tuẓhirūn (evening, morning,
+    late afternoon, noon) vs. ʿereḇ wā-ḇōqer wə-ṣohŏrayim ʾāśîḥâ wə-ʾehĕmeh (evening, morning and noon).
+    The same order evening-morning-noon, with the Quran adding ʿashiyy: three times become four.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 55:18
+      lang: he
+      text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 30:17
+      lang: ar
+      text: فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+    - ref: Quran 30:18
+      lang: ar
+      text: وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
 ---
 
 ## Questions

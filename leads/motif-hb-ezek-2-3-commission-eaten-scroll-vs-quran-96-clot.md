@@ -2,7 +2,7 @@
 id: motif-hb-ezek-2-3-commission-eaten-scroll-vs-quran-96-clot
 title: 'Ezekiel''s commission as ''son of man'' to the rebellious house; he eats the scroll sweet as honey
   ↔ The clot: recite! and the forelock'
-summary: 'These two units share 1 motifs: narrative of a prophet''s commissioning by god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +14,9 @@ layers:
 - motif
 motifs:
 - prophetic-call-narrative
-passages:
-- tradition: judaism
-  ref: Ezek 2:3-7
-  note: Narrative of a prophet's commissioning by God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (2:3) וַיֹּ֣אמֶר אֵלַ֗י בֶּן אָדָם֙ שׁוֹלֵ֨חַ אֲנִ֤י אֽוֹתְךָ֙ אֶל בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל גּוֹיִ֥ם
-    הַמּוֹרְדִ֖ים אֲשֶׁ֣ר מָרְדוּ בִ֑י הֵ֤מָּה וַאֲבוֹתָם֙ פָּ֣שְׁעוּ בִ֔י עַד עֶ֖צֶם הַיּ֥וֹם הַזֶּֽה
-    (2:4) וְהַבָּנִ֗ים קְשֵׁ֤י פָנִים֙ וְחִזְקֵי לֵ֔ב אֲנִ֛י שׁוֹלֵ֥חַ אוֹתְךָ֖ אֲלֵיהֶ֑ם וְאָמַרְתָּ֣
-    אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֥י יְהֹוִֽה (2:5) וְהֵ֨מָּה֙ אִם יִשְׁמְע֣וּ וְאִם יֶחְדָּ֔לוּ כִּ֛י
-    בֵּ֥ית מְרִ֖י הֵ֑מָּה וְיָ֣דְע֔וּ כִּ֥י נָבִ֖יא הָיָ֥ה בְתוֹכָֽם (2:6) וְאַתָּ֣ה בֶן אָ֠דָם אַל תִּירָ֨א
-    מֵהֶ֜ם וּמִדִּבְרֵיהֶ֣ם אַל תִּירָ֗א כִּ֣י סָרָבִ֤ים וְסַלּוֹנִים֙ אוֹתָ֔ךְ וְאֶל עַקְרַבִּ֖ים אַתָּ֣ה
-    יוֹשֵׁ֑ב מִדִּבְרֵיהֶ֤ם אַל תִּירָא֙ וּמִפְּנֵיהֶ֣ם אַל תֵּחָ֔ת כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה (2:7)
-    וְדִבַּרְתָּ֤ אֶת דְּבָרַי֙ אֲלֵיהֶ֔ם אִֽם יִשְׁמְע֖וּ וְאִם יֶחְדָּ֑לוּ כִּ֥י מְרִ֖י הֵֽמָּה
-- tradition: judaism
-  ref: Ezek 3:1
-  note: Narrative of a prophet's commissioning by God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם אֵ֥ת אֲשֶׁר תִּמְצָ֖א אֱכ֑וֹל אֱכוֹל֙ אֶת הַמְּגִלָּ֣ה הַזֹּ֔את
-    וְלֵ֥ךְ דַּבֵּ֖ר אֶל בֵּ֥ית יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 96:1
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
-- tradition: islam
-  ref: Quran 96:3
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. iqraʾ ... alladhī ʿallama bi-l-qalam ~ ʾĕkôl ʾet ha-mmegillāh ha-zzōʾt we-lēk dabbēr: the commission
-    begins with a written word given to the prophet (pen / scroll).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 5.4). Pair
     score 5.4.'
@@ -80,6 +46,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Narrative of a prophet's commissioning by God
+kinds:
+- echo
+units:
+- id: hb-ezek-2-3-commission-eaten-scroll
+  title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
+  tradition: judaism
+- id: quran-96-clot
+  title: 'The clot: recite! and the forelock'
+  tradition: islam
+matches:
+- kind: echo
+  label: Narrative of a prophet's commissioning by God
+  note: 'iqraʾ ... alladhī ʿallama bi-l-qalam ~ ʾĕkôl ʾet ha-mmegillāh ha-zzōʾt we-lēk dabbēr: the commission
+    begins with a written word given to the prophet (pen / scroll).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:1
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם אֵ֥ת אֲשֶׁר תִּמְצָ֖א אֱכ֑וֹל אֱכוֹל֙ אֶת הַמְּגִלָּ֣ה הַזֹּ֔את
+        וְלֵ֥ךְ דַּבֵּ֖ר אֶל בֵּ֥ית יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 96:1
+      lang: ar
+      text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
+    - ref: Quran 96:4
+      lang: ar
+      text: ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ
+    - ref: Quran 96:5
+      lang: ar
+      text: عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ
 ---
 
 ## Questions

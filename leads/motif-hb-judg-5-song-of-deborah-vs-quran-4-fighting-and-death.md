@@ -1,8 +1,7 @@
 ---
 id: motif-hb-judg-5-song-of-deborah-vs-quran-4-fighting-and-death
 title: The Song of Deborah ↔ Fighting for the oppressed; death in lofty towers
-summary: 'These two units share 1 motifs: the laggard thanks god he was absent when disaster struck, and
-  wishes he had shared the spoil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - laggard-rejoices-at-missing-battle
-passages:
-- tradition: judaism
-  ref: Judg 5:16
-  note: 'The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
-    (Both rebuke those who stay away from the battle. Judg: lāmmāh yāšabtā bên ha-mišpətayim; ʾôrû mērôz
-    ... kî lōʾ-bāʾû lə-ʿezrat YHWH (Meroz is cursed). Q: the laggard (la-man la-yubaṭṭiʾanna) says qad
-    anʿama llāhu ʿalayya idh lam akun maʿahum shahīdan, then wishes for the spoil.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים לִפְלַגּ֣וֹת רְאוּבֵ֔ן
-    גְּדוֹלִ֖ים חִקְרֵי לֵֽב
-- tradition: judaism
-  ref: Judg 5:17
-  note: 'The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
-    (Both rebuke those who stay away from the battle. Judg: lāmmāh yāšabtā bên ha-mišpətayim; ʾôrû mērôz
-    ... kî lōʾ-bāʾû lə-ʿezrat YHWH (Meroz is cursed). Q: the laggard (la-man la-yubaṭṭiʾanna) says qad
-    anʿama llāhu ʿalayya idh lam akun maʿahum shahīdan, then wishes for the spoil.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גִּלְעָ֗ד בְּעֵ֤בֶר הַיַּרְדֵּן֙ שָׁכֵ֔ן וְדָ֕ן לָ֥מָּה יָג֖וּר אֳנִיּ֑וֹת אָשֵׁ֗ר יָשַׁב֙ לְח֣וֹף
-    יַמִּ֔ים וְעַ֥ל מִפְרָצָ֖יו יִשְׁכּֽוֹן
-- tradition: islam
-  ref: Quran 4:72
-  note: The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌ قَالَ قَدْ أَنْعَمَ ٱللَّهُ
-    عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا
-- tradition: islam
-  ref: Quran 4:73
-  note: The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَئِنْ أَصَٰبَكُمْ فَضْلٌ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ
-    مَوَدَّةٌ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Both rebuke those who stay away from the battle. Judg: lāmmāh yāšabtā bên ha-mišpətayim; ʾôrû
-    mērôz ... kî lōʾ-bāʾû lə-ʿezrat YHWH (Meroz is cursed). Q: the laggard (la-man la-yubaṭṭiʾanna) says
-    qad anʿama llāhu ʿalayya idh lam akun maʿahum shahīdan, then wishes for the spoil.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The laggard thanks God he was absent when disaster struck, and wishes
     he had shared the spoil (weight 6.7). Pair score 6.7.'
@@ -84,6 +46,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
+kinds:
+- echo
+units:
+- id: hb-judg-5-song-of-deborah
+  title: The Song of Deborah
+  tradition: judaism
+- id: quran-4-fighting-and-death
+  title: Fighting for the oppressed; death in lofty towers
+  tradition: islam
+matches:
+- kind: echo
+  label: The laggard thanks God he was absent when disaster struck, and wishes he had shared the spoil
+  note: 'Both rebuke those who stay away from the battle. Judg: lāmmāh yāšabtā bên ha-mišpətayim; ʾôrû
+    mērôz ... kî lōʾ-bāʾû lə-ʿezrat YHWH (Meroz is cursed). Q: the laggard (la-man la-yubaṭṭiʾanna) says
+    qad anʿama llāhu ʿalayya idh lam akun maʿahum shahīdan, then wishes for the spoil.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:16
+      lang: he
+      text: לָ֣מָּה יָשַׁ֗בְתָּ בֵּ֚ין הַֽמִּשְׁפְּתַ֔יִם לִשְׁמֹ֖עַ שְׁרִק֣וֹת עֲדָרִ֑ים לִפְלַגּ֣וֹת
+        רְאוּבֵ֔ן גְּדוֹלִ֖ים חִקְרֵי לֵֽב
+    - ref: Judg 5:17
+      lang: he
+      text: גִּלְעָ֗ד בְּעֵ֤בֶר הַיַּרְדֵּן֙ שָׁכֵ֔ן וְדָ֕ן לָ֥מָּה יָג֖וּר אֳנִיּ֑וֹת אָשֵׁ֗ר יָשַׁב֙
+        לְח֣וֹף יַמִּ֔ים וְעַ֥ל מִפְרָצָ֖יו יִשְׁכּֽוֹן
+    - ref: Judg 5:23
+      lang: he
+      text: א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ כִּ֤י לֹֽא בָ֨אוּ֙ לְעֶזְרַ֣ת
+        יְהוָ֔ה לְעֶזְרַ֥ת יְהוָ֖ה בַּגִּבּוֹרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 4:72
+      lang: ar
+      text: وَإِنَّ مِنكُمْ لَمَن لَّيُبَطِّئَنَّ فَإِنْ أَصَٰبَتْكُم مُّصِيبَةٌ قَالَ قَدْ أَنْعَمَ ٱللَّهُ
+        عَلَىَّ إِذْ لَمْ أَكُن مَّعَهُمْ شَهِيدًا
+    - ref: Quran 4:73
+      lang: ar
+      text: وَلَئِنْ أَصَٰبَكُمْ فَضْلٌ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمْ تَكُنۢ بَيْنَكُمْ وَبَيْنَهُۥ
+        مَوَدَّةٌ يَٰلَيْتَنِى كُنتُ مَعَهُمْ فَأَفُوزَ فَوْزًا عَظِيمًا
 ---
 
 ## Questions

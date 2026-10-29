@@ -2,8 +2,7 @@
 id: motif-hb-ezek-13-false-prophets-and-prophetesses-vs-quran-112-114-unity-and-refuge
 title: 'Against the false prophets and the women who hunt souls ↔ Sincerity, daybreak and mankind: God''s
   unity and the two refuges'
-summary: 'These two units share 1 motifs: refuge from the evil of those (women) who blow on knots (al-naffathat
-  fi al-''uqad), i.e. knot-tying sorcery.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - women-blowing-on-knots
-passages:
-- tradition: judaism
-  ref: Ezek 13:18
-  note: 'Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying
-    sorcery (wa-min sharri n-naffāthāti fī l-ʿuqad ~ hôy li-mtapperôt kesātôt ʿal kol ʾaṣṣîlê yāday ...
-    leṣôdēd nefāšôt: women''s binding magic (knots / sewn bands) that traps souls. The Quran seeks refuge,
-    Ezekiel denounces; both feminine plurals.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֞ כֹּה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הוֹי֩ לִֽמְתַפְּר֨וֹת כְּסָת֜וֹת עַ֣ל כָּל אַצִּילֵ֣י
-    יָדַ֗י וְעֹשׂ֧וֹת הַמִּסְפָּח֛וֹת עַל רֹ֥אשׁ כָּל קוֹמָ֖ה לְצוֹדֵ֣ד נְפָשׁ֑וֹת הַנְּפָשׁוֹת֙ תְּצוֹדֵ֣דְנָה
-    לְעַמִּ֔י וּנְפָשׁ֖וֹת לָכֶ֥נָה תְחַיֶּֽינָה
-- tradition: judaism
-  ref: Ezek 13:20
-  note: 'Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-''uqad), i.e. knot-tying
-    sorcery (wa-min sharri n-naffāthāti fī l-ʿuqad ~ hôy li-mtapperôt kesātôt ʿal kol ʾaṣṣîlê yāday ...
-    leṣôdēd nefāšôt: women''s binding magic (knots / sewn bands) that traps souls. The Quran seeks refuge,
-    Ezekiel denounces; both feminine plurals.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֞ן כֹּה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י אֶל כִּסְּתוֹתֵיכֶ֨נָה֙ אֲשֶׁ֣ר אַ֠תֵּנָה מְצֹדְד֨וֹת
-    שָׁ֤ם אֶת הַנְּפָשׁוֹת֙ לְפֹ֣רְח֔וֹת וְקָרַעְתִּ֣י אֹתָ֔ם מֵעַ֖ל זְרוֹעֹֽתֵיכֶ֑ם וְשִׁלַּחְתִּי֙ אֶת
-    הַנְּפָשׁ֔וֹת אֲשֶׁ֥ר אַתֶּ֛ם מְצֹדְד֥וֹת אֶת נְפָשִׁ֖ים לְפֹרְחֹֽת
-- tradition: islam
-  ref: Quran 113:4
-  note: Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-'uqad), i.e. knot-tying
-    sorcery
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-min sharri n-naffāthāti fī l-ʿuqad ~ hôy li-mtapperôt kesātôt ʿal kol ʾaṣṣîlê yāday ... leṣôdēd
-    nefāšôt: women''s binding magic (knots / sewn bands) that traps souls. The Quran seeks refuge, Ezekiel
-    denounces; both feminine plurals.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Refuge from the evil of those (women) who blow on knots (al-naffathat
     fi al-''uqad), i.e. knot-tying sorcery (weight 6.7). Pair score 6.7.'
@@ -88,6 +55,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-'uqad), i.e. knot-tying
+  sorcery
+kinds:
+- echo
+units:
+- id: hb-ezek-13-false-prophets-and-prophetesses
+  title: Against the false prophets and the women who hunt souls
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: echo
+  label: Refuge from the evil of those (women) who blow on knots (al-naffathat fi al-'uqad), i.e. knot-tying
+    sorcery
+  note: 'wa-min sharri n-naffāthāti fī l-ʿuqad ~ hôy li-mtapperôt kesātôt ʿal kol ʾaṣṣîlê yāday ... leṣôdēd
+    nefāšôt: women''s binding magic (knots / sewn bands) that traps souls. The Quran seeks refuge, Ezekiel
+    denounces; both feminine plurals.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 13:18
+      lang: he
+      text: וְאָמַרְתָּ֞ כֹּה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הוֹי֩ לִֽמְתַפְּר֨וֹת כְּסָת֜וֹת עַ֣ל כָּל אַצִּילֵ֣י
+        יָדַ֗י וְעֹשׂ֧וֹת הַמִּסְפָּח֛וֹת עַל רֹ֥אשׁ כָּל קוֹמָ֖ה לְצוֹדֵ֣ד נְפָשׁ֑וֹת הַנְּפָשׁוֹת֙ תְּצוֹדֵ֣דְנָה
+        לְעַמִּ֔י וּנְפָשׁ֖וֹת לָכֶ֥נָה תְחַיֶּֽינָה
+    - ref: Ezek 13:20
+      lang: he
+      text: לָכֵ֞ן כֹּה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י אֶל כִּסְּתוֹתֵיכֶ֨נָה֙ אֲשֶׁ֣ר אַ֠תֵּנָה מְצֹדְד֨וֹת
+        שָׁ֤ם אֶת הַנְּפָשׁוֹת֙ לְפֹ֣רְח֔וֹת וְקָרַעְתִּ֣י אֹתָ֔ם מֵעַ֖ל זְרוֹעֹֽתֵיכֶ֑ם וְשִׁלַּחְתִּי֙
+        אֶת הַנְּפָשׁ֔וֹת אֲשֶׁ֥ר אַתֶּ֛ם מְצֹדְד֥וֹת אֶת נְפָשִׁ֖ים לְפֹרְחֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 113:4
+      lang: ar
+      text: وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ
 ---
 
 ## Questions

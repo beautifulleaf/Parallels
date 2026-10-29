@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-15-prologue-and-heavens
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The guarded reminder,
   the guarded heaven and the fertilizing winds (Surah 15:1-25)
-summary: 'These two units share 1 motifs: god made everything grow in due weight and sends it down only
-  in known measure.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - all-things-in-due-measure
-passages:
-- tradition: judaism
-  ref: Isa 40:12
-  note: 'God made everything grow in due weight and sends it down only in known measure (wa-anbatnā fīhā
-    min kulli shayʾin mawzūn ... illā bi-qadarin maʿlūm; mî-mādad bəšoʿŏlô mayim ... wəšāqal bappeles
-    hārîm ûgəbāʿôt bəmōʾznāyim: the creator weighs and measures creation (mawzūn and mōʾznayim from cognate
-    roots for weighing). Isa uses it to show the creator''s incomparability, Q to show his provision.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר הָאָ֑רֶץ
-    וְשָׁקַ֤ל בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם
-- tradition: islam
-  ref: Quran 15:19
-  note: God made everything grow in due weight and sends it down only in known measure (mawzūn; bi-qadarin
-    maʿlūm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ
-    مَّوْزُونٍ
-- tradition: islam
-  ref: Quran 15:21
-  note: God made everything grow in due weight and sends it down only in known measure (mawzūn; bi-qadarin
-    maʿlūm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wa-anbatnā fīhā min kulli shayʾin mawzūn ... illā bi-qadarin maʿlūm; mî-mādad bəšoʿŏlô mayim
-    ... wəšāqal bappeles hārîm ûgəbāʿôt bəmōʾznāyim: the creator weighs and measures creation (mawzūn
-    and mōʾznayim from cognate roots for weighing). Isa uses it to show the creator''s incomparability,
-    Q to show his provision.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made everything grow in due weight and sends it down only in
     known measure (weight 6.7). Pair score 6.7.'
@@ -86,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made everything grow in due weight and sends it down only in known measure
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-15-prologue-and-heavens
+  title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+  tradition: islam
+matches:
+- kind: echo
+  label: God made everything grow in due weight and sends it down only in known measure
+  note: 'wa-anbatnā fīhā min kulli shayʾin mawzūn ... illā bi-qadarin maʿlūm; mî-mādad bəšoʿŏlô mayim
+    ... wəšāqal bappeles hārîm ûgəbāʿôt bəmōʾznāyim: the creator weighs and measures creation (mawzūn
+    and mōʾznayim from cognate roots for weighing). Isa uses it to show the creator''s incomparability,
+    Q to show his provision.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:12
+      lang: he
+      text: מִֽי מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר
+        הָאָ֑רֶץ וְשָׁקַ֤ל בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 15:19
+      lang: ar
+      text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ
+        مَّوْزُونٍ
+    - ref: Quran 15:21
+      lang: ar
+      text: وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
 ---
 
 ## Questions

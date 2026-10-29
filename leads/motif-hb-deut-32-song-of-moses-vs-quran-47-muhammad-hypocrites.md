@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-47-muhammad-hypocrites
 title: The Song of Moses (Ha'azinu) ↔ The sick-hearted faint at the call to fight; locks on hearts; the
   twist of speech; God rich, you poor
-summary: 'These two units share 1 motifs: if god wills he takes you away and brings another people in
-  your place.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Deut 32:21
-  note: If God wills he takes you away and brings another people in your place (wa-ʾănî ʾaqnîʾēm bə-lōʾ
-    ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm (I will provoke them with a no-people) vs. yastabdil qawman ghayrakum. Deuteronomy
-    uses the other nation to provoke Israel's jealousy; the Quran's other people would replace them. cf.
-    Matt 21:43.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
-    נָבָ֖ל אַכְעִיסֵֽם
-- tradition: islam
-  ref: Quran 47:38
-  note: If God wills he takes you away and brings another people in your place
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ وَمَن
-    يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ وَإِن تَتَوَلَّوْا۟
-    يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm (I will provoke them with a no-people) vs.
-    yastabdil qawman ghayrakum. Deuteronomy uses the other nation to provoke Israel''s jealousy; the Quran''s
-    other people would replace them. cf. Matt 21:43.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
     place (weight 4.9). Pair score 4.9.'
@@ -74,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God wills he takes you away and brings another people in your place
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: echo
+  label: If God wills he takes you away and brings another people in your place
+  note: wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm (I will provoke them with a no-people) vs. yastabdil
+    qawman ghayrakum. Deuteronomy uses the other nation to provoke Israel's jealousy; the Quran's other
+    people would replace them. cf. Matt 21:43.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:21
+      lang: he
+      text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
+        נָבָ֖ל אַכְעִיסֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 47:38
+      lang: ar
+      text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ
+        وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ
+        وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
 ---
 
 ## Questions

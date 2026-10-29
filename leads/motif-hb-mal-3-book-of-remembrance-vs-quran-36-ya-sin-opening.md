@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-36-ya-sin-opening
 title: The book of remembrance and the sun of righteousness ↔ Ya-Sin; the collars and the barrier; deeds
   recorded
-summary: 'These two units share 1 motifs: god records what people sent ahead and their traces (athar),
-  and counts everything in a clear register (imam mubin).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - deeds-and-traces-recorded-in-register
-passages:
-- tradition: judaism
-  ref: Mal 3:16
-  note: 'God records what people sent ahead and their traces (athar), and counts everything in a clear
-    register (imam mubin) (wa-yyikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê YHWH vs. wa-naktubu mā qaddamū
-    wa-āthārahum wa-kulla shayʾin aḥṣaynāhu fī imāmin mubīn: a written record kept before God. Malachi''s
-    book records the God-fearers; the Quran''s register counts everything, including the traces (āthār)
-    people leave.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
-    סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 36:12
-  note: God records what people sent ahead and their traces (athar), and counts everything in a clear
-    register (imam mubin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَٰرَهُمْ وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ
-    فِىٓ إِمَامٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê YHWH vs. wa-naktubu mā qaddamū wa-āthārahum wa-kulla
-    shayʾin aḥṣaynāhu fī imāmin mubīn: a written record kept before God. Malachi''s book records the God-fearers;
-    the Quran''s register counts everything, including the traces (āthār) people leave.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God records what people sent ahead and their traces (athar), and
     counts everything in a clear register (imam mubin) (weight 6.3). Pair score 6.3.'
@@ -71,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God records what people sent ahead and their traces (athar), and counts everything in a clear
+  register (imam mubin)
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: God records what people sent ahead and their traces (athar), and counts everything in a clear
+    register (imam mubin)
+  note: 'wa-yyikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê YHWH vs. wa-naktubu mā qaddamū wa-āthārahum wa-kulla
+    shayʾin aḥṣaynāhu fī imāmin mubīn: a written record kept before God. Malachi''s book records the God-fearers;
+    the Quran''s register counts everything, including the traces (āthār) people leave.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:16
+      lang: he
+      text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
+        סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:12
+      lang: ar
+      text: إِنَّا نَحْنُ نُحْىِ ٱلْمَوْتَىٰ وَنَكْتُبُ مَا قَدَّمُوا۟ وَءَاثَٰرَهُمْ وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ
+        فِىٓ إِمَامٍ مُّبِينٍ
 ---
 
 ## Questions

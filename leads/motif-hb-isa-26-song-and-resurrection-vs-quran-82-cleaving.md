@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-82-cleaving
 title: 'Song of the strong city; your dead shall live ↔ The cleaving: the noble scribes'
-summary: 'These two units share 1 motifs: at the end the graves are overturned and their contents scattered
-  out (bu''thirat).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - graves-overturned
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: 'At the end the graves are overturned and their contents scattered out (bu''thirat) (wa-idhā l-qubūru
-    buʿthirat ~ wā-ʾāreṣ refāʾîm tappîl ... we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the earth gives up its dead.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: judaism
-  ref: Isa 26:21
-  note: 'At the end the graves are overturned and their contents scattered out (bu''thirat) (wa-idhā l-qubūru
-    buʿthirat ~ wā-ʾāreṣ refāʾîm tappîl ... we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the earth gives up its dead.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
-    הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
-- tradition: islam
-  ref: Quran 82:4
-  note: At the end the graves are overturned and their contents scattered out (bu'thirat)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-idhā l-qubūru buʿthirat ~ wā-ʾāreṣ refāʾîm tappîl ... we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the
-    earth gives up its dead.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the graves are overturned and their contents scattered
     out (bu''thirat) (weight 6.3). Pair score 6.3.'
@@ -74,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At the end the graves are overturned and their contents scattered out (bu'thirat)
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-82-cleaving
+  title: 'The cleaving: the noble scribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: At the end the graves are overturned and their contents scattered out (bu'thirat)
+  note: 'wa-idhā l-qubūru buʿthirat ~ wā-ʾāreṣ refāʾîm tappîl ... we-lōʾ tekasseh ʿôd ʿal hărûgêhā: the
+    earth gives up its dead.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+    - ref: Isa 26:21
+      lang: he
+      text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
+        הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 82:4
+      lang: ar
+      text: وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ
 ---
 
 ## Questions

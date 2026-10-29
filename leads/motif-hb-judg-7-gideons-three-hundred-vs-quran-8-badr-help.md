@@ -2,8 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-8-badr-help
 title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ Badr - angels,
   slumber, rain and God's throw
-summary: 'These two units share 1 motifs: god reduces the army so that israel cannot boast its own hand
-  saved it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - army-reduced-so-god-gets-glory
-passages:
-- tradition: judaism
-  ref: Judg 7:2-3
-  note: 'God reduces the army so that Israel cannot boast its own hand saved it (''lest Israel boast:
-    my own hand saved me'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (7:2) וַיֹּ֤אמֶר יְהוָה֙ אֶל גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת מִדְיָ֖ן בְּיָדָ֑ם
-    פֶּן יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי (7:3) וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאָזְנֵ֤י
-    הָעָם֙ לֵאמֹ֔ר מִֽי יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר מֵהַ֣ר הַגִּלְעָ֑ד וַיָּ֣שָׁב מִן הָעָ֗ם עֶשְׂרִ֤ים
-    וּשְׁנַ֨יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים נִשְׁאָֽרוּ
-- tradition: judaism
-  ref: Judg 7:7
-  note: 'God reduces the army so that Israel cannot boast its own hand saved it (''lest Israel boast:
-    my own hand saved me'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן בִּשְׁלֹשׁ֩ מֵא֨וֹת הָאִ֤ישׁ הַֽמֲלַקְקִים֙ אוֹשִׁ֣יעַ אֶתְכֶ֔ם
-    וְנָתַתִּ֥י אֶת מִדְיָ֖ן בְּיָדֶ֑ךָ וְכָל הָעָ֔ם יֵלְכ֖וּ אִ֥ישׁ לִמְקֹמֽוֹ
-- tradition: islam
-  ref: Quran 8:10
-  note: 'God reduces the army so that Israel cannot boast its own hand saved it (So that the fighters
-    cannot claim the victory: wa-mā jaʿalahu llāhu illā bushrā ... wa-mā n-naṣru illā min ʿindi llāh;
-    fa-lam taqtulūhum vs pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. Gideon''s army is cut down
-    for this purpose; in Q the purpose is served by declaring God the real killer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ وَمَا ٱلنَّصْرُ إِلَّا
-    مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 8:17
-  note: 'God reduces the army so that Israel cannot boast its own hand saved it (So that the fighters
-    cannot claim the victory: wa-mā jaʿalahu llāhu illā bushrā ... wa-mā n-naṣru illā min ʿindi llāh;
-    fa-lam taqtulūhum vs pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. Gideon''s army is cut down
-    for this purpose; in Q the purpose is served by declaring God the real killer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ
-    رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. So that the fighters cannot claim the victory: wa-mā jaʿalahu llāhu illā bushrā ... wa-mā n-naṣru
-    illā min ʿindi llāh; fa-lam taqtulūhum vs pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. Gideon''s
-    army is cut down for this purpose; in Q the purpose is served by declaring God the real killer.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reduces the army so that Israel cannot boast its own hand saved
     it (weight 6.7). Pair score 6.7.'
@@ -93,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God reduces the army so that Israel cannot boast its own hand saved it
+kinds:
+- echo
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: echo
+  label: God reduces the army so that Israel cannot boast its own hand saved it
+  note: 'So that the fighters cannot claim the victory: wa-mā jaʿalahu llāhu illā bushrā ... wa-mā n-naṣru
+    illā min ʿindi llāh; fa-lam taqtulūhum vs pen-yitpāʾēr ʿālay yiśrāʾēl lēʾmōr yādî hôšîʿāh llî. Gideon''s
+    army is cut down for this purpose; in Q the purpose is served by declaring God the real killer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:2
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת מִדְיָ֖ן בְּיָדָ֑ם
+        פֶּן יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 8:10
+      lang: ar
+      text: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ وَمَا ٱلنَّصْرُ إِلَّا
+        مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+    - ref: Quran 8:17
+      lang: ar
+      text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ
+        ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

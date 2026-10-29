@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-2-abrogation-polemic
 title: Creation in six days and the seventh-day rest ↔ Ra'ina, abrogation, rival claims and the face of
   God
-summary: 'These two units share 2 motifs: deity creates by spoken command (let there be...), god creates
-  by saying to a thing ''be'' and it is (kun fa-yakun).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 motifs:
 - creation-by-word
 - kun-fa-yakun
-passages:
-- tradition: judaism
-  ref: Gen 1:3
-  note: Deity creates by spoken command (Let there be...)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
-- tradition: judaism
-  ref: Gen 1:6
-  note: Deity creates by spoken command (Let there be...)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם
-- tradition: islam
-  ref: Quran 2:117
-  note: Deity creates by spoken command (Let there be...)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
-- tradition: judaism
-  ref: Gen 1:3
-  note: 'God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (innamā qawlunā li-shayʾin idhā
-    aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî ʾôr wayhî-ʾôr: creation by command, jussive
-    followed by fulfilment. Same verb (kwn / hyh) in each language''s pair. Q applies it here to raising
-    the dead.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
-- tradition: islam
-  ref: Quran 2:117
-  note: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 1:3 wa-yyōʾmer ʾĕlōhîm yĕhî ʾôr wa-yĕhî ʾôr; Q 2:117 yaqūlu lahu kun fa-yakūn. Same shape:
-    jussive/imperative of ''to be'', then ''and it was/is''. Genesis names what is made (light), the Quran
-    keeps only the formula.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity creates by spoken command (Let there be...) (weight 5.8);
     God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (weight 5.3). Pair score 11.1.'
@@ -89,6 +52,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity creates by spoken command (Let there be...)
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Deity creates by spoken command (Let there be...)
+  note: 'Gen 1:3 wa-yyōʾmer ʾĕlōhîm yĕhî ʾôr wa-yĕhî ʾôr; Q 2:117 yaqūlu lahu kun fa-yakūn. Same shape:
+    jussive/imperative of ''to be'', then ''and it was/is''. Genesis names what is made (light), the Quran
+    keeps only the formula.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:3
+      lang: he
+      text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:117
+      lang: ar
+      text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+- kind: shared
+  label: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:3
+      lang: he
+      text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+    note: 'innamā qawlunā li-shayʾin idhā aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî
+      ʾôr wayhî-ʾôr: creation by command, jussive followed by fulfilment. Same verb (kwn / hyh) in each
+      language''s pair. Q applies it here to raising the dead.'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:117
+      lang: ar
+      text: بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَإِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 ---
 
 ## Questions

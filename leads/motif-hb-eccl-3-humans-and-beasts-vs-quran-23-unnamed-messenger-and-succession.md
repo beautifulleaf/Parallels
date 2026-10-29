@@ -2,8 +2,7 @@
 id: motif-hb-eccl-3-humans-and-beasts-vs-quran-23-unnamed-messenger-and-succession
 title: Injustice, divine judgment, and humans no better than beasts ↔ A later generation's messenger,
   the Cry, and messengers in succession
-summary: 'These two units share 2 motifs: whether those who die and return to dust rise again [contrast
-  between the texts], human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,77 +15,9 @@ layers:
 motifs:
 - fate-of-humans-after-death-as-contrast
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Eccl 3:19
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ מִקְרֶ֨ה בְֽנֵי הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה וּמִקְרֶ֤ה אֶחָד֙ לָהֶ֔ם כְּמ֥וֹת זֶה֙ כֵּ֣ן
-    מ֣וֹת זֶ֔ה וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל וּמוֹתַ֨ר הָאָדָ֤ם מִן הַבְּהֵמָה֙ אָ֔יִן כִּ֥י הַכֹּ֖ל הָֽבֶל
-- tradition: judaism
-  ref: Eccl 3:20
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
-- tradition: islam
-  ref: Quran 23:35
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:37
-  note: 'Whether those who die and return to dust rise again [contrast between the texts] (What the Quran
-    puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā d-dunyā namūtu
-    wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman) ~ Eccl 3:20
-    hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām hā-ʿōlâ hîʾ
-    lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the chiefs who ''were
-    given luxury'' (atrafnāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
-- tradition: judaism
-  ref: Eccl 3:20
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
-- tradition: islam
-  ref: Quran 23:35
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:42
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. What the Quran puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā
-    ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban
-    wa-ʿiẓāman) ~ Eccl 3:20 hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ
-    bənê hā-ʾādām hā-ʿōlâ hîʾ lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief
-    of the chiefs who ''were given luxury'' (atrafnāhum).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [contrast between
     the texts] (weight 6.3); Human comes from dust and returns to dust (weight 5.0). Pair score 11.3.'
@@ -116,6 +47,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether those who die and return to dust rise again
+kinds:
+- contrast
+- shared
+units:
+- id: hb-eccl-3-humans-and-beasts
+  title: Injustice, divine judgment, and humans no better than beasts
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether those who die and return to dust rise again
+  note: 'What the Quran puts in the mouths of the deniers is voiced by Qohelet: Q 23:37 in hiya illā ḥayātunā
+    d-dunyā namūtu wa-naḥyā wa-mā naḥnu bi-mabʿūthīna (after 23:35 idhā mittum wa-kuntum turāban wa-ʿiẓāman)
+    ~ Eccl 3:20 hak-kōl hāyâ min he-ʿāfār wə-hak-kōl šāv ʾel he-ʿāfār, 3:21 mî yôdēaʿ rûaḥ bənê hā-ʾādām
+    hā-ʿōlâ hîʾ lə-māʿlâ. In Ecclesiastes the doubt is wisdom; in the Quran it is the unbelief of the
+    chiefs who ''were given luxury'' (atrafnāhum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 3:19
+      lang: he
+      text: כִּי֩ מִקְרֶ֨ה בְֽנֵי הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה וּמִקְרֶ֤ה אֶחָד֙ לָהֶ֔ם כְּמ֥וֹת זֶה֙
+        כֵּ֣ן מ֣וֹת זֶ֔ה וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל וּמוֹתַ֨ר הָאָדָ֤ם מִן הַבְּהֵמָה֙ אָ֔יִן כִּ֥י הַכֹּ֖ל
+        הָֽבֶל
+    - ref: Eccl 3:20
+      lang: he
+      text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
+    - ref: Eccl 3:21
+      lang: he
+      text: מִ֣י יוֹדֵ֗עַ ר֚וּחַ בְּנֵ֣י הָאָדָ֔ם הָעֹלָ֥ה הִ֖יא לְמָ֑עְלָה וְר֨וּחַ֙ הַבְּהֵמָ֔ה הַיֹּרֶ֥דֶת
+        הִ֖יא לְמַ֥טָּה לָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
+    - ref: Quran 23:37
+      lang: ar
+      text: إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ
+- kind: shared
+  label: Human comes from dust and returns to dust
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 3:20
+      lang: he
+      text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
+    - ref: Quran 23:42
+      lang: ar
+      text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-96-clot
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The clot: recite! and
   the forelock'
-summary: 'These two units share 1 motifs: narrative of a prophet''s commissioning by god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - prophetic-call-narrative
-passages:
-- tradition: judaism
-  ref: Isa 40:6
-  note: 'Narrative of a prophet''s commissioning by God (iqraʾ bi-smi rabbika lladhī khalaq ~ qôl ʾōmēr
-    qerāʾ we-ʾāmar māh ʾeqrāʾ: the same imperative of the same root (q-r-ʾ, ''call out / recite''), answered
-    in Isaiah by ''what shall I call?''. cf. the hadith answer mā anā bi-qāriʾ (not in this unit).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ הַשָּׂדֶֽה
-- tradition: islam
-  ref: Quran 96:1
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
-- tradition: islam
-  ref: Quran 96:3
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. iqraʾ bi-smi rabbika lladhī khalaq ~ qôl ʾōmēr qerāʾ we-ʾāmar māh ʾeqrāʾ: the same imperative
-    of the same root (q-r-ʾ, ''call out / recite''), answered in Isaiah by ''what shall I call?''. cf.
-    the hadith answer mā anā bi-qāriʾ (not in this unit).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 5.4). Pair
     score 5.4.'
@@ -72,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Narrative of a prophet's commissioning by God
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-96-clot
+  title: 'The clot: recite! and the forelock'
+  tradition: islam
+matches:
+- kind: echo
+  label: Narrative of a prophet's commissioning by God
+  note: 'iqraʾ bi-smi rabbika lladhī khalaq ~ qôl ʾōmēr qerāʾ we-ʾāmar māh ʾeqrāʾ: the same imperative
+    of the same root (q-r-ʾ, ''call out / recite''), answered in Isaiah by ''what shall I call?''. cf.
+    the hadith answer mā anā bi-qāriʾ (not in this unit).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:6
+      lang: he
+      text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ
+        הַשָּׂדֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 96:1
+      lang: ar
+      text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
+    - ref: Quran 96:3
+      lang: ar
+      text: ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ
 ---
 
 ## Questions

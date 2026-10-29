@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-2-adam-iblis
 title: The Flood (full read) ↔ Adam, the angels and Iblis
-summary: 'These two units share 1 motifs: angels object that the new human will corrupt the earth and
-  shed blood while they praise god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - angels-object-to-human-creation
-passages:
-- tradition: judaism
-  ref: Gen 6:11
-  note: 'Angels object that the new human will corrupt the earth and shed blood while they praise God
-    (The angels'' objection names what Genesis later reports: Q 2:30 a-tajʿalu fīhā man yufsidu fīhā wa-yasfiku
-    d-dimāʾa ''one who will work corruption there and shed blood''; Gen 6:11-12 wa-ttiššāḥēt hā-ʾāreṣ
-    ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās ... kî hišḥît kol bāśār ʾet darkô: the earth corrupted and filled
-    with violence. In the Quran this comes before Adam''s creation, as a forecast; in Genesis it is the
-    cause of the flood. cf. Gen. Rabbah 8:5 for angels objecting (not a match).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
-- tradition: judaism
-  ref: Gen 6:12
-  note: 'Angels object that the new human will corrupt the earth and shed blood while they praise God
-    (The angels'' objection names what Genesis later reports: Q 2:30 a-tajʿalu fīhā man yufsidu fīhā wa-yasfiku
-    d-dimāʾa ''one who will work corruption there and shed blood''; Gen 6:11-12 wa-ttiššāḥēt hā-ʾāreṣ
-    ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās ... kî hišḥît kol bāśār ʾet darkô: the earth corrupted and filled
-    with violence. In the Quran this comes before Adam''s creation, as a forecast; in Genesis it is the
-    cause of the flood. cf. Gen. Rabbah 8:5 for angels objecting (not a match).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧רְא אֱלֹהִ֛ים אֶת הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי הִשְׁחִ֧ית כָּל בָּשָׂ֛ר אֶת דַּרְכּ֖וֹ
-    עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:30
-  note: Angels object that the new human will corrupt the earth and shed blood while they praise God (will
-    you place there one who will corrupt and shed blood?)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
-    فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ
-    إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. The angels'' objection names what Genesis later reports: Q 2:30 a-tajʿalu fīhā man yufsidu fīhā
-    wa-yasfiku d-dimāʾa ''one who will work corruption there and shed blood''; Gen 6:11-12 wa-ttiššāḥēt
-    hā-ʾāreṣ ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās ... kî hišḥît kol bāśār ʾet darkô: the earth corrupted and
-    filled with violence. In the Quran this comes before Adam''s creation, as a forecast; in Genesis it
-    is the cause of the flood. cf. Gen. Rabbah 8:5 for angels objecting (not a match).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels object that the new human will corrupt the earth and shed
     blood while they praise God (weight 6.7). Pair score 6.7.'
@@ -87,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Angels object that the new human will corrupt the earth and shed blood while they praise God
+kinds:
+- echo
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-2-adam-iblis
+  title: Adam, the angels and Iblis
+  tradition: islam
+matches:
+- kind: echo
+  label: Angels object that the new human will corrupt the earth and shed blood while they praise God
+  note: 'The angels'' objection names what Genesis later reports: Q 2:30 a-tajʿalu fīhā man yufsidu fīhā
+    wa-yasfiku d-dimāʾa ''one who will work corruption there and shed blood''; Gen 6:11-12 wa-ttiššāḥēt
+    hā-ʾāreṣ ... wa-ttimmālēʾ hā-ʾāreṣ ḥāmās ... kî hišḥît kol bāśār ʾet darkô: the earth corrupted and
+    filled with violence. In the Quran this comes before Adam''s creation, as a forecast; in Genesis it
+    is the cause of the flood. cf. Gen. Rabbah 8:5 for angels objecting (not a match).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:11
+      lang: he
+      text: וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס
+    - ref: Gen 6:12
+      lang: he
+      text: וַיַּ֧רְא אֱלֹהִ֛ים אֶת הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי הִשְׁחִ֧ית כָּל בָּשָׂ֛ר אֶת
+        דַּרְכּ֖וֹ עַל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:30
+      lang: ar
+      text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
+        فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+        قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
 ---
 
 ## Questions

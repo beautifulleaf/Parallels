@@ -2,8 +2,7 @@
 id: motif-hb-isa-22-valley-of-vision-and-shebna-vs-quran-39-mercy-and-last-day
 title: Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David ↔ Do not
   despair of mercy; the earth in God's grip; the throngs to hell and Garden
-summary: 'These two units share 1 motifs: who holds the keys that open and shut [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - holder-of-the-keys-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 22:22
-  note: 'Who holds the keys that open and shut [divergence between the texts] (wə-nāṯattî map̄tēaḥ bêṯ-dāwiḏ
-    ʿal-šiḵmô û-p̄āṯaḥ wə-ʾên sōḡēr vs. lahu maqālīdu s-samāwāti wa-l-arḍ: the key as power to open and
-    close. In Isaiah God hands the key of David''s house to a human steward; in the Quran the keys of
-    heaven and earth belong to God alone.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֛י מַפְתֵּ֥חַ בֵּית דָּוִ֖ד עַל שִׁכְמ֑וֹ וּפָתַח֙ וְאֵ֣ין סֹגֵ֔ר וְסָגַ֖ר וְאֵ֥ין פֹּתֵֽחַ
-- tradition: islam
-  ref: Quran 39:63
-  note: 'Who holds the keys that open and shut [divergence between the texts] (wə-nāṯattî map̄tēaḥ bêṯ-dāwiḏ
-    ʿal-šiḵmô û-p̄āṯaḥ wə-ʾên sōḡēr vs. lahu maqālīdu s-samāwāti wa-l-arḍ: the key as power to open and
-    close. In Isaiah God hands the key of David''s house to a human steward; in the Quran the keys of
-    heaven and earth belong to God alone.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ
-    هُمُ ٱلْخَٰسِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wə-nāṯattî map̄tēaḥ bêṯ-dāwiḏ ʿal-šiḵmô û-p̄āṯaḥ wə-ʾên sōḡēr vs. lahu maqālīdu s-samāwāti
-    wa-l-arḍ: the key as power to open and close. In Isaiah God hands the key of David''s house to a human
-    steward; in the Quran the keys of heaven and earth belong to God alone.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who holds the keys that open and shut [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -81,6 +58,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who holds the keys that open and shut
+kinds:
+- divergence
+units:
+- id: hb-isa-22-valley-of-vision-and-shebna
+  title: Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who holds the keys that open and shut
+  note: 'wə-nāṯattî map̄tēaḥ bêṯ-dāwiḏ ʿal-šiḵmô û-p̄āṯaḥ wə-ʾên sōḡēr vs. lahu maqālīdu s-samāwāti wa-l-arḍ:
+    the key as power to open and close. In Isaiah God hands the key of David''s house to a human steward;
+    in the Quran the keys of heaven and earth belong to God alone.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 22:22
+      lang: he
+      text: וְנָתַתִּ֛י מַפְתֵּ֥חַ בֵּית דָּוִ֖ד עַל שִׁכְמ֑וֹ וּפָתַח֙ וְאֵ֣ין סֹגֵ֔ר וְסָגַ֖ר וְאֵ֥ין
+        פֹּתֵֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:63
+      lang: ar
+      text: لَّهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ أُو۟لَٰٓئِكَ
+        هُمُ ٱلْخَٰسِرُونَ
 ---
 
 ## Questions

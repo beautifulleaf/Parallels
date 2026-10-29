@@ -2,9 +2,7 @@
 id: motif-hb-deut-7-chosen-people-vs-quran-2-wine-marriage
 title: Dispossession of the seven nations; Israel the treasured people ↔ Wine, gambling, orphans, mixed
   marriage and menstruation
-summary: 'These two units share 2 motifs: ban on marrying outside the community and its criterion [divergence
-  between the texts], prohibition of intermarriage with the peoples of the land lest they turn sons to
-  other gods.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,78 +15,9 @@ layers:
 motifs:
 - marriage-ban-with-outsiders-as-divergence
 - no-intermarriage-with-nations
-passages:
-- tradition: judaism
-  ref: Deut 7:3
-  note: 'Ban on marrying outside the community and its criterion [divergence between the texts] (Deut
-    7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm: no marriage
-    with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū l-mushrikāti
-    ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men ''until they
-    believe'', for they call to the Fire. Same reason (being drawn to other gods), but the bar is belief,
-    removable by conversion, not nationhood; and the Quran adds a believing slave is better than a free
-    polytheist.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא תִקַּ֥ח לִבְנֶֽךָ
-- tradition: judaism
-  ref: Deut 7:4
-  note: 'Ban on marrying outside the community and its criterion [divergence between the texts] (Deut
-    7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm: no marriage
-    with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū l-mushrikāti
-    ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men ''until they
-    believe'', for they call to the Fire. Same reason (being drawn to other gods), but the bar is belief,
-    removable by conversion, not nationhood; and the Quran adds a believing slave is better than a free
-    polytheist.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יָסִ֤יר אֶת בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף יְהוָה֙ בָּכֶ֔ם
-    וְהִשְׁמִידְךָ֖ מַהֵֽר
-- tradition: islam
-  ref: Quran 2:221
-  note: 'Ban on marrying outside the community and its criterion [divergence between the texts] (Deut
-    7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm: no marriage
-    with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū l-mushrikāti
-    ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men ''until they
-    believe'', for they call to the Fire. Same reason (being drawn to other gods), but the bar is belief,
-    removable by conversion, not nationhood; and the Quran adds a believing slave is better than a free
-    polytheist.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
-    وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ
-    مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟ إِلَى
-    ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-- tradition: judaism
-  ref: Deut 7:3
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא תִקַּ֥ח לִבְנֶֽךָ
-- tradition: judaism
-  ref: Deut 7:4
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יָסִ֤יר אֶת בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף יְהוָה֙ בָּכֶ֔ם
-    וְהִשְׁמִידְךָ֖ מַהֵֽר
-- tradition: islam
-  ref: Quran 2:221
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods (with
-    polytheists, until they believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
-    وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ
-    مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟ إِلَى
-    ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm:
-    no marriage with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū
-    l-mushrikāti ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men
-    ''until they believe'', for they call to the Fire. Same reason (being drawn to other gods), but the
-    bar is belief, removable by conversion, not nationhood; and the Quran adds a believing slave is better
-    than a free polytheist.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ban on marrying outside the community and its criterion [divergence
     between the texts] (weight 6.3); Prohibition of intermarriage with the peoples of the land lest they
@@ -123,6 +52,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ban on marrying outside the community and its criterion
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-7-chosen-people
+  title: Dispossession of the seven nations; Israel the treasured people
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: divergence
+  label: Ban on marrying outside the community and its criterion
+  note: 'Deut 7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm:
+    no marriage with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū
+    l-mushrikāti ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men
+    ''until they believe'', for they call to the Fire. Same reason (being drawn to other gods), but the
+    bar is belief, removable by conversion, not nationhood; and the Quran adds a believing slave is better
+    than a free polytheist.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 7:3
+      lang: he
+      text: וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא תִקַּ֥ח לִבְנֶֽךָ
+    - ref: Deut 7:4
+      lang: he
+      text: כִּֽי יָסִ֤יר אֶת בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף יְהוָה֙
+        בָּכֶ֔ם וְהִשְׁמִידְךָ֖ מַהֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:221
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
+        وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ
+        خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟
+        إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+- kind: shared
+  label: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 7:3
+      lang: he
+      text: וְלֹ֥א תִתְחַתֵּ֖ן בָּ֑ם בִּתְּךָ֙ לֹא תִתֵּ֣ן לִבְנ֔וֹ וּבִתּ֖וֹ לֹא תִקַּ֥ח לִבְנֶֽךָ
+    - ref: Deut 7:4
+      lang: he
+      text: כִּֽי יָסִ֤יר אֶת בִּנְךָ֙ מֵֽאַחֲרַ֔י וְעָבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים וְחָרָ֤ה אַף יְהוָה֙
+        בָּכֶ֔ם וְהִשְׁמִידְךָ֖ מַהֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:221
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
+        وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ
+        خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟
+        إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+    note: with polytheists, until they believe
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses before Pharaoh: the laughing courtiers, the rivers beneath
   Pharaoh and the drowning'
-summary: 'These two units share 2 motifs: the king breaks his promise to release the people once a plague
-  is lifted [divergence between the texts], prophet''s wonders are imitated by the king''s magicians in
-  a contest.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,90 +15,9 @@ layers:
 motifs:
 - pharaoh-deceives-again-as-divergence
 - contest-with-court-magicians
-passages:
-- tradition: judaism
-  ref: Exod 8:4
-  note: 'The king breaks his promise to release the people once a plague is lifted [divergence between
-    the texts] (Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû
-    ʾel YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ
-    wə-haḵbēd ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
-    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
-    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
-    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
-    (nakth), with no heart-hardening (kibbēḏ lēḇ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֨אמֶר֙ הַעְתִּ֣ירוּ אֶל יְהוָ֔ה וְיָסֵר֙ הַֽצְפַרְדְּעִ֔ים
-    מִמֶּ֖נִּי וּמֵֽעַמִּ֑י וַאֲשַׁלְּחָה֙ אֶת הָעָ֔ם וְיִזְבְּח֖וּ לַיהוָֽה
-- tradition: judaism
-  ref: Exod 8:11
-  note: 'The king breaks his promise to release the people once a plague is lifted [divergence between
-    the texts] (Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû
-    ʾel YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ
-    wə-haḵbēd ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
-    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
-    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
-    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
-    (nakth), with no heart-hardening (kibbēḏ lēḇ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
-    כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 43:49
-  note: 'The king breaks his promise to release the people once a plague is lifted [divergence between
-    the texts] (Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû
-    ʾel YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ
-    wə-haḵbēd ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
-    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
-    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
-    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
-    (nakth), with no heart-hardening (kibbēḏ lēḇ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
-- tradition: islam
-  ref: Quran 43:50
-  note: 'The king breaks his promise to release the people once a plague is lifted [divergence between
-    the texts] (Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû
-    ʾel YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ
-    wə-haḵbēd ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
-    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
-    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
-    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
-    (nakth), with no heart-hardening (kibbēḏ lēḇ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
-- tradition: judaism
-  ref: Exod 7:22
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:3
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 43:49
-  note: Prophet's wonders are imitated by the king's magicians in a contest (they address Moses himself
-    as 'O magician')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû
-    ʾel YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ
-    wə-haḵbēd ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
-    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
-    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
-    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
-    (nakth), with no heart-hardening (kibbēḏ lēḇ).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
     is lifted [divergence between the texts] (weight 6.7); Prophet''s wonders are imitated by the king''s
@@ -137,6 +54,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king breaks his promise to release the people once a plague is lifted
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-7-plagues-blood-frogs-lice
+  title: 'Plagues 1-3: blood, frogs, lice'
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The king breaks his promise to release the people once a plague is lifted
+  note: 'Pharaoh asks Moses to pray and breaks his word once relieved: wa-yiqrāʾ p̄arʿōh ... haʿtîrû ʾel
+    YHWH wə-yāsēr haṣ-ṣəp̄arḏəʿîm ... wa-ʾăšalləḥâ ʾeṯ hā-ʿām; wa-yarʾ parʿōh kî hāyəṯâ hā-rəwāḥâ wə-haḵbēd
+    ʾeṯ libbô vs. wa-qālū yā ayyuha s-sāḥiru dʿu lanā rabbaka bi-mā ʿahida ʿindaka innanā la-muhtadūn;
+    fa-lammā kashafnā ʿanhumu l-ʿadhāba idhā hum yankuthūn. Changes: the speakers are Pharaoh''s people,
+    not Pharaoh alone; they address Moses as ''magician'' (sāḥir); ''your Lord'' (rabbaka) replaces ''YHWH'';
+    the promise is to be guided (muhtadūn), not to release the people; and the relapse is breaking a pledge
+    (nakth), with no heart-hardening (kibbēḏ lēḇ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:4
+      lang: he
+      text: וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֨אמֶר֙ הַעְתִּ֣ירוּ אֶל יְהוָ֔ה וְיָסֵר֙
+        הַֽצְפַרְדְּעִ֔ים מִמֶּ֖נִּי וּמֵֽעַמִּ֑י וַאֲשַׁלְּחָה֙ אֶת הָעָ֔ם וְיִזְבְּח֖וּ לַיהוָֽה
+    - ref: Exod 8:11
+      lang: he
+      text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
+        כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 43:49
+      lang: ar
+      text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
+    - ref: Quran 43:50
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:22
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
+        אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:3
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 8:14
+      lang: he
+      text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+        הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 43:49
+      lang: ar
+      text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
+    note: they address Moses himself as 'O magician'
 ---
 
 ## Questions

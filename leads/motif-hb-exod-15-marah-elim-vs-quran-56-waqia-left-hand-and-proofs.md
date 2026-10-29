@@ -3,8 +3,7 @@ id: motif-hb-exod-15-marah-elim-vs-quran-56-waqia-left-hand-and-proofs
 title: Bitter water sweetened at Marah; Elim's twelve springs and seventy palms ↔ The Companions of the
   Left in smoke and samum; who creates semen, crops, rain and fire?; the hidden Book; the soul at the
   throat
-summary: 'These two units share 2 motifs: god''s power to make water sweet or bitter [contrast between
-  the texts], bitter water made drinkable by throwing in a piece of wood god shows the leader.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,79 +16,9 @@ layers:
 motifs:
 - water-made-sweet-or-bitter-as-contrast
 - bitter-water-sweetened-by-wood
-passages:
-- tradition: judaism
-  ref: Exod 15:23
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֨יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל כֵּ֥ן
-    קָרָֽא שְׁמָ֖הּ מָרָֽה
-- tradition: judaism
-  ref: Exod 15:25
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעַ֣ק אֶל יְהוָ֗ה וַיּוֹרֵ֤הוּ יְהוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל הַמַּ֔יִם וַֽיִּמְתְּק֖וּ
-    הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ
-- tradition: islam
-  ref: Quran 56:68
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
-- tradition: islam
-  ref: Quran 56:69
-  note: 'God''s power to make water sweet or bitter [contrast between the texts] (God''s power over the
-    taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim mim-mārâ kî mārîm hēm ...
-    wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet). Quran: a-fa-raʾaytumu l-māʾa
-    lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn (we could make your sweet water
-    bitter). The miracle of sweetening becomes a threat of embittering, used as a call to gratitude.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ
-- tradition: judaism
-  ref: Exod 15:23
-  note: Bitter water made drinkable by throwing in a piece of wood God shows the leader (YHWH 'showed
-    (yorehu) him a tree')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֨יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל כֵּ֥ן
-    קָרָֽא שְׁמָ֖הּ מָרָֽה
-- tradition: judaism
-  ref: Exod 15:25
-  note: Bitter water made drinkable by throwing in a piece of wood God shows the leader (YHWH 'showed
-    (yorehu) him a tree')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעַ֣ק אֶל יְהוָ֗ה וַיּוֹרֵ֤הוּ יְהוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל הַמַּ֔יִם וַֽיִּמְתְּק֖וּ
-    הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ
-- tradition: islam
-  ref: Quran 56:70
-  note: 'Bitter water made drinkable by throwing in a piece of wood God shows the leader (inverse: sweet
-    water could be made bitter)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. God''s power over the taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ
-    mayim mim-mārâ kî mārîm hēm ... wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet).
-    Quran: a-fa-raʾaytumu l-māʾa lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn
-    (we could make your sweet water bitter). The miracle of sweetening becomes a threat of embittering,
-    used as a call to gratitude.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s power to make water sweet or bitter [contrast between the
     texts] (weight 6.3); Bitter water made drinkable by throwing in a piece of wood God shows the leader
@@ -123,6 +52,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's power to make water sweet or bitter
+kinds:
+- contrast
+- shared
+units:
+- id: hb-exod-15-marah-elim
+  title: Bitter water sweetened at Marah; Elim's twelve springs and seventy palms
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: contrast
+  label: God's power to make water sweet or bitter
+  note: 'God''s power over the taste of water, in the opposite direction. Exodus: lōʾ yāḵəlû lištōṯ mayim
+    mim-mārâ kî mārîm hēm ... wa-yyôrēhû YHWH ʿēṣ ... wa-yyimtəqû ham-māyim (bitter water made sweet).
+    Quran: a-fa-raʾaytumu l-māʾa lladhī tashrabūn ... law nashāʾu jaʿalnāhu ujājan fa-lawlā tashkurūn
+    (we could make your sweet water bitter). The miracle of sweetening becomes a threat of embittering,
+    used as a call to gratitude.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:23
+      lang: he
+      text: וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֨יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל
+        כֵּ֥ן קָרָֽא שְׁמָ֖הּ מָרָֽה
+    - ref: Exod 15:25
+      lang: he
+      text: וַיִּצְעַ֣ק אֶל יְהוָ֗ה וַיּוֹרֵ֤הוּ יְהוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל הַמַּ֔יִם וַֽיִּמְתְּק֖וּ
+        הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:68
+      lang: ar
+      text: أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ
+    - ref: Quran 56:69
+      lang: ar
+      text: ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ
+    - ref: Quran 56:70
+      lang: ar
+      text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+- kind: shared
+  label: Bitter water made drinkable by throwing in a piece of wood God shows the leader
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:23
+      lang: he
+      text: וַיָּבֹ֣אוּ מָרָ֔תָה וְלֹ֣א יָֽכְל֗וּ לִשְׁתֹּ֥ת מַ֨יִם֙ מִמָּרָ֔ה כִּ֥י מָרִ֖ים הֵ֑ם עַל
+        כֵּ֥ן קָרָֽא שְׁמָ֖הּ מָרָֽה
+    - ref: Exod 15:25
+      lang: he
+      text: וַיִּצְעַ֣ק אֶל יְהוָ֗ה וַיּוֹרֵ֤הוּ יְהוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל הַמַּ֔יִם וַֽיִּמְתְּק֖וּ
+        הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ
+    note: YHWH 'showed (yorehu) him a tree'
+  - tradition: islam
+    passages:
+    - ref: Quran 56:70
+      lang: ar
+      text: لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ
+    note: 'inverse: sweet water could be made bitter'
 ---
 
 ## Questions

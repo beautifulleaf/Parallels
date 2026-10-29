@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-112-114-unity-and-refuge
 title: 'Psalm 2 - the nations rage; the king as God''s son ↔ Sincerity, daybreak and mankind: God''s unity
   and the two refuges'
-summary: 'These two units share 1 motifs: god does not beget and was not begotten [contrast between the
-  texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - god-neither-begets-nor-begotten-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'God does not beget and was not begotten [contrast between the texts] (lam yalid wa-lam yūlad
-    ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed of God toward the king
-    in the Psalm, denied of God absolutely in the Quran. The Quran''s target is usually read as Christian
-    sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not an explicit answer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: islam
-  ref: Quran 112:3
-  note: 'God does not beget and was not begotten [contrast between the texts] (lam yalid wa-lam yūlad
-    ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed of God toward the king
-    in the Psalm, denied of God absolutely in the Quran. The Quran''s target is usually read as Christian
-    sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not an explicit answer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَمْ يَلِدْ وَلَمْ يُولَدْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. lam yalid wa-lam yūlad ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d)
-    affirmed of God toward the king in the Psalm, denied of God absolutely in the Quran. The Quran''s
-    target is usually read as Christian sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not
-    an explicit answer.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not beget and was not begotten [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -75,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not beget and was not begotten
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: contrast
+  label: God does not beget and was not begotten
+  note: 'lam yalid wa-lam yūlad ~ beni ʾattāh ʾănî ha-yyôm yelidtîkā: the same root (w-l-d / y-l-d) affirmed
+    of God toward the king in the Psalm, denied of God absolutely in the Quran. The Quran''s target is
+    usually read as Christian sonship (Nicene ''begotten''); the link to Ps 2:7 is a lead, not an explicit
+    answer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 112:3
+      lang: ar
+      text: لَمْ يَلِدْ وَلَمْ يُولَدْ
 ---
 
 ## Questions

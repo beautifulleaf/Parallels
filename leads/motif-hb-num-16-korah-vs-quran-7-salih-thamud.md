@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-16-korah-vs-quran-7-salih-thamud
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ Salih, Thamud and the she-camel
-summary: 'These two units share 1 motifs: a people is destroyed by an earthquake/tremor (al-rajfa).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,38 +13,9 @@ layers:
 - motif
 motifs:
 - destroyed-by-earthquake
-passages:
-- tradition: judaism
-  ref: Num 16:31
-  note: 'A people is destroyed by an earthquake/tremor (al-rajfa) (The ground punishes those who defy
-    God''s messenger. Num: wat-tibbāqaʿ hā-ʾădāmāh ... wat-tiftaḥ hā-ʾāreṣ ʾet-pîhā wat-tivlaʿ ʾōtām wə-ʾet-bāttêhem.
-    Q: fa-akhadhathumu l-rajfatu fa-aṣbaḥū fī dārihim jāthimīna. In Num the earth opens and swallows;
-    in Q a tremor leaves them dead in their houses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ כְּכַלֹּת֔וֹ לְדַבֵּ֕ר אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַתִּבָּקַ֥ע הָאֲדָמָ֖ה אֲשֶׁ֥ר
-    תַּחְתֵּיהֶֽם
-- tradition: judaism
-  ref: Num 16:32
-  note: 'A people is destroyed by an earthquake/tremor (al-rajfa) (The ground punishes those who defy
-    God''s messenger. Num: wat-tibbāqaʿ hā-ʾădāmāh ... wat-tiftaḥ hā-ʾāreṣ ʾet-pîhā wat-tivlaʿ ʾōtām wə-ʾet-bāttêhem.
-    Q: fa-akhadhathumu l-rajfatu fa-aṣbaḥū fī dārihim jāthimīna. In Num the earth opens and swallows;
-    in Q a tremor leaves them dead in their houses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפְתַּ֤ח הָאָ֨רֶץ֙ אֶת פִּ֔יהָ וַתִּבְלַ֥ע אֹתָ֖ם וְאֶת בָּתֵּיהֶ֑ם וְאֵ֤ת כָּל הָאָדָם֙ אֲשֶׁ֣ר
-    לְקֹ֔רַח וְאֵ֖ת כָּל הָרֲכֽוּשׁ
-- tradition: islam
-  ref: Quran 7:78
-  note: A people is destroyed by an earthquake/tremor (al-rajfa)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The ground punishes those who defy God''s messenger. Num: wat-tibbāqaʿ hā-ʾădāmāh ... wat-tiftaḥ
-    hā-ʾāreṣ ʾet-pîhā wat-tivlaʿ ʾōtām wə-ʾet-bāttêhem. Q: fa-akhadhathumu l-rajfatu fa-aṣbaḥū fī dārihim
-    jāthimīna. In Num the earth opens and swallows; in Q a tremor leaves them dead in their houses.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people is destroyed by an earthquake/tremor (al-rajfa) (weight
     6.3). Pair score 6.3.'
@@ -79,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A people is destroyed by an earthquake/tremor (al-rajfa)
+kinds:
+- echo
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-7-salih-thamud
+  title: Salih, Thamud and the she-camel
+  tradition: islam
+matches:
+- kind: echo
+  label: A people is destroyed by an earthquake/tremor (al-rajfa)
+  note: 'The ground punishes those who defy God''s messenger. Num: wat-tibbāqaʿ hā-ʾădāmāh ... wat-tiftaḥ
+    hā-ʾāreṣ ʾet-pîhā wat-tivlaʿ ʾōtām wə-ʾet-bāttêhem. Q: fa-akhadhathumu l-rajfatu fa-aṣbaḥū fī dārihim
+    jāthimīna. In Num the earth opens and swallows; in Q a tremor leaves them dead in their houses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:31
+      lang: he
+      text: וַיְהִי֙ כְּכַלֹּת֔וֹ לְדַבֵּ֕ר אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַתִּבָּקַ֥ע הָאֲדָמָ֖ה אֲשֶׁ֥ר
+        תַּחְתֵּיהֶֽם
+    - ref: Num 16:32
+      lang: he
+      text: וַתִּפְתַּ֤ח הָאָ֨רֶץ֙ אֶת פִּ֔יהָ וַתִּבְלַ֥ע אֹתָ֖ם וְאֶת בָּתֵּיהֶ֑ם וְאֵ֤ת כָּל הָאָדָם֙
+        אֲשֶׁ֣ר לְקֹ֔רַח וְאֵ֖ת כָּל הָרֲכֽוּשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:78
+      lang: ar
+      text: فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
 ---
 
 ## Questions

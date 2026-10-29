@@ -1,8 +1,7 @@
 ---
 id: motif-hb-obad-1-edom-brought-down-vs-quran-7-salih-thamud
 title: Obadiah's vision against Edom's pride ↔ Salih, Thamud and the she-camel
-summary: 'These two units share 1 motifs: a people carve houses out of the mountains and build palaces
-  on the plains.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +13,9 @@ layers:
 - motif
 motifs:
 - houses-carved-in-mountains
-passages:
-- tradition: judaism
-  ref: Obad 1:3
-  note: 'A people carve houses out of the mountains and build palaces on the plains (A rock-dwelling people
-    proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôridēnî ʾāreṣ.
-    Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna. Thamud, like Edom, is brought
-    down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
-    מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
-- tradition: judaism
-  ref: Obad 1:4
-  note: 'A people carve houses out of the mountains and build palaces on the plains (A rock-dwelling people
-    proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôridēnî ʾāreṣ.
-    Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna. Thamud, like Edom, is brought
-    down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
-    נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 7:74
-  note: A people carve houses out of the mountains and build palaces on the plains
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِى ٱلْأَرْضِ تَتَّخِذُونَ
-    مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًا فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ وَلَا تَعْثَوْا۟
-    فِى ٱلْأَرْضِ مُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. A rock-dwelling people proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô
-    ʾōmēr bə-libbô mî yôridēnî ʾāreṣ. Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna.
-    Thamud, like Edom, is brought down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people carve houses out of the mountains and build palaces on
     the plains (weight 6.3). Pair score 6.3.'
@@ -75,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A people carve houses out of the mountains and build palaces on the plains
+kinds:
+- echo
+units:
+- id: hb-obad-1-edom-brought-down
+  title: Obadiah's vision against Edom's pride
+  tradition: judaism
+- id: quran-7-salih-thamud
+  title: Salih, Thamud and the she-camel
+  tradition: islam
+matches:
+- kind: echo
+  label: A people carve houses out of the mountains and build palaces on the plains
+  note: 'A rock-dwelling people proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr
+    bə-libbô mî yôridēnî ʾāreṣ. Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna.
+    Thamud, like Edom, is brought down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:3
+      lang: he
+      text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
+        מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:74
+      lang: ar
+      text: وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ عَادٍ وَبَوَّأَكُمْ فِى ٱلْأَرْضِ تَتَّخِذُونَ
+        مِن سُهُولِهَا قُصُورًا وَتَنْحِتُونَ ٱلْجِبَالَ بُيُوتًا فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ وَلَا
+        تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

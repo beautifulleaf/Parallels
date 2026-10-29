@@ -2,10 +2,7 @@
 id: motif-hb-num-5-sotah-ordeal-vs-quran-24-penalties-and-lian
 title: The suspected adulteress and the bitter water ↔ Lashes for fornication, four witnesses and the
   mutual cursing oath
-summary: 'These two units share 5 motifs: how the case of a wife suspected of adultery is decided [divergence
-  between the texts], wife suspected of adultery drinks ''water of bitterness'' as an ordeal, adultery
-  done in secret with no witness and not caught in the act, whether the husband who accuses his wife bears
-  any liability [contrast between the texts]….'
+summary: '4 correspondences read side by side: 2 deliberately changed, 1 opposite ruling, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,185 +15,21 @@ traditions:
 layers:
 - motif
 motifs:
-- verdict-on-suspected-wife-as-divergence
-- bitter-water-ordeal-for-adultery
 - secret-adultery-without-witness
 - accusing-husbands-liability-as-contrast
+- verdict-on-suspected-wife-as-divergence
 - oath-procedure-for-suspected-wife-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 5:21
-  note: 'How the case of a wife suspected of adultery is decided [divergence between the texts] (Outcome:
-    Num 5 lets the bitter water decide, with a physical sign on the guilty body (bə-tēt YHWH ʾet yərēkhēk
-    nōfelet wə-ʾet biṭnēk ṣāvâ); in Q 24:8 the wife''s oath alone averts the punishment (wa-yadraʾu ʿanhā
-    l-ʿadhāba an tashhada), with no ordeal, water, dust or written curse, and the verdict is left to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
-    יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙ נֹפֶ֔לֶת
-    וְאֶת בִּטְנֵ֖ךְ צָבָֽה
-- tradition: judaism
-  ref: Num 5:22
-  note: 'How the case of a wife suspected of adultery is decided [divergence between the texts] (Outcome:
-    Num 5 lets the bitter water decide, with a physical sign on the guilty body (bə-tēt YHWH ʾet yərēkhēk
-    nōfelet wə-ʾet biṭnēk ṣāvâ); in Q 24:8 the wife''s oath alone averts the punishment (wa-yadraʾu ʿanhā
-    l-ʿadhāba an tashhada), with no ordeal, water, dust or written curse, and the verdict is left to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֨לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ
-    וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן אָמֵֽן
-- tradition: islam
-  ref: Quran 24:8
-  note: 'How the case of a wife suspected of adultery is decided [divergence between the texts] (Outcome:
-    Num 5 lets the bitter water decide, with a physical sign on the guilty body (bə-tēt YHWH ʾet yərēkhēk
-    nōfelet wə-ʾet biṭnēk ṣāvâ); in Q 24:8 the wife''s oath alone averts the punishment (wa-yadraʾu ʿanhā
-    l-ʿadhāba an tashhada), with no ordeal, water, dust or written curse, and the verdict is left to God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلْكَٰذِبِينَ
-- tradition: judaism
-  ref: Num 5:18
-  note: Wife suspected of adultery drinks 'water of bitterness' as an ordeal (מֵי הַמָּרִים הַמְאָרֲרִים)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת הָאִשָּׁה֮ לִפְנֵ֣י יְהוָה֒ וּפָרַע֙ אֶת רֹ֣אשׁ הָֽאִשָּׁ֔ה וְנָתַ֣ן
-    עַל כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ מֵ֥י
-    הַמָּרִ֖ים הַמְאָֽרֲרִֽים
-- tradition: judaism
-  ref: Num 5:19
-  note: Wife suspected of adultery drinks 'water of bitterness' as an ordeal (מֵי הַמָּרִים הַמְאָרֲרִים)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם
-    לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
-- tradition: islam
-  ref: Quran 24:6
-  note: Wife suspected of adultery drinks 'water of bitterness' as an ordeal (the suspected wife clears
-    herself by oath and curse, not by ordeal)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
-    أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 24:8
-  note: Wife suspected of adultery drinks 'water of bitterness' as an ordeal (the suspected wife clears
-    herself by oath and curse, not by ordeal)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلْكَٰذِبِينَ
-- tradition: judaism
-  ref: Num 5:12
-  note: Adultery done in secret with no witness and not caught in the act
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּר֙ אֶל בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי תִשְׂטֶ֣ה אִשְׁתּ֔וֹ
-    וּמָעֲלָ֥ה ב֖וֹ מָֽעַל
-- tradition: judaism
-  ref: Num 5:13
-  note: Adultery done in secret with no witness and not caught in the act
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת זֶרַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא
-    נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה
-- tradition: islam
-  ref: Quran 24:6
-  note: 'Adultery done in secret with no witness and not caught in the act (wa-lladhīna yarmūna azwājahum
-    wa-lam yakun lahum shuhadāʾu illā anfusuhum ~ wə-neʿlam mēʿênê ʾîšāh ... wə-ʿēd ʾên bāh wə-hîʾ lōʾ
-    nitpāśâ: the same legal gap, a husband who suspects his wife with no witness, and in both the gap
-    is closed by an oath with a curse instead of testimony.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
-    أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
-- tradition: judaism
-  ref: Num 5:31
-  note: 'Whether the husband who accuses his wife bears any liability [contrast between the texts] (wə-niqqâ
-    hā-ʾîš mē-ʿāwōn wə-hā-ʾiššâ ha-hîʾ tiśśāʾ ʾet ʿăwōnāh: the accusing husband is free of guilt whatever
-    happens; Q 24:7 wa-l-khāmisatu anna laʿnata llāhi ʿalayhi in kāna mina l-kādhibīna: he invokes God''s
-    curse on himself if he is lying.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִקָּ֥ה הָאִ֖ישׁ מֵעָוֺ֑ן וְהָאִשָּׁ֣ה הַהִ֔וא תִּשָּׂ֖א אֶת עֲוֺנָֽהּ
-- tradition: islam
-  ref: Quran 24:7
-  note: 'Whether the husband who accuses his wife bears any liability [contrast between the texts] (wə-niqqâ
-    hā-ʾîš mē-ʿāwōn wə-hā-ʾiššâ ha-hîʾ tiśśāʾ ʾet ʿăwōnāh: the accusing husband is free of guilt whatever
-    happens; Q 24:7 wa-l-khāmisatu anna laʿnata llāhi ʿalayhi in kāna mina l-kādhibīna: he invokes God''s
-    curse on himself if he is lying.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
-- tradition: judaism
-  ref: Num 5:19
-  note: 'Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence
-    between the texts] (Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh
-    hak-kōhēn bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times
-    by God (arbaʿu shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if
-    he lies, then the wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on
-    herself. The curse falls on both parties, no priest is involved and there is no sanctuary rite.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם
-    לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
-- tradition: judaism
-  ref: Num 5:21
-  note: 'Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence
-    between the texts] (Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh
-    hak-kōhēn bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times
-    by God (arbaʿu shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if
-    he lies, then the wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on
-    herself. The curse falls on both parties, no priest is involved and there is no sanctuary rite.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
-    יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙ נֹפֶ֔לֶת
-    וְאֶת בִּטְנֵ֖ךְ צָבָֽה
-- tradition: islam
-  ref: Quran 24:6
-  note: 'Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence
-    between the texts] (Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh
-    hak-kōhēn bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times
-    by God (arbaʿu shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if
-    he lies, then the wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on
-    herself. The curse falls on both parties, no priest is involved and there is no sanctuary rite.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
-    أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 24:7
-  note: 'Who swears, and how, when a husband suspects his wife of adultery without witnesses [divergence
-    between the texts] (Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh
-    hak-kōhēn bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times
-    by God (arbaʿu shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if
-    he lies, then the wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on
-    herself. The curse falls on both parties, no priest is involved and there is no sanctuary rite.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
+- bitter-water-ordeal-for-adultery
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast, divergence, parallel. wa-lladhīna yarmūna azwājahum wa-lam yakun lahum shuhadāʾu illā anfusuhum
-    ~ wə-neʿlam mēʿênê ʾîšāh ... wə-ʿēd ʾên bāh wə-hîʾ lōʾ nitpāśâ: the same legal gap, a husband who
-    suspects his wife with no witness, and in both the gap is closed by an oath with a curse instead of
-    testimony. Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh hak-kōhēn
-    bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times by God (arbaʿu
-    shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if he lies, then the
-    wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on herself. The curse
-    falls on both parties, no priest is involved and there is no sanctuary rite. Outcome: Num 5 lets the
-    bitter water decide, with a physical sign on the guilty body (bə-tēt YHWH ʾet yərēkhēk nōfelet wə-ʾet
-    biṭnēk ṣāvâ); in Q 24:8 the wife''s oath alone averts the punishment (wa-yadraʾu ʿanhā l-ʿadhāba an
-    tashhada), with no ordeal, water, dust or written curse, and the verdict is left to God. wə-niqqâ
-    hā-ʾîš mē-ʿāwōn wə-hā-ʾiššâ ha-hîʾ tiśśāʾ ʾet ʿăwōnāh: the accusing husband is free of guilt whatever
-    happens; Q 24:7 wa-l-khāmisatu anna laʿnata llāhi ʿalayhi in kāna mina l-kādhibīna: he invokes God''s
-    curse on himself if he is lying.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: How the case of a wife suspected of adultery is decided [divergence
-    between the texts] (weight 6.7); Wife suspected of adultery drinks ''water of bitterness'' as an ordeal
-    (weight 6.7); Adultery done in secret with no witness and not caught in the act (weight 6.7); Whether
-    the husband who accuses his wife bears any liability [contrast between the texts] (weight 6.7); Who
-    swears, and how, when a husband suspects his wife of adultery without witnesses [divergence between
-    the texts] (weight 6.7). Pair score 33.5.'
+- text: 'Shared motifs, rarest first: Adultery done in secret with no witness and not caught in the act
+    (weight 6.7); Whether the husband who accuses his wife bears any liability [contrast between the texts]
+    (weight 6.7); How the case of a wife suspected of adultery is decided [divergence between the texts]
+    (weight 6.7); Who swears, and how, when a husband suspects his wife of adultery without witnesses
+    [divergence between the texts] (weight 6.7); Wife suspected of adultery drinks ''water of bitterness''
+    as an ordeal (weight 6.7). Pair score 33.5.'
   basis: reading
 - text: 'Only in The suspected adulteress and the bitter water: Suspected wife''s offering is barley flour
     without oil or frankincense, a ''meal offering of jealousy''; Ordeal curse: the guilty woman''s belly
@@ -229,6 +62,144 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who swears, and how, when a husband suspects his wife of adultery without witnesses
+kinds:
+- divergence
+- contrast
+- parallel
+- shared
+units:
+- id: hb-num-5-sotah-ordeal
+  title: The suspected adulteress and the bitter water
+  tradition: judaism
+- id: quran-24-penalties-and-lian
+  title: Lashes for fornication, four witnesses and the mutual cursing oath
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who swears, and how, when a husband suspects his wife of adultery without witnesses
+  note: 'Who swears: in Num 5 only the woman, made to swear by the priest (wə-hišbîaʿ ʾōtāh hak-kōhēn
+    bi-švuʿat hā-ʾālâ), answering ʾāmēn ʾāmēn; in Q 24 the husband swears first, four times by God (arbaʿu
+    shahādātin bi-llāh) and a fifth time that God''s curse (laʿnat Allāh) be on him if he lies, then the
+    wife swears four counter-oaths and a fifth calling God''s wrath (ghaḍab Allāh) on herself. The curse
+    falls on both parties, no priest is involved and there is no sanctuary rite.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:19
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ
+        וְאִם לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
+    - ref: Num 5:21
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
+        יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙
+        נֹפֶ֔לֶת וְאֶת בִּטְנֵ֖ךְ צָבָֽה
+    - ref: Num 5:22
+      lang: he
+      text: וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֨לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ
+        וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן אָמֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 24:6
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
+        أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
+    - ref: Quran 24:7
+      lang: ar
+      text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
+    - ref: Quran 24:8
+      lang: ar
+      text: وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ
+        ٱلْكَٰذِبِينَ
+- kind: divergence
+  label: How the case of a wife suspected of adultery is decided
+  note: 'Outcome: Num 5 lets the bitter water decide, with a physical sign on the guilty body (bə-tēt
+    YHWH ʾet yərēkhēk nōfelet wə-ʾet biṭnēk ṣāvâ); in Q 24:8 the wife''s oath alone averts the punishment
+    (wa-yadraʾu ʿanhā l-ʿadhāba an tashhada), with no ordeal, water, dust or written curse, and the verdict
+    is left to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:21
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
+        יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙
+        נֹפֶ֔לֶת וְאֶת בִּטְנֵ֖ךְ צָבָֽה
+    - ref: Num 5:22
+      lang: he
+      text: וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֨לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ
+        וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן אָמֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 24:8
+      lang: ar
+      text: وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ
+        ٱلْكَٰذِبِينَ
+- kind: contrast
+  label: Whether the husband who accuses his wife bears any liability
+  note: 'wə-niqqâ hā-ʾîš mē-ʿāwōn wə-hā-ʾiššâ ha-hîʾ tiśśāʾ ʾet ʿăwōnāh: the accusing husband is free
+    of guilt whatever happens; Q 24:7 wa-l-khāmisatu anna laʿnata llāhi ʿalayhi in kāna mina l-kādhibīna:
+    he invokes God''s curse on himself if he is lying.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:31
+      lang: he
+      text: וְנִקָּ֥ה הָאִ֖ישׁ מֵעָוֺ֑ן וְהָאִשָּׁ֣ה הַהִ֔וא תִּשָּׂ֖א אֶת עֲוֺנָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:7
+      lang: ar
+      text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
+- kind: parallel
+  label: Adultery done in secret with no witness and not caught in the act
+  note: 'wa-lladhīna yarmūna azwājahum wa-lam yakun lahum shuhadāʾu illā anfusuhum ~ wə-neʿlam mēʿênê
+    ʾîšāh ... wə-ʿēd ʾên bāh wə-hîʾ lōʾ nitpāśâ: the same legal gap, a husband who suspects his wife with
+    no witness, and in both the gap is closed by an oath with a curse instead of testimony.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:13
+      lang: he
+      text: וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת זֶרַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא
+        נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:6
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
+        أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
+- kind: shared
+  label: Wife suspected of adultery drinks 'water of bitterness' as an ordeal
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:18
+      lang: he
+      text: וְהֶעֱמִ֨יד הַכֹּהֵ֥ן אֶֽת הָאִשָּׁה֮ לִפְנֵ֣י יְהוָה֒ וּפָרַע֙ אֶת רֹ֣אשׁ הָֽאִשָּׁ֔ה וְנָתַ֣ן
+        עַל כַּפֶּ֗יהָ אֵ֚ת מִנְחַ֣ת הַזִּכָּר֔וֹן מִנְחַ֥ת קְנָאֹ֖ת הִ֑וא וּבְיַ֤ד הַכֹּהֵן֙ יִהְי֔וּ
+        מֵ֥י הַמָּרִ֖ים הַמְאָֽרֲרִֽים
+    - ref: Num 5:19
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ
+        וְאִם לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
+    - ref: Num 5:24
+      lang: he
+      text: וְהִשְׁקָה֙ אֶת הָ֣אִשָּׁ֔ה אֶת מֵ֥י הַמָּרִ֖ים הַמְאָֽרֲרִ֑ים וּבָ֥אוּ בָ֛הּ הַמַּ֥יִם הַֽמְאָרֲרִ֖ים
+        לְמָרִֽים
+    note: מֵי הַמָּרִים הַמְאָרֲרִים
+  - tradition: islam
+    passages:
+    - ref: Quran 24:6
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ أَزْوَٰجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَآءُ إِلَّآ أَنفُسُهُمْ فَشَهَٰدَةُ
+        أَحَدِهِمْ أَرْبَعُ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ
+    - ref: Quran 24:8
+      lang: ar
+      text: وَيَدْرَؤُا۟ عَنْهَا ٱلْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَٰدَٰتٍۭ بِٱللَّهِ إِنَّهُۥ لَمِنَ
+        ٱلْكَٰذِبِينَ
+    note: the suspected wife clears herself by oath and curse, not by ordeal
 ---
 
 ## Questions

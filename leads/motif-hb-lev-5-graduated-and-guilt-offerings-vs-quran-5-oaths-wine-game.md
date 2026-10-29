@@ -2,8 +2,7 @@
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-5-oaths-wine-game
 title: Graduated purification offering and the guilt (asham) offering ↔ Lawful good things, oath expiation,
   wine and gambling, game in iḥrām
-summary: 'These two units share 2 motifs: a rash oath spoken thoughtlessly requires atonement [divergence
-  between the texts], a rash oath spoken thoughtlessly requires atonement.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,76 +15,9 @@ layers:
 motifs:
 - rash-oath-requires-atonement-as-divergence
 - rash-oath-requires-atonement
-passages:
-- tradition: judaism
-  ref: Lev 5:4
-  note: 'A rash oath spoken thoughtlessly requires atonement [divergence between the texts] (Both have
-    graded expiation for an oath. Lev: nefeš kî tiššāvaʿ ləvaṭṭēʾ vi-śfātayim, a lamb or goat, if one
-    cannot afford it two birds, and if not that, a tenth of an ephah of flour (wə-ʾim-lōʾ taggîaʿ yādô
-    ... wə-ʾim-lōʾ taśśîg yādô). Q: lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum, and for binding
-    oaths ʾiṭʿāmu ʿasharati masākīna ... aw kiswatuhum aw taḥrīru raqabatin fa-man lam yajid fa-ṣiyāmu
-    thalāthati ayyām. The steps are kept (''whoever cannot find''), but the sacrifice becomes feeding
-    and clothing the poor, freeing a slave, and fasting. Q exempts the idle oath, which Lev 5:4 covers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
-    יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
-- tradition: judaism
-  ref: Lev 5:6
-  note: 'A rash oath spoken thoughtlessly requires atonement [divergence between the texts] (Both have
-    graded expiation for an oath. Lev: nefeš kî tiššāvaʿ ləvaṭṭēʾ vi-śfātayim, a lamb or goat, if one
-    cannot afford it two birds, and if not that, a tenth of an ephah of flour (wə-ʾim-lōʾ taggîaʿ yādô
-    ... wə-ʾim-lōʾ taśśîg yādô). Q: lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum, and for binding
-    oaths ʾiṭʿāmu ʿasharati masākīna ... aw kiswatuhum aw taḥrīru raqabatin fa-man lam yajid fa-ṣiyāmu
-    thalāthati ayyām. The steps are kept (''whoever cannot find''), but the sacrifice becomes feeding
-    and clothing the poor, freeing a slave, and fasting. Q exempts the idle oath, which Lev 5:4 covers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵבִ֣יא אֶת אֲשָׁמ֣וֹ לַיהוָ֡ה עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א נְקֵבָ֨ה מִן הַצֹּ֥אן כִּשְׂבָּ֛ה
-    אֽוֹ שְׂעִירַ֥ת עִזִּ֖ים לְחַטָּ֑את וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן מֵחַטָּאתֽוֹ
-- tradition: islam
-  ref: Quran 5:89
-  note: 'A rash oath spoken thoughtlessly requires atonement [divergence between the texts] (Both have
-    graded expiation for an oath. Lev: nefeš kî tiššāvaʿ ləvaṭṭēʾ vi-śfātayim, a lamb or goat, if one
-    cannot afford it two birds, and if not that, a tenth of an ephah of flour (wə-ʾim-lōʾ taggîaʿ yādô
-    ... wə-ʾim-lōʾ taśśîg yādô). Q: lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum, and for binding
-    oaths ʾiṭʿāmu ʿasharati masākīna ... aw kiswatuhum aw taḥrīru raqabatin fa-man lam yajid fa-ṣiyāmu
-    thalāthati ayyām. The steps are kept (''whoever cannot find''), but the sacrifice becomes feeding
-    and clothing the poor, freeing a slave, and fasting. Q exempts the idle oath, which Lev 5:4 covers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ
-    ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ
-    أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ
-    كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ
-    لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ
-- tradition: judaism
-  ref: Lev 5:4
-  note: A rash oath spoken thoughtlessly requires atonement
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
-    יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
-- tradition: islam
-  ref: Quran 5:89
-  note: A rash oath spoken thoughtlessly requires atonement (idle oaths (laghw) are not held against you;
-    binding oaths need kaffāra)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ
-    ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ
-    أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ
-    كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ
-    لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Both have graded expiation for an oath. Lev: nefeš kî tiššāvaʿ ləvaṭṭēʾ vi-śfātayim, a
-    lamb or goat, if one cannot afford it two birds, and if not that, a tenth of an ephah of flour (wə-ʾim-lōʾ
-    taggîaʿ yādô ... wə-ʾim-lōʾ taśśîg yādô). Q: lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum, and
-    for binding oaths ʾiṭʿāmu ʿasharati masākīna ... aw kiswatuhum aw taḥrīru raqabatin fa-man lam yajid
-    fa-ṣiyāmu thalāthati ayyām. The steps are kept (''whoever cannot find''), but the sacrifice becomes
-    feeding and clothing the poor, freeing a slave, and fasting. Q exempts the idle oath, which Lev 5:4
-    covers.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A rash oath spoken thoughtlessly requires atonement [divergence
     between the texts] (weight 6.7); A rash oath spoken thoughtlessly requires atonement (weight 6.3).
@@ -121,6 +53,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A rash oath spoken thoughtlessly requires atonement
+kinds:
+- divergence
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-5-oaths-wine-game
+  title: Lawful good things, oath expiation, wine and gambling, game in iḥrām
+  tradition: islam
+matches:
+- kind: divergence
+  label: A rash oath spoken thoughtlessly requires atonement
+  note: 'Both have graded expiation for an oath. Lev: nefeš kî tiššāvaʿ ləvaṭṭēʾ vi-śfātayim, a lamb or
+    goat, if one cannot afford it two birds, and if not that, a tenth of an ephah of flour (wə-ʾim-lōʾ
+    taggîaʿ yādô ... wə-ʾim-lōʾ taśśîg yādô). Q: lā yuʾākhidhukumu llāhu bi-l-laghwi fī aymānikum, and
+    for binding oaths ʾiṭʿāmu ʿasharati masākīna ... aw kiswatuhum aw taḥrīru raqabatin fa-man lam yajid
+    fa-ṣiyāmu thalāthati ayyām. The steps are kept (''whoever cannot find''), but the sacrifice becomes
+    feeding and clothing the poor, freeing a slave, and fasting. Q exempts the idle oath, which Lev 5:4
+    covers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:4
+      lang: he
+      text: א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר
+        יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה
+    - ref: Lev 5:6
+      lang: he
+      text: וְהֵבִ֣יא אֶת אֲשָׁמ֣וֹ לַיהוָ֡ה עַ֣ל חַטָּאתוֹ֩ אֲשֶׁ֨ר חָטָ֜א נְקֵבָ֨ה מִן הַצֹּ֥אן כִּשְׂבָּ֛ה
+        אֽוֹ שְׂעִירַ֥ת עִזִּ֖ים לְחַטָּ֑את וְכִפֶּ֥ר עָלָ֛יו הַכֹּהֵ֖ן מֵחַטָּאתֽוֹ
+    - ref: Lev 5:7
+      lang: he
+      text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
+        אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:89
+      lang: ar
+      text: لَا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا عَقَّدتُّمُ
+        ٱلْأَيْمَٰنَ فَكَفَّٰرَتُهُۥٓ إِطْعَامُ عَشَرَةِ مَسَٰكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ
+        أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ فَمَن لَّمْ يَجِدْ فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ ذَٰلِكَ
+        كَفَّٰرَةُ أَيْمَٰنِكُمْ إِذَا حَلَفْتُمْ وَٱحْفَظُوٓا۟ أَيْمَٰنَكُمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ
+        لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

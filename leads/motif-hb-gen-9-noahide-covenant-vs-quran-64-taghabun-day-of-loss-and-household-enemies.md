@@ -2,7 +2,7 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-64-taghabun-day-of-loss-and-household-enemies
 title: 'Blessing of Noah, blood laws and the covenant of the bow ↔ Al-Taghabun: forms made beautiful,
   the Day of Mutual Loss, enemies among wives and children, and the goodly loan'
-summary: 'These two units share 1 motifs: humanity made in the image or likeness of the deity.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - human-in-divine-image
-passages:
-- tradition: judaism
-  ref: Gen 9:6
-  note: Humanity made in the image or likeness of the deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת
-    הָאָדָֽם
-- tradition: islam
-  ref: Quran 64:3
-  note: 'Humanity made in the image or likeness of the deity (loose: God fashioned human forms (suwar)
-    well)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. loose: wa-ṣawwarakum fa-aḥsana ṣuwarakum (he shaped you and made your forms good) ~ kî be-ṣelem
-    ʾĕlōhîm ʿāśāh ʾet hā-ʾādām. The Quran speaks of a good form (ṣūra) given by God, never of God''s image.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humanity made in the image or likeness of the deity (weight 5.8).
     Pair score 5.8.'
@@ -70,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humanity made in the image or likeness of the deity
+kinds:
+- echo
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-64-taghabun-day-of-loss-and-household-enemies
+  title: 'Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
+    and the goodly loan'
+  tradition: islam
+matches:
+- kind: echo
+  label: Humanity made in the image or likeness of the deity
+  note: 'loose: wa-ṣawwarakum fa-aḥsana ṣuwarakum (he shaped you and made your forms good) ~ kî be-ṣelem
+    ʾĕlōhîm ʿāśāh ʾet hā-ʾādām. The Quran speaks of a good form (ṣūra) given by God, never of God''s image.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:6
+      lang: he
+      text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה
+        אֶת הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 64:3
+      lang: ar
+      text: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَصَوَّرَكُمْ فَأَحْسَنَ صُوَرَكُمْ وَإِلَيْهِ
+        ٱلْمَصِيرُ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-amos-4-cows-of-bashan-vs-quran-9-hypocrites-mockery
 title: Cows of Bashan; 'yet you did not return'; prepare to meet your God ↔ Hypocrites who mock and the
   destroyed peoples
-summary: 'These two units share 1 motifs: the ''overturned cities'' (al-mu''tafikat), lot''s towns.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - overturned-cities-mutafikat
-passages:
-- tradition: judaism
-  ref: Amos 4:11
-  note: 'The ''overturned cities'' (al-mu''tafikat), Lot''s towns (hāpaktî bākem kᵉmahpēkat ʾĕlōhîm ʾet-sᵉdōm
-    wᵉʾet-ʿămōrāh ... wᵉlōʾ-šabtem ʿāday vs a-lam yaʾtihim nabaʾu lladhīna min qablihim ... wa-l-muʾtafikāt:
-    the overthrow of Sodom held up to a people that will not turn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣כְתִּי בָכֶ֗ם כְּמַהְפֵּכַ֤ת אֱלֹהִים֙ אֶת סְדֹ֣ם וְאֶת עֲמֹרָ֔ה וַתִּהְי֕וּ כְּא֖וּד מֻצָּ֣ל
-    מִשְׂרֵפָ֑ה וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 9:70
-  note: The 'overturned cities' (al-mu'tafikat), Lot's towns
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ
-    وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ
-    وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. hāpaktî bākem kᵉmahpēkat ʾĕlōhîm ʾet-sᵉdōm wᵉʾet-ʿămōrāh ... wᵉlōʾ-šabtem ʿāday vs a-lam yaʾtihim
-    nabaʾu lladhīna min qablihim ... wa-l-muʾtafikāt: the overthrow of Sodom held up to a people that
-    will not turn.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''overturned cities'' (al-mu''tafikat), Lot''s towns (weight
     6.0). Pair score 6.0.'
@@ -71,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'overturned cities' (al-mu'tafikat), Lot's towns
+kinds:
+- echo
+units:
+- id: hb-amos-4-cows-of-bashan
+  title: Cows of Bashan; 'yet you did not return'; prepare to meet your God
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: The 'overturned cities' (al-mu'tafikat), Lot's towns
+  note: 'hāpaktî bākem kᵉmahpēkat ʾĕlōhîm ʾet-sᵉdōm wᵉʾet-ʿămōrāh ... wᵉlōʾ-šabtem ʿāday vs a-lam yaʾtihim
+    nabaʾu lladhīna min qablihim ... wa-l-muʾtafikāt: the overthrow of Sodom held up to a people that
+    will not turn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 4:11
+      lang: he
+      text: הָפַ֣כְתִּי בָכֶ֗ם כְּמַהְפֵּכַ֤ת אֱלֹהִים֙ אֶת סְדֹ֣ם וְאֶת עֲמֹרָ֔ה וַתִּהְי֕וּ כְּא֖וּד
+        מֻצָּ֣ל מִשְׂרֵפָ֑ה וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:70
+      lang: ar
+      text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ
+        إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-2kgs-9-jehu-anointed-vs-quran-37-hell-and-garden
 title: Jehu anointed king ↔ The damned questioned; the blessed on facing couches; the tree of Zaqqum
-summary: 'These two units share 2 motifs: idolaters ask ''shall we abandon our gods for a mad poet?'',
-  officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 motifs:
 - prophet-called-mad-poet
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: 'Idolaters ask ''shall we abandon our gods for a mad poet?'' (maddûaʿ bāʾ ha-mməšuggāʿ ha-zzeh
-    vs. a-innā la-tārikū ālihatinā li-shāʿirin majnūn: the messenger as madman. The Quran adds ''poet''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 37:36
-  note: Idolaters ask 'shall we abandon our gods for a mad poet?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 37:36
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. maddûaʿ bāʾ ha-mməšuggāʿ ha-zzeh vs. a-innā la-tārikū ālihatinā li-shāʿirin majnūn: the messenger
-    as madman. The Quran adds ''poet''.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idolaters ask ''shall we abandon our gods for a mad poet?'' (weight
     6.7); Officers call the visiting prophet ''this madman'' (meshugga'') (weight 5.1). Pair score 11.8.'
@@ -78,6 +48,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idolaters ask 'shall we abandon our gods for a mad poet?'
+kinds:
+- echo
+- shared
+units:
+- id: hb-2kgs-9-jehu-anointed
+  title: Jehu anointed king
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: echo
+  label: Idolaters ask 'shall we abandon our gods for a mad poet?'
+  note: 'maddûaʿ bāʾ ha-mməšuggāʿ ha-zzeh vs. a-innā la-tārikū ālihatinā li-shāʿirin majnūn: the messenger
+    as madman. The Quran adds ''poet''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:36
+      lang: ar
+      text: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ
+- kind: shared
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:36
+      lang: ar
+      text: وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓا۟ ءَالِهَتِنَا لِشَاعِرٍ مَّجْنُونٍۭ
 ---
 
 ## Questions

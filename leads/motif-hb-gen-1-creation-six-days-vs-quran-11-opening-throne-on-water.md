@@ -2,10 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-11-opening-throne-on-water
 title: Creation in six days and the seventh-day rest ↔ The Book made firm, the Throne on the water, the
   challenge of ten surahs
-summary: 'These two units share 4 motifs: a divine wind or spirit hovers or moves over the primeval waters,
-  what is over the waters before or at creation: god''s spirit, his throne or his voice [divergence between
-  the texts], creation is completed in six days [divergence between the texts], creation is completed
-  in six days.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,107 +17,9 @@ motifs:
 - what-is-above-the-primeval-waters-as-divergence
 - creation-in-six-days-as-divergence
 - creation-in-six-days
-passages:
-- tradition: judaism
-  ref: Gen 1:2
-  note: A divine wind or spirit hovers or moves over the primeval waters (ruah elohim merahefet, 'hovering'
-    like a bird)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
-    עַל פְּנֵ֥י הַמָּֽיִם
-- tradition: islam
-  ref: Quran 11:7
-  note: A divine wind or spirit hovers or moves over the primeval waters (the throne, not the spirit,
-    is over the water)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Gen 1:2
-  note: 'What is over the waters before or at creation: God''s spirit, his throne or his voice [divergence
-    between the texts] (Above the waters at creation: wa-kāna ʿarshuhu ʿalā l-māʾi (his throne was on
-    the water) vs wᵉrûaḥ ʾĕlōhîm mᵉraḥepet ʿal-pᵉnê hammāyim (God''s spirit hovering over the face of
-    the waters). The same position over the water; Q puts the throne where Gen has the spirit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
-    עַל פְּנֵ֥י הַמָּֽיִם
-- tradition: islam
-  ref: Quran 11:7
-  note: 'What is over the waters before or at creation: God''s spirit, his throne or his voice [divergence
-    between the texts] (Above the waters at creation: wa-kāna ʿarshuhu ʿalā l-māʾi (his throne was on
-    the water) vs wᵉrûaḥ ʾĕlōhîm mᵉraḥepet ʿal-pᵉnê hammāyim (God''s spirit hovering over the face of
-    the waters). The same position over the water; Q puts the throne where Gen has the spirit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: judaism
-  ref: Gen 2:3
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל מְלַאכְתּ֔וֹ
-    אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 11:7
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation and their
-    purpose: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin ... li-yabluwakum ayyukum aḥsanu ʿamalan
-    vs wayyarʾ ʾĕlōhîm ʾet-kol-ʾăšer ʿāśāh wᵉhinnēh-ṭôb mᵉʾōd ... yôm haššiššî. Gen ends the six days
-    with God''s verdict that it is ''very good''; Q gives as their purpose a test of human deeds.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 11:7
-  note: Creation is completed in six days
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Above the waters at creation: wa-kāna ʿarshuhu ʿalā l-māʾi (his throne was on the water)
-    vs wᵉrûaḥ ʾĕlōhîm mᵉraḥepet ʿal-pᵉnê hammāyim (God''s spirit hovering over the face of the waters).
-    The same position over the water; Q puts the throne where Gen has the spirit. Six days of creation
-    and their purpose: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin ... li-yabluwakum ayyukum aḥsanu
-    ʿamalan vs wayyarʾ ʾĕlōhîm ʾet-kol-ʾăšer ʿāśāh wᵉhinnēh-ṭôb mᵉʾōd ... yôm haššiššî. Gen ends the six
-    days with God''s verdict that it is ''very good''; Q gives as their purpose a test of human deeds.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine wind or spirit hovers or moves over the primeval waters
     (weight 6.7); What is over the waters before or at creation: God''s spirit, his throne or his voice
@@ -157,6 +56,75 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What is over the waters before or at creation: God''s spirit, his throne or his voice'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What is over the waters before or at creation: God''s spirit, his throne or his voice'
+  note: 'Above the waters at creation: wa-kāna ʿarshuhu ʿalā l-māʾi (his throne was on the water) vs wᵉrûaḥ
+    ʾĕlōhîm mᵉraḥepet ʿal-pᵉnê hammāyim (God''s spirit hovering over the face of the waters). The same
+    position over the water; Q puts the throne where Gen has the spirit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:2
+      lang: he
+      text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
+        עַל פְּנֵ֥י הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 11:7
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى
+        ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ
+        بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+- kind: divergence
+  label: Creation is completed in six days
+  note: 'Six days of creation and their purpose: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin ... li-yabluwakum
+    ayyukum aḥsanu ʿamalan vs wayyarʾ ʾĕlōhîm ʾet-kol-ʾăšer ʿāśāh wᵉhinnēh-ṭôb mᵉʾōd ... yôm haššiššî.
+    Gen ends the six days with God''s verdict that it is ''very good''; Q gives as their purpose a test
+    of human deeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:31
+      lang: he
+      text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי
+        בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:7
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى
+        ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ
+        بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+- kind: shared
+  label: A divine wind or spirit hovers or moves over the primeval waters
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:2
+      lang: he
+      text: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת
+        עַל פְּנֵ֥י הַמָּֽיִם
+    note: ruah elohim merahefet, 'hovering' like a bird
+  - tradition: islam
+    passages:
+    - ref: Quran 11:7
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى
+        ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ
+        بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+    note: the throne, not the spirit, is over the water
 ---
 
 ## Questions

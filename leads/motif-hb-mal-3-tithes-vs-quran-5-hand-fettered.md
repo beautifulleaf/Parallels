@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-tithes-vs-quran-5-hand-fettered
 title: Return to me; will a man rob God? Test me with the tithe ↔ 'God's hand is fettered'; the blessings
   of observing the Torah
-summary: 'These two units share 1 motifs: had they observed the torah and gospel they would have eaten
-  from above them and beneath their feet.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - eat-from-above-and-below
-passages:
-- tradition: judaism
-  ref: Mal 3:10
-  note: 'Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet (Mal: ʾim-lōʾ ʾeftaḥ lākhem ʾēt ʾărubbôt haš-šāmayim wa-hărîqōtî lākhem bərākhāh, abundance from
-    above for obedience. Q: min fawqihim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
-    נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י
-    לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
-- tradition: islam
-  ref: Quran 5:66
-  note: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
-    لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ
-    سَآءَ مَا يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Mal: ʾim-lōʾ ʾeftaḥ lākhem ʾēt ʾărubbôt haš-šāmayim wa-hărîqōtî lākhem bərākhāh, abundance from
-    above for obedience. Q: min fawqihim.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Had they observed the Torah and Gospel they would have eaten from
     above them and beneath their feet (weight 6.0). Pair score 6.0.'
@@ -71,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+  feet
+kinds:
+- echo
+units:
+- id: hb-mal-3-tithes
+  title: Return to me; will a man rob God? Test me with the tithe
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: echo
+  label: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+    feet
+  note: 'Mal: ʾim-lōʾ ʾeftaḥ lākhem ʾēt ʾărubbôt haš-šāmayim wa-hărîqōtî lākhem bərākhāh, abundance from
+    above for obedience. Q: min fawqihim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:10
+      lang: he
+      text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
+        נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם
+        וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 5:66
+      lang: ar
+      text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
+        لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ
+        مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ
 ---
 
 ## Questions

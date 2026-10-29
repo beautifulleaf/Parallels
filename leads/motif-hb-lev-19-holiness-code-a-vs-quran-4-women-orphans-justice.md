@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-4-women-orphans-justice
 title: Be holy - ethical laws and love of neighbor ↔ Orphan girls, reconciliation, the suspended wife,
   and justice against oneself
-summary: 'These two units share 1 motifs: judge fairly, favoring neither the poor nor the great.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - impartial-judgment-neither-poor-nor-great
-passages:
-- tradition: judaism
-  ref: Lev 19:15
-  note: Judge fairly, favoring neither the poor nor the great
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֨וֶל֙ בַּמִּשְׁפָּ֔ט לֹא תִשָּׂ֣א פְנֵי דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל
-    בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ
-- tradition: islam
-  ref: Quran 4:135
-  note: Judge fairly, favoring neither the poor nor the great ('whether rich or poor, God is nearer to
-    both')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ
-    أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ
-    بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ
-    كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: kūnū qawwāmīna bi-l-qisṭi ... in yakun ghaniyyan aw faqīran fa-llāhu awlā bihimā fa-lā
-    tattabiʿū l-hawā. Lev: lōʾ-tiśśāʾ fənê-dāl wə-lōʾ tehdar pənê gādôl bə-ṣedeq tišpōṭ ʿămîtekhā. Q''s
-    pair rich/poor matches Lev''s dāl/gādôl.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.0).
     Pair score 6.0.'
@@ -69,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Judge fairly, favoring neither the poor nor the great
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-4-women-orphans-justice
+  title: Orphan girls, reconciliation, the suspended wife, and justice against oneself
+  tradition: islam
+matches:
+- kind: parallel
+  label: Judge fairly, favoring neither the poor nor the great
+  note: 'Q: kūnū qawwāmīna bi-l-qisṭi ... in yakun ghaniyyan aw faqīran fa-llāhu awlā bihimā fa-lā tattabiʿū
+    l-hawā. Lev: lōʾ-tiśśāʾ fənê-dāl wə-lōʾ tehdar pənê gādôl bə-ṣedeq tišpōṭ ʿămîtekhā. Q''s pair rich/poor
+    matches Lev''s dāl/gādôl.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:15
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֨וֶל֙ בַּמִּשְׁפָּ֔ט לֹא תִשָּׂ֣א פְנֵי דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל
+        בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:135
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ
+        عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ
+        أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟
+        فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-106-108-quraysh-kindness-kawthar
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Quraysh,
   small kindnesses and al-Kawthar
-summary: 'These two units share 1 motifs: quraysh''s security pact (ilaf) and caravan journeys of winter
-  and summer; they should worship the lord of this house who fed and secured them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - quraysh-winter-and-summer-caravans
-passages:
-- tradition: judaism
-  ref: Josh 24:13
-  note: 'Quraysh''s security pact (ilaf) and caravan journeys of winter and summer; they should worship
-    the Lord of this House who fed and secured them (fa-l-yaʿbudū rabba hādhā l-bayti lladhī aṭʿamahum
-    min jūʿin wa-āmanahum min khawf ~ wā-ʾettēn lākem ʾereṣ ... kerāmîm we-zêtîm ʾăšer lōʾ neṭaʿtem ʾattem
-    ʾōkelîm; we-ʿattāh yerʾû ʾet YHWH we-ʿivdû ʾōtô: God''s gift of food and settled life is the ground
-    for the call to serve him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶתֵּ֨ן לָכֶ֜ם אֶ֣רֶץ אֲשֶׁ֧ר לֹֽא יָגַ֣עְתָּ בָּ֗הּ וְעָרִים֙ אֲשֶׁ֣ר לֹא בְנִיתֶ֔ם וַתֵּשְׁב֖וּ
-    בָּהֶ֑ם כְּרָמִ֤ים וְזֵיתִים֙ אֲשֶׁ֣ר לֹֽא נְטַעְתֶּ֔ם אַתֶּ֖ם אֹכְלִֽים
-- tradition: judaism
-  ref: Josh 24:14
-  note: 'Quraysh''s security pact (ilaf) and caravan journeys of winter and summer; they should worship
-    the Lord of this House who fed and secured them (fa-l-yaʿbudū rabba hādhā l-bayti lladhī aṭʿamahum
-    min jūʿin wa-āmanahum min khawf ~ wā-ʾettēn lākem ʾereṣ ... kerāmîm we-zêtîm ʾăšer lōʾ neṭaʿtem ʾattem
-    ʾōkelîm; we-ʿattāh yerʾû ʾet YHWH we-ʿivdû ʾōtô: God''s gift of food and settled life is the ground
-    for the call to serve him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת אֱלֹהִ֗ים
-    אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 106:1
-  note: Quraysh's security pact (ilaf) and caravan journeys of winter and summer; they should worship
-    the Lord of this House who fed and secured them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِإِيلَٰفِ قُرَيْشٍ
-- tradition: islam
-  ref: Quran 106:2
-  note: Quraysh's security pact (ilaf) and caravan journeys of winter and summer; they should worship
-    the Lord of this House who fed and secured them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-l-yaʿbudū rabba hādhā l-bayti lladhī aṭʿamahum min jūʿin wa-āmanahum min khawf ~ wā-ʾettēn
-    lākem ʾereṣ ... kerāmîm we-zêtîm ʾăšer lōʾ neṭaʿtem ʾattem ʾōkelîm; we-ʿattāh yerʾû ʾet YHWH we-ʿivdû
-    ʾōtô: God''s gift of food and settled life is the ground for the call to serve him.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Quraysh''s security pact (ilaf) and caravan journeys of winter and
     summer; they should worship the Lord of this House who fed and secured them (weight 6.7). Pair score
@@ -88,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Quraysh's security pact (ilaf) and caravan journeys of winter and summer; they should worship
+  the Lord of this House who fed and secured them
+kinds:
+- echo
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-106-108-quraysh-kindness-kawthar
+  title: Quraysh, small kindnesses and al-Kawthar
+  tradition: islam
+matches:
+- kind: echo
+  label: Quraysh's security pact (ilaf) and caravan journeys of winter and summer; they should worship
+    the Lord of this House who fed and secured them
+  note: 'fa-l-yaʿbudū rabba hādhā l-bayti lladhī aṭʿamahum min jūʿin wa-āmanahum min khawf ~ wā-ʾettēn
+    lākem ʾereṣ ... kerāmîm we-zêtîm ʾăšer lōʾ neṭaʿtem ʾattem ʾōkelîm; we-ʿattāh yerʾû ʾet YHWH we-ʿivdû
+    ʾōtô: God''s gift of food and settled life is the ground for the call to serve him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:13
+      lang: he
+      text: וָאֶתֵּ֨ן לָכֶ֜ם אֶ֣רֶץ אֲשֶׁ֧ר לֹֽא יָגַ֣עְתָּ בָּ֗הּ וְעָרִים֙ אֲשֶׁ֣ר לֹא בְנִיתֶ֔ם וַתֵּשְׁב֖וּ
+        בָּהֶ֑ם כְּרָמִ֤ים וְזֵיתִים֙ אֲשֶׁ֣ר לֹֽא נְטַעְתֶּ֔ם אַתֶּ֖ם אֹכְלִֽים
+    - ref: Josh 24:14
+      lang: he
+      text: וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת אֱלֹהִ֗ים
+        אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 106:3
+      lang: ar
+      text: فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ
+    - ref: Quran 106:4
+      lang: ar
+      text: ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ
 ---
 
 ## Questions

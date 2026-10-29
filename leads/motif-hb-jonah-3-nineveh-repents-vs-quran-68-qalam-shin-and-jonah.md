@@ -2,8 +2,7 @@
 id: motif-hb-jonah-3-nineveh-repents-vs-quran-68-qalam-shin-and-jonah
 title: Jonah preaches and Nineveh repents down to its animals ↔ Do you have a book or oaths binding God?;
   the shin laid bare; the companion of the fish; the evil eye
-summary: 'These two units share 1 motifs: the word of god comes to the prophet a second time with the
-  same commission.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-commissioned-second-time
-passages:
-- tradition: judaism
-  ref: Jonah 3:1
-  note: The word of God comes to the prophet a second time with the same commission
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֧י דְבַר יְהוָ֛ה אֶל יוֹנָ֖ה שֵׁנִ֥ית לֵאמֹֽר
-- tradition: judaism
-  ref: Jonah 3:2
-  note: The word of God comes to the prophet a second time with the same commission
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֛וּם לֵ֥ךְ אֶל נִֽינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה וִּקְרָ֤א אֵלֶ֨יהָ֙ אֶת הַקְּרִיאָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י
-    דֹּבֵ֥ר אֵלֶֽיךָ
-- tradition: islam
-  ref: Quran 68:50
-  note: The word of God comes to the prophet a second time with the same commission
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-jtabāhu rabbuhu (his Lord chose him again) ~ wa-yehî devar YHWH ʾel Yônāh šēnît: the prophet
-    taken back into service after the fish.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The word of God comes to the prophet a second time with the same
     commission (weight 6.7). Pair score 6.7.'
@@ -76,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The word of God comes to the prophet a second time with the same commission
+kinds:
+- echo
+units:
+- id: hb-jonah-3-nineveh-repents
+  title: Jonah preaches and Nineveh repents down to its animals
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: echo
+  label: The word of God comes to the prophet a second time with the same commission
+  note: 'fa-jtabāhu rabbuhu (his Lord chose him again) ~ wa-yehî devar YHWH ʾel Yônāh šēnît: the prophet
+    taken back into service after the fish.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 3:1
+      lang: he
+      text: וַיְהִ֧י דְבַר יְהוָ֛ה אֶל יוֹנָ֖ה שֵׁנִ֥ית לֵאמֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 68:50
+      lang: ar
+      text: فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

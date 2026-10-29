@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-6-temple-interior-vs-quran-34-david-solomon
 title: Cedar paneling, gold, the inner sanctuary and the cherubim ↔ David's mountains and mail; Solomon's
   wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: two golden cherubim face each other with wings spread over the
-  ark.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - two-cherubim-facing-with-spread-wings
-passages:
-- tradition: judaism
-  ref: 1Kgs 6:23
-  note: 'Two golden cherubim face each other with wings spread over the ark (wa-yyaʿaś ba-ddəḇîr šənê
-    ḵərûḇîm ʿăṣê-šemen (Solomon''s olive-wood cherubim in the inner sanctuary) vs. yaʿmalūna lahu mā yashāʾu
-    min maḥārība wa-tamāthīl: images in Solomon''s sanctuary.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ בַּדְּבִ֔יר שְׁנֵ֥י כְרוּבִ֖ים עֲצֵי שָׁ֑מֶן עֶ֥שֶׂר אַמּ֖וֹת קוֹמָתֽוֹ
-- tradition: islam
-  ref: Quran 34:13
-  note: Two golden cherubim face each other with wings spread over the ark ('statues' (tamathil) made
-    for Solomon)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyaʿaś ba-ddəḇîr šənê ḵərûḇîm ʿăṣê-šemen (Solomon''s olive-wood cherubim in the inner sanctuary)
-    vs. yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl: images in Solomon''s sanctuary.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Two golden cherubim face each other with wings spread over the ark
     (weight 5.4). Pair score 5.4.'
@@ -68,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Two golden cherubim face each other with wings spread over the ark
+kinds:
+- echo
+units:
+- id: hb-1kgs-6-temple-interior
+  title: Cedar paneling, gold, the inner sanctuary and the cherubim
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: Two golden cherubim face each other with wings spread over the ark
+  note: 'wa-yyaʿaś ba-ddəḇîr šənê ḵərûḇîm ʿăṣê-šemen (Solomon''s olive-wood cherubim in the inner sanctuary)
+    vs. yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl: images in Solomon''s sanctuary.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 6:23
+      lang: he
+      text: וַיַּ֣עַשׂ בַּדְּבִ֔יר שְׁנֵ֥י כְרוּבִ֖ים עֲצֵי שָׁ֑מֶן עֶ֥שֶׂר אַמּ֖וֹת קוֹמָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:13
+      lang: ar
+      text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ
+        رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 ---
 
 ## Questions

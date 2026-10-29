@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-30-vows-vs-quran-2-oaths-divorce
 title: Vows of men and women ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 1 motifs: how far a spoken oath or vow binds [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,43 +13,9 @@ layers:
 - motif
 motifs:
 - binding-force-of-oaths-as-contrast
-passages:
-- tradition: judaism
-  ref: Num 30:3
-  note: 'How far a spoken oath or vow binds [contrast between the texts] (Num 30:3 ʾîš kî yiddōr neder
-    ... ʾô hiššābaʿ šĕbûʿâ ... lōʾ yaḥēl dĕbārô kĕ-kol ha-yyōṣēʾ mi-ppîw yaʿăśeh: a man''s oath binds
-    exactly as spoken; Q 2:224 wa-lā tajʿalū llāha ʿurḍatan li-aymānikum an tabarrū: do not use oaths
-    by God as a bar to doing good, and 2:225 idle oaths are not held against you.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
-    לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 2:224
-  note: 'How far a spoken oath or vow binds [contrast between the texts] (Num 30:3 ʾîš kî yiddōr neder
-    ... ʾô hiššābaʿ šĕbûʿâ ... lōʾ yaḥēl dĕbārô kĕ-kol ha-yyōṣēʾ mi-ppîw yaʿăśeh: a man''s oath binds
-    exactly as spoken; Q 2:224 wa-lā tajʿalū llāha ʿurḍatan li-aymānikum an tabarrū: do not use oaths
-    by God as a bar to doing good, and 2:225 idle oaths are not held against you.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟
-    بَيْنَ ٱلنَّاسِ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 2:225
-  note: 'How far a spoken oath or vow binds [contrast between the texts] (Num 30:3 ʾîš kî yiddōr neder
-    ... ʾô hiššābaʿ šĕbûʿâ ... lōʾ yaḥēl dĕbārô kĕ-kol ha-yyōṣēʾ mi-ppîw yaʿăśeh: a man''s oath binds
-    exactly as spoken; Q 2:224 wa-lā tajʿalū llāha ʿurḍatan li-aymānikum an tabarrū: do not use oaths
-    by God as a bar to doing good, and 2:225 idle oaths are not held against you.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
-    قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššābaʿ šĕbûʿâ ... lōʾ yaḥēl dĕbārô kĕ-kol ha-yyōṣēʾ
-    mi-ppîw yaʿăśeh: a man''s oath binds exactly as spoken; Q 2:224 wa-lā tajʿalū llāha ʿurḍatan li-aymānikum
-    an tabarrū: do not use oaths by God as a bar to doing good, and 2:225 idle oaths are not held against
-    you.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How far a spoken oath or vow binds [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -76,6 +42,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How far a spoken oath or vow binds
+kinds:
+- contrast
+units:
+- id: hb-num-30-vows
+  title: Vows of men and women
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: contrast
+  label: How far a spoken oath or vow binds
+  note: 'Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššābaʿ šĕbûʿâ ... lōʾ yaḥēl dĕbārô kĕ-kol ha-yyōṣēʾ mi-ppîw
+    yaʿăśeh: a man''s oath binds exactly as spoken; Q 2:224 wa-lā tajʿalū llāha ʿurḍatan li-aymānikum
+    an tabarrū: do not use oaths by God as a bar to doing good, and 2:225 idle oaths are not held against
+    you.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 30:3
+      lang: he
+      text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
+        לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:224
+      lang: ar
+      text: وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةً لِّأَيْمَٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟
+        بَيْنَ ٱلنَّاسِ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
+    - ref: Quran 2:225
+      lang: ar
+      text: لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَٰنِكُمْ وَلَٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ
+        قُلُوبُكُمْ وَٱللَّهُ غَفُورٌ حَلِيمٌ
 ---
 
 ## Questions

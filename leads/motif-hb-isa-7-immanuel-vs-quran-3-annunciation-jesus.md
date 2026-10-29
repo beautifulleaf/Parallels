@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-7-immanuel-vs-quran-3-annunciation-jesus
 title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign ↔ The annunciation and the mission of Jesus
-summary: 'These two units share 1 motifs: sign: the young woman (''almah) is pregnant and will bear a
-  son and call his name immanuel (''god with us'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,49 +13,9 @@ layers:
 - motif
 motifs:
 - immanuel-sign
-passages:
-- tradition: judaism
-  ref: Isa 7:14
-  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
-    with us'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
-    שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
-- tradition: islam
-  ref: Quran 3:45
-  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
-    with us'') (Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt
-    šĕmô ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom
-    she names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
-    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
-    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
-    (cf.), not from the Hebrew.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ
-    ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
-- tradition: islam
-  ref: Quran 3:47
-  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
-    with us'') (Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt
-    šĕmô ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom
-    she names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
-    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
-    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
-    (cf.), not from the Hebrew.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ
-    مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt šĕmô
-    ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom she
-    names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
-    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
-    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
-    (cf.), not from the Hebrew.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sign: the young woman (''almah) is pregnant and will bear a son
     and call his name Immanuel (''God with us'') (weight 6.3). Pair score 6.3.'
@@ -94,6 +53,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+  with us'')'
+kinds:
+- echo
+units:
+- id: hb-isa-7-immanuel
+  title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign
+  tradition: judaism
+- id: quran-3-annunciation-jesus
+  title: The annunciation and the mission of Jesus
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+    with us'')'
+  note: 'Isa 7:14 lākēn yittēn ʾădōnāy hûʾ lākem ʾôt hinnēh hā-ʿalmâ hārâ wĕ-yōledet bēn wĕ-qārāʾt šĕmô
+    ʿimmānûʾēl: a sign, a young woman (ʿalmâ, not specifically ''virgin'') pregnant with a son whom she
+    names; Q 3:45, 47 yā maryamu inna llāha yubashshiruki bi-kalimatin minhu smuhu l-masīḥu ... qālat
+    rabbi annā yakūnu lī waladun wa-lam yamsasnī basharun: a son announced to Mary, named by God, conceived
+    without a man. Lead only: the virgin reading of Isa 7:14 comes from the LXX (parthenos) and Matt 1:23
+    (cf.), not from the Hebrew.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 7:14
+      lang: he
+      text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
+        שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 3:45
+      lang: ar
+      text: إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ
+        ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ
+    - ref: Quran 3:47
+      lang: ar
+      text: قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ كَذَٰلِكِ ٱللَّهُ
+        يَخْلُقُ مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ
 ---
 
 ## Questions

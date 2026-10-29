@@ -2,8 +2,7 @@
 id: motif-hb-jonah-4-qiqayon-vs-quran-21-prophets-answered
 title: Jonah's anger, the qiqayon plant and God's question ↔ Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun,
   Zechariah and Mary
-summary: 'These two units share 1 motifs: a prophet commissioned by god flees ''from the presence of yhwh''
-  rather than deliver the message [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-flees-from-gods-commission-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 4:1
-  note: 'A prophet commissioned by God flees ''from the presence of YHWH'' rather than deliver the message
-    [divergence between the texts] (Jonah''s anger comes after Nineveh is spared, and he explains his
-    flight from it: wayyiḥar lô ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm.
-    Q joins anger and flight at the start, dhahaba mughāḍiban, without the reason that God is too merciful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֥רַע אֶל יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ
-- tradition: judaism
-  ref: Jonah 4:2
-  note: 'A prophet commissioned by God flees ''from the presence of YHWH'' rather than deliver the message
-    [divergence between the texts] (Jonah''s anger comes after Nineveh is spared, and he explains his
-    flight from it: wayyiḥar lô ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm.
-    Q joins anger and flight at the start, dhahaba mughāḍiban, without the reason that God is too merciful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֨ל אֶל יְהוָ֜ה וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ הֲלוֹא זֶ֣ה דְבָרִ֗י עַד הֱיוֹתִי֙ עַל
-    אַדְמָתִ֔י עַל כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה כִּ֣י יָדַ֗עְתִּי כִּ֤י אַתָּה֙ אֵֽל חַנּ֣וּן
-    וְרַח֔וּם אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב חֶ֔סֶד וְנִחָ֖ם עַל הָרָעָֽה
-- tradition: islam
-  ref: Quran 21:87
-  note: 'A prophet commissioned by God flees ''from the presence of YHWH'' rather than deliver the message
-    [divergence between the texts] (Jonah''s anger comes after Nineveh is spared, and he explains his
-    flight from it: wayyiḥar lô ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm.
-    Q joins anger and flight at the start, dhahaba mughāḍiban, without the reason that God is too merciful.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
-    أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Jonah''s anger comes after Nineveh is spared, and he explains his flight from it: wayyiḥar
-    lô ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm. Q joins anger and
-    flight at the start, dhahaba mughāḍiban, without the reason that God is too merciful.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet commissioned by God flees ''from the presence of YHWH''
     rather than deliver the message [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
+kinds:
+- divergence
+units:
+- id: hb-jonah-4-qiqayon
+  title: Jonah's anger, the qiqayon plant and God's question
+  tradition: judaism
+- id: quran-21-prophets-answered
+  title: Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary
+  tradition: islam
+matches:
+- kind: divergence
+  label: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
+  note: 'Jonah''s anger comes after Nineveh is spared, and he explains his flight from it: wayyiḥar lô
+    ... ʿal-kēn qiddamtî librōaḥ taršîšâ kî yādaʿtî kî ʾattâ ʾēl-ḥannûn wəraḥûm. Q joins anger and flight
+    at the start, dhahaba mughāḍiban, without the reason that God is too merciful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 4:1
+      lang: he
+      text: וַיֵּ֥רַע אֶל יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ
+    - ref: Jonah 4:2
+      lang: he
+      text: וַיִּתְפַּלֵּ֨ל אֶל יְהוָ֜ה וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ הֲלוֹא זֶ֣ה דְבָרִ֗י עַד הֱיוֹתִי֙
+        עַל אַדְמָתִ֔י עַל כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה כִּ֣י יָדַ֗עְתִּי כִּ֤י אַתָּה֙
+        אֵֽל חַנּ֣וּן וְרַח֔וּם אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב חֶ֔סֶד וְנִחָ֖ם עַל הָרָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:87
+      lang: ar
+      text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
+        أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

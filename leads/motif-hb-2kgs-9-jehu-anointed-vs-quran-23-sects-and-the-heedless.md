@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-9-jehu-anointed-vs-quran-23-sects-and-the-heedless
 title: Jehu anointed king ↔ One community split into sects; the heedless rich and the God-fearing
-summary: 'These two units share 1 motifs: officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,24 +13,9 @@ layers:
 - motif
 motifs:
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 23:70
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. am yaqūlūna bihi jinnatun ~ maddûaʿ bāʾ ham-məšuggāʿ haz-zeh ʾēlêkā: the messenger dismissed
-    as mad (jinna / məšuggāʿ).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
     (weight 5.1). Pair score 5.1.'
@@ -61,6 +46,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Officers call the visiting prophet 'this madman' (meshugga')
+kinds:
+- echo
+units:
+- id: hb-2kgs-9-jehu-anointed
+  title: Jehu anointed king
+  tradition: judaism
+- id: quran-23-sects-and-the-heedless
+  title: One community split into sects; the heedless rich and the God-fearing
+  tradition: islam
+matches:
+- kind: echo
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  note: 'am yaqūlūna bihi jinnatun ~ maddûaʿ bāʾ ham-məšuggāʿ haz-zeh ʾēlêkā: the messenger dismissed
+    as mad (jinna / məšuggāʿ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:70
+      lang: ar
+      text: أَمْ يَقُولُونَ بِهِۦ جِنَّةٌۢ بَلْ جَآءَهُم بِٱلْحَقِّ وَأَكْثَرُهُمْ لِلْحَقِّ كَٰرِهُونَ
 ---
 
 ## Questions

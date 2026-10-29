@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-20-altar-law-vs-quran-7-children-of-adam
 title: Altar law ↔ Children of Adam - clothing, Satan's enmity, what God forbids
-summary: 'These two units share 1 motifs: nakedness must be covered at the place of worship.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - nakedness-covered-at-worship
-passages:
-- tradition: judaism
-  ref: Exod 20:26
-  note: 'Nakedness must be covered at the place of worship (Nakedness must be covered at the place of
-    worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan
-    yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli masjidin. sawʾa and ʿerwāh are both the private
-    parts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו
-- tradition: islam
-  ref: Quran 7:26
-  note: 'Nakedness must be covered at the place of worship (Nakedness must be covered at the place of
-    worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan
-    yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli masjidin. sawʾa and ʿerwāh are both the private
-    parts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ
-    ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
-- tradition: islam
-  ref: Quran 7:31
-  note: 'Nakedness must be covered at the place of worship (Nakedness must be covered at the place of
-    worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan
-    yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli masjidin. sawʾa and ʿerwāh are both the private
-    parts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟
-    إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Nakedness must be covered at the place of worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî
-    ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli
-    masjidin. sawʾa and ʿerwāh are both the private parts.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nakedness must be covered at the place of worship (weight 6.7).
     Pair score 6.7.'
@@ -76,6 +44,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nakedness must be covered at the place of worship
+kinds:
+- parallel
+units:
+- id: hb-exod-20-altar-law
+  title: Altar law
+  tradition: judaism
+- id: quran-7-children-of-adam
+  title: Children of Adam - clothing, Satan's enmity, what God forbids
+  tradition: islam
+matches:
+- kind: parallel
+  label: Nakedness must be covered at the place of worship
+  note: 'Nakedness must be covered at the place of worship. Exod: wə-lōʾ-taʿăleh və-maʿălōt ʿal-mizbəḥî
+    ʾăšer lōʾ-tiggāleh ʿerwātəkhā ʿālāyw. Q: libāsan yuwārī sawʾātikum ... khudhū zīnatakum ʿinda kulli
+    masjidin. sawʾa and ʿerwāh are both the private parts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:26
+      lang: he
+      text: וְלֹֽא תַעֲלֶ֥ה בְמַעֲלֹ֖ת עַֽל מִזְבְּחִ֑י אֲשֶׁ֛ר לֹֽא תִגָּלֶ֥ה עֶרְוָתְךָ֖ עָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 7:26
+      lang: ar
+      text: يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ
+        ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
+    - ref: Quran 7:31
+      lang: ar
+      text: يَٰبَنِىٓ ءَادَمَ خُذُوا۟ زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا۟ وَٱشْرَبُوا۟ وَلَا تُسْرِفُوٓا۟
+        إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
 ---
 
 ## Questions

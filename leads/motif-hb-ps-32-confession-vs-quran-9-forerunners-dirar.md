@@ -2,7 +2,7 @@
 id: motif-hb-ps-32-confession-vs-quran-9-forerunners-dirar
 title: Psalm 32 - happy is he whose sin is forgiven ↔ The forerunners, alms that purify, and the mosque
   of harm
-summary: 'These two units share 1 motifs: the sinner must confess the sin he committed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - confession-of-sin
-passages:
-- tradition: judaism
-  ref: Ps 32:5
-  note: The sinner must confess the sin he committed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חַטָּאתִ֨י אוֹדִ֪יעֲךָ֡ וַעֲוֺ֘נִ֤י לֹֽא כִסִּ֗יתִי אָמַ֗רְתִּי אוֹדֶ֤ה עֲלֵ֣י פְ֭שָׁעַי לַיהוָ֑ה
-    וְאַתָּ֨ה נָ֘שָׂ֤אתָ עֲוֺ֖ן חַטָּאתִ֣י סֶֽלָה
-- tradition: islam
-  ref: Quran 9:102
-  note: The sinner must confess the sin he committed (they confessed, mixing good and bad deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ
-    أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Confession followed by God''s forgiveness: wa-ākharūna ʿtarafū bi-dhunūbihim ... ʿasā llāhu
-    an yatūba ʿalayhim inna llāha ghafūrun raḥīm vs ḥaṭṭāʾtî ʾôdîʿăkā waʿăwōnî lōʾ-kissîtî ... wᵉʾattāh
-    nāśāʾtā ʿăwōn ḥaṭṭāʾtî.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 5.8). Pair
     score 5.8.'
@@ -63,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sinner must confess the sin he committed
+kinds:
+- parallel
+units:
+- id: hb-ps-32-confession
+  title: Psalm 32 - happy is he whose sin is forgiven
+  tradition: judaism
+- id: quran-9-forerunners-dirar
+  title: The forerunners, alms that purify, and the mosque of harm
+  tradition: islam
+matches:
+- kind: parallel
+  label: The sinner must confess the sin he committed
+  note: 'Confession followed by God''s forgiveness: wa-ākharūna ʿtarafū bi-dhunūbihim ... ʿasā llāhu an
+    yatūba ʿalayhim inna llāha ghafūrun raḥīm vs ḥaṭṭāʾtî ʾôdîʿăkā waʿăwōnî lōʾ-kissîtî ... wᵉʾattāh nāśāʾtā
+    ʿăwōn ḥaṭṭāʾtî.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 32:5
+      lang: he
+      text: חַטָּאתִ֨י אוֹדִ֪יעֲךָ֡ וַעֲוֺ֘נִ֤י לֹֽא כִסִּ֗יתִי אָמַ֗רְתִּי אוֹדֶ֤ה עֲלֵ֣י פְ֭שָׁעַי לַיהוָ֑ה
+        וְאַתָּ֨ה נָ֘שָׂ֤אתָ עֲוֺ֖ן חַטָּאתִ֣י סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:102
+      lang: ar
+      text: وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى
+        ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

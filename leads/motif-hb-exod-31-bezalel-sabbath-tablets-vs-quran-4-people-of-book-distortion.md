@@ -2,8 +2,7 @@
 id: motif-hb-exod-31-bezalel-sabbath-tablets-vs-quran-4-people-of-book-distortion
 title: Bezalel and Oholiab; Sabbath as sign; the tablets ↔ Shifted words, 'we hear and disobey', and the
   people of the Sabbath
-summary: 'These two units share 1 motifs: those who violate the sabbath are punished (executed, cut off,
-  cursed or transformed) [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - sabbath-violation-punished-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 31:14
-  note: 'Those who violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence
-    between the texts] (HB: məḥalləlêhā môt yûmāt ... wə-nikhrətāh ha-nefeš (execution by the community
-    and being ''cut off''). Q: aw nalʿanahum kamā laʿannā aṣḥāba l-sabt, a curse by God (and transformation
-    into apes, 2:65 and 5:60). No HB story tells of a transformation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁמַרְתֶּם֙ אֶת הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֨יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל
-    הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 4:47
-  note: 'Those who violate the Sabbath are punished (executed, cut off, cursed or transformed) [divergence
-    between the texts] (HB: məḥalləlêhā môt yûmāt ... wə-nikhrətāh ha-nefeš (execution by the community
-    and being ''cut off''). Q: aw nalʿanahum kamā laʿannā aṣḥāba l-sabt, a curse by God (and transformation
-    into apes, 2:65 and 5:60). No HB story tells of a transformation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم
-    مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا لَعَنَّآ
-    أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. HB: məḥalləlêhā môt yûmāt ... wə-nikhrətāh ha-nefeš (execution by the community and being
-    ''cut off''). Q: aw nalʿanahum kamā laʿannā aṣḥāba l-sabt, a curse by God (and transformation into
-    apes, 2:65 and 5:60). No HB story tells of a transformation.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who violate the Sabbath are punished (executed, cut off, cursed
     or transformed) [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -73,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who violate the Sabbath are punished (executed, cut off, cursed or transformed)
+kinds:
+- divergence
+units:
+- id: hb-exod-31-bezalel-sabbath-tablets
+  title: Bezalel and Oholiab; Sabbath as sign; the tablets
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: divergence
+  label: Those who violate the Sabbath are punished (executed, cut off, cursed or transformed)
+  note: 'HB: məḥalləlêhā môt yûmāt ... wə-nikhrətāh ha-nefeš (execution by the community and being ''cut
+    off''). Q: aw nalʿanahum kamā laʿannā aṣḥāba l-sabt, a curse by God (and transformation into apes,
+    2:65 and 5:60). No HB story tells of a transformation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 31:14
+      lang: he
+      text: וּשְׁמַרְתֶּם֙ אֶת הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֨יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י
+        כָּל הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:47
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ ءَامِنُوا۟ بِمَا نَزَّلْنَا مُصَدِّقًا لِّمَا مَعَكُم
+        مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلَىٰٓ أَدْبَارِهَآ أَوْ نَلْعَنَهُمْ كَمَا
+        لَعَنَّآ أَصْحَٰبَ ٱلسَّبْتِ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
 ---
 
 ## Questions

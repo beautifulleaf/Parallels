@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-8-stork-and-lying-pen-vs-quran-2-polemic-israel
 title: The stork knows its seasons; the lying pen of the scribes ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: woe to those who write the book with their own hands and say
-  it is from god, for a small price.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - writing-scripture-with-own-hands
-passages:
-- tradition: judaism
-  ref: Jer 8:8
-  note: 'Woe to those who write the book with their own hands and say it is from God, for a small price
-    (Jer 8:8 ʾêkâ tōʾmĕrû ḥăkāmîm ʾănaḥnû wĕ-tôrat YHWH ʾittānû ʾākēn hinnēh la-šeqer ʿāśâ ʿēṭ šeqer sōpĕrîm:
-    those who claim to have God''s Torah, made false by the lying pen of the scribes; Q 2:79 fa-waylun
-    li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi: woe to those who
-    write the book with their own hands and say it is from God. Both attack written falsification of God''s
-    law by those who own it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיכָ֤ה תֹֽאמְרוּ֙ חֲכָמִ֣ים אֲנַ֔חְנוּ וְתוֹרַ֥ת יְהוָ֖ה אִתָּ֑נוּ אָכֵן֙ הִנֵּ֣ה לַשֶּׁ֣קֶר
-    עָשָׂ֔ה עֵ֖ט שֶׁ֥קֶר סֹפְרִֽים
-- tradition: islam
-  ref: Quran 2:79
-  note: Woe to those who write the book with their own hands and say it is from God, for a small price
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ ٱللَّهِ
-    لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ لَّهُم
-    مِّمَّا يَكْسِبُونَ
-- tradition: islam
-  ref: Quran 2:78
-  note: Woe to those who write the book with their own hands and say it is from God, for a small price
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Jer 8:8 ʾêkâ tōʾmĕrû ḥăkāmîm ʾănaḥnû wĕ-tôrat YHWH ʾittānû ʾākēn hinnēh la-šeqer ʿāśâ ʿēṭ
-    šeqer sōpĕrîm: those who claim to have God''s Torah, made false by the lying pen of the scribes; Q
-    2:79 fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi: woe
-    to those who write the book with their own hands and say it is from God. Both attack written falsification
-    of God''s law by those who own it.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who write the book with their own hands and say it
     is from God, for a small price (weight 6.7). Pair score 6.7.'
@@ -81,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to those who write the book with their own hands and say it is from God, for a small price
+kinds:
+- parallel
+units:
+- id: hb-jer-8-stork-and-lying-pen
+  title: The stork knows its seasons; the lying pen of the scribes
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: parallel
+  label: Woe to those who write the book with their own hands and say it is from God, for a small price
+  note: 'Jer 8:8 ʾêkâ tōʾmĕrû ḥăkāmîm ʾănaḥnû wĕ-tôrat YHWH ʾittānû ʾākēn hinnēh la-šeqer ʿāśâ ʿēṭ šeqer
+    sōpĕrîm: those who claim to have God''s Torah, made false by the lying pen of the scribes; Q 2:79
+    fa-waylun li-lladhīna yaktubūna l-kitāba bi-aydīhim thumma yaqūlūna hādhā min ʿindi llāhi: woe to
+    those who write the book with their own hands and say it is from God. Both attack written falsification
+    of God''s law by those who own it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 8:8
+      lang: he
+      text: אֵיכָ֤ה תֹֽאמְרוּ֙ חֲכָמִ֣ים אֲנַ֔חְנוּ וְתוֹרַ֥ת יְהוָ֖ה אִתָּ֑נוּ אָכֵן֙ הִנֵּ֣ה לַשֶּׁ֣קֶר
+        עָשָׂ֔ה עֵ֖ט שֶׁ֥קֶר סֹפְרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:78
+      lang: ar
+      text: وَمِنْهُمْ أُمِّيُّونَ لَا يَعْلَمُونَ ٱلْكِتَٰبَ إِلَّآ أَمَانِىَّ وَإِنْ هُمْ إِلَّا يَظُنُّونَ
+    - ref: Quran 2:79
+      lang: ar
+      text: فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَٰبَ بِأَيْدِيهِمْ ثُمَّ يَقُولُونَ هَٰذَا مِنْ عِندِ
+        ٱللَّهِ لِيَشْتَرُوا۟ بِهِۦ ثَمَنًا قَلِيلًا فَوَيْلٌ لَّهُم مِّمَّا كَتَبَتْ أَيْدِيهِمْ وَوَيْلٌ
+        لَّهُم مِّمَّا يَكْسِبُونَ
 ---
 
 ## Questions

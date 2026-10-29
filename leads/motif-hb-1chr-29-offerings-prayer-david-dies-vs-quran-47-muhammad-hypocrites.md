@@ -2,8 +2,7 @@
 id: motif-hb-1chr-29-offerings-prayer-david-dies-vs-quran-47-muhammad-hypocrites
 title: Free-will gifts, David's doxology, Solomon enthroned again, David's death ↔ The sick-hearted faint
   at the call to fight; locks on hearts; the twist of speech; God rich, you poor
-summary: 'These two units share 1 motifs: god is the rich (al-ghani) and you are the poor; the miser is
-  miserly only against himself.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - god-rich-you-poor
-passages:
-- tradition: judaism
-  ref: 1Chr 29:14
-  note: 'God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself (Gifts
-    to God are only his own returned: kî mimməḵā hak-kōl û-miy-yāḏəḵā nāṯannû lāḵ vs. wa-man yabkhal fa-innamā
-    yabkhalu ʿan nafsihi wa-llāhu l-ghaniyyu wa-antumu l-fuqarāʾ. David''s people give freely; the Quran''s
-    hypocrites hold back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִ֨י מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י כִּֽי נַעְצֹ֣ר כֹּ֔חַ לְהִתְנַדֵּ֖ב כָּזֹ֑את כִּֽי מִמְּךָ֣
-    הַכֹּ֔ל וּמִיָּדְךָ֖ נָתַ֥נּוּ לָֽךְ
-- tradition: islam
-  ref: Quran 47:38
-  note: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ وَمَن
-    يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ وَإِن تَتَوَلَّوْا۟
-    يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Gifts to God are only his own returned: kî mimməḵā hak-kōl û-miy-yāḏəḵā nāṯannû lāḵ vs. wa-man
-    yabkhal fa-innamā yabkhalu ʿan nafsihi wa-llāhu l-ghaniyyu wa-antumu l-fuqarāʾ. David''s people give
-    freely; the Quran''s hypocrites hold back.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is the Rich (al-ghani) and you are the poor; the miser is miserly
     only against himself (weight 5.8). Pair score 5.8.'
@@ -75,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
+kinds:
+- echo
+units:
+- id: hb-1chr-29-offerings-prayer-david-dies
+  title: Free-will gifts, David's doxology, Solomon enthroned again, David's death
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: echo
+  label: God is the Rich (al-ghani) and you are the poor; the miser is miserly only against himself
+  note: 'Gifts to God are only his own returned: kî mimməḵā hak-kōl û-miy-yāḏəḵā nāṯannû lāḵ vs. wa-man
+    yabkhal fa-innamā yabkhalu ʿan nafsihi wa-llāhu l-ghaniyyu wa-antumu l-fuqarāʾ. David''s people give
+    freely; the Quran''s hypocrites hold back.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 29:14
+      lang: he
+      text: וְכִ֨י מִ֤י אֲנִי֙ וּמִ֣י עַמִּ֔י כִּֽי נַעְצֹ֣ר כֹּ֔חַ לְהִתְנַדֵּ֖ב כָּזֹ֑את כִּֽי מִמְּךָ֣
+        הַכֹּ֔ל וּמִיָּדְךָ֖ נָתַ֥נּוּ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:38
+      lang: ar
+      text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ
+        وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ
+        وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
 ---
 
 ## Questions

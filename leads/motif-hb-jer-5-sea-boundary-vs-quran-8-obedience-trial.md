@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-5-sea-boundary-vs-quran-8-obedience-trial
 title: The sea's sand boundary; houses full of deceit ↔ Deaf and dumb beasts, heart and trial
-summary: 'These two units share 1 motifs: a foolish people who have eyes but do not see and ears but do
-  not hear.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - eyes-that-do-not-see
-passages:
-- tradition: judaism
-  ref: Jer 5:21
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
-    וְלֹ֥א יִשְׁמָֽעוּ
-- tradition: islam
-  ref: Quran 8:21
-  note: A foolish people who have eyes but do not see and ears but do not hear ('we hear' but do not hear;
-    worst of beasts are the deaf and dumb)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
-- tradition: islam
-  ref: Quran 8:22
-  note: A foolish people who have eyes but do not see and ears but do not hear ('we hear' but do not hear;
-    worst of beasts are the deaf and dumb)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Hearing that does not hear and a people without understanding: qālū samiʿnā wa-hum lā yasmaʿūna;
-    aṣ-ṣummu l-bukmu lladhīna lā yaʿqilūn vs ʿam sākāl wᵉʾên lēb ... ʾoznayim lāhem wᵉlōʾ yišmāʿû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
     hear (weight 5.4). Pair score 5.4.'
@@ -66,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foolish people who have eyes but do not see and ears but do not hear
+kinds:
+- echo
+units:
+- id: hb-jer-5-sea-boundary
+  title: The sea's sand boundary; houses full of deceit
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: echo
+  label: A foolish people who have eyes but do not see and ears but do not hear
+  note: 'Hearing that does not hear and a people without understanding: qālū samiʿnā wa-hum lā yasmaʿūna;
+    aṣ-ṣummu l-bukmu lladhīna lā yaʿqilūn vs ʿam sākāl wᵉʾên lēb ... ʾoznayim lāhem wᵉlōʾ yišmāʿû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 5:21
+      lang: he
+      text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
+        וְלֹ֥א יִשְׁמָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:21
+      lang: ar
+      text: وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ
+    - ref: Quran 8:22
+      lang: ar
+      text: إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلْبُكْمُ ٱلَّذِينَ لَا يَعْقِلُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Ha-Mim: the blessed night and the day of
   the smoke'
-summary: 'These two units share 1 motifs: the king breaks his promise to release the people once a plague
-  is lifted.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-deceives-again
-passages:
-- tradition: judaism
-  ref: Exod 8:25
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר הֶעָרֹ֗ב
-    מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙ שַׁלַּ֣ח אֶת
-    הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
-- tradition: judaism
-  ref: Exod 8:28
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 44:12
-  note: 'The king breaks his promise to release the people once a plague is lifted (the generic pattern:
-    ''remove the punishment, we believe'', then relapse)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 44:15
-  note: 'The king breaks his promise to release the people once a plague is lifted (the generic pattern:
-    ''remove the punishment, we believe'', then relapse)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Relief begged, then relapse: haʿtîrû baʿăḏî ... raq ʾal yōsēp̄ parʿōh hāṯēl ... wa-yaḵbēd
-    parʿōh ʾeṯ libbô gam bap-paʿam haz-zōʾṯ vs. rabbanā kshif ʿannā l-ʿadhāba innā muʾminūn ... innā kāshifū
-    l-ʿadhābi qalīlan innakum ʿāʾidūn. Moses already suspects Pharaoh''s deceit (hāṯēl); in the Quran
-    God says beforehand that they will revert. The Pharaoh pattern is applied to the Prophet''s own people.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
     is lifted (weight 5.8). Pair score 5.8.'
@@ -82,6 +49,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king breaks his promise to release the people once a plague is lifted
+kinds:
+- parallel
+units:
+- id: hb-exod-8-plagues-flies-murrain-boils
+  title: 'Plagues 4-6: swarms, pestilence of livestock, boils'
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The king breaks his promise to release the people once a plague is lifted
+  note: 'Relief begged, then relapse: haʿtîrû baʿăḏî ... raq ʾal yōsēp̄ parʿōh hāṯēl ... wa-yaḵbēd parʿōh
+    ʾeṯ libbô gam bap-paʿam haz-zōʾṯ vs. rabbanā kshif ʿannā l-ʿadhāba innā muʾminūn ... innā kāshifū
+    l-ʿadhābi qalīlan innakum ʿāʾidūn. Moses already suspects Pharaoh''s deceit (hāṯēl); in the Quran
+    God says beforehand that they will revert. The Pharaoh pattern is applied to the Prophet''s own people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:24
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֗ה אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ וּזְבַחְתֶּ֞ם לַיהוָ֤ה אֱלֹֽהֵיכֶם֙ בַּמִּדְבָּ֔ר
+        רַ֛ק הַרְחֵ֥ק לֹא תַרְחִ֖יקוּ לָלֶ֑כֶת הַעְתִּ֖ירוּ בַּעֲדִֽי
+    - ref: Exod 8:25
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר
+        הֶעָרֹ֗ב מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙
+        שַׁלַּ֣ח אֶת הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:12
+      lang: ar
+      text: رَّبَّنَا ٱكْشِفْ عَنَّا ٱلْعَذَابَ إِنَّا مُؤْمِنُونَ
+    - ref: Quran 44:15
+      lang: ar
+      text: إِنَّا كَاشِفُوا۟ ٱلْعَذَابِ قَلِيلًا إِنَّكُمْ عَآئِدُونَ
 ---
 
 ## Questions

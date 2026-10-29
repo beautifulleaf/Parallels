@@ -2,9 +2,7 @@
 id: motif-hb-mic-3-rulers-and-prophets-vs-quran-34-affluent-and-angels
 title: Cannibal rulers, hireling prophets and Zion plowed as a field ↔ The affluent reject warners; angels
   disown jinn-worshippers; the prophet is not mad
-summary: 'These two units share 2 motifs: whether a prophet takes payment for his message [contrast between
-  the texts], every town''s affluent ones (mutrafun) reject the warner, boasting ''we have more wealth
-  and children; we will not be punished''.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,57 +16,9 @@ layers:
 motifs:
 - payment-of-prophets-as-contrast
 - affluent-reject-every-warner
-passages:
-- tradition: judaism
-  ref: Mic 3:11
-  note: 'Whether a prophet takes payment for his message [contrast between the texts] (û-nəḇîʾêhā bə-ḵesep̄
-    yiqsōmû (her prophets divine for silver) vs. qul mā saʾaltukum min ajrin fa-huwa lakum in ajriya illā
-    ʿalā llāh: the hireling prophet against the messenger who asks no wage.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ
-    וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ רָעָֽה
-- tradition: islam
-  ref: Quran 34:47
-  note: 'Whether a prophet takes payment for his message [contrast between the texts] (û-nəḇîʾêhā bə-ḵesep̄
-    yiqsōmû (her prophets divine for silver) vs. qul mā saʾaltukum min ajrin fa-huwa lakum in ajriya illā
-    ʿalā llāh: the hireling prophet against the messenger who asks no wage.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ عَلَىٰ
-    كُلِّ شَىْءٍ شَهِيدٌ
-- tradition: judaism
-  ref: Mic 3:11
-  note: 'Every town''s affluent ones (mutrafun) reject the warner, boasting ''we have more wealth and
-    children; we will not be punished'' (wə-ʿal-YHWH yiššāʿēnû lēʾmōr hălôʾ YHWH bə-qirbēnû lōʾ-ṯāḇôʾ
-    ʿālênû rāʿâ vs. wa-mā naḥnu bi-muʿadhdhabīn: the comfortable elite''s confidence that disaster will
-    not come. In Micah the confidence rests on God''s presence, in the Quran on wealth and sons.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ
-    וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ רָעָֽה
-- tradition: islam
-  ref: Quran 34:34
-  note: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
-    we will not be punished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم
-    بِهِۦ كَٰفِرُونَ
-- tradition: islam
-  ref: Quran 34:35
-  note: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
-    we will not be punished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast, echo. wə-ʿal-YHWH yiššāʿēnû lēʾmōr hălôʾ YHWH bə-qirbēnû lōʾ-ṯāḇôʾ ʿālênû rāʿâ vs. wa-mā
-    naḥnu bi-muʿadhdhabīn: the comfortable elite''s confidence that disaster will not come. In Micah the
-    confidence rests on God''s presence, in the Quran on wealth and sons. û-nəḇîʾêhā bə-ḵesep̄ yiqsōmû
-    (her prophets divine for silver) vs. qul mā saʾaltukum min ajrin fa-huwa lakum in ajriya illā ʿalā
-    llāh: the hireling prophet against the messenger who asks no wage.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet takes payment for his message [contrast between
     the texts] (weight 6.7); Every town''s affluent ones (mutrafun) reject the warner, boasting ''we have
@@ -103,6 +53,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether a prophet takes payment for his message
+kinds:
+- contrast
+- echo
+units:
+- id: hb-mic-3-rulers-and-prophets
+  title: Cannibal rulers, hireling prophets and Zion plowed as a field
+  tradition: judaism
+- id: quran-34-affluent-and-angels
+  title: The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether a prophet takes payment for his message
+  note: 'û-nəḇîʾêhā bə-ḵesep̄ yiqsōmû (her prophets divine for silver) vs. qul mā saʾaltukum min ajrin
+    fa-huwa lakum in ajriya illā ʿalā llāh: the hireling prophet against the messenger who asks no wage.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 3:11
+      lang: he
+      text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף
+        יִקְסֹ֑מוּ וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ
+        רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 34:47
+      lang: ar
+      text: قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ
+        عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+- kind: echo
+  label: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
+    we will not be punished'
+  note: 'wə-ʿal-YHWH yiššāʿēnû lēʾmōr hălôʾ YHWH bə-qirbēnû lōʾ-ṯāḇôʾ ʿālênû rāʿâ vs. wa-mā naḥnu bi-muʿadhdhabīn:
+    the comfortable elite''s confidence that disaster will not come. In Micah the confidence rests on
+    God''s presence, in the Quran on wealth and sons.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 3:11
+      lang: he
+      text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף
+        יִקְסֹ֑מוּ וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ
+        רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 34:35
+      lang: ar
+      text: وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-60-mumtahana-abrahams-example-and-the-womens-pledge
 title: 'Covenant Code - justice, enemy''s animal, sabbatical year, festivals ↔ Al-Mumtahana: no affection
   for God''s enemies, Abraham''s excellent example, examining emigrant women, and the women''s pledge'
-summary: 'These two units share 1 motifs: god does not forbid kindness and justice toward those who did
-  not fight you over religion or expel you.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - kindness-to-non-hostile-unbelievers
-passages:
-- tradition: judaism
-  ref: Exod 23:4
-  note: 'God does not forbid kindness and justice toward those who did not fight you over religion or
-    expel you (Decency toward an enemy: kî ṯip̄gaʿ šôr ʾōyiḇḵā ... hāšēḇ təšîḇennû lô; kî ṯirʾeh ḥămôr
-    śōnaʾăḵā ... ʿāzōḇ taʿăzōḇ ʿimmô vs. lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni ...
-    an tabarrūhum wa-tuqsiṭū ilayhim. Exodus commands help even to the enemy; the Quran permits kindness
-    and justice to non-hostile unbelievers but forbids alliance with those who fought and expelled the
-    believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ
-- tradition: judaism
-  ref: Exod 23:5
-  note: 'God does not forbid kindness and justice toward those who did not fight you over religion or
-    expel you (Decency toward an enemy: kî ṯip̄gaʿ šôr ʾōyiḇḵā ... hāšēḇ təšîḇennû lô; kî ṯirʾeh ḥămôr
-    śōnaʾăḵā ... ʿāzōḇ taʿăzōḇ ʿimmô vs. lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni ...
-    an tabarrūhum wa-tuqsiṭū ilayhim. Exodus commands help even to the enemy; the Quran permits kindness
-    and justice to non-hostile unbelievers but forbids alliance with those who fought and expelled the
-    believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
-    תַּעֲזֹ֖ב עִמּֽוֹ
-- tradition: islam
-  ref: Quran 60:7
-  note: God does not forbid kindness and justice toward those who did not fight you over religion or expel
-    you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً وَٱللَّهُ
-    قَدِيرٌ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
-- tradition: islam
-  ref: Quran 60:8
-  note: God does not forbid kindness and justice toward those who did not fight you over religion or expel
-    you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم
-    مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Decency toward an enemy: kî ṯip̄gaʿ šôr ʾōyiḇḵā ... hāšēḇ təšîḇennû lô; kî ṯirʾeh ḥămôr śōnaʾăḵā
-    ... ʿāzōḇ taʿăzōḇ ʿimmô vs. lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni ... an tabarrūhum
-    wa-tuqsiṭū ilayhim. Exodus commands help even to the enemy; the Quran permits kindness and justice
-    to non-hostile unbelievers but forbids alliance with those who fought and expelled the believers.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not forbid kindness and justice toward those who did not
     fight you over religion or expel you (weight 6.7). Pair score 6.7.'
@@ -99,6 +55,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not forbid kindness and justice toward those who did not fight you over religion or
+  expel you
+kinds:
+- echo
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: echo
+  label: God does not forbid kindness and justice toward those who did not fight you over religion or
+    expel you
+  note: 'Decency toward an enemy: kî ṯip̄gaʿ šôr ʾōyiḇḵā ... hāšēḇ təšîḇennû lô; kî ṯirʾeh ḥămôr śōnaʾăḵā
+    ... ʿāzōḇ taʿăzōḇ ʿimmô vs. lā yanhākumu llāhu ʿani lladhīna lam yuqātilūkum fī d-dīni ... an tabarrūhum
+    wa-tuqsiṭū ilayhim. Exodus commands help even to the enemy; the Quran permits kindness and justice
+    to non-hostile unbelievers but forbids alliance with those who fought and expelled the believers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:4
+      lang: he
+      text: כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ
+    - ref: Exod 23:5
+      lang: he
+      text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
+        תַּעֲזֹ֖ב עִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 60:7
+      lang: ar
+      text: عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةً وَٱللَّهُ
+        قَدِيرٌ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    - ref: Quran 60:8
+      lang: ar
+      text: لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم
+        مِّن دِيَٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
 ---
 
 ## Questions

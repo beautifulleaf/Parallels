@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-119-alef-he-vs-quran-3-revelation
 title: Psalm 119, stanzas alef to he ↔ Torah, Gospel and the clear and ambiguous verses
-summary: 'These two units share 1 motifs: prayer that god not turn (incline) the petitioner''s heart aside,
-  but toward his way.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-god-not-turn-heart-astray
-passages:
-- tradition: judaism
-  ref: Ps 119:36
-  note: 'Prayer that God not turn (incline) the petitioner''s heart aside, but toward his way (Ps 119:36
-    haṭ libbî ʾel ʿēdĕwōtêkā wĕ-ʾal ʾel bāṣaʿ: incline my heart to your testimonies, not to gain; Q 3:8
-    lā tuzigh qulūbanā baʿda idh hadaytanā wa-hab lanā min ladunka raḥmatan.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַט לִ֭בִּי אֶל עֵדְוֺתֶ֗יךָ וְאַ֣ל אֶל בָּֽצַע
-- tradition: islam
-  ref: Quran 3:8
-  note: 'Prayer that God not turn (incline) the petitioner''s heart aside, but toward his way (Ps 141:4
-    ʾal taṭ libbî lĕ-dābār rāʿ: ''do not incline my heart to an evil thing''; Q 3:8 rabbanā lā tuzigh
-    qulūbanā baʿda idh hadaytanā: ''our Lord, do not let our hearts swerve after you have guided us''.
-    A petition that God not turn the heart aside, singular in the psalm, plural in the Quran, linked to
-    the deviant hearts (zaygh) of 3:7.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ
-    أَنتَ ٱلْوَهَّابُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 119:36 haṭ libbî ʾel ʿēdĕwōtêkā wĕ-ʾal ʾel bāṣaʿ: incline my heart to your testimonies, not
-    to gain; Q 3:8 lā tuzigh qulūbanā baʿda idh hadaytanā wa-hab lanā min ladunka raḥmatan.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer that God not turn (incline) the petitioner''s heart aside,
     but toward his way (weight 6.3). Pair score 6.3.'
@@ -68,6 +46,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer that God not turn (incline) the petitioner's heart aside, but toward his way
+kinds:
+- echo
+units:
+- id: hb-ps-119-alef-he
+  title: Psalm 119, stanzas alef to he
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer that God not turn (incline) the petitioner's heart aside, but toward his way
+  note: 'Ps 119:36 haṭ libbî ʾel ʿēdĕwōtêkā wĕ-ʾal ʾel bāṣaʿ: incline my heart to your testimonies, not
+    to gain; Q 3:8 lā tuzigh qulūbanā baʿda idh hadaytanā wa-hab lanā min ladunka raḥmatan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:36
+      lang: he
+      text: הַט לִ֭בִּי אֶל עֵדְוֺתֶ֗יךָ וְאַ֣ל אֶל בָּֽצַע
+  - tradition: islam
+    passages:
+    - ref: Quran 3:8
+      lang: ar
+      text: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً
+        إِنَّكَ أَنتَ ٱلْوَهَّابُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-dan-7-four-beasts-son-of-man-vs-quran-27-israel-beast-trumpet
 title: The four beasts, the Ancient of Days and one like a son of man ↔ The Quran and Israel's disputes;
   the beast of the earth, the trumpet and the sacred town
-summary: 'These two units share 2 motifs: a beast of the end time that speaks [divergence between the
-  texts], the heavenly court sits in judgment and the books are opened.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,80 +16,9 @@ layers:
 motifs:
 - speaking-beast-of-the-end-as-divergence
 - court-sits-books-opened
-passages:
-- tradition: judaism
-  ref: Dan 7:8
-  note: 'A beast of the end time that speaks [divergence between the texts] (An end-time beast that speaks:
-    Daniel''s beasts rise from the sea (and ''kings arising from the earth'', yəqûmûn min ʾarʿāʾ, 7:17),
-    and the horn has a mouth speaking great things (û-fum məmallil ravrəvān) against the Most High; the
-    Quran''s dābbatan mina l-arḍi tukallimuhum speaks for God, telling people they did not believe God''s
-    signs. The beast''s speech moves from blasphemy to indictment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִשְׂתַּכַּ֨ל הֲוֵ֜ית בְּקַרְנַיָּ֗א וַ֠אֲלוּ קֶ֣רֶן אָחֳרִ֤י זְעֵירָה֙ סִלְקָ֣ת ביניהון בֵּֽינֵיהֵ֔ן
-    וּתְלָ֗ת מִן קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א אתעקרו אֶתְעֲקַ֖רָה מִן קדמיה קֳדָמַ֑הּ וַאֲל֨וּ עַיְנִ֜ין
-    כְּעַיְנֵ֤י אֲנָשָׁא֙ בְּקַרְנָא דָ֔א וּפֻ֖ם מְמַלִּ֥ל רַבְרְבָֽן
-- tradition: judaism
-  ref: Dan 7:17
-  note: 'A beast of the end time that speaks [divergence between the texts] (An end-time beast that speaks:
-    Daniel''s beasts rise from the sea (and ''kings arising from the earth'', yəqûmûn min ʾarʿāʾ, 7:17),
-    and the horn has a mouth speaking great things (û-fum məmallil ravrəvān) against the Most High; the
-    Quran''s dābbatan mina l-arḍi tukallimuhum speaks for God, telling people they did not believe God''s
-    signs. The beast''s speech moves from blasphemy to indictment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן מִן
-    אַרְעָֽא
-- tradition: islam
-  ref: Quran 27:82
-  note: 'A beast of the end time that speaks [divergence between the texts] (An end-time beast that speaks:
-    Daniel''s beasts rise from the sea (and ''kings arising from the earth'', yəqûmûn min ʾarʿāʾ, 7:17),
-    and the horn has a mouth speaking great things (û-fum məmallil ravrəvān) against the Most High; the
-    Quran''s dābbatan mina l-arḍi tukallimuhum speaks for God, telling people they did not believe God''s
-    signs. The beast''s speech moves from blasphemy to indictment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ
-    أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَٰتِنَا لَا يُوقِنُونَ
-- tradition: judaism
-  ref: Dan 7:10
-  note: The heavenly court sits in judgment and the books are opened
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ
-    רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
-- tradition: judaism
-  ref: Dan 7:26
-  note: The heavenly court sits in judgment and the books are opened
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדּ֔וֹן לְהַשְׁמָדָ֥ה וּלְהוֹבָדָ֖ה עַד סוֹפָֽא
-- tradition: islam
-  ref: Quran 27:83
-  note: 'The heavenly court sits in judgment and the books are opened (wa-yawma naḥshuru min kulli ummatin
-    fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv wə-sifrîn pətîḥû: an end-time judgment assembly;
-    Daniel judges the beast-kingdoms, the Quran a contingent from every nation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمْ يُوزَعُونَ
-- tradition: islam
-  ref: Quran 27:84
-  note: 'The heavenly court sits in judgment and the books are opened (wa-yawma naḥshuru min kulli ummatin
-    fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv wə-sifrîn pətîḥû: an end-time judgment assembly;
-    Daniel judges the beast-kingdoms, the Quran a contingent from every nation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا
-    كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, echo. An end-time beast that speaks: Daniel''s beasts rise from the sea (and ''kings arising
-    from the earth'', yəqûmûn min ʾarʿāʾ, 7:17), and the horn has a mouth speaking great things (û-fum
-    məmallil ravrəvān) against the Most High; the Quran''s dābbatan mina l-arḍi tukallimuhum speaks for
-    God, telling people they did not believe God''s signs. The beast''s speech moves from blasphemy to
-    indictment. wa-yawma naḥshuru min kulli ummatin fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv
-    wə-sifrîn pətîḥû: an end-time judgment assembly; Daniel judges the beast-kingdoms, the Quran a contingent
-    from every nation.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A beast of the end time that speaks [divergence between the texts]
     (weight 6.7); The heavenly court sits in judgment and the books are opened (weight 6.0). Pair score
@@ -125,6 +53,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A beast of the end time that speaks
+kinds:
+- divergence
+- echo
+units:
+- id: hb-dan-7-four-beasts-son-of-man
+  title: The four beasts, the Ancient of Days and one like a son of man
+  tradition: judaism
+- id: quran-27-israel-beast-trumpet
+  title: The Quran and Israel's disputes; the beast of the earth, the trumpet and the sacred town
+  tradition: islam
+matches:
+- kind: divergence
+  label: A beast of the end time that speaks
+  note: 'An end-time beast that speaks: Daniel''s beasts rise from the sea (and ''kings arising from the
+    earth'', yəqûmûn min ʾarʿāʾ, 7:17), and the horn has a mouth speaking great things (û-fum məmallil
+    ravrəvān) against the Most High; the Quran''s dābbatan mina l-arḍi tukallimuhum speaks for God, telling
+    people they did not believe God''s signs. The beast''s speech moves from blasphemy to indictment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:8
+      lang: he
+      text: מִשְׂתַּכַּ֨ל הֲוֵ֜ית בְּקַרְנַיָּ֗א וַ֠אֲלוּ קֶ֣רֶן אָחֳרִ֤י זְעֵירָה֙ סִלְקָ֣ת ביניהון בֵּֽינֵיהֵ֔ן
+        וּתְלָ֗ת מִן קַרְנַיָּא֙ קַדְמָ֣יָתָ֔א אתעקרו אֶתְעֲקַ֖רָה מִן קדמיה קֳדָמַ֑הּ וַאֲל֨וּ עַיְנִ֜ין
+        כְּעַיְנֵ֤י אֲנָשָׁא֙ בְּקַרְנָא דָ֔א וּפֻ֖ם מְמַלִּ֥ל רַבְרְבָֽן
+    - ref: Dan 7:17
+      lang: he
+      text: אִלֵּין֙ חֵיוָתָ֣א רַבְרְבָתָ֔א דִּ֥י אִנִּ֖ין אַרְבַּ֑ע אַרְבְּעָ֥ה מַלְכִ֖ין יְקוּמ֥וּן
+        מִן אַרְעָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 27:82
+      lang: ar
+      text: وَإِذَا وَقَعَ ٱلْقَوْلُ عَلَيْهِمْ أَخْرَجْنَا لَهُمْ دَآبَّةً مِّنَ ٱلْأَرْضِ تُكَلِّمُهُمْ
+        أَنَّ ٱلنَّاسَ كَانُوا۟ بِـَٔايَٰتِنَا لَا يُوقِنُونَ
+- kind: echo
+  label: The heavenly court sits in judgment and the books are opened
+  note: 'wa-yawma naḥshuru min kulli ummatin fawjan ... wa-waqaʿa l-qawlu ʿalayhim ~ dînāʾ yətiv wə-sifrîn
+    pətîḥû: an end-time judgment assembly; Daniel judges the beast-kingdoms, the Quran a contingent from
+    every nation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:10
+      lang: he
+      text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ
+        וְרִבּ֥וֹ רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:83
+      lang: ar
+      text: وَيَوْمَ نَحْشُرُ مِن كُلِّ أُمَّةٍ فَوْجًا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمْ يُوزَعُونَ
+    - ref: Quran 27:84
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءُو قَالَ أَكَذَّبْتُم بِـَٔايَٰتِى وَلَمْ تُحِيطُوا۟ بِهَا عِلْمًا أَمَّاذَا
+        كُنتُمْ تَعْمَلُونَ
+    - ref: Quran 27:85
+      lang: ar
+      text: وَوَقَعَ ٱلْقَوْلُ عَلَيْهِم بِمَا ظَلَمُوا۟ فَهُمْ لَا يَنطِقُونَ
 ---
 
 ## Questions

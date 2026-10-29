@@ -2,7 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-24-light-verse
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: storehouses of snow and hail reserved for the day of battle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - storehouses-of-snow-and-hail
-passages:
-- tradition: judaism
-  ref: Job 38:22-23
-  note: Storehouses of snow and hail reserved for the day of battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:22) הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה (38:23) אֲשֶׁר חָשַׂ֥כְתִּי
-    לְעֶת צָ֑ר לְי֥וֹם קְ֝רָ֗ב וּמִלְחָמָֽה
-- tradition: judaism
-  ref: Job 38:22
-  note: Storehouses of snow and hail reserved for the day of battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה
-- tradition: islam
-  ref: Quran 24:43
-  note: Storehouses of snow and hail reserved for the day of battle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
-    فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ
-    فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. min jibālin fīhā min baradin ~ ʾōṣrôt bārād: hail kept in heaven, in ''mountains'' in the Quran,
-    in ''storehouses'' in Job, held back for a day of battle (lə-yôm qərāv) in Job and loosed on whom
-    God wills in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Storehouses of snow and hail reserved for the day of battle (weight
     6.3). Pair score 6.3.'
@@ -79,6 +55,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Storehouses of snow and hail reserved for the day of battle
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: Storehouses of snow and hail reserved for the day of battle
+  note: 'min jibālin fīhā min baradin ~ ʾōṣrôt bārād: hail kept in heaven, in ''mountains'' in the Quran,
+    in ''storehouses'' in Job, held back for a day of battle (lə-yôm qərāv) in Job and loosed on whom
+    God wills in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:22
+      lang: he
+      text: הֲ֭בָאתָ אֶל אֹצְר֣וֹת שָׁ֑לֶג וְאֹצְר֖וֹת בָּרָ֣ד תִּרְאֶֽה
+    - ref: Job 38:23
+      lang: he
+      text: אֲשֶׁר חָשַׂ֥כְתִּי לְעֶת צָ֑ר לְי֥וֹם קְ֝רָ֗ב וּמִלְחָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:43
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
+        فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ
+        بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ
+        بِٱلْأَبْصَٰرِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-24-king-of-glory-vs-quran-23-lordship-arguments
 title: Psalm 24 - lift up your heads, O gates ↔ Who owns the earth? The fables of the ancients and the
   impossibility of many gods
-summary: 'These two units share 1 motifs: wonder done ''so that you may know that the earth belongs to
-  yhwh''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - earth-belongs-to-yhwh
-passages:
-- tradition: judaism
-  ref: Ps 24:1
-  note: Wonder done 'so that you may know that the earth belongs to YHWH'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְדָוִ֗ד מִ֫זְמ֥וֹר לַֽ֭יהוָה הָאָ֣רֶץ וּמְלוֹאָ֑הּ תֵּ֝בֵ֗ל וְיֹ֣שְׁבֵי בָֽהּ
-- tradition: islam
-  ref: Quran 23:84
-  note: 'Wonder done ''so that you may know that the earth belongs to YHWH'' (qul li-mani l-arḍu wa-man
-    fīhā ... sa-yaqūlūna lillāhi ~ la-YHWH hā-ʾāreṣ û-məlôʾāh tēvēl wə-yōšəvê vāh: ''the earth and whoever
-    is in it'' belongs to God, almost word for word. Ps 24 also uses question and answer (mî zeh melekh
-    hak-kāvôd ... YHWH ʿizzûz wə-gibbôr, 24:8); the Quran makes its question a test that the opponents
-    answer themselves.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: islam
-  ref: Quran 23:85
-  note: 'Wonder done ''so that you may know that the earth belongs to YHWH'' (qul li-mani l-arḍu wa-man
-    fīhā ... sa-yaqūlūna lillāhi ~ la-YHWH hā-ʾāreṣ û-məlôʾāh tēvēl wə-yōšəvê vāh: ''the earth and whoever
-    is in it'' belongs to God, almost word for word. Ps 24 also uses question and answer (mî zeh melekh
-    hak-kāvôd ... YHWH ʿizzûz wə-gibbôr, 24:8); the Quran makes its question a test that the opponents
-    answer themselves.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَقُولُونَ لِلَّهِ قُلْ أَفَلَا تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. qul li-mani l-arḍu wa-man fīhā ... sa-yaqūlūna lillāhi ~ la-YHWH hā-ʾāreṣ û-məlôʾāh tēvēl
-    wə-yōšəvê vāh: ''the earth and whoever is in it'' belongs to God, almost word for word. Ps 24 also
-    uses question and answer (mî zeh melekh hak-kāvôd ... YHWH ʿizzûz wə-gibbôr, 24:8); the Quran makes
-    its question a test that the opponents answer themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wonder done ''so that you may know that the earth belongs to YHWH''
     (weight 6.0). Pair score 6.0.'
@@ -79,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wonder done 'so that you may know that the earth belongs to YHWH'
+kinds:
+- parallel
+units:
+- id: hb-ps-24-king-of-glory
+  title: Psalm 24 - lift up your heads, O gates
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wonder done 'so that you may know that the earth belongs to YHWH'
+  note: 'qul li-mani l-arḍu wa-man fīhā ... sa-yaqūlūna lillāhi ~ la-YHWH hā-ʾāreṣ û-məlôʾāh tēvēl wə-yōšəvê
+    vāh: ''the earth and whoever is in it'' belongs to God, almost word for word. Ps 24 also uses question
+    and answer (mî zeh melekh hak-kāvôd ... YHWH ʿizzûz wə-gibbôr, 24:8); the Quran makes its question
+    a test that the opponents answer themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 24:1
+      lang: he
+      text: לְדָוִ֗ד מִ֫זְמ֥וֹר לַֽ֭יהוָה הָאָ֣רֶץ וּמְלוֹאָ֑הּ תֵּ֝בֵ֗ל וְיֹ֣שְׁבֵי בָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:84
+      lang: ar
+      text: قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
+    - ref: Quran 23:85
+      lang: ar
+      text: سَيَقُولُونَ لِلَّهِ قُلْ أَفَلَا تَذَكَّرُونَ
 ---
 
 ## Questions

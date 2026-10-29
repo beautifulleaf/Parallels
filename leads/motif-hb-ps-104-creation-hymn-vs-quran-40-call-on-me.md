@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-40-call-on-me
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ God helps his messengers;
   call on me; the stages of life
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 40:61
-  note: Sun and moon are set to rule day and night and mark signs and seasons (night for rest, day for
-    seeing)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ
-    لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. tāšeṯ-ḥōšeḵ wî-hî lāyəlâ ... yēṣēʾ ʾāḏām lə-p̄āʿŏlô vs. jaʿala lakumu l-layla li-taskunū fīhi
-    wa-n-nahāra mubṣirā: night and day ordered by God, rest and work. In the psalm the night belongs to
-    the beasts; in the Quran it is for human rest.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -77,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-40-call-on-me
+  title: God helps his messengers; call on me; the stages of life
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'tāšeṯ-ḥōšeḵ wî-hî lāyəlâ ... yēṣēʾ ʾāḏām lə-p̄āʿŏlô vs. jaʿala lakumu l-layla li-taskunū fīhi
+    wa-n-nahāra mubṣirā: night and day ordered by God, rest and work. In the psalm the night belongs to
+    the beasts; in the Quran it is for human rest.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 40:61
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ ٱللَّهَ
+        لَذُو فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ
 ---
 
 ## Questions

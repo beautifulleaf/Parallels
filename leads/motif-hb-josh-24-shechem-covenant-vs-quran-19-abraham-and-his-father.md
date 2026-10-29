@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-19-abraham-and-his-father
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Abraham
   pleads with his father (Surah 19:41-50)
-summary: 'These two units share 2 motifs: isaac given, and jacob in addition as an extra gift (nāfila)
-  [divergence between the texts], hero''s father makes, sells or worships idols.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,79 +17,9 @@ layers:
 motifs:
 - grandson-as-extra-gift-as-divergence
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Josh 24:3
-  note: 'Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (wāʾetten-lô
-    ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes
-    Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both to Abraham,
-    as a reward for leaving his people, and drops Esau.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן
-    וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
-- tradition: judaism
-  ref: Josh 24:4
-  note: 'Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (wāʾetten-lô
-    ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes
-    Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both to Abraham,
-    as a reward for leaving his people, and drops Esau.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶתֵּ֣ן לְיִצְחָ֔ק אֶֽת יַעֲקֹ֖ב וְאֶת עֵשָׂ֑ו וָאֶתֵּ֨ן לְעֵשָׂ֜ו אֶת הַ֤ר שֵׂעִיר֙ לָרֶ֣שֶׁת
-    אוֹת֔וֹ וְיַעֲקֹ֥ב וּבָנָ֖יו יָרְד֥וּ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 19:49
-  note: 'Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (wāʾetten-lô
-    ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes
-    Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both to Abraham,
-    as a reward for leaving his people, and drops Esau.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ
-    وَكُلًّا جَعَلْنَا نَبِيًّا
-- tradition: judaism
-  ref: Josh 24:2
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:14-15
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:14) וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת
-    אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
-    (24:15) וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
-    אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
-    הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 19:42
-  note: Hero's father makes, sells or worships idols (what neither hears nor sees)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ
-    شَيْـًٔا
-- tradition: islam
-  ref: Quran 19:46
-  note: Hero's father makes, sells or worships idols (what neither hears nor sees)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ وَٱهْجُرْنِى
-    مَلِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. bəʿēber hannāhār yāšəbû ʾăbôtêkem mēʿôlām teraḥ ʾăbî ʾabrāhām ... wayyaʿabdû
-    ʾĕlōhîm ʾăḥērîm; yā abati lima taʿbudu mā lā yasmaʿu wa-lā yubṣir ... a-rāghibun anta ʿan ālihatī:
-    Abraham''s father worshipped other gods. Josh states it in one line; Q turns it into a dialogue of
-    four pleas and a threat of stoning. wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw;
-    wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac;
-    Q gives Isaac and Jacob both to Abraham, as a reward for leaving his people, and drops Esau.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence
     between the texts] (weight 6.3); Hero''s father makes, sells or worships idols (weight 4.8). Pair
@@ -127,6 +56,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Isaac given, and Jacob in addition as an extra gift (nāfila)
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-19-abraham-and-his-father
+  title: Abraham pleads with his father (Surah 19:41-50)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Isaac given, and Jacob in addition as an extra gift (nāfila)
+  note: 'wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb:
+    the line passes Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both
+    to Abraham, as a reward for leaving his people, and drops Esau.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:3
+      lang: he
+      text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ
+        כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
+    - ref: Josh 24:4
+      lang: he
+      text: וָאֶתֵּ֣ן לְיִצְחָ֔ק אֶֽת יַעֲקֹ֖ב וְאֶת עֵשָׂ֑ו וָאֶתֵּ֨ן לְעֵשָׂ֜ו אֶת הַ֤ר שֵׂעִיר֙ לָרֶ֣שֶׁת
+        אוֹת֔וֹ וְיַעֲקֹ֥ב וּבָנָ֖יו יָרְד֥וּ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 19:49
+      lang: ar
+      text: فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ
+        وَكُلًّا جَعَلْنَا نَبِيًّا
+- kind: parallel
+  label: Hero's father makes, sells or worships idols
+  note: 'bəʿēber hannāhār yāšəbû ʾăbôtêkem mēʿôlām teraḥ ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm;
+    yā abati lima taʿbudu mā lā yasmaʿu wa-lā yubṣir ... a-rāghibun anta ʿan ālihatī: Abraham''s father
+    worshipped other gods. Josh states it in one line; Q turns it into a dialogue of four pleas and a
+    threat of stoning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 19:42
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى
+        عَنكَ شَيْـًٔا
+    - ref: Quran 19:46
+      lang: ar
+      text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ
+        وَٱهْجُرْنِى مَلِيًّا
 ---
 
 ## Questions

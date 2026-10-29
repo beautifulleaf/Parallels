@@ -2,8 +2,7 @@
 id: motif-hb-gen-26-isaac-in-gerar-vs-quran-53-najm-goddesses-and-scrolls
 title: Isaac in Gerar, the wife-sister episode, wells and treaty ↔ Al-Lat, al-'Uzza and Manat; angelic
   intercession; the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: whether abraham had a written revelation, or kept god''s laws
-  unwritten [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-and-written-revelation-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 26:5
-  note: 'Whether Abraham had a written revelation, or kept God''s laws unwritten [divergence between the
-    texts] (Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God''s
-    laws: wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī
-    waffā (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament
-    and Apocalypse of Abraham and Sefer Yetzirah''s attribution to Abraham, outside the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי
-- tradition: islam
-  ref: Quran 53:36
-  note: 'Whether Abraham had a written revelation, or kept God''s laws unwritten [divergence between the
-    texts] (Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God''s
-    laws: wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī
-    waffā (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament
-    and Apocalypse of Abraham and Sefer Yetzirah''s attribution to Abraham, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ
-- tradition: islam
-  ref: Quran 53:37
-  note: 'Whether Abraham had a written revelation, or kept God''s laws unwritten [divergence between the
-    texts] (Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God''s
-    laws: wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī
-    waffā (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament
-    and Apocalypse of Abraham and Sefer Yetzirah''s attribution to Abraham, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God''s
-    laws: wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī
-    waffā (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament
-    and Apocalypse of Abraham and Sefer Yetzirah''s attribution to Abraham, outside the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Abraham had a written revelation, or kept God''s laws unwritten
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether Abraham had a written revelation, or kept God's laws unwritten
+kinds:
+- divergence
+units:
+- id: hb-gen-26-isaac-in-gerar
+  title: Isaac in Gerar, the wife-sister episode, wells and treaty
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether Abraham had a written revelation, or kept God's laws unwritten
+  note: 'Abraham with a written revelation. The HB gives Abraham no scroll, only obedience to God''s laws:
+    wa-yyišmōr mišmartî miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy. The Quran cites ṣuḥufi mūsā wa-ibrāhīma lladhī waffā
+    (the scrolls of Moses and of Abraham who fulfilled), as one source with Moses. cf. the Testament and
+    Apocalypse of Abraham and Sefer Yetzirah''s attribution to Abraham, outside the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 26:5
+      lang: he
+      text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י
+        וְתוֹרֹתָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 53:36
+      lang: ar
+      text: أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ
+    - ref: Quran 53:37
+      lang: ar
+      text: وَإِبْرَٰهِيمَ ٱلَّذِى وَفَّىٰٓ
 ---
 
 ## Questions

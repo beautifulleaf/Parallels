@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-65-new-heavens-new-earth-vs-quran-14-day-of-reckoning
 title: New heavens and a new earth ↔ The day eyes stare and the earth is changed (Surah 14:42-52)
-summary: 'These two units share 1 motifs: on the last day the earth is changed into another earth, and
-  the heavens too.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - earth-changed-into-another-earth
-passages:
-- tradition: judaism
-  ref: Isa 65:17
-  note: On the last day the earth is changed into another earth, and the heavens too (kî-hinnî bôrēʾ šāmayim
-    ḥădāšîm wāʾāreṣ ḥădāšâ; tubaddalu l-arḍu ghayra l-arḍi wa-s-samāwāt. Isa's new creation is a joy for
-    Jerusalem; Q's changed earth is the stage of judgment, with chains and garments of pitch (14:49-50).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הִנְנִ֥י בוֹרֵ֛א שָׁמַ֥יִם חֲדָשִׁ֖ים וָאָ֣רֶץ חֲדָשָׁ֑ה וְלֹ֤א תִזָּכַ֨רְנָה֙ הָרִ֣אשֹׁנ֔וֹת
-    וְלֹ֥א תַעֲלֶ֖ינָה עַל לֵֽב
-- tradition: islam
-  ref: Quran 14:48
-  note: On the last day the earth is changed into another earth, and the heavens too (yawma tubaddalu
-    l-arḍu ghayra l-arḍ wa-l-samāwāt)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. kî-hinnî bôrēʾ šāmayim ḥădāšîm wāʾāreṣ ḥădāšâ; tubaddalu l-arḍu ghayra l-arḍi wa-s-samāwāt.
-    Isa''s new creation is a joy for Jerusalem; Q''s changed earth is the stage of judgment, with chains
-    and garments of pitch (14:49-50).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the last day the earth is changed into another earth, and the
     heavens too (weight 6.3). Pair score 6.3.'
@@ -66,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the last day the earth is changed into another earth, and the heavens too
+kinds:
+- parallel
+units:
+- id: hb-isa-65-new-heavens-new-earth
+  title: New heavens and a new earth
+  tradition: judaism
+- id: quran-14-day-of-reckoning
+  title: The day eyes stare and the earth is changed (Surah 14:42-52)
+  tradition: islam
+matches:
+- kind: parallel
+  label: On the last day the earth is changed into another earth, and the heavens too
+  note: kî-hinnî bôrēʾ šāmayim ḥădāšîm wāʾāreṣ ḥădāšâ; tubaddalu l-arḍu ghayra l-arḍi wa-s-samāwāt. Isa's
+    new creation is a joy for Jerusalem; Q's changed earth is the stage of judgment, with chains and garments
+    of pitch (14:49-50).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:17
+      lang: he
+      text: כִּֽי הִנְנִ֥י בוֹרֵ֛א שָׁמַ֥יִם חֲדָשִׁ֖ים וָאָ֣רֶץ חֲדָשָׁ֑ה וְלֹ֤א תִזָּכַ֨רְנָה֙ הָרִ֣אשֹׁנ֔וֹת
+        וְלֹ֥א תַעֲלֶ֖ינָה עַל לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 14:48
+      lang: ar
+      text: يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ
+        ٱلْقَهَّارِ
 ---
 
 ## Questions

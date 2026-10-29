@@ -2,7 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-53-najm-goddesses-and-scrolls
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Al-Lat, al-'Uzza and Manat; angelic intercession;
   the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: cities overturned (hafakh) and the plain destroyed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +15,9 @@ layers:
 - motif
 motifs:
 - cities-overturned
-passages:
-- tradition: judaism
-  ref: Gen 19:25
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: judaism
-  ref: Gen 19:29
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 53:53
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ
-- tradition: islam
-  ref: Quran 53:54
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَغَشَّىٰهَا مَا غَشَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The ''overturned'' city: wa-yyahăp̄ōḵ ʾeṯ he-ʿārîm hā-ʾēl wə-ʾēṯ kol hak-kikkār vs. wa-l-muʾtafikata
-    ahwā fa-ghashshāhā mā ghashshā. Both use ''overturn'' (h-p-k; ʾ-f-k, al-muʾtafika). The Quran names
-    no city and has it ''hurled down'' (ahwā) and covered.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 5.6).
     Pair score 5.6.'
@@ -83,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Cities overturned (hafakh) and the plain destroyed
+kinds:
+- parallel
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: parallel
+  label: Cities overturned (hafakh) and the plain destroyed
+  note: 'The ''overturned'' city: wa-yyahăp̄ōḵ ʾeṯ he-ʿārîm hā-ʾēl wə-ʾēṯ kol hak-kikkār vs. wa-l-muʾtafikata
+    ahwā fa-ghashshāhā mā ghashshā. Both use ''overturn'' (h-p-k; ʾ-f-k, al-muʾtafika). The Quran names
+    no city and has it ''hurled down'' (ahwā) and covered.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 53:53
+      lang: ar
+      text: وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ
+    - ref: Quran 53:54
+      lang: ar
+      text: فَغَشَّىٰهَا مَا غَشَّىٰ
 ---
 
 ## Questions

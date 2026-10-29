@@ -2,8 +2,7 @@
 id: motif-hb-joel-2-army-and-repentance-vs-quran-88-overwhelming
 title: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration ↔ The overwhelming event:
   dari'' and the carpets of paradise'
-summary: 'These two units share 1 motifs: on that day some faces are radiant, laughing and joyful, others
-  scowling, dust-covered and overcast with darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - radiant-and-darkened-faces
-passages:
-- tradition: judaism
-  ref: Joel 2:6
-  note: 'On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness (wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on
-    the Day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כָּל פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר
-- tradition: islam
-  ref: Quran 88:2
-  note: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ
-- tradition: islam
-  ref: Quran 88:3
-  note: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَامِلَةٌ نَّاصِبَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on the Day.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day some faces are radiant, laughing and joyful, others
     scowling, dust-covered and overcast with darkness (weight 5.8). Pair score 5.8.'
@@ -75,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
+  with darkness
+kinds:
+- echo
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-88-overwhelming
+  title: 'The overwhelming event: dari'' and the carpets of paradise'
+  tradition: islam
+matches:
+- kind: echo
+  label: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
+    with darkness
+  note: 'wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on the Day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:6
+      lang: he
+      text: מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כָּל פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר
+  - tradition: islam
+    passages:
+    - ref: Quran 88:2
+      lang: ar
+      text: وُجُوهٌ يَوْمَئِذٍ خَٰشِعَةٌ
+    - ref: Quran 88:3
+      lang: ar
+      text: عَامِلَةٌ نَّاصِبَةٌ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-101-striking
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The striking day: moths,
   wool and the scales'
-summary: 'These two units share 1 motifs: spies seem like grasshoppers in their own eyes and the giants''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - like-grasshoppers
-passages:
-- tradition: judaism
-  ref: Isa 40:22
-  note: Spies seem like grasshoppers in their own eyes and the giants'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַיֹּשֵׁב֙ עַל ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם
-    כָּאֹ֖הֶל לָשָֽׁבֶת
-- tradition: islam
-  ref: Quran 101:4
-  note: 'Spies seem like grasshoppers in their own eyes and the giants'' (yawma yakūnu n-nāsu ka-l-farāshi
-    l-mabthūth ~ we-yōšvêhā ka-ḥăgāvîm: humanity likened to swarming insects (moths / grasshoppers) before
-    God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yawma yakūnu n-nāsu ka-l-farāshi l-mabthūth ~ we-yōšvêhā ka-ḥăgāvîm: humanity likened to swarming
-    insects (moths / grasshoppers) before God.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Spies seem like grasshoppers in their own eyes and the giants''
     (weight 6.3). Pair score 6.3.'
@@ -67,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Spies seem like grasshoppers in their own eyes and the giants'
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-101-striking
+  title: 'The striking day: moths, wool and the scales'
+  tradition: islam
+matches:
+- kind: echo
+  label: Spies seem like grasshoppers in their own eyes and the giants'
+  note: 'yawma yakūnu n-nāsu ka-l-farāshi l-mabthūth ~ we-yōšvêhā ka-ḥăgāvîm: humanity likened to swarming
+    insects (moths / grasshoppers) before God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:22
+      lang: he
+      text: הַיֹּשֵׁב֙ עַל ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם
+        כָּאֹ֖הֶל לָשָֽׁבֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 101:4
+      lang: ar
+      text: يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ
 ---
 
 ## Questions

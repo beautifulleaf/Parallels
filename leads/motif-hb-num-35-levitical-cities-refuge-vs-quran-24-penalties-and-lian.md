@@ -2,8 +2,7 @@
 id: motif-hb-num-35-levitical-cities-refuge-vs-quran-24-penalties-and-lian
 title: Levitical cities, cities of refuge and the law of homicide ↔ Lashes for fornication, four witnesses
   and the mutual cursing oath
-summary: 'These two units share 2 motifs: how many witnesses a charge requires [divergence between the
-  texts], no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,43 +15,9 @@ layers:
 motifs:
 - number-of-witnesses-required-as-divergence
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Num 35:30
-  note: 'How many witnesses a charge requires [divergence between the texts] (lə-fî ʿēdîm ... wə-ʿēd ʾeḥād
-    lōʾ yaʿăneh və-nefeš lāmût ~ bi-arbaʿati shuhadāʾ: plural witnesses for homicide in Numbers, four
-    for unchastity in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
-    לָמֽוּת
-- tradition: islam
-  ref: Quran 24:4
-  note: 'How many witnesses a charge requires [divergence between the texts] (ʿal pî šənê ʿēdîm ʾô ʿal
-    pî šəlōšâ ʿēdîm yāqûm dāvār ~ thumma lam yaʾtū bi-arbaʿati shuhadāʾa: the general rule of two or three
-    witnesses is raised to four for a charge of unchastity.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
-    ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
-- tradition: judaism
-  ref: Num 35:30
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
-    לָמֽוּת
-- tradition: islam
-  ref: Quran 24:4
-  note: No one put to death on the testimony of a single witness (raised to four for unchastity)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
-    ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. lə-fî ʿēdîm ... wə-ʿēd ʾeḥād lōʾ yaʿăneh və-nefeš lāmût ~ bi-arbaʿati shuhadāʾ: plural
-    witnesses for homicide in Numbers, four for unchastity in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses a charge requires [divergence between the texts]
     (weight 6.3); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.7.'
@@ -88,6 +53,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How many witnesses a charge requires
+kinds:
+- divergence
+- shared
+units:
+- id: hb-num-35-levitical-cities-refuge
+  title: Levitical cities, cities of refuge and the law of homicide
+  tradition: judaism
+- id: quran-24-penalties-and-lian
+  title: Lashes for fornication, four witnesses and the mutual cursing oath
+  tradition: islam
+matches:
+- kind: divergence
+  label: How many witnesses a charge requires
+  note: 'lə-fî ʿēdîm ... wə-ʿēd ʾeḥād lōʾ yaʿăneh və-nefeš lāmût ~ bi-arbaʿati shuhadāʾ: plural witnesses
+    for homicide in Numbers, four for unchastity in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 35:30
+      lang: he
+      text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
+        לָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 24:4
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
+        ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+- kind: shared
+  label: No one put to death on the testimony of a single witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 35:30
+      lang: he
+      text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
+        לָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 24:4
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
+        ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+    note: raised to four for unchastity
 ---
 
 ## Questions

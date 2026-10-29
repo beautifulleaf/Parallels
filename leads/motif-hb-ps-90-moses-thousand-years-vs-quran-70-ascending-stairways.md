@@ -2,9 +2,7 @@
 id: motif-hb-ps-90-moses-thousand-years-vs-quran-70-ascending-stairways
 title: 'Psalm 90, prayer of Moses; a thousand years as yesterday ↔ The ascending stairways: the day of
   fifty thousand years and the steadfast worshippers'
-summary: 'These two units share 2 motifs: a thousand years in god''s sight are like yesterday when it
-  passes, or a watch in the night [divergence between the texts], a thousand years in god''s sight are
-  like yesterday when it passes, or a watch in the night.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,45 +15,9 @@ layers:
 motifs:
 - thousand-years-as-one-day-as-divergence
 - thousand-years-as-one-day
-passages:
-- tradition: judaism
-  ref: Ps 90:4
-  note: 'A thousand years in God''s sight are like yesterday when it passes, or a watch in the night [divergence
-    between the texts] (fī yawmin kāna miqdāruhu khamsīna alfa sana ~ kî ʾelef šānîm be-ʿênêkā ke-yôm
-    ʾetmôl. Divine time on another scale: the Psalm''s thousand (kept in Q 22:47, 32:5) is here fifty
-    thousand, and the day is the day of the angels'' ascent and of judgment, not the brevity of human
-    life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה
-- tradition: islam
-  ref: Quran 70:4
-  note: 'A thousand years in God''s sight are like yesterday when it passes, or a watch in the night [divergence
-    between the texts] (fī yawmin kāna miqdāruhu khamsīna alfa sana ~ kî ʾelef šānîm be-ʿênêkā ke-yôm
-    ʾetmôl. Divine time on another scale: the Psalm''s thousand (kept in Q 22:47, 32:5) is here fifty
-    thousand, and the day is the day of the angels'' ascent and of judgment, not the brevity of human
-    life.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ
-- tradition: judaism
-  ref: Ps 90:4
-  note: A thousand years in God's sight are like yesterday when it passes, or a watch in the night
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה
-- tradition: islam
-  ref: Quran 70:4
-  note: A thousand years in God's sight are like yesterday when it passes, or a watch in the night (divine
-    time-scale; here 50,000 years (cf. 22:47 and 32:5, a thousand))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. fī yawmin kāna miqdāruhu khamsīna alfa sana ~ kî ʾelef šānîm be-ʿênêkā ke-yôm ʾetmôl.
-    Divine time on another scale: the Psalm''s thousand (kept in Q 22:47, 32:5) is here fifty thousand,
-    and the day is the day of the angels'' ascent and of judgment, not the brevity of human life.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A thousand years in God''s sight are like yesterday when it passes,
     or a watch in the night [divergence between the texts] (weight 6.7); A thousand years in God''s sight
@@ -94,6 +56,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A thousand years in God's sight are like yesterday when it passes, or a watch in the night
+kinds:
+- divergence
+units:
+- id: hb-ps-90-moses-thousand-years
+  title: Psalm 90, prayer of Moses; a thousand years as yesterday
+  tradition: judaism
+- id: quran-70-ascending-stairways
+  title: 'The ascending stairways: the day of fifty thousand years and the steadfast worshippers'
+  tradition: islam
+matches:
+- kind: divergence
+  label: A thousand years in God's sight are like yesterday when it passes, or a watch in the night
+  note: 'fī yawmin kāna miqdāruhu khamsīna alfa sana ~ kî ʾelef šānîm be-ʿênêkā ke-yôm ʾetmôl. Divine
+    time on another scale: the Psalm''s thousand (kept in Q 22:47, 32:5) is here fifty thousand, and the
+    day is the day of the angels'' ascent and of judgment, not the brevity of human life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 90:4
+      lang: he
+      text: כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 70:4
+      lang: ar
+      text: تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ
+        سَنَةٍ
 ---
 
 ## Questions

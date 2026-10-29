@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-13-spies-vs-quran-5-holy-land-refusal
 title: The twelve spies and their report ↔ The refusal to enter the holy land and forty years of wandering
-summary: 'These two units share 2 motifs: two faithful spies dissent from the majority, giant descendants
-  (anakim / nephilim) inhabit the land.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -16,51 +15,9 @@ layers:
 motifs:
 - minority-faithful-report
 - giants-in-the-land
-passages:
-- tradition: judaism
-  ref: Num 13:30
-  note: Two faithful spies dissent from the majority (Caleb silences the people)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧הַס כָּלֵ֛ב אֶת הָעָ֖ם אֶל מֹשֶׁ֑ה וַיֹּ֗אמֶר עָלֹ֤ה נַעֲלֶה֙ וְיָרַ֣שְׁנוּ אֹתָ֔הּ כִּֽי
-    יָכ֥וֹל נוּכַ֖ל לָֽהּ
-- tradition: islam
-  ref: Quran 5:23
-  note: Two faithful spies dissent from the majority ('two men of those who feared' urge entering by the
-    gate)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ
-    فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Num 13:22
-  note: Giant descendants (Anakim / Nephilim) inhabit the land (Ahiman, Sheshai, Talmai, children of Anak;
-    'Nephilim')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲל֣וּ בַנֶּגֶב֮ וַיָּבֹ֣א עַד חֶבְרוֹן֒ וְשָׁ֤ם אֲחִימַן֙ שֵׁשַׁ֣י וְתַלְמַ֔י יְלִידֵ֖י
-    הָעֲנָ֑ק וְחֶבְר֗וֹן שֶׁ֤בַע שָׁנִים֙ נִבְנְתָ֔ה לִפְנֵ֖י צֹ֥עַן מִצְרָֽיִם
-- tradition: judaism
-  ref: Num 13:28
-  note: Giant descendants (Anakim / Nephilim) inhabit the land (Ahiman, Sheshai, Talmai, children of Anak;
-    'Nephilim')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֚פֶס כִּֽי עַ֣ז הָעָ֔ם הַיֹּשֵׁ֖ב בָּאָ֑רֶץ וְהֶֽעָרִ֗ים בְּצֻר֤וֹת גְּדֹלֹת֙ מְאֹ֔ד וְגַם יְלִדֵ֥י
-    הָֽעֲנָ֖ק רָאִ֥ינוּ שָֽׁם
-- tradition: islam
-  ref: Quran 5:22
-  note: Giant descendants (Anakim / Nephilim) inhabit the land (qawman jabbārīn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟
-    مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: inna fīhā qawman jabbārīna wa-innā lan nadkhulahā ḥattā yakhrujū minhā. Num: ʿaz hā-ʿām
-    ... wə-gam yəlidê hā-ʿănāq rāʾînû šām; ha-nnəfîlîm bənê ʿănāq. Q drops the spies'' report and the
-    names: the people state the fear directly. Num: ʿālōh naʿăleh wə-yāraš-nû ʾōtāh kî-yākhôl nûkhal lāh.
-    Q: fa-idhā dakhaltumūhu fa-innakum ghālibūna. The confident ''we shall prevail'' in both.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Two faithful spies dissent from the majority (weight 6.3); Giant
     descendants (Anakim / Nephilim) inhabit the land (weight 5.3). Pair score 11.6.'
@@ -91,6 +48,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Giant descendants (Anakim / Nephilim) inhabit the land
+kinds:
+- parallel
+units:
+- id: hb-num-13-spies
+  title: The twelve spies and their report
+  tradition: judaism
+- id: quran-5-holy-land-refusal
+  title: The refusal to enter the holy land and forty years of wandering
+  tradition: islam
+matches:
+- kind: parallel
+  label: Giant descendants (Anakim / Nephilim) inhabit the land
+  note: 'Q: inna fīhā qawman jabbārīna wa-innā lan nadkhulahā ḥattā yakhrujū minhā. Num: ʿaz hā-ʿām ...
+    wə-gam yəlidê hā-ʿănāq rāʾînû šām; ha-nnəfîlîm bənê ʿănāq. Q drops the spies'' report and the names:
+    the people state the fear directly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 13:28
+      lang: he
+      text: אֶ֚פֶס כִּֽי עַ֣ז הָעָ֔ם הַיֹּשֵׁ֖ב בָּאָ֑רֶץ וְהֶֽעָרִ֗ים בְּצֻר֤וֹת גְּדֹלֹת֙ מְאֹ֔ד וְגַם
+        יְלִדֵ֥י הָֽעֲנָ֖ק רָאִ֥ינוּ שָֽׁם
+    - ref: Num 13:33
+      lang: he
+      text: וְשָׁ֣ם רָאִ֗ינוּ אֶת הַנְּפִילִ֛ים בְּנֵ֥י עֲנָ֖ק מִן הַנְּפִלִ֑ים וַנְּהִ֤י בְעֵינֵ֨ינוּ֙
+        כַּֽחֲגָבִ֔ים וְכֵ֥ן הָיִ֖ינוּ בְּעֵינֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:22
+      lang: ar
+      text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟
+        مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
+- kind: parallel
+  label: Two faithful spies dissent from the majority
+  note: 'Num: ʿālōh naʿăleh wə-yāraš-nû ʾōtāh kî-yākhôl nûkhal lāh. Q: fa-idhā dakhaltumūhu fa-innakum
+    ghālibūna. The confident ''we shall prevail'' in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 13:30
+      lang: he
+      text: וַיַּ֧הַס כָּלֵ֛ב אֶת הָעָ֖ם אֶל מֹשֶׁ֑ה וַיֹּ֗אמֶר עָלֹ֤ה נַעֲלֶה֙ וְיָרַ֣שְׁנוּ אֹתָ֔הּ
+        כִּֽי יָכ֥וֹל נוּכַ֖ל לָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:23
+      lang: ar
+      text: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ
+        ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم
+        مُّؤْمِنِينَ
 ---
 
 ## Questions

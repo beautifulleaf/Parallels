@@ -2,8 +2,7 @@
 id: motif-hb-prov-27-sayings-vs-quran-18-companions-of-the-cave
 title: Sayings on tomorrow, friends and the care of flocks ↔ The Companions of the Cave and al-Raqim (Surah
   18:9-31)
-summary: 'These two units share 1 motifs: never say ''i will do it tomorrow'' without adding ''if god
-  wills''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - say-if-god-wills
-passages:
-- tradition: judaism
-  ref: Prov 27:1
-  note: 'Never say ''I will do it tomorrow'' without adding ''if God wills'' (ʾal-tithallēl bəyôm māḥār
-    kî lōʾ-tēdaʿ mah-yyēled yôm; wa-lā taqūlanna li-shayʾin innī fāʿilun dhālika ghadan illā an yashāʾa
-    llāh: do not speak confidently of tomorrow. Prov gives the reason as human ignorance; Q prescribes
-    the formula in shāʾa llāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
-- tradition: islam
-  ref: Quran 18:23
-  note: Never say 'I will do it tomorrow' without adding 'if God wills' (do not say 'I will do it tomorrow'
-    without in shāʾa llāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا
-- tradition: islam
-  ref: Quran 18:24
-  note: Never say 'I will do it tomorrow' without adding 'if God wills' (do not say 'I will do it tomorrow'
-    without in shāʾa llāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى
-    لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾal-tithallēl bəyôm māḥār kî lōʾ-tēdaʿ mah-yyēled yôm; wa-lā taqūlanna li-shayʾin innī fāʿilun
-    dhālika ghadan illā an yashāʾa llāh: do not speak confidently of tomorrow. Prov gives the reason as
-    human ignorance; Q prescribes the formula in shāʾa llāh.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Never say ''I will do it tomorrow'' without adding ''if God wills''
     (weight 6.7). Pair score 6.7.'
@@ -81,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Never say 'I will do it tomorrow' without adding 'if God wills'
+kinds:
+- parallel
+units:
+- id: hb-prov-27-sayings
+  title: Sayings on tomorrow, friends and the care of flocks
+  tradition: judaism
+- id: quran-18-companions-of-the-cave
+  title: The Companions of the Cave and al-Raqim (Surah 18:9-31)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Never say 'I will do it tomorrow' without adding 'if God wills'
+  note: 'ʾal-tithallēl bəyôm māḥār kî lōʾ-tēdaʿ mah-yyēled yôm; wa-lā taqūlanna li-shayʾin innī fāʿilun
+    dhālika ghadan illā an yashāʾa llāh: do not speak confidently of tomorrow. Prov gives the reason as
+    human ignorance; Q prescribes the formula in shāʾa llāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 27:1
+      lang: he
+      text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 18:23
+      lang: ar
+      text: وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا
+    - ref: Quran 18:24
+      lang: ar
+      text: إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ
+        رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا
 ---
 
 ## Questions

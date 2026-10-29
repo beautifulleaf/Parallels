@@ -2,7 +2,7 @@
 id: motif-hb-lam-3-the-man-who-saw-affliction-vs-quran-9-shirkers-excuses
 title: 'Lamentations 3: ''I am the man who has seen affliction''; mercies new every morning ↔ The excuses
   of those who stayed behind'
-summary: 'These two units share 1 motifs: both evil and good come from the mouth of the most high.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - good-and-evil-from-mouth-of-most-high
-passages:
-- tradition: judaism
-  ref: Lam 3:37-38
-  note: Both evil and good come from the mouth of the Most High
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:37) מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי אֲדֹנָ֖י לֹ֥א צִוָּֽה (3:38) מִפִּ֤י עֶלְיוֹן֙ לֹ֣א תֵצֵ֔א הָרָע֖וֹת
-    וְהַטּֽוֹב
-- tradition: judaism
-  ref: Lam 3:37
-  note: Both evil and good come from the mouth of the Most High
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי אֲדֹנָ֖י לֹ֥א צִוָּֽה
-- tradition: islam
-  ref: Quran 9:51
-  note: 'Both evil and good come from the mouth of the Most High (Nothing happens unless God has decreed
-    it: qul lan yuṣībanā illā mā kataba llāhu lanā vs mî zeh ʾāmar wattehî ʾădōnāy lōʾ ṣiwwāh mippî ʿelyôn
-    lōʾ tēṣēʾ hārāʿôt wᵉhaṭṭôb.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ
-    ٱلْمُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Nothing happens unless God has decreed it: qul lan yuṣībanā illā mā kataba llāhu lanā vs
-    mî zeh ʾāmar wattehî ʾădōnāy lōʾ ṣiwwāh mippî ʿelyôn lōʾ tēṣēʾ hārāʿôt wᵉhaṭṭôb.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Both evil and good come from the mouth of the Most High (weight
     6.7). Pair score 6.7.'
@@ -74,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Both evil and good come from the mouth of the Most High
+kinds:
+- parallel
+units:
+- id: hb-lam-3-the-man-who-saw-affliction
+  title: 'Lamentations 3: ''I am the man who has seen affliction''; mercies new every morning'
+  tradition: judaism
+- id: quran-9-shirkers-excuses
+  title: The excuses of those who stayed behind
+  tradition: islam
+matches:
+- kind: parallel
+  label: Both evil and good come from the mouth of the Most High
+  note: 'Nothing happens unless God has decreed it: qul lan yuṣībanā illā mā kataba llāhu lanā vs mî zeh
+    ʾāmar wattehî ʾădōnāy lōʾ ṣiwwāh mippî ʿelyôn lōʾ tēṣēʾ hārāʿôt wᵉhaṭṭôb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lam 3:37
+      lang: he
+      text: מִ֣י זֶ֤ה אָמַר֙ וַתֶּ֔הִי אֲדֹנָ֖י לֹ֥א צִוָּֽה
+    - ref: Lam 3:38
+      lang: he
+      text: מִפִּ֤י עֶלְיוֹן֙ לֹ֣א תֵצֵ֔א הָרָע֖וֹת וְהַטּֽוֹב
+  - tradition: islam
+    passages:
+    - ref: Quran 9:51
+      lang: ar
+      text: قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ
+        ٱلْمُؤْمِنُونَ
 ---
 
 ## Questions

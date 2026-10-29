@@ -2,8 +2,7 @@
 id: motif-hb-exod-3-burning-bush-vs-quran-79-pharaoh-and-cosmos
 title: 'The burning bush and the divine name ↔ Those who drag forth: Moses at Tuwa, Pharaoh''s claim,
   and the spreading of the earth'
-summary: 'These two units share 2 motifs: narrative of a prophet''s commissioning by god [divergence between
-  the texts], the call comes in the holy valley named ṭuwā [divergence between the texts].'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,94 +15,9 @@ layers:
 motifs:
 - prophetic-call-narrative-as-divergence
 - holy-valley-tuwa-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 3:10
-  note: 'Narrative of a prophet''s commissioning by God [divergence between the texts] (Purpose of the
-    mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê Yiśrāʾēl (to free
-    Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna innahu ṭaghā,
-    fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because Pharaoh transgressed,
-    to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned, and the ''God
-    of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֣ה לְכָ֔ה וְאֶֽשְׁלָחֲךָ֖ אֶל פַּרְעֹ֑ה וְהוֹצֵ֛א אֶת עַמִּ֥י בְנֵֽי יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם
-- tradition: judaism
-  ref: Exod 3:18
-  note: 'Narrative of a prophet''s commissioning by God [divergence between the texts] (Purpose of the
-    mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê Yiśrāʾēl (to free
-    Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna innahu ṭaghā,
-    fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because Pharaoh transgressed,
-    to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned, and the ''God
-    of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁמְע֖וּ לְקֹלֶ֑ךָ וּבָאתָ֡ אַתָּה֩ וְזִקְנֵ֨י יִשְׂרָאֵ֜ל אֶל מֶ֣לֶךְ מִצְרַ֗יִם וַאֲמַרְתֶּ֤ם
-    אֵלָיו֙ יְהוָ֞ה אֱלֹהֵ֤י הָֽעִבְרִיִּים֙ נִקְרָ֣ה עָלֵ֔ינוּ וְעַתָּ֗ה נֵֽלֲכָה נָּ֞א דֶּ֣רֶךְ שְׁלֹ֤שֶׁת
-    יָמִים֙ בַּמִּדְבָּ֔ר וְנִזְבְּחָ֖ה לַֽיהוָ֥ה אֱלֹהֵֽינוּ
-- tradition: islam
-  ref: Quran 79:17
-  note: 'Narrative of a prophet''s commissioning by God [divergence between the texts] (Purpose of the
-    mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê Yiśrāʾēl (to free
-    Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna innahu ṭaghā,
-    fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because Pharaoh transgressed,
-    to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned, and the ''God
-    of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
-- tradition: islam
-  ref: Quran 79:18
-  note: 'Narrative of a prophet''s commissioning by God [divergence between the texts] (Purpose of the
-    mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê Yiśrāʾēl (to free
-    Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna innahu ṭaghā,
-    fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because Pharaoh transgressed,
-    to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned, and the ''God
-    of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
-- tradition: judaism
-  ref: Exod 3:6
-  note: 'The call comes in the holy valley named Ṭuwā [divergence between the texts] (God''s self-introduction.
-    Exod: ancestral God and the revealed name, ʾānōkî ʾĕlōhê ʾābîkā ʾĕlōhê ʾabrāhām ... ʾehyeh ʾăšer ʾehyeh
-    ... YHWH ʾĕlōhê ʾăbōtêkem ... zeh-ššəmî ləʿōlām. Q: universal confession and worship, innī ana rabbuka
-    ... innanī ana llāhu lā ilāha illā ana fa-ʿbudnī wa-aqimi ṣ-ṣalāta li-dhikrī. No patriarchs and no
-    special name, and prayer is commanded. Q adds the Hour (20:15).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר אָנֹכִי֙ אֱלֹהֵ֣י אָבִ֔יךָ אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֣י יַעֲקֹ֑ב
-    וַיַּסְתֵּ֤ר מֹשֶׁה֙ פָּנָ֔יו כִּ֣י יָרֵ֔א מֵהַבִּ֖יט אֶל הָאֱלֹהִֽים
-- tradition: judaism
-  ref: Exod 3:14
-  note: 'The call comes in the holy valley named Ṭuwā [divergence between the texts] (God''s self-introduction.
-    Exod: ancestral God and the revealed name, ʾānōkî ʾĕlōhê ʾābîkā ʾĕlōhê ʾabrāhām ... ʾehyeh ʾăšer ʾehyeh
-    ... YHWH ʾĕlōhê ʾăbōtêkem ... zeh-ššəmî ləʿōlām. Q: universal confession and worship, innī ana rabbuka
-    ... innanī ana llāhu lā ilāha illā ana fa-ʿbudnī wa-aqimi ṣ-ṣalāta li-dhikrī. No patriarchs and no
-    special name, and prayer is commanded. Q adds the Hour (20:15).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל מֹשֶׁ֔ה אֶֽהְיֶ֖ה אֲשֶׁ֣ר אֶֽהְיֶ֑ה וַיֹּ֗אמֶר כֹּ֤ה תֹאמַר֙ לִבְנֵ֣י
-    יִשְׂרָאֵ֔ל אֶֽהְיֶ֖ה שְׁלָחַ֥נִי אֲלֵיכֶֽם
-- tradition: islam
-  ref: Quran 79:16
-  note: 'The call comes in the holy valley named Ṭuwā [divergence between the texts] (Place of the call:
-    Exod 3:1 har hā-ʾĕlōhîm ḥōrēvāh, 3:5 ha-mmāqôm ʾăšer ʾattāh ʿômēd ʿālāyw ʾadmat qōdeš hûʾ, God calling
-    mi-ttôk ha-sseneh. Q 79:16 idh nādāhu rabbuhu bi-l-wādi l-muqaddasi ṭuwā: holy ground kept (muqaddas
-    ~ qōdeš), but the mountain becomes a named valley, and here no bush and no fire.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Place of the call: Exod 3:1 har hā-ʾĕlōhîm ḥōrēvāh, 3:5 ha-mmāqôm ʾăšer ʾattāh ʿômēd ʿālāyw
-    ʾadmat qōdeš hûʾ, God calling mi-ttôk ha-sseneh. Q 79:16 idh nādāhu rabbuhu bi-l-wādi l-muqaddasi
-    ṭuwā: holy ground kept (muqaddas ~ qōdeš), but the mountain becomes a named valley, and here no bush
-    and no fire. Purpose of the mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet
-    ʿammî venê Yiśrāʾēl (to free Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab
-    ilā firʿawna innahu ṭaghā, fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses
-    is sent because Pharaoh transgressed, to invite Pharaoh himself to purify himself and be guided. Israel
-    is not mentioned, and the ''God of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God [divergence between
     the texts] (weight 6.7); The call comes in the holy valley named Ṭuwā [divergence between the texts]
@@ -142,6 +56,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The call comes in the holy valley named Ṭuwā
+kinds:
+- divergence
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The call comes in the holy valley named Ṭuwā
+  note: 'Place of the call: Exod 3:1 har hā-ʾĕlōhîm ḥōrēvāh, 3:5 ha-mmāqôm ʾăšer ʾattāh ʿômēd ʿālāyw ʾadmat
+    qōdeš hûʾ, God calling mi-ttôk ha-sseneh. Q 79:16 idh nādāhu rabbuhu bi-l-wādi l-muqaddasi ṭuwā: holy
+    ground kept (muqaddas ~ qōdeš), but the mountain becomes a named valley, and here no bush and no fire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:1
+      lang: he
+      text: וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת הַצֹּאן֙
+        אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה
+    - ref: Exod 3:4
+      lang: he
+      text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
+        מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
+    - ref: Exod 3:5
+      lang: he
+      text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר
+        אַתָּה֙ עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 79:16
+      lang: ar
+      text: إِذْ نَادَىٰهُ رَبُّهُۥ بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى
+- kind: divergence
+  label: Narrative of a prophet's commissioning by God
+  note: 'Purpose of the mission changed: Exod 3:10 lekāh we-ʾešlāḥăkā ʾel parʿōh we-hôṣēʾ ʾet ʿammî venê
+    Yiśrāʾēl (to free Israel); 3:18 YHWH ʾĕlōhê hā-ʿIvriyyîm niqrāh ʿālênû. Q 79:17-19 idhhab ilā firʿawna
+    innahu ṭaghā, fa-qul hal laka ilā an tazakkā wa-ahdiyaka ilā rabbika fa-takhshā: Moses is sent because
+    Pharaoh transgressed, to invite Pharaoh himself to purify himself and be guided. Israel is not mentioned,
+    and the ''God of the Hebrews'' is presented to Pharaoh as ''your Lord'' (rabbika).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:10
+      lang: he
+      text: וְעַתָּ֣ה לְכָ֔ה וְאֶֽשְׁלָחֲךָ֖ אֶל פַּרְעֹ֑ה וְהוֹצֵ֛א אֶת עַמִּ֥י בְנֵֽי יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם
+    - ref: Exod 3:18
+      lang: he
+      text: וְשָׁמְע֖וּ לְקֹלֶ֑ךָ וּבָאתָ֡ אַתָּה֩ וְזִקְנֵ֨י יִשְׂרָאֵ֜ל אֶל מֶ֣לֶךְ מִצְרַ֗יִם וַאֲמַרְתֶּ֤ם
+        אֵלָיו֙ יְהוָ֞ה אֱלֹהֵ֤י הָֽעִבְרִיִּים֙ נִקְרָ֣ה עָלֵ֔ינוּ וְעַתָּ֗ה נֵֽלֲכָה נָּ֞א דֶּ֣רֶךְ
+        שְׁלֹ֤שֶׁת יָמִים֙ בַּמִּדְבָּ֔ר וְנִזְבְּחָ֖ה לַֽיהוָ֥ה אֱלֹהֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 79:17
+      lang: ar
+      text: ٱذْهَبْ إِلَىٰ فِرْعَوْنَ إِنَّهُۥ طَغَىٰ
+    - ref: Quran 79:18
+      lang: ar
+      text: فَقُلْ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ
+    - ref: Quran 79:19
+      lang: ar
+      text: وَأَهْدِيَكَ إِلَىٰ رَبِّكَ فَتَخْشَىٰ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-43-zukhruf-abraham-and-silver-roofs
 title: The throne vision and the call of Isaiah ↔ Abraham disowns his father's worship; the great man
   of the two towns; silver roofs; the devil-companion
-summary: 'These two units share 1 motifs: the prophet''s mission and the hearers'' closed ears, eyes and
-  hearts: caused, sealed, or beyond his cure [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-and-hearers-deaf-and-blind-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (The prophet and the deaf and blind, with the roles reversed.
-    Isaiah is sent to cause it: hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ...
-    wə-yišmāʿ. The Prophet is told he cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s
-    mission hardens; Muhammad''s cannot cure.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 43:40
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (The prophet and the deaf and blind, with the roles reversed.
-    Isaiah is sent to cause it: hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ...
-    wə-yišmāʿ. The Prophet is told he cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s
-    mission hardens; Muhammad''s cannot cure.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَٰلٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The prophet and the deaf and blind, with the roles reversed. Isaiah is sent to cause it:
-    hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ... wə-yišmāʿ. The Prophet is
-    told he cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s mission hardens; Muhammad''s
-    cannot cure.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s mission and the hearers'' closed ears, eyes and hearts:
     caused, sealed, or beyond his cure [divergence between the texts] (weight 6.0). Pair score 6.0.'
@@ -82,6 +56,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+  his cure'
+kinds:
+- divergence
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-43-zukhruf-abraham-and-silver-roofs
+  title: Abraham disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+    his cure'
+  note: 'The prophet and the deaf and blind, with the roles reversed. Isaiah is sent to cause it: hašmēn
+    lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ... wə-yišmāʿ. The Prophet is told he
+    cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s mission hardens; Muhammad''s
+    cannot cure.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 43:40
+      lang: ar
+      text: أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ أَوْ تَهْدِى ٱلْعُمْىَ وَمَن كَانَ فِى ضَلَٰلٍ مُّبِينٍ
 ---
 
 ## Questions

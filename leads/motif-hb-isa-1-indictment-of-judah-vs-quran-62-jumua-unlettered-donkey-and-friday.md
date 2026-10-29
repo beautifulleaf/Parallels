@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-62-jumua-unlettered-donkey-and-friday
 title: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Al-Jumu''a: the
   messenger among the unlettered, the donkey carrying books, wishing for death, and the Friday prayer'
-summary: 'These two units share 1 motifs: israel likened to a donkey that knows, or does not understand,
-  what it has [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - israel-likened-to-a-donkey-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 1:3
-  note: 'Israel likened to a donkey that knows, or does not understand, what it has [divergence between
-    the texts] (Israel compared to a donkey, in opposite directions. Isaiah: yāḏaʿ šôr qōnēhû wa-ḥămôr
-    ʾēḇûs bəʿālâw yiśrāʾēl lōʾ yāḏaʿ (the donkey knows its master''s crib, Israel does not know: the donkey
-    is wiser). Quran: mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu
-    asfārā (those charged with the Torah who did not bear it are like a donkey carrying books: the donkey
-    carries without understanding). ḥămôr / ḥimār; in both Israel fails to ''know'' what it has.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
-- tradition: islam
-  ref: Quran 62:5
-  note: 'Israel likened to a donkey that knows, or does not understand, what it has [divergence between
-    the texts] (Israel compared to a donkey, in opposite directions. Isaiah: yāḏaʿ šôr qōnēhû wa-ḥămôr
-    ʾēḇûs bəʿālâw yiśrāʾēl lōʾ yāḏaʿ (the donkey knows its master''s crib, Israel does not know: the donkey
-    is wiser). Quran: mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu
-    asfārā (those charged with the Torah who did not bear it are like a donkey carrying books: the donkey
-    carries without understanding). ḥămôr / ḥimār; in both Israel fails to ''know'' what it has.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ
-    أَسْفَارًۢا بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Israel compared to a donkey, in opposite directions. Isaiah: yāḏaʿ šôr qōnēhû wa-ḥămôr
-    ʾēḇûs bəʿālâw yiśrāʾēl lōʾ yāḏaʿ (the donkey knows its master''s crib, Israel does not know: the donkey
-    is wiser). Quran: mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu
-    asfārā (those charged with the Torah who did not bear it are like a donkey carrying books: the donkey
-    carries without understanding). ḥămôr / ḥimār; in both Israel fails to ''know'' what it has.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel likened to a donkey that knows, or does not understand, what
     it has [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +57,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel likened to a donkey that knows, or does not understand, what it has
+kinds:
+- divergence
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel likened to a donkey that knows, or does not understand, what it has
+  note: 'Israel compared to a donkey, in opposite directions. Isaiah: yāḏaʿ šôr qōnēhû wa-ḥămôr ʾēḇûs
+    bəʿālâw yiśrāʾēl lōʾ yāḏaʿ (the donkey knows its master''s crib, Israel does not know: the donkey
+    is wiser). Quran: mathalu lladhīna ḥummilū t-tawrāta thumma lam yaḥmilūhā ka-mathali l-ḥimāri yaḥmilu
+    asfārā (those charged with the Torah who did not bear it are like a donkey carrying books: the donkey
+    carries without understanding). ḥămôr / ḥimār; in both Israel fails to ''know'' what it has.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:3
+      lang: he
+      text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 62:5
+      lang: ar
+      text: مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ
+        أَسْفَارًۢا بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى
+        ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

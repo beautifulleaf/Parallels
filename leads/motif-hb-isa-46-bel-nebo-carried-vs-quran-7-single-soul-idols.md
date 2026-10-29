@@ -2,8 +2,7 @@
 id: motif-hb-isa-46-bel-nebo-carried-vs-quran-7-single-soul-idols
 title: Bel and Nebo carried off; God who carries Israel ↔ The single soul, the couple's vow, and powerless
   idols
-summary: 'These two units share 1 motifs: the made idol cannot move from its place, speak or answer and
-  save those who cry to it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 - motif
 motifs:
 - idol-cannot-move-or-answer
-passages:
-- tradition: judaism
-  ref: Isa 46:7
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ לֹ֣א
-    יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
-- tradition: judaism
-  ref: Isa 46:6
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ
-    אֵ֔ל יִסְגְּד֖וּ אַף יִֽשְׁתַּחֲוּֽוּ
-- tradition: islam
-  ref: Quran 7:191
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The made
-    god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum fa-l-yastajībū
-    lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh
-    miṣṣārātô lōʾ yôšîʿennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 7:194
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The made
-    god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum fa-l-yastajībū
-    lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh
-    miṣṣārātô lōʾ yôšîʿennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
-    لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The made god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn;
-    fa-dʿūhum fa-l-yastajībū lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq
-    ʾēlāyw wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
     those who cry to it (weight 5.4). Pair score 5.4.'
@@ -86,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The made idol cannot move from its place, speak or answer and save those who cry to it
+kinds:
+- parallel
+units:
+- id: hb-isa-46-bel-nebo-carried
+  title: Bel and Nebo carried off; God who carries Israel
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: parallel
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  note: 'The made god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum
+    fa-l-yastajībū lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw
+    wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 46:6
+      lang: he
+      text: הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ
+        אֵ֔ל יִסְגְּד֖וּ אַף יִֽשְׁתַּחֲוּֽוּ
+    - ref: Isa 46:7
+      lang: he
+      text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ
+        לֹ֣א יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:191
+      lang: ar
+      text: أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 7:194
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
+        لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 7:197
+      lang: ar
+      text: وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ
 ---
 
 ## Questions

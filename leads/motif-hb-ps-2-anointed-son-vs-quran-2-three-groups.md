@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-2-anointed-son-vs-quran-2-three-groups
 title: Psalm 2 - the nations rage; the king as God's son ↔ Believers, unbelievers and hypocrites
-summary: 'These two units share 1 motifs: god in heaven laughs at and mocks those who plot against him
-  or the righteous.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - god-laughs-at-enemies
-passages:
-- tradition: judaism
-  ref: Ps 2:4
-  note: God in heaven laughs at and mocks those who plot against him or the righteous
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹשֵׁ֣ב בַּשָּׁמַ֣יִם יִשְׂחָ֑ק אֲ֝דֹנָ֗י יִלְעַג לָֽמוֹ
-- tradition: islam
-  ref: Quran 2:15
-  note: 'God in heaven laughs at and mocks those who plot against him or the righteous (Ps 2:4 yôšēb ba-šāmayim
-    yiśḥāq ʾădōnāy yilʿag lāmô ''the Lord mocks them''; Q 2:15 allāhu yastahziʾu bihim wa-yamudduhum fī
-    ṭughyānihim: God mocks the mockers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 2:4 yôšēb ba-šāmayim yiśḥāq ʾădōnāy yilʿag lāmô ''the Lord mocks them''; Q 2:15 allāhu yastahziʾu
-    bihim wa-yamudduhum fī ṭughyānihim: God mocks the mockers.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God in heaven laughs at and mocks those who plot against him or
     the righteous (weight 5.6). Pair score 5.6.'
@@ -66,6 +49,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God in heaven laughs at and mocks those who plot against him or the righteous
+kinds:
+- echo
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: echo
+  label: God in heaven laughs at and mocks those who plot against him or the righteous
+  note: 'Ps 2:4 yôšēb ba-šāmayim yiśḥāq ʾădōnāy yilʿag lāmô ''the Lord mocks them''; Q 2:15 allāhu yastahziʾu
+    bihim wa-yamudduhum fī ṭughyānihim: God mocks the mockers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:4
+      lang: he
+      text: יוֹשֵׁ֣ב בַּשָּׁמַ֣יִם יִשְׂחָ֑ק אֲ֝דֹנָ֗י יִלְעַג לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:15
+      lang: ar
+      text: ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 ---
 
 ## Questions

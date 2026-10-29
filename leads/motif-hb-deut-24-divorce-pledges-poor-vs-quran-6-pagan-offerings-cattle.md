@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-6-pagan-offerings-cattle
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ Pagan portions and taboos; eight pairs; what is
   forbidden to all and to the Jews
-summary: 'These two units share 1 motifs: forgotten sheaf, olive and grape gleanings left for stranger,
-  orphan and widow.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - gleanings-for-poor
-passages:
-- tradition: judaism
-  ref: Deut 24:19
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ
-    לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה
-    יָדֶֽיךָ
-- tradition: judaism
-  ref: Deut 24:20
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י תַחְבֹּט֙ זֵֽיתְךָ֔ לֹ֥א תְפָאֵ֖ר אַחֲרֶ֑יךָ לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶֽה
-- tradition: islam
-  ref: Quran 6:141
-  note: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow ('give its due
-    on the day of its harvest')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ مُخْتَلِفًا
-    أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن ثَمَرِهِۦٓ إِذَآ
-    أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا يُحِبُّ ٱلْمُسْرِفِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. The harvest carries a due to others. Q: kulū min thamarihi idhā athmara wa-ātū ḥaqqahu yawma
-    ḥaṣādihi wa-lā tusrifū. Deut: kî tiqṣōr qəṣîrəkhā ... wə-šākhaḥtā ʿōmer ... lag-gēr lay-yātôm wə-lā-ʾalmānāh
-    yihyeh. Deut names the forgotten sheaf and its recipients; Q a general ''due''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forgotten sheaf, olive and grape gleanings left for stranger, orphan
     and widow (weight 6.3). Pair score 6.3.'
@@ -80,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+kinds:
+- parallel
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: parallel
+  label: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+  note: 'The harvest carries a due to others. Q: kulū min thamarihi idhā athmara wa-ātū ḥaqqahu yawma
+    ḥaṣādihi wa-lā tusrifū. Deut: kî tiqṣōr qəṣîrəkhā ... wə-šākhaḥtā ʿōmer ... lag-gēr lay-yātôm wə-lā-ʾalmānāh
+    yihyeh. Deut names the forgotten sheaf and its recipients; Q a general ''due''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:19
+      lang: he
+      text: כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ
+        לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה
+        יָדֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:141
+      lang: ar
+      text: وَهُوَ ٱلَّذِىٓ أَنشَأَ جَنَّٰتٍ مَّعْرُوشَٰتٍ وَغَيْرَ مَعْرُوشَٰتٍ وَٱلنَّخْلَ وَٱلزَّرْعَ
+        مُخْتَلِفًا أُكُلُهُۥ وَٱلزَّيْتُونَ وَٱلرُّمَّانَ مُتَشَٰبِهًا وَغَيْرَ مُتَشَٰبِهٍ كُلُوا۟ مِن
+        ثَمَرِهِۦٓ إِذَآ أَثْمَرَ وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ وَلَا تُسْرِفُوٓا۟ إِنَّهُۥ لَا
+        يُحِبُّ ٱلْمُسْرِفِينَ
 ---
 
 ## Questions

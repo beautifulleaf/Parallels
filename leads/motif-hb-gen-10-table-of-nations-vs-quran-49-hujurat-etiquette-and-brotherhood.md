@@ -2,8 +2,7 @@
 id: motif-hb-gen-10-table-of-nations-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'The Table of Nations ↔ Al-Hujurat: lowering voices, verifying reports, reconciling believers,
   backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: humanity created from a male and a female and made into peoples
-  (shu''ub) and tribes to know one another; the noblest is the most pious.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - nations-and-tribes-to-know-one-another
-passages:
-- tradition: judaism
-  ref: Gen 10:32
-  note: 'Humanity created from a male and a female and made into peoples (shu''ub) and tribes to know
-    one another; the noblest is the most pious (Humankind divided into peoples from one ancestry: ʾēlleh
-    mišpəḥōṯ bənê nōaḥ lə-ṯôləḏōṯām bə-ḡôyēhem û-mē-ʾēlleh nip̄rəḏû hag-gôyim bā-ʾāreṣ vs. jaʿalnākum
-    shuʿūban wa-qabāʾila li-taʿārafū. Genesis records the division; the Quran states its purpose, ''that
-    you may know one another''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם
-    בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 49:13
-  note: Humanity created from a male and a female and made into peoples (shu'ub) and tribes to know one
-    another; the noblest is the most pious
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
-    لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Humankind divided into peoples from one ancestry: ʾēlleh mišpəḥōṯ bənê nōaḥ lə-ṯôləḏōṯām bə-ḡôyēhem
-    û-mē-ʾēlleh nip̄rəḏû hag-gôyim bā-ʾāreṣ vs. jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū. Genesis records
-    the division; the Quran states its purpose, ''that you may know one another''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humanity created from a male and a female and made into peoples
     (shu''ub) and tribes to know one another; the noblest is the most pious (weight 6.7). Pair score 6.7.'
@@ -72,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humanity created from a male and a female and made into peoples (shu'ub) and tribes to know one
+  another; the noblest is the most pious
+kinds:
+- echo
+units:
+- id: hb-gen-10-table-of-nations
+  title: The Table of Nations
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: Humanity created from a male and a female and made into peoples (shu'ub) and tribes to know one
+    another; the noblest is the most pious
+  note: 'Humankind divided into peoples from one ancestry: ʾēlleh mišpəḥōṯ bənê nōaḥ lə-ṯôləḏōṯām bə-ḡôyēhem
+    û-mē-ʾēlleh nip̄rəḏû hag-gôyim bā-ʾāreṣ vs. jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū. Genesis records
+    the division; the Quran states its purpose, ''that you may know one another''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 10:32
+      lang: he
+      text: אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי נֹ֛חַ לְתוֹלְדֹתָ֖ם בְּגוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם
+        בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל
+  - tradition: islam
+    passages:
+    - ref: Quran 49:13
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
+        لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
 ---
 
 ## Questions

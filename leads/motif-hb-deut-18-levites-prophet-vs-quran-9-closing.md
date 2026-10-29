@@ -2,7 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-9-closing
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Surahs that increase faith; the
   compassionate messenger
-summary: 'These two units share 1 motifs: messengers are sent to people from among themselves.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - messengers-from-among-humans
-passages:
-- tradition: judaism
-  ref: Deut 18:15
-  note: 'Messengers are sent to people from among themselves (The messenger is one of the people themselves:
-    la-qad jāʾakum rasūlun min anfusikum vs nābîʾ miqqirbᵉkā mēʾaḥêkā kāmōnî; nābîʾ ʾāqîm lāhem miqqereb
-    ʾăḥêhem.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'Messengers are sent to people from among themselves (The messenger is one of the people themselves:
-    la-qad jāʾakum rasūlun min anfusikum vs nābîʾ miqqirbᵉkā mēʾaḥêkā kāmōnî; nābîʾ ʾāqîm lāhem miqqereb
-    ʾăḥêhem.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 9:128
-  note: Messengers are sent to people from among themselves
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ
-    رَءُوفٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The messenger is one of the people themselves: la-qad jāʾakum rasūlun min anfusikum vs nābîʾ
-    miqqirbᵉkā mēʾaḥêkā kāmōnî; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Messengers are sent to people from among themselves (weight 6.3).
     Pair score 6.3.'
@@ -75,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Messengers are sent to people from among themselves
+kinds:
+- parallel
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-9-closing
+  title: Surahs that increase faith; the compassionate messenger
+  tradition: islam
+matches:
+- kind: parallel
+  label: Messengers are sent to people from among themselves
+  note: 'The messenger is one of the people themselves: la-qad jāʾakum rasūlun min anfusikum vs nābîʾ
+    miqqirbᵉkā mēʾaḥêkā kāmōnî; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:128
+      lang: ar
+      text: لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم
+        بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ
 ---
 
 ## Questions

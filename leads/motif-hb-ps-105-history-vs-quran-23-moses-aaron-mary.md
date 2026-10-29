@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-23-moses-aaron-mary
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses and Aaron
   rejected; the son of Mary and his mother on a height
-summary: 'These two units share 2 motifs: god sends moses and aaron together, with his signs, to pharaoh,
-  psalm retells israel''s sacred history (patriarchs, egypt, wilderness, conquest) as instruction or praise.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,63 +16,9 @@ layers:
 motifs:
 - moses-and-aaron-sent-with-signs
 - historical-recital-psalm
-passages:
-- tradition: judaism
-  ref: Ps 105:26
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (thumma arsalnā Mūsā wa-akhāhu
-    Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw:
-    God sends Moses and Aaron together with his signs (āyāt / ʾōtôt). The Psalm calls Moses ''his servant''
-    and Aaron ''whom he chose''; the Quran calls Aaron ''his brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁ֭לַח מֹשֶׁ֣ה עַבְדּ֑וֹ אַ֝הֲרֹ֗ן אֲשֶׁ֣ר בָּֽחַר בּֽוֹ
-- tradition: judaism
-  ref: Ps 105:27
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (thumma arsalnā Mūsā wa-akhāhu
-    Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw:
-    God sends Moses and Aaron together with his signs (āyāt / ʾōtôt). The Psalm calls Moses ''his servant''
-    and Aaron ''whom he chose''; the Quran calls Aaron ''his brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
-- tradition: islam
-  ref: Quran 23:45
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (thumma arsalnā Mūsā wa-akhāhu
-    Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw:
-    God sends Moses and Aaron together with his signs (āyāt / ʾōtôt). The Psalm calls Moses ''his servant''
-    and Aaron ''whom he chose''; the Quran calls Aaron ''his brother''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
-- tradition: judaism
-  ref: Ps 105:1-45
-  note: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text_omitted: longer than 12 verses; read it in the source
-- tradition: islam
-  ref: Quran 23:45
-  note: 'Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise (bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
-    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 23:48
-  note: 'Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
-    or praise (bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
-    kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. thumma arsalnā Mūsā wa-akhāhu Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn
-    ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw: God sends Moses and Aaron together with his signs (āyāt /
-    ʾōtôt). The Psalm calls Moses ''his servant'' and Aaron ''whom he chose''; the Quran calls Aaron ''his
-    brother''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends Moses and Aaron together, with his signs, to Pharaoh (weight
     6.0); Psalm retells Israel''s sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
@@ -105,6 +50,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends Moses and Aaron together, with his signs, to Pharaoh
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-23-moses-aaron-mary
+  title: Moses and Aaron rejected; the son of Mary and his mother on a height
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends Moses and Aaron together, with his signs, to Pharaoh
+  note: 'thumma arsalnā Mūsā wa-akhāhu Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn
+    ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw: God sends Moses and Aaron together with his signs (āyāt /
+    ʾōtôt). The Psalm calls Moses ''his servant'' and Aaron ''whom he chose''; the Quran calls Aaron ''his
+    brother''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:26
+      lang: he
+      text: שָׁ֭לַח מֹשֶׁ֣ה עַבְדּ֑וֹ אַ֝הֲרֹ֗ן אֲשֶׁ֣ר בָּֽחַר בּֽוֹ
+    - ref: Ps 105:27
+      lang: he
+      text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:45
+      lang: ar
+      text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
+- kind: shared
+  label: Psalm retells Israel's sacred history (patriarchs, Egypt, wilderness, conquest) as instruction
+    or praise
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:1-45
+      lang: he
+      text_omitted: longer than 12 verses; read it in the source
+  - tradition: islam
+    passages:
+    - ref: Quran 23:45
+      lang: ar
+      text: ثُمَّ أَرْسَلْنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلْطَٰنٍ مُّبِينٍ
+    - ref: Quran 23:48
+      lang: ar
+      text: فَكَذَّبُوهُمَا فَكَانُوا۟ مِنَ ٱلْمُهْلَكِينَ
+    note: 'bi-āyātinā ... fa-kānū mina l-muhlakīna ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw ... wə-ʾet ʾôyəvêhem
+      kissâ hay-yām: signs in Egypt and the destruction of the Egyptians, in a recital of history.'
 ---
 
 ## Questions

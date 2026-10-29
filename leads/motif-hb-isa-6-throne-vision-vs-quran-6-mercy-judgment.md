@@ -2,9 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-6-mercy-judgment
 title: The throne vision and the call of Isaiah ↔ Mercy written on himself; the idolaters' denial at the
   gathering
-summary: 'These two units share 2 motifs: prophet commissioned to make the people''s heart fat, ears heavy
-  and eyes shut lest they understand and be healed [divergence between the texts], prophet commissioned
-  to make the people''s heart fat, ears heavy and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,61 +15,9 @@ layers:
 motifs:
 - commission-to-harden-hearts-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed [divergence between the texts] (The same dullness of heart and ears. Isa: hašmēn lēv-hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ, and the prophet is told to cause it. Q: wa-jaʿalnā ʿalā
-    qulūbihim akinnatan an yafqahūhu wa-fī ādhānihim waqran, and God does it. ''Heavy ears'' (k-b-d) =
-    waqr, heaviness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 6:25
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed [divergence between the texts] (The same dullness of heart and ears. Isa: hašmēn lēv-hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ, and the prophet is told to cause it. Q: wa-jaʿalnā ʿalā
-    qulūbihim akinnatan an yafqahūhu wa-fī ādhānihim waqran, and God does it. ''Heavy ears'' (k-b-d) =
-    waqr, heaviness.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ
-    ءَاذَانِهِمْ وَقْرًا وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا حَتَّىٰٓ إِذَا جَآءُوكَ
-    يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 6:25
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (coverings (akinna) on hearts and heaviness (waqr) in ears, cf. Isa 6:10)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ وَفِىٓ
-    ءَاذَانِهِمْ وَقْرًا وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا حَتَّىٰٓ إِذَا جَآءُوكَ
-    يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. The same dullness of heart and ears. Isa: hašmēn lēv-hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd
-    wə-ʿênāyw hāšaʿ, and the prophet is told to cause it. Q: wa-jaʿalnā ʿalā qulūbihim akinnatan an yafqahūhu
-    wa-fī ādhānihim waqran, and God does it. ''Heavy ears'' (k-b-d) = waqr, heaviness.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
     and eyes shut lest they understand and be healed [divergence between the texts] (weight 6.3); Prophet
@@ -110,6 +56,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+  and be healed
+kinds:
+- divergence
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-6-mercy-judgment
+  title: Mercy written on himself; the idolaters' denial at the gathering
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  note: 'The same dullness of heart and ears. Isa: hašmēn lēv-hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw
+    hāšaʿ, and the prophet is told to cause it. Q: wa-jaʿalnā ʿalā qulūbihim akinnatan an yafqahūhu wa-fī
+    ādhānihim waqran, and God does it. ''Heavy ears'' (k-b-d) = waqr, heaviness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:25
+      lang: ar
+      text: وَمِنْهُم مَّن يَسْتَمِعُ إِلَيْكَ وَجَعَلْنَا عَلَىٰ قُلُوبِهِمْ أَكِنَّةً أَن يَفْقَهُوهُ
+        وَفِىٓ ءَاذَانِهِمْ وَقْرًا وَإِن يَرَوْا۟ كُلَّ ءَايَةٍ لَّا يُؤْمِنُوا۟ بِهَا حَتَّىٰٓ إِذَا
+        جَآءُوكَ يُجَٰدِلُونَكَ يَقُولُ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

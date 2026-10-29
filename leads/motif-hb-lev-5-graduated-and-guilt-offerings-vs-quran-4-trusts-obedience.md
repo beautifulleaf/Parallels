@@ -2,8 +2,7 @@
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-4-trusts-obedience
 title: Graduated purification offering and the guilt (asham) offering ↔ Trusts, obedience to authority,
   and the hypocrites who seek other judges
-summary: 'These two units share 1 motifs: return trusts (amānāt) to their owners and judge between people
-  with justice.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - return-trusts-to-owners
-passages:
-- tradition: judaism
-  ref: Lev 5:21
-  note: 'Return trusts (amānāt) to their owners and judge between people with justice (Q: an tuʾaddū l-amānāti
-    ilā ahlihā. Lev: wə-kiḥēš ba-ʿămîtô bə-fiqqādôn ... wə-hēšîb ... ʾet-ha-piqqādôn ʾăšer hopqad ʾittô.
-    In both, the deposit is returned to its owner. Lev treats the denial as a trespass against YHWH (maʿal).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֶ֚פֶשׁ כִּ֣י תֶחֱטָ֔א וּמָעֲלָ֥ה מַ֖עַל בַּיהוָ֑ה וְכִחֵ֨שׁ בַּעֲמִית֜וֹ בְּפִקָּד֗וֹן אֽוֹ בִתְשׂ֤וּמֶת
-    יָד֙ א֣וֹ בְגָזֵ֔ל א֖וֹ עָשַׁ֥ק אֶת עֲמִיתֽוֹ
-- tradition: judaism
-  ref: Lev 5:23
-  note: 'Return trusts (amānāt) to their owners and judge between people with justice (Q: an tuʾaddū l-amānāti
-    ilā ahlihā. Lev: wə-kiḥēš ba-ʿămîtô bə-fiqqādôn ... wə-hēšîb ... ʾet-ha-piqqādôn ʾăšer hopqad ʾittô.
-    In both, the deposit is returned to its owner. Lev treats the denial as a trespass against YHWH (maʿal).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֮ כִּֽי יֶחֱטָ֣א וְאָשֵׁם֒ וְהֵשִׁ֨יב אֶת הַגְּזֵלָ֜ה אֲשֶׁ֣ר גָּזָ֗ל א֤וֹ אֶת הָעֹ֨שֶׁק֙
-    אֲשֶׁ֣ר עָשָׁ֔ק א֚וֹ אֶת הַפִּקָּד֔וֹן אֲשֶׁ֥ר הָפְקַ֖ד אִתּ֑וֹ א֥וֹ אֶת הָאֲבֵדָ֖ה אֲשֶׁ֥ר מָצָֽא
-- tradition: islam
-  ref: Quran 4:58
-  note: Return trusts (amānāt) to their owners and judge between people with justice
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ
-    ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا
-    بَصِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: an tuʾaddū l-amānāti ilā ahlihā. Lev: wə-kiḥēš ba-ʿămîtô bə-fiqqādôn ... wə-hēšîb ...
-    ʾet-ha-piqqādôn ʾăšer hopqad ʾittô. In both, the deposit is returned to its owner. Lev treats the
-    denial as a trespass against YHWH (maʿal).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Return trusts (amānāt) to their owners and judge between people
     with justice (weight 6.7). Pair score 6.7.'
@@ -79,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Return trusts (amānāt) to their owners and judge between people with justice
+kinds:
+- parallel
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-4-trusts-obedience
+  title: Trusts, obedience to authority, and the hypocrites who seek other judges
+  tradition: islam
+matches:
+- kind: parallel
+  label: Return trusts (amānāt) to their owners and judge between people with justice
+  note: 'Q: an tuʾaddū l-amānāti ilā ahlihā. Lev: wə-kiḥēš ba-ʿămîtô bə-fiqqādôn ... wə-hēšîb ... ʾet-ha-piqqādôn
+    ʾăšer hopqad ʾittô. In both, the deposit is returned to its owner. Lev treats the denial as a trespass
+    against YHWH (maʿal).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:21
+      lang: he
+      text: נֶ֚פֶשׁ כִּ֣י תֶחֱטָ֔א וּמָעֲלָ֥ה מַ֖עַל בַּיהוָ֑ה וְכִחֵ֨שׁ בַּעֲמִית֜וֹ בְּפִקָּד֗וֹן אֽוֹ
+        בִתְשׂ֤וּמֶת יָד֙ א֣וֹ בְגָזֵ֔ל א֖וֹ עָשַׁ֥ק אֶת עֲמִיתֽוֹ
+    - ref: Lev 5:23
+      lang: he
+      text: וְהָיָה֮ כִּֽי יֶחֱטָ֣א וְאָשֵׁם֒ וְהֵשִׁ֨יב אֶת הַגְּזֵלָ֜ה אֲשֶׁ֣ר גָּזָ֗ל א֤וֹ אֶת הָעֹ֨שֶׁק֙
+        אֲשֶׁ֣ר עָשָׁ֔ק א֚וֹ אֶת הַפִּקָּד֔וֹן אֲשֶׁ֥ר הָפְקַ֖ד אִתּ֑וֹ א֥וֹ אֶת הָאֲבֵדָ֖ה אֲשֶׁ֥ר מָצָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 4:58
+      lang: ar
+      text: إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم
+        بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ إِنَّ ٱللَّهَ
+        كَانَ سَمِيعًۢا بَصِيرًا
 ---
 
 ## Questions

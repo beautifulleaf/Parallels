@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-19-my-redeemer-lives-vs-quran-38-job
 title: Job - abandoned by all; 'I know my redeemer lives' ↔ Job, the spring and the bundle of twigs
-summary: 'These two units share 1 motifs: who struck or ''touched'' job [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - who-touched-job-as-divergence
-passages:
-- tradition: judaism
-  ref: Job 19:21
-  note: 'Who struck or ''touched'' Job [divergence between the texts] (Who touched Job, with the same
-    verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî (the hand of God has touched me).
-    Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb (Satan has touched me with weariness
-    and torment). nāḡaʿ and massa both mean ''touch''. The Quranic Job puts the cause on Satan and turns
-    to his Lord; the Hebrew Job, who never learns of the satan, puts it on God himself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָנֻּ֬נִי חָנֻּ֣נִי אַתֶּ֣ם רֵעָ֑י כִּ֥י יַד אֱ֝ל֗וֹהַּ נָ֣גְעָה בִּֽי
-- tradition: islam
-  ref: Quran 38:41
-  note: 'Who struck or ''touched'' Job [divergence between the texts] (Who touched Job, with the same
-    verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî (the hand of God has touched me).
-    Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb (Satan has touched me with weariness
-    and torment). nāḡaʿ and massa both mean ''touch''. The Quranic Job puts the cause on Satan and turns
-    to his Lord; the Hebrew Job, who never learns of the satan, puts it on God himself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ وَعَذَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Who touched Job, with the same verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ
-    bî (the hand of God has touched me). Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb
-    (Satan has touched me with weariness and torment). nāḡaʿ and massa both mean ''touch''. The Quranic
-    Job puts the cause on Satan and turns to his Lord; the Hebrew Job, who never learns of the satan,
-    puts it on God himself.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who struck or ''touched'' Job [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -72,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who struck or 'touched' Job
+kinds:
+- divergence
+units:
+- id: hb-job-19-my-redeemer-lives
+  title: Job - abandoned by all; 'I know my redeemer lives'
+  tradition: judaism
+- id: quran-38-job
+  title: Job, the spring and the bundle of twigs
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who struck or 'touched' Job
+  note: 'Who touched Job, with the same verb. Job: ḥonnunî ḥonnunî ʾattem rēʿāy kî yaḏ-ʾĕlôah nāḡəʿâ bî
+    (the hand of God has touched me). Q: idh nādā rabbahu annī massaniya sh-shayṭānu bi-nuṣbin wa-ʿadhāb
+    (Satan has touched me with weariness and torment). nāḡaʿ and massa both mean ''touch''. The Quranic
+    Job puts the cause on Satan and turns to his Lord; the Hebrew Job, who never learns of the satan,
+    puts it on God himself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 19:21
+      lang: he
+      text: חָנֻּ֬נִי חָנֻּ֣נִי אַתֶּ֣ם רֵעָ֑י כִּ֥י יַד אֱ֝ל֗וֹהַּ נָ֣גְעָה בִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 38:41
+      lang: ar
+      text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ
+        وَعَذَابٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-judg-10-tola-jair-ammon-vs-quran-6-mercy-judgment
 title: Minor judges Tola and Jair; apostasy to seven gods; God refuses, then is moved ↔ Mercy written
   on himself; the idolaters' denial at the gathering
-summary: 'These two units share 1 motifs: god mocks: where are their gods who ate the fat of their sacrifices?
-  let them rise and help.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - mocking-where-are-their-gods
-passages:
-- tradition: judaism
-  ref: Judg 10:13-14
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (''go
-    cry to the gods you have chosen; let them save you'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (10:13) וְאַתֶּם֙ עֲזַבְתֶּ֣ם אוֹתִ֔י וַתַּעַבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים לָכֵ֥ן לֹֽא אוֹסִ֖יף לְהוֹשִׁ֥יעַ
-    אֶתְכֶֽם (10:14) לְכ֗וּ וְזַֽעֲקוּ֙ אֶל הָ֣אֱלֹהִ֔ים אֲשֶׁ֥ר בְּחַרְתֶּ֖ם בָּ֑ם הֵ֛מָּה יוֹשִׁ֥יעוּ
-    לָכֶ֖ם בְּעֵ֥ת צָרַתְכֶֽם
-- tradition: judaism
-  ref: Judg 10:14
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (''go
-    cry to the gods you have chosen; let them save you'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְכ֗וּ וְזַֽעֲקוּ֙ אֶל הָ֣אֱלֹהִ֔ים אֲשֶׁ֥ר בְּחַרְתֶּ֖ם בָּ֑ם הֵ֛מָּה יוֹשִׁ֥יעוּ לָכֶ֖ם בְּעֵ֥ת
-    צָרַתְכֶֽם
-- tradition: islam
-  ref: Quran 6:22
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (cf.
-    Deut 32:37)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ
-    كُنتُمْ تَزْعُمُونَ
-- tradition: islam
-  ref: Quran 6:24
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (cf.
-    Deut 32:37)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Judg: ləkhû wə-zaʿăqû ʾel-hā-ʾĕlōhîm ʾăšer bəḥartem bām hēmmāh yôšîʿû lākhem bə-ʿēt ṣāratkhem.
-    Q: ayna shurakāʾukum. The gods they chose fail them; in Judg God then relents (10:16), in Q the idolaters
-    deny they ever had partners (wa-llāhi rabbinā mā kunnā mushrikīn).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God mocks: where are their gods who ate the fat of their sacrifices?
     let them rise and help (weight 5.8). Pair score 5.8.'
@@ -84,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+kinds:
+- echo
+units:
+- id: hb-judg-10-tola-jair-ammon
+  title: Minor judges Tola and Jair; apostasy to seven gods; God refuses, then is moved
+  tradition: judaism
+- id: quran-6-mercy-judgment
+  title: Mercy written on himself; the idolaters' denial at the gathering
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+  note: 'Judg: ləkhû wə-zaʿăqû ʾel-hā-ʾĕlōhîm ʾăšer bəḥartem bām hēmmāh yôšîʿû lākhem bə-ʿēt ṣāratkhem.
+    Q: ayna shurakāʾukum. The gods they chose fail them; in Judg God then relents (10:16), in Q the idolaters
+    deny they ever had partners (wa-llāhi rabbinā mā kunnā mushrikīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 10:14
+      lang: he
+      text: לְכ֗וּ וְזַֽעֲקוּ֙ אֶל הָ֣אֱלֹהִ֔ים אֲשֶׁ֥ר בְּחַרְתֶּ֖ם בָּ֑ם הֵ֛מָּה יוֹשִׁ֥יעוּ לָכֶ֖ם
+        בְּעֵ֥ת צָרַתְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:22
+      lang: ar
+      text: وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ
+        ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 ---
 
 ## Questions

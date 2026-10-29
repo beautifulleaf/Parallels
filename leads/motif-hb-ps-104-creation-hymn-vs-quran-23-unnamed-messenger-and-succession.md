@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-23-unnamed-messenger-and-succession
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ A later generation's messenger,
   the Cry, and messengers in succession
-summary: 'These two units share 1 motifs: human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Ps 104:29
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
-- tradition: judaism
-  ref: Ps 104:30
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 23:35
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:42
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. turāban wa-ʿiẓāman ... thumma anshaʾnā min baʿdihim qurūnan ākharīna ~ wə-ʾel ʿăfārām yəšûvûn;
-    təšallaḥ rûḥăkā yibbārēʾûn û-təḥaddēš pənê ʾădāmâ: return to dust and God''s renewal by creating again
-    (anshaʾa / nivrāʾ). In the Psalm it is new generations of creatures; the Quran has new generations
-    (23:31, 23:42) and also the bodily raising that the deniers reject.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
     5.0.'
@@ -76,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: echo
+  label: Human comes from dust and returns to dust
+  note: 'turāban wa-ʿiẓāman ... thumma anshaʾnā min baʿdihim qurūnan ākharīna ~ wə-ʾel ʿăfārām yəšûvûn;
+    təšallaḥ rûḥăkā yibbārēʾûn û-təḥaddēš pənê ʾădāmâ: return to dust and God''s renewal by creating again
+    (anshaʾa / nivrāʾ). In the Psalm it is new generations of creatures; the Quran has new generations
+    (23:31, 23:42) and also the bodily raising that the deniers reject.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:29
+      lang: he
+      text: תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל עֲפָרָ֥ם יְשׁוּבֽוּן
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
+    - ref: Quran 23:42
+      lang: ar
+      text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
 ---
 
 ## Questions

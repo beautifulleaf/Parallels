@@ -2,9 +2,7 @@
 id: motif-hb-ezek-36-new-heart-new-spirit-vs-quran-57-hadid-light-and-the-wall
 title: For my holy name - clean water, new heart, my spirit within; the land like Eden ↔ The believers'
   light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened by long time
-summary: 'These two units share 2 motifs: the people''s hearts are called hard (arabic q-s-w, hebrew q-sh-h),
-  or god makes them so [divergence between the texts], god will remove the heart of stone and give a heart
-  of flesh and a new spirit.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,66 +15,9 @@ layers:
 motifs:
 - hearts-made-hard-as-divergence
 - heart-of-stone-to-heart-of-flesh
-passages:
-- tradition: judaism
-  ref: Ezek 36:26
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so [divergence
-    between the texts] (The hardened heart, cured by God or warned against. Ezekiel: wə-nāṯattî lāḵem
-    lēḇ ḥāḏāš ... wa-hăsirōṯî ʾeṯ lēḇ hā-ʾeḇen mib-bəśarḵem wə-nāṯattî lāḵem lēḇ bāśār (God removes the
-    heart of stone from Israel). Quran: a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum ... wa-lā
-    yakūnū ka-lladhīna ūtū l-kitāba min qablu fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum. In Ezekiel
-    God gives the new heart; in the Quran believers are warned not to let their hearts harden like those
-    of the earlier People of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת לֵ֤ב
-    הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 57:16
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so [divergence
-    between the texts] (The hardened heart, cured by God or warned against. Ezekiel: wə-nāṯattî lāḵem
-    lēḇ ḥāḏāš ... wa-hăsirōṯî ʾeṯ lēḇ hā-ʾeḇen mib-bəśarḵem wə-nāṯattî lāḵem lēḇ bāśār (God removes the
-    heart of stone from Israel). Quran: a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum ... wa-lā
-    yakūnū ka-lladhīna ūtū l-kitāba min qablu fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum. In Ezekiel
-    God gives the new heart; in the Quran believers are warned not to let their hearts harden like those
-    of the earlier People of the Book.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ
-    ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
-    فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
-- tradition: judaism
-  ref: Ezek 36:26
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת לֵ֤ב
-    הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 57:16
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ
-    ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
-    فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
-- tradition: islam
-  ref: Quran 57:17
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ
-    لَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The hardened heart, cured by God or warned against. Ezekiel: wə-nāṯattî lāḵem lēḇ ḥāḏāš
-    ... wa-hăsirōṯî ʾeṯ lēḇ hā-ʾeḇen mib-bəśarḵem wə-nāṯattî lāḵem lēḇ bāśār (God removes the heart of
-    stone from Israel). Quran: a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum ... wa-lā yakūnū ka-lladhīna
-    ūtū l-kitāba min qablu fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum. In Ezekiel God gives the new
-    heart; in the Quran believers are warned not to let their hearts harden like those of the earlier
-    People of the Book.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h),
     or God makes them so [divergence between the texts] (weight 6.7); God will remove the heart of stone
@@ -114,6 +55,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ezek-36-new-heart-new-spirit
+  title: For my holy name - clean water, new heart, my spirit within; the land like Eden
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: divergence
+  label: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+  note: 'The hardened heart, cured by God or warned against. Ezekiel: wə-nāṯattî lāḵem lēḇ ḥāḏāš ... wa-hăsirōṯî
+    ʾeṯ lēḇ hā-ʾeḇen mib-bəśarḵem wə-nāṯattî lāḵem lēḇ bāśār (God removes the heart of stone from Israel).
+    Quran: a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum ... wa-lā yakūnū ka-lladhīna ūtū l-kitāba
+    min qablu fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum. In Ezekiel God gives the new heart; in the
+    Quran believers are warned not to let their hearts harden like those of the earlier People of the
+    Book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 36:26
+      lang: he
+      text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת
+        לֵ֤ב הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 57:16
+      lang: ar
+      text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ
+        مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
+        فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+- kind: shared
+  label: God will remove the heart of stone and give a heart of flesh and a new spirit
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 36:26
+      lang: he
+      text: וְנָתַתִּ֤י לָכֶם֙ לֵ֣ב חָדָ֔שׁ וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י אֶת
+        לֵ֤ב הָאֶ֨בֶן֙ מִבְּשַׂרְכֶ֔ם וְנָתַתִּ֥י לָכֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 57:16
+      lang: ar
+      text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ
+        مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
+        فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+    - ref: Quran 57:17
+      lang: ar
+      text: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ
+        لَعَلَّكُمْ تَعْقِلُونَ
+    note: hearts become hard (qasat)
 ---
 
 ## Questions

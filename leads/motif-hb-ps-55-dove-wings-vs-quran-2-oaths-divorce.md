@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-55-dove-wings-vs-quran-2-oaths-divorce
 title: Psalm 55, wings of a dove and the treacherous friend ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 1 motifs: guard the prayers and the middle prayer (al-salat al-wusta).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,27 +13,9 @@ layers:
 - motif
 motifs:
 - middle-prayer
-passages:
-- tradition: judaism
-  ref: Ps 55:18
-  note: 'Guard the prayers and the middle prayer (al-salat al-wusta) (Ps 55:18 ʿereb wā-bōqer wĕ-ṣohŏrayim
-    ʾāśîḥâ: prayer evening, morning and noon; Q 2:238 ḥāfiẓū ʿalā ṣ-ṣalawāti wa-ṣ-ṣalāti l-wusṭā: keep
-    the prayers and ''the middle prayer''. Weak: fixed daily prayer times with a middle one, which the
-    Quran does not identify.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
-- tradition: islam
-  ref: Quran 2:238
-  note: Guard the prayers and the middle prayer (al-salat al-wusta)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 55:18 ʿereb wā-bōqer wĕ-ṣohŏrayim ʾāśîḥâ: prayer evening, morning and noon; Q 2:238 ḥāfiẓū
-    ʿalā ṣ-ṣalawāti wa-ṣ-ṣalāti l-wusṭā: keep the prayers and ''the middle prayer''. Weak: fixed daily
-    prayer times with a middle one, which the Quran does not identify.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Guard the prayers and the middle prayer (al-salat al-wusta) (weight
     6.7). Pair score 6.7.'
@@ -66,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Guard the prayers and the middle prayer (al-salat al-wusta)
+kinds:
+- echo
+units:
+- id: hb-ps-55-dove-wings
+  title: Psalm 55, wings of a dove and the treacherous friend
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: echo
+  label: Guard the prayers and the middle prayer (al-salat al-wusta)
+  note: 'Ps 55:18 ʿereb wā-bōqer wĕ-ṣohŏrayim ʾāśîḥâ: prayer evening, morning and noon; Q 2:238 ḥāfiẓū
+    ʿalā ṣ-ṣalawāti wa-ṣ-ṣalāti l-wusṭā: keep the prayers and ''the middle prayer''. Weak: fixed daily
+    prayer times with a middle one, which the Quran does not identify.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 55:18
+      lang: he
+      text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:238
+      lang: ar
+      text: حَٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَٰنِتِينَ
 ---
 
 ## Questions

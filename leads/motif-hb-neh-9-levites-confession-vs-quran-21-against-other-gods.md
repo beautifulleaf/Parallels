@@ -2,7 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-21-against-other-gods
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Creation not in jest; the unceasing
   angels and the argument from one God
-summary: 'These two units share 1 motifs: the host of heaven bows down to god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - host-of-heaven-bows-to-god
-passages:
-- tradition: judaism
-  ref: Neh 9:6
-  note: The host of heaven bows down to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל
-    צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת
-    כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
-- tradition: islam
-  ref: Quran 21:19
-  note: The host of heaven bows down to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ
-    وَلَا يَسْتَحْسِرُونَ
-- tradition: islam
-  ref: Quran 21:20
-  note: The host of heaven bows down to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾattâ-hûʾ YHWH ləbaddekā ... ûṣəbāʾ haššāmayim ləkā mištaḥăwîm; wa-lahu man fī s-samāwāti
-    wa-l-arḍi wa-man ʿindahu lā yastakbirūna ʿan ʿibādatih ... yusabbiḥūna l-layla wa-n-nahāra lā yafturūn:
-    the host of heaven worships the one God. Q adds that they never tire.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -73,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The host of heaven bows down to God
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-21-against-other-gods
+  title: Creation not in jest; the unceasing angels and the argument from one God
+  tradition: islam
+matches:
+- kind: parallel
+  label: The host of heaven bows down to God
+  note: 'ʾattâ-hûʾ YHWH ləbaddekā ... ûṣəbāʾ haššāmayim ləkā mištaḥăwîm; wa-lahu man fī s-samāwāti wa-l-arḍi
+    wa-man ʿindahu lā yastakbirūna ʿan ʿibādatih ... yusabbiḥūna l-layla wa-n-nahāra lā yafturūn: the
+    host of heaven worships the one God. Q adds that they never tire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:6
+      lang: he
+      text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם
+        וְכָל צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה
+        אֶת כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 21:19
+      lang: ar
+      text: وَلَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَنْ عِندَهُۥ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ
+        وَلَا يَسْتَحْسِرُونَ
+    - ref: Quran 21:20
+      lang: ar
+      text: يُسَبِّحُونَ ٱلَّيْلَ وَٱلنَّهَارَ لَا يَفْتُرُونَ
 ---
 
 ## Questions

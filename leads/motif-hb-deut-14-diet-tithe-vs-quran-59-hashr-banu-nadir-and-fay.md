@@ -2,9 +2,7 @@
 id: motif-hb-deut-14-diet-tithe-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'Mourning rites forbidden; clean and unclean food; tithes ↔ Al-Hashr: the first gathering and exile
   of the Banu Nadir, the cut palms, and the law of fay'''
-summary: 'These two units share 1 motifs: fay'' (booty gained without cavalry or camels) goes to god,
-  the messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate only among the
-  rich.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,44 +14,9 @@ layers:
 - motif
 motifs:
 - fay-booty-without-fighting-for-prophet-kin-poor
-passages:
-- tradition: judaism
-  ref: Deut 14:29
-  note: 'Fay'' (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the
-    poor and the wayfarer, so wealth does not circulate only among the rich (The beneficiaries: û-ḇāʾ
-    hal-lēwî kî ʾên lô ḥēleq wə-naḥălâ ʿimmāḵ wə-hag-gēr wə-hay-yāṯôm wə-hā-ʾalmānâ vs. wa-li-dhī l-qurbā
-    wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl. The third-year tithe feeds Levite, stranger, orphan and
-    widow; the fayʾ feeds the Prophet''s kin, orphans, the poor and the wayfarer (the Levite''s place
-    taken by the Prophet''s kin, the stranger by the wayfarer).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
-    אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
-    יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 59:6
-  note: Fay' (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the poor
-    and the wayfarer, so wealth does not circulate only among the rich
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا
-    رِكَابٍ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: islam
-  ref: Quran 59:7
-  note: Fay' (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the poor
-    and the wayfarer, so wealth does not circulate only among the rich
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
-    ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ
-    مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The beneficiaries: û-ḇāʾ hal-lēwî kî ʾên lô ḥēleq wə-naḥălâ ʿimmāḵ wə-hag-gēr wə-hay-yāṯôm wə-hā-ʾalmānâ
-    vs. wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl. The third-year tithe feeds Levite,
-    stranger, orphan and widow; the fayʾ feeds the Prophet''s kin, orphans, the poor and the wayfarer
-    (the Levite''s place taken by the Prophet''s kin, the stranger by the wayfarer).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fay'' (booty gained without cavalry or camels) goes to God, the
     messenger, kin, orphans, the poor and the wayfarer, so wealth does not circulate only among the rich
@@ -93,6 +56,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fay' (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the poor
+  and the wayfarer, so wealth does not circulate only among the rich
+kinds:
+- echo
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: echo
+  label: Fay' (booty gained without cavalry or camels) goes to God, the messenger, kin, orphans, the poor
+    and the wayfarer, so wealth does not circulate only among the rich
+  note: 'The beneficiaries: û-ḇāʾ hal-lēwî kî ʾên lô ḥēleq wə-naḥălâ ʿimmāḵ wə-hag-gēr wə-hay-yāṯôm wə-hā-ʾalmānâ
+    vs. wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl. The third-year tithe feeds Levite,
+    stranger, orphan and widow; the fayʾ feeds the Prophet''s kin, orphans, the poor and the wayfarer
+    (the Levite''s place taken by the Prophet''s kin, the stranger by the wayfarer).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:29
+      lang: he
+      text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
+        אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
+        יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 59:7
+      lang: ar
+      text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ
+        ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 ---
 
 ## Questions

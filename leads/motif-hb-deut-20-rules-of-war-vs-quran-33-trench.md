@@ -2,9 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-33-trench
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The confederates besiege Medina; hypocrites
   and the faithful'
-summary: 'These two units share 2 motifs: men leave the battle line to go home, and how that is judged
-  [contrast between the texts], book-people who aided the enemy are brought down from their fortresses,
-  terror cast in their hearts; some killed, some captured, their land inherited.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,110 +15,16 @@ traditions:
 layers:
 - motif
 motifs:
-- leaving-the-battle-line-for-home-as-contrast
 - people-of-book-allies-brought-down-from-fortresses
-passages:
-- tradition: judaism
-  ref: Deut 20:5
-  note: 'Men leave the battle line to go home, and how that is judged [contrast between the texts] (Going
-    home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ ḇayiṯ-ḥāḏāš ... yēlēḵ wə-yāšōḇ
-    lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran condemns the same
-    plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun wa-mā hiya bi-ʿawratin
-    in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are the hypocrites of the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:8
-  note: 'Men leave the battle line to go home, and how that is judged [contrast between the texts] (Going
-    home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ ḇayiṯ-ḥāḏāš ... yēlēḵ wə-yāšōḇ
-    lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran condemns the same
-    plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun wa-mā hiya bi-ʿawratin
-    in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are the hypocrites of the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
-    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
-- tradition: islam
-  ref: Quran 33:13
-  note: 'Men leave the battle line to go home, and how that is judged [contrast between the texts] (Going
-    home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ ḇayiṯ-ḥāḏāš ... yēlēḵ wə-yāšōḇ
-    lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran condemns the same
-    plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun wa-mā hiya bi-ʿawratin
-    in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are the hypocrites of the
-    Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ وَيَسْتَـْٔذِنُ
-    فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ إِن يُرِيدُونَ
-    إِلَّا فِرَارًا
-- tradition: islam
-  ref: Quran 33:14
-  note: 'Men leave the battle line to go home, and how that is judged [contrast between the texts] (Going
-    home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ ḇayiṯ-ḥāḏāš ... yēlēḵ wə-yāšōḇ
-    lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran condemns the same
-    plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun wa-mā hiya bi-ʿawratin
-    in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are the hypocrites of the
-    Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا تَلَبَّثُوا۟
-    بِهَآ إِلَّا يَسِيرًا
-- tradition: judaism
-  ref: Deut 20:13
-  note: 'Book-people who aided the enemy are brought down from their fortresses, terror cast in their
-    hearts; some killed, some captured, their land inherited (Treatment of a defeated walled enemy: wə-hikkîṯā
-    ʾeṯ-kol-zəḵûrāh ... raq ha-nnāšîm wə-ha-ṭṭap̄ ... kol-šəlālāh tāḇōz lāḵ vs. farīqan taqtulūna wa-taʾsirūna
-    farīqan wa-awrathakum arḍahum wa-diyārahum wa-amwālahum. A part killed, a part taken captive, property
-    taken; in both it is God who hands it over (û-nəṯānāh YHWH / awrathakum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּנְתָנָ֛הּ יְהוָ֥ה אֱלֹהֶ֖יךָ בְּיָדֶ֑ךָ וְהִכִּיתָ֥ אֶת כָּל זְכוּרָ֖הּ לְפִי חָֽרֶב
-- tradition: judaism
-  ref: Deut 20:14
-  note: 'Book-people who aided the enemy are brought down from their fortresses, terror cast in their
-    hearts; some killed, some captured, their land inherited (Treatment of a defeated walled enemy: wə-hikkîṯā
-    ʾeṯ-kol-zəḵûrāh ... raq ha-nnāšîm wə-ha-ṭṭap̄ ... kol-šəlālāh tāḇōz lāḵ vs. farīqan taqtulūna wa-taʾsirūna
-    farīqan wa-awrathakum arḍahum wa-diyārahum wa-amwālahum. A part killed, a part taken captive, property
-    taken; in both it is God who hands it over (û-nəṯānāh YHWH / awrathakum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֣ק הַ֠נָּשִׁים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כָּל שְׁלָלָ֖הּ תָּבֹ֣ז
-    לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
-- tradition: islam
-  ref: Quran 33:26
-  note: Book-people who aided the enemy are brought down from their fortresses, terror cast in their hearts;
-    some killed, some captured, their land inherited (traditionally the Banu Qurayza)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
-    ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
-- tradition: islam
-  ref: Quran 33:27
-  note: Book-people who aided the enemy are brought down from their fortresses, terror cast in their hearts;
-    some killed, some captured, their land inherited (traditionally the Banu Qurayza)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا وَكَانَ ٱللَّهُ
-    عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
+- leaving-the-battle-line-for-home-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast, parallel. Going home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ
-    ḇayiṯ-ḥāḏāš ... yēlēḵ wə-yāšōḇ lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô.
-    The Quran condemns the same plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun
-    wa-mā hiya bi-ʿawratin in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are
-    the hypocrites of the Quran. Treatment of a defeated walled enemy: wə-hikkîṯā ʾeṯ-kol-zəḵûrāh ...
-    raq ha-nnāšîm wə-ha-ṭṭap̄ ... kol-šəlālāh tāḇōz lāḵ vs. farīqan taqtulūna wa-taʾsirūna farīqan wa-awrathakum
-    arḍahum wa-diyārahum wa-amwālahum. A part killed, a part taken captive, property taken; in both it
-    is God who hands it over (û-nəṯānāh YHWH / awrathakum).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Men leave the battle line to go home, and how that is judged [contrast
-    between the texts] (weight 6.7); Book-people who aided the enemy are brought down from their fortresses,
-    terror cast in their hearts; some killed, some captured, their land inherited (weight 6.7). Pair score
-    13.4.'
+- text: 'Shared motifs, rarest first: Book-people who aided the enemy are brought down from their fortresses,
+    terror cast in their hearts; some killed, some captured, their land inherited (weight 6.7); Men leave
+    the battle line to go home, and how that is judged [contrast between the texts] (weight 6.7). Pair
+    score 13.4.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -151,6 +55,74 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Men leave the battle line to go home, and how that is judged
+kinds:
+- contrast
+- parallel
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-33-trench
+  title: The confederates besiege Medina; hypocrites and the faithful
+  tradition: islam
+matches:
+- kind: contrast
+  label: Men leave the battle line to go home, and how that is judged
+  note: 'Going home from the battle line. Deut grants it as a right: mî-hā-ʾîš ʾăšer bānâ ḇayiṯ-ḥāḏāš
+    ... yēlēḵ wə-yāšōḇ lə-ḇêṯô ... mî-hā-ʾîš ha-yyārēʾ wə-raḵ ha-llēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran
+    condemns the same plea: yastaʾdhinu farīqun minhumu n-nabiyya yaqūlūna inna buyūtanā ʿawratun wa-mā
+    hiya bi-ʿawratin in yurīdūna illā firārā. The exempted house and the fainthearted of Deut are the
+    hypocrites of the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:8
+      lang: he
+      text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
+        יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:13
+      lang: ar
+      text: وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ وَيَسْتَـْٔذِنُ
+        فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ إِن يُرِيدُونَ
+        إِلَّا فِرَارًا
+    - ref: Quran 33:14
+      lang: ar
+      text: وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَءَاتَوْهَا وَمَا
+        تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا
+- kind: parallel
+  label: Book-people who aided the enemy are brought down from their fortresses, terror cast in their
+    hearts; some killed, some captured, their land inherited
+  note: 'Treatment of a defeated walled enemy: wə-hikkîṯā ʾeṯ-kol-zəḵûrāh ... raq ha-nnāšîm wə-ha-ṭṭap̄
+    ... kol-šəlālāh tāḇōz lāḵ vs. farīqan taqtulūna wa-taʾsirūna farīqan wa-awrathakum arḍahum wa-diyārahum
+    wa-amwālahum. A part killed, a part taken captive, property taken; in both it is God who hands it
+    over (û-nəṯānāh YHWH / awrathakum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:13
+      lang: he
+      text: וּנְתָנָ֛הּ יְהוָ֥ה אֱלֹהֶ֖יךָ בְּיָדֶ֑ךָ וְהִכִּיתָ֥ אֶת כָּל זְכוּרָ֖הּ לְפִי חָֽרֶב
+    - ref: Deut 20:14
+      lang: he
+      text: רַ֣ק הַ֠נָּשִׁים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כָּל שְׁלָלָ֖הּ תָּבֹ֣ז
+        לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:26
+      lang: ar
+      text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
+        ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
+    - ref: Quran 33:27
+      lang: ar
+      text: وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا وَكَانَ
+        ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا
 ---
 
 ## Questions

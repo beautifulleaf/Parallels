@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-5-naaman-vs-quran-2-abraham-king
 title: Naaman healed of leprosy; Gehazi's greed ↔ Abraham disputes with the king
-summary: 'These two units share 1 motifs: who has power to give life and death [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,35 +13,9 @@ layers:
 - motif
 motifs:
 - power-over-life-and-death-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Kgs 5:7
-  note: 'Who has power to give life and death [contrast between the texts] (2Kgs 5:7 wa-yyiqraʿ bĕgādāyw
-    wa-yyōʾmer ha-ʾĕlōhîm ʾānî lĕhāmît û-lĕhaḥăyôt: the king of Israel tears his clothes and refuses the
-    power over life and death as God''s alone; Q 2:258 anā uḥyī wa-umītu: the king who disputes with Abraham
-    claims it. A king disowns the claim vs a king makes it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ יִשְׂרָאֵ֨ל אֶת הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֨אמֶר֙ הַאֱלֹהִ֥ים
-    אָ֨נִי֙ לְהָמִ֣ית וּֽלְהַחֲי֔וֹת כִּֽי זֶה֙ שֹׁלֵ֣חַ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתּ֑וֹ כִּ֤י
-    אַךְ דְּעֽוּ נָא֙ וּרְא֔וּ כִּֽי מִתְאַנֶּ֥ה ה֖וּא לִֽי
-- tradition: islam
-  ref: Quran 2:258
-  note: 'Who has power to give life and death [contrast between the texts] (2Kgs 5:7 wa-yyiqraʿ bĕgādāyw
-    wa-yyōʾmer ha-ʾĕlōhîm ʾānî lĕhāmît û-lĕhaḥăyôt: the king of Israel tears his clothes and refuses the
-    power over life and death as God''s alone; Q 2:258 anā uḥyī wa-umītu: the king who disputes with Abraham
-    claims it. A king disowns the claim vs a king makes it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
-    إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ إِبْرَٰهِۦمُ
-    فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى
-    كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. 2Kgs 5:7 wa-yyiqraʿ bĕgādāyw wa-yyōʾmer ha-ʾĕlōhîm ʾānî lĕhāmît û-lĕhaḥăyôt: the king of
-    Israel tears his clothes and refuses the power over life and death as God''s alone; Q 2:258 anā uḥyī
-    wa-umītu: the king who disputes with Abraham claims it. A king disowns the claim vs a king makes it.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who has power to give life and death [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -70,6 +44,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who has power to give life and death
+kinds:
+- contrast
+units:
+- id: hb-2kgs-5-naaman
+  title: Naaman healed of leprosy; Gehazi's greed
+  tradition: judaism
+- id: quran-2-abraham-king
+  title: Abraham disputes with the king
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who has power to give life and death
+  note: '2Kgs 5:7 wa-yyiqraʿ bĕgādāyw wa-yyōʾmer ha-ʾĕlōhîm ʾānî lĕhāmît û-lĕhaḥăyôt: the king of Israel
+    tears his clothes and refuses the power over life and death as God''s alone; Q 2:258 anā uḥyī wa-umītu:
+    the king who disputes with Abraham claims it. A king disowns the claim vs a king makes it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:7
+      lang: he
+      text: וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ יִשְׂרָאֵ֨ל אֶת הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֨אמֶר֙ הַאֱלֹהִ֥ים
+        אָ֨נִי֙ לְהָמִ֣ית וּֽלְהַחֲי֔וֹת כִּֽי זֶה֙ שֹׁלֵ֣חַ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתּ֑וֹ כִּ֤י
+        אַךְ דְּעֽוּ נָא֙ וּרְא֔וּ כִּֽי מִתְאַנֶּ֥ה ה֖וּא לִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:258
+      lang: ar
+      text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
+        إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ
+        إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ
+        فَبُهِتَ ٱلَّذِى كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-5-sea-boundary-vs-quran-11-opening-throne-on-water
 title: The sea's sand boundary; houses full of deceit ↔ The Book made firm, the Throne on the water, the
   challenge of ten surahs
-summary: 'These two units share 1 motifs: a foolish people who have eyes but do not see and ears but do
-  not hear.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - eyes-that-do-not-see
-passages:
-- tradition: judaism
-  ref: Jer 5:21
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
-    וְלֹ֥א יִשְׁמָֽעוּ
-- tradition: islam
-  ref: Quran 11:20
-  note: A foolish people who have eyes but do not see and ears but do not hear (parable of the blind and
-    deaf vs the seeing and hearing)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ مِنْ
-    أَوْلِيَآءَ يُضَٰعَفُ لَهُمُ ٱلْعَذَابُ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟ يُبْصِرُونَ
-- tradition: islam
-  ref: Quran 11:24
-  note: A foolish people who have eyes but do not see and ears but do not hear (parable of the blind and
-    deaf vs the seeing and hearing)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ هَلْ يَسْتَوِيَانِ
-    مَثَلًا أَفَلَا تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. mā kānū yastaṭīʿūna s-samʿa wa-mā kānū yubṣirūn; ka-l-aʿmā wa-l-aṣammi vs ʿênayim lāhem wᵉlōʾ
-    yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
     hear (weight 5.4). Pair score 5.4.'
@@ -75,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foolish people who have eyes but do not see and ears but do not hear
+kinds:
+- echo
+units:
+- id: hb-jer-5-sea-boundary
+  title: The sea's sand boundary; houses full of deceit
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: echo
+  label: A foolish people who have eyes but do not see and ears but do not hear
+  note: mā kānū yastaṭīʿūna s-samʿa wa-mā kānū yubṣirūn; ka-l-aʿmā wa-l-aṣammi vs ʿênayim lāhem wᵉlōʾ
+    yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 5:21
+      lang: he
+      text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
+        וְלֹ֥א יִשְׁמָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:20
+      lang: ar
+      text: أُو۟لَٰٓئِكَ لَمْ يَكُونُوا۟ مُعْجِزِينَ فِى ٱلْأَرْضِ وَمَا كَانَ لَهُم مِّن دُونِ ٱللَّهِ
+        مِنْ أَوْلِيَآءَ يُضَٰعَفُ لَهُمُ ٱلْعَذَابُ مَا كَانُوا۟ يَسْتَطِيعُونَ ٱلسَّمْعَ وَمَا كَانُوا۟
+        يُبْصِرُونَ
+    - ref: Quran 11:24
+      lang: ar
+      text: مَثَلُ ٱلْفَرِيقَيْنِ كَٱلْأَعْمَىٰ وَٱلْأَصَمِّ وَٱلْبَصِيرِ وَٱلسَّمِيعِ هَلْ يَسْتَوِيَانِ
+        مَثَلًا أَفَلَا تَذَكَّرُونَ
 ---
 
 ## Questions

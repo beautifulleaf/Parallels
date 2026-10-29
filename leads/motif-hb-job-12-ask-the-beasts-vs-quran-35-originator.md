@@ -2,8 +2,7 @@
 id: motif-hb-job-12-ask-the-beasts-vs-quran-35-originator
 title: Job - ask the beasts; God's sovereign overturnings ↔ The Originator, winged angels, and the two
   seas
-summary: 'These two units share 1 motifs: what god opens no one can shut, and what he withholds no one
-  can release.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,44 +15,9 @@ layers:
 - motif
 motifs:
 - god-opens-and-none-can-shut
-passages:
-- tradition: judaism
-  ref: Job 12:14
-  note: 'What God opens no one can shut, and what he withholds no one can release (hēn yahărôs wə-lōʾ
-    yibbāneh yisgōr ʿal-ʾîš wə-lōʾ yippāṯēaḥ / hēn yaʿṣōr ba-mmayim ... wî-šalləḥēm vs. mā yaftaḥi llāhu
-    li-n-nāsi min raḥmatin fa-lā mumsika lahā wa-mā yumsik fa-lā mursila lahu min baʿdihi. Opening and
-    shutting, holding back and sending: God''s acts cannot be reversed. pāṯaḥ/fataḥa and šillaḥ/arsala
-    correspond. Job states it of destruction; the Quran of mercy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֣ן יַ֭הֲרוֹס וְלֹ֣א יִבָּנֶ֑ה יִסְגֹּ֥ר עַל אִ֝֗ישׁ וְלֹ֣א יִפָּתֵֽחַ
-- tradition: judaism
-  ref: Job 12:15
-  note: 'What God opens no one can shut, and what he withholds no one can release (hēn yahărôs wə-lōʾ
-    yibbāneh yisgōr ʿal-ʾîš wə-lōʾ yippāṯēaḥ / hēn yaʿṣōr ba-mmayim ... wî-šalləḥēm vs. mā yaftaḥi llāhu
-    li-n-nāsi min raḥmatin fa-lā mumsika lahā wa-mā yumsik fa-lā mursila lahu min baʿdihi. Opening and
-    shutting, holding back and sending: God''s acts cannot be reversed. pāṯaḥ/fataḥa and šillaḥ/arsala
-    correspond. Job states it of destruction; the Quran of mercy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤ן יַעְצֹ֣ר בַּמַּ֣יִם וְיִבָ֑שׁוּ וִֽ֝ישַׁלְּחֵ֗ם וְיַ֖הַפְכוּ אָֽרֶץ
-- tradition: islam
-  ref: Quran 35:2
-  note: 'What God opens no one can shut, and what he withholds no one can release (hēn yahărôs wə-lōʾ
-    yibbāneh yisgōr ʿal-ʾîš wə-lōʾ yippāṯēaḥ / hēn yaʿṣōr ba-mmayim ... wî-šalləḥēm vs. mā yaftaḥi llāhu
-    li-n-nāsi min raḥmatin fa-lā mumsika lahā wa-mā yumsik fa-lā mursila lahu min baʿdihi. Opening and
-    shutting, holding back and sending: God''s acts cannot be reversed. pāṯaḥ/fataḥa and šillaḥ/arsala
-    correspond. Job states it of destruction; the Quran of mercy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ
-    لَهُۥ مِنۢ بَعْدِهِۦ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. hēn yahărôs wə-lōʾ yibbāneh yisgōr ʿal-ʾîš wə-lōʾ yippāṯēaḥ / hēn yaʿṣōr ba-mmayim ... wî-šalləḥēm
-    vs. mā yaftaḥi llāhu li-n-nāsi min raḥmatin fa-lā mumsika lahā wa-mā yumsik fa-lā mursila lahu min
-    baʿdihi. Opening and shutting, holding back and sending: God''s acts cannot be reversed. pāṯaḥ/fataḥa
-    and šillaḥ/arsala correspond. Job states it of destruction; the Quran of mercy.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God opens no one can shut, and what he withholds no one can
     release (weight 6.7). Pair score 6.7.'
@@ -90,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What God opens no one can shut, and what he withholds no one can release
+kinds:
+- parallel
+units:
+- id: hb-job-12-ask-the-beasts
+  title: Job - ask the beasts; God's sovereign overturnings
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: parallel
+  label: What God opens no one can shut, and what he withholds no one can release
+  note: 'hēn yahărôs wə-lōʾ yibbāneh yisgōr ʿal-ʾîš wə-lōʾ yippāṯēaḥ / hēn yaʿṣōr ba-mmayim ... wî-šalləḥēm
+    vs. mā yaftaḥi llāhu li-n-nāsi min raḥmatin fa-lā mumsika lahā wa-mā yumsik fa-lā mursila lahu min
+    baʿdihi. Opening and shutting, holding back and sending: God''s acts cannot be reversed. pāṯaḥ/fataḥa
+    and šillaḥ/arsala correspond. Job states it of destruction; the Quran of mercy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 12:14
+      lang: he
+      text: הֵ֣ן יַ֭הֲרוֹס וְלֹ֣א יִבָּנֶ֑ה יִסְגֹּ֥ר עַל אִ֝֗ישׁ וְלֹ֣א יִפָּתֵֽחַ
+    - ref: Job 12:15
+      lang: he
+      text: הֵ֤ן יַעְצֹ֣ר בַּמַּ֣יִם וְיִבָ֑שׁוּ וִֽ֝ישַׁלְּחֵ֗ם וְיַ֖הַפְכוּ אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 35:2
+      lang: ar
+      text: مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ
+        لَهُۥ مِنۢ بَعْدِهِۦ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

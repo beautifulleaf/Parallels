@@ -2,8 +2,7 @@
 id: motif-hb-gen-26-isaac-in-gerar-vs-quran-42-shura-revelation-one-religion
 title: 'Isaac in Gerar, the wife-sister episode, wells and treaty ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation,
   the angels'' intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: abraham kept god''s charge, commandments, statutes and laws
-  (torot) before sinai.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-kept-laws
-passages:
-- tradition: judaism
-  ref: Gen 26:5
-  note: Abraham kept God's charge, commandments, statutes and laws (torot) before Sinai
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי
-- tradition: islam
-  ref: Quran 42:13
-  note: 'Abraham kept God''s charge, commandments, statutes and laws (torot) before Sinai (Abraham already
-    had God''s law before Moses: ʿēqeḇ ʾăšer šāmaʿ ʾaḇrāhām bə-qōlî wa-yišmōr mišmartî miṣwōṯay ḥuqqôṯay
-    wə-ṯôrōṯāy vs. wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā (one dīn enjoined on both). cf. b. Yoma 28b (Abraham
-    kept the whole Torah).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا
-    بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ كَبُرَ
-    عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ
-    إِلَيْهِ مَن يُنِيبُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Abraham already had God''s law before Moses: ʿēqeḇ ʾăšer šāmaʿ ʾaḇrāhām bə-qōlî wa-yišmōr mišmartî
-    miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy vs. wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā (one dīn enjoined on both).
-    cf. b. Yoma 28b (Abraham kept the whole Torah).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham kept God''s charge, commandments, statutes and laws (torot)
     before Sinai (weight 6.7). Pair score 6.7.'
@@ -75,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham kept God's charge, commandments, statutes and laws (torot) before Sinai
+kinds:
+- echo
+units:
+- id: hb-gen-26-isaac-in-gerar
+  title: Isaac in Gerar, the wife-sister episode, wells and treaty
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: echo
+  label: Abraham kept God's charge, commandments, statutes and laws (torot) before Sinai
+  note: 'Abraham already had God''s law before Moses: ʿēqeḇ ʾăšer šāmaʿ ʾaḇrāhām bə-qōlî wa-yišmōr mišmartî
+    miṣwōṯay ḥuqqôṯay wə-ṯôrōṯāy vs. wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā (one dīn enjoined on both).
+    cf. b. Yoma 28b (Abraham kept the whole Torah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 26:5
+      lang: he
+      text: עֵ֕קֶב אֲשֶׁר שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י
+        וְתוֹרֹתָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 42:13
+      lang: ar
+      text: شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا
+        وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟
+        فِيهِ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ
+        وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-judg-19-levites-concubine-vs-quran-18-moses-and-the-servant
 title: The Levite's concubine at Gibeah ↔ Moses and the servant of God at the meeting of the two seas
   (Surah 18:60-82)
-summary: 'These two units share 1 motifs: the townspeople refuse the travelers food and hospitality.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - inhospitable-town-refuses-food
-passages:
-- tradition: judaism
-  ref: Judg 19:15
-  note: 'The townspeople refuse the travelers food and hospitality (wəʾên ʾîš məʾassēp-ʾôtām habbaytâ
-    lālûn; istaṭʿamā ahlahā fa-abaw an yuḍayyifūhumā: travelers in a town where no one takes them in.
-    In Judg the inhospitality leads to outrage; in Q the sage answers it with an unpaid good deed (fa-aqāmah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּסֻ֣רוּ שָׁ֔ם לָב֖וֹא לָל֣וּן בַּגִּבְעָ֑ה וַיָּבֹ֗א וַיֵּ֨שֶׁב֙ בִּרְח֣וֹב הָעִ֔יר וְאֵ֥ין
-    אִ֛ישׁ מְאַסֵּֽף אוֹתָ֥ם הַבַּ֖יְתָה לָלֽוּן
-- tradition: islam
-  ref: Quran 18:77
-  note: The townspeople refuse the travelers food and hospitality (they refused to host them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن يُضَيِّفُوهُمَا
-    فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ
-    أَجْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wəʾên ʾîš məʾassēp-ʾôtām habbaytâ lālûn; istaṭʿamā ahlahā fa-abaw an yuḍayyifūhumā: travelers
-    in a town where no one takes them in. In Judg the inhospitality leads to outrage; in Q the sage answers
-    it with an unpaid good deed (fa-aqāmah).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The townspeople refuse the travelers food and hospitality (weight
     6.7). Pair score 6.7.'
@@ -64,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The townspeople refuse the travelers food and hospitality
+kinds:
+- echo
+units:
+- id: hb-judg-19-levites-concubine
+  title: The Levite's concubine at Gibeah
+  tradition: judaism
+- id: quran-18-moses-and-the-servant
+  title: Moses and the servant of God at the meeting of the two seas (Surah 18:60-82)
+  tradition: islam
+matches:
+- kind: echo
+  label: The townspeople refuse the travelers food and hospitality
+  note: 'wəʾên ʾîš məʾassēp-ʾôtām habbaytâ lālûn; istaṭʿamā ahlahā fa-abaw an yuḍayyifūhumā: travelers
+    in a town where no one takes them in. In Judg the inhospitality leads to outrage; in Q the sage answers
+    it with an unpaid good deed (fa-aqāmah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 19:15
+      lang: he
+      text: וַיָּסֻ֣רוּ שָׁ֔ם לָב֖וֹא לָל֣וּן בַּגִּבְעָ֑ה וַיָּבֹ֗א וַיֵּ֨שֶׁב֙ בִּרְח֣וֹב הָעִ֔יר וְאֵ֥ין
+        אִ֛ישׁ מְאַסֵּֽף אוֹתָ֥ם הַבַּ֖יְתָה לָלֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 18:77
+      lang: ar
+      text: فَٱنطَلَقَا حَتَّىٰٓ إِذَآ أَتَيَآ أَهْلَ قَرْيَةٍ ٱسْتَطْعَمَآ أَهْلَهَا فَأَبَوْا۟ أَن
+        يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُۥ قَالَ لَوْ شِئْتَ
+        لَتَّخَذْتَ عَلَيْهِ أَجْرًا
 ---
 
 ## Questions

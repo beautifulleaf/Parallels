@@ -2,8 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-2-war-pilgrimage
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ New moons, fighting and the
   pilgrimage rites
-summary: 'These two units share 2 motifs: how often and when pilgrimage is made [divergence between the
-  texts], three annual pilgrimage festivals when every male appears before god.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,87 +15,9 @@ layers:
 motifs:
 - number-and-season-of-pilgrimage-as-divergence
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 23:15
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙
-    חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
-- tradition: judaism
-  ref: Exod 23:17
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: islam
-  ref: Quran 2:196
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ
-    وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ
-    بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ
-    فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ
-    ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن
-    لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ
-    شَدِيدُ ٱلْعِقَابِ
-- tradition: islam
-  ref: Quran 2:197
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
-    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
-    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
-- tradition: judaism
-  ref: Exod 23:14-17
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת
-    יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ
-    מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר
-    תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה
-    (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: judaism
-  ref: Exod 23:14
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
-- tradition: islam
-  ref: Quran 2:197
-  note: Three annual pilgrimage festivals when every male appears before God (the known months of pilgrimage)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
-    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
-    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 23:17 šālōš pĕʿāmîm ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15
-    wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages a year for every male, not empty-handed; Q 2:196-197
-    wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju ashhurun maʿlūmātun ... wa-tazawwadū fa-inna
-    khayra z-zādi t-taqwā: one pilgrimage in known months, with an offering (hady), and ''the best provision
-    is piety''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How often and when pilgrimage is made [divergence between the texts]
     (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair
@@ -130,6 +51,78 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How often and when pilgrimage is made
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-2-war-pilgrimage
+  title: New moons, fighting and the pilgrimage rites
+  tradition: islam
+matches:
+- kind: divergence
+  label: How often and when pilgrimage is made
+  note: 'Exod 23:17 šālōš pĕʿāmîm ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ
+    yērāʾû pānay rêqām: three pilgrimages a year for every male, not empty-handed; Q 2:196-197 wa-atimmū
+    l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi
+    t-taqwā: one pilgrimage in known months, with an offering (hady), and ''the best provision is piety''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:15
+      lang: he
+      text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ
+        לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:196
+      lang: ar
+      text: وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ
+        وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا
+        أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ
+        فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ
+        فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ
+        ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟
+        أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+    - ref: Quran 2:197
+      lang: ar
+      text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ
+        وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ
+        خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:14-17
+      lang: he
+      text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒
+        שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי
+        ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י
+        מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת
+        מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל
+        פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    - ref: Exod 23:14
+      lang: he
+      text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    note: Matzot, Harvest, Ingathering
+  - tradition: islam
+    passages:
+    - ref: Quran 2:197
+      lang: ar
+      text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ
+        وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ
+        خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+    note: the known months of pilgrimage
 ---
 
 ## Questions

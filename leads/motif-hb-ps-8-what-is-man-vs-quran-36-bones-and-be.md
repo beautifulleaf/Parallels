@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-8-what-is-man-vs-quran-36-bones-and-be
 title: Psalm 8 - what is man ↔ Who revives rotten bones? Fire from the green tree; Be and it is
-summary: 'These two units share 1 motifs: god created livestock and subjected them to people for riding,
-  food, benefits and drink.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +13,9 @@ layers:
 - motif
 motifs:
 - livestock-made-subservient
-passages:
-- tradition: judaism
-  ref: Ps 8:7
-  note: 'God created livestock and subjected them to people for riding, food, benefits and drink (tamšîlēhû
-    bə-maʿăśê yāḏeyḵā kōl šattâ ṯaḥaṯ-raḡlâw ṣōneh wa-ʾălāp̄îm vs. khalaqnā lahum mimmā ʿamilat aydīnā
-    anʿāman fa-hum lahā mālikūn wa-dhallalnāhā lahum: flocks and herds, the work of God''s hands (maʿăśê
-    yāḏeyḵā / mimmā ʿamilat aydīnā), placed under human control.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו
-- tradition: judaism
-  ref: Ps 8:8
-  note: 'God created livestock and subjected them to people for riding, food, benefits and drink (tamšîlēhû
-    bə-maʿăśê yāḏeyḵā kōl šattâ ṯaḥaṯ-raḡlâw ṣōneh wa-ʾălāp̄îm vs. khalaqnā lahum mimmā ʿamilat aydīnā
-    anʿāman fa-hum lahā mālikūn wa-dhallalnāhā lahum: flocks and herds, the work of God''s hands (maʿăśê
-    yāḏeyḵā / mimmā ʿamilat aydīnā), placed under human control.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי
-- tradition: islam
-  ref: Quran 36:71
-  note: God created livestock and subjected them to people for riding, food, benefits and drink
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَٰمًا فَهُمْ لَهَا
-    مَٰلِكُونَ
-- tradition: islam
-  ref: Quran 36:72
-  note: God created livestock and subjected them to people for riding, food, benefits and drink
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَذَلَّلْنَٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. tamšîlēhû bə-maʿăśê yāḏeyḵā kōl šattâ ṯaḥaṯ-raḡlâw ṣōneh wa-ʾălāp̄îm vs. khalaqnā lahum mimmā
-    ʿamilat aydīnā anʿāman fa-hum lahā mālikūn wa-dhallalnāhā lahum: flocks and herds, the work of God''s
-    hands (maʿăśê yāḏeyḵā / mimmā ʿamilat aydīnā), placed under human control.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created livestock and subjected them to people for riding, food,
     benefits and drink (weight 6.3). Pair score 6.3.'
@@ -82,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God created livestock and subjected them to people for riding, food, benefits and drink
+kinds:
+- echo
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-36-bones-and-be
+  title: Who revives rotten bones? Fire from the green tree; Be and it is
+  tradition: islam
+matches:
+- kind: echo
+  label: God created livestock and subjected them to people for riding, food, benefits and drink
+  note: 'tamšîlēhû bə-maʿăśê yāḏeyḵā kōl šattâ ṯaḥaṯ-raḡlâw ṣōneh wa-ʾălāp̄îm vs. khalaqnā lahum mimmā
+    ʿamilat aydīnā anʿāman fa-hum lahā mālikūn wa-dhallalnāhā lahum: flocks and herds, the work of God''s
+    hands (maʿăśê yāḏeyḵā / mimmā ʿamilat aydīnā), placed under human control.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:7
+      lang: he
+      text: תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו
+    - ref: Ps 8:8
+      lang: he
+      text: צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 36:71
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَٰمًا فَهُمْ لَهَا
+        مَٰلِكُونَ
+    - ref: Quran 36:72
+      lang: ar
+      text: وَذَلَّلْنَٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-10-second-tablets-vs-quran-7-calf
 title: Second tablets and ark; Levites set apart; what God requires ↔ The lowing calf and the seventy
-summary: 'These two units share 1 motifs: what becomes of the first tablets after the calf: broken and
-  replaced, or cast down and taken up again [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,57 +13,9 @@ layers:
 - motif
 motifs:
 - fate-of-the-first-tablets-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 10:1
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Ending changed: in Q Moses takes up the same tablets once
-    his anger is stilled, their writing intact (akhadha l-alwāḥa wa-fī nuskhatihā hudan wa-raḥmatun);
-    in Deut they were broken and must be replaced: pᵉsāl-lᵉkā šᵉnê-lûḥōt ... wᵉʾektōb ʿal-hallūḥōt ʾet-haddᵉbārîm
-    ʾăšer hāyû ʿal-hallūḥōt hāriʾšōnîm ʾăšer šibbartā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּעֵ֨ת הַהִ֜וא אָמַ֧ר יְהוָ֣ה אֵלַ֗י פְּסָל לְךָ֞ שְׁנֵֽי לֻוחֹ֤ת אֲבָנִים֙ כָּרִ֣אשֹׁנִ֔ים וַעֲלֵ֥ה
-    אֵלַ֖י הָהָ֑רָה וְעָשִׂ֥יתָ לְּךָ֖ אֲר֥וֹן עֵֽץ
-- tradition: judaism
-  ref: Deut 10:2
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Ending changed: in Q Moses takes up the same tablets once
-    his anger is stilled, their writing intact (akhadha l-alwāḥa wa-fī nuskhatihā hudan wa-raḥmatun);
-    in Deut they were broken and must be replaced: pᵉsāl-lᵉkā šᵉnê-lûḥōt ... wᵉʾektōb ʿal-hallūḥōt ʾet-haddᵉbārîm
-    ʾăšer hāyû ʿal-hallūḥōt hāriʾšōnîm ʾăšer šibbartā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶכְתֹּב֙ עַל הַלֻּחֹ֔ת אֶת הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֣ר
-    שִׁבַּ֑רְתָּ וְשַׂמְתָּ֖ם בָּאָרֽוֹן
-- tradition: islam
-  ref: Quran 7:150
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:154
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ
-    هُمْ لِرَبِّهِمْ يَرْهَبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Ending changed: in Q Moses takes up the same tablets once his anger is stilled, their
-    writing intact (akhadha l-alwāḥa wa-fī nuskhatihā hudan wa-raḥmatun); in Deut they were broken and
-    must be replaced: pᵉsāl-lᵉkā šᵉnê-lûḥōt ... wᵉʾektōb ʿal-hallūḥōt ʾet-haddᵉbārîm ʾăšer hāyû ʿal-hallūḥōt
-    hāriʾšōnîm ʾăšer šibbartā.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What becomes of the first tablets after the calf: broken and replaced,
     or cast down and taken up again [divergence between the texts] (weight 5.8). Pair score 5.8.'
@@ -97,6 +48,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+  up again'
+kinds:
+- divergence
+units:
+- id: hb-deut-10-second-tablets
+  title: Second tablets and ark; Levites set apart; what God requires
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+    up again'
+  note: 'Ending changed: in Q Moses takes up the same tablets once his anger is stilled, their writing
+    intact (akhadha l-alwāḥa wa-fī nuskhatihā hudan wa-raḥmatun); in Deut they were broken and must be
+    replaced: pᵉsāl-lᵉkā šᵉnê-lûḥōt ... wᵉʾektōb ʿal-hallūḥōt ʾet-haddᵉbārîm ʾăšer hāyû ʿal-hallūḥōt hāriʾšōnîm
+    ʾăšer šibbartā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 10:1
+      lang: he
+      text: בָּעֵ֨ת הַהִ֜וא אָמַ֧ר יְהוָ֣ה אֵלַ֗י פְּסָל לְךָ֞ שְׁנֵֽי לֻוחֹ֤ת אֲבָנִים֙ כָּרִ֣אשֹׁנִ֔ים
+        וַעֲלֵ֥ה אֵלַ֖י הָהָ֑רָה וְעָשִׂ֥יתָ לְּךָ֖ אֲר֥וֹן עֵֽץ
+    - ref: Deut 10:2
+      lang: he
+      text: וְאֶכְתֹּב֙ עַל הַלֻּחֹ֔ת אֶת הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֣ר
+        שִׁבַּ֑רְתָּ וְשַׂמְתָּ֖ם בָּאָרֽוֹן
+    - ref: Deut 10:4
+      lang: he
+      text: וַיִּכְתֹּ֨ב עַֽל הַלֻּחֹ֜ת כַּמִּכְתָּ֣ב הָרִאשׁ֗וֹן אֵ֚ת עֲשֶׂ֣רֶת הַדְּבָרִ֔ים אֲשֶׁ֣ר
+        דִּבֶּר֩ יְהוָ֨ה אֲלֵיכֶ֥ם בָּהָ֛ר מִתּ֥וֹךְ הָאֵ֖שׁ בְּי֣וֹם הַקָּהָ֑ל וַיִּתְּנֵ֥ם יְהוָ֖ה אֵלָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:154
+      lang: ar
+      text: وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ
+        لِّلَّذِينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ
 ---
 
 ## Questions

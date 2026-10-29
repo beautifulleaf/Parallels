@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-10-book-readers-jonah
 title: The Flood (full read) ↔ Ask the readers of scripture; the people of Jonah
-summary: 'These two units share 1 motifs: hero''s family saved with him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,31 +13,9 @@ layers:
 - motif
 motifs:
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 6:18
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: judaism
-  ref: Gen 7:7
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 10:103
-  note: Hero's family saved with him (God saves his messengers and the believers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. wayyiššāʾer ʾak-nōaḥ waʾăšer ʾittô battēbāh vs nunajjī rusulanā wa-lladhīna āmanū: the destruction
-    spares only God''s man and those with him.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s family saved with him (weight 4.5). Pair score 4.5.'
   basis: reading
@@ -65,6 +43,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's family saved with him
+kinds:
+- echo
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-10-book-readers-jonah
+  title: Ask the readers of scripture; the people of Jonah
+  tradition: islam
+matches:
+- kind: echo
+  label: Hero's family saved with him
+  note: 'wayyiššāʾer ʾak-nōaḥ waʾăšer ʾittô battēbāh vs nunajjī rusulanā wa-lladhīna āmanū: the destruction
+    spares only God''s man and those with him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:103
+      lang: ar
+      text: ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

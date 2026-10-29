@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-79-pharaoh-and-cosmos
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Those who drag forth: Moses
   at Tuwa, Pharaoh''s claim, and the spreading of the earth'
-summary: 'These two units share 2 motifs: god built the sky, raised its canopy, darkened its night and
-  brought out its forenoon; after that he spread out the earth, god pours down rain, splits the earth
-  and makes grain, grapes, olives, palms and pasture grow, as provision and sign.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,80 +15,9 @@ layers:
 motifs:
 - heaven-built-before-earth-spread
 - rain-and-crops-as-sign
-passages:
-- tradition: judaism
-  ref: Ps 104:2
-  note: 'God built the sky, raised its canopy, darkened its night and brought out its forenoon; after
-    that he spread out the earth (a-antum ashaddu khalqan ami s-samāʾu banāhā, rafaʿa samkahā ... wa-l-arḍa
-    baʿda dhālika daḥāhā ... wa-l-jibāla arsāhā ~ nôṭeh šāmayim ka-yerîʿāh ... yāsad ʾereṣ ʿal mekônêhā
-    bal timmôṭ: heaven raised, then earth founded and fixed. The Quran stresses the order (baʿda dhālika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
-- tradition: judaism
-  ref: Ps 104:5
-  note: 'God built the sky, raised its canopy, darkened its night and brought out its forenoon; after
-    that he spread out the earth (a-antum ashaddu khalqan ami s-samāʾu banāhā, rafaʿa samkahā ... wa-l-arḍa
-    baʿda dhālika daḥāhā ... wa-l-jibāla arsāhā ~ nôṭeh šāmayim ka-yerîʿāh ... yāsad ʾereṣ ʿal mekônêhā
-    bal timmôṭ: heaven raised, then earth founded and fixed. The Quran stresses the order (baʿda dhālika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: islam
-  ref: Quran 79:27
-  note: God built the sky, raised its canopy, darkened its night and brought out its forenoon; after that
-    he spread out the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ بَنَىٰهَا
-- tradition: islam
-  ref: Quran 79:28
-  note: God built the sky, raised its canopy, darkened its night and brought out its forenoon; after that
-    he spread out the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَفَعَ سَمْكَهَا فَسَوَّىٰهَا
-- tradition: judaism
-  ref: Ps 104:13
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: judaism
-  ref: Ps 104:14
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 79:31
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا
-- tradition: islam
-  ref: Quran 79:33
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-antum ashaddu khalqan ami s-samāʾu banāhā, rafaʿa samkahā ... wa-l-arḍa baʿda dhālika daḥāhā
-    ... wa-l-jibāla arsāhā ~ nôṭeh šāmayim ka-yerîʿāh ... yāsad ʾereṣ ʿal mekônêhā bal timmôṭ: heaven
-    raised, then earth founded and fixed. The Quran stresses the order (baʿda dhālika).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God built the sky, raised its canopy, darkened its night and brought
     out its forenoon; after that he spread out the earth (weight 6.7); God pours down rain, splits the
@@ -131,6 +58,74 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God built the sky, raised its canopy, darkened its night and brought out its forenoon; after
+  that he spread out the earth
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: echo
+  label: God built the sky, raised its canopy, darkened its night and brought out its forenoon; after
+    that he spread out the earth
+  note: 'a-antum ashaddu khalqan ami s-samāʾu banāhā, rafaʿa samkahā ... wa-l-arḍa baʿda dhālika daḥāhā
+    ... wa-l-jibāla arsāhā ~ nôṭeh šāmayim ka-yerîʿāh ... yāsad ʾereṣ ʿal mekônêhā bal timmôṭ: heaven
+    raised, then earth founded and fixed. The Quran stresses the order (baʿda dhālika).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:2
+      lang: he
+      text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 79:27
+      lang: ar
+      text: ءَأَنتُمْ أَشَدُّ خَلْقًا أَمِ ٱلسَّمَآءُ بَنَىٰهَا
+    - ref: Quran 79:28
+      lang: ar
+      text: رَفَعَ سَمْكَهَا فَسَوَّىٰهَا
+    - ref: Quran 79:30
+      lang: ar
+      text: وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ
+- kind: shared
+  label: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    - ref: Ps 104:14
+      lang: he
+      text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
+    - ref: Ps 104:15
+      lang: he
+      text: וְיַ֤יִן יְשַׂמַּ֬ח לְֽבַב אֱנ֗וֹשׁ לְהַצְהִ֣יל פָּנִ֣ים מִשָּׁ֑מֶן וְ֝לֶ֗חֶם לְֽבַב אֱנ֥וֹשׁ
+        יִסְעָֽד
+    note: 'Same catalogue: rain from above for drink and pasture, crops, vine and olive, then the sea
+      with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem; minhu shajarun
+      fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām ʾŏniyyôt yəhallēkûn
+      / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for fresh meat and
+      ornaments, li-tabtaghū min faḍlih.'
+  - tradition: islam
+    passages:
+    - ref: Quran 79:31
+      lang: ar
+      text: أَخْرَجَ مِنْهَا مَآءَهَا وَمَرْعَىٰهَا
+    - ref: Quran 79:33
+      lang: ar
+      text: مَتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ
 ---
 
 ## Questions

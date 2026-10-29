@@ -2,7 +2,7 @@
 id: motif-hb-prov-30-numerical-sayings-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Agur's numerical sayings (leech, four wonders, four small wise creatures) ↔ Solomon, the speech
   of birds, the ants, the hoopoe and the Queen of Sheba
-summary: 'These two units share 1 motifs: the ant, a people without strength, prepares its food in summer.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - ant-stores-food-in-summer
-passages:
-- tradition: judaism
-  ref: Prov 30:25
-  note: The ant, a people without strength, prepares its food in summer
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֭נְּמָלִים עַ֣ם לֹא עָ֑ז וַיָּכִ֖ינוּ בַקַּ֣יִץ לַחְמָֽם
-- tradition: islam
-  ref: Quran 27:18
-  note: 'The ant, a people without strength, prepares its food in summer (qālat namlatun yā ayyuhā n-namlu
-    dkhulū masākinakum ~ han-nəmālîm ʿam lōʾ ʿāz wa-yyākhînû vaq-qayiṣ laḥmām: the ants as a ''people''
-    (ʿam / namlu addressed as a community) who are small but wise; Proverbs praises their foresight, the
-    Quran''s ant protects her people from Solomon''s army.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟
-    مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. qālat namlatun yā ayyuhā n-namlu dkhulū masākinakum ~ han-nəmālîm ʿam lōʾ ʿāz wa-yyākhînû vaq-qayiṣ
-    laḥmām: the ants as a ''people'' (ʿam / namlu addressed as a community) who are small but wise; Proverbs
-    praises their foresight, the Quran''s ant protects her people from Solomon''s army.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ant, a people without strength, prepares its food in summer
     (weight 6.7). Pair score 6.7.'
@@ -77,6 +58,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The ant, a people without strength, prepares its food in summer
+kinds:
+- echo
+units:
+- id: hb-prov-30-numerical-sayings
+  title: Agur's numerical sayings (leech, four wonders, four small wise creatures)
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: echo
+  label: The ant, a people without strength, prepares its food in summer
+  note: 'qālat namlatun yā ayyuhā n-namlu dkhulū masākinakum ~ han-nəmālîm ʿam lōʾ ʿāz wa-yyākhînû vaq-qayiṣ
+    laḥmām: the ants as a ''people'' (ʿam / namlu addressed as a community) who are small but wise; Proverbs
+    praises their foresight, the Quran''s ant protects her people from Solomon''s army.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 30:25
+      lang: he
+      text: הַ֭נְּמָלִים עַ֣ם לֹא עָ֑ז וַיָּכִ֖ינוּ בַקַּ֣יִץ לַחְמָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 27:18
+      lang: ar
+      text: حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟
+        مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
 ---
 
 ## Questions

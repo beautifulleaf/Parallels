@@ -2,7 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-6-poor-keys-of-unseen
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Do not drive away the poor; the keys of
   the unseen and the falling leaf
-summary: 'These two units share 1 motifs: nothing wet or dry but is in a clear book.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - everything-in-a-clear-book
-passages:
-- tradition: judaism
-  ref: Ps 139:15
-  note: 'Nothing wet or dry but is in a clear book (Hidden things in the depths of the earth are known
-    and written. Q: wa-lā ḥabbatin fī ẓulumāti l-arḍi wa-lā raṭbin wa-lā yābisin illā fī kitābin mubīnin.
-    Ps: ruqqamtî bə-taḥtiyyôt ʾāreṣ ... wə-ʿal-sifrəkhā kullām yikkātēvû. Ps has a single life; Q extends
-    it to every grain and leaf.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: judaism
-  ref: Ps 139:16
-  note: 'Nothing wet or dry but is in a clear book (Hidden things in the depths of the earth are known
-    and written. Q: wa-lā ḥabbatin fī ẓulumāti l-arḍi wa-lā raṭbin wa-lā yābisin illā fī kitābin mubīnin.
-    Ps: ruqqamtî bə-taḥtiyyôt ʾāreṣ ... wə-ʿal-sifrəkhā kullām yikkātēvû. Ps has a single life; Q extends
-    it to every grain and leaf.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
-    אֶחָ֣ד בָּהֶֽם
-- tradition: islam
-  ref: Quran 6:59
-  note: Nothing wet or dry but is in a clear book
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ
-    وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ
-    وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Hidden things in the depths of the earth are known and written. Q: wa-lā ḥabbatin fī ẓulumāti
-    l-arḍi wa-lā raṭbin wa-lā yābisin illā fī kitābin mubīnin. Ps: ruqqamtî bə-taḥtiyyôt ʾāreṣ ... wə-ʿal-sifrəkhā
-    kullām yikkātēvû. Ps has a single life; Q extends it to every grain and leaf.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nothing wet or dry but is in a clear book (weight 6.7). Pair score
     6.7.'
@@ -81,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nothing wet or dry but is in a clear book
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-6-poor-keys-of-unseen
+  title: Do not drive away the poor; the keys of the unseen and the falling leaf
+  tradition: islam
+matches:
+- kind: echo
+  label: Nothing wet or dry but is in a clear book
+  note: 'Hidden things in the depths of the earth are known and written. Q: wa-lā ḥabbatin fī ẓulumāti
+    l-arḍi wa-lā raṭbin wa-lā yābisin illā fī kitābin mubīnin. Ps: ruqqamtî bə-taḥtiyyôt ʾāreṣ ... wə-ʿal-sifrəkhā
+    kullām yikkātēvû. Ps has a single life; Q extends it to every grain and leaf.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:59
+      lang: ar
+      text: وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ
+        وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ
+        وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
 ---
 
 ## Questions

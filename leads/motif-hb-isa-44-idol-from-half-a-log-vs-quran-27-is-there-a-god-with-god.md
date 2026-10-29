@@ -2,7 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-27-is-there-a-god-with-god
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The litany 'Is there
   a god with God?' and the unseen
-summary: 'These two units share 1 motifs: declaration that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,49 +15,9 @@ layers:
 - motif
 motifs:
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Isa 44:6
-  note: Declaration that YHWH is God and there is no other besides him ('is there a god besides me? there
-    is no rock')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֨ר יְהוָ֧ה מֶֽלֶךְ יִשְׂרָאֵ֛ל וְגֹאֲל֖וֹ יְהוָ֣ה צְבָא֑וֹת אֲנִ֤י רִאשׁוֹן֙ וַאֲנִ֣י
-    אַחֲר֔וֹן וּמִבַּלְעָדַ֖י אֵ֥ין אֱלֹהִֽים
-- tradition: judaism
-  ref: Isa 44:8
-  note: Declaration that YHWH is God and there is no other besides him ('is there a god besides me? there
-    is no rock')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַֽל תִּפְחֲדוּ֙ וְאַל תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י
-    הֲיֵ֤שׁ אֱל֨וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל יָדָֽעְתִּי
-- tradition: islam
-  ref: Quran 27:60
-  note: 'Declaration that YHWH is God and there is no other besides him (a-ilāhun maʿa llāhi ... qul hātū
-    burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday:
-    the rhetorical ''is there a god besides / with God?'', set in a trial (Isaiah''s witnesses, the Quran''s
-    ''bring your proof'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
-    بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
-    بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
-- tradition: islam
-  ref: Quran 27:64
-  note: 'Declaration that YHWH is God and there is no other besides him (a-ilāhun maʿa llāhi ... qul hātū
-    burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday:
-    the rhetorical ''is there a god besides / with God?'', set in a trial (Isaiah''s witnesses, the Quran''s
-    ''bring your proof'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَءِلَٰهٌ
-    مَّعَ ٱللَّهِ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. a-ilāhun maʿa llāhi ... qul hātū burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday
-    wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday: the rhetorical ''is there a god besides / with God?'',
-    set in a trial (Isaiah''s witnesses, the Quran''s ''bring your proof'').'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
     5.1). Pair score 5.1.'
@@ -95,6 +55,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Declaration that YHWH is God and there is no other besides him
+kinds:
+- parallel
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: parallel
+  label: Declaration that YHWH is God and there is no other besides him
+  note: 'a-ilāhun maʿa llāhi ... qul hātū burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên
+    ṣûr bal yādāʿtî ... wə-ʾattem ʿēday: the rhetorical ''is there a god besides / with God?'', set in
+    a trial (Isaiah''s witnesses, the Quran''s ''bring your proof'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:8
+      lang: he
+      text: אַֽל תִּפְחֲדוּ֙ וְאַל תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י
+        הֲיֵ֤שׁ אֱל֨וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל יָדָֽעְתִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 27:60
+      lang: ar
+      text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
+        بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
+        بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
+    - ref: Quran 27:64
+      lang: ar
+      text: أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ
+        أَءِلَٰهٌ مَّعَ ٱللَّهِ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

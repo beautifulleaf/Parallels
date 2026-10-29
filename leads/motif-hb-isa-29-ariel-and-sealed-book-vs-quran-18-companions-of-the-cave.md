@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-18-companions-of-the-cave
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ The
   Companions of the Cave and al-Raqim (Surah 18:9-31)
-summary: 'These two units share 1 motifs: god seals the sleepers'' ears (puts them to sleep) in the cave
-  for many years.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - sleepers-ears-sealed-for-years
-passages:
-- tradition: judaism
-  ref: Isa 29:10
-  note: 'God seals the sleepers'' ears (puts them to sleep) in the cave for many years (kî-nāsak ʿălêkem
-    YHWH rûaḥ tardēmâ wayʿaṣṣēm ʾet-ʿênêkem; fa-ḍarabnā ʿalā ādhānihim fī l-kahfi sinīna ʿadadā: God himself
-    pours sleep and seals a sense. In Isa it is a judgment of spiritual blindness; in Q a protective sleep
-    for the faithful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי נָסַ֨ךְ עֲלֵיכֶ֤ם יְהוָה֙ ר֣וּחַ תַּרְדֵּמָ֔ה וַיְעַצֵּ֖ם אֶת עֵֽינֵיכֶ֑ם אֶת הַנְּבִיאִ֛ים
-    וְאֶת רָאשֵׁיכֶ֥ם הַחֹזִ֖ים כִּסָּֽה
-- tradition: islam
-  ref: Quran 18:11
-  note: God seals the sleepers' ears (puts them to sleep) in the cave for many years (ḍarabnā ʿalā ādhānihim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. kî-nāsak ʿălêkem YHWH rûaḥ tardēmâ wayʿaṣṣēm ʾet-ʿênêkem; fa-ḍarabnā ʿalā ādhānihim fī l-kahfi
-    sinīna ʿadadā: God himself pours sleep and seals a sense. In Isa it is a judgment of spiritual blindness;
-    in Q a protective sleep for the faithful.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God seals the sleepers'' ears (puts them to sleep) in the cave for
     many years (weight 6.7). Pair score 6.7.'
@@ -75,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God seals the sleepers' ears (puts them to sleep) in the cave for many years
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-18-companions-of-the-cave
+  title: The Companions of the Cave and al-Raqim (Surah 18:9-31)
+  tradition: islam
+matches:
+- kind: echo
+  label: God seals the sleepers' ears (puts them to sleep) in the cave for many years
+  note: 'kî-nāsak ʿălêkem YHWH rûaḥ tardēmâ wayʿaṣṣēm ʾet-ʿênêkem; fa-ḍarabnā ʿalā ādhānihim fī l-kahfi
+    sinīna ʿadadā: God himself pours sleep and seals a sense. In Isa it is a judgment of spiritual blindness;
+    in Q a protective sleep for the faithful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:10
+      lang: he
+      text: כִּֽי נָסַ֨ךְ עֲלֵיכֶ֤ם יְהוָה֙ ר֣וּחַ תַּרְדֵּמָ֔ה וַיְעַצֵּ֖ם אֶת עֵֽינֵיכֶ֑ם אֶת הַנְּבִיאִ֛ים
+        וְאֶת רָאשֵׁיכֶ֥ם הַחֹזִ֖ים כִּסָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 18:11
+      lang: ar
+      text: فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا
 ---
 
 ## Questions

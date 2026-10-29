@@ -2,7 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-2-throne-verse
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Ranks
   of the messengers and the Throne Verse
-summary: 'These two units share 1 motifs: declaration that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Isa 45:5-6
-  note: Declaration that YHWH is God and there is no other besides him ('ani YHWH ve-ein od' repeated)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (45:5) אֲנִ֤י יְהוָה֙ וְאֵ֣ין ע֔וֹד זוּלָתִ֖י אֵ֣ין אֱלֹהִ֑ים אֲאַזֶּרְךָ֖ וְלֹ֥א יְדַעְתָּֽנִי
-    (45:6) לְמַ֣עַן יֵדְע֗וּ מִמִּזְרַח שֶׁ֨מֶשׁ֙ וּמִמַּ֣עֲרָבָ֔הּ כִּי אֶ֖פֶס בִּלְעָדָ֑י אֲנִ֥י יְהוָ֖ה
-    וְאֵ֥ין עֽוֹד
-- tradition: judaism
-  ref: Isa 45:14
-  note: Declaration that YHWH is God and there is no other besides him ('ani YHWH ve-ein od' repeated)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה יְגִ֨יעַ מִצְרַ֥יִם וּֽסְחַר כּוּשׁ֮ וּסְבָאִים֮ אַנְשֵׁ֣י מִדָּה֒ עָלַ֤יִךְ
-    יַעֲבֹ֨רוּ֙ וְלָ֣ךְ יִֽהְי֔וּ אַחֲרַ֣יִךְ יֵלֵ֔כוּ בַּזִּקִּ֖ים יַעֲבֹ֑רוּ וְאֵלַ֤יִךְ יִֽשְׁתַּחֲוּוּ֙
-    אֵלַ֣יִךְ יִתְפַּלָּ֔לוּ אַ֣ךְ בָּ֥ךְ אֵ֛ל וְאֵ֥ין ע֖וֹד אֶ֥פֶס אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 2:255
-  note: Declaration that YHWH is God and there is no other besides him (Isa 45:5 ʾănî YHWH wĕ-ʾên ʿôd
-    zûlātî ʾên ʾĕlōhîm; Q 2:255 allāhu lā ilāha illā huwa.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 45:5 ʾănî YHWH wĕ-ʾên ʿôd zûlātî ʾên ʾĕlōhîm; Q 2:255 allāhu lā ilāha illā huwa.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
     5.1). Pair score 5.1.'
@@ -80,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Declaration that YHWH is God and there is no other besides him
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: echo
+  label: Declaration that YHWH is God and there is no other besides him
+  note: Isa 45:5 ʾănî YHWH wĕ-ʾên ʿôd zûlātî ʾên ʾĕlōhîm; Q 2:255 allāhu lā ilāha illā huwa.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:5
+      lang: he
+      text: אֲנִ֤י יְהוָה֙ וְאֵ֣ין ע֔וֹד זוּלָתִ֖י אֵ֣ין אֱלֹהִ֑ים אֲאַזֶּרְךָ֖ וְלֹ֥א יְדַעְתָּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
 ---
 
 ## Questions

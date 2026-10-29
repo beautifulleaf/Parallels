@@ -2,11 +2,7 @@
 id: motif-quran-20-moses-pharaoh-magicians-vs-quran-26-moses-and-pharaoh
 title: Moses and Aaron before Pharaoh; the contest with the magicians ↔ Moses and Pharaoh disputing; the
   magicians; the sea split like mountains
-summary: 'These two units share 8 motifs: condemned believers tell the tyrant ''decree what you will;
-  you can only decree for this worldly life'', the magicians'' ropes and staffs appear by sorcery to be
-  moving like snakes, pharaoh threatens the converted magicians with cutting off hands and feet on opposite
-  sides and crucifixion (on palm trunks), the defeated magicians fall prostrate and declare faith in the
-  lord of moses and aaron….'
+summary: 8 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -16,177 +12,20 @@ traditions:
 layers:
 - motif
 motifs:
-- martyrs-defy-tyrant-only-this-life
-- magicians-ropes-seem-to-move
 - pharaoh-threatens-magicians-amputation-crucifixion
+- magicians-ropes-seem-to-move
+- martyrs-defy-tyrant-only-this-life
 - magicians-fall-prostrate-and-believe
 - who-is-yhwh-defiance
 - prophets-staff-swallows-magicians-staffs
 - let-my-people-go-demand
 - contest-with-court-magicians
-passages:
-- tradition: islam
-  ref: Quran 20:72
-  note: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
-    life' (they also say Pharaoh compelled them to practise sorcery)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ مَآ
-    أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
-- tradition: islam
-  ref: Quran 20:73
-  note: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
-    life' (they also say Pharaoh compelled them to practise sorcery)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ ٱلسِّحْرِ
-    وَٱللَّهُ خَيْرٌ وَأَبْقَىٰٓ
-- tradition: islam
-  ref: Quran 26:50
-  note: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
-    life' ('no harm; to our Lord we return')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَا ضَيْرَ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
-- tradition: islam
-  ref: Quran 26:51
-  note: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
-    life' ('no harm; to our Lord we return')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 20:66
-  note: The magicians' ropes and staffs appear by sorcery to be moving like snakes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ بَلْ أَلْقُوا۟ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا
-    تَسْعَىٰ
-- tradition: islam
-  ref: Quran 26:44
-  note: The magicians' ropes and staffs appear by sorcery to be moving like snakes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
-- tradition: islam
-  ref: Quran 20:71
-  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
-    crucifixion (on palm trunks) (fī judhūʿ al-nakhl, 'on the trunks of palm trees')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ
-    وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
-- tradition: islam
-  ref: Quran 26:49
-  note: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
-    crucifixion (on palm trunks)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
-    أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 20:70
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
-- tradition: islam
-  ref: Quran 26:46
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 26:47
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 20:49
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''Who then is the Lord of you
-    two, Moses?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 26:23
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''And what is the Lord of the
-    worlds?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 20:69
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا يُفْلِحُ
-    ٱلسَّاحِرُ حَيْثُ أَتَىٰ
-- tradition: islam
-  ref: Quran 26:45
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
-- tradition: islam
-  ref: Quran 26:44
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
-- tradition: islam
-  ref: Quran 20:47
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('send the children of
-    Israel with us and do not torment them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ
-    قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
-- tradition: islam
-  ref: Quran 26:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:17
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 20:57
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:58
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
-    نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
-- tradition: islam
-  ref: Quran 26:34
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 26:35
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Condemned believers tell the tyrant ''decree what you will; you
-    can only decree for this worldly life'' (weight 6.7); The magicians'' ropes and staffs appear by sorcery
-    to be moving like snakes (weight 6.7); Pharaoh threatens the converted magicians with cutting off
-    hands and feet on opposite sides and crucifixion (on palm trunks) (weight 6.7); The defeated magicians
+- text: 'Shared motifs, rarest first: Pharaoh threatens the converted magicians with cutting off hands
+    and feet on opposite sides and crucifixion (on palm trunks) (weight 6.7); The magicians'' ropes and
+    staffs appear by sorcery to be moving like snakes (weight 6.7); Condemned believers tell the tyrant
+    ''decree what you will; you can only decree for this worldly life'' (weight 6.7); The defeated magicians
     fall prostrate and declare faith in the Lord of Moses and Aaron (weight 6.3); King defies the prophet:
     ''Who is YHWH that I should obey him?'' (weight 6.3); The prophet''s staff-serpent swallows the magicians''
     staff-serpents (weight 6.0); Prophet delivers God''s demand ''Let my people go that they may serve
@@ -226,6 +65,170 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
+  crucifixion (on palm trunks)
+kinds:
+- shared
+units:
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: shared
+  label: Pharaoh threatens the converted magicians with cutting off hands and feet on opposite sides and
+    crucifixion (on palm trunks)
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:71
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ
+        ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+    note: fī judhūʿ al-nakhl, 'on the trunks of palm trees'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:49
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
+        أَجْمَعِينَ
+- kind: shared
+  label: The magicians' ropes and staffs appear by sorcery to be moving like snakes
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:66
+      lang: ar
+      text: قَالَ بَلْ أَلْقُوا۟ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا
+        تَسْعَىٰ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:44
+      lang: ar
+      text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- kind: shared
+  label: Condemned believers tell the tyrant 'decree what you will; you can only decree for this worldly
+    life'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:72
+      lang: ar
+      text: قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ
+        مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
+    - ref: Quran 20:73
+      lang: ar
+      text: إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغْفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكْرَهْتَنَا عَلَيْهِ مِنَ
+        ٱلسِّحْرِ وَٱللَّهُ خَيْرٌ وَأَبْقَىٰٓ
+    note: they also say Pharaoh compelled them to practise sorcery
+  - tradition: islam
+    passages:
+    - ref: Quran 26:50
+      lang: ar
+      text: قَالُوا۟ لَا ضَيْرَ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
+    - ref: Quran 26:51
+      lang: ar
+      text: إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَٰيَٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ
+    note: '''no harm; to our Lord we return'''
+- kind: shared
+  label: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:70
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:46
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+    - ref: Quran 26:47
+      lang: ar
+      text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:48
+      lang: ar
+      text: رَبِّ مُوسَىٰ وَهَٰرُونَ
+- kind: shared
+  label: 'King defies the prophet: ''Who is YHWH that I should obey him?'''
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:49
+      lang: ar
+      text: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
+    note: '''Who then is the Lord of you two, Moses?'''
+  - tradition: islam
+    passages:
+    - ref: Quran 26:23
+      lang: ar
+      text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
+    note: '''And what is the Lord of the worlds?'''
+- kind: shared
+  label: The prophet's staff-serpent swallows the magicians' staff-serpents
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:69
+      lang: ar
+      text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا
+        يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:45
+      lang: ar
+      text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
+    - ref: Quran 26:44
+      lang: ar
+      text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- kind: shared
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:47
+      lang: ar
+      text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا
+        تُعَذِّبْهُمْ قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
+    note: '''send the children of Israel with us and do not torment them'''
+  - tradition: islam
+    passages:
+    - ref: Quran 26:16
+      lang: ar
+      text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:17
+      lang: ar
+      text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 20:57
+      lang: ar
+      text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
+    - ref: Quran 20:58
+      lang: ar
+      text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
+        نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+    - ref: Quran 20:60
+      lang: ar
+      text: فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:34
+      lang: ar
+      text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
+    - ref: Quran 26:35
+      lang: ar
+      text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+    - ref: Quran 26:36
+      lang: ar
+      text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 ---
 
 ## Questions

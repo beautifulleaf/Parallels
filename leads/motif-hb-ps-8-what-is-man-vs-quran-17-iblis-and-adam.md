@@ -2,8 +2,7 @@
 id: motif-hb-ps-8-what-is-man-vs-quran-17-iblis-and-adam
 title: Psalm 8 - what is man ↔ Iblis's threat to bridle Adam's offspring; sea peril; the honored children
   of Adam (Surah 17:61-72)
-summary: 'These two units share 1 motifs: god honored the children of adam, carried them on land and sea
-  and preferred them above much of creation.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,46 +15,9 @@ layers:
 - motif
 motifs:
 - children-of-adam-honored
-passages:
-- tradition: judaism
-  ref: Ps 8:5
-  note: 'God honored the children of Adam, carried them on land and sea and preferred them above much
-    of creation (mâ-ʾĕnôš kî-tizkərennû ûben-ʾādām ... wattəḥassərēhû məʿaṭ mēʾĕlōhîm wəkābôd wəhādār
-    təʿaṭṭərēhû tamšîlēhû ... ṣippôr šāmayim ûdəgê hayyām ʿōbēr ʾorḥôt yammîm; wa-la-qad karramnā banī
-    Ādama wa-ḥamalnāhum fī l-barri wa-l-baḥri ... wa-faḍḍalnāhum ʿalā kathīrin mimman khalaqnā: the son
-    of Adam (ben-ʾādām / banī Ādam) honored above creation, over land and sea. Ps crowns him a little
-    lower than ʾĕlōhîm; Q places this right after Iblis''s complaint at Adam being honored (karramta ʿalayya,
-    17:62).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה אֱנ֥וֹשׁ כִּֽי תִזְכְּרֶ֑נּוּ וּבֶן אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ
-- tradition: judaism
-  ref: Ps 8:6
-  note: 'God honored the children of Adam, carried them on land and sea and preferred them above much
-    of creation (mâ-ʾĕnôš kî-tizkərennû ûben-ʾādām ... wattəḥassərēhû məʿaṭ mēʾĕlōhîm wəkābôd wəhādār
-    təʿaṭṭərēhû tamšîlēhû ... ṣippôr šāmayim ûdəgê hayyām ʿōbēr ʾorḥôt yammîm; wa-la-qad karramnā banī
-    Ādama wa-ḥamalnāhum fī l-barri wa-l-baḥri ... wa-faḍḍalnāhum ʿalā kathīrin mimman khalaqnā: the son
-    of Adam (ben-ʾādām / banī Ādam) honored above creation, over land and sea. Ps crowns him a little
-    lower than ʾĕlōhîm; Q places this right after Iblis''s complaint at Adam being honored (karramta ʿalayya,
-    17:62).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
-- tradition: islam
-  ref: Quran 17:70
-  note: God honored the children of Adam, carried them on land and sea and preferred them above much of
-    creation (karramnā banī Ādam)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم مِّنَ
-    ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mâ-ʾĕnôš kî-tizkərennû ûben-ʾādām ... wattəḥassərēhû məʿaṭ mēʾĕlōhîm wəkābôd wəhādār təʿaṭṭərēhû
-    tamšîlēhû ... ṣippôr šāmayim ûdəgê hayyām ʿōbēr ʾorḥôt yammîm; wa-la-qad karramnā banī Ādama wa-ḥamalnāhum
-    fī l-barri wa-l-baḥri ... wa-faḍḍalnāhum ʿalā kathīrin mimman khalaqnā: the son of Adam (ben-ʾādām
-    / banī Ādam) honored above creation, over land and sea. Ps crowns him a little lower than ʾĕlōhîm;
-    Q places this right after Iblis''s complaint at Adam being honored (karramta ʿalayya, 17:62).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God honored the children of Adam, carried them on land and sea and
     preferred them above much of creation (weight 6.7). Pair score 6.7.'
@@ -93,6 +55,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God honored the children of Adam, carried them on land and sea and preferred them above much
+  of creation
+kinds:
+- parallel
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-17-iblis-and-adam
+  title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God honored the children of Adam, carried them on land and sea and preferred them above much
+    of creation
+  note: 'mâ-ʾĕnôš kî-tizkərennû ûben-ʾādām ... wattəḥassərēhû məʿaṭ mēʾĕlōhîm wəkābôd wəhādār təʿaṭṭərēhû
+    tamšîlēhû ... ṣippôr šāmayim ûdəgê hayyām ʿōbēr ʾorḥôt yammîm; wa-la-qad karramnā banī Ādama wa-ḥamalnāhum
+    fī l-barri wa-l-baḥri ... wa-faḍḍalnāhum ʿalā kathīrin mimman khalaqnā: the son of Adam (ben-ʾādām
+    / banī Ādam) honored above creation, over land and sea. Ps crowns him a little lower than ʾĕlōhîm;
+    Q places this right after Iblis''s complaint at Adam being honored (karramta ʿalayya, 17:62).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:5
+      lang: he
+      text: מָֽה אֱנ֥וֹשׁ כִּֽי תִזְכְּרֶ֑נּוּ וּבֶן אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ
+    - ref: Ps 8:6
+      lang: he
+      text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
+    - ref: Ps 8:7
+      lang: he
+      text: תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 17:70
+      lang: ar
+      text: وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَٰهُم
+        مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 ---
 
 ## Questions

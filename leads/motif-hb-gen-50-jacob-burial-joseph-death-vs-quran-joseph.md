@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-50-jacob-burial-joseph-death-vs-quran-joseph
 title: Embalming and burial of Jacob; Joseph's last words and death ↔ Joseph in the Quran (Surah 12)
-summary: 'These two units share 2 motifs: hero forgives his brothers, hero declares that god turned the
-  brothers'' deed to good.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -14,41 +13,12 @@ traditions:
 layers:
 - motif
 motifs:
-- hero-forgives-brothers
 - hero-sees-divine-plan
-passages:
-- tradition: judaism
-  ref: Gen 50:21
-  note: Hero forgives his brothers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ אַל תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽת טַפְּכֶ֑ם וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר
-    עַל לִבָּֽם
-- tradition: islam
-  ref: Quran 12:92
-  note: Hero forgives his brothers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: judaism
-  ref: Gen 50:20
-  note: Hero declares that God turned the brothers' deed to good ('you meant evil, God meant it for good')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיּ֥וֹם
-    הַזֶּ֖ה לְהַחֲיֹ֥ת עַם רָֽב
-- tradition: islam
-  ref: Quran 12:100
-  note: Hero declares that God turned the brothers' deed to good
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
-    رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
-    وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ
-    رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+- hero-forgives-brothers
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: Hero forgives his brothers (weight 5.6); Hero declares that God
-    turned the brothers'' deed to good (weight 5.6). Pair score 11.2.'
+- text: 'Shared motifs, rarest first: Hero declares that God turned the brothers'' deed to good (weight
+    5.6); Hero forgives his brothers (weight 5.6). Pair score 11.2.'
   basis: reading
 - text: 'Only in Embalming and burial of Jacob; Joseph''s last words and death: Hero refuses to judge
     or avenge, asking ''Am I in the place of God?''; Embalmed hero laid in a coffin (aron) in Egypt; Dying
@@ -74,6 +44,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero declares that God turned the brothers' deed to good
+kinds:
+- shared
+units:
+- id: hb-gen-50-jacob-burial-joseph-death
+  title: Embalming and burial of Jacob; Joseph's last words and death
+  tradition: judaism
+- id: quran-joseph
+  title: Joseph in the Quran (Surah 12)
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero declares that God turned the brothers' deed to good
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 50:20
+      lang: he
+      text: וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיּ֥וֹם
+        הַזֶּ֖ה לְהַחֲיֹ֥ת עַם רָֽב
+    note: '''you meant evil, God meant it for good'''
+  - tradition: islam
+    passages:
+    - ref: Quran 12:100
+      lang: ar
+      text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
+        رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
+        وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
+        إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+- kind: shared
+  label: Hero forgives his brothers
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 50:21
+      lang: he
+      text: וְעַתָּה֙ אַל תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽת טַפְּכֶ֑ם וַיְנַחֵ֣ם אוֹתָ֔ם
+        וַיְדַבֵּ֖ר עַל לִבָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 12:92
+      lang: ar
+      text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
 ---
 
 ## Questions

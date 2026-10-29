@@ -2,8 +2,7 @@
 id: motif-hb-1sam-16-david-anointed-vs-quran-43-zukhruf-abraham-and-silver-roofs
 title: David anointed; the evil spirit and David's lyre ↔ Abraham disowns his father's worship; the great
   man of the two towns; silver roofs; the devil-companion
-summary: 'These two units share 1 motifs: opponents ask why the revelation was not sent down to some great
-  man of the two towns.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - revelation-should-come-to-great-man
-passages:
-- tradition: judaism
-  ref: 1Sam 16:7
-  note: 'Opponents ask why the revelation was not sent down to some great man of the two towns (God''s
-    choice is not by human greatness: ʾal tabbēṭ ʾel marʾēhû wə-ʾel gəḇōah qômāṯô ... kî hā-ʾāḏām yirʾeh
-    la-ʿênayim wa-YHWH yirʾeh lal-lēḇāḇ vs. lawlā nuzzila hādhā l-qurʾānu ʿalā rajulin mina l-qaryatayni
-    ʿaẓīm; a-hum yaqsimūna raḥmata rabbika. In Samuel the prophet errs and God corrects him; in the Quran
-    the opponents err.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל שְׁמוּאֵ֗ל אַל תַּבֵּ֧ט אֶל מַרְאֵ֛הוּ וְאֶל גְּבֹ֥הַּ קוֹמָת֖וֹ כִּ֣י
-    מְאַסְתִּ֑יהוּ כִּ֣י לֹ֗א אֲשֶׁ֤ר יִרְאֶה֙ הָאָדָ֔ם כִּ֤י הָֽאָדָם֙ יִרְאֶ֣ה לַעֵינַ֔יִם וַיהוָ֖ה
-    יִרְאֶ֥ה לַלֵּבָֽב
-- tradition: islam
-  ref: Quran 43:31
-  note: Opponents ask why the revelation was not sent down to some great man of the two towns ('a great
-    man of the two towns' (Mecca and Ta'if))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
-- tradition: islam
-  ref: Quran 43:32
-  note: Opponents ask why the revelation was not sent down to some great man of the two towns ('a great
-    man of the two towns' (Mecca and Ta'if))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا
-    وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God''s choice is not by human greatness: ʾal tabbēṭ ʾel marʾēhû wə-ʾel gəḇōah qômāṯô ... kî
-    hā-ʾāḏām yirʾeh la-ʿênayim wa-YHWH yirʾeh lal-lēḇāḇ vs. lawlā nuzzila hādhā l-qurʾānu ʿalā rajulin
-    mina l-qaryatayni ʿaẓīm; a-hum yaqsimūna raḥmata rabbika. In Samuel the prophet errs and God corrects
-    him; in the Quran the opponents err.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents ask why the revelation was not sent down to some great
     man of the two towns (weight 6.7). Pair score 6.7.'
@@ -83,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Opponents ask why the revelation was not sent down to some great man of the two towns
+kinds:
+- echo
+units:
+- id: hb-1sam-16-david-anointed
+  title: David anointed; the evil spirit and David's lyre
+  tradition: judaism
+- id: quran-43-zukhruf-abraham-and-silver-roofs
+  title: Abraham disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
+  tradition: islam
+matches:
+- kind: echo
+  label: Opponents ask why the revelation was not sent down to some great man of the two towns
+  note: 'God''s choice is not by human greatness: ʾal tabbēṭ ʾel marʾēhû wə-ʾel gəḇōah qômāṯô ... kî hā-ʾāḏām
+    yirʾeh la-ʿênayim wa-YHWH yirʾeh lal-lēḇāḇ vs. lawlā nuzzila hādhā l-qurʾānu ʿalā rajulin mina l-qaryatayni
+    ʿaẓīm; a-hum yaqsimūna raḥmata rabbika. In Samuel the prophet errs and God corrects him; in the Quran
+    the opponents err.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 16:7
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל שְׁמוּאֵ֗ל אַל תַּבֵּ֧ט אֶל מַרְאֵ֛הוּ וְאֶל גְּבֹ֥הַּ קוֹמָת֖וֹ כִּ֣י
+        מְאַסְתִּ֑יהוּ כִּ֣י לֹ֗א אֲשֶׁ֤ר יִרְאֶה֙ הָאָדָ֔ם כִּ֤י הָֽאָדָם֙ יִרְאֶ֣ה לַעֵינַ֔יִם וַיהוָ֖ה
+        יִרְאֶ֥ה לַלֵּבָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 43:31
+      lang: ar
+      text: وَقَالُوا۟ لَوْلَا نُزِّلَ هَٰذَا ٱلْقُرْءَانُ عَلَىٰ رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ
+    - ref: Quran 43:32
+      lang: ar
+      text: أَهُمْ يَقْسِمُونَ رَحْمَتَ رَبِّكَ نَحْنُ قَسَمْنَا بَيْنَهُم مَّعِيشَتَهُمْ فِى ٱلْحَيَوٰةِ
+        ٱلدُّنْيَا وَرَفَعْنَا بَعْضَهُمْ فَوْقَ بَعْضٍ دَرَجَٰتٍ لِّيَتَّخِذَ بَعْضُهُم بَعْضًا سُخْرِيًّا
+        وَرَحْمَتُ رَبِّكَ خَيْرٌ مِّمَّا يَجْمَعُونَ
 ---
 
 ## Questions

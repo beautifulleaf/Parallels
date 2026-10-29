@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-9-uzayr-clergy
 title: Psalm 2 - the nations rage; the king as God's son ↔ 'Uzayr and the Messiah called sons of God;
   rabbis and monks as lords
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-response
-passages:
-- tradition: judaism
-  ref: Ps 2:2
-  note: 'Whether God has a son, or calls his anointed king his begotten son [response between the texts]
-    (Ps joins the anointed and divine sonship: ʿal-YHWH wᵉʿal-mᵉšîḥô ... bᵉnî ʾattāh ʾănî hayyôm yᵉlidtîkā.
-    Q rejects that union of titles: wa-qālati n-naṣārā l-masīḥu bnu llāhi dhālika qawluhum bi-afwāhihim
-    (al-masīḥ = māšîaḥ). In Ps it is the Davidic king; Q answers the Christian reading.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has a son, or calls his anointed king his begotten son [response between the texts]
-    (Ps joins the anointed and divine sonship: ʿal-YHWH wᵉʿal-mᵉšîḥô ... bᵉnî ʾattāh ʾănî hayyôm yᵉlidtîkā.
-    Q rejects that union of titles: wa-qālati n-naṣārā l-masīḥu bnu llāhi dhālika qawluhum bi-afwāhihim
-    (al-masīḥ = māšîaḥ). In Ps it is the Davidic king; Q answers the Christian reading.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: islam
-  ref: Quran 9:30
-  note: 'Whether God has a son, or calls his anointed king his begotten son [response between the texts]
-    (Ps joins the anointed and divine sonship: ʿal-YHWH wᵉʿal-mᵉšîḥô ... bᵉnî ʾattāh ʾănî hayyôm yᵉlidtîkā.
-    Q rejects that union of titles: wa-qālati n-naṣārā l-masīḥu bnu llāhi dhālika qawluhum bi-afwāhihim
-    (al-masīḥ = māšîaḥ). In Ps it is the Davidic king; Q answers the Christian reading.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ذَٰلِكَ
-    قَوْلُهُم بِأَفْوَٰهِهِمْ يُضَٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ قَٰتَلَهُمُ ٱللَّهُ
-    أَنَّىٰ يُؤْفَكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    response. Ps joins the anointed and divine sonship: ʿal-YHWH wᵉʿal-mᵉšîḥô ... bᵉnî ʾattāh ʾănî hayyôm
-    yᵉlidtîkā. Q rejects that union of titles: wa-qālati n-naṣārā l-masīḥu bnu llāhi dhālika qawluhum
-    bi-afwāhihim (al-masīḥ = māšîaḥ). In Ps it is the Davidic king; Q answers the Christian reading.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [response between the texts] (weight 6.7). Pair score 6.7.'
@@ -81,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- response
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-9-uzayr-clergy
+  title: '''Uzayr and the Messiah called sons of God; rabbis and monks as lords'
+  tradition: islam
+matches:
+- kind: response
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: 'Ps joins the anointed and divine sonship: ʿal-YHWH wᵉʿal-mᵉšîḥô ... bᵉnî ʾattāh ʾănî hayyôm yᵉlidtîkā.
+    Q rejects that union of titles: wa-qālati n-naṣārā l-masīḥu bnu llāhi dhālika qawluhum bi-afwāhihim
+    (al-masīḥ = māšîaḥ). In Ps it is the Davidic king; Q answers the Christian reading.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:2
+      lang: he
+      text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:30
+      lang: ar
+      text: وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ
+        ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ يُضَٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ قَٰتَلَهُمُ
+        ٱللَّهُ أَنَّىٰ يُؤْفَكُونَ
 ---
 
 ## Questions

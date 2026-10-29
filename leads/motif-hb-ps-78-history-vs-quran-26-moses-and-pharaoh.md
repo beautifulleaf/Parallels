@@ -2,9 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-26-moses-and-pharaoh
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Moses and Pharaoh disputing; the magicians;
   the sea split like mountains
-summary: 'These two units share 3 motifs: prophet stretches his staff over the sea and god splits it with
-  a strong east wind, the people walk on dry ground through the sea with the waters as a wall on either
-  side, the returning waters drown the pursuing army; not one survives.'
+summary: 3 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -19,61 +17,7 @@ motifs:
 - sea-split-by-staff-and-east-wind
 - walk-on-dry-ground-waters-as-walls
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:13
-  note: 'Prophet stretches his staff over the sea and God splits it with a strong east wind (Ps 78:13
-    bāqaʿ yām wa-yyaʿăbîrēm: God himself split the sea and brought them through; Q 2:50 faraqnā bikumu
-    l-baḥra fa-anjaynākum: the same telling with God as sole subject, without the staff and wind of Exod
-    14.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
-- tradition: islam
-  ref: Quran 26:63
-  note: Prophet stretches his staff over the sea and God splits it with a strong east wind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
-    كَٱلطَّوْدِ ٱلْعَظِيمِ
-- tradition: judaism
-  ref: Ps 78:13
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (va-yatsev
-    mayim kemo ned, waters stood like a heap)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
-- tradition: islam
-  ref: Quran 26:63
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
-    كَٱلطَّوْدِ ٱلْعَظِيمِ
-- tradition: islam
-  ref: Quran 26:65
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 26:64
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ
-- tradition: islam
-  ref: Quran 26:65
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Prophet stretches his staff over the sea and God splits it with
     a strong east wind (weight 6.0); The people walk on dry ground through the sea with the waters as
@@ -112,6 +56,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet stretches his staff over the sea and God splits it with a strong east wind
+kinds:
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: shared
+  label: Prophet stretches his staff over the sea and God splits it with a strong east wind
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:13
+      lang: he
+      text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
+    note: 'Ps 78:13 bāqaʿ yām wa-yyaʿăbîrēm: God himself split the sea and brought them through; Q 2:50
+      faraqnā bikumu l-baḥra fa-anjaynākum: the same telling with God as sole subject, without the staff
+      and wind of Exod 14.'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:63
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
+        كَٱلطَّوْدِ ٱلْعَظِيمِ
+- kind: shared
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:13
+      lang: he
+      text: בָּ֣קַע יָ֭ם וַיַּֽעֲבִירֵ֑ם וַֽיַּצֶּב מַ֥יִם כְּמוֹ נֵֽד
+    note: va-yatsev mayim kemo ned, waters stood like a heap
+  - tradition: islam
+    passages:
+    - ref: Quran 26:63
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
+        كَٱلطَّوْدِ ٱلْعَظِيمِ
+    - ref: Quran 26:65
+      lang: ar
+      text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:64
+      lang: ar
+      text: وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ
+    - ref: Quran 26:65
+      lang: ar
+      text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
+    - ref: Quran 26:66
+      lang: ar
+      text: ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ
 ---
 
 ## Questions

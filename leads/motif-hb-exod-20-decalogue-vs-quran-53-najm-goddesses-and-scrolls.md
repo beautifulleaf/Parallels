@@ -2,8 +2,7 @@
 id: motif-hb-exod-20-decalogue-vs-quran-53-najm-goddesses-and-scrolls
 title: The Ten Words and the people's fear ↔ Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls
   of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: whether guilt passes from parents to their descendants [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - inherited-guilt-across-generations-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 20:5
-  note: 'Whether guilt passes from parents to their descendants [contrast between the texts] (Two points.
-    (1) Exod: pōqēd ʿăwōn ʾāvōt ʿal-bānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm, guilt carried across generations;
-    Q 6:164 lā taziru wāziratun wizra ukhrā, no one bears another''s burden. (2) Both make reward larger
-    than punishment: Exod ʿōśeh ḥesed lā-ʾălāfîm against three or four generations; Q man jāʾa bi-l-ḥasanati
-    fa-lahu ʿashru amthālihā wa-man jāʾa bi-l-sayyiʾati fa-lā yujzā illā mithlahā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א
-    פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל בָּנִ֛ים עַל שִׁלֵּשִׁ֥ים וְעַל רִבֵּעִ֖ים לְשֹׂנְאָֽי
-- tradition: judaism
-  ref: Exod 20:6
-  note: 'Whether guilt passes from parents to their descendants [contrast between the texts] (Two points.
-    (1) Exod: pōqēd ʿăwōn ʾāvōt ʿal-bānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm, guilt carried across generations;
-    Q 6:164 lā taziru wāziratun wizra ukhrā, no one bears another''s burden. (2) Both make reward larger
-    than punishment: Exod ʿōśeh ḥesed lā-ʾălāfîm against three or four generations; Q man jāʾa bi-l-ḥasanati
-    fa-lahu ʿashru amthālihā wa-man jāʾa bi-l-sayyiʾati fa-lā yujzā illā mithlahā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעֹ֥שֶׂה חֶ֖סֶד לַאֲלָפִ֑ים לְאֹהֲבַ֖י וּלְשֹׁמְרֵ֥י מִצְוֺתָֽי
-- tradition: islam
-  ref: Quran 53:38
-  note: 'Whether guilt passes from parents to their descendants [contrast between the texts] (Within the
-    HB, the Decalogue says the opposite: pōqēḏ ʿăwōn ʾāḇōṯ ʿal bānîm ʿal šillēšîm wə-ʿal ribbēʿîm lə-śōnʾāy.
-    The Quran, quoting ''what is in the scrolls of Moses'', gives only the opposing principle: allā taziru
-    wāziratun wizra ukhrā. It sides with Deut 24:16, Jer 31:30 and Ezek 18 against Exod 20:5 and 34:7.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Within the HB, the Decalogue says the opposite: pōqēḏ ʿăwōn ʾāḇōṯ ʿal bānîm ʿal šillēšîm
-    wə-ʿal ribbēʿîm lə-śōnʾāy. The Quran, quoting ''what is in the scrolls of Moses'', gives only the
-    opposing principle: allā taziru wāziratun wizra ukhrā. It sides with Deut 24:16, Jer 31:30 and Ezek
-    18 against Exod 20:5 and 34:7.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether guilt passes from parents to their descendants [contrast
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -86,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether guilt passes from parents to their descendants
+kinds:
+- contrast
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether guilt passes from parents to their descendants
+  note: 'Within the HB, the Decalogue says the opposite: pōqēḏ ʿăwōn ʾāḇōṯ ʿal bānîm ʿal šillēšîm wə-ʿal
+    ribbēʿîm lə-śōnʾāy. The Quran, quoting ''what is in the scrolls of Moses'', gives only the opposing
+    principle: allā taziru wāziratun wizra ukhrā. It sides with Deut 24:16, Jer 31:30 and Ezek 18 against
+    Exod 20:5 and 34:7.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:5
+      lang: he
+      text: לֹֽא תִשְׁתַּחֲוֶ֥ה לָהֶ֖ם וְלֹ֣א תָעָבְדֵ֑ם כִּ֣י אָֽנֹכִ֞י יְהוָ֤ה אֱלֹהֶ֨יךָ֙ אֵ֣ל קַנָּ֔א
+        פֹּ֠קֵד עֲוֺ֨ן אָבֹ֧ת עַל בָּנִ֛ים עַל שִׁלֵּשִׁ֥ים וְעַל רִבֵּעִ֖ים לְשֹׂנְאָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 53:38
+      lang: ar
+      text: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
 ---
 
 ## Questions

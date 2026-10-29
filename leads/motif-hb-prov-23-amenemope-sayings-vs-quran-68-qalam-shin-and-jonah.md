@@ -2,8 +2,7 @@
 id: motif-hb-prov-23-amenemope-sayings-vs-quran-68-qalam-shin-and-jonah
 title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field ↔
   Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the evil eye
-summary: 'These two units share 1 motifs: the ''good of eye'' (generous) is blessed; the ''evil of eye''
-  (stingy, envious) is to be shunned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - good-eye-and-evil-eye
-passages:
-- tradition: judaism
-  ref: Prov 23:6
-  note: The 'good of eye' (generous) is blessed; the 'evil of eye' (stingy, envious) is to be shunned
-    (ra' 'ayin)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּלְחַ֗ם אֶת לֶ֭חֶם רַ֣ע עָ֑יִן וְאַל תתאו תִּ֝תְאָ֗יו לְמַטְעַמֹּתָֽיו
-- tradition: islam
-  ref: Quran 68:51
-  note: 'The ''good of eye'' (generous) is blessed; the ''evil of eye'' (stingy, envious) is to be shunned
-    (weak: la-yuzliqūnaka bi-abṣārihim (they nearly make you slip with their eyes) ~ ʾal tilḥam ʾet leḥem
-    raʿ ʿāyin. Harmful eye in both, but in Proverbs raʿ ʿayin is stinginess, in the Quran a hostile gaze.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ
-    إِنَّهُۥ لَمَجْنُونٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. weak: la-yuzliqūnaka bi-abṣārihim (they nearly make you slip with their eyes) ~ ʾal tilḥam ʾet
-    leḥem raʿ ʿāyin. Harmful eye in both, but in Proverbs raʿ ʿayin is stinginess, in the Quran a hostile
-    gaze.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''good of eye'' (generous) is blessed; the ''evil of eye'' (stingy,
     envious) is to be shunned (weight 6.0). Pair score 6.0.'
@@ -74,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'good of eye' (generous) is blessed; the 'evil of eye' (stingy, envious) is to be shunned
+kinds:
+- echo
+units:
+- id: hb-prov-23-amenemope-sayings
+  title: Words of the Wise (Amenemope parallel), dining with rulers, winged riches, the orphan's field
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: echo
+  label: The 'good of eye' (generous) is blessed; the 'evil of eye' (stingy, envious) is to be shunned
+  note: 'weak: la-yuzliqūnaka bi-abṣārihim (they nearly make you slip with their eyes) ~ ʾal tilḥam ʾet
+    leḥem raʿ ʿāyin. Harmful eye in both, but in Proverbs raʿ ʿayin is stinginess, in the Quran a hostile
+    gaze.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:6
+      lang: he
+      text: אַל תִּלְחַ֗ם אֶת לֶ֭חֶם רַ֣ע עָ֑יִן וְאַל תתאו תִּ֝תְאָ֗יו לְמַטְעַמֹּתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 68:51
+      lang: ar
+      text: وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ
+        وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-19-deliverance-of-jerusalem-vs-quran-8-badr-help
 title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter ↔ Badr - angels,
   slumber, rain and God's throw
-summary: 'These two units share 1 motifs: god''s angels strike the enemy army [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - angels-strike-the-enemy-as-divergence
-passages:
-- tradition: judaism
-  ref: 2Kgs 19:35
-  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
-    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
-    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
-    angels strike together with the believers in open battle.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
-    שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-- tradition: islam
-  ref: Quran 8:12
-  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
-    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
-    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
-    angels strike together with the believers in open battle.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
-    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
-    بَنَانٍ
-- tradition: islam
-  ref: Quran 8:17
-  note: 'God''s angels strike the enemy army [divergence between the texts] (Angels kill the enemy: fa-ḍribū
-    fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm
-    waḥămiššāh ʾālep. In Kings one angel acts alone at night while Judah does nothing; in Q a thousand
-    angels strike together with the believers in open battle.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ
-    رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Angels kill the enemy: fa-ḍribū fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ
-    malʾak YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm waḥămiššāh ʾālep. In Kings one angel acts alone
-    at night while Judah does nothing; in Q a thousand angels strike together with the believers in open
-    battle.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s angels strike the enemy army [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -89,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's angels strike the enemy army
+kinds:
+- divergence
+units:
+- id: hb-2kgs-19-deliverance-of-jerusalem
+  title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's angels strike the enemy army
+  note: 'Angels kill the enemy: fa-ḍribū fawqa l-aʿnāqi wa-ḍribū minhum kulla banān vs wayyēṣēʾ malʾak
+    YHWH wayyak bᵉmaḥănēh ʾaššûr mēʾāh šᵉmōnîm waḥămiššāh ʾālep. In Kings one angel acts alone at night
+    while Judah does nothing; in Q a thousand angels strike together with the believers in open battle.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:35
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 8:12
+      lang: ar
+      text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟
+        سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟
+        مِنْهُمْ كُلَّ بَنَانٍ
+    - ref: Quran 8:17
+      lang: ar
+      text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ
+        ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

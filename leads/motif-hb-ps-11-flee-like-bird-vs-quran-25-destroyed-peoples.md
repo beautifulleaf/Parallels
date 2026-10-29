@@ -2,7 +2,7 @@
 id: motif-hb-ps-11-flee-like-bird-vs-quran-25-destroyed-peoples
 title: Psalm 11 - in YHWH I take refuge ↔ Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and
   the rained-upon town
-summary: 'These two units share 1 motifs: god rains sulfur and fire from heaven on cities.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - fire-and-brimstone-from-heaven
-passages:
-- tradition: judaism
-  ref: Ps 11:6
-  note: God rains sulfur and fire from heaven on cities
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
-- tradition: islam
-  ref: Quran 25:40
-  note: God rains sulfur and fire from heaven on cities
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا
-    بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. umṭirat maṭara s-sawʾi ~ yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-gofrît: God ''rains'' destruction on
-    the wicked.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rains sulfur and fire from heaven on cities (weight 4.8). Pair
     score 4.8.'
@@ -64,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God rains sulfur and fire from heaven on cities
+kinds:
+- echo
+units:
+- id: hb-ps-11-flee-like-bird
+  title: Psalm 11 - in YHWH I take refuge
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: echo
+  label: God rains sulfur and fire from heaven on cities
+  note: 'umṭirat maṭara s-sawʾi ~ yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-gofrît: God ''rains'' destruction on
+    the wicked.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 11:6
+      lang: he
+      text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 25:40
+      lang: ar
+      text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟
+        يَرَوْنَهَا بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
 ---
 
 ## Questions

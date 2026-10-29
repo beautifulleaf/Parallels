@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-76-the-human
 title: 'Job''s oath of innocence ↔ The human: the mingled drop and the camphor cup'
-summary: 'These two units share 1 motifs: the righteous did not eat his morsel alone without sharing with
-  the orphan.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - did-not-eat-morsel-alone
-passages:
-- tradition: judaism
-  ref: Job 31:16
-  note: The righteous did not eat his morsel alone without sharing with the orphan
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם אֶ֭מְנַע מֵחֵ֣פֶץ דַּלִּ֑ים וְעֵינֵ֖י אַלְמָנָ֣ה אֲכַלֶּֽה
-- tradition: judaism
-  ref: Job 31:17
-  note: The righteous did not eat his morsel alone without sharing with the orphan
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֹכַ֣ל פִּתִּ֣י לְבַדִּ֑י וְלֹא אָכַ֖ל יָת֣וֹם מִמֶּֽנָּה
-- tradition: islam
-  ref: Quran 76:8
-  note: The righteous did not eat his morsel alone without sharing with the orphan (they feed the poor,
-    the orphan and the captive despite love of it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا
-- tradition: islam
-  ref: Quran 76:9
-  note: The righteous did not eat his morsel alone without sharing with the orphan (they feed the poor,
-    the orphan and the captive despite love of it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-yuṭʿimūna ṭ-ṭaʿāma ʿalā ḥubbihi miskīnan wa-yatīman wa-asīran ~ we-ʾōkal pittî levaddî
-    we-lōʾ ʾākal yātôm mimmennāh. The orphan fed from one''s own bread as the mark of the righteous. The
-    Quran adds the captive and the motive: li-wajhi llāhi lā nurīdu minkum jazāʾan wa-lā shukūran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous did not eat his morsel alone without sharing with
     the orphan (weight 6.7). Pair score 6.7.'
@@ -81,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The righteous did not eat his morsel alone without sharing with the orphan
+kinds:
+- parallel
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-76-the-human
+  title: 'The human: the mingled drop and the camphor cup'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The righteous did not eat his morsel alone without sharing with the orphan
+  note: 'wa-yuṭʿimūna ṭ-ṭaʿāma ʿalā ḥubbihi miskīnan wa-yatīman wa-asīran ~ we-ʾōkal pittî levaddî we-lōʾ
+    ʾākal yātôm mimmennāh. The orphan fed from one''s own bread as the mark of the righteous. The Quran
+    adds the captive and the motive: li-wajhi llāhi lā nurīdu minkum jazāʾan wa-lā shukūran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:17
+      lang: he
+      text: וְאֹכַ֣ל פִּתִּ֣י לְבַדִּ֑י וְלֹא אָכַ֖ל יָת֣וֹם מִמֶּֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 76:8
+      lang: ar
+      text: وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسْكِينًا وَيَتِيمًا وَأَسِيرًا
+    - ref: Quran 76:9
+      lang: ar
+      text: إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ لَا نُرِيدُ مِنكُمْ جَزَآءً وَلَا شُكُورًا
 ---
 
 ## Questions

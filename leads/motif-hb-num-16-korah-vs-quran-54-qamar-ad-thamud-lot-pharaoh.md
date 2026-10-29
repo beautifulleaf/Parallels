@@ -2,8 +2,7 @@
 id: motif-hb-num-16-korah-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ Refrains over 'Ad, Thamud's she-camel,
   Lot's guests and Pharaoh; everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: thamud say: ''shall we follow a single human from among us?
-  was the reminder cast on him alone?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - shall-we-follow-a-single-human
-passages:
-- tradition: judaism
-  ref: Num 16:3
-  note: 'Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?''
-    (Rejecting one man''s claim to speak for God: rab lāḵem kî ḵol hā-ʿēḏâ kullām qəḏōšîm ... û-maddûaʿ
-    tiṯnaśśəʾû ʿal qəhal YHWH vs. a-basharan minnā wāḥidan nattabiʿuhu ... a-ulqiya dh-dhikru ʿalayhi
-    min bayninā. Korah argues that all are holy; Thamud that a mere human from among them cannot have
-    been singled out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽקָּהֲל֞וּ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֗ן וַיֹּאמְר֣וּ אֲלֵהֶם֮ רַב לָכֶם֒ כִּ֤י כָל הָֽעֵדָה֙
-    כֻּלָּ֣ם קְדֹשִׁ֔ים וּבְתוֹכָ֖ם יְהוָ֑ה וּמַדּ֥וּעַ תִּֽתְנַשְּׂא֖וּ עַל קְהַ֥ל יְהוָֽה
-- tradition: islam
-  ref: Quran 54:24
-  note: 'Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَٰلٍ وَسُعُرٍ
-- tradition: islam
-  ref: Quran 54:25
-  note: 'Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Rejecting one man''s claim to speak for God: rab lāḵem kî ḵol hā-ʿēḏâ kullām qəḏōšîm ... û-maddûaʿ
-    tiṯnaśśəʾû ʿal qəhal YHWH vs. a-basharan minnā wāḥidan nattabiʿuhu ... a-ulqiya dh-dhikru ʿalayhi
-    min bayninā. Korah argues that all are holy; Thamud that a mere human from among them cannot have
-    been singled out.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Thamud say: ''Shall we follow a single human from among us? Was
     the reminder cast on him alone?'' (weight 6.7). Pair score 6.7.'
@@ -80,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'''
+kinds:
+- echo
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Thamud say: ''Shall we follow a single human from among us? Was the reminder cast on him alone?'''
+  note: 'Rejecting one man''s claim to speak for God: rab lāḵem kî ḵol hā-ʿēḏâ kullām qəḏōšîm ... û-maddûaʿ
+    tiṯnaśśəʾû ʿal qəhal YHWH vs. a-basharan minnā wāḥidan nattabiʿuhu ... a-ulqiya dh-dhikru ʿalayhi
+    min bayninā. Korah argues that all are holy; Thamud that a mere human from among them cannot have
+    been singled out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:3
+      lang: he
+      text: וַיִּֽקָּהֲל֞וּ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֗ן וַיֹּאמְר֣וּ אֲלֵהֶם֮ רַב לָכֶם֒ כִּ֤י כָל הָֽעֵדָה֙
+        כֻּלָּ֣ם קְדֹשִׁ֔ים וּבְתוֹכָ֖ם יְהוָ֑ה וּמַדּ֥וּעַ תִּֽתְנַשְּׂא֖וּ עַל קְהַ֥ל יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 54:24
+      lang: ar
+      text: فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَٰلٍ وَسُعُرٍ
+    - ref: Quran 54:25
+      lang: ar
+      text: أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ
 ---
 
 ## Questions

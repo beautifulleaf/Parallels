@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-19-resurrection-and-the-son
 title: Psalm 2 - the nations rage; the king as God's son ↔ Kneeling around hell, all will come to it;
   'al-Rahman has taken a son' (Surah 19:66-98)
-summary: 'These two units share 1 motifs: they say ''al-rahman has taken a son''; it is not fitting for
-  the merciful [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - claim-that-rahman-took-a-son-as-response
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: They say 'al-Rahman has taken a son'; it is not fitting for the Merciful [response between the
-    texts] (bənî ʾattâ ʾănî hayyôm yəlidtîkā, God's decree naming the king his begotten son; wa-qālū ttakhadha
-    r-Raḥmānu waladan la-qad jiʾtum shayʾan iddā ... wa-mā yanbaghī li-r-Raḥmāni an yattakhidha waladā
-    in kullu man fī s-samāwāti wa-l-arḍi illā ātī r-Raḥmāni ʿabdā. Q's direct target is the Christian
-    claim about Jesus (19:34-35), but it rejects the very category the psalm uses. Every being comes to
-    God as ʿabd, never as son.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: islam
-  ref: Quran 19:88
-  note: They say 'al-Rahman has taken a son'; it is not fitting for the Merciful [response between the
-    texts] (bənî ʾattâ ʾănî hayyôm yəlidtîkā, God's decree naming the king his begotten son; wa-qālū ttakhadha
-    r-Raḥmānu waladan la-qad jiʾtum shayʾan iddā ... wa-mā yanbaghī li-r-Raḥmāni an yattakhidha waladā
-    in kullu man fī s-samāwāti wa-l-arḍi illā ātī r-Raḥmāni ʿabdā. Q's direct target is the Christian
-    claim about Jesus (19:34-35), but it rejects the very category the psalm uses. Every being comes to
-    God as ʿabd, never as son.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا
-- tradition: islam
-  ref: Quran 19:89
-  note: They say 'al-Rahman has taken a son'; it is not fitting for the Merciful [response between the
-    texts] (bənî ʾattâ ʾănî hayyôm yəlidtîkā, God's decree naming the king his begotten son; wa-qālū ttakhadha
-    r-Raḥmānu waladan la-qad jiʾtum shayʾan iddā ... wa-mā yanbaghī li-r-Raḥmāni an yattakhidha waladā
-    in kullu man fī s-samāwāti wa-l-arḍi illā ātī r-Raḥmāni ʿabdā. Q's direct target is the Christian
-    claim about Jesus (19:34-35), but it rejects the very category the psalm uses. Every being comes to
-    God as ʿabd, never as son.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    response. bənî ʾattâ ʾănî hayyôm yəlidtîkā, God''s decree naming the king his begotten son; wa-qālū
-    ttakhadha r-Raḥmānu waladan la-qad jiʾtum shayʾan iddā ... wa-mā yanbaghī li-r-Raḥmāni an yattakhidha
-    waladā in kullu man fī s-samāwāti wa-l-arḍi illā ātī r-Raḥmāni ʿabdā. Q''s direct target is the Christian
-    claim about Jesus (19:34-35), but it rejects the very category the psalm uses. Every being comes to
-    God as ʿabd, never as son.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They say ''al-Rahman has taken a son''; it is not fitting for the
     Merciful [response between the texts] (weight 6.3). Pair score 6.3.'
@@ -90,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They say 'al-Rahman has taken a son'; it is not fitting for the Merciful
+kinds:
+- response
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-19-resurrection-and-the-son
+  title: Kneeling around hell, all will come to it; 'al-Rahman has taken a son' (Surah 19:66-98)
+  tradition: islam
+matches:
+- kind: response
+  label: They say 'al-Rahman has taken a son'; it is not fitting for the Merciful
+  note: bənî ʾattâ ʾănî hayyôm yəlidtîkā, God's decree naming the king his begotten son; wa-qālū ttakhadha
+    r-Raḥmānu waladan la-qad jiʾtum shayʾan iddā ... wa-mā yanbaghī li-r-Raḥmāni an yattakhidha waladā
+    in kullu man fī s-samāwāti wa-l-arḍi illā ātī r-Raḥmāni ʿabdā. Q's direct target is the Christian
+    claim about Jesus (19:34-35), but it rejects the very category the psalm uses. Every being comes to
+    God as ʿabd, never as son.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:88
+      lang: ar
+      text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا
+    - ref: Quran 19:89
+      lang: ar
+      text: لَّقَدْ جِئْتُمْ شَيْـًٔا إِدًّا
+    - ref: Quran 19:92
+      lang: ar
+      text: وَمَا يَنۢبَغِى لِلرَّحْمَٰنِ أَن يَتَّخِذَ وَلَدًا
 ---
 
 ## Questions

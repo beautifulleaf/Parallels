@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-16-festivals-judges-vs-quran-5-contracts-food-laws
 title: Passover, Weeks, Booths; judges; no Asherah ↔ Contracts, pilgrim sanctity and the forbidden foods
-summary: 'These two units share 1 motifs: what is slaughtered on stone altars (nuṣub/anṣāb) is forbidden;
-  the stones are abomination.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - sacrifice-on-stone-altars-forbidden
-passages:
-- tradition: judaism
-  ref: Deut 16:22
-  note: 'What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden; the stones are abomination (The
-    cognate root n-ṣ-b for cultic standing stones. Q: wa-mā dhubiḥa ʿalā l-nuṣubi (what is slaughtered
-    on the standing stones). Deut: wə-lōʾ-tāqîm ləkhā maṣṣēvāh ʾăšer śānēʾ YHWH.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא תָקִ֥ים לְךָ֖ מַצֵּבָ֑ה אֲשֶׁ֥ר שָׂנֵ֖א יְהוָ֥ה אֱלֹהֶֽיךָ
-- tradition: islam
-  ref: Quran 5:3
-  note: What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden; the stones are abomination
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The cognate root n-ṣ-b for cultic standing stones. Q: wa-mā dhubiḥa ʿalā l-nuṣubi (what is slaughtered
-    on the standing stones). Deut: wə-lōʾ-tāqîm ləkhā maṣṣēvāh ʾăšer śānēʾ YHWH.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden;
     the stones are abomination (weight 6.3). Pair score 6.3.'
@@ -70,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden; the stones are abomination
+kinds:
+- echo
+units:
+- id: hb-deut-16-festivals-judges
+  title: Passover, Weeks, Booths; judges; no Asherah
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: echo
+  label: What is slaughtered on stone altars (nuṣub/anṣāb) is forbidden; the stones are abomination
+  note: 'The cognate root n-ṣ-b for cultic standing stones. Q: wa-mā dhubiḥa ʿalā l-nuṣubi (what is slaughtered
+    on the standing stones). Deut: wə-lōʾ-tāqîm ləkhā maṣṣēvāh ʾăšer śānēʾ YHWH.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 16:22
+      lang: he
+      text: וְלֹֽא תָקִ֥ים לְךָ֖ מַצֵּבָ֑ה אֲשֶׁ֥ר שָׂנֵ֖א יְהוָ֥ה אֱלֹהֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

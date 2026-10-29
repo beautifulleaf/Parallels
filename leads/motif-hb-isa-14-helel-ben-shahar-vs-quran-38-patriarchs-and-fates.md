@@ -2,8 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-38-patriarchs-and-fates
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ The chosen patriarchs;
   the Gardens of Eden and the quarrel of the damned
-summary: 'These two units share 1 motifs: entering hell, a crowd is greeted by those already there with
-  ''no welcome to them!'' and they retort in kind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - damned-groups-no-welcome
-passages:
-- tradition: judaism
-  ref: Isa 14:9
-  note: 'Entering hell, a crowd is greeted by those already there with ''No welcome to them!'' and they
-    retort in kind (šəʾôl mi-ttaḥaṯ rāḡəzâ ləḵā liqraʾṯ bôʾeḵā ... kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ
-    ḥullêṯā ḵāmônû vs. hādhā fawjun muqtaḥimun maʿakum lā marḥaban bihim ... qālū bal antum lā marḥaban
-    bikum: those already below greet the newcomers to the underworld with scorn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁא֗וֹל מִתַּ֛חַת רָגְזָ֥ה לְךָ֖ לִקְרַ֣את בּוֹאֶ֑ךָ עוֹרֵ֨ר לְךָ֤ רְפָאִים֙ כָּל עַתּ֣וּדֵי
-    אָ֔רֶץ הֵקִים֙ מִכִּסְאוֹתָ֔ם כֹּ֖ל מַלְכֵ֥י גוֹיִֽם
-- tradition: judaism
-  ref: Isa 14:10
-  note: 'Entering hell, a crowd is greeted by those already there with ''No welcome to them!'' and they
-    retort in kind (šəʾôl mi-ttaḥaṯ rāḡəzâ ləḵā liqraʾṯ bôʾeḵā ... kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ
-    ḥullêṯā ḵāmônû vs. hādhā fawjun muqtaḥimun maʿakum lā marḥaban bihim ... qālū bal antum lā marḥaban
-    bikum: those already below greet the newcomers to the underworld with scorn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
-- tradition: islam
-  ref: Quran 38:59
-  note: Entering hell, a crowd is greeted by those already there with 'No welcome to them!' and they retort
-    in kind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ لَا مَرْحَبًۢا بِهِمْ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
-- tradition: islam
-  ref: Quran 38:60
-  note: Entering hell, a crowd is greeted by those already there with 'No welcome to them!' and they retort
-    in kind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ أَنتُمْ قَدَّمْتُمُوهُ لَنَا فَبِئْسَ ٱلْقَرَارُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. šəʾôl mi-ttaḥaṯ rāḡəzâ ləḵā liqraʾṯ bôʾeḵā ... kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ ḥullêṯā
-    ḵāmônû vs. hādhā fawjun muqtaḥimun maʿakum lā marḥaban bihim ... qālū bal antum lā marḥaban bikum:
-    those already below greet the newcomers to the underworld with scorn.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entering hell, a crowd is greeted by those already there with ''No
     welcome to them!'' and they retort in kind (weight 6.7). Pair score 6.7.'
@@ -91,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Entering hell, a crowd is greeted by those already there with 'No welcome to them!' and they
+  retort in kind
+kinds:
+- echo
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-38-patriarchs-and-fates
+  title: The chosen patriarchs; the Gardens of Eden and the quarrel of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: Entering hell, a crowd is greeted by those already there with 'No welcome to them!' and they
+    retort in kind
+  note: 'šəʾôl mi-ttaḥaṯ rāḡəzâ ləḵā liqraʾṯ bôʾeḵā ... kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ ḥullêṯā
+    ḵāmônû vs. hādhā fawjun muqtaḥimun maʿakum lā marḥaban bihim ... qālū bal antum lā marḥaban bikum:
+    those already below greet the newcomers to the underworld with scorn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:9
+      lang: he
+      text: שְׁא֗וֹל מִתַּ֛חַת רָגְזָ֥ה לְךָ֖ לִקְרַ֣את בּוֹאֶ֑ךָ עוֹרֵ֨ר לְךָ֤ רְפָאִים֙ כָּל עַתּ֣וּדֵי
+        אָ֔רֶץ הֵקִים֙ מִכִּסְאוֹתָ֔ם כֹּ֖ל מַלְכֵ֥י גוֹיִֽם
+    - ref: Isa 14:10
+      lang: he
+      text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:59
+      lang: ar
+      text: هَٰذَا فَوْجٌ مُّقْتَحِمٌ مَّعَكُمْ لَا مَرْحَبًۢا بِهِمْ إِنَّهُمْ صَالُوا۟ ٱلنَّارِ
+    - ref: Quran 38:60
+      lang: ar
+      text: قَالُوا۟ بَلْ أَنتُمْ لَا مَرْحَبًۢا بِكُمْ أَنتُمْ قَدَّمْتُمُوهُ لَنَا فَبِئْسَ ٱلْقَرَارُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-44-closed-gate-priests-vs-quran-5-contracts-food-laws
 title: The shut east gate, foreigners excluded, Levites and Zadokite priests ↔ Contracts, pilgrim sanctity
   and the forbidden foods
-summary: 'These two units share 1 motifs: priests may not eat any bird or beast that died of itself or
-  was torn.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,25 +15,7 @@ layers:
 - motif
 motifs:
 - priests-no-nevelah-terefah
-passages:
-- tradition: judaism
-  ref: Ezek 44:31
-  note: Priests may not eat any bird or beast that died of itself or was torn
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל נְבֵלָה֙ וּטְרֵפָ֔ה מִן הָע֖וֹף וּמִן הַבְּהֵמָ֑ה לֹ֥א יֹאכְל֖וּ הַכֹּהֲנִֽים
-- tradition: islam
-  ref: Quran 5:3
-  note: Priests may not eat any bird or beast that died of itself or was torn (carrion (al-mayta) and
-    'what a beast of prey ate' (= nevelah and terefah), here for all believers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Priests may not eat any bird or beast that died of itself or was
     torn (weight 6.7). Pair score 6.7.'
@@ -70,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Priests may not eat any bird or beast that died of itself or was torn
+kinds:
+- shared
+units:
+- id: hb-ezek-44-closed-gate-priests
+  title: The shut east gate, foreigners excluded, Levites and Zadokite priests
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: shared
+  label: Priests may not eat any bird or beast that died of itself or was torn
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 44:31
+      lang: he
+      text: כָּל נְבֵלָה֙ וּטְרֵפָ֔ה מִן הָע֖וֹף וּמִן הַבְּהֵמָ֑ה לֹ֥א יֹאכְל֖וּ הַכֹּהֲנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    note: carrion (al-mayta) and 'what a beast of prey ate' (= nevelah and terefah), here for all believers
 ---
 
 ## Questions

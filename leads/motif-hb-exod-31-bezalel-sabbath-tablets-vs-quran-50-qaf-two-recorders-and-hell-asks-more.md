@@ -2,8 +2,7 @@
 id: motif-hb-exod-31-bezalel-sabbath-tablets-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Bezalel and Oholiab; Sabbath as sign; the tablets ↔ Nearer than the jugular vein; the two recorders;
   driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 2 motifs: god rested and was refreshed on the seventh day, whether god
-  rested, or could tire, after creating heaven and earth [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -14,60 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- god-refreshed-on-seventh-day
 - god-rest-or-weariness-after-creation-as-response
-passages:
-- tradition: judaism
-  ref: Exod 31:17
-  note: God rested and was refreshed on the seventh day (vayinnafash, God 'caught his breath')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
-    אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
-- tradition: islam
-  ref: Quran 50:38
-  note: God rested and was refreshed on the seventh day (explicit counter to divine rest (Exod 31:17))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا
-    مِن لُّغُوبٍ
-- tradition: judaism
-  ref: Exod 31:17
-  note: Whether God rested, or could tire, after creating heaven and earth [response between the texts]
-    (kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš
-    (he rested and caught his breath) vs. a-wa-lam yaraw anna llāha lladhī khalaqa s-samāwāti wa-l-arḍa
-    wa-lam yaʿya bi-khalqihinna bi-qādirin ʿalā an yuḥyiya l-mawtā (he was not wearied by creating them).
-    The Quran's denial of weariness answers the anthropomorphic wa-yyinnāp̄aš, and uses it as proof that
-    God can raise the dead. See also Q 50:38.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
-    אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
-- tradition: islam
-  ref: Quran 50:38
-  note: 'Whether God rested, or could tire, after creating heaven and earth [response between the texts]
-    (The clearest rebuttal of a HB statement in this chunk. Exodus: kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim
-    wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš. Quran: wa-la-qad khalaqnā s-samāwāti wa-l-arḍa
-    wa-mā baynahumā fī sittati ayyāmin wa-mā massanā min lughūb. Same six days (šēšeṯ yāmîm / sittati
-    ayyām) and the same heavens and earth, but instead of ''he rested and caught his breath'' the Quran
-    has ''no weariness touched us''. The next verse turns from rest to praise: fa-ṣbir ... wa-sabbiḥ bi-ḥamdi
-    rabbik (50:39).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا
-    مِن لُّغُوبٍ
+- god-refreshed-on-seventh-day
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    response. The clearest rebuttal of a HB statement in this chunk. Exodus: kî šēšeṯ yāmîm ʿāśâ YHWH
-    ʾeṯ haš-šāmayim wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš. Quran: wa-la-qad khalaqnā
-    s-samāwāti wa-l-arḍa wa-mā baynahumā fī sittati ayyāmin wa-mā massanā min lughūb. Same six days (šēšeṯ
-    yāmîm / sittati ayyām) and the same heavens and earth, but instead of ''he rested and caught his breath''
-    the Quran has ''no weariness touched us''. The next verse turns from rest to praise: fa-ṣbir ... wa-sabbiḥ
-    bi-ḥamdi rabbik (50:39).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God rested and was refreshed on the seventh day (weight 6.3); Whether
-    God rested, or could tire, after creating heaven and earth [response between the texts] (weight 6.3).
-    Pair score 12.6.'
+- text: 'Shared motifs, rarest first: Whether God rested, or could tire, after creating heaven and earth
+    [response between the texts] (weight 6.3); God rested and was refreshed on the seventh day (weight
+    6.3). Pair score 12.6.'
   basis: reading
 - text: 'Only in Bezalel and Oholiab; Sabbath as sign; the tablets: God calls a master craftsman by name
     for the sacred work; Whoever works on the Sabbath shall be put to death; The Sabbath is justified
@@ -99,6 +53,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God rested, or could tire, after creating heaven and earth
+kinds:
+- response
+- shared
+units:
+- id: hb-exod-31-bezalel-sabbath-tablets
+  title: Bezalel and Oholiab; Sabbath as sign; the tablets
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: response
+  label: Whether God rested, or could tire, after creating heaven and earth
+  note: 'The clearest rebuttal of a HB statement in this chunk. Exodus: kî šēšeṯ yāmîm ʿāśâ YHWH ʾeṯ haš-šāmayim
+    wə-ʾeṯ hā-ʾāreṣ û-ḇay-yôm haš-šəḇîʿî šāḇaṯ wa-yyinnāp̄aš. Quran: wa-la-qad khalaqnā s-samāwāti wa-l-arḍa
+    wa-mā baynahumā fī sittati ayyāmin wa-mā massanā min lughūb. Same six days (šēšeṯ yāmîm / sittati
+    ayyām) and the same heavens and earth, but instead of ''he rested and caught his breath'' the Quran
+    has ''no weariness touched us''. The next verse turns from rest to praise: fa-ṣbir ... wa-sabbiḥ bi-ḥamdi
+    rabbik (50:39).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 31:17
+      lang: he
+      text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
+        אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:38
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا
+        مَسَّنَا مِن لُّغُوبٍ
+- kind: shared
+  label: God rested and was refreshed on the seventh day
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 31:17
+      lang: he
+      text: בֵּינִ֗י וּבֵין֙ בְּנֵ֣י יִשְׂרָאֵ֔ל א֥וֹת הִ֖וא לְעֹלָ֑ם כִּי שֵׁ֣שֶׁת יָמִ֗ים עָשָׂ֤ה יְהוָה֙
+        אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֔רֶץ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י שָׁבַ֖ת וַיִּנָּפַֽשׁ
+    note: vayinnafash, God 'caught his breath'
+  - tradition: islam
+    passages:
+    - ref: Quran 50:38
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا
+        مَسَّنَا مِن لُّغُوبٍ
+    note: explicit counter to divine rest (Exod 31:17)
 ---
 
 ## Questions

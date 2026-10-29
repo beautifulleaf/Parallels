@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-30-winds-and-rain
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Winds and rain; the dead
   who cannot hear; the ages of man
-summary: 'These two units share 2 motifs: god sends the winds as heralds before his mercy and sends down
-  pure water from the sky, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,63 +15,9 @@ layers:
 motifs:
 - winds-herald-mercy-pure-water
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:4
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 30:46
-  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ وَلِتَجْرِىَ
-    ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
-- tradition: islam
-  ref: Quran 30:48
-  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ
-    وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ
-    مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 30:50
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ ذَٰلِكَ
-    لَمُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿōśeh malʾāḵâw rûḥôṯ (who makes the winds his messengers) ... mašqeh hārîm mē-ʿălîyyôṯâw vs.
-    an yursila r-riyāḥa mubashshirātin ... fa-tuthīru saḥāban fa-yabsuṭuhu fī s-samāʾi: winds sent ahead
-    as heralds, then water from the heights. arsala (sent) parallels malʾāḵ (one sent).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends the winds as heralds before his mercy and sends down pure
     water from the sky (weight 5.4); Rain from the sky gives life to the earth after its death, a sign
@@ -106,6 +51,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends the winds as heralds before his mercy and sends down pure water from the sky
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-30-winds-and-rain
+  title: Winds and rain; the dead who cannot hear; the ages of man
+  tradition: islam
+matches:
+- kind: echo
+  label: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  note: 'ʿōśeh malʾāḵâw rûḥôṯ (who makes the winds his messengers) ... mašqeh hārîm mē-ʿălîyyôṯâw vs.
+    an yursila r-riyāḥa mubashshirātin ... fa-tuthīru saḥāban fa-yabsuṭuhu fī s-samāʾi: winds sent ahead
+    as heralds, then water from the heights. arsala (sent) parallels malʾāḵ (one sent).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 30:46
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦٓ أَن يُرْسِلَ ٱلرِّيَاحَ مُبَشِّرَٰتٍ وَلِيُذِيقَكُم مِّن رَّحْمَتِهِۦ
+        وَلِتَجْرِىَ ٱلْفُلْكُ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+    - ref: Quran 30:48
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ
+        يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ فَإِذَآ أَصَابَ بِهِۦ
+        مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 30:50
+      lang: ar
+      text: فَٱنظُرْ إِلَىٰٓ ءَاثَٰرِ رَحْمَتِ ٱللَّهِ كَيْفَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ
+        ذَٰلِكَ لَمُحْىِ ٱلْمَوْتَىٰ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

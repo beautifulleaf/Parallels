@@ -2,7 +2,7 @@
 id: motif-hb-jer-26-temple-sermon-trial-vs-quran-11-shuayb
 title: Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed ↔ Shu'ayb - measures,
   the prayer that commands, the clan
-summary: 'These two units share 1 motifs: only the prophet''s clan keeps the people from stoning him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - clan-protects-prophet-from-stoning
-passages:
-- tradition: judaism
-  ref: Jer 26:24
-  note: 'Only the prophet''s clan keeps the people from stoning him (Human protection is all that keeps
-    the threatened prophet alive: wa-law-lā rahṭuka la-rajamnāka vs ʾak yad ʾăḥîqām ben-šāpān hāyᵉtāh
-    ʾet-yirmᵉyāhû lᵉbiltî tēt-ʾōtô bᵉyad-hāʿām lahămîtô. Shuʿayb answers that God should count for more
-    than his clan (a-rahṭī aʿazzu ʿalaykum mina llāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֗ךְ יַ֚ד אֲחִיקָ֣ם בֶּן שָׁפָ֔ן הָיְתָ֖ה אֶֽת יִרְמְיָ֑הוּ לְבִלְתִּ֛י תֵּת אֹת֥וֹ בְיַד הָעָ֖ם
-    לַהֲמִיתֽוֹ
-- tradition: islam
-  ref: Quran 11:91
-  note: Only the prophet's clan keeps the people from stoning him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًا
-    وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍ
-- tradition: islam
-  ref: Quran 11:92
-  note: Only the prophet's clan keeps the people from stoning him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيًّا
-    إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Human protection is all that keeps the threatened prophet alive: wa-law-lā rahṭuka la-rajamnāka
-    vs ʾak yad ʾăḥîqām ben-šāpān hāyᵉtāh ʾet-yirmᵉyāhû lᵉbiltî tēt-ʾōtô bᵉyad-hāʿām lahămîtô. Shuʿayb
-    answers that God should count for more than his clan (a-rahṭī aʿazzu ʿalaykum mina llāh).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only the prophet''s clan keeps the people from stoning him (weight
     6.7). Pair score 6.7.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Only the prophet's clan keeps the people from stoning him
+kinds:
+- echo
+units:
+- id: hb-jer-26-temple-sermon-trial
+  title: Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed
+  tradition: judaism
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: echo
+  label: Only the prophet's clan keeps the people from stoning him
+  note: 'Human protection is all that keeps the threatened prophet alive: wa-law-lā rahṭuka la-rajamnāka
+    vs ʾak yad ʾăḥîqām ben-šāpān hāyᵉtāh ʾet-yirmᵉyāhû lᵉbiltî tēt-ʾōtô bᵉyad-hāʿām lahămîtô. Shuʿayb
+    answers that God should count for more than his clan (a-rahṭī aʿazzu ʿalaykum mina llāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 26:24
+      lang: he
+      text: אַ֗ךְ יַ֚ד אֲחִיקָ֣ם בֶּן שָׁפָ֔ן הָיְתָ֖ה אֶֽת יִרְמְיָ֑הוּ לְבִלְתִּ֛י תֵּת אֹת֥וֹ בְיַד
+        הָעָ֖ם לַהֲמִיתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:91
+      lang: ar
+      text: قَالُوا۟ يَٰشُعَيْبُ مَا نَفْقَهُ كَثِيرًا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفًا
+        وَلَوْلَا رَهْطُكَ لَرَجَمْنَٰكَ وَمَآ أَنتَ عَلَيْنَا بِعَزِيزٍ
+    - ref: Quran 11:92
+      lang: ar
+      text: قَالَ يَٰقَوْمِ أَرَهْطِىٓ أَعَزُّ عَلَيْكُم مِّنَ ٱللَّهِ وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ
+        ظِهْرِيًّا إِنَّ رَبِّى بِمَا تَعْمَلُونَ مُحِيطٌ
 ---
 
 ## Questions

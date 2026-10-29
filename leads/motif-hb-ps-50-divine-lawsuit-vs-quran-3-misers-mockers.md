@@ -2,8 +2,7 @@
 id: motif-hb-ps-50-divine-lawsuit-vs-quran-3-misers-mockers
 title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls ↔ Misers, those who called
   God poor, and the fire-consumed offering
-summary: 'These two units share 2 motifs: whether god is in need and humans rich [contrast between the
-  texts], people of the book cast god''s book behind their backs.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,52 +15,9 @@ layers:
 motifs:
 - divine-need-and-human-wealth-as-contrast
 - scripture-cast-behind-backs
-passages:
-- tradition: judaism
-  ref: Ps 50:12
-  note: 'Whether God is in need and humans rich [contrast between the texts] (Ps 50:12 ʾim ʾerʿab lōʾ
-    ʾōmar lāk kî lî tēbēl û-mĕlōʾāh: ''if I were hungry I would not tell you, for the world is mine'';
-    Q 3:181 la-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun wa-naḥnu aghniyāʾ: God heard those
-    who said ''God is poor and we are rich''. God''s self-sufficiency asserted by God in the psalm; mocked
-    by men in the Quran, and answered at 3:180 wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
-- tradition: islam
-  ref: Quran 3:181
-  note: 'Whether God is in need and humans rich [contrast between the texts] (Ps 50:12 ʾim ʾerʿab lōʾ
-    ʾōmar lāk kî lî tēbēl û-mĕlōʾāh: ''if I were hungry I would not tell you, for the world is mine'';
-    Q 3:181 la-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun wa-naḥnu aghniyāʾ: God heard those
-    who said ''God is poor and we are rich''. God''s self-sufficiency asserted by God in the psalm; mocked
-    by men in the Quran, and answered at 3:180 wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
-    سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
-- tradition: judaism
-  ref: Ps 50:17
-  note: 'People of the Book cast God''s book behind their backs (Ps 50:17 wa-ttašlēk dĕbāray ʾaḥărêkā
-    ''you cast my words behind you''; Q 2:41-42 lā tashtarū bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqq:
-    selling and concealing God''s signs. The Quran''s own wording nabadhūhu warāʾa ẓuhūrihim is at 3:187,
-    2:101.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֭אַתָּה שָׂנֵ֣אתָ מוּסָ֑ר וַתַּשְׁלֵ֖ךְ דְּבָרַ֣י אַחֲרֶֽיךָ
-- tradition: islam
-  ref: Quran 3:187
-  note: People of the Book cast God's book behind their backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا
-    تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا
-    يَشْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Ps 50:12 ʾim ʾerʿab lōʾ ʾōmar lāk kî lî tēbēl û-mĕlōʾāh: ''if I were hungry I would not
-    tell you, for the world is mine''; Q 3:181 la-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun
-    wa-naḥnu aghniyāʾ: God heard those who said ''God is poor and we are rich''. God''s self-sufficiency
-    asserted by God in the psalm; mocked by men in the Quran, and answered at 3:180 wa-li-llāhi mīrāthu
-    s-samāwāti wa-l-arḍ.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God is in need and humans rich [contrast between the texts]
     (weight 6.7); People of the Book cast God''s book behind their backs (weight 5.8). Pair score 12.5.'
@@ -97,6 +53,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God is in need and humans rich
+kinds:
+- contrast
+- shared
+units:
+- id: hb-ps-50-divine-lawsuit
+  title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God is in need and humans rich
+  note: 'Ps 50:12 ʾim ʾerʿab lōʾ ʾōmar lāk kî lî tēbēl û-mĕlōʾāh: ''if I were hungry I would not tell
+    you, for the world is mine''; Q 3:181 la-qad samiʿa llāhu qawla lladhīna qālū inna llāha faqīrun wa-naḥnu
+    aghniyāʾ: God heard those who said ''God is poor and we are rich''. God''s self-sufficiency asserted
+    by God in the psalm; mocked by men in the Quran, and answered at 3:180 wa-li-llāhi mīrāthu s-samāwāti
+    wa-l-arḍ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:12
+      lang: he
+      text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:181
+      lang: ar
+      text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
+        سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ
+        ٱلْحَرِيقِ
+- kind: shared
+  label: People of the Book cast God's book behind their backs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:17
+      lang: he
+      text: וְ֭אַתָּה שָׂנֵ֣אתָ מוּסָ֑ר וַתַּשְׁלֵ֖ךְ דְּבָרַ֣י אַחֲרֶֽיךָ
+    note: 'Ps 50:17 wa-ttašlēk dĕbāray ʾaḥărêkā ''you cast my words behind you''; Q 2:41-42 lā tashtarū
+      bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqq: selling and concealing God''s signs. The Quran''s
+      own wording nabadhūhu warāʾa ẓuhūrihim is at 3:187, 2:101.'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:187
+      lang: ar
+      text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا
+        تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ
+        مَا يَشْتَرُونَ
 ---
 
 ## Questions

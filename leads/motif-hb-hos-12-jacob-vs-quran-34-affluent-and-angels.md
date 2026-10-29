@@ -2,8 +2,7 @@
 id: motif-hb-hos-12-jacob-vs-quran-34-affluent-and-angels
 title: Jacob's story as indictment; Canaan's false scales ↔ The affluent reject warners; angels disown
   jinn-worshippers; the prophet is not mad
-summary: 'These two units share 1 motifs: every town''s affluent ones (mutrafun) reject the warner, boasting
-  ''we have more wealth and children; we will not be punished''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - affluent-reject-every-warner
-passages:
-- tradition: judaism
-  ref: Hos 12:9
-  note: 'Every town''s affluent ones (mutrafun) reject the warner, boasting ''we have more wealth and
-    children; we will not be punished'' (wa-yyōʾmer ʾep̄rayim ʾaḵ ʿāšartî māṣāʾṯî ʾôn lî kol-yəḡîʿay lōʾ
-    yimṣəʾû-lî ʿāwōn ʾăšer-ḥēṭʾ vs. wa-qālū naḥnu aktharu amwālan wa-awlādan wa-mā naḥnu bi-muʿadhdhabīn:
-    wealth taken as proof that no guilt or punishment can touch them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ עָשַׁ֔רְתִּי מָצָ֥אתִי א֖וֹן לִ֑י כָּל יְגִיעַ֕י לֹ֥א יִמְצְאוּ לִ֖י
-    עָוֺ֥ן אֲשֶׁר חֵֽטְא
-- tradition: islam
-  ref: Quran 34:34
-  note: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
-    we will not be punished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ إِنَّا بِمَآ أُرْسِلْتُم
-    بِهِۦ كَٰفِرُونَ
-- tradition: islam
-  ref: Quran 34:35
-  note: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
-    we will not be punished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyōʾmer ʾep̄rayim ʾaḵ ʿāšartî māṣāʾṯî ʾôn lî kol-yəḡîʿay lōʾ yimṣəʾû-lî ʿāwōn ʾăšer-ḥēṭʾ
-    vs. wa-qālū naḥnu aktharu amwālan wa-awlādan wa-mā naḥnu bi-muʿadhdhabīn: wealth taken as proof that
-    no guilt or punishment can touch them.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every town''s affluent ones (mutrafun) reject the warner, boasting
     ''we have more wealth and children; we will not be punished'' (weight 6.3). Pair score 6.3.'
@@ -78,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
+  we will not be punished'
+kinds:
+- parallel
+units:
+- id: hb-hos-12-jacob
+  title: Jacob's story as indictment; Canaan's false scales
+  tradition: judaism
+- id: quran-34-affluent-and-angels
+  title: The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Every town's affluent ones (mutrafun) reject the warner, boasting 'we have more wealth and children;
+    we will not be punished'
+  note: 'wa-yyōʾmer ʾep̄rayim ʾaḵ ʿāšartî māṣāʾṯî ʾôn lî kol-yəḡîʿay lōʾ yimṣəʾû-lî ʿāwōn ʾăšer-ḥēṭʾ vs.
+    wa-qālū naḥnu aktharu amwālan wa-awlādan wa-mā naḥnu bi-muʿadhdhabīn: wealth taken as proof that no
+    guilt or punishment can touch them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 12:9
+      lang: he
+      text: וַיֹּ֣אמֶר אֶפְרַ֔יִם אַ֣ךְ עָשַׁ֔רְתִּי מָצָ֥אתִי א֖וֹן לִ֑י כָּל יְגִיעַ֕י לֹ֥א יִמְצְאוּ
+        לִ֖י עָוֺ֥ן אֲשֶׁר חֵֽטְא
+  - tradition: islam
+    passages:
+    - ref: Quran 34:35
+      lang: ar
+      text: وَقَالُوا۟ نَحْنُ أَكْثَرُ أَمْوَٰلًا وَأَوْلَٰدًا وَمَا نَحْنُ بِمُعَذَّبِينَ
 ---
 
 ## Questions

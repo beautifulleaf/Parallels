@@ -2,7 +2,7 @@
 id: motif-hb-ps-146-trust-not-princes-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'Psalm 146, do not trust in princes ↔ Al-Hashr: the first gathering and exile of the Banu Nadir,
   the cut palms, and the law of fay'''
-summary: 'These two units share 1 motifs: god executes justice for orphan and widow and loves the stranger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - god-loves-stranger-orphan-widow
-passages:
-- tradition: judaism
-  ref: Ps 146:9
-  note: God executes justice for orphan and widow and loves the stranger
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֤ה שֹׁ֘מֵ֤ר אֶת גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת
-- tradition: islam
-  ref: Quran 59:7
-  note: God executes justice for orphan and widow and loves the stranger (orphans, the poor and the wayfarer
-    (ibn al-sabil))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
-    ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ
-    مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
-- tradition: islam
-  ref: Quran 59:9
-  note: God executes justice for orphan and widow and loves the stranger (orphans, the poor and the wayfarer
-    (ibn al-sabil))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ
-    وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ
-    كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. YHWH šōmēr ʾeṯ gērîm yāṯôm wə-ʾalmānâ yəʿôḏēḏ vs. wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl:
-    God''s care for orphan and stranger, turned in the Quran into a law for distributing spoil.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
     (weight 5.2). Pair score 5.2.'
@@ -77,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God executes justice for orphan and widow and loves the stranger
+kinds:
+- echo
+units:
+- id: hb-ps-146-trust-not-princes
+  title: Psalm 146, do not trust in princes
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: echo
+  label: God executes justice for orphan and widow and loves the stranger
+  note: 'YHWH šōmēr ʾeṯ gērîm yāṯôm wə-ʾalmānâ yəʿôḏēḏ vs. wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl: God''s
+    care for orphan and stranger, turned in the Quran into a law for distributing spoil.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 146:9
+      lang: he
+      text: יְהוָ֤ה שֹׁ֘מֵ֤ר אֶת גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 59:7
+      lang: ar
+      text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ
+        ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 ---
 
 ## Questions

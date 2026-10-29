@@ -2,7 +2,7 @@
 id: motif-hb-jer-15-moses-and-samuel-vs-quran-34-intercession-and-judgment
 title: Though Moses and Samuel stood before me ↔ Partners own nothing; intercession; the weak and the
   arrogant at judgment
-summary: 'These two units share 1 motifs: intercession avails only for whom god permits.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - intercession-only-by-permission
-passages:
-- tradition: judaism
-  ref: Jer 15:1
-  note: 'Intercession avails only for whom God permits (ʾim-yaʿămōḏ mōšeh û-šəmûʾēl ləp̄ānay ʾên nap̄šî
-    ʾel-hā-ʿām ha-zzeh vs. wa-lā tanfaʿu sh-shafāʿatu ʿindahu illā li-man adhina lah: intercession by
-    even the greatest is limited by God''s will. Jeremiah''s God refuses it for this people; the Quran
-    allows it only by his leave.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל הָעָ֣ם
-    הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל פָּנַ֖י וְיֵצֵֽאוּ
-- tradition: islam
-  ref: Quran 34:23
-  note: Intercession avails only for whom God permits
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ
-    قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ قَالُوا۟ ٱلْحَقَّ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾim-yaʿămōḏ mōšeh û-šəmûʾēl ləp̄ānay ʾên nap̄šî ʾel-hā-ʿām ha-zzeh vs. wa-lā tanfaʿu sh-shafāʿatu
-    ʿindahu illā li-man adhina lah: intercession by even the greatest is limited by God''s will. Jeremiah''s
-    God refuses it for this people; the Quran allows it only by his leave.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 4.8). Pair
     score 4.8.'
@@ -64,6 +44,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Intercession avails only for whom God permits
+kinds:
+- echo
+units:
+- id: hb-jer-15-moses-and-samuel
+  title: Though Moses and Samuel stood before me
+  tradition: judaism
+- id: quran-34-intercession-and-judgment
+  title: Partners own nothing; intercession; the weak and the arrogant at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: Intercession avails only for whom God permits
+  note: 'ʾim-yaʿămōḏ mōšeh û-šəmûʾēl ləp̄ānay ʾên nap̄šî ʾel-hā-ʿām ha-zzeh vs. wa-lā tanfaʿu sh-shafāʿatu
+    ʿindahu illā li-man adhina lah: intercession by even the greatest is limited by God''s will. Jeremiah''s
+    God refuses it for this people; the Quran allows it only by his leave.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 15:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י אִם יַעֲמֹ֨ד מֹשֶׁ֤ה וּשְׁמוּאֵל֙ לְפָנַ֔י אֵ֥ין נַפְשִׁ֖י אֶל הָעָ֣ם
+        הַזֶּ֑ה שַׁלַּ֥ח מֵֽעַל פָּנַ֖י וְיֵצֵֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:23
+      lang: ar
+      text: وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ حَتَّىٰٓ إِذَا فُزِّعَ عَن
+        قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ قَالُوا۟ ٱلْحَقَّ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
 ---
 
 ## Questions

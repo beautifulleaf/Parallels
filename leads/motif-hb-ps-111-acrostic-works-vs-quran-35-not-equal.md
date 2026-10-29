@@ -2,8 +2,7 @@
 id: motif-hb-ps-111-acrostic-works-vs-quran-35-not-equal
 title: Psalm 111, acrostic hymn on God's works ↔ No soul bears another's burden; the blind and the seeing;
   the colors of creation
-summary: 'These two units share 1 motifs: how the fear of god and knowledge are related [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - fear-of-god-and-knowledge-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 111:10
-  note: 'How the fear of God and knowledge are related [divergence between the texts] (rēʾšîṯ ḥoḵmâ yirʾaṯ
-    YHWH śēḵel ṭôḇ lə-ḵol-ʿōśêhem vs. innamā yakhshā llāha min ʿibādihi l-ʿulamāʾ: in the psalm fear comes
-    first and yields wisdom; in the Quran knowledge of God''s works (35:27-28) yields fear.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֵ֘אשִׁ֤ית חָכְמָ֨ה יִרְאַ֬ת יְהוָ֗ה שֵׂ֣כֶל ט֭וֹב לְכָל עֹשֵׂיהֶ֑ם תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת לָעַֽד
-- tradition: islam
-  ref: Quran 35:28
-  note: 'How the fear of God and knowledge are related [divergence between the texts] (Fear and knowledge
-    in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning of knowledge). Q: innamā yakhshā
-    llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God, after observing the colours of
-    creation).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ إِنَّمَا يَخْشَى
-    ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. rēʾšîṯ ḥoḵmâ yirʾaṯ YHWH śēḵel ṭôḇ lə-ḵol-ʿōśêhem vs. innamā yakhshā llāha min ʿibādihi
-    l-ʿulamāʾ: in the psalm fear comes first and yields wisdom; in the Quran knowledge of God''s works
-    (35:27-28) yields fear.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the fear of God and knowledge are related [divergence between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -65,6 +43,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How the fear of God and knowledge are related
+kinds:
+- divergence
+units:
+- id: hb-ps-111-acrostic-works
+  title: Psalm 111, acrostic hymn on God's works
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: divergence
+  label: How the fear of God and knowledge are related
+  note: 'rēʾšîṯ ḥoḵmâ yirʾaṯ YHWH śēḵel ṭôḇ lə-ḵol-ʿōśêhem vs. innamā yakhshā llāha min ʿibādihi l-ʿulamāʾ:
+    in the psalm fear comes first and yields wisdom; in the Quran knowledge of God''s works (35:27-28)
+    yields fear.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 111:10
+      lang: he
+      text: רֵ֘אשִׁ֤ית חָכְמָ֨ה יִרְאַ֬ת יְהוָ֗ה שֵׂ֣כֶל ט֭וֹב לְכָל עֹשֵׂיהֶ֑ם תְּ֝הִלָּת֗וֹ עֹמֶ֥דֶת
+        לָעַֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 35:28
+      lang: ar
+      text: وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ إِنَّمَا يَخْشَى
+        ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
 ---
 
 ## Questions

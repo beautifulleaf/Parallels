@@ -1,10 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-2-exodus-calf
 title: The pursuit and the parting of the sea ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 4 motifs: israel''s belief or disbelief in moses after the sea [divergence
-  between the texts], who or what parts the sea [divergence between the texts], prophet stretches his
-  staff over the sea and god splits it with a strong east wind, the returning waters drown the pursuing
-  army; not one survives.'
+summary: '3 correspondences read side by side: 2 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -21,97 +18,9 @@ motifs:
 - agent-of-the-sea-parting-as-divergence
 - sea-split-by-staff-and-east-wind
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:31
-  note: 'Israel''s belief or disbelief in Moses after the sea [divergence between the texts] (Exod 14:31
-    wa-yyaʾămînû ba-YHWH û-bĕ-mōšeh ʿabdô: after the sea the people believe in God and in Moses; Q 2:55
-    yā mūsā lan nuʾmina laka ḥattā narā llāha jahratan: the same people say ''we will not believe you
-    (Moses) until we see God openly''. The same verb (ʾ-m-n), reversed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ
-    הָעָ֖ם אֶת יְהוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ
-- tradition: islam
-  ref: Quran 2:55
-  note: 'Israel''s belief or disbelief in Moses after the sea [divergence between the texts] (Exod 14:31
-    wa-yyaʾămînû ba-YHWH û-bĕ-mōšeh ʿabdô: after the sea the people believe in God and in Moses; Q 2:55
-    yā mūsā lan nuʾmina laka ḥattā narā llāha jahratan: the same people say ''we will not believe you
-    (Moses) until we see God openly''. The same verb (ʾ-m-n), reversed.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ
-    وَأَنتُمْ تَنظُرُونَ
-- tradition: judaism
-  ref: Exod 14:21
-  note: 'Who or what parts the sea [divergence between the texts] (Exod 14:21 wa-yyēṭ mōšeh ʾet yādô ʿal
-    ha-yyām wa-yyôlek YHWH ʾet ha-yyām bĕ-rûaḥ qādîm ʿazzâ ... wa-yyibbāqĕʿû ha-mmāyim: Moses'' hand and
-    a strong east wind all night; Q 2:50 wa-idh faraqnā bikumu l-baḥra: God (''we'') parts the sea directly,
-    with no Moses, no wind, no night.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
-    כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
-- tradition: islam
-  ref: Quran 2:50
-  note: 'Who or what parts the sea [divergence between the texts] (Exod 14:21 wa-yyēṭ mōšeh ʾet yādô ʿal
-    ha-yyām wa-yyôlek YHWH ʾet ha-yyām bĕ-rûaḥ qādîm ʿazzâ ... wa-yyibbāqĕʿû ha-mmāyim: Moses'' hand and
-    a strong east wind all night; Q 2:50 wa-idh faraqnā bikumu l-baḥra: God (''we'') parts the sea directly,
-    with no Moses, no wind, no night.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
-- tradition: judaism
-  ref: Exod 14:16
-  note: Prophet stretches his staff over the sea and God splits it with a strong east wind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה הָרֵ֣ם אֶֽת מַטְּךָ֗ וּנְטֵ֧ה אֶת יָדְךָ֛ עַל הַיָּ֖ם וּבְקָעֵ֑הוּ וְיָבֹ֧אוּ בְנֵֽי
-    יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָֽׁה
-- tradition: judaism
-  ref: Exod 14:21
-  note: Prophet stretches his staff over the sea and God splits it with a strong east wind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
-    כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
-- tradition: islam
-  ref: Quran 2:50
-  note: Prophet stretches his staff over the sea and God splits it with a strong east wind (we parted
-    the sea for you)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 2:50
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ تَنظُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, parallel. Exod 14:21 wa-yyēṭ mōšeh ʾet yādô ʿal ha-yyām wa-yyôlek YHWH ʾet ha-yyām bĕ-rûaḥ
-    qādîm ʿazzâ ... wa-yyibbāqĕʿû ha-mmāyim: Moses'' hand and a strong east wind all night; Q 2:50 wa-idh
-    faraqnā bikumu l-baḥra: God (''we'') parts the sea directly, with no Moses, no wind, no night. Exod
-    14:28-30 lōʾ nišʾar bāhem ʿad ʾeḥād ... wa-yyarʾ yiśrāʾēl ʾet miṣrayim mēt ʿal śĕpat ha-yyām; Q 2:50
-    wa-aghraqnā āla firʿawna wa-antum tanẓurūn: the drowning watched by Israel (''while you looked on'').
-    Exod 14:31 wa-yyaʾămînû ba-YHWH û-bĕ-mōšeh ʿabdô: after the sea the people believe in God and in Moses;
-    Q 2:55 yā mūsā lan nuʾmina laka ḥattā narā llāha jahratan: the same people say ''we will not believe
-    you (Moses) until we see God openly''. The same verb (ʾ-m-n), reversed.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s belief or disbelief in Moses after the sea [divergence
     between the texts] (weight 6.7); Who or what parts the sea [divergence between the texts] (weight
@@ -147,6 +56,97 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who or what parts the sea
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who or what parts the sea
+  note: 'Exod 14:21 wa-yyēṭ mōšeh ʾet yādô ʿal ha-yyām wa-yyôlek YHWH ʾet ha-yyām bĕ-rûaḥ qādîm ʿazzâ
+    ... wa-yyibbāqĕʿû ha-mmāyim: Moses'' hand and a strong east wind all night; Q 2:50 wa-idh faraqnā
+    bikumu l-baḥra: God (''we'') parts the sea directly, with no Moses, no wind, no night.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:21
+      lang: he
+      text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
+        כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:50
+      lang: ar
+      text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ
+        تَنظُرُونَ
+- kind: divergence
+  label: Israel's belief or disbelief in Moses after the sea
+  note: 'Exod 14:31 wa-yyaʾămînû ba-YHWH û-bĕ-mōšeh ʿabdô: after the sea the people believe in God and
+    in Moses; Q 2:55 yā mūsā lan nuʾmina laka ḥattā narā llāha jahratan: the same people say ''we will
+    not believe you (Moses) until we see God openly''. The same verb (ʾ-m-n), reversed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:31
+      lang: he
+      text: וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ
+        הָעָ֖ם אֶת יְהוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:55
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ
+        ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
+- kind: parallel
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'Exod 14:28-30 lōʾ nišʾar bāhem ʿad ʾeḥād ... wa-yyarʾ yiśrāʾēl ʾet miṣrayim mēt ʿal śĕpat ha-yyām;
+    Q 2:50 wa-aghraqnā āla firʿawna wa-antum tanẓurūn: the drowning watched by Israel (''while you looked
+    on'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+    - ref: Exod 14:30
+      lang: he
+      text: וַיּ֨וֹשַׁע יְהוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם וַיַּ֤רְא יִשְׂרָאֵל֙
+        אֶת מִצְרַ֔יִם מֵ֖ת עַל שְׂפַ֥ת הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:50
+      lang: ar
+      text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ
+        تَنظُرُونَ
+- kind: shared
+  label: Prophet stretches his staff over the sea and God splits it with a strong east wind
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:16
+      lang: he
+      text: וְאַתָּ֞ה הָרֵ֣ם אֶֽת מַטְּךָ֗ וּנְטֵ֧ה אֶת יָדְךָ֛ עַל הַיָּ֖ם וּבְקָעֵ֑הוּ וְיָבֹ֧אוּ בְנֵֽי
+        יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָֽׁה
+    - ref: Exod 14:21
+      lang: he
+      text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
+        כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:50
+      lang: ar
+      text: وَإِذْ فَرَقْنَا بِكُمُ ٱلْبَحْرَ فَأَنجَيْنَٰكُمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَأَنتُمْ
+        تَنظُرُونَ
+    note: we parted the sea for you
 ---
 
 ## Questions

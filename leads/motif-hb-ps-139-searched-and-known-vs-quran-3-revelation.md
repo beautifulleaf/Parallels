@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-3-revelation
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Torah, Gospel and the clear and ambiguous
   verses
-summary: 'These two units share 1 motifs: god formed the kidneys and wove (knit) the speaker in his mother''s
-  womb.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 - motif
 motifs:
 - knit-together-in-mothers-womb
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: judaism
-  ref: Ps 139:15
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: islam
-  ref: Quran 3:6
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ
-    ٱلْحَكِيمُ
-- tradition: islam
-  ref: Quran 3:5
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 139:15-16 lōʾ nikḥad ʿoṣmî mimmekkā ʾăšer ʿuśśêtî ba-sseter ... golmî rāʾû ʿênêkā: my
-    frame was not hidden from you when I was made in secret, your eyes saw my embryo; Q 3:5-6 inna llāha
-    lā yakhfā ʿalayhi shayʾun fī l-arḍi wa-lā fī s-samāʾi huwa lladhī yuṣawwirukum fī l-arḥāmi kayfa yashāʾ:
-    nothing is hidden from God, who shapes you in the wombs as he wills. Same pairing of God''s knowledge
-    of the hidden with his forming of the embryo; first person singular in the psalm, a general second
-    person plural in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
     womb (weight 5.8). Pair score 5.8.'
@@ -86,6 +51,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God formed the kidneys and wove (knit) the speaker in his mother's womb
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: parallel
+  label: God formed the kidneys and wove (knit) the speaker in his mother's womb
+  note: 'Ps 139:15-16 lōʾ nikḥad ʿoṣmî mimmekkā ʾăšer ʿuśśêtî ba-sseter ... golmî rāʾû ʿênêkā: my frame
+    was not hidden from you when I was made in secret, your eyes saw my embryo; Q 3:5-6 inna llāha lā
+    yakhfā ʿalayhi shayʾun fī l-arḍi wa-lā fī s-samāʾi huwa lladhī yuṣawwirukum fī l-arḥāmi kayfa yashāʾ:
+    nothing is hidden from God, who shapes you in the wombs as he wills. Same pairing of God''s knowledge
+    of the hidden with his forming of the embryo; first person singular in the psalm, a general second
+    person plural in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:5
+      lang: ar
+      text: إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ
+    - ref: Quran 3:6
+      lang: ar
+      text: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ
+        ٱلْحَكِيمُ
 ---
 
 ## Questions

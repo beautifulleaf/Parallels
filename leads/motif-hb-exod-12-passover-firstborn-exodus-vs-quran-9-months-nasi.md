@@ -2,7 +2,7 @@
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-9-months-nasi
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ Twelve months and the
   ban on intercalation
-summary: 'These two units share 1 motifs: god fixes the reckoning of months [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - divine-ordering-of-months-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 12:2
-  note: 'God fixes the reckoning of months [divergence between the texts] (God sets the reckoning of months:
-    haḥōdeš hazzeh lākem rōʾš ḥŏdāšîm rîʾšôn hûʾ lākem lᵉḥodšê haššānāh vs inna ʿiddata sh-shuhūri ʿinda
-    llāhi thnā ʿashara shahran. Exod fixes it by the exodus, for Israel (lākem); Q by creation, for all.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחָדְשֵׁ֖י הַשָּׁנָֽה
-- tradition: islam
-  ref: Quran 9:36
-  note: 'God fixes the reckoning of months [divergence between the texts] (God sets the reckoning of months:
-    haḥōdeš hazzeh lākem rōʾš ḥŏdāšîm rîʾšôn hûʾ lākem lᵉḥodšê haššānāh vs inna ʿiddata sh-shuhūri ʿinda
-    llāhi thnā ʿashara shahran. Exod fixes it by the exodus, for Israel (lākem); Q by creation, for all.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَٰبِ ٱللَّهِ يَوْمَ خَلَقَ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ فَلَا تَظْلِمُوا۟
-    فِيهِنَّ أَنفُسَكُمْ وَقَٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَٰتِلُونَكُمْ كَآفَّةً وَٱعْلَمُوٓا۟
-    أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God sets the reckoning of months: haḥōdeš hazzeh lākem rōʾš ḥŏdāšîm rîʾšôn hûʾ lākem lᵉḥodšê
-    haššānāh vs inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran. Exod fixes it by the exodus,
-    for Israel (lākem); Q by creation, for all.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God fixes the reckoning of months [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -67,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God fixes the reckoning of months
+kinds:
+- divergence
+units:
+- id: hb-exod-12-passover-firstborn-exodus
+  title: Passover law, matzot, the night of the firstborn, departure from Egypt
+  tradition: judaism
+- id: quran-9-months-nasi
+  title: Twelve months and the ban on intercalation
+  tradition: islam
+matches:
+- kind: divergence
+  label: God fixes the reckoning of months
+  note: 'God sets the reckoning of months: haḥōdeš hazzeh lākem rōʾš ḥŏdāšîm rîʾšôn hûʾ lākem lᵉḥodšê
+    haššānāh vs inna ʿiddata sh-shuhūri ʿinda llāhi thnā ʿashara shahran. Exod fixes it by the exodus,
+    for Israel (lākem); Q by creation, for all.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:2
+      lang: he
+      text: הַחֹ֧דֶשׁ הַזֶּ֛ה לָכֶ֖ם רֹ֣אשׁ חֳדָשִׁ֑ים רִאשׁ֥וֹן הוּא֙ לָכֶ֔ם לְחָדְשֵׁ֖י הַשָּׁנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:36
+      lang: ar
+      text: إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَٰبِ ٱللَّهِ يَوْمَ خَلَقَ
+        ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ فَلَا تَظْلِمُوا۟
+        فِيهِنَّ أَنفُسَكُمْ وَقَٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَٰتِلُونَكُمْ كَآفَّةً وَٱعْلَمُوٓا۟
+        أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ
 ---
 
 ## Questions

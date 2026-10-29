@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-5-covenant-twelve-chiefs
 title: Exhortation at Horeb's memory; no image; exile and return ↔ Israel's covenant and twelve chiefs;
   the Christians' forgotten portion
-summary: 'These two units share 1 motifs: they forgot a portion of what they were reminded of.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +14,9 @@ layers:
 - motif
 motifs:
 - forgot-part-of-reminder
-passages:
-- tradition: judaism
-  ref: Deut 4:9
-  note: 'They forgot a portion of what they were reminded of (Deut warns pen-tiškaḥ ʾet-had-dəvārîm; pen-tiškəḥû
-    ʾet-bərît YHWH. Q reports it as done: wa-nasū ḥaẓẓan mimmā dhukkirū bihi, of Jews and then Christians
-    (alladhīna qālū innā naṣārā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֡ק הִשָּׁ֣מֶר לְךָ֩ וּשְׁמֹ֨ר נַפְשְׁךָ֜ מְאֹ֗ד פֶּן תִּשְׁכַּ֨ח אֶת הַדְּבָרִ֜ים אֲשֶׁר רָא֣וּ
-    עֵינֶ֗יךָ וּפֶן יָס֨וּרוּ֙ מִלְּבָ֣בְךָ֔ כֹּ֖ל יְמֵ֣י חַיֶּ֑יךָ וְהוֹדַעְתָּ֥ם לְבָנֶ֖יךָ וְלִבְנֵ֥י
-    בָנֶֽיךָ
-- tradition: judaism
-  ref: Deut 4:23
-  note: 'They forgot a portion of what they were reminded of (Deut warns pen-tiškaḥ ʾet-had-dəvārîm; pen-tiškəḥû
-    ʾet-bərît YHWH. Q reports it as done: wa-nasū ḥaẓẓan mimmā dhukkirū bihi, of Jews and then Christians
-    (alladhīna qālū innā naṣārā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִשָּׁמְר֣וּ לָכֶ֗ם פֶּֽן תִּשְׁכְּחוּ֙ אֶת בְּרִ֤ית יְהוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁ֥ר כָּרַ֖ת עִמָּכֶ֑ם
-    וַעֲשִׂיתֶ֨ם לָכֶ֥ם פֶּ֨סֶל֙ תְּמ֣וּנַת כֹּ֔ל אֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ
-- tradition: islam
-  ref: Quran 5:13
-  note: They forgot a portion of what they were reminded of
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ ٱلْكَلِمَ
-    عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَآئِنَةٍ
-    مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ
-- tradition: islam
-  ref: Quran 5:14
-  note: They forgot a portion of what they were reminded of
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟
-    بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ وَسَوْفَ يُنَبِّئُهُمُ
-    ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Deut warns pen-tiškaḥ ʾet-had-dəvārîm; pen-tiškəḥû ʾet-bərît YHWH. Q reports it as done: wa-nasū
-    ḥaẓẓan mimmā dhukkirū bihi, of Jews and then Christians (alladhīna qālū innā naṣārā).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They forgot a portion of what they were reminded of (weight 6.7).
     Pair score 6.7.'
@@ -86,6 +49,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They forgot a portion of what they were reminded of
+kinds:
+- echo
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-5-covenant-twelve-chiefs
+  title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+  tradition: islam
+matches:
+- kind: echo
+  label: They forgot a portion of what they were reminded of
+  note: 'Deut warns pen-tiškaḥ ʾet-had-dəvārîm; pen-tiškəḥû ʾet-bərît YHWH. Q reports it as done: wa-nasū
+    ḥaẓẓan mimmā dhukkirū bihi, of Jews and then Christians (alladhīna qālū innā naṣārā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:9
+      lang: he
+      text: רַ֡ק הִשָּׁ֣מֶר לְךָ֩ וּשְׁמֹ֨ר נַפְשְׁךָ֜ מְאֹ֗ד פֶּן תִּשְׁכַּ֨ח אֶת הַדְּבָרִ֜ים אֲשֶׁר
+        רָא֣וּ עֵינֶ֗יךָ וּפֶן יָס֨וּרוּ֙ מִלְּבָ֣בְךָ֔ כֹּ֖ל יְמֵ֣י חַיֶּ֑יךָ וְהוֹדַעְתָּ֥ם לְבָנֶ֖יךָ
+        וְלִבְנֵ֥י בָנֶֽיךָ
+    - ref: Deut 4:23
+      lang: he
+      text: הִשָּׁמְר֣וּ לָכֶ֗ם פֶּֽן תִּשְׁכְּחוּ֙ אֶת בְּרִ֤ית יְהוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁ֥ר כָּרַ֖ת
+        עִמָּכֶ֑ם וַעֲשִׂיתֶ֨ם לָכֶ֥ם פֶּ֨סֶל֙ תְּמ֣וּנַת כֹּ֔ל אֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֥ה אֱלֹהֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:13
+      lang: ar
+      text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ لَعَنَّٰهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَٰسِيَةً يُحَرِّفُونَ
+        ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَنَسُوا۟ حَظًّا مِّمَّا ذُكِّرُوا۟ بِهِۦ وَلَا تَزَالُ تَطَّلِعُ
+        عَلَىٰ خَآئِنَةٍ مِّنْهُمْ إِلَّا قَلِيلًا مِّنْهُمْ فَٱعْفُ عَنْهُمْ وَٱصْفَحْ إِنَّ ٱللَّهَ
+        يُحِبُّ ٱلْمُحْسِنِينَ
+    - ref: Quran 5:14
+      lang: ar
+      text: وَمِنَ ٱلَّذِينَ قَالُوٓا۟ إِنَّا نَصَٰرَىٰٓ أَخَذْنَا مِيثَٰقَهُمْ فَنَسُوا۟ حَظًّا مِّمَّا
+        ذُكِّرُوا۟ بِهِۦ فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        وَسَوْفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُوا۟ يَصْنَعُونَ
 ---
 
 ## Questions

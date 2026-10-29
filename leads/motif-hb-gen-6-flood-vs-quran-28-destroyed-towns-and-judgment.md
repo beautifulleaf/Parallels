@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-flood-vs-quran-28-destroyed-towns-and-judgment
 title: The Flood (full read) ↔ Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night
   and day
-summary: 'These two units share 1 motifs: god guarantees seedtime and harvest, cold and heat, day and
-  night will not cease.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - seasons-guaranteed
-passages:
-- tradition: judaism
-  ref: Gen 8:22
-  note: God guarantees seedtime and harvest, cold and heat, day and night will not cease
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹ֖ד כָּל יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִיר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה
-    לֹ֥א יִשְׁבֹּֽתוּ
-- tradition: islam
-  ref: Quran 28:73
-  note: God guarantees seedtime and harvest, cold and heat, day and night will not cease
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟ مِن
-    فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
-- tradition: islam
-  ref: Quran 28:71
-  note: God guarantees seedtime and harvest, cold and heat, day and night will not cease
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ أَفَلَا تَسْمَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-min raḥmatihi jaʿala lakumu l-layla wa-n-nahāra ... qul a-raʾaytum in jaʿala llāhu ʿalaykumu
-    l-layla sarmadan ~ ʿōd kol yəmê hā-ʾāreṣ ... wə-yôm wā-laylâ lōʾ yišbōtû: the alternation of day and
-    night is God''s gift and could be stopped only by him. Genesis promises it will never cease; the Quran
-    asks what other god could restore it if God stopped it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God guarantees seedtime and harvest, cold and heat, day and night
     will not cease (weight 6.7). Pair score 6.7.'
@@ -76,6 +50,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God guarantees seedtime and harvest, cold and heat, day and night will not cease
+kinds:
+- parallel
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-28-destroyed-towns-and-judgment
+  title: Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night and day
+  tradition: islam
+matches:
+- kind: parallel
+  label: God guarantees seedtime and harvest, cold and heat, day and night will not cease
+  note: 'wa-min raḥmatihi jaʿala lakumu l-layla wa-n-nahāra ... qul a-raʾaytum in jaʿala llāhu ʿalaykumu
+    l-layla sarmadan ~ ʿōd kol yəmê hā-ʾāreṣ ... wə-yôm wā-laylâ lōʾ yišbōtû: the alternation of day and
+    night is God''s gift and could be stopped only by him. Genesis promises it will never cease; the Quran
+    asks what other god could restore it if God stopped it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 8:22
+      lang: he
+      text: עֹ֖ד כָּל יְמֵ֣י הָאָ֑רֶץ זֶ֡רַע וְ֠קָצִיר וְקֹ֨ר וָחֹ֜ם וְקַ֧יִץ וָחֹ֛רֶף וְי֥וֹם וָלַ֖יְלָה
+        לֹ֥א יִשְׁבֹּֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:71
+      lang: ar
+      text: قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِضِيَآءٍ أَفَلَا تَسْمَعُونَ
+    - ref: Quran 28:72
+      lang: ar
+      text: قُلْ أَرَءَيْتُمْ إِن جَعَلَ ٱللَّهُ عَلَيْكُمُ ٱلنَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        مَنْ إِلَٰهٌ غَيْرُ ٱللَّهِ يَأْتِيكُم بِلَيْلٍ تَسْكُنُونَ فِيهِ أَفَلَا تُبْصِرُونَ
+    - ref: Quran 28:73
+      lang: ar
+      text: وَمِن رَّحْمَتِهِۦ جَعَلَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ لِتَسْكُنُوا۟ فِيهِ وَلِتَبْتَغُوا۟
+        مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

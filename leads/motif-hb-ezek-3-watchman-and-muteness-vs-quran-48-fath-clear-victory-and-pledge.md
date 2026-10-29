@@ -2,7 +2,7 @@
 id: motif-hb-ezek-3-watchman-and-muteness-vs-quran-48-fath-clear-victory-and-pledge
 title: 'Ezekiel appointed watchman; bound and struck dumb in his house ↔ Al-Fath: the clear opening, the
   sakina, the hand of God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 1 motifs: the prophet is sent as witness, bearer of good tidings and warner.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-as-witness-bearer-of-tidings-warner
-passages:
-- tradition: judaism
-  ref: Ezek 3:17
-  note: 'The prophet is sent as witness, bearer of good tidings and warner (ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl
-    ... wə-hizhartā ʾôṯām mimmennî vs. innā arsalnāka shāhidan wa-mubashshiran wa-nadhīrā: the prophet
-    set as watcher or witness and as warner (hizhîr / nadhīr). Ezekiel is sent to the house of Israel
-    only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֕ם צֹפֶ֥ה נְתַתִּ֖יךָ לְבֵ֣ית יִשְׂרָאֵ֑ל וְשָׁמַעְתָּ֤ מִפִּי֙ דָּבָ֔ר וְהִזְהַרְתָּ֥
-    אוֹתָ֖ם מִמֶּֽנִּי
-- tradition: islam
-  ref: Quran 48:8
-  note: The prophet is sent as witness, bearer of good tidings and warner
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The prophet''s office of warning: ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl ... wə-hizhartā ʾôṯām mimmennî
-    vs. innā arsalnāka shāhidan wa-mubashshiran wa-nadhīrā. Ezekiel is a watchman for Israel who only
-    warns; the Quran adds witness and bearer of good tidings.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
     (weight 6.0). Pair score 6.0.'
@@ -71,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet is sent as witness, bearer of good tidings and warner
+kinds:
+- echo
+units:
+- id: hb-ezek-3-watchman-and-muteness
+  title: Ezekiel appointed watchman; bound and struck dumb in his house
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet is sent as witness, bearer of good tidings and warner
+  note: 'The prophet''s office of warning: ṣōp̄eh nəṯattîḵā lə-ḇêṯ yiśrāʾēl ... wə-hizhartā ʾôṯām mimmennî
+    vs. innā arsalnāka shāhidan wa-mubashshiran wa-nadhīrā. Ezekiel is a watchman for Israel who only
+    warns; the Quran adds witness and bearer of good tidings.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:17
+      lang: he
+      text: בֶּן אָדָ֕ם צֹפֶ֥ה נְתַתִּ֖יךָ לְבֵ֣ית יִשְׂרָאֵ֑ל וְשָׁמַעְתָּ֤ מִפִּי֙ דָּבָ֔ר וְהִזְהַרְתָּ֥
+        אוֹתָ֖ם מִמֶּֽנִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 48:8
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا
 ---
 
 ## Questions

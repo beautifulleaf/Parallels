@@ -2,8 +2,7 @@
 id: motif-hb-ps-11-flee-like-bird-vs-quran-52-tur-oaths-and-judgment
 title: 'Psalm 11 - in YHWH I take refuge ↔ Al-Tur: the oath by the Mount, the inscribed parchment and
   the frequented House; the sky heaves'
-summary: 'These two units share 1 motifs: the ''frequented house'' (al-bayt al-ma''mur), understood as
-  a heavenly sanctuary above the ka''ba visited by angels.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - frequented-house-heavenly-temple
-passages:
-- tradition: judaism
-  ref: Ps 11:4
-  note: 'The ''frequented House'' (al-bayt al-ma''mur), understood as a heavenly sanctuary above the Ka''ba
-    visited by angels (A sanctuary in heaven: YHWH bə-hêḵal qoḏšô YHWH baš-šāmayim kisʾô vs. wa-l-bayti
-    l-maʿmūri wa-s-saqfi l-marfūʿ. The psalm''s holy temple stands parallel to the heavenly throne; the
-    Quran''s ''frequented House'' with the ''raised roof'' (the sky). cf. b. Hagigah 12b, Test. Levi 3
-    for a heavenly temple; lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֤ה בְּֽהֵ֘יכַ֤ל קָדְשׁ֗וֹ יְהוָה֮ בַּשָּׁמַ֪יִם כִּ֫סְא֥וֹ עֵינָ֥יו יֶחֱז֑וּ עַפְעַפָּ֥יו
-    יִ֝בְחֲנ֗וּ בְּנֵ֣י אָדָֽם
-- tradition: islam
-  ref: Quran 52:4
-  note: The 'frequented House' (al-bayt al-ma'mur), understood as a heavenly sanctuary above the Ka'ba
-    visited by angels
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْبَيْتِ ٱلْمَعْمُورِ
-- tradition: islam
-  ref: Quran 52:5
-  note: The 'frequented House' (al-bayt al-ma'mur), understood as a heavenly sanctuary above the Ka'ba
-    visited by angels
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّقْفِ ٱلْمَرْفُوعِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A sanctuary in heaven: YHWH bə-hêḵal qoḏšô YHWH baš-šāmayim kisʾô vs. wa-l-bayti l-maʿmūri wa-s-saqfi
-    l-marfūʿ. The psalm''s holy temple stands parallel to the heavenly throne; the Quran''s ''frequented
-    House'' with the ''raised roof'' (the sky). cf. b. Hagigah 12b, Test. Levi 3 for a heavenly temple;
-    lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''frequented House'' (al-bayt al-ma''mur), understood as a heavenly
     sanctuary above the Ka''ba visited by angels (weight 6.7). Pair score 6.7.'
@@ -74,6 +44,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'frequented House' (al-bayt al-ma'mur), understood as a heavenly sanctuary above the Ka'ba
+  visited by angels
+kinds:
+- echo
+units:
+- id: hb-ps-11-flee-like-bird
+  title: Psalm 11 - in YHWH I take refuge
+  tradition: judaism
+- id: quran-52-tur-oaths-and-judgment
+  title: 'Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
+  tradition: islam
+matches:
+- kind: echo
+  label: The 'frequented House' (al-bayt al-ma'mur), understood as a heavenly sanctuary above the Ka'ba
+    visited by angels
+  note: 'A sanctuary in heaven: YHWH bə-hêḵal qoḏšô YHWH baš-šāmayim kisʾô vs. wa-l-bayti l-maʿmūri wa-s-saqfi
+    l-marfūʿ. The psalm''s holy temple stands parallel to the heavenly throne; the Quran''s ''frequented
+    House'' with the ''raised roof'' (the sky). cf. b. Hagigah 12b, Test. Levi 3 for a heavenly temple;
+    lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 11:4
+      lang: he
+      text: יְהוָ֤ה בְּֽהֵ֘יכַ֤ל קָדְשׁ֗וֹ יְהוָה֮ בַּשָּׁמַ֪יִם כִּ֫סְא֥וֹ עֵינָ֥יו יֶחֱז֑וּ עַפְעַפָּ֥יו
+        יִ֝בְחֲנ֗וּ בְּנֵ֣י אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 52:4
+      lang: ar
+      text: وَٱلْبَيْتِ ٱلْمَعْمُورِ
+    - ref: Quran 52:5
+      lang: ar
+      text: وَٱلسَّقْفِ ٱلْمَرْفُوعِ
 ---
 
 ## Questions

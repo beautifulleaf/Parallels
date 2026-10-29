@@ -2,8 +2,7 @@
 id: motif-hb-ps-119-lamed-ayin-vs-quran-39-sincere-servant
 title: Psalm 119, stanzas lamed to ayin ↔ The first of those who submit; canopies of fire; chambers above
   chambers
-summary: 'These two units share 1 motifs: the book in paired repetitions (mathani) makes the skins of
-  the godfearing shiver, then their skins and hearts soften.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - skins-shiver-at-recitation
-passages:
-- tradition: judaism
-  ref: Ps 119:120
-  note: 'The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
-    skins and hearts soften (sāmar mip-paḥdəḵā ḇəśārî û-mi-mmišpāṭeyḵā yārēʾṯî vs. taqshaʿirru minhu julūdu
-    lladhīna yakhshawna rabbahum: the flesh bristles in fear of God and of his words (mišpāṭîm / aḥsan
-    al-ḥadīth).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי
-- tradition: islam
-  ref: Quran 39:23
-  note: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
-    skins and hearts soften
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًا مُّتَشَٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ
-    ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ذَٰلِكَ
-    هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. sāmar mip-paḥdəḵā ḇəśārî û-mi-mmišpāṭeyḵā yārēʾṯî vs. taqshaʿirru minhu julūdu lladhīna
-    yakhshawna rabbahum: the flesh bristles in fear of God and of his words (mišpāṭîm / aḥsan al-ḥadīth).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Book in paired repetitions (mathani) makes the skins of the
     godfearing shiver, then their skins and hearts soften (weight 6.3). Pair score 6.3.'
@@ -69,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
+  skins and hearts soften
+kinds:
+- parallel
+units:
+- id: hb-ps-119-lamed-ayin
+  title: Psalm 119, stanzas lamed to ayin
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: parallel
+  label: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
+    skins and hearts soften
+  note: 'sāmar mip-paḥdəḵā ḇəśārî û-mi-mmišpāṭeyḵā yārēʾṯî vs. taqshaʿirru minhu julūdu lladhīna yakhshawna
+    rabbahum: the flesh bristles in fear of God and of his words (mišpāṭîm / aḥsan al-ḥadīth).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:120
+      lang: he
+      text: סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 39:23
+      lang: ar
+      text: ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًا مُّتَشَٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ
+        ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ذَٰلِكَ
+        هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 ---
 
 ## Questions

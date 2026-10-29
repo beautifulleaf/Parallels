@@ -2,9 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-79-pharaoh-and-cosmos
 title: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Those who drag
   forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
-  god) so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,60 +15,9 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned
-    the Egyptians' heart to hate his people).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 79:20
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay
-    (God hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā
-    thumma adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself
-    denies, disobeys and turns away; no divine hardening.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
-- tradition: islam
-  ref: Quran 79:21
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay
-    (God hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā
-    thumma adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself
-    denies, disobeys and turns away; no divine hardening.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
-    God turns the Egyptians' hearts, not Pharaoh's alone)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 79:20
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
-- tradition: islam
-  ref: Quran 79:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. fa-kadhdhaba wa-ʿaṣā (Pharaoh''s own act) ~ hāfak libbām liśnōʾ ʿammô (God turned the
-    Egyptians'' heart to hate his people).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
@@ -110,6 +57,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- divergence
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  note: fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned the Egyptians'
+    heart to hate his people).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:25
+      lang: he
+      text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 79:21
+      lang: ar
+      text: فَكَذَّبَ وَعَصَىٰ
 ---
 
 ## Questions

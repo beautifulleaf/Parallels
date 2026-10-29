@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-7-creation-signs
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ Six
   days, the Throne, winds and rain as proof of resurrection
-summary: 'These two units share 1 motifs: god sends rain on the desert where no human lives, to make grass
-  sprout.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - rain-on-uninhabited-desert
-passages:
-- tradition: judaism
-  ref: Job 38:25-27
-  note: God sends rain on the desert where no human lives, to make grass sprout (God sends rain on land
-    where no man is, a channel cut for the torrent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:25) מִֽי פִלַּ֣ג לַשֶּׁ֣טֶף תְּעָלָ֑ה וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת (38:26) לְ֭הַמְטִיר עַל
-    אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ (38:27) לְהַשְׂבִּ֣יעַ שֹׁ֭אָה וּמְשֹׁאָ֑ה וּ֝לְהַצְמִ֗יחַ
-    מֹ֣צָא דֶֽשֶׁא
-- tradition: judaism
-  ref: Job 38:26
-  note: God sends rain on the desert where no human lives, to make grass sprout (God sends rain on land
-    where no man is, a channel cut for the torrent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְ֭הַמְטִיר עַל אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ
-- tradition: islam
-  ref: Quran 7:57
-  note: 'God sends rain on the desert where no human lives, to make grass sprout (Job: ləhamṭîr ʿal-ʾereṣ
-    lōʾ-ʾîš ... ləhaśbîaʿ šōʾāh û-məšōʾāh û-ləhaṣmîaḥ mōṣāʾ dešeʾ. Q: suqnāhu li-baladin mayyitin. God
-    drives the clouds to desolate land and makes it sprout.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
-    سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن
-    كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Job: ləhamṭîr ʿal-ʾereṣ lōʾ-ʾîš ... ləhaśbîaʿ šōʾāh û-məšōʾāh û-ləhaṣmîaḥ mōṣāʾ dešeʾ. Q: suqnāhu
-    li-baladin mayyitin. God drives the clouds to desolate land and makes it sprout.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends rain on the desert where no human lives, to make grass
     sprout (weight 6.3). Pair score 6.3.'
@@ -80,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends rain on the desert where no human lives, to make grass sprout
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-7-creation-signs
+  title: Six days, the Throne, winds and rain as proof of resurrection
+  tradition: islam
+matches:
+- kind: echo
+  label: God sends rain on the desert where no human lives, to make grass sprout
+  note: 'Job: ləhamṭîr ʿal-ʾereṣ lōʾ-ʾîš ... ləhaśbîaʿ šōʾāh û-məšōʾāh û-ləhaṣmîaḥ mōṣāʾ dešeʾ. Q: suqnāhu
+    li-baladin mayyitin. God drives the clouds to desolate land and makes it sprout.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:26
+      lang: he
+      text: לְ֭הַמְטִיר עַל אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ
+    - ref: Job 38:27
+      lang: he
+      text: לְהַשְׂבִּ֣יעַ שֹׁ֭אָה וּמְשֹׁאָ֑ה וּ֝לְהַצְמִ֗יחַ מֹ֣צָא דֶֽשֶׁא
+  - tradition: islam
+    passages:
+    - ref: Quran 7:57
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
+        سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ
+        مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
 ---
 
 ## Questions

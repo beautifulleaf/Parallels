@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-15-prologue-and-heavens
 title: The Song of Moses (Ha'azinu) ↔ The guarded reminder, the guarded heaven and the fertilizing winds
   (Surah 15:1-25)
-summary: 'These two units share 1 motifs: god gives life and death and is the inheritor of the earth and
-  all on it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - god-gives-life-and-death-and-inherits
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: 'God gives life and death and is the inheritor of the earth and all on it (wa-innā la-naḥnu nuḥyī
-    wa-numītu; ʾănî ʾāmît waʾăḥayyeh ... wəʾên miyyādî maṣṣîl: God alone kills and makes alive. Q adds
-    wa-naḥnu l-wārithūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 15:23
-  note: God gives life and death and is the inheritor of the earth and all on it (naḥnu l-wārithūn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-innā la-naḥnu nuḥyī wa-numītu; ʾănî ʾāmît waʾăḥayyeh ... wəʾên miyyādî maṣṣîl: God alone
-    kills and makes alive. Q adds wa-naḥnu l-wārithūn.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gives life and death and is the inheritor of the earth and all
     on it (weight 6.3). Pair score 6.3.'
@@ -70,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gives life and death and is the inheritor of the earth and all on it
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-15-prologue-and-heavens
+  title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God gives life and death and is the inheritor of the earth and all on it
+  note: 'wa-innā la-naḥnu nuḥyī wa-numītu; ʾănî ʾāmît waʾăḥayyeh ... wəʾên miyyādî maṣṣîl: God alone kills
+    and makes alive. Q adds wa-naḥnu l-wārithūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 15:23
+      lang: ar
+      text: وَإِنَّا لَنَحْنُ نُحْىِۦ وَنُمِيتُ وَنَحْنُ ٱلْوَٰرِثُونَ
 ---
 
 ## Questions

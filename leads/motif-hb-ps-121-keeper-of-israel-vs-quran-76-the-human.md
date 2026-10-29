@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-121-keeper-of-israel-vs-quran-76-the-human
 title: 'Psalm 121, the keeper who does not sleep ↔ The human: the mingled drop and the camphor cup'
-summary: 'These two units share 1 motifs: god as shade: the sun shall not strike you by day nor the moon
-  by night.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - sun-and-moon-shall-not-strike
-passages:
-- tradition: judaism
-  ref: Ps 121:6
-  note: 'God as shade: the sun shall not strike you by day nor the moon by night'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹמָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא יַכֶּ֗כָּה וְיָרֵ֥חַ בַּלָּֽיְלָה
-- tradition: islam
-  ref: Quran 76:13
-  note: 'God as shade: the sun shall not strike you by day nor the moon by night (they see there neither
-    sun nor bitter cold (zamharir))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا
-- tradition: islam
-  ref: Quran 76:14
-  note: 'God as shade: the sun shall not strike you by day nor the moon by night (they see there neither
-    sun nor bitter cold (zamharir))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَانِيَةً عَلَيْهِمْ ظِلَٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. lā yarawna fīhā shamsan wa-lā zamharīran, wa-dāniyatan ʿalayhim ẓilāluhā ~ yômām ha-ššemeš lōʾ
-    yakkekkāh we-yārēaḥ ba-llāylāh. Protection from sun (and from cold/moon) as God''s shade; for the
-    pilgrim in the Psalm, for the blessed in paradise in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God as shade: the sun shall not strike you by day nor the moon by
     night (weight 6.7). Pair score 6.7.'
@@ -71,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God as shade: the sun shall not strike you by day nor the moon by night'
+kinds:
+- echo
+units:
+- id: hb-ps-121-keeper-of-israel
+  title: Psalm 121, the keeper who does not sleep
+  tradition: judaism
+- id: quran-76-the-human
+  title: 'The human: the mingled drop and the camphor cup'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God as shade: the sun shall not strike you by day nor the moon by night'
+  note: lā yarawna fīhā shamsan wa-lā zamharīran, wa-dāniyatan ʿalayhim ẓilāluhā ~ yômām ha-ššemeš lōʾ
+    yakkekkāh we-yārēaḥ ba-llāylāh. Protection from sun (and from cold/moon) as God's shade; for the pilgrim
+    in the Psalm, for the blessed in paradise in the Quran.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:6
+      lang: he
+      text: יוֹמָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא יַכֶּ֗כָּה וְיָרֵ֥חַ בַּלָּֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 76:13
+      lang: ar
+      text: مُّتَّكِـِٔينَ فِيهَا عَلَى ٱلْأَرَآئِكِ لَا يَرَوْنَ فِيهَا شَمْسًا وَلَا زَمْهَرِيرًا
+    - ref: Quran 76:14
+      lang: ar
+      text: وَدَانِيَةً عَلَيْهِمْ ظِلَٰلُهَا وَذُلِّلَتْ قُطُوفُهَا تَذْلِيلًا
 ---
 
 ## Questions

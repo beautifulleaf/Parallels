@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-12-golden-calves-vs-quran-20-samiri-calf
 title: Jeroboam's golden calves and rival cult ↔ Moses hastens to the appointment; the Samiri and the
   calf
-summary: 'These two units share 2 motifs: the calf is hailed as the god who brought israel out of egypt,
-  people make a molten calf while the leader is on the mountain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,48 +15,9 @@ layers:
 motifs:
 - calf-proclaimed-as-god-of-exodus
 - golden-calf
-passages:
-- tradition: judaism
-  ref: 1Kgs 12:28
-  note: The calf is hailed as the god who brought Israel out of Egypt (Verbatim echo of Exod 32:4, 'here
-    are your gods, Israel')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּוָּעַ֣ץ הַמֶּ֔לֶךְ וַיַּ֕עַשׂ שְׁנֵ֖י עֶגְלֵ֣י זָהָ֑ב וַיֹּ֣אמֶר אֲלֵהֶ֗ם רַב לָכֶם֙ מֵעֲל֣וֹת
-    יְרוּשָׁלִַ֔ם הִנֵּ֤ה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 20:88
-  note: The calf is hailed as the god who brought Israel out of Egypt ('this is your god and the god of
-    Moses, but he forgot')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
-    فَنَسِىَ
-- tradition: judaism
-  ref: 1Kgs 12:28
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּוָּעַ֣ץ הַמֶּ֔לֶךְ וַיַּ֕עַשׂ שְׁנֵ֖י עֶגְלֵ֣י זָהָ֑ב וַיֹּ֣אמֶר אֲלֵהֶ֗ם רַב לָכֶם֙ מֵעֲל֣וֹת
-    יְרוּשָׁלִַ֔ם הִנֵּ֤ה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 20:85
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
-- tradition: islam
-  ref: Quran 20:88
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
-    فَنَسِىَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wayyaʿaś šənê ʿeglê zāhāb ... hinnēh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā mēʾereṣ miṣrāyim; hādhā
-    ilāhukum wa-ilāhu Mūsā: the same acclamation over the calf. Jeroboam''s calves stand at Bethel and
-    Dan in the northern kingdom whose capital becomes Samaria, which supports the Sāmirī / šōmərôn link.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The calf is hailed as the god who brought Israel out of Egypt (weight
     6.3); People make a molten calf while the leader is on the mountain (weight 4.7). Pair score 11.0.'
@@ -88,6 +48,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The calf is hailed as the god who brought Israel out of Egypt
+kinds:
+- echo
+- shared
+units:
+- id: hb-1kgs-12-golden-calves
+  title: Jeroboam's golden calves and rival cult
+  tradition: judaism
+- id: quran-20-samiri-calf
+  title: Moses hastens to the appointment; the Samiri and the calf
+  tradition: islam
+matches:
+- kind: echo
+  label: The calf is hailed as the god who brought Israel out of Egypt
+  note: 'wayyaʿaś šənê ʿeglê zāhāb ... hinnēh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā mēʾereṣ miṣrāyim; hādhā
+    ilāhukum wa-ilāhu Mūsā: the same acclamation over the calf. Jeroboam''s calves stand at Bethel and
+    Dan in the northern kingdom whose capital becomes Samaria, which supports the Sāmirī / šōmərôn link.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 12:28
+      lang: he
+      text: וַיִּוָּעַ֣ץ הַמֶּ֔לֶךְ וַיַּ֕עַשׂ שְׁנֵ֖י עֶגְלֵ֣י זָהָ֑ב וַיֹּ֣אמֶר אֲלֵהֶ֗ם רַב לָכֶם֙
+        מֵעֲל֣וֹת יְרוּשָׁלִַ֔ם הִנֵּ֤ה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 12:28
+      lang: he
+      text: וַיִּוָּעַ֣ץ הַמֶּ֔לֶךְ וַיַּ֕עַשׂ שְׁנֵ֖י עֶגְלֵ֣י זָהָ֑ב וַיֹּ֣אמֶר אֲלֵהֶ֗ם רַב לָכֶם֙
+        מֵעֲל֣וֹת יְרוּשָׁלִַ֔ם הִנֵּ֤ה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:85
+      lang: ar
+      text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
 ---
 
 ## Questions

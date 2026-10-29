@@ -2,8 +2,7 @@
 id: motif-hb-prov-23-drunkard-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'Father''s appeal, the harlot as pit, and the drunkard''s woes ↔ Al-Waqi''a: the Event that abases
   and exalts; the three classes; the Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 1 motifs: the effects of wine and of the cup: mockery, madness, or none
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - effects-of-wine-and-the-cup-as-contrast
-passages:
-- tradition: judaism
-  ref: Prov 23:29
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְמִ֨י א֥וֹי לְמִ֪י אֲב֡וֹי לְמִ֤י מדונים מִדְיָנִ֨ים לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם
-    לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם
-- tradition: judaism
-  ref: Prov 23:30
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַֽמְאַחֲרִ֥ים עַל הַיָּ֑יִן לַ֝בָּאִ֗ים לַחְקֹ֥ר מִמְסָֽךְ
-- tradition: islam
-  ref: Quran 56:18
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ
-- tradition: islam
-  ref: Quran 56:19
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. The effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim;
-    la-məʾaḥărîm ʿal hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran:
-    bi-akwābin wa-abārīqa wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss
-    of wits). The Quran''s paradise wine is described by the absence of the drunkard''s woes.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The effects of wine and of the cup: mockery, madness, or none [contrast
     between the texts] (weight 5.8). Pair score 5.8.'
@@ -101,6 +55,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The effects of wine and of the cup: mockery, madness, or none'
+kinds:
+- contrast
+units:
+- id: hb-prov-23-drunkard
+  title: Father's appeal, the harlot as pit, and the drunkard's woes
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'The effects of wine and of the cup: mockery, madness, or none'
+  note: 'The effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm
+    ʿal hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin
+    wa-abārīqa wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits).
+    The Quran''s paradise wine is described by the absence of the drunkard''s woes.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 23:29
+      lang: he
+      text: לְמִ֨י א֥וֹי לְמִ֪י אֲב֡וֹי לְמִ֤י מדונים מִדְיָנִ֨ים לְמִ֥י שִׂ֗יחַ לְ֭מִי פְּצָעִ֣ים חִנָּ֑ם
+        לְ֝מִ֗י חַכְלִל֥וּת עֵינָֽיִם
+    - ref: Prov 23:30
+      lang: he
+      text: לַֽמְאַחֲרִ֥ים עַל הַיָּ֑יִן לַ֝בָּאִ֗ים לַחְקֹ֥ר מִמְסָֽךְ
+    - ref: Prov 23:35
+      lang: he
+      text: הִכּ֥וּנִי בַל חָלִיתִי֮ הֲלָמ֗וּנִי בַּל יָ֫דָ֥עְתִּי מָתַ֥י אָקִ֑יץ א֝וֹסִ֗יף אֲבַקְשֶׁ֥נּוּ
+        עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 56:18
+      lang: ar
+      text: بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ
+    - ref: Quran 56:19
+      lang: ar
+      text: لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
 ---
 
 ## Questions

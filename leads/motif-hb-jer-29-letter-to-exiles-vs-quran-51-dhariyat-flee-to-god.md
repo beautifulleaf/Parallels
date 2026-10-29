@@ -2,8 +2,7 @@
 id: motif-hb-jer-29-letter-to-exiles-vs-quran-51-dhariyat-flee-to-god
 title: Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah's counter-letter ↔ The
   sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
-summary: 'These two units share 1 motifs: no messenger came to earlier peoples without being called ''a
-  sorcerer or a madman'', as if they had bequeathed the charge to one another.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-always-called-sorcerer-or-madman
-passages:
-- tradition: judaism
-  ref: Jer 29:26
-  note: 'No messenger came to earlier peoples without being called ''a sorcerer or a madman'', as if they
-    had bequeathed the charge to one another (A standing label for prophets: lə-ḵol ʾîš məšuggāʿ û-miṯnabbēʾ
-    wə-nāṯattâ ʾōṯô ʾel ham-mahpeḵeṯ (every madman who prophesies, put him in the stocks; Shemaiah''s
-    letter against Jeremiah) vs. mā atā lladhīna min qablihim min rasūlin illā qālū sāḥirun aw majnūn;
-    a-tawāṣaw bihi (as if they had bequeathed it to one another).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה נְתָנְךָ֣ כֹהֵ֗ן תַּ֚חַת יְהוֹיָדָ֣ע הַכֹּהֵ֔ן לִֽהְי֤וֹת פְּקִדִים֙ בֵּ֣ית יְהוָ֔ה לְכָל
-    אִ֥ישׁ מְשֻׁגָּ֖ע וּמִתְנַבֵּ֑א וְנָתַתָּ֥ה אֹת֛וֹ אֶל הַמַּהְפֶּ֖כֶת וְאֶל הַצִּינֹֽק
-- tradition: islam
-  ref: Quran 51:52
-  note: No messenger came to earlier peoples without being called 'a sorcerer or a madman', as if they
-    had bequeathed the charge to one another
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
-- tradition: islam
-  ref: Quran 51:53
-  note: No messenger came to earlier peoples without being called 'a sorcerer or a madman', as if they
-    had bequeathed the charge to one another
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَوَاصَوْا۟ بِهِۦ بَلْ هُمْ قَوْمٌ طَاغُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A standing label for prophets: lə-ḵol ʾîš məšuggāʿ û-miṯnabbēʾ wə-nāṯattâ ʾōṯô ʾel ham-mahpeḵeṯ
-    (every madman who prophesies, put him in the stocks; Shemaiah''s letter against Jeremiah) vs. mā atā
-    lladhīna min qablihim min rasūlin illā qālū sāḥirun aw majnūn; a-tawāṣaw bihi (as if they had bequeathed
-    it to one another).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No messenger came to earlier peoples without being called ''a sorcerer
     or a madman'', as if they had bequeathed the charge to one another (weight 6.3). Pair score 6.3.'
@@ -81,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No messenger came to earlier peoples without being called 'a sorcerer or a madman', as if they
+  had bequeathed the charge to one another
+kinds:
+- echo
+units:
+- id: hb-jer-29-letter-to-exiles
+  title: Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah's counter-letter
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: echo
+  label: No messenger came to earlier peoples without being called 'a sorcerer or a madman', as if they
+    had bequeathed the charge to one another
+  note: 'A standing label for prophets: lə-ḵol ʾîš məšuggāʿ û-miṯnabbēʾ wə-nāṯattâ ʾōṯô ʾel ham-mahpeḵeṯ
+    (every madman who prophesies, put him in the stocks; Shemaiah''s letter against Jeremiah) vs. mā atā
+    lladhīna min qablihim min rasūlin illā qālū sāḥirun aw majnūn; a-tawāṣaw bihi (as if they had bequeathed
+    it to one another).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 29:26
+      lang: he
+      text: יְהוָ֞ה נְתָנְךָ֣ כֹהֵ֗ן תַּ֚חַת יְהוֹיָדָ֣ע הַכֹּהֵ֔ן לִֽהְי֤וֹת פְּקִדִים֙ בֵּ֣ית יְהוָ֔ה
+        לְכָל אִ֥ישׁ מְשֻׁגָּ֖ע וּמִתְנַבֵּ֑א וְנָתַתָּ֥ה אֹת֛וֹ אֶל הַמַּהְפֶּ֖כֶת וְאֶל הַצִּינֹֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 51:52
+      lang: ar
+      text: كَذَٰلِكَ مَآ أَتَى ٱلَّذِينَ مِن قَبْلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ أَوْ مَجْنُونٌ
+    - ref: Quran 51:53
+      lang: ar
+      text: أَتَوَاصَوْا۟ بِهِۦ بَلْ هُمْ قَوْمٌ طَاغُونَ
 ---
 
 ## Questions

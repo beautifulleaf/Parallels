@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-33-tent-and-glory-vs-quran-7-calf
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ The lowing calf and the seventy
-summary: 'These two units share 2 motifs: god declares he will be gracious to whom he will be gracious,
-  after the calf the people mourn or repent of what they did [divergence between the texts].'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,75 +15,9 @@ layers:
 motifs:
 - i-will-be-gracious-to-whom-i-will
 - people-remorse-after-calf-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 33:19
-  note: God declares he will be gracious to whom he will be gracious
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר אֲנִ֨י אַעֲבִ֤יר כָּל טוּבִי֙ עַל פָּנֶ֔יךָ וְקָרָ֧אתִֽי בְשֵׁ֛ם יְהוָ֖ה לְפָנֶ֑יךָ
-    וְחַנֹּתִי֙ אֶת אֲשֶׁ֣ר אָחֹ֔ן וְרִחַמְתִּ֖י אֶת אֲשֶׁ֥ר אֲרַחֵֽם
-- tradition: islam
-  ref: Quran 7:155
-  note: 'God declares he will be gracious to whom he will be gracious (Divine freedom in the same calf
-    aftermath: tuḍillu bihā man tashāʾu wa-tahdī man tashāʾu; ʿadhābī uṣību bihi man ashāʾu vs wᵉḥannōtî
-    ʾet-ʾăšer ʾāḥōn wᵉriḥamtî ʾet-ʾăšer ʾăraḥēm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
-- tradition: islam
-  ref: Quran 7:156
-  note: 'God declares he will be gracious to whom he will be gracious (Divine freedom in the same calf
-    aftermath: tuḍillu bihā man tashāʾu wa-tahdī man tashāʾu; ʿadhābī uṣību bihi man ashāʾu vs wᵉḥannōtî
-    ʾet-ʾăšer ʾāḥōn wᵉriḥamtî ʾet-ʾăšer ʾăraḥēm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ قَالَ
-    عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ
-    يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
-- tradition: judaism
-  ref: Exod 33:4
-  note: 'After the calf the people mourn or repent of what they did [divergence between the texts] (The
-    people''s remorse: wa-lammā suqiṭa fī aydīhim ... qālū la-in lam yarḥamnā rabbunā wa-yaghfir lanā
-    vs wayyitʾabbālû wᵉlōʾ šātû ʾîš ʿedyô ʿālāyw. In Q they repent of themselves and pray for mercy before
-    Moses comes back; in Exod they mourn only after God''s harsh word, and strip the ornaments (ʿedyām)
-    of the kind the calf was made from (Q ḥuliyy).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמַ֣ע הָעָ֗ם אֶת הַדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה וַיִּתְאַבָּ֑לוּ וְלֹא שָׁ֛תוּ אִ֥ישׁ עֶדְי֖וֹ
-    עָלָֽיו
-- tradition: judaism
-  ref: Exod 33:6
-  note: 'After the calf the people mourn or repent of what they did [divergence between the texts] (The
-    people''s remorse: wa-lammā suqiṭa fī aydīhim ... qālū la-in lam yarḥamnā rabbunā wa-yaghfir lanā
-    vs wayyitʾabbālû wᵉlōʾ šātû ʾîš ʿedyô ʿālāyw. In Q they repent of themselves and pray for mercy before
-    Moses comes back; in Exod they mourn only after God''s harsh word, and strip the ornaments (ʿedyām)
-    of the kind the calf was made from (Q ḥuliyy).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽתְנַצְּל֧וּ בְנֵֽי יִשְׂרָאֵ֛ל אֶת עֶדְיָ֖ם מֵהַ֥ר חוֹרֵֽב
-- tradition: islam
-  ref: Quran 7:149
-  note: 'After the calf the people mourn or repent of what they did [divergence between the texts] (The
-    people''s remorse: wa-lammā suqiṭa fī aydīhim ... qālū la-in lam yarḥamnā rabbunā wa-yaghfir lanā
-    vs wayyitʾabbālû wᵉlōʾ šātû ʾîš ʿedyô ʿālāyw. In Q they repent of themselves and pray for mercy before
-    Moses comes back; in Exod they mourn only after God''s harsh word, and strip the ornaments (ʿedyām)
-    of the kind the calf was made from (Q ḥuliyy).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ قَالُوا۟ لَئِن لَّمْ يَرْحَمْنَا
-    رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, echo. The people''s remorse: wa-lammā suqiṭa fī aydīhim ... qālū la-in lam yarḥamnā rabbunā
-    wa-yaghfir lanā vs wayyitʾabbālû wᵉlōʾ šātû ʾîš ʿedyô ʿālāyw. In Q they repent of themselves and pray
-    for mercy before Moses comes back; in Exod they mourn only after God''s harsh word, and strip the
-    ornaments (ʿedyām) of the kind the calf was made from (Q ḥuliyy). Divine freedom in the same calf
-    aftermath: tuḍillu bihā man tashāʾu wa-tahdī man tashāʾu; ʿadhābī uṣību bihi man ashāʾu vs wᵉḥannōtî
-    ʾet-ʾăšer ʾāḥōn wᵉriḥamtî ʾet-ʾăšer ʾăraḥēm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God declares he will be gracious to whom he will be gracious (weight
     6.7); After the calf the people mourn or repent of what they did [divergence between the texts] (weight
@@ -118,6 +51,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After the calf the people mourn or repent of what they did
+kinds:
+- divergence
+- echo
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: After the calf the people mourn or repent of what they did
+  note: 'The people''s remorse: wa-lammā suqiṭa fī aydīhim ... qālū la-in lam yarḥamnā rabbunā wa-yaghfir
+    lanā vs wayyitʾabbālû wᵉlōʾ šātû ʾîš ʿedyô ʿālāyw. In Q they repent of themselves and pray for mercy
+    before Moses comes back; in Exod they mourn only after God''s harsh word, and strip the ornaments
+    (ʿedyām) of the kind the calf was made from (Q ḥuliyy).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:4
+      lang: he
+      text: וַיִּשְׁמַ֣ע הָעָ֗ם אֶת הַדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה וַיִּתְאַבָּ֑לוּ וְלֹא שָׁ֛תוּ אִ֥ישׁ עֶדְי֖וֹ
+        עָלָֽיו
+    - ref: Exod 33:6
+      lang: he
+      text: וַיִּֽתְנַצְּל֧וּ בְנֵֽי יִשְׂרָאֵ֛ל אֶת עֶדְיָ֖ם מֵהַ֥ר חוֹרֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:149
+      lang: ar
+      text: وَلَمَّا سُقِطَ فِىٓ أَيْدِيهِمْ وَرَأَوْا۟ أَنَّهُمْ قَدْ ضَلُّوا۟ قَالُوا۟ لَئِن لَّمْ يَرْحَمْنَا
+        رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ ٱلْخَٰسِرِينَ
+- kind: echo
+  label: God declares he will be gracious to whom he will be gracious
+  note: 'Divine freedom in the same calf aftermath: tuḍillu bihā man tashāʾu wa-tahdī man tashāʾu; ʿadhābī
+    uṣību bihi man ashāʾu vs wᵉḥannōtî ʾet-ʾăšer ʾāḥōn wᵉriḥamtî ʾet-ʾăšer ʾăraḥēm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:19
+      lang: he
+      text: וַיֹּ֗אמֶר אֲנִ֨י אַעֲבִ֤יר כָּל טוּבִי֙ עַל פָּנֶ֔יךָ וְקָרָ֧אתִֽי בְשֵׁ֛ם יְהוָ֖ה לְפָנֶ֑יךָ
+        וְחַנֹּתִי֙ אֶת אֲשֶׁ֣ר אָחֹ֔ן וְרִחַמְתִּ֖י אֶת אֲשֶׁ֥ר אֲרַחֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+    - ref: Quran 7:156
+      lang: ar
+      text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ
+        قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا
+        لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
 ---
 
 ## Questions

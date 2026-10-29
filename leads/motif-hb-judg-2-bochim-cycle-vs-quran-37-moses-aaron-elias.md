@@ -2,7 +2,7 @@
 id: motif-hb-judg-2-bochim-cycle-vs-quran-37-moses-aaron-elias
 title: Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance ↔ Moses and Aaron; Elias
   against Ba'l
-summary: 'These two units share 1 motifs: israel serves the baals and the ashtaroth/asherahs.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +15,9 @@ layers:
 - motif
 motifs:
 - baal-and-ashtaroth-worship
-passages:
-- tradition: judaism
-  ref: Judg 2:11
-  note: Israel serves the Baals and the Ashtaroth/Asherahs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲשׂ֧וּ בְנֵֽי יִשְׂרָאֵ֛ל אֶת הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיַּעַבְד֖וּ אֶת הַבְּעָלִֽים
-- tradition: judaism
-  ref: Judg 2:13
-  note: Israel serves the Baals and the Ashtaroth/Asherahs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעַזְב֖וּ אֶת יְהוָ֑ה וַיַּעַבְד֥וּ לַבַּ֖עַל וְלָעַשְׁתָּרֽוֹת
-- tradition: islam
-  ref: Quran 37:125
-  note: Israel serves the Baals and the Ashtaroth/Asherahs (Ba'l named as a god)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
-- tradition: islam
-  ref: Quran 37:126
-  note: Israel serves the Baals and the Ashtaroth/Asherahs (Ba'l named as a god)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyaʿazḇû ʾeṯ-YHWH ʾĕlōhê ʾăḇôṯām ... wa-yyaʿaḇḏû la-bbaʿal wə-lā-ʿaštārôṯ vs. a-tadʿūna
-    baʿlan wa-tadharūna ... rabba ābāʾikumu l-awwalīn: forsaking (ʿāzaḇ / wadhara) the God of the fathers
-    for Baal. The Quran names only Baʿl, singular.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 5.4).
     Pair score 5.4.'
@@ -74,6 +47,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel serves the Baals and the Ashtaroth/Asherahs
+kinds:
+- parallel
+units:
+- id: hb-judg-2-bochim-cycle
+  title: Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance
+  tradition: judaism
+- id: quran-37-moses-aaron-elias
+  title: Moses and Aaron; Elias against Ba'l
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel serves the Baals and the Ashtaroth/Asherahs
+  note: 'wa-yyaʿazḇû ʾeṯ-YHWH ʾĕlōhê ʾăḇôṯām ... wa-yyaʿaḇḏû la-bbaʿal wə-lā-ʿaštārôṯ vs. a-tadʿūna baʿlan
+    wa-tadharūna ... rabba ābāʾikumu l-awwalīn: forsaking (ʿāzaḇ / wadhara) the God of the fathers for
+    Baal. The Quran names only Baʿl, singular.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 2:11
+      lang: he
+      text: וַיַּעֲשׂ֧וּ בְנֵֽי יִשְׂרָאֵ֛ל אֶת הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיַּעַבְד֖וּ אֶת הַבְּעָלִֽים
+    - ref: Judg 2:12
+      lang: he
+      text: וַיַּעַזְב֞וּ אֶת יְהוָ֣ה אֱלֹהֵ֣י אֲבוֹתָ֗ם הַמּוֹצִ֣יא אוֹתָם֮ מֵאֶ֣רֶץ מִצְרַיִם֒ וַיֵּלְכ֞וּ
+        אַחֲרֵ֣י אֱלֹהִ֣ים אֲחֵרִ֗ים מֵאֱלֹהֵ֤י הָֽעַמִּים֙ אֲשֶׁר֙ סְבִיב֣וֹתֵיהֶ֔ם וַיִּֽשְׁתַּחֲו֖וּ
+        לָהֶ֑ם וַיַּכְעִ֖סוּ אֶת יְהוָֽה
+    - ref: Judg 2:13
+      lang: he
+      text: וַיַּעַזְב֖וּ אֶת יְהוָ֑ה וַיַּעַבְד֥וּ לַבַּ֖עַל וְלָעַשְׁתָּרֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 37:125
+      lang: ar
+      text: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
+    - ref: Quran 37:126
+      lang: ar
+      text: ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

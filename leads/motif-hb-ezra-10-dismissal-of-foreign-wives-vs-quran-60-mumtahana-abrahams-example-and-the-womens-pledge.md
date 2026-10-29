@@ -3,8 +3,7 @@ id: motif-hb-ezra-10-dismissal-of-foreign-wives-vs-quran-60-mumtahana-abrahams-e
 title: 'Covenant to send away foreign wives; assembly in the rain; list of offenders ↔ Al-Mumtahana: no
   affection for God''s enemies, Abraham''s excellent example, examining emigrant women, and the women''s
   pledge'
-summary: 'These two units share 1 motifs: dissolving marriages with women outside the community [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,71 +15,9 @@ layers:
 - motif
 motifs:
 - dissolving-mixed-marriages-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezra 10:3
-  note: 'Dissolving marriages with women outside the community [divergence between the texts] (Dissolving
-    mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm wə-han-nôlāḏ
-    mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives and their
-    children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women who emigrate
-    are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries are repaid
-    (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving husbands),
-    children are not expelled, and money is settled.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֣ה נִֽכְרָת בְּרִ֣ית לֵ֠אלֹהֵינוּ לְהוֹצִ֨יא כָל נָשִׁ֜ים וְהַנּוֹלָ֤ד מֵהֶם֙ בַּעֲצַ֣ת
-    אֲדֹנָ֔י וְהַחֲרֵדִ֖ים בְּמִצְוַ֣ת אֱלֹהֵ֑ינוּ וְכַתּוֹרָ֖ה יֵעָשֶֽׂה
-- tradition: judaism
-  ref: Ezra 10:11
-  note: 'Dissolving marriages with women outside the community [divergence between the texts] (Dissolving
-    mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm wə-han-nôlāḏ
-    mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives and their
-    children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women who emigrate
-    are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries are repaid
-    (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving husbands),
-    children are not expelled, and money is settled.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה תְּנ֥וּ תוֹדָ֛ה לַיהוָ֥ה אֱלֹהֵֽי אֲבֹתֵיכֶ֖ם וַעֲשׂ֣וּ רְצוֹנ֑וֹ וְהִבָּֽדְלוּ֙ מֵעַמֵּ֣י
-    הָאָ֔רֶץ וּמִן הַנָּשִׁ֖ים הַנָּכְרִיּֽוֹת
-- tradition: islam
-  ref: Quran 60:10
-  note: 'Dissolving marriages with women outside the community [divergence between the texts] (Dissolving
-    mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm wə-han-nôlāḏ
-    mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives and their
-    children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women who emigrate
-    are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries are repaid
-    (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving husbands),
-    children are not expelled, and money is settled.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ
-    ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ
-    لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَءَاتُوهُم مَّآ أَنفَقُوا۟ وَلَا جُنَاحَ عَلَيْكُمْ
-    أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟
-    مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ حُكْمُ ٱللَّهِ يَحْكُمُ بَيْنَكُمْ وَٱللَّهُ
-    عَلِيمٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 60:11
-  note: 'Dissolving marriages with women outside the community [divergence between the texts] (Dissolving
-    mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm wə-han-nôlāḏ
-    mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives and their
-    children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women who emigrate
-    are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries are repaid
-    (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving husbands),
-    children are not expelled, and money is settled.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ
-    ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Dissolving mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ
-    ḵol nāšîm wə-han-nôlāḏ mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away
-    foreign wives and their children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and
-    believing women who emigrate are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands,
-    whose dowries are repaid (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women
-    leave unbelieving husbands), children are not expelled, and money is settled.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Dissolving marriages with women outside the community [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -120,6 +57,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Dissolving marriages with women outside the community
+kinds:
+- divergence
+units:
+- id: hb-ezra-10-dismissal-of-foreign-wives
+  title: Covenant to send away foreign wives; assembly in the rain; list of offenders
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Dissolving marriages with women outside the community
+  note: 'Dissolving mixed marriages, on a different basis. Ezra: niḵrāṯ bərîṯ lē-ʾlōhênû ləhôṣîʾ ḵol nāšîm
+    wə-han-nôlāḏ mēhem; hibbāḏəlû mē-ʿammê hā-ʾāreṣ û-min han-nāšîm han-noḵriyyôṯ (send away foreign wives
+    and their children; the line is ethnic). Quran: wa-lā tumsikū bi-ʿiṣami l-kawāfir, and believing women
+    who emigrate are examined (fa-mtaḥinūhunna) and not returned to unbelieving husbands, whose dowries
+    are repaid (wa-ātūhum mā anfaqū). The line is faith, it runs both ways (believing women leave unbelieving
+    husbands), children are not expelled, and money is settled.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezra 10:3
+      lang: he
+      text: וְעַתָּ֣ה נִֽכְרָת בְּרִ֣ית לֵ֠אלֹהֵינוּ לְהוֹצִ֨יא כָל נָשִׁ֜ים וְהַנּוֹלָ֤ד מֵהֶם֙ בַּעֲצַ֣ת
+        אֲדֹנָ֔י וְהַחֲרֵדִ֖ים בְּמִצְוַ֣ת אֱלֹהֵ֑ינוּ וְכַתּוֹרָ֖ה יֵעָשֶֽׂה
+    - ref: Ezra 10:11
+      lang: he
+      text: וְעַתָּ֗ה תְּנ֥וּ תוֹדָ֛ה לַיהוָ֥ה אֱלֹהֵֽי אֲבֹתֵיכֶ֖ם וַעֲשׂ֣וּ רְצוֹנ֑וֹ וְהִבָּֽדְלוּ֙
+        מֵעַמֵּ֣י הָאָ֔רֶץ וּמִן הַנָּשִׁ֖ים הַנָּכְרִיּֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 60:10
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَٰتُ مُهَٰجِرَٰتٍ فَٱمْتَحِنُوهُنَّ
+        ٱللَّهُ أَعْلَمُ بِإِيمَٰنِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَٰتٍ فَلَا تَرْجِعُوهُنَّ إِلَى
+        ٱلْكُفَّارِ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَءَاتُوهُم مَّآ أَنفَقُوا۟
+        وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا۟
+        بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ذَٰلِكُمْ
+        حُكْمُ ٱللَّهِ يَحْكُمُ بَيْنَكُمْ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+    - ref: Quran 60:11
+      lang: ar
+      text: وَإِن فَاتَكُمْ شَىْءٌ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ
+        ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ
 ---
 
 ## Questions

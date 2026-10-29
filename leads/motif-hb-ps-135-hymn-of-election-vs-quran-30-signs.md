@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-30-signs
 title: Psalm 135, hymn on God's power, election and the idols ↔ The Hour, the times of praise, and the
   signs of God
-summary: 'These two units share 1 motifs: god shows lightning to inspire fear and hope (of rain).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - lightning-fear-and-hope
-passages:
-- tradition: judaism
-  ref: Ps 135:7
-  note: 'God shows lightning to inspire fear and hope (of rain) (maʿăleh nəśiʾîm miqṣēh hā-ʾāreṣ bərāqîm
-    la-mmāṭār ʿāśâ vs. yurīkumu l-barqa ... wa-yunazzilu mina s-samāʾi māʾan: lightning paired with rain.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
-- tradition: islam
-  ref: Quran 30:24
-  note: God shows lightning to inspire fear and hope (of rain)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. maʿăleh nəśiʾîm miqṣēh hā-ʾāreṣ bərāqîm la-mmāṭār ʿāśâ vs. yurīkumu l-barqa ... wa-yunazzilu
-    mina s-samāʾi māʾan: lightning paired with rain.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shows lightning to inspire fear and hope (of rain) (weight 6.3).
     Pair score 6.3.'
@@ -67,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shows lightning to inspire fear and hope (of rain)
+kinds:
+- echo
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: God shows lightning to inspire fear and hope (of rain)
+  note: 'maʿăleh nəśiʾîm miqṣēh hā-ʾāreṣ bərāqîm la-mmāṭār ʿāśâ vs. yurīkumu l-barqa ... wa-yunazzilu
+    mina s-samāʾi māʾan: lightning paired with rain.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:7
+      lang: he
+      text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 30:24
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً
+        فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

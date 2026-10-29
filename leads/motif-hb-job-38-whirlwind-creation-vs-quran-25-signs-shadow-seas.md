@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-25-signs-shadow-seas
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   moving shadow, the night garment, the two seas and the constellations
-summary: 'These two units share 1 motifs: god set constellations (buruj) in the sky and adorned it for
-  beholders.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - constellations-adorn-sky
-passages:
-- tradition: judaism
-  ref: Job 38:32
-  note: 'God set constellations (buruj) in the sky and adorned it for beholders (jaʿala fī s-samāʾi burūjan
-    ~ ha-tôṣîʾ mazzārôt bəʿittô ... ha-yādaʿtā ḥuqqôt šāmāyim: the constellations (burūj / mazzārôt) as
-    God''s ordering of the sky.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲתֹצִ֣יא מַזָּר֣וֹת בְּעִתּ֑וֹ וְ֝עַ֗יִשׁ עַל בָּנֶ֥יהָ תַנְחֵֽם
-- tradition: judaism
-  ref: Job 38:33
-  note: 'God set constellations (buruj) in the sky and adorned it for beholders (jaʿala fī s-samāʾi burūjan
-    ~ ha-tôṣîʾ mazzārôt bəʿittô ... ha-yādaʿtā ḥuqqôt šāmāyim: the constellations (burūj / mazzārôt) as
-    God''s ordering of the sky.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲ֭יָדַעְתָּ חֻקּ֣וֹת שָׁמָ֑יִם אִם תָּשִׂ֖ים מִשְׁטָר֣וֹ בָאָֽרֶץ
-- tradition: islam
-  ref: Quran 25:61
-  note: God set constellations (buruj) in the sky and adorned it for beholders
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. jaʿala fī s-samāʾi burūjan ~ ha-tôṣîʾ mazzārôt bəʿittô ... ha-yādaʿtā ḥuqqôt šāmāyim: the constellations
-    (burūj / mazzārôt) as God''s ordering of the sky.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set constellations (buruj) in the sky and adorned it for beholders
     (weight 6.0). Pair score 6.0.'
@@ -77,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set constellations (buruj) in the sky and adorned it for beholders
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-25-signs-shadow-seas
+  title: The moving shadow, the night garment, the two seas and the constellations
+  tradition: islam
+matches:
+- kind: echo
+  label: God set constellations (buruj) in the sky and adorned it for beholders
+  note: 'jaʿala fī s-samāʾi burūjan ~ ha-tôṣîʾ mazzārôt bəʿittô ... ha-yādaʿtā ḥuqqôt šāmāyim: the constellations
+    (burūj / mazzārôt) as God''s ordering of the sky.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:32
+      lang: he
+      text: הֲתֹצִ֣יא מַזָּר֣וֹת בְּעִתּ֑וֹ וְ֝עַ֗יִשׁ עַל בָּנֶ֥יהָ תַנְחֵֽם
+    - ref: Job 38:33
+      lang: he
+      text: הֲ֭יָדַעְתָּ חֻקּ֣וֹת שָׁמָ֑יִם אִם תָּשִׂ֖ים מִשְׁטָר֣וֹ בָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:61
+      lang: ar
+      text: تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا
 ---
 
 ## Questions

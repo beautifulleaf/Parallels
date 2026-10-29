@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-15-prologue-and-heavens
 title: Psalm 135, hymn on God's power, election and the idols ↔ The guarded reminder, the guarded heaven
   and the fertilizing winds (Surah 15:1-25)
-summary: 'These two units share 1 motifs: there is nothing whose storehouses are not with god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - divine-storehouses-of-all-things
-passages:
-- tradition: judaism
-  ref: Ps 135:7
-  note: 'There is nothing whose storehouses are not with God (wa-in min shayʾin illā ʿindanā khazāʾinuhu
-    ... wa-arsalnā r-riyāḥa lawāqiḥa fa-anzalnā mina s-samāʾi māʾan; maʿăleh nəśiʾîm ... bərāqîm lammāṭār
-    ʿāśâ môṣēʾ-rûaḥ mēʾôṣərôtāyw: winds brought out of God''s storehouses, with rain. Q says the store
-    is of everything, and rain comes ''in known measure''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
-- tradition: islam
-  ref: Quran 15:21
-  note: There is nothing whose storehouses are not with God (wa-in min shayʾin illā ʿindanā khazāʾinuhu)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
-- tradition: islam
-  ref: Quran 15:22
-  note: There is nothing whose storehouses are not with God (wa-in min shayʾin illā ʿindanā khazāʾinuhu)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَرْسَلْنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَٰكُمُوهُ وَمَآ
-    أَنتُمْ لَهُۥ بِخَٰزِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-in min shayʾin illā ʿindanā khazāʾinuhu ... wa-arsalnā r-riyāḥa lawāqiḥa fa-anzalnā mina
-    s-samāʾi māʾan; maʿăleh nəśiʾîm ... bərāqîm lammāṭār ʿāśâ môṣēʾ-rûaḥ mēʾôṣərôtāyw: winds brought out
-    of God''s storehouses, with rain. Q says the store is of everything, and rain comes ''in known measure''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There is nothing whose storehouses are not with God (weight 6.3).
     Pair score 6.3.'
@@ -78,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: There is nothing whose storehouses are not with God
+kinds:
+- parallel
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-15-prologue-and-heavens
+  title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+  tradition: islam
+matches:
+- kind: parallel
+  label: There is nothing whose storehouses are not with God
+  note: 'wa-in min shayʾin illā ʿindanā khazāʾinuhu ... wa-arsalnā r-riyāḥa lawāqiḥa fa-anzalnā mina s-samāʾi
+    māʾan; maʿăleh nəśiʾîm ... bərāqîm lammāṭār ʿāśâ môṣēʾ-rûaḥ mēʾôṣərôtāyw: winds brought out of God''s
+    storehouses, with rain. Q says the store is of everything, and rain comes ''in known measure''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:7
+      lang: he
+      text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 15:21
+      lang: ar
+      text: وَإِن مِّن شَىْءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٍ مَّعْلُومٍ
+    - ref: Quran 15:22
+      lang: ar
+      text: وَأَرْسَلْنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَٰكُمُوهُ
+        وَمَآ أَنتُمْ لَهُۥ بِخَٰزِنِينَ
 ---
 
 ## Questions

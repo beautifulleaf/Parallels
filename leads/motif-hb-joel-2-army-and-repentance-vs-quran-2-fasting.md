@@ -1,7 +1,7 @@
 ---
 id: motif-hb-joel-2-army-and-repentance-vs-quran-2-fasting
 title: The locust army of the Day of YHWH; 'rend your hearts'; restoration ↔ The fast of Ramadan
-summary: 'These two units share 1 motifs: marital relations during a fast [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,49 +13,9 @@ layers:
 - motif
 motifs:
 - marital-relations-and-the-fast-as-contrast
-passages:
-- tradition: judaism
-  ref: Joel 2:15
-  note: 'Marital relations during a fast [contrast between the texts] (Joel 2:15-16 qaddĕšû ṣôm ... yēṣēʾ
-    ḥātān mē-ḥedrô wĕ-kallâ mē-ḥuppātāh: for the fast even the bridegroom must leave his chamber and the
-    bride her canopy; Q 2:187 uḥilla lakum laylata ṣ-ṣiyāmi r-rafathu ilā nisāʾikum hunna libāsun lakum
-    wa-antum libāsun lahunna: on the nights of the fast intercourse with wives is allowed, spouses being
-    garments for each other.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּקְע֥וּ שׁוֹפָ֖ר בְּצִיּ֑וֹן קַדְּשׁוּ צ֖וֹם קִרְא֥וּ עֲצָרָֽה
-- tradition: judaism
-  ref: Joel 2:16
-  note: 'Marital relations during a fast [contrast between the texts] (Joel 2:15-16 qaddĕšû ṣôm ... yēṣēʾ
-    ḥātān mē-ḥedrô wĕ-kallâ mē-ḥuppātāh: for the fast even the bridegroom must leave his chamber and the
-    bride her canopy; Q 2:187 uḥilla lakum laylata ṣ-ṣiyāmi r-rafathu ilā nisāʾikum hunna libāsun lakum
-    wa-antum libāsun lahunna: on the nights of the fast intercourse with wives is allowed, spouses being
-    garments for each other.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִסְפוּ עָ֞ם קַדְּשׁ֤וּ קָהָל֙ קִבְצ֣וּ זְקֵנִ֔ים אִסְפוּ֙ עֽוֹלָלִ֔ים וְיֹנְקֵ֖י שָׁדָ֑יִם יֵצֵ֤א
-    חָתָן֙ מֵֽחֶדְר֔וֹ וְכַלָּ֖ה מֵחֻפָּתָֽהּ
-- tradition: islam
-  ref: Quran 2:187
-  note: 'Marital relations during a fast [contrast between the texts] (Joel 2:15-16 qaddĕšû ṣôm ... yēṣēʾ
-    ḥātān mē-ḥedrô wĕ-kallâ mē-ḥuppātāh: for the fast even the bridegroom must leave his chamber and the
-    bride her canopy; Q 2:187 uḥilla lakum laylata ṣ-ṣiyāmi r-rafathu ilā nisāʾikum hunna libāsun lakum
-    wa-antum libāsun lahunna: on the nights of the fast intercourse with wives is allowed, spouses being
-    garments for each other.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ
-    لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا
-    عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ
-    يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ أَتِمُّوا۟
-    ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ تِلْكَ حُدُودُ
-    ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Joel 2:15-16 qaddĕšû ṣôm ... yēṣēʾ ḥātān mē-ḥedrô wĕ-kallâ mē-ḥuppātāh: for the fast even
-    the bridegroom must leave his chamber and the bride her canopy; Q 2:187 uḥilla lakum laylata ṣ-ṣiyāmi
-    r-rafathu ilā nisāʾikum hunna libāsun lakum wa-antum libāsun lahunna: on the nights of the fast intercourse
-    with wives is allowed, spouses being garments for each other.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Marital relations during a fast [contrast between the texts] (weight
     6.7). Pair score 6.7.'
@@ -88,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Marital relations during a fast
+kinds:
+- contrast
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-2-fasting
+  title: The fast of Ramadan
+  tradition: islam
+matches:
+- kind: contrast
+  label: Marital relations during a fast
+  note: 'Joel 2:15-16 qaddĕšû ṣôm ... yēṣēʾ ḥātān mē-ḥedrô wĕ-kallâ mē-ḥuppātāh: for the fast even the
+    bridegroom must leave his chamber and the bride her canopy; Q 2:187 uḥilla lakum laylata ṣ-ṣiyāmi
+    r-rafathu ilā nisāʾikum hunna libāsun lakum wa-antum libāsun lahunna: on the nights of the fast intercourse
+    with wives is allowed, spouses being garments for each other.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:15
+      lang: he
+      text: תִּקְע֥וּ שׁוֹפָ֖ר בְּצִיּ֑וֹן קַדְּשׁוּ צ֖וֹם קִרְא֥וּ עֲצָרָֽה
+    - ref: Joel 2:16
+      lang: he
+      text: אִסְפוּ עָ֞ם קַדְּשׁ֤וּ קָהָל֙ קִבְצ֣וּ זְקֵנִ֔ים אִסְפוּ֙ עֽוֹלָלִ֔ים וְיֹנְקֵ֖י שָׁדָ֑יִם
+        יֵצֵ֤א חָתָן֙ מֵֽחֶדְר֔וֹ וְכַלָּ֖ה מֵחֻפָּתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:187
+      lang: ar
+      text: أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ
+        لِبَاسٌ لَّهُنَّ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ
+        وَعَفَا عَنكُمْ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ وَكُلُوا۟ وَٱشْرَبُوا۟
+        حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ثُمَّ
+        أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ
+        تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ
+        يَتَّقُونَ
 ---
 
 ## Questions

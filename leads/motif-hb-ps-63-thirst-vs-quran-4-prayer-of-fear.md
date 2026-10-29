@@ -2,8 +2,7 @@
 id: motif-hb-ps-63-thirst-vs-quran-4-prayer-of-fear
 title: Psalm 63, my soul thirsts for you in the wilderness of Judah ↔ Shortened prayer and prayer in shifts
   under arms
-summary: 'These two units share 1 motifs: those who remember god standing, sitting and on their sides
-  and reflect on creation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - remember-god-standing-sitting-lying
-passages:
-- tradition: judaism
-  ref: Ps 63:7
-  note: 'Those who remember God standing, sitting and on their sides and reflect on creation (Q: fa-dhkurū
-    llāha ... ʿalā junūbikum. Ps: ʾim-zəkhartîkhā ʿal-yəṣûʿāy bə-ʾašmūrôt ʾehgeh-bākh. Both use the root
-    dh-k-r / z-k-r for remembering God lying down.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
-- tradition: islam
-  ref: Quran 4:103
-  note: Those who remember God standing, sitting and on their sides and reflect on creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ فَإِذَا
-    ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ كِتَٰبًا مَّوْقُوتًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: fa-dhkurū llāha ... ʿalā junūbikum. Ps: ʾim-zəkhartîkhā ʿal-yəṣûʿāy bə-ʾašmūrôt ʾehgeh-bākh.
-    Both use the root dh-k-r / z-k-r for remembering God lying down.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who remember God standing, sitting and on their sides and
     reflect on creation (weight 6.0). Pair score 6.0.'
@@ -61,6 +43,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who remember God standing, sitting and on their sides and reflect on creation
+kinds:
+- echo
+units:
+- id: hb-ps-63-thirst
+  title: Psalm 63, my soul thirsts for you in the wilderness of Judah
+  tradition: judaism
+- id: quran-4-prayer-of-fear
+  title: Shortened prayer and prayer in shifts under arms
+  tradition: islam
+matches:
+- kind: echo
+  label: Those who remember God standing, sitting and on their sides and reflect on creation
+  note: 'Q: fa-dhkurū llāha ... ʿalā junūbikum. Ps: ʾim-zəkhartîkhā ʿal-yəṣûʿāy bə-ʾašmūrôt ʾehgeh-bākh.
+    Both use the root dh-k-r / z-k-r for remembering God lying down.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 63:7
+      lang: he
+      text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:103
+      lang: ar
+      text: فَإِذَا قَضَيْتُمُ ٱلصَّلَوٰةَ فَٱذْكُرُوا۟ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِكُمْ
+        فَإِذَا ٱطْمَأْنَنتُمْ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ إِنَّ ٱلصَّلَوٰةَ كَانَتْ عَلَى ٱلْمُؤْمِنِينَ
+        كِتَٰبًا مَّوْقُوتًا
 ---
 
 ## Questions

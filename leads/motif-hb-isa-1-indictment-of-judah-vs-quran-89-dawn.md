@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-89-dawn
 title: 'Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ The dawn: Iram
   of the pillars and the soul at peace'
-summary: 'These two units share 1 motifs: the deniers do not honor the orphan, push him away, and do not
-  urge the feeding of the poor.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - neglect-of-orphan-and-poor-condemned
-passages:
-- tradition: judaism
-  ref: Isa 1:17
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor (lā
-    tukrimūna l-yatīm ~ yātôm lōʾ yišpōṭû we-rîv ʾalmānāh lōʾ yāvôʾ ʾălêhem; šifṭû yātôm.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה
-- tradition: judaism
-  ref: Isa 1:23
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor (lā
-    tukrimūna l-yatīm ~ yātôm lōʾ yišpōṭû we-rîv ʾalmānāh lōʾ yāvôʾ ʾălêhem; šifṭû yātôm.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙
-    לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
-- tradition: islam
-  ref: Quran 89:17
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
-- tradition: islam
-  ref: Quran 89:18
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. lā tukrimūna l-yatīm ~ yātôm lōʾ yišpōṭû we-rîv ʾalmānāh lōʾ yāvôʾ ʾălêhem; šifṭû yātôm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The deniers do not honor the orphan, push him away, and do not urge
     the feeding of the poor (weight 5.8). Pair score 5.8.'
@@ -84,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: echo
+  label: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
+  note: lā tukrimūna l-yatīm ~ yātôm lōʾ yišpōṭû we-rîv ʾalmānāh lōʾ yāvôʾ ʾălêhem; šifṭû yātôm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:17
+      lang: he
+      text: לִמְד֥וּ הֵיטֵ֛ב דִּרְשׁ֥וּ מִשְׁפָּ֖ט אַשְּׁר֣וּ חָמ֑וֹץ שִׁפְט֣וּ יָת֔וֹם רִ֖יבוּ אַלְמָנָֽה
+    - ref: Isa 1:23
+      lang: he
+      text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים
+        יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 89:17
+      lang: ar
+      text: كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
 ---
 
 ## Questions

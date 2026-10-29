@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-4-hypocrites-wavering
 title: Contest on Mount Carmel ↔ Articles of faith; hypocrites wavering between two sides
-summary: 'These two units share 1 motifs: ''how long will you hop between two branches? if yhwh is god,
-  follow him; if baal, follow him''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - limping-between-two-opinions
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:21
-  note: '''How long will you hop between two branches? If YHWH is God, follow him; if Baal, follow him'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
-    הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא עָנ֥וּ
-    הָעָ֛ם אֹת֖וֹ דָּבָֽר
-- tradition: islam
-  ref: Quran 4:143
-  note: '''How long will you hop between two branches? If YHWH is God, follow him; if Baal, follow him''
-    (mudhabdhabīna bayna dhālika, lā ilā hāʾulāʾi wa-lā ilā hāʾulāʾi)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ وَمَن يُضْلِلِ
-    ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: mudhabdhabīna bayna dhālika lā ilā hāʾulāʾi wa-lā ilā hāʾulāʾi (dangling between). 1Kgs:
-    ʿad-mātay ʾattem pōsəḥîm ʿal-štê ha-səʿippîm. Elijah demands a choice (ʾim-YHWH hā-ʾĕlōhîm ləkhû ʾaḥărāyw
-    wə-ʾim-ha-baʿal ləkhû ʾaḥărāyw); Q describes hypocrites who belong to neither camp.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''How long will you hop between two branches? If YHWH is God, follow
     him; if Baal, follow him'' (weight 6.7). Pair score 6.7.'
@@ -72,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''How long will you hop between two branches? If YHWH is God, follow him; if Baal, follow him'''
+kinds:
+- parallel
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-4-hypocrites-wavering
+  title: Articles of faith; hypocrites wavering between two sides
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''How long will you hop between two branches? If YHWH is God, follow him; if Baal, follow him'''
+  note: 'Q: mudhabdhabīna bayna dhālika lā ilā hāʾulāʾi wa-lā ilā hāʾulāʾi (dangling between). 1Kgs: ʿad-mātay
+    ʾattem pōsəḥîm ʿal-štê ha-səʿippîm. Elijah demands a choice (ʾim-YHWH hā-ʾĕlōhîm ləkhû ʾaḥărāyw wə-ʾim-ha-baʿal
+    ləkhû ʾaḥărāyw); Q describes hypocrites who belong to neither camp.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:21
+      lang: he
+      text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
+        הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא
+        עָנ֥וּ הָעָ֛ם אֹת֖וֹ דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 4:143
+      lang: ar
+      text: مُّذَبْذَبِينَ بَيْنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِ وَمَن يُضْلِلِ
+        ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلًا
 ---
 
 ## Questions

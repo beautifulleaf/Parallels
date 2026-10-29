@@ -2,7 +2,7 @@
 id: motif-hb-ezek-21-sword-oracles-vs-quran-5-contracts-food-laws
 title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
   Ammon ↔ Contracts, pilgrim sanctity and the forbidden foods
-summary: 'These two units share 1 motifs: divination by shaking or drawing arrows (belomancy).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - belomancy-arrow-divination
-passages:
-- tradition: judaism
-  ref: Ezek 21:26
-  note: Divination by shaking or drawing arrows (belomancy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עָמַ֨ד מֶלֶךְ בָּבֶ֜ל אֶל אֵ֣ם הַדֶּ֗רֶךְ בְּרֹ֛אשׁ שְׁנֵ֥י הַדְּרָכִ֖ים לִקְסָם קָ֑סֶם
-    קִלְקַ֤ל בַּֽחִצִּים֙ שָׁאַ֣ל בַּתְּרָפִ֔ים רָאָ֖ה בַּכָּבֵֽד
-- tradition: islam
-  ref: Quran 5:3
-  note: 'Divination by shaking or drawing arrows (belomancy) (The same root q-s-m and the same technique.
-    Q: wa-an tastaqsimū bi-l-azlāmi dhālikum fisqun (seeking a decision by divining arrows). Ezek: liqsom-qāsem
-    qilqal ba-ḥiṣṣîm šāʾal bat-tərāfîm rāʾāh bak-kāvēd, the king of Babylon at the crossroads. Both condemn
-    it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The same root q-s-m and the same technique. Q: wa-an tastaqsimū bi-l-azlāmi dhālikum fisqun
-    (seeking a decision by divining arrows). Ezek: liqsom-qāsem qilqal ba-ḥiṣṣîm šāʾal bat-tərāfîm rāʾāh
-    bak-kāvēd, the king of Babylon at the crossroads. Both condemn it.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divination by shaking or drawing arrows (belomancy) (weight 6.7).
     Pair score 6.7.'
@@ -76,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Divination by shaking or drawing arrows (belomancy)
+kinds:
+- echo
+units:
+- id: hb-ezek-21-sword-oracles
+  title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
+    Ammon
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: echo
+  label: Divination by shaking or drawing arrows (belomancy)
+  note: 'The same root q-s-m and the same technique. Q: wa-an tastaqsimū bi-l-azlāmi dhālikum fisqun (seeking
+    a decision by divining arrows). Ezek: liqsom-qāsem qilqal ba-ḥiṣṣîm šāʾal bat-tərāfîm rāʾāh bak-kāvēd,
+    the king of Babylon at the crossroads. Both condemn it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 21:26
+      lang: he
+      text: כִּֽי עָמַ֨ד מֶלֶךְ בָּבֶ֜ל אֶל אֵ֣ם הַדֶּ֗רֶךְ בְּרֹ֛אשׁ שְׁנֵ֥י הַדְּרָכִ֖ים לִקְסָם קָ֑סֶם
+        קִלְקַ֤ל בַּֽחִצִּים֙ שָׁאַ֣ל בַּתְּרָפִ֔ים רָאָ֖ה בַּכָּבֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

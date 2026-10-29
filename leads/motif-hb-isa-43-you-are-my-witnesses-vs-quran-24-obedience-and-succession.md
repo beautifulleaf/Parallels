@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-24-obedience-and-succession
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Hypocrites and the call
   to judgment; 'we hear and obey'; the promise of succession
-summary: 'These two units share 1 motifs: ''you are my witnesses,'' says yhwh: before me no god was formed
-  and after me there shall be none.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - israel-as-gods-witnesses
-passages:
-- tradition: judaism
-  ref: Isa 43:10
-  note: '''You are my witnesses,'' says YHWH: before me no god was formed and after me there shall be
-    none'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
-    לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
-- tradition: judaism
-  ref: Isa 43:12
-  note: '''You are my witnesses,'' says YHWH: before me no god was formed and after me there shall be
-    none'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָנֹכִ֞י הִגַּ֤דְתִּי וְהוֹשַׁ֨עְתִּי֙ וְהִשְׁמַ֔עְתִּי וְאֵ֥ין בָּכֶ֖ם זָ֑ר וְאַתֶּ֥ם עֵדַ֛י
-    נְאֻם יְהוָ֖ה וַֽאֲנִי אֵֽל
-- tradition: islam
-  ref: Quran 24:55
-  note: '''You are my witnesses,'' says YHWH: before me no god was formed and after me there shall be
-    none (yaʿbudūnanī lā yushrikūna bī shayʾan ~ wə-ʾên bākem zār wə-ʾattem ʿēday nəʾum YHWH wa-ʾănî ʾēl:
-    a chosen people defined by having no other god among them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى
-    ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ
-    لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا
-    وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yaʿbudūnanī lā yushrikūna bī shayʾan ~ wə-ʾên bākem zār wə-ʾattem ʿēday nəʾum YHWH wa-ʾănî ʾēl:
-    a chosen people defined by having no other god among them.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''You are my witnesses,'' says YHWH: before me no god was formed
     and after me there shall be none (weight 6.3). Pair score 6.3.'
@@ -81,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''You are my witnesses,'' says YHWH: before me no god was formed and after me there shall be
+  none'
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-24-obedience-and-succession
+  title: Hypocrites and the call to judgment; 'we hear and obey'; the promise of succession
+  tradition: islam
+matches:
+- kind: echo
+  label: '''You are my witnesses,'' says YHWH: before me no god was formed and after me there shall be
+    none'
+  note: 'yaʿbudūnanī lā yushrikūna bī shayʾan ~ wə-ʾên bākem zār wə-ʾattem ʿēday nəʾum YHWH wa-ʾănî ʾēl:
+    a chosen people defined by having no other god among them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:10
+      lang: he
+      text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
+        לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
+    - ref: Isa 43:12
+      lang: he
+      text: אָנֹכִ֞י הִגַּ֤דְתִּי וְהוֹשַׁ֨עְתִּי֙ וְהִשְׁמַ֔עְתִּי וְאֵ֥ין בָּכֶ֖ם זָ֑ר וְאַתֶּ֥ם עֵדַ֛י
+        נְאֻם יְהוָ֖ה וַֽאֲנִי אֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 24:55
+      lang: ar
+      text: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ
+        فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى
+        ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ
+        بِى شَيْـًٔا وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 ---
 
 ## Questions

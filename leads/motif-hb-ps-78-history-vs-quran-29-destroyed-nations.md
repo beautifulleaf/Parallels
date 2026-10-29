@@ -2,7 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-29-destroyed-nations
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Midian, Ad, Thamud, Korah, Pharaoh and
   Haman punished
-summary: 'These two units share 1 motifs: the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 29:40
-  note: The returning waters drown the pursuing army; not one survives ('some we drowned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ
-    ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ ٱللَّهُ
-    لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: islam
-  ref: Quran 29:39
-  note: The returning waters drown the pursuing army; not one survives ('some we drowned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
-    فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-minhum man aghraqnā ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: Pharaoh''s host drowned.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
     4.5). Pair score 4.5.'
@@ -72,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- echo
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-29-destroyed-nations
+  title: Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
+  tradition: islam
+matches:
+- kind: echo
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'wa-minhum man aghraqnā ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: Pharaoh''s host drowned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:40
+      lang: ar
+      text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ
+        أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

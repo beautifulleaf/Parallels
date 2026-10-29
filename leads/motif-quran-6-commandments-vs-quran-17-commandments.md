@@ -1,10 +1,7 @@
 ---
 id: motif-quran-6-commandments-vs-quran-17-commandments
 title: The recited commandments (the Quranic decalogue) ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 6 motifs: do not kill your children for fear of poverty; god provides
-  for them and you, honor father and mother, with the promise of long life [divergence between the texts],
-  guardians must keep orphans'' property intact and hand it over when they come of age, the ten commandments
-  (decalogue)….'
+summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -20,153 +17,7 @@ motifs:
 - ten-commandments
 - honor-parents-long-life
 - just-weights-and-measures
-passages:
-- tradition: islam
-  ref: Quran 6:151
-  note: Do not kill your children for fear of poverty; God provides for them and you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 17:31
-  note: Do not kill your children for fear of poverty; God provides for them and you ('we provide for
-    them and for you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
-    كَانَ خِطْـًٔا كَبِيرًا
-- tradition: islam
-  ref: Quran 6:151
-  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
-    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
-    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
-    land is dropped.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 17:23
-  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
-    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
-    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
-    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
-    to parents comes second, right after God, in both.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:24
-  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
-    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
-    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
-    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
-    to parents comes second, right after God, in both.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
-    صَغِيرًا
-- tradition: islam
-  ref: Quran 6:152
-  note: Guardians must keep orphans' property intact and hand it over when they come of age
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
-- tradition: islam
-  ref: Quran 17:34
-  note: Guardians must keep orphans' property intact and hand it over when they come of age (until he
-    reaches maturity)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا
-- tradition: islam
-  ref: Quran 6:151
-  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
-    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
-    path)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 6:152
-  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
-    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
-    path)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
-- tradition: islam
-  ref: Quran 17:23
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:31
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
-    كَانَ خِطْـًٔا كَبِيرًا
-- tradition: islam
-  ref: Quran 6:151
-  note: Honor father and mother, with the promise of long life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 17:23
-  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:24
-  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
-    صَغِيرًا
-- tradition: islam
-  ref: Quran 6:152
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
-- tradition: islam
-  ref: Quran 17:35
-  note: Honest balances, weights, ephah and hin are commanded (al-qisṭās al-mustaqīm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ
-    تَأْوِيلًا
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Do not kill your children for fear of poverty; God provides for
     them and you (weight 6.7); Honor father and mother, with the promise of long life [divergence between
@@ -203,6 +54,157 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not kill your children for fear of poverty; God provides for them and you
+kinds:
+- shared
+units:
+- id: quran-6-commandments
+  title: The recited commandments (the Quranic decalogue)
+  tradition: islam
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: shared
+  label: Do not kill your children for fear of poverty; God provides for them and you
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:31
+      lang: ar
+      text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ
+        قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا
+    note: '''we provide for them and for you'''
+- kind: shared
+  label: Honor father and mother, with the promise of long life
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+    note: 'Deut: kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh
+      ʿal-hā-ʾădāmāh. Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of
+      long life in the land is dropped.'
+  - tradition: islam
+    passages:
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:24
+      lang: ar
+      text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
+        صَغِيرًا
+    note: kabbēd ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna
+      ʿindaka l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā.
+      Q drops the promise of long life and puts in its place care for parents in old age and a prayer
+      for them. Duty to parents comes second, right after God, in both.
+- kind: shared
+  label: Guardians must keep orphans' property intact and hand it over when they come of age
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:34
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ بِٱلْعَهْدِ إِنَّ ٱلْعَهْدَ كَانَ مَسْـُٔولًا
+    note: until he reaches maturity
+- kind: shared
+  label: The Ten Commandments (Decalogue)
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+    note: no partners, good to parents, no killing children, no indecency, no killing, orphan's property,
+      full measure, justice in speech, keep God's covenant, follow the straight path
+  - tradition: islam
+    passages:
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:31
+      lang: ar
+      text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ
+        قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا
+    - ref: Quran 17:32
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ إِنَّهُۥ كَانَ فَٰحِشَةً وَسَآءَ سَبِيلًا
+    note: parallel content, not a list of ten
+- kind: shared
+  label: Honor father and mother, with the promise of long life
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:24
+      lang: ar
+      text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
+        صَغِيرًا
+    note: honor without the promise of long life
+- kind: shared
+  label: Honest balances, weights, ephah and hin are commanded
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:35
+      lang: ar
+      text: وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ ذَٰلِكَ خَيْرٌ
+        وَأَحْسَنُ تَأْوِيلًا
+    note: al-qisṭās al-mustaqīm
 ---
 
 ## Questions

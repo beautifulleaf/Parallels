@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-10-who-provides-challenge
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Who provides and who
   restores creation; the challenge of the surah
-summary: 'These two units share 1 motifs: inimitability challenge: produce a surah like it, calling on
-  your own witnesses (tahaddi).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - challenge-to-produce-a-surah
-passages:
-- tradition: judaism
-  ref: Isa 43:9
-  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi) (The
-    opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi wa-dʿū
-    mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem wᵉyiṣdāqû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: islam
-  ref: Quran 10:38
-  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم مِّن
-    دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi
-    wa-dʿū mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem
-    wᵉyiṣdāqû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Inimitability challenge: produce a surah like it, calling on your
     own witnesses (tahaddi) (weight 5.6). Pair score 5.6.'
@@ -71,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
+  note: 'The opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi
+    wa-dʿū mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem
+    wᵉyiṣdāqû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 10:38
+      lang: ar
+      text: أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم
+        مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

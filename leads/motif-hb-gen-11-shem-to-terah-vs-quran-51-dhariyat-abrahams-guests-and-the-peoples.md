@@ -2,7 +2,7 @@
 id: motif-hb-gen-11-shem-to-terah-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: Generations of Shem to Terah; Terah's family leaves Ur ↔ Abraham's honored guests, the barren old
   wife striking her face, the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 1 motifs: the patriarch''s wife is barren.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,23 +15,9 @@ layers:
 - motif
 motifs:
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Gen 11:30
-  note: The patriarch's wife is barren
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּהִ֥י שָׂרַ֖י עֲקָרָ֑ה אֵ֥ין לָ֖הּ וָלָֽד
-- tradition: islam
-  ref: Quran 51:29
-  note: The patriarch's wife is barren
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Cognate word for Sarah''s barrenness: wat-təhî śāray ʿăqārâ ʾên lāh wālāḏ vs. ʿajūzun ʿaqīm
-    (ʿ-q-r in both). Genesis states it as narrator; in the Quran Sarah says it of herself.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The patriarch''s wife is barren (weight 5.2). Pair score 5.2.'
   basis: reading
@@ -63,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The patriarch's wife is barren
+kinds:
+- parallel
+units:
+- id: hb-gen-11-shem-to-terah
+  title: Generations of Shem to Terah; Terah's family leaves Ur
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: parallel
+  label: The patriarch's wife is barren
+  note: 'Cognate word for Sarah''s barrenness: wat-təhî śāray ʿăqārâ ʾên lāh wālāḏ vs. ʿajūzun ʿaqīm (ʿ-q-r
+    in both). Genesis states it as narrator; in the Quran Sarah says it of herself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:30
+      lang: he
+      text: וַתְּהִ֥י שָׂרַ֖י עֲקָרָ֑ה אֵ֥ין לָ֖הּ וָלָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 51:29
+      lang: ar
+      text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
 ---
 
 ## Questions

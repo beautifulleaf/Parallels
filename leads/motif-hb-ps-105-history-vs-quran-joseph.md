@@ -2,9 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-joseph
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Joseph in the Quran
   (Surah 12)
-summary: 'These two units share 4 motifs: the whole family moves to egypt, hero thrown into prison, hero
-  declares that god turned the brothers'' deed to good, hero placed over the land''s storehouses or the
-  kingdom.'
+summary: 4 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -20,74 +18,7 @@ motifs:
 - hero-imprisoned
 - hero-sees-divine-plan
 - hero-appointed-over-storehouses
-passages:
-- tradition: judaism
-  ref: Ps 105:23
-  note: The whole family moves to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣א יִשְׂרָאֵ֣ל מִצְרָ֑יִם וְ֝יַעֲקֹ֗ב גָּ֣ר בְּאֶֽרֶץ חָֽם
-- tradition: islam
-  ref: Quran 12:93
-  note: The whole family moves to Egypt
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
-    أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 12:99
-  note: The whole family moves to Egypt
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
-- tradition: judaism
-  ref: Ps 105:18
-  note: Hero thrown into prison
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
-- tradition: islam
-  ref: Quran 12:35
-  note: Hero thrown into prison
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
-- tradition: judaism
-  ref: Ps 105:17
-  note: Hero declares that God turned the brothers' deed to good (Joseph's sale is God's sending)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלַ֣ח לִפְנֵיהֶ֣ם אִ֑ישׁ לְ֝עֶ֗בֶד נִמְכַּ֥ר יוֹסֵֽף
-- tradition: islam
-  ref: Quran 12:100
-  note: Hero declares that God turned the brothers' deed to good
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
-    رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
-    وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ
-    رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-- tradition: judaism
-  ref: Ps 105:20-21
-  note: Hero placed over the land's storehouses or the kingdom
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (105:20) שָׁ֣לַח מֶ֭לֶךְ וַיַּתִּירֵ֑הוּ מֹשֵׁ֥ל עַ֝מִּ֗ים וַֽיְפַתְּחֵֽהוּ (105:21) שָׂמ֣וֹ אָד֣וֹן
-    לְבֵית֑וֹ וּ֝מֹשֵׁ֗ל בְּכָל קִנְיָנֽוֹ
-- tradition: islam
-  ref: Quran 12:54
-  note: Hero placed over the land's storehouses or the kingdom (Joseph asks for the post himself)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ
-    ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
-- tradition: islam
-  ref: Quran 12:55
-  note: Hero placed over the land's storehouses or the kingdom (Joseph asks for the post himself)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The whole family moves to Egypt (weight 5.8); Hero thrown into prison
     (weight 5.8); Hero declares that God turned the brothers'' deed to good (weight 5.6); Hero placed
@@ -120,6 +51,88 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The whole family moves to Egypt
+kinds:
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-joseph
+  title: Joseph in the Quran (Surah 12)
+  tradition: islam
+matches:
+- kind: shared
+  label: The whole family moves to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:23
+      lang: he
+      text: וַיָּבֹ֣א יִשְׂרָאֵ֣ל מִצְרָ֑יִם וְ֝יַעֲקֹ֗ב גָּ֣ר בְּאֶֽרֶץ חָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 12:93
+      lang: ar
+      text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
+        أَجْمَعِينَ
+    - ref: Quran 12:99
+      lang: ar
+      text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
+        شَآءَ ٱللَّهُ ءَامِنِينَ
+- kind: shared
+  label: Hero thrown into prison
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:18
+      lang: he
+      text: עִנּ֣וּ בַכֶּ֣בֶל רגליו רַגְל֑וֹ בַּ֝רְזֶ֗ל בָּ֣אָה נַפְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:35
+      lang: ar
+      text: ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ
+- kind: shared
+  label: Hero declares that God turned the brothers' deed to good
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:17
+      lang: he
+      text: שָׁלַ֣ח לִפְנֵיהֶ֣ם אִ֑ישׁ לְ֝עֶ֗בֶד נִמְכַּ֥ר יוֹסֵֽף
+    note: Joseph's sale is God's sending
+  - tradition: islam
+    passages:
+    - ref: Quran 12:100
+      lang: ar
+      text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
+        رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
+        وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
+        إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+- kind: shared
+  label: Hero placed over the land's storehouses or the kingdom
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:20-21
+      lang: he
+      text: (105:20) שָׁ֣לַח מֶ֭לֶךְ וַיַּתִּירֵ֑הוּ מֹשֵׁ֥ל עַ֝מִּ֗ים וַֽיְפַתְּחֵֽהוּ (105:21) שָׂמ֣וֹ
+        אָד֣וֹן לְבֵית֑וֹ וּ֝מֹשֵׁ֗ל בְּכָל קִנְיָנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:54
+      lang: ar
+      text: وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ
+        ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ
+    - ref: Quran 12:55
+      lang: ar
+      text: قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ
+    - ref: Quran 12:56
+      lang: ar
+      text: وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ
+        بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ
+    note: Joseph asks for the post himself
 ---
 
 ## Questions

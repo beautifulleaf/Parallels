@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Al-Saff: ranks
   like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
-    God turns the Egyptians' hearts, not Pharaoh's alone)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 61:5
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
-    it is Israel whose hearts God makes swerve)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
-    ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
-    ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. hāp̄aḵ libbām lisnōʾ ʿammô (God turned the Egyptians'' hearts to hate his people) vs. azāgha
-    llāhu qulūbahum: God turns hearts. The psalm says it of Egypt, the Quran of Israel.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people (weight 4.6). Pair score 4.6.'
@@ -73,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- echo
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  note: 'hāp̄aḵ libbām lisnōʾ ʿammô (God turned the Egyptians'' hearts to hate his people) vs. azāgha
+    llāhu qulūbahum: God turns hearts. The psalm says it of Egypt, the Quran of Israel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:25
+      lang: he
+      text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 61:5
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
+        ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
+        ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

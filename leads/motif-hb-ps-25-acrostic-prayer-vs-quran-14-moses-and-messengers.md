@@ -2,8 +2,7 @@
 id: motif-hb-ps-25-acrostic-prayer-vs-quran-14-moses-and-messengers
 title: Psalm 25 - acrostic prayer for guidance and forgiveness ↔ Messengers in their people's tongue;
   Moses and the days of God; the threatened messengers (Surah 14:1-17)
-summary: 'These two units share 1 motifs: the meek / those who wait for yhwh / the righteous and their
-  seed shall inherit the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 25:13
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (his seed shall inherit the land)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
-- tradition: islam
-  ref: Quran 14:14
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (la-nuskinannakumu l-arḍa min baʿdihim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ
-- tradition: islam
-  ref: Quran 14:13
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (la-nuskinannakumu l-arḍa min baʿdihim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِرُسُلِهِمْ لَنُخْرِجَنَّكُم مِّنْ أَرْضِنَآ أَوْ لَتَعُودُنَّ فِى
-    مِلَّتِنَا فَأَوْحَىٰٓ إِلَيْهِمْ رَبُّهُمْ لَنُهْلِكَنَّ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. zarʿô yîraš ʾāreṣ, of the one who fears YHWH; la-nuskinannakumu l-arḍa ... dhālika li-man
-    khāfa maqāmī: the land goes to those who fear God.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
     shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
@@ -75,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+  arets)
+kinds:
+- parallel
+units:
+- id: hb-ps-25-acrostic-prayer
+  title: Psalm 25 - acrostic prayer for guidance and forgiveness
+  tradition: judaism
+- id: quran-14-moses-and-messengers
+  title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah
+    14:1-17)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  note: 'zarʿô yîraš ʾāreṣ, of the one who fears YHWH; la-nuskinannakumu l-arḍa ... dhālika li-man khāfa
+    maqāmī: the land goes to those who fear God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 25:13
+      lang: he
+      text: נַ֭פְשׁוֹ בְּט֣וֹב תָּלִ֑ין וְ֝זַרְע֗וֹ יִ֣ירַשׁ אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:14
+      lang: ar
+      text: وَلَنُسْكِنَنَّكُمُ ٱلْأَرْضَ مِنۢ بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِى وَخَافَ وَعِيدِ
 ---
 
 ## Questions

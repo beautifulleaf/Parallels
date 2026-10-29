@@ -2,8 +2,7 @@
 id: motif-hb-jer-18-plot-and-imprecation-vs-quran-27-salih-nine-plotters
 title: Fourth confession - let us smite him with the tongue ↔ Salih, the evil omen and the nine plotters
   of Thamud
-summary: 'These two units share 1 motifs: nine men of the city swear by god to attack the prophet and
-  his family by night and deny it to his avenger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - nine-conspirators-plot-night-attack
-passages:
-- tradition: judaism
-  ref: Jer 18:18
-  note: 'Nine men of the city swear by God to attack the prophet and his family by night and deny it to
-    his avenger (taqāsamū bi-llāhi ... wa-makarū makran ~ ləkhû wə-naḥšəvâ ʿal Yirmyāhû maḥăšāvôt: conspirators
-    exhort one another to plot against the prophet (taqāsamū ~ ləkhû wə-naḥšəvâ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֗וּ לְכ֨וּ וְנַחְשְׁבָ֣ה עַֽל יִרְמְיָהוּ֮ מַחֲשָׁבוֹת֒ כִּי֩ לֹא תֹאבַ֨ד תּוֹרָ֜ה מִכֹּהֵ֗ן
-    וְעֵצָה֙ מֵֽחָכָ֔ם וְדָבָ֖ר מִנָּבִ֑יא לְכוּ֙ וְנַכֵּ֣הוּ בַלָּשׁ֔וֹן וְאַל נַקְשִׁ֖יבָה אֶל כָּל
-    דְּבָרָֽיו
-- tradition: islam
-  ref: Quran 27:48
-  note: Nine men of the city swear by God to attack the prophet and his family by night and deny it to
-    his avenger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
-- tradition: islam
-  ref: Quran 27:49
-  note: Nine men of the city swear by God to attack the prophet and his family by night and deny it to
-    his avenger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ
-    مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. taqāsamū bi-llāhi ... wa-makarū makran ~ ləkhû wə-naḥšəvâ ʿal Yirmyāhû maḥăšāvôt: conspirators
-    exhort one another to plot against the prophet (taqāsamū ~ ləkhû wə-naḥšəvâ).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nine men of the city swear by God to attack the prophet and his
     family by night and deny it to his avenger (weight 6.7). Pair score 6.7.'
@@ -70,6 +42,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nine men of the city swear by God to attack the prophet and his family by night and deny it to
+  his avenger
+kinds:
+- echo
+units:
+- id: hb-jer-18-plot-and-imprecation
+  title: Fourth confession - let us smite him with the tongue
+  tradition: judaism
+- id: quran-27-salih-nine-plotters
+  title: Salih, the evil omen and the nine plotters of Thamud
+  tradition: islam
+matches:
+- kind: echo
+  label: Nine men of the city swear by God to attack the prophet and his family by night and deny it to
+    his avenger
+  note: 'taqāsamū bi-llāhi ... wa-makarū makran ~ ləkhû wə-naḥšəvâ ʿal Yirmyāhû maḥăšāvôt: conspirators
+    exhort one another to plot against the prophet (taqāsamū ~ ləkhû wə-naḥšəvâ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 18:18
+      lang: he
+      text: וַיֹּאמְר֗וּ לְכ֨וּ וְנַחְשְׁבָ֣ה עַֽל יִרְמְיָהוּ֮ מַחֲשָׁבוֹת֒ כִּי֩ לֹא תֹאבַ֨ד תּוֹרָ֜ה
+        מִכֹּהֵ֗ן וְעֵצָה֙ מֵֽחָכָ֔ם וְדָבָ֖ר מִנָּבִ֑יא לְכוּ֙ וְנַכֵּ֣הוּ בַלָּשׁ֔וֹן וְאַל נַקְשִׁ֖יבָה
+        אֶל כָּל דְּבָרָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 27:49
+      lang: ar
+      text: قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ
+        مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
+    - ref: Quran 27:50
+      lang: ar
+      text: وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
 ---
 
 ## Questions

@@ -2,10 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-20-moses-pharaoh-magicians
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Moses
   and Aaron before Pharaoh; the contest with the magicians
-summary: 'These two units share 5 motifs: the prophet''s staff-serpent swallows the magicians'' staff-serpents
-  [divergence between the texts], the prophet''s staff-serpent swallows the magicians'' staff-serpents,
-  the king''s heart is hardened (by himself or by god) so he refuses to release the people [divergence
-  between the texts], prophet''s wonders are imitated by the king''s magicians in a contest….'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -21,151 +18,9 @@ motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 7:9
-  note: 'The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence between the
-    texts] (Who throws the staff, and how. Exod: Aaron throws (wa-yyašlēkh ʾAhărōn ʾet-maṭṭēhû ... wa-yhî
-    lə-tannîn); the magicians do the same (bə-lahăṭêhem kēn); and maṭṭēh-ʾAhărōn swallows their staffs
-    (wa-yyivlaʿ). Q: Moses throws (fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun); the magicians offer
-    him the first throw (immā an tulqiya); their act is siḥr that ''bewitched the people''s eyes'' (saḥarū
-    aʿyuna l-nāsi), and Moses'' staff talqafu mā yaʾfikūna. Aaron drops out of the act; the magic is illusion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל אַהֲרֹ֗ן קַ֧ח
-    אֶֽת מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין
-- tradition: judaism
-  ref: Exod 7:10
-  note: 'The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence between the
-    texts] (Who throws the staff, and how. Exod: Aaron throws (wa-yyašlēkh ʾAhărōn ʾet-maṭṭēhû ... wa-yhî
-    lə-tannîn); the magicians do the same (bə-lahăṭêhem kēn); and maṭṭēh-ʾAhărōn swallows their staffs
-    (wa-yyivlaʿ). Q: Moses throws (fa-alqā ʿaṣāhu fa-idhā hiya thuʿbānun mubīnun); the magicians offer
-    him the first throw (immā an tulqiya); their act is siḥr that ''bewitched the people''s eyes'' (saḥarū
-    aʿyuna l-nāsi), and Moses'' staff talqafu mā yaʾfikūna. Aaron drops out of the act; the magic is illusion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
-    אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
-- tradition: islam
-  ref: Quran 20:66
-  note: 'The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence between the
-    texts] (Exod: Aaron''s staff (wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayhî lətannîn), and the magicians
-    really do the same, wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bəlahăṭêhem kēn ... wayyihyû lətannînim, before
-    wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. Q: Moses'' staff (alqi mā fī yamīnika talqaf mā ṣanaʿū), and
-    the magicians'' ropes and staffs only seem to move, yukhayyalu ilayhi min siḥrihim annahā tasʿā. The
-    actor and the reality of the rival magic both change.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ بَلْ أَلْقُوا۟ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا
-    تَسْعَىٰ
-- tradition: islam
-  ref: Quran 20:69
-  note: 'The prophet''s staff-serpent swallows the magicians'' staff-serpents [divergence between the
-    texts] (Exod: Aaron''s staff (wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayhî lətannîn), and the magicians
-    really do the same, wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bəlahăṭêhem kēn ... wayyihyû lətannînim, before
-    wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. Q: Moses'' staff (alqi mā fī yamīnika talqaf mā ṣanaʿū), and
-    the magicians'' ropes and staffs only seem to move, yukhayyalu ilayhi min siḥrihim annahā tasʿā. The
-    actor and the reality of the rival magic both change.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا يُفْلِحُ
-    ٱلسَّاحِرُ حَيْثُ أَتَىٰ
-- tradition: judaism
-  ref: Exod 7:12
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
-- tradition: islam
-  ref: Quran 20:69
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا يُفْلِحُ
-    ٱلسَّاحِرُ حَيْثُ أَتَىٰ
-- tradition: judaism
-  ref: Exod 7:3
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 20:56
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
-- tradition: judaism
-  ref: Exod 7:11
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: judaism
-  ref: Exod 7:12
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
-- tradition: islam
-  ref: Quran 20:57
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:58
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
-    نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
-- tradition: judaism
-  ref: Exod 7:3
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 20:56
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    all the signs, he denied and refused)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Exod: Aaron''s staff (wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayhî lətannîn), and the magicians
-    really do the same, wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bəlahăṭêhem kēn ... wayyihyû lətannînim, before
-    wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. Q: Moses'' staff (alqi mā fī yamīnika talqaf mā ṣanaʿū), and
-    the magicians'' ropes and staffs only seem to move, yukhayyalu ilayhi min siḥrihim annahā tasʿā. The
-    actor and the reality of the rival magic both change. Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh
-    wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses,
-    wa-la-qad araynāhu āyātinā kullahā fa-kadhdhaba wa-abā, and God''s hand in it is not stated.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s staff-serpent swallows the magicians'' staff-serpents
     [divergence between the texts] (weight 6.3); The prophet''s staff-serpent swallows the magicians''
@@ -208,6 +63,96 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's staff-serpent swallows the magicians' staff-serpents
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet's staff-serpent swallows the magicians' staff-serpents
+  note: 'Exod: Aaron''s staff (wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayhî lətannîn), and the magicians really
+    do the same, wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bəlahăṭêhem kēn ... wayyihyû lətannînim, before wayyiblaʿ
+    maṭṭēh-ʾahărōn ʾet-maṭṭōtām. Q: Moses'' staff (alqi mā fī yamīnika talqaf mā ṣanaʿū), and the magicians''
+    ropes and staffs only seem to move, yukhayyalu ilayhi min siḥrihim annahā tasʿā. The actor and the
+    reality of the rival magic both change.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:10
+      lang: he
+      text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
+        אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+    - ref: Exod 7:12
+      lang: he
+      text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת
+        מַטֹּתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 20:66
+      lang: ar
+      text: قَالَ بَلْ أَلْقُوا۟ فَإِذَا حِبَالُهُمْ وَعِصِيُّهُمْ يُخَيَّلُ إِلَيْهِ مِن سِحْرِهِمْ أَنَّهَا
+        تَسْعَىٰ
+    - ref: Quran 20:69
+      lang: ar
+      text: وَأَلْقِ مَا فِى يَمِينِكَ تَلْقَفْ مَا صَنَعُوٓا۟ إِنَّمَا صَنَعُوا۟ كَيْدُ سَٰحِرٍ وَلَا
+        يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ
+- kind: divergence
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  note: 'Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq lēb parʿōh
+    ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā fa-kadhdhaba
+    wa-abā, and God''s hand in it is not stated.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 7:13
+      lang: he
+      text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+    - ref: Exod 7:12
+      lang: he
+      text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת
+        מַטֹּתָֽם
+    note: hakhamim, mekhashshefim, hartummim with their lahatim (secret arts)
+  - tradition: islam
+    passages:
+    - ref: Quran 20:57
+      lang: ar
+      text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
+    - ref: Quran 20:58
+      lang: ar
+      text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
+        نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+    - ref: Quran 20:60
+      lang: ar
+      text: فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
 ---
 
 ## Questions

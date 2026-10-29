@@ -2,7 +2,7 @@
 id: motif-hb-ps-49-no-ransom-vs-quran-44-dukhan-zaqqum-and-garden
 title: Psalm 49 - no man can ransom his brother ↔ Deniers demand their fathers; the people of Tubba';
   the tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: on that day no patron (mawla) can avail his client at all.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +15,9 @@ layers:
 - motif
 motifs:
 - patron-cannot-avail-patron
-passages:
-- tradition: judaism
-  ref: Ps 49:8
-  note: 'On that day no patron (mawla) can avail his client at all (No one can save another from death
-    or judgment: ʾāḥ lōʾ p̄āḏōh yip̄deh ʾîš lōʾ yittēn lē-ʾlōhîm kop̄rô vs. yawma lā yughnī mawlan ʿan
-    mawlan shayʾan ... illā man raḥima llāh. The psalm''s exception is God ransoming the speaker from
-    Sheol (ʾaḵ ʾĕlōhîm yip̄deh nap̄šî, 49:16); the Quran''s is God''s mercy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: judaism
-  ref: Ps 49:9
-  note: 'On that day no patron (mawla) can avail his client at all (No one can save another from death
-    or judgment: ʾāḥ lōʾ p̄āḏōh yip̄deh ʾîš lōʾ yittēn lē-ʾlōhîm kop̄rô vs. yawma lā yughnī mawlan ʿan
-    mawlan shayʾan ... illā man raḥima llāh. The psalm''s exception is God ransoming the speaker from
-    Sheol (ʾaḵ ʾĕlōhîm yip̄deh nap̄šî, 49:16); the Quran''s is God''s mercy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
-- tradition: islam
-  ref: Quran 44:41
-  note: On that day no patron (mawla) can avail his client at all
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ
-- tradition: islam
-  ref: Quran 44:42
-  note: On that day no patron (mawla) can avail his client at all
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا مَن رَّحِمَ ٱللَّهُ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. No one can save another from death or judgment: ʾāḥ lōʾ p̄āḏōh yip̄deh ʾîš lōʾ yittēn lē-ʾlōhîm
-    kop̄rô vs. yawma lā yughnī mawlan ʿan mawlan shayʾan ... illā man raḥima llāh. The psalm''s exception
-    is God ransoming the speaker from Sheol (ʾaḵ ʾĕlōhîm yip̄deh nap̄šî, 49:16); the Quran''s is God''s
-    mercy.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day no patron (mawla) can avail his client at all (weight
     6.7). Pair score 6.7.'
@@ -88,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day no patron (mawla) can avail his client at all
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: parallel
+  label: On that day no patron (mawla) can avail his client at all
+  note: 'No one can save another from death or judgment: ʾāḥ lōʾ p̄āḏōh yip̄deh ʾîš lōʾ yittēn lē-ʾlōhîm
+    kop̄rô vs. yawma lā yughnī mawlan ʿan mawlan shayʾan ... illā man raḥima llāh. The psalm''s exception
+    is God ransoming the speaker from Sheol (ʾaḵ ʾĕlōhîm yip̄deh nap̄šî, 49:16); the Quran''s is God''s
+    mercy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:41
+      lang: ar
+      text: يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ
+    - ref: Quran 44:42
+      lang: ar
+      text: إِلَّا مَن رَّحِمَ ٱللَّهُ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ
 ---
 
 ## Questions

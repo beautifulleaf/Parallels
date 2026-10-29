@@ -2,8 +2,7 @@
 id: motif-hb-amos-4-cows-of-bashan-vs-quran-9-closing
 title: Cows of Bashan; 'yet you did not return'; prepare to meet your God ↔ Surahs that increase faith;
   the compassionate messenger
-summary: 'These two units share 1 motifs: refrain listing plagues (famine, drought, blight, locust, pestilence,
-  war, overthrow): ''yet you did not return to me''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,47 +15,9 @@ layers:
 - motif
 motifs:
 - plagues-yet-you-did-not-return
-passages:
-- tradition: judaism
-  ref: Amos 4:6-11
-  note: 'Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet
-    you did not return to me'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (4:6) וְגַם אֲנִי֩ נָתַ֨תִּי לָכֶ֜ם נִקְי֤וֹן שִׁנַּ֨יִם֙ בְּכָל עָ֣רֵיכֶ֔ם וְחֹ֣סֶר לֶ֔חֶם בְּכֹ֖ל
-    מְקוֹמֹֽתֵיכֶ֑ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה (4:7) וְגַ֣ם אָנֹכִי֩ מָנַ֨עְתִּי מִכֶּ֜ם אֶת
-    הַגֶּ֗שֶׁם בְּע֨וֹד שְׁלֹשָׁ֤ה חֳדָשִׁים֙ לַקָּצִ֔יר וְהִמְטַרְתִּי֙ עַל עִ֣יר אֶחָ֔ת וְעַל עִ֥יר
-    אַחַ֖ת לֹ֣א אַמְטִ֑יר חֶלְקָ֤ה אַחַת֙ תִּמָּטֵ֔ר וְחֶלְקָ֛ה אֲשֶֽׁר לֹֽא תַמְטִ֥יר עָלֶ֖יהָ תִּיבָֽשׁ
-    (4:8) וְנָע֡וּ שְׁתַּיִם֩ שָׁלֹ֨שׁ עָרִ֜ים אֶל עִ֥יר אַחַ֛ת לִשְׁתּ֥וֹת מַ֖יִם וְלֹ֣א יִשְׂבָּ֑עוּ
-    וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה (4:9) הִכֵּ֣יתִי אֶתְכֶם֮ בַּשִּׁדָּפ֣וֹן וּבַיֵּרָקוֹן֒ הַרְבּ֨וֹת
-    גַּנּוֹתֵיכֶ֧ם וְכַרְמֵיכֶ֛ם וּתְאֵנֵיכֶ֥ם וְזֵיתֵיכֶ֖ם יֹאכַ֣ל הַגָּזָ֑ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י
-    נְאֻם יְהוָֽה (4:10) שִׁלַּ֨חְתִּי בָכֶ֥ם דֶּ֨בֶר֙ בְּדֶ֣רֶךְ מִצְרַ֔יִם הָרַ֤גְתִּי בַחֶ֨רֶב֙ בַּח֣וּרֵיכֶ֔ם
-    עִ֖ם שְׁבִ֣י סֽוּסֵיכֶ֑ם וָאַעֲלֶ֞ה בְּאֹ֤שׁ מַחֲנֵיכֶם֙ וּֽבְאַפְּכֶ֔ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם
-    יְהוָֽה (4:11) הָפַ֣כְתִּי בָכֶ֗ם כְּמַהְפֵּכַ֤ת אֱלֹהִים֙ אֶת סְדֹ֣ם וְאֶת עֲמֹרָ֔ה וַתִּהְי֕וּ כְּא֖וּד
-    מֻצָּ֣ל מִשְׂרֵפָ֑ה וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
-- tradition: judaism
-  ref: Amos 4:6
-  note: 'Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet
-    you did not return to me'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַם אֲנִי֩ נָתַ֨תִּי לָכֶ֜ם נִקְי֤וֹן שִׁנַּ֨יִם֙ בְּכָל עָ֣רֵיכֶ֔ם וְחֹ֣סֶר לֶ֔חֶם בְּכֹ֖ל
-    מְקוֹמֹֽתֵיכֶ֑ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 9:126
-  note: 'Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet
-    you did not return to me'' (Repeated trials that do not bring repentance: a-wa-lā yarawna annahum
-    yuftanūna fī kulli ʿāmin marratan aw marratayni thumma lā yatūbūna wa-lā hum yadhdhakkarūn vs the
-    refrain wᵉlōʾ-šabtem ʿāday nᵉʾum-YHWH after famine, blight and pestilence (tāba = šûb).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ
-    وَلَا هُمْ يَذَّكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Repeated trials that do not bring repentance: a-wa-lā yarawna annahum yuftanūna fī kulli
-    ʿāmin marratan aw marratayni thumma lā yatūbūna wa-lā hum yadhdhakkarūn vs the refrain wᵉlōʾ-šabtem
-    ʿāday nᵉʾum-YHWH after famine, blight and pestilence (tāba = šûb).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Refrain listing plagues (famine, drought, blight, locust, pestilence,
     war, overthrow): ''yet you did not return to me'' (weight 6.0). Pair score 6.0.'
@@ -88,6 +49,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet
+  you did not return to me'''
+kinds:
+- parallel
+units:
+- id: hb-amos-4-cows-of-bashan
+  title: Cows of Bashan; 'yet you did not return'; prepare to meet your God
+  tradition: judaism
+- id: quran-9-closing
+  title: Surahs that increase faith; the compassionate messenger
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Refrain listing plagues (famine, drought, blight, locust, pestilence, war, overthrow): ''yet
+    you did not return to me'''
+  note: 'Repeated trials that do not bring repentance: a-wa-lā yarawna annahum yuftanūna fī kulli ʿāmin
+    marratan aw marratayni thumma lā yatūbūna wa-lā hum yadhdhakkarūn vs the refrain wᵉlōʾ-šabtem ʿāday
+    nᵉʾum-YHWH after famine, blight and pestilence (tāba = šûb).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 4:6
+      lang: he
+      text: וְגַם אֲנִי֩ נָתַ֨תִּי לָכֶ֜ם נִקְי֤וֹן שִׁנַּ֨יִם֙ בְּכָל עָ֣רֵיכֶ֔ם וְחֹ֣סֶר לֶ֔חֶם בְּכֹ֖ל
+        מְקוֹמֹֽתֵיכֶ֑ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
+    - ref: Amos 4:9
+      lang: he
+      text: הִכֵּ֣יתִי אֶתְכֶם֮ בַּשִּׁדָּפ֣וֹן וּבַיֵּרָקוֹן֒ הַרְבּ֨וֹת גַּנּוֹתֵיכֶ֧ם וְכַרְמֵיכֶ֛ם
+        וּתְאֵנֵיכֶ֥ם וְזֵיתֵיכֶ֖ם יֹאכַ֣ל הַגָּזָ֑ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם יְהוָֽה
+    - ref: Amos 4:10
+      lang: he
+      text: שִׁלַּ֨חְתִּי בָכֶ֥ם דֶּ֨בֶר֙ בְּדֶ֣רֶךְ מִצְרַ֔יִם הָרַ֤גְתִּי בַחֶ֨רֶב֙ בַּח֣וּרֵיכֶ֔ם עִ֖ם
+        שְׁבִ֣י סֽוּסֵיכֶ֑ם וָאַעֲלֶ֞ה בְּאֹ֤שׁ מַחֲנֵיכֶם֙ וּֽבְאַפְּכֶ֔ם וְלֹֽא שַׁבְתֶּ֥ם עָדַ֖י נְאֻם
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:126
+      lang: ar
+      text: أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا
+        يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ
 ---
 
 ## Questions

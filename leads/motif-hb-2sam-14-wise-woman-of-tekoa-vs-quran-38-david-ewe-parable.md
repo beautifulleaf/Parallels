@@ -2,9 +2,7 @@
 id: motif-hb-2sam-14-wise-woman-of-tekoa-vs-quran-38-david-ewe-parable
 title: The wise woman of Tekoa wins Absalom's return ↔ David's mountains, the two litigants and the ninety-nine
   ewes
-summary: 'These two units share 2 motifs: god strengthened david''s kingdom and gave him wisdom and decisive
-  judgment (fasl al-khitab), a prophet tells a case as if real; the king condemns the offender and is
-  told ''you are the man''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,80 +15,9 @@ layers:
 motifs:
 - david-wisdom-and-decisive-speech
 - juridical-parable-entraps-king
-passages:
-- tradition: judaism
-  ref: 2Sam 14:17
-  note: 'God strengthened David''s kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
-    (kə-malʾaḵ hā-ʾĕlōhîm kēn ʾăḏōnî ha-mmeleḵ lišmōaʿ ha-ṭṭôḇ wə-hā-rāʿ ... wa-ʾḏōnî ḥāḵām kə-ḥoḵmaṯ
-    malʾaḵ hā-ʾĕlōhîm vs. wa-ātaynāhu l-ḥikmata wa-faṣla l-khiṭāb ... fa-ḥkum baynanā bi-l-ḥaqq: David''s
-    wisdom to hear and decide a case, which a staged lawsuit appeals to. The Tekoite''s flattery becomes
-    a divine gift in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֨אמֶר֙ שִׁפְחָ֣תְךָ֔ יִֽהְיֶה נָּ֛א דְּבַר אֲדֹנִ֥י הַמֶּ֖לֶךְ לִמְנוּחָ֑ה כִּ֣י כְּמַלְאַ֣ךְ
-    הָאֱלֹהִ֗ים כֵּ֣ן אֲדֹנִ֤י הַמֶּ֨לֶךְ֙ לִשְׁמֹ֨עַ֙ הַטּ֣וֹב וְהָרָ֔ע וַֽיהוָ֥ה אֱלֹהֶ֖יךָ יְהִ֥י עִמָּֽךְ
-- tradition: judaism
-  ref: 2Sam 14:20
-  note: 'God strengthened David''s kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
-    (kə-malʾaḵ hā-ʾĕlōhîm kēn ʾăḏōnî ha-mmeleḵ lišmōaʿ ha-ṭṭôḇ wə-hā-rāʿ ... wa-ʾḏōnî ḥāḵām kə-ḥoḵmaṯ
-    malʾaḵ hā-ʾĕlōhîm vs. wa-ātaynāhu l-ḥikmata wa-faṣla l-khiṭāb ... fa-ḥkum baynanā bi-l-ḥaqq: David''s
-    wisdom to hear and decide a case, which a staged lawsuit appeals to. The Tekoite''s flattery becomes
-    a divine gift in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְבַעֲב֤וּר סַבֵּב֙ אֶת פְּנֵ֣י הַדָּבָ֔ר עָשָׂ֛ה עַבְדְּךָ֥ יוֹאָ֖ב אֶת הַדָּבָ֣ר הַזֶּ֑ה וַאדֹנִ֣י
-    חָכָ֗ם כְּחָכְמַת֙ מַלְאַ֣ךְ הָאֱלֹהִ֔ים לָדַ֖עַת אֶֽת כָּל אֲשֶׁ֥ר בָּאָֽרֶץ
-- tradition: islam
-  ref: Quran 38:20
-  note: God strengthened David's kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
-- tradition: islam
-  ref: Quran 38:22
-  note: God strengthened David's kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا
-    عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
-- tradition: judaism
-  ref: 2Sam 14:5
-  note: A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'
-    (Two sons fought in the field; one killed the other)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּֽאמֶר לָ֥הּ הַמֶּ֖לֶךְ מַה לָּ֑ךְ וַתֹּ֗אמֶר אֲבָ֛ל אִשָּֽׁה אַלְמָנָ֥ה אָ֖נִי וַיָּ֥מָת
-    אִישִֽׁי
-- tradition: judaism
-  ref: 2Sam 14:6
-  note: A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'
-    (Two sons fought in the field; one killed the other)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְשִׁפְחָֽתְךָ֙ שְׁנֵ֣י בָנִ֔ים וַיִּנָּצ֤וּ שְׁנֵיהֶם֙ בַּשָּׂדֶ֔ה וְאֵ֥ין מַצִּ֖יל בֵּֽינֵיהֶ֑ם
-    וַיַּכּ֧וֹ הָאֶחָ֛ד אֶת הָאֶחָ֖ד וַיָּ֥מֶת אֹתֽוֹ
-- tradition: islam
-  ref: Quran 38:22
-  note: A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'
-    (the litigants present the case; no 'you are the man', David himself grasps it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا
-    عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
-- tradition: islam
-  ref: Quran 38:23
-  note: A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'
-    (the litigants present the case; no 'you are the man', David himself grasps it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا
-    وَعَزَّنِى فِى ٱلْخِطَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kə-malʾaḵ hā-ʾĕlōhîm kēn ʾăḏōnî ha-mmeleḵ lišmōaʿ ha-ṭṭôḇ wə-hā-rāʿ ... wa-ʾḏōnî ḥāḵām kə-ḥoḵmaṯ
-    malʾaḵ hā-ʾĕlōhîm vs. wa-ātaynāhu l-ḥikmata wa-faṣla l-khiṭāb ... fa-ḥkum baynanā bi-l-ḥaqq: David''s
-    wisdom to hear and decide a case, which a staged lawsuit appeals to. The Tekoite''s flattery becomes
-    a divine gift in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God strengthened David''s kingdom and gave him wisdom and decisive
     judgment (fasl al-khitab) (weight 6.7); A prophet tells a case as if real; the king condemns the offender
@@ -123,6 +50,81 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God strengthened David's kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
+kinds:
+- echo
+- shared
+units:
+- id: hb-2sam-14-wise-woman-of-tekoa
+  title: The wise woman of Tekoa wins Absalom's return
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: echo
+  label: God strengthened David's kingdom and gave him wisdom and decisive judgment (fasl al-khitab)
+  note: 'kə-malʾaḵ hā-ʾĕlōhîm kēn ʾăḏōnî ha-mmeleḵ lišmōaʿ ha-ṭṭôḇ wə-hā-rāʿ ... wa-ʾḏōnî ḥāḵām kə-ḥoḵmaṯ
+    malʾaḵ hā-ʾĕlōhîm vs. wa-ātaynāhu l-ḥikmata wa-faṣla l-khiṭāb ... fa-ḥkum baynanā bi-l-ḥaqq: David''s
+    wisdom to hear and decide a case, which a staged lawsuit appeals to. The Tekoite''s flattery becomes
+    a divine gift in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 14:17
+      lang: he
+      text: וַתֹּ֨אמֶר֙ שִׁפְחָ֣תְךָ֔ יִֽהְיֶה נָּ֛א דְּבַר אֲדֹנִ֥י הַמֶּ֖לֶךְ לִמְנוּחָ֑ה כִּ֣י כְּמַלְאַ֣ךְ
+        הָאֱלֹהִ֗ים כֵּ֣ן אֲדֹנִ֤י הַמֶּ֨לֶךְ֙ לִשְׁמֹ֨עַ֙ הַטּ֣וֹב וְהָרָ֔ע וַֽיהוָ֥ה אֱלֹהֶ֖יךָ יְהִ֥י
+        עִמָּֽךְ
+    - ref: 2Sam 14:20
+      lang: he
+      text: לְבַעֲב֤וּר סַבֵּב֙ אֶת פְּנֵ֣י הַדָּבָ֔ר עָשָׂ֛ה עַבְדְּךָ֥ יוֹאָ֖ב אֶת הַדָּבָ֣ר הַזֶּ֑ה
+        וַאדֹנִ֣י חָכָ֗ם כְּחָכְמַת֙ מַלְאַ֣ךְ הָאֱלֹהִ֔ים לָדַ֖עַת אֶֽת כָּל אֲשֶׁ֥ר בָּאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:20
+      lang: ar
+      text: وَشَدَدْنَا مُلْكَهُۥ وَءَاتَيْنَٰهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ
+    - ref: Quran 38:22
+      lang: ar
+      text: إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا
+        عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
+- kind: shared
+  label: A prophet tells a case as if real; the king condemns the offender and is told 'You are the man'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 14:5
+      lang: he
+      text: וַיֹּֽאמֶר לָ֥הּ הַמֶּ֖לֶךְ מַה לָּ֑ךְ וַתֹּ֗אמֶר אֲבָ֛ל אִשָּֽׁה אַלְמָנָ֥ה אָ֖נִי וַיָּ֥מָת
+        אִישִֽׁי
+    - ref: 2Sam 14:6
+      lang: he
+      text: וּלְשִׁפְחָֽתְךָ֙ שְׁנֵ֣י בָנִ֔ים וַיִּנָּצ֤וּ שְׁנֵיהֶם֙ בַּשָּׂדֶ֔ה וְאֵ֥ין מַצִּ֖יל בֵּֽינֵיהֶ֑ם
+        וַיַּכּ֧וֹ הָאֶחָ֛ד אֶת הָאֶחָ֖ד וַיָּ֥מֶת אֹתֽוֹ
+    - ref: 2Sam 14:7
+      lang: he
+      text: וְהִנֵּה֩ קָ֨מָה כָֽל הַמִּשְׁפָּחָ֜ה עַל שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י אֶת מַכֵּ֣ה אָחִ֗יו
+        וּנְמִתֵ֨הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְנַשְׁמִ֖ידָה גַּ֣ם אֶת הַיּוֹרֵ֑שׁ וְכִבּ֗וּ
+        אֶת גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שום שִׂים לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל
+        פְּנֵ֥י הָאֲדָמָֽה
+    note: Two sons fought in the field; one killed the other
+  - tradition: islam
+    passages:
+    - ref: Quran 38:22
+      lang: ar
+      text: إِذْ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنْهُمْ قَالُوا۟ لَا تَخَفْ خَصْمَانِ بَغَىٰ بَعْضُنَا
+        عَلَىٰ بَعْضٍ فَٱحْكُم بَيْنَنَا بِٱلْحَقِّ وَلَا تُشْطِطْ وَٱهْدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ
+    - ref: Quran 38:23
+      lang: ar
+      text: إِنَّ هَٰذَآ أَخِى لَهُۥ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِىَ نَعْجَةٌ وَٰحِدَةٌ فَقَالَ أَكْفِلْنِيهَا
+        وَعَزَّنِى فِى ٱلْخِطَابِ
+    - ref: Quran 38:24
+      lang: ar
+      text: قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ
+        لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ
+        مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ
+    note: the litigants present the case; no 'you are the man', David himself grasps it
 ---
 
 ## Questions

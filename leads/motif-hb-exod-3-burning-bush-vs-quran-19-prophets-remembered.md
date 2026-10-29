@@ -2,8 +2,7 @@
 id: motif-hb-exod-3-burning-bush-vs-quran-19-prophets-remembered
 title: The burning bush and the divine name ↔ Moses, Ishmael and Idris remembered; the later generation
   that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 1 motifs: god called moses and drew him near in confidential converse
-  (najiyy) [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - moses-drawn-near-in-confidential-speech-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 3:4
-  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
-    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
-    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
-    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
-    מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
-- tradition: judaism
-  ref: Exod 3:5
-  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
-    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
-    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
-    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר אַתָּה֙
-    עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
-- tradition: islam
-  ref: Quran 19:52
-  note: 'God called Moses and drew him near in confidential converse (najiyy) [divergence between the
-    texts] (wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
-    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
-    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi
-    ṭ-ṭūri l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed:
-    Exod has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root
-    q-r-b).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God called Moses and drew him near in confidential converse (najiyy)
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God called Moses and drew him near in confidential converse (najiyy)
+kinds:
+- divergence
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: divergence
+  label: God called Moses and drew him near in confidential converse (najiyy)
+  note: 'wayyiqrāʾ ʾēlāyw ʾĕlōhîm mittôk hassəneh ... ʾal-tiqrab hălōm; wa-nādaynāhu min jānibi ṭ-ṭūri
+    l-aymani wa-qarrabnāhu najiyyā. God calls Moses at the mountain, but the approach is reversed: Exod
+    has ''do not come near'' (ʾal-tiqrab), Q has ''we brought him near'' (qarrabnāhu, the same root q-r-b).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:4
+      lang: he
+      text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
+        מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
+    - ref: Exod 3:5
+      lang: he
+      text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר
+        אַתָּה֙ עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 19:52
+      lang: ar
+      text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
 ---
 
 ## Questions

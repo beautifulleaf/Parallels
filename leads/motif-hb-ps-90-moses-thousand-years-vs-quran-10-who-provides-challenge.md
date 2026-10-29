@@ -2,7 +2,7 @@
 id: motif-hb-ps-90-moses-thousand-years-vs-quran-10-who-provides-challenge
 title: Psalm 90, prayer of Moses; a thousand years as yesterday ↔ Who provides and who restores creation;
   the challenge of the surah
-summary: 'These two units share 1 motifs: the resurrected feel they had stayed only an hour of a day.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - dead-think-they-stayed-an-hour
-passages:
-- tradition: judaism
-  ref: Ps 90:4
-  note: 'The resurrected feel they had stayed only an hour of a day (A long span shrinks to almost nothing:
-    ka-an lam yalbathū illā sāʿatan mina n-nahār vs kî ʾelep šānîm bᵉʿênêkā kᵉyôm ʾetmôl kî yaʿăbōr wᵉʾašmûrāh
-    ballāylāh. In Ps it is God''s view of time; in Q how the resurrected feel about their time in the
-    grave.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה
-- tradition: islam
-  ref: Quran 10:45
-  note: The resurrected feel they had stayed only an hour of a day
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ
-    بَيْنَهُمْ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A long span shrinks to almost nothing: ka-an lam yalbathū illā sāʿatan mina n-nahār vs kî ʾelep
-    šānîm bᵉʿênêkā kᵉyôm ʾetmôl kî yaʿăbōr wᵉʾašmûrāh ballāylāh. In Ps it is God''s view of time; in Q
-    how the resurrected feel about their time in the grave.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The resurrected feel they had stayed only an hour of a day (weight
     6.3). Pair score 6.3.'
@@ -68,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The resurrected feel they had stayed only an hour of a day
+kinds:
+- echo
+units:
+- id: hb-ps-90-moses-thousand-years
+  title: Psalm 90, prayer of Moses; a thousand years as yesterday
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: echo
+  label: The resurrected feel they had stayed only an hour of a day
+  note: 'A long span shrinks to almost nothing: ka-an lam yalbathū illā sāʿatan mina n-nahār vs kî ʾelep
+    šānîm bᵉʿênêkā kᵉyôm ʾetmôl kî yaʿăbōr wᵉʾašmûrāh ballāylāh. In Ps it is God''s view of time; in Q
+    how the resurrected feel about their time in the grave.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 90:4
+      lang: he
+      text: כִּ֤י אֶ֪לֶף שָׁנִ֡ים בְּֽעֵינֶ֗יךָ כְּי֣וֹם אֶ֭תְמוֹל כִּ֣י יַעֲבֹ֑ר וְאַשְׁמוּרָ֥ה בַלָּֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:45
+      lang: ar
+      text: وَيَوْمَ يَحْشُرُهُمْ كَأَن لَّمْ يَلْبَثُوٓا۟ إِلَّا سَاعَةً مِّنَ ٱلنَّهَارِ يَتَعَارَفُونَ
+        بَيْنَهُمْ قَدْ خَسِرَ ٱلَّذِينَ كَذَّبُوا۟ بِلِقَآءِ ٱللَّهِ وَمَا كَانُوا۟ مُهْتَدِينَ
 ---
 
 ## Questions

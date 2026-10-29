@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-19-holiness-code-a-vs-quran-24-ifk-slander
 title: Be holy - ethical laws and love of neighbor ↔ The affair of the lie (ifk) against a chaste woman
-summary: 'These two units share 1 motifs: do not go about as a talebearer among your people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - talebearing-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 19:16
-  note: Do not go about as a talebearer among your people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 24:15
-  note: 'Do not go about as a talebearer among your people (lōʾ tēlēkh rākhîl bə-ʿammêkā ~ wa-taqūlūna
-    bi-afwāhikum mā laysa lakum bihi ʿilmun ... inna lladhīna yuḥibbūna an tashīʿa l-fāḥishatu fī lladhīna
-    āmanū: spreading talk about others among the people is forbidden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
-    وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
-- tradition: islam
-  ref: Quran 24:19
-  note: 'Do not go about as a talebearer among your people (lōʾ tēlēkh rākhîl bə-ʿammêkā ~ wa-taqūlūna
-    bi-afwāhikum mā laysa lakum bihi ʿilmun ... inna lladhīna yuḥibbūna an tashīʿa l-fāḥishatu fī lladhīna
-    āmanū: spreading talk about others among the people is forbidden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ
-    فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. lōʾ tēlēkh rākhîl bə-ʿammêkā ~ wa-taqūlūna bi-afwāhikum mā laysa lakum bihi ʿilmun ... inna
-    lladhīna yuḥibbūna an tashīʿa l-fāḥishatu fī lladhīna āmanū: spreading talk about others among the
-    people is forbidden.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not go about as a talebearer among your people (weight 5.8).
     Pair score 5.8.'
@@ -73,6 +46,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not go about as a talebearer among your people
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-24-ifk-slander
+  title: The affair of the lie (ifk) against a chaste woman
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not go about as a talebearer among your people
+  note: 'lōʾ tēlēkh rākhîl bə-ʿammêkā ~ wa-taqūlūna bi-afwāhikum mā laysa lakum bihi ʿilmun ... inna lladhīna
+    yuḥibbūna an tashīʿa l-fāḥishatu fī lladhīna āmanū: spreading talk about others among the people is
+    forbidden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:16
+      lang: he
+      text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:15
+      lang: ar
+      text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
+        وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
+    - ref: Quran 24:19
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ
+        أَلِيمٌ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 ---
 
 ## Questions

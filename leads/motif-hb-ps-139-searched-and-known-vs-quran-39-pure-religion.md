@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-39-pure-religion
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Pure religion; no son for God; creation
   from one soul in three darknesses
-summary: 'These two units share 1 motifs: god formed the kidneys and wove (knit) the speaker in his mother''s
-  womb.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - knit-together-in-mothers-womb
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: judaism
-  ref: Ps 139:15
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (God 'acquired/created
-    (qanita) my kidneys')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: islam
-  ref: Quran 39:6
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. tə-sukkēnî bə-ḇeṭen ʾimmî ... ʾăšer-ʿuśśêṯî ḇa-ssēṯer ruqqamtî bə-taḥtiyyôṯ ʾāreṣ vs. yakhluqukum
-    fī buṭūni ummahātikum khalqan min baʿdi khalqin fī ẓulumātin thalāth: God forms the embryo stage by
-    stage in a hidden place. The psalm''s ''in secret'' and ''the depths of the earth'' match the Quran''s
-    ''three darknesses''.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
     womb (weight 5.8). Pair score 5.8.'
@@ -83,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God formed the kidneys and wove (knit) the speaker in his mother's womb
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: parallel
+  label: God formed the kidneys and wove (knit) the speaker in his mother's womb
+  note: 'tə-sukkēnî bə-ḇeṭen ʾimmî ... ʾăšer-ʿuśśêṯî ḇa-ssēṯer ruqqamtî bə-taḥtiyyôṯ ʾāreṣ vs. yakhluqukum
+    fī buṭūni ummahātikum khalqan min baʿdi khalqin fī ẓulumātin thalāth: God forms the embryo stage by
+    stage in a hidden place. The psalm''s ''in secret'' and ''the depths of the earth'' match the Quran''s
+    ''three darknesses''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
 ---
 
 ## Questions

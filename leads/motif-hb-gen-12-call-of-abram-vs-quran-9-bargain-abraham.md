@@ -2,8 +2,7 @@
 id: motif-hb-gen-12-call-of-abram-vs-quran-9-bargain-abraham
 title: The call of Abram and his journey through Canaan ↔ The bargain of lives for paradise; Abraham's
   prayer for his father
-summary: 'These two units share 1 motifs: how abraham parts from his father and his father''s land or
-  gods.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-leaves-fathers-house
-passages:
-- tradition: judaism
-  ref: Gen 12:1
-  note: 'How Abraham parts from his father and his father''s land or gods (Separation from the father''s
-    house: lek-lᵉkā mēʾarṣᵉkā ûmimmôladtᵉkā ûmibbêt ʾābîkā is a geographical command with no reason given;
-    in Q the separation is a disavowal for religious reasons (tabarraʾa minhu) and becomes a rule for
-    believers (mā kāna li-n-nabiyyi ... an yastaghfirū li-l-mushrikīna wa-law kānū ulī qurbā, 9:113).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
-    אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
-- tradition: islam
-  ref: Quran 9:114
-  note: 'How Abraham parts from his father and his father''s land or gods (Father and son in the story
-    of Abraham''s departure: in Gen Terah himself leads the family out (wayyiqqaḥ teraḥ ʾet-ʾabrām bᵉnô
-    ... wayyēṣᵉʾû ʾittām mēʾûr kaśdîm) and dies in Haran with no conflict; in Q Abraham breaks with his
-    father as God''s enemy (tabarraʾa minhu) after having prayed for him by promise (ʿan mawʿidatin waʿadahā
-    iyyāhu).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا
-    تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Separation from the father''s house: lek-lᵉkā mēʾarṣᵉkā ûmimmôladtᵉkā ûmibbêt ʾābîkā is
-    a geographical command with no reason given; in Q the separation is a disavowal for religious reasons
-    (tabarraʾa minhu) and becomes a rule for believers (mā kāna li-n-nabiyyi ... an yastaghfirū li-l-mushrikīna
-    wa-law kānū ulī qurbā, 9:113).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham parts from his father and his father''s land or gods
     (weight 6.3). Pair score 6.3.'
@@ -73,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Abraham parts from his father and his father's land or gods
+kinds:
+- divergence
+units:
+- id: hb-gen-12-call-of-abram
+  title: The call of Abram and his journey through Canaan
+  tradition: judaism
+- id: quran-9-bargain-abraham
+  title: The bargain of lives for paradise; Abraham's prayer for his father
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Abraham parts from his father and his father's land or gods
+  note: 'Separation from the father''s house: lek-lᵉkā mēʾarṣᵉkā ûmimmôladtᵉkā ûmibbêt ʾābîkā is a geographical
+    command with no reason given; in Q the separation is a disavowal for religious reasons (tabarraʾa
+    minhu) and becomes a rule for believers (mā kāna li-n-nabiyyi ... an yastaghfirū li-l-mushrikīna wa-law
+    kānū ulī qurbā, 9:113).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
+        אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:114
+      lang: ar
+      text: وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ
+        فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ
+        حَلِيمٌ
 ---
 
 ## Questions

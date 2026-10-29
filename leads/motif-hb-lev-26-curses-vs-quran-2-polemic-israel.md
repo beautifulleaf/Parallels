@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-26-curses-vs-quran-2-polemic-israel
 title: Covenant curses, exile, and remembered covenant ↔ Polemic with the People of the Book
-summary: 'These two units share 2 motifs: the ''uncircumcised'' or covered heart [divergence between the
-  texts], the people''s ''uncircumcised heart'' must be humbled.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 motifs:
 - uncircumcision-of-the-heart-as-divergence
 - uncircumcised-heart
-passages:
-- tradition: judaism
-  ref: Lev 26:41
-  note: 'The ''uncircumcised'' or covered heart [divergence between the texts] (Lev 26:41 ʾô ʾāz yikkānaʿ
-    lĕbābām he-ʿārēl: God''s verdict that their uncircumcised heart must be humbled; Q 2:88 wa-qālū qulūbunā
-    ghulfun bal laʿanahumu llāhu: the people themselves say ''our hearts are uncircumcised / wrapped''
-    as a reason not to believe, and God answers with a curse. The divine diagnosis becomes the people''s
-    excuse.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
-    לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
-- tradition: islam
-  ref: Quran 2:88
-  note: 'The ''uncircumcised'' or covered heart [divergence between the texts] (Lev 26:41 ʾô ʾāz yikkānaʿ
-    lĕbābām he-ʿārēl: God''s verdict that their uncircumcised heart must be humbled; Q 2:88 wa-qālū qulūbunā
-    ghulfun bal laʿanahumu llāhu: the people themselves say ''our hearts are uncircumcised / wrapped''
-    as a reason not to believe, and God answers with a curse. The divine diagnosis becomes the people''s
-    excuse.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
-- tradition: judaism
-  ref: Lev 26:41
-  note: The people's 'uncircumcised heart' must be humbled
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
-    לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
-- tradition: islam
-  ref: Quran 2:88
-  note: The people's 'uncircumcised heart' must be humbled (qulubuna ghulf, 'our hearts are uncircumcised/wrapped')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 26:41 ʾô ʾāz yikkānaʿ lĕbābām he-ʿārēl: God''s verdict that their uncircumcised heart
-    must be humbled; Q 2:88 wa-qālū qulūbunā ghulfun bal laʿanahumu llāhu: the people themselves say ''our
-    hearts are uncircumcised / wrapped'' as a reason not to believe, and God answers with a curse. The
-    divine diagnosis becomes the people''s excuse.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''uncircumcised'' or covered heart [divergence between the texts]
     (weight 6.3); The people''s ''uncircumcised heart'' must be humbled (weight 5.6). Pair score 11.9.'
@@ -88,6 +49,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'uncircumcised' or covered heart
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-26-curses
+  title: Covenant curses, exile, and remembered covenant
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: The 'uncircumcised' or covered heart
+  note: 'Lev 26:41 ʾô ʾāz yikkānaʿ lĕbābām he-ʿārēl: God''s verdict that their uncircumcised heart must
+    be humbled; Q 2:88 wa-qālū qulūbunā ghulfun bal laʿanahumu llāhu: the people themselves say ''our
+    hearts are uncircumcised / wrapped'' as a reason not to believe, and God answers with a curse. The
+    divine diagnosis becomes the people''s excuse.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:41
+      lang: he
+      text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
+        לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:88
+      lang: ar
+      text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+- kind: shared
+  label: The people's 'uncircumcised heart' must be humbled
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:41
+      lang: he
+      text: אַף אֲנִ֗י אֵלֵ֤ךְ עִמָּם֙ בְּקֶ֔רִי וְהֵבֵאתִ֣י אֹתָ֔ם בְּאֶ֖רֶץ אֹיְבֵיהֶ֑ם אוֹ אָ֣ז יִכָּנַ֗ע
+        לְבָבָם֙ הֶֽעָרֵ֔ל וְאָ֖ז יִרְצ֥וּ אֶת עֲוֺנָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:88
+      lang: ar
+      text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+    note: qulubuna ghulf, 'our hearts are uncircumcised/wrapped'
 ---
 
 ## Questions

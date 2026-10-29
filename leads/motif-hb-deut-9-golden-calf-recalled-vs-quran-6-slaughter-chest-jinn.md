@@ -2,8 +2,7 @@
 id: motif-hb-deut-9-golden-calf-recalled-vs-quran-6-slaughter-chest-jinn
 title: Not for your righteousness; the golden calf and Moses' intercession recalled ↔ Eat what God's name
   is spoken over; the opened breast; jinn and humans judged
-summary: 'These two units share 1 motifs: if god wills he takes you away and brings another people in
-  your place.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Deut 9:14
-  note: 'If God wills he takes you away and brings another people in your place (God can remove a people
-    and raise another. Deut: hereph mimmennî wə-ʾašmîdēm ... wə-ʾeʿĕśeh ʾôtəkhā lə-gôy ʿāṣûm wā-rāv mimmennû.
-    Q: in yashaʾ yudhhibkum wa-yastakhlif min baʿdikum mā yashāʾu ka-mā anshaʾakum min dhurriyyati qawmin
-    ākharīn. In Deut a threat averted by intercession; in Q a standing possibility.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶ֤רֶף מִמֶּ֨נִּי֙ וְאַשְׁמִידֵ֔ם וְאֶמְחֶ֣ה אֶת שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם וְאֶֽעֱשֶׂה֙ אֽוֹתְךָ֔
-    לְגוֹי עָצ֥וּם וָרָ֖ב מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 6:133
-  note: If God wills he takes you away and brings another people in your place (as he raised you from
-    the offspring of another people)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم مَّا
-    يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. God can remove a people and raise another. Deut: hereph mimmennî wə-ʾašmîdēm ... wə-ʾeʿĕśeh
-    ʾôtəkhā lə-gôy ʿāṣûm wā-rāv mimmennû. Q: in yashaʾ yudhhibkum wa-yastakhlif min baʿdikum mā yashāʾu
-    ka-mā anshaʾakum min dhurriyyati qawmin ākharīn. In Deut a threat averted by intercession; in Q a
-    standing possibility.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
     place (weight 4.9). Pair score 4.9.'
@@ -74,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God wills he takes you away and brings another people in your place
+kinds:
+- echo
+units:
+- id: hb-deut-9-golden-calf-recalled
+  title: Not for your righteousness; the golden calf and Moses' intercession recalled
+  tradition: judaism
+- id: quran-6-slaughter-chest-jinn
+  title: Eat what God's name is spoken over; the opened breast; jinn and humans judged
+  tradition: islam
+matches:
+- kind: echo
+  label: If God wills he takes you away and brings another people in your place
+  note: 'God can remove a people and raise another. Deut: hereph mimmennî wə-ʾašmîdēm ... wə-ʾeʿĕśeh ʾôtəkhā
+    lə-gôy ʿāṣûm wā-rāv mimmennû. Q: in yashaʾ yudhhibkum wa-yastakhlif min baʿdikum mā yashāʾu ka-mā
+    anshaʾakum min dhurriyyati qawmin ākharīn. In Deut a threat averted by intercession; in Q a standing
+    possibility.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:14
+      lang: he
+      text: הֶ֤רֶף מִמֶּ֨נִּי֙ וְאַשְׁמִידֵ֔ם וְאֶמְחֶ֣ה אֶת שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם וְאֶֽעֱשֶׂה֙
+        אֽוֹתְךָ֔ לְגוֹי עָצ֥וּם וָרָ֖ב מִמֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:133
+      lang: ar
+      text: وَرَبُّكَ ٱلْغَنِىُّ ذُو ٱلرَّحْمَةِ إِن يَشَأْ يُذْهِبْكُمْ وَيَسْتَخْلِفْ مِنۢ بَعْدِكُم
+        مَّا يَشَآءُ كَمَآ أَنشَأَكُم مِّن ذُرِّيَّةِ قَوْمٍ ءَاخَرِينَ
 ---
 
 ## Questions

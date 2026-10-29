@@ -2,8 +2,7 @@
 id: motif-hb-lev-17-blood-and-slaughter-vs-quran-5-contracts-food-laws
 title: Slaughter only at the tent; the blood is the life ↔ Contracts, pilgrim sanctity and the forbidden
   foods
-summary: 'These two units share 2 motifs: a rite is required over hunted game before it may be eaten [divergence
-  between the texts], eating carrion or torn flesh is forbidden or defiling [divergence between the texts].'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,60 +15,9 @@ layers:
 motifs:
 - rite-over-hunted-game-as-divergence
 - carrion-forbidden-or-defiling-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 17:13
-  note: 'A rite is required over hunted game before it may be eaten [divergence between the texts] (Game
-    may be eaten if a rite is performed over it, but the rites differ. Lev: ʾăšer yāṣûd ṣêd ḥayyāh ʾô-ʿôf
-    ... wə-šāfakh ʾet-dāmô wə-khissāhû beʿāfār (pour out and cover the blood). Q: fa-kulū mimmā amsakna
-    ʿalaykum wa-dhkurū sma llāhi ʿalayhi (pronounce God''s name).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד חַיָּ֛ה
-    אוֹ ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל וְשָׁפַךְ֙ אֶת דָּמ֔וֹ וְכִסָּ֖הוּ בֶּעָפָֽר
-- tradition: islam
-  ref: Quran 5:4
-  note: 'A rite is required over hunted game before it may be eaten [divergence between the texts] (Game
-    may be eaten if a rite is performed over it, but the rites differ. Lev: ʾăšer yāṣûd ṣêd ḥayyāh ʾô-ʿôf
-    ... wə-šāfakh ʾet-dāmô wə-khissāhû beʿāfār (pour out and cover the blood). Q: fa-kulū mimmā amsakna
-    ʿalaykum wa-dhkurū sma llāhi ʿalayhi (pronounce God''s name).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ
-    ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ
-    عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
-- tradition: judaism
-  ref: Lev 17:15
-  note: 'Eating carrion or torn flesh is forbidden or defiling [divergence between the texts] (Lev: wə-khol-nefeš
-    ʾăšer tōʾkhal nəvēlāh û-ṭərēfāh ... wə-khibbes bəgādāyw wə-rāḥaṣ bam-mayim wə-ṭāmēʾ ʿad-hāʿerev. Eating
-    carrion or torn meat makes one impure and requires washing. Q forbids both outright (al-maytatu ...
-    wa-mā akala l-sabuʿu) and lets the forbidden be eaten only under compulsion (fa-mani ḍṭurra fī makhmaṣatin).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל נֶ֗פֶשׁ אֲשֶׁ֨ר תֹּאכַ֤ל נְבֵלָה֙ וּטְרֵפָ֔ה בָּאֶזְרָ֖ח וּבַגֵּ֑ר וְכִבֶּ֨ס בְּגָדָ֜יו
-    וְרָחַ֥ץ בַּמַּ֛יִם וְטָמֵ֥א עַד הָעֶ֖רֶב וְטָהֵֽר
-- tradition: islam
-  ref: Quran 5:3
-  note: 'Eating carrion or torn flesh is forbidden or defiling [divergence between the texts] (Lev: wə-khol-nefeš
-    ʾăšer tōʾkhal nəvēlāh û-ṭərēfāh ... wə-khibbes bəgādāyw wə-rāḥaṣ bam-mayim wə-ṭāmēʾ ʿad-hāʿerev. Eating
-    carrion or torn meat makes one impure and requires washing. Q forbids both outright (al-maytatu ...
-    wa-mā akala l-sabuʿu) and lets the forbidden be eaten only under compulsion (fa-mani ḍṭurra fī makhmaṣatin).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Game may be eaten if a rite is performed over it, but the rites differ. Lev: ʾăšer yāṣûd
-    ṣêd ḥayyāh ʾô-ʿôf ... wə-šāfakh ʾet-dāmô wə-khissāhû beʿāfār (pour out and cover the blood). Q: fa-kulū
-    mimmā amsakna ʿalaykum wa-dhkurū sma llāhi ʿalayhi (pronounce God''s name). Lev: wə-khol-nefeš ʾăšer
-    tōʾkhal nəvēlāh û-ṭərēfāh ... wə-khibbes bəgādāyw wə-rāḥaṣ bam-mayim wə-ṭāmēʾ ʿad-hāʿerev. Eating
-    carrion or torn meat makes one impure and requires washing. Q forbids both outright (al-maytatu ...
-    wa-mā akala l-sabuʿu) and lets the forbidden be eaten only under compulsion (fa-mani ḍṭurra fī makhmaṣatin).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A rite is required over hunted game before it may be eaten [divergence
     between the texts] (weight 6.7); Eating carrion or torn flesh is forbidden or defiling [divergence
@@ -102,6 +50,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A rite is required over hunted game before it may be eaten
+kinds:
+- divergence
+units:
+- id: hb-lev-17-blood-and-slaughter
+  title: Slaughter only at the tent; the blood is the life
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: divergence
+  label: A rite is required over hunted game before it may be eaten
+  note: 'Game may be eaten if a rite is performed over it, but the rites differ. Lev: ʾăšer yāṣûd ṣêd
+    ḥayyāh ʾô-ʿôf ... wə-šāfakh ʾet-dāmô wə-khissāhû beʿāfār (pour out and cover the blood). Q: fa-kulū
+    mimmā amsakna ʿalaykum wa-dhkurū sma llāhi ʿalayhi (pronounce God''s name).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 17:13
+      lang: he
+      text: וְאִ֨ישׁ אִ֜ישׁ מִבְּנֵ֣י יִשְׂרָאֵ֗ל וּמִן הַגֵּר֙ הַגָּ֣ר בְּתוֹכָ֔ם אֲשֶׁ֨ר יָצ֜וּד צֵ֥יד
+        חַיָּ֛ה אוֹ ע֖וֹף אֲשֶׁ֣ר יֵאָכֵ֑ל וְשָׁפַךְ֙ אֶת דָּמ֔וֹ וְכִסָּ֖הוּ בֶּעָפָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 5:4
+      lang: ar
+      text: يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ
+        ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ
+        عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+- kind: divergence
+  label: Eating carrion or torn flesh is forbidden or defiling
+  note: 'Lev: wə-khol-nefeš ʾăšer tōʾkhal nəvēlāh û-ṭərēfāh ... wə-khibbes bəgādāyw wə-rāḥaṣ bam-mayim
+    wə-ṭāmēʾ ʿad-hāʿerev. Eating carrion or torn meat makes one impure and requires washing. Q forbids
+    both outright (al-maytatu ... wa-mā akala l-sabuʿu) and lets the forbidden be eaten only under compulsion
+    (fa-mani ḍṭurra fī makhmaṣatin).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 17:15
+      lang: he
+      text: וְכָל נֶ֗פֶשׁ אֲשֶׁ֨ר תֹּאכַ֤ל נְבֵלָה֙ וּטְרֵפָ֔ה בָּאֶזְרָ֖ח וּבַגֵּ֑ר וְכִבֶּ֨ס בְּגָדָ֜יו
+        וְרָחַ֥ץ בַּמַּ֛יִם וְטָמֵ֥א עַד הָעֶ֖רֶב וְטָהֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

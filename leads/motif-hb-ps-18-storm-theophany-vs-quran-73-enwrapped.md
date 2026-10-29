@@ -2,8 +2,7 @@
 id: motif-hb-ps-18-storm-theophany-vs-quran-73-enwrapped
 title: 'Psalm 18 - David''s song of deliverance and the storm theophany ↔ The enwrapped one: the night
   vigil'
-summary: 'These two units share 1 motifs: on that day a great earthquake shakes the land; fish, birds,
-  beasts, creeping things and all humans quake before god, mountains are thrown down and every wall falls.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - great-earthquake-all-creatures-quake
-passages:
-- tradition: judaism
-  ref: Ps 18:8
-  note: 'On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
-    humans quake before God, mountains are thrown down and every wall falls (yawma tarjufu l-arḍu wa-l-jibāl
-    ~ wa-ttigʿaš wa-ttirʿaš hā-ʾāreṣ û-môsedê hārîm yirgāzû: earth and mountains shaken; in the Psalm
-    by the theophany of rescue, in the Quran at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּגְעַ֬שׁ וַתִּרְעַ֨שׁ הָאָ֗רֶץ וּמוֹסְדֵ֣י הָרִ֣ים יִרְגָּ֑זוּ וַ֝יִּתְגָּֽעֲשׁ֗וּ כִּי חָ֥רָה
-    לֽוֹ
-- tradition: islam
-  ref: Quran 73:14
-  note: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans
-    quake before God, mountains are thrown down and every wall falls
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yawma tarjufu l-arḍu wa-l-jibāl ~ wa-ttigʿaš wa-ttirʿaš hā-ʾāreṣ û-môsedê hārîm yirgāzû: earth
-    and mountains shaken; in the Psalm by the theophany of rescue, in the Quran at the end.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day a great earthquake shakes the land; fish, birds, beasts,
     creeping things and all humans quake before God, mountains are thrown down and every wall falls (weight
@@ -72,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
+  humans quake before God, mountains are thrown down and every wall falls
+kinds:
+- echo
+units:
+- id: hb-ps-18-storm-theophany
+  title: Psalm 18 - David's song of deliverance and the storm theophany
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: echo
+  label: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
+    humans quake before God, mountains are thrown down and every wall falls
+  note: 'yawma tarjufu l-arḍu wa-l-jibāl ~ wa-ttigʿaš wa-ttirʿaš hā-ʾāreṣ û-môsedê hārîm yirgāzû: earth
+    and mountains shaken; in the Psalm by the theophany of rescue, in the Quran at the end.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 18:8
+      lang: he
+      text: וַתִּגְעַ֬שׁ וַתִּרְעַ֨שׁ הָאָ֗רֶץ וּמוֹסְדֵ֣י הָרִ֣ים יִרְגָּ֑זוּ וַ֝יִּתְגָּֽעֲשׁ֗וּ כִּי
+        חָ֥רָה לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 73:14
+      lang: ar
+      text: يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-34-zedekiah-and-slave-release-vs-quran-2-four-birds
 title: Zedekiah's fate and the revoked release of slaves; the calf cut in two ↔ Abraham and the four birds
-summary: 'These two units share 1 motifs: covenant ritual: animals cut in halves and a divine presence
-  passes between them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +13,9 @@ layers:
 - motif
 motifs:
 - covenant-between-the-pieces
-passages:
-- tradition: judaism
-  ref: Jer 34:18-19
-  note: 'Covenant ritual: animals cut in halves and a divine presence passes between them (Calf cut in
-    two; those who passed between its parts)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (34:18) וְנָתַתִּ֣י אֶת הָאֲנָשִׁ֗ים הָעֹֽבְרִים֙ אֶת בְּרִתִ֔י אֲשֶׁ֤ר לֹֽא הֵקִ֨ימוּ֙ אֶת דִּבְרֵ֣י
-    הַבְּרִ֔ית אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י הָעֵ֨גֶל֙ אֲשֶׁ֣ר כָּרְת֣וּ לִשְׁנַ֔יִם וַיַּעַבְר֖וּ בֵּ֥ין
-    בְּתָרָֽיו (34:19) שָׂרֵ֨י יְהוּדָ֜ה וְשָׂרֵ֣י יְרוּשָׁלִַ֗ם הַסָּֽרִסִים֙ וְהַכֹּ֣הֲנִ֔ים וְכֹ֖ל
-    עַ֣ם הָאָ֑רֶץ הָעֹ֣בְרִ֔ים בֵּ֖ין בִּתְרֵ֥י הָעֵֽגֶל
-- tradition: judaism
-  ref: Jer 34:18
-  note: 'Covenant ritual: animals cut in halves and a divine presence passes between them (Calf cut in
-    two; those who passed between its parts)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֣י אֶת הָאֲנָשִׁ֗ים הָעֹֽבְרִים֙ אֶת בְּרִתִ֔י אֲשֶׁ֤ר לֹֽא הֵקִ֨ימוּ֙ אֶת דִּבְרֵ֣י
-    הַבְּרִ֔ית אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י הָעֵ֨גֶל֙ אֲשֶׁ֣ר כָּרְת֣וּ לִשְׁנַ֔יִם וַיַּעַבְר֖וּ בֵּ֥ין
-    בְּתָרָֽיו
-- tradition: islam
-  ref: Quran 2:260
-  note: 'Covenant ritual: animals cut in halves and a divine presence passes between them (birds divided
-    and placed apart)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ قَالَ أَوَلَمْ تُؤْمِن قَالَ
-    بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ
-    ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا وَٱعْلَمْ
-    أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 34:18 hā-ʿēgel ʾăšer kārĕtû li-šnayim wa-yyaʿabrû bên bĕtārāyw: the cut-animal oath rite;
-    Q 2:260 thumma jʿal ʿalā kulli jabalin minhunna juzʾan: cut animals used for a sign of resurrection
-    instead of a covenant oath.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Covenant ritual: animals cut in halves and a divine presence passes
     between them (weight 6.3). Pair score 6.3.'
@@ -74,6 +41,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Covenant ritual: animals cut in halves and a divine presence passes between them'
+kinds:
+- echo
+units:
+- id: hb-jer-34-zedekiah-and-slave-release
+  title: Zedekiah's fate and the revoked release of slaves; the calf cut in two
+  tradition: judaism
+- id: quran-2-four-birds
+  title: Abraham and the four birds
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Covenant ritual: animals cut in halves and a divine presence passes between them'
+  note: 'Jer 34:18 hā-ʿēgel ʾăšer kārĕtû li-šnayim wa-yyaʿabrû bên bĕtārāyw: the cut-animal oath rite;
+    Q 2:260 thumma jʿal ʿalā kulli jabalin minhunna juzʾan: cut animals used for a sign of resurrection
+    instead of a covenant oath.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 34:18
+      lang: he
+      text: וְנָתַתִּ֣י אֶת הָאֲנָשִׁ֗ים הָעֹֽבְרִים֙ אֶת בְּרִתִ֔י אֲשֶׁ֤ר לֹֽא הֵקִ֨ימוּ֙ אֶת דִּבְרֵ֣י
+        הַבְּרִ֔ית אֲשֶׁ֥ר כָּרְת֖וּ לְפָנָ֑י הָעֵ֨גֶל֙ אֲשֶׁ֣ר כָּרְת֣וּ לִשְׁנַ֔יִם וַיַּעַבְר֖וּ בֵּ֥ין
+        בְּתָרָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:260
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ قَالَ أَوَلَمْ تُؤْمِن قَالَ
+        بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ
+        ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا وَٱعْلَمْ
+        أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

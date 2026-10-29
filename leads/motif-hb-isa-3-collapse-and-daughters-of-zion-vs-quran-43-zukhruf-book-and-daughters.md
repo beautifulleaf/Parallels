@@ -2,8 +2,7 @@
 id: motif-hb-isa-3-collapse-and-daughters-of-zion-vs-quran-43-zukhruf-book-and-daughters
 title: 'Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
   one man ↔ Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
-summary: 'These two units share 1 motifs: long catalogue of women''s jewelry and garments (anklets, crescents,
-  amulets, nose-rings, perfume boxes, veils).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - catalogue-of-womens-finery
-passages:
-- tradition: judaism
-  ref: Isa 3:18-23
-  note: Long catalogue of women's jewelry and garments (anklets, crescents, amulets, nose-rings, perfume
-    boxes, veils) (about 21 items including saharonim (crescents) and nizmei ha-af (nose-rings))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:18) בַּיּ֨וֹם הַה֜וּא יָסִ֣יר אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים
-    (3:19) הַנְּטִיפ֥וֹת וְהַשֵּׁיר֖וֹת וְהָֽרְעָלֽוֹת (3:20) הַפְּאֵרִ֤ים וְהַצְּעָדוֹת֙ וְהַקִּשֻּׁרִ֔ים
-    וּבָתֵּ֥י הַנֶּ֖פֶשׁ וְהַלְּחָשִֽׁים (3:21) הַטַּבָּע֖וֹת וְנִזְמֵ֥י הָאָֽף (3:22) הַמַּֽחֲלָצוֹת֙
-    וְהַמַּ֣עֲטָפ֔וֹת וְהַמִּטְפָּח֖וֹת וְהָחֲרִיטִֽים (3:23) וְהַגִּלְיֹנִים֙ וְהַסְּדִינִ֔ים וְהַצְּנִיפ֖וֹת
-    וְהָרְדִידִֽים
-- tradition: judaism
-  ref: Isa 3:16
-  note: Long catalogue of women's jewelry and garments (anklets, crescents, amulets, nose-rings, perfume
-    boxes, veils) (about 21 items including saharonim (crescents) and nizmei ha-af (nose-rings))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת גָּר֔וֹן
-    וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
-- tradition: islam
-  ref: Quran 43:18
-  note: Long catalogue of women's jewelry and garments (anklets, crescents, amulets, nose-rings, perfume
-    boxes, veils) (female 'brought up among ornaments and unclear in dispute')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Women and finery: Isaiah''s list, tip̄ʾereṯ hā-ʿăḵāsîm wə-haš-šəḇîsîm wə-haś-śahărōnîm ...,
-    for the haughty bənôṯ ṣiyyôn vs. a-wa-man yunashshaʾu fī l-ḥilyati wa-huwa fī l-khiṣāmi ghayru mubīn.
-    Different use: in Isaiah the finery is stripped in judgment; in the Quran the female ''raised among
-    ornaments'' is part of the argument against ascribing daughters to God.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Long catalogue of women''s jewelry and garments (anklets, crescents,
     amulets, nose-rings, perfume boxes, veils) (weight 6.7). Pair score 6.7.'
@@ -85,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Long catalogue of women's jewelry and garments (anklets, crescents, amulets, nose-rings, perfume
+  boxes, veils)
+kinds:
+- echo
+units:
+- id: hb-isa-3-collapse-and-daughters-of-zion
+  title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
+    one man
+  tradition: judaism
+- id: quran-43-zukhruf-book-and-daughters
+  title: 'Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
+  tradition: islam
+matches:
+- kind: echo
+  label: Long catalogue of women's jewelry and garments (anklets, crescents, amulets, nose-rings, perfume
+    boxes, veils)
+  note: 'Women and finery: Isaiah''s list, tip̄ʾereṯ hā-ʿăḵāsîm wə-haš-šəḇîsîm wə-haś-śahărōnîm ..., for
+    the haughty bənôṯ ṣiyyôn vs. a-wa-man yunashshaʾu fī l-ḥilyati wa-huwa fī l-khiṣāmi ghayru mubīn.
+    Different use: in Isaiah the finery is stripped in judgment; in the Quran the female ''raised among
+    ornaments'' is part of the argument against ascribing daughters to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 3:16
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת
+        גָּר֔וֹן וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
+    - ref: Isa 3:18
+      lang: he
+      text: בַּיּ֨וֹם הַה֜וּא יָסִ֣יר אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 43:18
+      lang: ar
+      text: أَوَمَن يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ وَهُوَ فِى ٱلْخِصَامِ غَيْرُ مُبِينٍ
 ---
 
 ## Questions

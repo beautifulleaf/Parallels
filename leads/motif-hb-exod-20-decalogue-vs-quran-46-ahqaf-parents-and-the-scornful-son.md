@@ -2,8 +2,7 @@
 id: motif-hb-exod-20-decalogue-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: The Ten Words and the people's fear ↔ Kindness to parents, thirty months of bearing and weaning,
   the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 2 motifs: the ground and the reward of the duty to parents [divergence
-  between the texts], honor father and mother, with the promise of long life.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - reason-and-reward-for-honoring-parents-as-divergence
 - honor-parents-long-life
-passages:
-- tradition: judaism
-  ref: Exod 20:12
-  note: 'The ground and the reward of the duty to parents [divergence between the texts] (The parents''
-    commandment with a different reason and reward. Exodus: kabbēḏ ʾeṯ ʾāḇîḵā wə-ʾeṯ ʾimmeḵā ləmaʿan yaʾărîḵûn
-    yāmêḵā ʿal hā-ʾăḏāmâ ʾăšer YHWH ʾĕlōhêḵā nōṯēn lāḵ (Israel; long life on the land). Quran: wa-waṣṣaynā
-    l-insāna bi-wālidayhi iḥsānan ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (all mankind; the reason
-    is the mother''s hardship in bearing and nursing, thirty months; the reward is the Garden, 46:16).
-    The land promise is dropped and the mother is singled out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 46:15
-  note: 'The ground and the reward of the duty to parents [divergence between the texts] (The parents''
-    commandment with a different reason and reward. Exodus: kabbēḏ ʾeṯ ʾāḇîḵā wə-ʾeṯ ʾimmeḵā ləmaʿan yaʾărîḵûn
-    yāmêḵā ʿal hā-ʾăḏāmâ ʾăšer YHWH ʾĕlōhêḵā nōṯēn lāḵ (Israel; long life on the land). Quran: wa-waṣṣaynā
-    l-insāna bi-wālidayhi iḥsānan ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (all mankind; the reason
-    is the mother''s hardship in bearing and nursing, thirty months; the reward is the Garden, 46:16).
-    The land promise is dropped and the mother is singled out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا
-    وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ
-    سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ
-    وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى
-    مِنَ ٱلْمُسْلِمِينَ
-- tradition: judaism
-  ref: Exod 20:12
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: judaism
-  ref: Exod 20:3
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 46:15
-  note: Honor father and mother, with the promise of long life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا
-    وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ
-    سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ
-    وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى
-    مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The parents'' commandment with a different reason and reward. Exodus: kabbēḏ ʾeṯ ʾāḇîḵā
-    wə-ʾeṯ ʾimmeḵā ləmaʿan yaʾărîḵûn yāmêḵā ʿal hā-ʾăḏāmâ ʾăšer YHWH ʾĕlōhêḵā nōṯēn lāḵ (Israel; long
-    life on the land). Quran: wa-waṣṣaynā l-insāna bi-wālidayhi iḥsānan ḥamalathu ummuhu kurhan wa-waḍaʿathu
-    kurhan (all mankind; the reason is the mother''s hardship in bearing and nursing, thirty months; the
-    reward is the Garden, 46:16). The land promise is dropped and the mother is singled out.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ground and the reward of the duty to parents [divergence between
     the texts] (weight 6.7); Honor father and mother, with the promise of long life (weight 5.3). Pair
@@ -110,6 +54,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The ground and the reward of the duty to parents
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The ground and the reward of the duty to parents
+  note: 'The parents'' commandment with a different reason and reward. Exodus: kabbēḏ ʾeṯ ʾāḇîḵā wə-ʾeṯ
+    ʾimmeḵā ləmaʿan yaʾărîḵûn yāmêḵā ʿal hā-ʾăḏāmâ ʾăšer YHWH ʾĕlōhêḵā nōṯēn lāḵ (Israel; long life on
+    the land). Quran: wa-waṣṣaynā l-insāna bi-wālidayhi iḥsānan ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan
+    (all mankind; the reason is the mother''s hardship in bearing and nursing, thirty months; the reward
+    is the Garden, 46:16). The land promise is dropped and the mother is singled out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:12
+      lang: he
+      text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:15
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ
+        كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ
+        أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ
+        وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى
+        تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
+- kind: shared
+  label: Honor father and mother, with the promise of long life
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:12
+      lang: he
+      text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+    - ref: Exod 20:3
+      lang: he
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:15
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ
+        كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ
+        أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ
+        وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى
+        تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

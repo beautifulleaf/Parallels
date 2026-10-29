@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-18-abraham-bargains-vs-quran-11-abraham-guests
 title: Abraham bargains for Sodom ↔ Abraham's guests, the roasted calf and the laughing wife
-summary: 'These two units share 3 motifs: how abraham learns of sodom''s fate, and his response, how god
-  answers abraham''s plea for the people of sodom [divergence between the texts], hero bargains with god
-  to spare a city for the sake of a few righteous (50 down to 10).'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,124 +15,9 @@ motifs:
 - how-abraham-learns-of-sodoms-fate
 - outcome-of-abrahams-plea-for-sodom-as-divergence
 - bargaining-for-the-city
-passages:
-- tradition: judaism
-  ref: Gen 18:17
-  note: 'How Abraham learns of Sodom''s fate, and his response (Abraham learns that Lot''s people are
-    to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat
-    sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh. In Gen YHWH himself decides to tell him and goes
-    down to see; in Q the messengers state their errand to calm his fear.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהֹוָ֖ה אָמָ֑ר הַֽמְכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה
-- tradition: judaism
-  ref: Gen 18:20
-  note: 'How Abraham learns of Sodom''s fate, and his response (Abraham learns that Lot''s people are
-    to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat
-    sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh. In Gen YHWH himself decides to tell him and goes
-    down to see; in Q the messengers state their errand to calm his fear.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֔ה זַעֲקַ֛ת סְדֹ֥ם וַעֲמֹרָ֖ה כִּי רָ֑בָּה וְחַ֨טָּאתָ֔ם כִּ֥י כָבְדָ֖ה מְאֹֽד
-- tradition: islam
-  ref: Quran 11:70
-  note: 'How Abraham learns of Sodom''s fate, and his response (Abraham learns that Lot''s people are
-    to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat
-    sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh. In Gen YHWH himself decides to tell him and goes
-    down to see; in Q the messengers state their errand to calm his fear.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟
-    لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ
-- tradition: islam
-  ref: Quran 11:74
-  note: 'How Abraham learns of Sodom''s fate, and his response (Abraham learns that Lot''s people are
-    to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat
-    sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh. In Gen YHWH himself decides to tell him and goes
-    down to see; in Q the messengers state their errand to calm his fear.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ
-- tradition: judaism
-  ref: Gen 18:23
-  note: 'How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (Abraham
-    pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh ṣaddîq ʿim-rāšāʿ.
-    The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh)
-    and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu
-    qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
-- tradition: judaism
-  ref: Gen 18:32
-  note: 'How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (Abraham
-    pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh ṣaddîq ʿim-rāšāʿ.
-    The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh)
-    and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu
-    qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יֹּאמֶר אַל נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם
-    עֲשָׂרָ֑ה וַיֹּ֨אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה
-- tradition: islam
-  ref: Quran 11:74
-  note: 'How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (Abraham
-    pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh ṣaddîq ʿim-rāšāʿ.
-    The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh)
-    and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu
-    qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ
-- tradition: islam
-  ref: Quran 11:76
-  note: 'How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (Abraham
-    pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh ṣaddîq ʿim-rāšāʿ.
-    The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh)
-    and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu
-    qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ وَإِنَّهُمْ ءَاتِيهِمْ
-    عَذَابٌ غَيْرُ مَرْدُودٍ
-- tradition: judaism
-  ref: Gen 18:24
-  note: Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אוּלַ֥י יֵ֛שׁ חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר הַאַ֤ף תִּסְפֶּה֙ וְלֹא תִשָּׂ֣א לַמָּק֔וֹם
-    לְמַ֛עַן חֲמִשִּׁ֥ים הַצַּדִּיקִ֖ם אֲשֶׁ֥ר בְּקִרְבָּֽהּ
-- tradition: judaism
-  ref: Gen 18:26
-  note: Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֔ה אִם אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר וְנָשָׂ֥אתִי
-    לְכָל הַמָּק֖וֹם בַּעֲבוּרָֽם
-- tradition: islam
-  ref: Quran 11:74
-  note: Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10) (Abraham
-    disputes for Lot's people; told to desist)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ لُوطٍ
-- tradition: islam
-  ref: Quran 11:76
-  note: Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10) (Abraham
-    disputes for Lot's people; told to desist)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ وَإِنَّهُمْ ءَاتِيهِمْ
-    عَذَابٌ غَيْرُ مَرْدُودٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Abraham learns that Lot''s people are to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh
-    ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh.
-    In Gen YHWH himself decides to tell him and goes down to see; in Q the messengers state their errand
-    to calm his fear. Abraham pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar
-    haʾap tispeh ṣaddîq ʿim-rāšāʿ. The outcome is reversed: in Gen God accepts each lower number down
-    to ten (lōʾ ʾašḥît baʿăbûr hāʿăśārāh) and leaves when Abraham stops; in Q God cuts the plea off at
-    once: yā ibrāhīmu aʿriḍ ʿan hādhā innahu qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham learns of Sodom''s fate, and his response (weight 6.7);
     How God answers Abraham''s plea for the people of Sodom [divergence between the texts] (weight 6.7);
@@ -169,6 +52,103 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Abraham learns of Sodom's fate, and his response
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-11-abraham-guests
+  title: Abraham's guests, the roasted calf and the laughing wife
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Abraham learns of Sodom's fate, and his response
+  note: 'Abraham learns that Lot''s people are to be judged: innā ursilnā ilā qawmi lūṭ vs hamᵉkasseh
+    ʾănî mēʾabrāhām ʾăšer ʾănî ʿōśeh ... zaʿăqat sᵉdōm waʿămōrāh kî-rābbāh ... ʾērădāh-nnāʾ wᵉʾerʾeh.
+    In Gen YHWH himself decides to tell him and goes down to see; in Q the messengers state their errand
+    to calm his fear.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:17
+      lang: he
+      text: וַֽיהֹוָ֖ה אָמָ֑ר הַֽמְכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה
+    - ref: Gen 18:20
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֔ה זַעֲקַ֛ת סְדֹ֥ם וַעֲמֹרָ֖ה כִּי רָ֑בָּה וְחַ֨טָּאתָ֔ם כִּ֥י כָבְדָ֖ה מְאֹֽד
+    - ref: Gen 18:21
+      lang: he
+      text: אֵֽרֲדָה נָּ֣א וְאֶרְאֶ֔ה הַכְּצַעֲקָתָ֛הּ הַבָּ֥אָה אֵלַ֖י עָשׂ֣וּ כָּלָ֑ה וְאִם לֹ֖א אֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:70
+      lang: ar
+      text: فَلَمَّا رَءَآ أَيْدِيَهُمْ لَا تَصِلُ إِلَيْهِ نَكِرَهُمْ وَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟
+        لَا تَخَفْ إِنَّآ أُرْسِلْنَآ إِلَىٰ قَوْمِ لُوطٍ
+    - ref: Quran 11:74
+      lang: ar
+      text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ
+        لُوطٍ
+- kind: divergence
+  label: How God answers Abraham's plea for the people of Sodom
+  note: 'Abraham pleads for Sodom: yujādilunā fī qawmi lūṭ vs wayyiggaš ʾabrāhām wayyōʾmar haʾap tispeh
+    ṣaddîq ʿim-rāšāʿ. The outcome is reversed: in Gen God accepts each lower number down to ten (lōʾ ʾašḥît
+    baʿăbûr hāʿăśārāh) and leaves when Abraham stops; in Q God cuts the plea off at once: yā ibrāhīmu
+    aʿriḍ ʿan hādhā innahu qad jāʾa amru rabbika wa-innahum ātīhim ʿadhābun ghayru mardūd.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:23
+      lang: he
+      text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
+    - ref: Gen 18:32
+      lang: he
+      text: וַ֠יֹּאמֶר אַל נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם
+        עֲשָׂרָ֑ה וַיֹּ֨אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה
+    - ref: Gen 18:33
+      lang: he
+      text: וַיֵּ֣לֶךְ יְהוָ֔ה כַּאֲשֶׁ֣ר כִּלָּ֔ה לְדַבֵּ֖ר אֶל אַבְרָהָ֑ם וְאַבְרָהָ֖ם שָׁ֥ב לִמְקֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:74
+      lang: ar
+      text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ
+        لُوطٍ
+    - ref: Quran 11:76
+      lang: ar
+      text: يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ وَإِنَّهُمْ ءَاتِيهِمْ
+        عَذَابٌ غَيْرُ مَرْدُودٍ
+- kind: shared
+  label: Hero bargains with God to spare a city for the sake of a few righteous (50 down to 10)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:24
+      lang: he
+      text: אוּלַ֥י יֵ֛שׁ חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר הַאַ֤ף תִּסְפֶּה֙ וְלֹא תִשָּׂ֣א לַמָּק֔וֹם
+        לְמַ֛עַן חֲמִשִּׁ֥ים הַצַּדִּיקִ֖ם אֲשֶׁ֥ר בְּקִרְבָּֽהּ
+    - ref: Gen 18:26
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֔ה אִם אֶמְצָ֥א בִסְדֹ֛ם חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר וְנָשָׂ֥אתִי
+        לְכָל הַמָּק֖וֹם בַּעֲבוּרָֽם
+    - ref: Gen 18:28
+      lang: he
+      text: א֠וּלַי יַחְסְר֞וּן חֲמִשִּׁ֤ים הַצַּדִּיקִם֙ חֲמִשָּׁ֔ה הֲתַשְׁחִ֥ית בַּחֲמִשָּׁ֖ה אֶת כָּל
+        הָעִ֑יר וַיֹּ֨אמֶר֙ לֹ֣א אַשְׁחִ֔ית אִם אֶמְצָ֣א שָׁ֔ם אַרְבָּעִ֖ים וַחֲמִשָּֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:74
+      lang: ar
+      text: فَلَمَّا ذَهَبَ عَنْ إِبْرَٰهِيمَ ٱلرَّوْعُ وَجَآءَتْهُ ٱلْبُشْرَىٰ يُجَٰدِلُنَا فِى قَوْمِ
+        لُوطٍ
+    - ref: Quran 11:76
+      lang: ar
+      text: يَٰٓإِبْرَٰهِيمُ أَعْرِضْ عَنْ هَٰذَآ إِنَّهُۥ قَدْ جَآءَ أَمْرُ رَبِّكَ وَإِنَّهُمْ ءَاتِيهِمْ
+        عَذَابٌ غَيْرُ مَرْدُودٍ
+    note: Abraham disputes for Lot's people; told to desist
 ---
 
 ## Questions

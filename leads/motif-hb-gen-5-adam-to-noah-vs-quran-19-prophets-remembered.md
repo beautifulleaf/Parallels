@@ -2,7 +2,7 @@
 id: motif-hb-gen-5-adam-to-noah-vs-quran-19-prophets-remembered
 title: The book of the generations of Adam, Adam to Noah ↔ Moses, Ishmael and Idris remembered; the later
   generation that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 1 motifs: god raised idris to a high place.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - idris-raised-to-high-place
-passages:
-- tradition: judaism
-  ref: Gen 5:22
-  note: 'God raised Idris to a high place (wayyithallēk ḥănôk ʾet-hāʾĕlōhîm wəʾênennû kî-lāqaḥ ʾōtô ʾĕlōhîm;
-    wa-dhkur fī l-kitābi Idrīsa innahu kāna ṣiddīqan nabiyyā wa-rafaʿnāhu makānan ʿaliyyā: a righteous
-    man of the earliest generations whom God took up. Gen''s ''God took him'' becomes Q''s ''raised him
-    to a high place''. The identification of Idrīs with Enoch is exegetical, not in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת
-    שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת
-- tradition: judaism
-  ref: Gen 5:24
-  note: 'God raised Idris to a high place (wayyithallēk ḥănôk ʾet-hāʾĕlōhîm wəʾênennû kî-lāqaḥ ʾōtô ʾĕlōhîm;
-    wa-dhkur fī l-kitābi Idrīsa innahu kāna ṣiddīqan nabiyyā wa-rafaʿnāhu makānan ʿaliyyā: a righteous
-    man of the earliest generations whom God took up. Gen''s ''God took him'' becomes Q''s ''raised him
-    to a high place''. The identification of Idrīs with Enoch is exegetical, not in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 19:56
-  note: God raised Idris to a high place (wa-rafaʿnāhu makānan ʿaliyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِدْرِيسَ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا
-- tradition: islam
-  ref: Quran 19:57
-  note: God raised Idris to a high place (wa-rafaʿnāhu makānan ʿaliyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wayyithallēk ḥănôk ʾet-hāʾĕlōhîm wəʾênennû kî-lāqaḥ ʾōtô ʾĕlōhîm; wa-dhkur fī l-kitābi Idrīsa
-    innahu kāna ṣiddīqan nabiyyā wa-rafaʿnāhu makānan ʿaliyyā: a righteous man of the earliest generations
-    whom God took up. Gen''s ''God took him'' becomes Q''s ''raised him to a high place''. The identification
-    of Idrīs with Enoch is exegetical, not in either text.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised Idris to a high place (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -81,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raised Idris to a high place
+kinds:
+- echo
+units:
+- id: hb-gen-5-adam-to-noah
+  title: The book of the generations of Adam, Adam to Noah
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: echo
+  label: God raised Idris to a high place
+  note: 'wayyithallēk ḥănôk ʾet-hāʾĕlōhîm wəʾênennû kî-lāqaḥ ʾōtô ʾĕlōhîm; wa-dhkur fī l-kitābi Idrīsa
+    innahu kāna ṣiddīqan nabiyyā wa-rafaʿnāhu makānan ʿaliyyā: a righteous man of the earliest generations
+    whom God took up. Gen''s ''God took him'' becomes Q''s ''raised him to a high place''. The identification
+    of Idrīs with Enoch is exegetical, not in either text.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 5:22
+      lang: he
+      text: וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת
+        שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת
+    - ref: Gen 5:24
+      lang: he
+      text: וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 19:56
+      lang: ar
+      text: وَٱذْكُرْ فِى ٱلْكِتَٰبِ إِدْرِيسَ إِنَّهُۥ كَانَ صِدِّيقًا نَّبِيًّا
+    - ref: Quran 19:57
+      lang: ar
+      text: وَرَفَعْنَٰهُ مَكَانًا عَلِيًّا
 ---
 
 ## Questions

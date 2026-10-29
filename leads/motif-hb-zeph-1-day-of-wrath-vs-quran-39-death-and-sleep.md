@@ -2,8 +2,7 @@
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-39-death-and-sleep
 title: Zephaniah's Day of YHWH against Judah ↔ The prophet's mortality; souls taken in sleep; intercession
   belongs to God
-summary: 'These two units share 1 motifs: an earthful of gold would not be accepted as ransom from one
-  who dies unbelieving.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - earthful-of-gold-no-ransom
-passages:
-- tradition: judaism
-  ref: Zeph 1:18
-  note: 'An earthful of gold would not be accepted as ransom from one who dies unbelieving (gam-kaspām
-    gam-zəhāḇām lōʾ-yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. mā fī l-arḍi jamīʿan wa-mithlahu maʿahu la-ftadaw
-    bihi min sūʾi l-ʿadhābi yawma l-qiyāma: silver and gold cannot save on the Day of wrath or of Resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙ קִנְאָת֔וֹ
-    תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 39:47
-  note: An earthful of gold would not be accepted as ransom from one who dies unbelieving (all on earth
-    and as much again would not ransom them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟
-    بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. gam-kaspām gam-zəhāḇām lōʾ-yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. mā fī l-arḍi jamīʿan
-    wa-mithlahu maʿahu la-ftadaw bihi min sūʾi l-ʿadhābi yawma l-qiyāma: silver and gold cannot save on
-    the Day of wrath or of Resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
     dies unbelieving (weight 5.8). Pair score 5.8.'
@@ -71,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+kinds:
+- parallel
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: parallel
+  label: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+  note: 'gam-kaspām gam-zəhāḇām lōʾ-yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. mā fī l-arḍi jamīʿan wa-mithlahu
+    maʿahu la-ftadaw bihi min sūʾi l-ʿadhābi yawma l-qiyāma: silver and gold cannot save on the Day of
+    wrath or of Resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:18
+      lang: he
+      text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙
+        קִנְאָת֔וֹ תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:47
+      lang: ar
+      text: وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟
+        بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟
+        يَحْتَسِبُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-10-who-provides-challenge
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ Who provides and who restores creation; the challenge of the surah
-summary: 'These two units share 1 motifs: the gods are challenged to declare the former things or the
-  things to come so that we may know they are gods; they are nothing.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,59 +15,9 @@ layers:
 - motif
 motifs:
 - gods-challenged-to-predict
-passages:
-- tradition: judaism
-  ref: Isa 41:22-24
-  note: The gods are challenged to declare the former things or the things to come so that we may know
-    they are gods; they are nothing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (41:22) יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה
-    הַגִּ֜ידוּ וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ (41:23) הַגִּ֨ידוּ֙
-    הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף תֵּיטִ֣יבוּ וְתָרֵ֔עוּ וְנִשְׁתָּ֖עָה
-    ונרא וְנִרְאֶ֥ה יַחְדָּֽו (41:24) הֵן אַתֶּ֣ם מֵאַ֔יִן וּפָעָלְכֶ֖ם מֵאָ֑פַע תּוֹעֵבָ֖ה יִבְחַ֥ר בָּכֶֽם
-- tradition: judaism
-  ref: Isa 41:26-29
-  note: The gods are challenged to declare the former things or the things to come so that we may know
-    they are gods; they are nothing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (41:26) מִֽי הִגִּ֤יד מֵרֹאשׁ֙ וְנֵדָ֔עָה וּמִלְּפָנִ֖ים וְנֹאמַ֣ר צַדִּ֑יק אַ֣ף אֵין מַגִּ֗יד
-    אַ֚ף אֵ֣ין מַשְׁמִ֔יעַ אַ֥ף אֵין שֹׁמֵ֖עַ אִמְרֵיכֶֽם (41:27) רִאשׁ֥וֹן לְצִיּ֖וֹן הִנֵּ֣ה הִנָּ֑ם
-    וְלִירוּשָׁלִַ֖ם מְבַשֵּׂ֥ר אֶתֵּֽן (41:28) וְאֵ֨רֶא֙ וְאֵ֣ין אִ֔ישׁ וּמֵאֵ֖לֶּה וְאֵ֣ין יוֹעֵ֑ץ וְאֶשְׁאָלֵ֖ם
-    וְיָשִׁ֥יבוּ דָבָֽר (41:29) הֵ֣ן כֻּלָּ֔ם אָ֥וֶן אֶ֖פֶס מַעֲשֵׂיהֶ֑ם ר֥וּחַ וָתֹ֖הוּ נִסְכֵּיהֶֽם
-- tradition: islam
-  ref: Quran 10:34
-  note: 'The gods are challenged to declare the former things or the things to come so that we may know
-    they are gods; they are nothing (God challenges the other gods to match him: hal min shurakāʾikum
-    man yabdaʾu l-khalqa thumma yuʿīduhu ... hal min shurakāʾikum man yahdī ilā l-ḥaqq; fa-ʾtū bi-sūratin
-    mithlihi vs qārᵉbû rîbᵉkem ... yaggîšû wᵉyaggîdû lānû ... haggîdû hāʾōtiyyôt lᵉʾāḥôr wᵉnēdʿāh kî ʾĕlōhîm
-    ʾattem ... hēn-ʾattem mēʾayin. Isa''s test is foretelling; Q''s tests are creating anew, guiding to
-    truth and producing a surah like the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ قُلِ ٱللَّهُ يَبْدَؤُا۟
-    ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ فَأَنَّىٰ تُؤْفَكُونَ
-- tradition: islam
-  ref: Quran 10:35
-  note: 'The gods are challenged to declare the former things or the things to come so that we may know
-    they are gods; they are nothing (God challenges the other gods to match him: hal min shurakāʾikum
-    man yabdaʾu l-khalqa thumma yuʿīduhu ... hal min shurakāʾikum man yahdī ilā l-ḥaqq; fa-ʾtū bi-sūratin
-    mithlihi vs qārᵉbû rîbᵉkem ... yaggîšû wᵉyaggîdû lānû ... haggîdû hāʾōtiyyôt lᵉʾāḥôr wᵉnēdʿāh kî ʾĕlōhîm
-    ʾattem ... hēn-ʾattem mēʾayin. Isa''s test is foretelling; Q''s tests are creating anew, guiding to
-    truth and producing a surah like the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ أَفَمَن
-    يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ فَمَا لَكُمْ
-    كَيْفَ تَحْكُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God challenges the other gods to match him: hal min shurakāʾikum man yabdaʾu l-khalqa thumma
-    yuʿīduhu ... hal min shurakāʾikum man yahdī ilā l-ḥaqq; fa-ʾtū bi-sūratin mithlihi vs qārᵉbû rîbᵉkem
-    ... yaggîšû wᵉyaggîdû lānû ... haggîdû hāʾōtiyyôt lᵉʾāḥôr wᵉnēdʿāh kî ʾĕlōhîm ʾattem ... hēn-ʾattem
-    mēʾayin. Isa''s test is foretelling; Q''s tests are creating anew, guiding to truth and producing
-    a surah like the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The gods are challenged to declare the former things or the things
     to come so that we may know they are gods; they are nothing (weight 6.3). Pair score 6.3.'
@@ -102,6 +51,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The gods are challenged to declare the former things or the things to come so that we may know
+  they are gods; they are nothing
+kinds:
+- parallel
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: parallel
+  label: The gods are challenged to declare the former things or the things to come so that we may know
+    they are gods; they are nothing
+  note: 'God challenges the other gods to match him: hal min shurakāʾikum man yabdaʾu l-khalqa thumma
+    yuʿīduhu ... hal min shurakāʾikum man yahdī ilā l-ḥaqq; fa-ʾtū bi-sūratin mithlihi vs qārᵉbû rîbᵉkem
+    ... yaggîšû wᵉyaggîdû lānû ... haggîdû hāʾōtiyyôt lᵉʾāḥôr wᵉnēdʿāh kî ʾĕlōhîm ʾattem ... hēn-ʾattem
+    mēʾayin. Isa''s test is foretelling; Q''s tests are creating anew, guiding to truth and producing
+    a surah like the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:21
+      lang: he
+      text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
+    - ref: Isa 41:22
+      lang: he
+      text: יַגִּ֨ישׁוּ֙ וְיַגִּ֣ידוּ לָ֔נוּ אֵ֖ת אֲשֶׁ֣ר תִּקְרֶ֑ינָה הָרִאשֹׁנ֣וֹת מָ֣ה הֵ֗נָּה הַגִּ֜ידוּ
+        וְנָשִׂ֤ימָה לִבֵּ֨נוּ֙ וְנֵדְעָ֣ה אַחֲרִיתָ֔ן א֥וֹ הַבָּא֖וֹת הַשְׁמִיעֻֽנוּ
+    - ref: Isa 41:23
+      lang: he
+      text: הַגִּ֨ידוּ֙ הָאֹתִיּ֣וֹת לְאָח֔וֹר וְנֵ֣דְעָ֔ה כִּ֥י אֱלֹהִ֖ים אַתֶּ֑ם אַף תֵּיטִ֣יבוּ וְתָרֵ֔עוּ
+        וְנִשְׁתָּ֖עָה ונרא וְנִרְאֶ֥ה יַחְדָּֽו
+  - tradition: islam
+    passages:
+    - ref: Quran 10:34
+      lang: ar
+      text: قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ قُلِ ٱللَّهُ يَبْدَؤُا۟
+        ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ فَأَنَّىٰ تُؤْفَكُونَ
+    - ref: Quran 10:35
+      lang: ar
+      text: قُلْ هَلْ مِن شُرَكَآئِكُم مَّن يَهْدِىٓ إِلَى ٱلْحَقِّ قُلِ ٱللَّهُ يَهْدِى لِلْحَقِّ أَفَمَن
+        يَهْدِىٓ إِلَى ٱلْحَقِّ أَحَقُّ أَن يُتَّبَعَ أَمَّن لَّا يَهِدِّىٓ إِلَّآ أَن يُهْدَىٰ فَمَا
+        لَكُمْ كَيْفَ تَحْكُمُونَ
+    - ref: Quran 10:38
+      lang: ar
+      text: أَمْ يَقُولُونَ ٱفْتَرَىٰهُ قُلْ فَأْتُوا۟ بِسُورَةٍ مِّثْلِهِۦ وَٱدْعُوا۟ مَنِ ٱسْتَطَعْتُم
+        مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

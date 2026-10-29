@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-11-babel-vs-quran-10-ingratitude-sea
 title: The Tower of Babel ↔ Prayer in distress, a changed Quran, the storm at sea
-summary: 'These two units share 2 motifs: all humanity once spoke one language, humankind was originally
-  one (in speech or community) and then divided [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,69 +14,9 @@ layers:
 motifs:
 - one-original-language
 - original-unity-of-humankind-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 11:1
-  note: All humanity once spoke one language
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
-- tradition: judaism
-  ref: Gen 11:6
-  note: All humanity once spoke one language
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת וְעַתָּה֙
-    לֹֽא יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 10:19
-  note: All humanity once spoke one language (one umma, not one language; interpretation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن
-    رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
-- tradition: judaism
-  ref: Gen 11:1
-  note: 'Humankind was originally one (in speech or community) and then divided [divergence between the
-    texts] (Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū
-    vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām.
-    Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall
-    into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones
-    the judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
-- tradition: judaism
-  ref: Gen 11:6
-  note: 'Humankind was originally one (in speech or community) and then divided [divergence between the
-    texts] (Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū
-    vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām.
-    Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall
-    into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones
-    the judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת וְעַתָּה֙
-    לֹֽא יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 10:19
-  note: 'Humankind was originally one (in speech or community) and then divided [divergence between the
-    texts] (Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū
-    vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām.
-    Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall
-    into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones
-    the judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِن
-    رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū
-    vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām.
-    Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall
-    into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones
-    the judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All humanity once spoke one language (weight 6.7); Humankind was
     originally one (in speech or community) and then divided [divergence between the texts] (weight 6.7).
@@ -111,6 +50,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humankind was originally one (in speech or community) and then divided
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-11-babel
+  title: The Tower of Babel
+  tradition: judaism
+- id: quran-10-ingratitude-sea
+  title: Prayer in distress, a changed Quran, the storm at sea
+  tradition: islam
+matches:
+- kind: divergence
+  label: Humankind was originally one (in speech or community) and then divided
+  note: 'Original unity of humankind, then division: wa-mā kāna n-nāsu illā ummatan wāḥidatan fa-khtalafū
+    vs wayᵉhî kol-hāʾāreṣ śāpāh ʾeḥāt ... hēn ʿam ʾeḥād wᵉśāpāh ʾaḥat lᵉkullām ... wayyāpeṣ YHWH ʾōtām.
+    Who divides and in what: in Gen God confuses the language and scatters them; in Q the people fall
+    into disagreement themselves (about religion), and a prior word of God (kalimatun sabaqat) postpones
+    the judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:1
+      lang: he
+      text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
+    - ref: Gen 11:6
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת
+        וְעַתָּה֙ לֹֽא יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת
+    - ref: Gen 11:8
+      lang: he
+      text: וַיָּ֨פֶץ יְהוָ֥ה אֹתָ֛ם מִשָּׁ֖ם עַל פְּנֵ֣י כָל הָאָ֑רֶץ וַֽיַּחְדְּל֖וּ לִבְנֹ֥ת הָעִֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 10:19
+      lang: ar
+      text: وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ
+        مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
+- kind: shared
+  label: All humanity once spoke one language
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:1
+      lang: he
+      text: וַֽיְהִ֥י כָל הָאָ֖רֶץ שָׂפָ֣ה אֶחָ֑ת וּדְבָרִ֖ים אֲחָדִֽים
+    - ref: Gen 11:6
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה הֵ֣ן עַ֤ם אֶחָד֙ וְשָׂפָ֤ה אַחַת֙ לְכֻלָּ֔ם וְזֶ֖ה הַחִלָּ֣ם לַעֲשׂ֑וֹת
+        וְעַתָּה֙ לֹֽא יִבָּצֵ֣ר מֵהֶ֔ם כֹּ֛ל אֲשֶׁ֥ר יָזְמ֖וּ לַֽעֲשֽׂוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 10:19
+      lang: ar
+      text: وَمَا كَانَ ٱلنَّاسُ إِلَّآ أُمَّةً وَٰحِدَةً فَٱخْتَلَفُوا۟ وَلَوْلَا كَلِمَةٌ سَبَقَتْ
+        مِن رَّبِّكَ لَقُضِىَ بَيْنَهُمْ فِيمَا فِيهِ يَخْتَلِفُونَ
+    note: one umma, not one language; interpretation
 ---
 
 ## Questions

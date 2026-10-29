@@ -2,8 +2,7 @@
 id: motif-hb-lam-2-god-as-enemy-vs-quran-5-hand-fettered
 title: 'Lamentations 2: the Lord became like an enemy; children faint in the streets ↔ ''God''s hand is
   fettered''; the blessings of observing the Torah'
-summary: 'These two units share 1 motifs: jews quoted as saying ''god''s hand is fettered''; rather both
-  his hands are outspread.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - gods-hand-fettered-claim
-passages:
-- tradition: judaism
-  ref: Lam 2:3
-  note: 'Jews quoted as saying ''God''s hand is fettered''; rather both his hands are outspread (Lam,
-    Israel''s own lament: hēšîv ʾāḥôr yəmînô mip-pənê ʾôyēv, God has drawn back his right hand. Q 5:64
-    cites as a Jewish saying yadu llāhi maghlūlatun and rejects it. The lament motif of the withdrawn
-    divine hand becomes a quoted claim that is refuted.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּדַ֣ע בָּֽחֳרִי אַ֗ף כֹּ֚ל קֶ֣רֶן יִשְׂרָאֵ֔ל הֵשִׁ֥יב אָח֛וֹר יְמִינ֖וֹ מִפְּנֵ֣י אוֹיֵ֑ב וַיִּבְעַ֤ר
-    בְּיַעֲקֹב֙ כְּאֵ֣שׁ לֶֽהָבָ֔ה אָכְלָ֖ה סָבִֽיב
-- tradition: islam
-  ref: Quran 5:64
-  note: Jews quoted as saying 'God's hand is fettered'; rather both his hands are outspread
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ
-    يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ
-    مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ
-    ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ
-    فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Lam, Israel''s own lament: hēšîv ʾāḥôr yəmînô mip-pənê ʾôyēv, God has drawn back his right hand.
-    Q 5:64 cites as a Jewish saying yadu llāhi maghlūlatun and rejects it. The lament motif of the withdrawn
-    divine hand becomes a quoted claim that is refuted.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jews quoted as saying ''God''s hand is fettered''; rather both his
     hands are outspread (weight 6.7). Pair score 6.7.'
@@ -74,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Jews quoted as saying 'God's hand is fettered'; rather both his hands are outspread
+kinds:
+- echo
+units:
+- id: hb-lam-2-god-as-enemy
+  title: 'Lamentations 2: the Lord became like an enemy; children faint in the streets'
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: echo
+  label: Jews quoted as saying 'God's hand is fettered'; rather both his hands are outspread
+  note: 'Lam, Israel''s own lament: hēšîv ʾāḥôr yəmînô mip-pənê ʾôyēv, God has drawn back his right hand.
+    Q 5:64 cites as a Jewish saying yadu llāhi maghlūlatun and rejects it. The lament motif of the withdrawn
+    divine hand becomes a quoted claim that is refuted.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lam 2:3
+      lang: he
+      text: גָּדַ֣ע בָּֽחֳרִי אַ֗ף כֹּ֚ל קֶ֣רֶן יִשְׂרָאֵ֔ל הֵשִׁ֥יב אָח֛וֹר יְמִינ֖וֹ מִפְּנֵ֣י אוֹיֵ֑ב
+        וַיִּבְעַ֤ר בְּיַעֲקֹב֙ כְּאֵ֣שׁ לֶֽהָבָ֔ה אָכְלָ֖ה סָבִֽיב
+  - tradition: islam
+    passages:
+    - ref: Quran 5:64
+      lang: ar
+      text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟
+        بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ
+        إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ
+        إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ
+        فِى ٱلْأَرْضِ فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 ---
 
 ## Questions

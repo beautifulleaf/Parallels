@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-18-close
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Those whose works are weightless; the sea
   as ink (Surah 18:102-110)
-summary: 'These two units share 1 motifs: if the sea were ink for god''s words it would run dry before
-  they ran out, even with another sea.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - sea-as-ink-for-gods-words
-passages:
-- tradition: judaism
-  ref: Ps 139:17
-  note: 'If the sea were ink for God''s words it would run dry before they ran out, even with another
-    sea (mah-yyāqərû rēʿêkā ʾēl ... ʾesp̄ərēm mēḥôl yirbûn; law kāna l-baḥru midādan li-kalimāti rabbī
-    la-nafida l-baḥru qabla an tanfada kalimātu rabbī: God''s thoughts or words are endless, measured
-    against the sea or its sand. Cf. the rabbinic ''if all the seas were ink'' topos (b. Shabbat 11a),
-    which is not in the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלִ֗י מַה יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם
-- tradition: judaism
-  ref: Ps 139:18
-  note: 'If the sea were ink for God''s words it would run dry before they ran out, even with another
-    sea (mah-yyāqərû rēʿêkā ʾēl ... ʾesp̄ərēm mēḥôl yirbûn; law kāna l-baḥru midādan li-kalimāti rabbī
-    la-nafida l-baḥru qabla an tanfada kalimātu rabbī: God''s thoughts or words are endless, measured
-    against the sea or its sand. Cf. the rabbinic ''if all the seas were ink'' topos (b. Shabbat 11a),
-    which is not in the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֭סְפְּרֵם מֵח֣וֹל יִרְבּ֑וּן הֱ֝קִיצֹ֗תִי וְעוֹדִ֥י עִמָּֽךְ
-- tradition: islam
-  ref: Quran 18:109
-  note: If the sea were ink for God's words it would run dry before they ran out, even with another sea
-    (the sea would run out before the words of my Lord, even with another like it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ كَلِمَٰتُ
-    رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. mah-yyāqərû rēʿêkā ʾēl ... ʾesp̄ərēm mēḥôl yirbûn; law kāna l-baḥru midādan li-kalimāti rabbī
-    la-nafida l-baḥru qabla an tanfada kalimātu rabbī: God''s thoughts or words are endless, measured
-    against the sea or its sand. Cf. the rabbinic ''if all the seas were ink'' topos (b. Shabbat 11a),
-    which is not in the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If the sea were ink for God''s words it would run dry before they
     ran out, even with another sea (weight 6.7). Pair score 6.7.'
@@ -82,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If the sea were ink for God's words it would run dry before they ran out, even with another sea
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-18-close
+  title: Those whose works are weightless; the sea as ink (Surah 18:102-110)
+  tradition: islam
+matches:
+- kind: echo
+  label: If the sea were ink for God's words it would run dry before they ran out, even with another sea
+  note: 'mah-yyāqərû rēʿêkā ʾēl ... ʾesp̄ərēm mēḥôl yirbûn; law kāna l-baḥru midādan li-kalimāti rabbī
+    la-nafida l-baḥru qabla an tanfada kalimātu rabbī: God''s thoughts or words are endless, measured
+    against the sea or its sand. Cf. the rabbinic ''if all the seas were ink'' topos (b. Shabbat 11a),
+    which is not in the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:17
+      lang: he
+      text: וְלִ֗י מַה יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל מֶ֥ה עָ֝צְמוּ רָאשֵׁיהֶֽם
+    - ref: Ps 139:18
+      lang: he
+      text: אֶ֭סְפְּרֵם מֵח֣וֹל יִרְבּ֑וּן הֱ֝קִיצֹ֗תִי וְעוֹדִ֥י עִמָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:109
+      lang: ar
+      text: قُل لَّوْ كَانَ ٱلْبَحْرُ مِدَادًا لِّكَلِمَٰتِ رَبِّى لَنَفِدَ ٱلْبَحْرُ قَبْلَ أَن تَنفَدَ
+        كَلِمَٰتُ رَبِّى وَلَوْ جِئْنَا بِمِثْلِهِۦ مَدَدًا
 ---
 
 ## Questions

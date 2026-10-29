@@ -2,8 +2,7 @@
 id: motif-hb-prov-19-sayings-vs-quran-64-taghabun-day-of-loss-and-household-enemies
 title: 'Sayings on the poor, the king''s wrath and the sluggard ↔ Al-Taghabun: forms made beautiful, the
   Day of Mutual Loss, enemies among wives and children, and the goodly loan'
-summary: 'These two units share 1 motifs: who will lend god a goodly loan (qard hasan), that he may multiply
-  it for him?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - goodly-loan-to-god-doubled
-passages:
-- tradition: judaism
-  ref: Prov 19:17
-  note: 'Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (in tuqriḍū llāha
-    qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô: giving is a loan to God
-    that he repays. The Quran says ''doubles it''; Proverbs specifies the loan is mercy to the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 64:17
-  note: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ وَٱللَّهُ شَكُورٌ
-    حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. in tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem
-    lô: giving is a loan to God that he repays. The Quran says ''doubles it''; Proverbs specifies the
-    loan is mercy to the poor.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who will lend God a goodly loan (qard hasan), that he may multiply
     it for him? (weight 5.4). Pair score 5.4.'
@@ -74,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+kinds:
+- parallel
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-64-taghabun-day-of-loss-and-household-enemies
+  title: 'Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
+    and the goodly loan'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+  note: 'in tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô:
+    giving is a loan to God that he repays. The Quran says ''doubles it''; Proverbs specifies the loan
+    is mercy to the poor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 64:17
+      lang: ar
+      text: إِن تُقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا يُضَٰعِفْهُ لَكُمْ وَيَغْفِرْ لَكُمْ وَٱللَّهُ شَكُورٌ
+        حَلِيمٌ
 ---
 
 ## Questions

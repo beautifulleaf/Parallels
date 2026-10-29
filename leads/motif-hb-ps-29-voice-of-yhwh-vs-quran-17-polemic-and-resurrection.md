@@ -2,7 +2,7 @@
 id: motif-hb-ps-29-voice-of-yhwh-vs-quran-17-polemic-and-resurrection
 title: Psalm 29 - the voice of YHWH over the waters ↔ Daughters of God, all things glorify him, bones
   and dust, the cursed tree (Surah 17:40-60)
-summary: 'These two units share 1 motifs: god gave david the psalms (zabur).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - david-given-the-psalms
-passages:
-- tradition: judaism
-  ref: Ps 29:1
-  note: 'God gave David the Psalms (Zabur) (mizmôr lədāwid; wa-ātaynā Dāwūda zabūrā: psalmody tied to
-    David. In the HB the attribution is a superscription; in Q David is a scripture-bearer given a book
-    by God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִזְמ֗וֹר לְדָ֫וִ֥ד הָב֣וּ לַֽ֭יהוָה בְּנֵ֣י אֵלִ֑ים הָב֥וּ לַ֝יהוָ֗ה כָּב֥וֹד וָעֹֽז
-- tradition: islam
-  ref: Quran 17:55
-  note: God gave David the Psalms (Zabur) (wa-ātaynā Dāwūda zabūran)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ
-    عَلَىٰ بَعْضٍ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. mizmôr lədāwid; wa-ātaynā Dāwūda zabūrā: psalmody tied to David. In the HB the attribution is
-    a superscription; in Q David is a scripture-bearer given a book by God.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -68,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gave David the Psalms (Zabur)
+kinds:
+- echo
+units:
+- id: hb-ps-29-voice-of-yhwh
+  title: Psalm 29 - the voice of YHWH over the waters
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: echo
+  label: God gave David the Psalms (Zabur)
+  note: 'mizmôr lədāwid; wa-ātaynā Dāwūda zabūrā: psalmody tied to David. In the HB the attribution is
+    a superscription; in Q David is a scripture-bearer given a book by God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 29:1
+      lang: he
+      text: מִזְמ֗וֹר לְדָ֫וִ֥ד הָב֣וּ לַֽ֭יהוָה בְּנֵ֣י אֵלִ֑ים הָב֥וּ לַ֝יהוָ֗ה כָּב֥וֹד וָעֹֽז
+  - tradition: islam
+    passages:
+    - ref: Quran 17:55
+      lang: ar
+      text: وَرَبُّكَ أَعْلَمُ بِمَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَقَدْ فَضَّلْنَا بَعْضَ ٱلنَّبِيِّۦنَ
+        عَلَىٰ بَعْضٍ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا
 ---
 
 ## Questions

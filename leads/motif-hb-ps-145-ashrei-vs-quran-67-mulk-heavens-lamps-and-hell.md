@@ -2,8 +2,7 @@
 id: motif-hb-ps-145-ashrei-vs-quran-67-mulk-heavens-lamps-and-hell
 title: 'Psalm 145, acrostic praise of the King (Ashrei) ↔ Al-Mulk: death and life as test, seven flawless
   heavens, stars as missiles against devils, hell nearly bursting with rage'
-summary: 'These two units share 1 motifs: ''your kingdom is a kingdom of all ages and your dominion through
-  all generations''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - everlasting-kingdom-of-god
-passages:
-- tradition: judaism
-  ref: Ps 145:1
-  note: '''Your kingdom is a kingdom of all ages and your dominion through all generations'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּהִלָּ֗ה לְדָ֫וִ֥ד אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרֲכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 145:11-13
-  note: '''Your kingdom is a kingdom of all ages and your dominion through all generations'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (145:11) כְּב֣וֹד מַלְכוּתְךָ֣ יֹאמֵ֑רוּ וּגְבוּרָתְךָ֥ יְדַבֵּֽרוּ (145:12) לְהוֹדִ֤יעַ לִבְנֵ֣י
-    הָ֭אָדָם גְּבוּרֹתָ֑יו וּ֝כְב֗וֹד הֲדַ֣ר מַלְכוּתֽוֹ (145:13) מַֽלְכוּתְךָ֗ מַלְכ֥וּת כָּל עֹֽלָמִ֑ים
-    וּ֝מֶֽמְשֶׁלְתְּךָ֗ בְּכָל דּ֥וֹר וָדֽוֹר
-- tradition: islam
-  ref: Quran 67:1
-  note: '''Your kingdom is a kingdom of all ages and your dominion through all generations'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. tabāraka lladhī bi-yadihi l-mulku ~ malkûtekā malkût kol ʿōlāmîm û-memšaltekā be-kol dôr wā-dôr.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Your kingdom is a kingdom of all ages and your dominion through
     all generations'' (weight 6.0). Pair score 6.0.'
@@ -73,6 +51,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Your kingdom is a kingdom of all ages and your dominion through all generations'''
+kinds:
+- echo
+units:
+- id: hb-ps-145-ashrei
+  title: Psalm 145, acrostic praise of the King (Ashrei)
+  tradition: judaism
+- id: quran-67-mulk-heavens-lamps-and-hell
+  title: 'Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils, hell
+    nearly bursting with rage'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Your kingdom is a kingdom of all ages and your dominion through all generations'''
+  note: tabāraka lladhī bi-yadihi l-mulku ~ malkûtekā malkût kol ʿōlāmîm û-memšaltekā be-kol dôr wā-dôr.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 145:13
+      lang: he
+      text: מַֽלְכוּתְךָ֗ מַלְכ֥וּת כָּל עֹֽלָמִ֑ים וּ֝מֶֽמְשֶׁלְתְּךָ֗ בְּכָל דּ֥וֹר וָדֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 67:1
+      lang: ar
+      text: تَبَٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

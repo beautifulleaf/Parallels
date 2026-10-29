@@ -2,7 +2,7 @@
 id: motif-hb-jer-26-temple-sermon-trial-vs-quran-10-ingratitude-sea
 title: Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed ↔ Prayer in distress,
   a changed Quran, the storm at sea
-summary: 'These two units share 1 motifs: command not to add to or subtract from the divine words.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - no-adding-or-subtracting
-passages:
-- tradition: judaism
-  ref: Jer 26:2
-  note: Command not to add to or subtract from the divine words
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה עֲמֹד֮ בַּחֲצַ֣ר בֵּית יְהוָה֒ וְדִבַּרְתָּ֞ עַל כָּל עָרֵ֣י יְהוּדָ֗ה הַבָּאִים֙
-    לְהִשְׁתַּחֲוֺ֣ת בֵּית יְהוָ֔ה אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁ֥ר צִוִּיתִ֖יךָ לְדַבֵּ֣ר אֲלֵיהֶ֑ם אַל
-    תִּגְרַ֖ע דָּבָֽר
-- tradition: islam
-  ref: Quran 10:15
-  note: 'Command not to add to or subtract from the divine words (The revealed word may not be altered:
-    qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu
-    min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ
-    بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ
-    إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ
-- tradition: islam
-  ref: Quran 10:16
-  note: 'Command not to add to or subtract from the divine words (The revealed word may not be altered:
-    qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu
-    min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ فِيكُمْ
-    عُمُرًا مِّن قَبْلِهِۦٓ أَفَلَا تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The prophet himself is bound to the exact word against an audience that wants something else:
-    ʾēt kol-haddᵉbārîm ʾăšer ṣiwwîtîkā lᵉdabbēr ʾălêhem ʾal-tigraʿ dābār vs in attabiʿu illā mā yūḥā ilayya.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Command not to add to or subtract from the divine words (weight
     6.0). Pair score 6.0.'
@@ -82,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Command not to add to or subtract from the divine words
+kinds:
+- echo
+units:
+- id: hb-jer-26-temple-sermon-trial
+  title: Jeremiah tried for prophesying the temple will become like Shiloh; Uriah executed
+  tradition: judaism
+- id: quran-10-ingratitude-sea
+  title: Prayer in distress, a changed Quran, the storm at sea
+  tradition: islam
+matches:
+- kind: echo
+  label: Command not to add to or subtract from the divine words
+  note: 'The prophet himself is bound to the exact word against an audience that wants something else:
+    ʾēt kol-haddᵉbārîm ʾăšer ṣiwwîtîkā lᵉdabbēr ʾălêhem ʾal-tigraʿ dābār vs in attabiʿu illā mā yūḥā ilayya.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 26:2
+      lang: he
+      text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה עֲמֹד֮ בַּחֲצַ֣ר בֵּית יְהוָה֒ וְדִבַּרְתָּ֞ עַל כָּל עָרֵ֣י יְהוּדָ֗ה
+        הַבָּאִים֙ לְהִשְׁתַּחֲוֺ֣ת בֵּית יְהוָ֔ה אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁ֥ר צִוִּיתִ֖יךָ לְדַבֵּ֣ר
+        אֲלֵיהֶ֑ם אַל תִּגְרַ֖ע דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 10:15
+      lang: ar
+      text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا
+        ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ
+        نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ
+        يَوْمٍ عَظِيمٍ
 ---
 
 ## Questions

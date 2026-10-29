@@ -2,7 +2,7 @@
 id: motif-hb-num-31-midian-war-vs-quran-7-dog-parable
 title: War against Midian and division of the spoils ↔ The man who sloughed off God's signs (the panting
   dog)
-summary: 'These two units share 1 motifs: foreign seer blamed for advising the seduction that led to apostasy.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - seer-advised-seduction
-passages:
-- tradition: judaism
-  ref: Num 31:16
-  note: Foreign seer blamed for advising the seduction that led to apostasy (bi-dvar Bil'am)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֣ן הֵ֜נָּה הָי֨וּ לִבְנֵ֤י יִשְׂרָאֵל֙ בִּדְבַ֣ר בִּלְעָ֔ם לִמְסָר מַ֥עַל בַּיהוָ֖ה עַל דְּבַר
-    פְּע֑וֹר וַתְּהִ֥י הַמַּגֵּפָ֖ה בַּעֲדַ֥ת יְהוָֽה
-- tradition: islam
-  ref: Quran 7:175
-  note: 'Foreign seer blamed for advising the seduction that led to apostasy (The other Balaam of the
-    Torah, who goes wrong: hēn hēnnāh hāyû libnê yiśrāʾēl bidbar bilʿām limsor-maʿal baYHWH ʿal-dᵉbar
-    pᵉʿôr vs fa-nsalakha minhā ... fa-kāna mina l-ghāwīn. If the identification holds, Q''s portrait fits
-    this verse, not Num 22-24.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ ٱلشَّيْطَٰنُ
-    فَكَانَ مِنَ ٱلْغَاوِينَ
-- tradition: islam
-  ref: Quran 7:176
-  note: 'Foreign seer blamed for advising the seduction that led to apostasy (The other Balaam of the
-    Torah, who goes wrong: hēn hēnnāh hāyû libnê yiśrāʾēl bidbar bilʿām limsor-maʿal baYHWH ʿal-dᵉbar
-    pᵉʿôr vs fa-nsalakha minhā ... fa-kāna mina l-ghāwīn. If the identification holds, Q''s portrait fits
-    this verse, not Num 22-24.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ
-    فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ذَّٰلِكَ مَثَلُ
-    ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The other Balaam of the Torah, who goes wrong: hēn hēnnāh hāyû libnê yiśrāʾēl bidbar bilʿām
-    limsor-maʿal baYHWH ʿal-dᵉbar pᵉʿôr vs fa-nsalakha minhā ... fa-kāna mina l-ghāwīn. If the identification
-    holds, Q''s portrait fits this verse, not Num 22-24.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Foreign seer blamed for advising the seduction that led to apostasy
     (weight 6.7). Pair score 6.7.'
@@ -75,6 +44,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Foreign seer blamed for advising the seduction that led to apostasy
+kinds:
+- echo
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-7-dog-parable
+  title: The man who sloughed off God's signs (the panting dog)
+  tradition: islam
+matches:
+- kind: echo
+  label: Foreign seer blamed for advising the seduction that led to apostasy
+  note: 'The other Balaam of the Torah, who goes wrong: hēn hēnnāh hāyû libnê yiśrāʾēl bidbar bilʿām limsor-maʿal
+    baYHWH ʿal-dᵉbar pᵉʿôr vs fa-nsalakha minhā ... fa-kāna mina l-ghāwīn. If the identification holds,
+    Q''s portrait fits this verse, not Num 22-24.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:16
+      lang: he
+      text: הֵ֣ן הֵ֜נָּה הָי֨וּ לִבְנֵ֤י יִשְׂרָאֵל֙ בִּדְבַ֣ר בִּלְעָ֔ם לִמְסָר מַ֥עַל בַּיהוָ֖ה עַל
+        דְּבַר פְּע֑וֹר וַתְּהִ֥י הַמַּגֵּפָ֖ה בַּעֲדַ֥ת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:175
+      lang: ar
+      text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ
+        ٱلشَّيْطَٰنُ فَكَانَ مِنَ ٱلْغَاوِينَ
+    - ref: Quran 7:176
+      lang: ar
+      text: وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ
+        فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ذَّٰلِكَ
+        مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
 ---
 
 ## Questions

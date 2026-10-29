@@ -2,8 +2,7 @@
 id: motif-hb-1chr-23-levite-census-and-duties-vs-quran-7-closing-recitation
 title: Solomon made king; Levites counted, divided and assigned duties ↔ Forbearance, refuge from Satan,
   and the prostration of the near ones
-summary: 'These two units share 2 motifs: god praised morning and evening [divergence between the texts],
-  levites stand every morning and evening to thank and praise yhwh.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,47 +15,9 @@ layers:
 motifs:
 - morning-and-evening-praise-as-divergence
 - daily-morning-evening-praise
-passages:
-- tradition: judaism
-  ref: 1Chr 23:30
-  note: 'God praised morning and evening [divergence between the texts] (God praised morning and evening:
-    wa-dhkur rabbaka ... bi-l-ghuduwwi wa-l-āṣāli vs laʿămōd babbōqer babbōqer lᵉhōdôt ûlᵉhallēl laYHWH
-    wᵉkēn lāʿāreb. The setting is changed: in Chr a Levitical office of public praise in the temple; in
-    Q each believer''s private remembrance ''within yourself, without loud speech'' (fī nafsika ... wa-dūna
-    l-jahri mina l-qawl).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
-- tradition: islam
-  ref: Quran 7:205
-  note: 'God praised morning and evening [divergence between the texts] (God praised morning and evening:
-    wa-dhkur rabbaka ... bi-l-ghuduwwi wa-l-āṣāli vs laʿămōd babbōqer babbōqer lᵉhōdôt ûlᵉhallēl laYHWH
-    wᵉkēn lāʿāreb. The setting is changed: in Chr a Levitical office of public praise in the temple; in
-    Q each believer''s private remembrance ''within yourself, without loud speech'' (fī nafsika ... wa-dūna
-    l-jahri mina l-qawl).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
-    وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
-- tradition: judaism
-  ref: 1Chr 23:30
-  note: Levites stand every morning and evening to thank and praise YHWH
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
-- tradition: islam
-  ref: Quran 7:205
-  note: Levites stand every morning and evening to thank and praise YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
-    وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God praised morning and evening: wa-dhkur rabbaka ... bi-l-ghuduwwi wa-l-āṣāli vs laʿămōd
-    babbōqer babbōqer lᵉhōdôt ûlᵉhallēl laYHWH wᵉkēn lāʿāreb. The setting is changed: in Chr a Levitical
-    office of public praise in the temple; in Q each believer''s private remembrance ''within yourself,
-    without loud speech'' (fī nafsika ... wa-dūna l-jahri mina l-qawl).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God praised morning and evening [divergence between the texts] (weight
     6.7); Levites stand every morning and evening to thank and praise YHWH (weight 6.3). Pair score 13.0.'
@@ -87,6 +48,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God praised morning and evening
+kinds:
+- divergence
+- shared
+units:
+- id: hb-1chr-23-levite-census-and-duties
+  title: Solomon made king; Levites counted, divided and assigned duties
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: divergence
+  label: God praised morning and evening
+  note: 'God praised morning and evening: wa-dhkur rabbaka ... bi-l-ghuduwwi wa-l-āṣāli vs laʿămōd babbōqer
+    babbōqer lᵉhōdôt ûlᵉhallēl laYHWH wᵉkēn lāʿāreb. The setting is changed: in Chr a Levitical office
+    of public praise in the temple; in Q each believer''s private remembrance ''within yourself, without
+    loud speech'' (fī nafsika ... wa-dūna l-jahri mina l-qawl).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 23:30
+      lang: he
+      text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:205
+      lang: ar
+      text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
+        وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
+- kind: shared
+  label: Levites stand every morning and evening to thank and praise YHWH
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 23:30
+      lang: he
+      text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:205
+      lang: ar
+      text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
+        وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-14-rebellion-verdict-vs-quran-2-exodus-calf
 title: Rebellion after the spies' report and the forty-year sentence ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: people propose appointing a leader to go back to egypt, the
-  people grumble against their leaders about food or water.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,51 +15,7 @@ layers:
 motifs:
 - appoint-head-return-egypt
 - murmuring-in-wilderness
-passages:
-- tradition: judaism
-  ref: Num 14:4
-  note: People propose appointing a leader to go back to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֖וּ אִ֣ישׁ אֶל אָחִ֑יו נִתְּנָ֥ה רֹ֖אשׁ וְנָשׁ֥וּבָה מִצְרָֽיְמָה
-- tradition: islam
-  ref: Quran 2:61
-  note: 'People propose appointing a leader to go back to Egypt (Neh 9:17 wa-yyittĕnû rōʾš lāšûb lĕ-ʿabdūtām:
-    the people want to go back to slavery in Egypt; Q 2:61 ihbiṭū miṣran fa-inna lakum mā saʾaltum: Moses
-    retorts ''go down to Egypt (or: a town), you shall have what you asked''. The wish to return is turned
-    into an ironic command.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
-    لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ
-    أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا
-    سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ
-    بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ
-    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
-- tradition: judaism
-  ref: Num 14:1
-  note: The people grumble against their leaders about food or water ('would that we had died in Egypt')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּשָּׂא֙ כָּל הָ֣עֵדָ֔ה וַֽיִּתְּנ֖וּ אֶת קוֹלָ֑ם וַיִּבְכּ֥וּ הָעָ֖ם בַּלַּ֥יְלָה הַהֽוּא
-- tradition: judaism
-  ref: Num 14:2
-  note: The people grumble against their leaders about food or water ('would that we had died in Egypt')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּלֹּ֨נוּ֙ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֔ן כֹּ֖ל בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיֹּאמְר֨וּ אֲלֵהֶ֜ם כָּל
-    הָעֵדָ֗ה לוּ מַ֨תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם א֛וֹ בַּמִּדְבָּ֥ר הַזֶּ֖ה לוּ מָֽתְנוּ
-- tradition: islam
-  ref: Quran 2:61
-  note: The people grumble against their leaders about food or water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
-    لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ
-    أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا
-    سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ
-    بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ
-    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: People propose appointing a leader to go back to Egypt (weight 6.3);
     The people grumble against their leaders about food or water (weight 5.1). Pair score 11.4.'
@@ -95,6 +50,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People propose appointing a leader to go back to Egypt
+kinds:
+- shared
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: shared
+  label: People propose appointing a leader to go back to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:4
+      lang: he
+      text: וַיֹּאמְר֖וּ אִ֣ישׁ אֶל אָחִ֑יו נִתְּנָ֥ה רֹ֖אשׁ וְנָשׁ֥וּבָה מִצְרָֽיְמָה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:61
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+        لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+        قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ
+        لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
+        ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ
+        بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+    note: 'Neh 9:17 wa-yyittĕnû rōʾš lāšûb lĕ-ʿabdūtām: the people want to go back to slavery in Egypt;
+      Q 2:61 ihbiṭū miṣran fa-inna lakum mā saʾaltum: Moses retorts ''go down to Egypt (or: a town), you
+      shall have what you asked''. The wish to return is turned into an ironic command.'
+- kind: shared
+  label: The people grumble against their leaders about food or water
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:1
+      lang: he
+      text: וַתִּשָּׂא֙ כָּל הָ֣עֵדָ֔ה וַֽיִּתְּנ֖וּ אֶת קוֹלָ֑ם וַיִּבְכּ֥וּ הָעָ֖ם בַּלַּ֥יְלָה הַהֽוּא
+    - ref: Num 14:2
+      lang: he
+      text: וַיִּלֹּ֨נוּ֙ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֔ן כֹּ֖ל בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיֹּאמְר֨וּ אֲלֵהֶ֜ם
+        כָּל הָעֵדָ֗ה לוּ מַ֨תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם א֛וֹ בַּמִּדְבָּ֥ר הַזֶּ֖ה לוּ מָֽתְנוּ
+    - ref: Num 14:3
+      lang: he
+      text: וְלָמָ֣ה יְ֠הוָה מֵבִ֨יא אֹתָ֜נוּ אֶל הָאָ֤רֶץ הַזֹּאת֙ לִנְפֹּ֣ל בַּחֶ֔רֶב נָשֵׁ֥ינוּ וְטַפֵּ֖נוּ
+        יִהְי֣וּ לָבַ֑ז הֲל֧וֹא ט֦וֹב לָ֖נוּ שׁ֥וּב מִצְרָֽיְמָה
+    note: '''would that we had died in Egypt'''
+  - tradition: islam
+    passages:
+    - ref: Quran 2:61
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+        لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+        قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ
+        لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
+        ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ
+        بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

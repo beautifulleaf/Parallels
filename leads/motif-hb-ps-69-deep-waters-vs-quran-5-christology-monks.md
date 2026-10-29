@@ -2,7 +2,7 @@
 id: motif-hb-ps-69-deep-waters-vs-quran-5-christology-monks
 title: Psalm 69, the waters have come up to my neck; gall and vinegar ↔ Against the deification of Jesus;
   the weeping Christians
-summary: 'These two units share 1 motifs: speaker calls down curses on his enemies.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - imprecation-on-enemies
-passages:
-- tradition: judaism
-  ref: Ps 69:23-29
-  note: Speaker calls down curses on his enemies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (69:23) יְהִֽי שֻׁלְחָנָ֣ם לִפְנֵיהֶ֣ם לְפָ֑ח וְלִשְׁלוֹמִ֥ים לְמוֹקֵֽשׁ (69:24) תֶּחְשַׁ֣כְנָה
-    עֵ֭ינֵיהֶם מֵרְא֑וֹת וּ֝מָתְנֵ֗יהֶם תָּמִ֥יד הַמְעַֽד (69:25) שְׁפָךְ עֲלֵיהֶ֥ם זַעְמֶ֑ךָ וַחֲר֥וֹן
-    אַ֝פְּךָ֗ יַשִּׂיגֵֽם (69:26) תְּהִי טִֽירָתָ֥ם נְשַׁמָּ֑ה בְּ֝אָהֳלֵיהֶ֗ם אַל יְהִ֥י יֹשֵֽׁב (69:27)
-    כִּֽי אַתָּ֣ה אֲשֶׁר הִכִּ֣יתָ רָדָ֑פוּ וְאֶל מַכְא֖וֹב חֲלָלֶ֣יךָ יְסַפֵּֽרוּ (69:28) תְּֽנָה עָ֭וֺן
-    עַל עֲוֺנָ֑ם וְאַל יָ֝בֹ֗אוּ בְּצִדְקָתֶֽךָ (69:29) יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים
-    אַל יִכָּתֵֽבוּ
-- tradition: judaism
-  ref: Ps 69:23
-  note: Speaker calls down curses on his enemies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהִֽי שֻׁלְחָנָ֣ם לִפְנֵיהֶ֣ם לְפָ֑ח וְלִשְׁלוֹמִ֥ים לְמוֹקֵֽשׁ
-- tradition: islam
-  ref: Quran 5:78
-  note: 'Speaker calls down curses on his enemies (Q: luʿina lladhīna kafarū min banī Isrāʾīla ʿalā lisāni
-    Dāwūda wa-ʿĪsā bni Maryama. Ps (lə-Dāwid): yəhî-šulḥānām lifnêhem lə-fāḥ ... tənāh-ʿāwōn ʿal-ʿăwōnām
-    ... yimmāḥû mis-sēfer ḥayyîm. The Davidic curse in the Psalm targets the speaker''s persecutors; Q
-    applies it to the unbelievers of Israel.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ مَرْيَمَ
-    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: luʿina lladhīna kafarū min banī Isrāʾīla ʿalā lisāni Dāwūda wa-ʿĪsā bni Maryama. Ps (lə-Dāwid):
-    yəhî-šulḥānām lifnêhem lə-fāḥ ... tənāh-ʿāwōn ʿal-ʿăwōnām ... yimmāḥû mis-sēfer ḥayyîm. The Davidic
-    curse in the Psalm targets the speaker''s persecutors; Q applies it to the unbelievers of Israel.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker calls down curses on his enemies (weight 5.6). Pair score
     5.6.'
@@ -82,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker calls down curses on his enemies
+kinds:
+- echo
+units:
+- id: hb-ps-69-deep-waters
+  title: Psalm 69, the waters have come up to my neck; gall and vinegar
+  tradition: judaism
+- id: quran-5-christology-monks
+  title: Against the deification of Jesus; the weeping Christians
+  tradition: islam
+matches:
+- kind: echo
+  label: Speaker calls down curses on his enemies
+  note: 'Q: luʿina lladhīna kafarū min banī Isrāʾīla ʿalā lisāni Dāwūda wa-ʿĪsā bni Maryama. Ps (lə-Dāwid):
+    yəhî-šulḥānām lifnêhem lə-fāḥ ... tənāh-ʿāwōn ʿal-ʿăwōnām ... yimmāḥû mis-sēfer ḥayyîm. The Davidic
+    curse in the Psalm targets the speaker''s persecutors; Q applies it to the unbelievers of Israel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:23
+      lang: he
+      text: יְהִֽי שֻׁלְחָנָ֣ם לִפְנֵיהֶ֣ם לְפָ֑ח וְלִשְׁלוֹמִ֥ים לְמוֹקֵֽשׁ
+    - ref: Ps 69:28
+      lang: he
+      text: תְּֽנָה עָ֭וֺן עַל עֲוֺנָ֑ם וְאַל יָ֝בֹ֗אוּ בְּצִדְקָתֶֽךָ
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:78
+      lang: ar
+      text: لُعِنَ ٱلَّذِينَ كَفَرُوا۟ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ عَلَىٰ لِسَانِ دَاوُۥدَ وَعِيسَى ٱبْنِ
+        مَرْيَمَ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-16-parables-and-justice
 title: Second creation account, Eden, and the making of woman ↔ The slave and the free, the mute man,
   the woman who unravels her yarn (Surah 16:71-100)
-summary: 'These two units share 1 motifs: humankind is created from a single soul, from which its mate
-  was made to dwell with it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - created-from-single-soul-and-its-mate
-passages:
-- tradition: judaism
-  ref: Gen 2:21
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 16:72
-  note: Humankind is created from a single soul, from which its mate was made to dwell with it (spouses
-    from yourselves (min anfusikum))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ
-    وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ
-    يَكْفُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wa-llāhu jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay
-    ûbāśār mibbəśārî: the mate is made from man''s own substance. Gen tells it of the first couple through
-    the rib; Q says it of all spouses (min anfusikum), with no rib.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humankind is created from a single soul, from which its mate was
     made to dwell with it (weight 5.6). Pair score 5.6.'
@@ -85,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humankind is created from a single soul, from which its mate was made to dwell with it
+kinds:
+- echo
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-16-parables-and-justice
+  title: The slave and the free, the mute man, the woman who unravels her yarn (Surah 16:71-100)
+  tradition: islam
+matches:
+- kind: echo
+  label: Humankind is created from a single soul, from which its mate was made to dwell with it
+  note: 'wa-llāhu jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay
+    ûbāśār mibbəśārî: the mate is made from man''s own substance. Gen tells it of the first couple through
+    the rib; Q says it of all spouses (min anfusikum), with no rib.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    - ref: Gen 2:23
+      lang: he
+      text: וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א
+        אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה זֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 16:72
+      lang: ar
+      text: وَٱللَّهُ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَجَعَلَ لَكُم مِّنْ أَزْوَٰجِكُم بَنِينَ
+        وَحَفَدَةً وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ أَفَبِٱلْبَٰطِلِ يُؤْمِنُونَ وَبِنِعْمَتِ ٱللَّهِ هُمْ
+        يَكْفُرُونَ
 ---
 
 ## Questions

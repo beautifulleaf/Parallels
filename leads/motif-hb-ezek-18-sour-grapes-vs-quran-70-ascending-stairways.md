@@ -2,9 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-70-ascending-stairways
 title: 'Sour grapes - individual responsibility and repentance ↔ The ascending stairways: the day of fifty
   thousand years and the steadfast worshippers'
-summary: 'These two units share 1 motifs: catalogue of the righteous man: no eating on the mountains,
-  no idols, no adultery, no menstrual intercourse, no oppression, returns pledges, feeds the hungry, clothes
-  the naked, no interest.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,46 +15,9 @@ layers:
 - motif
 motifs:
 - righteous-man-catalogue-of-virtues
-passages:
-- tradition: judaism
-  ref: Ezek 18:5
-  note: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
-    intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֖ישׁ כִּי יִהְיֶ֣ה צַדִּ֑יק וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָֽה
-- tradition: judaism
-  ref: Ezek 18:6
-  note: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
-    intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶל הֶֽהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל וְאֶת אֵ֤שֶׁת
-    רֵעֵ֨הוּ֙ לֹ֣א טִמֵּ֔א וְאֶל אִשָּׁ֥ה נִדָּ֖ה לֹ֥א יִקְרָֽב
-- tradition: islam
-  ref: Quran 70:22
-  note: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
-    intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest (catalogue
-    of the worshippers: constant prayer, alms, belief in judgment, chastity, trusts, testimony)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱلْمُصَلِّينَ
-- tradition: islam
-  ref: Quran 70:23
-  note: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
-    intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest (catalogue
-    of the worshippers: constant prayer, alms, belief in judgment, chastity, trusts, testimony)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. Catalogue defining the righteous: Ezekiel lists ʾel he-hārîm lōʾ ʾākāl ... ʾet ʾēšet rēʿēhû
-    lōʾ ṭimmēʾ ... ḥăvōlātô ḥôv yāšîv ... laḥmô le-rāʿēv yittēn; Q 70:22-34 lists alladhīna hum ʿalā ṣalātihim
-    dāʾimūn, fī amwālihim ḥaqqun maʿlūmun li-s-sāʾili wa-l-maḥrūm, li-furūjihim ḥāfiẓūn, li-amānātihim
-    wa-ʿahdihim rāʿūn. Shared: sexual restraint, faithfulness with pledges and trusts, food for the poor.
-    Ezekiel''s items are cultic and judicial (mountains, menstruation, interest); the Quran''s begin and
-    end with prayer.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Catalogue of the righteous man: no eating on the mountains, no idols,
     no adultery, no menstrual intercourse, no oppression, returns pledges, feeds the hungry, clothes the
@@ -99,6 +60,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
+  intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest'
+kinds:
+- parallel
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-70-ascending-stairways
+  title: 'The ascending stairways: the day of fifty thousand years and the steadfast worshippers'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Catalogue of the righteous man: no eating on the mountains, no idols, no adultery, no menstrual
+    intercourse, no oppression, returns pledges, feeds the hungry, clothes the naked, no interest'
+  note: 'Catalogue defining the righteous: Ezekiel lists ʾel he-hārîm lōʾ ʾākāl ... ʾet ʾēšet rēʿēhû lōʾ
+    ṭimmēʾ ... ḥăvōlātô ḥôv yāšîv ... laḥmô le-rāʿēv yittēn; Q 70:22-34 lists alladhīna hum ʿalā ṣalātihim
+    dāʾimūn, fī amwālihim ḥaqqun maʿlūmun li-s-sāʾili wa-l-maḥrūm, li-furūjihim ḥāfiẓūn, li-amānātihim
+    wa-ʿahdihim rāʿūn. Shared: sexual restraint, faithfulness with pledges and trusts, food for the poor.
+    Ezekiel''s items are cultic and judicial (mountains, menstruation, interest); the Quran''s begin and
+    end with prayer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:5
+      lang: he
+      text: וְאִ֖ישׁ כִּי יִהְיֶ֣ה צַדִּ֑יק וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָֽה
+    - ref: Ezek 18:6
+      lang: he
+      text: אֶל הֶֽהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל וְאֶת
+        אֵ֤שֶׁת רֵעֵ֨הוּ֙ לֹ֣א טִמֵּ֔א וְאֶל אִשָּׁ֥ה נִדָּ֖ה לֹ֥א יִקְרָֽב
+    - ref: Ezek 18:7
+      lang: he
+      text: וְאִישׁ֙ לֹ֣א יוֹנֶ֔ה חֲבֹלָת֥וֹ חוֹב֙ יָשִׁ֔יב גְּזֵלָ֖ה לֹ֣א יִגְזֹ֑ל לַחְמוֹ֙ לְרָעֵ֣ב
+        יִתֵּ֔ן וְעֵירֹ֖ם יְכַסֶּה בָּֽגֶד
+  - tradition: islam
+    passages:
+    - ref: Quran 70:22
+      lang: ar
+      text: إِلَّا ٱلْمُصَلِّينَ
+    - ref: Quran 70:24
+      lang: ar
+      text: وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ
+    - ref: Quran 70:25
+      lang: ar
+      text: لِّلسَّآئِلِ وَٱلْمَحْرُومِ
 ---
 
 ## Questions

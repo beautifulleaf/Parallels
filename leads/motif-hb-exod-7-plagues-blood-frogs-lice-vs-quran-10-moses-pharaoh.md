@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-10-moses-pharaoh
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses, the houses as qibla, and Pharaoh''s drowning faith'
-summary: 'These two units share 2 motifs: prophet''s wonders are imitated by the king''s magicians in
-  a contest, the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,60 +14,9 @@ layers:
 motifs:
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 7:22
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:3
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 10:79
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 10:80
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
-- tradition: judaism
-  ref: Exod 7:22
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:11
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
-    כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Magic fails against God''s act: mā jiʾtum bihi s-siḥru inna llāha sa-yubṭiluhu ... wa-yuḥiqqu
-    llāhu l-ḥaqqa bi-kalimātihi vs wayyaʿăśû-kēn haḥarṭummîm bᵉlāṭêhem ... wᵉlōʾ yākōlû ... ʾeṣbaʿ ʾĕlōhîm
-    hîʾ. In Exod the magicians themselves admit it (''the finger of God''); in Q Moses declares it.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet''s wonders are imitated by the king''s magicians in a contest
     (weight 5.1); The king''s heart is hardened (by himself or by God) so he refuses to release the people
@@ -104,6 +52,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet's wonders are imitated by the king's magicians in a contest
+kinds:
+- echo
+- shared
+units:
+- id: hb-exod-7-plagues-blood-frogs-lice
+  title: 'Plagues 1-3: blood, frogs, lice'
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  note: 'Magic fails against God''s act: mā jiʾtum bihi s-siḥru inna llāha sa-yubṭiluhu ... wa-yuḥiqqu
+    llāhu l-ḥaqqa bi-kalimātihi vs wayyaʿăśû-kēn haḥarṭummîm bᵉlāṭêhem ... wᵉlōʾ yākōlû ... ʾeṣbaʿ ʾĕlōhîm
+    hîʾ. In Exod the magicians themselves admit it (''the finger of God''); in Q Moses declares it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:14
+      lang: he
+      text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+        הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:81
+      lang: ar
+      text: فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ
+        إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
+    - ref: Quran 10:82
+      lang: ar
+      text: وَيُحِقُّ ٱللَّهُ ٱلْحَقَّ بِكَلِمَٰتِهِۦ وَلَوْ كَرِهَ ٱلْمُجْرِمُونَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:22
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
+        אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:11
+      lang: he
+      text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
+        כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

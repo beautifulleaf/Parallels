@@ -2,7 +2,7 @@
 id: motif-hb-prov-6-adultery-fire-vs-quran-5-torah-gospel-judgment
 title: Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom ↔ Judging by the Torah, the
   Gospel and the Quran; eye for eye
-summary: 'These two units share 1 motifs: the torah contains guidance and light.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - torah-guidance-and-light
-passages:
-- tradition: judaism
-  ref: Prov 6:23
-  note: 'The Torah contains guidance and light (Q: innā anzalnā l-tawrāta fīhā hudan wa-nūrun. Prov: kî
-    nēr miṣwāh wə-tôrāh ʾôr. In Prov, tôrāh is a parent''s teaching (6:20); Q means the revealed Torah.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י נֵ֣ר מִ֭צְוָה וְת֣וֹרָה א֑וֹר וְדֶ֥רֶךְ חַ֝יִּ֗ים תּוֹכְח֥וֹת מוּסָֽר
-- tradition: islam
-  ref: Quran 5:44
-  note: The Torah contains guidance and light
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسْلَمُوا۟
-    لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ ٱللَّهِ وَكَانُوا۟
-    عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا
-    وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: innā anzalnā l-tawrāta fīhā hudan wa-nūrun. Prov: kî nēr miṣwāh wə-tôrāh ʾôr. In Prov, tôrāh
-    is a parent''s teaching (6:20); Q means the revealed Torah.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Torah contains guidance and light (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -70,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Torah contains guidance and light
+kinds:
+- echo
+units:
+- id: hb-prov-6-adultery-fire
+  title: Proverbs 6:20-35, commandment as lamp; adultery as fire in the bosom
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: echo
+  label: The Torah contains guidance and light
+  note: 'Q: innā anzalnā l-tawrāta fīhā hudan wa-nūrun. Prov: kî nēr miṣwāh wə-tôrāh ʾôr. In Prov, tôrāh
+    is a parent''s teaching (6:20); Q means the revealed Torah.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 6:23
+      lang: he
+      text: כִּ֤י נֵ֣ר מִ֭צְוָה וְת֣וֹרָה א֑וֹר וְדֶ֥רֶךְ חַ֝יִּ֗ים תּוֹכְח֥וֹת מוּסָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 5:44
+      lang: ar
+      text: إِنَّآ أَنزَلْنَا ٱلتَّوْرَىٰةَ فِيهَا هُدًى وَنُورٌ يَحْكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ
+        أَسْلَمُوا۟ لِلَّذِينَ هَادُوا۟ وَٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ بِمَا ٱسْتُحْفِظُوا۟ مِن كِتَٰبِ
+        ٱللَّهِ وَكَانُوا۟ عَلَيْهِ شُهَدَآءَ فَلَا تَخْشَوُا۟ ٱلنَّاسَ وَٱخْشَوْنِ وَلَا تَشْتَرُوا۟
+        بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلْكَٰفِرُونَ
 ---
 
 ## Questions

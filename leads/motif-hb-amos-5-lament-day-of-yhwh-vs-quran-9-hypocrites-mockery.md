@@ -2,8 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-9-hypocrites-mockery
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Hypocrites who mock and
   the destroyed peoples
-summary: 'These two units share 1 motifs: ''hate evil, love good, establish justice in the gate; perhaps
-  god will be gracious to the remnant of joseph''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - hate-evil-love-good
-passages:
-- tradition: judaism
-  ref: Amos 5:15
-  note: '''Hate evil, love good, establish justice in the gate; perhaps God will be gracious to the remnant
-    of Joseph'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׂנְאוּ רָע֙ וְאֶ֣הֱבוּ ט֔וֹב וְהַצִּ֥יגוּ בַשַּׁ֖עַר מִשְׁפָּ֑ט אוּלַ֗י יֶֽחֱנַ֛ן יְהוָ֥ה אֱלֹהֵֽי
-    צְבָא֖וֹת שְׁאֵרִ֥ית יוֹסֵֽף
-- tradition: islam
-  ref: Quran 9:71
-  note: '''Hate evil, love good, establish justice in the gate; perhaps God will be gracious to the remnant
-    of Joseph'' (The faithful are those who promote good and oppose evil: yaʾmurūna bi-l-maʿrūfi wa-yanhawna
-    ʿani l-munkari vs śinʾû-rāʿ wᵉʾehĕbû ṭôb wᵉhaṣṣîgû baššaʿar mišpāṭ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ
-    عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ
-    أُو۟لَٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The faithful are those who promote good and oppose evil: yaʾmurūna bi-l-maʿrūfi wa-yanhawna
-    ʿani l-munkari vs śinʾû-rāʿ wᵉʾehĕbû ṭôb wᵉhaṣṣîgû baššaʿar mišpāṭ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Hate evil, love good, establish justice in the gate; perhaps God
     will be gracious to the remnant of Joseph'' (weight 6.7). Pair score 6.7.'
@@ -71,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Hate evil, love good, establish justice in the gate; perhaps God will be gracious to the remnant
+  of Joseph'''
+kinds:
+- echo
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Hate evil, love good, establish justice in the gate; perhaps God will be gracious to the remnant
+    of Joseph'''
+  note: 'The faithful are those who promote good and oppose evil: yaʾmurūna bi-l-maʿrūfi wa-yanhawna ʿani
+    l-munkari vs śinʾû-rāʿ wᵉʾehĕbû ṭôb wᵉhaṣṣîgû baššaʿar mišpāṭ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:15
+      lang: he
+      text: שִׂנְאוּ רָע֙ וְאֶ֣הֱבוּ ט֔וֹב וְהַצִּ֥יגוּ בַשַּׁ֖עַר מִשְׁפָּ֑ט אוּלַ֗י יֶֽחֱנַ֛ן יְהוָ֥ה
+        אֱלֹהֵֽי צְבָא֖וֹת שְׁאֵרִ֥ית יוֹסֵֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 9:71
+      lang: ar
+      text: وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ يَأْمُرُونَ بِٱلْمَعْرُوفِ
+        وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ
+        وَرَسُولَهُۥٓ أُو۟لَٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

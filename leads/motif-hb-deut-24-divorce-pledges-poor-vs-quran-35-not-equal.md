@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-35-not-equal
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ No soul bears another's burden; the blind and the
   seeing; the colors of creation
-summary: 'These two units share 2 motifs: no burdened soul bears another''s burden; even a relative will
-  not carry any of it, each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,43 +16,9 @@ layers:
 motifs:
 - no-bearer-bears-anothers-burden
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Deut 24:16
-  note: No burdened soul bears another's burden; even a relative will not carry any of it (lōʾ yûməṯû
-    ʾāḇôṯ ʿal bānîm û-ḇānîm lōʾ yûməṯû ʿal ʾāḇôṯ ʾîš bə-ḥeṭʾô yûmāṯû vs. allā taziru wāziratun wizra ukhrā.
-    Deuteronomy rules for human courts; the Quran states it for God's judgment, quoted as the content
-    of 'the scrolls of Moses and Abraham' (53:36-37).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ יוּמָֽתוּ
-- tradition: islam
-  ref: Quran 35:18
-  note: No burdened soul bears another's burden; even a relative will not carry any of it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ
-    شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟
-    ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
-- tradition: judaism
-  ref: Deut 24:16
-  note: Each person dies for his own sin (lōʾ-yûməṯû ʾāḇôṯ ʿal-bānîm ... ʾîš bə-ḥeṭʾô yûmāṯû vs. lā taziru
-    wāziratun wizra ukhrā. A rule of human courts in Deut becomes a principle of divine judgment in Q.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ יוּמָֽתוּ
-- tradition: islam
-  ref: Quran 35:18
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ
-    شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟
-    ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. lōʾ-yûməṯû ʾāḇôṯ ʿal-bānîm ... ʾîš bə-ḥeṭʾô yûmāṯû vs. lā taziru wāziratun wizra ukhrā.
-    A rule of human courts in Deut becomes a principle of divine judgment in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No burdened soul bears another''s burden; even a relative will not
     carry any of it (weight 5.8); Each person dies for his own sin (weight 5.0). Pair score 10.8.'
@@ -86,6 +51,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: parallel
+  label: Each person dies for his own sin
+  note: lōʾ-yûməṯû ʾāḇôṯ ʿal-bānîm ... ʾîš bə-ḥeṭʾô yûmāṯû vs. lā taziru wāziratun wizra ukhrā. A rule
+    of human courts in Deut becomes a principle of divine judgment in Q.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:16
+      lang: he
+      text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ
+        יוּמָֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 35:18
+      lang: ar
+      text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ
+        مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ
+        وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+- kind: shared
+  label: No burdened soul bears another's burden; even a relative will not carry any of it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:16
+      lang: he
+      text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ
+        יוּמָֽתוּ
+    note: lōʾ yûməṯû ʾāḇôṯ ʿal bānîm û-ḇānîm lōʾ yûməṯû ʿal ʾāḇôṯ ʾîš bə-ḥeṭʾô yûmāṯû vs. allā taziru
+      wāziratun wizra ukhrā. Deuteronomy rules for human courts; the Quran states it for God's judgment,
+      quoted as the content of 'the scrolls of Moses and Abraham' (53:36-37).
+  - tradition: islam
+    passages:
+    - ref: Quran 35:18
+      lang: ar
+      text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ
+        مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ
+        وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

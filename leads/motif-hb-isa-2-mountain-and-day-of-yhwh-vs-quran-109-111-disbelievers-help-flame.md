@@ -2,8 +2,7 @@
 id: motif-hb-isa-2-mountain-and-day-of-yhwh-vs-quran-109-111-disbelievers-help-flame
 title: The mountain of the Lord's house; the Day of YHWH against all that is proud ↔ The disbelievers,
   the help, and the flame
-summary: 'These two units share 1 motifs: when god''s help and the opening (al-fath) come, people enter
-  god''s religion in crowds; the prophet is to glorify and seek forgiveness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - people-enter-religion-in-crowds
-passages:
-- tradition: judaism
-  ref: Isa 2:2
-  note: 'When God''s help and the opening (al-fath) come, people enter God''s religion in crowds; the
-    prophet is to glorify and seek forgiveness (idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna
-    fī dīni llāhi afwājan ~ we-nāharû ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw:
-    peoples streaming in to God''s way. Isaiah''s is eschatological and centered on Zion, the Quran''s
-    is the Prophet''s own lifetime.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בְּאַחֲרִ֣ית הַיָּמִ֗ים נָכ֨וֹן יִֽהְיֶ֜ה הַ֤ר בֵּית יְהוָה֙ בְּרֹ֣אשׁ הֶהָרִ֔ים וְנִשָּׂ֖א
-    מִגְּבָע֑וֹת וְנָהֲר֥וּ אֵלָ֖יו כָּל הַגּוֹיִֽם
-- tradition: judaism
-  ref: Isa 2:3
-  note: 'When God''s help and the opening (al-fath) come, people enter God''s religion in crowds; the
-    prophet is to glorify and seek forgiveness (idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna
-    fī dīni llāhi afwājan ~ we-nāharû ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw:
-    peoples streaming in to God''s way. Isaiah''s is eschatological and centered on Zion, the Quran''s
-    is the Prophet''s own lifetime.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ וְנַעֲלֶ֣ה אֶל הַר יְהוָ֗ה אֶל בֵּית֙ אֱלֹהֵ֣י
-    יַעֲקֹ֔ב וְיֹרֵ֨נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיּוֹן֙ תֵּצֵ֣א תוֹרָ֔ה וּדְבַר
-    יְהוָ֖ה מִירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 110:1
-  note: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
-    is to glorify and seek forgiveness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
-- tradition: islam
-  ref: Quran 110:2
-  note: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
-    is to glorify and seek forgiveness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna fī dīni llāhi afwājan ~ we-nāharû
-    ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw: peoples streaming in to God''s
-    way. Isaiah''s is eschatological and centered on Zion, the Quran''s is the Prophet''s own lifetime.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When God''s help and the opening (al-fath) come, people enter God''s
     religion in crowds; the prophet is to glorify and seek forgiveness (weight 6.7). Pair score 6.7.'
@@ -89,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
+  is to glorify and seek forgiveness
+kinds:
+- echo
+units:
+- id: hb-isa-2-mountain-and-day-of-yhwh
+  title: The mountain of the Lord's house; the Day of YHWH against all that is proud
+  tradition: judaism
+- id: quran-109-111-disbelievers-help-flame
+  title: The disbelievers, the help, and the flame
+  tradition: islam
+matches:
+- kind: echo
+  label: When God's help and the opening (al-fath) come, people enter God's religion in crowds; the prophet
+    is to glorify and seek forgiveness
+  note: 'idhā jāʾa naṣru llāhi wa-l-fatḥu wa-raʾayta n-nāsa yadkhulūna fī dīni llāhi afwājan ~ we-nāharû
+    ʾēlāyw kol ha-ggôyim we-hālekû ʿammîm rabbîm ... wi-yōrēnû mi-ddrākāyw: peoples streaming in to God''s
+    way. Isaiah''s is eschatological and centered on Zion, the Quran''s is the Prophet''s own lifetime.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 2:2
+      lang: he
+      text: וְהָיָ֣ה בְּאַחֲרִ֣ית הַיָּמִ֗ים נָכ֨וֹן יִֽהְיֶ֜ה הַ֤ר בֵּית יְהוָה֙ בְּרֹ֣אשׁ הֶהָרִ֔ים
+        וְנִשָּׂ֖א מִגְּבָע֑וֹת וְנָהֲר֥וּ אֵלָ֖יו כָּל הַגּוֹיִֽם
+    - ref: Isa 2:3
+      lang: he
+      text: וְֽהָלְכ֞וּ עַמִּ֣ים רַבִּ֗ים וְאָמְרוּ֙ לְכ֣וּ וְנַעֲלֶ֣ה אֶל הַר יְהוָ֗ה אֶל בֵּית֙ אֱלֹהֵ֣י
+        יַעֲקֹ֔ב וְיֹרֵ֨נוּ֙ מִדְּרָכָ֔יו וְנֵלְכָ֖ה בְּאֹרְחֹתָ֑יו כִּ֤י מִצִּיּוֹן֙ תֵּצֵ֣א תוֹרָ֔ה
+        וּדְבַר יְהוָ֖ה מִירוּשָׁלִָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 110:1
+      lang: ar
+      text: إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ
+    - ref: Quran 110:2
+      lang: ar
+      text: وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-28-jacobs-ladder-vs-quran-52-tur-garden-and-challenge
 title: 'Jacob''s dream at Bethel ↔ The Garden: offspring joined with parents, the cup without idle talk,
   youths like pearls; the run of ''or...?'' challenges'
-summary: 'These two units share 2 motifs: dream of a ladder or stairway reaching heaven with angels ascending
-  and descending, a ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,58 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- dream-ladder-to-heaven
 - ladder-to-heaven-sullam-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 28:12
-  note: Dream of a ladder or stairway reaching heaven with angels ascending and descending (sullam; angels
-    go up first, then down)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
-    מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
-- tradition: islam
-  ref: Quran 52:38
-  note: Dream of a ladder or stairway reaching heaven with angels ascending and descending (ladder/stairway
-    to heaven (sullam ~ Heb. sullam, Gen 28:12))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍ مُّبِينٍ
-- tradition: judaism
-  ref: Gen 28:12
-  note: 'A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts] (The
-    same word for a ladder to heaven: wə-hinnēh sullām muṣṣāḇ ʾarṣâ wə-rōʾšô maggîaʿ haš-šāmāyəmâ wə-hinnēh
-    malʾăḵê ʾĕlōhîm ʿōlîm wə-yōrəḏîm bô vs. am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum
-    bi-sulṭānin mubīn (sullām / sullam). In Genesis the ladder is God''s gift in a dream, with angels
-    going up and down; in the Quran it is a sarcastic challenge: do the deniers have a ladder from which
-    to eavesdrop on heaven?)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
-    מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
-- tradition: islam
-  ref: Quran 52:38
-  note: 'A ladder (sullam / sullām) reaching from earth to heaven [divergence between the texts] (The
-    same word for a ladder to heaven: wə-hinnēh sullām muṣṣāḇ ʾarṣâ wə-rōʾšô maggîaʿ haš-šāmāyəmâ wə-hinnēh
-    malʾăḵê ʾĕlōhîm ʿōlîm wə-yōrəḏîm bô vs. am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum
-    bi-sulṭānin mubīn (sullām / sullam). In Genesis the ladder is God''s gift in a dream, with angels
-    going up and down; in the Quran it is a sarcastic challenge: do the deniers have a ladder from which
-    to eavesdrop on heaven?)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍ مُّبِينٍ
+- dream-ladder-to-heaven
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The same word for a ladder to heaven: wə-hinnēh sullām muṣṣāḇ ʾarṣâ wə-rōʾšô maggîaʿ haš-šāmāyəmâ
-    wə-hinnēh malʾăḵê ʾĕlōhîm ʿōlîm wə-yōrəḏîm bô vs. am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum
-    bi-sulṭānin mubīn (sullām / sullam). In Genesis the ladder is God''s gift in a dream, with angels
-    going up and down; in the Quran it is a sarcastic challenge: do the deniers have a ladder from which
-    to eavesdrop on heaven?.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Dream of a ladder or stairway reaching heaven with angels ascending
-    and descending (weight 6.7); A ladder (sullam / sullām) reaching from earth to heaven [divergence
-    between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: A ladder (sullam / sullām) reaching from earth to heaven [divergence
+    between the texts] (weight 6.7); Dream of a ladder or stairway reaching heaven with angels ascending
+    and descending (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Jacob''s dream at Bethel: God promises to be with the traveler and bring him back; Hero
     sleeps with a stone under his head at a holy place; The angels and the Spirit (al-ruh) ascend to God
@@ -97,6 +53,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A ladder (sullam / sullām) reaching from earth to heaven
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-28-jacobs-ladder
+  title: Jacob's dream at Bethel
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: divergence
+  label: A ladder (sullam / sullām) reaching from earth to heaven
+  note: 'The same word for a ladder to heaven: wə-hinnēh sullām muṣṣāḇ ʾarṣâ wə-rōʾšô maggîaʿ haš-šāmāyəmâ
+    wə-hinnēh malʾăḵê ʾĕlōhîm ʿōlîm wə-yōrəḏîm bô vs. am lahum sullamun yastamiʿūna fīhi fa-l-yaʾti mustamiʿuhum
+    bi-sulṭānin mubīn (sullām / sullam). In Genesis the ladder is God''s gift in a dream, with angels
+    going up and down; in the Quran it is a sarcastic challenge: do the deniers have a ladder from which
+    to eavesdrop on heaven?'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:12
+      lang: he
+      text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
+        מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 52:38
+      lang: ar
+      text: أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍ مُّبِينٍ
+- kind: shared
+  label: Dream of a ladder or stairway reaching heaven with angels ascending and descending
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:12
+      lang: he
+      text: וַֽיַּחֲלֹ֗ם וְהִנֵּ֤ה סֻלָּם֙ מֻצָּ֣ב אַ֔רְצָה וְרֹאשׁ֖וֹ מַגִּ֣יעַ הַשָּׁמָ֑יְמָה וְהִנֵּה֙
+        מַלְאֲכֵ֣י אֱלֹהִ֔ים עֹלִ֥ים וְיֹרְדִ֖ים בּֽוֹ
+    note: sullam; angels go up first, then down
+  - tradition: islam
+    passages:
+    - ref: Quran 52:38
+      lang: ar
+      text: أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَٰنٍ مُّبِينٍ
+    note: ladder/stairway to heaven (sullam ~ Heb. sullam, Gen 28:12)
 ---
 
 ## Questions

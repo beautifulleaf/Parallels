@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-6-shema-vs-quran-3-closing
 title: The Shema and the instruction to teach ↔ Signs for people of understanding; closing prayer
-summary: 'These two units share 1 motifs: those who remember god standing, sitting and on their sides
-  and reflect on creation.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - remember-god-standing-sitting-lying
-passages:
-- tradition: judaism
-  ref: Deut 6:7
-  note: 'Those who remember God standing, sitting and on their sides and reflect on creation (Deut 6:7
-    wĕ-dibbartā bām bĕ-šibtĕkā bĕ-bêtekā û-bĕ-lektĕkā ba-dderek û-bĕ-šokbĕkā û-bĕ-qûmekā: speak of these
-    words sitting, walking, lying down and rising; Q 3:191 alladhīna yadhkurūna llāha qiyāman wa-quʿūdan
-    wa-ʿalā junūbihim: who remember God standing, sitting and lying on their sides. Same set of bodily
-    postures for constant attention; the object is the commandments in Deut, God himself and his creation
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ
-    וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ
-- tradition: islam
-  ref: Quran 3:191
-  note: Those who remember God standing, sitting and on their sides and reflect on creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Deut 6:7 wĕ-dibbartā bām bĕ-šibtĕkā bĕ-bêtekā û-bĕ-lektĕkā ba-dderek û-bĕ-šokbĕkā û-bĕ-qûmekā:
-    speak of these words sitting, walking, lying down and rising; Q 3:191 alladhīna yadhkurūna llāha qiyāman
-    wa-quʿūdan wa-ʿalā junūbihim: who remember God standing, sitting and lying on their sides. Same set
-    of bodily postures for constant attention; the object is the commandments in Deut, God himself and
-    his creation in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who remember God standing, sitting and on their sides and
     reflect on creation (weight 6.0). Pair score 6.0.'
@@ -69,6 +44,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who remember God standing, sitting and on their sides and reflect on creation
+kinds:
+- parallel
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-3-closing
+  title: Signs for people of understanding; closing prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those who remember God standing, sitting and on their sides and reflect on creation
+  note: 'Deut 6:7 wĕ-dibbartā bām bĕ-šibtĕkā bĕ-bêtekā û-bĕ-lektĕkā ba-dderek û-bĕ-šokbĕkā û-bĕ-qûmekā:
+    speak of these words sitting, walking, lying down and rising; Q 3:191 alladhīna yadhkurūna llāha qiyāman
+    wa-quʿūdan wa-ʿalā junūbihim: who remember God standing, sitting and lying on their sides. Same set
+    of bodily postures for constant attention; the object is the commandments in Deut, God himself and
+    his creation in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:7
+      lang: he
+      text: וְשִׁנַּנְתָּ֣ם לְבָנֶ֔יךָ וְדִבַּרְתָּ֖ בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֨ךָ֙ וּבְלֶכְתְּךָ֣
+        בַדֶּ֔רֶךְ וּֽבְשָׁכְבְּךָ֖ וּבְקוּמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:191
+      lang: ar
+      text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى
+        خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ
+        ٱلنَّارِ
 ---
 
 ## Questions

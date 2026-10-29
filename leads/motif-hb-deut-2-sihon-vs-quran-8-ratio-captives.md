@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-2-sihon-vs-quran-8-ratio-captives
 title: Defeat of Sihon king of Heshbon ↔ The ratio of the steadfast, captives and ransom
-summary: 'These two units share 1 motifs: livestock and spoil taken as booty after the ban.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,22 +13,9 @@ layers:
 - motif
 motifs:
 - livestock-and-spoil-kept
-passages:
-- tradition: judaism
-  ref: Deut 2:35
-  note: Livestock and spoil taken as booty after the ban
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֥ק הַבְּהֵמָ֖ה בָּזַ֣זְנוּ לָ֑נוּ וּשְׁלַ֥ל הֶעָרִ֖ים אֲשֶׁ֥ר לָכָֽדְנוּ
-- tradition: islam
-  ref: Quran 8:69
-  note: Livestock and spoil taken as booty after the ban (eat what you took as lawful and good)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. raq habbᵉhēmāh bāzaznû lānû ûšᵉlal heʿārîm vs fa-kulū mimmā ghanimtum: the spoil kept as lawful.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Livestock and spoil taken as booty after the ban (weight 6.0). Pair
     score 6.0.'
@@ -53,6 +40,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Livestock and spoil taken as booty after the ban
+kinds:
+- echo
+units:
+- id: hb-deut-2-sihon
+  title: Defeat of Sihon king of Heshbon
+  tradition: judaism
+- id: quran-8-ratio-captives
+  title: The ratio of the steadfast, captives and ransom
+  tradition: islam
+matches:
+- kind: echo
+  label: Livestock and spoil taken as booty after the ban
+  note: 'raq habbᵉhēmāh bāzaznû lānû ûšᵉlal heʿārîm vs fa-kulū mimmā ghanimtum: the spoil kept as lawful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 2:35
+      lang: he
+      text: רַ֥ק הַבְּהֵמָ֖ה בָּזַ֣זְנוּ לָ֑נוּ וּשְׁלַ֥ל הֶעָרִ֖ים אֲשֶׁ֥ר לָכָֽדְנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:69
+      lang: ar
+      text: فَكُلُوا۟ مِمَّا غَنِمْتُمْ حَلَٰلًا طَيِّبًا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

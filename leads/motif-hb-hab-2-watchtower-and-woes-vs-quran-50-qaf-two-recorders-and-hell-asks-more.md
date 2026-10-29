@@ -2,8 +2,7 @@
 id: motif-hb-hab-2-watchtower-and-woes-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: The vision on tablets; the righteous live by faith; five woes ↔ Nearer than the jugular vein; the
   two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: god asks gehenna ''are you full?'' and it answers ''are there
-  any more?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - hell-asks-for-more
-passages:
-- tradition: judaism
-  ref: Hab 2:5
-  note: 'God asks Gehenna ''Are you full?'' and it answers ''Are there any more?'' (hirḥîḇ kiš-ʾôl nap̄šô
-    wə-hûʾ ḵam-māweṯ wə-lōʾ yiśbāʿ vs. hali mtalaʾti ... hal min mazīd: Sheol never satisfied. In Habakkuk
-    it is a simile for the greedy conqueror; in the Quran it is Gehenna itself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַף֙ כִּֽי הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל
-    נַפְשׁ֗וֹ וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ אֵלָ֖יו
-    כָּל הָעַמִּֽים
-- tradition: islam
-  ref: Quran 50:30
-  note: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. hirḥîḇ kiš-ʾôl nap̄šô wə-hûʾ ḵam-māweṯ wə-lōʾ yiśbāʿ vs. hali mtalaʾti ... hal min mazīd: Sheol
-    never satisfied. In Habakkuk it is a simile for the greedy conqueror; in the Quran it is Gehenna itself.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God asks Gehenna ''Are you full?'' and it answers ''Are there any
     more?'' (weight 6.3). Pair score 6.3.'
@@ -74,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
+kinds:
+- echo
+units:
+- id: hb-hab-2-watchtower-and-woes
+  title: The vision on tablets; the righteous live by faith; five woes
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: echo
+  label: God asks Gehenna 'Are you full?' and it answers 'Are there any more?'
+  note: 'hirḥîḇ kiš-ʾôl nap̄šô wə-hûʾ ḵam-māweṯ wə-lōʾ yiśbāʿ vs. hali mtalaʾti ... hal min mazīd: Sheol
+    never satisfied. In Habakkuk it is a simile for the greedy conqueror; in the Quran it is Gehenna itself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:5
+      lang: he
+      text: וְאַף֙ כִּֽי הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל
+        נַפְשׁ֗וֹ וְה֤וּא כַמָּ֨וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ
+        אֵלָ֖יו כָּל הָעַמִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 50:30
+      lang: ar
+      text: يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-38-hezekiahs-illness-vs-quran-25-signs-shadow-seas
 title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm ↔ The moving shadow,
   the night garment, the two seas and the constellations
-summary: 'These two units share 1 motifs: as a sign the shadow goes back ten steps on the stairway (dial)
-  of ahaz.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - shadow-goes-back-on-dial
-passages:
-- tradition: judaism
-  ref: Isa 38:7-8
-  note: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz (ten steps (ma'alot) of
-    Ahaz; here unrequested sign, no choice offered)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:7) וְזֶה לְּךָ֥ הָא֖וֹת מֵאֵ֣ת יְהוָ֑ה אֲשֶׁר֙ יַעֲשֶׂ֣ה יְהוָ֔ה אֶת הַדָּבָ֥ר הַזֶּ֖ה אֲשֶׁ֥ר
-    דִּבֵּֽר (38:8) הִנְנִ֣י מֵשִׁ֣יב אֶת צֵ֣ל הַֽמַּעֲל֡וֹת אֲשֶׁ֣ר יָרְדָה֩ בְמַעֲל֨וֹת אָחָ֥ז בַּשֶּׁ֛מֶשׁ
-    אֲחֹרַנִּ֖ית עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שָׁב הַשֶּׁ֨מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר יָרָֽדָה
-- tradition: judaism
-  ref: Isa 38:8
-  note: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz (ten steps (ma'alot) of
-    Ahaz; here unrequested sign, no choice offered)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנְנִ֣י מֵשִׁ֣יב אֶת צֵ֣ל הַֽמַּעֲל֡וֹת אֲשֶׁ֣ר יָרְדָה֩ בְמַעֲל֨וֹת אָחָ֥ז בַּשֶּׁ֛מֶשׁ אֲחֹרַנִּ֖ית
-    עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שָׁב הַשֶּׁ֨מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר יָרָֽדָה
-- tradition: islam
-  ref: Quran 25:45
-  note: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz ('had he willed he could
-    have made it still')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا
-    ٱلشَّمْسَ عَلَيْهِ دَلِيلًا
-- tradition: islam
-  ref: Quran 25:46
-  note: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz ('had he willed he could
-    have made it still')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًا يَسِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. kayfa madda ẓ-ẓilla wa-law shāʾa la-jaʿalahu sākinan thumma jaʿalnā sh-shamsa ʿalayhi dalīlan
-    thumma qabaḍnāhu ilaynā ~ hinənî mēšîv ʾet ṣēl ham-maʿălôt ... ʾăḥōrannît ʿeśer maʿălôt: God controls
-    the moving shadow (ẓill / ṣēl) cast by the sun. Isaiah has a one-time miracle of the shadow going
-    back; the Quran has the daily shadow, which God could stop if he willed.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: As a sign the shadow goes back ten steps on the stairway (dial)
     of Ahaz (weight 6.3). Pair score 6.3.'
@@ -90,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz
+kinds:
+- echo
+units:
+- id: hb-isa-38-hezekiahs-illness
+  title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm
+  tradition: judaism
+- id: quran-25-signs-shadow-seas
+  title: The moving shadow, the night garment, the two seas and the constellations
+  tradition: islam
+matches:
+- kind: echo
+  label: As a sign the shadow goes back ten steps on the stairway (dial) of Ahaz
+  note: 'kayfa madda ẓ-ẓilla wa-law shāʾa la-jaʿalahu sākinan thumma jaʿalnā sh-shamsa ʿalayhi dalīlan
+    thumma qabaḍnāhu ilaynā ~ hinənî mēšîv ʾet ṣēl ham-maʿălôt ... ʾăḥōrannît ʿeśer maʿălôt: God controls
+    the moving shadow (ẓill / ṣēl) cast by the sun. Isaiah has a one-time miracle of the shadow going
+    back; the Quran has the daily shadow, which God could stop if he willed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:8
+      lang: he
+      text: הִנְנִ֣י מֵשִׁ֣יב אֶת צֵ֣ל הַֽמַּעֲל֡וֹת אֲשֶׁ֣ר יָרְדָה֩ בְמַעֲל֨וֹת אָחָ֥ז בַּשֶּׁ֛מֶשׁ
+        אֲחֹרַנִּ֖ית עֶ֣שֶׂר מַעֲל֑וֹת וַתָּ֤שָׁב הַשֶּׁ֨מֶשׁ֙ עֶ֣שֶׂר מַעֲל֔וֹת בַּֽמַּעֲל֖וֹת אֲשֶׁ֥ר
+        יָרָֽדָה
+  - tradition: islam
+    passages:
+    - ref: Quran 25:45
+      lang: ar
+      text: أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ
+        جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا
+    - ref: Quran 25:46
+      lang: ar
+      text: ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًا يَسِيرًا
 ---
 
 ## Questions

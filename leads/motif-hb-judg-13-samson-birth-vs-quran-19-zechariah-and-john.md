@@ -2,7 +2,7 @@
 id: motif-hb-judg-13-samson-birth-vs-quran-19-zechariah-and-john
 title: Annunciation of Samson's birth to Manoah's wife ↔ Zechariah's secret prayer and the birth of John
   (Surah 19:1-15)
-summary: 'These two units share 1 motifs: the patriarch''s wife is barren.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,47 +15,9 @@ layers:
 - motif
 motifs:
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Judg 13:2
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה
-    וְלֹ֥א יָלָֽדָה
-- tradition: judaism
-  ref: Judg 13:3
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: islam
-  ref: Quran 19:5
-  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
-    وَلِيًّا
-- tradition: islam
-  ref: Quran 19:8
-  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ
-    عِتِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ... kî-nəzîr ʾĕlōhîm yihyeh hannaʿar
-    min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām ... wa-ātaynāhu l-ḥukma ṣabiyyā
-    ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated from childhood. In Judg the angel
-    comes to the wife; in Q the announcement goes to the husband.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The patriarch''s wife is barren (weight 5.2). Pair score 5.2.'
   basis: reading
@@ -87,6 +49,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The patriarch's wife is barren
+kinds:
+- parallel
+units:
+- id: hb-judg-13-samson-birth
+  title: Annunciation of Samson's birth to Manoah's wife
+  tradition: judaism
+- id: quran-19-zechariah-and-john
+  title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The patriarch's wife is barren
+  note: 'wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ... kî-nəzîr ʾĕlōhîm yihyeh hannaʿar
+    min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām ... wa-ātaynāhu l-ḥukma ṣabiyyā
+    ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated from childhood. In Judg the angel
+    comes to the wife; in Q the announcement goes to the husband.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:2
+      lang: he
+      text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ
+        עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    - ref: Judg 13:5
+      lang: he
+      text: כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא יַעֲלֶ֣ה עַל רֹאשׁ֔וֹ כִּֽי נְזִ֧יר
+        אֱלֹהִ֛ים יִהְיֶ֥ה הַנַּ֖עַר מִן הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת יִשְׂרָאֵ֖ל מִיַּ֥ד
+        פְּלִשְׁתִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 19:5
+      lang: ar
+      text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
+        وَلِيًّا
+    - ref: Quran 19:7
+      lang: ar
+      text: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ
+        سَمِيًّا
+    - ref: Quran 19:8
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ
+        ٱلْكِبَرِ عِتِيًّا
 ---
 
 ## Questions

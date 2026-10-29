@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-8-ratio-captives
 title: The Song of Moses (Ha'azinu) ↔ The ratio of the steadfast, captives and ransom
-summary: 'These two units share 2 motifs: a ratio of the few who defeat (or are routed by) the many [divergence
-  between the texts], one chases a thousand and two put ten thousand to flight.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,62 +14,9 @@ layers:
 motifs:
 - few-against-many-ratio-as-divergence
 - one-chases-a-thousand
-passages:
-- tradition: judaism
-  ref: Deut 32:30
-  note: 'A ratio of the few who defeat (or are routed by) the many [divergence between the texts] (One
-    against a thousand: ʾêkāh yirdōp ʾeḥād ʾelep ûšᵉnayim yānîsû rᵉbābāh ʾim-lōʾ kî-ṣûrām mᵉkārām vs miʾatun
-    yaghlibū alfan. Reversed: in Deut it is Israel routed by a few, because God gave them up; in Q the
-    believers are the few who overcome many.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה אִם לֹא֙ כִּי צוּרָ֣ם מְכָרָ֔ם
-    וַֽיהוָ֖ה הִסְגִּירָֽם
-- tradition: islam
-  ref: Quran 8:65
-  note: 'A ratio of the few who defeat (or are routed by) the many [divergence between the texts] (A ratio
-    of few over many: in yakun minkum ʿishrūna ṣābirūna yaghlibū miʾatayni ... miʾatun yaghlibū alfan
-    vs wᵉrādᵉpû mikkem ḥămiššāh mēʾāh ûmēʾāh mikkem rᵉbābāh yirdōpû. Changed: Lev promises 1:20 and 1:100
-    as a blessing for obedience; Q sets 1:10 as a duty for the steadfast, then openly lowers it to 1:2
-    (al-āna khaffafa llāhu ʿankum wa-ʿalima anna fīkum ḍaʿfan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ صَٰبِرُونَ
-    يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟
-    بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
-- tradition: islam
-  ref: Quran 8:66
-  note: 'A ratio of the few who defeat (or are routed by) the many [divergence between the texts] (A ratio
-    of few over many: in yakun minkum ʿishrūna ṣābirūna yaghlibū miʾatayni ... miʾatun yaghlibū alfan
-    vs wᵉrādᵉpû mikkem ḥămiššāh mēʾāh ûmēʾāh mikkem rᵉbābāh yirdōpû. Changed: Lev promises 1:20 and 1:100
-    as a blessing for obedience; Q sets 1:10 as a duty for the steadfast, then openly lowers it to 1:2
-    (al-āna khaffafa llāhu ʿankum wa-ʿalima anna fīkum ḍaʿfan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمْ وَعَلِمَ أَنَّ فِيكُمْ ضَعْفًا فَإِن يَكُن مِّنكُم مِّا۟ئَةٌ
-    صَابِرَةٌ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُمْ أَلْفٌ يَغْلِبُوٓا۟ أَلْفَيْنِ بِإِذْنِ ٱللَّهِ
-    وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
-- tradition: judaism
-  ref: Deut 32:30
-  note: One chases a thousand and two put ten thousand to flight
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה אִם לֹא֙ כִּי צוּרָ֣ם מְכָרָ֔ם
-    וַֽיהוָ֖ה הִסְגִּירָֽם
-- tradition: islam
-  ref: Quran 8:65
-  note: One chases a thousand and two put ten thousand to flight (ʾîš-ʾeḥād mikkem yirdop-ʾālep kî YHWH
-    ʾĕlōhêkem hûʾ hannilḥām lākem vs in yakun minkum miʾatun yaghlibū alfan ... bi-ʾidhni llāh (8:66).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ صَٰبِرُونَ
-    يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟
-    بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. One against a thousand: ʾêkāh yirdōp ʾeḥād ʾelep ûšᵉnayim yānîsû rᵉbābāh ʾim-lōʾ kî-ṣûrām
-    mᵉkārām vs miʾatun yaghlibū alfan. Reversed: in Deut it is Israel routed by a few, because God gave
-    them up; in Q the believers are the few who overcome many.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ratio of the few who defeat (or are routed by) the many [divergence
     between the texts] (weight 6.3); One chases a thousand and two put ten thousand to flight (weight
@@ -100,6 +46,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A ratio of the few who defeat (or are routed by) the many
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-8-ratio-captives
+  title: The ratio of the steadfast, captives and ransom
+  tradition: islam
+matches:
+- kind: divergence
+  label: A ratio of the few who defeat (or are routed by) the many
+  note: 'One against a thousand: ʾêkāh yirdōp ʾeḥād ʾelep ûšᵉnayim yānîsû rᵉbābāh ʾim-lōʾ kî-ṣûrām mᵉkārām
+    vs miʾatun yaghlibū alfan. Reversed: in Deut it is Israel routed by a few, because God gave them up;
+    in Q the believers are the few who overcome many.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:30
+      lang: he
+      text: אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה אִם לֹא֙ כִּי צוּרָ֣ם מְכָרָ֔ם
+        וַֽיהוָ֖ה הִסְגִּירָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:65
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ
+        صَٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ
+        كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+- kind: shared
+  label: One chases a thousand and two put ten thousand to flight
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:30
+      lang: he
+      text: אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה אִם לֹא֙ כִּי צוּרָ֣ם מְכָרָ֔ם
+        וַֽיהוָ֖ה הִסְגִּירָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:65
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ
+        صَٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ
+        كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+    note: ʾîš-ʾeḥād mikkem yirdop-ʾālep kî YHWH ʾĕlōhêkem hûʾ hannilḥām lākem vs in yakun minkum miʾatun
+      yaghlibū alfan ... bi-ʾidhni llāh (8:66).
 ---
 
 ## Questions

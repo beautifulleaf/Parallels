@@ -1,8 +1,7 @@
 ---
 id: motif-quran-joseph-vs-jud-sotah-36b
 title: Joseph in the Quran (Surah 12) ↔ Joseph sees his father's image (Babylonian Talmud, Sotah 36b)
-summary: 'These two units share 2 motifs: hero nearly yields but a sign from god stops him, seduction
-  attempt when the two are alone in the house.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,27 +15,7 @@ layers:
 motifs:
 - hero-nearly-yields-sign-intervenes
 - alone-in-house
-passages:
-- tradition: islam
-  ref: Quran 12:24
-  note: Hero nearly yields but a sign from God stops him (burhān rabbihi)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ هَمَّتْ بِهِۦ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ كَذَٰلِكَ لِنَصْرِفَ
-    عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
-- tradition: judaism
-  ref: 'Joseph sees his father''s image (Babylonian Talmud, Sotah 36b): Sotah 36b'
-  note: Hero nearly yields but a sign from God stops him (his father's image appeared to him)
-- tradition: islam
-  ref: Quran 12:23
-  note: Seduction attempt when the two are alone in the house (she locked the doors)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ
-    لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
-- tradition: judaism
-  ref: 'Joseph sees his father''s image (Babylonian Talmud, Sotah 36b): Sotah 36b'
-  note: Seduction attempt when the two are alone in the house
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero nearly yields but a sign from God stops him (weight 6.3); Seduction
     attempt when the two are alone in the house (weight 5.8). Pair score 12.1.'
@@ -48,6 +27,44 @@ evidence:
   basis: scholarship
 origin: pipeline
 added: '2026-10-29'
+finding: Hero nearly yields but a sign from God stops him
+kinds:
+- shared
+units:
+- id: jud-sotah-36b
+  title: Joseph sees his father's image (Babylonian Talmud, Sotah 36b)
+  tradition: judaism
+- id: quran-joseph
+  title: Joseph in the Quran (Surah 12)
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero nearly yields but a sign from God stops him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Joseph sees his father''s image (Babylonian Talmud, Sotah 36b): Sotah 36b'
+    note: his father's image appeared to him
+  - tradition: islam
+    passages:
+    - ref: Quran 12:24
+      lang: ar
+      text: وَلَقَدْ هَمَّتْ بِهِۦ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ كَذَٰلِكَ لِنَصْرِفَ
+        عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ
+    note: burhān rabbihi
+- kind: shared
+  label: Seduction attempt when the two are alone in the house
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Joseph sees his father''s image (Babylonian Talmud, Sotah 36b): Sotah 36b'
+  - tradition: islam
+    passages:
+    - ref: Quran 12:23
+      lang: ar
+      text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ
+        هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
+    note: she locked the doors
 ---
 
 ## Questions

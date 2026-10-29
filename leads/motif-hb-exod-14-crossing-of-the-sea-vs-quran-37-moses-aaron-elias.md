@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-37-moses-aaron-elias
 title: The pursuit and the parting of the sea ↔ Moses and Aaron; Elias against Ba'l
-summary: 'These two units share 2 motifs: who is named as saved and credited at the deliverance from egypt
-  [divergence between the texts], the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,78 +14,9 @@ layers:
 motifs:
 - who-is-credited-with-the-deliverance-from-egypt-as-divergence
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:30
-  note: Who is named as saved and credited at the deliverance from Egypt [divergence between the texts]
-    (wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā
-    wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited
-    to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּ֨וֹשַׁע יְהוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם וַיַּ֤רְא יִשְׂרָאֵל֙
-    אֶת מִצְרַ֔יִם מֵ֖ת עַל שְׂפַ֥ת הַיָּֽם
-- tradition: judaism
-  ref: Exod 14:31
-  note: Who is named as saved and credited at the deliverance from Egypt [divergence between the texts]
-    (wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā
-    wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited
-    to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ
-    הָעָ֖ם אֶת יְהוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ
-- tradition: islam
-  ref: Quran 37:115
-  note: Who is named as saved and credited at the deliverance from Egypt [divergence between the texts]
-    (wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā
-    wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited
-    to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
-- tradition: islam
-  ref: Quran 37:116
-  note: Who is named as saved and credited at the deliverance from Egypt [divergence between the texts]
-    (wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā
-    wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited
-    to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 37:115
-  note: The returning waters drown the pursuing army; not one survives (saved from the great distress
-    and made victorious)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
-- tradition: islam
-  ref: Quran 37:116
-  note: The returning waters drown the pursuing army; not one survives (saved from the great distress
-    and made victorious)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs.
-    wa-najjaynāhumā wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance
-    is credited to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God''s servant.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is named as saved and credited at the deliverance from Egypt
     [divergence between the texts] (weight 6.7); The returning waters drown the pursuing army; not one
@@ -117,6 +47,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is named as saved and credited at the deliverance from Egypt
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-37-moses-aaron-elias
+  title: Moses and Aaron; Elias against Ba'l
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who is named as saved and credited at the deliverance from Egypt
+  note: wa-yyôšaʿ YHWH ba-yyôm ha-hûʾ ʾeṯ-yiśrāʾēl ... wa-yyaʾămînû ba-YHWH û-ḇə-mōšeh ʿaḇdô vs. wa-najjaynāhumā
+    wa-qawmahumā mina l-karbi l-ʿaẓīmi wa-naṣarnāhum fa-kānū humu l-ghālibīn. The deliverance is credited
+    to Moses and Aaron jointly (dual -humā). In Exodus Moses alone is named as God's servant.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:30
+      lang: he
+      text: וַיּ֨וֹשַׁע יְהוָ֜ה בַּיּ֥וֹם הַה֛וּא אֶת יִשְׂרָאֵ֖ל מִיַּ֣ד מִצְרָ֑יִם וַיַּ֤רְא יִשְׂרָאֵל֙
+        אֶת מִצְרַ֔יִם מֵ֖ת עַל שְׂפַ֥ת הַיָּֽם
+    - ref: Exod 14:31
+      lang: he
+      text: וַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ
+        הָעָ֖ם אֶת יְהוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהוָ֔ה וּבְמֹשֶׁ֖ה עַבְדּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:115
+      lang: ar
+      text: وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+    - ref: Quran 37:116
+      lang: ar
+      text: وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:26
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
+        עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
+    - ref: Exod 14:27
+      lang: he
+      text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ
+        וּמִצְרַ֖יִם נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+    note: '''not one remained'''
+  - tradition: islam
+    passages:
+    - ref: Quran 37:115
+      lang: ar
+      text: وَنَجَّيْنَٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ
+    - ref: Quran 37:116
+      lang: ar
+      text: وَنَصَرْنَٰهُمْ فَكَانُوا۟ هُمُ ٱلْغَٰلِبِينَ
+    note: saved from the great distress and made victorious
 ---
 
 ## Questions

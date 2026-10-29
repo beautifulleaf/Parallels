@@ -2,9 +2,7 @@
 id: motif-hb-ps-69-deep-waters-vs-quran-69-haqqa-books-in-right-and-left-hands
 title: Psalm 69, the waters have come up to my neck; gall and vinegar ↔ The book in the right hand and
   in the left, the seventy-cubit chain, ghislin, and the aorta of a forger
-summary: 'These two units share 2 motifs: god keeps a book in which names are written and from which sinners
-  are blotted [divergence between the texts], god keeps a book in which names are written and from which
-  sinners are blotted.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,64 +15,9 @@ layers:
 motifs:
 - heavenly-book-of-life-as-divergence
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 69:29
-  note: 'God keeps a book in which names are written and from which sinners are blotted [divergence between
-    the texts] (The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm
-    we-ʿim ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu
-    bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person
-    receives his own book, in the right or left hand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 69:19
-  note: 'God keeps a book in which names are written and from which sinners are blotted [divergence between
-    the texts] (The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm
-    we-ʿim ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu
-    bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person
-    receives his own book, in the right or left hand.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
-- tradition: islam
-  ref: Quran 69:25
-  note: 'God keeps a book in which names are written and from which sinners are blotted [divergence between
-    the texts] (The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm
-    we-ʿim ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu
-    bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person
-    receives his own book, in the right or left hand.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
-- tradition: judaism
-  ref: Ps 69:29
-  note: God keeps a book in which names are written and from which sinners are blotted (yimmahu mi-sefer
-    hayyim ve-im tsaddiqim al yikkatevu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 69:19
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
-- tradition: islam
-  ref: Quran 69:25
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm
-    we-ʿim ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu
-    bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person
-    receives his own book, in the right or left hand.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted [divergence between the texts] (weight 6.7); God keeps a book in which names are written
@@ -113,6 +56,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- divergence
+units:
+- id: hb-ps-69-deep-waters
+  title: Psalm 69, the waters have come up to my neck; gall and vinegar
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: divergence
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'The heavenly book becomes a personal book handed over: Ps 69:29 yimmāḥû mi-ssēfer ḥayyîm we-ʿim
+    ṣaddîqîm ʾal yikkātēvû (one roll of the living, names blotted out). Q 69:19/25 man ūtiya kitābahu
+    bi-yamīnihi ... hāʾumu qraʾū kitābiyah / bi-shimālihi ... yā laytanī lam ūta kitābiyah: each person
+    receives his own book, in the right or left hand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 69:19
+      lang: ar
+      text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
+    - ref: Quran 69:25
+      lang: ar
+      text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
 ---
 
 ## Questions

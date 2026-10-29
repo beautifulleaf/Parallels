@@ -2,8 +2,7 @@
 id: motif-hb-job-12-ask-the-beasts-vs-quran-45-jathiya-signs-and-israel
 title: 'Job - ask the beasts; God''s sovereign overturnings ↔ Ha-Mim: the signs, the scornful liar, Israel''s
   book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: catalogue of signs: heavens and earth, alternation of night
-  and day, ships, rain reviving dead earth, beasts, winds, clouds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - signs-in-creation-catalogue
-passages:
-- tradition: judaism
-  ref: Job 12:7
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Creatures as evidence of their maker: šəʾal nāʾ ḇəhēmôṯ wə-ṯōreḵḵā ...
-    mî lōʾ yāḏaʿ bə-ḵol ʾēlleh kî yaḏ YHWH ʿāśəṯâ zōʾṯ vs. wa-fī khalqikum wa-mā yabuththu min dābbatin
-    āyātun li-qawmin yūqinūn. In Job the beasts teach God''s arbitrary power (12:14-25); in the Quran
-    they are signs (āyāt) for believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽאוּלָ֗ם שְׁאַל נָ֣א בְהֵמ֣וֹת וְתֹרֶ֑ךָּ וְע֥וֹף הַ֝שָּׁמַ֗יִם וְיַגֶּד לָֽךְ
-- tradition: judaism
-  ref: Job 12:8
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Creatures as evidence of their maker: šəʾal nāʾ ḇəhēmôṯ wə-ṯōreḵḵā ...
-    mî lōʾ yāḏaʿ bə-ḵol ʾēlleh kî yaḏ YHWH ʿāśəṯâ zōʾṯ vs. wa-fī khalqikum wa-mā yabuththu min dābbatin
-    āyātun li-qawmin yūqinūn. In Job the beasts teach God''s arbitrary power (12:14-25); in the Quran
-    they are signs (āyāt) for believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֤וֹ שִׂ֣יחַ לָאָ֣רֶץ וְתֹרֶ֑ךָּ וִֽיסַפְּר֥וּ לְ֝ךָ֗ דְּגֵ֣י הַיָּֽם
-- tradition: islam
-  ref: Quran 45:3
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 45:4
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٌ لِّقَوْمٍ يُوقِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Creatures as evidence of their maker: šəʾal nāʾ ḇəhēmôṯ wə-ṯōreḵḵā ... mî lōʾ yāḏaʿ bə-ḵol ʾēlleh
-    kî yaḏ YHWH ʿāśəṯâ zōʾṯ vs. wa-fī khalqikum wa-mā yabuththu min dābbatin āyātun li-qawmin yūqinūn.
-    In Job the beasts teach God''s arbitrary power (12:14-25); in the Quran they are signs (āyāt) for
-    believers.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Catalogue of signs: heavens and earth, alternation of night and
     day, ships, rain reviving dead earth, beasts, winds, clouds (weight 5.6). Pair score 5.6.'
@@ -92,6 +53,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+  earth, beasts, winds, clouds'
+kinds:
+- echo
+units:
+- id: hb-job-12-ask-the-beasts
+  title: Job - ask the beasts; God's sovereign overturnings
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+    earth, beasts, winds, clouds'
+  note: 'Creatures as evidence of their maker: šəʾal nāʾ ḇəhēmôṯ wə-ṯōreḵḵā ... mî lōʾ yāḏaʿ bə-ḵol ʾēlleh
+    kî yaḏ YHWH ʿāśəṯâ zōʾṯ vs. wa-fī khalqikum wa-mā yabuththu min dābbatin āyātun li-qawmin yūqinūn.
+    In Job the beasts teach God''s arbitrary power (12:14-25); in the Quran they are signs (āyāt) for
+    believers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 12:7
+      lang: he
+      text: וְֽאוּלָ֗ם שְׁאַל נָ֣א בְהֵמ֣וֹת וְתֹרֶ֑ךָּ וְע֥וֹף הַ֝שָּׁמַ֗יִם וְיַגֶּד לָֽךְ
+    - ref: Job 12:8
+      lang: he
+      text: א֤וֹ שִׂ֣יחַ לָאָ֣רֶץ וְתֹרֶ֑ךָּ וִֽיסַפְּר֥וּ לְ֝ךָ֗ דְּגֵ֣י הַיָּֽם
+    - ref: Job 12:9
+      lang: he
+      text: מִ֭י לֹא יָדַ֣ע בְּכָל אֵ֑לֶּה כִּ֥י יַד יְ֝הוָה עָ֣שְׂתָה זֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 45:3
+      lang: ar
+      text: إِنَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّلْمُؤْمِنِينَ
+    - ref: Quran 45:4
+      lang: ar
+      text: وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٌ لِّقَوْمٍ يُوقِنُونَ
 ---
 
 ## Questions

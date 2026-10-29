@@ -2,8 +2,7 @@
 id: motif-hb-ps-58-unjust-gods-vs-quran-95-fig
 title: Psalm 58, do you gods truly speak justice? ↔ The fig and the olive, Mount Sinai and the secure
   city
-summary: 'These two units share 1 motifs: hero challenges god: shall the judge of all the earth not do
-  justice?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,24 +14,9 @@ layers:
 - motif
 motifs:
 - judge-of-all-earth-must-be-just
-passages:
-- tradition: judaism
-  ref: Ps 58:12
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (akh yesh elohim shofetim
-    ba-arets (plural participle))'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֹאמַ֣ר אָ֭דָם אַךְ פְּרִ֣י לַצַּדִּ֑יק אַ֥ךְ יֵשׁ אֱ֝לֹהִ֗ים שֹׁפְטִ֥ים בָּאָֽרֶץ
-- tradition: islam
-  ref: Quran 95:8
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (''is God not the most
-    just of judges?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-laysa llāhu bi-aḥkami l-ḥākimīn ~ ʾak yēš ʾĕlōhîm šōfeṭîm bā-ʾāreṣ.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
     (weight 6.0). Pair score 6.0.'
@@ -61,6 +45,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hero challenges God: shall the judge of all the earth not do justice?'
+kinds:
+- echo
+units:
+- id: hb-ps-58-unjust-gods
+  title: Psalm 58, do you gods truly speak justice?
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hero challenges God: shall the judge of all the earth not do justice?'
+  note: a-laysa llāhu bi-aḥkami l-ḥākimīn ~ ʾak yēš ʾĕlōhîm šōfeṭîm bā-ʾāreṣ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 58:12
+      lang: he
+      text: וְיֹאמַ֣ר אָ֭דָם אַךְ פְּרִ֣י לַצַּדִּ֑יק אַ֥ךְ יֵשׁ אֱ֝לֹהִ֗ים שֹׁפְטִ֥ים בָּאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 95:8
+      lang: ar
+      text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
 ---
 
 ## Questions

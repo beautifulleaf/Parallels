@@ -1,7 +1,7 @@
 ---
 id: motif-hb-amos-8-summer-fruit-vs-quran-7-shuayb-midian
 title: The basket of summer fruit; cheating merchants; famine of the word ↔ Shu'ayb and Midian
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Amos 8:5
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין
-    אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
-- tradition: islam
-  ref: Quran 7:85
-  note: Honest balances, weights, ephah and hin are commanded (give full measure (kayl) and weight (mizan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا تَبْخَسُوا۟
-    ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ذَٰلِكُمْ خَيْرٌ لَّكُمْ
-    إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. A prophet indicts his people for false measures. Amos: ləhaqṭîn ʾêfāh û-ləhagdîl šeqel û-lə-ʿawwēt
-    mōʾznê mirmāh. Q (Shuʿayb to Midian): fa-awfū l-kayla wa-l-mīzāna wa-lā tabkhasū l-nāsa ashyāʾahum.
-    Amos''s cheaters are Israelites impatient for the Sabbath to end; Q''s are Midianites, a people outside
-    Israel.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -66,6 +46,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-amos-8-summer-fruit
+  title: The basket of summer fruit; cheating merchants; famine of the word
+  tradition: judaism
+- id: quran-7-shuayb-midian
+  title: Shu'ayb and Midian
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'A prophet indicts his people for false measures. Amos: ləhaqṭîn ʾêfāh û-ləhagdîl šeqel û-lə-ʿawwēt
+    mōʾznê mirmāh. Q (Shuʿayb to Midian): fa-awfū l-kayla wa-l-mīzāna wa-lā tabkhasū l-nāsa ashyāʾahum.
+    Amos''s cheaters are Israelites impatient for the Sabbath to end; Q''s are Midianites, a people outside
+    Israel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 8:5
+      lang: he
+      text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר
+        לְהַקְטִ֤ין אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:85
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا
+        تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ذَٰلِكُمْ
+        خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

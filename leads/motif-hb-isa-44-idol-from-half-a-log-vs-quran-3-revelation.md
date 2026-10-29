@@ -2,7 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-3-revelation
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ Torah, Gospel and
   the clear and ambiguous verses
-summary: 'These two units share 1 motifs: god shapes you in the wombs as he wills.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +14,9 @@ layers:
 - motif
 motifs:
 - god-shapes-in-wombs
-passages:
-- tradition: judaism
-  ref: Isa 44:2
-  note: 'God shapes you in the wombs as he wills (Isa 44:2, 24 YHWH ʿōśekā wĕ-yōṣerkā mi-bbeṭen ... ʾānōkî
-    YHWH ʿōśeh kōl: the one who formed you from the womb, maker of all, with ''none besides me'' (44:6);
-    Q 3:6 huwa lladhī yuṣawwirukum fī l-arḥāmi kayfa yashāʾu lā ilāha illā huwa: the one who shapes you
-    in the wombs, no god but he. Formed in the womb as a proof of sole divinity in both; Isaiah says it
-    of Jacob, the Quran of all hearers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּה אָמַ֨ר יְהוָ֥ה עֹשֶׂ֛ךָ וְיֹצֶרְךָ֥ מִבֶּ֖טֶן יַעְזְרֶ֑ךָּ אַל תִּירָא֙ עַבְדִּ֣י יַֽעֲקֹ֔ב
-    וִישֻׁר֖וּן בָּחַ֥רְתִּי בֽוֹ
-- tradition: judaism
-  ref: Isa 44:24
-  note: 'God shapes you in the wombs as he wills (Isa 44:2, 24 YHWH ʿōśekā wĕ-yōṣerkā mi-bbeṭen ... ʾānōkî
-    YHWH ʿōśeh kōl: the one who formed you from the womb, maker of all, with ''none besides me'' (44:6);
-    Q 3:6 huwa lladhī yuṣawwirukum fī l-arḥāmi kayfa yashāʾu lā ilāha illā huwa: the one who shapes you
-    in the wombs, no god but he. Formed in the womb as a proof of sole divinity in both; Isaiah says it
-    of Jacob, the Quran of all hearers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֤ר יְהוָה֙ גֹּאֲלֶ֔ךָ וְיֹצֶרְךָ֖ מִבָּ֑טֶן אָנֹכִ֤י יְהוָה֙ עֹ֣שֶׂה כֹּ֔ל נֹטֶ֤ה שָׁמַ֨יִם֙
-    לְבַדִּ֔י רֹקַ֥ע הָאָ֖רֶץ מי אתי מֵאִתִּֽי
-- tradition: islam
-  ref: Quran 3:6
-  note: God shapes you in the wombs as he wills
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ
-    ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 44:2, 24 YHWH ʿōśekā wĕ-yōṣerkā mi-bbeṭen ... ʾānōkî YHWH ʿōśeh kōl: the one who formed
-    you from the womb, maker of all, with ''none besides me'' (44:6); Q 3:6 huwa lladhī yuṣawwirukum fī
-    l-arḥāmi kayfa yashāʾu lā ilāha illā huwa: the one who shapes you in the wombs, no god but he. Formed
-    in the womb as a proof of sole divinity in both; Isaiah says it of Jacob, the Quran of all hearers.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shapes you in the wombs as he wills (weight 6.7). Pair score
     6.7.'
@@ -86,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shapes you in the wombs as he wills
+kinds:
+- echo
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: echo
+  label: God shapes you in the wombs as he wills
+  note: 'Isa 44:2, 24 YHWH ʿōśekā wĕ-yōṣerkā mi-bbeṭen ... ʾānōkî YHWH ʿōśeh kōl: the one who formed you
+    from the womb, maker of all, with ''none besides me'' (44:6); Q 3:6 huwa lladhī yuṣawwirukum fī l-arḥāmi
+    kayfa yashāʾu lā ilāha illā huwa: the one who shapes you in the wombs, no god but he. Formed in the
+    womb as a proof of sole divinity in both; Isaiah says it of Jacob, the Quran of all hearers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:2
+      lang: he
+      text: כֹּה אָמַ֨ר יְהוָ֥ה עֹשֶׂ֛ךָ וְיֹצֶרְךָ֥ מִבֶּ֖טֶן יַעְזְרֶ֑ךָּ אַל תִּירָא֙ עַבְדִּ֣י יַֽעֲקֹ֔ב
+        וִישֻׁר֖וּן בָּחַ֥רְתִּי בֽוֹ
+    - ref: Isa 44:24
+      lang: he
+      text: כֹּֽה אָמַ֤ר יְהוָה֙ גֹּאֲלֶ֔ךָ וְיֹצֶרְךָ֖ מִבָּ֑טֶן אָנֹכִ֤י יְהוָה֙ עֹ֣שֶׂה כֹּ֔ל נֹטֶ֤ה
+        שָׁמַ֨יִם֙ לְבַדִּ֔י רֹקַ֥ע הָאָ֖רֶץ מי אתי מֵאִתִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 3:6
+      lang: ar
+      text: هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ
+        ٱلْحَكِيمُ
 ---
 
 ## Questions

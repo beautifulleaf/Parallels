@@ -1,10 +1,7 @@
 ---
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-7-calf
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ The lowing calf and the seventy
-summary: 'These two units share 6 motifs: aaron answers moses'' rebuke over the calf [divergence between
-  the texts], how the calf-worshippers are punished [divergence between the texts], moses includes himself
-  with the guilty people in his plea after the calf [divergence between the texts], the prophet breaks
-  the tablets in anger at the idolatry….'
+summary: '5 correspondences read side by side: 4 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,208 +13,23 @@ traditions:
 layers:
 - motif
 motifs:
-- aarons-defense-over-the-calf-as-divergence
 - punishment-for-the-calf-as-divergence
+- aarons-defense-over-the-calf-as-divergence
 - moses-joins-himself-to-the-guilty-as-divergence
 - tablets-broken
 - calf-lows
 - fate-of-the-first-tablets-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 32:21
-  note: 'Aaron answers Moses'' rebuke over the calf [divergence between the texts] (Moses confronts Aaron,
-    who blames the people: qāla bna umma inna l-qawma staḍʿafūnī wa-kādū yaqtulūnanī vs ʾal-yiḥar ʾap
-    ʾădōnî ʾattāh yādaʿtā ʾet-hāʿām kî bᵉraʿ hûʾ. Changed: in Exod Aaron made the calf and admits throwing
-    the gold into the fire; in Q he is not its maker and pleads that he was overpowered and nearly killed.
-    He also calls Moses ''son of my mother'' instead of ʾădōnî ''my lord''; Q adds the violence (akhadha
-    bi-raʾsi akhīhi yajurruhu ilayhi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל אַהֲרֹ֔ן מֶֽה עָשָׂ֥ה לְךָ֖ הָעָ֣ם הַזֶּ֑ה כִּֽי הֵבֵ֥אתָ עָלָ֖יו חֲטָאָ֥ה
-    גְדֹלָֽה
-- tradition: judaism
-  ref: Exod 32:22
-  note: 'Aaron answers Moses'' rebuke over the calf [divergence between the texts] (Moses confronts Aaron,
-    who blames the people: qāla bna umma inna l-qawma staḍʿafūnī wa-kādū yaqtulūnanī vs ʾal-yiḥar ʾap
-    ʾădōnî ʾattāh yādaʿtā ʾet-hāʿām kî bᵉraʿ hûʾ. Changed: in Exod Aaron made the calf and admits throwing
-    the gold into the fire; in Q he is not its maker and pleads that he was overpowered and nearly killed.
-    He also calls Moses ''son of my mother'' instead of ʾădōnî ''my lord''; Q adds the violence (akhadha
-    bi-raʾsi akhīhi yajurruhu ilayhi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל יִ֥חַר אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא
-- tradition: islam
-  ref: Quran 7:150
-  note: 'Aaron answers Moses'' rebuke over the calf [divergence between the texts] (Moses confronts Aaron,
-    who blames the people: qāla bna umma inna l-qawma staḍʿafūnī wa-kādū yaqtulūnanī vs ʾal-yiḥar ʾap
-    ʾădōnî ʾattāh yādaʿtā ʾet-hāʿām kî bᵉraʿ hûʾ. Changed: in Exod Aaron made the calf and admits throwing
-    the gold into the fire; in Q he is not its maker and pleads that he was overpowered and nearly killed.
-    He also calls Moses ''son of my mother'' instead of ʾădōnî ''my lord''; Q adds the violence (akhadha
-    bi-raʾsi akhīhi yajurruhu ilayhi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Exod 32:28
-  note: 'How the calf-worshippers are punished [divergence between the texts] (Punishment for the calf:
-    sa-yanāluhum ghaḍabun min rabbihim wa-dhillatun fī l-ḥayāti d-dunyā vs the Levites'' killing of about
-    3,000 (kišlōšet ʾalpê ʾîš), the deferred visitation (ûbᵉyôm poqdî ûpāqadtî) and the plague (wayyiggōp
-    YHWH ʾet-hāʿām). Q leaves out the Levite slaughter and gives wrath and humiliation in this life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: judaism
-  ref: Exod 32:34
-  note: 'How the calf-worshippers are punished [divergence between the texts] (Punishment for the calf:
-    sa-yanāluhum ghaḍabun min rabbihim wa-dhillatun fī l-ḥayāti d-dunyā vs the Levites'' killing of about
-    3,000 (kišlōšet ʾalpê ʾîš), the deferred visitation (ûbᵉyôm poqdî ûpāqadtî) and the plague (wayyiggōp
-    YHWH ʾet-hāʿām). Q leaves out the Levite slaughter and gives wrath and humiliation in this life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֞ה לֵ֣ךְ נְחֵ֣ה אֶת הָעָ֗ם אֶ֤ל אֲשֶׁר דִּבַּ֨רְתִּי֙ לָ֔ךְ הִנֵּ֥ה מַלְאָכִ֖י יֵלֵ֣ךְ
-    לְפָנֶ֑יךָ וּבְי֣וֹם פָּקְדִ֔י וּפָקַדְתִּ֥י עֲלֵיהֶ֖ם חַטָּאתָֽם
-- tradition: islam
-  ref: Quran 7:152
-  note: 'How the calf-worshippers are punished [divergence between the texts] (Punishment for the calf:
-    sa-yanāluhum ghaḍabun min rabbihim wa-dhillatun fī l-ḥayāti d-dunyā vs the Levites'' killing of about
-    3,000 (kišlōšet ʾalpê ʾîš), the deferred visitation (ûbᵉyôm poqdî ûpāqadtî) and the plague (wayyiggōp
-    YHWH ʾet-hāʿām). Q leaves out the Levite slaughter and gives wrath and humiliation in this life.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ
-- tradition: judaism
-  ref: Exod 32:32
-  note: 'Moses includes himself with the guilty people in his plea after the calf [divergence between
-    the texts] (Moses joins himself to the guilty: in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā),
-    answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir
-    lanā wa-rḥamnā), answered by inna rabbaka min baʿdihā la-ghafūrun raḥīm for those who repent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
-- tradition: judaism
-  ref: Exod 32:33
-  note: 'Moses includes himself with the guilty people in his plea after the calf [divergence between
-    the texts] (Moses joins himself to the guilty: in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā),
-    answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir
-    lanā wa-rḥamnā), answered by inna rabbaka min baʿdihā la-ghafūrun raḥīm for those who repent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
-- tradition: islam
-  ref: Quran 7:151
-  note: 'Moses includes himself with the guilty people in his plea after the calf [divergence between
-    the texts] (Moses joins himself to the guilty: in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā),
-    answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir
-    lanā wa-rḥamnā), answered by inna rabbaka min baʿdihā la-ghafūrun raḥīm for those who repent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: islam
-  ref: Quran 7:153
-  note: 'Moses includes himself with the guilty people in his plea after the calf [divergence between
-    the texts] (Moses joins himself to the guilty: in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā),
-    answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir
-    lanā wa-rḥamnā), answered by inna rabbaka min baʿdihā la-ghafūrun raḥīm for those who repent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ
-    مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Exod 32:19
-  note: The prophet breaks the tablets in anger at the idolatry
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֗י כַּאֲשֶׁ֤ר קָרַב֙ אֶל הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר אַ֣ף
-    מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מידו מִיָּדָיו֙ אֶת הַלֻּחֹ֔ת וַיְשַׁבֵּ֥ר אֹתָ֖ם תַּ֥חַת הָהָֽר
-- tradition: islam
-  ref: Quran 7:150
-  note: The prophet breaks the tablets in anger at the idolatry (cast down (alqa), not said to break)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Exod 32:24
-  note: 'The idol calf is a body that makes a lowing sound (khuwar) (The calf as if alive: ʿijlan jasadan
-    lahu khuwārun (a body that lows) vs Aaron''s wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh (''I threw
-    it in the fire and out came this calf''). cf. Pirqe de-R. Eliezer 45 (the calf comes out lowing),
-    outside the canon.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
-    הָעֵ֥גֶל הַזֶּֽה
-- tradition: islam
-  ref: Quran 7:148
-  note: The idol calf is a body that makes a lowing sound (khuwar) ('ijlan jasadan lahu khuwar)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
-- tradition: judaism
-  ref: Exod 32:19
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֗י כַּאֲשֶׁ֤ר קָרַב֙ אֶל הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר אַ֣ף
-    מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מידו מִיָּדָיו֙ אֶת הַלֻּחֹ֔ת וַיְשַׁבֵּ֥ר אֹתָ֖ם תַּ֥חַת הָהָֽר
-- tradition: islam
-  ref: Quran 7:150
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:154
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ
-    هُمْ لِرَبِّهِمْ يَرْهَبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, echo. The calf as if alive: ʿijlan jasadan lahu khuwārun (a body that lows) vs Aaron''s
-    wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh (''I threw it in the fire and out came this calf''). cf.
-    Pirqe de-R. Eliezer 45 (the calf comes out lowing), outside the canon. Moses returns angry: rajaʿa
-    ... ghaḍbāna asifan; wa-alqā l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr
-    ʾōtām taḥat hāhār. Q has only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr). Moses confronts
-    Aaron, who blames the people: qāla bna umma inna l-qawma staḍʿafūnī wa-kādū yaqtulūnanī vs ʾal-yiḥar
-    ʾap ʾădōnî ʾattāh yādaʿtā ʾet-hāʿām kî bᵉraʿ hûʾ. Changed: in Exod Aaron made the calf and admits
-    throwing the gold into the fire; in Q he is not its maker and pleads that he was overpowered and nearly
-    killed. He also calls Moses ''son of my mother'' instead of ʾădōnî ''my lord''; Q adds the violence
-    (akhadha bi-raʾsi akhīhi yajurruhu ilayhi). Punishment for the calf: sa-yanāluhum ghaḍabun min rabbihim
-    wa-dhillatun fī l-ḥayāti d-dunyā vs the Levites'' killing of about 3,000 (kišlōšet ʾalpê ʾîš), the
-    deferred visitation (ûbᵉyôm poqdî ûpāqadtî) and the plague (wayyiggōp YHWH ʾet-hāʿām). Q leaves out
-    the Levite slaughter and gives wrath and humiliation in this life. Moses joins himself to the guilty:
-    in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā), answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû
-    missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir lanā wa-rḥamnā), answered by inna rabbaka
-    min baʿdihā la-ghafūrun raḥīm for those who repent.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Aaron answers Moses'' rebuke over the calf [divergence between the
-    texts] (weight 6.7); How the calf-worshippers are punished [divergence between the texts] (weight
-    6.7); Moses includes himself with the guilty people in his plea after the calf [divergence between
-    the texts] (weight 6.7); The prophet breaks the tablets in anger at the idolatry (weight 6.3); The
-    idol calf is a body that makes a lowing sound (khuwar) (weight 6.3); What becomes of the first tablets
-    after the calf: broken and replaced, or cast down and taken up again [divergence between the texts]
-    (weight 5.8). Pair score 38.4.'
+- text: 'Shared motifs, rarest first: How the calf-worshippers are punished [divergence between the texts]
+    (weight 6.7); Aaron answers Moses'' rebuke over the calf [divergence between the texts] (weight 6.7);
+    Moses includes himself with the guilty people in his plea after the calf [divergence between the texts]
+    (weight 6.7); The prophet breaks the tablets in anger at the idolatry (weight 6.3); The idol calf
+    is a body that makes a lowing sound (khuwar) (weight 6.3); What becomes of the first tablets after
+    the calf: broken and replaced, or cast down and taken up again [divergence between the texts] (weight
+    5.8). Pair score 38.4.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -248,6 +60,161 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+  up again'
+kinds:
+- divergence
+- echo
+- shared
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+    up again'
+  note: 'Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk
+    miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has only ''cast down'' (alqā), never ''broke''
+    (Hebrew šibbēr).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:19
+      lang: he
+      text: וַֽיְהִ֗י כַּאֲשֶׁ֤ר קָרַב֙ אֶל הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר אַ֣ף
+        מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מידו מִיָּדָיו֙ אֶת הַלֻּחֹ֔ת וַיְשַׁבֵּ֥ר אֹתָ֖ם תַּ֥חַת הָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 7:150
+      lang: ar
+      text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى
+        مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
+        إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
+        بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- kind: divergence
+  label: Aaron answers Moses' rebuke over the calf
+  note: 'Moses confronts Aaron, who blames the people: qāla bna umma inna l-qawma staḍʿafūnī wa-kādū yaqtulūnanī
+    vs ʾal-yiḥar ʾap ʾădōnî ʾattāh yādaʿtā ʾet-hāʿām kî bᵉraʿ hûʾ. Changed: in Exod Aaron made the calf
+    and admits throwing the gold into the fire; in Q he is not its maker and pleads that he was overpowered
+    and nearly killed. He also calls Moses ''son of my mother'' instead of ʾădōnî ''my lord''; Q adds
+    the violence (akhadha bi-raʾsi akhīhi yajurruhu ilayhi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:21
+      lang: he
+      text: וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל אַהֲרֹ֔ן מֶֽה עָשָׂ֥ה לְךָ֖ הָעָ֣ם הַזֶּ֑ה כִּֽי הֵבֵ֥אתָ עָלָ֖יו
+        חֲטָאָ֥ה גְדֹלָֽה
+    - ref: Exod 32:22
+      lang: he
+      text: וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל יִ֥חַר אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא
+    - ref: Exod 32:24
+      lang: he
+      text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
+        הָעֵ֥גֶל הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:150
+      lang: ar
+      text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى
+        مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
+        إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
+        بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- kind: divergence
+  label: How the calf-worshippers are punished
+  note: 'Punishment for the calf: sa-yanāluhum ghaḍabun min rabbihim wa-dhillatun fī l-ḥayāti d-dunyā
+    vs the Levites'' killing of about 3,000 (kišlōšet ʾalpê ʾîš), the deferred visitation (ûbᵉyôm poqdî
+    ûpāqadtî) and the plague (wayyiggōp YHWH ʾet-hāʿām). Q leaves out the Levite slaughter and gives wrath
+    and humiliation in this life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+    - ref: Exod 32:34
+      lang: he
+      text: וְעַתָּ֞ה לֵ֣ךְ נְחֵ֣ה אֶת הָעָ֗ם אֶ֤ל אֲשֶׁר דִּבַּ֨רְתִּי֙ לָ֔ךְ הִנֵּ֥ה מַלְאָכִ֖י יֵלֵ֣ךְ
+        לְפָנֶ֑יךָ וּבְי֣וֹם פָּקְדִ֔י וּפָקַדְתִּ֥י עֲלֵיהֶ֖ם חַטָּאתָֽם
+    - ref: Exod 32:35
+      lang: he
+      text: וַיִּגֹּ֥ף יְהוָ֖ה אֶת הָעָ֑ם עַ֚ל אֲשֶׁ֣ר עָשׂ֣וּ אֶת הָעֵ֔גֶל אֲשֶׁ֥ר עָשָׂ֖ה אַהֲרֹֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 7:152
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ ٱتَّخَذُوا۟ ٱلْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِّن رَّبِّهِمْ وَذِلَّةٌ فِى ٱلْحَيَوٰةِ
+        ٱلدُّنْيَا وَكَذَٰلِكَ نَجْزِى ٱلْمُفْتَرِينَ
+- kind: divergence
+  label: Moses includes himself with the guilty people in his plea after the calf
+  note: 'Moses joins himself to the guilty: in Exod in punishment (wᵉʾim-ʾayin mᵉḥēnî nāʾ missiprᵉkā),
+    answered by mî ʾăšer ḥāṭāʾ-lî ʾemḥennû missiprî; in Q in forgiveness (ighfir lī wa-li-akhī; fa-ghfir
+    lanā wa-rḥamnā), answered by inna rabbaka min baʿdihā la-ghafūrun raḥīm for those who repent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:32
+      lang: he
+      text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
+    - ref: Exod 32:33
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:151
+      lang: ar
+      text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
+    - ref: Quran 7:153
+      lang: ar
+      text: وَٱلَّذِينَ عَمِلُوا۟ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُوا۟ مِنۢ بَعْدِهَا وَءَامَنُوٓا۟ إِنَّ رَبَّكَ
+        مِنۢ بَعْدِهَا لَغَفُورٌ رَّحِيمٌ
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+- kind: echo
+  label: The idol calf is a body that makes a lowing sound (khuwar)
+  note: 'The calf as if alive: ʿijlan jasadan lahu khuwārun (a body that lows) vs Aaron''s wāʾašlikēhû
+    bāʾēš wayyēṣēʾ hāʿēgel hazzeh (''I threw it in the fire and out came this calf''). cf. Pirqe de-R.
+    Eliezer 45 (the calf comes out lowing), outside the canon.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:24
+      lang: he
+      text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
+        הָעֵ֥גֶל הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+- kind: shared
+  label: The prophet breaks the tablets in anger at the idolatry
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:19
+      lang: he
+      text: וַֽיְהִ֗י כַּאֲשֶׁ֤ר קָרַב֙ אֶל הַֽמַּחֲנֶ֔ה וַיַּ֥רְא אֶת הָעֵ֖גֶל וּמְחֹלֹ֑ת וַיִּֽחַר אַ֣ף
+        מֹשֶׁ֗ה וַיַּשְׁלֵ֤ךְ מידו מִיָּדָיו֙ אֶת הַלֻּחֹ֔ת וַיְשַׁבֵּ֥ר אֹתָ֖ם תַּ֥חַת הָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 7:150
+      lang: ar
+      text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى
+        مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
+        إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
+        بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+    note: cast down (alqa), not said to break
 ---
 
 ## Questions

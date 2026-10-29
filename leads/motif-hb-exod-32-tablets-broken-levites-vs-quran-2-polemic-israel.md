@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-2-polemic-israel
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Polemic with the People of the
   Book
-summary: 'These two units share 2 motifs: israel made to drink the golden calf [divergence between the
-  texts], the idol is burned, ground to powder, scattered on water and the people made to drink it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,53 +15,9 @@ layers:
 motifs:
 - drinking-the-calf-as-divergence
 - idol-burned-ground-and-drunk
-passages:
-- tradition: judaism
-  ref: Exod 32:20
-  note: 'Israel made to drink the golden calf [divergence between the texts] (Exod 32:20 wa-yyiśrōp bā-ʾēš
-    wa-yyiṭḥan ʿad ʾăšer dāq wa-yyizer ʿal pĕnê ha-mmayim wa-yyašq ʾet bĕnê yiśrāʾēl: Moses makes Israel
-    drink the ground-up calf, a physical act; Q 2:93 wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim ''they
-    were made to drink the calf into their hearts'': the same causative ''make drink'' (hišqâ / ushribū),
-    now inward, the calf''s love soaked into their hearts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק וַיִּ֨זֶר֙
-    עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 2:93
-  note: 'Israel made to drink the golden calf [divergence between the texts] (Exod 32:20 wa-yyiśrōp bā-ʾēš
-    wa-yyiṭḥan ʿad ʾăšer dāq wa-yyizer ʿal pĕnê ha-mmayim wa-yyašq ʾet bĕnê yiśrāʾēl: Moses makes Israel
-    drink the ground-up calf, a physical act; Q 2:93 wa-ushribū fī qulūbihimu l-ʿijla bi-kufrihim ''they
-    were made to drink the calf into their hearts'': the same causative ''make drink'' (hišqâ / ushribū),
-    now inward, the calf''s love soaked into their hearts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Exod 32:20
-  note: The idol is burned, ground to powder, scattered on water and the people made to drink it (powder
-    scattered on water, Israel made to drink)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק וַיִּ֨זֶר֙
-    עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 2:93
-  note: The idol is burned, ground to powder, scattered on water and the people made to drink it (ushribu
-    fi qulubihim al-'ijl, cf. Exod 32:20)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 32:20 wa-yyiśrōp bā-ʾēš wa-yyiṭḥan ʿad ʾăšer dāq wa-yyizer ʿal pĕnê ha-mmayim wa-yyašq
-    ʾet bĕnê yiśrāʾēl: Moses makes Israel drink the ground-up calf, a physical act; Q 2:93 wa-ushribū
-    fī qulūbihimu l-ʿijla bi-kufrihim ''they were made to drink the calf into their hearts'': the same
-    causative ''make drink'' (hišqâ / ushribū), now inward, the calf''s love soaked into their hearts.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel made to drink the golden calf [divergence between the texts]
     (weight 6.7); The idol is burned, ground to powder, scattered on water and the people made to drink
@@ -97,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel made to drink the golden calf
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel made to drink the golden calf
+  note: 'Exod 32:20 wa-yyiśrōp bā-ʾēš wa-yyiṭḥan ʿad ʾăšer dāq wa-yyizer ʿal pĕnê ha-mmayim wa-yyašq ʾet
+    bĕnê yiśrāʾēl: Moses makes Israel drink the ground-up calf, a physical act; Q 2:93 wa-ushribū fī qulūbihimu
+    l-ʿijla bi-kufrihim ''they were made to drink the calf into their hearts'': the same causative ''make
+    drink'' (hišqâ / ushribū), now inward, the calf''s love soaked into their hearts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:20
+      lang: he
+      text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק
+        וַיִּ֨זֶר֙ עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+- kind: shared
+  label: The idol is burned, ground to powder, scattered on water and the people made to drink it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:20
+      lang: he
+      text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק
+        וַיִּ֨זֶר֙ עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
+    note: powder scattered on water, Israel made to drink
+  - tradition: islam
+    passages:
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+    note: ushribu fi qulubihim al-'ijl, cf. Exod 32:20
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-3-revelation
 title: Daniel in the lions' den ↔ Torah, Gospel and the clear and ambiguous verses
-summary: 'These two units share 1 motifs: israel''s god is called ''the living god, enduring forever,
-  whose kingdom shall never be destroyed''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - living-god-enduring-forever
-passages:
-- tradition: judaism
-  ref: Dan 6:21
-  note: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּכְמִקְרְבֵ֣הּ לְגֻבָּ֔א לְדָ֣נִיֵּ֔אל בְּקָ֥ל עֲצִ֖יב זְעִ֑ק עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר לְדָנִיֵּ֗אל
-    דָּֽנִיֵּאל֙ עֲבֵד֙ אֱלָהָ֣א חַיָּ֔א אֱלָהָ֗ךְ דִּ֣י אנתה אַ֤נְתְּ פָּֽלַֽח לֵהּ֙ בִּתְדִירָ֔א הַיְכִ֥ל
-    לְשֵׁיזָבוּתָ֖ךְ מִן אַרְיָוָתָֽא
-- tradition: judaism
-  ref: Dan 6:27
-  note: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִן קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י בְּכָל שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֺ֤ן זאעין זָיְעִין֙ וְדָ֣חֲלִ֔ין
-    מִן קֳדָ֖ם אֱלָהֵ֣הּ דִּי דָֽנִיֵּ֑אל דִּי ה֣וּא אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙
-    דִּֽי לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד סוֹפָֽא
-- tradition: islam
-  ref: Quran 3:2
-  note: 'Israel''s God is called ''the living God, enduring forever, whose kingdom shall never be destroyed''
-    (Dan 6:27 ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn; Q 3:2 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm (same
-    title as 2:255): cognate pair ḥayy + qayyām / qayyūm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Dan 6:27 ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn; Q 3:2 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm
-    (same title as 2:255): cognate pair ḥayy + qayyām / qayyūm.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s God is called ''the living God, enduring forever, whose
     kingdom shall never be destroyed'' (weight 6.3). Pair score 6.3.'
@@ -74,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
+kinds:
+- parallel
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
+  note: 'Dan 6:27 ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn; Q 3:2 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm
+    (same title as 2:255): cognate pair ḥayy + qayyām / qayyūm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:27
+      lang: he
+      text: מִן קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י בְּכָל שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֺ֤ן זאעין זָיְעִין֙ וְדָ֣חֲלִ֔ין
+        מִן קֳדָ֖ם אֱלָהֵ֣הּ דִּי דָֽנִיֵּ֑אל דִּי ה֣וּא אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙
+        דִּֽי לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד סוֹפָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 3:2
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ
 ---
 
 ## Questions

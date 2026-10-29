@@ -2,8 +2,7 @@
 id: motif-hb-isa-8-maher-shalal-and-stone-of-stumbling-vs-quran-26-revelation-devils-poets
 title: Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp ↔ The Trustworthy
   Spirit, the scriptures of the ancients, devils, kin and poets
-summary: 'These two units share 1 motifs: ghosts and familiar spirits ''chirp and mutter''; ''should a
-  people consult the dead on behalf of the living?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - chirping-muttering-ghosts
-passages:
-- tradition: judaism
-  ref: Isa 8:19
-  note: Ghosts and familiar spirits 'chirp and mutter'; 'should a people consult the dead on behalf of
-    the living?' (ovot and yidde'onim ha-metsaftsefim ve-ha-mahgim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי יֹאמְר֣וּ אֲלֵיכֶ֗ם דִּרְשׁ֤וּ אֶל הָאֹבוֹת֙ וְאֶל הַיִּדְּעֹנִ֔ים הַֽמְצַפְצְפִ֖ים וְהַמַּהְגִּ֑ים
-    הֲלוֹא עַם֙ אֶל אֱלֹהָ֣יו יִדְרֹ֔שׁ בְּעַ֥ד הַחַיִּ֖ים אֶל הַמֵּתִֽים
-- tradition: islam
-  ref: Quran 26:221
-  note: 'Ghosts and familiar spirits ''chirp and mutter''; ''should a people consult the dead on behalf
-    of the living?'' (hal unabbiʾukum ʿalā man tanazzalu sh-shayāṭīnu ... yulqūna s-samʿa ~ diršû ʾel
-    hā-ʾōvôt wə-ʾel hay-yiddəʿōnîm ham-maṣafṣəfîm wə-ham-mahgîm: whispering spirit-sources consulted instead
-    of God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ
-- tradition: islam
-  ref: Quran 26:223
-  note: 'Ghosts and familiar spirits ''chirp and mutter''; ''should a people consult the dead on behalf
-    of the living?'' (hal unabbiʾukum ʿalā man tanazzalu sh-shayāṭīnu ... yulqūna s-samʿa ~ diršû ʾel
-    hā-ʾōvôt wə-ʾel hay-yiddəʿōnîm ham-maṣafṣəfîm wə-ham-mahgîm: whispering spirit-sources consulted instead
-    of God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَٰذِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. hal unabbiʾukum ʿalā man tanazzalu sh-shayāṭīnu ... yulqūna s-samʿa ~ diršû ʾel hā-ʾōvôt wə-ʾel
-    hay-yiddəʿōnîm ham-maṣafṣəfîm wə-ham-mahgîm: whispering spirit-sources consulted instead of God.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ghosts and familiar spirits ''chirp and mutter''; ''should a people
     consult the dead on behalf of the living?'' (weight 6.7). Pair score 6.7.'
@@ -85,6 +56,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ghosts and familiar spirits 'chirp and mutter'; 'should a people consult the dead on behalf of
+  the living?'
+kinds:
+- echo
+units:
+- id: hb-isa-8-maher-shalal-and-stone-of-stumbling
+  title: Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp
+  tradition: judaism
+- id: quran-26-revelation-devils-poets
+  title: The Trustworthy Spirit, the scriptures of the ancients, devils, kin and poets
+  tradition: islam
+matches:
+- kind: echo
+  label: Ghosts and familiar spirits 'chirp and mutter'; 'should a people consult the dead on behalf of
+    the living?'
+  note: 'hal unabbiʾukum ʿalā man tanazzalu sh-shayāṭīnu ... yulqūna s-samʿa ~ diršû ʾel hā-ʾōvôt wə-ʾel
+    hay-yiddəʿōnîm ham-maṣafṣəfîm wə-ham-mahgîm: whispering spirit-sources consulted instead of God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 8:19
+      lang: he
+      text: וְכִֽי יֹאמְר֣וּ אֲלֵיכֶ֗ם דִּרְשׁ֤וּ אֶל הָאֹבוֹת֙ וְאֶל הַיִּדְּעֹנִ֔ים הַֽמְצַפְצְפִ֖ים
+        וְהַמַּהְגִּ֑ים הֲלוֹא עַם֙ אֶל אֱלֹהָ֣יו יִדְרֹ֔שׁ בְּעַ֥ד הַחַיִּ֖ים אֶל הַמֵּתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 26:221
+      lang: ar
+      text: هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَٰطِينُ
+    - ref: Quran 26:223
+      lang: ar
+      text: يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَٰذِبُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-28-prophet-not-present-and-the-two-books
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ The prophet was not there; the two
   books; believing People of the Book
-summary: 'These two units share 1 motifs: god will raise up a prophet like moses from among the brothers
-  and put his words in his mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Deut 18:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 28:48
-  note: 'God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    (qālū law-lā ūtiya mithla mā ūtiya Mūsā ~ nāvîʾ mi-qqirbəkā mē-ʾaḥêkā kāmōnî yāqîm ləkhā YHWH: the
-    measure for a new prophet is Moses. Deuteronomy promises a prophet ''like me''; the Quran''s opponents
-    demand that the new messenger be given ''the like of what Moses was given'', and the Quran answers
-    that they had rejected Moses too (a-wa-lam yakfurū bimā ūtiya Mūsā min qabl).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ
-    أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ قَالُوا۟ سِحْرَانِ تَظَٰهَرَا وَقَالُوٓا۟ إِنَّا
-    بِكُلٍّ كَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. qālū law-lā ūtiya mithla mā ūtiya Mūsā ~ nāvîʾ mi-qqirbəkā mē-ʾaḥêkā kāmōnî yāqîm ləkhā YHWH:
-    the measure for a new prophet is Moses. Deuteronomy promises a prophet ''like me''; the Quran''s opponents
-    demand that the new messenger be given ''the like of what Moses was given'', and the Quran answers
-    that they had rejected Moses too (a-wa-lam yakfurū bimā ūtiya Mūsā min qabl).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
     put his words in his mouth (weight 5.2). Pair score 5.2.'
@@ -83,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+kinds:
+- echo
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-28-prophet-not-present-and-the-two-books
+  title: The prophet was not there; the two books; believing People of the Book
+  tradition: islam
+matches:
+- kind: echo
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  note: 'qālū law-lā ūtiya mithla mā ūtiya Mūsā ~ nāvîʾ mi-qqirbəkā mē-ʾaḥêkā kāmōnî yāqîm ləkhā YHWH:
+    the measure for a new prophet is Moses. Deuteronomy promises a prophet ''like me''; the Quran''s opponents
+    demand that the new messenger be given ''the like of what Moses was given'', and the Quran answers
+    that they had rejected Moses too (a-wa-lam yakfurū bimā ūtiya Mūsā min qabl).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 28:48
+      lang: ar
+      text: فَلَمَّا جَآءَهُمُ ٱلْحَقُّ مِنْ عِندِنَا قَالُوا۟ لَوْلَآ أُوتِىَ مِثْلَ مَآ أُوتِىَ مُوسَىٰٓ
+        أَوَلَمْ يَكْفُرُوا۟ بِمَآ أُوتِىَ مُوسَىٰ مِن قَبْلُ قَالُوا۟ سِحْرَانِ تَظَٰهَرَا وَقَالُوٓا۟
+        إِنَّا بِكُلٍّ كَٰفِرُونَ
 ---
 
 ## Questions

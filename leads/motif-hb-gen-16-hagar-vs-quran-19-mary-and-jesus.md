@@ -2,7 +2,7 @@
 id: motif-hb-gen-16-hagar-vs-quran-19-mary-and-jesus
 title: Hagar and the birth of Ishmael ↔ Mary, the spirit in human form, the birth under the palm, the
   speaking infant (Surah 19:16-40)
-summary: 'These two units share 1 motifs: a spring or stream appears for the mother.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - miraculous-spring
-passages:
-- tradition: judaism
-  ref: Gen 16:7
-  note: 'A spring or stream appears for the mother (wayyimṣāʾāh malʾak YHWH ʿal-ʿên hammayim bammidbār
-    ... hinnāk hārâ wəyōladt bēn; fa-ntabadhat bihi makānan qaṣiyyan ... jaʿala rabbuki taḥtaki sariyyā:
-    a pregnant woman alone, away from her people, met by a divine messenger at water.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּמְצָאָ֞הּ מַלְאַ֧ךְ יְהוָ֛ה עַל עֵ֥ין הַמַּ֖יִם בַּמִּדְבָּ֑ר עַל הָעַ֖יִן בְּדֶ֥רֶךְ שֽׁוּר
-- tradition: judaism
-  ref: Gen 16:8
-  note: 'A spring or stream appears for the mother (wayyimṣāʾāh malʾak YHWH ʿal-ʿên hammayim bammidbār
-    ... hinnāk hārâ wəyōladt bēn; fa-ntabadhat bihi makānan qaṣiyyan ... jaʿala rabbuki taḥtaki sariyyā:
-    a pregnant woman alone, away from her people, met by a divine messenger at water.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛י אֵֽי מִזֶּ֥ה בָ֖את וְאָ֣נָה תֵלֵ֑כִי וַתֹּ֕אמֶר מִפְּנֵי֙
-    שָׂרַ֣י גְּבִרְתִּ֔י אָנֹכִ֖י בֹּרַֽחַת
-- tradition: islam
-  ref: Quran 19:24
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
-- tradition: islam
-  ref: Quran 19:22
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wayyimṣāʾāh malʾak YHWH ʿal-ʿên hammayim bammidbār ... hinnāk hārâ wəyōladt bēn; fa-ntabadhat
-    bihi makānan qaṣiyyan ... jaʿala rabbuki taḥtaki sariyyā: a pregnant woman alone, away from her people,
-    met by a divine messenger at water.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 5.6). Pair score
     5.6.'
@@ -80,6 +48,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A spring or stream appears for the mother
+kinds:
+- echo
+units:
+- id: hb-gen-16-hagar
+  title: Hagar and the birth of Ishmael
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: echo
+  label: A spring or stream appears for the mother
+  note: 'wayyimṣāʾāh malʾak YHWH ʿal-ʿên hammayim bammidbār ... hinnāk hārâ wəyōladt bēn; fa-ntabadhat
+    bihi makānan qaṣiyyan ... jaʿala rabbuki taḥtaki sariyyā: a pregnant woman alone, away from her people,
+    met by a divine messenger at water.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 16:7
+      lang: he
+      text: וַֽיִּמְצָאָ֞הּ מַלְאַ֧ךְ יְהוָ֛ה עַל עֵ֥ין הַמַּ֖יִם בַּמִּדְבָּ֑ר עַל הָעַ֖יִן בְּדֶ֥רֶךְ
+        שֽׁוּר
+    - ref: Gen 16:8
+      lang: he
+      text: וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛י אֵֽי מִזֶּ֥ה בָ֖את וְאָ֣נָה תֵלֵ֑כִי וַתֹּ֕אמֶר מִפְּנֵי֙
+        שָׂרַ֣י גְּבִרְתִּ֔י אָנֹכִ֖י בֹּרַֽחַת
+    - ref: Gen 16:11
+      lang: he
+      text: וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל
+        כִּֽי שָׁמַ֥ע יְהוָ֖ה אֶל עָנְיֵֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:22
+      lang: ar
+      text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+    - ref: Quran 19:24
+      lang: ar
+      text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
 ---
 
 ## Questions

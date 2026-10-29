@@ -2,10 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-27-prologue-moses-fire
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Ta Sin; Moses
   at the fire, the jann-staff and the nine signs
-summary: 'These two units share 5 motifs: moses flees from his staff turned serpent, and god''s response
-  [divergence between the texts], moses'' hand turned white as a sign [divergence between the texts],
-  prophet''s hand turns leprous, white as snow, and is restored as a sign, a staff thrown down becomes
-  a serpent and turns back into a staff….'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -21,150 +18,9 @@ motifs:
 - hand-turned-leprous-white-as-snow
 - staff-becomes-serpent
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 4:3
-  note: 'Moses flees from his staff turned serpent, and God''s response [divergence between the texts]
-    (fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās
-    Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp
-    the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā
-    takhaf innī lā yakhāfu ladayya l-mursalūna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס מֹשֶׁ֖ה
-    מִפָּנָֽיו
-- tradition: judaism
-  ref: Exod 4:4
-  note: 'Moses flees from his staff turned serpent, and God''s response [divergence between the texts]
-    (fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās
-    Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp
-    the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā
-    takhaf innī lā yakhāfu ladayya l-mursalūna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק
-    בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ
-- tradition: islam
-  ref: Quran 27:10
-  note: 'Moses flees from his staff turned serpent, and God''s response [divergence between the texts]
-    (fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās
-    Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp
-    the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā
-    takhaf innī lā yakhāfu ladayya l-mursalūna.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
-    يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
-- tradition: judaism
-  ref: Exod 4:6
-  note: 'Moses'' hand turned white as a sign [divergence between the texts] (wa-nazaʿa yadahu fa-idhā
-    hiya bayḍāʾu li-n-nāẓirīna ~ wə-hinnēh yādô məṣōraʿat ka-ššāleg: the white hand. In Exodus it is leprous
-    (məṣōraʿat), shown to Moses at the bush and meant for the Israelites (4:8-9, 4:30); in the Quran it
-    is simply ''white for the beholders'', shown to Pharaoh and his court, with no disease.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:7
-  note: 'Moses'' hand turned white as a sign [divergence between the texts] (wa-nazaʿa yadahu fa-idhā
-    hiya bayḍāʾu li-n-nāẓirīna ~ wə-hinnēh yādô məṣōraʿat ka-ššāleg: the white hand. In Exodus it is leprous
-    (məṣōraʿat), shown to Moses at the bush and meant for the Israelites (4:8-9, 4:30); in the Quran it
-    is simply ''white for the beholders'', shown to Pharaoh and his court, with no disease.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
-    וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
-- tradition: islam
-  ref: Quran 27:12
-  note: 'Moses'' hand turned white as a sign [divergence between the texts] (wa-adkhil yadaka fī jaybika
-    takhruj bayḍāʾa min ghayri sūʾin ~ hāvēʾ nāʾ yādəkā bə-ḥêqekā ... wə-hinnēh yādô məṣōraʿat ka-ššāleg:
-    hand into the bosom (jayb / ḥêq) and out white. The Quran''s ''without evil'' (min ghayri sūʾ) excludes
-    exactly what Exodus says, that the hand was leprous (məṣōraʿat), and needs no second step of restoring
-    it (4:7).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ
-    فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
-- tradition: judaism
-  ref: Exod 4:6
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:7
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
-    וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
-- tradition: islam
-  ref: Quran 27:12
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (into his bosom (jayb),
-    white without evil)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ
-    فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
-- tradition: judaism
-  ref: Exod 4:2
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
-- tradition: judaism
-  ref: Exod 4:3
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס מֹשֶׁ֖ה
-    מִפָּנָֽיו
-- tradition: islam
-  ref: Quran 27:10
-  note: A staff thrown down becomes a serpent and turns back into a staff
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
-    يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
-- tradition: judaism
-  ref: Exod 4:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙ אֲשֶׁר
-    שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח
-    אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 27:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (they
-    denied them though their souls were convinced)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 27:14
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (they
-    denied them though their souls were convinced)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ
-    ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš
-    wa-yyānās Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order
-    him to grasp the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him:
-    yā Mūsā lā takhaf innī lā yakhāfu ladayya l-mursalūna. wa-adkhil yadaka fī jaybika takhruj bayḍāʾa
-    min ghayri sūʾin ~ hāvēʾ nāʾ yādəkā bə-ḥêqekā ... wə-hinnēh yādô məṣōraʿat ka-ššāleg: hand into the
-    bosom (jayb / ḥêq) and out white. The Quran''s ''without evil'' (min ghayri sūʾ) excludes exactly
-    what Exodus says, that the hand was leprous (məṣōraʿat), and needs no second step of restoring it
-    (4:7).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses flees from his staff turned serpent, and God''s response [divergence
     between the texts] (weight 6.3); Moses'' hand turned white as a sign [divergence between the texts]
@@ -203,6 +59,128 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses flees from his staff turned serpent, and God's response
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-27-prologue-moses-fire
+  title: Ta Sin; Moses at the fire, the jann-staff and the nine signs
+  tradition: islam
+matches:
+- kind: divergence
+  label: Moses flees from his staff turned serpent, and God's response
+  note: 'fa-lammā raʾāhā tahtazzu ka-annahā jānnun wallā mudbiran wa-lam yuʿaqqib ~ wa-yhî lə-nāḥāš wa-yyānās
+    Mōše mippānāyw: Moses flees from his transformed staff in both. Exodus then has God order him to grasp
+    the snake by the tail (šəlaḥ yādəkā wə-ʾĕḥōz bi-znāvô); the Quran has God reassure him: yā Mūsā lā
+    takhaf innī lā yakhāfu ladayya l-mursalūna.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:3
+      lang: he
+      text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס
+        מֹשֶׁ֖ה מִפָּנָֽיו
+    - ref: Exod 4:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק
+        בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:10
+      lang: ar
+      text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
+        يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+- kind: divergence
+  label: Moses' hand turned white as a sign
+  note: 'wa-adkhil yadaka fī jaybika takhruj bayḍāʾa min ghayri sūʾin ~ hāvēʾ nāʾ yādəkā bə-ḥêqekā ...
+    wə-hinnēh yādô məṣōraʿat ka-ššāleg: hand into the bosom (jayb / ḥêq) and out white. The Quran''s ''without
+    evil'' (min ghayri sūʾ) excludes exactly what Exodus says, that the hand was leprous (məṣōraʿat),
+    and needs no second step of restoring it (4:7).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:6
+      lang: he
+      text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ
+        וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
+    - ref: Exod 4:7
+      lang: he
+      text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
+        וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:12
+      lang: ar
+      text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ
+        إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+- kind: shared
+  label: Prophet's hand turns leprous, white as snow, and is restored as a sign
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:6
+      lang: he
+      text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ
+        וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
+    - ref: Exod 4:7
+      lang: he
+      text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
+        וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
+    note: hand brought out of the bosom
+  - tradition: islam
+    passages:
+    - ref: Quran 27:12
+      lang: ar
+      text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ
+        إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+    note: into his bosom (jayb), white without evil
+- kind: shared
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:2
+      lang: he
+      text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
+    - ref: Exod 4:3
+      lang: he
+      text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס
+        מֹשֶׁ֖ה מִפָּנָֽיו
+    - ref: Exod 4:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק
+        בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ
+    note: Moses flees from it; seizes it by the tail
+  - tradition: islam
+    passages:
+    - ref: Quran 27:10
+      lang: ar
+      text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
+        يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:21
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙
+        אֲשֶׁר שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א
+        יְשַׁלַּ֖ח אֶת הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 27:13
+      lang: ar
+      text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
+    - ref: Quran 27:14
+      lang: ar
+      text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ
+        عَٰقِبَةُ ٱلْمُفْسِدِينَ
+    note: they denied them though their souls were convinced
 ---
 
 ## Questions

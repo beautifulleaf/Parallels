@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-3-peace-offering-vs-quran-2-food-piety
 title: The well-being (shelamim) offering and the ban on fat and blood ↔ Lawful food and true piety
-summary: 'These two units share 2 motifs: eating blood is forbidden [divergence between the texts], eating
-  blood is forbidden.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,43 +14,9 @@ layers:
 motifs:
 - prohibition-of-eating-blood-as-divergence
 - prohibition-of-eating-blood
-passages:
-- tradition: judaism
-  ref: Lev 3:17
-  note: 'Eating blood is forbidden [divergence between the texts] (Lev 3:17 kol ḥēleb wĕ-kol dām lōʾ tōʾkēlû:
-    fat and blood paired; Q 2:173 wa-d-dama: blood alone. The fat ban is dropped from the list for believers
-    (the Quran mentions the fat ban only as a law imposed on the Jews, 6:146).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
-- tradition: islam
-  ref: Quran 2:173
-  note: 'Eating blood is forbidden [divergence between the texts] (Lev 17:11 kî nepeš ha-bbāśār ba-ddām
-    hîʾ wa-ʾănî nĕtattîw lākem ʿal ha-mmizbēaḥ lĕ-kappēr: blood is forbidden because the life is in it
-    and it is given for atonement on the altar; Q 2:173 innamā ḥarrama ʿalaykumu l-maytata wa-d-dama:
-    blood forbidden as one item of a short list, with no reason given and no tie to the altar.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Lev 3:17
-  note: Eating blood is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
-- tradition: islam
-  ref: Quran 2:173
-  note: Eating blood is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 3:17 kol ḥēleb wĕ-kol dām lōʾ tōʾkēlû: fat and blood paired; Q 2:173 wa-d-dama: blood
-    alone. The fat ban is dropped from the list for believers (the Quran mentions the fat ban only as
-    a law imposed on the Jews, 6:146).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating blood is forbidden [divergence between the texts] (weight
     6.3); Eating blood is forbidden (weight 5.6). Pair score 11.9.'
@@ -81,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eating blood is forbidden
+kinds:
+- divergence
+units:
+- id: hb-lev-3-peace-offering
+  title: The well-being (shelamim) offering and the ban on fat and blood
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: divergence
+  label: Eating blood is forbidden
+  note: 'Lev 3:17 kol ḥēleb wĕ-kol dām lōʾ tōʾkēlû: fat and blood paired; Q 2:173 wa-d-dama: blood alone.
+    The fat ban is dropped from the list for believers (the Quran mentions the fat ban only as a law imposed
+    on the Jews, 6:146).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 3:17
+      lang: he
+      text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

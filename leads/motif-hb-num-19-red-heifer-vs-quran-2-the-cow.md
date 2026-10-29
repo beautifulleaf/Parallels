@@ -1,9 +1,7 @@
 ---
 id: motif-hb-num-19-red-heifer-vs-quran-2-the-cow
 title: The red heifer and corpse impurity ↔ The cow and the slain man
-summary: 'These two units share 3 motifs: unblemished red cow never yoked is burned whole for purifying
-  ash, what contact with a corpse does [contrast between the texts], description of the cow required by
-  god [divergence between the texts].'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,138 +13,15 @@ layers:
 - motif
 motifs:
 - red-heifer
-- contact-with-the-dead-as-contrast
 - description-of-the-sacred-cow-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 19:2
-  note: Unblemished red cow never yoked is burned whole for purifying ash (huqqat ha-torah; slaughtered
-    outside the camp; burned with skin, flesh, blood and dung)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר צִוָּ֥ה יְהוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר אֶל בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ
-    אֵלֶיךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא עָלָ֥ה עָלֶ֖יהָ עֹֽל
-- tradition: judaism
-  ref: Num 19:3
-  note: Unblemished red cow never yoked is burned whole for purifying ash (huqqat ha-torah; slaughtered
-    outside the camp; burned with skin, flesh, blood and dung)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט
-    אֹתָ֖הּ לְפָנָֽיו
-- tradition: islam
-  ref: Quran 2:69
-  note: Unblemished red cow never yoked is burned whole for purifying ash (unblemished (la shiyata fiha),
-    never yoked; but yellow, not red)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ
-    صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
-- tradition: islam
-  ref: Quran 2:71
-  note: Unblemished red cow never yoked is burned whole for purifying ash (unblemished (la shiyata fiha),
-    never yoked; but yellow, not red)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
-    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
-- tradition: judaism
-  ref: Num 19:9
-  note: 'What contact with a corpse does [contrast between the texts] (Num 19:9, 19:11 lĕ-mê niddâ ḥaṭṭāʾt
-    hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the cow''s ash purifies those defiled by touching
-    a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā: the dead man is struck
-    with part of the cow and comes to life. In Numbers touching the dead defiles; in the Quran the cow
-    touched to the dead raises it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָסַ֣ף אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם טָה֑וֹר
-    וְ֠הָיְתָה לַעֲדַ֨ת בְּנֵֽי יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא
-- tradition: judaism
-  ref: Num 19:11
-  note: 'What contact with a corpse does [contrast between the texts] (Num 19:9, 19:11 lĕ-mê niddâ ḥaṭṭāʾt
-    hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the cow''s ash purifies those defiled by touching
-    a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā: the dead man is struck
-    with part of the cow and comes to life. In Numbers touching the dead defiles; in the Quran the cow
-    touched to the dead raises it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֹּגֵ֥עַ בְּמֵ֖ת לְכָל נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים
-- tradition: islam
-  ref: Quran 2:72
-  note: 'What contact with a corpse does [contrast between the texts] (Num 19:9, 19:11 lĕ-mê niddâ ḥaṭṭāʾt
-    hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the cow''s ash purifies those defiled by touching
-    a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā: the dead man is struck
-    with part of the cow and comes to life. In Numbers touching the dead defiles; in the Quran the cow
-    touched to the dead raises it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
-- tradition: islam
-  ref: Quran 2:73
-  note: 'What contact with a corpse does [contrast between the texts] (Num 19:9, 19:11 lĕ-mê niddâ ḥaṭṭāʾt
-    hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the cow''s ash purifies those defiled by touching
-    a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā: the dead man is struck
-    with part of the cow and comes to life. In Numbers touching the dead defiles; in the Quran the cow
-    touched to the dead raises it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ
-    لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: judaism
-  ref: Num 19:2
-  note: 'Description of the cow required by God [divergence between the texts] (Description point by point.
-    Num 19:2 pārâ ʾădummâ tĕmîmâ ʾăšer ʾên bāh mûm ʾăšer lōʾ ʿālâ ʿālêhā ʿōl; Q 2:69, 2:71 baqaratun ṣafrāʾu
-    fāqiʿun lawnuhā ... lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā.
-    Whole (tĕmîmâ / musallama), without blemish (ʾên bāh mûm / lā shiyata fīhā), never under the yoke
-    (lōʾ ʿālâ ʿālêhā ʿōl / lā dhalūl): all match. The colour changes, red (ʾădummâ) to bright yellow (ṣafrāʾ
-    fāqiʿ). The legal statute (ḥuqqat ha-ttôrâ) becomes a narrative in which the people haggle over the
-    details (2:68-71).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר צִוָּ֥ה יְהוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר אֶל בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ
-    אֵלֶיךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא עָלָ֥ה עָלֶ֖יהָ עֹֽל
-- tradition: islam
-  ref: Quran 2:69
-  note: 'Description of the cow required by God [divergence between the texts] (Description point by point.
-    Num 19:2 pārâ ʾădummâ tĕmîmâ ʾăšer ʾên bāh mûm ʾăšer lōʾ ʿālâ ʿālêhā ʿōl; Q 2:69, 2:71 baqaratun ṣafrāʾu
-    fāqiʿun lawnuhā ... lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā.
-    Whole (tĕmîmâ / musallama), without blemish (ʾên bāh mûm / lā shiyata fīhā), never under the yoke
-    (lōʾ ʿālâ ʿālêhā ʿōl / lā dhalūl): all match. The colour changes, red (ʾădummâ) to bright yellow (ṣafrāʾ
-    fāqiʿ). The legal statute (ḥuqqat ha-ttôrâ) becomes a narrative in which the people haggle over the
-    details (2:68-71).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ
-    صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
-- tradition: islam
-  ref: Quran 2:71
-  note: 'Description of the cow required by God [divergence between the texts] (Description point by point.
-    Num 19:2 pārâ ʾădummâ tĕmîmâ ʾăšer ʾên bāh mûm ʾăšer lōʾ ʿālâ ʿālêhā ʿōl; Q 2:69, 2:71 baqaratun ṣafrāʾu
-    fāqiʿun lawnuhā ... lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā.
-    Whole (tĕmîmâ / musallama), without blemish (ʾên bāh mûm / lā shiyata fīhā), never under the yoke
-    (lōʾ ʿālâ ʿālêhā ʿōl / lā dhalūl): all match. The colour changes, red (ʾădummâ) to bright yellow (ṣafrāʾ
-    fāqiʿ). The legal statute (ḥuqqat ha-ttôrâ) becomes a narrative in which the people haggle over the
-    details (2:68-71).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
-    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+- contact-with-the-dead-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast, divergence. Description point by point. Num 19:2 pārâ ʾădummâ tĕmîmâ ʾăšer ʾên bāh mûm ʾăšer
-    lōʾ ʿālâ ʿālêhā ʿōl; Q 2:69, 2:71 baqaratun ṣafrāʾu fāqiʿun lawnuhā ... lā dhalūlun tuthīru l-arḍa
-    wa-lā tasqī l-ḥartha musallamatun lā shiyata fīhā. Whole (tĕmîmâ / musallama), without blemish (ʾên
-    bāh mûm / lā shiyata fīhā), never under the yoke (lōʾ ʿālâ ʿālêhā ʿōl / lā dhalūl): all match. The
-    colour changes, red (ʾădummâ) to bright yellow (ṣafrāʾ fāqiʿ). The legal statute (ḥuqqat ha-ttôrâ)
-    becomes a narrative in which the people haggle over the details (2:68-71). Num 19:9, 19:11 lĕ-mê niddâ
-    ḥaṭṭāʾt hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the cow''s ash purifies those defiled
-    by touching a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika yuḥyī llāhu l-mawtā: the dead man
-    is struck with part of the cow and comes to life. In Numbers touching the dead defiles; in the Quran
-    the cow touched to the dead raises it.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unblemished red cow never yoked is burned whole for purifying ash
-    (weight 6.7); What contact with a corpse does [contrast between the texts] (weight 6.7); Description
-    of the cow required by God [divergence between the texts] (weight 6.7). Pair score 20.1.'
+    (weight 6.7); Description of the cow required by God [divergence between the texts] (weight 6.7);
+    What contact with a corpse does [contrast between the texts] (weight 6.7). Pair score 20.1.'
   basis: reading
 - text: 'Only in The red heifer and corpse impurity: Ash mixed with running (''living'') water sprinkled
     to cleanse; Those who prepare the purifying agent are themselves rendered impure; A corpse defiles
@@ -170,6 +45,100 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Description of the cow required by God
+kinds:
+- divergence
+- contrast
+- shared
+units:
+- id: hb-num-19-red-heifer
+  title: The red heifer and corpse impurity
+  tradition: judaism
+- id: quran-2-the-cow
+  title: The cow and the slain man
+  tradition: islam
+matches:
+- kind: divergence
+  label: Description of the cow required by God
+  note: 'Description point by point. Num 19:2 pārâ ʾădummâ tĕmîmâ ʾăšer ʾên bāh mûm ʾăšer lōʾ ʿālâ ʿālêhā
+    ʿōl; Q 2:69, 2:71 baqaratun ṣafrāʾu fāqiʿun lawnuhā ... lā dhalūlun tuthīru l-arḍa wa-lā tasqī l-ḥartha
+    musallamatun lā shiyata fīhā. Whole (tĕmîmâ / musallama), without blemish (ʾên bāh mûm / lā shiyata
+    fīhā), never under the yoke (lōʾ ʿālâ ʿālêhā ʿōl / lā dhalūl): all match. The colour changes, red
+    (ʾădummâ) to bright yellow (ṣafrāʾ fāqiʿ). The legal statute (ḥuqqat ha-ttôrâ) becomes a narrative
+    in which the people haggle over the details (2:68-71).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 19:2
+      lang: he
+      text: זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר צִוָּ֥ה יְהוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר אֶל בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ
+        אֵלֶיךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא עָלָ֥ה עָלֶ֖יהָ עֹֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:69
+      lang: ar
+      text: قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا
+        بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
+    - ref: Quran 2:71
+      lang: ar
+      text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+        مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟
+        يَفْعَلُونَ
+- kind: contrast
+  label: What contact with a corpse does
+  note: 'Num 19:9, 19:11 lĕ-mê niddâ ḥaṭṭāʾt hîʾ ... ha-nnōgēaʿ bĕ-mēt ... wĕ-ṭāmēʾ šibʿat yāmîm: the
+    cow''s ash purifies those defiled by touching a corpse; Q 2:73 fa-qulnā ḍribūhu bi-baʿḍihā kadhālika
+    yuḥyī llāhu l-mawtā: the dead man is struck with part of the cow and comes to life. In Numbers touching
+    the dead defiles; in the Quran the cow touched to the dead raises it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 19:9
+      lang: he
+      text: וְאָסַ֣ף אִ֣ישׁ טָה֗וֹר אֵ֚ת אֵ֣פֶר הַפָּרָ֔ה וְהִנִּ֛יחַ מִח֥וּץ לַֽמַּחֲנֶ֖ה בְּמָק֣וֹם
+        טָה֑וֹר וְ֠הָיְתָה לַעֲדַ֨ת בְּנֵֽי יִשְׂרָאֵ֧ל לְמִשְׁמֶ֛רֶת לְמֵ֥י נִדָּ֖ה חַטָּ֥את הִֽוא
+    - ref: Num 19:11
+      lang: he
+      text: הַנֹּגֵ֥עַ בְּמֵ֖ת לְכָל נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:72
+      lang: ar
+      text: وَإِذْ قَتَلْتُمْ نَفْسًا فَٱدَّٰرَْٰٔتُمْ فِيهَا وَٱللَّهُ مُخْرِجٌ مَّا كُنتُمْ تَكْتُمُونَ
+    - ref: Quran 2:73
+      lang: ar
+      text: فَقُلْنَا ٱضْرِبُوهُ بِبَعْضِهَا كَذَٰلِكَ يُحْىِ ٱللَّهُ ٱلْمَوْتَىٰ وَيُرِيكُمْ ءَايَٰتِهِۦ
+        لَعَلَّكُمْ تَعْقِلُونَ
+- kind: shared
+  label: Unblemished red cow never yoked is burned whole for purifying ash
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 19:2
+      lang: he
+      text: זֹ֚את חֻקַּ֣ת הַתּוֹרָ֔ה אֲשֶׁר צִוָּ֥ה יְהוָ֖ה לֵאמֹ֑ר דַּבֵּ֣ר אֶל בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֣וּ
+        אֵלֶיךָ֩ פָרָ֨ה אֲדֻמָּ֜ה תְּמִימָ֗ה אֲשֶׁ֤ר אֵֽין בָּהּ֙ מ֔וּם אֲשֶׁ֛ר לֹא עָלָ֥ה עָלֶ֖יהָ עֹֽל
+    - ref: Num 19:3
+      lang: he
+      text: וּנְתַתֶּ֣ם אֹתָ֔הּ אֶל אֶלְעָזָ֖ר הַכֹּהֵ֑ן וְהוֹצִ֤יא אֹתָהּ֙ אֶל מִח֣וּץ לַֽמַּחֲנֶ֔ה וְשָׁחַ֥ט
+        אֹתָ֖הּ לְפָנָֽיו
+    - ref: Num 19:5
+      lang: he
+      text: וְשָׂרַ֥ף אֶת הַפָּרָ֖ה לְעֵינָ֑יו אֶת עֹרָ֤הּ וְאֶת בְּשָׂרָהּ֙ וְאֶת דָּמָ֔הּ עַל פִּרְשָׁ֖הּ
+        יִשְׂרֹֽף
+    note: huqqat ha-torah; slaughtered outside the camp; burned with skin, flesh, blood and dung
+  - tradition: islam
+    passages:
+    - ref: Quran 2:69
+      lang: ar
+      text: قَالُوا۟ ٱدْعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوْنُهَا قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا
+        بَقَرَةٌ صَفْرَآءُ فَاقِعٌ لَّوْنُهَا تَسُرُّ ٱلنَّٰظِرِينَ
+    - ref: Quran 2:71
+      lang: ar
+      text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+        مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟
+        يَفْعَلُونَ
+    note: unblemished (la shiyata fiha), never yoked; but yellow, not red
 ---
 
 ## Questions

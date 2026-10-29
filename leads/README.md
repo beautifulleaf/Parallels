@@ -20,6 +20,7 @@ fields marked **human** below, and it never changes the notes body.
 | `traditions` | yes | — | ids from `data/traditions.yaml`; two or more unless the only relation is `internal` |
 | `layers` | yes | — | one or more of `lexical` · `motif` · `concept` |
 | `motifs` | no | — | kebab-case motif tags (pipeline leads use narrative ids here) |
+| `finding`, `kinds`, `units`, `matches` | no | pipeline | motif leads: the headline finding; the kinds of correspondence (`divergence` · `contrast` · `response` · `parallel` · `echo` · `shared`); the two units; and one row per correspondence with its kind, label, the reader's note and each side's verses in the original |
 | `concepts` | no | — | kebab-case concept tags |
 | `lexical` | no | — | list of `{lang, form, translit, gloss}` |
 | `passages` | no | — | list of `{tradition, ref, text?, lang?, source?, translation?, note?}`. `text` is always the original language, filled by `tools/originals.py` from the corpora; `translation` is optional and secondary |

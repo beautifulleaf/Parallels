@@ -2,8 +2,7 @@
 id: motif-hb-prov-1-prologue-vs-quran-35-not-equal
 title: Proverbs 1:1-7, title and purpose; fear of YHWH ↔ No soul bears another's burden; the blind and
   the seeing; the colors of creation
-summary: 'These two units share 1 motifs: how the fear of god and knowledge are related [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - fear-of-god-and-knowledge-as-divergence
-passages:
-- tradition: judaism
-  ref: Prov 1:7
-  note: 'How the fear of God and knowledge are related [divergence between the texts] (Fear and knowledge
-    in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning of knowledge). Q: innamā yakhshā
-    llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God, after observing the colours of
-    creation).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִרְאַ֣ת יְ֭הוָה רֵאשִׁ֣ית דָּ֑עַת חָכְמָ֥ה וּ֝מוּסָ֗ר אֱוִילִ֥ים בָּֽזוּ
-- tradition: islam
-  ref: Quran 35:28
-  note: 'How the fear of God and knowledge are related [divergence between the texts] (Fear and knowledge
-    in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning of knowledge). Q: innamā yakhshā
-    llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God, after observing the colours of
-    creation).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ إِنَّمَا يَخْشَى
-    ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Fear and knowledge in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning
-    of knowledge). Q: innamā yakhshā llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God,
-    after observing the colours of creation).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the fear of God and knowledge are related [divergence between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -66,6 +43,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How the fear of God and knowledge are related
+kinds:
+- divergence
+units:
+- id: hb-prov-1-prologue
+  title: Proverbs 1:1-7, title and purpose; fear of YHWH
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: divergence
+  label: How the fear of God and knowledge are related
+  note: 'Fear and knowledge in reverse order. Prov: yirʾaṯ YHWH rēʾšîṯ dāʿaṯ (fear is the beginning of
+    knowledge). Q: innamā yakhshā llāha min ʿibādihi l-ʿulamāʾu (only those with knowledge fear God, after
+    observing the colours of creation).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 1:7
+      lang: he
+      text: יִרְאַ֣ת יְ֭הוָה רֵאשִׁ֣ית דָּ֑עַת חָכְמָ֥ה וּ֝מוּסָ֗ר אֱוִילִ֥ים בָּֽזוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 35:28
+      lang: ar
+      text: وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ إِنَّمَا يَخْشَى
+        ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ
 ---
 
 ## Questions

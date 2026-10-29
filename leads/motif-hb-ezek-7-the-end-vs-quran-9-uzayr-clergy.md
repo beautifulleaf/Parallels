@@ -2,8 +2,7 @@
 id: motif-hb-ezek-7-the-end-vs-quran-9-uzayr-clergy
 title: The end has come upon the four corners of the land ↔ 'Uzayr and the Messiah called sons of God;
   rabbis and monks as lords
-summary: 'These two units share 1 motifs: hoarded gold and silver are heated in hell and used to brand
-  the hoarders'' foreheads, sides and backs.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - hoarded-gold-brands-hoarders
-passages:
-- tradition: judaism
-  ref: Ezek 7:19
-  note: 'Hoarded gold and silver are heated in hell and used to brand the hoarders'' foreheads, sides
-    and backs (Gold and silver turn against their owners on the day of wrath: alladhīna yaknizūna dh-dhahaba
-    wa-l-fiḍḍata ... yawma yuḥmā ʿalayhā fī nāri jahannama fa-tukwā bihā jibāhuhum vs kaspām ûzᵉhābām
-    lōʾ-yûkal lᵉhaṣṣîlām bᵉyôm ʿebrat YHWH ... kî-mikšôl ʿăwōnām hāyāh. In Ezek the metal cannot save
-    them; in Q it becomes the instrument of their torment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
-    יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
-    כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
-- tradition: islam
-  ref: Quran 9:34
-  note: Hoarded gold and silver are heated in hell and used to brand the hoarders' foreheads, sides and
-    backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
-    أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
-    وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
-- tradition: islam
-  ref: Quran 9:35
-  note: Hoarded gold and silver are heated in hell and used to brand the hoarders' foreheads, sides and
-    backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ
-    هَٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Gold and silver turn against their owners on the day of wrath: alladhīna yaknizūna dh-dhahaba
-    wa-l-fiḍḍata ... yawma yuḥmā ʿalayhā fī nāri jahannama fa-tukwā bihā jibāhuhum vs kaspām ûzᵉhābām
-    lōʾ-yûkal lᵉhaṣṣîlām bᵉyôm ʿebrat YHWH ... kî-mikšôl ʿăwōnām hāyāh. In Ezek the metal cannot save
-    them; in Q it becomes the instrument of their torment.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hoarded gold and silver are heated in hell and used to brand the
     hoarders'' foreheads, sides and backs (weight 6.7). Pair score 6.7.'
@@ -83,6 +49,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hoarded gold and silver are heated in hell and used to brand the hoarders' foreheads, sides and
+  backs
+kinds:
+- echo
+units:
+- id: hb-ezek-7-the-end
+  title: The end has come upon the four corners of the land
+  tradition: judaism
+- id: quran-9-uzayr-clergy
+  title: '''Uzayr and the Messiah called sons of God; rabbis and monks as lords'
+  tradition: islam
+matches:
+- kind: echo
+  label: Hoarded gold and silver are heated in hell and used to brand the hoarders' foreheads, sides and
+    backs
+  note: 'Gold and silver turn against their owners on the day of wrath: alladhīna yaknizūna dh-dhahaba
+    wa-l-fiḍḍata ... yawma yuḥmā ʿalayhā fī nāri jahannama fa-tukwā bihā jibāhuhum vs kaspām ûzᵉhābām
+    lōʾ-yûkal lᵉhaṣṣîlām bᵉyôm ʿebrat YHWH ... kî-mikšôl ʿăwōnām hāyāh. In Ezek the metal cannot save
+    them; in Q it becomes the instrument of their torment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 7:19
+      lang: he
+      text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
+        יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
+        כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:34
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
+        أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
+        وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+    - ref: Quran 9:35
+      lang: ar
+      text: يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ
+        هَٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ
 ---
 
 ## Questions

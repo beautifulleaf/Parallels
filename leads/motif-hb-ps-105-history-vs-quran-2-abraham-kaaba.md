@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-2-abraham-kaaba
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Abraham, Ishmael
   and the House
-summary: 'These two units share 2 motifs: the chain of patriarchs to whom revelation or covenant passed
-  [divergence between the texts], god identifies himself as god of abraham, isaac and jacob.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,78 +15,9 @@ layers:
 motifs:
 - chain-of-patriarchs-in-covenant-as-divergence
 - god-of-abraham-isaac-jacob
-passages:
-- tradition: judaism
-  ref: Ps 105:9
-  note: 'The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]
-    (Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq: one covenant
-    passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa wa-yaʿqūba
-    wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and Moses, Jesus
-    and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
-- tradition: judaism
-  ref: Ps 105:10
-  note: 'The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]
-    (Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq: one covenant
-    passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa wa-yaʿqūba
-    wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and Moses, Jesus
-    and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
-- tradition: islam
-  ref: Quran 2:136
-  note: 'The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]
-    (Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq: one covenant
-    passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa wa-yaʿqūba
-    wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and Moses, Jesus
-    and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ
-    وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِىَ ٱلنَّبِيُّونَ
-    مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
-- tradition: islam
-  ref: Quran 2:140
-  note: 'The chain of patriarchs to whom revelation or covenant passed [divergence between the texts]
-    (Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq: one covenant
-    passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa wa-yaʿqūba
-    wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and Moses, Jesus
-    and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟
-    هُودًا أَوْ نَصَٰرَىٰ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً
-    عِندَهُۥ مِنَ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
-- tradition: judaism
-  ref: Ps 105:9-10
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (105:9) אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק (105:10) וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב
-    לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
-- tradition: judaism
-  ref: Ps 105:9
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
-- tradition: islam
-  ref: Quran 2:133
-  note: God identifies himself as God of Abraham, Isaac and Jacob (Ishmael included among the fathers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq:
-    one covenant passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa
-    wa-yaʿqūba wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and
-    Moses, Jesus and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The chain of patriarchs to whom revelation or covenant passed [divergence
     between the texts] (weight 6.7); God identifies himself as God of Abraham, Isaac and Jacob (weight
@@ -124,6 +54,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The chain of patriarchs to whom revelation or covenant passed
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: The chain of patriarchs to whom revelation or covenant passed
+  note: 'Ps 105:9-10 ʾăšer kārat ʾet ʾabrāhām û-šĕbûʿātô lĕ-yiśḥāq wa-yyaʿămîdehā lĕ-yaʿăqōb lĕ-ḥōq: one
+    covenant passed Abraham, Isaac, Jacob, i.e. to Israel; Q 2:136, 2:140 ibrāhīma wa-ismāʿīla wa-isḥāqa
+    wa-yaʿqūba wa-l-asbāṭ ... lā nufarriqu bayna aḥadin minhum: the same chain with Ishmael added and
+    Moses, Jesus and all prophets included, none preferred, and none ''Jewish or Christian'' (2:140).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:9
+      lang: he
+      text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
+    - ref: Ps 105:10
+      lang: he
+      text: וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:136
+      lang: ar
+      text: قُولُوٓا۟ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبْرَٰهِۦمَ
+        وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَمَآ أُوتِىَ مُوسَىٰ وَعِيسَىٰ وَمَآ
+        أُوتِىَ ٱلنَّبِيُّونَ مِن رَّبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّنْهُمْ وَنَحْنُ لَهُۥ مُسْلِمُونَ
+    - ref: Quran 2:140
+      lang: ar
+      text: أَمْ تَقُولُونَ إِنَّ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطَ كَانُوا۟
+        هُودًا أَوْ نَصَٰرَىٰ قُلْ ءَأَنتُمْ أَعْلَمُ أَمِ ٱللَّهُ وَمَنْ أَظْلَمُ مِمَّن كَتَمَ شَهَٰدَةً
+        عِندَهُۥ مِنَ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+- kind: shared
+  label: God identifies himself as God of Abraham, Isaac and Jacob
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:9-10
+      lang: he
+      text: (105:9) אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק (105:10) וַיַּֽעֲמִידֶ֣הָ
+        לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+    - ref: Ps 105:9
+      lang: he
+      text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
+    - ref: Ps 105:10
+      lang: he
+      text: וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+    note: Ishmael included among the fathers
 ---
 
 ## Questions

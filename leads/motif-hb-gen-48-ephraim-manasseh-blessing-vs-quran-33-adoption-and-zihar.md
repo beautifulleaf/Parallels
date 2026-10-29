@@ -2,8 +2,7 @@
 id: motif-hb-gen-48-ephraim-manasseh-blessing-vs-quran-33-adoption-and-zihar
 title: Jacob adopts and blesses Ephraim and Manasseh ↔ Two hearts, zihar, adopted sons, and the prophet's
   wives as mothers
-summary: 'These two units share 1 motifs: whether an adopted or fostered child counts as one''s own child
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,59 +14,9 @@ layers:
 - motif
 motifs:
 - status-of-an-adopted-child-as-contrast
-passages:
-- tradition: judaism
-  ref: Gen 48:5
-  note: 'Whether an adopted or fostered child counts as one''s own child [contrast between the texts]
-    (Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his grandsons
-    into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal
-    šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum
-    li-ābāʾihim. A declared son is not a son, and must be called after his real father.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֡ה שְׁנֵֽי בָנֶיךָ֩ הַנּוֹלָדִ֨ים לְךָ֜ בְּאֶ֣רֶץ מִצְרַ֗יִם עַד בֹּאִ֥י אֵלֶ֛יךָ מִצְרַ֖יְמָה
-    לִי הֵ֑ם אֶפְרַ֨יִם֙ וּמְנַשֶּׁ֔ה כִּרְאוּבֵ֥ן וְשִׁמְע֖וֹן יִֽהְיוּ לִֽי
-- tradition: judaism
-  ref: Gen 48:6
-  note: 'Whether an adopted or fostered child counts as one''s own child [contrast between the texts]
-    (Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his grandsons
-    into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal
-    šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum
-    li-ābāʾihim. A declared son is not a son, and must be called after his real father.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמוֹלַדְתְּךָ֛ אֲשֶׁר הוֹלַ֥דְתָּ אַחֲרֵיהֶ֖ם לְךָ֣ יִהְי֑וּ עַ֣ל שֵׁ֧ם אֲחֵיהֶ֛ם יִקָּרְא֖וּ
-    בְּנַחֲלָתָֽם
-- tradition: islam
-  ref: Quran 33:4
-  note: 'Whether an adopted or fostered child counts as one''s own child [contrast between the texts]
-    (Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his grandsons
-    into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal
-    šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum
-    li-ābāʾihim. A declared son is not a son, and must be called after his real father.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى
-    تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم
-    بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
-- tradition: islam
-  ref: Quran 33:5
-  note: 'Whether an adopted or fostered child counts as one''s own child [contrast between the texts]
-    (Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his grandsons
-    into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal
-    šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum
-    li-ābāʾihim. A declared son is not a son, and must be called after his real father.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ
-    فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ
-    وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his
-    grandsons into sons with full tribal inheritance, and later sons are called by the name of their brothers
-    (ʿal šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum
-    ... udʿūhum li-ābāʾihim. A declared son is not a son, and must be called after his real father.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether an adopted or fostered child counts as one''s own child
     [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -97,6 +46,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether an adopted or fostered child counts as one's own child
+kinds:
+- contrast
+units:
+- id: hb-gen-48-ephraim-manasseh-blessing
+  title: Jacob adopts and blesses Ephraim and Manasseh
+  tradition: judaism
+- id: quran-33-adoption-and-zihar
+  title: Two hearts, zihar, adopted sons, and the prophet's wives as mothers
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether an adopted or fostered child counts as one's own child
+  note: 'Gen: ʾep̄rayim û-mənaššeh kə-rəʾûḇēn wə-šimʿôn yihyû-lî. Jacob''s declaration makes his grandsons
+    into sons with full tribal inheritance, and later sons are called by the name of their brothers (ʿal
+    šēm ʾăḥêhem yiqqārəʾû). Q: wa-mā jaʿala adʿiyāʾakum abnāʾakum dhālikum qawlukum bi-afwāhikum ... udʿūhum
+    li-ābāʾihim. A declared son is not a son, and must be called after his real father.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 48:5
+      lang: he
+      text: וְעַתָּ֡ה שְׁנֵֽי בָנֶיךָ֩ הַנּוֹלָדִ֨ים לְךָ֜ בְּאֶ֣רֶץ מִצְרַ֗יִם עַד בֹּאִ֥י אֵלֶ֛יךָ מִצְרַ֖יְמָה
+        לִי הֵ֑ם אֶפְרַ֨יִם֙ וּמְנַשֶּׁ֔ה כִּרְאוּבֵ֥ן וְשִׁמְע֖וֹן יִֽהְיוּ לִֽי
+    - ref: Gen 48:6
+      lang: he
+      text: וּמוֹלַדְתְּךָ֛ אֲשֶׁר הוֹלַ֥דְתָּ אַחֲרֵיהֶ֖ם לְךָ֣ יִהְי֑וּ עַ֣ל שֵׁ֧ם אֲחֵיהֶ֛ם יִקָּרְא֖וּ
+        בְּנַחֲלָתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 33:4
+      lang: ar
+      text: مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى
+        تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم
+        بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
+    - ref: Quran 33:5
+      lang: ar
+      text: ٱدْعُوهُمْ لِءَابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ
+        فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ
+        وَلَٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

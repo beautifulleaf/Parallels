@@ -2,9 +2,7 @@
 id: motif-hb-ps-87-zion-birthplace-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Psalm 87, Zion mother of nations; this one was born there ↔ Desire as god, 'only Time destroys
   us', and every nation kneeling before its book
-summary: 'These two units share 2 motifs: on the day of the hour every community is seen kneeling (jathiya),
-  each called to its book of deeds, god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,57 +15,9 @@ layers:
 motifs:
 - every-nation-kneeling-called-to-its-book
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 87:6
-  note: 'On the day of the Hour every community is seen kneeling (jathiya), each called to its book of
-    deeds (A divine register of peoples: YHWH yispōr biḵṯôḇ ʿammîm zeh yullaḏ šām vs. kullu ummatin tudʿā
-    ilā kitābihā. The psalm''s register records birth in Zion as a privilege; the Quran''s books record
-    deeds for judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 45:28
-  note: On the day of the Hour every community is seen kneeling (jathiya), each called to its book of
-    deeds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
-    مَا كُنتُمْ تَعْمَلُونَ
-- tradition: islam
-  ref: Quran 45:27
-  note: On the day of the Hour every community is seen kneeling (jathiya), each called to its book of
-    deeds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِلَّهِ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يَوْمَئِذٍ يَخْسَرُ ٱلْمُبْطِلُونَ
-- tradition: judaism
-  ref: Ps 87:6
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 45:28
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
-    مَا كُنتُمْ تَعْمَلُونَ
-- tradition: islam
-  ref: Quran 45:29
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A divine register of peoples: YHWH yispōr biḵṯôḇ ʿammîm zeh yullaḏ šām vs. kullu ummatin tudʿā
-    ilā kitābihā. The psalm''s register records birth in Zion as a privilege; the Quran''s books record
-    deeds for judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of the Hour every community is seen kneeling (jathiya),
     each called to its book of deeds (weight 6.3); God keeps a book in which names are written and from
@@ -102,6 +52,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day of the Hour every community is seen kneeling (jathiya), each called to its book of
+  deeds
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-87-zion-birthplace
+  title: Psalm 87, Zion mother of nations; this one was born there
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day of the Hour every community is seen kneeling (jathiya), each called to its book of
+    deeds
+  note: 'A divine register of peoples: YHWH yispōr biḵṯôḇ ʿammîm zeh yullaḏ šām vs. kullu ummatin tudʿā
+    ilā kitābihā. The psalm''s register records birth in Zion as a privilege; the Quran''s books record
+    deeds for judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 45:28
+      lang: ar
+      text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
+        مَا كُنتُمْ تَعْمَلُونَ
+- kind: shared
+  label: God keeps a book in which names are written and from which sinners are blotted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 45:28
+      lang: ar
+      text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
+        مَا كُنتُمْ تَعْمَلُونَ
+    - ref: Quran 45:29
+      lang: ar
+      text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+    note: a ledger of deeds rather than of names
 ---
 
 ## Questions

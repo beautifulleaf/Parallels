@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-11-adversaries-vs-quran-28-moses-kills-and-flees
 title: Hadad the Edomite and Rezon of Damascus ↔ Moses kills the Egyptian, is warned, and flees toward
   Midian
-summary: 'These two units share 1 motifs: hero flees the king''s death sentence to a foreign land.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - hero-flees-to-foreign-land
-passages:
-- tradition: judaism
-  ref: 1Kgs 11:17
-  note: Hero flees the king's death sentence to a foreign land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבְרַ֣ח אֲדַ֡ד הוּא֩ וַאֲנָשִׁ֨ים אֲדֹמִיִּ֜ים מֵעַבְדֵ֥י אָבִ֛יו אִתּ֖וֹ לָב֣וֹא מִצְרָ֑יִם
-    וַהֲדַ֖ד נַ֥עַר קָטָֽן
-- tradition: judaism
-  ref: 1Kgs 11:23-24
-  note: Hero flees the king's death sentence to a foreign land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (11:23) וַיָּ֨קֶם אֱלֹהִ֥ים לוֹ֙ שָׂטָ֔ן אֶת רְז֖וֹן בֶּן אֶלְיָדָ֑ע אֲשֶׁ֣ר בָּרַ֗ח מֵאֵ֛ת הֲדַדְעֶ֥זֶר
-    מֶֽלֶךְ צוֹבָ֖ה אֲדֹנָֽיו (11:24) וַיִּקְבֹּ֤ץ עָלָיו֙ אֲנָשִׁ֔ים וַיְהִ֣י שַׂר גְּד֔וּד בַּהֲרֹ֥ג
-    דָּוִ֖ד אֹתָ֑ם וַיֵּלְכ֤וּ דַמֶּ֨שֶׂק֙ וַיֵּ֣שְׁבוּ בָ֔הּ וַֽיִּמְלְכ֖וּ בְּדַמָּֽשֶׂק
-- tradition: islam
-  ref: Quran 28:21
-  note: Hero flees the king's death sentence to a foreign land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 28:22
-  note: Hero flees the king's death sentence to a foreign land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-kharaja minhā khāʾifan ... tilqāʾa Madyana ~ wa-yyivraḥ ʾĂdad ... wa-yyāqumû mim-Midyān wa-yyāvōʾû
-    Pāʾrān ... Miṣrayim ʾel Parʿōh: a hunted young man flees by way of Midian. Hadad''s route goes the
-    opposite way, from Edom through Midian into Pharaoh''s court, while Moses flees from Pharaoh''s court
-    to Midian.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero flees the king''s death sentence to a foreign land (weight
     5.8). Pair score 5.8.'
@@ -74,6 +43,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero flees the king's death sentence to a foreign land
+kinds:
+- echo
+units:
+- id: hb-1kgs-11-adversaries
+  title: Hadad the Edomite and Rezon of Damascus
+  tradition: judaism
+- id: quran-28-moses-kills-and-flees
+  title: Moses kills the Egyptian, is warned, and flees toward Midian
+  tradition: islam
+matches:
+- kind: echo
+  label: Hero flees the king's death sentence to a foreign land
+  note: 'fa-kharaja minhā khāʾifan ... tilqāʾa Madyana ~ wa-yyivraḥ ʾĂdad ... wa-yyāqumû mim-Midyān wa-yyāvōʾû
+    Pāʾrān ... Miṣrayim ʾel Parʿōh: a hunted young man flees by way of Midian. Hadad''s route goes the
+    opposite way, from Edom through Midian into Pharaoh''s court, while Moses flees from Pharaoh''s court
+    to Midian.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 11:17
+      lang: he
+      text: וַיִּבְרַ֣ח אֲדַ֡ד הוּא֩ וַאֲנָשִׁ֨ים אֲדֹמִיִּ֜ים מֵעַבְדֵ֥י אָבִ֛יו אִתּ֖וֹ לָב֣וֹא מִצְרָ֑יִם
+        וַהֲדַ֖ד נַ֥עַר קָטָֽן
+    - ref: 1Kgs 11:18
+      lang: he
+      text: וַיָּקֻ֨מוּ֙ מִמִּדְיָ֔ן וַיָּבֹ֖אוּ פָּארָ֑ן וַיִּקְחוּ֩ אֲנָשִׁ֨ים עִמָּ֜ם מִפָּארָ֗ן וַיָּבֹ֤אוּ
+        מִצְרַ֨יִם֙ אֶל פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם וַיִּתֶּן ל֣וֹ בַ֗יִת וְלֶ֨חֶם֙ אָ֣מַר ל֔וֹ וְאֶ֖רֶץ
+        נָ֥תַן לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:21
+      lang: ar
+      text: فَخَرَجَ مِنْهَا خَآئِفًا يَتَرَقَّبُ قَالَ رَبِّ نَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+    - ref: Quran 28:22
+      lang: ar
+      text: وَلَمَّا تَوَجَّهَ تِلْقَآءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّىٓ أَن يَهْدِيَنِى سَوَآءَ ٱلسَّبِيلِ
 ---
 
 ## Questions

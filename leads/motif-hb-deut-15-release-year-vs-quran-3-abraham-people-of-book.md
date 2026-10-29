@@ -2,8 +2,7 @@
 id: motif-hb-deut-15-release-year-vs-quran-3-abraham-people-of-book
 title: Release of debts, release of Hebrew slaves, firstlings ↔ The common word; Abraham neither Jew nor
   Christian
-summary: 'These two units share 2 motifs: debts of a foreigner may still be exacted though a brother''s
-  are released, whether obligations differ toward insiders and outsiders [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -16,53 +15,9 @@ layers:
 motifs:
 - foreigner-may-be-dunned
 - duties-toward-outsiders-as-response
-passages:
-- tradition: judaism
-  ref: Deut 15:3
-  note: Debts of a foreigner may still be exacted though a brother's are released
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ
-- tradition: islam
-  ref: Quran 3:75
-  note: Debts of a foreigner may still be exacted though a brother's are released (differential obligation
-    toward outsiders)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن
-    تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَٰلِكَ بِأَنَّهُمْ
-    قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
-- tradition: judaism
-  ref: Deut 15:3
-  note: 'Whether obligations differ toward insiders and outsiders [response between the texts] (Deut 15:3
-    ʾet ha-nnokrî tiggōś wa-ʾăšer yihyeh lĕkā ʾet ʾāḥîkā tašmēṭ yādekā: you may press the foreigner but
-    must release your brother; Q 3:75 dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna sabīlun wa-yaqūlūna
-    ʿalā llāhi l-kadhiba: some People of the Book keep back what is entrusted to them, saying ''we have
-    no obligation toward the gentiles'', and so lie about God. The Quran rejects the claim that a two-tier
-    duty toward outsiders is God''s law.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ
-- tradition: islam
-  ref: Quran 3:75
-  note: 'Whether obligations differ toward insiders and outsiders [response between the texts] (Deut 15:3
-    ʾet ha-nnokrî tiggōś wa-ʾăšer yihyeh lĕkā ʾet ʾāḥîkā tašmēṭ yādekā: you may press the foreigner but
-    must release your brother; Q 3:75 dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna sabīlun wa-yaqūlūna
-    ʿalā llāhi l-kadhiba: some People of the Book keep back what is entrusted to them, saying ''we have
-    no obligation toward the gentiles'', and so lie about God. The Quran rejects the claim that a two-tier
-    duty toward outsiders is God''s law.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ إِن
-    تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَٰلِكَ بِأَنَّهُمْ
-    قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُمْ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    response. Deut 15:3 ʾet ha-nnokrî tiggōś wa-ʾăšer yihyeh lĕkā ʾet ʾāḥîkā tašmēṭ yādekā: you may press
-    the foreigner but must release your brother; Q 3:75 dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna
-    sabīlun wa-yaqūlūna ʿalā llāhi l-kadhiba: some People of the Book keep back what is entrusted to them,
-    saying ''we have no obligation toward the gentiles'', and so lie about God. The Quran rejects the
-    claim that a two-tier duty toward outsiders is God''s law.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Debts of a foreigner may still be exacted though a brother''s are
     released (weight 6.7); Whether obligations differ toward insiders and outsiders [response between
@@ -97,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether obligations differ toward insiders and outsiders
+kinds:
+- response
+- shared
+units:
+- id: hb-deut-15-release-year
+  title: Release of debts, release of Hebrew slaves, firstlings
+  tradition: judaism
+- id: quran-3-abraham-people-of-book
+  title: The common word; Abraham neither Jew nor Christian
+  tradition: islam
+matches:
+- kind: response
+  label: Whether obligations differ toward insiders and outsiders
+  note: 'Deut 15:3 ʾet ha-nnokrî tiggōś wa-ʾăšer yihyeh lĕkā ʾet ʾāḥîkā tašmēṭ yādekā: you may press the
+    foreigner but must release your brother; Q 3:75 dhālika bi-annahum qālū laysa ʿalaynā fī l-ummiyyīna
+    sabīlun wa-yaqūlūna ʿalā llāhi l-kadhiba: some People of the Book keep back what is entrusted to them,
+    saying ''we have no obligation toward the gentiles'', and so lie about God. The Quran rejects the
+    claim that a two-tier duty toward outsiders is God''s law.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:3
+      lang: he
+      text: אֶת הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:75
+      lang: ar
+      text: وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ
+        إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَٰلِكَ
+        بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ
+        وَهُمْ يَعْلَمُونَ
+- kind: shared
+  label: Debts of a foreigner may still be exacted though a brother's are released
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:3
+      lang: he
+      text: אֶת הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:75
+      lang: ar
+      text: وَمِنْ أَهْلِ ٱلْكِتَٰبِ مَنْ إِن تَأْمَنْهُ بِقِنطَارٍ يُؤَدِّهِۦٓ إِلَيْكَ وَمِنْهُم مَّنْ
+        إِن تَأْمَنْهُ بِدِينَارٍ لَّا يُؤَدِّهِۦٓ إِلَيْكَ إِلَّا مَا دُمْتَ عَلَيْهِ قَآئِمًا ذَٰلِكَ
+        بِأَنَّهُمْ قَالُوا۟ لَيْسَ عَلَيْنَا فِى ٱلْأُمِّيِّۦنَ سَبِيلٌ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ
+        وَهُمْ يَعْلَمُونَ
+    note: differential obligation toward outsiders
 ---
 
 ## Questions

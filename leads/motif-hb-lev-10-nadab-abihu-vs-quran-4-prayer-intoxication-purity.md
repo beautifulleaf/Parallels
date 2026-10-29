@@ -2,8 +2,7 @@
 id: motif-hb-lev-10-nadab-abihu-vs-quran-4-prayer-intoxication-purity
 title: Strange fire - death of Nadab and Abihu; priestly rules ↔ Prayer not while drunk; bathing and dry
   ablution
-summary: 'These two units share 2 motifs: no wine before approaching god [divergence between the texts],
-  priests may not drink wine or strong drink when entering the tent.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,77 +15,9 @@ layers:
 motifs:
 - sobriety-before-approaching-god-as-divergence
 - priests-forbidden-wine-in-sanctuary
-passages:
-- tradition: judaism
-  ref: Lev 10:9
-  note: 'No wine before approaching God [divergence between the texts] (Lev 10:9-10 yayin wĕ-šēkār ʾal
-    tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ... û-lăhabdîl bên ha-qqōdeš û-bên ha-ḥōl: Aaron
-    and his sons must drink no wine when entering the tent, so they can distinguish holy from profane;
-    Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūn: do not approach prayer drunk,
-    until you know what you say. The priestly rule for the sanctuary becomes a rule for every believer
-    at prayer; the reason moves from ritual discernment to knowing one''s own words; sukārā / šēkār cognate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַ֣יִן וְשֵׁכָ֞ר אַל תֵּ֣שְׁתְּ אַתָּ֣ה וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל אֹ֥הֶל מוֹעֵ֖ד וְלֹ֣א
-    תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם
-- tradition: judaism
-  ref: Lev 10:10
-  note: 'No wine before approaching God [divergence between the texts] (Lev 10:9-10 yayin wĕ-šēkār ʾal
-    tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ... û-lăhabdîl bên ha-qqōdeš û-bên ha-ḥōl: Aaron
-    and his sons must drink no wine when entering the tent, so they can distinguish holy from profane;
-    Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūn: do not approach prayer drunk,
-    until you know what you say. The priestly rule for the sanctuary becomes a rule for every believer
-    at prayer; the reason moves from ritual discernment to knowing one''s own words; sukārā / šēkār cognate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽלֲהַבְדִּ֔יל בֵּ֥ין הַקֹּ֖דֶשׁ וּבֵ֣ין הַחֹ֑ל וּבֵ֥ין הַטָּמֵ֖א וּבֵ֥ין הַטָּהֽוֹר
-- tradition: islam
-  ref: Quran 4:43
-  note: 'No wine before approaching God [divergence between the texts] (Lev 10:9-10 yayin wĕ-šēkār ʾal
-    tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ... û-lăhabdîl bên ha-qqōdeš û-bên ha-ḥōl: Aaron
-    and his sons must drink no wine when entering the tent, so they can distinguish holy from profane;
-    Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūn: do not approach prayer drunk,
-    until you know what you say. The priestly rule for the sanctuary becomes a rule for every believer
-    at prayer; the reason moves from ritual discernment to knowing one''s own words; sukārā / šēkār cognate.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
-- tradition: judaism
-  ref: Lev 10:8
-  note: Priests may not drink wine or strong drink when entering the tent
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֣ר יְהוָ֔ה אֶֽל אַהֲרֹ֖ן לֵאמֹֽר
-- tradition: judaism
-  ref: Lev 10:9
-  note: Priests may not drink wine or strong drink when entering the tent
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַ֣יִן וְשֵׁכָ֞ר אַל תֵּ֣שְׁתְּ אַתָּ֣ה וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל אֹ֥הֶל מוֹעֵ֖ד וְלֹ֣א
-    תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם
-- tradition: islam
-  ref: Quran 4:43
-  note: Priests may not drink wine or strong drink when entering the tent (the priestly rule (Lev 10:9)
-    here applied to every worshipper's prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 10:9-10 yayin wĕ-šēkār ʾal tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ...
-    û-lăhabdîl bên ha-qqōdeš û-bên ha-ḥōl: Aaron and his sons must drink no wine when entering the tent,
-    so they can distinguish holy from profane; Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū
-    mā taqūlūn: do not approach prayer drunk, until you know what you say. The priestly rule for the sanctuary
-    becomes a rule for every believer at prayer; the reason moves from ritual discernment to knowing one''s
-    own words; sukārā / šēkār cognate.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No wine before approaching God [divergence between the texts] (weight
     6.7); Priests may not drink wine or strong drink when entering the tent (weight 6.3). Pair score 13.0.'
@@ -113,6 +44,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No wine before approaching God
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-10-nadab-abihu
+  title: Strange fire - death of Nadab and Abihu; priestly rules
+  tradition: judaism
+- id: quran-4-prayer-intoxication-purity
+  title: Prayer not while drunk; bathing and dry ablution
+  tradition: islam
+matches:
+- kind: divergence
+  label: No wine before approaching God
+  note: 'Lev 10:9-10 yayin wĕ-šēkār ʾal tēšt ʾattâ û-bānêkā ... bĕ-bōʾăkem ʾel ʾōhel môʿēd ... û-lăhabdîl
+    bên ha-qqōdeš û-bên ha-ḥōl: Aaron and his sons must drink no wine when entering the tent, so they
+    can distinguish holy from profane; Q 4:43 lā taqrabū ṣ-ṣalāta wa-antum sukārā ḥattā taʿlamū mā taqūlūn:
+    do not approach prayer drunk, until you know what you say. The priestly rule for the sanctuary becomes
+    a rule for every believer at prayer; the reason moves from ritual discernment to knowing one''s own
+    words; sukārā / šēkār cognate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 10:9
+      lang: he
+      text: יַ֣יִן וְשֵׁכָ֞ר אַל תֵּ֣שְׁתְּ אַתָּ֣ה וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל אֹ֥הֶל מוֹעֵ֖ד
+        וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם
+    - ref: Lev 10:10
+      lang: he
+      text: וּֽלֲהַבְדִּ֔יל בֵּ֥ין הַקֹּ֖דֶשׁ וּבֵ֣ין הַחֹ֑ל וּבֵ֥ין הַטָּמֵ֖א וּבֵ֥ין הַטָּהֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+- kind: shared
+  label: Priests may not drink wine or strong drink when entering the tent
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 10:8
+      lang: he
+      text: וַיְדַבֵּ֣ר יְהוָ֔ה אֶֽל אַהֲרֹ֖ן לֵאמֹֽר
+    - ref: Lev 10:9
+      lang: he
+      text: יַ֣יִן וְשֵׁכָ֞ר אַל תֵּ֣שְׁתְּ אַתָּ֣ה וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל אֹ֥הֶל מוֹעֵ֖ד
+        וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
+    note: the priestly rule (Lev 10:9) here applied to every worshipper's prayer
 ---
 
 ## Questions

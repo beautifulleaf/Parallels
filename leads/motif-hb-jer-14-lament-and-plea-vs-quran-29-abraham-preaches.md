@@ -2,8 +2,7 @@
 id: motif-hb-jer-14-lament-and-plea-vs-quran-29-abraham-preaches
 title: Let my eyes run with tears; do not spurn us ↔ Abraham preaches against idols, is saved from the
   fire, and Lot believes
-summary: 'These two units share 1 motifs: can any of the nations'' vanities bring rain, or can the heavens
-  give showers? only yhwh.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-give-rain
-passages:
-- tradition: judaism
-  ref: Jer 14:22
-  note: Can any of the nations' vanities bring rain, or can the heavens give showers? Only YHWH
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגּוֹיִם֙ מַגְשִׁמִ֔ים וְאִם הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א אַתָּה
-    ה֜וּא יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ וּ֨נְקַוֶּה לָּ֔ךְ כִּֽי אַתָּ֥ה עָשִׂ֖יתָ אֶת כָּל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 29:17
-  note: 'Can any of the nations'' vanities bring rain, or can the heavens give showers? Only YHWH (inna
-    lladhīna taʿbudūna min dūni llāhi lā yamlikūna lakum rizqan fa-btaghū ʿinda llāhi r-rizqa ~ ha-yēš
-    bə-havlê hag-gôyim magšimîm ... hălōʾ ʾattâ hûʾ: the idols cannot provide (rain or provision); only
-    God can.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ
-    مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ
-    وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. inna lladhīna taʿbudūna min dūni llāhi lā yamlikūna lakum rizqan fa-btaghū ʿinda llāhi r-rizqa
-    ~ ha-yēš bə-havlê hag-gôyim magšimîm ... hălōʾ ʾattâ hûʾ: the idols cannot provide (rain or provision);
-    only God can.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Can any of the nations'' vanities bring rain, or can the heavens
     give showers? Only YHWH (weight 6.7). Pair score 6.7.'
@@ -67,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Can any of the nations' vanities bring rain, or can the heavens give showers? Only YHWH
+kinds:
+- echo
+units:
+- id: hb-jer-14-lament-and-plea
+  title: Let my eyes run with tears; do not spurn us
+  tradition: judaism
+- id: quran-29-abraham-preaches
+  title: Abraham preaches against idols, is saved from the fire, and Lot believes
+  tradition: islam
+matches:
+- kind: echo
+  label: Can any of the nations' vanities bring rain, or can the heavens give showers? Only YHWH
+  note: 'inna lladhīna taʿbudūna min dūni llāhi lā yamlikūna lakum rizqan fa-btaghū ʿinda llāhi r-rizqa
+    ~ ha-yēš bə-havlê hag-gôyim magšimîm ... hălōʾ ʾattâ hûʾ: the idols cannot provide (rain or provision);
+    only God can.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 14:22
+      lang: he
+      text: הֲיֵ֨שׁ בְּהַבְלֵ֤י הַגּוֹיִם֙ מַגְשִׁמִ֔ים וְאִם הַשָּׁמַ֖יִם יִתְּנ֣וּ רְבִבִ֑ים הֲלֹ֨א
+        אַתָּה ה֜וּא יְהוָ֤ה אֱלֹהֵ֨ינוּ֙ וּ֨נְקַוֶּה לָּ֔ךְ כִּֽי אַתָּ֥ה עָשִׂ֖יתָ אֶת כָּל אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 29:17
+      lang: ar
+      text: إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَٰنًا وَتَخْلُقُونَ إِفْكًا إِنَّ ٱلَّذِينَ تَعْبُدُونَ
+        مِن دُونِ ٱللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَٱبْتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزْقَ وَٱعْبُدُوهُ
+        وَٱشْكُرُوا۟ لَهُۥٓ إِلَيْهِ تُرْجَعُونَ
 ---
 
 ## Questions

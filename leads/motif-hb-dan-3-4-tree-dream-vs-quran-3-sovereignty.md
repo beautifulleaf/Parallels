@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-3-4-tree-dream-vs-quran-3-sovereignty
 title: Nebuchadnezzar's letter, the great tree dream and his madness ↔ Owner of sovereignty
-summary: 'These two units share 1 motifs: the most high rules the kingdom of men, gives it to whom he
-  wills and sets over it the lowliest of men.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - most-high-gives-kingdom-to-lowliest
-passages:
-- tradition: judaism
-  ref: Dan 4:14
-  note: The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest
-    of men
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּגְזֵרַ֤ת עִירִין֙ פִּתְגָמָ֔א וּמֵאמַ֥ר קַדִּישִׁ֖ין שְׁאֵֽלְתָ֑א עַד דִּבְרַ֡ת דִּ֣י יִנְדְּע֣וּן
-    חַ֠יַּיָּא דִּֽי שַׁלִּ֨יט עליא עִלָּאָ֜ה בְּמַלְכ֣וּת אנושא אֲנָשָׁ֗א וּלְמַן דִּ֤י יִצְבֵּא֙ יִתְּנִנַּ֔הּ
-    וּשְׁפַ֥ל אֲנָשִׁ֖ים יְקִ֥ים עליה עֲלַֽהּ
-- tradition: judaism
-  ref: Dan 4:22
-  note: The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest
-    of men
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָ֣ךְ טָֽרְדִ֣ין מִן אֲנָשָׁ֡א וְעִם חֵיוַ֣ת בָּרָא֩ לֶהֱוֵ֨ה מְדֹרָ֜ךְ וְעִשְׂבָּ֥א כְתוֹרִ֣ין
-    לָ֣ךְ יְטַֽעֲמ֗וּן וּמִטַּ֤ל שְׁמַיָּא֙ לָ֣ךְ מְצַבְּעִ֔ין וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֣וּן עֲלָ֑יךְ
-    עַ֣ד דִּֽי תִנְדַּ֗ע דִּֽי שַׁלִּ֤יט עִלָּיָא֙ בְּמַלְכ֣וּת אֲנָשָׁ֔א וּלְמַן דִּ֥י יִצְבֵּ֖א יִתְּנִנַּֽהּ
-- tradition: islam
-  ref: Quran 3:26
-  note: The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest
-    of men
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ
-    وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Dan 4:14, 29 dî šallîṭ ʿillāyāʾ bĕ-malkût ʾănāšāʾ û-lĕ-man dî yiṣbēʾ yittĕninnah û-šĕpal
-    ʾănāšîn yĕqîm ʿălah: the Most High rules the kingdom of men, gives it to whom he wills and raises
-    the lowliest; Q 3:26 qul allāhumma mālika l-mulki tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman
-    tashāʾu wa-tuʿizzu man tashāʾu wa-tudhillu man tashāʾ. Same formula (malkû / mulk; lĕ-man dî yiṣbēʾ
-    / man tashāʾ). Daniel''s is a verdict on a proud king (Nebuchadnezzar); the Quran''s a prayer addressed
-    to God.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Most High rules the kingdom of men, gives it to whom he wills
     and sets over it the lowliest of men (weight 6.7). Pair score 6.7.'
@@ -83,6 +50,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest
+  of men
+kinds:
+- parallel
+units:
+- id: hb-dan-3-4-tree-dream
+  title: Nebuchadnezzar's letter, the great tree dream and his madness
+  tradition: judaism
+- id: quran-3-sovereignty
+  title: Owner of sovereignty
+  tradition: islam
+matches:
+- kind: parallel
+  label: The Most High rules the kingdom of men, gives it to whom he wills and sets over it the lowliest
+    of men
+  note: 'Dan 4:14, 29 dî šallîṭ ʿillāyāʾ bĕ-malkût ʾănāšāʾ û-lĕ-man dî yiṣbēʾ yittĕninnah û-šĕpal ʾănāšîn
+    yĕqîm ʿălah: the Most High rules the kingdom of men, gives it to whom he wills and raises the lowliest;
+    Q 3:26 qul allāhumma mālika l-mulki tuʾtī l-mulka man tashāʾu wa-tanziʿu l-mulka mimman tashāʾu wa-tuʿizzu
+    man tashāʾu wa-tudhillu man tashāʾ. Same formula (malkû / mulk; lĕ-man dî yiṣbēʾ / man tashāʾ). Daniel''s
+    is a verdict on a proud king (Nebuchadnezzar); the Quran''s a prayer addressed to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 4:14
+      lang: he
+      text: בִּגְזֵרַ֤ת עִירִין֙ פִּתְגָמָ֔א וּמֵאמַ֥ר קַדִּישִׁ֖ין שְׁאֵֽלְתָ֑א עַד דִּבְרַ֡ת דִּ֣י יִנְדְּע֣וּן
+        חַ֠יַּיָּא דִּֽי שַׁלִּ֨יט עליא עִלָּאָ֜ה בְּמַלְכ֣וּת אנושא אֲנָשָׁ֗א וּלְמַן דִּ֤י יִצְבֵּא֙
+        יִתְּנִנַּ֔הּ וּשְׁפַ֥ל אֲנָשִׁ֖ים יְקִ֥ים עליה עֲלַֽהּ
+    - ref: Dan 4:29
+      lang: he
+      text: וּמִן אֲנָשָׁא֩ לָ֨ךְ טָֽרְדִ֜ין וְֽעִם חֵיוַ֧ת בָּרָ֣א מְדֹרָ֗ךְ עִשְׂבָּ֤א כְתוֹרִין֙ לָ֣ךְ
+        יְטַעֲמ֔וּן וְשִׁבְעָ֥ה עִדָּנִ֖ין יַחְלְפ֣וּן עליך עֲלָ֑ךְ עַ֣ד דִּֽי תִנְדַּ֗ע דִּֽי שַׁלִּ֤יט
+        עִלָּיָא֙ בְּמַלְכ֣וּת אֲנָשָׁ֔א וּלְמַן דִּ֥י יִצְבֵּ֖א יִתְּנִנַּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:26
+      lang: ar
+      text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن
+        تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

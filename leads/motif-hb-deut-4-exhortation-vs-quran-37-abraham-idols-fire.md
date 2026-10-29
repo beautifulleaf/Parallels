@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-37-abraham-idols-fire
 title: Exhortation at Horeb's memory; no image; exile and return ↔ Abraham, the stars, the smashed idols
   and the fire
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Deut 4:28
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַעֲבַדְתֶּם שָׁ֣ם אֱלֹהִ֔ים מַעֲשֵׂ֖ה יְדֵ֣י אָדָ֑ם עֵ֣ץ וָאֶ֔בֶן אֲשֶׁ֤ר לֹֽא יִרְאוּן֙ וְלֹ֣א
-    יִשְׁמְע֔וּן וְלֹ֥א יֹֽאכְל֖וּן וְלֹ֥א יְרִיחֻֽן
-- tradition: islam
-  ref: Quran 37:91
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
-- tradition: islam
-  ref: Quran 37:92
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا لَكُمْ لَا تَنطِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾĕlōhîm maʿăśēh yəḏê ʾāḏām ʿēṣ wā-ʾeḇen ʾăšer lōʾ-yirʾûn wə-lōʾ yišməʿûn wə-lōʾ yōʾḵəlûn
-    wə-lōʾ yərîḥun vs. fa-qāla a-lā taʾkulūna mā lakum lā tanṭiqūn. Deut''s list includes ''they do not
-    eat'', which is the point of Abraham''s taunt.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -70,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- parallel
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: ʾĕlōhîm maʿăśēh yəḏê ʾāḏām ʿēṣ wā-ʾeḇen ʾăšer lōʾ-yirʾûn wə-lōʾ yišməʿûn wə-lōʾ yōʾḵəlûn wə-lōʾ
+    yərîḥun vs. fa-qāla a-lā taʾkulūna mā lakum lā tanṭiqūn. Deut's list includes 'they do not eat', which
+    is the point of Abraham's taunt.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:28
+      lang: he
+      text: וַעֲבַדְתֶּם שָׁ֣ם אֱלֹהִ֔ים מַעֲשֵׂ֖ה יְדֵ֣י אָדָ֑ם עֵ֣ץ וָאֶ֔בֶן אֲשֶׁ֤ר לֹֽא יִרְאוּן֙
+        וְלֹ֣א יִשְׁמְע֔וּן וְלֹ֥א יֹֽאכְל֖וּן וְלֹ֥א יְרִיחֻֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 37:91
+      lang: ar
+      text: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
+    - ref: Quran 37:92
+      lang: ar
+      text: مَا لَكُمْ لَا تَنطِقُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-4-creation-kinship-orphans
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ One soul, the wombs,
   orphans' property and the bride-gift
-summary: 'These two units share 1 motifs: a man may marry two, three or four wives, or only one if he
-  fears injustice.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - polygyny-up-to-four
-passages:
-- tradition: judaism
-  ref: Deut 21:15
-  note: 'A man may marry two, three or four wives, or only one if he fears injustice (Deut 21:15 kî tihyênā
-    lĕ-ʾîš šĕtê nāšîm hā-ʾaḥat ʾăhûbâ wĕ-hā-ʾaḥat śĕnûʾâ: a man with two wives, one loved and one hated,
-    must still be fair to the hated wife''s son; Q 4:3 fa-nkiḥū mā ṭāba lakum mina n-nisāʾi mathnā wa-thulātha
-    wa-rubāʿa fa-in khiftum allā taʿdilū fa-wāḥidatan: marry two, three or four, but only one if you fear
-    you cannot be just. Both take plural wives as given and regulate fairness; the Quran sets a number
-    and makes fairness a condition.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִהְיֶ֨יןָ לְאִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים הָאַחַ֤ת אֲהוּבָה֙ וְהָאַחַ֣ת שְׂנוּאָ֔ה וְיָֽלְדוּ
-    ל֣וֹ בָנִ֔ים הָאֲהוּבָ֖ה וְהַשְּׂנוּאָ֑ה וְהָיָ֛ה הַבֵּ֥ן הַבְּכ֖וֹר לַשְּׂנִיאָֽה
-- tradition: islam
-  ref: Quran 4:3
-  note: A man may marry two, three or four wives, or only one if he fears injustice (two, three or four;
-    or one, or what your right hands possess)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ
-    مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ
-    ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 21:15 kî tihyênā lĕ-ʾîš šĕtê nāšîm hā-ʾaḥat ʾăhûbâ wĕ-hā-ʾaḥat śĕnûʾâ: a man with two wives,
-    one loved and one hated, must still be fair to the hated wife''s son; Q 4:3 fa-nkiḥū mā ṭāba lakum
-    mina n-nisāʾi mathnā wa-thulātha wa-rubāʿa fa-in khiftum allā taʿdilū fa-wāḥidatan: marry two, three
-    or four, but only one if you fear you cannot be just. Both take plural wives as given and regulate
-    fairness; the Quran sets a number and makes fairness a condition.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man may marry two, three or four wives, or only one if he fears
     injustice (weight 6.7). Pair score 6.7.'
@@ -80,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man may marry two, three or four wives, or only one if he fears injustice
+kinds:
+- echo
+units:
+- id: hb-deut-21-heifer-captive-son
+  title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: echo
+  label: A man may marry two, three or four wives, or only one if he fears injustice
+  note: 'Deut 21:15 kî tihyênā lĕ-ʾîš šĕtê nāšîm hā-ʾaḥat ʾăhûbâ wĕ-hā-ʾaḥat śĕnûʾâ: a man with two wives,
+    one loved and one hated, must still be fair to the hated wife''s son; Q 4:3 fa-nkiḥū mā ṭāba lakum
+    mina n-nisāʾi mathnā wa-thulātha wa-rubāʿa fa-in khiftum allā taʿdilū fa-wāḥidatan: marry two, three
+    or four, but only one if you fear you cannot be just. Both take plural wives as given and regulate
+    fairness; the Quran sets a number and makes fairness a condition.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:15
+      lang: he
+      text: כִּֽי תִהְיֶ֨יןָ לְאִ֜ישׁ שְׁתֵּ֣י נָשִׁ֗ים הָאַחַ֤ת אֲהוּבָה֙ וְהָאַחַ֣ת שְׂנוּאָ֔ה וְיָֽלְדוּ
+        ל֣וֹ בָנִ֔ים הָאֲהוּבָ֖ה וְהַשְּׂנוּאָ֑ה וְהָיָ֛ה הַבֵּ֥ן הַבְּכ֖וֹר לַשְּׂנִיאָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:3
+      lang: ar
+      text: وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ
+        مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ
+        أَيْمَٰنُكُمْ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟
 ---
 
 ## Questions

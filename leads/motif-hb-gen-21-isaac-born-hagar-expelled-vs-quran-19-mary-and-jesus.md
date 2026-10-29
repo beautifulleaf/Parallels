@@ -2,8 +2,7 @@
 id: motif-hb-gen-21-isaac-born-hagar-expelled-vs-quran-19-mary-and-jesus
 title: Birth of Isaac and expulsion of Hagar and Ishmael ↔ Mary, the spirit in human form, the birth under
   the palm, the speaking infant (Surah 19:16-40)
-summary: 'These two units share 2 motifs: in labor the mother wishes she had died before this and been
-  utterly forgotten, a spring or stream appears for the mother.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,72 +16,9 @@ layers:
 motifs:
 - mother-wishes-she-had-died-and-been-forgotten
 - miraculous-spring
-passages:
-- tradition: judaism
-  ref: Gen 21:14
-  note: 'In labor the mother wishes she had died before this and been utterly forgotten (Same sequence.
-    A lone mother in a remote place despairs over death (ʾal-ʾerʾeh bəmôt hayyāled ... wattēbk / yā laytanī
-    mittu qabla hādhā). A voice calls to her and says do not fear or grieve (wayyiqrāʾ malʾak ʾĕlōhîm
-    ʾel-hāgār ... ʾal-tîrʾî / fa-nādāhā min taḥtihā allā taḥzanī). God provides water (wattēreʾ bəʾēr
-    māyim / jaʿala rabbuki taḥtaki sariyyā). Changes: the voice comes ''from heaven'' in Gen and ''from
-    beneath her'' in Q; Hagar fears for a living child, Maryam is in labor; Q adds the palm''s dates.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם בַּבֹּ֡קֶר וַיִּֽקַּֽח לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל הָ֠גָר שָׂ֧ם
-    עַל שִׁכְמָ֛הּ וְאֶת הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע
-- tradition: judaism
-  ref: Gen 21:16
-  note: 'In labor the mother wishes she had died before this and been utterly forgotten (Same sequence.
-    A lone mother in a remote place despairs over death (ʾal-ʾerʾeh bəmôt hayyāled ... wattēbk / yā laytanī
-    mittu qabla hādhā). A voice calls to her and says do not fear or grieve (wayyiqrāʾ malʾak ʾĕlōhîm
-    ʾel-hāgār ... ʾal-tîrʾî / fa-nādāhā min taḥtihā allā taḥzanī). God provides water (wattēreʾ bəʾēr
-    māyim / jaʿala rabbuki taḥtaki sariyyā). Changes: the voice comes ''from heaven'' in Gen and ''from
-    beneath her'' in Q; Hagar fears for a living child, Maryam is in labor; Q adds the palm''s dates.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּלֶךְ֩ וַתֵּ֨שֶׁב לָ֜הּ מִנֶּ֗גֶד הַרְחֵק֙ כִּמְטַחֲוֵ֣י קֶ֔שֶׁת כִּ֣י אָֽמְרָ֔ה אַל אֶרְאֶ֖ה
-    בְּמ֣וֹת הַיָּ֑לֶד וַתֵּ֣שֶׁב מִנֶּ֔גֶד וַתִּשָּׂ֥א אֶת קֹלָ֖הּ וַתֵּֽבְךְּ
-- tradition: islam
-  ref: Quran 19:23
-  note: In labor the mother wishes she had died before this and been utterly forgotten (nasyan mansiyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا وَكُنتُ
-    نَسْيًا مَّنسِيًّا
-- tradition: islam
-  ref: Quran 19:22
-  note: In labor the mother wishes she had died before this and been utterly forgotten (nasyan mansiyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
-- tradition: judaism
-  ref: Gen 21:19
-  note: A spring or stream appears for the mother (for the outcast mother; vocab motif defined for Mary,
-    fits structurally)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
-    מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
-- tradition: islam
-  ref: Quran 19:24
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
-- tradition: islam
-  ref: Quran 19:22
-  note: A spring or stream appears for the mother (sariyyan, a rivulet beneath her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. Same sequence. A lone mother in a remote place despairs over death (ʾal-ʾerʾeh bəmôt hayyāled
-    ... wattēbk / yā laytanī mittu qabla hādhā). A voice calls to her and says do not fear or grieve (wayyiqrāʾ
-    malʾak ʾĕlōhîm ʾel-hāgār ... ʾal-tîrʾî / fa-nādāhā min taḥtihā allā taḥzanī). God provides water (wattēreʾ
-    bəʾēr māyim / jaʿala rabbuki taḥtaki sariyyā). Changes: the voice comes ''from heaven'' in Gen and
-    ''from beneath her'' in Q; Hagar fears for a living child, Maryam is in labor; Q adds the palm''s
-    dates.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In labor the mother wishes she had died before this and been utterly
     forgotten (weight 6.7); A spring or stream appears for the mother (weight 5.6). Pair score 12.3.'
@@ -116,6 +52,74 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In labor the mother wishes she had died before this and been utterly forgotten
+kinds:
+- parallel
+- shared
+units:
+- id: hb-gen-21-isaac-born-hagar-expelled
+  title: Birth of Isaac and expulsion of Hagar and Ishmael
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: parallel
+  label: In labor the mother wishes she had died before this and been utterly forgotten
+  note: 'Same sequence. A lone mother in a remote place despairs over death (ʾal-ʾerʾeh bəmôt hayyāled
+    ... wattēbk / yā laytanī mittu qabla hādhā). A voice calls to her and says do not fear or grieve (wayyiqrāʾ
+    malʾak ʾĕlōhîm ʾel-hāgār ... ʾal-tîrʾî / fa-nādāhā min taḥtihā allā taḥzanī). God provides water (wattēreʾ
+    bəʾēr māyim / jaʿala rabbuki taḥtaki sariyyā). Changes: the voice comes ''from heaven'' in Gen and
+    ''from beneath her'' in Q; Hagar fears for a living child, Maryam is in labor; Q adds the palm''s
+    dates.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:14
+      lang: he
+      text: וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם בַּבֹּ֡קֶר וַיִּֽקַּֽח לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל הָ֠גָר
+        שָׂ֧ם עַל שִׁכְמָ֛הּ וְאֶת הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר
+        שָֽׁבַע
+    - ref: Gen 21:16
+      lang: he
+      text: וַתֵּלֶךְ֩ וַתֵּ֨שֶׁב לָ֜הּ מִנֶּ֗גֶד הַרְחֵק֙ כִּמְטַחֲוֵ֣י קֶ֔שֶׁת כִּ֣י אָֽמְרָ֔ה אַל אֶרְאֶ֖ה
+        בְּמ֣וֹת הַיָּ֑לֶד וַתֵּ֣שֶׁב מִנֶּ֔גֶד וַתִּשָּׂ֥א אֶת קֹלָ֖הּ וַתֵּֽבְךְּ
+    - ref: Gen 21:17
+      lang: he
+      text: וַיִּשְׁמַ֣ע אֱלֹהִים֮ אֶת ק֣וֹל הַנַּעַר֒ וַיִּקְרָא֩ מַלְאַ֨ךְ אֱלֹהִ֤ים אֶל הָגָר֙ מִן
+        הַשָּׁמַ֔יִם וַיֹּ֥אמֶר לָ֖הּ מַה לָּ֣ךְ הָגָ֑ר אַל תִּ֣ירְאִ֔י כִּֽי שָׁמַ֧ע אֱלֹהִ֛ים אֶל ק֥וֹל
+        הַנַּ֖עַר בַּאֲשֶׁ֥ר הוּא שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 19:22
+      lang: ar
+      text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+    - ref: Quran 19:23
+      lang: ar
+      text: فَأَجَآءَهَا ٱلْمَخَاضُ إِلَىٰ جِذْعِ ٱلنَّخْلَةِ قَالَتْ يَٰلَيْتَنِى مِتُّ قَبْلَ هَٰذَا
+        وَكُنتُ نَسْيًا مَّنسِيًّا
+    - ref: Quran 19:24
+      lang: ar
+      text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+- kind: shared
+  label: A spring or stream appears for the mother
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:19
+      lang: he
+      text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
+        מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
+    note: for the outcast mother; vocab motif defined for Mary, fits structurally
+  - tradition: islam
+    passages:
+    - ref: Quran 19:24
+      lang: ar
+      text: فَنَادَىٰهَا مِن تَحْتِهَآ أَلَّا تَحْزَنِى قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا
+    - ref: Quran 19:22
+      lang: ar
+      text: فَحَمَلَتْهُ فَٱنتَبَذَتْ بِهِۦ مَكَانًا قَصِيًّا
+    note: sariyyan, a rivulet beneath her
 ---
 
 ## Questions

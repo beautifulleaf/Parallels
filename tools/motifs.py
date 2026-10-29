@@ -126,8 +126,10 @@ def load_alignments(vocab, units):
                                           **({"note": x["note"]} if x.get("note") else {})})
                     else:
                         t["refs"] = list(dict.fromkeys(t["refs"] + list(refs)))
-                c = CONFIRMED.setdefault(frozenset((a["id"], b["id"])), {"file": rel, "relations": set(), "notes": []})
-                c["relations"].add(x.get("relation") or "parallel")
+                c = CONFIRMED.setdefault(frozenset((a["id"], b["id"])), {"file": rel, "relations": set(), "notes": [], "matches": []})
+                c["relations"].add(relation)
+                c["matches"].append({"motif": mid, "base": x.get("motif"), "relation": relation, "note": x.get("note") or "",
+                                     "refs": {a["id"]: list(x.get("refs") or []), b["id"]: list(x.get("with_refs") or [])}})
                 if x.get("note"):
                     c["notes"].append(x["note"])
 
@@ -279,6 +281,57 @@ def write_report(units, vocab, w, df, ps, bench):
     (OUT / "REPORT.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
+KIND_ORDER = ["divergence", "contrast", "response", "parallel", "echo", "shared"]
+KIND_WORDS = {"divergence": "deliberately changed", "contrast": "opposite ruling", "response": "answers the other",
+              "parallel": "same element", "echo": "shared wording", "shared": "shared motif"}
+MAX_MATCHES = 12          # match rows per lead
+REFS_PER_SIDE = 3
+
+
+def plain_label(vocab, mid):
+    return re.sub(r" \[[a-z]+ between the texts\]$", "", vocab[mid]["label"])
+
+
+def side_passages(u, refs, quran_text, hebrew_text):
+    out = [x for x in (passage_for(u, r, quran_text, hebrew_text) for r in refs[:REFS_PER_SIDE]) if x]
+    originals.fill_passages(out, quran_text, hebrew_text)
+    return [{k: v for k, v in x.items() if k in ("ref", "text", "lang", "text_omitted")} for x in out]
+
+
+def build_matches(left, right, p, conf, vocab, w, quran_text, hebrew_text):
+    """One row per correspondence: what kind it is, a plain label, the reader's note once, and each side's verses.
+    Confirmed side-by-side matches come first; motifs the two reads merely share follow."""
+    rows, covered = [], set()
+    for x in sorted((conf or {}).get("matches", []), key=lambda x: KIND_ORDER.index(x["relation"])):
+        covered |= {x["motif"], x["base"]}
+        rows.append({"kind": x["relation"], "label": plain_label(vocab, x["base"] if x["base"] in vocab else x["motif"]),
+                     "note": x["note"],
+                     "sides": [{"tradition": u["tradition"], "passages": side_passages(u, x["refs"].get(u["id"], []), quran_text, hebrew_text)}
+                               for u in (left, right)]})
+    for m in p["shared"]:
+        if len(rows) >= MAX_MATCHES:
+            break
+        if m in covered:
+            continue
+        sides = []
+        for u in (left, right):
+            t = next(t for t in u["tags"] if t["motif"] == m)
+            sides.append({"tradition": u["tradition"], "passages": side_passages(u, t["refs"], quran_text, hebrew_text),
+                          **({"note": t["note"]} if t.get("note") else {})})
+        rows.append({"kind": "shared", "label": plain_label(vocab, m), "sides": sides})
+    return rows
+
+
+def lead_summary(matches, p):
+    confirmed = [m for m in matches if m["kind"] != "shared"]
+    if confirmed:
+        counts = Counter(m["kind"] for m in confirmed)
+        return (f"{len(confirmed)} correspondence{'s' if len(confirmed) > 1 else ''} read side by side: "
+                + ", ".join(f"{n} {KIND_WORDS[k]}" for k, n in sorted(counts.items(), key=lambda kv: KIND_ORDER.index(kv[0]))) + ".")
+    n = len(p["shared"])
+    return f"{n} shared motif{'s' if n > 1 else ''}, found by the separate reads; not yet compared side by side."
+
+
 def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
     by_id = {u["id"]: u for u in units}
     spec = yaml.safe_load((DATA / "benchmarks" / "motifs.yaml").read_text(encoding="utf-8"))
@@ -295,18 +348,11 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
             internal[a["corpus"]] += 1
             if internal[a["corpus"]] > MAX_INTERNAL_LEADS:
                 continue
-        passages, evidence = [], []
-        for m in p["shared"][:MAX_PASSAGE_MOTIFS]:
-            for u in (a, b):
-                t = next(t for t in u["tags"] if t["motif"] == m)
-                for r in t["refs"][:2]:
-                    psg = passage_for(u, r, quran_text, hebrew_text)
-                    psg["note"] = vocab[m]["label"] + (f" ({t['note']})" if t.get("note") else "")
-                    passages.append(psg)
-        originals.fill_passages(passages, quran_text, hebrew_text)
-        if len(p["shared"]) > MAX_PASSAGE_MOTIFS:
-            evidence.append({"text": f"Passages are shown for the {MAX_PASSAGE_MOTIFS} rarest of {len(p['shared'])} shared motifs; "
-                                     "the full list follows.", "basis": "reading"})
+        conf = CONFIRMED.get(frozenset((a["id"], b["id"])))
+        # the reference tradition (Islam) reads on the right; otherwise keep pair order
+        left, right = (b, a) if a["tradition"] == "islam" and b["tradition"] != "islam" else (a, b)
+        matches = build_matches(left, right, p, conf, vocab, w, quran_text, hebrew_text)
+        evidence = []
         evidence.append({"text": f"Shared motifs, rarest first: " + "; ".join(f"{vocab[m]['label']} (weight {w[m]:.1f})" for m in p["shared"])
                                  + f". Pair score {p['score']:.1f}.", "basis": "reading"})
         for u, only in ((a, p["only_a"]), (b, p["only_b"])):
@@ -316,12 +362,8 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
                 evidence.append({"text": f"Only in {u['title']}: " + "; ".join(vocab[m]["label"] for m in shown)
                                          + (f"; and {len(only) - len(shown)} more" if len(only) > len(shown) else "") + ".",
                                  "basis": "reading"})
-        conf = CONFIRMED.get(frozenset((a["id"], b["id"])))
         if conf:
-            evidence.insert(0, {"text": f"Confirmed by a side-by-side reading of both originals ({conf['file']}): "
-                                        + ", ".join(sorted(conf["relations"])) + "."
-                                        + ("".join(f" {n}" if n.endswith(".") else f" {n}." for n in conf["notes"][:6])),
-                                "basis": "reading"})
+            evidence.insert(0, {"text": f"Read side by side in both originals ({conf['file']}).", "basis": "reading"})
         for u in (a, b):
             evidence.append({"text": f"{u['title']}: tagged by {u['tagger']}.",
                              "basis": "reading" if u.get("original") else "scholarship"})
@@ -329,9 +371,11 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
         leads.append({
             "id": f"motif-{a['id']}-vs-{b['id']}",
             "title": f"{a['title']} ↔ {b['title']}",
-            "summary": f"These two units share {len(p['shared'])} motifs: "
-                       + ", ".join(vocab[m]["label"].lower() for m in p["shared"][:4])
-                       + ("…" if len(p["shared"]) > 4 else "") + ".",
+            "summary": lead_summary(matches, p),
+            "finding": matches[0]["label"] if matches else "",
+            "kinds": list(dict.fromkeys(m["kind"] for m in matches)),
+            "units": [{"id": u["id"], "title": u["title"], "tradition": u["tradition"]} for u in (left, right)],
+            "matches": matches,
             "status": "new",
             "relations": (["internal"] if p["internal"] else
                           sorted({"response" if r in ("divergence", "response", "contrast") else "convergence" for r in conf["relations"]}
@@ -339,7 +383,7 @@ def build_leads(units, vocab, w, ps, bench, quran_text, hebrew_text):
                           ["transmission", "convergence"]),
             "standing": "proposed",
             "traditions": traditions, "layers": ["motif"], "motifs": p["shared"],
-            "passages": passages, "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
+            "passages": [], "evidence": evidence, "origin": "pipeline", "added": date.today().isoformat(),
         })
     return leads
 

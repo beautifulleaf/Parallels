@@ -2,7 +2,7 @@
 id: motif-hb-jer-44-queen-of-heaven-vs-quran-4-satan-vows-share
 title: The Judeans in Egypt defend their cult of the Queen of Heaven ↔ Female deities, Satan's vow, slit
   cattle ears, and Abraham the friend
-summary: 'These two units share 1 motifs: offerings, incense and libations to the ''queen of heaven''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - queen-of-heaven-cult
-passages:
-- tradition: judaism
-  ref: Jer 44:17-19
-  note: Offerings, incense and libations to the 'Queen of Heaven'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (44:17) כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת
-    הַשָּׁמַיִם֮ וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ
-    וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה טוֹבִ֔ים
-    וְרָעָ֖ה לֹ֥א רָאִֽינוּ (44:18) וּמִן אָ֡ז חָדַ֜לְנוּ לְקַטֵּ֨ר לִמְלֶ֧כֶת הַשָּׁמַ֛יִם וְהַסֵּֽךְ
-    לָ֥הּ נְסָכִ֖ים חָסַ֣רְנוּ כֹ֑ל וּבַחֶ֥רֶב וּבָרָעָ֖ב תָּֽמְנוּ (44:19) וְכִֽי אֲנַ֤חְנוּ מְקַטְּרִים֙
-    לִמְלֶ֣כֶת הַשָּׁמַ֔יִם וּלְהַסֵּ֥ךְ לָ֖הּ נְסָכִ֑ים הֲמִֽבַּלְעֲדֵ֣י אֲנָשֵׁ֗ינוּ עָשִׂ֨ינוּ לָ֤הּ
-    כַּוָּנִים֙ לְהַ֣עֲצִבָ֔ה וְהַסֵּ֥ךְ לָ֖הּ נְסָכִֽים
-- tradition: judaism
-  ref: Jer 44:25
-  note: Offerings, incense and libations to the 'Queen of Heaven'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֣ר יְהוָֽה צְבָאוֹת֩ אֱלֹהֵ֨י יִשְׂרָאֵ֜ל לֵאמֹ֗ר אַתֶּ֨ם וּנְשֵׁיכֶ֜ם וַתְּדַבֵּ֣רְנָה
-    בְּפִיכֶם֮ וּבִידֵיכֶ֣ם מִלֵּאתֶ֣ם לֵאמֹר֒ עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶת נְדָרֵ֗ינוּ אֲשֶׁ֤ר נָדַ֨רְנוּ֙ לְקַטֵּר֙
-    לִמְלֶ֣כֶת הַשָּׁמַ֔יִם וּלְהַסֵּ֥ךְ לָ֖הּ נְסָכִ֑ים הָקֵ֤ים תָּקִ֨ימְנָה֙ אֶת נִדְרֵיכֶ֔ם וְעָשֹׂ֥ה
-    תַעֲשֶׂ֖ינָה אֶת נִדְרֵיכֶֽם
-- tradition: islam
-  ref: Quran 4:117
-  note: Offerings, incense and libations to the 'Queen of Heaven' (worship of female deities (traditionally
-    al-Lāt, al-ʿUzzā, Manāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًا مَّرِيدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Both polemicize against the worship of female deities. Q: in yadʿūna min dūnihi illā ināthan
-    wa-in yadʿūna illā shayṭānan marīdan. Jer: ləqaṭṭēr li-mlekhet ha-šāmayim wə-hassēkh lāh nəsākhîm.
-    In Jer the women defend the cult by its results (wa-nnisbaʿ leḥem); Q reduces the female beings to
-    Satan.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Offerings, incense and libations to the ''Queen of Heaven'' (weight
     6.7). Pair score 6.7.'
@@ -83,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Offerings, incense and libations to the 'Queen of Heaven'
+kinds:
+- echo
+units:
+- id: hb-jer-44-queen-of-heaven
+  title: The Judeans in Egypt defend their cult of the Queen of Heaven
+  tradition: judaism
+- id: quran-4-satan-vows-share
+  title: Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+  tradition: islam
+matches:
+- kind: echo
+  label: Offerings, incense and libations to the 'Queen of Heaven'
+  note: 'Both polemicize against the worship of female deities. Q: in yadʿūna min dūnihi illā ināthan
+    wa-in yadʿūna illā shayṭānan marīdan. Jer: ləqaṭṭēr li-mlekhet ha-šāmayim wə-hassēkh lāh nəsākhîm.
+    In Jer the women defend the cult by its results (wa-nnisbaʿ leḥem); Q reduces the female beings to
+    Satan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 44:17
+      lang: he
+      text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת
+        הַשָּׁמַיִם֮ וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ
+        וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה
+        טוֹבִ֔ים וְרָעָ֖ה לֹ֥א רָאִֽינוּ
+    - ref: Jer 44:18
+      lang: he
+      text: וּמִן אָ֡ז חָדַ֜לְנוּ לְקַטֵּ֨ר לִמְלֶ֧כֶת הַשָּׁמַ֛יִם וְהַסֵּֽךְ לָ֥הּ נְסָכִ֖ים חָסַ֣רְנוּ
+        כֹ֑ל וּבַחֶ֥רֶב וּבָרָעָ֖ב תָּֽמְנוּ
+    - ref: Jer 44:19
+      lang: he
+      text: וְכִֽי אֲנַ֤חְנוּ מְקַטְּרִים֙ לִמְלֶ֣כֶת הַשָּׁמַ֔יִם וּלְהַסֵּ֥ךְ לָ֖הּ נְסָכִ֑ים הֲמִֽבַּלְעֲדֵ֣י
+        אֲנָשֵׁ֗ינוּ עָשִׂ֨ינוּ לָ֤הּ כַּוָּנִים֙ לְהַ֣עֲצִבָ֔ה וְהַסֵּ֥ךְ לָ֖הּ נְסָכִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 4:117
+      lang: ar
+      text: إِن يَدْعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثًا وَإِن يَدْعُونَ إِلَّا شَيْطَٰنًا مَّرِيدًا
 ---
 
 ## Questions

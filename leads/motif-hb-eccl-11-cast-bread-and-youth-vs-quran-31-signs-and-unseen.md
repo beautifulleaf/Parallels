@@ -2,8 +2,7 @@
 id: motif-hb-eccl-11-cast-bread-and-youth-vs-quran-31-signs-and-unseen
 title: Cast your bread upon the waters; rejoice in youth ↔ God's signs, the inexhaustible words, and the
   five things only God knows
-summary: 'These two units share 1 motifs: god alone knows the hour, sends rain, knows what is in wombs;
-  no soul knows what it will earn tomorrow or in what land it will die.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - five-keys-of-the-unseen
-passages:
-- tradition: judaism
-  ref: Eccl 11:5
-  note: 'God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
-    tomorrow or in what land it will die (ka-ʿăṣāmîm bə-ḇeṭen ha-mməlēʾâ kāḵâ lōʾ ṯēḏaʿ ʾeṯ-maʿăśēh hā-ʾĕlōhîm
-    vs. wa-yaʿlamu mā fī l-arḥām: what grows in the womb is hidden from humans and known to God. Qohelet
-    joins it to the way of the wind (ha-rûaḥ), the Quran to the Hour and the rain.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּאֲשֶׁ֨ר אֵֽינְךָ֤ יוֹדֵ֨עַ֙ מַה דֶּ֣רֶךְ הָר֔וּחַ כַּעֲצָמִ֖ים בְּבֶ֣טֶן הַמְּלֵאָ֑ה כָּ֗כָה
-    לֹ֤א תֵדַע֙ אֶת מַעֲשֵׂ֣ה הָֽאֱלֹהִ֔ים אֲשֶׁ֥ר יַעֲשֶׂ֖ה אֶת הַכֹּֽל
-- tradition: islam
-  ref: Quran 31:34
-  note: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
-    tomorrow or in what land it will die
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
-    وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ ٱللَّهَ
-    عَلِيمٌ خَبِيرٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ka-ʿăṣāmîm bə-ḇeṭen ha-mməlēʾâ kāḵâ lōʾ ṯēḏaʿ ʾeṯ-maʿăśēh hā-ʾĕlōhîm vs. wa-yaʿlamu mā fī
-    l-arḥām: what grows in the womb is hidden from humans and known to God. Qohelet joins it to the way
-    of the wind (ha-rûaḥ), the Quran to the Hour and the rain.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the Hour, sends rain, knows what is in wombs; no
     soul knows what it will earn tomorrow or in what land it will die (weight 6.3). Pair score 6.3.'
@@ -75,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
+  tomorrow or in what land it will die
+kinds:
+- parallel
+units:
+- id: hb-eccl-11-cast-bread-and-youth
+  title: Cast your bread upon the waters; rejoice in youth
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: parallel
+  label: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
+    tomorrow or in what land it will die
+  note: 'ka-ʿăṣāmîm bə-ḇeṭen ha-mməlēʾâ kāḵâ lōʾ ṯēḏaʿ ʾeṯ-maʿăśēh hā-ʾĕlōhîm vs. wa-yaʿlamu mā fī l-arḥām:
+    what grows in the womb is hidden from humans and known to God. Qohelet joins it to the way of the
+    wind (ha-rûaḥ), the Quran to the Hour and the rain.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 11:5
+      lang: he
+      text: כַּאֲשֶׁ֨ר אֵֽינְךָ֤ יוֹדֵ֨עַ֙ מַה דֶּ֣רֶךְ הָר֔וּחַ כַּעֲצָמִ֖ים בְּבֶ֣טֶן הַמְּלֵאָ֑ה כָּ֗כָה
+        לֹ֤א תֵדַע֙ אֶת מַעֲשֵׂ֣ה הָֽאֱלֹהִ֔ים אֲשֶׁ֥ר יַעֲשֶׂ֖ה אֶת הַכֹּֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 31:34
+      lang: ar
+      text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
+        وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ
+        ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
 ---
 
 ## Questions

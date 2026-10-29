@@ -1,7 +1,7 @@
 ---
 id: motif-hb-dan-8-ram-and-goat-vs-quran-2-polemic-israel
 title: The ram, the he-goat and the little horn; Gabriel explains ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: the angel gabriel is named and sent to explain the vision.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - angel-gabriel-named
-passages:
-- tradition: judaism
-  ref: Dan 8:16
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶשְׁמַ֥ע קוֹל אָדָ֖ם בֵּ֣ין אוּלָ֑י וַיִּקְרָא֙ וַיֹּאמַ֔ר גַּבְרִיאֵ֕ל הָבֵ֥ן לְהַלָּ֖ז אֶת
-    הַמַּרְאֶֽה
-- tradition: islam
-  ref: Quran 2:97
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ مُصَدِّقًا
-    لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 2:98
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ
-    عَدُوٌّ لِّلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Dan 8:16 gabrîʾēl hābēn lĕ-hallāz ʾet ha-mmarʾeh: Gabriel told to make the seer understand;
-    Q 2:97-98 Jibrīl as the bearer of revelation. Gabriel is named only in Daniel in the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel Gabriel is named and sent to explain the vision (weight
     6.0). Pair score 6.0.'
@@ -75,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angel Gabriel is named and sent to explain the vision
+kinds:
+- parallel
+units:
+- id: hb-dan-8-ram-and-goat
+  title: The ram, the he-goat and the little horn; Gabriel explains
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: parallel
+  label: The angel Gabriel is named and sent to explain the vision
+  note: 'Dan 8:16 gabrîʾēl hābēn lĕ-hallāz ʾet ha-mmarʾeh: Gabriel told to make the seer understand; Q
+    2:97-98 Jibrīl as the bearer of revelation. Gabriel is named only in Daniel in the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 8:16
+      lang: he
+      text: וָאֶשְׁמַ֥ע קוֹל אָדָ֖ם בֵּ֣ין אוּלָ֑י וַיִּקְרָא֙ וַיֹּאמַ֔ר גַּבְרִיאֵ֕ל הָבֵ֥ן לְהַלָּ֖ז
+        אֶת הַמַּרְאֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:97
+      lang: ar
+      text: قُلْ مَن كَانَ عَدُوًّا لِّجِبْرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلْبِكَ بِإِذْنِ ٱللَّهِ
+        مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ
+    - ref: Quran 2:98
+      lang: ar
+      text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ
+        ٱللَّهَ عَدُوٌّ لِّلْكَٰفِرِينَ
 ---
 
 ## Questions

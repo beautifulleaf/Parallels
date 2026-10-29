@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-3-covenant-of-prophets
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ The covenant of the prophets and
   the apostates
-summary: 'These two units share 1 motifs: duty to accept a prophet god will send later [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - duty-toward-a-future-prophet-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'Duty to accept a prophet God will send later [divergence between the texts] (Deut 18:18-19 nābîʾ
-    ʾāqîm lāhem ... wĕ-hāʾîš ʾăšer lōʾ yišmaʿ ʾel dĕbāray ʾăšer yĕdabbēr bi-šmî ʾānōkî ʾedrōš mēʿimmô:
-    the people must heed the future prophet God will raise; Q 3:81 wa-idh akhadha llāhu mīthāqa n-nabiyyīna
-    ... thumma jāʾakum rasūlun muṣaddiqun li-mā maʿakum la-tuʾminunna bihi wa-la-tanṣurunnahu: God binds
-    the prophets themselves by covenant to believe in and help a later messenger who confirms what they
-    have. The duty to accept a future messenger moves from the people to the prophets.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: judaism
-  ref: Deut 18:19
-  note: 'Duty to accept a prophet God will send later [divergence between the texts] (Deut 18:18-19 nābîʾ
-    ʾāqîm lāhem ... wĕ-hāʾîš ʾăšer lōʾ yišmaʿ ʾel dĕbāray ʾăšer yĕdabbēr bi-šmî ʾānōkî ʾedrōš mēʿimmô:
-    the people must heed the future prophet God will raise; Q 3:81 wa-idh akhadha llāhu mīthāqa n-nabiyyīna
-    ... thumma jāʾakum rasūlun muṣaddiqun li-mā maʿakum la-tuʾminunna bihi wa-la-tanṣurunnahu: God binds
-    the prophets themselves by covenant to believe in and help a later messenger who confirms what they
-    have. The duty to accept a future messenger moves from the people to the prophets.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה הָאִישׁ֙ אֲשֶׁ֤ר לֹֽא יִשְׁמַע֙ אֶל דְּבָרַ֔י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּשְׁמִ֑י אָנֹכִ֖י אֶדְרֹ֥שׁ
-    מֵעִמּֽוֹ
-- tradition: islam
-  ref: Quran 3:81
-  note: 'Duty to accept a prophet God will send later [divergence between the texts] (Deut 18:18-19 nābîʾ
-    ʾāqîm lāhem ... wĕ-hāʾîš ʾăšer lōʾ yišmaʿ ʾel dĕbāray ʾăšer yĕdabbēr bi-šmî ʾānōkî ʾedrōš mēʿimmô:
-    the people must heed the future prophet God will raise; Q 3:81 wa-idh akhadha llāhu mīthāqa n-nabiyyīna
-    ... thumma jāʾakum rasūlun muṣaddiqun li-mā maʿakum la-tuʾminunna bihi wa-la-tanṣurunnahu: God binds
-    the prophets themselves by covenant to believe in and help a later messenger who confirms what they
-    have. The duty to accept a future messenger moves from the people to the prophets.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍ وَحِكْمَةٍ ثُمَّ
-    جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ قَالَ ءَأَقْرَرْتُمْ
-    وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى قَالُوٓا۟ أَقْرَرْنَا قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم مِّنَ
-    ٱلشَّٰهِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 18:18-19 nābîʾ ʾāqîm lāhem ... wĕ-hāʾîš ʾăšer lōʾ yišmaʿ ʾel dĕbāray ʾăšer yĕdabbēr
-    bi-šmî ʾānōkî ʾedrōš mēʿimmô: the people must heed the future prophet God will raise; Q 3:81 wa-idh
-    akhadha llāhu mīthāqa n-nabiyyīna ... thumma jāʾakum rasūlun muṣaddiqun li-mā maʿakum la-tuʾminunna
-    bihi wa-la-tanṣurunnahu: God binds the prophets themselves by covenant to believe in and help a later
-    messenger who confirms what they have. The duty to accept a future messenger moves from the people
-    to the prophets.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Duty to accept a prophet God will send later [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -93,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Duty to accept a prophet God will send later
+kinds:
+- divergence
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-3-covenant-of-prophets
+  title: The covenant of the prophets and the apostates
+  tradition: islam
+matches:
+- kind: divergence
+  label: Duty to accept a prophet God will send later
+  note: 'Deut 18:18-19 nābîʾ ʾāqîm lāhem ... wĕ-hāʾîš ʾăšer lōʾ yišmaʿ ʾel dĕbāray ʾăšer yĕdabbēr bi-šmî
+    ʾānōkî ʾedrōš mēʿimmô: the people must heed the future prophet God will raise; Q 3:81 wa-idh akhadha
+    llāhu mīthāqa n-nabiyyīna ... thumma jāʾakum rasūlun muṣaddiqun li-mā maʿakum la-tuʾminunna bihi wa-la-tanṣurunnahu:
+    God binds the prophets themselves by covenant to believe in and help a later messenger who confirms
+    what they have. The duty to accept a future messenger moves from the people to the prophets.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+    - ref: Deut 18:19
+      lang: he
+      text: וְהָיָ֗ה הָאִישׁ֙ אֲשֶׁ֤ר לֹֽא יִשְׁמַע֙ אֶל דְּבָרַ֔י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּשְׁמִ֑י אָנֹכִ֖י
+        אֶדְרֹ֥שׁ מֵעִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:81
+      lang: ar
+      text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلنَّبِيِّۦنَ لَمَآ ءَاتَيْتُكُم مِّن كِتَٰبٍ وَحِكْمَةٍ ثُمَّ
+        جَآءَكُمْ رَسُولٌ مُّصَدِّقٌ لِّمَا مَعَكُمْ لَتُؤْمِنُنَّ بِهِۦ وَلَتَنصُرُنَّهُۥ قَالَ ءَأَقْرَرْتُمْ
+        وَأَخَذْتُمْ عَلَىٰ ذَٰلِكُمْ إِصْرِى قَالُوٓا۟ أَقْرَرْنَا قَالَ فَٱشْهَدُوا۟ وَأَنَا۠ مَعَكُم
+        مِّنَ ٱلشَّٰهِدِينَ
 ---
 
 ## Questions

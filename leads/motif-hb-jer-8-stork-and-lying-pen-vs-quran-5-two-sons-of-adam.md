@@ -2,9 +2,7 @@
 id: motif-hb-jer-8-stork-and-lying-pen-vs-quran-5-two-sons-of-adam
 title: The stork knows its seasons; the lying pen of the scribes ↔ The two sons of Adam, the raven, and
   whoever saves one life
-summary: 'These two units share 2 motifs: no one repents of his evil, saying ''what have i done?''; each
-  rushes on like a horse charging into battle [contrast between the texts], no one repents of his evil,
-  saying ''what have i done?''; each rushes on like a horse charging into battle.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,57 +15,9 @@ layers:
 motifs:
 - no-one-repents-what-have-i-done-as-contrast
 - no-one-repents-what-have-i-done
-passages:
-- tradition: judaism
-  ref: Jer 8:6
-  note: 'No one repents of his evil, saying ''What have I done?''; each rushes on like a horse charging
-    into battle [contrast between the texts] (Jer: ʾên ʾîš niḥām ʿal-rāʿātô lēʾmōr meh ʿāśîtî kullōh šāv
-    bi-mrûṣātām kə-sûs šôṭēf. Q: the first murderer does lament, yā waylatā ... fa-aṣbaḥa mina l-nādimīn.
-    Jer''s ''no one repents'' is the reverse of the Quranic Cain, who regrets (niḥām / nadima).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִקְשַׁ֤בְתִּי וָֽאֶשְׁמָע֙ לוֹא כֵ֣ן יְדַבֵּ֔רוּ אֵ֣ין אִ֗ישׁ נִחָם֙ עַל רָ֣עָת֔וֹ לֵאמֹ֖ר מֶ֣ה
-    עָשִׂ֑יתִי כֻּלֹּ֗ה שָׁ֚ב במרצותם בִּמְר֣וּצָתָ֔ם כְּס֥וּס שׁוֹטֵ֖ף בַּמִּלְחָמָֽה
-- tradition: islam
-  ref: Quran 5:31
-  note: 'No one repents of his evil, saying ''What have I done?''; each rushes on like a horse charging
-    into battle [contrast between the texts] (Jer: ʾên ʾîš niḥām ʿal-rāʿātô lēʾmōr meh ʿāśîtî kullōh šāv
-    bi-mrûṣātām kə-sûs šôṭēf. Q: the first murderer does lament, yā waylatā ... fa-aṣbaḥa mina l-nādimīn.
-    Jer''s ''no one repents'' is the reverse of the Quranic Cain, who regrets (niḥām / nadima).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ
-    قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ
-    مِنَ ٱلنَّٰدِمِينَ
-- tradition: judaism
-  ref: Jer 8:4
-  note: No one repents of his evil, saying 'What have I done?'; each rushes on like a horse charging into
-    battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם כֹּ֚ה אָמַ֣ר יְהוָ֔ה הֲיִפְּל֖וּ וְלֹ֣א יָק֑וּמוּ אִם יָשׁ֖וּב וְלֹ֥א יָשֽׁוּב
-- tradition: judaism
-  ref: Jer 8:5
-  note: No one repents of his evil, saying 'What have I done?'; each rushes on like a horse charging into
-    battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַדּ֨וּעַ שׁוֹבְבָ֜ה הָעָ֥ם הַזֶּ֛ה יְרוּשָׁלִַ֖ם מְשֻׁבָ֣ה נִצַּ֑חַת הֶחֱזִ֨יקוּ֙ בַּתַּרְמִ֔ית
-    מֵאֲנ֖וּ לָשֽׁוּב
-- tradition: islam
-  ref: Quran 5:31
-  note: 'No one repents of his evil, saying ''What have I done?''; each rushes on like a horse charging
-    into battle (inverse: the murderer laments ''woe is me'' and becomes remorseful (min al-nādimīn))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ
-    قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى فَأَصْبَحَ
-    مِنَ ٱلنَّٰدِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Jer: ʾên ʾîš niḥām ʿal-rāʿātô lēʾmōr meh ʿāśîtî kullōh šāv bi-mrûṣātām kə-sûs šôṭēf. Q:
-    the first murderer does lament, yā waylatā ... fa-aṣbaḥa mina l-nādimīn. Jer''s ''no one repents''
-    is the reverse of the Quranic Cain, who regrets (niḥām / nadima).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one repents of his evil, saying ''What have I done?''; each rushes
     on like a horse charging into battle [contrast between the texts] (weight 6.7); No one repents of
@@ -103,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one repents of his evil, saying 'What have I done?'; each rushes on like a horse charging
+  into battle
+kinds:
+- contrast
+units:
+- id: hb-jer-8-stork-and-lying-pen
+  title: The stork knows its seasons; the lying pen of the scribes
+  tradition: judaism
+- id: quran-5-two-sons-of-adam
+  title: The two sons of Adam, the raven, and whoever saves one life
+  tradition: islam
+matches:
+- kind: contrast
+  label: No one repents of his evil, saying 'What have I done?'; each rushes on like a horse charging
+    into battle
+  note: 'Jer: ʾên ʾîš niḥām ʿal-rāʿātô lēʾmōr meh ʿāśîtî kullōh šāv bi-mrûṣātām kə-sûs šôṭēf. Q: the first
+    murderer does lament, yā waylatā ... fa-aṣbaḥa mina l-nādimīn. Jer''s ''no one repents'' is the reverse
+    of the Quranic Cain, who regrets (niḥām / nadima).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 8:6
+      lang: he
+      text: הִקְשַׁ֤בְתִּי וָֽאֶשְׁמָע֙ לוֹא כֵ֣ן יְדַבֵּ֔רוּ אֵ֣ין אִ֗ישׁ נִחָם֙ עַל רָ֣עָת֔וֹ לֵאמֹ֖ר
+        מֶ֣ה עָשִׂ֑יתִי כֻּלֹּ֗ה שָׁ֚ב במרצותם בִּמְר֣וּצָתָ֔ם כְּס֥וּס שׁוֹטֵ֖ף בַּמִּלְחָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:31
+      lang: ar
+      text: فَبَعَثَ ٱللَّهُ غُرَابًا يَبْحَثُ فِى ٱلْأَرْضِ لِيُرِيَهُۥ كَيْفَ يُوَٰرِى سَوْءَةَ أَخِيهِ
+        قَالَ يَٰوَيْلَتَىٰٓ أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا ٱلْغُرَابِ فَأُوَٰرِىَ سَوْءَةَ أَخِى
+        فَأَصْبَحَ مِنَ ٱلنَّٰدِمِينَ
 ---
 
 ## Questions

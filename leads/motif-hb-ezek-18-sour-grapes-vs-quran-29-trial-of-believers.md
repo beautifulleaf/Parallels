@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-29-trial-of-believers
 title: Sour grapes - individual responsibility and repentance ↔ Believers tested; parents and idolatry;
   the false offer to carry sins
-summary: 'These two units share 1 motifs: whether one person can carry another''s sin [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,58 +14,9 @@ layers:
 - motif
 motifs:
 - bearing-anothers-sin-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 18:4
-  note: 'Whether one person can carry another''s sin [divergence between the texts] (Can sin be carried
-    by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn hā-āv, no one bears (nāśāʾ)
-    another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil khaṭāyākum is false (wa-mā
-    hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will carry ''their own loads and
-    loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18, outside the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤ן כָּל הַנְּפָשׁוֹת֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי הֵ֑נָּה הַנֶּ֥פֶשׁ
-    הַחֹטֵ֖את הִ֥יא תָמֽוּת
-- tradition: judaism
-  ref: Ezek 18:20
-  note: 'Whether one person can carry another''s sin [divergence between the texts] (Can sin be carried
-    by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn hā-āv, no one bears (nāśāʾ)
-    another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil khaṭāyākum is false (wa-mā
-    hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will carry ''their own loads and
-    loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18, outside the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: islam
-  ref: Quran 29:12
-  note: 'Whether one person can carry another''s sin [divergence between the texts] (Can sin be carried
-    by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn hā-āv, no one bears (nāśāʾ)
-    another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil khaṭāyākum is false (wa-mā
-    hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will carry ''their own loads and
-    loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
-    وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
-- tradition: islam
-  ref: Quran 29:13
-  note: 'Whether one person can carry another''s sin [divergence between the texts] (Can sin be carried
-    by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn hā-āv, no one bears (nāśāʾ)
-    another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil khaṭāyākum is false (wa-mā
-    hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will carry ''their own loads and
-    loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ
-    عَمَّا كَانُوا۟ يَفْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Can sin be carried by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn
-    hā-āv, no one bears (nāśāʾ) another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil
-    khaṭāyākum is false (wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will
-    carry ''their own loads and loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18,
-    outside the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether one person can carry another''s sin [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -105,6 +55,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether one person can carry another's sin
+kinds:
+- divergence
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether one person can carry another's sin
+  note: 'Can sin be carried by another? Ezekiel: han-nefeš ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ yiśśāʾ baʿăwōn
+    hā-āv, no one bears (nāśāʾ) another''s iniquity. The Quran agrees that the tempters'' offer wa-l-naḥmil
+    khaṭāyākum is false (wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾ), but adds that misleaders will
+    carry ''their own loads and loads besides their loads'' (athqālan maʿa athqālihim). cf. m. Avot 5:18,
+    outside the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:4
+      lang: he
+      text: הֵ֤ן כָּל הַנְּפָשׁוֹת֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי הֵ֑נָּה הַנֶּ֥פֶשׁ
+        הַחֹטֵ֖את הִ֥יא תָמֽוּת
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 29:12
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
+        وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
+    - ref: Quran 29:13
+      lang: ar
+      text: وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَّعَ أَثْقَالِهِمْ وَلَيُسْـَٔلُنَّ يَوْمَ ٱلْقِيَٰمَةِ
+        عَمَّا كَانُوا۟ يَفْتَرُونَ
 ---
 
 ## Questions

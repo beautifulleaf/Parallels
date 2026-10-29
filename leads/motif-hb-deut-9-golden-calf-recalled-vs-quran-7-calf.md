@@ -2,9 +2,7 @@
 id: motif-hb-deut-9-golden-calf-recalled-vs-quran-7-calf
 title: Not for your righteousness; the golden calf and Moses' intercession recalled ↔ The lowing calf
   and the seventy
-summary: 'These two units share 6 motifs: moses intercedes for aaron, with whom god was angry enough to
-  destroy him, moses prays for aaron after the calf [divergence between the texts], the prophet breaks
-  the tablets in anger at the idolatry, prophet intercedes and averts god''s destruction of the people….'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -21,144 +19,9 @@ motifs:
 - prophet-intercedes-for-people
 - fate-of-the-first-tablets-as-divergence
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Deut 9:20
-  note: Moses intercedes for Aaron, with whom God was angry enough to destroy him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
-    בָּעֵ֥ת הַהִֽוא
-- tradition: islam
-  ref: Quran 7:151
-  note: Moses intercedes for Aaron, with whom God was angry enough to destroy him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: judaism
-  ref: Deut 9:20
-  note: 'Moses prays for Aaron after the calf [divergence between the texts] (Moses prays for Aaron: rabbi
-    ghfir lī wa-li-akhī wa-adkhilnā fī raḥmatika vs ûbᵉʾahărōn hitʾannap YHWH mᵉʾōd lᵉhašmîdô wāʾetpallēl
-    gam-bᵉʿad ʾahărōn. In Deut God''s anger is against Aaron in particular; in Q Moses asks forgiveness
-    for himself first and puts himself and Aaron on the same footing.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
-    בָּעֵ֥ת הַהִֽוא
-- tradition: islam
-  ref: Quran 7:151
-  note: 'Moses prays for Aaron after the calf [divergence between the texts] (Moses prays for Aaron: rabbi
-    ghfir lī wa-li-akhī wa-adkhilnā fī raḥmatika vs ûbᵉʾahărōn hitʾannap YHWH mᵉʾōd lᵉhašmîdô wāʾetpallēl
-    gam-bᵉʿad ʾahărōn. In Deut God''s anger is against Aaron in particular; in Q Moses asks forgiveness
-    for himself first and puts himself and Aaron on the same footing.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: judaism
-  ref: Deut 9:17
-  note: The prophet breaks the tablets in anger at the idolatry
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם
-- tradition: islam
-  ref: Quran 7:150
-  note: The prophet breaks the tablets in anger at the idolatry (cast down (alqa), not said to break)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Deut 9:18
-  note: Prophet intercedes and averts God's destruction of the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָֽאֶתְנַפַּל֩ לִפְנֵ֨י יְהוָ֜ה כָּרִאשֹׁנָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם
-    לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֣א שָׁתִ֑יתִי עַ֤ל כָּל חַטַּאתְכֶם֙ אֲשֶׁ֣ר חֲטָאתֶ֔ם לַעֲשׂ֥וֹת הָרַ֛ע
-    בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִיסֽוֹ
-- tradition: judaism
-  ref: Deut 9:19
-  note: Prophet intercedes and averts God's destruction of the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יָגֹ֗רְתִּי מִפְּנֵ֤י הָאַף֙ וְהַ֣חֵמָ֔ה אֲשֶׁ֨ר קָצַ֧ף יְהוָ֛ה עֲלֵיכֶ֖ם לְהַשְׁמִ֣יד אֶתְכֶ֑ם
-    וַיִּשְׁמַ֤ע יְהוָה֙ אֵלַ֔י גַּ֖ם בַּפַּ֥עַם הַהִֽוא
-- tradition: islam
-  ref: Quran 7:155
-  note: Prophet intercedes and averts God's destruction of the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
-- tradition: islam
-  ref: Quran 7:156
-  note: Prophet intercedes and averts God's destruction of the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ قَالَ
-    عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا لِلَّذِينَ
-    يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
-- tradition: judaism
-  ref: Deut 9:17
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Deut uses the very verb of Q, then adds breaking: wāʾašlikēm
-    mēʿal štê yāday wāʾăšabbᵉrēm lᵉʿênêkem vs wa-alqā l-alwāḥa (šlk = alqā), with no breaking in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם
-- tradition: islam
-  ref: Quran 7:150
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ
-    بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
-    إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
-    بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:154
-  note: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
-    up again [divergence between the texts] (Moses returns angry: rajaʿa ... ghaḍbāna asifan; wa-alqā
-    l-alwāḥa vs wayyiḥar ʾap mōšeh wayyašlēk miyyādāw ʾet-hallūḥōt wayšabbēr ʾōtām taḥat hāhār. Q has
-    only ''cast down'' (alqā), never ''broke'' (Hebrew šibbēr).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا سَكَتَ عَن مُّوسَى ٱلْغَضَبُ أَخَذَ ٱلْأَلْوَاحَ وَفِى نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِّلَّذِينَ
-    هُمْ لِرَبِّهِمْ يَرْهَبُونَ
-- tradition: judaism
-  ref: Deut 9:12
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ק֣וּם רֵ֤ד מַהֵר֙ מִזֶּ֔ה כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הוֹצֵ֖אתָ מִמִּצְרָ֑יִם
-    סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֥וּ לָהֶ֖ם מַסֵּכָֽה
-- tradition: judaism
-  ref: Deut 9:16
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם
-    מַהֵ֔ר מִן הַדֶּ֕רֶךְ אֲשֶׁר צִוָּ֥ה יְהוָ֖ה אֶתְכֶֽם
-- tradition: islam
-  ref: Quran 7:148
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Deut uses the very verb of Q, then adds breaking: wāʾašlikēm mēʿal štê yāday wāʾăšabbᵉrēm
-    lᵉʿênêkem vs wa-alqā l-alwāḥa (šlk = alqā), with no breaking in Q. Moses prays for Aaron: rabbi ghfir
-    lī wa-li-akhī wa-adkhilnā fī raḥmatika vs ûbᵉʾahărōn hitʾannap YHWH mᵉʾōd lᵉhašmîdô wāʾetpallēl gam-bᵉʿad
-    ʾahărōn. In Deut God''s anger is against Aaron in particular; in Q Moses asks forgiveness for himself
-    first and puts himself and Aaron on the same footing.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses intercedes for Aaron, with whom God was angry enough to destroy
     him (weight 6.7); Moses prays for Aaron after the calf [divergence between the texts] (weight 6.7);
@@ -195,6 +58,136 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+  up again'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-9-golden-calf-recalled
+  title: Not for your righteousness; the golden calf and Moses' intercession recalled
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What becomes of the first tablets after the calf: broken and replaced, or cast down and taken
+    up again'
+  note: 'Deut uses the very verb of Q, then adds breaking: wāʾašlikēm mēʿal štê yāday wāʾăšabbᵉrēm lᵉʿênêkem
+    vs wa-alqā l-alwāḥa (šlk = alqā), with no breaking in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:17
+      lang: he
+      text: וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:150
+      lang: ar
+      text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى
+        مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
+        إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
+        بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+- kind: divergence
+  label: Moses prays for Aaron after the calf
+  note: 'Moses prays for Aaron: rabbi ghfir lī wa-li-akhī wa-adkhilnā fī raḥmatika vs ûbᵉʾahărōn hitʾannap
+    YHWH mᵉʾōd lᵉhašmîdô wāʾetpallēl gam-bᵉʿad ʾahărōn. In Deut God''s anger is against Aaron in particular;
+    in Q Moses asks forgiveness for himself first and puts himself and Aaron on the same footing.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:20
+      lang: he
+      text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
+        בָּעֵ֥ת הַהִֽוא
+  - tradition: islam
+    passages:
+    - ref: Quran 7:151
+      lang: ar
+      text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
+- kind: shared
+  label: Moses intercedes for Aaron, with whom God was angry enough to destroy him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:20
+      lang: he
+      text: וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם בְּעַ֥ד אַהֲרֹ֖ן
+        בָּעֵ֥ת הַהִֽוא
+  - tradition: islam
+    passages:
+    - ref: Quran 7:151
+      lang: ar
+      text: قَالَ رَبِّ ٱغْفِرْ لِى وَلِأَخِى وَأَدْخِلْنَا فِى رَحْمَتِكَ وَأَنتَ أَرْحَمُ ٱلرَّٰحِمِينَ
+- kind: shared
+  label: The prophet breaks the tablets in anger at the idolatry
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:17
+      lang: he
+      text: וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:150
+      lang: ar
+      text: وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى
+        مِنۢ بَعْدِىٓ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ
+        إِلَيْهِ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ
+        بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ
+    note: cast down (alqa), not said to break
+- kind: shared
+  label: Prophet intercedes and averts God's destruction of the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:18
+      lang: he
+      text: וָֽאֶתְנַפַּל֩ לִפְנֵ֨י יְהוָ֜ה כָּרִאשֹׁנָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם
+        לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֣א שָׁתִ֑יתִי עַ֤ל כָּל חַטַּאתְכֶם֙ אֲשֶׁ֣ר חֲטָאתֶ֔ם לַעֲשׂ֥וֹת
+        הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִיסֽוֹ
+    - ref: Deut 9:19
+      lang: he
+      text: כִּ֣י יָגֹ֗רְתִּי מִפְּנֵ֤י הָאַף֙ וְהַ֣חֵמָ֔ה אֲשֶׁ֨ר קָצַ֧ף יְהוָ֛ה עֲלֵיכֶ֖ם לְהַשְׁמִ֣יד
+        אֶתְכֶ֑ם וַיִּשְׁמַ֤ע יְהוָה֙ אֵלַ֔י גַּ֖ם בַּפַּ֥עַם הַהִֽוא
+    - ref: Deut 9:26
+      lang: he
+      text: וָאֶתְפַּלֵּ֣ל אֶל יְהוָה֮ וָאֹמַר֒ אֲדֹנָ֣י יְהוִ֗ה אַל תַּשְׁחֵ֤ת עַמְּךָ֙ וְנַחֲלָ֣תְךָ֔
+        אֲשֶׁ֥ר פָּדִ֖יתָ בְּגָדְלֶ֑ךָ אֲשֶׁר הוֹצֵ֥אתָ מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+    - ref: Quran 7:156
+      lang: ar
+      text: وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْءَاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ
+        قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ فَسَأَكْتُبُهَا
+        لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 9:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ק֣וּם רֵ֤ד מַהֵר֙ מִזֶּ֔ה כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הוֹצֵ֖אתָ
+        מִמִּצְרָ֑יִם סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֥וּ לָהֶ֖ם מַסֵּכָֽה
+    - ref: Deut 9:16
+      lang: he
+      text: וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם
+        מַהֵ֔ר מִן הַדֶּ֕רֶךְ אֲשֶׁר צִוָּ֥ה יְהוָ֖ה אֶתְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
 ---
 
 ## Questions

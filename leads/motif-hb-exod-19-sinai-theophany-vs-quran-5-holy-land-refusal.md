@@ -2,8 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-5-holy-land-refusal
 title: Arrival at Sinai, covenant offer and theophany ↔ The refusal to enter the holy land and forty years
   of wandering
-summary: 'These two units share 2 motifs: israel is to be a kingdom of priests and a holy nation [divergence
-  between the texts], israel is to be a kingdom of priests and a holy nation.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,65 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- kingdom-of-priests-as-divergence
 - kingdom-of-priests
-passages:
-- tradition: judaism
-  ref: Exod 19:5
-  note: 'Israel is to be a kingdom of priests and a holy nation [divergence between the texts] (Exod:
-    wə-ʾattem tihyû-lî mamlekhet kōhănîm wə-gôy qādôš ... səgullāh mik-kol-hā-ʿammîm. Q: idh jaʿala fīkum
-    anbiyāʾa wa-jaʿalakum mulūkan wa-ātākum mā lam yuʾti aḥadan mina l-ʿālamīna. ''Kingdom of priests''
-    becomes ''prophets among you, and made you kings''. Priests drop out; the election is kept (mā lam
-    yuʾti aḥadan).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה אִם שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י
-    סְגֻלָּה֙ מִכָּל הָ֣עַמִּ֔ים כִּי לִ֖י כָּל הָאָֽרֶץ
-- tradition: judaism
-  ref: Exod 19:6
-  note: 'Israel is to be a kingdom of priests and a holy nation [divergence between the texts] (Exod:
-    wə-ʾattem tihyû-lî mamlekhet kōhănîm wə-gôy qādôš ... səgullāh mik-kol-hā-ʿammîm. Q: idh jaʿala fīkum
-    anbiyāʾa wa-jaʿalakum mulūkan wa-ātākum mā lam yuʾti aḥadan mina l-ʿālamīna. ''Kingdom of priests''
-    becomes ''prophets among you, and made you kings''. Priests drop out; the election is kept (mā lam
-    yuʾti aḥadan).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתֶּ֧ם תִּהְיוּ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר
-    אֶל בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 5:20
-  note: 'Israel is to be a kingdom of priests and a holy nation [divergence between the texts] (Exod:
-    wə-ʾattem tihyû-lî mamlekhet kōhănîm wə-gôy qādôš ... səgullāh mik-kol-hā-ʿammîm. Q: idh jaʿala fīkum
-    anbiyāʾa wa-jaʿalakum mulūkan wa-ātākum mā lam yuʾti aḥadan mina l-ʿālamīna. ''Kingdom of priests''
-    becomes ''prophets among you, and made you kings''. Priests drop out; the election is kept (mā lam
-    yuʾti aḥadan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ
-    فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 19:6
-  note: Israel is to be a kingdom of priests and a holy nation
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתֶּ֧ם תִּהְיוּ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר
-    אֶל בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 5:20
-  note: Israel is to be a kingdom of priests and a holy nation ('made you kings' (jaʿalakum mulūkan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ
-    فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
+- kingdom-of-priests-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Exod: wə-ʾattem tihyû-lî mamlekhet kōhănîm wə-gôy qādôš ... səgullāh mik-kol-hā-ʿammîm.
-    Q: idh jaʿala fīkum anbiyāʾa wa-jaʿalakum mulūkan wa-ātākum mā lam yuʾti aḥadan mina l-ʿālamīna. ''Kingdom
-    of priests'' becomes ''prophets among you, and made you kings''. Priests drop out; the election is
-    kept (mā lam yuʾti aḥadan).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Israel is to be a kingdom of priests and a holy nation [divergence
-    between the texts] (weight 6.7); Israel is to be a kingdom of priests and a holy nation (weight 6.7).
+- text: 'Shared motifs, rarest first: Israel is to be a kingdom of priests and a holy nation (weight 6.7);
+    Israel is to be a kingdom of priests and a holy nation [divergence between the texts] (weight 6.7).
     Pair score 13.4.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
@@ -103,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel is to be a kingdom of priests and a holy nation
+kinds:
+- divergence
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-5-holy-land-refusal
+  title: The refusal to enter the holy land and forty years of wandering
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel is to be a kingdom of priests and a holy nation
+  note: 'Exod: wə-ʾattem tihyû-lî mamlekhet kōhănîm wə-gôy qādôš ... səgullāh mik-kol-hā-ʿammîm. Q: idh
+    jaʿala fīkum anbiyāʾa wa-jaʿalakum mulūkan wa-ātākum mā lam yuʾti aḥadan mina l-ʿālamīna. ''Kingdom
+    of priests'' becomes ''prophets among you, and made you kings''. Priests drop out; the election is
+    kept (mā lam yuʾti aḥadan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:5
+      lang: he
+      text: וְעַתָּ֗ה אִם שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י
+        סְגֻלָּה֙ מִכָּל הָ֣עַמִּ֔ים כִּי לִ֖י כָּל הָאָֽרֶץ
+    - ref: Exod 19:6
+      lang: he
+      text: וְאַתֶּ֧ם תִּהְיוּ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר
+        תְּדַבֵּ֖ר אֶל בְּנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 5:20
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَعَلَ
+        فِيكُمْ أَنۢبِيَآءَ وَجَعَلَكُم مُّلُوكًا وَءَاتَىٰكُم مَّا لَمْ يُؤْتِ أَحَدًا مِّنَ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

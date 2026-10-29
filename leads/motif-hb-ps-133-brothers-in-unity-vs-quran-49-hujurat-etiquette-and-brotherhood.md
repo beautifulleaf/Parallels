@@ -2,8 +2,7 @@
 id: motif-hb-ps-133-brothers-in-unity-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Psalm 133, brothers dwelling together, oil and dew ↔ Al-Hujurat: lowering voices, verifying reports,
   reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: the believers are nothing but brothers, so make peace between
-  your brothers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - believers-are-brothers
-passages:
-- tradition: judaism
-  ref: Ps 133:1
-  note: The believers are nothing but brothers, so make peace between your brothers (hinnēh mah ṭôḇ û-mah
-    nāʿîm šeḇeṯ ʾaḥîm gam yāḥaḏ vs. innamā l-muʾminūna ikhwatun fa-aṣliḥū bayna akhawaykum. The psalm
-    praises brothers living in unity; the Quran makes the faithful brothers and orders reconciliation.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה טּ֭וֹב וּמַה נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם יָֽחַד
-- tradition: islam
-  ref: Quran 49:10
-  note: The believers are nothing but brothers, so make peace between your brothers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ
-    تُرْحَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. hinnēh mah ṭôḇ û-mah nāʿîm šeḇeṯ ʾaḥîm gam yāḥaḏ vs. innamā l-muʾminūna ikhwatun fa-aṣliḥū bayna
-    akhawaykum. The psalm praises brothers living in unity; the Quran makes the faithful brothers and
-    orders reconciliation.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers are nothing but brothers, so make peace between your
     brothers (weight 6.7). Pair score 6.7.'
@@ -68,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The believers are nothing but brothers, so make peace between your brothers
+kinds:
+- echo
+units:
+- id: hb-ps-133-brothers-in-unity
+  title: Psalm 133, brothers dwelling together, oil and dew
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: The believers are nothing but brothers, so make peace between your brothers
+  note: hinnēh mah ṭôḇ û-mah nāʿîm šeḇeṯ ʾaḥîm gam yāḥaḏ vs. innamā l-muʾminūna ikhwatun fa-aṣliḥū bayna
+    akhawaykum. The psalm praises brothers living in unity; the Quran makes the faithful brothers and
+    orders reconciliation.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 133:1
+      lang: he
+      text: שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד הִנֵּ֣ה מַה טּ֭וֹב וּמַה נָּעִ֑ים שֶׁ֖בֶת אַחִ֣ים גַּם יָֽחַד
+  - tradition: islam
+    passages:
+    - ref: Quran 49:10
+      lang: ar
+      text: إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ
+        تُرْحَمُونَ
 ---
 
 ## Questions

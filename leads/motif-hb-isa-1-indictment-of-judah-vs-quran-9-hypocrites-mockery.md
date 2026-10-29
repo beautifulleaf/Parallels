@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-9-hypocrites-mockery
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Hypocrites who mock
   and the destroyed peoples
-summary: 'These two units share 1 motifs: roll call of destroyed peoples: noah''s, ad, thamud, abraham''s
-  people, midian and the overturned cities.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - roll-of-destroyed-peoples
-passages:
-- tradition: judaism
-  ref: Isa 1:9
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities (The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
-    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ
-- tradition: judaism
-  ref: Isa 1:10
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities (The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
-    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְע֥וּ דְבַר יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה
-- tradition: islam
-  ref: Quran 9:69
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَٰدًا
-    فَٱسْتَمْتَعُوا۟ بِخَلَٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم
-    بِخَلَٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ
-    وَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
-- tradition: islam
-  ref: Quran 9:70
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ
-    وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ
-    وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
-    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s
     people, Midian and the overturned cities (weight 5.0). Pair score 5.0.'
@@ -90,6 +52,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
+  cities'
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
+    cities'
+  note: 'The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
+    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:9
+      lang: he
+      text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה
+        דָּמִֽינוּ
+    - ref: Isa 1:10
+      lang: he
+      text: שִׁמְע֥וּ דְבַר יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:69
+      lang: ar
+      text: كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَٰدًا
+        فَٱسْتَمْتَعُوا۟ بِخَلَٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن
+        قَبْلِكُم بِخَلَٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ أُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى
+        ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
+    - ref: Quran 9:70
+      lang: ar
+      text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ
+        إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

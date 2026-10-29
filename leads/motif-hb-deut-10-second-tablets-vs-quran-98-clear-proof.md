@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-10-second-tablets-vs-quran-98-clear-proof
 title: Second tablets and ark; Levites set apart; what God requires ↔ The clear proof
-summary: 'These two units share 1 motifs: they were commanded only to serve god sincerely, as hunafa''
-  (pure monotheists), pray and give alms: the upright religion.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - pure-religion-of-hunafa
-passages:
-- tradition: judaism
-  ref: Deut 10:12
-  note: 'They were commanded only to serve God sincerely, as hunafa'' (pure monotheists), pray and give
-    alms: the upright religion (wa-mā umirū illā li-yaʿbudū llāha mukhliṣīna lahu d-dīn ... wa-yuqīmū
-    ṣ-ṣalāta wa-yuʾtū z-zakāh ~ mah YHWH ʾĕlōhêkā šōʾēl mē-ʿimmāk kî ʾim leyirʾāh ... û-laʿăvōd ʾet YHWH
-    ʾĕlōhêkā be-kol levāvekā: ''they were commanded nothing but'' / ''what does God ask but'' to serve
-    God wholeheartedly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם לְ֠יִרְאָה אֶת יְהוָ֨ה
-    אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכָל דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל
-    לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 98:5
-  note: 'They were commanded only to serve God sincerely, as hunafa'' (pure monotheists), pray and give
-    alms: the upright religion'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟
-    ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-mā umirū illā li-yaʿbudū llāha mukhliṣīna lahu d-dīn ... wa-yuqīmū ṣ-ṣalāta wa-yuʾtū
-    z-zakāh ~ mah YHWH ʾĕlōhêkā šōʾēl mē-ʿimmāk kî ʾim leyirʾāh ... û-laʿăvōd ʾet YHWH ʾĕlōhêkā be-kol
-    levāvekā: ''they were commanded nothing but'' / ''what does God ask but'' to serve God wholeheartedly.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They were commanded only to serve God sincerely, as hunafa'' (pure
     monotheists), pray and give alms: the upright religion (weight 6.7). Pair score 6.7.'
@@ -67,6 +43,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'They were commanded only to serve God sincerely, as hunafa'' (pure monotheists), pray and give
+  alms: the upright religion'
+kinds:
+- parallel
+units:
+- id: hb-deut-10-second-tablets
+  title: Second tablets and ark; Levites set apart; what God requires
+  tradition: judaism
+- id: quran-98-clear-proof
+  title: The clear proof
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'They were commanded only to serve God sincerely, as hunafa'' (pure monotheists), pray and give
+    alms: the upright religion'
+  note: 'wa-mā umirū illā li-yaʿbudū llāha mukhliṣīna lahu d-dīn ... wa-yuqīmū ṣ-ṣalāta wa-yuʾtū z-zakāh
+    ~ mah YHWH ʾĕlōhêkā šōʾēl mē-ʿimmāk kî ʾim leyirʾāh ... û-laʿăvōd ʾet YHWH ʾĕlōhêkā be-kol levāvekā:
+    ''they were commanded nothing but'' / ''what does God ask but'' to serve God wholeheartedly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 10:12
+      lang: he
+      text: וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם לְ֠יִרְאָה אֶת
+        יְהוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכָל דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ
+        בְּכָל לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 98:5
+      lang: ar
+      text: وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟
+        ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ
 ---
 
 ## Questions

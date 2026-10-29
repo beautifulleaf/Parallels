@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-5-adam-to-noah-vs-quran-3-annunciation-jesus
 title: The book of the generations of Adam, Adam to Noah ↔ The annunciation and the mission of Jesus
-summary: 'These two units share 1 motifs: seventh ancestor walks with god and is taken without dying.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,37 +13,9 @@ layers:
 - motif
 motifs:
 - seventh-patriarch-taken-by-god
-passages:
-- tradition: judaism
-  ref: Gen 5:22
-  note: Seventh ancestor walks with God and is taken without dying (Enoch, 'and he was not, for God took
-    him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת
-    שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת
-- tradition: judaism
-  ref: Gen 5:24
-  note: Seventh ancestor walks with God and is taken without dying (Enoch, 'and he was not, for God took
-    him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 3:55
-  note: 'Seventh ancestor walks with God and is taken without dying (Gen 5:24 wĕ-ʾênennû kî lāqaḥ ʾōtô
-    ʾĕlōhîm: ''he was not, for God took him''; Q 3:55 innī mutawaffīka wa-rāfiʿuka ilayya: ''I will take
-    you and raise you to me''. God ''taking'' a righteous man, with no account of death.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ
-    كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ ثُمَّ
-    إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 5:24 wĕ-ʾênennû kî lāqaḥ ʾōtô ʾĕlōhîm: ''he was not, for God took him''; Q 3:55 innī mutawaffīka
-    wa-rāfiʿuka ilayya: ''I will take you and raise you to me''. God ''taking'' a righteous man, with
-    no account of death.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seventh ancestor walks with God and is taken without dying (weight
     6.0). Pair score 6.0.'
@@ -73,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seventh ancestor walks with God and is taken without dying
+kinds:
+- echo
+units:
+- id: hb-gen-5-adam-to-noah
+  title: The book of the generations of Adam, Adam to Noah
+  tradition: judaism
+- id: quran-3-annunciation-jesus
+  title: The annunciation and the mission of Jesus
+  tradition: islam
+matches:
+- kind: echo
+  label: Seventh ancestor walks with God and is taken without dying
+  note: 'Gen 5:24 wĕ-ʾênennû kî lāqaḥ ʾōtô ʾĕlōhîm: ''he was not, for God took him''; Q 3:55 innī mutawaffīka
+    wa-rāfiʿuka ilayya: ''I will take you and raise you to me''. God ''taking'' a righteous man, with
+    no account of death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 5:24
+      lang: he
+      text: וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 3:55
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّى مُتَوَفِّيكَ وَرَافِعُكَ إِلَىَّ وَمُطَهِّرُكَ مِنَ
+        ٱلَّذِينَ كَفَرُوا۟ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوْقَ ٱلَّذِينَ كَفَرُوٓا۟ إِلَىٰ يَوْمِ
+        ٱلْقِيَٰمَةِ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
 ---
 
 ## Questions

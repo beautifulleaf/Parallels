@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-tithes-vs-quran-48-fath-tree-hudaybiya-and-seed
 title: Return to me; will a man rob God? Test me with the tithe ↔ The pledge under the tree, the hidden
   believers in Mecca, the dream of entering the sanctuary, and the seed parable from Torah and Gospel
-summary: 'These two units share 1 motifs: the way (sunna) of god with those who passed before: you will
-  find no change in god''s way.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - sunna-of-god-unchanging
-passages:
-- tradition: judaism
-  ref: Mal 3:6
-  note: 'The way (sunna) of God with those who passed before: you will find no change in God''s way (kî
-    ʾănî YHWH lōʾ šānîṯî wə-ʾattem bənê yaʿăqōḇ lōʾ ḵəlîṯem vs. sunnata llāhi llatī qad khalat min qablu
-    wa-lan tajida li-sunnati llāhi tabdīlā. Malachi: God''s unchanging nature explains why Jacob is not
-    destroyed; Quran: God''s unchanging practice is the defeat of those who fight the believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם
-- tradition: islam
-  ref: Quran 48:23
-  note: 'The way (sunna) of God with those who passed before: you will find no change in God''s way'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. kî ʾănî YHWH lōʾ šānîṯî wə-ʾattem bənê yaʿăqōḇ lōʾ ḵəlîṯem vs. sunnata llāhi llatī qad khalat
-    min qablu wa-lan tajida li-sunnati llāhi tabdīlā. Malachi: God''s unchanging nature explains why Jacob
-    is not destroyed; Quran: God''s unchanging practice is the defeat of those who fight the believers.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The way (sunna) of God with those who passed before: you will find
     no change in God''s way (weight 5.6). Pair score 5.6.'
@@ -73,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The way (sunna) of God with those who passed before: you will find no change in God''s way'
+kinds:
+- echo
+units:
+- id: hb-mal-3-tithes
+  title: Return to me; will a man rob God? Test me with the tithe
+  tradition: judaism
+- id: quran-48-fath-tree-hudaybiya-and-seed
+  title: The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
+    and the seed parable from Torah and Gospel
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The way (sunna) of God with those who passed before: you will find no change in God''s way'
+  note: 'kî ʾănî YHWH lōʾ šānîṯî wə-ʾattem bənê yaʿăqōḇ lōʾ ḵəlîṯem vs. sunnata llāhi llatī qad khalat
+    min qablu wa-lan tajida li-sunnati llāhi tabdīlā. Malachi: God''s unchanging nature explains why Jacob
+    is not destroyed; Quran: God''s unchanging practice is the defeat of those who fight the believers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:6
+      lang: he
+      text: כִּ֛י אֲנִ֥י יְהוָ֖ה לֹ֣א שָׁנִ֑יתִי וְאַתֶּ֥ם בְּנֵֽי יַעֲקֹ֖ב לֹ֥א כְלִיתֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 48:23
+      lang: ar
+      text: سُنَّةَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ مِن قَبْلُ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا
 ---
 
 ## Questions

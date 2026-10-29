@@ -2,7 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-16-deniers-and-angels-of-death
 title: Creation in six days and the seventh-day rest ↔ Legends of the ancients, the fallen roof, the angels
   who take souls (Surah 16:24-50)
-summary: 'These two units share 1 motifs: god creates by saying to a thing ''be'' and it is (kun fa-yakun).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - kun-fa-yakun
-passages:
-- tradition: judaism
-  ref: Gen 1:3
-  note: 'God creates by saying to a thing ''Be'' and it is (kun fa-yakun) (innamā qawlunā li-shayʾin idhā
-    aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî ʾôr wayhî-ʾôr: creation by command, jussive
-    followed by fulfilment. Same verb (kwn / hyh) in each language''s pair. Q applies it here to raising
-    the dead.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
-- tradition: islam
-  ref: Quran 16:40
-  note: God creates by saying to a thing 'Be' and it is (kun fa-yakun) (kun fa-yakūn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. innamā qawlunā li-shayʾin idhā aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî
-    ʾôr wayhî-ʾôr: creation by command, jussive followed by fulfilment. Same verb (kwn / hyh) in each
-    language''s pair. Q applies it here to raising the dead.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God creates by saying to a thing ''Be'' and it is (kun fa-yakun)
     (weight 5.3). Pair score 5.3.'
@@ -71,6 +53,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
+kinds:
+- parallel
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-16-deniers-and-angels-of-death
+  title: Legends of the ancients, the fallen roof, the angels who take souls (Surah 16:24-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God creates by saying to a thing 'Be' and it is (kun fa-yakun)
+  note: 'innamā qawlunā li-shayʾin idhā aradnāhu an naqūla lahu kun fa-yakūn; wayyōʾmer ʾĕlōhîm yəhî ʾôr
+    wayhî-ʾôr: creation by command, jussive followed by fulfilment. Same verb (kwn / hyh) in each language''s
+    pair. Q applies it here to raising the dead.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:3
+      lang: he
+      text: וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 16:40
+      lang: ar
+      text: إِنَّمَا قَوْلُنَا لِشَىْءٍ إِذَآ أَرَدْنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-24-covenant-ratification-vs-quran-98-clear-proof
 title: Covenant ratified in blood; the elders see God ↔ The clear proof
-summary: 'These two units share 1 motifs: a messenger from god recites purified scrolls (suhuf mutahhara)
-  containing upright writings.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - messenger-reciting-purified-scrolls
-passages:
-- tradition: judaism
-  ref: Exod 24:7
-  note: 'A messenger from God recites purified scrolls (suhuf mutahhara) containing upright writings (rasūlun
-    mina llāhi yatlū ṣuḥufan muṭahharatan fīhā kutubun qayyima ~ wa-yyiqqaḥ sēfer ha-bberît wa-yyiqrāʾ
-    be-ʾoznê hā-ʿām: a messenger reads God''s written document to the people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 98:2
-  note: A messenger from God recites purified scrolls (suhuf mutahhara) containing upright writings
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً
-- tradition: islam
-  ref: Quran 98:3
-  note: A messenger from God recites purified scrolls (suhuf mutahhara) containing upright writings
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهَا كُتُبٌ قَيِّمَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. rasūlun mina llāhi yatlū ṣuḥufan muṭahharatan fīhā kutubun qayyima ~ wa-yyiqqaḥ sēfer ha-bberît
-    wa-yyiqrāʾ be-ʾoznê hā-ʿām: a messenger reads God''s written document to the people.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A messenger from God recites purified scrolls (suhuf mutahhara)
     containing upright writings (weight 6.7). Pair score 6.7.'
@@ -66,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A messenger from God recites purified scrolls (suhuf mutahhara) containing upright writings
+kinds:
+- echo
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-98-clear-proof
+  title: The clear proof
+  tradition: islam
+matches:
+- kind: echo
+  label: A messenger from God recites purified scrolls (suhuf mutahhara) containing upright writings
+  note: 'rasūlun mina llāhi yatlū ṣuḥufan muṭahharatan fīhā kutubun qayyima ~ wa-yyiqqaḥ sēfer ha-bberît
+    wa-yyiqrāʾ be-ʾoznê hā-ʿām: a messenger reads God''s written document to the people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 98:2
+      lang: ar
+      text: رَسُولٌ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًا مُّطَهَّرَةً
+    - ref: Quran 98:3
+      lang: ar
+      text: فِيهَا كُتُبٌ قَيِّمَةٌ
 ---
 
 ## Questions

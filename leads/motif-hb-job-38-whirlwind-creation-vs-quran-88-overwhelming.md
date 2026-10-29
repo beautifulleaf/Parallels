@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-88-overwhelming
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   overwhelming event: dari'' and the carpets of paradise'
-summary: 'These two units share 2 motifs: rhetorical divine questions: where were you when i founded the
-  earth? do you know...?, god set the mountains as pegs or firm anchors (awtad, rawasi) for the earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,61 +15,9 @@ layers:
 motifs:
 - where-were-you-at-creation
 - mountains-as-pegs
-passages:
-- tradition: judaism
-  ref: Job 38:4
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:12
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הְֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר ידעתה שחר יִדַּ֖עְתָּה הַשַּׁ֣חַר מְקֹמֽוֹ
-- tradition: islam
-  ref: Quran 88:17
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...? (''do they
-    not look at the camel, how it was created, the sky, how raised...'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ
-- tradition: islam
-  ref: Quran 88:18
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...? (''do they
-    not look at the camel, how it was created, the sky, how raised...'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ
-- tradition: judaism
-  ref: Job 38:4
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:6
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
-- tradition: islam
-  ref: Quran 88:19
-  note: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-ilā s-samāʾi kayfa rufiʿat wa-ilā l-jibāli kayfa nuṣibat wa-ilā l-arḍi kayfa suṭiḥat ~ ʾêfōh
-    hāyîtā be-yosdî ʾāreṣ ... mî śām memaddêhā: rhetorical questions about how the world was built.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rhetorical divine questions: where were you when I founded the earth?
     Do you know...? (weight 6.3); God set the mountains as pegs or firm anchors (awtad, rawasi) for the
@@ -107,6 +54,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-88-overwhelming
+  title: 'The overwhelming event: dari'' and the carpets of paradise'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
+  note: 'wa-ilā s-samāʾi kayfa rufiʿat wa-ilā l-jibāli kayfa nuṣibat wa-ilā l-arḍi kayfa suṭiḥat ~ ʾêfōh
+    hāyîtā be-yosdî ʾāreṣ ... mî śām memaddêhā: rhetorical questions about how the world was built.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:5
+      lang: he
+      text: מִי שָׂ֣ם מְ֭מַדֶּיהָ כִּ֣י תֵדָ֑ע א֤וֹ מִֽי נָטָ֖ה עָלֶ֣יהָ קָּֽו
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 88:18
+      lang: ar
+      text: وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ
+    - ref: Quran 88:19
+      lang: ar
+      text: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
+    - ref: Quran 88:20
+      lang: ar
+      text: وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ
+- kind: shared
+  label: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+    note: 'a-lam najʿali l-arḍa kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî
+      ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk
+      in Job, towering anchors (mountains) in the Quran.'
+  - tradition: islam
+    passages:
+    - ref: Quran 88:19
+      lang: ar
+      text: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
 ---
 
 ## Questions

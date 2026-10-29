@@ -2,7 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-39-mercy-and-last-day
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ Do not despair of mercy; the
   earth in God''s grip; the throngs to hell and Garden'
-summary: 'These two units share 1 motifs: the land the righteous inherit [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - land-inherited-by-the-righteous-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 37:29
-  note: 'The land the righteous inherit [divergence between the texts] (ṣaddîqîm yîrəšû-ʾāreṣ wə-yiškənû
-    lā-ʿaḏ ʿāleyhā vs. al-ḥamdu li-llāhi lladhī ... awrathanā l-arḍa natabawwaʾu mina l-jannati ḥaythu
-    nashāʾ: the righteous inherit (yāraš / awratha, cognate) the land and dwell in it. The psalm''s land
-    is this earth; the Quran''s ''land'' is the Garden.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
-- tradition: islam
-  ref: Quran 39:74
-  note: 'The land the righteous inherit [divergence between the texts] (ṣaddîqîm yîrəšû-ʾāreṣ wə-yiškənû
-    lā-ʿaḏ ʿāleyhā vs. al-ḥamdu li-llāhi lladhī ... awrathanā l-arḍa natabawwaʾu mina l-jannati ḥaythu
-    nashāʾ: the righteous inherit (yāraš / awratha, cognate) the land and dwell in it. The psalm''s land
-    is this earth; the Quran''s ''land'' is the Garden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ مِنَ
-    ٱلْجَنَّةِ حَيْثُ نَشَآءُ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. ṣaddîqîm yîrəšû-ʾāreṣ wə-yiškənû lā-ʿaḏ ʿāleyhā vs. al-ḥamdu li-llāhi lladhī ... awrathanā
-    l-arḍa natabawwaʾu mina l-jannati ḥaythu nashāʾ: the righteous inherit (yāraš / awratha, cognate)
-    the land and dwell in it. The psalm''s land is this earth; the Quran''s ''land'' is the Garden.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The land the righteous inherit [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -77,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The land the righteous inherit
+kinds:
+- divergence
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: divergence
+  label: The land the righteous inherit
+  note: 'ṣaddîqîm yîrəšû-ʾāreṣ wə-yiškənû lā-ʿaḏ ʿāleyhā vs. al-ḥamdu li-llāhi lladhī ... awrathanā l-arḍa
+    natabawwaʾu mina l-jannati ḥaythu nashāʾ: the righteous inherit (yāraš / awratha, cognate) the land
+    and dwell in it. The psalm''s land is this earth; the Quran''s ''land'' is the Garden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:29
+      lang: he
+      text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:74
+      lang: ar
+      text: وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِى صَدَقَنَا وَعْدَهُۥ وَأَوْرَثَنَا ٱلْأَرْضَ نَتَبَوَّأُ
+        مِنَ ٱلْجَنَّةِ حَيْثُ نَشَآءُ فَنِعْمَ أَجْرُ ٱلْعَٰمِلِينَ
 ---
 
 ## Questions

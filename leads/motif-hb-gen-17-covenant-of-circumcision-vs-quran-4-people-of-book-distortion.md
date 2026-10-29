@@ -2,7 +2,7 @@
 id: motif-hb-gen-17-covenant-of-circumcision-vs-quran-4-people-of-book-distortion
 title: El Shaddai, new names and the covenant of circumcision ↔ Shifted words, 'we hear and disobey',
   and the people of the Sabbath
-summary: 'These two units share 1 motifs: kings promised to come from the patriarch or matriarch.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - kings-will-descend-from-patriarch
-passages:
-- tradition: judaism
-  ref: Gen 17:6
-  note: Kings promised to come from the patriarch or matriarch
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִפְרֵתִ֤י אֹֽתְךָ֙ בִּמְאֹ֣ד מְאֹ֔ד וּנְתַתִּ֖יךָ לְגוֹיִ֑ם וּמְלָכִ֖ים מִמְּךָ֥ יֵצֵֽאוּ
-- tradition: judaism
-  ref: Gen 17:16
-  note: Kings promised to come from the patriarch or matriarch
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבֵרַכְתִּ֣י אֹתָ֔הּ וְגַ֨ם נָתַ֧תִּי מִמֶּ֛נָּה לְךָ֖ בֵּ֑ן וּבֵֽרַכְתִּ֨יהָ֙ וְהָֽיְתָ֣ה לְגוֹיִ֔ם
-    מַלְכֵ֥י עַמִּ֖ים מִמֶּ֥נָּה יִהְיֽוּ
-- tradition: islam
-  ref: Quran 4:54
-  note: 'Kings promised to come from the patriarch or matriarch (Q: fa-qad ātaynā āla Ibrāhīma l-kitāba
-    wa-l-ḥikmata wa-ātaynāhum mulkan ʿaẓīman. Gen: û-məlākhîm mimməkā yēṣēʾû. Kingship promised to Abraham''s
-    line; Q adds book and wisdom.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ فَقَدْ ءَاتَيْنَآ ءَالَ
-    إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: fa-qad ātaynā āla Ibrāhīma l-kitāba wa-l-ḥikmata wa-ātaynāhum mulkan ʿaẓīman. Gen: û-məlākhîm
-    mimməkā yēṣēʾû. Kingship promised to Abraham''s line; Q adds book and wisdom.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Kings promised to come from the patriarch or matriarch (weight 6.3).
     Pair score 6.3.'
@@ -74,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Kings promised to come from the patriarch or matriarch
+kinds:
+- echo
+units:
+- id: hb-gen-17-covenant-of-circumcision
+  title: El Shaddai, new names and the covenant of circumcision
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: echo
+  label: Kings promised to come from the patriarch or matriarch
+  note: 'Q: fa-qad ātaynā āla Ibrāhīma l-kitāba wa-l-ḥikmata wa-ātaynāhum mulkan ʿaẓīman. Gen: û-məlākhîm
+    mimməkā yēṣēʾû. Kingship promised to Abraham''s line; Q adds book and wisdom.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 17:6
+      lang: he
+      text: וְהִפְרֵתִ֤י אֹֽתְךָ֙ בִּמְאֹ֣ד מְאֹ֔ד וּנְתַתִּ֖יךָ לְגוֹיִ֑ם וּמְלָכִ֖ים מִמְּךָ֥ יֵצֵֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:54
+      lang: ar
+      text: أَمْ يَحْسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضْلِهِۦ فَقَدْ ءَاتَيْنَآ
+        ءَالَ إِبْرَٰهِيمَ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَءَاتَيْنَٰهُم مُّلْكًا عَظِيمًا
 ---
 
 ## Questions

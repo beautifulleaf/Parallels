@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-9-noahide-covenant-vs-quran-2-adam-iblis
 title: Blessing of Noah, blood laws and the covenant of the bow ↔ Adam, the angels and Iblis
-summary: 'These two units share 1 motifs: whoever sheds human blood, by man shall his blood be shed, because
-  humans bear god''s image.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - bloodshed-requires-bloodshed
-passages:
-- tradition: judaism
-  ref: Gen 9:6
-  note: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image (chiastic
-    shofekh dam ha-adam ba-adam damo yishafekh)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת
-    הָאָדָֽם
-- tradition: islam
-  ref: Quran 2:30
-  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image (Cognate
-    verb: Gen 9:6 šōpēk dam hā-ʾādām bā-ʾādām dāmô yiššāpēk kî bĕ-ṣelem ʾĕlōhîm ʿāśâ ʾet hā-ʾādām; Q 2:30
-    wa-yasfiku d-dimāʾa (s-f-k = š-p-k + dam/dimāʾ). In Genesis, man''s bearing God''s image is the reason
-    his blood may not be shed; in the Quran the shedding of blood is the angels'' charge against the new
-    creature.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
-    فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ
-    إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Cognate verb: Gen 9:6 šōpēk dam hā-ʾādām bā-ʾādām dāmô yiššāpēk kî bĕ-ṣelem ʾĕlōhîm ʿāśâ ʾet
-    hā-ʾādām; Q 2:30 wa-yasfiku d-dimāʾa (s-f-k = š-p-k + dam/dimāʾ). In Genesis, man''s bearing God''s
-    image is the reason his blood may not be shed; in the Quran the shedding of blood is the angels''
-    charge against the new creature.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever sheds human blood, by man shall his blood be shed, because
     humans bear God''s image (weight 6.3). Pair score 6.3.'
@@ -75,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image
+kinds:
+- echo
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-2-adam-iblis
+  title: Adam, the angels and Iblis
+  tradition: islam
+matches:
+- kind: echo
+  label: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image
+  note: 'Cognate verb: Gen 9:6 šōpēk dam hā-ʾādām bā-ʾādām dāmô yiššāpēk kî bĕ-ṣelem ʾĕlōhîm ʿāśâ ʾet
+    hā-ʾādām; Q 2:30 wa-yasfiku d-dimāʾa (s-f-k = š-p-k + dam/dimāʾ). In Genesis, man''s bearing God''s
+    image is the reason his blood may not be shed; in the Quran the shedding of blood is the angels''
+    charge against the new creature.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:6
+      lang: he
+      text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה
+        אֶת הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:30
+      lang: ar
+      text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
+        فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+        قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
 ---
 
 ## Questions

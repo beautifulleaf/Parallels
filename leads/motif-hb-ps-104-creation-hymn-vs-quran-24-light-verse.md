@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-24-light-verse
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The Light Verse; the mirage,
   the dark sea, the praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: god wraps himself in light as in a garment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - wrapped-in-light-as-garment
-passages:
-- tradition: judaism
-  ref: Ps 104:2
-  note: God wraps himself in light as in a garment (oteh or ka-salmah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
-- tradition: islam
-  ref: Quran 24:35
-  note: 'God wraps himself in light as in a garment (allāhu nūru s-samāwāti wa-l-arḍi ~ ʿōṭeh ʾôr ka-śśalmâ
-    nôṭeh šāmayim ka-yrîʿâ: light linked with God and the heavens; in the Psalm God wears light, in the
-    Quran God is the light of heaven and earth.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. allāhu nūru s-samāwāti wa-l-arḍi ~ ʿōṭeh ʾôr ka-śśalmâ nôṭeh šāmayim ka-yrîʿâ: light linked
-    with God and the heavens; in the Psalm God wears light, in the Quran God is the light of heaven and
-    earth.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God wraps himself in light as in a garment (weight 6.7). Pair score
     6.7.'
@@ -76,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God wraps himself in light as in a garment
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: God wraps himself in light as in a garment
+  note: 'allāhu nūru s-samāwāti wa-l-arḍi ~ ʿōṭeh ʾôr ka-śśalmâ nôṭeh šāmayim ka-yrîʿâ: light linked with
+    God and the heavens; in the Psalm God wears light, in the Quran God is the light of heaven and earth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:2
+      lang: he
+      text: עֹֽטֶה א֭וֹר כַּשַּׂלְמָ֑ה נוֹטֶ֥ה שָׁ֝מַ֗יִם כַּיְרִיעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

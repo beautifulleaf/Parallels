@@ -2,7 +2,7 @@
 id: motif-hb-isa-27-leviathan-and-great-shofar-vs-quran-6-deliverance-trumpet
 title: Leviathan slain; the vineyard of delight; the great shofar ↔ Rescue in the darkness of land and
   sea; the bewildered man; the trumpet
-summary: 'These two units share 1 motifs: the trumpet (ṣūr) is blown and the dead are gathered.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - trumpet-blown-at-resurrection
-passages:
-- tradition: judaism
-  ref: Isa 27:13
-  note: 'The trumpet (ṣūr) is blown and the dead are gathered (A horn blast at the end time. Isa: yittāqaʿ
-    bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the exiles to the holy mountain. Q: yawma yunfakhu fī
-    l-ṣūri, at the resurrection and judgement (ʿālimu l-ghaybi wa-l-shahāda). Isa''s national ingathering
-    becomes the universal resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ אַשּׁ֔וּר
-    וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 6:73
-  note: The trumpet (ṣūr) is blown and the dead are gathered
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَيَوْمَ يَقُولُ كُن فَيَكُونُ قَوْلُهُ
-    ٱلْحَقُّ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ وَهُوَ ٱلْحَكِيمُ
-    ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. A horn blast at the end time. Isa: yittāqaʿ bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the
-    exiles to the holy mountain. Q: yawma yunfakhu fī l-ṣūri, at the resurrection and judgement (ʿālimu
-    l-ghaybi wa-l-shahāda). Isa''s national ingathering becomes the universal resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The trumpet (ṣūr) is blown and the dead are gathered (weight 5.0).
     Pair score 5.0.'
@@ -75,6 +54,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The trumpet (ṣūr) is blown and the dead are gathered
+kinds:
+- echo
+units:
+- id: hb-isa-27-leviathan-and-great-shofar
+  title: Leviathan slain; the vineyard of delight; the great shofar
+  tradition: judaism
+- id: quran-6-deliverance-trumpet
+  title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+  tradition: islam
+matches:
+- kind: echo
+  label: The trumpet (ṣūr) is blown and the dead are gathered
+  note: 'A horn blast at the end time. Isa: yittāqaʿ bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the exiles
+    to the holy mountain. Q: yawma yunfakhu fī l-ṣūri, at the resurrection and judgement (ʿālimu l-ghaybi
+    wa-l-shahāda). Isa''s national ingathering becomes the universal resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 27:13
+      lang: he
+      text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ
+        אַשּׁ֔וּר וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:73
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَيَوْمَ يَقُولُ كُن فَيَكُونُ
+        قَوْلُهُ ٱلْحَقُّ وَلَهُ ٱلْمُلْكُ يَوْمَ يُنفَخُ فِى ٱلصُّورِ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ
+        وَهُوَ ٱلْحَكِيمُ ٱلْخَبِيرُ
 ---
 
 ## Questions

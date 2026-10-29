@@ -2,7 +2,7 @@
 id: motif-hb-isa-8-maher-shalal-and-stone-of-stumbling-vs-quran-13-messengers-and-mother-of-book
 title: Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp ↔ Messengers,
   the Mother of the Book and the witness of scripture (Surah 13:30-43)
-summary: 'These two units share 1 motifs: earlier messengers were given wives and offspring.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - messengers-had-wives-and-children
-passages:
-- tradition: judaism
-  ref: Isa 8:3
-  note: Earlier messengers were given wives and offspring (wa-jaʿalnā lahum azwājan wa-dhurriyyatan wa-mā
-    kāna li-rasūlin an yaʾtiya bi-āyatin illā bi-idhni llāh; hinnēh ʾānōkî wəhayyəlādîm ʾăšer nātan-lî
-    YHWH ləʾōtôt ûləmôptîm, with the prophetess wife (Isa 8:3). Both have prophets with wife and children.
-    In Isa the children themselves are the signs (ʾōtôt); in Q signs (āyāt) come only by God's leave.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶקְרַב֙ אֶל הַנְּבִיאָ֔ה וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י קְרָ֣א שְׁמ֔וֹ
-    מַהֵ֥ר שָׁלָ֖ל חָ֥שׁ בַּֽז
-- tradition: judaism
-  ref: Isa 8:18
-  note: Earlier messengers were given wives and offspring (wa-jaʿalnā lahum azwājan wa-dhurriyyatan wa-mā
-    kāna li-rasūlin an yaʾtiya bi-āyatin illā bi-idhni llāh; hinnēh ʾānōkî wəhayyəlādîm ʾăšer nātan-lî
-    YHWH ləʾōtôt ûləmôptîm, with the prophetess wife (Isa 8:3). Both have prophets with wife and children.
-    In Isa the children themselves are the signs (ʾōtôt); in Q signs (āyāt) come only by God's leave.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֣ה אָנֹכִ֗י וְהַיְלָדִים֙ אֲשֶׁ֣ר נָֽתַן לִ֣י יְהוָ֔ה לְאֹת֥וֹת וּלְמוֹפְתִ֖ים בְּיִשְׂרָאֵ֑ל
-    מֵעִם֙ יְהוָ֣ה צְבָא֔וֹת הַשֹּׁכֵ֖ן בְּהַ֥ר צִיּֽוֹן
-- tradition: islam
-  ref: Quran 13:38
-  note: Earlier messengers were given wives and offspring
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ وَجَعَلْنَا لَهُمْ أَزْوَٰجًا وَذُرِّيَّةً وَمَا كَانَ
-    لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ لِكُلِّ أَجَلٍ كِتَابٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wa-jaʿalnā lahum azwājan wa-dhurriyyatan wa-mā kāna li-rasūlin an yaʾtiya bi-āyatin illā bi-idhni
-    llāh; hinnēh ʾānōkî wəhayyəlādîm ʾăšer nātan-lî YHWH ləʾōtôt ûləmôptîm, with the prophetess wife (Isa
-    8:3). Both have prophets with wife and children. In Isa the children themselves are the signs (ʾōtôt);
-    in Q signs (āyāt) come only by God''s leave.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Earlier messengers were given wives and offspring (weight 6.7).
     Pair score 6.7.'
@@ -88,6 +57,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Earlier messengers were given wives and offspring
+kinds:
+- echo
+units:
+- id: hb-isa-8-maher-shalal-and-stone-of-stumbling
+  title: Maher-shalal-hash-baz; waters of Shiloah; the stone of stumbling; ghosts that chirp
+  tradition: judaism
+- id: quran-13-messengers-and-mother-of-book
+  title: Messengers, the Mother of the Book and the witness of scripture (Surah 13:30-43)
+  tradition: islam
+matches:
+- kind: echo
+  label: Earlier messengers were given wives and offspring
+  note: wa-jaʿalnā lahum azwājan wa-dhurriyyatan wa-mā kāna li-rasūlin an yaʾtiya bi-āyatin illā bi-idhni
+    llāh; hinnēh ʾānōkî wəhayyəlādîm ʾăšer nātan-lî YHWH ləʾōtôt ûləmôptîm, with the prophetess wife (Isa
+    8:3). Both have prophets with wife and children. In Isa the children themselves are the signs (ʾōtôt);
+    in Q signs (āyāt) come only by God's leave.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 8:3
+      lang: he
+      text: וָאֶקְרַב֙ אֶל הַנְּבִיאָ֔ה וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י קְרָ֣א שְׁמ֔וֹ
+        מַהֵ֥ר שָׁלָ֖ל חָ֥שׁ בַּֽז
+    - ref: Isa 8:18
+      lang: he
+      text: הִנֵּ֣ה אָנֹכִ֗י וְהַיְלָדִים֙ אֲשֶׁ֣ר נָֽתַן לִ֣י יְהוָ֔ה לְאֹת֥וֹת וּלְמוֹפְתִ֖ים בְּיִשְׂרָאֵ֑ל
+        מֵעִם֙ יְהוָ֣ה צְבָא֔וֹת הַשֹּׁכֵ֖ן בְּהַ֥ר צִיּֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 13:38
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا رُسُلًا مِّن قَبْلِكَ وَجَعَلْنَا لَهُمْ أَزْوَٰجًا وَذُرِّيَّةً وَمَا
+        كَانَ لِرَسُولٍ أَن يَأْتِىَ بِـَٔايَةٍ إِلَّا بِإِذْنِ ٱللَّهِ لِكُلِّ أَجَلٍ كِتَابٌ
 ---
 
 ## Questions

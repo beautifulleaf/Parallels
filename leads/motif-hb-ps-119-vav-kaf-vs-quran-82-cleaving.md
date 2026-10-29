@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-119-vav-kaf-vs-quran-82-cleaving
 title: 'Psalm 119, stanzas vav to kaf ↔ The cleaving: the noble scribes'
-summary: 'These two units share 1 motifs: god formed the kidneys and wove (knit) the speaker in his mother''s
-  womb.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - knit-together-in-mothers-womb
-passages:
-- tradition: judaism
-  ref: Ps 119:73
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb ('Your hands made me and
-    fashioned me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ
-- tradition: islam
-  ref: Quran 82:7
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (who created you, proportioned
-    you, balanced you, and assembled you in whatever form he willed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
-- tradition: islam
-  ref: Quran 82:8
-  note: God formed the kidneys and wove (knit) the speaker in his mother's womb (who created you, proportioned
-    you, balanced you, and assembled you in whatever form he willed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. khalaqaka fa-sawwāka ~ yādêkā ʿāśûnî wa-ykônenûnî (made me and set me upright/established me):
-    sawwā and kônēn both ''set right, proportion''.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God formed the kidneys and wove (knit) the speaker in his mother''s
     womb (weight 5.8). Pair score 5.8.'
@@ -72,6 +48,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God formed the kidneys and wove (knit) the speaker in his mother's womb
+kinds:
+- echo
+units:
+- id: hb-ps-119-vav-kaf
+  title: Psalm 119, stanzas vav to kaf
+  tradition: judaism
+- id: quran-82-cleaving
+  title: 'The cleaving: the noble scribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: God formed the kidneys and wove (knit) the speaker in his mother's womb
+  note: 'khalaqaka fa-sawwāka ~ yādêkā ʿāśûnî wa-ykônenûnî (made me and set me upright/established me):
+    sawwā and kônēn both ''set right, proportion''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:73
+      lang: he
+      text: יָדֶ֣יךָ עָ֭שׂוּנִי וַֽיְכוֹנְנ֑וּנִי הֲ֝בִינֵ֗נִי וְאֶלְמְדָ֥ה מִצְוֺתֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 82:7
+      lang: ar
+      text: ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ
 ---
 
 ## Questions

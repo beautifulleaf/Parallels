@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-27-is-there-a-god-with-god
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The litany 'Is there a god
   with God?' and the unseen
-summary: 'These two units share 3 motifs: the world set upon pillars belonging to god, god set firm mountains
-  on the earth lest it sway with people, god sends the winds as heralds before his mercy and sends down
-  pure water from the sky.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,84 +16,9 @@ motifs:
 - earth-on-pillars
 - mountains-stabilize-earth
 - winds-herald-mercy-pure-water
-passages:
-- tradition: judaism
-  ref: Ps 104:5
-  note: The world set upon pillars belonging to God (yasad erets al mekhoneha)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 104:10
-  note: The world set upon pillars belonging to God (yasad erets al mekhoneha)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן
-- tradition: islam
-  ref: Quran 27:61
-  note: 'The world set upon pillars belonging to God (amman jaʿala l-arḍa qarāran wa-jaʿala khilālahā
-    anhāran wa-jaʿala lahā rawāsiya ~ yāsad ʾereṣ ʿal məkhônêhā bal timmôṭ ... ham-məšallēaḥ maʿyānîm
-    ban-nəḥālîm bên hārîm yəhallēkhûn: a stable earth (qarār / bal timmôṭ), with rivers flowing among
-    the mountains.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ
-    بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Ps 104:5
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 104:8
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
-- tradition: islam
-  ref: Quran 27:61
-  note: God set firm mountains on the earth lest it sway with people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ
-    بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:4
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 27:63
-  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن يَهْدِيكُمْ فِى ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ
-    يَدَىْ رَحْمَتِهِۦٓ أَءِلَٰهٌ مَّعَ ٱللَّهِ تَعَٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. amman jaʿala l-arḍa qarāran wa-jaʿala khilālahā anhāran wa-jaʿala lahā rawāsiya ~ yāsad ʾereṣ
-    ʿal məkhônêhā bal timmôṭ ... ham-məšallēaḥ maʿyānîm ban-nəḥālîm bên hārîm yəhallēkhûn: a stable earth
-    (qarār / bal timmôṭ), with rivers flowing among the mountains.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The world set upon pillars belonging to God (weight 5.6); God set
     firm mountains on the earth lest it sway with people (weight 5.6); God sends the winds as heralds
@@ -132,6 +55,86 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The world set upon pillars belonging to God
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: echo
+  label: The world set upon pillars belonging to God
+  note: 'amman jaʿala l-arḍa qarāran wa-jaʿala khilālahā anhāran wa-jaʿala lahā rawāsiya ~ yāsad ʾereṣ
+    ʿal məkhônêhā bal timmôṭ ... ham-məšallēaḥ maʿyānîm ban-nəḥālîm bên hārîm yəhallēkhûn: a stable earth
+    (qarār / bal timmôṭ), with rivers flowing among the mountains.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+    - ref: Ps 104:10
+      lang: he
+      text: הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 27:61
+      lang: ar
+      text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ
+        وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: God set firm mountains on the earth lest it sway with people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+    - ref: Ps 104:8
+      lang: he
+      text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    note: 'yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum:
+      the earth made unshakable. Ps: on its foundations; Q: by mountains set as anchors.'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:61
+      lang: ar
+      text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ
+        وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+- kind: shared
+  label: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    note: 'God''s winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ...
+      mašqeh hārîm mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa
+      lladhī yursilu l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā
+      bihi l-māʾa. The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju
+      l-mawtā).'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:63
+      lang: ar
+      text: أَمَّن يَهْدِيكُمْ فِى ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ وَمَن يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ
+        يَدَىْ رَحْمَتِهِۦٓ أَءِلَٰهٌ مَّعَ ٱللَّهِ تَعَٰلَى ٱللَّهُ عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

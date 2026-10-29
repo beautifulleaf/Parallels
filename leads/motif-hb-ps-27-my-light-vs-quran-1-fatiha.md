@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-27-my-light-vs-quran-1-fatiha
 title: Psalm 27 - YHWH is my light; one thing I ask ↔ The Opening (al-Fatiha)
-summary: 'These two units share 1 motifs: prayer to be guided on the straight path (al-sirat al-mustaqim).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,33 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-for-straight-path
-passages:
-- tradition: judaism
-  ref: Ps 27:11
-  note: 'Prayer to be guided on the straight path (al-sirat al-mustaqim) (Ps 27:11 hôrēnî YHWH darkekā
-    û-nĕḥēnî bĕ-ʾōraḥ mîšôr ''teach me your way, lead me on a level path'' ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm
-    ''guide us on the straight path'': imperative petition for guidance on the even/straight road (mîšôr
-    / mustaqīm); singular ''me'' vs communal ''us''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֤וֹרֵ֥נִי יְהוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שׁוֹרְרָֽי
-- tradition: islam
-  ref: Quran 1:6
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-- tradition: islam
-  ref: Quran 1:7
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 27:11 hôrēnî YHWH darkekā û-nĕḥēnî bĕ-ʾōraḥ mîšôr ''teach me your way, lead me on a level
-    path'' ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm ''guide us on the straight path'': imperative petition for
-    guidance on the even/straight road (mîšôr / mustaqīm); singular ''me'' vs communal ''us''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer to be guided on the straight path (al-sirat al-mustaqim)
     (weight 5.8). Pair score 5.8.'
@@ -70,6 +46,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+kinds:
+- echo
+units:
+- id: hb-ps-27-my-light
+  title: Psalm 27 - YHWH is my light; one thing I ask
+  tradition: judaism
+- id: quran-1-fatiha
+  title: The Opening (al-Fatiha)
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+  note: 'Ps 27:11 hôrēnî YHWH darkekā û-nĕḥēnî bĕ-ʾōraḥ mîšôr ''teach me your way, lead me on a level
+    path'' ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm ''guide us on the straight path'': imperative petition for
+    guidance on the even/straight road (mîšôr / mustaqīm); singular ''me'' vs communal ''us''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 27:11
+      lang: he
+      text: ה֤וֹרֵ֥נִי יְהוָ֗ה דַּ֫רְכֶּ֥ךָ וּ֭נְחֵנִי בְּאֹ֣רַח מִישׁ֑וֹר לְ֝מַ֗עַן שׁוֹרְרָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 1:6
+      lang: ar
+      text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
 ---
 
 ## Questions

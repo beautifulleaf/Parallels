@@ -2,8 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-4-fighting-and-death
 title: Rebellion after the spies' report and the forty-year sentence ↔ Fighting for the oppressed; death
   in lofty towers
-summary: 'These two units share 1 motifs: people ordered to fight complain to god and wish to be spared
-  the battle.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 - motif
 motifs:
 - people-balk-at-fighting
-passages:
-- tradition: judaism
-  ref: Num 14:2
-  note: 'People ordered to fight complain to God and wish to be spared the battle (Q: qālū rabbanā lima
-    katabta ʿalaynā l-qitāla law-lā akhkhartanā ilā ajalin qarīb. Num: wə-lāmāh YHWH mēbîʾ ʾōtānû ʾel-hāʾāreṣ
-    hazzōʾt linpōl baḥereb. Both put to God a ''why'' about being sent to fight; Q adds that they fear
-    people ''as they fear God or more''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּלֹּ֨נוּ֙ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֔ן כֹּ֖ל בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיֹּאמְר֨וּ אֲלֵהֶ֜ם כָּל
-    הָעֵדָ֗ה לוּ מַ֨תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם א֛וֹ בַּמִּדְבָּ֥ר הַזֶּ֖ה לוּ מָֽתְנוּ
-- tradition: judaism
-  ref: Num 14:3
-  note: 'People ordered to fight complain to God and wish to be spared the battle (Q: qālū rabbanā lima
-    katabta ʿalaynā l-qitāla law-lā akhkhartanā ilā ajalin qarīb. Num: wə-lāmāh YHWH mēbîʾ ʾōtānû ʾel-hāʾāreṣ
-    hazzōʾt linpōl baḥereb. Both put to God a ''why'' about being sent to fight; Q adds that they fear
-    people ''as they fear God or more''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָמָ֣ה יְ֠הוָה מֵבִ֨יא אֹתָ֜נוּ אֶל הָאָ֤רֶץ הַזֹּאת֙ לִנְפֹּ֣ל בַּחֶ֔רֶב נָשֵׁ֥ינוּ וְטַפֵּ֖נוּ
-    יִהְי֣וּ לָבַ֑ז הֲל֧וֹא ט֦וֹב לָ֖נוּ שׁ֥וּב מִצְרָֽיְמָה
-- tradition: islam
-  ref: Quran 4:77
-  note: 'People ordered to fight complain to God and wish to be spared the battle (Q: qālū rabbanā lima
-    katabta ʿalaynā l-qitāla law-lā akhkhartanā ilā ajalin qarīb. Num: wə-lāmāh YHWH mēbîʾ ʾōtānû ʾel-hāʾāreṣ
-    hazzōʾt linpōl baḥereb. Both put to God a ''why'' about being sent to fight; Q adds that they fear
-    people ''as they fear God or more''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟
-    ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ كَخَشْيَةِ
-    ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ لَوْلَآ أَخَّرْتَنَآ
-    إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ لِّمَنِ ٱتَّقَىٰ وَلَا
-    تُظْلَمُونَ فَتِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: qālū rabbanā lima katabta ʿalaynā l-qitāla law-lā akhkhartanā ilā ajalin qarīb. Num:
-    wə-lāmāh YHWH mēbîʾ ʾōtānû ʾel-hāʾāreṣ hazzōʾt linpōl baḥereb. Both put to God a ''why'' about being
-    sent to fight; Q adds that they fear people ''as they fear God or more''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People ordered to fight complain to God and wish to be spared the
     battle (weight 6.7). Pair score 6.7.'
@@ -89,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People ordered to fight complain to God and wish to be spared the battle
+kinds:
+- parallel
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-4-fighting-and-death
+  title: Fighting for the oppressed; death in lofty towers
+  tradition: islam
+matches:
+- kind: parallel
+  label: People ordered to fight complain to God and wish to be spared the battle
+  note: 'Q: qālū rabbanā lima katabta ʿalaynā l-qitāla law-lā akhkhartanā ilā ajalin qarīb. Num: wə-lāmāh
+    YHWH mēbîʾ ʾōtānû ʾel-hāʾāreṣ hazzōʾt linpōl baḥereb. Both put to God a ''why'' about being sent to
+    fight; Q adds that they fear people ''as they fear God or more''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:2
+      lang: he
+      text: וַיִּלֹּ֨נוּ֙ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֔ן כֹּ֖ל בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיֹּאמְר֨וּ אֲלֵהֶ֜ם
+        כָּל הָעֵדָ֗ה לוּ מַ֨תְנוּ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם א֛וֹ בַּמִּדְבָּ֥ר הַזֶּ֖ה לוּ מָֽתְנוּ
+    - ref: Num 14:3
+      lang: he
+      text: וְלָמָ֣ה יְ֠הוָה מֵבִ֨יא אֹתָ֜נוּ אֶל הָאָ֤רֶץ הַזֹּאת֙ לִנְפֹּ֣ל בַּחֶ֔רֶב נָשֵׁ֥ינוּ וְטַפֵּ֖נוּ
+        יִהְי֣וּ לָבַ֑ז הֲל֧וֹא ט֦וֹב לָ֖נוּ שׁ֥וּב מִצְרָֽיְמָה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:77
+      lang: ar
+      text: أَلَمْ تَرَ إِلَى ٱلَّذِينَ قِيلَ لَهُمْ كُفُّوٓا۟ أَيْدِيَكُمْ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟
+        ٱلزَّكَوٰةَ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ إِذَا فَرِيقٌ مِّنْهُمْ يَخْشَوْنَ ٱلنَّاسَ
+        كَخَشْيَةِ ٱللَّهِ أَوْ أَشَدَّ خَشْيَةً وَقَالُوا۟ رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ
+        لَوْلَآ أَخَّرْتَنَآ إِلَىٰٓ أَجَلٍ قَرِيبٍ قُلْ مَتَٰعُ ٱلدُّنْيَا قَلِيلٌ وَٱلْءَاخِرَةُ خَيْرٌ
+        لِّمَنِ ٱتَّقَىٰ وَلَا تُظْلَمُونَ فَتِيلًا
 ---
 
 ## Questions

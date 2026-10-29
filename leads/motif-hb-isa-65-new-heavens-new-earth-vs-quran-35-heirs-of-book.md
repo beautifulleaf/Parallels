@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-65-new-heavens-new-earth-vs-quran-35-heirs-of-book
 title: New heavens and a new earth ↔ The heirs of the Book, the Gardens of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: paradise is the abode of permanence where no toil or weariness
-  touches the blessed and grief is removed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,50 +13,9 @@ layers:
 - motif
 motifs:
 - paradise-free-of-grief-and-weariness
-passages:
-- tradition: judaism
-  ref: Isa 65:19
-  note: 'Paradise is the abode of permanence where no toil or weariness touches the blessed and grief
-    is removed (wə-lōʾ-yiššāmaʿ bāh ʿôḏ qôl bəḵî ... lōʾ yîḡəʿû lā-rîq vs. al-ḥamdu li-llāhi lladhī adhhaba
-    ʿannā l-ḥazan ... lā yamassunā fīhā naṣabun wa-lā yamassunā fīhā lughūb: in the renewed abode there
-    is no more weeping and no wasted toil. Isaiah''s is a renewed Jerusalem on earth; the Quran''s the
-    dār al-muqāma.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַלְתִּ֥י בִירוּשָׁלִַ֖ם וְשַׂשְׂתִּ֣י בְעַמִּ֑י וְלֹֽא יִשָּׁמַ֥ע בָּהּ֙ ע֔וֹד ק֥וֹל בְּכִ֖י
-    וְק֥וֹל זְעָקָֽה
-- tradition: judaism
-  ref: Isa 65:23
-  note: 'Paradise is the abode of permanence where no toil or weariness touches the blessed and grief
-    is removed (wə-lōʾ-yiššāmaʿ bāh ʿôḏ qôl bəḵî ... lōʾ yîḡəʿû lā-rîq vs. al-ḥamdu li-llāhi lladhī adhhaba
-    ʿannā l-ḥazan ... lā yamassunā fīhā naṣabun wa-lā yamassunā fīhā lughūb: in the renewed abode there
-    is no more weeping and no wasted toil. Isaiah''s is a renewed Jerusalem on earth; the Quran''s the
-    dār al-muqāma.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֤א יִֽיגְעוּ֙ לָרִ֔יק וְלֹ֥א יֵלְד֖וּ לַבֶּהָלָ֑ה כִּ֣י זֶ֜רַע בְּרוּכֵ֤י יְהוָה֙ הֵ֔מָּה וְצֶאֱצָאֵיהֶ֖ם
-    אִתָּֽם
-- tradition: islam
-  ref: Quran 35:34
-  note: Paradise is the abode of permanence where no toil or weariness touches the blessed and grief is
-    removed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
-- tradition: islam
-  ref: Quran 35:35
-  note: Paradise is the abode of permanence where no toil or weariness touches the blessed and grief is
-    removed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا
-    فِيهَا لُغُوبٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-lōʾ-yiššāmaʿ bāh ʿôḏ qôl bəḵî ... lōʾ yîḡəʿû lā-rîq vs. al-ḥamdu li-llāhi lladhī adhhaba
-    ʿannā l-ḥazan ... lā yamassunā fīhā naṣabun wa-lā yamassunā fīhā lughūb: in the renewed abode there
-    is no more weeping and no wasted toil. Isaiah''s is a renewed Jerusalem on earth; the Quran''s the
-    dār al-muqāma.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Paradise is the abode of permanence where no toil or weariness touches
     the blessed and grief is removed (weight 6.7). Pair score 6.7.'
@@ -90,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Paradise is the abode of permanence where no toil or weariness touches the blessed and grief
+  is removed
+kinds:
+- echo
+units:
+- id: hb-isa-65-new-heavens-new-earth
+  title: New heavens and a new earth
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: Paradise is the abode of permanence where no toil or weariness touches the blessed and grief
+    is removed
+  note: 'wə-lōʾ-yiššāmaʿ bāh ʿôḏ qôl bəḵî ... lōʾ yîḡəʿû lā-rîq vs. al-ḥamdu li-llāhi lladhī adhhaba ʿannā
+    l-ḥazan ... lā yamassunā fīhā naṣabun wa-lā yamassunā fīhā lughūb: in the renewed abode there is no
+    more weeping and no wasted toil. Isaiah''s is a renewed Jerusalem on earth; the Quran''s the dār al-muqāma.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:19
+      lang: he
+      text: וְגַלְתִּ֥י בִירוּשָׁלִַ֖ם וְשַׂשְׂתִּ֣י בְעַמִּ֑י וְלֹֽא יִשָּׁמַ֥ע בָּהּ֙ ע֔וֹד ק֥וֹל בְּכִ֖י
+        וְק֥וֹל זְעָקָֽה
+    - ref: Isa 65:23
+      lang: he
+      text: לֹ֤א יִֽיגְעוּ֙ לָרִ֔יק וְלֹ֥א יֵלְד֖וּ לַבֶּהָלָ֑ה כִּ֣י זֶ֜רַע בְּרוּכֵ֤י יְהוָה֙ הֵ֔מָּה
+        וְצֶאֱצָאֵיהֶ֖ם אִתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 35:34
+      lang: ar
+      text: وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ
+    - ref: Quran 35:35
+      lang: ar
+      text: ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا
+        فِيهَا لُغُوبٌ
 ---
 
 ## Questions

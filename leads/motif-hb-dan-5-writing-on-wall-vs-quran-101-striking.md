@@ -1,7 +1,7 @@
 ---
 id: motif-hb-dan-5-writing-on-wall-vs-quran-101-striking
 title: 'Belshazzar''s feast and the writing on the wall ↔ The striking day: moths, wool and the scales'
-summary: 'These two units share 1 motifs: a person is weighed in the balances and found wanting.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - weighed-in-scales-found-wanting
-passages:
-- tradition: judaism
-  ref: Dan 5:27
-  note: A person is weighed in the balances and found wanting
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
-- tradition: islam
-  ref: Quran 101:8
-  note: A person is weighed in the balances and found wanting
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ
-- tradition: islam
-  ref: Quran 101:6
-  note: A person is weighed in the balances and found wanting
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-ammā man thaqulat mawāzīnuhu ... wa-ammā man khaffat mawāzīnuhu fa-ummuhu hāwiya ~ teqēl
-    teqîltāh ve-môʾzanyāʾ we-hištekaḥat ḥassîr. Cognate vocabulary: Aramaic teqal / Arabic thaqula ''weigh/be
-    heavy'', môʾzanyāʾ / mawāzīn ''scales''. One king weighed in history in Daniel; every person''s deeds
-    weighed at the Judgment in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 6.0).
     Pair score 6.0.'
@@ -70,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A person is weighed in the balances and found wanting
+kinds:
+- parallel
+units:
+- id: hb-dan-5-writing-on-wall
+  title: Belshazzar's feast and the writing on the wall
+  tradition: judaism
+- id: quran-101-striking
+  title: 'The striking day: moths, wool and the scales'
+  tradition: islam
+matches:
+- kind: parallel
+  label: A person is weighed in the balances and found wanting
+  note: 'fa-ammā man thaqulat mawāzīnuhu ... wa-ammā man khaffat mawāzīnuhu fa-ummuhu hāwiya ~ teqēl teqîltāh
+    ve-môʾzanyāʾ we-hištekaḥat ḥassîr. Cognate vocabulary: Aramaic teqal / Arabic thaqula ''weigh/be heavy'',
+    môʾzanyāʾ / mawāzīn ''scales''. One king weighed in history in Daniel; every person''s deeds weighed
+    at the Judgment in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 5:27
+      lang: he
+      text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 101:6
+      lang: ar
+      text: فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ
+    - ref: Quran 101:8
+      lang: ar
+      text: وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ
 ---
 
 ## Questions

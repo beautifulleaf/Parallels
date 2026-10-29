@@ -3,8 +3,7 @@ id: motif-hb-exod-13-firstborn-tefillin-pillar-vs-quran-57-hadid-light-and-the-w
 title: Consecration of the firstborn, sign on hand and forehead, Joseph's bones, pillar of cloud and fire
   ↔ The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
   by long time
-summary: 'These two units share 1 motifs: on the day believers'' light runs before them and on their right
-  hands.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - believers-light-runs-before-them
-passages:
-- tradition: judaism
-  ref: Exod 13:21
-  note: 'On the day believers'' light runs before them and on their right hands (Light going before the
-    faithful on their way: wa-YHWH hōlēḵ lip̄nêhem ... wə-laylâ bə-ʿammûḏ ʾēš lə-hāʾîr lāhem lāleḵeṯ vs.
-    yawma tarā l-muʾminīna wa-l-muʾmināti yasʿā nūruhum bayna aydīhim wa-bi-aymānihim. Israel''s pillar
-    of fire leads a whole people through the desert; the Quran''s light is each believer''s own, on the
-    Day, and cannot be borrowed by the hypocrites (unẓurūnā naqtabis min nūrikum). cf. Matt 25:8-12.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה בְּעַמּ֥וּד
-    אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
-- tradition: islam
-  ref: Quran 57:12
-  note: On the day believers' light runs before them and on their right hands
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم
-    بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ
-    ٱلْفَوْزُ ٱلْعَظِيمُ
-- tradition: islam
-  ref: Quran 57:19
-  note: On the day believers' light runs before them and on their right hands
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦٓ أُو۟لَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَ وَٱلشُّهَدَآءُ
-    عِندَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَٰتِنَآ أُو۟لَٰٓئِكَ
-    أَصْحَٰبُ ٱلْجَحِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Light going before the faithful on their way: wa-YHWH hōlēḵ lip̄nêhem ... wə-laylâ bə-ʿammûḏ
-    ʾēš lə-hāʾîr lāhem lāleḵeṯ vs. yawma tarā l-muʾminīna wa-l-muʾmināti yasʿā nūruhum bayna aydīhim wa-bi-aymānihim.
-    Israel''s pillar of fire leads a whole people through the desert; the Quran''s light is each believer''s
-    own, on the Day, and cannot be borrowed by the hypocrites (unẓurūnā naqtabis min nūrikum). cf. Matt
-    25:8-12.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day believers'' light runs before them and on their right
     hands (weight 6.3). Pair score 6.3.'
@@ -85,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day believers' light runs before them and on their right hands
+kinds:
+- echo
+units:
+- id: hb-exod-13-firstborn-tefillin-pillar
+  title: Consecration of the firstborn, sign on hand and forehead, Joseph's bones, pillar of cloud and
+    fire
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day believers' light runs before them and on their right hands
+  note: 'Light going before the faithful on their way: wa-YHWH hōlēḵ lip̄nêhem ... wə-laylâ bə-ʿammûḏ
+    ʾēš lə-hāʾîr lāhem lāleḵeṯ vs. yawma tarā l-muʾminīna wa-l-muʾmināti yasʿā nūruhum bayna aydīhim wa-bi-aymānihim.
+    Israel''s pillar of fire leads a whole people through the desert; the Quran''s light is each believer''s
+    own, on the Day, and cannot be borrowed by the hypocrites (unẓurūnā naqtabis min nūrikum). cf. Matt
+    25:8-12.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 13:21
+      lang: he
+      text: וַֽיהוָ֡ה הֹלֵךְ֩ לִפְנֵיהֶ֨ם יוֹמָ֜ם בְּעַמּ֤וּד עָנָן֙ לַנְחֹתָ֣ם הַדֶּ֔רֶךְ וְלַ֛יְלָה
+        בְּעַמּ֥וּד אֵ֖שׁ לְהָאִ֣יר לָהֶ֑ם לָלֶ֖כֶת יוֹמָ֥ם וָלָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 57:12
+      lang: ar
+      text: يَوْمَ تَرَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ يَسْعَىٰ نُورُهُم بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِم
+        بُشْرَىٰكُمُ ٱلْيَوْمَ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا ذَٰلِكَ هُوَ
+        ٱلْفَوْزُ ٱلْعَظِيمُ
+    - ref: Quran 57:13
+      lang: ar
+      text: يَوْمَ يَقُولُ ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُوا۟ ٱنظُرُونَا نَقْتَبِسْ
+        مِن نُّورِكُمْ قِيلَ ٱرْجِعُوا۟ وَرَآءَكُمْ فَٱلْتَمِسُوا۟ نُورًا فَضُرِبَ بَيْنَهُم بِسُورٍ
+        لَّهُۥ بَابٌۢ بَاطِنُهُۥ فِيهِ ٱلرَّحْمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلْعَذَابُ
 ---
 
 ## Questions

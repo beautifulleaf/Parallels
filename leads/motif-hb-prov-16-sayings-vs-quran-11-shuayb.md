@@ -2,7 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-quran-11-shuayb
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ Shu'ayb - measures, the prayer that
   commands, the clan
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 16:11
-  note: Honest balances, weights, ephah and hin are commanded (balance and scales are YHWH's; all the
-    weights of the bag are his work)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
-- tradition: islam
-  ref: Quran 11:84
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
-    عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
-- tradition: islam
-  ref: Quran 11:85
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
-    وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. peles ûmōʾznê mišpāṭ laYHWH (the just scales are God''s) vs al-mīzāna bi-l-qisṭ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -73,6 +50,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- echo
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: echo
+  label: Honest balances, weights, ephah and hin are commanded
+  note: peles ûmōʾznê mišpāṭ laYHWH (the just scales are God's) vs al-mīzāna bi-l-qisṭ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:11
+      lang: he
+      text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
+  - tradition: islam
+    passages:
+    - ref: Quran 11:85
+      lang: ar
+      text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
+        وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

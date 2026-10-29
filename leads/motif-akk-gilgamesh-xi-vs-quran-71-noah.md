@@ -1,8 +1,7 @@
 ---
 id: motif-akk-gilgamesh-xi-vs-quran-71-noah
 title: Utnapishtim's flood (Gilgamesh, Tablet XI) ↔ Noah's preaching, the five idols and the flood
-summary: 'These two units share 2 motifs: hero privately warned of the coming flood by a deity, all others
-  perish.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,33 +15,7 @@ layers:
 motifs:
 - hero-warned-by-deity
 - universal-destruction
-passages:
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Hero privately warned of the coming flood by a deity (Ea)
-- tradition: islam
-  ref: Quran 71:1
-  note: Hero privately warned of the coming flood by a deity (Noah is sent to warn before a painful punishment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-    عَذَابٌ أَلِيمٌ
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: All others perish
-- tradition: islam
-  ref: Quran 71:25
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ
-    أَنصَارًا
-- tradition: islam
-  ref: Quran 71:26
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero privately warned of the coming flood by a deity (weight 5.1);
     All others perish (weight 5.0). Pair score 10.1.'
@@ -53,6 +26,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero privately warned of the coming flood by a deity
+kinds:
+- shared
+units:
+- id: akk-gilgamesh-xi
+  title: Utnapishtim's flood (Gilgamesh, Tablet XI)
+  tradition: ane-akkadian
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+    note: Ea
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 71:25
+      lang: ar
+      text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
+        ٱللَّهِ أَنصَارًا
+    - ref: Quran 71:26
+      lang: ar
+      text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
 ---
 
 ## Questions

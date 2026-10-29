@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-5-naaman-vs-quran-5-jesus-miracles-table
 title: Naaman healed of leprosy; Gehazi's greed ↔ Jesus' miracles, the table from heaven, and Jesus questioned
   at judgment
-summary: 'These two units share 2 motifs: king tears his clothes: ''am i god, to kill and to make alive?'',
-  jesus heals the born-blind and the leper and raises the dead by god''s leave.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,56 +15,9 @@ layers:
 motifs:
 - am-i-god-to-kill-and-make-alive
 - jesus-heals-blind-leper-raises-dead
-passages:
-- tradition: judaism
-  ref: 2Kgs 5:7
-  note: 'King tears his clothes: ''Am I God, to kill and to make alive?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ יִשְׂרָאֵ֨ל אֶת הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֨אמֶר֙ הַאֱלֹהִ֥ים
-    אָ֨נִי֙ לְהָמִ֣ית וּֽלְהַחֲי֔וֹת כִּֽי זֶה֙ שֹׁלֵ֣חַ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתּ֑וֹ כִּ֤י
-    אַךְ דְּעֽוּ נָא֙ וּרְא֔וּ כִּֽי מִתְאַנֶּ֥ה ה֖וּא לִֽי
-- tradition: islam
-  ref: Quran 5:110
-  note: 'King tears his clothes: ''Am I God, to kill and to make alive?'' (Curing leprosy and raising
-    the dead are God''s prerogatives. 2Kgs: ha-ʾĕlōhîm ʾānî ləhāmît û-ləhaḥăyôt kî-zeh šōlēaḥ ʾēlay leʾĕsōf
-    ʾîš miṣ-ṣāraʿtô. Q: wa-tubriʾu l-akmaha wa-l-abraṣa bi-idhnī wa-idh tukhriju l-mawtā bi-idhnī. Jesus
-    does both, and the repeated bi-idhnī keeps them God''s acts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ
-    أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ
-    وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى
-    فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ
-    تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ
-    فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: 2Kgs 5:14
-  note: 'Jesus heals the born-blind and the leper and raises the dead by God''s leave (2Kgs 5:14 wa-yyāšob
-    bĕśārô ki-bśar naʿar qāṭōn wa-yyiṭhār: the leper cleansed through Elisha''s word; Q 3:49 wa-ubriʾu
-    l-akmaha wa-l-abraṣa: Jesus heals the born-blind and the leper. Note 2Kgs 5:7, where the king says
-    only God can do this.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֗רֶד וַיִּטְבֹּ֤ל בַּיַּרְדֵּן֙ שֶׁ֣בַע פְּעָמִ֔ים כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַיָּ֣שָׁב
-    בְּשָׂר֗וֹ כִּבְשַׂ֛ר נַ֥עַר קָטֹ֖ן וַיִּטְהָֽר
-- tradition: islam
-  ref: Quran 5:110
-  note: Jesus heals the born-blind and the leper and raises the dead by God's leave (the born-blind (akmah)
-    and the leper; brings forth the dead)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ
-    أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ
-    وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى
-    فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ
-    تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ
-    فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Curing leprosy and raising the dead are God''s prerogatives. 2Kgs: ha-ʾĕlōhîm ʾānî ləhāmît û-ləhaḥăyôt
-    kî-zeh šōlēaḥ ʾēlay leʾĕsōf ʾîš miṣ-ṣāraʿtô. Q: wa-tubriʾu l-akmaha wa-l-abraṣa bi-idhnī wa-idh tukhriju
-    l-mawtā bi-idhnī. Jesus does both, and the repeated bi-idhnī keeps them God''s acts.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King tears his clothes: ''Am I God, to kill and to make alive?''
     (weight 6.7); Jesus heals the born-blind and the leper and raises the dead by God''s leave (weight
@@ -102,6 +54,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'King tears his clothes: ''Am I God, to kill and to make alive?'''
+kinds:
+- echo
+- shared
+units:
+- id: hb-2kgs-5-naaman
+  title: Naaman healed of leprosy; Gehazi's greed
+  tradition: judaism
+- id: quran-5-jesus-miracles-table
+  title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: 'King tears his clothes: ''Am I God, to kill and to make alive?'''
+  note: 'Curing leprosy and raising the dead are God''s prerogatives. 2Kgs: ha-ʾĕlōhîm ʾānî ləhāmît û-ləhaḥăyôt
+    kî-zeh šōlēaḥ ʾēlay leʾĕsōf ʾîš miṣ-ṣāraʿtô. Q: wa-tubriʾu l-akmaha wa-l-abraṣa bi-idhnī wa-idh tukhriju
+    l-mawtā bi-idhnī. Jesus does both, and the repeated bi-idhnī keeps them God''s acts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:7
+      lang: he
+      text: וַיְהִ֡י כִּקְרֹא֩ מֶֽלֶךְ יִשְׂרָאֵ֨ל אֶת הַסֵּ֜פֶר וַיִּקְרַ֣ע בְּגָדָ֗יו וַיֹּ֨אמֶר֙ הַאֱלֹהִ֥ים
+        אָ֨נִי֙ לְהָמִ֣ית וּֽלְהַחֲי֔וֹת כִּֽי זֶה֙ שֹׁלֵ֣חַ אֵלַ֔י לֶאֱסֹ֥ף אִ֖ישׁ מִצָּֽרַעְתּ֑וֹ כִּ֤י
+        אַךְ דְּעֽוּ נָא֙ וּרְא֔וּ כִּֽי מִתְאַנֶּ֥ה ה֖וּא לִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 5:110
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ
+        إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ
+        ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ
+        بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ
+        جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+- kind: shared
+  label: Jesus heals the born-blind and the leper and raises the dead by God's leave
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:14
+      lang: he
+      text: וַיֵּ֗רֶד וַיִּטְבֹּ֤ל בַּיַּרְדֵּן֙ שֶׁ֣בַע פְּעָמִ֔ים כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַיָּ֣שָׁב
+        בְּשָׂר֗וֹ כִּבְשַׂ֛ר נַ֥עַר קָטֹ֖ן וַיִּטְהָֽר
+    note: '2Kgs 5:14 wa-yyāšob bĕśārô ki-bśar naʿar qāṭōn wa-yyiṭhār: the leper cleansed through Elisha''s
+      word; Q 3:49 wa-ubriʾu l-akmaha wa-l-abraṣa: Jesus heals the born-blind and the leper. Note 2Kgs
+      5:7, where the king says only God can do this.'
+  - tradition: islam
+    passages:
+    - ref: Quran 5:110
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ
+        إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ
+        ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ
+        بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ
+        جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+    note: the born-blind (akmah) and the leper; brings forth the dead
 ---
 
 ## Questions

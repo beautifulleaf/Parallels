@@ -2,7 +2,7 @@
 id: motif-akk-gilgamesh-xi-vs-quran-21-noah-david-solomon
 title: Utnapishtim's flood (Gilgamesh, Tablet XI) ↔ Noah answered; David and Solomon's judgment, the praising
   mountains, mail and wind
-summary: 'These two units share 2 motifs: all others perish, hero''s family saved with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,27 +16,7 @@ layers:
 motifs:
 - universal-destruction
 - family-saved
-passages:
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: All others perish
-- tradition: islam
-  ref: Quran 21:77
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ سَوْءٍ
-    فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Hero's family saved with him
-- tradition: islam
-  ref: Quran 21:76
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
-    ٱلْعَظِيمِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
     4.5). Pair score 9.5.'
@@ -48,6 +28,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All others perish
+kinds:
+- shared
+units:
+- id: akk-gilgamesh-xi
+  title: Utnapishtim's flood (Gilgamesh, Tablet XI)
+  tradition: ane-akkadian
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:77
+      lang: ar
+      text: وَنَصَرْنَٰهُ مِنَ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَآ إِنَّهُمْ كَانُوا۟ قَوْمَ
+        سَوْءٍ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:76
+      lang: ar
+      text: وَنُوحًا إِذْ نَادَىٰ مِن قَبْلُ فَٱسْتَجَبْنَا لَهُۥ فَنَجَّيْنَٰهُ وَأَهْلَهُۥ مِنَ ٱلْكَرْبِ
+        ٱلْعَظِيمِ
 ---
 
 ## Questions

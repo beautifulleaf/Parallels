@@ -2,9 +2,7 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-5-two-sons-of-adam
 title: Blessing of Noah, blood laws and the covenant of the bow ↔ The two sons of Adam, the raven, and
   whoever saves one life
-summary: 'These two units share 2 motifs: whoever sheds human blood, by man shall his blood be shed, because
-  humans bear god''s image [divergence between the texts], whoever sheds human blood, by man shall his
-  blood be shed, because humans bear god''s image.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,70 +15,9 @@ layers:
 motifs:
 - bloodshed-requires-bloodshed-as-divergence
 - bloodshed-requires-bloodshed
-passages:
-- tradition: judaism
-  ref: Gen 9:5
-  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
-    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
-    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
-    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
-    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
-    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַ֨ךְ אֶת דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ מִיַּ֥ד כָּל חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד
-    הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת נֶ֥פֶשׁ הָֽאָדָֽם
-- tradition: judaism
-  ref: Gen 9:6
-  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
-    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
-    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
-    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
-    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
-    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת
-    הָאָדָֽם
-- tradition: islam
-  ref: Quran 5:32
-  note: 'Whoever sheds human blood, by man shall his blood be shed, because humans bear God''s image [divergence
-    between the texts] (Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām
-    dāmô yiššāfēkh kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of
-    God. Q: man qatala nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan
-    wa-man aḥyāhā fa-ka-annamā aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''.
-    cf. (not a match) m. Sanhedrin 4:5, derived from dəmê (plural) in Gen 4:10.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ
-    نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ
-    أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم
-    بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
-- tradition: judaism
-  ref: Gen 9:6
-  note: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image (chiastic
-    shofekh dam ha-adam ba-adam damo yishafekh)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה אֶת
-    הָאָדָֽם
-- tradition: islam
-  ref: Quran 5:32
-  note: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image ('unless
-    for a soul or corruption in the land')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ
-    نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ
-    أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم
-    بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām dāmô yiššāfēkh
-    kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of God. Q: man qatala
-    nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan wa-man aḥyāhā fa-ka-annamā
-    aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''. cf. (not a match) m. Sanhedrin
-    4:5, derived from dəmê (plural) in Gen 4:10.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever sheds human blood, by man shall his blood be shed, because
     humans bear God''s image [divergence between the texts] (weight 6.7); Whoever sheds human blood, by
@@ -117,6 +54,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image
+kinds:
+- divergence
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-5-two-sons-of-adam
+  title: The two sons of Adam, the raven, and whoever saves one life
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whoever sheds human blood, by man shall his blood be shed, because humans bear God's image
+  note: 'Both state the worth of a single human life. Gen: šōfēkh dam hā-ʾādām bā-ʾādām dāmô yiššāfēkh
+    kî bə-ṣelem ʾĕlōhîm ʿāśāh ʾet-hā-ʾādām; one life for one, grounded in the image of God. Q: man qatala
+    nafsan bi-ghayri nafsin aw fasādin fī l-arḍi fa-ka-annamā qatala l-nāsa jamīʿan wa-man aḥyāhā fa-ka-annamā
+    aḥyā l-nāsa jamīʿan, and it is ''written for the Children of Israel''. cf. (not a match) m. Sanhedrin
+    4:5, derived from dəmê (plural) in Gen 4:10.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:5
+      lang: he
+      text: וְאַ֨ךְ אֶת דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְרֹ֔שׁ מִיַּ֥ד כָּל חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד
+        הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְרֹ֖שׁ אֶת נֶ֥פֶשׁ הָֽאָדָֽם
+    - ref: Gen 9:6
+      lang: he
+      text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה
+        אֶת הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:32
+      lang: ar
+      text: مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ
+        نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ
+        أَحْيَا ٱلنَّاسَ جَمِيعًا وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرًا
+        مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ
 ---
 
 ## Questions

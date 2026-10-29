@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-22-aqedah-vs-quran-2-abraham-kaaba
 title: The binding of Isaac (Aqedah) ↔ Abraham, Ishmael and the House
-summary: 'These two units share 1 motifs: god tests the patriarch''s obedience [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,53 +13,9 @@ layers:
 - motif
 motifs:
 - god-tests-patriarch-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 22:1
-  note: 'God tests the patriarch''s obedience [divergence between the texts] (Gen 22:1 wĕ-hā-ʾĕlōhîm nissâ
-    ʾet ʾabrāhām, ending 22:18 wĕ-hitbārăkû bĕ-zarʿăkā kōl gôyê hā-ʾāreṣ ʿēqeb ʾăšer šāmaʿtā bĕ-qōlî;
-    Q 2:124 wa-idhi btalā ibrāhīma rabbuhu bi-kalimātin fa-atammahunna qāla innī jāʿiluka li-n-nāsi imāman.
-    God tests Abraham (nissâ / ibtalā) and the reward reaches all peoples (kōl gôyê hā-ʾāreṣ / li-n-nās).
-    But the test is unnamed ''words'', not the binding of a son; the reward is to be an imam for mankind;
-    and the blessing on the seed is limited: lā yanālu ʿahdī ẓ-ẓālimīn ''my covenant does not reach the
-    wrongdoers'' among his offspring.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו
-    אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי
-- tradition: judaism
-  ref: Gen 22:18
-  note: 'God tests the patriarch''s obedience [divergence between the texts] (Gen 22:1 wĕ-hā-ʾĕlōhîm nissâ
-    ʾet ʾabrāhām, ending 22:18 wĕ-hitbārăkû bĕ-zarʿăkā kōl gôyê hā-ʾāreṣ ʿēqeb ʾăšer šāmaʿtā bĕ-qōlî;
-    Q 2:124 wa-idhi btalā ibrāhīma rabbuhu bi-kalimātin fa-atammahunna qāla innī jāʿiluka li-n-nāsi imāman.
-    God tests Abraham (nissâ / ibtalā) and the reward reaches all peoples (kōl gôyê hā-ʾāreṣ / li-n-nās).
-    But the test is unnamed ''words'', not the binding of a son; the reward is to be an imam for mankind;
-    and the blessing on the seed is limited: lā yanālu ʿahdī ẓ-ẓālimīn ''my covenant does not reach the
-    wrongdoers'' among his offspring.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִתְבָּרֲכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֣י הָאָ֑רֶץ עֵ֕קֶב אֲשֶׁ֥ר שָׁמַ֖עְתָּ בְּקֹלִֽי
-- tradition: islam
-  ref: Quran 2:124
-  note: 'God tests the patriarch''s obedience [divergence between the texts] (Gen 22:1 wĕ-hā-ʾĕlōhîm nissâ
-    ʾet ʾabrāhām, ending 22:18 wĕ-hitbārăkû bĕ-zarʿăkā kōl gôyê hā-ʾāreṣ ʿēqeb ʾăšer šāmaʿtā bĕ-qōlî;
-    Q 2:124 wa-idhi btalā ibrāhīma rabbuhu bi-kalimātin fa-atammahunna qāla innī jāʿiluka li-n-nāsi imāman.
-    God tests Abraham (nissâ / ibtalā) and the reward reaches all peoples (kōl gôyê hā-ʾāreṣ / li-n-nās).
-    But the test is unnamed ''words'', not the binding of a son; the reward is to be an imam for mankind;
-    and the blessing on the seed is limited: lā yanālu ʿahdī ẓ-ẓālimīn ''my covenant does not reach the
-    wrongdoers'' among his offspring.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ لِلنَّاسِ
-    إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 22:1 wĕ-hā-ʾĕlōhîm nissâ ʾet ʾabrāhām, ending 22:18 wĕ-hitbārăkû bĕ-zarʿăkā kōl gôyê
-    hā-ʾāreṣ ʿēqeb ʾăšer šāmaʿtā bĕ-qōlî; Q 2:124 wa-idhi btalā ibrāhīma rabbuhu bi-kalimātin fa-atammahunna
-    qāla innī jāʿiluka li-n-nāsi imāman. God tests Abraham (nissâ / ibtalā) and the reward reaches all
-    peoples (kōl gôyê hā-ʾāreṣ / li-n-nās). But the test is unnamed ''words'', not the binding of a son;
-    the reward is to be an imam for mankind; and the blessing on the seed is limited: lā yanālu ʿahdī
-    ẓ-ẓālimīn ''my covenant does not reach the wrongdoers'' among his offspring.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the patriarch''s obedience [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -92,6 +47,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the patriarch's obedience
+kinds:
+- divergence
+units:
+- id: hb-gen-22-aqedah
+  title: The binding of Isaac (Aqedah)
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: God tests the patriarch's obedience
+  note: 'Gen 22:1 wĕ-hā-ʾĕlōhîm nissâ ʾet ʾabrāhām, ending 22:18 wĕ-hitbārăkû bĕ-zarʿăkā kōl gôyê hā-ʾāreṣ
+    ʿēqeb ʾăšer šāmaʿtā bĕ-qōlî; Q 2:124 wa-idhi btalā ibrāhīma rabbuhu bi-kalimātin fa-atammahunna qāla
+    innī jāʿiluka li-n-nāsi imāman. God tests Abraham (nissâ / ibtalā) and the reward reaches all peoples
+    (kōl gôyê hā-ʾāreṣ / li-n-nās). But the test is unnamed ''words'', not the binding of a son; the reward
+    is to be an imam for mankind; and the blessing on the seed is limited: lā yanālu ʿahdī ẓ-ẓālimīn ''my
+    covenant does not reach the wrongdoers'' among his offspring.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 22:1
+      lang: he
+      text: וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו
+        אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי
+    - ref: Gen 22:18
+      lang: he
+      text: וְהִתְבָּרֲכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֣י הָאָ֑רֶץ עֵ֕קֶב אֲשֶׁ֥ר שָׁמַ֖עְתָּ בְּקֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:124
+      lang: ar
+      text: وَإِذِ ٱبْتَلَىٰٓ إِبْرَٰهِۦمَ رَبُّهُۥ بِكَلِمَٰتٍ فَأَتَمَّهُنَّ قَالَ إِنِّى جَاعِلُكَ
+        لِلنَّاسِ إِمَامًا قَالَ وَمِن ذُرِّيَّتِى قَالَ لَا يَنَالُ عَهْدِى ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

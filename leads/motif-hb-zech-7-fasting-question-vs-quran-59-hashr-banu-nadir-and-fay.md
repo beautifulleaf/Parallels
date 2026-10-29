@@ -2,7 +2,7 @@
 id: motif-hb-zech-7-fasting-question-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'The Bethel delegation''s question about fasting ↔ Al-Hashr: the first gathering and exile of the
   Banu Nadir, the cut palms, and the law of fay'''
-summary: 'These two units share 1 motifs: god executes justice for orphan and widow and loves the stranger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,48 +14,9 @@ layers:
 - motif
 motifs:
 - god-loves-stranger-orphan-widow
-passages:
-- tradition: judaism
-  ref: Zech 7:9
-  note: God executes justice for orphan and widow and loves the stranger (do not oppress widow, orphan,
-    stranger and poor; do not plot evil against a brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר מִשְׁפַּ֤ט אֱמֶת֙ שְׁפֹ֔טוּ וְחֶ֣סֶד וְרַֽחֲמִ֔ים עֲשׂ֖וּ
-    אִ֥ישׁ אֶת אָחִֽיו
-- tradition: judaism
-  ref: Zech 7:10
-  note: God executes justice for orphan and widow and loves the stranger (do not oppress widow, orphan,
-    stranger and poor; do not plot evil against a brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל תַּחְשְׁב֖וּ
-    בִּלְבַבְכֶֽם
-- tradition: islam
-  ref: Quran 59:7
-  note: God executes justice for orphan and widow and loves the stranger (orphans, the poor and the wayfarer
-    (ibn al-sabil))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
-    ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ
-    مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
-- tradition: islam
-  ref: Quran 59:9
-  note: God executes justice for orphan and widow and loves the stranger (orphans, the poor and the wayfarer
-    (ibn al-sabil))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ
-    وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ
-    كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-ʾalmānâ wə-yāṯôm gēr wə-ʿānî ʾal taʿăšōqû wə-rāʿaṯ ʾîš ʾāḥîw ʾal taḥšəḇû bi-lḇaḇḵem vs. the
-    shares for orphans and the poor (59:7) and wa-lā yajidūna fī ṣudūrihim ḥājatan ... (59:9-10: no rancor
-    in our hearts, wa-lā tajʿal fī qulūbinā ghillan). Zechariah also joins care for the weak with ''devise
-    no evil in your heart''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
     (weight 5.2). Pair score 5.2.'
@@ -91,6 +52,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God executes justice for orphan and widow and loves the stranger
+kinds:
+- echo
+units:
+- id: hb-zech-7-fasting-question
+  title: The Bethel delegation's question about fasting
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: echo
+  label: God executes justice for orphan and widow and loves the stranger
+  note: 'wə-ʾalmānâ wə-yāṯôm gēr wə-ʿānî ʾal taʿăšōqû wə-rāʿaṯ ʾîš ʾāḥîw ʾal taḥšəḇû bi-lḇaḇḵem vs. the
+    shares for orphans and the poor (59:7) and wa-lā yajidūna fī ṣudūrihim ḥājatan ... (59:9-10: no rancor
+    in our hearts, wa-lā tajʿal fī qulūbinā ghillan). Zechariah also joins care for the weak with ''devise
+    no evil in your heart''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 7:10
+      lang: he
+      text: וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל תַּחְשְׁב֖וּ
+        בִּלְבַבְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 59:7
+      lang: ar
+      text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ
+        ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+    - ref: Quran 59:9
+      lang: ar
+      text: وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ
+        وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ
+        كَانَ بِهِمْ خَصَاصَةٌ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

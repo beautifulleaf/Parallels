@@ -2,8 +2,7 @@
 id: motif-hb-ps-19-heavens-and-torah-vs-quran-36-cosmic-signs
 title: Psalm 19 - the heavens declare; the Torah is perfect ↔ Signs of the dead earth, night, sun, moon
   and the laden ship
-summary: 'These two units share 2 motifs: the sun comes forth like a bridegroom from his chamber and rejoices
-  like a strong man to run his course, sun and moon each swim in an orbit (falak).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,67 +16,9 @@ layers:
 motifs:
 - sun-as-bridegroom-and-runner
 - celestial-bodies-swim-in-orbit
-passages:
-- tradition: judaism
-  ref: Ps 19:6-7
-  note: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his
-    course (huppah; nothing is hidden from its heat)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (19:6) וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח (19:7) מִקְצֵ֤ה
-    הַשָּׁמַ֨יִם מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ
-- tradition: judaism
-  ref: Ps 19:6
-  note: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his
-    course (huppah; nothing is hidden from its heat)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
-- tradition: islam
-  ref: Quran 36:38
-  note: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his
-    course (the sun 'runs' its fixed course)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
-- tradition: islam
-  ref: Quran 36:40
-  note: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run his
-    course (the sun 'runs' its fixed course)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
-- tradition: judaism
-  ref: Ps 19:5
-  note: 'Sun and moon each swim in an orbit (falak) (laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ
-    ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed
-    circuit (təqûpâ / falak). Ps gives the sun alone, a tent and a joyful runner; Q makes sun and moon
-    ''swim'' each in its orbit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּכָל הָאָ֨רֶץ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּהֶֽם
-- tradition: judaism
-  ref: Ps 19:6
-  note: 'Sun and moon each swim in an orbit (falak) (laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ
-    ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed
-    circuit (təqûpâ / falak). Ps gives the sun alone, a tent and a joyful runner; Q makes sun and moon
-    ''swim'' each in its orbit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
-- tradition: islam
-  ref: Quran 36:40
-  note: Sun and moon each swim in an orbit (falak)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. yāśîś kə-ḡibbôr lārûṣ ʾōraḥ ... û-ṯəqûp̄āṯô ʿal-qəṣôṯām vs. wa-sh-shamsu tajrī ... wa-kullun
-    fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûp̄â / falak). Ps 19''s personified bridegroom
-    and hero has no counterpart in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sun comes forth like a bridegroom from his chamber and rejoices
     like a strong man to run his course (weight 6.7); Sun and moon each swim in an orbit (falak) (weight
@@ -112,6 +53,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run
+  his course
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-19-heavens-and-torah
+  title: Psalm 19 - the heavens declare; the Torah is perfect
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: parallel
+  label: The sun comes forth like a bridegroom from his chamber and rejoices like a strong man to run
+    his course
+  note: 'yāśîś kə-ḡibbôr lārûṣ ʾōraḥ ... û-ṯəqûp̄āṯô ʿal-qəṣôṯām vs. wa-sh-shamsu tajrī ... wa-kullun
+    fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûp̄â / falak). Ps 19''s personified bridegroom
+    and hero has no counterpart in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 19:6
+      lang: he
+      text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
+    - ref: Ps 19:7
+      lang: he
+      text: מִקְצֵ֤ה הַשָּׁמַ֨יִם מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:38
+      lang: ar
+      text: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
+    - ref: Quran 36:40
+      lang: ar
+      text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+        فِى فَلَكٍ يَسْبَحُونَ
+- kind: shared
+  label: Sun and moon each swim in an orbit (falak)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 19:5
+      lang: he
+      text: בְּכָל הָאָ֨רֶץ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּהֶֽם
+    - ref: Ps 19:6
+      lang: he
+      text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
+    - ref: Ps 19:7
+      lang: he
+      text: מִקְצֵ֤ה הַשָּׁמַ֨יִם מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ
+    note: 'laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô
+      ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûpâ / falak). Ps gives
+      the sun alone, a tent and a joyful runner; Q makes sun and moon ''swim'' each in its orbit.'
+  - tradition: islam
+    passages:
+    - ref: Quran 36:40
+      lang: ar
+      text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+        فِى فَلَكٍ يَسْبَحُونَ
 ---
 
 ## Questions

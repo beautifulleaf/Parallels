@@ -2,8 +2,7 @@
 id: motif-hb-exod-6-name-and-levite-genealogy-vs-quran-10-moses-pharaoh
 title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron ↔ Moses, the
   houses as qibla, and Pharaoh''s drowning faith'
-summary: 'These two units share 1 motifs: how moses'' own people in egypt respond to his message [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - israels-response-to-moses-in-egypt-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 6:9
-  note: 'How Moses'' own people in Egypt respond to his message [divergence between the texts] (Israel
-    in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi ʿalā khawfin min firʿawna
-    wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The reason differs: in Q fear
-    of persecution by Pharaoh, and some young people do believe; in Exod impatience under hard labour.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֥ר מֹשֶׁ֛ה כֵּ֖ן אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֤א שָֽׁמְעוּ֙ אֶל מֹשֶׁ֔ה מִקֹּ֣צֶר ר֔וּחַ
-    וּמֵעֲבֹדָ֖ה קָשָֽׁה
-- tradition: islam
-  ref: Quran 10:83
-  note: 'How Moses'' own people in Egypt respond to his message [divergence between the texts] (Israel
-    in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi ʿalā khawfin min firʿawna
-    wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The reason differs: in Q fear
-    of persecution by Pharaoh, and some young people do believe; in Exod impatience under hard labour.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ
-    أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Israel in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi
-    ʿalā khawfin min firʿawna wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The
-    reason differs: in Q fear of persecution by Pharaoh, and some young people do believe; in Exod impatience
-    under hard labour.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Moses'' own people in Egypt respond to his message [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -77,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Moses' own people in Egypt respond to his message
+kinds:
+- divergence
+units:
+- id: hb-exod-6-name-and-levite-genealogy
+  title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron'
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Moses' own people in Egypt respond to his message
+  note: 'Israel in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi ʿalā khawfin
+    min firʿawna wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The reason differs:
+    in Q fear of persecution by Pharaoh, and some young people do believe; in Exod impatience under hard
+    labour.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 6:9
+      lang: he
+      text: וַיְדַבֵּ֥ר מֹשֶׁ֛ה כֵּ֖ן אֶל בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֤א שָֽׁמְעוּ֙ אֶל מֹשֶׁ֔ה מִקֹּ֣צֶר
+        ר֔וּחַ וּמֵעֲבֹדָ֖ה קָשָֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:83
+      lang: ar
+      text: فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ
+        أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
 ---
 
 ## Questions

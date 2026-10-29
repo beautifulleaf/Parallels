@@ -2,8 +2,7 @@
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-44-dukhan-zaqqum-and-garden
 title: Zephaniah's Day of YHWH against Judah ↔ Deniers demand their fathers; the people of Tubba'; the
   tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: neither their silver nor their gold can save them on the day
-  of yhwh''s wrath.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - silver-gold-cannot-save-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Zeph 1:18
-  note: Neither their silver nor their gold can save them on the day of YHWH's wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙ קִנְאָת֔וֹ
-    תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 44:41
-  note: 'Neither their silver nor their gold can save them on the day of YHWH''s wrath (gam kaspām gam
-    zəhāḇām lōʾ yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. yawma lā yughnī mawlan ʿan mawlan shayʾan wa-lā
-    hum yunṣarūn. Zephaniah: wealth cannot save; Quran: kin or patrons cannot.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. gam kaspām gam zəhāḇām lōʾ yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. yawma lā yughnī mawlan ʿan
-    mawlan shayʾan wa-lā hum yunṣarūn. Zephaniah: wealth cannot save; Quran: kin or patrons cannot.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither their silver nor their gold can save them on the day of
     YHWH''s wrath (weight 6.3). Pair score 6.3.'
@@ -71,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Neither their silver nor their gold can save them on the day of YHWH's wrath
+kinds:
+- echo
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: echo
+  label: Neither their silver nor their gold can save them on the day of YHWH's wrath
+  note: 'gam kaspām gam zəhāḇām lōʾ yûḵal ləhaṣṣîlām bə-yôm ʿeḇraṯ YHWH vs. yawma lā yughnī mawlan ʿan
+    mawlan shayʾan wa-lā hum yunṣarūn. Zephaniah: wealth cannot save; Quran: kin or patrons cannot.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:18
+      lang: he
+      text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙
+        קִנְאָת֔וֹ תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:41
+      lang: ar
+      text: يَوْمَ لَا يُغْنِى مَوْلًى عَن مَّوْلًى شَيْـًٔا وَلَا هُمْ يُنصَرُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-51-dhariyat-flee-to-god
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ The sky expanding, all
   things in pairs, 'flee to God', and jinn and humans created to worship
-summary: 'These two units share 1 motifs: what god created humans, or his people, for [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - purpose-of-creating-humans-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 43:7
-  note: 'What God created humans, or his people, for [divergence between the texts] (The purpose of creation.
-    Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî lî təhillāṯî yəsappērû (those called
-    by my name, the people I formed to tell my praise). Quran: wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn.
-    Isaiah speaks of Israel created for God''s glory; the Quran of all jinn and humans created for worship.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְלִכְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו אַף עֲשִׂיתִֽיו
-- tradition: judaism
-  ref: Isa 43:21
-  note: 'What God created humans, or his people, for [divergence between the texts] (The purpose of creation.
-    Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî lî təhillāṯî yəsappērû (those called
-    by my name, the people I formed to tell my praise). Quran: wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn.
-    Isaiah speaks of Israel created for God''s glory; the Quran of all jinn and humans created for worship.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַם זוּ֙ יָצַ֣רְתִּי לִ֔י תְּהִלָּתִ֖י יְסַפֵּֽרוּ
-- tradition: islam
-  ref: Quran 51:56
-  note: 'What God created humans, or his people, for [divergence between the texts] (The purpose of creation.
-    Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî lî təhillāṯî yəsappērû (those called
-    by my name, the people I formed to tell my praise). Quran: wa-mā khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn.
-    Isaiah speaks of Israel created for God''s glory; the Quran of all jinn and humans created for worship.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The purpose of creation. Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî
-    lî təhillāṯî yəsappērû (those called by my name, the people I formed to tell my praise). Quran: wa-mā
-    khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn. Isaiah speaks of Israel created for God''s glory; the
-    Quran of all jinn and humans created for worship.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God created humans, or his people, for [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -86,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What God created humans, or his people, for
+kinds:
+- divergence
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: divergence
+  label: What God created humans, or his people, for
+  note: 'The purpose of creation. Isaiah: kōl han-niqrāʾ ḇi-šmî wə-li-ḵḇôḏî bərāʾṯîw; ʿam zû yāṣartî lî
+    təhillāṯî yəsappērû (those called by my name, the people I formed to tell my praise). Quran: wa-mā
+    khalaqtu l-jinna wa-l-insa illā li-yaʿbudūn. Isaiah speaks of Israel created for God''s glory; the
+    Quran of all jinn and humans created for worship.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:7
+      lang: he
+      text: כֹּ֚ל הַנִּקְרָ֣א בִשְׁמִ֔י וְלִכְבוֹדִ֖י בְּרָאתִ֑יו יְצַרְתִּ֖יו אַף עֲשִׂיתִֽיו
+    - ref: Isa 43:21
+      lang: he
+      text: עַם זוּ֙ יָצַ֣רְתִּי לִ֔י תְּהִלָּתִ֖י יְסַפֵּֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 51:56
+      lang: ar
+      text: وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ
 ---
 
 ## Questions

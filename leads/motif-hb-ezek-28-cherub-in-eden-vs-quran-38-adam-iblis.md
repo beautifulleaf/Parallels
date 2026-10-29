@@ -2,8 +2,7 @@
 id: motif-hb-ezek-28-cherub-in-eden-vs-quran-38-adam-iblis
 title: Lament over the king of Tyre - the gem-covered cherub in Eden cast from God's mountain ↔ Adam made
   from clay; Iblis refuses and is granted respite
-summary: 'These two units share 1 motifs: god expels iblis as accursed (rajim) with a curse until the
-  day of judgment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - iblis-expelled-and-cursed
-passages:
-- tradition: judaism
-  ref: Ezek 28:14
-  note: 'God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (A created being
-    in God''s garden, at home among fire, falls through pride and is cast out: kərûb mimšaḥ ... bəʿēden
-    gan-ʾĕlōhîm ... bətôk ʾabnê-ʾēš hithallāktā ... gābah libbəkā ... wāʾeḥallelkā mēhar ʾĕlōhîm ... ʿal-ʾereṣ
-    hišlaktîkā; al-jānna khalaqnāhu min qablu min nāri s-samūm ... lam akun li-asjuda li-basharin ...
-    fa-khruj minhā fa-innaka rajīm. Ezek''s figure is the king of Tyre; Q''s Iblis refuses to bow to Adam.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֨תְּ כְּר֔וּב מִמְשַׁ֖ח הַסּוֹכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּת֥וֹךְ
-    אַבְנֵי אֵ֖שׁ הִתְהַלָּֽכְתָּ
-- tradition: judaism
-  ref: Ezek 28:15
-  note: 'God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (A created being
-    in God''s garden, at home among fire, falls through pride and is cast out: kərûb mimšaḥ ... bəʿēden
-    gan-ʾĕlōhîm ... bətôk ʾabnê-ʾēš hithallāktā ... gābah libbəkā ... wāʾeḥallelkā mēhar ʾĕlōhîm ... ʿal-ʾereṣ
-    hišlaktîkā; al-jānna khalaqnāhu min qablu min nāri s-samūm ... lam akun li-asjuda li-basharin ...
-    fa-khruj minhā fa-innaka rajīm. Ezek''s figure is the king of Tyre; Q''s Iblis refuses to bow to Adam.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּמִ֤ים אַתָּה֙ בִּדְרָכֶ֔יךָ מִיּ֖וֹם הִבָּֽרְאָ֑ךְ עַד נִמְצָ֥א עַוְלָ֖תָה בָּֽךְ
-- tradition: islam
-  ref: Quran 38:77
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-- tradition: islam
-  ref: Quran 38:78
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. A heavenly being of fire cast out for pride. Ezek: ʾatt-kərûḇ ... bə-ṯôḵ ʾaḇnê-ʾēš hiṯhallāḵtā
-    ... wā-ʾăḥalleləḵā mē-har ʾĕlōhîm ... gāḇah libbəḵā bə-yop̄yeḵā ... ʿal-ʾereṣ hišlaḵtîḵā. Q: illā
-    Iblīsa stakbara ... anā khayrun minhu khalaqtanī min nārin ... fa-khruj minhā fa-innaka rajīm. Pride
-    (gāḇah libbəḵā / istakbara), fire (ʾaḇnê-ʾēš / nār), expulsion from God''s place (mē-har ʾĕlōhîm /
-    ukhruj minhā). Ezekiel''s figure is the king of Tyre; the Quran has no human king. Lead.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
     of Judgment (weight 6.0). Pair score 6.0.'
@@ -92,6 +53,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+kinds:
+- echo
+units:
+- id: hb-ezek-28-cherub-in-eden
+  title: Lament over the king of Tyre - the gem-covered cherub in Eden cast from God's mountain
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: echo
+  label: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+  note: 'A heavenly being of fire cast out for pride. Ezek: ʾatt-kərûḇ ... bə-ṯôḵ ʾaḇnê-ʾēš hiṯhallāḵtā
+    ... wā-ʾăḥalleləḵā mē-har ʾĕlōhîm ... gāḇah libbəḵā bə-yop̄yeḵā ... ʿal-ʾereṣ hišlaḵtîḵā. Q: illā
+    Iblīsa stakbara ... anā khayrun minhu khalaqtanī min nārin ... fa-khruj minhā fa-innaka rajīm. Pride
+    (gāḇah libbəḵā / istakbara), fire (ʾaḇnê-ʾēš / nār), expulsion from God''s place (mē-har ʾĕlōhîm /
+    ukhruj minhā). Ezekiel''s figure is the king of Tyre; the Quran has no human king. Lead.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 28:14
+      lang: he
+      text: אַ֨תְּ כְּר֔וּב מִמְשַׁ֖ח הַסּוֹכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּת֥וֹךְ
+        אַבְנֵי אֵ֖שׁ הִתְהַלָּֽכְתָּ
+    - ref: Ezek 28:16
+      lang: he
+      text: בְּרֹ֣ב רְכֻלָּתְךָ֗ מָל֧וּ תוֹכְךָ֛ חָמָ֖ס וַֽתֶּחֱטָ֑א וָאֶחַלֶּלְךָ֩ מֵהַ֨ר אֱלֹהִ֤ים וָֽאַבֶּדְךָ֙
+        כְּר֣וּב הַסֹּכֵ֔ךְ מִתּ֖וֹךְ אַבְנֵי אֵֽשׁ
+    - ref: Ezek 28:17
+      lang: he
+      text: גָּבַ֤הּ לִבְּךָ֙ בְּיָפְיֶ֔ךָ שִׁחַ֥תָּ חָכְמָתְךָ֖ עַל יִפְעָתֶ֑ךָ עַל אֶ֣רֶץ הִשְׁלַכְתִּ֗יךָ
+        לִפְנֵ֧י מְלָכִ֛ים נְתַתִּ֖יךָ לְרַ֥אֲוָה בָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:74
+      lang: ar
+      text: إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
+    - ref: Quran 38:76
+      lang: ar
+      text: قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+    - ref: Quran 38:77
+      lang: ar
+      text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
 ---
 
 ## Questions

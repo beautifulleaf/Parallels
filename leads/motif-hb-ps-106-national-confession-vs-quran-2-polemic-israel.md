@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-106-national-confession-vs-quran-2-polemic-israel
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: people make a molten calf while the leader is on the mountain.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Ps 106:19-20
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:19) יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה (106:20) וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם
-    בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
-- tradition: judaism
-  ref: Ps 106:19
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
-- tradition: islam
-  ref: Quran 2:92
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
-    ظَٰلِمُونَ
-- tradition: islam
-  ref: Quran 2:93
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 106:19-20 yaʿăśû ʿēgel bĕ-ḥōrēb ... wa-yyāmîrû ʾet kĕbôdām bĕ-tabnît šôr: the people
-    made the calf; Q 2:92 thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn. In both it is the
-    people''s deed, not Aaron''s, and part of a list of Israel''s sins.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain (weight
     4.7). Pair score 4.7.'
@@ -81,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People make a molten calf while the leader is on the mountain
+kinds:
+- parallel
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: parallel
+  label: People make a molten calf while the leader is on the mountain
+  note: 'Ps 106:19-20 yaʿăśû ʿēgel bĕ-ḥōrēb ... wa-yyāmîrû ʾet kĕbôdām bĕ-tabnît šôr: the people made
+    the calf; Q 2:92 thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn. In both it is the people''s
+    deed, not Aaron''s, and part of a list of Israel''s sins.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:19
+      lang: he
+      text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
+    - ref: Ps 106:20
+      lang: he
+      text: וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
+  - tradition: islam
+    passages:
+    - ref: Quran 2:92
+      lang: ar
+      text: وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
+        ظَٰلِمُونَ
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

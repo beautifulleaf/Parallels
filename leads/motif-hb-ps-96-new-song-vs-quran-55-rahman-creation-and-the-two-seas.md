@@ -2,8 +2,7 @@
 id: motif-hb-ps-96-new-song-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Psalm 96, sing a new song; the gods of the nations are nothings ↔ Al-Rahman: the Merciful taught
   the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 2 motifs: the star (or herb, najm) and the tree prostrate themselves to
-  god, hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 motifs:
 - stars-and-trees-prostrate
 - nature-sings-and-rejoices
-passages:
-- tradition: judaism
-  ref: Ps 96:12
-  note: 'The star (or herb, najm) and the tree prostrate themselves to God (Plants worship their Creator:
-    ʾāz yərannənû kol ʿăṣê yāʿar (all the trees of the forest sing for joy) vs. wa-n-najmu wa-sh-shajaru
-    yasjudān (star or herb, and tree, prostrate). The psalm''s trees sing before YHWH''s coming to judge;
-    the Quran''s bow down.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲלֹ֣ז שָׂ֭דַי וְכָל אֲשֶׁר בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כָּל עֲצֵי יָֽעַר
-- tradition: islam
-  ref: Quran 55:6
-  note: The star (or herb, najm) and the tree prostrate themselves to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
-- tradition: judaism
-  ref: Ps 96:11-12
-  note: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God (sea thunders,
-    all the trees of the forest sing)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (96:11) יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ (96:12) יַעֲלֹ֣ז
-    שָׂ֭דַי וְכָל אֲשֶׁר בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כָּל עֲצֵי יָֽעַר
-- tradition: islam
-  ref: Quran 55:6
-  note: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Plants worship their Creator: ʾāz yərannənû kol ʿăṣê yāʿar (all the trees of the forest sing
-    for joy) vs. wa-n-najmu wa-sh-shajaru yasjudān (star or herb, and tree, prostrate). The psalm''s trees
-    sing before YHWH''s coming to judge; the Quran''s bow down.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The star (or herb, najm) and the tree prostrate themselves to God
     (weight 6.7); Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God (weight
@@ -88,6 +55,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The star (or herb, najm) and the tree prostrate themselves to God
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-96-new-song
+  title: Psalm 96, sing a new song; the gods of the nations are nothings
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: echo
+  label: The star (or herb, najm) and the tree prostrate themselves to God
+  note: 'Plants worship their Creator: ʾāz yərannənû kol ʿăṣê yāʿar (all the trees of the forest sing
+    for joy) vs. wa-n-najmu wa-sh-shajaru yasjudān (star or herb, and tree, prostrate). The psalm''s trees
+    sing before YHWH''s coming to judge; the Quran''s bow down.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 96:12
+      lang: he
+      text: יַעֲלֹ֣ז שָׂ֭דַי וְכָל אֲשֶׁר בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כָּל עֲצֵי יָֽעַר
+  - tradition: islam
+    passages:
+    - ref: Quran 55:6
+      lang: ar
+      text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+- kind: shared
+  label: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 96:11-12
+      lang: he
+      text: (96:11) יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ (96:12) יַעֲלֹ֣ז
+        שָׂ֭דַי וְכָל אֲשֶׁר בּ֑וֹ אָ֥ז יְ֝רַנְּנ֗וּ כָּל עֲצֵי יָֽעַר
+    note: sea thunders, all the trees of the forest sing
+  - tradition: islam
+    passages:
+    - ref: Quran 55:6
+      lang: ar
+      text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
 ---
 
 ## Questions

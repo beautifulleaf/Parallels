@@ -2,9 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-6-deliverance-trumpet
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Rescue in the
   darkness of land and sea; the bewildered man; the trumpet
-summary: 'These two units share 2 motifs: god raises a storm that lifts ships to the heavens and down
-  to the deeps, then hushes it to a whisper and brings sailors to harbor, sailors in a storm call on god
-  sincerely, vow thanks, and transgress once saved [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,80 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- storm-at-sea-stilled
 - sea-peril-sincere-prayer-then-ingratitude-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 107:25-30
-  note: God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
-    whisper and brings sailors to harbor
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (107:25) וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו (107:26) יַעֲל֣וּ שָׁ֭מַיִם
-    יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג (107:27) יָח֣וֹגּוּ וְ֭יָנוּעוּ כַּשִּׁכּ֑וֹר
-    וְכָל חָ֝כְמָתָ֗ם תִּתְבַּלָּֽע (107:28) וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם
-    יוֹצִיאֵֽם (107:29) יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם (107:30) וַיִּשְׂמְח֥וּ כִֽי
-    יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
-- tradition: islam
-  ref: Quran 6:63
-  note: God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
-    whisper and brings sailors to harbor (rescue from the darknesses of land and sea after humble and
-    secret prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ
-    أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
-- tradition: judaism
-  ref: Ps 107:26
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲל֣וּ שָׁ֭מַיִם יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג
-- tradition: judaism
-  ref: Ps 107:28
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
-- tradition: islam
-  ref: Quran 6:63
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ
-    أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
-- tradition: islam
-  ref: Quran 6:64
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ
+- storm-at-sea-stilled
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God raises a storm that lifts ships to the heavens and down to the
-    deeps, then hushes it to a whisper and brings sailors to harbor (weight 6.3); Sailors in a storm call
-    on God sincerely, vow thanks, and transgress once saved [divergence between the texts] (weight 6.3).
+- text: 'Shared motifs, rarest first: Sailors in a storm call on God sincerely, vow thanks, and transgress
+    once saved [divergence between the texts] (weight 6.3); God raises a storm that lifts ships to the
+    heavens and down to the deeps, then hushes it to a whisper and brings sailors to harbor (weight 6.3).
     Pair score 12.6.'
   basis: reading
 - text: 'Only in Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers): God
@@ -123,6 +56,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-6-deliverance-trumpet
+  title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+  tradition: islam
+matches:
+- kind: divergence
+  label: Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
+  note: 'Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh li-dmāmāh,
+    and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri wa-l-baḥri
+    tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma antum
+    tushrikūna. The vow of thanks is made and then broken.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:26
+      lang: he
+      text: יַעֲל֣וּ שָׁ֭מַיִם יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג
+    - ref: Ps 107:28
+      lang: he
+      text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+    - ref: Ps 107:29
+      lang: he
+      text: יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:63
+      lang: ar
+      text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً
+        لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+    - ref: Quran 6:64
+      lang: ar
+      text: قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ
+- kind: shared
+  label: God raises a storm that lifts ships to the heavens and down to the deeps, then hushes it to a
+    whisper and brings sailors to harbor
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:25-30
+      lang: he
+      text: (107:25) וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו (107:26) יַעֲל֣וּ
+        שָׁ֭מַיִם יֵרְד֣וּ תְהוֹמ֑וֹת נַ֝פְשָׁ֗ם בְּרָעָ֥ה תִתְמוֹגָֽג (107:27) יָח֣וֹגּוּ וְ֭יָנוּעוּ
+        כַּשִּׁכּ֑וֹר וְכָל חָ֝כְמָתָ֗ם תִּתְבַּלָּֽע (107:28) וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם
+        וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם (107:29) יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם
+        (107:30) וַיִּשְׂמְח֥וּ כִֽי יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:63
+      lang: ar
+      text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً
+        لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+    note: rescue from the darknesses of land and sea after humble and secret prayer
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-28-pharaohs-tower-and-end
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Pharaoh, 'no god but me', Haman's tower
   of fired brick, and the drowning
-summary: 'These two units share 1 motifs: the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 28:40
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: the enemy
-    army covered by or thrown into the sea (yamm / yām).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
     4.5). Pair score 4.5.'
@@ -66,6 +52,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- echo
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: echo
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi ~ wə-ʾet ʾôyəvêhem kissâ hay-yām: the enemy
+    army covered by or thrown into the sea (yamm / yām).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 28:40
+      lang: ar
+      text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

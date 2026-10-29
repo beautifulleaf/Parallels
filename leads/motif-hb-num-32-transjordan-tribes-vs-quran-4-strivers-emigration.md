@@ -2,8 +2,7 @@
 id: motif-hb-num-32-transjordan-tribes-vs-quran-4-strivers-emigration
 title: Reuben, Gad and half-Manasseh settle east of the Jordan ↔ Those who strive and those who sit; the
   angels' question at death
-summary: 'These two units share 1 motifs: those who strive with wealth and life are ranked above those
-  who sit at home.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - strivers-above-those-who-sit
-passages:
-- tradition: judaism
-  ref: Num 32:6
-  note: 'Those who strive with wealth and life are ranked above those who sit at home (Both turn on ''sitting''
-    while others go to war, from the same image. Q: lā yastawī l-qāʿidūna mina l-muʾminīna ... wa-l-mujāhidūna.
-    Num: ha-ʾaḥêkhem yābōʾû lammilḥāmāh wəʾattem tēšəbû pōh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֔ה לִבְנֵי גָ֖ד וְלִבְנֵ֣י רְאוּבֵ֑ן הַאַֽחֵיכֶ֗ם יָבֹ֨אוּ֙ לַמִּלְחָמָ֔ה וְאַתֶּ֖ם
-    תֵּ֥שְׁבוּ פֹֽה
-- tradition: islam
-  ref: Quran 4:95
-  note: Those who strive with wealth and life are ranked above those who sit at home
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ فِى
-    سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ
-    عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ
-    عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا
-- tradition: islam
-  ref: Quran 4:96
-  note: Those who strive with wealth and life are ranked above those who sit at home
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: دَرَجَٰتٍ مِّنْهُ وَمَغْفِرَةً وَرَحْمَةً وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Both turn on ''sitting'' while others go to war, from the same image. Q: lā yastawī l-qāʿidūna
-    mina l-muʾminīna ... wa-l-mujāhidūna. Num: ha-ʾaḥêkhem yābōʾû lammilḥāmāh wəʾattem tēšəbû pōh.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who strive with wealth and life are ranked above those who
     sit at home (weight 6.7). Pair score 6.7.'
@@ -72,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who strive with wealth and life are ranked above those who sit at home
+kinds:
+- parallel
+units:
+- id: hb-num-32-transjordan-tribes
+  title: Reuben, Gad and half-Manasseh settle east of the Jordan
+  tradition: judaism
+- id: quran-4-strivers-emigration
+  title: Those who strive and those who sit; the angels' question at death
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those who strive with wealth and life are ranked above those who sit at home
+  note: 'Both turn on ''sitting'' while others go to war, from the same image. Q: lā yastawī l-qāʿidūna
+    mina l-muʾminīna ... wa-l-mujāhidūna. Num: ha-ʾaḥêkhem yābōʾû lammilḥāmāh wəʾattem tēšəbû pōh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 32:6
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֔ה לִבְנֵי גָ֖ד וְלִבְנֵ֣י רְאוּבֵ֑ן הַאַֽחֵיכֶ֗ם יָבֹ֨אוּ֙ לַמִּלְחָמָ֔ה
+        וְאַתֶּ֖ם תֵּ֥שְׁבוּ פֹֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:95
+      lang: ar
+      text: لَّا يَسْتَوِى ٱلْقَٰعِدُونَ مِنَ ٱلْمُؤْمِنِينَ غَيْرُ أُو۟لِى ٱلضَّرَرِ وَٱلْمُجَٰهِدُونَ
+        فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فَضَّلَ ٱللَّهُ ٱلْمُجَٰهِدِينَ بِأَمْوَٰلِهِمْ
+        وَأَنفُسِهِمْ عَلَى ٱلْقَٰعِدِينَ دَرَجَةً وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَفَضَّلَ ٱللَّهُ
+        ٱلْمُجَٰهِدِينَ عَلَى ٱلْقَٰعِدِينَ أَجْرًا عَظِيمًا
 ---
 
 ## Questions

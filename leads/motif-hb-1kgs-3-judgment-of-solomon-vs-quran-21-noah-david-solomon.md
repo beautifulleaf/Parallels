@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-3-judgment-of-solomon-vs-quran-21-noah-david-solomon
 title: The two harlots and the living child ↔ Noah answered; David and Solomon's judgment, the praising
   mountains, mail and wind
-summary: 'These two units share 2 motifs: the people see that divine wisdom is in the king to do justice,
-  the people see that divine wisdom is in the king to do justice [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,58 +15,9 @@ layers:
 motifs:
 - divine-wisdom-for-judgment
 - divine-wisdom-for-judgment-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 3:28
-  note: The people see that divine wisdom is in the king to do justice ('The wisdom of God was in him
-    to do justice')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמְע֣וּ כָל יִשְׂרָאֵ֗ל אֶת הַמִּשְׁפָּט֙ אֲשֶׁ֣ר שָׁפַ֣ט הַמֶּ֔לֶךְ וַיִּֽרְא֖וּ מִפְּנֵ֣י
-    הַמֶּ֑לֶךְ כִּ֣י רָא֔וּ כִּֽי חָכְמַ֧ת אֱלֹהִ֛ים בְּקִרְבּ֖וֹ לַעֲשׂ֥וֹת מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 21:79
-  note: The people see that divine wisdom is in the king to do justice
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ
-    يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
-- tradition: judaism
-  ref: 1Kgs 3:28
-  note: 'The people see that divine wisdom is in the king to do justice [divergence between the texts]
-    (kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā ḥukman
-    wa-ʿilmā: Solomon''s judicial wisdom is from God. The case differs (two harlots and a child in 1Kgs,
-    a flock in a field in Q), and Q sets Solomon''s insight beside his father David''s, both given ḥukm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמְע֣וּ כָל יִשְׂרָאֵ֗ל אֶת הַמִּשְׁפָּט֙ אֲשֶׁ֣ר שָׁפַ֣ט הַמֶּ֔לֶךְ וַיִּֽרְא֖וּ מִפְּנֵ֣י
-    הַמֶּ֑לֶךְ כִּ֣י רָא֔וּ כִּֽי חָכְמַ֧ת אֱלֹהִ֛ים בְּקִרְבּ֖וֹ לַעֲשׂ֥וֹת מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 21:78
-  note: 'The people see that divine wisdom is in the king to do justice [divergence between the texts]
-    (kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā ḥukman
-    wa-ʿilmā: Solomon''s judicial wisdom is from God. The case differs (two harlots and a child in 1Kgs,
-    a flock in a field in Q), and Q sets Solomon''s insight beside his father David''s, both given ḥukm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ وَكُنَّا
-    لِحُكْمِهِمْ شَٰهِدِينَ
-- tradition: islam
-  ref: Quran 21:79
-  note: 'The people see that divine wisdom is in the king to do justice [divergence between the texts]
-    (kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā ḥukman
-    wa-ʿilmā: Solomon''s judicial wisdom is from God. The case differs (two harlots and a child in 1Kgs,
-    a flock in a field in Q), and Q sets Solomon''s insight beside his father David''s, both given ḥukm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ
-    يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā
-    ḥukman wa-ʿilmā: Solomon''s judicial wisdom is from God. The case differs (two harlots and a child
-    in 1Kgs, a flock in a field in Q), and Q sets Solomon''s insight beside his father David''s, both
-    given ḥukm.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people see that divine wisdom is in the king to do justice (weight
     6.7); The people see that divine wisdom is in the king to do justice [divergence between the texts]
@@ -95,6 +45,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people see that divine wisdom is in the king to do justice
+kinds:
+- divergence
+units:
+- id: hb-1kgs-3-judgment-of-solomon
+  title: The two harlots and the living child
+  tradition: judaism
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: divergence
+  label: The people see that divine wisdom is in the king to do justice
+  note: 'kî rāʾû kî-ḥokmat ʾĕlōhîm bəqirbô laʿăśôt mišpāṭ; fa-fahhamnāhā Sulaymāna wa-kullan ātaynā ḥukman
+    wa-ʿilmā: Solomon''s judicial wisdom is from God. The case differs (two harlots and a child in 1Kgs,
+    a flock in a field in Q), and Q sets Solomon''s insight beside his father David''s, both given ḥukm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 3:28
+      lang: he
+      text: וַיִּשְׁמְע֣וּ כָל יִשְׂרָאֵ֗ל אֶת הַמִּשְׁפָּט֙ אֲשֶׁ֣ר שָׁפַ֣ט הַמֶּ֔לֶךְ וַיִּֽרְא֖וּ מִפְּנֵ֣י
+        הַמֶּ֑לֶךְ כִּ֣י רָא֔וּ כִּֽי חָכְמַ֧ת אֱלֹהִ֛ים בְּקִרְבּ֖וֹ לַעֲשׂ֥וֹת מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 21:78
+      lang: ar
+      text: وَدَاوُۥدَ وَسُلَيْمَٰنَ إِذْ يَحْكُمَانِ فِى ٱلْحَرْثِ إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ
+        وَكُنَّا لِحُكْمِهِمْ شَٰهِدِينَ
+    - ref: Quran 21:79
+      lang: ar
+      text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ
+        ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
 ---
 
 ## Questions

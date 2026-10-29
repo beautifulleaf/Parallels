@@ -2,8 +2,7 @@
 id: motif-hb-josh-10-sun-stands-still-vs-quran-8-badr-help
 title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
   ↔ Badr - angels, slumber, rain and God's throw
-summary: 'These two units share 2 motifs: ''you did not throw when you threw, but god threw'': the victory
-  is god''s act, god sends terror ahead to panic the enemies.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,48 +16,9 @@ layers:
 motifs:
 - god-threw-when-you-threw
 - divine-terror-precedes-army
-passages:
-- tradition: judaism
-  ref: Josh 10:11
-  note: '''You did not throw when you threw, but God threw'': the victory is God''s act (God''s own throw
-    kills the enemy, so the victory is his, not the fighters'': fa-lam taqtulūhum wa-lākinna llāha qatalahum
-    wa-mā ramayta idh ramayta wa-lākinna llāha ramā vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt min-haššāmayim
-    ... rabbîm ʾăšer-mētû bᵉʾabnê habbārād mēʾăšer hārᵉgû bᵉnê yiśrāʾēl beḥāreb.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ עֲלֵיהֶם֩
-    אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙ בְּאַבְנֵ֣י
-    הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
-- tradition: islam
-  ref: Quran 8:17
-  note: '''You did not throw when you threw, but God threw'': the victory is God''s act'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ ٱللَّهَ
-    رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
-- tradition: judaism
-  ref: Josh 10:10
-  note: 'God sends terror ahead to panic the enemies (God panics the enemy before the believers: sa-ulqī
-    fī qulūbi lladhīna kafarū r-ruʿba vs wayᵉhummēm YHWH lipnê yiśrāʾēl.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהֻמֵּ֤ם יְהוָה֙ לִפְנֵ֣י יִשְׂרָאֵ֔ל וַיַּכֵּ֥ם מַכָּֽה גְדוֹלָ֖ה בְּגִבְע֑וֹן וַֽיִּרְדְּפֵ֗ם
-    דֶּ֚רֶךְ מַעֲלֵ֣ה בֵית חוֹרֹ֔ן וַיַּכֵּ֥ם עַד עֲזֵקָ֖ה וְעַד מַקֵּדָֽה
-- tradition: islam
-  ref: Quran 8:12
-  note: God sends terror ahead to panic the enemies (God casts terror (ru'b) into unbelievers' hearts)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
-    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
-    بَنَانٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God''s own throw kills the enemy, so the victory is his, not the fighters'': fa-lam taqtulūhum
-    wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā vs waYHWH hišlîk ʿălêhem
-    ʾăbānîm gᵉdōlôt min-haššāmayim ... rabbîm ʾăšer-mētû bᵉʾabnê habbārād mēʾăšer hārᵉgû bᵉnê yiśrāʾēl
-    beḥāreb. God panics the enemy before the believers: sa-ulqī fī qulūbi lladhīna kafarū r-ruʿba vs wayᵉhummēm
-    YHWH lipnê yiśrāʾēl.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''You did not throw when you threw, but God threw'': the victory
     is God''s act (weight 6.7); God sends terror ahead to panic the enemies (weight 6.0). Pair score 12.7.'
@@ -92,6 +52,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''You did not throw when you threw, but God threw'': the victory is God''s act'
+kinds:
+- parallel
+units:
+- id: hb-josh-10-sun-stands-still
+  title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''You did not throw when you threw, but God threw'': the victory is God''s act'
+  note: 'God''s own throw kills the enemy, so the victory is his, not the fighters'': fa-lam taqtulūhum
+    wa-lākinna llāha qatalahum wa-mā ramayta idh ramayta wa-lākinna llāha ramā vs waYHWH hišlîk ʿălêhem
+    ʾăbānîm gᵉdōlôt min-haššāmayim ... rabbîm ʾăšer-mētû bᵉʾabnê habbārād mēʾăšer hārᵉgû bᵉnê yiśrāʾēl
+    beḥāreb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 10:11
+      lang: he
+      text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ
+        עֲלֵיהֶם֩ אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙
+        בְּאַבְנֵ֣י הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 8:17
+      lang: ar
+      text: فَلَمْ تَقْتُلُوهُمْ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمْ وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَٰكِنَّ
+        ٱللَّهَ رَمَىٰ وَلِيُبْلِىَ ٱلْمُؤْمِنِينَ مِنْهُ بَلَآءً حَسَنًا إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+- kind: parallel
+  label: God sends terror ahead to panic the enemies
+  note: 'God panics the enemy before the believers: sa-ulqī fī qulūbi lladhīna kafarū r-ruʿba vs wayᵉhummēm
+    YHWH lipnê yiśrāʾēl.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 10:10
+      lang: he
+      text: וַיְהֻמֵּ֤ם יְהוָה֙ לִפְנֵ֣י יִשְׂרָאֵ֔ל וַיַּכֵּ֥ם מַכָּֽה גְדוֹלָ֖ה בְּגִבְע֑וֹן וַֽיִּרְדְּפֵ֗ם
+        דֶּ֚רֶךְ מַעֲלֵ֣ה בֵית חוֹרֹ֔ן וַיַּכֵּ֥ם עַד עֲזֵקָ֖ה וְעַד מַקֵּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:12
+      lang: ar
+      text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟
+        سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟
+        مِنْهُمْ كُلَّ بَنَانٍ
 ---
 
 ## Questions

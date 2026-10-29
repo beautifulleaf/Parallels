@@ -2,7 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-34-gods-knowledge
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Praise, the atom's weight, and mockery
   of resurrection
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Ps 106:17-18
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:17) תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם (106:18) וַתִּבְעַר
-    אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים
-- tradition: judaism
-  ref: Ps 106:17
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
-- tradition: islam
-  ref: Quran 34:9
-  note: 'The earth opens its mouth and swallows rebels alive into Sheol (threat: we could make the earth
-    swallow them or drop fragments of sky on them)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ
-    إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ إِنَّ فِى
-    ذَٰلِكَ لَءَايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. tip̄taḥ-ʾereṣ wa-ttiḇlaʿ dāṯān vs. nakhsif bihimu l-arḍ: the earth swallowing rebels, as a remembered
-    event in the psalm and as a possible one in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -72,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- echo
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-34-gods-knowledge
+  title: Praise, the atom's weight, and mockery of resurrection
+  tradition: islam
+matches:
+- kind: echo
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: 'tip̄taḥ-ʾereṣ wa-ttiḇlaʿ dāṯān vs. nakhsif bihimu l-arḍ: the earth swallowing rebels, as a remembered
+    event in the psalm and as a possible one in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:17
+      lang: he
+      text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 34:9
+      lang: ar
+      text: أَفَلَمْ يَرَوْا۟ إِلَىٰ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ
+        إِن نَّشَأْ نَخْسِفْ بِهِمُ ٱلْأَرْضَ أَوْ نُسْقِطْ عَلَيْهِمْ كِسَفًا مِّنَ ٱلسَّمَآءِ إِنَّ
+        فِى ذَٰلِكَ لَءَايَةً لِّكُلِّ عَبْدٍ مُّنِيبٍ
 ---
 
 ## Questions

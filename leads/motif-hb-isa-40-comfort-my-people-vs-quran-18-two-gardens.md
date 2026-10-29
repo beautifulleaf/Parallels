@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-18-two-gardens
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The parable of the two
   gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
-summary: 'These two units share 1 motifs: parable: worldly life is like vegetation fed by rain, adorned,
-  then cut down overnight as if it never flourished.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,50 +15,9 @@ layers:
 - motif
 motifs:
 - worldly-life-like-rain-fed-crop
-passages:
-- tradition: judaism
-  ref: Isa 40:6
-  note: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
-    it never flourished (kol-habbāśār ḥāṣîr ... yābēš ḥāṣîr nābēl ṣîṣ kî rûaḥ YHWH nāšəbâ bô ... ûdəbar-ʾĕlōhênû
-    yāqûm ləʿôlām; ka-māʾin anzalnāhu ... fa-aṣbaḥa hashīman tadhrūhu r-riyāḥ ... wa-l-bāqiyātu ṣ-ṣāliḥātu
-    khayrun: green growth withered by the wind, set against what lasts. What lasts is God''s word in Isa
-    and good deeds in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ הַשָּׂדֶֽה
-- tradition: judaism
-  ref: Isa 40:7
-  note: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
-    it never flourished (kol-habbāśār ḥāṣîr ... yābēš ḥāṣîr nābēl ṣîṣ kî rûaḥ YHWH nāšəbâ bô ... ûdəbar-ʾĕlōhênû
-    yāqûm ləʿôlām; ka-māʾin anzalnāhu ... fa-aṣbaḥa hashīman tadhrūhu r-riyāḥ ... wa-l-bāqiyātu ṣ-ṣāliḥātu
-    khayrun: green growth withered by the wind, set against what lasts. What lasts is God''s word in Isa
-    and good deeds in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם
-- tradition: islam
-  ref: Quran 18:45
-  note: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
-    it never flourished (hashīman tadhrūhu l-riyāḥ)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
-    بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ
-    مُّقْتَدِرًا
-- tradition: islam
-  ref: Quran 18:46
-  note: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
-    it never flourished (hashīman tadhrūhu l-riyāḥ)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ عِندَ
-    رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. kol-habbāśār ḥāṣîr ... yābēš ḥāṣîr nābēl ṣîṣ kî rûaḥ YHWH nāšəbâ bô ... ûdəbar-ʾĕlōhênû
-    yāqûm ləʿôlām; ka-māʾin anzalnāhu ... fa-aṣbaḥa hashīman tadhrūhu r-riyāḥ ... wa-l-bāqiyātu ṣ-ṣāliḥātu
-    khayrun: green growth withered by the wind, set against what lasts. What lasts is God''s word in Isa
-    and good deeds in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: worldly life is like vegetation fed by rain, adorned, then
     cut down overnight as if it never flourished (weight 6.3). Pair score 6.3.'
@@ -99,6 +57,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
+  it never flourished'
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-18-two-gardens
+  title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Parable: worldly life is like vegetation fed by rain, adorned, then cut down overnight as if
+    it never flourished'
+  note: 'kol-habbāśār ḥāṣîr ... yābēš ḥāṣîr nābēl ṣîṣ kî rûaḥ YHWH nāšəbâ bô ... ûdəbar-ʾĕlōhênû yāqûm
+    ləʿôlām; ka-māʾin anzalnāhu ... fa-aṣbaḥa hashīman tadhrūhu r-riyāḥ ... wa-l-bāqiyātu ṣ-ṣāliḥātu khayrun:
+    green growth withered by the wind, set against what lasts. What lasts is God''s word in Isa and good
+    deeds in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:6
+      lang: he
+      text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ
+        הַשָּׂדֶֽה
+    - ref: Isa 40:7
+      lang: he
+      text: יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם
+    - ref: Isa 40:8
+      lang: he
+      text: יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 18:45
+      lang: ar
+      text: وَٱضْرِبْ لَهُم مَّثَلَ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
+        بِهِۦ نَبَاتُ ٱلْأَرْضِ فَأَصْبَحَ هَشِيمًا تَذْرُوهُ ٱلرِّيَٰحُ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ
+        شَىْءٍ مُّقْتَدِرًا
+    - ref: Quran 18:46
+      lang: ar
+      text: ٱلْمَالُ وَٱلْبَنُونَ زِينَةُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيْرٌ
+        عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ أَمَلًا
 ---
 
 ## Questions

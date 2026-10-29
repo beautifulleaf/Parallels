@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-31-midian-war-vs-quran-29-destroyed-nations
 title: War against Midian and division of the spoils ↔ Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
-summary: 'These two units share 1 motifs: how the people of midian came to be destroyed [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,56 +13,9 @@ layers:
 - motif
 motifs:
 - destruction-of-midian-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 31:7
-  note: 'How the people of Midian came to be destroyed [divergence between the texts] (How Midian falls:
-    Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû ʿal Midyān ka-ʾăšer ṣiwwâ YHWH
-    ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam slain by the sword; the Quran
-    has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum Shuʿayban ... fa-kadhdhabūhu
-    fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no prophet sent to Midian.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּצְבְּאוּ֙ עַל מִדְיָ֔ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶׁ֑ה וַיַּֽהַרְג֖וּ כָּל זָכָֽר
-- tradition: judaism
-  ref: Num 31:8
-  note: 'How the people of Midian came to be destroyed [divergence between the texts] (How Midian falls:
-    Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû ʿal Midyān ka-ʾăšer ṣiwwâ YHWH
-    ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam slain by the sword; the Quran
-    has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum Shuʿayban ... fa-kadhdhabūhu
-    fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no prophet sent to Midian.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת מַלְכֵ֨י מִדְיָ֜ן הָרְג֣וּ עַל חַלְלֵיהֶ֗ם אֶת אֱוִ֤י וְאֶת רֶ֨קֶם֙ וְאֶת צ֤וּר וְאֶת חוּר֙
-    וְאֶת רֶ֔בַע חֲמֵ֖שֶׁת מַלְכֵ֣י מִדְיָ֑ן וְאֵת֙ בִּלְעָ֣ם בֶּן בְּע֔וֹר הָרְג֖וּ בֶּחָֽרֶב
-- tradition: islam
-  ref: Quran 29:36
-  note: 'How the people of Midian came to be destroyed [divergence between the texts] (How Midian falls:
-    Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû ʿal Midyān ka-ʾăšer ṣiwwâ YHWH
-    ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam slain by the sword; the Quran
-    has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum Shuʿayban ... fa-kadhdhabūhu
-    fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no prophet sent to Midian.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ
-    ٱلْءَاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
-- tradition: islam
-  ref: Quran 29:37
-  note: 'How the people of Midian came to be destroyed [divergence between the texts] (How Midian falls:
-    Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû ʿal Midyān ka-ʾăšer ṣiwwâ YHWH
-    ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam slain by the sword; the Quran
-    has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum Shuʿayban ... fa-kadhdhabūhu
-    fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no prophet sent to Midian.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. How Midian falls: Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû
-    ʿal Midyān ka-ʾăšer ṣiwwâ YHWH ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam
-    slain by the sword; the Quran has divine punishment after rejecting their own prophet, wa-ilā Madyana
-    akhāhum Shuʿayban ... fa-kadhdhabūhu fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The
-    HB has no prophet sent to Midian.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the people of Midian came to be destroyed [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -94,6 +46,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How the people of Midian came to be destroyed
+kinds:
+- divergence
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-29-destroyed-nations
+  title: Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
+  tradition: islam
+matches:
+- kind: divergence
+  label: How the people of Midian came to be destroyed
+  note: 'How Midian falls: Numbers has holy war waged by Israel at God''s command, wa-yyiṣbəʾû ʿal Midyān
+    ka-ʾăšer ṣiwwâ YHWH ʾet Mōše wa-yyahargû kol zākhār, with Midian''s five kings and Balaam slain by
+    the sword; the Quran has divine punishment after rejecting their own prophet, wa-ilā Madyana akhāhum
+    Shuʿayban ... fa-kadhdhabūhu fa-akhadhathumu r-rajfatu fa-aṣbaḥū fī dārihim jāthimīn. The HB has no
+    prophet sent to Midian.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:7
+      lang: he
+      text: וַֽיִּצְבְּאוּ֙ עַל מִדְיָ֔ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת מֹשֶׁ֑ה וַיַּֽהַרְג֖וּ כָּל זָכָֽר
+    - ref: Num 31:8
+      lang: he
+      text: וְאֶת מַלְכֵ֨י מִדְיָ֜ן הָרְג֣וּ עַל חַלְלֵיהֶ֗ם אֶת אֱוִ֤י וְאֶת רֶ֨קֶם֙ וְאֶת צ֤וּר וְאֶת
+        חוּר֙ וְאֶת רֶ֔בַע חֲמֵ֖שֶׁת מַלְכֵ֣י מִדְיָ֑ן וְאֵת֙ בִּלְעָ֣ם בֶּן בְּע֔וֹר הָרְג֖וּ בֶּחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 29:36
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ وَٱرْجُوا۟ ٱلْيَوْمَ
+        ٱلْءَاخِرَ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+    - ref: Quran 29:37
+      lang: ar
+      text: فَكَذَّبُوهُ فَأَخَذَتْهُمُ ٱلرَّجْفَةُ فَأَصْبَحُوا۟ فِى دَارِهِمْ جَٰثِمِينَ
 ---
 
 ## Questions

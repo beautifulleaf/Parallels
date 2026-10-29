@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-26-second-census-vs-quran-3-imran-mary-zechariah
 title: Census of the second generation on the plains of Moab ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 1 motifs: the family of amram / imran and miriam / maryam [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,49 +13,9 @@ layers:
 - motif
 motifs:
 - family-of-amram-imran-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 26:59
-  note: 'The family of Amram / Imran and Miriam / Maryam [divergence between the texts] (Num 26:59 wĕ-šēm
-    ʾēšet ʿamrām yôkebed ... wa-tteled lĕ-ʿamrām ʾet ʾahărōn wĕ-ʾet mōšeh wĕ-ʾēt miryām ʾăḥōtām: the wife
-    of Amram bears Aaron, Moses and Miriam; Q 3:33, 35 wa-āla ʿimrāna ... idh qālati mraʾatu ʿimrāna:
-    ''the wife of Imran'' bears Maryam, mother of Jesus. ʿAmrām / ʿImrān and Miryām / Maryam, with the
-    mother left unnamed in the Quran. Whether the Quran merges the two families or uses a typological
-    genealogy is for the verifiers; the name pair is in both texts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
-    וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
-- tradition: islam
-  ref: Quran 3:33
-  note: 'The family of Amram / Imran and Miriam / Maryam [divergence between the texts] (Num 26:59 wĕ-šēm
-    ʾēšet ʿamrām yôkebed ... wa-tteled lĕ-ʿamrām ʾet ʾahărōn wĕ-ʾet mōšeh wĕ-ʾēt miryām ʾăḥōtām: the wife
-    of Amram bears Aaron, Moses and Miriam; Q 3:33, 35 wa-āla ʿimrāna ... idh qālati mraʾatu ʿimrāna:
-    ''the wife of Imran'' bears Maryam, mother of Jesus. ʿAmrām / ʿImrān and Miryām / Maryam, with the
-    mother left unnamed in the Quran. Whether the Quran merges the two families or uses a typological
-    genealogy is for the verifiers; the name pair is in both texts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 3:35
-  note: 'The family of Amram / Imran and Miriam / Maryam [divergence between the texts] (Num 26:59 wĕ-šēm
-    ʾēšet ʿamrām yôkebed ... wa-tteled lĕ-ʿamrām ʾet ʾahărōn wĕ-ʾet mōšeh wĕ-ʾēt miryām ʾăḥōtām: the wife
-    of Amram bears Aaron, Moses and Miriam; Q 3:33, 35 wa-āla ʿimrāna ... idh qālati mraʾatu ʿimrāna:
-    ''the wife of Imran'' bears Maryam, mother of Jesus. ʿAmrām / ʿImrān and Miryām / Maryam, with the
-    mother left unnamed in the Quran. Whether the Quran merges the two families or uses a typological
-    genealogy is for the verifiers; the name pair is in both texts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
-    مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Num 26:59 wĕ-šēm ʾēšet ʿamrām yôkebed ... wa-tteled lĕ-ʿamrām ʾet ʾahărōn wĕ-ʾet mōšeh
-    wĕ-ʾēt miryām ʾăḥōtām: the wife of Amram bears Aaron, Moses and Miriam; Q 3:33, 35 wa-āla ʿimrāna
-    ... idh qālati mraʾatu ʿimrāna: ''the wife of Imran'' bears Maryam, mother of Jesus. ʿAmrām / ʿImrān
-    and Miryām / Maryam, with the mother left unnamed in the Quran. Whether the Quran merges the two families
-    or uses a typological genealogy is for the verifiers; the name pair is in both texts.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The family of Amram / Imran and Miriam / Maryam [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -88,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The family of Amram / Imran and Miriam / Maryam
+kinds:
+- divergence
+units:
+- id: hb-num-26-second-census
+  title: Census of the second generation on the plains of Moab
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: divergence
+  label: The family of Amram / Imran and Miriam / Maryam
+  note: 'Num 26:59 wĕ-šēm ʾēšet ʿamrām yôkebed ... wa-tteled lĕ-ʿamrām ʾet ʾahărōn wĕ-ʾet mōšeh wĕ-ʾēt
+    miryām ʾăḥōtām: the wife of Amram bears Aaron, Moses and Miriam; Q 3:33, 35 wa-āla ʿimrāna ... idh
+    qālati mraʾatu ʿimrāna: ''the wife of Imran'' bears Maryam, mother of Jesus. ʿAmrām / ʿImrān and Miryām
+    / Maryam, with the mother left unnamed in the Quran. Whether the Quran merges the two families or
+    uses a typological genealogy is for the verifiers; the name pair is in both texts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 26:59
+      lang: he
+      text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
+        וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:33
+      lang: ar
+      text: إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَٰلَمِينَ
+    - ref: Quran 3:35
+      lang: ar
+      text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
+        مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
 ---
 
 ## Questions

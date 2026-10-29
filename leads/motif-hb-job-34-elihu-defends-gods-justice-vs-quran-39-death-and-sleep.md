@@ -2,8 +2,7 @@
 id: motif-hb-job-34-elihu-defends-gods-justice-vs-quran-39-death-and-sleep
 title: Elihu - God cannot do wrong ↔ The prophet's mortality; souls taken in sleep; intercession belongs
   to God
-summary: 'These two units share 1 motifs: god takes the souls at death and of those not dead in their
-  sleep; he keeps those decreed to die and sends back the others for a set term.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - god-takes-souls-in-sleep-and-death
-passages:
-- tradition: judaism
-  ref: Job 34:14
-  note: 'God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
-    die and sends back the others for a set term (ʾim-yāśîm ʾēlâw libbô rûḥô wə-nišmāṯô ʾēlâw yeʾĕsōp̄
-    yiḡwaʿ kol-bāśār yaḥad vs. allāhu yatawaffā l-anfusa ḥīna mawtihā ... fa-yumsiku llatī qaḍā ʿalayhā
-    l-mawt: God gathers back the breath or soul, and death follows. Elihu states it as a possibility for
-    all flesh; the Quran describes it as happening every night and at each death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יָשִׂ֣ים אֵלָ֣יו לִבּ֑וֹ רוּח֥וֹ וְ֝נִשְׁמָת֗וֹ אֵלָ֥יו יֶאֱסֹֽף
-- tradition: judaism
-  ref: Job 34:15
-  note: 'God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
-    die and sends back the others for a set term (ʾim-yāśîm ʾēlâw libbô rûḥô wə-nišmāṯô ʾēlâw yeʾĕsōp̄
-    yiḡwaʿ kol-bāśār yaḥad vs. allāhu yatawaffā l-anfusa ḥīna mawtihā ... fa-yumsiku llatī qaḍā ʿalayhā
-    l-mawt: God gathers back the breath or soul, and death follows. Elihu states it as a possibility for
-    all flesh; the Quran describes it as happening every night and at each death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִגְוַ֣ע כָּל בָּשָׂ֣ר יָ֑חַד וְ֝אָדָ֗ם עַל עָפָ֥ר יָשֽׁוּב
-- tradition: islam
-  ref: Quran 39:42
-  note: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to die
-    and sends back the others for a set term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
-    ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾim-yāśîm ʾēlâw libbô rûḥô wə-nišmāṯô ʾēlâw yeʾĕsōp̄ yiḡwaʿ kol-bāśār yaḥad vs. allāhu yatawaffā
-    l-anfusa ḥīna mawtihā ... fa-yumsiku llatī qaḍā ʿalayhā l-mawt: God gathers back the breath or soul,
-    and death follows. Elihu states it as a possibility for all flesh; the Quran describes it as happening
-    every night and at each death.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes the souls at death and of those not dead in their sleep;
     he keeps those decreed to die and sends back the others for a set term (weight 6.3). Pair score 6.3.'
@@ -83,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
+  die and sends back the others for a set term
+kinds:
+- parallel
+units:
+- id: hb-job-34-elihu-defends-gods-justice
+  title: Elihu - God cannot do wrong
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: parallel
+  label: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
+    die and sends back the others for a set term
+  note: 'ʾim-yāśîm ʾēlâw libbô rûḥô wə-nišmāṯô ʾēlâw yeʾĕsōp̄ yiḡwaʿ kol-bāśār yaḥad vs. allāhu yatawaffā
+    l-anfusa ḥīna mawtihā ... fa-yumsiku llatī qaḍā ʿalayhā l-mawt: God gathers back the breath or soul,
+    and death follows. Elihu states it as a possibility for all flesh; the Quran describes it as happening
+    every night and at each death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 34:14
+      lang: he
+      text: אִם יָשִׂ֣ים אֵלָ֣יו לִבּ֑וֹ רוּח֥וֹ וְ֝נִשְׁמָת֗וֹ אֵלָ֥יו יֶאֱסֹֽף
+    - ref: Job 34:15
+      lang: he
+      text: יִגְוַ֣ע כָּל בָּשָׂ֣ר יָ֑חַד וְ֝אָדָ֗ם עַל עָפָ֥ר יָשֽׁוּב
+  - tradition: islam
+    passages:
+    - ref: Quran 39:42
+      lang: ar
+      text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
+        ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى
+        ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

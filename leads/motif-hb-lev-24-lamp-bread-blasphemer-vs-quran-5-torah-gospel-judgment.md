@@ -2,7 +2,7 @@
 id: motif-hb-lev-24-lamp-bread-blasphemer-vs-quran-5-torah-gospel-judgment
 title: Perpetual lamp, showbread, and the blasphemer stoned ↔ Judging by the Torah, the Gospel and the
   Quran; eye for eye
-summary: 'These two units share 1 motifs: eye for an eye, tooth for a tooth (lex talionis).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - eye-for-eye
-passages:
-- tradition: judaism
-  ref: Lev 24:19
-  note: Eye for an eye, tooth for a tooth (lex talionis)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֕ישׁ כִּֽי יִתֵּ֥ן מ֖וּם בַּעֲמִית֑וֹ כַּאֲשֶׁ֣ר עָשָׂ֔ה כֵּ֖ן יֵעָ֥שֶׂה לּֽוֹ
-- tradition: judaism
-  ref: Lev 24:20
-  note: Eye for an eye, tooth for a tooth (lex talionis)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁ֚בֶר תַּ֣חַת שֶׁ֔בֶר עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן כַּאֲשֶׁ֨ר יִתֵּ֥ן מוּם֙ בָּֽאָדָ֔ם
-    כֵּ֖ן יִנָּ֥תֶן בּֽוֹ
-- tradition: islam
-  ref: Quran 5:45
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life for life, eye for eye, nose for nose, ear
-    for ear, tooth for tooth, wounds by retaliation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
-    بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِۦ
-    فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Lev: šever taḥat šever ʿayin taḥat ʿayin šēn taḥat šēn kaʾăšer yittēn mûm bā-ʾādām kēn yinnāten
-    bô, a shorter list. Q 5:45 shares only nafs (Lev 24:17), ʿayn and sinn.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair
     score 5.4.'
@@ -72,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eye for an eye, tooth for a tooth (lex talionis)
+kinds:
+- echo
+units:
+- id: hb-lev-24-lamp-bread-blasphemer
+  title: Perpetual lamp, showbread, and the blasphemer stoned
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: echo
+  label: Eye for an eye, tooth for a tooth (lex talionis)
+  note: 'Lev: šever taḥat šever ʿayin taḥat ʿayin šēn taḥat šēn kaʾăšer yittēn mûm bā-ʾādām kēn yinnāten
+    bô, a shorter list. Q 5:45 shares only nafs (Lev 24:17), ʿayn and sinn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 24:17
+      lang: he
+      text: וְאִ֕ישׁ כִּ֥י יַכֶּ֖ה כָּל נֶ֣פֶשׁ אָדָ֑ם מ֖וֹת יוּמָֽת
+    - ref: Lev 24:20
+      lang: he
+      text: שֶׁ֚בֶר תַּ֣חַת שֶׁ֔בֶר עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן כַּאֲשֶׁ֨ר יִתֵּ֥ן מוּם֙
+        בָּֽאָדָ֔ם כֵּ֖ן יִנָּ֥תֶן בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:45
+      lang: ar
+      text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
+        بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ
+        بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
 ---
 
 ## Questions

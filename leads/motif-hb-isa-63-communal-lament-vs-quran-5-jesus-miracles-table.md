@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-5-jesus-miracles-table
 title: Remembering the days of Moses - O that you would rend the heavens ↔ Jesus' miracles, the table
   from heaven, and Jesus questioned at judgment
-summary: 'These two units share 1 motifs: god''s ''holy spirit'' (ruah qodesh) is asked not to be taken
-  away from a person.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - holy-spirit-of-god
-passages:
-- tradition: judaism
-  ref: Isa 63:10
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (they rebelled and
-    grieved his holy spirit (ruah qodsho), and he became their enemy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵ֛מָּה מָר֥וּ וְעִצְּב֖וּ אֶת ר֣וּחַ קָדְשׁ֑וֹ וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאוֹיֵ֖ב ה֥וּא נִלְחַם
-    בָּֽם
-- tradition: judaism
-  ref: Isa 63:11
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (they rebelled and
-    grieved his holy spirit (ruah qodsho), and he became their enemy)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּזְכֹּ֥ר יְמֵֽי עוֹלָ֖ם מֹשֶׁ֣ה עַמּ֑וֹ אַיֵּ֣ה הַֽמַּעֲלֵ֣ם מִיָּ֗ם אֵ֚ת רֹעֵ֣י צֹאנ֔וֹ אַיֵּ֛ה
-    הַשָּׂ֥ם בְּקִרְבּ֖וֹ אֶת ר֥וּחַ קָדְשֽׁוֹ
-- tradition: islam
-  ref: Quran 5:110
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (ayyadtuka bi-rūḥ
-    al-qudus)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ
-    أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ
-    وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى
-    فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ
-    تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ
-    فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Isa: ha-śśām bə-qirbô ʾet-rûaḥ qodšô, the holy spirit set among Moses'' people, whom they grieved
-    (wə-ʿiṣṣəvû ʾet-rûaḥ qodšô). Q: Jesus supported by rūḥ al-qudus while bani Isrāʾīl reject his signs
-    as siḥrun mubīn.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away
     from a person (weight 6.0). Pair score 6.0.'
@@ -86,6 +54,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+kinds:
+- echo
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-5-jesus-miracles-table
+  title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+  note: 'Isa: ha-śśām bə-qirbô ʾet-rûaḥ qodšô, the holy spirit set among Moses'' people, whom they grieved
+    (wə-ʿiṣṣəvû ʾet-rûaḥ qodšô). Q: Jesus supported by rūḥ al-qudus while bani Isrāʾīl reject his signs
+    as siḥrun mubīn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:10
+      lang: he
+      text: וְהֵ֛מָּה מָר֥וּ וְעִצְּב֖וּ אֶת ר֣וּחַ קָדְשׁ֑וֹ וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאוֹיֵ֖ב ה֥וּא נִלְחַם
+        בָּֽם
+    - ref: Isa 63:11
+      lang: he
+      text: וַיִּזְכֹּ֥ר יְמֵֽי עוֹלָ֖ם מֹשֶׁ֣ה עַמּ֑וֹ אַיֵּ֣ה הַֽמַּעֲלֵ֣ם מִיָּ֗ם אֵ֚ת רֹעֵ֣י צֹאנ֔וֹ
+        אַיֵּ֛ה הַשָּׂ֥ם בְּקִרְבּ֖וֹ אֶת ר֥וּחַ קָדְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:110
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ
+        إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ
+        ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ
+        بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ
+        جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-3-closing
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Signs
   for people of understanding; closing prayer
-summary: 'These two units share 1 motifs: ''our lord, you have not created this in vain''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - not-created-in-vain
-passages:
-- tradition: judaism
-  ref: Isa 45:18
-  note: '''Our Lord, you have not created this in vain'' (Isa 45:18 bôrēʾ ha-ššāmayim ... yōṣēr hā-ʾāreṣ
-    ... lōʾ tōhû bĕrāʾāh lāšebet yĕṣārāh: God did not create the earth for nothing (tōhû) but to be lived
-    in; Q 3:191 rabbanā mā khalaqta hādhā bāṭilan subḥānaka: ''our Lord, you did not create this in vain''.
-    The purpose of heaven and earth, declared by God in Isaiah, confessed by the worshippers in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
-    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 3:191
-  note: '''Our Lord, you have not created this in vain'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Isa 45:18 bôrēʾ ha-ššāmayim ... yōṣēr hā-ʾāreṣ ... lōʾ tōhû bĕrāʾāh lāšebet yĕṣārāh: God
-    did not create the earth for nothing (tōhû) but to be lived in; Q 3:191 rabbanā mā khalaqta hādhā
-    bāṭilan subḥānaka: ''our Lord, you did not create this in vain''. The purpose of heaven and earth,
-    declared by God in Isaiah, confessed by the worshippers in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Our Lord, you have not created this in vain'' (weight 6.7). Pair
     score 6.7.'
@@ -75,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Our Lord, you have not created this in vain'''
+kinds:
+- parallel
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-3-closing
+  title: Signs for people of understanding; closing prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Our Lord, you have not created this in vain'''
+  note: 'Isa 45:18 bôrēʾ ha-ššāmayim ... yōṣēr hā-ʾāreṣ ... lōʾ tōhû bĕrāʾāh lāšebet yĕṣārāh: God did
+    not create the earth for nothing (tōhû) but to be lived in; Q 3:191 rabbanā mā khalaqta hādhā bāṭilan
+    subḥānaka: ''our Lord, you did not create this in vain''. The purpose of heaven and earth, declared
+    by God in Isaiah, confessed by the worshippers in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:18
+      lang: he
+      text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙
+        ה֣וּא כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 3:191
+      lang: ar
+      text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى
+        خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ
+        ٱلنَّارِ
 ---
 
 ## Questions

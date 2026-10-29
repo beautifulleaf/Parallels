@@ -2,8 +2,7 @@
 id: motif-hb-deut-12-one-sanctuary-vs-quran-6-pagan-offerings-cattle
 title: The chosen place; profane slaughter; blood prohibition ↔ Pagan portions and taboos; eight pairs;
   what is forbidden to all and to the Jews
-summary: 'These two units share 2 motifs: blood is the life; do not eat it but pour it on the ground like
-  water, nations burn their sons and daughters in fire to their gods.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,59 +16,9 @@ layers:
 motifs:
 - blood-is-life-pour-on-ground
 - child-sacrifice-by-fire-condemned
-passages:
-- tradition: judaism
-  ref: Deut 12:16
-  note: Blood is the life; do not eat it but pour it on the ground like water
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֥ק הַדָּ֖ם לֹ֣א תֹאכֵ֑לוּ עַל הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם
-- tradition: judaism
-  ref: Deut 12:23
-  note: Blood is the life; do not eat it but pour it on the ground like water
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֣ק חֲזַ֗ק לְבִלְתִּי֙ אֲכֹ֣ל הַדָּ֔ם כִּ֥י הַדָּ֖ם ה֣וּא הַנָּ֑פֶשׁ וְלֹא תֹאכַ֥ל הַנֶּ֖פֶשׁ
-    עִם הַבָּשָֽׂר
-- tradition: islam
-  ref: Quran 6:145
-  note: Blood is the life; do not eat it but pour it on the ground like water (only 'poured-out blood'
-    (daman masfūḥan) is forbidden)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ
-    مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Deut 12:31
-  note: Nations burn their sons and daughters in fire to their gods
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשֶׂ֣ה כֵ֔ן לַיהוָ֖ה אֱלֹהֶ֑יךָ כִּי֩ כָּל תּוֹעֲבַ֨ת יְהוָ֜ה אֲשֶׁ֣ר שָׂנֵ֗א עָשׂוּ֙ לֵאלֹ֣הֵיהֶ֔ם
-    כִּ֣י גַ֤ם אֶת בְּנֵיהֶם֙ וְאֶת בְּנֹ֣תֵיהֶ֔ם יִשְׂרְפ֥וּ בָאֵ֖שׁ לֵֽאלֹהֵיהֶֽם
-- tradition: islam
-  ref: Quran 6:137
-  note: Nations burn their sons and daughters in fire to their gods (the partners made killing their children
-    seem fair to them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ
-    وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ
-- tradition: islam
-  ref: Quran 6:140
-  note: Nations burn their sons and daughters in fire to their gods (the partners made killing their children
-    seem fair to them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ
-    ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Blood that is poured out. Deut: raq ha-dām lōʾ tōʾkhēlû ʿal-hā-ʾāreṣ tišpəkhennû kam-māyim.
-    Q: aw daman masfūḥan, only ''poured-out blood'' is forbidden, the same image of shed blood (s-f-ḥ
-    / š-f-k). Deut: kî gam ʾet-bənêhem wə-ʾet-bənōtêhem yiśrəfû vā-ʾēš lē-ʾlōhêhem. Q: zayyana li-kathīrin
-    mina l-mushrikīna qatla awlādihim shurakāʾuhum; qad khasira lladhīna qatalū awlādahum safahan bi-ghayri
-    ʿilmin. Both blame the false gods. Q does not mention fire (cf. Arabian infanticide).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blood is the life; do not eat it but pour it on the ground like
     water (weight 6.3); Nations burn their sons and daughters in fire to their gods (weight 5.2). Pair
@@ -105,6 +54,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Blood is the life; do not eat it but pour it on the ground like water
+kinds:
+- parallel
+units:
+- id: hb-deut-12-one-sanctuary
+  title: The chosen place; profane slaughter; blood prohibition
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: parallel
+  label: Blood is the life; do not eat it but pour it on the ground like water
+  note: 'Blood that is poured out. Deut: raq ha-dām lōʾ tōʾkhēlû ʿal-hā-ʾāreṣ tišpəkhennû kam-māyim. Q:
+    aw daman masfūḥan, only ''poured-out blood'' is forbidden, the same image of shed blood (s-f-ḥ / š-f-k).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 12:16
+      lang: he
+      text: רַ֥ק הַדָּ֖ם לֹ֣א תֹאכֵ֑לוּ עַל הָאָ֥רֶץ תִּשְׁפְּכֶ֖נּוּ כַּמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:145
+      lang: ar
+      text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن
+        يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ
+        لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+- kind: parallel
+  label: Nations burn their sons and daughters in fire to their gods
+  note: 'Deut: kî gam ʾet-bənêhem wə-ʾet-bənōtêhem yiśrəfû vā-ʾēš lē-ʾlōhêhem. Q: zayyana li-kathīrin
+    mina l-mushrikīna qatla awlādihim shurakāʾuhum; qad khasira lladhīna qatalū awlādahum safahan bi-ghayri
+    ʿilmin. Both blame the false gods. Q does not mention fire (cf. Arabian infanticide).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 12:31
+      lang: he
+      text: לֹא תַעֲשֶׂ֣ה כֵ֔ן לַיהוָ֖ה אֱלֹהֶ֑יךָ כִּי֩ כָּל תּוֹעֲבַ֨ת יְהוָ֜ה אֲשֶׁ֣ר שָׂנֵ֗א עָשׂוּ֙
+        לֵאלֹ֣הֵיהֶ֔ם כִּ֣י גַ֤ם אֶת בְּנֵיהֶם֙ וְאֶת בְּנֹ֣תֵיהֶ֔ם יִשְׂרְפ֥וּ בָאֵ֖שׁ לֵֽאלֹהֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:137
+      lang: ar
+      text: وَكَذَٰلِكَ زَيَّنَ لِكَثِيرٍ مِّنَ ٱلْمُشْرِكِينَ قَتْلَ أَوْلَٰدِهِمْ شُرَكَآؤُهُمْ لِيُرْدُوهُمْ
+        وَلِيَلْبِسُوا۟ عَلَيْهِمْ دِينَهُمْ وَلَوْ شَآءَ ٱللَّهُ مَا فَعَلُوهُ فَذَرْهُمْ وَمَا يَفْتَرُونَ
+    - ref: Quran 6:140
+      lang: ar
+      text: قَدْ خَسِرَ ٱلَّذِينَ قَتَلُوٓا۟ أَوْلَٰدَهُمْ سَفَهًۢا بِغَيْرِ عِلْمٍ وَحَرَّمُوا۟ مَا رَزَقَهُمُ
+        ٱللَّهُ ٱفْتِرَآءً عَلَى ٱللَّهِ قَدْ ضَلُّوا۟ وَمَا كَانُوا۟ مُهْتَدِينَ
 ---
 
 ## Questions

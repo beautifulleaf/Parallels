@@ -2,8 +2,7 @@
 id: motif-hb-joel-3-spirit-poured-vs-quran-33-prophets-wives
 title: The spirit poured on all flesh and signs before the Day ↔ The prophet's wives, the people of the
   House, and the believers men and women
-summary: 'These two units share 1 motifs: paired list of male and female believers (muslims, believers,
-  devout, truthful, patient, humble, charitable, fasting, chaste, remembering) promised equal reward.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - male-and-female-believers-equal-reward
-passages:
-- tradition: judaism
-  ref: Joel 3:1
-  note: 'Paired list of male and female believers (muslims, believers, devout, truthful, patient, humble,
-    charitable, fasting, chaste, remembering) promised equal reward (Paired masculine and feminine lists:
-    wə-nibbəʾû bənêḵem û-ḇənôṯêḵem ... wə-ḡam ʿal-hā-ʿăḇāḏîm wə-ʿal-ha-ššəp̄āḥôṯ vs. inna l-muslimīna
-    wa-l-muslimāti wa-l-muʾminīna wa-l-muʾmināt ... aʿadda llāhu lahum maghfiratan. Joel gives both sexes
-    the spirit, the Quran gives both the same reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה אַֽחֲרֵי כֵ֗ן אֶשְׁפּ֤וֹךְ אֶת רוּחִי֙ עַל כָּל בָּשָׂ֔ר וְנִבְּא֖וּ בְּנֵיכֶ֣ם וּבְנֽוֹתֵיכֶ֑ם
-    זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן בַּח֣וּרֵיכֶ֔ם חֶזְיֹנ֖וֹת יִרְאֽוּ
-- tradition: judaism
-  ref: Joel 3:2
-  note: 'Paired list of male and female believers (muslims, believers, devout, truthful, patient, humble,
-    charitable, fasting, chaste, remembering) promised equal reward (Paired masculine and feminine lists:
-    wə-nibbəʾû bənêḵem û-ḇənôṯêḵem ... wə-ḡam ʿal-hā-ʿăḇāḏîm wə-ʿal-ha-ššəp̄āḥôṯ vs. inna l-muslimīna
-    wa-l-muslimāti wa-l-muʾminīna wa-l-muʾmināt ... aʿadda llāhu lahum maghfiratan. Joel gives both sexes
-    the spirit, the Quran gives both the same reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַ֥ם עַל הָֽעֲבָדִ֖ים וְעַל הַשְּׁפָח֑וֹת בַּיָּמִ֣ים הָהֵ֔מָּה אֶשְׁפּ֖וֹךְ אֶת רוּחִֽי
-- tradition: islam
-  ref: Quran 33:35
-  note: Paired list of male and female believers (muslims, believers, devout, truthful, patient, humble,
-    charitable, fasting, chaste, remembering) promised equal reward
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ
-    وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ
-    وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ
-    وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. Paired masculine and feminine lists: wə-nibbəʾû bənêḵem û-ḇənôṯêḵem ... wə-ḡam ʿal-hā-ʿăḇāḏîm
-    wə-ʿal-ha-ššəp̄āḥôṯ vs. inna l-muslimīna wa-l-muslimāti wa-l-muʾminīna wa-l-muʾmināt ... aʿadda llāhu
-    lahum maghfiratan. Joel gives both sexes the spirit, the Quran gives both the same reward.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Paired list of male and female believers (muslims, believers, devout,
     truthful, patient, humble, charitable, fasting, chaste, remembering) promised equal reward (weight
@@ -81,6 +46,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Paired list of male and female believers (muslims, believers, devout, truthful, patient, humble,
+  charitable, fasting, chaste, remembering) promised equal reward
+kinds:
+- echo
+units:
+- id: hb-joel-3-spirit-poured
+  title: The spirit poured on all flesh and signs before the Day
+  tradition: judaism
+- id: quran-33-prophets-wives
+  title: The prophet's wives, the people of the House, and the believers men and women
+  tradition: islam
+matches:
+- kind: echo
+  label: Paired list of male and female believers (muslims, believers, devout, truthful, patient, humble,
+    charitable, fasting, chaste, remembering) promised equal reward
+  note: 'Paired masculine and feminine lists: wə-nibbəʾû bənêḵem û-ḇənôṯêḵem ... wə-ḡam ʿal-hā-ʿăḇāḏîm
+    wə-ʿal-ha-ššəp̄āḥôṯ vs. inna l-muslimīna wa-l-muslimāti wa-l-muʾminīna wa-l-muʾmināt ... aʿadda llāhu
+    lahum maghfiratan. Joel gives both sexes the spirit, the Quran gives both the same reward.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 3:1
+      lang: he
+      text: וְהָיָ֣ה אַֽחֲרֵי כֵ֗ן אֶשְׁפּ֤וֹךְ אֶת רוּחִי֙ עַל כָּל בָּשָׂ֔ר וְנִבְּא֖וּ בְּנֵיכֶ֣ם וּבְנֽוֹתֵיכֶ֑ם
+        זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן בַּח֣וּרֵיכֶ֔ם חֶזְיֹנ֖וֹת יִרְאֽוּ
+    - ref: Joel 3:2
+      lang: he
+      text: וְגַ֥ם עַל הָֽעֲבָדִ֖ים וְעַל הַשְּׁפָח֑וֹת בַּיָּמִ֣ים הָהֵ֔מָּה אֶשְׁפּ֖וֹךְ אֶת רוּחִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 33:35
+      lang: ar
+      text: إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ
+        وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ
+        وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ
+        وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً
+        وَأَجْرًا عَظِيمًا
 ---
 
 ## Questions

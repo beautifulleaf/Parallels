@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-26-curses-vs-quran-3-community
 title: Covenant curses, exile, and remembered covenant ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: humiliation is stamped on them wherever found except under a
-  rope from god and a rope from men.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - humiliation-except-by-rope-of-god-and-men
-passages:
-- tradition: judaism
-  ref: Lev 26:44
-  note: 'Humiliation is stamped on them wherever found except under a rope from God and a rope from men
-    (Lev 26:44 wĕ-ʾap gam zōʾt bihyôtām bĕ-ʾereṣ ʾōyĕbêhem lōʾ mĕʾastîm ... lĕhāpēr bĕrîtî ʾittām: even
-    in their enemies'' land God will not reject them or break his covenant; Q 3:112 ḍuribat ʿalayhimu
-    dh-dhillatu ayna mā thuqifū illā bi-ḥablin mina llāhi wa-ḥablin mina n-nāsi: humiliation stamped on
-    them wherever they are found, except under a bond (rope) from God and from men. A punished people
-    with God''s tie to them kept in both.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַף גַּם זֹ֠את בִּֽהְיוֹתָ֞ם בְּאֶ֣רֶץ אֹֽיְבֵיהֶ֗ם לֹֽא מְאַסְתִּ֤ים וְלֹֽא גְעַלְתִּים֙ לְכַלֹּתָ֔ם
-    לְהָפֵ֥ר בְּרִיתִ֖י אִתָּ֑ם כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיהֶֽם
-- tradition: islam
-  ref: Quran 3:112
-  note: Humiliation is stamped on them wherever found except under a rope from God and a rope from men
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ مِّنَ
-    ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ
-    كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا
-    عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Lev 26:44 wĕ-ʾap gam zōʾt bihyôtām bĕ-ʾereṣ ʾōyĕbêhem lōʾ mĕʾastîm ... lĕhāpēr bĕrîtî ʾittām:
-    even in their enemies'' land God will not reject them or break his covenant; Q 3:112 ḍuribat ʿalayhimu
-    dh-dhillatu ayna mā thuqifū illā bi-ḥablin mina llāhi wa-ḥablin mina n-nāsi: humiliation stamped on
-    them wherever they are found, except under a bond (rope) from God and from men. A punished people
-    with God''s tie to them kept in both.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humiliation is stamped on them wherever found except under a rope
     from God and a rope from men (weight 6.7). Pair score 6.7.'
@@ -75,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humiliation is stamped on them wherever found except under a rope from God and a rope from men
+kinds:
+- echo
+units:
+- id: hb-lev-26-curses
+  title: Covenant curses, exile, and remembered covenant
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Humiliation is stamped on them wherever found except under a rope from God and a rope from men
+  note: 'Lev 26:44 wĕ-ʾap gam zōʾt bihyôtām bĕ-ʾereṣ ʾōyĕbêhem lōʾ mĕʾastîm ... lĕhāpēr bĕrîtî ʾittām:
+    even in their enemies'' land God will not reject them or break his covenant; Q 3:112 ḍuribat ʿalayhimu
+    dh-dhillatu ayna mā thuqifū illā bi-ḥablin mina llāhi wa-ḥablin mina n-nāsi: humiliation stamped on
+    them wherever they are found, except under a bond (rope) from God and from men. A punished people
+    with God''s tie to them kept in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:44
+      lang: he
+      text: וְאַף גַּם זֹ֠את בִּֽהְיוֹתָ֞ם בְּאֶ֣רֶץ אֹֽיְבֵיהֶ֗ם לֹֽא מְאַסְתִּ֤ים וְלֹֽא גְעַלְתִּים֙
+        לְכַלֹּתָ֔ם לְהָפֵ֥ר בְּרִיתִ֖י אִתָּ֑ם כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:112
+      lang: ar
+      text: ضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ أَيْنَ مَا ثُقِفُوٓا۟ إِلَّا بِحَبْلٍ مِّنَ ٱللَّهِ وَحَبْلٍ
+        مِّنَ ٱلنَّاسِ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ وَضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ
+        كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ ذَٰلِكَ
+        بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

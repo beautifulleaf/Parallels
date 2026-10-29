@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-29-noah-950
 title: The Flood (full read) ↔ Noah remains a thousand years less fifty among his people
-summary: 'These two units share 1 motifs: why god destroyed a generation or a people [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,43 +13,9 @@ layers:
 - motif
 motifs:
 - cause-of-the-destruction-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 6:13
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (Cause of the flood:
-    Gen 6:13 kî mālʾâ hā-ʾāreṣ ḥāmās, the earth filled with violence, and God''s own decision (hinnî mašḥîtām);
-    Q 23:26-27: they are drowned for rejecting the messenger (bimā kadhdhabūni ... alladhīna ẓalamū innahum
-    mughraqūn), and Noah asks for it (rabbi nṣurnī).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 7:21
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (Cause of the flood:
-    Gen 6:13 kî mālʾâ hā-ʾāreṣ ḥāmās, the earth filled with violence, and God''s own decision (hinnî mašḥîtām);
-    Q 23:26-27: they are drowned for rejecting the messenger (bimā kadhdhabūni ... alladhīna ẓalamū innahum
-    mughraqūn), and Noah asks for it (rabbi nṣurnī).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: islam
-  ref: Quran 29:14
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (fa-akhadhahumu ṭ-ṭūfānu
-    wa-hum ẓālimūna ~ kî mālʾâ hā-ʾāreṣ ḥāmās ... wa-yyimmaḥ ʾet kol hay-yəqûm: the flood (ṭūfān / mabbûl)
-    takes those who did wrong. Genesis gives the earth''s violence, all flesh perishing; the Quran gives
-    his people''s wrongdoing after centuries of being warned (arsalnā Nūḥan ilā qawmihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا
-    فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. fa-akhadhahumu ṭ-ṭūfānu wa-hum ẓālimūna ~ kî mālʾâ hā-ʾāreṣ ḥāmās ... wa-yyimmaḥ ʾet kol
-    hay-yəqûm: the flood (ṭūfān / mabbûl) takes those who did wrong. Genesis gives the earth''s violence,
-    all flesh perishing; the Quran gives his people''s wrongdoing after centuries of being warned (arsalnā
-    Nūḥan ilā qawmihi).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why God destroyed a generation or a people [divergence between the
     texts] (weight 6.0). Pair score 6.0.'
@@ -77,6 +42,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Why God destroyed a generation or a people
+kinds:
+- divergence
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-29-noah-950
+  title: Noah remains a thousand years less fifty among his people
+  tradition: islam
+matches:
+- kind: divergence
+  label: Why God destroyed a generation or a people
+  note: 'fa-akhadhahumu ṭ-ṭūfānu wa-hum ẓālimūna ~ kî mālʾâ hā-ʾāreṣ ḥāmās ... wa-yyimmaḥ ʾet kol hay-yəqûm:
+    the flood (ṭūfān / mabbûl) takes those who did wrong. Genesis gives the earth''s violence, all flesh
+    perishing; the Quran gives his people''s wrongdoing after centuries of being warned (arsalnā Nūḥan
+    ilā qawmihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 29:14
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ
+        عَامًا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمْ ظَٰلِمُونَ
 ---
 
 ## Questions

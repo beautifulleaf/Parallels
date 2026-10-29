@@ -2,8 +2,7 @@
 id: motif-hb-ezek-37-dry-bones-vs-quran-17-polemic-and-resurrection
 title: The valley of dry bones ↔ Daughters of God, all things glorify him, bones and dust, the cursed
   tree (Surah 17:40-60)
-summary: 'These two units share 1 motifs: deniers ask ''when we are bones and fragments, shall we be raised
-  as a new creation?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,50 +15,9 @@ layers:
 - motif
 motifs:
 - resurrection-from-bones-and-dust-doubted
-passages:
-- tradition: judaism
-  ref: Ezek 37:3
-  note: 'Deniers ask ''When we are bones and fragments, shall we be raised as a new creation?'' (hătiḥyênâ
-    hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman wa-rufātan a-innā
-    la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again? Ezek''s doubters
-    are the exiles in despair, and the bones are a figure for national restoration. Q''s doubters are
-    deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה אַתָּ֥ה
-    יָדָֽעְתָּ
-- tradition: judaism
-  ref: Ezek 37:5
-  note: 'Deniers ask ''When we are bones and fragments, shall we be raised as a new creation?'' (hătiḥyênâ
-    hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman wa-rufātan a-innā
-    la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again? Ezek''s doubters
-    are the exiles in despair, and the bones are a figure for national restoration. Q''s doubters are
-    deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם
-- tradition: islam
-  ref: Quran 17:49
-  note: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?' (ʿiẓāman
-    wa-rufātan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
-- tradition: islam
-  ref: Quran 17:51
-  note: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?' (ʿiẓāman
-    wa-rufātan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ خَلْقًا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ فَسَيَقُولُونَ مَن يُعِيدُنَا قُلِ ٱلَّذِى فَطَرَكُمْ
-    أَوَّلَ مَرَّةٍ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ قُلْ عَسَىٰٓ أَن يَكُونَ
-    قَرِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. hătiḥyênâ hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman
-    wa-rufātan a-innā la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again?
-    Ezek''s doubters are the exiles in despair, and the bones are a figure for national restoration. Q''s
-    doubters are deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers ask ''When we are bones and fragments, shall we be raised
     as a new creation?'' (weight 5.4). Pair score 5.4.'
@@ -96,6 +54,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'
+kinds:
+- parallel
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'
+  note: 'hătiḥyênâ hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman wa-rufātan
+    a-innā la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again? Ezek''s
+    doubters are the exiles in despair, and the bones are a figure for national restoration. Q''s doubters
+    are deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה
+        אַתָּ֥ה יָדָֽעְתָּ
+    - ref: Ezek 37:5
+      lang: he
+      text: כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם
+    - ref: Ezek 37:11
+      lang: he
+      text: וַיֹּאמֶר֮ אֵלַי֒ בֶּן אָדָ֕ם הָעֲצָמ֣וֹת הָאֵ֔לֶּה כָּל בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה
+        אֹמְרִ֗ים יָבְשׁ֧וּ עַצְמוֹתֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:49
+      lang: ar
+      text: وَقَالُوٓا۟ أَءِذَا كُنَّا عِظَٰمًا وَرُفَٰتًا أَءِنَّا لَمَبْعُوثُونَ خَلْقًا جَدِيدًا
+    - ref: Quran 17:51
+      lang: ar
+      text: أَوْ خَلْقًا مِّمَّا يَكْبُرُ فِى صُدُورِكُمْ فَسَيَقُولُونَ مَن يُعِيدُنَا قُلِ ٱلَّذِى فَطَرَكُمْ
+        أَوَّلَ مَرَّةٍ فَسَيُنْغِضُونَ إِلَيْكَ رُءُوسَهُمْ وَيَقُولُونَ مَتَىٰ هُوَ قُلْ عَسَىٰٓ أَن
+        يَكُونَ قَرِيبًا
 ---
 
 ## Questions

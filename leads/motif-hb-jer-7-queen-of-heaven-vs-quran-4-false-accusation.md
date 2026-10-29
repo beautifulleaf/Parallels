@@ -2,8 +2,7 @@
 id: motif-hb-jer-7-queen-of-heaven-vs-quran-4-false-accusation
 title: Do not pray for this people; cakes for the Queen of Heaven ↔ Guilt cast on the innocent and the
   Prophet who must not defend traitors
-summary: 'These two units share 1 motifs: god forbids the prophet to pray or intercede for the people,
-  for he will not hear.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-forbidden-to-intercede
-passages:
-- tradition: judaism
-  ref: Jer 7:16
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה אַל תִּתְפַּלֵּ֣ל בְּעַד הָעָ֣ם הַזֶּ֗ה וְאַל תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה
-    וְאַל תִּפְגַּע בִּ֑י כִּי אֵינֶ֥נִּי שֹׁמֵ֖עַ אֹתָֽךְ
-- tradition: islam
-  ref: Quran 4:107
-  note: 'God forbids the prophet to pray or intercede for the people, for he will not hear (God forbids
-    his prophet to plead for the guilty. Q: wa-lā tujādil ʿani lladhīna yakhtānūna anfusahum; fa-man yujādilu
-    llāha ʿanhum yawma l-qiyāmati. Jer: wəʾattāh ʾal-titpallēl bəʿad hāʿām hazzeh ... wəʾal-tifgaʿ-bî
-    kî-ʾênennî šōmēaʿ ʾōtākh. In Q the pleading is in a court case for named traitors; in Jer it is prayer
-    for the whole people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا
-    أَثِيمًا
-- tradition: islam
-  ref: Quran 4:109
-  note: 'God forbids the prophet to pray or intercede for the people, for he will not hear (God forbids
-    his prophet to plead for the guilty. Q: wa-lā tujādil ʿani lladhīna yakhtānūna anfusahum; fa-man yujādilu
-    llāha ʿanhum yawma l-qiyāmati. Jer: wəʾattāh ʾal-titpallēl bəʿad hāʿām hazzeh ... wəʾal-tifgaʿ-bî
-    kî-ʾênennî šōmēaʿ ʾōtākh. In Q the pleading is in a court case for named traitors; in Jer it is prayer
-    for the whole people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ
-    عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. God forbids his prophet to plead for the guilty. Q: wa-lā tujādil ʿani lladhīna yakhtānūna
-    anfusahum; fa-man yujādilu llāha ʿanhum yawma l-qiyāmati. Jer: wəʾattāh ʾal-titpallēl bəʿad hāʿām
-    hazzeh ... wəʾal-tifgaʿ-bî kî-ʾênennî šōmēaʿ ʾōtākh. In Q the pleading is in a court case for named
-    traitors; in Jer it is prayer for the whole people.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
     he will not hear (weight 5.4). Pair score 5.4.'
@@ -76,6 +42,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God forbids the prophet to pray or intercede for the people, for he will not hear
+kinds:
+- parallel
+units:
+- id: hb-jer-7-queen-of-heaven
+  title: Do not pray for this people; cakes for the Queen of Heaven
+  tradition: judaism
+- id: quran-4-false-accusation
+  title: Guilt cast on the innocent and the Prophet who must not defend traitors
+  tradition: islam
+matches:
+- kind: parallel
+  label: God forbids the prophet to pray or intercede for the people, for he will not hear
+  note: 'God forbids his prophet to plead for the guilty. Q: wa-lā tujādil ʿani lladhīna yakhtānūna anfusahum;
+    fa-man yujādilu llāha ʿanhum yawma l-qiyāmati. Jer: wəʾattāh ʾal-titpallēl bəʿad hāʿām hazzeh ...
+    wəʾal-tifgaʿ-bî kî-ʾênennî šōmēaʿ ʾōtākh. In Q the pleading is in a court case for named traitors;
+    in Jer it is prayer for the whole people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 7:16
+      lang: he
+      text: וְאַתָּ֞ה אַל תִּתְפַּלֵּ֣ל בְּעַד הָעָ֣ם הַזֶּ֗ה וְאַל תִּשָּׂ֧א בַעֲדָ֛ם רִנָּ֥ה וּתְפִלָּ֖ה
+        וְאַל תִּפְגַּע בִּ֑י כִּי אֵינֶ֥נִּי שֹׁמֵ֖עַ אֹתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:107
+      lang: ar
+      text: وَلَا تُجَٰدِلْ عَنِ ٱلَّذِينَ يَخْتَانُونَ أَنفُسَهُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ
+        خَوَّانًا أَثِيمًا
+    - ref: Quran 4:109
+      lang: ar
+      text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ جَٰدَلْتُمْ عَنْهُمْ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا فَمَن يُجَٰدِلُ ٱللَّهَ
+        عَنْهُمْ يَوْمَ ٱلْقِيَٰمَةِ أَم مَّن يَكُونُ عَلَيْهِمْ وَكِيلًا
 ---
 
 ## Questions

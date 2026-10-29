@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-3-annunciation-jesus
 title: Job - 'Your hands fashioned me'; land of darkness ↔ The annunciation and the mission of Jesus
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,33 +13,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 3:59
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن
-    فَيَكُونُ
-- tradition: islam
-  ref: Quran 3:49
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ
-    أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ
-    وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ
-    وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Job 10:9 kî ka-ḥōmer ʿăśîtānî wĕ-ʾel ʿāpār tĕšîbēnî; Q 3:59 khalaqahu min turābin: man made
-    of clay/dust.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -74,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- echo
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-3-annunciation-jesus
+  title: The annunciation and the mission of Jesus
+  tradition: islam
+matches:
+- kind: echo
+  label: First human shaped from dust, clay or soil
+  note: 'Job 10:9 kî ka-ḥōmer ʿăśîtānî wĕ-ʾel ʿāpār tĕšîbēnî; Q 3:59 khalaqahu min turābin: man made of
+    clay/dust.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 3:59
+      lang: ar
+      text: إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ
+        كُن فَيَكُونُ
 ---
 
 ## Questions

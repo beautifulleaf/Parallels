@@ -2,8 +2,7 @@
 id: motif-hb-prov-18-sayings-vs-quran-28-qarun
 title: Sayings on the tongue, the strong tower and the lot ↔ Qarun's treasures and his swallowing by the
   earth; closing
-summary: 'These two units share 1 motifs: the rich man''s wealth is his strong city; the poverty of the
-  poor is their ruin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - wealth-as-fortified-city
-passages:
-- tradition: judaism
-  ref: Prov 18:11
-  note: The rich man's wealth is his strong city; the poverty of the poor is their ruin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹן עָ֭שִׁיר קִרְיַ֣ת עֻזּ֑וֹ וּכְחוֹמָ֥ה נִ֝שְׂגָּבָ֗ה בְּמַשְׂכִּיתֽוֹ
-- tradition: islam
-  ref: Quran 28:78
-  note: The rich man's wealth is his strong city; the poverty of the poor is their ruin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ
-    مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا وَلَا يُسْـَٔلُ
-    عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ
-- tradition: islam
-  ref: Quran 28:81
-  note: The rich man's wealth is his strong city; the poverty of the poor is their ruin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ
-    وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-mā kāna lahu min fiʾatin yanṣurūnahu min dūni llāhi ~ hôn ʿāšîr qiryat ʿuzzô û-khəḥômâ niśgāvâ
-    bə-maśkîtô: wealth imagined as a fortress; Proverbs adds ''in his imagination'', and the Quran shows
-    it failing when the earth opens.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man''s wealth is his strong city; the poverty of the poor
     is their ruin (weight 6.3). Pair score 6.3.'
@@ -74,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The rich man's wealth is his strong city; the poverty of the poor is their ruin
+kinds:
+- echo
+units:
+- id: hb-prov-18-sayings
+  title: Sayings on the tongue, the strong tower and the lot
+  tradition: judaism
+- id: quran-28-qarun
+  title: Qarun's treasures and his swallowing by the earth; closing
+  tradition: islam
+matches:
+- kind: echo
+  label: The rich man's wealth is his strong city; the poverty of the poor is their ruin
+  note: 'fa-mā kāna lahu min fiʾatin yanṣurūnahu min dūni llāhi ~ hôn ʿāšîr qiryat ʿuzzô û-khəḥômâ niśgāvâ
+    bə-maśkîtô: wealth imagined as a fortress; Proverbs adds ''in his imagination'', and the Quran shows
+    it failing when the earth opens.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 18:11
+      lang: he
+      text: ה֣וֹן עָ֭שִׁיר קִרְיַ֣ת עֻזּ֑וֹ וּכְחוֹמָ֥ה נִ֝שְׂגָּבָ֗ה בְּמַשְׂכִּיתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:78
+      lang: ar
+      text: قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلْمٍ عِندِىٓ أَوَلَمْ يَعْلَمْ أَنَّ ٱللَّهَ قَدْ أَهْلَكَ
+        مِن قَبْلِهِۦ مِنَ ٱلْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا وَلَا يُسْـَٔلُ
+        عَن ذُنُوبِهِمُ ٱلْمُجْرِمُونَ
+    - ref: Quran 28:81
+      lang: ar
+      text: فَخَسَفْنَا بِهِۦ وَبِدَارِهِ ٱلْأَرْضَ فَمَا كَانَ لَهُۥ مِن فِئَةٍ يَنصُرُونَهُۥ مِن دُونِ
+        ٱللَّهِ وَمَا كَانَ مِنَ ٱلْمُنتَصِرِينَ
 ---
 
 ## Questions

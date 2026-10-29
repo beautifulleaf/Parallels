@@ -2,8 +2,7 @@
 id: motif-hb-deut-23-assembly-camp-vs-quran-24-household-etiquette
 title: Admission to the assembly; camp purity; slaves, interest, vows ↔ Times of privacy, elderly women,
   eating in kin houses, leave from the messenger
-summary: 'These two units share 1 motifs: you may eat your fill in a neighbor''s vineyard or pluck ears
-  by hand, but not carry away or use a sickle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - eat-grapes-in-neighbors-vineyard
-passages:
-- tradition: judaism
-  ref: Deut 23:25
-  note: You may eat your fill in a neighbor's vineyard or pluck ears by hand, but not carry away or use
-    a sickle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י תָבֹא֙ בְּכֶ֣רֶם רֵעֶ֔ךָ וְאָכַלְתָּ֧ עֲנָבִ֛ים כְּנַפְשְׁךָ֖ שָׂבְעֶ֑ךָ וְאֶֽל כֶּלְיְךָ֖
-    לֹ֥א תִתֵּֽן
-- tradition: judaism
-  ref: Deut 23:26
-  note: You may eat your fill in a neighbor's vineyard or pluck ears by hand, but not carry away or use
-    a sickle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י תָבֹא֙ בְּקָמַ֣ת רֵעֶ֔ךָ וְקָטַפְתָּ֥ מְלִילֹ֖ת בְּיָדֶ֑ךָ וְחֶרְמֵשׁ֙ לֹ֣א תָנִ֔יף עַ֖ל
-    קָמַ֥ת רֵעֶֽךָ
-- tradition: islam
-  ref: Quran 24:61
-  note: 'You may eat your fill in a neighbor''s vineyard or pluck ears by hand, but not carry away or
-    use a sickle (laysa ʿalaykum junāḥun an taʾkulū ... aw mā malaktum mafātiḥahu aw ṣadīqikum ~ kî tāvōʾ
-    bə-kerem rēʿekā wə-ʾākhaltā ʿănāvîm kə-nafšəkā śovʿekā wə-ʾel kelyəkā lōʾ tittēn: permission to eat
-    from what belongs to a neighbor or friend. Deut limits it to eating on the spot without carrying anything
-    away; the Quran lists the houses where one may eat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
-    وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ
-    أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ
-    بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ
-    أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم
-    بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ
-    يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. laysa ʿalaykum junāḥun an taʾkulū ... aw mā malaktum mafātiḥahu aw ṣadīqikum ~ kî tāvōʾ bə-kerem
-    rēʿekā wə-ʾākhaltā ʿănāvîm kə-nafšəkā śovʿekā wə-ʾel kelyəkā lōʾ tittēn: permission to eat from what
-    belongs to a neighbor or friend. Deut limits it to eating on the spot without carrying anything away;
-    the Quran lists the houses where one may eat.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: You may eat your fill in a neighbor''s vineyard or pluck ears by
     hand, but not carry away or use a sickle (weight 6.7). Pair score 6.7.'
@@ -87,6 +50,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: You may eat your fill in a neighbor's vineyard or pluck ears by hand, but not carry away or use
+  a sickle
+kinds:
+- echo
+units:
+- id: hb-deut-23-assembly-camp
+  title: Admission to the assembly; camp purity; slaves, interest, vows
+  tradition: judaism
+- id: quran-24-household-etiquette
+  title: Times of privacy, elderly women, eating in kin houses, leave from the messenger
+  tradition: islam
+matches:
+- kind: echo
+  label: You may eat your fill in a neighbor's vineyard or pluck ears by hand, but not carry away or use
+    a sickle
+  note: 'laysa ʿalaykum junāḥun an taʾkulū ... aw mā malaktum mafātiḥahu aw ṣadīqikum ~ kî tāvōʾ bə-kerem
+    rēʿekā wə-ʾākhaltā ʿănāvîm kə-nafšəkā śovʿekā wə-ʾel kelyəkā lōʾ tittēn: permission to eat from what
+    belongs to a neighbor or friend. Deut limits it to eating on the spot without carrying anything away;
+    the Quran lists the houses where one may eat.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 23:25
+      lang: he
+      text: כִּ֤י תָבֹא֙ בְּכֶ֣רֶם רֵעֶ֔ךָ וְאָכַלְתָּ֧ עֲנָבִ֛ים כְּנַפְשְׁךָ֖ שָׂבְעֶ֑ךָ וְאֶֽל כֶּלְיְךָ֖
+        לֹ֥א תִתֵּֽן
+    - ref: Deut 23:26
+      lang: he
+      text: כִּ֤י תָבֹא֙ בְּקָמַ֣ת רֵעֶ֔ךָ וְקָטַפְתָּ֥ מְלִילֹ֖ת בְּיָדֶ֑ךָ וְחֶרְמֵשׁ֙ לֹ֣א תָנִ֔יף
+        עַ֖ל קָמַ֥ת רֵעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:61
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
+        وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ
+        أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ
+        أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم
+        مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا
+        فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً
+        طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 ---
 
 ## Questions

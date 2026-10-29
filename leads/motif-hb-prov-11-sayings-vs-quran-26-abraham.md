@@ -2,7 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-26-abraham
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ Abraham's argument against idols
   and his prayer
-summary: 'These two units share 1 motifs: wealth does not profit on the day of wrath.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - wealth-useless-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Prov 11:4
-  note: Wealth does not profit on the day of wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
-- tradition: islam
-  ref: Quran 26:88
-  note: 'Wealth does not profit on the day of wrath (yawma lā yanfaʿu mālun wa-lā banūna ~ lōʾ yôʿîl hôn
-    bə-yôm ʿevrâ: wealth does not profit (nafaʿa / hôʿîl) on the day of judgment or wrath. Proverbs: righteousness
-    saves (û-ṣədāqâ taṣṣîl mim-māwet); Quran: only a sound heart (26:89). The Quran adds sons.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yawma lā yanfaʿu mālun wa-lā banūna ~ lōʾ yôʿîl hôn bə-yôm ʿevrâ: wealth does not profit
-    (nafaʿa / hôʿîl) on the day of judgment or wrath. Proverbs: righteousness saves (û-ṣədāqâ taṣṣîl mim-māwet);
-    Quran: only a sound heart (26:89). The Quran adds sons.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wealth does not profit on the day of wrath (weight 5.4). Pair score
     5.4.'
@@ -71,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wealth does not profit on the day of wrath
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wealth does not profit on the day of wrath
+  note: 'yawma lā yanfaʿu mālun wa-lā banūna ~ lōʾ yôʿîl hôn bə-yôm ʿevrâ: wealth does not profit (nafaʿa
+    / hôʿîl) on the day of judgment or wrath. Proverbs: righteousness saves (û-ṣədāqâ taṣṣîl mim-māwet);
+    Quran: only a sound heart (26:89). The Quran adds sons.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:4
+      lang: he
+      text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 26:88
+      lang: ar
+      text: يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
 ---
 
 ## Questions

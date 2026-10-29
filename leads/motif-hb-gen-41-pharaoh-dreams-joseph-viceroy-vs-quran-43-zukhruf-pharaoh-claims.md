@@ -2,7 +2,7 @@
 id: motif-hb-gen-41-pharaoh-dreams-joseph-viceroy-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Pharaoh''s dreams and Joseph''s elevation ↔ Moses before Pharaoh: the laughing courtiers, the
   rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 1 motifs: king invests the hero with ring, linen and chariot.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - investiture-ring-chariot
-passages:
-- tradition: judaism
-  ref: Gen 41:42
-  note: King invests the hero with ring, linen and chariot (signet ring, linen, gold chain, second chariot,
-    cry 'avrekh')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֨סַר פַּרְעֹ֤ה אֶת טַבַּעְתּוֹ֙ מֵעַ֣ל יָד֔וֹ וַיִּתֵּ֥ן אֹתָ֖הּ עַל יַ֣ד יוֹסֵ֑ף וַיַּלְבֵּ֤שׁ
-    אֹתוֹ֙ בִּגְדֵי שֵׁ֔שׁ וַיָּ֛שֶׂם רְבִ֥ד הַזָּהָ֖ב עַל צַוָּארֽוֹ
-- tradition: judaism
-  ref: Gen 41:43
-  note: King invests the hero with ring, linen and chariot (signet ring, linen, gold chain, second chariot,
-    cry 'avrekh')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְכֵּ֣ב אֹת֗וֹ בְּמִרְכֶּ֤בֶת הַמִּשְׁנֶה֙ אֲשֶׁר ל֔וֹ וַיִּקְרְא֥וּ לְפָנָ֖יו אַבְרֵ֑ךְ
-    וְנָת֣וֹן אֹת֔וֹ עַ֖ל כָּל אֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 43:53
-  note: 'King invests the hero with ring, linen and chariot (Gold insignia from Pharaoh as the mark of
-    a man of standing: wa-yāśem rəḇiḏ haz-zāhāḇ ʿal ṣawwārô (Pharaoh puts the gold chain on Joseph) vs.
-    fa-lawlā ulqiya ʿalayhi aswiratun min dhahabin aw jāʾa maʿahu l-malāʾikatu muqtarinīn (why are no
-    gold bracelets cast on him?). Lead only: the Quran''s Pharaoh expects a true envoy to come decorated,
-    as Joseph was decorated by a Pharaoh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Gold insignia from Pharaoh as the mark of a man of standing: wa-yāśem rəḇiḏ haz-zāhāḇ ʿal ṣawwārô
-    (Pharaoh puts the gold chain on Joseph) vs. fa-lawlā ulqiya ʿalayhi aswiratun min dhahabin aw jāʾa
-    maʿahu l-malāʾikatu muqtarinīn (why are no gold bracelets cast on him?). Lead only: the Quran''s Pharaoh
-    expects a true envoy to come decorated, as Joseph was decorated by a Pharaoh.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King invests the hero with ring, linen and chariot (weight 6.0).
     Pair score 6.0.'
@@ -83,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: King invests the hero with ring, linen and chariot
+kinds:
+- echo
+units:
+- id: hb-gen-41-pharaoh-dreams-joseph-viceroy
+  title: Pharaoh's dreams and Joseph's elevation
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: echo
+  label: King invests the hero with ring, linen and chariot
+  note: 'Gold insignia from Pharaoh as the mark of a man of standing: wa-yāśem rəḇiḏ haz-zāhāḇ ʿal ṣawwārô
+    (Pharaoh puts the gold chain on Joseph) vs. fa-lawlā ulqiya ʿalayhi aswiratun min dhahabin aw jāʾa
+    maʿahu l-malāʾikatu muqtarinīn (why are no gold bracelets cast on him?). Lead only: the Quran''s Pharaoh
+    expects a true envoy to come decorated, as Joseph was decorated by a Pharaoh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 41:42
+      lang: he
+      text: וַיָּ֨סַר פַּרְעֹ֤ה אֶת טַבַּעְתּוֹ֙ מֵעַ֣ל יָד֔וֹ וַיִּתֵּ֥ן אֹתָ֖הּ עַל יַ֣ד יוֹסֵ֑ף וַיַּלְבֵּ֤שׁ
+        אֹתוֹ֙ בִּגְדֵי שֵׁ֔שׁ וַיָּ֛שֶׂם רְבִ֥ד הַזָּהָ֖ב עַל צַוָּארֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 43:53
+      lang: ar
+      text: فَلَوْلَآ أُلْقِىَ عَلَيْهِ أَسْوِرَةٌ مِّن ذَهَبٍ أَوْ جَآءَ مَعَهُ ٱلْمَلَٰٓئِكَةُ مُقْتَرِنِينَ
 ---
 
 ## Questions

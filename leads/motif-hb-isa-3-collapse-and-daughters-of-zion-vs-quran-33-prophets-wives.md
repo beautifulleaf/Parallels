@@ -2,8 +2,7 @@
 id: motif-hb-isa-3-collapse-and-daughters-of-zion-vs-quran-33-prophets-wives
 title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
   one man ↔ The prophet's wives, the people of the House, and the believers men and women
-summary: 'These two units share 1 motifs: the prophet''s wives are to stay in their houses, not soften
-  their speech, and not display themselves as in the former jahiliyya.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-wives-stay-in-houses
-passages:
-- tradition: judaism
-  ref: Isa 3:16
-  note: 'The prophet''s wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya (gāḇəhû bənôṯ ṣiyyôn wa-ttēlaḵnâ nəṭûyôṯ gārôn û-məśaqqərôṯ ʿênāyim ...
-    û-ḇə-raḡlêhem təʿakkasnâ vs. wa-lā tabarrajna tabarruja l-jāhiliyyati l-ūlā: women''s display of their
-    finery in public, condemned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת גָּר֔וֹן
-    וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
-- tradition: islam
-  ref: Quran 33:32
-  note: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ
-    بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا
-- tradition: islam
-  ref: Quran 33:33
-  note: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
-    as in the former Jahiliyya
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ
-    وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ
-    ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. gāḇəhû bənôṯ ṣiyyôn wa-ttēlaḵnâ nəṭûyôṯ gārôn û-məśaqqərôṯ ʿênāyim ... û-ḇə-raḡlêhem təʿakkasnâ
-    vs. wa-lā tabarrajna tabarruja l-jāhiliyyati l-ūlā: women''s display of their finery in public, condemned.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives are to stay in their houses, not soften their
     speech, and not display themselves as in the former Jahiliyya (weight 6.3). Pair score 6.3.'
@@ -78,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
+  as in the former Jahiliyya
+kinds:
+- echo
+units:
+- id: hb-isa-3-collapse-and-daughters-of-zion
+  title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
+    one man
+  tradition: judaism
+- id: quran-33-prophets-wives
+  title: The prophet's wives, the people of the House, and the believers men and women
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet's wives are to stay in their houses, not soften their speech, and not display themselves
+    as in the former Jahiliyya
+  note: 'gāḇəhû bənôṯ ṣiyyôn wa-ttēlaḵnâ nəṭûyôṯ gārôn û-məśaqqərôṯ ʿênāyim ... û-ḇə-raḡlêhem təʿakkasnâ
+    vs. wa-lā tabarrajna tabarruja l-jāhiliyyati l-ūlā: women''s display of their finery in public, condemned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 3:16
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת
+        גָּר֔וֹן וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
+  - tradition: islam
+    passages:
+    - ref: Quran 33:33
+      lang: ar
+      text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ
+        ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ
+        عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 ---
 
 ## Questions

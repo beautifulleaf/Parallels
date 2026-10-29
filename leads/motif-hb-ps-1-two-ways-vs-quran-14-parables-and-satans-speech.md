@@ -2,10 +2,7 @@
 id: motif-hb-ps-1-two-ways-vs-quran-14-parables-and-satans-speech
 title: Psalm 1 - the two ways ↔ Ashes in the wind, Satan disowns his followers, the good and bad tree
   (Surah 14:18-34)
-summary: 'These two units share 3 motifs: the deeds of unbelievers are like ashes blown by the wind on
-  a stormy day, the righteous man is like a tree planted by streams of water, bearing fruit in season,
-  leaf never withering [divergence between the texts], the righteous man is like a tree planted by streams
-  of water, bearing fruit in season, leaf never withering.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,94 +15,17 @@ traditions:
 layers:
 - motif
 motifs:
-- deeds-like-ashes-in-wind
 - righteous-as-tree-by-water-as-divergence
+- deeds-like-ashes-in-wind
 - righteous-as-tree-by-water
-passages:
-- tradition: judaism
-  ref: Ps 1:4
-  note: 'The deeds of unbelievers are like ashes blown by the wind on a stormy day (aʿmāluhum ka-ramādini
-    shtaddat bihi r-rīḥu fī yawmin ʿāṣif; lōʾ-kēn hārəšāʿîm kî ʾim-kammōṣ ʾăšer-tiddəpennû rûaḥ: what
-    the wicked leave is blown away by the wind (chaff in Ps, ashes in Q). In Q it is their deeds; in Ps
-    the wicked themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
-- tradition: islam
-  ref: Quran 14:18
-  note: The deeds of unbelievers are like ashes blown by the wind on a stormy day
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ أَعْمَٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى يَوْمٍ
-    عَاصِفٍ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
-- tradition: judaism
-  ref: Ps 1:3
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering [divergence between the texts] (kaʿēṣ šātûl ʿal-palgê māyim ʾăšer piryô yittēn bəʿittô;
-    ka-shajaratin ṭayyibatin aṣluhā thābitun wa-farʿuhā fī s-samāʾ tuʾtī ukulahā kulla ḥīn. The tree that
-    bears fruit in season. In Ps the tree is the righteous man; in Q it is the good word (kalimatan ṭayyibatan).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ
-    לֹֽא יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר יַעֲשֶׂ֣ה יַצְלִֽיחַ
-- tradition: islam
-  ref: Quran 14:24
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering [divergence between the texts] (kaʿēṣ šātûl ʿal-palgê māyim ʾăšer piryô yittēn bəʿittô;
-    ka-shajaratin ṭayyibatin aṣluhā thābitun wa-farʿuhā fī s-samāʾ tuʾtī ukulahā kulla ḥīn. The tree that
-    bears fruit in season. In Ps the tree is the righteous man; in Q it is the good word (kalimatan ṭayyibatan).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-    وَفَرْعُهَا فِى ٱلسَّمَآءِ
-- tradition: islam
-  ref: Quran 14:25
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering [divergence between the texts] (kaʿēṣ šātûl ʿal-palgê māyim ʾăšer piryô yittēn bəʿittô;
-    ka-shajaratin ṭayyibatin aṣluhā thābitun wa-farʿuhā fī s-samāʾ tuʾtī ukulahā kulla ḥīn. The tree that
-    bears fruit in season. In Ps the tree is the righteous man; in Q it is the good word (kalimatan ṭayyibatan).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ
-    يَتَذَكَّرُونَ
-- tradition: judaism
-  ref: Ps 1:3
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ
-    לֹֽא יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר יַעֲשֶׂ֣ה יַצְלִֽיחַ
-- tradition: islam
-  ref: Quran 14:24
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-    وَفَرْعُهَا فِى ٱلسَّمَآءِ
-- tradition: islam
-  ref: Quran 14:25
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ
-    يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. kaʿēṣ šātûl ʿal-palgê māyim ʾăšer piryô yittēn bəʿittô; ka-shajaratin ṭayyibatin
-    aṣluhā thābitun wa-farʿuhā fī s-samāʾ tuʾtī ukulahā kulla ḥīn. The tree that bears fruit in season.
-    In Ps the tree is the righteous man; in Q it is the good word (kalimatan ṭayyibatan). aʿmāluhum ka-ramādini
-    shtaddat bihi r-rīḥu fī yawmin ʿāṣif; lōʾ-kēn hārəšāʿîm kî ʾim-kammōṣ ʾăšer-tiddəpennû rûaḥ: what
-    the wicked leave is blown away by the wind (chaff in Ps, ashes in Q). In Q it is their deeds; in Ps
-    the wicked themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The deeds of unbelievers are like ashes blown by the wind on a stormy
-    day (weight 6.7); The righteous man is like a tree planted by streams of water, bearing fruit in season,
-    leaf never withering [divergence between the texts] (weight 6.7); The righteous man is like a tree
-    planted by streams of water, bearing fruit in season, leaf never withering (weight 6.3). Pair score
-    19.7.'
+- text: 'Shared motifs, rarest first: The righteous man is like a tree planted by streams of water, bearing
+    fruit in season, leaf never withering [divergence between the texts] (weight 6.7); The deeds of unbelievers
+    are like ashes blown by the wind on a stormy day (weight 6.7); The righteous man is like a tree planted
+    by streams of water, bearing fruit in season, leaf never withering (weight 6.3). Pair score 19.7.'
   basis: reading
 - text: 'Only in Psalm 1 - the two ways: Contrast of the way of the righteous, which God knows, and the
     way of the wicked, which perishes [divergence between the texts]; Do not sit with those who plunge
@@ -133,6 +53,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
+  withering
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-14-parables-and-satans-speech
+  title: Ashes in the wind, Satan disowns his followers, the good and bad tree (Surah 14:18-34)
+  tradition: islam
+matches:
+- kind: divergence
+  label: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
+    withering
+  note: kaʿēṣ šātûl ʿal-palgê māyim ʾăšer piryô yittēn bəʿittô; ka-shajaratin ṭayyibatin aṣluhā thābitun
+    wa-farʿuhā fī s-samāʾ tuʾtī ukulahā kulla ḥīn. The tree that bears fruit in season. In Ps the tree
+    is the righteous man; in Q it is the good word (kalimatan ṭayyibatan).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:3
+      lang: he
+      text: וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ
+        לֹֽא יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר יַעֲשֶׂ֣ה יַצְלִֽיחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:24
+      lang: ar
+      text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا
+        ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ
+    - ref: Quran 14:25
+      lang: ar
+      text: تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ
+        لَعَلَّهُمْ يَتَذَكَّرُونَ
+- kind: parallel
+  label: The deeds of unbelievers are like ashes blown by the wind on a stormy day
+  note: 'aʿmāluhum ka-ramādini shtaddat bihi r-rīḥu fī yawmin ʿāṣif; lōʾ-kēn hārəšāʿîm kî ʾim-kammōṣ ʾăšer-tiddəpennû
+    rûaḥ: what the wicked leave is blown away by the wind (chaff in Ps, ashes in Q). In Q it is their
+    deeds; in Ps the wicked themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:4
+      lang: he
+      text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:18
+      lang: ar
+      text: مَّثَلُ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ أَعْمَٰلُهُمْ كَرَمَادٍ ٱشْتَدَّتْ بِهِ ٱلرِّيحُ فِى
+        يَوْمٍ عَاصِفٍ لَّا يَقْدِرُونَ مِمَّا كَسَبُوا۟ عَلَىٰ شَىْءٍ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
 ---
 
 ## Questions

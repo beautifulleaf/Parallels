@@ -2,8 +2,7 @@
 id: motif-hb-2chr-6-solomons-dedication-prayer-vs-quran-39-mercy-and-last-day
 title: Solomon's blessing and dedication prayer on the bronze platform ↔ Do not despair of mercy; the
   earth in God's grip; the throngs to hell and Garden
-summary: 'These two units share 1 motifs: ''o my servants who have transgressed against themselves, do
-  not despair of god''s mercy; god forgives all sins''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - do-not-despair-god-forgives-all-sins
-passages:
-- tradition: judaism
-  ref: 2Chr 6:36
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'' (kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs.
-    inna llāha yaghfiru dh-dhunūba jamīʿā: all sin and God''s forgiveness. Solomon asks it for ''your
-    people'' praying toward the temple; the Quran offers it to all God''s servants.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יֶחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם לִפְנֵ֣י
-    אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
-- tradition: judaism
-  ref: 2Chr 6:39
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'' (kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs.
-    inna llāha yaghfiru dh-dhunūba jamīʿā: all sin and God''s forgiveness. Solomon asks it for ''your
-    people'' praying toward the temple; the Quran offers it to all God''s servants.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁמַעְתָּ֨ מִן הַשָּׁמַ֜יִם מִמְּכ֣וֹן שִׁבְתְּךָ֗ אֶת תְּפִלָּתָם֙ וְאֶת תְּחִנֹּ֣תֵיהֶ֔ם
-    וְעָשִׂ֖יתָ מִשְׁפָּטָ֑ם וְסָלַחְתָּ֥ לְעַמְּךָ֖ אֲשֶׁ֥ר חָֽטְאוּ לָֽךְ
-- tradition: islam
-  ref: Quran 39:53
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ
-    إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 39:54
-  note: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
-    forgives all sins'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنِيبُوٓا۟ إِلَىٰ رَبِّكُمْ وَأَسْلِمُوا۟ لَهُۥ مِن قَبْلِ أَن يَأْتِيَكُمُ ٱلْعَذَابُ ثُمَّ
-    لَا تُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs. inna llāha yaghfiru
-    dh-dhunūba jamīʿā: all sin and God''s forgiveness. Solomon asks it for ''your people'' praying toward
-    the temple; the Quran offers it to all God''s servants.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''O my servants who have transgressed against themselves, do not
     despair of God''s mercy; God forgives all sins'' (weight 6.3). Pair score 6.3.'
@@ -95,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
+  forgives all sins'''
+kinds:
+- echo
+units:
+- id: hb-2chr-6-solomons-dedication-prayer
+  title: Solomon's blessing and dedication prayer on the bronze platform
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: echo
+  label: '''O my servants who have transgressed against themselves, do not despair of God''s mercy; God
+    forgives all sins'''
+  note: 'kî ʾên ʾāḏām ʾăšer lōʾ-yeḥĕṭāʾ ... wə-sālaḥtā lə-ʿamməḵā ʾăšer ḥāṭəʾû-lāḵ vs. inna llāha yaghfiru
+    dh-dhunūba jamīʿā: all sin and God''s forgiveness. Solomon asks it for ''your people'' praying toward
+    the temple; the Quran offers it to all God''s servants.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 6:36
+      lang: he
+      text: כִּ֣י יֶחֶטְאוּ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם
+        לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה
+    - ref: 2Chr 6:39
+      lang: he
+      text: וְשָׁמַעְתָּ֨ מִן הַשָּׁמַ֜יִם מִמְּכ֣וֹן שִׁבְתְּךָ֗ אֶת תְּפִלָּתָם֙ וְאֶת תְּחִנֹּ֣תֵיהֶ֔ם
+        וְעָשִׂ֖יתָ מִשְׁפָּטָ֑ם וְסָלַחְתָּ֥ לְעַמְּךָ֖ אֲשֶׁ֥ר חָֽטְאוּ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:53
+      lang: ar
+      text: قُلْ يَٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ
+        ٱللَّهِ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 ---
 
 ## Questions

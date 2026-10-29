@@ -2,8 +2,7 @@
 id: motif-hb-1sam-30-ziklag-amalekites-vs-quran-48-fath-clear-victory-and-pledge
 title: 'Amalekites burn Ziklag; David recovers all and makes the spoil law ↔ Al-Fath: the clear opening,
   the sakina, the hand of God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 1 motifs: whether those who stayed behind share in the spoil [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - share-of-spoil-for-those-who-stayed-behind-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Sam 30:22
-  note: 'Whether those who stayed behind share in the spoil [contrast between the texts] (Shares of spoil
-    for those who did not fight. David''s ruling, made law: kə-ḥēleq hay-yōrēḏ bam-milḥāmâ û-ḵə-ḥēleq
-    hay-yōšēḇ ʿal hak-kēlîm yaḥdāw yaḥălōqû, against the ''base men'' who said lōʾ nittēn lāhem mē-haš-šālāl.
-    Quran: sa-yaqūlu l-mukhallafūna idhā nṭalaqtum ilā maghānima li-taʾkhudhūhā dharūnā nattabiʿkum ...
-    qul lan tattabiʿūnā. David''s stay-behinds were exhausted men (30:10); the Quran''s are those who
-    refused to go out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֜עַן כָּל אִֽישׁ רָ֣ע וּבְלִיַּ֗עַל מֵֽהָאֲנָשִׁים֮ אֲשֶׁ֣ר הָלְכ֣וּ עִם דָּוִד֒ וַיֹּאמְר֗וּ
-    יַ֚עַן אֲשֶׁ֣ר לֹֽא הָלְכ֣וּ עִמִּ֔י לֹֽא נִתֵּ֣ן לָהֶ֔ם מֵהַשָּׁלָ֖ל אֲשֶׁ֣ר הִצַּ֑לְנוּ כִּֽי אִם
-    אִ֤ישׁ אֶת אִשְׁתּוֹ֙ וְאֶת בָּנָ֔יו וְיִנְהֲג֖וּ וְיֵלֵֽכוּ
-- tradition: judaism
-  ref: 1Sam 30:24
-  note: 'Whether those who stayed behind share in the spoil [contrast between the texts] (Shares of spoil
-    for those who did not fight. David''s ruling, made law: kə-ḥēleq hay-yōrēḏ bam-milḥāmâ û-ḵə-ḥēleq
-    hay-yōšēḇ ʿal hak-kēlîm yaḥdāw yaḥălōqû, against the ''base men'' who said lōʾ nittēn lāhem mē-haš-šālāl.
-    Quran: sa-yaqūlu l-mukhallafūna idhā nṭalaqtum ilā maghānima li-taʾkhudhūhā dharūnā nattabiʿkum ...
-    qul lan tattabiʿūnā. David''s stay-behinds were exhausted men (30:10); the Quran''s are those who
-    refused to go out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִי֙ יִשְׁמַ֣ע לָכֶ֔ם לַדָּבָ֖ר הַזֶּ֑ה כִּ֞י כְּחֵ֣לֶק הַיֹּרֵ֣ד בַּמִּלְחָמָ֗ה וּֽכְחֵ֛לֶק
-    הַיֹּשֵׁ֥ב עַל הַכֵּלִ֖ים יַחְדָּ֥ו יַחֲלֹֽקוּ
-- tradition: islam
-  ref: Quran 48:15
-  note: 'Whether those who stayed behind share in the spoil [contrast between the texts] (Shares of spoil
-    for those who did not fight. David''s ruling, made law: kə-ḥēleq hay-yōrēḏ bam-milḥāmâ û-ḵə-ḥēleq
-    hay-yōšēḇ ʿal hak-kēlîm yaḥdāw yaḥălōqû, against the ''base men'' who said lōʾ nittēn lāhem mē-haš-šālāl.
-    Quran: sa-yaqūlu l-mukhallafūna idhā nṭalaqtum ilā maghānima li-taʾkhudhūhā dharūnā nattabiʿkum ...
-    qul lan tattabiʿūnā. David''s stay-behinds were exhausted men (30:10); the Quran''s are those who
-    refused to go out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ
-    يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن قَبْلُ
-    فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Shares of spoil for those who did not fight. David''s ruling, made law: kə-ḥēleq hay-yōrēḏ
-    bam-milḥāmâ û-ḵə-ḥēleq hay-yōšēḇ ʿal hak-kēlîm yaḥdāw yaḥălōqû, against the ''base men'' who said
-    lōʾ nittēn lāhem mē-haš-šālāl. Quran: sa-yaqūlu l-mukhallafūna idhā nṭalaqtum ilā maghānima li-taʾkhudhūhā
-    dharūnā nattabiʿkum ... qul lan tattabiʿūnā. David''s stay-behinds were exhausted men (30:10); the
-    Quran''s are those who refused to go out.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who stayed behind share in the spoil [contrast between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -94,6 +50,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether those who stayed behind share in the spoil
+kinds:
+- contrast
+units:
+- id: hb-1sam-30-ziklag-amalekites
+  title: Amalekites burn Ziklag; David recovers all and makes the spoil law
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether those who stayed behind share in the spoil
+  note: 'Shares of spoil for those who did not fight. David''s ruling, made law: kə-ḥēleq hay-yōrēḏ bam-milḥāmâ
+    û-ḵə-ḥēleq hay-yōšēḇ ʿal hak-kēlîm yaḥdāw yaḥălōqû, against the ''base men'' who said lōʾ nittēn lāhem
+    mē-haš-šālāl. Quran: sa-yaqūlu l-mukhallafūna idhā nṭalaqtum ilā maghānima li-taʾkhudhūhā dharūnā
+    nattabiʿkum ... qul lan tattabiʿūnā. David''s stay-behinds were exhausted men (30:10); the Quran''s
+    are those who refused to go out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 30:22
+      lang: he
+      text: וַיַּ֜עַן כָּל אִֽישׁ רָ֣ע וּבְלִיַּ֗עַל מֵֽהָאֲנָשִׁים֮ אֲשֶׁ֣ר הָלְכ֣וּ עִם דָּוִד֒ וַיֹּאמְר֗וּ
+        יַ֚עַן אֲשֶׁ֣ר לֹֽא הָלְכ֣וּ עִמִּ֔י לֹֽא נִתֵּ֣ן לָהֶ֔ם מֵהַשָּׁלָ֖ל אֲשֶׁ֣ר הִצַּ֑לְנוּ כִּֽי
+        אִם אִ֤ישׁ אֶת אִשְׁתּוֹ֙ וְאֶת בָּנָ֔יו וְיִנְהֲג֖וּ וְיֵלֵֽכוּ
+    - ref: 1Sam 30:24
+      lang: he
+      text: וּמִי֙ יִשְׁמַ֣ע לָכֶ֔ם לַדָּבָ֖ר הַזֶּ֑ה כִּ֞י כְּחֵ֣לֶק הַיֹּרֵ֣ד בַּמִּלְחָמָ֗ה וּֽכְחֵ֛לֶק
+        הַיֹּשֵׁ֥ב עַל הַכֵּלִ֖ים יַחְדָּ֥ו יַחֲלֹֽקוּ
+    - ref: 1Sam 30:25
+      lang: he
+      text: וַיְהִ֕י מֵֽהַיּ֥וֹם הַה֖וּא וָמָ֑עְלָה וַיְשִׂמֶ֜הָ לְחֹ֤ק וּלְמִשְׁפָּט֙ לְיִשְׂרָאֵ֔ל עַ֖ד
+        הַיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:15
+      lang: ar
+      text: سَيَقُولُ ٱلْمُخَلَّفُونَ إِذَا ٱنطَلَقْتُمْ إِلَىٰ مَغَانِمَ لِتَأْخُذُوهَا ذَرُونَا نَتَّبِعْكُمْ
+        يُرِيدُونَ أَن يُبَدِّلُوا۟ كَلَٰمَ ٱللَّهِ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمْ قَالَ ٱللَّهُ مِن
+        قَبْلُ فَسَيَقُولُونَ بَلْ تَحْسُدُونَنَا بَلْ كَانُوا۟ لَا يَفْقَهُونَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

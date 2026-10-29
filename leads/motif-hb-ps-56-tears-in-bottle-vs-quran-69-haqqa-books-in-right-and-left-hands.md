@@ -2,8 +2,7 @@
 id: motif-hb-ps-56-tears-in-bottle-vs-quran-69-haqqa-books-in-right-and-left-hands
 title: Psalm 56, when the Philistines seized David in Gath ↔ The book in the right hand and in the left,
   the seventy-cubit chain, ghislin, and the aorta of a forger
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 56:9
-  note: God keeps a book in which names are written and from which sinners are blotted (God's record (sifrah)
-    of the sufferer's wanderings)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
-- tradition: islam
-  ref: Quran 69:19
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
-- tradition: islam
-  ref: Quran 69:25
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. kitābiyah ... ḥisābiyah (my book, my reckoning) ~ nōdî sāfartāh ʾattāh ... hă-lōʾ be-sifrātekā:
-    God''s record of an individual life.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -74,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-56-tears-in-bottle
+  title: Psalm 56, when the Philistines seized David in Gath
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'kitābiyah ... ḥisābiyah (my book, my reckoning) ~ nōdî sāfartāh ʾattāh ... hă-lōʾ be-sifrātekā:
+    God''s record of an individual life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 56:9
+      lang: he
+      text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 69:19
+      lang: ar
+      text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
+    - ref: Quran 69:26
+      lang: ar
+      text: وَلَمْ أَدْرِ مَا حِسَابِيَهْ
 ---
 
 ## Questions

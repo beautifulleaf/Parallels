@@ -2,8 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-23-creation-of-man-and-gifts
 title: Elihu - warning dreams and the interceding angel ↔ Man from clay through the stages of the womb;
   seven paths, water, Sinai's tree, cattle and ships
-summary: 'These two units share 2 motifs: the speaker too was ''pinched off from clay'' (qoratsti), like
-  a figure nipped from a lump of clay, first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 motifs:
 - pinched-off-from-clay
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:6
-  note: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: islam
-  ref: Quran 23:12
-  note: 'The speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump of
-    clay (min sulālatin min ṭīnin ~ mē-ḥōmer qōraṣtî gam ʾānî: each human is drawn or ''pinched off''
-    from clay (ṭīn / ḥōmer); sulāla ''an extract'' and qāraṣ ''pinch off'' both name a portion taken from
-    the clay.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 23:12
-  note: First human shaped from dust, clay or soil (sulāla min ṭīn, 'an extract of clay')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. min sulālatin min ṭīnin ~ mē-ḥōmer qōraṣtî gam ʾānî: each human is drawn or ''pinched off''
-    from clay (ṭīn / ḥōmer); sulāla ''an extract'' and qāraṣ ''pinch off'' both name a portion taken from
-    the clay.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The speaker too was ''pinched off from clay'' (qoratsti), like a
     figure nipped from a lump of clay (weight 6.3); First human shaped from dust, clay or soil (weight
@@ -92,6 +55,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-23-creation-of-man-and-gifts
+  title: Man from clay through the stages of the womb; seven paths, water, Sinai's tree, cattle and ships
+  tradition: islam
+matches:
+- kind: echo
+  label: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
+  note: 'min sulālatin min ṭīnin ~ mē-ḥōmer qōraṣtî gam ʾānî: each human is drawn or ''pinched off'' from
+    clay (ṭīn / ḥōmer); sulāla ''an extract'' and qāraṣ ''pinch off'' both name a portion taken from the
+    clay.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:12
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+    - ref: Job 33:4
+      lang: he
+      text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:12
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+    note: sulāla min ṭīn, 'an extract of clay'
 ---
 
 ## Questions

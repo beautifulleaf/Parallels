@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-4-false-accusation
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Guilt
   cast on the innocent and the Prophet who must not defend traitors
-summary: 'These two units share 1 motifs: they hide from people but not from god, who is with them when
-  they plot by night.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - god-present-at-night-plotting
-passages:
-- tradition: judaism
-  ref: Isa 29:15
-  note: 'They hide from people but not from God, who is with them when they plot by night (Plotters hide
-    from people but not from God. Q: yastakhfūna mina l-nāsi wa-lā yastakhfūna mina llāhi wa-huwa maʿahum
-    idh yubayyitūna (plotting by night). Isa: hôy ha-maʿămîqîm mē-YHWH lastir ʿēṣāh wə-hāyāh və-maḥšākh
-    maʿăśêhem wayyōʾmərû mî rōʾēnû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
-    מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
-- tradition: islam
-  ref: Quran 4:108
-  note: They hide from people but not from God, who is with them when they plot by night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ
-    مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Plotters hide from people but not from God. Q: yastakhfūna mina l-nāsi wa-lā yastakhfūna mina
-    llāhi wa-huwa maʿahum idh yubayyitūna (plotting by night). Isa: hôy ha-maʿămîqîm mē-YHWH lastir ʿēṣāh
-    wə-hāyāh və-maḥšākh maʿăśêhem wayyōʾmərû mî rōʾēnû.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They hide from people but not from God, who is with them when they
     plot by night (weight 6.7). Pair score 6.7.'
@@ -72,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They hide from people but not from God, who is with them when they plot by night
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-4-false-accusation
+  title: Guilt cast on the innocent and the Prophet who must not defend traitors
+  tradition: islam
+matches:
+- kind: echo
+  label: They hide from people but not from God, who is with them when they plot by night
+  note: 'Plotters hide from people but not from God. Q: yastakhfūna mina l-nāsi wa-lā yastakhfūna mina
+    llāhi wa-huwa maʿahum idh yubayyitūna (plotting by night). Isa: hôy ha-maʿămîqîm mē-YHWH lastir ʿēṣāh
+    wə-hāyāh və-maḥšākh maʿăśêhem wayyōʾmərû mî rōʾēnû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:15
+      lang: he
+      text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
+        מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:108
+      lang: ar
+      text: يَسْتَخْفُونَ مِنَ ٱلنَّاسِ وَلَا يَسْتَخْفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمْ إِذْ يُبَيِّتُونَ
+        مَا لَا يَرْضَىٰ مِنَ ٱلْقَوْلِ وَكَانَ ٱللَّهُ بِمَا يَعْمَلُونَ مُحِيطًا
 ---
 
 ## Questions

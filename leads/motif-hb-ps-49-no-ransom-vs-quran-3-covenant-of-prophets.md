@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ps-49-no-ransom-vs-quran-3-covenant-of-prophets
 title: Psalm 49 - no man can ransom his brother ↔ The covenant of the prophets and the apostates
-summary: 'These two units share 2 motifs: an earthful of gold would not be accepted as ransom from one
-  who dies unbelieving, no man can ransom his brother or give god a ransom (kofer) for him; the redemption
-  of life is too costly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,64 +15,9 @@ layers:
 motifs:
 - earthful-of-gold-no-ransom
 - no-ransom-for-a-brother
-passages:
-- tradition: judaism
-  ref: Ps 49:7
-  note: 'An earthful of gold would not be accepted as ransom from one who dies unbelieving (Ps 49:7-9
-    ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô wĕ-yēqar pidyôn napšām:
-    those who trust in wealth cannot pay God a ransom, the price of a life is too high; Q 3:91 fa-lan
-    yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful of gold would not be accepted
-    even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts it to those who die unbelievers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַבֹּטְחִ֥ים עַל חֵילָ֑ם וּבְרֹ֥ב עָ֝שְׁרָ֗ם יִתְהַלָּֽלוּ
-- tradition: judaism
-  ref: Ps 49:8
-  note: 'An earthful of gold would not be accepted as ransom from one who dies unbelieving (Ps 49:7-9
-    ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô wĕ-yēqar pidyôn napšām:
-    those who trust in wealth cannot pay God a ransom, the price of a life is too high; Q 3:91 fa-lan
-    yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful of gold would not be accepted
-    even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts it to those who die unbelievers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 3:91
-  note: An earthful of gold would not be accepted as ransom from one who dies unbelieving
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ
-    ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّٰصِرِينَ
-- tradition: judaism
-  ref: Ps 49:8-10
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
-    נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
-- tradition: judaism
-  ref: Ps 49:8
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 3:91
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ
-    ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّٰصِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 49:7-9 ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô
-    wĕ-yēqar pidyôn napšām: those who trust in wealth cannot pay God a ransom, the price of a life is
-    too high; Q 3:91 fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful
-    of gold would not be accepted even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts
-    it to those who die unbelievers.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
     dies unbelieving (weight 5.8); No man can ransom his brother or give God a ransom (kofer) for him;
@@ -106,6 +49,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-3-covenant-of-prophets
+  title: The covenant of the prophets and the apostates
+  tradition: islam
+matches:
+- kind: parallel
+  label: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+  note: 'Ps 49:7-9 ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô wĕ-yēqar
+    pidyôn napšām: those who trust in wealth cannot pay God a ransom, the price of a life is too high;
+    Q 3:91 fa-lan yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful of gold would
+    not be accepted even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts it to those who
+    die unbelievers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:7
+      lang: he
+      text: הַבֹּטְחִ֥ים עַל חֵילָ֑ם וּבְרֹ֥ב עָ֝שְׁרָ֗ם יִתְהַלָּֽלוּ
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:91
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ
+        ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن
+        نَّٰصِرِينَ
+- kind: shared
+  label: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+    too costly
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8-10
+      lang: he
+      text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
+        נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:91
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ
+        ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن
+        نَّٰصِرِينَ
 ---
 
 ## Questions

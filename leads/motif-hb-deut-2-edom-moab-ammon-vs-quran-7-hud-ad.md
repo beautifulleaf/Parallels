@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-2-edom-moab-ammon-vs-quran-7-hud-ad
 title: Passing Edom, Moab and Ammon; the giant aboriginal peoples ↔ Hud and the people of Ad
-summary: 'These two units share 2 motifs: other nations displaced earlier peoples just as israel will
-  (horites, avvim by caphtorim), ancient giant or rephaite peoples (rephaim, zuzim, emim, horites) defeated.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,65 +14,9 @@ layers:
 motifs:
 - displacement-of-earlier-peoples
 - primeval-giant-peoples
-passages:
-- tradition: judaism
-  ref: Deut 2:12
-  note: Other nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim) (Caphtorim
-    from Caphtor destroy the Avvim up to Gaza)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְשֵׂעִ֞יר יָשְׁב֣וּ הַחֹרִים֮ לְפָנִים֒ וּבְנֵ֧י עֵשָׂ֣ו יִֽירָשׁ֗וּם וַיַּשְׁמִידוּם֙ מִפְּנֵיהֶ֔ם
-    וַיֵּשְׁב֖וּ תַּחְתָּ֑ם כַּאֲשֶׁ֧ר עָשָׂ֣ה יִשְׂרָאֵ֗ל לְאֶ֨רֶץ֙ יְרֻשָּׁת֔וֹ אֲשֶׁר נָתַ֥ן יְהוָ֖ה
-    לָהֶֽם
-- tradition: judaism
-  ref: Deut 2:21
-  note: Other nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim) (Caphtorim
-    from Caphtor destroy the Avvim up to Gaza)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִ֑ים וַיַּשְׁמִידֵ֤ם יְהוָה֙ מִפְּנֵיהֶ֔ם וַיִּירָשֻׁ֖ם וַיֵּשְׁב֥וּ
-    תַחְתָּֽם
-- tradition: islam
-  ref: Quran 7:69
-  note: 'Other nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim) (Peoples
-    of giant size and successive replacement. Deut: ʿam gādôl wə-rav wā-rām kā-ʿănāqîm wa-yyašmîdēm YHWH
-    ... wa-yyîrāšum wa-yyēšvû taḥtām. Q: idh jaʿalakum khulafāʾa min baʿdi qawmi Nūḥin wa-zādakum fī l-khalqi
-    basṭatan (Ad after Noah''s people; cf. 7:74 for Thamud after Ad). Deut has nations displacing giants;
-    Q has peoples succeeding destroyed peoples (khulafāʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَٱذْكُرُوٓا۟
-    إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً فَٱذْكُرُوٓا۟
-    ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
-- tradition: judaism
-  ref: Deut 2:10
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated (Emim and Zamzummim
-    counted as Rephaim, tall as the Anakim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֵמִ֥ים לְפָנִ֖ים יָ֣שְׁבוּ בָ֑הּ עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִֽים
-- tradition: judaism
-  ref: Deut 2:11
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated (Emim and Zamzummim
-    counted as Rephaim, tall as the Anakim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְפָאִ֛ים יֵחָשְׁב֥וּ אַף הֵ֖ם כָּעֲנָקִ֑ים וְהַמֹּ֣אָבִ֔ים יִקְרְא֥וּ לָהֶ֖ם אֵמִֽים
-- tradition: islam
-  ref: Quran 7:69
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated (Ad's enlarged stature;
-    interpretation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَٱذْكُرُوٓا۟
-    إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً فَٱذْكُرُوٓا۟
-    ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Peoples of giant size and successive replacement. Deut: ʿam gādôl wə-rav wā-rām kā-ʿănāqîm wa-yyašmîdēm
-    YHWH ... wa-yyîrāšum wa-yyēšvû taḥtām. Q: idh jaʿalakum khulafāʾa min baʿdi qawmi Nūḥin wa-zādakum
-    fī l-khalqi basṭatan (Ad after Noah''s people; cf. 7:74 for Thamud after Ad). Deut has nations displacing
-    giants; Q has peoples succeeding destroyed peoples (khulafāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Other nations displaced earlier peoples just as Israel will (Horites,
     Avvim by Caphtorim) (weight 6.7); Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
@@ -104,6 +47,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Other nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim)
+kinds:
+- echo
+- shared
+units:
+- id: hb-deut-2-edom-moab-ammon
+  title: Passing Edom, Moab and Ammon; the giant aboriginal peoples
+  tradition: judaism
+- id: quran-7-hud-ad
+  title: Hud and the people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Other nations displaced earlier peoples just as Israel will (Horites, Avvim by Caphtorim)
+  note: 'Peoples of giant size and successive replacement. Deut: ʿam gādôl wə-rav wā-rām kā-ʿănāqîm wa-yyašmîdēm
+    YHWH ... wa-yyîrāšum wa-yyēšvû taḥtām. Q: idh jaʿalakum khulafāʾa min baʿdi qawmi Nūḥin wa-zādakum
+    fī l-khalqi basṭatan (Ad after Noah''s people; cf. 7:74 for Thamud after Ad). Deut has nations displacing
+    giants; Q has peoples succeeding destroyed peoples (khulafāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 2:10
+      lang: he
+      text: הָאֵמִ֥ים לְפָנִ֖ים יָ֣שְׁבוּ בָ֑הּ עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִֽים
+    - ref: Deut 2:21
+      lang: he
+      text: עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִ֑ים וַיַּשְׁמִידֵ֤ם יְהוָה֙ מִפְּנֵיהֶ֔ם וַיִּירָשֻׁ֖ם
+        וַיֵּשְׁב֥וּ תַחְתָּֽם
+    - ref: Deut 2:22
+      lang: he
+      text: כַּאֲשֶׁ֤ר עָשָׂה֙ לִבְנֵ֣י עֵשָׂ֔ו הַיֹּשְׁבִ֖ים בְּשֵׂעִ֑יר אֲשֶׁ֨ר הִשְׁמִ֤יד אֶת הַחֹרִי֙
+        מִפְּנֵיהֶ֔ם וַיִּֽירָשֻׁם֙ וַיֵּשְׁב֣וּ תַחְתָּ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:69
+      lang: ar
+      text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ
+        وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً
+        فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+- kind: shared
+  label: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 2:10
+      lang: he
+      text: הָאֵמִ֥ים לְפָנִ֖ים יָ֣שְׁבוּ בָ֑הּ עַ֣ם גָּד֥וֹל וְרַ֛ב וָרָ֖ם כָּעֲנָקִֽים
+    - ref: Deut 2:11
+      lang: he
+      text: רְפָאִ֛ים יֵחָשְׁב֥וּ אַף הֵ֖ם כָּעֲנָקִ֑ים וְהַמֹּ֣אָבִ֔ים יִקְרְא֥וּ לָהֶ֖ם אֵמִֽים
+    - ref: Deut 2:20
+      lang: he
+      text: אֶֽרֶץ רְפָאִ֥ים תֵּחָשֵׁ֖ב אַף הִ֑וא רְפָאִ֤ים יָֽשְׁבוּ בָהּ֙ לְפָנִ֔ים וְהָֽעַמֹּנִ֔ים
+        יִקְרְא֥וּ לָהֶ֖ם זַמְזֻמִּֽים
+    note: Emim and Zamzummim counted as Rephaim, tall as the Anakim
+  - tradition: islam
+    passages:
+    - ref: Quran 7:69
+      lang: ar
+      text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ
+        وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً
+        فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+    note: Ad's enlarged stature; interpretation
 ---
 
 ## Questions

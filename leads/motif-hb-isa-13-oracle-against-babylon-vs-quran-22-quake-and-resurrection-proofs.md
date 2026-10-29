@@ -2,8 +2,7 @@
 id: motif-hb-isa-13-oracle-against-babylon-vs-quran-22-quake-and-resurrection-proofs
 title: Oracle against Babylon; the Day of YHWH darkens the heavens ↔ The quake of the Hour and the proofs
   from embryo and rain
-summary: 'These two units share 1 motifs: the quake of the hour: every nursing mother forgets her suckling,
-  every pregnant one miscarries, people seem drunk though not drunk.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - earthquake-of-the-hour
-passages:
-- tradition: judaism
-  ref: Isa 13:8
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk (ṣîrîm waḥăbālîm yōʾḥēzûn kayyôlēdâ yəḥîlûn ... pənê ləhābîm pənêhem;
-    wa-taḍaʿu kullu dhāti ḥamlin ḥamlahā: terror on the day pictured through childbirth. In Isa men writhe
-    like a woman in labor; in Q pregnant women actually miscarry and nursing mothers forget their infants.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽנִבְהָ֓לוּ צִירִ֤ים וַֽחֲבָלִים֙ יֹֽאחֵז֔וּן כַּיּוֹלֵדָ֖ה יְחִיל֑וּן אִ֤ישׁ אֶל רֵעֵ֨הוּ֙
-    יִתְמָ֔הוּ פְּנֵ֥י לְהָבִ֖ים פְּנֵיהֶֽם
-- tradition: islam
-  ref: Quran 22:1
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ
-- tradition: islam
-  ref: Quran 22:2
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا
-    وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ṣîrîm waḥăbālîm yōʾḥēzûn kayyôlēdâ yəḥîlûn ... pənê ləhābîm pənêhem; wa-taḍaʿu kullu dhāti ḥamlin
-    ḥamlahā: terror on the day pictured through childbirth. In Isa men writhe like a woman in labor; in
-    Q pregnant women actually miscarry and nursing mothers forget their infants.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The quake of the Hour: every nursing mother forgets her suckling,
     every pregnant one miscarries, people seem drunk though not drunk (weight 6.3). Pair score 6.3.'
@@ -79,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
+  people seem drunk though not drunk'
+kinds:
+- echo
+units:
+- id: hb-isa-13-oracle-against-babylon
+  title: Oracle against Babylon; the Day of YHWH darkens the heavens
+  tradition: judaism
+- id: quran-22-quake-and-resurrection-proofs
+  title: The quake of the Hour and the proofs from embryo and rain
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
+    people seem drunk though not drunk'
+  note: 'ṣîrîm waḥăbālîm yōʾḥēzûn kayyôlēdâ yəḥîlûn ... pənê ləhābîm pənêhem; wa-taḍaʿu kullu dhāti ḥamlin
+    ḥamlahā: terror on the day pictured through childbirth. In Isa men writhe like a woman in labor; in
+    Q pregnant women actually miscarry and nursing mothers forget their infants.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 13:8
+      lang: he
+      text: וְֽנִבְהָ֓לוּ צִירִ֤ים וַֽחֲבָלִים֙ יֹֽאחֵז֔וּן כַּיּוֹלֵדָ֖ה יְחִיל֑וּן אִ֤ישׁ אֶל רֵעֵ֨הוּ֙
+        יִתְמָ֔הוּ פְּנֵ֥י לְהָבִ֖ים פְּנֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:2
+      lang: ar
+      text: يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ
+        حَمْلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌ
 ---
 
 ## Questions

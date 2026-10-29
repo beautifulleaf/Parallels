@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-19-deliverance-of-jerusalem-vs-quran-11-salih
 title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter ↔ Salih, the she-camel
   and the Shout
-summary: 'These two units share 1 motifs: morning finds the destroyed lying prostrate (jathimin) in their
-  dwellings.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - found-dead-prostrate-in-homes
-passages:
-- tradition: judaism
-  ref: 2Kgs 19:35
-  note: 'Morning finds the destroyed lying prostrate (jathimin) in their dwellings (Struck at night, found
-    dead in the morning: fa-aṣbaḥū fī diyārihim jāthimīn vs wayyaškîmû babbōqer wᵉhinnēh kullām pᵉgārîm
-    mētîm. In Kings it is an angel''s blow on an invading army; in Q the Shout (aṣ-ṣayḥa) on Thamūd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
-    שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-- tradition: islam
-  ref: Quran 11:67
-  note: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Struck at night, found dead in the morning: fa-aṣbaḥū fī diyārihim jāthimīn vs wayyaškîmû babbōqer
-    wᵉhinnēh kullām pᵉgārîm mētîm. In Kings it is an angel''s blow on an invading army; in Q the Shout
-    (aṣ-ṣayḥa) on Thamūd.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Morning finds the destroyed lying prostrate (jathimin) in their
     dwellings (weight 5.6). Pair score 5.6.'
@@ -69,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
+kinds:
+- echo
+units:
+- id: hb-2kgs-19-deliverance-of-jerusalem
+  title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+  tradition: judaism
+- id: quran-11-salih
+  title: Salih, the she-camel and the Shout
+  tradition: islam
+matches:
+- kind: echo
+  label: Morning finds the destroyed lying prostrate (jathimin) in their dwellings
+  note: 'Struck at night, found dead in the morning: fa-aṣbaḥū fī diyārihim jāthimīn vs wayyaškîmû babbōqer
+    wᵉhinnēh kullām pᵉgārîm mētîm. In Kings it is an angel''s blow on an invading army; in Q the Shout
+    (aṣ-ṣayḥa) on Thamūd.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:35
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 11:67
+      lang: ar
+      text: وَأَخَذَ ٱلَّذِينَ ظَلَمُوا۟ ٱلصَّيْحَةُ فَأَصْبَحُوا۟ فِى دِيَٰرِهِمْ جَٰثِمِينَ
 ---
 
 ## Questions

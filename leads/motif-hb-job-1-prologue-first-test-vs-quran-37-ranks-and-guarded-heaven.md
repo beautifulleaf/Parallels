@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-37-ranks-and-guarded-heaven
 title: Job's piety, the heavenly council and the first test ↔ The ranks, the guarded heaven and the shooting
   stars
-summary: 'These two units share 1 motifs: whether the adversary, devils or deceiving spirits have access
-  to god''s council [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - adversary-access-to-heavenly-council-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 1:6
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֨אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל יְהוָ֑ה וַיָּב֥וֹא גַֽם הַשָּׂטָ֖ן
-    בְּתוֹכָֽם
-- tradition: islam
-  ref: Quran 37:7
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ
-- tradition: islam
-  ref: Quran 37:8
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the adversary, devils or deceiving spirits have access to
     God''s council [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -87,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the adversary, devils or deceiving spirits have access to God's council
+kinds:
+- contrast
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-37-ranks-and-guarded-heaven
+  title: The ranks, the guarded heaven and the shooting stars
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the adversary, devils or deceiving spirits have access to God's council
+  note: 'Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
+    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
+    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
+    cannot even overhear the exalted assembly, and are pelted away.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:6
+      lang: he
+      text: וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֨אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל יְהוָ֑ה וַיָּב֥וֹא גַֽם
+        הַשָּׂטָ֖ן בְּתוֹכָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:7
+      lang: ar
+      text: وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ
+    - ref: Quran 37:8
+      lang: ar
+      text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
 ---
 
 ## Questions

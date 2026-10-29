@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-17-heal-me-vs-quran-10-messenger-per-nation
 title: Third confession - heal me and I shall be healed ↔ A messenger for every nation; no ransom
-summary: 'These two units share 1 motifs: scoffers taunt the prophet: ''where is the word of yhwh? let
-  it come!''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,24 +14,9 @@ layers:
 - motif
 motifs:
 - scoffers-ask-where-is-the-word
-passages:
-- tradition: judaism
-  ref: Jer 17:15
-  note: 'Scoffers taunt the prophet: ''Where is the word of YHWH? Let it come!'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה הֵ֕מָּה אֹמְרִ֖ים אֵלָ֑י אַיֵּ֥ה דְבַר יְהוָ֖ה יָ֥בוֹא נָֽא
-- tradition: islam
-  ref: Quran 10:48
-  note: 'Scoffers taunt the prophet: ''Where is the word of YHWH? Let it come!'' (hinnēh-hēmmāh ʾōmᵉrîm
-    ʾēlāy ʾayyēh dᵉbar-YHWH yābôʾ nāʾ vs matā hādhā l-waʿdu in kuntum ṣādiqīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. hinnēh-hēmmāh ʾōmᵉrîm ʾēlāy ʾayyēh dᵉbar-YHWH yābôʾ nāʾ vs matā hādhā l-waʿdu in kuntum
-    ṣādiqīn.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers taunt the prophet: ''Where is the word of YHWH? Let it
     come!'' (weight 6.7). Pair score 6.7.'
@@ -57,6 +41,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Scoffers taunt the prophet: ''Where is the word of YHWH? Let it come!'''
+kinds:
+- parallel
+units:
+- id: hb-jer-17-heal-me
+  title: Third confession - heal me and I shall be healed
+  tradition: judaism
+- id: quran-10-messenger-per-nation
+  title: A messenger for every nation; no ransom
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Scoffers taunt the prophet: ''Where is the word of YHWH? Let it come!'''
+  note: hinnēh-hēmmāh ʾōmᵉrîm ʾēlāy ʾayyēh dᵉbar-YHWH yābôʾ nāʾ vs matā hādhā l-waʿdu in kuntum ṣādiqīn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:15
+      lang: he
+      text: הִנֵּה הֵ֕מָּה אֹמְרִ֖ים אֵלָ֑י אַיֵּ֥ה דְבַר יְהוָ֖ה יָ֥בוֹא נָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 10:48
+      lang: ar
+      text: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

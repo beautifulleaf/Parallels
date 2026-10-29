@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-66-heaven-my-throne-vs-quran-2-throne-verse
 title: Heaven is my throne; sacrifice as abomination ↔ Ranks of the messengers and the Throne Verse
-summary: 'These two units share 1 motifs: god''s throne in relation to heaven and earth [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - divine-throne-and-cosmos-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 66:1
-  note: 'God''s throne in relation to heaven and earth [divergence between the texts] (Isa 66:1 ha-ššāmayim
-    kisʾî wĕ-hā-ʾāreṣ hădōm raglāy: heaven is the throne (kissēʾ), earth the footstool; Q 2:255 wasiʿa
-    kursiyyuhu s-samāwāti wa-l-arḍa: his kursī (cognate of kissēʾ, via Aramaic kursyā) is wider than heaven
-    and earth together. The cosmos is no longer the furniture but is held within it. Isaiah''s point (no
-    house can hold God) is kept.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַשָּׁמַ֣יִם כִּסְאִ֔י וְהָאָ֖רֶץ הֲדֹ֣ם רַגְלָ֑י אֵי זֶ֥ה בַ֨יִת֙ אֲשֶׁ֣ר
-    תִּבְנוּ לִ֔י וְאֵי זֶ֥ה מָק֖וֹם מְנוּחָתִֽי
-- tradition: islam
-  ref: Quran 2:255
-  note: 'God''s throne in relation to heaven and earth [divergence between the texts] (Isa 66:1 ha-ššāmayim
-    kisʾî wĕ-hā-ʾāreṣ hădōm raglāy: heaven is the throne (kissēʾ), earth the footstool; Q 2:255 wasiʿa
-    kursiyyuhu s-samāwāti wa-l-arḍa: his kursī (cognate of kissēʾ, via Aramaic kursyā) is wider than heaven
-    and earth together. The cosmos is no longer the furniture but is held within it. Isaiah''s point (no
-    house can hold God) is kept.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 66:1 ha-ššāmayim kisʾî wĕ-hā-ʾāreṣ hădōm raglāy: heaven is the throne (kissēʾ), earth
-    the footstool; Q 2:255 wasiʿa kursiyyuhu s-samāwāti wa-l-arḍa: his kursī (cognate of kissēʾ, via Aramaic
-    kursyā) is wider than heaven and earth together. The cosmos is no longer the furniture but is held
-    within it. Isaiah''s point (no house can hold God) is kept.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s throne in relation to heaven and earth [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -72,6 +43,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's throne in relation to heaven and earth
+kinds:
+- divergence
+units:
+- id: hb-isa-66-heaven-my-throne
+  title: Heaven is my throne; sacrifice as abomination
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's throne in relation to heaven and earth
+  note: 'Isa 66:1 ha-ššāmayim kisʾî wĕ-hā-ʾāreṣ hădōm raglāy: heaven is the throne (kissēʾ), earth the
+    footstool; Q 2:255 wasiʿa kursiyyuhu s-samāwāti wa-l-arḍa: his kursī (cognate of kissēʾ, via Aramaic
+    kursyā) is wider than heaven and earth together. The cosmos is no longer the furniture but is held
+    within it. Isaiah''s point (no house can hold God) is kept.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 66:1
+      lang: he
+      text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַשָּׁמַ֣יִם כִּסְאִ֔י וְהָאָ֖רֶץ הֲדֹ֣ם רַגְלָ֑י אֵי זֶ֥ה בַ֨יִת֙ אֲשֶׁ֣ר
+        תִּבְנוּ לִ֔י וְאֵי זֶ֥ה מָק֖וֹם מְנוּחָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
 ---
 
 ## Questions

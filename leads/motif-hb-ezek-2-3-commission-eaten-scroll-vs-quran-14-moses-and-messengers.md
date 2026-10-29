@@ -2,8 +2,7 @@
 id: motif-hb-ezek-2-3-commission-eaten-scroll-vs-quran-14-moses-and-messengers
 title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
   ↔ Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah 14:1-17)
-summary: 'These two units share 1 motifs: every messenger is sent speaking the language of his own people
-  to make things clear [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - messenger-speaks-language-of-his-people-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 3:5
-  note: 'Every messenger is sent speaking the language of his own people to make things clear [divergence
-    between the texts] (Both send the messenger in his hearers'' own tongue: wa-mā arsalnā min rasūlin
-    illā bi-lisāni qawmihi li-yubayyina lahum; lōʾ ʾel-ʿam ʿimqê śāpâ wəkibdê lāšôn ʾattâ šālûaḥ ʾel-bêt
-    yiśrāʾēl. Ezek twists it: foreign peoples would have listened (hēmmâ yišməʿû ʾēlêkā) while Israel
-    will not. Q ends with fa-yuḍillu llāhu man yashāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֡י לֹא֩ אֶל עַ֨ם עִמְקֵ֥י שָׂפָ֛ה וְכִבְדֵ֥י לָשׁ֖וֹן אַתָּ֣ה שָׁל֑וּחַ אֶל בֵּ֖ית יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Ezek 3:6
-  note: 'Every messenger is sent speaking the language of his own people to make things clear [divergence
-    between the texts] (Both send the messenger in his hearers'' own tongue: wa-mā arsalnā min rasūlin
-    illā bi-lisāni qawmihi li-yubayyina lahum; lōʾ ʾel-ʿam ʿimqê śāpâ wəkibdê lāšôn ʾattâ šālûaḥ ʾel-bêt
-    yiśrāʾēl. Ezek twists it: foreign peoples would have listened (hēmmâ yišməʿû ʾēlêkā) while Israel
-    will not. Q ends with fa-yuḍillu llāhu man yashāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א אֶל עַמִּ֣ים רַבִּ֗ים עִמְקֵ֤י שָׂפָה֙ וְכִבְדֵ֣י לָשׁ֔וֹן אֲשֶׁ֥ר לֹֽא תִשְׁמַ֖ע דִּבְרֵיהֶ֑ם
-    אִם לֹ֤א אֲלֵיהֶם֙ שְׁלַחְתִּ֔יךָ הֵ֖מָּה יִשְׁמְע֥וּ אֵלֶֽיךָ
-- tradition: islam
-  ref: Quran 14:4
-  note: 'Every messenger is sent speaking the language of his own people to make things clear [divergence
-    between the texts] (Both send the messenger in his hearers'' own tongue: wa-mā arsalnā min rasūlin
-    illā bi-lisāni qawmihi li-yubayyina lahum; lōʾ ʾel-ʿam ʿimqê śāpâ wəkibdê lāšôn ʾattâ šālûaḥ ʾel-bêt
-    yiśrāʾēl. Ezek twists it: foreign peoples would have listened (hēmmâ yišməʿû ʾēlêkā) while Israel
-    will not. Q ends with fa-yuḍillu llāhu man yashāʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ فَيُضِلُّ ٱللَّهُ
-    مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Both send the messenger in his hearers'' own tongue: wa-mā arsalnā min rasūlin illā bi-lisāni
-    qawmihi li-yubayyina lahum; lōʾ ʾel-ʿam ʿimqê śāpâ wəkibdê lāšôn ʾattâ šālûaḥ ʾel-bêt yiśrāʾēl. Ezek
-    twists it: foreign peoples would have listened (hēmmâ yišməʿû ʾēlêkā) while Israel will not. Q ends
-    with fa-yuḍillu llāhu man yashāʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every messenger is sent speaking the language of his own people
     to make things clear [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +53,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every messenger is sent speaking the language of his own people to make things clear
+kinds:
+- divergence
+units:
+- id: hb-ezek-2-3-commission-eaten-scroll
+  title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
+  tradition: judaism
+- id: quran-14-moses-and-messengers
+  title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah
+    14:1-17)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Every messenger is sent speaking the language of his own people to make things clear
+  note: 'Both send the messenger in his hearers'' own tongue: wa-mā arsalnā min rasūlin illā bi-lisāni
+    qawmihi li-yubayyina lahum; lōʾ ʾel-ʿam ʿimqê śāpâ wəkibdê lāšôn ʾattâ šālûaḥ ʾel-bêt yiśrāʾēl. Ezek
+    twists it: foreign peoples would have listened (hēmmâ yišməʿû ʾēlêkā) while Israel will not. Q ends
+    with fa-yuḍillu llāhu man yashāʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:5
+      lang: he
+      text: כִּ֡י לֹא֩ אֶל עַ֨ם עִמְקֵ֥י שָׂפָ֛ה וְכִבְדֵ֥י לָשׁ֖וֹן אַתָּ֣ה שָׁל֑וּחַ אֶל בֵּ֖ית יִשְׂרָאֵֽל
+    - ref: Ezek 3:6
+      lang: he
+      text: לֹ֣א אֶל עַמִּ֣ים רַבִּ֗ים עִמְקֵ֤י שָׂפָה֙ וְכִבְדֵ֣י לָשׁ֔וֹן אֲשֶׁ֥ר לֹֽא תִשְׁמַ֖ע דִּבְרֵיהֶ֑ם
+        אִם לֹ֤א אֲלֵיהֶם֙ שְׁלַחְתִּ֔יךָ הֵ֖מָּה יִשְׁמְע֥וּ אֵלֶֽיךָ
+    - ref: Ezek 3:7
+      lang: he
+      text: וּבֵ֣ית יִשְׂרָאֵ֗ל לֹ֤א יֹאבוּ֙ לִשְׁמֹ֣עַ אֵלֶ֔יךָ כִּֽי אֵינָ֥ם אֹבִ֖ים לִשְׁמֹ֣עַ אֵלָ֑י
+        כִּ֚י כָּל בֵּ֣ית יִשְׂרָאֵ֔ל חִזְקֵי מֵ֥צַח וּקְשֵׁי לֵ֖ב הֵֽמָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 14:4
+      lang: ar
+      text: وَمَآ أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِۦ لِيُبَيِّنَ لَهُمْ فَيُضِلُّ ٱللَّهُ
+        مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

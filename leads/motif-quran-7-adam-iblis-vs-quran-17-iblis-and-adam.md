@@ -2,10 +2,7 @@
 id: motif-quran-7-adam-iblis-vs-quran-17-iblis-and-adam
 title: The prostration to Adam, Iblis' refusal and the fall ↔ Iblis's threat to bridle Adam's offspring;
   sea peril; the honored children of Adam (Surah 17:61-72)
-summary: 'These two units share 6 motifs: the devil argues he is better than man because he was made of
-  fire and man of clay, the expelled devil vows to lie in wait on the straight path and mislead humanity,
-  god commands the angels to prostrate before the first man, and they do, the devil asks for and is granted
-  respite until the day the dead are raised….'
+summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -15,144 +12,20 @@ traditions:
 layers:
 - motif
 motifs:
-- fire-superior-to-clay-argument
 - devil-vows-to-mislead-humanity
-- angels-commanded-to-prostrate-to-adam
-- devil-granted-respite-until-resurrection
+- fire-superior-to-clay-argument
 - devil-refuses-to-bow-to-adam
+- devil-granted-respite-until-resurrection
+- angels-commanded-to-prostrate-to-adam
 - human-formed-from-earth
-passages:
-- tradition: islam
-  ref: Quran 7:12
-  note: The devil argues he is better than man because he was made of fire and man of clay
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن
-    نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
-- tradition: islam
-  ref: Quran 17:61
-  note: 'The devil argues he is better than man because he was made of fire and man of clay (implicit:
-    one you created of clay, this one you honored above me)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ
-    لِمَنْ خَلَقْتَ طِينًا
-- tradition: islam
-  ref: Quran 17:62
-  note: 'The devil argues he is better than man because he was made of fire and man of clay (implicit:
-    one you created of clay, this one you honored above me)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
-- tradition: islam
-  ref: Quran 7:16
-  note: 'The expelled devil vows to lie in wait on the straight path and mislead humanity (he blames God:
-    ''because you led me astray'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ
-- tradition: islam
-  ref: Quran 17:62
-  note: 'The expelled devil vows to lie in wait on the straight path and mislead humanity (la-aḥtanikanna
-    dhurriyyatahu: ''I will bridle (or uproot) his offspring'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
-- tradition: islam
-  ref: Quran 7:11
-  note: God commands the angels to prostrate before the first man, and they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 17:61
-  note: God commands the angels to prostrate before the first man, and they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ
-    لِمَنْ خَلَقْتَ طِينًا
-- tradition: islam
-  ref: Quran 7:14
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 7:15
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
-- tradition: islam
-  ref: Quran 17:62
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
-- tradition: islam
-  ref: Quran 7:11
-  note: The devil (Iblis) alone refuses to bow to the first man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 7:12
-  note: The devil (Iblis) alone refuses to bow to the first man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن
-    نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
-- tradition: islam
-  ref: Quran 17:61
-  note: The devil (Iblis) alone refuses to bow to the first man ('shall I prostrate to one you created
-    of clay (ṭīn)?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ
-    لِمَنْ خَلَقْتَ طِينًا
-- tradition: islam
-  ref: Quran 17:62
-  note: The devil (Iblis) alone refuses to bow to the first man ('shall I prostrate to one you created
-    of clay (ṭīn)?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
-- tradition: islam
-  ref: Quran 7:11
-  note: First human shaped from dust, clay or soil (created then shaped (sawwarnakum); Adam from clay
-    (tin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 7:12
-  note: First human shaped from dust, clay or soil (created then shaped (sawwarnakum); Adam from clay
-    (tin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن
-    نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
-- tradition: islam
-  ref: Quran 17:61
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ ءَأَسْجُدُ
-    لِمَنْ خَلَقْتَ طِينًا
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The devil argues he is better than man because he was made of fire
-    and man of clay (weight 6.3); The expelled devil vows to lie in wait on the straight path and mislead
-    humanity (weight 6.3); God commands the angels to prostrate before the first man, and they do (weight
-    5.8); The devil asks for and is granted respite until the day the dead are raised (weight 5.8); The
-    devil (Iblis) alone refuses to bow to the first man (weight 5.8); First human shaped from dust, clay
-    or soil (weight 4.6). Pair score 34.4.'
+- text: 'Shared motifs, rarest first: The expelled devil vows to lie in wait on the straight path and
+    mislead humanity (weight 6.3); The devil argues he is better than man because he was made of fire
+    and man of clay (weight 6.3); The devil (Iblis) alone refuses to bow to the first man (weight 5.8);
+    The devil asks for and is granted respite until the day the dead are raised (weight 5.8); God commands
+    the angels to prostrate before the first man, and they do (weight 5.8); First human shaped from dust,
+    clay or soil (weight 4.6). Pair score 34.4.'
   basis: reading
 - text: 'Only in The prostration to Adam, Iblis'' refusal and the fall: Man and wife are addressed, tempted
     and eat together; the woman is not singled out; The first humans are sent down to earth to live and
@@ -187,6 +60,129 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The expelled devil vows to lie in wait on the straight path and mislead humanity
+kinds:
+- shared
+units:
+- id: quran-7-adam-iblis
+  title: The prostration to Adam, Iblis' refusal and the fall
+  tradition: islam
+- id: quran-17-iblis-and-adam
+  title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+  tradition: islam
+matches:
+- kind: shared
+  label: The expelled devil vows to lie in wait on the straight path and mislead humanity
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:16
+      lang: ar
+      text: قَالَ فَبِمَآ أَغْوَيْتَنِى لَأَقْعُدَنَّ لَهُمْ صِرَٰطَكَ ٱلْمُسْتَقِيمَ
+    note: 'he blames God: ''because you led me astray'''
+  - tradition: islam
+    passages:
+    - ref: Quran 17:62
+      lang: ar
+      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
+    note: 'la-aḥtanikanna dhurriyyatahu: ''I will bridle (or uproot) his offspring'''
+- kind: shared
+  label: The devil argues he is better than man because he was made of fire and man of clay
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:12
+      lang: ar
+      text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى
+        مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:61
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ
+        ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
+    - ref: Quran 17:62
+      lang: ar
+      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
+    note: 'implicit: one you created of clay, this one you honored above me'
+- kind: shared
+  label: The devil (Iblis) alone refuses to bow to the first man
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:11
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+        فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+    - ref: Quran 7:12
+      lang: ar
+      text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى
+        مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:61
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ
+        ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
+    - ref: Quran 17:62
+      lang: ar
+      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
+    note: '''shall I prostrate to one you created of clay (ṭīn)?'''
+- kind: shared
+  label: The devil asks for and is granted respite until the day the dead are raised
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:14
+      lang: ar
+      text: قَالَ أَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 7:15
+      lang: ar
+      text: قَالَ إِنَّكَ مِنَ ٱلْمُنظَرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:62
+      lang: ar
+      text: قَالَ أَرَءَيْتَكَ هَٰذَا ٱلَّذِى كَرَّمْتَ عَلَىَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
+        لَأَحْتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلًا
+- kind: shared
+  label: God commands the angels to prostrate before the first man, and they do
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:11
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+        فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:61
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ
+        ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:11
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+        فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+    - ref: Quran 7:12
+      lang: ar
+      text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى
+        مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+    note: created then shaped (sawwarnakum); Adam from clay (tin)
+  - tradition: islam
+    passages:
+    - ref: Quran 17:61
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ قَالَ
+        ءَأَسْجُدُ لِمَنْ خَلَقْتَ طِينًا
 ---
 
 ## Questions

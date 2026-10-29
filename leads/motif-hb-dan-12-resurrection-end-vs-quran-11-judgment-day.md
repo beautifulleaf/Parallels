@@ -2,8 +2,7 @@
 id: motif-hb-dan-12-resurrection-end-vs-quran-11-judgment-day
 title: Michael arises, the resurrection, and the sealed book ↔ The witnessed day; the wretched and the
   blessed
-summary: 'These two units share 1 motifs: on judgment day people are either wretched (shaqi) or blessed
-  (sa''id).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - wretched-and-blessed-on-judgment-day
-passages:
-- tradition: judaism
-  ref: Dan 12:2
-  note: 'On judgment day people are either wretched (shaqi) or blessed (sa''id) (ʾēlleh ləḥayyê ʿôlām
-    wəʾēlleh laḥărāpôt lədirʾôn ʿôlām; fa-minhum shaqiyyun wa-saʿīd ... khālidīna fīhā: two classes after
-    the day, each for an age. Divergence in duration: Dan''s ʿôlām is unqualified; Q qualifies both abodes
-    ''mā dāmati s-samāwātu wa-l-arḍu illā mā shāʾa rabbuk''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: islam
-  ref: Quran 11:105
-  note: On judgment day people are either wretched (shaqi) or blessed (sa'id)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِۦ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
-- tradition: islam
-  ref: Quran 11:106
-  note: On judgment day people are either wretched (shaqi) or blessed (sa'id)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾēlleh ləḥayyê ʿôlām wəʾēlleh laḥărāpôt lədirʾôn ʿôlām; fa-minhum shaqiyyun wa-saʿīd ...
-    khālidīna fīhā: two classes after the day, each for an age. Divergence in duration: Dan''s ʿôlām is
-    unqualified; Q qualifies both abodes ''mā dāmati s-samāwātu wa-l-arḍu illā mā shāʾa rabbuk''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day people are either wretched (shaqi) or blessed (sa''id)
     (weight 6.3). Pair score 6.3.'
@@ -74,6 +48,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On judgment day people are either wretched (shaqi) or blessed (sa'id)
+kinds:
+- parallel
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-11-judgment-day
+  title: The witnessed day; the wretched and the blessed
+  tradition: islam
+matches:
+- kind: parallel
+  label: On judgment day people are either wretched (shaqi) or blessed (sa'id)
+  note: 'ʾēlleh ləḥayyê ʿôlām wəʾēlleh laḥărāpôt lədirʾôn ʿôlām; fa-minhum shaqiyyun wa-saʿīd ... khālidīna
+    fīhā: two classes after the day, each for an age. Divergence in duration: Dan''s ʿôlām is unqualified;
+    Q qualifies both abodes ''mā dāmati s-samāwātu wa-l-arḍu illā mā shāʾa rabbuk''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 11:105
+      lang: ar
+      text: يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِۦ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
+    - ref: Quran 11:107
+      lang: ar
+      text: خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ إِنَّ رَبَّكَ
+        فَعَّالٌ لِّمَا يُرِيدُ
+    - ref: Quran 11:108
+      lang: ar
+      text: وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ
+        وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ عَطَآءً غَيْرَ مَجْذُوذٍ
 ---
 
 ## Questions

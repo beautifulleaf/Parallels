@@ -2,7 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-27-israel-beast-trumpet
 title: Arrival at Sinai, covenant offer and theophany ↔ The Quran and Israel's disputes; the beast of
   the earth, the trumpet and the sacred town
-summary: 'These two units share 1 motifs: a horn blast at which all tremble [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,57 +14,9 @@ layers:
 - motif
 motifs:
 - horn-blast-makes-all-tremble-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 19:16
-  note: 'A horn blast at which all tremble [divergence between the texts] (A horn-blast that makes all
-    tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd
-    at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī
-    ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing
-    like clouds (tamurru marra s-saḥāb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן כָּבֵד֙
-    עַל הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה
-- tradition: judaism
-  ref: Exod 19:18
-  note: 'A horn blast at which all tremble [divergence between the texts] (A horn-blast that makes all
-    tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd
-    at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī
-    ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing
-    like clouds (tamurru marra s-saḥāb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙
-    כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
-- tradition: islam
-  ref: Quran 27:87
-  note: 'A horn blast at which all tremble [divergence between the texts] (A horn-blast that makes all
-    tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd
-    at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī
-    ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing
-    like clouds (tamurru marra s-saḥāb).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن شَآءَ
-    ٱللَّهُ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ
-- tradition: islam
-  ref: Quran 27:88
-  note: 'A horn blast at which all tremble [divergence between the texts] (A horn-blast that makes all
-    tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd
-    at Sinai, the revelation of the law to one people at one mountain; the Quran has yawma yunfakhu fī
-    ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for everyone, with the mountains passing
-    like clouds (tamurru marra s-saḥāb).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ صُنْعَ ٱللَّهِ ٱلَّذِىٓ
-    أَتْقَنَ كُلَّ شَىْءٍ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. A horn-blast that makes all tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol
-    hā-ʿām ... wa-yyeḥĕrad kol hā-hār məʾōd at Sinai, the revelation of the law to one people at one mountain;
-    the Quran has yawma yunfakhu fī ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for
-    everyone, with the mountains passing like clouds (tamurru marra s-saḥāb).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A horn blast at which all tremble [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -96,6 +48,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A horn blast at which all tremble
+kinds:
+- divergence
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-27-israel-beast-trumpet
+  title: The Quran and Israel's disputes; the beast of the earth, the trumpet and the sacred town
+  tradition: islam
+matches:
+- kind: divergence
+  label: A horn blast at which all tremble
+  note: 'A horn-blast that makes all tremble: Exodus has wə-qōl šōfār ḥāzāq məʾōd wa-yyeḥĕrad kol hā-ʿām
+    ... wa-yyeḥĕrad kol hā-hār məʾōd at Sinai, the revelation of the law to one people at one mountain;
+    the Quran has yawma yunfakhu fī ṣ-ṣūri fa-faziʿa man fī s-samāwāti wa-man fī l-arḍi at the end, for
+    everyone, with the mountains passing like clouds (tamurru marra s-saḥāb).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:16
+      lang: he
+      text: וַיְהִי֩ בַיּ֨וֹם הַשְּׁלִישִׁ֜י בִּֽהְיֹ֣ת הַבֹּ֗קֶר וַיְהִי֩ קֹלֹ֨ת וּבְרָקִ֜ים וְעָנָ֤ן
+        כָּבֵד֙ עַל הָהָ֔ר וְקֹ֥ל שֹׁפָ֖ר חָזָ֣ק מְאֹ֑ד וַיֶּחֱרַ֥ד כָּל הָעָ֖ם אֲשֶׁ֥ר בַּֽמַּחֲנֶֽה
+    - ref: Exod 19:18
+      lang: he
+      text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל
+        עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
+    - ref: Exod 19:19
+      lang: he
+      text: וַיְהִי֙ ק֣וֹל הַשּׁוֹפָ֔ר הוֹלֵ֖ךְ וְחָזֵ֣ק מְאֹ֑ד מֹשֶׁ֣ה יְדַבֵּ֔ר וְהָאֱלֹהִ֖ים יַעֲנֶ֥נּוּ
+        בְקֽוֹל
+  - tradition: islam
+    passages:
+    - ref: Quran 27:87
+      lang: ar
+      text: وَيَوْمَ يُنفَخُ فِى ٱلصُّورِ فَفَزِعَ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ إِلَّا مَن
+        شَآءَ ٱللَّهُ وَكُلٌّ أَتَوْهُ دَٰخِرِينَ
+    - ref: Quran 27:88
+      lang: ar
+      text: وَتَرَى ٱلْجِبَالَ تَحْسَبُهَا جَامِدَةً وَهِىَ تَمُرُّ مَرَّ ٱلسَّحَابِ صُنْعَ ٱللَّهِ ٱلَّذِىٓ
+        أَتْقَنَ كُلَّ شَىْءٍ إِنَّهُۥ خَبِيرٌۢ بِمَا تَفْعَلُونَ
 ---
 
 ## Questions

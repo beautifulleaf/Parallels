@@ -2,9 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-39-pure-religion
 title: Second creation account, Eden, and the making of woman ↔ Pure religion; no son for God; creation
   from one soul in three darknesses
-summary: 'These two units share 3 motifs: how god made the human mate, and for what purpose [divergence
-  between the texts], first woman made from the man''s rib or side while he sleeps, humankind is created
-  from a single soul, from which its mate was made to dwell with it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,98 +16,9 @@ motifs:
 - origin-and-purpose-of-the-human-mate-as-divergence
 - woman-from-rib
 - created-from-single-soul-and-its-mate
-passages:
-- tradition: judaism
-  ref: Gen 2:18
-  note: 'How God made the human mate, and for what purpose [divergence between the texts] (Purpose of
-    the mate: Gen ʿēzer kə-neḡdô (a help fit for him), and the woman built from the rib (ha-ṣṣēlāʿ) of
-    the one man. Q khalaqa lakum min anfusikum azwājan li-taskunū ilayhā wa-jaʿala baynakum mawaddatan
-    wa-raḥma. There is no rib, the mates come ''from yourselves'' for all humans, and the purpose is rest
-    (sakan) and love and mercy between them. Gen''s ʿeṣem mē-ʿăṣāmay / dāḇaq bə-ʾištô is the closest point.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂהּ לּ֥וֹ עֵ֖זֶר כְּנֶגְדּֽוֹ
-- tradition: judaism
-  ref: Gen 2:22
-  note: 'How God made the human mate, and for what purpose [divergence between the texts] (Purpose of
-    the mate: Gen ʿēzer kə-neḡdô (a help fit for him), and the woman built from the rib (ha-ṣṣēlāʿ) of
-    the one man. Q khalaqa lakum min anfusikum azwājan li-taskunū ilayhā wa-jaʿala baynakum mawaddatan
-    wa-raḥma. There is no rib, the mates come ''from yourselves'' for all humans, and the purpose is rest
-    (sakan) and love and mercy between them. Gen''s ʿeṣem mē-ʿăṣāmay / dāḇaq bə-ʾištô is the closest point.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 39:6
-  note: How God made the human mate, and for what purpose [divergence between the texts] (wa-yyappēl ...
-    tardēmâ ʿal-hā-ʾāḏām ... wa-yyiqqaḥ ʾaḥaṯ mi-ṣṣalʿōṯâw ... wa-yyiḇen ... ʾeṯ-ha-ṣṣēlāʿ ... lə-ʾiššâ
-    vs. khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā. The mate comes from the one soul
-    with no sleep, no rib and no building. Only 'from it' (minhā) recalls Gen's 'from the man'.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
-- tradition: judaism
-  ref: Gen 2:21
-  note: First woman made from the man's rib or side while he sleeps (God 'built' (wayyiven) the rib into
-    a woman)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: First woman made from the man's rib or side while he sleeps (God 'built' (wayyiven) the rib into
-    a woman)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 39:6
-  note: First woman made from the man's rib or side while he sleeps ('then made from it its mate' (rib
-    not mentioned))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
-- tradition: judaism
-  ref: Gen 2:21
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 39:6
-  note: Humankind is created from a single soul, from which its mate was made to dwell with it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-yyappēl ... tardēmâ ʿal-hā-ʾāḏām ... wa-yyiqqaḥ ʾaḥaṯ mi-ṣṣalʿōṯâw ... wa-yyiḇen ...
-    ʾeṯ-ha-ṣṣēlāʿ ... lə-ʾiššâ vs. khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā. The mate
-    comes from the one soul with no sleep, no rib and no building. Only ''from it'' (minhā) recalls Gen''s
-    ''from the man''.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How God made the human mate, and for what purpose [divergence between
     the texts] (weight 6.3); First woman made from the man''s rib or side while he sleeps (weight 6.0);
@@ -146,6 +55,94 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How God made the human mate, and for what purpose
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: divergence
+  label: How God made the human mate, and for what purpose
+  note: wa-yyappēl ... tardēmâ ʿal-hā-ʾāḏām ... wa-yyiqqaḥ ʾaḥaṯ mi-ṣṣalʿōṯâw ... wa-yyiḇen ... ʾeṯ-ha-ṣṣēlāʿ
+    ... lə-ʾiššâ vs. khalaqakum min nafsin wāḥidatin thumma jaʿala minhā zawjahā. The mate comes from
+    the one soul with no sleep, no rib and no building. Only 'from it' (minhā) recalls Gen's 'from the
+    man'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
+- kind: shared
+  label: First woman made from the man's rib or side while he sleeps
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    note: God 'built' (wayyiven) the rib into a woman
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
+    note: '''then made from it its mate'' (rib not mentioned)'
+- kind: shared
+  label: Humankind is created from a single soul, from which its mate was made to dwell with it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    - ref: Gen 2:23
+      lang: he
+      text: וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א
+        אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה זֹּֽאת
+    note: 'wa-llāhu jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay
+      ûbāśār mibbəśārî: the mate is made from man''s own substance. Gen tells it of the first couple through
+      the rib; Q says it of all spouses (min anfusikum), with no rib.'
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
 ---
 
 ## Questions

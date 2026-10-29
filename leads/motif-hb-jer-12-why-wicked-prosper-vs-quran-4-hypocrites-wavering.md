@@ -2,7 +2,7 @@
 id: motif-hb-jer-12-why-wicked-prosper-vs-quran-4-hypocrites-wavering
 title: Why does the way of the wicked prosper? Running with horses ↔ Articles of faith; hypocrites wavering
   between two sides
-summary: 'These two units share 1 motifs: god is near in their mouths but far from their kidneys (hearts).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - god-near-in-mouth-far-from-heart
-passages:
-- tradition: judaism
-  ref: Jer 12:2
-  note: God is near in their mouths but far from their kidneys (hearts)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְטַעְתָּם֙ גַּם שֹׁרָ֔שׁוּ יֵלְכ֖וּ גַּם עָ֣שׂוּ פֶ֑רִי קָר֤וֹב אַתָּה֙ בְּפִיהֶ֔ם וְרָח֖וֹק
-    מִכִּלְיוֹתֵיהֶֽם
-- tradition: islam
-  ref: Quran 4:142
-  note: 'God is near in their mouths but far from their kidneys (hearts) (Jer: qārôv ʾattāh bə-fîhem wə-rāḥôq
-    mi-kilyôtêhem. Q: the hypocrites'' outward prayer and little remembrance of God (wa-lā yadhkurūna
-    llāha illā qalīlan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
-    قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Jer: qārôv ʾattāh bə-fîhem wə-rāḥôq mi-kilyôtêhem. Q: the hypocrites'' outward prayer and little
-    remembrance of God (wa-lā yadhkurūna llāha illā qalīlan).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is near in their mouths but far from their kidneys (hearts)
     (weight 6.3). Pair score 6.3.'
@@ -67,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is near in their mouths but far from their kidneys (hearts)
+kinds:
+- echo
+units:
+- id: hb-jer-12-why-wicked-prosper
+  title: Why does the way of the wicked prosper? Running with horses
+  tradition: judaism
+- id: quran-4-hypocrites-wavering
+  title: Articles of faith; hypocrites wavering between two sides
+  tradition: islam
+matches:
+- kind: echo
+  label: God is near in their mouths but far from their kidneys (hearts)
+  note: 'Jer: qārôv ʾattāh bə-fîhem wə-rāḥôq mi-kilyôtêhem. Q: the hypocrites'' outward prayer and little
+    remembrance of God (wa-lā yadhkurūna llāha illā qalīlan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 12:2
+      lang: he
+      text: נְטַעְתָּם֙ גַּם שֹׁרָ֔שׁוּ יֵלְכ֖וּ גַּם עָ֣שׂוּ פֶ֑רִי קָר֤וֹב אַתָּה֙ בְּפִיהֶ֔ם וְרָח֖וֹק
+        מִכִּלְיוֹתֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:142
+      lang: ar
+      text: إِنَّ ٱلْمُنَٰفِقِينَ يُخَٰدِعُونَ ٱللَّهَ وَهُوَ خَٰدِعُهُمْ وَإِذَا قَامُوٓا۟ إِلَى ٱلصَّلَوٰةِ
+        قَامُوا۟ كُسَالَىٰ يُرَآءُونَ ٱلنَّاسَ وَلَا يَذْكُرُونَ ٱللَّهَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-14-drought-vs-quran-9-hypocrites-vow
 title: The drought - the doe forsakes her fawn; lying prophets ↔ The broken vow of charity; seventy prayers
   in vain
-summary: 'These two units share 1 motifs: god forbids the prophet to pray or intercede for the people,
-  for he will not hear.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,24 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-forbidden-to-intercede
-passages:
-- tradition: judaism
-  ref: Jer 14:11
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י אַל תִּתְפַּלֵּ֛ל בְּעַד הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה
-- tradition: islam
-  ref: Quran 9:80
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن
-    يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs istaghfir lahum aw lā tastaghfir lahum.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
     he will not hear (weight 5.4). Pair score 5.4.'
@@ -64,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God forbids the prophet to pray or intercede for the people, for he will not hear
+kinds:
+- parallel
+units:
+- id: hb-jer-14-drought
+  title: The drought - the doe forsakes her fawn; lying prophets
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: parallel
+  label: God forbids the prophet to pray or intercede for the people, for he will not hear
+  note: ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs istaghfir lahum aw lā tastaghfir lahum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 14:11
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י אַל תִּתְפַּלֵּ֛ל בְּעַד הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:80
+      lang: ar
+      text: ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً
+        فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱللَّهُ لَا
+        يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

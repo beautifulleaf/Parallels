@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ps-91-shelter-of-most-high-vs-quran-72-jinn
 title: Psalm 91, shelter of the Most High; the noonday demon; angels bear you up ↔ The jinn hear the recitation
-summary: 'These two units share 2 motifs: men used to seek refuge with male jinn, who only increased them
-  in burden [contrast between the texts], god commands his angels to guard the faithful and bear him on
-  their palms lest he strike his foot on a stone.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,67 +15,9 @@ layers:
 motifs:
 - humans-seek-refuge-with-jinn-as-contrast
 - angels-guard-and-bear-up
-passages:
-- tradition: judaism
-  ref: Ps 91:1
-  note: 'Men used to seek refuge with male jinn, who only increased them in burden [contrast between the
-    texts] (Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin mina
-    l-jinni fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî û-meṣûdātî.
-    In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in Q 72 the jinn
-    are what men wrongly shelter in.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֹ֭שֵׁב בְּסֵ֣תֶר עֶלְי֑וֹן בְּצֵ֥ל שַׁ֝דַּ֗י יִתְלוֹנָֽן
-- tradition: judaism
-  ref: Ps 91:2
-  note: 'Men used to seek refuge with male jinn, who only increased them in burden [contrast between the
-    texts] (Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin mina
-    l-jinni fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî û-meṣûdātî.
-    In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in Q 72 the jinn
-    are what men wrongly shelter in.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֹמַ֗ר לַֽ֭יהוָה מַחְסִ֣י וּמְצוּדָתִ֑י אֱ֝לֹהַ֗י אֶבְטַח בּֽוֹ
-- tradition: islam
-  ref: Quran 72:6
-  note: 'Men used to seek refuge with male jinn, who only increased them in burden [contrast between the
-    texts] (Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin mina
-    l-jinni fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî û-meṣûdātî.
-    In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in Q 72 the jinn
-    are what men wrongly shelter in.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا
-- tradition: judaism
-  ref: Ps 91:11-12
-  note: God commands his angels to guard the faithful and bear him on their palms lest he strike his foot
-    on a stone
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (91:11) כִּ֣י מַ֭לְאָכָיו יְצַוֶּה לָּ֑ךְ לִ֝שְׁמָרְךָ֗ בְּכָל דְּרָכֶֽיךָ (91:12) עַל כַּפַּ֥יִם
-    יִשָּׂא֑וּנְךָ פֶּן תִּגֹּ֖ף בָּאֶ֣בֶן רַגְלֶֽךָ
-- tradition: judaism
-  ref: Ps 91:11
-  note: God commands his angels to guard the faithful and bear him on their palms lest he strike his foot
-    on a stone
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מַ֭לְאָכָיו יְצַוֶּה לָּ֑ךְ לִ֝שְׁמָרְךָ֗ בְּכָל דְּרָכֶֽיךָ
-- tradition: islam
-  ref: Quran 72:27
-  note: God commands his angels to guard the faithful and bear him on their palms lest he strike his foot
-    on a stone (watchers (rasad) sent before and behind the messenger)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast, echo. Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin
-    mina l-jinni fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî
-    û-meṣûdātî. In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in
-    Q 72 the jinn are what men wrongly shelter in. fa-innahu yasluku min bayni yadayhi wa-min khalfihi
-    raṣadan ~ kî malʾākāyw yeṣawweh lāk lišmorkā be-kol derākêkā. Guardian angels around the protected
-    one; in Q 72 they guard the messenger and his message.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Men used to seek refuge with male jinn, who only increased them
     in burden [contrast between the texts] (weight 6.7); God commands his angels to guard the faithful
@@ -112,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Men used to seek refuge with male jinn, who only increased them in burden
+kinds:
+- contrast
+- echo
+units:
+- id: hb-ps-91-shelter-of-most-high
+  title: Psalm 91, shelter of the Most High; the noonday demon; angels bear you up
+  tradition: judaism
+- id: quran-72-jinn
+  title: The jinn hear the recitation
+  tradition: islam
+matches:
+- kind: contrast
+  label: Men used to seek refuge with male jinn, who only increased them in burden
+  note: 'Refuge sought from spirits vs. from God: kāna rijālun mina l-insi yaʿūdhūna bi-rijālin mina l-jinni
+    fa-zādūhum rahaqan ~ yōšēv be-sēter ʿElyôn be-ṣēl Šaddai yitlônān, ʾōmar la-YHWH maḥsî û-meṣûdātî.
+    In Ps 91 the night terrors and qeṭev yāšûd ṣohŏrāyim are what one is sheltered from; in Q 72 the jinn
+    are what men wrongly shelter in.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 91:1
+      lang: he
+      text: יֹ֭שֵׁב בְּסֵ֣תֶר עֶלְי֑וֹן בְּצֵ֥ל שַׁ֝דַּ֗י יִתְלוֹנָֽן
+    - ref: Ps 91:2
+      lang: he
+      text: אֹמַ֗ר לַֽ֭יהוָה מַחְסִ֣י וּמְצוּדָתִ֑י אֱ֝לֹהַ֗י אֶבְטַח בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 72:6
+      lang: ar
+      text: وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا
+- kind: echo
+  label: God commands his angels to guard the faithful and bear him on their palms lest he strike his
+    foot on a stone
+  note: fa-innahu yasluku min bayni yadayhi wa-min khalfihi raṣadan ~ kî malʾākāyw yeṣawweh lāk lišmorkā
+    be-kol derākêkā. Guardian angels around the protected one; in Q 72 they guard the messenger and his
+    message.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 91:11
+      lang: he
+      text: כִּ֣י מַ֭לְאָכָיו יְצַוֶּה לָּ֑ךְ לִ֝שְׁמָרְךָ֗ בְּכָל דְּרָכֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 72:27
+      lang: ar
+      text: إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ
+        رَصَدًا
 ---
 
 ## Questions

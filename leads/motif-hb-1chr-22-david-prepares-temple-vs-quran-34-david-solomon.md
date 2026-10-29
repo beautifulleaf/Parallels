@@ -2,7 +2,7 @@
 id: motif-hb-1chr-22-david-prepares-temple-vs-quran-34-david-solomon
 title: David prepares materials and charges Solomon to build the temple ↔ David's mountains and mail;
   Solomon's wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: god taught david the craft of making coats of mail.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - david-taught-to-make-mail
-passages:
-- tradition: judaism
-  ref: 1Chr 22:3
-  note: 'God taught David the craft of making coats of mail (û-ḇarzel lā-rōḇ la-mmismərîm ... hēḵîn dāwîḏ
-    û-nəḥōšeṯ lā-rōḇ ʾên mišqāl vs. wa-alannā lahu l-ḥadīd: David and abundant iron (barzel / ḥadīd),
-    in Chronicles stockpiled for the temple, in the Quran made soft in his hands for armour.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבַרְזֶ֣ל לָ֠רֹב לַֽמִּסְמְרִ֞ים לְדַלְת֧וֹת הַשְּׁעָרִ֛ים וְלַֽמְחַבְּר֖וֹת הֵכִ֣ין דָּוִ֑יד
-    וּנְחֹ֥שֶׁת לָרֹ֖ב אֵ֥ין מִשְׁקָֽל
-- tradition: islam
-  ref: Quran 34:10
-  note: God taught David the craft of making coats of mail (iron softened for him; measure the links (sard))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
-    لَهُ ٱلْحَدِيدَ
-- tradition: islam
-  ref: Quran 34:11
-  note: God taught David the craft of making coats of mail (iron softened for him; measure the links (sard))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱعْمَلْ سَٰبِغَٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ وَٱعْمَلُوا۟ صَٰلِحًا إِنِّى بِمَا تَعْمَلُونَ
-    بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. û-ḇarzel lā-rōḇ la-mmismərîm ... hēḵîn dāwîḏ û-nəḥōšeṯ lā-rōḇ ʾên mišqāl vs. wa-alannā lahu
-    l-ḥadīd: David and abundant iron (barzel / ḥadīd), in Chronicles stockpiled for the temple, in the
-    Quran made soft in his hands for armour.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God taught David the craft of making coats of mail (weight 6.3).
     Pair score 6.3.'
@@ -78,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God taught David the craft of making coats of mail
+kinds:
+- echo
+units:
+- id: hb-1chr-22-david-prepares-temple
+  title: David prepares materials and charges Solomon to build the temple
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: God taught David the craft of making coats of mail
+  note: 'û-ḇarzel lā-rōḇ la-mmismərîm ... hēḵîn dāwîḏ û-nəḥōšeṯ lā-rōḇ ʾên mišqāl vs. wa-alannā lahu l-ḥadīd:
+    David and abundant iron (barzel / ḥadīd), in Chronicles stockpiled for the temple, in the Quran made
+    soft in his hands for armour.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 22:3
+      lang: he
+      text: וּבַרְזֶ֣ל לָ֠רֹב לַֽמִּסְמְרִ֞ים לְדַלְת֧וֹת הַשְּׁעָרִ֛ים וְלַֽמְחַבְּר֖וֹת הֵכִ֣ין דָּוִ֑יד
+        וּנְחֹ֥שֶׁת לָרֹ֖ב אֵ֥ין מִשְׁקָֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 34:10
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
+        لَهُ ٱلْحَدِيدَ
 ---
 
 ## Questions

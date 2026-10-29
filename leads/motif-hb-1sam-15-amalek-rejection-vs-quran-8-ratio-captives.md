@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-15-amalek-rejection-vs-quran-8-ratio-captives
 title: War on Amalek, Agag spared, and Saul's rejection ↔ The ratio of the steadfast, captives and ransom
-summary: 'These two units share 1 motifs: conqueror spares the enemy king and best livestock against god''s
-  command.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +13,9 @@ layers:
 - motif
 motifs:
 - enemy-king-spared-against-command
-passages:
-- tradition: judaism
-  ref: 1Sam 15:8
-  note: Conqueror spares the enemy king and best livestock against God's command
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפֹּ֛שׂ אֶת אֲגַ֥ג מֶֽלֶךְ עֲמָלֵ֖ק חָ֑י וְאֶת כָּל הָעָ֖ם הֶחֱרִ֥ים לְפִי חָֽרֶב
-- tradition: judaism
-  ref: 1Sam 15:9
-  note: Conqueror spares the enemy king and best livestock against God's command
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּחְמֹל֩ שָׁא֨וּל וְהָעָ֜ם עַל אֲגָ֗ג וְעַל מֵיטַ֣ב הַצֹּאן֩ וְהַבָּקָ֨ר וְהַמִּשְׁנִ֤ים וְעַל
-    הַכָּרִים֙ וְעַל כָּל הַטּ֔וֹב וְלֹ֥א אָב֖וּ הַחֲרִימָ֑ם וְכָל הַמְּלָאכָ֛ה נְמִבְזָ֥ה וְנָמֵ֖ס אֹתָ֥הּ
-    הֶחֱרִֽימוּ
-- tradition: islam
-  ref: Quran 8:67
-  note: 'Conqueror spares the enemy king and best livestock against God''s command (Sparing captives and
-    taking booty out of desire for gain: turīdūna ʿaraḍa d-dunyā wa-llāhu yurīdu l-ākhira vs wayyaḥmōl
-    šāʾûl wᵉhāʿām ʿal-ʾăgāg wᵉʿal-mêṭab haṣṣōʾn ...; wattaʿaṭ ʾel-haššālāl. Saul is rejected; in Q the
-    believers are forgiven and allowed to eat the booty (8:69).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ لِنَبِىٍّ أَن يَكُونَ لَهُۥٓ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِى ٱلْأَرْضِ تُرِيدُونَ عَرَضَ
-    ٱلدُّنْيَا وَٱللَّهُ يُرِيدُ ٱلْءَاخِرَةَ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Sparing captives and taking booty out of desire for gain: turīdūna ʿaraḍa d-dunyā wa-llāhu yurīdu
-    l-ākhira vs wayyaḥmōl šāʾûl wᵉhāʿām ʿal-ʾăgāg wᵉʿal-mêṭab haṣṣōʾn ...; wattaʿaṭ ʾel-haššālāl. Saul
-    is rejected; in Q the believers are forgiven and allowed to eat the booty (8:69).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Conqueror spares the enemy king and best livestock against God''s
     command (weight 6.0). Pair score 6.0.'
@@ -69,6 +41,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Conqueror spares the enemy king and best livestock against God's command
+kinds:
+- echo
+units:
+- id: hb-1sam-15-amalek-rejection
+  title: War on Amalek, Agag spared, and Saul's rejection
+  tradition: judaism
+- id: quran-8-ratio-captives
+  title: The ratio of the steadfast, captives and ransom
+  tradition: islam
+matches:
+- kind: echo
+  label: Conqueror spares the enemy king and best livestock against God's command
+  note: 'Sparing captives and taking booty out of desire for gain: turīdūna ʿaraḍa d-dunyā wa-llāhu yurīdu
+    l-ākhira vs wayyaḥmōl šāʾûl wᵉhāʿām ʿal-ʾăgāg wᵉʿal-mêṭab haṣṣōʾn ...; wattaʿaṭ ʾel-haššālāl. Saul
+    is rejected; in Q the believers are forgiven and allowed to eat the booty (8:69).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 15:9
+      lang: he
+      text: וַיַּחְמֹל֩ שָׁא֨וּל וְהָעָ֜ם עַל אֲגָ֗ג וְעַל מֵיטַ֣ב הַצֹּאן֩ וְהַבָּקָ֨ר וְהַמִּשְׁנִ֤ים
+        וְעַל הַכָּרִים֙ וְעַל כָּל הַטּ֔וֹב וְלֹ֥א אָב֖וּ הַחֲרִימָ֑ם וְכָל הַמְּלָאכָ֛ה נְמִבְזָ֥ה וְנָמֵ֖ס
+        אֹתָ֥הּ הֶחֱרִֽימוּ
+    - ref: 1Sam 15:19
+      lang: he
+      text: וְלָ֥מָּה לֹא שָׁמַ֖עְתָּ בְּק֣וֹל יְהוָ֑ה וַתַּ֨עַט֙ אֶל הַשָּׁלָ֔ל וַתַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֥י
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:67
+      lang: ar
+      text: مَا كَانَ لِنَبِىٍّ أَن يَكُونَ لَهُۥٓ أَسْرَىٰ حَتَّىٰ يُثْخِنَ فِى ٱلْأَرْضِ تُرِيدُونَ
+        عَرَضَ ٱلدُّنْيَا وَٱللَّهُ يُرِيدُ ٱلْءَاخِرَةَ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

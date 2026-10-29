@@ -2,8 +2,7 @@
 id: motif-hb-num-30-vows-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Vows of men and women ↔ Al-Tahrim: the prohibited thing and the divulged secret; fire fed with
   stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
-summary: 'These two units share 2 motifs: a man''s vow or oath must be fulfilled as uttered [contrast
-  between the texts], father or husband may annul a woman''s vow on the day he hears it.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,87 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- binding-vows-as-contrast
 - annulment-of-womens-vows
-passages:
-- tradition: judaism
-  ref: Num 30:3
-  note: 'A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (Self-imposed
-    prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr ʾissār ʿal nafšô lōʾ
-    yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only a woman''s vow can be
-    annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu mā aḥalla llāhu
-    laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding himself
-    what is lawful and prescribes the release of men''s oaths.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
-    לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
-- tradition: judaism
-  ref: Num 30:9
-  note: 'A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (Self-imposed
-    prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr ʾissār ʿal nafšô lōʾ
-    yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only a woman''s vow can be
-    annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu mā aḥalla llāhu
-    laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding himself
-    what is lawful and prescribes the release of men''s oaths.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אִם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ וְאֵת֙
-    מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָׁ֑הּ וַיהוָ֖ה יִֽסְלַֽח לָֽהּ
-- tradition: islam
-  ref: Quran 66:1
-  note: 'A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (Self-imposed
-    prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr ʾissār ʿal nafšô lōʾ
-    yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only a woman''s vow can be
-    annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu mā aḥalla llāhu
-    laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding himself
-    what is lawful and prescribes the release of men''s oaths.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ
-    وَٱللَّهُ غَفُورٌ رَّحِيمٌ
-- tradition: islam
-  ref: Quran 66:2
-  note: 'A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (Self-imposed
-    prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr ʾissār ʿal nafšô lōʾ
-    yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only a woman''s vow can be
-    annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu mā aḥalla llāhu
-    laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding himself
-    what is lawful and prescribes the release of men''s oaths.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ وَٱللَّهُ مَوْلَىٰكُمْ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
-- tradition: judaism
-  ref: Num 30:6
-  note: Father or husband may annul a woman's vow on the day he hears it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם הֵנִ֨יא אָבִ֣יהָ אֹתָהּ֮ בְּי֣וֹם שָׁמְעוֹ֒ כָּל נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛יהָ אֲשֶׁר אָסְרָ֥ה
-    עַל נַפְשָׁ֖הּ לֹ֣א יָק֑וּם וַֽיהוָה֙ יִֽסְלַח לָ֔הּ כִּי הֵנִ֥יא אָבִ֖יהָ אֹתָֽהּ
-- tradition: judaism
-  ref: Num 30:9
-  note: Father or husband may annul a woman's vow on the day he hears it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אִם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ וְאֵת֙
-    מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָׁ֑הּ וַיהוָ֖ה יִֽסְלַֽח לָֽהּ
-- tradition: islam
-  ref: Quran 66:2
-  note: Father or husband may annul a woman's vow on the day he hears it (here the man's oath is dissolved
-    (tahillat al-ayman))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ وَٱللَّهُ مَوْلَىٰكُمْ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+- binding-vows-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. Self-imposed prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr
-    ʾissār ʿal nafšô lōʾ yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only
-    a woman''s vow can be annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu
-    mā aḥalla llāhu laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding
-    himself what is lawful and prescribes the release of men''s oaths.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A man''s vow or oath must be fulfilled as uttered [contrast between
-    the texts] (weight 6.7); Father or husband may annul a woman''s vow on the day he hears it (weight
+- text: 'Shared motifs, rarest first: Father or husband may annul a woman''s vow on the day he hears it
+    (weight 6.7); A man''s vow or oath must be fulfilled as uttered [contrast between the texts] (weight
     6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Vows of men and women: Silence on hearing counts as confirmation; Vows of a widow or
@@ -124,6 +50,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man's vow or oath must be fulfilled as uttered
+kinds:
+- contrast
+- shared
+units:
+- id: hb-num-30-vows
+  title: Vows of men and women
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: contrast
+  label: A man's vow or oath must be fulfilled as uttered
+  note: 'Self-imposed prohibition by oath: Num 30:3 ʾîš kî yiddōr neder ... ʾô hiššāvaʿševuʿāh leʾsōr
+    ʾissār ʿal nafšô lōʾ yaḥēl devārô (a man''s binding prohibition on himself cannot be broken; only
+    a woman''s vow can be annulled by father or husband, 30:9 we-hēfēr ʾet nidrāh). Q 66:1-2 lima tuḥarrimu
+    mā aḥalla llāhu laka ... qad faraḍa llāhu lakum taḥillata aymānikum: God rebukes the prophet for forbidding
+    himself what is lawful and prescribes the release of men''s oaths.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 30:3
+      lang: he
+      text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
+        לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
+    - ref: Num 30:9
+      lang: he
+      text: וְ֠אִם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ
+        וְאֵת֙ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָׁ֑הּ וַיהוָ֖ה יִֽסְלַֽח לָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 66:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ
+        وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+    - ref: Quran 66:2
+      lang: ar
+      text: قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ وَٱللَّهُ مَوْلَىٰكُمْ وَهُوَ ٱلْعَلِيمُ
+        ٱلْحَكِيمُ
+- kind: shared
+  label: Father or husband may annul a woman's vow on the day he hears it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 30:6
+      lang: he
+      text: וְאִם הֵנִ֨יא אָבִ֣יהָ אֹתָהּ֮ בְּי֣וֹם שָׁמְעוֹ֒ כָּל נְדָרֶ֗יהָ וֶֽאֱסָרֶ֛יהָ אֲשֶׁר אָסְרָ֥ה
+        עַל נַפְשָׁ֖הּ לֹ֣א יָק֑וּם וַֽיהוָה֙ יִֽסְלַח לָ֔הּ כִּי הֵנִ֥יא אָבִ֖יהָ אֹתָֽהּ
+    - ref: Num 30:9
+      lang: he
+      text: וְ֠אִם בְּי֨וֹם שְׁמֹ֣עַ אִישָׁהּ֮ יָנִ֣יא אוֹתָהּ֒ וְהֵפֵ֗ר אֶת נִדְרָהּ֙ אֲשֶׁ֣ר עָלֶ֔יהָ
+        וְאֵת֙ מִבְטָ֣א שְׂפָתֶ֔יהָ אֲשֶׁ֥ר אָסְרָ֖ה עַל נַפְשָׁ֑הּ וַיהוָ֖ה יִֽסְלַֽח לָֽהּ
+    - ref: Num 30:13
+      lang: he
+      text: וְאִם הָפֵר֩ יָפֵ֨ר אֹתָ֥ם אִישָׁהּ֮ בְּי֣וֹם שָׁמְעוֹ֒ כָּל מוֹצָ֨א שְׂפָתֶ֧יהָ לִנְדָרֶ֛יהָ
+        וּלְאִסַּ֥ר נַפְשָׁ֖הּ לֹ֣א יָק֑וּם אִישָׁ֣הּ הֲפֵרָ֔ם וַיהוָ֖ה יִֽסְלַֽח לָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 66:2
+      lang: ar
+      text: قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ وَٱللَّهُ مَوْلَىٰكُمْ وَهُوَ ٱلْعَلِيمُ
+        ٱلْحَكِيمُ
+    note: here the man's oath is dissolved (tahillat al-ayman)
 ---
 
 ## Questions

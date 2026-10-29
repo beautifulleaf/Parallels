@@ -2,7 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-23-lordship-arguments
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Who owns the earth? The fables of the
   ancients and the impossibility of many gods
-summary: 'These two units share 1 motifs: the hearing ear and the seeing eye, yhwh made them both.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - god-made-ear-and-eye
-passages:
-- tradition: judaism
-  ref: Prov 20:12
-  note: The hearing ear and the seeing eye, YHWH made them both
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֹ֣זֶן שֹׁ֭מַעַת וְעַ֣יִן רֹאָ֑ה יְ֝הוָ֗ה עָשָׂ֥ה גַם שְׁנֵיהֶֽם
-- tradition: islam
-  ref: Quran 23:78
-  note: 'The hearing ear and the seeing eye, YHWH made them both (wa-huwa lladhī anshaʾa lakumu s-samʿa
-    wa-l-abṣāra wa-l-afʾidata ~ ʾōzen šōmaʿat wə-ʿayin rōʾâ YHWH ʿāśâ gam šənêhem: God made hearing and
-    sight. The Quran adds the heart (afʾida) and the reproach qalīlan mā tashkurūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-huwa lladhī anshaʾa lakumu s-samʿa wa-l-abṣāra wa-l-afʾidata ~ ʾōzen šōmaʿat wə-ʿayin
-    rōʾâ YHWH ʿāśâ gam šənêhem: God made hearing and sight. The Quran adds the heart (afʾida) and the
-    reproach qalīlan mā tashkurūn.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hearing ear and the seeing eye, YHWH made them both (weight
     6.3). Pair score 6.3.'
@@ -69,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The hearing ear and the seeing eye, YHWH made them both
+kinds:
+- parallel
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: parallel
+  label: The hearing ear and the seeing eye, YHWH made them both
+  note: 'wa-huwa lladhī anshaʾa lakumu s-samʿa wa-l-abṣāra wa-l-afʾidata ~ ʾōzen šōmaʿat wə-ʿayin rōʾâ
+    YHWH ʿāśâ gam šənêhem: God made hearing and sight. The Quran adds the heart (afʾida) and the reproach
+    qalīlan mā tashkurūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:12
+      lang: he
+      text: אֹ֣זֶן שֹׁ֭מַעַת וְעַ֣יִן רֹאָ֑ה יְ֝הוָ֗ה עָשָׂ֥ה גַם שְׁנֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:78
+      lang: ar
+      text: وَهُوَ ٱلَّذِىٓ أَنشَأَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ قَلِيلًا مَّا تَشْكُرُونَ
 ---
 
 ## Questions

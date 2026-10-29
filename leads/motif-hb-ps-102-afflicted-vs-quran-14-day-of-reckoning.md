@@ -2,8 +2,7 @@
 id: motif-hb-ps-102-afflicted-vs-quran-14-day-of-reckoning
 title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment ↔ The day eyes stare and
   the earth is changed (Surah 14:42-52)
-summary: 'These two units share 1 motifs: on the last day the earth is changed into another earth, and
-  the heavens too.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - earth-changed-into-another-earth
-passages:
-- tradition: judaism
-  ref: Ps 102:26
-  note: 'On the last day the earth is changed into another earth, and the heavens too (yawma tubaddalu
-    l-arḍu ghayra l-arḍi wa-s-samāwāt; ləpānîm hāʾāreṣ yāsadtā ... hēmmâ yōʾbēdû ... kalləbûš taḥălîpēm
-    wəyaḥălōpû: earth and heaven are exchanged for others, changed like a garment. Ps contrasts them with
-    God who stays (wəʾattâ hûʾ); Q''s sequel is everyone coming out before al-wāḥid al-qahhār.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם
-- tradition: judaism
-  ref: Ps 102:27
-  note: 'On the last day the earth is changed into another earth, and the heavens too (yawma tubaddalu
-    l-arḍu ghayra l-arḍi wa-s-samāwāt; ləpānîm hāʾāreṣ yāsadtā ... hēmmâ yōʾbēdû ... kalləbûš taḥălîpēm
-    wəyaḥălōpû: earth and heaven are exchanged for others, changed like a garment. Ps contrasts them with
-    God who stays (wəʾattâ hûʾ); Q''s sequel is everyone coming out before al-wāḥid al-qahhār.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
-    וְֽיַחֲלֹֽפוּ
-- tradition: islam
-  ref: Quran 14:48
-  note: On the last day the earth is changed into another earth, and the heavens too (yawma tubaddalu
-    l-arḍu ghayra l-arḍ wa-l-samāwāt)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. yawma tubaddalu l-arḍu ghayra l-arḍi wa-s-samāwāt; ləpānîm hāʾāreṣ yāsadtā ... hēmmâ yōʾbēdû
-    ... kalləbûš taḥălîpēm wəyaḥălōpû: earth and heaven are exchanged for others, changed like a garment.
-    Ps contrasts them with God who stays (wəʾattâ hûʾ); Q''s sequel is everyone coming out before al-wāḥid
-    al-qahhār.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the last day the earth is changed into another earth, and the
     heavens too (weight 6.3). Pair score 6.3.'
@@ -81,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the last day the earth is changed into another earth, and the heavens too
+kinds:
+- parallel
+units:
+- id: hb-ps-102-afflicted
+  title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment
+  tradition: judaism
+- id: quran-14-day-of-reckoning
+  title: The day eyes stare and the earth is changed (Surah 14:42-52)
+  tradition: islam
+matches:
+- kind: parallel
+  label: On the last day the earth is changed into another earth, and the heavens too
+  note: 'yawma tubaddalu l-arḍu ghayra l-arḍi wa-s-samāwāt; ləpānîm hāʾāreṣ yāsadtā ... hēmmâ yōʾbēdû
+    ... kalləbûš taḥălîpēm wəyaḥălōpû: earth and heaven are exchanged for others, changed like a garment.
+    Ps contrasts them with God who stays (wəʾattâ hûʾ); Q''s sequel is everyone coming out before al-wāḥid
+    al-qahhār.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 102:26
+      lang: he
+      text: לְ֭פָנִים הָאָ֣רֶץ יָסַ֑דְתָּ וּֽמַעֲשֵׂ֖ה יָדֶ֣יךָ שָׁמָֽיִם
+    - ref: Ps 102:27
+      lang: he
+      text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
+        וְֽיַחֲלֹֽפוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:48
+      lang: ar
+      text: يَوْمَ تُبَدَّلُ ٱلْأَرْضُ غَيْرَ ٱلْأَرْضِ وَٱلسَّمَٰوَٰتُ وَبَرَزُوا۟ لِلَّهِ ٱلْوَٰحِدِ
+        ٱلْقَهَّارِ
 ---
 
 ## Questions

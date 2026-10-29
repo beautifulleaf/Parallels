@@ -2,8 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-24-ifk-slander
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ The affair of the lie (ifk)
   against a chaste woman
-summary: 'These two units share 1 motifs: do not spread false reports or follow the majority to do wrong
-  in court.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 - motif
 motifs:
 - no-false-report-or-following-majority
-passages:
-- tradition: judaism
-  ref: Exod 23:1
-  note: Do not spread false reports or follow the majority to do wrong in court
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל תָּ֤שֶׁת יָֽדְךָ֙ עִם רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס
-- tradition: judaism
-  ref: Exod 23:2
-  note: Do not spread false reports or follow the majority to do wrong in court
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִהְיֶ֥ה אַחֲרֵֽי רַבִּ֖ים לְרָעֹ֑ת וְלֹא תַעֲנֶ֣ה עַל רִ֗ב לִנְטֹ֛ת אַחֲרֵ֥י רַבִּ֖ים לְהַטֹּֽת
-- tradition: islam
-  ref: Quran 24:12
-  note: 'Do not spread false reports or follow the majority to do wrong in court (lōʾ tiśśāʾ šēmaʿ šāwʾ
-    ~ law-lā idh samiʿtumūhu ... qultum mā yakūnu lanā an natakallama bi-hādhā ... idh talaqqawnahu bi-alsinatikum:
-    do not take up and pass on a false report you have heard (šēmaʿ / samiʿtumūhu). The Quran makes it
-    a narrative rebuke of a community that repeated a lie (ifk) about one woman.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًا وَقَالُوا۟
-    هَٰذَآ إِفْكٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 24:15
-  note: 'Do not spread false reports or follow the majority to do wrong in court (lōʾ tiśśāʾ šēmaʿ šāwʾ
-    ~ law-lā idh samiʿtumūhu ... qultum mā yakūnu lanā an natakallama bi-hādhā ... idh talaqqawnahu bi-alsinatikum:
-    do not take up and pass on a false report you have heard (šēmaʿ / samiʿtumūhu). The Quran makes it
-    a narrative rebuke of a community that repeated a lie (ifk) about one woman.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
-    وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. lōʾ tiśśāʾ šēmaʿ šāwʾ ~ law-lā idh samiʿtumūhu ... qultum mā yakūnu lanā an natakallama
-    bi-hādhā ... idh talaqqawnahu bi-alsinatikum: do not take up and pass on a false report you have heard
-    (šēmaʿ / samiʿtumūhu). The Quran makes it a narrative rebuke of a community that repeated a lie (ifk)
-    about one woman.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not spread false reports or follow the majority to do wrong in
     court (weight 6.3). Pair score 6.3.'
@@ -85,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not spread false reports or follow the majority to do wrong in court
+kinds:
+- parallel
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-24-ifk-slander
+  title: The affair of the lie (ifk) against a chaste woman
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not spread false reports or follow the majority to do wrong in court
+  note: 'lōʾ tiśśāʾ šēmaʿ šāwʾ ~ law-lā idh samiʿtumūhu ... qultum mā yakūnu lanā an natakallama bi-hādhā
+    ... idh talaqqawnahu bi-alsinatikum: do not take up and pass on a false report you have heard (šēmaʿ
+    / samiʿtumūhu). The Quran makes it a narrative rebuke of a community that repeated a lie (ifk) about
+    one woman.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:1
+      lang: he
+      text: לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל תָּ֤שֶׁת יָֽדְךָ֙ עִם רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס
+  - tradition: islam
+    passages:
+    - ref: Quran 24:12
+      lang: ar
+      text: لَّوْلَآ إِذْ سَمِعْتُمُوهُ ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَٰتُ بِأَنفُسِهِمْ خَيْرًا وَقَالُوا۟
+        هَٰذَآ إِفْكٌ مُّبِينٌ
+    - ref: Quran 24:15
+      lang: ar
+      text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
+        وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
+    - ref: Quran 24:16
+      lang: ar
+      text: وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ
+        هَٰذَا بُهْتَٰنٌ عَظِيمٌ
 ---
 
 ## Questions

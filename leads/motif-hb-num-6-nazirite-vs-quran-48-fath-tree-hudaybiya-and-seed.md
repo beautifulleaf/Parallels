@@ -2,8 +2,7 @@
 id: motif-hb-num-6-nazirite-vs-quran-48-fath-tree-hudaybiya-and-seed
 title: The Nazirite vow ↔ The pledge under the tree, the hidden believers in Mecca, the dream of entering
   the sanctuary, and the seed parable from Torah and Gospel
-summary: 'These two units share 1 motifs: nazirite''s shaved hair is put on the fire under the well-being
-  offering.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - shaved-hair-burned-on-altar-fire
-passages:
-- tradition: judaism
-  ref: Num 6:18
-  note: Nazirite's shaved hair is put on the fire under the well-being offering
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת רֹ֣אשׁ נִזְר֑וֹ וְלָקַ֗ח אֶת שְׂעַר֙ רֹ֣אשׁ נִזְר֔וֹ
-    וְנָתַן֙ עַל הָאֵ֔שׁ אֲשֶׁר תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים
-- tradition: islam
-  ref: Quran 48:27
-  note: 'Nazirite''s shaved hair is put on the fire under the well-being offering (loose: ritual shaving
-    of the head at the end of a vowed pilgrimage, like the Nazirite)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ إِن
-    شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ مَا لَمْ
-    تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Shaving the head when a sacred journey or vow is completed: wə-ḡillaḥ han-nāzîr peṯaḥ ʾōhel
-    môʿēḏ ʾeṯ rōʾš nizrô ... wə-nāṯan ʿal hā-ʾēš vs. la-tadkhulunna l-masjida l-ḥarāma in shāʾa llāhu
-    āminīna muḥalliqīna ruʾūsakum wa-muqaṣṣirīn. The Nazirite shaves at the sanctuary door and burns the
-    hair; the pilgrim may shave or cut short, and nothing is burned.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nazirite''s shaved hair is put on the fire under the well-being
     offering (weight 6.7). Pair score 6.7.'
@@ -75,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nazirite's shaved hair is put on the fire under the well-being offering
+kinds:
+- echo
+units:
+- id: hb-num-6-nazirite
+  title: The Nazirite vow
+  tradition: judaism
+- id: quran-48-fath-tree-hudaybiya-and-seed
+  title: The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
+    and the seed parable from Torah and Gospel
+  tradition: islam
+matches:
+- kind: echo
+  label: Nazirite's shaved hair is put on the fire under the well-being offering
+  note: 'Shaving the head when a sacred journey or vow is completed: wə-ḡillaḥ han-nāzîr peṯaḥ ʾōhel môʿēḏ
+    ʾeṯ rōʾš nizrô ... wə-nāṯan ʿal hā-ʾēš vs. la-tadkhulunna l-masjida l-ḥarāma in shāʾa llāhu āminīna
+    muḥalliqīna ruʾūsakum wa-muqaṣṣirīn. The Nazirite shaves at the sanctuary door and burns the hair;
+    the pilgrim may shave or cut short, and nothing is burned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 6:18
+      lang: he
+      text: וְגִלַּ֣ח הַנָּזִ֗יר פֶּ֛תַח אֹ֥הֶל מוֹעֵ֖ד אֶת רֹ֣אשׁ נִזְר֑וֹ וְלָקַ֗ח אֶת שְׂעַר֙ רֹ֣אשׁ
+        נִזְר֔וֹ וְנָתַן֙ עַל הָאֵ֔שׁ אֲשֶׁר תַּ֖חַת זֶ֥בַח הַשְּׁלָמִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 48:27
+      lang: ar
+      text: لَّقَدْ صَدَقَ ٱللَّهُ رَسُولَهُ ٱلرُّءْيَا بِٱلْحَقِّ لَتَدْخُلُنَّ ٱلْمَسْجِدَ ٱلْحَرَامَ
+        إِن شَآءَ ٱللَّهُ ءَامِنِينَ مُحَلِّقِينَ رُءُوسَكُمْ وَمُقَصِّرِينَ لَا تَخَافُونَ فَعَلِمَ
+        مَا لَمْ تَعْلَمُوا۟ فَجَعَلَ مِن دُونِ ذَٰلِكَ فَتْحًا قَرِيبًا
 ---
 
 ## Questions

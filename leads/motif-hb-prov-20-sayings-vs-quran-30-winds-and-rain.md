@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-30-winds-and-rain
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Winds and rain; the dead who cannot hear;
   the ages of man
-summary: 'These two units share 1 motifs: god created humans in weakness, then gave strength, then after
-  strength weakness and grey hair.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - stages-weakness-strength-weakness
-passages:
-- tradition: judaism
-  ref: Prov 20:29
-  note: God created humans in weakness, then gave strength, then after strength weakness and grey hair
-    (tip̄ʾereṯ baḥûrîm kōḥām wa-hăḏar zəqēnîm śêḇâ vs. min baʿdi ḍaʿfin quwwatan thumma ... min baʿdi
-    quwwatin ḍaʿfan wa-shaybatan. Strength (kōaḥ/quwwa) belongs to youth and grey hair (śêḇâ/shayba, cognate)
-    to age. Proverbs praises grey hair as glory; the Quran counts it as weakness returned.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְאֶ֣רֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה
-- tradition: islam
-  ref: Quran 30:54
-  note: God created humans in weakness, then gave strength, then after strength weakness and grey hair
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنۢ
-    بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً يَخْلُقُ مَا يَشَآءُ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. tip̄ʾereṯ baḥûrîm kōḥām wa-hăḏar zəqēnîm śêḇâ vs. min baʿdi ḍaʿfin quwwatan thumma ... min baʿdi
-    quwwatin ḍaʿfan wa-shaybatan. Strength (kōaḥ/quwwa) belongs to youth and grey hair (śêḇâ/shayba, cognate)
-    to age. Proverbs praises grey hair as glory; the Quran counts it as weakness returned.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created humans in weakness, then gave strength, then after strength
     weakness and grey hair (weight 6.7). Pair score 6.7.'
@@ -69,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God created humans in weakness, then gave strength, then after strength weakness and grey hair
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-30-winds-and-rain
+  title: Winds and rain; the dead who cannot hear; the ages of man
+  tradition: islam
+matches:
+- kind: echo
+  label: God created humans in weakness, then gave strength, then after strength weakness and grey hair
+  note: tip̄ʾereṯ baḥûrîm kōḥām wa-hăḏar zəqēnîm śêḇâ vs. min baʿdi ḍaʿfin quwwatan thumma ... min baʿdi
+    quwwatin ḍaʿfan wa-shaybatan. Strength (kōaḥ/quwwa) belongs to youth and grey hair (śêḇâ/shayba, cognate)
+    to age. Proverbs praises grey hair as glory; the Quran counts it as weakness returned.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:29
+      lang: he
+      text: תִּפְאֶ֣רֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 30:54
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِنۢ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ
+        مِنۢ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً يَخْلُقُ مَا يَشَآءُ وَهُوَ ٱلْعَلِيمُ ٱلْقَدِيرُ
 ---
 
 ## Questions

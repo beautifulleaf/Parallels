@@ -2,8 +2,7 @@
 id: motif-hb-amos-2-oracle-against-israel-vs-quran-38-sad-opening
 title: 'The oracle against Israel; sandals, pledged garments and silenced prophets ↔ Sad: the chiefs marvel
   at one God; the confederates of old'
-summary: 'These two units share 1 motifs: destroyed generations cried out when it was no longer a time
-  for escape (lata hina manas).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - too-late-for-escape
-passages:
-- tradition: judaism
-  ref: Amos 2:14
-  note: 'Destroyed generations cried out when it was no longer a time for escape (lata hina manas) (wə-ʾāḇaḏ
-    mānôs mi-qqāl wə-ḥāzāq lōʾ-yəʾammēṣ kōḥô vs. fa-nādaw wa-lāta ḥīna manāṣ: when judgment comes there
-    is no escape. mānôs (n-w-s) and manāṣ (n-w-ṣ) sound alike and mean nearly the same, but the roots
-    are not regular cognates; to be checked.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָבַ֤ד מָנוֹס֙ מִקָּ֔ל וְחָזָ֖ק לֹא יְאַמֵּ֣ץ כֹּח֑וֹ וְגִבּ֖וֹר לֹא יְמַלֵּ֥ט נַפְשֽׁוֹ
-- tradition: islam
-  ref: Quran 38:3
-  note: Destroyed generations cried out when it was no longer a time for escape (lata hina manas)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-ʾāḇaḏ mānôs mi-qqāl wə-ḥāzāq lōʾ-yəʾammēṣ kōḥô vs. fa-nādaw wa-lāta ḥīna manāṣ: when judgment
-    comes there is no escape. mānôs (n-w-s) and manāṣ (n-w-ṣ) sound alike and mean nearly the same, but
-    the roots are not regular cognates; to be checked.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Destroyed generations cried out when it was no longer a time for
     escape (lata hina manas) (weight 6.7). Pair score 6.7.'
@@ -69,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Destroyed generations cried out when it was no longer a time for escape (lata hina manas)
+kinds:
+- echo
+units:
+- id: hb-amos-2-oracle-against-israel
+  title: The oracle against Israel; sandals, pledged garments and silenced prophets
+  tradition: judaism
+- id: quran-38-sad-opening
+  title: 'Sad: the chiefs marvel at one God; the confederates of old'
+  tradition: islam
+matches:
+- kind: echo
+  label: Destroyed generations cried out when it was no longer a time for escape (lata hina manas)
+  note: 'wə-ʾāḇaḏ mānôs mi-qqāl wə-ḥāzāq lōʾ-yəʾammēṣ kōḥô vs. fa-nādaw wa-lāta ḥīna manāṣ: when judgment
+    comes there is no escape. mānôs (n-w-s) and manāṣ (n-w-ṣ) sound alike and mean nearly the same, but
+    the roots are not regular cognates; to be checked.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 2:14
+      lang: he
+      text: וְאָבַ֤ד מָנוֹס֙ מִקָּ֔ל וְחָזָ֖ק לֹא יְאַמֵּ֣ץ כֹּח֑וֹ וְגִבּ֖וֹר לֹא יְמַלֵּ֥ט נַפְשֽׁוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:3
+      lang: ar
+      text: كَمْ أَهْلَكْنَا مِن قَبْلِهِم مِّن قَرْنٍ فَنَادَوا۟ وَّلَاتَ حِينَ مَنَاصٍ
 ---
 
 ## Questions

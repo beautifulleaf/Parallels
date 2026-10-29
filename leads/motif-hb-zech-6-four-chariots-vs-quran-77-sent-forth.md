@@ -1,8 +1,7 @@
 ---
 id: motif-hb-zech-6-four-chariots-vs-quran-77-sent-forth
 title: 'Eighth vision, four chariots between bronze mountains ↔ Those sent forth: the refrain of woe'
-summary: 'These two units share 1 motifs: god makes winds his messengers (angels) and flaming fire his
-  ministers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - winds-as-angels-fire-as-ministers
-passages:
-- tradition: judaism
-  ref: Zech 6:5
-  note: God makes winds his messengers (angels) and flaming fire his ministers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥עַן הַמַּלְאָ֖ךְ וַיֹּ֣אמֶר אֵלָ֑י אֵ֗לֶּה אַרְבַּע֙ רֻח֣וֹת הַשָּׁמַ֔יִם יוֹצְא֕וֹת מֵֽהִתְיַצֵּ֖ב
-    עַל אֲד֥וֹן כָּל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 77:1
-  note: God makes winds his messengers (angels) and flaming fire his ministers (al-mursalat may be winds
-    or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْمُرْسَلَٰتِ عُرْفًا
-- tradition: islam
-  ref: Quran 77:2
-  note: God makes winds his messengers (angels) and flaming fire his ministers (al-mursalat may be winds
-    or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْعَٰصِفَٰتِ عَصْفًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-l-mursalāt ~ ʾēlleh ʾarbaʿ ruḥôt ha-ššāmayim yôṣeʾôt mē-hityaṣṣēv ʿal ʾădôn kol hā-ʾāreṣ:
-    winds that go out from God''s presence as his agents.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes winds his messengers (angels) and flaming fire his ministers
     (weight 5.8). Pair score 5.8.'
@@ -70,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes winds his messengers (angels) and flaming fire his ministers
+kinds:
+- echo
+units:
+- id: hb-zech-6-four-chariots
+  title: Eighth vision, four chariots between bronze mountains
+  tradition: judaism
+- id: quran-77-sent-forth
+  title: 'Those sent forth: the refrain of woe'
+  tradition: islam
+matches:
+- kind: echo
+  label: God makes winds his messengers (angels) and flaming fire his ministers
+  note: 'wa-l-mursalāt ~ ʾēlleh ʾarbaʿ ruḥôt ha-ššāmayim yôṣeʾôt mē-hityaṣṣēv ʿal ʾădôn kol hā-ʾāreṣ:
+    winds that go out from God''s presence as his agents.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 6:5
+      lang: he
+      text: וַיַּ֥עַן הַמַּלְאָ֖ךְ וַיֹּ֣אמֶר אֵלָ֑י אֵ֗לֶּה אַרְבַּע֙ רֻח֣וֹת הַשָּׁמַ֔יִם יוֹצְא֕וֹת
+        מֵֽהִתְיַצֵּ֖ב עַל אֲד֥וֹן כָּל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 77:1
+      lang: ar
+      text: وَٱلْمُرْسَلَٰتِ عُرْفًا
+    - ref: Quran 77:3
+      lang: ar
+      text: وَٱلنَّٰشِرَٰتِ نَشْرًا
 ---
 
 ## Questions

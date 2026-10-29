@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-gideon-call-vs-quran-59-hashr-hypocrites-and-the-names
 title: Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom ↔ The hypocrites' false promises,
   Satan's disowning, the Quran on a mountain, and the litany of beautiful names
-summary: 'These two units share 1 motifs: litany of divine names: king, holy, peace, faithful, guardian,
-  mighty, compeller, proud, creator, maker, fashioner; to him belong the most beautiful names.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - litany-of-beautiful-names
-passages:
-- tradition: judaism
-  ref: Judg 6:24
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names (Peace as a name of God: wa-yyiben šām giḏʿôn
-    mizbēaḥ la-YHWH wa-yyiqrāʾ lô YHWH šālôm vs. al-maliku l-quddūsu s-salām. Gideon names an altar ''YHWH
-    is peace''; in the Quran al-Salām is itself a name of God. cf. b. Shabbat 10b (Shalom as a name of
-    God).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ שָׁ֨ם גִּדְע֤וֹן מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה וַיִּקְרָא ל֥וֹ יְהוָ֖ה שָׁל֑וֹם עַ֚ד הַיּ֣וֹם
-    הַזֶּ֔ה עוֹדֶ֕נּוּ בְּעָפְרָ֖ת אֲבִ֥י הָעֶזְרִֽי
-- tradition: islam
-  ref: Quran 59:22
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
-    ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 59:23
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ
-    ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Peace as a name of God: wa-yyiben šām giḏʿôn mizbēaḥ la-YHWH wa-yyiqrāʾ lô YHWH šālôm vs. al-maliku
-    l-quddūsu s-salām. Gideon names an altar ''YHWH is peace''; in the Quran al-Salām is itself a name
-    of God. cf. b. Shabbat 10b (Shalom as a name of God).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
     Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 5.6).
@@ -83,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
+  Maker, Fashioner; to him belong the most beautiful names'
+kinds:
+- echo
+units:
+- id: hb-judg-6-gideon-call
+  title: Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom
+  tradition: judaism
+- id: quran-59-hashr-hypocrites-and-the-names
+  title: The hypocrites' false promises, Satan's disowning, the Quran on a mountain, and the litany of
+    beautiful names
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
+    Maker, Fashioner; to him belong the most beautiful names'
+  note: 'Peace as a name of God: wa-yyiben šām giḏʿôn mizbēaḥ la-YHWH wa-yyiqrāʾ lô YHWH šālôm vs. al-maliku
+    l-quddūsu s-salām. Gideon names an altar ''YHWH is peace''; in the Quran al-Salām is itself a name
+    of God. cf. b. Shabbat 10b (Shalom as a name of God).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:24
+      lang: he
+      text: וַיִּבֶן֩ שָׁ֨ם גִּדְע֤וֹן מִזְבֵּ֨חַ֙ לַֽיהוָ֔ה וַיִּקְרָא ל֥וֹ יְהוָ֖ה שָׁל֑וֹם עַ֚ד הַיּ֣וֹם
+        הַזֶּ֔ה עוֹדֶ֕נּוּ בְּעָפְרָ֖ת אֲבִ֥י הָעֶזְרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 59:23
+      lang: ar
+      text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ
+        ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

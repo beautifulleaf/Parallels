@@ -1,7 +1,7 @@
 ---
 id: motif-hb-prov-16-sayings-vs-quran-17-commandments
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 16:11
-  note: Honest balances, weights, ephah and hin are commanded (balance and scales are YHWH's; all the
-    weights of the bag are his work)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
-- tradition: islam
-  ref: Quran 17:35
-  note: Honest balances, weights, ephah and hin are commanded (al-qisṭās al-mustaqīm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ
-    تَأْوِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. peles ûmōʾzənê mišpāṭ laYHWH maʿăśēhû kol-ʾabnê-kîs; wa-awfū l-kayla idhā kiltum wa-zinū
-    bi-l-qisṭāsi l-mustaqīm: honest balances (cognate root for weighing, ʾ-z-n / w-z-n). Prov says the
-    scales belong to God; Q commands their use.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -68,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'peles ûmōʾzənê mišpāṭ laYHWH maʿăśēhû kol-ʾabnê-kîs; wa-awfū l-kayla idhā kiltum wa-zinū bi-l-qisṭāsi
+    l-mustaqīm: honest balances (cognate root for weighing, ʾ-z-n / w-z-n). Prov says the scales belong
+    to God; Q commands their use.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:11
+      lang: he
+      text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
+  - tradition: islam
+    passages:
+    - ref: Quran 17:35
+      lang: ar
+      text: وَأَوْفُوا۟ ٱلْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ ذَٰلِكَ خَيْرٌ
+        وَأَحْسَنُ تَأْوِيلًا
 ---
 
 ## Questions

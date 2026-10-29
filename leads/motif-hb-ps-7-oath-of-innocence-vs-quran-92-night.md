@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-7-oath-of-innocence-vs-quran-92-night
 title: 'Psalm 7 - Shiggayon concerning Cush the Benjaminite ↔ The night: the giver and the miser'
-summary: 'These two units share 1 motifs: god most high (el elyon), creator/possessor of heaven and earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,23 +13,9 @@ layers:
 - motif
 motifs:
 - el-elyon-creator
-passages:
-- tradition: judaism
-  ref: Ps 7:18
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (only the title YHWH Elyon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אוֹדֶ֣ה יְהוָ֣ה כְּצִדְק֑וֹ וַ֝אֲזַמְּרָ֗ה שֵֽׁם יְהוָ֥ה עֶלְיֽוֹן
-- tradition: islam
-  ref: Quran 92:20
-  note: God Most High (El Elyon), creator/possessor of heaven and earth (the face of his Lord the Most
-    High)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wajhi rabbihi l-aʿlā ~ šēm YHWH ʿElyôn.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God Most High (El Elyon), creator/possessor of heaven and earth
     (weight 5.8). Pair score 5.8.'
@@ -59,6 +45,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God Most High (El Elyon), creator/possessor of heaven and earth
+kinds:
+- echo
+units:
+- id: hb-ps-7-oath-of-innocence
+  title: Psalm 7 - Shiggayon concerning Cush the Benjaminite
+  tradition: judaism
+- id: quran-92-night
+  title: 'The night: the giver and the miser'
+  tradition: islam
+matches:
+- kind: echo
+  label: God Most High (El Elyon), creator/possessor of heaven and earth
+  note: wajhi rabbihi l-aʿlā ~ šēm YHWH ʿElyôn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 7:18
+      lang: he
+      text: אוֹדֶ֣ה יְהוָ֣ה כְּצִדְק֑וֹ וַ֝אֲזַמְּרָ֗ה שֵֽׁם יְהוָ֥ה עֶלְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 92:20
+      lang: ar
+      text: إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-esth-1-vashti-deposed-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Ahasuerus's banquets and Queen Vashti's refusal ↔ Solomon, the speech of birds, the ants, the hoopoe
   and the Queen of Sheba
-summary: 'These two units share 1 motifs: the queen consults her chiefs, who defer to her; she observes
-  that kings who enter a town ruin it and humble its nobles.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - queen-consults-her-council
-passages:
-- tradition: judaism
-  ref: Esth 1:13
-  note: 'The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
-    it and humble its nobles (yā ayyuhā l-malaʾu aftūnī fī amrī mā kuntu qāṭiʿatan amran ḥattā tashhadūni
-    ~ wa-yyōʾmer ham-melekh la-ḥăkhāmîm yōdʿê hā-ʿittîm: a ruler consults the council before deciding
-    on a crisis involving a queen; in Esther the king about the defiant Vashti, in the Quran the queen
-    herself about Solomon''s letter.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר הַמֶּ֔לֶךְ לַחֲכָמִ֖ים יֹדְעֵ֣י הָֽעִתִּ֑ים כִּי כֵן֙ דְּבַ֣ר הַמֶּ֔לֶךְ לִפְנֵ֕י כָּל
-    יֹדְעֵ֖י דָּ֥ת וָדִֽין
-- tradition: judaism
-  ref: Esth 1:14
-  note: 'The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
-    it and humble its nobles (yā ayyuhā l-malaʾu aftūnī fī amrī mā kuntu qāṭiʿatan amran ḥattā tashhadūni
-    ~ wa-yyōʾmer ham-melekh la-ḥăkhāmîm yōdʿê hā-ʿittîm: a ruler consults the council before deciding
-    on a crisis involving a queen; in Esther the king about the defiant Vashti, in the Quran the queen
-    herself about Solomon''s letter.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַקָּרֹ֣ב אֵלָ֗יו כַּרְשְׁנָ֤א שֵׁתָר֙ אַדְמָ֣תָא תַרְשִׁ֔ישׁ מֶ֥רֶס מַרְסְנָ֖א מְמוּכָ֑ן שִׁבְעַ֞ת
-    שָׂרֵ֣י פָּרַ֣ס וּמָדַ֗י רֹאֵי֙ פְּנֵ֣י הַמֶּ֔לֶךְ הַיֹּשְׁבִ֥ים רִאשֹׁנָ֖ה בַּמַּלְכֽוּת
-- tradition: islam
-  ref: Quran 27:32
-  note: The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
-    it and humble its nobles
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ تَشْهَدُونِ
-- tradition: islam
-  ref: Quran 27:33
-  note: The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
-    it and humble its nobles
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى مَاذَا
-    تَأْمُرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yā ayyuhā l-malaʾu aftūnī fī amrī mā kuntu qāṭiʿatan amran ḥattā tashhadūni ~ wa-yyōʾmer ham-melekh
-    la-ḥăkhāmîm yōdʿê hā-ʿittîm: a ruler consults the council before deciding on a crisis involving a
-    queen; in Esther the king about the defiant Vashti, in the Quran the queen herself about Solomon''s
-    letter.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The queen consults her chiefs, who defer to her; she observes that
     kings who enter a town ruin it and humble its nobles (weight 6.7). Pair score 6.7.'
@@ -94,6 +52,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
+  it and humble its nobles
+kinds:
+- echo
+units:
+- id: hb-esth-1-vashti-deposed
+  title: Ahasuerus's banquets and Queen Vashti's refusal
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: echo
+  label: The queen consults her chiefs, who defer to her; she observes that kings who enter a town ruin
+    it and humble its nobles
+  note: 'yā ayyuhā l-malaʾu aftūnī fī amrī mā kuntu qāṭiʿatan amran ḥattā tashhadūni ~ wa-yyōʾmer ham-melekh
+    la-ḥăkhāmîm yōdʿê hā-ʿittîm: a ruler consults the council before deciding on a crisis involving a
+    queen; in Esther the king about the defiant Vashti, in the Quran the queen herself about Solomon''s
+    letter.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Esth 1:13
+      lang: he
+      text: וַיֹּ֣אמֶר הַמֶּ֔לֶךְ לַחֲכָמִ֖ים יֹדְעֵ֣י הָֽעִתִּ֑ים כִּי כֵן֙ דְּבַ֣ר הַמֶּ֔לֶךְ לִפְנֵ֕י
+        כָּל יֹדְעֵ֖י דָּ֥ת וָדִֽין
+    - ref: Esth 1:14
+      lang: he
+      text: וְהַקָּרֹ֣ב אֵלָ֗יו כַּרְשְׁנָ֤א שֵׁתָר֙ אַדְמָ֣תָא תַרְשִׁ֔ישׁ מֶ֥רֶס מַרְסְנָ֖א מְמוּכָ֑ן
+        שִׁבְעַ֞ת שָׂרֵ֣י פָּרַ֣ס וּמָדַ֗י רֹאֵי֙ פְּנֵ֣י הַמֶּ֔לֶךְ הַיֹּשְׁבִ֥ים רִאשֹׁנָ֖ה בַּמַּלְכֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 27:32
+      lang: ar
+      text: قَالَتْ يَٰٓأَيُّهَا ٱلْمَلَؤُا۟ أَفْتُونِى فِىٓ أَمْرِى مَا كُنتُ قَاطِعَةً أَمْرًا حَتَّىٰ
+        تَشْهَدُونِ
+    - ref: Quran 27:33
+      lang: ar
+      text: قَالُوا۟ نَحْنُ أُو۟لُوا۟ قُوَّةٍ وَأُو۟لُوا۟ بَأْسٍ شَدِيدٍ وَٱلْأَمْرُ إِلَيْكِ فَٱنظُرِى
+        مَاذَا تَأْمُرِينَ
 ---
 
 ## Questions

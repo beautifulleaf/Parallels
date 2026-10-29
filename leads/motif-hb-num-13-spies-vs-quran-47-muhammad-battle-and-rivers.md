@@ -2,7 +2,7 @@
 id: motif-hb-num-13-spies-vs-quran-47-muhammad-battle-and-rivers
 title: 'The twelve spies and their report ↔ Muhammad: deeds nullified, striking necks and freeing captives,
   and the four rivers of the Garden'
-summary: 'These two units share 1 motifs: promised land described as flowing with milk and honey.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - land-flowing-milk-and-honey
-passages:
-- tradition: judaism
-  ref: Num 13:27
-  note: Promised land described as flowing with milk and honey
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְסַפְּרוּ לוֹ֙ וַיֹּ֣אמְר֔וּ בָּ֕אנוּ אֶל הָאָ֖רֶץ אֲשֶׁ֣ר שְׁלַחְתָּ֑נוּ וְ֠גַם זָבַ֨ת חָלָ֥ב
-    וּדְבַ֛שׁ הִ֖וא וְזֶה פִּרְיָֽהּ
-- tradition: islam
-  ref: Quran 47:15
-  note: Promised land described as flowing with milk and honey
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. zāḇaṯ ḥālāḇ û-ḏəḇaš hîʾ (the land flows with milk and honey) vs. anhārun min labanin ... wa-anhārun
-    min ʿasalin muṣaffā. The promised land''s milk and honey move to the Garden (mathalu l-jannati llatī
-    wuʿida l-muttaqūn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Promised land described as flowing with milk and honey (weight 4.6).
     Pair score 4.6.'
@@ -68,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Promised land described as flowing with milk and honey
+kinds:
+- echo
+units:
+- id: hb-num-13-spies
+  title: The twelve spies and their report
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: Promised land described as flowing with milk and honey
+  note: zāḇaṯ ḥālāḇ û-ḏəḇaš hîʾ (the land flows with milk and honey) vs. anhārun min labanin ... wa-anhārun
+    min ʿasalin muṣaffā. The promised land's milk and honey move to the Garden (mathalu l-jannati llatī
+    wuʿida l-muttaqūn).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 13:27
+      lang: he
+      text: וַיְסַפְּרוּ לוֹ֙ וַיֹּ֣אמְר֔וּ בָּ֕אנוּ אֶל הָאָ֖רֶץ אֲשֶׁ֣ר שְׁלַחְתָּ֑נוּ וְ֠גַם זָבַ֨ת
+        חָלָ֥ב וּדְבַ֛שׁ הִ֖וא וְזֶה פִּרְיָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
 ---
 
 ## Questions

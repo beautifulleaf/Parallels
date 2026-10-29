@@ -2,8 +2,7 @@
 id: motif-hb-ps-74-leviathan-vs-quran-10-opening-creation
 title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan ↔ The wise Book, creation,
   sun and moon, the prayer of paradise
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 74:16
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 10:5
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
-    عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
-    لِقَوْمٍ يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 10:6
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. lᵉkā yôm ʾap-lᵉkā lāylāh ʾattāh hăkînôtā māʾôr wāšāmeš vs huwa lladhī jaʿala sh-shamsa ḍiyāʾan
-    wa-l-qamara nūran ... ikhtilāfi l-layli wa-n-nahār.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -76,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-ps-74-leviathan
+  title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan
+  tradition: judaism
+- id: quran-10-opening-creation
+  title: The wise Book, creation, sun and moon, the prayer of paradise
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: lᵉkā yôm ʾap-lᵉkā lāylāh ʾattāh hăkînôtā māʾôr wāšāmeš vs huwa lladhī jaʿala sh-shamsa ḍiyāʾan
+    wa-l-qamara nūran ... ikhtilāfi l-layli wa-n-nahār.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 74:16
+      lang: he
+      text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:5
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
+        عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
+        لِقَوْمٍ يَعْلَمُونَ
+    - ref: Quran 10:6
+      lang: ar
+      text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
 ---
 
 ## Questions

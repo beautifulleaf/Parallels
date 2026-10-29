@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-23-lordship-arguments
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Who owns the earth?
   The fables of the ancients and the impossibility of many gods
-summary: 'These two units share 1 motifs: ''to whom will you liken god, what likeness compare to him?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +14,9 @@ layers:
 - motif
 motifs:
 - to-whom-will-you-liken-god
-passages:
-- tradition: judaism
-  ref: Isa 40:18
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
-- tradition: judaism
-  ref: Isa 40:25
-  note: '''To whom will you liken God, what likeness compare to him?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֥י תְדַמְּי֖וּנִי וְאֶשְׁוֶ֑ה יֹאמַ֖ר קָדֽוֹשׁ
-- tradition: islam
-  ref: Quran 23:86
-  note: '''To whom will you liken God, what likeness compare to him?'' (A string of ''who'' questions
-    on creation answered by the one God: qul man rabbu s-samāwāti ... qul man bi-yadihi malakūtu kulli
-    shayʾin ~ mî mādad bə-šoʿŏlô mayim ... śəʾû mārôm ʿênêkem û-rəʾû mî vārāʾ ʾēlleh; and both reject
-    any likeness (wə-ʾel mî tədamməyûn ʾēl ~ subḥāna llāhi ʿammā yaṣifūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
-- tradition: islam
-  ref: Quran 23:88
-  note: '''To whom will you liken God, what likeness compare to him?'' (A string of ''who'' questions
-    on creation answered by the one God: qul man rabbu s-samāwāti ... qul man bi-yadihi malakūtu kulli
-    shayʾin ~ mî mādad bə-šoʿŏlô mayim ... śəʾû mārôm ʿênêkem û-rəʾû mî vārāʾ ʾēlleh; and both reject
-    any likeness (wə-ʾel mî tədamməyûn ʾēl ~ subḥāna llāhi ʿammā yaṣifūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. A string of ''who'' questions on creation answered by the one God: qul man rabbu s-samāwāti
-    ... qul man bi-yadihi malakūtu kulli shayʾin ~ mî mādad bə-šoʿŏlô mayim ... śəʾû mārôm ʿênêkem û-rəʾû
-    mî vārāʾ ʾēlleh; and both reject any likeness (wə-ʾel mî tədamməyûn ʾēl ~ subḥāna llāhi ʿammā yaṣifūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''To whom will you liken God, what likeness compare to him?'' (weight
     6.0). Pair score 6.0.'
@@ -87,6 +54,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''To whom will you liken God, what likeness compare to him?'''
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: echo
+  label: '''To whom will you liken God, what likeness compare to him?'''
+  note: 'A string of ''who'' questions on creation answered by the one God: qul man rabbu s-samāwāti ...
+    qul man bi-yadihi malakūtu kulli shayʾin ~ mî mādad bə-šoʿŏlô mayim ... śəʾû mārôm ʿênêkem û-rəʾû
+    mî vārāʾ ʾēlleh; and both reject any likeness (wə-ʾel mî tədamməyûn ʾēl ~ subḥāna llāhi ʿammā yaṣifūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:12
+      lang: he
+      text: מִֽי מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֨יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר
+        הָאָ֑רֶץ וְשָׁקַ֤ל בַּפֶּ֨לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם
+    - ref: Isa 40:18
+      lang: he
+      text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
+    - ref: Isa 40:26
+      lang: he
+      text: שְׂאוּ מָר֨וֹם עֵינֵיכֶ֤ם וּרְאוּ֙ מִי בָרָ֣א אֵ֔לֶּה הַמּוֹצִ֥יא בְמִסְפָּ֖ר צְבָאָ֑ם לְכֻלָּם֙
+        בְּשֵׁ֣ם יִקְרָ֔א מֵרֹ֤ב אוֹנִים֙ וְאַמִּ֣יץ כֹּ֔חַ אִ֖ישׁ לֹ֥א נֶעְדָּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 23:86
+      lang: ar
+      text: قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
+    - ref: Quran 23:88
+      lang: ar
+      text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ
+        تَعْلَمُونَ
+    - ref: Quran 23:91
+      lang: ar
+      text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
+        بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
 ---
 
 ## Questions

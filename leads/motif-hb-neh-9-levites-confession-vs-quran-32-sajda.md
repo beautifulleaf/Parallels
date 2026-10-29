@@ -2,7 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-32-sajda
 title: 'Fast of the twenty-fourth and the Levites'' historical confession ↔ Al-Sajda: creation, the angel
   of death, and the two fates'
-summary: 'These two units share 1 motifs: god gave moses the book as guidance for the children of israel.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,39 +15,9 @@ layers:
 - motif
 motifs:
 - torah-given-to-moses-as-guidance
-passages:
-- tradition: judaism
-  ref: Neh 9:13
-  note: 'God gave Moses the Book as guidance for the Children of Israel (wa-ttittēn lāhem mišpāṭîm yəšārîm
-    wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā vs. wa-la-qad ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu
-    hudan li-banī Isrāʾīl: God gives the law to Israel through Moses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַ֤ל הַר סִינַי֙ יָרַ֔דְתָּ וְדַבֵּ֥ר עִמָּהֶ֖ם מִשָּׁמָ֑יִם וַתִּתֵּ֨ן לָהֶ֜ם מִשְׁפָּטִ֤ים
-    יְשָׁרִים֙ וְתוֹר֣וֹת אֱמֶ֔ת חֻקִּ֥ים וּמִצְוֺ֖ת טוֹבִֽים
-- tradition: judaism
-  ref: Neh 9:14
-  note: 'God gave Moses the Book as guidance for the Children of Israel (wa-ttittēn lāhem mišpāṭîm yəšārîm
-    wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā vs. wa-la-qad ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu
-    hudan li-banī Isrāʾīl: God gives the law to Israel through Moses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת שַׁבַּ֥ת קָדְשְׁךָ֖ הוֹדַ֣עַתָ לָהֶ֑ם וּמִצְו֤וֹת וְחֻקִּים֙ וְתוֹרָ֔ה צִוִּ֣יתָ לָהֶ֔ם
-    בְּיַ֖ד מֹשֶׁ֥ה עַבְדֶּֽךָ
-- tradition: islam
-  ref: Quran 32:23
-  note: 'God gave Moses the Book as guidance for the Children of Israel (wa-ttittēn lāhem mišpāṭîm yəšārîm
-    wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā vs. wa-la-qad ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu
-    hudan li-banī Isrāʾīl: God gives the law to Israel through Moses.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ
-    هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-ttittēn lāhem mišpāṭîm yəšārîm wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā
-    vs. wa-la-qad ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu hudan li-banī Isrāʾīl: God gives the law to Israel
-    through Moses.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gave Moses the Book as guidance for the Children of Israel (weight
     6.3). Pair score 6.3.'
@@ -84,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gave Moses the Book as guidance for the Children of Israel
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God gave Moses the Book as guidance for the Children of Israel
+  note: 'wa-ttittēn lāhem mišpāṭîm yəšārîm wə-ṯôrôṯ ʾĕmeṯ ... ṣiwwîṯā lāhem bə-yaḏ mōšeh ʿaḇdeḵā vs. wa-la-qad
+    ātaynā Mūsā l-kitāba ... wa-jaʿalnāhu hudan li-banī Isrāʾīl: God gives the law to Israel through Moses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:13
+      lang: he
+      text: וְעַ֤ל הַר סִינַי֙ יָרַ֔דְתָּ וְדַבֵּ֥ר עִמָּהֶ֖ם מִשָּׁמָ֑יִם וַתִּתֵּ֨ן לָהֶ֜ם מִשְׁפָּטִ֤ים
+        יְשָׁרִים֙ וְתוֹר֣וֹת אֱמֶ֔ת חֻקִּ֥ים וּמִצְוֺ֖ת טוֹבִֽים
+    - ref: Neh 9:14
+      lang: he
+      text: וְאֶת שַׁבַּ֥ת קָדְשְׁךָ֖ הוֹדַ֣עַתָ לָהֶ֑ם וּמִצְו֤וֹת וְחֻקִּים֙ וְתוֹרָ֔ה צִוִּ֣יתָ לָהֶ֔ם
+        בְּיַ֖ד מֹשֶׁ֥ה עַבְדֶּֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 32:23
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ فَلَا تَكُن فِى مِرْيَةٍ مِّن لِّقَآئِهِۦ وَجَعَلْنَٰهُ
+        هُدًى لِّبَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-40-prisoners-dreams-vs-quran-7-moses-pharaoh
 title: The cupbearer's and baker's dreams ↔ Moses before Pharaoh, the magicians and the plagues
-summary: 'These two units share 1 motifs: pharaoh executes or threatens offenders by hanging, impaling
-  or crucifixion.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - pharaoh-impales-offenders
-passages:
-- tradition: judaism
-  ref: Gen 40:19
-  note: 'Pharaoh executes or threatens offenders by hanging, impaling or crucifixion (Execution by impaling,
-    by a Pharaoh. Gen: yiśśāʾ Parʿōh ʾet-rōʾšəkhā mēʿālêkhā wə-tālāh ʾôtəkhā ʿal-ʿēṣ, Pharaoh hangs the
-    baker on a tree. Q: thumma la-uṣallibannakum ajmaʿīna, Pharaoh threatens to crucify the magicians.
-    The only HB Pharaoh who impales is Joseph''s.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל
-    עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת בְּשָׂרְךָ֖ מֵעָלֶֽיךָ
-- tradition: islam
-  ref: Quran 7:124
-  note: 'Pharaoh executes or threatens offenders by hanging, impaling or crucifixion (Execution by impaling,
-    by a Pharaoh. Gen: yiśśāʾ Parʿōh ʾet-rōʾšəkhā mēʿālêkhā wə-tālāh ʾôtəkhā ʿal-ʿēṣ, Pharaoh hangs the
-    baker on a tree. Q: thumma la-uṣallibannakum ajmaʿīna, Pharaoh threatens to crucify the magicians.
-    The only HB Pharaoh who impales is Joseph''s.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Execution by impaling, by a Pharaoh. Gen: yiśśāʾ Parʿōh ʾet-rōʾšəkhā mēʿālêkhā wə-tālāh ʾôtəkhā
-    ʿal-ʿēṣ, Pharaoh hangs the baker on a tree. Q: thumma la-uṣallibannakum ajmaʿīna, Pharaoh threatens
-    to crucify the magicians. The only HB Pharaoh who impales is Joseph''s.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh executes or threatens offenders by hanging, impaling or
     crucifixion (weight 6.7). Pair score 6.7.'
@@ -70,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh executes or threatens offenders by hanging, impaling or crucifixion
+kinds:
+- echo
+units:
+- id: hb-gen-40-prisoners-dreams
+  title: The cupbearer's and baker's dreams
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: echo
+  label: Pharaoh executes or threatens offenders by hanging, impaling or crucifixion
+  note: 'Execution by impaling, by a Pharaoh. Gen: yiśśāʾ Parʿōh ʾet-rōʾšəkhā mēʿālêkhā wə-tālāh ʾôtəkhā
+    ʿal-ʿēṣ, Pharaoh hangs the baker on a tree. Q: thumma la-uṣallibannakum ajmaʿīna, Pharaoh threatens
+    to crucify the magicians. The only HB Pharaoh who impales is Joseph''s.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 40:19
+      lang: he
+      text: בְּע֣וֹד שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖
+        עַל עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת בְּשָׂרְךָ֖ מֵעָלֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:124
+      lang: ar
+      text: لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ ثُمَّ لَأُصَلِّبَنَّكُمْ أَجْمَعِينَ
 ---
 
 ## Questions

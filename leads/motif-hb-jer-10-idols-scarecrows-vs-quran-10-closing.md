@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-10-closing
 title: Idols like scarecrows in a cucumber field ↔ The hanif creed and patience
-summary: 'These two units share 1 motifs: the made idol cannot move from its place, speak or answer and
-  save those who cry to it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - idol-cannot-move-or-answer
-passages:
-- tradition: judaism
-  ref: Jer 10:5
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it ('they
-    can do neither evil nor good')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 10:106
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The false
-    god can do neither harm nor good: wa-lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā yaḍurruka vs ʾal-tîrᵉʾû
-    mēhem kî-lōʾ yārēʿû wᵉgam-hêṭêb ʾên ʾôtām (both pair ''harm'' and ''good'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا
-    مِّنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The false god can do neither harm nor good: wa-lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā
-    yaḍurruka vs ʾal-tîrᵉʾû mēhem kî-lōʾ yārēʿû wᵉgam-hêṭêb ʾên ʾôtām (both pair ''harm'' and ''good'').'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
     those who cry to it (weight 5.4). Pair score 5.4.'
@@ -62,6 +42,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The made idol cannot move from its place, speak or answer and save those who cry to it
+kinds:
+- parallel
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-10-closing
+  title: The hanif creed and patience
+  tradition: islam
+matches:
+- kind: parallel
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  note: 'The false god can do neither harm nor good: wa-lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā
+    yaḍurruka vs ʾal-tîrᵉʾû mēhem kî-lōʾ yārēʿû wᵉgam-hêṭêb ʾên ʾôtām (both pair ''harm'' and ''good'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:106
+      lang: ar
+      text: وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ
+        إِذًا مِّنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

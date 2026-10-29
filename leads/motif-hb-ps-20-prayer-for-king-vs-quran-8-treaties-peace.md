@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-20-prayer-for-king-vs-quran-8-treaties-peace
 title: Psalm 20 - may YHWH answer you in the day of trouble ↔ Treaty-breakers, deterrence and peace
-summary: 'These two units share 1 motifs: amassing war horses, and trust in god [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,42 +13,9 @@ layers:
 - motif
 motifs:
 - war-horses-and-trust-in-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 20:8
-  note: 'Amassing war horses, and trust in God [divergence between the texts] (Horses and trust in God:
-    ʾēlleh bārekeb wᵉʾēlleh bassûsîm waʾănaḥnû bᵉšēm-YHWH ʾĕlōhênû nazkîr sets the two against each other;
-    Q joins them: prepare the tethered horses (ribāṭi l-khayl), and ''God is enough for you'' (fa-inna
-    ḥasbaka llāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣לֶּה בָ֭רֶכֶב וְאֵ֣לֶּה בַסּוּסִ֑ים וַאֲנַ֓חְנוּ בְּשֵׁם יְהוָ֖ה אֱלֹהֵ֣ינוּ נַזְכִּֽיר
-- tradition: islam
-  ref: Quran 8:60
-  note: 'Amassing war horses, and trust in God [divergence between the texts] (Horses and trust in God:
-    ʾēlleh bārekeb wᵉʾēlleh bassûsîm waʾănaḥnû bᵉšēm-YHWH ʾĕlōhênû nazkîr sets the two against each other;
-    Q joins them: prepare the tethered horses (ribāṭi l-khayl), and ''God is enough for you'' (fa-inna
-    ḥasbaka llāh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ عَدُوَّ
-    ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ وَمَا تُنفِقُوا۟
-    مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
-- tradition: islam
-  ref: Quran 8:62
-  note: 'Amassing war horses, and trust in God [divergence between the texts] (Horses and trust in God:
-    ʾēlleh bārekeb wᵉʾēlleh bassûsîm waʾănaḥnû bᵉšēm-YHWH ʾĕlōhênû nazkîr sets the two against each other;
-    Q joins them: prepare the tethered horses (ribāṭi l-khayl), and ''God is enough for you'' (fa-inna
-    ḥasbaka llāh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ
-    وَبِٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Horses and trust in God: ʾēlleh bārekeb wᵉʾēlleh bassûsîm waʾănaḥnû bᵉšēm-YHWH ʾĕlōhênû
-    nazkîr sets the two against each other; Q joins them: prepare the tethered horses (ribāṭi l-khayl),
-    and ''God is enough for you'' (fa-inna ḥasbaka llāh).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Amassing war horses, and trust in God [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -75,6 +41,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Amassing war horses, and trust in God
+kinds:
+- divergence
+units:
+- id: hb-ps-20-prayer-for-king
+  title: Psalm 20 - may YHWH answer you in the day of trouble
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: divergence
+  label: Amassing war horses, and trust in God
+  note: 'Horses and trust in God: ʾēlleh bārekeb wᵉʾēlleh bassûsîm waʾănaḥnû bᵉšēm-YHWH ʾĕlōhênû nazkîr
+    sets the two against each other; Q joins them: prepare the tethered horses (ribāṭi l-khayl), and ''God
+    is enough for you'' (fa-inna ḥasbaka llāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 20:8
+      lang: he
+      text: אֵ֣לֶּה בָ֭רֶכֶב וְאֵ֣לֶּה בַסּוּסִ֑ים וַאֲנַ֓חְנוּ בְּשֵׁם יְהוָ֖ה אֱלֹהֵ֣ינוּ נַזְכִּֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 8:60
+      lang: ar
+      text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ
+        عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ
+        وَمَا تُنفِقُوا۟ مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+    - ref: Quran 8:62
+      lang: ar
+      text: وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ
+        وَبِٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

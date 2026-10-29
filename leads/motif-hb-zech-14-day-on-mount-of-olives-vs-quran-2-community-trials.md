@@ -2,7 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-2-community-trials
 title: The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ The corrupter, God
   in clouds, one community, fighting in the sacred month
-summary: 'These two units share 1 motifs: yhwh comes and all the holy ones (angels) with him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - god-comes-with-all-holy-ones
-passages:
-- tradition: judaism
-  ref: Zech 14:5
-  note: YHWH comes and all the holy ones (angels) with him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנַסְתֶּ֣ם גֵּֽיא הָרַ֗י כִּֽי יַגִּ֣יעַ גֵּי הָרִים֮ אֶל אָצַל֒ וְנַסְתֶּ֗ם כַּאֲשֶׁ֤ר נַסְתֶּם֙
-    מִפְּנֵ֣י הָרַ֔עַשׁ בִּימֵ֖י עֻזִּיָּ֣ה מֶֽלֶךְ יְהוּדָ֑ה וּבָא֙ יְהוָ֣ה אֱלֹהַ֔י כָּל קְדֹשִׁ֖ים
-    עִמָּֽךְ
-- tradition: islam
-  ref: Quran 2:210
-  note: 'YHWH comes and all the holy ones (angels) with him (Zech 14:5 û-bāʾ YHWH ʾĕlōhay kol qĕdōšîm
-    ʿimmāk: God comes and all the holy ones with him; Q 2:210 an yaʾtiyahumu llāhu ... wa-l-malāʾikatu
-    wa-quḍiya l-amr: God comes with the angels and the matter is decided. Both on the final day.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
-    وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Zech 14:5 û-bāʾ YHWH ʾĕlōhay kol qĕdōšîm ʿimmāk: God comes and all the holy ones with him;
-    Q 2:210 an yaʾtiyahumu llāhu ... wa-l-malāʾikatu wa-quḍiya l-amr: God comes with the angels and the
-    matter is decided. Both on the final day.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH comes and all the holy ones (angels) with him (weight 6.7).
     Pair score 6.7.'
@@ -77,6 +57,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: YHWH comes and all the holy ones (angels) with him
+kinds:
+- parallel
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-2-community-trials
+  title: The corrupter, God in clouds, one community, fighting in the sacred month
+  tradition: islam
+matches:
+- kind: parallel
+  label: YHWH comes and all the holy ones (angels) with him
+  note: 'Zech 14:5 û-bāʾ YHWH ʾĕlōhay kol qĕdōšîm ʿimmāk: God comes and all the holy ones with him; Q
+    2:210 an yaʾtiyahumu llāhu ... wa-l-malāʾikatu wa-quḍiya l-amr: God comes with the angels and the
+    matter is decided. Both on the final day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:5
+      lang: he
+      text: וְנַסְתֶּ֣ם גֵּֽיא הָרַ֗י כִּֽי יַגִּ֣יעַ גֵּי הָרִים֮ אֶל אָצַל֒ וְנַסְתֶּ֗ם כַּאֲשֶׁ֤ר נַסְתֶּם֙
+        מִפְּנֵ֣י הָרַ֔עַשׁ בִּימֵ֖י עֻזִּיָּ֣ה מֶֽלֶךְ יְהוּדָ֑ה וּבָא֙ יְהוָ֣ה אֱלֹהַ֔י כָּל קְדֹשִׁ֖ים
+        עִמָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:210
+      lang: ar
+      text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
+        وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 ---
 
 ## Questions

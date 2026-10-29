@@ -2,8 +2,7 @@
 id: motif-hb-exod-24-covenant-ratification-vs-quran-7-later-heirs-mountain
 title: Covenant ratified in blood; the elders see God ↔ Heirs of the book and the mountain lifted over
   Israel
-summary: 'These two units share 1 motifs: how israel comes to accept the covenant at sinai [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - how-israel-accepts-the-covenant-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 24:7
-  note: 'How Israel comes to accept the covenant at Sinai [divergence between the texts] (How the covenant
-    is accepted: in Exod freely, by the people''s own vow (kōl ʾăšer-dibber YHWH naʿăśeh wᵉnišmāʿ, also
-    Exod 19:8 naʿăśeh); in Q with the mountain over their heads and the command khudhū mā ātaynākum bi-quwwatin
-    wa-dhkurū mā fīhi. Q gives no answer from the people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 7:171
-  note: 'How Israel comes to accept the covenant at Sinai [divergence between the texts] (How the covenant
-    is accepted: in Exod freely, by the people''s own vow (kōl ʾăšer-dibber YHWH naʿăśeh wᵉnišmāʿ, also
-    Exod 19:8 naʿăśeh); in Q with the mountain over their heads and the command khudhū mā ātaynākum bi-quwwatin
-    wa-dhkurū mā fīhi. Q gives no answer from the people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ
-    خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. How the covenant is accepted: in Exod freely, by the people''s own vow (kōl ʾăšer-dibber
-    YHWH naʿăśeh wᵉnišmāʿ, also Exod 19:8 naʿăśeh); in Q with the mountain over their heads and the command
-    khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi. Q gives no answer from the people.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Israel comes to accept the covenant at Sinai [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -68,6 +44,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Israel comes to accept the covenant at Sinai
+kinds:
+- divergence
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-7-later-heirs-mountain
+  title: Heirs of the book and the mountain lifted over Israel
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Israel comes to accept the covenant at Sinai
+  note: 'How the covenant is accepted: in Exod freely, by the people''s own vow (kōl ʾăšer-dibber YHWH
+    naʿăśeh wᵉnišmāʿ, also Exod 19:8 naʿăśeh); in Q with the mountain over their heads and the command
+    khudhū mā ātaynākum bi-quwwatin wa-dhkurū mā fīhi. Q gives no answer from the people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 7:171
+      lang: ar
+      text: وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ
+        خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 ---
 
 ## Questions

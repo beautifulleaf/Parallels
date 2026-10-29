@@ -2,8 +2,7 @@
 id: motif-hb-gen-21-beersheba-treaty-vs-quran-22-abraham-house-pilgrimage
 title: Abraham's treaty with Abimelech at Beersheba ↔ Abraham, the Ancient House and the rites of pilgrimage
   and sacrifice
-summary: 'These two units share 1 motifs: god settled abraham at the site of the house and told him to
-  purify it for those who circle, stand, bow and prostrate.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-founds-the-house
-passages:
-- tradition: judaism
-  ref: Gen 21:33
-  note: 'God settled Abraham at the site of the House and told him to purify it for those who circle,
-    stand, bow and prostrate (bawwaʾnā li-Ibrāhīma makāna l-bayti ... wa-yadhkurū sma llāhi ~ wa-yiṭṭaʿ
-    ʾešel bi-vʾēr šāvaʿ wa-yiqrāʾ šām bə-šēm YHWH ʾēl ʿôlām: Abraham establishes a place where the name
-    of God is invoked; in Genesis a tamarisk at Beersheba invoking El Olam, in the Quran the Ancient House
-    (al-bayt al-ʿatīq) and a pilgrimage for all people. Weak; flagged by the Quran reader''s hint.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּטַּ֥ע אֶ֖שֶׁל בִּבְאֵ֣ר שָׁ֑בַע וַיִּ֨קְרָא שָׁ֔ם בְּשֵׁ֥ם יְהוָ֖ה אֵ֥ל עוֹלָֽם
-- tradition: islam
-  ref: Quran 22:26
-  note: God settled Abraham at the site of the House and told him to purify it for those who circle, stand,
-    bow and prostrate
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ
-    لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: islam
-  ref: Quran 22:28
-  note: God settled Abraham at the site of the House and told him to purify it for those who circle, stand,
-    bow and prostrate
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. bawwaʾnā li-Ibrāhīma makāna l-bayti ... wa-yadhkurū sma llāhi ~ wa-yiṭṭaʿ ʾešel bi-vʾēr šāvaʿ
-    wa-yiqrāʾ šām bə-šēm YHWH ʾēl ʿôlām: Abraham establishes a place where the name of God is invoked;
-    in Genesis a tamarisk at Beersheba invoking El Olam, in the Quran the Ancient House (al-bayt al-ʿatīq)
-    and a pilgrimage for all people. Weak; flagged by the Quran reader''s hint.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God settled Abraham at the site of the House and told him to purify
     it for those who circle, stand, bow and prostrate (weight 6.7). Pair score 6.7.'
@@ -77,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God settled Abraham at the site of the House and told him to purify it for those who circle,
+  stand, bow and prostrate
+kinds:
+- echo
+units:
+- id: hb-gen-21-beersheba-treaty
+  title: Abraham's treaty with Abimelech at Beersheba
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: echo
+  label: God settled Abraham at the site of the House and told him to purify it for those who circle,
+    stand, bow and prostrate
+  note: 'bawwaʾnā li-Ibrāhīma makāna l-bayti ... wa-yadhkurū sma llāhi ~ wa-yiṭṭaʿ ʾešel bi-vʾēr šāvaʿ
+    wa-yiqrāʾ šām bə-šēm YHWH ʾēl ʿôlām: Abraham establishes a place where the name of God is invoked;
+    in Genesis a tamarisk at Beersheba invoking El Olam, in the Quran the Ancient House (al-bayt al-ʿatīq)
+    and a pilgrimage for all people. Weak; flagged by the Quran reader''s hint.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:33
+      lang: he
+      text: וַיִּטַּ֥ע אֶ֖שֶׁל בִּבְאֵ֣ר שָׁ֑בַע וַיִּ֨קְרָא שָׁ֔ם בְּשֵׁ֥ם יְהוָ֖ה אֵ֥ל עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:26
+      lang: ar
+      text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ
+        بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
 ---
 
 ## Questions

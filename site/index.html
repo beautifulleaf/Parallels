@@ -18,6 +18,13 @@
   --prop: #2741a3;
   --cont: #b06a12;
   --fringe: #a33a3a;
+  /* what kind of correspondence a match is */
+  --k-divergence: #9a5b0b;
+  --k-contrast: #a33a3a;
+  --k-response: #6b3fa0;
+  --k-parallel: #2f7a55;
+  --k-echo: #2741a3;
+  --k-shared: #5b6078;
   --font-display: "Marcellus", "Trajan Pro", Georgia, serif;
   --font-body: "Source Serif 4", "Noto Naskh Arabic", Georgia, "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
@@ -29,6 +36,7 @@
     --bg: #0f1220; --surface: #171b2c; --fg: #e5e8f3; --muted: #9aa0bd; --rule: #2a3049;
     --lapis: #93a8ff; --lapis-soft: #232c52; --gold: #d8b456; --gold-soft: #3a3120;
     --est: #6fc79a; --prop: #93a8ff; --cont: #e3a457; --fringe: #ec8a8a;
+    --k-divergence: #e3a457; --k-contrast: #ec8a8a; --k-response: #c3a3f0; --k-parallel: #6fc79a; --k-echo: #93a8ff; --k-shared: #9aa0bd;
     color-scheme: dark;
   }
 }
@@ -36,6 +44,7 @@
   --bg: #0f1220; --surface: #171b2c; --fg: #e5e8f3; --muted: #9aa0bd; --rule: #2a3049;
   --lapis: #93a8ff; --lapis-soft: #232c52; --gold: #d8b456; --gold-soft: #3a3120;
   --est: #6fc79a; --prop: #93a8ff; --cont: #e3a457; --fringe: #ec8a8a;
+  --k-divergence: #e3a457; --k-contrast: #ec8a8a; --k-response: #c3a3f0; --k-parallel: #6fc79a; --k-echo: #93a8ff; --k-shared: #9aa0bd;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -92,12 +101,8 @@ aside.rail { display: grid; gap: 22px; position: sticky; top: calc(env(safe-area
 ol.leads { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
 .lead {
   background: var(--surface); border: 1px solid var(--rule); border-radius: 8px;
-  border-left: 4px solid var(--standing, var(--rule));
+  border-left: 4px solid var(--k, var(--rule));
 }
-.lead[data-standing="established"] { --standing: var(--est); }
-.lead[data-standing="proposed"] { --standing: var(--prop); }
-.lead[data-standing="contested"] { --standing: var(--cont); }
-.lead[data-standing="fringe"] { --standing: var(--fringe); }
 .lead > details > summary { list-style: none; cursor: pointer; padding: 14px 16px; display: grid; gap: 6px; }
 .lead > details > summary::-webkit-details-marker { display: none; }
 .lead-title { font-size: 18px; font-weight: 600; line-height: 1.3; margin: 0; text-wrap: balance; }
@@ -107,7 +112,7 @@ ol.leads { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
   font-family: var(--font-mono); font-size: 11px; padding: 2px 7px; border-radius: 4px;
   background: var(--lapis-soft); color: var(--fg); letter-spacing: 0.02em;
 }
-.tag.standing { background: transparent; border: 1px solid var(--standing); color: var(--standing); }
+.tag.standing { background: transparent; border: 1px solid var(--rule); color: var(--muted); }
 .tag.status { background: transparent; border: 1px dashed var(--muted); color: var(--muted); }
 .tag.status[data-status="investigating"] { border-style: solid; color: var(--lapis); border-color: var(--lapis); }
 .tag.status[data-status="promising"] { border-style: solid; color: var(--est); border-color: var(--est); }
@@ -156,12 +161,47 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; vertical-align: -1px; background: var(--c); }
 .empty-state { padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--rule); border-radius: 8px; }
 @media (prefers-reduced-motion: no-preference) { .lead { transition: border-color 0.15s; } }
+/* Cards: the finding first, then each correspondence with both texts side by side */
+.kind {
+  font-family: var(--font-mono); font-size: 11px; padding: 2px 8px; border-radius: 999px;
+  border: 1px solid var(--k); color: var(--k); white-space: nowrap; letter-spacing: 0.02em;
+}
+.kind .n { opacity: 0.8; margin-left: 3px; }
+.pairline { margin: 0; font-size: 14px; color: var(--muted); }
+.pairline b { font-weight: 600; color: var(--fg); }
+.pairline .arrow { margin: 0 6px; }
+.preview { margin: 0; font-size: 14px; color: var(--muted); font-style: italic; max-width: 80ch;
+  overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.statusline { font-family: var(--font-mono); font-size: 11px; color: var(--muted); letter-spacing: 0.02em; }
+.statusline .checked { color: var(--est); }
+.match { display: grid; gap: 8px; padding: 12px 0 14px; border-bottom: 1px solid var(--rule); }
+.match:last-of-type { border-bottom: 0; }
+.match-head { display: flex; flex-wrap: wrap; gap: 8px; align-items: baseline; }
+.match-label { font-weight: 600; font-size: 16px; }
+.sides { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 10px 20px; }
+@media (max-width: 700px) { .sides { grid-template-columns: minmax(0, 1fr); } }
+.side { min-width: 0; display: grid; gap: 4px; align-content: start; padding-left: 10px; border-left: 2px solid var(--rule); }
+.side-trad { font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); }
+.verse { display: grid; gap: 0; }
+.verse .ref { font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
+.verse .text { font-size: 19px; line-height: 1.85; }
+.verse .text[dir="rtl"] { text-align: right; }
+.side-note { font-size: 13px; color: var(--muted); }
+.match-note { margin: 0; font-size: 15px; max-width: 75ch; padding: 8px 12px; background: var(--bg); border-radius: 6px; }
+.more > summary { cursor: pointer; font-family: var(--font-mono); font-size: 12px; color: var(--lapis); }
+.more[open] > summary { margin-bottom: 10px; }
+.more-body { display: grid; gap: 14px; }
+li.group { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 8px; padding: 14px 2px 2px; }
+li.group h2 { font-family: var(--font-display); font-weight: 400; font-size: 20px; margin: 0; letter-spacing: 0.02em; text-wrap: balance; }
+li.group span { font-family: var(--font-mono); font-size: 12px; color: var(--muted); }
+.kinds-help { display: grid; gap: 3px; font-size: 13px; color: var(--muted); margin-top: 8px; }
+.kinds-help b { font-weight: 600; color: var(--k); }
 </style>
 
 <div class="wrap">
   <header class="top">
     <h1>Parallels Ledger</h1>
-    <p class="lede">Leads on parallels, convergences, and responses between traditions. Each lead is one file in <code>leads/</code>; review status and notes come from the repo.</p>
+    <p class="lede">Parallels, deliberate changes and answers between traditions, read in the original languages. Each card is one pair of passages; open it to see both texts side by side. Every lead is a file in <code>leads/</code>, where review status and notes are kept.</p>
   </header>
 
   <div class="layout">
@@ -170,18 +210,22 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
         <label for="q"><h2>Search</h2></label>
         <input id="q" class="search" type="search" placeholder="yamm, flood, Mani, 20:39…" autocomplete="off">
       </div>
-      <div><h2>Relation</h2><div class="chips" id="f-relations"></div></div>
-      <div><h2>Standing</h2><div class="chips" id="f-standing"></div></div>
-      <div><h2>Review status</h2><div class="chips" id="f-status"></div></div>
-      <div><h2>Layer</h2><div class="chips" id="f-layers"></div></div>
-      <div><h2>Checked in the original</h2><div class="chips" id="f-review"></div></div>
-      <div><h2>Traditions</h2><div id="f-traditions"></div></div>
-      <div class="legend" aria-label="Standing colors">
-        <span style="--c: var(--est)">established in scholarship</span>
-        <span style="--c: var(--prop)">proposed</span>
-        <span style="--c: var(--cont)">contested</span>
-        <span style="--c: var(--fringe)">fringe</span>
+      <div><h2>What kind of finding</h2><div class="chips" id="f-kinds"></div>
+        <div class="kinds-help">
+          <span style="--k: var(--k-divergence)"><b>Deliberately changed</b>: same episode, a detail altered</span>
+          <span style="--k: var(--k-contrast)"><b>Opposite ruling</b>: the laws disagree</span>
+          <span style="--k: var(--k-response)"><b>Answers the other</b>: one text corrects a claim</span>
+          <span style="--k: var(--k-parallel)"><b>Same element</b>: the same motif or story beat</span>
+          <span style="--k: var(--k-echo)"><b>Shared wording</b>: a phrase or image in common</span>
+          <span style="--k: var(--k-shared)"><b>Shared motif</b>: found by the separate reads, not yet compared</span>
+        </div>
       </div>
+      <div><h2>Traditions</h2><div id="f-traditions"></div></div>
+      <div><h2>Checked by a reader of the language</h2><div class="chips" id="f-review"></div></div>
+      <div><h2>Your review status</h2><div class="chips" id="f-status"></div></div>
+      <div><h2>Standing in scholarship</h2><div class="chips" id="f-standing"></div></div>
+      <div><h2>Relation</h2><div class="chips" id="f-relations"></div></div>
+      <div><h2>Layer</h2><div class="chips" id="f-layers"></div></div>
       <button class="reset" id="reset" type="button">Clear all filters</button>
     </aside>
 
@@ -195,7 +239,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   </div>
 </div>
 
-<script id="data" type="application/json">{"groups": [{"id": "islamic", "name": "Islamic", "note": "Reference point for most seed leads; compared with every tradition."}, {"id": "western", "name": "Western"}, {"id": "central", "name": "Central"}, {"id": "eastern", "name": "Eastern"}], "traditions": [{"id": "islam", "name": "Islam", "group": "islamic", "family": "Islamic"}, {"id": "ane-sumerian", "name": "Sumerian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-akkadian", "name": "Akkadian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-ugaritic", "name": "Ugaritic / Canaanite", "group": "western", "family": "Ancient Near East"}, {"id": "ane-egyptian", "name": "Egyptian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-hittite", "name": "Hittite / Hurrian", "group": "western", "family": "Ancient Near East"}, {"id": "greco-roman", "name": "Greco-Roman", "group": "western", "family": "Greco-Roman"}, {"id": "zoroastrianism", "name": "Zoroastrianism", "group": "western", "family": "Dualist"}, {"id": "manichaeism", "name": "Manichaeism", "group": "western", "family": "Dualist"}, {"id": "mandaeism", "name": "Mandaeism", "group": "western", "family": "Dualist"}, {"id": "judaism", "name": "Judaism", "group": "western", "family": "Covenantal"}, {"id": "samaritanism", "name": "Samaritanism", "group": "western", "family": "Covenantal"}, {"id": "christianity-early", "name": "Early Christianity & Gnostics", "group": "western", "family": "Christianity"}, {"id": "christianity-eastern", "name": "Eastern Christianity", "group": "western", "family": "Christianity"}, {"id": "christianity-western", "name": "Western Christianity", "group": "western", "family": "Christianity"}, {"id": "christianity-modern", "name": "Newer movements & modern theology", "group": "western", "family": "Christianity"}, {"id": "western-philosophy", "name": "Western Philosophy (Enlightenment on)", "group": "western", "family": "Western Philosophy"}, {"id": "sikhism", "name": "Sikhism", "group": "central", "family": "Sikhism"}, {"id": "jainism", "name": "Jainism", "group": "central", "family": "Jainism"}, {"id": "hinduism", "name": "Hinduism", "group": "central", "family": "Hinduism"}, {"id": "buddhism", "name": "Buddhism", "group": "eastern", "family": "Buddhism"}, {"id": "shinto", "name": "Shinto", "group": "eastern", "family": "Shinto"}, {"id": "chinese-religion", "name": "Chinese religion", "group": "eastern", "family": "Chinese religion"}], "leads": [], "parts": ["data/leads-01.json", "data/leads-02.json", "data/leads-03.json", "data/leads-04.json", "data/leads-05.json"]}</script>
+<script id="data" type="application/json">{"groups": [{"id": "islamic", "name": "Islamic", "note": "Reference point for most seed leads; compared with every tradition."}, {"id": "western", "name": "Western"}, {"id": "central", "name": "Central"}, {"id": "eastern", "name": "Eastern"}], "traditions": [{"id": "islam", "name": "Islam", "group": "islamic", "family": "Islamic"}, {"id": "ane-sumerian", "name": "Sumerian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-akkadian", "name": "Akkadian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-ugaritic", "name": "Ugaritic / Canaanite", "group": "western", "family": "Ancient Near East"}, {"id": "ane-egyptian", "name": "Egyptian", "group": "western", "family": "Ancient Near East"}, {"id": "ane-hittite", "name": "Hittite / Hurrian", "group": "western", "family": "Ancient Near East"}, {"id": "greco-roman", "name": "Greco-Roman", "group": "western", "family": "Greco-Roman"}, {"id": "zoroastrianism", "name": "Zoroastrianism", "group": "western", "family": "Dualist"}, {"id": "manichaeism", "name": "Manichaeism", "group": "western", "family": "Dualist"}, {"id": "mandaeism", "name": "Mandaeism", "group": "western", "family": "Dualist"}, {"id": "judaism", "name": "Judaism", "group": "western", "family": "Covenantal"}, {"id": "samaritanism", "name": "Samaritanism", "group": "western", "family": "Covenantal"}, {"id": "christianity-early", "name": "Early Christianity & Gnostics", "group": "western", "family": "Christianity"}, {"id": "christianity-eastern", "name": "Eastern Christianity", "group": "western", "family": "Christianity"}, {"id": "christianity-western", "name": "Western Christianity", "group": "western", "family": "Christianity"}, {"id": "christianity-modern", "name": "Newer movements & modern theology", "group": "western", "family": "Christianity"}, {"id": "western-philosophy", "name": "Western Philosophy (Enlightenment on)", "group": "western", "family": "Western Philosophy"}, {"id": "sikhism", "name": "Sikhism", "group": "central", "family": "Sikhism"}, {"id": "jainism", "name": "Jainism", "group": "central", "family": "Jainism"}, {"id": "hinduism", "name": "Hinduism", "group": "central", "family": "Hinduism"}, {"id": "buddhism", "name": "Buddhism", "group": "eastern", "family": "Buddhism"}, {"id": "shinto", "name": "Shinto", "group": "eastern", "family": "Shinto"}, {"id": "chinese-religion", "name": "Chinese religion", "group": "eastern", "family": "Chinese religion"}], "leads": [], "parts": ["data/leads-01.json", "data/leads-02.json", "data/leads-03.json", "data/leads-04.json"]}</script>
 <script>
 (async function () {
   const DATA = JSON.parse(document.getElementById("data").textContent);
@@ -212,26 +256,37 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   }
   const TRAD = Object.fromEntries(DATA.traditions.map(t => [t.id, t]));
   const ORDER = {
+    kinds: ["divergence", "contrast", "response", "parallel", "echo", "shared"],
     relations: ["internal", "inheritance", "transmission", "convergence", "response"],
     standing: ["established", "proposed", "contested", "fringe"],
     status: ["new", "investigating", "promising", "rejected"],
     layers: ["lexical", "motif", "concept"],
     review: ["checked", "unchecked"],
   };
+  const KIND = {
+    divergence: "Deliberately changed", contrast: "Opposite ruling", response: "Answers the other",
+    parallel: "Same element", echo: "Shared wording", shared: "Shared motif",
+  };
+  const LABEL = { checked: "checked", unchecked: "not yet checked" };
+  const FILTERS = ["kinds", "review", "status", "standing", "relations", "layers"];
   const RTL = new Set(["ar", "he", "arc", "syc", "myz"]);
   const BASIS = { original: "from the original", reading: "a reader's interpretation of the original", lexicon: "from a lexicon", gloss: "relies on English glosses", scholarship: "secondary scholarship" };
-  const state = { q: "", relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), review: new Set(), traditions: new Set(), sort: "title" };
+  const state = { q: "", kinds: new Set(), relations: new Set(), standing: new Set(), status: new Set(), layers: new Set(), review: new Set(), traditions: new Set(), sort: "story" };
+  const BY_ID = Object.fromEntries(DATA.leads.map(l => [l.id, l]));
 
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const leadValue = (lead, key) => key === "standing" || key === "status" ? [lead[key]]
     : key === "review" ? [(lead.reviews || []).length ? "checked" : "unchecked"] : (lead[key] || []);
+  const kindVar = k => `var(--k-${k})`;
 
   function haystack(lead) {
     if (lead._hay) return lead._hay;
     const parts = [lead.title, lead.summary, lead.notes, lead.direction, ...(lead.motifs || []), ...(lead.concepts || []), ...(lead.evidence || []).map(e => e.text || e),
       ...(lead.traditions || []).map(t => TRAD[t]?.name),
       ...(lead.lexical || []).flatMap(x => [x.form, x.translit, x.gloss]),
-      ...(lead.passages || []).flatMap(p => [p.ref, p.text, p.note])];
+      ...(lead.passages || []).flatMap(p => [p.ref, p.text, p.note]),
+      lead.finding, ...(lead.units || []).map(u => u.title),
+      ...(lead.matches || []).flatMap(m => [m.label, m.note, KIND[m.kind], ...m.sides.flatMap(sd => [sd.note, ...sd.passages.flatMap(v => [v.ref, v.text])])])];
     lead._hay = parts.filter(Boolean).join(" ").toLowerCase().normalize("NFD").replace(/[̀-ًͯ-ٰٟۖ-ۭ]/g, "");
     return lead._hay;
   }
@@ -239,7 +294,7 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 
   function matches(lead, skip) {
     if (state.q && !norm(state.q).split(/\s+/).filter(Boolean).every(w => haystack(lead).includes(w))) return false;
-    for (const key of ["relations", "standing", "status", "layers", "review"]) {
+    for (const key of FILTERS) {
       if (key === skip || !state[key].size) continue;
       if (!leadValue(lead, key).some(v => state[key].has(v))) return false;
     }
@@ -251,14 +306,17 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
 
   function chip(label, value, key, count) {
     const pressed = state[key].has(value);
+    if (!count && !pressed) return "";   // filters with nothing behind them stay out of the way
     return `<button type="button" class="chip" data-key="${key}" data-value="${esc(value)}" aria-pressed="${pressed}">${esc(label)}<span class="n">${count}</span></button>`;
   }
 
   function renderFilters() {
-    for (const key of ["relations", "standing", "status", "layers", "review"]) {
+    for (const key of FILTERS) {
       const pool = DATA.leads.filter(l => matches(l, key));
+      const label = v => key === "kinds" ? KIND[v] : LABEL[v] || v;
       document.getElementById("f-" + key).innerHTML = ORDER[key]
-        .map(v => chip(v, v, key, pool.filter(l => leadValue(l, key).includes(v)).length)).join("");
+        .map(v => chip(label(v), v, key, pool.filter(l => leadValue(l, key).includes(v)).length)).join("")
+        || `<span class="hint">None yet</span>`;
     }
     const pool = DATA.leads.filter(l => matches(l, "traditions"));
     const html = DATA.groups.map(g => {
@@ -267,12 +325,12 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
       const body = families.map(f => {
         const items = trads.filter(t => t.family === f)
           .map(t => chip(t.name, t.id, "traditions", pool.filter(l => l.traditions.includes(t.id)).length)).join("");
-        return (families.length > 1 || f !== g.name ? `<div class="tfamily">${esc(f)}</div>` : "") + `<div class="tlist">${items}</div>`;
+        return items ? (families.length > 1 || f !== g.name ? `<div class="tfamily">${esc(f)}</div>` : "") + `<div class="tlist">${items}</div>` : "";
       }).join("");
-      return `<div class="tgroup"><div class="tgroup-name">${esc(g.name)}</div>${body}</div>`;
+      return body ? `<div class="tgroup"><div class="tgroup-name">${esc(g.name)}</div>${body}</div>` : "";
     }).join("");
     document.getElementById("f-traditions").innerHTML = html;
-    document.getElementById("sort").innerHTML = [["title", "A–Z"], ["standing", "Standing"], ["traditions", "Most traditions"]]
+    document.getElementById("sort").innerHTML = [["story", "By story"], ["title", "A–Z"], ["standing", "Standing"]]
       .map(([v, l]) => `<button type="button" class="chip" data-sort="${v}" aria-pressed="${state.sort === v}">${l}</button>`).join("");
   }
 
@@ -292,56 +350,118 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
     return content ? out : `<p class="empty">No review notes yet. Add them under the headings in the lead file.</p>`;
   }
 
-  function leadHtml(lead, open) {
-    const trads = lead.traditions.map(t => TRAD[t]?.name || t).join(" · ");
-    const tags = [
-      `<span class="tag standing">${esc(lead.standing)}</span>`,
-      `<span class="tag status" data-status="${esc(lead.status)}">${esc(lead.status)}</span>`,
-      ...lead.relations.map(r => `<span class="tag">${esc(r)}</span>`),
-      lead.benchmark ? `<span class="tag bench">benchmark</span>` : "",
-      `<span class="tag review" data-checked="${(lead.reviews || []).length > 0}">${(lead.reviews || []).length ? "checked in original" : "not yet checked"}</span>`,
-    ].join("");
+  const tradName = t => TRAD[t]?.name || t;
+  const isChecked = lead => (lead.reviews || []).length > 0;
+
+  function verseHtml(v) {
+    return `<div class="verse"><span class="ref">${esc(v.ref)}</span>
+      ${v.text ? `<span class="text" lang="${esc(v.lang || "")}"${RTL.has(v.lang) ? ' dir="rtl"' : ""}>${esc(v.text)}</span>` : ""}
+      ${v.text_omitted ? `<span class="hint">Original not shown: ${esc(v.text_omitted)}.</span>` : ""}</div>`;
+  }
+
+  function matchHtml(m, lead) {
+    const sides = m.sides.map((sd, i) => `<div class="side">
+        <div class="side-trad">${esc(lead.units?.[i]?.title || tradName(sd.tradition))}</div>
+        ${sd.passages.map(verseHtml).join("") || `<span class="hint">No verse cited.</span>`}
+        ${sd.note ? `<div class="side-note">${esc(sd.note)}</div>` : ""}</div>`).join("");
+    return `<div class="match" style="--k: ${kindVar(m.kind)}">
+      <div class="match-head"><span class="kind">${esc(KIND[m.kind] || m.kind)}</span><span class="match-label">${esc(m.label)}</span></div>
+      <div class="sides">${sides}</div>
+      ${m.note ? `<p class="match-note">${esc(m.note)}</p>` : ""}</div>`;
+  }
+
+  function passagesHtml(lead) {
+    // hand-written and lexical leads: their passages, grouped by tradition into sides
+    const byTrad = new Map();
+    for (const p of lead.passages || []) {
+      if (!byTrad.has(p.tradition)) byTrad.set(p.tradition, []);
+      byTrad.get(p.tradition).push(p);
+    }
+    if (!byTrad.size) return "";
+    const sides = [...byTrad].map(([t, ps]) => `<div class="side"><div class="side-trad">${esc(tradName(t))}</div>
+      ${ps.map(p => verseHtml(p) + (p.translation ? `<div class="side-note"><i>${esc(p.translation)}</i></div>` : "")
+        + (p.note ? `<div class="side-note">${esc(p.note)}</div>` : "")).join("")}</div>`).join("");
+    return `<section><h3>Passages</h3><div class="sides">${sides}</div></section>`;
+  }
+
+  function bodyHtml(lead) {
     const lexical = lead.lexical?.length ? `<section><h3>Words</h3><div class="table-scroll"><table>
         <thead><tr><th>Lang</th><th>Original</th><th>Translit.</th><th>English gloss (aid only)</th></tr></thead><tbody>
         ${lead.lexical.map(x => `<tr><td>${esc(x.lang)}</td><td class="form" lang="${esc(x.lang)}">${esc(x.form)}</td><td><i>${esc(x.translit)}</i></td><td>${esc(x.gloss)}</td></tr>`).join("")}
         </tbody></table></div></section>` : "";
-    const passages = lead.passages?.length ? `<section><h3>Passages</h3>${lead.passages.map(p => `<div class="passage">
-        <div><span class="ref">${esc(p.ref)}</span> <span class="trad">${esc(TRAD[p.tradition]?.name || p.tradition)}</span></div>
-        ${p.text ? `<div class="text" lang="${esc(p.lang || "")}"${RTL.has(p.lang) ? ' dir="rtl"' : ""}>${esc(p.text)}</div>` : ""}
-        ${p.text_omitted ? `<div class="hint">Original not shown: ${esc(p.text_omitted)}.</div>` : ""}
-        ${p.translation ? `<div class="translation">${esc(p.translation)}</div>` : ""}
-        ${p.note ? `<div class="note">${esc(p.note)}</div>` : ""}
-        ${p.source ? `<div class="src">${esc(p.source)}</div>` : ""}</div>`).join("")}</section>` : "";
+    const matches = lead.matches?.length ? `<section>${lead.matches.map(m => matchHtml(m, lead)).join("")}</section>` : "";
     const evidence = lead.evidence?.length ? `<section><h3>Evidence</h3><ul>${lead.evidence.map(e => typeof e === "string"
       ? `<li>${esc(e)}</li>`
       : `<li><span class="basis" data-basis="${esc(e.basis)}" title="${esc(BASIS[e.basis] || e.basis)}">${esc(e.basis)}</span>${esc(e.text)}</li>`).join("")}</ul></section>` : "";
-    const reviews = `<section><h3>Checked in the original</h3>${(lead.reviews || []).length
-      ? lead.reviews.map(r => `<div class="review-item"><b>${esc(r.verdict)}</b> by ${esc(r.by)}${r.date ? ` · ${esc(r.date)}` : ""}${r.scope ? ` · ${esc(r.scope)}` : ""}${r.note ? `<div class="hint">${esc(r.note)}</div>` : ""}</div>`).join("")
-      : `<p class="hint">No reviewer has checked this lead against the original texts yet. Add an entry under <code>reviews</code> in the lead file.</p>`}</section>`;
     const tagsList = [...(lead.motifs || []), ...(lead.concepts || [])];
-    const motifs = tagsList.length ? `<section><h3>Motifs &amp; concepts</h3><div class="meta">${tagsList.map(m => `<span class="tag">${esc(m)}</span>`).join("")}</div></section>` : "";
+    const motifs = tagsList.length ? `<section><h3>Motif ids</h3><div class="meta">${tagsList.map(m => `<span class="tag">${esc(m)}</span>`).join("")}</div></section>` : "";
     const sources = lead.sources?.length ? `<section><h3>Sources</h3><ul>${lead.sources.map(s => `<li>${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>` : esc(s.label)}</li>`).join("")}</ul></section>` : "";
     const direction = lead.direction ? `<section><h3>Direction</h3><div class="path">${esc(lead.direction)}</div></section>` : "";
-    return `<li class="lead" id="${esc(lead.id)}" data-standing="${esc(lead.standing)}"><details${open ? " open" : ""}>
-      <summary><div class="meta">${tags}</div><p class="lead-title">${esc(lead.title)}</p><p class="lead-summary">${esc(lead.summary)}</p><div class="trads">${esc(trads)}</div></summary>
-      <div class="body">${lexical}${passages}${evidence}${direction}${motifs}${sources}
-        ${reviews}
-        <section><h3>Review notes</h3><div class="notes">${notesHtml(lead.notes)}</div></section>
-        <div class="path">leads/${esc(lead.id)}.md · added ${esc(lead.added)} · ${esc(lead.origin)}</div>
-      </div></details></li>`;
+    const reviews = (lead.reviews || []).length
+      ? lead.reviews.map(r => `<div class="review-item"><b>${esc(r.verdict)}</b> by ${esc(r.by)}${r.date ? ` · ${esc(r.date)}` : ""}${r.scope ? ` · ${esc(r.scope)}` : ""}${r.note ? `<div class="hint">${esc(r.note)}</div>` : ""}</div>`).join("")
+      : `<p class="hint">No reader of the original languages has checked this yet. Add an entry under <code>reviews</code> in the lead file.</p>`;
+    const meta = [lead.standing, ...(lead.relations || []), lead.benchmark ? "benchmark" : ""].filter(Boolean)
+      .map(t => `<span class="tag standing">${esc(t)}</span>`).join("");
+    return `${lexical}${matches}${passagesHtml(lead)}
+      <section><h3>Review</h3>${reviews}<div class="notes">${notesHtml(lead.notes)}</div></section>
+      <details class="more"><summary>Details: evidence, motif ids, file</summary><div class="more-body">
+        <div class="meta">${meta}</div>${evidence}${direction}${motifs}${sources}
+        <div class="path">leads/${esc(lead.id)}.md · added ${esc(lead.added)} · ${esc(lead.origin)}</div></div></details>`;
   }
+
+  function leadHtml(lead, open) {
+    const kinds = lead.kinds?.length ? lead.kinds : [];
+    const counts = {};
+    for (const m of lead.matches || []) counts[m.kind] = (counts[m.kind] || 0) + 1;
+    const pills = kinds.map(k => `<span class="kind" style="--k: ${kindVar(k)}">${esc(KIND[k])}${counts[k] > 1 ? `<span class="n">×${counts[k]}</span>` : ""}</span>`).join("")
+      + (lead.benchmark ? `<span class="tag bench">benchmark</span>` : "");
+    const units = lead.units?.length === 2
+      ? `<p class="pairline"><b>${esc(lead.units[0].title)}</b><span class="arrow">↔</span><b>${esc(lead.units[1].title)}</b></p>`
+      : `<p class="pairline">${esc(lead.traditions.map(tradName).join(" · "))}</p>`;
+    const headline = lead.finding || lead.title;
+    const firstNote = (lead.matches || []).find(m => m.note)?.note;
+    const status = `${esc(lead.status === "new" ? "Not yet reviewed" : "Review: " + lead.status)} · `
+      + (isChecked(lead) ? `<span class="checked">checked in the original</span>` : "not yet checked by a reader of the language");
+    return `<li class="lead" id="${esc(lead.id)}" style="--k: ${kinds.length ? kindVar(kinds[0]) : "var(--rule)"}"><details${open ? " open" : ""}>
+      <summary>${pills ? `<div class="meta">${pills}</div>` : ""}<p class="lead-title">${esc(headline)}</p>${units}
+        ${firstNote ? "" : `<p class="lead-summary">${esc(lead.summary)}</p>`}${firstNote ? `<p class="preview">${esc(firstNote)}</p>` : ""}
+        <div class="statusline">${status}</div></summary>
+      <div class="body">${open ? bodyHtml(lead) : ""}</div></details></li>`;
+  }
+
+  function storyOf(lead) {
+    const u = (lead.units || []).find(x => x.tradition === "islam") || (lead.units || [])[0];
+    if (!u) return { key: "~other", title: "Other leads", order: 1e9 };
+    const m = u.id.match(/^quran-(\d+)/);
+    return { key: u.id, title: u.title, order: m ? +m[1] : 5e8 };
+  }
+
+  const priority = l => Math.min(...(l.kinds?.length ? l.kinds : ["shared"]).map(k => ORDER.kinds.indexOf(k)));
 
   function renderLeads() {
     const rank = s => ORDER.standing.indexOf(s);
-    const list = DATA.leads.filter(l => matches(l)).sort((a, b) =>
-      state.sort === "standing" ? rank(a.standing) - rank(b.standing) || a.title.localeCompare(b.title)
-      : state.sort === "traditions" ? b.traditions.length - a.traditions.length || a.title.localeCompare(b.title)
-      : a.title.localeCompare(b.title));
+    const list = DATA.leads.filter(l => matches(l));
     const openId = decodeURIComponent(location.hash.slice(1));
     document.getElementById("count").textContent = `${list.length} of ${DATA.leads.length} leads`;
-    document.getElementById("leads").innerHTML = list.length
-      ? list.map(l => leadHtml(l, l.id === openId)).join("")
-      : `<li class="empty-state">No leads match these filters. Clear a filter or change the search.</li>`;
+    let html;
+    if (!list.length) {
+      html = `<li class="empty-state">No leads match these filters. Clear a filter or change the search.</li>`;
+    } else if (state.sort === "story") {
+      const groups = new Map();
+      for (const l of list) {
+        const st = storyOf(l);
+        if (!groups.has(st.key)) groups.set(st.key, { ...st, leads: [] });
+        groups.get(st.key).leads.push(l);
+      }
+      html = [...groups.values()].sort((a, b) => a.order - b.order || a.title.localeCompare(b.title)).map(g =>
+        `<li class="group"><h2>${esc(g.title)}</h2><span>${g.leads.length} lead${g.leads.length > 1 ? "s" : ""}</span></li>`
+        + g.leads.sort((a, b) => priority(a) - priority(b) || (b.matches?.length || 0) - (a.matches?.length || 0)
+            || (a.finding || a.title).localeCompare(b.finding || b.title)).map(l => leadHtml(l, l.id === openId)).join("")).join("");
+    } else {
+      html = list.sort((a, b) => state.sort === "standing" ? rank(a.standing) - rank(b.standing) || a.title.localeCompare(b.title)
+        : (a.finding || a.title).localeCompare(b.finding || b.title)).map(l => leadHtml(l, l.id === openId)).join("");
+    }
+    document.getElementById("leads").innerHTML = html;
   }
 
   function render() { renderFilters(); renderLeads(); }
@@ -358,12 +478,15 @@ th { font-family: var(--font-mono); font-size: 11px; font-weight: 500; color: va
   });
   document.getElementById("leads").addEventListener("toggle", e => {
     const li = e.target.closest(".lead");
-    if (li && e.target.open) history.replaceState(null, "", "#" + li.id);
+    if (!li || !e.target.open || e.target.parentElement !== li) return;
+    const body = li.querySelector(".body");
+    if (!body.innerHTML.trim()) body.innerHTML = bodyHtml(BY_ID[li.id]);   // cards render their texts when opened
+    history.replaceState(null, "", "#" + li.id);
   }, true);
   document.getElementById("q").addEventListener("input", e => { state.q = e.target.value; render(); });
   document.getElementById("reset").addEventListener("click", () => {
     state.q = ""; document.getElementById("q").value = "";
-    for (const k of ["relations", "standing", "status", "layers", "review", "traditions"]) state[k].clear();
+    for (const k of [...FILTERS, "traditions"]) state[k].clear();
     render();
   });
   window.addEventListener("hashchange", () => {

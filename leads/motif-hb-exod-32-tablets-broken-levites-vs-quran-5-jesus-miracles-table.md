@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-5-jesus-miracles-table
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Jesus' miracles, the table from
   heaven, and Jesus questioned at judgment
-summary: 'These two units share 1 motifs: an intercessor leaves punishment or forgiveness of the people
-  to god in a conditional.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - intercessor-leaves-fate-to-god
-passages:
-- tradition: judaism
-  ref: Exod 32:32
-  note: 'An intercessor leaves punishment or forgiveness of the people to God in a conditional (An intercessor
-    leaves the people''s fate to God in a conditional. Exod: wə-ʿattāh ʾim-tiśśāʾ ḥaṭṭāʾtām wə-ʾim-ʾayin
-    məḥēnî nāʾ mi-sifrəkhā. Q: in tuʿadhdhibhum fa-innahum ʿibāduka wa-in taghfir lahum fa-innaka anta
-    l-ʿazīzu l-ḥakīmu. Moses stakes himself on the outcome; Jesus does not.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
-- tradition: islam
-  ref: Quran 5:118
-  note: 'An intercessor leaves punishment or forgiveness of the people to God in a conditional (An intercessor
-    leaves the people''s fate to God in a conditional. Exod: wə-ʿattāh ʾim-tiśśāʾ ḥaṭṭāʾtām wə-ʾim-ʾayin
-    məḥēnî nāʾ mi-sifrəkhā. Q: in tuʿadhdhibhum fa-innahum ʿibāduka wa-in taghfir lahum fa-innaka anta
-    l-ʿazīzu l-ḥakīmu. Moses stakes himself on the outcome; Jesus does not.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. An intercessor leaves the people''s fate to God in a conditional. Exod: wə-ʿattāh ʾim-tiśśāʾ
-    ḥaṭṭāʾtām wə-ʾim-ʾayin məḥēnî nāʾ mi-sifrəkhā. Q: in tuʿadhdhibhum fa-innahum ʿibāduka wa-in taghfir
-    lahum fa-innaka anta l-ʿazīzu l-ḥakīmu. Moses stakes himself on the outcome; Jesus does not.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An intercessor leaves punishment or forgiveness of the people to
     God in a conditional (weight 6.7). Pair score 6.7.'
@@ -74,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An intercessor leaves punishment or forgiveness of the people to God in a conditional
+kinds:
+- echo
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-5-jesus-miracles-table
+  title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: An intercessor leaves punishment or forgiveness of the people to God in a conditional
+  note: 'An intercessor leaves the people''s fate to God in a conditional. Exod: wə-ʿattāh ʾim-tiśśāʾ
+    ḥaṭṭāʾtām wə-ʾim-ʾayin məḥēnî nāʾ mi-sifrəkhā. Q: in tuʿadhdhibhum fa-innahum ʿibāduka wa-in taghfir
+    lahum fa-innaka anta l-ʿazīzu l-ḥakīmu. Moses stakes himself on the outcome; Jesus does not.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:32
+      lang: he
+      text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:118
+      lang: ar
+      text: إِن تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ وَإِن تَغْفِرْ لَهُمْ فَإِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-89-ethan-davidic-covenant-vs-quran-17-polemic-and-resurrection
 title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant ↔
   Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
-summary: 'These two units share 1 motifs: if there were other gods they would seek a way to the lord of
-  the throne.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - other-gods-would-seek-way-to-throne
-passages:
-- tradition: judaism
-  ref: Ps 89:7
-  note: 'If there were other gods they would seek a way to the Lord of the Throne (mî baššaḥaq yaʿărōk
-    laYHWH yidmeh laYHWH bibnê ʾēlîm ʾēl naʿărāṣ bəsôd-qədōšîm; law kāna maʿahu ālihatun ... la-btaghaw
-    ilā dhī l-ʿarshi sabīlā ... yabtaghūna ilā rabbihimu l-wasīlata ... wa-yakhāfūna ʿadhābah: the other
-    heavenly beings are subordinate and in awe of the one God. Ps grants a council of bənê ʾēlîm; Q grants
-    their existence only hypothetically (law kāna) and makes them seekers of nearness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י מִ֣י בַ֭שַּׁחַק יַעֲרֹ֣ךְ לַיהוָ֑ה יִדְמֶ֥ה לַ֝יהוָ֗ה בִּבְנֵ֥י אֵלִים
-- tradition: judaism
-  ref: Ps 89:8
-  note: 'If there were other gods they would seek a way to the Lord of the Throne (mî baššaḥaq yaʿărōk
-    laYHWH yidmeh laYHWH bibnê ʾēlîm ʾēl naʿărāṣ bəsôd-qədōšîm; law kāna maʿahu ālihatun ... la-btaghaw
-    ilā dhī l-ʿarshi sabīlā ... yabtaghūna ilā rabbihimu l-wasīlata ... wa-yakhāfūna ʿadhābah: the other
-    heavenly beings are subordinate and in awe of the one God. Ps grants a council of bənê ʾēlîm; Q grants
-    their existence only hypothetically (law kāna) and makes them seekers of nearness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣ל נַ֭עֲרָץ בְּסוֹד קְדֹשִׁ֣ים רַבָּ֑ה וְ֝נוֹרָ֗א עַל כָּל סְבִיבָֽיו
-- tradition: islam
-  ref: Quran 17:42
-  note: If there were other gods they would seek a way to the Lord of the Throne (if there were gods with
-    him they would seek a way to the Lord of the Throne)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ
-    سَبِيلًا
-- tradition: islam
-  ref: Quran 17:57
-  note: If there were other gods they would seek a way to the Lord of the Throne (if there were gods with
-    him they would seek a way to the Lord of the Throne)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ
-    وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. mî baššaḥaq yaʿărōk laYHWH yidmeh laYHWH bibnê ʾēlîm ʾēl naʿărāṣ bəsôd-qədōšîm; law kāna maʿahu
-    ālihatun ... la-btaghaw ilā dhī l-ʿarshi sabīlā ... yabtaghūna ilā rabbihimu l-wasīlata ... wa-yakhāfūna
-    ʿadhābah: the other heavenly beings are subordinate and in awe of the one God. Ps grants a council
-    of bənê ʾēlîm; Q grants their existence only hypothetically (law kāna) and makes them seekers of nearness.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If there were other gods they would seek a way to the Lord of the
     Throne (weight 6.7). Pair score 6.7.'
@@ -96,6 +55,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If there were other gods they would seek a way to the Lord of the Throne
+kinds:
+- echo
+units:
+- id: hb-ps-89-ethan-davidic-covenant
+  title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: echo
+  label: If there were other gods they would seek a way to the Lord of the Throne
+  note: 'mî baššaḥaq yaʿărōk laYHWH yidmeh laYHWH bibnê ʾēlîm ʾēl naʿărāṣ bəsôd-qədōšîm; law kāna maʿahu
+    ālihatun ... la-btaghaw ilā dhī l-ʿarshi sabīlā ... yabtaghūna ilā rabbihimu l-wasīlata ... wa-yakhāfūna
+    ʿadhābah: the other heavenly beings are subordinate and in awe of the one God. Ps grants a council
+    of bənê ʾēlîm; Q grants their existence only hypothetically (law kāna) and makes them seekers of nearness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 89:7
+      lang: he
+      text: כִּ֤י מִ֣י בַ֭שַּׁחַק יַעֲרֹ֣ךְ לַיהוָ֑ה יִדְמֶ֥ה לַ֝יהוָ֗ה בִּבְנֵ֥י אֵלִים
+    - ref: Ps 89:8
+      lang: he
+      text: אֵ֣ל נַ֭עֲרָץ בְּסוֹד קְדֹשִׁ֣ים רַבָּ֑ה וְ֝נוֹרָ֗א עַל כָּל סְבִיבָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 17:42
+      lang: ar
+      text: قُل لَّوْ كَانَ مَعَهُۥٓ ءَالِهَةٌ كَمَا يَقُولُونَ إِذًا لَّٱبْتَغَوْا۟ إِلَىٰ ذِى ٱلْعَرْشِ
+        سَبِيلًا
+    - ref: Quran 17:57
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ يَدْعُونَ يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ أَيُّهُمْ أَقْرَبُ
+        وَيَرْجُونَ رَحْمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحْذُورًا
 ---
 
 ## Questions

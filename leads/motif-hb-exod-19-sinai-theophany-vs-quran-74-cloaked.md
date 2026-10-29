@@ -2,7 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-74-cloaked
 title: 'Arrival at Sinai, covenant offer and theophany ↔ The cloaked one: the call, the opponent, and
   the nineteen'
-summary: 'These two units share 1 motifs: the people wash their garments to prepare for god''s appearance.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - washing-garments-before-theophany
-passages:
-- tradition: judaism
-  ref: Exod 19:10
-  note: The people wash their garments to prepare for God's appearance
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֤ה אֶל מֹשֶׁה֙ לֵ֣ךְ אֶל הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ
-    שִׂמְלֹתָֽם
-- tradition: judaism
-  ref: Exod 19:14
-  note: The people wash their garments to prepare for God's appearance
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֧רֶד מֹשֶׁ֛ה מִן הָהָ֖ר אֶל הָעָ֑ם וַיְקַדֵּשׁ֙ אֶת הָעָ֔ם וַֽיְכַבְּס֖וּ שִׂמְלֹתָֽם
-- tradition: islam
-  ref: Quran 74:4
-  note: The people wash their garments to prepare for God's appearance ('purify your garments' as part
-    of the commission)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَثِيَابَكَ فَطَهِّرْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-thiyābaka fa-ṭahhir ~ we-qiddaštām ha-yyôm û-māḥār we-kibbesû śimlōtām. Garment purity at
-    revelation; for the people at Sinai, for the prophet himself in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people wash their garments to prepare for God''s appearance
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people wash their garments to prepare for God's appearance
+kinds:
+- echo
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: echo
+  label: The people wash their garments to prepare for God's appearance
+  note: wa-thiyābaka fa-ṭahhir ~ we-qiddaštām ha-yyôm û-māḥār we-kibbesû śimlōtām. Garment purity at revelation;
+    for the people at Sinai, for the prophet himself in the Quran.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:10
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֤ה אֶל מֹשֶׁה֙ לֵ֣ךְ אֶל הָעָ֔ם וְקִדַּשְׁתָּ֥ם הַיּ֖וֹם וּמָחָ֑ר וְכִבְּס֖וּ
+        שִׂמְלֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 74:4
+      lang: ar
+      text: وَثِيَابَكَ فَطَهِّرْ
 ---
 
 ## Questions

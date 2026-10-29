@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-27-ebal-curses-vs-quran-2-patience-signs
 title: Inscribed stones and altar on Ebal; the twelve curses ↔ Patience, Safa and Marwa, signs of creation
-summary: 'These two units share 1 motifs: those who conceal the revealed signs are cursed by god and by
-  all who curse.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +13,9 @@ layers:
 - motif
 motifs:
 - concealers-cursed-by-cursers
-passages:
-- tradition: judaism
-  ref: Deut 27:15
-  note: 'Those who conceal the revealed signs are cursed by God and by all who curse (Deut 27:15 ʾārûr
-    hā-ʾîš ʾăšer yaʿăśeh pesel ... wĕ-śām ba-sāter wĕ-ʿānû kol hā-ʿām wĕ-ʾāmĕrû ʾāmēn: a curse on what
-    is done in secret, confirmed by the whole people; Q 2:159, 161 alladhīna yaktumūna mā anzalnā ...
-    yalʿanuhumu llāhu wa-yalʿanuhumu l-lāʿinūn ... laʿnatu llāhi wa-l-malāʾikati wa-n-nāsi ajmaʿīn: those
-    who conceal the revelation cursed by God and by all who curse. The concealed sin is idolatry in Deut,
-    hiding scripture in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָר֣וּר הָאִ֡ישׁ אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּמַסֵּכָ֜ה תּוֹעֲבַ֣ת יְהוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י חָרָ֖שׁ
-    וְשָׂ֣ם בַּסָּ֑תֶר וְעָנ֧וּ כָל הָעָ֛ם וְאָמְר֖וּ אָמֵֽן
-- tradition: islam
-  ref: Quran 2:159
-  note: Those who conceal the revealed signs are cursed by God and by all who curse
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّٰهُ
-    لِلنَّاسِ فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ
-- tradition: islam
-  ref: Quran 2:161
-  note: Those who conceal the revealed signs are cursed by God and by all who curse
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ
-    وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 27:15 ʾārûr hā-ʾîš ʾăšer yaʿăśeh pesel ... wĕ-śām ba-sāter wĕ-ʿānû kol hā-ʿām wĕ-ʾāmĕrû
-    ʾāmēn: a curse on what is done in secret, confirmed by the whole people; Q 2:159, 161 alladhīna yaktumūna
-    mā anzalnā ... yalʿanuhumu llāhu wa-yalʿanuhumu l-lāʿinūn ... laʿnatu llāhi wa-l-malāʾikati wa-n-nāsi
-    ajmaʿīn: those who conceal the revelation cursed by God and by all who curse. The concealed sin is
-    idolatry in Deut, hiding scripture in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who conceal the revealed signs are cursed by God and by all
     who curse (weight 6.3). Pair score 6.3.'
@@ -79,6 +47,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who conceal the revealed signs are cursed by God and by all who curse
+kinds:
+- echo
+units:
+- id: hb-deut-27-ebal-curses
+  title: Inscribed stones and altar on Ebal; the twelve curses
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: echo
+  label: Those who conceal the revealed signs are cursed by God and by all who curse
+  note: 'Deut 27:15 ʾārûr hā-ʾîš ʾăšer yaʿăśeh pesel ... wĕ-śām ba-sāter wĕ-ʿānû kol hā-ʿām wĕ-ʾāmĕrû
+    ʾāmēn: a curse on what is done in secret, confirmed by the whole people; Q 2:159, 161 alladhīna yaktumūna
+    mā anzalnā ... yalʿanuhumu llāhu wa-yalʿanuhumu l-lāʿinūn ... laʿnatu llāhi wa-l-malāʾikati wa-n-nāsi
+    ajmaʿīn: those who conceal the revelation cursed by God and by all who curse. The concealed sin is
+    idolatry in Deut, hiding scripture in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 27:15
+      lang: he
+      text: אָר֣וּר הָאִ֡ישׁ אֲשֶׁ֣ר יַעֲשֶׂה֩ פֶ֨סֶל וּמַסֵּכָ֜ה תּוֹעֲבַ֣ת יְהוָ֗ה מַעֲשֵׂ֛ה יְדֵ֥י
+        חָרָ֖שׁ וְשָׂ֣ם בַּסָּ֑תֶר וְעָנ֧וּ כָל הָעָ֛ם וְאָמְר֖וּ אָמֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 2:159
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا
+        بَيَّنَّٰهُ لِلنَّاسِ فِى ٱلْكِتَٰبِ أُو۟لَٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّٰعِنُونَ
+    - ref: Quran 2:161
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ أُو۟لَٰٓئِكَ عَلَيْهِمْ لَعْنَةُ ٱللَّهِ
+        وَٱلْمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجْمَعِينَ
 ---
 
 ## Questions

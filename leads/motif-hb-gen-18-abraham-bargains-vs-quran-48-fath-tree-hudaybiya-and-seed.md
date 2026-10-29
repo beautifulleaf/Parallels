@@ -2,8 +2,7 @@
 id: motif-hb-gen-18-abraham-bargains-vs-quran-48-fath-tree-hudaybiya-and-seed
 title: Abraham bargains for Sodom ↔ The pledge under the tree, the hidden believers in Mecca, the dream
   of entering the sanctuary, and the seed parable from Torah and Gospel
-summary: 'These two units share 1 motifs: a city''s punishment held back for the righteous within it [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,59 +14,9 @@ layers:
 - motif
 motifs:
 - city-spared-for-righteous-within-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 18:23
-  note: 'A city''s punishment held back for the righteous within it [divergence between the texts] (A
-    city spared for the sake of the righteous inside it. Genesis: ha-ʾap̄ tispeh ṣaddîq ʿim rāšāʿ ...
-    wə-lōʾ ṯiśśāʾ lam-māqôm ləmaʿan ḥămiššîm haṣ-ṣaddîqim; lōʾ ʾašḥîṯ baʿăḇûr hā-ʿăśārâ (Abraham bargains;
-    God would spare all for ten). Quran: wa-lawlā rijālun muʾminūna wa-nisāʾun muʾminātun lam taʿlamūhum
-    an taṭaʾūhum ... law tazayyalū la-ʿadhdhabnā lladhīna kafarū (God held back the believers'' own attack
-    on Mecca because unknown believers were inside; had they been separated, he would have punished the
-    rest). The danger is a human army, not divine fire; no bargaining; and the righteous are to be separated
-    out (tazayyul), not the cause of sparing everyone for ever.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
-- tradition: judaism
-  ref: Gen 18:24
-  note: 'A city''s punishment held back for the righteous within it [divergence between the texts] (A
-    city spared for the sake of the righteous inside it. Genesis: ha-ʾap̄ tispeh ṣaddîq ʿim rāšāʿ ...
-    wə-lōʾ ṯiśśāʾ lam-māqôm ləmaʿan ḥămiššîm haṣ-ṣaddîqim; lōʾ ʾašḥîṯ baʿăḇûr hā-ʿăśārâ (Abraham bargains;
-    God would spare all for ten). Quran: wa-lawlā rijālun muʾminūna wa-nisāʾun muʾminātun lam taʿlamūhum
-    an taṭaʾūhum ... law tazayyalū la-ʿadhdhabnā lladhīna kafarū (God held back the believers'' own attack
-    on Mecca because unknown believers were inside; had they been separated, he would have punished the
-    rest). The danger is a human army, not divine fire; no bargaining; and the righteous are to be separated
-    out (tazayyul), not the cause of sparing everyone for ever.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אוּלַ֥י יֵ֛שׁ חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר הַאַ֤ף תִּסְפֶּה֙ וְלֹא תִשָּׂ֣א לַמָּק֔וֹם
-    לְמַ֛עַן חֲמִשִּׁ֥ים הַצַּדִּיקִ֖ם אֲשֶׁ֥ר בְּקִרְבָּֽהּ
-- tradition: islam
-  ref: Quran 48:25
-  note: 'A city''s punishment held back for the righteous within it [divergence between the texts] (A
-    city spared for the sake of the righteous inside it. Genesis: ha-ʾap̄ tispeh ṣaddîq ʿim rāšāʿ ...
-    wə-lōʾ ṯiśśāʾ lam-māqôm ləmaʿan ḥămiššîm haṣ-ṣaddîqim; lōʾ ʾašḥîṯ baʿăḇûr hā-ʿăśārâ (Abraham bargains;
-    God would spare all for ten). Quran: wa-lawlā rijālun muʾminūna wa-nisāʾun muʾminātun lam taʿlamūhum
-    an taṭaʾūhum ... law tazayyalū la-ʿadhdhabnā lladhīna kafarū (God held back the believers'' own attack
-    on Mecca because unknown believers were inside; had they been separated, he would have punished the
-    rest). The danger is a human army, not divine fire; no bargaining; and the righteous are to be separated
-    out (tazayyul), not the cause of sparing everyone for ever.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن يَبْلُغَ
-    مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ أَن تَطَـُٔوهُمْ
-    فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ مَن يَشَآءُ
-    لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A city spared for the sake of the righteous inside it. Genesis: ha-ʾap̄ tispeh ṣaddîq
-    ʿim rāšāʿ ... wə-lōʾ ṯiśśāʾ lam-māqôm ləmaʿan ḥămiššîm haṣ-ṣaddîqim; lōʾ ʾašḥîṯ baʿăḇûr hā-ʿăśārâ
-    (Abraham bargains; God would spare all for ten). Quran: wa-lawlā rijālun muʾminūna wa-nisāʾun muʾminātun
-    lam taʿlamūhum an taṭaʾūhum ... law tazayyalū la-ʿadhdhabnā lladhīna kafarū (God held back the believers''
-    own attack on Mecca because unknown believers were inside; had they been separated, he would have
-    punished the rest). The danger is a human army, not divine fire; no bargaining; and the righteous
-    are to be separated out (tazayyul), not the cause of sparing everyone for ever.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A city''s punishment held back for the righteous within it [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -105,6 +54,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A city's punishment held back for the righteous within it
+kinds:
+- divergence
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-48-fath-tree-hudaybiya-and-seed
+  title: The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
+    and the seed parable from Torah and Gospel
+  tradition: islam
+matches:
+- kind: divergence
+  label: A city's punishment held back for the righteous within it
+  note: 'A city spared for the sake of the righteous inside it. Genesis: ha-ʾap̄ tispeh ṣaddîq ʿim rāšāʿ
+    ... wə-lōʾ ṯiśśāʾ lam-māqôm ləmaʿan ḥămiššîm haṣ-ṣaddîqim; lōʾ ʾašḥîṯ baʿăḇûr hā-ʿăśārâ (Abraham bargains;
+    God would spare all for ten). Quran: wa-lawlā rijālun muʾminūna wa-nisāʾun muʾminātun lam taʿlamūhum
+    an taṭaʾūhum ... law tazayyalū la-ʿadhdhabnā lladhīna kafarū (God held back the believers'' own attack
+    on Mecca because unknown believers were inside; had they been separated, he would have punished the
+    rest). The danger is a human army, not divine fire; no bargaining; and the righteous are to be separated
+    out (tazayyul), not the cause of sparing everyone for ever.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:23
+      lang: he
+      text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
+    - ref: Gen 18:24
+      lang: he
+      text: אוּלַ֥י יֵ֛שׁ חֲמִשִּׁ֥ים צַדִּיקִ֖ם בְּת֣וֹךְ הָעִ֑יר הַאַ֤ף תִּסְפֶּה֙ וְלֹא תִשָּׂ֣א לַמָּק֔וֹם
+        לְמַ֛עַן חֲמִשִּׁ֥ים הַצַּדִּיקִ֖ם אֲשֶׁ֥ר בְּקִרְבָּֽהּ
+    - ref: Gen 18:32
+      lang: he
+      text: וַ֠יֹּאמֶר אַל נָ֞א יִ֤חַר לַֽאדֹנָי֙ וַאֲדַבְּרָ֣ה אַךְ הַפַּ֔עַם אוּלַ֛י יִמָּצְא֥וּן שָׁ֖ם
+        עֲשָׂרָ֑ה וַיֹּ֨אמֶר֙ לֹ֣א אַשְׁחִ֔ית בַּעֲב֖וּר הָעֲשָׂרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:25
+      lang: ar
+      text: هُمُ ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱلْهَدْىَ مَعْكُوفًا أَن
+        يَبْلُغَ مَحِلَّهُۥ وَلَوْلَا رِجَالٌ مُّؤْمِنُونَ وَنِسَآءٌ مُّؤْمِنَٰتٌ لَّمْ تَعْلَمُوهُمْ
+        أَن تَطَـُٔوهُمْ فَتُصِيبَكُم مِّنْهُم مَّعَرَّةٌۢ بِغَيْرِ عِلْمٍ لِّيُدْخِلَ ٱللَّهُ فِى رَحْمَتِهِۦ
+        مَن يَشَآءُ لَوْ تَزَيَّلُوا۟ لَعَذَّبْنَا ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابًا أَلِيمًا
 ---
 
 ## Questions

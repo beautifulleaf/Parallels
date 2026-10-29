@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-22-signs-and-rites
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Migrants provided for; the night and day,
   the held sky, a rite for every nation
-summary: 'These two units share 1 motifs: god''s eyes saw the speaker''s unformed substance (golem); all
-  his days were written in god''s book before one of them existed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - golem-seen-days-written-in-book
-passages:
-- tradition: judaism
-  ref: Ps 139:16
-  note: God's eyes saw the speaker's unformed substance (golem); all his days were written in God's book
-    before one of them existed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
-    אֶחָ֣ד בָּהֶֽם
-- tradition: judaism
-  ref: Ps 139:13
-  note: God's eyes saw the speaker's unformed substance (golem); all his days were written in God's book
-    before one of them existed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: islam
-  ref: Quran 22:70
-  note: 'God''s eyes saw the speaker''s unformed substance (golem); all his days were written in God''s
-    book before one of them existed (a-lam taʿlam anna llāha yaʿlamu mā fī s-samāʾi wa-l-arḍi inna dhālika
-    fī kitābin ~ wə-ʿal sifrəkā kullām yikkātēvû: God''s knowledge set down beforehand in his book (kitāb
-    / sēfer); the Psalm speaks of one person''s days, the Quran of everything in heaven and earth.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّ ذَٰلِكَ فِى كِتَٰبٍ
-    إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-lam taʿlam anna llāha yaʿlamu mā fī s-samāʾi wa-l-arḍi inna dhālika fī kitābin ~ wə-ʿal sifrəkā
-    kullām yikkātēvû: God''s knowledge set down beforehand in his book (kitāb / sēfer); the Psalm speaks
-    of one person''s days, the Quran of everything in heaven and earth.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s eyes saw the speaker''s unformed substance (golem); all his
     days were written in God''s book before one of them existed (weight 6.3). Pair score 6.3.'
@@ -80,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's eyes saw the speaker's unformed substance (golem); all his days were written in God's book
+  before one of them existed
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-22-signs-and-rites
+  title: Migrants provided for; the night and day, the held sky, a rite for every nation
+  tradition: islam
+matches:
+- kind: echo
+  label: God's eyes saw the speaker's unformed substance (golem); all his days were written in God's book
+    before one of them existed
+  note: 'a-lam taʿlam anna llāha yaʿlamu mā fī s-samāʾi wa-l-arḍi inna dhālika fī kitābin ~ wə-ʿal sifrəkā
+    kullām yikkātēvû: God''s knowledge set down beforehand in his book (kitāb / sēfer); the Psalm speaks
+    of one person''s days, the Quran of everything in heaven and earth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:70
+      lang: ar
+      text: أَلَمْ تَعْلَمْ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِنَّ ذَٰلِكَ فِى كِتَٰبٍ
+        إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-mal-2-faithless-marriage-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'One father, one God; foreign wives and the wife of one''s youth ↔ Al-Hujurat: lowering voices,
   verifying reports, reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 2 motifs: one origin (one father, one pair, one god) as ground for conduct
-  toward others [divergence between the texts], ''have we not all one father? has not one god created
-  us? why do we deal treacherously with one another?''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,66 +15,9 @@ layers:
 motifs:
 - common-origin-and-conduct-to-others-as-divergence
 - one-father-one-god-created-us
-passages:
-- tradition: judaism
-  ref: Mal 2:10
-  note: 'One origin (one father, one pair, one God) as ground for conduct toward others [divergence between
-    the texts] (One origin as the ground for brotherly conduct: hă-lôʾ ʾāḇ ʾeḥāḏ lə-ḵullānû hă-lôʾ ʾēl
-    ʾeḥāḏ bərāʾānû maddûaʿ nibgaḏ ʾîš bə-ʾāḥîw vs. yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā
-    wa-jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū inna akramakum ʿinda llāhi atqākum. Malachi speaks
-    to Judah about faithfulness within the covenant people; the Quran addresses all humankind and puts
-    piety above lineage.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא אָ֤ב אֶחָד֙ לְכֻלָּ֔נוּ הֲל֛וֹא אֵ֥ל אֶֽחָ֖ד בְּרָאָ֑נוּ מַדּ֗וּעַ נִבְגַּד֙ אִ֣ישׁ בְּאָחִ֔יו
-    לְחַלֵּ֖ל בְּרִ֥ית אֲבֹתֵֽינוּ
-- tradition: islam
-  ref: Quran 49:10
-  note: 'One origin (one father, one pair, one God) as ground for conduct toward others [divergence between
-    the texts] (One origin as the ground for brotherly conduct: hă-lôʾ ʾāḇ ʾeḥāḏ lə-ḵullānû hă-lôʾ ʾēl
-    ʾeḥāḏ bərāʾānû maddûaʿ nibgaḏ ʾîš bə-ʾāḥîw vs. yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā
-    wa-jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū inna akramakum ʿinda llāhi atqākum. Malachi speaks
-    to Judah about faithfulness within the covenant people; the Quran addresses all humankind and puts
-    piety above lineage.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ
-    تُرْحَمُونَ
-- tradition: islam
-  ref: Quran 49:13
-  note: 'One origin (one father, one pair, one God) as ground for conduct toward others [divergence between
-    the texts] (One origin as the ground for brotherly conduct: hă-lôʾ ʾāḇ ʾeḥāḏ lə-ḵullānû hă-lôʾ ʾēl
-    ʾeḥāḏ bərāʾānû maddûaʿ nibgaḏ ʾîš bə-ʾāḥîw vs. yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā
-    wa-jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū inna akramakum ʿinda llāhi atqākum. Malachi speaks
-    to Judah about faithfulness within the covenant people; the Quran addresses all humankind and puts
-    piety above lineage.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
-    لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
-- tradition: judaism
-  ref: Mal 2:10
-  note: '''Have we not all one father? Has not one God created us? Why do we deal treacherously with one
-    another?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא אָ֤ב אֶחָד֙ לְכֻלָּ֔נוּ הֲל֛וֹא אֵ֥ל אֶֽחָ֖ד בְּרָאָ֑נוּ מַדּ֗וּעַ נִבְגַּד֙ אִ֣ישׁ בְּאָחִ֔יו
-    לְחַלֵּ֖ל בְּרִ֥ית אֲבֹתֵֽינוּ
-- tradition: islam
-  ref: Quran 49:13
-  note: '''Have we not all one father? Has not one God created us? Why do we deal treacherously with one
-    another?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
-    لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. One origin as the ground for brotherly conduct: hă-lôʾ ʾāḇ ʾeḥāḏ lə-ḵullānû hă-lôʾ ʾēl
-    ʾeḥāḏ bərāʾānû maddûaʿ nibgaḏ ʾîš bə-ʾāḥîw vs. yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā
-    wa-jaʿalnākum shuʿūban wa-qabāʾila li-taʿārafū inna akramakum ʿinda llāhi atqākum. Malachi speaks
-    to Judah about faithfulness within the covenant people; the Quran addresses all humankind and puts
-    piety above lineage.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One origin (one father, one pair, one God) as ground for conduct
     toward others [divergence between the texts] (weight 6.7); ''Have we not all one father? Has not one
@@ -114,6 +55,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One origin (one father, one pair, one God) as ground for conduct toward others
+kinds:
+- divergence
+- shared
+units:
+- id: hb-mal-2-faithless-marriage
+  title: One father, one God; foreign wives and the wife of one's youth
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: divergence
+  label: One origin (one father, one pair, one God) as ground for conduct toward others
+  note: 'One origin as the ground for brotherly conduct: hă-lôʾ ʾāḇ ʾeḥāḏ lə-ḵullānû hă-lôʾ ʾēl ʾeḥāḏ
+    bərāʾānû maddûaʿ nibgaḏ ʾîš bə-ʾāḥîw vs. yā ayyuhā n-nāsu innā khalaqnākum min dhakarin wa-unthā wa-jaʿalnākum
+    shuʿūban wa-qabāʾila li-taʿārafū inna akramakum ʿinda llāhi atqākum. Malachi speaks to Judah about
+    faithfulness within the covenant people; the Quran addresses all humankind and puts piety above lineage.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 2:10
+      lang: he
+      text: הֲל֨וֹא אָ֤ב אֶחָד֙ לְכֻלָּ֔נוּ הֲל֛וֹא אֵ֥ל אֶֽחָ֖ד בְּרָאָ֑נוּ מַדּ֗וּעַ נִבְגַּד֙ אִ֣ישׁ
+        בְּאָחִ֔יו לְחַלֵּ֖ל בְּרִ֥ית אֲבֹתֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 49:10
+      lang: ar
+      text: إِنَّمَا ٱلْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا۟ بَيْنَ أَخَوَيْكُمْ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ
+        تُرْحَمُونَ
+    - ref: Quran 49:13
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
+        لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
+- kind: shared
+  label: '''Have we not all one father? Has not one God created us? Why do we deal treacherously with
+    one another?'''
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 2:10
+      lang: he
+      text: הֲל֨וֹא אָ֤ב אֶחָד֙ לְכֻלָּ֔נוּ הֲל֛וֹא אֵ֥ל אֶֽחָ֖ד בְּרָאָ֑נוּ מַדּ֗וּעַ נִבְגַּד֙ אִ֣ישׁ
+        בְּאָחִ֔יו לְחַלֵּ֖ל בְּרִ֥ית אֲבֹתֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 49:13
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ
+        لِتَعَارَفُوٓا۟ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ
 ---
 
 ## Questions

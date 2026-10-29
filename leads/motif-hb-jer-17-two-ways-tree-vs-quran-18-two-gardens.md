@@ -2,8 +2,7 @@
 id: motif-hb-jer-17-two-ways-tree-vs-quran-18-two-gardens
 title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart ↔ The parable of the
   two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
-summary: 'These two units share 1 motifs: the rich man thinks his garden will never perish and the hour
-  will never come.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - rich-man-thinks-wealth-eternal
-passages:
-- tradition: judaism
-  ref: Jer 17:11
-  note: 'The rich man thinks his garden will never perish and the Hour will never come (ʿōśeh ʿōšer wəlōʾ
-    bəmišpāṭ baḥăṣî yāmāyw yaʿazbennû ûbəʾaḥărîtô yihyeh nābāl; wa-uḥīṭa bi-thamarihi fa-aṣbaḥa yuqallibu
-    kaffayhi: riches leave their owner and he is left a fool or full of regret.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י ימו יָמָיו֙ יַעַזְבֶ֔נּוּ
-    וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל
-- tradition: islam
-  ref: Quran 18:35
-  note: The rich man thinks his garden will never perish and the Hour will never come ('I do not think
-    this will ever perish, nor that the Hour will come')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا
-- tradition: islam
-  ref: Quran 18:36
-  note: The rich man thinks his garden will never perish and the Hour will never come ('I do not think
-    this will ever perish, nor that the Hour will come')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا
-    مُنقَلَبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʿōśeh ʿōšer wəlōʾ bəmišpāṭ baḥăṣî yāmāyw yaʿazbennû ûbəʾaḥărîtô yihyeh nābāl; wa-uḥīṭa bi-thamarihi
-    fa-aṣbaḥa yuqallibu kaffayhi: riches leave their owner and he is left a fool or full of regret.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man thinks his garden will never perish and the Hour will
     never come (weight 6.3). Pair score 6.3.'
@@ -81,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The rich man thinks his garden will never perish and the Hour will never come
+kinds:
+- echo
+units:
+- id: hb-jer-17-two-ways-tree
+  title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart
+  tradition: judaism
+- id: quran-18-two-gardens
+  title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+  tradition: islam
+matches:
+- kind: echo
+  label: The rich man thinks his garden will never perish and the Hour will never come
+  note: 'ʿōśeh ʿōšer wəlōʾ bəmišpāṭ baḥăṣî yāmāyw yaʿazbennû ûbəʾaḥărîtô yihyeh nābāl; wa-uḥīṭa bi-thamarihi
+    fa-aṣbaḥa yuqallibu kaffayhi: riches leave their owner and he is left a fool or full of regret.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:11
+      lang: he
+      text: קֹרֵ֤א דָגַר֙ וְלֹ֣א יָלָ֔ד עֹ֥שֶׂה עֹ֖שֶׁר וְלֹ֣א בְמִשְׁפָּ֑ט בַּחֲצִ֤י ימו יָמָיו֙ יַעַזְבֶ֔נּוּ
+        וּבְאַחֲרִית֖וֹ יִהְיֶ֥ה נָבָֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 18:35
+      lang: ar
+      text: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا
+    - ref: Quran 18:42
+      lang: ar
+      text: وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ
+        عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا
 ---
 
 ## Questions

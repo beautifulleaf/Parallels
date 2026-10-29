@@ -2,8 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-8-meccan-plots
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ The plot against the prophet and the worship
   of the pagans
-summary: 'These two units share 2 motifs: deniers pray: ''if this is the truth from you, rain stones on
-  us from the sky'', god will not punish a people while the prophet is among them or while they seek forgiveness.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,43 +16,9 @@ layers:
 motifs:
 - deniers-ask-for-stones-from-heaven
 - no-punishment-while-prophet-among-them
-passages:
-- tradition: judaism
-  ref: Gen 19:24
-  note: 'Deniers pray: ''If this is the truth from you, rain stones on us from the sky'' (The deniers
-    ask for the rain that fell on Sodom, with the same verb mṭr: fa-amṭir ʿalaynā ḥijāratan mina s-samāʾi
-    vs waYHWH himṭîr ʿal-sᵉdōm wᵉʿal-ʿămōrāh goprît wāʾēš ... min-haššāmāyim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 8:32
-  note: 'Deniers pray: ''If this is the truth from you, rain stones on us from the sky'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا حِجَارَةً
-    مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ
-- tradition: judaism
-  ref: Gen 19:22
-  note: 'God will not punish a people while the prophet is among them or while they seek forgiveness (God
-    cannot strike while his man is still there: wa-mā kāna llāhu li-yuʿadhdhibahum wa-anta fīhim vs lōʾ
-    ʾûkal laʿăśôt dābār ʿad-bōʾăkā šāmmāh (the angel to Lot).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַהֵר֙ הִמָּלֵ֣ט שָׁ֔מָּה כִּ֣י לֹ֤א אוּכַל֙ לַעֲשׂ֣וֹת דָּבָ֔ר עַד בֹּאֲךָ֖ שָׁ֑מָּה עַל כֵּ֛ן
-    קָרָ֥א שֵׁם הָעִ֖יר צֽוֹעַר
-- tradition: islam
-  ref: Quran 8:33
-  note: God will not punish a people while the prophet is among them or while they seek forgiveness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo, parallel. God cannot strike while his man is still there: wa-mā kāna llāhu li-yuʿadhdhibahum
-    wa-anta fīhim vs lōʾ ʾûkal laʿăśôt dābār ʿad-bōʾăkā šāmmāh (the angel to Lot). The deniers ask for
-    the rain that fell on Sodom, with the same verb mṭr: fa-amṭir ʿalaynā ḥijāratan mina s-samāʾi vs waYHWH
-    himṭîr ʿal-sᵉdōm wᵉʿal-ʿămōrāh goprît wāʾēš ... min-haššāmāyim.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers pray: ''If this is the truth from you, rain stones on us
     from the sky'' (weight 6.7); God will not punish a people while the prophet is among them or while
@@ -90,6 +55,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will not punish a people while the prophet is among them or while they seek forgiveness
+kinds:
+- parallel
+- echo
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: parallel
+  label: God will not punish a people while the prophet is among them or while they seek forgiveness
+  note: 'God cannot strike while his man is still there: wa-mā kāna llāhu li-yuʿadhdhibahum wa-anta fīhim
+    vs lōʾ ʾûkal laʿăśôt dābār ʿad-bōʾăkā šāmmāh (the angel to Lot).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:22
+      lang: he
+      text: מַהֵר֙ הִמָּלֵ֣ט שָׁ֔מָּה כִּ֣י לֹ֤א אוּכַל֙ לַעֲשׂ֣וֹת דָּבָ֔ר עַד בֹּאֲךָ֖ שָׁ֑מָּה עַל
+        כֵּ֛ן קָרָ֥א שֵׁם הָעִ֖יר צֽוֹעַר
+  - tradition: islam
+    passages:
+    - ref: Quran 8:33
+      lang: ar
+      text: وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمْ وَهُمْ
+        يَسْتَغْفِرُونَ
+- kind: echo
+  label: 'Deniers pray: ''If this is the truth from you, rain stones on us from the sky'''
+  note: 'The deniers ask for the rain that fell on Sodom, with the same verb mṭr: fa-amṭir ʿalaynā ḥijāratan
+    mina s-samāʾi vs waYHWH himṭîr ʿal-sᵉdōm wᵉʿal-ʿămōrāh goprît wāʾēš ... min-haššāmāyim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:32
+      lang: ar
+      text: وَإِذْ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلْحَقَّ مِنْ عِندِكَ فَأَمْطِرْ عَلَيْنَا
+        حِجَارَةً مِّنَ ٱلسَّمَآءِ أَوِ ٱئْتِنَا بِعَذَابٍ أَلِيمٍ
 ---
 
 ## Questions

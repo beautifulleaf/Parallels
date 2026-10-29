@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-12-resurrection-end-vs-quran-2-polemic-israel
 title: Michael arises, the resurrection, and the sealed book ↔ Polemic with the People of the Book
-summary: 'These two units share 2 motifs: michael, ''one of the chief princes'', the great prince who
-  stands over israel, the angel michael is named [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,53 +12,14 @@ traditions:
 layers:
 - motif
 motifs:
-- michael-archangel
 - michael-named-as-divergence
-passages:
-- tradition: judaism
-  ref: Dan 12:1
-  note: Michael, 'one of the chief princes', the great prince who stands over Israel
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
-    עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
-    עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
-- tradition: islam
-  ref: Quran 2:98
-  note: Michael, 'one of the chief princes', the great prince who stands over Israel
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ
-    عَدُوٌّ لِّلْكَٰفِرِينَ
-- tradition: judaism
-  ref: Dan 12:1
-  note: 'The angel Michael is named [divergence between the texts] (Dan 12:1 mîkāʾēl ha-śśar ha-ggādôl
-    hā-ʿōmēd ʿal bĕnê ʿammekā: guardian of Daniel''s people; Q 2:98 wa-jibrīla wa-mīkāla fa-inna llāha
-    ʿaduwwun li-l-kāfirīn: Michael no longer stands for one nation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
-    עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
-    עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
-- tradition: islam
-  ref: Quran 2:98
-  note: 'The angel Michael is named [divergence between the texts] (Dan 10:21 kî ʾim mîkāʾēl śarkem: Michael
-    is Israel''s own prince (''your prince''); Q 2:98 man kāna ʿaduwwan li-llāhi wa-malāʾikatihi wa-rusulihi
-    wa-jibrīla wa-mīkāla: Michael, with Gabriel, is set against those addressed (by context, opponents
-    among the People of the Book). Israel''s patron angel becomes an angel of God as such, whose enemy
-    is God''s enemy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ ٱللَّهَ
-    عَدُوٌّ لِّلْكَٰفِرِينَ
+- michael-archangel
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Dan 12:1 mîkāʾēl ha-śśar ha-ggādôl hā-ʿōmēd ʿal bĕnê ʿammekā: guardian of Daniel''s people;
-    Q 2:98 wa-jibrīla wa-mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn: Michael no longer stands for one
-    nation.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Michael, ''one of the chief princes'', the great prince who stands
-    over Israel (weight 6.3); The angel Michael is named [divergence between the texts] (weight 6.3).
+- text: 'Shared motifs, rarest first: The angel Michael is named [divergence between the texts] (weight
+    6.3); Michael, ''one of the chief princes'', the great prince who stands over Israel (weight 6.3).
     Pair score 12.6.'
   basis: reading
 - text: 'Only in Michael arises, the resurrection, and the sealed book: Two figures stand on either bank
@@ -93,6 +53,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angel Michael is named
+kinds:
+- divergence
+- shared
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: The angel Michael is named
+  note: 'Dan 12:1 mîkāʾēl ha-śśar ha-ggādôl hā-ʿōmēd ʿal bĕnê ʿammekā: guardian of Daniel''s people; Q
+    2:98 wa-jibrīla wa-mīkāla fa-inna llāha ʿaduwwun li-l-kāfirīn: Michael no longer stands for one nation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:1
+      lang: he
+      text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
+        עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
+        עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:98
+      lang: ar
+      text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ
+        ٱللَّهَ عَدُوٌّ لِّلْكَٰفِرِينَ
+- kind: shared
+  label: Michael, 'one of the chief princes', the great prince who stands over Israel
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:1
+      lang: he
+      text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
+        עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
+        עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:98
+      lang: ar
+      text: مَن كَانَ عَدُوًّا لِّلَّهِ وَمَلَٰٓئِكَتِهِۦ وَرُسُلِهِۦ وَجِبْرِيلَ وَمِيكَىٰلَ فَإِنَّ
+        ٱللَّهَ عَدُوٌّ لِّلْكَٰفِرِينَ
 ---
 
 ## Questions

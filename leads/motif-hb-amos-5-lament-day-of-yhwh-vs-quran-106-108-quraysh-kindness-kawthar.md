@@ -2,8 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-106-108-quraysh-kindness-kawthar
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Quraysh, small kindnesses
   and al-Kawthar
-summary: 'These two units share 1 motifs: god says he is sated with sacrifices and hates festivals and
-  new moons offered by those whose hands are full of blood.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - prophetic-critique-of-sacrifice
-passages:
-- tradition: judaism
-  ref: Amos 5:21
-  note: 'God says he is sated with sacrifices and hates festivals and new moons offered by those whose
-    hands are full of blood (fa-waylun li-l-muṣallīn ... wa-yamnaʿūna l-māʿūn ~ śānēʾtî māʾastî ḥaggêkem
-    ... we-yiggal ka-mmayim mišpāṭ û-ṣedāqāh ke-naḥal ʾêtān: cult rejected for lack of justice and kindness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׂנֵ֥אתִי מָאַ֖סְתִּי חַגֵּיכֶ֑ם וְלֹ֥א אָרִ֖יחַ בְּעַצְּרֹֽתֵיכֶֽם
-- tradition: judaism
-  ref: Amos 5:22
-  note: 'God says he is sated with sacrifices and hates festivals and new moons offered by those whose
-    hands are full of blood (fa-waylun li-l-muṣallīn ... wa-yamnaʿūna l-māʿūn ~ śānēʾtî māʾastî ḥaggêkem
-    ... we-yiggal ka-mmayim mišpāṭ û-ṣedāqāh ke-naḥal ʾêtān: cult rejected for lack of justice and kindness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י אִם תַּעֲלוּ לִ֥י עֹל֛וֹת וּמִנְחֹתֵיכֶ֖ם לֹ֣א אֶרְצֶ֑ה וְשֶׁ֥לֶם מְרִיאֵיכֶ֖ם לֹ֥א אַבִּֽיט
-- tradition: islam
-  ref: Quran 107:4
-  note: God says he is sated with sacrifices and hates festivals and new moons offered by those whose
-    hands are full of blood (worship that coexists with neglect of the orphan and poor is condemned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَوَيْلٌ لِّلْمُصَلِّينَ
-- tradition: islam
-  ref: Quran 107:5
-  note: God says he is sated with sacrifices and hates festivals and new moons offered by those whose
-    hands are full of blood (worship that coexists with neglect of the orphan and poor is condemned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-waylun li-l-muṣallīn ... wa-yamnaʿūna l-māʿūn ~ śānēʾtî māʾastî ḥaggêkem ... we-yiggal
-    ka-mmayim mišpāṭ û-ṣedāqāh ke-naḥal ʾêtān: cult rejected for lack of justice and kindness.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God says he is sated with sacrifices and hates festivals and new
     moons offered by those whose hands are full of blood (weight 6.3). Pair score 6.3.'
@@ -82,6 +49,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God says he is sated with sacrifices and hates festivals and new moons offered by those whose
+  hands are full of blood
+kinds:
+- parallel
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-106-108-quraysh-kindness-kawthar
+  title: Quraysh, small kindnesses and al-Kawthar
+  tradition: islam
+matches:
+- kind: parallel
+  label: God says he is sated with sacrifices and hates festivals and new moons offered by those whose
+    hands are full of blood
+  note: 'fa-waylun li-l-muṣallīn ... wa-yamnaʿūna l-māʿūn ~ śānēʾtî māʾastî ḥaggêkem ... we-yiggal ka-mmayim
+    mišpāṭ û-ṣedāqāh ke-naḥal ʾêtān: cult rejected for lack of justice and kindness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:21
+      lang: he
+      text: שָׂנֵ֥אתִי מָאַ֖סְתִּי חַגֵּיכֶ֑ם וְלֹ֥א אָרִ֖יחַ בְּעַצְּרֹֽתֵיכֶֽם
+    - ref: Amos 5:22
+      lang: he
+      text: כִּ֣י אִם תַּעֲלוּ לִ֥י עֹל֛וֹת וּמִנְחֹתֵיכֶ֖ם לֹ֣א אֶרְצֶ֑ה וְשֶׁ֥לֶם מְרִיאֵיכֶ֖ם לֹ֥א
+        אַבִּֽיט
+    - ref: Amos 5:23
+      lang: he
+      text: הָסֵ֥ר מֵעָלַ֖י הֲמ֣וֹן שִׁרֶ֑יךָ וְזִמְרַ֥ת נְבָלֶ֖יךָ לֹ֥א אֶשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 107:4
+      lang: ar
+      text: فَوَيْلٌ لِّلْمُصَلِّينَ
+    - ref: Quran 107:5
+      lang: ar
+      text: ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ
+    - ref: Quran 107:6
+      lang: ar
+      text: ٱلَّذِينَ هُمْ يُرَآءُونَ
 ---
 
 ## Questions

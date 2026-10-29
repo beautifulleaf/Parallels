@@ -1,7 +1,7 @@
 ---
 id: motif-hb-mal-2-faithless-marriage-vs-quran-2-oaths-divorce
 title: One father, one God; foreign wives and the wife of one's youth ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 1 motifs: god''s attitude to divorce [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,58 +13,9 @@ layers:
 - motif
 motifs:
 - divine-view-of-divorce-as-contrast
-passages:
-- tradition: judaism
-  ref: Mal 2:14
-  note: 'God''s attitude to divorce [contrast between the texts] (Mal 2:14, 16 YHWH hēʿîd bênkā û-bên
-    ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God, witness to the marriage covenant, hates divorce;
-    Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is
-    permitted, regulated, and to be done with kindness, and keeping a wife only to harm her is the wrong
-    (2:231 wa-lā tumsikūhunna ḍirāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲמַרְתֶּ֖ם עַל מָ֑ה עַ֡ל כִּי יְהוָה֩ הֵעִ֨יד בֵּינְךָ֜ וּבֵ֣ין אֵ֣שֶׁת נְעוּרֶ֗יךָ אֲשֶׁ֤ר
-    אַתָּה֙ בָּגַ֣דְתָּה בָּ֔הּ וְהִ֥יא חֲבֶרְתְּךָ֖ וְאֵ֥שֶׁת בְּרִיתֶֽךָ
-- tradition: judaism
-  ref: Mal 2:16
-  note: 'God''s attitude to divorce [contrast between the texts] (Mal 2:14, 16 YHWH hēʿîd bênkā û-bên
-    ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God, witness to the marriage covenant, hates divorce;
-    Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is
-    permitted, regulated, and to be done with kindness, and keeping a wife only to harm her is the wrong
-    (2:231 wa-lā tumsikūhunna ḍirāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי שָׂנֵ֣א שַׁלַּ֗ח אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכִסָּ֤ה חָמָס֙ עַל לְבוּשׁ֔וֹ אָמַ֖ר
-    יְהוָ֣ה צְבָא֑וֹת וְנִשְׁמַרְתֶּ֥ם בְּרוּחֲכֶ֖ם וְלֹ֥א תִבְגֹּֽדוּ
-- tradition: islam
-  ref: Quran 2:227
-  note: 'God''s attitude to divorce [contrast between the texts] (Mal 2:14, 16 YHWH hēʿîd bênkā û-bên
-    ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God, witness to the marriage covenant, hates divorce;
-    Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is
-    permitted, regulated, and to be done with kindness, and keeping a wife only to harm her is the wrong
-    (2:231 wa-lā tumsikūhunna ḍirāran).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنْ عَزَمُوا۟ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 2:229
-  note: 'God''s attitude to divorce [contrast between the texts] (Mal 2:14, 16 YHWH hēʿîd bênkā û-bên
-    ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God, witness to the marriage covenant, hates divorce;
-    Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is
-    permitted, regulated, and to be done with kindness, and keeping a wife only to harm her is the wrong
-    (2:231 wa-lā tumsikūhunna ḍirāran).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلطَّلَٰقُ مَرَّتَانِ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍ وَلَا يَحِلُّ لَكُمْ
-    أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ
-    فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ تِلْكَ
-    حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Mal 2:14, 16 YHWH hēʿîd bênkā û-bên ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God,
-    witness to the marriage covenant, hates divorce; Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha
-    samīʿun ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is permitted, regulated, and to be done with kindness,
-    and keeping a wife only to harm her is the wrong (2:231 wa-lā tumsikūhunna ḍirāran).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s attitude to divorce [contrast between the texts] (weight
     6.7). Pair score 6.7.'
@@ -98,6 +49,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's attitude to divorce
+kinds:
+- contrast
+units:
+- id: hb-mal-2-faithless-marriage
+  title: One father, one God; foreign wives and the wife of one's youth
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: contrast
+  label: God's attitude to divorce
+  note: 'Mal 2:14, 16 YHWH hēʿîd bênkā û-bên ʾēšet nĕʿûrêkā ... kî śānēʾ šallaḥ ʾāmar YHWH: God, witness
+    to the marriage covenant, hates divorce; Q 2:227, 229 wa-in ʿazamū ṭ-ṭalāqa fa-inna llāha samīʿun
+    ʿalīm ... aw tasrīḥun bi-iḥsān: divorce is permitted, regulated, and to be done with kindness, and
+    keeping a wife only to harm her is the wrong (2:231 wa-lā tumsikūhunna ḍirāran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 2:14
+      lang: he
+      text: וַאֲמַרְתֶּ֖ם עַל מָ֑ה עַ֡ל כִּי יְהוָה֩ הֵעִ֨יד בֵּינְךָ֜ וּבֵ֣ין אֵ֣שֶׁת נְעוּרֶ֗יךָ אֲשֶׁ֤ר
+        אַתָּה֙ בָּגַ֣דְתָּה בָּ֔הּ וְהִ֥יא חֲבֶרְתְּךָ֖ וְאֵ֥שֶׁת בְּרִיתֶֽךָ
+    - ref: Mal 2:16
+      lang: he
+      text: כִּֽי שָׂנֵ֣א שַׁלַּ֗ח אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל וְכִסָּ֤ה חָמָס֙ עַל לְבוּשׁ֔וֹ
+        אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת וְנִשְׁמַרְתֶּ֥ם בְּרוּחֲכֶ֖ם וְלֹ֥א תִבְגֹּֽדוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:227
+      lang: ar
+      text: وَإِنْ عَزَمُوا۟ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+    - ref: Quran 2:229
+      lang: ar
+      text: ٱلطَّلَٰقُ مَرَّتَانِ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍ وَلَا يَحِلُّ لَكُمْ
+        أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ
+        ٱللَّهِ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ
+        بِهِۦ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ
+        هُمُ ٱلظَّٰلِمُونَ
+    - ref: Quran 2:231
+      lang: ar
+      text: وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ
+        بِمَعْرُوفٍ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِّتَعْتَدُوا۟ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ
+        نَفْسَهُۥ وَلَا تَتَّخِذُوٓا۟ ءَايَٰتِ ٱللَّهِ هُزُوًا وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ
+        وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟
+        أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

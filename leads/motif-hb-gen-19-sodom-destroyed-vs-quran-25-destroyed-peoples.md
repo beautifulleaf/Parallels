@@ -2,8 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-25-destroyed-peoples
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Moses and Aaron, Noah, Ad, Thamud, the
   People of the Rass and the rained-upon town
-summary: 'These two units share 2 motifs: god rains destruction on lot''s town [divergence between the
-  texts], god rains sulfur and fire from heaven on cities.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - destruction-rained-on-lots-town-as-divergence
 - fire-and-brimstone-from-heaven
-passages:
-- tradition: judaism
-  ref: Gen 19:24
-  note: 'God rains destruction on Lot''s town [divergence between the texts] (al-qaryati llatī umṭirat
-    maṭara s-sawʾi ~ wa-YHWH himṭîr ʿal Sədōm wə-ʿal ʿĂmōrâ gofrît wā-ʾēš: the same verb ''rain'' (amṭara
-    / himṭîr) for Sodom''s end. The Quran names neither the town nor sulphur and fire (''the evil rain''),
-    and makes the ruin a sight that passing travelers keep seeing (a-fa-lam yakūnū yarawnahā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-- tradition: judaism
-  ref: Gen 19:25
-  note: 'God rains destruction on Lot''s town [divergence between the texts] (al-qaryati llatī umṭirat
-    maṭara s-sawʾi ~ wa-YHWH himṭîr ʿal Sədōm wə-ʿal ʿĂmōrâ gofrît wā-ʾēš: the same verb ''rain'' (amṭara
-    / himṭîr) for Sodom''s end. The Quran names neither the town nor sulphur and fire (''the evil rain''),
-    and makes the ruin a sight that passing travelers keep seeing (a-fa-lam yakūnū yarawnahā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: islam
-  ref: Quran 25:40
-  note: 'God rains destruction on Lot''s town [divergence between the texts] (al-qaryati llatī umṭirat
-    maṭara s-sawʾi ~ wa-YHWH himṭîr ʿal Sədōm wə-ʿal ʿĂmōrâ gofrît wā-ʾēš: the same verb ''rain'' (amṭara
-    / himṭîr) for Sodom''s end. The Quran names neither the town nor sulphur and fire (''the evil rain''),
-    and makes the ruin a sight that passing travelers keep seeing (a-fa-lam yakūnū yarawnahā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا
-    بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
-- tradition: judaism
-  ref: Gen 19:24
-  note: God rains sulfur and fire from heaven on cities ('from YHWH ... from YHWH from heaven', double
-    divine name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-- tradition: judaism
-  ref: Gen 19:25
-  note: God rains sulfur and fire from heaven on cities ('from YHWH ... from YHWH from heaven', double
-    divine name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: islam
-  ref: Quran 25:40
-  note: God rains sulfur and fire from heaven on cities
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟ يَرَوْنَهَا
-    بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. al-qaryati llatī umṭirat maṭara s-sawʾi ~ wa-YHWH himṭîr ʿal Sədōm wə-ʿal ʿĂmōrâ gofrît
-    wā-ʾēš: the same verb ''rain'' (amṭara / himṭîr) for Sodom''s end. The Quran names neither the town
-    nor sulphur and fire (''the evil rain''), and makes the ruin a sight that passing travelers keep seeing
-    (a-fa-lam yakūnū yarawnahā).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rains destruction on Lot''s town [divergence between the texts]
     (weight 6.7); God rains sulfur and fire from heaven on cities (weight 4.8). Pair score 11.5.'
@@ -109,6 +53,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God rains destruction on Lot's town
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: divergence
+  label: God rains destruction on Lot's town
+  note: 'al-qaryati llatī umṭirat maṭara s-sawʾi ~ wa-YHWH himṭîr ʿal Sədōm wə-ʿal ʿĂmōrâ gofrît wā-ʾēš:
+    the same verb ''rain'' (amṭara / himṭîr) for Sodom''s end. The Quran names neither the town nor sulphur
+    and fire (''the evil rain''), and makes the ruin a sight that passing travelers keep seeing (a-fa-lam
+    yakūnū yarawnahā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 25:40
+      lang: ar
+      text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟
+        يَرَوْنَهَا بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
+- kind: shared
+  label: God rains sulfur and fire from heaven on cities
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+    note: '''from YHWH ... from YHWH from heaven'', double divine name'
+  - tradition: islam
+    passages:
+    - ref: Quran 25:40
+      lang: ar
+      text: وَلَقَدْ أَتَوْا۟ عَلَى ٱلْقَرْيَةِ ٱلَّتِىٓ أُمْطِرَتْ مَطَرَ ٱلسَّوْءِ أَفَلَمْ يَكُونُوا۟
+        يَرَوْنَهَا بَلْ كَانُوا۟ لَا يَرْجُونَ نُشُورًا
 ---
 
 ## Questions

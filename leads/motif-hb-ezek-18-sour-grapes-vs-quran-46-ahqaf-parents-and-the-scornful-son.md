@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: Sour grapes - individual responsibility and repentance ↔ Kindness to parents, thirty months of
   bearing and weaning, the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 1 motifs: whoever does good does it for his own soul; whoever does evil,
-  it is against it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - each-soul-bears-own-deeds
-passages:
-- tradition: judaism
-  ref: Ezek 18:20
-  note: Whoever does good does it for his own soul; whoever does evil, it is against it (han-nep̄eš ha-ḥōṭēʾṯ
-    hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw tihyeh vs. man ʿamila ṣāliḥan
-    fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: judaism
-  ref: Ezek 18:10
-  note: Whoever does good does it for his own soul; whoever does evil, it is against it (han-nep̄eš ha-ḥōṭēʾṯ
-    hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw tihyeh vs. man ʿamila ṣāliḥan
-    fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהוֹלִ֥יד בֵּן פָּרִ֖יץ שֹׁפֵ֣ךְ דָּ֑ם וְעָ֣שָׂה אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה
-- tradition: islam
-  ref: Quran 46:17
-  note: 'Whoever does good does it for his own soul; whoever does evil, it is against it (The wicked son
-    of a righteous father bears his own guilt: wə-hôlîḏ bēn pārîṣ ... ḥāy lōʾ yiḥyeh ... mōṯ yûmāṯ dāmâw
-    bô yihyeh vs. the believing parents and the scornful son, ulāʾika lladhīna ḥaqqa ʿalayhimu l-qawl
-    ... wa-li-kullin darajātun mimmā ʿamilū. The parents'' faith does not save the son in either text.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ ٱلْقُرُونُ
-    مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَيَقُولُ مَا
-    هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
-- tradition: islam
-  ref: Quran 46:19
-  note: 'Whoever does good does it for his own soul; whoever does evil, it is against it (The wicked son
-    of a righteous father bears his own guilt: wə-hôlîḏ bēn pārîṣ ... ḥāy lōʾ yiḥyeh ... mōṯ yûmāṯ dāmâw
-    bô yihyeh vs. the believing parents and the scornful son, ulāʾika lladhīna ḥaqqa ʿalayhimu l-qawl
-    ... wa-li-kullin darajātun mimmā ʿamilū. The parents'' faith does not save the son in either text.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِكُلٍّ دَرَجَٰتٌ مِّمَّا عَمِلُوا۟ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The wicked son of a righteous father bears his own guilt: wə-hôlîḏ bēn pārîṣ ... ḥāy lōʾ yiḥyeh
-    ... mōṯ yûmāṯ dāmâw bô yihyeh vs. the believing parents and the scornful son, ulāʾika lladhīna ḥaqqa
-    ʿalayhimu l-qawl ... wa-li-kullin darajātun mimmā ʿamilū. The parents'' faith does not save the son
-    in either text.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does good does it for his own soul; whoever does evil, it
     is against it (weight 6.0). Pair score 6.0.'
@@ -99,6 +57,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever does good does it for his own soul; whoever does evil, it is against it
+kinds:
+- echo
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: echo
+  label: Whoever does good does it for his own soul; whoever does evil, it is against it
+  note: 'The wicked son of a righteous father bears his own guilt: wə-hôlîḏ bēn pārîṣ ... ḥāy lōʾ yiḥyeh
+    ... mōṯ yûmāṯ dāmâw bô yihyeh vs. the believing parents and the scornful son, ulāʾika lladhīna ḥaqqa
+    ʿalayhimu l-qawl ... wa-li-kullin darajātun mimmā ʿamilū. The parents'' faith does not save the son
+    in either text.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:10
+      lang: he
+      text: וְהוֹלִ֥יד בֵּן פָּרִ֖יץ שֹׁפֵ֣ךְ דָּ֑ם וְעָ֣שָׂה אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה
+    - ref: Ezek 18:13
+      lang: he
+      text: בַּנֶּ֧שֶׁךְ נָתַ֛ן וְתַרְבִּ֥ית לָקַ֖ח וָחָ֑י לֹ֣א יִֽחְיֶ֗ה אֵ֣ת כָּל הַתּוֹעֵב֤וֹת הָאֵ֨לֶּה֙
+        עָשָׂ֔ה מ֣וֹת יוּמָ֔ת דָּמָ֖יו בּ֥וֹ יִהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 46:17
+      lang: ar
+      text: وَٱلَّذِى قَالَ لِوَٰلِدَيْهِ أُفٍّ لَّكُمَآ أَتَعِدَانِنِىٓ أَنْ أُخْرَجَ وَقَدْ خَلَتِ
+        ٱلْقُرُونُ مِن قَبْلِى وَهُمَا يَسْتَغِيثَانِ ٱللَّهَ وَيْلَكَ ءَامِنْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ
+        فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+    - ref: Quran 46:19
+      lang: ar
+      text: وَلِكُلٍّ دَرَجَٰتٌ مِّمَّا عَمِلُوا۟ وَلِيُوَفِّيَهُمْ أَعْمَٰلَهُمْ وَهُمْ لَا يُظْلَمُونَ
 ---
 
 ## Questions

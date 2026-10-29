@@ -2,9 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-6-signs-would-not-convince
 title: The throne vision and the call of Isaiah ↔ Sworn oaths for a sign; even the dead speaking would
   not convince
-summary: 'These two units share 2 motifs: prophet commissioned to make the people''s heart fat, ears heavy
-  and eyes shut lest they understand and be healed [divergence between the texts], prophet commissioned
-  to make the people''s heart fat, ears heavy and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,60 +15,9 @@ layers:
 motifs:
 - commission-to-harden-hearts-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed [divergence between the texts] (The same dullness of heart and ears. Isa: hašmēn lēv-hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ, and the prophet is told to cause it. Q: wa-jaʿalnā ʿalā
-    qulūbihim akinnatan an yafqahūhu wa-fī ādhānihim waqran, and God does it. ''Heavy ears'' (k-b-d) =
-    waqr, heaviness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 6:110
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed [divergence between the texts] (Isa: hašmēn lēv ... wə-ʿênāyw hāšaʿ pen-yirʾeh və-ʿênāyw,
-    the prophet is to dull heart and eyes. Q: wa-nuqallibu afʾidatahum wa-abṣārahum ka-mā lam yuʾminū
-    bihi awwala marratin. God turns hearts and eyes as a consequence of the first unbelief. The agent
-    is God, not the prophet, and it is a response to prior rejection, not the purpose of the mission.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ
-    فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 6:110
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed ('We turn their hearts and eyes as they did not believe the first time')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ وَنَذَرُهُمْ
-    فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Isa: hašmēn lēv ... wə-ʿênāyw hāšaʿ pen-yirʾeh və-ʿênāyw, the prophet is to dull heart
-    and eyes. Q: wa-nuqallibu afʾidatahum wa-abṣārahum ka-mā lam yuʾminū bihi awwala marratin. God turns
-    hearts and eyes as a consequence of the first unbelief. The agent is God, not the prophet, and it
-    is a response to prior rejection, not the purpose of the mission.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
     and eyes shut lest they understand and be healed [divergence between the texts] (weight 6.3); Prophet
@@ -104,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+  and be healed
+kinds:
+- divergence
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-6-signs-would-not-convince
+  title: Sworn oaths for a sign; even the dead speaking would not convince
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  note: 'Isa: hašmēn lēv ... wə-ʿênāyw hāšaʿ pen-yirʾeh və-ʿênāyw, the prophet is to dull heart and eyes.
+    Q: wa-nuqallibu afʾidatahum wa-abṣārahum ka-mā lam yuʾminū bihi awwala marratin. God turns hearts
+    and eyes as a consequence of the first unbelief. The agent is God, not the prophet, and it is a response
+    to prior rejection, not the purpose of the mission.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:110
+      lang: ar
+      text: وَنُقَلِّبُ أَفْـِٔدَتَهُمْ وَأَبْصَٰرَهُمْ كَمَا لَمْ يُؤْمِنُوا۟ بِهِۦٓ أَوَّلَ مَرَّةٍ
+        وَنَذَرُهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-62-jumua-unlettered-donkey-and-friday
 title: 'Creation in six days and the seventh-day rest ↔ Al-Jumu''a: the messenger among the unlettered,
   the donkey carrying books, wishing for death, and the Friday prayer'
-summary: 'These two units share 1 motifs: the weekly holy day, and whether it rests on god''s rest [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,57 +14,9 @@ layers:
 - motif
 motifs:
 - weekly-holy-day-and-divine-rest-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'The weekly holy day, and whether it rests on God''s rest [divergence between the texts] (The
-    weekly day without the creation rest. Genesis grounds the seventh day in God''s rest: wa-yišbōṯ bay-yôm
-    haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran''s Friday
-    (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ. This
-    fits the Quran''s denial that God rested (50:38).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: judaism
-  ref: Gen 2:3
-  note: 'The weekly holy day, and whether it rests on God''s rest [divergence between the texts] (The
-    weekly day without the creation rest. Genesis grounds the seventh day in God''s rest: wa-yišbōṯ bay-yôm
-    haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran''s Friday
-    (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ. This
-    fits the Quran''s denial that God rested (50:38).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל מְלַאכְתּ֔וֹ
-    אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 62:9
-  note: 'The weekly holy day, and whether it rests on God''s rest [divergence between the texts] (The
-    weekly day without the creation rest. Genesis grounds the seventh day in God''s rest: wa-yišbōṯ bay-yôm
-    haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran''s Friday
-    (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ. This
-    fits the Quran''s denial that God rested (50:38).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
-    إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: islam
-  ref: Quran 62:10
-  note: 'The weekly holy day, and whether it rests on God''s rest [divergence between the texts] (The
-    weekly day without the creation rest. Genesis grounds the seventh day in God''s rest: wa-yišbōṯ bay-yôm
-    haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran''s Friday
-    (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ. This
-    fits the Quran''s denial that God rested (50:38).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟
-    ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The weekly day without the creation rest. Genesis grounds the seventh day in God''s rest:
-    wa-yišbōṯ bay-yôm haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ.
-    The Quran''s Friday (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū
-    fī l-arḍ. This fits the Quran''s denial that God rested (50:38).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The weekly holy day, and whether it rests on God''s rest [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -104,6 +55,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The weekly holy day, and whether it rests on God's rest
+kinds:
+- divergence
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The weekly holy day, and whether it rests on God's rest
+  note: 'The weekly day without the creation rest. Genesis grounds the seventh day in God''s rest: wa-yišbōṯ
+    bay-yôm haš-šəḇîʿî ... wa-yəḇāreḵ ʾĕlōhîm ʾeṯ yôm haš-šəḇîʿî wa-yqaddēš ʾōṯô kî ḇô šāḇaṯ. The Quran''s
+    Friday (yawm al-jumuʿa, the day of assembly) has no rest and no creation basis: fa-ntashirū fī l-arḍ.
+    This fits the Quran''s denial that God rested (50:38).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:2
+      lang: he
+      text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
+        הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
+    - ref: Gen 2:3
+      lang: he
+      text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל
+        מְלַאכְתּ֔וֹ אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 62:9
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟
+        إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ
+    - ref: Quran 62:10
+      lang: ar
+      text: فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟
+        ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-65-talaq-divorce-and-seven-earths
 title: 'Fast of the twenty-fourth and the Levites'' historical confession ↔ Al-Talaq: divorce and the
   waiting period, two witnesses, nursing wages, and the seven heavens and earths'
-summary: 'These two units share 1 motifs: heaven and the heaven of heavens belong to god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-of-heavens
-passages:
-- tradition: judaism
-  ref: Neh 9:6
-  note: Heaven and the heaven of heavens belong to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל
-    צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת
-    כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
-- tradition: islam
-  ref: Quran 65:12
-  note: Heaven and the heaven of heavens belong to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ بَيْنَهُنَّ
-    لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ بِكُلِّ شَىْءٍ
-    عِلْمًۢا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. allāhu lladhī khalaqa sabʿa samāwātin wa-mina l-arḍi mithlahunna ~ ʾattāh ʿāśîtā ʾet ha-šāmayim
-    šemê ha-šāmayim we-kol ṣevāʾām hā-ʾāreṣ. Plural heavens made by God; the Quran numbers them seven
-    and adds seven earths, unknown to the Hebrew Bible (cf. rabbinic seven earths, Lev. Rab. 29:11, not
-    a match).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 5.4). Pair
     score 5.4.'
@@ -75,6 +55,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven and the heaven of heavens belong to God
+kinds:
+- echo
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-65-talaq-divorce-and-seven-earths
+  title: 'Al-Talaq: divorce and the waiting period, two witnesses, nursing wages, and the seven heavens
+    and earths'
+  tradition: islam
+matches:
+- kind: echo
+  label: Heaven and the heaven of heavens belong to God
+  note: allāhu lladhī khalaqa sabʿa samāwātin wa-mina l-arḍi mithlahunna ~ ʾattāh ʿāśîtā ʾet ha-šāmayim
+    šemê ha-šāmayim we-kol ṣevāʾām hā-ʾāreṣ. Plural heavens made by God; the Quran numbers them seven
+    and adds seven earths, unknown to the Hebrew Bible (cf. rabbinic seven earths, Lev. Rab. 29:11, not
+    a match).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:6
+      lang: he
+      text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם
+        וְכָל צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה
+        אֶת כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 65:12
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى خَلَقَ سَبْعَ سَمَٰوَٰتٍ وَمِنَ ٱلْأَرْضِ مِثْلَهُنَّ يَتَنَزَّلُ ٱلْأَمْرُ
+        بَيْنَهُنَّ لِتَعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ وَأَنَّ ٱللَّهَ قَدْ أَحَاطَ
+        بِكُلِّ شَىْءٍ عِلْمًۢا
 ---
 
 ## Questions

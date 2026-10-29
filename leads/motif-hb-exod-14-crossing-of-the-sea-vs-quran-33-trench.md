@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-33-trench
 title: The pursuit and the parting of the sea ↔ The confederates besiege Medina; hypocrites and the faithful
-summary: 'These two units share 1 motifs: god sent a wind and invisible hosts against the confederate
-  armies besieging the believers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +13,9 @@ layers:
 - motif
 motifs:
 - wind-and-unseen-hosts-rout-besiegers
-passages:
-- tradition: judaism
-  ref: Exod 14:21
-  note: 'God sent a wind and invisible hosts against the confederate armies besieging the believers (bə-rûaḥ
-    qāḏîm ʿazzâ ... wa-yyāhom ʾēṯ maḥănēh miṣrāyim ... kî YHWH nilḥām lāhem vs. fa-arsalnā ʿalayhim rīḥan:
-    God''s wind and his own fighting against a superior army. rûaḥ / rīḥ are cognate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
-    כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
-- tradition: judaism
-  ref: Exod 14:24
-  note: 'God sent a wind and invisible hosts against the confederate armies besieging the believers (bə-rûaḥ
-    qāḏîm ʿazzâ ... wa-yyāhom ʾēṯ maḥănēh miṣrāyim ... kî YHWH nilḥām lāhem vs. fa-arsalnā ʿalayhim rīḥan:
-    God''s wind and his own fighting against a superior army. rûaḥ / rīḥ are cognate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִי֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר וַיַּשְׁקֵ֤ף יְהוָה֙ אֶל מַחֲנֵ֣ה מִצְרַ֔יִם בְּעַמּ֥וּד אֵ֖שׁ
-    וְעָנָ֑ן וַיָּ֕הָם אֵ֖ת מַחֲנֵ֥ה מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 33:9
-  note: God sent a wind and invisible hosts against the confederate armies besieging the believers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ
-    فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا
-- tradition: islam
-  ref: Quran 33:25
-  note: God sent a wind and invisible hosts against the confederate armies besieging the believers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ
-    ٱلْقِتَالَ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. bə-rûaḥ qāḏîm ʿazzâ ... wa-yyāhom ʾēṯ maḥănēh miṣrāyim ... kî YHWH nilḥām lāhem vs. fa-arsalnā
-    ʿalayhim rīḥan: God''s wind and his own fighting against a superior army. rûaḥ / rīḥ are cognate.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sent a wind and invisible hosts against the confederate armies
     besieging the believers (weight 6.3). Pair score 6.3.'
@@ -84,6 +49,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sent a wind and invisible hosts against the confederate armies besieging the believers
+kinds:
+- echo
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-33-trench
+  title: The confederates besiege Medina; hypocrites and the faithful
+  tradition: islam
+matches:
+- kind: echo
+  label: God sent a wind and invisible hosts against the confederate armies besieging the believers
+  note: 'bə-rûaḥ qāḏîm ʿazzâ ... wa-yyāhom ʾēṯ maḥănēh miṣrāyim ... kî YHWH nilḥām lāhem vs. fa-arsalnā
+    ʿalayhim rīḥan: God''s wind and his own fighting against a superior army. rûaḥ / rīḥ are cognate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:21
+      lang: he
+      text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
+        כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
+    - ref: Exod 14:24
+      lang: he
+      text: וַֽיְהִי֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר וַיַּשְׁקֵ֤ף יְהוָה֙ אֶל מַחֲנֵ֣ה מִצְרַ֔יִם בְּעַמּ֥וּד
+        אֵ֖שׁ וְעָנָ֑ן וַיָּ֕הָם אֵ֖ת מַחֲנֵ֥ה מִצְרָֽיִם
+    - ref: Exod 14:25
+      lang: he
+      text: וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֨וּסָה֙
+        מִפְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֣י יְהוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 33:9
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ
+        جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ
+        بَصِيرًا
 ---
 
 ## Questions

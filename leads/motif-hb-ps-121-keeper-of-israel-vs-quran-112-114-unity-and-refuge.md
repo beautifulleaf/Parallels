@@ -2,9 +2,7 @@
 id: motif-hb-ps-121-keeper-of-israel-vs-quran-112-114-unity-and-refuge
 title: 'Psalm 121, the keeper who does not sleep ↔ Sincerity, daybreak and mankind: God''s unity and the
   two refuges'
-summary: 'These two units share 2 motifs: protective formula ''say: i seek refuge with the lord of...''
-  (qul a''udhu bi-rabbi) against named evils, psalm used as protection against demons and harm (later
-  amulet and ''song of plagues'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,57 +15,9 @@ layers:
 motifs:
 - refuge-formula-a-udhu
 - apotropaic-psalm
-passages:
-- tradition: judaism
-  ref: Ps 121:7
-  note: 'Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against
-    named evils (aʿūdhu bi-rabbi l-falaq min sharri mā khalaq ~ YHWH yišmorkā mi-kkol rāʿ yišmōr ʾet nafšekā:
-    God guards from every evil. The Quran puts it in the first person as a formula to be said (qul aʿūdhu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִשְׁמָרְךָ֥ מִכָּל רָ֑ע יִ֝שְׁמֹ֗ר אֶת נַפְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 113:1
-  note: 'Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against
-    named evils'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
-- tradition: islam
-  ref: Quran 114:1
-  note: 'Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against
-    named evils'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
-- tradition: judaism
-  ref: Ps 121:1-8
-  note: Psalm used as protection against demons and harm (later amulet and 'song of plagues') (Protective
-    function implicit in the text; used on childbirth amulets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (121:1) שִׁ֗יר לַֽמַּ֫עֲל֥וֹת אֶשָּׂ֣א עֵ֭ינַי אֶל הֶהָרִ֑ים מֵ֝אַ֗יִן יָבֹ֥א עֶזְרִֽי (121:2)
-    עֶ֭זְרִי מֵעִ֣ם יְהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ (121:3) אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל יָ֝נ֗וּם
-    שֹֽׁמְרֶֽךָ (121:4) הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל (121:5) יְהוָ֥ה שֹׁמְרֶ֑ךָ
-    יְהוָ֥ה צִ֝לְּךָ֗ עַל יַ֥ד יְמִינֶֽךָ (121:6) יוֹמָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא יַכֶּ֗כָּה וְיָרֵ֥חַ בַּלָּֽיְלָה
-    (121:7) יְֽהוָ֗ה יִשְׁמָרְךָ֥ מִכָּל רָ֑ע יִ֝שְׁמֹ֗ר אֶת נַפְשֶֽׁךָ (121:8) יְֽהוָ֗ה יִשְׁמָר צֵאתְךָ֥
-    וּבוֹאֶ֑ךָ מֵֽ֝עַתָּ֗ה וְעַד עוֹלָֽם
-- tradition: islam
-  ref: Quran 113:1
-  note: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
-- tradition: islam
-  ref: Quran 113:2
-  note: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِن شَرِّ مَا خَلَقَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. aʿūdhu bi-rabbi l-falaq min sharri mā khalaq ~ YHWH yišmorkā mi-kkol rāʿ yišmōr ʾet nafšekā:
-    God guards from every evil. The Quran puts it in the first person as a formula to be said (qul aʿūdhu).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Protective formula ''Say: I seek refuge with the Lord of...'' (qul
     a''udhu bi-rabbi) against named evils (weight 6.7); Psalm used as protection against demons and harm
@@ -101,6 +51,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against
+  named evils'
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-121-keeper-of-israel
+  title: Psalm 121, the keeper who does not sleep
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Protective formula ''Say: I seek refuge with the Lord of...'' (qul a''udhu bi-rabbi) against
+    named evils'
+  note: 'aʿūdhu bi-rabbi l-falaq min sharri mā khalaq ~ YHWH yišmorkā mi-kkol rāʿ yišmōr ʾet nafšekā:
+    God guards from every evil. The Quran puts it in the first person as a formula to be said (qul aʿūdhu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:7
+      lang: he
+      text: יְֽהוָ֗ה יִשְׁמָרְךָ֥ מִכָּל רָ֑ע יִ֝שְׁמֹ֗ר אֶת נַפְשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 113:1
+      lang: ar
+      text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+    - ref: Quran 113:2
+      lang: ar
+      text: مِن شَرِّ مَا خَلَقَ
+    - ref: Quran 114:1
+      lang: ar
+      text: قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ
+- kind: shared
+  label: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:1-8
+      lang: he
+      text: (121:1) שִׁ֗יר לַֽמַּ֫עֲל֥וֹת אֶשָּׂ֣א עֵ֭ינַי אֶל הֶהָרִ֑ים מֵ֝אַ֗יִן יָבֹ֥א עֶזְרִֽי (121:2)
+        עֶ֭זְרִי מֵעִ֣ם יְהוָ֑ה עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ (121:3) אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל
+        יָ֝נ֗וּם שֹֽׁמְרֶֽךָ (121:4) הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל (121:5)
+        יְהוָ֥ה שֹׁמְרֶ֑ךָ יְהוָ֥ה צִ֝לְּךָ֗ עַל יַ֥ד יְמִינֶֽךָ (121:6) יוֹמָ֗ם הַשֶּׁ֥מֶשׁ לֹֽא יַכֶּ֗כָּה
+        וְיָרֵ֥חַ בַּלָּֽיְלָה (121:7) יְֽהוָ֗ה יִשְׁמָרְךָ֥ מִכָּל רָ֑ע יִ֝שְׁמֹ֗ר אֶת נַפְשֶֽׁךָ (121:8)
+        יְֽהוָ֗ה יִשְׁמָר צֵאתְךָ֥ וּבוֹאֶ֑ךָ מֵֽ֝עַתָּ֗ה וְעַד עוֹלָֽם
+    note: Protective function implicit in the text; used on childbirth amulets
+  - tradition: islam
+    passages:
+    - ref: Quran 113:1
+      lang: ar
+      text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+    - ref: Quran 113:2
+      lang: ar
+      text: مِن شَرِّ مَا خَلَقَ
+    - ref: Quran 113:3
+      lang: ar
+      text: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 ---
 
 ## Questions

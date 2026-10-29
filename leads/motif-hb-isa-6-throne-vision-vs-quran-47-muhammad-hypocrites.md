@@ -2,9 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-47-muhammad-hypocrites
 title: The throne vision and the call of Isaiah ↔ The sick-hearted faint at the call to fight; locks on
   hearts; the twist of speech; God rich, you poor
-summary: 'These two units share 2 motifs: the prophet''s mission and the hearers'' closed ears, eyes and
-  hearts: caused, sealed, or beyond his cure [divergence between the texts], prophet commissioned to make
-  the people''s heart fat, ears heavy and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,68 +15,9 @@ layers:
 motifs:
 - prophet-and-hearers-deaf-and-blind-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (The prophet and the deaf and blind, with the roles reversed.
-    Isaiah is sent to cause it: hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ...
-    wə-yišmāʿ. The Prophet is told he cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s
-    mission hardens; Muhammad''s cannot cure.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 47:23
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (ulāʾika lladhīna laʿanahumu llāhu fa-aṣammahum wa-aʿmā abṣārahum;
-    a-fa-lā yatadabbarūna l-qurʾāna am ʿalā qulūbin aqfāluhā vs. hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd
-    wə-ʿênâw hāšaʿ. Isaiah is told to cause the dullness; in the Quran God curses them with it, and the
-    question ''do they not ponder?'' assumes they could.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ
-- tradition: islam
-  ref: Quran 47:24
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (ulāʾika lladhīna laʿanahumu llāhu fa-aṣammahum wa-aʿmā abṣārahum;
-    a-fa-lā yatadabbarūna l-qurʾāna am ʿalā qulūbin aqfāluhā vs. hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd
-    wə-ʿênâw hāšaʿ. Isaiah is told to cause the dullness; in the Quran God curses them with it, and the
-    question ''do they not ponder?'' assumes they could.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 47:23
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (God curses them, deafens them and blinds their sight)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. ulāʾika lladhīna laʿanahumu llāhu fa-aṣammahum wa-aʿmā abṣārahum; a-fa-lā yatadabbarūna
-    l-qurʾāna am ʿalā qulūbin aqfāluhā vs. hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ.
-    Isaiah is told to cause the dullness; in the Quran God curses them with it, and the question ''do
-    they not ponder?'' assumes they could.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s mission and the hearers'' closed ears, eyes and hearts:
     caused, sealed, or beyond his cure [divergence between the texts] (weight 6.0); Prophet commissioned
@@ -118,6 +57,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+  his cure'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+    his cure'
+  note: ulāʾika lladhīna laʿanahumu llāhu fa-aṣammahum wa-aʿmā abṣārahum; a-fa-lā yatadabbarūna l-qurʾāna
+    am ʿalā qulūbin aqfāluhā vs. hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ. Isaiah is
+    told to cause the dullness; in the Quran God curses them with it, and the question 'do they not ponder?'
+    assumes they could.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:23
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ
+    - ref: Quran 47:24
+      lang: ar
+      text: أَفَلَا يَتَدَبَّرُونَ ٱلْقُرْءَانَ أَمْ عَلَىٰ قُلُوبٍ أَقْفَالُهَآ
+- kind: shared
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9-10
+      lang: he
+      text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
+        פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:23
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمْ وَأَعْمَىٰٓ أَبْصَٰرَهُمْ
+    note: God curses them, deafens them and blinds their sight
 ---
 
 ## Questions

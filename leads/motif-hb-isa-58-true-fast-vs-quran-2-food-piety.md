@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-58-true-fast-vs-quran-2-food-piety
 title: The fast that God chooses; the Sabbath a delight ↔ Lawful food and true piety
-summary: 'These two units share 1 motifs: piety (birr) is not turning faces east or west but faith, giving
-  wealth to kin, orphans, poor, travelers, beggars and captives.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - righteousness-not-facing-east-or-west
-passages:
-- tradition: judaism
-  ref: Isa 58:6
-  note: 'Piety (birr) is not turning faces east or west but faith, giving wealth to kin, orphans, poor,
-    travelers, beggars and captives (Isa 58:6-7 hălôʾ zeh ṣôm ʾebḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... wĕ-šallaḥ
-    rĕṣûṣîm ḥopšîm ... hălôʾ pārōs lā-rāʿēb laḥmekā: the real fast is freeing the oppressed and feeding
-    the hungry; Q 2:177 laysa l-birra an tuwallū wujūhakum qibala l-mashriqi wa-l-maghribi wa-lākinna
-    l-birra man ... ātā l-māla ... wa-fī r-riqāb: real piety is not the ritual direction of prayer but
-    giving to the needy and freeing slaves. ''Not the rite but justice'', with fasting in Isaiah and the
-    qibla in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵהוּ֒ פַּתֵּ֨חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה וְשַׁלַּ֤ח
-    רְצוּצִים֙ חָפְשִׁ֔ים וְכָל מוֹטָ֖ה תְּנַתֵּֽקוּ
-- tradition: judaism
-  ref: Isa 58:7
-  note: 'Piety (birr) is not turning faces east or west but faith, giving wealth to kin, orphans, poor,
-    travelers, beggars and captives (Isa 58:6-7 hălôʾ zeh ṣôm ʾebḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... wĕ-šallaḥ
-    rĕṣûṣîm ḥopšîm ... hălôʾ pārōs lā-rāʿēb laḥmekā: the real fast is freeing the oppressed and feeding
-    the hungry; Q 2:177 laysa l-birra an tuwallū wujūhakum qibala l-mashriqi wa-l-maghribi wa-lākinna
-    l-birra man ... ātā l-māla ... wa-fī r-riqāb: real piety is not the ritual direction of prayer but
-    giving to the needy and freeing slaves. ''Not the rite but justice'', with fasting in Isaiah and the
-    qibla in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי תִרְאֶ֤ה עָרֹם֙
-    וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם
-- tradition: islam
-  ref: Quran 2:177
-  note: Piety (birr) is not turning faces east or west but faith, giving wealth to kin, orphans, poor,
-    travelers, beggars and captives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ
-    مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى
-    ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ
-    وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟
-    وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟
-    وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Isa 58:6-7 hălôʾ zeh ṣôm ʾebḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... wĕ-šallaḥ rĕṣûṣîm ḥopšîm
-    ... hălôʾ pārōs lā-rāʿēb laḥmekā: the real fast is freeing the oppressed and feeding the hungry; Q
-    2:177 laysa l-birra an tuwallū wujūhakum qibala l-mashriqi wa-l-maghribi wa-lākinna l-birra man ...
-    ātā l-māla ... wa-fī r-riqāb: real piety is not the ritual direction of prayer but giving to the needy
-    and freeing slaves. ''Not the rite but justice'', with fasting in Isaiah and the qibla in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Piety (birr) is not turning faces east or west but faith, giving
     wealth to kin, orphans, poor, travelers, beggars and captives (weight 6.7). Pair score 6.7.'
@@ -90,6 +46,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Piety (birr) is not turning faces east or west but faith, giving wealth to kin, orphans, poor,
+  travelers, beggars and captives
+kinds:
+- parallel
+units:
+- id: hb-isa-58-true-fast
+  title: The fast that God chooses; the Sabbath a delight
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: parallel
+  label: Piety (birr) is not turning faces east or west but faith, giving wealth to kin, orphans, poor,
+    travelers, beggars and captives
+  note: 'Isa 58:6-7 hălôʾ zeh ṣôm ʾebḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... wĕ-šallaḥ rĕṣûṣîm ḥopšîm ... hălôʾ
+    pārōs lā-rāʿēb laḥmekā: the real fast is freeing the oppressed and feeding the hungry; Q 2:177 laysa
+    l-birra an tuwallū wujūhakum qibala l-mashriqi wa-l-maghribi wa-lākinna l-birra man ... ātā l-māla
+    ... wa-fī r-riqāb: real piety is not the ritual direction of prayer but giving to the needy and freeing
+    slaves. ''Not the rite but justice'', with fasting in Isaiah and the qibla in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 58:6
+      lang: he
+      text: הֲל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵהוּ֒ פַּתֵּ֨חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה
+        וְשַׁלַּ֤ח רְצוּצִים֙ חָפְשִׁ֔ים וְכָל מוֹטָ֖ה תְּנַתֵּֽקוּ
+    - ref: Isa 58:7
+      lang: he
+      text: הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי תִרְאֶ֤ה
+        עָרֹם֙ וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:177
+      lang: ar
+      text: لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ
+        مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّۦنَ وَءَاتَى
+        ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ
+        وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟
+        وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟
+        وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ
 ---
 
 ## Questions

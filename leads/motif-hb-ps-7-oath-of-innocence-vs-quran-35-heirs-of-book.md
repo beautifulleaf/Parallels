@@ -2,7 +2,7 @@
 id: motif-hb-ps-7-oath-of-innocence-vs-quran-35-heirs-of-book
 title: Psalm 7 - Shiggayon concerning Cush the Benjaminite ↔ The heirs of the Book, the Gardens of Eden
   and the cries of the damned
-summary: 'These two units share 1 motifs: the evil plot encompasses only its own authors.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - evil-plot-recoils-on-plotter
-passages:
-- tradition: judaism
-  ref: Ps 7:16
-  note: 'The evil plot encompasses only its own authors (bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥaṯ yip̄ʿāl;
-    yāšûḇ ʿămālô ḇə-rōʾšô vs. wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi: the evil plan comes back
-    on its author.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בּ֣וֹר כָּ֭רָֽה וַֽיַּחְפְּרֵ֑הוּ וַ֝יִּפֹּ֗ל בְּשַׁ֣חַת יִפְעָֽל
-- tradition: judaism
-  ref: Ps 7:17
-  note: 'The evil plot encompasses only its own authors (bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥaṯ yip̄ʿāl;
-    yāšûḇ ʿămālô ḇə-rōʾšô vs. wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi: the evil plan comes back
-    on its author.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָשׁ֣וּב עֲמָל֣וֹ בְרֹאשׁ֑וֹ וְעַ֥ל קָ֝דְקֳד֗וֹ חֲמָס֥וֹ יֵרֵֽד
-- tradition: islam
-  ref: Quran 35:43
-  note: The evil plot encompasses only its own authors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ
-    فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ
-    لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥaṯ yip̄ʿāl; yāšûḇ ʿămālô ḇə-rōʾšô vs. wa-lā yaḥīqu
-    l-makru s-sayyiʾu illā bi-ahlihi: the evil plan comes back on its author.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The evil plot encompasses only its own authors (weight 6.3). Pair
     score 6.3.'
@@ -77,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The evil plot encompasses only its own authors
+kinds:
+- parallel
+units:
+- id: hb-ps-7-oath-of-innocence
+  title: Psalm 7 - Shiggayon concerning Cush the Benjaminite
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: parallel
+  label: The evil plot encompasses only its own authors
+  note: 'bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥaṯ yip̄ʿāl; yāšûḇ ʿămālô ḇə-rōʾšô vs. wa-lā yaḥīqu l-makru
+    s-sayyiʾu illā bi-ahlihi: the evil plan comes back on its author.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 7:16
+      lang: he
+      text: בּ֣וֹר כָּ֭רָֽה וַֽיַּחְפְּרֵ֑הוּ וַ֝יִּפֹּ֗ל בְּשַׁ֣חַת יִפְעָֽל
+    - ref: Ps 7:17
+      lang: he
+      text: יָשׁ֣וּב עֲמָל֣וֹ בְרֹאשׁ֑וֹ וְעַ֥ל קָ֝דְקֳד֗וֹ חֲמָס֥וֹ יֵרֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 35:43
+      lang: ar
+      text: ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا
+        بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا
+        وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
 ---
 
 ## Questions

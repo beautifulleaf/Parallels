@@ -2,8 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-27-israel-beast-trumpet
 title: The throne vision and the call of Isaiah ↔ The Quran and Israel's disputes; the beast of the earth,
   the trumpet and the sacred town
-summary: 'These two units share 1 motifs: the prophet''s word and a people deaf and blind to it [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-and-the-deaf-and-blind-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'The prophet''s word and a people deaf and blind to it [divergence between the texts] (innaka
-    lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn lēv hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet''s word cannot
-    reach. Isaiah is commissioned to cause the deafness; the Quran''s prophet is told he cannot cure it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 27:80
-  note: 'The prophet''s word and a people deaf and blind to it [divergence between the texts] (innaka
-    lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn lēv hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet''s word cannot
-    reach. Isaiah is commissioned to cause the deafness; the Quran''s prophet is told he cannot cure it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ
-- tradition: islam
-  ref: Quran 27:81
-  note: 'The prophet''s word and a people deaf and blind to it [divergence between the texts] (innaka
-    lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn lēv hā-ʿām
-    haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet''s word cannot
-    reach. Isaiah is commissioned to cause the deafness; the Quran''s prophet is told he cannot cure it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَنتَ بِهَٰدِى ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَٰتِنَا
-    فَهُم مُّسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi
-    ~ hašmēn lēv hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the
-    prophet''s word cannot reach. Isaiah is commissioned to cause the deafness; the Quran''s prophet is
-    told he cannot cure it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s word and a people deaf and blind to it [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's word and a people deaf and blind to it
+kinds:
+- divergence
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-27-israel-beast-trumpet
+  title: The Quran and Israel's disputes; the beast of the earth, the trumpet and the sacred town
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet's word and a people deaf and blind to it
+  note: 'innaka lā tusmiʿu l-mawtā wa-lā tusmiʿu ṣ-ṣumma d-duʿāʾa ... wa-mā anta bi-hādī l-ʿumyi ~ hašmēn
+    lēv hā-ʿām haz-zeh wə-ʾoznāyw hakhbēd wə-ʿênāyw hāšaʿ: deaf ears and blind eyes that the prophet''s
+    word cannot reach. Isaiah is commissioned to cause the deafness; the Quran''s prophet is told he cannot
+    cure it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:80
+      lang: ar
+      text: إِنَّكَ لَا تُسْمِعُ ٱلْمَوْتَىٰ وَلَا تُسْمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوْا۟ مُدْبِرِينَ
+    - ref: Quran 27:81
+      lang: ar
+      text: وَمَآ أَنتَ بِهَٰدِى ٱلْعُمْىِ عَن ضَلَٰلَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِـَٔايَٰتِنَا
+        فَهُم مُّسْلِمُونَ
 ---
 
 ## Questions

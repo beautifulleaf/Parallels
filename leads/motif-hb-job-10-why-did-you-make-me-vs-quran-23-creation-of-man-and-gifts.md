@@ -2,10 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-23-creation-of-man-and-gifts
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Man from clay through the stages of the womb;
   seven paths, water, Sinai's tree, cattle and ships
-summary: 'These two units share 3 motifs: god''s crafting of the human body, and what is said to follow
-  from it [divergence between the texts], god poured the embryo out like milk and curdled it like cheese,
-  clothing it with skin and flesh and knitting bones and sinews, first human shaped from dust, clay or
-  soil.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -21,103 +18,9 @@ motifs:
 - god-the-maker-of-the-human-body-as-divergence
 - embryo-curdled-like-cheese
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:8
-  note: 'God''s crafting of the human body, and what is said to follow from it [divergence between the
-    texts] (Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
-    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
-    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
-    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
-- tradition: judaism
-  ref: Job 10:9
-  note: 'God''s crafting of the human body, and what is said to follow from it [divergence between the
-    texts] (Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
-    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
-    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
-    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 23:14
-  note: 'God''s crafting of the human body, and what is said to follow from it [divergence between the
-    texts] (Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
-    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
-    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
-    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
-    عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ
-    ٱلْخَٰلِقِينَ
-- tradition: islam
-  ref: Quran 23:15
-  note: 'God''s crafting of the human body, and what is said to follow from it [divergence between the
-    texts] (Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
-    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
-    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
-    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ
-- tradition: judaism
-  ref: Job 10:10
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
-- tradition: judaism
-  ref: Job 10:11
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
-- tradition: islam
-  ref: Quran 23:14
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (compare Job 10:10-11 'you clothed me with skin and flesh and knit me
-    with bones')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
-    عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ
-    ٱلْخَٰلِقِينَ
-- tradition: islam
-  ref: Quran 23:13
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (compare Job 10:10-11 'you clothed me with skin and flesh and knit me
-    with bones')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ جَعَلْنَٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 23:12
-  note: First human shaped from dust, clay or soil (sulāla min ṭīn, 'an extract of clay')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. thumma jaʿalnāhu nuṭfatan ... fa-khalaqnā l-muḍghata ʿiẓāman fa-kasawnā l-ʿiẓāma
-    laḥman ~ hălōʾ ke-ḥālāv tattîkēnî wə-kag-gəvinnâ taqpîʾēnî ʿôr û-vāśār talbîšēnî û-vaʿăṣāmôt wə-gîdîm
-    təsōkhəkhēnî: the embryo formed in stages and ''clothed'' (kasā / hilbîš) with flesh over bones. Job
-    lists milk, cheese, skin and flesh, bones and sinews; the Quran lists drop, clot, lump, bones and
-    flesh. Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
-    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
-    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
-    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s crafting of the human body, and what is said to follow from
     it [divergence between the texts] (weight 6.7); God poured the embryo out like milk and curdled it
@@ -153,6 +56,85 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's crafting of the human body, and what is said to follow from it
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-23-creation-of-man-and-gifts
+  title: Man from clay through the stages of the womb; seven paths, water, Sinai's tree, cattle and ships
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's crafting of the human body, and what is said to follow from it
+  note: 'Same craftsman God, opposite tone: Job yādêkā ʿiṣṣəvûnî ... wat-təvalləʿēnî, kî ka-ḥōmer ʿăśîtānî
+    wə-ʾel ʿāfār təšîvēnî, ''you made me and now you swallow me, you return me to dust'' (complaint);
+    Q 23:14-16 fa-tabāraka llāhu aḥsanu l-khāliqīn ... thumma innakum baʿda dhālika la-mayyitūna thumma
+    innakum yawma l-qiyāmati tubʿathūna (praise; death is followed by resurrection).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:8
+      lang: he
+      text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:14
+      lang: ar
+      text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
+        عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ
+        أَحْسَنُ ٱلْخَٰلِقِينَ
+    - ref: Quran 23:15
+      lang: ar
+      text: ثُمَّ إِنَّكُم بَعْدَ ذَٰلِكَ لَمَيِّتُونَ
+- kind: parallel
+  label: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
+    and knitting bones and sinews
+  note: 'thumma jaʿalnāhu nuṭfatan ... fa-khalaqnā l-muḍghata ʿiẓāman fa-kasawnā l-ʿiẓāma laḥman ~ hălōʾ
+    ke-ḥālāv tattîkēnî wə-kag-gəvinnâ taqpîʾēnî ʿôr û-vāśār talbîšēnî û-vaʿăṣāmôt wə-gîdîm təsōkhəkhēnî:
+    the embryo formed in stages and ''clothed'' (kasā / hilbîš) with flesh over bones. Job lists milk,
+    cheese, skin and flesh, bones and sinews; the Quran lists drop, clot, lump, bones and flesh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    - ref: Job 10:11
+      lang: he
+      text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:13
+      lang: ar
+      text: ثُمَّ جَعَلْنَٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ
+    - ref: Quran 23:14
+      lang: ar
+      text: ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ
+        عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ فَتَبَارَكَ ٱللَّهُ
+        أَحْسَنُ ٱلْخَٰلِقِينَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    note: '''like clay you made me'''
+  - tradition: islam
+    passages:
+    - ref: Quran 23:12
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+    note: sulāla min ṭīn, 'an extract of clay'
 ---
 
 ## Questions

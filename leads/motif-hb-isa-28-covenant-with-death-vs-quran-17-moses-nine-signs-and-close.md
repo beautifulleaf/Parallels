@@ -2,8 +2,7 @@
 id: motif-hb-isa-28-covenant-with-death-vs-quran-17-moses-nine-signs-and-close
 title: Ephraim's drunkards; tsav la-tsav; covenant with death; the cornerstone; the farmer's wisdom ↔
   Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
-summary: 'These two units share 1 motifs: the scripture is sent down in portions so the prophet recites
-  it to people at intervals.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - quran-revealed-in-portions
-passages:
-- tradition: judaism
-  ref: Isa 28:10
-  note: 'The scripture is sent down in portions so the prophet recites it to people at intervals (ṣaw
-    lāṣāw ... qaw lāqāw zəʿêr šām zəʿêr šām; wa-qurʾānan faraqnāhu li-taqraʾahu ʿalā n-nāsi ʿalā mukth:
-    teaching given bit by bit. Isa''s line is the mockers'' parody of the prophet''s teaching; Q defends
-    piecemeal revelation as deliberate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י צַ֤ו לָצָו֙ צַ֣ו לָצָ֔ו קַ֥ו לָקָ֖ו קַ֣ו לָקָ֑ו זְעֵ֥יר שָׁ֖ם זְעֵ֥יר שָֽׁם
-- tradition: islam
-  ref: Quran 17:106
-  note: The scripture is sent down in portions so the prophet recites it to people at intervals (qurʾānan
-    faraqnāhu ... ʿalā mukth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَٰهُ تَنزِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ṣaw lāṣāw ... qaw lāqāw zəʿêr šām zəʿêr šām; wa-qurʾānan faraqnāhu li-taqraʾahu ʿalā n-nāsi
-    ʿalā mukth: teaching given bit by bit. Isa''s line is the mockers'' parody of the prophet''s teaching;
-    Q defends piecemeal revelation as deliberate.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The scripture is sent down in portions so the prophet recites it
     to people at intervals (weight 6.7). Pair score 6.7.'
@@ -76,6 +56,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The scripture is sent down in portions so the prophet recites it to people at intervals
+kinds:
+- echo
+units:
+- id: hb-isa-28-covenant-with-death
+  title: Ephraim's drunkards; tsav la-tsav; covenant with death; the cornerstone; the farmer's wisdom
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: echo
+  label: The scripture is sent down in portions so the prophet recites it to people at intervals
+  note: 'ṣaw lāṣāw ... qaw lāqāw zəʿêr šām zəʿêr šām; wa-qurʾānan faraqnāhu li-taqraʾahu ʿalā n-nāsi ʿalā
+    mukth: teaching given bit by bit. Isa''s line is the mockers'' parody of the prophet''s teaching;
+    Q defends piecemeal revelation as deliberate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 28:10
+      lang: he
+      text: כִּ֣י צַ֤ו לָצָו֙ צַ֣ו לָצָ֔ו קַ֥ו לָקָ֖ו קַ֣ו לָקָ֑ו זְעֵ֥יר שָׁ֖ם זְעֵ֥יר שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:106
+      lang: ar
+      text: وَقُرْءَانًا فَرَقْنَٰهُ لِتَقْرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ وَنَزَّلْنَٰهُ تَنزِيلًا
 ---
 
 ## Questions

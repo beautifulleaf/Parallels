@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-2-call-to-worship
 title: Second creation account, Eden, and the making of woman ↔ Call to worship the Creator; the challenge;
   paradise and the gnat
-summary: 'These two units share 1 motifs: paradise as gardens (of ʿadn) beneath which rivers flow, where
-  the righteous abide forever.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - gardens-with-rivers-beneath
-passages:
-- tradition: judaism
-  ref: Gen 2:8
-  note: 'Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever (Gen
-    2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden watered
-    by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens and rivers,
-    the reward at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר
-- tradition: judaism
-  ref: Gen 2:10
-  note: 'Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever (Gen
-    2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden watered
-    by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens and rivers,
-    the reward at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
-    רָאשִֽׁים
-- tradition: islam
-  ref: Quran 2:25
-  note: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا
-    ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى رُزِقْنَا مِن
-    قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden
-    watered by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens
-    and rivers, the reward at the end.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the
     righteous abide forever (weight 4.4). Pair score 4.4.'
@@ -80,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
+kinds:
+- echo
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: echo
+  label: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
+  note: 'Gen 2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden
+    watered by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens
+    and rivers, the reward at the end.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:8
+      lang: he
+      text: וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת הָֽאָדָ֖ם אֲשֶׁ֥ר
+        יָצָֽר
+    - ref: Gen 2:10
+      lang: he
+      text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
+        רָאשִֽׁים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:25
+      lang: ar
+      text: وَبَشِّرِ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمْ جَنَّٰتٍ تَجْرِى مِن
+        تَحْتِهَا ٱلْأَنْهَٰرُ كُلَّمَا رُزِقُوا۟ مِنْهَا مِن ثَمَرَةٍ رِّزْقًا قَالُوا۟ هَٰذَا ٱلَّذِى
+        رُزِقْنَا مِن قَبْلُ وَأُتُوا۟ بِهِۦ مُتَشَٰبِهًا وَلَهُمْ فِيهَآ أَزْوَٰجٌ مُّطَهَّرَةٌ وَهُمْ
+        فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

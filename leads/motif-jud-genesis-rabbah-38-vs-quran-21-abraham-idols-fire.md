@@ -2,8 +2,7 @@
 id: motif-jud-genesis-rabbah-38-vs-quran-21-abraham-idols-fire
 title: Abraham in Terah's idol shop (Genesis Rabbah 38:13) ↔ Abraham breaks the idols and is cast into
   the fire
-summary: 'These two units share 5 motifs: hero blames the largest idol for the destruction, the fire does
-  not harm the hero, hero smashes or burns idols, hero thrown into a fire or furnace by a king or people….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -20,74 +19,7 @@ motifs:
 - hero-smashes-idols
 - thrown-into-fire
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
-  note: Hero blames the largest idol for the destruction
-- tradition: islam
-  ref: Quran 21:58
-  note: Hero blames the largest idol for the destruction
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
-- tradition: islam
-  ref: Quran 21:63
-  note: Hero blames the largest idol for the destruction
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
-- tradition: judaism
-  ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
-  note: The fire does not harm the hero
-- tradition: islam
-  ref: Quran 21:69
-  note: The fire does not harm the hero
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْنَا يَٰنَارُ كُونِى بَرْدًا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
-- tradition: judaism
-  ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
-  note: Hero smashes or burns idols
-- tradition: islam
-  ref: Quran 21:57
-  note: Hero smashes or burns idols (after they had turned their backs; 'by God I will plot against your
-    idols')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
-- tradition: islam
-  ref: Quran 21:58
-  note: Hero smashes or burns idols (after they had turned their backs; 'by God I will plot against your
-    idols')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
-- tradition: judaism
-  ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
-  note: Hero thrown into a fire or furnace by a king or people (Nimrod's furnace)
-- tradition: islam
-  ref: Quran 21:68
-  note: Hero thrown into a fire or furnace by a king or people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
-- tradition: judaism
-  ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
-  note: Hero's father makes, sells or worships idols
-- tradition: islam
-  ref: Quran 21:52
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
-- tradition: islam
-  ref: Quran 21:53
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero blames the largest idol for the destruction (weight 6.0); The
     fire does not harm the hero (weight 5.8); Hero smashes or burns idols (weight 5.6); Hero thrown into
@@ -101,6 +33,90 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero blames the largest idol for the destruction
+kinds:
+- shared
+units:
+- id: jud-genesis-rabbah-38
+  title: Abraham in Terah's idol shop (Genesis Rabbah 38:13)
+  tradition: judaism
+- id: quran-21-abraham-idols-fire
+  title: Abraham breaks the idols and is cast into the fire
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero blames the largest idol for the destruction
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:58
+      lang: ar
+      text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+    - ref: Quran 21:63
+      lang: ar
+      text: قَالَ بَلْ فَعَلَهُۥ كَبِيرُهُمْ هَٰذَا فَسْـَٔلُوهُمْ إِن كَانُوا۟ يَنطِقُونَ
+    - ref: Quran 21:64
+      lang: ar
+      text: فَرَجَعُوٓا۟ إِلَىٰٓ أَنفُسِهِمْ فَقَالُوٓا۟ إِنَّكُمْ أَنتُمُ ٱلظَّٰلِمُونَ
+- kind: shared
+  label: The fire does not harm the hero
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:69
+      lang: ar
+      text: قُلْنَا يَٰنَارُ كُونِى بَرْدًا وَسَلَٰمًا عَلَىٰٓ إِبْرَٰهِيمَ
+- kind: shared
+  label: Hero smashes or burns idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:57
+      lang: ar
+      text: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
+    - ref: Quran 21:58
+      lang: ar
+      text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+    - ref: Quran 21:59
+      lang: ar
+      text: قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
+    note: after they had turned their backs; 'by God I will plot against your idols'
+- kind: shared
+  label: Hero thrown into a fire or furnace by a king or people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
+    note: Nimrod's furnace
+  - tradition: islam
+    passages:
+    - ref: Quran 21:68
+      lang: ar
+      text: قَالُوا۟ حَرِّقُوهُ وَٱنصُرُوٓا۟ ءَالِهَتَكُمْ إِن كُنتُمْ فَٰعِلِينَ
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham in Terah''s idol shop (Genesis Rabbah 38:13): 38:13'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:52
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+    - ref: Quran 21:53
+      lang: ar
+      text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+    note: '''these statues (tamāthīl)'', worshipped because ''we found our fathers worshipping them'''
 ---
 
 ## Questions

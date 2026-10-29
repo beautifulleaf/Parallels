@@ -3,8 +3,7 @@ id: motif-hb-jer-31-consolation-new-covenant-vs-quran-57-hadid-light-and-the-wal
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
   by long time
-summary: 'These two units share 1 motifs: the people''s hearts are called hard (arabic q-s-w, hebrew q-sh-h),
-  or god makes them so [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - hearts-made-hard-as-contrast
-passages:
-- tradition: judaism
-  ref: Jer 31:33
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so [contrast
-    between the texts] (Jeremiah promises the house of Israel a Torah written on the heart (nāṯattî ʾeṯ
-    tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ); the Quran describes ''those given the Book before'' whose
-    hearts grew hard over a long time (fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum wa-kathīrun minhum
-    fāsiqūn). Lead only: no explicit reference.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙ נְאֻם
-    יְהוָ֔ה נָתַ֤תִּי אֶת תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל לִבָּ֖ם אֶכְתֲּבֶ֑נָּה וְהָיִ֤יתִי לָהֶם֙ לֵֽאלֹהִ֔ים
-    וְהֵ֖מָּה יִֽהְיוּ לִ֥י לְעָֽם
-- tradition: islam
-  ref: Quran 57:16
-  note: 'The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so [contrast
-    between the texts] (Jeremiah promises the house of Israel a Torah written on the heart (nāṯattî ʾeṯ
-    tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ); the Quran describes ''those given the Book before'' whose
-    hearts grew hard over a long time (fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum wa-kathīrun minhum
-    fāsiqūn). Lead only: no explicit reference.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ
-    ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
-    فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Jeremiah promises the house of Israel a Torah written on the heart (nāṯattî ʾeṯ tôrāṯî bə-qirbām
-    wə-ʿal libbām ʾeḵtăḇennâ); the Quran describes ''those given the Book before'' whose hearts grew hard
-    over a long time (fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum wa-kathīrun minhum fāsiqūn). Lead only:
-    no explicit reference.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s hearts are called hard (Arabic q-s-w, Hebrew q-sh-h),
     or God makes them so [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -82,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+kinds:
+- contrast
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: contrast
+  label: The people's hearts are called hard (Arabic q-s-w, Hebrew q-sh-h), or God makes them so
+  note: 'Jeremiah promises the house of Israel a Torah written on the heart (nāṯattî ʾeṯ tôrāṯî bə-qirbām
+    wə-ʿal libbām ʾeḵtăḇennâ); the Quran describes ''those given the Book before'' whose hearts grew hard
+    over a long time (fa-ṭāla ʿalayhimu l-amadu fa-qasat qulūbuhum wa-kathīrun minhum fāsiqūn). Lead only:
+    no explicit reference.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:33
+      lang: he
+      text: כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙
+        נְאֻם יְהוָ֔ה נָתַ֤תִּי אֶת תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל לִבָּ֖ם אֶכְתֲּבֶ֑נָּה וְהָיִ֤יתִי
+        לָהֶם֙ לֵֽאלֹהִ֔ים וְהֵ֖מָּה יִֽהְיוּ לִ֥י לְעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 57:16
+      lang: ar
+      text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ
+        مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
+        فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 ---
 
 ## Questions

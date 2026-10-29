@@ -2,7 +2,7 @@
 id: motif-hb-ps-11-flee-like-bird-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: Psalm 11 - in YHWH I take refuge ↔ Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh;
   everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: god rains sulfur and fire from heaven on cities.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - fire-and-brimstone-from-heaven
-passages:
-- tradition: judaism
-  ref: Ps 11:6
-  note: God rains sulfur and fire from heaven on cities
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
-- tradition: islam
-  ref: Quran 54:34
-  note: God rains sulfur and fire from heaven on cities (hasib, a stone-storm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ vs. arsalnā ʿalayhim ḥāṣiban: Sodom''s punishment raining
-    on the wicked; the psalm keeps fire and sulfur, the Quran has stones.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God rains sulfur and fire from heaven on cities (weight 4.8). Pair
     score 4.8.'
@@ -63,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God rains sulfur and fire from heaven on cities
+kinds:
+- echo
+units:
+- id: hb-ps-11-flee-like-bird
+  title: Psalm 11 - in YHWH I take refuge
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: echo
+  label: God rains sulfur and fire from heaven on cities
+  note: 'yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ vs. arsalnā ʿalayhim ḥāṣiban: Sodom''s punishment raining
+    on the wicked; the psalm keeps fire and sulfur, the Quran has stones.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 11:6
+      lang: he
+      text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 54:34
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ
 ---
 
 ## Questions

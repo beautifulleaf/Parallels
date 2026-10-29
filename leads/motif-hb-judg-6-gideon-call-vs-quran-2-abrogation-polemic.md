@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-gideon-call-vs-quran-2-abrogation-polemic
 title: Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom ↔ Ra'ina, abrogation, rival
   claims and the face of God
-summary: 'These two units share 2 motifs: the called one asks for a sign that it is god who speaks [divergence
-  between the texts], the called one asks for a sign that it is god who speaks.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,52 +15,9 @@ layers:
 motifs:
 - request-for-a-sign-as-divergence
 - request-for-a-sign
-passages:
-- tradition: judaism
-  ref: Judg 6:17
-  note: 'The called one asks for a sign that it is God who speaks [divergence between the texts] (Judg
-    6:17 wĕ-ʿāśîtā llî ʾôt šā-ʾattâ mĕdabbēr ʿimmî: the called man asks for a sign that it is God who
-    speaks, and it is granted (fire from the rock, 6:21); Q 2:118 wa-qāla lladhīna lā yaʿlamūna lawlā
-    yukallimunā llāhu aw taʾtīnā āyatun: unbelievers ask why God does not speak to them or give a sign,
-    and the request is refused (qad bayyannā l-āyāt).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלָ֔יו אִם נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ וְעָשִׂ֤יתָ לִּי֙ א֔וֹת שָׁאַתָּ֖ה מְדַבֵּ֥ר
-    עִמִּֽי
-- tradition: islam
-  ref: Quran 2:118
-  note: 'The called one asks for a sign that it is God who speaks [divergence between the texts] (Judg
-    6:17 wĕ-ʿāśîtā llî ʾôt šā-ʾattâ mĕdabbēr ʿimmî: the called man asks for a sign that it is God who
-    speaks, and it is granted (fire from the rock, 6:21); Q 2:118 wa-qāla lladhīna lā yaʿlamūna lawlā
-    yukallimunā llāhu aw taʾtīnā āyatun: unbelievers ask why God does not speak to them or give a sign,
-    and the request is refused (qad bayyannā l-āyāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
-    قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
-    لِقَوْمٍ يُوقِنُونَ
-- tradition: judaism
-  ref: Judg 6:17
-  note: The called one asks for a sign that it is God who speaks
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלָ֔יו אִם נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ וְעָשִׂ֤יתָ לִּי֙ א֔וֹת שָׁאַתָּ֖ה מְדַבֵּ֥ר
-    עִמִּֽי
-- tradition: islam
-  ref: Quran 2:118
-  note: The called one asks for a sign that it is God who speaks (why does God not speak to us or a sign
-    come?)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
-    قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
-    لِقَوْمٍ يُوقِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Judg 6:17 wĕ-ʿāśîtā llî ʾôt šā-ʾattâ mĕdabbēr ʿimmî: the called man asks for a sign that
-    it is God who speaks, and it is granted (fire from the rock, 6:21); Q 2:118 wa-qāla lladhīna lā yaʿlamūna
-    lawlā yukallimunā llāhu aw taʾtīnā āyatun: unbelievers ask why God does not speak to them or give
-    a sign, and the request is refused (qad bayyannā l-āyāt).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The called one asks for a sign that it is God who speaks [divergence
     between the texts] (weight 5.8); The called one asks for a sign that it is God who speaks (weight
@@ -97,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The called one asks for a sign that it is God who speaks
+kinds:
+- divergence
+units:
+- id: hb-judg-6-gideon-call
+  title: Angel calls Gideon at the winepress; fire from the rock; YHWH-shalom
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: divergence
+  label: The called one asks for a sign that it is God who speaks
+  note: 'Judg 6:17 wĕ-ʿāśîtā llî ʾôt šā-ʾattâ mĕdabbēr ʿimmî: the called man asks for a sign that it is
+    God who speaks, and it is granted (fire from the rock, 6:21); Q 2:118 wa-qāla lladhīna lā yaʿlamūna
+    lawlā yukallimunā llāhu aw taʾtīnā āyatun: unbelievers ask why God does not speak to them or give
+    a sign, and the request is refused (qad bayyannā l-āyāt).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:17
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלָ֔יו אִם נָ֛א מָצָ֥אתִי חֵ֖ן בְּעֵינֶ֑יךָ וְעָשִׂ֤יתָ לִּי֙ א֔וֹת שָׁאַתָּ֖ה
+        מְדַבֵּ֥ר עִמִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:118
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
+        قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
+        لِقَوْمٍ يُوقِنُونَ
 ---
 
 ## Questions

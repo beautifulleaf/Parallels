@@ -1,8 +1,7 @@
 ---
 id: motif-eg-two-brothers-vs-quran-12-joseph-full
 title: Tale of Two Brothers (Papyrus d'Orbiney) ↔ Joseph and his brothers (Surah 12, full read)
-summary: 'These two units share 2 motifs: the woman falsely accuses the hero of assault, the master''s
-  wife tries to seduce the hero.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,34 +15,7 @@ layers:
 motifs:
 - false-accusation-by-wife
 - masters-wife-seduces
-passages:
-- tradition: ane-egyptian
-  ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
-  note: The woman falsely accuses the hero of assault
-- tradition: islam
-  ref: Quran 12:25
-  note: The woman falsely accuses the hero of assault
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ
-    مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
-- tradition: ane-egyptian
-  ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
-  note: The master's wife tries to seduce the hero (the elder brother's wife and the younger brother Bata)
-- tradition: islam
-  ref: Quran 12:23
-  note: The master's wife tries to seduce the hero (rāwadathu ʿan nafsihi; 'hayta laka')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ
-    لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
-- tradition: islam
-  ref: Quran 12:30
-  note: The master's wife tries to seduce the hero (rāwadathu ʿan nafsihi; 'hayta laka')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ قَدْ
-    شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍ مُّبِينٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The woman falsely accuses the hero of assault (weight 5.8); The
     master''s wife tries to seduce the hero (weight 5.8). Pair score 11.5.'
@@ -54,6 +26,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The woman falsely accuses the hero of assault
+kinds:
+- shared
+units:
+- id: eg-two-brothers
+  title: Tale of Two Brothers (Papyrus d'Orbiney)
+  tradition: ane-egyptian
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: shared
+  label: The woman falsely accuses the hero of assault
+  sides:
+  - tradition: ane-egyptian
+    passages:
+    - ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
+  - tradition: islam
+    passages:
+    - ref: Quran 12:25
+      lang: ar
+      text: وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ
+        قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ
+- kind: shared
+  label: The master's wife tries to seduce the hero
+  sides:
+  - tradition: ane-egyptian
+    passages:
+    - ref: 'Tale of Two Brothers (Papyrus d''Orbiney): Two Brothers'
+    note: the elder brother's wife and the younger brother Bata
+  - tradition: islam
+    passages:
+    - ref: Quran 12:23
+      lang: ar
+      text: وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ
+        هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ
+    - ref: Quran 12:30
+      lang: ar
+      text: وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ
+        قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍ مُّبِينٍ
+    - ref: Quran 12:32
+      lang: ar
+      text: قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ
+        وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّٰغِرِينَ
+    note: rāwadathu ʿan nafsihi; 'hayta laka'
 ---
 
 ## Questions

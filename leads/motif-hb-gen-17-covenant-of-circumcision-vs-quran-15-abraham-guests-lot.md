@@ -2,8 +2,7 @@
 id: motif-hb-gen-17-covenant-of-circumcision-vs-quran-15-abraham-guests-lot
 title: El Shaddai, new names and the covenant of circumcision ↔ Abraham's guests and the destruction of
   Lot's people (Surah 15:51-77)
-summary: 'These two units share 2 motifs: patriarch or matriarch laughs at the promise of a child in old
-  age, a divine messenger announces a son''s birth and gives his name.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,42 +16,7 @@ layers:
 motifs:
 - patriarch-laughs-at-promise
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: Gen 17:17
-  note: Patriarch or matriarch laughs at the promise of a child in old age (puns on Yitshaq, 17:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל פָּנָ֖יו וַיִּצְחָ֑ק וַיֹּ֣אמֶר בְּלִבּ֗וֹ הַלְּבֶ֤ן מֵאָֽה שָׁנָה֙
-    יִוָּלֵ֔ד וְאִ֨ם שָׂרָ֔ה הֲבַת תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד
-- tradition: islam
-  ref: Quran 15:54
-  note: Patriarch or matriarch laughs at the promise of a child in old age (here astonishment at old age,
-    not laughter)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
-- tradition: judaism
-  ref: Gen 17:19
-  note: A divine messenger announces a son's birth and gives his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים אֲבָל֙ שָׂרָ֣ה אִשְׁתְּךָ֗ יֹלֶ֤דֶת לְךָ֙ בֵּ֔ן וְקָרָ֥אתָ אֶת שְׁמ֖וֹ יִצְחָ֑ק
-    וַהֲקִמֹתִ֨י אֶת בְּרִיתִ֥י אִתּ֛וֹ לִבְרִ֥ית עוֹלָ֖ם לְזַרְע֥וֹ אַחֲרָֽיו
-- tradition: judaism
-  ref: Gen 17:21
-  note: A divine messenger announces a son's birth and gives his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת בְּרִיתִ֖י אָקִ֣ים אֶת יִצְחָ֑ק אֲשֶׁר֩ תֵּלֵ֨ד לְךָ֤ שָׂרָה֙ לַמּוֹעֵ֣ד הַזֶּ֔ה בַּשָּׁנָ֖ה
-    הָאַחֶֽרֶת
-- tradition: islam
-  ref: Quran 15:53
-  note: A divine messenger announces a son's birth and gives his name (a knowing boy (ghulām ʿalīm), unnamed
-    here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Patriarch or matriarch laughs at the promise of a child in old age
     (weight 5.6); A divine messenger announces a son''s birth and gives his name (weight 5.2). Pair score
@@ -87,6 +51,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Patriarch or matriarch laughs at the promise of a child in old age
+kinds:
+- shared
+units:
+- id: hb-gen-17-covenant-of-circumcision
+  title: El Shaddai, new names and the covenant of circumcision
+  tradition: judaism
+- id: quran-15-abraham-guests-lot
+  title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
+  tradition: islam
+matches:
+- kind: shared
+  label: Patriarch or matriarch laughs at the promise of a child in old age
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 17:17
+      lang: he
+      text: וַיִּפֹּ֧ל אַבְרָהָ֛ם עַל פָּנָ֖יו וַיִּצְחָ֑ק וַיֹּ֣אמֶר בְּלִבּ֗וֹ הַלְּבֶ֤ן מֵאָֽה שָׁנָה֙
+        יִוָּלֵ֔ד וְאִ֨ם שָׂרָ֔ה הֲבַת תִּשְׁעִ֥ים שָׁנָ֖ה תֵּלֵֽד
+    note: puns on Yitshaq, 17:19
+  - tradition: islam
+    passages:
+    - ref: Quran 15:54
+      lang: ar
+      text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
+    note: here astonishment at old age, not laughter
+- kind: shared
+  label: A divine messenger announces a son's birth and gives his name
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 17:19
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים אֲבָל֙ שָׂרָ֣ה אִשְׁתְּךָ֗ יֹלֶ֤דֶת לְךָ֙ בֵּ֔ן וְקָרָ֥אתָ אֶת שְׁמ֖וֹ
+        יִצְחָ֑ק וַהֲקִמֹתִ֨י אֶת בְּרִיתִ֥י אִתּ֛וֹ לִבְרִ֥ית עוֹלָ֖ם לְזַרְע֥וֹ אַחֲרָֽיו
+    - ref: Gen 17:21
+      lang: he
+      text: וְאֶת בְּרִיתִ֖י אָקִ֣ים אֶת יִצְחָ֑ק אֲשֶׁר֩ תֵּלֵ֨ד לְךָ֤ שָׂרָה֙ לַמּוֹעֵ֣ד הַזֶּ֔ה בַּשָּׁנָ֖ה
+        הָאַחֶֽרֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 15:53
+      lang: ar
+      text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
+    note: a knowing boy (ghulām ʿalīm), unnamed here
 ---
 
 ## Questions

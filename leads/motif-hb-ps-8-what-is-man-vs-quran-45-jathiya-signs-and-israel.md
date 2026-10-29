@@ -2,8 +2,7 @@
 id: motif-hb-ps-8-what-is-man-vs-quran-45-jathiya-signs-and-israel
 title: 'Psalm 8 - what is man ↔ Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s
   shari''a'
-summary: 'These two units share 2 motifs: how much of creation is put under man''s rule or use [divergence
-  between the texts], humans given rule over animals.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,81 +15,9 @@ layers:
 motifs:
 - extent-of-human-dominion-as-divergence
 - human-dominion-over-animals
-passages:
-- tradition: judaism
-  ref: Ps 8:4
-  note: 'How much of creation is put under man''s rule or use [divergence between the texts] (Creation
-    put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl šattâ ṯaḥaṯ raḡlâw, listing
-    sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens, moon and stars are God''s finger-work
-    which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara lakumu l-baḥra li-tajriya l-fulku fīhi
-    ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan minhu. The Quran puts the heavens
-    too under man''s use, and the sea as a road for ships rather than the fish''s ''paths of the seas''.
-    The psalm ends in wonder at the Name; the Quran in a call to reflect and give thanks (tashkurūn, yatafakkarūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣י אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה
-- tradition: judaism
-  ref: Ps 8:7
-  note: 'How much of creation is put under man''s rule or use [divergence between the texts] (Creation
-    put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl šattâ ṯaḥaṯ raḡlâw, listing
-    sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens, moon and stars are God''s finger-work
-    which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara lakumu l-baḥra li-tajriya l-fulku fīhi
-    ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan minhu. The Quran puts the heavens
-    too under man''s use, and the sea as a road for ships rather than the fish''s ''paths of the seas''.
-    The psalm ends in wonder at the Name; the Quran in a call to reflect and give thanks (tashkurūn, yatafakkarūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו
-- tradition: islam
-  ref: Quran 45:12
-  note: 'How much of creation is put under man''s rule or use [divergence between the texts] (Creation
-    put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl šattâ ṯaḥaṯ raḡlâw, listing
-    sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens, moon and stars are God''s finger-work
-    which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara lakumu l-baḥra li-tajriya l-fulku fīhi
-    ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan minhu. The Quran puts the heavens
-    too under man''s use, and the sea as a road for ships rather than the fish''s ''paths of the seas''.
-    The psalm ends in wonder at the Name; the Quran in a call to reflect and give thanks (tashkurūn, yatafakkarūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟
-    مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
-- tradition: islam
-  ref: Quran 45:13
-  note: 'How much of creation is put under man''s rule or use [divergence between the texts] (Creation
-    put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl šattâ ṯaḥaṯ raḡlâw, listing
-    sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens, moon and stars are God''s finger-work
-    which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara lakumu l-baḥra li-tajriya l-fulku fīhi
-    ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan minhu. The Quran puts the heavens
-    too under man''s use, and the sea as a road for ships rather than the fish''s ''paths of the seas''.
-    The psalm ends in wonder at the Name; the Quran in a call to reflect and give thanks (tashkurūn, yatafakkarūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
-- tradition: judaism
-  ref: Ps 8:7-9
-  note: 'Humans given rule over animals (''all under his feet'': flocks, beasts, birds, fish, whatever
-    passes the paths of the seas)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:7) תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו (8:8) צֹנֶ֣ה וַאֲלָפִ֣ים
-    כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי (8:9) צִפּ֣וֹר שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם עֹ֝בֵ֗ר אָרְח֥וֹת יַמִּֽים
-- tradition: islam
-  ref: Quran 45:13
-  note: Humans given rule over animals (extended to everything in heaven and earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Creation put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl
-    šattâ ṯaḥaṯ raḡlâw, listing sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens,
-    moon and stars are God''s finger-work which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara
-    lakumu l-baḥra li-tajriya l-fulku fīhi ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan
-    minhu. The Quran puts the heavens too under man''s use, and the sea as a road for ships rather than
-    the fish''s ''paths of the seas''. The psalm ends in wonder at the Name; the Quran in a call to reflect
-    and give thanks (tashkurūn, yatafakkarūn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How much of creation is put under man''s rule or use [divergence
     between the texts] (weight 6.7); Humans given rule over animals (weight 6.0). Pair score 12.7.'
@@ -129,6 +56,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How much of creation is put under man's rule or use
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: divergence
+  label: How much of creation is put under man's rule or use
+  note: 'Creation put under man, with a different extent. Ps 8: tamšîlēhû bə-maʿăśê yāḏêḵā kōl šattâ ṯaḥaṯ
+    raḡlâw, listing sheep, oxen, beasts, birds, fish and ʿōḇēr ʾorḥôṯ yammîm; the heavens, moon and stars
+    are God''s finger-work which man only looks at (kî ʾerʾeh šāmêḵā). Q 45: sakhkhara lakumu l-baḥra
+    li-tajriya l-fulku fīhi ... wa-sakhkhara lakum mā fī s-samāwāti wa-mā fī l-arḍi jamīʿan minhu. The
+    Quran puts the heavens too under man''s use, and the sea as a road for ships rather than the fish''s
+    ''paths of the seas''. The psalm ends in wonder at the Name; the Quran in a call to reflect and give
+    thanks (tashkurūn, yatafakkarūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:4
+      lang: he
+      text: כִּֽי אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣י אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה
+    - ref: Ps 8:7
+      lang: he
+      text: תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו
+    - ref: Ps 8:8
+      lang: he
+      text: צֹנֶ֣ה וַאֲלָפִ֣ים כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 45:12
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى سَخَّرَ لَكُمُ ٱلْبَحْرَ لِتَجْرِىَ ٱلْفُلْكُ فِيهِ بِأَمْرِهِۦ وَلِتَبْتَغُوا۟
+        مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ
+    - ref: Quran 45:13
+      lang: ar
+      text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+- kind: shared
+  label: Humans given rule over animals
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:7-9
+      lang: he
+      text: (8:7) תַּ֭מְשִׁילֵהוּ בְּמַעֲשֵׂ֣י יָדֶ֑יךָ כֹּ֝ל שַׁ֣תָּה תַֽחַת רַגְלָֽיו (8:8) צֹנֶ֣ה וַאֲלָפִ֣ים
+        כֻּלָּ֑ם וְ֝גַ֗ם בַּהֲמ֥וֹת שָׂדָֽי (8:9) צִפּ֣וֹר שָׁ֭מַיִם וּדְגֵ֣י הַיָּ֑ם עֹ֝בֵ֗ר אָרְח֥וֹת
+        יַמִּֽים
+    note: '''all under his feet'': flocks, beasts, birds, fish, whatever passes the paths of the seas'
+  - tradition: islam
+    passages:
+    - ref: Quran 45:13
+      lang: ar
+      text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+    note: extended to everything in heaven and earth
 ---
 
 ## Questions

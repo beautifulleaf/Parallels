@@ -2,8 +2,7 @@
 id: motif-hb-num-11-taberah-quail-vs-quran-5-hand-fettered
 title: Taberah, the craving, the seventy elders and the quail ↔ 'God's hand is fettered'; the blessings
   of observing the Torah
-summary: 'These two units share 2 motifs: leader doubts god can supply; god replies ''is my hand too short?''
-  [divergence between the texts], leader doubts god can supply; god replies ''is my hand too short?''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,77 +15,9 @@ layers:
 motifs:
 - divine-power-questioned-as-divergence
 - divine-power-questioned
-passages:
-- tradition: judaism
-  ref: Num 11:21
-  note: 'Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence between the texts]
-    (God''s hand as the measure of his power to provide. Num: Moses doubts (ha-ṣōʾn û-vāqār yiššāḥēṭ lāhem),
-    and God answers ha-yad YHWH tiqṣār. Q puts the doubt in the mouth of al-yahūd, yadu llāhi maghlūlatun,
-    and answers ghullat aydīhim ... bal yadāhu mabsūṭatāni yunfiqu kayfa yashāʾu. The doubter changes
-    from Moses to ''the Jews'', and the doubt is cursed (wa-luʿinū bi-mā qālū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֮ מֹשֶׁה֒ שֵׁשׁ מֵא֥וֹת אֶ֨לֶף֙ רַגְלִ֔י הָעָ֕ם אֲשֶׁ֥ר אָנֹכִ֖י בְּקִרְבּ֑וֹ וְאַתָּ֣ה
-    אָמַ֗רְתָּ בָּשָׂר֙ אֶתֵּ֣ן לָהֶ֔ם וְאָכְל֖וּ חֹ֥דֶשׁ יָמִֽים
-- tradition: judaism
-  ref: Num 11:22
-  note: 'Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence between the texts]
-    (God''s hand as the measure of his power to provide. Num: Moses doubts (ha-ṣōʾn û-vāqār yiššāḥēṭ lāhem),
-    and God answers ha-yad YHWH tiqṣār. Q puts the doubt in the mouth of al-yahūd, yadu llāhi maghlūlatun,
-    and answers ghullat aydīhim ... bal yadāhu mabsūṭatāni yunfiqu kayfa yashāʾu. The doubter changes
-    from Moses to ''the Jews'', and the doubt is cursed (wa-luʿinū bi-mā qālū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲצֹ֧אן וּבָקָ֛ר יִשָּׁחֵ֥ט לָהֶ֖ם וּמָצָ֣א לָהֶ֑ם אִ֣ם אֶֽת כָּל דְּגֵ֥י הַיָּ֛ם יֵאָסֵ֥ף לָהֶ֖ם
-    וּמָצָ֥א לָהֶֽם
-- tradition: islam
-  ref: Quran 5:64
-  note: 'Leader doubts God can supply; God replies ''Is my hand too short?'' [divergence between the texts]
-    (God''s hand as the measure of his power to provide. Num: Moses doubts (ha-ṣōʾn û-vāqār yiššāḥēṭ lāhem),
-    and God answers ha-yad YHWH tiqṣār. Q puts the doubt in the mouth of al-yahūd, yadu llāhi maghlūlatun,
-    and answers ghullat aydīhim ... bal yadāhu mabsūṭatāni yunfiqu kayfa yashāʾu. The doubter changes
-    from Moses to ''the Jews'', and the doubt is cursed (wa-luʿinū bi-mā qālū).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ
-    يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ
-    مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ
-    ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ
-    فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
-- tradition: judaism
-  ref: Num 11:21
-  note: Leader doubts God can supply; God replies 'Is my hand too short?' ('Is YHWH's hand too short?';
-    600,000 footmen)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֮ מֹשֶׁה֒ שֵׁשׁ מֵא֥וֹת אֶ֨לֶף֙ רַגְלִ֔י הָעָ֕ם אֲשֶׁ֥ר אָנֹכִ֖י בְּקִרְבּ֑וֹ וְאַתָּ֣ה
-    אָמַ֗רְתָּ בָּשָׂר֙ אֶתֵּ֣ן לָהֶ֔ם וְאָכְל֖וּ חֹ֥דֶשׁ יָמִֽים
-- tradition: judaism
-  ref: Num 11:22
-  note: Leader doubts God can supply; God replies 'Is my hand too short?' ('Is YHWH's hand too short?';
-    600,000 footmen)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲצֹ֧אן וּבָקָ֛ר יִשָּׁחֵ֥ט לָהֶ֖ם וּמָצָ֣א לָהֶ֑ם אִ֣ם אֶֽת כָּל דְּגֵ֥י הַיָּ֛ם יֵאָסֵ֥ף לָהֶ֖ם
-    וּמָצָ֥א לָהֶֽם
-- tradition: islam
-  ref: Quran 5:64
-  note: 'Leader doubts God can supply; God replies ''Is my hand too short?'' (Isa: ha-qāṣôr qāṣərāh yādî
-    mip-pədût wə-ʾim-ʾên-bî khōaḥ ləhaṣṣîl. God rejects the idea that his hand is shortened. Q: bal yadāhu
-    mabsūṭatāni against the claim yadu llāhi maghlūla.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ
-    يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ
-    مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ
-    ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ
-    فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. God''s hand as the measure of his power to provide. Num: Moses doubts (ha-ṣōʾn û-vāqār
-    yiššāḥēṭ lāhem), and God answers ha-yad YHWH tiqṣār. Q puts the doubt in the mouth of al-yahūd, yadu
-    llāhi maghlūlatun, and answers ghullat aydīhim ... bal yadāhu mabsūṭatāni yunfiqu kayfa yashāʾu. The
-    doubter changes from Moses to ''the Jews'', and the doubt is cursed (wa-luʿinū bi-mā qālū).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader doubts God can supply; God replies ''Is my hand too short?''
     [divergence between the texts] (weight 6.7); Leader doubts God can supply; God replies ''Is my hand
@@ -120,6 +51,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader doubts God can supply; God replies 'Is my hand too short?'
+kinds:
+- divergence
+units:
+- id: hb-num-11-taberah-quail
+  title: Taberah, the craving, the seventy elders and the quail
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Leader doubts God can supply; God replies 'Is my hand too short?'
+  note: 'God''s hand as the measure of his power to provide. Num: Moses doubts (ha-ṣōʾn û-vāqār yiššāḥēṭ
+    lāhem), and God answers ha-yad YHWH tiqṣār. Q puts the doubt in the mouth of al-yahūd, yadu llāhi
+    maghlūlatun, and answers ghullat aydīhim ... bal yadāhu mabsūṭatāni yunfiqu kayfa yashāʾu. The doubter
+    changes from Moses to ''the Jews'', and the doubt is cursed (wa-luʿinū bi-mā qālū).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 11:21
+      lang: he
+      text: וַיֹּאמֶר֮ מֹשֶׁה֒ שֵׁשׁ מֵא֥וֹת אֶ֨לֶף֙ רַגְלִ֔י הָעָ֕ם אֲשֶׁ֥ר אָנֹכִ֖י בְּקִרְבּ֑וֹ וְאַתָּ֣ה
+        אָמַ֗רְתָּ בָּשָׂר֙ אֶתֵּ֣ן לָהֶ֔ם וְאָכְל֖וּ חֹ֥דֶשׁ יָמִֽים
+    - ref: Num 11:22
+      lang: he
+      text: הֲצֹ֧אן וּבָקָ֛ר יִשָּׁחֵ֥ט לָהֶ֖ם וּמָצָ֣א לָהֶ֑ם אִ֣ם אֶֽת כָּל דְּגֵ֥י הַיָּ֛ם יֵאָסֵ֥ף
+        לָהֶ֖ם וּמָצָ֥א לָהֶֽם
+    - ref: Num 11:23
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה הֲיַ֥ד יְהוָ֖ה תִּקְצָ֑ר עַתָּ֥ה תִרְאֶ֛ה הֲיִקְרְךָ֥ דְבָרִ֖י
+        אִם לֹֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 5:64
+      lang: ar
+      text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟
+        بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ
+        إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ
+        إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ
+        فِى ٱلْأَرْضِ فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 ---
 
 ## Questions

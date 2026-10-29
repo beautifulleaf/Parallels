@@ -2,8 +2,7 @@
 id: motif-hb-exod-21-bodily-injury-vs-quran-5-torah-gospel-judgment
 title: Covenant Code - homicide, injury and the goring ox ↔ Judging by the Torah, the Gospel and the Quran;
   eye for eye
-summary: 'These two units share 2 motifs: eye for an eye, tooth for a tooth (lex talionis) [divergence
-  between the texts], eye for an eye, tooth for a tooth (lex talionis).'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,70 +15,9 @@ layers:
 motifs:
 - eye-for-eye-as-divergence
 - eye-for-eye
-passages:
-- tradition: judaism
-  ref: Exod 21:23
-  note: 'Eye for an eye, tooth for a tooth (lex talionis) [divergence between the texts] (Q quotes the
-    talion as written in the Torah (wa-katabnā ʿalayhim fīhā) but changes the list. Q: al-nafsa bi-l-nafsi
-    wa-l-ʿayna bi-l-ʿayni wa-l-anfa bi-l-anfi wa-l-udhuna bi-l-udhuni wa-l-sinna bi-l-sinni wa-l-jurūḥa
-    qiṣāṣun. Exod: nefeš taḥat nāfeš ʿayin taḥat ʿayin šēn taḥat šēn yād ... regel ... kəviyyāh ... peṣaʿ
-    taḥat pāṣaʿ ḥabbûrāh. Q adds nose and ear, drops hand, foot, burn and bruise, and sums up the rest
-    as jurūḥ (= peṣaʿ). Exod''s taḥat (''in place of'') becomes Q''s bi-.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
-- tradition: judaism
-  ref: Exod 21:24
-  note: 'Eye for an eye, tooth for a tooth (lex talionis) [divergence between the texts] (Q quotes the
-    talion as written in the Torah (wa-katabnā ʿalayhim fīhā) but changes the list. Q: al-nafsa bi-l-nafsi
-    wa-l-ʿayna bi-l-ʿayni wa-l-anfa bi-l-anfi wa-l-udhuna bi-l-udhuni wa-l-sinna bi-l-sinni wa-l-jurūḥa
-    qiṣāṣun. Exod: nefeš taḥat nāfeš ʿayin taḥat ʿayin šēn taḥat šēn yād ... regel ... kəviyyāh ... peṣaʿ
-    taḥat pāṣaʿ ḥabbûrāh. Q adds nose and ear, drops hand, foot, burn and bruise, and sums up the rest
-    as jurūḥ (= peṣaʿ). Exod''s taḥat (''in place of'') becomes Q''s bi-.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל
-- tradition: islam
-  ref: Quran 5:45
-  note: 'Eye for an eye, tooth for a tooth (lex talionis) [divergence between the texts] (Q quotes the
-    talion as written in the Torah (wa-katabnā ʿalayhim fīhā) but changes the list. Q: al-nafsa bi-l-nafsi
-    wa-l-ʿayna bi-l-ʿayni wa-l-anfa bi-l-anfi wa-l-udhuna bi-l-udhuni wa-l-sinna bi-l-sinni wa-l-jurūḥa
-    qiṣāṣun. Exod: nefeš taḥat nāfeš ʿayin taḥat ʿayin šēn taḥat šēn yād ... regel ... kəviyyāh ... peṣaʿ
-    taḥat pāṣaʿ ḥabbûrāh. Q adds nose and ear, drops hand, foot, burn and bruise, and sums up the rest
-    as jurūḥ (= peṣaʿ). Exod''s taḥat (''in place of'') becomes Q''s bi-.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
-    بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِۦ
-    فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
-- tradition: judaism
-  ref: Exod 21:23
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life, eye, tooth, hand, foot, burn, wound, bruise)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
-- tradition: judaism
-  ref: Exod 21:24
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life, eye, tooth, hand, foot, burn, wound, bruise)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל
-- tradition: islam
-  ref: Quran 5:45
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life for life, eye for eye, nose for nose, ear
-    for ear, tooth for tooth, wounds by retaliation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
-    بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ بِهِۦ
-    فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Q quotes the talion as written in the Torah (wa-katabnā ʿalayhim fīhā) but changes the
-    list. Q: al-nafsa bi-l-nafsi wa-l-ʿayna bi-l-ʿayni wa-l-anfa bi-l-anfi wa-l-udhuna bi-l-udhuni wa-l-sinna
-    bi-l-sinni wa-l-jurūḥa qiṣāṣun. Exod: nefeš taḥat nāfeš ʿayin taḥat ʿayin šēn taḥat šēn yād ... regel
-    ... kəviyyāh ... peṣaʿ taḥat pāṣaʿ ḥabbûrāh. Q adds nose and ear, drops hand, foot, burn and bruise,
-    and sums up the rest as jurūḥ (= peṣaʿ). Exod''s taḥat (''in place of'') becomes Q''s bi-.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) [divergence between
     the texts] (weight 6.0); Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair score
@@ -113,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eye for an eye, tooth for a tooth (lex talionis)
+kinds:
+- divergence
+units:
+- id: hb-exod-21-bodily-injury
+  title: Covenant Code - homicide, injury and the goring ox
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: divergence
+  label: Eye for an eye, tooth for a tooth (lex talionis)
+  note: 'Q quotes the talion as written in the Torah (wa-katabnā ʿalayhim fīhā) but changes the list.
+    Q: al-nafsa bi-l-nafsi wa-l-ʿayna bi-l-ʿayni wa-l-anfa bi-l-anfi wa-l-udhuna bi-l-udhuni wa-l-sinna
+    bi-l-sinni wa-l-jurūḥa qiṣāṣun. Exod: nefeš taḥat nāfeš ʿayin taḥat ʿayin šēn taḥat šēn yād ... regel
+    ... kəviyyāh ... peṣaʿ taḥat pāṣaʿ ḥabbûrāh. Q adds nose and ear, drops hand, foot, burn and bruise,
+    and sums up the rest as jurūḥ (= peṣaʿ). Exod''s taḥat (''in place of'') becomes Q''s bi-.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:23
+      lang: he
+      text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
+    - ref: Exod 21:24
+      lang: he
+      text: עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל
+    - ref: Exod 21:25
+      lang: he
+      text: כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:45
+      lang: ar
+      text: وَكَتَبْنَا عَلَيْهِمْ فِيهَآ أَنَّ ٱلنَّفْسَ بِٱلنَّفْسِ وَٱلْعَيْنَ بِٱلْعَيْنِ وَٱلْأَنفَ
+        بِٱلْأَنفِ وَٱلْأُذُنَ بِٱلْأُذُنِ وَٱلسِّنَّ بِٱلسِّنِّ وَٱلْجُرُوحَ قِصَاصٌ فَمَن تَصَدَّقَ
+        بِهِۦ فَهُوَ كَفَّارَةٌ لَّهُۥ وَمَن لَّمْ يَحْكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
 ---
 
 ## Questions

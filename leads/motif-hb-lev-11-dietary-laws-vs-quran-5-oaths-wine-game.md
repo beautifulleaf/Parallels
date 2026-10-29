@@ -2,8 +2,7 @@
 id: motif-hb-lev-11-dietary-laws-vs-quran-5-oaths-wine-game
 title: Clean and unclean animals; carcass impurity ↔ Lawful good things, oath expiation, wine and gambling,
   game in iḥrām
-summary: 'These two units share 1 motifs: water creatures are permitted only if they have fins and scales
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - fins-and-scales-rule-as-contrast
-passages:
-- tradition: judaism
-  ref: Lev 11:9
-  note: 'Water creatures are permitted only if they have fins and scales [contrast between the texts]
-    (Opposite rulings on sea creatures. Lev: ʾet-zeh tōʾkhəlû ... kōl ʾăšer-lô sənappîr wə-qaśqeśet; anything
-    without them is šeqeṣ. Q: uḥilla lakum ṣaydu l-baḥri wa-ṭaʿāmuhu, all sea game is lawful, even in
-    iḥrām.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם
-    בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ
-- tradition: judaism
-  ref: Lev 11:10
-  note: 'Water creatures are permitted only if they have fins and scales [contrast between the texts]
-    (Opposite rulings on sea creatures. Lev: ʾet-zeh tōʾkhəlû ... kōl ʾăšer-lô sənappîr wə-qaśqeśet; anything
-    without them is šeqeṣ. Q: uḥilla lakum ṣaydu l-baḥri wa-ṭaʿāmuhu, all sea game is lawful, even in
-    iḥrām.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכֹל֩ אֲשֶׁ֨ר אֵֽין ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ
-    הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם
-- tradition: islam
-  ref: Quran 5:96
-  note: 'Water creatures are permitted only if they have fins and scales [contrast between the texts]
-    (Opposite rulings on sea creatures. Lev: ʾet-zeh tōʾkhəlû ... kōl ʾăšer-lô sənappîr wə-qaśqeśet; anything
-    without them is šeqeṣ. Q: uḥilla lakum ṣaydu l-baḥri wa-ṭaʿāmuhu, all sea game is lawful, even in
-    iḥrām.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ
-    صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite rulings on sea creatures. Lev: ʾet-zeh tōʾkhəlû ... kōl ʾăšer-lô sənappîr wə-qaśqeśet;
-    anything without them is šeqeṣ. Q: uḥilla lakum ṣaydu l-baḥri wa-ṭaʿāmuhu, all sea game is lawful,
-    even in iḥrām.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Water creatures are permitted only if they have fins and scales
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Water creatures are permitted only if they have fins and scales
+kinds:
+- contrast
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-5-oaths-wine-game
+  title: Lawful good things, oath expiation, wine and gambling, game in iḥrām
+  tradition: islam
+matches:
+- kind: contrast
+  label: Water creatures are permitted only if they have fins and scales
+  note: 'Opposite rulings on sea creatures. Lev: ʾet-zeh tōʾkhəlû ... kōl ʾăšer-lô sənappîr wə-qaśqeśet;
+    anything without them is šeqeṣ. Q: uḥilla lakum ṣaydu l-baḥri wa-ṭaʿāmuhu, all sea game is lawful,
+    even in iḥrām.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:9
+      lang: he
+      text: אֶת זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת
+        בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ
+    - ref: Lev 11:10
+      lang: he
+      text: וְכֹל֩ אֲשֶׁ֨ר אֵֽין ל֜וֹ סְנַפִּ֣יר וְקַשְׂקֶ֗שֶׂת בַּיַּמִּים֙ וּבַנְּחָלִ֔ים מִכֹּל֙ שֶׁ֣רֶץ
+        הַמַּ֔יִם וּמִכֹּ֛ל נֶ֥פֶשׁ הַחַיָּ֖ה אֲשֶׁ֣ר בַּמָּ֑יִם שֶׁ֥קֶץ הֵ֖ם לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:96
+      lang: ar
+      text: أُحِلَّ لَكُمْ صَيْدُ ٱلْبَحْرِ وَطَعَامُهُۥ مَتَٰعًا لَّكُمْ وَلِلسَّيَّارَةِ وَحُرِّمَ عَلَيْكُمْ
+        صَيْدُ ٱلْبَرِّ مَا دُمْتُمْ حُرُمًا وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ إِلَيْهِ تُحْشَرُونَ
 ---
 
 ## Questions

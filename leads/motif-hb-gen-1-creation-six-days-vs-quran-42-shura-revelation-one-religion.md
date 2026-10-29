@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-42-shura-revelation-one-religion
 title: 'Creation in six days and the seventh-day rest ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels''
   intercession and the one religion of the prophets'
-summary: 'These two units share 2 motifs: whether humans bear god''s likeness, or nothing is like him
-  [contrast between the texts], humanity created male and female in one act.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - likeness-between-god-and-man-as-contrast
 - male-and-female-created-together
-passages:
-- tradition: judaism
-  ref: Gen 1:26
-  note: 'Whether humans bear God''s likeness, or nothing is like him [contrast between the texts] (In
-    the same breath as the creation of human pairs, opposite statements on likeness to God. Gen: naʿăśeh
-    ʾāḏām bə-ṣalmēnû ki-ḏmûṯēnû ... zāḵār û-nəqēḇâ bārāʾ ʾōṯām. Q 42:11: fāṭiru s-samāwāti wa-l-arḍi jaʿala
-    lakum min anfusikum azwājan ... laysa ka-mithlihi shayʾ. Mithl (likeness) is the opposite of dəmûṯ
-    (likeness): Genesis gives man God''s likeness; the Quran says nothing is like him. Lead only: no explicit
-    reference to Genesis.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
-    וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 1:27
-  note: 'Whether humans bear God''s likeness, or nothing is like him [contrast between the texts] (In
-    the same breath as the creation of human pairs, opposite statements on likeness to God. Gen: naʿăśeh
-    ʾāḏām bə-ṣalmēnû ki-ḏmûṯēnû ... zāḵār û-nəqēḇâ bārāʾ ʾōṯām. Q 42:11: fāṭiru s-samāwāti wa-l-arḍi jaʿala
-    lakum min anfusikum azwājan ... laysa ka-mithlihi shayʾ. Mithl (likeness) is the opposite of dəmûṯ
-    (likeness): Genesis gives man God''s likeness; the Quran says nothing is like him. Lead only: no explicit
-    reference to Genesis.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה
-    בָּרָ֥א אֹתָֽם
-- tradition: islam
-  ref: Quran 42:11
-  note: 'Whether humans bear God''s likeness, or nothing is like him [contrast between the texts] (In
-    the same breath as the creation of human pairs, opposite statements on likeness to God. Gen: naʿăśeh
-    ʾāḏām bə-ṣalmēnû ki-ḏmûṯēnû ... zāḵār û-nəqēḇâ bārāʾ ʾōṯām. Q 42:11: fāṭiru s-samāwāti wa-l-arḍi jaʿala
-    lakum min anfusikum azwājan ... laysa ka-mithlihi shayʾ. Mithl (likeness) is the opposite of dəmûṯ
-    (likeness): Genesis gives man God''s likeness; the Quran says nothing is like him. Lead only: no explicit
-    reference to Genesis.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
-    أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
-- tradition: judaism
-  ref: Gen 1:27
-  note: Humanity created male and female in one act
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה
-    בָּרָ֥א אֹתָֽם
-- tradition: islam
-  ref: Quran 42:11
-  note: Humanity created male and female in one act (mates made for humans and for cattle from themselves)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
-    أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. In the same breath as the creation of human pairs, opposite statements on likeness to God.
-    Gen: naʿăśeh ʾāḏām bə-ṣalmēnû ki-ḏmûṯēnû ... zāḵār û-nəqēḇâ bārāʾ ʾōṯām. Q 42:11: fāṭiru s-samāwāti
-    wa-l-arḍi jaʿala lakum min anfusikum azwājan ... laysa ka-mithlihi shayʾ. Mithl (likeness) is the
-    opposite of dəmûṯ (likeness): Genesis gives man God''s likeness; the Quran says nothing is like him.
-    Lead only: no explicit reference to Genesis.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether humans bear God''s likeness, or nothing is like him [contrast
     between the texts] (weight 6.7); Humanity created male and female in one act (weight 6.0). Pair score
@@ -110,6 +54,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether humans bear God's likeness, or nothing is like him
+kinds:
+- contrast
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether humans bear God's likeness, or nothing is like him
+  note: 'In the same breath as the creation of human pairs, opposite statements on likeness to God. Gen:
+    naʿăśeh ʾāḏām bə-ṣalmēnû ki-ḏmûṯēnû ... zāḵār û-nəqēḇâ bārāʾ ʾōṯām. Q 42:11: fāṭiru s-samāwāti wa-l-arḍi
+    jaʿala lakum min anfusikum azwājan ... laysa ka-mithlihi shayʾ. Mithl (likeness) is the opposite of
+    dəmûṯ (likeness): Genesis gives man God''s likeness; the Quran says nothing is like him. Lead only:
+    no explicit reference to Genesis.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:26
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
+        וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
+    - ref: Gen 1:27
+      lang: he
+      text: וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר
+        וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 42:11
+      lang: ar
+      text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
+        أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+- kind: shared
+  label: Humanity created male and female in one act
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:27
+      lang: he
+      text: וַיִּבְרָ֨א אֱלֹהִ֤ים אֶת הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר
+        וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 42:11
+      lang: ar
+      text: فَاطِرُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَعَلَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا وَمِنَ ٱلْأَنْعَٰمِ
+        أَزْوَٰجًا يَذْرَؤُكُمْ فِيهِ لَيْسَ كَمِثْلِهِۦ شَىْءٌ وَهُوَ ٱلسَّمِيعُ ٱلْبَصِيرُ
+    note: mates made for humans and for cattle from themselves
 ---
 
 ## Questions

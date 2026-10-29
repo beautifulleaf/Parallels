@@ -2,8 +2,7 @@
 id: motif-hb-exod-22-apodictic-and-social-laws-vs-quran-5-contracts-food-laws
 title: Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ Contracts, pilgrim sanctity and
   the forbidden foods
-summary: 'These two units share 1 motifs: flesh of an animal torn by a beast of prey is not to be eaten
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,51 +14,9 @@ layers:
 - motif
 motifs:
 - flesh-torn-by-beasts-forbidden-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 22:30
-  note: 'Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the texts]
-    (Both forbid flesh torn by a beast: Q wa-mā akala l-sabuʿu illā mā dhakkaytum; Exod bāśār baś-śādeh
-    ṭərēfāh lōʾ tōʾkhēlû. But the dog''s role is reversed. Exod: lak-keleb tašlikhûn ʾōtô, the torn meat
-    is thrown to the dogs. Q 5:4: what trained hunting animals (mukallibīna, ''training them as dogs'')
-    catch for you is lawful: fa-kulū mimmā amsakna ʿalaykum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַנְשֵׁי קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב תַּשְׁלִכ֥וּן
-    אֹתֽוֹ
-- tradition: islam
-  ref: Quran 5:3
-  note: 'Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the texts]
-    (Both forbid flesh torn by a beast: Q wa-mā akala l-sabuʿu illā mā dhakkaytum; Exod bāśār baś-śādeh
-    ṭərēfāh lōʾ tōʾkhēlû. But the dog''s role is reversed. Exod: lak-keleb tašlikhûn ʾōtô, the torn meat
-    is thrown to the dogs. Q 5:4: what trained hunting animals (mukallibīna, ''training them as dogs'')
-    catch for you is lawful: fa-kulū mimmā amsakna ʿalaykum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: islam
-  ref: Quran 5:4
-  note: 'Flesh of an animal torn by a beast of prey is not to be eaten [divergence between the texts]
-    (Both forbid flesh torn by a beast: Q wa-mā akala l-sabuʿu illā mā dhakkaytum; Exod bāśār baś-śādeh
-    ṭərēfāh lōʾ tōʾkhēlû. But the dog''s role is reversed. Exod: lak-keleb tašlikhûn ʾōtô, the torn meat
-    is thrown to the dogs. Q 5:4: what trained hunting animals (mukallibīna, ''training them as dogs'')
-    catch for you is lawful: fa-kulū mimmā amsakna ʿalaykum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ
-    ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ
-    عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Both forbid flesh torn by a beast: Q wa-mā akala l-sabuʿu illā mā dhakkaytum; Exod bāśār
-    baś-śādeh ṭərēfāh lōʾ tōʾkhēlû. But the dog''s role is reversed. Exod: lak-keleb tašlikhûn ʾōtô, the
-    torn meat is thrown to the dogs. Q 5:4: what trained hunting animals (mukallibīna, ''training them
-    as dogs'') catch for you is lawful: fa-kulū mimmā amsakna ʿalaykum.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Flesh of an animal torn by a beast of prey is not to be eaten [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -92,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Flesh of an animal torn by a beast of prey is not to be eaten
+kinds:
+- divergence
+units:
+- id: hb-exod-22-apodictic-and-social-laws
+  title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: divergence
+  label: Flesh of an animal torn by a beast of prey is not to be eaten
+  note: 'Both forbid flesh torn by a beast: Q wa-mā akala l-sabuʿu illā mā dhakkaytum; Exod bāśār baś-śādeh
+    ṭərēfāh lōʾ tōʾkhēlû. But the dog''s role is reversed. Exod: lak-keleb tašlikhûn ʾōtô, the torn meat
+    is thrown to the dogs. Q 5:4: what trained hunting animals (mukallibīna, ''training them as dogs'')
+    catch for you is lawful: fa-kulū mimmā amsakna ʿalaykum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:30
+      lang: he
+      text: וְאַנְשֵׁי קֹ֖דֶשׁ תִּהְי֣וּן לִ֑י וּבָשָׂ֨ר בַּשָּׂדֶ֤ה טְרֵפָה֙ לֹ֣א תֹאכֵ֔לוּ לַכֶּ֖לֶב
+        תַּשְׁלִכ֥וּן אֹתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    - ref: Quran 5:4
+      lang: ar
+      text: يَسْـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمْ قُلْ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمْتُم مِّنَ
+        ٱلْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُ فَكُلُوا۟ مِمَّآ أَمْسَكْنَ
+        عَلَيْكُمْ وَٱذْكُرُوا۟ ٱسْمَ ٱللَّهِ عَلَيْهِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ
 ---
 
 ## Questions

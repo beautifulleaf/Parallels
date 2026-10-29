@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-8-what-is-man-vs-quran-95-fig
 title: Psalm 8 - what is man ↔ The fig and the olive, Mount Sinai and the secure city
-summary: 'These two units share 1 motifs: humankind created in the best of forms (ahsan taqwim), then
-  returned to the lowest of the low, except the believers [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,42 +13,9 @@ layers:
 - motif
 motifs:
 - human-created-in-best-stature-then-lowest-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 8:6
-  note: 'Humankind created in the best of forms (ahsan taqwim), then returned to the lowest of the low,
-    except the believers [divergence between the texts] (laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma
-    radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human
-    set high by God; the Psalm stops at the crowning, the Quran adds the fall to ''the lowest of the low''
-    except for believers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
-- tradition: islam
-  ref: Quran 95:4
-  note: 'Humankind created in the best of forms (ahsan taqwim), then returned to the lowest of the low,
-    except the believers [divergence between the texts] (laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma
-    radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human
-    set high by God; the Psalm stops at the crowning, the Quran adds the fall to ''the lowest of the low''
-    except for believers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ
-- tradition: islam
-  ref: Quran 95:5
-  note: 'Humankind created in the best of forms (ahsan taqwim), then returned to the lowest of the low,
-    except the believers [divergence between the texts] (laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma
-    radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human
-    set high by God; the Psalm stops at the crowning, the Quran adds the fall to ''the lowest of the low''
-    except for believers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû
-    meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human set high by God; the Psalm stops at the
-    crowning, the Quran adds the fall to ''the lowest of the low'' except for believers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humankind created in the best of forms (ahsan taqwim), then returned
     to the lowest of the low, except the believers [divergence between the texts] (weight 6.7). Pair score
@@ -82,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humankind created in the best of forms (ahsan taqwim), then returned to the lowest of the low,
+  except the believers
+kinds:
+- divergence
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: divergence
+  label: Humankind created in the best of forms (ahsan taqwim), then returned to the lowest of the low,
+    except the believers
+  note: 'laqad khalaqnā l-insāna fī aḥsani taqwīmin thumma radadnāhu asfala sāfilīn ~ wa-tteḥasserēhû
+    meʿaṭ mē-ʾĕlōhîm we-kāvôd we-hādār teʿaṭṭerēhû: the human set high by God; the Psalm stops at the
+    crowning, the Quran adds the fall to ''the lowest of the low'' except for believers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:6
+      lang: he
+      text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 95:4
+      lang: ar
+      text: لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ
+    - ref: Quran 95:5
+      lang: ar
+      text: ثُمَّ رَدَدْنَٰهُ أَسْفَلَ سَٰفِلِينَ
 ---
 
 ## Questions

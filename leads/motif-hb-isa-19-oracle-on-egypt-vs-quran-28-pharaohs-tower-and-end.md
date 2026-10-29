@@ -2,8 +2,7 @@
 id: motif-hb-isa-19-oracle-on-egypt-vs-quran-28-pharaohs-tower-and-end
 title: Oracle on Egypt; the drying Nile; an altar to YHWH in Egypt; 'Blessed be Egypt my people' ↔ Pharaoh,
   'no god but me', Haman's tower of fired brick, and the drowning
-summary: 'These two units share 1 motifs: the wise counselors of pharaoh in zoan and memphis are fools:
-  ''i am a son of the wise, a son of ancient kings''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - foolish-counselors-of-pharaoh
-passages:
-- tradition: judaism
-  ref: Isa 19:11-13
-  note: 'The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son
-    of ancient kings'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (19:11) אַךְ אֱוִלִים֙ שָׂ֣רֵי צֹ֔עַן חַכְמֵי֙ יֹעֲצֵ֣י פַרְעֹ֔ה עֵצָ֖ה נִבְעָרָ֑ה אֵ֚יךְ תֹּאמְר֣וּ
-    אֶל פַּרְעֹ֔ה בֶּן חֲכָמִ֥ים אֲנִ֖י בֶּן מַלְכֵי קֶֽדֶם (19:12) אַיָּם֙ אֵפ֣וֹא חֲכָמֶ֔יךָ וְיַגִּ֥ידוּ
-    נָ֖א לָ֑ךְ וְיֵ֣דְע֔וּ מַה יָּעַ֛ץ יְהוָ֥ה צְבָא֖וֹת עַל מִצְרָֽיִם (19:13) נֽוֹאֲלוּ֙ שָׂ֣רֵי צֹ֔עַן
-    נִשְּׁא֖וּ שָׂ֣רֵי נֹ֑ף הִתְע֥וּ אֶת מִצְרַ֖יִם פִּנַּ֥ת שְׁבָטֶֽיהָ
-- tradition: judaism
-  ref: Isa 19:11
-  note: 'The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son
-    of ancient kings'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַךְ אֱוִלִים֙ שָׂ֣רֵי צֹ֔עַן חַכְמֵי֙ יֹעֲצֵ֣י פַרְעֹ֔ה עֵצָ֖ה נִבְעָרָ֑ה אֵ֚יךְ תֹּאמְר֣וּ אֶל
-    פַּרְעֹ֔ה בֶּן חֲכָמִ֥ים אֲנִ֖י בֶּן מַלְכֵי קֶֽדֶם
-- tradition: islam
-  ref: Quran 28:38
-  note: 'The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son
-    of ancient kings'' (yā ayyuhā l-malaʾu ... fa-awqid lī yā Hāmānu ~ ʾak ʾĕwilîm śārê Ṣōʿan ḥakhmê yōʿăṣê
-    Farʿōh ʿēṣâ nivʿārâ: Pharaoh''s court and advisers as part of his folly.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
-    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
-    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yā ayyuhā l-malaʾu ... fa-awqid lī yā Hāmānu ~ ʾak ʾĕwilîm śārê Ṣōʿan ḥakhmê yōʿăṣê Farʿōh ʿēṣâ
-    nivʿārâ: Pharaoh''s court and advisers as part of his folly.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I
     am a son of the wise, a son of ancient kings'' (weight 6.7). Pair score 6.7.'
@@ -83,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son
+  of ancient kings'''
+kinds:
+- echo
+units:
+- id: hb-isa-19-oracle-on-egypt
+  title: Oracle on Egypt; the drying Nile; an altar to YHWH in Egypt; 'Blessed be Egypt my people'
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The wise counselors of Pharaoh in Zoan and Memphis are fools: ''I am a son of the wise, a son
+    of ancient kings'''
+  note: 'yā ayyuhā l-malaʾu ... fa-awqid lī yā Hāmānu ~ ʾak ʾĕwilîm śārê Ṣōʿan ḥakhmê yōʿăṣê Farʿōh ʿēṣâ
+    nivʿārâ: Pharaoh''s court and advisers as part of his folly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 19:11
+      lang: he
+      text: אַךְ אֱוִלִים֙ שָׂ֣רֵי צֹ֔עַן חַכְמֵי֙ יֹעֲצֵ֣י פַרְעֹ֔ה עֵצָ֖ה נִבְעָרָ֑ה אֵ֚יךְ תֹּאמְר֣וּ
+        אֶל פַּרְעֹ֔ה בֶּן חֲכָמִ֥ים אֲנִ֖י בֶּן מַלְכֵי קֶֽדֶם
+  - tradition: islam
+    passages:
+    - ref: Quran 28:38
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+        لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+        وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 ---
 
 ## Questions

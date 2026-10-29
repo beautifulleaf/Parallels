@@ -2,7 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-95-fig
 title: Lessons of the wilderness; the good land; beware of pride ↔ The fig and the olive, Mount Sinai
   and the secure city
-summary: 'These two units share 1 motifs: land of wheat, barley, vine, fig, pomegranate, olive and honey.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - seven-species-of-land
-passages:
-- tradition: judaism
-  ref: Deut 8:8
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
-- tradition: islam
-  ref: Quran 95:1
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey (the fig and the olive)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلتِّينِ وَٱلزَّيْتُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-t-tīni wa-z-zaytūn ~ ... û-teʾēnāh we-rimmôn ʾereṣ zêt šemen: fig and olive, two of the land''s
-    species.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
     5.8). Pair score 5.8.'
@@ -62,6 +48,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Land of wheat, barley, vine, fig, pomegranate, olive and honey
+kinds:
+- echo
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: echo
+  label: Land of wheat, barley, vine, fig, pomegranate, olive and honey
+  note: 'wa-t-tīni wa-z-zaytūn ~ ... û-teʾēnāh we-rimmôn ʾereṣ zêt šemen: fig and olive, two of the land''s
+    species.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:8
+      lang: he
+      text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 95:1
+      lang: ar
+      text: وَٱلتِّينِ وَٱلزَّيْتُونِ
 ---
 
 ## Questions

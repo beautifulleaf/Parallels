@@ -3,8 +3,7 @@ id: motif-hb-prov-11-sayings-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Sayings on honest scales, generosity and the fate of the wicked ↔ Al-Tahrim: the prohibited thing
   and the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter
   of ''Imran'
-summary: 'These two units share 1 motifs: the talebearer (rakhil) goes about revealing secrets; the faithful
-  conceal a matter.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - talebearer-reveals-secrets
-passages:
-- tradition: judaism
-  ref: Prov 11:13
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹלֵ֣ךְ רָ֭כִיל מְגַלֶּה סּ֑וֹד וְנֶאֱמַן ר֝֗וּחַ מְכַסֶּ֥ה דָבָֽר
-- tradition: islam
-  ref: Quran 66:3
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
-    ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ
-    هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-idh asarra n-nabiyyu ilā baʿḍi azwājihi ḥadīthan fa-lammā nabbaʾat bihi ~ hôlēk rākîl megalleh
-    sôd we-neʾĕman rûaḥ mekasseh dāvār. The divulged confidence; in the Quran God himself exposes the
-    leak (wa-aẓharahu llāhu ʿalayhi).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
     conceal a matter (weight 6.0). Pair score 6.0.'
@@ -76,6 +58,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+kinds:
+- echo
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+  note: wa-idh asarra n-nabiyyu ilā baʿḍi azwājihi ḥadīthan fa-lammā nabbaʾat bihi ~ hôlēk rākîl megalleh
+    sôd we-neʾĕman rûaḥ mekasseh dāvār. The divulged confidence; in the Quran God himself exposes the
+    leak (wa-aẓharahu llāhu ʿalayhi).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:13
+      lang: he
+      text: הוֹלֵ֣ךְ רָ֭כִיל מְגַלֶּה סּ֑וֹד וְנֶאֱמַן ר֝֗וּחַ מְכַסֶּ֥ה דָבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 66:3
+      lang: ar
+      text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
+        ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ
+        أَنۢبَأَكَ هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
 ---
 
 ## Questions

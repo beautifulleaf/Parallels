@@ -2,8 +2,7 @@
 id: motif-hb-gen-31-flight-from-laban-vs-quran-12-joseph-full
 title: Jacob's flight from Laban and the theft of the teraphim ↔ Joseph and his brothers (Surah 12, full
   read)
-summary: 'These two units share 2 motifs: brothers pursued and accused of theft, search proceeds through
-  the others'' bags before the youngest''s.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,73 +15,9 @@ layers:
 motifs:
 - theft-accusation-pursuit
 - search-eldest-to-youngest
-passages:
-- tradition: judaism
-  ref: Gen 31:23
-  note: Brothers pursued and accused of theft (search of tents one by one ending with Rachel's, like the
-    cup search in Gen 44)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֤ח אֶת אֶחָיו֙ עִמּ֔וֹ וַיִּרְדֹּ֣ף אַחֲרָ֔יו דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים וַיַּדְבֵּ֥ק
-    אֹת֖וֹ בְּהַ֥ר הַגִּלְעָֽד
-- tradition: judaism
-  ref: Gen 31:30
-  note: Brothers pursued and accused of theft (search of tents one by one ending with Rachel's, like the
-    cup search in Gen 44)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ הָלֹ֣ךְ הָלַ֔כְתָּ כִּֽי נִכְסֹ֥ף נִכְסַ֖פְתָּה לְבֵ֣ית אָבִ֑יךָ לָ֥מָּה גָנַ֖בְתָּ
-    אֶת אֱלֹהָֽי
-- tradition: islam
-  ref: Quran 12:70
-  note: Brothers pursued and accused of theft (a crier (muʾadhdhin) calls out 'O caravan, you are thieves')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ
-    أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
-- tradition: islam
-  ref: Quran 12:71
-  note: Brothers pursued and accused of theft (a crier (muʾadhdhin) calls out 'O caravan, you are thieves')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
-- tradition: judaism
-  ref: Gen 31:33
-  note: Search proceeds through the others' bags before the youngest's (Jacob's, Leah's, the handmaids',
-    then Rachel's tent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א מָצָ֑א
-    וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל
-- tradition: judaism
-  ref: Gen 31:32
-  note: Search proceeds through the others' bags before the youngest's (Jacob's, Leah's, the handmaids',
-    then Rachel's tent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר לְךָ֛ מָ֥ה עִמָּדִ֖י
-    וְקַֽח לָ֑ךְ וְלֹֽא יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם
-- tradition: islam
-  ref: Quran 12:76
-  note: Search proceeds through the others' bags before the youngest's
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ
-    كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ
-    دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
-- tradition: islam
-  ref: Quran 12:75
-  note: Search proceeds through the others' bags before the youngest's
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. Same pattern with roles reversed: the accused patriarch rashly names the penalty, ʿim ʾăšer
-    timṣāʾ ʾet-ʾĕlōhêkā lōʾ yiḥyeh, and the search goes tent by tent and ends with Rachel; jazāʾuhu man
-    wujida fī raḥlihi ... fa-badaʾa bi-awʿiyatihim. Rachel, mother of Joseph and Benjamin, really did
-    steal (wattignōb rāḥēl, 31:19). Q 12:77, in saraqa fa-qad saraqa akhun lahu min qabl, fixes an earlier
-    theft on the same maternal line; cf. later haggadic explanations, not in either text.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Brothers pursued and accused of theft (weight 5.8); Search proceeds
     through the others'' bags before the youngest''s (weight 5.8). Pair score 11.5.'
@@ -117,6 +52,81 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Search proceeds through the others' bags before the youngest's
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-31-flight-from-laban
+  title: Jacob's flight from Laban and the theft of the teraphim
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: echo
+  label: Search proceeds through the others' bags before the youngest's
+  note: 'Same pattern with roles reversed: the accused patriarch rashly names the penalty, ʿim ʾăšer timṣāʾ
+    ʾet-ʾĕlōhêkā lōʾ yiḥyeh, and the search goes tent by tent and ends with Rachel; jazāʾuhu man wujida
+    fī raḥlihi ... fa-badaʾa bi-awʿiyatihim. Rachel, mother of Joseph and Benjamin, really did steal (wattignōb
+    rāḥēl, 31:19). Q 12:77, in saraqa fa-qad saraqa akhun lahu min qabl, fixes an earlier theft on the
+    same maternal line; cf. later haggadic explanations, not in either text.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 31:32
+      lang: he
+      text: עִ֠ם אֲשֶׁ֨ר תִּמְצָ֣א אֶת אֱלֹהֶיךָ֮ לֹ֣א יִֽחְיֶה֒ נֶ֣גֶד אַחֵ֧ינוּ הַֽכֶּר לְךָ֛ מָ֥ה עִמָּדִ֖י
+        וְקַֽח לָ֑ךְ וְלֹֽא יָדַ֣ע יַעֲקֹ֔ב כִּ֥י רָחֵ֖ל גְּנָבָֽתַם
+    - ref: Gen 31:33
+      lang: he
+      text: וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א
+        מָצָ֑א וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל
+    - ref: Gen 31:35
+      lang: he
+      text: וַתֹּ֣אמֶר אֶל אָבִ֗יהָ אַל יִ֨חַר֙ בְּעֵינֵ֣י אֲדֹנִ֔י כִּ֣י ל֤וֹא אוּכַל֙ לָק֣וּם מִפָּנֶ֔יךָ
+        כִּי דֶ֥רֶךְ נָשִׁ֖ים לִ֑י וַיְחַפֵּ֕שׂ וְלֹ֥א מָצָ֖א אֶת הַתְּרָפִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 12:75
+      lang: ar
+      text: قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ
+    - ref: Quran 12:76
+      lang: ar
+      text: فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ
+        كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ
+        ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ
+- kind: shared
+  label: Brothers pursued and accused of theft
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 31:23
+      lang: he
+      text: וַיִּקַּ֤ח אֶת אֶחָיו֙ עִמּ֔וֹ וַיִּרְדֹּ֣ף אַחֲרָ֔יו דֶּ֖רֶךְ שִׁבְעַ֣ת יָמִ֑ים וַיַּדְבֵּ֥ק
+        אֹת֖וֹ בְּהַ֥ר הַגִּלְעָֽד
+    - ref: Gen 31:30
+      lang: he
+      text: וְעַתָּה֙ הָלֹ֣ךְ הָלַ֔כְתָּ כִּֽי נִכְסֹ֥ף נִכְסַ֖פְתָּה לְבֵ֣ית אָבִ֑יךָ לָ֥מָּה גָנַ֖בְתָּ
+        אֶת אֱלֹהָֽי
+    - ref: Gen 31:33
+      lang: he
+      text: וַיָּבֹ֨א לָבָ֜ן בְּאֹ֥הֶל יַעֲקֹ֣ב וּבְאֹ֣הֶל לֵאָ֗ה וּבְאֹ֛הֶל שְׁתֵּ֥י הָאֲמָהֹ֖ת וְלֹ֣א
+        מָצָ֑א וַיֵּצֵא֙ מֵאֹ֣הֶל לֵאָ֔ה וַיָּבֹ֖א בְּאֹ֥הֶל רָחֵֽל
+    note: search of tents one by one ending with Rachel's, like the cup search in Gen 44
+  - tradition: islam
+    passages:
+    - ref: Quran 12:70
+      lang: ar
+      text: فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ
+        أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ
+    - ref: Quran 12:71
+      lang: ar
+      text: قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ
+    - ref: Quran 12:73
+      lang: ar
+      text: قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ
+    note: a crier (muʾadhdhin) calls out 'O caravan, you are thieves'
 ---
 
 ## Questions

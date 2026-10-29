@@ -2,7 +2,7 @@
 id: motif-hb-lev-26-curses-vs-quran-7-sabbath-town
 title: Covenant curses, exile, and remembered covenant ↔ The Sabbath-breaking seaside town turned into
   apes
-summary: 'These two units share 1 motifs: curse: god will scatter the people among the nations.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - scattering-among-nations
-passages:
-- tradition: judaism
-  ref: Lev 26:33
-  note: 'Curse: God will scatter the people among the nations'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶתְכֶם֙ אֱזָרֶ֣ה בַגּוֹיִ֔ם וַהֲרִיקֹתִ֥י אַחֲרֵיכֶ֖ם חָ֑רֶב וְהָיְתָ֤ה אַרְצְכֶם֙ שְׁמָמָ֔ה
-    וְעָרֵיכֶ֖ם יִהְי֥וּ חָרְבָּֽה
-- tradition: judaism
-  ref: Lev 26:38
-  note: 'Curse: God will scatter the people among the nations'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲבַדְתֶּ֖ם בַּגּוֹיִ֑ם וְאָכְלָ֣ה אֶתְכֶ֔ם אֶ֖רֶץ אֹיְבֵיכֶֽם
-- tradition: islam
-  ref: Quran 7:168
-  note: 'Curse: God will scatter the people among the nations (Dispersion of Israel: wa-qaṭṭaʿnāhum fī
-    l-arḍi umaman vs wᵉʾetkem ʾĕzāreh baggôyim. Changed: in Lev it is a curse; Q states it as a fact and
-    adds that some of the scattered are righteous (minhumu ṣ-ṣāliḥūna wa-minhum dūna dhālika).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
-    بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Dispersion of Israel: wa-qaṭṭaʿnāhum fī l-arḍi umaman vs wᵉʾetkem ʾĕzāreh baggôyim. Changed:
-    in Lev it is a curse; Q states it as a fact and adds that some of the scattered are righteous (minhumu
-    ṣ-ṣāliḥūna wa-minhum dūna dhālika).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Curse: God will scatter the people among the nations (weight 5.4).
     Pair score 5.4.'
@@ -74,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Curse: God will scatter the people among the nations'
+kinds:
+- parallel
+units:
+- id: hb-lev-26-curses
+  title: Covenant curses, exile, and remembered covenant
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Curse: God will scatter the people among the nations'
+  note: 'Dispersion of Israel: wa-qaṭṭaʿnāhum fī l-arḍi umaman vs wᵉʾetkem ʾĕzāreh baggôyim. Changed:
+    in Lev it is a curse; Q states it as a fact and adds that some of the scattered are righteous (minhumu
+    ṣ-ṣāliḥūna wa-minhum dūna dhālika).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:33
+      lang: he
+      text: וְאֶתְכֶם֙ אֱזָרֶ֣ה בַגּוֹיִ֔ם וַהֲרִיקֹתִ֥י אַחֲרֵיכֶ֖ם חָ֑רֶב וְהָיְתָ֤ה אַרְצְכֶם֙ שְׁמָמָ֔ה
+        וְעָרֵיכֶ֖ם יִהְי֥וּ חָרְבָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:168
+      lang: ar
+      text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
+        بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
 ---
 
 ## Questions

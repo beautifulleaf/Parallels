@@ -2,9 +2,7 @@
 id: motif-hb-gen-3-fall-expulsion-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'The serpent, the eating, the curses and the expulsion ↔ Qaf: wonder at the warner, the earth that
   consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 2 motifs: humans return to the earth they were taken from (and, in the
-  quran, are brought out of it again) [divergence between the texts], human comes from dust and returns
-  to dust.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,48 +15,9 @@ layers:
 motifs:
 - return-to-the-earth-as-divergence
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Gen 3:19
-  note: 'Humans return to the earth they were taken from (and, in the Quran, are brought out of it again)
-    [divergence between the texts] (Gen: ʿad šûvəkhā ʾel-hā-ʾădāmāh kî mimmennāh luqqāḥtā kî-ʿāfār ʾattāh
-    wə-ʾel-ʿāfār tāšûv, from dust and back to dust, as a curse. Q: fīhā taḥyawna wa-fīhā tamūtūna wa-minhā
-    tukhrajūna. Q adds the third step, resurrection from the earth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ
-    כִּֽי עָפָ֣ר אַ֔תָּה וְאֶל עָפָ֖ר תָּשֽׁוּב
-- tradition: islam
-  ref: Quran 50:3
-  note: 'Humans return to the earth they were taken from (and, in the Quran, are brought out of it again)
-    [divergence between the texts] (Return to dust, read as the end or as a step. Genesis: ʿaḏ šûḇəḵā
-    ʾel hā-ʾăḏāmâ ... kî ʿāp̄ār ʾattâ wə-ʾel ʿāp̄ār tāšûḇ (the sentence ends with the return to dust).
-    Deniers in Q 50:3: a-idhā mitnā wa-kunnā turāban dhālika rajʿun baʿīd (when we are dust, that would
-    be a far-fetched return), answered by 50:4 and by the rain-revived land, ka-dhālika l-khurūj (50:11).
-    The ''return'' (šûḇ / rajʿ) to dust in Genesis becomes, in the Quran, the disputed return from dust.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
-- tradition: judaism
-  ref: Gen 3:19
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ
-    כִּֽי עָפָ֣ר אַ֔תָּה וְאֶל עָפָ֖ר תָּשֽׁוּב
-- tradition: islam
-  ref: Quran 50:3
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Return to dust, read as the end or as a step. Genesis: ʿaḏ šûḇəḵā ʾel hā-ʾăḏāmâ ... kî
-    ʿāp̄ār ʾattâ wə-ʾel ʿāp̄ār tāšûḇ (the sentence ends with the return to dust). Deniers in Q 50:3: a-idhā
-    mitnā wa-kunnā turāban dhālika rajʿun baʿīd (when we are dust, that would be a far-fetched return),
-    answered by 50:4 and by the rain-revived land, ka-dhālika l-khurūj (50:11). The ''return'' (šûḇ /
-    rajʿ) to dust in Genesis becomes, in the Quran, the disputed return from dust.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans return to the earth they were taken from (and, in the Quran,
     are brought out of it again) [divergence between the texts] (weight 6.3); Human comes from dust and
@@ -96,6 +55,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans return to the earth they were taken from (and, in the Quran, are brought out of it again)
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-3-fall-expulsion
+  title: The serpent, the eating, the curses and the expulsion
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Humans return to the earth they were taken from (and, in the Quran, are brought out of it again)
+  note: 'Return to dust, read as the end or as a step. Genesis: ʿaḏ šûḇəḵā ʾel hā-ʾăḏāmâ ... kî ʿāp̄ār
+    ʾattâ wə-ʾel ʿāp̄ār tāšûḇ (the sentence ends with the return to dust). Deniers in Q 50:3: a-idhā mitnā
+    wa-kunnā turāban dhālika rajʿun baʿīd (when we are dust, that would be a far-fetched return), answered
+    by 50:4 and by the rain-revived land, ka-dhālika l-khurūj (50:11). The ''return'' (šûḇ / rajʿ) to
+    dust in Genesis becomes, in the Quran, the disputed return from dust.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:19
+      lang: he
+      text: בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ
+        כִּֽי עָפָ֣ר אַ֔תָּה וְאֶל עָפָ֖ר תָּשֽׁוּב
+  - tradition: islam
+    passages:
+    - ref: Quran 50:3
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+- kind: shared
+  label: Human comes from dust and returns to dust
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:19
+      lang: he
+      text: בְּזֵעַ֤ת אַפֶּ֨יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ
+        כִּֽי עָפָ֣ר אַ֔תָּה וְאֶל עָפָ֖ר תָּשֽׁוּב
+  - tradition: islam
+    passages:
+    - ref: Quran 50:3
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
 ---
 
 ## Questions

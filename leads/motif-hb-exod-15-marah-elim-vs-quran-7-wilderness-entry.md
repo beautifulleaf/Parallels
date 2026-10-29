@@ -2,8 +2,7 @@
 id: motif-hb-exod-15-marah-elim-vs-quran-7-wilderness-entry
 title: Bitter water sweetened at Marah; Elim's twelve springs and seventy palms ↔ Twelve tribes, twelve
   springs, and the word changed at the gate
-summary: 'These two units share 2 motifs: twelve springs in the wilderness [divergence between the texts],
-  oasis with twelve springs and seventy palm trees.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,54 +15,9 @@ layers:
 motifs:
 - twelve-springs-as-divergence
 - twelve-springs-seventy-palms
-passages:
-- tradition: judaism
-  ref: Exod 15:27
-  note: 'Twelve springs in the wilderness [divergence between the texts] (Exod 15:27 wa-yyābōʾû ʾêlimâ
-    wĕ-šām šĕtêm ʿeśrēh ʿênōt mayim wĕ-šibʿîm tĕmārîm: twelve springs at the oasis of Elim; Q 2:60 fa-nfajarat
-    minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum: twelve springs (cognate numeral
-    + ʿayin) burst from the struck rock, one per tribe. The Elim springs are moved into the rock miracle;
-    the seventy palms are dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ
-    שָׁ֖ם עַל הַמָּֽיִם
-- tradition: islam
-  ref: Quran 7:160
-  note: 'Twelve springs in the wilderness [divergence between the texts] (Twelve springs: fa-nbajasat
-    minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum vs šᵉtêm ʿeśrēh ʿênōt mayim wᵉšibʿîm
-    tᵉmārîm (ʿayn = ʿayin). Elim''s natural oasis becomes the miracle of the struck rock, and the twelve
-    springs are tied to the twelve tribes (ithnatay ʿashrata asbāṭan; asbāṭ = šᵉbāṭîm); the seventy palms
-    are dropped.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ
-    قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ
-    كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-    كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Exod 15:27
-  note: Oasis with twelve springs and seventy palm trees
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ
-    שָׁ֖ם עַל הַמָּֽיִם
-- tradition: islam
-  ref: Quran 7:160
-  note: Oasis with twelve springs and seventy palm trees (Elim's twelve springs merged with the struck
-    rock)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ
-    قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ
-    كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-    كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Twelve springs: fa-nbajasat minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum
-    vs šᵉtêm ʿeśrēh ʿênōt mayim wᵉšibʿîm tᵉmārîm (ʿayn = ʿayin). Elim''s natural oasis becomes the miracle
-    of the struck rock, and the twelve springs are tied to the twelve tribes (ithnatay ʿashrata asbāṭan;
-    asbāṭ = šᵉbāṭîm); the seventy palms are dropped.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Twelve springs in the wilderness [divergence between the texts]
     (weight 6.3); Oasis with twelve springs and seventy palm trees (weight 6.0). Pair score 12.3.'
@@ -92,6 +46,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Twelve springs in the wilderness
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-15-marah-elim
+  title: Bitter water sweetened at Marah; Elim's twelve springs and seventy palms
+  tradition: judaism
+- id: quran-7-wilderness-entry
+  title: Twelve tribes, twelve springs, and the word changed at the gate
+  tradition: islam
+matches:
+- kind: divergence
+  label: Twelve springs in the wilderness
+  note: 'Twelve springs: fa-nbajasat minhu thnatā ʿashrata ʿaynan qad ʿalima kullu unāsin mashrabahum
+    vs šᵉtêm ʿeśrēh ʿênōt mayim wᵉšibʿîm tᵉmārîm (ʿayn = ʿayin). Elim''s natural oasis becomes the miracle
+    of the struck rock, and the twelve springs are tied to the twelve tribes (ithnatay ʿashrata asbāṭan;
+    asbāṭ = šᵉbāṭîm); the seventy palms are dropped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:27
+      lang: he
+      text: וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ
+        שָׁ֖ם עַל הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:160
+      lang: ar
+      text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ
+        ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ
+        عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا
+        عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن
+        كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: shared
+  label: Oasis with twelve springs and seventy palm trees
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:27
+      lang: he
+      text: וַיָּבֹ֣אוּ אֵילִ֔מָה וְשָׁ֗ם שְׁתֵּ֥ים עֶשְׂרֵ֛ה עֵינֹ֥ת מַ֖יִם וְשִׁבְעִ֣ים תְּמָרִ֑ים וַיַּחֲנוּ
+        שָׁ֖ם עַל הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:160
+      lang: ar
+      text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ
+        ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ
+        عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا
+        عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن
+        كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    note: Elim's twelve springs merged with the struck rock
 ---
 
 ## Questions

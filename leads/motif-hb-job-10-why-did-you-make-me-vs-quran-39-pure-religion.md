@@ -2,8 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-39-pure-religion
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Pure religion; no son for God; creation from
   one soul in three darknesses
-summary: 'These two units share 1 motifs: god creates you in your mothers'' bellies creation after creation
-  in three darknesses.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - creation-in-womb-in-three-darknesses
-passages:
-- tradition: judaism
-  ref: Job 10:10
-  note: 'God creates you in your mothers'' bellies creation after creation in three darknesses (hă-lōʾ
-    ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi khalq: the
-    embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages to protest;
-    the Quran mentions them as a sign of the One God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
-- tradition: judaism
-  ref: Job 10:11
-  note: 'God creates you in your mothers'' bellies creation after creation in three darknesses (hă-lōʾ
-    ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi khalq: the
-    embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages to protest;
-    the Quran mentions them as a sign of the One God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
-- tradition: islam
-  ref: Quran 39:6
-  note: God creates you in your mothers' bellies creation after creation in three darknesses
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
-    ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى ظُلُمَٰتٍ
-    ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُصْرَفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi
-    khalq: the embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages
-    to protest; the Quran mentions them as a sign of the One God.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God creates you in your mothers'' bellies creation after creation
     in three darknesses (weight 6.7). Pair score 6.7.'
@@ -82,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God creates you in your mothers' bellies creation after creation in three darknesses
+kinds:
+- echo
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: echo
+  label: God creates you in your mothers' bellies creation after creation in three darknesses
+  note: 'hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. khalqan min baʿdi
+    khalq: the embryo made in successive stages (milk, cheese, skin, flesh, bones). Job lists the stages
+    to protest; the Quran mentions them as a sign of the One God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    - ref: Job 10:11
+      lang: he
+      text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 39:6
+      lang: ar
+      text: خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ ثُمَّ جَعَلَ مِنْهَا زَوْجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلْأَنْعَٰمِ
+        ثَمَٰنِيَةَ أَزْوَٰجٍ يَخْلُقُكُمْ فِى بُطُونِ أُمَّهَٰتِكُمْ خَلْقًا مِّنۢ بَعْدِ خَلْقٍ فِى
+        ظُلُمَٰتٍ ثَلَٰثٍ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ
+        تُصْرَفُونَ
 ---
 
 ## Questions

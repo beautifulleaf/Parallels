@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-18-carmel-vs-quran-46-ahqaf-gods-and-the-book-of-moses
 title: 'Contest on Mount Carmel ↔ Ha-Mim: the idols created nothing; a witness from Israel; the Book of
   Moses'
-summary: 'These two units share 1 motifs: at judgment the associated ''partners'' disown their worshipers:
-  ''it was not us you worshiped''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - false-gods-disown-worshipers
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:26
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped''
-    (Gods that do not answer their callers: hab-baʿal ʿănēnû wə-ʾên qôl wə-ʾên ʿōneh ... wə-ʾên qāšeḇ
-    vs. man yadʿū min dūni llāhi man lā yastajību lahu ilā yawmi l-qiyāmati wa-hum ʿan duʿāʾihim ghāfilūn.
-    Carmel is one decisive test; the Quran extends the silence to the Day of Resurrection, when they turn
-    enemies (46:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יִּקְחוּ אֶת הַפָּ֨ר אֲשֶׁר נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם הַ֠בַּעַל מֵהַבֹּ֨קֶר
-    וְעַד הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ עַל הַמִּזְבֵּ֖חַ
-    אֲשֶׁ֥ר עָשָֽׂה
-- tradition: judaism
-  ref: 1Kgs 18:29
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped''
-    (Gods that do not answer their callers: hab-baʿal ʿănēnû wə-ʾên qôl wə-ʾên ʿōneh ... wə-ʾên qāšeḇ
-    vs. man yadʿū min dūni llāhi man lā yastajību lahu ilā yawmi l-qiyāmati wa-hum ʿan duʿāʾihim ghāfilūn.
-    Carmel is one decisive test; the Quran extends the silence to the Day of Resurrection, when they turn
-    enemies (46:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִי֙ כַּעֲבֹ֣ר הַֽצָּהֳרַ֔יִם וַיִּֽתְנַבְּא֔וּ עַ֖ד לַעֲל֣וֹת הַמִּנְחָ֑ה וְאֵֽין ק֥וֹל
-    וְאֵין עֹנֶ֖ה וְאֵ֥ין קָֽשֶׁב
-- tradition: islam
-  ref: Quran 46:5
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ
-- tradition: islam
-  ref: Quran 46:6
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Gods that do not answer their callers: hab-baʿal ʿănēnû wə-ʾên qôl wə-ʾên ʿōneh ... wə-ʾên qāšeḇ
-    vs. man yadʿū min dūni llāhi man lā yastajību lahu ilā yawmi l-qiyāmati wa-hum ʿan duʿāʾihim ghāfilūn.
-    Carmel is one decisive test; the Quran extends the silence to the Day of Resurrection, when they turn
-    enemies (46:6).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At judgment the associated ''partners'' disown their worshipers:
     ''it was not us you worshiped'' (weight 5.0). Pair score 5.0.'
@@ -94,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
+kinds:
+- echo
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-46-ahqaf-gods-and-the-book-of-moses
+  title: 'Ha-Mim: the idols created nothing; a witness from Israel; the Book of Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
+  note: 'Gods that do not answer their callers: hab-baʿal ʿănēnû wə-ʾên qôl wə-ʾên ʿōneh ... wə-ʾên qāšeḇ
+    vs. man yadʿū min dūni llāhi man lā yastajību lahu ilā yawmi l-qiyāmati wa-hum ʿan duʿāʾihim ghāfilūn.
+    Carmel is one decisive test; the Quran extends the silence to the Day of Resurrection, when they turn
+    enemies (46:6).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:26
+      lang: he
+      text: וַ֠יִּקְחוּ אֶת הַפָּ֨ר אֲשֶׁר נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם הַ֠בַּעַל
+        מֵהַבֹּ֨קֶר וְעַד הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ
+        עַל הַמִּזְבֵּ֖חַ אֲשֶׁ֥ר עָשָֽׂה
+    - ref: 1Kgs 18:29
+      lang: he
+      text: וַֽיְהִי֙ כַּעֲבֹ֣ר הַֽצָּהֳרַ֔יִם וַיִּֽתְנַבְּא֔וּ עַ֖ד לַעֲל֣וֹת הַמִּנְחָ֑ה וְאֵֽין ק֥וֹל
+        וְאֵין עֹנֶ֖ה וְאֵ֥ין קָֽשֶׁב
+  - tradition: islam
+    passages:
+    - ref: Quran 46:5
+      lang: ar
+      text: وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ
+        ٱلْقِيَٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ
 ---
 
 ## Questions

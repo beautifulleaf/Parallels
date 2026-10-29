@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-2-throne-verse
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Ranks of the
   messengers and the Throne Verse
-summary: 'These two units share 1 motifs: god brings believers out of darknesses into light; false gods
-  lead others from light into darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - from-darkness-to-light
-passages:
-- tradition: judaism
-  ref: Ps 107:14
-  note: 'God brings believers out of darknesses into light; false gods lead others from light into darkness
-    (Ps 107:14 yôṣîʾēm mē-ḥōšek wĕ-ṣalmāwet: God brings the prisoners out of darkness and death-shadow;
-    Q 2:257 allāhu waliyyu lladhīna āmanū yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr: God brings the believers
-    out of darknesses into light. Rescue from prison becomes coming to faith; the Quran adds the reverse,
-    false gods leading from light to darkness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֽ֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק
-- tradition: islam
-  ref: Quran 2:257
-  note: God brings believers out of darknesses into light; false gods lead others from light into darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَٱلَّذِينَ
-    كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ
-    أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 107:14 yôṣîʾēm mē-ḥōšek wĕ-ṣalmāwet: God brings the prisoners out of darkness and death-shadow;
-    Q 2:257 allāhu waliyyu lladhīna āmanū yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr: God brings the believers
-    out of darknesses into light. Rescue from prison becomes coming to faith; the Quran adds the reverse,
-    false gods leading from light to darkness.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings believers out of darknesses into light; false gods lead
     others from light into darkness (weight 5.4). Pair score 5.4.'
@@ -75,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God brings believers out of darknesses into light; false gods lead others from light into darkness
+kinds:
+- echo
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: echo
+  label: God brings believers out of darknesses into light; false gods lead others from light into darkness
+  note: 'Ps 107:14 yôṣîʾēm mē-ḥōšek wĕ-ṣalmāwet: God brings the prisoners out of darkness and death-shadow;
+    Q 2:257 allāhu waliyyu lladhīna āmanū yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr: God brings the believers
+    out of darknesses into light. Rescue from prison becomes coming to faith; the Quran adds the reverse,
+    false gods leading from light to darkness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:14
+      lang: he
+      text: יֽ֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 2:257
+      lang: ar
+      text: ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَٱلَّذِينَ
+        كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ
+        أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

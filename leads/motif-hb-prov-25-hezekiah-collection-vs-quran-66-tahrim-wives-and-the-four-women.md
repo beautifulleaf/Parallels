@@ -3,8 +3,7 @@ id: motif-hb-prov-25-hezekiah-collection-vs-quran-66-tahrim-wives-and-the-four-w
 title: 'Proverbs of Solomon copied by Hezekiah''s men (king, speech, enemies) ↔ Al-Tahrim: the prohibited
   thing and the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and
   Mary daughter of ''Imran'
-summary: 'These two units share 1 motifs: the talebearer (rakhil) goes about revealing secrets; the faithful
-  conceal a matter.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - talebearer-reveals-secrets
-passages:
-- tradition: judaism
-  ref: Prov 25:9
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רִֽ֭יבְךָ רִ֣יב אֶת רֵעֶ֑ךָ וְס֖וֹד אַחֵ֣ר אַל תְּגָֽל
-- tradition: judaism
-  ref: Prov 25:10
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽן יְחַסֶּדְךָ֥ שֹׁמֵ֑עַ וְ֝דִבָּתְךָ֗ לֹ֣א תָשֽׁוּב
-- tradition: islam
-  ref: Quran 66:3
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
-    ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ
-    هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. asarra ... ḥadīthan ~ we-sôd ʾaḥēr ʾal tegal.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
     conceal a matter (weight 6.0). Pair score 6.0.'
@@ -80,6 +58,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+kinds:
+- echo
+units:
+- id: hb-prov-25-hezekiah-collection
+  title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies)
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+  note: asarra ... ḥadīthan ~ we-sôd ʾaḥēr ʾal tegal.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 25:9
+      lang: he
+      text: רִֽ֭יבְךָ רִ֣יב אֶת רֵעֶ֑ךָ וְס֖וֹד אַחֵ֣ר אַל תְּגָֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 66:3
+      lang: ar
+      text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
+        ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ
+        أَنۢبَأَكَ هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-8-stork-and-lying-pen-vs-quran-6-prophets-lineage-torah-sheets
 title: The stork knows its seasons; the lying pen of the scribes ↔ Abraham's line of eighteen prophets;
   Torah in sheets; the false claimant
-summary: 'These two units share 1 motifs: ''how can you say we are wise, and the torah of yhwh is with
-  us?'' the lying pen of the scribes has made it a lie.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - lying-pen-of-scribes
-passages:
-- tradition: judaism
-  ref: Jer 8:8
-  note: '''How can you say We are wise, and the Torah of YHWH is with us?'' The lying pen of the scribes
-    has made it a lie'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיכָ֤ה תֹֽאמְרוּ֙ חֲכָמִ֣ים אֲנַ֔חְנוּ וְתוֹרַ֥ת יְהוָ֖ה אִתָּ֑נוּ אָכֵן֙ הִנֵּ֣ה לַשֶּׁ֣קֶר
-    עָשָׂ֔ה עֵ֖ט שֶׁ֥קֶר סֹפְרִֽים
-- tradition: judaism
-  ref: Jer 8:9
-  note: '''How can you say We are wise, and the Torah of YHWH is with us?'' The lying pen of the scribes
-    has made it a lie'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֹבִ֣ישׁוּ חֲכָמִ֔ים חַ֖תּוּ וַיִּלָּכֵ֑דוּ הִנֵּ֤ה בִדְבַר יְהוָה֙ מָאָ֔סוּ וְחָכְמַֽת מֶ֖ה לָהֶֽם
-- tradition: islam
-  ref: Quran 6:91
-  note: '''How can you say We are wise, and the Torah of YHWH is with us?'' The lying pen of the scribes
-    has made it a lie (The custodians of the written Torah are accused of handling it falsely. Jer: ʾêkhāh
-    tōʾmərû ḥăkhāmîm ʾănaḥnû wə-tôrat YHWH ʾittānû ʾākhēn hinnēh laš-šeqer ʿāśāh ʿēṭ šeqer sōfərîm. Q:
-    qul man anzala l-kitāba lladhī jāʾa bihi Mūsā nūran wa-hudan li-l-nāsi tajʿalūnahu qarāṭīsa tubdūnahā
-    wa-tukhfūna kathīran. In Jer the scribes falsify by writing; in Q they reveal some sheets and hide
-    many.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن
-    شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ تَجْعَلُونَهُۥ
-    قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ
-    قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The custodians of the written Torah are accused of handling it falsely. Jer: ʾêkhāh tōʾmərû
-    ḥăkhāmîm ʾănaḥnû wə-tôrat YHWH ʾittānû ʾākhēn hinnēh laš-šeqer ʿāśāh ʿēṭ šeqer sōfərîm. Q: qul man
-    anzala l-kitāba lladhī jāʾa bihi Mūsā nūran wa-hudan li-l-nāsi tajʿalūnahu qarāṭīsa tubdūnahā wa-tukhfūna
-    kathīran. In Jer the scribes falsify by writing; in Q they reveal some sheets and hide many.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''How can you say We are wise, and the Torah of YHWH is with us?''
     The lying pen of the scribes has made it a lie (weight 6.7). Pair score 6.7.'
@@ -83,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''How can you say We are wise, and the Torah of YHWH is with us?'' The lying pen of the scribes
+  has made it a lie'
+kinds:
+- echo
+units:
+- id: hb-jer-8-stork-and-lying-pen
+  title: The stork knows its seasons; the lying pen of the scribes
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: echo
+  label: '''How can you say We are wise, and the Torah of YHWH is with us?'' The lying pen of the scribes
+    has made it a lie'
+  note: 'The custodians of the written Torah are accused of handling it falsely. Jer: ʾêkhāh tōʾmərû ḥăkhāmîm
+    ʾănaḥnû wə-tôrat YHWH ʾittānû ʾākhēn hinnēh laš-šeqer ʿāśāh ʿēṭ šeqer sōfərîm. Q: qul man anzala l-kitāba
+    lladhī jāʾa bihi Mūsā nūran wa-hudan li-l-nāsi tajʿalūnahu qarāṭīsa tubdūnahā wa-tukhfūna kathīran.
+    In Jer the scribes falsify by writing; in Q they reveal some sheets and hide many.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 8:8
+      lang: he
+      text: אֵיכָ֤ה תֹֽאמְרוּ֙ חֲכָמִ֣ים אֲנַ֔חְנוּ וְתוֹרַ֥ת יְהוָ֖ה אִתָּ֑נוּ אָכֵן֙ הִנֵּ֣ה לַשֶּׁ֣קֶר
+        עָשָׂ֔ה עֵ֖ט שֶׁ֥קֶר סֹפְרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 6:91
+      lang: ar
+      text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ
+        مِّن شَىْءٍ قُلْ مَنْ أَنزَلَ ٱلْكِتَٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ
+        تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟
+        أَنتُمْ وَلَآ ءَابَآؤُكُمْ قُلِ ٱللَّهُ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ
 ---
 
 ## Questions

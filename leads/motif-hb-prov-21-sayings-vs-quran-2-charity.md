@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-21-sayings-vs-quran-2-charity
 title: Sayings on the king's heart, justice over sacrifice, and the contentious wife ↔ Parables of charity
-summary: 'These two units share 1 motifs: giving charity openly is good, but giving it secretly to the
-  poor is better and expiates sins.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - secret-charity-better
-passages:
-- tradition: judaism
-  ref: Prov 21:14
-  note: 'Giving charity openly is good, but giving it secretly to the poor is better and expiates sins
-    (Prov 21:14 mattān ba-sseter yikpeh ʾāp: a gift given in secret averts anger (of a man); Q 2:271 wa-in
-    tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum wa-yukaffiru ʿankum: secret alms are better and
-    cover sins before God. Secret giving that averts anger or covers sin; ka-pāh ''avert'' and kaffara
-    ''cover/expiate'' are close in sense though not cognate.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַתָּ֣ן בַּ֭סֵּתֶר יִכְפֶּה אָ֑ף וְשֹׁ֥חַד בַּ֝חֵ֗ק חֵמָ֥ה עַזָּֽה
-- tradition: islam
-  ref: Quran 2:271
-  note: Giving charity openly is good, but giving it secretly to the poor is better and expiates sins
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ
-    خَيْرٌ لَّكُمْ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-- tradition: islam
-  ref: Quran 2:274
-  note: Giving charity openly is good, but giving it secretly to the poor is better and expiates sins
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ
-    عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Prov 21:14 mattān ba-sseter yikpeh ʾāp: a gift given in secret averts anger (of a man); Q 2:271
-    wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum wa-yukaffiru ʿankum: secret alms are better
-    and cover sins before God. Secret giving that averts anger or covers sin; ka-pāh ''avert'' and kaffara
-    ''cover/expiate'' are close in sense though not cognate.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Giving charity openly is good, but giving it secretly to the poor
     is better and expiates sins (weight 6.7). Pair score 6.7.'
@@ -79,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Giving charity openly is good, but giving it secretly to the poor is better and expiates sins
+kinds:
+- echo
+units:
+- id: hb-prov-21-sayings
+  title: Sayings on the king's heart, justice over sacrifice, and the contentious wife
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: echo
+  label: Giving charity openly is good, but giving it secretly to the poor is better and expiates sins
+  note: 'Prov 21:14 mattān ba-sseter yikpeh ʾāp: a gift given in secret averts anger (of a man); Q 2:271
+    wa-in tukhfūhā wa-tuʾtūhā l-fuqarāʾa fa-huwa khayrun lakum wa-yukaffiru ʿankum: secret alms are better
+    and cover sins before God. Secret giving that averts anger or covers sin; ka-pāh ''avert'' and kaffara
+    ''cover/expiate'' are close in sense though not cognate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 21:14
+      lang: he
+      text: מַתָּ֣ן בַּ֭סֵּתֶר יִכְפֶּה אָ֑ף וְשֹׁ֥חַד בַּ֝חֵ֗ק חֵמָ֥ה עַזָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:271
+      lang: ar
+      text: إِن تُبْدُوا۟ ٱلصَّدَقَٰتِ فَنِعِمَّا هِىَ وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ
+        خَيْرٌ لَّكُمْ وَيُكَفِّرُ عَنكُم مِّن سَيِّـَٔاتِكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+    - ref: Quran 2:274
+      lang: ar
+      text: ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُم بِٱلَّيْلِ وَٱلنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ
+        عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 ---
 
 ## Questions

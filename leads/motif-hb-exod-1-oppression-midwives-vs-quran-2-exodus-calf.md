@@ -2,8 +2,7 @@
 id: motif-hb-exod-1-oppression-midwives-vs-quran-2-exodus-calf
 title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons ↔ Exodus, the calf and
   the wilderness
-summary: 'These two units share 2 motifs: ruler orders the killing of male infants [divergence between
-  the texts], ruler orders the killing of male infants.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,73 +15,9 @@ layers:
 motifs:
 - king-kills-male-infants-as-divergence
 - king-kills-male-infants
-passages:
-- tradition: judaism
-  ref: Exod 1:16
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (Exod 1:22 kol ha-bēn
-    ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna abnāʾakum wa-yastaḥyūna
-    nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both: tĕḥayyûn / yastaḥyūna),
-    but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes the deed of ''the
-    house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun min rabbikum
-    ʿaẓīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן
-    אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
-- tradition: judaism
-  ref: Exod 1:22
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (Exod 1:22 kol ha-bēn
-    ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna abnāʾakum wa-yastaḥyūna
-    nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both: tĕḥayyûn / yastaḥyūna),
-    but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes the deed of ''the
-    house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun min rabbikum
-    ʿaẓīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
-    וְכָל הַבַּ֖ת תְּחַיּֽוּן
-- tradition: islam
-  ref: Quran 2:49
-  note: 'Ruler orders the killing of male infants [divergence between the texts] (Exod 1:22 kol ha-bēn
-    ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna abnāʾakum wa-yastaḥyūna
-    nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both: tĕḥayyûn / yastaḥyūna),
-    but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes the deed of ''the
-    house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun min rabbikum
-    ʿaẓīm).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ
-    وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
-- tradition: judaism
-  ref: Exod 1:16
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן
-    אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
-- tradition: judaism
-  ref: Exod 1:22
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
-    וְכָל הַבַּ֖ת תְּחַיּֽוּן
-- tradition: islam
-  ref: Quran 2:49
-  note: Ruler orders the killing of male infants (they slaughtered your sons and spared your women)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ أَبْنَآءَكُمْ
-    وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 1:22 kol ha-bēn ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna
-    abnāʾakum wa-yastaḥyūna nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both:
-    tĕḥayyûn / yastaḥyūna), but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes
-    the deed of ''the house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun
-    min rabbikum ʿaẓīm).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ruler orders the killing of male infants [divergence between the
     texts] (weight 6.3); Ruler orders the killing of male infants (weight 5.1). Pair score 11.4.'
@@ -116,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ruler orders the killing of male infants
+kinds:
+- divergence
+units:
+- id: hb-exod-1-oppression-midwives
+  title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: divergence
+  label: Ruler orders the killing of male infants
+  note: 'Exod 1:22 kol ha-bēn ha-yyillôd ha-yĕʾōrâ tašlîkuhû wĕ-kol ha-bat tĕḥayyûn; Q 2:49 yudhabbiḥūna
+    abnāʾakum wa-yastaḥyūna nisāʾakum. Same pair (kill the sons, keep the females alive, ḥ-y-y in both:
+    tĕḥayyûn / yastaḥyūna), but drowning in the Nile becomes slaughter (dhabbaḥa), Pharaoh''s order becomes
+    the deed of ''the house of Pharaoh'' (āl firʿawn), and the Quran reads it as a trial from God (balāʾun
+    min rabbikum ʿaẓīm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 1:16
+      lang: he
+      text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙
+        וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
+    - ref: Exod 1:22
+      lang: he
+      text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
+        וְכָל הַבַּ֖ת תְּחַיּֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 2:49
+      lang: ar
+      text: وَإِذْ نَجَّيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُذَبِّحُونَ
+        أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 ---
 
 ## Questions

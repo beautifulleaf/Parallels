@@ -2,7 +2,7 @@
 id: motif-hb-neh-5-debt-slavery-reform-vs-quran-2-qibla
 title: Outcry over debt slavery; Nehemiah's remission and his refusal of the governor's allowance ↔ The
   change of qibla
-summary: 'These two units share 1 motifs: leader prays ''remember me, my god, for good'' for his deeds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - remember-me-for-good-formula
-passages:
-- tradition: judaism
-  ref: Neh 5:19
-  note: Leader prays 'remember me, my God, for good' for his deeds
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָכְרָה לִּ֥י אֱלֹהַ֖י לְטוֹבָ֑ה כֹּ֥ל אֲשֶׁר עָשִׂ֖יתִי עַל הָעָ֥ם הַזֶּֽה
-- tradition: islam
-  ref: Quran 2:152
-  note: Leader prays 'remember me, my God, for good' for his deeds ('remember me and I will remember you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Neh 5:19 zokrâ llî ʾĕlōhay lĕ-ṭôbâ kōl ʾăšer ʿāśîtî: Nehemiah asks God to remember him; Q 2:152
-    fa-dhkurūnī adhkurkum wa-shkurū lī: God tells the believers to remember him and he will remember them.
-    One-way petition vs mutual remembrance (z-k-r / dh-k-r).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader prays ''remember me, my God, for good'' for his deeds (weight
     6.3). Pair score 6.3.'
@@ -64,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader prays 'remember me, my God, for good' for his deeds
+kinds:
+- echo
+units:
+- id: hb-neh-5-debt-slavery-reform
+  title: Outcry over debt slavery; Nehemiah's remission and his refusal of the governor's allowance
+  tradition: judaism
+- id: quran-2-qibla
+  title: The change of qibla
+  tradition: islam
+matches:
+- kind: echo
+  label: Leader prays 'remember me, my God, for good' for his deeds
+  note: 'Neh 5:19 zokrâ llî ʾĕlōhay lĕ-ṭôbâ kōl ʾăšer ʿāśîtî: Nehemiah asks God to remember him; Q 2:152
+    fa-dhkurūnī adhkurkum wa-shkurū lī: God tells the believers to remember him and he will remember them.
+    One-way petition vs mutual remembrance (z-k-r / dh-k-r).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 5:19
+      lang: he
+      text: זָכְרָה לִּ֥י אֱלֹהַ֖י לְטוֹבָ֑ה כֹּ֥ל אֲשֶׁר עָשִׂ֖יתִי עַל הָעָ֥ם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:152
+      lang: ar
+      text: فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
 ---
 
 ## Questions

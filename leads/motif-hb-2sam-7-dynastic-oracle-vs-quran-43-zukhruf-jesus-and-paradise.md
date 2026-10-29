@@ -2,8 +2,7 @@
 id: motif-hb-2sam-7-dynastic-oracle-vs-quran-43-zukhruf-jesus-and-paradise
 title: Nathan's oracle of the eternal house of David and David's prayer ↔ The son of Mary as an example
   and sign of the Hour; the Garden with golden dishes; Malik of hell
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Sam 7:14
-  note: Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (ʾănî ʾehyeh lô lə-ʾāḇ wə-hûʾ yihyeh lî lə-ḇēn ... ʾăšer bə-haʿăwōṯô wə-hōḵaḥtîw (the Davidic heir
-    as God's son, chastised when he sins) vs. in huwa illā ʿabdun anʿamnā ʿalayhi. Samuel's sonship is
-    adoptive and covenantal; the Quran refuses the son language entirely, calling the favored one ʿabd.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִי֙ אֶהְיֶה לּ֣וֹ לְאָ֔ב וְה֖וּא יִהְיֶה לִּ֣י לְבֵ֑ן אֲשֶׁר֙ בְּהַ֣עֲוֺת֔וֹ וְהֹֽכַחְתִּיו֙
-    בְּשֵׁ֣בֶט אֲנָשִׁ֔ים וּבְנִגְעֵ֖י בְּנֵ֥י אָדָֽם
-- tradition: islam
-  ref: Quran 43:59
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî
-    hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah son
-    of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu l-ʿābidīn
-    (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2 directly;
-    lead only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 43:81
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî
-    hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah son
-    of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu l-ʿābidīn
-    (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2 directly;
-    lead only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. ʾănî ʾehyeh lô lə-ʾāḇ wə-hûʾ yihyeh lî lə-ḇēn ... ʾăšer bə-haʿăwōṯô wə-hōḵaḥtîw (the Davidic
-    heir as God''s son, chastised when he sins) vs. in huwa illā ʿabdun anʿamnā ʿalayhi. Samuel''s sonship
-    is adoptive and covenantal; the Quran refuses the son language entirely, calling the favored one ʿabd.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [contrast between the texts] (weight 5.4). Pair score 5.4.'
@@ -89,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- contrast
+units:
+- id: hb-2sam-7-dynastic-oracle
+  title: Nathan's oracle of the eternal house of David and David's prayer
+  tradition: judaism
+- id: quran-43-zukhruf-jesus-and-paradise
+  title: The son of Mary as an example and sign of the Hour; the Garden with golden dishes; Malik of hell
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: ʾănî ʾehyeh lô lə-ʾāḇ wə-hûʾ yihyeh lî lə-ḇēn ... ʾăšer bə-haʿăwōṯô wə-hōḵaḥtîw (the Davidic heir
+    as God's son, chastised when he sins) vs. in huwa illā ʿabdun anʿamnā ʿalayhi. Samuel's sonship is
+    adoptive and covenantal; the Quran refuses the son language entirely, calling the favored one ʿabd.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 7:14
+      lang: he
+      text: אֲנִי֙ אֶהְיֶה לּ֣וֹ לְאָ֔ב וְה֖וּא יִהְיֶה לִּ֣י לְבֵ֑ן אֲשֶׁר֙ בְּהַ֣עֲוֺת֔וֹ וְהֹֽכַחְתִּיו֙
+        בְּשֵׁ֣בֶט אֲנָשִׁ֔ים וּבְנִגְעֵ֖י בְּנֵ֥י אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:59
+      lang: ar
+      text: إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
+    - ref: Quran 43:81
+      lang: ar
+      text: قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 ---
 
 ## Questions

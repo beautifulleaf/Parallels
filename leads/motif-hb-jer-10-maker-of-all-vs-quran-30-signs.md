@@ -2,7 +2,7 @@
 id: motif-hb-jer-10-maker-of-all-vs-quran-30-signs
 title: He made the earth by his power - the Portion of Jacob ↔ The Hour, the times of praise, and the
   signs of God
-summary: 'These two units share 1 motifs: god shows lightning to inspire fear and hope (of rain).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - lightning-fear-and-hope
-passages:
-- tradition: judaism
-  ref: Jer 10:13
-  note: God shows lightning to inspire fear and hope (of rain) (yurīkumu l-barqa khawfan wa-ṭamaʿan wa-yunazzilu
-    mina s-samāʾi māʾan vs. bərāqîm la-mmāṭār ʿāśâ (he makes lightnings for the rain); the same in Ps
-    135:7. barq/bārāq are cognate. The Quran adds the human response of fear and hope.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְק֨וֹל תִּתּ֜וֹ הֲמ֥וֹן מַ֨יִם֙ בַּשָּׁמַ֔יִם וַיַּעֲלֶ֥ה נְשִׂאִ֖ים מִקְצֵ֣ה ארץ הָאָ֑רֶץ בְּרָקִ֤ים
-    לַמָּטָר֙ עָשָׂ֔ה וַיּ֥וֹצֵא ר֖וּחַ מֵאֹצְרֹתָֽיו
-- tradition: islam
-  ref: Quran 30:24
-  note: God shows lightning to inspire fear and hope (of rain)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yurīkumu l-barqa khawfan wa-ṭamaʿan wa-yunazzilu mina s-samāʾi māʾan vs. bərāqîm la-mmāṭār ʿāśâ
-    (he makes lightnings for the rain); the same in Ps 135:7. barq/bārāq are cognate. The Quran adds the
-    human response of fear and hope.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shows lightning to inspire fear and hope (of rain) (weight 6.3).
     Pair score 6.3.'
@@ -65,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shows lightning to inspire fear and hope (of rain)
+kinds:
+- echo
+units:
+- id: hb-jer-10-maker-of-all
+  title: He made the earth by his power - the Portion of Jacob
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: God shows lightning to inspire fear and hope (of rain)
+  note: yurīkumu l-barqa khawfan wa-ṭamaʿan wa-yunazzilu mina s-samāʾi māʾan vs. bərāqîm la-mmāṭār ʿāśâ
+    (he makes lightnings for the rain); the same in Ps 135:7. barq/bārāq are cognate. The Quran adds the
+    human response of fear and hope.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:13
+      lang: he
+      text: לְק֨וֹל תִּתּ֜וֹ הֲמ֥וֹן מַ֨יִם֙ בַּשָּׁמַ֔יִם וַיַּעֲלֶ֥ה נְשִׂאִ֖ים מִקְצֵ֣ה ארץ הָאָ֑רֶץ
+        בְּרָקִ֤ים לַמָּטָר֙ עָשָׂ֔ה וַיּ֥וֹצֵא ר֖וּחַ מֵאֹצְרֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 30:24
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً
+        فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

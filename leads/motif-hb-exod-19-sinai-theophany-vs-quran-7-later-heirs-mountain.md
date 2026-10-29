@@ -2,8 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-7-later-heirs-mountain
 title: Arrival at Sinai, covenant offer and theophany ↔ Heirs of the book and the mountain lifted over
   Israel
-summary: 'These two units share 1 motifs: israel stands beneath the mountain when the covenant is given
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - israel-beneath-the-mountain-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 19:17
-  note: 'Israel stands beneath the mountain when the covenant is given [divergence between the texts]
-    (Israel beneath the quaking mountain at the covenant: wa-idh nataqnā l-jabala fawqahum ka-annahu ẓullatun
-    wa-ẓannū annahu wāqiʿun bihim vs wayyityaṣṣᵉbû bᵉtaḥtît hāhār ... wayyeḥĕrad kol-hāhār mᵉʾōd. In Exod
-    they stand at the foot of the mountain (taḥtît); in Q the mountain is wrenched up over them like a
-    canopy and they expect it to fall on them. cf. b. Shabbat 88a (Sinai held over Israel like a tub),
-    which reads Exod 19:17 the same way; that is rabbinic, not biblical.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית
-    הָהָֽר
-- tradition: judaism
-  ref: Exod 19:18
-  note: 'Israel stands beneath the mountain when the covenant is given [divergence between the texts]
-    (Israel beneath the quaking mountain at the covenant: wa-idh nataqnā l-jabala fawqahum ka-annahu ẓullatun
-    wa-ẓannū annahu wāqiʿun bihim vs wayyityaṣṣᵉbû bᵉtaḥtît hāhār ... wayyeḥĕrad kol-hāhār mᵉʾōd. In Exod
-    they stand at the foot of the mountain (taḥtît); in Q the mountain is wrenched up over them like a
-    canopy and they expect it to fall on them. cf. b. Shabbat 88a (Sinai held over Israel like a tub),
-    which reads Exod 19:17 the same way; that is rabbinic, not biblical.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙
-    כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
-- tradition: islam
-  ref: Quran 7:171
-  note: 'Israel stands beneath the mountain when the covenant is given [divergence between the texts]
-    (Israel beneath the quaking mountain at the covenant: wa-idh nataqnā l-jabala fawqahum ka-annahu ẓullatun
-    wa-ẓannū annahu wāqiʿun bihim vs wayyityaṣṣᵉbû bᵉtaḥtît hāhār ... wayyeḥĕrad kol-hāhār mᵉʾōd. In Exod
-    they stand at the foot of the mountain (taḥtît); in Q the mountain is wrenched up over them like a
-    canopy and they expect it to fall on them. cf. b. Shabbat 88a (Sinai held over Israel like a tub),
-    which reads Exod 19:17 the same way; that is rabbinic, not biblical.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ
-    خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Israel beneath the quaking mountain at the covenant: wa-idh nataqnā l-jabala fawqahum
-    ka-annahu ẓullatun wa-ẓannū annahu wāqiʿun bihim vs wayyityaṣṣᵉbû bᵉtaḥtît hāhār ... wayyeḥĕrad kol-hāhār
-    mᵉʾōd. In Exod they stand at the foot of the mountain (taḥtît); in Q the mountain is wrenched up over
-    them like a canopy and they expect it to fall on them. cf. b. Shabbat 88a (Sinai held over Israel
-    like a tub), which reads Exod 19:17 the same way; that is rabbinic, not biblical.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel stands beneath the mountain when the covenant is given [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -86,6 +44,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel stands beneath the mountain when the covenant is given
+kinds:
+- divergence
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-7-later-heirs-mountain
+  title: Heirs of the book and the mountain lifted over Israel
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel stands beneath the mountain when the covenant is given
+  note: 'Israel beneath the quaking mountain at the covenant: wa-idh nataqnā l-jabala fawqahum ka-annahu
+    ẓullatun wa-ẓannū annahu wāqiʿun bihim vs wayyityaṣṣᵉbû bᵉtaḥtît hāhār ... wayyeḥĕrad kol-hāhār mᵉʾōd.
+    In Exod they stand at the foot of the mountain (taḥtît); in Q the mountain is wrenched up over them
+    like a canopy and they expect it to fall on them. cf. b. Shabbat 88a (Sinai held over Israel like
+    a tub), which reads Exod 19:17 the same way; that is rabbinic, not biblical.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:17
+      lang: he
+      text: וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית
+        הָהָֽר
+    - ref: Exod 19:18
+      lang: he
+      text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל
+        עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 7:171
+      lang: ar
+      text: وَإِذْ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ كَأَنَّهُۥ ظُلَّةٌ وَظَنُّوٓا۟ أَنَّهُۥ وَاقِعٌۢ بِهِمْ
+        خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ وَٱذْكُرُوا۟ مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ
 ---
 
 ## Questions

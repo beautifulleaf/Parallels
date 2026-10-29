@@ -2,7 +2,7 @@
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-42-shura-revelation-one-religion
 title: 'A new exodus from the north; fishers and hunters ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels''
   intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: god alone knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: Jer 16:17
-  note: God alone knows the hearts of all humans (my eyes are on all their ways; their iniquity is not
-    hidden)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם מִנֶּ֥גֶד
-    עֵינָֽי
-- tradition: islam
-  ref: Quran 42:24
-  note: God alone knows the hearts of all humans ('Knower of what is in the breasts' (dhat al-sudur))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ
-    وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. kî ʿênay ʿal kol darḵêhem lōʾ nistərû mil-ləp̄ānāy vs. innahu ʿalīmun bi-dhāti ṣ-ṣudūr. Jeremiah''s
-    is God''s sight of hidden iniquity; the Quran''s is knowledge of what is in the breasts.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
     5.0.'
@@ -68,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- echo
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: echo
+  label: God alone knows the hearts of all humans
+  note: kî ʿênay ʿal kol darḵêhem lōʾ nistərû mil-ləp̄ānāy vs. innahu ʿalīmun bi-dhāti ṣ-ṣudūr. Jeremiah's
+    is God's sight of hidden iniquity; the Quran's is knowledge of what is in the breasts.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:17
+      lang: he
+      text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם
+        מִנֶּ֥גֶד עֵינָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 42:24
+      lang: ar
+      text: أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ
+        وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

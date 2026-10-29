@@ -2,8 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-28-prophet-not-present-and-the-two-books
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ The prophet was not there; the two
   books; believing People of the Book
-summary: 'These two units share 1 motifs: who was present at the revelation on the mountain, and who knows
-  it only by report [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - presence-at-the-mountain-revelation-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 29:13
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts] (Those absent from the founding event: Deut 29:14 brings them into the covenant,
-    wə-ʾēt ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian,
-    receives the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum
-    min nadhīrin min qablika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת הַבְּרִ֣ית הַזֹּ֔את וְאֶת הָאָלָ֖ה הַזֹּֽאת
-- tradition: judaism
-  ref: Deut 29:14
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts] (Those absent from the founding event: Deut 29:14 brings them into the covenant,
-    wə-ʾēt ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian,
-    receives the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum
-    min nadhīrin min qablika).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ אֶת אֲשֶׁ֨ר יֶשְׁנ֜וֹ פֹּ֗ה עִמָּ֨נוּ֙ עֹמֵ֣ד הַיּ֔וֹם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאֵ֨ת
-    אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה עִמָּ֥נוּ הַיּֽוֹם
-- tradition: islam
-  ref: Quran 28:44
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts] (Those absent from the founding event: Deut 29:14 brings them into the covenant,
-    wə-ʾēt ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian,
-    receives the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum
-    min nadhīrin min qablika).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ
-- tradition: islam
-  ref: Quran 28:45
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [divergence
-    between the texts] (Those absent from the founding event: Deut 29:14 brings them into the covenant,
-    wə-ʾēt ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian,
-    receives the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum
-    min nadhīrin min qablika).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ وَمَا كُنتَ ثَاوِيًا فِىٓ أَهْلِ
-    مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Those absent from the founding event: Deut 29:14 brings them into the covenant, wə-ʾēt
-    ʾăšer ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian, receives
-    the story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum min nadhīrin
-    min qablika).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who was present at the revelation on the mountain, and who knows
     it only by report [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -99,6 +52,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who was present at the revelation on the mountain, and who knows it only by report
+kinds:
+- divergence
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-28-prophet-not-present-and-the-two-books
+  title: The prophet was not there; the two books; believing People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who was present at the revelation on the mountain, and who knows it only by report
+  note: 'Those absent from the founding event: Deut 29:14 brings them into the covenant, wə-ʾēt ʾăšer
+    ʾênennû pōh ʿimmānû hay-yôm; the Quran says its prophet, absent from Sinai and Midian, receives the
+    story so as to warn a people who had no earlier warner (li-tundhira qawman mā atāhum min nadhīrin
+    min qablika).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:13
+      lang: he
+      text: וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָנֹכִ֗י כֹּרֵת֙ אֶת הַבְּרִ֣ית הַזֹּ֔את וְאֶת הָאָלָ֖ה הַזֹּֽאת
+    - ref: Deut 29:14
+      lang: he
+      text: כִּי֩ אֶת אֲשֶׁ֨ר יֶשְׁנ֜וֹ פֹּ֗ה עִמָּ֨נוּ֙ עֹמֵ֣ד הַיּ֔וֹם לִפְנֵ֖י יְהוָ֣ה אֱלֹהֵ֑ינוּ
+        וְאֵ֨ת אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה עִמָּ֥נוּ הַיּֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 28:44
+      lang: ar
+      text: وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ
+        ٱلشَّٰهِدِينَ
+    - ref: Quran 28:45
+      lang: ar
+      text: وَلَٰكِنَّآ أَنشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ ٱلْعُمُرُ وَمَا كُنتَ ثَاوِيًا فِىٓ
+        أَهْلِ مَدْيَنَ تَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ
+    - ref: Quran 28:46
+      lang: ar
+      text: وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ
+        قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 ---
 
 ## Questions

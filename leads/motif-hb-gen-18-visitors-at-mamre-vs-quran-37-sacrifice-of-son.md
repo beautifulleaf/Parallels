@@ -2,7 +2,7 @@
 id: motif-hb-gen-18-visitors-at-mamre-vs-quran-37-sacrifice-of-son
 title: Three visitors at Mamre and the promise of Isaac ↔ Abraham's dream and the near-sacrifice of his
   son
-summary: 'These two units share 1 motifs: a divine messenger announces a son''s birth and gives his name.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: Gen 18:10
-  note: A divine messenger announces a son's birth and gives his name ('at this time next year' (ka-et
-    hayyah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
-    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
-- tradition: judaism
-  ref: Gen 18:14
-  note: A divine messenger announces a son's birth and gives his name ('at this time next year' (ka-et
-    hayyah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
-- tradition: islam
-  ref: Quran 37:101
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ
-- tradition: islam
-  ref: Quran 37:112
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-hinnēh-ḇēn lə-śārâ ʾišteḵā vs. wa-basharnāhu bi-Isḥāqa nabiyyan mina ṣ-ṣāliḥīn. The announcement
-    of Isaac''s birth. In Gen it comes four chapters before the Aqedah; in Q it comes after the sacrifice,
-    as a further reward, and calls Isaac a prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
     5.2). Pair score 5.2.'
@@ -81,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son's birth and gives his name
+kinds:
+- echo
+units:
+- id: hb-gen-18-visitors-at-mamre
+  title: Three visitors at Mamre and the promise of Isaac
+  tradition: judaism
+- id: quran-37-sacrifice-of-son
+  title: Abraham's dream and the near-sacrifice of his son
+  tradition: islam
+matches:
+- kind: echo
+  label: A divine messenger announces a son's birth and gives his name
+  note: wə-hinnēh-ḇēn lə-śārâ ʾišteḵā vs. wa-basharnāhu bi-Isḥāqa nabiyyan mina ṣ-ṣāliḥīn. The announcement
+    of Isaac's birth. In Gen it comes four chapters before the Aqedah; in Q it comes after the sacrifice,
+    as a further reward, and calls Isaac a prophet.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:10
+      lang: he
+      text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+        שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 37:112
+      lang: ar
+      text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

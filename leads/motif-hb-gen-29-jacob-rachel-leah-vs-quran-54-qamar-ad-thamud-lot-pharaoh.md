@@ -2,8 +2,7 @@
 id: motif-hb-gen-29-jacob-rachel-leah-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: Jacob meets Rachel; Laban's substitution of Leah ↔ Refrains over 'Ad, Thamud's she-camel, Lot's
   guests and Pharaoh; everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: a she-camel of god is given as a sign; she must be left to graze
-  unharmed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - she-camel-of-god
-passages:
-- tradition: judaism
-  ref: Gen 29:3
-  note: 'A she-camel of God is given as a sign; she must be left to graze unharmed (Water shared by custom
-    at a well: wə-neʾespû šāmmâ ḵol hā-ʿăḏārîm wə-gālălû ʾeṯ hā-ʾeḇen ... wə-hišqû ʾeṯ haṣ-ṣōʾn vs. wa-nabbiʾhum
-    anna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar (the water divided between the people and the
-    she-camel, each drinking in turn). Weak lead from the hint: shared watering custom only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֶאֶסְפוּ שָׁ֣מָּה כָל הָעֲדָרִ֗ים וְגָלֲל֤וּ אֶת הָאֶ֨בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר וְהִשְׁק֖וּ
-    אֶת הַצֹּ֑אן וְהֵשִׁ֧יבוּ אֶת הָאֶ֛בֶן עַל פִּ֥י הַבְּאֵ֖ר לִמְקֹמָֽהּ
-- tradition: judaism
-  ref: Gen 29:8
-  note: 'A she-camel of God is given as a sign; she must be left to graze unharmed (Water shared by custom
-    at a well: wə-neʾespû šāmmâ ḵol hā-ʿăḏārîm wə-gālălû ʾeṯ hā-ʾeḇen ... wə-hišqû ʾeṯ haṣ-ṣōʾn vs. wa-nabbiʾhum
-    anna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar (the water divided between the people and the
-    she-camel, each drinking in turn). Weak lead from the hint: shared watering custom only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְרוּ֮ לֹ֣א נוּכַל֒ עַ֣ד אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כָּל הָ֣עֲדָרִ֔ים וְגָֽלֲלוּ֙ אֶת הָאֶ֔בֶן
-    מֵעַ֖ל פִּ֣י הַבְּאֵ֑ר וְהִשְׁקִ֖ינוּ הַצֹּֽאן
-- tradition: islam
-  ref: Quran 54:27
-  note: A she-camel of God is given as a sign; she must be left to graze unharmed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ
-- tradition: islam
-  ref: Quran 54:28
-  note: A she-camel of God is given as a sign; she must be left to graze unharmed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Water shared by custom at a well: wə-neʾespû šāmmâ ḵol hā-ʿăḏārîm wə-gālălû ʾeṯ hā-ʾeḇen ...
-    wə-hišqû ʾeṯ haṣ-ṣōʾn vs. wa-nabbiʾhum anna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar (the water
-    divided between the people and the she-camel, each drinking in turn). Weak lead from the hint: shared
-    watering custom only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A she-camel of God is given as a sign; she must be left to graze
     unharmed (weight 5.8). Pair score 5.8.'
@@ -86,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A she-camel of God is given as a sign; she must be left to graze unharmed
+kinds:
+- echo
+units:
+- id: hb-gen-29-jacob-rachel-leah
+  title: Jacob meets Rachel; Laban's substitution of Leah
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: echo
+  label: A she-camel of God is given as a sign; she must be left to graze unharmed
+  note: 'Water shared by custom at a well: wə-neʾespû šāmmâ ḵol hā-ʿăḏārîm wə-gālălû ʾeṯ hā-ʾeḇen ...
+    wə-hišqû ʾeṯ haṣ-ṣōʾn vs. wa-nabbiʾhum anna l-māʾa qismatun baynahum kullu shirbin muḥtaḍar (the water
+    divided between the people and the she-camel, each drinking in turn). Weak lead from the hint: shared
+    watering custom only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 29:3
+      lang: he
+      text: וְנֶאֶסְפוּ שָׁ֣מָּה כָל הָעֲדָרִ֗ים וְגָלֲל֤וּ אֶת הָאֶ֨בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר וְהִשְׁק֖וּ
+        אֶת הַצֹּ֑אן וְהֵשִׁ֧יבוּ אֶת הָאֶ֛בֶן עַל פִּ֥י הַבְּאֵ֖ר לִמְקֹמָֽהּ
+    - ref: Gen 29:8
+      lang: he
+      text: וַיֹּאמְרוּ֮ לֹ֣א נוּכַל֒ עַ֣ד אֲשֶׁ֤ר יֵאָֽסְפוּ֙ כָּל הָ֣עֲדָרִ֔ים וְגָֽלֲלוּ֙ אֶת הָאֶ֔בֶן
+        מֵעַ֖ל פִּ֣י הַבְּאֵ֑ר וְהִשְׁקִ֖ינוּ הַצֹּֽאן
+  - tradition: islam
+    passages:
+    - ref: Quran 54:28
+      lang: ar
+      text: وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-63-thirst-vs-quran-32-sajda
 title: 'Psalm 63, my soul thirsts for you in the wilderness of Judah ↔ Al-Sajda: creation, the angel of
   death, and the two fates'
-summary: 'These two units share 1 motifs: the believers'' sides forsake their beds as they call on their
-  lord in fear and hope (night vigil).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - sides-forsake-beds-night-prayer
-passages:
-- tradition: judaism
-  ref: Ps 63:7
-  note: 'The believers'' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
-    (ʾim-zəḵartîḵā ʿal-yəṣûʿāy bə-ʾašmurôṯ ʾehgeh-bāḵ vs. tatajāfā junūbuhum ʿani l-maḍājiʿi yadʿūna rabbahum
-    khawfan wa-ṭamaʿan: prayer at night from or on the bed (yāṣûaʿ / maḍjaʿ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
-- tradition: islam
-  ref: Quran 32:15
-  note: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
-    (32:15 is a prostration verse)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا يُؤْمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُوا۟ بِهَا خَرُّوا۟ سُجَّدًا وَسَبَّحُوا۟
-    بِحَمْدِ رَبِّهِمْ وَهُمْ لَا يَسْتَكْبِرُونَ
-- tradition: islam
-  ref: Quran 32:16
-  note: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
-    (32:15 is a prostration verse)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ
-    يُنفِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾim-zəḵartîḵā ʿal-yəṣûʿāy bə-ʾašmurôṯ ʾehgeh-bāḵ vs. tatajāfā junūbuhum ʿani l-maḍājiʿi yadʿūna
-    rabbahum khawfan wa-ṭamaʿan: prayer at night from or on the bed (yāṣûaʿ / maḍjaʿ).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' sides forsake their beds as they call on their Lord
     in fear and hope (night vigil) (weight 6.0). Pair score 6.0.'
@@ -78,6 +51,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
+kinds:
+- echo
+units:
+- id: hb-ps-63-thirst
+  title: Psalm 63, my soul thirsts for you in the wilderness of Judah
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: echo
+  label: The believers' sides forsake their beds as they call on their Lord in fear and hope (night vigil)
+  note: 'ʾim-zəḵartîḵā ʿal-yəṣûʿāy bə-ʾašmurôṯ ʾehgeh-bāḵ vs. tatajāfā junūbuhum ʿani l-maḍājiʿi yadʿūna
+    rabbahum khawfan wa-ṭamaʿan: prayer at night from or on the bed (yāṣûaʿ / maḍjaʿ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 63:7
+      lang: he
+      text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 32:16
+      lang: ar
+      text: تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ يَدْعُونَ رَبَّهُمْ خَوْفًا وَطَمَعًا وَمِمَّا رَزَقْنَٰهُمْ
+        يُنفِقُونَ
 ---
 
 ## Questions

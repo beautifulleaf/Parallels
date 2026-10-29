@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-4-circumcise-hearts-vs-quran-2-polemic-israel
 title: If you return - circumcise your hearts ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: the people''s ''uncircumcised heart'' must be humbled.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,26 +13,9 @@ layers:
 - motif
 motifs:
 - uncircumcised-heart
-passages:
-- tradition: judaism
-  ref: Jer 4:4
-  note: 'The people''s ''uncircumcised heart'' must be humbled (Jer 4:4 himmōlû la-YHWH wĕ-hāsīrû ʿorlôt
-    lĕbabkem: call to remove the heart''s foreskins; Q 2:88 qulūbunā ghulfun: the hearers claim their
-    hearts are covered.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִמֹּ֣לוּ לַיהֹוָ֗ה וְהָסִ֨רוּ֙ עָרְל֣וֹת לְבַבְכֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם
-    פֶּן תֵּצֵ֨א כָאֵ֜שׁ חֲמָתִ֗י וּבָעֲרָה֙ וְאֵ֣ין מְכַבֶּ֔ה מִפְּנֵ֖י רֹ֥עַ מַעַלְלֵיכֶֽם
-- tradition: islam
-  ref: Quran 2:88
-  note: The people's 'uncircumcised heart' must be humbled (qulubuna ghulf, 'our hearts are uncircumcised/wrapped')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 4:4 himmōlû la-YHWH wĕ-hāsīrû ʿorlôt lĕbabkem: call to remove the heart''s foreskins; Q
-    2:88 qulūbunā ghulfun: the hearers claim their hearts are covered.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s ''uncircumcised heart'' must be humbled (weight 5.6).
     Pair score 5.6.'
@@ -59,6 +42,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's 'uncircumcised heart' must be humbled
+kinds:
+- echo
+units:
+- id: hb-jer-4-circumcise-hearts
+  title: If you return - circumcise your hearts
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: echo
+  label: The people's 'uncircumcised heart' must be humbled
+  note: 'Jer 4:4 himmōlû la-YHWH wĕ-hāsīrû ʿorlôt lĕbabkem: call to remove the heart''s foreskins; Q 2:88
+    qulūbunā ghulfun: the hearers claim their hearts are covered.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 4:4
+      lang: he
+      text: הִמֹּ֣לוּ לַיהֹוָ֗ה וְהָסִ֨רוּ֙ עָרְל֣וֹת לְבַבְכֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם
+        פֶּן תֵּצֵ֨א כָאֵ֜שׁ חֲמָתִ֗י וּבָעֲרָה֙ וְאֵ֣ין מְכַבֶּ֔ה מִפְּנֵ֖י רֹ֥עַ מַעַלְלֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:88
+      lang: ar
+      text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
 ---
 
 ## Questions

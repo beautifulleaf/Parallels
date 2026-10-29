@@ -2,8 +2,7 @@
 id: motif-hb-jer-33-branch-and-cosmic-covenant-vs-quran-38-david-ewe-parable
 title: Healing of the city, the Righteous Branch and the covenant with day and night ↔ David's mountains,
   the two litigants and the ninety-nine ewes
-summary: 'These two units share 1 motifs: ''o david, we made you a vicegerent (khalifa) on earth; judge
-  between people with truth and do not follow desire''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - david-made-khalifa-judge-justly
-passages:
-- tradition: judaism
-  ref: Jer 33:15
-  note: '''O David, we made you a vicegerent (khalifa) on earth; judge between people with truth and do
-    not follow desire'' (ʾaṣmîaḥ lə-ḏāwiḏ ṣemaḥ ṣəḏāqâ wə-ʿāśâ mišpāṭ û-ṣəḏāqâ bā-ʾāreṣ vs. yā-Dāwūdu
-    innā jaʿalnāka khalīfatan fī l-arḍi fa-ḥkum bayna n-nāsi bi-l-ḥaqq: the Davidic ruler appointed by
-    God to do justice ''in the land/earth'' (bā-ʾāreṣ / fī l-arḍ). Jeremiah promises a future Branch;
-    the Quran addresses David himself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֤ים הָהֵם֙ וּבָעֵ֣ת הַהִ֔יא אַצְמִ֥יחַ לְדָוִ֖ד צֶ֣מַח צְדָקָ֑ה וְעָשָׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה
-    בָּאָֽרֶץ
-- tradition: islam
-  ref: Quran 38:26
-  note: '''O David, we made you a vicegerent (khalifa) on earth; judge between people with truth and do
-    not follow desire'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ وَلَا
-    تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ
-    لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾaṣmîaḥ lə-ḏāwiḏ ṣemaḥ ṣəḏāqâ wə-ʿāśâ mišpāṭ û-ṣəḏāqâ bā-ʾāreṣ vs. yā-Dāwūdu innā jaʿalnāka
-    khalīfatan fī l-arḍi fa-ḥkum bayna n-nāsi bi-l-ḥaqq: the Davidic ruler appointed by God to do justice
-    ''in the land/earth'' (bā-ʾāreṣ / fī l-arḍ). Jeremiah promises a future Branch; the Quran addresses
-    David himself.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''O David, we made you a vicegerent (khalifa) on earth; judge between
     people with truth and do not follow desire'' (weight 6.7). Pair score 6.7.'
@@ -78,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''O David, we made you a vicegerent (khalifa) on earth; judge between people with truth and
+  do not follow desire'''
+kinds:
+- echo
+units:
+- id: hb-jer-33-branch-and-cosmic-covenant
+  title: Healing of the city, the Righteous Branch and the covenant with day and night
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: echo
+  label: '''O David, we made you a vicegerent (khalifa) on earth; judge between people with truth and
+    do not follow desire'''
+  note: 'ʾaṣmîaḥ lə-ḏāwiḏ ṣemaḥ ṣəḏāqâ wə-ʿāśâ mišpāṭ û-ṣəḏāqâ bā-ʾāreṣ vs. yā-Dāwūdu innā jaʿalnāka khalīfatan
+    fī l-arḍi fa-ḥkum bayna n-nāsi bi-l-ḥaqq: the Davidic ruler appointed by God to do justice ''in the
+    land/earth'' (bā-ʾāreṣ / fī l-arḍ). Jeremiah promises a future Branch; the Quran addresses David himself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 33:15
+      lang: he
+      text: בַּיָּמִ֤ים הָהֵם֙ וּבָעֵ֣ת הַהִ֔יא אַצְמִ֥יחַ לְדָוִ֖ד צֶ֣מַח צְדָקָ֑ה וְעָשָׂ֛ה מִשְׁפָּ֥ט
+        וּצְדָקָ֖ה בָּאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:26
+      lang: ar
+      text: يَٰدَاوُۥدُ إِنَّا جَعَلْنَٰكَ خَلِيفَةً فِى ٱلْأَرْضِ فَٱحْكُم بَيْنَ ٱلنَّاسِ بِٱلْحَقِّ
+        وَلَا تَتَّبِعِ ٱلْهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ
+        ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌۢ بِمَا نَسُوا۟ يَوْمَ ٱلْحِسَابِ
 ---
 
 ## Questions

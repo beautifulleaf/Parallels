@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-4-exhortation-vs-quran-2-polemic-israel
 title: Exhortation at Horeb's memory; no image; exile and return ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: israel''s position at the mountain when the covenant is made
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - israel-and-the-mountain-at-covenant-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 4:11
-  note: 'Israel''s position at the mountain when the covenant is made [divergence between the texts] (Deut
-    4:11 wa-ttiqrĕbûn wa-ttaʿamdûn taḥat hā-hār wĕ-hā-hār bōʿēr bā-ʾēš: ''you stood under the mountain''
-    as it burned; Q 2:93 wa-rafaʿnā fawqakumu ṭ-ṭūra: God raised the mountain over you. Deut''s taḥat
-    (''at the foot of / under'') is the Quran''s fawqakum read from the other side.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּקְרְב֥וּן וַתַּֽעַמְד֖וּן תַּ֣חַת הָהָ֑ר וְהָהָ֞ר בֹּעֵ֤ר בָּאֵשׁ֙ עַד לֵ֣ב הַשָּׁמַ֔יִם
-    חֹ֖שֶׁךְ עָנָ֥ן וַעֲרָפֶֽל
-- tradition: islam
-  ref: Quran 2:93
-  note: 'Israel''s position at the mountain when the covenant is made [divergence between the texts] (Deut
-    4:11 wa-ttiqrĕbûn wa-ttaʿamdûn taḥat hā-hār wĕ-hā-hār bōʿēr bā-ʾēš: ''you stood under the mountain''
-    as it burned; Q 2:93 wa-rafaʿnā fawqakumu ṭ-ṭūra: God raised the mountain over you. Deut''s taḥat
-    (''at the foot of / under'') is the Quran''s fawqakum read from the other side.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 4:11 wa-ttiqrĕbûn wa-ttaʿamdûn taḥat hā-hār wĕ-hā-hār bōʿēr bā-ʾēš: ''you stood under
-    the mountain'' as it burned; Q 2:93 wa-rafaʿnā fawqakumu ṭ-ṭūra: God raised the mountain over you.
-    Deut''s taḥat (''at the foot of / under'') is the Quran''s fawqakum read from the other side.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s position at the mountain when the covenant is made [divergence
     between the texts] (weight 6.0). Pair score 6.0.'
@@ -74,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel's position at the mountain when the covenant is made
+kinds:
+- divergence
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel's position at the mountain when the covenant is made
+  note: 'Deut 4:11 wa-ttiqrĕbûn wa-ttaʿamdûn taḥat hā-hār wĕ-hā-hār bōʿēr bā-ʾēš: ''you stood under the
+    mountain'' as it burned; Q 2:93 wa-rafaʿnā fawqakumu ṭ-ṭūra: God raised the mountain over you. Deut''s
+    taḥat (''at the foot of / under'') is the Quran''s fawqakum read from the other side.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:11
+      lang: he
+      text: וַתִּקְרְב֥וּן וַתַּֽעַמְד֖וּן תַּ֣חַת הָהָ֑ר וְהָהָ֞ר בֹּעֵ֤ר בָּאֵשׁ֙ עַד לֵ֣ב הַשָּׁמַ֔יִם
+        חֹ֖שֶׁךְ עָנָ֥ן וַעֲרָפֶֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

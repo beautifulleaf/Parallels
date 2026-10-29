@@ -2,9 +2,7 @@
 id: motif-hb-ezek-39-gog-defeated-and-buried-vs-quran-21-end-and-inheritance
 title: Gog's fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
   birds ↔ One community, Gog and Magog, the rolled heaven and the Zabur's promise
-summary: 'These two units share 2 motifs: gog and magog are let loose and swarm down from every height
-  before the end [divergence between the texts], gog of the land of magog, chief prince (nesi rosh) of
-  meshech and tubal, an eschatological invader.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,73 +16,7 @@ layers:
 motifs:
 - gog-magog-released-at-end-as-divergence
 - gog-of-magog-chief-prince
-passages:
-- tradition: judaism
-  ref: Ezek 39:1
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Ezek: Gog is brought from yarkətê ṣāpôn and falls on the mountains of Israel, his weapons
-    burned and his dead buried. Q: no battle is told; the release of Gog and Magog leads directly to the
-    trumpet and the gathering (wa-nufikha fī ṣ-ṣūr ... wa-ʿaraḍnā jahannama). An end-time invasion becomes
-    a sign of the Hour.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֤ה בֶן אָדָם֙ הִנָּבֵ֣א עַל גּ֔וֹג וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י
-    אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל
-- tradition: judaism
-  ref: Ezek 39:2
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Ezek: Gog is brought from yarkətê ṣāpôn and falls on the mountains of Israel, his weapons
-    burned and his dead buried. Q: no battle is told; the release of Gog and Magog leads directly to the
-    trumpet and the gathering (wa-nufikha fī ṣ-ṣūr ... wa-ʿaraḍnā jahannama). An end-time invasion becomes
-    a sign of the Hour.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֹׁבַבְתִּ֨יךָ֙ וְשִׁשֵּׁאתִ֔יךָ וְהַעֲלִיתִ֖יךָ מִיַּרְכְּתֵ֣י צָפ֑וֹן וַהֲבִאוֹתִ֖ךָ עַל הָרֵ֥י
-    יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 21:96
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (ûbāʾtā mimməqôməkā miyyarkətê ṣāpôn ... kəʿānān ləkassôt hāʾāreṣ bəʾaḥărît hayyāmîm; ḥattā
-    idhā futiḥat Yaʾjūju wa-Maʾjūju wa-hum min kulli ḥadabin yansilūn wa-qtaraba l-waʿdu l-ḥaqq: Gog''s
-    hordes pour in at the end. Ezek''s Gog is one prince from the far north, aimed at Israel; Q''s Yaʾjūj
-    and Maʾjūj are a pair, ''opened'' from a barrier and pouring down from every height, as a sign that
-    the promise (the Hour) is near.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ
-- tradition: islam
-  ref: Quran 21:97
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (ûbāʾtā mimməqôməkā miyyarkətê ṣāpôn ... kəʿānān ləkassôt hāʾāreṣ bəʾaḥărît hayyāmîm; ḥattā
-    idhā futiḥat Yaʾjūju wa-Maʾjūju wa-hum min kulli ḥadabin yansilūn wa-qtaraba l-waʿdu l-ḥaqq: Gog''s
-    hordes pour in at the end. Ezek''s Gog is one prince from the far north, aimed at Israel; Q''s Yaʾjūj
-    and Maʾjūj are a pair, ''opened'' from a barrier and pouring down from every height, as a sign that
-    the promise (the Hour) is near.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا
-    قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
-- tradition: judaism
-  ref: Ezek 39:1
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֤ה בֶן אָדָם֙ הִנָּבֵ֣א עַל גּ֔וֹג וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י
-    אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל
-- tradition: judaism
-  ref: Ezek 39:11
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בַיּ֣וֹם הַה֡וּא אֶתֵּ֣ן לְגוֹג֩ מְקֽוֹם שָׁ֨ם קֶ֜בֶר בְּיִשְׂרָאֵ֗ל גֵּ֤י הָעֹֽבְרִים֙
-    קִדְמַ֣ת הַיָּ֔ם וְחֹסֶ֥מֶת הִ֖יא אֶת הָעֹֽבְרִ֑ים וְקָ֣בְרוּ שָׁ֗ם אֶת גּוֹג֙ וְאֶת כָּל הֲמוֹנֹ֔ה
-    וְקָ֣רְא֔וּ גֵּ֖יא הֲמ֥וֹן גּֽוֹג
-- tradition: islam
-  ref: Quran 21:96
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Gog and Magog are let loose and swarm down from every height before
     the end [divergence between the texts] (weight 6.0); Gog of the land of Magog, chief prince (nesi
@@ -123,6 +55,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Gog and Magog are let loose and swarm down from every height before the end
+kinds:
+- shared
+units:
+- id: hb-ezek-39-gog-defeated-and-buried
+  title: Gog's fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
+    birds
+  tradition: judaism
+- id: quran-21-end-and-inheritance
+  title: One community, Gog and Magog, the rolled heaven and the Zabur's promise
+  tradition: islam
+matches:
+- kind: shared
+  label: Gog and Magog are let loose and swarm down from every height before the end
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 39:1
+      lang: he
+      text: וְאַתָּ֤ה בֶן אָדָם֙ הִנָּבֵ֣א עַל גּ֔וֹג וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י
+        אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל
+    - ref: Ezek 39:2
+      lang: he
+      text: וְשֹׁבַבְתִּ֨יךָ֙ וְשִׁשֵּׁאתִ֔יךָ וְהַעֲלִיתִ֖יךָ מִיַּרְכְּתֵ֣י צָפ֑וֹן וַהֲבִאוֹתִ֖ךָ עַל
+        הָרֵ֥י יִשְׂרָאֵֽל
+    - ref: Ezek 39:4
+      lang: he
+      text: עַל הָרֵ֨י יִשְׂרָאֵ֜ל תִּפּ֗וֹל אַתָּה֙ וְכָל אֲגַפֶּ֔יךָ וְעַמִּ֖ים אֲשֶׁ֣ר אִתָּ֑ךְ לְעֵ֨יט
+        צִפּ֧וֹר כָּל כָּנָ֛ף וְחַיַּ֥ת הַשָּׂדֶ֖ה נְתַתִּ֥יךָ לְאָכְלָֽה
+    note: 'Ezek: Gog is brought from yarkətê ṣāpôn and falls on the mountains of Israel, his weapons burned
+      and his dead buried. Q: no battle is told; the release of Gog and Magog leads directly to the trumpet
+      and the gathering (wa-nufikha fī ṣ-ṣūr ... wa-ʿaraḍnā jahannama). An end-time invasion becomes a
+      sign of the Hour.'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:96
+      lang: ar
+      text: حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ
+    - ref: Quran 21:97
+      lang: ar
+      text: وَٱقْتَرَبَ ٱلْوَعْدُ ٱلْحَقُّ فَإِذَا هِىَ شَٰخِصَةٌ أَبْصَٰرُ ٱلَّذِينَ كَفَرُوا۟ يَٰوَيْلَنَا
+        قَدْ كُنَّا فِى غَفْلَةٍ مِّنْ هَٰذَا بَلْ كُنَّا ظَٰلِمِينَ
+    note: 'ûbāʾtā mimməqôməkā miyyarkətê ṣāpôn ... kəʿānān ləkassôt hāʾāreṣ bəʾaḥărît hayyāmîm; ḥattā
+      idhā futiḥat Yaʾjūju wa-Maʾjūju wa-hum min kulli ḥadabin yansilūn wa-qtaraba l-waʿdu l-ḥaqq: Gog''s
+      hordes pour in at the end. Ezek''s Gog is one prince from the far north, aimed at Israel; Q''s Yaʾjūj
+      and Maʾjūj are a pair, ''opened'' from a barrier and pouring down from every height, as a sign that
+      the promise (the Hour) is near.'
+- kind: shared
+  label: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 39:1
+      lang: he
+      text: וְאַתָּ֤ה בֶן אָדָם֙ הִנָּבֵ֣א עַל גּ֔וֹג וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י
+        אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל
+    - ref: Ezek 39:11
+      lang: he
+      text: וְהָיָ֣ה בַיּ֣וֹם הַה֡וּא אֶתֵּ֣ן לְגוֹג֩ מְקֽוֹם שָׁ֨ם קֶ֜בֶר בְּיִשְׂרָאֵ֗ל גֵּ֤י הָעֹֽבְרִים֙
+        קִדְמַ֣ת הַיָּ֔ם וְחֹסֶ֥מֶת הִ֖יא אֶת הָעֹֽבְרִ֑ים וְקָ֣בְרוּ שָׁ֗ם אֶת גּוֹג֙ וְאֶת כָּל הֲמוֹנֹ֔ה
+        וְקָ֣רְא֔וּ גֵּ֖יא הֲמ֥וֹן גּֽוֹג
+  - tradition: islam
+    passages:
+    - ref: Quran 21:96
+      lang: ar
+      text: حَتَّىٰٓ إِذَا فُتِحَتْ يَأْجُوجُ وَمَأْجُوجُ وَهُم مِّن كُلِّ حَدَبٍ يَنسِلُونَ
 ---
 
 ## Questions

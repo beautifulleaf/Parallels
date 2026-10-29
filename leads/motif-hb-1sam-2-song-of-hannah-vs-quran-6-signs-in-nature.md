@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-6-signs-in-nature
 title: Song of Hannah ↔ Splitter of seed and dawn; stars for navigation; do not revile their gods
-summary: 'These two units share 2 motifs: god brings the living out of the dead and the dead out of the
-  living, i kill and i make alive, i wound and i heal; there is no god beside me.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,39 +15,7 @@ layers:
 motifs:
 - god-brings-living-from-dead
 - i-kill-and-make-alive
-passages:
-- tradition: judaism
-  ref: 1Sam 2:6
-  note: 'God brings the living out of the dead and the dead out of the living (God''s power over life
-    and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita mina l-ḥayy vs YHWH mēmît
-    ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out of the dead; Hannah as bringing
-    down to Sheol and up again.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
-- tradition: islam
-  ref: Quran 6:95
-  note: God brings the living out of the dead and the dead out of the living
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ
-    مِنَ ٱلْحَىِّ ذَٰلِكُمُ ٱللَّهُ فَأَنَّىٰ تُؤْفَكُونَ
-- tradition: judaism
-  ref: 1Sam 2:6
-  note: 'I kill and I make alive, I wound and I heal; there is no god beside me (1Sam 2:6 YHWH mēmît û-mĕḥayyeh
-    môrîd šĕʾôl wa-yyaʿal; Q 2:258 rabbiya lladhī yuḥyī wa-yumītu: the formula of faith Abraham uses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
-- tradition: islam
-  ref: Quran 6:95
-  note: 'I kill and I make alive, I wound and I heal; there is no god beside me (Q: yukhriju l-ḥayya mina
-    l-mayyiti wa-mukhriju l-mayyiti mina l-ḥayy. Deut: ʾănî ʾāmît wa-ʾăḥayyeh. Death and life are both
-    God''s work; Q shows it in the seed and the date stone.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ
-    مِنَ ٱلْحَىِّ ذَٰلِكُمُ ٱللَّهُ فَأَنَّىٰ تُؤْفَكُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God brings the living out of the dead and the dead out of the living
     (weight 6.0); I kill and I make alive, I wound and I heal; there is no god beside me (weight 5.1).
@@ -77,6 +44,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God brings the living out of the dead and the dead out of the living
+kinds:
+- shared
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-6-signs-in-nature
+  title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+  tradition: islam
+matches:
+- kind: shared
+  label: God brings the living out of the dead and the dead out of the living
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:6
+      lang: he
+      text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
+    note: 'God''s power over life and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita
+      mina l-ḥayy vs YHWH mēmît ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out
+      of the dead; Hannah as bringing down to Sheol and up again.'
+  - tradition: islam
+    passages:
+    - ref: Quran 6:95
+      lang: ar
+      text: إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ
+        مِنَ ٱلْحَىِّ ذَٰلِكُمُ ٱللَّهُ فَأَنَّىٰ تُؤْفَكُونَ
+- kind: shared
+  label: I kill and I make alive, I wound and I heal; there is no god beside me
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:6
+      lang: he
+      text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
+    note: '1Sam 2:6 YHWH mēmît û-mĕḥayyeh môrîd šĕʾôl wa-yyaʿal; Q 2:258 rabbiya lladhī yuḥyī wa-yumītu:
+      the formula of faith Abraham uses.'
+  - tradition: islam
+    passages:
+    - ref: Quran 6:95
+      lang: ar
+      text: إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ
+        مِنَ ٱلْحَىِّ ذَٰلِكُمُ ٱللَّهُ فَأَنَّىٰ تُؤْفَكُونَ
+    note: 'Q: yukhriju l-ḥayya mina l-mayyiti wa-mukhriju l-mayyiti mina l-ḥayy. Deut: ʾănî ʾāmît wa-ʾăḥayyeh.
+      Death and life are both God''s work; Q shows it in the seed and the date stone.'
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-29-pharaoh-the-dragon-vs-quran-28-pharaohs-tower-and-end
 title: Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar's wages ↔
   Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
-summary: 'These two units share 1 motifs: pharaoh tells his chiefs: ''i know of no god for you other than
-  me''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-claims-no-other-god
-passages:
-- tradition: judaism
-  ref: Ezek 29:3
-  note: 'Pharaoh tells his chiefs: ''I know of no god for you other than me'' (yā ayyuhā l-malaʾu mā ʿalimtu
-    lakum min ilāhin ghayrī ... wa-stakbara huwa wa-junūduhu ~ ʾăšer ʾāmar lî yəʾōrî wa-ʾănî ʿăśîtinî:
-    Pharaoh claims divinity in his own words, the prophet quoting his boast. In Ezekiel he is the maker
-    of the Nile or of himself; in the Quran he is the only god his court knows. Both end with Pharaoh
-    flung out (Ezek 29:5 nəṭaštîkā ham-midbārâ, Q 28:40 fa-nabadhnāhum fī l-yamm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
-    הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
-- tradition: islam
-  ref: Quran 28:38
-  note: 'Pharaoh tells his chiefs: ''I know of no god for you other than me'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
-    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
-    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
-- tradition: islam
-  ref: Quran 28:39
-  note: 'Pharaoh tells his chiefs: ''I know of no god for you other than me'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا
-    لَا يُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yā ayyuhā l-malaʾu mā ʿalimtu lakum min ilāhin ghayrī ... wa-stakbara huwa wa-junūduhu ~
-    ʾăšer ʾāmar lî yəʾōrî wa-ʾănî ʿăśîtinî: Pharaoh claims divinity in his own words, the prophet quoting
-    his boast. In Ezekiel he is the maker of the Nile or of himself; in the Quran he is the only god his
-    court knows. Both end with Pharaoh flung out (Ezek 29:5 nəṭaštîkā ham-midbārâ, Q 28:40 fa-nabadhnāhum
-    fī l-yamm).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh tells his chiefs: ''I know of no god for you other than
     me'' (weight 6.7). Pair score 6.7.'
@@ -87,6 +55,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Pharaoh tells his chiefs: ''I know of no god for you other than me'''
+kinds:
+- parallel
+units:
+- id: hb-ezek-29-pharaoh-the-dragon
+  title: Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar's wages
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Pharaoh tells his chiefs: ''I know of no god for you other than me'''
+  note: 'yā ayyuhā l-malaʾu mā ʿalimtu lakum min ilāhin ghayrī ... wa-stakbara huwa wa-junūduhu ~ ʾăšer
+    ʾāmar lî yəʾōrî wa-ʾănî ʿăśîtinî: Pharaoh claims divinity in his own words, the prophet quoting his
+    boast. In Ezekiel he is the maker of the Nile or of himself; in the Quran he is the only god his court
+    knows. Both end with Pharaoh flung out (Ezek 29:5 nəṭaštîkā ham-midbārâ, Q 28:40 fa-nabadhnāhum fī
+    l-yamm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 29:3
+      lang: he
+      text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
+        הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 28:38
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+        لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+        وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+    - ref: Quran 28:39
+      lang: ar
+      text: وَٱسْتَكْبَرَ هُوَ وَجُنُودُهُۥ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَظَنُّوٓا۟ أَنَّهُمْ إِلَيْنَا
+        لَا يُرْجَعُونَ
 ---
 
 ## Questions

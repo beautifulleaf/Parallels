@@ -2,8 +2,7 @@
 id: motif-hb-ezek-33-watchman-and-fall-news-vs-quran-10-book-readers-jonah
 title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer ↔
   Ask the readers of scripture; the people of Jonah
-summary: 'These two units share 1 motifs: god does not desire the death of the wicked but that he turn
-  from his way and live.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - god-desires-not-death-of-wicked
-passages:
-- tradition: judaism
-  ref: Ezek 33:11
-  note: God does not desire the death of the wicked but that he turn from his way and live
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱמֹ֨ר אֲלֵיהֶ֜ם חַי אָ֣נִי נְאֻ֣ם אֲדֹנָ֣י יְהוִ֗ה אִם אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י אִם
-    בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה תָמ֖וּתוּ
-    בֵּ֥ית יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 10:98
-  note: 'God does not desire the death of the wicked but that he turn from his way and live (Turning back
-    from wrong lifts the sentence: lammā āmanū kashafnā ʿanhum ʿadhāba l-khizyi wa-mattaʿnāhum ilā ḥīn
-    vs ʾim-ʾeḥpōṣ bᵉmôt hārāšāʿ kî ʾim-bᵉšûb rāšāʿ middarkô wᵉḥāyāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ ءَامَنُوا۟
-    كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Turning back from wrong lifts the sentence: lammā āmanū kashafnā ʿanhum ʿadhāba l-khizyi wa-mattaʿnāhum
-    ilā ḥīn vs ʾim-ʾeḥpōṣ bᵉmôt hārāšāʿ kî ʾim-bᵉšûb rāšāʿ middarkô wᵉḥāyāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not desire the death of the wicked but that he turn from
     his way and live (weight 6.3). Pair score 6.3.'
@@ -70,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not desire the death of the wicked but that he turn from his way and live
+kinds:
+- echo
+units:
+- id: hb-ezek-33-watchman-and-fall-news
+  title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer
+  tradition: judaism
+- id: quran-10-book-readers-jonah
+  title: Ask the readers of scripture; the people of Jonah
+  tradition: islam
+matches:
+- kind: echo
+  label: God does not desire the death of the wicked but that he turn from his way and live
+  note: 'Turning back from wrong lifts the sentence: lammā āmanū kashafnā ʿanhum ʿadhāba l-khizyi wa-mattaʿnāhum
+    ilā ḥīn vs ʾim-ʾeḥpōṣ bᵉmôt hārāšāʿ kî ʾim-bᵉšûb rāšāʿ middarkô wᵉḥāyāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 33:11
+      lang: he
+      text: אֱמֹ֨ר אֲלֵיהֶ֜ם חַי אָ֣נִי נְאֻ֣ם אֲדֹנָ֣י יְהוִ֗ה אִם אֶחְפֹּץ֙ בְּמ֣וֹת הָרָשָׁ֔ע כִּ֣י
+        אִם בְּשׁ֥וּב רָשָׁ֛ע מִדַּרְכּ֖וֹ וְחָיָ֑ה שׁ֣וּבוּ שׁ֜וּבוּ מִדַּרְכֵיכֶ֧ם הָרָעִ֛ים וְלָ֥מָּה
+        תָמ֖וּתוּ בֵּ֥ית יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 10:98
+      lang: ar
+      text: فَلَوْلَا كَانَتْ قَرْيَةٌ ءَامَنَتْ فَنَفَعَهَآ إِيمَٰنُهَآ إِلَّا قَوْمَ يُونُسَ لَمَّآ
+        ءَامَنُوا۟ كَشَفْنَا عَنْهُمْ عَذَابَ ٱلْخِزْىِ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَتَّعْنَٰهُمْ إِلَىٰ
+        حِينٍ
 ---
 
 ## Questions

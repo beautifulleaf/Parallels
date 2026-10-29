@@ -2,8 +2,7 @@
 id: motif-hb-jer-5-sea-boundary-vs-quran-10-who-provides-challenge
 title: The sea's sand boundary; houses full of deceit ↔ Who provides and who restores creation; the challenge
   of the surah
-summary: 'These two units share 1 motifs: a foolish people who have eyes but do not see and ears but do
-  not hear.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - eyes-that-do-not-see
-passages:
-- tradition: judaism
-  ref: Jer 5:21
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
-    וְלֹ֥א יִשְׁמָֽעוּ
-- tradition: islam
-  ref: Quran 10:42
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ
-- tradition: islam
-  ref: Quran 10:43
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. a-fa-anta tusmiʿu ṣ-ṣumma ... a-fa-anta tahdī l-ʿumya wa-law kānū lā yubṣirūn vs ʿênayim lāhem
-    wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
     hear (weight 5.4). Pair score 5.4.'
@@ -66,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foolish people who have eyes but do not see and ears but do not hear
+kinds:
+- echo
+units:
+- id: hb-jer-5-sea-boundary
+  title: The sea's sand boundary; houses full of deceit
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: echo
+  label: A foolish people who have eyes but do not see and ears but do not hear
+  note: a-fa-anta tusmiʿu ṣ-ṣumma ... a-fa-anta tahdī l-ʿumya wa-law kānū lā yubṣirūn vs ʿênayim lāhem
+    wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 5:21
+      lang: he
+      text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
+        וְלֹ֥א יִשְׁמָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:42
+      lang: ar
+      text: وَمِنْهُم مَّن يَسْتَمِعُونَ إِلَيْكَ أَفَأَنتَ تُسْمِعُ ٱلصُّمَّ وَلَوْ كَانُوا۟ لَا يَعْقِلُونَ
+    - ref: Quran 10:43
+      lang: ar
+      text: وَمِنْهُم مَّن يَنظُرُ إِلَيْكَ أَفَأَنتَ تَهْدِى ٱلْعُمْىَ وَلَوْ كَانُوا۟ لَا يُبْصِرُونَ
 ---
 
 ## Questions

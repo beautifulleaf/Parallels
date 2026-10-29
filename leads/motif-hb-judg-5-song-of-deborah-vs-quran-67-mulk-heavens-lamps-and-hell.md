@@ -2,8 +2,7 @@
 id: motif-hb-judg-5-song-of-deborah-vs-quran-67-mulk-heavens-lamps-and-hell
 title: 'The Song of Deborah ↔ Al-Mulk: death and life as test, seven flawless heavens, stars as missiles
   against devils, hell nearly bursting with rage'
-summary: 'These two units share 2 motifs: the stars fight from their courses against the enemy, the stars
-  fight from their courses against the enemy [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,45 +15,9 @@ layers:
 motifs:
 - stars-fight-from-heaven
 - stars-fight-from-heaven-as-divergence
-passages:
-- tradition: judaism
-  ref: Judg 5:20
-  note: The stars fight from their courses against the enemy ('from their courses (mesillot) the stars
-    fought against Sisera')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִן שָׁמַ֖יִם נִלְחָ֑מוּ הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם סִיסְרָֽא
-- tradition: islam
-  ref: Quran 67:5
-  note: The stars fight from their courses against the enemy (stars as weapons against devils)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ
-    وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
-- tradition: judaism
-  ref: Judg 5:20
-  note: 'The stars fight from their courses against the enemy [divergence between the texts] (Stars as
-    weapons, but against different enemies: wa-jaʿalnāhā rujūman li-sh-shayāṭīn (lamps of the lowest heaven
-    made missiles against devils) ~ min šāmayim nilḥāmû ha-kôkāvîm mi-mmesillôtām nilḥămû ʿim Sîserāʾ
-    (against a human general).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִן שָׁמַ֖יִם נִלְחָ֑מוּ הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם סִיסְרָֽא
-- tradition: islam
-  ref: Quran 67:5
-  note: 'The stars fight from their courses against the enemy [divergence between the texts] (Stars as
-    weapons, but against different enemies: wa-jaʿalnāhā rujūman li-sh-shayāṭīn (lamps of the lowest heaven
-    made missiles against devils) ~ min šāmayim nilḥāmû ha-kôkāvîm mi-mmesillôtām nilḥămû ʿim Sîserāʾ
-    (against a human general).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ
-    وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Stars as weapons, but against different enemies: wa-jaʿalnāhā rujūman li-sh-shayāṭīn (lamps
-    of the lowest heaven made missiles against devils) ~ min šāmayim nilḥāmû ha-kôkāvîm mi-mmesillôtām
-    nilḥămû ʿim Sîserāʾ (against a human general).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The stars fight from their courses against the enemy (weight 6.7);
     The stars fight from their courses against the enemy [divergence between the texts] (weight 6.7).
@@ -90,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The stars fight from their courses against the enemy
+kinds:
+- divergence
+units:
+- id: hb-judg-5-song-of-deborah
+  title: The Song of Deborah
+  tradition: judaism
+- id: quran-67-mulk-heavens-lamps-and-hell
+  title: 'Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils, hell
+    nearly bursting with rage'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The stars fight from their courses against the enemy
+  note: 'Stars as weapons, but against different enemies: wa-jaʿalnāhā rujūman li-sh-shayāṭīn (lamps of
+    the lowest heaven made missiles against devils) ~ min šāmayim nilḥāmû ha-kôkāvîm mi-mmesillôtām nilḥămû
+    ʿim Sîserāʾ (against a human general).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:20
+      lang: he
+      text: מִן שָׁמַ֖יִם נִלְחָ֑מוּ הַכּֽוֹכָבִים֙ מִמְּסִלּוֹתָ֔ם נִלְחֲמ֖וּ עִם סִיסְרָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 67:5
+      lang: ar
+      text: وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَٰبِيحَ وَجَعَلْنَٰهَا رُجُومًا لِّلشَّيَٰطِينِ
+        وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ
 ---
 
 ## Questions

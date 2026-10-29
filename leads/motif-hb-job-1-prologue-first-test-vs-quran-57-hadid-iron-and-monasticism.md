@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-57-hadid-iron-and-monasticism
 title: Job's piety, the heavenly council and the first test ↔ Life like withering plants; the Garden as
   wide as heaven and earth; every calamity written; iron sent down; Jesus' followers and invented monasticism
-summary: 'These two units share 1 motifs: so that you do not grieve over what escapes you nor exult over
-  what he gives you.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - do-not-grieve-loss-nor-exult-gain
-passages:
-- tradition: judaism
-  ref: Job 1:21
-  note: 'So that you do not grieve over what escapes you nor exult over what he gives you (Equanimity
-    before gain and loss, both from God: YHWH nāṯan wa-YHWH lāqāḥ yəhî šēm YHWH məḇōrāḵ vs. li-kay-lā
-    taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum. Job blesses in the moment of loss; the Quran gives
-    the reason: all was written beforehand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה
-    לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
-- tradition: islam
-  ref: Quran 57:23
-  note: So that you do not grieve over what escapes you nor exult over what he gives you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ لَا
-    يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
-- tradition: islam
-  ref: Quran 57:22
-  note: So that you do not grieve over what escapes you nor exult over what he gives you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ
-    أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Equanimity before gain and loss, both from God: YHWH nāṯan wa-YHWH lāqāḥ yəhî šēm YHWH məḇōrāḵ
-    vs. li-kay-lā taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum. Job blesses in the moment of loss;
-    the Quran gives the reason: all was written beforehand.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: So that you do not grieve over what escapes you nor exult over what
     he gives you (weight 6.7). Pair score 6.7.'
@@ -82,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: So that you do not grieve over what escapes you nor exult over what he gives you
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-57-hadid-iron-and-monasticism
+  title: Life like withering plants; the Garden as wide as heaven and earth; every calamity written; iron
+    sent down; Jesus' followers and invented monasticism
+  tradition: islam
+matches:
+- kind: echo
+  label: So that you do not grieve over what escapes you nor exult over what he gives you
+  note: 'Equanimity before gain and loss, both from God: YHWH nāṯan wa-YHWH lāqāḥ yəhî šēm YHWH məḇōrāḵ
+    vs. li-kay-lā taʾsaw ʿalā mā fātakum wa-lā tafraḥū bi-mā ātākum. Job blesses in the moment of loss;
+    the Quran gives the reason: all was written beforehand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:21
+      lang: he
+      text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן
+        וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:22
+      lang: ar
+      text: مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ
+        أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+    - ref: Quran 57:23
+      lang: ar
+      text: لِّكَيْلَا تَأْسَوْا۟ عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا۟ بِمَآ ءَاتَىٰكُمْ وَٱللَّهُ
+        لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ
 ---
 
 ## Questions

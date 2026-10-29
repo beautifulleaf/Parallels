@@ -2,8 +2,7 @@
 id: motif-hb-num-12-miriam-aaron-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'Miriam and Aaron speak against Moses ↔ Al-Saff: ranks like a solid structure; Moses hurt by his
   people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: moses asks his people: ''why do you hurt me when you know i
-  am god''s messenger to you?''; when they swerved god made their hearts swerve.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - moses-asks-why-do-you-hurt-me
-passages:
-- tradition: judaism
-  ref: Num 12:1
-  note: 'Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
-    they swerved God made their hearts swerve (wat-təḏabbēr miryām wə-ʾahărōn bə-mōšeh ... ha-raq ʾaḵ
-    bə-mōšeh dibber YHWH vs. li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum. Numbers: his
-    siblings question his unique status and God defends him; the Quran gives no details of the ''hurt''
-    (cf. Q 33:69, where God clears Moses).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּדַבֵּ֨ר מִרְיָ֤ם וְאַהֲרֹן֙ בְּמֹשֶׁ֔ה עַל אֹד֛וֹת הָאִשָּׁ֥ה הַכֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח
-    כִּֽי אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח
-- tradition: judaism
-  ref: Num 12:2
-  note: 'Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
-    they swerved God made their hearts swerve (wat-təḏabbēr miryām wə-ʾahărōn bə-mōšeh ... ha-raq ʾaḵ
-    bə-mōšeh dibber YHWH vs. li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum. Numbers: his
-    siblings question his unique status and God defends him; the Quran gives no details of the ''hurt''
-    (cf. Q 33:69, where God clears Moses).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֗וּ הֲרַ֤ק אַךְ בְּמֹשֶׁה֙ דִּבֶּ֣ר יְהוָ֔ה הֲלֹ֖א גַּם בָּ֣נוּ דִבֵּ֑ר וַיִּשְׁמַ֖ע
-    יְהוָֽה
-- tradition: islam
-  ref: Quran 61:5
-  note: 'Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
-    they swerved God made their hearts swerve'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
-    ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
-    ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wat-təḏabbēr miryām wə-ʾahărōn bə-mōšeh ... ha-raq ʾaḵ bə-mōšeh dibber YHWH vs. li-ma tuʾdhūnanī
-    wa-qad taʿlamūna annī rasūlu llāhi ilaykum. Numbers: his siblings question his unique status and God
-    defends him; the Quran gives no details of the ''hurt'' (cf. Q 33:69, where God clears Moses).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses asks his people: ''Why do you hurt me when you know I am God''s
     messenger to you?''; when they swerved God made their hearts swerve (weight 6.7). Pair score 6.7.'
@@ -87,6 +52,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
+  they swerved God made their hearts swerve'
+kinds:
+- echo
+units:
+- id: hb-num-12-miriam-aaron
+  title: Miriam and Aaron speak against Moses
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Moses asks his people: ''Why do you hurt me when you know I am God''s messenger to you?''; when
+    they swerved God made their hearts swerve'
+  note: 'wat-təḏabbēr miryām wə-ʾahărōn bə-mōšeh ... ha-raq ʾaḵ bə-mōšeh dibber YHWH vs. li-ma tuʾdhūnanī
+    wa-qad taʿlamūna annī rasūlu llāhi ilaykum. Numbers: his siblings question his unique status and God
+    defends him; the Quran gives no details of the ''hurt'' (cf. Q 33:69, where God clears Moses).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 12:1
+      lang: he
+      text: וַתְּדַבֵּ֨ר מִרְיָ֤ם וְאַהֲרֹן֙ בְּמֹשֶׁ֔ה עַל אֹד֛וֹת הָאִשָּׁ֥ה הַכֻּשִׁ֖ית אֲשֶׁ֣ר לָקָ֑ח
+        כִּֽי אִשָּׁ֥ה כֻשִׁ֖ית לָקָֽח
+    - ref: Num 12:2
+      lang: he
+      text: וַיֹּאמְר֗וּ הֲרַ֤ק אַךְ בְּמֹשֶׁה֙ דִּבֶּ֣ר יְהוָ֔ה הֲלֹ֖א גַּם בָּ֣נוּ דִבֵּ֑ר וַיִּשְׁמַ֖ע
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 61:5
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
+        ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
+        ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

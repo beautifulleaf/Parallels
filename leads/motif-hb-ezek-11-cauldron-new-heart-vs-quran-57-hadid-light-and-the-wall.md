@@ -3,8 +3,7 @@ id: motif-hb-ezek-11-cauldron-new-heart-vs-quran-57-hadid-light-and-the-wall
 title: The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on the
   Mount of Olives ↔ The believers' light, the hypocrites who would borrow it, and the wall with a gate;
   hearts hardened by long time
-summary: 'These two units share 1 motifs: god will remove the heart of stone and give a heart of flesh
-  and a new spirit.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - heart-of-stone-to-heart-of-flesh
-passages:
-- tradition: judaism
-  ref: Ezek 11:19
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit ('one heart')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב הָאֶ֨בֶן֙
-    מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 57:16
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ
-    ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
-    فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
-- tradition: islam
-  ref: Quran 57:17
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ
-    لَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wa-hăsirōṯî lēḇ hā-ʾeḇen mib-bəśārām wə-nāṯattî lāhem lēḇ bāśār vs. fa-qasat qulūbuhum (q-s-w,
-    hardness): a hard heart, removed by God in Ezekiel, a danger for believers in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will remove the heart of stone and give a heart of flesh and
     a new spirit (weight 5.8). Pair score 5.8.'
@@ -80,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will remove the heart of stone and give a heart of flesh and a new spirit
+kinds:
+- echo
+units:
+- id: hb-ezek-11-cauldron-new-heart
+  title: The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on
+    the Mount of Olives
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: echo
+  label: God will remove the heart of stone and give a heart of flesh and a new spirit
+  note: 'wa-hăsirōṯî lēḇ hā-ʾeḇen mib-bəśārām wə-nāṯattî lāhem lēḇ bāśār vs. fa-qasat qulūbuhum (q-s-w,
+    hardness): a hard heart, removed by God in Ezekiel, a danger for believers in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 11:19
+      lang: he
+      text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב
+        הָאֶ֨בֶן֙ מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 57:16
+      lang: ar
+      text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ
+        مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
+        فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
 ---
 
 ## Questions

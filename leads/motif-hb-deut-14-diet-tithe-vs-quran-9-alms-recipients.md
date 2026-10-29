@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-14-diet-tithe-vs-quran-9-alms-recipients
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ The eight recipients of alms
-summary: 'These two units share 1 motifs: who receives the sacred levy for the needy [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,52 +13,9 @@ layers:
 - motif
 motifs:
 - beneficiaries-of-sacred-levy-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 14:28
-  note: 'Who receives the sacred levy for the needy [divergence between the texts] (A sacred levy assigned
-    by God to named classes: innamā ṣ-ṣadaqātu li-l-fuqarāʾi wa-l-masākīni wa-l-ʿāmilīna ʿalayhā wa-l-muʾallafati
-    qulūbuhum wa-fī r-riqābi wa-l-ghārimīna wa-fī sabīli llāhi wa-bni s-sabīl vs wᵉhallēwî ... wᵉhaggēr
-    wᵉhayyātôm wᵉhāʾalmānāh. The lists differ: Deut''s Levite, orphan and widow are absent from Q; Q adds
-    collectors, the hearts to be won over, slaves, debtors and God''s cause. The stranger and the wayfarer
-    roughly correspond.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִקְצֵ֣ה שָׁלֹ֣שׁ שָׁנִ֗ים תּוֹצִיא֙ אֶת כָּל מַעְשַׂר֙ תְּבוּאָ֣תְךָ֔ בַּשָּׁנָ֖ה הַהִ֑וא וְהִנַּחְתָּ֖
-    בִּשְׁעָרֶֽיךָ
-- tradition: judaism
-  ref: Deut 14:29
-  note: 'Who receives the sacred levy for the needy [divergence between the texts] (A sacred levy assigned
-    by God to named classes: innamā ṣ-ṣadaqātu li-l-fuqarāʾi wa-l-masākīni wa-l-ʿāmilīna ʿalayhā wa-l-muʾallafati
-    qulūbuhum wa-fī r-riqābi wa-l-ghārimīna wa-fī sabīli llāhi wa-bni s-sabīl vs wᵉhallēwî ... wᵉhaggēr
-    wᵉhayyātôm wᵉhāʾalmānāh. The lists differ: Deut''s Levite, orphan and widow are absent from Q; Q adds
-    collectors, the hearts to be won over, slaves, debtors and God''s cause. The stranger and the wayfarer
-    roughly correspond.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
-    אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
-    יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 9:60
-  note: 'Who receives the sacred levy for the needy [divergence between the texts] (A sacred levy assigned
-    by God to named classes: innamā ṣ-ṣadaqātu li-l-fuqarāʾi wa-l-masākīni wa-l-ʿāmilīna ʿalayhā wa-l-muʾallafati
-    qulūbuhum wa-fī r-riqābi wa-l-ghārimīna wa-fī sabīli llāhi wa-bni s-sabīl vs wᵉhallēwî ... wᵉhaggēr
-    wᵉhayyātôm wᵉhāʾalmānāh. The lists differ: Deut''s Levite, orphan and widow are absent from Q; Q adds
-    collectors, the hearts to be won over, slaves, debtors and God''s cause. The stranger and the wayfarer
-    roughly correspond.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ
-    قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ فَرِيضَةً مِّنَ
-    ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A sacred levy assigned by God to named classes: innamā ṣ-ṣadaqātu li-l-fuqarāʾi wa-l-masākīni
-    wa-l-ʿāmilīna ʿalayhā wa-l-muʾallafati qulūbuhum wa-fī r-riqābi wa-l-ghārimīna wa-fī sabīli llāhi
-    wa-bni s-sabīl vs wᵉhallēwî ... wᵉhaggēr wᵉhayyātôm wᵉhāʾalmānāh. The lists differ: Deut''s Levite,
-    orphan and widow are absent from Q; Q adds collectors, the hearts to be won over, slaves, debtors
-    and God''s cause. The stranger and the wayfarer roughly correspond.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who receives the sacred levy for the needy [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +45,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who receives the sacred levy for the needy
+kinds:
+- divergence
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-9-alms-recipients
+  title: The eight recipients of alms
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who receives the sacred levy for the needy
+  note: 'A sacred levy assigned by God to named classes: innamā ṣ-ṣadaqātu li-l-fuqarāʾi wa-l-masākīni
+    wa-l-ʿāmilīna ʿalayhā wa-l-muʾallafati qulūbuhum wa-fī r-riqābi wa-l-ghārimīna wa-fī sabīli llāhi
+    wa-bni s-sabīl vs wᵉhallēwî ... wᵉhaggēr wᵉhayyātôm wᵉhāʾalmānāh. The lists differ: Deut''s Levite,
+    orphan and widow are absent from Q; Q adds collectors, the hearts to be won over, slaves, debtors
+    and God''s cause. The stranger and the wayfarer roughly correspond.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:28
+      lang: he
+      text: מִקְצֵ֣ה שָׁלֹ֣שׁ שָׁנִ֗ים תּוֹצִיא֙ אֶת כָּל מַעְשַׂר֙ תְּבוּאָ֣תְךָ֔ בַּשָּׁנָ֖ה הַהִ֑וא
+        וְהִנַּחְתָּ֖ בִּשְׁעָרֶֽיךָ
+    - ref: Deut 14:29
+      lang: he
+      text: וּבָ֣א הַלֵּוִ֡י כִּ֣י אֵֽין לוֹ֩ חֵ֨לֶק וְנַחֲלָ֜ה עִמָּ֗ךְ וְ֠הַגֵּר וְהַיָּת֤וֹם וְהָֽאַלְמָנָה֙
+        אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְאָכְל֖וּ וְשָׂבֵ֑עוּ לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל מַעֲשֵׂ֥ה
+        יָדְךָ֖ אֲשֶׁ֥ר תַּעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:60
+      lang: ar
+      text: إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ
+        قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ فَرِيضَةً
+        مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

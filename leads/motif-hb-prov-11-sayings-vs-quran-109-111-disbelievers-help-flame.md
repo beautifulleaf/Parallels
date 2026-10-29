@@ -2,7 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-109-111-disbelievers-help-flame
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ The disbelievers, the help, and
   the flame
-summary: 'These two units share 1 motifs: wealth does not profit on the day of wrath.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,22 +15,9 @@ layers:
 - motif
 motifs:
 - wealth-useless-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Prov 11:4
-  note: Wealth does not profit on the day of wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
-- tradition: islam
-  ref: Quran 111:2
-  note: Wealth does not profit on the day of wrath
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. mā aghnā ʿanhu māluhu wa-mā kasab ~ lōʾ yôʿîl hôn be-yôm ʿevrāh.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wealth does not profit on the day of wrath (weight 5.4). Pair score
     5.4.'
@@ -63,6 +50,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wealth does not profit on the day of wrath
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-109-111-disbelievers-help-flame
+  title: The disbelievers, the help, and the flame
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wealth does not profit on the day of wrath
+  note: mā aghnā ʿanhu māluhu wa-mā kasab ~ lōʾ yôʿîl hôn be-yôm ʿevrāh.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:4
+      lang: he
+      text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 111:2
+      lang: ar
+      text: مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ
 ---
 
 ## Questions

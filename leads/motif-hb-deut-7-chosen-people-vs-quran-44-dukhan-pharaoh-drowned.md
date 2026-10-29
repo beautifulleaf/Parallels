@@ -2,8 +2,7 @@
 id: motif-hb-deut-7-chosen-people-vs-quran-44-dukhan-pharaoh-drowned
 title: Dispossession of the seven nations; Israel the treasured people ↔ Moses asks Pharaoh to hand over
   God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: why god chose israel: love, or knowledge and testing [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - grounds-of-israels-election-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 7:6
-  note: 'Why God chose Israel: love, or knowledge and testing [divergence between the texts] (Election
-    and its reason. Deuteronomy: bəḵā bāḥar YHWH ʾĕlōhêḵā ... mik-kōl hā-ʿammîm; lōʾ mē-rubbəḵem ... ḥāšaq
-    YHWH bāḵem (out of love, not for their numbers). Quran: wa-la-qadi khtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn,
-    wa-ātaynāhum mina l-āyāti mā fīhi balāʾun mubīn (chosen ''with knowledge'', and given signs as a test).
-    Love (ḥešeq) becomes knowledge, and the treasured people (ʿam səḡullâ) becomes a people put to the
-    test.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּךָ֞ בָּחַ֣ר יְהוָ֣ה אֱלֹהֶ֗יךָ לִהְי֥וֹת לוֹ֙
-    לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל פְּנֵ֥י הָאֲדָמָֽה
-- tradition: judaism
-  ref: Deut 7:7
-  note: 'Why God chose Israel: love, or knowledge and testing [divergence between the texts] (Election
-    and its reason. Deuteronomy: bəḵā bāḥar YHWH ʾĕlōhêḵā ... mik-kōl hā-ʿammîm; lōʾ mē-rubbəḵem ... ḥāšaq
-    YHWH bāḵem (out of love, not for their numbers). Quran: wa-la-qadi khtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn,
-    wa-ātaynāhum mina l-āyāti mā fīhi balāʾun mubīn (chosen ''with knowledge'', and given signs as a test).
-    Love (ḥešeq) becomes knowledge, and the treasured people (ʿam səḡullâ) becomes a people put to the
-    test.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א מֵֽרֻבְּכֶ֞ם מִכָּל הָֽעַמִּ֗ים חָשַׁ֧ק יְהוָ֛ה בָּכֶ֖ם וַיִּבְחַ֣ר בָּכֶ֑ם כִּֽי אַתֶּ֥ם
-    הַמְעַ֖ט מִכָּל הָעַמִּֽים
-- tradition: islam
-  ref: Quran 44:32
-  note: 'Why God chose Israel: love, or knowledge and testing [divergence between the texts] (Election
-    and its reason. Deuteronomy: bəḵā bāḥar YHWH ʾĕlōhêḵā ... mik-kōl hā-ʿammîm; lōʾ mē-rubbəḵem ... ḥāšaq
-    YHWH bāḵem (out of love, not for their numbers). Quran: wa-la-qadi khtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn,
-    wa-ātaynāhum mina l-āyāti mā fīhi balāʾun mubīn (chosen ''with knowledge'', and given signs as a test).
-    Love (ḥešeq) becomes knowledge, and the treasured people (ʿam səḡullâ) becomes a people put to the
-    test.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Election and its reason. Deuteronomy: bəḵā bāḥar YHWH ʾĕlōhêḵā ... mik-kōl hā-ʿammîm;
-    lōʾ mē-rubbəḵem ... ḥāšaq YHWH bāḵem (out of love, not for their numbers). Quran: wa-la-qadi khtarnāhum
-    ʿalā ʿilmin ʿalā l-ʿālamīn, wa-ātaynāhum mina l-āyāti mā fīhi balāʾun mubīn (chosen ''with knowledge'',
-    and given signs as a test). Love (ḥešeq) becomes knowledge, and the treasured people (ʿam səḡullâ)
-    becomes a people put to the test.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why God chose Israel: love, or knowledge and testing [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -93,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Why God chose Israel: love, or knowledge and testing'
+kinds:
+- divergence
+units:
+- id: hb-deut-7-chosen-people
+  title: Dispossession of the seven nations; Israel the treasured people
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Why God chose Israel: love, or knowledge and testing'
+  note: 'Election and its reason. Deuteronomy: bəḵā bāḥar YHWH ʾĕlōhêḵā ... mik-kōl hā-ʿammîm; lōʾ mē-rubbəḵem
+    ... ḥāšaq YHWH bāḵem (out of love, not for their numbers). Quran: wa-la-qadi khtarnāhum ʿalā ʿilmin
+    ʿalā l-ʿālamīn, wa-ātaynāhum mina l-āyāti mā fīhi balāʾun mubīn (chosen ''with knowledge'', and given
+    signs as a test). Love (ḥešeq) becomes knowledge, and the treasured people (ʿam səḡullâ) becomes a
+    people put to the test.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 7:6
+      lang: he
+      text: כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ בְּךָ֞ בָּחַ֣ר יְהוָ֣ה אֱלֹהֶ֗יךָ לִהְי֥וֹת
+        לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל פְּנֵ֥י הָאֲדָמָֽה
+    - ref: Deut 7:7
+      lang: he
+      text: לֹ֣א מֵֽרֻבְּכֶ֞ם מִכָּל הָֽעַמִּ֗ים חָשַׁ֧ק יְהוָ֛ה בָּכֶ֖ם וַיִּבְחַ֣ר בָּכֶ֑ם כִּֽי אַתֶּ֥ם
+        הַמְעַ֖ט מִכָּל הָעַמִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 44:32
+      lang: ar
+      text: وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

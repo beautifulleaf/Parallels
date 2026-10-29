@@ -2,8 +2,7 @@
 id: motif-hb-ezek-11-cauldron-new-heart-vs-quran-2-the-cow
 title: The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on the
   Mount of Olives ↔ The cow and the slain man
-summary: 'These two units share 2 motifs: hearts of stone [divergence between the texts], god will remove
-  the heart of stone and give a heart of flesh and a new spirit.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,50 +15,9 @@ layers:
 motifs:
 - heart-of-stone-as-divergence
 - heart-of-stone-to-heart-of-flesh
-passages:
-- tradition: judaism
-  ref: Ezek 11:19
-  note: 'Hearts of stone [divergence between the texts] (Ezek 11:19 wa-hăsirōtî lēb hā-ʾeben mi-bbĕśārām
-    wĕ-nātattî lāhem lēb bāśār; Q 2:74 fa-hiya ka-l-ḥijārati aw ashaddu qaswatan: the stony heart as the
-    people''s condition, without a promised replacement.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב הָאֶ֨בֶן֙
-    מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 2:74
-  note: 'Hearts of stone [divergence between the texts] (Ezek 36:26 wa-hăsirōtî ʾet lēb hā-ʾeben mi-bbĕśarkem
-    wĕ-nātattî lākem lēb bāśār: God will take away the heart of stone; Q 2:74 thumma qasat qulūbukum min
-    baʿdi dhālika fa-hiya ka-l-ḥijārati aw ashaddu qaswatan: the hearts became like stone or harder, and
-    stones are said to be better: some gush water, split, or fall in fear of God. Promise of a new heart
-    vs indictment of hearts harder than rock.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
-    مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-    مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا
-    تَعْمَلُونَ
-- tradition: judaism
-  ref: Ezek 11:19
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit ('one heart')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב הָאֶ֨בֶן֙
-    מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
-- tradition: islam
-  ref: Quran 2:74
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
-    مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
-    مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا
-    تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ezek 11:19 wa-hăsirōtî lēb hā-ʾeben mi-bbĕśārām wĕ-nātattî lāhem lēb bāśār; Q 2:74 fa-hiya
-    ka-l-ḥijārati aw ashaddu qaswatan: the stony heart as the people''s condition, without a promised
-    replacement.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hearts of stone [divergence between the texts] (weight 6.3); God
     will remove the heart of stone and give a heart of flesh and a new spirit (weight 5.8). Pair score
@@ -93,6 +51,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hearts of stone
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ezek-11-cauldron-new-heart
+  title: The cauldron saying, death of Pelatiah, God as little sanctuary, the new heart, the glory on
+    the Mount of Olives
+  tradition: judaism
+- id: quran-2-the-cow
+  title: The cow and the slain man
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hearts of stone
+  note: 'Ezek 11:19 wa-hăsirōtî lēb hā-ʾeben mi-bbĕśārām wĕ-nātattî lāhem lēb bāśār; Q 2:74 fa-hiya ka-l-ḥijārati
+    aw ashaddu qaswatan: the stony heart as the people''s condition, without a promised replacement.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 11:19
+      lang: he
+      text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב
+        הָאֶ֨בֶן֙ מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:74
+      lang: ar
+      text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
+        مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+        مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا تَعْمَلُونَ
+- kind: shared
+  label: God will remove the heart of stone and give a heart of flesh and a new spirit
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 11:19
+      lang: he
+      text: וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב
+        הָאֶ֨בֶן֙ מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר
+    note: '''one heart'''
+  - tradition: islam
+    passages:
+    - ref: Quran 2:74
+      lang: ar
+      text: ثُمَّ قَسَتْ قُلُوبُكُم مِّنۢ بَعْدِ ذَٰلِكَ فَهِىَ كَٱلْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً وَإِنَّ
+        مِنَ ٱلْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ ٱلْأَنْهَٰرُ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ
+        مِنْهُ ٱلْمَآءُ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ ٱللَّهِ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا تَعْمَلُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-22-micaiah-vs-quran-37-ranks-and-guarded-heaven
 title: Micaiah son of Imlah and the lying spirit ↔ The ranks, the guarded heaven and the shooting stars
-summary: 'These two units share 1 motifs: whether the adversary, devils or deceiving spirits have access
-  to god''s council [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,55 +13,9 @@ layers:
 - motif
 motifs:
 - adversary-access-to-heavenly-council-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Kgs 22:19
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Spirits and the council. Kings: wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw ... wa-yyēṣēʾ hā-rûaḥ
-    ... wə-hāyîṯî rûaḥ šeqer bə-p̄î kol-nəḇîʾâw, a spirit from the council itself is sent to deceive the
-    prophets. Q: the devils who try to snatch a word from al-malaʾ al-aʿlā are chased by a piercing flame
-    (shihābun thāqib). Lying inspiration comes from below and is blocked, never from God''s council.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל צְבָ֤א
-    הַשָּׁמַ֨יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ
-- tradition: judaism
-  ref: 1Kgs 22:21
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Spirits and the council. Kings: wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw ... wa-yyēṣēʾ hā-rûaḥ
-    ... wə-hāyîṯî rûaḥ šeqer bə-p̄î kol-nəḇîʾâw, a spirit from the council itself is sent to deceive the
-    prophets. Q: the devils who try to snatch a word from al-malaʾ al-aʿlā are chased by a piercing flame
-    (shihābun thāqib). Lying inspiration comes from below and is blocked, never from God''s council.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א הָר֗וּחַ וַֽיַּעֲמֹד֙ לִפְנֵ֣י יְהוָ֔ה וַיֹּ֖אמֶר אֲנִ֣י אֲפַתֶּ֑נּוּ וַיֹּ֧אמֶר יְהוָ֛ה
-    אֵלָ֖יו בַּמָּֽה
-- tradition: islam
-  ref: Quran 37:7
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ
-- tradition: islam
-  ref: Quran 37:8
-  note: 'Whether the adversary, devils or deceiving spirits have access to God''s council [contrast between
-    the texts] (Access of the adversary to the heavenly council. Job: wa-yyāḇōʾû bənê hā-ʾĕlōhîm ləhiṯyaṣṣēḇ
-    ʿal-YHWH wa-yyāḇôʾ ḡam-ha-śśāṭān bə-ṯôḵām, the satan enters freely and speaks with God. Q: ḥifẓan
-    min kulli shayṭānin mārid lā yassammaʿūna ilā l-malaʾi l-aʿlā wa-yuqdhafūna min kulli jānib, the devils
-    cannot even overhear the exalted assembly, and are pelted away.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Spirits and the council. Kings: wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw ... wa-yyēṣēʾ hā-rûaḥ
-    ... wə-hāyîṯî rûaḥ šeqer bə-p̄î kol-nəḇîʾâw, a spirit from the council itself is sent to deceive the
-    prophets. Q: the devils who try to snatch a word from al-malaʾ al-aʿlā are chased by a piercing flame
-    (shihābun thāqib). Lying inspiration comes from below and is blocked, never from God''s council.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the adversary, devils or deceiving spirits have access to
     God''s council [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -97,6 +50,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the adversary, devils or deceiving spirits have access to God's council
+kinds:
+- contrast
+units:
+- id: hb-1kgs-22-micaiah
+  title: Micaiah son of Imlah and the lying spirit
+  tradition: judaism
+- id: quran-37-ranks-and-guarded-heaven
+  title: The ranks, the guarded heaven and the shooting stars
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the adversary, devils or deceiving spirits have access to God's council
+  note: 'Spirits and the council. Kings: wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw ... wa-yyēṣēʾ hā-rûaḥ ...
+    wə-hāyîṯî rûaḥ šeqer bə-p̄î kol-nəḇîʾâw, a spirit from the council itself is sent to deceive the prophets.
+    Q: the devils who try to snatch a word from al-malaʾ al-aʿlā are chased by a piercing flame (shihābun
+    thāqib). Lying inspiration comes from below and is blocked, never from God''s council.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 22:19
+      lang: he
+      text: וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל
+        צְבָ֤א הַשָּׁמַ֨יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ
+    - ref: 1Kgs 22:21
+      lang: he
+      text: וַיֵּצֵ֣א הָר֗וּחַ וַֽיַּעֲמֹד֙ לִפְנֵ֣י יְהוָ֔ה וַיֹּ֖אמֶר אֲנִ֣י אֲפַתֶּ֑נּוּ וַיֹּ֧אמֶר
+        יְהוָ֛ה אֵלָ֖יו בַּמָּֽה
+    - ref: 1Kgs 22:22
+      lang: he
+      text: וַיֹּ֗אמֶר אֵצֵא֙ וְהָיִ֨יתִי֙ ר֣וּחַ שֶׁ֔קֶר בְּפִ֖י כָּל נְבִיאָ֑יו וַיֹּ֗אמֶר תְּפַתֶּה֙
+        וְגַם תּוּכָ֔ל צֵ֖א וַעֲשֵׂה כֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 37:8
+      lang: ar
+      text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+    - ref: Quran 37:10
+      lang: ar
+      text: إِلَّا مَنْ خَطِفَ ٱلْخَطْفَةَ فَأَتْبَعَهُۥ شِهَابٌ ثَاقِبٌ
 ---
 
 ## Questions

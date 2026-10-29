@@ -3,8 +3,7 @@ id: motif-hb-jer-51-oracle-babylon-2-vs-quran-52-tur-garden-and-challenge
 title: 'Oracle against Babylon (II): golden cup, destroying mountain, Sheshach, the scroll sunk in the
   Euphrates ↔ The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
   the run of ''or...?'' challenges'
-summary: 'These two units share 2 motifs: the effects of wine and of the cup: mockery, madness, or none
-  [contrast between the texts], god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,47 +16,9 @@ layers:
 motifs:
 - effects-of-wine-and-the-cup-as-contrast
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Jer 51:7
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (kôs
-    zāhāḇ bāḇel bə-yaḏ YHWH məšakkereṯ kol hā-ʾāreṣ ... ʿal kēn yiṯhōləlû ḡôyim (a golden cup that makes
-    the nations mad) vs. kaʾsan lā laghwun fīhā wa-lā taʾthīm. A cup of judgment that maddens, against
-    a cup of reward that harms no one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כּוֹס זָהָ֤ב בָּבֶל֙ בְּיַד יְהוָ֔ה מְשַׁכֶּ֖רֶת כָּל הָאָ֑רֶץ מִיֵּינָהּ֙ שָׁת֣וּ גוֹיִ֔ם עַל
-    כֵּ֖ן יִתְהֹלְל֥וּ גוֹיִֽם
-- tradition: islam
-  ref: Quran 52:23
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (Wine
-    and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker, strong drink
-    a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no idle talk and
-    no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
-- tradition: judaism
-  ref: Jer 51:15-16
-  note: God opens his good storehouse, the heavens, to give rain (Lightnings for rain, wind from his treasuries
-    (doublet of Jer 10:12-16))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (51:15) עֹשֵׂ֥ה אֶ֨רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם
-    (51:16) לְק֨וֹל תִּתּ֜וֹ הֲמ֥וֹן מַ֨יִם֙ בַּשָּׁמַ֔יִם וַיַּ֥עַל נְשִׂאִ֖ים מִקְצֵה אָ֑רֶץ בְּרָקִ֤ים
-    לַמָּטָר֙ עָשָׂ֔ה וַיֹּ֥צֵא ר֖וּחַ מֵאֹצְרֹתָֽיו
-- tradition: islam
-  ref: Quran 52:37
-  note: God opens his good storehouse, the heavens, to give rain ('do they hold the treasuries of your
-    Lord?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. kôs zāhāḇ bāḇel bə-yaḏ YHWH məšakkereṯ kol hā-ʾāreṣ ... ʿal kēn yiṯhōləlû ḡôyim (a golden
-    cup that makes the nations mad) vs. kaʾsan lā laghwun fīhā wa-lā taʾthīm. A cup of judgment that maddens,
-    against a cup of reward that harms no one.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The effects of wine and of the cup: mockery, madness, or none [contrast
     between the texts] (weight 5.8); God opens his good storehouse, the heavens, to give rain (weight
@@ -97,6 +58,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The effects of wine and of the cup: mockery, madness, or none'
+kinds:
+- contrast
+- shared
+units:
+- id: hb-jer-51-oracle-babylon-2
+  title: 'Oracle against Babylon (II): golden cup, destroying mountain, Sheshach, the scroll sunk in the
+    Euphrates'
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'The effects of wine and of the cup: mockery, madness, or none'
+  note: kôs zāhāḇ bāḇel bə-yaḏ YHWH məšakkereṯ kol hā-ʾāreṣ ... ʿal kēn yiṯhōləlû ḡôyim (a golden cup
+    that makes the nations mad) vs. kaʾsan lā laghwun fīhā wa-lā taʾthīm. A cup of judgment that maddens,
+    against a cup of reward that harms no one.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 51:7
+      lang: he
+      text: כּוֹס זָהָ֤ב בָּבֶל֙ בְּיַד יְהוָ֔ה מְשַׁכֶּ֖רֶת כָּל הָאָ֑רֶץ מִיֵּינָהּ֙ שָׁת֣וּ גוֹיִ֔ם
+        עַל כֵּ֖ן יִתְהֹלְל֥וּ גוֹיִֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 52:23
+      lang: ar
+      text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
+- kind: shared
+  label: God opens his good storehouse, the heavens, to give rain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 51:15-16
+      lang: he
+      text: (51:15) עֹשֵׂ֥ה אֶ֨רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם
+        (51:16) לְק֨וֹל תִּתּ֜וֹ הֲמ֥וֹן מַ֨יִם֙ בַּשָּׁמַ֔יִם וַיַּ֥עַל נְשִׂאִ֖ים מִקְצֵה אָ֑רֶץ בְּרָקִ֤ים
+        לַמָּטָר֙ עָשָׂ֔ה וַיֹּ֥צֵא ר֖וּחַ מֵאֹצְרֹתָֽיו
+    note: Lightnings for rain, wind from his treasuries (doublet of Jer 10:12-16)
+  - tradition: islam
+    passages:
+    - ref: Quran 52:37
+      lang: ar
+      text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+    note: '''do they hold the treasuries of your Lord?'''
 ---
 
 ## Questions

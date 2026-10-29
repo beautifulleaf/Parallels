@@ -2,7 +2,7 @@
 id: motif-hb-ps-98-rivers-clap-vs-quran-34-david-solomon
 title: Psalm 98, new song; rivers clap their hands ↔ David's mountains and mail; Solomon's wind, copper,
   jinn and staff
-summary: 'These two units share 1 motifs: rivers clap their hands and mountains sing together before yhwh.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - rivers-clap-hands
-passages:
-- tradition: judaism
-  ref: Ps 98:8
-  note: Rivers clap their hands and mountains sing together before YHWH (neharot yimha'u khaf)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהָר֥וֹת יִמְחֲאוּ כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ
-- tradition: islam
-  ref: Quran 34:10
-  note: Rivers clap their hands and mountains sing together before YHWH (mountains join in praise)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
-    لَهُ ٱلْحَدِيدَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. nəhārôṯ yimḥăʾû-ḵāp̄ yaḥaḏ hārîm yərannēnû vs. yā-jibālu awwibī maʿahu: the mountains sing together
-    (yaḥaḏ / maʿahu).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rivers clap their hands and mountains sing together before YHWH
     (weight 6.7). Pair score 6.7.'
@@ -59,6 +44,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rivers clap their hands and mountains sing together before YHWH
+kinds:
+- echo
+units:
+- id: hb-ps-98-rivers-clap
+  title: Psalm 98, new song; rivers clap their hands
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: Rivers clap their hands and mountains sing together before YHWH
+  note: 'nəhārôṯ yimḥăʾû-ḵāp̄ yaḥaḏ hārîm yərannēnû vs. yā-jibālu awwibī maʿahu: the mountains sing together
+    (yaḥaḏ / maʿahu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 98:8
+      lang: he
+      text: נְהָר֥וֹת יִמְחֲאוּ כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:10
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
+        لَهُ ٱلْحَدِيدَ
 ---
 
 ## Questions

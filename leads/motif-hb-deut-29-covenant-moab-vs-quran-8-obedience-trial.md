@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-29-covenant-moab-vs-quran-8-obedience-trial
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ Deaf and dumb beasts, heart and trial
-summary: 'These two units share 1 motifs: god has not given the people a heart to know, eyes to see, ears
-  to hear until today.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - god-withheld-understanding
-passages:
-- tradition: judaism
-  ref: Deut 29:3
-  note: God has not given the people a heart to know, eyes to see, ears to hear until today
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא נָתַן֩ יְהוָ֨ה לָכֶ֥ם לֵב֙ לָדַ֔עַת וְעֵינַ֥יִם לִרְא֖וֹת וְאָזְנַ֣יִם לִשְׁמֹ֑עַ עַ֖ד
-    הַיּ֥וֹם הַזֶּֽה
-- tradition: islam
-  ref: Quran 8:23
-  note: 'God has not given the people a heart to know, eyes to see, ears to hear until today (God has
-    not given them hearing: law ʿalima llāhu fīhim khayran la-asmaʿahum vs wᵉlōʾ-nātan YHWH lākem lēb
-    lādaʿat wᵉʿênayim lirʾôt wᵉʾoznayim lišmōaʿ ʿad hayyôm hazzeh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًا لَّأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا۟ وَّهُم
-    مُّعْرِضُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God has not given them hearing: law ʿalima llāhu fīhim khayran la-asmaʿahum vs wᵉlōʾ-nātan
-    YHWH lākem lēb lādaʿat wᵉʿênayim lirʾôt wᵉʾoznayim lišmōaʿ ʿad hayyôm hazzeh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has not given the people a heart to know, eyes to see, ears
     to hear until today (weight 6.7). Pair score 6.7.'
@@ -67,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has not given the people a heart to know, eyes to see, ears to hear until today
+kinds:
+- parallel
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: parallel
+  label: God has not given the people a heart to know, eyes to see, ears to hear until today
+  note: 'God has not given them hearing: law ʿalima llāhu fīhim khayran la-asmaʿahum vs wᵉlōʾ-nātan YHWH
+    lākem lēb lādaʿat wᵉʿênayim lirʾôt wᵉʾoznayim lišmōaʿ ʿad hayyôm hazzeh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:3
+      lang: he
+      text: וְלֹֽא נָתַן֩ יְהוָ֨ה לָכֶ֥ם לֵב֙ לָדַ֔עַת וְעֵינַ֥יִם לִרְא֖וֹת וְאָזְנַ֣יִם לִשְׁמֹ֑עַ עַ֖ד
+        הַיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:23
+      lang: ar
+      text: وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًا لَّأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا۟ وَّهُم
+        مُّعْرِضُونَ
 ---
 
 ## Questions

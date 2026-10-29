@@ -2,7 +2,7 @@
 id: motif-hb-gen-18-visitors-at-mamre-vs-quran-6-creation-rejecters
 title: Three visitors at Mamre and the promise of Isaac ↔ Darkness and light, clay and two terms, and
   those who would not believe
-summary: 'These two units share 1 motifs: god appears as three men who visit the patriarch.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - three-divine-visitors
-passages:
-- tradition: judaism
-  ref: Gen 18:1
-  note: God appears as three men who visit the patriarch (YHWH appears; Abraham sees three men)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם
-- tradition: judaism
-  ref: Gen 18:2
-  note: God appears as three men who visit the patriarch (YHWH appears; Abraham sees three men)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ
-    לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
-- tradition: islam
-  ref: Quran 6:9
-  note: God appears as three men who visit the patriarch (angels appearing as men)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ جَعَلْنَٰهُ مَلَكًا لَّجَعَلْنَٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ
-- tradition: islam
-  ref: Quran 6:8
-  note: God appears as three men who visit the patriarch (angels appearing as men)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ ثُمَّ
-    لَا يُنظَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Heavenly messengers appear as men. Gen: wə-hinnēh šəlōšāh ʾănāšîm niṣṣāvîm ʿālāyw. Q: wa-law
-    jaʿalnāhu malakan la-jaʿalnāhu rajulan wa-la-labasnā ʿalayhim mā yalbisūna. An angel sent would come
-    as a man, and the confusion would remain. Q uses the HB idea against the demand for an angel.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God appears as three men who visit the patriarch (weight 5.8). Pair
     score 5.8.'
@@ -80,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God appears as three men who visit the patriarch
+kinds:
+- echo
+units:
+- id: hb-gen-18-visitors-at-mamre
+  title: Three visitors at Mamre and the promise of Isaac
+  tradition: judaism
+- id: quran-6-creation-rejecters
+  title: Darkness and light, clay and two terms, and those who would not believe
+  tradition: islam
+matches:
+- kind: echo
+  label: God appears as three men who visit the patriarch
+  note: 'Heavenly messengers appear as men. Gen: wə-hinnēh šəlōšāh ʾănāšîm niṣṣāvîm ʿālāyw. Q: wa-law
+    jaʿalnāhu malakan la-jaʿalnāhu rajulan wa-la-labasnā ʿalayhim mā yalbisūna. An angel sent would come
+    as a man, and the confusion would remain. Q uses the HB idea against the demand for an angel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:2
+      lang: he
+      text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא
+        וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:8
+      lang: ar
+      text: وَقَالُوا۟ لَوْلَآ أُنزِلَ عَلَيْهِ مَلَكٌ وَلَوْ أَنزَلْنَا مَلَكًا لَّقُضِىَ ٱلْأَمْرُ
+        ثُمَّ لَا يُنظَرُونَ
+    - ref: Quran 6:9
+      lang: ar
+      text: وَلَوْ جَعَلْنَٰهُ مَلَكًا لَّجَعَلْنَٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ
 ---
 
 ## Questions

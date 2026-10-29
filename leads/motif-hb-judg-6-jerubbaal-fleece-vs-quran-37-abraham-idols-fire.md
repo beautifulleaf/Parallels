@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-jerubbaal-fleece-vs-quran-37-abraham-idols-fire
 title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs ↔ Abraham, the stars, the
   smashed idols and the fire
-summary: 'These two units share 2 motifs: hero smashes or burns idols, hero''s father makes, sells or
-  worships idols.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,70 +16,9 @@ layers:
 motifs:
 - hero-smashes-idols
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Judg 6:25-28
-  note: Hero smashes or burns idols (done at night with ten servants for fear of his family and the town)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:25) וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת (6:26) וּבָנִ֨יתָ מִזְבֵּ֜חַ לַיהוָ֣ה אֱלֹהֶ֗יךָ עַ֣ל רֹ֧אשׁ
-    הַמָּע֛וֹז הַזֶּ֖ה בַּמַּֽעֲרָכָ֑ה וְלָֽקַחְתָּ֙ אֶת הַפָּ֣ר הַשֵּׁנִ֔י וְהַעֲלִ֣יתָ עוֹלָ֔ה בַּעֲצֵ֥י
-    הָאֲשֵׁרָ֖ה אֲשֶׁ֥ר תִּכְרֹֽת (6:27) וַיִּקַּ֨ח גִּדְע֜וֹן עֲשָׂרָ֤ה אֲנָשִׁים֙ מֵֽעֲבָדָ֔יו וַיַּ֕עַשׂ
-    כַּאֲשֶׁ֛ר דִּבֶּ֥ר אֵלָ֖יו יְהוָ֑ה וַיְהִ֡י כַּאֲשֶׁ֣ר יָרֵא֩ אֶת בֵּ֨ית אָבִ֜יו וְאֶת אַנְשֵׁ֥י
-    הָעִ֛יר מֵעֲשׂ֥וֹת יוֹמָ֖ם וַיַּ֥עַשׂ לָֽיְלָה (6:28) וַיַּשְׁכִּ֜ימוּ אַנְשֵׁ֤י הָעִיר֙ בַּבֹּ֔קֶר
-    וְהִנֵּ֤ה נֻתַּץ֙ מִזְבַּ֣ח הַבַּ֔עַל וְהָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו כֹּרָ֑תָה וְאֵת֙ הַפָּ֣ר הַשֵּׁנִ֔י
-    הֹֽעֲלָ֔ה עַל הַמִּזְבֵּ֖חַ הַבָּנֽוּי
-- tradition: judaism
-  ref: Judg 6:25
-  note: Hero smashes or burns idols (done at night with ten servants for fear of his family and the town)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: islam
-  ref: Quran 37:93
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
-- tradition: islam
-  ref: Quran 37:85
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
-- tradition: judaism
-  ref: Judg 6:25
-  note: Hero's father makes, sells or worships idols (the Baal altar and Asherah belong to Gideon's father
-    Joash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: islam
-  ref: Quran 37:85
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 37:86
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. A son destroys the cult objects of his father''s house and the townsmen demand his death.
-    Judg: wə-hārastā ʾeṯ-mizbaḥ ha-bbaʿal ʾăšer lə-ʾāḇîḵā ... hôṣēʾ ʾeṯ-binḵā wə-yāmōṯ; Joash answers
-    ʾim-ʾĕlōhîm hûʾ yāreḇ lô (if Baal is a god let him fight for himself). Q: idh qāla li-abīhi wa-qawmihi
-    mādhā taʿbudūn ... fa-rāgha ʿalayhim ḍarban bi-l-yamīn ... qālū bnū lahu bunyānan fa-alqūhu fī l-jaḥīm.
-    In Judges the father defends the son by mocking the god; in the Quran the son mocks (mā lakum lā tanṭiqūn)
-    and the father is the idolater.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 5.6); Hero''s father makes,
     sells or worships idols (weight 4.8). Pair score 10.4.'
@@ -111,6 +49,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero smashes or burns idols
+kinds:
+- parallel
+- shared
+units:
+- id: hb-judg-6-jerubbaal-fleece
+  title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: parallel
+  label: Hero smashes or burns idols
+  note: 'A son destroys the cult objects of his father''s house and the townsmen demand his death. Judg:
+    wə-hārastā ʾeṯ-mizbaḥ ha-bbaʿal ʾăšer lə-ʾāḇîḵā ... hôṣēʾ ʾeṯ-binḵā wə-yāmōṯ; Joash answers ʾim-ʾĕlōhîm
+    hûʾ yāreḇ lô (if Baal is a god let him fight for himself). Q: idh qāla li-abīhi wa-qawmihi mādhā taʿbudūn
+    ... fa-rāgha ʿalayhim ḍarban bi-l-yamīn ... qālū bnū lahu bunyānan fa-alqūhu fī l-jaḥīm. In Judges
+    the father defends the son by mocking the god; in the Quran the son mocks (mā lakum lā tanṭiqūn) and
+    the father is the idolater.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    - ref: Judg 6:28
+      lang: he
+      text: וַיַּשְׁכִּ֜ימוּ אַנְשֵׁ֤י הָעִיר֙ בַּבֹּ֔קֶר וְהִנֵּ֤ה נֻתַּץ֙ מִזְבַּ֣ח הַבַּ֔עַל וְהָאֲשֵׁרָ֥ה
+        אֲשֶׁר עָלָ֖יו כֹּרָ֑תָה וְאֵת֙ הַפָּ֣ר הַשֵּׁנִ֔י הֹֽעֲלָ֔ה עַל הַמִּזְבֵּ֖חַ הַבָּנֽוּי
+    - ref: Judg 6:30
+      lang: he
+      text: וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל יוֹאָ֔שׁ הוֹצֵ֥א אֶת בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת
+        מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 37:85
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    - ref: Quran 37:93
+      lang: ar
+      text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+    - ref: Quran 37:97
+      lang: ar
+      text: قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    note: the Baal altar and Asherah belong to Gideon's father Joash
+  - tradition: islam
+    passages:
+    - ref: Quran 37:85
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    - ref: Quran 37:86
+      lang: ar
+      text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
 ---
 
 ## Questions

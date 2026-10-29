@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1kgs-21-naboth-vs-quran-36-people-of-the-town
 title: Naboth's vineyard ↔ The people of the town, the three messengers and the man who came running
-summary: 'These two units share 1 motifs: offender stoned to death by the community.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,38 +13,9 @@ layers:
 - motif
 motifs:
 - stoning-penalty
-passages:
-- tradition: judaism
-  ref: 1Kgs 21:13-15
-  note: Offender stoned to death by the community
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (21:13) וַ֠יָּבֹאוּ שְׁנֵ֨י הָאֲנָשִׁ֥ים בְּנֵֽי בְלִיַּעַל֮ וַיֵּשְׁב֣וּ נֶגְדּוֹ֒ וַיְעִדֻהוּ֩
-    אַנְשֵׁ֨י הַבְּלִיַּ֜עַל אֶת נָב֗וֹת נֶ֤גֶד הָעָם֙ לֵאמֹ֔ר בֵּרַ֥ךְ נָב֛וֹת אֱלֹהִ֖ים וָמֶ֑לֶךְ וַיֹּצִאֻ֨הוּ֙
-    מִח֣וּץ לָעִ֔יר וַיִּסְקְלֻ֥הוּ בָאֲבָנִ֖ים וַיָּמֹֽת (21:14) וַֽיִּשְׁלְח֖וּ אֶל אִיזֶ֣בֶל לֵאמֹ֑ר
-    סֻקַּ֥ל נָב֖וֹת וַיָּמֹֽת (21:15) וַֽיְהִי֙ כִּשְׁמֹ֣עַ אִיזֶ֔בֶל כִּֽי סֻקַּ֥ל נָב֖וֹת וַיָּמֹ֑ת
-    וַתֹּ֨אמֶר אִיזֶ֜בֶל אֶל אַחְאָ֗ב ק֣וּם רֵ֞שׁ אֶת כֶּ֣רֶם נָב֣וֹת הַיִּזְרְעֵאלִ֗י אֲשֶׁ֤ר מֵאֵן֙
-    לָתֶת לְךָ֣ בְכֶ֔סֶף כִּ֣י אֵ֥ין נָב֛וֹת חַ֖י כִּי מֵֽת
-- tradition: judaism
-  ref: 1Kgs 21:13
-  note: Offender stoned to death by the community
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יָּבֹאוּ שְׁנֵ֨י הָאֲנָשִׁ֥ים בְּנֵֽי בְלִיַּעַל֮ וַיֵּשְׁב֣וּ נֶגְדּוֹ֒ וַיְעִדֻהוּ֩ אַנְשֵׁ֨י
-    הַבְּלִיַּ֜עַל אֶת נָב֗וֹת נֶ֤גֶד הָעָם֙ לֵאמֹ֔ר בֵּרַ֥ךְ נָב֛וֹת אֱלֹהִ֖ים וָמֶ֑לֶךְ וַיֹּצִאֻ֨הוּ֙
-    מִח֣וּץ לָעִ֔יר וַיִּסְקְלֻ֥הוּ בָאֲבָנִ֖ים וַיָּמֹֽת
-- tradition: islam
-  ref: Quran 36:18
-  note: Offender stoned to death by the community (threat to stone the messengers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
-    مِّنَّا عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyōṣiʾuhû mi-ḥûṣ lā-ʿîr wa-yyisqəluhû ḇā-ʾăḇānîm wa-yyāmōṯ vs. la-narjumannakum: the town
-    stones the righteous man. Naboth is stoned on a false charge of cursing God and king; the messengers
-    are threatened for bringing God''s message.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Offender stoned to death by the community (weight 5.8). Pair score
     5.8.'
@@ -73,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Offender stoned to death by the community
+kinds:
+- echo
+units:
+- id: hb-1kgs-21-naboth
+  title: Naboth's vineyard
+  tradition: judaism
+- id: quran-36-people-of-the-town
+  title: The people of the town, the three messengers and the man who came running
+  tradition: islam
+matches:
+- kind: echo
+  label: Offender stoned to death by the community
+  note: 'wa-yyōṣiʾuhû mi-ḥûṣ lā-ʿîr wa-yyisqəluhû ḇā-ʾăḇānîm wa-yyāmōṯ vs. la-narjumannakum: the town
+    stones the righteous man. Naboth is stoned on a false charge of cursing God and king; the messengers
+    are threatened for bringing God''s message.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 21:13
+      lang: he
+      text: וַ֠יָּבֹאוּ שְׁנֵ֨י הָאֲנָשִׁ֥ים בְּנֵֽי בְלִיַּעַל֮ וַיֵּשְׁב֣וּ נֶגְדּוֹ֒ וַיְעִדֻהוּ֩ אַנְשֵׁ֨י
+        הַבְּלִיַּ֜עַל אֶת נָב֗וֹת נֶ֤גֶד הָעָם֙ לֵאמֹ֔ר בֵּרַ֥ךְ נָב֛וֹת אֱלֹהִ֖ים וָמֶ֑לֶךְ וַיֹּצִאֻ֨הוּ֙
+        מִח֣וּץ לָעִ֔יר וַיִּסְקְלֻ֥הוּ בָאֲבָנִ֖ים וַיָּמֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 36:18
+      lang: ar
+      text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
+        مِّنَّا عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-hos-1-gomer-children-vs-quran-33-zayd-seal-of-prophets
 title: Hosea marries Gomer; the children Jezreel, Lo-ruhamah, Lo-ammi ↔ Zayd's wife, the seal of the prophets,
   and the prophet as a lamp
-summary: 'These two units share 1 motifs: after zayd ends his marriage, god marries his former wife to
-  the prophet so believers may marry the ex-wives of adopted sons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - zayd-and-zaynab-marriage
-passages:
-- tradition: judaism
-  ref: Hos 1:2
-  note: 'After Zayd ends his marriage, God marries his former wife to the prophet so believers may marry
-    the ex-wives of adopted sons (A prophet''s marriage arranged by God as a public sign: lēḵ qaḥ-ləḵā
-    ʾēšeṯ zənûnîm ... kî-zānōh tizneh hā-ʾāreṣ vs. zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥaraj.
-    In Hosea the marriage is an allegory of Israel''s harlotry, in the Quran a legal precedent (amru llāhi
-    mafʿūlā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּחִלַּ֥ת דִּבֶּר יְהוָ֖ה בְּהוֹשֵׁ֑עַ וַיֹּ֨אמֶר יְהוָ֜ה אֶל הוֹשֵׁ֗עַ לֵ֣ךְ קַח לְךָ֞ אֵ֤שֶׁת
-    זְנוּנִים֙ וְיַלְדֵ֣י זְנוּנִ֔ים כִּֽי זָנֹ֤ה תִזְנֶה֙ הָאָ֔רֶץ מֵֽאַחֲרֵ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 33:37
-  note: After Zayd ends his marriage, God marries his former wife to the prophet so believers may marry
-    the ex-wives of adopted sons (Zayd is the only Companion named in the Quran)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ
-    وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ
-    أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ
-    حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. A prophet''s marriage arranged by God as a public sign: lēḵ qaḥ-ləḵā ʾēšeṯ zənûnîm ... kî-zānōh
-    tizneh hā-ʾāreṣ vs. zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥaraj. In Hosea the marriage is
-    an allegory of Israel''s harlotry, in the Quran a legal precedent (amru llāhi mafʿūlā).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After Zayd ends his marriage, God marries his former wife to the
     prophet so believers may marry the ex-wives of adopted sons (weight 6.7). Pair score 6.7.'
@@ -73,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After Zayd ends his marriage, God marries his former wife to the prophet so believers may marry
+  the ex-wives of adopted sons
+kinds:
+- echo
+units:
+- id: hb-hos-1-gomer-children
+  title: Hosea marries Gomer; the children Jezreel, Lo-ruhamah, Lo-ammi
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: echo
+  label: After Zayd ends his marriage, God marries his former wife to the prophet so believers may marry
+    the ex-wives of adopted sons
+  note: 'A prophet''s marriage arranged by God as a public sign: lēḵ qaḥ-ləḵā ʾēšeṯ zənûnîm ... kî-zānōh
+    tizneh hā-ʾāreṣ vs. zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥaraj. In Hosea the marriage is
+    an allegory of Israel''s harlotry, in the Quran a legal precedent (amru llāhi mafʿūlā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 1:2
+      lang: he
+      text: תְּחִלַּ֥ת דִּבֶּר יְהוָ֖ה בְּהוֹשֵׁ֑עַ וַיֹּ֨אמֶר יְהוָ֜ה אֶל הוֹשֵׁ֗עַ לֵ֣ךְ קַח לְךָ֞ אֵ֤שֶׁת
+        זְנוּנִים֙ וְיַלְדֵ֣י זְנוּנִ֔ים כִּֽי זָנֹ֤ה תִזְנֶה֙ הָאָ֔רֶץ מֵֽאַחֲרֵ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 33:37
+      lang: ar
+      text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ
+        زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ
+        أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ
+        عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ
+        أَمْرُ ٱللَّهِ مَفْعُولًا
 ---
 
 ## Questions

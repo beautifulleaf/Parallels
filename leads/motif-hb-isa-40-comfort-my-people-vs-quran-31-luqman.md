@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-31-luqman
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Luqman's advice to his
   son
-summary: 'These two units share 1 motifs: challenge to idolaters: show me what those besides god have
-  created.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - show-me-what-your-gods-created
-passages:
-- tradition: judaism
-  ref: Isa 40:18
-  note: 'Challenge to idolaters: show me what those besides God have created (Creation as the test of
-    deity: śəʾû mārôm ʿênêḵem û-rəʾû mî-ḇārāʾ ʾēlleh, after the satire on the idol a craftsman makes (ha-ppesel
-    nāsaḵ ḥārāš ... pesel lōʾ yimmôṭ) vs. hādhā khalqu llāhi fa-arūnī mādhā khalaqa lladhīna min dūnihi.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
-- tradition: judaism
-  ref: Isa 40:19
-  note: 'Challenge to idolaters: show me what those besides God have created (Creation as the test of
-    deity: śəʾû mārôm ʿênêḵem û-rəʾû mî-ḇārāʾ ʾēlleh, after the satire on the idol a craftsman makes (ha-ppesel
-    nāsaḵ ḥārāš ... pesel lōʾ yimmôṭ) vs. hādhā khalqu llāhi fa-arūnī mādhā khalaqa lladhīna min dūnihi.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַפֶּ֨סֶל֙ נָסַ֣ךְ חָרָ֔שׁ וְצֹרֵ֖ף בַּזָּהָ֣ב יְרַקְּעֶ֑נּוּ וּרְתֻק֥וֹת כֶּ֖סֶף צוֹרֵֽף
-- tradition: islam
-  ref: Quran 31:11
-  note: 'Challenge to idolaters: show me what those besides God have created'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ بَلِ ٱلظَّٰلِمُونَ فِى ضَلَٰلٍ
-    مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. Creation as the test of deity: śəʾû mārôm ʿênêḵem û-rəʾû mî-ḇārāʾ ʾēlleh, after the satire on
-    the idol a craftsman makes (ha-ppesel nāsaḵ ḥārāš ... pesel lōʾ yimmôṭ) vs. hādhā khalqu llāhi fa-arūnī
-    mādhā khalaqa lladhīna min dūnihi.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
     (weight 5.3). Pair score 5.3.'
@@ -81,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Challenge to idolaters: show me what those besides God have created'
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Challenge to idolaters: show me what those besides God have created'
+  note: 'Creation as the test of deity: śəʾû mārôm ʿênêḵem û-rəʾû mî-ḇārāʾ ʾēlleh, after the satire on
+    the idol a craftsman makes (ha-ppesel nāsaḵ ḥārāš ... pesel lōʾ yimmôṭ) vs. hādhā khalqu llāhi fa-arūnī
+    mādhā khalaqa lladhīna min dūnihi.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:18
+      lang: he
+      text: וְאֶל מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ
+    - ref: Isa 40:19
+      lang: he
+      text: הַפֶּ֨סֶל֙ נָסַ֣ךְ חָרָ֔שׁ וְצֹרֵ֖ף בַּזָּהָ֣ב יְרַקְּעֶ֑נּוּ וּרְתֻק֥וֹת כֶּ֖סֶף צוֹרֵֽף
+    - ref: Isa 40:20
+      lang: he
+      text: הַֽמְסֻכָּ֣ן תְּרוּמָ֔ה עֵ֥ץ לֹֽא יִרְקַ֖ב יִבְחָ֑ר חָרָ֤שׁ חָכָם֙ יְבַקֶּשׁ ל֔וֹ לְהָכִ֥ין
+        פֶּ֖סֶל לֹ֥א יִמּֽוֹט
+  - tradition: islam
+    passages:
+    - ref: Quran 31:11
+      lang: ar
+      text: هَٰذَا خَلْقُ ٱللَّهِ فَأَرُونِى مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦ بَلِ ٱلظَّٰلِمُونَ فِى
+        ضَلَٰلٍ مُّبِينٍ
 ---
 
 ## Questions

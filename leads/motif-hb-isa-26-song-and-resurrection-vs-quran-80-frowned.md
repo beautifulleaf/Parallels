@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-80-frowned
 title: 'Song of the strong city; your dead shall live ↔ He frowned: the blind man and the honored scrolls'
-summary: 'These two units share 1 motifs: your dead shall live, their corpses rise; dwellers in the dust
-  shall awake and sing.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 80:21
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (made him
-    die, buried him, then raises him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ
-- tradition: islam
-  ref: Quran 80:22
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (made him
-    die, buried him, then raises him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. idhā shāʾa ansharahu ~ yiḥyû mētêkā nevēlātî yeqûmûn.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
     awake and sing (weight 4.9). Pair score 4.9.'
@@ -72,6 +49,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-80-frowned
+  title: 'He frowned: the blind man and the honored scrolls'
+  tradition: islam
+matches:
+- kind: echo
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  note: idhā shāʾa ansharahu ~ yiḥyû mētêkā nevēlātî yeqûmûn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 80:22
+      lang: ar
+      text: ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ
 ---
 
 ## Questions

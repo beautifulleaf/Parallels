@@ -2,9 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: The throne vision and the call of Isaiah ↔ Desire as god, 'only Time destroys us', and every nation
   kneeling before its book
-summary: 'These two units share 2 motifs: the prophet''s mission and the hearers'' closed ears, eyes and
-  hearts: caused, sealed, or beyond his cure [divergence between the texts], prophet commissioned to make
-  the people''s heart fat, ears heavy and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,63 +15,9 @@ layers:
 motifs:
 - prophet-and-hearers-deaf-and-blind-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (The prophet and the deaf and blind, with the roles reversed.
-    Isaiah is sent to cause it: hašmēn lēḇ hā-ʿām haz-zeh wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ pen yirʾeh ...
-    wə-yišmāʿ. The Prophet is told he cannot undo it: a-fa-anta tusmiʿu ṣ-ṣumma aw tahdī l-ʿumya. Isaiah''s
-    mission hardens; Muhammad''s cannot cure.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 45:23
-  note: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
-    his cure [divergence between the texts] (Heart, ears and eyes closed. Isaiah: the prophet is told
-    hašmēn lēḇ ... wə-ʾoznâw haḵbēd wə-ʿênâw hāšaʿ. Quran: God himself, wa-aḍallahu llāhu ʿalā ʿilmin
-    wa-khatama ʿalā samʿihi wa-qalbihi wa-jaʿala ʿalā baṣarihi ghishāwa, for the one who made desire his
-    god. In Isaiah it is the effect of the prophet''s preaching; in the Quran God''s seal follows the
-    man''s choice.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ
-    سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ أَفَلَا
-    تَذَكَّرُونَ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 45:23
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (God leads astray 'knowingly' and seals hearing and heart)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ
-    سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ أَفَلَا
-    تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Heart, ears and eyes closed. Isaiah: the prophet is told hašmēn lēḇ ... wə-ʾoznâw haḵbēd
-    wə-ʿênâw hāšaʿ. Quran: God himself, wa-aḍallahu llāhu ʿalā ʿilmin wa-khatama ʿalā samʿihi wa-qalbihi
-    wa-jaʿala ʿalā baṣarihi ghishāwa, for the one who made desire his god. In Isaiah it is the effect
-    of the prophet''s preaching; in the Quran God''s seal follows the man''s choice.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s mission and the hearers'' closed ears, eyes and hearts:
     caused, sealed, or beyond his cure [divergence between the texts] (weight 6.0); Prophet commissioned
@@ -113,6 +57,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+  his cure'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The prophet''s mission and the hearers'' closed ears, eyes and hearts: caused, sealed, or beyond
+    his cure'
+  note: 'Heart, ears and eyes closed. Isaiah: the prophet is told hašmēn lēḇ ... wə-ʾoznâw haḵbēd wə-ʿênâw
+    hāšaʿ. Quran: God himself, wa-aḍallahu llāhu ʿalā ʿilmin wa-khatama ʿalā samʿihi wa-qalbihi wa-jaʿala
+    ʿalā baṣarihi ghishāwa, for the one who made desire his god. In Isaiah it is the effect of the prophet''s
+    preaching; in the Quran God''s seal follows the man''s choice.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:23
+      lang: ar
+      text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ
+        عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ
+        أَفَلَا تَذَكَّرُونَ
+- kind: shared
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9-10
+      lang: he
+      text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
+        פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:23
+      lang: ar
+      text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ
+        عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ
+        أَفَلَا تَذَكَّرُونَ
+    note: God leads astray 'knowingly' and seals hearing and heart
 ---
 
 ## Questions

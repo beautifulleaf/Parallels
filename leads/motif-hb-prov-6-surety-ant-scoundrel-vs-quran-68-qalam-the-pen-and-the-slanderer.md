@@ -2,8 +2,7 @@
 id: motif-hb-prov-6-surety-ant-scoundrel-vs-quran-68-qalam-the-pen-and-the-slanderer
 title: 'Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates ↔ Nun: by the pen; the prophet''s
   great character; the swearer, slanderer and base-born man branded on the snout'
-summary: 'These two units share 1 motifs: do not obey every contemptible swearer, backbiter going about
-  with slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - vice-list-of-swearer-slanderer-ignoble-bastard
-passages:
-- tradition: judaism
-  ref: Prov 6:16
-  note: 'Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
-    coarse and moreover ''zanim'' (base-born, ignoble) (Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ
-    bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm, ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer
-    ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm bên ʾaḥîm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁשׁ הֵ֭נָּה שָׂנֵ֣א יְהוָ֑ה וְ֝שֶׁ֗בַע תועבות תּוֹעֲבַ֥ת נַפְשֽׁוֹ
-- tradition: judaism
-  ref: Prov 6:17
-  note: 'Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
-    coarse and moreover ''zanim'' (base-born, ignoble) (Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ
-    bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm, ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer
-    ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm bên ʾaḥîm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם נָקִֽי
-- tradition: islam
-  ref: Quran 68:10
-  note: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
-    coarse and moreover 'zanim' (base-born, ignoble)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
-- tradition: islam
-  ref: Quran 68:11
-  note: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
-    coarse and moreover 'zanim' (base-born, ignoble)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm,
-    ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm
-    bên ʾaḥîm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not obey every contemptible swearer, backbiter going about with
     slander, hinderer of good, coarse and moreover ''zanim'' (base-born, ignoble) (weight 6.7). Pair score
@@ -89,6 +53,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+  coarse and moreover 'zanim' (base-born, ignoble)
+kinds:
+- echo
+units:
+- id: hb-prov-6-surety-ant-scoundrel
+  title: Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates
+  tradition: judaism
+- id: quran-68-qalam-the-pen-and-the-slanderer
+  title: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout'
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not obey every contemptible swearer, backbiter going about with slander, hinderer of good,
+    coarse and moreover 'zanim' (base-born, ignoble)
+  note: 'Catalogue of vices: ḥallāf mahīn, hammāz, mashshāʾ bi-namīm, mannāʿ li-l-khayr, muʿtadin athīm,
+    ʿutull, zanīm ~ šēš hēnnāh śānēʾ YHWH ... lešôn šāqer ... yāfîaḥ kezāvîm ʿēd šāqer û-mešallēaḥ medānîm
+    bên ʾaḥîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 6:16
+      lang: he
+      text: שֶׁשׁ הֵ֭נָּה שָׂנֵ֣א יְהוָ֑ה וְ֝שֶׁ֗בַע תועבות תּוֹעֲבַ֥ת נַפְשֽׁוֹ
+    - ref: Prov 6:17
+      lang: he
+      text: עֵינַ֣יִם רָ֭מוֹת לְשׁ֣וֹן שָׁ֑קֶר וְ֝יָדַ֗יִם שֹׁפְכ֥וֹת דָּם נָקִֽי
+    - ref: Prov 6:19
+      lang: he
+      text: יָפִ֣יחַ כְּ֭זָבִים עֵ֣ד שָׁ֑קֶר וּמְשַׁלֵּ֥חַ מְ֝דָנִ֗ים בֵּ֣ין אַחִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 68:10
+      lang: ar
+      text: وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ
+    - ref: Quran 68:11
+      lang: ar
+      text: هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ
+    - ref: Quran 68:12
+      lang: ar
+      text: مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
 ---
 
 ## Questions

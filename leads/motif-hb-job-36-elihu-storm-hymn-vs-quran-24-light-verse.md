@@ -2,8 +2,7 @@
 id: motif-hb-job-36-elihu-storm-hymn-vs-quran-24-light-verse
 title: Elihu's hymn on rain, thunder, snow and the storm ↔ The Light Verse; the mirage, the dark sea,
   the praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: god drives the storm cloud to strike whom he wills or to show
-  favor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,46 +15,9 @@ layers:
 - motif
 motifs:
 - storm-cloud-sent-to-punish-or-bless
-passages:
-- tradition: judaism
-  ref: Job 37:11
-  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
-    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
-    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
-    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
-    wills or away from them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף בְּ֭רִי יַטְרִ֣יחַ עָ֑ב יָ֝פִ֗יץ עֲנַ֣ן אוֹרֽוֹ
-- tradition: judaism
-  ref: Job 37:12
-  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
-    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
-    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
-    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
-    wills or away from them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו בְּתַחְבּוּלֹתָ֣יו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם
-    עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה
-- tradition: islam
-  ref: Quran 24:43
-  note: 'God drives the storm cloud to strike whom he wills or to show favor (yuzjī saḥāban thumma yuʾallifu
-    baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf
-    bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ... ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed
-    yamṣiʾēhû: God drives, loads and turns the cloud and sends it as a rod or as kindness, onto whom he
-    wills or away from them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
-    فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ
-    فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yuzjī saḥāban thumma yuʾallifu baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu
-    wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ...
-    ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed yamṣiʾēhû: God drives, loads and turns the cloud and sends
-    it as a rod or as kindness, onto whom he wills or away from them.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God drives the storm cloud to strike whom he wills or to show favor
     (weight 6.7). Pair score 6.7.'
@@ -91,6 +53,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God drives the storm cloud to strike whom he wills or to show favor
+kinds:
+- parallel
+units:
+- id: hb-job-36-elihu-storm-hymn
+  title: Elihu's hymn on rain, thunder, snow and the storm
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: parallel
+  label: God drives the storm cloud to strike whom he wills or to show favor
+  note: 'yuzjī saḥāban thumma yuʾallifu baynahu thumma yajʿaluhu rukāman ... fa-yuṣību bihi man yashāʾu
+    wa-yaṣrifuhu ʿan man yashāʾu ~ ʾaf bə-rî yaṭrîaḥ ʿāv yāfîṣ ʿănan ʾôrô wə-hûʾ məsibbôt mithappēkh ...
+    ʾim lə-šēveṭ ʾim lə-ʾarṣô ʾim lə-ḥesed yamṣiʾēhû: God drives, loads and turns the cloud and sends
+    it as a rod or as kindness, onto whom he wills or away from them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 37:11
+      lang: he
+      text: אַף בְּ֭רִי יַטְרִ֣יחַ עָ֑ב יָ֝פִ֗יץ עֲנַ֣ן אוֹרֽוֹ
+    - ref: Job 37:12
+      lang: he
+      text: וְה֤וּא מְסִבּ֨וֹת מִתְהַפֵּ֣ךְ בתחבולתו בְּתַחְבּוּלֹתָ֣יו לְפָעֳלָ֑ם כֹּ֖ל אֲשֶׁ֥ר יְצַוֵּ֓ם
+        עַל פְּנֵ֖י תֵבֵ֣ל אָֽרְצָה
+    - ref: Job 37:13
+      lang: he
+      text: אִם לְשֵׁ֥בֶט אִם לְאַרְצ֑וֹ אִם לְ֝חֶ֗סֶד יַמְצִאֵֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:43
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا
+        فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ
+        بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ
+        بِٱلْأَبْصَٰرِ
 ---
 
 ## Questions

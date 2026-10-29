@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-36-people-of-the-town
 title: Contest on Mount Carmel ↔ The people of the town, the three messengers and the man who came running
-summary: 'These two units share 1 motifs: the townsfolk say ''we augur ill of you'' and threaten to stone
-  the messengers; they reply ''your omen is with you''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - messengers-called-ill-omen-threatened-stoning
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:17
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you' (The prophet blamed for the people's misfortune throws the charge back. ha-ʾattâ
-    zeh ʿōḵēr yiśrāʾēl / lōʾ ʿāḵartî ʾeṯ-yiśrāʾēl kî ʾim-ʾattâ û-ḇêṯ ʾāḇîḵā ba-ʿăzāḇəḵem ʾeṯ-miṣwōṯ YHWH
-    vs. innā taṭayyarnā bikum / ṭāʾirukum maʿakum ... bal antum qawmun musrifūn. 'Troubler' (ʿōḵēr) corresponds
-    to the omen-bird (ṭāʾir); in both the bad luck is in the accusers' own sin.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֛י כִּרְא֥וֹת אַחְאָ֖ב אֶת אֵלִיָּ֑הוּ וַיֹּ֤אמֶר אַחְאָב֙ אֵלָ֔יו הַאַתָּ֥ה זֶ֖ה עֹכֵ֥ר
-    יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: 1Kgs 18:18
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you' (The prophet blamed for the people's misfortune throws the charge back. ha-ʾattâ
-    zeh ʿōḵēr yiśrāʾēl / lōʾ ʿāḵartî ʾeṯ-yiśrāʾēl kî ʾim-ʾattâ û-ḇêṯ ʾāḇîḵā ba-ʿăzāḇəḵem ʾeṯ-miṣwōṯ YHWH
-    vs. innā taṭayyarnā bikum / ṭāʾirukum maʿakum ... bal antum qawmun musrifūn. 'Troubler' (ʿōḵēr) corresponds
-    to the omen-bird (ṭāʾir); in both the bad luck is in the accusers' own sin.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לֹ֤א עָכַ֨רְתִּי֙ אֶת יִשְׂרָאֵ֔ל כִּ֥י אִם אַתָּ֖ה וּבֵ֣ית אָבִ֑יךָ בַּֽעֲזָבְכֶם֙
-    אֶת מִצְוֺ֣ת יְהוָ֔ה וַתֵּ֖לֶךְ אַחֲרֵ֥י הַבְּעָלִֽים
-- tradition: islam
-  ref: Quran 36:18
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
-    مِّنَّا عَذَابٌ أَلِيمٌ
-- tradition: islam
-  ref: Quran 36:19
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ أَئِن ذُكِّرْتُم بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. The prophet blamed for the people''s misfortune throws the charge back. ha-ʾattâ zeh ʿōḵēr
-    yiśrāʾēl / lōʾ ʿāḵartî ʾeṯ-yiśrāʾēl kî ʾim-ʾattâ û-ḇêṯ ʾāḇîḵā ba-ʿăzāḇəḵem ʾeṯ-miṣwōṯ YHWH vs. innā
-    taṭayyarnā bikum / ṭāʾirukum maʿakum ... bal antum qawmun musrifūn. ''Troubler'' (ʿōḵēr) corresponds
-    to the omen-bird (ṭāʾir); in both the bad luck is in the accusers'' own sin.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The townsfolk say ''we augur ill of you'' and threaten to stone
     the messengers; they reply ''your omen is with you'' (weight 6.3). Pair score 6.3.'
@@ -91,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
+  omen is with you'
+kinds:
+- parallel
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-36-people-of-the-town
+  title: The people of the town, the three messengers and the man who came running
+  tradition: islam
+matches:
+- kind: parallel
+  label: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
+    omen is with you'
+  note: The prophet blamed for the people's misfortune throws the charge back. ha-ʾattâ zeh ʿōḵēr yiśrāʾēl
+    / lōʾ ʿāḵartî ʾeṯ-yiśrāʾēl kî ʾim-ʾattâ û-ḇêṯ ʾāḇîḵā ba-ʿăzāḇəḵem ʾeṯ-miṣwōṯ YHWH vs. innā taṭayyarnā
+    bikum / ṭāʾirukum maʿakum ... bal antum qawmun musrifūn. 'Troubler' (ʿōḵēr) corresponds to the omen-bird
+    (ṭāʾir); in both the bad luck is in the accusers' own sin.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:17
+      lang: he
+      text: וַיְהִ֛י כִּרְא֥וֹת אַחְאָ֖ב אֶת אֵלִיָּ֑הוּ וַיֹּ֤אמֶר אַחְאָב֙ אֵלָ֔יו הַאַתָּ֥ה זֶ֖ה עֹכֵ֥ר
+        יִשְׂרָאֵֽל
+    - ref: 1Kgs 18:18
+      lang: he
+      text: וַיֹּ֗אמֶר לֹ֤א עָכַ֨רְתִּי֙ אֶת יִשְׂרָאֵ֔ל כִּ֥י אִם אַתָּ֖ה וּבֵ֣ית אָבִ֑יךָ בַּֽעֲזָבְכֶם֙
+        אֶת מִצְוֺ֣ת יְהוָ֔ה וַתֵּ֖לֶךְ אַחֲרֵ֥י הַבְּעָלִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 36:18
+      lang: ar
+      text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
+        مِّنَّا عَذَابٌ أَلِيمٌ
+    - ref: Quran 36:19
+      lang: ar
+      text: قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ أَئِن ذُكِّرْتُم بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
 ---
 
 ## Questions

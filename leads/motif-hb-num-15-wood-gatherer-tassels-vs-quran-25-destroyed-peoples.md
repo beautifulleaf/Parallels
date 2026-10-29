@@ -2,8 +2,7 @@
 id: motif-hb-num-15-wood-gatherer-tassels-vs-quran-25-destroyed-peoples
 title: The Sabbath wood-gatherer; the law of tassels ↔ Moses and Aaron, Noah, Ad, Thamud, the People of
   the Rass and the rained-upon town
-summary: 'These two units share 2 motifs: ''do not go about after your heart and your eyes'', whoever
-  takes his own desire (hawā) as his god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 motifs:
 - eyes-and-heart-lead-astray
 - desire-taken-as-god
-passages:
-- tradition: judaism
-  ref: Num 15:39
-  note: '''Do not go about after your heart and your eyes'' (lo tatúru (same verb as the spies'' scouting))'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
-    אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
-- tradition: islam
-  ref: Quran 25:43
-  note: '''Do not go about after your heart and your eyes'' (a-raʾayta mani ttakhadha ilāhahu hawāhu ~
-    wə-lōʾ tātūrû ʾaḥărê ləvavkem wə-ʾaḥărê ʿênêkem ʾăšer ʾattem zōnîm ʾaḥărêhem: following one''s own
-    desire as if it were a god; Numbers calls it ''whoring after'' heart and eyes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا
-- tradition: judaism
-  ref: Num 15:39
-  note: 'Whoever takes his own desire (hawā) as his god (Following one''s own desire as a kind of idolatry:
-    wə-lōʾ ṯāṯûrû ʾaḥărê ləḇaḇḵem wə-ʾaḥărê ʿênêḵem ʾăšer ʾattem zōnîm ʾaḥărêhem vs. a-fa-raʾayta mani
-    ttakhadha ilāhahu hawāhu. Numbers calls it whoring after heart and eyes, against the tassels that
-    recall the commandments; the Quran calls desire the man''s god.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
-    אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
-- tradition: islam
-  ref: Quran 25:43
-  note: Whoever takes his own desire (hawā) as his god
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-raʾayta mani ttakhadha ilāhahu hawāhu ~ wə-lōʾ tātūrû ʾaḥărê ləvavkem wə-ʾaḥărê ʿênêkem ʾăšer
-    ʾattem zōnîm ʾaḥărêhem: following one''s own desire as if it were a god; Numbers calls it ''whoring
-    after'' heart and eyes.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Do not go about after your heart and your eyes'' (weight 6.7);
     Whoever takes his own desire (hawā) as his god (weight 6.0). Pair score 12.7.'
@@ -80,6 +45,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Do not go about after your heart and your eyes'''
+kinds:
+- echo
+- shared
+units:
+- id: hb-num-15-wood-gatherer-tassels
+  title: The Sabbath wood-gatherer; the law of tassels
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Do not go about after your heart and your eyes'''
+  note: 'a-raʾayta mani ttakhadha ilāhahu hawāhu ~ wə-lōʾ tātūrû ʾaḥărê ləvavkem wə-ʾaḥărê ʿênêkem ʾăšer
+    ʾattem zōnîm ʾaḥărêhem: following one''s own desire as if it were a god; Numbers calls it ''whoring
+    after'' heart and eyes.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 15:39
+      lang: he
+      text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
+        אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 25:43
+      lang: ar
+      text: أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا
+- kind: shared
+  label: Whoever takes his own desire (hawā) as his god
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 15:39
+      lang: he
+      text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
+        אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
+    note: 'Following one''s own desire as a kind of idolatry: wə-lōʾ ṯāṯûrû ʾaḥărê ləḇaḇḵem wə-ʾaḥărê
+      ʿênêḵem ʾăšer ʾattem zōnîm ʾaḥărêhem vs. a-fa-raʾayta mani ttakhadha ilāhahu hawāhu. Numbers calls
+      it whoring after heart and eyes, against the tassels that recall the commandments; the Quran calls
+      desire the man''s god.'
+  - tradition: islam
+    passages:
+    - ref: Quran 25:43
+      lang: ar
+      text: أَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيْهِ وَكِيلًا
 ---
 
 ## Questions

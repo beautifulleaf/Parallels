@@ -1,9 +1,7 @@
 ---
 id: motif-hb-deut-1-spies-retold-vs-quran-5-holy-land-refusal
 title: The spies episode retold ↔ The refusal to enter the holy land and forty years of wandering
-summary: 'These two units share 2 motifs: the people tell the leader ''go, you and your lord, and fight;
-  we will sit here'' [divergence between the texts], giant descendants (anakim / nephilim) inhabit the
-  land.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,59 +14,9 @@ layers:
 motifs:
 - go-you-and-your-lord-and-fight-as-divergence
 - giants-in-the-land
-passages:
-- tradition: judaism
-  ref: Deut 1:26
-  note: 'The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence
-    between the texts] (Deut: Moses'' assurance YHWH ʾĕlōhêkhem ha-hōlēkh lifnêkhem hûʾ yillāḥēm lākhem,
-    against the people''s refusal wə-lōʾ ʾăvîtem laʿălōt. In Q the people turn the assurance into mockery:
-    fa-dhhab anta wa-rabbuka fa-qātilā innā hāhunā qāʿidūna. ''God will fight for you'' becomes ''you
-    and your Lord go and fight''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֥א אֲבִיתֶ֖ם לַעֲלֹ֑ת וַתַּמְר֕וּ אֶת פִּ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם
-- tradition: judaism
-  ref: Deut 1:30
-  note: 'The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence
-    between the texts] (Deut: Moses'' assurance YHWH ʾĕlōhêkhem ha-hōlēkh lifnêkhem hûʾ yillāḥēm lākhem,
-    against the people''s refusal wə-lōʾ ʾăvîtem laʿălōt. In Q the people turn the assurance into mockery:
-    fa-dhhab anta wa-rabbuka fa-qātilā innā hāhunā qāʿidūna. ''God will fight for you'' becomes ''you
-    and your Lord go and fight''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֤ה אֱלֹֽהֵיכֶם֙ הַהֹלֵ֣ךְ לִפְנֵיכֶ֔ם ה֖וּא יִלָּחֵ֣ם לָכֶ֑ם כְּ֠כֹל אֲשֶׁ֨ר עָשָׂ֧ה אִתְּכֶ֛ם
-    בְּמִצְרַ֖יִם לְעֵינֵיכֶֽם
-- tradition: islam
-  ref: Quran 5:24
-  note: 'The people tell the leader ''go, you and your Lord, and fight; we will sit here'' [divergence
-    between the texts] (Deut: Moses'' assurance YHWH ʾĕlōhêkhem ha-hōlēkh lifnêkhem hûʾ yillāḥēm lākhem,
-    against the people''s refusal wə-lōʾ ʾăvîtem laʿălōt. In Q the people turn the assurance into mockery:
-    fa-dhhab anta wa-rabbuka fa-qātilā innā hāhunā qāʿidūna. ''God will fight for you'' becomes ''you
-    and your Lord go and fight''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًا مَّا دَامُوا۟ فِيهَا فَٱذْهَبْ أَنتَ وَرَبُّكَ
-    فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
-- tradition: judaism
-  ref: Deut 1:28
-  note: Giant descendants (Anakim / Nephilim) inhabit the land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָנָ֣ה אֲנַ֣חְנוּ עֹלִ֗ים אַחֵינוּ֩ הֵמַ֨סּוּ אֶת לְבָבֵ֜נוּ לֵאמֹ֗ר עַ֣ם גָּד֤וֹל וָרָם֙ מִמֶּ֔נּוּ
-    עָרִ֛ים גְּדֹלֹ֥ת וּבְצוּרֹ֖ת בַּשָּׁמָ֑יִם וְגַם בְּנֵ֥י עֲנָקִ֖ים רָאִ֥ינוּ שָֽׁם
-- tradition: islam
-  ref: Quran 5:22
-  note: Giant descendants (Anakim / Nephilim) inhabit the land (qawman jabbārīn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟
-    مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Deut: Moses'' assurance YHWH ʾĕlōhêkhem ha-hōlēkh lifnêkhem hûʾ yillāḥēm lākhem, against
-    the people''s refusal wə-lōʾ ʾăvîtem laʿălōt. In Q the people turn the assurance into mockery: fa-dhhab
-    anta wa-rabbuka fa-qātilā innā hāhunā qāʿidūna. ''God will fight for you'' becomes ''you and your
-    Lord go and fight''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people tell the leader ''go, you and your Lord, and fight; we
     will sit here'' [divergence between the texts] (weight 6.7); Giant descendants (Anakim / Nephilim)
@@ -100,6 +48,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people tell the leader 'go, you and your Lord, and fight; we will sit here'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-1-spies-retold
+  title: The spies episode retold
+  tradition: judaism
+- id: quran-5-holy-land-refusal
+  title: The refusal to enter the holy land and forty years of wandering
+  tradition: islam
+matches:
+- kind: divergence
+  label: The people tell the leader 'go, you and your Lord, and fight; we will sit here'
+  note: 'Deut: Moses'' assurance YHWH ʾĕlōhêkhem ha-hōlēkh lifnêkhem hûʾ yillāḥēm lākhem, against the
+    people''s refusal wə-lōʾ ʾăvîtem laʿălōt. In Q the people turn the assurance into mockery: fa-dhhab
+    anta wa-rabbuka fa-qātilā innā hāhunā qāʿidūna. ''God will fight for you'' becomes ''you and your
+    Lord go and fight''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 1:26
+      lang: he
+      text: וְלֹ֥א אֲבִיתֶ֖ם לַעֲלֹ֑ת וַתַּמְר֕וּ אֶת פִּ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם
+    - ref: Deut 1:30
+      lang: he
+      text: יְהוָ֤ה אֱלֹֽהֵיכֶם֙ הַהֹלֵ֣ךְ לִפְנֵיכֶ֔ם ה֖וּא יִלָּחֵ֣ם לָכֶ֑ם כְּ֠כֹל אֲשֶׁ֨ר עָשָׂ֧ה
+        אִתְּכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:24
+      lang: ar
+      text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّا لَن نَّدْخُلَهَآ أَبَدًا مَّا دَامُوا۟ فِيهَا فَٱذْهَبْ أَنتَ
+        وَرَبُّكَ فَقَٰتِلَآ إِنَّا هَٰهُنَا قَٰعِدُونَ
+- kind: shared
+  label: Giant descendants (Anakim / Nephilim) inhabit the land
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 1:28
+      lang: he
+      text: אָנָ֣ה אֲנַ֣חְנוּ עֹלִ֗ים אַחֵינוּ֩ הֵמַ֨סּוּ אֶת לְבָבֵ֜נוּ לֵאמֹ֗ר עַ֣ם גָּד֤וֹל וָרָם֙
+        מִמֶּ֔נּוּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצוּרֹ֖ת בַּשָּׁמָ֑יִם וְגַם בְּנֵ֥י עֲנָקִ֖ים רָאִ֥ינוּ שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:22
+      lang: ar
+      text: قَالُوا۟ يَٰمُوسَىٰٓ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَن نَّدْخُلَهَا حَتَّىٰ يَخْرُجُوا۟
+        مِنْهَا فَإِن يَخْرُجُوا۟ مِنْهَا فَإِنَّا دَٰخِلُونَ
+    note: qawman jabbārīn
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-13-false-prophets-and-prophetesses-vs-quran-6-prophets-lineage-torah-sheets
 title: Against the false prophets and the women who hunt souls ↔ Abraham's line of eighteen prophets;
   Torah in sheets; the false claimant
-summary: 'These two units share 1 motifs: none more wrong than one who falsely claims revelation or says
-  he can send down the like of god''s.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - false-claim-of-revelation
-passages:
-- tradition: judaism
-  ref: Ezek 13:6
-  note: 'None more wrong than one who falsely claims revelation or says he can send down the like of God''s
-    (Claiming revelation God did not give. Q: aw qāla ūḥiya ilayya wa-lam yūḥa ilayhi shayʾun. Ezek: hā-ʾōmərîm
-    nəʾum-YHWH wa-YHWH lōʾ šəlāḥām; wə-ʾōmərîm nəʾum-YHWH wa-ʾănî lōʾ dibbartî. The same structure: claim
-    + negation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָ֤זוּ שָׁוְא֙ וְקֶ֣סֶם כָּזָ֔ב הָאֹֽמְרִים֙ נְאֻם יְהוָ֔ה וַֽיהוָ֖ה לֹ֣א שְׁלָחָ֑ם וְיִֽחֲל֖וּ
-    לְקַיֵּ֥ם דָּבָֽר
-- tradition: judaism
-  ref: Ezek 13:7
-  note: 'None more wrong than one who falsely claims revelation or says he can send down the like of God''s
-    (Claiming revelation God did not give. Q: aw qāla ūḥiya ilayya wa-lam yūḥa ilayhi shayʾun. Ezek: hā-ʾōmərîm
-    nəʾum-YHWH wa-YHWH lōʾ šəlāḥām; wə-ʾōmərîm nəʾum-YHWH wa-ʾănî lōʾ dibbartî. The same structure: claim
-    + negation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֤וֹא מַֽחֲזֵה שָׁוְא֙ חֲזִיתֶ֔ם וּמִקְסַ֥ם כָּזָ֖ב אֲמַרְתֶּ֑ם וְאֹֽמְרִים֙ נְאֻם יְהוָ֔ה וַאֲנִ֖י
-    לֹ֥א דִבַּֽרְתִּי
-- tradition: islam
-  ref: Quran 6:93
-  note: None more wrong than one who falsely claims revelation or says he can send down the like of God's
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ
-    إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
-    فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
-    تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
-    ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Claiming revelation God did not give. Q: aw qāla ūḥiya ilayya wa-lam yūḥa ilayhi shayʾun.
-    Ezek: hā-ʾōmərîm nəʾum-YHWH wa-YHWH lōʾ šəlāḥām; wə-ʾōmərîm nəʾum-YHWH wa-ʾănî lōʾ dibbartî. The same
-    structure: claim + negation.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: None more wrong than one who falsely claims revelation or says he
     can send down the like of God''s (weight 6.7). Pair score 6.7.'
@@ -88,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: None more wrong than one who falsely claims revelation or says he can send down the like of God's
+kinds:
+- parallel
+units:
+- id: hb-ezek-13-false-prophets-and-prophetesses
+  title: Against the false prophets and the women who hunt souls
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: parallel
+  label: None more wrong than one who falsely claims revelation or says he can send down the like of God's
+  note: 'Claiming revelation God did not give. Q: aw qāla ūḥiya ilayya wa-lam yūḥa ilayhi shayʾun. Ezek:
+    hā-ʾōmərîm nəʾum-YHWH wa-YHWH lōʾ šəlāḥām; wə-ʾōmərîm nəʾum-YHWH wa-ʾănî lōʾ dibbartî. The same structure:
+    claim + negation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 13:6
+      lang: he
+      text: חָ֤זוּ שָׁוְא֙ וְקֶ֣סֶם כָּזָ֔ב הָאֹֽמְרִים֙ נְאֻם יְהוָ֔ה וַֽיהוָ֖ה לֹ֣א שְׁלָחָ֑ם וְיִֽחֲל֖וּ
+        לְקַיֵּ֥ם דָּבָֽר
+    - ref: Ezek 13:7
+      lang: he
+      text: הֲל֤וֹא מַֽחֲזֵה שָׁוְא֙ חֲזִיתֶ֔ם וּמִקְסַ֥ם כָּזָ֖ב אֲמַרְתֶּ֑ם וְאֹֽמְרִים֙ נְאֻם יְהוָ֔ה
+        וַאֲנִ֖י לֹ֥א דִבַּֽרְתִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 6:93
+      lang: ar
+      text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ
+        يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
+        فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
+        تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
+        ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 ---
 
 ## Questions

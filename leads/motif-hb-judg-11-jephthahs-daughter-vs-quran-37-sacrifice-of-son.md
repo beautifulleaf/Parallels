@@ -2,8 +2,7 @@
 id: motif-hb-judg-11-jephthahs-daughter-vs-quran-37-sacrifice-of-son
 title: Jephthah's vow and the sacrifice of his only daughter ↔ Abraham's dream and the near-sacrifice
   of his son
-summary: 'These two units share 1 motifs: the son, consulted by his father, consents: ''father, do what
-  you are commanded; you will find me patient''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,44 +15,9 @@ layers:
 - motif
 motifs:
 - son-consents-to-be-sacrificed
-passages:
-- tradition: judaism
-  ref: Judg 11:34
-  note: 'The son, consulted by his father, consents: ''Father, do what you are commanded; you will find
-    me patient'' (The child''s own words of consent to a sacrifice the parent is bound to: ʾāḇî pāṣîṯâ
-    ʾeṯ-pîḵā ʾel-YHWH ʿăśēh lî kaʾăšer yāṣāʾ mip-pîḵā (my father, do to me as you have vowed) vs. yā-abati
-    fʿal mā tuʾmar (my father, do as you are commanded). Jephthah''s only child (yəḥîḏâ) is sacrificed
-    because of a human vow, with no ransom; the Quranic son because of a divine command, and he is ransomed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א יִפְתָּ֣ח הַמִּצְפָּה֮ אֶל בֵּיתוֹ֒ וְהִנֵּ֤ה בִתּוֹ֙ יֹצֵ֣את לִקְרָאת֔וֹ בְתֻפִּ֖ים
-    וּבִמְחֹל֑וֹת וְרַק֙ הִ֣יא יְחִידָ֔ה אֵֽין ל֥וֹ מִמֶּ֛נּוּ בֵּ֖ן אוֹ בַֽת
-- tradition: judaism
-  ref: Judg 11:36
-  note: 'The son, consulted by his father, consents: ''Father, do what you are commanded; you will find
-    me patient'' (The child''s own words of consent to a sacrifice the parent is bound to: ʾāḇî pāṣîṯâ
-    ʾeṯ-pîḵā ʾel-YHWH ʿăśēh lî kaʾăšer yāṣāʾ mip-pîḵā (my father, do to me as you have vowed) vs. yā-abati
-    fʿal mā tuʾmar (my father, do as you are commanded). Jephthah''s only child (yəḥîḏâ) is sacrificed
-    because of a human vow, with no ransom; the Quranic son because of a divine command, and he is ransomed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר אֵלָ֗יו אָבִי֙ פָּצִ֤יתָה אֶת פִּ֨יךָ֙ אֶל יְהוָ֔ה עֲשֵׂ֣ה לִ֔י כַּאֲשֶׁ֖ר יָצָ֣א מִפִּ֑יךָ
-    אַחֲרֵ֡י אֲשֶׁ֣ר עָשָׂה֩ לְךָ֙ יְהוָ֧ה נְקָמ֛וֹת מֵאֹיְבֶ֖יךָ מִבְּנֵ֥י עַמּֽוֹן
-- tradition: islam
-  ref: Quran 37:102
-  note: 'The son, consulted by his father, consents: ''Father, do what you are commanded; you will find
-    me patient'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ
-    فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ
-    ٱلصَّٰبِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. The child''s own words of consent to a sacrifice the parent is bound to: ʾāḇî pāṣîṯâ ʾeṯ-pîḵā
-    ʾel-YHWH ʿăśēh lî kaʾăšer yāṣāʾ mip-pîḵā (my father, do to me as you have vowed) vs. yā-abati fʿal
-    mā tuʾmar (my father, do as you are commanded). Jephthah''s only child (yəḥîḏâ) is sacrificed because
-    of a human vow, with no ransom; the Quranic son because of a divine command, and he is ransomed.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The son, consulted by his father, consents: ''Father, do what you
     are commanded; you will find me patient'' (weight 6.7). Pair score 6.7.'
@@ -82,6 +46,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The son, consulted by his father, consents: ''Father, do what you are commanded; you will find
+  me patient'''
+kinds:
+- parallel
+units:
+- id: hb-judg-11-jephthahs-daughter
+  title: Jephthah's vow and the sacrifice of his only daughter
+  tradition: judaism
+- id: quran-37-sacrifice-of-son
+  title: Abraham's dream and the near-sacrifice of his son
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The son, consulted by his father, consents: ''Father, do what you are commanded; you will find
+    me patient'''
+  note: 'The child''s own words of consent to a sacrifice the parent is bound to: ʾāḇî pāṣîṯâ ʾeṯ-pîḵā
+    ʾel-YHWH ʿăśēh lî kaʾăšer yāṣāʾ mip-pîḵā (my father, do to me as you have vowed) vs. yā-abati fʿal
+    mā tuʾmar (my father, do as you are commanded). Jephthah''s only child (yəḥîḏâ) is sacrificed because
+    of a human vow, with no ransom; the Quranic son because of a divine command, and he is ransomed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 11:34
+      lang: he
+      text: וַיָּבֹ֨א יִפְתָּ֣ח הַמִּצְפָּה֮ אֶל בֵּיתוֹ֒ וְהִנֵּ֤ה בִתּוֹ֙ יֹצֵ֣את לִקְרָאת֔וֹ בְתֻפִּ֖ים
+        וּבִמְחֹל֑וֹת וְרַק֙ הִ֣יא יְחִידָ֔ה אֵֽין ל֥וֹ מִמֶּ֛נּוּ בֵּ֖ן אוֹ בַֽת
+    - ref: Judg 11:36
+      lang: he
+      text: וַתֹּ֣אמֶר אֵלָ֗יו אָבִי֙ פָּצִ֤יתָה אֶת פִּ֨יךָ֙ אֶל יְהוָ֔ה עֲשֵׂ֣ה לִ֔י כַּאֲשֶׁ֖ר יָצָ֣א
+        מִפִּ֑יךָ אַחֲרֵ֡י אֲשֶׁ֣ר עָשָׂה֩ לְךָ֙ יְהוָ֧ה נְקָמ֛וֹת מֵאֹיְבֶ֖יךָ מִבְּנֵ֥י עַמּֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 37:102
+      lang: ar
+      text: فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْىَ قَالَ يَٰبُنَىَّ إِنِّىٓ أَرَىٰ فِى ٱلْمَنَامِ أَنِّىٓ أَذْبَحُكَ
+        فَٱنظُرْ مَاذَا تَرَىٰ قَالَ يَٰٓأَبَتِ ٱفْعَلْ مَا تُؤْمَرُ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ
+        ٱلصَّٰبِرِينَ
 ---
 
 ## Questions

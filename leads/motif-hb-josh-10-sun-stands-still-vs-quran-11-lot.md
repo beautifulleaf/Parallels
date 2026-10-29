@@ -2,8 +2,7 @@
 id: motif-hb-josh-10-sun-stands-still-vs-quran-11-lot
 title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
   ↔ Lot, his guests, his daughters and the stones of sijjil
-summary: 'These two units share 1 motifs: god casts great hailstones from heaven, killing more than the
-  sword.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - hailstones-from-heaven-kill-enemy
-passages:
-- tradition: judaism
-  ref: Josh 10:11
-  note: God casts great hailstones from heaven, killing more than the sword (more died by hailstones than
-    by the sword)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ עֲלֵיהֶם֩
-    אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙ בְּאַבְנֵ֣י
-    הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
-- tradition: islam
-  ref: Quran 11:82
-  note: 'God casts great hailstones from heaven, killing more than the sword (Stones cast by God from
-    the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt min-haššāmayim ... ʾabnê habbārād.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن
-    سِجِّيلٍ مَّنضُودٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Stones cast by God from the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt
-    min-haššāmayim ... ʾabnê habbārād.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God casts great hailstones from heaven, killing more than the sword
     (weight 5.6). Pair score 5.6.'
@@ -69,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God casts great hailstones from heaven, killing more than the sword
+kinds:
+- echo
+units:
+- id: hb-josh-10-sun-stands-still
+  title: Battle of Gibeon, hailstones, sun and moon stand still, five kings in the cave, southern campaign
+  tradition: judaism
+- id: quran-11-lot
+  title: Lot, his guests, his daughters and the stones of sijjil
+  tradition: islam
+matches:
+- kind: echo
+  label: God casts great hailstones from heaven, killing more than the sword
+  note: 'Stones cast by God from the sky: ḥijāratan min sijjīl vs waYHWH hišlîk ʿălêhem ʾăbānîm gᵉdōlôt
+    min-haššāmayim ... ʾabnê habbārād.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 10:11
+      lang: he
+      text: וַיְהִ֞י בְּנֻסָ֣ם מִפְּנֵ֣י יִשְׂרָאֵ֗ל הֵ֞ם בְּמוֹרַ֤ד בֵּית חוֹרֹן֙ וַֽיהוָ֡ה הִשְׁלִ֣יךְ
+        עֲלֵיהֶם֩ אֲבָנִ֨ים גְּדֹל֧וֹת מִן הַשָּׁמַ֛יִם עַד עֲזֵקָ֖ה וַיָּמֻ֑תוּ רַבִּ֗ים אֲשֶׁר מֵ֨תוּ֙
+        בְּאַבְנֵ֣י הַבָּרָ֔ד מֵאֲשֶׁ֥ר הָרְג֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל בֶּחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 11:82
+      lang: ar
+      text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
+        مِّن سِجِّيلٍ مَّنضُودٍ
 ---
 
 ## Questions

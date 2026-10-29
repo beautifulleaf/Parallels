@@ -2,7 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-5-torah-gospel-judgment
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Judging by the Torah,
   the Gospel and the Quran; eye for eye
-summary: 'These two units share 1 motifs: eaters of illicit gain (suḥt), listeners to lies.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - devourers-of-illicit-gain
-passages:
-- tradition: judaism
-  ref: Isa 1:23
-  note: 'Eaters of illicit gain (suḥt), listeners to lies (Judges and leaders who live on illicit gain.
-    Q: sammāʿūna li-l-kadhibi akkālūna li-l-suḥti (suḥt, classically bribes). Isa: śārayikh sôrərîm wə-ḥavrê
-    gannāvîm kullô ʾōhēv šōḥad wə-rōdēf šalmōnîm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים יָתוֹם֙
-    לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
-- tradition: islam
-  ref: Quran 5:42
-  note: Eaters of illicit gain (suḥt), listeners to lies
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ
-    عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم بِٱلْقِسْطِ
-    إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Judges and leaders who live on illicit gain. Q: sammāʿūna li-l-kadhibi akkālūna li-l-suḥti (suḥt,
-    classically bribes). Isa: śārayikh sôrərîm wə-ḥavrê gannāvîm kullô ʾōhēv šōḥad wə-rōdēf šalmōnîm.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eaters of illicit gain (suḥt), listeners to lies (weight 6.3). Pair
     score 6.3.'
@@ -73,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eaters of illicit gain (suḥt), listeners to lies
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-5-torah-gospel-judgment
+  title: Judging by the Torah, the Gospel and the Quran; eye for eye
+  tradition: islam
+matches:
+- kind: echo
+  label: Eaters of illicit gain (suḥt), listeners to lies
+  note: 'Judges and leaders who live on illicit gain. Q: sammāʿūna li-l-kadhibi akkālūna li-l-suḥti (suḥt,
+    classically bribes). Isa: śārayikh sôrərîm wə-ḥavrê gannāvîm kullô ʾōhēv šōḥad wə-rōdēf šalmōnîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:23
+      lang: he
+      text: שָׂרַ֣יִךְ סוֹרְרִ֗ים וְחַבְרֵי֙ גַּנָּבִ֔ים כֻּלּוֹ֙ אֹהֵ֣ב שֹׁ֔חַד וְרֹדֵ֖ף שַׁלְמֹנִ֑ים
+        יָתוֹם֙ לֹ֣א יִשְׁפֹּ֔טוּ וְרִ֥יב אַלְמָנָ֖ה לֹֽא יָב֥וֹא אֲלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:42
+      lang: ar
+      text: سَمَّٰعُونَ لِلْكَذِبِ أَكَّٰلُونَ لِلسُّحْتِ فَإِن جَآءُوكَ فَٱحْكُم بَيْنَهُمْ أَوْ أَعْرِضْ
+        عَنْهُمْ وَإِن تُعْرِضْ عَنْهُمْ فَلَن يَضُرُّوكَ شَيْـًٔا وَإِنْ حَكَمْتَ فَٱحْكُم بَيْنَهُم
+        بِٱلْقِسْطِ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ
 ---
 
 ## Questions

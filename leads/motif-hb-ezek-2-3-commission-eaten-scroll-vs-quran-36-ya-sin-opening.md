@@ -2,8 +2,7 @@
 id: motif-hb-ezek-2-3-commission-eaten-scroll-vs-quran-36-ya-sin-opening
 title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
   ↔ Ya-Sin; the collars and the barrier; deeds recorded
-summary: 'These two units share 1 motifs: prophet commissioned to make the people''s heart fat, ears heavy
-  and eyes shut lest they understand and be healed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,46 +15,9 @@ layers:
 - motif
 motifs:
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Ezek 2:5
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed (wə-hēmmâ ʾim-yišməʿû wə-ʾim-yeḥdālû kî bêṯ mərî hēmmâ vs. wa-sawāʾun ʿalayhim a-andhartahum
-    am lam tundhirhum lā yuʾminūn: the warning must be given whether or not it is heard. Ezekiel''s addressees
-    are the rebellious house of Israel; the Quran''s are a people whose fathers were never warned (36:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵ֨מָּה֙ אִם יִשְׁמְע֣וּ וְאִם יֶחְדָּ֔לוּ כִּ֛י בֵּ֥ית מְרִ֖י הֵ֑מָּה וְיָ֣דְע֔וּ כִּ֥י נָבִ֖יא
-    הָיָ֥ה בְתוֹכָֽם
-- tradition: judaism
-  ref: Ezek 2:7
-  note: 'Prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest they understand
-    and be healed (wə-hēmmâ ʾim-yišməʿû wə-ʾim-yeḥdālû kî bêṯ mərî hēmmâ vs. wa-sawāʾun ʿalayhim a-andhartahum
-    am lam tundhirhum lā yuʾminūn: the warning must be given whether or not it is heard. Ezekiel''s addressees
-    are the rebellious house of Israel; the Quran''s are a people whose fathers were never warned (36:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבַּרְתָּ֤ אֶת דְּבָרַי֙ אֲלֵיהֶ֔ם אִֽם יִשְׁמְע֖וּ וְאִם יֶחְדָּ֑לוּ כִּ֥י מְרִ֖י הֵֽמָּה
-- tradition: islam
-  ref: Quran 36:9
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (covered so they cannot see; warned or not, they will not believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ لَا
-    يُبْصِرُونَ
-- tradition: islam
-  ref: Quran 36:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (covered so they cannot see; warned or not, they will not believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-hēmmâ ʾim-yišməʿû wə-ʾim-yeḥdālû kî bêṯ mərî hēmmâ vs. wa-sawāʾun ʿalayhim a-andhartahum
-    am lam tundhirhum lā yuʾminūn: the warning must be given whether or not it is heard. Ezekiel''s addressees
-    are the rebellious house of Israel; the Quran''s are a people whose fathers were never warned (36:6).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet commissioned to make the people''s heart fat, ears heavy
     and eyes shut lest they understand and be healed (weight 5.0). Pair score 5.0.'
@@ -85,6 +47,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+  and be healed
+kinds:
+- parallel
+units:
+- id: hb-ezek-2-3-commission-eaten-scroll
+  title: Ezekiel's commission as 'son of man' to the rebellious house; he eats the scroll sweet as honey
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  note: 'wə-hēmmâ ʾim-yišməʿû wə-ʾim-yeḥdālû kî bêṯ mərî hēmmâ vs. wa-sawāʾun ʿalayhim a-andhartahum am
+    lam tundhirhum lā yuʾminūn: the warning must be given whether or not it is heard. Ezekiel''s addressees
+    are the rebellious house of Israel; the Quran''s are a people whose fathers were never warned (36:6).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 2:5
+      lang: he
+      text: וְהֵ֨מָּה֙ אִם יִשְׁמְע֣וּ וְאִם יֶחְדָּ֔לוּ כִּ֛י בֵּ֥ית מְרִ֖י הֵ֑מָּה וְיָ֣דְע֔וּ כִּ֥י
+        נָבִ֖יא הָיָ֥ה בְתוֹכָֽם
+    - ref: Ezek 2:7
+      lang: he
+      text: וְדִבַּרְתָּ֤ אֶת דְּבָרַי֙ אֲלֵיהֶ֔ם אִֽם יִשְׁמְע֖וּ וְאִם יֶחְדָּ֑לוּ כִּ֥י מְרִ֖י הֵֽמָּה
+    - ref: Ezek 3:11
+      lang: he
+      text: וְלֵ֨ךְ בֹּ֤א אֶל הַגּוֹלָה֙ אֶל בְּנֵ֣י עַמֶּ֔ךָ וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם
+        כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה אִֽם יִשְׁמְע֖וּ וְאִם יֶחְדָּֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:10
+      lang: ar
+      text: وَسَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
 ---
 
 ## Questions

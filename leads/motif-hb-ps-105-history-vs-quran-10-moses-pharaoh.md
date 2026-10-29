@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-10-moses-pharaoh
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses, the houses
   as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 2 motifs: god sends moses and aaron together, with his signs, to pharaoh,
-  the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,50 +16,7 @@ layers:
 motifs:
 - moses-and-aaron-sent-with-signs
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Ps 105:26
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (thumma arsalnā Mūsā wa-akhāhu
-    Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw:
-    God sends Moses and Aaron together with his signs (āyāt / ʾōtôt). The Psalm calls Moses ''his servant''
-    and Aaron ''whom he chose''; the Quran calls Aaron ''his brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁ֭לַח מֹשֶׁ֣ה עַבְדּ֑וֹ אַ֝הֲרֹ֗ן אֲשֶׁ֣ר בָּֽחַר בּֽוֹ
-- tradition: judaism
-  ref: Ps 105:27
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (thumma arsalnā Mūsā wa-akhāhu
-    Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw:
-    God sends Moses and Aaron together with his signs (āyāt / ʾōtôt). The Psalm calls Moses ''his servant''
-    and Aaron ''whom he chose''; the Quran calls Aaron ''his brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
-- tradition: islam
-  ref: Quran 10:75
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (Moses and Aaron sent together
-    to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi
-    bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا
-    فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
-    God turns the Egyptians' hearts, not Pharaoh's alone)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God sends Moses and Aaron together, with his signs, to Pharaoh (weight
     6.0); The king''s heart is hardened (by himself or by God) so he refuses to release the people (weight
@@ -98,6 +54,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends Moses and Aaron together, with his signs, to Pharaoh
+kinds:
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: shared
+  label: God sends Moses and Aaron together, with his signs, to Pharaoh
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:26
+      lang: he
+      text: שָׁ֭לַח מֹשֶׁ֣ה עַבְדּ֑וֹ אַ֝הֲרֹ֗ן אֲשֶׁ֣ר בָּֽחַר בּֽוֹ
+    - ref: Ps 105:27
+      lang: he
+      text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
+    note: 'thumma arsalnā Mūsā wa-akhāhu Hārūna bi-āyātinā wa-sulṭānin mubīnin ~ šālaḥ Mōše ʿavdô ʾAhărōn
+      ʾăšer bāḥar bô śāmû vām divrê ʾōtôtāyw: God sends Moses and Aaron together with his signs (āyāt
+      / ʾōtôt). The Psalm calls Moses ''his servant'' and Aaron ''whom he chose''; the Quran calls Aaron
+      ''his brother''.'
+  - tradition: islam
+    passages:
+    - ref: Quran 10:75
+      lang: ar
+      text: ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا
+        فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    note: 'Moses and Aaron sent together to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā
+      wa-hārūna ilā firʿawna wa-malaʾihi bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî
+      ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).'
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:25
+      lang: he
+      text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+    note: here God turns the Egyptians' hearts, not Pharaoh's alone
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

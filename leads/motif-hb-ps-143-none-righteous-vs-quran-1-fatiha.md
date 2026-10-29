@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-143-none-righteous-vs-quran-1-fatiha
 title: Psalm 143, enter not into judgment ↔ The Opening (al-Fatiha)
-summary: 'These two units share 1 motifs: prayer to be guided on the straight path (al-sirat al-mustaqim).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,31 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-for-straight-path
-passages:
-- tradition: judaism
-  ref: Ps 143:10
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim) (Ps 143:10 rûḥăkā ṭôbâ tanḥēnî
-    bĕ-ʾereṣ mîšôr 'lead me in a level land' ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַמְּדֵ֤נִי לַֽעֲשׂ֣וֹת רְצוֹנֶךָ֮ כִּֽי אַתָּ֪ה אֱל֫וֹהָ֥י רוּחֲךָ֥ טוֹבָ֑ה תַּ֝נְחֵ֗נִי בְּאֶ֣רֶץ
-    מִישֽׁוֹר
-- tradition: islam
-  ref: Quran 1:6
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-- tradition: islam
-  ref: Quran 1:7
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 143:10 rûḥăkā ṭôbâ tanḥēnî bĕ-ʾereṣ mîšôr ''lead me in a level land'' ~ Q 1:6 ihdinā ṣ-ṣirāṭa
-    l-mustaqīm.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer to be guided on the straight path (al-sirat al-mustaqim)
     (weight 5.8). Pair score 5.8.'
@@ -64,6 +42,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+kinds:
+- echo
+units:
+- id: hb-ps-143-none-righteous
+  title: Psalm 143, enter not into judgment
+  tradition: judaism
+- id: quran-1-fatiha
+  title: The Opening (al-Fatiha)
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+  note: Ps 143:10 rûḥăkā ṭôbâ tanḥēnî bĕ-ʾereṣ mîšôr 'lead me in a level land' ~ Q 1:6 ihdinā ṣ-ṣirāṭa
+    l-mustaqīm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 143:10
+      lang: he
+      text: לַמְּדֵ֤נִי לַֽעֲשׂ֣וֹת רְצוֹנֶךָ֮ כִּֽי אַתָּ֪ה אֱל֫וֹהָ֥י רוּחֲךָ֥ טוֹבָ֑ה תַּ֝נְחֵ֗נִי
+        בְּאֶ֣רֶץ מִישֽׁוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 1:6
+      lang: ar
+      text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
 ---
 
 ## Questions

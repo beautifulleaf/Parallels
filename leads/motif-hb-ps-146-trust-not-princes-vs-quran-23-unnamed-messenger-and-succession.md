@@ -2,7 +2,7 @@
 id: motif-hb-ps-146-trust-not-princes-vs-quran-23-unnamed-messenger-and-succession
 title: Psalm 146, do not trust in princes ↔ A later generation's messenger, the Cry, and messengers in
   succession
-summary: 'These two units share 1 motifs: human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Ps 146:4
-  note: Human comes from dust and returns to dust (Returns to his adamah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תֵּצֵ֣א ר֭וּחוֹ יָשֻׁ֣ב לְאַדְמָת֑וֹ בַּיּ֥וֹם הַ֝ה֗וּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו
-- tradition: islam
-  ref: Quran 23:35
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:42
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. idhā mittum wa-kuntum turāban ~ tēṣēʾ rûḥô yāšuv lə-ʾadmātô ba-yyôm ha-hûʾ ʾāvədû ʿeštōnōtāyw:
-    the mortal returns to his ground; the Psalm ends there, the Quran''s messenger promises resurrection
-    beyond it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
     5.0.'
@@ -63,6 +42,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- echo
+units:
+- id: hb-ps-146-trust-not-princes
+  title: Psalm 146, do not trust in princes
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: echo
+  label: Human comes from dust and returns to dust
+  note: 'idhā mittum wa-kuntum turāban ~ tēṣēʾ rûḥô yāšuv lə-ʾadmātô ba-yyôm ha-hûʾ ʾāvədû ʿeštōnōtāyw:
+    the mortal returns to his ground; the Psalm ends there, the Quran''s messenger promises resurrection
+    beyond it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 146:4
+      lang: he
+      text: תֵּצֵ֣א ר֭וּחוֹ יָשֻׁ֣ב לְאַדְמָת֑וֹ בַּיּ֥וֹם הַ֝ה֗וּא אָבְד֥וּ עֶשְׁתֹּנֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
 ---
 
 ## Questions

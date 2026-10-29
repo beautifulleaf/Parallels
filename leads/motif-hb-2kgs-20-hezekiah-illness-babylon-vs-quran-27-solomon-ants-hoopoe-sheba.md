@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-20-hezekiah-illness-babylon-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Hezekiah's illness, the shadow on the steps and the Babylonian envoys ↔ Solomon, the speech of
   birds, the ants, the hoopoe and the Queen of Sheba
-summary: 'These two units share 1 motifs: a king receives a foreign ruler''s envoys and gift [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - king-receives-envoys-and-gift-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Kgs 20:12
-  note: 'A king receives a foreign ruler''s envoys and gift [contrast between the texts] (A foreign ruler''s
-    envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes them and proudly
-    shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy of their loss;
-    the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā ātākum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּעֵ֣ת הַהִ֡יא שָׁלַ֡ח בְּרֹאדַ֣ךְ בַּ֠לְאֲדָן בֶּֽן בַּלְאֲדָ֧ן מֶֽלֶךְ בָּבֶ֛ל סְפָרִ֥ים וּמִנְחָ֖ה
-    אֶל חִזְקִיָּ֑הוּ כִּ֣י שָׁמַ֔ע כִּ֥י חָלָ֖ה חִזְקִיָּֽהוּ
-- tradition: judaism
-  ref: 2Kgs 20:13
-  note: 'A king receives a foreign ruler''s envoys and gift [contrast between the texts] (A foreign ruler''s
-    envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes them and proudly
-    shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy of their loss;
-    the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā ātākum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמַ֣ע עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת כָּל בֵּ֣ית נְכֹתֹ֡ה אֶת הַכֶּסֶף֩ וְאֶת
-    הַזָּהָ֨ב וְאֶת הַבְּשָׂמִ֜ים וְאֵ֣ת שֶׁ֣מֶן הַטּ֗וֹב וְאֵת֙ בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל אֲשֶׁ֥ר נִמְצָ֖א
-    בְּאֽוֹצְרֹתָ֑יו לֹֽא הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵית֖וֹ וּבְכָל מֶמְשַׁלְתּֽוֹ
-- tradition: islam
-  ref: Quran 27:35
-  note: 'A king receives a foreign ruler''s envoys and gift [contrast between the texts] (A foreign ruler''s
-    envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes them and proudly
-    shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy of their loss;
-    the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā ātākum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ
-- tradition: islam
-  ref: Quran 27:36
-  note: 'A king receives a foreign ruler''s envoys and gift [contrast between the texts] (A foreign ruler''s
-    envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes them and proudly
-    shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy of their loss;
-    the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā ātākum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ سُلَيْمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ مِّمَّآ
-    ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. A foreign ruler''s envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah
-    welcomes them and proudly shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings
-    the prophecy of their loss; the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu
-    khayrun mimmā ātākum.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A king receives a foreign ruler''s envoys and gift [contrast between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -99,6 +54,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A king receives a foreign ruler's envoys and gift
+kinds:
+- contrast
+units:
+- id: hb-2kgs-20-hezekiah-illness-babylon
+  title: Hezekiah's illness, the shadow on the steps and the Babylonian envoys
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: contrast
+  label: A king receives a foreign ruler's envoys and gift
+  note: 'A foreign ruler''s envoys with a gift: Merodach-baladan sends səfārîm û-minḥâ and Hezekiah welcomes
+    them and proudly shows all his treasures (wa-yyarʾēm ʾet kol bêt nəkhōtōh), which brings the prophecy
+    of their loss; the queen sends a hadiyya and Solomon scorns the wealth, mā ātāniya llāhu khayrun mimmā
+    ātākum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 20:12
+      lang: he
+      text: בָּעֵ֣ת הַהִ֡יא שָׁלַ֡ח בְּרֹאדַ֣ךְ בַּ֠לְאֲדָן בֶּֽן בַּלְאֲדָ֧ן מֶֽלֶךְ בָּבֶ֛ל סְפָרִ֥ים
+        וּמִנְחָ֖ה אֶל חִזְקִיָּ֑הוּ כִּ֣י שָׁמַ֔ע כִּ֥י חָלָ֖ה חִזְקִיָּֽהוּ
+    - ref: 2Kgs 20:13
+      lang: he
+      text: וַיִּשְׁמַ֣ע עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת כָּל בֵּ֣ית נְכֹתֹ֡ה אֶת הַכֶּסֶף֩ וְאֶת
+        הַזָּהָ֨ב וְאֶת הַבְּשָׂמִ֜ים וְאֵ֣ת שֶׁ֣מֶן הַטּ֗וֹב וְאֵת֙ בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל אֲשֶׁ֥ר
+        נִמְצָ֖א בְּאֽוֹצְרֹתָ֑יו לֹֽא הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵית֖וֹ וּבְכָל
+        מֶמְשַׁלְתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:35
+      lang: ar
+      text: وَإِنِّى مُرْسِلَةٌ إِلَيْهِم بِهَدِيَّةٍ فَنَاظِرَةٌۢ بِمَ يَرْجِعُ ٱلْمُرْسَلُونَ
+    - ref: Quran 27:36
+      lang: ar
+      text: فَلَمَّا جَآءَ سُلَيْمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٍ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيْرٌ
+        مِّمَّآ ءَاتَىٰكُم بَلْ أَنتُم بِهَدِيَّتِكُمْ تَفْرَحُونَ
 ---
 
 ## Questions

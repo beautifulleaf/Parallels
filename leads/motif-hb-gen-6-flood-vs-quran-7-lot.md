@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-6-flood-vs-quran-7-lot
 title: The Flood (full read) ↔ Lot and his people
-summary: 'These two units share 2 motifs: hero''s family saved with him [divergence between the texts],
-  hero''s family saved with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,56 +15,7 @@ layers:
 motifs:
 - family-saved-as-divergence
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 7:1
-  note: 'Hero''s family saved with him [divergence between the texts] (Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā
-    ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw, his household. Q: fa-anjaynāhu wa-lladhīna maʿahu
-    fī l-fulki, ''those with him'', a community of believers rather than a family (cf. Q 11:46, where
-    a son drowns).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
-    צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
-- tradition: judaism
-  ref: Gen 7:7
-  note: 'Hero''s family saved with him [divergence between the texts] (Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā
-    ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw, his household. Q: fa-anjaynāhu wa-lladhīna maʿahu
-    fī l-fulki, ''those with him'', a community of believers rather than a family (cf. Q 11:46, where
-    a son drowns).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 7:83
-  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
-    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
-    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
-    (7:80), with no mention of Abraham and no hesitation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
-- tradition: judaism
-  ref: Gen 6:18
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: judaism
-  ref: Gen 7:7
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
-- tradition: islam
-  ref: Quran 7:83
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero''s family saved with him [divergence between the texts] (weight
     5.4); Hero''s family saved with him (weight 4.5). Pair score 9.9.'
@@ -94,6 +44,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's family saved with him
+kinds:
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-7-lot
+  title: Lot and his people
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    - ref: Gen 7:13
+      lang: he
+      text: בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם וְחָ֥ם וָיֶ֖פֶת בְּנֵי נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ
+        וּשְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛יו אִתָּ֖ם אֶל הַתֵּבָֽה
+    note: 'Who is saved. Gen: bōʾ-ʾattāh wə-khol-bêtəkhā ʾel-hat-tēvāh; Nōaḥ û-vānāyw wə-ʾištô û-nəšê-vānāyw,
+      his household. Q: fa-anjaynāhu wa-lladhīna maʿahu fī l-fulki, ''those with him'', a community of
+      believers rather than a family (cf. Q 11:46, where a son drowns).'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:83
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+    note: 'Why Lot is saved. Gen: bə-ḥemlat YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ
+      ʾet-Lôṭ, rescued for Abraham''s sake, dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu
+      wa-ahlahu, as a messenger who preached (7:80), with no mention of Abraham and no hesitation.'
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:18
+      lang: he
+      text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥
+        וּנְשֵֽׁי בָנֶ֖יךָ אִתָּֽךְ
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    - ref: Gen 7:13
+      lang: he
+      text: בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם וְחָ֥ם וָיֶ֖פֶת בְּנֵי נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ
+        וּשְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛יו אִתָּ֖ם אֶל הַתֵּבָֽה
+    note: eight persons
+  - tradition: islam
+    passages:
+    - ref: Quran 7:83
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
 ---
 
 ## Questions

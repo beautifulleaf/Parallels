@@ -2,8 +2,7 @@
 id: motif-hb-joel-3-spirit-poured-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'The spirit poured on all flesh and signs before the Day ↔ Ha-Mim: the blessed night and the day
   of the smoke'
-summary: 'These two units share 1 motifs: a day when the sky brings a visible smoke (dukhan) covering
-  the people as a painful punishment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - sky-brings-visible-smoke
-passages:
-- tradition: judaism
-  ref: Joel 3:3
-  note: 'A day when the sky brings a visible smoke (dukhan) covering the people as a painful punishment
-    (Smoke as a portent in the sky before the Day: wə-nāṯattî môp̄əṯîm baš-šāmayim û-ḇā-ʾāreṣ dām wā-ʾēš
-    wə-ṯîmărôṯ ʿāšān vs. fa-rtaqib yawma taʾtī s-samāʾu bi-dukhānin mubīn yaghshā n-nās. In Joel the smoke
-    is one of the signs before the day of YHWH, followed by rescue for whoever calls on the name (3:5);
-    in the Quran the smoke itself is the painful punishment (ʿadhābun alīm), and people call out for it
-    to be lifted.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָֽתַתִּי֙ מֽוֹפְתִ֔ים בַּשָּׁמַ֖יִם וּבָאָ֑רֶץ דָּ֣ם וָאֵ֔שׁ וְתִֽימֲר֖וֹת עָשָֽׁן
-- tradition: islam
-  ref: Quran 44:10
-  note: A day when the sky brings a visible smoke (dukhan) covering the people as a painful punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 44:11
-  note: A day when the sky brings a visible smoke (dukhan) covering the people as a painful punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَغْشَى ٱلنَّاسَ هَٰذَا عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Smoke as a portent in the sky before the Day: wə-nāṯattî môp̄əṯîm baš-šāmayim û-ḇā-ʾāreṣ dām
-    wā-ʾēš wə-ṯîmărôṯ ʿāšān vs. fa-rtaqib yawma taʾtī s-samāʾu bi-dukhānin mubīn yaghshā n-nās. In Joel
-    the smoke is one of the signs before the day of YHWH, followed by rescue for whoever calls on the
-    name (3:5); in the Quran the smoke itself is the painful punishment (ʿadhābun alīm), and people call
-    out for it to be lifted.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A day when the sky brings a visible smoke (dukhan) covering the
     people as a painful punishment (weight 6.7). Pair score 6.7.'
@@ -77,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A day when the sky brings a visible smoke (dukhan) covering the people as a painful punishment
+kinds:
+- echo
+units:
+- id: hb-joel-3-spirit-poured
+  title: The spirit poured on all flesh and signs before the Day
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: echo
+  label: A day when the sky brings a visible smoke (dukhan) covering the people as a painful punishment
+  note: 'Smoke as a portent in the sky before the Day: wə-nāṯattî môp̄əṯîm baš-šāmayim û-ḇā-ʾāreṣ dām
+    wā-ʾēš wə-ṯîmărôṯ ʿāšān vs. fa-rtaqib yawma taʾtī s-samāʾu bi-dukhānin mubīn yaghshā n-nās. In Joel
+    the smoke is one of the signs before the day of YHWH, followed by rescue for whoever calls on the
+    name (3:5); in the Quran the smoke itself is the painful punishment (ʿadhābun alīm), and people call
+    out for it to be lifted.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 3:3
+      lang: he
+      text: וְנָֽתַתִּי֙ מֽוֹפְתִ֔ים בַּשָּׁמַ֖יִם וּבָאָ֑רֶץ דָּ֣ם וָאֵ֔שׁ וְתִֽימֲר֖וֹת עָשָֽׁן
+  - tradition: islam
+    passages:
+    - ref: Quran 44:10
+      lang: ar
+      text: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
+    - ref: Quran 44:11
+      lang: ar
+      text: يَغْشَى ٱلنَّاسَ هَٰذَا عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

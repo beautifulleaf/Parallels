@@ -2,8 +2,7 @@
 id: motif-hb-2chr-18-micaiah-and-ramoth-gilead-vs-quran-38-patriarchs-and-fates
 title: Micaiah ben Imlah, the lying spirit in the divine council, and Ahab's death ↔ The chosen patriarchs;
   the Gardens of Eden and the quarrel of the damned
-summary: 'These two units share 1 motifs: god enthroned with the host of heaven standing at his right
-  and left deliberates.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - divine-council-scene
-passages:
-- tradition: judaism
-  ref: 2Chr 18:18
-  note: God enthroned with the host of heaven standing at his right and left deliberates (YHWH on his
-    throne with all the host of heaven at right and left)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לָכֵ֖ן שִׁמְע֣וּ דְבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יוֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל צְבָ֤א
-    הַשָּׁמַ֨יִם֙ עֹֽמְדִ֔ים עַל יְמִינ֖וֹ וּשְׂמֹאלֽוֹ
-- tradition: judaism
-  ref: 2Chr 18:19
-  note: God enthroned with the host of heaven standing at his right and left deliberates (YHWH on his
-    throne with all the host of heaven at right and left)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת אַחְאָ֣ב מֶֽלֶךְ יִשְׂרָאֵ֔ל וְיַ֕עַל וְיִפֹּ֖ל בְּרָמ֣וֹת
-    גִּלְעָ֑ד וַיֹּ֕אמֶר זֶ֚ה אֹמֵ֣ר כָּ֔כָה וְזֶ֖ה אֹמֵ֥ר כָּֽכָה
-- tradition: islam
-  ref: Quran 38:69
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōməḏîm ʿal-yəmînô û-śəmōʾlô ... wa-yyōʾmer zeh ʾōmēr kāḵâ wə-zeh ʾōmēr
-    kāḵâ vs. bi-l-malaʾi l-aʿlā idh yakhtaṣimūn: the heavenly assembly in debate. Micaiah sees it; the
-    Quranic prophet says he did not.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God enthroned with the host of heaven standing at his right and
     left deliberates (weight 5.8). Pair score 5.8.'
@@ -77,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God enthroned with the host of heaven standing at his right and left deliberates
+kinds:
+- echo
+units:
+- id: hb-2chr-18-micaiah-and-ramoth-gilead
+  title: Micaiah ben Imlah, the lying spirit in the divine council, and Ahab's death
+  tradition: judaism
+- id: quran-38-patriarchs-and-fates
+  title: The chosen patriarchs; the Gardens of Eden and the quarrel of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: God enthroned with the host of heaven standing at his right and left deliberates
+  note: 'wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōməḏîm ʿal-yəmînô û-śəmōʾlô ... wa-yyōʾmer zeh ʾōmēr kāḵâ wə-zeh ʾōmēr
+    kāḵâ vs. bi-l-malaʾi l-aʿlā idh yakhtaṣimūn: the heavenly assembly in debate. Micaiah sees it; the
+    Quranic prophet says he did not.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 18:18
+      lang: he
+      text: וַיֹּ֕אמֶר לָכֵ֖ן שִׁמְע֣וּ דְבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יוֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל
+        צְבָ֤א הַשָּׁמַ֨יִם֙ עֹֽמְדִ֔ים עַל יְמִינ֖וֹ וּשְׂמֹאלֽוֹ
+    - ref: 2Chr 18:19
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת אַחְאָ֣ב מֶֽלֶךְ יִשְׂרָאֵ֔ל וְיַ֕עַל וְיִפֹּ֖ל בְּרָמ֣וֹת
+        גִּלְעָ֑ד וַיֹּ֕אמֶר זֶ֚ה אֹמֵ֣ר כָּ֔כָה וְזֶ֖ה אֹמֵ֥ר כָּֽכָה
+    - ref: 2Chr 18:20
+      lang: he
+      text: וַיֵּצֵ֣א הָר֗וּחַ וַֽיַּעֲמֹד֙ לִפְנֵ֣י יְהוָ֔ה וַיֹּ֖אמֶר אֲנִ֣י אֲפַתֶּ֑נּוּ וַיֹּ֧אמֶר
+        יְהוָ֛ה אֵלָ֖יו בַּמָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:69
+      lang: ar
+      text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
 ---
 
 ## Questions

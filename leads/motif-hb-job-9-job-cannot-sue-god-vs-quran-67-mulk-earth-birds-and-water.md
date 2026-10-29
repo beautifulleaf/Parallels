@@ -2,7 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-67-mulk-earth-birds-and-water
 title: Job - cosmic power of God and the impossible lawsuit ↔ The tractable earth, the one in heaven who
   could make it swallow you, the birds held up, and the water that could sink away
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Job 9:6
-  note: The earth opens its mouth and swallows rebels alive into Sheol (fa-idhā hiya tamūr (the earth
-    heaves) ~ ha-mmargîz ʾereṣ mi-mmeqômāh we-ʿammûdêhā yitpallāṣûn.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַמַּרְגִּ֣יז אֶ֭רֶץ מִמְּקוֹמָ֑הּ וְ֝עַמּוּדֶ֗יהָ יִתְפַלָּצֽוּן
-- tradition: islam
-  ref: Quran 67:16
-  note: The earth opens its mouth and swallows rebels alive into Sheol
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-idhā hiya tamūr (the earth heaves) ~ ha-mmargîz ʾereṣ mi-mmeqômāh we-ʿammûdêhā yitpallāṣûn.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -63,6 +49,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- echo
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-67-mulk-earth-birds-and-water
+  title: The tractable earth, the one in heaven who could make it swallow you, the birds held up, and
+    the water that could sink away
+  tradition: islam
+matches:
+- kind: echo
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: fa-idhā hiya tamūr (the earth heaves) ~ ha-mmargîz ʾereṣ mi-mmeqômāh we-ʿammûdêhā yitpallāṣûn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:6
+      lang: he
+      text: הַמַּרְגִּ֣יז אֶ֭רֶץ מִמְּקוֹמָ֑הּ וְ֝עַמּוּדֶ֗יהָ יִתְפַלָּצֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 67:16
+      lang: ar
+      text: ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ
 ---
 
 ## Questions

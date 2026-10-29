@@ -2,7 +2,7 @@
 id: motif-hb-judg-6-midian-prophet-vs-quran-54-qamar-moon-split-and-noah
 title: 'Midianite oppression like locusts; an anonymous prophet rebukes Israel ↔ Al-Qamar: the moon split,
   the dead like locusts, and Noah''s ark of planks and fibres'
-summary: 'These two units share 1 motifs: enemies and their camels are as numerous as locusts.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - enemies-numerous-as-locusts
-passages:
-- tradition: judaism
-  ref: Judg 6:5
-  note: Enemies and their camels are as numerous as locusts (camels without number)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֡י הֵם֩ וּמִקְנֵיהֶ֨ם יַעֲל֜וּ וְאָהֳלֵיהֶ֗ם יבאו וּבָ֤אוּ כְדֵֽי אַרְבֶּה֙ לָרֹ֔ב וְלָהֶ֥ם
-    וְלִגְמַלֵּיהֶ֖ם אֵ֣ין מִסְפָּ֑ר וַיָּבֹ֥אוּ בָאָ֖רֶץ לְשַׁחֲתָֽהּ
-- tradition: islam
-  ref: Quran 54:7
-  note: Enemies and their camels are as numerous as locusts (locust simile for a multitude)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. yāḇōʾû ḵə-ḏê ʾarbeh lā-rōḇ wə-lāhem wə-li-ḡmallêhem ʾên mispār vs. ka-annahum jarādun muntashir:
-    numberless like locusts.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies and their camels are as numerous as locusts (weight 6.3).
     Pair score 6.3.'
@@ -63,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Enemies and their camels are as numerous as locusts
+kinds:
+- echo
+units:
+- id: hb-judg-6-midian-prophet
+  title: Midianite oppression like locusts; an anonymous prophet rebukes Israel
+  tradition: judaism
+- id: quran-54-qamar-moon-split-and-noah
+  title: 'Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres'
+  tradition: islam
+matches:
+- kind: echo
+  label: Enemies and their camels are as numerous as locusts
+  note: 'yāḇōʾû ḵə-ḏê ʾarbeh lā-rōḇ wə-lāhem wə-li-ḡmallêhem ʾên mispār vs. ka-annahum jarādun muntashir:
+    numberless like locusts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:5
+      lang: he
+      text: כִּ֡י הֵם֩ וּמִקְנֵיהֶ֨ם יַעֲל֜וּ וְאָהֳלֵיהֶ֗ם יבאו וּבָ֤אוּ כְדֵֽי אַרְבֶּה֙ לָרֹ֔ב וְלָהֶ֥ם
+        וְלִגְמַלֵּיהֶ֖ם אֵ֣ין מִסְפָּ֑ר וַיָּבֹ֥אוּ בָאָ֖רֶץ לְשַׁחֲתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 54:7
+      lang: ar
+      text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
 ---
 
 ## Questions

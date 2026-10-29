@@ -2,8 +2,7 @@
 id: motif-hb-isa-31-not-to-egypt-vs-quran-8-treaties-peace
 title: Woe to those who go down to Egypt; YHWH like a lion and hovering birds over Zion ↔ Treaty-breakers,
   deterrence and peace
-summary: 'These two units share 1 motifs: amassing war horses, and trust in god [contrast between the
-  texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - war-horses-and-trust-in-god-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 31:1
-  note: 'Amassing war horses, and trust in God [contrast between the texts] (Gathering horses for war:
-    hôy ... ʿal-sûsîm yiššāʿēnû ... wᵉlōʾ šāʿû ʿal-qᵉdôš yiśrāʾēl condemns it as distrust of God; Q commands
-    it as God''s deterrent (min ribāṭi l-khayli turhibūna bihi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹי הַיֹּרְדִ֤ים מִצְרַ֨יִם֙ לְעֶזְרָ֔ה עַל סוּסִ֖ים יִשָּׁעֵ֑נוּ וַיִּבְטְח֨וּ עַל רֶ֜כֶב כִּ֣י
-    רָ֗ב וְעַ֤ל פָּֽרָשִׁים֙ כִּֽי עָצְמ֣וּ מְאֹ֔ד וְלֹ֤א שָׁעוּ֙ עַל קְד֣וֹשׁ יִשְׂרָאֵ֔ל וְאֶת יְהוָ֖ה
-    לֹ֥א דָרָֽשׁוּ
-- tradition: islam
-  ref: Quran 8:60
-  note: 'Amassing war horses, and trust in God [contrast between the texts] (Opposite rulings on war horses:
-    Q orders wa-aʿiddū lahum mā staṭaʿtum min quwwatin wa-min ribāṭi l-khayli turhibūna bihi ʿaduwwa llāh;
-    Deut forbids the king to amass them, raq lōʾ-yarbeh-llô sûsîm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ عَدُوَّ
-    ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ وَمَا تُنفِقُوا۟
-    مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Gathering horses for war: hôy ... ʿal-sûsîm yiššāʿēnû ... wᵉlōʾ šāʿû ʿal-qᵉdôš yiśrāʾēl
-    condemns it as distrust of God; Q commands it as God''s deterrent (min ribāṭi l-khayli turhibūna bihi).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Amassing war horses, and trust in God [contrast between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -67,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Amassing war horses, and trust in God
+kinds:
+- contrast
+units:
+- id: hb-isa-31-not-to-egypt
+  title: Woe to those who go down to Egypt; YHWH like a lion and hovering birds over Zion
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: contrast
+  label: Amassing war horses, and trust in God
+  note: 'Gathering horses for war: hôy ... ʿal-sûsîm yiššāʿēnû ... wᵉlōʾ šāʿû ʿal-qᵉdôš yiśrāʾēl condemns
+    it as distrust of God; Q commands it as God''s deterrent (min ribāṭi l-khayli turhibūna bihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 31:1
+      lang: he
+      text: ה֣וֹי הַיֹּרְדִ֤ים מִצְרַ֨יִם֙ לְעֶזְרָ֔ה עַל סוּסִ֖ים יִשָּׁעֵ֑נוּ וַיִּבְטְח֨וּ עַל רֶ֜כֶב
+        כִּ֣י רָ֗ב וְעַ֤ל פָּֽרָשִׁים֙ כִּֽי עָצְמ֣וּ מְאֹ֔ד וְלֹ֤א שָׁעוּ֙ עַל קְד֣וֹשׁ יִשְׂרָאֵ֔ל וְאֶת
+        יְהוָ֖ה לֹ֥א דָרָֽשׁוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:60
+      lang: ar
+      text: وَأَعِدُّوا۟ لَهُم مَّا ٱسْتَطَعْتُم مِّن قُوَّةٍ وَمِن رِّبَاطِ ٱلْخَيْلِ تُرْهِبُونَ بِهِۦ
+        عَدُوَّ ٱللَّهِ وَعَدُوَّكُمْ وَءَاخَرِينَ مِن دُونِهِمْ لَا تَعْلَمُونَهُمُ ٱللَّهُ يَعْلَمُهُمْ
+        وَمَا تُنفِقُوا۟ مِن شَىْءٍ فِى سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيْكُمْ وَأَنتُمْ لَا تُظْلَمُونَ
 ---
 
 ## Questions

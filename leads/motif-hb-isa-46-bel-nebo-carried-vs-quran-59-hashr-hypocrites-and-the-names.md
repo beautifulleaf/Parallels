@@ -2,7 +2,7 @@
 id: motif-hb-isa-46-bel-nebo-carried-vs-quran-59-hashr-hypocrites-and-the-names
 title: Bel and Nebo carried off; God who carries Israel ↔ The hypocrites' false promises, Satan's disowning,
   the Quran on a mountain, and the litany of beautiful names
-summary: 'These two units share 1 motifs: ''there is none like you and no god beside you''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - no-god-beside-you-confession
-passages:
-- tradition: judaism
-  ref: Isa 46:9
-  note: '''There is none like you and no God beside you'' (''I am El and there is no other, God and none
-    like me'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זִכְר֥וּ רִאשֹׁנ֖וֹת מֵעוֹלָ֑ם כִּ֣י אָנֹכִ֥י אֵל֙ וְאֵ֣ין ע֔וֹד אֱלֹהִ֖ים וְאֶ֥פֶס כָּמֽוֹנִי
-- tradition: islam
-  ref: Quran 59:22
-  note: '''There is none like you and no God beside you'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
-    ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 59:23
-  note: '''There is none like you and no God beside you'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ
-    ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. kî ʾānōḵî ʾēl wə-ʾên ʿôḏ ʾĕlōhîm wə-ʾep̄es kāmônî vs. lā ilāha illā huwa ʿālimu l-ghaybi wa-sh-shahāda.
-    Isaiah adds incomparability; the Quran knowledge of the hidden and the seen.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''There is none like you and no God beside you'' (weight 5.8). Pair
     score 5.8.'
@@ -74,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''There is none like you and no God beside you'''
+kinds:
+- echo
+units:
+- id: hb-isa-46-bel-nebo-carried
+  title: Bel and Nebo carried off; God who carries Israel
+  tradition: judaism
+- id: quran-59-hashr-hypocrites-and-the-names
+  title: The hypocrites' false promises, Satan's disowning, the Quran on a mountain, and the litany of
+    beautiful names
+  tradition: islam
+matches:
+- kind: echo
+  label: '''There is none like you and no God beside you'''
+  note: kî ʾānōḵî ʾēl wə-ʾên ʿôḏ ʾĕlōhîm wə-ʾep̄es kāmônî vs. lā ilāha illā huwa ʿālimu l-ghaybi wa-sh-shahāda.
+    Isaiah adds incomparability; the Quran knowledge of the hidden and the seen.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 46:9
+      lang: he
+      text: זִכְר֥וּ רִאשֹׁנ֖וֹת מֵעוֹלָ֑ם כִּ֣י אָנֹכִ֥י אֵל֙ וְאֵ֣ין ע֔וֹד אֱלֹהִ֖ים וְאֶ֥פֶס כָּמֽוֹנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 59:22
+      lang: ar
+      text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
+        ٱلرَّحِيمُ
 ---
 
 ## Questions

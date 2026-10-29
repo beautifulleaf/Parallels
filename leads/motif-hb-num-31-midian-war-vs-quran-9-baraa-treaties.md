@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-31-midian-war-vs-quran-9-baraa-treaties
 title: War against Midian and division of the spoils ↔ The disavowal - treaties, sacred months and asylum
-summary: 'These two units share 1 motifs: god punishes the enemy by the believers'' hands and heals the
-  believers'' breasts.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - god-punishes-by-believers-hands
-passages:
-- tradition: judaism
-  ref: Num 31:3
-  note: 'God punishes the enemy by the believers'' hands and heals the believers'' breasts (The army as
-    the instrument of God''s own punishment: qātilūhum yuʿadhdhibhumu llāhu bi-aydīkum vs wᵉyihyû ʿal-midyān
-    lātēt niqmat-YHWH bᵉmidyān.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל הָעָ֣ם לֵאמֹ֔ר הֵחָלְצ֧וּ מֵאִתְּכֶ֛ם אֲנָשִׁ֖ים לַצָּבָ֑א וְיִהְיוּ֙
-    עַל מִדְיָ֔ן לָתֵ֥ת נִקְמַת יְהוָ֖ה בְּמִדְיָֽן
-- tradition: islam
-  ref: Quran 9:14
-  note: God punishes the enemy by the believers' hands and heals the believers' breasts
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ
-    صُدُورَ قَوْمٍ مُّؤْمِنِينَ
-- tradition: islam
-  ref: Quran 9:15
-  note: God punishes the enemy by the believers' hands and heals the believers' breasts
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The army as the instrument of God''s own punishment: qātilūhum yuʿadhdhibhumu llāhu bi-aydīkum
-    vs wᵉyihyû ʿal-midyān lātēt niqmat-YHWH bᵉmidyān.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God punishes the enemy by the believers'' hands and heals the believers''
     breasts (weight 6.7). Pair score 6.7.'
@@ -74,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God punishes the enemy by the believers' hands and heals the believers' breasts
+kinds:
+- parallel
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-9-baraa-treaties
+  title: The disavowal - treaties, sacred months and asylum
+  tradition: islam
+matches:
+- kind: parallel
+  label: God punishes the enemy by the believers' hands and heals the believers' breasts
+  note: 'The army as the instrument of God''s own punishment: qātilūhum yuʿadhdhibhumu llāhu bi-aydīkum
+    vs wᵉyihyû ʿal-midyān lātēt niqmat-YHWH bᵉmidyān.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:3
+      lang: he
+      text: וַיְדַבֵּ֤ר מֹשֶׁה֙ אֶל הָעָ֣ם לֵאמֹ֔ר הֵחָלְצ֧וּ מֵאִתְּכֶ֛ם אֲנָשִׁ֖ים לַצָּבָ֑א וְיִהְיוּ֙
+        עַל מִדְיָ֔ן לָתֵ֥ת נִקְמַת יְהוָ֖ה בְּמִדְיָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 9:14
+      lang: ar
+      text: قَٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ
+        صُدُورَ قَوْمٍ مُّؤْمِنِينَ
 ---
 
 ## Questions

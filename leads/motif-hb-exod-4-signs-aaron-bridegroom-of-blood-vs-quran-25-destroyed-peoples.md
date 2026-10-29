@@ -2,8 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-25-destroyed-peoples
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses and Aaron,
   Noah, Ad, Thamud, the People of the Rass and the rained-upon town
-summary: 'These two units share 1 motifs: aaron''s role beside moses and how he is appointed [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - aarons-role-beside-moses-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 4:14
-  note: 'Aaron''s role beside Moses and how he is appointed [divergence between the texts] (wa-jaʿalnā
-    maʿahu akhāhu Hārūna wazīran ~ hălōʾ ʾAhărōn ʾāḥîkā ... wə-hāyâ hûʾ yihyeh lləkā lə-feh wə-ʾattâ tihyeh
-    lô lēʾlōhîm: Aaron joins his brother. In Exodus God appoints him in anger (wa-yyiḥar ʾap YHWH bə-Mōše)
-    as Moses'' ''mouth'', with Moses ''as God'' to him; in the Quran he is a helper (wazīr) given with
-    the Book, and the ''as God'' relation is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
-    כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
-- tradition: judaism
-  ref: Exod 4:16
-  note: 'Aaron''s role beside Moses and how he is appointed [divergence between the texts] (wa-jaʿalnā
-    maʿahu akhāhu Hārūna wazīran ~ hălōʾ ʾAhărōn ʾāḥîkā ... wə-hāyâ hûʾ yihyeh lləkā lə-feh wə-ʾattâ tihyeh
-    lô lēʾlōhîm: Aaron joins his brother. In Exodus God appoints him in anger (wa-yyiḥar ʾap YHWH bə-Mōše)
-    as Moses'' ''mouth'', with Moses ''as God'' to him; in the Quran he is a helper (wazīr) given with
-    the Book, and the ''as God'' relation is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבֶּר ה֥וּא לְךָ֖ אֶל הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה לּ֥וֹ
-    לֵֽאלֹהִֽים
-- tradition: islam
-  ref: Quran 25:35
-  note: 'Aaron''s role beside Moses and how he is appointed [divergence between the texts] (wa-jaʿalnā
-    maʿahu akhāhu Hārūna wazīran ~ hălōʾ ʾAhărōn ʾāḥîkā ... wə-hāyâ hûʾ yihyeh lləkā lə-feh wə-ʾattâ tihyeh
-    lô lēʾlōhîm: Aaron joins his brother. In Exodus God appoints him in anger (wa-yyiḥar ʾap YHWH bə-Mōše)
-    as Moses'' ''mouth'', with Moses ''as God'' to him; in the Quran he is a helper (wazīr) given with
-    the Book, and the ''as God'' relation is absent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. wa-jaʿalnā maʿahu akhāhu Hārūna wazīran ~ hălōʾ ʾAhărōn ʾāḥîkā ... wə-hāyâ hûʾ yihyeh
-    lləkā lə-feh wə-ʾattâ tihyeh lô lēʾlōhîm: Aaron joins his brother. In Exodus God appoints him in anger
-    (wa-yyiḥar ʾap YHWH bə-Mōše) as Moses'' ''mouth'', with Moses ''as God'' to him; in the Quran he is
-    a helper (wazīr) given with the Book, and the ''as God'' relation is absent.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Aaron''s role beside Moses and how he is appointed [divergence between
     the texts] (weight 6.0). Pair score 6.0.'
@@ -89,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Aaron's role beside Moses and how he is appointed
+kinds:
+- divergence
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: divergence
+  label: Aaron's role beside Moses and how he is appointed
+  note: 'wa-jaʿalnā maʿahu akhāhu Hārūna wazīran ~ hălōʾ ʾAhărōn ʾāḥîkā ... wə-hāyâ hûʾ yihyeh lləkā lə-feh
+    wə-ʾattâ tihyeh lô lēʾlōhîm: Aaron joins his brother. In Exodus God appoints him in anger (wa-yyiḥar
+    ʾap YHWH bə-Mōše) as Moses'' ''mouth'', with Moses ''as God'' to him; in the Quran he is a helper
+    (wazīr) given with the Book, and the ''as God'' relation is absent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:14
+      lang: he
+      text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
+        כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
+    - ref: Exod 4:16
+      lang: he
+      text: וְדִבֶּר ה֥וּא לְךָ֖ אֶל הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה
+        לּ֥וֹ לֵֽאלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 25:35
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْكِتَٰبَ وَجَعَلْنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرًا
 ---
 
 ## Questions

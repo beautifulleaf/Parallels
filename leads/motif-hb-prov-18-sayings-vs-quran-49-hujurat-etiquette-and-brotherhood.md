@@ -2,9 +2,7 @@
 id: motif-hb-prov-18-sayings-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Sayings on the tongue, the strong tower and the lot ↔ Al-Hujurat: lowering voices, verifying reports,
   reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 2 motifs: slander or gossip pictured as eating [divergence between the
-  texts], the words of a whisperer are like delicious morsels that go down into the inner chambers of
-  the belly.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,52 +15,9 @@ layers:
 motifs:
 - slander-as-eating-as-divergence
 - gossip-like-delicacies-in-belly
-passages:
-- tradition: judaism
-  ref: Prov 18:8
-  note: 'Slander or gossip pictured as eating [divergence between the texts] (Slander pictured as eating,
-    with opposite tastes. Proverbs: diḇrê nirgān kə-miṯlahămîm wə-hēm yārəḏû ḥaḏrê ḇāṭen (the whisperer''s
-    words are like delicacies that go down into the belly). Quran: wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu
-    aḥadukum an yaʾkula laḥma akhīhi maytan fa-kariḥtumūh (would you eat your dead brother''s flesh? you
-    would loathe it). Proverbs explains why gossip is attractive; the Quran makes it repellent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
-- tradition: islam
-  ref: Quran 49:12
-  note: 'Slander or gossip pictured as eating [divergence between the texts] (Slander pictured as eating,
-    with opposite tastes. Proverbs: diḇrê nirgān kə-miṯlahămîm wə-hēm yārəḏû ḥaḏrê ḇāṭen (the whisperer''s
-    words are like delicacies that go down into the belly). Quran: wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu
-    aḥadukum an yaʾkula laḥma akhīhi maytan fa-kariḥtumūh (would you eat your dead brother''s flesh? you
-    would loathe it). Proverbs explains why gossip is attractive; the Quran makes it repellent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Prov 18:8
-  note: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
-    belly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
-- tradition: islam
-  ref: Quran 49:12
-  note: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
-    belly (slander as eating)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Slander pictured as eating, with opposite tastes. Proverbs: diḇrê nirgān kə-miṯlahămîm
-    wə-hēm yārəḏû ḥaḏrê ḇāṭen (the whisperer''s words are like delicacies that go down into the belly).
-    Quran: wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan fa-kariḥtumūh
-    (would you eat your dead brother''s flesh? you would loathe it). Proverbs explains why gossip is attractive;
-    the Quran makes it repellent.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Slander or gossip pictured as eating [divergence between the texts]
     (weight 6.7); The words of a whisperer are like delicious morsels that go down into the inner chambers
@@ -102,6 +57,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Slander or gossip pictured as eating
+kinds:
+- divergence
+- shared
+units:
+- id: hb-prov-18-sayings
+  title: Sayings on the tongue, the strong tower and the lot
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Slander or gossip pictured as eating
+  note: 'Slander pictured as eating, with opposite tastes. Proverbs: diḇrê nirgān kə-miṯlahămîm wə-hēm
+    yārəḏû ḥaḏrê ḇāṭen (the whisperer''s words are like delicacies that go down into the belly). Quran:
+    wa-lā yaghtab baʿḍukum baʿḍan a-yuḥibbu aḥadukum an yaʾkula laḥma akhīhi maytan fa-kariḥtumūh (would
+    you eat your dead brother''s flesh? you would loathe it). Proverbs explains why gossip is attractive;
+    the Quran makes it repellent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 18:8
+      lang: he
+      text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+- kind: shared
+  label: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
+    belly
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 18:8
+      lang: he
+      text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+    note: slander as eating
 ---
 
 ## Questions

@@ -2,10 +2,7 @@
 id: motif-hb-exod-3-burning-bush-vs-quran-28-call-at-the-tree
 title: The burning bush and the divine name ↔ The fire on the side of the Mount; the call from the tree;
   Aaron as helper
-summary: 'These two units share 4 motifs: where and how moses comes to the place of his call [divergence
-  between the texts], god calls moses from the fire, from a bush or a tree [divergence between the texts],
-  a shepherd tending flocks comes to the mountain of god and is called, god appears in a bush that burns
-  without being consumed.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,148 +17,9 @@ motifs:
 - call-from-the-fire-as-divergence
 - shepherd-called-at-mountain-of-god
 - burning-bush-not-consumed
-passages:
-- tradition: judaism
-  ref: Exod 3:1
-  note: 'Where and how Moses comes to the place of his call [divergence between the texts] (Place and
-    occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind the wilderness'' to Horeb,
-    the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals.
-    The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing
-    fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in ''the
-    blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes
-    a blessed spot.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת הַצֹּאן֙
-    אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה
-- tradition: judaism
-  ref: Exod 3:5
-  note: 'Where and how Moses comes to the place of his call [divergence between the texts] (Place and
-    occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind the wilderness'' to Horeb,
-    the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals.
-    The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing
-    fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in ''the
-    blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes
-    a blessed spot.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר אַתָּה֙
-    עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
-- tradition: islam
-  ref: Quran 28:29
-  note: 'Where and how Moses comes to the place of his call [divergence between the texts] (Place and
-    occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind the wilderness'' to Horeb,
-    the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals.
-    The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing
-    fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in ''the
-    blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes
-    a blessed spot.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ
-    لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ
-    مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
-- tradition: islam
-  ref: Quran 28:30
-  note: 'Where and how Moses comes to the place of his call [divergence between the texts] (Place and
-    occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind the wilderness'' to Horeb,
-    the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his sandals.
-    The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family, seeing
-    fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley in ''the
-    blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground becomes
-    a blessed spot.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
-    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 3:2
-  note: 'God calls Moses from the fire, from a bush or a tree [divergence between the texts] (nūdiya ...
-    mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh
-    has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush (səneh)
-    becomes ''the tree'' (ash-shajara), the angel in the flame drops out, and ''the God of your father''
-    becomes ''Allāh, Lord of the worlds''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה הַסְּנֶה֙
-    בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
-- tradition: judaism
-  ref: Exod 3:4
-  note: 'God calls Moses from the fire, from a bush or a tree [divergence between the texts] (nūdiya ...
-    mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh
-    has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush (səneh)
-    becomes ''the tree'' (ash-shajara), the angel in the flame drops out, and ''the God of your father''
-    becomes ''Allāh, Lord of the worlds''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
-    מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
-- tradition: islam
-  ref: Quran 28:30
-  note: 'God calls Moses from the fire, from a bush or a tree [divergence between the texts] (nūdiya ...
-    mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh
-    has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush (səneh)
-    becomes ''the tree'' (ash-shajara), the angel in the flame drops out, and ''the God of your father''
-    becomes ''Allāh, Lord of the worlds''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
-    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 3:1
-  note: A shepherd tending flocks comes to the mountain of God and is called (Horeb, 'mountain of God',
-    behind the wilderness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת הַצֹּאן֙
-    אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה
-- tradition: islam
-  ref: Quran 28:29
-  note: A shepherd tending flocks comes to the mountain of God and is called
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا قَالَ
-    لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ
-    مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
-- tradition: islam
-  ref: Quran 28:30
-  note: A shepherd tending flocks comes to the mountain of God and is called
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
-    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 3:2
-  note: God appears in a bush that burns without being consumed (seneh - pun on Sinai)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה הַסְּנֶה֙
-    בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
-- tradition: judaism
-  ref: Exod 3:3
-  note: God appears in a bush that burns without being consumed (seneh - pun on Sinai)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֔ה אָסֻֽרָה נָּ֣א וְאֶרְאֶ֔ה אֶת הַמַּרְאֶ֥ה הַגָּדֹ֖ל הַזֶּ֑ה מַדּ֖וּעַ לֹא יִבְעַ֥ר
-    הַסְּנֶֽה
-- tradition: islam
-  ref: Quran 28:30
-  note: 'God appears in a bush that burns without being consumed (min al-shajara: here the tree)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ مِنَ
-    ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Place and occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind
-    the wilderness'' to Horeb, the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he
-    must take off his sandals. The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling
-    with his family, seeing fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank
-    of the valley in ''the blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the
-    holy ground becomes a blessed spot. nūdiya ... mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna
-    ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm mit-tôkh has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the
-    call from a plant. The bush (səneh) becomes ''the tree'' (ash-shajara), the angel in the flame drops
-    out, and ''the God of your father'' becomes ''Allāh, Lord of the worlds''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where and how Moses comes to the place of his call [divergence between
     the texts] (weight 6.7); God calls Moses from the fire, from a bush or a tree [divergence between
@@ -199,6 +57,117 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where and how Moses comes to the place of his call
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-28-call-at-the-tree
+  title: The fire on the side of the Mount; the call from the tree; Aaron as helper
+  tradition: islam
+matches:
+- kind: divergence
+  label: Where and how Moses comes to the place of his call
+  note: 'Place and occasion of the call: Exodus has Moses shepherding Jethro''s flock ''behind the wilderness''
+    to Horeb, the mountain of God, a place of holy ground (ʾadmat qōdeš hûʾ), where he must take off his
+    sandals. The Quran has Moses, after completing his term (qaḍā Mūsā l-ajala), traveling with his family,
+    seeing fire on the side of the Mount (jānib aṭ-Ṭūr), and called from the right bank of the valley
+    in ''the blessed spot'' (al-buqʿa al-mubāraka). There are no flock and no sandals; the holy ground
+    becomes a blessed spot.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:1
+      lang: he
+      text: וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת הַצֹּאן֙
+        אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה
+    - ref: Exod 3:5
+      lang: he
+      text: וַיֹּ֖אמֶר אַל תִּקְרַ֣ב הֲלֹ֑ם שַׁל נְעָלֶ֨יךָ֙ מֵעַ֣ל רַגְלֶ֔יךָ כִּ֣י הַמָּק֗וֹם אֲשֶׁ֤ר
+        אַתָּה֙ עוֹמֵ֣ד עָלָ֔יו אַדְמַת קֹ֖דֶשׁ הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 28:29
+      lang: ar
+      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
+        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+- kind: divergence
+  label: God calls Moses from the fire, from a bush or a tree
+  note: 'nūdiya ... mina sh-shajarati an yā Mūsā innī ana llāhu rabbu l-ʿālamīna ~ wa-yyiqrāʾ ʾēlāyw ʾĕlōhîm
+    mit-tôkh has-səneh wa-yyōʾmer Mōše Mōše ... ʾānōkhî ʾĕlōhê ʾāvîkā: the call from a plant. The bush
+    (səneh) becomes ''the tree'' (ash-shajara), the angel in the flame drops out, and ''the God of your
+    father'' becomes ''Allāh, Lord of the worlds''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:2
+      lang: he
+      text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה
+        הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
+    - ref: Exod 3:4
+      lang: he
+      text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
+        מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+- kind: shared
+  label: A shepherd tending flocks comes to the mountain of God and is called
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:1
+      lang: he
+      text: וּמֹשֶׁ֗ה הָיָ֥ה רֹעֶ֛ה אֶת צֹ֛אן יִתְר֥וֹ חֹתְנ֖וֹ כֹּהֵ֣ן מִדְיָ֑ן וַיִּנְהַ֤ג אֶת הַצֹּאן֙
+        אַחַ֣ר הַמִּדְבָּ֔ר וַיָּבֹ֛א אֶל הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽבָה
+    note: Horeb, 'mountain of God', behind the wilderness
+  - tradition: islam
+    passages:
+    - ref: Quran 28:29
+      lang: ar
+      text: فَلَمَّا قَضَىٰ مُوسَى ٱلْأَجَلَ وَسَارَ بِأَهْلِهِۦٓ ءَانَسَ مِن جَانِبِ ٱلطُّورِ نَارًا
+        قَالَ لِأَهْلِهِ ٱمْكُثُوٓا۟ إِنِّىٓ ءَانَسْتُ نَارًا لَّعَلِّىٓ ءَاتِيكُم مِّنْهَا بِخَبَرٍ أَوْ
+        جَذْوَةٍ مِّنَ ٱلنَّارِ لَعَلَّكُمْ تَصْطَلُونَ
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+- kind: shared
+  label: God appears in a bush that burns without being consumed
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:2
+      lang: he
+      text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה
+        הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
+    - ref: Exod 3:3
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֔ה אָסֻֽרָה נָּ֣א וְאֶרְאֶ֔ה אֶת הַמַּרְאֶ֥ה הַגָּדֹ֖ל הַזֶּ֑ה מַדּ֖וּעַ לֹא
+        יִבְעַ֥ר הַסְּנֶֽה
+    - ref: Exod 3:4
+      lang: he
+      text: וַיַּ֥רְא יְהוָ֖ה כִּ֣י סָ֣ר לִרְא֑וֹת וַיִּקְרָא֩ אֵלָ֨יו אֱלֹהִ֜ים מִתּ֣וֹךְ הַסְּנֶ֗ה וַיֹּ֛אמֶר
+        מֹשֶׁ֥ה מֹשֶׁ֖ה וַיֹּ֥אמֶר הִנֵּֽנִי
+    note: seneh - pun on Sinai
+  - tradition: islam
+    passages:
+    - ref: Quran 28:30
+      lang: ar
+      text: فَلَمَّآ أَتَىٰهَا نُودِىَ مِن شَٰطِئِ ٱلْوَادِ ٱلْأَيْمَنِ فِى ٱلْبُقْعَةِ ٱلْمُبَٰرَكَةِ
+        مِنَ ٱلشَّجَرَةِ أَن يَٰمُوسَىٰٓ إِنِّىٓ أَنَا ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+    note: 'min al-shajara: here the tree'
 ---
 
 ## Questions

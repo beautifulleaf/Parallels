@@ -2,8 +2,7 @@
 id: motif-hb-prov-27-sayings-vs-quran-31-signs-and-unseen
 title: Sayings on tomorrow, friends and the care of flocks ↔ God's signs, the inexhaustible words, and
   the five things only God knows
-summary: 'These two units share 1 motifs: god alone knows the hour, sends rain, knows what is in wombs;
-  no soul knows what it will earn tomorrow or in what land it will die.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - five-keys-of-the-unseen
-passages:
-- tradition: judaism
-  ref: Prov 27:1
-  note: 'God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
-    tomorrow or in what land it will die (ʾal-tiṯhallēl bə-yôm māḥār kî lōʾ-ṯēḏaʿ mah-yēleḏ yôm vs. wa-mā
-    tadrī nafsun mādhā taksibu ghadan: no one knows what tomorrow will bring. Proverbs draws a moral against
-    boasting; the Quran lists it among the things only God knows (ʿindahu ʿilmu s-sāʿa).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
-- tradition: islam
-  ref: Quran 31:34
-  note: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
-    tomorrow or in what land it will die
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
-    وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ ٱللَّهَ
-    عَلِيمٌ خَبِيرٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾal-tiṯhallēl bə-yôm māḥār kî lōʾ-ṯēḏaʿ mah-yēleḏ yôm vs. wa-mā tadrī nafsun mādhā taksibu
-    ghadan: no one knows what tomorrow will bring. Proverbs draws a moral against boasting; the Quran
-    lists it among the things only God knows (ʿindahu ʿilmu s-sāʿa).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the Hour, sends rain, knows what is in wombs; no
     soul knows what it will earn tomorrow or in what land it will die (weight 6.3). Pair score 6.3.'
@@ -75,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
+  tomorrow or in what land it will die
+kinds:
+- parallel
+units:
+- id: hb-prov-27-sayings
+  title: Sayings on tomorrow, friends and the care of flocks
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: parallel
+  label: God alone knows the Hour, sends rain, knows what is in wombs; no soul knows what it will earn
+    tomorrow or in what land it will die
+  note: 'ʾal-tiṯhallēl bə-yôm māḥār kî lōʾ-ṯēḏaʿ mah-yēleḏ yôm vs. wa-mā tadrī nafsun mādhā taksibu ghadan:
+    no one knows what tomorrow will bring. Proverbs draws a moral against boasting; the Quran lists it
+    among the things only God knows (ʿindahu ʿilmu s-sāʿa).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 27:1
+      lang: he
+      text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 31:34
+      lang: ar
+      text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
+        وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ
+        ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
 ---
 
 ## Questions

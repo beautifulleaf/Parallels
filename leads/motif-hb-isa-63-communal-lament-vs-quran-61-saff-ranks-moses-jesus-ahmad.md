@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'Remembering the days of Moses - O that you would rend the heavens ↔ Al-Saff: ranks like a solid
   structure; Moses hurt by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: god makes his people''s hearts stray or swerve [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - god-makes-hearts-swerve-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 63:17
-  note: 'God makes his people''s hearts stray or swerve [divergence between the texts] (God makes Israel''s
-    heart swerve. Isaiah, as a lament: lāmmâ ṯaṯʿēnû YHWH mid-dərāḵêḵā taqšîaḥ libbēnû mi-yyirʾāṯeḵā (why
-    do you make us stray and harden our heart?). Quran, as a verdict: fa-lammā zāghū azāgha llāhu qulūbahum
-    wa-llāhu lā yahdī l-qawma l-fāsiqīn (when they swerved, God made their hearts swerve). Isaiah asks
-    why God does it; the Quran answers: because they swerved first.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֣מָּה תַתְעֵ֤נוּ יְהוָה֙ מִדְּרָכֶ֔יךָ תַּקְשִׁ֥יחַ לִבֵּ֖נוּ מִיִּרְאָתֶ֑ךָ שׁ֚וּב לְמַ֣עַן
-    עֲבָדֶ֔יךָ שִׁבְטֵ֖י נַחֲלָתֶֽךָ
-- tradition: islam
-  ref: Quran 61:5
-  note: 'God makes his people''s hearts stray or swerve [divergence between the texts] (God makes Israel''s
-    heart swerve. Isaiah, as a lament: lāmmâ ṯaṯʿēnû YHWH mid-dərāḵêḵā taqšîaḥ libbēnû mi-yyirʾāṯeḵā (why
-    do you make us stray and harden our heart?). Quran, as a verdict: fa-lammā zāghū azāgha llāhu qulūbahum
-    wa-llāhu lā yahdī l-qawma l-fāsiqīn (when they swerved, God made their hearts swerve). Isaiah asks
-    why God does it; the Quran answers: because they swerved first.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
-    ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
-    ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. God makes Israel''s heart swerve. Isaiah, as a lament: lāmmâ ṯaṯʿēnû YHWH mid-dərāḵêḵā
-    taqšîaḥ libbēnû mi-yyirʾāṯeḵā (why do you make us stray and harden our heart?). Quran, as a verdict:
-    fa-lammā zāghū azāgha llāhu qulūbahum wa-llāhu lā yahdī l-qawma l-fāsiqīn (when they swerved, God
-    made their hearts swerve). Isaiah asks why God does it; the Quran answers: because they swerved first.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes his people''s hearts stray or swerve [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -83,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes his people's hearts stray or swerve
+kinds:
+- divergence
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: divergence
+  label: God makes his people's hearts stray or swerve
+  note: 'God makes Israel''s heart swerve. Isaiah, as a lament: lāmmâ ṯaṯʿēnû YHWH mid-dərāḵêḵā taqšîaḥ
+    libbēnû mi-yyirʾāṯeḵā (why do you make us stray and harden our heart?). Quran, as a verdict: fa-lammā
+    zāghū azāgha llāhu qulūbahum wa-llāhu lā yahdī l-qawma l-fāsiqīn (when they swerved, God made their
+    hearts swerve). Isaiah asks why God does it; the Quran answers: because they swerved first.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:17
+      lang: he
+      text: לָ֣מָּה תַתְעֵ֤נוּ יְהוָה֙ מִדְּרָכֶ֔יךָ תַּקְשִׁ֥יחַ לִבֵּ֖נוּ מִיִּרְאָתֶ֑ךָ שׁ֚וּב לְמַ֣עַן
+        עֲבָדֶ֔יךָ שִׁבְטֵ֖י נַחֲלָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 61:5
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
+        ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
+        ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

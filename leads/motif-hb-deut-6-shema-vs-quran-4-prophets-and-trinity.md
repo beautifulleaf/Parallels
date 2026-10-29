@@ -2,7 +2,7 @@
 id: motif-hb-deut-6-shema-vs-quran-4-prophets-and-trinity
 title: The Shema and the instruction to teach ↔ The chain of revelation; Jesus, word and spirit; 'say
   not three'
-summary: 'These two units share 1 motifs: hear o israel: yhwh our god, yhwh is one.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Deut 6:4
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
-- tradition: islam
-  ref: Quran 4:171
-  note: 'Hear O Israel: YHWH our God, YHWH is one (Q: wa-lā taqūlū thalāthatun ... innamā llāhu ilāhun
-    wāḥidun. Deut: šəmaʿ Yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād. Q turns the oneness formula against the Christians''
-    ''three''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
-    إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
-    وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ
-    إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ
-    وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-lā taqūlū thalāthatun ... innamā llāhu ilāhun wāḥidun. Deut: šəmaʿ Yiśrāʾēl YHWH ʾĕlōhênû
-    YHWH ʾeḥād. Q turns the oneness formula against the Christians'' ''three''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
     5.4.'
@@ -69,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hear O Israel: YHWH our God, YHWH is one'
+kinds:
+- parallel
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: 'Q: wa-lā taqūlū thalāthatun ... innamā llāhu ilāhun wāḥidun. Deut: šəmaʿ Yiśrāʾēl YHWH ʾĕlōhênû
+    YHWH ʾeḥād. Q turns the oneness formula against the Christians'' ''three''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:4
+      lang: he
+      text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 4:171
+      lang: ar
+      text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
+        إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
+        وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا
+        لَّكُمْ إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى
+        ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-147-counts-the-stars-vs-quran-29-emigrate-and-trust
 title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow ↔ God's earth is wide; every soul
   tastes death; signs and the secure sanctuary
-summary: 'These two units share 1 motifs: god provides prey for the lion and food for the raven''s young
-  that cry to him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - god-feeds-wild-animals
-passages:
-- tradition: judaism
-  ref: Ps 147:9
-  note: God provides prey for the lion and food for the raven's young that cry to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נוֹתֵ֣ן לִבְהֵמָ֣ה לַחְמָ֑הּ לִבְנֵ֥י עֹ֝רֵ֗ב אֲשֶׁ֣ר יִקְרָֽאוּ
-- tradition: islam
-  ref: Quran 29:60
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
-- tradition: islam
-  ref: Quran 29:62
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ بِكُلِّ
-    شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-kaʾayyin min dābbatin lā taḥmilu rizqahā llāhu yarzuquhā wa-iyyākum vs. nôṯēn li-ḇhēmâ
-    laḥmāh li-ḇnê ʿōrēḇ ʾăšer yiqrāʾû. The Quran draws the lesson for the emigrant believers (''and you''),
-    who must trust (yatawakkalūn, 29:59).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God provides prey for the lion and food for the raven''s young that
     cry to him (weight 6.0). Pair score 6.0.'
@@ -78,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God provides prey for the lion and food for the raven's young that cry to him
+kinds:
+- parallel
+units:
+- id: hb-ps-147-counts-the-stars
+  title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: parallel
+  label: God provides prey for the lion and food for the raven's young that cry to him
+  note: wa-kaʾayyin min dābbatin lā taḥmilu rizqahā llāhu yarzuquhā wa-iyyākum vs. nôṯēn li-ḇhēmâ laḥmāh
+    li-ḇnê ʿōrēḇ ʾăšer yiqrāʾû. The Quran draws the lesson for the emigrant believers ('and you'), who
+    must trust (yatawakkalūn, 29:59).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 147:9
+      lang: he
+      text: נוֹתֵ֣ן לִבְהֵמָ֣ה לַחְמָ֑הּ לִבְנֵ֥י עֹ֝רֵ֗ב אֲשֶׁ֣ר יִקְרָֽאוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:60
+      lang: ar
+      text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ
+        ٱلسَّمِيعُ ٱلْعَلِيمُ
 ---
 
 ## Questions

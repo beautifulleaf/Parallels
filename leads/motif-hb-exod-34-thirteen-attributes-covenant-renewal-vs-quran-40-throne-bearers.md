@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-40-throne-bearers
 title: 'New tablets, the attributes of mercy and the ritual decalogue ↔ Ha-Mim: the Forgiver; the throne-bearers
   pray for the believers'
-summary: 'These two units share 1 motifs: formula: ''gracious and merciful, slow to anger, abounding in
-  steadfast love, relenting of evil''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - gracious-merciful-slow-to-anger-formula
-passages:
-- tradition: judaism
-  ref: Exod 34:6
-  note: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil''
-    (nōśēʾ ʿāwōn wā-p̄ešaʿ wə-ḥaṭṭāʾâ wə-naqqēh lōʾ yənaqqeh vs. ghāfiri dh-dhanbi wa-qābili t-tawbi shadīdi
-    l-ʿiqābi dhī ṭ-ṭawl: a chain of divine epithets in which forgiveness and severity stand together.
-    The Quran keeps the structure but drops the transgenerational clause (pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲבֹ֨ר יְהוָ֥ה עַל פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם
-    וְרַב חֶ֥סֶד וֶאֱמֶֽת
-- tradition: judaism
-  ref: Exod 34:7
-  note: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil''
-    (nōśēʾ ʿāwōn wā-p̄ešaʿ wə-ḥaṭṭāʾâ wə-naqqēh lōʾ yənaqqeh vs. ghāfiri dh-dhanbi wa-qābili t-tawbi shadīdi
-    l-ʿiqābi dhī ṭ-ṭawl: a chain of divine epithets in which forgiveness and severity stand together.
-    The Quran keeps the structure but drops the transgenerational clause (pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹצֵ֥ר חֶ֨סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד
-    עֲוֺ֣ן אָב֗וֹת עַל בָּנִים֙ וְעַל בְּנֵ֣י בָנִ֔ים עַל שִׁלֵּשִׁ֖ים וְעַל רִבֵּעִֽים
-- tradition: islam
-  ref: Quran 40:3
-  note: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil''
-    (forgiving yet severe in punishment, compare Exod 34:6-7)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا هُوَ
-    إِلَيْهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. nōśēʾ ʿāwōn wā-p̄ešaʿ wə-ḥaṭṭāʾâ wə-naqqēh lōʾ yənaqqeh vs. ghāfiri dh-dhanbi wa-qābili
-    t-tawbi shadīdi l-ʿiqābi dhī ṭ-ṭawl: a chain of divine epithets in which forgiveness and severity
-    stand together. The Quran keeps the structure but drops the transgenerational clause (pōqēḏ ʿăwōn
-    ʾāḇôṯ ʿal-bānîm).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Formula: ''gracious and merciful, slow to anger, abounding in steadfast
     love, relenting of evil'' (weight 6.3). Pair score 6.3.'
@@ -87,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'''
+kinds:
+- parallel
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-40-throne-bearers
+  title: 'Ha-Mim: the Forgiver; the throne-bearers pray for the believers'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'''
+  note: 'nōśēʾ ʿāwōn wā-p̄ešaʿ wə-ḥaṭṭāʾâ wə-naqqēh lōʾ yənaqqeh vs. ghāfiri dh-dhanbi wa-qābili t-tawbi
+    shadīdi l-ʿiqābi dhī ṭ-ṭawl: a chain of divine epithets in which forgiveness and severity stand together.
+    The Quran keeps the structure but drops the transgenerational clause (pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:6
+      lang: he
+      text: וַיַּעֲבֹ֨ר יְהוָ֥ה עַל פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ
+        אַפַּ֖יִם וְרַב חֶ֥סֶד וֶאֱמֶֽת
+    - ref: Exod 34:7
+      lang: he
+      text: נֹצֵ֥ר חֶ֨סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד
+        עֲוֺ֣ן אָב֗וֹת עַל בָּנִים֙ וְעַל בְּנֵ֣י בָנִ֔ים עַל שִׁלֵּשִׁ֖ים וְעַל רִבֵּעִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 40:3
+      lang: ar
+      text: غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا
+        هُوَ إِلَيْهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

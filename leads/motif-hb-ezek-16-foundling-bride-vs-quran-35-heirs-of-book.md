@@ -2,8 +2,7 @@
 id: motif-hb-ezek-16-foundling-bride-vs-quran-35-heirs-of-book
 title: Jerusalem the exposed foundling, God's bride and the faithless harlot ↔ The heirs of the Book,
   the Gardens of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: in paradise the righteous are adorned with gold bracelets and
-  pearls and wear silk.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - paradise-gold-bracelets-pearls-silk
-passages:
-- tradition: judaism
-  ref: Ezek 16:10
-  note: 'In paradise the righteous are adorned with gold bracelets and pearls and wear silk (wā-ʾettənâ
-    ṣəmîḏîm ʿal-yāḏayiḵ ... wa-ttaʿdî zāhāḇ wā-ḵesep̄ û-malbûšēḵ šēš wā-mešî vs. yuḥallawna fīhā min asāwira
-    min dhahabin wa-luʾluʾan wa-libāsuhum fīhā ḥarīr: God adorns his own with bracelets, gold and fine
-    silk. In Ezekiel the adorned bride later prostitutes her finery (16:15-17); in the Quran it is the
-    final reward of the heirs of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאַלְבִּישֵׁ֣ךְ רִקְמָ֔ה וָאֶנְעֲלֵ֖ךְ תָּ֑חַשׁ וָאֶחְבְּשֵׁ֣ךְ בַּשֵּׁ֔שׁ וַאֲכַסֵּ֖ךְ מֶֽשִׁי
-- tradition: judaism
-  ref: Ezek 16:11
-  note: 'In paradise the righteous are adorned with gold bracelets and pearls and wear silk (wā-ʾettənâ
-    ṣəmîḏîm ʿal-yāḏayiḵ ... wa-ttaʿdî zāhāḇ wā-ḵesep̄ û-malbûšēḵ šēš wā-mešî vs. yuḥallawna fīhā min asāwira
-    min dhahabin wa-luʾluʾan wa-libāsuhum fīhā ḥarīr: God adorns his own with bracelets, gold and fine
-    silk. In Ezekiel the adorned bride later prostitutes her finery (16:15-17); in the Quran it is the
-    final reward of the heirs of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶעְדֵּ֖ךְ עֶ֑דִי וָאֶתְּנָ֤ה צְמִידִים֙ עַל יָדַ֔יִךְ וְרָבִ֖יד עַל גְּרוֹנֵֽךְ
-- tradition: islam
-  ref: Quran 35:33
-  note: In paradise the righteous are adorned with gold bracelets and pearls and wear silk (jannat 'adn,
-    the Gardens of Eden)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ
-    فِيهَا حَرِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wā-ʾettənâ ṣəmîḏîm ʿal-yāḏayiḵ ... wa-ttaʿdî zāhāḇ wā-ḵesep̄ û-malbûšēḵ šēš wā-mešî vs. yuḥallawna
-    fīhā min asāwira min dhahabin wa-luʾluʾan wa-libāsuhum fīhā ḥarīr: God adorns his own with bracelets,
-    gold and fine silk. In Ezekiel the adorned bride later prostitutes her finery (16:15-17); in the Quran
-    it is the final reward of the heirs of the Book.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In paradise the righteous are adorned with gold bracelets and pearls
     and wear silk (weight 6.3). Pair score 6.3.'
@@ -87,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In paradise the righteous are adorned with gold bracelets and pearls and wear silk
+kinds:
+- echo
+units:
+- id: hb-ezek-16-foundling-bride
+  title: Jerusalem the exposed foundling, God's bride and the faithless harlot
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: In paradise the righteous are adorned with gold bracelets and pearls and wear silk
+  note: 'wā-ʾettənâ ṣəmîḏîm ʿal-yāḏayiḵ ... wa-ttaʿdî zāhāḇ wā-ḵesep̄ û-malbûšēḵ šēš wā-mešî vs. yuḥallawna
+    fīhā min asāwira min dhahabin wa-luʾluʾan wa-libāsuhum fīhā ḥarīr: God adorns his own with bracelets,
+    gold and fine silk. In Ezekiel the adorned bride later prostitutes her finery (16:15-17); in the Quran
+    it is the final reward of the heirs of the Book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 16:10
+      lang: he
+      text: וָאַלְבִּישֵׁ֣ךְ רִקְמָ֔ה וָאֶנְעֲלֵ֖ךְ תָּ֑חַשׁ וָאֶחְבְּשֵׁ֣ךְ בַּשֵּׁ֔שׁ וַאֲכַסֵּ֖ךְ מֶֽשִׁי
+    - ref: Ezek 16:11
+      lang: he
+      text: וָאֶעְדֵּ֖ךְ עֶ֑דִי וָאֶתְּנָ֤ה צְמִידִים֙ עַל יָדַ֔יִךְ וְרָבִ֖יד עַל גְּרוֹנֵֽךְ
+    - ref: Ezek 16:13
+      lang: he
+      text: וַתַּעְדִּ֞י זָהָ֣ב וָכֶ֗סֶף וּמַלְבּוּשֵׁךְ֙ ששי שֵׁ֤שׁ וָמֶ֨שִׁי֙ וְרִקְמָ֔ה סֹ֧לֶת וּדְבַ֛שׁ
+        וָשֶׁ֖מֶן אכלתי אָכָ֑לְתְּ וַתִּ֨יפִי֙ בִּמְאֹ֣ד מְאֹ֔ד וַֽתִּצְלְחִ֖י לִמְלוּכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 35:33
+      lang: ar
+      text: جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ
+        فِيهَا حَرِيرٌ
 ---
 
 ## Questions

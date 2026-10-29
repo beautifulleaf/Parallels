@@ -2,8 +2,7 @@
 id: motif-hb-isa-6-throne-vision-vs-quran-37-daughters-and-ranks
 title: The throne vision and the call of Isaiah ↔ Daughters of God denied; the angels' stations; closing
   doxology
-summary: 'These two units share 1 motifs: the angels say: each of us has a known station; we are ranged
-  in ranks; we glorify.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,47 +15,9 @@ layers:
 - motif
 motifs:
 - each-angel-has-known-station
-passages:
-- tradition: judaism
-  ref: Isa 6:2
-  note: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify (śərāp̄îm
-    ʿōməḏîm mi-mmaʿal lô ... wə-qārāʾ zeh ʾel-zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš vs. wa-mā minnā illā lahu
-    maqāmun maʿlūm wa-innā la-naḥnu ṣ-ṣāffūna wa-innā la-naḥnu l-musabbiḥūn: angels standing in their
-    places and proclaiming God''s holiness or glory. In Isaiah the prophet sees them; in the Quran the
-    angels speak for themselves to deny that they are God''s daughters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂרָפִ֨ים עֹמְדִ֤ים מִמַּ֨עַל֙ ל֔וֹ שֵׁ֧שׁ כְּנָפַ֛יִם שֵׁ֥שׁ כְּנָפַ֖יִם לְאֶחָ֑ד בִּשְׁתַּ֣יִם
-    יְכַסֶּ֣ה פָנָ֗יו וּבִשְׁתַּ֛יִם יְכַסֶּ֥ה רַגְלָ֖יו וּבִשְׁתַּ֥יִם יְעוֹפֵֽף
-- tradition: judaism
-  ref: Isa 6:3
-  note: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify (śərāp̄îm
-    ʿōməḏîm mi-mmaʿal lô ... wə-qārāʾ zeh ʾel-zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš vs. wa-mā minnā illā lahu
-    maqāmun maʿlūm wa-innā la-naḥnu ṣ-ṣāffūna wa-innā la-naḥnu l-musabbiḥūn: angels standing in their
-    places and proclaiming God''s holiness or glory. In Isaiah the prophet sees them; in the Quran the
-    angels speak for themselves to deny that they are God''s daughters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְקָרָ֨א זֶ֤ה אֶל זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ קָד֛וֹשׁ קָד֖וֹשׁ יְהוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל הָאָ֖רֶץ
-    כְּבוֹדֽוֹ
-- tradition: islam
-  ref: Quran 37:164
-  note: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ
-- tradition: islam
-  ref: Quran 37:165
-  note: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. śərāp̄îm ʿōməḏîm mi-mmaʿal lô ... wə-qārāʾ zeh ʾel-zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš vs. wa-mā
-    minnā illā lahu maqāmun maʿlūm wa-innā la-naḥnu ṣ-ṣāffūna wa-innā la-naḥnu l-musabbiḥūn: angels standing
-    in their places and proclaiming God''s holiness or glory. In Isaiah the prophet sees them; in the
-    Quran the angels speak for themselves to deny that they are God''s daughters.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels say: each of us has a known station; we are ranged in
     ranks; we glorify (weight 6.7). Pair score 6.7.'
@@ -91,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify'
+kinds:
+- parallel
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-37-daughters-and-ranks
+  title: Daughters of God denied; the angels' stations; closing doxology
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The angels say: each of us has a known station; we are ranged in ranks; we glorify'
+  note: 'śərāp̄îm ʿōməḏîm mi-mmaʿal lô ... wə-qārāʾ zeh ʾel-zeh wə-ʾāmar qāḏôš qāḏôš qāḏôš vs. wa-mā minnā
+    illā lahu maqāmun maʿlūm wa-innā la-naḥnu ṣ-ṣāffūna wa-innā la-naḥnu l-musabbiḥūn: angels standing
+    in their places and proclaiming God''s holiness or glory. In Isaiah the prophet sees them; in the
+    Quran the angels speak for themselves to deny that they are God''s daughters.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:2
+      lang: he
+      text: שְׂרָפִ֨ים עֹמְדִ֤ים מִמַּ֨עַל֙ ל֔וֹ שֵׁ֧שׁ כְּנָפַ֛יִם שֵׁ֥שׁ כְּנָפַ֖יִם לְאֶחָ֑ד בִּשְׁתַּ֣יִם
+        יְכַסֶּ֣ה פָנָ֗יו וּבִשְׁתַּ֛יִם יְכַסֶּ֥ה רַגְלָ֖יו וּבִשְׁתַּ֥יִם יְעוֹפֵֽף
+    - ref: Isa 6:3
+      lang: he
+      text: וְקָרָ֨א זֶ֤ה אֶל זֶה֙ וְאָמַ֔ר קָד֧וֹשׁ קָד֛וֹשׁ קָד֖וֹשׁ יְהוָ֣ה צְבָא֑וֹת מְלֹ֥א כָל הָאָ֖רֶץ
+        כְּבוֹדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:164
+      lang: ar
+      text: وَمَا مِنَّآ إِلَّا لَهُۥ مَقَامٌ مَّعْلُومٌ
+    - ref: Quran 37:165
+      lang: ar
+      text: وَإِنَّا لَنَحْنُ ٱلصَّآفُّونَ
+    - ref: Quran 37:166
+      lang: ar
+      text: وَإِنَّا لَنَحْنُ ٱلْمُسَبِّحُونَ
 ---
 
 ## Questions

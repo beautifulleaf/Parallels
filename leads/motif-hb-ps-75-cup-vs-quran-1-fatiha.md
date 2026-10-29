@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-75-cup-vs-quran-1-fatiha
 title: Psalm 75, I set firm its pillars; the cup in YHWH's hand ↔ The Opening (al-Fatiha)
-summary: 'These two units share 1 motifs: god is king or master of the day of judgment (yawm al-din).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - master-of-day-of-judgment
-passages:
-- tradition: judaism
-  ref: Ps 75:3
-  note: 'God is king or master of the Day of Judgment (yawm al-din) (Ps 75:3 kî ʾeqqaḥ môʿēd ʾănî mêšārîm
-    ʾešpōṭ, 75:8 ʾĕlōhîm šōpēṭ: God fixes the appointed time (môʿēd) of judgment; Q 1:4 māliki yawmi d-dīn:
-    God owns the Day of Judgment. Weak: no eschatological ''day'' in the psalm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֭י אֶקַּ֣ח מוֹעֵ֑ד אֲ֝נִ֗י מֵישָׁרִ֥ים אֶשְׁפֹּֽט
-- tradition: judaism
-  ref: Ps 75:8
-  note: 'God is king or master of the Day of Judgment (yawm al-din) (Ps 75:3 kî ʾeqqaḥ môʿēd ʾănî mêšārîm
-    ʾešpōṭ, 75:8 ʾĕlōhîm šōpēṭ: God fixes the appointed time (môʿēd) of judgment; Q 1:4 māliki yawmi d-dīn:
-    God owns the Day of Judgment. Weak: no eschatological ''day'' in the psalm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אֱלֹהִ֥ים שֹׁפֵ֑ט זֶ֥ה יַ֝שְׁפִּ֗יל וְזֶ֣ה יָרִֽים
-- tradition: islam
-  ref: Quran 1:4
-  note: God is king or master of the Day of Judgment (yawm al-din) (maliki / maaliki yawm al-din)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَٰلِكِ يَوْمِ ٱلدِّينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 75:3 kî ʾeqqaḥ môʿēd ʾănî mêšārîm ʾešpōṭ, 75:8 ʾĕlōhîm šōpēṭ: God fixes the appointed time
-    (môʿēd) of judgment; Q 1:4 māliki yawmi d-dīn: God owns the Day of Judgment. Weak: no eschatological
-    ''day'' in the psalm.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is king or master of the Day of Judgment (yawm al-din) (weight
     6.3). Pair score 6.3.'
@@ -70,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is king or master of the Day of Judgment (yawm al-din)
+kinds:
+- echo
+units:
+- id: hb-ps-75-cup
+  title: Psalm 75, I set firm its pillars; the cup in YHWH's hand
+  tradition: judaism
+- id: quran-1-fatiha
+  title: The Opening (al-Fatiha)
+  tradition: islam
+matches:
+- kind: echo
+  label: God is king or master of the Day of Judgment (yawm al-din)
+  note: 'Ps 75:3 kî ʾeqqaḥ môʿēd ʾănî mêšārîm ʾešpōṭ, 75:8 ʾĕlōhîm šōpēṭ: God fixes the appointed time
+    (môʿēd) of judgment; Q 1:4 māliki yawmi d-dīn: God owns the Day of Judgment. Weak: no eschatological
+    ''day'' in the psalm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 75:3
+      lang: he
+      text: כִּ֭י אֶקַּ֣ח מוֹעֵ֑ד אֲ֝נִ֗י מֵישָׁרִ֥ים אֶשְׁפֹּֽט
+    - ref: Ps 75:8
+      lang: he
+      text: כִּֽי אֱלֹהִ֥ים שֹׁפֵ֑ט זֶ֥ה יַ֝שְׁפִּ֗יל וְזֶ֣ה יָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 1:4
+      lang: ar
+      text: مَٰلِكِ يَوْمِ ٱلدِّينِ
 ---
 
 ## Questions

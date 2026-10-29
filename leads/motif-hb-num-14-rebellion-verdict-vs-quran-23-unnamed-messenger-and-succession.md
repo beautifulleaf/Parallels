@@ -2,7 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-23-unnamed-messenger-and-succession
 title: Rebellion after the spies' report and the forty-year sentence ↔ A later generation's messenger,
   the Cry, and messengers in succession
-summary: 'These two units share 1 motifs: destruction follows the people''s rejection of a messenger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - reason-rejected-messenger
-passages:
-- tradition: judaism
-  ref: Num 14:11
-  note: 'Destruction follows the people''s rejection of a messenger (kullamā jāʾa ummatan rasūluhā kadhdhabūhu
-    fa-atbaʿnā baʿḍahum baʿḍan ~ ʿad ʾānâ lōʾ yaʾămînû vî bə-khōl hā-ʾōtôt ... wə-lōʾ šāməʿû bə-qôlî ...
-    ʾim yirʾû ʾet hā-ʾāreṣ: a generation that disbelieved God''s signs is destroyed and replaced. Num
-    14 judges Israel itself, the Quran a series of nations.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה עַד אָ֥נָה יְנַאֲצֻ֖נִי הָעָ֣ם הַזֶּ֑ה וְעַד אָ֨נָה֙ לֹא יַאֲמִ֣ינוּ
-    בִ֔י בְּכֹל֙ הָֽאֹת֔וֹת אֲשֶׁ֥ר עָשִׂ֖יתִי בְּקִרְבּֽוֹ
-- tradition: judaism
-  ref: Num 14:22
-  note: 'Destruction follows the people''s rejection of a messenger (kullamā jāʾa ummatan rasūluhā kadhdhabūhu
-    fa-atbaʿnā baʿḍahum baʿḍan ~ ʿad ʾānâ lōʾ yaʾămînû vî bə-khōl hā-ʾōtôt ... wə-lōʾ šāməʿû bə-qôlî ...
-    ʾim yirʾû ʾet hā-ʾāreṣ: a generation that disbelieved God''s signs is destroyed and replaced. Num
-    14 judges Israel itself, the Quran a series of nations.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כָל הָאֲנָשִׁ֗ים הָרֹאִ֤ים אֶת כְּבֹדִי֙ וְאֶת אֹ֣תֹתַ֔י אֲשֶׁר עָשִׂ֥יתִי בְמִצְרַ֖יִם
-    וּבַמִּדְבָּ֑ר וַיְנַסּ֣וּ אֹתִ֗י זֶ֚ה עֶ֣שֶׂר פְּעָמִ֔ים וְלֹ֥א שָׁמְע֖וּ בְּקוֹלִֽי
-- tradition: islam
-  ref: Quran 23:44
-  note: Destruction follows the people's rejection of a messenger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا
-    بَعْضَهُم بَعْضًا وَجَعَلْنَٰهُمْ أَحَادِيثَ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. kullamā jāʾa ummatan rasūluhā kadhdhabūhu fa-atbaʿnā baʿḍahum baʿḍan ~ ʿad ʾānâ lōʾ yaʾămînû
-    vî bə-khōl hā-ʾōtôt ... wə-lōʾ šāməʿû bə-qôlî ... ʾim yirʾû ʾet hā-ʾāreṣ: a generation that disbelieved
-    God''s signs is destroyed and replaced. Num 14 judges Israel itself, the Quran a series of nations.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Destruction follows the people''s rejection of a messenger (weight
     4.8). Pair score 4.8.'
@@ -77,6 +47,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Destruction follows the people's rejection of a messenger
+kinds:
+- echo
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: echo
+  label: Destruction follows the people's rejection of a messenger
+  note: 'kullamā jāʾa ummatan rasūluhā kadhdhabūhu fa-atbaʿnā baʿḍahum baʿḍan ~ ʿad ʾānâ lōʾ yaʾămînû
+    vî bə-khōl hā-ʾōtôt ... wə-lōʾ šāməʿû bə-qôlî ... ʾim yirʾû ʾet hā-ʾāreṣ: a generation that disbelieved
+    God''s signs is destroyed and replaced. Num 14 judges Israel itself, the Quran a series of nations.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:11
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה עַד אָ֥נָה יְנַאֲצֻ֖נִי הָעָ֣ם הַזֶּ֑ה וְעַד אָ֨נָה֙ לֹא יַאֲמִ֣ינוּ
+        בִ֔י בְּכֹל֙ הָֽאֹת֔וֹת אֲשֶׁ֥ר עָשִׂ֖יתִי בְּקִרְבּֽוֹ
+    - ref: Num 14:22
+      lang: he
+      text: כִּ֣י כָל הָאֲנָשִׁ֗ים הָרֹאִ֤ים אֶת כְּבֹדִי֙ וְאֶת אֹ֣תֹתַ֔י אֲשֶׁר עָשִׂ֥יתִי בְמִצְרַ֖יִם
+        וּבַמִּדְבָּ֑ר וַיְנַסּ֣וּ אֹתִ֗י זֶ֚ה עֶ֣שֶׂר פְּעָמִ֔ים וְלֹ֥א שָׁמְע֖וּ בְּקוֹלִֽי
+    - ref: Num 14:23
+      lang: he
+      text: אִם יִרְאוּ֙ אֶת הָאָ֔רֶץ אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לַאֲבֹתָ֑ם וְכָל מְנַאֲצַ֖י לֹ֥א יִרְאֽוּהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:44
+      lang: ar
+      text: ثُمَّ أَرْسَلْنَا رُسُلَنَا تَتْرَا كُلَّ مَا جَآءَ أُمَّةً رَّسُولُهَا كَذَّبُوهُ فَأَتْبَعْنَا
+        بَعْضَهُم بَعْضًا وَجَعَلْنَٰهُمْ أَحَادِيثَ فَبُعْدًا لِّقَوْمٍ لَّا يُؤْمِنُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-judg-2-bochim-cycle-vs-quran-19-prophets-remembered
 title: Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance ↔ Moses, Ishmael and Idris
   remembered; the later generation that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 1 motifs: after the prophets came a generation that neglected prayer and
-  followed lusts.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - later-generation-neglects-prayer-follows-lusts
-passages:
-- tradition: judaism
-  ref: Judg 2:10
-  note: 'After the prophets came a generation that neglected prayer and followed lusts (wayyāqom dôr ʾaḥēr
-    ʾaḥărêhem ʾăšer lōʾ-yādəʿû ʾet-YHWH; fa-khalafa min baʿdihim khalfun aḍāʿū ṣ-ṣalāta wa-ttabaʿū sh-shahawāt:
-    after the founding generation comes one that forgets God. Judg''s generation does not know YHWH; Q''s
-    neglects prayer and follows its lusts, and Q leaves an exception for those who repent (illā man tāba).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַם֙ כָּל הַדּ֣וֹר הַה֔וּא נֶאֶסְפ֖וּ אֶל אֲבוֹתָ֑יו וַיָּקָם֩ דּ֨וֹר אַחֵ֜ר אַחֲרֵיהֶ֗ם אֲשֶׁ֤ר
-    לֹא יָֽדְעוּ֙ אֶת יְהוָ֔ה וְגַם֙ אֶת הַֽמַּעֲשֶׂ֔ה אֲשֶׁ֥ר עָשָׂ֖ה לְיִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 19:59
-  note: After the prophets came a generation that neglected prayer and followed lusts (fa-khalafa min
-    baʿdihim khalfun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ فَسَوْفَ يَلْقَوْنَ
-    غَيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyāqom dôr ʾaḥēr ʾaḥărêhem ʾăšer lōʾ-yādəʿû ʾet-YHWH; fa-khalafa min baʿdihim khalfun
-    aḍāʿū ṣ-ṣalāta wa-ttabaʿū sh-shahawāt: after the founding generation comes one that forgets God. Judg''s
-    generation does not know YHWH; Q''s neglects prayer and follows its lusts, and Q leaves an exception
-    for those who repent (illā man tāba).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the prophets came a generation that neglected prayer and followed
     lusts (weight 6.7). Pair score 6.7.'
@@ -73,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After the prophets came a generation that neglected prayer and followed lusts
+kinds:
+- parallel
+units:
+- id: hb-judg-2-bochim-cycle
+  title: Angel at Bochim; death of Joshua; the cycle of apostasy and deliverance
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: parallel
+  label: After the prophets came a generation that neglected prayer and followed lusts
+  note: 'wayyāqom dôr ʾaḥēr ʾaḥărêhem ʾăšer lōʾ-yādəʿû ʾet-YHWH; fa-khalafa min baʿdihim khalfun aḍāʿū
+    ṣ-ṣalāta wa-ttabaʿū sh-shahawāt: after the founding generation comes one that forgets God. Judg''s
+    generation does not know YHWH; Q''s neglects prayer and follows its lusts, and Q leaves an exception
+    for those who repent (illā man tāba).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 2:10
+      lang: he
+      text: וְגַם֙ כָּל הַדּ֣וֹר הַה֔וּא נֶאֶסְפ֖וּ אֶל אֲבוֹתָ֑יו וַיָּקָם֩ דּ֨וֹר אַחֵ֜ר אַחֲרֵיהֶ֗ם
+        אֲשֶׁ֤ר לֹא יָֽדְעוּ֙ אֶת יְהוָ֔ה וְגַם֙ אֶת הַֽמַּעֲשֶׂ֔ה אֲשֶׁ֥ר עָשָׂ֖ה לְיִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 19:59
+      lang: ar
+      text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ أَضَاعُوا۟ ٱلصَّلَوٰةَ وَٱتَّبَعُوا۟ ٱلشَّهَوَٰتِ فَسَوْفَ
+        يَلْقَوْنَ غَيًّا
 ---
 
 ## Questions

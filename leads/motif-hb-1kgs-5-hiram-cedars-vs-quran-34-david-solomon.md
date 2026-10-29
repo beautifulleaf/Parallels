@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-5-hiram-cedars-vs-quran-34-david-solomon
 title: Treaty with Hiram of Tyre; cedars and forced labor ↔ David's mountains and mail; Solomon's wind,
   copper, jinn and staff
-summary: 'These two units share 1 motifs: who did solomon''s building and craft work [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,60 +14,9 @@ layers:
 - motif
 motifs:
 - who-built-for-solomon-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 5:27
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Solomon''s labour
-    force. 1 Kgs: wa-yyaʿal ha-mmeleḵ šəlōmōh mas mi-kkol-yiśrāʾēl ... šiḇʿîm ʾelep̄ nōśēʾ sabbāl û-šəmōnîm
-    ʾelep̄ ḥōṣēḇ bā-hār (corvée of Israelites, porters and quarrymen). Q: the labour is done by jinn,
-    kept in al-ʿadhāb al-muhīn (humiliating toil) until his death, under threat of the blaze (nudhiqhu
-    min ʿadhābi s-saʿīr). The human corvée that later splits the kingdom (1 Kgs 12) has no place in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַל הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מַ֖ס מִכָּל יִשְׂרָאֵ֑ל וַיְהִ֣י הַמַּ֔ס שְׁלֹשִׁ֥ים אֶ֖לֶף אִֽישׁ
-- tradition: judaism
-  ref: 1Kgs 5:28
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Solomon''s labour
-    force. 1 Kgs: wa-yyaʿal ha-mmeleḵ šəlōmōh mas mi-kkol-yiśrāʾēl ... šiḇʿîm ʾelep̄ nōśēʾ sabbāl û-šəmōnîm
-    ʾelep̄ ḥōṣēḇ bā-hār (corvée of Israelites, porters and quarrymen). Q: the labour is done by jinn,
-    kept in al-ʿadhāb al-muhīn (humiliating toil) until his death, under threat of the blaze (nudhiqhu
-    min ʿadhābi s-saʿīr). The human corvée that later splits the kingdom (1 Kgs 12) has no place in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלָחֵ֣ם לְבָנ֗וֹנָה עֲשֶׂ֨רֶת אֲלָפִ֤ים בַּחֹ֨דֶשׁ֙ חֲלִיפ֔וֹת חֹ֚דֶשׁ יִהְי֣וּ בַלְּבָנ֔וֹן
-    שְׁנַ֥יִם חֳדָשִׁ֖ים בְּבֵית֑וֹ וַאֲדֹנִירָ֖ם עַל הַמַּֽס
-- tradition: islam
-  ref: Quran 34:12
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ
-    وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
-    نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
-- tradition: islam
-  ref: Quran 34:13
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Solomon''s labour force. 1 Kgs: wa-yyaʿal ha-mmeleḵ šəlōmōh mas mi-kkol-yiśrāʾēl ... šiḇʿîm
-    ʾelep̄ nōśēʾ sabbāl û-šəmōnîm ʾelep̄ ḥōṣēḇ bā-hār (corvée of Israelites, porters and quarrymen). Q:
-    the labour is done by jinn, kept in al-ʿadhāb al-muhīn (humiliating toil) until his death, under threat
-    of the blaze (nudhiqhu min ʿadhābi s-saʿīr). The human corvée that later splits the kingdom (1 Kgs
-    12) has no place in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who did Solomon''s building and craft work [divergence between the
     texts] (weight 6.3). Pair score 6.3.'
@@ -97,6 +45,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who did Solomon's building and craft work
+kinds:
+- divergence
+units:
+- id: hb-1kgs-5-hiram-cedars
+  title: Treaty with Hiram of Tyre; cedars and forced labor
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who did Solomon's building and craft work
+  note: 'Solomon''s labour force. 1 Kgs: wa-yyaʿal ha-mmeleḵ šəlōmōh mas mi-kkol-yiśrāʾēl ... šiḇʿîm ʾelep̄
+    nōśēʾ sabbāl û-šəmōnîm ʾelep̄ ḥōṣēḇ bā-hār (corvée of Israelites, porters and quarrymen). Q: the labour
+    is done by jinn, kept in al-ʿadhāb al-muhīn (humiliating toil) until his death, under threat of the
+    blaze (nudhiqhu min ʿadhābi s-saʿīr). The human corvée that later splits the kingdom (1 Kgs 12) has
+    no place in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 5:27
+      lang: he
+      text: וַיַּ֨עַל הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מַ֖ס מִכָּל יִשְׂרָאֵ֑ל וַיְהִ֣י הַמַּ֔ס שְׁלֹשִׁ֥ים אֶ֖לֶף
+        אִֽישׁ
+    - ref: 1Kgs 5:28
+      lang: he
+      text: וַיִּשְׁלָחֵ֣ם לְבָנ֗וֹנָה עֲשֶׂ֨רֶת אֲלָפִ֤ים בַּחֹ֨דֶשׁ֙ חֲלִיפ֔וֹת חֹ֚דֶשׁ יִהְי֣וּ בַלְּבָנ֔וֹן
+        שְׁנַ֥יִם חֳדָשִׁ֖ים בְּבֵית֑וֹ וַאֲדֹנִירָ֖ם עַל הַמַּֽס
+    - ref: 1Kgs 5:29
+      lang: he
+      text: וַיְהִ֧י לִשְׁלֹמֹ֛ה שִׁבְעִ֥ים אֶ֖לֶף נֹשֵׂ֣א סַבָּ֑ל וּשְׁמֹנִ֥ים אֶ֖לֶף חֹצֵ֥ב בָּהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 34:12
+      lang: ar
+      text: وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ
+        وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
+        نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
+    - ref: Quran 34:14
+      lang: ar
+      text: فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ
+        تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ
+        مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
 ---
 
 ## Questions

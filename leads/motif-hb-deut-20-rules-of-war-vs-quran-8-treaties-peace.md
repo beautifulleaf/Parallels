@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-20-rules-of-war-vs-quran-8-treaties-peace
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Treaty-breakers, deterrence and peace'
-summary: 'These two units share 2 motifs: peace offered or accepted in war, and its terms [divergence
-  between the texts], messengers offer peace terms before battle.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,66 +14,9 @@ layers:
 motifs:
 - peace-terms-in-war-as-divergence
 - peace-offer-before-war
-passages:
-- tradition: judaism
-  ref: Deut 20:10
-  note: 'Peace offered or accepted in war, and its terms [divergence between the texts] (Peace in war,
-    with the cognate word: wa-in janaḥū li-s-salmi fa-jnaḥ lahā wa-tawakkal ʿalā llāh vs wᵉqārāʾtā ʾēlêhā
-    lᵉšālôm wᵉhāyāh ʾim-šālôm taʿanᵉkā ... yihyû lᵉkā lāmas waʿăbādûkā. Who offers it and what follows
-    are changed: in Deut Israel offers peace and the city that accepts becomes forced labour (mas); in
-    Q the enemy inclines to peace, the believers must agree, and no subjection is stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: 'Peace offered or accepted in war, and its terms [divergence between the texts] (Peace in war,
-    with the cognate word: wa-in janaḥū li-s-salmi fa-jnaḥ lahā wa-tawakkal ʿalā llāh vs wᵉqārāʾtā ʾēlêhā
-    lᵉšālôm wᵉhāyāh ʾim-šālôm taʿanᵉkā ... yihyû lᵉkā lāmas waʿăbādûkā. Who offers it and what follows
-    are changed: in Deut Israel offers peace and the city that accepts becomes forced labour (mas); in
-    Q the enemy inclines to peace, the believers must agree, and no subjection is stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 8:61
-  note: 'Peace offered or accepted in war, and its terms [divergence between the texts] (Peace in war,
-    with the cognate word: wa-in janaḥū li-s-salmi fa-jnaḥ lahā wa-tawakkal ʿalā llāh vs wᵉqārāʾtā ʾēlêhā
-    lᵉšālôm wᵉhāyāh ʾim-šālôm taʿanᵉkā ... yihyû lᵉkā lāmas waʿăbādûkā. Who offers it and what follows
-    are changed: in Deut Israel offers peace and the city that accepts becomes forced labour (mas); in
-    Q the enemy inclines to peace, the believers must agree, and no subjection is stated.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
-- tradition: judaism
-  ref: Deut 20:10
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 8:61
-  note: Messengers offer peace terms before battle (peace accepted when offered by the enemy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Peace in war, with the cognate word: wa-in janaḥū li-s-salmi fa-jnaḥ lahā wa-tawakkal
-    ʿalā llāh vs wᵉqārāʾtā ʾēlêhā lᵉšālôm wᵉhāyāh ʾim-šālôm taʿanᵉkā ... yihyû lᵉkā lāmas waʿăbādûkā.
-    Who offers it and what follows are changed: in Deut Israel offers peace and the city that accepts
-    becomes forced labour (mas); in Q the enemy inclines to peace, the believers must agree, and no subjection
-    is stated.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Peace offered or accepted in war, and its terms [divergence between
     the texts] (weight 6.7); Messengers offer peace terms before battle (weight 5.8). Pair score 12.5.'
@@ -105,6 +47,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Peace offered or accepted in war, and its terms
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: divergence
+  label: Peace offered or accepted in war, and its terms
+  note: 'Peace in war, with the cognate word: wa-in janaḥū li-s-salmi fa-jnaḥ lahā wa-tawakkal ʿalā llāh
+    vs wᵉqārāʾtā ʾēlêhā lᵉšālôm wᵉhāyāh ʾim-šālôm taʿanᵉkā ... yihyû lᵉkā lāmas waʿăbādûkā. Who offers
+    it and what follows are changed: in Deut Israel offers peace and the city that accepts becomes forced
+    labour (mas); in Q the enemy inclines to peace, the believers must agree, and no subjection is stated.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:61
+      lang: ar
+      text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
+- kind: shared
+  label: Messengers offer peace terms before battle
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+    - ref: Deut 20:12
+      lang: he
+      text: וְאִם לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:61
+      lang: ar
+      text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
+    note: peace accepted when offered by the enemy
 ---
 
 ## Questions

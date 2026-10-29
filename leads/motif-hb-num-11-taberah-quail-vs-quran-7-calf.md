@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-11-taberah-quail-vs-quran-7-calf
 title: Taberah, the craving, the seventy elders and the quail ↔ The lowing calf and the seventy
-summary: 'These two units share 2 motifs: seventy elders of israel accompany or assist the prophet [divergence
-  between the texts], seventy elders of israel accompany or assist the prophet.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,69 +14,9 @@ layers:
 motifs:
 - seventy-elders-as-divergence
 - seventy-elders
-passages:
-- tradition: judaism
-  ref: Num 11:16
-  note: 'Seventy elders of Israel accompany or assist the prophet [divergence between the texts] (Seventy
-    men chosen for a meeting with God: ikhtāra mūsā ... sabʿīna rajulan li-mīqātinā vs ʾespāh-llî šibʿîm
-    ʾîš mizziqnê yiśrāʾēl ... wᵉhityaṣṣᵉbû šām ʿimmāk. In Num God orders it and the spirit rests on them
-    (wayyitnabbᵉʾû); in Q Moses chooses them and a tremor (rajfa) seizes them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה אֶסְפָה לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ אֲשֶׁ֣ר
-    יָדַ֔עְתָּ כִּי הֵ֛ם זִקְנֵ֥י הָעָ֖ם וְשֹׁטְרָ֑יו וְלָקַחְתָּ֤ אֹתָם֙ אֶל אֹ֣הֶל מוֹעֵ֔ד וְהִֽתְיַצְּב֥וּ
-    שָׁ֖ם עִמָּֽךְ
-- tradition: judaism
-  ref: Num 11:24
-  note: 'Seventy elders of Israel accompany or assist the prophet [divergence between the texts] (Seventy
-    men chosen for a meeting with God: ikhtāra mūsā ... sabʿīna rajulan li-mīqātinā vs ʾespāh-llî šibʿîm
-    ʾîš mizziqnê yiśrāʾēl ... wᵉhityaṣṣᵉbû šām ʿimmāk. In Num God orders it and the spirit rests on them
-    (wayyitnabbᵉʾû); in Q Moses chooses them and a tremor (rajfa) seizes them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א מֹשֶׁ֗ה וַיְדַבֵּר֙ אֶל הָעָ֔ם אֵ֖ת דִּבְרֵ֣י יְהוָ֑ה וַיֶּאֱסֹ֞ף שִׁבְעִ֥ים אִישׁ֙
-    מִזִּקְנֵ֣י הָעָ֔ם וַֽיַּעֲמֵ֥ד אֹתָ֖ם סְבִיבֹ֥ת הָאֹֽהֶל
-- tradition: islam
-  ref: Quran 7:155
-  note: 'Seventy elders of Israel accompany or assist the prophet [divergence between the texts] (Seventy
-    men chosen for a meeting with God: ikhtāra mūsā ... sabʿīna rajulan li-mīqātinā vs ʾespāh-llî šibʿîm
-    ʾîš mizziqnê yiśrāʾēl ... wᵉhityaṣṣᵉbû šām ʿimmāk. In Num God orders it and the spirit rests on them
-    (wayyitnabbᵉʾû); in Q Moses chooses them and a tremor (rajfa) seizes them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
-- tradition: judaism
-  ref: Num 11:16
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה אֶסְפָה לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ אֲשֶׁ֣ר
-    יָדַ֔עְתָּ כִּי הֵ֛ם זִקְנֵ֥י הָעָ֖ם וְשֹׁטְרָ֑יו וְלָקַחְתָּ֤ אֹתָם֙ אֶל אֹ֣הֶל מוֹעֵ֔ד וְהִֽתְיַצְּב֥וּ
-    שָׁ֖ם עִמָּֽךְ
-- tradition: judaism
-  ref: Num 11:24
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א מֹשֶׁ֗ה וַיְדַבֵּר֙ אֶל הָעָ֔ם אֵ֖ת דִּבְרֵ֣י יְהוָ֑ה וַיֶּאֱסֹ֞ף שִׁבְעִ֥ים אִישׁ֙
-    מִזִּקְנֵ֣י הָעָ֔ם וַֽיַּעֲמֵ֥ד אֹתָ֖ם סְבִיבֹ֥ת הָאֹֽהֶל
-- tradition: islam
-  ref: Quran 7:155
-  note: Seventy elders of Israel accompany or assist the prophet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
-    قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
-    مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
-    فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Seventy men chosen for a meeting with God: ikhtāra mūsā ... sabʿīna rajulan li-mīqātinā
-    vs ʾespāh-llî šibʿîm ʾîš mizziqnê yiśrāʾēl ... wᵉhityaṣṣᵉbû šām ʿimmāk. In Num God orders it and the
-    spirit rests on them (wayyitnabbᵉʾû); in Q Moses chooses them and a tremor (rajfa) seizes them.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seventy elders of Israel accompany or assist the prophet [divergence
     between the texts] (weight 6.7); Seventy elders of Israel accompany or assist the prophet (weight
@@ -112,6 +51,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seventy elders of Israel accompany or assist the prophet
+kinds:
+- divergence
+units:
+- id: hb-num-11-taberah-quail
+  title: Taberah, the craving, the seventy elders and the quail
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: Seventy elders of Israel accompany or assist the prophet
+  note: 'Seventy men chosen for a meeting with God: ikhtāra mūsā ... sabʿīna rajulan li-mīqātinā vs ʾespāh-llî
+    šibʿîm ʾîš mizziqnê yiśrāʾēl ... wᵉhityaṣṣᵉbû šām ʿimmāk. In Num God orders it and the spirit rests
+    on them (wayyitnabbᵉʾû); in Q Moses chooses them and a tremor (rajfa) seizes them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 11:16
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה אֶסְפָה לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ אֲשֶׁ֣ר
+        יָדַ֔עְתָּ כִּי הֵ֛ם זִקְנֵ֥י הָעָ֖ם וְשֹׁטְרָ֑יו וְלָקַחְתָּ֤ אֹתָם֙ אֶל אֹ֣הֶל מוֹעֵ֔ד וְהִֽתְיַצְּב֥וּ
+        שָׁ֖ם עִמָּֽךְ
+    - ref: Num 11:24
+      lang: he
+      text: וַיֵּצֵ֣א מֹשֶׁ֗ה וַיְדַבֵּר֙ אֶל הָעָ֔ם אֵ֖ת דִּבְרֵ֣י יְהוָ֑ה וַיֶּאֱסֹ֞ף שִׁבְעִ֥ים אִישׁ֙
+        מִזִּקְנֵ֣י הָעָ֔ם וַֽיַּעֲמֵ֥ד אֹתָ֖ם סְבִיבֹ֥ת הָאֹֽהֶל
+    - ref: Num 11:25
+      lang: he
+      text: וַיֵּ֨רֶד יְהוָ֥ה בֶּעָנָן֮ וַיְדַבֵּ֣ר אֵלָיו֒ וַיָּ֗אצֶל מִן הָר֨וּחַ֙ אֲשֶׁ֣ר עָלָ֔יו וַיִּתֵּ֕ן
+        עַל שִׁבְעִ֥ים אִ֖ישׁ הַזְּקֵנִ֑ים וַיְהִ֗י כְּנ֤וֹחַ עֲלֵיהֶם֙ הָר֔וּחַ וַיִּֽתְנַבְּא֖וּ וְלֹ֥א
+        יָסָֽפוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:155
+      lang: ar
+      text: وَٱخْتَارَ مُوسَىٰ قَوْمَهُۥ سَبْعِينَ رَجُلًا لِّمِيقَٰتِنَا فَلَمَّآ أَخَذَتْهُمُ ٱلرَّجْفَةُ
+        قَالَ رَبِّ لَوْ شِئْتَ أَهْلَكْتَهُم مِّن قَبْلُ وَإِيَّٰىَ أَتُهْلِكُنَا بِمَا فَعَلَ ٱلسُّفَهَآءُ
+        مِنَّآ إِنْ هِىَ إِلَّا فِتْنَتُكَ تُضِلُّ بِهَا مَن تَشَآءُ وَتَهْدِى مَن تَشَآءُ أَنتَ وَلِيُّنَا
+        فَٱغْفِرْ لَنَا وَٱرْحَمْنَا وَأَنتَ خَيْرُ ٱلْغَٰفِرِينَ
 ---
 
 ## Questions

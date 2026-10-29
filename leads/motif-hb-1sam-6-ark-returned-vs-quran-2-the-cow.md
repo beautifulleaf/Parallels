@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-6-ark-returned-vs-quran-2-the-cow
 title: The ark returned on a cart drawn by milk cows ↔ The cow and the slain man
-summary: 'These two units share 1 motifs: unyoked milk cows pull a new cart unguided, separated from their
-  calves, as a divine test.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,32 +14,7 @@ layers:
 - motif
 motifs:
 - cows-test-on-new-cart
-passages:
-- tradition: judaism
-  ref: 1Sam 6:7
-  note: Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test (Lowing
-    as they go straight to Beth-shemesh; test of chance (miqreh) vs. divine hand)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה קְח֨וּ וַעֲשׂ֜וּ עֲגָלָ֤ה חֲדָשָׁה֙ אֶחָ֔ת וּשְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת אֲשֶׁ֛ר לֹא עָלָ֥ה
-    עֲלֵיהֶ֖ם עֹ֑ל וַאֲסַרְתֶּ֤ם אֶת הַפָּרוֹת֙ בָּעֲגָלָ֔ה וַהֲשֵׁיבֹתֶ֧ם בְּנֵיהֶ֛ם מֵאַחֲרֵיהֶ֖ם הַבָּֽיְתָה
-- tradition: judaism
-  ref: 1Sam 6:9
-  note: Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test (Lowing
-    as they go straight to Beth-shemesh; test of chance (miqreh) vs. divine hand)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּרְאִיתֶ֗ם אִם דֶּ֨רֶךְ גְּבוּל֤וֹ יַֽעֲלֶה֙ בֵּ֣ית שֶׁ֔מֶשׁ ה֚וּא עָ֣שָׂה לָ֔נוּ אֶת הָרָעָ֥ה
-    הַגְּדוֹלָ֖ה הַזֹּ֑את וְאִם לֹ֗א וְיָדַ֨עְנוּ֙ כִּ֣י לֹ֤א יָדוֹ֙ נָ֣גְעָה בָּ֔נוּ מִקְרֶ֥ה ה֖וּא הָ֥יָה
-    לָֽנוּ
-- tradition: islam
-  ref: Quran 2:71
-  note: Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test (not
-    yoked to till the earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
-    مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟ يَفْعَلُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Unyoked milk cows pull a new cart unguided, separated from their
     calves, as a divine test (weight 6.7). Pair score 6.7.'
@@ -67,6 +41,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test
+kinds:
+- shared
+units:
+- id: hb-1sam-6-ark-returned
+  title: The ark returned on a cart drawn by milk cows
+  tradition: judaism
+- id: quran-2-the-cow
+  title: The cow and the slain man
+  tradition: islam
+matches:
+- kind: shared
+  label: Unyoked milk cows pull a new cart unguided, separated from their calves, as a divine test
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 6:7
+      lang: he
+      text: וְעַתָּ֗ה קְח֨וּ וַעֲשׂ֜וּ עֲגָלָ֤ה חֲדָשָׁה֙ אֶחָ֔ת וּשְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת אֲשֶׁ֛ר לֹא
+        עָלָ֥ה עֲלֵיהֶ֖ם עֹ֑ל וַאֲסַרְתֶּ֤ם אֶת הַפָּרוֹת֙ בָּעֲגָלָ֔ה וַהֲשֵׁיבֹתֶ֧ם בְּנֵיהֶ֛ם מֵאַחֲרֵיהֶ֖ם
+        הַבָּֽיְתָה
+    - ref: 1Sam 6:9
+      lang: he
+      text: וּרְאִיתֶ֗ם אִם דֶּ֨רֶךְ גְּבוּל֤וֹ יַֽעֲלֶה֙ בֵּ֣ית שֶׁ֔מֶשׁ ה֚וּא עָ֣שָׂה לָ֔נוּ אֶת הָרָעָ֥ה
+        הַגְּדוֹלָ֖ה הַזֹּ֑את וְאִם לֹ֗א וְיָדַ֨עְנוּ֙ כִּ֣י לֹ֤א יָדוֹ֙ נָ֣גְעָה בָּ֔נוּ מִקְרֶ֥ה ה֖וּא
+        הָ֥יָה לָֽנוּ
+    - ref: 1Sam 6:10
+      lang: he
+      text: וַיַּעֲשׂ֤וּ הָאֲנָשִׁים֙ כֵּ֔ן וַיִּקְח֗וּ שְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת וַיַּאַסְר֖וּם בָּעֲגָלָ֑ה
+        וְאֶת בְּנֵיהֶ֖ם כָּל֥וּ בַבָּֽיִת
+    note: Lowing as they go straight to Beth-shemesh; test of chance (miqreh) vs. divine hand
+  - tradition: islam
+    passages:
+    - ref: Quran 2:71
+      lang: ar
+      text: قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٌ لَّا ذَلُولٌ تُثِيرُ ٱلْأَرْضَ وَلَا تَسْقِى ٱلْحَرْثَ
+        مُسَلَّمَةٌ لَّا شِيَةَ فِيهَا قَالُوا۟ ٱلْـَٰٔنَ جِئْتَ بِٱلْحَقِّ فَذَبَحُوهَا وَمَا كَادُوا۟
+        يَفْعَلُونَ
+    note: not yoked to till the earth
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-judg-6-midian-prophet-vs-quran-9-cave-and-call
 title: Midianite oppression like locusts; an anonymous prophet rebukes Israel ↔ The call to go forth;
   the second of two in the cave
-summary: 'These two units share 1 motifs: the oppressed people hide in caves, dens and mountain strongholds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - hiding-in-caves-and-strongholds
-passages:
-- tradition: judaism
-  ref: Judg 6:2
-  note: The oppressed people hide in caves, dens and mountain strongholds (minharot (dens/tunnels), caves
-    and strongholds in the mountains)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּ֥עָז יַד מִדְיָ֖ן עַל יִשְׂרָאֵ֑ל מִפְּנֵ֨י מִדְיָ֜ן עָשֽׂוּ לָהֶ֣ם בְּנֵ֣י יִשְׂרָאֵ֗ל אֶת
-    הַמִּנְהָרוֹת֙ אֲשֶׁ֣ר בֶּֽהָרִ֔ים וְאֶת הַמְּעָר֖וֹת וְאֶת הַמְּצָדֽוֹת
-- tradition: islam
-  ref: Quran 9:40
-  note: The oppressed people hide in caves, dens and mountain strongholds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
-    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
-    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
-    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. ʿāśû lāhem bᵉnê yiśrāʾēl ʾet-hammin hārôt ... wᵉʾet-hammᵉʿārôt wᵉʾet-hammᵉṣādôt vs fī l-ghār:
-    a cave as refuge from the enemy. Judg has the whole people hiding; Q one man and his companion.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The oppressed people hide in caves, dens and mountain strongholds
     (weight 6.0). Pair score 6.0.'
@@ -61,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The oppressed people hide in caves, dens and mountain strongholds
+kinds:
+- echo
+units:
+- id: hb-judg-6-midian-prophet
+  title: Midianite oppression like locusts; an anonymous prophet rebukes Israel
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: echo
+  label: The oppressed people hide in caves, dens and mountain strongholds
+  note: 'ʿāśû lāhem bᵉnê yiśrāʾēl ʾet-hammin hārôt ... wᵉʾet-hammᵉʿārôt wᵉʾet-hammᵉṣādôt vs fī l-ghār:
+    a cave as refuge from the enemy. Judg has the whole people hiding; Q one man and his companion.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:2
+      lang: he
+      text: וַתָּ֥עָז יַד מִדְיָ֖ן עַל יִשְׂרָאֵ֑ל מִפְּנֵ֨י מִדְיָ֜ן עָשֽׂוּ לָהֶ֣ם בְּנֵ֣י יִשְׂרָאֵ֗ל
+        אֶת הַמִּנְהָרוֹת֙ אֲשֶׁ֣ר בֶּֽהָרִ֔ים וְאֶת הַמְּעָר֖וֹת וְאֶת הַמְּצָדֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 9:40
+      lang: ar
+      text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+        إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ
+        ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ
+        كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

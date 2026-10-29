@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-134-night-blessing-vs-quran-3-community
 title: Psalm 134, servants who stand by night in the house of YHWH ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: among the people of the book an upright community recites god''s
-  signs through the night and prostrates.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +13,9 @@ layers:
 - motif
 motifs:
 - people-of-book-who-pray-at-night
-passages:
-- tradition: judaism
-  ref: Ps 134:1
-  note: 'Among the People of the Book an upright community recites God''s signs through the night and
-    prostrates (Ps 134:1 kol ʿabdê YHWH hā-ʿōmĕdîm bĕ-bêt YHWH ba-llêlôt: God''s servants who stand in
-    his house by night; Q 3:113 min ahli l-kitābi ummatun qāʾimatun yatlūna āyāti llāhi ānāʾa l-layli
-    wa-hum yasjudūn: among the People of the Book a community standing (qāʾima) and reciting God''s signs
-    through the night. The Quran praises exactly the night-standing piety the psalm describes (ʿōmĕdîm
-    / qāʾima).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁ֗יר הַֽמַּ֫עֲל֥וֹת הִנֵּ֤ה בָּרֲכ֣וּ אֶת יְ֭הוָה כָּל עַבְדֵ֣י יְהוָ֑ה הָעֹמְדִ֥ים בְּבֵית
-    יְ֝הוָ֗ה בַּלֵּילֽוֹת
-- tradition: islam
-  ref: Quran 3:113
-  note: Among the People of the Book an upright community recites God's signs through the night and prostrates
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ
-    ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
-- tradition: islam
-  ref: Quran 3:114
-  note: Among the People of the Book an upright community recites God's signs through the night and prostrates
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَيَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ
-    وَيُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَأُو۟لَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 134:1 kol ʿabdê YHWH hā-ʿōmĕdîm bĕ-bêt YHWH ba-llêlôt: God''s servants who stand in his house
-    by night; Q 3:113 min ahli l-kitābi ummatun qāʾimatun yatlūna āyāti llāhi ānāʾa l-layli wa-hum yasjudūn:
-    among the People of the Book a community standing (qāʾima) and reciting God''s signs through the night.
-    The Quran praises exactly the night-standing piety the psalm describes (ʿōmĕdîm / qāʾima).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Among the People of the Book an upright community recites God''s
     signs through the night and prostrates (weight 6.3). Pair score 6.3.'
@@ -74,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Among the People of the Book an upright community recites God's signs through the night and prostrates
+kinds:
+- echo
+units:
+- id: hb-ps-134-night-blessing
+  title: Psalm 134, servants who stand by night in the house of YHWH
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Among the People of the Book an upright community recites God's signs through the night and prostrates
+  note: 'Ps 134:1 kol ʿabdê YHWH hā-ʿōmĕdîm bĕ-bêt YHWH ba-llêlôt: God''s servants who stand in his house
+    by night; Q 3:113 min ahli l-kitābi ummatun qāʾimatun yatlūna āyāti llāhi ānāʾa l-layli wa-hum yasjudūn:
+    among the People of the Book a community standing (qāʾima) and reciting God''s signs through the night.
+    The Quran praises exactly the night-standing piety the psalm describes (ʿōmĕdîm / qāʾima).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 134:1
+      lang: he
+      text: שִׁ֗יר הַֽמַּ֫עֲל֥וֹת הִנֵּ֤ה בָּרֲכ֣וּ אֶת יְ֭הוָה כָּל עַבְדֵ֣י יְהוָ֑ה הָעֹמְדִ֥ים בְּבֵית
+        יְ֝הוָ֗ה בַּלֵּילֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:113
+      lang: ar
+      text: لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ
+        ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
 ---
 
 ## Questions

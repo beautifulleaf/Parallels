@@ -2,8 +2,7 @@
 id: motif-hb-ezek-39-gog-defeated-and-buried-vs-quran-17-night-journey-and-israel
 title: Gog's fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
   birds ↔ The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 1 motifs: after the first punishment god restores israel''s turn with
-  wealth and sons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - restoration-after-first-punishment
-passages:
-- tradition: judaism
-  ref: Ezek 39:25
-  note: 'After the first punishment God restores Israel''s turn with wealth and sons (ʿattâ ʾāšîb ʾet-šəbût
-    yaʿăqōb wəriḥamtî kol-bêt yiśrāʾēl; thumma radadnā lakumu l-karrata ʿalayhim ... ʿasā rabbukum an
-    yarḥamakum: after the punishment God reverses Israel''s fortune and shows mercy (cognate r-ḥ-m). Q
-    adds a condition, wa-in ʿudtum ʿudnā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עַתָּ֗ה אָשִׁיב֙ אֶת שבית שְׁב֣וּת יַֽעֲקֹ֔ב וְרִֽחַמְתִּ֖י
-    כָּל בֵּ֣ית יִשְׂרָאֵ֑ל וְקִנֵּאתִ֖י לְשֵׁ֥ם קָדְשִֽׁי
-- tradition: islam
-  ref: Quran 17:6
-  note: After the first punishment God restores Israel's turn with wealth and sons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ رَدَدْنَا لَكُمُ ٱلْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَٰكُم بِأَمْوَٰلٍ وَبَنِينَ وَجَعَلْنَٰكُمْ
-    أَكْثَرَ نَفِيرًا
-- tradition: islam
-  ref: Quran 17:8
-  note: After the first punishment God restores Israel's turn with wealth and sons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَسَىٰ رَبُّكُمْ أَن يَرْحَمَكُمْ وَإِنْ عُدتُّمْ عُدْنَا وَجَعَلْنَا جَهَنَّمَ لِلْكَٰفِرِينَ
-    حَصِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʿattâ ʾāšîb ʾet-šəbût yaʿăqōb wəriḥamtî kol-bêt yiśrāʾēl; thumma radadnā lakumu l-karrata
-    ʿalayhim ... ʿasā rabbukum an yarḥamakum: after the punishment God reverses Israel''s fortune and
-    shows mercy (cognate r-ḥ-m). Q adds a condition, wa-in ʿudtum ʿudnā.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the first punishment God restores Israel''s turn with wealth
     and sons (weight 6.7). Pair score 6.7.'
@@ -85,6 +57,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After the first punishment God restores Israel's turn with wealth and sons
+kinds:
+- parallel
+units:
+- id: hb-ezek-39-gog-defeated-and-buried
+  title: Gog's fall, seven years of burning weapons, the Valley of Hamon-Gog and the great feast of the
+    birds
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: parallel
+  label: After the first punishment God restores Israel's turn with wealth and sons
+  note: 'ʿattâ ʾāšîb ʾet-šəbût yaʿăqōb wəriḥamtî kol-bêt yiśrāʾēl; thumma radadnā lakumu l-karrata ʿalayhim
+    ... ʿasā rabbukum an yarḥamakum: after the punishment God reverses Israel''s fortune and shows mercy
+    (cognate r-ḥ-m). Q adds a condition, wa-in ʿudtum ʿudnā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 39:25
+      lang: he
+      text: לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה עַתָּ֗ה אָשִׁיב֙ אֶת שבית שְׁב֣וּת יַֽעֲקֹ֔ב וְרִֽחַמְתִּ֖י
+        כָּל בֵּ֣ית יִשְׂרָאֵ֑ל וְקִנֵּאתִ֖י לְשֵׁ֥ם קָדְשִֽׁי
+  - tradition: islam
+    passages:
+    - ref: Quran 17:6
+      lang: ar
+      text: ثُمَّ رَدَدْنَا لَكُمُ ٱلْكَرَّةَ عَلَيْهِمْ وَأَمْدَدْنَٰكُم بِأَمْوَٰلٍ وَبَنِينَ وَجَعَلْنَٰكُمْ
+        أَكْثَرَ نَفِيرًا
+    - ref: Quran 17:8
+      lang: ar
+      text: عَسَىٰ رَبُّكُمْ أَن يَرْحَمَكُمْ وَإِنْ عُدتُّمْ عُدْنَا وَجَعَلْنَا جَهَنَّمَ لِلْكَٰفِرِينَ
+        حَصِيرًا
 ---
 
 ## Questions

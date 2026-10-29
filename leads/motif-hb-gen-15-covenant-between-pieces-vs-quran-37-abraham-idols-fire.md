@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-15-covenant-between-pieces-vs-quran-37-abraham-idols-fire
 title: The covenant between the pieces ↔ Abraham, the stars, the smashed idols and the fire
-summary: 'These two units share 1 motifs: abraham looks at the stars, and why [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - abraham-looks-at-the-stars-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 15:5
-  note: 'Abraham looks at the stars, and why [divergence between the texts] (Abraham looks at the stars.
-    Gen: wa-yyōṣēʾ ʾōṯô ha-ḥûṣâ wa-yyōʾmer habbeṭ-nāʾ ha-ššāmaymâ û-sp̄ōr ha-kkôḵāḇîm ... kōh yihyeh zarʿeḵā,
-    at God''s command, as a promise of offspring. Q: fa-naẓara naẓratan fī n-nujūmi fa-qāla innī saqīm,
-    on his own, as a pretext to stay behind and break the idols. The same gesture serves a different purpose.
-    Lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם
-    תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 37:88
-  note: 'Abraham looks at the stars, and why [divergence between the texts] (Abraham looks at the stars.
-    Gen: wa-yyōṣēʾ ʾōṯô ha-ḥûṣâ wa-yyōʾmer habbeṭ-nāʾ ha-ššāmaymâ û-sp̄ōr ha-kkôḵāḇîm ... kōh yihyeh zarʿeḵā,
-    at God''s command, as a promise of offspring. Q: fa-naẓara naẓratan fī n-nujūmi fa-qāla innī saqīm,
-    on his own, as a pretext to stay behind and break the idols. The same gesture serves a different purpose.
-    Lead only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Abraham looks at the stars. Gen: wa-yyōṣēʾ ʾōṯô ha-ḥûṣâ wa-yyōʾmer habbeṭ-nāʾ ha-ššāmaymâ
-    û-sp̄ōr ha-kkôḵāḇîm ... kōh yihyeh zarʿeḵā, at God''s command, as a promise of offspring. Q: fa-naẓara
-    naẓratan fī n-nujūmi fa-qāla innī saqīm, on his own, as a pretext to stay behind and break the idols.
-    The same gesture serves a different purpose. Lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham looks at the stars, and why [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham looks at the stars, and why
+kinds:
+- divergence
+units:
+- id: hb-gen-15-covenant-between-pieces
+  title: The covenant between the pieces
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: divergence
+  label: Abraham looks at the stars, and why
+  note: 'Abraham looks at the stars. Gen: wa-yyōṣēʾ ʾōṯô ha-ḥûṣâ wa-yyōʾmer habbeṭ-nāʾ ha-ššāmaymâ û-sp̄ōr
+    ha-kkôḵāḇîm ... kōh yihyeh zarʿeḵā, at God''s command, as a promise of offspring. Q: fa-naẓara naẓratan
+    fī n-nujūmi fa-qāla innī saqīm, on his own, as a pretext to stay behind and break the idols. The same
+    gesture serves a different purpose. Lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 15:5
+      lang: he
+      text: וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים
+        אִם תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:88
+      lang: ar
+      text: فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ
 ---
 
 ## Questions

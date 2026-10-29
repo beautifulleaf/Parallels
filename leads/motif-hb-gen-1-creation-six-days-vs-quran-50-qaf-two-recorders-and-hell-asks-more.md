@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Creation in six days and the seventh-day rest ↔ Nearer than the jugular vein; the two recorders;
   driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 2 motifs: creation is completed in six days [divergence between the texts],
-  creation is completed in six days.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,67 +15,9 @@ layers:
 motifs:
 - creation-in-six-days-as-divergence
 - creation-in-six-days
-passages:
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: judaism
-  ref: Gen 2:3
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation, then
-    what God does next: khalaqa s-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā ʿalā l-ʿarshi yudabbiru
-    l-amra vs wayᵉkal ʾĕlōhîm bayyôm haššᵉbîʿî mᵉlaʾktô ... wayyišbōt bayyôm haššᵉbîʿî. The seventh day
-    is replaced: Gen has rest (šābat) and a hallowed day; Q has God mounting the Throne and governing,
-    with no rest and no seventh day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל מְלַאכְתּ֔וֹ
-    אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
-- tradition: islam
-  ref: Quran 50:38
-  note: 'Creation is completed in six days [divergence between the texts] (Six days of creation kept,
-    the seventh-day rest dropped. Genesis: wa-yhî ʿereḇ wa-yhî ḇōqer yôm haš-šiššî; wa-yḵal ʾĕlōhîm bay-yôm
-    haš-šəḇîʿî ... wa-yišbōṯ bay-yôm haš-šəḇîʿî, and God blesses and hallows the day (wa-yqaddēš ʾōṯô).
-    Quran: fī sittati ayyāmin wa-mā massanā min lughūb: no seventh day, no rest, no hallowing. The Quran''s
-    denial of weariness is aimed at the idea behind wa-yišbōṯ (and explicitly at Exod 31:17''s wa-yyinnāp̄aš).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا
-    مِن لُّغُوبٍ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 50:38
-  note: Creation is completed in six days
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا
-    مِن لُّغُوبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Six days of creation kept, the seventh-day rest dropped. Genesis: wa-yhî ʿereḇ wa-yhî
-    ḇōqer yôm haš-šiššî; wa-yḵal ʾĕlōhîm bay-yôm haš-šəḇîʿî ... wa-yišbōṯ bay-yôm haš-šəḇîʿî, and God
-    blesses and hallows the day (wa-yqaddēš ʾōṯô). Quran: fī sittati ayyāmin wa-mā massanā min lughūb:
-    no seventh day, no rest, no hallowing. The Quran''s denial of weariness is aimed at the idea behind
-    wa-yišbōṯ (and explicitly at Exod 31:17''s wa-yyinnāp̄aš).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Creation is completed in six days [divergence between the texts]
     (weight 5.8); Creation is completed in six days (weight 5.2). Pair score 11.0.'
@@ -113,6 +54,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Creation is completed in six days
+kinds:
+- divergence
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: divergence
+  label: Creation is completed in six days
+  note: 'Six days of creation kept, the seventh-day rest dropped. Genesis: wa-yhî ʿereḇ wa-yhî ḇōqer yôm
+    haš-šiššî; wa-yḵal ʾĕlōhîm bay-yôm haš-šəḇîʿî ... wa-yišbōṯ bay-yôm haš-šəḇîʿî, and God blesses and
+    hallows the day (wa-yqaddēš ʾōṯô). Quran: fī sittati ayyāmin wa-mā massanā min lughūb: no seventh
+    day, no rest, no hallowing. The Quran''s denial of weariness is aimed at the idea behind wa-yišbōṯ
+    (and explicitly at Exod 31:17''s wa-yyinnāp̄aš).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:31
+      lang: he
+      text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי
+        בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי
+    - ref: Gen 2:2
+      lang: he
+      text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
+        הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
+    - ref: Gen 2:3
+      lang: he
+      text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל
+        מְלַאכְתּ֔וֹ אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 50:38
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا
+        مَسَّنَا مِن لُّغُوبٍ
 ---
 
 ## Questions

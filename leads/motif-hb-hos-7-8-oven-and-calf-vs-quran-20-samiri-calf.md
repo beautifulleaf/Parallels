@@ -2,8 +2,7 @@
 id: motif-hb-hos-7-8-oven-and-calf-vs-quran-20-samiri-calf
 title: The heated oven, the silly dove and the calf of Samaria ↔ Moses hastens to the appointment; the
   Samiri and the calf
-summary: 'These two units share 2 motifs: a man called al-sāmirī leads israel astray and makes the calf,
-  people make a molten calf while the leader is on the mountain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,68 +15,9 @@ layers:
 motifs:
 - samiri-leads-people-astray
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Hos 8:5
-  note: 'A man called al-Sāmirī leads Israel astray and makes the calf (zānaḥ ʿeglēk šōmərôn ... wəhûʾ
-    ḥārāš ʿāśāhû wəlōʾ ʾĕlōhîm hûʾ kî-šəbābîm yihyeh ʿēgel šōmərôn; as-Sāmiriyy ... fa-akhraja lahum ʿijlan
-    ... la-nuḥarriqannahu thumma la-nansifannahu: the calf of Samaria (šōmərôn), made by a craftsman,
-    not a god, and smashed to bits. The name al-Sāmirī recalls šōmərôn; the identification is an inference
-    from the name, not stated in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָנַח֙ עֶגְלֵ֣ךְ שֹֽׁמְר֔וֹן חָרָ֥ה אַפִּ֖י בָּ֑ם עַד מָתַ֕י לֹ֥א יוּכְל֖וּ נִקָּיֹֽן
-- tradition: judaism
-  ref: Hos 8:6
-  note: 'A man called al-Sāmirī leads Israel astray and makes the calf (zānaḥ ʿeglēk šōmərôn ... wəhûʾ
-    ḥārāš ʿāśāhû wəlōʾ ʾĕlōhîm hûʾ kî-šəbābîm yihyeh ʿēgel šōmərôn; as-Sāmiriyy ... fa-akhraja lahum ʿijlan
-    ... la-nuḥarriqannahu thumma la-nansifannahu: the calf of Samaria (šōmərôn), made by a craftsman,
-    not a god, and smashed to bits. The name al-Sāmirī recalls šōmərôn; the identification is an inference
-    from the name, not stated in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י מִיִּשְׂרָאֵל֙ וְה֔וּא חָרָ֣שׁ עָשָׂ֔הוּ וְלֹ֥א אֱלֹהִ֖ים ה֑וּא כִּֽי שְׁבָבִ֣ים יִֽהְיֶ֔ה
-    עֵ֖גֶל שֹׁמְרֽוֹן
-- tradition: islam
-  ref: Quran 20:85
-  note: A man called al-Sāmirī leads Israel astray and makes the calf
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
-- tradition: islam
-  ref: Quran 20:87
-  note: A man called al-Sāmirī leads Israel astray and makes the calf
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَآ أَوْزَارًا مِّن زِينَةِ
-    ٱلْقَوْمِ فَقَذَفْنَٰهَا فَكَذَٰلِكَ أَلْقَى ٱلسَّامِرِىُّ
-- tradition: judaism
-  ref: Hos 8:5-6
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:5) זָנַח֙ עֶגְלֵ֣ךְ שֹֽׁמְר֔וֹן חָרָ֥ה אַפִּ֖י בָּ֑ם עַד מָתַ֕י לֹ֥א יוּכְל֖וּ נִקָּיֹֽן (8:6)
-    כִּ֤י מִיִּשְׂרָאֵל֙ וְה֔וּא חָרָ֣שׁ עָשָׂ֔הוּ וְלֹ֥א אֱלֹהִ֖ים ה֑וּא כִּֽי שְׁבָבִ֣ים יִֽהְיֶ֔ה עֵ֖גֶל
-    שֹׁמְרֽוֹן
-- tradition: islam
-  ref: Quran 20:85
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
-- tradition: islam
-  ref: Quran 20:88
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
-    فَنَسِىَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. zānaḥ ʿeglēk šōmərôn ... wəhûʾ ḥārāš ʿāśāhû wəlōʾ ʾĕlōhîm hûʾ kî-šəbābîm yihyeh ʿēgel šōmərôn;
-    as-Sāmiriyy ... fa-akhraja lahum ʿijlan ... la-nuḥarriqannahu thumma la-nansifannahu: the calf of
-    Samaria (šōmərôn), made by a craftsman, not a god, and smashed to bits. The name al-Sāmirī recalls
-    šōmərôn; the identification is an inference from the name, not stated in either text.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man called al-Sāmirī leads Israel astray and makes the calf (weight
     6.7); People make a molten calf while the leader is on the mountain (weight 4.7). Pair score 11.4.'
@@ -113,6 +53,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man called al-Sāmirī leads Israel astray and makes the calf
+kinds:
+- echo
+- shared
+units:
+- id: hb-hos-7-8-oven-and-calf
+  title: The heated oven, the silly dove and the calf of Samaria
+  tradition: judaism
+- id: quran-20-samiri-calf
+  title: Moses hastens to the appointment; the Samiri and the calf
+  tradition: islam
+matches:
+- kind: echo
+  label: A man called al-Sāmirī leads Israel astray and makes the calf
+  note: 'zānaḥ ʿeglēk šōmərôn ... wəhûʾ ḥārāš ʿāśāhû wəlōʾ ʾĕlōhîm hûʾ kî-šəbābîm yihyeh ʿēgel šōmərôn;
+    as-Sāmiriyy ... fa-akhraja lahum ʿijlan ... la-nuḥarriqannahu thumma la-nansifannahu: the calf of
+    Samaria (šōmərôn), made by a craftsman, not a god, and smashed to bits. The name al-Sāmirī recalls
+    šōmərôn; the identification is an inference from the name, not stated in either text.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 8:5
+      lang: he
+      text: זָנַח֙ עֶגְלֵ֣ךְ שֹֽׁמְר֔וֹן חָרָ֥ה אַפִּ֖י בָּ֑ם עַד מָתַ֕י לֹ֥א יוּכְל֖וּ נִקָּיֹֽן
+    - ref: Hos 8:6
+      lang: he
+      text: כִּ֤י מִיִּשְׂרָאֵל֙ וְה֔וּא חָרָ֣שׁ עָשָׂ֔הוּ וְלֹ֥א אֱלֹהִ֖ים ה֑וּא כִּֽי שְׁבָבִ֣ים יִֽהְיֶ֔ה
+        עֵ֖גֶל שֹׁמְרֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 20:85
+      lang: ar
+      text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
+    - ref: Quran 20:97
+      lang: ar
+      text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا
+        لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ
+        ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
+- kind: shared
+  label: People make a molten calf while the leader is on the mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 8:5-6
+      lang: he
+      text: (8:5) זָנַח֙ עֶגְלֵ֣ךְ שֹֽׁמְר֔וֹן חָרָ֥ה אַפִּ֖י בָּ֑ם עַד מָתַ֕י לֹ֥א יוּכְל֖וּ נִקָּיֹֽן
+        (8:6) כִּ֤י מִיִּשְׂרָאֵל֙ וְה֔וּא חָרָ֣שׁ עָשָׂ֔הוּ וְלֹ֥א אֱלֹהִ֖ים ה֑וּא כִּֽי שְׁבָבִ֣ים יִֽהְיֶ֔ה
+        עֵ֖גֶל שֹׁמְרֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 20:85
+      lang: ar
+      text: قَالَ فَإِنَّا قَدْ فَتَنَّا قَوْمَكَ مِنۢ بَعْدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِىُّ
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
 ---
 
 ## Questions

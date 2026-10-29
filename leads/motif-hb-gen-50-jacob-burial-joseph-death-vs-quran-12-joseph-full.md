@@ -2,8 +2,7 @@
 id: motif-hb-gen-50-jacob-burial-joseph-death-vs-quran-12-joseph-full
 title: Embalming and burial of Jacob; Joseph's last words and death ↔ Joseph and his brothers (Surah 12,
   full read)
-summary: 'These two units share 3 motifs: hero forgives his brothers [divergence between the texts], hero
-  forgives his brothers, hero declares that god turned the brothers'' deed to good.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,78 +16,9 @@ motifs:
 - hero-forgives-brothers-as-divergence
 - hero-forgives-brothers
 - hero-sees-divine-plan
-passages:
-- tradition: judaism
-  ref: Gen 50:17
-  note: 'Hero forgives his brothers [divergence between the texts] (Gen: the request for forgiveness comes
-    after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat
-    ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness comes while Jacob lives, and Jacob himself
-    promises to intercede, sawfa astaghfiru lakum rabbī.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה תֹאמְר֣וּ לְיוֹסֵ֗ף אָ֣נָּ֡א שָׂ֣א נָ֠א פֶּ֣שַׁע אַחֶ֤יךָ וְחַטָּאתָם֙ כִּי רָעָ֣ה גְמָל֔וּךָ
-    וְעַתָּה֙ שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ וַיֵּ֥בְךְּ יוֹסֵ֖ף בְּדַבְּרָ֥ם אֵלָֽיו
-- tradition: judaism
-  ref: Gen 50:19
-  note: 'Hero forgives his brothers [divergence between the texts] (Gen: the request for forgiveness comes
-    after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat
-    ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness comes while Jacob lives, and Jacob himself
-    promises to intercede, sawfa astaghfiru lakum rabbī.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי
-- tradition: islam
-  ref: Quran 12:91
-  note: 'Hero forgives his brothers [divergence between the texts] (Gen: no confession and no word of
-    forgiveness here, only wəʿattâ ʾal-tēʿāṣəbû and kisses and tears. Q: the brothers confess, wa-in kunnā
-    la-khāṭiʾīn, and Joseph pardons them at once, lā tathrība ʿalaykumu l-yawma yaghfiru llāhu lakum.
-    Gen postpones the request for forgiveness to Gen 50:17.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ
-- tradition: islam
-  ref: Quran 12:92
-  note: 'Hero forgives his brothers [divergence between the texts] (Gen: no confession and no word of
-    forgiveness here, only wəʿattâ ʾal-tēʿāṣəbû and kisses and tears. Q: the brothers confess, wa-in kunnā
-    la-khāṭiʾīn, and Joseph pardons them at once, lā tathrība ʿalaykumu l-yawma yaghfiru llāhu lakum.
-    Gen postpones the request for forgiveness to Gen 50:17.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: judaism
-  ref: Gen 50:21
-  note: Hero forgives his brothers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ אַל תִּירָ֔אוּ אָנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶֽת טַפְּכֶ֑ם וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר
-    עַל לִבָּֽם
-- tradition: islam
-  ref: Quran 12:92
-  note: Hero forgives his brothers (lā tathrība ʿalaykum al-yawm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
-- tradition: judaism
-  ref: Gen 50:20
-  note: Hero declares that God turned the brothers' deed to good ('you meant evil, God meant it for good')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיּ֥וֹם
-    הַזֶּ֖ה לְהַחֲיֹ֥ת עַם רָֽב
-- tradition: islam
-  ref: Quran 12:100
-  note: Hero declares that God turned the brothers' deed to good
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
-    رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
-    وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ
-    رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: the request for forgiveness comes after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ
-    ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness
-    comes while Jacob lives, and Jacob himself promises to intercede, sawfa astaghfiru lakum rabbī.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero forgives his brothers [divergence between the texts] (weight
     6.3); Hero forgives his brothers (weight 5.6); Hero declares that God turned the brothers'' deed to
@@ -122,6 +52,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero forgives his brothers
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-50-jacob-burial-joseph-death
+  title: Embalming and burial of Jacob; Joseph's last words and death
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero forgives his brothers
+  note: 'Gen: the request for forgiveness comes after Jacob''s death and in his name, śāʾ nāʾ ləpešaʿ
+    ʿabdê ʾĕlōhê ʾābîkā, and Joseph answers hătaḥat ʾĕlōhîm ʾānî ... ʾĕlōhîm ḥăšābāh ləṭōbâ. Q: forgiveness
+    comes while Jacob lives, and Jacob himself promises to intercede, sawfa astaghfiru lakum rabbī.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 50:17
+      lang: he
+      text: כֹּֽה תֹאמְר֣וּ לְיוֹסֵ֗ף אָ֣נָּ֡א שָׂ֣א נָ֠א פֶּ֣שַׁע אַחֶ֤יךָ וְחַטָּאתָם֙ כִּי רָעָ֣ה גְמָל֔וּךָ
+        וְעַתָּה֙ שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ וַיֵּ֥בְךְּ יוֹסֵ֖ף בְּדַבְּרָ֥ם אֵלָֽיו
+    - ref: Gen 50:19
+      lang: he
+      text: וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי
+    - ref: Gen 50:20
+      lang: he
+      text: וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיּ֥וֹם
+        הַזֶּ֖ה לְהַחֲיֹ֥ת עַם רָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 12:92
+      lang: ar
+      text: قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ
+    - ref: Quran 12:98
+      lang: ar
+      text: قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+- kind: shared
+  label: Hero declares that God turned the brothers' deed to good
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 50:20
+      lang: he
+      text: וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשֹׂ֛ה כַּיּ֥וֹם
+        הַזֶּ֖ה לְהַחֲיֹ֥ת עַם רָֽב
+    note: '''you meant evil, God meant it for good'''
+  - tradition: islam
+    passages:
+    - ref: Quran 12:100
+      lang: ar
+      text: وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ
+        رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ
+        وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ
+        إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ
 ---
 
 ## Questions

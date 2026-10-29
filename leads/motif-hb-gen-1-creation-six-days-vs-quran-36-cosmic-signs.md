@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-36-cosmic-signs
 title: Creation in six days and the seventh-day rest ↔ Signs of the dead earth, night, sun, moon and the
   laden ship
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 36:37
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
-- tradition: islam
-  ref: Quran 36:40
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. yəhî məʾōrōṯ ... ləhaḇdîl bên ha-yyôm û-ḇên ha-llāyəlâ wə-hāyû lə-ʾōṯōṯ û-lə-môʿăḏîm û-lə-yāmîm
-    wə-šānîm vs. wa-āyatun lahumu l-laylu ... wa-l-qamara qaddarnāhu manāzila: the lights as signs (ʾōṯōṯ
-    / āya, cognate) and as measures of time. Genesis ranks them as greater and lesser rulers (memšālâ);
-    the Quran says neither may overtake the other (lā sh-shamsu yanbaghī lahā an tudrika l-qamar).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -86,6 +52,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- parallel
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'yəhî məʾōrōṯ ... ləhaḇdîl bên ha-yyôm û-ḇên ha-llāyəlâ wə-hāyû lə-ʾōṯōṯ û-lə-môʿăḏîm û-lə-yāmîm
+    wə-šānîm vs. wa-āyatun lahumu l-laylu ... wa-l-qamara qaddarnāhu manāzila: the lights as signs (ʾōṯōṯ
+    / āya, cognate) and as measures of time. Genesis ranks them as greater and lesser rulers (memšālâ);
+    the Quran says neither may overtake the other (lā sh-shamsu yanbaghī lahā an tudrika l-qamar).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 36:37
+      lang: ar
+      text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
+    - ref: Quran 36:39
+      lang: ar
+      text: وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
+    - ref: Quran 36:40
+      lang: ar
+      text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+        فِى فَلَكٍ يَسْبَحُونَ
 ---
 
 ## Questions

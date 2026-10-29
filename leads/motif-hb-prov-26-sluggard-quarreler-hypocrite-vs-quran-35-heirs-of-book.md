@@ -2,7 +2,7 @@
 id: motif-hb-prov-26-sluggard-quarreler-hypocrite-vs-quran-35-heirs-of-book
 title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite ↔ The heirs of the Book,
   the Gardens of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: the evil plot encompasses only its own authors.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - evil-plot-recoils-on-plotter
-passages:
-- tradition: judaism
-  ref: Prov 26:27
-  note: 'The evil plot encompasses only its own authors (kōreh-šaḥaṯ bāh yippōl wə-ḡōlēl ʾeḇen ʾēlâw tāšûḇ
-    vs. wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi: the same rule as a proverb. In Q it is God''s unchanging
-    sunna (fa-lan tajida li-sunnati llāhi tabdīlā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽרֶה שַּׁ֭חַת בָּ֣הּ יִפֹּ֑ל וְגֹ֥לֵ֥ל אֶ֝בֶן אֵלָ֥יו תָּשֽׁוּב
-- tradition: islam
-  ref: Quran 35:43
-  note: The evil plot encompasses only its own authors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ
-    فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ
-    لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. kōreh-šaḥaṯ bāh yippōl wə-ḡōlēl ʾeḇen ʾēlâw tāšûḇ vs. wa-lā yaḥīqu l-makru s-sayyiʾu illā
-    bi-ahlihi: the same rule as a proverb. In Q it is God''s unchanging sunna (fa-lan tajida li-sunnati
-    llāhi tabdīlā).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The evil plot encompasses only its own authors (weight 6.3). Pair
     score 6.3.'
@@ -72,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The evil plot encompasses only its own authors
+kinds:
+- parallel
+units:
+- id: hb-prov-26-sluggard-quarreler-hypocrite
+  title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: parallel
+  label: The evil plot encompasses only its own authors
+  note: 'kōreh-šaḥaṯ bāh yippōl wə-ḡōlēl ʾeḇen ʾēlâw tāšûḇ vs. wa-lā yaḥīqu l-makru s-sayyiʾu illā bi-ahlihi:
+    the same rule as a proverb. In Q it is God''s unchanging sunna (fa-lan tajida li-sunnati llāhi tabdīlā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 26:27
+      lang: he
+      text: כֹּֽרֶה שַּׁ֭חַת בָּ֣הּ יִפֹּ֑ל וְגֹ֥לֵ֥ל אֶ֝בֶן אֵלָ֥יו תָּשֽׁוּב
+  - tradition: islam
+    passages:
+    - ref: Quran 35:43
+      lang: ar
+      text: ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا
+        بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا
+        وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
 ---
 
 ## Questions

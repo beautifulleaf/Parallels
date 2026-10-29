@@ -2,7 +2,7 @@
 id: motif-hb-jonah-4-qiqayon-vs-quran-6-prophet-consoled-signs
 title: Jonah's anger, the qiqayon plant and God's question ↔ The Prophet consoled; a ladder to the sky;
   animals as communities
-summary: 'These two units share 1 motifs: animals are in god''s care and are gathered before him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - animals-under-gods-care
-passages:
-- tradition: judaism
-  ref: Jonah 4:11
-  note: 'Animals are in God''s care and are gathered before him (Animals count before God. Jonah ends
-    û-vəhēmāh rabbāh. Q: wa-mā min dābbatin fī l-arḍi wa-lā ṭāʾirin yaṭīru bi-janāḥayhi illā umamun amthālukum
-    ... thumma ilā rabbihim yuḥsharūna. Q goes further: animals are communities like you, gathered to
-    their Lord.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים
-    עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא יָדַע֙ בֵּין יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה
-- tradition: islam
-  ref: Quran 6:38
-  note: 'Animals are in God''s care and are gathered before him (Animals count before God. Jonah ends
-    û-vəhēmāh rabbāh. Q: wa-mā min dābbatin fī l-arḍi wa-lā ṭāʾirin yaṭīru bi-janāḥayhi illā umamun amthālukum
-    ... thumma ilā rabbihim yuḥsharūna. Q goes further: animals are communities like you, gathered to
-    their Lord.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم
-    مَّا فَرَّطْنَا فِى ٱلْكِتَٰبِ مِن شَىْءٍ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Animals count before God. Jonah ends û-vəhēmāh rabbāh. Q: wa-mā min dābbatin fī l-arḍi wa-lā
-    ṭāʾirin yaṭīru bi-janāḥayhi illā umamun amthālukum ... thumma ilā rabbihim yuḥsharūna. Q goes further:
-    animals are communities like you, gathered to their Lord.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Animals are in God''s care and are gathered before him (weight 6.3).
     Pair score 6.3.'
@@ -75,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Animals are in God's care and are gathered before him
+kinds:
+- echo
+units:
+- id: hb-jonah-4-qiqayon
+  title: Jonah's anger, the qiqayon plant and God's question
+  tradition: judaism
+- id: quran-6-prophet-consoled-signs
+  title: The Prophet consoled; a ladder to the sky; animals as communities
+  tradition: islam
+matches:
+- kind: echo
+  label: Animals are in God's care and are gathered before him
+  note: 'Animals count before God. Jonah ends û-vəhēmāh rabbāh. Q: wa-mā min dābbatin fī l-arḍi wa-lā
+    ṭāʾirin yaṭīru bi-janāḥayhi illā umamun amthālukum ... thumma ilā rabbihim yuḥsharūna. Q goes further:
+    animals are communities like you, gathered to their Lord.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 4:11
+      lang: he
+      text: וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים
+        עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא יָדַע֙ בֵּין יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:38
+      lang: ar
+      text: وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ وَلَا طَٰٓئِرٍ يَطِيرُ بِجَنَاحَيْهِ إِلَّآ أُمَمٌ أَمْثَالُكُم
+        مَّا فَرَّطْنَا فِى ٱلْكِتَٰبِ مِن شَىْءٍ ثُمَّ إِلَىٰ رَبِّهِمْ يُحْشَرُونَ
 ---
 
 ## Questions

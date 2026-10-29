@@ -2,7 +2,7 @@
 id: motif-hb-ps-38-sick-penitent-vs-quran-9-forerunners-dirar
 title: Psalm 38 - the sick penitent abandoned by friends ↔ The forerunners, alms that purify, and the
   mosque of harm
-summary: 'These two units share 1 motifs: the sinner must confess the sin he committed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - confession-of-sin
-passages:
-- tradition: judaism
-  ref: Ps 38:19
-  note: The sinner must confess the sin he committed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עֲוֺנִ֥י אַגִּ֑יד אֶ֝דְאַ֗ג מֵֽחַטָּאתִֽי
-- tradition: islam
-  ref: Quran 9:102
-  note: The sinner must confess the sin he committed (they confessed, mixing good and bad deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ
-    أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. kî-ʿăwōnî ʾaggîd ʾedʾag mēḥaṭṭāʾtî vs iʿtarafū bi-dhunūbihim.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sinner must confess the sin he committed (weight 5.8). Pair
     score 5.8.'
@@ -60,6 +46,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sinner must confess the sin he committed
+kinds:
+- echo
+units:
+- id: hb-ps-38-sick-penitent
+  title: Psalm 38 - the sick penitent abandoned by friends
+  tradition: judaism
+- id: quran-9-forerunners-dirar
+  title: The forerunners, alms that purify, and the mosque of harm
+  tradition: islam
+matches:
+- kind: echo
+  label: The sinner must confess the sin he committed
+  note: kî-ʿăwōnî ʾaggîd ʾedʾag mēḥaṭṭāʾtî vs iʿtarafū bi-dhunūbihim.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 38:19
+      lang: he
+      text: כִּֽי עֲוֺנִ֥י אַגִּ֑יד אֶ֝דְאַ֗ג מֵֽחַטָּאתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 9:102
+      lang: ar
+      text: وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى
+        ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

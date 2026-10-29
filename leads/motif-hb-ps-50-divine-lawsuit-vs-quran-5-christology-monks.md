@@ -2,8 +2,7 @@
 id: motif-hb-ps-50-divine-lawsuit-vs-quran-5-christology-monks
 title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls ↔ Against the deification
   of Jesus; the weeping Christians
-summary: 'These two units share 1 motifs: god does not need sacrifices: ''if i were hungry i would not
-  tell you... do i eat the flesh of bulls or drink the blood of goats?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - god-does-not-eat-flesh-of-bulls
-passages:
-- tradition: judaism
-  ref: Ps 50:8-9
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:8) לֹ֣א עַל זְ֭בָחֶיךָ אוֹכִיחֶ֑ךָ וְעוֹלֹתֶ֖יךָ לְנֶגְדִּ֣י תָמִֽיד (50:9) לֹא אֶקַּ֣ח מִבֵּיתְךָ֣
-    פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים
-- tradition: judaism
-  ref: Ps 50:12-13
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:12) אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ (50:13) הַֽ֭אוֹכַל בְּשַׂ֣ר
-    אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
-- tradition: islam
-  ref: Quran 5:75
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'' (Both assume God does not eat. Ps: ʾim-ʾerʿav lōʾ-ʾōmar lākh
-    ... ha-ʾôkhal bəśar ʾabbîrîm. Q: kānā yaʾkulāni l-ṭaʿāma, so the Messiah and his mother ate food and
-    are therefore not divine. Q argues from that premise.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ صِدِّيقَةٌ
-    كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ أَنَّىٰ يُؤْفَكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Both assume God does not eat. Ps: ʾim-ʾerʿav lōʾ-ʾōmar lākh ... ha-ʾôkhal bəśar ʾabbîrîm. Q:
-    kānā yaʾkulāni l-ṭaʿāma, so the Messiah and his mother ate food and are therefore not divine. Q argues
-    from that premise.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not need sacrifices: ''If I were hungry I would not tell
     you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 5.8). Pair score 5.8.'
@@ -80,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+  of bulls or drink the blood of goats?'''
+kinds:
+- echo
+units:
+- id: hb-ps-50-divine-lawsuit
+  title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls
+  tradition: judaism
+- id: quran-5-christology-monks
+  title: Against the deification of Jesus; the weeping Christians
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+    of bulls or drink the blood of goats?'''
+  note: 'Both assume God does not eat. Ps: ʾim-ʾerʿav lōʾ-ʾōmar lākh ... ha-ʾôkhal bəśar ʾabbîrîm. Q:
+    kānā yaʾkulāni l-ṭaʿāma, so the Messiah and his mother ate food and are therefore not divine. Q argues
+    from that premise.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:12
+      lang: he
+      text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
+    - ref: Ps 50:13
+      lang: he
+      text: הַֽ֭אוֹכַל בְּשַׂ֣ר אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:75
+      lang: ar
+      text: مَّا ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ وَأُمُّهُۥ
+        صِدِّيقَةٌ كَانَا يَأْكُلَانِ ٱلطَّعَامَ ٱنظُرْ كَيْفَ نُبَيِّنُ لَهُمُ ٱلْءَايَٰتِ ثُمَّ ٱنظُرْ
+        أَنَّىٰ يُؤْفَكُونَ
 ---
 
 ## Questions

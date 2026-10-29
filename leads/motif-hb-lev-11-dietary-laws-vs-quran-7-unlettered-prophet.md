@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-11-dietary-laws-vs-quran-7-unlettered-prophet
 title: Clean and unclean animals; carcass impurity ↔ The unlettered prophet foretold in Torah and Gospel
-summary: 'These two units share 1 motifs: which foods god permits and which he forbids [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - permitted-and-forbidden-foods-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 11:47
-  note: 'Which foods God permits and which he forbids [divergence between the texts] (Food law redrawn
-    by the new prophet: yuḥillu lahumu ṭ-ṭayyibāti wa-yuḥarrimu ʿalayhimu l-khabāʾitha (lawful the good,
-    forbidden the foul) vs lᵉhabdîl bên haṭṭāmēʾ ûbên haṭṭāhōr ûbên haḥayyāh hanneʾĕkelet ... ʾăšer lōʾ
-    tēʾākēl. The Levitical categories of pure and impure become good and foul.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙ הַֽחַיָּ֔ה
-    אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל
-- tradition: islam
-  ref: Quran 7:157
-  note: 'Which foods God permits and which he forbids [divergence between the texts] (Food law redrawn
-    by the new prophet: yuḥillu lahumu ṭ-ṭayyibāti wa-yuḥarrimu ʿalayhimu l-khabāʾitha (lawful the good,
-    forbidden the foul) vs lᵉhabdîl bên haṭṭāmēʾ ûbên haṭṭāhōr ûbên haḥayyāh hanneʾĕkelet ... ʾăšer lōʾ
-    tēʾākēl. The Levitical categories of pure and impure become good and foul.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
-    فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
-    لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
-    ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ
-    ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Food law redrawn by the new prophet: yuḥillu lahumu ṭ-ṭayyibāti wa-yuḥarrimu ʿalayhimu
-    l-khabāʾitha (lawful the good, forbidden the foul) vs lᵉhabdîl bên haṭṭāmēʾ ûbên haṭṭāhōr ûbên haḥayyāh
-    hanneʾĕkelet ... ʾăšer lōʾ tēʾākēl. The Levitical categories of pure and impure become good and foul.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Which foods God permits and which he forbids [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -72,6 +45,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Which foods God permits and which he forbids
+kinds:
+- divergence
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-7-unlettered-prophet
+  title: The unlettered prophet foretold in Torah and Gospel
+  tradition: islam
+matches:
+- kind: divergence
+  label: Which foods God permits and which he forbids
+  note: 'Food law redrawn by the new prophet: yuḥillu lahumu ṭ-ṭayyibāti wa-yuḥarrimu ʿalayhimu l-khabāʾitha
+    (lawful the good, forbidden the foul) vs lᵉhabdîl bên haṭṭāmēʾ ûbên haṭṭāhōr ûbên haḥayyāh hanneʾĕkelet
+    ... ʾăšer lōʾ tēʾākēl. The Levitical categories of pure and impure become good and foul.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:47
+      lang: he
+      text: לְהַבְדִּ֕יל בֵּ֥ין הַטָּמֵ֖א וּבֵ֣ין הַטָּהֹ֑ר וּבֵ֤ין הַֽחַיָּה֙ הַֽנֶּאֱכֶ֔לֶת וּבֵין֙
+        הַֽחַיָּ֔ה אֲשֶׁ֖ר לֹ֥א תֵאָכֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 7:157
+      lang: ar
+      text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
+        فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
+        لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
+        ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟
+        ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

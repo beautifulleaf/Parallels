@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-6-final-reckoning
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ Tenfold reward; my life and death for God; no bearer
   bears another's burden
-summary: 'These two units share 2 motifs: fathers not put to death for children nor children for fathers,
-  each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,42 +16,9 @@ layers:
 motifs:
 - individual-responsibility-no-vicarious-death
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Deut 24:16
-  note: Fathers not put to death for children nor children for fathers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ יוּמָֽתוּ
-- tradition: islam
-  ref: Quran 6:164
-  note: 'Fathers not put to death for children nor children for fathers (Deut: lōʾ-yûmətû ʾāvôt ʿal-bānîm
-    û-vānîm lōʾ-yûmətû ʿal-ʾāvôt ʾîš bə-ḥeṭʾô yûmātû, a court rule. Q applies it to the final reckoning:
-    lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا
-    عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
-    بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
-- tradition: judaism
-  ref: Deut 24:16
-  note: Each person dies for his own sin (lōʾ-yûməṯû ʾāḇôṯ ʿal-bānîm ... ʾîš bə-ḥeṭʾô yûmāṯû vs. lā taziru
-    wāziratun wizra ukhrā. A rule of human courts in Deut becomes a principle of divine judgment in Q.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ יוּמָֽתוּ
-- tradition: islam
-  ref: Quran 6:164
-  note: Each person dies for his own sin (lā taziru wāziratun wizra ukhrā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا
-    عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
-    بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Deut: lōʾ-yûmətû ʾāvôt ʿal-bānîm û-vānîm lōʾ-yûmətû ʿal-ʾāvôt ʾîš bə-ḥeṭʾô yûmātû, a court
-    rule. Q applies it to the final reckoning: lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fathers not put to death for children nor children for fathers (weight
     5.8); Each person dies for his own sin (weight 5.0). Pair score 10.8.'
@@ -86,6 +52,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fathers not put to death for children nor children for fathers
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-6-final-reckoning
+  title: Tenfold reward; my life and death for God; no bearer bears another's burden
+  tradition: islam
+matches:
+- kind: parallel
+  label: Fathers not put to death for children nor children for fathers
+  note: 'Deut: lōʾ-yûmətû ʾāvôt ʿal-bānîm û-vānîm lōʾ-yûmətû ʿal-ʾāvôt ʾîš bə-ḥeṭʾô yûmātû, a court rule.
+    Q applies it to the final reckoning: lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:16
+      lang: he
+      text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ
+        יוּמָֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:164
+      lang: ar
+      text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ
+        إِلَّا عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
+        بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+- kind: shared
+  label: Each person dies for his own sin
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:16
+      lang: he
+      text: לֹֽא יוּמְת֤וּ אָבוֹת֙ עַל בָּנִ֔ים וּבָנִ֖ים לֹא יוּמְת֣וּ עַל אָב֑וֹת אִ֥יש בְּחֶטְא֖וֹ
+        יוּמָֽתוּ
+    note: lōʾ-yûməṯû ʾāḇôṯ ʿal-bānîm ... ʾîš bə-ḥeṭʾô yûmāṯû vs. lā taziru wāziratun wizra ukhrā. A rule
+      of human courts in Deut becomes a principle of divine judgment in Q.
+  - tradition: islam
+    passages:
+    - ref: Quran 6:164
+      lang: ar
+      text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ
+        إِلَّا عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
+        بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+    note: lā taziru wāziratun wizra ukhrā
 ---
 
 ## Questions

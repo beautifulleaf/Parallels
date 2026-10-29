@@ -2,9 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ Qaf:
   wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 2 motifs: earth built like a structure with measurements, measuring line,
-  sunk bases and a cornerstone, god set the mountains as pegs or firm anchors (awtad, rawasi) for the
-  earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,79 +15,9 @@ layers:
 motifs:
 - earth-founded-like-building
 - mountains-as-pegs
-passages:
-- tradition: judaism
-  ref: Job 38:4-6
-  note: Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone (measurements,
-    qav (line), sockets (adanim) sunk, cornerstone (even pinnatah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:4) אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה (38:5) מִי שָׂ֣ם מְ֭מַדֶּיהָ
-    כִּ֣י תֵדָ֑ע א֤וֹ מִֽי נָטָ֖ה עָלֶ֣יהָ קָּֽו (38:6) עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה
-    אֶ֣בֶן פִּנָּתָֽהּ
-- tradition: judaism
-  ref: Job 38:4
-  note: Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone (measurements,
-    qav (line), sockets (adanim) sunk, cornerstone (even pinnatah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: islam
-  ref: Quran 50:6
-  note: 'Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone
-    (Creation as building: bə-yāsəḏî ʾāreṣ ... mî śām mə-mamaddêhā ... ʿal māh ʾăḏānêhā hāṭbāʿû ʾô mî
-    yārâ ʾeḇen pinnāṯāh vs. a-fa-lam yanẓurū ilā s-samāʾi fawqahum kayfa banaynāhā ... wa-l-arḍa madadnāhā
-    wa-alqaynā fīhā rawāsiya. In Job the questions humble Job; in the Quran the same kind of look at sky
-    and earth is a proof (tabṣira) of the resurrection. The earth''s bases (ʾăḏānîm) in Job, mountains
-    as anchors in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا
-    مِن فُرُوجٍ
-- tradition: islam
-  ref: Quran 50:7
-  note: 'Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone
-    (Creation as building: bə-yāsəḏî ʾāreṣ ... mî śām mə-mamaddêhā ... ʿal māh ʾăḏānêhā hāṭbāʿû ʾô mî
-    yārâ ʾeḇen pinnāṯāh vs. a-fa-lam yanẓurū ilā s-samāʾi fawqahum kayfa banaynāhā ... wa-l-arḍa madadnāhā
-    wa-alqaynā fīhā rawāsiya. In Job the questions humble Job; in the Quran the same kind of look at sky
-    and earth is a proof (tabṣira) of the resurrection. The earth''s bases (ʾăḏānîm) in Job, mountains
-    as anchors in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ
-    بَهِيجٍ
-- tradition: judaism
-  ref: Job 38:4
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:6
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
-- tradition: islam
-  ref: Quran 50:7
-  note: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ
-    بَهِيجٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Creation as building: bə-yāsəḏî ʾāreṣ ... mî śām mə-mamaddêhā ... ʿal māh ʾăḏānêhā hāṭbāʿû ʾô
-    mî yārâ ʾeḇen pinnāṯāh vs. a-fa-lam yanẓurū ilā s-samāʾi fawqahum kayfa banaynāhā ... wa-l-arḍa madadnāhā
-    wa-alqaynā fīhā rawāsiya. In Job the questions humble Job; in the Quran the same kind of look at sky
-    and earth is a proof (tabṣira) of the resurrection. The earth''s bases (ʾăḏānîm) in Job, mountains
-    as anchors in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Earth built like a structure with measurements, measuring line,
     sunk bases and a cornerstone (weight 6.3); God set the mountains as pegs or firm anchors (awtad, rawasi)
@@ -127,6 +55,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: echo
+  label: Earth built like a structure with measurements, measuring line, sunk bases and a cornerstone
+  note: 'Creation as building: bə-yāsəḏî ʾāreṣ ... mî śām mə-mamaddêhā ... ʿal māh ʾăḏānêhā hāṭbāʿû ʾô
+    mî yārâ ʾeḇen pinnāṯāh vs. a-fa-lam yanẓurū ilā s-samāʾi fawqahum kayfa banaynāhā ... wa-l-arḍa madadnāhā
+    wa-alqaynā fīhā rawāsiya. In Job the questions humble Job; in the Quran the same kind of look at sky
+    and earth is a proof (tabṣira) of the resurrection. The earth''s bases (ʾăḏānîm) in Job, mountains
+    as anchors in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:5
+      lang: he
+      text: מִי שָׂ֣ם מְ֭מַדֶּיהָ כִּ֣י תֵדָ֑ע א֤וֹ מִֽי נָטָ֖ה עָלֶ֣יהָ קָּֽו
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:6
+      lang: ar
+      text: أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا
+        لَهَا مِن فُرُوجٍ
+    - ref: Quran 50:7
+      lang: ar
+      text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ
+        بَهِيجٍ
+- kind: shared
+  label: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+    note: 'a-lam najʿali l-arḍa kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî
+      ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk
+      in Job, towering anchors (mountains) in the Quran.'
+  - tradition: islam
+    passages:
+    - ref: Quran 50:7
+      lang: ar
+      text: وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ
+        بَهِيجٍ
 ---
 
 ## Questions

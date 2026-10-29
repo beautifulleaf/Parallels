@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-68-qalam-companions-of-the-garden
 title: Be holy - ethical laws and love of neighbor ↔ The companions of the garden who swore to harvest
   without 'if God wills' and to exclude the poor
-summary: 'These two units share 1 motifs: forgotten sheaf, olive and grape gleanings left for stranger,
-  orphan and widow [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - gleanings-for-poor-as-contrast
-passages:
-- tradition: judaism
-  ref: Lev 19:9
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (lā yadkhulannahā l-yawma ʿalaykum miskīn ~ lōʾ tekalleh peʾat śādekā liqṣōr ... le-ʿānî
-    we-la-ggēr taʿăzōv ʾōtām: the harvest in which the poor are given a part, against the harvest from
-    which they are shut out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
-    לֹ֥א תְלַקֵּֽט
-- tradition: judaism
-  ref: Lev 19:10
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (lā yadkhulannahā l-yawma ʿalaykum miskīn ~ lōʾ tekalleh peʾat śādekā liqṣōr ... le-ʿānî
-    we-la-ggēr taʿăzōv ʾōtām: the harvest in which the poor are given a part, against the harvest from
-    which they are shut out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 68:22
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَٰرِمِينَ
-- tradition: islam
-  ref: Quran 68:23
-  note: 'Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow [contrast between
-    the texts] (The owners plan the opposite of the gleaning law: an-ghdū ʿalā ḥarthikum in kuntum ṣārimīn
-    ... an lā yadkhulannahā l-yawma ʿalaykum miskīn ~ kî tiqṣōr qeṣîrekā ... we-šākaḥtā ʿōmer ... lōʾ
-    tāšûv le-qaḥtô la-ggēr la-yyātôm we-lā-ʾalmānāh yihyeh le-maʿan yevārekkā. Deuteronomy promises blessing
-    for leaving the poor''s share; the garden is destroyed for excluding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنطَلَقُوا۟ وَهُمْ يَتَخَٰفَتُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. lā yadkhulannahā l-yawma ʿalaykum miskīn ~ lōʾ tekalleh peʾat śādekā liqṣōr ... le-ʿānî
-    we-la-ggēr taʿăzōv ʾōtām: the harvest in which the poor are given a part, against the harvest from
-    which they are shut out.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forgotten sheaf, olive and grape gleanings left for stranger, orphan
     and widow [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -91,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+kinds:
+- contrast
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-68-qalam-companions-of-the-garden
+  title: The companions of the garden who swore to harvest without 'if God wills' and to exclude the poor
+  tradition: islam
+matches:
+- kind: contrast
+  label: Forgotten sheaf, olive and grape gleanings left for stranger, orphan and widow
+  note: 'lā yadkhulannahā l-yawma ʿalaykum miskīn ~ lōʾ tekalleh peʾat śādekā liqṣōr ... le-ʿānî we-la-ggēr
+    taʿăzōv ʾōtām: the harvest in which the poor are given a part, against the harvest from which they
+    are shut out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:9
+      lang: he
+      text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
+        לֹ֥א תְלַקֵּֽט
+    - ref: Lev 19:10
+      lang: he
+      text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב
+        אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 68:24
+      lang: ar
+      text: أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ
 ---
 
 ## Questions

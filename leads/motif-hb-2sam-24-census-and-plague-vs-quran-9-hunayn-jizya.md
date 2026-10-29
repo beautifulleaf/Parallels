@@ -2,8 +2,7 @@
 id: motif-hb-2sam-24-census-and-plague-vs-quran-9-hunayn-jizya
 title: David's census, the plague, and Araunah's threshing floor ↔ Hunayn, the impurity of polytheists,
   the jizya
-summary: 'These two units share 1 motifs: the believers'' pride in their great numbers avails nothing
-  and the earth grows narrow for them (hunayn).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - pride-in-numbers-fails
-passages:
-- tradition: judaism
-  ref: 2Sam 24:2
-  note: 'The believers'' pride in their great numbers avails nothing and the earth grows narrow for them
-    (Hunayn) (Confidence in counted numbers is a fault: aʿjabatkum kathratukum vs ûpiqdû ʾet-hāʿām wᵉyādaʿtî
-    ʾēt mispar hāʿām ... wayyak lēb-dāwid ʾōtô ... ḥāṭāʾtî mᵉʾōd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶל יוֹאָ֣ב שַׂר הַחַ֣יִל אֲשֶׁר אִתּ֗וֹ שֽׁוּט נָ֞א בְּכָל שִׁבְטֵ֤י יִשְׂרָאֵל֙
-    מִדָּן֙ וְעַד בְּאֵ֣ר שֶׁ֔בַע וּפִקְד֖וּ אֶת הָעָ֑ם וְיָ֣דַעְתִּ֔י אֵ֖ת מִסְפַּ֥ר הָעָֽם
-- tradition: judaism
-  ref: 2Sam 24:10
-  note: 'The believers'' pride in their great numbers avails nothing and the earth grows narrow for them
-    (Hunayn) (Confidence in counted numbers is a fault: aʿjabatkum kathratukum vs ûpiqdû ʾet-hāʿām wᵉyādaʿtî
-    ʾēt mispar hāʿām ... wayyak lēb-dāwid ʾōtô ... ḥāṭāʾtî mᵉʾōd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤ךְ לֵב דָּוִד֙ אֹת֔וֹ אַחֲרֵי כֵ֖ן סָפַ֣ר אֶת הָעָ֑ם וַיֹּ֨אמֶר דָּוִ֜ד אֶל יְהוָ֗ה חָטָ֤אתִי
-    מְאֹד֙ אֲשֶׁ֣ר עָשִׂ֔יתִי וְעַתָּ֣ה יְהוָ֔ה הַֽעֲבֶר נָא֙ אֶת עֲוֺ֣ן עַבְדְּךָ֔ כִּ֥י נִסְכַּ֖לְתִּי
-    מְאֹֽד
-- tradition: islam
-  ref: Quran 9:25
-  note: The believers' pride in their great numbers avails nothing and the earth grows narrow for them
-    (Hunayn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
-    فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Confidence in counted numbers is a fault: aʿjabatkum kathratukum vs ûpiqdû ʾet-hāʿām wᵉyādaʿtî
-    ʾēt mispar hāʿām ... wayyak lēb-dāwid ʾōtô ... ḥāṭāʾtî mᵉʾōd.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The believers'' pride in their great numbers avails nothing and
     the earth grows narrow for them (Hunayn) (weight 6.3). Pair score 6.3.'
@@ -78,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The believers' pride in their great numbers avails nothing and the earth grows narrow for them
+  (Hunayn)
+kinds:
+- echo
+units:
+- id: hb-2sam-24-census-and-plague
+  title: David's census, the plague, and Araunah's threshing floor
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: echo
+  label: The believers' pride in their great numbers avails nothing and the earth grows narrow for them
+    (Hunayn)
+  note: 'Confidence in counted numbers is a fault: aʿjabatkum kathratukum vs ûpiqdû ʾet-hāʿām wᵉyādaʿtî
+    ʾēt mispar hāʿām ... wayyak lēb-dāwid ʾōtô ... ḥāṭāʾtî mᵉʾōd.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶל יוֹאָ֣ב שַׂר הַחַ֣יִל אֲשֶׁר אִתּ֗וֹ שֽׁוּט נָ֞א בְּכָל שִׁבְטֵ֤י
+        יִשְׂרָאֵל֙ מִדָּן֙ וְעַד בְּאֵ֣ר שֶׁ֔בַע וּפִקְד֖וּ אֶת הָעָ֑ם וְיָ֣דַעְתִּ֔י אֵ֖ת מִסְפַּ֥ר
+        הָעָֽם
+    - ref: 2Sam 24:10
+      lang: he
+      text: וַיַּ֤ךְ לֵב דָּוִד֙ אֹת֔וֹ אַחֲרֵי כֵ֖ן סָפַ֣ר אֶת הָעָ֑ם וַיֹּ֨אמֶר דָּוִ֜ד אֶל יְהוָ֗ה
+        חָטָ֤אתִי מְאֹד֙ אֲשֶׁ֣ר עָשִׂ֔יתִי וְעַתָּ֣ה יְהוָ֔ה הַֽעֲבֶר נָא֙ אֶת עֲוֺ֣ן עַבְדְּךָ֔ כִּ֥י
+        נִסְכַּ֖לְתִּי מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 9:25
+      lang: ar
+      text: لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ وَيَوْمَ حُنَيْنٍ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ
+        فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم
+        مُّدْبِرِينَ
 ---
 
 ## Questions

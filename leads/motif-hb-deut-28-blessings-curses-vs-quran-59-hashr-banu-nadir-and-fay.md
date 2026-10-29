@@ -2,8 +2,7 @@
 id: motif-hb-deut-28-blessings-curses-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'Blessings and the great curses ↔ Al-Hashr: the first gathering and exile of the Banu Nadir, the
   cut palms, and the law of fay'''
-summary: 'These two units share 1 motifs: they thought their fortresses would protect them from god, but
-  god came from where they did not expect and cast terror into their hearts.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - fortresses-cannot-protect-terror-cast-in-hearts
-passages:
-- tradition: judaism
-  ref: Deut 28:52
-  note: 'They thought their fortresses would protect them from God, but God came from where they did not
-    expect and cast terror into their hearts (Fortified walls that do not save: ʿaḏ reḏeṯ ḥōmōṯêḵā hag-gəḇōhôṯ
-    wə-hab-bəṣurôṯ ʾăšer ʾattâ bōṭēaḥ bāhēn vs. wa-ẓannū annahum māniʿatuhum ḥuṣūnuhum mina llāhi fa-atāhumu
-    llāhu min ḥaythu lam yaḥtasibū. Deuteronomy''s curse is on Israel; the Quran applies the same false
-    trust to the Banū Naḍīr.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵצַ֨ר לְךָ֜ בְּכָל שְׁעָרֶ֗יךָ עַ֣ד רֶ֤דֶת חֹמֹתֶ֨יךָ֙ הַגְּבֹה֣וֹת וְהַבְּצֻר֔וֹת אֲשֶׁ֥ר
-    אַתָּ֛ה בֹּטֵ֥חַ בָּהֵ֖ן בְּכָל אַרְצֶ֑ךָ וְהֵצַ֤ר לְךָ֙ בְּכָל שְׁעָרֶ֔יךָ בְּכָ֨ל אַרְצְךָ֔ אֲשֶׁ֥ר
-    נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
-- tradition: islam
-  ref: Quran 59:2
-  note: They thought their fortresses would protect them from God, but God came from where they did not
-    expect and cast terror into their hearts
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ
-    مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ
-    ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ
-    وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Fortified walls that do not save: ʿaḏ reḏeṯ ḥōmōṯêḵā hag-gəḇōhôṯ wə-hab-bəṣurôṯ ʾăšer ʾattâ
-    bōṭēaḥ bāhēn vs. wa-ẓannū annahum māniʿatuhum ḥuṣūnuhum mina llāhi fa-atāhumu llāhu min ḥaythu lam
-    yaḥtasibū. Deuteronomy''s curse is on Israel; the Quran applies the same false trust to the Banū Naḍīr.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They thought their fortresses would protect them from God, but God
     came from where they did not expect and cast terror into their hearts (weight 6.7). Pair score 6.7.'
@@ -79,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They thought their fortresses would protect them from God, but God came from where they did not
+  expect and cast terror into their hearts
+kinds:
+- echo
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: echo
+  label: They thought their fortresses would protect them from God, but God came from where they did not
+    expect and cast terror into their hearts
+  note: 'Fortified walls that do not save: ʿaḏ reḏeṯ ḥōmōṯêḵā hag-gəḇōhôṯ wə-hab-bəṣurôṯ ʾăšer ʾattâ bōṭēaḥ
+    bāhēn vs. wa-ẓannū annahum māniʿatuhum ḥuṣūnuhum mina llāhi fa-atāhumu llāhu min ḥaythu lam yaḥtasibū.
+    Deuteronomy''s curse is on Israel; the Quran applies the same false trust to the Banū Naḍīr.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:52
+      lang: he
+      text: וְהֵצַ֨ר לְךָ֜ בְּכָל שְׁעָרֶ֗יךָ עַ֣ד רֶ֤דֶת חֹמֹתֶ֨יךָ֙ הַגְּבֹה֣וֹת וְהַבְּצֻר֔וֹת אֲשֶׁ֥ר
+        אַתָּ֛ה בֹּטֵ֥חַ בָּהֵ֖ן בְּכָל אַרְצֶ֑ךָ וְהֵצַ֤ר לְךָ֙ בְּכָל שְׁעָרֶ֔יךָ בְּכָ֨ל אַרְצְךָ֔
+        אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 59:2
+      lang: ar
+      text: هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ مِن دِيَٰرِهِمْ لِأَوَّلِ
+        ٱلْحَشْرِ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ
+        فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ يُخْرِبُونَ
+        بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَٰٓأُو۟لِى ٱلْأَبْصَٰرِ
 ---
 
 ## Questions

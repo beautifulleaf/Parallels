@@ -2,8 +2,7 @@
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-38-sad-opening
 title: 'Song of the vineyard; six woes; the nation from afar ↔ Sad: the chiefs marvel at one God; the
   confederates of old'
-summary: 'These two units share 1 motifs: scoffers ask ''lord, hasten to us our share (qittana) before
-  the day of reckoning''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - hasten-our-share-before-reckoning
-passages:
-- tradition: judaism
-  ref: Isa 5:19
-  note: 'Scoffers ask ''Lord, hasten to us our share (qittana) before the Day of Reckoning'' (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh vs. wa-qālū rabbanā ʿajjil lanā qiṭṭanā qabla yawmi l-ḥisāb:
-    scoffers mockingly ask God to hurry his judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת קְד֥וֹשׁ
-    יִשְׂרָאֵ֖ל וְנֵדָֽעָה
-- tradition: islam
-  ref: Quran 38:16
-  note: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. hā-ʾōmərîm yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh vs. wa-qālū rabbanā ʿajjil lanā qiṭṭanā
-    qabla yawmi l-ḥisāb: scoffers mockingly ask God to hurry his judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers ask ''Lord, hasten to us our share (qittana) before the
     Day of Reckoning'' (weight 6.3). Pair score 6.3.'
@@ -72,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
+kinds:
+- parallel
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-38-sad-opening
+  title: 'Sad: the chiefs marvel at one God; the confederates of old'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
+  note: 'hā-ʾōmərîm yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh vs. wa-qālū rabbanā ʿajjil lanā qiṭṭanā qabla
+    yawmi l-ḥisāb: scoffers mockingly ask God to hurry his judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:19
+      lang: he
+      text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת
+        קְד֥וֹשׁ יִשְׂרָאֵ֖ל וְנֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:16
+      lang: ar
+      text: وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-20-closing-exhortation
 title: The Ten Words and the people's fear ↔ Destroyed generations, patience, prayer times and waiting
-summary: 'These two units share 1 motifs: do not stretch your eyes toward the worldly splendor given to
-  others to test them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - do-not-envy-worldly-splendor
-passages:
-- tradition: judaism
-  ref: Exod 20:17
-  note: 'Do not stretch your eyes toward the worldly splendor given to others to test them (lōʾ taḥmōd
-    bêt rēʿekā lōʾ-taḥmōd ʾēšet rēʿekā ... wəkōl ʾăšer ləreʿekā; wa-lā tamuddanna ʿaynayka ilā mā mattaʿnā
-    bihi azwājan minhum zahrata l-ḥayāti d-dunyā: do not covet what others have. Exod forbids desiring
-    a neighbor''s goods; Q forbids looking with longing at the unbelievers'' worldly splendor, which is
-    given them only as a test (li-naftinahum fīh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ וַחֲמֹר֔וֹ
-    וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
-- tradition: islam
-  ref: Quran 20:131
-  note: Do not stretch your eyes toward the worldly splendor given to others to test them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. lōʾ taḥmōd bêt rēʿekā lōʾ-taḥmōd ʾēšet rēʿekā ... wəkōl ʾăšer ləreʿekā; wa-lā tamuddanna ʿaynayka
-    ilā mā mattaʿnā bihi azwājan minhum zahrata l-ḥayāti d-dunyā: do not covet what others have. Exod
-    forbids desiring a neighbor''s goods; Q forbids looking with longing at the unbelievers'' worldly
-    splendor, which is given them only as a test (li-naftinahum fīh).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not stretch your eyes toward the worldly splendor given to others
     to test them (weight 6.3). Pair score 6.3.'
@@ -70,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not stretch your eyes toward the worldly splendor given to others to test them
+kinds:
+- echo
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-20-closing-exhortation
+  title: Destroyed generations, patience, prayer times and waiting
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not stretch your eyes toward the worldly splendor given to others to test them
+  note: 'lōʾ taḥmōd bêt rēʿekā lōʾ-taḥmōd ʾēšet rēʿekā ... wəkōl ʾăšer ləreʿekā; wa-lā tamuddanna ʿaynayka
+    ilā mā mattaʿnā bihi azwājan minhum zahrata l-ḥayāti d-dunyā: do not covet what others have. Exod
+    forbids desiring a neighbor''s goods; Q forbids looking with longing at the unbelievers'' worldly
+    splendor, which is given them only as a test (li-naftinahum fīh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:17
+      lang: he
+      text: לֹ֥א תַחְמֹ֖ד בֵּ֣ית רֵעֶ֑ךָ לֹֽא תַחְמֹ֞ד אֵ֣שֶׁת רֵעֶ֗ךָ וְעַבְדּ֤וֹ וַאֲמָתוֹ֙ וְשׁוֹר֣וֹ
+        וַחֲמֹר֔וֹ וְכֹ֖ל אֲשֶׁ֥ר לְרֵעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:131
+      lang: ar
+      text: وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِۦٓ أَزْوَٰجًا مِّنْهُمْ زَهْرَةَ ٱلْحَيَوٰةِ
+        ٱلدُّنْيَا لِنَفْتِنَهُمْ فِيهِ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ
 ---
 
 ## Questions

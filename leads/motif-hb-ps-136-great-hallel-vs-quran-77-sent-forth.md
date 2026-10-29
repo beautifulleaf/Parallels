@@ -2,8 +2,7 @@
 id: motif-hb-ps-136-great-hallel-vs-quran-77-sent-forth
 title: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel) ↔ Those sent forth: the
   refrain of woe'
-summary: 'These two units share 1 motifs: every verse ends with the same response (''for his steadfast
-  love is forever''), an antiphonal litany.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - antiphonal-refrain-every-verse
-passages:
-- tradition: judaism
-  ref: Ps 136:1-26
-  note: Every verse ends with the same response ('for his steadfast love is forever'), an antiphonal litany
-    (26 occurrences, the gematria of YHWH)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text_omitted: longer than 12 verses; read it in the source
-- tradition: judaism
-  ref: Ps 136:1
-  note: Every verse ends with the same response ('for his steadfast love is forever'), an antiphonal litany
-    (26 occurrences, the gematria of YHWH)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹד֣וּ לַיהוָ֣ה כִּי ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
-- tradition: islam
-  ref: Quran 77:15
-  note: 'Every verse ends with the same response (''for his steadfast love is forever''), an antiphonal
-    litany (Refrain structure: waylun yawmaʾidhin li-l-mukadhdhibīn after each section ~ kî le-ʿôlām ḥasdô
-    after every verse. Praise refrain vs woe refrain.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
-- tradition: islam
-  ref: Quran 77:19
-  note: 'Every verse ends with the same response (''for his steadfast love is forever''), an antiphonal
-    litany (Refrain structure: waylun yawmaʾidhin li-l-mukadhdhibīn after each section ~ kî le-ʿôlām ḥasdô
-    after every verse. Praise refrain vs woe refrain.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. Refrain structure: waylun yawmaʾidhin li-l-mukadhdhibīn after each section ~ kî le-ʿôlām ḥasdô
-    after every verse. Praise refrain vs woe refrain.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every verse ends with the same response (''for his steadfast love
     is forever''), an antiphonal litany (weight 6.7). Pair score 6.7.'
@@ -84,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every verse ends with the same response ('for his steadfast love is forever'), an antiphonal
+  litany
+kinds:
+- echo
+units:
+- id: hb-ps-136-great-hallel
+  title: Psalm 136, litany 'for his steadfast love is forever' (Great Hallel)
+  tradition: judaism
+- id: quran-77-sent-forth
+  title: 'Those sent forth: the refrain of woe'
+  tradition: islam
+matches:
+- kind: echo
+  label: Every verse ends with the same response ('for his steadfast love is forever'), an antiphonal
+    litany
+  note: 'Refrain structure: waylun yawmaʾidhin li-l-mukadhdhibīn after each section ~ kî le-ʿôlām ḥasdô
+    after every verse. Praise refrain vs woe refrain.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 136:1
+      lang: he
+      text: הוֹד֣וּ לַיהוָ֣ה כִּי ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+    - ref: Ps 136:26
+      lang: he
+      text: ה֭וֹדוּ לְאֵ֣ל הַשָּׁמָ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 77:15
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    - ref: Quran 77:19
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    - ref: Quran 77:24
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-4-trusts-obedience
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Trusts, obedience to authority,
   and the hypocrites who seek other judges
-summary: 'These two units share 2 motifs: the levites kill idolaters including their own kin and are consecrated
-  for it [divergence between the texts], the levites kill idolaters including their own kin and are consecrated
-  for it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,74 +15,9 @@ layers:
 motifs:
 - levites-kill-idolaters-kin-as-divergence
 - levites-kill-idolaters-kin
-passages:
-- tradition: judaism
-  ref: Exod 32:27
-  note: 'The Levites kill idolaters including their own kin and are consecrated for it [divergence between
-    the texts] (HB command, carried out: hirgû ʾîš ʾet-ʾāḥîw ... wayyaʿăśû bənê-lēwî, about 3,000 die
-    and the Levites are ordained by it. Q makes it hypothetical: law annā katabnā ʿalayhim ani qtulū anfusakum
-    aw ukhrujū min diyārikum mā faʿalūhu illā qalīlun minhum, and the point becomes how few would obey.
-    cf. Q 2:54, where the command is given.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: 'The Levites kill idolaters including their own kin and are consecrated for it [divergence between
-    the texts] (HB command, carried out: hirgû ʾîš ʾet-ʾāḥîw ... wayyaʿăśû bənê-lēwî, about 3,000 die
-    and the Levites are ordained by it. Q makes it hypothetical: law annā katabnā ʿalayhim ani qtulū anfusakum
-    aw ukhrujū min diyārikum mā faʿalūhu illā qalīlun minhum, and the point becomes how few would obey.
-    cf. Q 2:54, where the command is given.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 4:66
-  note: 'The Levites kill idolaters including their own kin and are consecrated for it [divergence between
-    the texts] (HB command, carried out: hirgû ʾîš ʾet-ʾāḥîw ... wayyaʿăśû bənê-lēwî, about 3,000 die
-    and the Levites are ordained by it. Q makes it hypothetical: law annā katabnā ʿalayhim ani qtulū anfusakum
-    aw ukhrujū min diyārikum mā faʿalūhu illā qalīlun minhum, and the point becomes how few would obey.
-    cf. Q 2:54, where the command is given.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم
-    مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا
-    لَّهُمْ وَأَشَدَّ تَثْبِيتًا
-- tradition: judaism
-  ref: Exod 32:27
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 4:66
-  note: The Levites kill idolaters including their own kin and are consecrated for it (uqtulū anfusakum
-    echoes the calf episode (cf. Quran 2:54, Exod 32:27))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم
-    مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ خَيْرًا
-    لَّهُمْ وَأَشَدَّ تَثْبِيتًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. HB command, carried out: hirgû ʾîš ʾet-ʾāḥîw ... wayyaʿăśû bənê-lēwî, about 3,000 die
-    and the Levites are ordained by it. Q makes it hypothetical: law annā katabnā ʿalayhim ani qtulū anfusakum
-    aw ukhrujū min diyārikum mā faʿalūhu illā qalīlun minhum, and the point becomes how few would obey.
-    cf. Q 2:54, where the command is given.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
     for it [divergence between the texts] (weight 6.7); The Levites kill idolaters including their own
@@ -117,6 +50,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Levites kill idolaters including their own kin and are consecrated for it
+kinds:
+- divergence
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-4-trusts-obedience
+  title: Trusts, obedience to authority, and the hypocrites who seek other judges
+  tradition: islam
+matches:
+- kind: divergence
+  label: The Levites kill idolaters including their own kin and are consecrated for it
+  note: 'HB command, carried out: hirgû ʾîš ʾet-ʾāḥîw ... wayyaʿăśû bənê-lēwî, about 3,000 die and the
+    Levites are ordained by it. Q makes it hypothetical: law annā katabnā ʿalayhim ani qtulū anfusakum
+    aw ukhrujū min diyārikum mā faʿalūhu illā qalīlun minhum, and the point becomes how few would obey.
+    cf. Q 2:54, where the command is given.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:66
+      lang: ar
+      text: وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ أَنِ ٱقْتُلُوٓا۟ أَنفُسَكُمْ أَوِ ٱخْرُجُوا۟ مِن دِيَٰرِكُم
+        مَّا فَعَلُوهُ إِلَّا قَلِيلٌ مِّنْهُمْ وَلَوْ أَنَّهُمْ فَعَلُوا۟ مَا يُوعَظُونَ بِهِۦ لَكَانَ
+        خَيْرًا لَّهُمْ وَأَشَدَّ تَثْبِيتًا
 ---
 
 ## Questions

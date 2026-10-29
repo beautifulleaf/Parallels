@@ -2,7 +2,7 @@
 id: motif-hb-amos-8-summer-fruit-vs-quran-83-defrauders
 title: 'The basket of summer fruit; cheating merchants; famine of the word ↔ The defrauders: Sijjin and
   ''Illiyyun'
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Amos 8:5
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר לְהַקְטִ֤ין
-    אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
-- tradition: islam
-  ref: Quran 83:1
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ لِّلْمُطَفِّفِينَ
-- tradition: islam
-  ref: Quran 83:2
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. waylun li-l-muṭaffifīna lladhīna idhā ktālū ʿalā n-nāsi yastawfūna wa-idhā kālūhum aw wazanūhum
-    yukhsirūn ~ lehaqṭîn ʾêfāh û-lehagdîl šeqel û-leʿawwēt môʾzenê mirmāh. Fraud in measure and weight
-    condemned; Amos ties it to the sabbath and the poor, the Quran to the Day of Judgment (a-lā yaẓunnu
-    ulāʾika annahum mabʿūthūn, 83:4).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -76,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-amos-8-summer-fruit
+  title: The basket of summer fruit; cheating merchants; famine of the word
+  tradition: judaism
+- id: quran-83-defrauders
+  title: 'The defrauders: Sijjin and ''Illiyyun'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: waylun li-l-muṭaffifīna lladhīna idhā ktālū ʿalā n-nāsi yastawfūna wa-idhā kālūhum aw wazanūhum
+    yukhsirūn ~ lehaqṭîn ʾêfāh û-lehagdîl šeqel û-leʿawwēt môʾzenê mirmāh. Fraud in measure and weight
+    condemned; Amos ties it to the sabbath and the poor, the Quran to the Day of Judgment (a-lā yaẓunnu
+    ulāʾika annahum mabʿūthūn, 83:4).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 8:5
+      lang: he
+      text: לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֨דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה בָּ֑ר
+        לְהַקְטִ֤ין אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 83:1
+      lang: ar
+      text: وَيْلٌ لِّلْمُطَفِّفِينَ
+    - ref: Quran 83:2
+      lang: ar
+      text: ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ
+    - ref: Quran 83:3
+      lang: ar
+      text: وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ
 ---
 
 ## Questions

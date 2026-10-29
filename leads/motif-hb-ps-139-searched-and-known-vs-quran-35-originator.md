@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-35-originator
 title: Psalm 139, God's all-knowing presence and the embryo ↔ The Originator, winged angels, and the two
   seas
-summary: 'These two units share 1 motifs: no one is granted long life or has his life shortened except
-  it is in a book.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - lifespan-written-in-book
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: No one is granted long life or has his life shortened except it is in a Book (tə-sukkēnî bə-ḇeṭen
-    ʾimmî ... gālmî rāʾû ʿêneyḵā wə-ʿal-sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû vs. wa-mā taḥmilu min
-    unthā wa-lā taḍaʿu illā bi-ʿilmihi wa-mā yuʿammaru min muʿammarin wa-lā yunqaṣu min ʿumurihi illā
-    fī kitāb. God knows the gestation and has the days of life written in his book (sēp̄er / kitāb).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: judaism
-  ref: Ps 139:15
-  note: No one is granted long life or has his life shortened except it is in a Book (tə-sukkēnî bə-ḇeṭen
-    ʾimmî ... gālmî rāʾû ʿêneyḵā wə-ʿal-sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû vs. wa-mā taḥmilu min
-    unthā wa-lā taḍaʿu illā bi-ʿilmihi wa-mā yuʿammaru min muʿammarin wa-lā yunqaṣu min ʿumurihi illā
-    fī kitāb. God knows the gestation and has the days of life written in his book (sēp̄er / kitāb).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: islam
-  ref: Quran 35:11
-  note: No one is granted long life or has his life shortened except it is in a Book
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ
-    مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ
-    إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. tə-sukkēnî bə-ḇeṭen ʾimmî ... gālmî rāʾû ʿêneyḵā wə-ʿal-sip̄rəḵā kullām yikkāṯēḇû yāmîm
-    yuṣṣārû vs. wa-mā taḥmilu min unthā wa-lā taḍaʿu illā bi-ʿilmihi wa-mā yuʿammaru min muʿammarin wa-lā
-    yunqaṣu min ʿumurihi illā fī kitāb. God knows the gestation and has the days of life written in his
-    book (sēp̄er / kitāb).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one is granted long life or has his life shortened except it
     is in a Book (weight 6.3). Pair score 6.3.'
@@ -87,6 +55,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one is granted long life or has his life shortened except it is in a Book
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: parallel
+  label: No one is granted long life or has his life shortened except it is in a Book
+  note: tə-sukkēnî bə-ḇeṭen ʾimmî ... gālmî rāʾû ʿêneyḵā wə-ʿal-sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû
+    vs. wa-mā taḥmilu min unthā wa-lā taḍaʿu illā bi-ʿilmihi wa-mā yuʿammaru min muʿammarin wa-lā yunqaṣu
+    min ʿumurihi illā fī kitāb. God knows the gestation and has the days of life written in his book (sēp̄er
+    / kitāb).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 35:11
+      lang: ar
+      text: وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ
+        مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ
+        عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
 ---
 
 ## Questions

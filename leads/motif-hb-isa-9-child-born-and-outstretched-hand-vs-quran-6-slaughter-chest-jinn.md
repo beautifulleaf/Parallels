@@ -2,8 +2,7 @@
 id: motif-hb-isa-9-child-born-and-outstretched-hand-vs-quran-6-slaughter-chest-jinn
 title: Great light; a child is born to us; the outstretched hand against Ephraim ↔ Eat what God's name
   is spoken over; the opened breast; jinn and humans judged
-summary: 'These two units share 1 motifs: the people walking in darkness have seen a great light; on those
-  in the land of deathly shadow light has shone.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - people-in-darkness-see-great-light
-passages:
-- tradition: judaism
-  ref: Isa 9:1
-  note: The people walking in darkness have seen a great light; on those in the land of deathly shadow
-    light has shone (erets tsalmavet)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָעָם֙ הַהֹלְכִ֣ים בַּחֹ֔שֶׁךְ רָא֖וּ א֣וֹר גָּד֑וֹל יֹשְׁבֵי֙ בְּאֶ֣רֶץ צַלְמָ֔וֶת א֖וֹר נָגַ֥הּ
-    עֲלֵיהֶֽם
-- tradition: islam
-  ref: Quran 6:122
-  note: 'The people walking in darkness have seen a great light; on those in the land of deathly shadow
-    light has shone (From darkness and death to light. Q: a-wa-man kāna maytan fa-aḥyaynāhu wa-jaʿalnā
-    lahu nūran yamshī bihi fī l-nāsi ka-man mathaluhu fī l-ẓulumāti. Isa: hā-ʿām ha-hōləkhîm ba-ḥōšekh
-    rāʾû ʾôr gādôl yōšəvê bə-ʾereṣ ṣalmāwet. Isa speaks of a people; Q of a single believer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ كَمَن
-    مَّثَلُهُۥ فِى ٱلظُّلُمَٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا كَذَٰلِكَ زُيِّنَ لِلْكَٰفِرِينَ مَا كَانُوا۟
-    يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. From darkness and death to light. Q: a-wa-man kāna maytan fa-aḥyaynāhu wa-jaʿalnā lahu nūran
-    yamshī bihi fī l-nāsi ka-man mathaluhu fī l-ẓulumāti. Isa: hā-ʿām ha-hōləkhîm ba-ḥōšekh rāʾû ʾôr gādôl
-    yōšəvê bə-ʾereṣ ṣalmāwet. Isa speaks of a people; Q of a single believer.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walking in darkness have seen a great light; on those
     in the land of deathly shadow light has shone (weight 6.7). Pair score 6.7.'
@@ -76,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people walking in darkness have seen a great light; on those in the land of deathly shadow
+  light has shone
+kinds:
+- echo
+units:
+- id: hb-isa-9-child-born-and-outstretched-hand
+  title: Great light; a child is born to us; the outstretched hand against Ephraim
+  tradition: judaism
+- id: quran-6-slaughter-chest-jinn
+  title: Eat what God's name is spoken over; the opened breast; jinn and humans judged
+  tradition: islam
+matches:
+- kind: echo
+  label: The people walking in darkness have seen a great light; on those in the land of deathly shadow
+    light has shone
+  note: 'From darkness and death to light. Q: a-wa-man kāna maytan fa-aḥyaynāhu wa-jaʿalnā lahu nūran
+    yamshī bihi fī l-nāsi ka-man mathaluhu fī l-ẓulumāti. Isa: hā-ʿām ha-hōləkhîm ba-ḥōšekh rāʾû ʾôr gādôl
+    yōšəvê bə-ʾereṣ ṣalmāwet. Isa speaks of a people; Q of a single believer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 9:1
+      lang: he
+      text: הָעָם֙ הַהֹלְכִ֣ים בַּחֹ֔שֶׁךְ רָא֖וּ א֣וֹר גָּד֑וֹל יֹשְׁבֵי֙ בְּאֶ֣רֶץ צַלְמָ֔וֶת א֖וֹר
+        נָגַ֥הּ עֲלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:122
+      lang: ar
+      text: أَوَمَن كَانَ مَيْتًا فَأَحْيَيْنَٰهُ وَجَعَلْنَا لَهُۥ نُورًا يَمْشِى بِهِۦ فِى ٱلنَّاسِ
+        كَمَن مَّثَلُهُۥ فِى ٱلظُّلُمَٰتِ لَيْسَ بِخَارِجٍ مِّنْهَا كَذَٰلِكَ زُيِّنَ لِلْكَٰفِرِينَ مَا
+        كَانُوا۟ يَعْمَلُونَ
 ---
 
 ## Questions

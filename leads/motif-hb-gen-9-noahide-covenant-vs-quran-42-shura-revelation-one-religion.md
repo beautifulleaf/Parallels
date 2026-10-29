@@ -2,8 +2,7 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-42-shura-revelation-one-religion
 title: 'Blessing of Noah, blood laws and the covenant of the bow ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the
   angels'' intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: the same religion (din) was enjoined on noah, abraham, moses,
-  jesus and the prophet: establish it and do not divide.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - one-religion-of-all-prophets
-passages:
-- tradition: judaism
-  ref: Gen 9:1
-  note: 'The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish
-    it and do not divide (A divine charge given to Noah before Abraham and Moses: Gen 9 gives Noah and
-    his sons commands (ʾaḵ bāśār bə-nap̄šô dāmô lōʾ ṯōʾḵēlû; šōp̄ēḵ dam hā-ʾāḏām); Q 42:13 shaʿara lakum
-    mina d-dīni mā waṣṣā bihi nūḥan ... wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā wa-ʿīsā an aqīmū d-dīna wa-lā
-    tatafarraqū fīh. In Genesis the charge to Noah is a separate, universal law under Israel''s later
-    law; in the Quran it is the same religion as that of all later prophets. cf. the rabbinic seven Noahide
-    laws (b. Sanh 56a).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת נֹ֖חַ וְאֶת בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ אֶת
-    הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 9:4
-  note: 'The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish
-    it and do not divide (A divine charge given to Noah before Abraham and Moses: Gen 9 gives Noah and
-    his sons commands (ʾaḵ bāśār bə-nap̄šô dāmô lōʾ ṯōʾḵēlû; šōp̄ēḵ dam hā-ʾāḏām); Q 42:13 shaʿara lakum
-    mina d-dīni mā waṣṣā bihi nūḥan ... wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā wa-ʿīsā an aqīmū d-dīna wa-lā
-    tatafarraqū fīh. In Genesis the charge to Noah is a separate, universal law under Israel''s later
-    law; in the Quran it is the same religion as that of all later prophets. cf. the rabbinic seven Noahide
-    laws (b. Sanh 56a).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַךְ בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ
-- tradition: islam
-  ref: Quran 42:13
-  note: 'The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish
-    it and do not divide'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا وَصَّيْنَا
-    بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟ فِيهِ كَبُرَ
-    عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ وَيَهْدِىٓ
-    إِلَيْهِ مَن يُنِيبُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A divine charge given to Noah before Abraham and Moses: Gen 9 gives Noah and his sons commands
-    (ʾaḵ bāśār bə-nap̄šô dāmô lōʾ ṯōʾḵēlû; šōp̄ēḵ dam hā-ʾāḏām); Q 42:13 shaʿara lakum mina d-dīni mā
-    waṣṣā bihi nūḥan ... wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā wa-ʿīsā an aqīmū d-dīna wa-lā tatafarraqū
-    fīh. In Genesis the charge to Noah is a separate, universal law under Israel''s later law; in the
-    Quran it is the same religion as that of all later prophets. cf. the rabbinic seven Noahide laws (b.
-    Sanh 56a).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus
     and the Prophet: establish it and do not divide (weight 6.7). Pair score 6.7.'
@@ -95,6 +53,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish
+  it and do not divide'
+kinds:
+- echo
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The same religion (din) was enjoined on Noah, Abraham, Moses, Jesus and the Prophet: establish
+    it and do not divide'
+  note: 'A divine charge given to Noah before Abraham and Moses: Gen 9 gives Noah and his sons commands
+    (ʾaḵ bāśār bə-nap̄šô dāmô lōʾ ṯōʾḵēlû; šōp̄ēḵ dam hā-ʾāḏām); Q 42:13 shaʿara lakum mina d-dīni mā
+    waṣṣā bihi nūḥan ... wa-mā waṣṣaynā bihi ibrāhīma wa-mūsā wa-ʿīsā an aqīmū d-dīna wa-lā tatafarraqū
+    fīh. In Genesis the charge to Noah is a separate, universal law under Israel''s later law; in the
+    Quran it is the same religion as that of all later prophets. cf. the rabbinic seven Noahide laws (b.
+    Sanh 56a).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:1
+      lang: he
+      text: וַיְבָ֣רֶךְ אֱלֹהִ֔ים אֶת נֹ֖חַ וְאֶת בָּנָ֑יו וַיֹּ֧אמֶר לָהֶ֛ם פְּר֥וּ וּרְב֖וּ וּמִלְא֥וּ
+        אֶת הָאָֽרֶץ
+    - ref: Gen 9:4
+      lang: he
+      text: אַךְ בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ
+    - ref: Gen 9:6
+      lang: he
+      text: שֹׁפֵךְ֙ דַּ֣ם הָֽאָדָ֔ם בָּֽאָדָ֖ם דָּמ֣וֹ יִשָּׁפֵ֑ךְ כִּ֚י בְּצֶ֣לֶם אֱלֹהִ֔ים עָשָׂ֖ה
+        אֶת הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 42:13
+      lang: ar
+      text: شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحًا وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَمَا
+        وَصَّيْنَا بِهِۦٓ إِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓ أَنْ أَقِيمُوا۟ ٱلدِّينَ وَلَا تَتَفَرَّقُوا۟
+        فِيهِ كَبُرَ عَلَى ٱلْمُشْرِكِينَ مَا تَدْعُوهُمْ إِلَيْهِ ٱللَّهُ يَجْتَبِىٓ إِلَيْهِ مَن يَشَآءُ
+        وَيَهْدِىٓ إِلَيْهِ مَن يُنِيبُ
 ---
 
 ## Questions

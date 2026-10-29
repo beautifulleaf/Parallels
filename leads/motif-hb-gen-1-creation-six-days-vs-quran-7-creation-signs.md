@@ -2,9 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-7-creation-signs
 title: Creation in six days and the seventh-day rest ↔ Six days, the Throne, winds and rain as proof of
   resurrection
-summary: 'These two units share 3 motifs: deity rests on the seventh day after creating, and sanctifies
-  it [divergence between the texts], creation is completed in six days, sun and moon are set to rule day
-  and night and mark signs and seasons.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,96 +16,9 @@ motifs:
 - divine-rest-seventh-day-as-divergence
 - creation-in-six-days
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 2:1
-  note: 'Deity rests on the seventh day after creating, and sanctifies it [divergence between the texts]
-    (What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm haš-šəvîʿî,
-    God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā
-    ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest God sits on
-    the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness touches
-    him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'Deity rests on the seventh day after creating, and sanctifies it [divergence between the texts]
-    (What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm haš-šəvîʿî,
-    God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā
-    ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest God sits on
-    the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness touches
-    him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: islam
-  ref: Quran 7:54
-  note: 'Deity rests on the seventh day after creating, and sanctifies it [divergence between the texts]
-    (What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm haš-šəvîʿî,
-    God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā
-    ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest God sits on
-    the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness touches
-    him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ
-    مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 7:54
-  note: Creation is completed in six days (no seventh-day rest; followed by God's session on the throne)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ
-    مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 7:54
-  note: Sun and moon are set to rule day and night and mark signs and seasons (sun, moon and stars subjected
-    (musakhkharat) by his command)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ
-    مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm
-    haš-šəvîʿî, God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin
-    thumma stawā ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest
-    God sits on the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness
-    touches him.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity rests on the seventh day after creating, and sanctifies it
     [divergence between the texts] (weight 6.7); Creation is completed in six days (weight 5.2); Sun and
@@ -139,6 +50,95 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity rests on the seventh day after creating, and sanctifies it
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-7-creation-signs
+  title: Six days, the Throne, winds and rain as proof of resurrection
+  tradition: islam
+matches:
+- kind: divergence
+  label: Deity rests on the seventh day after creating, and sanctifies it
+  note: 'What follows the six days. Gen: wa-ykhullû haš-šāmayim wə-hā-ʾāreṣ ... wa-yyišbōt bay-yôm haš-šəvîʿî,
+    God rests and blesses the seventh day. Q: khalaqa l-samāwāti wa-l-arḍa fī sittati ayyāmin thumma stawā
+    ʿalā l-ʿarshi yughshī l-layla l-nahāra. The six days are kept, but in place of the rest God sits on
+    the throne and goes on governing. There is no seventh day. cf. Q 50:38, where no weariness touches
+    him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:1
+      lang: he
+      text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
+    - ref: Gen 2:2
+      lang: he
+      text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
+        הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
+    - ref: Gen 2:3
+      lang: he
+      text: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל
+        מְלַאכְתּ֔וֹ אֲשֶׁר בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 7:54
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ
+        وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ
+        ٱلْعَٰلَمِينَ
+- kind: shared
+  label: Creation is completed in six days
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:31
+      lang: he
+      text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי
+        בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי
+    - ref: Gen 2:1
+      lang: he
+      text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:54
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ
+        وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ
+        ٱلْعَٰلَمِينَ
+    note: no seventh-day rest; followed by God's session on the throne
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+    - ref: Gen 1:18
+      lang: he
+      text: וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא
+        אֱלֹהִ֖ים כִּי טֽוֹב
+    note: 'sun and moon unnamed: ''the great light'' and ''the small light'''
+  - tradition: islam
+    passages:
+    - ref: Quran 7:54
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ
+        وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ
+        ٱلْعَٰلَمِينَ
+    note: sun, moon and stars subjected (musakhkharat) by his command
 ---
 
 ## Questions

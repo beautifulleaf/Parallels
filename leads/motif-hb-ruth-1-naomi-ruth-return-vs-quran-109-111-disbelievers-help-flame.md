@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ruth-1-naomi-ruth-return-vs-quran-109-111-disbelievers-help-flame
 title: Naomi's losses in Moab and Ruth's vow of loyalty ↔ The disbelievers, the help, and the flame
-summary: 'These two units share 1 motifs: foreign daughter-in-law swears to follow her mother-in-law:
-  your people my people, your god my god [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - loyal-daughter-in-law-oath-as-contrast
-passages:
-- tradition: judaism
-  ref: Ruth 1:16
-  note: 'Foreign daughter-in-law swears to follow her mother-in-law: your people my people, your God my
-    God [contrast between the texts] (Opposite formulas of religious belonging: lakum dīnukum wa-liya
-    dīn (your religion is yours and mine is mine) ~ ʿammēk ʿammî wē-ʾlōhayik ʾĕlōhāy (your people my people,
-    your God my God). Separation against adoption.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֤אמֶר רוּת֙ אַל תִּפְגְּעִי בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל אֲשֶׁ֨ר תֵּלְכִ֜י
-    אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֨ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי
-- tradition: islam
-  ref: Quran 109:6
-  note: 'Foreign daughter-in-law swears to follow her mother-in-law: your people my people, your God my
-    God [contrast between the texts] (Opposite formulas of religious belonging: lakum dīnukum wa-liya
-    dīn (your religion is yours and mine is mine) ~ ʿammēk ʿammî wē-ʾlōhayik ʾĕlōhāy (your people my people,
-    your God my God). Separation against adoption.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَكُمْ دِينُكُمْ وَلِىَ دِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. Opposite formulas of religious belonging: lakum dīnukum wa-liya dīn (your religion is yours
-    and mine is mine) ~ ʿammēk ʿammî wē-ʾlōhayik ʾĕlōhāy (your people my people, your God my God). Separation
-    against adoption.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Foreign daughter-in-law swears to follow her mother-in-law: your
     people my people, your God my God [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -63,6 +40,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Foreign daughter-in-law swears to follow her mother-in-law: your people my people, your God
+  my God'
+kinds:
+- contrast
+units:
+- id: hb-ruth-1-naomi-ruth-return
+  title: Naomi's losses in Moab and Ruth's vow of loyalty
+  tradition: judaism
+- id: quran-109-111-disbelievers-help-flame
+  title: The disbelievers, the help, and the flame
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'Foreign daughter-in-law swears to follow her mother-in-law: your people my people, your God
+    my God'
+  note: 'Opposite formulas of religious belonging: lakum dīnukum wa-liya dīn (your religion is yours and
+    mine is mine) ~ ʿammēk ʿammî wē-ʾlōhayik ʾĕlōhāy (your people my people, your God my God). Separation
+    against adoption.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ruth 1:16
+      lang: he
+      text: וַתֹּ֤אמֶר רוּת֙ אַל תִּפְגְּעִי בִ֔י לְעָזְבֵ֖ךְ לָשׁ֣וּב מֵאַחֲרָ֑יִךְ כִּ֠י אֶל אֲשֶׁ֨ר
+        תֵּלְכִ֜י אֵלֵ֗ךְ וּבַאֲשֶׁ֤ר תָּלִ֨ינִי֙ אָלִ֔ין עַמֵּ֣ךְ עַמִּ֔י וֵאלֹהַ֖יִךְ אֱלֹהָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 109:6
+      lang: ar
+      text: لَكُمْ دِينُكُمْ وَلِىَ دِينِ
 ---
 
 ## Questions

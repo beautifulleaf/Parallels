@@ -2,9 +2,7 @@
 id: motif-hb-lev-11-dietary-laws-vs-quran-6-pagan-offerings-cattle
 title: Clean and unclean animals; carcass impurity ↔ Pagan portions and taboos; eight pairs; what is forbidden
   to all and to the Jews
-summary: 'These two units share 3 motifs: the camel is unclean because it does not have a split hoof [contrast
-  between the texts], list of clean and unclean animals: split hoof and chewing cud, the pig is unclean
-  and forbidden.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -18,86 +16,9 @@ motifs:
 - camel-forbidden-as-contrast
 - clean-unclean-animals-list
 - pork-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 11:4
-  note: 'The camel is unclean because it does not have a split hoof [contrast between the texts] (Opposite
-    rulings on the camel. Lev: ʾet-hag-gāmāl kî-maʿălēh gērāh hûʾ û-farsāh ʾênennû mafrîs ṭāmēʾ hûʾ lākhem.
-    Q lists wa-mina l-ibili thnayni among the eight lawful pairs and asks which God forbade (āl-dhakarayni
-    ḥarrama ami l-unthayayni). Then 6:145: only carrion, poured-out blood, pork and what is offered to
-    other than God are forbidden.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֤ךְ אֶת זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֖י הַפַּרְסָ֑ה אֶֽת הַ֠גָּמָל
-    כִּֽי מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם
-- tradition: islam
-  ref: Quran 6:144
-  note: 'The camel is unclean because it does not have a split hoof [contrast between the texts] (Opposite
-    rulings on the camel. Lev: ʾet-hag-gāmāl kî-maʿălēh gērāh hûʾ û-farsāh ʾênennû mafrîs ṭāmēʾ hûʾ lākhem.
-    Q lists wa-mina l-ibili thnayni among the eight lawful pairs and asks which God forbade (āl-dhakarayni
-    ḥarrama ami l-unthayayni). Then 6:145: only carrion, poured-out blood, pork and what is offered to
-    other than God are forbidden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ
-    أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ ٱللَّهُ
-    بِهَٰذَا فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ عِلْمٍ
-    إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 6:145
-  note: 'The camel is unclean because it does not have a split hoof [contrast between the texts] (Opposite
-    rulings on the camel. Lev: ʾet-hag-gāmāl kî-maʿălēh gērāh hûʾ û-farsāh ʾênennû mafrîs ṭāmēʾ hûʾ lākhem.
-    Q lists wa-mina l-ibili thnayni among the eight lawful pairs and asks which God forbade (āl-dhakarayni
-    ḥarrama ami l-unthayayni). Then 6:145: only carrion, poured-out blood, pork and what is offered to
-    other than God are forbidden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ
-    مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Lev 11:3
-  note: 'List of clean and unclean animals: split hoof and chewing cud'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ל מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֨סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ
-    תֹּאכֵֽלוּ
-- tradition: islam
-  ref: Quran 6:146
-  note: 'List of clean and unclean animals: split hoof and chewing cud (kull dhī ẓufur, ''every animal
-    with a claw/undivided hoof'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
-- tradition: judaism
-  ref: Lev 11:7
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא
-    יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
-- tradition: judaism
-  ref: Lev 11:8
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם
-- tradition: islam
-  ref: Quran 6:145
-  note: The pig is unclean and forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن يَكُونَ
-    مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite rulings on the camel. Lev: ʾet-hag-gāmāl kî-maʿălēh gērāh hûʾ û-farsāh ʾênennû
-    mafrîs ṭāmēʾ hûʾ lākhem. Q lists wa-mina l-ibili thnayni among the eight lawful pairs and asks which
-    God forbade (āl-dhakarayni ḥarrama ami l-unthayayni). Then 6:145: only carrion, poured-out blood,
-    pork and what is offered to other than God are forbidden.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The camel is unclean because it does not have a split hoof [contrast
     between the texts] (weight 6.7); List of clean and unclean animals: split hoof and chewing cud (weight
@@ -133,6 +54,80 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The camel is unclean because it does not have a split hoof
+kinds:
+- contrast
+- shared
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: contrast
+  label: The camel is unclean because it does not have a split hoof
+  note: 'Opposite rulings on the camel. Lev: ʾet-hag-gāmāl kî-maʿălēh gērāh hûʾ û-farsāh ʾênennû mafrîs
+    ṭāmēʾ hûʾ lākhem. Q lists wa-mina l-ibili thnayni among the eight lawful pairs and asks which God
+    forbade (āl-dhakarayni ḥarrama ami l-unthayayni). Then 6:145: only carrion, poured-out blood, pork
+    and what is offered to other than God are forbidden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:4
+      lang: he
+      text: אַ֤ךְ אֶת זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִֽמַּעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִיסֵ֖י הַפַּרְסָ֑ה אֶֽת הַ֠גָּמָל
+        כִּֽי מַעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:144
+      lang: ar
+      text: وَمِنَ ٱلْإِبِلِ ٱثْنَيْنِ وَمِنَ ٱلْبَقَرِ ٱثْنَيْنِ قُلْ ءَآلذَّكَرَيْنِ حَرَّمَ أَمِ ٱلْأُنثَيَيْنِ
+        أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلْأُنثَيَيْنِ أَمْ كُنتُمْ شُهَدَآءَ إِذْ وَصَّىٰكُمُ
+        ٱللَّهُ بِهَٰذَا فَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا لِّيُضِلَّ ٱلنَّاسَ بِغَيْرِ
+        عِلْمٍ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+    - ref: Quran 6:145
+      lang: ar
+      text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن
+        يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ
+        لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
+- kind: shared
+  label: 'List of clean and unclean animals: split hoof and chewing cud'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:3
+      lang: he
+      text: כֹּ֣ל מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֨סַע֙ פְּרָסֹ֔ת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ
+        תֹּאכֵֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:146
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
+        عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ
+        بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+    note: kull dhī ẓufur, 'every animal with a claw/undivided hoof'
+- kind: shared
+  label: The pig is unclean and forbidden
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:7
+      lang: he
+      text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה
+        לֹֽא יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
+    - ref: Lev 11:8
+      lang: he
+      text: מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:145
+      lang: ar
+      text: قُل لَّآ أَجِدُ فِى مَآ أُوحِىَ إِلَىَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُۥٓ إِلَّآ أَن
+        يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُۥ رِجْسٌ أَوْ فِسْقًا أُهِلَّ
+        لِغَيْرِ ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-amos-9-altar-and-booth-of-david-vs-quran-6-prophet-consoled-signs
 title: The Lord at the altar, no escape, the sieve, and the fallen booth of David ↔ The Prophet consoled;
   a ladder to the sky; animals as communities
-summary: 'These two units share 1 motifs: the paired extremes of digging into the earth and climbing to
-  the sky.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - earth-and-sky-extremes
-passages:
-- tradition: judaism
-  ref: Amos 9:2
-  note: 'The paired extremes of digging into the earth and climbing to the sky (The paired extremes ''into
-    the earth / up to the sky''. Amos: ʾim-yaḥtərû vi-šʾôl ... wə-ʾim-yaʿălû haš-šāmayim. Q: nafaqan fī
-    l-arḍi aw sullaman fī l-samāʾ. In Amos, flight from God; in Q, the Prophet''s impossible search for
-    a sign.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם אוֹרִידֵֽם
-- tradition: islam
-  ref: Quran 6:35
-  note: 'The paired extremes of digging into the earth and climbing to the sky (The paired extremes ''into
-    the earth / up to the sky''. Amos: ʾim-yaḥtərû vi-šʾôl ... wə-ʾim-yaʿălû haš-šāmayim. Q: nafaqan fī
-    l-arḍi aw sullaman fī l-samāʾ. In Amos, flight from God; in Q, the Prophet''s impossible search for
-    a sign.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ
-    أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى ٱلْهُدَىٰ
-    فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The paired extremes ''into the earth / up to the sky''. Amos: ʾim-yaḥtərû vi-šʾôl ... wə-ʾim-yaʿălû
-    haš-šāmayim. Q: nafaqan fī l-arḍi aw sullaman fī l-samāʾ. In Amos, flight from God; in Q, the Prophet''s
-    impossible search for a sign.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The paired extremes of digging into the earth and climbing to the
     sky (weight 6.3). Pair score 6.3.'
@@ -77,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The paired extremes of digging into the earth and climbing to the sky
+kinds:
+- echo
+units:
+- id: hb-amos-9-altar-and-booth-of-david
+  title: The Lord at the altar, no escape, the sieve, and the fallen booth of David
+  tradition: judaism
+- id: quran-6-prophet-consoled-signs
+  title: The Prophet consoled; a ladder to the sky; animals as communities
+  tradition: islam
+matches:
+- kind: echo
+  label: The paired extremes of digging into the earth and climbing to the sky
+  note: 'The paired extremes ''into the earth / up to the sky''. Amos: ʾim-yaḥtərû vi-šʾôl ... wə-ʾim-yaʿălû
+    haš-šāmayim. Q: nafaqan fī l-arḍi aw sullaman fī l-samāʾ. In Amos, flight from God; in Q, the Prophet''s
+    impossible search for a sign.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 9:2
+      lang: he
+      text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם
+        אוֹרִידֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 6:35
+      lang: ar
+      text: وَإِن كَانَ كَبُرَ عَلَيْكَ إِعْرَاضُهُمْ فَإِنِ ٱسْتَطَعْتَ أَن تَبْتَغِىَ نَفَقًا فِى ٱلْأَرْضِ
+        أَوْ سُلَّمًا فِى ٱلسَّمَآءِ فَتَأْتِيَهُم بِـَٔايَةٍ وَلَوْ شَآءَ ٱللَّهُ لَجَمَعَهُمْ عَلَى
+        ٱلْهُدَىٰ فَلَا تَكُونَنَّ مِنَ ٱلْجَٰهِلِينَ
 ---
 
 ## Questions

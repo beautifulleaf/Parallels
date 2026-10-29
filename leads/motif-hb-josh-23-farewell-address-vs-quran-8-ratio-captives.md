@@ -2,7 +2,7 @@
 id: motif-hb-josh-23-farewell-address-vs-quran-8-ratio-captives
 title: Joshua's farewell warning against intermarriage and foreign gods ↔ The ratio of the steadfast,
   captives and ransom
-summary: 'These two units share 1 motifs: one chases a thousand and two put ten thousand to flight.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - one-chases-a-thousand
-passages:
-- tradition: judaism
-  ref: Josh 23:10
-  note: One chases a thousand and two put ten thousand to flight
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִישׁ אֶחָ֥ד מִכֶּ֖ם יִרְדָּף אָ֑לֶף כִּ֣י יְהוָ֣ה אֱלֹהֵיכֶ֗ם ה֚וּא הַנִּלְחָ֣ם לָכֶ֔ם כַּאֲשֶׁ֖ר
-    דִּבֶּ֥ר לָכֶֽם
-- tradition: islam
-  ref: Quran 8:65
-  note: One chases a thousand and two put ten thousand to flight (ʾîš-ʾeḥād mikkem yirdop-ʾālep kî YHWH
-    ʾĕlōhêkem hûʾ hannilḥām lākem vs in yakun minkum miʾatun yaghlibū alfan ... bi-ʾidhni llāh (8:66).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ صَٰبِرُونَ
-    يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ كَفَرُوا۟
-    بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. ʾîš-ʾeḥād mikkem yirdop-ʾālep kî YHWH ʾĕlōhêkem hûʾ hannilḥām lākem vs in yakun minkum miʾatun
-    yaghlibū alfan ... bi-ʾidhni llāh (8:66).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One chases a thousand and two put ten thousand to flight (weight
     6.0). Pair score 6.0.'
@@ -63,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One chases a thousand and two put ten thousand to flight
+kinds:
+- parallel
+units:
+- id: hb-josh-23-farewell-address
+  title: Joshua's farewell warning against intermarriage and foreign gods
+  tradition: judaism
+- id: quran-8-ratio-captives
+  title: The ratio of the steadfast, captives and ransom
+  tradition: islam
+matches:
+- kind: parallel
+  label: One chases a thousand and two put ten thousand to flight
+  note: ʾîš-ʾeḥād mikkem yirdop-ʾālep kî YHWH ʾĕlōhêkem hûʾ hannilḥām lākem vs in yakun minkum miʾatun
+    yaghlibū alfan ... bi-ʾidhni llāh (8:66).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 23:10
+      lang: he
+      text: אִישׁ אֶחָ֥ד מִכֶּ֖ם יִרְדָּף אָ֑לֶף כִּ֣י יְהוָ֣ה אֱלֹהֵיכֶ֗ם ה֚וּא הַנִּלְחָ֣ם לָכֶ֔ם כַּאֲשֶׁ֖ר
+        דִּבֶּ֥ר לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:65
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ حَرِّضِ ٱلْمُؤْمِنِينَ عَلَى ٱلْقِتَالِ إِن يَكُن مِّنكُمْ عِشْرُونَ
+        صَٰبِرُونَ يَغْلِبُوا۟ مِا۟ئَتَيْنِ وَإِن يَكُن مِّنكُم مِّا۟ئَةٌ يَغْلِبُوٓا۟ أَلْفًا مِّنَ ٱلَّذِينَ
+        كَفَرُوا۟ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-4-evening-trust-vs-quran-93-94-forenoon-and-expansion
 title: 'Psalm 4 - evening prayer of trust ↔ The forenoon and the expansion: the orphan prophet consoled'
-summary: 'These two units share 1 motifs: truly with hardship comes ease (repeated twice).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,31 +13,9 @@ layers:
 - motif
 motifs:
 - with-hardship-comes-ease
-passages:
-- tradition: judaism
-  ref: Ps 4:2
-  note: 'Truly with hardship comes ease (repeated twice) (a-lam nashraḥ laka ṣadrak ... fa-inna maʿa l-ʿusri
-    yusrā ~ ba-ṣṣār hirḥavtā llî: ''in distress you made room for me''; widening (sharaḥa ~ hirḥîv) in
-    narrowness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּקָרְאִ֡י עֲנֵ֤נִי אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חָ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי
-- tradition: islam
-  ref: Quran 94:5
-  note: Truly with hardship comes ease (repeated twice)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
-- tradition: islam
-  ref: Quran 94:6
-  note: Truly with hardship comes ease (repeated twice)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-lam nashraḥ laka ṣadrak ... fa-inna maʿa l-ʿusri yusrā ~ ba-ṣṣār hirḥavtā llî: ''in distress
-    you made room for me''; widening (sharaḥa ~ hirḥîv) in narrowness.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Truly with hardship comes ease (repeated twice) (weight 6.7). Pair
     score 6.7.'
@@ -64,6 +42,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Truly with hardship comes ease (repeated twice)
+kinds:
+- echo
+units:
+- id: hb-ps-4-evening-trust
+  title: Psalm 4 - evening prayer of trust
+  tradition: judaism
+- id: quran-93-94-forenoon-and-expansion
+  title: 'The forenoon and the expansion: the orphan prophet consoled'
+  tradition: islam
+matches:
+- kind: echo
+  label: Truly with hardship comes ease (repeated twice)
+  note: 'a-lam nashraḥ laka ṣadrak ... fa-inna maʿa l-ʿusri yusrā ~ ba-ṣṣār hirḥavtā llî: ''in distress
+    you made room for me''; widening (sharaḥa ~ hirḥîv) in narrowness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 4:2
+      lang: he
+      text: בְּקָרְאִ֡י עֲנֵ֤נִי אֱלֹ֘הֵ֤י צִדְקִ֗י בַּ֭צָּר הִרְחַ֣בְתָּ לִּ֑י חָ֝נֵּ֗נִי וּשְׁמַ֥ע תְּפִלָּתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 94:1
+      lang: ar
+      text: أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ
+    - ref: Quran 94:5
+      lang: ar
+      text: فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
+    - ref: Quran 94:6
+      lang: ar
+      text: إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا
 ---
 
 ## Questions

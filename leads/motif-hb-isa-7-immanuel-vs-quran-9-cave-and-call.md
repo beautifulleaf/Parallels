@@ -2,8 +2,7 @@
 id: motif-hb-isa-7-immanuel-vs-quran-9-cave-and-call
 title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign ↔ The call to go forth; the second of two
   in the cave
-summary: 'These two units share 1 motifs: sign: the young woman (''almah) is pregnant and will bear a
-  son and call his name immanuel (''god with us'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - immanuel-sign
-passages:
-- tradition: judaism
-  ref: Isa 7:14
-  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
-    with us'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
-    שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
-- tradition: islam
-  ref: Quran 9:40
-  note: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
-    with us'') (Same phrase of assurance: lā taḥzan inna llāha maʿanā (''God is with us'') vs wᵉqārāʾt
-    šᵉmô ʿimmānû ʾēl. In Isa it is the name in a sign given to a king under threat; in Q the prophet comforts
-    his companion in the cave.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
-    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
-    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
-    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Same phrase of assurance: lā taḥzan inna llāha maʿanā (''God is with us'') vs wᵉqārāʾt šᵉmô
-    ʿimmānû ʾēl. In Isa it is the name in a sign given to a king under threat; in Q the prophet comforts
-    his companion in the cave.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sign: the young woman (''almah) is pregnant and will bear a son
     and call his name Immanuel (''God with us'') (weight 6.3). Pair score 6.3.'
@@ -74,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+  with us'')'
+kinds:
+- echo
+units:
+- id: hb-isa-7-immanuel
+  title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Sign: the young woman (''almah) is pregnant and will bear a son and call his name Immanuel (''God
+    with us'')'
+  note: 'Same phrase of assurance: lā taḥzan inna llāha maʿanā (''God is with us'') vs wᵉqārāʾt šᵉmô ʿimmānû
+    ʾēl. In Isa it is the name in a sign given to a king under threat; in Q the prophet comforts his companion
+    in the cave.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 7:14
+      lang: he
+      text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
+        שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 9:40
+      lang: ar
+      text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+        إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ
+        ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ
+        كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

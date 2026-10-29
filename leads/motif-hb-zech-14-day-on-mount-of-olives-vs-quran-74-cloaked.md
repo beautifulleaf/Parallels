@@ -2,8 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-74-cloaked
 title: 'The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ The cloaked one:
   the call, the opponent, and the nineteen'
-summary: 'These two units share 1 motifs: the day of yhwh: a coming day of divine judgment, terror and
-  darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Zech 14:1
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֥ה יֽוֹם בָּ֖א לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ
-- tradition: islam
-  ref: Quran 74:9
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
-- tradition: islam
-  ref: Quran 74:10
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yawmun ʿasīr ~ hinnēh yôm bāʾ la-YHWH.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
     (weight 5.0). Pair score 5.0.'
@@ -78,6 +56,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+kinds:
+- echo
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  note: yawmun ʿasīr ~ hinnēh yôm bāʾ la-YHWH.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:1
+      lang: he
+      text: הִנֵּ֥ה יֽוֹם בָּ֖א לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 74:9
+      lang: ar
+      text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
 ---
 
 ## Questions

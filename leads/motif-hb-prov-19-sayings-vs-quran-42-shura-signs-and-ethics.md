@@ -2,8 +2,7 @@
 id: motif-hb-prov-19-sayings-vs-quran-42-shura-signs-and-ethics
 title: Sayings on the poor, the king's wrath and the sluggard ↔ Provision in measure, rain, ships like
   mountains and the ethics of consultation and pardon
-summary: 'These two units share 1 motifs: whatever misfortune strikes people is for what their own hands
-  have earned, though god pardons much.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - misfortune-from-own-hands
-passages:
-- tradition: judaism
-  ref: Prov 19:3
-  note: Whatever misfortune strikes people is for what their own hands have earned, though God pardons
-    much (ʾiwwelet ʾāḏām təsallēp̄ darkô wə-ʿal YHWH yizʿap̄ libbô (a man's folly ruins his way, and his
-    heart rages against YHWH) vs. wa-mā aṣābakum min muṣībatin fa-bi-mā kasabat aydīkum wa-yaʿfū ʿan kathīr.
-    Both place the blame on man, not God; the Quran adds that God pardons much.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִוֶּ֣לֶת אָ֭דָם תְּסַלֵּ֣ף דַּרְכּ֑וֹ וְעַל יְ֝הוָ֗ה יִזְעַ֥ף לִבּֽוֹ
-- tradition: islam
-  ref: Quran 42:30
-  note: Whatever misfortune strikes people is for what their own hands have earned, though God pardons
-    much
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. ʾiwwelet ʾāḏām təsallēp̄ darkô wə-ʿal YHWH yizʿap̄ libbô (a man''s folly ruins his way, and
-    his heart rages against YHWH) vs. wa-mā aṣābakum min muṣībatin fa-bi-mā kasabat aydīkum wa-yaʿfū ʿan
-    kathīr. Both place the blame on man, not God; the Quran adds that God pardons much.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whatever misfortune strikes people is for what their own hands have
     earned, though God pardons much (weight 6.7). Pair score 6.7.'
@@ -73,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whatever misfortune strikes people is for what their own hands have earned, though God pardons
+  much
+kinds:
+- echo
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: echo
+  label: Whatever misfortune strikes people is for what their own hands have earned, though God pardons
+    much
+  note: ʾiwwelet ʾāḏām təsallēp̄ darkô wə-ʿal YHWH yizʿap̄ libbô (a man's folly ruins his way, and his
+    heart rages against YHWH) vs. wa-mā aṣābakum min muṣībatin fa-bi-mā kasabat aydīkum wa-yaʿfū ʿan kathīr.
+    Both place the blame on man, not God; the Quran adds that God pardons much.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:3
+      lang: he
+      text: אִוֶּ֣לֶת אָ֭דָם תְּסַלֵּ֣ף דַּרְכּ֑וֹ וְעַל יְ֝הוָ֗ה יִזְעַ֥ף לִבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:30
+      lang: ar
+      text: وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُوا۟ عَن كَثِيرٍ
 ---
 
 ## Questions

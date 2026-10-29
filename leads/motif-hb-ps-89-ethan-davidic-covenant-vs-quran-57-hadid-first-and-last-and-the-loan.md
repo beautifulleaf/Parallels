@@ -2,8 +2,7 @@
 id: motif-hb-ps-89-ethan-davidic-covenant-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Psalm 89, Ethan''s hymn of the divine council, Rahab crushed, and the broken Davidic covenant
   ↔ Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: opening formula: whatever is in the heavens and the earth glorifies
-  god (sabbaha / yusabbihu lillah).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - all-in-heavens-and-earth-glorify-god
-passages:
-- tradition: judaism
-  ref: Ps 89:12
-  note: 'Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
-    lillah) (ləḵā šāmayim ʾap̄ ləḵā ʾāreṣ tēḇēl û-məlōʾāh ʾattâ yəsaḏtām vs. sabbaḥa li-llāhi mā fī s-samāwāti
-    wa-l-arḍ ... lahu mulku s-samāwāti wa-l-arḍ: heaven and earth belong to God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ שָׁ֭מַיִם אַף לְךָ֥ אָ֑רֶץ תֵּבֵ֥ל וּ֝מְלֹאָ֗הּ אַתָּ֥ה יְסַדְתָּֽם
-- tradition: islam
-  ref: Quran 57:1
-  note: 'Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
-    lillah)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-- tradition: islam
-  ref: Quran 57:2
-  note: 'Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
-    lillah)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. ləḵā šāmayim ʾap̄ ləḵā ʾāreṣ tēḇēl û-məlōʾāh ʾattâ yəsaḏtām vs. sabbaḥa li-llāhi mā fī s-samāwāti
-    wa-l-arḍ ... lahu mulku s-samāwāti wa-l-arḍ: heaven and earth belong to God.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opening formula: whatever is in the heavens and the earth glorifies
     God (sabbaha / yusabbihu lillah) (weight 5.4). Pair score 5.4.'
@@ -79,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
+  lillah)'
+kinds:
+- echo
+units:
+- id: hb-ps-89-ethan-davidic-covenant
+  title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Opening formula: whatever is in the heavens and the earth glorifies God (sabbaha / yusabbihu
+    lillah)'
+  note: 'ləḵā šāmayim ʾap̄ ləḵā ʾāreṣ tēḇēl û-məlōʾāh ʾattâ yəsaḏtām vs. sabbaḥa li-llāhi mā fī s-samāwāti
+    wa-l-arḍ ... lahu mulku s-samāwāti wa-l-arḍ: heaven and earth belong to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 89:12
+      lang: he
+      text: לְךָ֣ שָׁ֭מַיִם אַף לְךָ֥ אָ֑רֶץ תֵּבֵ֥ל וּ֝מְלֹאָ֗הּ אַתָּ֥ה יְסַדְתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 57:1
+      lang: ar
+      text: سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    - ref: Quran 57:2
+      lang: ar
+      text: لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

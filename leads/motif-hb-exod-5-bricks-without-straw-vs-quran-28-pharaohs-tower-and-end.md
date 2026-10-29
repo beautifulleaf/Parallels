@@ -2,8 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-28-pharaohs-tower-and-end
 title: First audience with Pharaoh; bricks without straw ↔ Pharaoh, 'no god but me', Haman's tower of
   fired brick, and the drowning
-summary: 'These two units share 1 motifs: pharaoh''s question about, or claim to know, the god of moses
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - pharaohs-question-about-the-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]
-    (Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā
-    rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt
-    will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth,
-    your Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad
-    (la-majnūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 28:38
-  note: 'Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]
-    (Pharaoh''s knowledge of the god: lōʾ yādaʿtî ʾet YHWH, ''I do not know YHWH'' (ignorance of a foreign
-    god) ~ mā ʿalimtu lakum min ilāhin ghayrī, ''I know of no god for you other than me'' (Pharaoh''s
-    self-deification).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
-    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
-    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Pharaoh''s knowledge of the god: lōʾ yādaʿtî ʾet YHWH, ''I do not know YHWH'' (ignorance
-    of a foreign god) ~ mā ʿalimtu lakum min ilāhin ghayrī, ''I know of no god for you other than me''
-    (Pharaoh''s self-deification).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh''s question about, or claim to know, the god of Moses [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -77,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh's question about, or claim to know, the god of Moses
+kinds:
+- divergence
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh's question about, or claim to know, the god of Moses
+  note: 'Pharaoh''s knowledge of the god: lōʾ yādaʿtî ʾet YHWH, ''I do not know YHWH'' (ignorance of a
+    foreign god) ~ mā ʿalimtu lakum min ilāhin ghayrī, ''I know of no god for you other than me'' (Pharaoh''s
+    self-deification).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:38
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+        لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+        وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 ---
 
 ## Questions

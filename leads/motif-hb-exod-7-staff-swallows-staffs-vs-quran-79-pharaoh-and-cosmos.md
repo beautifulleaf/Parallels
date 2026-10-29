@@ -2,9 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-79-pharaoh-and-cosmos
 title: 'Moses as god to Pharaoh; Aaron''s staff becomes a tannin and swallows the magicians'' staffs ↔
   Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
-  god) so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,77 +15,9 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 7:3
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 79:20
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay
-    (God hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā
-    thumma adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself
-    denies, disobeys and turns away; no divine hardening.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
-- tradition: islam
-  ref: Quran 79:21
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay
-    (God hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā
-    thumma adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself
-    denies, disobeys and turns away; no divine hardening.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
-- tradition: judaism
-  ref: Exod 7:3
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 79:20
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
-- tradition: islam
-  ref: Quran 79:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    the greatest sign, he denied and disobeyed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay (God
-    hardens him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā thumma
-    adbara yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself denies,
-    disobeys and turns away; no divine hardening.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
@@ -127,6 +57,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- divergence
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  note: 'Who hardens Pharaoh: Exod 7:3 wa-ʾănî ʾaqšeh ʾet lēv parʿōh we-hirbêtî ʾet ʾōtōtay (God hardens
+    him, to multiply his signs). Q 79:20-22 fa-arāhu l-āyata l-kubrā fa-kadhdhaba wa-ʿaṣā thumma adbara
+    yasʿā: shown the greatest sign (cf. the staff become tannîn, Exod 7:10), Pharaoh himself denies, disobeys
+    and turns away; no divine hardening.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 7:10
+      lang: he
+      text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
+        אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
+  - tradition: islam
+    passages:
+    - ref: Quran 79:20
+      lang: ar
+      text: فَأَرَىٰهُ ٱلْءَايَةَ ٱلْكُبْرَىٰ
+    - ref: Quran 79:21
+      lang: ar
+      text: فَكَذَّبَ وَعَصَىٰ
+    - ref: Quran 79:22
+      lang: ar
+      text: ثُمَّ أَدْبَرَ يَسْعَىٰ
 ---
 
 ## Questions

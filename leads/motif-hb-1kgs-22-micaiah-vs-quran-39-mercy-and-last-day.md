@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-22-micaiah-vs-quran-39-mercy-and-last-day
 title: Micaiah son of Imlah and the lying spirit ↔ Do not despair of mercy; the earth in God's grip; the
   throngs to hell and Garden
-summary: 'These two units share 1 motifs: prophet sees god seated on his throne with all the host of heaven
-  standing to his right and left.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - vision-of-god-enthroned-with-host-of-heaven
-passages:
-- tradition: judaism
-  ref: 1Kgs 22:19
-  note: Prophet sees God seated on his throne with all the host of heaven standing to his right and left
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל צְבָ֤א
-    הַשָּׁמַ֨יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ
-- tradition: islam
-  ref: Quran 39:75
-  note: Prophet sees God seated on his throne with all the host of heaven standing to his right and left
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ
-    بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. rāʾîṯî ʾeṯ-YHWH yōšēḇ ʿal-kisʾô wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw mî-mînô û-miś-śəmōʾlô
-    vs. wa-tarā l-malāʾikata ḥāffīna min ḥawli l-ʿarshi yusabbiḥūna bi-ḥamdi rabbihim: the throne surrounded
-    by the host. In Kings it is a council deliberating deception; in the Quran a choir of praise closing
-    the judgment (wa-qīla l-ḥamdu li-llāhi rabbi l-ʿālamīn).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet sees God seated on his throne with all the host of heaven
     standing to his right and left (weight 6.7). Pair score 6.7.'
@@ -74,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet sees God seated on his throne with all the host of heaven standing to his right and left
+kinds:
+- parallel
+units:
+- id: hb-1kgs-22-micaiah
+  title: Micaiah son of Imlah and the lying spirit
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prophet sees God seated on his throne with all the host of heaven standing to his right and left
+  note: 'rāʾîṯî ʾeṯ-YHWH yōšēḇ ʿal-kisʾô wə-ḵol-ṣəḇāʾ ha-ššāmayim ʿōmēḏ ʿālâw mî-mînô û-miś-śəmōʾlô vs.
+    wa-tarā l-malāʾikata ḥāffīna min ḥawli l-ʿarshi yusabbiḥūna bi-ḥamdi rabbihim: the throne surrounded
+    by the host. In Kings it is a council deliberating deception; in the Quran a choir of praise closing
+    the judgment (wa-qīla l-ḥamdu li-llāhi rabbi l-ʿālamīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 22:19
+      lang: he
+      text: וַיֹּ֕אמֶר לָכֵ֖ן שְׁמַ֣ע דְּבַר יְהוָ֑ה רָאִ֤יתִי אֶת יְהוָה֙ יֹשֵׁ֣ב עַל כִּסְא֔וֹ וְכָל
+        צְבָ֤א הַשָּׁמַ֨יִם֙ עֹמֵ֣ד עָלָ֔יו מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:75
+      lang: ar
+      text: وَتَرَى ٱلْمَلَٰٓئِكَةَ حَآفِّينَ مِنْ حَوْلِ ٱلْعَرْشِ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَقُضِىَ
+        بَيْنَهُم بِٱلْحَقِّ وَقِيلَ ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

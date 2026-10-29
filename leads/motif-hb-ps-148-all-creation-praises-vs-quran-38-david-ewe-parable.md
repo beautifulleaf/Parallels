@@ -2,7 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-38-david-ewe-parable
 title: Psalm 148, praise from heaven and earth ↔ David's mountains, the two litigants and the ninety-nine
   ewes
-summary: 'These two units share 1 motifs: mountains and birds are made to glorify god together with david.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - mountains-and-birds-praise-with-david
-passages:
-- tradition: judaism
-  ref: Ps 148:9
-  note: Mountains and birds are made to glorify God together with David (he-hārîm wə-ḵol-gəḇāʿôṯ ... remeś
-    wə-ṣippôr kānāp̄ (mountains and winged birds called to praise) vs. yā-jibālu awwibī maʿahu wa-ṭ-ṭayra.
-    The same pair, mountains and birds, praises God. The psalm calls on them in its own voice; the Quran
-    makes them echo David's praise (awwibī maʿahu).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
-- tradition: judaism
-  ref: Ps 148:10
-  note: Mountains and birds are made to glorify God together with David (he-hārîm wə-ḵol-gəḇāʿôṯ ... remeś
-    wə-ṣippôr kānāp̄ (mountains and winged birds called to praise) vs. yā-jibālu awwibī maʿahu wa-ṭ-ṭayra.
-    The same pair, mountains and birds, praises God. The psalm calls on them in its own voice; the Quran
-    makes them echo David's praise (awwibī maʿahu).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
-- tradition: islam
-  ref: Quran 38:18
-  note: Mountains and birds are made to glorify God together with David (at evening and sunrise)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ
-- tradition: islam
-  ref: Quran 38:19
-  note: Mountains and birds are made to glorify God together with David (at evening and sunrise)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ لَّهُۥٓ أَوَّابٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. he-hārîm ... wə-ṣippôr kānāp̄ vs. innā sakhkharnā l-jibāla maʿahu yusabbiḥna bi-l-ʿashiyyi wa-l-ishrāq
-    wa-ṭ-ṭayra maḥshūratan: mountains and birds join in praise (cf. Q 34:10 above).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mountains and birds are made to glorify God together with David
     (weight 6.0). Pair score 6.0.'
@@ -85,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mountains and birds are made to glorify God together with David
+kinds:
+- echo
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: echo
+  label: Mountains and birds are made to glorify God together with David
+  note: 'he-hārîm ... wə-ṣippôr kānāp̄ vs. innā sakhkharnā l-jibāla maʿahu yusabbiḥna bi-l-ʿashiyyi wa-l-ishrāq
+    wa-ṭ-ṭayra maḥshūratan: mountains and birds join in praise (cf. Q 34:10 above).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:9
+      lang: he
+      text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
+    - ref: Ps 148:10
+      lang: he
+      text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 38:18
+      lang: ar
+      text: إِنَّا سَخَّرْنَا ٱلْجِبَالَ مَعَهُۥ يُسَبِّحْنَ بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ
+    - ref: Quran 38:19
+      lang: ar
+      text: وَٱلطَّيْرَ مَحْشُورَةً كُلٌّ لَّهُۥٓ أَوَّابٌ
 ---
 
 ## Questions

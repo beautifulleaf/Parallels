@@ -2,7 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Psalm 78, Asaph''s historical recital from Egypt to David ↔ Moses before Pharaoh: the laughing
   courtiers, the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 1 motifs: the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,23 +15,9 @@ layers:
 - motif
 motifs:
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 43:55
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. wə-ʾeṯ ʾôyəḇêhem kissâ hay-yām vs. fa-aghraqnāhum ajmaʿīn: the drowning of the Egyptian
-    pursuers as a one-line recital.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
     4.5). Pair score 4.5.'
@@ -70,6 +56,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- parallel
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'wə-ʾeṯ ʾôyəḇêhem kissâ hay-yām vs. fa-aghraqnāhum ajmaʿīn: the drowning of the Egyptian pursuers
+    as a one-line recital.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:55
+      lang: ar
+      text: فَلَمَّآ ءَاسَفُونَا ٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ أَجْمَعِينَ
 ---
 
 ## Questions

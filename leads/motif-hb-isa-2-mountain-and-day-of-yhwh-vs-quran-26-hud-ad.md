@@ -2,8 +2,7 @@
 id: motif-hb-isa-2-mountain-and-day-of-yhwh-vs-quran-26-hud-ad
 title: The mountain of the Lord's house; the Day of YHWH against all that is proud ↔ Hud and the monument-building
   people of Ad
-summary: 'These two units share 1 motifs: the day of yhwh: a coming day of divine judgment, terror and
-  darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Isa 2:12
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י י֞וֹם לַיהוָ֧ה צְבָא֛וֹת עַ֥ל כָּל גֵּאֶ֖ה וָרָ֑ם וְעַ֖ל כָּל נִשָּׂ֥א וְשָׁפֵֽל
-- tradition: judaism
-  ref: Isa 2:14
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַ֖ל כָּל הֶהָרִ֣ים הָרָמִ֑ים וְעַ֖ל כָּל הַגְּבָע֥וֹת הַנִּשָּׂאֽוֹת
-- tradition: islam
-  ref: Quran 26:128
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (a-tabnūna bi-kulli rīʿin
-    āyatan ... innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin ~ kî yôm la-YHWH ṣəvāʾôt ʿal kol gēʾeh wā-rām
-    ... wə-ʿal kol he-hārîm hā-rāmîm ... wə-ʿal kol migdāl gāvōah: a day of judgment against the buildings
-    on every height.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
-- tradition: islam
-  ref: Quran 26:135
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (a-tabnūna bi-kulli rīʿin
-    āyatan ... innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin ~ kî yôm la-YHWH ṣəvāʾôt ʿal kol gēʾeh wā-rām
-    ... wə-ʿal kol he-hārîm hā-rāmîm ... wə-ʿal kol migdāl gāvōah: a day of judgment against the buildings
-    on every height.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-tabnūna bi-kulli rīʿin āyatan ... innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin ~ kî yôm la-YHWH
-    ṣəvāʾôt ʿal kol gēʾeh wā-rām ... wə-ʿal kol he-hārîm hā-rāmîm ... wə-ʿal kol migdāl gāvōah: a day
-    of judgment against the buildings on every height.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
     (weight 5.0). Pair score 5.0.'
@@ -86,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+kinds:
+- echo
+units:
+- id: hb-isa-2-mountain-and-day-of-yhwh
+  title: The mountain of the Lord's house; the Day of YHWH against all that is proud
+  tradition: judaism
+- id: quran-26-hud-ad
+  title: Hud and the monument-building people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  note: 'a-tabnūna bi-kulli rīʿin āyatan ... innī akhāfu ʿalaykum ʿadhāba yawmin ʿaẓīmin ~ kî yôm la-YHWH
+    ṣəvāʾôt ʿal kol gēʾeh wā-rām ... wə-ʿal kol he-hārîm hā-rāmîm ... wə-ʿal kol migdāl gāvōah: a day
+    of judgment against the buildings on every height.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 2:12
+      lang: he
+      text: כִּ֣י י֞וֹם לַיהוָ֧ה צְבָא֛וֹת עַ֥ל כָּל גֵּאֶ֖ה וָרָ֑ם וְעַ֖ל כָּל נִשָּׂ֥א וְשָׁפֵֽל
+    - ref: Isa 2:14
+      lang: he
+      text: וְעַ֖ל כָּל הֶהָרִ֣ים הָרָמִ֑ים וְעַ֖ל כָּל הַגְּבָע֥וֹת הַנִּשָּׂאֽוֹת
+    - ref: Isa 2:15
+      lang: he
+      text: וְעַ֖ל כָּל מִגְדָּ֣ל גָּבֹ֑הַ וְעַ֖ל כָּל חוֹמָ֥ה בְצוּרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:128
+      lang: ar
+      text: أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ
+    - ref: Quran 26:135
+      lang: ar
+      text: إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ
 ---
 
 ## Questions

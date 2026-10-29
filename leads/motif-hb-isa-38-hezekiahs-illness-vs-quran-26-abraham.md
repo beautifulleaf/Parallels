@@ -2,8 +2,7 @@
 id: motif-hb-isa-38-hezekiahs-illness-vs-quran-26-abraham
 title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm ↔ Abraham's argument
   against idols and his prayer
-summary: 'These two units share 1 motifs: on that day neither wealth nor sons avail, only one who comes
-  to god with a sound heart.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - sound-heart-alone-avails
-passages:
-- tradition: judaism
-  ref: Isa 38:3
-  note: 'On that day neither wealth nor sons avail, only one who comes to God with a sound heart (illā
-    man atā llāha bi-qalbin salīmin ~ hithallakhtî ləfānêkā be-ʾĕmet û-və-lēv šālēm: a whole heart (cognate
-    qalb salīm / lēv šālēm) as what counts before God; Hezekiah cites it in his plea for life, Abraham
-    as the only thing that avails at the resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ זְכָר נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵ֣ב
-    שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל
-- tradition: islam
-  ref: Quran 26:88
-  note: On that day neither wealth nor sons avail, only one who comes to God with a sound heart
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ
-- tradition: islam
-  ref: Quran 26:89
-  note: On that day neither wealth nor sons avail, only one who comes to God with a sound heart
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. illā man atā llāha bi-qalbin salīmin ~ hithallakhtî ləfānêkā be-ʾĕmet û-və-lēv šālēm: a whole
-    heart (cognate qalb salīm / lēv šālēm) as what counts before God; Hezekiah cites it in his plea for
-    life, Abraham as the only thing that avails at the resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day neither wealth nor sons avail, only one who comes to
     God with a sound heart (weight 6.7). Pair score 6.7.'
@@ -80,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day neither wealth nor sons avail, only one who comes to God with a sound heart
+kinds:
+- echo
+units:
+- id: hb-isa-38-hezekiahs-illness
+  title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: On that day neither wealth nor sons avail, only one who comes to God with a sound heart
+  note: 'illā man atā llāha bi-qalbin salīmin ~ hithallakhtî ləfānêkā be-ʾĕmet û-və-lēv šālēm: a whole
+    heart (cognate qalb salīm / lēv šālēm) as what counts before God; Hezekiah cites it in his plea for
+    life, Abraham as the only thing that avails at the resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:3
+      lang: he
+      text: וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ זְכָר נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙
+        וּבְלֵ֣ב שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל
+  - tradition: islam
+    passages:
+    - ref: Quran 26:89
+      lang: ar
+      text: إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ
 ---
 
 ## Questions

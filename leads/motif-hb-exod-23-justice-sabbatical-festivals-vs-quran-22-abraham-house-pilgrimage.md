@@ -2,9 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-22-abraham-house-pilgrimage
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ Abraham, the Ancient House
   and the rites of pilgrimage and sacrifice
-summary: 'These two units share 3 motifs: who must make pilgrimage to the sanctuary, and how often [divergence
-  between the texts], do not invoke the names of other gods, three annual pilgrimage festivals when every
-  male appears before god.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,112 +18,9 @@ motifs:
 - pilgrimage-festival-calendar-as-divergence
 - do-not-mention-other-gods-names
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 23:14
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
-- tradition: judaism
-  ref: Exod 23:17
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: islam
-  ref: Quran 22:27
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
-- tradition: judaism
-  ref: Exod 23:13
-  note: Do not invoke the names of other gods
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְכֹ֛ל אֲשֶׁר אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ
-    לֹ֥א יִשָּׁמַ֖ע עַל פִּֽיךָ
-- tradition: islam
-  ref: Quran 22:30
-  note: Do not invoke the names of other gods (shun the filth of idols and false speech)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ وَأُحِلَّتْ لَكُمُ
-    ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَٰنِ وَٱجْتَنِبُوا۟
-    قَوْلَ ٱلزُّورِ
-- tradition: islam
-  ref: Quran 22:31
-  note: Do not invoke the names of other gods (shun the filth of idols and false speech)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ ٱلسَّمَآءِ
-    فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ
-- tradition: judaism
-  ref: Exod 23:14-17
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֣ת
-    יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי ב֖וֹ יָצָ֣אתָ
-    מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר
-    תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה
-    (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
-- tradition: judaism
-  ref: Exod 23:14
-  note: Three annual pilgrimage festivals when every male appears before God (Matzot, Harvest, Ingathering)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
-- tradition: islam
-  ref: Quran 22:27
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. waʾadhdhin fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj
-    / ḥāgag. Exodus: three festivals a year, kol zəkûrkā ''every male of yours'' appears before ''the
-    Lord YHWH''; Quran: one pilgrimage proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot
-    and on lean camels from every deep ravine, on ''known days'' (ayyām maʿlūmāt). fa-jtanibū r-rijsa
-    mina l-awthāni ... ḥunafāʾa lillāhi ghayra mushrikīna bihi ~ wə-šēm ʾĕlōhîm ʾăḥērîm lōʾ tazkîrû: in
-    both the festival law is framed by the ban on other gods; Exodus forbids mentioning their names (hizkîr),
-    the Quran commands mentioning God''s name (dhikr ismi llāh, 22:28, 22:34, 22:36).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who must make pilgrimage to the sanctuary, and how often [divergence
     between the texts] (weight 6.3); Do not invoke the names of other gods (weight 6.3); Three annual
@@ -163,6 +58,98 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who must make pilgrimage to the sanctuary, and how often
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who must make pilgrimage to the sanctuary, and how often
+  note: 'waʾadhdhin fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus:
+    three festivals a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran:
+    one pilgrimage proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels
+    from every deep ravine, on ''known days'' (ayyām maʿlūmāt).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:14
+      lang: he
+      text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+- kind: parallel
+  label: Do not invoke the names of other gods
+  note: 'fa-jtanibū r-rijsa mina l-awthāni ... ḥunafāʾa lillāhi ghayra mushrikīna bihi ~ wə-šēm ʾĕlōhîm
+    ʾăḥērîm lōʾ tazkîrû: in both the festival law is framed by the ban on other gods; Exodus forbids mentioning
+    their names (hizkîr), the Quran commands mentioning God''s name (dhikr ismi llāh, 22:28, 22:34, 22:36).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:13
+      lang: he
+      text: וּבְכֹ֛ל אֲשֶׁר אָמַ֥רְתִּי אֲלֵיכֶ֖ם תִּשָּׁמֵ֑רוּ וְשֵׁ֨ם אֱלֹהִ֤ים אֲחֵרִים֙ לֹ֣א תַזְכִּ֔ירוּ
+        לֹ֥א יִשָּׁמַ֖ע עַל פִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:30
+      lang: ar
+      text: ذَٰلِكَ وَمَن يُعَظِّمْ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيْرٌ لَّهُۥ عِندَ رَبِّهِۦ وَأُحِلَّتْ
+        لَكُمُ ٱلْأَنْعَٰمُ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ فَٱجْتَنِبُوا۟ ٱلرِّجْسَ مِنَ ٱلْأَوْثَٰنِ
+        وَٱجْتَنِبُوا۟ قَوْلَ ٱلزُّورِ
+    - ref: Quran 22:31
+      lang: ar
+      text: حُنَفَآءَ لِلَّهِ غَيْرَ مُشْرِكِينَ بِهِۦ وَمَن يُشْرِكْ بِٱللَّهِ فَكَأَنَّمَا خَرَّ مِنَ
+        ٱلسَّمَآءِ فَتَخْطَفُهُ ٱلطَّيْرُ أَوْ تَهْوِى بِهِ ٱلرِّيحُ فِى مَكَانٍ سَحِيقٍ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:14-17
+      lang: he
+      text: (23:14) שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה (23:15) אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒
+        שִׁבְעַ֣ת יָמִים֩ תֹּאכַ֨ל מַצּ֜וֹת כַּֽאֲשֶׁ֣ר צִוִּיתִ֗ךָ לְמוֹעֵד֙ חֹ֣דֶשׁ הָֽאָבִ֔יב כִּי
+        ב֖וֹ יָצָ֣אתָ מִמִּצְרָ֑יִם וְלֹא יֵרָא֥וּ פָנַ֖י רֵיקָֽם (23:16) וְחַ֤ג הַקָּצִיר֙ בִּכּוּרֵ֣י
+        מַעֲשֶׂ֔יךָ אֲשֶׁ֥ר תִּזְרַ֖ע בַּשָּׂדֶ֑ה וְחַ֤ג הָֽאָסִף֙ בְּצֵ֣את הַשָּׁנָ֔ה בְּאָסְפְּךָ֥ אֶֽת
+        מַעֲשֶׂ֖יךָ מִן הַשָּׂדֶֽה (23:17) שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל
+        פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    - ref: Exod 23:14
+      lang: he
+      text: שָׁלֹ֣שׁ רְגָלִ֔ים תָּחֹ֥ג לִ֖י בַּשָּׁנָֽה
+    - ref: Exod 23:17
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶל פְּנֵ֖י הָאָדֹ֥ן יְהוָֽה
+    note: Matzot, Harvest, Ingathering
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+    note: pilgrimage on 'appointed days' (ayyām maʿlūmāt)
 ---
 
 ## Questions

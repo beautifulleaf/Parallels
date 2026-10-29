@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-20-rules-of-war-vs-quran-2-war-pilgrimage
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ New moons, fighting and the pilgrimage rites'
-summary: 'These two units share 1 motifs: conditions under which war is waged or stopped [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,59 +13,9 @@ layers:
 - motif
 motifs:
 - conditions-for-fighting-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 20:10
-  note: 'Conditions under which war is waged or stopped [divergence between the texts] (Deut 20:10-12
-    wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā milḥāmâ: offer peace first;
-    a city that accepts serves you, one that resists is besieged; Q 2:190-193 wa-qātilū fī sabīli llāhi
-    lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun raḥīm: fight only those
-    who fight you, and stop if they desist. The condition for war moves from refusing terms to the enemy''s
-    own aggression.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:12
-  note: 'Conditions under which war is waged or stopped [divergence between the texts] (Deut 20:10-12
-    wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā milḥāmâ: offer peace first;
-    a city that accepts serves you, one that resists is besieged; Q 2:190-193 wa-qātilū fī sabīli llāhi
-    lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun raḥīm: fight only those
-    who fight you, and stop if they desist. The condition for war moves from refusing terms to the enemy''s
-    own aggression.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָּ
-- tradition: islam
-  ref: Quran 2:190
-  note: 'Conditions under which war is waged or stopped [divergence between the texts] (Deut 20:10-12
-    wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā milḥāmâ: offer peace first;
-    a city that accepts serves you, one that resists is besieged; Q 2:190-193 wa-qātilū fī sabīli llāhi
-    lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun raḥīm: fight only those
-    who fight you, and stop if they desist. The condition for war moves from refusing terms to the enemy''s
-    own aggression.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا
-    يُحِبُّ ٱلْمُعْتَدِينَ
-- tradition: islam
-  ref: Quran 2:192
-  note: 'Conditions under which war is waged or stopped [divergence between the texts] (Deut 20:10-12
-    wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā milḥāmâ: offer peace first;
-    a city that accepts serves you, one that resists is besieged; Q 2:190-193 wa-qātilū fī sabīli llāhi
-    lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun raḥīm: fight only those
-    who fight you, and stop if they desist. The condition for war moves from refusing terms to the enemy''s
-    own aggression.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنِ ٱنتَهَوْا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 20:10-12 wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā
-    milḥāmâ: offer peace first; a city that accepts serves you, one that resists is besieged; Q 2:190-193
-    wa-qātilū fī sabīli llāhi lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun
-    raḥīm: fight only those who fight you, and stop if they desist. The condition for war moves from refusing
-    terms to the enemy''s own aggression.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Conditions under which war is waged or stopped [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -100,6 +49,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Conditions under which war is waged or stopped
+kinds:
+- divergence
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-2-war-pilgrimage
+  title: New moons, fighting and the pilgrimage rites
+  tradition: islam
+matches:
+- kind: divergence
+  label: Conditions under which war is waged or stopped
+  note: 'Deut 20:10-12 wĕ-qārāʾtā ʾēlêhā lĕ-šālôm ... wĕ-ʾim lōʾ tašlîm ʿimmāk wĕ-ʿāśĕtâ ʿimmĕkā milḥāmâ:
+    offer peace first; a city that accepts serves you, one that resists is besieged; Q 2:190-193 wa-qātilū
+    fī sabīli llāhi lladhīna yuqātilūnakum wa-lā taʿtadū ... fa-ini ntahaw fa-inna llāha ghafūrun raḥīm:
+    fight only those who fight you, and stop if they desist. The condition for war moves from refusing
+    terms to the enemy''s own aggression.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:12
+      lang: he
+      text: וְאִם לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:190
+      lang: ar
+      text: وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ
+        لَا يُحِبُّ ٱلْمُعْتَدِينَ
+    - ref: Quran 2:192
+      lang: ar
+      text: فَإِنِ ٱنتَهَوْا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    - ref: Quran 2:193
+      lang: ar
+      text: وَقَٰتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ ٱلدِّينُ لِلَّهِ فَإِنِ ٱنتَهَوْا۟ فَلَا
+        عُدْوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

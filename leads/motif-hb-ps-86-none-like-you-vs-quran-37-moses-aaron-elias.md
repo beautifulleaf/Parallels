@@ -2,8 +2,7 @@
 id: motif-hb-ps-86-none-like-you-vs-quran-37-moses-aaron-elias
 title: Psalm 86, a prayer of David; there is none like you among the gods ↔ Moses and Aaron; Elias against
   Ba'l
-summary: 'These two units share 1 motifs: elias (ilyas) rebukes his people: ''will you call on ba''l and
-  forsake the best of creators?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - elias-against-baal
-passages:
-- tradition: judaism
-  ref: Ps 86:8
-  note: 'Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?''
-    (ʾên-kāmôḵā ḇā-ʾĕlōhîm ʾăḏōnāy wə-ʾên kə-maʿăśeyḵā vs. aḥsana l-khāliqīn: God compared with other
-    ''gods'' or ''creators'' and found beyond them. The comparative idiom allows that other makers or
-    gods exist.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵין כָּמ֖וֹךָ בָאֱלֹהִ֥ים אֲדֹנָ֗י וְאֵ֣ין כְּֽמַעֲשֶֽׂיךָ
-- tradition: islam
-  ref: Quran 37:123
-  note: 'Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ إِلْيَاسَ لَمِنَ ٱلْمُرْسَلِينَ
-- tradition: islam
-  ref: Quran 37:124
-  note: 'Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِقَوْمِهِۦٓ أَلَا تَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾên-kāmôḵā ḇā-ʾĕlōhîm ʾăḏōnāy wə-ʾên kə-maʿăśeyḵā vs. aḥsana l-khāliqīn: God compared with other
-    ''gods'' or ''creators'' and found beyond them. The comparative idiom allows that other makers or
-    gods exist.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake
     the best of creators?'' (weight 6.7). Pair score 6.7.'
@@ -72,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?'''
+kinds:
+- echo
+units:
+- id: hb-ps-86-none-like-you
+  title: Psalm 86, a prayer of David; there is none like you among the gods
+  tradition: judaism
+- id: quran-37-moses-aaron-elias
+  title: Moses and Aaron; Elias against Ba'l
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Elias (Ilyas) rebukes his people: ''Will you call on Ba''l and forsake the best of creators?'''
+  note: 'ʾên-kāmôḵā ḇā-ʾĕlōhîm ʾăḏōnāy wə-ʾên kə-maʿăśeyḵā vs. aḥsana l-khāliqīn: God compared with other
+    ''gods'' or ''creators'' and found beyond them. The comparative idiom allows that other makers or
+    gods exist.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 86:8
+      lang: he
+      text: אֵין כָּמ֖וֹךָ בָאֱלֹהִ֥ים אֲדֹנָ֗י וְאֵ֣ין כְּֽמַעֲשֶֽׂיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:125
+      lang: ar
+      text: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
 ---
 
 ## Questions

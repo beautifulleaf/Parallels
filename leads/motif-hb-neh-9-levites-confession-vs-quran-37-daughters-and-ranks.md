@@ -2,8 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-37-daughters-and-ranks
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Daughters of God denied; the
   angels' stations; closing doxology
-summary: 'These two units share 1 motifs: closing doxology: glory to your lord, lord of might, above what
-  they describe; peace on the messengers; praise to god, lord of the worlds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - glory-to-lord-of-might-closing
-passages:
-- tradition: judaism
-  ref: Neh 9:5
-  note: 'Closing doxology: glory to your Lord, Lord of might, above what they describe; peace on the messengers;
-    praise to God, Lord of the worlds (wî-ḇārəḵû šēm kəḇôḏeḵā û-mərômam ʿal-kol-bərāḵâ û-ṯəhillâ (exalted
-    above every blessing and praise) vs. subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn (exalted above
-    what they ascribe): God is beyond any human description, whether praise or attribution.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֣וּ הַלְוִיִּ֡ם יֵשׁ֣וּעַ וְ֠קַדְמִיאֵל בָּנִ֨י חֲשַׁבְנְיָ֜ה שֵׁרֵֽבְיָ֤ה הֽוֹדִיָּה֙
-    שְׁבַנְיָ֣ה פְתַֽחְיָ֔ה ק֗וּמוּ בָּרֲכוּ֙ אֶת יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם מִן הָעוֹלָ֖ם עַד הָעוֹלָ֑ם וִיבָֽרְכוּ֙
-    שֵׁ֣ם כְּבוֹדֶ֔ךָ וּמְרוֹמַ֥ם עַל כָּל בְּרָכָ֖ה וּתְהִלָּֽה
-- tradition: islam
-  ref: Quran 37:180
-  note: 'Closing doxology: glory to your Lord, Lord of might, above what they describe; peace on the messengers;
-    praise to God, Lord of the worlds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
-- tradition: islam
-  ref: Quran 37:181
-  note: 'Closing doxology: glory to your Lord, Lord of might, above what they describe; peace on the messengers;
-    praise to God, Lord of the worlds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَلَٰمٌ عَلَى ٱلْمُرْسَلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wî-ḇārəḵû šēm kəḇôḏeḵā û-mərômam ʿal-kol-bərāḵâ û-ṯəhillâ (exalted above every blessing and
-    praise) vs. subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn (exalted above what they ascribe): God is
-    beyond any human description, whether praise or attribution.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Closing doxology: glory to your Lord, Lord of might, above what
     they describe; peace on the messengers; praise to God, Lord of the worlds (weight 6.7). Pair score
@@ -78,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Closing doxology: glory to your Lord, Lord of might, above what they describe; peace on the
+  messengers; praise to God, Lord of the worlds'
+kinds:
+- echo
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-37-daughters-and-ranks
+  title: Daughters of God denied; the angels' stations; closing doxology
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Closing doxology: glory to your Lord, Lord of might, above what they describe; peace on the
+    messengers; praise to God, Lord of the worlds'
+  note: 'wî-ḇārəḵû šēm kəḇôḏeḵā û-mərômam ʿal-kol-bərāḵâ û-ṯəhillâ (exalted above every blessing and praise)
+    vs. subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn (exalted above what they ascribe): God is beyond
+    any human description, whether praise or attribution.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:5
+      lang: he
+      text: וַיֹּאמְר֣וּ הַלְוִיִּ֡ם יֵשׁ֣וּעַ וְ֠קַדְמִיאֵל בָּנִ֨י חֲשַׁבְנְיָ֜ה שֵׁרֵֽבְיָ֤ה הֽוֹדִיָּה֙
+        שְׁבַנְיָ֣ה פְתַֽחְיָ֔ה ק֗וּמוּ בָּרֲכוּ֙ אֶת יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם מִן הָעוֹלָ֖ם עַד הָעוֹלָ֑ם
+        וִיבָֽרְכוּ֙ שֵׁ֣ם כְּבוֹדֶ֔ךָ וּמְרוֹמַ֥ם עַל כָּל בְּרָכָ֖ה וּתְהִלָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 37:180
+      lang: ar
+      text: سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
 ---
 
 ## Questions

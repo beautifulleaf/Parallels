@@ -2,8 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-quran-16-daughters-and-the-bee
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ Not two gods; daughters ascribed to
   God and buried alive; milk, wine and the bee (Surah 16:51-70)
-summary: 'These two units share 1 motifs: from the bee''s belly comes a drink of many colors in which
-  is healing for people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - honey-as-healing
-passages:
-- tradition: judaism
-  ref: Prov 16:24
-  note: 'From the bee''s belly comes a drink of many colors in which is healing for people (ṣûp-dəbaš
-    ʾimrê-nōʿam mātôq lannepeš ûmarpēʾ lāʿāṣem; sharābun mukhtalifun alwānuhu fīhi shifāʾun li-n-nās:
-    honey that heals (marpēʾ / shifāʾ). In Prov honey is a figure for pleasant words; in Q it is the bee''s
-    real product and a sign.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צוּף דְּ֭בַשׁ אִמְרֵי נֹ֑עַם מָת֥וֹק לַ֝נֶּפֶשׁ וּמַרְפֵּ֥א לָעָֽצֶם
-- tradition: islam
-  ref: Quran 16:69
-  note: From the bee's belly comes a drink of many colors in which is healing for people (drink of many
-    colors, fīhi shifāʾun li-l-nās)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنۢ بُطُونِهَا
-    شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ṣûp-dəbaš ʾimrê-nōʿam mātôq lannepeš ûmarpēʾ lāʿāṣem; sharābun mukhtalifun alwānuhu fīhi shifāʾun
-    li-n-nās: honey that heals (marpēʾ / shifāʾ). In Prov honey is a figure for pleasant words; in Q it
-    is the bee''s real product and a sign.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From the bee''s belly comes a drink of many colors in which is healing
     for people (weight 6.3). Pair score 6.3.'
@@ -73,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: From the bee's belly comes a drink of many colors in which is healing for people
+kinds:
+- echo
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-16-daughters-and-the-bee
+  title: Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah 16:51-70)
+  tradition: islam
+matches:
+- kind: echo
+  label: From the bee's belly comes a drink of many colors in which is healing for people
+  note: 'ṣûp-dəbaš ʾimrê-nōʿam mātôq lannepeš ûmarpēʾ lāʿāṣem; sharābun mukhtalifun alwānuhu fīhi shifāʾun
+    li-n-nās: honey that heals (marpēʾ / shifāʾ). In Prov honey is a figure for pleasant words; in Q it
+    is the bee''s real product and a sign.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:24
+      lang: he
+      text: צוּף דְּ֭בַשׁ אִמְרֵי נֹ֑עַם מָת֥וֹק לַ֝נֶּפֶשׁ וּמַרְפֵּ֥א לָעָֽצֶם
+  - tradition: islam
+    passages:
+    - ref: Quran 16:69
+      lang: ar
+      text: ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا يَخْرُجُ مِنۢ بُطُونِهَا
+        شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ إِنَّ فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ
+        يَتَفَكَّرُونَ
 ---
 
 ## Questions

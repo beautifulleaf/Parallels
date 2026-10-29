@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-4-cain-abel-vs-quran-7-single-soul-idols
 title: Cain and Abel ↔ The single soul, the couple's vow, and powerless idols
-summary: 'These two units share 1 motifs: parents'' words to god about the child he gave them [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,52 +13,9 @@ layers:
 - motif
 motifs:
 - first-parents-words-on-a-child-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 4:1
-  note: 'Parents'' words to God about the child he gave them [divergence between the texts] (First conception
-    and the parents'' words about the child: fa-lammā taghashshāhā ḥamalat ... daʿawā llāha rabbahumā
-    la-in ātaytanā ṣāliḥan ... fa-lammā ātāhumā ṣāliḥan jaʿalā lahu shurakāʾa vs wᵉhāʾādām yādaʿ ʾet-ḥawwāh
-    ... wattahar wattēled ʾet-qayin wattōʾmer qānîtî ʾîš ʾet-YHWH. In Gen Eve credits the child to YHWH
-    (ʾet-YHWH, ''with YHWH''); in Q the couple, having vowed thanks, give God partners in the gift. The
-    Adam-and-Eve reading of 7:189-190 is exegetical (al-Ṭabarī); the Q text names no one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָ֣אָדָ֔ם יָדַ֖ע אֶת חַוָּ֣ה אִשְׁתּ֑וֹ וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת קַ֔יִן וַתֹּ֕אמֶר קָנִ֥יתִי
-    אִ֖ישׁ אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 7:189
-  note: 'Parents'' words to God about the child he gave them [divergence between the texts] (First conception
-    and the parents'' words about the child: fa-lammā taghashshāhā ḥamalat ... daʿawā llāha rabbahumā
-    la-in ātaytanā ṣāliḥan ... fa-lammā ātāhumā ṣāliḥan jaʿalā lahu shurakāʾa vs wᵉhāʾādām yādaʿ ʾet-ḥawwāh
-    ... wattahar wattēled ʾet-qayin wattōʾmer qānîtî ʾîš ʾet-YHWH. In Gen Eve credits the child to YHWH
-    (ʾet-YHWH, ''with YHWH''); in Q the couple, having vowed thanks, give God partners in the gift. The
-    Adam-and-Eve reading of 7:189-190 is exegetical (al-Ṭabarī); the Q text names no one.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
-    فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ
-    رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
-- tradition: islam
-  ref: Quran 7:190
-  note: 'Parents'' words to God about the child he gave them [divergence between the texts] (First conception
-    and the parents'' words about the child: fa-lammā taghashshāhā ḥamalat ... daʿawā llāha rabbahumā
-    la-in ātaytanā ṣāliḥan ... fa-lammā ātāhumā ṣāliḥan jaʿalā lahu shurakāʾa vs wᵉhāʾādām yādaʿ ʾet-ḥawwāh
-    ... wattahar wattēled ʾet-qayin wattōʾmer qānîtî ʾîš ʾet-YHWH. In Gen Eve credits the child to YHWH
-    (ʾet-YHWH, ''with YHWH''); in Q the couple, having vowed thanks, give God partners in the gift. The
-    Adam-and-Eve reading of 7:189-190 is exegetical (al-Ṭabarī); the Q text names no one.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاتَىٰهُمَا صَٰلِحًا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَا فَتَعَٰلَى ٱللَّهُ
-    عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. First conception and the parents'' words about the child: fa-lammā taghashshāhā ḥamalat
-    ... daʿawā llāha rabbahumā la-in ātaytanā ṣāliḥan ... fa-lammā ātāhumā ṣāliḥan jaʿalā lahu shurakāʾa
-    vs wᵉhāʾādām yādaʿ ʾet-ḥawwāh ... wattahar wattēled ʾet-qayin wattōʾmer qānîtî ʾîš ʾet-YHWH. In Gen
-    Eve credits the child to YHWH (ʾet-YHWH, ''with YHWH''); in Q the couple, having vowed thanks, give
-    God partners in the gift. The Adam-and-Eve reading of 7:189-190 is exegetical (al-Ṭabarī); the Q text
-    names no one.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parents'' words to God about the child he gave them [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -92,6 +48,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Parents' words to God about the child he gave them
+kinds:
+- divergence
+units:
+- id: hb-gen-4-cain-abel
+  title: Cain and Abel
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: divergence
+  label: Parents' words to God about the child he gave them
+  note: 'First conception and the parents'' words about the child: fa-lammā taghashshāhā ḥamalat ... daʿawā
+    llāha rabbahumā la-in ātaytanā ṣāliḥan ... fa-lammā ātāhumā ṣāliḥan jaʿalā lahu shurakāʾa vs wᵉhāʾādām
+    yādaʿ ʾet-ḥawwāh ... wattahar wattēled ʾet-qayin wattōʾmer qānîtî ʾîš ʾet-YHWH. In Gen Eve credits
+    the child to YHWH (ʾet-YHWH, ''with YHWH''); in Q the couple, having vowed thanks, give God partners
+    in the gift. The Adam-and-Eve reading of 7:189-190 is exegetical (al-Ṭabarī); the Q text names no
+    one.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 4:1
+      lang: he
+      text: וְהָ֣אָדָ֔ם יָדַ֖ע אֶת חַוָּ֣ה אִשְׁתּ֑וֹ וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת קַ֔יִן וַתֹּ֕אמֶר קָנִ֥יתִי
+        אִ֖ישׁ אֶת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:189
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا
+        فَلَمَّا تَغَشَّىٰهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِۦ فَلَمَّآ أَثْقَلَت دَّعَوَا ٱللَّهَ
+        رَبَّهُمَا لَئِنْ ءَاتَيْتَنَا صَٰلِحًا لَّنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+    - ref: Quran 7:190
+      lang: ar
+      text: فَلَمَّآ ءَاتَىٰهُمَا صَٰلِحًا جَعَلَا لَهُۥ شُرَكَآءَ فِيمَآ ءَاتَىٰهُمَا فَتَعَٰلَى ٱللَّهُ
+        عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

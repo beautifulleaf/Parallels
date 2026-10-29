@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-33-hour-and-trust
 title: The Song of Moses (Ha'azinu) ↔ The Hour, the blaming of leaders, Moses cleared, and the Trust
-summary: 'These two units share 1 motifs: god offered the trust (amana) to the heavens, earth and mountains;
-  they refused and feared it, but man bore it, unjust and ignorant.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - trust-offered-to-heavens-earth-mountains
-passages:
-- tradition: judaism
-  ref: Deut 32:1
-  note: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
-    but man bore it, unjust and ignorant (haʾăzînû ha-ššāmayim wa-ʾăḏabbērâ wə-ṯišmaʿ hā-ʾāreṣ vs. innā
-    ʿaraḍnā l-amānata ʿalā s-samāwāti wa-l-arḍi wa-l-jibāl. Heaven and earth are addressed about the covenant.
-    In Deut they are witnesses to what Israel accepted; in Q they are offered the burden and refuse it
-    (fa-abayna an yaḥmilnahā), and man takes it on.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי פִֽי
-- tradition: islam
-  ref: Quran 33:72
-  note: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
-    but man bore it, unjust and ignorant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا
-    وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. haʾăzînû ha-ššāmayim wa-ʾăḏabbērâ wə-ṯišmaʿ hā-ʾāreṣ vs. innā ʿaraḍnā l-amānata ʿalā s-samāwāti
-    wa-l-arḍi wa-l-jibāl. Heaven and earth are addressed about the covenant. In Deut they are witnesses
-    to what Israel accepted; in Q they are offered the burden and refuse it (fa-abayna an yaḥmilnahā),
-    and man takes it on.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God offered the Trust (amana) to the heavens, earth and mountains;
     they refused and feared it, but man bore it, unjust and ignorant (weight 6.3). Pair score 6.3.'
@@ -68,6 +45,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
+  but man bore it, unjust and ignorant
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-33-hour-and-trust
+  title: The Hour, the blaming of leaders, Moses cleared, and the Trust
+  tradition: islam
+matches:
+- kind: echo
+  label: God offered the Trust (amana) to the heavens, earth and mountains; they refused and feared it,
+    but man bore it, unjust and ignorant
+  note: haʾăzînû ha-ššāmayim wa-ʾăḏabbērâ wə-ṯišmaʿ hā-ʾāreṣ vs. innā ʿaraḍnā l-amānata ʿalā s-samāwāti
+    wa-l-arḍi wa-l-jibāl. Heaven and earth are addressed about the covenant. In Deut they are witnesses
+    to what Israel accepted; in Q they are offered the burden and refuse it (fa-abayna an yaḥmilnahā),
+    and man takes it on.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:1
+      lang: he
+      text: הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי פִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 33:72
+      lang: ar
+      text: إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن
+        يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا
 ---
 
 ## Questions

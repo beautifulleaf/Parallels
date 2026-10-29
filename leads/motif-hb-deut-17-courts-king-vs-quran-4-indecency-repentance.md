@@ -2,8 +2,7 @@
 id: motif-hb-deut-17-courts-king-vs-quran-4-indecency-repentance
 title: Idolater's trial; witnesses; high court; law of the king ↔ Indecency, four witnesses, and the limits
   of repentance
-summary: 'These two units share 2 motifs: how many witnesses are required [divergence between the texts],
-  no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,49 +15,9 @@ layers:
 motifs:
 - number-of-witnesses-as-divergence
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Deut 17:6
-  note: 'How many witnesses are required [divergence between the texts] (Deut 17:6 ʿal pî šĕnayim ʿēdîm
-    ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for a capital case; Q 4:15 fa-stashhidū ʿalayhinna
-    arbaʿatan minkum: four witnesses required for a charge of indecency (fāḥisha). The number is raised
-    for sexual offences.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל פִּ֣י שְׁנַ֣יִם עֵדִ֗ים א֛וֹ שְׁלֹשָׁ֥ה עֵדִ֖ים יוּמַ֣ת הַמֵּ֑ת לֹ֣א יוּמַ֔ת עַל פִּ֖י עֵ֥ד
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 4:15
-  note: 'How many witnesses are required [divergence between the texts] (Deut 17:6 ʿal pî šĕnayim ʿēdîm
-    ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for a capital case; Q 4:15 fa-stashhidū ʿalayhinna
-    arbaʿatan minkum: four witnesses required for a charge of indecency (fāḥisha). The number is raised
-    for sexual offences.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
-- tradition: judaism
-  ref: Deut 17:6
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל פִּ֣י שְׁנַ֣יִם עֵדִ֗ים א֛וֹ שְׁלֹשָׁ֥ה עֵדִ֖ים יוּמַ֣ת הַמֵּ֑ת לֹ֣א יוּמַ֔ת עַל פִּ֖י עֵ֥ד
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 4:15
-  note: No one put to death on the testimony of a single witness (Quran raises the number to four for
-    fāḥisha)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 17:6 ʿal pî šĕnayim ʿēdîm ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for
-    a capital case; Q 4:15 fa-stashhidū ʿalayhinna arbaʿatan minkum: four witnesses required for a charge
-    of indecency (fāḥisha). The number is raised for sexual offences.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses are required [divergence between the texts] (weight
     6.0); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.4.'
@@ -90,6 +49,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How many witnesses are required
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-17-courts-king
+  title: Idolater's trial; witnesses; high court; law of the king
+  tradition: judaism
+- id: quran-4-indecency-repentance
+  title: Indecency, four witnesses, and the limits of repentance
+  tradition: islam
+matches:
+- kind: divergence
+  label: How many witnesses are required
+  note: 'Deut 17:6 ʿal pî šĕnayim ʿēdîm ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for a capital
+    case; Q 4:15 fa-stashhidū ʿalayhinna arbaʿatan minkum: four witnesses required for a charge of indecency
+    (fāḥisha). The number is raised for sexual offences.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 17:6
+      lang: he
+      text: עַל פִּ֣י שְׁנַ֣יִם עֵדִ֗ים א֛וֹ שְׁלֹשָׁ֥ה עֵדִ֖ים יוּמַ֣ת הַמֵּ֑ת לֹ֣א יוּמַ֔ת עַל פִּ֖י
+        עֵ֥ד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+- kind: shared
+  label: No one put to death on the testimony of a single witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 17:6
+      lang: he
+      text: עַל פִּ֣י שְׁנַ֣יִם עֵדִ֗ים א֛וֹ שְׁלֹשָׁ֥ה עֵדִ֖ים יוּמַ֣ת הַמֵּ֑ת לֹ֣א יוּמַ֔ת עַל פִּ֖י
+        עֵ֥ד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+    note: Quran raises the number to four for fāḥisha
 ---
 
 ## Questions

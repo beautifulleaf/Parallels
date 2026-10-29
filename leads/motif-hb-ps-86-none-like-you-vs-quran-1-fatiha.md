@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-86-none-like-you-vs-quran-1-fatiha
 title: Psalm 86, a prayer of David; there is none like you among the gods ↔ The Opening (al-Fatiha)
-summary: 'These two units share 2 motifs: god called al-rahman and al-rahim (the merciful, the compassionate),
-  paired names from the root r-h-m (womb, mercy), prayer to be guided on the straight path (al-sirat al-mustaqim).'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,55 +14,9 @@ layers:
 motifs:
 - divine-names-rahman-rahim
 - prayer-for-straight-path
-passages:
-- tradition: judaism
-  ref: Ps 86:15
-  note: 'God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root
-    r-h-m (womb, mercy) (Ps 86:15 ʾēl raḥûm wĕ-ḥannûn ʾerek ʾappayim: raḥûm is one adjective in the attribute
-    formula; Q 1:1, 1:3 ar-raḥmān ar-raḥīm: two r-ḥ-m forms paired as names, opening the text. Same root,
-    the formula''s adjective made into a pair of titles.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֣ה אֲ֭דֹנָי אֵל רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב חֶ֥סֶד וֶאֱמֶֽת
-- tradition: islam
-  ref: Quran 1:1
-  note: God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root
-    r-h-m (womb, mercy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-- tradition: islam
-  ref: Quran 1:3
-  note: God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root
-    r-h-m (womb, mercy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
-- tradition: judaism
-  ref: Ps 86:11
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim) (Ps 86:11 hôrēnî YHWH darkekā
-    ʾăhallēk baʾămittekā ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm; same petition form (teach/guide + way).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֘וֹרֵ֤נִי יְהוָ֨ה דַּרְכֶּ֗ךָ אֲהַלֵּ֥ךְ בַּאֲמִתֶּ֑ךָ יַחֵ֥ד לְ֝בָבִ֗י לְיִרְאָ֥ה שְׁמֶֽךָ
-- tradition: islam
-  ref: Quran 1:6
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-- tradition: islam
-  ref: Quran 1:7
-  note: Prayer to be guided on the straight path (al-sirat al-mustaqim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 86:11 hôrēnî YHWH darkekā ʾăhallēk baʾămittekā ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm; same petition
-    form (teach/guide + way). Ps 86:15 ʾēl raḥûm wĕ-ḥannûn ʾerek ʾappayim: raḥûm is one adjective in the
-    attribute formula; Q 1:1, 1:3 ar-raḥmān ar-raḥīm: two r-ḥ-m forms paired as names, opening the text.
-    Same root, the formula''s adjective made into a pair of titles.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God called al-Rahman and al-Rahim (the Merciful, the Compassionate),
     paired names from the root r-h-m (womb, mercy) (weight 6.0); Prayer to be guided on the straight path
@@ -93,6 +46,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+kinds:
+- echo
+units:
+- id: hb-ps-86-none-like-you
+  title: Psalm 86, a prayer of David; there is none like you among the gods
+  tradition: judaism
+- id: quran-1-fatiha
+  title: The Opening (al-Fatiha)
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer to be guided on the straight path (al-sirat al-mustaqim)
+  note: Ps 86:11 hôrēnî YHWH darkekā ʾăhallēk baʾămittekā ~ Q 1:6 ihdinā ṣ-ṣirāṭa l-mustaqīm; same petition
+    form (teach/guide + way).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 86:11
+      lang: he
+      text: ה֘וֹרֵ֤נִי יְהוָ֨ה דַּרְכֶּ֗ךָ אֲהַלֵּ֥ךְ בַּאֲמִתֶּ֑ךָ יַחֵ֥ד לְ֝בָבִ֗י לְיִרְאָ֥ה שְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 1:6
+      lang: ar
+      text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
+- kind: echo
+  label: God called al-Rahman and al-Rahim (the Merciful, the Compassionate), paired names from the root
+    r-h-m (womb, mercy)
+  note: 'Ps 86:15 ʾēl raḥûm wĕ-ḥannûn ʾerek ʾappayim: raḥûm is one adjective in the attribute formula;
+    Q 1:1, 1:3 ar-raḥmān ar-raḥīm: two r-ḥ-m forms paired as names, opening the text. Same root, the formula''s
+    adjective made into a pair of titles.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 86:15
+      lang: he
+      text: וְאַתָּ֣ה אֲ֭דֹנָי אֵל רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב חֶ֥סֶד וֶאֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 1:1
+      lang: ar
+      text: بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+    - ref: Quran 1:3
+      lang: ar
+      text: ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
 ---
 
 ## Questions

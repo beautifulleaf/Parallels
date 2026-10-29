@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-7-unlettered-prophet
 title: The Song of Moses (Ha'azinu) ↔ The unlettered prophet foretold in Torah and Gospel
-summary: 'These two units share 1 motifs: i kill and i make alive, i wound and i heal; there is no god
-  beside me.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - i-kill-and-make-alive
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: I kill and I make alive, I wound and I heal; there is no god beside me (אני אני הוא)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 7:158
-  note: I kill and I make alive, I wound and I heal; there is no god beside me (yuhyi wa-yumit)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ
-    وَٱلْأَرْضِ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِىِّ
-    ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. lā ilāha illā huwa yuḥyī wa-yumītu vs ʾănî ʾănî hûʾ wᵉʾên ʾĕlōhîm ʿimmādî ʾănî ʾāmît waʾăḥayyeh:
-    sole deity, who gives life and death. The order is reversed (make alive / kill).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I kill and I make alive, I wound and I heal; there is no god beside
     me (weight 5.1). Pair score 5.1.'
@@ -64,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: I kill and I make alive, I wound and I heal; there is no god beside me
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-7-unlettered-prophet
+  title: The unlettered prophet foretold in Torah and Gospel
+  tradition: islam
+matches:
+- kind: parallel
+  label: I kill and I make alive, I wound and I heal; there is no god beside me
+  note: 'lā ilāha illā huwa yuḥyī wa-yumītu vs ʾănî ʾănî hûʾ wᵉʾên ʾĕlōhîm ʿimmādî ʾănî ʾāmît waʾăḥayyeh:
+    sole deity, who gives life and death. The order is reversed (make alive / kill).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 7:158
+      lang: ar
+      text: قُلْ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ جَمِيعًا ٱلَّذِى لَهُۥ مُلْكُ
+        ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِ
+        ٱلنَّبِىِّ ٱلْأُمِّىِّ ٱلَّذِى يُؤْمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ
 ---
 
 ## Questions

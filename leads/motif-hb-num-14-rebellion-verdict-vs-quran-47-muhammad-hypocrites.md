@@ -2,8 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-47-muhammad-hypocrites
 title: Rebellion after the spies' report and the forty-year sentence ↔ The sick-hearted faint at the call
   to fight; locks on hearts; the twist of speech; God rich, you poor
-summary: 'These two units share 1 motifs: if god wills he takes you away and brings another people in
-  your place.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Num 14:12
-  note: 'If God wills he takes you away and brings another people in your place (God threatens to replace
-    the reluctant people with another: ʾakkennû ḇad-deḇer wə-ʾôrišennû wə-ʾeʿĕśeh ʾōṯəḵā lə-ḡôy gāḏôl
-    wə-ʿāṣûm mimmennû vs. wa-in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū amthālakum. Both
-    follow a refusal to go out and fight; in Numbers Moses intercedes and the threat is withdrawn, in
-    the Quran it stands as a warning.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 47:38
-  note: If God wills he takes you away and brings another people in your place
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ وَمَن
-    يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ وَإِن تَتَوَلَّوْا۟
-    يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God threatens to replace the reluctant people with another: ʾakkennû ḇad-deḇer wə-ʾôrišennû
-    wə-ʾeʿĕśeh ʾōṯəḵā lə-ḡôy gāḏôl wə-ʿāṣûm mimmennû vs. wa-in tatawallaw yastabdil qawman ghayrakum thumma
-    lā yakūnū amthālakum. Both follow a refusal to go out and fight; in Numbers Moses intercedes and the
-    threat is withdrawn, in the Quran it stands as a warning.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
     place (weight 4.9). Pair score 4.9.'
@@ -77,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God wills he takes you away and brings another people in your place
+kinds:
+- parallel
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: parallel
+  label: If God wills he takes you away and brings another people in your place
+  note: 'God threatens to replace the reluctant people with another: ʾakkennû ḇad-deḇer wə-ʾôrišennû wə-ʾeʿĕśeh
+    ʾōṯəḵā lə-ḡôy gāḏôl wə-ʿāṣûm mimmennû vs. wa-in tatawallaw yastabdil qawman ghayrakum thumma lā yakūnū
+    amthālakum. Both follow a refusal to go out and fight; in Numbers Moses intercedes and the threat
+    is withdrawn, in the Quran it stands as a warning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:12
+      lang: he
+      text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:38
+      lang: ar
+      text: هَٰٓأَنتُمْ هَٰٓؤُلَآءِ تُدْعَوْنَ لِتُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ فَمِنكُم مَّن يَبْخَلُ
+        وَمَن يَبْخَلْ فَإِنَّمَا يَبْخَلُ عَن نَّفْسِهِۦ وَٱللَّهُ ٱلْغَنِىُّ وَأَنتُمُ ٱلْفُقَرَآءُ
+        وَإِن تَتَوَلَّوْا۟ يَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ ثُمَّ لَا يَكُونُوٓا۟ أَمْثَٰلَكُم
 ---
 
 ## Questions

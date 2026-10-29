@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-30-signs
 title: Daniel in the lions' den ↔ The Hour, the times of praise, and the signs of God
-summary: 'These two units share 1 motifs: glorify god in the evening, morning, afternoon and noon (set
-  times of praise or prayer).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - praise-at-set-times-of-day
-passages:
-- tradition: judaism
-  ref: Dan 6:11
-  note: 'Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer) (zimnîn
-    təlāṯâ ḇə-yômāʾ hûʾ bāreḵ ʿal birkôhî ū-məṣallēʾ ū-môḏēʾ (Aramaic: three times a day he knelt, prayed
-    and gave thanks) vs. subḥāna llāh at four named times. Note the shared root ṣ-l-y (məṣallēʾ / ṣalāt).
-    Daniel''s prayer faces Jerusalem; the Quran names no direction here.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙
-    בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
-    וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
-- tradition: islam
-  ref: Quran 30:17
-  note: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
-- tradition: islam
-  ref: Quran 30:18
-  note: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. zimnîn təlāṯâ ḇə-yômāʾ hûʾ bāreḵ ʿal birkôhî ū-məṣallēʾ ū-môḏēʾ (Aramaic: three times a day
-    he knelt, prayed and gave thanks) vs. subḥāna llāh at four named times. Note the shared root ṣ-l-y
-    (məṣallēʾ / ṣalāt). Daniel''s prayer faces Jerusalem; the Quran names no direction here.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Glorify God in the evening, morning, afternoon and noon (set times
     of praise or prayer) (weight 5.8). Pair score 5.8.'
@@ -76,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
+kinds:
+- echo
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Glorify God in the evening, morning, afternoon and noon (set times of praise or prayer)
+  note: 'zimnîn təlāṯâ ḇə-yômāʾ hûʾ bāreḵ ʿal birkôhî ū-məṣallēʾ ū-môḏēʾ (Aramaic: three times a day he
+    knelt, prayed and gave thanks) vs. subḥāna llāh at four named times. Note the shared root ṣ-l-y (məṣallēʾ
+    / ṣalāt). Daniel''s prayer faces Jerusalem; the Quran names no direction here.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:11
+      lang: he
+      text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן
+        לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
+        וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 30:17
+      lang: ar
+      text: فَسُبْحَٰنَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ
+    - ref: Quran 30:18
+      lang: ar
+      text: وَلَهُ ٱلْحَمْدُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ
 ---
 
 ## Questions

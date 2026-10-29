@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-45-jathiya-signs-and-israel
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Ha-Mim: the signs, the scornful
   liar, Israel''s book and the Prophet''s shari''a'
-summary: 'These two units share 2 motifs: catalogue of signs: heavens and earth, alternation of night
-  and day, ships, rain reviving dead earth, beasts, winds, clouds, rain from the sky gives life to the
-  earth after its death, a sign of resurrection.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,63 +16,7 @@ layers:
 motifs:
 - signs-in-creation-catalogue
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Same inventory in nearly the same order: heavens, waters and clouds
-    (Ps 104:3 ha-śśām ʿābîm rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night
-    (104:19-20 tāšet ḥōšek wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships
-    (104:26 šām ʾŏniyyôt yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri
-    wa-l-fulki llatī tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli
-    dābbatin wa-taṣrīfi r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents
-    the list as signs for those who reason (la-āyātin li-qawmin yaʿqilūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:13
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds (Same inventory in nearly the same order: heavens, waters and clouds
-    (Ps 104:3 ha-śśām ʿābîm rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night
-    (104:19-20 tāšet ḥōšek wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships
-    (104:26 šām ʾŏniyyôt yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri
-    wa-l-fulki llatī tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli
-    dābbatin wa-taṣrīfi r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents
-    the list as signs for those who reason (la-āyātin li-qawmin yaʿqilūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 45:3
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 45:4
-  note: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
-    earth, beasts, winds, clouds'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٌ لِّقَوْمٍ يُوقِنُونَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 45:5
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Catalogue of signs: heavens and earth, alternation of night and
     day, ships, rain reviving dead earth, beasts, winds, clouds (weight 5.6); Rain from the sky gives
@@ -113,6 +55,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+  earth, beasts, winds, clouds'
+kinds:
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: shared
+  label: 'Catalogue of signs: heavens and earth, alternation of night and day, ships, rain reviving dead
+    earth, beasts, winds, clouds'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    note: 'Same inventory in nearly the same order: heavens, waters and clouds (Ps 104:3 ha-śśām ʿābîm
+      rĕkûbô), rain watering the earth (104:13), moon and sun, darkness and night (104:19-20 tāšet ḥōšek
+      wî-hî lāylâ), the many creatures (104:24 mālĕʾâ hā-ʾāreṣ qinyānekā), ships (104:26 šām ʾŏniyyôt
+      yĕhallēkûn); Q 2:164 khalqi s-samāwāti wa-l-arḍi wa-khtilāfi l-layli wa-n-nahāri wa-l-fulki llatī
+      tajrī fī l-baḥri ... min māʾin fa-aḥyā bihi l-arḍa ... wa-baththa fīhā min kulli dābbatin wa-taṣrīfi
+      r-riyāḥi wa-s-saḥāb. The psalm praises (mah rabbû maʿăśêkā); the Quran presents the list as signs
+      for those who reason (la-āyātin li-qawmin yaʿqilūn).'
+  - tradition: islam
+    passages:
+    - ref: Quran 45:3
+      lang: ar
+      text: إِنَّ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّلْمُؤْمِنِينَ
+    - ref: Quran 45:4
+      lang: ar
+      text: وَفِى خَلْقِكُمْ وَمَا يَبُثُّ مِن دَآبَّةٍ ءَايَٰتٌ لِّقَوْمٍ يُوقِنُونَ
+    - ref: Quran 45:5
+      lang: ar
+      text: وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا
+        بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌ لِّقَوْمٍ يَعْقِلُونَ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 45:5
+      lang: ar
+      text: وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزْقٍ فَأَحْيَا
+        بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَتَصْرِيفِ ٱلرِّيَٰحِ ءَايَٰتٌ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

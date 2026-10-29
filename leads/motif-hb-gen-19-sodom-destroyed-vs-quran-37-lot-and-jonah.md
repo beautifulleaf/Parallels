@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-37-lot-and-jonah
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Lot's old woman; Jonah and the fish
-summary: 'These two units share 2 motifs: the fate of lot''s wife [divergence between the texts], wife
-  who looks back is turned into a pillar of salt.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,67 +14,9 @@ layers:
 motifs:
 - fate-of-lots-wife-as-divergence
 - wife-turned-to-pillar-of-salt
-passages:
-- tradition: judaism
-  ref: Gen 19:16
-  note: 'The fate of Lot''s wife [divergence between the texts] (Lot''s wife. Gen: she leaves with him,
-    looks back against the order, and is turned to salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ.
-    Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn. An unnamed ''old woman'' who ''stayed
-    behind'' among the doomed: no look back, no salt, and no wife named. Lot is also called min al-mursalīn
-    (a messenger), a title Gen never gives him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:26
-  note: 'The fate of Lot''s wife [divergence between the texts] (Lot''s wife. Gen: she leaves with him,
-    looks back against the order, and is turned to salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ.
-    Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn. An unnamed ''old woman'' who ''stayed
-    behind'' among the doomed: no look back, no salt, and no wife named. Lot is also called min al-mursalīn
-    (a messenger), a title Gen never gives him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 37:134
-  note: 'The fate of Lot''s wife [divergence between the texts] (Lot''s wife. Gen: she leaves with him,
-    looks back against the order, and is turned to salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ.
-    Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn. An unnamed ''old woman'' who ''stayed
-    behind'' among the doomed: no look back, no salt, and no wife named. Lot is also called min al-mursalīn
-    (a messenger), a title Gen never gives him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 37:135
-  note: 'The fate of Lot''s wife [divergence between the texts] (Lot''s wife. Gen: she leaves with him,
-    looks back against the order, and is turned to salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ.
-    Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn. An unnamed ''old woman'' who ''stayed
-    behind'' among the doomed: no look back, no salt, and no wife named. Lot is also called min al-mursalīn
-    (a messenger), a title Gen never gives him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
-- tradition: judaism
-  ref: Gen 19:26
-  note: Wife who looks back is turned into a pillar of salt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 37:135
-  note: Wife who looks back is turned into a pillar of salt ('an old woman among those who stayed behind')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Lot''s wife. Gen: she leaves with him, looks back against the order, and is turned to
-    salt: wa-ttabbēṭ ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ. Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā
-    ʿajūzan fī l-ghābirīn. An unnamed ''old woman'' who ''stayed behind'' among the doomed: no look back,
-    no salt, and no wife named. Lot is also called min al-mursalīn (a messenger), a title Gen never gives
-    him.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fate of Lot''s wife [divergence between the texts] (weight 6.7);
     Wife who looks back is turned into a pillar of salt (weight 5.6). Pair score 12.3.'
@@ -112,6 +53,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The fate of Lot's wife
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+matches:
+- kind: divergence
+  label: The fate of Lot's wife
+  note: 'Lot''s wife. Gen: she leaves with him, looks back against the order, and is turned to salt: wa-ttabbēṭ
+    ʾištô mē-ʾaḥărâw wa-ttəhî nəṣîḇ melaḥ. Q: idh najjaynāhu wa-ahlahu ajmaʿīna illā ʿajūzan fī l-ghābirīn.
+    An unnamed ''old woman'' who ''stayed behind'' among the doomed: no look back, no salt, and no wife
+    named. Lot is also called min al-mursalīn (a messenger), a title Gen never gives him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 37:134
+      lang: ar
+      text: إِذْ نَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+    - ref: Quran 37:135
+      lang: ar
+      text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
+    - ref: Quran 37:136
+      lang: ar
+      text: ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ
+- kind: shared
+  label: Wife who looks back is turned into a pillar of salt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 37:135
+      lang: ar
+      text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
+    note: '''an old woman among those who stayed behind'''
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-37-abraham-idols-fire
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ Abraham, the stars,
   the smashed idols and the fire
-summary: 'These two units share 1 motifs: ''do you worship what you carve, when god created you and what
-  you make?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,44 +15,9 @@ layers:
 - motif
 motifs:
 - god-created-you-and-what-you-make
-passages:
-- tradition: judaism
-  ref: Isa 44:13
-  note: '''Do you worship what you carve, when God created you and what you make?'' (ḥāraš ʿēṣîm nāṭâ
-    qāw ... wa-yyaʿăśēhû kə-ṯaḇnîṯ ʾîš ... ʾap̄-yip̄ʿal-ʾēl wa-yyištāḥû vs. a-taʿbudūna mā tanḥitūna wa-llāhu
-    khalaqakum wa-mā taʿmalūn: worshipping what one carves. The Quran adds the reversal that God created
-    both the carver and his work.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָרַ֣שׁ עֵצִים֮ נָ֣טָה קָו֒ יְתָאֲרֵ֣הוּ בַשֶּׂ֔רֶד יַעֲשֵׂ֨הוּ֙ בַּמַּקְצֻע֔וֹת וּבַמְּחוּגָ֖ה
-    יְתָאֳרֵ֑הוּ וַֽיַּעֲשֵׂ֨הוּ֙ כְּתַבְנִ֣ית אִ֔ישׁ כְּתִפְאֶ֥רֶת אָדָ֖ם לָשֶׁ֥בֶת בָּֽיִת
-- tradition: judaism
-  ref: Isa 44:15
-  note: '''Do you worship what you carve, when God created you and what you make?'' (ḥāraš ʿēṣîm nāṭâ
-    qāw ... wa-yyaʿăśēhû kə-ṯaḇnîṯ ʾîš ... ʾap̄-yip̄ʿal-ʾēl wa-yyištāḥû vs. a-taʿbudūna mā tanḥitūna wa-llāhu
-    khalaqakum wa-mā taʿmalūn: worshipping what one carves. The Quran adds the reversal that God created
-    both the carver and his work.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
-    אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
-- tradition: islam
-  ref: Quran 37:95
-  note: '''Do you worship what you carve, when God created you and what you make?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
-- tradition: islam
-  ref: Quran 37:96
-  note: '''Do you worship what you carve, when God created you and what you make?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ḥāraš ʿēṣîm nāṭâ qāw ... wa-yyaʿăśēhû kə-ṯaḇnîṯ ʾîš ... ʾap̄-yip̄ʿal-ʾēl wa-yyištāḥû vs.
-    a-taʿbudūna mā tanḥitūna wa-llāhu khalaqakum wa-mā taʿmalūn: worshipping what one carves. The Quran
-    adds the reversal that God created both the carver and his work.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Do you worship what you carve, when God created you and what you
     make?'' (weight 6.7). Pair score 6.7.'
@@ -88,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Do you worship what you carve, when God created you and what you make?'''
+kinds:
+- parallel
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Do you worship what you carve, when God created you and what you make?'''
+  note: 'ḥāraš ʿēṣîm nāṭâ qāw ... wa-yyaʿăśēhû kə-ṯaḇnîṯ ʾîš ... ʾap̄-yip̄ʿal-ʾēl wa-yyištāḥû vs. a-taʿbudūna
+    mā tanḥitūna wa-llāhu khalaqakum wa-mā taʿmalūn: worshipping what one carves. The Quran adds the reversal
+    that God created both the carver and his work.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:13
+      lang: he
+      text: חָרַ֣שׁ עֵצִים֮ נָ֣טָה קָו֒ יְתָאֲרֵ֣הוּ בַשֶּׂ֔רֶד יַעֲשֵׂ֨הוּ֙ בַּמַּקְצֻע֔וֹת וּבַמְּחוּגָ֖ה
+        יְתָאֳרֵ֑הוּ וַֽיַּעֲשֵׂ֨הוּ֙ כְּתַבְנִ֣ית אִ֔ישׁ כְּתִפְאֶ֥רֶת אָדָ֖ם לָשֶׁ֥בֶת בָּֽיִת
+    - ref: Isa 44:15
+      lang: he
+      text: וְהָיָ֤ה לְאָדָם֙ לְבָעֵ֔ר וַיִּקַּ֤ח מֵהֶם֙ וַיָּ֔חָם אַף יַשִּׂ֖יק וְאָ֣פָה לָ֑חֶם אַף יִפְעַל
+        אֵל֙ וַיִּשְׁתָּ֔חוּ עָשָׂ֥הוּ פֶ֖סֶל וַיִּסְגָּד לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:95
+      lang: ar
+      text: قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ
+    - ref: Quran 37:96
+      lang: ar
+      text: وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ
 ---
 
 ## Questions

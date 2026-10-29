@@ -2,8 +2,7 @@
 id: motif-hb-hos-4-lawsuit-priests-vs-quran-30-fitra
 title: YHWH's lawsuit; priests, divination and cultic harlotry ↔ The slave-partner parable, the fitra,
   and the social duties
-summary: 'These two units share 1 motifs: because of sin the land mourns and beasts, birds and even fish
-  of the sea perish.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - land-mourns-creatures-perish
-passages:
-- tradition: judaism
-  ref: Hos 4:3
-  note: Because of sin the land mourns and beasts, birds and even fish of the sea perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל כֵּ֣ן תֶּאֱבַ֣ל הָאָ֗רֶץ וְאֻמְלַל֙ כָּל יוֹשֵׁ֣ב בָּ֔הּ בְּחַיַּ֥ת הַשָּׂדֶ֖ה וּבְע֣וֹף הַשָּׁמָ֑יִם
-    וְגַם דְּגֵ֥י הַיָּ֖ם יֵאָסֵֽפוּ
-- tradition: judaism
-  ref: Hos 4:2
-  note: Because of sin the land mourns and beasts, birds and even fish of the sea perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָלֹ֣ה וְכַחֵ֔שׁ וְרָצֹ֥חַ וְגָנֹ֖ב וְנָאֹ֑ף פָּרָ֕צוּ וְדָמִ֥ים בְּדָמִ֖ים נָגָֽעוּ
-- tradition: islam
-  ref: Quran 30:41
-  note: Because of sin the land mourns and beasts, birds and even fish of the sea perish (ẓahara l-fasādu
-    fī l-barri wa-l-baḥri bi-mā kasabat aydī n-nāsi li-yudhīqahum baʿḍa lladhī ʿamilū vs. ʿal-kēn teʾĕḇal
-    hā-ʾāreṣ ... wə-ḡam dəḡê hay-yām yēʾāsēp̄û after the list of crimes (ʾālōh wə-ḵaḥēš wə-rāṣōaḥ...).
-    Human sin damages land and sea alike. The Quran adds the purpose, laʿallahum yarjiʿūn (that they may
-    return).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ
-    ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ẓahara l-fasādu fī l-barri wa-l-baḥri bi-mā kasabat aydī n-nāsi li-yudhīqahum baʿḍa lladhī
-    ʿamilū vs. ʿal-kēn teʾĕḇal hā-ʾāreṣ ... wə-ḡam dəḡê hay-yām yēʾāsēp̄û after the list of crimes (ʾālōh
-    wə-ḵaḥēš wə-rāṣōaḥ...). Human sin damages land and sea alike. The Quran adds the purpose, laʿallahum
-    yarjiʿūn (that they may return).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Because of sin the land mourns and beasts, birds and even fish of
     the sea perish (weight 6.3). Pair score 6.3.'
@@ -80,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Because of sin the land mourns and beasts, birds and even fish of the sea perish
+kinds:
+- parallel
+units:
+- id: hb-hos-4-lawsuit-priests
+  title: YHWH's lawsuit; priests, divination and cultic harlotry
+  tradition: judaism
+- id: quran-30-fitra
+  title: The slave-partner parable, the fitra, and the social duties
+  tradition: islam
+matches:
+- kind: parallel
+  label: Because of sin the land mourns and beasts, birds and even fish of the sea perish
+  note: ẓahara l-fasādu fī l-barri wa-l-baḥri bi-mā kasabat aydī n-nāsi li-yudhīqahum baʿḍa lladhī ʿamilū
+    vs. ʿal-kēn teʾĕḇal hā-ʾāreṣ ... wə-ḡam dəḡê hay-yām yēʾāsēp̄û after the list of crimes (ʾālōh wə-ḵaḥēš
+    wə-rāṣōaḥ...). Human sin damages land and sea alike. The Quran adds the purpose, laʿallahum yarjiʿūn
+    (that they may return).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 4:2
+      lang: he
+      text: אָלֹ֣ה וְכַחֵ֔שׁ וְרָצֹ֥חַ וְגָנֹ֖ב וְנָאֹ֑ף פָּרָ֕צוּ וְדָמִ֥ים בְּדָמִ֖ים נָגָֽעוּ
+    - ref: Hos 4:3
+      lang: he
+      text: עַל כֵּ֣ן תֶּאֱבַ֣ל הָאָ֗רֶץ וְאֻמְלַל֙ כָּל יוֹשֵׁ֣ב בָּ֔הּ בְּחַיַּ֥ת הַשָּׂדֶ֖ה וּבְע֣וֹף
+        הַשָּׁמָ֑יִם וְגַם דְּגֵ֥י הַיָּ֖ם יֵאָסֵֽפוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 30:41
+      lang: ar
+      text: ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ
+        ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ
 ---
 
 ## Questions

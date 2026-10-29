@@ -2,9 +2,7 @@
 id: motif-hb-judg-6-jerubbaal-fleece-vs-quran-6-abraham-heavenly-bodies
 title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs ↔ Abraham, Azar and the
   star, moon and sun
-summary: 'These two units share 3 motifs: if he is a god, let him defend himself [divergence between the
-  texts], hero''s father makes, sells or worships idols [divergence between the texts], hero''s father
-  makes, sells or worships idols.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,104 +16,9 @@ motifs:
 - let-the-god-defend-himself-as-divergence
 - father-serves-idols-as-divergence
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Judg 6:30
-  note: 'If he is a god, let him defend himself [divergence between the texts] (A son against his father''s
-    gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā wə-yāmōt; the father Joash defends
-    him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā akhāfu mā tushrikūna bihi: Abraham,
-    not his father, mocks the impotence of the gods, and the father stays an idolater.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל יוֹאָ֔שׁ הוֹצֵ֥א אֶת בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת מִזְבַּ֣ח
-    הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָֽיו
-- tradition: judaism
-  ref: Judg 6:31
-  note: 'If he is a god, let him defend himself [divergence between the texts] (A son against his father''s
-    gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā wə-yāmōt; the father Joash defends
-    him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā akhāfu mā tushrikūna bihi: Abraham,
-    not his father, mocks the impotence of the gods, and the father stays an idolater.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
-    תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ כִּ֥י
-    נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
-- tradition: islam
-  ref: Quran 6:80
-  note: 'If he is a god, let him defend himself [divergence between the texts] (A son against his father''s
-    gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā wə-yāmōt; the father Joash defends
-    him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā akhāfu mā tushrikūna bihi: Abraham,
-    not his father, mocks the impotence of the gods, and the father stays an idolater.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحَآجَّهُۥ قَوْمُهُۥ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ وَلَآ أَخَافُ مَا
-    تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا أَفَلَا
-    تَتَذَكَّرُونَ
-- tradition: islam
-  ref: Quran 6:81
-  note: 'If he is a god, let him defend himself [divergence between the texts] (A son against his father''s
-    gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā wə-yāmōt; the father Joash defends
-    him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā akhāfu mā tushrikūna bihi: Abraham,
-    not his father, mocks the impotence of the gods, and the father stays an idolater.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ يُنَزِّلْ
-    بِهِۦ عَلَيْكُمْ سُلْطَٰنًا فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: judaism
-  ref: Judg 6:25
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (A hero of God whose
-    father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun li-llāh. The fathers end
-    differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb lô); Abraham''s father
-    stays God''s enemy and is disowned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: judaism
-  ref: Judg 6:31
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (A hero of God whose
-    father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun li-llāh. The fathers end
-    differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb lô); Abraham''s father
-    stays God''s enemy and is disowned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
-    תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ כִּ֥י
-    נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
-- tradition: islam
-  ref: Quran 6:74
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s father
-    served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm
-    ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār. Q: wa-idh qāla Ibrāhīmu
-    li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar and confronted, and Abraham
-    reasons his own way out (6:76-79).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ
-    وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ
-- tradition: judaism
-  ref: Judg 6:25
-  note: Hero's father makes, sells or worships idols (the Baal altar and Asherah belong to Gideon's father
-    Joash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: islam
-  ref: Quran 6:74
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ
-    وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. A son against his father''s gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā
-    wə-yāmōt; the father Joash defends him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā
-    akhāfu mā tushrikūna bihi: Abraham, not his father, mocks the impotence of the gods, and the father
-    stays an idolater.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If he is a god, let him defend himself [divergence between the texts]
     (weight 6.7); Hero''s father makes, sells or worships idols [divergence between the texts] (weight
@@ -147,6 +50,92 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If he is a god, let him defend himself
+kinds:
+- divergence
+- shared
+units:
+- id: hb-judg-6-jerubbaal-fleece
+  title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+  tradition: judaism
+- id: quran-6-abraham-heavenly-bodies
+  title: Abraham, Azar and the star, moon and sun
+  tradition: islam
+matches:
+- kind: divergence
+  label: If he is a god, let him defend himself
+  note: 'A son against his father''s gods and the townsmen. Judg: the townsmen demand hôṣēʾ ʾet-binkhā
+    wə-yāmōt; the father Joash defends him, ʾim-ʾĕlōhîm hûʾ yāreb lô. Q: wa-ḥājjahu qawmuhu ... wa-lā
+    akhāfu mā tushrikūna bihi: Abraham, not his father, mocks the impotence of the gods, and the father
+    stays an idolater.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:30
+      lang: he
+      text: וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל יוֹאָ֔שׁ הוֹצֵ֥א אֶת בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת
+        מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָֽיו
+    - ref: Judg 6:31
+      lang: he
+      text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
+        תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ
+        כִּ֥י נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:80
+      lang: ar
+      text: وَحَآجَّهُۥ قَوْمُهُۥ قَالَ أَتُحَٰٓجُّوٓنِّى فِى ٱللَّهِ وَقَدْ هَدَىٰنِ وَلَآ أَخَافُ
+        مَا تُشْرِكُونَ بِهِۦٓ إِلَّآ أَن يَشَآءَ رَبِّى شَيْـًٔا وَسِعَ رَبِّى كُلَّ شَىْءٍ عِلْمًا
+        أَفَلَا تَتَذَكَّرُونَ
+    - ref: Quran 6:81
+      lang: ar
+      text: وَكَيْفَ أَخَافُ مَآ أَشْرَكْتُمْ وَلَا تَخَافُونَ أَنَّكُمْ أَشْرَكْتُم بِٱللَّهِ مَا لَمْ
+        يُنَزِّلْ بِهِۦ عَلَيْكُمْ سُلْطَٰنًا فَأَىُّ ٱلْفَرِيقَيْنِ أَحَقُّ بِٱلْأَمْنِ إِن كُنتُمْ تَعْلَمُونَ
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    - ref: Judg 6:31
+      lang: he
+      text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
+        תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ
+        כִּ֥י נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
+    note: 'A hero of God whose father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun
+      li-llāh. The fathers end differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb
+      lô); Abraham''s father stays God''s enemy and is disowned.'
+  - tradition: islam
+    passages:
+    - ref: Quran 6:74
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ
+        وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ
+    note: 'Abraham''s father served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām
+      ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār.
+      Q: wa-idh qāla Ibrāhīmu li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar
+      and confronted, and Abraham reasons his own way out (6:76-79).'
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    note: the Baal altar and Asherah belong to Gideon's father Joash
+  - tradition: islam
+    passages:
+    - ref: Quran 6:74
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصْنَامًا ءَالِهَةً إِنِّىٓ أَرَىٰكَ
+        وَقَوْمَكَ فِى ضَلَٰلٍ مُّبِينٍ
 ---
 
 ## Questions

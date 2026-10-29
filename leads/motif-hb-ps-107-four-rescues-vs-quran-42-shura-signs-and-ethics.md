@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-42-shura-signs-and-ethics
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Provision in
   measure, rain, ships like mountains and the ethics of consultation and pardon
-summary: 'These two units share 1 motifs: god''s control of the wind over ships at sea: raising a storm
-  or stilling it [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,59 +14,9 @@ layers:
 - motif
 motifs:
 - god-controls-wind-over-ships-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 107:23
-  note: 'God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between
-    the texts] (Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107:
-    wa-yaʿămēḏ rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the
-    storm is the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida
-    ʿalā ẓahrihi aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for
-    sailing ships the calm itself is the threat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
-- tradition: judaism
-  ref: Ps 107:25
-  note: 'God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between
-    the texts] (Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107:
-    wa-yaʿămēḏ rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the
-    storm is the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida
-    ʿalā ẓahrihi aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for
-    sailing ships the calm itself is the threat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
-- tradition: islam
-  ref: Quran 42:32
-  note: 'God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between
-    the texts] (Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107:
-    wa-yaʿămēḏ rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the
-    storm is the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida
-    ʿalā ẓahrihi aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for
-    sailing ships the calm itself is the threat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ
-- tradition: islam
-  ref: Quran 42:33
-  note: 'God''s control of the wind over ships at sea: raising a storm or stilling it [divergence between
-    the texts] (Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107:
-    wa-yaʿămēḏ rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the
-    storm is the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida
-    ʿalā ẓahrihi aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for
-    sailing ships the calm itself is the threat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ
-    لِّكُلِّ صَبَّارٍ شَكُورٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107:
-    wa-yaʿămēḏ rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the
-    storm is the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida
-    ʿalā ẓahrihi aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for
-    sailing ships the calm itself is the threat.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s control of the wind over ships at sea: raising a storm or
     stilling it [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -108,6 +57,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God''s control of the wind over ships at sea: raising a storm or stilling it'
+kinds:
+- divergence
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'God''s control of the wind over ships at sea: raising a storm or stilling it'
+  note: 'Ships at sea as a sign of God''s power over the wind, with the danger reversed. Ps 107: wa-yaʿămēḏ
+    rûaḥ səʿārâ; the sailors cry out and yāqēm səʿārâ li-ḏmāmâ ... wa-yiśməḥû kî yištōqû (the storm is
+    the danger, the calm the rescue). Q 42:33: in yashaʾ yuskini r-rīḥa fa-yaẓlalna rawākida ʿalā ẓahrihi
+    aw yūbiqhunna (he could still the wind and leave them motionless, or wreck them): for sailing ships
+    the calm itself is the threat.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:23
+      lang: he
+      text: יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים
+    - ref: Ps 107:25
+      lang: he
+      text: וַיֹּ֗אמֶר וַֽ֭יַּעֲמֵד ר֣וּחַ סְעָרָ֑ה וַתְּרוֹמֵ֥ם גַּלָּֽיו
+    - ref: Ps 107:29
+      lang: he
+      text: יָקֵ֣ם סְ֭עָרָה לִדְמָמָ֑ה וַ֝יֶּחֱשׁ֗וּ גַּלֵּיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 42:32
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِ ٱلْجَوَارِ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ
+    - ref: Quran 42:33
+      lang: ar
+      text: إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ رَوَاكِدَ عَلَىٰ ظَهْرِهِۦٓ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ
+        لِّكُلِّ صَبَّارٍ شَكُورٍ
+    - ref: Quran 42:34
+      lang: ar
+      text: أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا۟ وَيَعْفُ عَن كَثِيرٍ
 ---
 
 ## Questions

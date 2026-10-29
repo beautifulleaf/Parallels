@@ -2,8 +2,7 @@
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-11-opening-throne-on-water
 title: Joshua commissioned; Torah written and deposited; the Song commanded ↔ The Book made firm, the
   Throne on the water, the challenge of ten surahs
-summary: 'These two units share 1 motifs: moses writes the torah and gives it to the levitical priests
-  and elders.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - moses-writes-torah
-passages:
-- tradition: judaism
-  ref: Deut 31:9
-  note: Moses writes the Torah and gives it to the Levitical priests and elders
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַנֹּ֣שְׂאִ֔ים
-    אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Deut 31:24
-  note: Moses writes the Torah and gives it to the Levitical priests and elders
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י כְּכַלּ֣וֹת מֹשֶׁ֗ה לִכְתֹּ֛ב אֶת דִּבְרֵ֥י הַתּוֹרָֽה הַזֹּ֖את עַל סֵ֑פֶר עַ֖ד תֻּמָּֽם
-- tradition: islam
-  ref: Quran 11:17
-  note: 'Moses writes the Torah and gives it to the Levitical priests and elders (Moses'' book as a lasting
-    standard for the people: wa-min qablihi kitābu mūsā imāman wa-raḥmatan vs wayyiktōb mōšeh ʾet-hattôrāh
-    hazzōʾt ... wᵉhāyāh šām bᵉkā lᵉʿēd. Deut calls it a witness against the people; Q a guide and mercy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ كِتَٰبُ
-    مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ مِنَ ٱلْأَحْزَابِ
-    فَٱلنَّارُ مَوْعِدُهُۥ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكْثَرَ
-    ٱلنَّاسِ لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Moses'' book as a lasting standard for the people: wa-min qablihi kitābu mūsā imāman wa-raḥmatan
-    vs wayyiktōb mōšeh ʾet-hattôrāh hazzōʾt ... wᵉhāyāh šām bᵉkā lᵉʿēd. Deut calls it a witness against
-    the people; Q a guide and mercy.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses writes the Torah and gives it to the Levitical priests and
     elders (weight 6.7). Pair score 6.7.'
@@ -81,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses writes the Torah and gives it to the Levitical priests and elders
+kinds:
+- echo
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: echo
+  label: Moses writes the Torah and gives it to the Levitical priests and elders
+  note: 'Moses'' book as a lasting standard for the people: wa-min qablihi kitābu mūsā imāman wa-raḥmatan
+    vs wayyiktōb mōšeh ʾet-hattôrāh hazzōʾt ... wᵉhāyāh šām bᵉkā lᵉʿēd. Deut calls it a witness against
+    the people; Q a guide and mercy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:9
+      lang: he
+      text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י
+        הַנֹּ֣שְׂאִ֔ים אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
+    - ref: Deut 31:26
+      lang: he
+      text: לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית יְהוָ֖ה
+        אֱלֹהֵיכֶ֑ם וְהָֽיָה שָׁ֥ם בְּךָ֖ לְעֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 11:17
+      lang: ar
+      text: أَفَمَن كَانَ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّهِۦ وَيَتْلُوهُ شَاهِدٌ مِّنْهُ وَمِن قَبْلِهِۦ
+        كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ وَمَن يَكْفُرْ بِهِۦ مِنَ
+        ٱلْأَحْزَابِ فَٱلنَّارُ مَوْعِدُهُۥ فَلَا تَكُ فِى مِرْيَةٍ مِّنْهُ إِنَّهُ ٱلْحَقُّ مِن رَّبِّكَ
+        وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
 ---
 
 ## Questions

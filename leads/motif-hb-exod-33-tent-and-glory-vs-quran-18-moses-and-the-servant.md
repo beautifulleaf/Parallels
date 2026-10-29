@@ -2,7 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-18-moses-and-the-servant
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ Moses and the servant of God at
   the meeting of the two seas (Surah 18:60-82)
-summary: 'These two units share 1 motifs: moses travels with his young servant (fata).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - moses-with-young-servant
-passages:
-- tradition: judaism
-  ref: Exod 33:11
-  note: 'Moses travels with his young servant (fata) (ûməšārətô yəhôšuaʿ bin-nûn naʿar lōʾ yāmîš mittôk
-    hāʾōhel; wa-idh qāla Mūsā li-fatāhu: Moses'' attendant is called ''the youth'' (naʿar / fatā). Q leaves
-    him unnamed; exegesis identifies him with Joshua.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙
-    אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל
-- tradition: islam
-  ref: Quran 18:60
-  note: 'Moses travels with his young servant (fata) (fatāhu, unnamed (exegesis: Joshua son of Nun))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ
-    حُقُبًا
-- tradition: islam
-  ref: Quran 18:62
-  note: 'Moses travels with his young servant (fata) (fatāhu, unnamed (exegesis: Joshua son of Nun))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا نَصَبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ûməšārətô yəhôšuaʿ bin-nûn naʿar lōʾ yāmîš mittôk hāʾōhel; wa-idh qāla Mūsā li-fatāhu: Moses''
-    attendant is called ''the youth'' (naʿar / fatā). Q leaves him unnamed; exegesis identifies him with
-    Joshua.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses travels with his young servant (fata) (weight 6.7). Pair score
     6.7.'
@@ -75,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses travels with his young servant (fata)
+kinds:
+- parallel
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-18-moses-and-the-servant
+  title: Moses and the servant of God at the meeting of the two seas (Surah 18:60-82)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Moses travels with his young servant (fata)
+  note: 'ûməšārətô yəhôšuaʿ bin-nûn naʿar lōʾ yāmîš mittôk hāʾōhel; wa-idh qāla Mūsā li-fatāhu: Moses''
+    attendant is called ''the youth'' (naʿar / fatā). Q leaves him unnamed; exegesis identifies him with
+    Joshua.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:11
+      lang: he
+      text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ
+        וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ
+        הָאֹֽהֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 18:60
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ
+        أَمْضِىَ حُقُبًا
+    - ref: Quran 18:62
+      lang: ar
+      text: فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَآءَنَا لَقَدْ لَقِينَا مِن سَفَرِنَا هَٰذَا
+        نَصَبًا
 ---
 
 ## Questions

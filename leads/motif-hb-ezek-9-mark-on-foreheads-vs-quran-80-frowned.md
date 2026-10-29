@@ -2,8 +2,7 @@
 id: motif-hb-ezek-9-mark-on-foreheads-vs-quran-80-frowned
 title: 'The six executioners and the man in linen who marks the foreheads ↔ He frowned: the blind man
   and the honored scrolls'
-summary: 'These two units share 1 motifs: the reminder is in honored, exalted, purified scrolls in the
-  hands of noble, righteous scribes (safara).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - honored-scrolls-in-hands-of-scribes
-passages:
-- tradition: judaism
-  ref: Ezek 9:2
-  note: 'The reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes
-    (safara) (fī ṣuḥufin mukarramatin ... bi-aydī safaratin kirāmin bararatin ~ we-qeset ha-ssōfēr be-motnāyw:
-    heavenly scribes; safara is cognate with sōfēr. Leads only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּ֣ה שִׁשָּׁ֣ה אֲנָשִׁ֡ים בָּאִ֣ים מִדֶּרֶךְ שַׁ֨עַר הָעֶלְי֜וֹן אֲשֶׁ֣ר מָפְנֶ֣ה צָפ֗וֹנָה
-    וְאִ֨ישׁ כְּלִ֤י מַפָּצוֹ֙ בְּיָד֔וֹ וְאִישׁ אֶחָ֤ד בְּתוֹכָם֙ לָבֻ֣שׁ בַּדִּ֔ים וְקֶ֥סֶת הַסֹּפֵ֖ר
-    בְּמָתְנָ֑יו וַיָּבֹ֨אוּ֙ וַיַּ֣עַמְד֔וּ אֵ֖צֶל מִזְבַּ֥ח הַנְּחֹֽשֶׁת
-- tradition: islam
-  ref: Quran 80:13
-  note: The reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes
-    (safara)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِى صُحُفٍ مُّكَرَّمَةٍ
-- tradition: islam
-  ref: Quran 80:14
-  note: The reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes
-    (safara)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fī ṣuḥufin mukarramatin ... bi-aydī safaratin kirāmin bararatin ~ we-qeset ha-ssōfēr be-motnāyw:
-    heavenly scribes; safara is cognate with sōfēr. Leads only.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The reminder is in honored, exalted, purified scrolls in the hands
     of noble, righteous scribes (safara) (weight 6.7). Pair score 6.7.'
@@ -77,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes
+  (safara)
+kinds:
+- echo
+units:
+- id: hb-ezek-9-mark-on-foreheads
+  title: The six executioners and the man in linen who marks the foreheads
+  tradition: judaism
+- id: quran-80-frowned
+  title: 'He frowned: the blind man and the honored scrolls'
+  tradition: islam
+matches:
+- kind: echo
+  label: The reminder is in honored, exalted, purified scrolls in the hands of noble, righteous scribes
+    (safara)
+  note: 'fī ṣuḥufin mukarramatin ... bi-aydī safaratin kirāmin bararatin ~ we-qeset ha-ssōfēr be-motnāyw:
+    heavenly scribes; safara is cognate with sōfēr. Leads only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 9:2
+      lang: he
+      text: וְהִנֵּ֣ה שִׁשָּׁ֣ה אֲנָשִׁ֡ים בָּאִ֣ים מִדֶּרֶךְ שַׁ֨עַר הָעֶלְי֜וֹן אֲשֶׁ֣ר מָפְנֶ֣ה צָפ֗וֹנָה
+        וְאִ֨ישׁ כְּלִ֤י מַפָּצוֹ֙ בְּיָד֔וֹ וְאִישׁ אֶחָ֤ד בְּתוֹכָם֙ לָבֻ֣שׁ בַּדִּ֔ים וְקֶ֥סֶת הַסֹּפֵ֖ר
+        בְּמָתְנָ֑יו וַיָּבֹ֨אוּ֙ וַיַּ֣עַמְד֔וּ אֵ֖צֶל מִזְבַּ֥ח הַנְּחֹֽשֶׁת
+  - tradition: islam
+    passages:
+    - ref: Quran 80:13
+      lang: ar
+      text: فِى صُحُفٍ مُّكَرَّمَةٍ
+    - ref: Quran 80:15
+      lang: ar
+      text: بِأَيْدِى سَفَرَةٍ
+    - ref: Quran 80:16
+      lang: ar
+      text: كِرَامٍۭ بَرَرَةٍ
 ---
 
 ## Questions

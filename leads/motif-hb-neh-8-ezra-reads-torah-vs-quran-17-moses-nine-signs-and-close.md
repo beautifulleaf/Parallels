@@ -2,9 +2,7 @@
 id: motif-hb-neh-8-ezra-reads-torah-vs-quran-17-moses-nine-signs-and-close
 title: Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored ↔ Moses' nine signs,
   the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
-summary: 'These two units share 2 motifs: those given knowledge before fall on their chins prostrate and
-  weeping when the scripture is recited [divergence between the texts], the people weep on hearing the
-  words of the torah.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,71 +15,9 @@ layers:
 motifs:
 - scholars-of-earlier-scripture-prostrate-weeping-as-divergence
 - weeping-at-hearing-the-law
-passages:
-- tradition: judaism
-  ref: Neh 8:6
-  note: 'Those given knowledge before fall on their chins prostrate and weeping when the scripture is
-    recited [divergence between the texts] (At a public reading of scripture the hearers bow with faces
-    to the ground and weep: wayyiqqədû wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām
-    ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the
-    weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû, the day is holy); in Q it is praised as growing humility.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ עֶזְרָ֔א אֶת יְהוָ֥ה הָאֱלֹהִ֖ים הַגָּד֑וֹל וַיַּֽעֲנ֨וּ כָל הָעָ֜ם אָמֵ֤ן אָמֵן֙
-    בְּמֹ֣עַל יְדֵיהֶ֔ם וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻּ֛ לַיהוָ֖ה אַפַּ֥יִם אָֽרְצָה
-- tradition: judaism
-  ref: Neh 8:9
-  note: 'Those given knowledge before fall on their chins prostrate and weeping when the scripture is
-    recited [divergence between the texts] (At a public reading of scripture the hearers bow with faces
-    to the ground and weep: wayyiqqədû wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām
-    ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the
-    weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû, the day is holy); in Q it is praised as growing humility.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
-    אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל תִּבְכּ֑וּ
-    כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
-- tradition: islam
-  ref: Quran 17:107
-  note: 'Those given knowledge before fall on their chins prostrate and weeping when the scripture is
-    recited [divergence between the texts] (At a public reading of scripture the hearers bow with faces
-    to the ground and weep: wayyiqqədû wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām
-    ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the
-    weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû, the day is holy); in Q it is praised as growing humility.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ
-    إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا
-- tradition: islam
-  ref: Quran 17:108
-  note: 'Those given knowledge before fall on their chins prostrate and weeping when the scripture is
-    recited [divergence between the texts] (At a public reading of scripture the hearers bow with faces
-    to the ground and weep: wayyiqqədû wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām
-    ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the
-    weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû, the day is holy); in Q it is praised as growing humility.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا
-- tradition: judaism
-  ref: Neh 8:9
-  note: The people weep on hearing the words of the Torah
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
-    אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל תִּבְכּ֑וּ
-    כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
-- tradition: islam
-  ref: Quran 17:109
-  note: The people weep on hearing the words of the Torah
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. At a public reading of scripture the hearers bow with faces to the ground and weep: wayyiqqədû
-    wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni
-    sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû,
-    the day is holy); in Q it is praised as growing humility.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those given knowledge before fall on their chins prostrate and weeping
     when the scripture is recited [divergence between the texts] (weight 6.7); The people weep on hearing
@@ -118,6 +54,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those given knowledge before fall on their chins prostrate and weeping when the scripture is
+  recited
+kinds:
+- divergence
+- shared
+units:
+- id: hb-neh-8-ezra-reads-torah
+  title: Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Those given knowledge before fall on their chins prostrate and weeping when the scripture is
+    recited
+  note: 'At a public reading of scripture the hearers bow with faces to the ground and weep: wayyiqqədû
+    wayyištaḥăwū laYHWH ʾappayim ʾārṣâ ... kî bôkîm kol-hāʿām kəšomʿām ʾet-dibrê hattôrâ; yakhirrūna li-l-adhqāni
+    sujjadan ... yabkūna wa-yazīduhum khushūʿā. In Neh the weeping is stopped (ʾal-titʾabbəlû wəʾal-tibkû,
+    the day is holy); in Q it is praised as growing humility.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 8:6
+      lang: he
+      text: וַיְבָ֣רֶךְ עֶזְרָ֔א אֶת יְהוָ֥ה הָאֱלֹהִ֖ים הַגָּד֑וֹל וַיַּֽעֲנ֨וּ כָל הָעָ֜ם אָמֵ֤ן אָמֵן֙
+        בְּמֹ֣עַל יְדֵיהֶ֔ם וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻּ֛ לַיהוָ֖ה אַפַּ֥יִם אָֽרְצָה
+    - ref: Neh 8:9
+      lang: he
+      text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
+        אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל
+        תִּבְכּ֑וּ כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 17:107
+      lang: ar
+      text: قُلْ ءَامِنُوا۟ بِهِۦٓ أَوْ لَا تُؤْمِنُوٓا۟ إِنَّ ٱلَّذِينَ أُوتُوا۟ ٱلْعِلْمَ مِن قَبْلِهِۦٓ
+        إِذَا يُتْلَىٰ عَلَيْهِمْ يَخِرُّونَ لِلْأَذْقَانِ سُجَّدًا
+    - ref: Quran 17:108
+      lang: ar
+      text: وَيَقُولُونَ سُبْحَٰنَ رَبِّنَآ إِن كَانَ وَعْدُ رَبِّنَا لَمَفْعُولًا
+    - ref: Quran 17:109
+      lang: ar
+      text: وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا
+- kind: shared
+  label: The people weep on hearing the words of the Torah
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 8:9
+      lang: he
+      text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
+        אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל
+        תִּבְכּ֑וּ כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 17:109
+      lang: ar
+      text: وَيَخِرُّونَ لِلْأَذْقَانِ يَبْكُونَ وَيَزِيدُهُمْ خُشُوعًا
 ---
 
 ## Questions

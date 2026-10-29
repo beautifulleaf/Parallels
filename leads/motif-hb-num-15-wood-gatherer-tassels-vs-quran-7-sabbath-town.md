@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-15-wood-gatherer-tassels-vs-quran-7-sabbath-town
 title: The Sabbath wood-gatherer; the law of tassels ↔ The Sabbath-breaking seaside town turned into apes
-summary: 'These two units share 1 motifs: punishment of those who break the sabbath [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,54 +13,9 @@ layers:
 - motif
 motifs:
 - punishment-of-sabbath-breakers-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 15:32
-  note: 'Punishment of those who break the Sabbath [divergence between the texts] (Punishment for breaking
-    the Sabbath: Num 15:35-36 môt yûmat hā-ʾîš rāgôm ʾōtô bā-ʾăbānîm kol hā-ʿēdâ: one man, gathering wood,
-    stoned by the whole community on God''s ruling; Q 2:65-66 alladhīna ʿtadaw minkum fī s-sabti fa-qulnā
-    lahum kūnū qiradatan khāsiʾīn: a group who transgressed are turned into despised apes by God''s word,
-    made a deterrent (nakālan) for those before and after. Human execution becomes divine transformation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּהְי֥וּ בְנֵֽי יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וַֽיִּמְצְא֗וּ אִ֛ישׁ מְקֹשֵׁ֥שׁ עֵצִ֖ים בְּי֥וֹם
-    הַשַּׁבָּֽת
-- tradition: judaism
-  ref: Num 15:35
-  note: 'Punishment of those who break the Sabbath [divergence between the texts] (Punishment for breaking
-    the Sabbath: Num 15:35-36 môt yûmat hā-ʾîš rāgôm ʾōtô bā-ʾăbānîm kol hā-ʿēdâ: one man, gathering wood,
-    stoned by the whole community on God''s ruling; Q 2:65-66 alladhīna ʿtadaw minkum fī s-sabti fa-qulnā
-    lahum kūnū qiradatan khāsiʾīn: a group who transgressed are turned into despised apes by God''s word,
-    made a deterrent (nakālan) for those before and after. Human execution becomes divine transformation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה מ֥וֹת יוּמַ֖ת הָאִ֑ישׁ רָג֨וֹם אֹת֤וֹ בָֽאֲבָנִים֙ כָּל הָ֣עֵדָ֔ה
-    מִח֖וּץ לַֽמַּחֲנֶֽה
-- tradition: islam
-  ref: Quran 7:165
-  note: 'Punishment of those who break the Sabbath [divergence between the texts] (Sabbath-breakers punished
-    by God''s ruling: akhadhnā lladhīna ẓalamū bi-ʿadhābin baʾīsin; kūnū qiradatan khāsiʾīn vs môt yûmat
-    hāʾîš rāgôm ʾōtô bāʾăbānîm kol-hāʿēdāh. In Num the community stones one man; in Q God transforms a
-    whole town and spares those who forbade the evil (anjaynā lladhīna yanhawna ʿani s-sūʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا
-    ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ
-- tradition: islam
-  ref: Quran 7:166
-  note: 'Punishment of those who break the Sabbath [divergence between the texts] (Sabbath-breakers punished
-    by God''s ruling: akhadhnā lladhīna ẓalamū bi-ʿadhābin baʾīsin; kūnū qiradatan khāsiʾīn vs môt yûmat
-    hāʾîš rāgôm ʾōtô bāʾăbānîm kol-hāʿēdāh. In Num the community stones one man; in Q God transforms a
-    whole town and spares those who forbade the evil (anjaynā lladhīna yanhawna ʿani s-sūʾ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Sabbath-breakers punished by God''s ruling: akhadhnā lladhīna ẓalamū bi-ʿadhābin baʾīsin;
-    kūnū qiradatan khāsiʾīn vs môt yûmat hāʾîš rāgôm ʾōtô bāʾăbānîm kol-hāʿēdāh. In Num the community
-    stones one man; in Q God transforms a whole town and spares those who forbade the evil (anjaynā lladhīna
-    yanhawna ʿani s-sūʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Punishment of those who break the Sabbath [divergence between the
     texts] (weight 6.0). Pair score 6.0.'
@@ -87,6 +41,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Punishment of those who break the Sabbath
+kinds:
+- divergence
+units:
+- id: hb-num-15-wood-gatherer-tassels
+  title: The Sabbath wood-gatherer; the law of tassels
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: divergence
+  label: Punishment of those who break the Sabbath
+  note: 'Sabbath-breakers punished by God''s ruling: akhadhnā lladhīna ẓalamū bi-ʿadhābin baʾīsin; kūnū
+    qiradatan khāsiʾīn vs môt yûmat hāʾîš rāgôm ʾōtô bāʾăbānîm kol-hāʿēdāh. In Num the community stones
+    one man; in Q God transforms a whole town and spares those who forbade the evil (anjaynā lladhīna
+    yanhawna ʿani s-sūʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 15:32
+      lang: he
+      text: וַיִּהְי֥וּ בְנֵֽי יִשְׂרָאֵ֖ל בַּמִּדְבָּ֑ר וַֽיִּמְצְא֗וּ אִ֛ישׁ מְקֹשֵׁ֥שׁ עֵצִ֖ים בְּי֥וֹם
+        הַשַּׁבָּֽת
+    - ref: Num 15:35
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה מ֥וֹת יוּמַ֖ת הָאִ֑ישׁ רָג֨וֹם אֹת֤וֹ בָֽאֲבָנִים֙ כָּל הָ֣עֵדָ֔ה
+        מִח֖וּץ לַֽמַּחֲנֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:165
+      lang: ar
+      text: فَلَمَّا نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦٓ أَنجَيْنَا ٱلَّذِينَ يَنْهَوْنَ عَنِ ٱلسُّوٓءِ وَأَخَذْنَا
+        ٱلَّذِينَ ظَلَمُوا۟ بِعَذَابٍۭ بَـِٔيسٍۭ بِمَا كَانُوا۟ يَفْسُقُونَ
+    - ref: Quran 7:166
+      lang: ar
+      text: فَلَمَّا عَتَوْا۟ عَن مَّا نُهُوا۟ عَنْهُ قُلْنَا لَهُمْ كُونُوا۟ قِرَدَةً خَٰسِـِٔينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-29-emigrate-and-trust
 title: Jonah flees to Tarshish and is thrown into the sea ↔ God's earth is wide; every soul tastes death;
   signs and the secure sanctuary
-summary: 'These two units share 1 motifs: seafarers cry to god in a storm; what they do once rescued [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - sailors-response-after-rescue-from-storm-as-contrast
-passages:
-- tradition: judaism
-  ref: Jonah 1:5
-  note: 'Seafarers cry to God in a storm; what they do once rescued [contrast between the texts] (Heathen
-    sailors in a storm: in Jonah they first cry ʾîš ʾel-ʾĕlōhâw, then to YHWH, and once the sea stands
-    still they fear YHWH, sacrifice and vow (wa-yizbəḥû zeḇaḥ la-YHWH wa-yiddərû nəḏārîm), a lasting conversion.
-    In Q 29:65 they pray mukhliṣīna lahu d-dīn in danger and return to shirk on land. The same scene gives
-    opposite outcomes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים אֲשֶׁ֤ר
-    בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב
-    וַיֵּרָדַֽם
-- tradition: judaism
-  ref: Jonah 1:14
-  note: 'Seafarers cry to God in a storm; what they do once rescued [contrast between the texts] (Heathen
-    sailors in a storm: in Jonah they first cry ʾîš ʾel-ʾĕlōhâw, then to YHWH, and once the sea stands
-    still they fear YHWH, sacrifice and vow (wa-yizbəḥû zeḇaḥ la-YHWH wa-yiddərû nəḏārîm), a lasting conversion.
-    In Q 29:65 they pray mukhliṣīna lahu d-dīn in danger and return to shirk on land. The same scene gives
-    opposite outcomes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
-    הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
-- tradition: islam
-  ref: Quran 29:65
-  note: 'Seafarers cry to God in a storm; what they do once rescued [contrast between the texts] (Heathen
-    sailors in a storm: in Jonah they first cry ʾîš ʾel-ʾĕlōhâw, then to YHWH, and once the sea stands
-    still they fear YHWH, sacrifice and vow (wa-yizbəḥû zeḇaḥ la-YHWH wa-yiddərû nəḏārîm), a lasting conversion.
-    In Q 29:65 they pray mukhliṣīna lahu d-dīn in danger and return to shirk on land. The same scene gives
-    opposite outcomes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
-    إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Heathen sailors in a storm: in Jonah they first cry ʾîš ʾel-ʾĕlōhâw, then to YHWH, and once
-    the sea stands still they fear YHWH, sacrifice and vow (wa-yizbəḥû zeḇaḥ la-YHWH wa-yiddərû nəḏārîm),
-    a lasting conversion. In Q 29:65 they pray mukhliṣīna lahu d-dīn in danger and return to shirk on
-    land. The same scene gives opposite outcomes.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -91,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seafarers cry to God in a storm; what they do once rescued
+kinds:
+- contrast
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: contrast
+  label: Seafarers cry to God in a storm; what they do once rescued
+  note: 'Heathen sailors in a storm: in Jonah they first cry ʾîš ʾel-ʾĕlōhâw, then to YHWH, and once the
+    sea stands still they fear YHWH, sacrifice and vow (wa-yizbəḥû zeḇaḥ la-YHWH wa-yiddərû nəḏārîm),
+    a lasting conversion. In Q 29:65 they pray mukhliṣīna lahu d-dīn in danger and return to shirk on
+    land. The same scene gives opposite outcomes.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:5
+      lang: he
+      text: וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת הַכֵּלִ֜ים
+        אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל יַרְכְּתֵ֣י הַסְּפִינָ֔ה
+        וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם
+    - ref: Jonah 1:14
+      lang: he
+      text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
+        הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
+    - ref: Jonah 1:16
+      lang: he
+      text: וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת יְהוָ֑ה וַיִּֽזְבְּחוּ זֶ֨בַח֙ לַֽיהוָ֔ה
+        וַֽיִּדְּר֖וּ נְדָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 29:65
+      lang: ar
+      text: فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
+        إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ
 ---
 
 ## Questions

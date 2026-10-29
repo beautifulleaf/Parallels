@@ -2,8 +2,7 @@
 id: motif-hb-ps-103-bless-my-soul-vs-quran-10-rain-parable-idols-disown
 title: Psalm 103, bless YHWH, O my soul; youth renewed like the eagle ↔ Life like a crop, the abode of
   peace, darkened faces
-summary: 'These two units share 2 motifs: the destroyed are as if they had never lived in their land,
-  humans are like grass that flourishes in the morning and withers by evening.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,65 +16,9 @@ layers:
 motifs:
 - as-if-they-had-never-dwelt-there
 - humans-like-grass-withering
-passages:
-- tradition: judaism
-  ref: Ps 103:15
-  note: 'The destroyed are as if they had never lived in their land (Life flourishes like plants and then
-    vanishes without trace: ka-māʾin anzalnāhu mina s-samāʾi fa-khtalaṭa bihi nabātu l-arḍi ... fa-jaʿalnāhā
-    ḥaṣīdan ka-an lam taghna bi-l-amsi vs ʾĕnôš keḥāṣîr yāmāyw kᵉṣîṣ haśśādeh kēn yāṣîṣ kî rûaḥ ʿābᵉrāh-bô
-    wᵉʾênennû wᵉlōʾ-yakkîrennû ʿôd mᵉqômô. Ps speaks of the brevity of man; Q of the whole worldly life
-    (al-ḥayāti d-dunyā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱ֭נוֹשׁ כֶּחָצִ֣יר יָמָ֑יו כְּצִ֥יץ הַ֝שָּׂדֶ֗ה כֵּ֣ן יָצִֽיץ
-- tradition: judaism
-  ref: Ps 103:16
-  note: 'The destroyed are as if they had never lived in their land (Life flourishes like plants and then
-    vanishes without trace: ka-māʾin anzalnāhu mina s-samāʾi fa-khtalaṭa bihi nabātu l-arḍi ... fa-jaʿalnāhā
-    ḥaṣīdan ka-an lam taghna bi-l-amsi vs ʾĕnôš keḥāṣîr yāmāyw kᵉṣîṣ haśśādeh kēn yāṣîṣ kî rûaḥ ʿābᵉrāh-bô
-    wᵉʾênennû wᵉlōʾ-yakkîrennû ʿôd mᵉqômô. Ps speaks of the brevity of man; Q of the whole worldly life
-    (al-ḥayāti d-dunyā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
-- tradition: islam
-  ref: Quran 10:24
-  note: The destroyed are as if they had never lived in their land (ka-an lam taghna bi-l-ams)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ
-    نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا
-    وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ
-    نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ
-    يَتَفَكَّرُونَ
-- tradition: judaism
-  ref: Ps 103:15
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱ֭נוֹשׁ כֶּחָצִ֣יר יָמָ֑יו כְּצִ֥יץ הַ֝שָּׂדֶ֗ה כֵּ֣ן יָצִֽיץ
-- tradition: judaism
-  ref: Ps 103:16
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
-- tradition: islam
-  ref: Quran 10:24
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ بِهِۦ
-    نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ زُخْرُفَهَا
-    وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا لَيْلًا أَوْ
-    نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ ٱلْءَايَٰتِ لِقَوْمٍ
-    يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Life flourishes like plants and then vanishes without trace: ka-māʾin anzalnāhu mina s-samāʾi
-    fa-khtalaṭa bihi nabātu l-arḍi ... fa-jaʿalnāhā ḥaṣīdan ka-an lam taghna bi-l-amsi vs ʾĕnôš keḥāṣîr
-    yāmāyw kᵉṣîṣ haśśādeh kēn yāṣîṣ kî rûaḥ ʿābᵉrāh-bô wᵉʾênennû wᵉlōʾ-yakkîrennû ʿôd mᵉqômô. Ps speaks
-    of the brevity of man; Q of the whole worldly life (al-ḥayāti d-dunyā).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The destroyed are as if they had never lived in their land (weight
     5.8); Humans are like grass that flourishes in the morning and withers by evening (weight 5.6). Pair
@@ -106,6 +49,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The destroyed are as if they had never lived in their land
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-103-bless-my-soul
+  title: Psalm 103, bless YHWH, O my soul; youth renewed like the eagle
+  tradition: judaism
+- id: quran-10-rain-parable-idols-disown
+  title: Life like a crop, the abode of peace, darkened faces
+  tradition: islam
+matches:
+- kind: parallel
+  label: The destroyed are as if they had never lived in their land
+  note: 'Life flourishes like plants and then vanishes without trace: ka-māʾin anzalnāhu mina s-samāʾi
+    fa-khtalaṭa bihi nabātu l-arḍi ... fa-jaʿalnāhā ḥaṣīdan ka-an lam taghna bi-l-amsi vs ʾĕnôš keḥāṣîr
+    yāmāyw kᵉṣîṣ haśśādeh kēn yāṣîṣ kî rûaḥ ʿābᵉrāh-bô wᵉʾênennû wᵉlōʾ-yakkîrennû ʿôd mᵉqômô. Ps speaks
+    of the brevity of man; Q of the whole worldly life (al-ḥayāti d-dunyā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 103:15
+      lang: he
+      text: אֱ֭נוֹשׁ כֶּחָצִ֣יר יָמָ֑יו כְּצִ֥יץ הַ֝שָּׂדֶ֗ה כֵּ֣ן יָצִֽיץ
+    - ref: Ps 103:16
+      lang: he
+      text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:24
+      lang: ar
+      text: إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
+        بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ
+        زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا
+        لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ
+        ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ
+- kind: shared
+  label: Humans are like grass that flourishes in the morning and withers by evening
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 103:15
+      lang: he
+      text: אֱ֭נוֹשׁ כֶּחָצִ֣יר יָמָ֑יו כְּצִ֥יץ הַ֝שָּׂדֶ֗ה כֵּ֣ן יָצִֽיץ
+    - ref: Ps 103:16
+      lang: he
+      text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:24
+      lang: ar
+      text: إِنَّمَا مَثَلُ ٱلْحَيَوٰةِ ٱلدُّنْيَا كَمَآءٍ أَنزَلْنَٰهُ مِنَ ٱلسَّمَآءِ فَٱخْتَلَطَ
+        بِهِۦ نَبَاتُ ٱلْأَرْضِ مِمَّا يَأْكُلُ ٱلنَّاسُ وَٱلْأَنْعَٰمُ حَتَّىٰٓ إِذَآ أَخَذَتِ ٱلْأَرْضُ
+        زُخْرُفَهَا وَٱزَّيَّنَتْ وَظَنَّ أَهْلُهَآ أَنَّهُمْ قَٰدِرُونَ عَلَيْهَآ أَتَىٰهَآ أَمْرُنَا
+        لَيْلًا أَوْ نَهَارًا فَجَعَلْنَٰهَا حَصِيدًا كَأَن لَّمْ تَغْنَ بِٱلْأَمْسِ كَذَٰلِكَ نُفَصِّلُ
+        ٱلْءَايَٰتِ لِقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

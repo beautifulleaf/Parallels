@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1kgs-8-ark-installed-vs-quran-2-talut-jalut
 title: The ark brought into the temple; the cloud fills the house ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: what the ark contains [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,37 +13,9 @@ layers:
 - motif
 motifs:
 - contents-of-the-ark-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:9
-  note: 'What the ark contains [contrast between the texts] (1Kgs 8:9 ʾên bā-ʾārôn raq šĕnê luḥôt hā-ʾăbānîm
-    ʾăšer hinnīaḥ šām mōšeh: ''there was nothing in the ark except the two stone tablets''; Q 2:248 fīhi
-    sakīnatun min rabbikum wa-baqiyyatun mimmā taraka ālu mūsā wa-ālu hārūn: in it is tranquility from
-    your Lord and relics left by the families of Moses and Aaron. cf. rabbinic šĕkînâ for sakīna (not
-    a biblical noun) and Heb 9:4 for relics in the ark.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר
-    כָּרַ֤ת יְהוָה֙ עִם בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 2:248
-  note: 'What the ark contains [contrast between the texts] (1Kgs 8:9 ʾên bā-ʾārôn raq šĕnê luḥôt hā-ʾăbānîm
-    ʾăšer hinnīaḥ šām mōšeh: ''there was nothing in the ark except the two stone tablets''; Q 2:248 fīhi
-    sakīnatun min rabbikum wa-baqiyyatun mimmā taraka ālu mūsā wa-ālu hārūn: in it is tranquility from
-    your Lord and relics left by the families of Moses and Aaron. cf. rabbinic šĕkînâ for sakīna (not
-    a biblical noun) and Heb 9:4 for relics in the ark.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
-    مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
-    إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. 1Kgs 8:9 ʾên bā-ʾārôn raq šĕnê luḥôt hā-ʾăbānîm ʾăšer hinnīaḥ šām mōšeh: ''there was nothing
-    in the ark except the two stone tablets''; Q 2:248 fīhi sakīnatun min rabbikum wa-baqiyyatun mimmā
-    taraka ālu mūsā wa-ālu hārūn: in it is tranquility from your Lord and relics left by the families
-    of Moses and Aaron. cf. rabbinic šĕkînâ for sakīna (not a biblical noun) and Heb 9:4 for relics in
-    the ark.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the ark contains [contrast between the texts] (weight 6.7).
     Pair score 6.7.'
@@ -76,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What the ark contains
+kinds:
+- contrast
+units:
+- id: hb-1kgs-8-ark-installed
+  title: The ark brought into the temple; the cloud fills the house
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: contrast
+  label: What the ark contains
+  note: '1Kgs 8:9 ʾên bā-ʾārôn raq šĕnê luḥôt hā-ʾăbānîm ʾăšer hinnīaḥ šām mōšeh: ''there was nothing
+    in the ark except the two stone tablets''; Q 2:248 fīhi sakīnatun min rabbikum wa-baqiyyatun mimmā
+    taraka ālu mūsā wa-ālu hārūn: in it is tranquility from your Lord and relics left by the families
+    of Moses and Aaron. cf. rabbinic šĕkînâ for sakīna (not a biblical noun) and Heb 9:4 for relics in
+    the ark.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:9
+      lang: he
+      text: אֵ֚ין בָּֽאָר֔וֹן רַ֗ק שְׁנֵי֙ לֻח֣וֹת הָאֲבָנִ֔ים אֲשֶׁ֨ר הִנִּ֥חַ שָׁ֛ם מֹשֶׁ֖ה בְּחֹרֵ֑ב
+        אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִם בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:248
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
+        مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
+        إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

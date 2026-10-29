@@ -2,8 +2,7 @@
 id: motif-hb-deut-14-diet-tithe-vs-quran-16-daughters-and-the-bee
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ Not two gods; daughters ascribed to
   God and buried alive; milk, wine and the bee (Surah 16:51-70)
-summary: 'These two units share 1 motifs: from palms and vines people take an intoxicant (sakar) and good
-  provision.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - intoxicant-and-good-provision-from-dates-and-grapes
-passages:
-- tradition: judaism
-  ref: Deut 14:26
-  note: 'From palms and vines people take an intoxicant (sakar) and good provision (tattakhidhūna minhu
-    sakaran wa-rizqan ḥasanā; bayyayin ûbaššēkār ... wəśāmaḥtā: fermented drink (sakar / šēkār, cognate)
-    counted among God''s good gifts without censure. Deut makes it part of the tithe feast before YHWH;
-    Q a sign, later restricted (2:219; 5:90).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֨יִן֙
-    וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ
-    וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ
-- tradition: islam
-  ref: Quran 16:67
-  note: From palms and vines people take an intoxicant (sakar) and good provision (sakar, not yet forbidden)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا إِنَّ
-    فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. tattakhidhūna minhu sakaran wa-rizqan ḥasanā; bayyayin ûbaššēkār ... wəśāmaḥtā: fermented
-    drink (sakar / šēkār, cognate) counted among God''s good gifts without censure. Deut makes it part
-    of the tithe feast before YHWH; Q a sign, later restricted (2:219; 5:90).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From palms and vines people take an intoxicant (sakar) and good
     provision (weight 6.7). Pair score 6.7.'
@@ -77,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: From palms and vines people take an intoxicant (sakar) and good provision
+kinds:
+- parallel
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-16-daughters-and-the-bee
+  title: Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah 16:51-70)
+  tradition: islam
+matches:
+- kind: parallel
+  label: From palms and vines people take an intoxicant (sakar) and good provision
+  note: 'tattakhidhūna minhu sakaran wa-rizqan ḥasanā; bayyayin ûbaššēkār ... wəśāmaḥtā: fermented drink
+    (sakar / šēkār, cognate) counted among God''s good gifts without censure. Deut makes it part of the
+    tithe feast before YHWH; Q a sign, later restricted (2:219; 5:90).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:26
+      lang: he
+      text: וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֨יִן֙
+        וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ
+        וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:67
+      lang: ar
+      text: وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلْأَعْنَٰبِ تَتَّخِذُونَ مِنْهُ سَكَرًا وَرِزْقًا حَسَنًا إِنَّ
+        فِى ذَٰلِكَ لَءَايَةً لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

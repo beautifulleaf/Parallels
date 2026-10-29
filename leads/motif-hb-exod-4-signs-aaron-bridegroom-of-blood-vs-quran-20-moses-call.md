@@ -2,12 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-20-moses-call
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses at the fire
   in the holy valley Tuwa
-summary: 'These two units share 8 motifs: asked what is in his hand, the prophet lists his staff''s uses:
-  leaning, beating down leaves for sheep, other needs [divergence between the texts], prophet protests
-  he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between the texts], the prophet
-  asks that his brother be made his helper (wazīr) and partner in his mission [divergence between the
-  texts], prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between
-  the texts]….'
+summary: '5 correspondences read side by side: 4 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -21,289 +16,21 @@ layers:
 - motif
 motifs:
 - prophet-describes-staff-uses-as-divergence
-- prophet-slow-of-speech-as-divergence
 - brother-as-vizier-as-divergence
+- prophet-slow-of-speech-as-divergence
 - hand-turned-leprous-white-as-snow-as-divergence
 - hand-turned-leprous-white-as-snow
 - prophet-slow-of-speech
 - brother-as-spokesman
 - staff-becomes-serpent
-passages:
-- tradition: judaism
-  ref: Exod 4:2
-  note: 'Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves
-    for sheep, other needs [divergence between the texts] (mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word
-    answer; wa-mā tilka bi-yamīnika yā Mūsā, qāla hiya ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā
-    ghanamī wa-liya fīhā maʾāribu ukhrā. Same question; Q expands Moses'' answer into a shepherd''s self-portrait.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
-- tradition: islam
-  ref: Quran 20:17
-  note: 'Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves
-    for sheep, other needs [divergence between the texts] (mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word
-    answer; wa-mā tilka bi-yamīnika yā Mūsā, qāla hiya ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā
-    ghanamī wa-liya fīhā maʾāribu ukhrā. Same question; Q expands Moses'' answer into a shepherd''s self-portrait.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:18
-  note: 'Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves
-    for sheep, other needs [divergence between the texts] (mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word
-    answer; wa-mā tilka bi-yamīnika yā Mūsā, qāla hiya ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā
-    ghanamī wa-liya fīhā maʾāribu ukhrā. Same question; Q expands Moses'' answer into a shepherd''s self-portrait.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ
-    أُخْرَىٰ
-- tradition: judaism
-  ref: Exod 4:10
-  note: 'Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between
-    the texts] (Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh
-    ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is
-    a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad
-    ūtīta suʾlaka yā Mūsā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
-    גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי
-- tradition: judaism
-  ref: Exod 4:11
-  note: 'Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between
-    the texts] (Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh
-    ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is
-    a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad
-    ūtīta suʾlaka yā Mūsā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו מִ֣י שָׂ֣ם פֶּה֮ לָֽאָדָם֒ א֚וֹ מִֽי יָשׂ֣וּם אִלֵּ֔ם א֣וֹ חֵרֵ֔שׁ
-    א֥וֹ פִקֵּ֖חַ א֣וֹ עִוֵּ֑ר הֲלֹ֥א אָנֹכִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 20:25
-  note: 'Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between
-    the texts] (Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh
-    ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is
-    a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad
-    ūtīta suʾlaka yā Mūsā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
-- tradition: islam
-  ref: Quran 20:26
-  note: 'Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between
-    the texts] (Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh
-    ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is
-    a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad
-    ūtīta suʾlaka yā Mūsā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسِّرْ لِىٓ أَمْرِى
-- tradition: judaism
-  ref: Exod 4:14
-  note: 'The prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence
-    between the texts] (Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH
-    bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses
-    asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that
-    they may glorify God much (kay nusabbiḥaka kathīrā). No anger, and no ''as God''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
-    כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
-- tradition: judaism
-  ref: Exod 4:15
-  note: 'The prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence
-    between the texts] (Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH
-    bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses
-    asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that
-    they may glorify God much (kay nusabbiḥaka kathīrā). No anger, and no ''as God''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
-    וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
-- tradition: islam
-  ref: Quran 20:29
-  note: 'The prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence
-    between the texts] (Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH
-    bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses
-    asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that
-    they may glorify God much (kay nusabbiḥaka kathīrā). No anger, and no ''as God''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
-- tradition: islam
-  ref: Quran 20:30
-  note: 'The prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence
-    between the texts] (Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH
-    bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses
-    asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that
-    they may glorify God much (kay nusabbiḥaka kathīrā). No anger, and no ''as God''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰرُونَ أَخِى
-- tradition: judaism
-  ref: Exod 4:6
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
-    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
-    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:30
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wə-hinnēh yādô məṣōraʿat kaš-šāleg, leprous, and the sign is for Israel (wa-yyaʿaś hā-ʾōtōt
-    lə-ʿênê hā-ʿām, 4:30). Q: wa-nazaʿa yadahu fa-idhā hiya bayḍāʾu li-l-nāẓirīna, ''white for the beholders'',
-    performed before Pharaoh. Q drops the leprosy and changes the audience.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֣ר אַהֲרֹ֔ן אֵ֚ת כָּל הַדְּבָרִ֔ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה אֶל מֹשֶׁ֑ה וַיַּ֥עַשׂ הָאֹתֹ֖ת
-    לְעֵינֵ֥י הָעָֽם
-- tradition: islam
-  ref: Quran 20:22
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wəhinnēh yādô məṣōraʿat kaššāleg, a leprous hand, given so that the people will believe
-    (ləmaʿan yaʾămînû). Q: takhruj bayḍāʾa min ghayri sūʾ, white ''without harm'', which denies the disease,
-    and given li-nuriyaka min āyātinā l-kubrā, a sign for Moses himself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ
-- tradition: islam
-  ref: Quran 20:23
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign [divergence between the
-    texts] (Exod: wəhinnēh yādô məṣōraʿat kaššāleg, a leprous hand, given so that the people will believe
-    (ləmaʿan yaʾămînû). Q: takhruj bayḍāʾa min ghayri sūʾ, white ''without harm'', which denies the disease,
-    and given li-nuriyaka min āyātinā l-kubrā, a sign for Moses himself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
-- tradition: judaism
-  ref: Exod 4:6
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ וַיּ֣וֹצִאָ֔הּ
-    וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
-- tradition: judaism
-  ref: Exod 4:7
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand brought out of the
-    bosom)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ
-    וְהִנֵּה שָׁ֖בָה כִּבְשָׂרֽוֹ
-- tradition: islam
-  ref: Quran 20:22
-  note: 'Prophet''s hand turns leprous, white as snow, and is restored as a sign (white ''without evil''
-    (min ghayri sūʾ): the Quran denies the leprosy)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ
-- tradition: judaism
-  ref: Exod 4:10
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (kevad peh u-khevad
-    lashon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
-    גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי
-- tradition: judaism
-  ref: Exod 4:13
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (kevad peh u-khevad
-    lashon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר בִּ֣י אֲדֹנָ֑י שְֽׁלַֽח נָ֖א בְּיַד תִּשְׁלָֽח
-- tradition: islam
-  ref: Quran 20:27
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (ʿuqda min lisānī,
-    'a knot from my tongue')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى
-- tradition: judaism
-  ref: Exod 4:14
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron his 'mouth';
-    Moses 'as God' to him)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
-    כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
-- tradition: judaism
-  ref: Exod 4:15
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron his 'mouth';
-    Moses 'as God' to him)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
-    וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
-- tradition: islam
-  ref: Quran 20:29
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
-- tradition: islam
-  ref: Quran 20:32
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَشْرِكْهُ فِىٓ أَمْرِى
-- tradition: judaism
-  ref: Exod 4:2
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
-- tradition: judaism
-  ref: Exod 4:3
-  note: A staff thrown down becomes a serpent and turns back into a staff (Moses flees from it; seizes
-    it by the tail)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס מֹשֶׁ֖ה
-    מִפָּנָֽיו
-- tradition: islam
-  ref: Quran 20:19
-  note: A staff thrown down becomes a serpent and turns back into a staff (ḥayya tasʿā, 'a snake moving';
-    'We will restore it to its first state')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَلْقِهَا يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:20
-  note: A staff thrown down becomes a serpent and turns back into a staff (ḥayya tasʿā, 'a snake moving';
-    'We will restore it to its first state')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word answer; wa-mā tilka bi-yamīnika
-    yā Mūsā, qāla hiya ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā ghanamī wa-liya fīhā maʾāribu ukhrā.
-    Same question; Q expands Moses'' answer into a shepherd''s self-portrait. hašlîkēhû ʾarṣâ ... wayhî
-    lənāḥāš wayyānos mōšeh mippānāyw ... šəlaḥ yādəkā weʾĕḥōz bizənābô; alqihā ... fa-idhā hiya ḥayyatun
-    tasʿā, qāla khudhhā wa-lā takhaf sa-nuʿīduhā sīratahā l-ūlā: thrown down, it becomes a snake; he is
-    told to take it and it turns back. Moses flees in Exod; in Q he is told ''do not fear''. Exod: wəhinnēh
-    yādô məṣōraʿat kaššāleg, a leprous hand, given so that the people will believe (ləmaʿan yaʾămînû).
-    Q: takhruj bayḍāʾa min ghayri sūʾ, white ''without harm'', which denies the disease, and given li-nuriyaka
-    min āyātinā l-kubrā, a sign for Moses himself. Exod: speech trouble is an objection to the call, lōʾ
-    ʾîš dəbārîm ʾānōkî ... kî kəbad-peh ûkəbad lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes
-    him, mî śām peh lāʾādām. Q: it is a prayer, rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū
-    qawlī, granted at once, qad ūtīta suʾlaka yā Mūsā. Who initiates, and the mood. Exod: God imposes
-    Aaron in anger, wayyiḥar-ʾap YHWH bəmōšeh ... hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh
-    wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses asks for him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud
-    bihi azrī wa-ashrikhu fī amrī, so that they may glorify God much (kay nusabbiḥaka kathīrā). No anger,
-    and no ''as God''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Asked what is in his hand, the prophet lists his staff''s uses:
-    leaning, beating down leaves for sheep, other needs [divergence between the texts] (weight 6.7); Prophet
-    protests he is heavy of mouth and tongue or ''uncircumcised of lips'' [divergence between the texts]
-    (weight 6.7); The prophet asks that his brother be made his helper (wazīr) and partner in his mission
+    leaning, beating down leaves for sheep, other needs [divergence between the texts] (weight 6.7); The
+    prophet asks that his brother be made his helper (wazīr) and partner in his mission [divergence between
+    the texts] (weight 6.7); Prophet protests he is heavy of mouth and tongue or ''uncircumcised of lips''
     [divergence between the texts] (weight 6.7); Prophet''s hand turns leprous, white as snow, and is
     restored as a sign [divergence between the texts] (weight 6.3); Prophet''s hand turns leprous, white
     as snow, and is restored as a sign (weight 5.6); Prophet protests he is heavy of mouth and tongue
@@ -342,6 +69,187 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves
+  for sheep, other needs'
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-20-moses-call
+  title: Moses at the fire in the holy valley Tuwa
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Asked what is in his hand, the prophet lists his staff''s uses: leaning, beating down leaves
+    for sheep, other needs'
+  note: mah-zzeh bəyādekā wayyōʾmer maṭṭeh, a one-word answer; wa-mā tilka bi-yamīnika yā Mūsā, qāla hiya
+    ʿaṣāya atawakkaʾu ʿalayhā wa-ahushshu bihā ʿalā ghanamī wa-liya fīhā maʾāribu ukhrā. Same question;
+    Q expands Moses' answer into a shepherd's self-portrait.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:2
+      lang: he
+      text: וַיֹּ֧אמֶר אֵלָ֛יו יְהוָ֖ה מזה מַה זֶּ֣ה בְיָדֶ֑ךָ וַיֹּ֖אמֶר מַטֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:17
+      lang: ar
+      text: وَمَا تِلْكَ بِيَمِينِكَ يَٰمُوسَىٰ
+    - ref: Quran 20:18
+      lang: ar
+      text: قَالَ هِىَ عَصَاىَ أَتَوَكَّؤُا۟ عَلَيْهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِى وَلِىَ فِيهَا مَـَٔارِبُ
+        أُخْرَىٰ
+- kind: divergence
+  label: Prophet's hand turns leprous, white as snow, and is restored as a sign
+  note: 'Exod: wəhinnēh yādô məṣōraʿat kaššāleg, a leprous hand, given so that the people will believe
+    (ləmaʿan yaʾămînû). Q: takhruj bayḍāʾa min ghayri sūʾ, white ''without harm'', which denies the disease,
+    and given li-nuriyaka min āyātinā l-kubrā, a sign for Moses himself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:1
+      lang: he
+      text: וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י
+        יֹֽאמְר֔וּ לֹֽא נִרְאָ֥ה אֵלֶ֖יךָ יְהוָֽה
+    - ref: Exod 4:5
+      lang: he
+      text: לְמַ֣עַן יַאֲמִ֔ינוּ כִּֽי נִרְאָ֥ה אֵלֶ֛יךָ יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑ם אֱלֹהֵ֧י אַבְרָהָ֛ם
+        אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֥י יַעֲקֹֽב
+    - ref: Exod 4:6
+      lang: he
+      text: וַיֹּאמֶר֩ יְהוָ֨ה ל֜וֹ ע֗וֹד הָֽבֵא נָ֤א יָֽדְךָ֙ בְּחֵיקֶ֔ךָ וַיָּבֵ֥א יָד֖וֹ בְּחֵיק֑וֹ
+        וַיּ֣וֹצִאָ֔הּ וְהִנֵּ֥ה יָד֖וֹ מְצֹרַ֥עַת כַּשָּֽׁלֶג
+  - tradition: islam
+    passages:
+    - ref: Quran 20:22
+      lang: ar
+      text: وَٱضْمُمْ يَدَكَ إِلَىٰ جَنَاحِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ ءَايَةً أُخْرَىٰ
+    - ref: Quran 20:23
+      lang: ar
+      text: لِنُرِيَكَ مِنْ ءَايَٰتِنَا ٱلْكُبْرَى
+- kind: divergence
+  label: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips'
+  note: 'Exod: speech trouble is an objection to the call, lōʾ ʾîš dəbārîm ʾānōkî ... kî kəbad-peh ûkəbad
+    lāšôn ʾānōkî ... šəlaḥ-nāʾ bəyad-tišlāḥ, and God rebukes him, mî śām peh lāʾādām. Q: it is a prayer,
+    rabbi shraḥ lī ṣadrī ... wa-ḥlul ʿuqdatan min lisānī yafqahū qawlī, granted at once, qad ūtīta suʾlaka
+    yā Mūsā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:10
+      lang: he
+      text: וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙
+        גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל עַבְדֶּ֑ךָ כִּ֧י כְבַד פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן
+        אָנֹֽכִי
+    - ref: Exod 4:11
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו מִ֣י שָׂ֣ם פֶּה֮ לָֽאָדָם֒ א֚וֹ מִֽי יָשׂ֣וּם אִלֵּ֔ם א֣וֹ חֵרֵ֔שׁ
+        א֥וֹ פִקֵּ֖חַ א֣וֹ עִוֵּ֑ר הֲלֹ֥א אָנֹכִ֖י יְהוָֽה
+    - ref: Exod 4:12
+      lang: he
+      text: וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 20:25
+      lang: ar
+      text: قَالَ رَبِّ ٱشْرَحْ لِى صَدْرِى
+    - ref: Quran 20:26
+      lang: ar
+      text: وَيَسِّرْ لِىٓ أَمْرِى
+    - ref: Quran 20:27
+      lang: ar
+      text: وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِى
+- kind: divergence
+  label: The prophet asks that his brother be made his helper (wazīr) and partner in his mission
+  note: 'Who initiates, and the mood. Exod: God imposes Aaron in anger, wayyiḥar-ʾap YHWH bəmōšeh ...
+    hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Moses asks for
+    him, wa-jʿal lī wazīran min ahlī Hārūna akhī ushdud bihi azrī wa-ashrikhu fī amrī, so that they may
+    glorify God much (kay nusabbiḥaka kathīrā). No anger, and no ''as God''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:14
+      lang: he
+      text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
+        כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
+    - ref: Exod 4:15
+      lang: he
+      text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
+        וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
+    - ref: Exod 4:16
+      lang: he
+      text: וְדִבֶּר ה֥וּא לְךָ֖ אֶל הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה
+        לּ֥וֹ לֵֽאלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 20:29
+      lang: ar
+      text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
+    - ref: Quran 20:30
+      lang: ar
+      text: هَٰرُونَ أَخِى
+    - ref: Quran 20:31
+      lang: ar
+      text: ٱشْدُدْ بِهِۦٓ أَزْرِى
+- kind: parallel
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  note: 'hašlîkēhû ʾarṣâ ... wayhî lənāḥāš wayyānos mōšeh mippānāyw ... šəlaḥ yādəkā weʾĕḥōz bizənābô;
+    alqihā ... fa-idhā hiya ḥayyatun tasʿā, qāla khudhhā wa-lā takhaf sa-nuʿīduhā sīratahā l-ūlā: thrown
+    down, it becomes a snake; he is told to take it and it turns back. Moses flees in Exod; in Q he is
+    told ''do not fear''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:3
+      lang: he
+      text: וַיֹּ֨אמֶר֙ הַשְׁלִיכֵ֣הוּ אַ֔רְצָה וַיַּשְׁלִיכֵ֥הוּ אַ֖רְצָה וַיְהִ֣י לְנָחָ֑שׁ וַיָּ֥נָס
+        מֹשֶׁ֖ה מִפָּנָֽיו
+    - ref: Exod 4:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה שְׁלַח֙ יָֽדְךָ֔ וֶאֱחֹ֖ז בִּזְנָב֑וֹ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיַּ֣חֲזֶק
+        בּ֔וֹ וַיְהִ֥י לְמַטֶּ֖ה בְּכַפּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:19
+      lang: ar
+      text: قَالَ أَلْقِهَا يَٰمُوسَىٰ
+    - ref: Quran 20:20
+      lang: ar
+      text: فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ
+    - ref: Quran 20:21
+      lang: ar
+      text: قَالَ خُذْهَا وَلَا تَخَفْ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
+- kind: shared
+  label: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:14
+      lang: he
+      text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
+        כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
+    - ref: Exod 4:15
+      lang: he
+      text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
+        וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
+    - ref: Exod 4:16
+      lang: he
+      text: וְדִבֶּר ה֥וּא לְךָ֖ אֶל הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה
+        לּ֥וֹ לֵֽאלֹהִֽים
+    note: Aaron his 'mouth'; Moses 'as God' to him
+  - tradition: islam
+    passages:
+    - ref: Quran 20:29
+      lang: ar
+      text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
+    - ref: Quran 20:32
+      lang: ar
+      text: وَأَشْرِكْهُ فِىٓ أَمْرِى
 ---
 
 ## Questions

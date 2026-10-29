@@ -2,8 +2,7 @@
 id: motif-hb-prov-28-sayings-vs-quran-30-fitra
 title: Sayings on torah, rulers, usury and confession ↔ The slave-partner parable, the fitra, and the
   social duties
-summary: 'These two units share 1 motifs: he who increases wealth by interest and usury gathers it for
-  one who is gracious to the poor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - usurers-wealth-goes-to-generous
-passages:
-- tradition: judaism
-  ref: Prov 28:8
-  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
-- tradition: islam
-  ref: Quran 30:39
-  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor (wealth
-    from usury does not grow with God; alms multiply)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ ٱللَّهِ
-    وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. marbeh hônô bə-nešeḵ wə-ṯarbîṯ lə-ḥônēn dallîm yiqbəṣennû vs. wa-mā ātaytum min riban li-yarbuwa
-    fī amwāli n-nāsi fa-lā yarbū ʿinda llāh, wa-mā ātaytum min zakātin ... fa-ulāʾika humu l-muḍʿifūn.
-    The same root r-b-y/r-b-h on both sides (tarbîṯ, marbeh / ribā, yarbū): growth by interest is illusory.
-    Proverbs moves the usurer''s wealth to the one who is kind to the poor; the Quran moves the real increase
-    to alms given for God''s face.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who increases wealth by interest and usury gathers it for one
     who is gracious to the poor (weight 6.3). Pair score 6.3.'
@@ -73,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+kinds:
+- parallel
+units:
+- id: hb-prov-28-sayings
+  title: Sayings on torah, rulers, usury and confession
+  tradition: judaism
+- id: quran-30-fitra
+  title: The slave-partner parable, the fitra, and the social duties
+  tradition: islam
+matches:
+- kind: parallel
+  label: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+  note: 'marbeh hônô bə-nešeḵ wə-ṯarbîṯ lə-ḥônēn dallîm yiqbəṣennû vs. wa-mā ātaytum min riban li-yarbuwa
+    fī amwāli n-nāsi fa-lā yarbū ʿinda llāh, wa-mā ātaytum min zakātin ... fa-ulāʾika humu l-muḍʿifūn.
+    The same root r-b-y/r-b-h on both sides (tarbîṯ, marbeh / ribā, yarbū): growth by interest is illusory.
+    Proverbs moves the usurer''s wealth to the one who is kind to the poor; the Quran moves the real increase
+    to alms given for God''s face.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 28:8
+      lang: he
+      text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 30:39
+      lang: ar
+      text: وَمَآ ءَاتَيْتُم مِّن رِّبًا لِّيَرْبُوَا۟ فِىٓ أَمْوَٰلِ ٱلنَّاسِ فَلَا يَرْبُوا۟ عِندَ
+        ٱللَّهِ وَمَآ ءَاتَيْتُم مِّن زَكَوٰةٍ تُرِيدُونَ وَجْهَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُضْعِفُونَ
 ---
 
 ## Questions

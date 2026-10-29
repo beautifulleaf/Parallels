@@ -2,8 +2,7 @@
 id: motif-hb-amos-9-altar-and-booth-of-david-vs-quran-4-fighting-and-death
 title: The Lord at the altar, no escape, the sieve, and the fallen booth of David ↔ Fighting for the oppressed;
   death in lofty towers
-summary: 'These two units share 1 motifs: though they dig into sheol or climb to heaven, hide on carmel
-  or at the bottom of the sea, god''s hand will take them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - no-escape-from-god-sheol-heaven-sea
-passages:
-- tradition: judaism
-  ref: Amos 9:2-4
-  note: Though they dig into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God's
-    hand will take them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (9:2) אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם
-    אוֹרִידֵֽם (9:3) וְאִם יֵחָֽבְאוּ֙ בְּרֹ֣אשׁ הַכַּרְמֶ֔ל מִשָּׁ֥ם אֲחַפֵּ֖שׂ וּלְקַחְתִּ֑ים וְאִם
-    יִסָּ֨תְר֜וּ מִנֶּ֤גֶד עֵינַי֙ בְּקַרְקַ֣ע הַיָּ֔ם מִשָּׁ֛ם אֲצַוֶּ֥ה אֶת הַנָּחָ֖שׁ וּנְשָׁכָֽם (9:4)
-    וְאִם יֵלְכ֤וּ בַשְּׁבִי֙ לִפְנֵ֣י אֹֽיבֵיהֶ֔ם מִשָּׁ֛ם אֲצַוֶּ֥ה אֶת הַחֶ֖רֶב וַהֲרָגָ֑תַם וְשַׂמְתִּ֨י
-    עֵינִ֧י עֲלֵיהֶ֛ם לְרָעָ֖ה וְלֹ֥א לְטוֹבָֽה
-- tradition: judaism
-  ref: Amos 9:2
-  note: Though they dig into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God's
-    hand will take them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם אוֹרִידֵֽם
-- tradition: islam
-  ref: Quran 4:78
-  note: 'Though they dig into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God''s
-    hand will take them (Q: aynamā takūnū yudrikkumu l-mawtu wa-law kuntum fī burūjin mushayyadatin. Amos:
-    ʾim-yaḥtərû bišʾôl miššām yādî tiqqāḥēm wəʾim-yaʿălû haššāmayim miššām ʾôrîdēm. No height or hiding
-    place escapes; in Q it is death that reaches them, in Amos God''s hand.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ
-    حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ
-    عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: aynamā takūnū yudrikkumu l-mawtu wa-law kuntum fī burūjin mushayyadatin. Amos: ʾim-yaḥtərû
-    bišʾôl miššām yādî tiqqāḥēm wəʾim-yaʿălû haššāmayim miššām ʾôrîdēm. No height or hiding place escapes;
-    in Q it is death that reaches them, in Amos God''s hand.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Though they dig into Sheol or climb to heaven, hide on Carmel or
     at the bottom of the sea, God''s hand will take them (weight 6.7). Pair score 6.7.'
@@ -86,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Though they dig into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God's
+  hand will take them
+kinds:
+- echo
+units:
+- id: hb-amos-9-altar-and-booth-of-david
+  title: The Lord at the altar, no escape, the sieve, and the fallen booth of David
+  tradition: judaism
+- id: quran-4-fighting-and-death
+  title: Fighting for the oppressed; death in lofty towers
+  tradition: islam
+matches:
+- kind: echo
+  label: Though they dig into Sheol or climb to heaven, hide on Carmel or at the bottom of the sea, God's
+    hand will take them
+  note: 'Q: aynamā takūnū yudrikkumu l-mawtu wa-law kuntum fī burūjin mushayyadatin. Amos: ʾim-yaḥtərû
+    bišʾôl miššām yādî tiqqāḥēm wəʾim-yaʿălû haššāmayim miššām ʾôrîdēm. No height or hiding place escapes;
+    in Q it is death that reaches them, in Amos God''s hand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 9:2
+      lang: he
+      text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם
+        אוֹרִידֵֽם
+    - ref: Amos 9:3
+      lang: he
+      text: וְאִם יֵחָֽבְאוּ֙ בְּרֹ֣אשׁ הַכַּרְמֶ֔ל מִשָּׁ֥ם אֲחַפֵּ֖שׂ וּלְקַחְתִּ֑ים וְאִם יִסָּ֨תְר֜וּ
+        מִנֶּ֤גֶד עֵינַי֙ בְּקַרְקַ֣ע הַיָּ֔ם מִשָּׁ֛ם אֲצַוֶּ֥ה אֶת הַנָּחָ֖שׁ וּנְשָׁכָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:78
+      lang: ar
+      text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن
+        تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟
+        هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ
+        يَفْقَهُونَ حَدِيثًا
 ---
 
 ## Questions

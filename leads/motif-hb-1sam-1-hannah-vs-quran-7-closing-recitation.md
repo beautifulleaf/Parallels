@@ -2,8 +2,7 @@
 id: motif-hb-1sam-1-hannah-vs-quran-7-closing-recitation
 title: Hannah's vow and Samuel's birth ↔ Forbearance, refuge from Satan, and the prostration of the near
   ones
-summary: 'These two units share 1 motifs: remember god within yourself, humbly, without loud speech, morning
-  and evening.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - remember-god-quietly-morning-and-evening
-passages:
-- tradition: judaism
-  ref: 1Sam 1:13
-  note: 'Remember God within yourself, humbly, without loud speech, morning and evening (Prayer without
-    a raised voice: fī nafsika taḍarruʿan wa-khīfatan wa-dūna l-jahri mina l-qawli vs hîʾ mᵉdabberet ʿal-libbāh
-    raq śᵉpātêhā nāʿôt wᵉqôlāh lōʾ yiššāmēaʿ. In 1Sam it is an exception that the priest mistakes for
-    drunkenness; in Q it is the commanded norm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
-    וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
-- tradition: islam
-  ref: Quran 7:205
-  note: Remember God within yourself, humbly, without loud speech, morning and evening
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
-    وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Prayer without a raised voice: fī nafsika taḍarruʿan wa-khīfatan wa-dūna l-jahri mina l-qawli
-    vs hîʾ mᵉdabberet ʿal-libbāh raq śᵉpātêhā nāʿôt wᵉqôlāh lōʾ yiššāmēaʿ. In 1Sam it is an exception
-    that the priest mistakes for drunkenness; in Q it is the commanded norm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remember God within yourself, humbly, without loud speech, morning
     and evening (weight 6.3). Pair score 6.3.'
@@ -67,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Remember God within yourself, humbly, without loud speech, morning and evening
+kinds:
+- echo
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: echo
+  label: Remember God within yourself, humbly, without loud speech, morning and evening
+  note: 'Prayer without a raised voice: fī nafsika taḍarruʿan wa-khīfatan wa-dūna l-jahri mina l-qawli
+    vs hîʾ mᵉdabberet ʿal-libbāh raq śᵉpātêhā nāʿôt wᵉqôlāh lōʾ yiššāmēaʿ. In 1Sam it is an exception
+    that the priest mistakes for drunkenness; in Q it is the commanded norm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:13
+      lang: he
+      text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
+        וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:205
+      lang: ar
+      text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
+        وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
 ---
 
 ## Questions

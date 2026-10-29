@@ -2,8 +2,7 @@
 id: motif-hb-2sam-7-dynastic-oracle-vs-quran-39-pure-religion
 title: Nathan's oracle of the eternal house of David and David's prayer ↔ Pure religion; no son for God;
   creation from one soul in three darknesses
-summary: 'These two units share 1 motifs: whether god has, begets or takes sons or other offspring [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - divine-offspring-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Sam 7:14
-  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (ʾănî ʾehyeh-lô
-    lə-ʾāḇ wə-hûʾ yihyeh-lî lə-ḇēn vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā yakhluq:
-    adoption of a chosen human as God''s son. The Quran states this as a hypothetical it rejects (subḥānahu);
-    2 Samuel states it as a covenant fact.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִי֙ אֶהְיֶה לּ֣וֹ לְאָ֔ב וְה֖וּא יִהְיֶה לִּ֣י לְבֵ֑ן אֲשֶׁר֙ בְּהַ֣עֲוֺת֔וֹ וְהֹֽכַחְתִּיו֙
-    בְּשֵׁ֣בֶט אֲנָשִׁ֔ים וּבְנִגְעֵ֖י בְּנֵ֥י אָדָֽם
-- tradition: islam
-  ref: Quran 39:4
-  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (YHWH ʾāmar
-    ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā
-    yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship of the king
-    is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature God chose,
-    not one he begot, and God is above it altogether.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ
-    هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. ʾănî ʾehyeh-lô lə-ʾāḇ wə-hûʾ yihyeh-lî lə-ḇēn vs. law arāda llāhu an yattakhidha waladan
-    la-ṣṭafā mimmā yakhluq: adoption of a chosen human as God''s son. The Quran states this as a hypothetical
-    it rejects (subḥānahu); 2 Samuel states it as a covenant fact.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has, begets or takes sons or other offspring [contrast
     between the texts] (weight 5.8). Pair score 5.8.'
@@ -76,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has, begets or takes sons or other offspring
+kinds:
+- contrast
+units:
+- id: hb-2sam-7-dynastic-oracle
+  title: Nathan's oracle of the eternal house of David and David's prayer
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has, begets or takes sons or other offspring
+  note: 'ʾănî ʾehyeh-lô lə-ʾāḇ wə-hûʾ yihyeh-lî lə-ḇēn vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā
+    mimmā yakhluq: adoption of a chosen human as God''s son. The Quran states this as a hypothetical it
+    rejects (subḥānahu); 2 Samuel states it as a covenant fact.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 7:14
+      lang: he
+      text: אֲנִי֙ אֶהְיֶה לּ֣וֹ לְאָ֔ב וְה֖וּא יִהְיֶה לִּ֣י לְבֵ֑ן אֲשֶׁר֙ בְּהַ֣עֲוֺת֔וֹ וְהֹֽכַחְתִּיו֙
+        בְּשֵׁ֣בֶט אֲנָשִׁ֔ים וּבְנִגְעֵ֖י בְּנֵ֥י אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 39:4
+      lang: ar
+      text: لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ
+        هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-57-hadid-light-and-the-wall
 title: Return from exile; the near commandment; choose life ↔ The believers' light, the hypocrites who
   would borrow it, and the wall with a gate; hearts hardened by long time
-summary: 'These two units share 1 motifs: god will remove the heart of stone and give a heart of flesh
-  and a new spirit.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - heart-of-stone-to-heart-of-flesh
-passages:
-- tradition: judaism
-  ref: Deut 30:6
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (û-māl YHWH ʾĕlōhêḵā
-    ʾeṯ ləḇāḇəḵā ... lə-ʾahăḇâ ʾeṯ YHWH vs. a-lam yaʾni li-lladhīna āmanū an takhshaʿa qulūbuhum li-dhikri
-    llāh ... iʿlamū anna llāha yuḥyī l-arḍa baʿda mawtihā. The circumcised and the humbled heart; Deuteronomy
-    has God do it after the return, the Quran asks believers to do it now, as dead earth revives.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמָ֨ל יְהוָ֧ה אֱלֹהֶ֛יךָ אֶת לְבָבְךָ֖ וְאֶת לְבַ֣ב זַרְעֶ֑ךָ לְאַהֲבָ֞ה אֶת יְהוָ֧ה אֱלֹהֶ֛יךָ
-    בְּכָל לְבָבְךָ֥ וּבְכָל נַפְשְׁךָ֖ לְמַ֥עַן חַיֶּֽיךָ
-- tradition: islam
-  ref: Quran 57:16
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ مِنَ
-    ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
-    فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
-- tradition: islam
-  ref: Quran 57:17
-  note: God will remove the heart of stone and give a heart of flesh and a new spirit (hearts become hard
-    (qasat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ
-    لَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. û-māl YHWH ʾĕlōhêḵā ʾeṯ ləḇāḇəḵā ... lə-ʾahăḇâ ʾeṯ YHWH vs. a-lam yaʾni li-lladhīna āmanū an
-    takhshaʿa qulūbuhum li-dhikri llāh ... iʿlamū anna llāha yuḥyī l-arḍa baʿda mawtihā. The circumcised
-    and the humbled heart; Deuteronomy has God do it after the return, the Quran asks believers to do
-    it now, as dead earth revives.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will remove the heart of stone and give a heart of flesh and
     a new spirit (weight 5.8). Pair score 5.8.'
@@ -82,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will remove the heart of stone and give a heart of flesh and a new spirit
+kinds:
+- echo
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: echo
+  label: God will remove the heart of stone and give a heart of flesh and a new spirit
+  note: û-māl YHWH ʾĕlōhêḵā ʾeṯ ləḇāḇəḵā ... lə-ʾahăḇâ ʾeṯ YHWH vs. a-lam yaʾni li-lladhīna āmanū an takhshaʿa
+    qulūbuhum li-dhikri llāh ... iʿlamū anna llāha yuḥyī l-arḍa baʿda mawtihā. The circumcised and the
+    humbled heart; Deuteronomy has God do it after the return, the Quran asks believers to do it now,
+    as dead earth revives.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:6
+      lang: he
+      text: וּמָ֨ל יְהוָ֧ה אֱלֹהֶ֛יךָ אֶת לְבָבְךָ֖ וְאֶת לְבַ֣ב זַרְעֶ֑ךָ לְאַהֲבָ֞ה אֶת יְהוָ֧ה אֱלֹהֶ֛יךָ
+        בְּכָל לְבָבְךָ֥ וּבְכָל נַפְשְׁךָ֖ לְמַ֥עַן חַיֶּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:16
+      lang: ar
+      text: أَلَمْ يَأْنِ لِلَّذِينَ ءَامَنُوٓا۟ أَن تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ ٱللَّهِ وَمَا نَزَلَ
+        مِنَ ٱلْحَقِّ وَلَا يَكُونُوا۟ كَٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلُ فَطَالَ عَلَيْهِمُ ٱلْأَمَدُ
+        فَقَسَتْ قُلُوبُهُمْ وَكَثِيرٌ مِّنْهُمْ فَٰسِقُونَ
+    - ref: Quran 57:17
+      lang: ar
+      text: ٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يُحْىِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا قَدْ بَيَّنَّا لَكُمُ ٱلْءَايَٰتِ
+        لَعَلَّكُمْ تَعْقِلُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-prov-17-sayings-vs-quran-24-ifk-slander
 title: Sayings on strife, bribes, friends and the silent fool ↔ The affair of the lie (ifk) against a
   chaste woman
-summary: 'These two units share 1 motifs: hatred stirs up strife, but love covers all offenses.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - love-covers-all-offenses
-passages:
-- tradition: judaism
-  ref: Prov 17:9
-  note: Hatred stirs up strife, but love covers all offenses (he who covers an offense seeks love; repeating
-    a matter separates friends)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מְֽכַסֶּה פֶּ֭שַׁע מְבַקֵּ֣שׁ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף
-- tradition: judaism
-  ref: Prov 17:4
-  note: Hatred stirs up strife, but love covers all offenses (he who covers an offense seeks love; repeating
-    a matter separates friends)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵ֭רַע מַקְשִׁ֣יב עַל שְׂפַת אָ֑וֶן שֶׁ֥קֶר מֵ֝זִין עַל לְשׁ֥וֹן הַוֺּֽת
-- tradition: islam
-  ref: Quran 24:19
-  note: 'Hatred stirs up strife, but love covers all offenses (inna lladhīna yuḥibbūna an tashīʿa l-fāḥishatu
-    ~ mərāʿ maqšîv ʿal śəfat ʾāwen ... wə-šōneh və-dāvār mafrîd ʾallûf: listening to and repeating wicked
-    talk is itself wrong; Proverbs praises covering (məkhasseh pešaʿ), the Quran condemns wanting indecency
-    to spread.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ
-    فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. inna lladhīna yuḥibbūna an tashīʿa l-fāḥishatu ~ mərāʿ maqšîv ʿal śəfat ʾāwen ... wə-šōneh və-dāvār
-    mafrîd ʾallûf: listening to and repeating wicked talk is itself wrong; Proverbs praises covering (məkhasseh
-    pešaʿ), the Quran condemns wanting indecency to spread.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hatred stirs up strife, but love covers all offenses (weight 6.3).
     Pair score 6.3.'
@@ -76,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hatred stirs up strife, but love covers all offenses
+kinds:
+- echo
+units:
+- id: hb-prov-17-sayings
+  title: Sayings on strife, bribes, friends and the silent fool
+  tradition: judaism
+- id: quran-24-ifk-slander
+  title: The affair of the lie (ifk) against a chaste woman
+  tradition: islam
+matches:
+- kind: echo
+  label: Hatred stirs up strife, but love covers all offenses
+  note: 'inna lladhīna yuḥibbūna an tashīʿa l-fāḥishatu ~ mərāʿ maqšîv ʿal śəfat ʾāwen ... wə-šōneh və-dāvār
+    mafrîd ʾallûf: listening to and repeating wicked talk is itself wrong; Proverbs praises covering (məkhasseh
+    pešaʿ), the Quran condemns wanting indecency to spread.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 17:4
+      lang: he
+      text: מֵ֭רַע מַקְשִׁ֣יב עַל שְׂפַת אָ֑וֶן שֶׁ֥קֶר מֵ֝זִין עַל לְשׁ֥וֹן הַוֺּֽת
+    - ref: Prov 17:9
+      lang: he
+      text: מְֽכַסֶּה פֶּ֭שַׁע מְבַקֵּ֣שׁ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף
+  - tradition: islam
+    passages:
+    - ref: Quran 24:19
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ
+        أَلِيمٌ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-24-world-judgment-vs-quran-44-dukhan-pharaoh-drowned
 title: The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion ↔ Moses asks Pharaoh to
   hand over God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: whether heaven and earth mourn a destroyed people [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-and-earth-mourning-the-destroyed-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 24:4
-  note: 'Whether heaven and earth mourn a destroyed people [contrast between the texts] (ʾāḇəlâ nāḇəlâ
-    hā-ʾāreṣ ... ʾumlālû mərôm ʿam hā-ʾāreṣ (the earth mourns and withers in the world judgment) vs. fa-mā
-    bakat ʿalayhimu s-samāʾu wa-l-arḍ: in Isaiah the earth mourns its own ruin; in the Quran neither heaven
-    nor earth weeps for Pharaoh''s people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָבְלָ֤ה נָֽבְלָה֙ הָאָ֔רֶץ אֻמְלְלָ֥ה נָבְלָ֖ה תֵּבֵ֑ל אֻמְלָ֖לוּ מְר֥וֹם עַם הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 44:29
-  note: 'Whether heaven and earth mourn a destroyed people [contrast between the texts] (Whether heaven
-    and earth mourn the destroyed. Jeremiah: ʿal zōʾṯ teʾĕḇal hā-ʾāreṣ wə-qāḏərû haš-šāmayim mim-māʿal
-    (for Judah''s ruin the earth mourns and the heavens darken). Quran: fa-mā bakat ʿalayhimu s-samāʾu
-    wa-l-arḍu wa-mā kānū munẓarīn. Heaven and earth grieve over God''s people, and no one grieves over
-    Pharaoh''s. cf. b. Megillah 10b (God forbids the angels to sing as the Egyptians drown), not in the
-    HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. ʾāḇəlâ nāḇəlâ hā-ʾāreṣ ... ʾumlālû mərôm ʿam hā-ʾāreṣ (the earth mourns and withers in the
-    world judgment) vs. fa-mā bakat ʿalayhimu s-samāʾu wa-l-arḍ: in Isaiah the earth mourns its own ruin;
-    in the Quran neither heaven nor earth weeps for Pharaoh''s people.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether heaven and earth mourn a destroyed people [contrast between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -81,6 +57,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether heaven and earth mourn a destroyed people
+kinds:
+- contrast
+units:
+- id: hb-isa-24-world-judgment
+  title: The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether heaven and earth mourn a destroyed people
+  note: 'ʾāḇəlâ nāḇəlâ hā-ʾāreṣ ... ʾumlālû mərôm ʿam hā-ʾāreṣ (the earth mourns and withers in the world
+    judgment) vs. fa-mā bakat ʿalayhimu s-samāʾu wa-l-arḍ: in Isaiah the earth mourns its own ruin; in
+    the Quran neither heaven nor earth weeps for Pharaoh''s people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 24:4
+      lang: he
+      text: אָבְלָ֤ה נָֽבְלָה֙ הָאָ֔רֶץ אֻמְלְלָ֥ה נָבְלָ֖ה תֵּבֵ֑ל אֻמְלָ֖לוּ מְר֥וֹם עַם הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:29
+      lang: ar
+      text: فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلْأَرْضُ وَمَا كَانُوا۟ مُنظَرِينَ
 ---
 
 ## Questions

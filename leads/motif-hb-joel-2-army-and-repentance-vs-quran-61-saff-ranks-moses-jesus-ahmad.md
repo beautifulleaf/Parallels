@@ -2,8 +2,7 @@
 id: motif-hb-joel-2-army-and-repentance-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration ↔ Al-Saff: ranks like a
   solid structure; Moses hurt by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: god loves those who fight in his way in ranks as though they
-  were a solid structure (bunyan marsus).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - fighters-in-ranks-like-solid-building
-passages:
-- tradition: judaism
-  ref: Joel 2:7
-  note: 'God loves those who fight in his way in ranks as though they were a solid structure (bunyan marsus)
-    (An army that keeps its ranks: wə-ʾîš bi-ḏrāḵâw yēlēḵûn wə-lōʾ yəʿabbəṭûn ʾōrḥôṯām wə-ʾîš ʾāḥîw lōʾ
-    yiḏḥāqûn vs. yuqātilūna fī sabīlihi ṣaffan ka-annahum bunyānun marṣūṣ. Joel''s is YHWH''s locust army
-    against Judah; the Quran''s the believers'' battle line.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּגִבּוֹרִ֣ים יְרֻצ֔וּן כְּאַנְשֵׁ֥י מִלְחָמָ֖ה יַעֲל֣וּ חוֹמָ֑ה וְאִ֤ישׁ בִּדְרָכָיו֙ יֵֽלֵכ֔וּן
-    וְלֹ֥א יְעַבְּט֖וּן אֹרְחוֹתָֽם
-- tradition: judaism
-  ref: Joel 2:8
-  note: 'God loves those who fight in his way in ranks as though they were a solid structure (bunyan marsus)
-    (An army that keeps its ranks: wə-ʾîš bi-ḏrāḵâw yēlēḵûn wə-lōʾ yəʿabbəṭûn ʾōrḥôṯām wə-ʾîš ʾāḥîw lōʾ
-    yiḏḥāqûn vs. yuqātilūna fī sabīlihi ṣaffan ka-annahum bunyānun marṣūṣ. Joel''s is YHWH''s locust army
-    against Judah; the Quran''s the believers'' battle line.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֤ישׁ אָחִיו֙ לֹ֣א יִדְחָק֔וּן גֶּ֥בֶר בִּמְסִלָּת֖וֹ יֵֽלֵכ֑וּן וּבְעַ֥ד הַשֶּׁ֛לַח יִפֹּ֖לוּ
-    לֹ֥א יִבְצָֽעוּ
-- tradition: islam
-  ref: Quran 61:4
-  note: God loves those who fight in his way in ranks as though they were a solid structure (bunyan marsus)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. An army that keeps its ranks: wə-ʾîš bi-ḏrāḵâw yēlēḵûn wə-lōʾ yəʿabbəṭûn ʾōrḥôṯām wə-ʾîš ʾāḥîw
-    lōʾ yiḏḥāqûn vs. yuqātilūna fī sabīlihi ṣaffan ka-annahum bunyānun marṣūṣ. Joel''s is YHWH''s locust
-    army against Judah; the Quran''s the believers'' battle line.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God loves those who fight in his way in ranks as though they were
     a solid structure (bunyan marsus) (weight 6.7). Pair score 6.7.'
@@ -83,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God loves those who fight in his way in ranks as though they were a solid structure (bunyan marsus)
+kinds:
+- echo
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: God loves those who fight in his way in ranks as though they were a solid structure (bunyan marsus)
+  note: 'An army that keeps its ranks: wə-ʾîš bi-ḏrāḵâw yēlēḵûn wə-lōʾ yəʿabbəṭûn ʾōrḥôṯām wə-ʾîš ʾāḥîw
+    lōʾ yiḏḥāqûn vs. yuqātilūna fī sabīlihi ṣaffan ka-annahum bunyānun marṣūṣ. Joel''s is YHWH''s locust
+    army against Judah; the Quran''s the believers'' battle line.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:7
+      lang: he
+      text: כְּגִבּוֹרִ֣ים יְרֻצ֔וּן כְּאַנְשֵׁ֥י מִלְחָמָ֖ה יַעֲל֣וּ חוֹמָ֑ה וְאִ֤ישׁ בִּדְרָכָיו֙ יֵֽלֵכ֔וּן
+        וְלֹ֥א יְעַבְּט֖וּן אֹרְחוֹתָֽם
+    - ref: Joel 2:8
+      lang: he
+      text: וְאִ֤ישׁ אָחִיו֙ לֹ֣א יִדְחָק֔וּן גֶּ֥בֶר בִּמְסִלָּת֖וֹ יֵֽלֵכ֑וּן וּבְעַ֥ד הַשֶּׁ֛לַח יִפֹּ֖לוּ
+        לֹ֥א יִבְצָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 61:4
+      lang: ar
+      text: إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَٰتِلُونَ فِى سَبِيلِهِۦ صَفًّا كَأَنَّهُم بُنْيَٰنٌ مَّرْصُوصٌ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-2-call-to-worship
 title: Psalm 135, hymn on God's power, election and the idols ↔ Call to worship the Creator; the challenge;
   paradise and the gnat
-summary: 'These two units share 1 motifs: god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Ps 135:7
-  note: God opens his good storehouse, the heavens, to give rain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
-- tradition: islam
-  ref: Quran 2:22
-  note: God opens his good storehouse, the heavens, to give rain (earth a bed, sky a canopy, rain brings
-    fruits)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً
-    فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 135:7 bĕrāqîm la-māṭār ʿāśâ môṣēʾ rûaḥ mē-ʾôṣĕrôtāyw; Q 2:22 anzala mina s-samāʾi māʾan.
-    In both, God sending rain is set against the idols (Ps 135:15 ʿăṣabbê ha-gôyim; Q 2:22 fa-lā tajʿalū
-    li-llāhi andādan).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
     5.3). Pair score 5.3.'
@@ -67,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens his good storehouse, the heavens, to give rain
+kinds:
+- echo
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens his good storehouse, the heavens, to give rain
+  note: Ps 135:7 bĕrāqîm la-māṭār ʿāśâ môṣēʾ rûaḥ mē-ʾôṣĕrôtāyw; Q 2:22 anzala mina s-samāʾi māʾan. In
+    both, God sending rain is set against the idols (Ps 135:15 ʿăṣabbê ha-gôyim; Q 2:22 fa-lā tajʿalū
+    li-llāhi andādan).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:7
+      lang: he
+      text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:22
+      lang: ar
+      text: ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ
+        مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا
+        وَأَنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

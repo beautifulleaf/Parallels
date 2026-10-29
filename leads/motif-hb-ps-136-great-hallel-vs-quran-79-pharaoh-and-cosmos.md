@@ -2,8 +2,7 @@
 id: motif-hb-ps-136-great-hallel-vs-quran-79-pharaoh-and-cosmos
 title: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel) ↔ Those who drag forth:
   Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
-summary: 'These two units share 2 motifs: god spread out the earth as a carpet, cradle or bed (bisat,
-  mihad, daha, sutihat, tahaha), the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 motifs:
 - earth-spread-out-like-carpet
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 136:6
-  note: 'God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha) (wa-llāhu
-    jaʿala lakumu l-arḍa bisāṭan ~ le-rōqaʿ hā-ʾāreṣ ʿal ha-mmāyim. The Quran adds the purpose: li-taslukū
-    minhā subulan fijājan.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְרֹקַ֣ע הָ֭אָרֶץ עַל הַמָּ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
-- tradition: islam
-  ref: Quran 79:30
-  note: God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ
-- tradition: judaism
-  ref: Ps 136:15
-  note: 'The returning waters drown the pursuing army; not one survives (fa-akhadhahu llāhu nakāla l-ākhirati
-    wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment
-    in the next world as well.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִ֘עֵ֤ר פַּרְעֹ֣ה וְחֵיל֣וֹ בְיַם ס֑וּף כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
-- tradition: islam
-  ref: Quran 79:25
-  note: 'The returning waters drown the pursuing army; not one survives (fa-akhadhahu llāhu nakāla l-ākhirati
-    wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh himself punished by God; the Quran adds punishment
-    in the next world as well.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh
-    himself punished by God; the Quran adds punishment in the next world as well.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God spread out the earth as a carpet, cradle or bed (bisat, mihad,
     daha, sutihat, tahaha) (weight 5.6); The returning waters drown the pursuing army; not one survives
@@ -88,6 +55,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-136-great-hallel
+  title: Psalm 136, litany 'for his steadfast love is forever' (Great Hallel)
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: echo
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'fa-akhadhahu llāhu nakāla l-ākhirati wa-l-ūlā ~ we-niʿʿēr parʿōh we-ḥêlô ve-yam sûf: Pharaoh
+    himself punished by God; the Quran adds punishment in the next world as well.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 136:15
+      lang: he
+      text: וְנִ֘עֵ֤ר פַּרְעֹ֣ה וְחֵיל֣וֹ בְיַם ס֑וּף כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 79:25
+      lang: ar
+      text: فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْءَاخِرَةِ وَٱلْأُولَىٰٓ
+- kind: shared
+  label: God spread out the earth as a carpet, cradle or bed (bisat, mihad, daha, sutihat, tahaha)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 136:6
+      lang: he
+      text: לְרֹקַ֣ע הָ֭אָרֶץ עַל הַמָּ֑יִם כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+    note: 'wa-llāhu jaʿala lakumu l-arḍa bisāṭan ~ le-rōqaʿ hā-ʾāreṣ ʿal ha-mmāyim. The Quran adds the
+      purpose: li-taslukū minhā subulan fijājan.'
+  - tradition: islam
+    passages:
+    - ref: Quran 79:30
+      lang: ar
+      text: وَٱلْأَرْضَ بَعْدَ ذَٰلِكَ دَحَىٰهَآ
 ---
 
 ## Questions

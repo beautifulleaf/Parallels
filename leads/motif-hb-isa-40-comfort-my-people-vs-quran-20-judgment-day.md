@@ -2,9 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-20-judgment-day
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The trumpet, the leveled
   mountains and the hushed judgment
-summary: 'These two units share 2 motifs: every valley lifted up, every mountain and hill made low, the
-  crooked made straight for god''s coming [divergence between the texts], every valley lifted up, every
-  mountain and hill made low, the crooked made straight for god''s coming.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,89 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- valleys-raised-mountains-leveled-as-divergence
 - valleys-raised-mountains-leveled
-passages:
-- tradition: judaism
-  ref: Isa 40:3
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming [divergence between the texts] (kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr;
-    yansifuhā rabbī nasfā fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya
-    lā ʿiwaja lah. Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In
-    Isa the leveling makes a highway for God's return to comfort Jerusalem; in Q it is the end of the
-    world, with all following the summoner to judgment.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֣וֹל קוֹרֵ֔א בַּמִּדְבָּ֕ר פַּנּ֖וּ דֶּ֣רֶךְ יְהוָ֑ה יַשְּׁרוּ֙ בָּעֲרָבָ֔ה מְסִלָּ֖ה לֵאלֹהֵֽינוּ
-- tradition: judaism
-  ref: Isa 40:4
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming [divergence between the texts] (kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr;
-    yansifuhā rabbī nasfā fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya
-    lā ʿiwaja lah. Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In
-    Isa the leveling makes a highway for God's return to comfort Jerusalem; in Q it is the end of the
-    world, with all following the summoner to judgment.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל גֶּיא֙ יִנָּשֵׂ֔א וְכָל הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר וְהָרְכָסִ֖ים
-    לְבִקְעָֽה
-- tradition: islam
-  ref: Quran 20:105
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming [divergence between the texts] (kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr;
-    yansifuhā rabbī nasfā fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya
-    lā ʿiwaja lah. Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In
-    Isa the leveling makes a highway for God's return to comfort Jerusalem; in Q it is the end of the
-    world, with all following the summoner to judgment.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا
-- tradition: islam
-  ref: Quran 20:106
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming [divergence between the texts] (kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr;
-    yansifuhā rabbī nasfā fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya
-    lā ʿiwaja lah. Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In
-    Isa the leveling makes a highway for God's return to comfort Jerusalem; in Q it is the end of the
-    world, with all following the summoner to judgment.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَيَذَرُهَا قَاعًا صَفْصَفًا
-- tradition: judaism
-  ref: Isa 40:4-5
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (40:4) כָּל גֶּיא֙ יִנָּשֵׂ֔א וְכָל הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר
-    וְהָרְכָסִ֖ים לְבִקְעָֽה (40:5) וְנִגְלָ֖ה כְּב֣וֹד יְהוָ֑ה וְרָא֤וּ כָל בָּשָׂר֙ יַחְדָּ֔ו כִּ֛י
-    פִּ֥י יְהוָ֖ה דִּבֵּֽר
-- tradition: islam
-  ref: Quran 20:106
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming (the summoner (dāʿī) in whom there is no crookedness)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَيَذَرُهَا قَاعًا صَفْصَفًا
-- tradition: islam
-  ref: Quran 20:107
-  note: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
-    coming (the summoner (dāʿī) in whom there is no crookedness)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا
+- valleys-raised-mountains-leveled-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr; yansifuhā rabbī nasfā
-    fa-yadharuhā qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya lā ʿiwaja lah.
-    Mountains leveled, nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In Isa the leveling
-    makes a highway for God''s return to comfort Jerusalem; in Q it is the end of the world, with all
-    following the summoner to judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every valley lifted up, every mountain and hill made low, the crooked
-    made straight for God''s coming [divergence between the texts] (weight 6.7); Every valley lifted up,
-    every mountain and hill made low, the crooked made straight for God''s coming (weight 6.7). Pair score
-    13.4.'
+    made straight for God''s coming (weight 6.7); Every valley lifted up, every mountain and hill made
+    low, the crooked made straight for God''s coming [divergence between the texts] (weight 6.7). Pair
+    score 13.4.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
@@ -129,6 +54,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
+  coming
+kinds:
+- divergence
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-20-judgment-day
+  title: The trumpet, the leveled mountains and the hushed judgment
+  tradition: islam
+matches:
+- kind: divergence
+  label: Every valley lifted up, every mountain and hill made low, the crooked made straight for God's
+    coming
+  note: kol-gêʾ yinnāśēʾ wəkol-har wəgibʿâ yišpālû wəhāyâ heʿāqōb ləmîšôr; yansifuhā rabbī nasfā fa-yadharuhā
+    qāʿan ṣafṣafā lā tarā fīhā ʿiwajan wa-lā amtā ... yattabiʿūna d-dāʿiya lā ʿiwaja lah. Mountains leveled,
+    nothing crooked left, and a voice calls (qôl qôrēʾ / ad-dāʿī). In Isa the leveling makes a highway
+    for God's return to comfort Jerusalem; in Q it is the end of the world, with all following the summoner
+    to judgment.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:3
+      lang: he
+      text: ק֣וֹל קוֹרֵ֔א בַּמִּדְבָּ֕ר פַּנּ֖וּ דֶּ֣רֶךְ יְהוָ֑ה יַשְּׁרוּ֙ בָּעֲרָבָ֔ה מְסִלָּ֖ה לֵאלֹהֵֽינוּ
+    - ref: Isa 40:4
+      lang: he
+      text: כָּל גֶּיא֙ יִנָּשֵׂ֔א וְכָל הַ֥ר וְגִבְעָ֖ה יִשְׁפָּ֑לוּ וְהָיָ֤ה הֶֽעָקֹב֙ לְמִישׁ֔וֹר וְהָרְכָסִ֖ים
+        לְבִקְעָֽה
+    - ref: Isa 40:5
+      lang: he
+      text: וְנִגְלָ֖ה כְּב֣וֹד יְהוָ֑ה וְרָא֤וּ כָל בָּשָׂר֙ יַחְדָּ֔ו כִּ֛י פִּ֥י יְהוָ֖ה דִּבֵּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 20:105
+      lang: ar
+      text: وَيَسْـَٔلُونَكَ عَنِ ٱلْجِبَالِ فَقُلْ يَنسِفُهَا رَبِّى نَسْفًا
+    - ref: Quran 20:106
+      lang: ar
+      text: فَيَذَرُهَا قَاعًا صَفْصَفًا
+    - ref: Quran 20:107
+      lang: ar
+      text: لَّا تَرَىٰ فِيهَا عِوَجًا وَلَآ أَمْتًا
 ---
 
 ## Questions

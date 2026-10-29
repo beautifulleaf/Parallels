@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-48-ephraim-manasseh-blessing-vs-quran-12-joseph-full
 title: Jacob adopts and blesses Ephraim and Manasseh ↔ Joseph and his brothers (Surah 12, full read)
-summary: 'These two units share 2 motifs: the father''s eyesight fails [divergence between the texts],
-  the father''s eyesight fails.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 motifs:
 - father-eyesight-fails-as-divergence
 - father-eyesight-fails
-passages:
-- tradition: judaism
-  ref: Gen 48:10
-  note: 'The father''s eyesight fails [divergence between the texts] (Gen: wəʿênê yiśrāʾēl kābədû mizzōqen
-    lōʾ yûkal lirʾôt, from old age, never healed. Q: wa-byaḍḍat ʿaynāhu mina l-ḥuzni fa-huwa kaẓīm, from
-    grief over Joseph, and healed by Joseph''s shirt (12:96).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעֵינֵ֤י יִשְׂרָאֵל֙ כָּבְד֣וּ מִזֹּ֔קֶן לֹ֥א יוּכַ֖ל לִרְא֑וֹת וַיַּגֵּ֤שׁ אֹתָם֙ אֵלָ֔יו וַיִּשַּׁ֥ק
-    לָהֶ֖ם וַיְחַבֵּ֥ק לָהֶֽם
-- tradition: islam
-  ref: Quran 12:84
-  note: 'The father''s eyesight fails [divergence between the texts] (Gen: wəʿênê yiśrāʾēl kābədû mizzōqen
-    lōʾ yûkal lirʾôt, from old age, never healed. Q: wa-byaḍḍat ʿaynāhu mina l-ḥuzni fa-huwa kaẓīm, from
-    grief over Joseph, and healed by Joseph''s shirt (12:96).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
-    فَهُوَ كَظِيمٌ
-- tradition: judaism
-  ref: Gen 48:10
-  note: The father's eyesight fails
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעֵינֵ֤י יִשְׂרָאֵל֙ כָּבְד֣וּ מִזֹּ֔קֶן לֹ֥א יוּכַ֖ל לִרְא֑וֹת וַיַּגֵּ֤שׁ אֹתָם֙ אֵלָ֔יו וַיִּשַּׁ֥ק
-    לָהֶ֖ם וַיְחַבֵּ֥ק לָהֶֽם
-- tradition: islam
-  ref: Quran 12:84
-  note: The father's eyesight fails (his eyes whitened from grief)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
-    فَهُوَ كَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: wəʿênê yiśrāʾēl kābədû mizzōqen lōʾ yûkal lirʾôt, from old age, never healed. Q:
-    wa-byaḍḍat ʿaynāhu mina l-ḥuzni fa-huwa kaẓīm, from grief over Joseph, and healed by Joseph''s shirt
-    (12:96).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The father''s eyesight fails [divergence between the texts] (weight
     6.7); The father''s eyesight fails (weight 5.8). Pair score 12.5.'
@@ -85,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The father's eyesight fails
+kinds:
+- divergence
+units:
+- id: hb-gen-48-ephraim-manasseh-blessing
+  title: Jacob adopts and blesses Ephraim and Manasseh
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: divergence
+  label: The father's eyesight fails
+  note: 'Gen: wəʿênê yiśrāʾēl kābədû mizzōqen lōʾ yûkal lirʾôt, from old age, never healed. Q: wa-byaḍḍat
+    ʿaynāhu mina l-ḥuzni fa-huwa kaẓīm, from grief over Joseph, and healed by Joseph''s shirt (12:96).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 48:10
+      lang: he
+      text: וְעֵינֵ֤י יִשְׂרָאֵל֙ כָּבְד֣וּ מִזֹּ֔קֶן לֹ֥א יוּכַ֖ל לִרְא֑וֹת וַיַּגֵּ֤שׁ אֹתָם֙ אֵלָ֔יו
+        וַיִּשַּׁ֥ק לָהֶ֖ם וַיְחַבֵּ֥ק לָהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 12:84
+      lang: ar
+      text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
+        فَهُوَ كَظِيمٌ
 ---
 
 ## Questions

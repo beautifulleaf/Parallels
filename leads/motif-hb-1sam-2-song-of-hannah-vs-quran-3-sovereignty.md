@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-3-sovereignty
 title: Song of Hannah ↔ Owner of sovereignty
-summary: 'These two units share 1 motifs: hymn of reversals: the barren bears seven, the mighty broken,
-  the poor raised from the dung-heap.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - song-reversal-of-fortunes
-passages:
-- tradition: judaism
-  ref: 1Sam 2:4
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קֶ֥שֶׁת גִּבֹּרִ֖ים חַתִּ֑ים וְנִכְשָׁלִ֖ים אָ֥זְרוּ חָֽיִל
-- tradition: judaism
-  ref: 1Sam 2:5
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂבֵעִ֤ים בַּלֶּ֨חֶם֙ נִשְׂכָּ֔רוּ וּרְעֵבִ֖ים חָדֵ֑לּוּ עַד עֲקָרָה֙ יָלְדָ֣ה שִׁבְעָ֔ה וְרַבַּ֥ת
-    בָּנִ֖ים אֻמְלָֽלָה
-- tradition: islam
-  ref: Quran 3:26
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap
-    (1Sam 2:6-8 YHWH mēmît û-mĕḥayyeh ... mašpîl ʾap mĕrômēm mēqîm mē-ʿāpār dāl ... wĕ-kissēʾ kābôd yanḥilēm:
-    God kills and gives life, brings low and lifts up, seats the poor on a throne; Q 3:26-27 tuʿizzu man
-    tashāʾu wa-tudhillu man tashāʾ ... tukhriju l-ḥayya mina l-mayyiti wa-tukhriju l-mayyita mina l-ḥayyi
-    wa-tarzuqu man tashāʾu bi-ghayri ḥisāb: he exalts and abases, brings the living from the dead and
-    the dead from the living, provides without measure. A hymn of divine reversals in both; Hannah''s
-    is a thanksgiving for a son, the Quran''s a general confession.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ
-    وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: islam
-  ref: Quran 3:27
-  note: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap
-    (1Sam 2:6-8 YHWH mēmît û-mĕḥayyeh ... mašpîl ʾap mĕrômēm mēqîm mē-ʿāpār dāl ... wĕ-kissēʾ kābôd yanḥilēm:
-    God kills and gives life, brings low and lifts up, seats the poor on a throne; Q 3:26-27 tuʿizzu man
-    tashāʾu wa-tudhillu man tashāʾ ... tukhriju l-ḥayya mina l-mayyiti wa-tukhriju l-mayyita mina l-ḥayyi
-    wa-tarzuqu man tashāʾu bi-ghayri ḥisāb: he exalts and abases, brings the living from the dead and
-    the dead from the living, provides without measure. A hymn of divine reversals in both; Hannah''s
-    is a thanksgiving for a son, the Quran''s a general confession.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ
-    وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. 1Sam 2:6-8 YHWH mēmît û-mĕḥayyeh ... mašpîl ʾap mĕrômēm mēqîm mē-ʿāpār dāl ... wĕ-kissēʾ
-    kābôd yanḥilēm: God kills and gives life, brings low and lifts up, seats the poor on a throne; Q 3:26-27
-    tuʿizzu man tashāʾu wa-tudhillu man tashāʾ ... tukhriju l-ḥayya mina l-mayyiti wa-tukhriju l-mayyita
-    mina l-ḥayyi wa-tarzuqu man tashāʾu bi-ghayri ḥisāb: he exalts and abases, brings the living from
-    the dead and the dead from the living, provides without measure. A hymn of divine reversals in both;
-    Hannah''s is a thanksgiving for a son, the Quran''s a general confession.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hymn of reversals: the barren bears seven, the mighty broken, the
     poor raised from the dung-heap (weight 6.0). Pair score 6.0.'
@@ -88,6 +42,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
+kinds:
+- parallel
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-3-sovereignty
+  title: Owner of sovereignty
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Hymn of reversals: the barren bears seven, the mighty broken, the poor raised from the dung-heap'
+  note: '1Sam 2:6-8 YHWH mēmît û-mĕḥayyeh ... mašpîl ʾap mĕrômēm mēqîm mē-ʿāpār dāl ... wĕ-kissēʾ kābôd
+    yanḥilēm: God kills and gives life, brings low and lifts up, seats the poor on a throne; Q 3:26-27
+    tuʿizzu man tashāʾu wa-tudhillu man tashāʾ ... tukhriju l-ḥayya mina l-mayyiti wa-tukhriju l-mayyita
+    mina l-ḥayyi wa-tarzuqu man tashāʾu bi-ghayri ḥisāb: he exalts and abases, brings the living from
+    the dead and the dead from the living, provides without measure. A hymn of divine reversals in both;
+    Hannah''s is a thanksgiving for a son, the Quran''s a general confession.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:6
+      lang: he
+      text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
+    - ref: 1Sam 2:7
+      lang: he
+      text: יְהוָ֖ה מוֹרִ֣ישׁ וּמַעֲשִׁ֑יר מַשְׁפִּ֖יל אַף מְרוֹמֵֽם
+    - ref: 1Sam 2:8
+      lang: he
+      text: מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְי֔וֹן לְהוֹשִׁיב֙ עִם נְדִיבִ֔ים וְכִסֵּ֥א
+        כָב֖וֹד יַנְחִלֵ֑ם כִּ֤י לַֽיהוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 3:26
+      lang: ar
+      text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن
+        تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
+    - ref: Quran 3:27
+      lang: ar
+      text: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ
+        ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
 ---
 
 ## Questions

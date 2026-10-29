@@ -2,9 +2,7 @@
 id: motif-hb-lev-18-forbidden-unions-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'Forbidden sexual unions; the land vomits out its inhabitants ↔ Al-Mujadila: the woman who disputed,
   the zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 2 motifs: zihar: a husband declaring his wife ''like my mother''s back'';
-  she is not his mother, the saying is false and abhorrent, list of forbidden close-kin unions (''uncovering
-  nakedness'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,63 +15,9 @@ layers:
 motifs:
 - zihar-repudiation-wife-as-mothers-back
 - incest-prohibitions-list
-passages:
-- tradition: judaism
-  ref: Lev 18:7
-  note: 'Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent (The mother as the forbidden woman: ʿerwaṯ ʾimməḵā lōʾ ṯəḡalleh ʾimməḵā hîʾ
-    (your mother, do not uncover her nakedness) vs. alladhīna yuẓāhirūna minkum min nisāʾihim mā hunna
-    ummahātihim in ummahātuhum illā llāʾī waladnahum. The ẓihār formula (''you are to me like my mother''s
-    back'') uses the incest taboo to repudiate a wife; the Quran voids it: she is not his mother, the
-    words are munkar and false (zūr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
-- tradition: islam
-  ref: Quran 58:2
-  note: 'Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ
-    إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ
-    ٱللَّهَ لَعَفُوٌّ غَفُورٌ
-- tradition: islam
-  ref: Quran 58:3
-  note: 'Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
-    is false and abhorrent'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ
-    مِّن قَبْلِ أَن يَتَمَآسَّا ذَٰلِكُمْ تُوعَظُونَ بِهِۦ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-- tradition: judaism
-  ref: Lev 18:6
-  note: List of forbidden close-kin unions ('uncovering nakedness') (Uncovering nakedness formula)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֥ישׁ אִישׁ֙ אֶל כָּל שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהוָֽה
-- tradition: judaism
-  ref: Lev 18:7
-  note: List of forbidden close-kin unions ('uncovering nakedness') (Uncovering nakedness formula)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
-- tradition: islam
-  ref: Quran 58:2
-  note: List of forbidden close-kin unions ('uncovering nakedness') (the wife is likened to the mother's
-    'back' (uncovering nakedness idiom))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ
-    إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ
-    ٱللَّهَ لَعَفُوٌّ غَفُورٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The mother as the forbidden woman: ʿerwaṯ ʾimməḵā lōʾ ṯəḡalleh ʾimməḵā hîʾ (your mother, do
-    not uncover her nakedness) vs. alladhīna yuẓāhirūna minkum min nisāʾihim mā hunna ummahātihim in ummahātuhum
-    illā llāʾī waladnahum. The ẓihār formula (''you are to me like my mother''s back'') uses the incest
-    taboo to repudiate a wife; the Quran voids it: she is not his mother, the words are munkar and false
-    (zūr).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Zihar: a husband declaring his wife ''like my mother''s back'';
     she is not his mother, the saying is false and abhorrent (weight 6.3); List of forbidden close-kin
@@ -111,6 +55,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
+  is false and abhorrent'
+kinds:
+- echo
+- shared
+units:
+- id: hb-lev-18-forbidden-unions
+  title: Forbidden sexual unions; the land vomits out its inhabitants
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Zihar: a husband declaring his wife ''like my mother''s back''; she is not his mother, the saying
+    is false and abhorrent'
+  note: 'The mother as the forbidden woman: ʿerwaṯ ʾimməḵā lōʾ ṯəḡalleh ʾimməḵā hîʾ (your mother, do not
+    uncover her nakedness) vs. alladhīna yuẓāhirūna minkum min nisāʾihim mā hunna ummahātihim in ummahātuhum
+    illā llāʾī waladnahum. The ẓihār formula (''you are to me like my mother''s back'') uses the incest
+    taboo to repudiate a wife; the Quran voids it: she is not his mother, the words are munkar and false
+    (zūr).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 18:7
+      lang: he
+      text: עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 58:2
+      lang: ar
+      text: ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ
+        إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ
+        ٱللَّهَ لَعَفُوٌّ غَفُورٌ
+- kind: shared
+  label: List of forbidden close-kin unions ('uncovering nakedness')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 18:6
+      lang: he
+      text: אִ֥ישׁ אִישׁ֙ אֶל כָּל שְׁאֵ֣ר בְּשָׂר֔וֹ לֹ֥א תִקְרְב֖וּ לְגַלּ֣וֹת עֶרְוָ֑ה אֲנִ֖י יְהוָֽה
+    - ref: Lev 18:7
+      lang: he
+      text: עֶרְוַ֥ת אָבִ֛יךָ וְעֶרְוַ֥ת אִמְּךָ֖ לֹ֣א תְגַלֵּ֑ה אִמְּךָ֣ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
+    - ref: Lev 18:8
+      lang: he
+      text: עֶרְוַ֥ת אֵֽשֶׁת אָבִ֖יךָ לֹ֣א תְגַלֵּ֑ה עֶרְוַ֥ת אָבִ֖יךָ הִֽוא
+    note: Uncovering nakedness formula
+  - tradition: islam
+    passages:
+    - ref: Quran 58:2
+      lang: ar
+      text: ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمْ إِنْ أُمَّهَٰتُهُمْ
+        إِلَّا ٱلَّٰٓـِٔى وَلَدْنَهُمْ وَإِنَّهُمْ لَيَقُولُونَ مُنكَرًا مِّنَ ٱلْقَوْلِ وَزُورًا وَإِنَّ
+        ٱللَّهَ لَعَفُوٌّ غَفُورٌ
+    note: the wife is likened to the mother's 'back' (uncovering nakedness idiom)
 ---
 
 ## Questions

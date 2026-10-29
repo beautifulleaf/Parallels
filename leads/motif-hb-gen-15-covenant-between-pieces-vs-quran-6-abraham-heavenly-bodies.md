@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-15-covenant-between-pieces-vs-quran-6-abraham-heavenly-bodies
 title: The covenant between the pieces ↔ Abraham, Azar and the star, moon and sun
-summary: 'These two units share 3 motifs: god takes the patriarch outside and tells him to count the stars
-  [divergence between the texts], god takes the patriarch outside and tells him to count the stars, patriarch
-  believes god and it is counted to him as righteousness.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,76 +16,9 @@ motifs:
 - count-the-stars-as-divergence
 - count-the-stars
 - faith-reckoned-as-righteousness
-passages:
-- tradition: judaism
-  ref: Gen 15:5
-  note: 'God takes the patriarch outside and tells him to count the stars [divergence between the texts]
-    (God shows Abraham the heavens, for a different purpose. Gen: habbeṭ-nāʾ haš-šāmaymāh û-sfōr hak-kôkhāvîm
-    ... kōh yihyeh zarʿekhā, the stars as a promise of offspring. Q: wa-kadhālika nurī Ibrāhīma malakūta
-    l-samāwāti wa-l-arḍi ... raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīna, a
-    star that sets and so cannot be his Lord.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם
-    תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 6:75
-  note: 'God takes the patriarch outside and tells him to count the stars [divergence between the texts]
-    (God shows Abraham the heavens, for a different purpose. Gen: habbeṭ-nāʾ haš-šāmaymāh û-sfōr hak-kôkhāvîm
-    ... kōh yihyeh zarʿekhā, the stars as a promise of offspring. Q: wa-kadhālika nurī Ibrāhīma malakūta
-    l-samāwāti wa-l-arḍi ... raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīna, a
-    star that sets and so cannot be his Lord.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
-- tradition: islam
-  ref: Quran 6:76
-  note: 'God takes the patriarch outside and tells him to count the stars [divergence between the texts]
-    (God shows Abraham the heavens, for a different purpose. Gen: habbeṭ-nāʾ haš-šāmaymāh û-sfōr hak-kôkhāvîm
-    ... kōh yihyeh zarʿekhā, the stars as a promise of offspring. Q: wa-kadhālika nurī Ibrāhīma malakūta
-    l-samāwāti wa-l-arḍi ... raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīna, a
-    star that sets and so cannot be his Lord.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ لَآ
-    أُحِبُّ ٱلْءَافِلِينَ
-- tradition: judaism
-  ref: Gen 15:5
-  note: God takes the patriarch outside and tells him to count the stars
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם
-    תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 6:75
-  note: God takes the patriarch outside and tells him to count the stars (a vision of the heavens granted
-    to Abraham (Gen 15:5))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
-- tradition: judaism
-  ref: Gen 15:6
-  note: Patriarch believes God and it is counted to him as righteousness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֶאֱמִ֖ן בַּֽיהוָ֑ה וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה
-- tradition: islam
-  ref: Quran 6:82
-  note: 'Patriarch believes God and it is counted to him as righteousness (Gen: wə-heʾĕmin ba-YHWH wa-yyaḥšəvehā
-    llô ṣədāqāh. Q: alladhīna āmanū wa-lam yalbisū īmānahum bi-ẓulmin ulāʾika lahumu l-amnu wa-hum muhtadūna.
-    Abraham''s belief is followed by its reward; Q makes it security (amn) for believers in general.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَٰنَهُم بِظُلْمٍ أُو۟لَٰٓئِكَ لَهُمُ ٱلْأَمْنُ وَهُم
-    مُّهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence, echo. God shows Abraham the heavens, for a different purpose. Gen: habbeṭ-nāʾ haš-šāmaymāh
-    û-sfōr hak-kôkhāvîm ... kōh yihyeh zarʿekhā, the stars as a promise of offspring. Q: wa-kadhālika
-    nurī Ibrāhīma malakūta l-samāwāti wa-l-arḍi ... raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla
-    lā uḥibbu l-āfilīna, a star that sets and so cannot be his Lord. Gen: wə-heʾĕmin ba-YHWH wa-yyaḥšəvehā
-    llô ṣədāqāh. Q: alladhīna āmanū wa-lam yalbisū īmānahum bi-ẓulmin ulāʾika lahumu l-amnu wa-hum muhtadūna.
-    Abraham''s belief is followed by its reward; Q makes it security (amn) for believers in general.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes the patriarch outside and tells him to count the stars
     [divergence between the texts] (weight 6.7); God takes the patriarch outside and tells him to count
@@ -120,6 +51,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God takes the patriarch outside and tells him to count the stars
+kinds:
+- divergence
+- echo
+units:
+- id: hb-gen-15-covenant-between-pieces
+  title: The covenant between the pieces
+  tradition: judaism
+- id: quran-6-abraham-heavenly-bodies
+  title: Abraham, Azar and the star, moon and sun
+  tradition: islam
+matches:
+- kind: divergence
+  label: God takes the patriarch outside and tells him to count the stars
+  note: 'God shows Abraham the heavens, for a different purpose. Gen: habbeṭ-nāʾ haš-šāmaymāh û-sfōr hak-kôkhāvîm
+    ... kōh yihyeh zarʿekhā, the stars as a promise of offspring. Q: wa-kadhālika nurī Ibrāhīma malakūta
+    l-samāwāti wa-l-arḍi ... raʾā kawkaban qāla hādhā rabbī fa-lammā afala qāla lā uḥibbu l-āfilīna, a
+    star that sets and so cannot be his Lord.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 15:5
+      lang: he
+      text: וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים
+        אִם תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:75
+      lang: ar
+      text: وَكَذَٰلِكَ نُرِىٓ إِبْرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلِيَكُونَ مِنَ ٱلْمُوقِنِينَ
+    - ref: Quran 6:76
+      lang: ar
+      text: فَلَمَّا جَنَّ عَلَيْهِ ٱلَّيْلُ رَءَا كَوْكَبًا قَالَ هَٰذَا رَبِّى فَلَمَّآ أَفَلَ قَالَ
+        لَآ أُحِبُّ ٱلْءَافِلِينَ
+- kind: echo
+  label: Patriarch believes God and it is counted to him as righteousness
+  note: 'Gen: wə-heʾĕmin ba-YHWH wa-yyaḥšəvehā llô ṣədāqāh. Q: alladhīna āmanū wa-lam yalbisū īmānahum
+    bi-ẓulmin ulāʾika lahumu l-amnu wa-hum muhtadūna. Abraham''s belief is followed by its reward; Q makes
+    it security (amn) for believers in general.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 15:6
+      lang: he
+      text: וְהֶאֱמִ֖ן בַּֽיהוָ֑ה וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:82
+      lang: ar
+      text: ٱلَّذِينَ ءَامَنُوا۟ وَلَمْ يَلْبِسُوٓا۟ إِيمَٰنَهُم بِظُلْمٍ أُو۟لَٰٓئِكَ لَهُمُ ٱلْأَمْنُ
+        وَهُم مُّهْتَدُونَ
 ---
 
 ## Questions

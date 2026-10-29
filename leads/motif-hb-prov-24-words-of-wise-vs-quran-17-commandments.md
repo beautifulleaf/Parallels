@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-24-words-of-wise-vs-quran-17-commandments
 title: End of the Words of the Wise (Amenemope parallel section) ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 1 motifs: do not pursue what you have no knowledge of; hearing, sight
-  and heart will be questioned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - do-not-follow-what-you-do-not-know
-passages:
-- tradition: judaism
-  ref: Prov 24:12
-  note: 'Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned (kî-tōʾmar
-    hēn lōʾ-yādaʿnû zeh hălōʾ-tōkēn libbôt hûʾ-yābîn ... wəhēšîb ləʾādām kəpāʿŏlô; rabbukum aʿlamu bi-mā
-    fī nufūsikum ... inna s-samʿa wa-l-baṣara wa-l-fuʾāda kullu ulāʾika kāna ʿanhu masʾūlā: a claim of
-    ignorance does not help, since God weighs the heart and holds each faculty to account.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תֹאמַ֗ר הֵן֮ לֹא יָדַ֪עְנ֫וּ זֶ֥ה הֲֽלֹא תֹ֘כֵ֤ן לִבּ֨וֹת הֽוּא יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ
-    ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפָעֳלֽוֹ
-- tradition: islam
-  ref: Quran 17:36
-  note: Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned (hearing,
-    sight and heart will be questioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَٰٓئِكَ
-    كَانَ عَنْهُ مَسْـُٔولًا
-- tradition: islam
-  ref: Quran 17:25
-  note: Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned (hearing,
-    sight and heart will be questioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَّبُّكُمْ أَعْلَمُ بِمَا فِى نُفُوسِكُمْ إِن تَكُونُوا۟ صَٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْأَوَّٰبِينَ
-    غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. kî-tōʾmar hēn lōʾ-yādaʿnû zeh hălōʾ-tōkēn libbôt hûʾ-yābîn ... wəhēšîb ləʾādām kəpāʿŏlô; rabbukum
-    aʿlamu bi-mā fī nufūsikum ... inna s-samʿa wa-l-baṣara wa-l-fuʾāda kullu ulāʾika kāna ʿanhu masʾūlā:
-    a claim of ignorance does not help, since God weighs the heart and holds each faculty to account.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not pursue what you have no knowledge of; hearing, sight and
     heart will be questioned (weight 6.7). Pair score 6.7.'
@@ -81,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned
+kinds:
+- echo
+units:
+- id: hb-prov-24-words-of-wise
+  title: End of the Words of the Wise (Amenemope parallel section)
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not pursue what you have no knowledge of; hearing, sight and heart will be questioned
+  note: 'kî-tōʾmar hēn lōʾ-yādaʿnû zeh hălōʾ-tōkēn libbôt hûʾ-yābîn ... wəhēšîb ləʾādām kəpāʿŏlô; rabbukum
+    aʿlamu bi-mā fī nufūsikum ... inna s-samʿa wa-l-baṣara wa-l-fuʾāda kullu ulāʾika kāna ʿanhu masʾūlā:
+    a claim of ignorance does not help, since God weighs the heart and holds each faculty to account.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 24:12
+      lang: he
+      text: כִּֽי תֹאמַ֗ר הֵן֮ לֹא יָדַ֪עְנ֫וּ זֶ֥ה הֲֽלֹא תֹ֘כֵ֤ן לִבּ֨וֹת הֽוּא יָבִ֗ין וְנֹצֵ֣ר נַ֭פְשְׁךָ
+        ה֣וּא יֵדָ֑ע וְהֵשִׁ֖יב לְאָדָ֣ם כְּפָעֳלֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:25
+      lang: ar
+      text: رَّبُّكُمْ أَعْلَمُ بِمَا فِى نُفُوسِكُمْ إِن تَكُونُوا۟ صَٰلِحِينَ فَإِنَّهُۥ كَانَ لِلْأَوَّٰبِينَ
+        غَفُورًا
+    - ref: Quran 17:36
+      lang: ar
+      text: وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ إِنَّ ٱلسَّمْعَ وَٱلْبَصَرَ وَٱلْفُؤَادَ كُلُّ أُو۟لَٰٓئِكَ
+        كَانَ عَنْهُ مَسْـُٔولًا
 ---
 
 ## Questions

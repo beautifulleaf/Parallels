@@ -2,8 +2,7 @@
 id: motif-hb-num-16-korah-vs-quran-53-najm-vision-and-lote-tree
 title: 'Korah, Dathan and Abiram rebel; the earth swallows them ↔ Al-Najm: the star that sets, the mighty
   one on the horizon two bow-lengths away, and the Lote-Tree of the Boundary'
-summary: 'These two units share 1 motifs: your companion has not erred; he does not speak from desire;
-  it is only revelation revealed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-speaks-not-from-desire
-passages:
-- tradition: judaism
-  ref: Num 16:28
-  note: 'Your companion has not erred; he does not speak from desire; it is only revelation revealed (The
-    prophet''s words are not his own: bə-zōʾṯ tēḏəʿûn kî YHWH šəlāḥanî laʿăśôṯ ʾēṯ kol ham-maʿăśîm hāʾēlleh
-    kî lōʾ mil-libbî vs. mā ḍalla ṣāḥibukum wa-mā ghawā wa-mā yanṭiqu ʿani l-hawā in huwa illā waḥyun
-    yūḥā. Moses'' ''not from my heart'' (lōʾ mil-libbî) ~ ''not from desire'' (ʿani l-hawā); Moses then
-    calls for a sign (the earth swallowing Korah), the Quran for trust in the vision.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֮ מֹשֶׁה֒ בְּזֹאת֙ תֵּֽדְע֔וּן כִּֽי יְהוָ֣ה שְׁלָחַ֔נִי לַעֲשׂ֕וֹת אֵ֥ת כָּל הַֽמַּעֲשִׂ֖ים
-    הָאֵ֑לֶּה כִּי לֹ֖א מִלִּבִּֽי
-- tradition: islam
-  ref: Quran 53:2
-  note: Your companion has not erred; he does not speak from desire; it is only revelation revealed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ
-- tradition: islam
-  ref: Quran 53:3
-  note: Your companion has not erred; he does not speak from desire; it is only revelation revealed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The prophet''s words are not his own: bə-zōʾṯ tēḏəʿûn kî YHWH šəlāḥanî laʿăśôṯ ʾēṯ kol ham-maʿăśîm
-    hāʾēlleh kî lōʾ mil-libbî vs. mā ḍalla ṣāḥibukum wa-mā ghawā wa-mā yanṭiqu ʿani l-hawā in huwa illā
-    waḥyun yūḥā. Moses'' ''not from my heart'' (lōʾ mil-libbî) ~ ''not from desire'' (ʿani l-hawā); Moses
-    then calls for a sign (the earth swallowing Korah), the Quran for trust in the vision.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your companion has not erred; he does not speak from desire; it
     is only revelation revealed (weight 6.7). Pair score 6.7.'
@@ -81,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your companion has not erred; he does not speak from desire; it is only revelation revealed
+kinds:
+- parallel
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Your companion has not erred; he does not speak from desire; it is only revelation revealed
+  note: 'The prophet''s words are not his own: bə-zōʾṯ tēḏəʿûn kî YHWH šəlāḥanî laʿăśôṯ ʾēṯ kol ham-maʿăśîm
+    hāʾēlleh kî lōʾ mil-libbî vs. mā ḍalla ṣāḥibukum wa-mā ghawā wa-mā yanṭiqu ʿani l-hawā in huwa illā
+    waḥyun yūḥā. Moses'' ''not from my heart'' (lōʾ mil-libbî) ~ ''not from desire'' (ʿani l-hawā); Moses
+    then calls for a sign (the earth swallowing Korah), the Quran for trust in the vision.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:28
+      lang: he
+      text: וַיֹּאמֶר֮ מֹשֶׁה֒ בְּזֹאת֙ תֵּֽדְע֔וּן כִּֽי יְהוָ֣ה שְׁלָחַ֔נִי לַעֲשׂ֕וֹת אֵ֥ת כָּל הַֽמַּעֲשִׂ֖ים
+        הָאֵ֑לֶּה כִּי לֹ֖א מִלִּבִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 53:2
+      lang: ar
+      text: مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ
+    - ref: Quran 53:3
+      lang: ar
+      text: وَمَا يَنطِقُ عَنِ ٱلْهَوَىٰٓ
+    - ref: Quran 53:4
+      lang: ar
+      text: إِنْ هُوَ إِلَّا وَحْىٌ يُوحَىٰ
 ---
 
 ## Questions

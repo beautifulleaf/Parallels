@@ -2,8 +2,7 @@
 id: motif-hb-ps-119-alef-he-vs-quran-39-sincere-servant
 title: Psalm 119, stanzas alef to he ↔ The first of those who submit; canopies of fire; chambers above
   chambers
-summary: 'These two units share 1 motifs: god expands a person''s breast (sharh al-sadr) to islam so he
-  is upon a light from his lord.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - heart-opened-to-islam
-passages:
-- tradition: judaism
-  ref: Ps 119:32
-  note: 'God expands a person''s breast (sharh al-sadr) to Islam so he is upon a light from his Lord (dereḵ-miṣwōteyḵā
-    ʾārûṣ kî ṯarḥîḇ libbî vs. a-fa-man sharaḥa llāhu ṣadrahu li-l-islāmi fa-huwa ʿalā nūrin min rabbih:
-    God enlarges the heart or chest (hirḥîḇ lēḇ / sharaḥa ṣadr) for his way, set against the hardened
-    heart (al-qāsiyati qulūbuhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דֶּֽרֶךְ מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי
-- tradition: islam
-  ref: Quran 39:22
-  note: God expands a person's breast (sharh al-sadr) to Islam so he is upon a light from his Lord
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ فَوَيْلٌ لِّلْقَٰسِيَةِ
-    قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. dereḵ-miṣwōteyḵā ʾārûṣ kî ṯarḥîḇ libbî vs. a-fa-man sharaḥa llāhu ṣadrahu li-l-islāmi fa-huwa
-    ʿalā nūrin min rabbih: God enlarges the heart or chest (hirḥîḇ lēḇ / sharaḥa ṣadr) for his way, set
-    against the hardened heart (al-qāsiyati qulūbuhum).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expands a person''s breast (sharh al-sadr) to Islam so he is
     upon a light from his Lord (weight 6.7). Pair score 6.7.'
@@ -69,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God expands a person's breast (sharh al-sadr) to Islam so he is upon a light from his Lord
+kinds:
+- parallel
+units:
+- id: hb-ps-119-alef-he
+  title: Psalm 119, stanzas alef to he
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: parallel
+  label: God expands a person's breast (sharh al-sadr) to Islam so he is upon a light from his Lord
+  note: 'dereḵ-miṣwōteyḵā ʾārûṣ kî ṯarḥîḇ libbî vs. a-fa-man sharaḥa llāhu ṣadrahu li-l-islāmi fa-huwa
+    ʿalā nūrin min rabbih: God enlarges the heart or chest (hirḥîḇ lēḇ / sharaḥa ṣadr) for his way, set
+    against the hardened heart (al-qāsiyati qulūbuhum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:32
+      lang: he
+      text: דֶּֽרֶךְ מִצְוֺתֶ֥יךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 39:22
+      lang: ar
+      text: أَفَمَن شَرَحَ ٱللَّهُ صَدْرَهُۥ لِلْإِسْلَٰمِ فَهُوَ عَلَىٰ نُورٍ مِّن رَّبِّهِۦ فَوَيْلٌ
+        لِّلْقَٰسِيَةِ قُلُوبُهُم مِّن ذِكْرِ ٱللَّهِ أُو۟لَٰٓئِكَ فِى ضَلَٰلٍ مُّبِينٍ
 ---
 
 ## Questions

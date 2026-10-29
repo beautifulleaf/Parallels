@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-9-jehu-anointed-vs-quran-7-names-and-hour
 title: Jehu anointed king ↔ Made for hell, the beautiful names, the unknown Hour
-summary: 'These two units share 1 motifs: the charge that a prophet is mad.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - charge-that-prophet-is-mad
-passages:
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: 'The charge that a prophet is mad (Bystanders take the messenger for a madman: maddûaʿ bāʾ-hamᵉšuggāʿ
-    hazzeh ʾēlêkā vs mā bi-ṣāḥibihim min jinnatin. Both stress that the people know the man (ʾattem yᵉdaʿtem
-    ʾet-hāʾîš; ṣāḥibihim, ''your companion'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 7:184
-  note: 'The charge that a prophet is mad (Bystanders take the messenger for a madman: maddûaʿ bāʾ-hamᵉšuggāʿ
-    hazzeh ʾēlêkā vs mā bi-ṣāḥibihim min jinnatin. Both stress that the people know the man (ʾattem yᵉdaʿtem
-    ʾet-hāʾîš; ṣāḥibihim, ''your companion'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Bystanders take the messenger for a madman: maddûaʿ bāʾ-hamᵉšuggāʿ hazzeh ʾēlêkā vs mā bi-ṣāḥibihim
-    min jinnatin. Both stress that the people know the man (ʾattem yᵉdaʿtem ʾet-hāʾîš; ṣāḥibihim, ''your
-    companion'').'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The charge that a prophet is mad (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -64,6 +44,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The charge that a prophet is mad
+kinds:
+- echo
+units:
+- id: hb-2kgs-9-jehu-anointed
+  title: Jehu anointed king
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: echo
+  label: The charge that a prophet is mad
+  note: 'Bystanders take the messenger for a madman: maddûaʿ bāʾ-hamᵉšuggāʿ hazzeh ʾēlêkā vs mā bi-ṣāḥibihim
+    min jinnatin. Both stress that the people know the man (ʾattem yᵉdaʿtem ʾet-hāʾîš; ṣāḥibihim, ''your
+    companion'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:184
+      lang: ar
+      text: أَوَلَمْ يَتَفَكَّرُوا۟ مَا بِصَاحِبِهِم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ مُّبِينٌ
 ---
 
 ## Questions

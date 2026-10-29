@@ -2,8 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-40-believer-of-pharaohs-family
 title: First audience with Pharaoh; bricks without straw ↔ Moses, Pharaoh, Haman and the believer of Pharaoh's
   family
-summary: 'These two units share 1 motifs: pharaoh: ''i show you only what i see, and guide you only to
-  the right path''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - pharaoh-i-show-you-only-what-i-see
-passages:
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'Pharaoh: ''I show you only what I see, and guide you only to the right path'' (mî YHWH ʾăšer
-    ʾešmaʿ bə-qōlô ... lōʾ yāḏaʿtî ʾeṯ-YHWH vs. mā urīkum illā mā arā ... fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī
-    la-aẓunnuhu kādhibā: Pharaoh rejects Moses'' God as unknown to him or a lie.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 40:29
-  note: 'Pharaoh: ''I show you only what I see, and guide you only to the right path'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ
-    إِن جَآءَنَا قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ
-    ٱلرَّشَادِ
-- tradition: islam
-  ref: Quran 40:37
-  note: 'Pharaoh: ''I show you only what I see, and guide you only to the right path'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ
-    زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yāḏaʿtî ʾeṯ-YHWH vs. mā urīkum illā mā arā ... fa-aṭṭaliʿa
-    ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhibā: Pharaoh rejects Moses'' God as unknown to him or a lie.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh: ''I show you only what I see, and guide you only to the
     right path'' (weight 6.7). Pair score 6.7.'
@@ -81,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Pharaoh: ''I show you only what I see, and guide you only to the right path'''
+kinds:
+- echo
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Pharaoh: ''I show you only what I see, and guide you only to the right path'''
+  note: 'mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yāḏaʿtî ʾeṯ-YHWH vs. mā urīkum illā mā arā ... fa-aṭṭaliʿa
+    ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhibā: Pharaoh rejects Moses'' God as unknown to him or a lie.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 40:29
+      lang: ar
+      text: يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ
+        ٱللَّهِ إِن جَآءَنَا قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا
+        سَبِيلَ ٱلرَّشَادِ
+    - ref: Quran 40:37
+      lang: ar
+      text: أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا
+        وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ
+        إِلَّا فِى تَبَابٍ
 ---
 
 ## Questions

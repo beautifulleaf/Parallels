@@ -2,8 +2,7 @@
 id: motif-hb-1chr-23-levite-census-and-duties-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Solomon made king; Levites counted, divided and assigned duties ↔ Nearer than the jugular vein;
   the two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: levites stand every morning and evening to thank and praise
-  yhwh.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - daily-morning-evening-praise
-passages:
-- tradition: judaism
-  ref: 1Chr 23:30
-  note: Levites stand every morning and evening to thank and praise YHWH
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
-- tradition: islam
-  ref: Quran 50:39
-  note: Levites stand every morning and evening to thank and praise YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ
-- tradition: islam
-  ref: Quran 50:40
-  note: Levites stand every morning and evening to thank and praise YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Praise at fixed times morning and evening: wə-laʿămōḏ bab-bōqer bab-bōqer ləhôḏôṯ û-ləhallēl
-    la-YHWH wə-ḵēn lā-ʿāreḇ vs. wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb wa-mina
-    l-layli fa-sabbiḥhu. A Levitical duty becomes the Prophet''s own praise, tied to sunrise and sunset.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Levites stand every morning and evening to thank and praise YHWH
     (weight 6.3). Pair score 6.3.'
@@ -77,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Levites stand every morning and evening to thank and praise YHWH
+kinds:
+- parallel
+units:
+- id: hb-1chr-23-levite-census-and-duties
+  title: Solomon made king; Levites counted, divided and assigned duties
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: parallel
+  label: Levites stand every morning and evening to thank and praise YHWH
+  note: 'Praise at fixed times morning and evening: wə-laʿămōḏ bab-bōqer bab-bōqer ləhôḏôṯ û-ləhallēl
+    la-YHWH wə-ḵēn lā-ʿāreḇ vs. wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb wa-mina
+    l-layli fa-sabbiḥhu. A Levitical duty becomes the Prophet''s own praise, tied to sunrise and sunset.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 23:30
+      lang: he
+      text: וְלַעֲמֹד֙ בַּבֹּ֣קֶר בַּבֹּ֔קֶר לְהֹד֥וֹת וּלְהַלֵּ֖ל לַיהוָ֑ה וְכֵ֖ן לָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 50:39
+      lang: ar
+      text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ
+        ٱلْغُرُوبِ
+    - ref: Quran 50:40
+      lang: ar
+      text: وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ
 ---
 
 ## Questions

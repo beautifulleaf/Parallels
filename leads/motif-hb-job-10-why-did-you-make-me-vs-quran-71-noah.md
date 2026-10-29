@@ -1,9 +1,7 @@
 ---
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-71-noah
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Noah's preaching, the five idols and the flood
-summary: 'These two units share 3 motifs: human created in stages: a drop of sperm (nutfa), a clinging
-  clot (''alaq/''alaqa), then shaped and proportioned, human comes from dust and returns to dust, first
-  human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,71 +16,9 @@ motifs:
 - embryo-stages-drop-clot-form
 - dust-to-dust
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:8
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum
-    mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr
-    û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah
-    into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
-- tradition: judaism
-  ref: Job 10:9
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum
-    mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr
-    û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah
-    into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 71:14
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (khalaqakum atwaran, ''created you in stages'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَدْ خَلَقَكُمْ أَطْوَارًا
-- tradition: islam
-  ref: Quran 71:17
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (khalaqakum atwaran, ''created you in stages'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا
-- tradition: judaism
-  ref: Job 10:9
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 71:18
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 71:17
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum
-    mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr
-    û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah
-    into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human created in stages: a drop of sperm (nutfa), a clinging clot
     (''alaq/''alaqa), then shaped and proportioned (weight 5.4); Human comes from dust and returns to
@@ -120,6 +56,76 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
+  and proportioned'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
+    and proportioned'
+  note: 'Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum mina
+    l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr û-vāśār
+    talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah into
+    an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:8
+      lang: he
+      text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 71:14
+      lang: ar
+      text: وَقَدْ خَلَقَكُمْ أَطْوَارًا
+    - ref: Quran 71:17
+      lang: ar
+      text: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا
+    - ref: Quran 71:18
+      lang: ar
+      text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+- kind: shared
+  label: Human comes from dust and returns to dust
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 71:18
+      lang: ar
+      text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    note: '''like clay you made me'''
+  - tradition: islam
+    passages:
+    - ref: Quran 71:17
+      lang: ar
+      text: وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا
 ---
 
 ## Questions

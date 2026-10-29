@@ -2,8 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-22-destroyed-towns-satanic-insinuation
 title: The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ Rejected prophets,
   ruined towns, the thousand-year day and Satan's insertion
-summary: 'These two units share 2 motifs: yhwh will be king over all the earth; in that day yhwh will
-  be one and his name one, the day of yhwh: a coming day of divine judgment, terror and darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 motifs:
 - yhwh-one-and-name-one
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Zech 14:9
-  note: YHWH will be king over all the earth; in that day YHWH will be one and his name one
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 22:56
-  note: 'YHWH will be king over all the earth; in that day YHWH will be one and his name one (al-mulku
-    yawmaʾidhin lillāhi yaḥkumu baynahum ~ wə-hāyâ YHWH lə-melekh ʿal kol hā-ʾāreṣ ba-yyôm ha-hûʾ: on
-    ''that day'' (yawmaʾidhin / ba-yyôm ha-hûʾ) kingship (mulk / melekh) belongs to God alone.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْمُلْكُ يَوْمَئِذٍ لِّلَّهِ يَحْكُمُ بَيْنَهُمْ فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ
-    فِى جَنَّٰتِ ٱلنَّعِيمِ
-- tradition: judaism
-  ref: Zech 14:1
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֥ה יֽוֹם בָּ֖א לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ
-- tradition: islam
-  ref: Quran 22:55
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''the punishment of a
-    barren day (yawm ʿaqīm)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً
-    أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. al-mulku yawmaʾidhin lillāhi yaḥkumu baynahum ~ wə-hāyâ YHWH lə-melekh ʿal kol hā-ʾāreṣ ba-yyôm
-    ha-hûʾ: on ''that day'' (yawmaʾidhin / ba-yyôm ha-hûʾ) kingship (mulk / melekh) belongs to God alone.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH will be king over all the earth; in that day YHWH will be one
     and his name one (weight 6.7); The Day of YHWH: a coming day of divine judgment, terror and darkness
@@ -89,6 +56,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: YHWH will be king over all the earth; in that day YHWH will be one and his name one
+kinds:
+- echo
+- shared
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: echo
+  label: YHWH will be king over all the earth; in that day YHWH will be one and his name one
+  note: 'al-mulku yawmaʾidhin lillāhi yaḥkumu baynahum ~ wə-hāyâ YHWH lə-melekh ʿal kol hā-ʾāreṣ ba-yyôm
+    ha-hûʾ: on ''that day'' (yawmaʾidhin / ba-yyôm ha-hûʾ) kingship (mulk / melekh) belongs to God alone.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:9
+      lang: he
+      text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
+        אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 22:56
+      lang: ar
+      text: ٱلْمُلْكُ يَوْمَئِذٍ لِّلَّهِ يَحْكُمُ بَيْنَهُمْ فَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ
+        فِى جَنَّٰتِ ٱلنَّعِيمِ
+- kind: shared
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:1
+      lang: he
+      text: הִנֵּ֥ה יֽוֹם בָּ֖א לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:55
+      lang: ar
+      text: وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً
+        أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ
+    note: '''the punishment of a barren day (yawm ʿaqīm)'''
 ---
 
 ## Questions

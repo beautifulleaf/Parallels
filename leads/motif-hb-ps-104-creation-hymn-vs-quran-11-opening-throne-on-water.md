@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-11-opening-throne-on-water
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The Book made firm, the Throne
   on the water, the challenge of ten surahs
-summary: 'These two units share 2 motifs: god lays the beams of his upper chambers on the (heavenly) waters
-  and waters the mountains from them, all creatures look to god to give their food in due season; he opens
-  his hand and they are satisfied.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,57 +16,9 @@ layers:
 motifs:
 - upper-chambers-on-waters
 - all-creatures-wait-for-food
-passages:
-- tradition: judaism
-  ref: Ps 104:3
-  note: God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from
-    them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:13
-  note: God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from
-    them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 11:7
-  note: 'God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from
-    them (God''s dwelling built on the waters: hamᵉqāreh bammayim ʿăliyyôtāyw vs kāna ʿarshuhu ʿalā l-māʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Ps 104:27-28
-  note: All creatures look to God to give their food in due season; he opens his hand and they are satisfied
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (104:27) כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ (104:28) תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן
-    תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב
-- tradition: judaism
-  ref: Ps 104:27
-  note: All creatures look to God to give their food in due season; he opens his hand and they are satisfied
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ
-- tradition: islam
-  ref: Quran 11:6
-  note: 'All creatures look to God to give their food in due season; he opens his hand and they are satisfied
-    (Every creature''s food comes from God: wa-mā min dābbatin fī l-arḍi illā ʿalā llāhi rizquhā vs kullām
-    ʾēlêkā yᵉśabbērûn lātēt ʾoklām bᵉʿittô.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا وَمُسْتَوْدَعَهَا
-    كُلٌّ فِى كِتَٰبٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo, parallel. God''s dwelling built on the waters: hamᵉqāreh bammayim ʿăliyyôtāyw vs kāna ʿarshuhu
-    ʿalā l-māʾ. Every creature''s food comes from God: wa-mā min dābbatin fī l-arḍi illā ʿalā llāhi rizquhā
-    vs kullām ʾēlêkā yᵉśabbērûn lātēt ʾoklām bᵉʿittô.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God lays the beams of his upper chambers on the (heavenly) waters
     and waters the mountains from them (weight 6.7); All creatures look to God to give their food in due
@@ -106,6 +56,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All creatures look to God to give their food in due season; he opens his hand and they are satisfied
+kinds:
+- parallel
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: parallel
+  label: All creatures look to God to give their food in due season; he opens his hand and they are satisfied
+  note: 'Every creature''s food comes from God: wa-mā min dābbatin fī l-arḍi illā ʿalā llāhi rizquhā vs
+    kullām ʾēlêkā yᵉśabbērûn lātēt ʾoklām bᵉʿittô.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:27
+      lang: he
+      text: כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:6
+      lang: ar
+      text: وَمَا مِن دَآبَّةٍ فِى ٱلْأَرْضِ إِلَّا عَلَى ٱللَّهِ رِزْقُهَا وَيَعْلَمُ مُسْتَقَرَّهَا
+        وَمُسْتَوْدَعَهَا كُلٌّ فِى كِتَٰبٍ مُّبِينٍ
+- kind: echo
+  label: God lays the beams of his upper chambers on the (heavenly) waters and waters the mountains from
+    them
+  note: 'God''s dwelling built on the waters: hamᵉqāreh bammayim ʿăliyyôtāyw vs kāna ʿarshuhu ʿalā l-māʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:7
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى
+        ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ
+        بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
 ---
 
 ## Questions

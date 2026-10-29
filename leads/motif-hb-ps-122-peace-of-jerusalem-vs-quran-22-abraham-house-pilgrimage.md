@@ -2,8 +2,7 @@
 id: motif-hb-ps-122-peace-of-jerusalem-vs-quran-22-abraham-house-pilgrimage
 title: Psalm 122, pilgrim's song, pray for the peace of Jerusalem ↔ Abraham, the Ancient House and the
   rites of pilgrimage and sacrifice
-summary: 'These two units share 2 motifs: pilgrim rejoices: ''let us go to the house of yhwh''; feet stand
-  within jerusalem''s gates, three annual pilgrimage festivals when every male appears before god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,68 +15,9 @@ layers:
 motifs:
 - pilgrim-joy-at-house-of-yhwh
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Ps 122:1-2
-  note: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (122:1) שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד שָׂ֭מַחְתִּי בְּאֹמְרִ֣ים לִ֑י בֵּ֖ית יְהוָ֣ה נֵלֵֽךְ (122:2)
-    עֹ֭מְדוֹת הָי֣וּ רַגְלֵ֑ינוּ בִּ֝שְׁעָרַ֗יִךְ יְרוּשָׁלִָֽם
-- tradition: judaism
-  ref: Ps 122:4
-  note: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 22:26
-  note: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates (yaʾtūka
-    rijālan ... min kulli fajjin ʿamīqin ~ bêt YHWH nēlēk ʿōmədôt hāyû raglênû ... šeš-šām ʿālû šəvāṭîm:
-    pilgrims come on foot (rijālan / raglênû) to the house (al-bayt / bêt YHWH) from afar, the tribes
-    or every ravine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ
-    لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: islam
-  ref: Quran 22:27
-  note: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates (yaʾtūka
-    rijālan ... min kulli fajjin ʿamīqin ~ bêt YHWH nēlēk ʿōmədôt hāyû raglênû ... šeš-šām ʿālû šəvāṭîm:
-    pilgrims come on foot (rijālan / raglênû) to the house (al-bayt / bêt YHWH) from afar, the tribes
-    or every ravine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: judaism
-  ref: Ps 122:4
-  note: Three annual pilgrimage festivals when every male appears before God (Tribes go up 'as a testimony
-    for Israel')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 22:27
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yaʾtūka rijālan ... min kulli fajjin ʿamīqin ~ bêt YHWH nēlēk ʿōmədôt hāyû raglênû ... šeš-šām
-    ʿālû šəvāṭîm: pilgrims come on foot (rijālan / raglênû) to the house (al-bayt / bêt YHWH) from afar,
-    the tribes or every ravine.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand
     within Jerusalem''s gates (weight 6.3); Three annual pilgrimage festivals when every male appears
@@ -111,6 +51,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates'
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-122-peace-of-jerusalem
+  title: Psalm 122, pilgrim's song, pray for the peace of Jerusalem
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Pilgrim rejoices: ''Let us go to the house of YHWH''; feet stand within Jerusalem''s gates'
+  note: 'yaʾtūka rijālan ... min kulli fajjin ʿamīqin ~ bêt YHWH nēlēk ʿōmədôt hāyû raglênû ... šeš-šām
+    ʿālû šəvāṭîm: pilgrims come on foot (rijālan / raglênû) to the house (al-bayt / bêt YHWH) from afar,
+    the tribes or every ravine.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 122:1
+      lang: he
+      text: שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד שָׂ֭מַחְתִּי בְּאֹמְרִ֣ים לִ֑י בֵּ֖ית יְהוָ֣ה נֵלֵֽךְ
+    - ref: Ps 122:2
+      lang: he
+      text: עֹ֭מְדוֹת הָי֣וּ רַגְלֵ֑ינוּ בִּ֝שְׁעָרַ֗יִךְ יְרוּשָׁלִָֽם
+    - ref: Ps 122:4
+      lang: he
+      text: שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:26
+      lang: ar
+      text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ
+        بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 122:4
+      lang: he
+      text: שֶׁשָּׁ֨ם עָל֪וּ שְׁבָטִ֡ים שִׁבְטֵי יָ֭הּ עֵד֣וּת לְיִשְׂרָאֵ֑ל לְ֝הֹד֗וֹת לְשֵׁ֣ם יְהוָֽה
+    note: Tribes go up 'as a testimony for Israel'
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+    note: pilgrimage on 'appointed days' (ayyām maʿlūmāt)
 ---
 
 ## Questions

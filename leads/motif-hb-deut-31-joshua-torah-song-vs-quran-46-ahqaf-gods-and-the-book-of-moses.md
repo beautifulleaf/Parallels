@@ -2,8 +2,7 @@
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-46-ahqaf-gods-and-the-book-of-moses
 title: 'Joshua commissioned; Torah written and deposited; the Song commanded ↔ Ha-Mim: the idols created
   nothing; a witness from Israel; the Book of Moses'
-summary: 'These two units share 1 motifs: what moses'' written book is for: witness against the people,
-  or guide and mercy [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - function-of-moses-written-book-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 31:9
-  note: 'What Moses'' written book is for: witness against the people, or guide and mercy [divergence
-    between the texts] (The function of Moses'' written book. Deuteronomy: wa-yiḵtōḇ mōšeh ʾeṯ hat-tôrâ
-    haz-zōʾṯ ... wə-śamtem ʾōṯô miṣṣaḏ ʾărôn bərîṯ YHWH wə-hāyâ šām bəḵā lə-ʿēḏ (deposited by the ark
-    as a witness against Israel). Quran: wa-min qablihi kitābu mūsā imāman wa-raḥmatan, wa-hādhā kitābun
-    muṣaddiqun (a guide and a mercy, confirmed by an Arabic book). A witness against becomes a guide,
-    and the book''s sequel is the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י הַנֹּ֣שְׂאִ֔ים
-    אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Deut 31:26
-  note: 'What Moses'' written book is for: witness against the people, or guide and mercy [divergence
-    between the texts] (The function of Moses'' written book. Deuteronomy: wa-yiḵtōḇ mōšeh ʾeṯ hat-tôrâ
-    haz-zōʾṯ ... wə-śamtem ʾōṯô miṣṣaḏ ʾărôn bərîṯ YHWH wə-hāyâ šām bəḵā lə-ʿēḏ (deposited by the ark
-    as a witness against Israel). Quran: wa-min qablihi kitābu mūsā imāman wa-raḥmatan, wa-hādhā kitābun
-    muṣaddiqun (a guide and a mercy, confirmed by an Arabic book). A witness against becomes a guide,
-    and the book''s sequel is the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית יְהוָ֖ה אֱלֹהֵיכֶ֑ם
-    וְהָֽיָה שָׁ֥ם בְּךָ֖ לְעֵֽד
-- tradition: islam
-  ref: Quran 46:12
-  note: 'What Moses'' written book is for: witness against the people, or guide and mercy [divergence
-    between the texts] (The function of Moses'' written book. Deuteronomy: wa-yiḵtōḇ mōšeh ʾeṯ hat-tôrâ
-    haz-zōʾṯ ... wə-śamtem ʾōṯô miṣṣaḏ ʾărôn bərîṯ YHWH wə-hāyâ šām bəḵā lə-ʿēḏ (deposited by the ark
-    as a witness against Israel). Quran: wa-min qablihi kitābu mūsā imāman wa-raḥmatan, wa-hādhā kitābun
-    muṣaddiqun (a guide and a mercy, confirmed by an Arabic book). A witness against becomes a guide,
-    and the book''s sequel is the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً وَهَٰذَا كِتَٰبٌ مُّصَدِّقٌ لِّسَانًا عَرَبِيًّا
-    لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The function of Moses'' written book. Deuteronomy: wa-yiḵtōḇ mōšeh ʾeṯ hat-tôrâ haz-zōʾṯ
-    ... wə-śamtem ʾōṯô miṣṣaḏ ʾărôn bərîṯ YHWH wə-hāyâ šām bəḵā lə-ʿēḏ (deposited by the ark as a witness
-    against Israel). Quran: wa-min qablihi kitābu mūsā imāman wa-raḥmatan, wa-hādhā kitābun muṣaddiqun
-    (a guide and a mercy, confirmed by an Arabic book). A witness against becomes a guide, and the book''s
-    sequel is the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Moses'' written book is for: witness against the people, or
     guide and mercy [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -94,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What Moses'' written book is for: witness against the people, or guide and mercy'
+kinds:
+- divergence
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-46-ahqaf-gods-and-the-book-of-moses
+  title: 'Ha-Mim: the idols created nothing; a witness from Israel; the Book of Moses'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'What Moses'' written book is for: witness against the people, or guide and mercy'
+  note: 'The function of Moses'' written book. Deuteronomy: wa-yiḵtōḇ mōšeh ʾeṯ hat-tôrâ haz-zōʾṯ ...
+    wə-śamtem ʾōṯô miṣṣaḏ ʾărôn bərîṯ YHWH wə-hāyâ šām bəḵā lə-ʿēḏ (deposited by the ark as a witness
+    against Israel). Quran: wa-min qablihi kitābu mūsā imāman wa-raḥmatan, wa-hādhā kitābun muṣaddiqun
+    (a guide and a mercy, confirmed by an Arabic book). A witness against becomes a guide, and the book''s
+    sequel is the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:9
+      lang: he
+      text: וַיִּכְתֹּ֣ב מֹשֶׁה֮ אֶת הַתּוֹרָ֣ה הַזֹּאת֒ וַֽיִּתְּנָ֗הּ אֶל הַכֹּהֲנִים֙ בְּנֵ֣י לֵוִ֔י
+        הַנֹּ֣שְׂאִ֔ים אֶת אֲר֖וֹן בְּרִ֣ית יְהוָ֑ה וְאֶל כָּל זִקְנֵ֖י יִשְׂרָאֵֽל
+    - ref: Deut 31:26
+      lang: he
+      text: לָקֹ֗חַ אֵ֣ת סֵ֤פֶר הַתּוֹרָה֙ הַזֶּ֔ה וְשַׂמְתֶּ֣ם אֹת֔וֹ מִצַּ֛ד אֲר֥וֹן בְּרִית יְהוָ֖ה
+        אֱלֹהֵיכֶ֑ם וְהָֽיָה שָׁ֥ם בְּךָ֖ לְעֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 46:12
+      lang: ar
+      text: وَمِن قَبْلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامًا وَرَحْمَةً وَهَٰذَا كِتَٰبٌ مُّصَدِّقٌ لِّسَانًا
+        عَرَبِيًّا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُوا۟ وَبُشْرَىٰ لِلْمُحْسِنِينَ
 ---
 
 ## Questions

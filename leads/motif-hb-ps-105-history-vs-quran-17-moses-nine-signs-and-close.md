@@ -2,7 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-17-moses-nine-signs-and-close
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses' nine signs,
   the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
-summary: 'These two units share 1 motifs: moses was given nine clear signs [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - nine-signs-of-moses-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 105:27
-  note: 'Moses was given nine clear signs [divergence between the texts] (dibrê ʾōtôtāyw ûmōptîm, starting
-    with darkness (šālaḥ ḥōšek) and then blood, frogs, ʿārōb and kinnîm, hail, locust, firstborn: another
-    count and order. Q''s tisʿa āyāt is a third count.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
-- tradition: judaism
-  ref: Ps 105:28
-  note: 'Moses was given nine clear signs [divergence between the texts] (dibrê ʾōtôtāyw ûmōptîm, starting
-    with darkness (šālaḥ ḥōšek) and then blood, frogs, ʿārōb and kinnîm, hail, locust, firstborn: another
-    count and order. Q''s tisʿa āyāt is a third count.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁ֣לַֽח חֹ֭שֶׁךְ וַיַּחְשִׁ֑ךְ וְלֹֽא מָ֝ר֗וּ אֶת דברוו דְּבָרֽוֹ
-- tradition: islam
-  ref: Quran 17:101
-  note: 'Moses was given nine clear signs [divergence between the texts] (The count of the Egyptian signs
-    differs from text to text: Exod has ten plagues; Ps 78 lists about seven, ʾōtôtāyw ûmôptāyw (blood,
-    ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn); Q says tisʿa āyātin bayyināt. The word is the
-    same, ʾôtôt / āyāt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ
-    فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. dibrê ʾōtôtāyw ûmōptîm, starting with darkness (šālaḥ ḥōšek) and then blood, frogs, ʿārōb
-    and kinnîm, hail, locust, firstborn: another count and order. Q''s tisʿa āyāt is a third count.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses was given nine clear signs [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -82,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses was given nine clear signs
+kinds:
+- divergence
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Moses was given nine clear signs
+  note: 'dibrê ʾōtôtāyw ûmōptîm, starting with darkness (šālaḥ ḥōšek) and then blood, frogs, ʿārōb and
+    kinnîm, hail, locust, firstborn: another count and order. Q''s tisʿa āyāt is a third count.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:27
+      lang: he
+      text: שָֽׂמוּ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם
+    - ref: Ps 105:28
+      lang: he
+      text: שָׁ֣לַֽח חֹ֭שֶׁךְ וַיַּחְשִׁ֑ךְ וְלֹֽא מָ֝ר֗וּ אֶת דברוו דְּבָרֽוֹ
+    - ref: Ps 105:29
+      lang: he
+      text: הָפַ֣ךְ אֶת מֵימֵיהֶ֣ם לְדָ֑ם וַ֝יָּ֗מֶת אֶת דְּגָתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:101
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ
+        جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا
 ---
 
 ## Questions

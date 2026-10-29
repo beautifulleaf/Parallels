@@ -2,9 +2,7 @@
 id: motif-hb-joel-2-army-and-repentance-vs-quran-75-resurrection
 title: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration ↔ The resurrection: bones,
   fingertips and the collarbone'
-summary: 'These two units share 2 motifs: sun and moon are darkened and the stars withdraw their shining,
-  on that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-  with darkness.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,54 +16,9 @@ layers:
 motifs:
 - sun-moon-darkened-stars-withdraw
 - radiant-and-darkened-faces
-passages:
-- tradition: judaism
-  ref: Joel 2:10
-  note: Sun and moon are darkened and the stars withdraw their shining
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֨חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ
-    נָגְהָֽם
-- tradition: islam
-  ref: Quran 75:7
-  note: Sun and moon are darkened and the stars withdraw their shining (the sight dazzled, the moon eclipsed,
-    sun and moon joined together)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا بَرِقَ ٱلْبَصَرُ
-- tradition: islam
-  ref: Quran 75:8
-  note: Sun and moon are darkened and the stars withdraw their shining (the sight dazzled, the moon eclipsed,
-    sun and moon joined together)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَخَسَفَ ٱلْقَمَرُ
-- tradition: judaism
-  ref: Joel 2:6
-  note: 'On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness (wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on
-    the Day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כָּל פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר
-- tradition: islam
-  ref: Quran 75:22
-  note: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
-- tradition: islam
-  ref: Quran 75:24
-  note: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
-    with darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-khasafa l-qamaru wa-jumiʿa sh-shamsu wa-l-qamar ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû
-    noghām.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
     5.8); On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
@@ -103,6 +56,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are darkened and the stars withdraw their shining
+kinds:
+- parallel
+- shared
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-75-resurrection
+  title: 'The resurrection: bones, fingertips and the collarbone'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon are darkened and the stars withdraw their shining
+  note: wa-khasafa l-qamaru wa-jumiʿa sh-shamsu wa-l-qamar ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû
+    noghām.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:10
+      lang: he
+      text: לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֨חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ
+        נָגְהָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 75:7
+      lang: ar
+      text: فَإِذَا بَرِقَ ٱلْبَصَرُ
+    - ref: Quran 75:8
+      lang: ar
+      text: وَخَسَفَ ٱلْقَمَرُ
+    - ref: Quran 75:9
+      lang: ar
+      text: وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ
+- kind: shared
+  label: On that day some faces are radiant, laughing and joyful, others scowling, dust-covered and overcast
+    with darkness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:6
+      lang: he
+      text: מִפָּנָ֖יו יָחִ֣ילוּ עַמִּ֑ים כָּל פָּנִ֖ים קִבְּצ֥וּ פָארֽוּר
+    note: 'wujūhun yawmaʾidhin khāshiʿa ~ kol pānîm qibbeṣû pāʾrûr: faces downcast/darkened on the Day.'
+  - tradition: islam
+    passages:
+    - ref: Quran 75:22
+      lang: ar
+      text: وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ
+    - ref: Quran 75:24
+      lang: ar
+      text: وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ
+    - ref: Quran 75:25
+      lang: ar
+      text: تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-jerubbaal-fleece-vs-quran-19-abraham-and-his-father
 title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs ↔ Abraham pleads with his
   father (Surah 19:41-50)
-summary: 'These two units share 2 motifs: the idolatrous father threatens to stone his son and banishes
-  him [contrast between the texts], hero''s father makes, sells or worships idols.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,66 +15,9 @@ layers:
 motifs:
 - father-threatens-to-stone-son-as-contrast
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Judg 6:30
-  note: 'The idolatrous father threatens to stone his son and banishes him [contrast between the texts]
-    (A son against his father''s gods. In Judg the townsmen demand hôṣēʾ ʾet-binkā wəyāmōt, and the idolatrous
-    father Joash protects his son: ʾim-ʾĕlōhîm hûʾ yāreb lô. In Q the father himself threatens the son,
-    la-in lam tantahi la-arjumannaka. The father''s role is reversed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל יוֹאָ֔שׁ הוֹצֵ֥א אֶת בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת מִזְבַּ֣ח
-    הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָֽיו
-- tradition: judaism
-  ref: Judg 6:31
-  note: 'The idolatrous father threatens to stone his son and banishes him [contrast between the texts]
-    (A son against his father''s gods. In Judg the townsmen demand hôṣēʾ ʾet-binkā wəyāmōt, and the idolatrous
-    father Joash protects his son: ʾim-ʾĕlōhîm hûʾ yāreb lô. In Q the father himself threatens the son,
-    la-in lam tantahi la-arjumannaka. The father''s role is reversed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
-    תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ כִּ֥י
-    נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
-- tradition: islam
-  ref: Quran 19:46
-  note: 'The idolatrous father threatens to stone his son and banishes him [contrast between the texts]
-    (A son against his father''s gods. In Judg the townsmen demand hôṣēʾ ʾet-binkā wəyāmōt, and the idolatrous
-    father Joash protects his son: ʾim-ʾĕlōhîm hûʾ yāreb lô. In Q the father himself threatens the son,
-    la-in lam tantahi la-arjumannaka. The father''s role is reversed.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ وَٱهْجُرْنِى
-    مَلِيًّا
-- tradition: judaism
-  ref: Judg 6:25
-  note: Hero's father makes, sells or worships idols (the Baal altar and Asherah belong to Gideon's father
-    Joash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: islam
-  ref: Quran 19:42
-  note: Hero's father makes, sells or worships idols (what neither hears nor sees)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ
-    شَيْـًٔا
-- tradition: islam
-  ref: Quran 19:46
-  note: Hero's father makes, sells or worships idols (what neither hears nor sees)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ وَٱهْجُرْنِى
-    مَلِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    contrast. A son against his father''s gods. In Judg the townsmen demand hôṣēʾ ʾet-binkā wəyāmōt, and
-    the idolatrous father Joash protects his son: ʾim-ʾĕlōhîm hûʾ yāreb lô. In Q the father himself threatens
-    the son, la-in lam tantahi la-arjumannaka. The father''s role is reversed.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idolatrous father threatens to stone his son and banishes him
     [contrast between the texts] (weight 6.7); Hero''s father makes, sells or worships idols (weight 4.8).
@@ -110,6 +52,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The idolatrous father threatens to stone his son and banishes him
+kinds:
+- contrast
+- shared
+units:
+- id: hb-judg-6-jerubbaal-fleece
+  title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+  tradition: judaism
+- id: quran-19-abraham-and-his-father
+  title: Abraham pleads with his father (Surah 19:41-50)
+  tradition: islam
+matches:
+- kind: contrast
+  label: The idolatrous father threatens to stone his son and banishes him
+  note: 'A son against his father''s gods. In Judg the townsmen demand hôṣēʾ ʾet-binkā wəyāmōt, and the
+    idolatrous father Joash protects his son: ʾim-ʾĕlōhîm hûʾ yāreb lô. In Q the father himself threatens
+    the son, la-in lam tantahi la-arjumannaka. The father''s role is reversed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:30
+      lang: he
+      text: וַיֹּ֨אמְר֜וּ אַנְשֵׁ֤י הָעִיר֙ אֶל יוֹאָ֔שׁ הוֹצֵ֥א אֶת בִּנְךָ֖ וְיָמֹ֑ת כִּ֤י נָתַץ֙ אֶת
+        מִזְבַּ֣ח הַבַּ֔עַל וְכִ֥י כָרַ֖ת הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָֽיו
+    - ref: Judg 6:31
+      lang: he
+      text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
+        תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ
+        כִּ֥י נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:46
+      lang: ar
+      text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ
+        وَٱهْجُرْنِى مَلِيًّا
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    note: the Baal altar and Asherah belong to Gideon's father Joash
+  - tradition: islam
+    passages:
+    - ref: Quran 19:42
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى
+        عَنكَ شَيْـًٔا
+    - ref: Quran 19:46
+      lang: ar
+      text: قَالَ أَرَاغِبٌ أَنتَ عَنْ ءَالِهَتِى يَٰٓإِبْرَٰهِيمُ لَئِن لَّمْ تَنتَهِ لَأَرْجُمَنَّكَ
+        وَٱهْجُرْنِى مَلِيًّا
+    note: what neither hears nor sees
 ---
 
 ## Questions

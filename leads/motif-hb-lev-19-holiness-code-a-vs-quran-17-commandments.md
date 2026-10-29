@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-19-holiness-code-a-vs-quran-17-commandments
 title: Be holy - ethical laws and love of neighbor ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 2 motifs: a quranic code of commandments resembling the decalogue in content
-  [divergence between the texts], give the kinsman, the poor and the wayfarer their due.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,76 +16,9 @@ layers:
 motifs:
 - decalogue-like-code-in-quran-as-divergence
 - give-kin-poor-and-wayfarer-their-due
-passages:
-- tradition: judaism
-  ref: Lev 19:3
-  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
-    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
-    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
-    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: judaism
-  ref: Lev 19:4
-  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
-    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
-    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
-    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּפְנוּ֙ אֶל הָ֣אֱלִילִ֔ים וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 17:22
-  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
-    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
-    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
-    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
-- tradition: islam
-  ref: Quran 17:23
-  note: 'A Quranic code of commandments resembling the Decalogue in content [divergence between the texts]
-    (Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
-    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
-    iḥsānā. The Sabbath slot is taken by tawḥīd.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: judaism
-  ref: Lev 19:9
-  note: 'Give the kinsman, the poor and the wayfarer their due (wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna
-    wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb ʾōtām: the poor and the traveler or stranger have a claim
-    on one''s produce. Lev gives it as gleanings; Q as a due (ḥaqq) and adds a warning against squandering.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
-    לֹ֥א תְלַקֵּֽט
-- tradition: judaism
-  ref: Lev 19:10
-  note: 'Give the kinsman, the poor and the wayfarer their due (wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna
-    wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb ʾōtām: the poor and the traveler or stranger have a claim
-    on one''s produce. Lev gives it as gleanings; Q as a due (ḥaqq) and adds a warning against squandering.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 17:26
-  note: Give the kinsman, the poor and the wayfarer their due (ibn al-sabīl)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb
-    ʾōtām: the poor and the traveler or stranger have a claim on one''s produce. Lev gives it as gleanings;
-    Q as a due (ḥaqq) and adds a warning against squandering. Lev pairs parents with Sabbath: ʾîš ʾimmô
-    wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû ʾel-hāʾĕlîlîm. Q pairs parents with God''s
-    sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni iḥsānā. The Sabbath slot is taken by tawḥīd.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A Quranic code of commandments resembling the Decalogue in content
     [divergence between the texts] (weight 6.7); Give the kinsman, the poor and the wayfarer their due
@@ -120,6 +52,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A Quranic code of commandments resembling the Decalogue in content
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: divergence
+  label: A Quranic code of commandments resembling the Decalogue in content
+  note: 'Lev pairs parents with Sabbath: ʾîš ʾimmô wəʾābîw tîrāʾû wəʾet-šabbətōtay tišmōrû, then ʾal-tipnû
+    ʾel-hāʾĕlîlîm. Q pairs parents with God''s sole worship: allā taʿbudū illā iyyāhu wa-bi-l-wālidayni
+    iḥsānā. The Sabbath slot is taken by tawḥīd.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:3
+      lang: he
+      text: אִ֣ישׁ אִמּ֤וֹ וְאָבִיו֙ תִּירָ֔אוּ וְאֶת שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+    - ref: Lev 19:4
+      lang: he
+      text: אַל תִּפְנוּ֙ אֶל הָ֣אֱלִילִ֔ים וֵֽאלֹהֵי֙ מַסֵּכָ֔ה לֹ֥א תַעֲשׂ֖וּ לָכֶ֑ם אֲנִ֖י יְהוָ֥ה
+        אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:22
+      lang: ar
+      text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+- kind: parallel
+  label: Give the kinsman, the poor and the wayfarer their due
+  note: 'wa-āti dhā l-qurbā ḥaqqahu wa-l-miskīna wa-bna s-sabīl; leʿānî wəlaggēr taʿăzōb ʾōtām: the poor
+    and the traveler or stranger have a claim on one''s produce. Lev gives it as gleanings; Q as a due
+    (ḥaqq) and adds a warning against squandering.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:9
+      lang: he
+      text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
+        לֹ֥א תְלַקֵּֽט
+    - ref: Lev 19:10
+      lang: he
+      text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב
+        אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:26
+      lang: ar
+      text: وَءَاتِ ذَا ٱلْقُرْبَىٰ حَقَّهُۥ وَٱلْمِسْكِينَ وَٱبْنَ ٱلسَّبِيلِ وَلَا تُبَذِّرْ تَبْذِيرًا
 ---
 
 ## Questions

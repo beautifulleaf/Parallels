@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-6-nazirite-vs-quran-5-oaths-wine-game
 title: The Nazirite vow ↔ Lawful good things, oath expiation, wine and gambling, game in iḥrām
-summary: 'These two units share 1 motifs: abstinence from wine, by vow or by general law [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,58 +13,9 @@ layers:
 - motif
 motifs:
 - abstinence-from-wine-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 6:3
-  note: 'Abstinence from wine, by vow or by general law [divergence between the texts] (Abstention from
-    wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr), and the Nazirite brings a ḥaṭṭāʾt,
-    wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed abstinence (lā tuḥarrimū ṭayyibāti
-    mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min ʿamali l-shayṭāni for all (5:90). cf.
-    (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin of self-denial.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכָל מִשְׁרַ֤ת עֲנָבִים֙
-    לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל
-- tradition: judaism
-  ref: Num 6:11
-  note: 'Abstinence from wine, by vow or by general law [divergence between the texts] (Abstention from
-    wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr), and the Nazirite brings a ḥaṭṭāʾt,
-    wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed abstinence (lā tuḥarrimū ṭayyibāti
-    mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min ʿamali l-shayṭāni for all (5:90). cf.
-    (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin of self-denial.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א עַל
-    הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא
-- tradition: islam
-  ref: Quran 5:87
-  note: 'Abstinence from wine, by vow or by general law [divergence between the texts] (Abstention from
-    wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr), and the Nazirite brings a ḥaṭṭāʾt,
-    wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed abstinence (lā tuḥarrimū ṭayyibāti
-    mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min ʿamali l-shayṭāni for all (5:90). cf.
-    (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin of self-denial.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ وَلَا
-    تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ
-- tradition: islam
-  ref: Quran 5:90
-  note: 'Abstinence from wine, by vow or by general law [divergence between the texts] (Abstention from
-    wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr), and the Nazirite brings a ḥaṭṭāʾt,
-    wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed abstinence (lā tuḥarrimū ṭayyibāti
-    mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min ʿamali l-shayṭāni for all (5:90). cf.
-    (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin of self-denial.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ
-    رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Abstention from wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr),
-    and the Nazirite brings a ḥaṭṭāʾt, wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed
-    abstinence (lā tuḥarrimū ṭayyibāti mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min
-    ʿamali l-shayṭāni for all (5:90). cf. (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin
-    of self-denial.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abstinence from wine, by vow or by general law [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -100,6 +50,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abstinence from wine, by vow or by general law
+kinds:
+- divergence
+units:
+- id: hb-num-6-nazirite
+  title: The Nazirite vow
+  tradition: judaism
+- id: quran-5-oaths-wine-game
+  title: Lawful good things, oath expiation, wine and gambling, game in iḥrām
+  tradition: islam
+matches:
+- kind: divergence
+  label: Abstinence from wine, by vow or by general law
+  note: 'Abstention from wine. Num: by vow, as a mark of holiness (mi-yyayin wə-šēkhār yazzîr), and the
+    Nazirite brings a ḥaṭṭāʾt, wə-khipper ʿālāyw mēʾăšer ḥāṭāʾ ʿal-ha-nnāfeš. Q forbids self-imposed abstinence
+    (lā tuḥarrimū ṭayyibāti mā aḥalla llāhu lakum, 5:87), yet makes wine itself rijsun min ʿamali l-shayṭāni
+    for all (5:90). cf. (not a match) b. Taʿanit 11a, which reads Num 6:11 as the sin of self-denial.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 6:3
+      lang: he
+      text: מִיַּ֤יִן וְשֵׁכָר֙ יַזִּ֔יר חֹ֥מֶץ יַ֛יִן וְחֹ֥מֶץ שֵׁכָ֖ר לֹ֣א יִשְׁתֶּ֑ה וְכָל מִשְׁרַ֤ת
+        עֲנָבִים֙ לֹ֣א יִשְׁתֶּ֔ה וַעֲנָבִ֛ים לַחִ֥ים וִיבֵשִׁ֖ים לֹ֥א יֹאכֵֽל
+    - ref: Num 6:11
+      lang: he
+      text: וְעָשָׂ֣ה הַכֹּהֵ֗ן אֶחָ֤ד לְחַטָּאת֙ וְאֶחָ֣ד לְעֹלָ֔ה וְכִפֶּ֣ר עָלָ֔יו מֵאֲשֶׁ֥ר חָטָ֖א
+        עַל הַנָּ֑פֶשׁ וְקִדַּ֥שׁ אֶת רֹאשׁ֖וֹ בַּיּ֥וֹם הַהֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 5:87
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحَرِّمُوا۟ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمْ
+        وَلَا تَعْتَدُوٓا۟ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ
+    - ref: Quran 5:90
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ
+        رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

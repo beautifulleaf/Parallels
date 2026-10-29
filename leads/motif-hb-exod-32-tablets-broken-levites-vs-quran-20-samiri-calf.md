@@ -2,11 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-20-samiri-calf
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Moses hastens to the appointment;
   the Samiri and the calf
-summary: 'These two units share 4 motifs: calf burned, ground to dust, and the dust thrown into the stream
-  [divergence between the texts], the calf-maker is condemned to say all his life ''no touching!'' (lā
-  misās), an outcast [divergence between the texts], in anger moses seizes his brother by the beard and
-  head; aaron pleads ''son of my mother'' [divergence between the texts], the idol calf is a body that
-  makes a lowing sound (khuwar).'
+summary: '3 correspondences read side by side: 3 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,144 +14,18 @@ layers:
 - motif
 motifs:
 - calf-burned-ground-dust-in-stream-as-divergence
-- calf-maker-cursed-untouchable-as-divergence
 - moses-seizes-aarons-beard-as-divergence
+- calf-maker-cursed-untouchable-as-divergence
 - calf-lows
-passages:
-- tradition: judaism
-  ref: Exod 32:20
-  note: 'Calf burned, ground to dust, and the dust thrown into the stream [divergence between the texts]
-    (wayyiśrōp bāʾēš wayyiṭḥan ʿad ʾăšer-dāq wayyizer ʿal-pənê hammayim wayyašq ʾet-bənê yiśrāʾēl; la-nuḥarriqannahu
-    thumma la-nansifannahu fī l-yammi nasfā: burned and scattered on water. In Exod the people are made
-    to drink it; Q scatters it into the sea and leaves out the drinking.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק וַיִּ֨זֶר֙
-    עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 20:97
-  note: 'Calf burned, ground to dust, and the dust thrown into the stream [divergence between the texts]
-    (wayyiśrōp bāʾēš wayyiṭḥan ʿad ʾăšer-dāq wayyizer ʿal-pənê hammayim wayyašq ʾet-bənê yiśrāʾēl; la-nuḥarriqannahu
-    thumma la-nansifannahu fī l-yammi nasfā: burned and scattered on water. In Exod the people are made
-    to drink it; Q scatters it into the sea and leaves out the drinking.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن
-    تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ
-    فِى ٱلْيَمِّ نَسْفًا
-- tradition: judaism
-  ref: Exod 32:26
-  note: 'The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence
-    between the texts] (Punishment. Exod: the Levites kill about three thousand, mî laYHWH ʾēlāy ... hirgû
-    ʾîš-ʾet-ʾāḥîw. Q: no massacre; the one guilty man is sent away as an outcast, fa-dhhab fa-inna laka
-    fī l-ḥayāti an taqūla lā misās, with a further appointment (mawʿidan lan tukhlafah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ אֵלָ֖יו
-    כָּל בְּנֵ֥י לֵוִֽי
-- tradition: judaism
-  ref: Exod 32:27
-  note: 'The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence
-    between the texts] (Punishment. Exod: the Levites kill about three thousand, mî laYHWH ʾēlāy ... hirgû
-    ʾîš-ʾet-ʾāḥîw. Q: no massacre; the one guilty man is sent away as an outcast, fa-dhhab fa-inna laka
-    fī l-ḥayāti an taqūla lā misās, with a further appointment (mawʿidan lan tukhlafah).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: islam
-  ref: Quran 20:97
-  note: 'The calf-maker is condemned to say all his life ''No touching!'' (lā misās), an outcast [divergence
-    between the texts] (Punishment. Exod: the Levites kill about three thousand, mî laYHWH ʾēlāy ... hirgû
-    ʾîš-ʾet-ʾāḥîw. Q: no massacre; the one guilty man is sent away as an outcast, fa-dhhab fa-inna laka
-    fī l-ḥayāti an taqūla lā misās, with a further appointment (mawʿidan lan tukhlafah).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن
-    تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ
-    فِى ٱلْيَمِّ نَسْفًا
-- tradition: judaism
-  ref: Exod 32:21
-  note: 'In anger Moses seizes his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence
-    between the texts] (Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ
-    gədōlâ, and Aaron blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses
-    seizes him, and Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla
-    farraqta bayna banī Isrāʾīl. Aaron''s excuse changes from the calf ''coming out'' by itself to fear
-    of schism.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל אַהֲרֹ֔ן מֶֽה עָשָׂ֥ה לְךָ֖ הָעָ֣ם הַזֶּ֑ה כִּֽי הֵבֵ֥אתָ עָלָ֖יו חֲטָאָ֥ה
-    גְדֹלָֽה
-- tradition: judaism
-  ref: Exod 32:22
-  note: 'In anger Moses seizes his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence
-    between the texts] (Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ
-    gədōlâ, and Aaron blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses
-    seizes him, and Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla
-    farraqta bayna banī Isrāʾīl. Aaron''s excuse changes from the calf ''coming out'' by itself to fear
-    of schism.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל יִ֥חַר אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא
-- tradition: islam
-  ref: Quran 20:92
-  note: 'In anger Moses seizes his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence
-    between the texts] (Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ
-    gədōlâ, and Aaron blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses
-    seizes him, and Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla
-    farraqta bayna banī Isrāʾīl. Aaron''s excuse changes from the calf ''coming out'' by itself to fear
-    of schism.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
-- tradition: islam
-  ref: Quran 20:93
-  note: 'In anger Moses seizes his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence
-    between the texts] (Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ
-    gədōlâ, and Aaron blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses
-    seizes him, and Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla
-    farraqta bayna banī Isrāʾīl. Aaron''s excuse changes from the calf ''coming out'' by itself to fear
-    of schism.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِى
-- tradition: judaism
-  ref: Exod 32:24
-  note: 'The idol calf is a body that makes a lowing sound (khuwar) (The calf as if alive: ʿijlan jasadan
-    lahu khuwārun (a body that lows) vs Aaron''s wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh (''I threw
-    it in the fire and out came this calf''). cf. Pirqe de-R. Eliezer 45 (the calf comes out lowing),
-    outside the canon.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
-    הָעֵ֥גֶל הַזֶּֽה
-- tradition: islam
-  ref: Quran 20:88
-  note: The idol calf is a body that makes a lowing sound (khuwar) (ʿijlan jasadan lahu khuwār)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ مُوسَىٰ
-    فَنَسِىَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. wayyiśrōp bāʾēš wayyiṭḥan ʿad ʾăšer-dāq wayyizer ʿal-pənê hammayim wayyašq ʾet-bənê yiśrāʾēl;
-    la-nuḥarriqannahu thumma la-nansifannahu fī l-yammi nasfā: burned and scattered on water. In Exod
-    the people are made to drink it; Q scatters it into the sea and leaves out the drinking. Exod: Moses
-    accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ gədōlâ, and Aaron blames the people
-    and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses seizes him, and Aaron pleads yabnaʾumma
-    lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla farraqta bayna banī Isrāʾīl. Aaron''s
-    excuse changes from the calf ''coming out'' by itself to fear of schism. Punishment. Exod: the Levites
-    kill about three thousand, mî laYHWH ʾēlāy ... hirgû ʾîš-ʾet-ʾāḥîw. Q: no massacre; the one guilty
-    man is sent away as an outcast, fa-dhhab fa-inna laka fī l-ḥayāti an taqūla lā misās, with a further
-    appointment (mawʿidan lan tukhlafah).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Calf burned, ground to dust, and the dust thrown into the stream
-    [divergence between the texts] (weight 6.7); The calf-maker is condemned to say all his life ''No
-    touching!'' (lā misās), an outcast [divergence between the texts] (weight 6.7); In anger Moses seizes
-    his brother by the beard and head; Aaron pleads ''son of my mother'' [divergence between the texts]
-    (weight 6.7); The idol calf is a body that makes a lowing sound (khuwar) (weight 6.3). Pair score
-    26.4.'
+    [divergence between the texts] (weight 6.7); In anger Moses seizes his brother by the beard and head;
+    Aaron pleads ''son of my mother'' [divergence between the texts] (weight 6.7); The calf-maker is condemned
+    to say all his life ''No touching!'' (lā misās), an outcast [divergence between the texts] (weight
+    6.7); The idol calf is a body that makes a lowing sound (khuwar) (weight 6.3). Pair score 26.4.'
   basis: reading
 - text: 'Only in Tablets broken, calf destroyed, Levites slaughter, Moses'' offer: Aaron excuses himself:
     the people pressed him and the calf came out of the fire; The people run wild and become a derision
@@ -188,6 +58,116 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Calf burned, ground to dust, and the dust thrown into the stream
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-20-samiri-calf
+  title: Moses hastens to the appointment; the Samiri and the calf
+  tradition: islam
+matches:
+- kind: divergence
+  label: Calf burned, ground to dust, and the dust thrown into the stream
+  note: 'wayyiśrōp bāʾēš wayyiṭḥan ʿad ʾăšer-dāq wayyizer ʿal-pənê hammayim wayyašq ʾet-bənê yiśrāʾēl;
+    la-nuḥarriqannahu thumma la-nansifannahu fī l-yammi nasfā: burned and scattered on water. In Exod
+    the people are made to drink it; Q scatters it into the sea and leaves out the drinking.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:20
+      lang: he
+      text: וַיִּקַּ֞ח אֶת הָעֵ֨גֶל אֲשֶׁ֤ר עָשׂוּ֙ וַיִּשְׂרֹ֣ף בָּאֵ֔שׁ וַיִּטְחַ֖ן עַ֣ד אֲשֶׁר דָּ֑ק
+        וַיִּ֨זֶר֙ עַל פְּנֵ֣י הַמַּ֔יִם וַיַּ֖שְׁקְ אֶת בְּנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 20:97
+      lang: ar
+      text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا
+        لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ
+        ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
+- kind: divergence
+  label: In anger Moses seizes his brother by the beard and head; Aaron pleads 'son of my mother'
+  note: 'Exod: Moses accuses Aaron, mah-ʿāśâ ləkā hāʿām hazzeh kî-hēbēʾtā ʿālāyw ḥăṭāʾâ gədōlâ, and Aaron
+    blames the people and the fire, wāʾašlikēhû bāʾēš wayyēṣēʾ hāʿēgel hazzeh. Q: Moses seizes him, and
+    Aaron pleads yabnaʾumma lā taʾkhudh bi-liḥyatī wa-lā bi-raʾsī innī khashītu an taqūla farraqta bayna
+    banī Isrāʾīl. Aaron''s excuse changes from the calf ''coming out'' by itself to fear of schism.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:21
+      lang: he
+      text: וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל אַהֲרֹ֔ן מֶֽה עָשָׂ֥ה לְךָ֖ הָעָ֣ם הַזֶּ֑ה כִּֽי הֵבֵ֥אתָ עָלָ֖יו
+        חֲטָאָ֥ה גְדֹלָֽה
+    - ref: Exod 32:22
+      lang: he
+      text: וַיֹּ֣אמֶר אַהֲרֹ֔ן אַל יִ֥חַר אַ֖ף אֲדֹנִ֑י אַתָּה֙ יָדַ֣עְתָּ אֶת הָעָ֔ם כִּ֥י בְרָ֖ע הֽוּא
+    - ref: Exod 32:24
+      lang: he
+      text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
+        הָעֵ֥גֶל הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:92
+      lang: ar
+      text: قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذْ رَأَيْتَهُمْ ضَلُّوٓا۟
+    - ref: Quran 20:93
+      lang: ar
+      text: أَلَّا تَتَّبِعَنِ أَفَعَصَيْتَ أَمْرِى
+    - ref: Quran 20:94
+      lang: ar
+      text: قَالَ يَبْنَؤُمَّ لَا تَأْخُذْ بِلِحْيَتِى وَلَا بِرَأْسِىٓ إِنِّى خَشِيتُ أَن تَقُولَ فَرَّقْتَ
+        بَيْنَ بَنِىٓ إِسْرَٰٓءِيلَ وَلَمْ تَرْقُبْ قَوْلِى
+- kind: divergence
+  label: The calf-maker is condemned to say all his life 'No touching!' (lā misās), an outcast
+  note: 'Punishment. Exod: the Levites kill about three thousand, mî laYHWH ʾēlāy ... hirgû ʾîš-ʾet-ʾāḥîw.
+    Q: no massacre; the one guilty man is sent away as an outcast, fa-dhhab fa-inna laka fī l-ḥayāti an
+    taqūla lā misās, with a further appointment (mawʿidan lan tukhlafah).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:26
+      lang: he
+      text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ
+        אֵלָ֖יו כָּל בְּנֵ֥י לֵוִֽי
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:97
+      lang: ar
+      text: قَالَ فَٱذْهَبْ فَإِنَّ لَكَ فِى ٱلْحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا
+        لَّن تُخْلَفَهُۥ وَٱنظُرْ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِى ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُۥ
+        ثُمَّ لَنَنسِفَنَّهُۥ فِى ٱلْيَمِّ نَسْفًا
+- kind: shared
+  label: The idol calf is a body that makes a lowing sound (khuwar)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:24
+      lang: he
+      text: וָאֹמַ֤ר לָהֶם֙ לְמִ֣י זָהָ֔ב הִתְפָּרָ֖קוּ וַיִּתְּנוּ לִ֑י וָאַשְׁלִכֵ֣הוּ בָאֵ֔שׁ וַיֵּצֵ֖א
+        הָעֵ֥גֶל הַזֶּֽה
+    note: 'The calf as if alive: ʿijlan jasadan lahu khuwārun (a body that lows) vs Aaron''s wāʾašlikēhû
+      bāʾēš wayyēṣēʾ hāʿēgel hazzeh (''I threw it in the fire and out came this calf''). cf. Pirqe de-R.
+      Eliezer 45 (the calf comes out lowing), outside the canon.'
+  - tradition: islam
+    passages:
+    - ref: Quran 20:88
+      lang: ar
+      text: فَأَخْرَجَ لَهُمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ فَقَالُوا۟ هَٰذَآ إِلَٰهُكُمْ وَإِلَٰهُ
+        مُوسَىٰ فَنَسِىَ
+    note: ʿijlan jasadan lahu khuwār
 ---
 
 ## Questions

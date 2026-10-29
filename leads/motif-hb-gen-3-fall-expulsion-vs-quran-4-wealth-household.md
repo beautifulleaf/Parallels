@@ -2,8 +2,7 @@
 id: motif-hb-gen-3-fall-expulsion-vs-quran-4-wealth-household
 title: The serpent, the eating, the curses and the expulsion ↔ Wealth by consent, major sins, and discord
   in marriage
-summary: 'These two units share 1 motifs: the ground of a husband''s authority over his wife [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - husbands-authority-basis-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 3:16
-  note: 'The ground of a husband''s authority over his wife [divergence between the texts] (Gen 3:16 wĕ-ʾel
-    ʾîšēk tĕšûqātēk wĕ-hûʾ yimšol bāk: the husband''s rule over the wife as part of the curse after the
-    fall; Q 4:34 ar-rijālu qawwāmūna ʿalā n-nisāʾi bi-mā faḍḍala llāhu baʿḍahum ʿalā baʿḍin wa-bi-mā anfaqū
-    min amwālihim: men are maintainers of women by God''s preference and because they spend their wealth.
-    The husband''s authority is given a different basis: a curse in Genesis, a divine ordering and financial
-    duty in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶֽל הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים
-    וְאֶל אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל בָּֽךְ
-- tradition: islam
-  ref: Quran 4:34
-  note: 'The ground of a husband''s authority over his wife [divergence between the texts] (Gen 3:16 wĕ-ʾel
-    ʾîšēk tĕšûqātēk wĕ-hûʾ yimšol bāk: the husband''s rule over the wife as part of the curse after the
-    fall; Q 4:34 ar-rijālu qawwāmūna ʿalā n-nisāʾi bi-mā faḍḍala llāhu baʿḍahum ʿalā baʿḍin wa-bi-mā anfaqū
-    min amwālihim: men are maintainers of women by God''s preference and because they spend their wealth.
-    The husband''s authority is given a different basis: a curse in Genesis, a divine ordering and financial
-    duty in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ
-    أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ
-    وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ فَإِنْ
-    أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 3:16 wĕ-ʾel ʾîšēk tĕšûqātēk wĕ-hûʾ yimšol bāk: the husband''s rule over the wife as
-    part of the curse after the fall; Q 4:34 ar-rijālu qawwāmūna ʿalā n-nisāʾi bi-mā faḍḍala llāhu baʿḍahum
-    ʿalā baʿḍin wa-bi-mā anfaqū min amwālihim: men are maintainers of women by God''s preference and because
-    they spend their wealth. The husband''s authority is given a different basis: a curse in Genesis,
-    a divine ordering and financial duty in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ground of a husband''s authority over his wife [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -82,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The ground of a husband's authority over his wife
+kinds:
+- divergence
+units:
+- id: hb-gen-3-fall-expulsion
+  title: The serpent, the eating, the curses and the expulsion
+  tradition: judaism
+- id: quran-4-wealth-household
+  title: Wealth by consent, major sins, and discord in marriage
+  tradition: islam
+matches:
+- kind: divergence
+  label: The ground of a husband's authority over his wife
+  note: 'Gen 3:16 wĕ-ʾel ʾîšēk tĕšûqātēk wĕ-hûʾ yimšol bāk: the husband''s rule over the wife as part
+    of the curse after the fall; Q 4:34 ar-rijālu qawwāmūna ʿalā n-nisāʾi bi-mā faḍḍala llāhu baʿḍahum
+    ʿalā baʿḍin wa-bi-mā anfaqū min amwālihim: men are maintainers of women by God''s preference and because
+    they spend their wealth. The husband''s authority is given a different basis: a curse in Genesis,
+    a divine ordering and financial duty in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:16
+      lang: he
+      text: אֶֽל הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י
+        בָנִ֑ים וְאֶל אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:34
+      lang: ar
+      text: ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ
+        أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ
+        وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ
+        فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا
 ---
 
 ## Questions

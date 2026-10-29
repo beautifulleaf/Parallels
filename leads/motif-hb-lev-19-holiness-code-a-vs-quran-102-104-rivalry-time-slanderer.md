@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-19-holiness-code-a-vs-quran-102-104-rivalry-time-slanderer
 title: Be holy - ethical laws and love of neighbor ↔ Rivalry, time and the slanderer
-summary: 'These two units share 1 motifs: do not go about as a talebearer among your people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,22 +13,9 @@ layers:
 - motif
 motifs:
 - talebearing-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 19:16
-  note: Do not go about as a talebearer among your people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 104:1
-  note: Do not go about as a talebearer among your people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. waylun li-kulli humazatin lumaza ~ lōʾ tēlēk rākîl be-ʿammêkā.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not go about as a talebearer among your people (weight 5.8).
     Pair score 5.8.'
@@ -60,6 +47,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not go about as a talebearer among your people
+kinds:
+- echo
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-102-104-rivalry-time-slanderer
+  title: Rivalry, time and the slanderer
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not go about as a talebearer among your people
+  note: waylun li-kulli humazatin lumaza ~ lōʾ tēlēk rākîl be-ʿammêkā.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:16
+      lang: he
+      text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 104:1
+      lang: ar
+      text: وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ
 ---
 
 ## Questions

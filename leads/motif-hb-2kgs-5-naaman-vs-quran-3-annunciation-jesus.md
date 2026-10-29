@@ -1,8 +1,7 @@
 ---
 id: motif-hb-2kgs-5-naaman-vs-quran-3-annunciation-jesus
 title: Naaman healed of leprosy; Gehazi's greed ↔ The annunciation and the mission of Jesus
-summary: 'These two units share 1 motifs: jesus heals the born-blind and the leper and raises the dead
-  by god''s leave.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - jesus-heals-blind-leper-raises-dead
-passages:
-- tradition: judaism
-  ref: 2Kgs 5:14
-  note: 'Jesus heals the born-blind and the leper and raises the dead by God''s leave (2Kgs 5:14 wa-yyāšob
-    bĕśārô ki-bśar naʿar qāṭōn wa-yyiṭhār: the leper cleansed through Elisha''s word; Q 3:49 wa-ubriʾu
-    l-akmaha wa-l-abraṣa: Jesus heals the born-blind and the leper. Note 2Kgs 5:7, where the king says
-    only God can do this.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֗רֶד וַיִּטְבֹּ֤ל בַּיַּרְדֵּן֙ שֶׁ֣בַע פְּעָמִ֔ים כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַיָּ֣שָׁב
-    בְּשָׂר֗וֹ כִּבְשַׂ֛ר נַ֥עַר קָטֹ֖ן וַיִּטְהָֽר
-- tradition: islam
-  ref: Quran 3:49
-  note: Jesus heals the born-blind and the leper and raises the dead by God's leave
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ
-    أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ
-    وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ
-    وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 2Kgs 5:14 wa-yyāšob bĕśārô ki-bśar naʿar qāṭōn wa-yyiṭhār: the leper cleansed through Elisha''s
-    word; Q 3:49 wa-ubriʾu l-akmaha wa-l-abraṣa: Jesus heals the born-blind and the leper. Note 2Kgs 5:7,
-    where the king says only God can do this.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jesus heals the born-blind and the leper and raises the dead by
     God''s leave (weight 6.0). Pair score 6.0.'
@@ -73,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Jesus heals the born-blind and the leper and raises the dead by God's leave
+kinds:
+- echo
+units:
+- id: hb-2kgs-5-naaman
+  title: Naaman healed of leprosy; Gehazi's greed
+  tradition: judaism
+- id: quran-3-annunciation-jesus
+  title: The annunciation and the mission of Jesus
+  tradition: islam
+matches:
+- kind: echo
+  label: Jesus heals the born-blind and the leper and raises the dead by God's leave
+  note: '2Kgs 5:14 wa-yyāšob bĕśārô ki-bśar naʿar qāṭōn wa-yyiṭhār: the leper cleansed through Elisha''s
+    word; Q 3:49 wa-ubriʾu l-akmaha wa-l-abraṣa: Jesus heals the born-blind and the leper. Note 2Kgs 5:7,
+    where the king says only God can do this.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:14
+      lang: he
+      text: וַיֵּ֗רֶד וַיִּטְבֹּ֤ל בַּיַּרְדֵּן֙ שֶׁ֣בַע פְּעָמִ֔ים כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַיָּ֣שָׁב
+        בְּשָׂר֗וֹ כִּבְשַׂ֛ר נַ֥עַר קָטֹ֖ן וַיִּטְהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 3:49
+      lang: ar
+      text: وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ
+        أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ
+        ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم
+        بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم
+        مُّؤْمِنِينَ
 ---
 
 ## Questions

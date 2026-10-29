@@ -2,7 +2,7 @@
 id: motif-hb-dan-7-four-beasts-son-of-man-vs-quran-17-book-of-deeds
 title: The four beasts, the Ancient of Days and one like a son of man ↔ The bird on the neck, the open
   book and individual responsibility (Surah 17:9-21)
-summary: 'These two units share 1 motifs: the heavenly court sits in judgment and the books are opened.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - court-sits-books-opened
-passages:
-- tradition: judaism
-  ref: Dan 7:10
-  note: The heavenly court sits in judgment and the books are opened
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ
-    רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
-- tradition: judaism
-  ref: Dan 7:26
-  note: The heavenly court sits in judgment and the books are opened
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִינָ֖א יִתִּ֑ב וְשָׁלְטָנֵ֣הּ יְהַעְדּ֔וֹן לְהַשְׁמָדָ֥ה וּלְהוֹבָדָ֖ה עַד סוֹפָֽא
-- tradition: islam
-  ref: Quran 17:13
-  note: The heavenly court sits in judgment and the books are opened
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ
-    كِتَٰبًا يَلْقَىٰهُ مَنشُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. dînāʾ yətib wəsiprîn pətîḥû; wa-nukhriju lahu yawma l-qiyāmati kitāban yalqāhu manshūrā:
-    at the judgment books are brought out and opened (pətîḥû / manshūr). Dan''s court judges empires;
-    Q''s book belongs to each person.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The heavenly court sits in judgment and the books are opened (weight
     6.0). Pair score 6.0.'
@@ -77,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The heavenly court sits in judgment and the books are opened
+kinds:
+- parallel
+units:
+- id: hb-dan-7-four-beasts-son-of-man
+  title: The four beasts, the Ancient of Days and one like a son of man
+  tradition: judaism
+- id: quran-17-book-of-deeds
+  title: The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The heavenly court sits in judgment and the books are opened
+  note: 'dînāʾ yətib wəsiprîn pətîḥû; wa-nukhriju lahu yawma l-qiyāmati kitāban yalqāhu manshūrā: at the
+    judgment books are brought out and opened (pətîḥû / manshūr). Dan''s court judges empires; Q''s book
+    belongs to each person.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:10
+      lang: he
+      text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ
+        וְרִבּ֥וֹ רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:13
+      lang: ar
+      text: وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ
+        كِتَٰبًا يَلْقَىٰهُ مَنشُورًا
 ---
 
 ## Questions

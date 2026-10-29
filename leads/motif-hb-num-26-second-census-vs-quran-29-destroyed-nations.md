@@ -2,7 +2,7 @@
 id: motif-hb-num-26-second-census-vs-quran-29-destroyed-nations
 title: Census of the second generation on the plains of Moab ↔ Midian, Ad, Thamud, Korah, Pharaoh and
   Haman punished
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +15,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Num 26:9
-  note: The earth opens its mouth and swallows rebels alive into Sheol (they became a 'sign' (nes))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵ֣י אֱלִיאָ֔ב נְמוּאֵ֖ל וְדָתָ֣ן וַאֲבִירָ֑ם הֽוּא דָתָ֨ן וַאֲבִירָ֜ם קרואי קְרִיאֵ֣י הָעֵדָ֗ה
-    אֲשֶׁ֨ר הִצּ֜וּ עַל מֹשֶׁ֤ה וְעַֽל אַהֲרֹן֙ בַּעֲדַת קֹ֔רַח בְּהַצֹּתָ֖ם עַל יְהוָֽה
-- tradition: judaism
-  ref: Num 26:10
-  note: The earth opens its mouth and swallows rebels alive into Sheol (they became a 'sign' (nes))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפְתַּ֨ח הָאָ֜רֶץ אֶת פִּ֗יהָ וַתִּבְלַ֥ע אֹתָ֛ם וְאֶת קֹ֖רַח בְּמ֣וֹת הָעֵדָ֑ה בַּאֲכֹ֣ל
-    הָאֵ֗שׁ אֵ֣ת חֲמִשִּׁ֤ים וּמָאתַ֨יִם֙ אִ֔ישׁ וַיִּהְי֖וּ לְנֵֽס
-- tradition: islam
-  ref: Quran 29:40
-  note: The earth opens its mouth and swallows rebels alive into Sheol ('some we made the earth swallow'
-    (Korah, cf. 28:81))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ
-    ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ ٱللَّهُ
-    لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: islam
-  ref: Quran 29:39
-  note: The earth opens its mouth and swallows rebels alive into Sheol ('some we made the earth swallow'
-    (Korah, cf. 28:81))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
-    فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-Qārūna ... wa-minhum man khasafnā bihi l-arḍa ~ wat-tiftaḥ hā-ʾāreṣ ʾet pîhā wat-tivlaʿ
-    ʾōtām wə-ʾet Qōraḥ ... wa-yyihyû lə-nēs: Korah swallowed by the earth and made a sign (nēs). Numbers
-    adds û-vənê Qōraḥ lōʾ mētû; the Quran groups Korah with Pharaoh and Hāmān, not with Dathan and Abiram.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -81,6 +47,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- parallel
+units:
+- id: hb-num-26-second-census
+  title: Census of the second generation on the plains of Moab
+  tradition: judaism
+- id: quran-29-destroyed-nations
+  title: Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
+  tradition: islam
+matches:
+- kind: parallel
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: 'wa-Qārūna ... wa-minhum man khasafnā bihi l-arḍa ~ wat-tiftaḥ hā-ʾāreṣ ʾet pîhā wat-tivlaʿ ʾōtām
+    wə-ʾet Qōraḥ ... wa-yyihyû lə-nēs: Korah swallowed by the earth and made a sign (nēs). Numbers adds
+    û-vənê Qōraḥ lōʾ mētû; the Quran groups Korah with Pharaoh and Hāmān, not with Dathan and Abiram.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 26:9
+      lang: he
+      text: וּבְנֵ֣י אֱלִיאָ֔ב נְמוּאֵ֖ל וְדָתָ֣ן וַאֲבִירָ֑ם הֽוּא דָתָ֨ן וַאֲבִירָ֜ם קרואי קְרִיאֵ֣י
+        הָעֵדָ֗ה אֲשֶׁ֨ר הִצּ֜וּ עַל מֹשֶׁ֤ה וְעַֽל אַהֲרֹן֙ בַּעֲדַת קֹ֔רַח בְּהַצֹּתָ֖ם עַל יְהוָֽה
+    - ref: Num 26:10
+      lang: he
+      text: וַתִּפְתַּ֨ח הָאָ֜רֶץ אֶת פִּ֗יהָ וַתִּבְלַ֥ע אֹתָ֛ם וְאֶת קֹ֖רַח בְּמ֣וֹת הָעֵדָ֑ה בַּאֲכֹ֣ל
+        הָאֵ֗שׁ אֵ֣ת חֲמִשִּׁ֤ים וּמָאתַ֨יִם֙ אִ֔ישׁ וַיִּהְי֖וּ לְנֵֽס
+    - ref: Num 26:11
+      lang: he
+      text: וּבְנֵי קֹ֖רַח לֹא מֵֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:39
+      lang: ar
+      text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
+        فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+    - ref: Quran 29:40
+      lang: ar
+      text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ
+        أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

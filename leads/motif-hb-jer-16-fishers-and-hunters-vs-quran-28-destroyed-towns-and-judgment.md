@@ -2,8 +2,7 @@
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-28-destroyed-towns-and-judgment
 title: A new exodus from the north; fishers and hunters ↔ Towns destroyed for ingratitude; 'Where are
   my partners?'; perpetual night and day
-summary: 'These two units share 2 motifs: nations come from the ends of the earth confessing ''our fathers
-  inherited nothing but lies''; can a man make gods for himself?, god alone knows the hearts of all humans.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,65 +15,9 @@ layers:
 motifs:
 - nations-confess-fathers-inherited-lies
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: Jer 16:19
-  note: Nations come from the ends of the earth confessing 'our fathers inherited nothing but lies'; can
-    a man make gods for himself?
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
-    אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
-- tradition: judaism
-  ref: Jer 16:20
-  note: Nations come from the ends of the earth confessing 'our fathers inherited nothing but lies'; can
-    a man make gods for himself?
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיַעֲשֶׂה לּ֥וֹ אָדָ֖ם אֱלֹהִ֑ים וְהֵ֖מָּה לֹ֥א אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 28:63
-  note: 'Nations come from the ends of the earth confessing ''our fathers inherited nothing but lies'';
-    can a man make gods for himself? (rabbanā hāʾulāʾi lladhīna aghwaynā ... fa-daʿawhum fa-lam yastajībū
-    lahum ~ ʾakh šeqer nāḥălû ʾăvôtênû hevel wə-ʾên bām môʿîl ... wə-hēmmâ lōʾ ʾĕlōhîm: the futility of
-    the gods is admitted at the end. Jeremiah''s nations confess it themselves; in the Quran the misleaders
-    disown their followers and the ''partners'' do not answer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَٰهُمْ
-    كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ
-- tradition: islam
-  ref: Quran 28:64
-  note: 'Nations come from the ends of the earth confessing ''our fathers inherited nothing but lies'';
-    can a man make gods for himself? (rabbanā hāʾulāʾi lladhīna aghwaynā ... fa-daʿawhum fa-lam yastajībū
-    lahum ~ ʾakh šeqer nāḥălû ʾăvôtênû hevel wə-ʾên bām môʿîl ... wə-hēmmâ lōʾ ʾĕlōhîm: the futility of
-    the gods is admitted at the end. Jeremiah''s nations confess it themselves; in the Quran the misleaders
-    disown their followers and the ''partners'' do not answer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ
-    لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
-- tradition: judaism
-  ref: Jer 16:17
-  note: God alone knows the hearts of all humans (my eyes are on all their ways; their iniquity is not
-    hidden)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם מִנֶּ֥גֶד
-    עֵינָֽי
-- tradition: islam
-  ref: Quran 28:69
-  note: God alone knows the hearts of all humans
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yaʿlamu mā tukinnu ṣudūruhum ~ lōʾ nistərû mil-ləfānāy wə-lōʾ niṣpan ʿăwōnām: nothing hidden
-    (kanna / ṣāfan) from God. rabbanā hāʾulāʾi lladhīna aghwaynā ... fa-daʿawhum fa-lam yastajībū lahum
-    ~ ʾakh šeqer nāḥălû ʾăvôtênû hevel wə-ʾên bām môʿîl ... wə-hēmmâ lōʾ ʾĕlōhîm: the futility of the
-    gods is admitted at the end. Jeremiah''s nations confess it themselves; in the Quran the misleaders
-    disown their followers and the ''partners'' do not answer.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nations come from the ends of the earth confessing ''our fathers
     inherited nothing but lies''; can a man make gods for himself? (weight 6.7); God alone knows the hearts
@@ -106,6 +49,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- echo
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-28-destroyed-towns-and-judgment
+  title: Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night and day
+  tradition: islam
+matches:
+- kind: echo
+  label: God alone knows the hearts of all humans
+  note: 'yaʿlamu mā tukinnu ṣudūruhum ~ lōʾ nistərû mil-ləfānāy wə-lōʾ niṣpan ʿăwōnām: nothing hidden
+    (kanna / ṣāfan) from God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:17
+      lang: he
+      text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם
+        מִנֶּ֥גֶד עֵינָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 28:69
+      lang: ar
+      text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+- kind: echo
+  label: Nations come from the ends of the earth confessing 'our fathers inherited nothing but lies';
+    can a man make gods for himself?
+  note: 'rabbanā hāʾulāʾi lladhīna aghwaynā ... fa-daʿawhum fa-lam yastajībū lahum ~ ʾakh šeqer nāḥălû
+    ʾăvôtênû hevel wə-ʾên bām môʿîl ... wə-hēmmâ lōʾ ʾĕlōhîm: the futility of the gods is admitted at
+    the end. Jeremiah''s nations confess it themselves; in the Quran the misleaders disown their followers
+    and the ''partners'' do not answer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:19
+      lang: he
+      text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
+        אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
+    - ref: Jer 16:20
+      lang: he
+      text: הֲיַעֲשֶׂה לּ֥וֹ אָדָ֖ם אֱלֹהִ֑ים וְהֵ֖מָּה לֹ֥א אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 28:63
+      lang: ar
+      text: قَالَ ٱلَّذِينَ حَقَّ عَلَيْهِمُ ٱلْقَوْلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغْوَيْنَآ أَغْوَيْنَٰهُمْ
+        كَمَا غَوَيْنَا تَبَرَّأْنَآ إِلَيْكَ مَا كَانُوٓا۟ إِيَّانَا يَعْبُدُونَ
+    - ref: Quran 28:64
+      lang: ar
+      text: وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ
+        لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
 ---
 
 ## Questions

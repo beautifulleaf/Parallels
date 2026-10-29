@@ -2,7 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-38-patriarchs-and-fates
 title: Song of the strong city; your dead shall live ↔ The chosen patriarchs; the Gardens of Eden and
   the quarrel of the damned
-summary: 'These two units share 1 motifs: the gardens of eden have their gates opened for the righteous.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - paradise-gates-open
-passages:
-- tradition: judaism
-  ref: Isa 26:2
-  note: 'The Gardens of Eden have their gates opened for the righteous (pitḥû šəʿārîm wə-yāḇōʾ ḡôy-ṣaddîq
-    šōmēr ʾĕmunîm vs. jannāti ʿadnin mufattaḥatan lahumu l-abwāb: gates opened (pāṯaḥ / fattaḥa, cognate)
-    for the righteous. Isaiah''s gates are those of the strong city on earth, the Quran''s those of the
-    Gardens of Eden.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פִּתְח֖וּ שְׁעָרִ֑ים וְיָבֹ֥א גוֹי צַדִּ֖יק שֹׁמֵ֥ר אֱמֻנִֽים
-- tradition: islam
-  ref: Quran 38:50
-  note: The Gardens of Eden have their gates opened for the righteous
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَنَّٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. pitḥû šəʿārîm wə-yāḇōʾ ḡôy-ṣaddîq šōmēr ʾĕmunîm vs. jannāti ʿadnin mufattaḥatan lahumu l-abwāb:
-    gates opened (pāṯaḥ / fattaḥa, cognate) for the righteous. Isaiah''s gates are those of the strong
-    city on earth, the Quran''s those of the Gardens of Eden.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Gardens of Eden have their gates opened for the righteous (weight
     6.7). Pair score 6.7.'
@@ -71,6 +53,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Gardens of Eden have their gates opened for the righteous
+kinds:
+- parallel
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-38-patriarchs-and-fates
+  title: The chosen patriarchs; the Gardens of Eden and the quarrel of the damned
+  tradition: islam
+matches:
+- kind: parallel
+  label: The Gardens of Eden have their gates opened for the righteous
+  note: 'pitḥû šəʿārîm wə-yāḇōʾ ḡôy-ṣaddîq šōmēr ʾĕmunîm vs. jannāti ʿadnin mufattaḥatan lahumu l-abwāb:
+    gates opened (pāṯaḥ / fattaḥa, cognate) for the righteous. Isaiah''s gates are those of the strong
+    city on earth, the Quran''s those of the Gardens of Eden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:2
+      lang: he
+      text: פִּתְח֖וּ שְׁעָרִ֑ים וְיָבֹ֥א גוֹי צַדִּ֖יק שֹׁמֵ֥ר אֱמֻנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 38:50
+      lang: ar
+      text: جَنَّٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ
 ---
 
 ## Questions

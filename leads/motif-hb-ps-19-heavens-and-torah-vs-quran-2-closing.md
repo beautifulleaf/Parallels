@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-19-heavens-and-torah-vs-quran-2-closing
 title: Psalm 19 - the heavens declare; the Torah is perfect ↔ Closing confession and prayer
-summary: 'These two units share 1 motifs: prayer to be cleansed of hidden and unwitting faults (shegi''ot,
-  nistarot).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - hidden-faults-cleansing
-passages:
-- tradition: judaism
-  ref: Ps 19:13-14
-  note: Prayer to be cleansed of hidden and unwitting faults (shegi'ot, nistarot)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (19:13) שְׁגִיא֥וֹת מִֽי יָבִ֑ין מִֽנִּסְתָּר֥וֹת נַקֵּֽנִי (19:14) גַּ֤ם מִזֵּדִ֨ים חֲשֹׂ֬ךְ
-    עַבְדֶּ֗ךָ אַֽל יִמְשְׁלוּ בִ֣י אָ֣ז אֵיתָ֑ם וְ֝נִקֵּ֗יתִי מִפֶּ֥שַֽׁע רָֽב
-- tradition: judaism
-  ref: Ps 19:13
-  note: Prayer to be cleansed of hidden and unwitting faults (shegi'ot, nistarot)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁגִיא֥וֹת מִֽי יָבִ֑ין מִֽנִּסְתָּר֥וֹת נַקֵּֽנִי
-- tradition: islam
-  ref: Quran 2:286
-  note: 'Prayer to be cleansed of hidden and unwitting faults (shegi''ot, nistarot) (Ps 19:13 šĕgîʾôt
-    mî yābîn mi-nnistārôt naqqēnî: who can discern errors? clear me of hidden faults; Q 2:286 rabbanā
-    lā tuʾākhidhnā in nasīnā aw akhṭaʾnā: do not take us to task if we forget or err. Prayer for pardon
-    of unwitting sin, individual in the psalm, communal in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
-    رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا
-    كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا
-    بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 19:13 šĕgîʾôt mî yābîn mi-nnistārôt naqqēnî: who can discern errors? clear me of hidden
-    faults; Q 2:286 rabbanā lā tuʾākhidhnā in nasīnā aw akhṭaʾnā: do not take us to task if we forget
-    or err. Prayer for pardon of unwitting sin, individual in the psalm, communal in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer to be cleansed of hidden and unwitting faults (shegi''ot,
     nistarot) (weight 6.7). Pair score 6.7.'
@@ -75,6 +46,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer to be cleansed of hidden and unwitting faults (shegi'ot, nistarot)
+kinds:
+- parallel
+units:
+- id: hb-ps-19-heavens-and-torah
+  title: Psalm 19 - the heavens declare; the Torah is perfect
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prayer to be cleansed of hidden and unwitting faults (shegi'ot, nistarot)
+  note: 'Ps 19:13 šĕgîʾôt mî yābîn mi-nnistārôt naqqēnî: who can discern errors? clear me of hidden faults;
+    Q 2:286 rabbanā lā tuʾākhidhnā in nasīnā aw akhṭaʾnā: do not take us to task if we forget or err.
+    Prayer for pardon of unwitting sin, individual in the psalm, communal in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 19:13
+      lang: he
+      text: שְׁגִיא֥וֹת מִֽי יָבִ֑ין מִֽנִּסְתָּר֥וֹת נַקֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:286
+      lang: ar
+      text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
+        رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ
+        إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ
+        لَنَا بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ
+        ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

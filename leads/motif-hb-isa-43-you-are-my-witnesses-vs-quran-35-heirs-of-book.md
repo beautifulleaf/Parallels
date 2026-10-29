@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-35-heirs-of-book
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ The heirs of the Book,
   the Gardens of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: challenge to idolaters: show me what those besides god have
-  created.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - show-me-what-your-gods-created
-passages:
-- tradition: judaism
-  ref: Isa 43:9
-  note: 'Challenge to idolaters: show me what those besides God have created (mî ḇāhem yaggîḏ zōʾṯ ...
-    yittənû ʿēḏêhem wə-yiṣdāqû vs. arūnī mādhā khalaqū mina l-arḍi ... am ātaynāhum kitāban fa-hum ʿalā
-    bayyinatin minhu: the partner-gods challenged to bring proof or evidence (ʿēḏîm / bayyina).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: islam
-  ref: Quran 35:40
-  note: 'Challenge to idolaters: show me what those besides God have created'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟
-    مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًا فَهُمْ عَلَىٰ بَيِّنَتٍ
-    مِّنْهُ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. mî ḇāhem yaggîḏ zōʾṯ ... yittənû ʿēḏêhem wə-yiṣdāqû vs. arūnī mādhā khalaqū mina l-arḍi ...
-    am ātaynāhum kitāban fa-hum ʿalā bayyinatin minhu: the partner-gods challenged to bring proof or evidence
-    (ʿēḏîm / bayyina).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
     (weight 5.3). Pair score 5.3.'
@@ -75,6 +54,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Challenge to idolaters: show me what those besides God have created'
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Challenge to idolaters: show me what those besides God have created'
+  note: 'mî ḇāhem yaggîḏ zōʾṯ ... yittənû ʿēḏêhem wə-yiṣdāqû vs. arūnī mādhā khalaqū mina l-arḍi ... am
+    ātaynāhum kitāban fa-hum ʿalā bayyinatin minhu: the partner-gods challenged to bring proof or evidence
+    (ʿēḏîm / bayyina).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 35:40
+      lang: ar
+      text: قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟
+        مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًا فَهُمْ عَلَىٰ
+        بَيِّنَتٍ مِّنْهُ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-lam-3-the-man-who-saw-affliction-vs-quran-36-ya-sin-opening
 title: 'Lamentations 3: ''I am the man who has seen affliction''; mercies new every morning ↔ Ya-Sin;
   the collars and the barrier; deeds recorded'
-summary: 'These two units share 1 motifs: god has put collars up to their chins so their heads are forced
-  up, and a barrier before and behind them, covering them so they do not see.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - collars-to-chins-barrier-before-and-behind
-passages:
-- tradition: judaism
-  ref: Lam 3:7
-  note: 'God has put collars up to their chins so their heads are forced up, and a barrier before and
-    behind them, covering them so they do not see (gāḏar baʿădî wə-lōʾ ʾēṣēʾ hiḵbîḏ nəḥuštî ... gāḏar
-    dərāḵay bə-ḡāzîṯ vs. jaʿalnā fī aʿnāqihim aghlālan ... wa-min bayni aydīhim saddan: God''s heavy fetter
-    and a wall on the way. The Lamenter suffers it under judgment; the Quran''s deniers are bound so that
-    they do not believe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּדַ֧ר בַּעֲדִ֛י וְלֹ֥א אֵצֵ֖א הִכְבִּ֥יד נְחָשְׁתִּֽי
-- tradition: judaism
-  ref: Lam 3:9
-  note: 'God has put collars up to their chins so their heads are forced up, and a barrier before and
-    behind them, covering them so they do not see (gāḏar baʿădî wə-lōʾ ʾēṣēʾ hiḵbîḏ nəḥuštî ... gāḏar
-    dərāḵay bə-ḡāzîṯ vs. jaʿalnā fī aʿnāqihim aghlālan ... wa-min bayni aydīhim saddan: God''s heavy fetter
-    and a wall on the way. The Lamenter suffers it under judgment; the Quran''s deniers are bound so that
-    they do not believe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּדַ֤ר דְּרָכַי֙ בְּגָזִ֔ית נְתִיבֹתַ֖י עִוָּֽה
-- tradition: islam
-  ref: Quran 36:8
-  note: God has put collars up to their chins so their heads are forced up, and a barrier before and behind
-    them, covering them so they do not see
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا جَعَلْنَا فِىٓ أَعْنَٰقِهِمْ أَغْلَٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ
-- tradition: islam
-  ref: Quran 36:9
-  note: God has put collars up to their chins so their heads are forced up, and a barrier before and behind
-    them, covering them so they do not see
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. gāḏar baʿădî wə-lōʾ ʾēṣēʾ hiḵbîḏ nəḥuštî ... gāḏar dərāḵay bə-ḡāzîṯ vs. jaʿalnā fī aʿnāqihim
-    aghlālan ... wa-min bayni aydīhim saddan: God''s heavy fetter and a wall on the way. The Lamenter
-    suffers it under judgment; the Quran''s deniers are bound so that they do not believe.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has put collars up to their chins so their heads are forced
     up, and a barrier before and behind them, covering them so they do not see (weight 6.3). Pair score
@@ -86,6 +47,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has put collars up to their chins so their heads are forced up, and a barrier before and
+  behind them, covering them so they do not see
+kinds:
+- echo
+units:
+- id: hb-lam-3-the-man-who-saw-affliction
+  title: 'Lamentations 3: ''I am the man who has seen affliction''; mercies new every morning'
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: God has put collars up to their chins so their heads are forced up, and a barrier before and
+    behind them, covering them so they do not see
+  note: 'gāḏar baʿădî wə-lōʾ ʾēṣēʾ hiḵbîḏ nəḥuštî ... gāḏar dərāḵay bə-ḡāzîṯ vs. jaʿalnā fī aʿnāqihim
+    aghlālan ... wa-min bayni aydīhim saddan: God''s heavy fetter and a wall on the way. The Lamenter
+    suffers it under judgment; the Quran''s deniers are bound so that they do not believe.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lam 3:7
+      lang: he
+      text: גָּדַ֧ר בַּעֲדִ֛י וְלֹ֥א אֵצֵ֖א הִכְבִּ֥יד נְחָשְׁתִּֽי
+    - ref: Lam 3:9
+      lang: he
+      text: גָּדַ֤ר דְּרָכַי֙ בְּגָזִ֔ית נְתִיבֹתַ֖י עִוָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 36:8
+      lang: ar
+      text: إِنَّا جَعَلْنَا فِىٓ أَعْنَٰقِهِمْ أَغْلَٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ
+    - ref: Quran 36:9
+      lang: ar
+      text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ
+        لَا يُبْصِرُونَ
 ---
 
 ## Questions

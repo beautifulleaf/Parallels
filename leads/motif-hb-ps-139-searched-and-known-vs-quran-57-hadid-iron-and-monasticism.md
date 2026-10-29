@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-57-hadid-iron-and-monasticism
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Life like withering plants; the Garden as
   wide as heaven and earth; every calamity written; iron sent down; Jesus' followers and invented monasticism
-summary: 'These two units share 1 motifs: no calamity befalls the earth or yourselves but it is in a book
-  before god brings it into being.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - every-calamity-written-before-creation
-passages:
-- tradition: judaism
-  ref: Ps 139:16
-  note: 'No calamity befalls the earth or yourselves but it is in a Book before God brings it into being
-    (Events written in God''s book before they happen: wə-ʿal sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû
-    wə-lōʾ ʾeḥāḏ bāhem vs. mā aṣāba min muṣībatin fī l-arḍi wa-lā fī anfusikum illā fī kitābin min qabli
-    an nabraʾahā. The psalm''s days written before they existed are a comfort; the Quran draws the lesson
-    not to grieve or exult (57:23).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
-    אֶחָ֣ד בָּהֶֽם
-- tradition: islam
-  ref: Quran 57:22
-  note: No calamity befalls the earth or yourselves but it is in a Book before God brings it into being
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ
-    أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Events written in God''s book before they happen: wə-ʿal sip̄rəḵā kullām yikkāṯēḇû yāmîm
-    yuṣṣārû wə-lōʾ ʾeḥāḏ bāhem vs. mā aṣāba min muṣībatin fī l-arḍi wa-lā fī anfusikum illā fī kitābin
-    min qabli an nabraʾahā. The psalm''s days written before they existed are a comfort; the Quran draws
-    the lesson not to grieve or exult (57:23).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No calamity befalls the earth or yourselves but it is in a Book
     before God brings it into being (weight 6.7). Pair score 6.7.'
@@ -80,6 +57,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No calamity befalls the earth or yourselves but it is in a Book before God brings it into being
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-57-hadid-iron-and-monasticism
+  title: Life like withering plants; the Garden as wide as heaven and earth; every calamity written; iron
+    sent down; Jesus' followers and invented monasticism
+  tradition: islam
+matches:
+- kind: parallel
+  label: No calamity befalls the earth or yourselves but it is in a Book before God brings it into being
+  note: 'Events written in God''s book before they happen: wə-ʿal sip̄rəḵā kullām yikkāṯēḇû yāmîm yuṣṣārû
+    wə-lōʾ ʾeḥāḏ bāhem vs. mā aṣāba min muṣībatin fī l-arḍi wa-lā fī anfusikum illā fī kitābin min qabli
+    an nabraʾahā. The psalm''s days written before they existed are a comfort; the Quran draws the lesson
+    not to grieve or exult (57:23).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 57:22
+      lang: ar
+      text: مَآ أَصَابَ مِن مُّصِيبَةٍ فِى ٱلْأَرْضِ وَلَا فِىٓ أَنفُسِكُمْ إِلَّا فِى كِتَٰبٍ مِّن قَبْلِ
+        أَن نَّبْرَأَهَآ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
 ---
 
 ## Questions

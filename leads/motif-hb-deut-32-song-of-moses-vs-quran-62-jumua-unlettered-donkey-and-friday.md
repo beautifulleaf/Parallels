@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-62-jumua-unlettered-donkey-and-friday
 title: 'The Song of Moses (Ha''azinu) ↔ Al-Jumu''a: the messenger among the unlettered, the donkey carrying
   books, wishing for death, and the Friday prayer'
-summary: 'These two units share 1 motifs: god raised among the unlettered (ummiyyun, gentiles) a messenger
-  from among them, reciting signs, purifying them and teaching the book and wisdom.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - messenger-among-the-unlettered
-passages:
-- tradition: judaism
-  ref: Deut 32:21
-  note: 'God raised among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs,
-    purifying them and teaching the Book and wisdom (God''s favor turned to a ''non-people'': wa-ʾănî
-    ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm vs. huwa lladhī baʿatha fī l-ummiyyīna rasūlan minhum ...
-    dhālika faḍlu llāhi yuʾtīhi man yashāʾ, followed by the donkey parable against those given the Torah
-    (62:5). The ummiyyūn (gentiles, non-scriptural people) receive a messenger as Deuteronomy''s ''non-people''
-    rouse Israel''s jealousy. Lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
-    נָבָ֖ל אַכְעִיסֵֽם
-- tradition: islam
-  ref: Quran 62:2
-  note: God raised among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs,
-    purifying them and teaching the Book and wisdom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ وَيُزَكِّيهِمْ
-    وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 62:3
-  note: God raised among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs,
-    purifying them and teaching the Book and wisdom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God''s favor turned to a ''non-people'': wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm vs.
-    huwa lladhī baʿatha fī l-ummiyyīna rasūlan minhum ... dhālika faḍlu llāhi yuʾtīhi man yashāʾ, followed
-    by the donkey parable against those given the Torah (62:5). The ummiyyūn (gentiles, non-scriptural
-    people) receive a messenger as Deuteronomy''s ''non-people'' rouse Israel''s jealousy. Lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised among the unlettered (ummiyyun, Gentiles) a messenger
     from among them, reciting signs, purifying them and teaching the Book and wisdom (weight 6.7). Pair
@@ -87,6 +55,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raised among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs,
+  purifying them and teaching the Book and wisdom
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-62-jumua-unlettered-donkey-and-friday
+  title: 'Al-Jumu''a: the messenger among the unlettered, the donkey carrying books, wishing for death,
+    and the Friday prayer'
+  tradition: islam
+matches:
+- kind: echo
+  label: God raised among the unlettered (ummiyyun, Gentiles) a messenger from among them, reciting signs,
+    purifying them and teaching the Book and wisdom
+  note: 'God''s favor turned to a ''non-people'': wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm vs.
+    huwa lladhī baʿatha fī l-ummiyyīna rasūlan minhum ... dhālika faḍlu llāhi yuʾtīhi man yashāʾ, followed
+    by the donkey parable against those given the Torah (62:5). The ummiyyūn (gentiles, non-scriptural
+    people) receive a messenger as Deuteronomy''s ''non-people'' rouse Israel''s jealousy. Lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:21
+      lang: he
+      text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
+        נָבָ֖ל אַכְעִיסֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 62:2
+      lang: ar
+      text: هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّۦنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِهِۦ
+        وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَٰلٍ
+        مُّبِينٍ
+    - ref: Quran 62:3
+      lang: ar
+      text: وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    - ref: Quran 62:4
+      lang: ar
+      text: ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-14-drought-vs-quran-11-noah
 title: The drought - the doe forsakes her fawn; lying prophets ↔ Noah, the boiling oven, the lost son
   and al-Judi
-summary: 'These two units share 1 motifs: god forbids the prophet to pray or intercede for the people,
-  for he will not hear.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,24 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-forbidden-to-intercede
-passages:
-- tradition: judaism
-  ref: Jer 14:11
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י אַל תִּתְפַּלֵּ֛ל בְּעַד הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה
-- tradition: islam
-  ref: Quran 11:37
-  note: God forbids the prophet to pray or intercede for the people, for he will not hear ('do not address
-    me concerning the wrongdoers')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
-    مُّغْرَقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs wa-lā tukhāṭibnī fī lladhīna ẓalamū.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forbids the prophet to pray or intercede for the people, for
     he will not hear (weight 5.4). Pair score 5.4.'
@@ -67,6 +51,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God forbids the prophet to pray or intercede for the people, for he will not hear
+kinds:
+- parallel
+units:
+- id: hb-jer-14-drought
+  title: The drought - the doe forsakes her fawn; lying prophets
+  tradition: judaism
+- id: quran-11-noah
+  title: Noah, the boiling oven, the lost son and al-Judi
+  tradition: islam
+matches:
+- kind: parallel
+  label: God forbids the prophet to pray or intercede for the people, for he will not hear
+  note: ʾal-titpallēl bᵉʿad-hāʿām hazzeh lᵉṭôbāh vs wa-lā tukhāṭibnī fī lladhīna ẓalamū.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 14:11
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י אַל תִּתְפַּלֵּ֛ל בְּעַד הָעָ֥ם הַזֶּ֖ה לְטוֹבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:37
+      lang: ar
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-26-hymn-to-cosmic-power-vs-quran-31-luqman
 title: Job - the earth hung on nothing; Rahab smitten ↔ Luqman's advice to his son
-summary: 'These two units share 1 motifs: whether the heavens rest on pillars [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - pillars-of-heaven-as-divergence
-passages:
-- tradition: judaism
-  ref: Job 26:11
-  note: 'Whether the heavens rest on pillars [divergence between the texts] (Pillars of heaven, with cognate
-    words: ʿammûḏê šāmayim yərôp̄āp̄û (the pillars of heaven tremble at his rebuke) vs. khalaqa s-samāwāti
-    bi-ghayri ʿamadin tarawnahā (without pillars that you see). ʿamad and ʿammûḏ are the same word. The
-    Quran explicitly denies the visible pillars that Job''s cosmos presupposes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַמּוּדֵ֣י שָׁמַ֣יִם יְרוֹפָ֑פוּ וְ֝יִתְמְה֗וּ מִגַּעֲרָתֽוֹ
-- tradition: islam
-  ref: Quran 31:10
-  note: 'Whether the heavens rest on pillars [divergence between the texts] (Pillars of heaven, with cognate
-    words: ʿammûḏê šāmayim yərôp̄āp̄û (the pillars of heaven tremble at his rebuke) vs. khalaqa s-samāwāti
-    bi-ghayri ʿamadin tarawnahā (without pillars that you see). ʿamad and ʿammûḏ are the same word. The
-    Quran explicitly denies the visible pillars that Job''s cosmos presupposes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ
-    بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا
-    مِن كُلِّ زَوْجٍ كَرِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Pillars of heaven, with cognate words: ʿammûḏê šāmayim yərôp̄āp̄û (the pillars of heaven
-    tremble at his rebuke) vs. khalaqa s-samāwāti bi-ghayri ʿamadin tarawnahā (without pillars that you
-    see). ʿamad and ʿammûḏ are the same word. The Quran explicitly denies the visible pillars that Job''s
-    cosmos presupposes.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the heavens rest on pillars [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -74,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the heavens rest on pillars
+kinds:
+- divergence
+units:
+- id: hb-job-26-hymn-to-cosmic-power
+  title: Job - the earth hung on nothing; Rahab smitten
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether the heavens rest on pillars
+  note: 'Pillars of heaven, with cognate words: ʿammûḏê šāmayim yərôp̄āp̄û (the pillars of heaven tremble
+    at his rebuke) vs. khalaqa s-samāwāti bi-ghayri ʿamadin tarawnahā (without pillars that you see).
+    ʿamad and ʿammûḏ are the same word. The Quran explicitly denies the visible pillars that Job''s cosmos
+    presupposes.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 26:11
+      lang: he
+      text: עַמּוּדֵ֣י שָׁמַ֣יִם יְרוֹפָ֑פוּ וְ֝יִתְמְה֗וּ מִגַּעֲרָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 31:10
+      lang: ar
+      text: خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ
+        بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا
+        مِن كُلِّ زَوْجٍ كَرِيمٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-74-leviathan-vs-quran-6-signs-in-nature
 title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan ↔ Splitter of seed and
   dawn; stars for navigation; do not revile their gods
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,25 +14,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 74:16
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 6:96
-  note: Sun and moon are set to rule day and night and mark signs and seasons (sun and moon for reckoning
-    (ḥusbān), cf. Gen 1:14)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ
-    ٱلْعَزِيزِ ٱلْعَلِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Ps: ləkhā yôm ʾaf-ləkhā lāylāh ʾattāh hăkhînôtā māʾôr wā-šāmeš. Q: day, night, sun and moon
-    set by God (taqdīru l-ʿazīzi l-ʿalīm).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -67,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-ps-74-leviathan
+  title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan
+  tradition: judaism
+- id: quran-6-signs-in-nature
+  title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'Ps: ləkhā yôm ʾaf-ləkhā lāylāh ʾattāh hăkhînôtā māʾôr wā-šāmeš. Q: day, night, sun and moon set
+    by God (taqdīru l-ʿazīzi l-ʿalīm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 74:16
+      lang: he
+      text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:96
+      lang: ar
+      text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ
+        تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

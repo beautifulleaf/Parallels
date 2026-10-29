@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-58-true-fast-vs-quran-90-city
 title: 'The fast that God chooses; the Sabbath a delight ↔ The city: the two highways and the steep ascent'
-summary: 'These two units share 1 motifs: the fast god chooses is to loose bonds of injustice, free the
-  oppressed, share bread with the hungry and clothe the naked.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - true-fast-is-justice
-passages:
-- tradition: judaism
-  ref: Isa 58:6
-  note: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
-    hungry and clothe the naked
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵהוּ֒ פַּתֵּ֨חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה וְשַׁלַּ֤ח
-    רְצוּצִים֙ חָפְשִׁ֔ים וְכָל מוֹטָ֖ה תְּנַתֵּֽקוּ
-- tradition: judaism
-  ref: Isa 58:7
-  note: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
-    hungry and clothe the naked
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי תִרְאֶ֤ה עָרֹם֙
-    וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם
-- tradition: islam
-  ref: Quran 90:13
-  note: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
-    hungry and clothe the naked (freeing the bound and feeding the hungry as the true deed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُّ رَقَبَةٍ
-- tradition: islam
-  ref: Quran 90:14
-  note: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
-    hungry and clothe the naked (freeing the bound and feeding the hungry as the true deed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-lā qtaḥama l-ʿaqabata ... fakku raqabatin aw iṭʿāmun fī yawmin dhī masghabatin yatīman
-    dhā maqrabatin aw miskīnan dhā matraba ~ hă-lôʾ zeh ṣôm ʾevḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... we-šallaḥ
-    reṣûṣîm ḥofšîm ... hă-lôʾ fārōs lā-rāʿēv laḥmekā wa-ʿăniyyîm merûdîm tāvîʾ vāyit ... û-mi-bbeśārekā
-    lōʾ titʿallām. The true hard deed is freeing the bound and feeding the hungry, with the kinsman (dhā
-    maqraba ~ mi-bbeśārekā) singled out. Isaiah contrasts it with fasting, the Quran with the ''steep
-    ascent''.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fast God chooses is to loose bonds of injustice, free the oppressed,
     share bread with the hungry and clothe the naked (weight 6.7). Pair score 6.7.'
@@ -84,6 +47,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
+  hungry and clothe the naked
+kinds:
+- parallel
+units:
+- id: hb-isa-58-true-fast
+  title: The fast that God chooses; the Sabbath a delight
+  tradition: judaism
+- id: quran-90-city
+  title: 'The city: the two highways and the steep ascent'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The fast God chooses is to loose bonds of injustice, free the oppressed, share bread with the
+    hungry and clothe the naked
+  note: fa-lā qtaḥama l-ʿaqabata ... fakku raqabatin aw iṭʿāmun fī yawmin dhī masghabatin yatīman dhā
+    maqrabatin aw miskīnan dhā matraba ~ hă-lôʾ zeh ṣôm ʾevḥārēhû pattēaḥ ḥarṣubbôt rešaʿ ... we-šallaḥ
+    reṣûṣîm ḥofšîm ... hă-lôʾ fārōs lā-rāʿēv laḥmekā wa-ʿăniyyîm merûdîm tāvîʾ vāyit ... û-mi-bbeśārekā
+    lōʾ titʿallām. The true hard deed is freeing the bound and feeding the hungry, with the kinsman (dhā
+    maqraba ~ mi-bbeśārekā) singled out. Isaiah contrasts it with fasting, the Quran with the 'steep ascent'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 58:6
+      lang: he
+      text: הֲל֣וֹא זֶה֮ צ֣וֹם אֶבְחָרֵהוּ֒ פַּתֵּ֨חַ֙ חַרְצֻבּ֣וֹת רֶ֔שַׁע הַתֵּ֖ר אֲגֻדּ֣וֹת מוֹטָ֑ה
+        וְשַׁלַּ֤ח רְצוּצִים֙ חָפְשִׁ֔ים וְכָל מוֹטָ֖ה תְּנַתֵּֽקוּ
+    - ref: Isa 58:7
+      lang: he
+      text: הֲל֨וֹא פָרֹ֤ס לָֽרָעֵב֙ לַחְמֶ֔ךָ וַעֲנִיִּ֥ים מְרוּדִ֖ים תָּ֣בִיא בָ֑יִת כִּֽי תִרְאֶ֤ה
+        עָרֹם֙ וְכִסִּית֔וֹ וּמִבְּשָׂרְךָ֖ לֹ֥א תִתְעַלָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 90:11
+      lang: ar
+      text: فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ
+    - ref: Quran 90:13
+      lang: ar
+      text: فَكُّ رَقَبَةٍ
+    - ref: Quran 90:14
+      lang: ar
+      text: أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ
 ---
 
 ## Questions

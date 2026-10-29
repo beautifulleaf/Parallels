@@ -2,8 +2,7 @@
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-53-najm-goddesses-and-scrolls
 title: Zephaniah's Day of YHWH against Judah ↔ Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls
   of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: ''the imminent (al-azifa) has drawn near''; none but god can
-  remove it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - the-imminent-draws-near
-passages:
-- tradition: judaism
-  ref: Zeph 1:14
-  note: '''The imminent (al-azifa) has drawn near''; none but God can remove it (qārôḇ yôm YHWH hag-gāḏôl
-    qārôḇ û-mahēr məʾōḏ vs. azifati l-āzifa, laysa lahā min dūni llāhi kāshifa. Zephaniah repeats qārôḇ
-    (''near''); the Quran repeats the root ʾ-z-f (''the imminent has drawn near'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
-    גִּבּֽוֹר
-- tradition: islam
-  ref: Quran 53:57
-  note: '''The imminent (al-azifa) has drawn near''; none but God can remove it'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَزِفَتِ ٱلْءَازِفَةُ
-- tradition: islam
-  ref: Quran 53:58
-  note: '''The imminent (al-azifa) has drawn near''; none but God can remove it'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. qārôḇ yôm YHWH hag-gāḏôl qārôḇ û-mahēr məʾōḏ vs. azifati l-āzifa, laysa lahā min dūni llāhi
-    kāshifa. Zephaniah repeats qārôḇ (''near''); the Quran repeats the root ʾ-z-f (''the imminent has
-    drawn near'').'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The imminent (al-azifa) has drawn near''; none but God can remove
     it (weight 6.7). Pair score 6.7.'
@@ -78,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''The imminent (al-azifa) has drawn near''; none but God can remove it'
+kinds:
+- parallel
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''The imminent (al-azifa) has drawn near''; none but God can remove it'
+  note: qārôḇ yôm YHWH hag-gāḏôl qārôḇ û-mahēr məʾōḏ vs. azifati l-āzifa, laysa lahā min dūni llāhi kāshifa.
+    Zephaniah repeats qārôḇ ('near'); the Quran repeats the root ʾ-z-f ('the imminent has drawn near').
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:14
+      lang: he
+      text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
+        גִּבּֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 53:57
+      lang: ar
+      text: أَزِفَتِ ٱلْءَازِفَةُ
+    - ref: Quran 53:58
+      lang: ar
+      text: لَيْسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ
 ---
 
 ## Questions

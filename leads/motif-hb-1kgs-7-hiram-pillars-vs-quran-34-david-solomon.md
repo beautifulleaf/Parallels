@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-7-hiram-pillars-vs-quran-34-david-solomon
 title: Hiram the bronze-smith and the pillars Jachin and Boaz ↔ David's mountains and mail; Solomon's
   wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: who did solomon''s building and craft work [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,58 +14,9 @@ layers:
 - motif
 motifs:
 - who-built-for-solomon-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 7:13
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַח֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיִּקַּ֥ח אֶת חִירָ֖ם מִצֹּֽר
-- tradition: judaism
-  ref: 1Kgs 7:14
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אִשָּׁה֩ אַלְמָנָ֨ה ה֜וּא מִמַּטֵּ֣ה נַפְתָּלִ֗י וְאָבִ֣יו אִישׁ צֹרִי֮ חֹרֵ֣שׁ נְחֹשֶׁת֒
-    וַ֠יִּמָּלֵא אֶת הַחָכְמָ֤ה וְאֶת הַתְּבוּנָה֙ וְאֶת הַדַּ֔עַת לַעֲשׂ֥וֹת כָּל מְלָאכָ֖ה בַּנְּחֹ֑שֶׁת
-    וַיָּבוֹא֙ אֶל הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיַּ֖עַשׂ אֶת כָּל מְלַאכְתּֽוֹ
-- tradition: islam
-  ref: Quran 34:12
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ
-    وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
-    نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
-- tradition: islam
-  ref: Quran 34:13
-  note: 'Who did Solomon''s building and craft work [divergence between the texts] (Who makes the temple
-    works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś
-    ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina l-jinni man yaʿmalu bayna
-    yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl. The craftsman becomes
-    jinn working under God''s permission.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Who makes the temple works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ
-    ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina
-    l-jinni man yaʿmalu bayna yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl.
-    The craftsman becomes jinn working under God''s permission.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who did Solomon''s building and craft work [divergence between the
     texts] (weight 6.3). Pair score 6.3.'
@@ -96,6 +46,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who did Solomon's building and craft work
+kinds:
+- divergence
+units:
+- id: hb-1kgs-7-hiram-pillars
+  title: Hiram the bronze-smith and the pillars Jachin and Boaz
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who did Solomon's building and craft work
+  note: 'Who makes the temple works. 1 Kgs: wa-yyiqqaḥ ʾeṯ-ḥîrām mi-ṣṣōr ... ḥōrēš nəḥōšeṯ wa-yyimmālēʾ
+    ʾeṯ-ha-ḥoḵmâ ... wa-yyaʿaś ʾeṯ-kol-məlaʾḵtô, a human Tyrian craftsman filled with wisdom. Q: wa-mina
+    l-jinni man yaʿmalu bayna yadayhi bi-idhni rabbihi ... yaʿmalūna lahu mā yashāʾu min maḥārība wa-tamāthīl.
+    The craftsman becomes jinn working under God''s permission.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 7:13
+      lang: he
+      text: וַיִּשְׁלַח֙ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיִּקַּ֥ח אֶת חִירָ֖ם מִצֹּֽר
+    - ref: 1Kgs 7:14
+      lang: he
+      text: בֶּן אִשָּׁה֩ אַלְמָנָ֨ה ה֜וּא מִמַּטֵּ֣ה נַפְתָּלִ֗י וְאָבִ֣יו אִישׁ צֹרִי֮ חֹרֵ֣שׁ נְחֹשֶׁת֒
+        וַ֠יִּמָּלֵא אֶת הַחָכְמָ֤ה וְאֶת הַתְּבוּנָה֙ וְאֶת הַדַּ֔עַת לַעֲשׂ֥וֹת כָּל מְלָאכָ֖ה בַּנְּחֹ֑שֶׁת
+        וַיָּבוֹא֙ אֶל הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיַּ֖עַשׂ אֶת כָּל מְלַאכְתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:12
+      lang: ar
+      text: وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ
+        وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
+        نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
+    - ref: Quran 34:13
+      lang: ar
+      text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ
+        رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 ---
 
 ## Questions

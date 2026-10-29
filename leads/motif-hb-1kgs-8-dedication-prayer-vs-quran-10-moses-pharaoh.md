@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-10-moses-pharaoh
 title: Solomon's prayer of dedication ↔ Moses, the houses as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 1 motifs: prayers made toward the temple (or toward the land, city and
-  house when in exile) are heard in heaven.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-toward-the-temple
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:29-30
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:29) לִהְיוֹת֩ עֵינֶ֨ךָ פְתֻח֜וֹת אֶל הַבַּ֤יִת הַזֶּה֙ לַ֣יְלָה וָי֔וֹם אֶל הַ֨מָּק֔וֹם אֲשֶׁ֣ר
-    אָמַ֔רְתָּ יִהְיֶ֥ה שְׁמִ֖י שָׁ֑ם לִשְׁמֹ֨עַ֙ אֶל הַתְּפִלָּ֔ה אֲשֶׁ֣ר יִתְפַּלֵּ֣ל עַבְדְּךָ֔ אֶל
-    הַמָּק֖וֹם הַזֶּֽה (8:30) וְשָׁ֨מַעְתָּ֜ אֶל תְּחִנַּ֤ת עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר
-    יִֽתְפַּֽלְל֖וּ אֶל הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּה תִּשְׁמַ֞ע אֶל מְק֤וֹם שִׁבְתְּךָ֙ אֶל הַשָּׁמַ֔יִם
-    וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ
-- tradition: judaism
-  ref: 1Kgs 8:35
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל הַמָּק֤וֹם
-    הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם
-- tradition: islam
-  ref: Quran 10:87
-  note: 'Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven (Prayer directed toward a chosen place: wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉhitpallᵉlû
-    ʾēlêkā derek ʾarṣām ... wᵉhabbayit ʾăšer-bānîtî lišmekā. In Kings the exiles pray toward the land,
-    city and temple; in Q the Israelites in Egypt make their houses a qibla before any temple exists.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟
-    بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Prayer directed toward a chosen place: wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉhitpallᵉlû
-    ʾēlêkā derek ʾarṣām ... wᵉhabbayit ʾăšer-bānîtî lišmekā. In Kings the exiles pray toward the land,
-    city and temple; in Q the Israelites in Egypt make their houses a qibla before any temple exists.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayers made toward the temple (or toward the land, city and house
     when in exile) are heard in heaven (weight 6.0). Pair score 6.0.'
@@ -82,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
+  heaven
+kinds:
+- echo
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
+    heaven
+  note: 'Prayer directed toward a chosen place: wa-jʿalū buyūtakum qiblatan wa-aqīmū ṣ-ṣalāh vs wᵉhitpallᵉlû
+    ʾēlêkā derek ʾarṣām ... wᵉhabbayit ʾăšer-bānîtî lišmekā. In Kings the exiles pray toward the land,
+    city and temple; in Q the Israelites in Egypt make their houses a qibla before any temple exists.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:48
+      lang: he
+      text: וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל לְבָבָם֙ וּבְכָל נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר שָׁב֣וּ
+        אֹתָ֑ם וְהִֽתְפַּֽלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר
+        בָּחַ֔רְתָּ וְהַבַּ֖יִת אֲשֶׁר בנית בָּנִ֥יתִי לִשְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:87
+      lang: ar
+      text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟
+        بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-33-marriage-rules
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ Divorce before consummation; the prophet's marriages;
   the curtain and the cloaks
-summary: 'These two units share 1 motifs: how a husband sends away a divorced wife (document, gift, waiting
-  period) [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - how-a-divorced-wife-is-sent-away-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 24:1
-  note: 'How a husband sends away a divorced wife (document, gift, waiting period) [divergence between
-    the texts] (Sending the wife away. Deut: wə-ḵāṯaḇ lāh sēp̄er kərîṯuṯ wə-nāṯan bə-yāḏāh wə-šilləḥāh
-    mi-bbêṯô (a written bill). Q: fa-mattiʿūhunna wa-sarriḥūhunna sarāḥan jamīlā (a gift and a gracious
-    release, with no ʿidda before consummation). šillaḥ and sarraḥa both mean ''send off''; the document
-    of Deut becomes a gift (mutʿa) in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם לֹ֧א תִמְצָא חֵ֣ן בְּעֵינָ֗יו כִּי מָ֤צָא
-    בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּיתֽוֹ
-- tradition: islam
-  ref: Quran 33:49
-  note: 'How a husband sends away a divorced wife (document, gift, waiting period) [divergence between
-    the texts] (Sending the wife away. Deut: wə-ḵāṯaḇ lāh sēp̄er kərîṯuṯ wə-nāṯan bə-yāḏāh wə-šilləḥāh
-    mi-bbêṯô (a written bill). Q: fa-mattiʿūhunna wa-sarriḥūhunna sarāḥan jamīlā (a gift and a gracious
-    release, with no ʿidda before consummation). šillaḥ and sarraḥa both mean ''send off''; the document
-    of Deut becomes a gift (mutʿa) in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن
-    قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ
-    سَرَاحًا جَمِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Sending the wife away. Deut: wə-ḵāṯaḇ lāh sēp̄er kərîṯuṯ wə-nāṯan bə-yāḏāh wə-šilləḥāh
-    mi-bbêṯô (a written bill). Q: fa-mattiʿūhunna wa-sarriḥūhunna sarāḥan jamīlā (a gift and a gracious
-    release, with no ʿidda before consummation). šillaḥ and sarraḥa both mean ''send off''; the document
-    of Deut becomes a gift (mutʿa) in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a husband sends away a divorced wife (document, gift, waiting
     period) [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -81,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How a husband sends away a divorced wife (document, gift, waiting period)
+kinds:
+- divergence
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-33-marriage-rules
+  title: Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+  tradition: islam
+matches:
+- kind: divergence
+  label: How a husband sends away a divorced wife (document, gift, waiting period)
+  note: 'Sending the wife away. Deut: wə-ḵāṯaḇ lāh sēp̄er kərîṯuṯ wə-nāṯan bə-yāḏāh wə-šilləḥāh mi-bbêṯô
+    (a written bill). Q: fa-mattiʿūhunna wa-sarriḥūhunna sarāḥan jamīlā (a gift and a gracious release,
+    with no ʿidda before consummation). šillaḥ and sarraḥa both mean ''send off''; the document of Deut
+    becomes a gift (mutʿa) in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:1
+      lang: he
+      text: כִּֽי יִקַּ֥ח אִ֛ישׁ אִשָּׁ֖ה וּבְעָלָ֑הּ וְהָיָ֞ה אִם לֹ֧א תִמְצָא חֵ֣ן בְּעֵינָ֗יו כִּי
+        מָ֤צָא בָהּ֙ עֶרְוַ֣ת דָּבָ֔ר וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ
+        מִבֵּיתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:49
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ
+        مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا فَمَتِّعُوهُنَّ
+        وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا
 ---
 
 ## Questions

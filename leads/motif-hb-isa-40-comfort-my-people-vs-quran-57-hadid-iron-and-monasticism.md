@@ -3,9 +3,7 @@ id: motif-hb-isa-40-comfort-my-people-vs-quran-57-hadid-iron-and-monasticism
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Life like withering
   plants; the Garden as wide as heaven and earth; every calamity written; iron sent down; Jesus' followers
   and invented monasticism
-summary: 'These two units share 3 motifs: a double portion (k-p-l) from god [divergence between the texts],
-  human life like grass or plants that wither [divergence between the texts], all flesh is grass and its
-  loyalty like the flower of the field; grass withers but the word of god stands forever.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,114 +14,17 @@ traditions:
 layers:
 - motif
 motifs:
-- double-portion-from-god-as-divergence
 - life-like-withering-grass-as-divergence
+- double-portion-from-god-as-divergence
 - all-flesh-is-grass
-passages:
-- tradition: judaism
-  ref: Isa 40:2
-  note: 'A double portion (k-p-l) from God [divergence between the texts] (Cognate ''double'' (k-p-l):
-    kî lāqəḥâ miy-yaḏ YHWH kip̄layim bə-ḵol ḥaṭṭōʾṯêhā (Jerusalem received double for all her sins) vs.
-    yuʾtikum kiflayni min raḥmatihi wa-yajʿal lakum nūran tamshūna bihi (he will give you a double portion
-    of his mercy). The double portion of punishment, now complete, becomes a double portion of mercy for
-    believers in the Prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבְּר֞וּ עַל לֵ֤ב יְרֽוּשָׁלִַ֨ם֙ וְקִרְא֣וּ אֵלֶ֔יהָ כִּ֤י מָֽלְאָה֙ צְבָאָ֔הּ כִּ֥י נִרְצָ֖ה
-    עֲוֺנָ֑הּ כִּ֤י לָקְחָה֙ מִיַּ֣ד יְהוָ֔ה כִּפְלַ֖יִם בְּכָל חַטֹּאתֶֽיהָ
-- tradition: islam
-  ref: Quran 57:28
-  note: 'A double portion (k-p-l) from God [divergence between the texts] (Cognate ''double'' (k-p-l):
-    kî lāqəḥâ miy-yaḏ YHWH kip̄layim bə-ḵol ḥaṭṭōʾṯêhā (Jerusalem received double for all her sins) vs.
-    yuʾtikum kiflayni min raḥmatihi wa-yajʿal lakum nūran tamshūna bihi (he will give you a double portion
-    of his mercy). The double portion of punishment, now complete, becomes a double portion of mercy for
-    believers in the Prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ
-    مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Isa 40:6
-  note: 'Human life like grass or plants that wither [divergence between the texts] (Life as withering
-    plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr wə-ḵol ḥasdô kə-ṣîṣ haś-śāḏeh;
-    yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the grass stands God''s word). Quran:
-    ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāman,
-    wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against the withering stands the hereafter,
-    punishment or forgiveness). The Quran adds the farmer''s pleasure in the growth and the list of what
-    is passing: play, adornment, boasting, rivalry in wealth and children.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ הַשָּׂדֶֽה
-- tradition: judaism
-  ref: Isa 40:7
-  note: 'Human life like grass or plants that wither [divergence between the texts] (Life as withering
-    plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr wə-ḵol ḥasdô kə-ṣîṣ haś-śāḏeh;
-    yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the grass stands God''s word). Quran:
-    ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāman,
-    wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against the withering stands the hereafter,
-    punishment or forgiveness). The Quran adds the farmer''s pleasure in the growth and the list of what
-    is passing: play, adornment, boasting, rivalry in wealth and children.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם
-- tradition: islam
-  ref: Quran 57:20
-  note: 'Human life like grass or plants that wither [divergence between the texts] (Life as withering
-    plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr wə-ḵol ḥasdô kə-ṣîṣ haś-śāḏeh;
-    yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the grass stands God''s word). Quran:
-    ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran thumma yakūnu ḥuṭāman,
-    wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against the withering stands the hereafter,
-    punishment or forgiveness). The Quran adds the farmer''s pleasure in the growth and the list of what
-    is passing: play, adornment, boasting, rivalry in wealth and children.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ
-    وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ
-    يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْءَاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ
-    مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
-- tradition: judaism
-  ref: Isa 40:6-8
-  note: All flesh is grass and its loyalty like the flower of the field; grass withers but the word of
-    God stands forever
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (40:6) ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ
-    הַשָּׂדֶֽה (40:7) יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר
-    הָעָֽם (40:8) יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
-- tradition: judaism
-  ref: Isa 40:6
-  note: All flesh is grass and its loyalty like the flower of the field; grass withers but the word of
-    God stands forever
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ הַשָּׂדֶֽה
-- tradition: islam
-  ref: Quran 57:20
-  note: All flesh is grass and its loyalty like the flower of the field; grass withers but the word of
-    God stands forever
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ
-    وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ
-    يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْءَاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ
-    مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Life as withering plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr
-    wə-ḵol ḥasdô kə-ṣîṣ haś-śāḏeh; yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the
-    grass stands God''s word). Quran: ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu
-    muṣfarran thumma yakūnu ḥuṭāman, wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against
-    the withering stands the hereafter, punishment or forgiveness). The Quran adds the farmer''s pleasure
-    in the growth and the list of what is passing: play, adornment, boasting, rivalry in wealth and children.
-    Cognate ''double'' (k-p-l): kî lāqəḥâ miy-yaḏ YHWH kip̄layim bə-ḵol ḥaṭṭōʾṯêhā (Jerusalem received
-    double for all her sins) vs. yuʾtikum kiflayni min raḥmatihi wa-yajʿal lakum nūran tamshūna bihi (he
-    will give you a double portion of his mercy). The double portion of punishment, now complete, becomes
-    a double portion of mercy for believers in the Prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A double portion (k-p-l) from God [divergence between the texts]
-    (weight 6.7); Human life like grass or plants that wither [divergence between the texts] (weight 6.7);
-    All flesh is grass and its loyalty like the flower of the field; grass withers but the word of God
-    stands forever (weight 6.3). Pair score 19.7.'
+- text: 'Shared motifs, rarest first: Human life like grass or plants that wither [divergence between
+    the texts] (weight 6.7); A double portion (k-p-l) from God [divergence between the texts] (weight
+    6.7); All flesh is grass and its loyalty like the flower of the field; grass withers but the word
+    of God stands forever (weight 6.3). Pair score 19.7.'
   basis: reading
 - text: 'Only in Comfort my people; a voice in the wilderness; to whom will you liken God: ''Comfort,
     comfort my people'': Jerusalem''s term of service is ended and she has received double for her sins;
@@ -162,6 +63,94 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human life like grass or plants that wither
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-57-hadid-iron-and-monasticism
+  title: Life like withering plants; the Garden as wide as heaven and earth; every calamity written; iron
+    sent down; Jesus' followers and invented monasticism
+  tradition: islam
+matches:
+- kind: divergence
+  label: Human life like grass or plants that wither
+  note: 'Life as withering plants, with a different counterweight. Isaiah: kol hab-bāśār ḥāṣîr wə-ḵol
+    ḥasdô kə-ṣîṣ haś-śāḏeh; yāḇēš ḥāṣîr nāḇēl ṣîṣ û-ḏəḇar ʾĕlōhênû yāqûm lə-ʿôlām (against the grass stands
+    God''s word). Quran: ka-mathali ghaythin aʿjaba l-kuffāra nabātuhu thumma yahīju fa-tarāhu muṣfarran
+    thumma yakūnu ḥuṭāman, wa-fī l-ākhirati ʿadhābun shadīdun wa-maghfiratun mina llāh (against the withering
+    stands the hereafter, punishment or forgiveness). The Quran adds the farmer''s pleasure in the growth
+    and the list of what is passing: play, adornment, boasting, rivalry in wealth and children.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:6
+      lang: he
+      text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ
+        הַשָּׂדֶֽה
+    - ref: Isa 40:7
+      lang: he
+      text: יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם
+    - ref: Isa 40:8
+      lang: he
+      text: יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 57:20
+      lang: ar
+      text: ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ
+        وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ
+        يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْءَاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ
+        مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
+- kind: divergence
+  label: A double portion (k-p-l) from God
+  note: 'Cognate ''double'' (k-p-l): kî lāqəḥâ miy-yaḏ YHWH kip̄layim bə-ḵol ḥaṭṭōʾṯêhā (Jerusalem received
+    double for all her sins) vs. yuʾtikum kiflayni min raḥmatihi wa-yajʿal lakum nūran tamshūna bihi (he
+    will give you a double portion of his mercy). The double portion of punishment, now complete, becomes
+    a double portion of mercy for believers in the Prophet.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:2
+      lang: he
+      text: דַּבְּר֞וּ עַל לֵ֤ב יְרֽוּשָׁלִַ֨ם֙ וְקִרְא֣וּ אֵלֶ֔יהָ כִּ֤י מָֽלְאָה֙ צְבָאָ֔הּ כִּ֥י נִרְצָ֖ה
+        עֲוֺנָ֑הּ כִּ֤י לָקְחָה֙ מִיַּ֣ד יְהוָ֔ה כִּפְלַ֖יִם בְּכָל חַטֹּאתֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:28
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ
+        مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ وَٱللَّهُ غَفُورٌ
+        رَّحِيمٌ
+- kind: shared
+  label: All flesh is grass and its loyalty like the flower of the field; grass withers but the word of
+    God stands forever
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:6-8
+      lang: he
+      text: (40:6) ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ
+        כְּצִ֥יץ הַשָּׂדֶֽה (40:7) יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ
+        אָכֵ֥ן חָצִ֖יר הָעָֽם (40:8) יָבֵ֥שׁ חָצִ֖יר נָ֣בֵֽל צִ֑יץ וּדְבַר אֱלֹהֵ֖ינוּ יָק֥וּם לְעוֹלָֽם
+    - ref: Isa 40:6
+      lang: he
+      text: ק֚וֹל אֹמֵ֣ר קְרָ֔א וְאָמַ֖ר מָ֣ה אֶקְרָ֑א כָּל הַבָּשָׂ֣ר חָצִ֔יר וְכָל חַסְדּ֖וֹ כְּצִ֥יץ
+        הַשָּׂדֶֽה
+    - ref: Isa 40:7
+      lang: he
+      text: יָבֵ֤שׁ חָצִיר֙ נָ֣בֵֽל צִ֔יץ כִּ֛י ר֥וּחַ יְהוָ֖ה נָ֣שְׁבָה בּ֑וֹ אָכֵ֥ן חָצִ֖יר הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 57:20
+      lang: ar
+      text: ٱعْلَمُوٓا۟ أَنَّمَا ٱلْحَيَوٰةُ ٱلدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌۢ بَيْنَكُمْ
+        وَتَكَاثُرٌ فِى ٱلْأَمْوَٰلِ وَٱلْأَوْلَٰدِ كَمَثَلِ غَيْثٍ أَعْجَبَ ٱلْكُفَّارَ نَبَاتُهُۥ ثُمَّ
+        يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَٰمًا وَفِى ٱلْءَاخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ
+        مِّنَ ٱللَّهِ وَرِضْوَٰنٌ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ ٱلْغُرُورِ
 ---
 
 ## Questions

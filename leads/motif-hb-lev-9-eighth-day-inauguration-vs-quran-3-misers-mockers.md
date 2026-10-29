@@ -2,8 +2,7 @@
 id: motif-hb-lev-9-eighth-day-inauguration-vs-quran-3-misers-mockers
 title: The eighth day - Aaron's first offerings and the divine fire ↔ Misers, those who called God poor,
   and the fire-consumed offering
-summary: 'These two units share 1 motifs: fire comes out from before god and consumes the offering on
-  the altar.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-fire-consumes-offering
-passages:
-- tradition: judaism
-  ref: Lev 9:24
-  note: Fire comes out from before God and consumes the offering on the altar
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהוָ֔ה וַתֹּ֨אכַל֙ עַל הַמִּזְבֵּ֔חַ אֶת הָעֹלָ֖ה וְאֶת הַחֲלָבִ֑ים
-    וַיַּ֤רְא כָּל הָעָם֙ וַיָּרֹ֔נּוּ וַֽיִּפְּל֖וּ עַל פְּנֵיהֶֽם
-- tradition: islam
-  ref: Quran 3:183
-  note: 'Fire comes out from before God and consumes the offering on the altar (Lev 9:24 wa-tteṣēʾ ʾēš
-    mi-lipnê YHWH wa-ttōʾkal ʿal ha-mmizbēaḥ ʾet hā-ʿōlâ: fire from God eats the offering at the inauguration
-    of the cult; Q 3:183 bi-qurbānin taʾkuluhu n-nāru: an offering the fire eats, as the claimed covenant
-    sign.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Lev 9:24 wa-tteṣēʾ ʾēš mi-lipnê YHWH wa-ttōʾkal ʿal ha-mmizbēaḥ ʾet hā-ʿōlâ: fire from God eats
-    the offering at the inauguration of the cult; Q 3:183 bi-qurbānin taʾkuluhu n-nāru: an offering the
-    fire eats, as the claimed covenant sign.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fire comes out from before God and consumes the offering on the
     altar (weight 6.0). Pair score 6.0.'
@@ -71,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fire comes out from before God and consumes the offering on the altar
+kinds:
+- echo
+units:
+- id: hb-lev-9-eighth-day-inauguration
+  title: The eighth day - Aaron's first offerings and the divine fire
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: echo
+  label: Fire comes out from before God and consumes the offering on the altar
+  note: 'Lev 9:24 wa-tteṣēʾ ʾēš mi-lipnê YHWH wa-ttōʾkal ʿal ha-mmizbēaḥ ʾet hā-ʿōlâ: fire from God eats
+    the offering at the inauguration of the cult; Q 3:183 bi-qurbānin taʾkuluhu n-nāru: an offering the
+    fire eats, as the claimed covenant sign.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 9:24
+      lang: he
+      text: וַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהוָ֔ה וַתֹּ֨אכַל֙ עַל הַמִּזְבֵּ֔חַ אֶת הָעֹלָ֖ה וְאֶת הַחֲלָבִ֑ים
+        וַיַּ֤רְא כָּל הָעָם֙ וַיָּרֹ֔נּוּ וַֽיִּפְּל֖וּ עַל פְּנֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

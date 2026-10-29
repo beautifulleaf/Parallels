@@ -2,8 +2,7 @@
 id: motif-hb-gen-25-jacob-esau-birth-vs-quran-19-zechariah-and-john
 title: Birth of Esau and Jacob; the sale of the birthright ↔ Zechariah's secret prayer and the birth of
   John (Surah 19:1-15)
-summary: 'These two units share 2 motifs: husband prays for his barren wife and she conceives, the patriarch''s
-  wife is barren.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,54 +16,9 @@ layers:
 motifs:
 - husband-prays-for-barren-wife
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Gen 25:21
-  note: Husband prays for his barren wife and she conceives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהוָ֔ה
-    וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
-- tradition: islam
-  ref: Quran 19:5
-  note: Husband prays for his barren wife and she conceives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
-    وَلِيًّا
-- tradition: islam
-  ref: Quran 19:6
-  note: Husband prays for his barren wife and she conceives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ وَٱجْعَلْهُ رَبِّ رَضِيًّا
-- tradition: judaism
-  ref: Gen 25:21
-  note: The patriarch's wife is barren
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהוָ֔ה
-    וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
-- tradition: islam
-  ref: Quran 19:5
-  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
-    وَلِيًّا
-- tradition: islam
-  ref: Quran 19:8
-  note: The patriarch's wife is barren (Zechariah's wife is ʿāqir)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ
-    عِتِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyeʿtar yiṣḥāq laYHWH lənōkaḥ ʾištô kî ʿăqārâ hîʾ wayyēʿāter lô YHWH; wa-kānati mraʾatī
-    ʿāqiran fa-hab lī min ladunka waliyyā: the husband prays because his wife is barren (ʿăqārâ / ʿāqir,
-    cognate), and is answered. Q adds the motive of an heir for the house of Jacob (yarithunī wa-yarithu
-    min āli Yaʿqūb).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 6.3);
     The patriarch''s wife is barren (weight 5.2). Pair score 11.5.'
@@ -95,6 +49,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Husband prays for his barren wife and she conceives
+kinds:
+- parallel
+- shared
+units:
+- id: hb-gen-25-jacob-esau-birth
+  title: Birth of Esau and Jacob; the sale of the birthright
+  tradition: judaism
+- id: quran-19-zechariah-and-john
+  title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Husband prays for his barren wife and she conceives
+  note: 'wayyeʿtar yiṣḥāq laYHWH lənōkaḥ ʾištô kî ʿăqārâ hîʾ wayyēʿāter lô YHWH; wa-kānati mraʾatī ʿāqiran
+    fa-hab lī min ladunka waliyyā: the husband prays because his wife is barren (ʿăqārâ / ʿāqir, cognate),
+    and is answered. Q adds the motive of an heir for the house of Jacob (yarithunī wa-yarithu min āli
+    Yaʿqūb).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 25:21
+      lang: he
+      text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙
+        יְהוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:4
+      lang: ar
+      text: قَالَ رَبِّ إِنِّى وَهَنَ ٱلْعَظْمُ مِنِّى وَٱشْتَعَلَ ٱلرَّأْسُ شَيْبًا وَلَمْ أَكُنۢ بِدُعَآئِكَ
+        رَبِّ شَقِيًّا
+    - ref: Quran 19:5
+      lang: ar
+      text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
+        وَلِيًّا
+    - ref: Quran 19:6
+      lang: ar
+      text: يَرِثُنِى وَيَرِثُ مِنْ ءَالِ يَعْقُوبَ وَٱجْعَلْهُ رَبِّ رَضِيًّا
+- kind: shared
+  label: The patriarch's wife is barren
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 25:21
+      lang: he
+      text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙
+        יְהוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:5
+      lang: ar
+      text: وَإِنِّى خِفْتُ ٱلْمَوَٰلِىَ مِن وَرَآءِى وَكَانَتِ ٱمْرَأَتِى عَاقِرًا فَهَبْ لِى مِن لَّدُنكَ
+        وَلِيًّا
+    - ref: Quran 19:8
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ
+        ٱلْكِبَرِ عِتِيًّا
+    - ref: Quran 19:7
+      lang: ar
+      text: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ
+        سَمِيًّا
+    note: Zechariah's wife is ʿāqir
 ---
 
 ## Questions

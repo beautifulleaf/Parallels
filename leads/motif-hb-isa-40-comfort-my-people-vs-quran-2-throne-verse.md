@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-2-throne-verse
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Ranks of the messengers
   and the Throne Verse
-summary: 'These two units share 1 motifs: the everlasting god, creator of the ends of the earth, does
-  not faint or grow weary; his understanding is unsearchable.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - god-never-tires
-passages:
-- tradition: judaism
-  ref: Isa 40:28
-  note: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א
-    יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
-- tradition: islam
-  ref: Quran 2:255
-  note: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable (guarding them does not weary him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Isa 40:28 ʾĕlōhê ʿôlām YHWH bôrēʾ qĕṣôt hā-ʾāreṣ lōʾ yîʿap wĕ-lōʾ yîgāʿ ʾên ḥēqer li-tbûnātô;
-    Q 2:255 wa-lā yaʾūduhu ḥifẓuhumā ... wa-lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bi-mā shāʾa: God does
-    not tire, and no one can fathom his knowledge (ḥēqer li-tbûnātô / yuḥīṭūna bi-ʿilmihi).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The everlasting God, creator of the ends of the earth, does not
     faint or grow weary; his understanding is unsearchable (weight 6.0). Pair score 6.0.'
@@ -75,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+  is unsearchable
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: parallel
+  label: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+    is unsearchable
+  note: 'Isa 40:28 ʾĕlōhê ʿôlām YHWH bôrēʾ qĕṣôt hā-ʾāreṣ lōʾ yîʿap wĕ-lōʾ yîgāʿ ʾên ḥēqer li-tbûnātô;
+    Q 2:255 wa-lā yaʾūduhu ḥifẓuhumā ... wa-lā yuḥīṭūna bi-shayʾin min ʿilmihi illā bi-mā shāʾa: God does
+    not tire, and no one can fathom his knowledge (ḥēqer li-tbûnātô / yuḥīṭūna bi-ʿilmihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:28
+      lang: he
+      text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ
+        לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
 ---
 
 ## Questions

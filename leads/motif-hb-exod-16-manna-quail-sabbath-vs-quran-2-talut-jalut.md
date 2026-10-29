@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-16-manna-quail-sabbath-vs-quran-2-talut-jalut
 title: Manna and quail; the first Sabbath ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: a jar of manna preserved before the testimony for future generations.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,37 +13,9 @@ layers:
 - motif
 motifs:
 - jar-of-manna-kept-before-testimony
-passages:
-- tradition: judaism
-  ref: Exod 16:32
-  note: A jar of manna preserved before the testimony for future generations (tsintsenet)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֗ה זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהוָ֔ה מְלֹ֤א הָעֹ֨מֶר֙ מִמֶּ֔נּוּ לְמִשְׁמֶ֖רֶת
-    לְדֹרֹתֵיכֶ֑ם לְמַ֣עַן יִרְא֣וּ אֶת הַלֶּ֗חֶם אֲשֶׁ֨ר הֶאֱכַ֤לְתִּי אֶתְכֶם֙ בַּמִּדְבָּ֔ר בְּהוֹצִיאִ֥י
-    אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 16:33
-  note: A jar of manna preserved before the testimony for future generations (tsintsenet)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן שָׁ֥מָּה מְלֹֽא הָעֹ֖מֶר מָ֑ן וְהַנַּ֤ח
-    אֹתוֹ֙ לִפְנֵ֣י יְהוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם
-- tradition: islam
-  ref: Quran 2:248
-  note: A jar of manna preserved before the testimony for future generations (relics of the family of
-    Moses and Aaron)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
-    مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
-    إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Exod 16:33 wa-yyōʾmer mōšeh ʾel ʾahărōn qaḥ ṣinṣenet ʾaḥat ... wĕ-hannaḥ ʾōtô lipnê YHWH lĕ-mišmeret
-    lĕ-dōrōtêkem: Moses has Aaron lay up a jar of manna before God for the generations; Q 2:248 baqiyyatun
-    mimmā taraka ālu mūsā wa-ālu hārūn: a remnant left by the families of Moses and Aaron, kept in the
-    ark. The HB keeps such objects ''before'' the testimony, not inside the ark.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A jar of manna preserved before the testimony for future generations
     (weight 6.7). Pair score 6.7.'
@@ -76,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A jar of manna preserved before the testimony for future generations
+kinds:
+- echo
+units:
+- id: hb-exod-16-manna-quail-sabbath
+  title: Manna and quail; the first Sabbath
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: echo
+  label: A jar of manna preserved before the testimony for future generations
+  note: 'Exod 16:33 wa-yyōʾmer mōšeh ʾel ʾahărōn qaḥ ṣinṣenet ʾaḥat ... wĕ-hannaḥ ʾōtô lipnê YHWH lĕ-mišmeret
+    lĕ-dōrōtêkem: Moses has Aaron lay up a jar of manna before God for the generations; Q 2:248 baqiyyatun
+    mimmā taraka ālu mūsā wa-ālu hārūn: a remnant left by the families of Moses and Aaron, kept in the
+    ark. The HB keeps such objects ''before'' the testimony, not inside the ark.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 16:33
+      lang: he
+      text: וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן שָׁ֥מָּה מְלֹֽא הָעֹ֖מֶר מָ֑ן
+        וְהַנַּ֤ח אֹתוֹ֙ לִפְנֵ֣י יְהוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:248
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
+        مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
+        إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

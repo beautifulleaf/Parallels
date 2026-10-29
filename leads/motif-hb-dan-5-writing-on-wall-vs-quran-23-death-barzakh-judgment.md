@@ -2,7 +2,7 @@
 id: motif-hb-dan-5-writing-on-wall-vs-quran-23-death-barzakh-judgment
 title: Belshazzar's feast and the writing on the wall ↔ Repel evil with good; the deathbed plea, the barzakh
   and the scales
-summary: 'These two units share 1 motifs: a person is weighed in the balances and found wanting.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - weighed-in-scales-found-wanting
-passages:
-- tradition: judaism
-  ref: Dan 5:27
-  note: A person is weighed in the balances and found wanting
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
-- tradition: islam
-  ref: Quran 23:102
-  note: 'A person is weighed in the balances and found wanting (wa-man khaffat mawāzīnuhu fa-ulāʾika lladhīna
-    khasirū anfusahum ~ təqēl təqîltâ və-mōʾzanyāʾ wə-hištəkaḥat ḥassîr: weighed in the balances (mawāzīn
-    / mōʾzanyāʾ) and found light. Daniel weighs one king in history, the Quran every soul at the resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
-- tradition: islam
-  ref: Quran 23:103
-  note: 'A person is weighed in the balances and found wanting (wa-man khaffat mawāzīnuhu fa-ulāʾika lladhīna
-    khasirū anfusahum ~ təqēl təqîltâ və-mōʾzanyāʾ wə-hištəkaḥat ḥassîr: weighed in the balances (mawāzīn
-    / mōʾzanyāʾ) and found light. Daniel weighs one king in history, the Quran every soul at the resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-man khaffat mawāzīnuhu fa-ulāʾika lladhīna khasirū anfusahum ~ təqēl təqîltâ və-mōʾzanyāʾ
-    wə-hištəkaḥat ḥassîr: weighed in the balances (mawāzīn / mōʾzanyāʾ) and found light. Daniel weighs
-    one king in history, the Quran every soul at the resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 6.0).
     Pair score 6.0.'
@@ -80,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A person is weighed in the balances and found wanting
+kinds:
+- parallel
+units:
+- id: hb-dan-5-writing-on-wall
+  title: Belshazzar's feast and the writing on the wall
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: parallel
+  label: A person is weighed in the balances and found wanting
+  note: 'wa-man khaffat mawāzīnuhu fa-ulāʾika lladhīna khasirū anfusahum ~ təqēl təqîltâ və-mōʾzanyāʾ
+    wə-hištəkaḥat ḥassîr: weighed in the balances (mawāzīn / mōʾzanyāʾ) and found light. Daniel weighs
+    one king in history, the Quran every soul at the resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 5:27
+      lang: he
+      text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 23:102
+      lang: ar
+      text: فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+    - ref: Quran 23:103
+      lang: ar
+      text: وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فِى جَهَنَّمَ
+        خَٰلِدُونَ
 ---
 
 ## Questions

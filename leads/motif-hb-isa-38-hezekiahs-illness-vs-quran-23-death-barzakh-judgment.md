@@ -2,8 +2,7 @@
 id: motif-hb-isa-38-hezekiahs-illness-vs-quran-23-death-barzakh-judgment
 title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm ↔ Repel evil with good;
   the deathbed plea, the barzakh and the scales
-summary: 'These two units share 1 motifs: a dying person''s plea to god for more life, and god''s answer
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,61 +14,9 @@ layers:
 - motif
 motifs:
 - deathbed-plea-for-more-life-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 38:3
-  note: 'A dying person''s plea to God for more life, and God''s answer [contrast between the texts] (Two
-    deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā
-    ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš
-    ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses:
-    kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on
-    promised future ones.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ זְכָר נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵ֣ב
-    שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל
-- tradition: judaism
-  ref: Isa 38:5
-  note: 'A dying person''s plea to God for more life, and God''s answer [contrast between the texts] (Two
-    deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā
-    ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš
-    ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses:
-    kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on
-    promised future ones.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל חִזְקִיָּ֗הוּ כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֨עְתִּי֙
-    אֶת תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה
-- tradition: islam
-  ref: Quran 23:99
-  note: 'A dying person''s plea to God for more life, and God''s answer [contrast between the texts] (Two
-    deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā
-    ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš
-    ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses:
-    kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on
-    promised future ones.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
-- tradition: islam
-  ref: Quran 23:100
-  note: 'A dying person''s plea to God for more life, and God''s answer [contrast between the texts] (Two
-    deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā
-    ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš
-    ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses:
-    kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on
-    promised future ones.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَعَلِّىٓ أَعْمَلُ صَٰلِحًا فِيمَا تَرَكْتُ كَلَّآ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم
-    بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Two deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv
-    bə-ʿênêkā ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā
-    ḥămēš ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God
-    refuses: kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the
-    Quran on promised future ones.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A dying person''s plea to God for more life, and God''s answer [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -108,6 +55,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A dying person's plea to God for more life, and God's answer
+kinds:
+- contrast
+units:
+- id: hb-isa-38-hezekiahs-illness
+  title: Hezekiah's illness, the shadow on the steps of Ahaz, and Hezekiah's psalm
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: contrast
+  label: A dying person's plea to God for more life, and God's answer
+  note: 'Two deathbed pleas for more life with opposite answers. Hezekiah: zəkhor nāʾ ... wə-haṭ-ṭôv bə-ʿênêkā
+    ʿāśîtî, and the living can praise (ḥay ḥay hûʾ yôdekhā); God hears: hinənî yôsīf ʿal yāmêkā ḥămēš
+    ʿeśrê šānâ. The Quran''s dying sinner: rabbi rjiʿūni laʿallī aʿmalu ṣāliḥan fīmā taraktu; God refuses:
+    kallā innahā kalimatun huwa qāʾiluhā. In Isaiah the plea rests on past good deeds, in the Quran on
+    promised future ones.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 38:3
+      lang: he
+      text: וַיֹּאמַ֗ר אָנָּ֤ה יְהוָה֙ זְכָר נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙
+        וּבְלֵ֣ב שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל
+    - ref: Isa 38:5
+      lang: he
+      text: הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל חִזְקִיָּ֗הוּ כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֨עְתִּי֙
+        אֶת תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה
+    - ref: Isa 38:18
+      lang: he
+      text: כִּ֣י לֹ֥א שְׁא֛וֹל תּוֹדֶ֖ךָּ מָ֣וֶת יְהַלְלֶ֑ךָּ לֹֽא יְשַׂבְּר֥וּ יֽוֹרְדֵי ב֖וֹר אֶל אֲמִתֶּֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:99
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
+    - ref: Quran 23:100
+      lang: ar
+      text: لَعَلِّىٓ أَعْمَلُ صَٰلِحًا فِيمَا تَرَكْتُ كَلَّآ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا وَمِن
+        وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
 ---
 
 ## Questions

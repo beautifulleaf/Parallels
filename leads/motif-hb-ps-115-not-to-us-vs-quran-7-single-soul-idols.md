@@ -2,9 +2,7 @@
 id: motif-hb-ps-115-not-to-us-vs-quran-7-single-soul-idols
 title: Psalm 115, not to us, polemic against idols ↔ The single soul, the couple's vow, and powerless
   idols
-summary: 'These two units share 3 motifs: likeness between the idols and those who call on them [divergence
-  between the texts], taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear?,
-  idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,108 +15,16 @@ traditions:
 layers:
 - motif
 motifs:
-- likeness-between-idols-and-worshippers-as-divergence
 - idols-have-no-limbs-or-senses
+- likeness-between-idols-and-worshippers-as-divergence
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 115:8
-  note: 'Likeness between the idols and those who call on them [divergence between the texts] (Likeness
-    between idol and worshipper, turned round: in Q the idols are ''servants like you'' (ʿibādun amthālukum);
-    in Ps the worshippers become like the idols (kᵉmôhem yihyû ʿōśêhem).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֭ל אֲשֶׁר בֹּטֵ֣חַ בָּהֶֽם
-- tradition: islam
-  ref: Quran 7:194
-  note: 'Likeness between the idols and those who call on them [divergence between the texts] (Likeness
-    between idol and worshipper, turned round: in Q the idols are ''servants like you'' (ʿibādun amthālukum);
-    in Ps the worshippers become like the idols (kᵉmôhem yihyû ʿōśêhem).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
-    لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: judaism
-  ref: Ps 115:5
-  note: 'Taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear? (Same catalogue
-    of limbs and senses: a-lahum arjulun yamshūna bihā am lahum aydin yabṭishūna bihā am lahum aʿyunun
-    yubṣirūna bihā am lahum ādhānun yasmaʿūna bihā vs peh lāhem ... ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim
-    lāhem wᵉlōʾ yišmāʿû ... yᵉdêhem wᵉlōʾ yᵉmîšûn raglêhem wᵉlōʾ yᵉhallēkû. Ps states it; Q puts it as
-    rhetorical questions; tarāhum yanẓurūna ilayka wa-hum lā yubṣirūn (7:198) matches ʿênayim lāhem wᵉlōʾ
-    yirʾû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: judaism
-  ref: Ps 115:6
-  note: 'Taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear? (Same catalogue
-    of limbs and senses: a-lahum arjulun yamshūna bihā am lahum aydin yabṭishūna bihā am lahum aʿyunun
-    yubṣirūna bihā am lahum ādhānun yasmaʿūna bihā vs peh lāhem ... ʿênayim lāhem wᵉlōʾ yirʾû ʾoznayim
-    lāhem wᵉlōʾ yišmāʿû ... yᵉdêhem wᵉlōʾ yᵉmîšûn raglêhem wᵉlōʾ yᵉhallēkû. Ps states it; Q puts it as
-    rhetorical questions; tarāhum yanẓurūna ilayka wa-hum lā yubṣirūn (7:198) matches ʿênayim lāhem wᵉlōʾ
-    yirʾû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
-- tradition: islam
-  ref: Quran 7:195
-  note: 'Taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
-    يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
-    فَلَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 7:198
-  note: 'Taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
-- tradition: judaism
-  ref: Ps 115:4-7
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (115:4) עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (115:5) פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ
-    עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (115:6) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א
-    יְרִיחֽוּן (115:7) יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
-- tradition: judaism
-  ref: Ps 115:4
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
-- tradition: islam
-  ref: Quran 7:195
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
-    يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
-    فَلَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 7:198
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, parallel. Same catalogue of limbs and senses: a-lahum arjulun yamshūna bihā am lahum aydin
-    yabṭishūna bihā am lahum aʿyunun yubṣirūna bihā am lahum ādhānun yasmaʿūna bihā vs peh lāhem ... ʿênayim
-    lāhem wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû ... yᵉdêhem wᵉlōʾ yᵉmîšûn raglêhem wᵉlōʾ yᵉhallēkû.
-    Ps states it; Q puts it as rhetorical questions; tarāhum yanẓurūna ilayka wa-hum lā yubṣirūn (7:198)
-    matches ʿênayim lāhem wᵉlōʾ yirʾû. Likeness between idol and worshipper, turned round: in Q the idols
-    are ''servants like you'' (ʿibādun amthālukum); in Ps the worshippers become like the idols (kᵉmôhem
-    yihyû ʿōśêhem).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Likeness between the idols and those who call on them [divergence
-    between the texts] (weight 6.7); Taunt: do the idols have feet to walk, hands to grasp, eyes to see,
-    ears to hear? (weight 6.7); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
+- text: 'Shared motifs, rarest first: Taunt: do the idols have feet to walk, hands to grasp, eyes to see,
+    ears to hear? (weight 6.7); Likeness between the idols and those who call on them [divergence between
+    the texts] (weight 6.7); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
     Pair score 18.4.'
   basis: reading
 - text: 'Only in Psalm 115, not to us, polemic against idols: ''The heavens are YHWH''s heavens, but the
@@ -148,6 +54,94 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Likeness between the idols and those who call on them
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-ps-115-not-to-us
+  title: Psalm 115, not to us, polemic against idols
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: divergence
+  label: Likeness between the idols and those who call on them
+  note: 'Likeness between idol and worshipper, turned round: in Q the idols are ''servants like you''
+    (ʿibādun amthālukum); in Ps the worshippers become like the idols (kᵉmôhem yihyû ʿōśêhem).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:8
+      lang: he
+      text: כְּ֭מוֹהֶם יִהְי֣וּ עֹשֵׂיהֶ֑ם כֹּ֭ל אֲשֶׁר בֹּטֵ֣חַ בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:194
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
+        لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+- kind: parallel
+  label: 'Taunt: do the idols have feet to walk, hands to grasp, eyes to see, ears to hear?'
+  note: 'Same catalogue of limbs and senses: a-lahum arjulun yamshūna bihā am lahum aydin yabṭishūna bihā
+    am lahum aʿyunun yubṣirūna bihā am lahum ādhānun yasmaʿūna bihā vs peh lāhem ... ʿênayim lāhem wᵉlōʾ
+    yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû ... yᵉdêhem wᵉlōʾ yᵉmîšûn raglêhem wᵉlōʾ yᵉhallēkû. Ps states it;
+    Q puts it as rhetorical questions; tarāhum yanẓurūna ilayka wa-hum lā yubṣirūn (7:198) matches ʿênayim
+    lāhem wᵉlōʾ yirʾû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:5
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 115:6
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
+    - ref: Ps 115:7
+      lang: he
+      text: יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:195
+      lang: ar
+      text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
+        يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
+        فَلَا تُنظِرُونِ
+    - ref: Quran 7:198
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ
+        لَا يُبْصِرُونَ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:4-7
+      lang: he
+      text: (115:4) עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (115:5) פֶּֽה לָ֭הֶם וְלֹ֣א
+        יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (115:6) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף
+        לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן (115:7) יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ
+        לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
+    - ref: Ps 115:4
+      lang: he
+      text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
+    - ref: Ps 115:5
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    note: Mouth, eyes, ears, nose, hands, feet, throat listed
+  - tradition: islam
+    passages:
+    - ref: Quran 7:195
+      lang: ar
+      text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
+        يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
+        فَلَا تُنظِرُونِ
+    - ref: Quran 7:198
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ
+        لَا يُبْصِرُونَ
 ---
 
 ## Questions

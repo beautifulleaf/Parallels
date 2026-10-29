@@ -2,8 +2,7 @@
 id: motif-hb-1chr-21-census-and-threshing-floor-vs-quran-3-food-bakka
 title: Satan incites the census; plague, the angel over Jerusalem and Ornan's threshing floor ↔ Israel's
   self-imposed food law and the House at Bakka
-summary: 'These two units share 1 motifs: you will not attain righteousness until you spend from what
-  you love.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - spend-what-you-love
-passages:
-- tradition: judaism
-  ref: 1Chr 21:24
-  note: 'You will not attain righteousness until you spend from what you love (1Chr 21:24 lōʾ kî qānōh
-    ʾeqneh bĕ-kesep mālēʾ kî lōʾ ʾeśśāʾ ʾăšer lĕkā la-YHWH wĕ-haʿălôt ʿôlâ ḥinnām: David will not offer
-    what costs him nothing; Q 3:92 lan tanālū l-birra ḥattā tunfiqū mimmā tuḥibbūn: you will not reach
-    piety until you spend from what you love. The gift must cost the giver.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר הַמֶּ֤לֶךְ דָּוִיד֙ לְאָרְנָ֔ן לֹ֕א כִּֽי קָנֹ֥ה אֶקְנֶ֖ה בְּכֶ֣סֶף מָלֵ֑א כִּ֠י לֹא
-    אֶשָּׂ֤א אֲשֶׁר לְךָ֙ לַיהוָ֔ה וְהַעֲל֥וֹת עוֹלָ֖ה חִנָּֽם
-- tradition: islam
-  ref: Quran 3:92
-  note: You will not attain righteousness until you spend from what you love
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ
-    ٱللَّهَ بِهِۦ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Chr 21:24 lōʾ kî qānōh ʾeqneh bĕ-kesep mālēʾ kî lōʾ ʾeśśāʾ ʾăšer lĕkā la-YHWH wĕ-haʿălôt ʿôlâ
-    ḥinnām: David will not offer what costs him nothing; Q 3:92 lan tanālū l-birra ḥattā tunfiqū mimmā
-    tuḥibbūn: you will not reach piety until you spend from what you love. The gift must cost the giver.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: You will not attain righteousness until you spend from what you
     love (weight 6.7). Pair score 6.7.'
@@ -72,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: You will not attain righteousness until you spend from what you love
+kinds:
+- echo
+units:
+- id: hb-1chr-21-census-and-threshing-floor
+  title: Satan incites the census; plague, the angel over Jerusalem and Ornan's threshing floor
+  tradition: judaism
+- id: quran-3-food-bakka
+  title: Israel's self-imposed food law and the House at Bakka
+  tradition: islam
+matches:
+- kind: echo
+  label: You will not attain righteousness until you spend from what you love
+  note: '1Chr 21:24 lōʾ kî qānōh ʾeqneh bĕ-kesep mālēʾ kî lōʾ ʾeśśāʾ ʾăšer lĕkā la-YHWH wĕ-haʿălôt ʿôlâ
+    ḥinnām: David will not offer what costs him nothing; Q 3:92 lan tanālū l-birra ḥattā tunfiqū mimmā
+    tuḥibbūn: you will not reach piety until you spend from what you love. The gift must cost the giver.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 21:24
+      lang: he
+      text: וַיֹּ֨אמֶר הַמֶּ֤לֶךְ דָּוִיד֙ לְאָרְנָ֔ן לֹ֕א כִּֽי קָנֹ֥ה אֶקְנֶ֖ה בְּכֶ֣סֶף מָלֵ֑א כִּ֠י
+        לֹא אֶשָּׂ֤א אֲשֶׁר לְךָ֙ לַיהוָ֔ה וְהַעֲל֥וֹת עוֹלָ֖ה חִנָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:92
+      lang: ar
+      text: لَن تَنَالُوا۟ ٱلْبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَ وَمَا تُنفِقُوا۟ مِن شَىْءٍ فَإِنَّ
+        ٱللَّهَ بِهِۦ عَلِيمٌ
 ---
 
 ## Questions

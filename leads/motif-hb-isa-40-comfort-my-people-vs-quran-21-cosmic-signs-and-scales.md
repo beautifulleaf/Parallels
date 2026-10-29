@@ -2,7 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-21-cosmic-signs-and-scales
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The split heavens, water
   of life, orbits, mortality and the scales
-summary: 'These two units share 1 motifs: god made the sky a protected roof.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - sky-a-guarded-roof
-passages:
-- tradition: judaism
-  ref: Isa 40:22
-  note: 'God made the sky a protected roof (hannôṭeh kaddōq šāmayim wayyimtāḥēm kāʾōhel lāšābet; wa-jaʿalnā
-    s-samāʾa saqfan maḥfūẓā: the sky as a covering stretched over the inhabited earth, a tent in Isa and
-    a guarded roof in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַיֹּשֵׁב֙ עַל ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם
-    כָּאֹ֖הֶל לָשָֽׁבֶת
-- tradition: islam
-  ref: Quran 21:32
-  note: God made the sky a protected roof
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًا مَّحْفُوظًا وَهُمْ عَنْ ءَايَٰتِهَا مُعْرِضُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. hannôṭeh kaddōq šāmayim wayyimtāḥēm kāʾōhel lāšābet; wa-jaʿalnā s-samāʾa saqfan maḥfūẓā: the
-    sky as a covering stretched over the inhabited earth, a tent in Isa and a guarded roof in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the sky a protected roof (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -69,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made the sky a protected roof
+kinds:
+- echo
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-21-cosmic-signs-and-scales
+  title: The split heavens, water of life, orbits, mortality and the scales
+  tradition: islam
+matches:
+- kind: echo
+  label: God made the sky a protected roof
+  note: 'hannôṭeh kaddōq šāmayim wayyimtāḥēm kāʾōhel lāšābet; wa-jaʿalnā s-samāʾa saqfan maḥfūẓā: the
+    sky as a covering stretched over the inhabited earth, a tent in Isa and a guarded roof in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:22
+      lang: he
+      text: הַיֹּשֵׁב֙ עַל ח֣וּג הָאָ֔רֶץ וְיֹשְׁבֶ֖יהָ כַּחֲגָבִ֑ים הַנּוֹטֶ֤ה כַדֹּק֙ שָׁמַ֔יִם וַיִּמְתָּחֵ֥ם
+        כָּאֹ֖הֶל לָשָֽׁבֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 21:32
+      lang: ar
+      text: وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًا مَّحْفُوظًا وَهُمْ عَنْ ءَايَٰتِهَا مُعْرِضُونَ
 ---
 
 ## Questions

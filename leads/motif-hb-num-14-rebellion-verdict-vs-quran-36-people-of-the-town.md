@@ -2,8 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-36-people-of-the-town
 title: Rebellion after the spies' report and the forty-year sentence ↔ The people of the town, the three
   messengers and the man who came running
-summary: 'These two units share 1 motifs: the townsfolk say ''we augur ill of you'' and threaten to stone
-  the messengers; they reply ''your omen is with you''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - messengers-called-ill-omen-threatened-stoning
-passages:
-- tradition: judaism
-  ref: Num 14:6
-  note: 'The townsfolk say ''we augur ill of you'' and threaten to stone the messengers; they reply ''your
-    omen is with you'' (A pair of trustworthy men urge the people to trust God and are threatened with
-    stoning: wa-yyōʾmərû kol-hā-ʿēḏâ lirgôm ʾōṯām bā-ʾăḇānîm vs. la-in lam tantahū la-narjumannakum. r-g-m
-    is the same root on both sides (rāḡam / rajama). In Num the glory of YHWH appears and intervenes;
-    in Q a man from the city''s edge supports them and is killed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם
-- tradition: judaism
-  ref: Num 14:9
-  note: 'The townsfolk say ''we augur ill of you'' and threaten to stone the messengers; they reply ''your
-    omen is with you'' (A pair of trustworthy men urge the people to trust God and are threatened with
-    stoning: wa-yyōʾmərû kol-hā-ʿēḏâ lirgôm ʾōṯām bā-ʾăḇānîm vs. la-in lam tantahū la-narjumannakum. r-g-m
-    is the same root on both sides (rāḡam / rajama). In Num the glory of YHWH appears and intervenes;
-    in Q a man from the city''s edge supports them and is killed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ בַּֽיהוָה֮ אַל תִּמְרֹדוּ֒ וְאַתֶּ֗ם אַל תִּֽירְאוּ֙ אֶת עַ֣ם הָאָ֔רֶץ כִּ֥י לַחְמֵ֖נוּ
-    הֵ֑ם סָ֣ר צִלָּ֧ם מֵעֲלֵיהֶ֛ם וַֽיהוָ֥ה אִתָּ֖נוּ אַל תִּירָאֻֽם
-- tradition: islam
-  ref: Quran 36:18
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
-    مِّنَّا عَذَابٌ أَلِيمٌ
-- tradition: islam
-  ref: Quran 36:19
-  note: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
-    omen is with you'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ طَٰٓئِرُكُم مَّعَكُمْ أَئِن ذُكِّرْتُم بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. A pair of trustworthy men urge the people to trust God and are threatened with stoning: wa-yyōʾmərû
-    kol-hā-ʿēḏâ lirgôm ʾōṯām bā-ʾăḇānîm vs. la-in lam tantahū la-narjumannakum. r-g-m is the same root
-    on both sides (rāḡam / rajama). In Num the glory of YHWH appears and intervenes; in Q a man from the
-    city''s edge supports them and is killed.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The townsfolk say ''we augur ill of you'' and threaten to stone
     the messengers; they reply ''your omen is with you'' (weight 6.3). Pair score 6.3.'
@@ -89,6 +48,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
+  omen is with you'
+kinds:
+- echo
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-36-people-of-the-town
+  title: The people of the town, the three messengers and the man who came running
+  tradition: islam
+matches:
+- kind: echo
+  label: The townsfolk say 'we augur ill of you' and threaten to stone the messengers; they reply 'your
+    omen is with you'
+  note: 'A pair of trustworthy men urge the people to trust God and are threatened with stoning: wa-yyōʾmərû
+    kol-hā-ʿēḏâ lirgôm ʾōṯām bā-ʾăḇānîm vs. la-in lam tantahū la-narjumannakum. r-g-m is the same root
+    on both sides (rāḡam / rajama). In Num the glory of YHWH appears and intervenes; in Q a man from the
+    city''s edge supports them and is killed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:6
+      lang: he
+      text: וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם
+    - ref: Num 14:9
+      lang: he
+      text: אַ֣ךְ בַּֽיהוָה֮ אַל תִּמְרֹדוּ֒ וְאַתֶּ֗ם אַל תִּֽירְאוּ֙ אֶת עַ֣ם הָאָ֔רֶץ כִּ֥י לַחְמֵ֖נוּ
+        הֵ֑ם סָ֣ר צִלָּ֧ם מֵעֲלֵיהֶ֛ם וַֽיהוָ֥ה אִתָּ֖נוּ אַל תִּירָאֻֽם
+    - ref: Num 14:10
+      lang: he
+      text: וַיֹּֽאמְרוּ֙ כָּל הָ֣עֵדָ֔ה לִרְגּ֥וֹם אֹתָ֖ם בָּאֲבָנִ֑ים וּכְב֣וֹד יְהוָ֗ה נִרְאָה֙ בְּאֹ֣הֶל
+        מוֹעֵ֔ד אֶֽל כָּל בְּנֵ֖י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 36:18
+      lang: ar
+      text: قَالُوٓا۟ إِنَّا تَطَيَّرْنَا بِكُمْ لَئِن لَّمْ تَنتَهُوا۟ لَنَرْجُمَنَّكُمْ وَلَيَمَسَّنَّكُم
+        مِّنَّا عَذَابٌ أَلِيمٌ
+    - ref: Quran 36:20
+      lang: ar
+      text: وَجَآءَ مِنْ أَقْصَا ٱلْمَدِينَةِ رَجُلٌ يَسْعَىٰ قَالَ يَٰقَوْمِ ٱتَّبِعُوا۟ ٱلْمُرْسَلِينَ
 ---
 
 ## Questions

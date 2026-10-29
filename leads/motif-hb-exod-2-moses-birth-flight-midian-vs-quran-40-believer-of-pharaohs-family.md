@@ -2,8 +2,7 @@
 id: motif-hb-exod-2-moses-birth-flight-midian-vs-quran-40-believer-of-pharaohs-family
 title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry ↔ Moses, Pharaoh,
   Haman and the believer of Pharaoh's family
-summary: 'These two units share 1 motifs: pharaoh seeks to kill moses, and when and why [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - pharaoh-seeks-to-kill-moses-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 2:15
-  note: Pharaoh seeks to kill Moses, and when and why [divergence between the texts] (wa-yyišmaʿ parʿōh
-    ʾeṯ-ha-ddāḇār ha-zze wa-yəḇaqqēš lahărōḡ ʾeṯ-mōšeh vs. wa-qāla Firʿawnu dharūnī aqtul Mūsā wa-l-yadʿu
-    rabbahu innī akhāfu an yubaddila dīnakum. In Exodus Pharaoh wants Moses dead for killing an Egyptian,
-    before his call; in the Quran he wants it after the mission, fearing for 'your religion' (dīn).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת מֹשֶׁ֑ה וַיִּבְרַ֤ח מֹשֶׁה֙
-    מִפְּנֵ֣י פַרְעֹ֔ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ מִדְיָ֖ן וַיֵּ֥שֶׁב עַֽל הַבְּאֵֽר
-- tradition: islam
-  ref: Quran 40:26
-  note: Pharaoh seeks to kill Moses, and when and why [divergence between the texts] (wa-yyišmaʿ parʿōh
-    ʾeṯ-ha-ddāḇār ha-zze wa-yəḇaqqēš lahărōḡ ʾeṯ-mōšeh vs. wa-qāla Firʿawnu dharūnī aqtul Mūsā wa-l-yadʿu
-    rabbahu innī akhāfu an yubaddila dīnakum. In Exodus Pharaoh wants Moses dead for killing an Egyptian,
-    before his call; in the Quran he wants it after the mission, fearing for 'your religion' (dīn).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ
-    دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-yyišmaʿ parʿōh ʾeṯ-ha-ddāḇār ha-zze wa-yəḇaqqēš lahărōḡ ʾeṯ-mōšeh vs. wa-qāla Firʿawnu
-    dharūnī aqtul Mūsā wa-l-yadʿu rabbahu innī akhāfu an yubaddila dīnakum. In Exodus Pharaoh wants Moses
-    dead for killing an Egyptian, before his call; in the Quran he wants it after the mission, fearing
-    for ''your religion'' (dīn).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh seeks to kill Moses, and when and why [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -78,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh seeks to kill Moses, and when and why
+kinds:
+- divergence
+units:
+- id: hb-exod-2-moses-birth-flight-midian
+  title: Birth and rescue of Moses; killing of the Egyptian; flight to Midian; Israel's cry
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh seeks to kill Moses, and when and why
+  note: wa-yyišmaʿ parʿōh ʾeṯ-ha-ddāḇār ha-zze wa-yəḇaqqēš lahărōḡ ʾeṯ-mōšeh vs. wa-qāla Firʿawnu dharūnī
+    aqtul Mūsā wa-l-yadʿu rabbahu innī akhāfu an yubaddila dīnakum. In Exodus Pharaoh wants Moses dead
+    for killing an Egyptian, before his call; in the Quran he wants it after the mission, fearing for
+    'your religion' (dīn).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 2:15
+      lang: he
+      text: וַיִּשְׁמַ֤ע פַּרְעֹה֙ אֶת הַדָּבָ֣ר הַזֶּ֔ה וַיְבַקֵּ֖שׁ לַהֲרֹ֣ג אֶת מֹשֶׁ֑ה וַיִּבְרַ֤ח
+        מֹשֶׁה֙ מִפְּנֵ֣י פַרְעֹ֔ה וַיֵּ֥שֶׁב בְּאֶֽרֶץ מִדְיָ֖ן וַיֵּ֥שֶׁב עַֽל הַבְּאֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 40:26
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ ذَرُونِىٓ أَقْتُلْ مُوسَىٰ وَلْيَدْعُ رَبَّهُۥٓ إِنِّىٓ أَخَافُ أَن يُبَدِّلَ
+        دِينَكُمْ أَوْ أَن يُظْهِرَ فِى ٱلْأَرْضِ ٱلْفَسَادَ
 ---
 
 ## Questions

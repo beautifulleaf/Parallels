@@ -2,8 +2,7 @@
 id: motif-hb-ezek-21-sword-oracles-vs-quran-8-meccan-plots
 title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
   Ammon ↔ The plot against the prophet and the worship of the pagans
-summary: 'These two units share 1 motifs: people dismiss the prophet: ''is he not just a maker of parables
-  (memashel meshalim)?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-mocked-as-maker-of-parables
-passages:
-- tradition: judaism
-  ref: Ezek 21:5
-  note: 'People dismiss the prophet: ''Is he not just a maker of parables (memashel meshalim)?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמַ֕ר אֲהָ֖הּ אֲדֹנָ֣י יְהוִ֑ה הֵ֚מָּה אֹמְרִ֣ים לִ֔י הֲלֹ֛א מְמַשֵּׁ֥ל מְשָׁלִ֖ים הֽוּא
-- tradition: islam
-  ref: Quran 8:31
-  note: 'People dismiss the prophet: ''Is he not just a maker of parables (memashel meshalim)?'' (The
-    audience dismisses the revelation as mere stories: in hādhā illā asāṭīru l-awwalīn vs hălōʾ mᵉmaššēl
-    mᵉšālîm hûʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ
-    هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The audience dismisses the revelation as mere stories: in hādhā illā asāṭīru l-awwalīn vs hălōʾ
-    mᵉmaššēl mᵉšālîm hûʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People dismiss the prophet: ''Is he not just a maker of parables
     (memashel meshalim)?'' (weight 6.7). Pair score 6.7.'
@@ -72,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'People dismiss the prophet: ''Is he not just a maker of parables (memashel meshalim)?'''
+kinds:
+- echo
+units:
+- id: hb-ezek-21-sword-oracles
+  title: Fire in the southern forest; the song of the sword; Babylon's divination at the crossroads; against
+    Ammon
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: echo
+  label: 'People dismiss the prophet: ''Is he not just a maker of parables (memashel meshalim)?'''
+  note: 'The audience dismisses the revelation as mere stories: in hādhā illā asāṭīru l-awwalīn vs hălōʾ
+    mᵉmaššēl mᵉšālîm hûʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 21:5
+      lang: he
+      text: וָאֹמַ֕ר אֲהָ֖הּ אֲדֹנָ֣י יְהוִ֑ה הֵ֚מָּה אֹמְרִ֣ים לִ֔י הֲלֹ֛א מְמַשֵּׁ֥ל מְשָׁלִ֖ים הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 8:31
+      lang: ar
+      text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ
+        هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

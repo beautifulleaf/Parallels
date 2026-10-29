@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-39-pure-religion
 title: Psalm 2 - the nations rage; the king as God's son ↔ Pure religion; no son for God; creation from
   one soul in three darknesses
-summary: 'These two units share 1 motifs: whether god has, begets or takes sons or other offspring [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - divine-offspring-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (YHWH ʾāmar
-    ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā
-    yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship of the king
-    is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature God chose,
-    not one he begot, and God is above it altogether.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: islam
-  ref: Quran 39:4
-  note: 'Whether God has, begets or takes sons or other offspring [contrast between the texts] (YHWH ʾāmar
-    ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan la-ṣṭafā mimmā
-    yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship of the king
-    is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature God chose,
-    not one he begot, and God is above it altogether.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ
-    هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan
-    la-ṣṭafā mimmā yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship
-    of the king is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature
-    God chose, not one he begot, and God is above it altogether.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has, begets or takes sons or other offspring [contrast
     between the texts] (weight 5.8). Pair score 5.8.'
@@ -77,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has, begets or takes sons or other offspring
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has, begets or takes sons or other offspring
+  note: 'YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî ha-yyôm yəliḏtîḵā vs. law arāda llāhu an yattakhidha waladan
+    la-ṣṭafā mimmā yakhluqu mā yashāʾu subḥānahu huwa llāhu l-wāḥidu l-qahhār. The psalm''s divine sonship
+    of the king is answered in the Quran''s terms: even if God wished it, the ''son'' would be a creature
+    God chose, not one he begot, and God is above it altogether.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:4
+      lang: ar
+      text: لَّوْ أَرَادَ ٱللَّهُ أَن يَتَّخِذَ وَلَدًا لَّٱصْطَفَىٰ مِمَّا يَخْلُقُ مَا يَشَآءُ سُبْحَٰنَهُۥ
+        هُوَ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
 ---
 
 ## Questions

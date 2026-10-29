@@ -2,7 +2,7 @@
 id: motif-hb-exod-27-altar-court-oil-vs-quran-24-light-verse
 title: Bronze altar, courtyard and lamp oil ↔ The Light Verse; the mirage, the dark sea, the praising
   birds, hail and the creatures
-summary: 'These two units share 1 motifs: a perpetual lamp fed with pure beaten olive oil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +15,9 @@ layers:
 - motif
 motifs:
 - eternal-lamp-pure-olive-oil
-passages:
-- tradition: judaism
-  ref: Exod 27:20
-  note: A perpetual lamp fed with pure beaten olive oil (beaten oil, ner tamid from evening to morning)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה תְּצַוֶּ֣ה אֶת בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית
-    לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד
-- tradition: judaism
-  ref: Exod 27:21
-  note: A perpetual lamp fed with pure beaten olive oil (beaten oil, ner tamid from evening to morning)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו
-    מֵעֶ֥רֶב עַד בֹּ֖קֶר לִפְנֵ֣י יְהוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 24:35
-  note: A perpetual lamp fed with pure beaten olive oil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. miṣbāḥun ... yūqadu min shajaratin mubārakatin zaytūnatin ... yakādu zaytuhā yuḍīʾu ~ šemen
-    zayit zākh kātît la-mmāʾôr ləhaʿălōt nēr tāmîd: a lamp lit with olive oil (zayt / zayit, cognate).
-    In Exodus it is the sanctuary lamp tended by Aaron and his sons from evening to morning; in the Quran
-    it is a parable of God''s light, set ''in houses God allowed to be raised'' where he is praised morning
-    and evening (24:36).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A perpetual lamp fed with pure beaten olive oil (weight 6.3). Pair
     score 6.3.'
@@ -77,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A perpetual lamp fed with pure beaten olive oil
+kinds:
+- parallel
+units:
+- id: hb-exod-27-altar-court-oil
+  title: Bronze altar, courtyard and lamp oil
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: parallel
+  label: A perpetual lamp fed with pure beaten olive oil
+  note: 'miṣbāḥun ... yūqadu min shajaratin mubārakatin zaytūnatin ... yakādu zaytuhā yuḍīʾu ~ šemen zayit
+    zākh kātît la-mmāʾôr ləhaʿălōt nēr tāmîd: a lamp lit with olive oil (zayt / zayit, cognate). In Exodus
+    it is the sanctuary lamp tended by Aaron and his sons from evening to morning; in the Quran it is
+    a parable of God''s light, set ''in houses God allowed to be raised'' where he is praised morning
+    and evening (24:36).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 27:20
+      lang: he
+      text: וְאַתָּ֞ה תְּצַוֶּ֣ה אֶת בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית
+        לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד
+    - ref: Exod 27:21
+      lang: he
+      text: בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו
+        מֵעֶ֥רֶב עַד בֹּ֖קֶר לִפְנֵ֣י יְהוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

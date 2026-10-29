@@ -2,7 +2,7 @@
 id: motif-hb-mal-3-tithes-vs-quran-63-munafiqun-propped-timbers
 title: 'Return to me; will a man rob God? Test me with the tithe ↔ Al-Munafiqun: false testimony, propped-up
   timbers, ''the mightier will expel the meaner'', and the deathbed plea for delay'
-summary: 'These two units share 1 motifs: god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Mal 3:10
-  note: God opens his good storehouse, the heavens, to give rain (arubbot ha-shamayim, as in the flood
-    (Gen 7:11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
-    נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י
-    לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
-- tradition: islam
-  ref: Quran 63:7
-  note: God opens his good storehouse, the heavens, to give rain (God's are the treasuries (khaza'in)
-    of heaven and earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟
-    وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. Both tie giving to God''s treasuries: lā tunfiqū ... wa-li-llāhi khazāʾinu s-samāwāt (withholding
-    is pointless, the treasuries are God''s) ~ hābîʾû ʾet kol ha-maʿaśēr ʾel bêt hā-ʾôṣār ... ʾim lōʾ
-    ʾeftaḥ lākem ʾēt ʾărubbôt ha-šāmayim (bring the tithe to the storehouse and he opens the windows of
-    heaven).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
     5.3). Pair score 5.3.'
@@ -75,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens his good storehouse, the heavens, to give rain
+kinds:
+- echo
+units:
+- id: hb-mal-3-tithes
+  title: Return to me; will a man rob God? Test me with the tithe
+  tradition: judaism
+- id: quran-63-munafiqun-propped-timbers
+  title: 'Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'', and
+    the deathbed plea for delay'
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens his good storehouse, the heavens, to give rain
+  note: 'Both tie giving to God''s treasuries: lā tunfiqū ... wa-li-llāhi khazāʾinu s-samāwāt (withholding
+    is pointless, the treasuries are God''s) ~ hābîʾû ʾet kol ha-maʿaśēr ʾel bêt hā-ʾôṣār ... ʾim lōʾ
+    ʾeftaḥ lākem ʾēt ʾărubbôt ha-šāmayim (bring the tithe to the storehouse and he opens the windows of
+    heaven).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:10
+      lang: he
+      text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
+        נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם
+        וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 63:7
+      lang: ar
+      text: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟
+        وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
 ---
 
 ## Questions

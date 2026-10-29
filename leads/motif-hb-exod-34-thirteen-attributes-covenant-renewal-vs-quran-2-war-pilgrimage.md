@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-2-war-pilgrimage
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ New moons, fighting and the pilgrimage
   rites
-summary: 'These two units share 2 motifs: how often and when pilgrimage is made [divergence between the
-  texts], three annual pilgrimage festivals when every male appears before god.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,89 +15,9 @@ layers:
 motifs:
 - number-and-season-of-pilgrimage-as-divergence
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Exod 34:23
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
-    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
-    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
-    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
-    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
-    rabbukum (''your Lord'', 2:198).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
-    יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Exod 34:24
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 34:23-24 šālōš pĕʿāmîm
-    ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages to ''the Lord YHWH, God of
-    Israel'', with God''s promise that no one will covet the land while they go; Q 2:196 fa-in uḥṣirtum
-    ... fa-idhā amintum: the pilgrimage rules provide for being blocked and for when ''you are safe''.
-    A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs
-    rabbukum (''your Lord'', 2:198).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙ אֶֽת
-    אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
-- tradition: islam
-  ref: Quran 2:196
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ
-    وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا أَوْ
-    بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ
-    فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ فَصِيَامُ
-    ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ ذَٰلِكَ لِمَن
-    لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ
-    شَدِيدُ ٱلْعِقَابِ
-- tradition: islam
-  ref: Quran 2:197
-  note: 'How often and when pilgrimage is made [divergence between the texts] (Exod 23:17 šālōš pĕʿāmîm
-    ba-ššānâ yērāʾeh kol zĕkûrkā ʾel pĕnê hā-ʾādōn YHWH, and 23:15 wĕ-lōʾ yērāʾû pānay rêqām: three pilgrimages
-    a year for every male, not empty-handed; Q 2:196-197 wa-atimmū l-ḥajja wa-l-ʿumrata li-llāhi ... al-ḥajju
-    ashhurun maʿlūmātun ... wa-tazawwadū fa-inna khayra z-zādi t-taqwā: one pilgrimage in known months,
-    with an offering (hady), and ''the best provision is piety''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
-    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
-    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
-- tradition: judaism
-  ref: Exod 34:18
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
-    חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
-- tradition: judaism
-  ref: Exod 34:22
-  note: Three annual pilgrimage festivals when every male appears before God (Shavuot named; Ingathering
-    at the turn of the year)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת הַשָּׁנָֽה
-- tradition: islam
-  ref: Quran 2:197
-  note: Three annual pilgrimage festivals when every male appears before God (the known months of pilgrimage)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا
-    جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ
-    ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 34:23-24 šālōš pĕʿāmîm ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three
-    pilgrimages to ''the Lord YHWH, God of Israel'', with God''s promise that no one will covet the land
-    while they go; Q 2:196 fa-in uḥṣirtum ... fa-idhā amintum: the pilgrimage rules provide for being
-    blocked and for when ''you are safe''. A protected land vs a pilgrimage that may be prevented. Divine
-    title: ʾădōn YHWH ʾĕlōhê yiśrāʾēl vs rabbukum (''your Lord'', 2:198).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How often and when pilgrimage is made [divergence between the texts]
     (weight 6.3); Three annual pilgrimage festivals when every male appears before God (weight 5.3). Pair
@@ -133,6 +52,78 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How often and when pilgrimage is made
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-2-war-pilgrimage
+  title: New moons, fighting and the pilgrimage rites
+  tradition: islam
+matches:
+- kind: divergence
+  label: How often and when pilgrimage is made
+  note: 'Exod 34:23-24 šālōš pĕʿāmîm ba-ššānâ ... wĕ-lōʾ yaḥmōd ʾîš ʾet ʾarṣĕkā baʿălōtĕkā: three pilgrimages
+    to ''the Lord YHWH, God of Israel'', with God''s promise that no one will covet the land while they
+    go; Q 2:196 fa-in uḥṣirtum ... fa-idhā amintum: the pilgrimage rules provide for being blocked and
+    for when ''you are safe''. A protected land vs a pilgrimage that may be prevented. Divine title: ʾădōn
+    YHWH ʾĕlōhê yiśrāʾēl vs rabbukum (''your Lord'', 2:198).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:23
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+        יִשְׂרָאֵֽל
+    - ref: Exod 34:24
+      lang: he
+      text: כִּֽי אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת גְּבוּלֶ֑ךָ וְלֹא יַחְמֹ֥ד אִישׁ֙
+        אֶֽת אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:196
+      lang: ar
+      text: وَأَتِمُّوا۟ ٱلْحَجَّ وَٱلْعُمْرَةَ لِلَّهِ فَإِنْ أُحْصِرْتُمْ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ
+        وَلَا تَحْلِقُوا۟ رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ ٱلْهَدْىُ مَحِلَّهُۥ فَمَن كَانَ مِنكُم مَّرِيضًا
+        أَوْ بِهِۦٓ أَذًى مِّن رَّأْسِهِۦ فَفِدْيَةٌ مِّن صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ فَإِذَآ أَمِنتُمْ
+        فَمَن تَمَتَّعَ بِٱلْعُمْرَةِ إِلَى ٱلْحَجِّ فَمَا ٱسْتَيْسَرَ مِنَ ٱلْهَدْىِ فَمَن لَّمْ يَجِدْ
+        فَصِيَامُ ثَلَٰثَةِ أَيَّامٍ فِى ٱلْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ تِلْكَ عَشَرَةٌ كَامِلَةٌ
+        ذَٰلِكَ لِمَن لَّمْ يَكُنْ أَهْلُهُۥ حَاضِرِى ٱلْمَسْجِدِ ٱلْحَرَامِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟
+        أَنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+    - ref: Quran 2:197
+      lang: ar
+      text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ
+        وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ
+        خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:18
+      lang: he
+      text: אֶת חַ֣ג הַמַּצּוֹת֮ תִּשְׁמֹר֒ שִׁבְעַ֨ת יָמִ֜ים תֹּאכַ֤ל מַצּוֹת֙ אֲשֶׁ֣ר צִוִּיתִ֔ךָ לְמוֹעֵ֖ד
+        חֹ֣דֶשׁ הָאָבִ֑יב כִּ֚י בְּחֹ֣דֶשׁ הָֽאָבִ֔יב יָצָ֖אתָ מִמִּצְרָֽיִם
+    - ref: Exod 34:22
+      lang: he
+      text: וְחַ֤ג שָׁבֻעֹת֙ תַּעֲשֶׂ֣ה לְךָ֔ בִּכּוּרֵ֖י קְצִ֣יר חִטִּ֑ים וְחַג֙ הָֽאָסִ֔יף תְּקוּפַ֖ת
+        הַשָּׁנָֽה
+    - ref: Exod 34:23
+      lang: he
+      text: שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל זְכ֣וּרְךָ֔ אֶת פְּנֵ֛י הָֽאָדֹ֥ן יְהוָ֖ה אֱלֹהֵ֥י
+        יִשְׂרָאֵֽל
+    note: Shavuot named; Ingathering at the turn of the year
+  - tradition: islam
+    passages:
+    - ref: Quran 2:197
+      lang: ar
+      text: ٱلْحَجُّ أَشْهُرٌ مَّعْلُومَٰتٌ فَمَن فَرَضَ فِيهِنَّ ٱلْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ
+        وَلَا جِدَالَ فِى ٱلْحَجِّ وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ يَعْلَمْهُ ٱللَّهُ وَتَزَوَّدُوا۟ فَإِنَّ
+        خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ وَٱتَّقُونِ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ
+    note: the known months of pilgrimage
 ---
 
 ## Questions

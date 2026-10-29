@@ -2,8 +2,7 @@
 id: motif-hb-josh-6-jericho-vs-quran-36-people-of-the-town
 title: Fall of Jericho; Rahab spared; curse on the rebuilder ↔ The people of the town, the three messengers
   and the man who came running
-summary: 'These two units share 1 motifs: no host from heaven was needed: a single shout (sayha) and they
-  were extinguished.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - single-shout-extinguishes-town
-passages:
-- tradition: judaism
-  ref: Josh 6:20
-  note: 'No host from heaven was needed: a single Shout (sayha) and they were extinguished (wa-yyārîʿû
-    hā-ʿām tərûʿâ ḡəḏôlâ wa-ttippōl ha-ḥômâ taḥteyhā vs. in kānat illā ṣayḥatan wāḥidatan fa-idhā hum
-    khāmidūn: a single shout brings a city''s end. In Joshua it is the people''s war cry, followed by
-    conquest; in the Quran God''s own blast, with no army needed (wa-mā anzalnā ... min jundin mina s-samāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣רַע הָעָ֔ם וַֽיִּתְקְע֖וּ בַּשֹּֽׁפָר֑וֹת וַיְהִי֩ כִשְׁמֹ֨עַ הָעָ֜ם אֶת ק֣וֹל הַשּׁוֹפָ֗ר
-    וַיָּרִ֤יעוּ הָעָם֙ תְּרוּעָ֣ה גְדוֹלָ֔ה וַתִּפֹּ֨ל הַֽחוֹמָ֜ה תַּחְתֶּ֗יהָ וַיַּ֨עַל הָעָ֤ם הָעִ֨ירָה֙
-    אִ֣ישׁ נֶגְדּ֔וֹ וַֽיִּלְכְּד֖וּ אֶת הָעִֽיר
-- tradition: islam
-  ref: Quran 36:28
-  note: 'No host from heaven was needed: a single Shout (sayha) and they were extinguished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَنزَلْنَا عَلَىٰ قَوْمِهِۦ مِنۢ بَعْدِهِۦ مِن جُندٍ مِّنَ ٱلسَّمَآءِ وَمَا كُنَّا مُنزِلِينَ
-- tradition: islam
-  ref: Quran 36:29
-  note: 'No host from heaven was needed: a single Shout (sayha) and they were extinguished'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَٰمِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyārîʿû hā-ʿām tərûʿâ ḡəḏôlâ wa-ttippōl ha-ḥômâ taḥteyhā vs. in kānat illā ṣayḥatan wāḥidatan
-    fa-idhā hum khāmidūn: a single shout brings a city''s end. In Joshua it is the people''s war cry,
-    followed by conquest; in the Quran God''s own blast, with no army needed (wa-mā anzalnā ... min jundin
-    mina s-samāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No host from heaven was needed: a single Shout (sayha) and they
     were extinguished (weight 6.0). Pair score 6.0.'
@@ -74,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'No host from heaven was needed: a single Shout (sayha) and they were extinguished'
+kinds:
+- echo
+units:
+- id: hb-josh-6-jericho
+  title: Fall of Jericho; Rahab spared; curse on the rebuilder
+  tradition: judaism
+- id: quran-36-people-of-the-town
+  title: The people of the town, the three messengers and the man who came running
+  tradition: islam
+matches:
+- kind: echo
+  label: 'No host from heaven was needed: a single Shout (sayha) and they were extinguished'
+  note: 'wa-yyārîʿû hā-ʿām tərûʿâ ḡəḏôlâ wa-ttippōl ha-ḥômâ taḥteyhā vs. in kānat illā ṣayḥatan wāḥidatan
+    fa-idhā hum khāmidūn: a single shout brings a city''s end. In Joshua it is the people''s war cry,
+    followed by conquest; in the Quran God''s own blast, with no army needed (wa-mā anzalnā ... min jundin
+    mina s-samāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 6:20
+      lang: he
+      text: וַיָּ֣רַע הָעָ֔ם וַֽיִּתְקְע֖וּ בַּשֹּֽׁפָר֑וֹת וַיְהִי֩ כִשְׁמֹ֨עַ הָעָ֜ם אֶת ק֣וֹל הַשּׁוֹפָ֗ר
+        וַיָּרִ֤יעוּ הָעָם֙ תְּרוּעָ֣ה גְדוֹלָ֔ה וַתִּפֹּ֨ל הַֽחוֹמָ֜ה תַּחְתֶּ֗יהָ וַיַּ֨עַל הָעָ֤ם הָעִ֨ירָה֙
+        אִ֣ישׁ נֶגְדּ֔וֹ וַֽיִּלְכְּד֖וּ אֶת הָעִֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 36:29
+      lang: ar
+      text: إِن كَانَتْ إِلَّا صَيْحَةً وَٰحِدَةً فَإِذَا هُمْ خَٰمِدُونَ
 ---
 
 ## Questions

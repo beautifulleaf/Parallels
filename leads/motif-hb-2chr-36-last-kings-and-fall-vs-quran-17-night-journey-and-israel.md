@@ -2,8 +2,7 @@
 id: motif-hb-2chr-36-last-kings-and-fall-vs-quran-17-night-journey-and-israel
 title: Last kings of Judah, burning of the temple, exile and seventy years ↔ The Night Journey and the
   two corruptions of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 1 motifs: the enemy enters the sanctuary (masjid) a second time as the
-  first and destroys all.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,52 +15,9 @@ layers:
 - motif
 motifs:
 - temple-entered-and-destroyed-twice
-passages:
-- tradition: judaism
-  ref: 2Chr 36:17
-  note: 'The enemy enters the sanctuary (masjid) a second time as the first and destroys all (wayyaʿal
-    ʿălêhem ʾet-melek kaśdîm wayyahărōg baḥûrêhem baḥereb bəbêt miqdāšām ... wayyiśrəpû ʾet-bêt hāʾĕlōhîm;
-    wa-li-yadkhulū l-masjida ka-mā dakhalūhu awwala marratin wa-li-yutabbirū mā ʿalaw tatbīrā: God brings
-    the foe, who kills in the sanctuary and destroys it. Chr tells one destruction; Q speaks of two (marratayn),
-    the second like the first.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַל עֲלֵיהֶ֜ם אֶת מֶ֣לֶךְ כשדיים כַּשְׂדִּ֗ים וַיַּהֲרֹ֨ג בַּחוּרֵיהֶ֤ם בַּחֶ֨רֶב֙ בְּבֵ֣ית
-    מִקְדָּשָׁ֔ם וְלֹ֥א חָמַ֛ל עַל בָּח֥וּר וּבְתוּלָ֖ה זָקֵ֣ן וְיָשֵׁ֑שׁ הַכֹּ֖ל נָתַ֥ן בְּיָדֽוֹ
-- tradition: judaism
-  ref: 2Chr 36:19
-  note: 'The enemy enters the sanctuary (masjid) a second time as the first and destroys all (wayyaʿal
-    ʿălêhem ʾet-melek kaśdîm wayyahărōg baḥûrêhem baḥereb bəbêt miqdāšām ... wayyiśrəpû ʾet-bêt hāʾĕlōhîm;
-    wa-li-yadkhulū l-masjida ka-mā dakhalūhu awwala marratin wa-li-yutabbirū mā ʿalaw tatbīrā: God brings
-    the foe, who kills in the sanctuary and destroys it. Chr tells one destruction; Q speaks of two (marratayn),
-    the second like the first.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּשְׂרְפוּ֙ אֶת בֵּ֣ית הָאֱלֹהִ֔ים וַֽיְנַתְּצ֔וּ אֵ֖ת חוֹמַ֣ת יְרוּשָׁלִָ֑ם וְכָל אַרְמְנוֹתֶ֨יהָ֙
-    שָׂרְפ֣וּ בָאֵ֔שׁ וְכָל כְּלֵ֥י מַחֲמַדֶּ֖יהָ לְהַשְׁחִֽית
-- tradition: islam
-  ref: Quran 17:7
-  note: The enemy enters the sanctuary (masjid) a second time as the first and destroys all (to enter
-    the masjid as they entered it the first time and destroy all they overran)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
-- tradition: islam
-  ref: Quran 17:5
-  note: The enemy enters the sanctuary (masjid) a second time as the first and destroys all (to enter
-    the masjid as they entered it the first time and destroy all they overran)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
-    فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyaʿal ʿălêhem ʾet-melek kaśdîm wayyahărōg baḥûrêhem baḥereb bəbêt miqdāšām ... wayyiśrəpû
-    ʾet-bêt hāʾĕlōhîm; wa-li-yadkhulū l-masjida ka-mā dakhalūhu awwala marratin wa-li-yutabbirū mā ʿalaw
-    tatbīrā: God brings the foe, who kills in the sanctuary and destroys it. Chr tells one destruction;
-    Q speaks of two (marratayn), the second like the first.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The enemy enters the sanctuary (masjid) a second time as the first
     and destroys all (weight 6.7). Pair score 6.7.'
@@ -95,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The enemy enters the sanctuary (masjid) a second time as the first and destroys all
+kinds:
+- parallel
+units:
+- id: hb-2chr-36-last-kings-and-fall
+  title: Last kings of Judah, burning of the temple, exile and seventy years
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The enemy enters the sanctuary (masjid) a second time as the first and destroys all
+  note: 'wayyaʿal ʿălêhem ʾet-melek kaśdîm wayyahărōg baḥûrêhem baḥereb bəbêt miqdāšām ... wayyiśrəpû
+    ʾet-bêt hāʾĕlōhîm; wa-li-yadkhulū l-masjida ka-mā dakhalūhu awwala marratin wa-li-yutabbirū mā ʿalaw
+    tatbīrā: God brings the foe, who kills in the sanctuary and destroys it. Chr tells one destruction;
+    Q speaks of two (marratayn), the second like the first.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 36:17
+      lang: he
+      text: וַיַּ֨עַל עֲלֵיהֶ֜ם אֶת מֶ֣לֶךְ כשדיים כַּשְׂדִּ֗ים וַיַּהֲרֹ֨ג בַּחוּרֵיהֶ֤ם בַּחֶ֨רֶב֙ בְּבֵ֣ית
+        מִקְדָּשָׁ֔ם וְלֹ֥א חָמַ֛ל עַל בָּח֥וּר וּבְתוּלָ֖ה זָקֵ֣ן וְיָשֵׁ֑שׁ הַכֹּ֖ל נָתַ֥ן בְּיָדֽוֹ
+    - ref: 2Chr 36:19
+      lang: he
+      text: וַֽיִּשְׂרְפוּ֙ אֶת בֵּ֣ית הָאֱלֹהִ֔ים וַֽיְנַתְּצ֔וּ אֵ֖ת חוֹמַ֣ת יְרוּשָׁלִָ֑ם וְכָל אַרְמְנוֹתֶ֨יהָ֙
+        שָׂרְפ֣וּ בָאֵ֔שׁ וְכָל כְּלֵ֥י מַחֲמַדֶּ֖יהָ לְהַשְׁחִֽית
+  - tradition: islam
+    passages:
+    - ref: Quran 17:5
+      lang: ar
+      text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
+        فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
+    - ref: Quran 17:7
+      lang: ar
+      text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ
+        ٱلْءَاخِرَةِ لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ
+        وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا
 ---
 
 ## Questions

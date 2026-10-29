@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-2-israel-favor
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Address to the Children
   of Israel
-summary: 'These two units share 1 motifs: whether payment may substitute for a life [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - payment-for-a-life-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 43:3
-  note: 'Whether payment may substitute for a life [contrast between the texts] (Isa 43:3 nātattî kopsrĕkā
-    miṣrayim kûš û-sĕbāʾ taḥtêkā: God gives nations as Israel''s ransom (kōper) and peoples in exchange
-    for her life; Q 2:48, addressed to the Children of Israel, wa-lā yuʾkhadhu minhā ʿadlun: on the Day
-    no ransom or substitute is taken for any soul. Substitutionary ransom for the chosen vs none for anyone.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֗י אֲנִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ קְד֥וֹשׁ יִשְׂרָאֵ֖ל מוֹשִׁיעֶ֑ךָ נָתַ֤תִּי כָפְרְךָ֙ מִצְרַ֔יִם
-    כּ֥וּשׁ וּסְבָ֖א תַּחְתֶּֽיךָ
-- tradition: judaism
-  ref: Isa 43:4
-  note: 'Whether payment may substitute for a life [contrast between the texts] (Isa 43:3 nātattî kopsrĕkā
-    miṣrayim kûš û-sĕbāʾ taḥtêkā: God gives nations as Israel''s ransom (kōper) and peoples in exchange
-    for her life; Q 2:48, addressed to the Children of Israel, wa-lā yuʾkhadhu minhā ʿadlun: on the Day
-    no ransom or substitute is taken for any soul. Substitutionary ransom for the chosen vs none for anyone.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵאֲשֶׁ֨ר יָקַ֧רְתָּ בְעֵינַ֛י נִכְבַּ֖דְתָּ וַאֲנִ֣י אֲהַבְתִּ֑יךָ וְאֶתֵּ֤ן אָדָם֙ תַּחְתֶּ֔יךָ
-    וּלְאֻמִּ֖ים תַּ֥חַת נַפְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 2:48
-  note: 'Whether payment may substitute for a life [contrast between the texts] (Isa 43:3 nātattî kopsrĕkā
-    miṣrayim kûš û-sĕbāʾ taḥtêkā: God gives nations as Israel''s ransom (kōper) and peoples in exchange
-    for her life; Q 2:48, addressed to the Children of Israel, wa-lā yuʾkhadhu minhā ʿadlun: on the Day
-    no ransom or substitute is taken for any soul. Substitutionary ransom for the chosen vs none for anyone.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
-    وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Isa 43:3 nātattî kopsrĕkā miṣrayim kûš û-sĕbāʾ taḥtêkā: God gives nations as Israel''s ransom
-    (kōper) and peoples in exchange for her life; Q 2:48, addressed to the Children of Israel, wa-lā yuʾkhadhu
-    minhā ʿadlun: on the Day no ransom or substitute is taken for any soul. Substitutionary ransom for
-    the chosen vs none for anyone.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether payment may substitute for a life [contrast between the
     texts] (weight 5.8). Pair score 5.8.'
@@ -86,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether payment may substitute for a life
+kinds:
+- contrast
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-2-israel-favor
+  title: Address to the Children of Israel
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether payment may substitute for a life
+  note: 'Isa 43:3 nātattî kopsrĕkā miṣrayim kûš û-sĕbāʾ taḥtêkā: God gives nations as Israel''s ransom
+    (kōper) and peoples in exchange for her life; Q 2:48, addressed to the Children of Israel, wa-lā yuʾkhadhu
+    minhā ʿadlun: on the Day no ransom or substitute is taken for any soul. Substitutionary ransom for
+    the chosen vs none for anyone.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:3
+      lang: he
+      text: כִּ֗י אֲנִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ קְד֥וֹשׁ יִשְׂרָאֵ֖ל מוֹשִׁיעֶ֑ךָ נָתַ֤תִּי כָפְרְךָ֙ מִצְרַ֔יִם
+        כּ֥וּשׁ וּסְבָ֖א תַּחְתֶּֽיךָ
+    - ref: Isa 43:4
+      lang: he
+      text: מֵאֲשֶׁ֨ר יָקַ֧רְתָּ בְעֵינַ֛י נִכְבַּ֖דְתָּ וַאֲנִ֣י אֲהַבְתִּ֑יךָ וְאֶתֵּ֤ן אָדָם֙ תַּחְתֶּ֔יךָ
+        וּלְאֻמִּ֖ים תַּ֥חַת נַפְשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:48
+      lang: ar
+      text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
+        وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
 ---
 
 ## Questions

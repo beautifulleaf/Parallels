@@ -2,7 +2,7 @@
 id: motif-hb-ps-12-pure-words-vs-quran-33-adoption-and-zihar
 title: Psalm 12 - flattering lips and God's pure words ↔ Two hearts, zihar, adopted sons, and the prophet's
   wives as mothers
-summary: 'These two units share 1 motifs: god has not put two hearts inside any man.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - no-man-has-two-hearts
-passages:
-- tradition: judaism
-  ref: Ps 12:3
-  note: God has not put two hearts inside any man (šāwʾ yəḏabbərû ... śəp̄aṯ ḥălāqôṯ bə-lēḇ wā-lēḇ yəḏabbērû
-    (they speak with a heart and a heart, i.e. double-heartedness) vs. mā jaʿala llāhu li-rajulin min
-    qalbayni fī jawfihi, next to dhālikum qawlukum bi-afwāhikum (merely the words of your mouths). The
-    Hebrew idiom of the duplicitous double heart is denied anatomically (cf. bə-lōʾ-lēḇ wā-lēḇ, 1 Chr
-    12:34).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁ֤וְא יְֽדַבְּרוּ֮ אִ֤ישׁ אֶת רֵ֫עֵ֥הוּ שְׂפַ֥ת חֲלָק֑וֹת בְּלֵ֖ב וָלֵ֣ב יְדַבֵּֽרוּ
-- tradition: islam
-  ref: Quran 33:4
-  note: God has not put two hearts inside any man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى
-    تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم
-    بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. šāwʾ yəḏabbərû ... śəp̄aṯ ḥălāqôṯ bə-lēḇ wā-lēḇ yəḏabbērû (they speak with a heart and a heart,
-    i.e. double-heartedness) vs. mā jaʿala llāhu li-rajulin min qalbayni fī jawfihi, next to dhālikum
-    qawlukum bi-afwāhikum (merely the words of your mouths). The Hebrew idiom of the duplicitous double
-    heart is denied anatomically (cf. bə-lōʾ-lēḇ wā-lēḇ, 1 Chr 12:34).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has not put two hearts inside any man (weight 6.7). Pair score
     6.7.'
@@ -66,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has not put two hearts inside any man
+kinds:
+- echo
+units:
+- id: hb-ps-12-pure-words
+  title: Psalm 12 - flattering lips and God's pure words
+  tradition: judaism
+- id: quran-33-adoption-and-zihar
+  title: Two hearts, zihar, adopted sons, and the prophet's wives as mothers
+  tradition: islam
+matches:
+- kind: echo
+  label: God has not put two hearts inside any man
+  note: šāwʾ yəḏabbərû ... śəp̄aṯ ḥălāqôṯ bə-lēḇ wā-lēḇ yəḏabbērû (they speak with a heart and a heart,
+    i.e. double-heartedness) vs. mā jaʿala llāhu li-rajulin min qalbayni fī jawfihi, next to dhālikum
+    qawlukum bi-afwāhikum (merely the words of your mouths). The Hebrew idiom of the duplicitous double
+    heart is denied anatomically (cf. bə-lōʾ-lēḇ wā-lēḇ, 1 Chr 12:34).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 12:3
+      lang: he
+      text: שָׁ֤וְא יְֽדַבְּרוּ֮ אִ֤ישׁ אֶת רֵ֫עֵ֥הוּ שְׂפַ֥ת חֲלָק֑וֹת בְּלֵ֖ב וָלֵ֣ב יְדַבֵּֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:4
+      lang: ar
+      text: مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّٰٓـِٔى
+        تُظَٰهِرُونَ مِنْهُنَّ أُمَّهَٰتِكُمْ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ذَٰلِكُمْ قَوْلُكُم
+        بِأَفْوَٰهِكُمْ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-36-bones-and-be
 title: The Song of Moses (Ha'azinu) ↔ Who revives rotten bones? Fire from the green tree; Be and it is
-summary: 'These two units share 1 motifs: god originates creation and then repeats it (resurrection as
-  re-creation).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - god-originates-and-repeats-creation
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: 'God originates creation and then repeats it (resurrection as re-creation) (ʾănî ʾāmîṯ wa-ʾăḥayyeh
-    vs. yuḥyīhā lladhī anshaʾahā awwala marra: God alone gives death and life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 36:79
-  note: God originates creation and then repeats it (resurrection as re-creation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-- tradition: islam
-  ref: Quran 36:81
-  note: God originates creation and then repeats it (resurrection as re-creation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَيْسَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِقَٰدِرٍ عَلَىٰٓ أَن يَخْلُقَ مِثْلَهُم بَلَىٰ
-    وَهُوَ ٱلْخَلَّٰقُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾănî ʾāmîṯ wa-ʾăḥayyeh vs. yuḥyīhā lladhī anshaʾahā awwala marra: God alone gives death and
-    life.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God originates creation and then repeats it (resurrection as re-creation)
     (weight 5.4). Pair score 5.4.'
@@ -70,6 +46,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God originates creation and then repeats it (resurrection as re-creation)
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-36-bones-and-be
+  title: Who revives rotten bones? Fire from the green tree; Be and it is
+  tradition: islam
+matches:
+- kind: echo
+  label: God originates creation and then repeats it (resurrection as re-creation)
+  note: 'ʾănî ʾāmîṯ wa-ʾăḥayyeh vs. yuḥyīhā lladhī anshaʾahā awwala marra: God alone gives death and life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 36:79
+      lang: ar
+      text: قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
 ---
 
 ## Questions

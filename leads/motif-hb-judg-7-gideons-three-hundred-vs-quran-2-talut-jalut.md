@@ -2,8 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-2-talut-jalut
 title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ Talut (Saul),
   the ark and Jalut (Goliath)
-summary: 'These two units share 2 motifs: soldiers are selected by how they drink water, soldiers are
-  selected by how they drink water [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,88 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- soldiers-chosen-by-way-of-drinking
 - soldiers-chosen-by-way-of-drinking-as-divergence
-passages:
-- tradition: judaism
-  ref: Judg 7:4-7
-  note: Soldiers are selected by how they drink water (those lapping like a dog (300) vs kneeling to drink)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (7:4) וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן עוֹד֮ הָעָ֣ם רָב֒ הוֹרֵ֤ד אוֹתָם֙ אֶל הַמַּ֔יִם וְאֶצְרְפֶ֥נּוּ
-    לְךָ֖ שָׁ֑ם וְהָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜יךָ זֶ֣ה יֵלֵ֣ךְ אִתָּ֗ךְ ה֚וּא יֵלֵ֣ךְ אִתָּ֔ךְ וְכֹ֨ל אֲשֶׁר
-    אֹמַ֜ר אֵלֶ֗יךָ זֶ֚ה לֹא יֵלֵ֣ךְ עִמָּ֔ךְ ה֖וּא לֹ֥א יֵלֵֽךְ (7:5) וַיּ֥וֹרֶד אֶת הָעָ֖ם אֶל הַמָּ֑יִם
-    וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר יָלֹק֩ בִּלְשׁוֹנ֨וֹ מִן הַמַּ֜יִם כַּאֲשֶׁ֧ר יָלֹ֣ק
-    הַכֶּ֗לֶב תַּצִּ֤יג אוֹתוֹ֙ לְבָ֔ד וְכֹ֛ל אֲשֶׁר יִכְרַ֥ע עַל בִּרְכָּ֖יו לִשְׁתּֽוֹת (7:6) וַיְהִ֗י
-    מִסְפַּ֞ר הַֽמֲלַקְקִ֤ים בְּיָדָם֙ אֶל פִּיהֶ֔ם שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וְכֹל֙ יֶ֣תֶר הָעָ֔ם כָּרְע֥וּ
-    עַל בִּרְכֵיהֶ֖ם לִשְׁתּ֥וֹת מָֽיִם (7:7) וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן בִּשְׁלֹשׁ֩ מֵא֨וֹת הָאִ֤ישׁ
-    הַֽמֲלַקְקִים֙ אוֹשִׁ֣יעַ אֶתְכֶ֔ם וְנָתַתִּ֥י אֶת מִדְיָ֖ן בְּיָדֶ֑ךָ וְכָל הָעָ֔ם יֵלְכ֖וּ אִ֥ישׁ
-    לִמְקֹמֽוֹ
-- tradition: islam
-  ref: Quran 2:249
-  note: Soldiers are selected by how they drink water (Gideon's test transferred to Saul)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ
-    فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ
-    فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ
-    قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟
-    ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
-- tradition: judaism
-  ref: Judg 7:5
-  note: 'Soldiers are selected by how they drink water [divergence between the texts] (Judg 7:5-7 kōl
-    ʾăšer yālōq bi-lšônô min ha-mmayim ... wa-yhî mispar ha-mĕlaqqĕqîm bĕ-yādām ʾel pîhem šĕlōš mēʾôt
-    ʾîš: Gideon''s army sorted at the water, the three hundred who lapped with hand to mouth kept; Q 2:249
-    inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī ... illā mani ghtarafa ghurfatan
-    bi-yadihi: Talut (Saul) tests his army at a river; whoever drinks is not with him, except one who
-    scoops a handful. Leader moved from Gideon to Saul; the hand to the mouth is kept as the exception;
-    the purpose shifts from reducing numbers ''lest Israel boast'' (7:2) to a test of obedience (mubtalīkum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּ֥וֹרֶד אֶת הָעָ֖ם אֶל הַמָּ֑יִם וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר יָלֹק֩ בִּלְשׁוֹנ֨וֹ
-    מִן הַמַּ֜יִם כַּאֲשֶׁ֧ר יָלֹ֣ק הַכֶּ֗לֶב תַּצִּ֤יג אוֹתוֹ֙ לְבָ֔ד וְכֹ֛ל אֲשֶׁר יִכְרַ֥ע עַל בִּרְכָּ֖יו
-    לִשְׁתּֽוֹת
-- tradition: judaism
-  ref: Judg 7:6
-  note: 'Soldiers are selected by how they drink water [divergence between the texts] (Judg 7:5-7 kōl
-    ʾăšer yālōq bi-lšônô min ha-mmayim ... wa-yhî mispar ha-mĕlaqqĕqîm bĕ-yādām ʾel pîhem šĕlōš mēʾôt
-    ʾîš: Gideon''s army sorted at the water, the three hundred who lapped with hand to mouth kept; Q 2:249
-    inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī ... illā mani ghtarafa ghurfatan
-    bi-yadihi: Talut (Saul) tests his army at a river; whoever drinks is not with him, except one who
-    scoops a handful. Leader moved from Gideon to Saul; the hand to the mouth is kept as the exception;
-    the purpose shifts from reducing numbers ''lest Israel boast'' (7:2) to a test of obedience (mubtalīkum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י מִסְפַּ֞ר הַֽמֲלַקְקִ֤ים בְּיָדָם֙ אֶל פִּיהֶ֔ם שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וְכֹל֙ יֶ֣תֶר
-    הָעָ֔ם כָּרְע֥וּ עַל בִּרְכֵיהֶ֖ם לִשְׁתּ֥וֹת מָֽיִם
-- tradition: islam
-  ref: Quran 2:249
-  note: 'Soldiers are selected by how they drink water [divergence between the texts] (Judg 7:5-7 kōl
-    ʾăšer yālōq bi-lšônô min ha-mmayim ... wa-yhî mispar ha-mĕlaqqĕqîm bĕ-yādām ʾel pîhem šĕlōš mēʾôt
-    ʾîš: Gideon''s army sorted at the water, the three hundred who lapped with hand to mouth kept; Q 2:249
-    inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī ... illā mani ghtarafa ghurfatan
-    bi-yadihi: Talut (Saul) tests his army at a river; whoever drinks is not with him, except one who
-    scoops a handful. Leader moved from Gideon to Saul; the hand to the mouth is kept as the exception;
-    the purpose shifts from reducing numbers ''lest Israel boast'' (7:2) to a test of obedience (mubtalīkum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ
-    فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ
-    فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ
-    قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟
-    ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
+- soldiers-chosen-by-way-of-drinking
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Judg 7:5-7 kōl ʾăšer yālōq bi-lšônô min ha-mmayim ... wa-yhî mispar ha-mĕlaqqĕqîm bĕ-yādām
-    ʾel pîhem šĕlōš mēʾôt ʾîš: Gideon''s army sorted at the water, the three hundred who lapped with hand
-    to mouth kept; Q 2:249 inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī ... illā
-    mani ghtarafa ghurfatan bi-yadihi: Talut (Saul) tests his army at a river; whoever drinks is not with
-    him, except one who scoops a handful. Leader moved from Gideon to Saul; the hand to the mouth is kept
-    as the exception; the purpose shifts from reducing numbers ''lest Israel boast'' (7:2) to a test of
-    obedience (mubtalīkum).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Soldiers are selected by how they drink water (weight 6.7); Soldiers
-    are selected by how they drink water [divergence between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Soldiers are selected by how they drink water [divergence between
+    the texts] (weight 6.7); Soldiers are selected by how they drink water (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns: An enemy
     soldier''s dream, overheard, foretells their defeat; The Hill of Moreh (''teacher'') and the Spring
@@ -127,6 +52,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Soldiers are selected by how they drink water
+kinds:
+- divergence
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Soldiers are selected by how they drink water
+  note: 'Judg 7:5-7 kōl ʾăšer yālōq bi-lšônô min ha-mmayim ... wa-yhî mispar ha-mĕlaqqĕqîm bĕ-yādām ʾel
+    pîhem šĕlōš mēʾôt ʾîš: Gideon''s army sorted at the water, the three hundred who lapped with hand
+    to mouth kept; Q 2:249 inna llāha mubtalīkum bi-naharin fa-man shariba minhu fa-laysa minnī ... illā
+    mani ghtarafa ghurfatan bi-yadihi: Talut (Saul) tests his army at a river; whoever drinks is not with
+    him, except one who scoops a handful. Leader moved from Gideon to Saul; the hand to the mouth is kept
+    as the exception; the purpose shifts from reducing numbers ''lest Israel boast'' (7:2) to a test of
+    obedience (mubtalīkum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:5
+      lang: he
+      text: וַיּ֥וֹרֶד אֶת הָעָ֖ם אֶל הַמָּ֑יִם וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר יָלֹק֩
+        בִּלְשׁוֹנ֨וֹ מִן הַמַּ֜יִם כַּאֲשֶׁ֧ר יָלֹ֣ק הַכֶּ֗לֶב תַּצִּ֤יג אוֹתוֹ֙ לְבָ֔ד וְכֹ֛ל אֲשֶׁר
+        יִכְרַ֥ע עַל בִּרְכָּ֖יו לִשְׁתּֽוֹת
+    - ref: Judg 7:6
+      lang: he
+      text: וַיְהִ֗י מִסְפַּ֞ר הַֽמֲלַקְקִ֤ים בְּיָדָם֙ אֶל פִּיהֶ֔ם שְׁלֹ֥שׁ מֵא֖וֹת אִ֑ישׁ וְכֹל֙ יֶ֣תֶר
+        הָעָ֔ם כָּרְע֥וּ עַל בִּרְכֵיהֶ֖ם לִשְׁתּ֥וֹת מָֽיִם
+    - ref: Judg 7:7
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל גִּדְע֗וֹן בִּשְׁלֹשׁ֩ מֵא֨וֹת הָאִ֤ישׁ הַֽמֲלַקְקִים֙ אוֹשִׁ֣יעַ אֶתְכֶ֔ם
+        וְנָתַתִּ֥י אֶת מִדְיָ֖ן בְּיָדֶ֑ךָ וְכָל הָעָ֔ם יֵלְכ֖וּ אִ֥ישׁ לִמְקֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:249
+      lang: ar
+      text: فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ
+        مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ
+        بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟
+        مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ
+        أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ
+        وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 ---
 
 ## Questions

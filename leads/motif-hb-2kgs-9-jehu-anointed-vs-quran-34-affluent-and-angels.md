@@ -2,7 +2,7 @@
 id: motif-hb-2kgs-9-jehu-anointed-vs-quran-34-affluent-and-angels
 title: Jehu anointed king ↔ The affluent reject warners; angels disown jinn-worshippers; the prophet is
   not mad
-summary: 'These two units share 1 motifs: officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 34:46
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟
-    مَا بِصَاحِبِكُم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. maddûaʿ bāʾ ha-mməšuggāʿ ha-zzeh ʾēleyḵā vs. mā bi-ṣāḥibikum min jinnatin in huwa illā nadhīrun
-    lakum: the messenger dismissed as mad by his audience. The Quran rebuts it; in Kings Jehu brushes
-    it aside (ʾattem yəḏaʿtem ʾeṯ-hā-ʾîš wə-ʾeṯ-śîḥô).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
     (weight 5.1). Pair score 5.1.'
@@ -65,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Officers call the visiting prophet 'this madman' (meshugga')
+kinds:
+- parallel
+units:
+- id: hb-2kgs-9-jehu-anointed
+  title: Jehu anointed king
+  tradition: judaism
+- id: quran-34-affluent-and-angels
+  title: The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  note: 'maddûaʿ bāʾ ha-mməšuggāʿ ha-zzeh ʾēleyḵā vs. mā bi-ṣāḥibikum min jinnatin in huwa illā nadhīrun
+    lakum: the messenger dismissed as mad by his audience. The Quran rebuts it; in Kings Jehu brushes
+    it aside (ʾattem yəḏaʿtem ʾeṯ-hā-ʾîš wə-ʾeṯ-śîḥô).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:46
+      lang: ar
+      text: قُلْ إِنَّمَآ أَعِظُكُم بِوَٰحِدَةٍ أَن تَقُومُوا۟ لِلَّهِ مَثْنَىٰ وَفُرَٰدَىٰ ثُمَّ تَتَفَكَّرُوا۟
+        مَا بِصَاحِبِكُم مِّن جِنَّةٍ إِنْ هُوَ إِلَّا نَذِيرٌ لَّكُم بَيْنَ يَدَىْ عَذَابٍ شَدِيدٍ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-zech-5-flying-scroll-vs-quran-60-mumtahana-abrahams-example-and-the-womens-pledge
 title: 'Sixth vision, the flying scroll ↔ Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent
   example, examining emigrant women, and the women''s pledge'
-summary: 'These two units share 1 motifs: prohibitions of murder, adultery, theft and false witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Zech 5:3
-  note: Prohibitions of murder, adultery, theft and false witness (theft and false oath, one from each
-    tablet in rabbinic reading)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י זֹ֚את הָֽאָלָ֔ה הַיּוֹצֵ֖את עַל פְּנֵ֣י כָל הָאָ֑רֶץ כִּ֣י כָל הַגֹּנֵ֗ב מִזֶּה֙
-    כָּמ֣וֹהָ נִקָּ֔ה וְכָל הַנִּ֨שְׁבָּ֔ע מִזֶּ֖ה כָּמ֥וֹהָ נִקָּֽה
-- tradition: judaism
-  ref: Zech 5:4
-  note: Prohibitions of murder, adultery, theft and false witness (theft and false oath, one from each
-    tablet in rabbinic reading)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹצֵאתִ֗יהָ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וּבָ֨אָה֙ אֶל בֵּ֣ית הַגַּנָּ֔ב וְאֶל בֵּ֛ית הַנִּשְׁבָּ֥ע
-    בִּשְׁמִ֖י לַשָּׁ֑קֶר וְלָ֨נֶה֙ בְּת֣וֹךְ בֵּית֔וֹ וְכִלַּ֖תּוּ וְאֶת עֵצָ֥יו וְאֶת אֲבָנָֽיו
-- tradition: islam
-  ref: Quran 60:12
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A curse on the thief and the false swearer: kol hag-gōnēḇ ... wə-ḵol han-nišbāʿ ... niqqâ vs.
-    wa-lā yasriqna ... wa-lā yaʾtīna bi-buhtānin yaftarīnahu: theft and false words picked out of the
-    Decalogue, as a curse in Zechariah and a pledge in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness (weight
     5.1). Pair score 5.1.'
@@ -76,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibitions of murder, adultery, theft and false witness
+kinds:
+- echo
+units:
+- id: hb-zech-5-flying-scroll
+  title: Sixth vision, the flying scroll
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: echo
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'A curse on the thief and the false swearer: kol hag-gōnēḇ ... wə-ḵol han-nišbāʿ ... niqqâ vs.
+    wa-lā yasriqna ... wa-lā yaʾtīna bi-buhtānin yaftarīnahu: theft and false words picked out of the
+    Decalogue, as a curse in Zechariah and a pledge in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 5:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י זֹ֚את הָֽאָלָ֔ה הַיּוֹצֵ֖את עַל פְּנֵ֣י כָל הָאָ֑רֶץ כִּ֣י כָל הַגֹּנֵ֗ב
+        מִזֶּה֙ כָּמ֣וֹהָ נִקָּ֔ה וְכָל הַנִּ֨שְׁבָּ֔ע מִזֶּ֖ה כָּמ֥וֹהָ נִקָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

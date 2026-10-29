@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-17-david-goliath-vs-quran-2-talut-jalut
 title: David and Goliath ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: david kills the philistine giant [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,68 +13,9 @@ layers:
 - motif
 motifs:
 - david-slays-the-giant-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Sam 17:47
-  note: 'David kills the Philistine giant [divergence between the texts] (1Sam 17:50 wa-yyeḥĕzaq dāwid
-    min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad dāwid, 17:47 kî la-YHWH ha-mmilḥāmâ:
-    the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni llāhi wa-qatala dāwūdu jālūta
-    wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once receives kingship and wisdom.
-    Sling, challenge and Saul''s reward are gone; kingship follows at once (in Samuel only years later),
-    and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle is YHWH''s'' is matched by
-    bi-idhni llāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵֽדְעוּ֙ כָּל הַקָּהָ֣ל הַזֶּ֔ה כִּֽי לֹ֛א בְּחֶ֥רֶב וּבַחֲנִ֖ית יְהוֹשִׁ֣יעַ יְהוָ֑ה כִּ֤י
-    לַֽיהוָה֙ הַמִּלְחָמָ֔ה וְנָתַ֥ן אֶתְכֶ֖ם בְּיָדֵֽנוּ
-- tradition: judaism
-  ref: 1Sam 17:50
-  note: 'David kills the Philistine giant [divergence between the texts] (1Sam 17:50 wa-yyeḥĕzaq dāwid
-    min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad dāwid, 17:47 kî la-YHWH ha-mmilḥāmâ:
-    the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni llāhi wa-qatala dāwūdu jālūta
-    wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once receives kingship and wisdom.
-    Sling, challenge and Saul''s reward are gone; kingship follows at once (in Samuel only years later),
-    and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle is YHWH''s'' is matched by
-    bi-idhni llāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַ֨ק דָּוִ֤ד מִן הַפְּלִשְׁתִּי֙ בַּקֶּ֣לַע וּבָאֶ֔בֶן וַיַּ֥ךְ אֶת הַפְּלִשְׁתִּ֖י וַיְמִיתֵ֑הוּ
-    וְחֶ֖רֶב אֵ֥ין בְּיַד דָּוִֽד
-- tradition: islam
-  ref: Quran 2:250
-  note: 'David kills the Philistine giant [divergence between the texts] (1Sam 17:50 wa-yyeḥĕzaq dāwid
-    min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad dāwid, 17:47 kî la-YHWH ha-mmilḥāmâ:
-    the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni llāhi wa-qatala dāwūdu jālūta
-    wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once receives kingship and wisdom.
-    Sling, challenge and Saul''s reward are gone; kingship follows at once (in Samuel only years later),
-    and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle is YHWH''s'' is matched by
-    bi-idhni llāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
-    أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 2:251
-  note: 'David kills the Philistine giant [divergence between the texts] (1Sam 17:50 wa-yyeḥĕzaq dāwid
-    min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad dāwid, 17:47 kî la-YHWH ha-mmilḥāmâ:
-    the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni llāhi wa-qatala dāwūdu jālūta
-    wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once receives kingship and wisdom.
-    Sling, challenge and Saul''s reward are gone; kingship follows at once (in Samuel only years later),
-    and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle is YHWH''s'' is matched by
-    bi-idhni llāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ
-    وَعَلَّمَهُۥ مِمَّا يَشَآءُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ
-    وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. 1Sam 17:50 wa-yyeḥĕzaq dāwid min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad
-    dāwid, 17:47 kî la-YHWH ha-mmilḥāmâ: the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni
-    llāhi wa-qatala dāwūdu jālūta wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once
-    receives kingship and wisdom. Sling, challenge and Saul''s reward are gone; kingship follows at once
-    (in Samuel only years later), and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle
-    is YHWH''s'' is matched by bi-idhni llāh.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David kills the Philistine giant [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -107,6 +48,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: David kills the Philistine giant
+kinds:
+- divergence
+units:
+- id: hb-1sam-17-david-goliath
+  title: David and Goliath
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: divergence
+  label: David kills the Philistine giant
+  note: '1Sam 17:50 wa-yyeḥĕzaq dāwid min ha-ppĕlištî ba-qqelaʿ û-bā-ʾeben ... wĕ-ḥereb ʾên bĕ-yad dāwid,
+    17:47 kî la-YHWH ha-mmilḥāmâ: the shepherd boy with sling and stone; Q 2:251 fa-hazamūhum bi-idhni
+    llāhi wa-qatala dāwūdu jālūta wa-ātāhu llāhu l-mulka wa-l-ḥikmata: David kills Goliath and at once
+    receives kingship and wisdom. Sling, challenge and Saul''s reward are gone; kingship follows at once
+    (in Samuel only years later), and ''wisdom'' (Solomon''s gift in 1Kgs 3) goes to David. ''The battle
+    is YHWH''s'' is matched by bi-idhni llāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 17:47
+      lang: he
+      text: וְיֵֽדְעוּ֙ כָּל הַקָּהָ֣ל הַזֶּ֔ה כִּֽי לֹ֛א בְּחֶ֥רֶב וּבַחֲנִ֖ית יְהוֹשִׁ֣יעַ יְהוָ֑ה כִּ֤י
+        לַֽיהוָה֙ הַמִּלְחָמָ֔ה וְנָתַ֥ן אֶתְכֶ֖ם בְּיָדֵֽנוּ
+    - ref: 1Sam 17:50
+      lang: he
+      text: וַיֶּחֱזַ֨ק דָּוִ֤ד מִן הַפְּלִשְׁתִּי֙ בַּקֶּ֣לַע וּבָאֶ֔בֶן וַיַּ֥ךְ אֶת הַפְּלִשְׁתִּ֖י
+        וַיְמִיתֵ֑הוּ וְחֶ֖רֶב אֵ֥ין בְּיַד דָּוִֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:250
+      lang: ar
+      text: وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
+        أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+    - ref: Quran 2:251
+      lang: ar
+      text: فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ
+        وَعَلَّمَهُۥ مِمَّا يَشَآءُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ
+        ٱلْأَرْضُ وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

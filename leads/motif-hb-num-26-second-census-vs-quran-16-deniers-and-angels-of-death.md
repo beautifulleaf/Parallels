@@ -2,7 +2,7 @@
 id: motif-hb-num-26-second-census-vs-quran-16-deniers-and-angels-of-death
 title: Census of the second generation on the plains of Moab ↔ Legends of the ancients, the fallen roof,
   the angels who take souls (Surah 16:24-50)
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Num 26:9
-  note: The earth opens its mouth and swallows rebels alive into Sheol (they became a 'sign' (nes))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵ֣י אֱלִיאָ֔ב נְמוּאֵ֖ל וְדָתָ֣ן וַאֲבִירָ֑ם הֽוּא דָתָ֨ן וַאֲבִירָ֜ם קרואי קְרִיאֵ֣י הָעֵדָ֗ה
-    אֲשֶׁ֨ר הִצּ֜וּ עַל מֹשֶׁ֤ה וְעַֽל אַהֲרֹן֙ בַּעֲדַת קֹ֔רַח בְּהַצֹּתָ֖ם עַל יְהוָֽה
-- tradition: judaism
-  ref: Num 26:10
-  note: The earth opens its mouth and swallows rebels alive into Sheol (they became a 'sign' (nes))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפְתַּ֨ח הָאָ֜רֶץ אֶת פִּ֗יהָ וַתִּבְלַ֥ע אֹתָ֛ם וְאֶת קֹ֖רַח בְּמ֣וֹת הָעֵדָ֑ה בַּאֲכֹ֣ל
-    הָאֵ֗שׁ אֵ֣ת חֲמִשִּׁ֤ים וּמָאתַ֨יִם֙ אִ֔ישׁ וַיִּהְי֖וּ לְנֵֽס
-- tradition: islam
-  ref: Quran 16:45
-  note: The earth opens its mouth and swallows rebels alive into Sheol (an yakhsifa llāhu bihimu l-arḍ)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ
-    ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wattiptaḥ hāʾāreṣ ʾet-pîhā wattiblaʿ ʾōtām ... wayyihyû lənēs, a warning sign; an yakhsifa
-    llāhu bihimu l-arḍ, a threat. In both the swallowing serves as a warning to others.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -74,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- parallel
+units:
+- id: hb-num-26-second-census
+  title: Census of the second generation on the plains of Moab
+  tradition: judaism
+- id: quran-16-deniers-and-angels-of-death
+  title: Legends of the ancients, the fallen roof, the angels who take souls (Surah 16:24-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: wattiptaḥ hāʾāreṣ ʾet-pîhā wattiblaʿ ʾōtām ... wayyihyû lənēs, a warning sign; an yakhsifa llāhu
+    bihimu l-arḍ, a threat. In both the swallowing serves as a warning to others.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 26:10
+      lang: he
+      text: וַתִּפְתַּ֨ח הָאָ֜רֶץ אֶת פִּ֗יהָ וַתִּבְלַ֥ע אֹתָ֛ם וְאֶת קֹ֖רַח בְּמ֣וֹת הָעֵדָ֑ה בַּאֲכֹ֣ל
+        הָאֵ֗שׁ אֵ֣ת חֲמִשִּׁ֤ים וּמָאתַ֨יִם֙ אִ֔ישׁ וַיִּהְי֖וּ לְנֵֽס
+  - tradition: islam
+    passages:
+    - ref: Quran 16:45
+      lang: ar
+      text: أَفَأَمِنَ ٱلَّذِينَ مَكَرُوا۟ ٱلسَّيِّـَٔاتِ أَن يَخْسِفَ ٱللَّهُ بِهِمُ ٱلْأَرْضَ أَوْ يَأْتِيَهُمُ
+        ٱلْعَذَابُ مِنْ حَيْثُ لَا يَشْعُرُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-7-closing-recitation
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Forbearance, refuge from Satan,
   and the prostration of the near ones
-summary: 'These two units share 1 motifs: the host of heaven bows down to god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - host-of-heaven-bows-to-god
-passages:
-- tradition: judaism
-  ref: Neh 9:6
-  note: The host of heaven bows down to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם וְכָל
-    צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה אֶת
-    כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
-- tradition: islam
-  ref: Quran 7:206
-  note: 'The host of heaven bows down to God (The heavenly beings prostrate to God: inna lladhīna ʿinda
-    rabbika ... yusabbiḥūnahu wa-lahu yasjudūn vs ûṣᵉbāʾ haššāmayim lᵉkā mištaḥăwîm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ
-    يَسْجُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The heavenly beings prostrate to God: inna lladhīna ʿinda rabbika ... yusabbiḥūnahu wa-lahu
-    yasjudūn vs ûṣᵉbāʾ haššāmayim lᵉkā mištaḥăwîm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The host of heaven bows down to God (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -66,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The host of heaven bows down to God
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: parallel
+  label: The host of heaven bows down to God
+  note: 'The heavenly beings prostrate to God: inna lladhīna ʿinda rabbika ... yusabbiḥūnahu wa-lahu yasjudūn
+    vs ûṣᵉbāʾ haššāmayim lᵉkā mištaḥăwîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:6
+      lang: he
+      text: אַתָּה ה֣וּא יְהוָה֮ לְבַדֶּךָ֒ את אַתָּ֣ה עָשִׂ֡יתָ אֶֽת הַשָּׁמַיִם֩ שְׁמֵ֨י הַשָּׁמַ֜יִם
+        וְכָל צְבָאָ֗ם הָאָ֜רֶץ וְכָל אֲשֶׁ֤ר עָלֶ֨יהָ֙ הַיַּמִּים֙ וְכָל אֲשֶׁ֣ר בָּהֶ֔ם וְאַתָּ֖ה מְחַיֶּ֣ה
+        אֶת כֻּלָּ֑ם וּצְבָ֥א הַשָּׁמַ֖יִם לְךָ֥ מִשְׁתַּחֲוִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 7:206
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ
+        يَسْجُدُونَ
 ---
 
 ## Questions

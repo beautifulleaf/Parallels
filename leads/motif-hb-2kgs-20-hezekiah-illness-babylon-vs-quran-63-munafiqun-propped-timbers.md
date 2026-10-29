@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-20-hezekiah-illness-babylon-vs-quran-63-munafiqun-propped-timbers
 title: 'Hezekiah''s illness, the shadow on the steps and the Babylonian envoys ↔ Al-Munafiqun: false testimony,
   propped-up timbers, ''the mightier will expel the meaner'', and the deathbed plea for delay'
-summary: 'These two units share 2 motifs: in answer to prayer god adds fifteen years to the king''s life
-  [contrast between the texts], in answer to prayer god adds fifteen years to the king''s life.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,80 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- life-extended-fifteen-years-as-contrast
 - life-extended-fifteen-years
-passages:
-- tradition: judaism
-  ref: 2Kgs 20:1
-  note: In answer to prayer God adds fifteen years to the king's life [contrast between the texts] (lan
-    yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same contrast
-    as Isa 38.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּבֹ֣א אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ הַנָּבִ֗יא
-    וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
-- tradition: judaism
-  ref: 2Kgs 20:6
-  note: In answer to prayer God adds fifteen years to the king's life [contrast between the texts] (lan
-    yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same contrast
-    as Isa 38.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֹסַפְתִּ֣י עַל יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ אַשּׁוּר֙ אַצִּ֣ילְךָ֔
-    וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
-- tradition: islam
-  ref: Quran 63:10
-  note: 'In answer to prayer God adds fifteen years to the king''s life [contrast between the texts] (Opposite
-    teaching on the plea for more time at death: rabbi law-lā akhkhartanī ilā ajalin qarībin fa-aṣṣaddaqa
-    ... wa-lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ ṣaw le-vêtekā kî mēt ʾattāh ... šāmaʿtî ʾet
-    tefillātekā ... hinenî yôsîf ʿal yāmêkā ḥămēš ʿeśrēh šānāh. Hezekiah''s prayer at death wins fifteen
-    years; in the Quran no soul is delayed when its term comes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنفِقُوا۟ مِن مَّا رَزَقْنَٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ
-    لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 63:11
-  note: 'In answer to prayer God adds fifteen years to the king''s life [contrast between the texts] (Opposite
-    teaching on the plea for more time at death: rabbi law-lā akhkhartanī ilā ajalin qarībin fa-aṣṣaddaqa
-    ... wa-lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ ṣaw le-vêtekā kî mēt ʾattāh ... šāmaʿtî ʾet
-    tefillātekā ... hinenî yôsîf ʿal yāmêkā ḥămēš ʿeśrēh šānāh. Hezekiah''s prayer at death wins fifteen
-    years; in the Quran no soul is delayed when its term comes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
-- tradition: judaism
-  ref: 2Kgs 20:5
-  note: In answer to prayer God adds fifteen years to the king's life ('I have seen your tears'; healed
-    on the third day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שׁ֣וּב וְאָמַרְתָּ֞ אֶל חִזְקִיָּ֣הוּ נְגִיד עַמִּ֗י כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ
-    שָׁמַ֨עְתִּי֙ אֶת תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת דִּמְעָתֶ֑ךָ הִנְנִי֙ רֹ֣פֶא לָ֔ךְ בַּיּוֹם֙ הַשְּׁלִישִׁ֔י
-    תַּעֲלֶ֖ה בֵּ֥ית יְהוָֽה
-- tradition: judaism
-  ref: 2Kgs 20:6
-  note: In answer to prayer God adds fifteen years to the king's life ('I have seen your tears'; healed
-    on the third day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֹסַפְתִּ֣י עַל יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ אַשּׁוּר֙ אַצִּ֣ילְךָ֔
-    וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
-- tradition: islam
-  ref: Quran 63:11
-  note: 'In answer to prayer God adds fifteen years to the king''s life (contrast: no delay is granted
-    when the term comes)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
+- life-extended-fifteen-years-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh;
-    same contrast as Isa 38.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life [contrast
-    between the texts] (weight 6.3); In answer to prayer God adds fifteen years to the king''s life (weight
-    6.3). Pair score 12.6.'
+- text: 'Shared motifs, rarest first: In answer to prayer God adds fifteen years to the king''s life (weight
+    6.3); In answer to prayer God adds fifteen years to the king''s life [contrast between the texts]
+    (weight 6.3). Pair score 12.6.'
   basis: reading
 - text: 'Only in Hezekiah''s illness, the shadow on the steps and the Babylonian envoys: The king proudly
     shows foreign envoys all his treasures, prompting a prophecy of their loss; A cake of figs laid on
@@ -122,6 +56,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In answer to prayer God adds fifteen years to the king's life
+kinds:
+- contrast
+units:
+- id: hb-2kgs-20-hezekiah-illness-babylon
+  title: Hezekiah's illness, the shadow on the steps and the Babylonian envoys
+  tradition: judaism
+- id: quran-63-munafiqun-propped-timbers
+  title: 'Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'', and
+    the deathbed plea for delay'
+  tradition: islam
+matches:
+- kind: contrast
+  label: In answer to prayer God adds fifteen years to the king's life
+  note: lan yuʾakhkhira llāhu nafsan idhā jāʾa ajaluhā ~ we-hōsaftî ʿal yāmêkā ḥămēš ʿeśrēh šānāh; same
+    contrast as Isa 38.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 20:1
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּבֹ֣א אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן אָמ֜וֹץ
+        הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה
+    - ref: 2Kgs 20:6
+      lang: he
+      text: וְהֹסַפְתִּ֣י עַל יָמֶ֗יךָ חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּמִכַּ֤ף מֶֽלֶךְ אַשּׁוּר֙ אַצִּ֣ילְךָ֔
+        וְאֵ֖ת הָעִ֣יר הַזֹּ֑את וְגַנּוֹתִי֙ עַל הָעִ֣יר הַזֹּ֔את לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 63:11
+      lang: ar
+      text: وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ
 ---
 
 ## Questions

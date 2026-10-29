@@ -2,7 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-13-signs-of-creation
 title: Job - cosmic power of God and the impossible lawsuit ↔ The signs of creation, thunder and the parable
   of the foam (Surah 13:1-17)
-summary: 'These two units share 1 motifs: god raised the heavens without pillars that you can see.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,48 +14,9 @@ layers:
 - motif
 motifs:
 - heavens-raised-without-pillars
-passages:
-- tradition: judaism
-  ref: Job 9:6
-  note: 'God raised the heavens without pillars that you can see (nōṭeh šāmayim ləbaddô ... hammargîz
-    ʾereṣ mimməqômāh wəʿammûdêhā yitpallāṣûn; rafaʿa s-samāwāti bi-ghayri ʿamad ... madda l-arḍ: God alone
-    spreads out heaven and earth. The verb is cognate (nṭh/madda, ''stretch out'') but applied to heaven
-    in Job and to earth in Q. Job gives the earth pillars.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַמַּרְגִּ֣יז אֶ֭רֶץ מִמְּקוֹמָ֑הּ וְ֝עַמּוּדֶ֗יהָ יִתְפַלָּצֽוּן
-- tradition: judaism
-  ref: Job 9:8
-  note: 'God raised the heavens without pillars that you can see (nōṭeh šāmayim ləbaddô ... hammargîz
-    ʾereṣ mimməqômāh wəʿammûdêhā yitpallāṣûn; rafaʿa s-samāwāti bi-ghayri ʿamad ... madda l-arḍ: God alone
-    spreads out heaven and earth. The verb is cognate (nṭh/madda, ''stretch out'') but applied to heaven
-    in Job and to earth in Q. Job gives the earth pillars.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹטֶ֣ה שָׁמַ֣יִם לְבַדּ֑וֹ וְ֝דוֹרֵ֗ךְ עַל בָּ֥מֳתֵי יָֽם
-- tradition: islam
-  ref: Quran 13:2
-  note: God raised the heavens without pillars that you can see (bi-ghayri ʿamadin tarawnahā, 'without
-    pillars you can see')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
-    وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ
-    لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
-- tradition: islam
-  ref: Quran 13:3
-  note: God raised the heavens without pillars that you can see (bi-ghayri ʿamadin tarawnahā, 'without
-    pillars you can see')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
-    جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
-    يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. nōṭeh šāmayim ləbaddô ... hammargîz ʾereṣ mimməqômāh wəʿammûdêhā yitpallāṣûn; rafaʿa s-samāwāti
-    bi-ghayri ʿamad ... madda l-arḍ: God alone spreads out heaven and earth. The verb is cognate (nṭh/madda,
-    ''stretch out'') but applied to heaven in Job and to earth in Q. Job gives the earth pillars.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised the heavens without pillars that you can see (weight
     6.3). Pair score 6.3.'
@@ -90,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raised the heavens without pillars that you can see
+kinds:
+- echo
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-13-signs-of-creation
+  title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+  tradition: islam
+matches:
+- kind: echo
+  label: God raised the heavens without pillars that you can see
+  note: 'nōṭeh šāmayim ləbaddô ... hammargîz ʾereṣ mimməqômāh wəʿammûdêhā yitpallāṣûn; rafaʿa s-samāwāti
+    bi-ghayri ʿamad ... madda l-arḍ: God alone spreads out heaven and earth. The verb is cognate (nṭh/madda,
+    ''stretch out'') but applied to heaven in Job and to earth in Q. Job gives the earth pillars.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:6
+      lang: he
+      text: הַמַּרְגִּ֣יז אֶ֭רֶץ מִמְּקוֹמָ֑הּ וְ֝עַמּוּדֶ֗יהָ יִתְפַלָּצֽוּן
+    - ref: Job 9:8
+      lang: he
+      text: נֹטֶ֣ה שָׁמַ֣יִם לְבַדּ֑וֹ וְ֝דוֹרֵ֗ךְ עַל בָּ֥מֳתֵי יָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 13:2
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
+        وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ
+        ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+    - ref: Quran 13:3
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
+        جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
+        يَتَفَكَّرُونَ
 ---
 
 ## Questions

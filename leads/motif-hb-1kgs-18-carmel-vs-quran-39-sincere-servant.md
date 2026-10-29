@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-39-sincere-servant
 title: Contest on Mount Carmel ↔ The first of those who submit; canopies of fire; chambers above chambers
-summary: 'These two units share 1 motifs: parable: a slave owned by quarreling partners versus a slave
-  belonging wholly to one man.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - parable-slave-of-quarreling-partners
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:21
-  note: 'Parable: a slave owned by quarreling partners versus a slave belonging wholly to one man (ʿaḏ-māṯay
-    ʾattem pōsəḥîm ʿal-šətê ha-ssəʿippîm vs. ḍaraba llāhu mathalan rajulan fīhi shurakāʾu mutashākisūna
-    wa-rajulan salaman li-rajulin hal yastawiyāni: serving divided loyalties against belonging wholly
-    to one. Elijah''s ''two opinions'' and the Quran''s slave with quarrelling owners both demand undivided
-    service.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
-    הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא עָנ֥וּ
-    הָעָ֛ם אֹת֖וֹ דָּבָֽר
-- tradition: islam
-  ref: Quran 39:29
-  note: 'Parable: a slave owned by quarreling partners versus a slave belonging wholly to one man'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ هَلْ
-    يَسْتَوِيَانِ مَثَلًا ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿaḏ-māṯay ʾattem pōsəḥîm ʿal-šətê ha-ssəʿippîm vs. ḍaraba llāhu mathalan rajulan fīhi shurakāʾu
-    mutashākisūna wa-rajulan salaman li-rajulin hal yastawiyāni: serving divided loyalties against belonging
-    wholly to one. Elijah''s ''two opinions'' and the Quran''s slave with quarrelling owners both demand
-    undivided service.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: a slave owned by quarreling partners versus a slave belonging
     wholly to one man (weight 6.7). Pair score 6.7.'
@@ -73,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Parable: a slave owned by quarreling partners versus a slave belonging wholly to one man'
+kinds:
+- echo
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Parable: a slave owned by quarreling partners versus a slave belonging wholly to one man'
+  note: 'ʿaḏ-māṯay ʾattem pōsəḥîm ʿal-šətê ha-ssəʿippîm vs. ḍaraba llāhu mathalan rajulan fīhi shurakāʾu
+    mutashākisūna wa-rajulan salaman li-rajulin hal yastawiyāni: serving divided loyalties against belonging
+    wholly to one. Elijah''s ''two opinions'' and the Quran''s slave with quarrelling owners both demand
+    undivided service.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:21
+      lang: he
+      text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
+        הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא
+        עָנ֥וּ הָעָ֛ם אֹת֖וֹ דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 39:29
+      lang: ar
+      text: ضَرَبَ ٱللَّهُ مَثَلًا رَّجُلًا فِيهِ شُرَكَآءُ مُتَشَٰكِسُونَ وَرَجُلًا سَلَمًا لِّرَجُلٍ
+        هَلْ يَسْتَوِيَانِ مَثَلًا ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
 ---
 
 ## Questions

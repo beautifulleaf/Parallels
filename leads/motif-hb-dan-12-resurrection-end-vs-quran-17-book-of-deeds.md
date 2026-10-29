@@ -2,8 +2,7 @@
 id: motif-hb-dan-12-resurrection-end-vs-quran-17-book-of-deeds
 title: Michael arises, the resurrection, and the sealed book ↔ The bird on the neck, the open book and
   individual responsibility (Surah 17:9-21)
-summary: 'These two units share 1 motifs: on judgment day each receives a book of his deeds spread open,
-  leaving nothing small or great unrecorded [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - book-of-deeds-spread-open-as-divergence
-passages:
-- tradition: judaism
-  ref: Dan 12:1
-  note: 'On judgment day each receives a book of his deeds spread open, leaving nothing small or great
-    unrecorded [divergence between the texts] (Dan: a single book of the saved, kol-hannimṣāʾ kātûb bassēper.
-    Q: each person''s own book of deeds, given to him spread open, kitāban yalqāhu manshūrā iqraʾ kitābaka
-    kafā bi-nafsika l-yawma ʿalayka ḥasībā. The book changes from a roll of names to a record each person
-    reads himself.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
-    עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
-    עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
-- tradition: islam
-  ref: Quran 17:13
-  note: 'On judgment day each receives a book of his deeds spread open, leaving nothing small or great
-    unrecorded [divergence between the texts] (Dan: a single book of the saved, kol-hannimṣāʾ kātûb bassēper.
-    Q: each person''s own book of deeds, given to him spread open, kitāban yalqāhu manshūrā iqraʾ kitābaka
-    kafā bi-nafsika l-yawma ʿalayka ḥasībā. The book changes from a roll of names to a record each person
-    reads himself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ
-    كِتَٰبًا يَلْقَىٰهُ مَنشُورًا
-- tradition: islam
-  ref: Quran 17:14
-  note: 'On judgment day each receives a book of his deeds spread open, leaving nothing small or great
-    unrecorded [divergence between the texts] (Dan: a single book of the saved, kol-hannimṣāʾ kātûb bassēper.
-    Q: each person''s own book of deeds, given to him spread open, kitāban yalqāhu manshūrā iqraʾ kitābaka
-    kafā bi-nafsika l-yawma ʿalayka ḥasībā. The book changes from a roll of names to a record each person
-    reads himself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Dan: a single book of the saved, kol-hannimṣāʾ kātûb bassēper. Q: each person''s own book
-    of deeds, given to him spread open, kitāban yalqāhu manshūrā iqraʾ kitābaka kafā bi-nafsika l-yawma
-    ʿalayka ḥasībā. The book changes from a roll of names to a record each person reads himself.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day each receives a book of his deeds spread open, leaving
     nothing small or great unrecorded [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On judgment day each receives a book of his deeds spread open, leaving nothing small or great
+  unrecorded
+kinds:
+- divergence
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-17-book-of-deeds
+  title: The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
+  tradition: islam
+matches:
+- kind: divergence
+  label: On judgment day each receives a book of his deeds spread open, leaving nothing small or great
+    unrecorded
+  note: 'Dan: a single book of the saved, kol-hannimṣāʾ kātûb bassēper. Q: each person''s own book of
+    deeds, given to him spread open, kitāban yalqāhu manshūrā iqraʾ kitābaka kafā bi-nafsika l-yawma ʿalayka
+    ḥasībā. The book changes from a roll of names to a record each person reads himself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:1
+      lang: he
+      text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
+        עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
+        עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 17:13
+      lang: ar
+      text: وَكُلَّ إِنسَٰنٍ أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ فِى عُنُقِهِۦ وَنُخْرِجُ لَهُۥ يَوْمَ ٱلْقِيَٰمَةِ
+        كِتَٰبًا يَلْقَىٰهُ مَنشُورًا
+    - ref: Quran 17:14
+      lang: ar
+      text: ٱقْرَأْ كِتَٰبَكَ كَفَىٰ بِنَفْسِكَ ٱلْيَوْمَ عَلَيْكَ حَسِيبًا
 ---
 
 ## Questions

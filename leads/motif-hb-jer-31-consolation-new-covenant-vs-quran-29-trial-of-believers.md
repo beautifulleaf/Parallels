@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-29-trial-of-believers
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Believers tested; parents and idolatry; the false offer to carry sins
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 31:30
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
-- tradition: judaism
-  ref: Jer 31:29
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
-- tradition: islam
-  ref: Quran 29:12
-  note: Each person dies for his own sin (the tempters cannot bear the sins of others)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
-    وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾin ~ kî ʾim ʾîš baʿăwōnô yāmût: each bears his
-    own guilt.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -71,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- echo
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: echo
+  label: Each person dies for his own sin
+  note: 'wa-mā hum bi-ḥāmilīna min khaṭāyāhum min shayʾin ~ kî ʾim ʾîš baʿăwōnô yāmût: each bears his
+    own guilt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:30
+      lang: he
+      text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 29:12
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
+        وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
 ---
 
 ## Questions

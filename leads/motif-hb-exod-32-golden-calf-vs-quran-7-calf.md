@@ -1,9 +1,7 @@
 ---
 id: motif-hb-exod-32-golden-calf-vs-quran-7-calf
 title: The golden calf ↔ The lowing calf and the seventy
-summary: 'These two units share 3 motifs: whether the calf is a god that leads the people [response between
-  the texts], who makes the golden calf and from what [divergence between the texts], a golden calf is
-  made from the people''s gold earrings.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 answers the other.'
 status: new
 relations:
 - response
@@ -17,101 +15,9 @@ motifs:
 - calf-as-guiding-god-as-response
 - who-made-the-golden-calf-as-divergence
 - golden-calf-made-from-earrings
-passages:
-- tradition: judaism
-  ref: Exod 32:1
-  note: 'Whether the calf is a god that leads the people [response between the texts] (Exod''s people
-    want gods ''who will go before us'' and hail the calf as the god who brought them up (ʾĕlōhîm ʾăšer
-    yēlᵉkû lᵉpānênû; ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā); Q omits the acclamation and answers the
-    demand: a-lam yaraw annahu lā yukallimuhum wa-lā yahdīhim sabīlan (''it does not speak to them or
-    guide them on a way'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא הָעָ֔ם כִּֽי בֹשֵׁ֥שׁ מֹשֶׁ֖ה לָרֶ֣דֶת מִן הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל אַהֲרֹ֗ן
-    וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם עֲשֵׂה לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי זֶ֣ה מֹשֶׁ֣ה
-    הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֨נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה הָ֥יָה לֽוֹ
-- tradition: judaism
-  ref: Exod 32:4
-  note: 'Whether the calf is a god that leads the people [response between the texts] (Exod''s people
-    want gods ''who will go before us'' and hail the calf as the god who brought them up (ʾĕlōhîm ʾăšer
-    yēlᵉkû lᵉpānênû; ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā); Q omits the acclamation and answers the
-    demand: a-lam yaraw annahu lā yukallimuhum wa-lā yahdīhim sabīlan (''it does not speak to them or
-    guide them on a way'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
-    אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 7:148
-  note: 'Whether the calf is a god that leads the people [response between the texts] (Exod''s people
-    want gods ''who will go before us'' and hail the calf as the god who brought them up (ʾĕlōhîm ʾăšer
-    yēlᵉkû lᵉpānênû; ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā); Q omits the acclamation and answers the
-    demand: a-lam yaraw annahu lā yukallimuhum wa-lā yahdīhim sabīlan (''it does not speak to them or
-    guide them on a way'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
-- tradition: judaism
-  ref: Exod 32:2
-  note: 'Who makes the golden calf and from what [divergence between the texts] (Calf made from the people''s
-    jewellery: wa-ttakhadha qawmu mūsā ... min ḥuliyyihim ʿijlan jasadan vs pārᵉqû nizmê hazzāhāb ...
-    wayyāṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkāh. Who acts is changed: Moses'' people make it in Q;
-    Aaron receives the gold and shapes it with the graving tool in Exod.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֲלֵהֶם֙ אַהֲרֹ֔ן פָּֽרְקוּ֙ נִזְמֵ֣י הַזָּהָ֔ב אֲשֶׁר֙ בְּאָזְנֵ֣י נְשֵׁיכֶ֔ם בְּנֵיכֶ֖ם
-    וּבְנֹתֵיכֶ֑ם וְהָבִ֖יאוּ אֵלָֽי
-- tradition: judaism
-  ref: Exod 32:3
-  note: 'Who makes the golden calf and from what [divergence between the texts] (Calf made from the people''s
-    jewellery: wa-ttakhadha qawmu mūsā ... min ḥuliyyihim ʿijlan jasadan vs pārᵉqû nizmê hazzāhāb ...
-    wayyāṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkāh. Who acts is changed: Moses'' people make it in Q;
-    Aaron receives the gold and shapes it with the graving tool in Exod.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפָּֽרְקוּ֙ כָּל הָעָ֔ם אֶת נִזְמֵ֥י הַזָּהָ֖ב אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיָּבִ֖יאוּ אֶֽל
-    אַהֲרֹֽן
-- tradition: islam
-  ref: Quran 7:148
-  note: 'Who makes the golden calf and from what [divergence between the texts] (Calf made from the people''s
-    jewellery: wa-ttakhadha qawmu mūsā ... min ḥuliyyihim ʿijlan jasadan vs pārᵉqû nizmê hazzāhāb ...
-    wayyāṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkāh. Who acts is changed: Moses'' people make it in Q;
-    Aaron receives the gold and shapes it with the graving tool in Exod.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
-- tradition: judaism
-  ref: Exod 32:2
-  note: A golden calf is made from the people's gold earrings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֲלֵהֶם֙ אַהֲרֹ֔ן פָּֽרְקוּ֙ נִזְמֵ֣י הַזָּהָ֔ב אֲשֶׁר֙ בְּאָזְנֵ֣י נְשֵׁיכֶ֔ם בְּנֵיכֶ֖ם
-    וּבְנֹתֵיכֶ֑ם וְהָבִ֖יאוּ אֵלָֽי
-- tradition: judaism
-  ref: Exod 32:3
-  note: A golden calf is made from the people's gold earrings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפָּֽרְקוּ֙ כָּל הָעָ֔ם אֶת נִזְמֵ֥י הַזָּהָ֖ב אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיָּבִ֖יאוּ אֶֽל
-    אַהֲרֹֽן
-- tradition: islam
-  ref: Quran 7:148
-  note: A golden calf is made from the people's gold earrings (from their ornaments (huliyyihim))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
-    يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, response. Calf made from the people''s jewellery: wa-ttakhadha qawmu mūsā ... min ḥuliyyihim
-    ʿijlan jasadan vs pārᵉqû nizmê hazzāhāb ... wayyāṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkāh. Who
-    acts is changed: Moses'' people make it in Q; Aaron receives the gold and shapes it with the graving
-    tool in Exod. Exod''s people want gods ''who will go before us'' and hail the calf as the god who
-    brought them up (ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû; ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā); Q omits
-    the acclamation and answers the demand: a-lam yaraw annahu lā yukallimuhum wa-lā yahdīhim sabīlan
-    (''it does not speak to them or guide them on a way'').'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the calf is a god that leads the people [response between
     the texts] (weight 6.7); Who makes the golden calf and from what [divergence between the texts] (weight
@@ -145,6 +51,93 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who makes the golden calf and from what
+kinds:
+- divergence
+- response
+- shared
+units:
+- id: hb-exod-32-golden-calf
+  title: The golden calf
+  tradition: judaism
+- id: quran-7-calf
+  title: The lowing calf and the seventy
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who makes the golden calf and from what
+  note: 'Calf made from the people''s jewellery: wa-ttakhadha qawmu mūsā ... min ḥuliyyihim ʿijlan jasadan
+    vs pārᵉqû nizmê hazzāhāb ... wayyāṣar ʾōtô baḥereṭ wayyaʿăśēhû ʿēgel massēkāh. Who acts is changed:
+    Moses'' people make it in Q; Aaron receives the gold and shapes it with the graving tool in Exod.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:2
+      lang: he
+      text: וַיֹּ֤אמֶר אֲלֵהֶם֙ אַהֲרֹ֔ן פָּֽרְקוּ֙ נִזְמֵ֣י הַזָּהָ֔ב אֲשֶׁר֙ בְּאָזְנֵ֣י נְשֵׁיכֶ֔ם
+        בְּנֵיכֶ֖ם וּבְנֹתֵיכֶ֑ם וְהָבִ֖יאוּ אֵלָֽי
+    - ref: Exod 32:3
+      lang: he
+      text: וַיִּתְפָּֽרְקוּ֙ כָּל הָעָ֔ם אֶת נִזְמֵ֥י הַזָּהָ֖ב אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיָּבִ֖יאוּ אֶֽל
+        אַהֲרֹֽן
+    - ref: Exod 32:4
+      lang: he
+      text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
+        אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+- kind: response
+  label: Whether the calf is a god that leads the people
+  note: 'Exod''s people want gods ''who will go before us'' and hail the calf as the god who brought them
+    up (ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû; ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā); Q omits the acclamation
+    and answers the demand: a-lam yaraw annahu lā yukallimuhum wa-lā yahdīhim sabīlan (''it does not speak
+    to them or guide them on a way'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:1
+      lang: he
+      text: וַיַּ֣רְא הָעָ֔ם כִּֽי בֹשֵׁ֥שׁ מֹשֶׁ֖ה לָרֶ֣דֶת מִן הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל אַהֲרֹ֗ן
+        וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם עֲשֵׂה לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי זֶ֣ה מֹשֶׁ֣ה
+        הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֨נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה הָ֥יָה לֽוֹ
+    - ref: Exod 32:4
+      lang: he
+      text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
+        אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+- kind: shared
+  label: A golden calf is made from the people's gold earrings
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:2
+      lang: he
+      text: וַיֹּ֤אמֶר אֲלֵהֶם֙ אַהֲרֹ֔ן פָּֽרְקוּ֙ נִזְמֵ֣י הַזָּהָ֔ב אֲשֶׁר֙ בְּאָזְנֵ֣י נְשֵׁיכֶ֔ם
+        בְּנֵיכֶ֖ם וּבְנֹתֵיכֶ֑ם וְהָבִ֖יאוּ אֵלָֽי
+    - ref: Exod 32:3
+      lang: he
+      text: וַיִּתְפָּֽרְקוּ֙ כָּל הָעָ֔ם אֶת נִזְמֵ֥י הַזָּהָ֖ב אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיָּבִ֖יאוּ אֶֽל
+        אַהֲרֹֽן
+    - ref: Exod 32:4
+      lang: he
+      text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
+        אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:148
+      lang: ar
+      text: وَٱتَّخَذَ قَوْمُ مُوسَىٰ مِنۢ بَعْدِهِۦ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَّهُۥ خُوَارٌ أَلَمْ
+        يَرَوْا۟ أَنَّهُۥ لَا يُكَلِّمُهُمْ وَلَا يَهْدِيهِمْ سَبِيلًا ٱتَّخَذُوهُ وَكَانُوا۟ ظَٰلِمِينَ
+    note: from their ornaments (huliyyihim)
 ---
 
 ## Questions

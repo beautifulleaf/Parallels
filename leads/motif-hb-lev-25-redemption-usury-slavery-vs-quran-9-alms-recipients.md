@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-25-redemption-usury-slavery-vs-quran-9-alms-recipients
 title: Redemption of land, interest-free loans, and Israelite bondmen ↔ The eight recipients of alms
-summary: 'These two units share 1 motifs: freeing or buying back the enslaved [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - freeing-of-the-enslaved-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 25:47
-  note: 'Freeing or buying back the enslaved [divergence between the texts] (Freeing the enslaved: in
-    Lev it is a duty of the kinsman (ʾaḥărê nimkar gᵉʾullāh tihyeh-llô ʾeḥād mēʾeḥāyw yigʾālennû); in
-    Q it is a charge on the community''s alms (wa-fī r-riqāb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙
-    עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר
-- tradition: judaism
-  ref: Lev 25:48
-  note: 'Freeing or buying back the enslaved [divergence between the texts] (Freeing the enslaved: in
-    Lev it is a duty of the kinsman (ʾaḥărê nimkar gᵉʾullāh tihyeh-llô ʾeḥād mēʾeḥāyw yigʾālennû); in
-    Q it is a charge on the community''s alms (wa-fī r-riqāb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ
-- tradition: islam
-  ref: Quran 9:60
-  note: 'Freeing or buying back the enslaved [divergence between the texts] (Freeing the enslaved: in
-    Lev it is a duty of the kinsman (ʾaḥărê nimkar gᵉʾullāh tihyeh-llô ʾeḥād mēʾeḥāyw yigʾālennû); in
-    Q it is a charge on the community''s alms (wa-fī r-riqāb).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ
-    قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ فَرِيضَةً مِّنَ
-    ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Freeing the enslaved: in Lev it is a duty of the kinsman (ʾaḥărê nimkar gᵉʾullāh tihyeh-llô
-    ʾeḥād mēʾeḥāyw yigʾālennû); in Q it is a charge on the community''s alms (wa-fī r-riqāb).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Freeing or buying back the enslaved [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -74,6 +44,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Freeing or buying back the enslaved
+kinds:
+- divergence
+units:
+- id: hb-lev-25-redemption-usury-slavery
+  title: Redemption of land, interest-free loans, and Israelite bondmen
+  tradition: judaism
+- id: quran-9-alms-recipients
+  title: The eight recipients of alms
+  tradition: islam
+matches:
+- kind: divergence
+  label: Freeing or buying back the enslaved
+  note: 'Freeing the enslaved: in Lev it is a duty of the kinsman (ʾaḥărê nimkar gᵉʾullāh tihyeh-llô ʾeḥād
+    mēʾeḥāyw yigʾālennû); in Q it is a charge on the community''s alms (wa-fī r-riqāb).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 25:47
+      lang: he
+      text: וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר
+        תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר
+    - ref: Lev 25:48
+      lang: he
+      text: אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:60
+      lang: ar
+      text: إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ
+        قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ فَرِيضَةً
+        مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

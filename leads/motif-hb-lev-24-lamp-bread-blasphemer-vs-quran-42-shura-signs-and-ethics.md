@@ -2,7 +2,7 @@
 id: motif-hb-lev-24-lamp-bread-blasphemer-vs-quran-42-shura-signs-and-ethics
 title: Perpetual lamp, showbread, and the blasphemer stoned ↔ Provision in measure, rain, ships like mountains
   and the ethics of consultation and pardon
-summary: 'These two units share 1 motifs: eye for an eye, tooth for a tooth (lex talionis).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - eye-for-eye
-passages:
-- tradition: judaism
-  ref: Lev 24:19
-  note: Eye for an eye, tooth for a tooth (lex talionis)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֕ישׁ כִּֽי יִתֵּ֥ן מ֖וּם בַּעֲמִית֑וֹ כַּאֲשֶׁ֣ר עָשָׂ֔ה כֵּ֖ן יֵעָ֥שֶׂה לּֽוֹ
-- tradition: judaism
-  ref: Lev 24:20
-  note: Eye for an eye, tooth for a tooth (lex talionis)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁ֚בֶר תַּ֣חַת שֶׁ֔בֶר עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן כַּאֲשֶׁ֨ר יִתֵּ֥ן מוּם֙ בָּֽאָדָ֔ם
-    כֵּ֖ן יִנָּ֥תֶן בּֽוֹ
-- tradition: islam
-  ref: Quran 42:40
-  note: Eye for an eye, tooth for a tooth (lex talionis) ('the recompense of an evil is an evil like it')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ
-    إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Retaliation ''like'' the deed: ka-ʾăšer ʿāśâ kēn yēʿāśeh lô ... ka-ʾăšer yittēn mûm bā-ʾāḏām
-    kēn yinnāṯen bô vs. jazāʾu sayyiʾatin sayyiʾatun mithluhā (ka-ʾăšer/kēn ~ mithluhā). Leviticus ends
-    there; the Quran goes on: fa-man ʿafā wa-aṣlaḥa fa-ajruhu ʿalā llāh.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eye for an eye, tooth for a tooth (lex talionis) (weight 5.4). Pair
     score 5.4.'
@@ -75,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eye for an eye, tooth for a tooth (lex talionis)
+kinds:
+- parallel
+units:
+- id: hb-lev-24-lamp-bread-blasphemer
+  title: Perpetual lamp, showbread, and the blasphemer stoned
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: parallel
+  label: Eye for an eye, tooth for a tooth (lex talionis)
+  note: 'Retaliation ''like'' the deed: ka-ʾăšer ʿāśâ kēn yēʿāśeh lô ... ka-ʾăšer yittēn mûm bā-ʾāḏām
+    kēn yinnāṯen bô vs. jazāʾu sayyiʾatin sayyiʾatun mithluhā (ka-ʾăšer/kēn ~ mithluhā). Leviticus ends
+    there; the Quran goes on: fa-man ʿafā wa-aṣlaḥa fa-ajruhu ʿalā llāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 24:19
+      lang: he
+      text: וְאִ֕ישׁ כִּֽי יִתֵּ֥ן מ֖וּם בַּעֲמִית֑וֹ כַּאֲשֶׁ֣ר עָשָׂ֔ה כֵּ֖ן יֵעָ֥שֶׂה לּֽוֹ
+    - ref: Lev 24:20
+      lang: he
+      text: שֶׁ֚בֶר תַּ֣חַת שֶׁ֔בֶר עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן כַּאֲשֶׁ֨ר יִתֵּ֥ן מוּם֙
+        בָּֽאָדָ֔ם כֵּ֖ן יִנָּ֥תֶן בּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:40
+      lang: ar
+      text: وَجَزَٰٓؤُا۟ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُۥ عَلَى ٱللَّهِ
+        إِنَّهُۥ لَا يُحِبُّ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

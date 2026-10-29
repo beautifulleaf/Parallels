@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-8-what-is-man-vs-quran-40-call-on-me
 title: Psalm 8 - what is man ↔ God helps his messengers; call on me; the stages of life
-summary: 'These two units share 1 motifs: the creation of the heavens is greater than the creation of
-  humankind.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - heavens-dwarf-humankind
-passages:
-- tradition: judaism
-  ref: Ps 8:4
-  note: 'The creation of the heavens is greater than the creation of humankind (kî-ʾerʾeh šāmeyḵā maʿăśê
-    ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti wa-l-arḍi akbaru min khalqi n-nāsi:
-    the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm); the
-    Quran uses the comparison to rebuke the proud disputers (40:56).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣י אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה
-- tradition: judaism
-  ref: Ps 8:5
-  note: 'The creation of the heavens is greater than the creation of humankind (kî-ʾerʾeh šāmeyḵā maʿăśê
-    ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti wa-l-arḍi akbaru min khalqi n-nāsi:
-    the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm); the
-    Quran uses the comparison to rebuke the proud disputers (40:56).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה אֱנ֥וֹשׁ כִּֽי תִזְכְּרֶ֑נּוּ וּבֶן אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ
-- tradition: islam
-  ref: Quran 40:57
-  note: 'The creation of the heavens is greater than the creation of humankind (kî-ʾerʾeh šāmeyḵā maʿăśê
-    ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti wa-l-arḍi akbaru min khalqi n-nāsi:
-    the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm); the
-    Quran uses the comparison to rebuke the proud disputers (40:56).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَخَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ
-    لَا يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. kî-ʾerʾeh šāmeyḵā maʿăśê ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti
-    wa-l-arḍi akbaru min khalqi n-nāsi: the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû
-    məʿaṭ mē-ʾĕlōhîm); the Quran uses the comparison to rebuke the proud disputers (40:56).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The creation of the heavens is greater than the creation of humankind
     (weight 6.7). Pair score 6.7.'
@@ -82,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The creation of the heavens is greater than the creation of humankind
+kinds:
+- parallel
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-40-call-on-me
+  title: God helps his messengers; call on me; the stages of life
+  tradition: islam
+matches:
+- kind: parallel
+  label: The creation of the heavens is greater than the creation of humankind
+  note: 'kî-ʾerʾeh šāmeyḵā maʿăśê ʾeṣbəʿōṯeyḵā ... māh-ʾĕnôš kî-ṯizkərennû vs. la-khalqu s-samāwāti wa-l-arḍi
+    akbaru min khalqi n-nāsi: the heavens dwarf humankind. The psalm goes on to exalt man (wa-ttəḥassərēhû
+    məʿaṭ mē-ʾĕlōhîm); the Quran uses the comparison to rebuke the proud disputers (40:56).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:4
+      lang: he
+      text: כִּֽי אֶרְאֶ֣ה שָׁ֭מֶיךָ מַעֲשֵׂ֣י אֶצְבְּעֹתֶ֑יךָ יָרֵ֥חַ וְ֝כוֹכָבִ֗ים אֲשֶׁ֣ר כּוֹנָֽנְתָּה
+    - ref: Ps 8:5
+      lang: he
+      text: מָֽה אֱנ֥וֹשׁ כִּֽי תִזְכְּרֶ֑נּוּ וּבֶן אָ֝דָ֗ם כִּ֣י תִפְקְדֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 40:57
+      lang: ar
+      text: لَخَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَكْبَرُ مِنْ خَلْقِ ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ
+        لَا يَعْلَمُونَ
 ---
 
 ## Questions

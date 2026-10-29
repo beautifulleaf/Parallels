@@ -2,7 +2,7 @@
 id: motif-hb-2kgs-5-naaman-vs-quran-34-affluent-and-angels
 title: Naaman healed of leprosy; Gehazi's greed ↔ The affluent reject warners; angels disown jinn-worshippers;
   the prophet is not mad
-summary: 'These two units share 1 motifs: the prophet asks no wage for the message.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,37 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-asks-no-wage
-passages:
-- tradition: judaism
-  ref: 2Kgs 5:15
-  note: 'The Prophet asks no wage for the message (qaḥ-nāʾ ḇərāḵâ mē-ʾēṯ ʿaḇdeḵā ... ḥay-YHWH ʾăšer-ʿāmaḏtî
-    ləp̄ānâw ʾim-ʾeqqāḥ vs. mā saʾaltukum min ajrin ... in ajriya illā ʿalā llāh: the man of God refuses
-    payment for his service, with reference to the God he serves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּשָׁב֩ אֶל אִ֨ישׁ הָאֱלֹהִ֜ים ה֣וּא וְכָֽל מַחֲנֵ֗הוּ וַיָּבֹא֮ וַיַּעֲמֹ֣ד לְפָנָיו֒ וַיֹּ֗אמֶר
-    הִנֵּה נָ֤א יָדַ֨עְתִּי֙ כִּ֣י אֵ֤ין אֱלֹהִים֙ בְּכָל הָאָ֔רֶץ כִּ֖י אִם בְּיִשְׂרָאֵ֑ל וְעַתָּ֛ה
-    קַח נָ֥א בְרָכָ֖ה מֵאֵ֥ת עַבְדֶּֽךָ
-- tradition: judaism
-  ref: 2Kgs 5:16
-  note: 'The Prophet asks no wage for the message (qaḥ-nāʾ ḇərāḵâ mē-ʾēṯ ʿaḇdeḵā ... ḥay-YHWH ʾăšer-ʿāmaḏtî
-    ləp̄ānâw ʾim-ʾeqqāḥ vs. mā saʾaltukum min ajrin ... in ajriya illā ʿalā llāh: the man of God refuses
-    payment for his service, with reference to the God he serves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר חַי יְהוָ֛ה אֲשֶׁר עָמַ֥דְתִּי לְפָנָ֖יו אִם אֶקָּ֑ח וַיִּפְצַר בּ֥וֹ לָקַ֖חַת וַיְמָאֵֽן
-- tradition: islam
-  ref: Quran 34:47
-  note: The Prophet asks no wage for the message
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ عَلَىٰ
-    كُلِّ شَىْءٍ شَهِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. qaḥ-nāʾ ḇərāḵâ mē-ʾēṯ ʿaḇdeḵā ... ḥay-YHWH ʾăšer-ʿāmaḏtî ləp̄ānâw ʾim-ʾeqqāḥ vs. mā saʾaltukum
-    min ajrin ... in ajriya illā ʿalā llāh: the man of God refuses payment for his service, with reference
-    to the God he serves.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Prophet asks no wage for the message (weight 4.6). Pair score
     4.6.'
@@ -80,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Prophet asks no wage for the message
+kinds:
+- parallel
+units:
+- id: hb-2kgs-5-naaman
+  title: Naaman healed of leprosy; Gehazi's greed
+  tradition: judaism
+- id: quran-34-affluent-and-angels
+  title: The affluent reject warners; angels disown jinn-worshippers; the prophet is not mad
+  tradition: islam
+matches:
+- kind: parallel
+  label: The Prophet asks no wage for the message
+  note: 'qaḥ-nāʾ ḇərāḵâ mē-ʾēṯ ʿaḇdeḵā ... ḥay-YHWH ʾăšer-ʿāmaḏtî ləp̄ānâw ʾim-ʾeqqāḥ vs. mā saʾaltukum
+    min ajrin ... in ajriya illā ʿalā llāh: the man of God refuses payment for his service, with reference
+    to the God he serves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 5:15
+      lang: he
+      text: וַיָּשָׁב֩ אֶל אִ֨ישׁ הָאֱלֹהִ֜ים ה֣וּא וְכָֽל מַחֲנֵ֗הוּ וַיָּבֹא֮ וַיַּעֲמֹ֣ד לְפָנָיו֒
+        וַיֹּ֗אמֶר הִנֵּה נָ֤א יָדַ֨עְתִּי֙ כִּ֣י אֵ֤ין אֱלֹהִים֙ בְּכָל הָאָ֔רֶץ כִּ֖י אִם בְּיִשְׂרָאֵ֑ל
+        וְעַתָּ֛ה קַח נָ֥א בְרָכָ֖ה מֵאֵ֥ת עַבְדֶּֽךָ
+    - ref: 2Kgs 5:16
+      lang: he
+      text: וַיֹּ֕אמֶר חַי יְהוָ֛ה אֲשֶׁר עָמַ֥דְתִּי לְפָנָ֖יו אִם אֶקָּ֑ח וַיִּפְצַר בּ֥וֹ לָקַ֖חַת
+        וַיְמָאֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 34:47
+      lang: ar
+      text: قُلْ مَا سَأَلْتُكُم مِّنْ أَجْرٍ فَهُوَ لَكُمْ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَهُوَ
+        عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
 ---
 
 ## Questions

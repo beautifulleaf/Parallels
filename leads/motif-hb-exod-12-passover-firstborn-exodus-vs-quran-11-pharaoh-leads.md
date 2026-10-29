@@ -2,7 +2,7 @@
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-11-pharaoh-leads
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ Pharaoh leads his people
   into the fire; the towns standing and mown
-summary: 'These two units share 1 motifs: the gods of a people judged by god cannot help them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - gods-of-the-destroyed-avail-nothing
-passages:
-- tradition: judaism
-  ref: Exod 12:12
-  note: 'The gods of a people judged by God cannot help them (The judged people''s gods are powerless:
-    fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni llāhi min shayʾin lammā jāʾa amru rabbik vs
-    ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod God judges the gods themselves; in Q they
-    merely fail their worshippers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָבַרְתִּ֣י בְאֶֽרֶץ מִצְרַיִם֮ בַּלַּ֣יְלָה הַזֶּה֒ וְהִכֵּיתִ֤י כָל בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם
-    מֵאָדָ֖ם וְעַד בְּהֵמָ֑ה וּבְכָל אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים אֲנִ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 11:101
-  note: 'The gods of a people judged by God cannot help them (The judged people''s gods are powerless:
-    fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni llāhi min shayʾin lammā jāʾa amru rabbik vs
-    ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod God judges the gods themselves; in Q they
-    merely fail their worshippers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ ٱلَّتِى
-    يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The judged people''s gods are powerless: fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni
-    llāhi min shayʾin lammā jāʾa amru rabbik vs ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod
-    God judges the gods themselves; in Q they merely fail their worshippers.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The gods of a people judged by God cannot help them (weight 6.3).
     Pair score 6.3.'
@@ -71,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The gods of a people judged by God cannot help them
+kinds:
+- echo
+units:
+- id: hb-exod-12-passover-firstborn-exodus
+  title: Passover law, matzot, the night of the firstborn, departure from Egypt
+  tradition: judaism
+- id: quran-11-pharaoh-leads
+  title: Pharaoh leads his people into the fire; the towns standing and mown
+  tradition: islam
+matches:
+- kind: echo
+  label: The gods of a people judged by God cannot help them
+  note: 'The judged people''s gods are powerless: fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni
+    llāhi min shayʾin lammā jāʾa amru rabbik vs ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod
+    God judges the gods themselves; in Q they merely fail their worshippers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:12
+      lang: he
+      text: וְעָבַרְתִּ֣י בְאֶֽרֶץ מִצְרַיִם֮ בַּלַּ֣יְלָה הַזֶּה֒ וְהִכֵּיתִ֤י כָל בְּכוֹר֙ בְּאֶ֣רֶץ
+        מִצְרַ֔יִם מֵאָדָ֖ם וְעַד בְּהֵמָ֑ה וּבְכָל אֱלֹהֵ֥י מִצְרַ֛יִם אֶֽעֱשֶׂ֥ה שְׁפָטִ֖ים אֲנִ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:101
+      lang: ar
+      text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ
+        ٱلَّتِى يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ
+        غَيْرَ تَتْبِيبٍ
 ---
 
 ## Questions

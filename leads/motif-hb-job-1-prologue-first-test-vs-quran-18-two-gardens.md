@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-18-two-gardens
 title: Job's piety, the heavenly council and the first test ↔ The parable of the two gardens; this life
   as rain-fed plants; the book of deeds (Surah 18:32-49)
-summary: 'These two units share 1 motifs: humans are presented before god in rows, coming as they were
-  first created.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - arrayed-in-rows-before-god
-passages:
-- tradition: judaism
-  ref: Job 1:21
-  note: 'Humans are presented before God in rows, coming as they were first created (ʿārōm yāṣāʾtî mibbeṭen
-    ʾimmî wəʿārōm ʾāšûb šāmmâ; la-qad jiʾtumūnā ka-mā khalaqnākum awwala marra: one returns to God as
-    one first came, with nothing. Job says it in pious acceptance; Q says it to deniers of the meeting
-    (allan najʿala lakum mawʿidā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה
-    לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
-- tradition: islam
-  ref: Quran 18:48
-  note: Humans are presented before God in rows, coming as they were first created ('you have come to
-    us as we created you the first time')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ بَلْ
-    زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʿārōm yāṣāʾtî mibbeṭen ʾimmî wəʿārōm ʾāšûb šāmmâ; la-qad jiʾtumūnā ka-mā khalaqnākum awwala
-    marra: one returns to God as one first came, with nothing. Job says it in pious acceptance; Q says
-    it to deniers of the meeting (allan najʿala lakum mawʿidā).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are presented before God in rows, coming as they were first
     created (weight 6.7). Pair score 6.7.'
@@ -75,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans are presented before God in rows, coming as they were first created
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-18-two-gardens
+  title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+  tradition: islam
+matches:
+- kind: echo
+  label: Humans are presented before God in rows, coming as they were first created
+  note: 'ʿārōm yāṣāʾtî mibbeṭen ʾimmî wəʿārōm ʾāšûb šāmmâ; la-qad jiʾtumūnā ka-mā khalaqnākum awwala marra:
+    one returns to God as one first came, with nothing. Job says it in pious acceptance; Q says it to
+    deniers of the meeting (allan najʿala lakum mawʿidā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:21
+      lang: he
+      text: וַיֹּאמֶר֩ עָרֹ֨ם יצתי יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן
+        וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:48
+      lang: ar
+      text: وَعُرِضُوا۟ عَلَىٰ رَبِّكَ صَفًّا لَّقَدْ جِئْتُمُونَا كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍۭ
+        بَلْ زَعَمْتُمْ أَلَّن نَّجْعَلَ لَكُم مَّوْعِدًا
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-num-35-levitical-cities-refuge-vs-quran-57-hadid-light-and-the-wall
 title: Levitical cities, cities of refuge and the law of homicide ↔ The believers' light, the hypocrites
   who would borrow it, and the wall with a gate; hearts hardened by long time
-summary: 'These two units share 1 motifs: no ransom (kofer) may be taken for a murderer''s life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - no-ransom-for-murderer
-passages:
-- tradition: judaism
-  ref: Num 35:31
-  note: No ransom (kofer) may be taken for a murderer's life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא תִקְח֥וּ כֹ֨פֶר֙ לְנֶ֣פֶשׁ רֹצֵ֔חַ אֲשֶׁר ה֥וּא רָשָׁ֖ע לָמ֑וּת כִּי מ֖וֹת יוּמָֽת
-- tradition: judaism
-  ref: Num 35:32
-  note: No ransom (kofer) may be taken for a murderer's life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹא תִקְח֣וּ כֹ֔פֶר לָנ֖וּס אֶל עִ֣יר מִקְלָט֑וֹ לָשׁוּב֙ לָשֶׁ֣בֶת בָּאָ֔רֶץ עַד מ֖וֹת הַכֹּהֵֽן
-- tradition: islam
-  ref: Quran 57:15
-  note: No ransom (kofer) may be taken for a murderer's life (no fidya taken)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ
-    هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. No ransom accepted: wə-lōʾ ṯiqḥû ḵōp̄er lə-nep̄eš rōṣēaḥ ʾăšer hûʾ rāšāʿ lā-mûṯ vs. fa-l-yawma
-    lā yuʾkhadhu minkum fidyatun wa-lā mina lladhīna kafarū. A rule of human justice for the murderer
-    becomes God''s verdict on hypocrites and unbelievers at the judgment (kōp̄er ~ fidya).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No ransom (kofer) may be taken for a murderer''s life (weight 6.3).
     Pair score 6.3.'
@@ -73,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No ransom (kofer) may be taken for a murderer's life
+kinds:
+- echo
+units:
+- id: hb-num-35-levitical-cities-refuge
+  title: Levitical cities, cities of refuge and the law of homicide
+  tradition: judaism
+- id: quran-57-hadid-light-and-the-wall
+  title: The believers' light, the hypocrites who would borrow it, and the wall with a gate; hearts hardened
+    by long time
+  tradition: islam
+matches:
+- kind: echo
+  label: No ransom (kofer) may be taken for a murderer's life
+  note: 'No ransom accepted: wə-lōʾ ṯiqḥû ḵōp̄er lə-nep̄eš rōṣēaḥ ʾăšer hûʾ rāšāʿ lā-mûṯ vs. fa-l-yawma
+    lā yuʾkhadhu minkum fidyatun wa-lā mina lladhīna kafarū. A rule of human justice for the murderer
+    becomes God''s verdict on hypocrites and unbelievers at the judgment (kōp̄er ~ fidya).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 35:31
+      lang: he
+      text: וְלֹֽא תִקְח֥וּ כֹ֨פֶר֙ לְנֶ֣פֶשׁ רֹצֵ֔חַ אֲשֶׁר ה֥וּא רָשָׁ֖ע לָמ֑וּת כִּי מ֖וֹת יוּמָֽת
+    - ref: Num 35:32
+      lang: he
+      text: וְלֹא תִקְח֣וּ כֹ֔פֶר לָנ֖וּס אֶל עִ֣יר מִקְלָט֑וֹ לָשׁוּב֙ לָשֶׁ֣בֶת בָּאָ֔רֶץ עַד מ֖וֹת
+        הַכֹּהֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 57:15
+      lang: ar
+      text: فَٱلْيَوْمَ لَا يُؤْخَذُ مِنكُمْ فِدْيَةٌ وَلَا مِنَ ٱلَّذِينَ كَفَرُوا۟ مَأْوَىٰكُمُ ٱلنَّارُ
+        هِىَ مَوْلَىٰكُمْ وَبِئْسَ ٱلْمَصِيرُ
 ---
 
 ## Questions

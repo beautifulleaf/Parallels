@@ -3,8 +3,7 @@ id: motif-hb-prov-20-sayings-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Sayings on wine, the king''s throne and the lamp of YHWH ↔ Al-Tahrim: the prohibited thing and
   the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter
   of ''Imran'
-summary: 'These two units share 1 motifs: the talebearer (rakhil) goes about revealing secrets; the faithful
-  conceal a matter.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,24 +15,9 @@ layers:
 - motif
 motifs:
 - talebearer-reveals-secrets
-passages:
-- tradition: judaism
-  ref: Prov 20:19
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גּֽוֹלֶה סּ֭וֹד הוֹלֵ֣ךְ רָכִ֑יל וּלְפֹתֶ֥ה שְׂ֝פָתָ֗יו לֹ֣א תִתְעָרָֽב
-- tradition: islam
-  ref: Quran 66:3
-  note: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
-    ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ
-    هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. nabbaʾat bihi ~ gôleh sôd hôlēk rākîl.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The talebearer (rakhil) goes about revealing secrets; the faithful
     conceal a matter (weight 6.0). Pair score 6.0.'
@@ -73,6 +57,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: The talebearer (rakhil) goes about revealing secrets; the faithful conceal a matter
+  note: nabbaʾat bihi ~ gôleh sôd hôlēk rākîl.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:19
+      lang: he
+      text: גּֽוֹלֶה סּ֭וֹד הוֹלֵ֣ךְ רָכִ֑יל וּלְפֹתֶ֥ה שְׂ֝פָתָ֗יו לֹ֣א תִתְעָרָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 66:3
+      lang: ar
+      text: وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ
+        ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ
+        أَنۢبَأَكَ هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-8-what-is-man-vs-quran-38-adam-iblis
 title: Psalm 8 - what is man ↔ Adam made from clay; Iblis refuses and is granted respite
-summary: 'These two units share 1 motifs: the rank of the first human relative to the heavenly beings
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,39 +13,9 @@ layers:
 - motif
 motifs:
 - rank-of-humans-among-heavenly-beings-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 8:6
-  note: 'The rank of the first human relative to the heavenly beings [contrast between the texts] (Man''s
-    rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ wə-hāḏār təʿaṭṭərēhû,
-    made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn, the angels bow down
-    to him. The psalm''s slight inferiority becomes angelic prostration.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
-- tradition: islam
-  ref: Quran 38:72
-  note: 'The rank of the first human relative to the heavenly beings [contrast between the texts] (Man''s
-    rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ wə-hāḏār təʿaṭṭərēhû,
-    made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn, the angels bow down
-    to him. The psalm''s slight inferiority becomes angelic prostration.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 38:73
-  note: 'The rank of the first human relative to the heavenly beings [contrast between the texts] (Man''s
-    rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ wə-hāḏār təʿaṭṭərēhû,
-    made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn, the angels bow down
-    to him. The psalm''s slight inferiority becomes angelic prostration.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Man''s rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ
-    wə-hāḏār təʿaṭṭərēhû, made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn,
-    the angels bow down to him. The psalm''s slight inferiority becomes angelic prostration.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rank of the first human relative to the heavenly beings [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -80,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The rank of the first human relative to the heavenly beings
+kinds:
+- contrast
+units:
+- id: hb-ps-8-what-is-man
+  title: Psalm 8 - what is man
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: contrast
+  label: The rank of the first human relative to the heavenly beings
+  note: 'Man''s rank relative to the heavenly beings. Ps: wa-ttəḥassərēhû məʿaṭ mē-ʾĕlōhîm wə-ḵāḇôḏ wə-hāḏār
+    təʿaṭṭərēhû, made a little lower than the ʾĕlōhîm. Q: fa-sajada l-malāʾikatu kulluhum ajmaʿūn, the
+    angels bow down to him. The psalm''s slight inferiority becomes angelic prostration.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 8:6
+      lang: he
+      text: וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:72
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+    - ref: Quran 38:73
+      lang: ar
+      text: فَسَجَدَ ٱلْمَلَٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ
 ---
 
 ## Questions

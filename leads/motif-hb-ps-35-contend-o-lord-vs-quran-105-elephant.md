@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-35-contend-o-lord-vs-quran-105-elephant
 title: Psalm 35 - contend, YHWH, with those who contend with me ↔ The companions of the elephant
-summary: 'These two units share 1 motifs: the wicked are like chaff driven by the wind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,23 +13,9 @@ layers:
 - motif
 motifs:
 - wicked-as-chaff
-passages:
-- tradition: judaism
-  ref: Ps 35:5
-  note: The wicked are like chaff driven by the wind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי ר֑וּחַ וּמַלְאַ֖ךְ יְהוָ֣ה דּוֹחֶֽה
-- tradition: islam
-  ref: Quran 105:5
-  note: The wicked are like chaff driven by the wind ('like devoured straw/leaves ('asf ma'kul)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. ka-ʿaṣfin maʾkūl ~ yihyû ke-mōṣ li-fnê rûaḥ û-malʾak YHWH dôḥeh: chaff, with an angel driving
-    them in the Psalm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
     score 5.6.'
@@ -59,6 +45,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wicked are like chaff driven by the wind
+kinds:
+- echo
+units:
+- id: hb-ps-35-contend-o-lord
+  title: Psalm 35 - contend, YHWH, with those who contend with me
+  tradition: judaism
+- id: quran-105-elephant
+  title: The companions of the elephant
+  tradition: islam
+matches:
+- kind: echo
+  label: The wicked are like chaff driven by the wind
+  note: 'ka-ʿaṣfin maʾkūl ~ yihyû ke-mōṣ li-fnê rûaḥ û-malʾak YHWH dôḥeh: chaff, with an angel driving
+    them in the Psalm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 35:5
+      lang: he
+      text: יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי ר֑וּחַ וּמַלְאַ֖ךְ יְהוָ֣ה דּוֹחֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 105:5
+      lang: ar
+      text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
 ---
 
 ## Questions

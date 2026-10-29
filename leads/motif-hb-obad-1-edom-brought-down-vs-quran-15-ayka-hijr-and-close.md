@@ -2,8 +2,7 @@
 id: motif-hb-obad-1-edom-brought-down-vs-quran-15-ayka-hijr-and-close
 title: Obadiah's vision against Edom's pride ↔ The Thicket, al-Hijr, the seven oft-repeated and the close
   of the surah (Surah 15:78-99)
-summary: 'These two units share 1 motifs: a people carve houses out of the mountains and build palaces
-  on the plains.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - houses-carved-in-mountains
-passages:
-- tradition: judaism
-  ref: Obad 1:3
-  note: 'A people carve houses out of the mountains and build palaces on the plains (A rock-dwelling people
-    proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôridēnî ʾāreṣ.
-    Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna. Thamud, like Edom, is brought
-    down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
-    מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
-- tradition: judaism
-  ref: Obad 1:4
-  note: 'A people carve houses out of the mountains and build palaces on the plains (A rock-dwelling people
-    proud of its mountain homes. Obad: šōkhnî və-ḥagwê-selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôridēnî ʾāreṣ.
-    Q: wa-tanḥitūna l-jibāla buyūtan ... wa-lā taʿthaw fī l-arḍi mufsidīna. Thamud, like Edom, is brought
-    down. cf. (not a match) the Nabataean rock tombs of Hegra and Petra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
-    נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 15:80
-  note: A people carve houses out of the mountains and build palaces on the plains (Thamud; secure in
-    rock-cut houses)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ كَذَّبَ أَصْحَٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ
-- tradition: islam
-  ref: Quran 15:82
-  note: A people carve houses out of the mountains and build palaces on the plains (Thamud; secure in
-    rock-cut houses)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wa-kānū yanḥitūna mina l-jibāli buyūtan āminīn ... fa-akhadhathumu ṣ-ṣayḥatu muṣbiḥīn fa-mā
-    aghnā ʿanhum; šōknî bəḥagwê-selaʿ mərôm šibtô ʾōmēr bəlibbô mî yôridēnî ʾāreṣ ... miššām ʾôrîdəkā:
-    a rock-dwelling people, confident in its cliffs, brought down by God. Obad''s Edom of the Selaʿ and
-    Q''s people of al-Ḥijr (Thamūd) both point to the Nabataean rock country. Obad''s sin is pride (zədôn
-    libbəkā); Q''s is rejecting the messengers.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A people carve houses out of the mountains and build palaces on
     the plains (weight 6.3). Pair score 6.3.'
@@ -84,6 +44,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A people carve houses out of the mountains and build palaces on the plains
+kinds:
+- echo
+units:
+- id: hb-obad-1-edom-brought-down
+  title: Obadiah's vision against Edom's pride
+  tradition: judaism
+- id: quran-15-ayka-hijr-and-close
+  title: The Thicket, al-Hijr, the seven oft-repeated and the close of the surah (Surah 15:78-99)
+  tradition: islam
+matches:
+- kind: echo
+  label: A people carve houses out of the mountains and build palaces on the plains
+  note: 'wa-kānū yanḥitūna mina l-jibāli buyūtan āminīn ... fa-akhadhathumu ṣ-ṣayḥatu muṣbiḥīn fa-mā aghnā
+    ʿanhum; šōknî bəḥagwê-selaʿ mərôm šibtô ʾōmēr bəlibbô mî yôridēnî ʾāreṣ ... miššām ʾôrîdəkā: a rock-dwelling
+    people, confident in its cliffs, brought down by God. Obad''s Edom of the Selaʿ and Q''s people of
+    al-Ḥijr (Thamūd) both point to the Nabataean rock country. Obad''s sin is pride (zədôn libbəkā); Q''s
+    is rejecting the messengers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:3
+      lang: he
+      text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
+        מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
+    - ref: Obad 1:4
+      lang: he
+      text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
+        נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 15:80
+      lang: ar
+      text: وَلَقَدْ كَذَّبَ أَصْحَٰبُ ٱلْحِجْرِ ٱلْمُرْسَلِينَ
+    - ref: Quran 15:82
+      lang: ar
+      text: وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ
+    - ref: Quran 15:83
+      lang: ar
+      text: فَأَخَذَتْهُمُ ٱلصَّيْحَةُ مُصْبِحِينَ
 ---
 
 ## Questions

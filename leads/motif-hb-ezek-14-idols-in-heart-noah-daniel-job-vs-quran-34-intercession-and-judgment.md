@@ -2,7 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-34-intercession-and-judgment
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ Partners own nothing; intercession;
   the weak and the arrogant at judgment
-summary: 'These two units share 1 motifs: intercession avails only for whom god permits.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - intercession-only-by-permission
-passages:
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'Intercession avails only for whom God permits (nōaḥ dānîʾēl wə-ʾiyyôḇ ... ʾim-bēn ʾim-baṯ yaṣṣîlû
-    hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lā tanfaʿu sh-shafāʿatu ... illā li-man adhina lah: the merit
-    of the righteous does not save others.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: judaism
-  ref: Ezek 14:20
-  note: 'Intercession avails only for whom God permits (nōaḥ dānîʾēl wə-ʾiyyôḇ ... ʾim-bēn ʾim-baṯ yaṣṣîlû
-    hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lā tanfaʿu sh-shafāʿatu ... illā li-man adhina lah: the merit
-    of the righteous does not save others.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן אִם
-    בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
-- tradition: islam
-  ref: Quran 34:23
-  note: Intercession avails only for whom God permits
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمْ
-    قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ قَالُوا۟ ٱلْحَقَّ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. nōaḥ dānîʾēl wə-ʾiyyôḇ ... ʾim-bēn ʾim-baṯ yaṣṣîlû hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lā
-    tanfaʿu sh-shafāʿatu ... illā li-man adhina lah: the merit of the righteous does not save others.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercession avails only for whom God permits (weight 4.8). Pair
     score 4.8.'
@@ -78,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Intercession avails only for whom God permits
+kinds:
+- echo
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-34-intercession-and-judgment
+  title: Partners own nothing; intercession; the weak and the arrogant at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: Intercession avails only for whom God permits
+  note: 'nōaḥ dānîʾēl wə-ʾiyyôḇ ... ʾim-bēn ʾim-baṯ yaṣṣîlû hēmmâ ḇə-ṣiḏqāṯām yaṣṣîlû nap̄šām vs. lā tanfaʿu
+    sh-shafāʿatu ... illā li-man adhina lah: the merit of the righteous does not save others.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+    - ref: Ezek 14:20
+      lang: he
+      text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן
+        אִם בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 34:23
+      lang: ar
+      text: وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنْ أَذِنَ لَهُۥ حَتَّىٰٓ إِذَا فُزِّعَ عَن
+        قُلُوبِهِمْ قَالُوا۟ مَاذَا قَالَ رَبُّكُمْ قَالُوا۟ ٱلْحَقَّ وَهُوَ ٱلْعَلِىُّ ٱلْكَبِيرُ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-1chr-19-20-ammonite-war-and-giants-vs-quran-2-talut-jalut
 title: Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers ↔ Talut (Saul),
   the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: a giant taunts israel and is killed by a hero.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,28 +15,7 @@ layers:
 - motif
 motifs:
 - giant-taunts-israel-and-is-slain
-passages:
-- tradition: judaism
-  ref: 1Chr 20:7
-  note: A giant taunts Israel and is killed by a hero
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחָרֵ֖ף אֶת יִשְׂרָאֵ֑ל וַיַּכֵּ֨הוּ֙ יְה֣וֹנָתָ֔ן בֶּן שִׁמְעָ֖א אֲחִ֥י דָוִֽיד
-- tradition: islam
-  ref: Quran 2:250
-  note: A giant taunts Israel and is killed by a hero
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
-    أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 2:251
-  note: A giant taunts Israel and is killed by a hero
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ
-    وَعَلَّمَهُۥ مِمَّا يَشَآءُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ
-    وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A giant taunts Israel and is killed by a hero (weight 6.7). Pair
     score 6.7.'
@@ -70,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A giant taunts Israel and is killed by a hero
+kinds:
+- shared
+units:
+- id: hb-1chr-19-20-ammonite-war-and-giants
+  title: Envoys humiliated, the Ammonite-Aramean war, Rabbah taken, and the giant-killers
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: shared
+  label: A giant taunts Israel and is killed by a hero
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 20:7
+      lang: he
+      text: וַיְחָרֵ֖ף אֶת יִשְׂרָאֵ֑ל וַיַּכֵּ֨הוּ֙ יְה֣וֹנָתָ֔ן בֶּן שִׁמְעָ֖א אֲחִ֥י דָוִֽיד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:250
+      lang: ar
+      text: وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ
+        أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+    - ref: Quran 2:251
+      lang: ar
+      text: فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ
+        وَعَلَّمَهُۥ مِمَّا يَشَآءُ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ
+        ٱلْأَرْضُ وَلَٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

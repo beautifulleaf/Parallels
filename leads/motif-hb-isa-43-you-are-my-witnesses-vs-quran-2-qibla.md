@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-2-qibla
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ The change of qibla
-summary: 'These two units share 1 motifs: who bears witness to god''s oneness [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - who-witnesses-for-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 43:10
-  note: 'Who bears witness to God''s oneness [divergence between the texts] (Isa 43:10 ʾattem ʿēday nĕʾum
-    YHWH wĕ-ʿabdî ʾăšer bāḥārtî: Israel, the chosen servant, are God''s witnesses before the nations;
-    Q 2:143 jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā n-nāsi wa-yakūna r-rasūlu ʿalaykum shahīdan:
-    the new ''middle community'' are made witnesses over mankind, said just as the qibla turns away from
-    Jerusalem.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
-    לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
-- tradition: islam
-  ref: Quran 2:143
-  note: 'Who bears witness to God''s oneness [divergence between the texts] (Isa 43:10 ʾattem ʿēday nĕʾum
-    YHWH wĕ-ʿabdî ʾăšer bāḥārtî: Israel, the chosen servant, are God''s witnesses before the nations;
-    Q 2:143 jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā n-nāsi wa-yakūna r-rasūlu ʿalaykum shahīdan:
-    the new ''middle community'' are made witnesses over mankind, said just as the qibla turns away from
-    Jerusalem.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ
-    عَلَيْكُمْ شَهِيدًا وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ
-    ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى
-    ٱللَّهُ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمْ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 43:10 ʾattem ʿēday nĕʾum YHWH wĕ-ʿabdî ʾăšer bāḥārtî: Israel, the chosen servant,
-    are God''s witnesses before the nations; Q 2:143 jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā
-    n-nāsi wa-yakūna r-rasūlu ʿalaykum shahīdan: the new ''middle community'' are made witnesses over
-    mankind, said just as the qibla turns away from Jerusalem.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who bears witness to God''s oneness [divergence between the texts]
     (weight 6.0). Pair score 6.0.'
@@ -79,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who bears witness to God's oneness
+kinds:
+- divergence
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-2-qibla
+  title: The change of qibla
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who bears witness to God's oneness
+  note: 'Isa 43:10 ʾattem ʿēday nĕʾum YHWH wĕ-ʿabdî ʾăšer bāḥārtî: Israel, the chosen servant, are God''s
+    witnesses before the nations; Q 2:143 jaʿalnākum ummatan wasaṭan li-takūnū shuhadāʾa ʿalā n-nāsi wa-yakūna
+    r-rasūlu ʿalaykum shahīdan: the new ''middle community'' are made witnesses over mankind, said just
+    as the qibla turns away from Jerusalem.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:10
+      lang: he
+      text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
+        לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:143
+      lang: ar
+      text: وَكَذَٰلِكَ جَعَلْنَٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ
+        ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ
+        مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى
+        ٱلَّذِينَ هَدَى ٱللَّهُ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمْ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ
+        رَّحِيمٌ
 ---
 
 ## Questions

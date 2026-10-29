@@ -1,9 +1,7 @@
 ---
 id: motif-hb-deut-5-decalogue-vs-quran-17-commandments
 title: The Decalogue restated and the people's fear at Horeb ↔ The code of commandments (Surah 17:22-39)
-summary: 'These two units share 4 motifs: honor father and mother, with the promise of long life [divergence
-  between the texts], no other gods before yhwh, the ten commandments (decalogue), honor father and mother,
-  with the promise of long life.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,117 +18,9 @@ motifs:
 - prohibition-of-other-gods
 - ten-commandments
 - honor-parents-long-life
-passages:
-- tradition: judaism
-  ref: Deut 5:16
-  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
-    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
-    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
-    land is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 17:23
-  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
-    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
-    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
-    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
-    to parents comes second, right after God, in both.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:24
-  note: Honor father and mother, with the promise of long life [divergence between the texts] (kabbēd
-    ʾet-ʾābîkā wəʾet-ʾimmekā ləmaʿan yaʾărikûn yāmêkā; wa-bi-l-wālidayni iḥsānan immā yablughanna ʿindaka
-    l-kibara ... fa-lā taqul lahumā uffin ... wa-qul rabbi rḥamhumā ka-mā rabbayānī ṣaghīrā. Q drops the
-    promise of long life and puts in its place care for parents in old age and a prayer for them. Duty
-    to parents comes second, right after God, in both.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
-    صَغِيرًا
-- tradition: judaism
-  ref: Deut 5:7
-  note: 'No other gods before YHWH (Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad
-    ḥarrama llāhu ʿalayhi l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself
-    proclaim it (uʿbudū llāha rabbī wa-rabbakum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 17:22
-  note: No other gods before YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
-- tradition: islam
-  ref: Quran 17:23
-  note: No other gods before YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: judaism
-  ref: Deut 5:6
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
-- tradition: judaism
-  ref: Deut 5:7
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 17:23
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:31
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
-    كَانَ خِطْـًٔا كَبِيرًا
-- tradition: judaism
-  ref: Deut 5:16
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 17:23
-  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:24
-  note: Honor father and mother, with the promise of long life (honor without the promise of long life)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
-    صَغِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. kabbēd ... ləmaʿan yaʾărîkun yāmêkā ûləmaʿan yîṭab lāk; Q''s iḥsān to parents
-    has no promise attached and adds the prayer rabbi rḥamhumā. The reward motive of Deut is gone. lōʾ
-    tirṣāḥ wəlōʾ tinʾāp; lā taqtulū awlādakum ... lā taqrabū z-zinā ... lā taqtulu n-nafs: killing and
-    adultery prohibitions in close sequence, as in the Decalogue.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life [divergence
     between the texts] (weight 6.0); No other gods before YHWH (weight 5.8); The Ten Commandments (Decalogue)
@@ -166,6 +56,92 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Honor father and mother, with the promise of long life
+  note: kabbēd ... ləmaʿan yaʾărîkun yāmêkā ûləmaʿan yîṭab lāk; Q's iḥsān to parents has no promise attached
+    and adds the prayer rabbi rḥamhumā. The reward motive of Deut is gone.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:16
+      lang: he
+      text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+        יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:24
+      lang: ar
+      text: وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى
+        صَغِيرًا
+- kind: parallel
+  label: The Ten Commandments (Decalogue)
+  note: 'lōʾ tirṣāḥ wəlōʾ tinʾāp; lā taqtulū awlādakum ... lā taqrabū z-zinā ... lā taqtulu n-nafs: killing
+    and adultery prohibitions in close sequence, as in the Decalogue.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 17:31
+      lang: ar
+      text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ
+        قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا
+    - ref: Quran 17:32
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ إِنَّهُۥ كَانَ فَٰحِشَةً وَسَآءَ سَبِيلًا
+    - ref: Quran 17:33
+      lang: ar
+      text: وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَمَن قُتِلَ مَظْلُومًا
+        فَقَدْ جَعَلْنَا لِوَلِيِّهِۦ سُلْطَٰنًا فَلَا يُسْرِف فِّى ٱلْقَتْلِ إِنَّهُۥ كَانَ مَنصُورًا
+- kind: shared
+  label: No other gods before YHWH
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:7
+      lang: he
+      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    note: 'Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad ḥarrama llāhu ʿalayhi
+      l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself proclaim it (uʿbudū
+      llāha rabbī wa-rabbakum).'
+  - tradition: islam
+    passages:
+    - ref: Quran 17:22
+      lang: ar
+      text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:39
+      lang: ar
+      text: ذَٰلِكَ مِمَّآ أَوْحَىٰٓ إِلَيْكَ رَبُّكَ مِنَ ٱلْحِكْمَةِ وَلَا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا
+        ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا
 ---
 
 ## Questions

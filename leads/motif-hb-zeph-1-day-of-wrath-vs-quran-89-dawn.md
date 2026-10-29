@@ -1,7 +1,7 @@
 ---
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-89-dawn
 title: 'Zephaniah''s Day of YHWH against Judah ↔ The dawn: Iram of the pillars and the soul at peace'
-summary: 'These two units share 1 motifs: wealth does not profit on the day of wrath.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,33 +13,9 @@ layers:
 - motif
 motifs:
 - wealth-useless-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Zeph 1:18
-  note: Wealth does not profit on the day of wrath (wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru
-    l-insānu wa-annā lahu dh-dhikrā ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙ קִנְאָת֔וֹ
-    תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 89:20
-  note: Wealth does not profit on the day of wrath (wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru
-    l-insānu wa-annā lahu dh-dhikrā ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا
-- tradition: islam
-  ref: Quran 89:23
-  note: Wealth does not profit on the day of wrath (wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru
-    l-insānu wa-annā lahu dh-dhikrā ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru l-insānu wa-annā lahu dh-dhikrā
-    ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wealth does not profit on the day of wrath (weight 5.4). Pair score
     5.4.'
@@ -76,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wealth does not profit on the day of wrath
+kinds:
+- echo
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: echo
+  label: Wealth does not profit on the day of wrath
+  note: wa-tuḥibbūna l-māla ḥubban jammā ... yawmaʾidhin yatadhakkaru l-insānu wa-annā lahu dh-dhikrā
+    ~ gam kaspām gam zehāvām lōʾ yûkal lehaṣṣîlām be-yôm ʿevrat YHWH.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:18
+      lang: he
+      text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙
+        קִנְאָת֔וֹ תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 89:20
+      lang: ar
+      text: وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا
+    - ref: Quran 89:23
+      lang: ar
+      text: وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ
 ---
 
 ## Questions

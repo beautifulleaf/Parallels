@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1kgs-18-obadiah-vs-quran-9-cave-and-call
 title: Obadiah meets Elijah in the famine ↔ The call to go forth; the second of two in the cave
-summary: 'These two units share 1 motifs: the oppressed people hide in caves, dens and mountain strongholds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,27 +13,9 @@ layers:
 - motif
 motifs:
 - hiding-in-caves-and-strongholds
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:4
-  note: The oppressed people hide in caves, dens and mountain strongholds
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ בְּהַכְרִ֣ית אִיזֶ֔בֶל אֵ֖ת נְבִיאֵ֣י יְהוָ֑ה וַיִּקַּ֨ח עֹבַדְיָ֜הוּ מֵאָ֣ה נְבִאִ֗ים
-    וַֽיַּחְבִּיאֵ֞ם חֲמִשִּׁ֥ים אִישׁ֙ בַּמְּעָרָ֔ה וְכִלְכְּלָ֖ם לֶ֥חֶם וָמָֽיִם
-- tradition: islam
-  ref: Quran 9:40
-  note: The oppressed people hide in caves, dens and mountain strongholds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
-    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
-    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
-    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s messengers hidden in a cave from a persecuting ruler: wayyaḥbîʾēm ḥămiššîm ʾîš bammᵉʿārāh
-    wᵉkilkᵉlām leḥem wāmāyim vs thāniya thnayni idh humā fī l-ghār.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The oppressed people hide in caves, dens and mountain strongholds
     (weight 6.0). Pair score 6.0.'
@@ -58,6 +40,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The oppressed people hide in caves, dens and mountain strongholds
+kinds:
+- echo
+units:
+- id: hb-1kgs-18-obadiah
+  title: Obadiah meets Elijah in the famine
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: echo
+  label: The oppressed people hide in caves, dens and mountain strongholds
+  note: 'God''s messengers hidden in a cave from a persecuting ruler: wayyaḥbîʾēm ḥămiššîm ʾîš bammᵉʿārāh
+    wᵉkilkᵉlām leḥem wāmāyim vs thāniya thnayni idh humā fī l-ghār.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:4
+      lang: he
+      text: וַיְהִי֙ בְּהַכְרִ֣ית אִיזֶ֔בֶל אֵ֖ת נְבִיאֵ֣י יְהוָ֑ה וַיִּקַּ֨ח עֹבַדְיָ֜הוּ מֵאָ֣ה נְבִאִ֗ים
+        וַֽיַּחְבִּיאֵ֞ם חֲמִשִּׁ֥ים אִישׁ֙ בַּמְּעָרָ֔ה וְכִלְכְּלָ֖ם לֶ֥חֶם וָמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:40
+      lang: ar
+      text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+        إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ
+        ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ
+        كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

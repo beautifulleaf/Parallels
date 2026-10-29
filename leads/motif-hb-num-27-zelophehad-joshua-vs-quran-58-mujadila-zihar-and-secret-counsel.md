@@ -2,8 +2,7 @@
 id: motif-hb-num-27-zelophehad-joshua-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'Daughters of Zelophehad; Moses views the land; Joshua commissioned ↔ Al-Mujadila: the woman who
   disputed, the zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 1 motifs: daughters petition and win the right to inherit when there is
-  no son.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - daughters-inherit
-passages:
-- tradition: judaism
-  ref: Num 27:1
-  note: Daughters petition and win the right to inherit when there is no son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּקְרַ֜בְנָה בְּנ֣וֹת צְלָפְחָ֗ד בֶּן חֵ֤פֶר בֶּן גִּלְעָד֙ בֶּן מָכִ֣יר בֶּן מְנַשֶּׁ֔ה לְמִשְׁפְּחֹ֖ת
-    מְנַשֶּׁ֣ה בֶן יוֹסֵ֑ף וְאֵ֨לֶּה֙ שְׁמ֣וֹת בְּנֹתָ֔יו מַחְלָ֣ה נֹעָ֔ה וְחָגְלָ֥ה וּמִלְכָּ֖ה וְתִרְצָֽה
-- tradition: judaism
-  ref: Num 27:4
-  note: Daughters petition and win the right to inherit when there is no son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֣מָּה יִגָּרַ֤ע שֵׁם אָבִ֨ינוּ֙ מִתּ֣וֹךְ מִשְׁפַּחְתּ֔וֹ כִּ֛י אֵ֥ין ל֖וֹ בֵּ֑ן תְּנָה לָּ֣נוּ
-    אֲחֻזָּ֔ה בְּת֖וֹךְ אֲחֵ֥י אָבִֽינוּ
-- tradition: islam
-  ref: Quran 58:1
-  note: 'Daughters petition and win the right to inherit when there is no son (loose: a woman''s petition
-    on her marital status leads to new legislation (cf. Num 27 daughters of Zelophehad))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ
-    يَسْمَعُ تَحَاوُرَكُمَآ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A woman''s complaint brought before the prophet becomes divine law: wat-tiqraḇnâ bənôṯ ṣəlop̄ḥāḏ
-    ... lāmmâ yiggāraʿ šēm ʾāḇînû ... wa-yyaqrēḇ mōšeh ʾeṯ mišpāṭān lip̄nê YHWH ... kēn bənôṯ ṣəlop̄ḥāḏ
-    dōḇərōṯ vs. qad samiʿa llāhu qawla llatī tujādiluka fī zawjihā wa-tashtakī ilā llāh. In Numbers Moses
-    takes the case to God and God approves the daughters; in the Quran the woman herself complains to
-    God, God has heard, and the ruling on ẓihār follows. Inheritance there, marriage here.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Daughters petition and win the right to inherit when there is no
     son (weight 5.8). Pair score 5.8.'
@@ -82,6 +54,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Daughters petition and win the right to inherit when there is no son
+kinds:
+- echo
+units:
+- id: hb-num-27-zelophehad-joshua
+  title: Daughters of Zelophehad; Moses views the land; Joshua commissioned
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: echo
+  label: Daughters petition and win the right to inherit when there is no son
+  note: 'A woman''s complaint brought before the prophet becomes divine law: wat-tiqraḇnâ bənôṯ ṣəlop̄ḥāḏ
+    ... lāmmâ yiggāraʿ šēm ʾāḇînû ... wa-yyaqrēḇ mōšeh ʾeṯ mišpāṭān lip̄nê YHWH ... kēn bənôṯ ṣəlop̄ḥāḏ
+    dōḇərōṯ vs. qad samiʿa llāhu qawla llatī tujādiluka fī zawjihā wa-tashtakī ilā llāh. In Numbers Moses
+    takes the case to God and God approves the daughters; in the Quran the woman herself complains to
+    God, God has heard, and the ruling on ẓihār follows. Inheritance there, marriage here.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 27:1
+      lang: he
+      text: וַתִּקְרַ֜בְנָה בְּנ֣וֹת צְלָפְחָ֗ד בֶּן חֵ֤פֶר בֶּן גִּלְעָד֙ בֶּן מָכִ֣יר בֶּן מְנַשֶּׁ֔ה
+        לְמִשְׁפְּחֹ֖ת מְנַשֶּׁ֣ה בֶן יוֹסֵ֑ף וְאֵ֨לֶּה֙ שְׁמ֣וֹת בְּנֹתָ֔יו מַחְלָ֣ה נֹעָ֔ה וְחָגְלָ֥ה
+        וּמִלְכָּ֖ה וְתִרְצָֽה
+    - ref: Num 27:4
+      lang: he
+      text: לָ֣מָּה יִגָּרַ֤ע שֵׁם אָבִ֨ינוּ֙ מִתּ֣וֹךְ מִשְׁפַּחְתּ֔וֹ כִּ֛י אֵ֥ין ל֖וֹ בֵּ֑ן תְּנָה
+        לָּ֣נוּ אֲחֻזָּ֔ה בְּת֖וֹךְ אֲחֵ֥י אָבִֽינוּ
+    - ref: Num 27:5
+      lang: he
+      text: וַיַּקְרֵ֥ב מֹשֶׁ֛ה אֶת מִשְׁפָּטָ֖ן לִפְנֵ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 58:1
+      lang: ar
+      text: قَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّتِى تُجَٰدِلُكَ فِى زَوْجِهَا وَتَشْتَكِىٓ إِلَى ٱللَّهِ وَٱللَّهُ
+        يَسْمَعُ تَحَاوُرَكُمَآ إِنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
 ---
 
 ## Questions

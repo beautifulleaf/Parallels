@@ -2,8 +2,7 @@
 id: motif-hb-prov-21-sayings-vs-quran-8-obedience-trial
 title: Sayings on the king's heart, justice over sacrifice, and the contentious wife ↔ Deaf and dumb beasts,
   heart and trial
-summary: 'These two units share 1 motifs: the king''s heart is like channels of water in yhwh''s hand;
-  he turns it wherever he wishes.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - kings-heart-water-channels-in-gods-hand
-passages:
-- tradition: judaism
-  ref: Prov 21:1
-  note: The king's heart is like channels of water in YHWH's hand; he turns it wherever he wishes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פַּלְגֵי מַ֣יִם לֶב מֶ֭לֶךְ בְּיַד יְהוָ֑ה עַֽל כָּל אֲשֶׁ֖ר יַחְפֹּ֣ץ יַטֶּֽנּוּ
-- tradition: islam
-  ref: Quran 8:24
-  note: 'The king''s heart is like channels of water in YHWH''s hand; he turns it wherever he wishes (God''s
-    control over the human heart: anna llāha yaḥūlu bayna l-marʾi wa-qalbihi vs palgê-mayim lev-melek
-    bᵉyad-YHWH ʿal-kol-ʾăšer yaḥpōṣ yaṭṭennû. Prov says it of the king; Q of every man.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا يُحْيِيكُمْ
-    وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَحُولُ بَيْنَ ٱلْمَرْءِ وَقَلْبِهِۦ وَأَنَّهُۥٓ إِلَيْهِ تُحْشَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s control over the human heart: anna llāha yaḥūlu bayna l-marʾi wa-qalbihi vs palgê-mayim
-    lev-melek bᵉyad-YHWH ʿal-kol-ʾăšer yaḥpōṣ yaṭṭennû. Prov says it of the king; Q of every man.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is like channels of water in YHWH''s hand; he
     turns it wherever he wishes (weight 6.7). Pair score 6.7.'
@@ -66,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is like channels of water in YHWH's hand; he turns it wherever he wishes
+kinds:
+- echo
+units:
+- id: hb-prov-21-sayings
+  title: Sayings on the king's heart, justice over sacrifice, and the contentious wife
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: echo
+  label: The king's heart is like channels of water in YHWH's hand; he turns it wherever he wishes
+  note: 'God''s control over the human heart: anna llāha yaḥūlu bayna l-marʾi wa-qalbihi vs palgê-mayim
+    lev-melek bᵉyad-YHWH ʿal-kol-ʾăšer yaḥpōṣ yaṭṭennû. Prov says it of the king; Q of every man.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 21:1
+      lang: he
+      text: פַּלְגֵי מַ֣יִם לֶב מֶ֭לֶךְ בְּיַד יְהוָ֑ה עַֽל כָּל אֲשֶׁ֖ר יַחְפֹּ֣ץ יַטֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:24
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَجِيبُوا۟ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمْ لِمَا
+        يُحْيِيكُمْ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَحُولُ بَيْنَ ٱلْمَرْءِ وَقَلْبِهِۦ وَأَنَّهُۥٓ إِلَيْهِ
+        تُحْشَرُونَ
 ---
 
 ## Questions

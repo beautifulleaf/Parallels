@@ -1,7 +1,7 @@
 ---
 id: motif-hb-neh-5-debt-slavery-reform-vs-quran-2-usury
 title: Outcry over debt slavery; Nehemiah's remission and his refusal of the governor's allowance ↔ Usury
-summary: 'These two units share 1 motifs: lending at interest or increase to a poor brother is forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,52 +14,9 @@ layers:
 - motif
 motifs:
 - interest-forbidden-to-brother
-passages:
-- tradition: judaism
-  ref: Neh 5:10-12
-  note: Lending at interest or increase to a poor brother is forbidden (return fields and the 'hundredth'
-    (monthly interest) of silver, grain, wine, oil)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (5:10) וְגַם אֲנִי֙ אַחַ֣י וּנְעָרַ֔י נֹשִׁ֥ים בָּהֶ֖ם כֶּ֣סֶף וְדָגָ֑ן נַֽעַזְבָה נָּ֖א אֶת הַמַּשָּׁ֥א
-    הַזֶּֽה (5:11) הָשִׁיבוּ֩ נָ֨א לָהֶ֜ם כְּהַיּ֗וֹם שְׂדֹתֵיהֶ֛ם כַּרְמֵיהֶ֥ם זֵיתֵיהֶ֖ם וּבָתֵּיהֶ֑ם
-    וּמְאַ֨ת הַכֶּ֤סֶף וְהַדָּגָן֙ הַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר אֲשֶׁ֥ר אַתֶּ֖ם נֹשִׁ֥ים בָּהֶֽם (5:12)
-    וַיֹּאמְר֣וּ נָשִׁ֗יב וּמֵהֶם֙ לֹ֣א נְבַקֵּ֔שׁ כֵּ֣ן נַעֲשֶׂ֔ה כַּאֲשֶׁ֖ר אַתָּ֣ה אוֹמֵ֑ר וָאֶקְרָא֙
-    אֶת הַכֹּ֣הֲנִ֔ים וָֽאַשְׁבִּיעֵ֔ם לַעֲשׂ֖וֹת כַּדָּבָ֥ר הַזֶּֽה
-- tradition: judaism
-  ref: Neh 5:10
-  note: Lending at interest or increase to a poor brother is forbidden (return fields and the 'hundredth'
-    (monthly interest) of silver, grain, wine, oil)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַם אֲנִי֙ אַחַ֣י וּנְעָרַ֔י נֹשִׁ֥ים בָּהֶ֖ם כֶּ֣סֶף וְדָגָ֑ן נַֽעַזְבָה נָּ֖א אֶת הַמַּשָּׁ֥א
-    הַזֶּֽה
-- tradition: islam
-  ref: Quran 2:278
-  note: 'Lending at interest or increase to a poor brother is forbidden (Neh 5:10-11 naʿazbâ nāʾ ʾet ha-mmaššāʾ
-    ha-zzeh hāšîbû nāʾ lāhem ... û-mĕʾat ha-kkesep: let us give up this lending, give back the ''hundredth''
-    (interest); Q 2:278-279 wa-dharū mā baqiya mina r-ribā ... fa-lakum ruʾūsu amwālikum: give up what
-    remains of usury, keep your principal. A reformer''s call to drop existing interest claims, in both.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
-    كُنتُم مُّؤْمِنِينَ
-- tradition: islam
-  ref: Quran 2:279
-  note: 'Lending at interest or increase to a poor brother is forbidden (Neh 5:10-11 naʿazbâ nāʾ ʾet ha-mmaššāʾ
-    ha-zzeh hāšîbû nāʾ lāhem ... û-mĕʾat ha-kkesep: let us give up this lending, give back the ''hundredth''
-    (interest); Q 2:278-279 wa-dharū mā baqiya mina r-ribā ... fa-lakum ruʾūsu amwālikum: give up what
-    remains of usury, keep your principal. A reformer''s call to drop existing interest claims, in both.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ
-    رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Neh 5:10-11 naʿazbâ nāʾ ʾet ha-mmaššāʾ ha-zzeh hāšîbû nāʾ lāhem ... û-mĕʾat ha-kkesep: let
-    us give up this lending, give back the ''hundredth'' (interest); Q 2:278-279 wa-dharū mā baqiya mina
-    r-ribā ... fa-lakum ruʾūsu amwālikum: give up what remains of usury, keep your principal. A reformer''s
-    call to drop existing interest claims, in both.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Lending at interest or increase to a poor brother is forbidden (weight
     5.6). Pair score 5.6.'
@@ -92,6 +49,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Lending at interest or increase to a poor brother is forbidden
+kinds:
+- parallel
+units:
+- id: hb-neh-5-debt-slavery-reform
+  title: Outcry over debt slavery; Nehemiah's remission and his refusal of the governor's allowance
+  tradition: judaism
+- id: quran-2-usury
+  title: Usury
+  tradition: islam
+matches:
+- kind: parallel
+  label: Lending at interest or increase to a poor brother is forbidden
+  note: 'Neh 5:10-11 naʿazbâ nāʾ ʾet ha-mmaššāʾ ha-zzeh hāšîbû nāʾ lāhem ... û-mĕʾat ha-kkesep: let us
+    give up this lending, give back the ''hundredth'' (interest); Q 2:278-279 wa-dharū mā baqiya mina
+    r-ribā ... fa-lakum ruʾūsu amwālikum: give up what remains of usury, keep your principal. A reformer''s
+    call to drop existing interest claims, in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 5:10
+      lang: he
+      text: וְגַם אֲנִי֙ אַחַ֣י וּנְעָרַ֔י נֹשִׁ֥ים בָּהֶ֖ם כֶּ֣סֶף וְדָגָ֑ן נַֽעַזְבָה נָּ֖א אֶת הַמַּשָּׁ֥א
+        הַזֶּֽה
+    - ref: Neh 5:11
+      lang: he
+      text: הָשִׁיבוּ֩ נָ֨א לָהֶ֜ם כְּהַיּ֗וֹם שְׂדֹתֵיהֶ֛ם כַּרְמֵיהֶ֥ם זֵיתֵיהֶ֖ם וּבָתֵּיהֶ֑ם וּמְאַ֨ת
+        הַכֶּ֤סֶף וְהַדָּגָן֙ הַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר אֲשֶׁ֥ר אַתֶּ֖ם נֹשִׁ֥ים בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:278
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟
+        إِن كُنتُم مُّؤْمِنِينَ
+    - ref: Quran 2:279
+      lang: ar
+      text: فَإِن لَّمْ تَفْعَلُوا۟ فَأْذَنُوا۟ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَإِن تُبْتُمْ فَلَكُمْ
+        رُءُوسُ أَمْوَٰلِكُمْ لَا تَظْلِمُونَ وَلَا تُظْلَمُونَ
 ---
 
 ## Questions

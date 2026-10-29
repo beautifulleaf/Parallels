@@ -2,8 +2,7 @@
 id: motif-hb-deut-15-release-year-vs-quran-24-privacy-modesty-marriage
 title: Release of debts, release of Hebrew slaves, firstlings ↔ Entering houses, lowering the gaze, head-coverings,
   marriage and manumission
-summary: 'These two units share 1 motifs: freed slave must not be sent away empty-handed but furnished
-  from flock, threshing floor and winepress.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - freed-slave-given-gifts
-passages:
-- tradition: judaism
-  ref: Deut 15:13
-  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי תְשַׁלְּחֶ֥נּוּ חָפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם
-- tradition: judaism
-  ref: Deut 15:14
-  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגָּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהוָ֥ה
-    אֱלֹהֶ֖יךָ תִּתֶּן לֽוֹ
-- tradition: islam
-  ref: Quran 24:33
-  note: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and winepress
-    ('give them of the wealth of God which he gave you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ وَٱلَّذِينَ
-    يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا
-    وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ
-    إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن يُكْرِههُّنَّ فَإِنَّ
-    ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-ātūhum min māli llāhi lladhī ātākum ~ haʿănêq taʿănîq lô mi-ṣṣōʾnəkā û-mig-gornəkā û-mi-yyiqvekā
-    ʾăšer bērakhkā YHWH ʾĕlōhêkā tittēn lô: give the slave being freed from what God gave you. The occasions
-    differ: Deut''s release comes automatically in the seventh year and the slave must not go empty-handed
-    (lōʾ təšalləḥennû rêqām); the Quran''s is a written manumission contract (kitāba) that the slave asks
-    for.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Freed slave must not be sent away empty-handed but furnished from
     flock, threshing floor and winepress (weight 6.7). Pair score 6.7.'
@@ -85,6 +55,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and
+  winepress
+kinds:
+- parallel
+units:
+- id: hb-deut-15-release-year
+  title: Release of debts, release of Hebrew slaves, firstlings
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: parallel
+  label: Freed slave must not be sent away empty-handed but furnished from flock, threshing floor and
+    winepress
+  note: 'wa-ātūhum min māli llāhi lladhī ātākum ~ haʿănêq taʿănîq lô mi-ṣṣōʾnəkā û-mig-gornəkā û-mi-yyiqvekā
+    ʾăšer bērakhkā YHWH ʾĕlōhêkā tittēn lô: give the slave being freed from what God gave you. The occasions
+    differ: Deut''s release comes automatically in the seventh year and the slave must not go empty-handed
+    (lōʾ təšalləḥennû rêqām); the Quran''s is a written manumission contract (kitāba) that the slave asks
+    for.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:13
+      lang: he
+      text: וְכִֽי תְשַׁלְּחֶ֥נּוּ חָפְשִׁ֖י מֵֽעִמָּ֑ךְ לֹ֥א תְשַׁלְּחֶ֖נּוּ רֵיקָֽם
+    - ref: Deut 15:14
+      lang: he
+      text: הַעֲנֵ֤יק תַּעֲנִיק֙ ל֔וֹ מִצֹּ֣אנְךָ֔ וּמִֽגָּרְנְךָ֖ וּמִיִּקְבֶ֑ךָ אֲשֶׁ֧ר בֵּרַכְךָ֛ יְהוָ֥ה
+        אֱלֹהֶ֖יךָ תִּתֶּן לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:33
+      lang: ar
+      text: وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ
+        وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ
+        فِيهِمْ خَيْرًا وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ
+        عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَمَن
+        يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

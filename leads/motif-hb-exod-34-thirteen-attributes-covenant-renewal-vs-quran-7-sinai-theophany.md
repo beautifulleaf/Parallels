@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-7-sinai-theophany
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ Forty nights, the request to see
   God and the tablets
-summary: 'These two units share 2 motifs: what the tablets given at sinai contain [divergence between
-  the texts], a prophet spends forty days and forty nights in a set period.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,44 +15,9 @@ layers:
 motifs:
 - content-of-the-tablets-as-divergence
 - forty-days-and-nights
-passages:
-- tradition: judaism
-  ref: Exod 34:28
-  note: 'What the tablets given at Sinai contain [divergence between the texts] (Content of the tablets:
-    min kulli shayʾin mawʿiẓatan wa-tafṣīlan li-kulli shayʾin (''an explanation of all things'') vs ʿăśeret
-    haddᵉbārîm (''the ten words'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִי שָׁ֣ם עִם יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּמַ֖יִם
-    לֹ֣א שָׁתָ֑ה וַיִּכְתֹּ֣ב עַל הַלֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַבְּרִ֔ית עֲשֶׂ֖רֶת הַדְּבָרִֽים
-- tradition: islam
-  ref: Quran 7:145
-  note: 'What the tablets given at Sinai contain [divergence between the texts] (Content of the tablets:
-    min kulli shayʾin mawʿiẓatan wa-tafṣīlan li-kulli shayʾin (''an explanation of all things'') vs ʿăśeret
-    haddᵉbārîm (''the ten words'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَىْءٍ فَخُذْهَا
-    بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ
-- tradition: judaism
-  ref: Exod 34:28
-  note: A prophet spends forty days and forty nights in a set period
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִי שָׁ֣ם עִם יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּמַ֖יִם
-    לֹ֣א שָׁתָ֑ה וַיִּכְתֹּ֣ב עַל הַלֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַבְּרִ֔ית עֲשֶׂ֖רֶת הַדְּבָרִֽים
-- tradition: islam
-  ref: Quran 7:142
-  note: A prophet spends forty days and forty nights in a set period (nights)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ
-    أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ
-    سَبِيلَ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Content of the tablets: min kulli shayʾin mawʿiẓatan wa-tafṣīlan li-kulli shayʾin (''an
-    explanation of all things'') vs ʿăśeret haddᵉbārîm (''the ten words'').'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the tablets given at Sinai contain [divergence between the
     texts] (weight 6.7); A prophet spends forty days and forty nights in a set period (weight 5.8). Pair
@@ -89,6 +53,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What the tablets given at Sinai contain
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-7-sinai-theophany
+  title: Forty nights, the request to see God and the tablets
+  tradition: islam
+matches:
+- kind: divergence
+  label: What the tablets given at Sinai contain
+  note: 'Content of the tablets: min kulli shayʾin mawʿiẓatan wa-tafṣīlan li-kulli shayʾin (''an explanation
+    of all things'') vs ʿăśeret haddᵉbārîm (''the ten words'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:28
+      lang: he
+      text: וַֽיְהִי שָׁ֣ם עִם יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּמַ֖יִם
+        לֹ֣א שָׁתָ֑ה וַיִּכְתֹּ֣ב עַל הַלֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַבְּרִ֔ית עֲשֶׂ֖רֶת הַדְּבָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 7:145
+      lang: ar
+      text: وَكَتَبْنَا لَهُۥ فِى ٱلْأَلْوَاحِ مِن كُلِّ شَىْءٍ مَّوْعِظَةً وَتَفْصِيلًا لِّكُلِّ شَىْءٍ
+        فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا۟ بِأَحْسَنِهَا سَأُو۟رِيكُمْ دَارَ ٱلْفَٰسِقِينَ
+- kind: shared
+  label: A prophet spends forty days and forty nights in a set period
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:28
+      lang: he
+      text: וַֽיְהִי שָׁ֣ם עִם יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּמַ֖יִם
+        לֹ֣א שָׁתָ֑ה וַיִּכְתֹּ֣ב עַל הַלֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַבְּרִ֔ית עֲשֶׂ֖רֶת הַדְּבָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 7:142
+      lang: ar
+      text: وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ
+        أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا
+        تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
+    note: nights
 ---
 
 ## Questions

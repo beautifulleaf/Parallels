@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-23-death-barzakh-judgment
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Repel
   evil with good; the deathbed plea, the barzakh and the scales
-summary: 'These two units share 1 motifs: god did not create the heavens and earth and what is between
-  them in play (la''ibin) but in truth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - creation-not-in-play
-passages:
-- tradition: judaism
-  ref: Isa 45:18
-  note: 'God did not create the heavens and earth and what is between them in play (la''ibin) but in truth
-    (lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God
-    did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
-    or pastime (lahw), but with truth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
-    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 23:115
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. a-fa-ḥasibtum annamā khalaqnākum ʿabathan ~ lōʾ tōhû vərāʾāh lā-ševet yəṣārāh: God did not create
-    in vain (ʿabath / tōhû). Isaiah speaks of the earth made to be inhabited, the Quran of humans made
-    to return to God (wa-annakum ilaynā lā turjaʿūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not create the heavens and earth and what is between them
     in play (la''ibin) but in truth (weight 5.3). Pair score 5.3.'
@@ -77,6 +57,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: echo
+  label: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+  note: 'a-fa-ḥasibtum annamā khalaqnākum ʿabathan ~ lōʾ tōhû vərāʾāh lā-ševet yəṣārāh: God did not create
+    in vain (ʿabath / tōhû). Isaiah speaks of the earth made to be inhabited, the Quran of humans made
+    to return to God (wa-annakum ilaynā lā turjaʿūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:18
+      lang: he
+      text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙
+        ה֣וּא כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 23:115
+      lang: ar
+      text: أَفَحَسِبْتُمْ أَنَّمَا خَلَقْنَٰكُمْ عَبَثًا وَأَنَّكُمْ إِلَيْنَا لَا تُرْجَعُونَ
 ---
 
 ## Questions

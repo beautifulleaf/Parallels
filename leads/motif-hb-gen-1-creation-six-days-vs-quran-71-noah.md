@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-1-creation-six-days-vs-quran-71-noah
 title: Creation in six days and the seventh-day rest ↔ Noah's preaching, the five idols and the flood
-summary: 'These two units share 1 motifs: god made the great lights: the sun to rule the day, the moon
-  and stars to rule the night.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - great-lights-rule-day-and-night
-passages:
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'God made the great lights: the sun to rule the day, the moon and stars to rule the night (wa-jaʿala
-    l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājan ~ wa-yyaʿaś ʾĕlōhîm ʾet šenê ha-mmeʾōrōt ha-ggedōlîm
-    ... ha-mmāʾôr ha-ggādōl ... ha-mmāʾôr ha-qqāṭōn. Genesis avoids naming sun and moon; the Quran names
-    them and distinguishes lamp (sirāj) from light (nūr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 71:16
-  note: 'God made the great lights: the sun to rule the day, the moon and stars to rule the night (moon
-    a light, sun a lamp, set within the heavens)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-jaʿala l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājan ~ wa-yyaʿaś ʾĕlōhîm ʾet šenê
-    ha-mmeʾōrōt ha-ggedōlîm ... ha-mmāʾôr ha-ggādōl ... ha-mmāʾôr ha-qqāṭōn. Genesis avoids naming sun
-    and moon; the Quran names them and distinguishes lamp (sirāj) from light (nūr).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the great lights: the sun to rule the day, the moon and
     stars to rule the night (weight 6.3). Pair score 6.3.'
@@ -73,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God made the great lights: the sun to rule the day, the moon and stars to rule the night'
+kinds:
+- parallel
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'God made the great lights: the sun to rule the day, the moon and stars to rule the night'
+  note: wa-jaʿala l-qamara fīhinna nūran wa-jaʿala sh-shamsa sirājan ~ wa-yyaʿaś ʾĕlōhîm ʾet šenê ha-mmeʾōrōt
+    ha-ggedōlîm ... ha-mmāʾôr ha-ggādōl ... ha-mmāʾôr ha-qqāṭōn. Genesis avoids naming sun and moon; the
+    Quran names them and distinguishes lamp (sirāj) from light (nūr).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 71:16
+      lang: ar
+      text: وَجَعَلَ ٱلْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ ٱلشَّمْسَ سِرَاجًا
 ---
 
 ## Questions

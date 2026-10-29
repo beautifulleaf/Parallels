@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-7-sabbath-town
 title: Return from exile; the near commandment; choose life ↔ The Sabbath-breaking seaside town turned
   into apes
-summary: 'These two units share 2 motifs: god tries towns with hardship, then with ease, then seizes them
-  suddenly, in the end of days, in distress, the people will seek god and return.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,63 +16,9 @@ layers:
 motifs:
 - adversity-then-prosperity-then-sudden-seizure
 - return-in-latter-days
-passages:
-- tradition: judaism
-  ref: Deut 30:1
-  note: 'God tries towns with hardship, then with ease, then seizes them suddenly (Good and ill sent so
-    that the scattered return: wa-balawnāhum bi-l-ḥasanāti wa-s-sayyiʾāti laʿallahum yarjiʿūn vs habbᵉrākāh
-    wᵉhaqqᵉlālāh ... bᵉkol-haggôyim ʾăšer hiddîḥăkā ... wᵉšabtā ʿad-YHWH ʾĕlōhêkā (rajaʿa = šûb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֩ כִֽי יָבֹ֨אוּ עָלֶ֜יךָ כָּל הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר
-    נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל לְבָבֶ֔ךָ בְּכָל הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ
-    שָֽׁמָּה
-- tradition: judaism
-  ref: Deut 30:2
-  note: 'God tries towns with hardship, then with ease, then seizes them suddenly (Good and ill sent so
-    that the scattered return: wa-balawnāhum bi-l-ḥasanāti wa-s-sayyiʾāti laʿallahum yarjiʿūn vs habbᵉrākāh
-    wᵉhaqqᵉlālāh ... bᵉkol-haggôyim ʾăšer hiddîḥăkā ... wᵉšabtā ʿad-YHWH ʾĕlōhêkā (rajaʿa = šûb).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתָּ֞ עַד יְהוָ֤ה אֱלֹהֶ֨יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר אָנֹכִ֥י מְצַוְּךָ֖
-    הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 7:168
-  note: God tries towns with hardship, then with ease, then seizes them suddenly (tested with good and
-    bad that they might return)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
-    بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
-- tradition: judaism
-  ref: Deut 30:1
-  note: In the end of days, in distress, the people will seek God and return
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֩ כִֽי יָבֹ֨אוּ עָלֶ֜יךָ כָּל הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר
-    נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל לְבָבֶ֔ךָ בְּכָל הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ
-    שָֽׁמָּה
-- tradition: judaism
-  ref: Deut 30:2
-  note: In the end of days, in distress, the people will seek God and return
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתָּ֞ עַד יְהוָ֤ה אֱלֹהֶ֨יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר אָנֹכִ֥י מְצַוְּךָ֖
-    הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
-- tradition: islam
-  ref: Quran 7:168
-  note: 'In the end of days, in distress, the people will seek God and return (Scattering and hoped-for
-    return: qaṭṭaʿnāhum fī l-arḍi umaman ... laʿallahum yarjiʿūn vs wᵉhēpîṣ YHWH ʾetkem bāʿammîm ... bᵉʾaḥărît
-    hayyāmîm wᵉšabtā ʿad-YHWH. Deut promises the return; Q only hopes for it (laʿalla).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
-    بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Good and ill sent so that the scattered return: wa-balawnāhum bi-l-ḥasanāti wa-s-sayyiʾāti
-    laʿallahum yarjiʿūn vs habbᵉrākāh wᵉhaqqᵉlālāh ... bᵉkol-haggôyim ʾăšer hiddîḥăkā ... wᵉšabtā ʿad-YHWH
-    ʾĕlōhêkā (rajaʿa = šûb).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tries towns with hardship, then with ease, then seizes them
     suddenly (weight 6.0); In the end of days, in distress, the people will seek God and return (weight
@@ -103,6 +48,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tries towns with hardship, then with ease, then seizes them suddenly
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: parallel
+  label: God tries towns with hardship, then with ease, then seizes them suddenly
+  note: 'Good and ill sent so that the scattered return: wa-balawnāhum bi-l-ḥasanāti wa-s-sayyiʾāti laʿallahum
+    yarjiʿūn vs habbᵉrākāh wᵉhaqqᵉlālāh ... bᵉkol-haggôyim ʾăšer hiddîḥăkā ... wᵉšabtā ʿad-YHWH ʾĕlōhêkā
+    (rajaʿa = šûb).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:1
+      lang: he
+      text: וְהָיָה֩ כִֽי יָבֹ֨אוּ עָלֶ֜יךָ כָּל הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר
+        נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל לְבָבֶ֔ךָ בְּכָל הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהוָ֥ה
+        אֱלֹהֶ֖יךָ שָֽׁמָּה
+    - ref: Deut 30:2
+      lang: he
+      text: וְשַׁבְתָּ֞ עַד יְהוָ֤ה אֱלֹהֶ֨יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר אָנֹכִ֥י מְצַוְּךָ֖
+        הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:168
+      lang: ar
+      text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
+        بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
+- kind: shared
+  label: In the end of days, in distress, the people will seek God and return
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:1
+      lang: he
+      text: וְהָיָה֩ כִֽי יָבֹ֨אוּ עָלֶ֜יךָ כָּל הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר
+        נָתַ֖תִּי לְפָנֶ֑יךָ וַהֲשֵׁבֹתָ֙ אֶל לְבָבֶ֔ךָ בְּכָל הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהוָ֥ה
+        אֱלֹהֶ֖יךָ שָֽׁמָּה
+    - ref: Deut 30:2
+      lang: he
+      text: וְשַׁבְתָּ֞ עַד יְהוָ֤ה אֱלֹהֶ֨יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר אָנֹכִ֥י מְצַוְּךָ֖
+        הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל לְבָבְךָ֖ וּבְכָל נַפְשֶֽׁךָ
+    - ref: Deut 30:8
+      lang: he
+      text: וְאַתָּ֣ה תָשׁ֔וּב וְשָׁמַעְתָּ֖ בְּק֣וֹל יְהוָ֑ה וְעָשִׂ֨יתָ֙ אֶת כָּל מִצְוֺתָ֔יו אֲשֶׁ֛ר
+        אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:168
+      lang: ar
+      text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
+        بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
+    note: 'Scattering and hoped-for return: qaṭṭaʿnāhum fī l-arḍi umaman ... laʿallahum yarjiʿūn vs wᵉhēpîṣ
+      YHWH ʾetkem bāʿammîm ... bᵉʾaḥărît hayyāmîm wᵉšabtā ʿad-YHWH. Deut promises the return; Q only hopes
+      for it (laʿalla).'
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-15-release-year-vs-quran-5-questions-pagan-camels
 title: Release of debts, release of Hebrew slaves, firstlings ↔ Questions not to ask; the freed camels
   of the pagans
-summary: 'These two units share 1 motifs: firstborn male of herd and flock consecrated to god, not worked
-  or shorn [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - firstling-consecrated-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 15:19
-  note: 'Firstborn male of herd and flock consecrated to God, not worked or shorn [contrast between the
-    texts] (Animals dedicated by birth order and freed from work. Deut, by God''s command: kol-hab-bəkhôr
-    ... taqdîš la-YHWH ... lōʾ taʿăvōd bi-vkhōr šôrekhā wə-lōʾ tāgōz bəkhôr ṣōʾnekhā. Q: mā jaʿala llāhu
-    min baḥīratin wa-lā sāʾibatin wa-lā waṣīlatin wa-lā ḥāmin. God denies instituting the pagan dedications,
-    which also turn on birth order and release from use (sāʾiba, ḥām).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהוָ֣ה
-    אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ
-- tradition: islam
-  ref: Quran 5:103
-  note: 'Firstborn male of herd and flock consecrated to God, not worked or shorn [contrast between the
-    texts] (Animals dedicated by birth order and freed from work. Deut, by God''s command: kol-hab-bəkhôr
-    ... taqdîš la-YHWH ... lōʾ taʿăvōd bi-vkhōr šôrekhā wə-lōʾ tāgōz bəkhôr ṣōʾnekhā. Q: mā jaʿala llāhu
-    min baḥīratin wa-lā sāʾibatin wa-lā waṣīlatin wa-lā ḥāmin. God denies instituting the pagan dedications,
-    which also turn on birth order and release from use (sāʾiba, ḥām).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍ وَلَا سَآئِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ وَلَٰكِنَّ ٱلَّذِينَ
-    كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Animals dedicated by birth order and freed from work. Deut, by God''s command: kol-hab-bəkhôr
-    ... taqdîš la-YHWH ... lōʾ taʿăvōd bi-vkhōr šôrekhā wə-lōʾ tāgōz bəkhôr ṣōʾnekhā. Q: mā jaʿala llāhu
-    min baḥīratin wa-lā sāʾibatin wa-lā waṣīlatin wa-lā ḥāmin. God denies instituting the pagan dedications,
-    which also turn on birth order and release from use (sāʾiba, ḥām).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Firstborn male of herd and flock consecrated to God, not worked
     or shorn [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -74,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Firstborn male of herd and flock consecrated to God, not worked or shorn
+kinds:
+- contrast
+units:
+- id: hb-deut-15-release-year
+  title: Release of debts, release of Hebrew slaves, firstlings
+  tradition: judaism
+- id: quran-5-questions-pagan-camels
+  title: Questions not to ask; the freed camels of the pagans
+  tradition: islam
+matches:
+- kind: contrast
+  label: Firstborn male of herd and flock consecrated to God, not worked or shorn
+  note: 'Animals dedicated by birth order and freed from work. Deut, by God''s command: kol-hab-bəkhôr
+    ... taqdîš la-YHWH ... lōʾ taʿăvōd bi-vkhōr šôrekhā wə-lōʾ tāgōz bəkhôr ṣōʾnekhā. Q: mā jaʿala llāhu
+    min baḥīratin wa-lā sāʾibatin wa-lā waṣīlatin wa-lā ḥāmin. God denies instituting the pagan dedications,
+    which also turn on birth order and release from use (sāʾiba, ḥām).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:19
+      lang: he
+      text: כָּֽל הַבְּכ֡וֹר אֲשֶׁר֩ יִוָּלֵ֨ד בִּבְקָרְךָ֤ וּבְצֹֽאנְךָ֙ הַזָּכָ֔ר תַּקְדִּ֖ישׁ לַיהוָ֣ה
+        אֱלֹהֶ֑יךָ לֹ֤א תַעֲבֹד֙ בִּבְכֹ֣ר שׁוֹרֶ֔ךָ וְלֹ֥א תָגֹ֖ז בְּכ֥וֹר צֹאנֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:103
+      lang: ar
+      text: مَا جَعَلَ ٱللَّهُ مِنۢ بَحِيرَةٍ وَلَا سَآئِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ وَلَٰكِنَّ
+        ٱلَّذِينَ كَفَرُوا۟ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ
 ---
 
 ## Questions

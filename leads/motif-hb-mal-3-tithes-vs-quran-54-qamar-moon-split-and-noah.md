@@ -2,9 +2,7 @@
 id: motif-hb-mal-3-tithes-vs-quran-54-qamar-moon-split-and-noah
 title: 'Return to me; will a man rob God? Test me with the tithe ↔ Al-Qamar: the moon split, the dead
   like locusts, and Noah''s ark of planks and fibres'
-summary: 'These two units share 2 motifs: bring the whole tithe to the storehouse and test god: he will
-  open the windows of heaven and pour out blessing without limit, god opens the windows or gates of heaven,
-  for blessing or for the flood [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,48 +15,9 @@ layers:
 motifs:
 - test-god-with-tithes-windows-of-heaven
 - openings-of-heaven-opened-as-contrast
-passages:
-- tradition: judaism
-  ref: Mal 3:10
-  note: 'Bring the whole tithe to the storehouse and test God: he will open the windows of heaven and
-    pour out blessing without limit'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
-    נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י
-    לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
-- tradition: islam
-  ref: Quran 54:11
-  note: 'Bring the whole tithe to the storehouse and test God: he will open the windows of heaven and
-    pour out blessing without limit (the ''gates/windows of heaven'' image (Gen 7:11 arubbot))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
-- tradition: judaism
-  ref: Mal 3:10
-  note: 'God opens the windows or gates of heaven, for blessing or for the flood [contrast between the
-    texts] (Heaven''s openings pour out blessing or ruin: ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
-    wa-hărîqōṯî lāḵem bərāḵâ ʿaḏ bəlî ḏāy vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir. The same opening
-    (p-t-ḥ / f-t-ḥ) gives blessing without measure in Malachi, and the flood in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
-    נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י
-    לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
-- tradition: islam
-  ref: Quran 54:11
-  note: 'God opens the windows or gates of heaven, for blessing or for the flood [contrast between the
-    texts] (Heaven''s openings pour out blessing or ruin: ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
-    wa-hărîqōṯî lāḵem bərāḵâ ʿaḏ bəlî ḏāy vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir. The same opening
-    (p-t-ḥ / f-t-ḥ) gives blessing without measure in Malachi, and the flood in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Heaven''s openings pour out blessing or ruin: ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
-    wa-hărîqōṯî lāḵem bərāḵâ ʿaḏ bəlî ḏāy vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir. The same opening
-    (p-t-ḥ / f-t-ḥ) gives blessing without measure in Malachi, and the flood in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bring the whole tithe to the storehouse and test God: he will open
     the windows of heaven and pour out blessing without limit (weight 6.7); God opens the windows or gates
@@ -95,6 +54,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens the windows or gates of heaven, for blessing or for the flood
+kinds:
+- contrast
+- shared
+units:
+- id: hb-mal-3-tithes
+  title: Return to me; will a man rob God? Test me with the tithe
+  tradition: judaism
+- id: quran-54-qamar-moon-split-and-noah
+  title: 'Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres'
+  tradition: islam
+matches:
+- kind: contrast
+  label: God opens the windows or gates of heaven, for blessing or for the flood
+  note: 'Heaven''s openings pour out blessing or ruin: ʾim lōʾ ʾep̄taḥ lāḵem ʾēṯ ʾărubbôṯ haš-šāmayim
+    wa-hărîqōṯî lāḵem bərāḵâ ʿaḏ bəlî ḏāy vs. fa-fataḥnā abwāba s-samāʾi bi-māʾin munhamir. The same opening
+    (p-t-ḥ / f-t-ḥ) gives blessing without measure in Malachi, and the flood in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:10
+      lang: he
+      text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
+        נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם
+        וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 54:11
+      lang: ar
+      text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+- kind: shared
+  label: 'Bring the whole tithe to the storehouse and test God: he will open the windows of heaven and
+    pour out blessing without limit'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:10
+      lang: he
+      text: הָבִ֨יאוּ אֶת כָּל הַֽמַּעֲשֵׂ֜ר אֶל בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֨רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי
+        נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם
+        וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד בְּלִי דָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 54:11
+      lang: ar
+      text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+    note: the 'gates/windows of heaven' image (Gen 7:11 arubbot)
 ---
 
 ## Questions

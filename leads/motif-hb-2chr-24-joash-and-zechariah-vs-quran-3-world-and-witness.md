@@ -2,8 +2,7 @@
 id: motif-hb-2chr-24-joash-and-zechariah-vs-quran-3-world-and-witness
 title: Joash repairs the temple with the collection chest; after Jehoiada's death he stones Zechariah
   ↔ The two hosts, worldly lures, God's witness
-summary: 'These two units share 1 motifs: those who kill prophets and those who enjoin justice are warned
-  of punishment.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - killers-of-those-who-enjoin-justice
-passages:
-- tradition: judaism
-  ref: 2Chr 24:20
-  note: 'Those who kill prophets and those who enjoin justice are warned of punishment (2Chr 24:20-21
-    lāmâ ʾattem ʿōbĕrîm ʾet miṣwōt YHWH ... wa-yyirgĕmuhû ʾeben bĕ-miṣwat ha-mmelek ba-ḥăṣar bêt YHWH:
-    Zechariah the priest rebukes the people for breaking the commandments and is stoned in the temple
-    court; Q 3:21 wa-yaqtulūna lladhīna yaʾmurūna bi-l-qisṭi: they kill those who command justice. A named
-    case in Chronicles; a general charge in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת זְכַרְיָה֙ בֶּן יְהוֹיָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל לָעָ֑ם
-    וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם עֹבְרִ֜ים אֶת מִצְוֺ֤ת יְהוָה֙ וְלֹ֣א תַצְלִ֔יחוּ
-    כִּֽי עֲזַבְתֶּ֥ם אֶת יְהוָ֖ה וַיַּֽעֲזֹ֥ב אֶתְכֶֽם
-- tradition: judaism
-  ref: 2Chr 24:21
-  note: 'Those who kill prophets and those who enjoin justice are warned of punishment (2Chr 24:20-21
-    lāmâ ʾattem ʿōbĕrîm ʾet miṣwōt YHWH ... wa-yyirgĕmuhû ʾeben bĕ-miṣwat ha-mmelek ba-ḥăṣar bêt YHWH:
-    Zechariah the priest rebukes the people for breaking the commandments and is stoned in the temple
-    court; Q 3:21 wa-yaqtulūna lladhīna yaʾmurūna bi-l-qisṭi: they kill those who command justice. A named
-    case in Chronicles; a general charge in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְשְׁר֣וּ עָלָ֔יו וַיִּרְגְּמֻ֥הוּ אֶ֖בֶן בְּמִצְוַ֣ת הַמֶּ֑לֶךְ בַּחֲצַ֖ר בֵּ֥ית יְהוָֽה
-- tradition: islam
-  ref: Quran 3:21
-  note: Those who kill prophets and those who enjoin justice are warned of punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ
-    ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. 2Chr 24:20-21 lāmâ ʾattem ʿōbĕrîm ʾet miṣwōt YHWH ... wa-yyirgĕmuhû ʾeben bĕ-miṣwat ha-mmelek
-    ba-ḥăṣar bêt YHWH: Zechariah the priest rebukes the people for breaking the commandments and is stoned
-    in the temple court; Q 3:21 wa-yaqtulūna lladhīna yaʾmurūna bi-l-qisṭi: they kill those who command
-    justice. A named case in Chronicles; a general charge in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who kill prophets and those who enjoin justice are warned
     of punishment (weight 6.7). Pair score 6.7.'
@@ -84,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who kill prophets and those who enjoin justice are warned of punishment
+kinds:
+- parallel
+units:
+- id: hb-2chr-24-joash-and-zechariah
+  title: Joash repairs the temple with the collection chest; after Jehoiada's death he stones Zechariah
+  tradition: judaism
+- id: quran-3-world-and-witness
+  title: The two hosts, worldly lures, God's witness
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those who kill prophets and those who enjoin justice are warned of punishment
+  note: '2Chr 24:20-21 lāmâ ʾattem ʿōbĕrîm ʾet miṣwōt YHWH ... wa-yyirgĕmuhû ʾeben bĕ-miṣwat ha-mmelek
+    ba-ḥăṣar bêt YHWH: Zechariah the priest rebukes the people for breaking the commandments and is stoned
+    in the temple court; Q 3:21 wa-yaqtulūna lladhīna yaʾmurūna bi-l-qisṭi: they kill those who command
+    justice. A named case in Chronicles; a general charge in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 24:20
+      lang: he
+      text: וְר֣וּחַ אֱלֹהִ֗ים לָֽבְשָׁה֙ אֶת זְכַרְיָה֙ בֶּן יְהוֹיָדָ֣ע הַכֹּהֵ֔ן וַֽיַּעֲמֹ֖ד מֵעַ֣ל
+        לָעָ֑ם וַיֹּ֨אמֶר לָהֶ֜ם כֹּ֣ה אָמַ֣ר הָאֱלֹהִ֗ים לָמָה֩ אַתֶּ֨ם עֹבְרִ֜ים אֶת מִצְוֺ֤ת יְהוָה֙
+        וְלֹ֣א תַצְלִ֔יחוּ כִּֽי עֲזַבְתֶּ֥ם אֶת יְהוָ֖ה וַיַּֽעֲזֹ֥ב אֶתְכֶֽם
+    - ref: 2Chr 24:21
+      lang: he
+      text: וַיִּקְשְׁר֣וּ עָלָ֔יו וַיִּרְגְּמֻ֥הוּ אֶ֖בֶן בְּמִצְוַ֣ת הַמֶּ֑לֶךְ בַּחֲצַ֖ר בֵּ֥ית יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:21
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ حَقٍّ
+        وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 ---
 
 ## Questions

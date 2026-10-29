@@ -2,7 +2,7 @@
 id: motif-hb-job-28-hymn-to-wisdom-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: The hymn to hidden wisdom ↔ Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything
   by measure; the seat of truth
-summary: 'These two units share 1 motifs: god created everything by measure/decree (bi-qadar).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - everything-created-by-measure
-passages:
-- tradition: judaism
-  ref: Job 28:25
-  note: 'God created everything by measure/decree (bi-qadar) (laʿăśôṯ lā-rûaḥ mišqāl û-mayim tikkēn ḇə-middâ
-    vs. innā kulla shayʾin khalaqnāhu bi-qadar. Job: wind and water given weight and measure at creation;
-    Quran: everything, with qadar meaning both measure and decree.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַעֲשׂ֣וֹת לָר֣וּחַ מִשְׁקָ֑ל וּ֝מַ֗יִם תִּכֵּ֥ן בְּמִדָּֽה
-- tradition: islam
-  ref: Quran 54:49
-  note: God created everything by measure/decree (bi-qadar)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. laʿăśôṯ lā-rûaḥ mišqāl û-mayim tikkēn ḇə-middâ vs. innā kulla shayʾin khalaqnāhu bi-qadar. Job:
-    wind and water given weight and measure at creation; Quran: everything, with qadar meaning both measure
-    and decree.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created everything by measure/decree (bi-qadar) (weight 6.7).
     Pair score 6.7.'
@@ -70,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God created everything by measure/decree (bi-qadar)
+kinds:
+- echo
+units:
+- id: hb-job-28-hymn-to-wisdom
+  title: The hymn to hidden wisdom
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: echo
+  label: God created everything by measure/decree (bi-qadar)
+  note: 'laʿăśôṯ lā-rûaḥ mišqāl û-mayim tikkēn ḇə-middâ vs. innā kulla shayʾin khalaqnāhu bi-qadar. Job:
+    wind and water given weight and measure at creation; Quran: everything, with qadar meaning both measure
+    and decree.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 28:25
+      lang: he
+      text: לַעֲשׂ֣וֹת לָר֣וּחַ מִשְׁקָ֑ל וּ֝מַ֗יִם תִּכֵּ֥ן בְּמִדָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 54:49
+      lang: ar
+      text: إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ
 ---
 
 ## Questions

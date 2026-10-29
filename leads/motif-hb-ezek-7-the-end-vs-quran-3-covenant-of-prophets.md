@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ezek-7-the-end-vs-quran-3-covenant-of-prophets
 title: The end has come upon the four corners of the land ↔ The covenant of the prophets and the apostates
-summary: 'These two units share 1 motifs: on the day of wrath people fling their silver into the streets;
-  silver and gold cannot save them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - silver-gold-thrown-in-streets
-passages:
-- tradition: judaism
-  ref: Ezek 7:19
-  note: On the day of wrath people fling their silver into the streets; silver and gold cannot save them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
-    יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
-    כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
-- tradition: islam
-  ref: Quran 3:91
-  note: 'On the day of wrath people fling their silver into the streets; silver and gold cannot save them
-    (Ezek 7:19 kaspām û-zĕhābām lōʾ yûkal lĕhaṣṣîlām bĕ-yôm ʿebrat YHWH: silver and gold cannot save on
-    the day of wrath; Q 3:91 milʾu l-arḍi dhahaban ... wa-mā lahum min nāṣirīn: an earthful of gold, and
-    no helpers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ ٱلْأَرْضِ
-    ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن نَّٰصِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ezek 7:19 kaspām û-zĕhābām lōʾ yûkal lĕhaṣṣîlām bĕ-yôm ʿebrat YHWH: silver and gold cannot save
-    on the day of wrath; Q 3:91 milʾu l-arḍi dhahaban ... wa-mā lahum min nāṣirīn: an earthful of gold,
-    and no helpers.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of wrath people fling their silver into the streets;
     silver and gold cannot save them (weight 6.3). Pair score 6.3.'
@@ -69,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day of wrath people fling their silver into the streets; silver and gold cannot save them
+kinds:
+- echo
+units:
+- id: hb-ezek-7-the-end
+  title: The end has come upon the four corners of the land
+  tradition: judaism
+- id: quran-3-covenant-of-prophets
+  title: The covenant of the prophets and the apostates
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day of wrath people fling their silver into the streets; silver and gold cannot save them
+  note: 'Ezek 7:19 kaspām û-zĕhābām lōʾ yûkal lĕhaṣṣîlām bĕ-yôm ʿebrat YHWH: silver and gold cannot save
+    on the day of wrath; Q 3:91 milʾu l-arḍi dhahaban ... wa-mā lahum min nāṣirīn: an earthful of gold,
+    and no helpers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 7:19
+      lang: he
+      text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
+        יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
+        כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:91
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمْ كُفَّارٌ فَلَن يُقْبَلَ مِنْ أَحَدِهِم مِّلْءُ
+        ٱلْأَرْضِ ذَهَبًا وَلَوِ ٱفْتَدَىٰ بِهِۦٓ أُو۟لَٰٓئِكَ لَهُمْ عَذَابٌ أَلِيمٌ وَمَا لَهُم مِّن
+        نَّٰصِرِينَ
 ---
 
 ## Questions

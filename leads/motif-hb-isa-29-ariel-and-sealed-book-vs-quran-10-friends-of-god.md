@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-10-friends-of-god
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Healing
   for hearts, the atom's weight, God has no son
-summary: 'These two units share 1 motifs: making some of god''s provision unlawful and some lawful on
-  your own authority is condemned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - self-made-food-prohibitions-condemned
-passages:
-- tradition: judaism
-  ref: Isa 29:13
-  note: 'Making some of God''s provision unlawful and some lawful on your own authority is condemned (Religious
-    rules made by men in place of God''s: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu adhina lakum
-    am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
-    וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
-- tradition: islam
-  ref: Quran 10:59
-  note: Making some of God's provision unlawful and some lawful on your own authority is condemned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا
-    قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
-- tradition: islam
-  ref: Quran 10:60
-  note: Making some of God's provision unlawful and some lawful on your own authority is condemned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا ظَنُّ ٱلَّذِينَ يَفْتَرُونَ عَلَى ٱللَّهِ ٱلْكَذِبَ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ لَذُو
-    فَضْلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Religious rules made by men in place of God''s: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu
-    adhina lakum am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Making some of God''s provision unlawful and some lawful on your
     own authority is condemned (weight 6.3). Pair score 6.3.'
@@ -76,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Making some of God's provision unlawful and some lawful on your own authority is condemned
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: echo
+  label: Making some of God's provision unlawful and some lawful on your own authority is condemned
+  note: 'Religious rules made by men in place of God''s: fa-jaʿaltum minhu ḥarāman wa-ḥalālan qul āllāhu
+    adhina lakum am ʿalā llāhi taftarūn vs wattᵉhî yirʾātām ʾōtî miṣwat ʾănāšîm mᵉlummādāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:13
+      lang: he
+      text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
+        וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:59
+      lang: ar
+      text: قُلْ أَرَءَيْتُم مَّآ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزْقٍ فَجَعَلْتُم مِّنْهُ حَرَامًا وَحَلَٰلًا
+        قُلْ ءَآللَّهُ أَذِنَ لَكُمْ أَمْ عَلَى ٱللَّهِ تَفْتَرُونَ
 ---
 
 ## Questions

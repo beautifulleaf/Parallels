@@ -2,9 +2,7 @@
 id: motif-hb-zech-4-lampstand-and-olive-trees-vs-quran-24-light-verse
 title: Fifth vision, the lampstand, the two olive trees and Zerubbabel ↔ The Light Verse; the mirage,
   the dark sea, the praising birds, hail and the creatures
-summary: 'These two units share 2 motifs: a lamp fed directly by an olive tree [divergence between the
-  texts], a golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through
-  golden pipes.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,78 +15,9 @@ layers:
 motifs:
 - lamp-fed-by-olive-tree-as-divergence
 - lampstand-fed-by-two-olive-trees
-passages:
-- tradition: judaism
-  ref: Zech 4:2
-  note: 'A lamp fed directly by an olive tree [divergence between the texts] (A lamp fed directly by an
-    olive tree, with oil that needs no human pressing or kindling. Zechariah: mənōrat zāhāv ... û-šənayim
-    zêtîm ʿālêhā ʾeḥād mîmîn hag-gullâ wə-ʾeḥād ʿal śəmōʾlāh, two olive trees, one on the right and one
-    on the left, pour golden oil. Quran: one blessed olive tree lā sharqiyyatin wa-lā gharbiyyatin, ''neither
-    of the east nor of the west'', whose oil almost glows though no fire touches it. Two trees on either
-    side become one tree of neither side.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י מָ֥ה אַתָּ֖ה רֹאֶ֑ה ויאמר וָאֹמַ֡ר רָאִ֣יתִי וְהִנֵּ֣ה מְנוֹרַת֩ זָהָ֨ב כֻּלָּ֜הּ
-    וְגֻלָּ֣הּ עַל רֹאשָׁ֗הּ וְשִׁבְעָ֤ה נֵרֹתֶ֨יהָ֙ עָלֶ֔יהָ שִׁבְעָ֤ה וְשִׁבְעָה֙ מֽוּצָק֔וֹת לַנֵּר֖וֹת
-    אֲשֶׁ֥ר עַל רֹאשָֽׁהּ
-- tradition: judaism
-  ref: Zech 4:3
-  note: 'A lamp fed directly by an olive tree [divergence between the texts] (A lamp fed directly by an
-    olive tree, with oil that needs no human pressing or kindling. Zechariah: mənōrat zāhāv ... û-šənayim
-    zêtîm ʿālêhā ʾeḥād mîmîn hag-gullâ wə-ʾeḥād ʿal śəmōʾlāh, two olive trees, one on the right and one
-    on the left, pour golden oil. Quran: one blessed olive tree lā sharqiyyatin wa-lā gharbiyyatin, ''neither
-    of the east nor of the west'', whose oil almost glows though no fire touches it. Two trees on either
-    side become one tree of neither side.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁנַ֥יִם זֵיתִ֖ים עָלֶ֑יהָ אֶחָד֙ מִימִ֣ין הַגֻּלָּ֔ה וְאֶחָ֖ד עַל שְׂמֹאלָֽהּ
-- tradition: islam
-  ref: Quran 24:35
-  note: 'A lamp fed directly by an olive tree [divergence between the texts] (A lamp fed directly by an
-    olive tree, with oil that needs no human pressing or kindling. Zechariah: mənōrat zāhāv ... û-šənayim
-    zêtîm ʿālêhā ʾeḥād mîmîn hag-gullâ wə-ʾeḥād ʿal śəmōʾlāh, two olive trees, one on the right and one
-    on the left, pour golden oil. Quran: one blessed olive tree lā sharqiyyatin wa-lā gharbiyyatin, ''neither
-    of the east nor of the west'', whose oil almost glows though no fire touches it. Two trees on either
-    side become one tree of neither side.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
-- tradition: judaism
-  ref: Zech 4:3
-  note: A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through
-    golden pipes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁנַ֥יִם זֵיתִ֖ים עָלֶ֑יהָ אֶחָד֙ מִימִ֣ין הַגֻּלָּ֔ה וְאֶחָ֖ד עַל שְׂמֹאלָֽהּ
-- tradition: judaism
-  ref: Zech 4:11
-  note: A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through
-    golden pipes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאַ֖עַן וָאֹמַ֣ר אֵלָ֑יו מַה שְּׁנֵ֤י הַזֵּיתִים֙ הָאֵ֔לֶה עַל יְמִ֥ין הַמְּנוֹרָ֖ה וְעַל שְׂמֹאולָֽהּ
-- tradition: islam
-  ref: Quran 24:35
-  note: 'A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through
-    golden pipes (Zech 4: the lamp fed directly by olive trees)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. A lamp fed directly by an olive tree, with oil that needs no human pressing or kindling.
-    Zechariah: mənōrat zāhāv ... û-šənayim zêtîm ʿālêhā ʾeḥād mîmîn hag-gullâ wə-ʾeḥād ʿal śəmōʾlāh, two
-    olive trees, one on the right and one on the left, pour golden oil. Quran: one blessed olive tree
-    lā sharqiyyatin wa-lā gharbiyyatin, ''neither of the east nor of the west'', whose oil almost glows
-    though no fire touches it. Two trees on either side become one tree of neither side.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A lamp fed directly by an olive tree [divergence between the texts]
     (weight 6.7); A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil
@@ -124,6 +53,76 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A lamp fed directly by an olive tree
+kinds:
+- divergence
+- shared
+units:
+- id: hb-zech-4-lampstand-and-olive-trees
+  title: Fifth vision, the lampstand, the two olive trees and Zerubbabel
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: divergence
+  label: A lamp fed directly by an olive tree
+  note: 'A lamp fed directly by an olive tree, with oil that needs no human pressing or kindling. Zechariah:
+    mənōrat zāhāv ... û-šənayim zêtîm ʿālêhā ʾeḥād mîmîn hag-gullâ wə-ʾeḥād ʿal śəmōʾlāh, two olive trees,
+    one on the right and one on the left, pour golden oil. Quran: one blessed olive tree lā sharqiyyatin
+    wa-lā gharbiyyatin, ''neither of the east nor of the west'', whose oil almost glows though no fire
+    touches it. Two trees on either side become one tree of neither side.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 4:2
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י מָ֥ה אַתָּ֖ה רֹאֶ֑ה ויאמר וָאֹמַ֡ר רָאִ֣יתִי וְהִנֵּ֣ה מְנוֹרַת֩ זָהָ֨ב
+        כֻּלָּ֜הּ וְגֻלָּ֣הּ עַל רֹאשָׁ֗הּ וְשִׁבְעָ֤ה נֵרֹתֶ֨יהָ֙ עָלֶ֔יהָ שִׁבְעָ֤ה וְשִׁבְעָה֙ מֽוּצָק֔וֹת
+        לַנֵּר֖וֹת אֲשֶׁ֥ר עַל רֹאשָֽׁהּ
+    - ref: Zech 4:3
+      lang: he
+      text: וּשְׁנַ֥יִם זֵיתִ֖ים עָלֶ֑יהָ אֶחָד֙ מִימִ֣ין הַגֻּלָּ֔ה וְאֶחָ֖ד עַל שְׂמֹאלָֽהּ
+    - ref: Zech 4:12
+      lang: he
+      text: וָאַ֣עַן שֵׁנִ֔ית וָאֹמַ֖ר אֵלָ֑יו מַה שְׁתֵּ֞י שִׁבֲּלֵ֣י הַזֵּיתִ֗ים אֲשֶׁר֙ בְּיַ֗ד שְׁנֵי֙
+        צַנְתְּר֣וֹת הַזָּהָ֔ב הַֽמְרִיקִ֥ים מֵעֲלֵיהֶ֖ם הַזָּהָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+- kind: shared
+  label: A golden lampstand with seven lamps is flanked by two olive trees that pour golden oil through
+    golden pipes
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 4:3
+      lang: he
+      text: וּשְׁנַ֥יִם זֵיתִ֖ים עָלֶ֑יהָ אֶחָד֙ מִימִ֣ין הַגֻּלָּ֔ה וְאֶחָ֖ד עַל שְׂמֹאלָֽהּ
+    - ref: Zech 4:11
+      lang: he
+      text: וָאַ֖עַן וָאֹמַ֣ר אֵלָ֑יו מַה שְּׁנֵ֤י הַזֵּיתִים֙ הָאֵ֔לֶה עַל יְמִ֥ין הַמְּנוֹרָ֖ה וְעַל
+        שְׂמֹאולָֽהּ
+    - ref: Zech 4:12
+      lang: he
+      text: וָאַ֣עַן שֵׁנִ֔ית וָאֹמַ֖ר אֵלָ֑יו מַה שְׁתֵּ֞י שִׁבֲּלֵ֣י הַזֵּיתִ֗ים אֲשֶׁר֙ בְּיַ֗ד שְׁנֵי֙
+        צַנְתְּר֣וֹת הַזָּהָ֔ב הַֽמְרִיקִ֥ים מֵעֲלֵיהֶ֖ם הַזָּהָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
+    note: 'Zech 4: the lamp fed directly by olive trees'
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-6-creation-rejecters
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Darkness and light, clay and two terms, and
   those who would not believe
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,25 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 6:2
-  note: First human shaped from dust, clay or soil (min ṭīn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ أَنتُمْ
-    تَمْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. From clay to the appointed end. Q: huwa lladhī khalaqakum min ṭīnin thumma qaḍā ajalan wa-ajalun
-    musamman ʿindahu. Job: zəkhor-nāʾ kî-kha-ḥōmer ʿăśîtānî wə-ʾel-ʿāfār təšîvēnî. Job pleads from it;
-    Q uses it against doubt (thumma antum tamtarūn).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -69,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-6-creation-rejecters
+  title: Darkness and light, clay and two terms, and those who would not believe
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'From clay to the appointed end. Q: huwa lladhī khalaqakum min ṭīnin thumma qaḍā ajalan wa-ajalun
+    musamman ʿindahu. Job: zəkhor-nāʾ kî-kha-ḥōmer ʿăśîtānî wə-ʾel-ʿāfār təšîvēnî. Job pleads from it;
+    Q uses it against doubt (thumma antum tamtarūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 6:2
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ
+        أَنتُمْ تَمْتَرُونَ
 ---
 
 ## Questions

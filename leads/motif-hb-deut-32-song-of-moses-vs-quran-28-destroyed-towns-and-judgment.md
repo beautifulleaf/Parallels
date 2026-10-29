@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-28-destroyed-towns-and-judgment
 title: The Song of Moses (Ha'azinu) ↔ Towns destroyed for ingratitude; 'Where are my partners?'; perpetual
   night and day
-summary: 'These two units share 1 motifs: god mocks: where are their gods who ate the fat of their sacrifices?
-  let them rise and help.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,47 +15,9 @@ layers:
 - motif
 motifs:
 - mocking-where-are-their-gods
-passages:
-- tradition: judaism
-  ref: Deut 32:37
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
-- tradition: judaism
-  ref: Deut 32:38
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י
-    עֲלֵיכֶ֖ם סִתְרָֽה
-- tradition: islam
-  ref: Quran 28:62
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (ayna
-    shurakāʾiya lladhīna kuntum tazʿumūna ... wa-qīla dʿū shurakāʾakum fa-daʿawhum fa-lam yastajībū lahum
-    ~ wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ... yāqûmû wə-yaʿzərukhem: God taunts ''where are their gods?''
-    and challenges the gods to rise and help. In Deut it is said in history against Israel''s idols, in
-    the Quran at the judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
-- tradition: islam
-  ref: Quran 28:64
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (ayna
-    shurakāʾiya lladhīna kuntum tazʿumūna ... wa-qīla dʿū shurakāʾakum fa-daʿawhum fa-lam yastajībū lahum
-    ~ wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ... yāqûmû wə-yaʿzərukhem: God taunts ''where are their gods?''
-    and challenges the gods to rise and help. In Deut it is said in history against Israel''s idols, in
-    the Quran at the judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ
-    لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. ayna shurakāʾiya lladhīna kuntum tazʿumūna ... wa-qīla dʿū shurakāʾakum fa-daʿawhum fa-lam
-    yastajībū lahum ~ wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ... yāqûmû wə-yaʿzərukhem: God taunts ''where
-    are their gods?'' and challenges the gods to rise and help. In Deut it is said in history against
-    Israel''s idols, in the Quran at the judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God mocks: where are their gods who ate the fat of their sacrifices?
     let them rise and help (weight 5.8). Pair score 5.8.'
@@ -90,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-28-destroyed-towns-and-judgment
+  title: Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night and day
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+  note: 'ayna shurakāʾiya lladhīna kuntum tazʿumūna ... wa-qīla dʿū shurakāʾakum fa-daʿawhum fa-lam yastajībū
+    lahum ~ wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ... yāqûmû wə-yaʿzərukhem: God taunts ''where are their
+    gods?'' and challenges the gods to rise and help. In Deut it is said in history against Israel''s
+    idols, in the Quran at the judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:37
+      lang: he
+      text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
+    - ref: Deut 32:38
+      lang: he
+      text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם
+        יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 28:62
+      lang: ar
+      text: وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
+    - ref: Quran 28:64
+      lang: ar
+      text: وَقِيلَ ٱدْعُوا۟ شُرَكَآءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا۟ لَهُمْ وَرَأَوُا۟ ٱلْعَذَابَ
+        لَوْ أَنَّهُمْ كَانُوا۟ يَهْتَدُونَ
+    - ref: Quran 28:74
+      lang: ar
+      text: وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
 ---
 
 ## Questions

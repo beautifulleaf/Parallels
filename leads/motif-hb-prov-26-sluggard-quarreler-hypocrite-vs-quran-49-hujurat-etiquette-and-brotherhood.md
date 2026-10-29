@@ -2,8 +2,7 @@
 id: motif-hb-prov-26-sluggard-quarreler-hypocrite-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Sayings on the sluggard, the meddler, the whisperer and the hypocrite ↔ Al-Hujurat: lowering voices,
   verifying reports, reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: the words of a whisperer are like delicious morsels that go
-  down into the inner chambers of the belly.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - gossip-like-delicacies-in-belly
-passages:
-- tradition: judaism
-  ref: Prov 26:22
-  note: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
-    belly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
-- tradition: islam
-  ref: Quran 49:12
-  note: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
-    belly (slander as eating)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Doublet of Prov 18:8: diḇrê nirgān kə-miṯlahămîm ... vs. an yaʾkula laḥma akhīhi maytan.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The words of a whisperer are like delicious morsels that go down
     into the inner chambers of the belly (weight 6.3). Pair score 6.3.'
@@ -74,6 +56,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
+  belly
+kinds:
+- echo
+units:
+- id: hb-prov-26-sluggard-quarreler-hypocrite
+  title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: The words of a whisperer are like delicious morsels that go down into the inner chambers of the
+    belly
+  note: 'Doublet of Prov 18:8: diḇrê nirgān kə-miṯlahămîm ... vs. an yaʾkula laḥma akhīhi maytan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 26:22
+      lang: he
+      text: דִּבְרֵ֣י נִ֭רְגָּן כְּמִֽתְלַהֲמִ֑ים וְ֝הֵ֗ם יָרְד֥וּ חַדְרֵי בָֽטֶן
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
 ---
 
 ## Questions

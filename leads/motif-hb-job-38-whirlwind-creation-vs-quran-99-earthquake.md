@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-99-earthquake
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   earthquake: the earth tells its news'
-summary: 'These two units share 1 motifs: at the end the earth is stretched out, casts out what is in
-  it (its burdens) and empties itself.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - earth-casts-out-its-contents
-passages:
-- tradition: judaism
-  ref: Job 38:13
-  note: 'At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-    (wa-akhrajati l-arḍu athqālahā ~ leʾĕḥōz be-kanfôt hā-ʾāreṣ we-yinnāʿărû rešāʿîm mimmennāh: the earth
-    shaken so that what is in it falls out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁעִ֣ים מִמֶּֽנָּה
-- tradition: islam
-  ref: Quran 99:2
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
-- tradition: islam
-  ref: Quran 99:1
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-akhrajati l-arḍu athqālahā ~ leʾĕḥōz be-kanfôt hā-ʾāreṣ we-yinnāʿărû rešāʿîm mimmennāh: the
-    earth shaken so that what is in it falls out.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the earth is stretched out, casts out what is in it (its
     burdens) and empties itself (weight 6.0). Pair score 6.0.'
@@ -69,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-99-earthquake
+  title: 'The earthquake: the earth tells its news'
+  tradition: islam
+matches:
+- kind: echo
+  label: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
+  note: 'wa-akhrajati l-arḍu athqālahā ~ leʾĕḥōz be-kanfôt hā-ʾāreṣ we-yinnāʿărû rešāʿîm mimmennāh: the
+    earth shaken so that what is in it falls out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:13
+      lang: he
+      text: לֶ֭אֱחֹז בְּכַנְפ֣וֹת הָאָ֑רֶץ וְיִנָּעֲר֖וּ רְשָׁעִ֣ים מִמֶּֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 99:1
+      lang: ar
+      text: إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا
+    - ref: Quran 99:2
+      lang: ar
+      text: وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-19-heavens-and-torah-vs-quran-17-polemic-and-resurrection
 title: Psalm 19 - the heavens declare; the Torah is perfect ↔ Daughters of God, all things glorify him,
   bones and dust, the cursed tree (Surah 17:40-60)
-summary: 'These two units share 1 motifs: the seven heavens, the earth and everything in them glorify
-  god, though humans do not understand their praise.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - all-creation-glorifies-god
-passages:
-- tradition: judaism
-  ref: Ps 19:2
-  note: 'The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (haššāmayim məsappərîm kəbôd-ʾēl ... ʾên ʾōmer wəʾên dəbārîm bəlî nišmāʿ qôlām; tusabbiḥu
-    lahu s-samāwātu ... wa-lākin lā tafqahūna tasbīḥahum: the heavens praise God in a speech humans cannot
-    hear. Ps says their voice goes out through all the earth anyway (bəkol-hāʾāreṣ yāṣāʾ qawwām); Q says
-    people do not understand it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד אֵ֑ל וּֽמַעֲשֵׂ֥ה יָ֝דָ֗יו מַגִּ֥יד הָרָקִֽיעַ
-- tradition: judaism
-  ref: Ps 19:3
-  note: 'The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (haššāmayim məsappərîm kəbôd-ʾēl ... ʾên ʾōmer wəʾên dəbārîm bəlî nišmāʿ qôlām; tusabbiḥu
-    lahu s-samāwātu ... wa-lākin lā tafqahūna tasbīḥahum: the heavens praise God in a speech humans cannot
-    hear. Ps says their voice goes out through all the earth anyway (bəkol-hāʾāreṣ yāṣāʾ qawwām); Q says
-    people do not understand it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: י֣וֹם לְ֭יוֹם יַבִּ֣יעַֽ אֹ֑מֶר וְלַ֥יְלָה לְּ֝לַ֗יְלָה יְחַוֶּה דָּֽעַת
-- tradition: islam
-  ref: Quran 17:44
-  note: The seven heavens, the earth and everything in them glorify God, though humans do not understand
-    their praise (there is nothing but glorifies his praise, though you do not understand their glorification)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ
-    بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. haššāmayim məsappərîm kəbôd-ʾēl ... ʾên ʾōmer wəʾên dəbārîm bəlî nišmāʿ qôlām; tusabbiḥu
-    lahu s-samāwātu ... wa-lākin lā tafqahūna tasbīḥahum: the heavens praise God in a speech humans cannot
-    hear. Ps says their voice goes out through all the earth anyway (bəkol-hāʾāreṣ yāṣāʾ qawwām); Q says
-    people do not understand it.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seven heavens, the earth and everything in them glorify God,
     though humans do not understand their praise (weight 6.3). Pair score 6.3.'
@@ -85,6 +52,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The seven heavens, the earth and everything in them glorify God, though humans do not understand
+  their praise
+kinds:
+- parallel
+units:
+- id: hb-ps-19-heavens-and-torah
+  title: Psalm 19 - the heavens declare; the Torah is perfect
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The seven heavens, the earth and everything in them glorify God, though humans do not understand
+    their praise
+  note: 'haššāmayim məsappərîm kəbôd-ʾēl ... ʾên ʾōmer wəʾên dəbārîm bəlî nišmāʿ qôlām; tusabbiḥu lahu
+    s-samāwātu ... wa-lākin lā tafqahūna tasbīḥahum: the heavens praise God in a speech humans cannot
+    hear. Ps says their voice goes out through all the earth anyway (bəkol-hāʾāreṣ yāṣāʾ qawwām); Q says
+    people do not understand it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 19:2
+      lang: he
+      text: הַשָּׁמַ֗יִם מְֽסַפְּרִ֥ים כְּבֽוֹד אֵ֑ל וּֽמַעֲשֵׂ֥ה יָ֝דָ֗יו מַגִּ֥יד הָרָקִֽיעַ
+    - ref: Ps 19:3
+      lang: he
+      text: י֣וֹם לְ֭יוֹם יַבִּ֣יעַֽ אֹ֑מֶר וְלַ֥יְלָה לְּ֝לַ֗יְלָה יְחַוֶּה דָּֽעַת
+    - ref: Ps 19:4
+      lang: he
+      text: אֵֽין אֹ֭מֶר וְאֵ֣ין דְּבָרִ֑ים בְּ֝לִ֗י נִשְׁמָ֥ע קוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:44
+      lang: ar
+      text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا
+        يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
 ---
 
 ## Questions

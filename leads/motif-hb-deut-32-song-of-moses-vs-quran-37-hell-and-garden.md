@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-37-hell-and-garden
 title: The Song of Moses (Ha'azinu) ↔ The damned questioned; the blessed on facing couches; the tree of
   Zaqqum
-summary: 'These two units share 1 motifs: the tree of zaqqum grows from the bottom of hell; its spathes
-  are like the heads of devils; the damned fill their bellies and drink boiling water.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - tree-of-zaqqum
-passages:
-- tradition: judaism
-  ref: Deut 32:32
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
-    מְרֹרֹ֖ת לָֽמוֹ
-- tradition: judaism
-  ref: Deut 32:33
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
-- tradition: islam
-  ref: Quran 37:62
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَذَٰلِكَ خَيْرٌ نُّزُلًا أَمْ شَجَرَةُ ٱلزَّقُّومِ
-- tradition: islam
-  ref: Quran 37:63
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا جَعَلْنَٰهَا فِتْنَةً لِّلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār
-    vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu ruʾūsu sh-shayāṭīn: a plant of the realm
-    of destruction whose fruit is poison. Grapes of gall with the head (rōʾš) of vipers in Deut; spathes
-    like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay is a lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
     like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8). Pair
@@ -94,6 +52,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+  damned fill their bellies and drink boiling water
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: echo
+  label: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  note: 'kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār
+    vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu ruʾūsu sh-shayāṭīn: a plant of the realm
+    of destruction whose fruit is poison. Grapes of gall with the head (rōʾš) of vipers in Deut; spathes
+    like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay is a lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:32
+      lang: he
+      text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
+        מְרֹרֹ֖ת לָֽמוֹ
+    - ref: Deut 32:33
+      lang: he
+      text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 37:64
+      lang: ar
+      text: إِنَّهَا شَجَرَةٌ تَخْرُجُ فِىٓ أَصْلِ ٱلْجَحِيمِ
+    - ref: Quran 37:65
+      lang: ar
+      text: طَلْعُهَا كَأَنَّهُۥ رُءُوسُ ٱلشَّيَٰطِينِ
 ---
 
 ## Questions

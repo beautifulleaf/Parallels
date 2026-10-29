@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-30-signs
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The Hour, the times of praise,
   and the signs of God
-summary: 'These two units share 2 motifs: at night the beasts of the forest prowl and lions roar for prey;
-  at sunrise they withdraw and man goes out to work till evening, rain from the sky gives life to the
-  earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,60 +15,9 @@ layers:
 motifs:
 - night-beasts-day-workers
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:20-23
-  note: At night the beasts of the forest prowl and lions roar for prey; at sunrise they withdraw and
-    man goes out to work till evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (104:20) תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר (104:21) הַ֭כְּפִירִים
-    שֹׁאֲגִ֣ים לַטָּ֑רֶף וּלְבַקֵּ֖שׁ מֵאֵ֣ל אָכְלָֽם (104:22) תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל
-    מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן (104:23) יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
-- tradition: judaism
-  ref: Ps 104:22
-  note: At night the beasts of the forest prowl and lions roar for prey; at sunrise they withdraw and
-    man goes out to work till evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן
-- tradition: islam
-  ref: Quran 30:23
-  note: 'At night the beasts of the forest prowl and lions roar for prey; at sunrise they withdraw and
-    man goes out to work till evening (wa-min āyātihi manāmukum bi-l-layli wa-n-nahāri wa-btighāʾukum
-    min faḍlihi vs. yēṣēʾ ʾāḏām lə-p̄āʿŏlô wə-la-ʿăḇōḏāṯô ʿăḏê-ʿāreḇ: rest and work in the rhythm of night
-    and day as God''s ordering.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ فِى
-    ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 30:19
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ
-    مَوْتِهَا وَكَذَٰلِكَ تُخْرَجُونَ
-- tradition: islam
-  ref: Quran 30:24
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-min āyātihi manāmukum bi-l-layli wa-n-nahāri wa-btighāʾukum min faḍlihi vs. yēṣēʾ ʾāḏām lə-p̄āʿŏlô
-    wə-la-ʿăḇōḏāṯô ʿăḏê-ʿāreḇ: rest and work in the rhythm of night and day as God''s ordering.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At night the beasts of the forest prowl and lions roar for prey;
     at sunrise they withdraw and man goes out to work till evening (weight 6.7); Rain from the sky gives
@@ -106,6 +53,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At night the beasts of the forest prowl and lions roar for prey; at sunrise they withdraw and
+  man goes out to work till evening
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: At night the beasts of the forest prowl and lions roar for prey; at sunrise they withdraw and
+    man goes out to work till evening
+  note: 'wa-min āyātihi manāmukum bi-l-layli wa-n-nahāri wa-btighāʾukum min faḍlihi vs. yēṣēʾ ʾāḏām lə-p̄āʿŏlô
+    wə-la-ʿăḇōḏāṯô ʿăḏê-ʿāreḇ: rest and work in the rhythm of night and day as God''s ordering.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:22
+      lang: he
+      text: תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 30:23
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ إِنَّ
+        فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 30:19
+      lang: ar
+      text: يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ
+        مَوْتِهَا وَكَذَٰلِكَ تُخْرَجُونَ
+    - ref: Quran 30:24
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً
+        فَيُحْىِۦ بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

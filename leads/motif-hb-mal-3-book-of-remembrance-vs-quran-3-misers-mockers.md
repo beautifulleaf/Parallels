@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-3-misers-mockers
 title: The book of remembrance and the sun of righteousness ↔ Misers, those who called God poor, and the
   fire-consumed offering
-summary: 'These two units share 1 motifs: god will not leave believers as they are until he separates
-  the bad from the good.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - god-separates-bad-from-good
-passages:
-- tradition: judaism
-  ref: Mal 3:18
-  note: 'God will not leave believers as they are until he separates the bad from the good (Mal 3:18 wĕ-šabtem
-    û-rĕʾîtem bên ṣaddîq lĕ-rāšāʿ bên ʿōbēd ʾĕlōhîm la-ʾăšer lōʾ ʿăbādô; Q 3:179 mā kāna llāhu li-yadhara
-    l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina ṭ-ṭayyib: God will separate the bad
-    from the good. In Malachi on the coming day; in the Quran through present trials.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א עֲבָדֽוֹ
-- tradition: islam
-  ref: Quran 3:179
-  note: God will not leave believers as they are until he separates the bad from the good
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ
-    مِنَ ٱلطَّيِّبِ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى مِن
-    رُّسُلِهِۦ مَن يَشَآءُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟ فَلَكُمْ
-    أَجْرٌ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Mal 3:18 wĕ-šabtem û-rĕʾîtem bên ṣaddîq lĕ-rāšāʿ bên ʿōbēd ʾĕlōhîm la-ʾăšer lōʾ ʿăbādô; Q 3:179
-    mā kāna llāhu li-yadhara l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina ṭ-ṭayyib:
-    God will separate the bad from the good. In Malachi on the coming day; in the Quran through present
-    trials.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will not leave believers as they are until he separates the
     bad from the good (weight 6.7). Pair score 6.7.'
@@ -77,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will not leave believers as they are until he separates the bad from the good
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: echo
+  label: God will not leave believers as they are until he separates the bad from the good
+  note: 'Mal 3:18 wĕ-šabtem û-rĕʾîtem bên ṣaddîq lĕ-rāšāʿ bên ʿōbēd ʾĕlōhîm la-ʾăšer lōʾ ʿăbādô; Q 3:179
+    mā kāna llāhu li-yadhara l-muʾminīna ʿalā mā antum ʿalayhi ḥattā yamīza l-khabītha mina ṭ-ṭayyib:
+    God will separate the bad from the good. In Malachi on the coming day; in the Quran through present
+    trials.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:18
+      lang: he
+      text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א
+        עֲבָדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:179
+      lang: ar
+      text: مَّا كَانَ ٱللَّهُ لِيَذَرَ ٱلْمُؤْمِنِينَ عَلَىٰ مَآ أَنتُمْ عَلَيْهِ حَتَّىٰ يَمِيزَ ٱلْخَبِيثَ
+        مِنَ ٱلطَّيِّبِ وَمَا كَانَ ٱللَّهُ لِيُطْلِعَكُمْ عَلَى ٱلْغَيْبِ وَلَٰكِنَّ ٱللَّهَ يَجْتَبِى
+        مِن رُّسُلِهِۦ مَن يَشَآءُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَإِن تُؤْمِنُوا۟ وَتَتَّقُوا۟
+        فَلَكُمْ أَجْرٌ عَظِيمٌ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-19-elijah-horeb-vs-quran-3-misers-mockers
 title: Elijah flees to Horeb; the still small voice ↔ Misers, those who called God poor, and the fire-consumed
   offering
-summary: 'These two units share 1 motifs: israel killed the prophets who warned them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-killed-by-israel
-passages:
-- tradition: judaism
-  ref: 1Kgs 19:10
-  note: 'Israel killed the prophets who warned them (1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet
-    nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû ʾet napšî: right after the fire on Carmel, Elijah complains
-    that Israel killed the prophets and seek his life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum
-    fa-li-ma qataltumūhum: prophets came with the fire sign and you killed them. Kings gives the narrative
-    sequence the Quran''s retort assumes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהוָ֣ה אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל
-    אֶת מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָֽאִוָּתֵ֤ר אֲנִי֙ לְבַדִּ֔י וַיְבַקְשׁ֥וּ
-    אֶת נַפְשִׁ֖י לְקַחְתָּֽהּ
-- tradition: islam
-  ref: Quran 3:181
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
-    سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
-- tradition: islam
-  ref: Quran 3:183
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû
-    ʾet napšî: right after the fire on Carmel, Elijah complains that Israel killed the prophets and seek
-    his life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum fa-li-ma qataltumūhum: prophets came
-    with the fire sign and you killed them. Kings gives the narrative sequence the Quran''s retort assumes.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
     5.1.'
@@ -83,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel killed the prophets who warned them
+kinds:
+- echo
+units:
+- id: hb-1kgs-19-elijah-horeb
+  title: Elijah flees to Horeb; the still small voice
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: echo
+  label: Israel killed the prophets who warned them
+  note: '1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû ʾet
+    napšî: right after the fire on Carmel, Elijah complains that Israel killed the prophets and seek his
+    life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum fa-li-ma qataltumūhum: prophets came with
+    the fire sign and you killed them. Kings gives the narrative sequence the Quran''s retort assumes.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:10
+      lang: he
+      text: וַיֹּאמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהוָ֣ה אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י
+        יִשְׂרָאֵ֔ל אֶת מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָֽאִוָּתֵ֤ר אֲנִי֙
+        לְבַדִּ֔י וַיְבַקְשׁ֥וּ אֶת נַפְשִׁ֖י לְקַחְתָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

@@ -2,10 +2,7 @@
 id: motif-hb-ezek-38-gog-invasion-vs-quran-18-dhul-qarnayn
 title: Gog of Magog invades the land dwelling at the navel of the earth ↔ Dhul-Qarnayn, the setting and
   rising sun, and the barrier against Gog and Magog (Surah 18:83-101)
-summary: 'These two units share 3 motifs: gog of the land of magog, chief prince (nesi rosh) of meshech
-  and tubal, an eschatological invader [divergence between the texts], gog and magog are let loose and
-  swarm down from every height before the end [divergence between the texts], gog of the land of magog,
-  chief prince (nesi rosh) of meshech and tubal, an eschatological invader.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -19,116 +16,9 @@ motifs:
 - gog-of-magog-chief-prince-as-divergence
 - gog-magog-released-at-end-as-divergence
 - gog-of-magog-chief-prince
-passages:
-- tradition: judaism
-  ref: Ezek 38:2
-  note: 'Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    [divergence between the texts] (Ezek: one person, gôg ʾereṣ hammāgôg nəśîʾ rōʾš mešek wətubāl, Gog
-    the prince of the land of Magog. Q: two peoples named as a rhyming pair, inna Yaʾjūja wa-Maʾjūja mufsidūna
-    fī l-arḍ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֗ם שִׂ֤ים פָּנֶ֨יךָ֙ אֶל גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א
-    עָלָֽיו
-- tradition: judaism
-  ref: Ezek 38:3
-  note: 'Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    [divergence between the texts] (Ezek: one person, gôg ʾereṣ hammāgôg nəśîʾ rōʾš mešek wətubāl, Gog
-    the prince of the land of Magog. Q: two peoples named as a rhyming pair, inna Yaʾjūja wa-Maʾjūja mufsidūna
-    fī l-arḍ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ
-    וְתֻבָֽל
-- tradition: islam
-  ref: Quran 18:94
-  note: 'Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    [divergence between the texts] (Ezek: one person, gôg ʾereṣ hammāgôg nəśîʾ rōʾš mešek wətubāl, Gog
-    the prince of the land of Magog. Q: two peoples named as a rhyming pair, inna Yaʾjūja wa-Maʾjūja mufsidūna
-    fī l-arḍ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ
-    لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا
-- tradition: judaism
-  ref: Ezek 38:4
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Both put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī)
-    with hordes like a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs
-    is what holds them: Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm
-    bilḥāyêkā wəhôṣēʾtî ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels
-    it, jaʿalahu dakkāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשׁ֣וֹבַבְתִּ֔יךָ וְנָתַתִּ֥י חַחִ֖ים בִּלְחָיֶ֑יךָ וְהוֹצֵאתִי֩ אוֹתְךָ֨ וְאֶת כָּל חֵילֶ֜ךָ
-    סוּסִ֣ים וּפָרָשִׁ֗ים לְבֻשֵׁ֤י מִכְלוֹל֙ כֻּלָּ֔ם קָהָ֥ל רָב֙ צִנָּ֣ה וּמָגֵ֔ן תֹּפְשֵׂ֥י חֲרָב֖וֹת
-    כֻּלָּֽם
-- tradition: judaism
-  ref: Ezek 38:15
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Both put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī)
-    with hordes like a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs
-    is what holds them: Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm
-    bilḥāyêkā wəhôṣēʾtî ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels
-    it, jaʿalahu dakkāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֤אתָ מִמְּקֽוֹמְךָ֙ מִיַּרְכְּתֵ֣י צָפ֔וֹן אַתָּ֕ה וְעַמִּ֥ים רַבִּ֖ים אִתָּ֑ךְ רֹכְבֵ֤י סוּסִים֙
-    כֻּלָּ֔ם קָהָ֥ל גָּד֖וֹל וְחַ֥יִל רָֽב
-- tradition: islam
-  ref: Quran 18:98
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Both put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī)
-    with hordes like a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs
-    is what holds them: Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm
-    bilḥāyêkā wəhôṣēʾtî ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels
-    it, jaʿalahu dakkāʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَٰذَا رَحْمَةٌ مِّن رَّبِّى فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ وَكَانَ وَعْدُ
-    رَبِّى حَقًّا
-- tradition: islam
-  ref: Quran 18:99
-  note: 'Gog and Magog are let loose and swarm down from every height before the end [divergence between
-    the texts] (Both put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī)
-    with hordes like a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs
-    is what holds them: Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm
-    bilḥāyêkā wəhôṣēʾtî ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels
-    it, jaʿalahu dakkāʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَٰهُمْ جَمْعًا
-- tradition: judaism
-  ref: Ezek 38:2
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    (LXX reads rosh as a people name 'Ros')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֗ם שִׂ֤ים פָּנֶ֨יךָ֙ אֶל גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל וְהִנָּבֵ֖א
-    עָלָֽיו
-- tradition: judaism
-  ref: Ezek 38:3
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-    (LXX reads rosh as a people name 'Ros')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ
-    וְתֻבָֽל
-- tradition: islam
-  ref: Quran 18:94
-  note: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ نَجْعَلُ
-    لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Ezek: one person, gôg ʾereṣ hammāgôg nəśîʾ rōʾš mešek wətubāl, Gog the prince of the land
-    of Magog. Q: two peoples named as a rhyming pair, inna Yaʾjūja wa-Maʾjūja mufsidūna fī l-arḍ. Both
-    put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī) with hordes like
-    a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs is what holds them:
-    Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm bilḥāyêkā wəhôṣēʾtî
-    ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels it, jaʿalahu dakkāʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and
     Tubal, an eschatological invader [divergence between the texts] (weight 6.7); Gog and Magog are let
@@ -170,6 +60,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
+kinds:
+- divergence
+units:
+- id: hb-ezek-38-gog-invasion
+  title: Gog of Magog invades the land dwelling at the navel of the earth
+  tradition: judaism
+- id: quran-18-dhul-qarnayn
+  title: Dhul-Qarnayn, the setting and rising sun, and the barrier against Gog and Magog (Surah 18:83-101)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Gog of the land of Magog, chief prince (nesi rosh) of Meshech and Tubal, an eschatological invader
+  note: 'Ezek: one person, gôg ʾereṣ hammāgôg nəśîʾ rōʾš mešek wətubāl, Gog the prince of the land of
+    Magog. Q: two peoples named as a rhyming pair, inna Yaʾjūja wa-Maʾjūja mufsidūna fī l-arḍ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 38:2
+      lang: he
+      text: בֶּן אָדָ֗ם שִׂ֤ים פָּנֶ֨יךָ֙ אֶל גּוֹג֙ אֶ֣רֶץ הַמָּג֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֣שֶׁךְ וְתֻבָ֑ל
+        וְהִנָּבֵ֖א עָלָֽיו
+    - ref: Ezek 38:3
+      lang: he
+      text: וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י אֵלֶ֨יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ
+        וְתֻבָֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 18:94
+      lang: ar
+      text: قَالُوا۟ يَٰذَا ٱلْقَرْنَيْنِ إِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِى ٱلْأَرْضِ فَهَلْ
+        نَجْعَلُ لَكَ خَرْجًا عَلَىٰٓ أَن تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا
+- kind: divergence
+  label: Gog and Magog are let loose and swarm down from every height before the end
+  note: 'Both put Gog''s onslaught at the end time (bəʾaḥărît hayyāmîm; fa-idhā jāʾa waʿdu rabbī) with
+    hordes like a cloud or waves (keʿānān ləkassôt hāʾāreṣ; yamūju baʿḍuhum fī baʿḍ). What differs is
+    what holds them: Ezek has God hooking and drawing Gog out himself, wəšôbabtîkā wənātattî ḥaḥîm bilḥāyêkā
+    wəhôṣēʾtî ʾôtəkā. Q has a human ruler''s iron barrier keep them shut in until God levels it, jaʿalahu
+    dakkāʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 38:4
+      lang: he
+      text: וְשׁ֣וֹבַבְתִּ֔יךָ וְנָתַתִּ֥י חַחִ֖ים בִּלְחָיֶ֑יךָ וְהוֹצֵאתִי֩ אוֹתְךָ֨ וְאֶת כָּל חֵילֶ֜ךָ
+        סוּסִ֣ים וּפָרָשִׁ֗ים לְבֻשֵׁ֤י מִכְלוֹל֙ כֻּלָּ֔ם קָהָ֥ל רָב֙ צִנָּ֣ה וּמָגֵ֔ן תֹּפְשֵׂ֥י חֲרָב֖וֹת
+        כֻּלָּֽם
+    - ref: Ezek 38:15
+      lang: he
+      text: וּבָ֤אתָ מִמְּקֽוֹמְךָ֙ מִיַּרְכְּתֵ֣י צָפ֔וֹן אַתָּ֕ה וְעַמִּ֥ים רַבִּ֖ים אִתָּ֑ךְ רֹכְבֵ֤י
+        סוּסִים֙ כֻּלָּ֔ם קָהָ֥ל גָּד֖וֹל וְחַ֥יִל רָֽב
+    - ref: Ezek 38:16
+      lang: he
+      text: וְעָלִ֨יתָ֙ עַל עַמִּ֣י יִשְׂרָאֵ֔ל כֶּֽעָנָ֖ן לְכַסּ֣וֹת הָאָ֑רֶץ בְּאַחֲרִ֨ית הַיָּמִ֜ים
+        תִּֽהְיֶ֗ה וַהֲבִאוֹתִ֨יךָ֙ עַל אַרְצִ֔י לְמַעַן֩ דַּ֨עַת הַגּוֹיִ֜ם אֹתִ֗י בְּהִקָּדְשִׁ֥י בְךָ֛
+        לְעֵינֵיהֶ֖ם גּֽוֹג
+  - tradition: islam
+    passages:
+    - ref: Quran 18:98
+      lang: ar
+      text: قَالَ هَٰذَا رَحْمَةٌ مِّن رَّبِّى فَإِذَا جَآءَ وَعْدُ رَبِّى جَعَلَهُۥ دَكَّآءَ وَكَانَ
+        وَعْدُ رَبِّى حَقًّا
+    - ref: Quran 18:99
+      lang: ar
+      text: وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ فِى بَعْضٍ وَنُفِخَ فِى ٱلصُّورِ فَجَمَعْنَٰهُمْ
+        جَمْعًا
 ---
 
 ## Questions

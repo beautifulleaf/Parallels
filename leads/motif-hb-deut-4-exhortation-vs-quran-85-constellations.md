@@ -2,8 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-85-constellations
 title: 'Exhortation at Horeb''s memory; no image; exile and return ↔ The constellations: the people of
   the ditch and the preserved tablet'
-summary: 'These two units share 1 motifs: the scripture is a glorious recitation inscribed on a preserved
-  tablet (lawh mahfuz) in heaven [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-preserved-tablet-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 4:13
-  note: 'The scripture is a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven
-    [divergence between the texts] (bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê
-    luḥôt ʾăvānîm: scripture on tablets (lawḥ ~ lûaḥ). In Deuteronomy God''s writing on stone tablets
-    given to Israel at Horeb; in the Quran a single tablet kept in heaven.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּגֵּ֨ד לָכֶ֜ם אֶת בְּרִית֗וֹ אֲשֶׁ֨ר צִוָּ֤ה אֶתְכֶם֙ לַעֲשׂ֔וֹת עֲשֶׂ֖רֶת הַדְּבָרִ֑ים וַֽיִּכְתְּבֵ֔ם
-    עַל שְׁנֵ֖י לֻח֥וֹת אֲבָנִֽים
-- tradition: islam
-  ref: Quran 85:21
-  note: 'The scripture is a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven
-    [divergence between the texts] (bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê
-    luḥôt ʾăvānîm: scripture on tablets (lawḥ ~ lûaḥ). In Deuteronomy God''s writing on stone tablets
-    given to Israel at Horeb; in the Quran a single tablet kept in heaven.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ
-- tradition: islam
-  ref: Quran 85:22
-  note: 'The scripture is a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven
-    [divergence between the texts] (bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê
-    luḥôt ʾăvānîm: scripture on tablets (lawḥ ~ lûaḥ). In Deuteronomy God''s writing on stone tablets
-    given to Israel at Horeb; in the Quran a single tablet kept in heaven.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِى لَوْحٍ مَّحْفُوظٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê luḥôt ʾăvānîm: scripture
-    on tablets (lawḥ ~ lûaḥ). In Deuteronomy God''s writing on stone tablets given to Israel at Horeb;
-    in the Quran a single tablet kept in heaven.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The scripture is a glorious recitation inscribed on a preserved
     tablet (lawh mahfuz) in heaven [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -82,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The scripture is a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven
+kinds:
+- divergence
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-85-constellations
+  title: 'The constellations: the people of the ditch and the preserved tablet'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The scripture is a glorious recitation inscribed on a preserved tablet (lawh mahfuz) in heaven
+  note: 'bal huwa qurʾānun majīdun fī lawḥin maḥfūẓ ~ wa-yyiktevēm ʿal šenê luḥôt ʾăvānîm: scripture on
+    tablets (lawḥ ~ lûaḥ). In Deuteronomy God''s writing on stone tablets given to Israel at Horeb; in
+    the Quran a single tablet kept in heaven.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:13
+      lang: he
+      text: וַיַּגֵּ֨ד לָכֶ֜ם אֶת בְּרִית֗וֹ אֲשֶׁ֨ר צִוָּ֤ה אֶתְכֶם֙ לַעֲשׂ֔וֹת עֲשֶׂ֖רֶת הַדְּבָרִ֑ים
+        וַֽיִּכְתְּבֵ֔ם עַל שְׁנֵ֖י לֻח֥וֹת אֲבָנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 85:21
+      lang: ar
+      text: بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ
+    - ref: Quran 85:22
+      lang: ar
+      text: فِى لَوْحٍ مَّحْفُوظٍۭ
 ---
 
 ## Questions

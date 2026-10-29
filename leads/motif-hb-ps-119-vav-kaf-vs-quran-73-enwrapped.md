@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-119-vav-kaf-vs-quran-73-enwrapped
 title: 'Psalm 119, stanzas vav to kaf ↔ The enwrapped one: the night vigil'
-summary: 'These two units share 1 motifs: speaker rises at midnight to give thanks to god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - rise-at-midnight-to-praise
-passages:
-- tradition: judaism
-  ref: Ps 119:62
-  note: Speaker rises at midnight to give thanks to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
-- tradition: islam
-  ref: Quran 73:2
-  note: Speaker rises at midnight to give thanks to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا
-- tradition: islam
-  ref: Quran 73:6
-  note: Speaker rises at midnight to give thanks to God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. qumi l-layla illā qalīlan, niṣfahu ... inna nāshiʾata l-layli hiya ashaddu waṭʾan ~ ḥăṣôt
-    laylāh ʾāqûm lehôdôt lāk: rising at night, at its half, for praise. The Quran turns the Psalmist''s
-    devotion into a measured duty, later lightened (73:20 fa-qraʾū mā tayassara).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
     score 6.0.'
@@ -73,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker rises at midnight to give thanks to God
+kinds:
+- parallel
+units:
+- id: hb-ps-119-vav-kaf
+  title: Psalm 119, stanzas vav to kaf
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Speaker rises at midnight to give thanks to God
+  note: 'qumi l-layla illā qalīlan, niṣfahu ... inna nāshiʾata l-layli hiya ashaddu waṭʾan ~ ḥăṣôt laylāh
+    ʾāqûm lehôdôt lāk: rising at night, at its half, for praise. The Quran turns the Psalmist''s devotion
+    into a measured duty, later lightened (73:20 fa-qraʾū mā tayassara).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:62
+      lang: he
+      text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 73:2
+      lang: ar
+      text: قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا
+    - ref: Quran 73:3
+      lang: ar
+      text: نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا
+    - ref: Quran 73:6
+      lang: ar
+      text: إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا
 ---
 
 ## Questions

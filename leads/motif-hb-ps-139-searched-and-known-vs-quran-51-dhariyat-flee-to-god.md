@@ -2,7 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-51-dhariyat-flee-to-god
 title: Psalm 139, God's all-knowing presence and the embryo ↔ The sky expanding, all things in pairs,
   'flee to God', and jinn and humans created to worship
-summary: 'These two units share 1 motifs: fleeing from god, or to god [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - fleeing-from-or-to-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 139:7
-  note: 'Fleeing from God, or to God [divergence between the texts] (Fleeing and God. Psalm: ʾānâ ʾēlēḵ
-    mē-rûḥeḵā wə-ʾānâ mip-pāneyḵā ʾeḇrāḥ (where could I flee from your presence?): no escape from God.
-    Quran: fa-firrū ilā llāhi innī lakum minhu nadhīrun mubīn: flee to God, as the only refuge. The psalm''s
-    flight ''from'' becomes a flight ''to''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
-- tradition: islam
-  ref: Quran 51:50
-  note: 'Fleeing from God, or to God [divergence between the texts] (Fleeing and God. Psalm: ʾānâ ʾēlēḵ
-    mē-rûḥeḵā wə-ʾānâ mip-pāneyḵā ʾeḇrāḥ (where could I flee from your presence?): no escape from God.
-    Quran: fa-firrū ilā llāhi innī lakum minhu nadhīrun mubīn: flee to God, as the only refuge. The psalm''s
-    flight ''from'' becomes a flight ''to''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Fleeing and God. Psalm: ʾānâ ʾēlēḵ mē-rûḥeḵā wə-ʾānâ mip-pāneyḵā ʾeḇrāḥ (where could I
-    flee from your presence?): no escape from God. Quran: fa-firrū ilā llāhi innī lakum minhu nadhīrun
-    mubīn: flee to God, as the only refuge. The psalm''s flight ''from'' becomes a flight ''to''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fleeing from God, or to God [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -74,6 +53,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fleeing from God, or to God
+kinds:
+- divergence
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: divergence
+  label: Fleeing from God, or to God
+  note: 'Fleeing and God. Psalm: ʾānâ ʾēlēḵ mē-rûḥeḵā wə-ʾānâ mip-pāneyḵā ʾeḇrāḥ (where could I flee from
+    your presence?): no escape from God. Quran: fa-firrū ilā llāhi innī lakum minhu nadhīrun mubīn: flee
+    to God, as the only refuge. The psalm''s flight ''from'' becomes a flight ''to''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:7
+      lang: he
+      text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 51:50
+      lang: ar
+      text: فَفِرُّوٓا۟ إِلَى ٱللَّهِ إِنِّى لَكُم مِّنْهُ نَذِيرٌ مُّبِينٌ
 ---
 
 ## Questions

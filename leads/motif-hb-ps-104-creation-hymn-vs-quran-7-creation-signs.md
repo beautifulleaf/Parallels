@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-7-creation-signs
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Six days, the Throne, winds
   and rain as proof of resurrection
-summary: 'These two units share 4 motifs: god makes the night cover the day, god sends the winds as heralds
-  before his mercy and sends down pure water from the sky, sun and moon are set to rule day and night
-  and mark signs and seasons, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,97 +18,9 @@ motifs:
 - winds-herald-mercy-pure-water
 - luminaries-rule-day-night
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:20
-  note: 'God makes the night cover the day (yughshī l-layla n-nahār; tāšet-ḥōšek wîhî lāylâ: God brings
-    the night down over the day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 7:54
-  note: God makes the night cover the day
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ
-    مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Ps 104:3
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי רֽוּחַ
-- tradition: judaism
-  ref: Ps 104:4
-  note: 'God sends the winds as heralds before his mercy and sends down pure water from the sky (God''s
-    winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh hārîm
-    mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī yursilu
-    l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā bihi l-māʾa.
-    The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju l-mawtā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 7:57
-  note: God sends the winds as heralds before his mercy and sends down pure water from the sky
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
-    سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن
-    كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 7:54
-  note: Sun and moon are set to rule day and night and mark signs and seasons (sun, moon and stars subjected
-    (musakhkharat) by his command)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ وَٱلنُّجُومَ
-    مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 7:57
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
-    سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن
-    كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. God''s winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt
-    ... mašqeh hārîm mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa
-    lladhī yursilu l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā
-    bihi l-māʾa. The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju
-    l-mawtā).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes the night cover the day (weight 6.3); God sends the winds
     as heralds before his mercy and sends down pure water from the sky (weight 5.4); Sun and moon are
@@ -145,6 +55,104 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends the winds as heralds before his mercy and sends down pure water from the sky
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-7-creation-signs
+  title: Six days, the Throne, winds and rain as proof of resurrection
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends the winds as heralds before his mercy and sends down pure water from the sky
+  note: 'God''s winds go before the rain. Ps: ha-mmhallēkh ʿal-kanfê-rûaḥ ʿōśeh malʾākhāyw rûḥôt ... mašqeh
+    hārîm mē-ʿăliyyôtāyw (winds made his messengers; water from his upper chambers). Q: wa-huwa lladhī
+    yursilu l-riyāḥa bushran bayna yaday raḥmatihi ḥattā idhā aqallat saḥāban thiqālan ... fa-anzalnā
+    bihi l-māʾa. The winds are heralds. Q adds that this is a sign of resurrection (kadhālika nukhriju
+    l-mawtā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:3
+      lang: he
+      text: הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל כַּנְפֵי
+        רֽוּחַ
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:57
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
+        سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ
+        مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+- kind: shared
+  label: God makes the night cover the day
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    note: 'yughshī l-layla n-nahār; tāšet-ḥōšek wîhî lāylâ: God brings the night down over the day.'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:54
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ
+        وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ
+        ٱلْعَٰلَمِينَ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+    note: moon for appointed times; the sun knows its setting
+  - tradition: islam
+    passages:
+    - ref: Quran 7:54
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ يَطْلُبُهُۥ حَثِيثًا وَٱلشَّمْسَ وَٱلْقَمَرَ
+        وَٱلنُّجُومَ مُسَخَّرَٰتٍۭ بِأَمْرِهِۦٓ أَلَا لَهُ ٱلْخَلْقُ وَٱلْأَمْرُ تَبَارَكَ ٱللَّهُ رَبُّ
+        ٱلْعَٰلَمِينَ
+    note: sun, moon and stars subjected (musakhkharat) by his command
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:57
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
+        سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ
+        مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-18-two-gardens
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ The parable of the two gardens;
   this life as rain-fed plants; the book of deeds (Surah 18:32-49)
-summary: 'These two units share 1 motifs: the rich man thinks his garden will never perish and the hour
-  will never come.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - rich-man-thinks-wealth-eternal
-passages:
-- tradition: judaism
-  ref: Prov 11:28
-  note: 'The rich man thinks his garden will never perish and the Hour will never come (bôṭēaḥ bəʿošrô
-    hûʾ yippōl wəkeʿāleh ṣaddîqîm yipraḥû; anā aktharu minka mālan ... mā aẓunnu an tabīda hādhihi abadā
-    ... yā laytanī lam ushrik bi-rabbī aḥadā: whoever trusts in his wealth falls. Q reads the trust in
-    wealth as shirk.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בּוֹטֵ֣חַ בְּ֭עָשְׁרוֹ ה֣וּא יִפֹּ֑ל וְ֝כֶעָלֶ֗ה צַדִּיקִ֥ים יִפְרָֽחוּ
-- tradition: islam
-  ref: Quran 18:35
-  note: The rich man thinks his garden will never perish and the Hour will never come ('I do not think
-    this will ever perish, nor that the Hour will come')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا
-- tradition: islam
-  ref: Quran 18:36
-  note: The rich man thinks his garden will never perish and the Hour will never come ('I do not think
-    this will ever perish, nor that the Hour will come')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةً وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّى لَأَجِدَنَّ خَيْرًا مِّنْهَا
-    مُنقَلَبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. bôṭēaḥ bəʿošrô hûʾ yippōl wəkeʿāleh ṣaddîqîm yipraḥû; anā aktharu minka mālan ... mā aẓunnu
-    an tabīda hādhihi abadā ... yā laytanī lam ushrik bi-rabbī aḥadā: whoever trusts in his wealth falls.
-    Q reads the trust in wealth as shirk.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The rich man thinks his garden will never perish and the Hour will
     never come (weight 6.3). Pair score 6.3.'
@@ -83,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The rich man thinks his garden will never perish and the Hour will never come
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-18-two-gardens
+  title: The parable of the two gardens; this life as rain-fed plants; the book of deeds (Surah 18:32-49)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The rich man thinks his garden will never perish and the Hour will never come
+  note: 'bôṭēaḥ bəʿošrô hûʾ yippōl wəkeʿāleh ṣaddîqîm yipraḥû; anā aktharu minka mālan ... mā aẓunnu an
+    tabīda hādhihi abadā ... yā laytanī lam ushrik bi-rabbī aḥadā: whoever trusts in his wealth falls.
+    Q reads the trust in wealth as shirk.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:28
+      lang: he
+      text: בּוֹטֵ֣חַ בְּ֭עָשְׁרוֹ ה֣וּא יִפֹּ֑ל וְ֝כֶעָלֶ֗ה צַדִּיקִ֥ים יִפְרָֽחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:34
+      lang: ar
+      text: وَكَانَ لَهُۥ ثَمَرٌ فَقَالَ لِصَٰحِبِهِۦ وَهُوَ يُحَاوِرُهُۥٓ أَنَا۠ أَكْثَرُ مِنكَ مَالًا
+        وَأَعَزُّ نَفَرًا
+    - ref: Quran 18:35
+      lang: ar
+      text: وَدَخَلَ جَنَّتَهُۥ وَهُوَ ظَالِمٌ لِّنَفْسِهِۦ قَالَ مَآ أَظُنُّ أَن تَبِيدَ هَٰذِهِۦٓ أَبَدًا
+    - ref: Quran 18:42
+      lang: ar
+      text: وَأُحِيطَ بِثَمَرِهِۦ فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَىٰ مَآ أَنفَقَ فِيهَا وَهِىَ خَاوِيَةٌ
+        عَلَىٰ عُرُوشِهَا وَيَقُولُ يَٰلَيْتَنِى لَمْ أُشْرِكْ بِرَبِّىٓ أَحَدًا
 ---
 
 ## Questions

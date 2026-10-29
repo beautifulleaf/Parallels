@@ -1,9 +1,7 @@
 ---
 id: motif-hb-1sam-1-hannah-vs-quran-3-imran-mary-zechariah
 title: Hannah's vow and Samuel's birth ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 3 motifs: mother vows her (unborn) child to god''s service [divergence
-  between the texts], mother names her child with a speech explaining the name, mother vows her (unborn)
-  child to god''s service.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -19,109 +17,9 @@ motifs:
 - mother-dedicates-child-as-divergence
 - first-birth-naming-speech
 - mother-dedicates-child
-passages:
-- tradition: judaism
-  ref: 1Sam 1:11
-  note: 'Mother vows her (unborn) child to God''s service [divergence between the texts] (Cognate vow:
-    1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm û-nĕtattîw la-YHWH kol yĕmê ḥayyāyw:
-    Hannah vows before conceiving and asks for a male child; Q 3:35-36 rabbi innī nadhartu laka mā fī
-    baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru ka-l-unthā: Imran''s wife
-    vows the child already in her womb as consecrated, and bears a girl. Hannah''s son (as asked) becomes
-    a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
-    וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל
-    יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
-- tradition: judaism
-  ref: 1Sam 1:28
-  note: 'Mother vows her (unborn) child to God''s service [divergence between the texts] (Cognate vow:
-    1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm û-nĕtattîw la-YHWH kol yĕmê ḥayyāyw:
-    Hannah vows before conceiving and asks for a male child; Q 3:35-36 rabbi innī nadhartu laka mā fī
-    baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru ka-l-unthā: Imran''s wife
-    vows the child already in her womb as consecrated, and bears a girl. Hannah''s son (as asked) becomes
-    a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה
-    וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה
-- tradition: islam
-  ref: Quran 3:35
-  note: 'Mother vows her (unborn) child to God''s service [divergence between the texts] (Cognate vow:
-    1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm û-nĕtattîw la-YHWH kol yĕmê ḥayyāyw:
-    Hannah vows before conceiving and asks for a male child; Q 3:35-36 rabbi innī nadhartu laka mā fī
-    baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru ka-l-unthā: Imran''s wife
-    vows the child already in her womb as consecrated, and bears a girl. Hannah''s son (as asked) becomes
-    a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
-    مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-- tradition: islam
-  ref: Quran 3:36
-  note: 'Mother vows her (unborn) child to God''s service [divergence between the texts] (Cognate vow:
-    1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm û-nĕtattîw la-YHWH kol yĕmê ḥayyāyw:
-    Hannah vows before conceiving and asks for a male child; Q 3:35-36 rabbi innī nadhartu laka mā fī
-    baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru ka-l-unthā: Imran''s wife
-    vows the child already in her womb as consecrated, and bears a girl. Hannah''s son (as asked) becomes
-    a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ
-    وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا
-    مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
-- tradition: judaism
-  ref: 1Sam 1:20
-  note: 'Mother names her child with a speech explaining the name (1Sam 1:20 wa-ttiqrāʾ ʾet šĕmô šĕmûʾēl
-    kî mē-YHWH šĕʾiltîw: the mother names the child, with a reason; Q 3:36 wa-innī sammaytuhā maryama
-    wa-innī uʿīdhuhā bika wa-dhurriyyatahā mina sh-shayṭāni r-rajīm: the mother names the child and puts
-    her and her offspring under God''s protection from Satan. The naming by the mother is kept; the name-etymology
-    becomes a prayer for protection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת שְׁמוֹ֙ שְׁמוּאֵ֔ל
-    כִּ֥י מֵיְהוָ֖ה שְׁאִלְתִּֽיו
-- tradition: islam
-  ref: Quran 3:36
-  note: Mother names her child with a speech explaining the name (the mother names her)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ
-    وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا
-    مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
-- tradition: judaism
-  ref: 1Sam 1:11
-  note: Mother vows her (unborn) child to God's service
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
-    וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל
-    יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
-- tradition: judaism
-  ref: 1Sam 1:28
-  note: Mother vows her (unborn) child to God's service
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל לַֽיהוָ֑ה
-    וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה
-- tradition: islam
-  ref: Quran 3:35
-  note: Mother vows her (unborn) child to God's service (muharraran, consecrated)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
-    مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, parallel. Cognate vow: 1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm
-    û-nĕtattîw la-YHWH kol yĕmê ḥayyāyw: Hannah vows before conceiving and asks for a male child; Q 3:35-36
-    rabbi innī nadhartu laka mā fī baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru
-    ka-l-unthā: Imran''s wife vows the child already in her womb as consecrated, and bears a girl. Hannah''s
-    son (as asked) becomes a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).
-    1Sam 1:20 wa-ttiqrāʾ ʾet šĕmô šĕmûʾēl kî mē-YHWH šĕʾiltîw: the mother names the child, with a reason;
-    Q 3:36 wa-innī sammaytuhā maryama wa-innī uʿīdhuhā bika wa-dhurriyyatahā mina sh-shayṭāni r-rajīm:
-    the mother names the child and puts her and her offspring under God''s protection from Satan. The
-    naming by the mother is kept; the name-etymology becomes a prayer for protection.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mother vows her (unborn) child to God''s service [divergence between
     the texts] (weight 6.7); Mother names her child with a speech explaining the name (weight 6.0); Mother
@@ -154,6 +52,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mother vows her (unborn) child to God's service
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: divergence
+  label: Mother vows her (unborn) child to God's service
+  note: 'Cognate vow: 1Sam 1:11 wa-ttiddōr neder ... wĕ-nātattâ la-ʾămātĕkā zeraʿ ʾănāšîm û-nĕtattîw la-YHWH
+    kol yĕmê ḥayyāyw: Hannah vows before conceiving and asks for a male child; Q 3:35-36 rabbi innī nadhartu
+    laka mā fī baṭnī muḥarraran ... rabbi innī waḍaʿtuhā unthā ... wa-laysa dh-dhakaru ka-l-unthā: Imran''s
+    wife vows the child already in her womb as consecrated, and bears a girl. Hannah''s son (as asked)
+    becomes a daughter, who is accepted anyway (fa-taqabbalahā rabbuhā bi-qabūlin ḥasan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:11
+      lang: he
+      text: וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם רָאֹ֥ה תִרְאֶ֣ה בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֨נִי֙
+        וְלֹֽא תִשְׁכַּ֣ח אֶת אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙
+        כָּל יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא יַעֲלֶ֥ה עַל רֹאשֽׁוֹ
+    - ref: 1Sam 1:28
+      lang: he
+      text: וְגַ֣ם אָנֹכִ֗י הִשְׁאִלְתִּ֨הוּ֙ לַֽיהוָ֔ה כָּל הַיָּמִים֙ אֲשֶׁ֣ר הָיָ֔ה ה֥וּא שָׁא֖וּל
+        לַֽיהוָ֑ה וַיִּשְׁתַּ֥חוּ שָׁ֖ם לַיהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:35
+      lang: ar
+      text: إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ
+        مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    - ref: Quran 3:36
+      lang: ar
+      text: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ
+        وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا
+        مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
+- kind: parallel
+  label: Mother names her child with a speech explaining the name
+  note: '1Sam 1:20 wa-ttiqrāʾ ʾet šĕmô šĕmûʾēl kî mē-YHWH šĕʾiltîw: the mother names the child, with a
+    reason; Q 3:36 wa-innī sammaytuhā maryama wa-innī uʿīdhuhā bika wa-dhurriyyatahā mina sh-shayṭāni
+    r-rajīm: the mother names the child and puts her and her offspring under God''s protection from Satan.
+    The naming by the mother is kept; the name-etymology becomes a prayer for protection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:20
+      lang: he
+      text: וַיְהִי֙ לִתְקֻפ֣וֹת הַיָּמִ֔ים וַתַּ֥הַר חַנָּ֖ה וַתֵּ֣לֶד בֵּ֑ן וַתִּקְרָ֤א אֶת שְׁמוֹ֙
+        שְׁמוּאֵ֔ל כִּ֥י מֵיְהוָ֖ה שְׁאִלְתִּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 3:36
+      lang: ar
+      text: فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ
+        وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا
+        مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ
 ---
 
 ## Questions

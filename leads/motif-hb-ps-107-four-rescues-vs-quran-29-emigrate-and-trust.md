@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-29-emigrate-and-trust
 title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ God's earth is
   wide; every soul tastes death; signs and the secure sanctuary
-summary: 'These two units share 1 motifs: seafarers cry to god in a storm; what they do once rescued [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - sailors-response-after-rescue-from-storm-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 107:28
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
-- tradition: judaism
-  ref: Ps 107:30
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׂמְח֥וּ כִֽי יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
-- tradition: islam
-  ref: Quran 29:65
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
-    إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ
-- tradition: islam
-  ref: Quran 29:66
-  note: 'Seafarers cry to God in a storm; what they do once rescued [divergence between the texts] (Same
-    sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar lāhem
-    ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna lahu
-    d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s thanksgiving
-    becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ وَلِيَتَمَتَّعُوا۟ فَسَوْفَ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Same sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH
-    ba-ṣṣar lāhem ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna
-    lahu d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s
-    thanksgiving becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seafarers cry to God in a storm; what they do once rescued [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -102,6 +56,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seafarers cry to God in a storm; what they do once rescued
+kinds:
+- divergence
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: divergence
+  label: Seafarers cry to God in a storm; what they do once rescued
+  note: 'Same sequence of storm, cry and rescue, with the ending reversed. Ps: wa-yiṣʿăqû ʾel-YHWH ba-ṣṣar
+    lāhem ... wa-yanḥēm ʾel-məḥôz ḥep̄ṣām, yôḏû la-YHWH ḥasdô (they thank). Q: daʿawu llāha mukhliṣīna
+    lahu d-dīna fa-lammā najjāhum ilā l-barri idhā hum yushrikūn (they associate partners). The psalm''s
+    thanksgiving becomes the Quran''s ingratitude (li-yakfurū bi-mā ātaynāhum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:28
+      lang: he
+      text: וַיִּצְעֲק֣וּ אֶל יְ֭הוָה בַּצַּ֣ר לָהֶ֑ם וּֽ֝מִמְּצֽוּקֹתֵיהֶ֗ם יוֹצִיאֵֽם
+    - ref: Ps 107:30
+      lang: he
+      text: וַיִּשְׂמְח֥וּ כִֽי יִשְׁתֹּ֑קוּ וַ֝יַּנְחֵ֗ם אֶל מְח֥וֹז חֶפְצָֽם
+    - ref: Ps 107:31
+      lang: he
+      text: יוֹד֣וּ לַיהוָ֣ה חַסְדּ֑וֹ וְ֝נִפְלְאוֹתָ֗יו לִבְנֵ֥י אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:65
+      lang: ar
+      text: فَإِذَا رَكِبُوا۟ فِى ٱلْفُلْكِ دَعَوُا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمْ
+        إِلَى ٱلْبَرِّ إِذَا هُمْ يُشْرِكُونَ
+    - ref: Quran 29:66
+      lang: ar
+      text: لِيَكْفُرُوا۟ بِمَآ ءَاتَيْنَٰهُمْ وَلِيَتَمَتَّعُوا۟ فَسَوْفَ يَعْلَمُونَ
 ---
 
 ## Questions

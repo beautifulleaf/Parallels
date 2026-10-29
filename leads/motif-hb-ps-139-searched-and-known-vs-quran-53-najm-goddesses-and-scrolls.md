@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-53-najm-goddesses-and-scrolls
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Al-Lat, al-'Uzza and Manat; angelic intercession;
   the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: speaker was made in secret and embroidered (ruqqamti) in the
-  depths of the earth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - embryo-woven-in-depths-of-earth
-passages:
-- tradition: judaism
-  ref: Ps 139:15
-  note: Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: judaism
-  ref: Ps 139:13
-  note: Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: islam
-  ref: Quran 53:32
-  note: Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth (produced from
-    the earth / embryos in wombs)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ إِنَّ رَبَّكَ وَٰسِعُ
-    ٱلْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ فِى بُطُونِ
-    أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God knew man in the womb and in the ''earth'': tə-sukkēnî bə-ḇeṭen ʾimmî; ʾăšer ʿuśśêṯî
-    ḇas-sēṯer ruqqamtî bə-ṯaḥtiyyôṯ ʾāreṣ vs. huwa aʿlamu bikum idh anshaʾakum mina l-arḍi wa-idh antum
-    ajinnatun fī buṭūni ummahātikum fa-lā tuzakkū anfusakum. Both pair womb and earth. The psalm ends
-    in praise and a plea to be searched; the Quran in a warning not to claim purity.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker was made in secret and embroidered (ruqqamti) in the depths
     of the earth (weight 6.7). Pair score 6.7.'
@@ -82,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth
+kinds:
+- parallel
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: parallel
+  label: Speaker was made in secret and embroidered (ruqqamti) in the depths of the earth
+  note: 'God knew man in the womb and in the ''earth'': tə-sukkēnî bə-ḇeṭen ʾimmî; ʾăšer ʿuśśêṯî ḇas-sēṯer
+    ruqqamtî bə-ṯaḥtiyyôṯ ʾāreṣ vs. huwa aʿlamu bikum idh anshaʾakum mina l-arḍi wa-idh antum ajinnatun
+    fī buṭūni ummahātikum fa-lā tuzakkū anfusakum. Both pair womb and earth. The psalm ends in praise
+    and a plea to be searched; the Quran in a warning not to claim purity.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 53:32
+      lang: ar
+      text: ٱلَّذِينَ يَجْتَنِبُونَ كَبَٰٓئِرَ ٱلْإِثْمِ وَٱلْفَوَٰحِشَ إِلَّا ٱللَّمَمَ إِنَّ رَبَّكَ
+        وَٰسِعُ ٱلْمَغْفِرَةِ هُوَ أَعْلَمُ بِكُمْ إِذْ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَإِذْ أَنتُمْ أَجِنَّةٌ
+        فِى بُطُونِ أُمَّهَٰتِكُمْ فَلَا تُزَكُّوٓا۟ أَنفُسَكُمْ هُوَ أَعْلَمُ بِمَنِ ٱتَّقَىٰٓ
 ---
 
 ## Questions

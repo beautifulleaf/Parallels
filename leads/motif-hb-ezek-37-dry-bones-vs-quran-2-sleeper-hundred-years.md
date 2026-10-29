@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ezek-37-dry-bones-vs-quran-2-sleeper-hundred-years
 title: The valley of dry bones ↔ The man who passed a ruined town
-summary: 'These two units share 2 motifs: the question whether god can make the dead live [divergence
-  between the texts], at the prophet''s word there is a rattling; bones come together bone to bone, then
-  sinews, flesh and skin cover them, but there is no breath.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,71 +16,9 @@ layers:
 motifs:
 - question-whether-dead-can-live-as-divergence
 - bones-reassembled-sinews-flesh-skin
-passages:
-- tradition: judaism
-  ref: Ezek 37:3
-  note: 'The question whether God can make the dead live [divergence between the texts] (Ezek 37:3 ha-tiḥyênâ
-    hā-ʿăṣāmôt hā-ʾēlleh wā-ʾōmar ʾădōnāy YHWH ʾattâ yādāʿtā: God asks if the bones can live and the prophet
-    defers to God''s knowledge; Q 2:259 qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: the man himself asks,
-    doubting, how God can revive the dead town, and God answers by making him die for a hundred years
-    and raising him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה אַתָּ֥ה
-    יָדָֽעְתָּ
-- tradition: islam
-  ref: Quran 2:259
-  note: 'The question whether God can make the dead live [divergence between the texts] (Ezek 37:3 ha-tiḥyênâ
-    hā-ʿăṣāmôt hā-ʾēlleh wā-ʾōmar ʾădōnāy YHWH ʾattâ yādāʿtā: God asks if the bones can live and the prophet
-    defers to God''s knowledge; Q 2:259 qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: the man himself asks,
-    doubting, how God can revive the dead town, and God answers by making him die for a hundred years
-    and raising him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
-    هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ
-    قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ
-    وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ
-    إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ
-    أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Ezek 37:4
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (qol ... ra'ash, a noise and a quaking/rattling)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י הִנָּבֵ֖א עַל הָעֲצָמ֣וֹת הָאֵ֑לֶּה וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם הָעֲצָמוֹת֙ הַיְבֵשׁ֔וֹת
-    שִׁמְע֖וּ דְּבַר יְהוָֽה
-- tradition: judaism
-  ref: Ezek 37:5
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath (qol ... ra'ash, a noise and a quaking/rattling)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם
-- tradition: islam
-  ref: Quran 2:259
-  note: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
-    and skin cover them, but there is no breath
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
-    هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ
-    قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ
-    وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ
-    إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ
-    أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, parallel. Ezek 37:3 ha-tiḥyênâ hā-ʿăṣāmôt hā-ʾēlleh wā-ʾōmar ʾădōnāy YHWH ʾattâ yādāʿtā:
-    God asks if the bones can live and the prophet defers to God''s knowledge; Q 2:259 qāla annā yuḥyī
-    hādhihi llāhu baʿda mawtihā: the man himself asks, doubting, how God can revive the dead town, and
-    God answers by making him die for a hundred years and raising him. Ezek 37:7-8 wa-ttiqrĕbû ʿăṣāmôt
-    ʿeṣem ʾel ʿaṣmô ... wĕ-hinnēh ʿălêhem gīdîm û-bāśār ʿālâ wa-yyiqram ʿălêhem ʿôr: bones come together
-    and are covered with sinews, flesh and skin; Q 2:259 wa-nẓur ilā l-ʿiẓāmi kayfa nunshizuhā thumma
-    naksūhā laḥman: see the bones, how we raise them up and then clothe them with flesh. Same order (assemble,
-    then cover with flesh); in the Quran they are the man''s donkey''s bones and the sign is for one doubter,
-    not a vision of the nation.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The question whether God can make the dead live [divergence between
     the texts] (weight 6.7); At the prophet''s word there is a rattling; bones come together bone to bone,
@@ -112,6 +48,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The question whether God can make the dead live
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-2-sleeper-hundred-years
+  title: The man who passed a ruined town
+  tradition: islam
+matches:
+- kind: divergence
+  label: The question whether God can make the dead live
+  note: 'Ezek 37:3 ha-tiḥyênâ hā-ʿăṣāmôt hā-ʾēlleh wā-ʾōmar ʾădōnāy YHWH ʾattâ yādāʿtā: God asks if the
+    bones can live and the prophet defers to God''s knowledge; Q 2:259 qāla annā yuḥyī hādhihi llāhu baʿda
+    mawtihā: the man himself asks, doubting, how God can revive the dead town, and God answers by making
+    him die for a hundred years and raising him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה
+        אַתָּ֥ה יָדָֽעְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:259
+      lang: ar
+      text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
+        هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ
+        لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ
+        إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً
+        لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ
+        لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: parallel
+  label: At the prophet's word there is a rattling; bones come together bone to bone, then sinews, flesh
+    and skin cover them, but there is no breath
+  note: 'Ezek 37:7-8 wa-ttiqrĕbû ʿăṣāmôt ʿeṣem ʾel ʿaṣmô ... wĕ-hinnēh ʿălêhem gīdîm û-bāśār ʿālâ wa-yyiqram
+    ʿălêhem ʿôr: bones come together and are covered with sinews, flesh and skin; Q 2:259 wa-nẓur ilā
+    l-ʿiẓāmi kayfa nunshizuhā thumma naksūhā laḥman: see the bones, how we raise them up and then clothe
+    them with flesh. Same order (assemble, then cover with flesh); in the Quran they are the man''s donkey''s
+    bones and the sign is for one doubter, not a vision of the nation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:7
+      lang: he
+      text: וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה רַ֔עַשׁ וַתִּקְרְב֣וּ
+        עֲצָמ֔וֹת עֶ֖צֶם אֶל עַצְמֽוֹ
+    - ref: Ezek 37:8
+      lang: he
+      text: וְרָאִ֜יתִי וְהִנֵּֽה עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה
+        וְר֖וּחַ אֵ֥ין בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:259
+      lang: ar
+      text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
+        هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ
+        لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ
+        إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً
+        لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ
+        لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

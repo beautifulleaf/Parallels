@@ -2,9 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Hud warns 'Ad at the
   dunes; the cloud that was not rain; the jinn listen to the Quran
-summary: 'These two units share 2 motifs: god was not wearied by creating the heavens and earth (polemic
-  against divine rest), the everlasting god, creator of the ends of the earth, does not faint or grow
-  weary; his understanding is unsearchable.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,49 +16,9 @@ layers:
 motifs:
 - creator-not-wearied-by-creation
 - god-never-tires
-passages:
-- tradition: judaism
-  ref: Isa 40:28
-  note: God was not wearied by creating the heavens and earth (polemic against divine rest) (bôrēʾ qəṣôṯ
-    hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. a-fa-ʿayīnā bi-l-khalqi l-awwali bal hum fī labsin min khalqin
-    jadīd. Isaiah uses God's tirelessness to promise strength to the weary (40:29); the Quran uses it
-    to argue for a 'new creation' of the dead.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א
-    יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
-- tradition: islam
-  ref: Quran 46:33
-  note: God was not wearied by creating the heavens and earth (polemic against divine rest)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
-    بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Isa 40:28
-  note: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א
-    יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
-- tradition: islam
-  ref: Quran 46:33
-  note: 'The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable (The HB itself has the same claim: ʾĕlōhê ʿôlām YHWH bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄
-    wə-lōʾ yîḡāʿ vs. alladhī khalaqa s-samāwāti wa-l-arḍa wa-lam yaʿya bi-khalqihinna. Creator and tirelessness
-    are joined in both (bôrēʾ / khalaqa; lōʾ yîʿap̄ / lam yaʿya). The Quran''s ''response'' to Exod 31:17
-    thus sides with Isaiah within the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
-    بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The HB itself has the same claim: ʾĕlōhê ʿôlām YHWH bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ
-    yîḡāʿ vs. alladhī khalaqa s-samāwāti wa-l-arḍa wa-lam yaʿya bi-khalqihinna. Creator and tirelessness
-    are joined in both (bôrēʾ / khalaqa; lōʾ yîʿap̄ / lam yaʿya). The Quran''s ''response'' to Exod 31:17
-    thus sides with Isaiah within the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God was not wearied by creating the heavens and earth (polemic against
     divine rest) (weight 6.3); The everlasting God, creator of the ends of the earth, does not faint or
@@ -101,6 +59,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+  is unsearchable
+kinds:
+- parallel
+- shared
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: parallel
+  label: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+    is unsearchable
+  note: 'The HB itself has the same claim: ʾĕlōhê ʿôlām YHWH bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ
+    vs. alladhī khalaqa s-samāwāti wa-l-arḍa wa-lam yaʿya bi-khalqihinna. Creator and tirelessness are
+    joined in both (bôrēʾ / khalaqa; lōʾ yîʿap̄ / lam yaʿya). The Quran''s ''response'' to Exod 31:17
+    thus sides with Isaiah within the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:28
+      lang: he
+      text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ
+        לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:33
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
+        بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: God was not wearied by creating the heavens and earth (polemic against divine rest)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:28
+      lang: he
+      text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ
+        לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
+    note: bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. a-fa-ʿayīnā bi-l-khalqi l-awwali bal hum fī
+      labsin min khalqin jadīd. Isaiah uses God's tirelessness to promise strength to the weary (40:29);
+      the Quran uses it to argue for a 'new creation' of the dead.
+  - tradition: islam
+    passages:
+    - ref: Quran 46:33
+      lang: ar
+      text: أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَمْ يَعْىَ بِخَلْقِهِنَّ
+        بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ بَلَىٰٓ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

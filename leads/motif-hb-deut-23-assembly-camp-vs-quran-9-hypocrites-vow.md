@@ -2,7 +2,7 @@
 id: motif-hb-deut-23-assembly-camp-vs-quran-9-hypocrites-vow
 title: Admission to the assembly; camp purity; slaves, interest, vows ↔ The broken vow of charity; seventy
   prayers in vain
-summary: 'These two units share 1 motifs: pay vows without delay; not vowing is no sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,42 +15,9 @@ layers:
 - motif
 motifs:
 - vows-must-be-paid-promptly
-passages:
-- tradition: judaism
-  ref: Deut 23:22
-  note: Pay vows without delay; not vowing is no sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִדֹּ֥ר נֶ֨דֶר֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תְאַחֵ֖ר לְשַׁלְּמ֑וֹ כִּֽי דָּרֹ֨שׁ יִדְרְשֶׁ֜נּוּ
-    יְהוָ֤ה אֱלֹהֶ֨יךָ֙ מֵֽעִמָּ֔ךְ וְהָיָ֥ה בְךָ֖ חֵֽטְא
-- tradition: judaism
-  ref: Deut 23:23
-  note: Pay vows without delay; not vowing is no sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִ֥י תֶחְדַּ֖ל לִנְדֹּ֑ר לֹֽא יִהְיֶ֥ה בְךָ֖ חֵֽטְא
-- tradition: islam
-  ref: Quran 9:76
-  note: 'Pay vows without delay; not vowing is no sin (Breaking a vow to God is held against the vower:
-    fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ...
-    lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
-- tradition: islam
-  ref: Quran 9:77
-  note: 'Pay vows without delay; not vowing is no sin (Breaking a vow to God is held against the vower:
-    fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ...
-    lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ
-    مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Breaking a vow to God is held against the vower: fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā
-    akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ... lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû
-    YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pay vows without delay; not vowing is no sin (weight 6.3). Pair
     score 6.3.'
@@ -83,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pay vows without delay; not vowing is no sin
+kinds:
+- parallel
+units:
+- id: hb-deut-23-assembly-camp
+  title: Admission to the assembly; camp purity; slaves, interest, vows
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: parallel
+  label: Pay vows without delay; not vowing is no sin
+  note: 'Breaking a vow to God is held against the vower: fa-aʿqabahum nifāqan fī qulūbihim ... bi-mā
+    akhlafū llāha mā waʿadūhu vs kî-tiddōr neder laYHWH ... lōʾ tᵉʾaḥēr lᵉšallᵉmô kî-dārōš yidrᵉšennû
+    YHWH ... wᵉhāyāh bᵉkā ḥēṭʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 23:22
+      lang: he
+      text: כִּֽי תִדֹּ֥ר נֶ֨דֶר֙ לַיהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א תְאַחֵ֖ר לְשַׁלְּמ֑וֹ כִּֽי דָּרֹ֨שׁ יִדְרְשֶׁ֜נּוּ
+        יְהוָ֤ה אֱלֹהֶ֨יךָ֙ מֵֽעִמָּ֔ךְ וְהָיָ֥ה בְךָ֖ חֵֽטְא
+  - tradition: islam
+    passages:
+    - ref: Quran 9:76
+      lang: ar
+      text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
+    - ref: Quran 9:77
+      lang: ar
+      text: فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ
+        مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ
 ---
 
 ## Questions

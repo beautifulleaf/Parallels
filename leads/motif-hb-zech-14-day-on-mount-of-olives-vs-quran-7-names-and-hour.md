@@ -2,7 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-7-names-and-hour
 title: The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ Made for hell, the
   beautiful names, the unknown Hour
-summary: 'These two units share 1 motifs: knowledge of the hour is with god alone; it will come suddenly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - hour-known-only-to-god
-passages:
-- tradition: judaism
-  ref: Zech 14:7
-  note: 'Knowledge of the Hour is with God alone; it will come suddenly (The final day is known only to
-    God: innamā ʿilmuhā ʿinda rabbī lā yujallīhā li-waqtihā illā huwa vs wᵉhāyāh yôm-ʾeḥād hûʾ yiwwādaʿ
-    laYHWH lōʾ-yôm wᵉlōʾ-lāylāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה יוֹם אֶחָ֗ד ה֛וּא יִוָּדַ֥ע לַֽיהוָ֖ה לֹא י֣וֹם וְלֹא לָ֑יְלָה וְהָיָ֥ה לְעֵֽת עֶ֖רֶב
-    יִֽהְיֶה אֽוֹר
-- tradition: islam
-  ref: Quran 7:187
-  note: Knowledge of the Hour is with God alone; it will come suddenly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا يُجَلِّيهَا
-    لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ
-    كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The final day is known only to God: innamā ʿilmuhā ʿinda rabbī lā yujallīhā li-waqtihā illā
-    huwa vs wᵉhāyāh yôm-ʾeḥād hûʾ yiwwādaʿ laYHWH lōʾ-yôm wᵉlōʾ-lāylāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Knowledge of the Hour is with God alone; it will come suddenly (weight
     5.0). Pair score 5.0.'
@@ -73,6 +54,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Knowledge of the Hour is with God alone; it will come suddenly
+kinds:
+- parallel
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: parallel
+  label: Knowledge of the Hour is with God alone; it will come suddenly
+  note: 'The final day is known only to God: innamā ʿilmuhā ʿinda rabbī lā yujallīhā li-waqtihā illā huwa
+    vs wᵉhāyāh yôm-ʾeḥād hûʾ yiwwādaʿ laYHWH lōʾ-yôm wᵉlōʾ-lāylāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:7
+      lang: he
+      text: וְהָיָ֣ה יוֹם אֶחָ֗ד ה֛וּא יִוָּדַ֥ע לַֽיהוָ֖ה לֹא י֣וֹם וְלֹא לָ֑יְלָה וְהָיָ֥ה לְעֵֽת עֶ֖רֶב
+        יִֽהְיֶה אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 7:187
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا
+        يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا
+        بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ
+        أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
 ---
 
 ## Questions

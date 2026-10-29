@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-1-two-ways-vs-quran-6-deliverance-trumpet
 title: Psalm 1 - the two ways ↔ Rescue in the darkness of land and sea; the bewildered man; the trumpet
-summary: 'These two units share 1 motifs: do not sit with those who plunge into mockery of god''s signs
-  until they change the subject.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - avoid-those-who-mock-revelation
-passages:
-- tradition: judaism
-  ref: Ps 1:1
-  note: 'Do not sit with those who plunge into mockery of God''s signs until they change the subject (Do
-    not sit with scoffers. Q: wa-idhā raʾayta lladhīna yakhūḍūna fī āyātinā fa-aʿriḍ ʿanhum ... fa-lā
-    taqʿud baʿda l-dhikrā maʿa l-qawmi l-ẓālimīna. Ps: û-və-môšav lēṣîm lōʾ yāšāv (qaʿada = yāšav).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֥שְֽׁרֵי הָאִ֗ישׁ אֲשֶׁ֤ר לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד
-    וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב
-- tradition: islam
-  ref: Quran 6:68
-  note: Do not sit with those who plunge into mockery of God's signs until they change the subject
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟
-    فِى حَدِيثٍ غَيْرِهِۦ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ ٱلْقَوْمِ
-    ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 6:69
-  note: Do not sit with those who plunge into mockery of God's signs until they change the subject
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا عَلَى ٱلَّذِينَ يَتَّقُونَ مِنْ حِسَابِهِم مِّن شَىْءٍ وَلَٰكِن ذِكْرَىٰ لَعَلَّهُمْ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Do not sit with scoffers. Q: wa-idhā raʾayta lladhīna yakhūḍūna fī āyātinā fa-aʿriḍ ʿanhum
-    ... fa-lā taqʿud baʿda l-dhikrā maʿa l-qawmi l-ẓālimīna. Ps: û-və-môšav lēṣîm lōʾ yāšāv (qaʿada =
-    yāšav).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not sit with those who plunge into mockery of God''s signs until
     they change the subject (weight 6.3). Pair score 6.3.'
@@ -76,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not sit with those who plunge into mockery of God's signs until they change the subject
+kinds:
+- parallel
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-6-deliverance-trumpet
+  title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not sit with those who plunge into mockery of God's signs until they change the subject
+  note: 'Do not sit with scoffers. Q: wa-idhā raʾayta lladhīna yakhūḍūna fī āyātinā fa-aʿriḍ ʿanhum ...
+    fa-lā taqʿud baʿda l-dhikrā maʿa l-qawmi l-ẓālimīna. Ps: û-və-môšav lēṣîm lōʾ yāšāv (qaʿada = yāšav).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:1
+      lang: he
+      text: אַ֥שְֽׁרֵי הָאִ֗ישׁ אֲשֶׁ֤ר לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א
+        עָמָ֑ד וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב
+  - tradition: islam
+    passages:
+    - ref: Quran 6:68
+      lang: ar
+      text: وَإِذَا رَأَيْتَ ٱلَّذِينَ يَخُوضُونَ فِىٓ ءَايَٰتِنَا فَأَعْرِضْ عَنْهُمْ حَتَّىٰ يَخُوضُوا۟
+        فِى حَدِيثٍ غَيْرِهِۦ وَإِمَّا يُنسِيَنَّكَ ٱلشَّيْطَٰنُ فَلَا تَقْعُدْ بَعْدَ ٱلذِّكْرَىٰ مَعَ
+        ٱلْقَوْمِ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

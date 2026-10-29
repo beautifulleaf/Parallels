@@ -2,7 +2,7 @@
 id: motif-hb-ps-44-national-lament-vs-quran-42-shura-revelation-one-religion
 title: 'Psalm 44 - national lament; why do you sleep, O Lord ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels''
   intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: god alone knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: Ps 44:22
-  note: God alone knows the hearts of all humans (kî hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. innahu ʿalīmun bi-dhāti
-    ṣ-ṣudūr. In the psalm a protest of innocence (God would know if we had spread our hands to a strange
-    god); in the Quran it closes the reply to the charge that the Prophet forged (iftarā) the message.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
-- tradition: islam
-  ref: Quran 42:24
-  note: God alone knows the hearts of all humans ('Knower of what is in the breasts' (dhat al-sudur))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ
-    وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. kî hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. innahu ʿalīmun bi-dhāti ṣ-ṣudūr. In the psalm a protest
-    of innocence (God would know if we had spread our hands to a strange god); in the Quran it closes
-    the reply to the charge that the Prophet forged (iftarā) the message.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
     5.0.'
@@ -71,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- parallel
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God alone knows the hearts of all humans
+  note: kî hûʾ yōḏēaʿ taʿălumôṯ lēḇ vs. innahu ʿalīmun bi-dhāti ṣ-ṣudūr. In the psalm a protest of innocence
+    (God would know if we had spread our hands to a strange god); in the Quran it closes the reply to
+    the charge that the Prophet forged (iftarā) the message.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:22
+      lang: he
+      text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 42:24
+      lang: ar
+      text: أَمْ يَقُولُونَ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا فَإِن يَشَإِ ٱللَّهُ يَخْتِمْ عَلَىٰ قَلْبِكَ
+        وَيَمْحُ ٱللَّهُ ٱلْبَٰطِلَ وَيُحِقُّ ٱلْحَقَّ بِكَلِمَٰتِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

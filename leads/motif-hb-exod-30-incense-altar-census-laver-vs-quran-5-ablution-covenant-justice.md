@@ -2,9 +2,7 @@
 id: motif-hb-exod-30-incense-altar-census-laver-vs-quran-5-ablution-covenant-justice
 title: Incense altar, half-shekel ransom and bronze laver ↔ Ablution, the covenant 'we hear and obey',
   and justice despite hatred
-summary: 'These two units share 2 motifs: a bronze laver where priests wash hands and feet before service,
-  lest they die [divergence between the texts], a bronze laver where priests wash hands and feet before
-  service, lest they die.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,80 +15,9 @@ layers:
 motifs:
 - bronze-laver-for-washing-hands-and-feet-as-divergence
 - bronze-laver-for-washing-hands-and-feet
-passages:
-- tradition: judaism
-  ref: Exod 30:19
-  note: 'A bronze laver where priests wash hands and feet before service, lest they die [divergence between
-    the texts] (Washing hands and feet before approaching God. Exod: wə-rāḥăṣû ʾAhărōn û-vānāyw mimmennû
-    ʾet-yədêhem wə-ʾet-raglêhem ... wə-lōʾ yāmutû, for priests entering the tent, on pain of death. Q:
-    idhā qumtum ilā l-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiqi ... wa-arjulakum ilā l-kaʿbayn,
-    for every believer before each prayer. Q adds the face and wiping the head, and gives the reason as
-    relief (mā yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin), not the threat of death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת יְדֵיהֶ֖ם וְאֶת רַגְלֵיהֶֽם
-- tradition: judaism
-  ref: Exod 30:20
-  note: 'A bronze laver where priests wash hands and feet before service, lest they die [divergence between
-    the texts] (Washing hands and feet before approaching God. Exod: wə-rāḥăṣû ʾAhărōn û-vānāyw mimmennû
-    ʾet-yədêhem wə-ʾet-raglêhem ... wə-lōʾ yāmutû, for priests entering the tent, on pain of death. Q:
-    idhā qumtum ilā l-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiqi ... wa-arjulakum ilā l-kaʿbayn,
-    for every believer before each prayer. Q adds the face and wiping the head, and gives the reason as
-    relief (mā yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin), not the threat of death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּבֹאָ֞ם אֶל אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל הַמִּזְבֵּ֨חַ֙
-    לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהוָֽה
-- tradition: islam
-  ref: Quran 5:6
-  note: 'A bronze laver where priests wash hands and feet before service, lest they die [divergence between
-    the texts] (Washing hands and feet before approaching God. Exod: wə-rāḥăṣû ʾAhărōn û-vānāyw mimmennû
-    ʾet-yədêhem wə-ʾet-raglêhem ... wə-lōʾ yāmutû, for priests entering the tent, on pain of death. Q:
-    idhā qumtum ilā l-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiqi ... wa-arjulakum ilā l-kaʿbayn,
-    for every believer before each prayer. Q adds the face and wiping the head, and gives the reason as
-    relief (mā yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin), not the threat of death.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ
-    إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا
-    فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ
-    أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟
-    بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن
-    يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-- tradition: judaism
-  ref: Exod 30:18
-  note: A bronze laver where priests wash hands and feet before service, lest they die ('so that they
-    do not die')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשִׂ֜יתָ כִּיּ֥וֹר נְחֹ֛שֶׁת וְכַנּ֥וֹ נְחֹ֖שֶׁת לְרָחְצָ֑ה וְנָתַתָּ֣ אֹת֗וֹ בֵּֽין אֹ֤הֶל
-    מוֹעֵד֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ וְנָתַתָּ֥ שָׁ֖מָּה מָֽיִם
-- tradition: judaism
-  ref: Exod 30:19
-  note: A bronze laver where priests wash hands and feet before service, lest they die ('so that they
-    do not die')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת יְדֵיהֶ֖ם וְאֶת רַגְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 5:6
-  note: A bronze laver where priests wash hands and feet before service, lest they die (washing of hands
-    and feet before approaching God, here for every worshipper)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ
-    إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا
-    فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ
-    أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟
-    بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن
-    يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Washing hands and feet before approaching God. Exod: wə-rāḥăṣû ʾAhărōn û-vānāyw mimmennû
-    ʾet-yədêhem wə-ʾet-raglêhem ... wə-lōʾ yāmutû, for priests entering the tent, on pain of death. Q:
-    idhā qumtum ilā l-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiqi ... wa-arjulakum ilā l-kaʿbayn,
-    for every believer before each prayer. Q adds the face and wiping the head, and gives the reason as
-    relief (mā yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin), not the threat of death.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A bronze laver where priests wash hands and feet before service,
     lest they die [divergence between the texts] (weight 6.7); A bronze laver where priests wash hands
@@ -118,6 +45,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A bronze laver where priests wash hands and feet before service, lest they die
+kinds:
+- divergence
+units:
+- id: hb-exod-30-incense-altar-census-laver
+  title: Incense altar, half-shekel ransom and bronze laver
+  tradition: judaism
+- id: quran-5-ablution-covenant-justice
+  title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+  tradition: islam
+matches:
+- kind: divergence
+  label: A bronze laver where priests wash hands and feet before service, lest they die
+  note: 'Washing hands and feet before approaching God. Exod: wə-rāḥăṣû ʾAhărōn û-vānāyw mimmennû ʾet-yədêhem
+    wə-ʾet-raglêhem ... wə-lōʾ yāmutû, for priests entering the tent, on pain of death. Q: idhā qumtum
+    ilā l-ṣalāti fa-ghsilū wujūhakum wa-aydiyakum ilā l-marāfiqi ... wa-arjulakum ilā l-kaʿbayn, for every
+    believer before each prayer. Q adds the face and wiping the head, and gives the reason as relief (mā
+    yurīdu llāhu li-yajʿala ʿalaykum min ḥarajin), not the threat of death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 30:19
+      lang: he
+      text: וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת יְדֵיהֶ֖ם וְאֶת רַגְלֵיהֶֽם
+    - ref: Exod 30:20
+      lang: he
+      text: בְּבֹאָ֞ם אֶל אֹ֧הֶל מוֹעֵ֛ד יִרְחֲצוּ מַ֖יִם וְלֹ֣א יָמֻ֑תוּ א֣וֹ בְגִשְׁתָּ֤ם אֶל הַמִּזְבֵּ֨חַ֙
+        לְשָׁרֵ֔ת לְהַקְטִ֥יר אִשֶּׁ֖ה לַֽיהוָֽה
+    - ref: Exod 30:21
+      lang: he
+      text: וְרָחֲצ֛וּ יְדֵיהֶ֥ם וְרַגְלֵיהֶ֖ם וְלֹ֣א יָמֻ֑תוּ וְהָיְתָ֨ה לָהֶ֧ם חָק עוֹלָ֛ם ל֥וֹ וּלְזַרְע֖וֹ
+        לְדֹרֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:6
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ
+        وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ
+        وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ
+        مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟
+        صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ
+        عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ
+        تَشْكُرُونَ
 ---
 
 ## Questions

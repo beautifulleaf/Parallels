@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-21-cosmic-signs-and-scales
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The split heavens, water
   of life, orbits, mortality and the scales
-summary: 'These two units share 2 motifs: god set firm mountains on the earth lest it sway with people,
-  sun and moon are set to rule day and night and mark signs and seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,54 +15,9 @@ layers:
 motifs:
 - mountains-stabilize-earth
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 104:5
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 104:8
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
-- tradition: islam
-  ref: Quran 21:31
-  note: God set firm mountains on the earth lest it sway with people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا لَّعَلَّهُمْ
-    يَهْتَدُونَ
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 21:33
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ; wa-jaʿalnā fī l-arḍi rawāsiya an tamīda bihim: the earth
-    made immovable.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set firm mountains on the earth lest it sway with people (weight
     5.6); Sun and moon are set to rule day and night and mark signs and seasons (weight 4.7). Pair score
@@ -99,6 +53,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set firm mountains on the earth lest it sway with people
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-21-cosmic-signs-and-scales
+  title: The split heavens, water of life, orbits, mortality and the scales
+  tradition: islam
+matches:
+- kind: echo
+  label: God set firm mountains on the earth lest it sway with people
+  note: 'yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ; wa-jaʿalnā fī l-arḍi rawāsiya an tamīda bihim: the earth
+    made immovable.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 21:31
+      lang: ar
+      text: وَجَعَلْنَا فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِهِمْ وَجَعَلْنَا فِيهَا فِجَاجًا سُبُلًا
+        لَّعَلَّهُمْ يَهْتَدُونَ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+    note: moon for appointed times; the sun knows its setting
+  - tradition: islam
+    passages:
+    - ref: Quran 21:33
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ
 ---
 
 ## Questions

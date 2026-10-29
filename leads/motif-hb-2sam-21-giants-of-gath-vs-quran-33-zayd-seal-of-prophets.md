@@ -2,7 +2,7 @@
 id: motif-hb-2sam-21-giants-of-gath-vs-quran-33-zayd-seal-of-prophets
 title: Four descendants of the Rapha slain ↔ Zayd's wife, the seal of the prophets, and the prophet as
   a lamp
-summary: 'These two units share 1 motifs: the prophet is sent as witness, bearer of good tidings and warner.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-as-witness-bearer-of-tidings-warner
-passages:
-- tradition: judaism
-  ref: 2Sam 21:17
-  note: 'The prophet is sent as witness, bearer of good tidings and warner (The leader as lamp: wə-lōʾ
-    ṯəḵabbeh ʾeṯ-nēr yiśrāʾēl (David, the lamp of Israel) vs. wa-dāʿiyan ilā llāhi bi-idhnihi wa-sirājan
-    munīrā (the prophet a shining lamp).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲזָר לוֹ֙ אֲבִישַׁ֣י בֶּן צְרוּיָ֔ה וַיַּ֥ךְ אֶת הַפְּלִשְׁתִּ֖י וַיְמִיתֵ֑הוּ אָ֣ז נִשְׁבְּעוּ֩
-    אַנְשֵׁי דָוִ֨ד ל֜וֹ לֵאמֹ֗ר לֹא תֵצֵ֨א ע֤וֹד אִתָּ֨נוּ֙ לַמִּלְחָמָ֔ה וְלֹ֥א תְכַבֶּ֖ה אֶת נֵ֥ר יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 33:45
-  note: The prophet is sent as witness, bearer of good tidings and warner
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَٰكَ شَٰهِدًا وَمُبَشِّرًا وَنَذِيرًا
-- tradition: islam
-  ref: Quran 33:46
-  note: The prophet is sent as witness, bearer of good tidings and warner
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. The leader as lamp: wə-lōʾ ṯəḵabbeh ʾeṯ-nēr yiśrāʾēl (David, the lamp of Israel) vs. wa-dāʿiyan
-    ilā llāhi bi-idhnihi wa-sirājan munīrā (the prophet a shining lamp).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is sent as witness, bearer of good tidings and warner
     (weight 6.0). Pair score 6.0.'
@@ -69,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet is sent as witness, bearer of good tidings and warner
+kinds:
+- echo
+units:
+- id: hb-2sam-21-giants-of-gath
+  title: Four descendants of the Rapha slain
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet is sent as witness, bearer of good tidings and warner
+  note: 'The leader as lamp: wə-lōʾ ṯəḵabbeh ʾeṯ-nēr yiśrāʾēl (David, the lamp of Israel) vs. wa-dāʿiyan
+    ilā llāhi bi-idhnihi wa-sirājan munīrā (the prophet a shining lamp).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 21:17
+      lang: he
+      text: וַיַּֽעֲזָר לוֹ֙ אֲבִישַׁ֣י בֶּן צְרוּיָ֔ה וַיַּ֥ךְ אֶת הַפְּלִשְׁתִּ֖י וַיְמִיתֵ֑הוּ אָ֣ז
+        נִשְׁבְּעוּ֩ אַנְשֵׁי דָוִ֨ד ל֜וֹ לֵאמֹ֗ר לֹא תֵצֵ֨א ע֤וֹד אִתָּ֨נוּ֙ לַמִּלְחָמָ֔ה וְלֹ֥א תְכַבֶּ֖ה
+        אֶת נֵ֥ר יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 33:46
+      lang: ar
+      text: وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا
 ---
 
 ## Questions

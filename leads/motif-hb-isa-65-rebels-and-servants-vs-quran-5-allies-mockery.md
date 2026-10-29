@@ -2,8 +2,7 @@
 id: motif-hb-isa-65-rebels-and-servants-vs-quran-5-allies-mockery
 title: Found by those who did not seek; rebels and servants ↔ Allies, apostates replaced, the mocked call
   to prayer, apes and swine
-summary: 'These two units share 1 motifs: if god wills he takes you away and brings another people in
-  your place.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Isa 65:1
-  note: 'If God wills he takes you away and brings another people in your place (God turns from a rebellious
-    people to another. Q: man yartadda minkum ʿan dīnihi fa-sawfa yaʾtī llāhu bi-qawmin yuḥibbuhum wa-yuḥibbūnahu.
-    Isa: nimṣēʾtî lə-lōʾ viqšunî ... ʾel-gôy lōʾ-qōrāʾ vi-šmî; wə-la-ʿăvādāyw yiqrāʾ šēm ʾaḥēr.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נִדְרַ֨שְׁתִּי֙ לְל֣וֹא שָׁאָ֔לוּ נִמְצֵ֖אתִי לְלֹ֣א בִקְשֻׁ֑נִי אָמַ֨רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי
-    אֶל גּ֖וֹי לֹֽא קֹרָ֥א בִשְׁמִֽי
-- tradition: judaism
-  ref: Isa 65:15
-  note: 'If God wills he takes you away and brings another people in your place (God turns from a rebellious
-    people to another. Q: man yartadda minkum ʿan dīnihi fa-sawfa yaʾtī llāhu bi-qawmin yuḥibbuhum wa-yuḥibbūnahu.
-    Isa: nimṣēʾtî lə-lōʾ viqšunî ... ʾel-gôy lōʾ-qōrāʾ vi-šmî; wə-la-ʿăvādāyw yiqrāʾ šēm ʾaḥēr.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנַּחְתֶּ֨ם שִׁמְכֶ֤ם לִשְׁבוּעָה֙ לִבְחִירַ֔י וֶהֱמִיתְךָ֖ אֲדֹנָ֣י יְהוִ֑ה וְלַעֲבָדָ֥יו
-    יִקְרָ֖א שֵׁ֥ם אַחֵֽר
-- tradition: islam
-  ref: Quran 5:54
-  note: If God wills he takes you away and brings another people in your place (apostates replaced by
-    a people God loves)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ
-    بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ
-    يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ
-    مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. God turns from a rebellious people to another. Q: man yartadda minkum ʿan dīnihi fa-sawfa yaʾtī
-    llāhu bi-qawmin yuḥibbuhum wa-yuḥibbūnahu. Isa: nimṣēʾtî lə-lōʾ viqšunî ... ʾel-gôy lōʾ-qōrāʾ vi-šmî;
-    wə-la-ʿăvādāyw yiqrāʾ šēm ʾaḥēr.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God wills he takes you away and brings another people in your
     place (weight 4.9). Pair score 4.9.'
@@ -80,6 +48,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God wills he takes you away and brings another people in your place
+kinds:
+- echo
+units:
+- id: hb-isa-65-rebels-and-servants
+  title: Found by those who did not seek; rebels and servants
+  tradition: judaism
+- id: quran-5-allies-mockery
+  title: Allies, apostates replaced, the mocked call to prayer, apes and swine
+  tradition: islam
+matches:
+- kind: echo
+  label: If God wills he takes you away and brings another people in your place
+  note: 'God turns from a rebellious people to another. Q: man yartadda minkum ʿan dīnihi fa-sawfa yaʾtī
+    llāhu bi-qawmin yuḥibbuhum wa-yuḥibbūnahu. Isa: nimṣēʾtî lə-lōʾ viqšunî ... ʾel-gôy lōʾ-qōrāʾ vi-šmî;
+    wə-la-ʿăvādāyw yiqrāʾ šēm ʾaḥēr.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:1
+      lang: he
+      text: נִדְרַ֨שְׁתִּי֙ לְל֣וֹא שָׁאָ֔לוּ נִמְצֵ֖אתִי לְלֹ֣א בִקְשֻׁ֑נִי אָמַ֨רְתִּי֙ הִנֵּ֣נִי הִנֵּ֔נִי
+        אֶל גּ֖וֹי לֹֽא קֹרָ֥א בִשְׁמִֽי
+    - ref: Isa 65:15
+      lang: he
+      text: וְהִנַּחְתֶּ֨ם שִׁמְכֶ֤ם לִשְׁבוּעָה֙ לִבְחִירַ֔י וֶהֱמִיתְךָ֖ אֲדֹנָ֣י יְהוִ֑ה וְלַעֲבָדָ֥יו
+        יִקְרָ֖א שֵׁ֥ם אַחֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 5:54
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَن يَرْتَدَّ مِنكُمْ عَن دِينِهِۦ فَسَوْفَ يَأْتِى ٱللَّهُ
+        بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُۥٓ أَذِلَّةٍ عَلَى ٱلْمُؤْمِنِينَ أَعِزَّةٍ عَلَى ٱلْكَٰفِرِينَ
+        يُجَٰهِدُونَ فِى سَبِيلِ ٱللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَآئِمٍ ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ
+        مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-4-shunammite-vs-quran-19-zechariah-and-john
 title: The Shunammite woman and her son ↔ Zechariah's secret prayer and the birth of John (Surah 19:1-15)
-summary: 'These two units share 1 motifs: a divine messenger announces a son''s birth and gives his name.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,45 +13,9 @@ layers:
 - motif
 motifs:
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: islam
-  ref: Quran 19:7
-  note: A divine messenger announces a son's birth and gives his name (a boy named Yaḥyā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ سَمِيًّا
-- tradition: islam
-  ref: Quran 19:8
-  note: A divine messenger announces a son's birth and gives his name (a boy named Yaḥyā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ ٱلْكِبَرِ
-    عِتِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests
-    ʾal-təkazzēb bəšipḥātekā; nubashshiruka bi-ghulām ... annā yakūnu lī ghulām. A son promised where
-    the husband is old. The disbelief moves from the wife to the husband.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
     5.2). Pair score 5.2.'
@@ -87,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son's birth and gives his name
+kinds:
+- echo
+units:
+- id: hb-2kgs-4-shunammite
+  title: The Shunammite woman and her son
+  tradition: judaism
+- id: quran-19-zechariah-and-john
+  title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+  tradition: islam
+matches:
+- kind: echo
+  label: A divine messenger announces a son's birth and gives his name
+  note: bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests
+    ʾal-təkazzēb bəšipḥātekā; nubashshiruka bi-ghulām ... annā yakūnu lī ghulām. A son promised where
+    the husband is old. The disbelief moves from the wife to the husband.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:7
+      lang: ar
+      text: يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسْمُهُۥ يَحْيَىٰ لَمْ نَجْعَل لَّهُۥ مِن قَبْلُ
+        سَمِيًّا
+    - ref: Quran 19:8
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَكَانَتِ ٱمْرَأَتِى عَاقِرًا وَقَدْ بَلَغْتُ مِنَ
+        ٱلْكِبَرِ عِتِيًّا
 ---
 
 ## Questions

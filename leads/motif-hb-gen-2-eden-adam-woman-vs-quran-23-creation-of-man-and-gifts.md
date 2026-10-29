@@ -2,7 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-23-creation-of-man-and-gifts
 title: Second creation account, Eden, and the making of woman ↔ Man from clay through the stages of the
   womb; seven paths, water, Sinai's tree, cattle and ships
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
-    Gen 2:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 23:12
-  note: First human shaped from dust, clay or soil (sulāla min ṭīn, 'an extract of clay')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-la-qad khalaqnā l-insāna min sulālatin min ṭīnin ~ wa-yyîṣer YHWH ʾĕlōhîm ʾet hā-ʾādām
-    ʿāfār min hā-ʾădāmâ: the first human from the ground; Genesis has dust (ʿāfār) and the breath of life,
-    the Quran clay (ṭīn) and then the stages of the womb.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -70,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-23-creation-of-man-and-gifts
+  title: Man from clay through the stages of the womb; seven paths, water, Sinai's tree, cattle and ships
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'wa-la-qad khalaqnā l-insāna min sulālatin min ṭīnin ~ wa-yyîṣer YHWH ʾĕlōhîm ʾet hā-ʾādām ʿāfār
+    min hā-ʾădāmâ: the first human from the ground; Genesis has dust (ʿāfār) and the breath of life, the
+    Quran clay (ṭīn) and then the stages of the womb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 23:12
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ
 ---
 
 ## Questions

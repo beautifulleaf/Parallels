@@ -2,9 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-22-communities-prostration-hell-paradise
 title: Psalm 148, praise from heaven and earth ↔ Six communities judged; all things prostrate; garments
   of fire and bracelets of gold
-summary: 'These two units share 2 motifs: the place of humans in the worship offered by all creation [divergence
-  between the texts], all in heaven and earth prostrate to god: sun, moon, stars, mountains, trees, beasts
-  and many humans.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -19,76 +17,9 @@ layers:
 motifs:
 - humanity-in-the-cosmic-worship-as-divergence
 - all-creation-prostrates-to-god
-passages:
-- tradition: judaism
-  ref: Ps 148:11
-  note: 'The place of humans in the worship offered by all creation [divergence between the texts] (Ps
-    148:11-12 summons all humanity (malkê ʾereṣ wə-kol ləʾummîm ... zəqēnîm ʿim nəʿārîm) into the chorus;
-    Q 22:18 splits it: wa-kathīrun mina n-nāsi wa-kathīrun ḥaqqa ʿalayhi l-ʿadhābu, many humans prostrate
-    and many are due punishment. The Psalm''s call (imperative) becomes a statement of fact (a-lam tara).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְכֵי אֶ֭רֶץ וְכָל לְאֻמִּ֑ים שָׂ֝רִ֗ים וְכָל שֹׁ֥פְטֵי אָֽרֶץ
-- tradition: judaism
-  ref: Ps 148:12
-  note: 'The place of humans in the worship offered by all creation [divergence between the texts] (Ps
-    148:11-12 summons all humanity (malkê ʾereṣ wə-kol ləʾummîm ... zəqēnîm ʿim nəʿārîm) into the chorus;
-    Q 22:18 splits it: wa-kathīrun mina n-nāsi wa-kathīrun ḥaqqa ʿalayhi l-ʿadhābu, many humans prostrate
-    and many are due punishment. The Psalm''s call (imperative) becomes a statement of fact (a-lam tara).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּחוּרִ֥ים וְגַם בְּתוּל֑וֹת זְ֝קֵנִ֗ים עִם נְעָרִֽים
-- tradition: islam
-  ref: Quran 22:18
-  note: 'The place of humans in the worship offered by all creation [divergence between the texts] (Ps
-    148:11-12 summons all humanity (malkê ʾereṣ wə-kol ləʾummîm ... zəqēnîm ʿim nəʿārîm) into the chorus;
-    Q 22:18 splits it: wa-kathīrun mina n-nāsi wa-kathīrun ḥaqqa ʿalayhi l-ʿadhābu, many humans prostrate
-    and many are due punishment. The Psalm''s call (imperative) becomes a statement of fact (a-lam tara).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
-    وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
-    حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا
-    يَشَآءُ
-- tradition: judaism
-  ref: Ps 148:3
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans (wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
-    ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same
-    order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration
-    (yasjudu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל כּ֥וֹכְבֵי אֽוֹר
-- tradition: judaism
-  ref: Ps 148:9
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans (wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
-    ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same
-    order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration
-    (yasjudu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
-- tradition: islam
-  ref: Quran 22:18
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
-    وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
-    حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ مَا
-    يَشَآءُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu
-    ~ šemeš wə-yārēaḥ ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list
-    in nearly the same order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû),
-    the Quran prostration (yasjudu). Ps 148:11-12 summons all humanity (malkê ʾereṣ wə-kol ləʾummîm ...
-    zəqēnîm ʿim nəʿārîm) into the chorus; Q 22:18 splits it: wa-kathīrun mina n-nāsi wa-kathīrun ḥaqqa
-    ʿalayhi l-ʿadhābu, many humans prostrate and many are due punishment. The Psalm''s call (imperative)
-    becomes a statement of fact (a-lam tara).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The place of humans in the worship offered by all creation [divergence
     between the texts] (weight 6.7); All in heaven and earth prostrate to God: sun, moon, stars, mountains,
@@ -122,6 +53,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The place of humans in the worship offered by all creation
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-22-communities-prostration-hell-paradise
+  title: Six communities judged; all things prostrate; garments of fire and bracelets of gold
+  tradition: islam
+matches:
+- kind: divergence
+  label: The place of humans in the worship offered by all creation
+  note: 'Ps 148:11-12 summons all humanity (malkê ʾereṣ wə-kol ləʾummîm ... zəqēnîm ʿim nəʿārîm) into
+    the chorus; Q 22:18 splits it: wa-kathīrun mina n-nāsi wa-kathīrun ḥaqqa ʿalayhi l-ʿadhābu, many humans
+    prostrate and many are due punishment. The Psalm''s call (imperative) becomes a statement of fact
+    (a-lam tara).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:11
+      lang: he
+      text: מַלְכֵי אֶ֭רֶץ וְכָל לְאֻמִּ֑ים שָׂ֝רִ֗ים וְכָל שֹׁ֥פְטֵי אָֽרֶץ
+    - ref: Ps 148:12
+      lang: he
+      text: בַּחוּרִ֥ים וְגַם בְּתוּל֑וֹת זְ֝קֵנִ֗ים עִם נְעָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 22:18
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
+        وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
+        حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ
+        مَا يَشَآءُ
+- kind: parallel
+  label: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
+    humans'
+  note: 'wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
+    ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same
+    order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration
+    (yasjudu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:3
+      lang: he
+      text: הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל כּ֥וֹכְבֵי אֽוֹר
+    - ref: Ps 148:9
+      lang: he
+      text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
+    - ref: Ps 148:10
+      lang: he
+      text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 22:18
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَسْجُدُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَمَن فِى ٱلْأَرْضِ وَٱلشَّمْسُ
+        وَٱلْقَمَرُ وَٱلنُّجُومُ وَٱلْجِبَالُ وَٱلشَّجَرُ وَٱلدَّوَآبُّ وَكَثِيرٌ مِّنَ ٱلنَّاسِ وَكَثِيرٌ
+        حَقَّ عَلَيْهِ ٱلْعَذَابُ وَمَن يُهِنِ ٱللَّهُ فَمَا لَهُۥ مِن مُّكْرِمٍ إِنَّ ٱللَّهَ يَفْعَلُ
+        مَا يَشَآءُ
 ---
 
 ## Questions

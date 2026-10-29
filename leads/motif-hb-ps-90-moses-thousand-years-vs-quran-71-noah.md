@@ -2,8 +2,7 @@
 id: motif-hb-ps-90-moses-thousand-years-vs-quran-71-noah
 title: Psalm 90, prayer of Moses; a thousand years as yesterday ↔ Noah's preaching, the five idols and
   the flood
-summary: 'These two units share 2 motifs: human comes from dust and returns to dust [divergence between
-  the texts], human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,42 +15,9 @@ layers:
 motifs:
 - dust-to-dust-as-divergence
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Ps 90:3
-  note: Human comes from dust and returns to dust [divergence between the texts] (thumma yuʿīdukum fīhā
-    wa-yukhrijukum ikhrājan ~ tāšēv ʾĕnôš ʿad dakkāʾ wa-ttōʾmer šûvû venê ʾādām. Both have God return
-    humans to the earth; the Quran adds a second bringing-out (resurrection), the Psalm's šûvû is the
-    return to dust.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי אָדָֽם
-- tradition: islam
-  ref: Quran 71:18
-  note: Human comes from dust and returns to dust [divergence between the texts] (thumma yuʿīdukum fīhā
-    wa-yukhrijukum ikhrājan ~ tāšēv ʾĕnôš ʿad dakkāʾ wa-ttōʾmer šûvû venê ʾādām. Both have God return
-    humans to the earth; the Quran adds a second bringing-out (resurrection), the Psalm's šûvû is the
-    return to dust.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
-- tradition: judaism
-  ref: Ps 90:3
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי אָדָֽם
-- tradition: islam
-  ref: Quran 71:18
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. thumma yuʿīdukum fīhā wa-yukhrijukum ikhrājan ~ tāšēv ʾĕnôš ʿad dakkāʾ wa-ttōʾmer šûvû
-    venê ʾādām. Both have God return humans to the earth; the Quran adds a second bringing-out (resurrection),
-    the Psalm''s šûvû is the return to dust.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust [divergence between the
     texts] (weight 6.7); Human comes from dust and returns to dust (weight 5.0). Pair score 11.7.'
@@ -88,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- divergence
+units:
+- id: hb-ps-90-moses-thousand-years
+  title: Psalm 90, prayer of Moses; a thousand years as yesterday
+  tradition: judaism
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: divergence
+  label: Human comes from dust and returns to dust
+  note: thumma yuʿīdukum fīhā wa-yukhrijukum ikhrājan ~ tāšēv ʾĕnôš ʿad dakkāʾ wa-ttōʾmer šûvû venê ʾādām.
+    Both have God return humans to the earth; the Quran adds a second bringing-out (resurrection), the
+    Psalm's šûvû is the return to dust.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 90:3
+      lang: he
+      text: תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 71:18
+      lang: ar
+      text: ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا
 ---
 
 ## Questions

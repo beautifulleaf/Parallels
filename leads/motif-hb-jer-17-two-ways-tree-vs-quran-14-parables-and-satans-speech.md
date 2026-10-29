@@ -2,9 +2,7 @@
 id: motif-hb-jer-17-two-ways-tree-vs-quran-14-parables-and-satans-speech
 title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart ↔ Ashes in the wind,
   Satan disowns his followers, the good and bad tree (Surah 14:18-34)
-summary: 'These two units share 2 motifs: parable: a bad word is like a bad tree uprooted from the earth,
-  with no stability, the righteous man is like a tree planted by streams of water, bearing fruit in season,
-  leaf never withering.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,82 +16,9 @@ layers:
 motifs:
 - bad-word-like-uprooted-tree
 - righteous-as-tree-by-water
-passages:
-- tradition: judaism
-  ref: Jer 17:6
-  note: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability (Two plants
-    set against each other: kəʿarʿār bāʿărābâ ... ʾereṣ məlēḥâ versus kəʿēṣ šātûl ʿal-mayim ... yəšallaḥ
-    šārāšāyw ... wəlōʾ yāmîš mēʿăśôt perî; shajaratin ṭayyibatin aṣluhā thābit versus shajaratin khabīthatin
-    justhat min fawqi l-arḍi mā lahā min qarār. Jer''s measure is trust in man or in YHWH; Q''s is the
-    good or bad word.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ כְּעַרְעָ֣ר בָּֽעֲרָבָ֔ה וְלֹ֥א יִרְאֶ֖ה כִּי יָב֣וֹא ט֑וֹב וְשָׁכַ֤ן חֲרֵרִים֙ בַּמִּדְבָּ֔ר
-    אֶ֥רֶץ מְלֵחָ֖ה וְלֹ֥א תֵשֵֽׁב
-- tradition: judaism
-  ref: Jer 17:8
-  note: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability (Two plants
-    set against each other: kəʿarʿār bāʿărābâ ... ʾereṣ məlēḥâ versus kəʿēṣ šātûl ʿal-mayim ... yəšallaḥ
-    šārāšāyw ... wəlōʾ yāmîš mēʿăśôt perî; shajaratin ṭayyibatin aṣluhā thābit versus shajaratin khabīthatin
-    justhat min fawqi l-arḍi mā lahā min qarār. Jer''s measure is trust in man or in YHWH; Q''s is the
-    good or bad word.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֞ה כְּעֵ֣ץ שָׁת֣וּל עַל מַ֗יִם וְעַל יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א ירא יִרְאֶה֙
-    כִּֽי יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֨רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ
-    מֵעֲשׂ֥וֹת פֶּֽרִי
-- tradition: islam
-  ref: Quran 14:26
-  note: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا مِن
-    قَرَارٍ
-- tradition: islam
-  ref: Quran 14:24
-  note: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-    وَفَرْعُهَا فِى ٱلسَّمَآءِ
-- tradition: judaism
-  ref: Jer 17:7
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering (sends out roots by the stream; not anxious in a year of drought)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְהָיָ֥ה יְהוָ֖ה מִבְטַחֽוֹ
-- tradition: judaism
-  ref: Jer 17:8
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering (sends out roots by the stream; not anxious in a year of drought)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֞ה כְּעֵ֣ץ שָׁת֣וּל עַל מַ֗יִם וְעַל יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א ירא יִרְאֶה֙
-    כִּֽי יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֨רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ
-    מֵעֲשׂ֥וֹת פֶּֽרִי
-- tradition: islam
-  ref: Quran 14:24
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ
-    وَفَرْعُهَا فِى ٱلسَّمَآءِ
-- tradition: islam
-  ref: Quran 14:25
-  note: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
-    withering
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ
-    يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. Two plants set against each other: kəʿarʿār bāʿărābâ ... ʾereṣ məlēḥâ versus kəʿēṣ šātûl
-    ʿal-mayim ... yəšallaḥ šārāšāyw ... wəlōʾ yāmîš mēʿăśôt perî; shajaratin ṭayyibatin aṣluhā thābit
-    versus shajaratin khabīthatin justhat min fawqi l-arḍi mā lahā min qarār. Jer''s measure is trust
-    in man or in YHWH; Q''s is the good or bad word.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: a bad word is like a bad tree uprooted from the earth,
     with no stability (weight 6.7); The righteous man is like a tree planted by streams of water, bearing
@@ -130,6 +55,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-jer-17-two-ways-tree
+  title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart
+  tradition: judaism
+- id: quran-14-parables-and-satans-speech
+  title: Ashes in the wind, Satan disowns his followers, the good and bad tree (Surah 14:18-34)
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Parable: a bad word is like a bad tree uprooted from the earth, with no stability'
+  note: 'Two plants set against each other: kəʿarʿār bāʿărābâ ... ʾereṣ məlēḥâ versus kəʿēṣ šātûl ʿal-mayim
+    ... yəšallaḥ šārāšāyw ... wəlōʾ yāmîš mēʿăśôt perî; shajaratin ṭayyibatin aṣluhā thābit versus shajaratin
+    khabīthatin justhat min fawqi l-arḍi mā lahā min qarār. Jer''s measure is trust in man or in YHWH;
+    Q''s is the good or bad word.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:6
+      lang: he
+      text: וְהָיָה֙ כְּעַרְעָ֣ר בָּֽעֲרָבָ֔ה וְלֹ֥א יִרְאֶ֖ה כִּי יָב֣וֹא ט֑וֹב וְשָׁכַ֤ן חֲרֵרִים֙ בַּמִּדְבָּ֔ר
+        אֶ֥רֶץ מְלֵחָ֖ה וְלֹ֥א תֵשֵֽׁב
+    - ref: Jer 17:8
+      lang: he
+      text: וְהָיָ֞ה כְּעֵ֣ץ שָׁת֣וּל עַל מַ֗יִם וְעַל יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א ירא יִרְאֶה֙
+        כִּֽי יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֨רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ
+        מֵעֲשׂ֥וֹת פֶּֽרִי
+  - tradition: islam
+    passages:
+    - ref: Quran 14:24
+      lang: ar
+      text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا
+        ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ
+    - ref: Quran 14:26
+      lang: ar
+      text: وَمَثَلُ كَلِمَةٍ خَبِيثَةٍ كَشَجَرَةٍ خَبِيثَةٍ ٱجْتُثَّتْ مِن فَوْقِ ٱلْأَرْضِ مَا لَهَا
+        مِن قَرَارٍ
+- kind: shared
+  label: The righteous man is like a tree planted by streams of water, bearing fruit in season, leaf never
+    withering
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:7
+      lang: he
+      text: בָּר֣וּךְ הַגֶּ֔בֶר אֲשֶׁ֥ר יִבְטַ֖ח בַּֽיהוָ֑ה וְהָיָ֥ה יְהוָ֖ה מִבְטַחֽוֹ
+    - ref: Jer 17:8
+      lang: he
+      text: וְהָיָ֞ה כְּעֵ֣ץ שָׁת֣וּל עַל מַ֗יִם וְעַל יוּבַל֙ יְשַׁלַּ֣ח שָֽׁרָשָׁ֔יו וְלֹ֤א ירא יִרְאֶה֙
+        כִּֽי יָבֹ֣א חֹ֔ם וְהָיָ֥ה עָלֵ֖הוּ רַֽעֲנָ֑ן וּבִשְׁנַ֤ת בַּצֹּ֨רֶת֙ לֹ֣א יִדְאָ֔ג וְלֹ֥א יָמִ֖ישׁ
+        מֵעֲשׂ֥וֹת פֶּֽרִי
+    note: sends out roots by the stream; not anxious in a year of drought
+  - tradition: islam
+    passages:
+    - ref: Quran 14:24
+      lang: ar
+      text: أَلَمْ تَرَ كَيْفَ ضَرَبَ ٱللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا
+        ثَابِتٌ وَفَرْعُهَا فِى ٱلسَّمَآءِ
+    - ref: Quran 14:25
+      lang: ar
+      text: تُؤْتِىٓ أُكُلَهَا كُلَّ حِينٍۭ بِإِذْنِ رَبِّهَا وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ لِلنَّاسِ
+        لَعَلَّهُمْ يَتَذَكَّرُونَ
 ---
 
 ## Questions

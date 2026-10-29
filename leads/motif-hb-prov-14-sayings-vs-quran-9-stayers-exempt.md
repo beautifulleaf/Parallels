@@ -2,7 +2,7 @@
 id: motif-hb-prov-14-sayings-vs-quran-9-stayers-exempt
 title: Sayings on the wise woman, the poor and the king ↔ Those who stayed behind, the exempt, and the
   Bedouin
-summary: 'These two units share 1 motifs: even in laughter the heart may ache, and the end of joy is grief.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - laughter-with-aching-heart
-passages:
-- tradition: judaism
-  ref: Prov 14:13
-  note: Even in laughter the heart may ache, and the end of joy is grief
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם בִּשְׂח֥וֹק יִכְאַב לֵ֑ב וְאַחֲרִיתָ֖הּ שִׂמְחָ֣ה תוּגָֽה
-- tradition: islam
-  ref: Quran 9:81
-  note: 'Even in laughter the heart may ache, and the end of joy is grief (Present joy that ends in grief:
-    fariḥa l-mukhallafūna bi-maqʿadihim ... fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs gam-biśḥôq yikʾab-lēb
-    wᵉʾaḥărîtāh śimḥāh tûgāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟ بِأَمْوَٰلِهِمْ
-    وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ قُلْ نَارُ جَهَنَّمَ أَشَدُّ
-    حَرًّا لَّوْ كَانُوا۟ يَفْقَهُونَ
-- tradition: islam
-  ref: Quran 9:82
-  note: 'Even in laughter the heart may ache, and the end of joy is grief (Present joy that ends in grief:
-    fariḥa l-mukhallafūna bi-maqʿadihim ... fa-l-yaḍḥakū qalīlan wa-l-yabkū kathīran vs gam-biśḥôq yikʾab-lēb
-    wᵉʾaḥărîtāh śimḥāh tûgāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Present joy that ends in grief: fariḥa l-mukhallafūna bi-maqʿadihim ... fa-l-yaḍḥakū qalīlan
-    wa-l-yabkū kathīran vs gam-biśḥôq yikʾab-lēb wᵉʾaḥărîtāh śimḥāh tûgāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Even in laughter the heart may ache, and the end of joy is grief
     (weight 6.7). Pair score 6.7.'
@@ -74,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Even in laughter the heart may ache, and the end of joy is grief
+kinds:
+- echo
+units:
+- id: hb-prov-14-sayings
+  title: Sayings on the wise woman, the poor and the king
+  tradition: judaism
+- id: quran-9-stayers-exempt
+  title: Those who stayed behind, the exempt, and the Bedouin
+  tradition: islam
+matches:
+- kind: echo
+  label: Even in laughter the heart may ache, and the end of joy is grief
+  note: 'Present joy that ends in grief: fariḥa l-mukhallafūna bi-maqʿadihim ... fa-l-yaḍḥakū qalīlan
+    wa-l-yabkū kathīran vs gam-biśḥôq yikʾab-lēb wᵉʾaḥărîtāh śimḥāh tûgāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 14:13
+      lang: he
+      text: גַּם בִּשְׂח֥וֹק יִכְאַב לֵ֑ב וְאַחֲרִיתָ֖הּ שִׂמְחָ֣ה תוּגָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:81
+      lang: ar
+      text: فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَٰهِدُوا۟
+        بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ قُلْ
+        نَارُ جَهَنَّمَ أَشَدُّ حَرًّا لَّوْ كَانُوا۟ يَفْقَهُونَ
+    - ref: Quran 9:82
+      lang: ar
+      text: فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ
 ---
 
 ## Questions

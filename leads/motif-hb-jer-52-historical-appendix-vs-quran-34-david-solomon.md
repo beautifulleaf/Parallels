@@ -2,8 +2,7 @@
 id: motif-hb-jer-52-historical-appendix-vs-quran-34-david-solomon
 title: 'Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers, Jehoiachin''s
   release ↔ David''s mountains and mail; Solomon''s wind, copper, jinn and staff'
-summary: 'These two units share 1 motifs: a great cast-bronze ''sea'' basin rests on twelve bronze oxen
-  facing the four directions in threes.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - bronze-sea-on-twelve-oxen
-passages:
-- tradition: judaism
-  ref: Jer 52:17
-  note: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת עַמּוּדֵ֨י הַנְּחֹ֜שֶׁת אֲשֶׁ֣ר לְבֵית יְהוָ֗ה וְֽאֶת הַמְּכֹנ֞וֹת וְאֶת יָ֧ם הַנְּחֹ֛שֶׁת
-    אֲשֶׁ֥ר בְּבֵית יְהוָ֖ה שִׁבְּר֣וּ כַשְׂדִּ֑ים וַיִּשְׂא֥וּ אֶת כָּל נְחֻשְׁתָּ֖ם בָּבֶֽלָה
-- tradition: judaism
-  ref: Jer 52:20
-  note: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָעַמּוּדִ֣ים שְׁנַ֗יִם הַיָּ֤ם אֶחָד֙ וְהַבָּקָ֞ר שְׁנֵים עָשָׂ֤ר נְחֹ֨שֶׁת֙ אֲשֶׁר תַּ֣חַת הַמְּכֹנ֔וֹת
-    אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה לְבֵ֣ית יְהוָ֑ה לֹא הָיָ֣ה מִשְׁקָ֔ל לִנְחֻשְׁתָּ֖ם כָּל הַכֵּלִ֥ים
-    הָאֵֽלֶּה
-- tradition: islam
-  ref: Quran 34:13
-  note: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
-    ('basins like reservoirs (jawab) and fixed cauldrons' made for Solomon)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ha-yyām ʾeḥāḏ wə-ha-bbāqār šənêm-ʿāśār nəḥōšeṯ ... ʾăšer ʿāśâ ha-mmeleḵ šəlōmōh ... lōʾ-hāyâ
-    mišqāl li-nḥuštām vs. ʿayna l-qiṭr ... jifānin ka-l-jawāb: Solomon''s bronze too much to weigh, and
-    a spring of it in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A great cast-bronze ''sea'' basin rests on twelve bronze oxen facing
     the four directions in threes (weight 6.0). Pair score 6.0.'
@@ -78,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
+kinds:
+- echo
+units:
+- id: hb-jer-52-historical-appendix
+  title: 'Historical appendix: siege, burning of the temple, bronze spoils, deportation numbers, Jehoiachin''s
+    release'
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: A great cast-bronze 'sea' basin rests on twelve bronze oxen facing the four directions in threes
+  note: 'ha-yyām ʾeḥāḏ wə-ha-bbāqār šənêm-ʿāśār nəḥōšeṯ ... ʾăšer ʿāśâ ha-mmeleḵ šəlōmōh ... lōʾ-hāyâ
+    mišqāl li-nḥuštām vs. ʿayna l-qiṭr ... jifānin ka-l-jawāb: Solomon''s bronze too much to weigh, and
+    a spring of it in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 52:17
+      lang: he
+      text: וְאֶת עַמּוּדֵ֨י הַנְּחֹ֜שֶׁת אֲשֶׁ֣ר לְבֵית יְהוָ֗ה וְֽאֶת הַמְּכֹנ֞וֹת וְאֶת יָ֧ם הַנְּחֹ֛שֶׁת
+        אֲשֶׁ֥ר בְּבֵית יְהוָ֖ה שִׁבְּר֣וּ כַשְׂדִּ֑ים וַיִּשְׂא֥וּ אֶת כָּל נְחֻשְׁתָּ֖ם בָּבֶֽלָה
+    - ref: Jer 52:20
+      lang: he
+      text: הָעַמּוּדִ֣ים שְׁנַ֗יִם הַיָּ֤ם אֶחָד֙ וְהַבָּקָ֞ר שְׁנֵים עָשָׂ֤ר נְחֹ֨שֶׁת֙ אֲשֶׁר תַּ֣חַת
+        הַמְּכֹנ֔וֹת אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה לְבֵ֣ית יְהוָ֑ה לֹא הָיָ֣ה מִשְׁקָ֔ל לִנְחֻשְׁתָּ֖ם
+        כָּל הַכֵּלִ֥ים הָאֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 34:13
+      lang: ar
+      text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ
+        رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 ---
 
 ## Questions

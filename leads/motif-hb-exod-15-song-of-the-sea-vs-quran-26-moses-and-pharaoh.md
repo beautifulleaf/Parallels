@@ -2,7 +2,7 @@
 id: motif-hb-exod-15-song-of-the-sea-vs-quran-26-moses-and-pharaoh
 title: The Song of the Sea and Miriam's song ↔ Moses and Pharaoh disputing; the magicians; the sea split
   like mountains
-summary: 'These two units share 1 motifs: the sea splits and each part is like a great mountain (ṭawd).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - sea-parts-each-side-like-mountain
-passages:
-- tradition: judaism
-  ref: Exod 15:8
-  note: 'The sea splits and each part is like a great mountain (ṭawd) (fa-kāna kullu firqin ka-ṭ-ṭawdi
-    l-ʿaẓīmi ~ ne-ʿermû mayim niṣṣəvû khəmô nēd nōzəlîm: the parted waters stand up like a heap or mountain.
-    In the Song the waters pile up by the blast of God''s nostrils (û-və-rûaḥ ʾappêkā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְר֤וּחַ אַפֶּ֨יךָ֙ נֶ֣עֶרְמוּ מַ֔יִם נִצְּב֥וּ כְמוֹ נֵ֖ד נֹזְלִ֑ים קָֽפְא֥וּ תְהֹמֹ֖ת בְּלֶב
-    יָֽם
-- tradition: islam
-  ref: Quran 26:63
-  note: The sea splits and each part is like a great mountain (ṭawd)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
-    كَٱلطَّوْدِ ٱلْعَظِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. fa-kāna kullu firqin ka-ṭ-ṭawdi l-ʿaẓīmi ~ ne-ʿermû mayim niṣṣəvû khəmô nēd nōzəlîm: the
-    parted waters stand up like a heap or mountain. In the Song the waters pile up by the blast of God''s
-    nostrils (û-və-rûaḥ ʾappêkā).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sea splits and each part is like a great mountain (ṭawd) (weight
     6.7). Pair score 6.7.'
@@ -70,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sea splits and each part is like a great mountain (ṭawd)
+kinds:
+- parallel
+units:
+- id: hb-exod-15-song-of-the-sea
+  title: The Song of the Sea and Miriam's song
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: parallel
+  label: The sea splits and each part is like a great mountain (ṭawd)
+  note: 'fa-kāna kullu firqin ka-ṭ-ṭawdi l-ʿaẓīmi ~ ne-ʿermû mayim niṣṣəvû khəmô nēd nōzəlîm: the parted
+    waters stand up like a heap or mountain. In the Song the waters pile up by the blast of God''s nostrils
+    (û-və-rûaḥ ʾappêkā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:8
+      lang: he
+      text: וּבְר֤וּחַ אַפֶּ֨יךָ֙ נֶ֣עֶרְמוּ מַ֔יִם נִצְּב֥וּ כְמוֹ נֵ֖ד נֹזְלִ֑ים קָֽפְא֥וּ תְהֹמֹ֖ת
+        בְּלֶב יָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:63
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ
+        كَٱلطَّوْدِ ٱلْعَظِيمِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-56-waqia-left-hand-and-proofs
 title: Job - 'Your hands fashioned me'; land of darkness ↔ The Companions of the Left in smoke and samum;
   who creates semen, crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 1 motifs: have you seen what you emit? do you create it, or are we the
-  creator?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 - motif
 motifs:
 - do-you-create-your-semen
-passages:
-- tradition: judaism
-  ref: Job 10:10
-  note: 'Have you seen what you emit? Do you create it, or are we the creator? (God forms the fetus from
-    emitted fluid: hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵag-gəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. a-fa-raʾaytum
-    mā tumnūn a-antum takhluqūnahu am naḥnu l-khāliqūn. Job addresses God as maker in a complaint (why
-    destroy what you made?); the Quran asks men who the creator is, as proof of the resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
-- tradition: judaism
-  ref: Job 10:11
-  note: 'Have you seen what you emit? Do you create it, or are we the creator? (God forms the fetus from
-    emitted fluid: hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵag-gəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî vs. a-fa-raʾaytum
-    mā tumnūn a-antum takhluqūnahu am naḥnu l-khāliqūn. Job addresses God as maker in a complaint (why
-    destroy what you made?); the Quran asks men who the creator is, as proof of the resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
-- tradition: islam
-  ref: Quran 56:58
-  note: Have you seen what you emit? Do you create it, or are we the creator?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُم مَّا تُمْنُونَ
-- tradition: islam
-  ref: Quran 56:59
-  note: Have you seen what you emit? Do you create it, or are we the creator?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God forms the fetus from emitted fluid: hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵag-gəḇinnâ taqpîʾēnî
-    ʿôr û-ḇāśār talbîšēnî vs. a-fa-raʾaytum mā tumnūn a-antum takhluqūnahu am naḥnu l-khāliqūn. Job addresses
-    God as maker in a complaint (why destroy what you made?); the Quran asks men who the creator is, as
-    proof of the resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have you seen what you emit? Do you create it, or are we the creator?
     (weight 6.3). Pair score 6.3.'
@@ -90,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Have you seen what you emit? Do you create it, or are we the creator?
+kinds:
+- parallel
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: parallel
+  label: Have you seen what you emit? Do you create it, or are we the creator?
+  note: 'God forms the fetus from emitted fluid: hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵag-gəḇinnâ taqpîʾēnî ʿôr
+    û-ḇāśār talbîšēnî vs. a-fa-raʾaytum mā tumnūn a-antum takhluqūnahu am naḥnu l-khāliqūn. Job addresses
+    God as maker in a complaint (why destroy what you made?); the Quran asks men who the creator is, as
+    proof of the resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    - ref: Job 10:11
+      lang: he
+      text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 56:58
+      lang: ar
+      text: أَفَرَءَيْتُم مَّا تُمْنُونَ
+    - ref: Quran 56:59
+      lang: ar
+      text: ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ
 ---
 
 ## Questions

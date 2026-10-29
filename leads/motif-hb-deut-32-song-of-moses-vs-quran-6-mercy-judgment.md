@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-6-mercy-judgment
 title: The Song of Moses (Ha'azinu) ↔ Mercy written on himself; the idolaters' denial at the gathering
-summary: 'These two units share 1 motifs: god mocks: where are their gods who ate the fat of their sacrifices?
-  let them rise and help.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - mocking-where-are-their-gods
-passages:
-- tradition: judaism
-  ref: Deut 32:37
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
-- tradition: judaism
-  ref: Deut 32:38
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י
-    עֲלֵיכֶ֖ם סִתְרָֽה
-- tradition: islam
-  ref: Quran 6:22
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (cf.
-    Deut 32:37)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ ٱلَّذِينَ
-    كُنتُمْ تَزْعُمُونَ
-- tradition: islam
-  ref: Quran 6:24
-  note: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help (cf.
-    Deut 32:37)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. God asks where the false gods are. Q: ayna shurakāʾukumu lladhīna kuntum tazʿumūna ... wa-ḍalla
-    ʿanhum mā kānū yaftarūn. Deut: ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ʾăšer ḥēlev zəvāḥêmô yōʾkhēlû ... yāqûmû
-    wə-yaʿzərukhem. Deut sets it in history; Q on the day of gathering (yawma naḥshuruhum).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God mocks: where are their gods who ate the fat of their sacrifices?
     let them rise and help (weight 5.8). Pair score 5.8.'
@@ -83,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-6-mercy-judgment
+  title: Mercy written on himself; the idolaters' denial at the gathering
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'God mocks: where are their gods who ate the fat of their sacrifices? let them rise and help'
+  note: 'God asks where the false gods are. Q: ayna shurakāʾukumu lladhīna kuntum tazʿumūna ... wa-ḍalla
+    ʿanhum mā kānū yaftarūn. Deut: ʾê ʾĕlōhêmô ṣûr ḥāsāyû vô ʾăšer ḥēlev zəvāḥêmô yōʾkhēlû ... yāqûmû
+    wə-yaʿzərukhem. Deut sets it in history; Q on the day of gathering (yawma naḥshuruhum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:37
+      lang: he
+      text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
+    - ref: Deut 32:38
+      lang: he
+      text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם
+        יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:22
+      lang: ar
+      text: وَيَوْمَ نَحْشُرُهُمْ جَمِيعًا ثُمَّ نَقُولُ لِلَّذِينَ أَشْرَكُوٓا۟ أَيْنَ شُرَكَآؤُكُمُ
+        ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ
+    - ref: Quran 6:24
+      lang: ar
+      text: ٱنظُرْ كَيْفَ كَذَبُوا۟ عَلَىٰٓ أَنفُسِهِمْ وَضَلَّ عَنْهُم مَّا كَانُوا۟ يَفْتَرُونَ
 ---
 
 ## Questions

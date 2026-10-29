@@ -2,9 +2,7 @@
 id: motif-hb-deut-16-festivals-judges-vs-quran-22-abraham-house-pilgrimage
 title: Passover, Weeks, Booths; judges; no Asherah ↔ Abraham, the Ancient House and the rites of pilgrimage
   and sacrifice
-summary: 'These two units share 3 motifs: eat of the sacrificial animals and feed the wretched poor and
-  the needy, who must make pilgrimage to the sanctuary, and how often [divergence between the texts],
-  three annual pilgrimage festivals when every male appears before god.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,115 +18,9 @@ motifs:
 - eat-of-sacrifice-and-feed-the-poor
 - pilgrimage-festival-calendar-as-divergence
 - three-pilgrimage-festivals
-passages:
-- tradition: judaism
-  ref: Deut 16:11
-  note: 'Eat of the sacrificial animals and feed the wretched poor and the needy (fa-kulū minhā wa-aṭʿimū
-    l-bāʾisa l-faqīra ... al-qāniʿa wa-l-muʿtarra ~ wə-śāmaḥtā lifnê YHWH ... wə-hal-lēwî wə-hag-gēr wə-hay-yātôm
-    wə-hā-ʾalmānâ: the pilgrim eats at the sanctuary and includes the needy; Deut names Levite, stranger,
-    orphan and widow, the Quran the wretched poor, the contented and the one who asks.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׂמַחְתָּ֞ לִפְנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶךָ֒
-    וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ בַּמָּק֗וֹם
-    אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם
-- tradition: judaism
-  ref: Deut 16:14
-  note: 'Eat of the sacrificial animals and feed the wretched poor and the needy (fa-kulū minhā wa-aṭʿimū
-    l-bāʾisa l-faqīra ... al-qāniʿa wa-l-muʿtarra ~ wə-śāmaḥtā lifnê YHWH ... wə-hal-lēwî wə-hag-gēr wə-hay-yātôm
-    wə-hā-ʾalmānâ: the pilgrim eats at the sanctuary and includes the needy; Deut names Levite, stranger,
-    orphan and widow, the Quran the wretched poor, the contented and the one who asks.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֨ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י וְהַגֵּ֛ר
-    וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
-- tradition: islam
-  ref: Quran 22:28
-  note: Eat of the sacrificial animals and feed the wretched poor and the needy
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
-- tradition: islam
-  ref: Quran 22:36
-  note: Eat of the sacrificial animals and feed the wretched poor and the needy
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ
-    ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ
-    وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-- tradition: judaism
-  ref: Deut 16:16
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (šālôš
-    pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā ... wə-lōʾ yērāʾeh ʾet pənê YHWH rêqām ~ yaʾtūka rijālan wa-ʿalā
-    kulli ḍāmirin ... li-yashhadū manāfiʿa lahum: in Deut every male appears three times a year and must
-    not come empty-handed, in the Quran all people come once to witness benefits for themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁל֣וֹשׁ פְּעָמִ֣ים בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל זְכוּרְךָ֜ אֶת פְּנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙
-    אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת
-    פְּנֵ֥י יְהוָ֖ה רֵיקָֽם
-- tradition: islam
-  ref: Quran 22:27
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: 'Who must make pilgrimage to the sanctuary, and how often [divergence between the texts] (waʾadhdhin
-    fī n-nāsi bi-l-ḥajji ~ šālōš rəgālîm tāḥōg lî ba-šānâ: cognate ḥajj / ḥāgag. Exodus: three festivals
-    a year, kol zəkûrkā ''every male of yours'' appears before ''the Lord YHWH''; Quran: one pilgrimage
-    proclaimed by Abraham to ''the people'' (fī n-nās), coming on foot and on lean camels from every deep
-    ravine, on ''known days'' (ayyām maʿlūmāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
-- tradition: judaism
-  ref: Deut 16:16
-  note: Three annual pilgrimage festivals when every male appears before God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁל֣וֹשׁ פְּעָמִ֣ים בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל זְכוּרְךָ֜ אֶת פְּנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙
-    אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה אֶת
-    פְּנֵ֥י יְהוָ֖ה רֵיקָֽם
-- tradition: judaism
-  ref: Deut 16:17
-  note: Three annual pilgrimage festivals when every male appears before God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן לָֽךְ
-- tradition: islam
-  ref: Quran 22:27
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
-    فَجٍّ عَمِيقٍ
-- tradition: islam
-  ref: Quran 22:28
-  note: Three annual pilgrimage festivals when every male appears before God (pilgrimage on 'appointed
-    days' (ayyām maʿlūmāt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
-    مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. fa-kulū minhā wa-aṭʿimū l-bāʾisa l-faqīra ... al-qāniʿa wa-l-muʿtarra ~ wə-śāmaḥtā
-    lifnê YHWH ... wə-hal-lēwî wə-hag-gēr wə-hay-yātôm wə-hā-ʾalmānâ: the pilgrim eats at the sanctuary
-    and includes the needy; Deut names Levite, stranger, orphan and widow, the Quran the wretched poor,
-    the contented and the one who asks. šālôš pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā ... wə-lōʾ yērāʾeh ʾet
-    pənê YHWH rêqām ~ yaʾtūka rijālan wa-ʿalā kulli ḍāmirin ... li-yashhadū manāfiʿa lahum: in Deut every
-    male appears three times a year and must not come empty-handed, in the Quran all people come once
-    to witness benefits for themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eat of the sacrificial animals and feed the wretched poor and the
     needy (weight 6.7); Who must make pilgrimage to the sanctuary, and how often [divergence between the
@@ -167,6 +59,95 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who must make pilgrimage to the sanctuary, and how often
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-deut-16-festivals-judges
+  title: Passover, Weeks, Booths; judges; no Asherah
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who must make pilgrimage to the sanctuary, and how often
+  note: 'šālôš pəʿāmîm ba-šānâ yērāʾeh kol zəkûrkā ... wə-lōʾ yērāʾeh ʾet pənê YHWH rêqām ~ yaʾtūka rijālan
+    wa-ʿalā kulli ḍāmirin ... li-yashhadū manāfiʿa lahum: in Deut every male appears three times a year
+    and must not come empty-handed, in the Quran all people come once to witness benefits for themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 16:16
+      lang: he
+      text: שָׁל֣וֹשׁ פְּעָמִ֣ים בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל זְכוּרְךָ֜ אֶת פְּנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙
+        אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה
+        אֶת פְּנֵ֥י יְהוָ֖ה רֵיקָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+- kind: parallel
+  label: Eat of the sacrificial animals and feed the wretched poor and the needy
+  note: 'fa-kulū minhā wa-aṭʿimū l-bāʾisa l-faqīra ... al-qāniʿa wa-l-muʿtarra ~ wə-śāmaḥtā lifnê YHWH
+    ... wə-hal-lēwî wə-hag-gēr wə-hay-yātôm wə-hā-ʾalmānâ: the pilgrim eats at the sanctuary and includes
+    the needy; Deut names Levite, stranger, orphan and widow, the Quran the wretched poor, the contented
+    and the one who asks.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 16:11
+      lang: he
+      text: וְשָׂמַחְתָּ֞ לִפְנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ אַתָּ֨ה וּבִנְךָ֣ וּבִתֶּךָ֮ וְעַבְדְּךָ֣ וַאֲמָתֶךָ֒
+        וְהַלֵּוִי֙ אֲשֶׁ֣ר בִּשְׁעָרֶ֔יךָ וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֣ר בְּקִרְבֶּ֑ךָ
+        בַּמָּק֗וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם
+    - ref: Deut 16:14
+      lang: he
+      text: וְשָׂמַחְתָּ֖ בְּחַגֶּ֑ךָ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֨ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֗י
+        וְהַגֵּ֛ר וְהַיָּת֥וֹם וְהָאַלְמָנָ֖ה אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+    - ref: Quran 22:36
+      lang: ar
+      text: وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ
+        ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ
+        وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+- kind: shared
+  label: Three annual pilgrimage festivals when every male appears before God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 16:16
+      lang: he
+      text: שָׁל֣וֹשׁ פְּעָמִ֣ים בַּשָּׁנָ֡ה יֵרָאֶ֨ה כָל זְכוּרְךָ֜ אֶת פְּנֵ֣י יְהוָ֣ה אֱלֹהֶ֗יךָ בַּמָּקוֹם֙
+        אֲשֶׁ֣ר יִבְחָ֔ר בְּחַ֧ג הַמַּצּ֛וֹת וּבְחַ֥ג הַשָּׁבֻע֖וֹת וּבְחַ֣ג הַסֻּכּ֑וֹת וְלֹ֧א יֵרָאֶ֛ה
+        אֶת פְּנֵ֥י יְהוָ֖ה רֵיקָֽם
+    - ref: Deut 16:17
+      lang: he
+      text: אִ֖ישׁ כְּמַתְּנַ֣ת יָד֑וֹ כְּבִרְכַּ֛ת יְהוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר נָֽתַן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:27
+      lang: ar
+      text: وَأَذِّن فِى ٱلنَّاسِ بِٱلْحَجِّ يَأْتُوكَ رِجَالًا وَعَلَىٰ كُلِّ ضَامِرٍ يَأْتِينَ مِن كُلِّ
+        فَجٍّ عَمِيقٍ
+    - ref: Quran 22:28
+      lang: ar
+      text: لِّيَشْهَدُوا۟ مَنَٰفِعَ لَهُمْ وَيَذْكُرُوا۟ ٱسْمَ ٱللَّهِ فِىٓ أَيَّامٍ مَّعْلُومَٰتٍ عَلَىٰ
+        مَا رَزَقَهُم مِّنۢ بَهِيمَةِ ٱلْأَنْعَٰمِ فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْبَآئِسَ ٱلْفَقِيرَ
+    note: pilgrimage on 'appointed days' (ayyām maʿlūmāt)
 ---
 
 ## Questions

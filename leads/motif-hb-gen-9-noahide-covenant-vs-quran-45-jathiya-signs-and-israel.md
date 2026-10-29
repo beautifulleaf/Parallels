@@ -2,7 +2,7 @@
 id: motif-hb-gen-9-noahide-covenant-vs-quran-45-jathiya-signs-and-israel
 title: 'Blessing of Noah, blood laws and the covenant of the bow ↔ Ha-Mim: the signs, the scornful liar,
   Israel''s book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: humans given rule over animals.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - human-dominion-over-animals
-passages:
-- tradition: judaism
-  ref: Gen 9:2
-  note: Humans given rule over animals (now as fear and dread)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כָּל חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כָּל ע֣וֹף הַשָּׁמָ֑יִם
-    בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכָל דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ
-- tradition: islam
-  ref: Quran 45:13
-  note: Humans given rule over animals (extended to everything in heaven and earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. û-môraʾăḵem wə-ḥittəḵem yihyeh ʿal kol ḥayyaṯ hā-ʾāreṣ ... bə-yeḏḵem nittānû (fear and dread
-    of you on every animal; into your hand they are given) vs. sakhkhara lakum ... jamīʿan minhu. After
-    the flood the rule rests on fear; in the Quran on God''s gift (minhu).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans given rule over animals (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -70,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans given rule over animals
+kinds:
+- echo
+units:
+- id: hb-gen-9-noahide-covenant
+  title: Blessing of Noah, blood laws and the covenant of the bow
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: echo
+  label: Humans given rule over animals
+  note: û-môraʾăḵem wə-ḥittəḵem yihyeh ʿal kol ḥayyaṯ hā-ʾāreṣ ... bə-yeḏḵem nittānû (fear and dread of
+    you on every animal; into your hand they are given) vs. sakhkhara lakum ... jamīʿan minhu. After the
+    flood the rule rests on fear; in the Quran on God's gift (minhu).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:2
+      lang: he
+      text: וּמוֹרַאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כָּל חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כָּל ע֣וֹף הַשָּׁמָ֑יִם
+        בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּֽבְכָל דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:13
+      lang: ar
+      text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

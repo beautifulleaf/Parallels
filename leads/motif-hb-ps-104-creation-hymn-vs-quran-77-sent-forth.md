@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-77-sent-forth
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Those sent forth: the refrain
   of woe'
-summary: 'These two units share 1 motifs: god makes winds his messengers (angels) and flaming fire his
-  ministers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - winds-as-angels-fire-as-ministers
-passages:
-- tradition: judaism
-  ref: Ps 104:4
-  note: God makes winds his messengers (angels) and flaming fire his ministers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
-- tradition: islam
-  ref: Quran 77:1
-  note: God makes winds his messengers (angels) and flaming fire his ministers (al-mursalat may be winds
-    or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْمُرْسَلَٰتِ عُرْفًا
-- tradition: islam
-  ref: Quran 77:2
-  note: God makes winds his messengers (angels) and flaming fire his ministers (al-mursalat may be winds
-    or angels)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْعَٰصِفَٰتِ عَصْفًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-l-mursalāti ʿurfan fa-l-ʿāṣifāti ʿaṣfan wa-n-nāshirāti nashran (by those sent forth, storming,
-    spreading: winds or angels) ~ ʿōśeh malʾākāyw rûḥôt mešāretāyw ʾēš lōhēṭ: the same ambiguity of sent
-    ones (malʾākîm / mursalāt) and winds.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes winds his messengers (angels) and flaming fire his ministers
     (weight 5.8). Pair score 5.8.'
@@ -77,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes winds his messengers (angels) and flaming fire his ministers
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-77-sent-forth
+  title: 'Those sent forth: the refrain of woe'
+  tradition: islam
+matches:
+- kind: echo
+  label: God makes winds his messengers (angels) and flaming fire his ministers
+  note: 'wa-l-mursalāti ʿurfan fa-l-ʿāṣifāti ʿaṣfan wa-n-nāshirāti nashran (by those sent forth, storming,
+    spreading: winds or angels) ~ ʿōśeh malʾākāyw rûḥôt mešāretāyw ʾēš lōhēṭ: the same ambiguity of sent
+    ones (malʾākîm / mursalāt) and winds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:4
+      lang: he
+      text: עֹשֶׂ֣ה מַלְאָכָ֣יו רוּח֑וֹת מְ֝שָׁרְתָ֗יו אֵ֣שׁ לֹהֵֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 77:1
+      lang: ar
+      text: وَٱلْمُرْسَلَٰتِ عُرْفًا
+    - ref: Quran 77:2
+      lang: ar
+      text: فَٱلْعَٰصِفَٰتِ عَصْفًا
+    - ref: Quran 77:3
+      lang: ar
+      text: وَٱلنَّٰشِرَٰتِ نَشْرًا
 ---
 
 ## Questions

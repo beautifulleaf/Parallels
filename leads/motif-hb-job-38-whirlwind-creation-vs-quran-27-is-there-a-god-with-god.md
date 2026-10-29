@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-27-is-there-a-god-with-god
 title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   litany 'Is there a god with God?' and the unseen
-summary: 'These two units share 1 motifs: god sends rain on the desert where no human lives, to make grass
-  sprout.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - rain-on-uninhabited-desert
-passages:
-- tradition: judaism
-  ref: Job 38:25-27
-  note: God sends rain on the desert where no human lives, to make grass sprout (God sends rain on land
-    where no man is, a channel cut for the torrent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (38:25) מִֽי פִלַּ֣ג לַשֶּׁ֣טֶף תְּעָלָ֑ה וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת (38:26) לְ֭הַמְטִיר עַל
-    אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ (38:27) לְהַשְׂבִּ֣יעַ שֹׁ֭אָה וּמְשֹׁאָ֑ה וּ֝לְהַצְמִ֗יחַ
-    מֹ֣צָא דֶֽשֶׁא
-- tradition: judaism
-  ref: Job 38:26
-  note: God sends rain on the desert where no human lives, to make grass sprout (God sends rain on land
-    where no man is, a channel cut for the torrent)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְ֭הַמְטִיר עַל אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ
-- tradition: islam
-  ref: Quran 27:60
-  note: 'God sends rain on the desert where no human lives, to make grass sprout (amman ... anzala lakum
-    mina s-samāʾi māʾan fa-anbatnā bihi ḥadāʾiqa ... mā kāna lakum an tunbitū shajarahā ~ mî fillag laš-šeṭef
-    təʿālâ ... ləhamṭîr ʿal ʾereṣ lōʾ ʾîš ... û-lhaṣmîaḥ môṣāʾ dešeʾ: ''who'' questions about rain and
-    growth that humans cannot cause; Job''s rain falls where no human is, the Quran''s gardens grow for
-    humans who could not grow them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
-    بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
-    بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. amman ... anzala lakum mina s-samāʾi māʾan fa-anbatnā bihi ḥadāʾiqa ... mā kāna lakum an tunbitū
-    shajarahā ~ mî fillag laš-šeṭef təʿālâ ... ləhamṭîr ʿal ʾereṣ lōʾ ʾîš ... û-lhaṣmîaḥ môṣāʾ dešeʾ:
-    ''who'' questions about rain and growth that humans cannot cause; Job''s rain falls where no human
-    is, the Quran''s gardens grow for humans who could not grow them.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sends rain on the desert where no human lives, to make grass
     sprout (weight 6.3). Pair score 6.3.'
@@ -84,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends rain on the desert where no human lives, to make grass sprout
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: echo
+  label: God sends rain on the desert where no human lives, to make grass sprout
+  note: 'amman ... anzala lakum mina s-samāʾi māʾan fa-anbatnā bihi ḥadāʾiqa ... mā kāna lakum an tunbitū
+    shajarahā ~ mî fillag laš-šeṭef təʿālâ ... ləhamṭîr ʿal ʾereṣ lōʾ ʾîš ... û-lhaṣmîaḥ môṣāʾ dešeʾ:
+    ''who'' questions about rain and growth that humans cannot cause; Job''s rain falls where no human
+    is, the Quran''s gardens grow for humans who could not grow them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:25
+      lang: he
+      text: מִֽי פִלַּ֣ג לַשֶּׁ֣טֶף תְּעָלָ֑ה וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת
+    - ref: Job 38:26
+      lang: he
+      text: לְ֭הַמְטִיר עַל אֶ֣רֶץ לֹא אִ֑ישׁ מִ֝דְבָּ֗ר לֹא אָדָ֥ם בּֽוֹ
+    - ref: Job 38:27
+      lang: he
+      text: לְהַשְׂבִּ֣יעַ שֹׁ֭אָה וּמְשֹׁאָ֑ה וּ֝לְהַצְמִ֗יחַ מֹ֣צָא דֶֽשֶׁא
+  - tradition: islam
+    passages:
+    - ref: Quran 27:60
+      lang: ar
+      text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
+        بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
+        بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-2-anointed-son-vs-quran-2-abraham-king
 title: Psalm 2 - the nations rage; the king as God's son ↔ Abraham disputes with the king
-summary: 'These two units share 1 motifs: nations and kings of the earth conspire against yhwh and his
-  anointed (mashiah).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +13,9 @@ layers:
 - motif
 motifs:
 - nations-rage-against-anointed
-passages:
-- tradition: judaism
-  ref: Ps 2:1-3
-  note: Nations and kings of the earth conspire against YHWH and his anointed (mashiah) ('let us burst
-    their bonds')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (2:1) לָ֭מָּה רָגְשׁ֣וּ גוֹיִ֑ם וּ֝לְאֻמִּ֗ים יֶהְגּוּ רִֽיק (2:2) יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ
-    וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ (2:3) נְֽ֭נַתְּקָה אֶת מֽוֹסְרוֹתֵ֑ימוֹ
-    וְנַשְׁלִ֖יכָה מִמֶּ֣נּוּ עֲבֹתֵֽימוֹ
-- tradition: judaism
-  ref: Ps 2:2
-  note: Nations and kings of the earth conspire against YHWH and his anointed (mashiah) ('let us burst
-    their bonds')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
-- tradition: islam
-  ref: Quran 2:258
-  note: 'Nations and kings of the earth conspire against YHWH and his anointed (mashiah) (Ps 2:2 yityaṣṣĕbû
-    malkê ʾereṣ ... ʿal YHWH wĕ-ʿal mĕšîḥô: kings take their stand against YHWH; Q 2:258 alladhī ḥājja
-    ibrāhīma fī rabbihi: a king argues with Abraham about his Lord. Weak: a king set against God in both.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
-    إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ إِبْرَٰهِۦمُ
-    فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى
-    كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 2:2 yityaṣṣĕbû malkê ʾereṣ ... ʿal YHWH wĕ-ʿal mĕšîḥô: kings take their stand against YHWH;
-    Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi: a king argues with Abraham about his Lord. Weak: a king
-    set against God in both.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nations and kings of the earth conspire against YHWH and his anointed
     (mashiah) (weight 6.7). Pair score 6.7.'
@@ -74,6 +43,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nations and kings of the earth conspire against YHWH and his anointed (mashiah)
+kinds:
+- echo
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-2-abraham-king
+  title: Abraham disputes with the king
+  tradition: islam
+matches:
+- kind: echo
+  label: Nations and kings of the earth conspire against YHWH and his anointed (mashiah)
+  note: 'Ps 2:2 yityaṣṣĕbû malkê ʾereṣ ... ʿal YHWH wĕ-ʿal mĕšîḥô: kings take their stand against YHWH;
+    Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi: a king argues with Abraham about his Lord. Weak: a king
+    set against God in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:2
+      lang: he
+      text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:258
+      lang: ar
+      text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
+        إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ
+        إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ
+        فَبُهِتَ ٱلَّذِى كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

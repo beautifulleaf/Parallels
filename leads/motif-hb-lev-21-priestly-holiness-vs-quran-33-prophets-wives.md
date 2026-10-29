@@ -2,8 +2,7 @@
 id: motif-hb-lev-21-priestly-holiness-vs-quran-33-prophets-wives
 title: Priests' mourning and marriage limits; blemished priests ↔ The prophet's wives, the people of the
   House, and the believers men and women
-summary: 'These two units share 1 motifs: the prophet''s wives will receive double punishment for open
-  indecency and double reward for obedience.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - prophets-wives-double-punishment-double-reward
-passages:
-- tradition: judaism
-  ref: Lev 21:9
-  note: 'The prophet''s wives will receive double punishment for open indecency and double reward for
-    obedience (A sacred man''s household is held to a harsher standard: û-ḇaṯ ʾîš kōhēn kî ṯēḥēl liznôṯ
-    ʾeṯ-ʾāḇîhā hîʾ məḥalleleṯ bā-ʾēš tiśśārēp̄ vs. yā-nisāʾa n-nabiyyi man yaʾti minkunna bi-fāḥishatin
-    mubayyinatin yuḍāʿaf lahā l-ʿadhābu ḍiʿfayn. The priest''s daughter profanes her father and is burned;
-    the prophet''s wife gets a doubled punishment and also a doubled reward (ajrahā marratayn, 33:31),
-    which has no counterpart in Lev.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבַת֙ אִ֣ישׁ כֹּהֵ֔ן כִּ֥י תֵחֵ֖ל לִזְנ֑וֹת אֶת אָבִ֨יהָ֙ הִ֣יא מְחַלֶּ֔לֶת בָּאֵ֖שׁ תִּשָּׂרֵֽף
-- tradition: islam
-  ref: Quran 33:30
-  note: The prophet's wives will receive double punishment for open indecency and double reward for obedience
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَٰحِشَةٍ مُّبَيِّنَةٍ يُضَٰعَفْ لَهَا ٱلْعَذَابُ
-    ضِعْفَيْنِ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
-- tradition: islam
-  ref: Quran 33:31
-  note: The prophet's wives will receive double punishment for open indecency and double reward for obedience
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ
-    وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. A sacred man''s household is held to a harsher standard: û-ḇaṯ ʾîš kōhēn kî ṯēḥēl liznôṯ ʾeṯ-ʾāḇîhā
-    hîʾ məḥalleleṯ bā-ʾēš tiśśārēp̄ vs. yā-nisāʾa n-nabiyyi man yaʾti minkunna bi-fāḥishatin mubayyinatin
-    yuḍāʿaf lahā l-ʿadhābu ḍiʿfayn. The priest''s daughter profanes her father and is burned; the prophet''s
-    wife gets a doubled punishment and also a doubled reward (ajrahā marratayn, 33:31), which has no counterpart
-    in Lev.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet''s wives will receive double punishment for open indecency
     and double reward for obedience (weight 6.7). Pair score 6.7.'
@@ -76,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet's wives will receive double punishment for open indecency and double reward for obedience
+kinds:
+- echo
+units:
+- id: hb-lev-21-priestly-holiness
+  title: Priests' mourning and marriage limits; blemished priests
+  tradition: judaism
+- id: quran-33-prophets-wives
+  title: The prophet's wives, the people of the House, and the believers men and women
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet's wives will receive double punishment for open indecency and double reward for obedience
+  note: 'A sacred man''s household is held to a harsher standard: û-ḇaṯ ʾîš kōhēn kî ṯēḥēl liznôṯ ʾeṯ-ʾāḇîhā
+    hîʾ məḥalleleṯ bā-ʾēš tiśśārēp̄ vs. yā-nisāʾa n-nabiyyi man yaʾti minkunna bi-fāḥishatin mubayyinatin
+    yuḍāʿaf lahā l-ʿadhābu ḍiʿfayn. The priest''s daughter profanes her father and is burned; the prophet''s
+    wife gets a doubled punishment and also a doubled reward (ajrahā marratayn, 33:31), which has no counterpart
+    in Lev.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 21:9
+      lang: he
+      text: וּבַת֙ אִ֣ישׁ כֹּהֵ֔ן כִּ֥י תֵחֵ֖ל לִזְנ֑וֹת אֶת אָבִ֨יהָ֙ הִ֣יא מְחַלֶּ֔לֶת בָּאֵ֖שׁ תִּשָּׂרֵֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 33:30
+      lang: ar
+      text: يَٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَٰحِشَةٍ مُّبَيِّنَةٍ يُضَٰعَفْ لَهَا ٱلْعَذَابُ
+        ضِعْفَيْنِ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا
 ---
 
 ## Questions

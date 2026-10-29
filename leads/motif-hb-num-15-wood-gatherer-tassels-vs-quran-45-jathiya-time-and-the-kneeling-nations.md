@@ -2,7 +2,7 @@
 id: motif-hb-num-15-wood-gatherer-tassels-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: The Sabbath wood-gatherer; the law of tassels ↔ Desire as god, 'only Time destroys us', and every
   nation kneeling before its book
-summary: 'These two units share 1 motifs: whoever takes his own desire (hawā) as his god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - desire-taken-as-god
-passages:
-- tradition: judaism
-  ref: Num 15:39
-  note: 'Whoever takes his own desire (hawā) as his god (Following one''s own desire as a kind of idolatry:
-    wə-lōʾ ṯāṯûrû ʾaḥărê ləḇaḇḵem wə-ʾaḥărê ʿênêḵem ʾăšer ʾattem zōnîm ʾaḥărêhem vs. a-fa-raʾayta mani
-    ttakhadha ilāhahu hawāhu. Numbers calls it whoring after heart and eyes, against the tassels that
-    recall the commandments; the Quran calls desire the man''s god.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
-    אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
-- tradition: islam
-  ref: Quran 45:23
-  note: Whoever takes his own desire (hawā) as his god
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ عَلَىٰ
-    سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ أَفَلَا
-    تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Following one''s own desire as a kind of idolatry: wə-lōʾ ṯāṯûrû ʾaḥărê ləḇaḇḵem wə-ʾaḥărê ʿênêḵem
-    ʾăšer ʾattem zōnîm ʾaḥărêhem vs. a-fa-raʾayta mani ttakhadha ilāhahu hawāhu. Numbers calls it whoring
-    after heart and eyes, against the tassels that recall the commandments; the Quran calls desire the
-    man''s god.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever takes his own desire (hawā) as his god (weight 6.0). Pair
     score 6.0.'
@@ -69,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever takes his own desire (hawā) as his god
+kinds:
+- echo
+units:
+- id: hb-num-15-wood-gatherer-tassels
+  title: The Sabbath wood-gatherer; the law of tassels
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: echo
+  label: Whoever takes his own desire (hawā) as his god
+  note: 'Following one''s own desire as a kind of idolatry: wə-lōʾ ṯāṯûrû ʾaḥărê ləḇaḇḵem wə-ʾaḥărê ʿênêḵem
+    ʾăšer ʾattem zōnîm ʾaḥărêhem vs. a-fa-raʾayta mani ttakhadha ilāhahu hawāhu. Numbers calls it whoring
+    after heart and eyes, against the tassels that recall the commandments; the Quran calls desire the
+    man''s god.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 15:39
+      lang: he
+      text: וְהָיָ֣ה לָכֶם֮ לְצִיצִת֒ וּרְאִיתֶ֣ם אֹת֗וֹ וּזְכַרְתֶּם֙ אֶת כָּל מִצְוֺ֣ת יְהוָ֔ה וַעֲשִׂיתֶ֖ם
+        אֹתָ֑ם וְלֹֽא תָתֻ֜רוּ אַחֲרֵ֤י לְבַבְכֶם֙ וְאַחֲרֵ֣י עֵֽינֵיכֶ֔ם אֲשֶׁר אַתֶּ֥ם זֹנִ֖ים אַחֲרֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 45:23
+      lang: ar
+      text: أَفَرَءَيْتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلْمٍ وَخَتَمَ
+        عَلَىٰ سَمْعِهِۦ وَقَلْبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةً فَمَن يَهْدِيهِ مِنۢ بَعْدِ ٱللَّهِ
+        أَفَلَا تَذَكَّرُونَ
 ---
 
 ## Questions

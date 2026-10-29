@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-7-wilderness-entry
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Twelve tribes, twelve
   springs, and the word changed at the gate
-summary: 'These two units share 2 motifs: quail come up in the evening and cover the camp, god leads the
-  people in a pillar of cloud by day and a pillar of fire by night.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,58 +16,9 @@ layers:
 motifs:
 - quail-cover-the-camp
 - pillar-of-cloud-and-fire
-passages:
-- tradition: judaism
-  ref: Ps 105:40
-  note: Quail come up in the evening and cover the camp
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-- tradition: judaism
-  ref: Ps 105:41
-  note: Quail come up in the evening and cover the camp
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר
-- tradition: islam
-  ref: Quran 7:160
-  note: Quail come up in the evening and cover the camp (al-mann wa-l-salwa)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ
-    قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ
-    كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-    كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Ps 105:39
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (cloud spread as
-    a screen (masakh))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פָּרַ֣שׂ עָנָ֣ן לְמָסָ֑ךְ וְ֝אֵ֗שׁ לְהָאִ֥יר לָֽיְלָה
-- tradition: judaism
-  ref: Ps 105:40
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (cloud spread as
-    a screen (masakh))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-- tradition: islam
-  ref: Quran 7:160
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (clouds as shade
-    (zallalna 'alayhim al-ghamam))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ
-    قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ
-    كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-    كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The cloud as a covering over the people, not a guide: wa-ẓallalnā ʿalayhimu l-ghamāma vs
-    pāraś ʿānān lᵉmāsāk. Q omits Ps''s fire by night (wᵉʾēš lᵉhāʾîr lāylāh). Same sequence of gifts: the
-    people ask, then quail, bread from heaven and water from the rock. wa-anzalnā ʿalayhimu l-manna wa-s-salwā;
-    istasqāhu ... fa-nbajasat vs šāʾal wayyābēʾ śᵉlāw wᵉleḥem šāmayim yaśbîʿēm; pātaḥ ṣûr wayyāzûbû māyim.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 6.0); God
     leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair score
@@ -104,6 +54,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God leads the people in a pillar of cloud by day and a pillar of fire by night
+kinds:
+- parallel
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-7-wilderness-entry
+  title: Twelve tribes, twelve springs, and the word changed at the gate
+  tradition: islam
+matches:
+- kind: parallel
+  label: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  note: 'The cloud as a covering over the people, not a guide: wa-ẓallalnā ʿalayhimu l-ghamāma vs pāraś
+    ʿānān lᵉmāsāk. Q omits Ps''s fire by night (wᵉʾēš lᵉhāʾîr lāylāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:39
+      lang: he
+      text: פָּרַ֣שׂ עָנָ֣ן לְמָסָ֑ךְ וְ֝אֵ֗שׁ לְהָאִ֥יר לָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:160
+      lang: ar
+      text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ
+        ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ
+        عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا
+        عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن
+        كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: parallel
+  label: Quail come up in the evening and cover the camp
+  note: 'Same sequence of gifts: the people ask, then quail, bread from heaven and water from the rock.
+    wa-anzalnā ʿalayhimu l-manna wa-s-salwā; istasqāhu ... fa-nbajasat vs šāʾal wayyābēʾ śᵉlāw wᵉleḥem
+    šāmayim yaśbîʿēm; pātaḥ ṣûr wayyāzûbû māyim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:40
+      lang: he
+      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
+    - ref: Ps 105:41
+      lang: he
+      text: פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 7:160
+      lang: ar
+      text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ
+        ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ
+        عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا
+        عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن
+        كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

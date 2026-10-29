@@ -2,8 +2,7 @@
 id: motif-hb-prov-19-sayings-vs-quran-3-misers-mockers
 title: Sayings on the poor, the king's wrath and the sluggard ↔ Misers, those who called God poor, and
   the fire-consumed offering
-summary: 'These two units share 1 motifs: he who is gracious to the poor lends to yhwh, and he will repay
-  him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - lending-to-yhwh-by-giving-to-poor
-passages:
-- tradition: judaism
-  ref: Prov 19:17
-  note: He who is gracious to the poor lends to YHWH, and he will repay him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 3:181
-  note: 'He who is gracious to the poor lends to YHWH, and he will repay him (Prov 19:17 malwēh YHWH ḥônēn
-    dāl: giving to the poor is lending to God; Q 3:181 inna llāha faqīrun wa-naḥnu aghniyāʾ: the mockers
-    turn the idea of lending to God (cf. Q 2:245) into ''God is poor''. Lead from the unit''s hint; the
-    link is a reading, not a quotation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
-    سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Prov 19:17 malwēh YHWH ḥônēn dāl: giving to the poor is lending to God; Q 3:181 inna llāha faqīrun
-    wa-naḥnu aghniyāʾ: the mockers turn the idea of lending to God (cf. Q 2:245) into ''God is poor''.
-    Lead from the unit''s hint; the link is a reading, not a quotation.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who is gracious to the poor lends to YHWH, and he will repay
     him (weight 5.8). Pair score 5.8.'
@@ -72,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He who is gracious to the poor lends to YHWH, and he will repay him
+kinds:
+- echo
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: echo
+  label: He who is gracious to the poor lends to YHWH, and he will repay him
+  note: 'Prov 19:17 malwēh YHWH ḥônēn dāl: giving to the poor is lending to God; Q 3:181 inna llāha faqīrun
+    wa-naḥnu aghniyāʾ: the mockers turn the idea of lending to God (cf. Q 2:245) into ''God is poor''.
+    Lead from the unit''s hint; the link is a reading, not a quotation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:181
+      lang: ar
+      text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
+        سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ
+        ٱلْحَرِيقِ
 ---
 
 ## Questions

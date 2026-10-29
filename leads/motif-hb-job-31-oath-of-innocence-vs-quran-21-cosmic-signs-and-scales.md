@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-21-cosmic-signs-and-scales
 title: Job's oath of innocence ↔ The split heavens, water of life, orbits, mortality and the scales
-summary: 'These two units share 2 motifs: ''let god weigh me in just balances and know my integrity''
-  [divergence between the texts], ''let god weigh me in just balances and know my integrity''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 motifs:
 - weighed-in-just-balances-as-divergence
 - weighed-in-just-balances
-passages:
-- tradition: judaism
-  ref: Job 31:6
-  note: '''Let God weigh me in just balances and know my integrity'' [divergence between the texts] (yišqəlēnî
-    bəmōʾzənê-ṣedeq wəyēdaʿ ʾĕlôah tummātî; wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi l-qiyāma ... wa-in kāna
-    mithqāla ḥabbatin min khardalin ataynā bihā: just scales (mōʾzənê / mawāzīn, cognate). Job asks to
-    be weighed now, to prove his innocence; Q sets the scales for every soul at the resurrection, down
-    to a mustard seed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
-- tradition: islam
-  ref: Quran 21:47
-  note: '''Let God weigh me in just balances and know my integrity'' [divergence between the texts] (yišqəlēnî
-    bəmōʾzənê-ṣedeq wəyēdaʿ ʾĕlôah tummātî; wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi l-qiyāma ... wa-in kāna
-    mithqāla ḥabbatin min khardalin ataynā bihā: just scales (mōʾzənê / mawāzīn, cognate). Job asks to
-    be weighed now, to prove his innocence; Q sets the scales for every soul at the resurrection, down
-    to a mustard seed.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ
-    مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ
-- tradition: judaism
-  ref: Job 31:6
-  note: '''Let God weigh me in just balances and know my integrity'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
-- tradition: islam
-  ref: Quran 21:47
-  note: '''Let God weigh me in just balances and know my integrity'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن كَانَ
-    مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. yišqəlēnî bəmōʾzənê-ṣedeq wəyēdaʿ ʾĕlôah tummātî; wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi
-    l-qiyāma ... wa-in kāna mithqāla ḥabbatin min khardalin ataynā bihā: just scales (mōʾzənê / mawāzīn,
-    cognate). Job asks to be weighed now, to prove his innocence; Q sets the scales for every soul at
-    the resurrection, down to a mustard seed.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Let God weigh me in just balances and know my integrity'' [divergence
     between the texts] (weight 6.7); ''Let God weigh me in just balances and know my integrity'' (weight
@@ -90,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Let God weigh me in just balances and know my integrity'''
+kinds:
+- divergence
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-21-cosmic-signs-and-scales
+  title: The split heavens, water of life, orbits, mortality and the scales
+  tradition: islam
+matches:
+- kind: divergence
+  label: '''Let God weigh me in just balances and know my integrity'''
+  note: 'yišqəlēnî bəmōʾzənê-ṣedeq wəyēdaʿ ʾĕlôah tummātî; wa-naḍaʿu l-mawāzīna l-qisṭa li-yawmi l-qiyāma
+    ... wa-in kāna mithqāla ḥabbatin min khardalin ataynā bihā: just scales (mōʾzənê / mawāzīn, cognate).
+    Job asks to be weighed now, to prove his innocence; Q sets the scales for every soul at the resurrection,
+    down to a mustard seed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:6
+      lang: he
+      text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 21:47
+      lang: ar
+      text: وَنَضَعُ ٱلْمَوَٰزِينَ ٱلْقِسْطَ لِيَوْمِ ٱلْقِيَٰمَةِ فَلَا تُظْلَمُ نَفْسٌ شَيْـًٔا وَإِن
+        كَانَ مِثْقَالَ حَبَّةٍ مِّنْ خَرْدَلٍ أَتَيْنَا بِهَا وَكَفَىٰ بِنَا حَٰسِبِينَ
 ---
 
 ## Questions

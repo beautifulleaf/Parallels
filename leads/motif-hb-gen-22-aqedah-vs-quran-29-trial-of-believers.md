@@ -2,7 +2,7 @@
 id: motif-hb-gen-22-aqedah-vs-quran-29-trial-of-believers
 title: The binding of Isaac (Aqedah) ↔ Believers tested; parents and idolatry; the false offer to carry
   sins
-summary: 'These two units share 1 motifs: god tests the patriarch''s obedience.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - god-tests-patriarch
-passages:
-- tradition: judaism
-  ref: Gen 22:1
-  note: God tests the patriarch's obedience
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו
-    אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי
-- tradition: islam
-  ref: Quran 29:3
-  note: 'God tests the patriarch''s obedience (generalized: God tests all who claim faith, as he did earlier
-    generations)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟ وَلَيَعْلَمَنَّ
-    ٱلْكَٰذِبِينَ
-- tradition: islam
-  ref: Quran 29:2
-  note: 'God tests the patriarch''s obedience (generalized: God tests all who claim faith, as he did earlier
-    generations)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-la-qad fatannā lladhīna min qablihim fa-la-yaʿlamanna llāhu lladhīna ṣadaqū ~ wə-hā-ʾĕlōhîm
-    nissâ ʾet ʾAvrāhām: God tests (fatana / nissâ) to know true faith (cf. Gen 22:12 ʿattâ yādaʿtî kî
-    yərēʾ ʾĕlōhîm ʾattâ). Genesis tests one patriarch with one command; the Quran makes testing the rule
-    for everyone who says ''we believe''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the patriarch''s obedience (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -74,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the patriarch's obedience
+kinds:
+- parallel
+units:
+- id: hb-gen-22-aqedah
+  title: The binding of Isaac (Aqedah)
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: parallel
+  label: God tests the patriarch's obedience
+  note: 'wa-la-qad fatannā lladhīna min qablihim fa-la-yaʿlamanna llāhu lladhīna ṣadaqū ~ wə-hā-ʾĕlōhîm
+    nissâ ʾet ʾAvrāhām: God tests (fatana / nissâ) to know true faith (cf. Gen 22:12 ʿattâ yādaʿtî kî
+    yərēʾ ʾĕlōhîm ʾattâ). Genesis tests one patriarch with one command; the Quran makes testing the rule
+    for everyone who says ''we believe''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 22:1
+      lang: he
+      text: וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְהָ֣אֱלֹהִ֔ים נִסָּ֖ה אֶת אַבְרָהָ֑ם וַיֹּ֣אמֶר אֵלָ֔יו
+        אַבְרָהָ֖ם וַיֹּ֥אמֶר הִנֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 29:2
+      lang: ar
+      text: أَحَسِبَ ٱلنَّاسُ أَن يُتْرَكُوٓا۟ أَن يَقُولُوٓا۟ ءَامَنَّا وَهُمْ لَا يُفْتَنُونَ
+    - ref: Quran 29:3
+      lang: ar
+      text: وَلَقَدْ فَتَنَّا ٱلَّذِينَ مِن قَبْلِهِمْ فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُوا۟ وَلَيَعْلَمَنَّ
+        ٱلْكَٰذِبِينَ
 ---
 
 ## Questions

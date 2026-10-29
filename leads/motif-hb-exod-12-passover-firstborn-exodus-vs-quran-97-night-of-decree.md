@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-97-night-of-decree
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ The Night of Decree
-summary: 'These two units share 1 motifs: the exodus night is a ''night of watching'' for god and for
-  israel through the generations.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - night-of-watching
-passages:
-- tradition: judaism
-  ref: Exod 12:42
-  note: The exodus night is a 'night of watching' for God and for Israel through the generations (leil
-    shimmurim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣יל שִׁמֻּרִ֥ים הוּא֙ לַֽיהוָ֔ה לְהוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם הֽוּא הַלַּ֤יְלָה הַזֶּה֙ לַֽיהוָ֔ה
-    שִׁמֻּרִ֛ים לְכָל בְּנֵ֥י יִשְׂרָאֵ֖ל לְדֹרֹתָֽם
-- tradition: islam
-  ref: Quran 97:1
-  note: 'The exodus night is a ''night of watching'' for God and for Israel through the generations (innā
-    anzalnāhu fī laylati l-qadr ... salāmun hiya ḥattā maṭlaʿi l-fajr ~ lêl šimmurîm hûʾ la-YHWH ... hûʾ
-    ha-llaylāh ha-zzeh la-YHWH šimmurîm le-kol benê Yiśrāʾēl le-dōrōtām: one night set apart by God for
-    his decisive act, kept in memory. cf. Shavuot night and the Rosh Hashanah decrees (not matches).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
-- tradition: islam
-  ref: Quran 97:5
-  note: 'The exodus night is a ''night of watching'' for God and for Israel through the generations (innā
-    anzalnāhu fī laylati l-qadr ... salāmun hiya ḥattā maṭlaʿi l-fajr ~ lêl šimmurîm hûʾ la-YHWH ... hûʾ
-    ha-llaylāh ha-zzeh la-YHWH šimmurîm le-kol benê Yiśrāʾēl le-dōrōtām: one night set apart by God for
-    his decisive act, kept in memory. cf. Shavuot night and the Rosh Hashanah decrees (not matches).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. innā anzalnāhu fī laylati l-qadr ... salāmun hiya ḥattā maṭlaʿi l-fajr ~ lêl šimmurîm hûʾ la-YHWH
-    ... hûʾ ha-llaylāh ha-zzeh la-YHWH šimmurîm le-kol benê Yiśrāʾēl le-dōrōtām: one night set apart by
-    God for his decisive act, kept in memory. cf. Shavuot night and the Rosh Hashanah decrees (not matches).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The exodus night is a ''night of watching'' for God and for Israel
     through the generations (weight 6.7). Pair score 6.7.'
@@ -74,6 +44,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The exodus night is a 'night of watching' for God and for Israel through the generations
+kinds:
+- echo
+units:
+- id: hb-exod-12-passover-firstborn-exodus
+  title: Passover law, matzot, the night of the firstborn, departure from Egypt
+  tradition: judaism
+- id: quran-97-night-of-decree
+  title: The Night of Decree
+  tradition: islam
+matches:
+- kind: echo
+  label: The exodus night is a 'night of watching' for God and for Israel through the generations
+  note: 'innā anzalnāhu fī laylati l-qadr ... salāmun hiya ḥattā maṭlaʿi l-fajr ~ lêl šimmurîm hûʾ la-YHWH
+    ... hûʾ ha-llaylāh ha-zzeh la-YHWH šimmurîm le-kol benê Yiśrāʾēl le-dōrōtām: one night set apart by
+    God for his decisive act, kept in memory. cf. Shavuot night and the Rosh Hashanah decrees (not matches).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:42
+      lang: he
+      text: לֵ֣יל שִׁמֻּרִ֥ים הוּא֙ לַֽיהוָ֔ה לְהוֹצִיאָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם הֽוּא הַלַּ֤יְלָה הַזֶּה֙
+        לַֽיהוָ֔ה שִׁמֻּרִ֛ים לְכָל בְּנֵ֥י יִשְׂרָאֵ֖ל לְדֹרֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 97:1
+      lang: ar
+      text: إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
+    - ref: Quran 97:5
+      lang: ar
+      text: سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ
 ---
 
 ## Questions

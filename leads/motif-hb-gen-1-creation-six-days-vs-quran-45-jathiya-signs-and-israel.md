@@ -2,7 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-45-jathiya-signs-and-israel
 title: 'Creation in six days and the seventh-day rest ↔ Ha-Mim: the signs, the scornful liar, Israel''s
   book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: humans given rule over animals.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - human-dominion-over-animals
-passages:
-- tradition: judaism
-  ref: Gen 1:26
-  note: Humans given rule over animals
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
-    וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 1:28
-  note: Humans given rule over animals
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
-    וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 45:13
-  note: Humans given rule over animals (extended to everything in heaven and earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-ḵiḇšuhā û-rəḏû bi-ḏḡaṯ hay-yām û-ḇə-ʿôp̄ haš-šāmayim û-ḇə-ḵol ḥayyâ vs. sakhkhara lakum mā
-    fī s-samāwāti wa-mā fī l-arḍi jamīʿan. Genesis: rule given as a blessing to the first pair; Quran:
-    a ''subjection'' (taskhīr) that is a sign to reflect on.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans given rule over animals (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -76,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans given rule over animals
+kinds:
+- echo
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: echo
+  label: Humans given rule over animals
+  note: 'wə-ḵiḇšuhā û-rəḏû bi-ḏḡaṯ hay-yām û-ḇə-ʿôp̄ haš-šāmayim û-ḇə-ḵol ḥayyâ vs. sakhkhara lakum mā
+    fī s-samāwāti wa-mā fī l-arḍi jamīʿan. Genesis: rule given as a blessing to the first pair; Quran:
+    a ''subjection'' (taskhīr) that is a sign to reflect on.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:28
+      lang: he
+      text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
+        וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:13
+      lang: ar
+      text: وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

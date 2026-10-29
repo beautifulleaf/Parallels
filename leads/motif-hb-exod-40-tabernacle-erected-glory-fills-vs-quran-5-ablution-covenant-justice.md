@@ -2,8 +2,7 @@
 id: motif-hb-exod-40-tabernacle-erected-glory-fills-vs-quran-5-ablution-covenant-justice
 title: The tabernacle erected; cloud and glory fill it ↔ Ablution, the covenant 'we hear and obey', and
   justice despite hatred
-summary: 'These two units share 1 motifs: a bronze laver where priests wash hands and feet before service,
-  lest they die.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - bronze-laver-for-washing-hands-and-feet
-passages:
-- tradition: judaism
-  ref: Exod 40:30
-  note: A bronze laver where priests wash hands and feet before service, lest they die
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֨שֶׂם֙ אֶת הַכִּיֹּ֔ר בֵּֽין אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם
-    לְרָחְצָֽה
-- tradition: judaism
-  ref: Exod 40:31
-  note: A bronze laver where priests wash hands and feet before service, lest they die
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו אֶת יְדֵיהֶ֖ם וְאֶת רַגְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 5:6
-  note: A bronze laver where priests wash hands and feet before service, lest they die (washing of hands
-    and feet before approaching God, here for every worshipper)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ
-    إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ وَإِن كُنتُمْ جُنُبًا
-    فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ
-    أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟
-    بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن
-    يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Exod: wə-rāḥăṣû mimmennû Mōšeh wə-ʾAhărōn û-vānāyw ʾet-yədêhem wə-ʾet-raglêhem bə-vōʾām ʾel-ʾōhel
-    môʿēd. Q 5:6 washing face, hands and feet idhā qumtum ilā l-ṣalāti.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A bronze laver where priests wash hands and feet before service,
     lest they die (weight 6.0). Pair score 6.0.'
@@ -75,6 +47,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A bronze laver where priests wash hands and feet before service, lest they die
+kinds:
+- echo
+units:
+- id: hb-exod-40-tabernacle-erected-glory-fills
+  title: The tabernacle erected; cloud and glory fill it
+  tradition: judaism
+- id: quran-5-ablution-covenant-justice
+  title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+  tradition: islam
+matches:
+- kind: echo
+  label: A bronze laver where priests wash hands and feet before service, lest they die
+  note: 'Exod: wə-rāḥăṣû mimmennû Mōšeh wə-ʾAhărōn û-vānāyw ʾet-yədêhem wə-ʾet-raglêhem bə-vōʾām ʾel-ʾōhel
+    môʿēd. Q 5:6 washing face, hands and feet idhā qumtum ilā l-ṣalāti.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 40:31
+      lang: he
+      text: וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו אֶת יְדֵיהֶ֖ם וְאֶת רַגְלֵיהֶֽם
+    - ref: Exod 40:32
+      lang: he
+      text: בְּבֹאָ֞ם אֶל אֹ֣הֶל מוֹעֵ֗ד וּבְקָרְבָתָ֛ם אֶל הַמִּזְבֵּ֖חַ יִרְחָ֑צוּ כַּאֲשֶׁ֛ר צִוָּ֥ה
+        יְהוָ֖ה אֶת מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:6
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ
+        وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ
+        وَإِن كُنتُمْ جُنُبًا فَٱطَّهَّرُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ
+        مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟
+        صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُم مِّنْهُ مَا يُرِيدُ ٱللَّهُ لِيَجْعَلَ
+        عَلَيْكُم مِّنْ حَرَجٍ وَلَٰكِن يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُۥ عَلَيْكُمْ لَعَلَّكُمْ
+        تَشْكُرُونَ
 ---
 
 ## Questions

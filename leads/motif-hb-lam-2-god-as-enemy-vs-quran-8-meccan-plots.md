@@ -2,7 +2,7 @@
 id: motif-hb-lam-2-god-as-enemy-vs-quran-8-meccan-plots
 title: 'Lamentations 2: the Lord became like an enemy; children faint in the streets ↔ The plot against
   the prophet and the worship of the pagans'
-summary: 'These two units share 1 motifs: the pagans'' prayer at the house was only whistling and clapping.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - pagan-worship-whistling-and-clapping
-passages:
-- tradition: judaism
-  ref: Lam 2:15
-  note: 'The pagans'' prayer at the House was only whistling and clapping (Whistling and hand-clapping
-    at the holy place: wa-mā kāna ṣalātuhum ʿinda l-bayti illā mukāʾan wa-taṣdiyatan vs sāpᵉqû ʿālayik
-    kappayim ... šārᵉqû wayyāniʿû rōʾšām. The setting differs: in Lam passers-by mocking ruined Jerusalem;
-    in Q the pagans'' own worship at the House, which Q dismisses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: סָֽפְק֨וּ עָלַ֤יִךְ כַּפַּ֨יִם֙ כָּל עֹ֣בְרֵי דֶ֔רֶךְ שָֽׁרְקוּ֙ וַיָּנִ֣עוּ רֹאשָׁ֔ם עַל בַּ֖ת
-    יְרוּשָׁלִָ֑ם הֲזֹ֣את הָעִ֗יר שֶׁיֹּֽאמְרוּ֙ כְּלִ֣ילַת יֹ֔פִי מָשׂ֖וֹשׂ לְכָל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 8:34
-  note: The pagans' prayer at the House was only whistling and clapping
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا لَهُمْ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمْ يَصُدُّونَ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ وَمَا
-    كَانُوٓا۟ أَوْلِيَآءَهُۥٓ إِنْ أَوْلِيَآؤُهُۥٓ إِلَّا ٱلْمُتَّقُونَ وَلَٰكِنَّ أَكْثَرَهُمْ لَا
-    يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 8:35
-  note: The pagans' prayer at the House was only whistling and clapping
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءً وَتَصْدِيَةً فَذُوقُوا۟ ٱلْعَذَابَ بِمَا
-    كُنتُمْ تَكْفُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Whistling and hand-clapping at the holy place: wa-mā kāna ṣalātuhum ʿinda l-bayti illā mukāʾan
-    wa-taṣdiyatan vs sāpᵉqû ʿālayik kappayim ... šārᵉqû wayyāniʿû rōʾšām. The setting differs: in Lam
-    passers-by mocking ruined Jerusalem; in Q the pagans'' own worship at the House, which Q dismisses.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The pagans'' prayer at the House was only whistling and clapping
     (weight 6.7). Pair score 6.7.'
@@ -80,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The pagans' prayer at the House was only whistling and clapping
+kinds:
+- echo
+units:
+- id: hb-lam-2-god-as-enemy
+  title: 'Lamentations 2: the Lord became like an enemy; children faint in the streets'
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: echo
+  label: The pagans' prayer at the House was only whistling and clapping
+  note: 'Whistling and hand-clapping at the holy place: wa-mā kāna ṣalātuhum ʿinda l-bayti illā mukāʾan
+    wa-taṣdiyatan vs sāpᵉqû ʿālayik kappayim ... šārᵉqû wayyāniʿû rōʾšām. The setting differs: in Lam
+    passers-by mocking ruined Jerusalem; in Q the pagans'' own worship at the House, which Q dismisses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lam 2:15
+      lang: he
+      text: סָֽפְק֨וּ עָלַ֤יִךְ כַּפַּ֨יִם֙ כָּל עֹ֣בְרֵי דֶ֔רֶךְ שָֽׁרְקוּ֙ וַיָּנִ֣עוּ רֹאשָׁ֔ם עַל
+        בַּ֖ת יְרוּשָׁלִָ֑ם הֲזֹ֣את הָעִ֗יר שֶׁיֹּֽאמְרוּ֙ כְּלִ֣ילַת יֹ֔פִי מָשׂ֖וֹשׂ לְכָל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:35
+      lang: ar
+      text: وَمَا كَانَ صَلَاتُهُمْ عِندَ ٱلْبَيْتِ إِلَّا مُكَآءً وَتَصْدِيَةً فَذُوقُوا۟ ٱلْعَذَابَ
+        بِمَا كُنتُمْ تَكْفُرُونَ
 ---
 
 ## Questions

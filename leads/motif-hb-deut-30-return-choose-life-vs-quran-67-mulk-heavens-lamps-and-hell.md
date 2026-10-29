@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-67-mulk-heavens-lamps-and-hell
 title: 'Return from exile; the near commandment; choose life ↔ Al-Mulk: death and life as test, seven
   flawless heavens, stars as missiles against devils, hell nearly bursting with rage'
-summary: 'These two units share 1 motifs: i set before you life and death, blessing and curse: choose
-  life [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - choose-life-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 30:15
-  note: 'I set before you life and death, blessing and curse: choose life [divergence between the texts]
-    (Death and life paired as God''s doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā
-    ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum ayyukum
-    aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת הָרָֽע
-- tradition: judaism
-  ref: Deut 30:19
-  note: 'I set before you life and death, blessing and curse: choose life [divergence between the texts]
-    (Death and life paired as God''s doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā
-    ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum ayyukum
-    aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
-    לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 67:2
-  note: 'I set before you life and death, blessing and curse: choose life [divergence between the texts]
-    (Death and life paired as God''s doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ... û-vāḥartā
-    ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum ayyukum
-    aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ
-    ٱلْغَفُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Death and life paired as God''s doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā
-    ... û-vāḥartā ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum
-    ayyukum aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'I set before you life and death, blessing and curse: choose life'
+kinds:
+- divergence
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-67-mulk-heavens-lamps-and-hell
+  title: 'Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils, hell
+    nearly bursting with rage'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'I set before you life and death, blessing and curse: choose life'
+  note: 'Death and life paired as God''s doing: Deut 30:19 ha-ḥayyîm we-ha-mmāwet nātattî le-fānêkā ...
+    û-vāḥartā ba-ḥayyîm (set before you to choose). Q 67:2 alladhī khalaqa l-mawta wa-l-ḥayāta li-yabluwakum
+    ayyukum aḥsanu ʿamalan: both are created, and life is the test itself, not one option of a choice.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:15
+      lang: he
+      text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת
+        הָרָֽע
+    - ref: Deut 30:19
+      lang: he
+      text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
+        לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 67:2
+      lang: ar
+      text: ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَهُوَ ٱلْعَزِيزُ
+        ٱلْغَفُورُ
 ---
 
 ## Questions

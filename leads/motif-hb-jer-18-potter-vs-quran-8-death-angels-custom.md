@@ -2,8 +2,7 @@
 id: motif-hb-jer-18-potter-vs-quran-8-death-angels-custom
 title: At the potter's house - conditional prophecy ↔ Angels at the death of unbelievers; the custom of
   Pharaoh's people
-summary: 'These two units share 1 motifs: god does not change a favor he gave a people until they change
-  what is in themselves.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - god-changes-not-until-people-change
-passages:
-- tradition: judaism
-  ref: Jer 18:8
-  note: 'God does not change a favor he gave a people until they change what is in themselves (God''s
-    dealings follow the people''s own change: lam yaku mughayyiran niʿmatan anʿamahā ʿalā qawmin ḥattā
-    yughayyirū mā bi-anfusihim vs wᵉšāb haggôy hahûʾ mērāʿātô ... wᵉniḥamtî ʿal-hārāʿāh; wᵉʿāśāh hāraʿ
-    ... wᵉniḥamtî ʿal-haṭṭôbāh. Jer states it both ways (evil and good revoked); Q in 8:53 only of a favour
-    withdrawn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁב֙ הַגּ֣וֹי הַה֔וּא מֵרָ֣עָת֔וֹ אֲשֶׁ֥ר דִּבַּ֖רְתִּי עָלָ֑יו וְנִֽחַמְתִּי֙ עַל הָ֣רָעָ֔ה
-    אֲשֶׁ֥ר חָשַׁ֖בְתִּי לַעֲשׂ֥וֹת לֽוֹ
-- tradition: judaism
-  ref: Jer 18:10
-  note: 'God does not change a favor he gave a people until they change what is in themselves (God''s
-    dealings follow the people''s own change: lam yaku mughayyiran niʿmatan anʿamahā ʿalā qawmin ḥattā
-    yughayyirū mā bi-anfusihim vs wᵉšāb haggôy hahûʾ mērāʿātô ... wᵉniḥamtî ʿal-hārāʿāh; wᵉʿāśāh hāraʿ
-    ... wᵉniḥamtî ʿal-haṭṭôbāh. Jer states it both ways (evil and good revoked); Q in 8:53 only of a favour
-    withdrawn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָשָׂ֤ה הרעה הָרַע֙ בְּעֵינַ֔י לְבִלְתִּ֖י שְׁמֹ֣עַ בְּקוֹלִ֑י וְנִֽחַמְתִּי֙ עַל הַטּוֹבָ֔ה
-    אֲשֶׁ֥ר אָמַ֖רְתִּי לְהֵיטִ֥יב אוֹתֽוֹ
-- tradition: islam
-  ref: Quran 8:53
-  note: God does not change a favor he gave a people until they change what is in themselves
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟
-    مَا بِأَنفُسِهِمْ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God''s dealings follow the people''s own change: lam yaku mughayyiran niʿmatan anʿamahā
-    ʿalā qawmin ḥattā yughayyirū mā bi-anfusihim vs wᵉšāb haggôy hahûʾ mērāʿātô ... wᵉniḥamtî ʿal-hārāʿāh;
-    wᵉʿāśāh hāraʿ ... wᵉniḥamtî ʿal-haṭṭôbāh. Jer states it both ways (evil and good revoked); Q in 8:53
-    only of a favour withdrawn.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not change a favor he gave a people until they change what
     is in themselves (weight 6.3). Pair score 6.3.'
@@ -76,6 +42,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not change a favor he gave a people until they change what is in themselves
+kinds:
+- parallel
+units:
+- id: hb-jer-18-potter
+  title: At the potter's house - conditional prophecy
+  tradition: judaism
+- id: quran-8-death-angels-custom
+  title: Angels at the death of unbelievers; the custom of Pharaoh's people
+  tradition: islam
+matches:
+- kind: parallel
+  label: God does not change a favor he gave a people until they change what is in themselves
+  note: 'God''s dealings follow the people''s own change: lam yaku mughayyiran niʿmatan anʿamahā ʿalā
+    qawmin ḥattā yughayyirū mā bi-anfusihim vs wᵉšāb haggôy hahûʾ mērāʿātô ... wᵉniḥamtî ʿal-hārāʿāh;
+    wᵉʿāśāh hāraʿ ... wᵉniḥamtî ʿal-haṭṭôbāh. Jer states it both ways (evil and good revoked); Q in 8:53
+    only of a favour withdrawn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 18:8
+      lang: he
+      text: וְשָׁב֙ הַגּ֣וֹי הַה֔וּא מֵרָ֣עָת֔וֹ אֲשֶׁ֥ר דִּבַּ֖רְתִּי עָלָ֑יו וְנִֽחַמְתִּי֙ עַל הָ֣רָעָ֔ה
+        אֲשֶׁ֥ר חָשַׁ֖בְתִּי לַעֲשׂ֥וֹת לֽוֹ
+    - ref: Jer 18:10
+      lang: he
+      text: וְעָשָׂ֤ה הרעה הָרַע֙ בְּעֵינַ֔י לְבִלְתִּ֖י שְׁמֹ֣עַ בְּקוֹלִ֑י וְנִֽחַמְתִּי֙ עַל הַטּוֹבָ֔ה
+        אֲשֶׁ֥ר אָמַ֖רְתִּי לְהֵיטִ֥יב אוֹתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:53
+      lang: ar
+      text: ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمْ يَكُ مُغَيِّرًا نِّعْمَةً أَنْعَمَهَا عَلَىٰ قَوْمٍ حَتَّىٰ يُغَيِّرُوا۟
+        مَا بِأَنفُسِهِمْ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-sons-of-god-vs-quran-55-rahman-judgment-and-the-four-gardens
 title: Sons of God, daughters of men, and the Nephilim ↔ Passing the regions of heaven, the rose-red sky,
   forelocks and feet, and the two pairs of gardens with secluded maidens
-summary: 'These two units share 1 motifs: maidens of restrained glance whom no man or jinn has touched
-  before them, like rubies and coral.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - maidens-of-restrained-glance-untouched
-passages:
-- tradition: judaism
-  ref: Gen 6:2
-  note: 'Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
-    (Supernatural beings with human women: wa-yyirʾû ḇənê hā-ʾĕlōhîm ʾeṯ bənôṯ hā-ʾāḏām ... wa-yyiqḥû
-    lāhem nāšîm vs. lam yaṭmithhunna insun qablahum wa-lā jānn (untouched by man or jinn before them).
-    The Quran''s phrase assumes jinn could touch women, as Gen 6 has the sons of God take wives; the beings
-    differ (bənê hā-ʾĕlōhîm, jinn). Lead from the hint only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
-    נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
-- tradition: judaism
-  ref: Gen 6:4
-  note: 'Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
-    (Supernatural beings with human women: wa-yyirʾû ḇənê hā-ʾĕlōhîm ʾeṯ bənôṯ hā-ʾāḏām ... wa-yyiqḥû
-    lāhem nāšîm vs. lam yaṭmithhunna insun qablahum wa-lā jānn (untouched by man or jinn before them).
-    The Quran''s phrase assumes jinn could touch women, as Gen 6 has the sons of God take wives; the beings
-    differ (bənê hā-ʾĕlōhîm, jinn). Lead from the hint only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
-    הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י
-    הַשֵּֽׁם
-- tradition: islam
-  ref: Quran 55:56
-  note: Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
-- tradition: islam
-  ref: Quran 55:58
-  note: Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Supernatural beings with human women: wa-yyirʾû ḇənê hā-ʾĕlōhîm ʾeṯ bənôṯ hā-ʾāḏām ... wa-yyiqḥû
-    lāhem nāšîm vs. lam yaṭmithhunna insun qablahum wa-lā jānn (untouched by man or jinn before them).
-    The Quran''s phrase assumes jinn could touch women, as Gen 6 has the sons of God take wives; the beings
-    differ (bənê hā-ʾĕlōhîm, jinn). Lead from the hint only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Maidens of restrained glance whom no man or jinn has touched before
     them, like rubies and coral (weight 6.7). Pair score 6.7.'
@@ -86,6 +46,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
+kinds:
+- echo
+units:
+- id: hb-gen-6-sons-of-god
+  title: Sons of God, daughters of men, and the Nephilim
+  tradition: judaism
+- id: quran-55-rahman-judgment-and-the-four-gardens
+  title: Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens
+    with secluded maidens
+  tradition: islam
+matches:
+- kind: echo
+  label: Maidens of restrained glance whom no man or jinn has touched before them, like rubies and coral
+  note: 'Supernatural beings with human women: wa-yyirʾû ḇənê hā-ʾĕlōhîm ʾeṯ bənôṯ hā-ʾāḏām ... wa-yyiqḥû
+    lāhem nāšîm vs. lam yaṭmithhunna insun qablahum wa-lā jānn (untouched by man or jinn before them).
+    The Quran''s phrase assumes jinn could touch women, as Gen 6 has the sons of God take wives; the beings
+    differ (bənê hā-ʾĕlōhîm, jinn). Lead from the hint only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:2
+      lang: he
+      text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
+        נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
+    - ref: Gen 6:4
+      lang: he
+      text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
+        הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם
+        אַנְשֵׁ֥י הַשֵּֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 55:56
+      lang: ar
+      text: فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
+    - ref: Quran 55:74
+      lang: ar
+      text: لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ
 ---
 
 ## Questions

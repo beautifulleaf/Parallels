@@ -2,8 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-7-names-and-hour
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ Made for hell, the beautiful
   names, the unknown Hour
-summary: 'These two units share 1 motifs: god leads deniers step by step to ruin and grants them respite
-  (istidraj).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - gradual-leading-to-ruin
-passages:
-- tradition: judaism
-  ref: Ezek 14:9
-  note: 'God leads deniers step by step to ruin and grants them respite (istidraj) (God himself leads
-    the rejecter on to his ruin: sa-nastadrijuhum min ḥaythu lā yaʿlamūna wa-umlī lahum inna kaydī matīn
-    vs ʾănî YHWH pittêtî ʾēt hannābîʾ hahûʾ wᵉnāṭîtî ʾet-yādî ʿālāyw wᵉhišmadtîw.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַנָּבִ֤יא כִֽי יְפֻתֶּה֙ וְדִבֶּ֣ר דָּבָ֔ר אֲנִ֤י יְהוָה֙ פִּתֵּ֔יתִי אֵ֖ת הַנָּבִ֣יא הַה֑וּא
-    וְנָטִ֤יתִי אֶת יָדִי֙ עָלָ֔יו וְהִ֨שְׁמַדְתִּ֔יו מִתּ֖וֹךְ עַמִּ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 7:182
-  note: God leads deniers step by step to ruin and grants them respite (istidraj)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 7:183
-  note: God leads deniers step by step to ruin and grants them respite (istidraj)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأُمْلِى لَهُمْ إِنَّ كَيْدِى مَتِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God himself leads the rejecter on to his ruin: sa-nastadrijuhum min ḥaythu lā yaʿlamūna wa-umlī
-    lahum inna kaydī matīn vs ʾănî YHWH pittêtî ʾēt hannābîʾ hahûʾ wᵉnāṭîtî ʾet-yādî ʿālāyw wᵉhišmadtîw.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God leads deniers step by step to ruin and grants them respite (istidraj)
     (weight 6.7). Pair score 6.7.'
@@ -77,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God leads deniers step by step to ruin and grants them respite (istidraj)
+kinds:
+- echo
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: echo
+  label: God leads deniers step by step to ruin and grants them respite (istidraj)
+  note: 'God himself leads the rejecter on to his ruin: sa-nastadrijuhum min ḥaythu lā yaʿlamūna wa-umlī
+    lahum inna kaydī matīn vs ʾănî YHWH pittêtî ʾēt hannābîʾ hahûʾ wᵉnāṭîtî ʾet-yādî ʿālāyw wᵉhišmadtîw.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:9
+      lang: he
+      text: וְהַנָּבִ֤יא כִֽי יְפֻתֶּה֙ וְדִבֶּ֣ר דָּבָ֔ר אֲנִ֤י יְהוָה֙ פִּתֵּ֔יתִי אֵ֖ת הַנָּבִ֣יא הַה֑וּא
+        וְנָטִ֤יתִי אֶת יָדִי֙ עָלָ֔יו וְהִ֨שְׁמַדְתִּ֔יו מִתּ֖וֹךְ עַמִּ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 7:182
+      lang: ar
+      text: وَٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ
+    - ref: Quran 7:183
+      lang: ar
+      text: وَأُمْلِى لَهُمْ إِنَّ كَيْدِى مَتِينٌ
 ---
 
 ## Questions

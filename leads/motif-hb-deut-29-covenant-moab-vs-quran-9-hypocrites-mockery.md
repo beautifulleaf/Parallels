@@ -2,7 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-9-hypocrites-mockery
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ Hypocrites who mock and the destroyed
   peoples
-summary: 'These two units share 1 motifs: the ''overturned cities'' (al-mu''tafikat), lot''s towns.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - overturned-cities-mutafikat
-passages:
-- tradition: judaism
-  ref: Deut 29:22
-  note: 'The ''overturned cities'' (al-mu''tafikat), Lot''s towns (Already a fixed name in Deut: kᵉmahpēkat
-    sᵉdōm waʿămōrāh ʾadmāh ûṣᵉbôyim ʾăšer hāpak YHWH bᵉʾappô vs al-muʾtafikāt, at the end of a list of
-    destroyed peoples used as a warning in both.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּפְרִ֣ית וָמֶלַח֮ שְׂרֵפָ֣ה כָל אַרְצָהּ֒ לֹ֤א תִזָּרַע֙ וְלֹ֣א תַצְמִ֔חַ וְלֹֽא יַעֲלֶ֥ה בָ֖הּ
-    כָּל עֵ֑שֶׂב כְּֽמַהְפֵּכַ֞ת סְדֹ֤ם וַעֲמֹרָה֙ אַדְמָ֣ה וצביים וּצְבוֹיִ֔ם אֲשֶׁר֙ הָפַ֣ךְ יְהוָ֔ה
-    בְּאַפּ֖וֹ וּבַחֲמָתֽוֹ
-- tradition: islam
-  ref: Quran 9:70
-  note: The 'overturned cities' (al-mu'tafikat), Lot's towns
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ
-    وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ
-    وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Already a fixed name in Deut: kᵉmahpēkat sᵉdōm waʿămōrāh ʾadmāh ûṣᵉbôyim ʾăšer hāpak YHWH bᵉʾappô
-    vs al-muʾtafikāt, at the end of a list of destroyed peoples used as a warning in both.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''overturned cities'' (al-mu''tafikat), Lot''s towns (weight
     6.0). Pair score 6.0.'
@@ -71,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'overturned cities' (al-mu'tafikat), Lot's towns
+kinds:
+- echo
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: The 'overturned cities' (al-mu'tafikat), Lot's towns
+  note: 'Already a fixed name in Deut: kᵉmahpēkat sᵉdōm waʿămōrāh ʾadmāh ûṣᵉbôyim ʾăšer hāpak YHWH bᵉʾappô
+    vs al-muʾtafikāt, at the end of a list of destroyed peoples used as a warning in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:22
+      lang: he
+      text: גָּפְרִ֣ית וָמֶלַח֮ שְׂרֵפָ֣ה כָל אַרְצָהּ֒ לֹ֤א תִזָּרַע֙ וְלֹ֣א תַצְמִ֔חַ וְלֹֽא יַעֲלֶ֥ה
+        בָ֖הּ כָּל עֵ֑שֶׂב כְּֽמַהְפֵּכַ֞ת סְדֹ֤ם וַעֲמֹרָה֙ אַדְמָ֣ה וצביים וּצְבוֹיִ֔ם אֲשֶׁר֙ הָפַ֣ךְ
+        יְהוָ֔ה בְּאַפּ֖וֹ וּבַחֲמָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:70
+      lang: ar
+      text: أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ
+        إِبْرَٰهِيمَ وَأَصْحَٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَٰتِ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

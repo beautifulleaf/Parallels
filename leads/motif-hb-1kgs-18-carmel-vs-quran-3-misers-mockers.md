@@ -1,9 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-3-misers-mockers
 title: Contest on Mount Carmel ↔ Misers, those who called God poor, and the fire-consumed offering
-summary: 'These two units share 2 motifs: an offering consumed by fire as proof of the true god or messenger
-  [response between the texts], fire from heaven falls and consumes the offering, wood, stones, dust and
-  water.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -16,74 +14,9 @@ layers:
 motifs:
 - fire-consumed-offering-as-proof-as-response
 - fire-from-heaven-consumes-offering
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:24
-  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
-    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
-    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
-    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
-    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
-    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
-    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
-    the demand is refuted from their own history.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר
-    יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר
-- tradition: judaism
-  ref: 1Kgs 18:38
-  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
-    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
-    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
-    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
-    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
-    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
-    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
-    the demand is refuted from their own history.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת הֶעָפָ֑ר
-    וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
-- tradition: islam
-  ref: Quran 3:183
-  note: 'An offering consumed by fire as proof of the true God or messenger [response between the texts]
-    (1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH wa-ttōʾkal
-    ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183 qālū inna
-    llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru qul qad jāʾakum
-    rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim God made them
-    promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala); answer: messengers
-    did bring it, so why did you kill them? The Carmel test is turned into the opponents'' demand, and
-    the demand is refuted from their own history.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: judaism
-  ref: 1Kgs 18:38
-  note: Fire from heaven falls and consumes the offering, wood, stones, dust and water
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת הֶעָפָ֑ר
-    וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
-- tradition: islam
-  ref: Quran 3:183
-  note: Fire from heaven falls and consumes the offering, wood, stones, dust and water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    response. 1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš
-    YHWH wa-ttōʾkal ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q
-    3:183 qālū inna llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu
-    n-nāru qul qad jāʾakum rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum:
-    they claim God made them promise to believe no messenger without an offering ''the fire eats'' (ʾākal
-    / akala); answer: messengers did bring it, so why did you kill them? The Carmel test is turned into
-    the opponents'' demand, and the demand is refuted from their own history.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An offering consumed by fire as proof of the true God or messenger
     [response between the texts] (weight 6.7); Fire from heaven falls and consumes the offering, wood,
@@ -121,6 +54,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An offering consumed by fire as proof of the true God or messenger
+kinds:
+- response
+- shared
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: response
+  label: An offering consumed by fire as proof of the true God or messenger
+  note: '1Kgs 18:24, 38 wĕ-hāyâ hā-ʾĕlōhîm ʾăšer yaʿăneh bā-ʾēš hûʾ hā-ʾĕlōhîm ... wa-ttippōl ʾēš YHWH
+    wa-ttōʾkal ʾet hā-ʿōlâ: the god who answers by fire is God, and the fire eats the offering; Q 3:183
+    qālū inna llāha ʿahida ilaynā allā nuʾmina li-rasūlin ḥattā yaʾtiyanā bi-qurbānin taʾkuluhu n-nāru
+    qul qad jāʾakum rusulun min qablī bi-l-bayyināti wa-bi-lladhī qultum fa-li-ma qataltumūhum: they claim
+    God made them promise to believe no messenger without an offering ''the fire eats'' (ʾākal / akala);
+    answer: messengers did bring it, so why did you kill them? The Carmel test is turned into the opponents''
+    demand, and the demand is refuted from their own history.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:24
+      lang: he
+      text: וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר
+        יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר
+    - ref: 1Kgs 18:38
+      lang: he
+      text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת
+        הֶעָפָ֑ר וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+- kind: shared
+  label: Fire from heaven falls and consumes the offering, wood, stones, dust and water
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:38
+      lang: he
+      text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת
+        הֶעָפָ֑ר וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

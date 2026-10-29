@@ -439,7 +439,7 @@ def write_report(quran, heb, q_conc, h_conc, q_bridges, h_bridges, bench, ara=No
 
 QURAN_TEXT, HEBREW_TEXT = {}, {}
 PIPELINE_FIELDS = {"title", "summary", "relations", "standing", "traditions", "layers", "lexical",
-                   "passages", "evidence", "motifs"}
+                   "passages", "evidence", "motifs", "finding", "kinds", "units", "matches"}
 
 
 def write_lead(lead):

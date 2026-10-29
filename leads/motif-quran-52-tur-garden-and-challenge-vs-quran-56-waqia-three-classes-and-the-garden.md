@@ -3,9 +3,7 @@ id: motif-quran-52-tur-garden-and-challenge-vs-quran-56-waqia-three-classes-and-
 title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
   run of ''or...?'' challenges ↔ Al-Waqi''a: the Event that abases and exalts; the three classes; the
   Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 5 motifs: the blessed recline on couches set in rows (or face to face),
-  youths (ghilman) like hidden pearls go round serving them, abundant fruit in paradise from which the
-  blessed eat, the blessed are paired with wide-eyed maidens (hur ''in)….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -15,115 +13,18 @@ traditions:
 layers:
 - motif
 motifs:
-- reclining-on-ranked-couches
 - youths-like-hidden-pearls
+- reclining-on-ranked-couches
 - fruit-of-paradise
 - houris-wide-eyed
 - effects-of-wine-and-the-cup-as-contrast
-passages:
-- tradition: islam
-  ref: Quran 52:20
-  note: The blessed recline on couches set in rows (or face to face)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ
-- tradition: islam
-  ref: Quran 56:15
-  note: The blessed recline on couches set in rows (or face to face) (on jewel-woven couches, facing one
-    another)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَىٰ سُرُرٍ مَّوْضُونَةٍ
-- tradition: islam
-  ref: Quran 56:16
-  note: The blessed recline on couches set in rows (or face to face) (on jewel-woven couches, facing one
-    another)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ
-- tradition: islam
-  ref: Quran 52:24
-  note: Youths (ghilman) like hidden pearls go round serving them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
-- tradition: islam
-  ref: Quran 56:23
-  note: Youths (ghilman) like hidden pearls go round serving them (here the houris are like hidden pearls)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
-- tradition: islam
-  ref: Quran 52:22
-  note: Abundant fruit in paradise from which the blessed eat
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْدَدْنَٰهُم بِفَٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ
-- tradition: islam
-  ref: Quran 56:20
-  note: Abundant fruit in paradise from which the blessed eat
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفَٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ
-- tradition: islam
-  ref: Quran 56:32
-  note: Abundant fruit in paradise from which the blessed eat
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفَٰكِهَةٍ كَثِيرَةٍ
-- tradition: islam
-  ref: Quran 52:20
-  note: The blessed are paired with wide-eyed maidens (hur 'in)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ
-- tradition: islam
-  ref: Quran 56:22
-  note: The blessed are paired with wide-eyed maidens (hur 'in)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحُورٌ عِينٌ
-- tradition: islam
-  ref: Quran 56:23
-  note: The blessed are paired with wide-eyed maidens (hur 'in)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
-- tradition: islam
-  ref: Quran 52:23
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (Wine
-    and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker, strong drink
-    a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no idle talk and
-    no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
-- tradition: islam
-  ref: Quran 56:18
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ
-- tradition: islam
-  ref: Quran 56:19
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (The
-    effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm ʿal
-    hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin wa-abārīqa
-    wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits). The Quran''s
-    paradise wine is described by the absence of the drunkard''s woes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The blessed recline on couches set in rows (or face to face) (weight
-    6.7); Youths (ghilman) like hidden pearls go round serving them (weight 6.7); Abundant fruit in paradise
-    from which the blessed eat (weight 6.0); The blessed are paired with wide-eyed maidens (hur ''in)
-    (weight 6.0); The effects of wine and of the cup: mockery, madness, or none [contrast between the
-    texts] (weight 5.8). Pair score 31.1.'
+- text: 'Shared motifs, rarest first: Youths (ghilman) like hidden pearls go round serving them (weight
+    6.7); The blessed recline on couches set in rows (or face to face) (weight 6.7); Abundant fruit in
+    paradise from which the blessed eat (weight 6.0); The blessed are paired with wide-eyed maidens (hur
+    ''in) (weight 6.0); The effects of wine and of the cup: mockery, madness, or none [contrast between
+    the texts] (weight 5.8). Pair score 31.1.'
   basis: reading
 - text: 'Only in The Garden: offspring joined with parents, the cup without idle talk, youths like pearls;
     the run of ''or...?'' challenges: The blessed question each other and recall that they used to be
@@ -160,6 +61,105 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Youths (ghilman) like hidden pearls go round serving them
+kinds:
+- shared
+units:
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: shared
+  label: Youths (ghilman) like hidden pearls go round serving them
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:24
+      lang: ar
+      text: وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:23
+      lang: ar
+      text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
+    note: here the houris are like hidden pearls
+- kind: shared
+  label: The blessed recline on couches set in rows (or face to face)
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:20
+      lang: ar
+      text: مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:15
+      lang: ar
+      text: عَلَىٰ سُرُرٍ مَّوْضُونَةٍ
+    - ref: Quran 56:16
+      lang: ar
+      text: مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَٰبِلِينَ
+    note: on jewel-woven couches, facing one another
+- kind: shared
+  label: Abundant fruit in paradise from which the blessed eat
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:22
+      lang: ar
+      text: وَأَمْدَدْنَٰهُم بِفَٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:20
+      lang: ar
+      text: وَفَٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ
+    - ref: Quran 56:32
+      lang: ar
+      text: وَفَٰكِهَةٍ كَثِيرَةٍ
+- kind: shared
+  label: The blessed are paired with wide-eyed maidens (hur 'in)
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:20
+      lang: ar
+      text: مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ وَزَوَّجْنَٰهُم بِحُورٍ عِينٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 56:22
+      lang: ar
+      text: وَحُورٌ عِينٌ
+    - ref: Quran 56:23
+      lang: ar
+      text: كَأَمْثَٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ
+- kind: shared
+  label: 'The effects of wine and of the cup: mockery, madness, or none'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 52:23
+      lang: ar
+      text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
+    note: 'Wine and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker,
+      strong drink a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no
+      idle talk and no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.'
+  - tradition: islam
+    passages:
+    - ref: Quran 56:18
+      lang: ar
+      text: بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ
+    - ref: Quran 56:19
+      lang: ar
+      text: لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ
+    note: 'The effects of wine. Proverbs: ləmî ʾôy ... ləmî p̄əṣāʿîm ḥinnām ləmî ḥaḵlilûṯ ʿênāyim; la-məʾaḥărîm
+      ʿal hay-yāyin; hikkûnî bal ḥālîtî ... māṯay ʾāqîṣ (woe, wounds, red eyes, stupor). Quran: bi-akwābin
+      wa-abārīqa wa-kaʾsin min maʿīn, lā yuṣaddaʿūna ʿanhā wa-lā yunzifūn (no headache, no loss of wits).
+      The Quran''s paradise wine is described by the absence of the drunkard''s woes.'
 ---
 
 ## Questions

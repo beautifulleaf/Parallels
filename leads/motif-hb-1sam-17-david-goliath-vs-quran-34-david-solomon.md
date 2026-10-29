@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-17-david-goliath-vs-quran-34-david-solomon
 title: David and Goliath ↔ David's mountains and mail; Solomon's wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: david and the coat of mail [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,57 +13,9 @@ layers:
 - motif
 motifs:
 - david-and-the-coat-of-mail-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Sam 17:38
-  note: 'David and the coat of mail [contrast between the texts] (David and the coat of mail. 1 Sam: wa-yyalbēš
-    ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh kî lōʾ nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk
-    in armour and takes it off). Q: wa-alannā lahu l-ḥadīda ani ʿmal sābighātin wa-qaddir fī s-sard (God
-    softens iron for him and teaches him to make full coats of mail). The boy who refuses armour becomes
-    the master armourer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ
-    אֹת֖וֹ שִׁרְיֽוֹן
-- tradition: judaism
-  ref: 1Sam 17:39
-  note: 'David and the coat of mail [contrast between the texts] (David and the coat of mail. 1 Sam: wa-yyalbēš
-    ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh kî lōʾ nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk
-    in armour and takes it off). Q: wa-alannā lahu l-ḥadīda ani ʿmal sābighātin wa-qaddir fī s-sard (God
-    softens iron for him and teaches him to make full coats of mail). The boy who refuses armour becomes
-    the master armourer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּחְגֹּ֣ר דָּוִ֣ד אֶת חַ֠רְבּוֹ מֵעַ֨ל לְמַדָּ֜יו וַיֹּ֣אֶל לָלֶכֶת֮ כִּ֣י לֹֽא נִסָּה֒ וַיֹּ֨אמֶר
-    דָּוִ֜ד אֶל שָׁא֗וּל לֹ֥א אוּכַ֛ל לָלֶ֥כֶת בָּאֵ֖לֶּה כִּ֣י לֹ֣א נִסִּ֑יתִי וַיְסִרֵ֥ם דָּוִ֖ד מֵעָלָֽיו
-- tradition: islam
-  ref: Quran 34:10
-  note: 'David and the coat of mail [contrast between the texts] (David and the coat of mail. 1 Sam: wa-yyalbēš
-    ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh kî lōʾ nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk
-    in armour and takes it off). Q: wa-alannā lahu l-ḥadīda ani ʿmal sābighātin wa-qaddir fī s-sard (God
-    softens iron for him and teaches him to make full coats of mail). The boy who refuses armour becomes
-    the master armourer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
-    لَهُ ٱلْحَدِيدَ
-- tradition: islam
-  ref: Quran 34:11
-  note: 'David and the coat of mail [contrast between the texts] (David and the coat of mail. 1 Sam: wa-yyalbēš
-    ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh kî lōʾ nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk
-    in armour and takes it off). Q: wa-alannā lahu l-ḥadīda ani ʿmal sābighātin wa-qaddir fī s-sard (God
-    softens iron for him and teaches him to make full coats of mail). The boy who refuses armour becomes
-    the master armourer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱعْمَلْ سَٰبِغَٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ وَٱعْمَلُوا۟ صَٰلِحًا إِنِّى بِمَا تَعْمَلُونَ
-    بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. David and the coat of mail. 1 Sam: wa-yyalbēš ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh
-    kî lōʾ nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk in armour and takes it off). Q: wa-alannā
-    lahu l-ḥadīda ani ʿmal sābighātin wa-qaddir fī s-sard (God softens iron for him and teaches him to
-    make full coats of mail). The boy who refuses armour becomes the master armourer.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David and the coat of mail [contrast between the texts] (weight
     6.7). Pair score 6.7.'
@@ -97,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: David and the coat of mail
+kinds:
+- contrast
+units:
+- id: hb-1sam-17-david-goliath
+  title: David and Goliath
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: contrast
+  label: David and the coat of mail
+  note: 'David and the coat of mail. 1 Sam: wa-yyalbēš ʾōṯô širyôn ... lōʾ ʾûḵal lāleḵeṯ bāʾēlleh kî lōʾ
+    nissîṯî wa-yəsirēm dāwiḏ mē-ʿālâw (he cannot walk in armour and takes it off). Q: wa-alannā lahu l-ḥadīda
+    ani ʿmal sābighātin wa-qaddir fī s-sard (God softens iron for him and teaches him to make full coats
+    of mail). The boy who refuses armour becomes the master armourer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 17:38
+      lang: he
+      text: וַיַּלְבֵּ֨שׁ שָׁא֤וּל אֶת דָּוִד֙ מַדָּ֔יו וְנָתַ֛ן ק֥וֹבַע נְחֹ֖שֶׁת עַל רֹאשׁ֑וֹ וַיַּלְבֵּ֥שׁ
+        אֹת֖וֹ שִׁרְיֽוֹן
+    - ref: 1Sam 17:39
+      lang: he
+      text: וַיַּחְגֹּ֣ר דָּוִ֣ד אֶת חַ֠רְבּוֹ מֵעַ֨ל לְמַדָּ֜יו וַיֹּ֣אֶל לָלֶכֶת֮ כִּ֣י לֹֽא נִסָּה֒
+        וַיֹּ֨אמֶר דָּוִ֜ד אֶל שָׁא֗וּל לֹ֥א אוּכַ֛ל לָלֶ֥כֶת בָּאֵ֖לֶּה כִּ֣י לֹ֣א נִסִּ֑יתִי וַיְסִרֵ֥ם
+        דָּוִ֖ד מֵעָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 34:10
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا دَاوُۥدَ مِنَّا فَضْلًا يَٰجِبَالُ أَوِّبِى مَعَهُۥ وَٱلطَّيْرَ وَأَلَنَّا
+        لَهُ ٱلْحَدِيدَ
+    - ref: Quran 34:11
+      lang: ar
+      text: أَنِ ٱعْمَلْ سَٰبِغَٰتٍ وَقَدِّرْ فِى ٱلسَّرْدِ وَٱعْمَلُوا۟ صَٰلِحًا إِنِّى بِمَا تَعْمَلُونَ
+        بَصِيرٌ
 ---
 
 ## Questions

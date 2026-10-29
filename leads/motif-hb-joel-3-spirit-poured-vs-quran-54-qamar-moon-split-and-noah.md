@@ -2,8 +2,7 @@
 id: motif-hb-joel-3-spirit-poured-vs-quran-54-qamar-moon-split-and-noah
 title: 'The spirit poured on all flesh and signs before the Day ↔ Al-Qamar: the moon split, the dead like
   locusts, and Noah''s ark of planks and fibres'
-summary: 'These two units share 1 motifs: ''the hour has drawn near and the moon is split'' (inshaqqa
-  l-qamar).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - hour-near-moon-split
-passages:
-- tradition: judaism
-  ref: Joel 3:4
-  note: '''The Hour has drawn near and the moon is split'' (inshaqqa l-qamar) (A portent on the moon before
-    the Day: haš-šemeš yēhāp̄ēḵ lə-ḥōšeḵ wə-hay-yārēaḥ lə-ḏām lip̄nê bôʾ yôm YHWH vs. iqtarabati s-sāʿatu
-    wa-nshaqqa l-qamar. The moon turns to blood in Joel, is split in the Quran (a past event in Muslim
-    tradition, a future sign in some readings).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ וְהַיָּרֵ֖חַ לְדָ֑ם לִפְנֵ֗י בּ֚וֹא י֣וֹם יְהוָ֔ה הַגָּד֖וֹל
-    וְהַנּוֹרָֽא
-- tradition: islam
-  ref: Quran 54:1
-  note: '''The Hour has drawn near and the moon is split'' (inshaqqa l-qamar)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A portent on the moon before the Day: haš-šemeš yēhāp̄ēḵ lə-ḥōšeḵ wə-hay-yārēaḥ lə-ḏām lip̄nê
-    bôʾ yôm YHWH vs. iqtarabati s-sāʿatu wa-nshaqqa l-qamar. The moon turns to blood in Joel, is split
-    in the Quran (a past event in Muslim tradition, a future sign in some readings).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The Hour has drawn near and the moon is split'' (inshaqqa l-qamar)
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''The Hour has drawn near and the moon is split'' (inshaqqa l-qamar)'
+kinds:
+- echo
+units:
+- id: hb-joel-3-spirit-poured
+  title: The spirit poured on all flesh and signs before the Day
+  tradition: judaism
+- id: quran-54-qamar-moon-split-and-noah
+  title: 'Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''The Hour has drawn near and the moon is split'' (inshaqqa l-qamar)'
+  note: 'A portent on the moon before the Day: haš-šemeš yēhāp̄ēḵ lə-ḥōšeḵ wə-hay-yārēaḥ lə-ḏām lip̄nê
+    bôʾ yôm YHWH vs. iqtarabati s-sāʿatu wa-nshaqqa l-qamar. The moon turns to blood in Joel, is split
+    in the Quran (a past event in Muslim tradition, a future sign in some readings).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 3:4
+      lang: he
+      text: הַשֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ וְהַיָּרֵ֖חַ לְדָ֑ם לִפְנֵ֗י בּ֚וֹא י֣וֹם יְהוָ֔ה הַגָּד֖וֹל
+        וְהַנּוֹרָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 54:1
+      lang: ar
+      text: ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ
 ---
 
 ## Questions

@@ -3,8 +3,7 @@ id: motif-hb-isa-40-comfort-my-people-vs-quran-50-qaf-two-recorders-and-hell-ask
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Nearer than the jugular
   vein; the two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without
   weariness
-summary: 'These two units share 1 motifs: the everlasting god, creator of the ends of the earth, does
-  not faint or grow weary; his understanding is unsearchable.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,30 +16,9 @@ layers:
 - motif
 motifs:
 - god-never-tires
-passages:
-- tradition: judaism
-  ref: Isa 40:28
-  note: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א
-    יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
-- tradition: islam
-  ref: Quran 50:38
-  note: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
-    is unsearchable (lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. wa-mā massanā min lughūb (Arabic lughūb ~ Hebrew yāḡaʿ,
-    weariness). Within the HB, Isaiah already says what the Quran says against Exod 31:17; the Quran's
-    response sides with one strand of the HB against another.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا
-    مِن لُّغُوبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. wa-mā massanā min lughūb (Arabic lughūb ~ Hebrew yāḡaʿ, weariness).
-    Within the HB, Isaiah already says what the Quran says against Exod 31:17; the Quran''s response sides
-    with one strand of the HB against another.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The everlasting God, creator of the ends of the earth, does not
     faint or grow weary; his understanding is unsearchable (weight 6.0). Pair score 6.0.'
@@ -81,6 +59,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+  is unsearchable
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: parallel
+  label: The everlasting God, creator of the ends of the earth, does not faint or grow weary; his understanding
+    is unsearchable
+  note: lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. wa-mā massanā min lughūb (Arabic lughūb ~ Hebrew yāḡaʿ, weariness).
+    Within the HB, Isaiah already says what the Quran says against Exod 31:17; the Quran's response sides
+    with one strand of the HB against another.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:28
+      lang: he
+      text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ
+        לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:38
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا
+        مَسَّنَا مِن لُّغُوبٍ
 ---
 
 ## Questions

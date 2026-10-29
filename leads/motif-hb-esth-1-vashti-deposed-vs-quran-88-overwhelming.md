@@ -2,8 +2,7 @@
 id: motif-hb-esth-1-vashti-deposed-vs-quran-88-overwhelming
 title: 'Ahasuerus''s banquets and Queen Vashti''s refusal ↔ The overwhelming event: dari'' and the carpets
   of paradise'
-summary: 'These two units share 1 motifs: palace garden decorated with fine hangings, marble columns,
-  gold and silver couches and mosaic pavement.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - luxurious-palace-garden-furnishings
-passages:
-- tradition: judaism
-  ref: Esth 1:5-7
-  note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
-    pavement (white cotton (karpas) and blue hangings on silver rings, marble pillars, couches of gold
-    and silver on mosaic pavement; each cup different)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (1:5) וּבִמְל֣וֹאת הַיָּמִ֣ים הָאֵ֗לֶּה עָשָׂ֣ה הַמֶּ֡לֶךְ לְכָל הָעָ֣ם הַנִּמְצְאִים֩ בְּשׁוּשַׁ֨ן
-    הַבִּירָ֜ה לְמִגָּ֧דוֹל וְעַד קָטָ֛ן מִשְׁתֶּ֖ה שִׁבְעַ֣ת יָמִ֑ים בַּחֲצַ֕ר גִּנַּ֥ת בִּיתַ֖ן הַמֶּֽלֶךְ
-    (1:6) ח֣וּר כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי
-    שֵׁ֑שׁ מִטּ֣וֹת זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת (1:7) וְהַשְׁקוֹת֙
-    בִּכְלֵ֣י זָהָ֔ב וְכֵלִ֖ים מִכֵּלִ֣ים שׁוֹנִ֑ים וְיֵ֥ין מַלְכ֛וּת רָ֖ב כְּיַ֥ד הַמֶּֽלֶךְ
-- tradition: judaism
-  ref: Esth 1:6
-  note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
-    pavement (white cotton (karpas) and blue hangings on silver rings, marble pillars, couches of gold
-    and silver on mosaic pavement; each cup different)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ח֣וּר כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי
-    שֵׁ֑שׁ מִטּ֣וֹת זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת
-- tradition: islam
-  ref: Quran 88:13
-  note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
-    pavement (raised couches, goblets, cushions, carpets)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهَا سُرُرٌ مَّرْفُوعَةٌ
-- tradition: islam
-  ref: Quran 88:14
-  note: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
-    pavement (raised couches, goblets, cushions, carpets)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَكْوَابٌ مَّوْضُوعَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fīhā sururun marfūʿatun wa-akwābun mawḍūʿatun wa-namāriqu maṣfūfatun wa-zarābiyyu mabthūtha
-    ~ ḥûr karpas û-tekēlet ... miṭṭôt zāhāv wā-kesef ʿal riṣpat bahaṭ wā-šēš: the furnished couches, vessels
-    and floor-coverings of a royal garden feast; the Persian king''s banquet in Esther, the Garden in
-    the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Palace garden decorated with fine hangings, marble columns, gold
     and silver couches and mosaic pavement (weight 6.7). Pair score 6.7.'
@@ -91,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
+  pavement
+kinds:
+- echo
+units:
+- id: hb-esth-1-vashti-deposed
+  title: Ahasuerus's banquets and Queen Vashti's refusal
+  tradition: judaism
+- id: quran-88-overwhelming
+  title: 'The overwhelming event: dari'' and the carpets of paradise'
+  tradition: islam
+matches:
+- kind: echo
+  label: Palace garden decorated with fine hangings, marble columns, gold and silver couches and mosaic
+    pavement
+  note: 'fīhā sururun marfūʿatun wa-akwābun mawḍūʿatun wa-namāriqu maṣfūfatun wa-zarābiyyu mabthūtha ~
+    ḥûr karpas û-tekēlet ... miṭṭôt zāhāv wā-kesef ʿal riṣpat bahaṭ wā-šēš: the furnished couches, vessels
+    and floor-coverings of a royal garden feast; the Persian king''s banquet in Esther, the Garden in
+    the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Esth 1:6
+      lang: he
+      text: ח֣וּר כַּרְפַּ֣ס וּתְכֵ֗לֶת אָחוּז֙ בְּחַבְלֵי ב֣וּץ וְאַרְגָּמָ֔ן עַל גְּלִ֥ילֵי כֶ֖סֶף וְעַמּ֣וּדֵי
+        שֵׁ֑שׁ מִטּ֣וֹת זָהָ֣ב וָכֶ֗סֶף עַ֛ל רִֽצְפַ֥ת בַּהַט וָשֵׁ֖שׁ וְדַ֥ר וְסֹחָֽרֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 88:13
+      lang: ar
+      text: فِيهَا سُرُرٌ مَّرْفُوعَةٌ
+    - ref: Quran 88:14
+      lang: ar
+      text: وَأَكْوَابٌ مَّوْضُوعَةٌ
+    - ref: Quran 88:15
+      lang: ar
+      text: وَنَمَارِقُ مَصْفُوفَةٌ
 ---
 
 ## Questions

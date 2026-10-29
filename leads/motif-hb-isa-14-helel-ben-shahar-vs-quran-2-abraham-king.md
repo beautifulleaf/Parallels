@@ -2,7 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-2-abraham-king
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ Abraham disputes
   with the king
-summary: 'These two units share 1 motifs: abraham disputes with a king, who claims ''i give life and death''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-disputes-with-king-life-death
-passages:
-- tradition: judaism
-  ref: Isa 14:13
-  note: 'Abraham disputes with a king, who claims ''I give life and death'' (Isa 14:13-14 ʾeʿĕleh ʿal
-    bāmŏtê ʿāb ʾeddammeh lĕ-ʿelyôn: the Babylonian king claims to be like the Most High; Q 2:258 alladhī
-    ḥājja ibrāhīma fī rabbihi an ātāhu llāhu l-mulka ... anā uḥyī wa-umītu: a king given power by God
-    claims divine power and is confounded (fa-buhita). The king who plays God; in the Quran answered by
-    Abraham''s sun challenge, in Isaiah brought down to Sheol.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים כִּסְאִ֑י
-    וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
-- tradition: judaism
-  ref: Isa 14:14
-  note: 'Abraham disputes with a king, who claims ''I give life and death'' (Isa 14:13-14 ʾeʿĕleh ʿal
-    bāmŏtê ʿāb ʾeddammeh lĕ-ʿelyôn: the Babylonian king claims to be like the Most High; Q 2:258 alladhī
-    ḥājja ibrāhīma fī rabbihi an ātāhu llāhu l-mulka ... anā uḥyī wa-umītu: a king given power by God
-    claims divine power and is confounded (fa-buhita). The king who plays God; in the Quran answered by
-    Abraham''s sun challenge, in Isaiah brought down to Sheol.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶעֱלֶ֖ה עַל בָּ֣מֳתֵי עָ֑ב אֶדַּמֶּ֖ה לְעֶלְיֽוֹן
-- tradition: islam
-  ref: Quran 2:258
-  note: Abraham disputes with a king, who claims 'I give life and death'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
-    إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ إِبْرَٰهِۦمُ
-    فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ فَبُهِتَ ٱلَّذِى
-    كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 14:13-14 ʾeʿĕleh ʿal bāmŏtê ʿāb ʾeddammeh lĕ-ʿelyôn: the Babylonian king claims to be like
-    the Most High; Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi an ātāhu llāhu l-mulka ... anā uḥyī wa-umītu:
-    a king given power by God claims divine power and is confounded (fa-buhita). The king who plays God;
-    in the Quran answered by Abraham''s sun challenge, in Isaiah brought down to Sheol.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham disputes with a king, who claims ''I give life and death''
     (weight 6.7). Pair score 6.7.'
@@ -82,6 +48,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham disputes with a king, who claims 'I give life and death'
+kinds:
+- echo
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-2-abraham-king
+  title: Abraham disputes with the king
+  tradition: islam
+matches:
+- kind: echo
+  label: Abraham disputes with a king, who claims 'I give life and death'
+  note: 'Isa 14:13-14 ʾeʿĕleh ʿal bāmŏtê ʿāb ʾeddammeh lĕ-ʿelyôn: the Babylonian king claims to be like
+    the Most High; Q 2:258 alladhī ḥājja ibrāhīma fī rabbihi an ātāhu llāhu l-mulka ... anā uḥyī wa-umītu:
+    a king given power by God claims divine power and is confounded (fa-buhita). The king who plays God;
+    in the Quran answered by Abraham''s sun challenge, in Isaiah brought down to Sheol.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:13
+      lang: he
+      text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים
+        כִּסְאִ֑י וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
+    - ref: Isa 14:14
+      lang: he
+      text: אֶעֱלֶ֖ה עַל בָּ֣מֳתֵי עָ֑ב אֶדַּמֶּ֖ה לְעֶלְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 2:258
+      lang: ar
+      text: أَلَمْ تَرَ إِلَى ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ فِى رَبِّهِۦٓ أَنْ ءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ
+        إِذْ قَالَ إِبْرَٰهِۦمُ رَبِّىَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ قَالَ أَنَا۠ أُحْىِۦ وَأُمِيتُ قَالَ
+        إِبْرَٰهِۦمُ فَإِنَّ ٱللَّهَ يَأْتِى بِٱلشَّمْسِ مِنَ ٱلْمَشْرِقِ فَأْتِ بِهَا مِنَ ٱلْمَغْرِبِ
+        فَبُهِتَ ٱلَّذِى كَفَرَ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

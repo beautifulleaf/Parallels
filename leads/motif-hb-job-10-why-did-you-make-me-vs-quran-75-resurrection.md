@@ -2,9 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-75-resurrection
 title: 'Job - ''Your hands fashioned me''; land of darkness ↔ The resurrection: bones, fingertips and
   the collarbone'
-summary: 'These two units share 2 motifs: god poured the embryo out like milk and curdled it like cheese,
-  clothing it with skin and flesh and knitting bones and sinews, human created in stages: a drop of sperm
-  (nutfa), a clinging clot (''alaq/''alaqa), then shaped and proportioned.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,74 +16,9 @@ layers:
 motifs:
 - embryo-curdled-like-cheese
 - embryo-stages-drop-clot-form
-passages:
-- tradition: judaism
-  ref: Job 10:10
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
-- tradition: judaism
-  ref: Job 10:11
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
-- tradition: islam
-  ref: Quran 75:37
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (drop of emitted semen, then a clot, then shaped and proportioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
-- tradition: islam
-  ref: Quran 75:38
-  note: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
-    and knitting bones and sinews (drop of emitted semen, then a clot, then shaped and proportioned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
-- tradition: judaism
-  ref: Job 10:8
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum
-    mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr
-    û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah
-    into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
-- tradition: judaism
-  ref: Job 10:9
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned (Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum
-    mina l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr
-    û-vāśār talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah
-    into an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 75:37
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
-- tradition: islam
-  ref: Quran 75:38
-  note: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
-    and proportioned'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. nuṭfatan min maniyyin yumnā thumma kāna ʿalaqatan ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh
-    taqpîʾēnî: poured fluid that thickens, then is clothed and shaped (fa-khalaqa fa-sawwā ~ ʿôr û-vāśār
-    talbîšēnî). Argument for resurrection in 75:40, for complaint in Job.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God poured the embryo out like milk and curdled it like cheese,
     clothing it with skin and flesh and knitting bones and sinews (weight 5.8); Human created in stages:
@@ -123,6 +56,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
+  and knitting bones and sinews
+kinds:
+- parallel
+- shared
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-75-resurrection
+  title: 'The resurrection: bones, fingertips and the collarbone'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God poured the embryo out like milk and curdled it like cheese, clothing it with skin and flesh
+    and knitting bones and sinews
+  note: 'nuṭfatan min maniyyin yumnā thumma kāna ʿalaqatan ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh
+    taqpîʾēnî: poured fluid that thickens, then is clothed and shaped (fa-khalaqa fa-sawwā ~ ʿôr û-vāśār
+    talbîšēnî). Argument for resurrection in 75:40, for complaint in Job.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    - ref: Job 10:11
+      lang: he
+      text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 75:37
+      lang: ar
+      text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
+    - ref: Quran 75:38
+      lang: ar
+      text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
+- kind: shared
+  label: 'Human created in stages: a drop of sperm (nutfa), a clinging clot (''alaq/''alaqa), then shaped
+    and proportioned'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:8
+      lang: he
+      text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    note: 'Creation in stages and return to earth: wa-qad khalaqakum aṭwāran ... wa-llāhu anbatakum mina
+      l-arḍi nabātan thumma yuʿīdukum fīhā ~ hă-lōʾ ke-ḥālāv tattîkēnî we-kaggevinnāh taqpîʾēnî, ʿôr û-vāśār
+      talbîšēnî ... kî ka-ḥōmer ʿăśîtānî we-ʾel ʿāfār tešîvēnî. Job turns it into a complaint; Noah into
+      an argument for reverence (mā lakum lā tarjūna li-llāhi waqāran).'
+  - tradition: islam
+    passages:
+    - ref: Quran 75:37
+      lang: ar
+      text: أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ
+    - ref: Quran 75:38
+      lang: ar
+      text: ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ
 ---
 
 ## Questions

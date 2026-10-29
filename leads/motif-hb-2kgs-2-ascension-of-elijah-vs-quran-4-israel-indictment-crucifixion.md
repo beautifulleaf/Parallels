@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-2-ascension-of-elijah-vs-quran-4-israel-indictment-crucifixion
 title: Elijah taken up in the whirlwind ↔ The indictment of Israel; the Messiah not crucified but raised
-summary: 'These two units share 1 motifs: prophet is taken up alive to heaven in a whirlwind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,33 +13,9 @@ layers:
 - motif
 motifs:
 - prophet-ascends-in-whirlwind
-passages:
-- tradition: judaism
-  ref: 2Kgs 2:1
-  note: Prophet is taken up alive to heaven in a whirlwind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּהַעֲל֤וֹת יְהוָה֙ אֶת אֵ֣לִיָּ֔הוּ בַּֽסְעָרָ֖ה הַשָּׁמָ֑יִם וַיֵּ֧לֶךְ אֵלִיָּ֛הוּ
-    וֶאֱלִישָׁ֖ע מִן הַגִּלְגָּֽל
-- tradition: judaism
-  ref: 2Kgs 2:11
-  note: Prophet is taken up alive to heaven in a whirlwind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י הֵ֣מָּה הֹלְכִ֤ים הָלוֹךְ֙ וְדַבֵּ֔ר וְהִנֵּ֤ה רֶֽכֶב אֵשׁ֙ וְס֣וּסֵי אֵ֔שׁ וַיַּפְרִ֖דוּ
-    בֵּ֣ין שְׁנֵיהֶ֑ם וַיַּ֨עַל֙ אֵ֣לִיָּ֔הוּ בַּֽסְעָרָ֖ה הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 4:158
-  note: 'Prophet is taken up alive to heaven in a whirlwind (bal rafaʿahu llāhu ilayhi: taken up alive
-    like Elijah (2 Kgs 2:11) or Enoch (Gen 5:24))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Taken up alive instead of dying. Q: bal rafaʿahu llāhu ilayhi, after wa-mā qatalūhu wa-mā ṣalabūhu.
-    2Kgs: wa-yyaʿal ʾĒliyyāhû bas-səʿārāh haš-šāmāyim. Q gives no chariot or whirlwind; the agent is God,
-    ''to himself''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet is taken up alive to heaven in a whirlwind (weight 6.3).
     Pair score 6.3.'
@@ -75,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet is taken up alive to heaven in a whirlwind
+kinds:
+- echo
+units:
+- id: hb-2kgs-2-ascension-of-elijah
+  title: Elijah taken up in the whirlwind
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet is taken up alive to heaven in a whirlwind
+  note: 'Taken up alive instead of dying. Q: bal rafaʿahu llāhu ilayhi, after wa-mā qatalūhu wa-mā ṣalabūhu.
+    2Kgs: wa-yyaʿal ʾĒliyyāhû bas-səʿārāh haš-šāmāyim. Q gives no chariot or whirlwind; the agent is God,
+    ''to himself''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 2:11
+      lang: he
+      text: וַיְהִ֗י הֵ֣מָּה הֹלְכִ֤ים הָלוֹךְ֙ וְדַבֵּ֔ר וְהִנֵּ֤ה רֶֽכֶב אֵשׁ֙ וְס֣וּסֵי אֵ֔שׁ וַיַּפְרִ֖דוּ
+        בֵּ֣ין שְׁנֵיהֶ֑ם וַיַּ֨עַל֙ אֵ֣לִיָּ֔הוּ בַּֽסְעָרָ֖ה הַשָּׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:158
+      lang: ar
+      text: بَل رَّفَعَهُ ٱللَّهُ إِلَيْهِ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-51-miserere-vs-quran-38-david-ewe-parable
 title: Psalm 51, David's confession after Bathsheba (Miserere) ↔ David's mountains, the two litigants
   and the ninety-nine ewes
-summary: 'These two units share 1 motifs: david realizes he was being tested, asks forgiveness, falls
-  down bowing and turns in repentance.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - david-realizes-test-repents-prostrate
-passages:
-- tradition: judaism
-  ref: Ps 51:6
-  note: 'David realizes he was being tested, asks forgiveness, falls down bowing and turns in repentance
-    (lə-ḵā ləḇaddəḵā ḥāṭāʾṯî wə-hā-raʿ bə-ʿêneyḵā ʿāśîṯî vs. fa-staghfara rabbahu wa-kharra rākiʿan wa-anāb:
-    David''s repentance addressed to God alone. The psalm superscription names Bathsheba; the Quran names
-    no sin.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֤ לְבַדְּךָ֨ חָטָאתִי֮ וְהָרַ֥ע בְּעֵינֶ֗יךָ עָ֫שִׂ֥יתִי לְ֭מַעַן תִּצְדַּ֥ק בְּדָבְרֶ֗ךָ
-    תִּזְכֶּ֥ה בְשָׁפְטֶֽךָ
-- tradition: islam
-  ref: Quran 38:24
-  note: David realizes he was being tested, asks forgiveness, falls down bowing and turns in repentance
-    (prostration verse)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ
-    لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ
-    مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ
-- tradition: islam
-  ref: Quran 38:25
-  note: David realizes he was being tested, asks forgiveness, falls down bowing and turns in repentance
-    (prostration verse)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَغَفَرْنَا لَهُۥ ذَٰلِكَ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. lə-ḵā ləḇaddəḵā ḥāṭāʾṯî wə-hā-raʿ bə-ʿêneyḵā ʿāśîṯî vs. fa-staghfara rabbahu wa-kharra rākiʿan
-    wa-anāb: David''s repentance addressed to God alone. The psalm superscription names Bathsheba; the
-    Quran names no sin.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: David realizes he was being tested, asks forgiveness, falls down
     bowing and turns in repentance (weight 6.7). Pair score 6.7.'
@@ -81,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: David realizes he was being tested, asks forgiveness, falls down bowing and turns in repentance
+kinds:
+- echo
+units:
+- id: hb-ps-51-miserere
+  title: Psalm 51, David's confession after Bathsheba (Miserere)
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: echo
+  label: David realizes he was being tested, asks forgiveness, falls down bowing and turns in repentance
+  note: 'lə-ḵā ləḇaddəḵā ḥāṭāʾṯî wə-hā-raʿ bə-ʿêneyḵā ʿāśîṯî vs. fa-staghfara rabbahu wa-kharra rākiʿan
+    wa-anāb: David''s repentance addressed to God alone. The psalm superscription names Bathsheba; the
+    Quran names no sin.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 51:6
+      lang: he
+      text: לְךָ֤ לְבַדְּךָ֨ חָטָאתִי֮ וְהָרַ֥ע בְּעֵינֶ֗יךָ עָ֫שִׂ֥יתִי לְ֭מַעַן תִּצְדַּ֥ק בְּדָבְרֶ֗ךָ
+        תִּזְכֶּ֥ה בְשָׁפְטֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:24
+      lang: ar
+      text: قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ إِلَىٰ نِعَاجِهِۦ وَإِنَّ كَثِيرًا مِّنَ ٱلْخُلَطَآءِ
+        لَيَبْغِى بَعْضُهُمْ عَلَىٰ بَعْضٍ إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَقَلِيلٌ
+        مَّا هُمْ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسْتَغْفَرَ رَبَّهُۥ وَخَرَّ رَاكِعًا وَأَنَابَ
+    - ref: Quran 38:25
+      lang: ar
+      text: فَغَفَرْنَا لَهُۥ ذَٰلِكَ وَإِنَّ لَهُۥ عِندَنَا لَزُلْفَىٰ وَحُسْنَ مَـَٔابٍ
 ---
 
 ## Questions

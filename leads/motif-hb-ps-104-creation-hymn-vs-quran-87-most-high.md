@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-87-most-high
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The Most High: the scrolls
   of Abraham and Moses'
-summary: 'These two units share 1 motifs: god pours down rain, splits the earth and makes grain, grapes,
-  olives, palms and pasture grow, as provision and sign.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - rain-and-crops-as-sign
-passages:
-- tradition: judaism
-  ref: Ps 104:13
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: judaism
-  ref: Ps 104:14
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 87:4
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (the pasture brought out and turned to dark stubble)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ
-- tradition: islam
-  ref: Quran 87:5
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (the pasture brought out and turned to dark stubble)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-lladhī akhraja l-marʿā fa-jaʿalahu ghuthāʾan aḥwā ~ maṣmîaḥ ḥāṣîr la-bbehēmāh. The Quran
-    adds the pasture''s withering to dark stubble.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God pours down rain, splits the earth and makes grain, grapes, olives,
     palms and pasture grow, as provision and sign (weight 5.6). Pair score 5.6.'
@@ -86,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+  as provision and sign
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-87-most-high
+  title: 'The Most High: the scrolls of Abraham and Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign
+  note: wa-lladhī akhraja l-marʿā fa-jaʿalahu ghuthāʾan aḥwā ~ maṣmîaḥ ḥāṣîr la-bbehēmāh. The Quran adds
+    the pasture's withering to dark stubble.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:14
+      lang: he
+      text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 87:4
+      lang: ar
+      text: وَٱلَّذِىٓ أَخْرَجَ ٱلْمَرْعَىٰ
+    - ref: Quran 87:5
+      lang: ar
+      text: فَجَعَلَهُۥ غُثَآءً أَحْوَىٰ
 ---
 
 ## Questions

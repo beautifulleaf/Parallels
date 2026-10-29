@@ -2,8 +2,7 @@
 id: motif-hb-isa-34-edom-and-lilith-vs-quran-21-end-and-inheritance
 title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins ↔ One community,
   Gog and Magog, the rolled heaven and the Zabur's promise
-summary: 'These two units share 1 motifs: all the host of heaven rot away and the heavens roll up like
-  a scroll; their host falls like withered leaves from vine and fig.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - heavens-rolled-up-like-scroll
-passages:
-- tradition: judaism
-  ref: Isa 34:4
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
-    כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
-- tradition: islam
-  ref: Quran 21:104
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig ('as the scroll (sijill) is rolled for writings')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ
-    وَعْدًا عَلَيْنَآ إِنَّا كُنَّا فَٰعِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wənāgōllû kassēper haššāmāyim wəkol-ṣəbāʾām yibbôl; yawma naṭwī s-samāʾa ka-ṭayyi s-sijilli
-    li-l-kutub: the sky rolled up like a written scroll (sēper / sijill li-l-kutub). Isa''s image is part
-    of a judgment on Edom and the nations; Q''s is the prelude to recreation, ka-mā badaʾnā awwala khalqin
-    nuʿīduh.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All the host of heaven rot away and the heavens roll up like a scroll;
     their host falls like withered leaves from vine and fig (weight 6.0). Pair score 6.0.'
@@ -76,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+  withered leaves from vine and fig
+kinds:
+- parallel
+units:
+- id: hb-isa-34-edom-and-lilith
+  title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+  tradition: judaism
+- id: quran-21-end-and-inheritance
+  title: One community, Gog and Magog, the rolled heaven and the Zabur's promise
+  tradition: islam
+matches:
+- kind: parallel
+  label: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+    withered leaves from vine and fig
+  note: 'wənāgōllû kassēper haššāmāyim wəkol-ṣəbāʾām yibbôl; yawma naṭwī s-samāʾa ka-ṭayyi s-sijilli li-l-kutub:
+    the sky rolled up like a written scroll (sēper / sijill li-l-kutub). Isa''s image is part of a judgment
+    on Edom and the nations; Q''s is the prelude to recreation, ka-mā badaʾnā awwala khalqin nuʿīduh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 34:4
+      lang: he
+      text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
+        כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:104
+      lang: ar
+      text: يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍ نُّعِيدُهُۥ
+        وَعْدًا عَلَيْنَآ إِنَّا كُنَّا فَٰعِلِينَ
 ---
 
 ## Questions

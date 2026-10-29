@@ -2,8 +2,7 @@
 id: motif-hb-isa-34-edom-and-lilith-vs-quran-39-mercy-and-last-day
 title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins ↔ Do not
   despair of mercy; the earth in God's grip; the throngs to hell and Garden
-summary: 'These two units share 1 motifs: all the host of heaven rot away and the heavens roll up like
-  a scroll; their host falls like withered leaves from vine and fig.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - heavens-rolled-up-like-scroll
-passages:
-- tradition: judaism
-  ref: Isa 34:4
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
-    כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
-- tradition: islam
-  ref: Quran 39:67
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig (heavens 'folded' (matwiyyat) in God's right hand)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ وَٱلسَّمَٰوَٰتُ
-    مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-nāgōllû ḵa-sseper ha-ššāmāyim vs. wa-s-samāwātu maṭwiyyātun bi-yamīnihi: the heavens
-    rolled or folded up at the end. Isaiah has a scroll, the Quran God''s right hand.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All the host of heaven rot away and the heavens roll up like a scroll;
     their host falls like withered leaves from vine and fig (weight 6.0). Pair score 6.0.'
@@ -78,6 +59,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+  withered leaves from vine and fig
+kinds:
+- parallel
+units:
+- id: hb-isa-34-edom-and-lilith
+  title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: parallel
+  label: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+    withered leaves from vine and fig
+  note: 'wə-nāgōllû ḵa-sseper ha-ššāmāyim vs. wa-s-samāwātu maṭwiyyātun bi-yamīnihi: the heavens rolled
+    or folded up at the end. Isaiah has a scroll, the Quran God''s right hand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 34:4
+      lang: he
+      text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
+        כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 39:67
+      lang: ar
+      text: وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦ وَٱلْأَرْضُ جَمِيعًا قَبْضَتُهُۥ يَوْمَ ٱلْقِيَٰمَةِ
+        وَٱلسَّمَٰوَٰتُ مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ سُبْحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشْرِكُونَ
 ---
 
 ## Questions

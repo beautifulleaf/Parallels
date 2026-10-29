@@ -2,8 +2,7 @@
 id: motif-hb-hos-4-lawsuit-priests-vs-quran-7-paradise-hell-araf
 title: YHWH's lawsuit; priests, divination and cultic harlotry ↔ Hell's quarrels, the camel and the needle,
   the people of the Heights
-summary: 'These two units share 1 motifs: god forgets the damned today as they forgot the meeting of this
-  day.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - god-forgets-those-who-forgot
-passages:
-- tradition: judaism
-  ref: Hos 4:6
-  note: 'God forgets the damned today as they forgot the meeting of this day (Forgetting answered with
-    forgetting, the same verb used twice. Q: fa-l-yawma nansāhum ka-mā nasū liqāʾa yawmihim hādhā. Hos:
-    wat-tiškaḥ tôrat ʾĕlōhêkhā ʾeškaḥ bānêkhā gam-ʾānî. Hos speaks of priests who forget the Torah; Q
-    of the damned who forgot the meeting with God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּֽי אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן
-    לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם אָֽנִי
-- tradition: islam
-  ref: Quran 7:51
-  note: God forgets the damned today as they forgot the meeting of this day
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ
-    نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Forgetting answered with forgetting, the same verb used twice. Q: fa-l-yawma nansāhum ka-mā
-    nasū liqāʾa yawmihim hādhā. Hos: wat-tiškaḥ tôrat ʾĕlōhêkhā ʾeškaḥ bānêkhā gam-ʾānî. Hos speaks of
-    priests who forget the Torah; Q of the damned who forgot the meeting with God.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God forgets the damned today as they forgot the meeting of this
     day (weight 5.8). Pair score 5.8.'
@@ -72,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God forgets the damned today as they forgot the meeting of this day
+kinds:
+- parallel
+units:
+- id: hb-hos-4-lawsuit-priests
+  title: YHWH's lawsuit; priests, divination and cultic harlotry
+  tradition: judaism
+- id: quran-7-paradise-hell-araf
+  title: Hell's quarrels, the camel and the needle, the people of the Heights
+  tradition: islam
+matches:
+- kind: parallel
+  label: God forgets the damned today as they forgot the meeting of this day
+  note: 'Forgetting answered with forgetting, the same verb used twice. Q: fa-l-yawma nansāhum ka-mā nasū
+    liqāʾa yawmihim hādhā. Hos: wat-tiškaḥ tôrat ʾĕlōhêkhā ʾeškaḥ bānêkhā gam-ʾānî. Hos speaks of priests
+    who forget the Torah; Q of the damned who forgot the meeting with God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 4:6
+      lang: he
+      text: נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּֽי אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן
+        לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:51
+      lang: ar
+      text: ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا فَٱلْيَوْمَ
+        نَنسَىٰهُمْ كَمَا نَسُوا۟ لِقَآءَ يَوْمِهِمْ هَٰذَا وَمَا كَانُوا۟ بِـَٔايَٰتِنَا يَجْحَدُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-exod-24-covenant-ratification-vs-quran-5-ablution-covenant-justice
 title: Covenant ratified in blood; the elders see God ↔ Ablution, the covenant 'we hear and obey', and
   justice despite hatred
-summary: 'These two units share 1 motifs: the people answer as one: all that yhwh has spoken we will do.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - people-accept-covenant-we-will-do
-passages:
-- tradition: judaism
-  ref: Exod 24:3
-  note: 'The people answer as one: all that YHWH has spoken we will do (''we will do and we will hear''
-    (na''aseh ve-nishma) in 24:7)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל הַמִּשְׁפָּטִ֑ים
-    וַיַּ֨עַן כָּל הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל הַדְּבָרִ֛ים אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה
-- tradition: judaism
-  ref: Exod 24:7
-  note: 'The people answer as one: all that YHWH has spoken we will do (''we will do and we will hear''
-    (na''aseh ve-nishma) in 24:7)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 5:7
-  note: 'The people answer as one: all that YHWH has spoken we will do (idh qultum samiʿnā wa-aṭaʿnā)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ
-    سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Covenant assent formula. Q: wa-mīthāqahu lladhī wāthaqakum bihi idh qultum samiʿnā wa-aṭaʿnā
-    (addressed to the believers). Exod: kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ. The pledge passes from
-    Israel at Sinai to the new community. Contrast Q 4:46 samiʿnā wa-ʿaṣaynā.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do (weight
     5.8). Pair score 5.8.'
@@ -74,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The people answer as one: all that YHWH has spoken we will do'
+kinds:
+- parallel
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-5-ablution-covenant-justice
+  title: Ablution, the covenant 'we hear and obey', and justice despite hatred
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The people answer as one: all that YHWH has spoken we will do'
+  note: 'Covenant assent formula. Q: wa-mīthāqahu lladhī wāthaqakum bihi idh qultum samiʿnā wa-aṭaʿnā
+    (addressed to the believers). Exod: kōl ʾăšer-dibber YHWH naʿăśeh wə-nišmāʿ. The pledge passes from
+    Israel at Sinai to the new community. Contrast Q 4:46 samiʿnā wa-ʿaṣaynā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 5:7
+      lang: ar
+      text: وَٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ وَمِيثَٰقَهُ ٱلَّذِى وَاثَقَكُم بِهِۦٓ إِذْ قُلْتُمْ
+        سَمِعْنَا وَأَطَعْنَا وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

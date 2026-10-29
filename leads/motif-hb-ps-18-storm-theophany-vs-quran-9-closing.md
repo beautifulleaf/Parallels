@@ -2,8 +2,7 @@
 id: motif-hb-ps-18-storm-theophany-vs-quran-9-closing
 title: Psalm 18 - David's song of deliverance and the storm theophany ↔ Surahs that increase faith; the
   compassionate messenger
-summary: 'These two units share 1 motifs: god addressed with a string of protective epithets: rock, fortress,
-  deliverer, shield, horn of salvation, stronghold.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - string-of-divine-epithets-rock-fortress
-passages:
-- tradition: judaism
-  ref: Ps 18:3
-  note: 'God addressed with a string of protective epithets: rock, fortress, deliverer, shield, horn of
-    salvation, stronghold'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֤ה סַֽלְעִ֥י וּמְצוּדָתִ֗י וּמְפַ֫לְטִ֥י אֵלִ֣י צ֭וּרִי אֶֽחֱסֶה בּ֑וֹ מָֽגִנִּ֥י וְקֶֽרֶן
-    יִ֝שְׁעִ֗י מִשְׂגַּבִּֽי
-- tradition: islam
-  ref: Quran 9:129
-  note: 'God addressed with a string of protective epithets: rock, fortress, deliverer, shield, horn of
-    salvation, stronghold (God alone as refuge and trust: ḥasbiya llāhu lā ilāha illā huwa ʿalayhi tawakkaltu
-    vs YHWH salʿî ûmᵉṣûdātî ... ṣûrî ʾeḥĕseh-bô (and 18:32 mî ʾĕlôah mibbalʿădê YHWH).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
-    رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God alone as refuge and trust: ḥasbiya llāhu lā ilāha illā huwa ʿalayhi tawakkaltu vs YHWH salʿî
-    ûmᵉṣûdātî ... ṣûrî ʾeḥĕseh-bô (and 18:32 mî ʾĕlôah mibbalʿădê YHWH).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God addressed with a string of protective epithets: rock, fortress,
     deliverer, shield, horn of salvation, stronghold (weight 6.3). Pair score 6.3.'
@@ -68,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God addressed with a string of protective epithets: rock, fortress, deliverer, shield, horn
+  of salvation, stronghold'
+kinds:
+- echo
+units:
+- id: hb-ps-18-storm-theophany
+  title: Psalm 18 - David's song of deliverance and the storm theophany
+  tradition: judaism
+- id: quran-9-closing
+  title: Surahs that increase faith; the compassionate messenger
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God addressed with a string of protective epithets: rock, fortress, deliverer, shield, horn
+    of salvation, stronghold'
+  note: 'God alone as refuge and trust: ḥasbiya llāhu lā ilāha illā huwa ʿalayhi tawakkaltu vs YHWH salʿî
+    ûmᵉṣûdātî ... ṣûrî ʾeḥĕseh-bô (and 18:32 mî ʾĕlôah mibbalʿădê YHWH).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 18:3
+      lang: he
+      text: יְהוָ֤ה סַֽלְעִ֥י וּמְצוּדָתִ֗י וּמְפַ֫לְטִ֥י אֵלִ֣י צ֭וּרִי אֶֽחֱסֶה בּ֑וֹ מָֽגִנִּ֥י וְקֶֽרֶן
+        יִ֝שְׁעִ֗י מִשְׂגַּבִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 9:129
+      lang: ar
+      text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
+        رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 ---
 
 ## Questions

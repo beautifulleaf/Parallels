@@ -2,8 +2,7 @@
 id: motif-hb-ps-102-afflicted-vs-quran-28-qarun
 title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment ↔ Qarun's treasures and
   his swallowing by the earth; closing
-summary: 'These two units share 1 motifs: all on earth perish; there remains the face of your lord, possessor
-  of majesty and honor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - all-perish-but-the-face-of-god
-passages:
-- tradition: judaism
-  ref: Ps 102:27
-  note: 'All on earth perish; there remains the Face of your Lord, possessor of majesty and honor (kullu
-    shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû:
-    everything perishes (halaka / ʾāvad) except God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
-    וְֽיַחֲלֹֽפוּ
-- tradition: judaism
-  ref: Ps 102:28
-  note: 'All on earth perish; there remains the Face of your Lord, possessor of majesty and honor (kullu
-    shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā lōʾ yittāmmû:
-    everything perishes (halaka / ʾāvad) except God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
-- tradition: islam
-  ref: Quran 28:88
-  note: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَآ إِلَٰهَ إِلَّا هُوَ كُلُّ شَىْءٍ هَالِكٌ إِلَّا
-    وَجْهَهُۥ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. kullu shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā
-    lōʾ yittāmmû: everything perishes (halaka / ʾāvad) except God.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All on earth perish; there remains the Face of your Lord, possessor
     of majesty and honor (weight 6.3). Pair score 6.3.'
@@ -79,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
+kinds:
+- parallel
+units:
+- id: hb-ps-102-afflicted
+  title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment
+  tradition: judaism
+- id: quran-28-qarun
+  title: Qarun's treasures and his swallowing by the earth; closing
+  tradition: islam
+matches:
+- kind: parallel
+  label: All on earth perish; there remains the Face of your Lord, possessor of majesty and honor
+  note: 'kullu shayʾin hālikun illā wajhahu ~ hēmmâ yōʾvēdû wə-ʾattâ taʿămōd ... wə-ʾattâ hûʾ û-šənôtêkā
+    lōʾ yittāmmû: everything perishes (halaka / ʾāvad) except God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 102:27
+      lang: he
+      text: הֵ֤מָּה יֹאבֵדוּ֮ וְאַתָּ֪ה תַ֫עֲמֹ֥ד וְ֭כֻלָּם כַּבֶּ֣גֶד יִבְל֑וּ כַּלְּב֖וּשׁ תַּחֲלִיפֵ֣ם
+        וְֽיַחֲלֹֽפוּ
+    - ref: Ps 102:28
+      lang: he
+      text: וְאַתָּה ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:88
+      lang: ar
+      text: وَلَا تَدْعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَآ إِلَٰهَ إِلَّا هُوَ كُلُّ شَىْءٍ هَالِكٌ إِلَّا
+        وَجْهَهُۥ لَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ
 ---
 
 ## Questions

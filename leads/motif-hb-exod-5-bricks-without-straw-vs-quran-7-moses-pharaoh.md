@@ -2,9 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-7-moses-pharaoh
 title: First audience with Pharaoh; bricks without straw ↔ Moses before Pharaoh, the magicians and the
   plagues
-summary: 'These two units share 2 motifs: prophet delivers god''s demand ''let my people go that they
-  may serve me'' [divergence between the texts], prophet delivers god''s demand ''let my people go that
-  they may serve me''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,82 +15,9 @@ layers:
 motifs:
 - let-my-people-go-demand-as-divergence
 - let-my-people-go-demand
-passages:
-- tradition: judaism
-  ref: Exod 5:1
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Exod 5:3
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
-    בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
-- tradition: islam
-  ref: Quran 7:104
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 7:105
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن
-    رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: judaism
-  ref: Exod 5:1
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('that they may hold a
-    festival (hag) to me in the wilderness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: islam
-  ref: Quran 7:105
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' (fa-arsil ma'iya bani
-    isra'il)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن
-    رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet delivers God''s demand ''Let my people go that they may
     serve me'' [divergence between the texts] (weight 6.3); Prophet delivers God''s demand ''Let my people
@@ -127,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet delivers God's demand 'Let my people go that they may serve me'
+kinds:
+- divergence
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  note: 'The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî wə-yāḥōggû
+    lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a pretext of
+    a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ... fa-arsil maʿiya
+    banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey, and ''the Children
+    of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2) becomes in fa-ʾti
+    bihā in kunta mina l-ṣādiqīn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:1
+      lang: he
+      text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י
+        יִשְׂרָאֵ֔ל שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
+    - ref: Exod 5:3
+      lang: he
+      text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
+        בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:104
+      lang: ar
+      text: وَقَالَ مُوسَىٰ يَٰفِرْعَوْنُ إِنِّى رَسُولٌ مِّن رَّبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 7:105
+      lang: ar
+      text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ
+        مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

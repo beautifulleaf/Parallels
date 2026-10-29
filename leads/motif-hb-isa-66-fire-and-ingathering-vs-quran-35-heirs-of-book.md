@@ -2,7 +2,7 @@
 id: motif-hb-isa-66-fire-and-ingathering-vs-quran-35-heirs-of-book
 title: Judgment by fire, ingathering of nations, the undying worm ↔ The heirs of the Book, the Gardens
   of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: in hell the damned neither die nor live.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - hell-neither-die-nor-live
-passages:
-- tradition: judaism
-  ref: Isa 66:24
-  note: 'In hell the damned neither die nor live (kî ṯôlaʿtām lōʾ ṯāmûṯ wə-ʾiššām lōʾ ṯiḵbeh vs. lā yuqḍā
-    ʿalayhim fa-yamūtū wa-lā yukhaffafu ʿanhum min ʿadhābihā: punishment that never ends in death. In
-    Isaiah the worm does not die and the fire is not quenched; in the Quran the damned themselves are
-    not allowed to die.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת
-    וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל בָּשָֽׂר
-- tradition: islam
-  ref: Quran 35:36
-  note: In hell the damned neither die nor live
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ
-    عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kî ṯôlaʿtām lōʾ ṯāmûṯ wə-ʾiššām lōʾ ṯiḵbeh vs. lā yuqḍā ʿalayhim fa-yamūtū wa-lā yukhaffafu
-    ʿanhum min ʿadhābihā: punishment that never ends in death. In Isaiah the worm does not die and the
-    fire is not quenched; in the Quran the damned themselves are not allowed to die.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In hell the damned neither die nor live (weight 6.0). Pair score
     6.0.'
@@ -73,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In hell the damned neither die nor live
+kinds:
+- echo
+units:
+- id: hb-isa-66-fire-and-ingathering
+  title: Judgment by fire, ingathering of nations, the undying worm
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: In hell the damned neither die nor live
+  note: 'kî ṯôlaʿtām lōʾ ṯāmûṯ wə-ʾiššām lōʾ ṯiḵbeh vs. lā yuqḍā ʿalayhim fa-yamūtū wa-lā yukhaffafu ʿanhum
+    min ʿadhābihā: punishment that never ends in death. In Isaiah the worm does not die and the fire is
+    not quenched; in the Quran the damned themselves are not allowed to die.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 66:24
+      lang: he
+      text: וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת
+        וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 35:36
+      lang: ar
+      text: وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ
+        عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ
 ---
 
 ## Questions

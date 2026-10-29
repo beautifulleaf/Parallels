@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-68-qalam-shin-and-jonah
 title: The book of remembrance and the sun of righteousness ↔ Do you have a book or oaths binding God?;
   the shin laid bare; the companion of the fish; the evil eye
-summary: 'These two units share 1 motifs: do evildoers think god will make them equal to the righteous
-  in life and in death?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - wicked-not-equal-to-righteous-in-life-and-death
-passages:
-- tradition: judaism
-  ref: Mal 3:18
-  note: Do evildoers think God will make them equal to the righteous in life and in death? (a-fa-najʿalu
-    l-muslimīna ka-l-mujrimīn ~ we-šavtem û-reʾîtem bên ṣaddîq le-rāšāʿ bên ʿōvēd ʾĕlōhîm la-ʾăšer lōʾ
-    ʿăvādô.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א עֲבָדֽוֹ
-- tradition: islam
-  ref: Quran 68:35
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ
-- tradition: islam
-  ref: Quran 68:36
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا لَكُمْ كَيْفَ تَحْكُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-fa-najʿalu l-muslimīna ka-l-mujrimīn ~ we-šavtem û-reʾîtem bên ṣaddîq le-rāšāʿ bên ʿōvēd ʾĕlōhîm
-    la-ʾăšer lōʾ ʿăvādô.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do evildoers think God will make them equal to the righteous in
     life and in death? (weight 5.6). Pair score 5.6.'
@@ -79,6 +56,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do evildoers think God will make them equal to the righteous in life and in death?
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: echo
+  label: Do evildoers think God will make them equal to the righteous in life and in death?
+  note: a-fa-najʿalu l-muslimīna ka-l-mujrimīn ~ we-šavtem û-reʾîtem bên ṣaddîq le-rāšāʿ bên ʿōvēd ʾĕlōhîm
+    la-ʾăšer lōʾ ʿăvādô.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:18
+      lang: he
+      text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א
+        עֲבָדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:35
+      lang: ar
+      text: أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ
 ---
 
 ## Questions

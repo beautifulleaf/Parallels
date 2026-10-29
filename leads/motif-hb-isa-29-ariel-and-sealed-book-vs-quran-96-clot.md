@@ -2,7 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-96-clot
 title: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ The
   clot: recite! and the forelock'
-summary: 'These two units share 1 motifs: narrative of a prophet''s commissioning by god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +14,9 @@ layers:
 - motif
 motifs:
 - prophetic-call-narrative
-passages:
-- tradition: judaism
-  ref: Isa 29:11
-  note: 'Narrative of a prophet''s commissioning by God (iqraʾ ~ qerāʾ nāʾ zeh we-ʾāmar lōʾ yādaʿtî sēfer:
-    the command ''read'' given to one who cannot read. Within the Quranic text only iqraʾ; the illiterate
-    recipient comes from hadith (cf., not a match). Leads only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר יִתְּנ֣וּ אֹת֗וֹ אֶל
-    יוֹדֵ֥עַ הספר סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא
-- tradition: judaism
-  ref: Isa 29:12
-  note: 'Narrative of a prophet''s commissioning by God (iqraʾ ~ qerāʾ nāʾ zeh we-ʾāmar lōʾ yādaʿtî sēfer:
-    the command ''read'' given to one who cannot read. Within the Quranic text only iqraʾ; the illiterate
-    recipient comes from hadith (cf., not a match). Leads only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִתַּ֣ן הַסֵּ֗פֶר עַל֩ אֲשֶׁ֨ר לֹֽא יָדַ֥ע סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַ֕ר לֹ֥א יָדַ֖עְתִּי
-    סֵֽפֶר
-- tradition: islam
-  ref: Quran 96:1
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
-- tradition: islam
-  ref: Quran 96:3
-  note: Narrative of a prophet's commissioning by God (iqra', 'recite!')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. iqraʾ ~ qerāʾ nāʾ zeh we-ʾāmar lōʾ yādaʿtî sēfer: the command ''read'' given to one who cannot
-    read. Within the Quranic text only iqraʾ; the illiterate recipient comes from hadith (cf., not a match).
-    Leads only.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 5.4). Pair
     score 5.4.'
@@ -82,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Narrative of a prophet's commissioning by God
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-96-clot
+  title: 'The clot: recite! and the forelock'
+  tradition: islam
+matches:
+- kind: echo
+  label: Narrative of a prophet's commissioning by God
+  note: 'iqraʾ ~ qerāʾ nāʾ zeh we-ʾāmar lōʾ yādaʿtî sēfer: the command ''read'' given to one who cannot
+    read. Within the Quranic text only iqraʾ; the illiterate recipient comes from hadith (cf., not a match).
+    Leads only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:11
+      lang: he
+      text: וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר יִתְּנ֣וּ אֹת֗וֹ
+        אֶל יוֹדֵ֥עַ הספר סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא
+    - ref: Isa 29:12
+      lang: he
+      text: וְנִתַּ֣ן הַסֵּ֗פֶר עַל֩ אֲשֶׁ֨ר לֹֽא יָדַ֥ע סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַ֕ר לֹ֥א
+        יָדַ֖עְתִּי סֵֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 96:1
+      lang: ar
+      text: ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ
 ---
 
 ## Questions

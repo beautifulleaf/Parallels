@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-2-harut-marut
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Solomon, the devils and Harut and
   Marut
-summary: 'These two units share 1 motifs: divination, soothsaying, mediums (ov) and wizards (yidde''oni)
-  are forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - divination-and-soothsaying-forbidden
-passages:
-- tradition: judaism
-  ref: Deut 18:10
-  note: Divination, soothsaying, mediums (ov) and wizards (yidde'oni) are forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יִמָּצֵ֣א בְךָ֔ מַעֲבִ֥יר בְּנֽוֹ וּבִתּ֖וֹ בָּאֵ֑שׁ קֹסֵ֣ם קְסָמִ֔ים מְעוֹנֵ֥ן וּמְנַחֵ֖שׁ
-    וּמְכַשֵּֽׁף
-- tradition: judaism
-  ref: Deut 18:11
-  note: Divination, soothsaying, mediums (ov) and wizards (yidde'oni) are forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחֹבֵ֖ר חָ֑בֶר וְשֹׁאֵ֥ל אוֹב֙ וְיִדְּעֹנִ֔י וְדֹרֵ֖שׁ אֶל הַמֵּתִֽים
-- tradition: islam
-  ref: Quran 2:102
-  note: 'Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are forbidden (Deut 18:10-11 qōsēm
-    qĕsāmîm mĕʿônēn û-mĕnaḥēš û-mĕkaššēp wĕ-ḥōbēr ḥāber: sorcery forbidden in Israel; Q 2:102 yuʿallimūna
-    n-nāsa s-siḥra ... innamā naḥnu fitnatun fa-lā takfur: sorcery taught by devils and angels as a trial;
-    learning it is disbelief (kufr) and buys no share in the hereafter.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ وَمَا كَفَرَ سُلَيْمَٰنُ وَلَٰكِنَّ
-    ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ بِبَابِلَ
-    هَٰرُوتَ وَمَٰرُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا
-    تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ وَمَا هُم
-    بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ
-    وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ وَلَبِئْسَ مَا شَرَوْا۟
-    بِهِۦٓ أَنفُسَهُمْ لَوْ كَانُوا۟ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Deut 18:10-11 qōsēm qĕsāmîm mĕʿônēn û-mĕnaḥēš û-mĕkaššēp wĕ-ḥōbēr ḥāber: sorcery forbidden
-    in Israel; Q 2:102 yuʿallimūna n-nāsa s-siḥra ... innamā naḥnu fitnatun fa-lā takfur: sorcery taught
-    by devils and angels as a trial; learning it is disbelief (kufr) and buys no share in the hereafter.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divination, soothsaying, mediums (ov) and wizards (yidde''oni) are
     forbidden (weight 5.8). Pair score 5.8.'
@@ -79,6 +47,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Divination, soothsaying, mediums (ov) and wizards (yidde'oni) are forbidden
+kinds:
+- parallel
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-2-harut-marut
+  title: Solomon, the devils and Harut and Marut
+  tradition: islam
+matches:
+- kind: parallel
+  label: Divination, soothsaying, mediums (ov) and wizards (yidde'oni) are forbidden
+  note: 'Deut 18:10-11 qōsēm qĕsāmîm mĕʿônēn û-mĕnaḥēš û-mĕkaššēp wĕ-ḥōbēr ḥāber: sorcery forbidden in
+    Israel; Q 2:102 yuʿallimūna n-nāsa s-siḥra ... innamā naḥnu fitnatun fa-lā takfur: sorcery taught
+    by devils and angels as a trial; learning it is disbelief (kufr) and buys no share in the hereafter.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:10
+      lang: he
+      text: לֹֽא יִמָּצֵ֣א בְךָ֔ מַעֲבִ֥יר בְּנֽוֹ וּבִתּ֖וֹ בָּאֵ֑שׁ קֹסֵ֣ם קְסָמִ֔ים מְעוֹנֵ֥ן וּמְנַחֵ֖שׁ
+        וּמְכַשֵּֽׁף
+    - ref: Deut 18:11
+      lang: he
+      text: וְחֹבֵ֖ר חָ֑בֶר וְשֹׁאֵ֥ל אוֹב֙ וְיִדְּעֹנִ֔י וְדֹרֵ֖שׁ אֶל הַמֵּתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:102
+      lang: ar
+      text: وَٱتَّبَعُوا۟ مَا تَتْلُوا۟ ٱلشَّيَٰطِينُ عَلَىٰ مُلْكِ سُلَيْمَٰنَ وَمَا كَفَرَ سُلَيْمَٰنُ
+        وَلَٰكِنَّ ٱلشَّيَٰطِينَ كَفَرُوا۟ يُعَلِّمُونَ ٱلنَّاسَ ٱلسِّحْرَ وَمَآ أُنزِلَ عَلَى ٱلْمَلَكَيْنِ
+        بِبَابِلَ هَٰرُوتَ وَمَٰرُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَآ إِنَّمَا نَحْنُ
+        فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِۦ بَيْنَ ٱلْمَرْءِ وَزَوْجِهِۦ
+        وَمَا هُم بِضَآرِّينَ بِهِۦ مِنْ أَحَدٍ إِلَّا بِإِذْنِ ٱللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ
+        وَلَا يَنفَعُهُمْ وَلَقَدْ عَلِمُوا۟ لَمَنِ ٱشْتَرَىٰهُ مَا لَهُۥ فِى ٱلْءَاخِرَةِ مِنْ خَلَٰقٍ
+        وَلَبِئْسَ مَا شَرَوْا۟ بِهِۦٓ أَنفُسَهُمْ لَوْ كَانُوا۟ يَعْلَمُونَ
 ---
 
 ## Questions

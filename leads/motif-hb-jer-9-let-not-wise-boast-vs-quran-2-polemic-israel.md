@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-9-let-not-wise-boast-vs-quran-2-polemic-israel
 title: Let not the wise boast; circumcised yet uncircumcised ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: the people''s ''uncircumcised heart'' must be humbled.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,25 +13,9 @@ layers:
 - motif
 motifs:
 - uncircumcised-heart
-passages:
-- tradition: judaism
-  ref: Jer 9:25
-  note: The people's 'uncircumcised heart' must be humbled
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל מִצְרַ֣יִם וְעַל יְהוּדָ֗ה וְעַל אֱד֞וֹם וְעַל בְּנֵ֤י עַמּוֹן֙ וְעַל מוֹאָ֔ב וְעַל֙ כָּל
-    קְצוּצֵ֣י פֵאָ֔ה הַיֹּשְׁבִ֖ים בַּמִּדְבָּ֑ר כִּ֤י כָל הַגּוֹיִם֙ עֲרֵלִ֔ים וְכָל בֵּ֥ית יִשְׂרָאֵ֖ל
-    עַרְלֵי לֵֽב
-- tradition: islam
-  ref: Quran 2:88
-  note: The people's 'uncircumcised heart' must be humbled (qulubuna ghulf, 'our hearts are uncircumcised/wrapped')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 9:25 wĕ-kol bêt yiśrāʾēl ʿarlê lēb; Q 2:88 qulūbunā ghulfun. In Jeremiah the prophet charges
-    all Israel with it; in the Quran the people say it of themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s ''uncircumcised heart'' must be humbled (weight 5.6).
     Pair score 5.6.'
@@ -59,6 +43,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's 'uncircumcised heart' must be humbled
+kinds:
+- echo
+units:
+- id: hb-jer-9-let-not-wise-boast
+  title: Let not the wise boast; circumcised yet uncircumcised
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: echo
+  label: The people's 'uncircumcised heart' must be humbled
+  note: Jer 9:25 wĕ-kol bêt yiśrāʾēl ʿarlê lēb; Q 2:88 qulūbunā ghulfun. In Jeremiah the prophet charges
+    all Israel with it; in the Quran the people say it of themselves.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 9:25
+      lang: he
+      text: עַל מִצְרַ֣יִם וְעַל יְהוּדָ֗ה וְעַל אֱד֞וֹם וְעַל בְּנֵ֤י עַמּוֹן֙ וְעַל מוֹאָ֔ב וְעַל֙ כָּל
+        קְצוּצֵ֣י פֵאָ֔ה הַיֹּשְׁבִ֖ים בַּמִּדְבָּ֑ר כִּ֤י כָל הַגּוֹיִם֙ עֲרֵלִ֔ים וְכָל בֵּ֥ית יִשְׂרָאֵ֖ל
+        עַרְלֵי לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 2:88
+      lang: ar
+      text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
 ---
 
 ## Questions

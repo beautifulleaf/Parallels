@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-6-signs-in-nature
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Splitter of seed and dawn;
   stars for navigation; do not revile their gods
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 6:96
-  note: Sun and moon are set to rule day and night and mark signs and seasons (sun and moon for reckoning
-    (ḥusbān), cf. Gen 1:14)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ
-    ٱلْعَزِيزِ ٱلْعَلِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Ps: ʿāśāh yārēaḥ lə-môʿădîm šemeš yādaʿ məvôʾô; tāšet-ḥōšekh wî-hî lāylāh ... yēṣēʾ ʾādām lə-fāʿŏlô.
-    Q: jaʿala l-layla sakanan wa-l-shamsa wa-l-qamara ḥusbānan. For Ps, night is when the beasts prowl;
-    for Q, a time of rest (sakan).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -77,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-6-signs-in-nature
+  title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'Ps: ʿāśāh yārēaḥ lə-môʿădîm šemeš yādaʿ məvôʾô; tāšet-ḥōšekh wî-hî lāylāh ... yēṣēʾ ʾādām lə-fāʿŏlô.
+    Q: jaʿala l-layla sakanan wa-l-shamsa wa-l-qamara ḥusbānan. For Ps, night is when the beasts prowl;
+    for Q, a time of rest (sakan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 6:96
+      lang: ar
+      text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ
+        تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

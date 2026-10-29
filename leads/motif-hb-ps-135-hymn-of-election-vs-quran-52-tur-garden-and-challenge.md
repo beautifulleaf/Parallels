@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-52-tur-garden-and-challenge
 title: 'Psalm 135, hymn on God''s power, election and the idols ↔ The Garden: offspring joined with parents,
   the cup without idle talk, youths like pearls; the run of ''or...?'' challenges'
-summary: 'These two units share 1 motifs: god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Ps 135:7
-  note: God opens his good storehouse, the heavens, to give rain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
-- tradition: islam
-  ref: Quran 52:37
-  note: God opens his good storehouse, the heavens, to give rain ('do they hold the treasuries of your
-    Lord?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. bərāqîm lam-māṭār ʿāśâ môṣēʾ rûaḥ mē-ʾôṣərôṯâw vs. am ʿindahum khazāʾinu rabbik: the storehouses
-    (ʾôṣārôṯ / khazāʾin) are God''s. The psalm sets them against the idols that cannot act (135:15-17).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
     5.3). Pair score 5.3.'
@@ -69,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens his good storehouse, the heavens, to give rain
+kinds:
+- echo
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens his good storehouse, the heavens, to give rain
+  note: 'bərāqîm lam-māṭār ʿāśâ môṣēʾ rûaḥ mē-ʾôṣərôṯâw vs. am ʿindahum khazāʾinu rabbik: the storehouses
+    (ʾôṣārôṯ / khazāʾin) are God''s. The psalm sets them against the idols that cannot act (135:15-17).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:7
+      lang: he
+      text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 52:37
+      lang: ar
+      text: أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ
 ---
 
 ## Questions

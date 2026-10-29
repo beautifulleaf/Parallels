@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-jerubbaal-fleece-vs-quran-26-abraham
 title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs ↔ Abraham's argument against
   idols and his prayer
-summary: 'These two units share 2 motifs: hero''s father makes, sells or worships idols [divergence between
-  the texts], hero''s father makes, sells or worships idols.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,72 +16,7 @@ layers:
 motifs:
 - father-serves-idols-as-divergence
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Judg 6:25
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (A hero of God whose
-    father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun li-llāh. The fathers end
-    differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb lô); Abraham''s father
-    stays God''s enemy and is disowned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: judaism
-  ref: Judg 6:31
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (A hero of God whose
-    father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun li-llāh. The fathers end
-    differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb lô); Abraham''s father
-    stays God''s enemy and is disowned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
-    תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ כִּ֥י
-    נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
-- tradition: islam
-  ref: Quran 26:70
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s idolatrous
-    father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm
-    ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away
-    (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham
-    argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares
-    their gods his enemy (fa-innahum ʿaduwwun lī).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 26:71
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s idolatrous
-    father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm
-    ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away
-    (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham
-    argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares
-    their gods his enemy (fa-innahum ʿaduwwun lī).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
-- tradition: judaism
-  ref: Judg 6:25
-  note: Hero's father makes, sells or worships idols (the Baal altar and Asherah belong to Gideon's father
-    Joash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
-    וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
-    הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
-- tradition: islam
-  ref: Quran 26:70
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 26:71
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols [divergence between
     the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 10.3.'
@@ -117,6 +51,73 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's father makes, sells or worships idols
+kinds:
+- shared
+units:
+- id: hb-judg-6-jerubbaal-fleece
+  title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    - ref: Judg 6:31
+      lang: he
+      text: וַיֹּ֣אמֶר יוֹאָ֡שׁ לְכֹל֩ אֲשֶׁר עָמְד֨וּ עָלָ֜יו הַאַתֶּ֣ם תְּרִיב֣וּן לַבַּ֗עַל אִם אַתֶּם֙
+        תּוֹשִׁיע֣וּן אוֹת֔וֹ אֲשֶׁ֨ר יָרִ֥יב ל֛וֹ יוּמַ֖ת עַד הַבֹּ֑קֶר אִם אֱלֹהִ֥ים הוּא֙ יָ֣רֶב ל֔וֹ
+        כִּ֥י נָתַ֖ץ אֶֽת מִזְבְּחֽוֹ
+    note: 'A hero of God whose father worships idols: mizbaḥ habbaʿal ʾăšer lᵉʾābîkā vs annahu ʿaduwwun
+      li-llāh. The fathers end differently: Joash defends his son against the town (ʾim-ʾĕlōhîm hûʾ yāreb
+      lô); Abraham''s father stays God''s enemy and is disowned.'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:70
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
+    - ref: Quran 26:71
+      lang: ar
+      text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
+    - ref: Quran 26:74
+      lang: ar
+      text: قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ
+    note: 'Abraham''s idolatrous father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ...
+      wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In
+      Joshua God takes Abraham away (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor
+      argues. In the Quran Abraham argues with his father and people, who appeal to ancestral custom (wajadnā
+      ābāʾanā), and he declares their gods his enemy (fa-innahum ʿaduwwun lī).'
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:25
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה קַ֤ח אֶת פַּר הַשּׁוֹר֙ אֲשֶׁ֣ר לְאָבִ֔יךָ
+        וּפַ֥ר הַשֵּׁנִ֖י שֶׁ֣בַע שָׁנִ֑ים וְהָרַסְתָּ֗ אֶת מִזְבַּ֤ח הַבַּ֨עַל֙ אֲשֶׁ֣ר לְאָבִ֔יךָ וְאֶת
+        הָאֲשֵׁרָ֥ה אֲשֶׁר עָלָ֖יו תִּכְרֹֽת
+    note: the Baal altar and Asherah belong to Gideon's father Joash
+  - tradition: islam
+    passages:
+    - ref: Quran 26:70
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
+    - ref: Quran 26:71
+      lang: ar
+      text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
+    - ref: Quran 26:74
+      lang: ar
+      text: قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ
 ---
 
 ## Questions

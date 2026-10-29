@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-27-salih-nine-plotters
 title: Contest on Mount Carmel ↔ Salih, the evil omen and the nine plotters of Thamud
-summary: 'These two units share 1 motifs: king calls the prophet ''troubler of israel'' (okher yisra''el);
-  prophet returns the charge.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - troubler-of-israel
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:17-18
-  note: King calls the prophet 'troubler of Israel' (okher Yisra'el); prophet returns the charge
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (18:17) וַיְהִ֛י כִּרְא֥וֹת אַחְאָ֖ב אֶת אֵלִיָּ֑הוּ וַיֹּ֤אמֶר אַחְאָב֙ אֵלָ֔יו הַאַתָּ֥ה זֶ֖ה
-    עֹכֵ֥ר יִשְׂרָאֵֽל (18:18) וַיֹּ֗אמֶר לֹ֤א עָכַ֨רְתִּי֙ אֶת יִשְׂרָאֵ֔ל כִּ֥י אִם אַתָּ֖ה וּבֵ֣ית
-    אָבִ֑יךָ בַּֽעֲזָבְכֶם֙ אֶת מִצְוֺ֣ת יְהוָ֔ה וַתֵּ֖לֶךְ אַחֲרֵ֥י הַבְּעָלִֽים
-- tradition: judaism
-  ref: 1Kgs 18:17
-  note: King calls the prophet 'troubler of Israel' (okher Yisra'el); prophet returns the charge
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֛י כִּרְא֥וֹת אַחְאָ֖ב אֶת אֵלִיָּ֑הוּ וַיֹּ֤אמֶר אַחְאָב֙ אֵלָ֔יו הַאַתָּ֥ה זֶ֖ה עֹכֵ֥ר
-    יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 27:47
-  note: 'King calls the prophet ''troubler of Israel'' (okher Yisra''el); prophet returns the charge (qālū
-    ṭṭayyarnā bika wa-bi-man maʿaka qāla ṭāʾirukum ʿinda llāhi bal antum qawmun tuftanūna ~ ha-ʾattâ zeh
-    ʿōkhēr Yiśrāʾēl ... lōʾ ʿākhartî ʾet Yiśrāʾēl kî ʾim ʾattâ: the people blame the prophet for their
-    misfortune, and he turns the charge back on them. Ahab says ''troubler'' (ʿōkhēr), Thamūd use bird-augury
-    language (iṭṭayyara, ''to take an ill omen''); Elijah blames their apostasy, Ṣāliḥ says their omen
-    is with God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ قَالَ طَٰٓئِرُكُمْ عِندَ ٱللَّهِ بَلْ أَنتُمْ قَوْمٌ
-    تُفْتَنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. qālū ṭṭayyarnā bika wa-bi-man maʿaka qāla ṭāʾirukum ʿinda llāhi bal antum qawmun tuftanūna
-    ~ ha-ʾattâ zeh ʿōkhēr Yiśrāʾēl ... lōʾ ʿākhartî ʾet Yiśrāʾēl kî ʾim ʾattâ: the people blame the prophet
-    for their misfortune, and he turns the charge back on them. Ahab says ''troubler'' (ʿōkhēr), Thamūd
-    use bird-augury language (iṭṭayyara, ''to take an ill omen''); Elijah blames their apostasy, Ṣāliḥ
-    says their omen is with God.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King calls the prophet ''troubler of Israel'' (okher Yisra''el);
     prophet returns the charge (weight 6.7). Pair score 6.7.'
@@ -81,6 +48,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: King calls the prophet 'troubler of Israel' (okher Yisra'el); prophet returns the charge
+kinds:
+- parallel
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-27-salih-nine-plotters
+  title: Salih, the evil omen and the nine plotters of Thamud
+  tradition: islam
+matches:
+- kind: parallel
+  label: King calls the prophet 'troubler of Israel' (okher Yisra'el); prophet returns the charge
+  note: 'qālū ṭṭayyarnā bika wa-bi-man maʿaka qāla ṭāʾirukum ʿinda llāhi bal antum qawmun tuftanūna ~
+    ha-ʾattâ zeh ʿōkhēr Yiśrāʾēl ... lōʾ ʿākhartî ʾet Yiśrāʾēl kî ʾim ʾattâ: the people blame the prophet
+    for their misfortune, and he turns the charge back on them. Ahab says ''troubler'' (ʿōkhēr), Thamūd
+    use bird-augury language (iṭṭayyara, ''to take an ill omen''); Elijah blames their apostasy, Ṣāliḥ
+    says their omen is with God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:17
+      lang: he
+      text: וַיְהִ֛י כִּרְא֥וֹת אַחְאָ֖ב אֶת אֵלִיָּ֑הוּ וַיֹּ֤אמֶר אַחְאָב֙ אֵלָ֔יו הַאַתָּ֥ה זֶ֖ה עֹכֵ֥ר
+        יִשְׂרָאֵֽל
+    - ref: 1Kgs 18:18
+      lang: he
+      text: וַיֹּ֗אמֶר לֹ֤א עָכַ֨רְתִּי֙ אֶת יִשְׂרָאֵ֔ל כִּ֥י אִם אַתָּ֖ה וּבֵ֣ית אָבִ֑יךָ בַּֽעֲזָבְכֶם֙
+        אֶת מִצְוֺ֣ת יְהוָ֔ה וַתֵּ֖לֶךְ אַחֲרֵ֥י הַבְּעָלִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 27:47
+      lang: ar
+      text: قَالُوا۟ ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ قَالَ طَٰٓئِرُكُمْ عِندَ ٱللَّهِ بَلْ أَنتُمْ قَوْمٌ
+        تُفْتَنُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-prov-25-hezekiah-collection-vs-quran-23-death-barzakh-judgment
 title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies) ↔ Repel evil with good; the
   deathbed plea, the barzakh and the scales
-summary: 'These two units share 1 motifs: repel evil with what is better.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - repel-evil-with-better
-passages:
-- tradition: judaism
-  ref: Prov 25:21
-  note: 'Repel evil with what is better (idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû
-    leḥem ... wa-YHWH yəšallem lāk: answering hostility with kindness; Proverbs adds the ''coals of fire''
-    on the enemy''s head and God''s reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
-- tradition: judaism
-  ref: Prov 25:22
-  note: 'Repel evil with what is better (idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû
-    leḥem ... wa-YHWH yəšallem lāk: answering hostility with kindness; Proverbs adds the ''coals of fire''
-    on the enemy''s head and God''s reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
-- tradition: islam
-  ref: Quran 23:96
-  note: Repel evil with what is better
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû leḥem ... wa-YHWH yəšallem
-    lāk: answering hostility with kindness; Proverbs adds the ''coals of fire'' on the enemy''s head and
-    God''s reward.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Repel evil with what is better (weight 5.8). Pair score 5.8.'
   basis: reading
@@ -78,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Repel evil with what is better
+kinds:
+- echo
+units:
+- id: hb-prov-25-hezekiah-collection
+  title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies)
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: echo
+  label: Repel evil with what is better
+  note: 'idfaʿ bi-llatī hiya aḥsanu s-sayyiʾata ~ ʾim rāʿēv śōnaʾăkā haʾăkhilēhû leḥem ... wa-YHWH yəšallem
+    lāk: answering hostility with kindness; Proverbs adds the ''coals of fire'' on the enemy''s head and
+    God''s reward.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 25:21
+      lang: he
+      text: אִם רָעֵ֣ב שֹׂ֭נַאֲךָ הַאֲכִלֵ֣הוּ לָ֑חֶם וְאִם צָ֝מֵ֗א הַשְׁקֵ֥הוּ מָֽיִם
+    - ref: Prov 25:22
+      lang: he
+      text: כִּ֤י גֶֽחָלִ֗ים אַ֭תָּה חֹתֶ֣ה עַל רֹאשׁ֑וֹ וַֽ֝יהוָ֗ה יְשַׁלֶּם לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:96
+      lang: ar
+      text: ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ ٱلسَّيِّئَةَ نَحْنُ أَعْلَمُ بِمَا يَصِفُونَ
 ---
 
 ## Questions

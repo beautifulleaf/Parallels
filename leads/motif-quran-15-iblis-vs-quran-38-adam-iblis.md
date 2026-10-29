@@ -2,10 +2,7 @@
 id: motif-quran-15-iblis-vs-quran-38-adam-iblis
 title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50) ↔ Adam made
   from clay; Iblis refuses and is granted respite
-summary: 'These two units share 5 motifs: deity breathes the breath of life into the first human''s nostrils
-  [divergence between the texts], god expels iblis as accursed (rajim) with a curse until the day of judgment,
-  the devil asks for and is granted respite until the day the dead are raised, deity breathes the breath
-  of life into the first human''s nostrils….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -20,121 +17,7 @@ motifs:
 - devil-granted-respite-until-resurrection
 - breath-of-life-into-nostrils
 - human-formed-from-earth
-passages:
-- tradition: islam
-  ref: Quran 15:29
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wayyippaḥ bəʾappāyw nišmat ḥayyîm; fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn.
-    Same verb (npḥ / nfkh). In Gen, breath of life; in Q, 'of my spirit'. In Q the breathing is the cue
-    for the angels' prostration, which has no counterpart in Gen 2.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 38:71
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī
-    khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The
-    same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
-    in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
-- tradition: islam
-  ref: Quran 38:72
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī
-    khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The
-    same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
-    in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 15:34
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (rajīm; the curse
-    until the Day of Judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-- tradition: islam
-  ref: Quran 15:35
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (rajīm; the curse
-    until the Day of Judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
-- tradition: islam
-  ref: Quran 38:77
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-- tradition: islam
-  ref: Quran 38:78
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
-- tradition: islam
-  ref: Quran 15:36
-  note: The devil asks for and is granted respite until the day the dead are raised (until the day of
-    the known time)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 15:37
-  note: The devil asks for and is granted respite until the day the dead are raised (until the day of
-    the known time)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
-- tradition: islam
-  ref: Quran 38:79
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 38:80
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
-- tradition: islam
-  ref: Quran 15:29
-  note: Deity breathes the breath of life into the first human's nostrils (wa-nafakhtu fīhi min rūḥī)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 38:72
-  note: Deity breathes the breath of life into the first human's nostrils ('I breathed into him of my
-    spirit')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 15:26
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
-- tradition: islam
-  ref: Quran 15:28
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
-- tradition: islam
-  ref: Quran 38:71
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
     [divergence between the texts] (weight 6.3); God expels Iblis as accursed (rajim) with a curse until
@@ -166,6 +49,125 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity breathes the breath of life into the first human's nostrils
+kinds:
+- shared
+units:
+- id: quran-15-iblis
+  title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
+  tradition: islam
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: shared
+  label: Deity breathes the breath of life into the first human's nostrils
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 15:29
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+    note: wayyippaḥ bəʾappāyw nišmat ḥayyîm; fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu
+      sājidīn. Same verb (npḥ / nfkh). In Gen, breath of life; in Q, 'of my spirit'. In Q the breathing
+      is the cue for the angels' prostration, which has no counterpart in Gen 2.
+  - tradition: islam
+    passages:
+    - ref: Quran 38:71
+      lang: ar
+      text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
+    - ref: Quran 38:72
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+    note: wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm
+      vs. innī khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn.
+      The same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
+      in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.
+- kind: shared
+  label: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 15:34
+      lang: ar
+      text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+    - ref: Quran 15:35
+      lang: ar
+      text: وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
+    - ref: Quran 15:27
+      lang: ar
+      text: وَٱلْجَآنَّ خَلَقْنَٰهُ مِن قَبْلُ مِن نَّارِ ٱلسَّمُومِ
+    note: rajīm; the curse until the Day of Judgment
+  - tradition: islam
+    passages:
+    - ref: Quran 38:77
+      lang: ar
+      text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+    - ref: Quran 38:78
+      lang: ar
+      text: وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ
+- kind: shared
+  label: The devil asks for and is granted respite until the day the dead are raised
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 15:36
+      lang: ar
+      text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 15:37
+      lang: ar
+      text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
+    - ref: Quran 15:38
+      lang: ar
+      text: إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
+    note: until the day of the known time
+  - tradition: islam
+    passages:
+    - ref: Quran 38:79
+      lang: ar
+      text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 38:80
+      lang: ar
+      text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
+    - ref: Quran 38:81
+      lang: ar
+      text: إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ
+- kind: shared
+  label: Deity breathes the breath of life into the first human's nostrils
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 15:29
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+    note: wa-nafakhtu fīhi min rūḥī
+  - tradition: islam
+    passages:
+    - ref: Quran 38:72
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+    note: '''I breathed into him of my spirit'''
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 15:26
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    - ref: Quran 15:28
+      lang: ar
+      text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ
+        مَّسْنُونٍ
+    - ref: Quran 15:33
+      lang: ar
+      text: قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    note: 'ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered black mud'
+  - tradition: islam
+    passages:
+    - ref: Quran 38:71
+      lang: ar
+      text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
 ---
 
 ## Questions

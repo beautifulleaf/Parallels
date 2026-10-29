@@ -2,8 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-87-most-high
 title: 'Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The Most High: the
   scrolls of Abraham and Moses'
-summary: 'These two units share 1 motifs: ''i yhwh make all things, who alone stretched out the heavens,
-  who spread out the earth - who was with me?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - god-alone-made-all-things
-passages:
-- tradition: judaism
-  ref: Isa 44:24
-  note: '''I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who
-    was with me?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֤ר יְהוָה֙ גֹּאֲלֶ֔ךָ וְיֹצֶרְךָ֖ מִבָּ֑טֶן אָנֹכִ֤י יְהוָה֙ עֹ֣שֶׂה כֹּ֔ל נֹטֶ֤ה שָׁמַ֨יִם֙
-    לְבַדִּ֔י רֹקַ֥ע הָאָ֖רֶץ מי אתי מֵאִתִּֽי
-- tradition: islam
-  ref: Quran 87:2
-  note: '''I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who
-    was with me?'' (alladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾānōkî YHWH ʿōśeh kōl nōṭeh šāmayim
-    levaddî.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
-- tradition: islam
-  ref: Quran 87:3
-  note: '''I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who
-    was with me?'' (alladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾānōkî YHWH ʿōśeh kōl nōṭeh šāmayim
-    levaddî.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى قَدَّرَ فَهَدَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. alladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾānōkî YHWH ʿōśeh kōl nōṭeh šāmayim levaddî.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I YHWH make all things, who alone stretched out the heavens, who
     spread out the earth - who was with me?'' (weight 6.7). Pair score 6.7.'
@@ -76,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who
+  was with me?'''
+kinds:
+- echo
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-87-most-high
+  title: 'The Most High: the scrolls of Abraham and Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''I YHWH make all things, who alone stretched out the heavens, who spread out the earth - who
+    was with me?'''
+  note: alladhī khalaqa fa-sawwā wa-lladhī qaddara fa-hadā ~ ʾānōkî YHWH ʿōśeh kōl nōṭeh šāmayim levaddî.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:24
+      lang: he
+      text: כֹּֽה אָמַ֤ר יְהוָה֙ גֹּאֲלֶ֔ךָ וְיֹצֶרְךָ֖ מִבָּ֑טֶן אָנֹכִ֤י יְהוָה֙ עֹ֣שֶׂה כֹּ֔ל נֹטֶ֤ה
+        שָׁמַ֨יִם֙ לְבַדִּ֔י רֹקַ֥ע הָאָ֖רֶץ מי אתי מֵאִתִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 87:2
+      lang: ar
+      text: ٱلَّذِى خَلَقَ فَسَوَّىٰ
+    - ref: Quran 87:3
+      lang: ar
+      text: وَٱلَّذِى قَدَّرَ فَهَدَىٰ
 ---
 
 ## Questions

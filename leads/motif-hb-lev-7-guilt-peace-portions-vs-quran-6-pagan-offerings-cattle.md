@@ -2,8 +2,7 @@
 id: motif-hb-lev-7-guilt-peace-portions-vs-quran-6-pagan-offerings-cattle
 title: Guilt and well-being offerings; priests' portions; fat and blood bans ↔ Pagan portions and taboos;
   eight pairs; what is forbidden to all and to the Jews
-summary: 'These two units share 2 motifs: eating the fat (helev) of sacrificial animals is forbidden [response
-  between the texts], eating the fat (helev) of sacrificial animals is forbidden.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - prohibition-of-eating-fat-as-response
 - prohibition-of-eating-fat
-passages:
-- tradition: judaism
-  ref: Lev 7:23
-  note: 'Eating the fat (helev) of sacrificial animals is forbidden [response between the texts] (Lev:
-    kol-ḥēlev šôr wə-khesev wā-ʿēz lōʾ tōʾkhēlû, with kārēt. Q: wa-mina l-baqari wa-l-ghanami ḥarramnā
-    ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin. Q recognises
-    the ban but gives it as a punishment for the Jews (jazaynāhum bi-baghyihim) and adds exceptions.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֛ר אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ
-- tradition: judaism
-  ref: Lev 7:25
-  note: 'Eating the fat (helev) of sacrificial animals is forbidden [response between the texts] (Lev:
-    kol-ḥēlev šôr wə-khesev wā-ʿēz lōʾ tōʾkhēlû, with kārēt. Q: wa-mina l-baqari wa-l-ghanami ḥarramnā
-    ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin. Q recognises
-    the ban but gives it as a punishment for the Jews (jazaynāhum bi-baghyihim) and adds exceptions.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י כָּל אֹכֵ֣ל חֵ֔לֶב מִן הַ֨בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהוָ֑ה וְנִכְרְתָ֛ה
-    הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 6:146
-  note: 'Eating the fat (helev) of sacrificial animals is forbidden [response between the texts] (Lev:
-    kol-ḥēlev šôr wə-khesev wā-ʿēz lōʾ tōʾkhēlû, with kārēt. Q: wa-mina l-baqari wa-l-ghanami ḥarramnā
-    ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin. Q recognises
-    the ban but gives it as a punishment for the Jews (jazaynāhum bi-baghyihim) and adds exceptions.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
-- tradition: judaism
-  ref: Lev 7:23
-  note: Eating the fat (helev) of sacrificial animals is forbidden (ox, sheep, goat)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֛ר אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ
-- tradition: judaism
-  ref: Lev 7:25
-  note: Eating the fat (helev) of sacrificial animals is forbidden (ox, sheep, goat)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י כָּל אֹכֵ֣ל חֵ֔לֶב מִן הַ֨בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהוָ֑ה וְנִכְרְתָ֛ה
-    הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 6:146
-  note: Eating the fat (helev) of sacrificial animals is forbidden (except fat on the backs, the entrails,
-    or mixed with bone (cf. Lev 3:9-17, 7:23-25))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    response. Lev: kol-ḥēlev šôr wə-khesev wā-ʿēz lōʾ tōʾkhēlû, with kārēt. Q: wa-mina l-baqari wa-l-ghanami
-    ḥarramnā ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin. Q
-    recognises the ban but gives it as a punishment for the Jews (jazaynāhum bi-baghyihim) and adds exceptions.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating the fat (helev) of sacrificial animals is forbidden [response
     between the texts] (weight 6.7); Eating the fat (helev) of sacrificial animals is forbidden (weight
@@ -109,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eating the fat (helev) of sacrificial animals is forbidden
+kinds:
+- response
+units:
+- id: hb-lev-7-guilt-peace-portions
+  title: Guilt and well-being offerings; priests' portions; fat and blood bans
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: response
+  label: Eating the fat (helev) of sacrificial animals is forbidden
+  note: 'Lev: kol-ḥēlev šôr wə-khesev wā-ʿēz lōʾ tōʾkhēlû, with kārēt. Q: wa-mina l-baqari wa-l-ghanami
+    ḥarramnā ʿalayhim shuḥūmahumā illā mā ḥamalat ẓuhūruhumā awi l-ḥawāyā aw mā khtalaṭa bi-ʿaẓmin. Q
+    recognises the ban but gives it as a punishment for the Jews (jazaynāhum bi-baghyihim) and adds exceptions.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 7:23
+      lang: he
+      text: דַּבֵּ֛ר אֶל בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כָּל חֵ֜לֶב שׁ֥וֹר וְכֶ֛שֶׂב וָעֵ֖ז לֹ֥א תֹאכֵֽלוּ
+    - ref: Lev 7:25
+      lang: he
+      text: כִּ֚י כָּל אֹכֵ֣ל חֵ֔לֶב מִן הַ֨בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֥יב מִמֶּ֛נָּה אִשֶּׁ֖ה לַיהוָ֑ה וְנִכְרְתָ֛ה
+        הַנֶּ֥פֶשׁ הָאֹכֶ֖לֶת מֵֽעַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:146
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
+        عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ
+        بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
 ---
 
 ## Questions

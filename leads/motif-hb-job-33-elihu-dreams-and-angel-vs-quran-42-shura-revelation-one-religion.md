@@ -2,7 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-42-shura-revelation-one-religion
 title: 'Elihu - warning dreams and the interceding angel ↔ Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels''
   intercession and the one religion of the prophets'
-summary: 'These two units share 1 motifs: angels glorify god and ask forgiveness for those on earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - angels-ask-forgiveness-for-earth-dwellers
-passages:
-- tradition: judaism
-  ref: Job 33:23
-  note: 'Angels glorify God and ask forgiveness for those on earth (Angelic intercession for humans: ʾim
-    yēš ʿālâw malʾāḵ mēlîṣ ʾeḥāḏ minnî ʾālep̄ ... wa-yḥunnennû wa-yōʾmer pəḏāʿēhû mē-reḏeṯ šaḥaṯ vs. wa-l-malāʾikatu
-    yusabbiḥūna bi-ḥamdi rabbihim wa-yastaghfirūna li-man fī l-arḍ ... huwa l-ghafūru r-raḥīm. Job: one
-    angel for one man, ransom (kōp̄er) found; Quran: the angels for all on earth, and forgiveness is God''s.
-    cf. 1 Enoch 40:6.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יֵ֤שׁ עָלָ֨יו מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יָשְׁרֽוֹ
-- tradition: judaism
-  ref: Job 33:24
-  note: 'Angels glorify God and ask forgiveness for those on earth (Angelic intercession for humans: ʾim
-    yēš ʿālâw malʾāḵ mēlîṣ ʾeḥāḏ minnî ʾālep̄ ... wa-yḥunnennû wa-yōʾmer pəḏāʿēhû mē-reḏeṯ šaḥaṯ vs. wa-l-malāʾikatu
-    yusabbiḥūna bi-ḥamdi rabbihim wa-yastaghfirūna li-man fī l-arḍ ... huwa l-ghafūru r-raḥīm. Job: one
-    angel for one man, ransom (kōp̄er) found; Quran: the angels for all on earth, and forgiveness is God''s.
-    cf. 1 Enoch 40:6.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחֻנֶּ֗נּוּ וַיֹּ֗אמֶר פְּ֭דָעֵהוּ מֵרֶ֥דֶת שָׁ֗חַת מָצָ֥אתִי כֹֽפֶר
-- tradition: islam
-  ref: Quran 42:5
-  note: Angels glorify God and ask forgiveness for those on earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ
-    وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Angelic intercession for humans: ʾim yēš ʿālâw malʾāḵ mēlîṣ ʾeḥāḏ minnî ʾālep̄ ... wa-yḥunnennû
-    wa-yōʾmer pəḏāʿēhû mē-reḏeṯ šaḥaṯ vs. wa-l-malāʾikatu yusabbiḥūna bi-ḥamdi rabbihim wa-yastaghfirūna
-    li-man fī l-arḍ ... huwa l-ghafūru r-raḥīm. Job: one angel for one man, ransom (kōp̄er) found; Quran:
-    the angels for all on earth, and forgiveness is God''s. cf. 1 Enoch 40:6.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels glorify God and ask forgiveness for those on earth (weight
     6.7). Pair score 6.7.'
@@ -85,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Angels glorify God and ask forgiveness for those on earth
+kinds:
+- echo
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-42-shura-revelation-one-religion
+  title: 'Ha-Mim ''Ayn-Sin-Qaf: revelation, the angels'' intercession and the one religion of the prophets'
+  tradition: islam
+matches:
+- kind: echo
+  label: Angels glorify God and ask forgiveness for those on earth
+  note: 'Angelic intercession for humans: ʾim yēš ʿālâw malʾāḵ mēlîṣ ʾeḥāḏ minnî ʾālep̄ ... wa-yḥunnennû
+    wa-yōʾmer pəḏāʿēhû mē-reḏeṯ šaḥaṯ vs. wa-l-malāʾikatu yusabbiḥūna bi-ḥamdi rabbihim wa-yastaghfirūna
+    li-man fī l-arḍ ... huwa l-ghafūru r-raḥīm. Job: one angel for one man, ransom (kōp̄er) found; Quran:
+    the angels for all on earth, and forgiveness is God''s. cf. 1 Enoch 40:6.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:23
+      lang: he
+      text: אִם יֵ֤שׁ עָלָ֨יו מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יָשְׁרֽוֹ
+    - ref: Job 33:24
+      lang: he
+      text: וַיְחֻנֶּ֗נּוּ וַיֹּ֗אמֶר פְּ֭דָעֵהוּ מֵרֶ֥דֶת שָׁ֗חַת מָצָ֥אתִי כֹֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 42:5
+      lang: ar
+      text: تَكَادُ ٱلسَّمَٰوَٰتُ يَتَفَطَّرْنَ مِن فَوْقِهِنَّ وَٱلْمَلَٰٓئِكَةُ يُسَبِّحُونَ بِحَمْدِ
+        رَبِّهِمْ وَيَسْتَغْفِرُونَ لِمَن فِى ٱلْأَرْضِ أَلَآ إِنَّ ٱللَّهَ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ
 ---
 
 ## Questions

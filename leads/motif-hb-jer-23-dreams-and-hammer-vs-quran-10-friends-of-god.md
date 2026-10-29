@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-dreams-and-hammer-vs-quran-10-friends-of-god
 title: A God near and far; dreams versus the word like a hammer ↔ Healing for hearts, the atom's weight,
   God has no son
-summary: 'These two units share 1 motifs: there is no darkness or deep shadow where evildoers can hide
-  from god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - no-darkness-hides-evildoers
-passages:
-- tradition: judaism
-  ref: Jer 23:24
-  note: There is no darkness or deep shadow where evildoers can hide from God (can a man hide in hiding
-    places so that I do not see him?)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא אֶרְאֶ֖נּוּ נְאֻם יְהוָ֑ה הֲל֨וֹא אֶת הַשָּׁמַ֧יִם
-    וְאֶת הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 10:61
-  note: 'There is no darkness or deep shadow where evildoers can hide from God (Nothing in heaven or earth
-    escapes God: wa-mā yaʿzubu ʿan rabbika ... fī l-arḍi wa-lā fī s-samāʾ vs ʾim-yissātēr ʾîš bammistārîm
-    waʾănî lōʾ-ʾerʾennû ... hălôʾ ʾet-haššāmayim wᵉʾet-hāʾāreṣ ʾănî mālēʾ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا تَكُونُ فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ إِلَّا
-    كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ ذَرَّةٍ
-    فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا فِى كِتَٰبٍ
-    مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Nothing in heaven or earth escapes God: wa-mā yaʿzubu ʿan rabbika ... fī l-arḍi wa-lā fī
-    s-samāʾ vs ʾim-yissātēr ʾîš bammistārîm waʾănî lōʾ-ʾerʾennû ... hălôʾ ʾet-haššāmayim wᵉʾet-hāʾāreṣ
-    ʾănî mālēʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There is no darkness or deep shadow where evildoers can hide from
     God (weight 6.3). Pair score 6.3.'
@@ -68,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: There is no darkness or deep shadow where evildoers can hide from God
+kinds:
+- parallel
+units:
+- id: hb-jer-23-dreams-and-hammer
+  title: A God near and far; dreams versus the word like a hammer
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: parallel
+  label: There is no darkness or deep shadow where evildoers can hide from God
+  note: 'Nothing in heaven or earth escapes God: wa-mā yaʿzubu ʿan rabbika ... fī l-arḍi wa-lā fī s-samāʾ
+    vs ʾim-yissātēr ʾîš bammistārîm waʾănî lōʾ-ʾerʾennû ... hălôʾ ʾet-haššāmayim wᵉʾet-hāʾāreṣ ʾănî mālēʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:24
+      lang: he
+      text: אִם יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא אֶרְאֶ֖נּוּ נְאֻם יְהוָ֑ה הֲל֨וֹא אֶת
+        הַשָּׁמַ֧יִם וְאֶת הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:61
+      lang: ar
+      text: وَمَا تَكُونُ فِى شَأْنٍ وَمَا تَتْلُوا۟ مِنْهُ مِن قُرْءَانٍ وَلَا تَعْمَلُونَ مِنْ عَمَلٍ
+        إِلَّا كُنَّا عَلَيْكُمْ شُهُودًا إِذْ تُفِيضُونَ فِيهِ وَمَا يَعْزُبُ عَن رَّبِّكَ مِن مِّثْقَالِ
+        ذَرَّةٍ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ وَلَآ أَصْغَرَ مِن ذَٰلِكَ وَلَآ أَكْبَرَ إِلَّا
+        فِى كِتَٰبٍ مُّبِينٍ
 ---
 
 ## Questions

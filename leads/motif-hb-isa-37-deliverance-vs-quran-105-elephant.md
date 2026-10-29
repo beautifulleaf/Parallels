@@ -2,9 +2,7 @@
 id: motif-hb-isa-37-deliverance-vs-quran-105-elephant
 title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter ↔ The companions
   of the elephant
-summary: 'These two units share 2 motifs: the angel of yhwh strikes 185,000 in the enemy camp in one night;
-  at dawn all are corpses [divergence between the texts], god defends the city for his own sake and for
-  the sake of david his servant.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,69 +15,9 @@ layers:
 motifs:
 - angel-slays-army-overnight-as-divergence
 - city-defended-for-davids-sake
-passages:
-- tradition: judaism
-  ref: Isa 37:35
-  note: 'The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses [divergence
-    between the texts] (wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ
-    malʾak YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses
-    vs ''eaten straw''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַנּוֹתִ֛י עַל הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
-- tradition: judaism
-  ref: Isa 37:36
-  note: 'The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses [divergence
-    between the texts] (wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ
-    malʾak YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses
-    vs ''eaten straw''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה
-    אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-- tradition: islam
-  ref: Quran 105:3
-  note: 'The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses [divergence
-    between the texts] (wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ
-    malʾak YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses
-    vs ''eaten straw''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
-- tradition: islam
-  ref: Quran 105:5
-  note: 'The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses [divergence
-    between the texts] (wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ
-    malʾak YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses
-    vs ''eaten straw''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
-- tradition: judaism
-  ref: Isa 37:35
-  note: God defends the city for his own sake and for the sake of David his servant
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַנּוֹתִ֛י עַל הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
-- tradition: islam
-  ref: Quran 105:1
-  note: God defends the city for his own sake and for the sake of David his servant (God defends his sanctuary
-    town against an invading army)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ
-- tradition: islam
-  ref: Quran 105:2
-  note: God defends the city for his own sake and for the sake of David his servant (God defends his sanctuary
-    town against an invading army)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ malʾak
-    YHWH wa-yyakkeh be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses vs ''eaten
-    straw''.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel of YHWH strikes 185,000 in the enemy camp in one night;
     at dawn all are corpses [divergence between the texts] (weight 6.7); God defends the city for his
@@ -111,6 +49,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-37-deliverance
+  title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+  tradition: judaism
+- id: quran-105-elephant
+  title: The companions of the elephant
+  tradition: islam
+matches:
+- kind: divergence
+  label: The angel of YHWH strikes 185,000 in the enemy camp in one night; at dawn all are corpses
+  note: 'wa-arsala ʿalayhim ṭayran abābīl ... fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ wa-yyēṣēʾ malʾak YHWH wa-yyakkeh
+    be-maḥănēh ʾaššûr ... we-hinnēh kullām pegārîm mētîm: angel vs birds, corpses vs ''eaten straw''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:35
+      lang: he
+      text: וְגַנּוֹתִ֛י עַל הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
+    - ref: Isa 37:36
+      lang: he
+      text: וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה
+        אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 105:3
+      lang: ar
+      text: وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ
+    - ref: Quran 105:5
+      lang: ar
+      text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+- kind: shared
+  label: God defends the city for his own sake and for the sake of David his servant
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:35
+      lang: he
+      text: וְגַנּוֹתִ֛י עַל הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 105:1
+      lang: ar
+      text: أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ
+    - ref: Quran 105:2
+      lang: ar
+      text: أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ
+    note: God defends his sanctuary town against an invading army
 ---
 
 ## Questions

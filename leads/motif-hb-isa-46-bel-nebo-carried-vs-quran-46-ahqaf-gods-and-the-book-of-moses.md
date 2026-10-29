@@ -2,8 +2,7 @@
 id: motif-hb-isa-46-bel-nebo-carried-vs-quran-46-ahqaf-gods-and-the-book-of-moses
 title: 'Bel and Nebo carried off; God who carries Israel ↔ Ha-Mim: the idols created nothing; a witness
   from Israel; the Book of Moses'
-summary: 'These two units share 1 motifs: at judgment the associated ''partners'' disown their worshipers:
-  ''it was not us you worshiped''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - false-gods-disown-worshipers
-passages:
-- tradition: judaism
-  ref: Isa 46:7
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped''
-    (ʾap̄ yiṣʿaq ʾēlâw wə-lōʾ yaʿăneh miṣ-ṣārāṯô lōʾ yôšîʿennû vs. man lā yastajību lahu ilā yawmi l-qiyāma:
-    the idol cannot answer one who cries to it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ לֹ֣א
-    יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
-- tradition: islam
-  ref: Quran 46:5
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ
-    وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ
-- tradition: islam
-  ref: Quran 46:6
-  note: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمْ أَعْدَآءً وَكَانُوا۟ بِعِبَادَتِهِمْ كَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. ʾap̄ yiṣʿaq ʾēlâw wə-lōʾ yaʿăneh miṣ-ṣārāṯô lōʾ yôšîʿennû vs. man lā yastajību lahu ilā yawmi
-    l-qiyāma: the idol cannot answer one who cries to it.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At judgment the associated ''partners'' disown their worshipers:
     ''it was not us you worshiped'' (weight 5.0). Pair score 5.0.'
@@ -74,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
+kinds:
+- echo
+units:
+- id: hb-isa-46-bel-nebo-carried
+  title: Bel and Nebo carried off; God who carries Israel
+  tradition: judaism
+- id: quran-46-ahqaf-gods-and-the-book-of-moses
+  title: 'Ha-Mim: the idols created nothing; a witness from Israel; the Book of Moses'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'At judgment the associated ''partners'' disown their worshipers: ''it was not us you worshiped'''
+  note: 'ʾap̄ yiṣʿaq ʾēlâw wə-lōʾ yaʿăneh miṣ-ṣārāṯô lōʾ yôšîʿennû vs. man lā yastajību lahu ilā yawmi
+    l-qiyāma: the idol cannot answer one who cries to it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 46:7
+      lang: he
+      text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ
+        לֹ֣א יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:5
+      lang: ar
+      text: وَمَنْ أَضَلُّ مِمَّن يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَن لَّا يَسْتَجِيبُ لَهُۥٓ إِلَىٰ يَوْمِ
+        ٱلْقِيَٰمَةِ وَهُمْ عَن دُعَآئِهِمْ غَٰفِلُونَ
 ---
 
 ## Questions

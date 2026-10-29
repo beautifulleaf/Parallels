@@ -2,9 +2,7 @@
 id: motif-hb-dan-12-resurrection-end-vs-quran-36-trumpet-and-judgment
 title: Michael arises, the resurrection, and the sealed book ↔ The trumpet, the sleepers raised, the Garden
   and the witnessing limbs
-summary: 'These two units share 2 motifs: the resurrected cry ''woe to us, who has raised us from our
-  sleeping place (marqad)?'', your dead shall live, their corpses rise; dwellers in the dust shall awake
-  and sing.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,60 +16,9 @@ layers:
 motifs:
 - raised-from-sleeping-place
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Dan 12:2
-  note: 'The resurrected cry ''Woe to us, who has raised us from our sleeping place (marqad)?'' (wə-rabbîm
-    mî-yšēnê ʾaḏmaṯ-ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ lə-ḏirʾôn ʿôlām vs. man
-    baʿathanā min marqadinā ... wa-mtāzū l-yawma ayyuhā l-mujrimūn: the dead as sleepers who wake from
-    their resting place and are split into two groups. Daniel raises ''many''; the Quran gathers all (jamīʿun
-    ladaynā muḥḍarūn, 36:53).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: islam
-  ref: Quran 36:52
-  note: The resurrected cry 'Woe to us, who has raised us from our sleeping place (marqad)?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
-    ٱلْمُرْسَلُونَ
-- tradition: islam
-  ref: Quran 36:51
-  note: The resurrected cry 'Woe to us, who has raised us from our sleeping place (marqad)?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
-- tradition: judaism
-  ref: Dan 12:2
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (yeshene admat
-    afar yaqitsu; le-hayye olam / la-harafot le-dir'on olam)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: islam
-  ref: Quran 36:51
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (the dead
-    as sleepers who wake from their resting place)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
-- tradition: islam
-  ref: Quran 36:52
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (the dead
-    as sleepers who wake from their resting place)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
-    ٱلْمُرْسَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-rabbîm mî-yšēnê ʾaḏmaṯ-ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ lə-ḏirʾôn
-    ʿôlām vs. man baʿathanā min marqadinā ... wa-mtāzū l-yawma ayyuhā l-mujrimūn: the dead as sleepers
-    who wake from their resting place and are split into two groups. Daniel raises ''many''; the Quran
-    gathers all (jamīʿun ladaynā muḥḍarūn, 36:53).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The resurrected cry ''Woe to us, who has raised us from our sleeping
     place (marqad)?'' (weight 6.7); Your dead shall live, their corpses rise; dwellers in the dust shall
@@ -110,6 +57,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The resurrected cry 'Woe to us, who has raised us from our sleeping place (marqad)?'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-36-trumpet-and-judgment
+  title: The trumpet, the sleepers raised, the Garden and the witnessing limbs
+  tradition: islam
+matches:
+- kind: parallel
+  label: The resurrected cry 'Woe to us, who has raised us from our sleeping place (marqad)?'
+  note: 'wə-rabbîm mî-yšēnê ʾaḏmaṯ-ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ lə-ḏirʾôn
+    ʿôlām vs. man baʿathanā min marqadinā ... wa-mtāzū l-yawma ayyuhā l-mujrimūn: the dead as sleepers
+    who wake from their resting place and are split into two groups. Daniel raises ''many''; the Quran
+    gathers all (jamīʿun ladaynā muḥḍarūn, 36:53).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+    - ref: Quran 36:52
+      lang: ar
+      text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
+        ٱلْمُرْسَلُونَ
+    - ref: Quran 36:59
+      lang: ar
+      text: وَٱمْتَٰزُوا۟ ٱلْيَوْمَ أَيُّهَا ٱلْمُجْرِمُونَ
+- kind: shared
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+    note: yeshene admat afar yaqitsu; le-hayye olam / la-harafot le-dir'on olam
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+    - ref: Quran 36:52
+      lang: ar
+      text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
+        ٱلْمُرْسَلُونَ
+    note: the dead as sleepers who wake from their resting place
 ---
 
 ## Questions

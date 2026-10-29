@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-26-abraham
 title: Psalm 135, hymn on God's power, election and the idols ↔ Abraham's argument against idols and his
   prayer
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 135:15-17
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (135:15) עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (135:16) פֶּֽה לָ֭הֶם
-    וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (135:17) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ
-    אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
-- tradition: judaism
-  ref: Ps 135:16
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: islam
-  ref: Quran 26:72
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
-- tradition: islam
-  ref: Quran 26:73
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. hal yasmaʿūnakum ~ ʾoznayim lāhem wə-lōʾ yaʾăzînû: idols that do not hear.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -78,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- echo
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: 'hal yasmaʿūnakum ~ ʾoznayim lāhem wə-lōʾ yaʾăzînû: idols that do not hear.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:15
+      lang: he
+      text: עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
+    - ref: Ps 135:17
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:72
+      lang: ar
+      text: قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
 ---
 
 ## Questions

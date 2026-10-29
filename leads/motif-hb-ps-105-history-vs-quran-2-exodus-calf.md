@@ -2,8 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-2-exodus-calf
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Exodus, the calf
   and the wilderness
-summary: 'These two units share 2 motifs: wind brings quail in vast quantity to feed the people, god leads
-  the people in a pillar of cloud by day and a pillar of fire by night.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,49 +16,9 @@ layers:
 motifs:
 - quail-miracle
 - pillar-of-cloud-and-fire
-passages:
-- tradition: judaism
-  ref: Ps 105:40
-  note: Wind brings quail in vast quantity to feed the people (šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm;
-    nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps 105 has no anger; Q follows the Ps 78 / Num 11 version with
-    its warning.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-- tradition: islam
-  ref: Quran 2:57
-  note: Wind brings quail in vast quantity to feed the people (al-salwa)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Ps 105:39
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (cloud spread as
-    a screen (masakh))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פָּרַ֣שׂ עָנָ֣ן לְמָסָ֑ךְ וְ֝אֵ֗שׁ לְהָאִ֥יר לָֽיְלָה
-- tradition: judaism
-  ref: Ps 105:40
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (cloud spread as
-    a screen (masakh))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
-- tradition: islam
-  ref: Quran 2:57
-  note: God leads the people in a pillar of cloud by day and a pillar of fire by night (shaded with clouds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن
-    طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 105:39-40 pāraś ʿānān lĕ-māsāk ... šāʾal wa-yyābēʾ śĕlāw wĕ-leḥem šāmayim yaśbîʿēm: a
-    cloud spread as a covering, then quail and bread from heaven; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma
-    wa-anzalnā ʿalaykumu l-manna wa-s-salwā. Same sequence, with the cloud as a cover as in the Quran,
-    not as a guide as in Exodus.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8);
     God leads the people in a pillar of cloud by day and a pillar of fire by night (weight 5.1). Pair
@@ -95,6 +54,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God leads the people in a pillar of cloud by day and a pillar of fire by night
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: parallel
+  label: God leads the people in a pillar of cloud by day and a pillar of fire by night
+  note: 'Ps 105:39-40 pāraś ʿānān lĕ-māsāk ... šāʾal wa-yyābēʾ śĕlāw wĕ-leḥem šāmayim yaśbîʿēm: a cloud
+    spread as a covering, then quail and bread from heaven; Q 2:57 wa-ẓallalnā ʿalaykumu l-ghamāma wa-anzalnā
+    ʿalaykumu l-manna wa-s-salwā. Same sequence, with the cloud as a cover as in the Quran, not as a guide
+    as in Exodus.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:39
+      lang: he
+      text: פָּרַ֣שׂ עָנָ֣ן לְמָסָ֑ךְ וְ֝אֵ֗שׁ לְהָאִ֥יר לָֽיְלָה
+    - ref: Ps 105:40
+      lang: he
+      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: shared
+  label: Wind brings quail in vast quantity to feed the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:40
+      lang: he
+      text: שָׁאַ֣ל וַיָּבֵ֣א שְׂלָ֑ו וְלֶ֥חֶם שָׁ֝מַ֗יִם יַשְׂבִּיעֵֽם
+    note: šāʾal wayyābēʾ śəlāw wəleḥem šāmayim yaśbîʿēm; nazzalnā ʿalaykumu l-manna wa-s-salwā. Ps 105
+      has no anger; Q follows the Ps 78 / Num 11 version with its warning.
+  - tradition: islam
+    passages:
+    - ref: Quran 2:57
+      lang: ar
+      text: وَظَلَّلْنَا عَلَيْكُمُ ٱلْغَمَامَ وَأَنزَلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟
+        مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    note: al-salwa
 ---
 
 ## Questions

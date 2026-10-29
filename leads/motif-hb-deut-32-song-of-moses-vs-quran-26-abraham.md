@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-26-abraham
 title: The Song of Moses (Ha'azinu) ↔ Abraham's argument against idols and his prayer
-summary: 'These two units share 1 motifs: who sends sickness and who heals [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,41 +13,9 @@ layers:
 - motif
 motifs:
 - source-of-sickness-and-healing-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: 'Who sends sickness and who heals [divergence between the texts] (ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî
-    wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī yumītunī thumma yuḥyīni: the same pairs,
-    death and life, sickness and healing. Deut has God both wound and heal (māḥaṣtî); Abraham says ''when
-    I fall sick'' and gives God only the healing, though God still ''causes me to die'' and then revives.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 26:80
-  note: 'Who sends sickness and who heals [divergence between the texts] (ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî
-    wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī yumītunī thumma yuḥyīni: the same pairs,
-    death and life, sickness and healing. Deut has God both wound and heal (māḥaṣtî); Abraham says ''when
-    I fall sick'' and gives God only the healing, though God still ''causes me to die'' and then revives.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
-- tradition: islam
-  ref: Quran 26:81
-  note: 'Who sends sickness and who heals [divergence between the texts] (ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî
-    wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī yumītunī thumma yuḥyīni: the same pairs,
-    death and life, sickness and healing. Deut has God both wound and heal (māḥaṣtî); Abraham says ''when
-    I fall sick'' and gives God only the healing, though God still ''causes me to die'' and then revives.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī
-    yumītunī thumma yuḥyīni: the same pairs, death and life, sickness and healing. Deut has God both wound
-    and heal (māḥaṣtî); Abraham says ''when I fall sick'' and gives God only the healing, though God still
-    ''causes me to die'' and then revives.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who sends sickness and who heals [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -82,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who sends sickness and who heals
+kinds:
+- divergence
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who sends sickness and who heals
+  note: 'ʾănî ʾāmît wa-ʾăḥayyeh māḥaṣtî wa-ʾănî ʾerpāʾ ~ wa-idhā mariḍtu fa-huwa yashfīni wa-lladhī yumītunī
+    thumma yuḥyīni: the same pairs, death and life, sickness and healing. Deut has God both wound and
+    heal (māḥaṣtî); Abraham says ''when I fall sick'' and gives God only the healing, though God still
+    ''causes me to die'' and then revives.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 26:80
+      lang: ar
+      text: وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ
+    - ref: Quran 26:81
+      lang: ar
+      text: وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-34-death-of-moses-vs-quran-4-prophets-and-trinity
 title: Death and burial of Moses ↔ The chain of revelation; Jesus, word and spirit; 'say not three'
-summary: 'These two units share 1 motifs: god speaks to the prophet face to face, as a man speaks to his
-  friend.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - god-speaks-face-to-face-as-to-a-friend
-passages:
-- tradition: judaism
-  ref: Deut 34:10
-  note: God speaks to the prophet face to face, as a man speaks to his friend
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהוָ֔ה פָּנִ֖ים אֶל פָּנִֽים
-- tradition: islam
-  ref: Quran 4:164
-  note: God speaks to the prophet face to face, as a man speaks to his friend (wa-kallama llāhu mūsā taklīman;
-    cf. Num 12:8, Exod 33:11)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ
-    ٱللَّهُ مُوسَىٰ تَكْلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Deut: wə-lōʾ-qām nāvîʾ ʿôd bə-Yiśrāʾēl kə-Mōšeh ʾăšer yədāʿô YHWH pānîm ʾel-pānîm. Q 4:163-164
-    sets Moses in a catalogue of messengers and distinguishes him by taklīman. Deut makes him unequalled;
-    Q puts Muhammad''s revelation in the same series (innā awḥaynā ilayka ka-mā awḥaynā ilā Nūḥin).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God speaks to the prophet face to face, as a man speaks to his friend
     (weight 6.0). Pair score 6.0.'
@@ -64,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God speaks to the prophet face to face, as a man speaks to his friend
+kinds:
+- parallel
+units:
+- id: hb-deut-34-death-of-moses
+  title: Death and burial of Moses
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God speaks to the prophet face to face, as a man speaks to his friend
+  note: 'Deut: wə-lōʾ-qām nāvîʾ ʿôd bə-Yiśrāʾēl kə-Mōšeh ʾăšer yədāʿô YHWH pānîm ʾel-pānîm. Q 4:163-164
+    sets Moses in a catalogue of messengers and distinguishes him by taklīman. Deut makes him unequalled;
+    Q puts Muhammad''s revelation in the same series (innā awḥaynā ilayka ka-mā awḥaynā ilā Nūḥin).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 34:10
+      lang: he
+      text: וְלֹֽא קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהוָ֔ה פָּנִ֖ים אֶל
+        פָּנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 4:164
+      lang: ar
+      text: وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ
+        ٱللَّهُ مُوسَىٰ تَكْلِيمًا
 ---
 
 ## Questions

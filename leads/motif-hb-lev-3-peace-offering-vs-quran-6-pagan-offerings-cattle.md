@@ -2,8 +2,7 @@
 id: motif-hb-lev-3-peace-offering-vs-quran-6-pagan-offerings-cattle
 title: The well-being (shelamim) offering and the ban on fat and blood ↔ Pagan portions and taboos; eight
   pairs; what is forbidden to all and to the Jews
-summary: 'These two units share 2 motifs: the fat tail of the sheep is offered [divergence between the
-  texts], eating the fat (helev) of sacrificial animals is forbidden.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,63 +15,9 @@ layers:
 motifs:
 - fat-tail-offering-as-divergence
 - prohibition-of-eating-fat
-passages:
-- tradition: judaism
-  ref: Lev 3:3
-  note: The fat tail of the sheep is offered [divergence between the texts] (What fat is exempt. Lev puts
-    on the altar ha-ḥēlev ha-məkhasseh ʾet-haq-qerev wə-ʾēt kol-ha-ḥēlev ʾăšer ʿal-haq-qerev (the fat
-    on the entrails) and ha-ʾalyāh təmîmāh lə-ʿummat he-ʿāṣeh (the fat tail by the backbone). Q exempts
-    mā ḥamalat ẓuhūruhumā awi l-ḥawāyā (what the backs carry, or the entrails) from the ban. cf. (not
-    a match) the rabbinic ḥelev / shuman distinction (b. Ḥullin 49b).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִקְרִיב֙ מִזֶּ֣בַח הַשְּׁלָמִ֔ים אִשֶּׁ֖ה לַיהוָ֑ה אֶת הַחֵ֨לֶב֙ הַֽמְכַסֶּ֣ה אֶת הַקֶּ֔רֶב
-    וְאֵת֙ כָּל הַחֵ֔לֶב אֲשֶׁ֖ר עַל הַקֶּֽרֶב
-- tradition: judaism
-  ref: Lev 3:9
-  note: The fat tail of the sheep is offered [divergence between the texts] (What fat is exempt. Lev puts
-    on the altar ha-ḥēlev ha-məkhasseh ʾet-haq-qerev wə-ʾēt kol-ha-ḥēlev ʾăšer ʿal-haq-qerev (the fat
-    on the entrails) and ha-ʾalyāh təmîmāh lə-ʿummat he-ʿāṣeh (the fat tail by the backbone). Q exempts
-    mā ḥamalat ẓuhūruhumā awi l-ḥawāyā (what the backs carry, or the entrails) from the ban. cf. (not
-    a match) the rabbinic ḥelev / shuman distinction (b. Ḥullin 49b).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִקְרִ֨יב מִזֶּ֣בַח הַשְּׁלָמִים֮ אִשֶּׁ֣ה לַיהוָה֒ חֶלְבּוֹ֙ הָאַלְיָ֣ה תְמִימָ֔ה לְעֻמַּ֥ת
-    הֶעָצֶ֖ה יְסִירֶ֑נָּה וְאֶת הַחֵ֨לֶב֙ הַֽמְכַסֶּ֣ה אֶת הַקֶּ֔רֶב וְאֵת֙ כָּל הַחֵ֔לֶב אֲשֶׁ֖ר עַל
-    הַקֶּֽרֶב
-- tradition: islam
-  ref: Quran 6:146
-  note: The fat tail of the sheep is offered [divergence between the texts] (What fat is exempt. Lev puts
-    on the altar ha-ḥēlev ha-məkhasseh ʾet-haq-qerev wə-ʾēt kol-ha-ḥēlev ʾăšer ʿal-haq-qerev (the fat
-    on the entrails) and ha-ʾalyāh təmîmāh lə-ʿummat he-ʿāṣeh (the fat tail by the backbone). Q exempts
-    mā ḥamalat ẓuhūruhumā awi l-ḥawāyā (what the backs carry, or the entrails) from the ban. cf. (not
-    a match) the rabbinic ḥelev / shuman distinction (b. Ḥullin 49b).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
-- tradition: judaism
-  ref: Lev 3:17
-  note: Eating the fat (helev) of sacrificial animals is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
-- tradition: islam
-  ref: Quran 6:146
-  note: Eating the fat (helev) of sacrificial animals is forbidden (except fat on the backs, the entrails,
-    or mixed with bone (cf. Lev 3:9-17, 7:23-25))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
-    عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ بِعَظْمٍ
-    ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. What fat is exempt. Lev puts on the altar ha-ḥēlev ha-məkhasseh ʾet-haq-qerev wə-ʾēt kol-ha-ḥēlev
-    ʾăšer ʿal-haq-qerev (the fat on the entrails) and ha-ʾalyāh təmîmāh lə-ʿummat he-ʿāṣeh (the fat tail
-    by the backbone). Q exempts mā ḥamalat ẓuhūruhumā awi l-ḥawāyā (what the backs carry, or the entrails)
-    from the ban. cf. (not a match) the rabbinic ḥelev / shuman distinction (b. Ḥullin 49b).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fat tail of the sheep is offered [divergence between the texts]
     (weight 6.7); Eating the fat (helev) of sacrificial animals is forbidden (weight 6.3). Pair score
@@ -105,6 +50,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The fat tail of the sheep is offered
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-3-peace-offering
+  title: The well-being (shelamim) offering and the ban on fat and blood
+  tradition: judaism
+- id: quran-6-pagan-offerings-cattle
+  title: Pagan portions and taboos; eight pairs; what is forbidden to all and to the Jews
+  tradition: islam
+matches:
+- kind: divergence
+  label: The fat tail of the sheep is offered
+  note: What fat is exempt. Lev puts on the altar ha-ḥēlev ha-məkhasseh ʾet-haq-qerev wə-ʾēt kol-ha-ḥēlev
+    ʾăšer ʿal-haq-qerev (the fat on the entrails) and ha-ʾalyāh təmîmāh lə-ʿummat he-ʿāṣeh (the fat tail
+    by the backbone). Q exempts mā ḥamalat ẓuhūruhumā awi l-ḥawāyā (what the backs carry, or the entrails)
+    from the ban. cf. (not a match) the rabbinic ḥelev / shuman distinction (b. Ḥullin 49b).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 3:3
+      lang: he
+      text: וְהִקְרִיב֙ מִזֶּ֣בַח הַשְּׁלָמִ֔ים אִשֶּׁ֖ה לַיהוָ֑ה אֶת הַחֵ֨לֶב֙ הַֽמְכַסֶּ֣ה אֶת הַקֶּ֔רֶב
+        וְאֵת֙ כָּל הַחֵ֔לֶב אֲשֶׁ֖ר עַל הַקֶּֽרֶב
+    - ref: Lev 3:9
+      lang: he
+      text: וְהִקְרִ֨יב מִזֶּ֣בַח הַשְּׁלָמִים֮ אִשֶּׁ֣ה לַיהוָה֒ חֶלְבּוֹ֙ הָאַלְיָ֣ה תְמִימָ֔ה לְעֻמַּ֥ת
+        הֶעָצֶ֖ה יְסִירֶ֑נָּה וְאֶת הַחֵ֨לֶב֙ הַֽמְכַסֶּ֣ה אֶת הַקֶּ֔רֶב וְאֵת֙ כָּל הַחֵ֔לֶב אֲשֶׁ֖ר
+        עַל הַקֶּֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 6:146
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
+        عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ
+        بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+- kind: shared
+  label: Eating the fat (helev) of sacrificial animals is forbidden
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 3:17
+      lang: he
+      text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:146
+      lang: ar
+      text: وَعَلَى ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا كُلَّ ذِى ظُفُرٍ وَمِنَ ٱلْبَقَرِ وَٱلْغَنَمِ حَرَّمْنَا
+        عَلَيْهِمْ شُحُومَهُمَآ إِلَّا مَا حَمَلَتْ ظُهُورُهُمَآ أَوِ ٱلْحَوَايَآ أَوْ مَا ٱخْتَلَطَ
+        بِعَظْمٍ ذَٰلِكَ جَزَيْنَٰهُم بِبَغْيِهِمْ وَإِنَّا لَصَٰدِقُونَ
+    note: except fat on the backs, the entrails, or mixed with bone (cf. Lev 3:9-17, 7:23-25)
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-3-collapse-and-daughters-of-zion-vs-quran-33-hour-and-trust
 title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
   one man ↔ The Hour, the blaming of leaders, Moses cleared, and the Trust
-summary: 'These two units share 1 motifs: the damned blame their chiefs and great ones who misled them
-  and ask god to double their punishment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - followers-blame-leaders-in-hell
-passages:
-- tradition: judaism
-  ref: Isa 3:12
-  note: The damned blame their chiefs and great ones who misled them and ask God to double their punishment
-    (ʿammî məʾaššəreyḵā matʿîm wə-ḏereḵ ʾōrḥōṯeyḵā billēʿû (your guides mislead you and swallow the way
-    of your paths) vs. rabbanā innā aṭaʿnā sādatanā wa-kubarāʾanā fa-aḍallūnā s-sabīlā. Isaiah accuses
-    the leaders now; in Q the misled followers accuse them in hell and ask a double punishment for them
-    (33:68).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַמִּי֙ נֹגְשָׂ֣יו מְעוֹלֵ֔ל וְנָשִׁ֖ים מָ֣שְׁלוּ ב֑וֹ עַמִּי֙ מְאַשְּׁרֶ֣יךָ מַתְעִ֔ים וְדֶ֥רֶךְ
-    אֹֽרְחֹתֶ֖יךָ בִּלֵּֽעוּ
-- tradition: islam
-  ref: Quran 33:67
-  note: The damned blame their chiefs and great ones who misled them and ask God to double their punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠
-- tradition: islam
-  ref: Quran 33:68
-  note: The damned blame their chiefs and great ones who misled them and ask God to double their punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿammî məʾaššəreyḵā matʿîm wə-ḏereḵ ʾōrḥōṯeyḵā billēʿû (your guides mislead you and swallow the
-    way of your paths) vs. rabbanā innā aṭaʿnā sādatanā wa-kubarāʾanā fa-aḍallūnā s-sabīlā. Isaiah accuses
-    the leaders now; in Q the misled followers accuse them in hell and ask a double punishment for them
-    (33:68).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned blame their chiefs and great ones who misled them and
     ask God to double their punishment (weight 5.6). Pair score 5.6.'
@@ -77,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The damned blame their chiefs and great ones who misled them and ask God to double their punishment
+kinds:
+- echo
+units:
+- id: hb-isa-3-collapse-and-daughters-of-zion
+  title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
+    one man
+  tradition: judaism
+- id: quran-33-hour-and-trust
+  title: The Hour, the blaming of leaders, Moses cleared, and the Trust
+  tradition: islam
+matches:
+- kind: echo
+  label: The damned blame their chiefs and great ones who misled them and ask God to double their punishment
+  note: ʿammî məʾaššəreyḵā matʿîm wə-ḏereḵ ʾōrḥōṯeyḵā billēʿû (your guides mislead you and swallow the
+    way of your paths) vs. rabbanā innā aṭaʿnā sādatanā wa-kubarāʾanā fa-aḍallūnā s-sabīlā. Isaiah accuses
+    the leaders now; in Q the misled followers accuse them in hell and ask a double punishment for them
+    (33:68).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 3:12
+      lang: he
+      text: עַמִּי֙ נֹגְשָׂ֣יו מְעוֹלֵ֔ל וְנָשִׁ֖ים מָ֣שְׁלוּ ב֑וֹ עַמִּי֙ מְאַשְּׁרֶ֣יךָ מַתְעִ֔ים וְדֶ֥רֶךְ
+        אֹֽרְחֹתֶ֖יךָ בִּלֵּֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:67
+      lang: ar
+      text: وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠
 ---
 
 ## Questions

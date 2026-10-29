@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-32-golden-calf-vs-quran-37-moses-aaron-elias
 title: The golden calf ↔ Moses and Aaron; Elias against Ba'l
-summary: 'These two units share 1 motifs: aaron''s standing before god [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,41 +13,9 @@ layers:
 - motif
 motifs:
 - standing-of-aaron-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 32:4
-  note: 'Aaron''s standing before God [divergence between the texts] (Aaron''s standing. Exod: wa-yyiqqaḥ
-    mi-yyāḏām wa-yyāṣar ʾōṯô ba-ḥereṭ wa-yyaʿăśēhû ʿēḡel massēḵâ, Aaron makes the calf. Q: wa-ātaynāhumā
-    l-kitāba l-mustabīn ... salāmun ʿalā Mūsā wa-Hārūna ... innahumā min ʿibādinā l-muʾminīn. Aaron shares
-    the Book and the blessing and is called a believer. Nothing of the calf is attached to him here.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
-    אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 37:117
-  note: 'Aaron''s standing before God [divergence between the texts] (Aaron''s standing. Exod: wa-yyiqqaḥ
-    mi-yyāḏām wa-yyāṣar ʾōṯô ba-ḥereṭ wa-yyaʿăśēhû ʿēḡel massēḵâ, Aaron makes the calf. Q: wa-ātaynāhumā
-    l-kitāba l-mustabīn ... salāmun ʿalā Mūsā wa-Hārūna ... innahumā min ʿibādinā l-muʾminīn. Aaron shares
-    the Book and the blessing and is called a believer. Nothing of the calf is attached to him here.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ
-- tradition: islam
-  ref: Quran 37:120
-  note: 'Aaron''s standing before God [divergence between the texts] (Aaron''s standing. Exod: wa-yyiqqaḥ
-    mi-yyāḏām wa-yyāṣar ʾōṯô ba-ḥereṭ wa-yyaʿăśēhû ʿēḡel massēḵâ, Aaron makes the calf. Q: wa-ātaynāhumā
-    l-kitāba l-mustabīn ... salāmun ʿalā Mūsā wa-Hārūna ... innahumā min ʿibādinā l-muʾminīn. Aaron shares
-    the Book and the blessing and is called a believer. Nothing of the calf is attached to him here.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Aaron''s standing. Exod: wa-yyiqqaḥ mi-yyāḏām wa-yyāṣar ʾōṯô ba-ḥereṭ wa-yyaʿăśēhû ʿēḡel
-    massēḵâ, Aaron makes the calf. Q: wa-ātaynāhumā l-kitāba l-mustabīn ... salāmun ʿalā Mūsā wa-Hārūna
-    ... innahumā min ʿibādinā l-muʾminīn. Aaron shares the Book and the blessing and is called a believer.
-    Nothing of the calf is attached to him here.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Aaron''s standing before God [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -78,6 +46,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Aaron's standing before God
+kinds:
+- divergence
+units:
+- id: hb-exod-32-golden-calf
+  title: The golden calf
+  tradition: judaism
+- id: quran-37-moses-aaron-elias
+  title: Moses and Aaron; Elias against Ba'l
+  tradition: islam
+matches:
+- kind: divergence
+  label: Aaron's standing before God
+  note: 'Aaron''s standing. Exod: wa-yyiqqaḥ mi-yyāḏām wa-yyāṣar ʾōṯô ba-ḥereṭ wa-yyaʿăśēhû ʿēḡel massēḵâ,
+    Aaron makes the calf. Q: wa-ātaynāhumā l-kitāba l-mustabīn ... salāmun ʿalā Mūsā wa-Hārūna ... innahumā
+    min ʿibādinā l-muʾminīn. Aaron shares the Book and the blessing and is called a believer. Nothing
+    of the calf is attached to him here.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:4
+      lang: he
+      text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
+        אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:117
+      lang: ar
+      text: وَءَاتَيْنَٰهُمَا ٱلْكِتَٰبَ ٱلْمُسْتَبِينَ
+    - ref: Quran 37:120
+      lang: ar
+      text: سَلَٰمٌ عَلَىٰ مُوسَىٰ وَهَٰرُونَ
+    - ref: Quran 37:122
+      lang: ar
+      text: إِنَّهُمَا مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

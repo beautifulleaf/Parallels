@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-56-waqia-left-hand-and-proofs
 title: Psalm 139, God's all-knowing presence and the embryo ↔ The Companions of the Left in smoke and
   samum; who creates semen, crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 1 motifs: have you seen what you emit? do you create it, or are we the
-  creator?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - do-you-create-your-semen
-passages:
-- tradition: judaism
-  ref: Ps 139:13
-  note: 'Have you seen what you emit? Do you create it, or are we the creator? (kî ʾattâ qānîṯā ḵilyōṯāy
-    tə-sukkēnî bə-ḇeṭen ʾimmî vs. am naḥnu l-khāliqūn: God, not man, forms the child.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
-- tradition: islam
-  ref: Quran 56:58
-  note: Have you seen what you emit? Do you create it, or are we the creator?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُم مَّا تُمْنُونَ
-- tradition: islam
-  ref: Quran 56:59
-  note: Have you seen what you emit? Do you create it, or are we the creator?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. kî ʾattâ qānîṯā ḵilyōṯāy tə-sukkēnî bə-ḇeṭen ʾimmî vs. am naḥnu l-khāliqūn: God, not man, forms
-    the child.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have you seen what you emit? Do you create it, or are we the creator?
     (weight 6.3). Pair score 6.3.'
@@ -78,6 +56,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Have you seen what you emit? Do you create it, or are we the creator?
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: echo
+  label: Have you seen what you emit? Do you create it, or are we the creator?
+  note: 'kî ʾattâ qānîṯā ḵilyōṯāy tə-sukkēnî bə-ḇeṭen ʾimmî vs. am naḥnu l-khāliqūn: God, not man, forms
+    the child.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:13
+      lang: he
+      text: כִּֽי אַ֭תָּה קָנִ֣יתָ כִלְיֹתָ֑י תְּ֝סֻכֵּ֗נִי בְּבֶ֣טֶן אִמִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 56:59
+      lang: ar
+      text: ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَٰلِقُونَ
 ---
 
 ## Questions

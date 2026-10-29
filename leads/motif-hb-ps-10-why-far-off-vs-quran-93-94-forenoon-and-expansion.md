@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-10-why-far-off-vs-quran-93-94-forenoon-and-expansion
 title: 'Psalm 10 - why do you stand far off ↔ The forenoon and the expansion: the orphan prophet consoled'
-summary: 'These two units share 1 motifs: god is father of orphans and defender of widows, who sets the
-  lonely in a home and frees prisoners.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - father-of-orphans-judge-of-widows
-passages:
-- tradition: judaism
-  ref: Ps 10:14
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָאִ֡תָה כִּֽי אַתָּ֤ה עָ֘מָ֤ל וָכַ֨עַס תַּבִּיט֮ לָתֵ֪ת בְּיָ֫דֶ֥ךָ עָ֭לֶיךָ יַעֲזֹ֣ב חֵלֶ֑כָה
-    יָ֝ת֗וֹם אַתָּ֤ה הָיִ֬יתָ עוֹזֵֽר
-- tradition: judaism
-  ref: Ps 10:18
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לִשְׁפֹּ֥ט יָת֗וֹם וָ֫דָ֥ךְ בַּל יוֹסִ֥יף ע֑וֹד לַעֲרֹ֥ץ אֱ֝נ֗וֹשׁ מִן הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 93:6
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-    (God himself shelters the orphan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-lam yajidka yatīman fa-āwā ~ ʿālêkā yaʿăzōv ḥēlekāh yātôm ʾattāh hāyîtā ʿôzēr.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is father of orphans and defender of widows, who sets the lonely
     in a home and frees prisoners (weight 6.0). Pair score 6.0.'
@@ -63,6 +41,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+kinds:
+- echo
+units:
+- id: hb-ps-10-why-far-off
+  title: Psalm 10 - why do you stand far off
+  tradition: judaism
+- id: quran-93-94-forenoon-and-expansion
+  title: 'The forenoon and the expansion: the orphan prophet consoled'
+  tradition: islam
+matches:
+- kind: echo
+  label: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+  note: a-lam yajidka yatīman fa-āwā ~ ʿālêkā yaʿăzōv ḥēlekāh yātôm ʾattāh hāyîtā ʿôzēr.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 10:14
+      lang: he
+      text: רָאִ֡תָה כִּֽי אַתָּ֤ה עָ֘מָ֤ל וָכַ֨עַס תַּבִּיט֮ לָתֵ֪ת בְּיָ֫דֶ֥ךָ עָ֭לֶיךָ יַעֲזֹ֣ב חֵלֶ֑כָה
+        יָ֝ת֗וֹם אַתָּ֤ה הָיִ֬יתָ עוֹזֵֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 93:6
+      lang: ar
+      text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
 ---
 
 ## Questions

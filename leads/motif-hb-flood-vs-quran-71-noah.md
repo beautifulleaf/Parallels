@@ -1,8 +1,7 @@
 ---
 id: motif-hb-flood-vs-quran-71-noah
 title: The Flood in Genesis ↔ Noah's preaching, the five idols and the flood
-summary: 'These two units share 2 motifs: hero privately warned of the coming flood by a deity, all others
-  perish.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,48 +15,7 @@ layers:
 motifs:
 - hero-warned-by-deity
 - universal-destruction
-passages:
-- tradition: judaism
-  ref: Gen 6:13
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 71:1
-  note: Hero privately warned of the coming flood by a deity (Noah is sent to warn before a painful punishment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
-    عَذَابٌ أَلِيمٌ
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:23
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
-    וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָֽה
-- tradition: islam
-  ref: Quran 71:25
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ
-    أَنصَارًا
-- tradition: islam
-  ref: Quran 71:26
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero privately warned of the coming flood by a deity (weight 5.1);
     All others perish (weight 5.0). Pair score 10.1.'
@@ -89,6 +47,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero privately warned of the coming flood by a deity
+kinds:
+- shared
+units:
+- id: hb-flood
+  title: The Flood in Genesis
+  tradition: judaism
+- id: quran-71-noah
+  title: Noah's preaching, the five idols and the flood
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 71:1
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ أَنْ أَنذِرْ قَوْمَكَ مِن قَبْلِ أَن يَأْتِيَهُمْ
+        عَذَابٌ أَلِيمٌ
+    note: Noah is sent to warn before a painful punishment
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 71:25
+      lang: ar
+      text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
+        ٱللَّهِ أَنصَارًا
+    - ref: Quran 71:26
+      lang: ar
+      text: وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى ٱلْأَرْضِ مِنَ ٱلْكَٰفِرِينَ دَيَّارًا
 ---
 
 ## Questions

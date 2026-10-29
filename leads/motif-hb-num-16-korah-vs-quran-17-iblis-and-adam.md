@@ -2,7 +2,7 @@
 id: motif-hb-num-16-korah-vs-quran-17-iblis-and-adam
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ Iblis's threat to bridle Adam's offspring;
   sea peril; the honored children of Adam (Surah 17:61-72)
-summary: 'These two units share 1 motifs: the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +15,9 @@ layers:
 - motif
 motifs:
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Num 16:30
-  note: The earth opens its mouth and swallows rebels alive into Sheol (with houses, people and property;
-    they 'went down alive to Sheol')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם בְּרִיאָ֞ה יִבְרָ֣א יְהוָ֗ה וּפָצְתָ֨ה הָאֲדָמָ֤ה אֶת פִּ֨יהָ֙ וּבָלְעָ֤ה אֹתָם֙ וְאֶת כָּל
-    אֲשֶׁ֣ר לָהֶ֔ם וְיָרְד֥וּ חַיִּ֖ים שְׁאֹ֑לָה וִֽידַעְתֶּ֕ם כִּ֧י נִֽאֲצ֛וּ הָאֲנָשִׁ֥ים הָאֵ֖לֶּה
-    אֶת יְהוָֽה
-- tradition: judaism
-  ref: Num 16:31
-  note: The earth opens its mouth and swallows rebels alive into Sheol (with houses, people and property;
-    they 'went down alive to Sheol')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ כְּכַלֹּת֔וֹ לְדַבֵּ֕ר אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַתִּבָּקַ֥ע הָאֲדָמָ֖ה אֲשֶׁ֥ר
-    תַּחְתֵּיהֶֽם
-- tradition: islam
-  ref: Quran 17:68
-  note: The earth opens its mouth and swallows rebels alive into Sheol (yakhsifa bikum jāniba l-barr)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَأَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ ٱلْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ لَا
-    تَجِدُوا۟ لَكُمْ وَكِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wattibbāqaʿ hāʾădāmâ ... wattiptaḥ hāʾāreṣ ʾet-pîhā wattiblaʿ ʾōtām; a-fa-amintum an yakhsifa
-    bikum jāniba l-barr: the ground opens under the ungrateful. Q makes it a threat to anyone who forgets
-    God once on dry land.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth opens its mouth and swallows rebels alive into Sheol (weight
     5.0). Pair score 5.0.'
@@ -83,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth opens its mouth and swallows rebels alive into Sheol
+kinds:
+- parallel
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-17-iblis-and-adam
+  title: Iblis's threat to bridle Adam's offspring; sea peril; the honored children of Adam (Surah 17:61-72)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  note: 'wattibbāqaʿ hāʾădāmâ ... wattiptaḥ hāʾāreṣ ʾet-pîhā wattiblaʿ ʾōtām; a-fa-amintum an yakhsifa
+    bikum jāniba l-barr: the ground opens under the ungrateful. Q makes it a threat to anyone who forgets
+    God once on dry land.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:31
+      lang: he
+      text: וַיְהִי֙ כְּכַלֹּת֔וֹ לְדַבֵּ֕ר אֵ֥ת כָּל הַדְּבָרִ֖ים הָאֵ֑לֶּה וַתִּבָּקַ֥ע הָאֲדָמָ֖ה אֲשֶׁ֥ר
+        תַּחְתֵּיהֶֽם
+    - ref: Num 16:32
+      lang: he
+      text: וַתִּפְתַּ֤ח הָאָ֨רֶץ֙ אֶת פִּ֔יהָ וַתִּבְלַ֥ע אֹתָ֖ם וְאֶת בָּתֵּיהֶ֑ם וְאֵ֤ת כָּל הָאָדָם֙
+        אֲשֶׁ֣ר לְקֹ֔רַח וְאֵ֖ת כָּל הָרֲכֽוּשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:68
+      lang: ar
+      text: أَفَأَمِنتُمْ أَن يَخْسِفَ بِكُمْ جَانِبَ ٱلْبَرِّ أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِبًا ثُمَّ
+        لَا تَجِدُوا۟ لَكُمْ وَكِيلًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-109-111-disbelievers-help-flame
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ The
   disbelievers, the help, and the flame
-summary: 'These two units share 1 motifs: repeated mutual disavowal: ''i do not worship what you worship,
-  nor do you worship what i worship''; ''to you your religion and to me mine''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - disavowal-of-other-worship-formula
-passages:
-- tradition: judaism
-  ref: Josh 24:15
-  note: 'Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
-    ''to you your religion and to me mine'' (lā aʿbudu mā taʿbudūna ... lakum dīnukum wa-liya dīn ~ baḥărû
-    lākem ha-yyôm ʾet mî taʿăvōdûn ... we-ʾānōkî û-vêtî naʿăvōd ʾet YHWH: the speaker declares his own
-    worship and leaves the others theirs, with the same verb (ʿabada / ʿāvad).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
-    אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
-    הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 109:1
-  note: 'Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
-    ''to you your religion and to me mine'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ
-- tradition: islam
-  ref: Quran 109:2
-  note: 'Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
-    ''to you your religion and to me mine'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَآ أَعْبُدُ مَا تَعْبُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. lā aʿbudu mā taʿbudūna ... lakum dīnukum wa-liya dīn ~ baḥărû lākem ha-yyôm ʾet mî taʿăvōdûn
-    ... we-ʾānōkî û-vêtî naʿăvōd ʾet YHWH: the speaker declares his own worship and leaves the others
-    theirs, with the same verb (ʿabada / ʿāvad).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Repeated mutual disavowal: ''I do not worship what you worship,
     nor do you worship what I worship''; ''to you your religion and to me mine'' (weight 6.7). Pair score
@@ -79,6 +50,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
+  ''to you your religion and to me mine'''
+kinds:
+- parallel
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-109-111-disbelievers-help-flame
+  title: The disbelievers, the help, and the flame
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Repeated mutual disavowal: ''I do not worship what you worship, nor do you worship what I worship'';
+    ''to you your religion and to me mine'''
+  note: 'lā aʿbudu mā taʿbudūna ... lakum dīnukum wa-liya dīn ~ baḥărû lākem ha-yyôm ʾet mî taʿăvōdûn
+    ... we-ʾānōkî û-vêtî naʿăvōd ʾet YHWH: the speaker declares his own worship and leaves the others
+    theirs, with the same verb (ʿabada / ʿāvad).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:15
+      lang: he
+      text: וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
+        אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
+        הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 109:2
+      lang: ar
+      text: لَآ أَعْبُدُ مَا تَعْبُدُونَ
+    - ref: Quran 109:3
+      lang: ar
+      text: وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ
+    - ref: Quran 109:6
+      lang: ar
+      text: لَكُمْ دِينُكُمْ وَلِىَ دِينِ
 ---
 
 ## Questions

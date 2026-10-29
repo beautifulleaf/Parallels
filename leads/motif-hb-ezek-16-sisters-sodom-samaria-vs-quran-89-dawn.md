@@ -2,8 +2,7 @@
 id: motif-hb-ezek-16-sisters-sodom-samaria-vs-quran-89-dawn
 title: 'Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant ↔ The dawn:
   Iram of the pillars and the soul at peace'
-summary: 'These two units share 1 motifs: the sin of sodom was pride, surfeit of bread and careless ease,
-  not strengthening the hand of the poor and needy.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - sin-of-sodom-pride-plenty-neglect-of-poor
-passages:
-- tradition: judaism
-  ref: Ezek 16:49
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה זֶ֣ה הָיָ֔ה עֲוֺ֖ן סְדֹ֣ם אֲחוֹתֵ֑ךְ גָּא֨וֹן שִׂבְעַת לֶ֜חֶם וְשַׁלְוַ֣ת הַשְׁקֵ֗ט הָ֤יָה
-    לָהּ֙ וְלִבְנוֹתֶ֔יהָ וְיַד עָנִ֥י וְאֶבְי֖וֹן לֹ֥א הֶחֱזִֽיקָה
-- tradition: judaism
-  ref: Ezek 16:50
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽתִּגְבְּהֶ֔ינָה וַתַּעֲשֶׂ֥ינָה תוֹעֵבָ֖ה לְפָנָ֑י וָאָסִ֥יר אֶתְהֶ֖ן כַּאֲשֶׁ֥ר רָאִֽיתִי
-- tradition: islam
-  ref: Quran 89:17
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy (devouring inheritance and loving wealth while neglecting orphan and poor)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
-- tradition: islam
-  ref: Quran 89:18
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy (devouring inheritance and loving wealth while neglecting orphan and poor)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. kallā bal lā tukrimūna l-yatīma wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīni wa-taʾkulūna t-turātha
-    aklan lammā wa-tuḥibbūna l-māla ḥubban jammā ~ gāʾôn śivʿat leḥem we-šalwat hašqēṭ ... we-yad ʿānî
-    we-ʾevyôn lōʾ heḥĕzîqāh: surfeit and love of wealth with neglect of the poor as the sin that brings
-    destruction.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sin of Sodom was pride, surfeit of bread and careless ease,
     not strengthening the hand of the poor and needy (weight 6.3). Pair score 6.3.'
@@ -84,6 +50,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
+  the poor and needy
+kinds:
+- parallel
+units:
+- id: hb-ezek-16-sisters-sodom-samaria
+  title: Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
+    the poor and needy
+  note: 'kallā bal lā tukrimūna l-yatīma wa-lā taḥāḍḍūna ʿalā ṭaʿāmi l-miskīni wa-taʾkulūna t-turātha
+    aklan lammā wa-tuḥibbūna l-māla ḥubban jammā ~ gāʾôn śivʿat leḥem we-šalwat hašqēṭ ... we-yad ʿānî
+    we-ʾevyôn lōʾ heḥĕzîqāh: surfeit and love of wealth with neglect of the poor as the sin that brings
+    destruction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 16:49
+      lang: he
+      text: הִנֵּה זֶ֣ה הָיָ֔ה עֲוֺ֖ן סְדֹ֣ם אֲחוֹתֵ֑ךְ גָּא֨וֹן שִׂבְעַת לֶ֜חֶם וְשַׁלְוַ֣ת הַשְׁקֵ֗ט
+        הָ֤יָה לָהּ֙ וְלִבְנוֹתֶ֔יהָ וְיַד עָנִ֥י וְאֶבְי֖וֹן לֹ֥א הֶחֱזִֽיקָה
+  - tradition: islam
+    passages:
+    - ref: Quran 89:17
+      lang: ar
+      text: كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ
+    - ref: Quran 89:18
+      lang: ar
+      text: وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ
+    - ref: Quran 89:19
+      lang: ar
+      text: وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-11-salih
 title: Second creation account, Eden, and the making of woman ↔ Salih, the she-camel and the Shout
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
-    Gen 2:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 11:61
-  note: First human shaped from dust, clay or soil (ansha'akum min al-ard)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
-    إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Humans made from the earth: huwa anshaʾakum mina l-arḍi wa-staʿmarakum fīhā vs wayyîṣer
-    YHWH ʾĕlōhîm ʾet-hāʾādām ʿāpār min-hāʾădāmāh. Q adds that God settled them on it (istaʿmarakum fīhā).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -65,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-11-salih
+  title: Salih, the she-camel and the Shout
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'Humans made from the earth: huwa anshaʾakum mina l-arḍi wa-staʿmarakum fīhā vs wayyîṣer YHWH
+    ʾĕlōhîm ʾet-hāʾādām ʿāpār min-hāʾădāmāh. Q adds that God settled them on it (istaʿmarakum fīhā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:61
+      lang: ar
+      text: وَإِلَىٰ ثَمُودَ أَخَاهُمْ صَٰلِحًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ هُوَ أَنشَأَكُم مِّنَ ٱلْأَرْضِ وَٱسْتَعْمَرَكُمْ فِيهَا فَٱسْتَغْفِرُوهُ ثُمَّ تُوبُوٓا۟
+        إِلَيْهِ إِنَّ رَبِّى قَرِيبٌ مُّجِيبٌ
 ---
 
 ## Questions

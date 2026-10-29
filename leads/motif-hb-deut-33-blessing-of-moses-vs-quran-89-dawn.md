@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-33-blessing-of-moses-vs-quran-89-dawn
 title: 'The Blessing of Moses on the tribes ↔ The dawn: Iram of the pillars and the soul at peace'
-summary: 'These two units share 1 motifs: god shines forth from sinai, seir and mount paran with holy
-  myriads.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - god-comes-from-sinai-seir-paran
-passages:
-- tradition: judaism
-  ref: Deut 33:2
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (with myriads of holy ones)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ הוֹפִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן וְאָתָ֖ה
-    מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינ֕וֹ אשדת אֵ֥שׁ דָּ֖ת לָֽמוֹ
-- tradition: islam
-  ref: Quran 89:22
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (the Lord comes with the angels
-    rank upon rank)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-jāʾa rabbuka wa-l-malaku ṣaffan ṣaffan ~ YHWH mi-ssînay bāʾ ... we-ʾātāh mē-rivevōt qōdeš:
-    the Lord ''comes'' with ranks of holy ones; at Sinai in Deuteronomy, at the Judgment in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shines forth from Sinai, Seir and Mount Paran with holy myriads
     (weight 5.6). Pair score 5.6.'
@@ -67,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+kinds:
+- echo
+units:
+- id: hb-deut-33-blessing-of-moses
+  title: The Blessing of Moses on the tribes
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: echo
+  label: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+  note: 'wa-jāʾa rabbuka wa-l-malaku ṣaffan ṣaffan ~ YHWH mi-ssînay bāʾ ... we-ʾātāh mē-rivevōt qōdeš:
+    the Lord ''comes'' with ranks of holy ones; at Sinai in Deuteronomy, at the Judgment in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 33:2
+      lang: he
+      text: וַיֹּאמַ֗ר יְהוָ֞ה מִסִּינַ֥י בָּא֙ וְזָרַ֤ח מִשֵּׂעִיר֙ לָ֔מוֹ הוֹפִ֨יעַ֙ מֵהַ֣ר פָּארָ֔ן
+        וְאָתָ֖ה מֵרִבְבֹ֣ת קֹ֑דֶשׁ מִֽימִינ֕וֹ אשדת אֵ֥שׁ דָּ֖ת לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 89:22
+      lang: ar
+      text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
 ---
 
 ## Questions

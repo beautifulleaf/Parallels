@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-animals-vs-quran-31-signs-and-unseen
 title: God's first speech from the whirlwind - the wild animals ↔ God's signs, the inexhaustible words,
   and the five things only God knows
-summary: 'These two units share 1 motifs: only god knows when the mountain goats and hinds give birth
-  and counts their months.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - animal-gestation-known-only-to-god
-passages:
-- tradition: judaism
-  ref: Job 39:1-4
-  note: 'Only God knows when the mountain goats and hinds give birth and counts their months (mountain
-    goats and hinds: do you count the months they fulfill?)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (39:1) הֲיָדַ֗עְתָּ עֵ֭ת לֶ֣דֶת יַעֲלֵי סָ֑לַע חֹלֵ֖ל אַיָּל֣וֹת תִּשְׁמֹֽר (39:2) תִּסְפֹּ֣ר
-    יְרָחִ֣ים תְּמַלֶּ֑אנָה וְ֝יָדַ֗עְתָּ עֵ֣ת לִדְתָּֽנָה (39:3) תִּ֭כְרַעְנָה יַלְדֵיהֶ֣ן תְּפַלַּ֑חְנָה
-    חֶבְלֵיהֶ֥ם תְּשַׁלַּֽחְנָה (39:4) יַחְלְמ֣וּ בְ֭נֵיהֶם יִרְבּ֣וּ בַבָּ֑ר יָ֝צְא֗וּ וְלֹא שָׁ֥בוּ
-    לָֽמוֹ
-- tradition: judaism
-  ref: Job 39:1
-  note: 'Only God knows when the mountain goats and hinds give birth and counts their months (mountain
-    goats and hinds: do you count the months they fulfill?)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיָדַ֗עְתָּ עֵ֭ת לֶ֣דֶת יַעֲלֵי סָ֑לַע חֹלֵ֖ל אַיָּל֣וֹת תִּשְׁמֹֽר
-- tradition: islam
-  ref: Quran 31:34
-  note: 'Only God knows when the mountain goats and hinds give birth and counts their months (hă-yāḏaʿtā
-    ʿēṯ leḏeṯ yaʿălê-sālaʿ ... tispōr yəraḥîm təmalleʾnâ vs. wa-yaʿlamu mā fī l-arḥām: the time and content
-    of gestation as God''s knowledge only. Job uses it as a challenge to man, the Quran as a statement.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
-    وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ ٱللَّهَ
-    عَلِيمٌ خَبِيرٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hă-yāḏaʿtā ʿēṯ leḏeṯ yaʿălê-sālaʿ ... tispōr yəraḥîm təmalleʾnâ vs. wa-yaʿlamu mā fī l-arḥām:
-    the time and content of gestation as God''s knowledge only. Job uses it as a challenge to man, the
-    Quran as a statement.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Only God knows when the mountain goats and hinds give birth and
     counts their months (weight 6.3). Pair score 6.3.'
@@ -82,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Only God knows when the mountain goats and hinds give birth and counts their months
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-animals
+  title: God's first speech from the whirlwind - the wild animals
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: echo
+  label: Only God knows when the mountain goats and hinds give birth and counts their months
+  note: 'hă-yāḏaʿtā ʿēṯ leḏeṯ yaʿălê-sālaʿ ... tispōr yəraḥîm təmalleʾnâ vs. wa-yaʿlamu mā fī l-arḥām:
+    the time and content of gestation as God''s knowledge only. Job uses it as a challenge to man, the
+    Quran as a statement.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 39:1
+      lang: he
+      text: הֲיָדַ֗עְתָּ עֵ֭ת לֶ֣דֶת יַעֲלֵי סָ֑לַע חֹלֵ֖ל אַיָּל֣וֹת תִּשְׁמֹֽר
+    - ref: Job 39:2
+      lang: he
+      text: תִּסְפֹּ֣ר יְרָחִ֣ים תְּמַלֶּ֑אנָה וְ֝יָדַ֗עְתָּ עֵ֣ת לִדְתָּֽנָה
+  - tradition: islam
+    passages:
+    - ref: Quran 31:34
+      lang: ar
+      text: إِنَّ ٱللَّهَ عِندَهُۥ عِلْمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلْغَيْثَ وَيَعْلَمُ مَا فِى ٱلْأَرْحَامِ
+        وَمَا تَدْرِى نَفْسٌ مَّاذَا تَكْسِبُ غَدًا وَمَا تَدْرِى نَفْسٌۢ بِأَىِّ أَرْضٍ تَمُوتُ إِنَّ
+        ٱللَّهَ عَلِيمٌ خَبِيرٌۢ
 ---
 
 ## Questions

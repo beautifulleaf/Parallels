@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-27-lot
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Lot and the people who expel the pure
-summary: 'These two units share 7 motifs: what lot says to the townsmen [divergence between the texts],
-  lot''s townspeople turn on him [divergence between the texts], lot''s people threaten to expel him,
-  the fate of lot''s wife….'
+summary: '4 correspondences read side by side: 3 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -23,175 +21,9 @@ motifs:
 - wife-turned-to-pillar-of-salt
 - fire-and-brimstone-from-heaven
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 19:7
-  note: 'What Lot says to the townsmen [divergence between the texts] (Lot''s protest: Genesis has ʾal
-    nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ nāʾ ʾethen ʾălêkem);
-    the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna ... ar-rijāla shahwatan
-    min dūni n-nisāʾi, and no offer of the daughters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר אַל נָ֥א אַחַ֖י תָּרֵֽעוּ
-- tradition: judaism
-  ref: Gen 19:8
-  note: 'What Lot says to the townsmen [divergence between the texts] (Lot''s protest: Genesis has ʾal
-    nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ nāʾ ʾethen ʾălêkem);
-    the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna ... ar-rijāla shahwatan
-    min dūni n-nisāʾi, and no offer of the daughters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
-    וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי עַל
-    כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
-- tradition: islam
-  ref: Quran 27:54
-  note: 'What Lot says to the townsmen [divergence between the texts] (Lot''s protest: Genesis has ʾal
-    nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ nāʾ ʾethen ʾălêkem);
-    the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna ... ar-rijāla shahwatan
-    min dūni n-nisāʾi, and no offer of the daughters.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
-- tradition: islam
-  ref: Quran 27:55
-  note: 'What Lot says to the townsmen [divergence between the texts] (Lot''s protest: Genesis has ʾal
-    nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ nāʾ ʾethen ʾălêkem);
-    the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna ... ar-rijāla shahwatan
-    min dūni n-nisāʾi, and no offer of the daughters.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: judaism
-  ref: Gen 19:9
-  note: 'Lot''s townspeople turn on him [divergence between the texts] (akhrijū āla Lūṭin min qaryatikum
-    innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ: the people turn on Lot. Genesis
-    mocks him as a sojourner who plays judge; the Quran mocks his family as ''people who keep themselves
-    pure'' and orders them expelled.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
-    נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
-- tradition: islam
-  ref: Quran 27:56
-  note: 'Lot''s townspeople turn on him [divergence between the texts] (akhrijū āla Lūṭin min qaryatikum
-    innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ: the people turn on Lot. Genesis
-    mocks him as a sojourner who plays judge; the Quran mocks his family as ''people who keep themselves
-    pure'' and orders them expelled.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
-    إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-- tradition: judaism
-  ref: Gen 19:9
-  note: 'Lot''s people threaten to expel him (la-in lam tantahi yā Lūṭu la-takūnanna mina l-mukhrajīna
-    ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ ʿattâ nāraʿ ləkhā mēhem: the people turn on Lot as an outsider
-    who presumes to judge them; Genesis threatens worse harm than to the guests, the Quran threatens expulsion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
-    נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
-- tradition: islam
-  ref: Quran 27:56
-  note: Lot's people threaten to expel him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
-    إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-- tradition: judaism
-  ref: Gen 19:26
-  note: 'The fate of Lot''s wife (Lot''s wife perishes: Gen, because she looks back and becomes a pillar
-    of salt (wattabbēṭ ʾištô mēʾaḥărāyw wattᵉhî nᵉṣîb melaḥ); Q, excepted in advance and struck with the
-    townsmen (illā mraʾataka innahu muṣībuhā mā aṣābahum), with no salt pillar. Whether illā mraʾataka
-    goes with ''travel with your family'' or ''let none look back'' is debated by exegetes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: judaism
-  ref: Gen 19:17
-  note: 'The fate of Lot''s wife (Lot''s wife perishes: Gen, because she looks back and becomes a pillar
-    of salt (wattabbēṭ ʾištô mēʾaḥărāyw wattᵉhî nᵉṣîb melaḥ); Q, excepted in advance and struck with the
-    townsmen (illā mraʾataka innahu muṣībuhā mā aṣābahum), with no salt pillar. Whether illā mraʾataka
-    goes with ''travel with your family'' or ''let none look back'' is debated by exegetes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ כְהוֹצִיאָ֨ם אֹתָ֜ם הַח֗וּצָה וַיֹּ֨אמֶר֙ הִמָּלֵ֣ט עַל נַפְשֶׁ֔ךָ אַל תַּבִּ֣יט אַחֲרֶ֔יךָ
-    וְאַֽל תַּעֲמֹ֖ד בְּכָל הַכִּכָּ֑ר הָהָ֥רָה הִמָּלֵ֖ט פֶּן תִּסָּפֶֽה
-- tradition: islam
-  ref: Quran 27:57
-  note: 'The fate of Lot''s wife (Who decides the wife''s fate: Genesis gives her own act, the warning
-    ʾal tabbîṭ ʾaḥărêkā and wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God''s
-    decree, illā mraʾatahu qaddarnāhā mina l-ghābirīna, ''we decreed her among those who stayed behind'',
-    with no looking back and no salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
-- tradition: judaism
-  ref: Gen 19:26
-  note: Wife who looks back is turned into a pillar of salt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 27:57
-  note: Wife who looks back is turned into a pillar of salt (his wife decreed among those who lagged behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
-- tradition: judaism
-  ref: Gen 19:24
-  note: God rains sulfur and fire from heaven on cities ('from YHWH ... from YHWH from heaven', double
-    divine name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
-- tradition: judaism
-  ref: Gen 19:25
-  note: God rains sulfur and fire from heaven on cities ('from YHWH ... from YHWH from heaven', double
-    divine name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: islam
-  ref: Quran 27:58
-  note: 'God rains sulfur and fire from heaven on cities (wa-amṭarnā ʿalayhim maṭaran ~ wa-YHWH himṭîr
-    ʿal Sədōm ... gofrît wā-ʾēš: the same verb of ''raining'' destruction.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-- tradition: judaism
-  ref: Gen 19:16
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:29
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 27:57
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. Who decides the wife''s fate: Genesis gives her own act, the warning ʾal tabbîṭ
-    ʾaḥărêkā and wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God''s decree, illā
-    mraʾatahu qaddarnāhā mina l-ghābirīna, ''we decreed her among those who stayed behind'', with no looking
-    back and no salt. akhrijū āla Lūṭin min qaryatikum innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr
-    wa-yyišpōṭ šāfôṭ: the people turn on Lot. Genesis mocks him as a sojourner who plays judge; the Quran
-    mocks his family as ''people who keep themselves pure'' and orders them expelled. Lot''s protest:
-    Genesis has ʾal nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters instead (hōṣîʾâ
-    nāʾ ʾethen ʾălêkem); the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum tubṣirūna
-    ... ar-rijāla shahwatan min dūni n-nisāʾi, and no offer of the daughters. wa-amṭarnā ʿalayhim maṭaran
-    ~ wa-YHWH himṭîr ʿal Sədōm ... gofrît wā-ʾēš: the same verb of ''raining'' destruction.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Lot says to the townsmen [divergence between the texts] (weight
     6.7); Lot''s townspeople turn on him [divergence between the texts] (weight 6.7); Lot''s people threaten
@@ -223,6 +55,147 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The fate of Lot's wife
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-27-lot
+  title: Lot and the people who expel the pure
+  tradition: islam
+matches:
+- kind: divergence
+  label: The fate of Lot's wife
+  note: 'Who decides the wife''s fate: Genesis gives her own act, the warning ʾal tabbîṭ ʾaḥărêkā and
+    wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God''s decree, illā mraʾatahu qaddarnāhā
+    mina l-ghābirīna, ''we decreed her among those who stayed behind'', with no looking back and no salt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:17
+      lang: he
+      text: וַיְהִי֩ כְהוֹצִיאָ֨ם אֹתָ֜ם הַח֗וּצָה וַיֹּ֨אמֶר֙ הִמָּלֵ֣ט עַל נַפְשֶׁ֔ךָ אַל תַּבִּ֣יט
+        אַחֲרֶ֔יךָ וְאַֽל תַּעֲמֹ֖ד בְּכָל הַכִּכָּ֑ר הָהָ֥רָה הִמָּלֵ֖ט פֶּן תִּסָּפֶֽה
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+- kind: divergence
+  label: Lot's townspeople turn on him
+  note: 'akhrijū āla Lūṭin min qaryatikum innahum unāsun yataṭahharūna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ
+    šāfôṭ: the people turn on Lot. Genesis mocks him as a sojourner who plays judge; the Quran mocks his
+    family as ''people who keep themselves pure'' and orders them expelled.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:9
+      lang: he
+      text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
+        נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 27:56
+      lang: ar
+      text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
+        إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
+- kind: divergence
+  label: What Lot says to the townsmen
+  note: 'Lot''s protest: Genesis has ʾal nāʾ ʾaḥay tārēʿû, followed by his offer of his two virgin daughters
+    instead (hōṣîʾâ nāʾ ʾethen ʾălêkem); the Quran has a preacher''s rebuke, a-taʾtūna l-fāḥishata wa-antum
+    tubṣirūna ... ar-rijāla shahwatan min dūni n-nisāʾi, and no offer of the daughters.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:7
+      lang: he
+      text: וַיֹּאמַ֑ר אַל נָ֥א אַחַ֖י תָּרֵֽעוּ
+    - ref: Gen 19:8
+      lang: he
+      text: הִנֵּה נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹֽא יָדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל תַּעֲשׂ֣וּ דָבָ֔ר כִּֽי
+        עַל כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹרָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 27:54
+      lang: ar
+      text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
+    - ref: Quran 27:55
+      lang: ar
+      text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
+- kind: parallel
+  label: God rains sulfur and fire from heaven on cities
+  note: 'wa-amṭarnā ʿalayhim maṭaran ~ wa-YHWH himṭîr ʿal Sədōm ... gofrît wā-ʾēš: the same verb of ''raining''
+    destruction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:24
+      lang: he
+      text: וַֽיהוָ֗ה הִמְטִ֧יר עַל סְדֹ֛ם וְעַל עֲמֹרָ֖ה גָּפְרִ֣ית וָאֵ֑שׁ מֵאֵ֥ת יְהוָ֖ה מִן הַשָּׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 27:58
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+- kind: shared
+  label: Lot's people threaten to expel him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:9
+      lang: he
+      text: וַיֹּאמְר֣וּ גֶּשׁ הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָאֶחָ֤ד בָּֽא לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה
+        נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַֽיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת
+    note: 'la-in lam tantahi yā Lūṭu la-takūnanna mina l-mukhrajīna ~ hāʾeḥād bāʾ lāgûr wa-yyišpōṭ šāfôṭ
+      ʿattâ nāraʿ ləkhā mēhem: the people turn on Lot as an outsider who presumes to judge them; Genesis
+      threatens worse harm than to the guests, the Quran threatens expulsion.'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:56
+      lang: ar
+      text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
+        إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
+- kind: shared
+  label: Wife who looks back is turned into a pillar of salt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+    note: his wife decreed among those who lagged behind
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:29
+      lang: he
+      text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם
+        וַיְשַׁלַּ֤ח אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+    note: Lot saved for Abraham's sake
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
 ---
 
 ## Questions

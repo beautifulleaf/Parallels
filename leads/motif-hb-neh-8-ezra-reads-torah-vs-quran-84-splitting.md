@@ -2,8 +2,7 @@
 id: motif-hb-neh-8-ezra-reads-torah-vs-quran-84-splitting
 title: 'Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored ↔ The splitting:
   the book in the right hand'
-summary: 'These two units share 1 motifs: those who do not prostrate when the scripture is recited to
-  them are rebuked (a prostration verse) [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - prostration-at-recitation-as-contrast
-passages:
-- tradition: judaism
-  ref: Neh 8:5
-  note: 'Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse)
-    [contrast between the texts] (wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû
-    la-YHWH ʾappayim ʾārṣāh (the people bow to the ground at the reading of the Torah). Prostration at
-    public recitation: done by Ezra''s audience, refused by the Quran''s deniers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפְתַּ֨ח עֶזְרָ֤א הַסֵּ֨פֶר֙ לְעֵינֵ֣י כָל הָעָ֔ם כִּֽי מֵעַ֥ל כָּל הָעָ֖ם הָיָ֑ה וּכְפִתְח֖וֹ
-    עָֽמְד֥וּ כָל הָעָֽם
-- tradition: judaism
-  ref: Neh 8:6
-  note: 'Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse)
-    [contrast between the texts] (wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû
-    la-YHWH ʾappayim ʾārṣāh (the people bow to the ground at the reading of the Torah). Prostration at
-    public recitation: done by Ezra''s audience, refused by the Quran''s deniers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ עֶזְרָ֔א אֶת יְהוָ֥ה הָאֱלֹהִ֖ים הַגָּד֑וֹל וַיַּֽעֲנ֨וּ כָל הָעָ֜ם אָמֵ֤ן אָמֵן֙
-    בְּמֹ֣עַל יְדֵיהֶ֔ם וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻּ֛ לַיהוָ֖ה אַפַּ֥יִם אָֽרְצָה
-- tradition: islam
-  ref: Quran 84:21
-  note: 'Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse)
-    [contrast between the texts] (wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû
-    la-YHWH ʾappayim ʾārṣāh (the people bow to the ground at the reading of the Torah). Prostration at
-    public recitation: done by Ezra''s audience, refused by the Quran''s deniers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    contrast. wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû la-YHWH ʾappayim
-    ʾārṣāh (the people bow to the ground at the reading of the Torah). Prostration at public recitation:
-    done by Ezra''s audience, refused by the Quran''s deniers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who do not prostrate when the scripture is recited to them
     are rebuked (a prostration verse) [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -83,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse)
+kinds:
+- contrast
+units:
+- id: hb-neh-8-ezra-reads-torah
+  title: Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored
+  tradition: judaism
+- id: quran-84-splitting
+  title: 'The splitting: the book in the right hand'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Those who do not prostrate when the scripture is recited to them are rebuked (a prostration verse)
+  note: 'wa-idhā quriʾa ʿalayhimu l-qurʾānu lā yasjudūn ~ wa-yyiqqedû wa-yyištaḥăwû la-YHWH ʾappayim ʾārṣāh
+    (the people bow to the ground at the reading of the Torah). Prostration at public recitation: done
+    by Ezra''s audience, refused by the Quran''s deniers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 8:5
+      lang: he
+      text: וַיִּפְתַּ֨ח עֶזְרָ֤א הַסֵּ֨פֶר֙ לְעֵינֵ֣י כָל הָעָ֔ם כִּֽי מֵעַ֥ל כָּל הָעָ֖ם הָיָ֑ה וּכְפִתְח֖וֹ
+        עָֽמְד֥וּ כָל הָעָֽם
+    - ref: Neh 8:6
+      lang: he
+      text: וַיְבָ֣רֶךְ עֶזְרָ֔א אֶת יְהוָ֥ה הָאֱלֹהִ֖ים הַגָּד֑וֹל וַיַּֽעֲנ֨וּ כָל הָעָ֜ם אָמֵ֤ן אָמֵן֙
+        בְּמֹ֣עַל יְדֵיהֶ֔ם וַיִּקְּד֧וּ וַיִּשְׁתַּחֲוֻּ֛ לַיהוָ֖ה אַפַּ֥יִם אָֽרְצָה
+  - tradition: islam
+    passages:
+    - ref: Quran 84:21
+      lang: ar
+      text: وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ
 ---
 
 ## Questions

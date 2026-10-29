@@ -1,9 +1,7 @@
 ---
 id: motif-hb-judg-5-song-of-deborah-vs-quran-89-dawn
 title: 'The Song of Deborah ↔ The dawn: Iram of the pillars and the soul at peace'
-summary: 'These two units share 2 motifs: god shines forth from sinai, seir and mount paran with holy
-  myriads, on that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
-  humans quake before god, mountains are thrown down and every wall falls.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,50 +14,9 @@ layers:
 motifs:
 - god-comes-from-sinai-seir-paran
 - great-earthquake-all-creatures-quake
-passages:
-- tradition: judaism
-  ref: Judg 5:4
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (theophany from the southern
-    mountains)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙ בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם אֶ֣רֶץ רָעָ֔שָׁה גַּם שָׁמַ֖יִם
-    נָטָ֑פוּ גַּם עָבִ֖ים נָ֥טְפוּ מָֽיִם
-- tradition: islam
-  ref: Quran 89:22
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (the Lord comes with the angels
-    rank upon rank)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
-- tradition: judaism
-  ref: Judg 5:4
-  note: 'On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
-    humans quake before God, mountains are thrown down and every wall falls (idhā dukkati l-arḍu dakkan
-    dakkā wa-jāʾa rabbuka ~ YHWH be-ṣēʾtekā mi-śśēʿîr ... ʾereṣ rāʿāšāh: the earth shaken at the coming
-    of the Lord.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙ בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם אֶ֣רֶץ רָעָ֔שָׁה גַּם שָׁמַ֖יִם
-    נָטָ֑פוּ גַּם עָבִ֖ים נָ֥טְפוּ מָֽיִם
-- tradition: islam
-  ref: Quran 89:21
-  note: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans
-    quake before God, mountains are thrown down and every wall falls
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا
-- tradition: islam
-  ref: Quran 89:22
-  note: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all humans
-    quake before God, mountains are thrown down and every wall falls
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. idhā dukkati l-arḍu dakkan dakkā wa-jāʾa rabbuka ~ YHWH be-ṣēʾtekā mi-śśēʿîr ... ʾereṣ rāʿāšāh:
-    the earth shaken at the coming of the Lord.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shines forth from Sinai, Seir and Mount Paran with holy myriads
     (weight 5.6); On that day a great earthquake shakes the land; fish, birds, beasts, creeping things
@@ -95,6 +52,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
+  humans quake before God, mountains are thrown down and every wall falls
+kinds:
+- echo
+- shared
+units:
+- id: hb-judg-5-song-of-deborah
+  title: The Song of Deborah
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: echo
+  label: On that day a great earthquake shakes the land; fish, birds, beasts, creeping things and all
+    humans quake before God, mountains are thrown down and every wall falls
+  note: 'idhā dukkati l-arḍu dakkan dakkā wa-jāʾa rabbuka ~ YHWH be-ṣēʾtekā mi-śśēʿîr ... ʾereṣ rāʿāšāh:
+    the earth shaken at the coming of the Lord.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:4
+      lang: he
+      text: יְהוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙ בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם אֶ֣רֶץ רָעָ֔שָׁה גַּם שָׁמַ֖יִם
+        נָטָ֑פוּ גַּם עָבִ֖ים נָ֥טְפוּ מָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 89:21
+      lang: ar
+      text: كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا
+    - ref: Quran 89:22
+      lang: ar
+      text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
+- kind: shared
+  label: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:4
+      lang: he
+      text: יְהוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙ בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם אֶ֣רֶץ רָעָ֔שָׁה גַּם שָׁמַ֖יִם
+        נָטָ֑פוּ גַּם עָבִ֖ים נָ֥טְפוּ מָֽיִם
+    note: theophany from the southern mountains
+  - tradition: islam
+    passages:
+    - ref: Quran 89:22
+      lang: ar
+      text: وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا
+    note: the Lord comes with the angels rank upon rank
 ---
 
 ## Questions

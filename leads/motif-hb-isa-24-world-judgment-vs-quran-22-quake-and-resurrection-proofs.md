@@ -2,8 +2,7 @@
 id: motif-hb-isa-24-world-judgment-vs-quran-22-quake-and-resurrection-proofs
 title: The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion ↔ The quake of the Hour
   and the proofs from embryo and rain
-summary: 'These two units share 1 motifs: the quake of the hour: every nursing mother forgets her suckling,
-  every pregnant one miscarries, people seem drunk though not drunk.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - earthquake-of-the-hour
-passages:
-- tradition: judaism
-  ref: Isa 24:18
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk (wayyirʿăšû môsədê ʾāreṣ ... nôaʿ tānûaʿ ʾereṣ kaššikkôr; inna
-    zalzalata s-sāʿati shayʾun ʿaẓīm ... wa-tarā n-nāsa sukārā wa-mā hum bi-sukārā: the end-time quake,
-    with drunkenness as the image. In Isa the earth itself reels like a drunkard; in Q people seem drunk
-    without being drunk.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְֽ֠הָיָה הַנָּ֞ס מִקּ֤וֹל הַפַּ֨חַד֙ יִפֹּ֣ל אֶל הַפַּ֔חַת וְהָֽעוֹלֶה֙ מִתּ֣וֹךְ הַפַּ֔חַת יִלָּכֵ֖ד
-    בַּפָּ֑ח כִּֽי אֲרֻבּ֤וֹת מִמָּרוֹם֙ נִפְתָּ֔חוּ וַֽיִּרְעֲשׁ֖וּ מ֥וֹסְדֵי אָֽרֶץ
-- tradition: judaism
-  ref: Isa 24:19
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk (wayyirʿăšû môsədê ʾāreṣ ... nôaʿ tānûaʿ ʾereṣ kaššikkôr; inna
-    zalzalata s-sāʿati shayʾun ʿaẓīm ... wa-tarā n-nāsa sukārā wa-mā hum bi-sukārā: the end-time quake,
-    with drunkenness as the image. In Isa the earth itself reels like a drunkard; in Q people seem drunk
-    without being drunk.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֹ֥עָה הִֽתְרֹעֲעָ֖ה הָאָ֑רֶץ פּ֤וֹר הִֽתְפּוֹרְרָה֙ אֶ֔רֶץ מ֥וֹט הִֽתְמוֹטְטָ֖ה אָֽרֶץ
-- tradition: islam
-  ref: Quran 22:1
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ
-- tradition: islam
-  ref: Quran 22:2
-  note: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
-    people seem drunk though not drunk'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا
-    وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. wayyirʿăšû môsədê ʾāreṣ ... nôaʿ tānûaʿ ʾereṣ kaššikkôr; inna zalzalata s-sāʿati shayʾun ʿaẓīm
-    ... wa-tarā n-nāsa sukārā wa-mā hum bi-sukārā: the end-time quake, with drunkenness as the image.
-    In Isa the earth itself reels like a drunkard; in Q people seem drunk without being drunk.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The quake of the Hour: every nursing mother forgets her suckling,
     every pregnant one miscarries, people seem drunk though not drunk (weight 6.3). Pair score 6.3.'
@@ -93,6 +53,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
+  people seem drunk though not drunk'
+kinds:
+- echo
+units:
+- id: hb-isa-24-world-judgment
+  title: The earth laid waste; the host of heaven imprisoned; YHWH reigns on Zion
+  tradition: judaism
+- id: quran-22-quake-and-resurrection-proofs
+  title: The quake of the Hour and the proofs from embryo and rain
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The quake of the Hour: every nursing mother forgets her suckling, every pregnant one miscarries,
+    people seem drunk though not drunk'
+  note: 'wayyirʿăšû môsədê ʾāreṣ ... nôaʿ tānûaʿ ʾereṣ kaššikkôr; inna zalzalata s-sāʿati shayʾun ʿaẓīm
+    ... wa-tarā n-nāsa sukārā wa-mā hum bi-sukārā: the end-time quake, with drunkenness as the image.
+    In Isa the earth itself reels like a drunkard; in Q people seem drunk without being drunk.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 24:18
+      lang: he
+      text: וְֽ֠הָיָה הַנָּ֞ס מִקּ֤וֹל הַפַּ֨חַד֙ יִפֹּ֣ל אֶל הַפַּ֔חַת וְהָֽעוֹלֶה֙ מִתּ֣וֹךְ הַפַּ֔חַת
+        יִלָּכֵ֖ד בַּפָּ֑ח כִּֽי אֲרֻבּ֤וֹת מִמָּרוֹם֙ נִפְתָּ֔חוּ וַֽיִּרְעֲשׁ֖וּ מ֥וֹסְדֵי אָֽרֶץ
+    - ref: Isa 24:19
+      lang: he
+      text: רֹ֥עָה הִֽתְרֹעֲעָ֖ה הָאָ֑רֶץ פּ֤וֹר הִֽתְפּוֹרְרָה֙ אֶ֔רֶץ מ֥וֹט הִֽתְמוֹטְטָ֖ה אָֽרֶץ
+    - ref: Isa 24:20
+      lang: he
+      text: נ֣וֹעַ תָּנ֤וּעַ אֶ֨רֶץ֙ כַּשִּׁכּ֔וֹר וְהִֽתְנוֹדְדָ֖ה כַּמְּלוּנָ֑ה וְכָבַ֤ד עָלֶ֨יהָ֙ פִּשְׁעָ֔הּ
+        וְנָפְלָ֖ה וְלֹא תֹסִ֥יף קֽוּם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ إِنَّ زَلْزَلَةَ ٱلسَّاعَةِ شَىْءٌ عَظِيمٌ
+    - ref: Quran 22:2
+      lang: ar
+      text: يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ
+        حَمْلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٌ
 ---
 
 ## Questions

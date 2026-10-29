@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-31-midian-war-vs-quran-9-three-left-behind
 title: War against Midian and division of the spoils ↔ The three who were left behind; every step recorded
-summary: 'These two units share 1 motifs: not all should go out; a party from each group should stay to
-  gain understanding of religion and warn.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - some-stay-to-study-religion
-passages:
-- tradition: judaism
-  ref: Num 31:4
-  note: 'Not all should go out; a party from each group should stay to gain understanding of religion
-    and warn (A contingent from each group goes out, not everyone: wa-mā kāna l-muʾminūna li-yanfirū kāffatan
-    fa-law-lā nafara min kulli firqatin minhum ṭāʾifatun vs ʾelep lammaṭṭeh ʾelep lammaṭṭeh lᵉkōl maṭṭôt
-    yiśrāʾēl tišlᵉḥû laṣṣābāʾ. Q adds the purpose: those who go or stay are to gain understanding of religion
-    and warn (li-yatafaqqahū fī d-dīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֚לֶף לַמַּטֶּ֔ה אֶ֖לֶף לַמַּטֶּ֑ה לְכֹל֙ מַטּ֣וֹת יִשְׂרָאֵ֔ל תִּשְׁלְח֖וּ לַצָּבָֽא
-- tradition: islam
-  ref: Quran 9:122
-  note: Not all should go out; a party from each group should stay to gain understanding of religion and
-    warn
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ
-    طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ
-    يَحْذَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A contingent from each group goes out, not everyone: wa-mā kāna l-muʾminūna li-yanfirū kāffatan
-    fa-law-lā nafara min kulli firqatin minhum ṭāʾifatun vs ʾelep lammaṭṭeh ʾelep lammaṭṭeh lᵉkōl maṭṭôt
-    yiśrāʾēl tišlᵉḥû laṣṣābāʾ. Q adds the purpose: those who go or stay are to gain understanding of religion
-    and warn (li-yatafaqqahū fī d-dīn).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Not all should go out; a party from each group should stay to gain
     understanding of religion and warn (weight 6.7). Pair score 6.7.'
@@ -67,6 +43,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Not all should go out; a party from each group should stay to gain understanding of religion
+  and warn
+kinds:
+- echo
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-9-three-left-behind
+  title: The three who were left behind; every step recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: Not all should go out; a party from each group should stay to gain understanding of religion
+    and warn
+  note: 'A contingent from each group goes out, not everyone: wa-mā kāna l-muʾminūna li-yanfirū kāffatan
+    fa-law-lā nafara min kulli firqatin minhum ṭāʾifatun vs ʾelep lammaṭṭeh ʾelep lammaṭṭeh lᵉkōl maṭṭôt
+    yiśrāʾēl tišlᵉḥû laṣṣābāʾ. Q adds the purpose: those who go or stay are to gain understanding of religion
+    and warn (li-yatafaqqahū fī d-dīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:4
+      lang: he
+      text: אֶ֚לֶף לַמַּטֶּ֔ה אֶ֖לֶף לַמַּטֶּ֑ה לְכֹל֙ מַטּ֣וֹת יִשְׂרָאֵ֔ל תִּשְׁלְח֖וּ לַצָּבָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 9:122
+      lang: ar
+      text: وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ
+        طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ
+        لَعَلَّهُمْ يَحْذَرُونَ
 ---
 
 ## Questions

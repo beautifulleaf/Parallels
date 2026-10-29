@@ -2,8 +2,7 @@
 id: motif-hb-dan-9-prayer-seventy-weeks-vs-quran-53-najm-vision-and-lote-tree
 title: 'Daniel''s penitential prayer and the seventy weeks ↔ Al-Najm: the star that sets, the mighty one
   on the horizon two bow-lengths away, and the Lote-Tree of the Boundary'
-summary: 'These two units share 1 motifs: one mighty in power (shadid al-quwa) taught him, stood poised
-  on the highest horizon, then drew near and descended.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - mighty-one-on-highest-horizon
-passages:
-- tradition: judaism
-  ref: Dan 9:21
-  note: 'One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
-    near and descended (A heavenly being flies down to a praying man to instruct him: wə-hā-ʾîš gaḇrîʾēl
-    ... muʿāp̄ bîʿāp̄ nōḡēaʿ ʾēlay ... wa-yyāḇen wa-yḏabbēr ʿimmî ... yāṣāʾṯî lə-haśkîləḵā ḇînâ vs. ʿallamahu
-    shadīdu l-quwā dhū mirratin fa-stawā wa-huwa bi-l-ufuqi l-aʿlā thumma danā fa-tadallā ... fa-awḥā
-    ilā ʿabdihi mā awḥā. Daniel names him Gabriel; Q 53 does not name the ''mighty in power'' (tradition
-    identifies him as Jibrīl, cf. Q 2:97). Daniel''s angel explains a vision; the Quran''s figure transmits
-    revelation (waḥy).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן בַּתְּחִלָּה֙
-    מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת עָֽרֶב
-- tradition: judaism
-  ref: Dan 9:22
-  note: 'One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
-    near and descended (A heavenly being flies down to a praying man to instruct him: wə-hā-ʾîš gaḇrîʾēl
-    ... muʿāp̄ bîʿāp̄ nōḡēaʿ ʾēlay ... wa-yyāḇen wa-yḏabbēr ʿimmî ... yāṣāʾṯî lə-haśkîləḵā ḇînâ vs. ʿallamahu
-    shadīdu l-quwā dhū mirratin fa-stawā wa-huwa bi-l-ufuqi l-aʿlā thumma danā fa-tadallā ... fa-awḥā
-    ilā ʿabdihi mā awḥā. Daniel names him Gabriel; Q 53 does not name the ''mighty in power'' (tradition
-    identifies him as Jibrīl, cf. Q 2:97). Daniel''s angel explains a vision; the Quran''s figure transmits
-    revelation (waḥy).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֖בֶן וַיְדַבֵּ֣ר עִמִּ֑י וַיֹּאמַ֕ר דָּנִיֵּ֕אל עַתָּ֥ה יָצָ֖אתִי לְהַשְׂכִּילְךָ֥ בִינָֽה
-- tradition: islam
-  ref: Quran 53:5
-  note: One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
-    near and descended
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ
-- tradition: islam
-  ref: Quran 53:6
-  note: One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
-    near and descended
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذُو مِرَّةٍ فَٱسْتَوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A heavenly being flies down to a praying man to instruct him: wə-hā-ʾîš gaḇrîʾēl ... muʿāp̄
-    bîʿāp̄ nōḡēaʿ ʾēlay ... wa-yyāḇen wa-yḏabbēr ʿimmî ... yāṣāʾṯî lə-haśkîləḵā ḇînâ vs. ʿallamahu shadīdu
-    l-quwā dhū mirratin fa-stawā wa-huwa bi-l-ufuqi l-aʿlā thumma danā fa-tadallā ... fa-awḥā ilā ʿabdihi
-    mā awḥā. Daniel names him Gabriel; Q 53 does not name the ''mighty in power'' (tradition identifies
-    him as Jibrīl, cf. Q 2:97). Daniel''s angel explains a vision; the Quran''s figure transmits revelation
-    (waḥy).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One mighty in power (shadid al-quwa) taught him, stood poised on
     the highest horizon, then drew near and descended (weight 6.7). Pair score 6.7.'
@@ -98,6 +52,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
+  near and descended
+kinds:
+- echo
+units:
+- id: hb-dan-9-prayer-seventy-weeks
+  title: Daniel's penitential prayer and the seventy weeks
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: echo
+  label: One mighty in power (shadid al-quwa) taught him, stood poised on the highest horizon, then drew
+    near and descended
+  note: 'A heavenly being flies down to a praying man to instruct him: wə-hā-ʾîš gaḇrîʾēl ... muʿāp̄ bîʿāp̄
+    nōḡēaʿ ʾēlay ... wa-yyāḇen wa-yḏabbēr ʿimmî ... yāṣāʾṯî lə-haśkîləḵā ḇînâ vs. ʿallamahu shadīdu l-quwā
+    dhū mirratin fa-stawā wa-huwa bi-l-ufuqi l-aʿlā thumma danā fa-tadallā ... fa-awḥā ilā ʿabdihi mā
+    awḥā. Daniel names him Gabriel; Q 53 does not name the ''mighty in power'' (tradition identifies him
+    as Jibrīl, cf. Q 2:97). Daniel''s angel explains a vision; the Quran''s figure transmits revelation
+    (waḥy).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 9:21
+      lang: he
+      text: וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן
+        בַּתְּחִלָּה֙ מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת עָֽרֶב
+    - ref: Dan 9:22
+      lang: he
+      text: וַיָּ֖בֶן וַיְדַבֵּ֣ר עִמִּ֑י וַיֹּאמַ֕ר דָּנִיֵּ֕אל עַתָּ֥ה יָצָ֖אתִי לְהַשְׂכִּילְךָ֥ בִינָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 53:5
+      lang: ar
+      text: عَلَّمَهُۥ شَدِيدُ ٱلْقُوَىٰ
+    - ref: Quran 53:6
+      lang: ar
+      text: ذُو مِرَّةٍ فَٱسْتَوَىٰ
+    - ref: Quran 53:7
+      lang: ar
+      text: وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ
 ---
 
 ## Questions

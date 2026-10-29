@@ -2,8 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-25-hell-and-the-day-of-angels
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ Raging hell, the disowning of
   false gods, the split sky and the regretful wrongdoer
-summary: 'These two units share 1 motifs: a request to see god, by the prophet or by the people [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - request-to-see-god-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 33:18
-  note: 'A request to see God, by the prophet or by the people [contrast between the texts] (law-lā unzila
-    ʿalaynā l-malāʾikatu aw narā rabbanā la-qadi stakbarū fī anfusihim ~ harʾēnî nāʾ ʾet kəvōdekā ...
-    lōʾ tûkhal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy: the wish to see God. In Exodus it is the
-    prophet''s request, refused gently and partly granted; in the Quran it is a demand of the unbelievers,
-    judged arrogance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר הַרְאֵ֥נִי נָ֖א אֶת כְּבֹדֶֽךָ
-- tradition: judaism
-  ref: Exod 33:20
-  note: 'A request to see God, by the prophet or by the people [contrast between the texts] (law-lā unzila
-    ʿalaynā l-malāʾikatu aw narā rabbanā la-qadi stakbarū fī anfusihim ~ harʾēnî nāʾ ʾet kəvōdekā ...
-    lōʾ tûkhal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy: the wish to see God. In Exodus it is the
-    prophet''s request, refused gently and partly granted; in the Quran it is a demand of the unbelievers,
-    judged arrogance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
-- tradition: islam
-  ref: Quran 25:21
-  note: 'A request to see God, by the prophet or by the people [contrast between the texts] (law-lā unzila
-    ʿalaynā l-malāʾikatu aw narā rabbanā la-qadi stakbarū fī anfusihim ~ harʾēnî nāʾ ʾet kəvōdekā ...
-    lōʾ tûkhal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy: the wish to see God. In Exodus it is the
-    prophet''s request, refused gently and partly granted; in the Quran it is a demand of the unbelievers,
-    judged arrogance.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَٰٓئِكَةُ أَوْ نَرَىٰ
-    رَبَّنَا لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. law-lā unzila ʿalaynā l-malāʾikatu aw narā rabbanā la-qadi stakbarū fī anfusihim ~ harʾēnî
-    nāʾ ʾet kəvōdekā ... lōʾ tûkhal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy: the wish to see God.
-    In Exodus it is the prophet''s request, refused gently and partly granted; in the Quran it is a demand
-    of the unbelievers, judged arrogance.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A request to see God, by the prophet or by the people [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A request to see God, by the prophet or by the people
+kinds:
+- contrast
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-25-hell-and-the-day-of-angels
+  title: Raging hell, the disowning of false gods, the split sky and the regretful wrongdoer
+  tradition: islam
+matches:
+- kind: contrast
+  label: A request to see God, by the prophet or by the people
+  note: 'law-lā unzila ʿalaynā l-malāʾikatu aw narā rabbanā la-qadi stakbarū fī anfusihim ~ harʾēnî nāʾ
+    ʾet kəvōdekā ... lōʾ tûkhal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy: the wish to see God.
+    In Exodus it is the prophet''s request, refused gently and partly granted; in the Quran it is a demand
+    of the unbelievers, judged arrogance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:18
+      lang: he
+      text: וַיֹּאמַ֑ר הַרְאֵ֥נִי נָ֖א אֶת כְּבֹדֶֽךָ
+    - ref: Exod 33:20
+      lang: he
+      text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 25:21
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا لَوْلَآ أُنزِلَ عَلَيْنَا ٱلْمَلَٰٓئِكَةُ أَوْ
+        نَرَىٰ رَبَّنَا لَقَدِ ٱسْتَكْبَرُوا۟ فِىٓ أَنفُسِهِمْ وَعَتَوْ عُتُوًّا كَبِيرًا
 ---
 
 ## Questions

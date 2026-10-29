@@ -2,8 +2,7 @@
 id: motif-hb-amos-9-altar-and-booth-of-david-vs-quran-55-rahman-judgment-and-the-four-gardens
 title: The Lord at the altar, no escape, the sieve, and the fallen booth of David ↔ Passing the regions
   of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens with secluded maidens
-summary: 'These two units share 1 motifs: o company of jinn and men, pass beyond the regions of the heavens
-  and earth if you can; you cannot without authority; flames and molten brass will be sent on you.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,54 +15,9 @@ layers:
 - motif
 motifs:
 - jinn-and-men-cannot-pass-beyond-heavens
-passages:
-- tradition: judaism
-  ref: Amos 9:2
-  note: 'O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
-    without authority; flames and molten brass will be sent on you (No escape upward or downward from
-    God: ʾim yaḥtərû ḇiš-ʾôl miš-šām yāḏî ṯiqqāḥēm wə-ʾim yaʿălû haš-šāmayim miš-šām ʾôrîḏēm vs. yā maʿshara
-    l-jinni wa-l-insi ini staṭaʿtum an tanfudhū min aqṭāri s-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna
-    illā bi-sulṭān; yursalu ʿalaykumā shuwāẓun min nārin wa-nuḥās. Amos: Israel cannot hide from the punishment;
-    the Quran''s dare is to jinn and humans together. Amos adds the serpent in the sea; the Quran fire
-    and molten brass.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם אוֹרִידֵֽם
-- tradition: judaism
-  ref: Amos 9:3
-  note: 'O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
-    without authority; flames and molten brass will be sent on you (No escape upward or downward from
-    God: ʾim yaḥtərû ḇiš-ʾôl miš-šām yāḏî ṯiqqāḥēm wə-ʾim yaʿălû haš-šāmayim miš-šām ʾôrîḏēm vs. yā maʿshara
-    l-jinni wa-l-insi ini staṭaʿtum an tanfudhū min aqṭāri s-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna
-    illā bi-sulṭān; yursalu ʿalaykumā shuwāẓun min nārin wa-nuḥās. Amos: Israel cannot hide from the punishment;
-    the Quran''s dare is to jinn and humans together. Amos adds the serpent in the sea; the Quran fire
-    and molten brass.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם יֵחָֽבְאוּ֙ בְּרֹ֣אשׁ הַכַּרְמֶ֔ל מִשָּׁ֥ם אֲחַפֵּ֖שׂ וּלְקַחְתִּ֑ים וְאִם יִסָּ֨תְר֜וּ
-    מִנֶּ֤גֶד עֵינַי֙ בְּקַרְקַ֣ע הַיָּ֔ם מִשָּׁ֛ם אֲצַוֶּ֥ה אֶת הַנָּחָ֖שׁ וּנְשָׁכָֽם
-- tradition: islam
-  ref: Quran 55:33
-  note: O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
-    without authority; flames and molten brass will be sent on you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ
-    وَٱلْأَرْضِ فَٱنفُذُوا۟ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍ
-- tradition: islam
-  ref: Quran 55:35
-  note: O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
-    without authority; flames and molten brass will be sent on you
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. No escape upward or downward from God: ʾim yaḥtərû ḇiš-ʾôl miš-šām yāḏî ṯiqqāḥēm wə-ʾim
-    yaʿălû haš-šāmayim miš-šām ʾôrîḏēm vs. yā maʿshara l-jinni wa-l-insi ini staṭaʿtum an tanfudhū min
-    aqṭāri s-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna illā bi-sulṭān; yursalu ʿalaykumā shuwāẓun min
-    nārin wa-nuḥās. Amos: Israel cannot hide from the punishment; the Quran''s dare is to jinn and humans
-    together. Amos adds the serpent in the sea; the Quran fire and molten brass.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: O company of jinn and men, pass beyond the regions of the heavens
     and earth if you can; you cannot without authority; flames and molten brass will be sent on you (weight
@@ -102,6 +56,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
+  without authority; flames and molten brass will be sent on you
+kinds:
+- parallel
+units:
+- id: hb-amos-9-altar-and-booth-of-david
+  title: The Lord at the altar, no escape, the sieve, and the fallen booth of David
+  tradition: judaism
+- id: quran-55-rahman-judgment-and-the-four-gardens
+  title: Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens
+    with secluded maidens
+  tradition: islam
+matches:
+- kind: parallel
+  label: O company of jinn and men, pass beyond the regions of the heavens and earth if you can; you cannot
+    without authority; flames and molten brass will be sent on you
+  note: 'No escape upward or downward from God: ʾim yaḥtərû ḇiš-ʾôl miš-šām yāḏî ṯiqqāḥēm wə-ʾim yaʿălû
+    haš-šāmayim miš-šām ʾôrîḏēm vs. yā maʿshara l-jinni wa-l-insi ini staṭaʿtum an tanfudhū min aqṭāri
+    s-samāwāti wa-l-arḍi fa-nfudhū lā tanfudhūna illā bi-sulṭān; yursalu ʿalaykumā shuwāẓun min nārin
+    wa-nuḥās. Amos: Israel cannot hide from the punishment; the Quran''s dare is to jinn and humans together.
+    Amos adds the serpent in the sea; the Quran fire and molten brass.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 9:2
+      lang: he
+      text: אִם יַחְתְּר֣וּ בִשְׁא֔וֹל מִשָּׁ֖ם יָדִ֣י תִקָּחֵ֑ם וְאִֽם יַעֲלוּ֙ הַשָּׁמַ֔יִם מִשָּׁ֖ם
+        אוֹרִידֵֽם
+    - ref: Amos 9:3
+      lang: he
+      text: וְאִם יֵחָֽבְאוּ֙ בְּרֹ֣אשׁ הַכַּרְמֶ֔ל מִשָּׁ֥ם אֲחַפֵּ֖שׂ וּלְקַחְתִּ֑ים וְאִם יִסָּ֨תְר֜וּ
+        מִנֶּ֤גֶד עֵינַי֙ בְּקַרְקַ֣ע הַיָּ֔ם מִשָּׁ֛ם אֲצַוֶּ֥ה אֶת הַנָּחָ֖שׁ וּנְשָׁכָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 55:33
+      lang: ar
+      text: يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ
+        وَٱلْأَرْضِ فَٱنفُذُوا۟ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍ
+    - ref: Quran 55:35
+      lang: ar
+      text: يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ
 ---
 
 ## Questions

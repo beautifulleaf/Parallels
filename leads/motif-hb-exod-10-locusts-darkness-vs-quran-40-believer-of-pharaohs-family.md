@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-10-locusts-darkness-vs-quran-40-believer-of-pharaohs-family
 title: 'Plagues 8-9: locusts and darkness ↔ Moses, Pharaoh, Haman and the believer of Pharaoh''s family'
-summary: 'These two units share 1 motifs: a believing man of pharaoh''s family who concealed his faith
-  defends moses: ''will you kill a man for saying my lord is god?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - believer-of-pharaohs-family
-passages:
-- tradition: judaism
-  ref: Exod 10:7
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'' (wa-yyōʾmərû ʿaḇdê parʿōh ʾēlâw ʿaḏ-māṯay yihyeh zeh lānû lə-môqēš
-    šallaḥ ʾeṯ-hā-ʾănāšîm ... hă-ṭerem tēḏaʿ kî ʾāḇəḏâ miṣrāyim vs. a-taqtulūna rajulan an yaqūla rabbiya
-    llāh ... innī akhāfu ʿalaykum mithla yawmi l-aḥzāb: Pharaoh''s own courtiers urge him to give way
-    before ruin comes. Exodus gives a pragmatic plea (Egypt is lost); the Quran gives a believer''s argument
-    (if he lies it is on him, if true you will be struck).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְרוּ֩ עַבְדֵ֨י פַרְעֹ֜ה אֵלָ֗יו עַד מָתַי֙ יִהְיֶ֨ה זֶ֥ה לָ֨נוּ֙ לְמוֹקֵ֔שׁ שַׁלַּח֙ אֶת
-    הָ֣אֲנָשִׁ֔ים וְיַֽעַבְד֖וּ אֶת יְהוָ֣ה אֱלֹהֵיהֶ֑ם הֲטֶ֣רֶם תֵּדַ֔ע כִּ֥י אָבְדָ֖ה מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 40:28
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن
-    يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ وَإِن يَكُ كَٰذِبًا فَعَلَيْهِ
-    كَذِبُهُۥ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ
-    مُسْرِفٌ كَذَّابٌ
-- tradition: islam
-  ref: Quran 40:29
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ
-    إِن جَآءَنَا قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ
-    ٱلرَّشَادِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyōʾmərû ʿaḇdê parʿōh ʾēlâw ʿaḏ-māṯay yihyeh zeh lānû lə-môqēš šallaḥ ʾeṯ-hā-ʾănāšîm
-    ... hă-ṭerem tēḏaʿ kî ʾāḇəḏâ miṣrāyim vs. a-taqtulūna rajulan an yaqūla rabbiya llāh ... innī akhāfu
-    ʿalaykum mithla yawmi l-aḥzāb: Pharaoh''s own courtiers urge him to give way before ruin comes. Exodus
-    gives a pragmatic plea (Egypt is lost); the Quran gives a believer''s argument (if he lies it is on
-    him, if true you will be struck).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A believing man of Pharaoh''s family who concealed his faith defends
     Moses: ''Will you kill a man for saying my Lord is God?'' (weight 6.3). Pair score 6.3.'
@@ -89,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill
+  a man for saying my Lord is God?'''
+kinds:
+- parallel
+units:
+- id: hb-exod-10-locusts-darkness
+  title: 'Plagues 8-9: locusts and darkness'
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill
+    a man for saying my Lord is God?'''
+  note: 'wa-yyōʾmərû ʿaḇdê parʿōh ʾēlâw ʿaḏ-māṯay yihyeh zeh lānû lə-môqēš šallaḥ ʾeṯ-hā-ʾănāšîm ... hă-ṭerem
+    tēḏaʿ kî ʾāḇəḏâ miṣrāyim vs. a-taqtulūna rajulan an yaqūla rabbiya llāh ... innī akhāfu ʿalaykum mithla
+    yawmi l-aḥzāb: Pharaoh''s own courtiers urge him to give way before ruin comes. Exodus gives a pragmatic
+    plea (Egypt is lost); the Quran gives a believer''s argument (if he lies it is on him, if true you
+    will be struck).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 10:7
+      lang: he
+      text: וַיֹּאמְרוּ֩ עַבְדֵ֨י פַרְעֹ֜ה אֵלָ֗יו עַד מָתַי֙ יִהְיֶ֨ה זֶ֥ה לָ֨נוּ֙ לְמוֹקֵ֔שׁ שַׁלַּח֙
+        אֶת הָ֣אֲנָשִׁ֔ים וְיַֽעַבְד֖וּ אֶת יְהוָ֣ה אֱלֹהֵיהֶ֑ם הֲטֶ֣רֶם תֵּדַ֔ע כִּ֥י אָבְדָ֖ה מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 40:28
+      lang: ar
+      text: وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا
+        أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ وَإِن يَكُ كَٰذِبًا
+        فَعَلَيْهِ كَذِبُهُۥ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ إِنَّ ٱللَّهَ لَا
+        يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ
+    - ref: Quran 40:30
+      lang: ar
+      text: وَقَالَ ٱلَّذِىٓ ءَامَنَ يَٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ
 ---
 
 ## Questions

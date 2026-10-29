@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-38-judah-tamar-vs-quran-33-marriage-rules
 title: Judah and Tamar ↔ Divorce before consummation; the prophet's marriages; the curtain and the cloaks
-summary: 'These two units share 1 motifs: what a woman''s veil or cloak signals to men who see her [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - what-a-womans-covering-signals-as-contrast
-passages:
-- tradition: judaism
-  ref: Gen 38:14
-  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
-    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
-    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
-    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
-    is reversed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּסַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֨שֶׁב֙
-    בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא לֹֽא
-    נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה
-- tradition: judaism
-  ref: Gen 38:15
-  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
-    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
-    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
-    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
-    is reversed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ
-- tradition: islam
-  ref: Quran 33:59
-  note: 'What a woman''s veil or cloak signals to men who see her [contrast between the texts] (What a
-    covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā. The veiled
-    woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna fa-lā
-    yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
-    is reversed.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ
-    مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. What a covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ
-    pānêhā. The veiled woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā
-    an yuʿrafna fa-lā yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning
-    of the covering is reversed.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What a woman''s veil or cloak signals to men who see her [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What a woman's veil or cloak signals to men who see her
+kinds:
+- contrast
+units:
+- id: hb-gen-38-judah-tamar
+  title: Judah and Tamar
+  tradition: judaism
+- id: quran-33-marriage-rules
+  title: Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+  tradition: islam
+matches:
+- kind: contrast
+  label: What a woman's veil or cloak signals to men who see her
+  note: 'What a covering signals. Gen: wa-ttəḵas ba-ṣṣāʿîp̄ ... wa-yyaḥšəḇehā lə-zônâ kî ḵissəṯâ pānêhā.
+    The veiled woman is taken for a harlot. Q: yudnīna ʿalayhinna min jalābībihinna dhālika adnā an yuʿrafna
+    fa-lā yuʾdhayna. The cloak marks the believing (free) woman and protects her. The meaning of the covering
+    is reversed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 38:14
+      lang: he
+      text: וַתָּסַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֨שֶׁב֙
+        בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא
+        לֹֽא נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה
+    - ref: Gen 38:15
+      lang: he
+      text: וַיִּרְאֶ֣הָ יְהוּדָ֔ה וַֽיַּחְשְׁבֶ֖הָ לְזוֹנָ֑ה כִּ֥י כִסְּתָ֖ה פָּנֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:59
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ
+        عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ
+        غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

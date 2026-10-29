@@ -2,8 +2,7 @@
 id: motif-hb-isa-51-abraham-quarry-vs-quran-22-fly-parable-abraham
 title: Look to the rock you were hewn from ↔ The parable of the fly; messengers from angels and men; the
   religion of Abraham
-summary: 'These two units share 1 motifs: the religion of ''your father abraham'', who named you muslims
-  before.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - religion-of-father-abraham-named-muslims
-passages:
-- tradition: judaism
-  ref: Isa 51:2
-  note: 'The religion of ''your father Abraham'', who named you Muslims before (millata abīkum Ibrāhīma
-    huwa sammākumu l-muslimīna ~ habbîṭû ʾel ʾAvrāhām ʾăvîkem: the same address ''Abraham your father''
-    (abīkum / ʾăvîkem). Isaiah''s hearers are his physical descendants (Sarah təḥôlelkem, ''who bore you'');
-    in the Quran Abraham is the father of a religion (milla) and gives the name ''Muslims''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַבִּ֨יטוּ֙ אֶל אַבְרָהָ֣ם אֲבִיכֶ֔ם וְאֶל שָׂרָ֖ה תְּחוֹלֶלְכֶ֑ם כִּי אֶחָ֣ד קְרָאתִ֔יו וַאֲבָרְכֵ֖הוּ
-    וְאַרְבֵּֽהוּ
-- tradition: islam
-  ref: Quran 22:78
-  note: The religion of 'your father Abraham', who named you Muslims before
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ
-    مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا
-    لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ
-    وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. millata abīkum Ibrāhīma huwa sammākumu l-muslimīna ~ habbîṭû ʾel ʾAvrāhām ʾăvîkem: the same
-    address ''Abraham your father'' (abīkum / ʾăvîkem). Isaiah''s hearers are his physical descendants
-    (Sarah təḥôlelkem, ''who bore you''); in the Quran Abraham is the father of a religion (milla) and
-    gives the name ''Muslims''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion of ''your father Abraham'', who named you Muslims before
     (weight 6.7). Pair score 6.7.'
@@ -67,6 +43,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The religion of 'your father Abraham', who named you Muslims before
+kinds:
+- echo
+units:
+- id: hb-isa-51-abraham-quarry
+  title: Look to the rock you were hewn from
+  tradition: judaism
+- id: quran-22-fly-parable-abraham
+  title: The parable of the fly; messengers from angels and men; the religion of Abraham
+  tradition: islam
+matches:
+- kind: echo
+  label: The religion of 'your father Abraham', who named you Muslims before
+  note: 'millata abīkum Ibrāhīma huwa sammākumu l-muslimīna ~ habbîṭû ʾel ʾAvrāhām ʾăvîkem: the same address
+    ''Abraham your father'' (abīkum / ʾăvîkem). Isaiah''s hearers are his physical descendants (Sarah
+    təḥôlelkem, ''who bore you''); in the Quran Abraham is the father of a religion (milla) and gives
+    the name ''Muslims''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 51:2
+      lang: he
+      text: הַבִּ֨יטוּ֙ אֶל אַבְרָהָ֣ם אֲבִיכֶ֔ם וְאֶל שָׂרָ֖ה תְּחוֹלֶלְכֶ֑ם כִּי אֶחָ֣ד קְרָאתִ֔יו וַאֲבָרְכֵ֖הוּ
+        וְאַרְבֵּֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:78
+      lang: ar
+      text: وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ
+        مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا
+        لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ
+        وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ
+        ٱلنَّصِيرُ
 ---
 
 ## Questions

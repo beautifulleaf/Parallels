@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-24-penalties-and-lian
 title: Solomon's prayer of dedication ↔ Lashes for fornication, four witnesses and the mutual cursing
   oath
-summary: 'These two units share 1 motifs: a man accused swears a curse-oath before the altar, and god
-  judges guilty and innocent.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,28 +15,7 @@ layers:
 - motif
 motifs:
 - oath-before-altar-ordeal
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:31-32
-  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:31) אֵת֩ אֲשֶׁ֨ר יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָֽשָׁא ב֥וֹ אָלָ֖ה לְהַֽאֲלֹת֑וֹ וּבָ֗א אָלָ֛ה
-    לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה (8:32) וְאַתָּ֣ה תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְעָשִׂ֨יתָ֙ וְשָׁפַטְתָּ֣
-    אֶת עֲבָדֶ֔יךָ לְהַרְשִׁ֣יעַ רָשָׁ֔ע לָתֵ֥ת דַּרְכּ֖וֹ בְּרֹאשׁ֑וֹ וּלְהַצְדִּ֣יק צַדִּ֔יק לָ֥תֶת
-    ל֖וֹ כְּצִדְקָתֽוֹ
-- tradition: islam
-  ref: Quran 24:7
-  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
-- tradition: islam
-  ref: Quran 24:9
-  note: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A man accused swears a curse-oath before the altar, and God judges
     guilty and innocent (weight 6.7). Pair score 6.7.'
@@ -73,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
+kinds:
+- shared
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-24-penalties-and-lian
+  title: Lashes for fornication, four witnesses and the mutual cursing oath
+  tradition: islam
+matches:
+- kind: shared
+  label: A man accused swears a curse-oath before the altar, and God judges guilty and innocent
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:31-32
+      lang: he
+      text: (8:31) אֵת֩ אֲשֶׁ֨ר יֶחֱטָ֥א אִישׁ֙ לְרֵעֵ֔הוּ וְנָֽשָׁא ב֥וֹ אָלָ֖ה לְהַֽאֲלֹת֑וֹ וּבָ֗א
+        אָלָ֛ה לִפְנֵ֥י מִֽזְבַּחֲךָ֖ בַּבַּ֥יִת הַזֶּֽה (8:32) וְאַתָּ֣ה תִּשְׁמַ֣ע הַשָּׁמַ֗יִם וְעָשִׂ֨יתָ֙
+        וְשָׁפַטְתָּ֣ אֶת עֲבָדֶ֔יךָ לְהַרְשִׁ֣יעַ רָשָׁ֔ע לָתֵ֥ת דַּרְכּ֖וֹ בְּרֹאשׁ֑וֹ וּלְהַצְדִּ֣יק
+        צַדִּ֔יק לָ֥תֶת ל֖וֹ כְּצִדְקָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:7
+      lang: ar
+      text: وَٱلْخَٰمِسَةُ أَنَّ لَعْنَتَ ٱللَّهِ عَلَيْهِ إِن كَانَ مِنَ ٱلْكَٰذِبِينَ
+    - ref: Quran 24:9
+      lang: ar
+      text: وَٱلْخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيْهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ
 ---
 
 ## Questions

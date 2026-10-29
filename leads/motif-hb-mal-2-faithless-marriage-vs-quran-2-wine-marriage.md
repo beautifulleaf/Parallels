@@ -2,7 +2,7 @@
 id: motif-hb-mal-2-faithless-marriage-vs-quran-2-wine-marriage
 title: One father, one God; foreign wives and the wife of one's youth ↔ Wine, gambling, orphans, mixed
   marriage and menstruation
-summary: 'These two units share 1 motifs: marrying foreign women will lead the sons into idolatry.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - intermarriage-leads-to-idolatry
-passages:
-- tradition: judaism
-  ref: Mal 2:11
-  note: Marrying foreign women will lead the sons into idolatry ('married the daughter of a foreign god')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּגְדָ֣ה יְהוּדָ֔ה וְתוֹעֵבָ֛ה נֶעֶשְׂתָ֥ה בְיִשְׂרָאֵ֖ל וּבִירֽוּשָׁלִָ֑ם כִּ֣י חִלֵּ֣ל יְהוּדָ֗ה
-    קֹ֤דֶשׁ יְהוָה֙ אֲשֶׁ֣ר אָהֵ֔ב וּבָעַ֖ל בַּת אֵ֥ל נֵכָֽר
-- tradition: islam
-  ref: Quran 2:221
-  note: 'Marrying foreign women will lead the sons into idolatry (Mal 2:11 û-bāʿal bat ʾēl nēkār: marrying
-    ''the daughter of a foreign god''; Q 2:221 wa-la-amatun muʾminatun khayrun min mushrikatin wa-law
-    aʿjabatkum: a believing slave is better than an attractive polytheist. Both define the forbidden wife
-    by her god.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
-    وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ
-    مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟ إِلَى
-    ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Mal 2:11 û-bāʿal bat ʾēl nēkār: marrying ''the daughter of a foreign god''; Q 2:221 wa-la-amatun
-    muʾminatun khayrun min mushrikatin wa-law aʿjabatkum: a believing slave is better than an attractive
-    polytheist. Both define the forbidden wife by her god.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Marrying foreign women will lead the sons into idolatry (weight
     6.0). Pair score 6.0.'
@@ -73,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Marrying foreign women will lead the sons into idolatry
+kinds:
+- echo
+units:
+- id: hb-mal-2-faithless-marriage
+  title: One father, one God; foreign wives and the wife of one's youth
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: echo
+  label: Marrying foreign women will lead the sons into idolatry
+  note: 'Mal 2:11 û-bāʿal bat ʾēl nēkār: marrying ''the daughter of a foreign god''; Q 2:221 wa-la-amatun
+    muʾminatun khayrun min mushrikatin wa-law aʿjabatkum: a believing slave is better than an attractive
+    polytheist. Both define the forbidden wife by her god.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 2:11
+      lang: he
+      text: בָּגְדָ֣ה יְהוּדָ֔ה וְתוֹעֵבָ֛ה נֶעֶשְׂתָ֥ה בְיִשְׂרָאֵ֖ל וּבִירֽוּשָׁלִָ֑ם כִּ֣י חִלֵּ֣ל
+        יְהוּדָ֗ה קֹ֤דֶשׁ יְהוָה֙ אֲשֶׁ֣ר אָהֵ֔ב וּבָעַ֖ל בַּת אֵ֥ל נֵכָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:221
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
+        وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ
+        خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟
+        إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 ---
 
 ## Questions

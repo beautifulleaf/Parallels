@@ -2,9 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-2-call-to-worship
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Call to worship the
   Creator; the challenge; paradise and the gnat
-summary: 'These two units share 2 motifs: god summons the coastlands and nations (and their gods) to a
-  court trial to argue their case, inimitability challenge: produce a surah like it, calling on your own
-  witnesses (tahaddi).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,55 +15,9 @@ layers:
 motifs:
 - trial-of-nations-and-gods
 - challenge-to-produce-a-surah
-passages:
-- tradition: judaism
-  ref: Isa 43:9
-  note: God summons the coastlands and nations (and their gods) to a court trial to argue their case
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: islam
-  ref: Quran 2:23
-  note: God summons the coastlands and nations (and their gods) to a court trial to argue their case (Isa
-    43:9 mî bāhem yaggîd zōʾt ... yittĕnû ʿēdêhem wĕ-yiṣdāqû 'let them bring their witnesses and be proved
-    right'; Q 2:23 fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in kuntum ṣādiqīn
-    'call your witnesses besides God, if you are truthful'. Same court-challenge diction (witnesses +
-    ṣ-d-q). Isaiah challenges the gods to foretell; the Quran challenges the hearers to produce a scripture.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
-    وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: judaism
-  ref: Isa 43:9
-  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi) (The
-    opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi wa-dʿū
-    mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem wᵉyiṣdāqû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: islam
-  ref: Quran 2:23
-  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
-    وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: islam
-  ref: Quran 2:24
-  note: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ
-    أُعِدَّتْ لِلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 43:9 mî bāhem yaggîd zōʾt ... yittĕnû ʿēdêhem wĕ-yiṣdāqû ''let them bring their witnesses
-    and be proved right''; Q 2:23 fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in
-    kuntum ṣādiqīn ''call your witnesses besides God, if you are truthful''. Same court-challenge diction
-    (witnesses + ṣ-d-q). Isaiah challenges the gods to foretell; the Quran challenges the hearers to produce
-    a scripture.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God summons the coastlands and nations (and their gods) to a court
     trial to argue their case (weight 6.3); Inimitability challenge: produce a surah like it, calling
@@ -103,6 +55,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God summons the coastlands and nations (and their gods) to a court trial to argue their case
+kinds:
+- echo
+- shared
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: echo
+  label: God summons the coastlands and nations (and their gods) to a court trial to argue their case
+  note: Isa 43:9 mî bāhem yaggîd zōʾt ... yittĕnû ʿēdêhem wĕ-yiṣdāqû 'let them bring their witnesses and
+    be proved right'; Q 2:23 fa-ʾtū bi-sūratin min mithlihi wa-dʿū shuhadāʾakum min dūni llāhi in kuntum
+    ṣādiqīn 'call your witnesses besides God, if you are truthful'. Same court-challenge diction (witnesses
+    + ṣ-d-q). Isaiah challenges the gods to foretell; the Quran challenges the hearers to produce a scripture.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:23
+      lang: ar
+      text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
+        وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+- kind: shared
+  label: 'Inimitability challenge: produce a surah like it, calling on your own witnesses (tahaddi)'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+    note: 'The opponents are invited to bring their own supporters as witnesses: fa-ʾtū bi-sūratin mithlihi
+      wa-dʿū mani staṭaʿtum min dūni llāhi in kuntum ṣādiqīn vs mî bāhem yaggîd zōʾt ... yittᵉnû ʿēdêhem
+      wᵉyiṣdāqû.'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:23
+      lang: ar
+      text: وَإِن كُنتُمْ فِى رَيْبٍ مِّمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا۟ بِسُورَةٍ مِّن مِّثْلِهِۦ
+        وَٱدْعُوا۟ شُهَدَآءَكُم مِّن دُونِ ٱللَّهِ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 2:24
+      lang: ar
+      text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ
+        وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ
 ---
 
 ## Questions

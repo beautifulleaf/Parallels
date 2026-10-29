@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-18-levites-prophet-vs-quran-73-enwrapped
 title: 'Levitical dues; forbidden divination; the prophet like Moses ↔ The enwrapped one: the night vigil'
-summary: 'These two units share 1 motifs: god will raise up a prophet like moses from among the brothers
-  and put his words in his mouth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Deut 18:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 73:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('we sent to you a messenger, a witness against you, as we sent a messenger to Pharaoh')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ
-    رَسُولًا
-- tradition: islam
-  ref: Quran 73:16
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('we sent to you a messenger, a witness against you, as we sent a messenger to Pharaoh')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًا وَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. innā arsalnā ilaykum rasūlan shāhidan ʿalaykum kamā arsalnā ilā firʿawna rasūlan ~ nāvîʾ
-    ʾāqîm lāhem mi-qqerev ʾăḥêhem kāmôkā. Both make the new messenger ''like'' Moses; in Deuteronomy for
-    Israel and from among their brothers, in the Quran for the Meccans, the point of the likeness being
-    Pharaoh''s fate (fa-ʿaṣā firʿawnu r-rasūla fa-akhadhnāhu).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
     put his words in his mouth (weight 5.2). Pair score 5.2.'
@@ -84,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+kinds:
+- parallel
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  note: innā arsalnā ilaykum rasūlan shāhidan ʿalaykum kamā arsalnā ilā firʿawna rasūlan ~ nāvîʾ ʾāqîm
+    lāhem mi-qqerev ʾăḥêhem kāmôkā. Both make the new messenger 'like' Moses; in Deuteronomy for Israel
+    and from among their brothers, in the Quran for the Meccans, the point of the likeness being Pharaoh's
+    fate (fa-ʿaṣā firʿawnu r-rasūla fa-akhadhnāhu).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 73:15
+      lang: ar
+      text: إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ
+        رَسُولًا
+    - ref: Quran 73:16
+      lang: ar
+      text: فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًا وَبِيلًا
 ---
 
 ## Questions

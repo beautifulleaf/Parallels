@@ -2,9 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-24-light-verse
 title: Psalm 148, praise from heaven and earth ↔ The Light Verse; the mirage, the dark sea, the praising
   birds, hail and the creatures
-summary: 'These two units share 2 motifs: birds with outspread wings glorify god; each knows its prayer
-  and praise, all in heaven and earth prostrate to god: sun, moon, stars, mountains, trees, beasts and
-  many humans.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,57 +16,9 @@ layers:
 motifs:
 - birds-in-flight-know-their-prayer
 - all-creation-prostrates-to-god
-passages:
-- tradition: judaism
-  ref: Ps 148:10
-  note: 'Birds with outspread wings glorify God; each knows its prayer and praise (yusabbiḥu lahu man
-    fī s-samāwāti wa-l-arḍi wa-ṭ-ṭayru ṣāffātin kullun qad ʿalima ṣalātahu wa-tasbīḥahu ~ ha-ḥayyâ wə-khol
-    bəhēmâ remeś wə-ṣippôr kānāf ... yəhaləlû ʾet šēm YHWH: birds join the praise of all creation. The
-    Psalm calls them to praise; the Quran says each already knows its own prayer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
-- tradition: islam
-  ref: Quran 24:41
-  note: Birds with outspread wings glorify God; each knows its prayer and praise
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ
-    كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ
-- tradition: judaism
-  ref: Ps 148:3
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans (wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
-    ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same
-    order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration
-    (yasjudu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל כּ֥וֹכְבֵי אֽוֹר
-- tradition: judaism
-  ref: Ps 148:9
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans (wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
-    ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the same
-    order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran prostration
-    (yasjudu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
-- tradition: islam
-  ref: Quran 24:41
-  note: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
-    humans'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ
-    كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yusabbiḥu lahu man fī s-samāwāti wa-l-arḍi wa-ṭ-ṭayru ṣāffātin kullun qad ʿalima ṣalātahu
-    wa-tasbīḥahu ~ ha-ḥayyâ wə-khol bəhēmâ remeś wə-ṣippôr kānāf ... yəhaləlû ʾet šēm YHWH: birds join
-    the praise of all creation. The Psalm calls them to praise; the Quran says each already knows its
-    own prayer.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Birds with outspread wings glorify God; each knows its prayer and
     praise (weight 6.7); All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees,
@@ -107,6 +57,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Birds with outspread wings glorify God; each knows its prayer and praise
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: parallel
+  label: Birds with outspread wings glorify God; each knows its prayer and praise
+  note: 'yusabbiḥu lahu man fī s-samāwāti wa-l-arḍi wa-ṭ-ṭayru ṣāffātin kullun qad ʿalima ṣalātahu wa-tasbīḥahu
+    ~ ha-ḥayyâ wə-khol bəhēmâ remeś wə-ṣippôr kānāf ... yəhaləlû ʾet šēm YHWH: birds join the praise of
+    all creation. The Psalm calls them to praise; the Quran says each already knows its own prayer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:10
+      lang: he
+      text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 24:41
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ
+        كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ
+- kind: shared
+  label: 'All in heaven and earth prostrate to God: sun, moon, stars, mountains, trees, beasts and many
+    humans'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:3
+      lang: he
+      text: הַֽ֭לְלוּהוּ שֶׁ֣מֶשׁ וְיָרֵ֑חַ הַ֝לְל֗וּהוּ כָּל כּ֥וֹכְבֵי אֽוֹר
+    - ref: Ps 148:9
+      lang: he
+      text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
+    - ref: Ps 148:10
+      lang: he
+      text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
+    note: 'wa-sh-shamsu wa-l-qamaru wa-n-nujūmu wa-l-jibālu wa-sh-shajaru wa-d-dawābbu ~ šemeš wə-yārēaḥ
+      ... kôkvê ʾôr ... he-hārîm ... ʿēṣ pərî ... ha-ḥayyâ wə-kol bəhēmâ: the same list in nearly the
+      same order (sun, moon, stars, mountains, trees, beasts); the Psalm has praise (halləlûhû), the Quran
+      prostration (yasjudu).'
+  - tradition: islam
+    passages:
+    - ref: Quran 24:41
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يُسَبِّحُ لَهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلطَّيْرُ صَٰٓفَّٰتٍ
+        كُلٌّ قَدْ عَلِمَ صَلَاتَهُۥ وَتَسْبِيحَهُۥ وَٱللَّهُ عَلِيمٌۢ بِمَا يَفْعَلُونَ
 ---
 
 ## Questions

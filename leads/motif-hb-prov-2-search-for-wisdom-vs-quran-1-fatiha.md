@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-2-search-for-wisdom-vs-quran-1-fatiha
 title: Proverbs 2, seeking wisdom as treasure; the strange woman ↔ The Opening (al-Fatiha)
-summary: 'These two units share 1 motifs: contrast of the way of the righteous, which god knows, and the
-  way of the wicked, which perishes.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - two-ways-righteous-and-wicked
-passages:
-- tradition: judaism
-  ref: Prov 2:12-15
-  note: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
-    (Paths of uprightness versus ways of darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (2:12) לְ֭הַצִּ֣ילְךָ מִדֶּ֣רֶךְ רָ֑ע מֵ֝אִ֗ישׁ מְדַבֵּ֥ר תַּהְפֻּכֽוֹת (2:13) הַ֭עֹ֣זְבִים אָרְח֣וֹת
-    יֹ֑שֶׁר לָ֝לֶ֗כֶת בְּדַרְכֵי חֹֽשֶׁךְ (2:14) הַ֭שְּׂמֵחִים לַעֲשׂ֥וֹת רָ֑ע יָ֝גִ֗ילוּ בְּֽתַהְפֻּכ֥וֹת
-    רָֽע (2:15) אֲשֶׁ֣ר אָרְחֹתֵיהֶ֣ם עִקְּשִׁ֑ים וּ֝נְלוֹזִ֗ים בְּמַעְגְּלוֹתָֽם
-- tradition: judaism
-  ref: Prov 2:20
-  note: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
-    (Paths of uprightness versus ways of darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְמַ֗עַן תֵּ֭לֵךְ בְּדֶ֣רֶךְ טוֹבִ֑ים וְאָרְח֖וֹת צַדִּיקִ֣ים תִּשְׁמֹֽר
-- tradition: islam
-  ref: Quran 1:6
-  note: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
-    (here three ways)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ
-- tradition: islam
-  ref: Quran 1:7
-  note: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
-    (here three ways)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 2:13 ha-ʿōzĕbîm ʾorḥôt yōšer lāleket bĕ-darkê ḥōšek, 2:20 bĕ-derek ṭôbîm ~ Q 1:7 ṣirāṭa
-    lladhīna anʿamta ʿalayhim ... wa-lā ḍ-ḍāllīn: those who leave the straight paths (yōšer) vs those
-    who go astray (ḍāllīn) from the straight path.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contrast of the way of the righteous, which God knows, and the way
     of the wicked, which perishes (weight 6.0). Pair score 6.0.'
@@ -80,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
+kinds:
+- parallel
+units:
+- id: hb-prov-2-search-for-wisdom
+  title: Proverbs 2, seeking wisdom as treasure; the strange woman
+  tradition: judaism
+- id: quran-1-fatiha
+  title: The Opening (al-Fatiha)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Contrast of the way of the righteous, which God knows, and the way of the wicked, which perishes
+  note: 'Prov 2:13 ha-ʿōzĕbîm ʾorḥôt yōšer lāleket bĕ-darkê ḥōšek, 2:20 bĕ-derek ṭôbîm ~ Q 1:7 ṣirāṭa
+    lladhīna anʿamta ʿalayhim ... wa-lā ḍ-ḍāllīn: those who leave the straight paths (yōšer) vs those
+    who go astray (ḍāllīn) from the straight path.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 2:13
+      lang: he
+      text: הַ֭עֹ֣זְבִים אָרְח֣וֹת יֹ֑שֶׁר לָ֝לֶ֗כֶת בְּדַרְכֵי חֹֽשֶׁךְ
+    - ref: Prov 2:20
+      lang: he
+      text: לְמַ֗עַן תֵּ֭לֵךְ בְּדֶ֣רֶךְ טוֹבִ֑ים וְאָרְח֖וֹת צַדִּיקִ֣ים תִּשְׁמֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 1:7
+      lang: ar
+      text: صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ
 ---
 
 ## Questions

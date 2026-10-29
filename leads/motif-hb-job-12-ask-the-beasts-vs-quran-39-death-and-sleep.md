@@ -2,8 +2,7 @@
 id: motif-hb-job-12-ask-the-beasts-vs-quran-39-death-and-sleep
 title: Job - ask the beasts; God's sovereign overturnings ↔ The prophet's mortality; souls taken in sleep;
   intercession belongs to God
-summary: 'These two units share 1 motifs: god takes the souls at death and of those not dead in their
-  sleep; he keeps those decreed to die and sends back the others for a set term.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - god-takes-souls-in-sleep-and-death
-passages:
-- tradition: judaism
-  ref: Job 12:10
-  note: 'God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
-    die and sends back the others for a set term (ʾăšer bə-yāḏô nep̄eš kol-ḥāy wə-rûaḥ kol-bəśar-ʾîš vs.
-    allāhu yatawaffā l-anfus: every soul (nep̄eš / nafs, cognate) is in God''s hand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר בְּ֭יָדוֹ נֶ֣פֶשׁ כָּל חָ֑י וְ֝ר֗וּחַ כָּל בְּשַׂר אִֽישׁ
-- tradition: islam
-  ref: Quran 39:42
-  note: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to die
-    and sends back the others for a set term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
-    ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾăšer bə-yāḏô nep̄eš kol-ḥāy wə-rûaḥ kol-bəśar-ʾîš vs. allāhu yatawaffā l-anfus: every soul
-    (nep̄eš / nafs, cognate) is in God''s hand.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God takes the souls at death and of those not dead in their sleep;
     he keeps those decreed to die and sends back the others for a set term (weight 6.3). Pair score 6.3.'
@@ -69,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
+  die and sends back the others for a set term
+kinds:
+- echo
+units:
+- id: hb-job-12-ask-the-beasts
+  title: Job - ask the beasts; God's sovereign overturnings
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: echo
+  label: God takes the souls at death and of those not dead in their sleep; he keeps those decreed to
+    die and sends back the others for a set term
+  note: 'ʾăšer bə-yāḏô nep̄eš kol-ḥāy wə-rûaḥ kol-bəśar-ʾîš vs. allāhu yatawaffā l-anfus: every soul (nep̄eš
+    / nafs, cognate) is in God''s hand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 12:10
+      lang: he
+      text: אֲשֶׁ֣ר בְּ֭יָדוֹ נֶ֣פֶשׁ כָּל חָ֑י וְ֝ר֗וּחַ כָּל בְּשַׂר אִֽישׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:42
+      lang: ar
+      text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
+        ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى
+        ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

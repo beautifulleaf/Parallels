@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-104-creation-hymn-vs-quran-31-luqman
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Luqman's advice to his son
-summary: 'These two units share 1 motifs: god set firm mountains on the earth lest it sway with people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - mountains-stabilize-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:5
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 104:8
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
-- tradition: islam
-  ref: Quran 31:10
-  note: God set firm mountains on the earth lest it sway with people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ
-    بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا
-    مِن كُلِّ زَوْجٍ كَرِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yāsaḏ-ʾereṣ ʿal-məḵôneyhā bal-timmôṭ ʿôlām wā-ʿeḏ (lest it totter) vs. wa-alqā fī l-arḍi rawāsiya
-    an tamīda bikum (lest it sway with you). The earth must not shake: in Ps it rests on foundations,
-    in Q it is held down by mountains as anchors (rawāsī).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set firm mountains on the earth lest it sway with people (weight
     5.6). Pair score 5.6.'
@@ -78,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set firm mountains on the earth lest it sway with people
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: echo
+  label: God set firm mountains on the earth lest it sway with people
+  note: 'yāsaḏ-ʾereṣ ʿal-məḵôneyhā bal-timmôṭ ʿôlām wā-ʿeḏ (lest it totter) vs. wa-alqā fī l-arḍi rawāsiya
+    an tamīda bikum (lest it sway with you). The earth must not shake: in Ps it rests on foundations,
+    in Q it is held down by mountains as anchors (rawāsī).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 31:10
+      lang: ar
+      text: خَلَقَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ
+        بِكُمْ وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا فِيهَا
+        مِن كُلِّ زَوْجٍ كَرِيمٍ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-7-guilt-peace-portions-vs-quran-2-food-piety
 title: Guilt and well-being offerings; priests' portions; fat and blood bans ↔ Lawful food and true piety
-summary: 'These two units share 1 motifs: eating blood is forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - prohibition-of-eating-blood
-passages:
-- tradition: judaism
-  ref: Lev 7:26
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
-- tradition: judaism
-  ref: Lev 7:27
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 2:173
-  note: Eating blood is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Lev 7:26 wĕ-kol dām lōʾ tōʾkĕlû bĕ-kōl môšĕbōtêkem lā-ʿôp wĕ-la-bbĕhēmâ; Q 2:173 ḥarrama
-    ʿalaykumu ... d-dama.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 5.6). Pair score 5.6.'
   basis: reading
@@ -70,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eating blood is forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-7-guilt-peace-portions
+  title: Guilt and well-being offerings; priests' portions; fat and blood bans
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: parallel
+  label: Eating blood is forbidden
+  note: Lev 7:26 wĕ-kol dām lōʾ tōʾkĕlû bĕ-kōl môšĕbōtêkem lā-ʿôp wĕ-la-bbĕhēmâ; Q 2:173 ḥarrama ʿalaykumu
+    ... d-dama.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 7:26
+      lang: he
+      text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
+    - ref: Lev 7:27
+      lang: he
+      text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

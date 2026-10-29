@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-88-overwhelming
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ The overwhelming event:
   dari'' and the carpets of paradise'
-summary: 'These two units share 1 motifs: rhetorical divine questions: where were you when i founded the
-  earth? do you know...?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - where-were-you-at-creation
-passages:
-- tradition: judaism
-  ref: Isa 40:26
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...? (a-fa-lā
-    yanẓurūna ilā l-ibili kayfa khuliqat wa-ilā s-samāʾi kayfa rufiʿat ~ śeʾû mārôm ʿênêkem û-reʾû mî
-    vārāʾ ʾēlleh: ''look and see'' how/who created, as proof of the creator; Isaiah looks at the stars,
-    the Quran at the camel, the sky, the mountains and the earth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂאוּ מָר֨וֹם עֵינֵיכֶ֤ם וּרְאוּ֙ מִי בָרָ֣א אֵ֔לֶּה הַמּוֹצִ֥יא בְמִסְפָּ֖ר צְבָאָ֑ם לְכֻלָּם֙
-    בְּשֵׁ֣ם יִקְרָ֔א מֵרֹ֤ב אוֹנִים֙ וְאַמִּ֣יץ כֹּ֔חַ אִ֖ישׁ לֹ֥א נֶעְדָּֽר
-- tradition: islam
-  ref: Quran 88:17
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...? (''do they
-    not look at the camel, how it was created, the sky, how raised...'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ
-- tradition: islam
-  ref: Quran 88:18
-  note: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...? (''do they
-    not look at the camel, how it was created, the sky, how raised...'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-fa-lā yanẓurūna ilā l-ibili kayfa khuliqat wa-ilā s-samāʾi kayfa rufiʿat ~ śeʾû mārôm
-    ʿênêkem û-reʾû mî vārāʾ ʾēlleh: ''look and see'' how/who created, as proof of the creator; Isaiah
-    looks at the stars, the Quran at the camel, the sky, the mountains and the earth.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rhetorical divine questions: where were you when I founded the earth?
     Do you know...? (weight 6.3). Pair score 6.3.'
@@ -84,6 +56,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-88-overwhelming
+  title: 'The overwhelming event: dari'' and the carpets of paradise'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Rhetorical divine questions: where were you when I founded the earth? Do you know...?'
+  note: 'a-fa-lā yanẓurūna ilā l-ibili kayfa khuliqat wa-ilā s-samāʾi kayfa rufiʿat ~ śeʾû mārôm ʿênêkem
+    û-reʾû mî vārāʾ ʾēlleh: ''look and see'' how/who created, as proof of the creator; Isaiah looks at
+    the stars, the Quran at the camel, the sky, the mountains and the earth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:26
+      lang: he
+      text: שְׂאוּ מָר֨וֹם עֵינֵיכֶ֤ם וּרְאוּ֙ מִי בָרָ֣א אֵ֔לֶּה הַמּוֹצִ֥יא בְמִסְפָּ֖ר צְבָאָ֑ם לְכֻלָּם֙
+        בְּשֵׁ֣ם יִקְרָ֔א מֵרֹ֤ב אוֹנִים֙ וְאַמִּ֣יץ כֹּ֔חַ אִ֖ישׁ לֹ֥א נֶעְדָּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 88:17
+      lang: ar
+      text: أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ
+    - ref: Quran 88:18
+      lang: ar
+      text: وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ
+    - ref: Quran 88:19
+      lang: ar
+      text: وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ
 ---
 
 ## Questions

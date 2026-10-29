@@ -2,7 +2,7 @@
 id: motif-hb-isa-34-edom-and-lilith-vs-quran-52-tur-oaths-and-judgment
 title: 'Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins ↔ Al-Tur:
   the oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
-summary: 'These two units share 1 motifs: on the day the sky heaves (tamur) and the mountains move away.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - sky-heaves-mountains-move
-passages:
-- tradition: judaism
-  ref: Isa 34:4
-  note: 'On the day the sky heaves (tamur) and the mountains move away (The sky undone at the judgment:
-    wə-nāmaqqû kol ṣəḇāʾ haš-šāmayim wə-nāḡōllû ḵas-sēp̄er haš-šāmāyim (the heavens rolled up like a scroll)
-    vs. yawma tamūru s-samāʾu mawran wa-tasīru l-jibālu sayrā. Isaiah''s sky is rolled up like a book;
-    in Q 52 a book is unrolled (52:3) and the sky heaves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
-    כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
-- tradition: islam
-  ref: Quran 52:9
-  note: On the day the sky heaves (tamur) and the mountains move away
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا
-- tradition: islam
-  ref: Quran 52:10
-  note: On the day the sky heaves (tamur) and the mountains move away
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَسِيرُ ٱلْجِبَالُ سَيْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The sky undone at the judgment: wə-nāmaqqû kol ṣəḇāʾ haš-šāmayim wə-nāḡōllû ḵas-sēp̄er haš-šāmāyim
-    (the heavens rolled up like a scroll) vs. yawma tamūru s-samāʾu mawran wa-tasīru l-jibālu sayrā. Isaiah''s
-    sky is rolled up like a book; in Q 52 a book is unrolled (52:3) and the sky heaves.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day the sky heaves (tamur) and the mountains move away (weight
     6.3). Pair score 6.3.'
@@ -78,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day the sky heaves (tamur) and the mountains move away
+kinds:
+- echo
+units:
+- id: hb-isa-34-edom-and-lilith
+  title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+  tradition: judaism
+- id: quran-52-tur-oaths-and-judgment
+  title: 'Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day the sky heaves (tamur) and the mountains move away
+  note: 'The sky undone at the judgment: wə-nāmaqqû kol ṣəḇāʾ haš-šāmayim wə-nāḡōllû ḵas-sēp̄er haš-šāmāyim
+    (the heavens rolled up like a scroll) vs. yawma tamūru s-samāʾu mawran wa-tasīru l-jibālu sayrā. Isaiah''s
+    sky is rolled up like a book; in Q 52 a book is unrolled (52:3) and the sky heaves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 34:4
+      lang: he
+      text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
+        כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 52:9
+      lang: ar
+      text: يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا
+    - ref: Quran 52:10
+      lang: ar
+      text: وَتَسِيرُ ٱلْجِبَالُ سَيْرًا
 ---
 
 ## Questions

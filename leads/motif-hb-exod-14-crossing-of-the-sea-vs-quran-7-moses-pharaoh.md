@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-7-moses-pharaoh
 title: The pursuit and the parting of the sea ↔ Moses before Pharaoh, the magicians and the plagues
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people, the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,62 +15,9 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:4
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחִזַּקְתִּ֣י אֶת לֵב פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל חֵיל֔וֹ
-    וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ כֵֽן
-- tradition: judaism
-  ref: Exod 14:8
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל
-    וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה
-- tradition: islam
-  ref: Quran 7:132
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 7:133
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 7:136
-  note: The returning waters drown the pursuing army; not one survives (al-yamm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟
-    عَنْهَا غَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q yamm = Heb yām. Exod: wa-yyāšuvû ham-mayim wa-ykhassû ʾet-hā-rekhev ... bay-yām lōʾ-nišʾar
-    bāhem ʿad-ʾeḥād. Q: fa-ntaqamnā minhum fa-aghraqnāhum fī l-yammi bi-annahum kadhdhabū bi-āyātinā.
-    Q gives a reason (they denied the signs) and calls it revenge (intiqām).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people (weight 4.6); The returning waters drown the pursuing army; not one survives
@@ -106,6 +52,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- parallel
+- shared
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: parallel
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'Q yamm = Heb yām. Exod: wa-yyāšuvû ham-mayim wa-ykhassû ʾet-hā-rekhev ... bay-yām lōʾ-nišʾar
+    bāhem ʿad-ʾeḥād. Q: fa-ntaqamnā minhum fa-aghraqnāhum fī l-yammi bi-annahum kadhdhabū bi-āyātinā.
+    Q gives a reason (they denied the signs) and calls it revenge (intiqām).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 7:136
+      lang: ar
+      text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا
+        وَكَانُوا۟ عَنْهَا غَٰفِلِينَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:4
+      lang: he
+      text: וְחִזַּקְתִּ֣י אֶת לֵב פַּרְעֹה֮ וְרָדַ֣ף אַחֲרֵיהֶם֒ וְאִכָּבְדָ֤ה בְּפַרְעֹה֙ וּבְכָל חֵיל֔וֹ
+        וְיָדְע֥וּ מִצְרַ֖יִם כִּֽי אֲנִ֣י יְהוָ֑ה וַיַּֽעֲשׂוּ כֵֽן
+    - ref: Exod 14:8
+      lang: he
+      text: וַיְחַזֵּ֣ק יְהֹוָ֗ה אֶת לֵ֤ב פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם וַיִּרְדֹּ֕ף אַחֲרֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל
+        וּבְנֵ֣י יִשְׂרָאֵ֔ל יֹצְאִ֖ים בְּיָ֥ד רָמָֽה
+    - ref: Exod 14:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִ֤י מְחַזֵּק֙ אֶת לֵ֣ב מִצְרַ֔יִם וְיָבֹ֖אוּ אַחֲרֵיהֶ֑ם וְאִכָּבְדָ֤ה בְּפַרְעֹה֙
+        וּבְכָל חֵיל֔וֹ בְּרִכְבּ֖וֹ וּבְפָרָשָֽׁיו
+  - tradition: islam
+    passages:
+    - ref: Quran 7:132
+      lang: ar
+      text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    note: self-arrogance rather than divine hardening
 ---
 
 ## Questions

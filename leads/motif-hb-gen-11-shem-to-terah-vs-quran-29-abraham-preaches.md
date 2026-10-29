@@ -2,9 +2,7 @@
 id: motif-hb-gen-11-shem-to-terah-vs-quran-29-abraham-preaches
 title: Generations of Shem to Terah; Terah's family leaves Ur ↔ Abraham preaches against idols, is saved
   from the fire, and Lot believes
-summary: 'These two units share 2 motifs: family migrates from ur of the chaldeans to harran on the way
-  to canaan, who leads abraham''s departure from his homeland, with lot, and why [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,50 +15,9 @@ layers:
 motifs:
 - migration-from-ur-to-harran
 - why-abraham-leaves-his-homeland-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 11:31
-  note: Family migrates from Ur of the Chaldeans to Harran on the way to Canaan
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ
-    אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ
-    עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
-- tradition: islam
-  ref: Quran 29:26
-  note: Family migrates from Ur of the Chaldeans to Harran on the way to Canaan (the emigration (hijra)
-    of Abraham, place unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
-- tradition: judaism
-  ref: Gen 11:31
-  note: 'Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]
-    (Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet Lôṭ ben
-    Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh 24:2);
-    the Quran has a religious emigration after Abraham''s people reject him, fa-āmana lahu Lūṭun wa-qāla
-    innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah''s grandson.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ
-    אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ
-    עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
-- tradition: islam
-  ref: Quran 29:26
-  note: 'Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]
-    (Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet Lôṭ ben
-    Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh 24:2);
-    the Quran has a religious emigration after Abraham''s people reject him, fa-āmana lahu Lūṭun wa-qāla
-    innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah''s grandson.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet
-    Lôṭ ben Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh
-    24:2); the Quran has a religious emigration after Abraham''s people reject him, fa-āmana lahu Lūṭun
-    wa-qāla innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah''s grandson.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Family migrates from Ur of the Chaldeans to Harran on the way to
     Canaan (weight 6.7); Who leads Abraham''s departure from his homeland, with Lot, and why [divergence
@@ -90,6 +47,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who leads Abraham's departure from his homeland, with Lot, and why
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-11-shem-to-terah
+  title: Generations of Shem to Terah; Terah's family leaves Ur
+  tradition: judaism
+- id: quran-29-abraham-preaches
+  title: Abraham preaches against idols, is saved from the fire, and Lot believes
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who leads Abraham's departure from his homeland, with Lot, and why
+  note: 'Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet Lôṭ
+    ben Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh
+    24:2); the Quran has a religious emigration after Abraham''s people reject him, fa-āmana lahu Lūṭun
+    wa-qāla innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah''s grandson.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:31
+      lang: he
+      text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י
+        כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה
+        כְּנַ֔עַן וַיָּבֹ֥אוּ עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:26
+      lang: ar
+      text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+- kind: shared
+  label: Family migrates from Ur of the Chaldeans to Harran on the way to Canaan
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:31
+      lang: he
+      text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י
+        כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה
+        כְּנַ֔עַן וַיָּבֹ֥אוּ עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:26
+      lang: ar
+      text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+    note: the emigration (hijra) of Abraham, place unnamed
 ---
 
 ## Questions

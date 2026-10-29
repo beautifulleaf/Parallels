@@ -2,8 +2,7 @@
 id: motif-hb-isa-66-fire-and-ingathering-vs-quran-37-hell-and-garden
 title: Judgment by fire, ingathering of nations, the undying worm ↔ The damned questioned; the blessed
   on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: one of the blessed recalls a companion who denied the resurrection,
-  looks down and sees him in the midst of hell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - blessed-looks-down-sees-companion-in-hell
-passages:
-- tradition: judaism
-  ref: Isa 66:24
-  note: 'One of the blessed recalls a companion who denied the resurrection, looks down and sees him in
-    the midst of hell (wə-yāṣəʾû wə-rāʾû bə-p̄iḡrê hā-ʾănāšîm ha-ppōšəʿîm bî vs. qāla hal antum muṭṭaliʿūna
-    fa-ṭṭalaʿa fa-raʾāhu fī sawāʾi l-jaḥīm: the saved go and look on the punished. Isaiah''s onlookers
-    are all flesh at the New Moon and Sabbath; the Quran''s is one man recognising his former companion
-    (qarīn) who mocked resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת
-    וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל בָּשָֽׂר
-- tradition: islam
-  ref: Quran 37:50
-  note: One of the blessed recalls a companion who denied the resurrection, looks down and sees him in
-    the midst of hell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ
-- tradition: islam
-  ref: Quran 37:51
-  note: One of the blessed recalls a companion who denied the resurrection, looks down and sees him in
-    the midst of hell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ قَآئِلٌ مِّنْهُمْ إِنِّى كَانَ لِى قَرِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-yāṣəʾû wə-rāʾû bə-p̄iḡrê hā-ʾănāšîm ha-ppōšəʿîm bî vs. qāla hal antum muṭṭaliʿūna fa-ṭṭalaʿa
-    fa-raʾāhu fī sawāʾi l-jaḥīm: the saved go and look on the punished. Isaiah''s onlookers are all flesh
-    at the New Moon and Sabbath; the Quran''s is one man recognising his former companion (qarīn) who
-    mocked resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: One of the blessed recalls a companion who denied the resurrection,
     looks down and sees him in the midst of hell (weight 6.7). Pair score 6.7.'
@@ -84,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: One of the blessed recalls a companion who denied the resurrection, looks down and sees him in
+  the midst of hell
+kinds:
+- parallel
+units:
+- id: hb-isa-66-fire-and-ingathering
+  title: Judgment by fire, ingathering of nations, the undying worm
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: parallel
+  label: One of the blessed recalls a companion who denied the resurrection, looks down and sees him in
+    the midst of hell
+  note: 'wə-yāṣəʾû wə-rāʾû bə-p̄iḡrê hā-ʾănāšîm ha-ppōšəʿîm bî vs. qāla hal antum muṭṭaliʿūna fa-ṭṭalaʿa
+    fa-raʾāhu fī sawāʾi l-jaḥīm: the saved go and look on the punished. Isaiah''s onlookers are all flesh
+    at the New Moon and Sabbath; the Quran''s is one man recognising his former companion (qarīn) who
+    mocked resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 66:24
+      lang: he
+      text: וְיָצְא֣וּ וְרָא֔וּ בְּפִגְרֵי֙ הָאֲנָשִׁ֔ים הַפֹּשְׁעִ֖ים בִּ֑י כִּ֣י תוֹלַעְתָּ֞ם לֹ֣א תָמ֗וּת
+        וְאִשָּׁם֙ לֹ֣א תִכְבֶּ֔ה וְהָי֥וּ דֵרָא֖וֹן לְכָל בָּשָֽׂר
+  - tradition: islam
+    passages:
+    - ref: Quran 37:54
+      lang: ar
+      text: قَالَ هَلْ أَنتُم مُّطَّلِعُونَ
+    - ref: Quran 37:55
+      lang: ar
+      text: فَٱطَّلَعَ فَرَءَاهُ فِى سَوَآءِ ٱلْجَحِيمِ
 ---
 
 ## Questions

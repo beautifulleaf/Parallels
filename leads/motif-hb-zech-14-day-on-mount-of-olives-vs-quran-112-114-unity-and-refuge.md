@@ -2,7 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-112-114-unity-and-refuge
 title: 'The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ Sincerity, daybreak
   and mankind: God''s unity and the two refuges'
-summary: 'These two units share 1 motifs: hear o israel: yhwh our god, yhwh is one.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,23 +14,9 @@ layers:
 - motif
 motifs:
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Zech 14:9
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 112:1
-  note: 'Hear O Israel: YHWH our God, YHWH is one (qul huwa allahu ahad)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ هُوَ ٱللَّهُ أَحَدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. huwa llāhu aḥad ~ bayyôm ha-hûʾ yihyeh YHWH ʾeḥād û-šemô ʾeḥād.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
     5.4.'
@@ -70,6 +56,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hear O Israel: YHWH our God, YHWH is one'
+kinds:
+- echo
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: huwa llāhu aḥad ~ bayyôm ha-hûʾ yihyeh YHWH ʾeḥād û-šemô ʾeḥād.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:9
+      lang: he
+      text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
+        אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 112:1
+      lang: ar
+      text: قُلْ هُوَ ٱللَّهُ أَحَدٌ
 ---
 
 ## Questions

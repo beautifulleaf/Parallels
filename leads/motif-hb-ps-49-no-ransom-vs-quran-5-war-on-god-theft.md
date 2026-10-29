@@ -2,8 +2,7 @@
 id: motif-hb-ps-49-no-ransom-vs-quran-5-war-on-god-theft
 title: Psalm 49 - no man can ransom his brother ↔ Penalty for waging war on God; the ransom of the earth;
   the thief's hand
-summary: 'These two units share 1 motifs: no man can ransom his brother or give god a ransom (kofer) for
-  him; the redemption of life is too costly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - no-ransom-for-a-brother
-passages:
-- tradition: judaism
-  ref: Ps 49:8-10
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
-    נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
-- tradition: judaism
-  ref: Ps 49:8
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 5:36
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لِيَفْتَدُوا۟
-    بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَٰمَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. The cognate root f-d-y / p-d-h. Q: law anna lahum mā fī l-arḍi jamīʿan wa-mithlahu maʿahu
-    li-yaftadū bihi min ʿadhābi yawmi l-qiyāmati mā tuqubbila minhum. Ps: ʾāḥ lōʾ-fādōh yifdeh ʾîš lōʾ-yittēn
-    lē-ʾlōhîm kofrô wə-yēqar pidyôn nafšām. In Ps the ransom cannot be paid for death; in Q not for the
-    punishment of the day of resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No man can ransom his brother or give God a ransom (kofer) for him;
     the redemption of life is too costly (weight 5.3). Pair score 5.3.'
@@ -77,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+  too costly
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-5-war-on-god-theft
+  title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+  tradition: islam
+matches:
+- kind: parallel
+  label: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+    too costly
+  note: 'The cognate root f-d-y / p-d-h. Q: law anna lahum mā fī l-arḍi jamīʿan wa-mithlahu maʿahu li-yaftadū
+    bihi min ʿadhābi yawmi l-qiyāmati mā tuqubbila minhum. Ps: ʾāḥ lōʾ-fādōh yifdeh ʾîš lōʾ-yittēn lē-ʾlōhîm
+    kofrô wə-yēqar pidyôn nafšām. In Ps the ransom cannot be paid for death; in Q not for the punishment
+    of the day of resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:36
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ
+        لِيَفْتَدُوا۟ بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَٰمَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-7-closing-recitation
 title: Psalm 148, praise from heaven and earth ↔ Forbearance, refuge from Satan, and the prostration of
   the near ones
-summary: 'These two units share 1 motifs: those near god do not disdain to worship him; they glorify him
-  and prostrate.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - angels-near-god-prostrate
-passages:
-- tradition: judaism
-  ref: Ps 148:2
-  note: 'Those near God do not disdain to worship him; they glorify him and prostrate (The angels praise
-    God: yusabbiḥūnahu vs halᵉlûhû kol-malʾākāyw halᵉlûhû kol-ṣᵉbāʾāyw. Ps calls them to praise; Q states
-    that they do it unfailingly (lā yastakbirūna ʿan ʿibādatihi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽלְל֥וּהוּ כָל מַלְאָכָ֑יו הַֽ֝לְל֗וּהוּ כָּל צבאו צְבָאָֽיו
-- tradition: islam
-  ref: Quran 7:206
-  note: Those near God do not disdain to worship him; they glorify him and prostrate
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ
-    يَسْجُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The angels praise God: yusabbiḥūnahu vs halᵉlûhû kol-malʾākāyw halᵉlûhû kol-ṣᵉbāʾāyw. Ps
-    calls them to praise; Q states that they do it unfailingly (lā yastakbirūna ʿan ʿibādatihi).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those near God do not disdain to worship him; they glorify him and
     prostrate (weight 6.7). Pair score 6.7.'
@@ -67,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those near God do not disdain to worship him; they glorify him and prostrate
+kinds:
+- parallel
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those near God do not disdain to worship him; they glorify him and prostrate
+  note: 'The angels praise God: yusabbiḥūnahu vs halᵉlûhû kol-malʾākāyw halᵉlûhû kol-ṣᵉbāʾāyw. Ps calls
+    them to praise; Q states that they do it unfailingly (lā yastakbirūna ʿan ʿibādatihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:2
+      lang: he
+      text: הַֽלְל֥וּהוּ כָל מַלְאָכָ֑יו הַֽ֝לְל֗וּהוּ כָּל צבאו צְבָאָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 7:206
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ
+        يَسْجُدُونَ
 ---
 
 ## Questions

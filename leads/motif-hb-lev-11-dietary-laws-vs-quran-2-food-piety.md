@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-11-dietary-laws-vs-quran-2-food-piety
 title: Clean and unclean animals; carcass impurity ↔ Lawful food and true piety
-summary: 'These two units share 1 motifs: the pig is unclean and forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - pork-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 11:7
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה לֹֽא
-    יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
-- tradition: judaism
-  ref: Lev 11:8
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִבְּשָׂרָם֙ לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֣א תִגָּ֑עוּ טְמֵאִ֥ים הֵ֖ם לָכֶֽם
-- tradition: islam
-  ref: Quran 2:173
-  note: The pig is unclean and forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Lev 11:7 wĕ-ʾet ha-ḥăzîr ... ṭāmēʾ hûʾ lākem; Q 2:173 laḥma l-khinzīr.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The pig is unclean and forbidden (weight 5.3). Pair score 5.3.'
   basis: reading
@@ -69,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The pig is unclean and forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: parallel
+  label: The pig is unclean and forbidden
+  note: Lev 11:7 wĕ-ʾet ha-ḥăzîr ... ṭāmēʾ hûʾ lākem; Q 2:173 laḥma l-khinzīr.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:7
+      lang: he
+      text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֜ה ה֗וּא וְשֹׁסַ֥ע שֶׁ֨סַע֙ פַּרְסָ֔ה וְה֖וּא גֵּרָ֣ה
+        לֹֽא יִגָּ֑ר טָמֵ֥א ה֖וּא לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

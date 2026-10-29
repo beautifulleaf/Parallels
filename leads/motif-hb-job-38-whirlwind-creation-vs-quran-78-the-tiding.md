@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-78-the-tiding
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   great tiding: signs of creation and the day of sorting'
-summary: 'These two units share 1 motifs: god set the mountains as pegs or firm anchors (awtad, rawasi)
-  for the earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - mountains-as-pegs
-passages:
-- tradition: judaism
-  ref: Job 38:4
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
-- tradition: judaism
-  ref: Job 38:6
-  note: 'God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth (a-lam najʿali l-arḍa
-    kifātan ... wa-jaʿalnā fīhā rawāsiya shāmikhātin ~ ʾêfōh hāyîtā be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā
-    hoṭbāʿû: rhetorical questions on how God fixed the earth; footings sunk in Job, towering anchors (mountains)
-    in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
-- tradition: islam
-  ref: Quran 78:7
-  note: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْجِبَالَ أَوْتَادًا
-- tradition: islam
-  ref: Quran 78:6
-  note: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-lam najʿali l-arḍa mihādan wa-l-jibāla awtādan ~ be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû:
-    rhetorical questions on the founding of the earth; tent-pegs (awtād) vs. sunk footings (ʾădānîm).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set the mountains as pegs or firm anchors (awtad, rawasi) for
     the earth (weight 5.3). Pair score 5.3.'
@@ -86,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-78-the-tiding
+  title: 'The great tiding: signs of creation and the day of sorting'
+  tradition: islam
+matches:
+- kind: echo
+  label: God set the mountains as pegs or firm anchors (awtad, rawasi) for the earth
+  note: 'a-lam najʿali l-arḍa mihādan wa-l-jibāla awtādan ~ be-yosdî ʾāreṣ ... ʿal māh ʾădānêhā hoṭbāʿû:
+    rhetorical questions on the founding of the earth; tent-pegs (awtād) vs. sunk footings (ʾădānîm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:4
+      lang: he
+      text: אֵיפֹ֣ה הָ֭יִיתָ בְּיָסְדִי אָ֑רֶץ הַ֝גֵּ֗ד אִם יָדַ֥עְתָּ בִינָֽה
+    - ref: Job 38:6
+      lang: he
+      text: עַל מָ֭ה אֲדָנֶ֣יהָ הָטְבָּ֑עוּ א֥וֹ מִֽי יָ֝רָ֗ה אֶ֣בֶן פִּנָּתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 78:6
+      lang: ar
+      text: أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا
+    - ref: Quran 78:7
+      lang: ar
+      text: وَٱلْجِبَالَ أَوْتَادًا
 ---
 
 ## Questions

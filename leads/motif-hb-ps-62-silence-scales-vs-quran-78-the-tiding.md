@@ -2,7 +2,7 @@
 id: motif-hb-ps-62-silence-scales-vs-quran-78-the-tiding
 title: 'Psalm 62, for God alone my soul waits in silence ↔ The great tiding: signs of creation and the
   day of sorting'
-summary: 'These two units share 1 motifs: god repays each person according to his deeds.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - god-repays-according-to-deeds
-passages:
-- tradition: judaism
-  ref: Ps 62:13
-  note: God repays each person according to his deeds
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְךָֽ אֲדֹנָ֥י חָ֑סֶד כִּֽי אַתָּ֨ה תְשַׁלֵּ֖ם לְאִ֣ישׁ כְּֽמַעֲשֵֽׂהוּ
-- tradition: islam
-  ref: Quran 78:26
-  note: God repays each person according to his deeds (jaza'an wifaqa, a fitting recompense)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَزَآءً وِفَاقًا
-- tradition: islam
-  ref: Quran 78:36
-  note: God repays each person according to his deeds (jaza'an wifaqa, a fitting recompense)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. jazāʾan wifāqan; yawma yanẓuru l-marʾu mā qaddamat yadāhu ~ kî ʾattāh tešallēm le-ʾîš ke-maʿăśēhû.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God repays each person according to his deeds (weight 6.0). Pair
     score 6.0.'
@@ -66,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God repays each person according to his deeds
+kinds:
+- parallel
+units:
+- id: hb-ps-62-silence-scales
+  title: Psalm 62, for God alone my soul waits in silence
+  tradition: judaism
+- id: quran-78-the-tiding
+  title: 'The great tiding: signs of creation and the day of sorting'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God repays each person according to his deeds
+  note: jazāʾan wifāqan; yawma yanẓuru l-marʾu mā qaddamat yadāhu ~ kî ʾattāh tešallēm le-ʾîš ke-maʿăśēhû.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 62:13
+      lang: he
+      text: וּלְךָֽ אֲדֹנָ֥י חָ֑סֶד כִּֽי אַתָּ֨ה תְשַׁלֵּ֖ם לְאִ֣ישׁ כְּֽמַעֲשֵֽׂהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 78:26
+      lang: ar
+      text: جَزَآءً وِفَاقًا
+    - ref: Quran 78:40
+      lang: ar
+      text: إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ
+        ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-16-sisters-sodom-samaria-vs-quran-29-lot
 title: Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant ↔ Lot and the
   destruction of his town
-summary: 'These two units share 2 motifs: the sin of sodom was pride, surfeit of bread and careless ease,
-  not strengthening the hand of the poor and needy, the men of sodom are exceedingly wicked.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,68 +15,9 @@ layers:
 motifs:
 - sin-of-sodom-pride-plenty-neglect-of-poor
 - wicked-sodom
-passages:
-- tradition: judaism
-  ref: Ezek 16:49
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה זֶ֣ה הָיָ֔ה עֲוֺ֖ן סְדֹ֣ם אֲחוֹתֵ֑ךְ גָּא֨וֹן שִׂבְעַת לֶ֜חֶם וְשַׁלְוַ֣ת הַשְׁקֵ֗ט הָ֤יָה
-    לָהּ֙ וְלִבְנוֹתֶ֔יהָ וְיַד עָנִ֥י וְאֶבְי֖וֹן לֹ֥א הֶחֱזִֽיקָה
-- tradition: judaism
-  ref: Ezek 16:50
-  note: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽתִּגְבְּהֶ֔ינָה וַתַּעֲשֶׂ֥ינָה תוֹעֵבָ֖ה לְפָנָ֑י וָאָסִ֥יר אֶתְהֶ֖ן כַּאֲשֶׁ֥ר רָאִֽיתִי
-- tradition: islam
-  ref: Quran 29:29
-  note: 'The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
-    the poor and needy (wa-taqṭaʿūna s-sabīla wa-taʾtūna fī nādīkumu l-munkara ~ hinnēh zeh hāyâ ʿăwōn
-    Sədōm ... gāʾôn śivʿat leḥem wə-šalwat hašqēṭ ... wə-yad ʿānî wə-ʾevyôn lōʾ heḥĕzîqâ: Sodom''s sin
-    extended beyond Gen 19 to social crimes, robbery of travelers in the Quran and neglect of the poor
-    in Ezekiel. cf. b. Sanh. 109a-b, outside the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
-    فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
-- tradition: judaism
-  ref: Ezek 16:48
-  note: The men of Sodom are exceedingly wicked
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם עָֽשְׂתָה֙ סְדֹ֣ם אֲחוֹתֵ֔ךְ הִ֖יא וּבְנוֹתֶ֑יהָ כַּאֲשֶׁ֣ר
-    עָשִׂ֔ית אַ֖תְּ וּבְנוֹתָֽיִךְ
-- tradition: judaism
-  ref: Ezek 16:56
-  note: The men of Sodom are exceedingly wicked
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְל֤וֹא הָֽיְתָה֙ סְדֹ֣ם אֲחוֹתֵ֔ךְ לִשְׁמוּעָ֖ה בְּפִ֑יךְ בְּי֖וֹם גְּאוֹנָֽיִךְ
-- tradition: islam
-  ref: Quran 29:28
-  note: The men of Sodom are exceedingly wicked ('an abomination no one in the worlds committed before
-    you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ
-    مِّنَ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 29:29
-  note: The men of Sodom are exceedingly wicked ('an abomination no one in the worlds committed before
-    you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
-    فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-taqṭaʿūna s-sabīla wa-taʾtūna fī nādīkumu l-munkara ~ hinnēh zeh hāyâ ʿăwōn Sədōm ... gāʾôn
-    śivʿat leḥem wə-šalwat hašqēṭ ... wə-yad ʿānî wə-ʾevyôn lōʾ heḥĕzîqâ: Sodom''s sin extended beyond
-    Gen 19 to social crimes, robbery of travelers in the Quran and neglect of the poor in Ezekiel. cf.
-    b. Sanh. 109a-b, outside the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sin of Sodom was pride, surfeit of bread and careless ease,
     not strengthening the hand of the poor and needy (weight 6.3); The men of Sodom are exceedingly wicked
@@ -109,6 +49,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
+  the poor and needy
+kinds:
+- echo
+- shared
+units:
+- id: hb-ezek-16-sisters-sodom-samaria
+  title: Like mother like daughter; Sodom and Samaria her sisters; the everlasting covenant
+  tradition: judaism
+- id: quran-29-lot
+  title: Lot and the destruction of his town
+  tradition: islam
+matches:
+- kind: echo
+  label: The sin of Sodom was pride, surfeit of bread and careless ease, not strengthening the hand of
+    the poor and needy
+  note: 'wa-taqṭaʿūna s-sabīla wa-taʾtūna fī nādīkumu l-munkara ~ hinnēh zeh hāyâ ʿăwōn Sədōm ... gāʾôn
+    śivʿat leḥem wə-šalwat hašqēṭ ... wə-yad ʿānî wə-ʾevyôn lōʾ heḥĕzîqâ: Sodom''s sin extended beyond
+    Gen 19 to social crimes, robbery of travelers in the Quran and neglect of the poor in Ezekiel. cf.
+    b. Sanh. 109a-b, outside the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 16:49
+      lang: he
+      text: הִנֵּה זֶ֣ה הָיָ֔ה עֲוֺ֖ן סְדֹ֣ם אֲחוֹתֵ֑ךְ גָּא֨וֹן שִׂבְעַת לֶ֜חֶם וְשַׁלְוַ֣ת הַשְׁקֵ֗ט
+        הָ֤יָה לָהּ֙ וְלִבְנוֹתֶ֔יהָ וְיַד עָנִ֥י וְאֶבְי֖וֹן לֹ֥א הֶחֱזִֽיקָה
+  - tradition: islam
+    passages:
+    - ref: Quran 29:29
+      lang: ar
+      text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
+        فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ
+        ٱلصَّٰدِقِينَ
+- kind: shared
+  label: The men of Sodom are exceedingly wicked
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 16:48
+      lang: he
+      text: חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם עָֽשְׂתָה֙ סְדֹ֣ם אֲחוֹתֵ֔ךְ הִ֖יא וּבְנוֹתֶ֑יהָ כַּאֲשֶׁ֣ר
+        עָשִׂ֔ית אַ֖תְּ וּבְנוֹתָֽיִךְ
+    - ref: Ezek 16:56
+      lang: he
+      text: וְל֤וֹא הָֽיְתָה֙ סְדֹ֣ם אֲחוֹתֵ֔ךְ לִשְׁמוּעָ֖ה בְּפִ֑יךְ בְּי֖וֹם גְּאוֹנָֽיִךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:28
+      lang: ar
+      text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ
+        أَحَدٍ مِّنَ ٱلْعَٰلَمِينَ
+    - ref: Quran 29:29
+      lang: ar
+      text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
+        فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ
+        ٱلصَّٰدِقِينَ
+    note: '''an abomination no one in the worlds committed before you'''
 ---
 
 ## Questions

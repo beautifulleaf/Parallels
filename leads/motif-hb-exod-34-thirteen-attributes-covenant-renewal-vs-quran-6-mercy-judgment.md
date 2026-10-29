@@ -2,7 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-6-mercy-judgment
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ Mercy written on himself; the idolaters'
   denial at the gathering
-summary: 'These two units share 1 motifs: god has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - god-wrote-mercy-on-himself
-passages:
-- tradition: judaism
-  ref: Exod 34:6
-  note: 'God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma) (God declares his own mercy
-    about himself. Q: kataba ʿalā nafsihi l-raḥmata, mercy prescribed by God for himself. Exod: wa-yyiqrāʾ
-    YHWH YHWH ʾēl raḥûm wə-ḥannûn, God proclaiming his merciful name. Both use the root r-ḥ-m (raḥma /
-    raḥûm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲבֹ֨ר יְהוָ֥ה עַל פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ אַפַּ֖יִם
-    וְרַב חֶ֥סֶד וֶאֱמֶֽת
-- tradition: islam
-  ref: Quran 6:12
-  note: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُل لِّلَّهِ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ
-    لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ فَهُمْ
-    لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. God declares his own mercy about himself. Q: kataba ʿalā nafsihi l-raḥmata, mercy prescribed
-    by God for himself. Exod: wa-yyiqrāʾ YHWH YHWH ʾēl raḥûm wə-ḥannûn, God proclaiming his merciful name.
-    Both use the root r-ḥ-m (raḥma / raḥûm).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
     (weight 6.3). Pair score 6.3.'
@@ -74,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
+kinds:
+- echo
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-6-mercy-judgment
+  title: Mercy written on himself; the idolaters' denial at the gathering
+  tradition: islam
+matches:
+- kind: echo
+  label: God has prescribed mercy for himself (kataba ʿalā nafsihi l-raḥma)
+  note: 'God declares his own mercy about himself. Q: kataba ʿalā nafsihi l-raḥmata, mercy prescribed
+    by God for himself. Exod: wa-yyiqrāʾ YHWH YHWH ʾēl raḥûm wə-ḥannûn, God proclaiming his merciful name.
+    Both use the root r-ḥ-m (raḥma / raḥûm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:6
+      lang: he
+      text: וַיַּעֲבֹ֨ר יְהוָ֥ה עַל פָּנָיו֮ וַיִּקְרָא֒ יְהוָ֣ה יְהוָ֔ה אֵ֥ל רַח֖וּם וְחַנּ֑וּן אֶ֥רֶךְ
+        אַפַּ֖יִם וְרַב חֶ֥סֶד וֶאֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 6:12
+      lang: ar
+      text: قُل لِّمَن مَّا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ قُل لِّلَّهِ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ
+        لَيَجْمَعَنَّكُمْ إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ لَا رَيْبَ فِيهِ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُمْ
+        فَهُمْ لَا يُؤْمِنُونَ
 ---
 
 ## Questions

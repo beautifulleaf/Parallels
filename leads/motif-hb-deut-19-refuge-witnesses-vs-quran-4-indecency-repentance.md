@@ -2,8 +2,7 @@
 id: motif-hb-deut-19-refuge-witnesses-vs-quran-4-indecency-repentance
 title: Cities of refuge, boundary stones, false witnesses ↔ Indecency, four witnesses, and the limits
   of repentance
-summary: 'These two units share 2 motifs: how many witnesses are required [divergence between the texts],
-  no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,56 +15,9 @@ layers:
 motifs:
 - number-of-witnesses-as-divergence
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Deut 19:15
-  note: 'How many witnesses are required [divergence between the texts] (Deut 19:15 lōʾ yāqûm ʿēd ʾeḥād
-    bĕ-ʾîš ... ʿal pî šĕnê ʿēdîm ʾô ʿal pî šĕlōšâ ʿēdîm yāqûm dābār: two or three witnesses, sex not specified,
-    for any charge; Q 2:282 wa-stashhidū shahīdayni min rijālikum fa-in lam yakūnā rajulayni fa-rajulun
-    wa-mraʾatāni ... an taḍilla iḥdāhumā fa-tudhakkira iḥdāhumā l-ukhrā: two men, or one man and two women
-    so that one can remind the other. The two-witness rule kept, applied to contracts, with women admitted
-    at two for one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
-    עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
-- tradition: islam
-  ref: Quran 4:15
-  note: 'How many witnesses are required [divergence between the texts] (Deut 17:6 ʿal pî šĕnayim ʿēdîm
-    ʾô šĕlōšâ ʿēdîm yûmat ha-mmēt: two or three witnesses for a capital case; Q 4:15 fa-stashhidū ʿalayhinna
-    arbaʿatan minkum: four witnesses required for a charge of indecency (fāḥisha). The number is raised
-    for sexual offences.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
-- tradition: judaism
-  ref: Deut 19:15
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
-    עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
-- tradition: judaism
-  ref: Deut 19:18
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
-- tradition: islam
-  ref: Quran 4:15
-  note: No one put to death on the testimony of a single witness (Quran raises the number to four for
-    fāḥisha)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 19:15 ʿal pî šĕnê ʿēdîm ʾô ʿal pî šĕlōšâ ʿēdîm yāqûm dābār: two or three for any
-    charge; Q 4:15 arbaʿatan minkum: four for fāḥisha.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many witnesses are required [divergence between the texts] (weight
     6.0); No one put to death on the testimony of a single witness (weight 5.4). Pair score 11.4.'
@@ -96,6 +48,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How many witnesses are required
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-19-refuge-witnesses
+  title: Cities of refuge, boundary stones, false witnesses
+  tradition: judaism
+- id: quran-4-indecency-repentance
+  title: Indecency, four witnesses, and the limits of repentance
+  tradition: islam
+matches:
+- kind: divergence
+  label: How many witnesses are required
+  note: 'Deut 19:15 ʿal pî šĕnê ʿēdîm ʾô ʿal pî šĕlōšâ ʿēdîm yāqûm dābār: two or three for any charge;
+    Q 4:15 arbaʿatan minkum: four for fāḥisha.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:15
+      lang: he
+      text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
+        עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+- kind: shared
+  label: No one put to death on the testimony of a single witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 19:15
+      lang: he
+      text: לֹֽא יָקוּם֩ עֵ֨ד אֶחָ֜ד בְּאִ֗ישׁ לְכָל עָוֺן֙ וּלְכָל חַטָּ֔את בְּכָל חֵ֖טְא אֲשֶׁ֣ר יֶֽחֱטָ֑א
+        עַל פִּ֣י שְׁנֵ֣י עֵדִ֗ים א֛וֹ עַל פִּ֥י שְׁלֹשָֽׁה עֵדִ֖ים יָק֥וּם דָּבָֽר
+    - ref: Deut 19:18
+      lang: he
+      text: וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד שֶׁ֨קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+    note: Quran raises the number to four for fāḥisha
 ---
 
 ## Questions

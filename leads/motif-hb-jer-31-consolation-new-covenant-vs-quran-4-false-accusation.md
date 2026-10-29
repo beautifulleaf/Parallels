@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-4-false-accusation
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Guilt cast on the innocent and the Prophet who must not defend traitors
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 31:30
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
-- tradition: judaism
-  ref: Jer 31:29
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
-- tradition: islam
-  ref: Quran 4:111
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-man yaksib ithman fa-innamā yaksibuhu ʿalā nafsihi. Jer: kî ʾim-ʾîš baʿăwōnô yāmût,
-    replacing the proverb ʾāvôt ʾākhlû vōser.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -68,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- parallel
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-4-false-accusation
+  title: Guilt cast on the innocent and the Prophet who must not defend traitors
+  tradition: islam
+matches:
+- kind: parallel
+  label: Each person dies for his own sin
+  note: 'Q: wa-man yaksib ithman fa-innamā yaksibuhu ʿalā nafsihi. Jer: kî ʾim-ʾîš baʿăwōnô yāmût, replacing
+    the proverb ʾāvôt ʾākhlû vōser.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:29
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
+    - ref: Jer 31:30
+      lang: he
+      text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 4:111
+      lang: ar
+      text: وَمَن يَكْسِبْ إِثْمًا فَإِنَّمَا يَكْسِبُهُۥ عَلَىٰ نَفْسِهِۦ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

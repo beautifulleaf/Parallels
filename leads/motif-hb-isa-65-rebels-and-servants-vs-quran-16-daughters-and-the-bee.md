@@ -2,8 +2,7 @@
 id: motif-hb-isa-65-rebels-and-servants-vs-quran-16-daughters-and-the-bee
 title: Found by those who did not seek; rebels and servants ↔ Not two gods; daughters ascribed to God
   and buried alive; milk, wine and the bee (Surah 16:51-70)
-summary: 'These two units share 1 motifs: idolaters assign to unknown gods a share of what god provided
-  them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - share-of-provision-for-idols
-passages:
-- tradition: judaism
-  ref: Isa 65:11
-  note: 'Idolaters assign to unknown gods a share of what God provided them (wa-yajʿalūna li-mā lā yaʿlamūna
-    naṣīban mimmā razaqnāhum; hāʿōrkîm laggad šulḥān wəhaməmalʾîm laməni mimsāk: food and drink from God''s
-    provision set out for other powers (Gad ''Fortune'' and Meni ''Allotment''; Q''s naṣīb, ''portion'',
-    recalls Meni). Isa answers with a pun, ûmānîtî ʾetkem laḥereb (65:12).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתֶּם֙ עֹזְבֵ֣י יְהוָ֔ה הַשְּׁכֵחִ֖ים אֶת הַ֣ר קָדְשִׁ֑י הַֽעֹרְכִ֤ים לַגַּד֙ שֻׁלְחָ֔ן וְהַֽמְמַלְאִ֖ים
-    לַמְנִ֥י מִמְסָֽךְ
-- tradition: islam
-  ref: Quran 16:56
-  note: Idolaters assign to unknown gods a share of what God provided them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ عَمَّا
-    كُنتُمْ تَفْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-yajʿalūna li-mā lā yaʿlamūna naṣīban mimmā razaqnāhum; hāʿōrkîm laggad šulḥān wəhaməmalʾîm
-    laməni mimsāk: food and drink from God''s provision set out for other powers (Gad ''Fortune'' and
-    Meni ''Allotment''; Q''s naṣīb, ''portion'', recalls Meni). Isa answers with a pun, ûmānîtî ʾetkem
-    laḥereb (65:12).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idolaters assign to unknown gods a share of what God provided them
     (weight 6.7). Pair score 6.7.'
@@ -77,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idolaters assign to unknown gods a share of what God provided them
+kinds:
+- parallel
+units:
+- id: hb-isa-65-rebels-and-servants
+  title: Found by those who did not seek; rebels and servants
+  tradition: judaism
+- id: quran-16-daughters-and-the-bee
+  title: Not two gods; daughters ascribed to God and buried alive; milk, wine and the bee (Surah 16:51-70)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idolaters assign to unknown gods a share of what God provided them
+  note: 'wa-yajʿalūna li-mā lā yaʿlamūna naṣīban mimmā razaqnāhum; hāʿōrkîm laggad šulḥān wəhaməmalʾîm
+    laməni mimsāk: food and drink from God''s provision set out for other powers (Gad ''Fortune'' and
+    Meni ''Allotment''; Q''s naṣīb, ''portion'', recalls Meni). Isa answers with a pun, ûmānîtî ʾetkem
+    laḥereb (65:12).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:11
+      lang: he
+      text: וְאַתֶּם֙ עֹזְבֵ֣י יְהוָ֔ה הַשְּׁכֵחִ֖ים אֶת הַ֣ר קָדְשִׁ֑י הַֽעֹרְכִ֤ים לַגַּד֙ שֻׁלְחָ֔ן
+        וְהַֽמְמַלְאִ֖ים לַמְנִ֥י מִמְסָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:56
+      lang: ar
+      text: وَيَجْعَلُونَ لِمَا لَا يَعْلَمُونَ نَصِيبًا مِّمَّا رَزَقْنَٰهُمْ تَٱللَّهِ لَتُسْـَٔلُنَّ
+        عَمَّا كُنتُمْ تَفْتَرُونَ
 ---
 
 ## Questions

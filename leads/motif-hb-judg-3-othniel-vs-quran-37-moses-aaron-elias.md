@@ -1,7 +1,7 @@
 ---
 id: motif-hb-judg-3-othniel-vs-quran-37-moses-aaron-elias
 title: Nations left to teach war; Othniel defeats Cushan-rishathaim ↔ Moses and Aaron; Elias against Ba'l
-summary: 'These two units share 1 motifs: israel serves the baals and the ashtaroth/asherahs.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,30 +13,9 @@ layers:
 - motif
 motifs:
 - baal-and-ashtaroth-worship
-passages:
-- tradition: judaism
-  ref: Judg 3:7
-  note: Israel serves the Baals and the Ashtaroth/Asherahs (Baals and Asherahs)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲשׂ֨וּ בְנֵי יִשְׂרָאֵ֤ל אֶת הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה וַֽיִּשְׁכְּח֖וּ אֶת יְהוָ֣ה אֱלֹֽהֵיהֶ֑ם
-    וַיַּעַבְד֥וּ אֶת הַבְּעָלִ֖ים וְאֶת הָאֲשֵׁרֽוֹת
-- tradition: islam
-  ref: Quran 37:125
-  note: Israel serves the Baals and the Ashtaroth/Asherahs (Ba'l named as a god)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
-- tradition: islam
-  ref: Quran 37:126
-  note: Israel serves the Baals and the Ashtaroth/Asherahs (Ba'l named as a god)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهَ رَبَّكُمْ وَرَبَّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyiškəḥû ʾeṯ-YHWH ʾĕlōhêhem wa-yyaʿaḇḏû ʾeṯ-ha-bbəʿālîm wə-ʾeṯ-hā-ʾăšērôṯ vs. a-tadʿūna baʿlan
-    wa-tadharūna aḥsana l-khāliqīn.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel serves the Baals and the Ashtaroth/Asherahs (weight 5.4).
     Pair score 5.4.'
@@ -64,6 +43,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel serves the Baals and the Ashtaroth/Asherahs
+kinds:
+- echo
+units:
+- id: hb-judg-3-othniel
+  title: Nations left to teach war; Othniel defeats Cushan-rishathaim
+  tradition: judaism
+- id: quran-37-moses-aaron-elias
+  title: Moses and Aaron; Elias against Ba'l
+  tradition: islam
+matches:
+- kind: echo
+  label: Israel serves the Baals and the Ashtaroth/Asherahs
+  note: wa-yyiškəḥû ʾeṯ-YHWH ʾĕlōhêhem wa-yyaʿaḇḏû ʾeṯ-ha-bbəʿālîm wə-ʾeṯ-hā-ʾăšērôṯ vs. a-tadʿūna baʿlan
+    wa-tadharūna aḥsana l-khāliqīn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 3:7
+      lang: he
+      text: וַיַּעֲשׂ֨וּ בְנֵי יִשְׂרָאֵ֤ל אֶת הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה וַֽיִּשְׁכְּח֖וּ אֶת יְהוָ֣ה
+        אֱלֹֽהֵיהֶ֑ם וַיַּעַבְד֥וּ אֶת הַבְּעָלִ֖ים וְאֶת הָאֲשֵׁרֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 37:125
+      lang: ar
+      text: أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ ٱلْخَٰلِقِينَ
 ---
 
 ## Questions

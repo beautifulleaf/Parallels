@@ -2,7 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-21-against-other-gods
 title: Job - cosmic power of God and the impossible lawsuit ↔ Creation not in jest; the unceasing angels
   and the argument from one God
-summary: 'These two units share 1 motifs: god is not questioned about what he does, but they are questioned.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - god-not-questioned
-passages:
-- tradition: judaism
-  ref: Job 9:12
-  note: 'God is not questioned about what he does, but they are questioned (mî-yōʾmar ʾēlāyw mah-ttaʿăśeh;
-    lā yusʾalu ʿammā yafʿalu wa-hum yusʾalūn: no one can ask God ''what are you doing?''. Job says it
-    as a complaint against an unanswerable power; Q as praise, adding that creatures will be questioned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֣ן יַ֭חְתֹּף מִ֣י יְשִׁיבֶ֑נּוּ מִֽי יֹאמַ֥ר אֵ֝לָ֗יו מַֽה תַּעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 21:23
-  note: God is not questioned about what he does, but they are questioned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mî-yōʾmar ʾēlāyw mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿalu wa-hum yusʾalūn: no one can ask
-    God ''what are you doing?''. Job says it as a complaint against an unanswerable power; Q as praise,
-    adding that creatures will be questioned.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is not questioned about what he does, but they are questioned
     (weight 6.3). Pair score 6.3.'
@@ -66,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is not questioned about what he does, but they are questioned
+kinds:
+- parallel
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-21-against-other-gods
+  title: Creation not in jest; the unceasing angels and the argument from one God
+  tradition: islam
+matches:
+- kind: parallel
+  label: God is not questioned about what he does, but they are questioned
+  note: 'mî-yōʾmar ʾēlāyw mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿalu wa-hum yusʾalūn: no one can ask God ''what
+    are you doing?''. Job says it as a complaint against an unanswerable power; Q as praise, adding that
+    creatures will be questioned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:12
+      lang: he
+      text: הֵ֣ן יַ֭חְתֹּף מִ֣י יְשִׁיבֶ֑נּוּ מִֽי יֹאמַ֥ר אֵ֝לָ֗יו מַֽה תַּעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:23
+      lang: ar
+      text: لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
 ---
 
 ## Questions

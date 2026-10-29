@@ -2,8 +2,7 @@
 id: motif-hb-ps-103-bless-my-soul-vs-quran-76-the-human
 title: 'Psalm 103, bless YHWH, O my soul; youth renewed like the eagle ↔ The human: the mingled drop and
   the camphor cup'
-summary: 'These two units share 1 motifs: there was a stretch of time when the human was not yet a thing
-  worth mentioning.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - human-once-nothing-worth-mentioning
-passages:
-- tradition: judaism
-  ref: Ps 103:14
-  note: 'There was a stretch of time when the human was not yet a thing worth mentioning (hal atā ʿalā
-    l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr kî ʿāfār ʾănāḥnû
-    ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran, after death in
-    the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי ה֖וּא יָדַ֣ע יִצְרֵ֑נוּ זָ֝כ֗וּר כִּי עָפָ֥ר אֲנָֽחְנוּ
-- tradition: judaism
-  ref: Ps 103:16
-  note: 'There was a stretch of time when the human was not yet a thing worth mentioning (hal atā ʿalā
-    l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr kî ʿāfār ʾănāḥnû
-    ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran, after death in
-    the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
-- tradition: islam
-  ref: Quran 76:1
-  note: There was a stretch of time when the human was not yet a thing worth mentioning
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَلْ أَتَىٰ عَلَى ٱلْإِنسَٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. hal atā ʿalā l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû
-    zākûr kî ʿāfār ʾănāḥnû ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the
-    Quran, after death in the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There was a stretch of time when the human was not yet a thing worth
     mentioning (weight 6.7). Pair score 6.7.'
@@ -79,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: There was a stretch of time when the human was not yet a thing worth mentioning
+kinds:
+- echo
+units:
+- id: hb-ps-103-bless-my-soul
+  title: Psalm 103, bless YHWH, O my soul; youth renewed like the eagle
+  tradition: judaism
+- id: quran-76-the-human
+  title: 'The human: the mingled drop and the camphor cup'
+  tradition: islam
+matches:
+- kind: echo
+  label: There was a stretch of time when the human was not yet a thing worth mentioning
+  note: 'hal atā ʿalā l-insāni ḥīnun mina d-dahri lam yakun shayʾan madhkūran ~ kî hûʾ yādaʿ yiṣrēnû zākûr
+    kî ʿāfār ʾănāḥnû ... we-lōʾ yakkîrennû ʿôd meqômô. Human nothingness: before existence in the Quran,
+    after death in the Psalm; both use the root of ''remembering'' (madhkūr / zākûr).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 103:14
+      lang: he
+      text: כִּי ה֖וּא יָדַ֣ע יִצְרֵ֑נוּ זָ֝כ֗וּר כִּי עָפָ֥ר אֲנָֽחְנוּ
+    - ref: Ps 103:16
+      lang: he
+      text: כִּ֤י ר֣וּחַ עָֽבְרָה בּ֣וֹ וְאֵינֶ֑נּוּ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקוֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 76:1
+      lang: ar
+      text: هَلْ أَتَىٰ عَلَى ٱلْإِنسَٰنِ حِينٌ مِّنَ ٱلدَّهْرِ لَمْ يَكُن شَيْـًٔا مَّذْكُورًا
 ---
 
 ## Questions

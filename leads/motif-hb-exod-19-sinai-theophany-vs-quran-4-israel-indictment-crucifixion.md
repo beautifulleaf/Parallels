@@ -2,8 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-4-israel-indictment-crucifixion
 title: Arrival at Sinai, covenant offer and theophany ↔ The indictment of Israel; the Messiah not crucified
   but raised
-summary: 'These two units share 1 motifs: god raises the mountain (al-tur) over israel while taking their
-  covenant [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - mountain-raised-over-israel-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 19:17
-  note: 'God raises the mountain (al-Tur) over Israel while taking their covenant [divergence between
-    the texts] (Exod: wa-yyityaṣṣəvû bə-taḥtît hā-hār, ''they stood at the foot (lit. underneath) of the
-    mountain''. Q: wa-rafaʿnā fawqahumu l-ṭūra bi-mīthāqihim. The mountain is lifted over them as the
-    covenant is taken. cf. (not a match) b. Shabbat 88a, which reads Exod 19:17 as God holding the mountain
-    over them like a vat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית
-    הָהָֽר
-- tradition: islam
-  ref: Quran 4:154
-  note: 'God raises the mountain (al-Tur) over Israel while taking their covenant [divergence between
-    the texts] (Exod: wa-yyityaṣṣəvû bə-taḥtît hā-hār, ''they stood at the foot (lit. underneath) of the
-    mountain''. Q: wa-rafaʿnā fawqahumu l-ṭūra bi-mīthāqihim. The mountain is lifted over them as the
-    covenant is taken. cf. (not a match) b. Shabbat 88a, which reads Exod 19:17 as God holding the mountain
-    over them like a vat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا وَقُلْنَا
-    لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Exod: wa-yyityaṣṣəvû bə-taḥtît hā-hār, ''they stood at the foot (lit. underneath) of the
-    mountain''. Q: wa-rafaʿnā fawqahumu l-ṭūra bi-mīthāqihim. The mountain is lifted over them as the
-    covenant is taken. cf. (not a match) b. Shabbat 88a, which reads Exod 19:17 as God holding the mountain
-    over them like a vat.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raises the mountain (al-Tur) over Israel while taking their
     covenant [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -76,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raises the mountain (al-Tur) over Israel while taking their covenant
+kinds:
+- divergence
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: divergence
+  label: God raises the mountain (al-Tur) over Israel while taking their covenant
+  note: 'Exod: wa-yyityaṣṣəvû bə-taḥtît hā-hār, ''they stood at the foot (lit. underneath) of the mountain''.
+    Q: wa-rafaʿnā fawqahumu l-ṭūra bi-mīthāqihim. The mountain is lifted over them as the covenant is
+    taken. cf. (not a match) b. Shabbat 88a, which reads Exod 19:17 as God holding the mountain over them
+    like a vat.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:17
+      lang: he
+      text: וַיּוֹצֵ֨א מֹשֶׁ֧ה אֶת הָעָ֛ם לִקְרַ֥את הָֽאֱלֹהִ֖ים מִן הַֽמַּחֲנֶ֑ה וַיִּֽתְיַצְּב֖וּ בְּתַחְתִּ֥ית
+        הָהָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 4:154
+      lang: ar
+      text: وَرَفَعْنَا فَوْقَهُمُ ٱلطُّورَ بِمِيثَٰقِهِمْ وَقُلْنَا لَهُمُ ٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا
+        وَقُلْنَا لَهُمْ لَا تَعْدُوا۟ فِى ٱلسَّبْتِ وَأَخَذْنَا مِنْهُم مِّيثَٰقًا غَلِيظًا
 ---
 
 ## Questions

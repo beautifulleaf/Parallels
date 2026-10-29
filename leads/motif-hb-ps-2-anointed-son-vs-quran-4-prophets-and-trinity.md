@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-4-prophets-and-trinity
 title: Psalm 2 - the nations rage; the king as God's son ↔ The chain of revelation; Jesus, word and spirit;
   'say not three'
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: judaism
-  ref: Ps 2:2
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
-- tradition: islam
-  ref: Quran 4:171
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
-    إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
-    وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا لَّكُمْ
-    إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ
-    وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2).
-    Q, of the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [contrast between the texts] (weight 5.4). Pair score 5.4.'
@@ -85,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: 'Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2).
+    Q, of the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
+    of his anointed; Q flatly denies that God has a son.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:171
+      lang: ar
+      text: يَٰٓأَهْلَ ٱلْكِتَٰبِ لَا تَغْلُوا۟ فِى دِينِكُمْ وَلَا تَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ
+        إِنَّمَا ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ رَسُولُ ٱللَّهِ وَكَلِمَتُهُۥٓ أَلْقَىٰهَآ إِلَىٰ مَرْيَمَ
+        وَرُوحٌ مِّنْهُ فَـَٔامِنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ وَلَا تَقُولُوا۟ ثَلَٰثَةٌ ٱنتَهُوا۟ خَيْرًا
+        لَّكُمْ إِنَّمَا ٱللَّهُ إِلَٰهٌ وَٰحِدٌ سُبْحَٰنَهُۥٓ أَن يَكُونَ لَهُۥ وَلَدٌ لَّهُۥ مَا فِى
+        ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَكَفَىٰ بِٱللَّهِ وَكِيلًا
 ---
 
 ## Questions

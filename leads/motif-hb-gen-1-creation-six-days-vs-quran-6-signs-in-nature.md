@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-6-signs-in-nature
 title: Creation in six days and the seventh-day rest ↔ Splitter of seed and dawn; stars for navigation;
   do not revile their gods
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 6:96
-  note: Sun and moon are set to rule day and night and mark signs and seasons (sun and moon for reckoning
-    (ḥusbān), cf. Gen 1:14)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ
-    ٱلْعَزِيزِ ٱلْعَلِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: fāliqu l-iṣbāḥi wa-jaʿala l-layla sakanan wa-l-shamsa wa-l-qamara ḥusbānan. Gen: yəhî
-    məʾōrōt ... wə-hāyû lə-ʾōtōt û-lə-môʿădîm û-lə-yāmîm wə-šānîm. Luminaries for reckoning time. Gen
-    leaves sun and moon unnamed; Q names them.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -78,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- parallel
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-6-signs-in-nature
+  title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'Q: fāliqu l-iṣbāḥi wa-jaʿala l-layla sakanan wa-l-shamsa wa-l-qamara ḥusbānan. Gen: yəhî məʾōrōt
+    ... wə-hāyû lə-ʾōtōt û-lə-môʿădîm û-lə-yāmîm wə-šānîm. Luminaries for reckoning time. Gen leaves sun
+    and moon unnamed; Q names them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 6:96
+      lang: ar
+      text: فَالِقُ ٱلْإِصْبَاحِ وَجَعَلَ ٱلَّيْلَ سَكَنًا وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا ذَٰلِكَ
+        تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

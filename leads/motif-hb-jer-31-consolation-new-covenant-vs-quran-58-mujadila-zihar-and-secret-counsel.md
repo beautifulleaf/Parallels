@@ -3,8 +3,7 @@ id: motif-hb-jer-31-consolation-new-covenant-vs-quran-58-mujadila-zihar-and-secr
 title: 'Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of three;
   the party of God'
-summary: 'These two units share 1 motifs: god will put his law within the people and write it on their
-  hearts.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,33 +16,9 @@ layers:
 - motif
 motifs:
 - law-written-on-heart
-passages:
-- tradition: judaism
-  ref: Jer 31:33
-  note: God will put his law within the people and write it on their hearts
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙ נְאֻם
-    יְהוָ֔ה נָתַ֤תִּי אֶת תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל לִבָּ֖ם אֶכְתֲּבֶ֑נָּה וְהָיִ֤יתִי לָהֶם֙ לֵֽאלֹהִ֔ים
-    וְהֵ֖מָּה יִֽהְיוּ לִ֥י לְעָֽם
-- tradition: islam
-  ref: Quran 58:22
-  note: 'God will put his law within the people and write it on their hearts (God writes on the heart:
-    nāṯattî ʾeṯ tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ vs. ulāʾika kataba fī qulūbihimu l-īmāna wa-ayyadahum
-    bi-rūḥin minhu. Torah written on Israel''s heart in the new covenant; faith written on the hearts
-    of those who renounce God''s enemies.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ
-    وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ
-    أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ
-    تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ
-    حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God writes on the heart: nāṯattî ʾeṯ tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ vs. ulāʾika
-    kataba fī qulūbihimu l-īmāna wa-ayyadahum bi-rūḥin minhu. Torah written on Israel''s heart in the
-    new covenant; faith written on the hearts of those who renounce God''s enemies.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will put his law within the people and write it on their hearts
     (weight 6.7). Pair score 6.7.'
@@ -81,6 +56,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will put his law within the people and write it on their hearts
+kinds:
+- parallel
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God will put his law within the people and write it on their hearts
+  note: 'God writes on the heart: nāṯattî ʾeṯ tôrāṯî bə-qirbām wə-ʿal libbām ʾeḵtăḇennâ vs. ulāʾika kataba
+    fī qulūbihimu l-īmāna wa-ayyadahum bi-rūḥin minhu. Torah written on Israel''s heart in the new covenant;
+    faith written on the hearts of those who renounce God''s enemies.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:33
+      lang: he
+      text: כִּ֣י זֹ֣את הַבְּרִ֡ית אֲשֶׁ֣ר אֶכְרֹת֩ אֶת בֵּ֨ית יִשְׂרָאֵ֜ל אַחֲרֵ֨י הַיָּמִ֤ים הָהֵם֙
+        נְאֻם יְהוָ֔ה נָתַ֤תִּי אֶת תּֽוֹרָתִי֙ בְּקִרְבָּ֔ם וְעַל לִבָּ֖ם אֶכְתֲּבֶ֑נָּה וְהָיִ֤יתִי
+        לָהֶם֙ לֵֽאלֹהִ֔ים וְהֵ֖מָּה יִֽהְיוּ לִ֥י לְעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 58:22
+      lang: ar
+      text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ
+        ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ
+        عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ
+        جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟
+        عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

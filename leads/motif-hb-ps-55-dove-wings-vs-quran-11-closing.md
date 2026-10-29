@@ -2,8 +2,7 @@
 id: motif-hb-ps-55-dove-wings-vs-quran-11-closing
 title: Psalm 55, wings of a dove and the treacherous friend ↔ Stand firm; prayer times; good deeds remove
   bad
-summary: 'These two units share 1 motifs: perform prayer at the two ends of the day and in the near hours
-  of the night.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - prayer-at-two-ends-of-day-and-night
-passages:
-- tradition: judaism
-  ref: Ps 55:18
-  note: 'Perform prayer at the two ends of the day and in the near hours of the night (aqimi ṣ-ṣalāta
-    ṭarafayi n-nahāri wa-zulafan mina l-layl; ʿereb wābōqer wəṣohŏrayim ʾāśîḥâ: prayer fixed to times
-    of day. Ps names three (evening, morning, noon); Q names the two ends of the day plus ''near hours''
-    of the night.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
-- tradition: islam
-  ref: Quran 11:114
-  note: Perform prayer at the two ends of the day and in the near hours of the night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
-    ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. aqimi ṣ-ṣalāta ṭarafayi n-nahāri wa-zulafan mina l-layl; ʿereb wābōqer wəṣohŏrayim ʾāśîḥâ:
-    prayer fixed to times of day. Ps names three (evening, morning, noon); Q names the two ends of the
-    day plus ''near hours'' of the night.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Perform prayer at the two ends of the day and in the near hours
     of the night (weight 6.3). Pair score 6.3.'
@@ -66,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Perform prayer at the two ends of the day and in the near hours of the night
+kinds:
+- parallel
+units:
+- id: hb-ps-55-dove-wings
+  title: Psalm 55, wings of a dove and the treacherous friend
+  tradition: judaism
+- id: quran-11-closing
+  title: Stand firm; prayer times; good deeds remove bad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Perform prayer at the two ends of the day and in the near hours of the night
+  note: 'aqimi ṣ-ṣalāta ṭarafayi n-nahāri wa-zulafan mina l-layl; ʿereb wābōqer wəṣohŏrayim ʾāśîḥâ: prayer
+    fixed to times of day. Ps names three (evening, morning, noon); Q names the two ends of the day plus
+    ''near hours'' of the night.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 55:18
+      lang: he
+      text: עֶ֤רֶב וָבֹ֣קֶר וְ֭צָהֳרַיִם אָשִׂ֣יחָה וְאֶהֱמֶ֑ה וַיִּשְׁמַ֥ע קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:114
+      lang: ar
+      text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
+        ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
 ---
 
 ## Questions

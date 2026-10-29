@@ -2,8 +2,7 @@
 id: motif-hb-deut-28-blessings-curses-vs-quran-36-trumpet-and-judgment
 title: Blessings and the great curses ↔ The trumpet, the sleepers raised, the Garden and the witnessing
   limbs
-summary: 'These two units share 1 motifs: if god willed he would blot out their eyes or transform them
-  (maskh) in their places so they could neither go on nor return.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - threat-of-blinding-and-transformation
-passages:
-- tradition: judaism
-  ref: Deut 28:28
-  note: 'If God willed he would blot out their eyes or transform them (maskh) in their places so they
-    could neither go on nor return (yakkəḵâ YHWH bə-šiggāʿôn û-ḇə-ʿiwwārôn ... wə-hāyîṯā məmaššēš ba-ṣṣohŏrayim
-    ... wə-lōʾ ṯaṣlîaḥ ʾeṯ-dərāḵeḵā vs. wa-law nashāʾu la-ṭamasnā ʿalā aʿyunihim fa-stabaqū ṣ-ṣirāṭa fa-annā
-    yubṣirūn: struck blind and unable to find the way. A covenant curse that will happen in Deut, a possibility
-    God holds back (law nashāʾu) in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַכְּכָ֣ה יְהוָ֔ה בְּשִׁגָּע֖וֹן וּבְעִוָּר֑וֹן וּבְתִמְה֖וֹן לֵבָֽב
-- tradition: judaism
-  ref: Deut 28:29
-  note: 'If God willed he would blot out their eyes or transform them (maskh) in their places so they
-    could neither go on nor return (yakkəḵâ YHWH bə-šiggāʿôn û-ḇə-ʿiwwārôn ... wə-hāyîṯā məmaššēš ba-ṣṣohŏrayim
-    ... wə-lōʾ ṯaṣlîaḥ ʾeṯ-dərāḵeḵā vs. wa-law nashāʾu la-ṭamasnā ʿalā aʿyunihim fa-stabaqū ṣ-ṣirāṭa fa-annā
-    yubṣirūn: struck blind and unable to find the way. A covenant curse that will happen in Deut, a possibility
-    God holds back (law nashāʾu) in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיִ֜יתָ מְמַשֵּׁ֣שׁ בַּֽצָּהֳרַ֗יִם כַּאֲשֶׁ֨ר יְמַשֵּׁ֤שׁ הָעִוֵּר֙ בָּאֲפֵלָ֔ה וְלֹ֥א תַצְלִ֖יחַ
-    אֶת דְּרָכֶ֑יךָ וְהָיִ֜יתָ אַ֣ךְ עָשׁ֧וּק וְגָז֛וּל כָּל הַיָּמִ֖ים וְאֵ֥ין מוֹשִֽׁיעַ
-- tradition: islam
-  ref: Quran 36:66
-  note: If God willed he would blot out their eyes or transform them (maskh) in their places so they could
-    neither go on nor return
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ
-- tradition: islam
-  ref: Quran 36:67
-  note: If God willed he would blot out their eyes or transform them (maskh) in their places so they could
-    neither go on nor return
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ نَشَآءُ لَمَسَخْنَٰهُمْ عَلَىٰ مَكَانَتِهِمْ فَمَا ٱسْتَطَٰعُوا۟ مُضِيًّا وَلَا يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yakkəḵâ YHWH bə-šiggāʿôn û-ḇə-ʿiwwārôn ... wə-hāyîṯā məmaššēš ba-ṣṣohŏrayim ... wə-lōʾ ṯaṣlîaḥ
-    ʾeṯ-dərāḵeḵā vs. wa-law nashāʾu la-ṭamasnā ʿalā aʿyunihim fa-stabaqū ṣ-ṣirāṭa fa-annā yubṣirūn: struck
-    blind and unable to find the way. A covenant curse that will happen in Deut, a possibility God holds
-    back (law nashāʾu) in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God willed he would blot out their eyes or transform them (maskh)
     in their places so they could neither go on nor return (weight 6.7). Pair score 6.7.'
@@ -91,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God willed he would blot out their eyes or transform them (maskh) in their places so they
+  could neither go on nor return
+kinds:
+- echo
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-36-trumpet-and-judgment
+  title: The trumpet, the sleepers raised, the Garden and the witnessing limbs
+  tradition: islam
+matches:
+- kind: echo
+  label: If God willed he would blot out their eyes or transform them (maskh) in their places so they
+    could neither go on nor return
+  note: 'yakkəḵâ YHWH bə-šiggāʿôn û-ḇə-ʿiwwārôn ... wə-hāyîṯā məmaššēš ba-ṣṣohŏrayim ... wə-lōʾ ṯaṣlîaḥ
+    ʾeṯ-dərāḵeḵā vs. wa-law nashāʾu la-ṭamasnā ʿalā aʿyunihim fa-stabaqū ṣ-ṣirāṭa fa-annā yubṣirūn: struck
+    blind and unable to find the way. A covenant curse that will happen in Deut, a possibility God holds
+    back (law nashāʾu) in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:28
+      lang: he
+      text: יַכְּכָ֣ה יְהוָ֔ה בְּשִׁגָּע֖וֹן וּבְעִוָּר֑וֹן וּבְתִמְה֖וֹן לֵבָֽב
+    - ref: Deut 28:29
+      lang: he
+      text: וְהָיִ֜יתָ מְמַשֵּׁ֣שׁ בַּֽצָּהֳרַ֗יִם כַּאֲשֶׁ֨ר יְמַשֵּׁ֤שׁ הָעִוֵּר֙ בָּאֲפֵלָ֔ה וְלֹ֥א
+        תַצְלִ֖יחַ אֶת דְּרָכֶ֑יךָ וְהָיִ֜יתָ אַ֣ךְ עָשׁ֧וּק וְגָז֛וּל כָּל הַיָּמִ֖ים וְאֵ֥ין מוֹשִֽׁיעַ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:66
+      lang: ar
+      text: وَلَوْ نَشَآءُ لَطَمَسْنَا عَلَىٰٓ أَعْيُنِهِمْ فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ فَأَنَّىٰ يُبْصِرُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-judg-13-samson-birth-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: Annunciation of Samson's birth to Manoah's wife ↔ Abraham's honored guests, the barren old wife
   striking her face, the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 2 motifs: a barren wife is told by a divine messenger that she will bear
-  a son, the patriarch''s wife is barren.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,61 +16,7 @@ layers:
 motifs:
 - barren-wife-annunciation
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Judg 13:2
-  note: A barren wife is told by a divine messenger that she will bear a son (Angel appears to the woman,
-    not the husband; she is unnamed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה
-    וְלֹ֥א יָלָֽדָה
-- tradition: judaism
-  ref: Judg 13:3
-  note: A barren wife is told by a divine messenger that she will bear a son (Angel appears to the woman,
-    not the husband; she is unnamed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: islam
-  ref: Quran 51:28
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 51:29
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
-- tradition: judaism
-  ref: Judg 13:2
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה
-    וְלֹ֥א יָלָֽדָה
-- tradition: judaism
-  ref: Judg 13:3
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: islam
-  ref: Quran 51:29
-  note: The patriarch's wife is barren
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
     son (weight 5.8); The patriarch''s wife is barren (weight 5.2). Pair score 11.0.'
@@ -105,6 +50,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A barren wife is told by a divine messenger that she will bear a son
+kinds:
+- shared
+units:
+- id: hb-judg-13-samson-birth
+  title: Annunciation of Samson's birth to Manoah's wife
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: shared
+  label: A barren wife is told by a divine messenger that she will bear a son
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:2
+      lang: he
+      text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ
+        עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    note: Angel appears to the woman, not the husband; she is unnamed
+  - tradition: islam
+    passages:
+    - ref: Quran 51:28
+      lang: ar
+      text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+    - ref: Quran 51:29
+      lang: ar
+      text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+- kind: shared
+  label: The patriarch's wife is barren
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:2
+      lang: he
+      text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ
+        עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    - ref: Judg 13:5
+      lang: he
+      text: כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא יַעֲלֶ֣ה עַל רֹאשׁ֔וֹ כִּֽי נְזִ֧יר
+        אֱלֹהִ֛ים יִהְיֶ֥ה הַנַּ֖עַר מִן הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת יִשְׂרָאֵ֖ל מִיַּ֥ד
+        פְּלִשְׁתִּֽים
+    note: 'wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ... kî-nəzîr ʾĕlōhîm yihyeh hannaʿar
+      min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām ... wa-ātaynāhu l-ḥukma ṣabiyyā
+      ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated from childhood. In Judg the angel
+      comes to the wife; in Q the announcement goes to the husband.'
+  - tradition: islam
+    passages:
+    - ref: Quran 51:29
+      lang: ar
+      text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
 ---
 
 ## Questions

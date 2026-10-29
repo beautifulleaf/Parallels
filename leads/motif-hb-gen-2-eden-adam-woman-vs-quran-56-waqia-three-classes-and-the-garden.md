@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'Second creation account, Eden, and the making of woman ↔ Al-Waqi''a: the Event that abases and
   exalts; the three classes; the Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 2 motifs: whether any fruit in the garden is forbidden [contrast between
-  the texts], a tree of knowledge whose fruit is forbidden.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,51 +15,9 @@ layers:
 motifs:
 - forbidden-fruit-in-the-garden-as-contrast
 - tree-of-knowledge-forbidden
-passages:
-- tradition: judaism
-  ref: Gen 2:17
-  note: 'Whether any fruit in the Garden is forbidden [contrast between the texts] (Eden''s prohibition
-    vs. the Garden''s freedom: û-mē-ʿēṣ had-daʿaṯ ṭôḇ wā-rāʿ lōʾ ṯōʾḵal mimmennû vs. lā maqṭūʿatin wa-lā
-    mamnūʿa (fruit neither cut off nor forbidden). In the Garden of the end no fruit is forbidden. Lead:
-    the Quran does not mention Eden here.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת
-    תָּמֽוּת
-- tradition: islam
-  ref: Quran 56:33
-  note: 'Whether any fruit in the Garden is forbidden [contrast between the texts] (Eden''s prohibition
-    vs. the Garden''s freedom: û-mē-ʿēṣ had-daʿaṯ ṭôḇ wā-rāʿ lōʾ ṯōʾḵal mimmennû vs. lā maqṭūʿatin wa-lā
-    mamnūʿa (fruit neither cut off nor forbidden). In the Garden of the end no fruit is forbidden. Lead:
-    the Quran does not mention Eden here.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
-- tradition: judaism
-  ref: Gen 2:9
-  note: A tree of knowledge whose fruit is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
-    וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
-- tradition: judaism
-  ref: Gen 2:17
-  note: A tree of knowledge whose fruit is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת
-    תָּמֽוּת
-- tradition: islam
-  ref: Quran 56:33
-  note: 'A tree of knowledge whose fruit is forbidden (inversion: no fruit in this garden is forbidden)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Eden''s prohibition vs. the Garden''s freedom: û-mē-ʿēṣ had-daʿaṯ ṭôḇ wā-rāʿ lōʾ ṯōʾḵal
-    mimmennû vs. lā maqṭūʿatin wa-lā mamnūʿa (fruit neither cut off nor forbidden). In the Garden of the
-    end no fruit is forbidden. Lead: the Quran does not mention Eden here.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether any fruit in the Garden is forbidden [contrast between the
     texts] (weight 6.7); A tree of knowledge whose fruit is forbidden (weight 5.8). Pair score 12.5.'
@@ -97,6 +54,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether any fruit in the Garden is forbidden
+kinds:
+- contrast
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether any fruit in the Garden is forbidden
+  note: 'Eden''s prohibition vs. the Garden''s freedom: û-mē-ʿēṣ had-daʿaṯ ṭôḇ wā-rāʿ lōʾ ṯōʾḵal mimmennû
+    vs. lā maqṭūʿatin wa-lā mamnūʿa (fruit neither cut off nor forbidden). In the Garden of the end no
+    fruit is forbidden. Lead: the Quran does not mention Eden here.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:17
+      lang: he
+      text: וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ
+        מ֥וֹת תָּמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 56:33
+      lang: ar
+      text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+- kind: shared
+  label: A tree of knowledge whose fruit is forbidden
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:9
+      lang: he
+      text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
+        וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
+    - ref: Gen 2:17
+      lang: he
+      text: וּמֵעֵ֗ץ הַדַּ֨עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ
+        מ֥וֹת תָּמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 56:33
+      lang: ar
+      text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
+    note: 'inversion: no fruit in this garden is forbidden'
 ---
 
 ## Questions

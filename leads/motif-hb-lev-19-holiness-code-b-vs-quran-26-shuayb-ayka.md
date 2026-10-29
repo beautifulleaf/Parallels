@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-26-shuayb-ayka
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ Shuayb and the People of the
   Thicket; the day of the canopy
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,39 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Lev 19:35
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
-- tradition: judaism
-  ref: Lev 19:36
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם
-    אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 26:181
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ
-- tradition: islam
-  ref: Quran 26:182
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. awfū l-kayla ... wa-zinū bi-l-qisṭāsi l-mustaqīmi wa-lā tabkhasū n-nāsa ashyāʾahum ~ lōʾ
-    taʿăśû ʿāwel ... bam-middâ bam-mišqāl û-vam-məśûrâ mōʾzənê ṣedeq ʾavnê ṣedeq: full measure (kayl /
-    middâ), weighing (wazn / mišqāl) and a just balance (qisṭās mustaqīm / mōʾzənê ṣedeq). In Leviticus
-    it is law for Israel grounded in the exodus; in the Quran it is a messenger''s demand on a non-Israelite
-    people, whose refusal brings their destruction.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -81,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-26-shuayb-ayka
+  title: Shuayb and the People of the Thicket; the day of the canopy
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'awfū l-kayla ... wa-zinū bi-l-qisṭāsi l-mustaqīmi wa-lā tabkhasū n-nāsa ashyāʾahum ~ lōʾ taʿăśû
+    ʿāwel ... bam-middâ bam-mišqāl û-vam-məśûrâ mōʾzənê ṣedeq ʾavnê ṣedeq: full measure (kayl / middâ),
+    weighing (wazn / mišqāl) and a just balance (qisṭās mustaqīm / mōʾzənê ṣedeq). In Leviticus it is
+    law for Israel grounded in the exodus; in the Quran it is a messenger''s demand on a non-Israelite
+    people, whose refusal brings their destruction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:35
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
+    - ref: Lev 19:36
+      lang: he
+      text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה
+        אֱלֹֽהֵיכֶ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:181
+      lang: ar
+      text: أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ
+    - ref: Quran 26:182
+      lang: ar
+      text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
+    - ref: Quran 26:183
+      lang: ar
+      text: وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

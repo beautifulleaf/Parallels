@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-4-kindness-misers-atom
 title: The Ten Words and the people's fear ↔ The circle of kindness, misers, and the atom's weight
-summary: 'These two units share 1 motifs: honor father and mother, with the promise of long life.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - honor-parents-long-life
-passages:
-- tradition: judaism
-  ref: Exod 20:12
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: judaism
-  ref: Exod 20:3
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 4:36
-  note: Honor father and mother, with the promise of long life (worship God alone and be good to parents)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ
-    وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Exod 20:3, 12 lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā; Q 4:36
-    wa-ʿbudū llāha wa-lā tushrikū bihi shayʾan wa-bi-l-wālidayni iḥsānan. The Decalogue''s first command
-    and its command on parents, joined as in Q 2:83; the land promise (lĕmaʿan yaʾărikûn yāmêkā) is dropped.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3).
     Pair score 5.3.'
@@ -73,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- parallel
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honor father and mother, with the promise of long life
+  note: Exod 20:3, 12 lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā; Q 4:36 wa-ʿbudū
+    llāha wa-lā tushrikū bihi shayʾan wa-bi-l-wālidayni iḥsānan. The Decalogue's first command and its
+    command on parents, joined as in Q 2:83; the land promise (lĕmaʿan yaʾărikûn yāmêkā) is dropped.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:3
+      lang: he
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    - ref: Exod 20:12
+      lang: he
+      text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:36
+      lang: ar
+      text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ
+        بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ
+        مُخْتَالًا فَخُورًا
 ---
 
 ## Questions

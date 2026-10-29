@@ -2,8 +2,7 @@
 id: motif-hb-ps-94-god-of-vengeance-vs-quran-41-testifying-skins
 title: Psalm 94, God of vengeance; he who planted the ear ↔ Skins testify; evil companions; the misled
   ask to trample their misleaders
-summary: 'These two units share 1 motifs: god made human hearing and sight: so god sees and hears, or
-  the senses themselves testify [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,60 +14,9 @@ layers:
 - motif
 motifs:
 - senses-made-by-god-and-what-they-witness-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 94:7
-  note: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify [divergence
-    between the texts] (Same pair of senses and the same argument from creation, turned around. Ps 94:
-    the wicked say lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ
-    (the maker of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum
-    wa-julūduhum, testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum
-    awwala marra. In the psalm God''s own senses convict; in the Quran the sinner''s senses do.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֭יֹּ֣אמְרוּ לֹ֣א יִרְאֶה יָּ֑הּ וְלֹא יָ֝בִ֗ין אֱלֹהֵ֥י יַעֲקֹֽב
-- tradition: judaism
-  ref: Ps 94:9
-  note: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify [divergence
-    between the texts] (Same pair of senses and the same argument from creation, turned around. Ps 94:
-    the wicked say lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ
-    (the maker of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum
-    wa-julūduhum, testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum
-    awwala marra. In the psalm God''s own senses convict; in the Quran the sinner''s senses do.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
-- tradition: islam
-  ref: Quran 41:20
-  note: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify [divergence
-    between the texts] (Same pair of senses and the same argument from creation, turned around. Ps 94:
-    the wicked say lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ
-    (the maker of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum
-    wa-julūduhum, testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum
-    awwala marra. In the psalm God''s own senses convict; in the Quran the sinner''s senses do.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا
-    كَانُوا۟ يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 41:21
-  note: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify [divergence
-    between the texts] (Same pair of senses and the same argument from creation, turned around. Ps 94:
-    the wicked say lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ
-    (the maker of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum
-    wa-julūduhum, testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum
-    awwala marra. In the psalm God''s own senses convict; in the Quran the sinner''s senses do.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ
-    كُلَّ شَىْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Same pair of senses and the same argument from creation, turned around. Ps 94: the wicked
-    say lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ (the maker
-    of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum wa-julūduhum,
-    testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum awwala marra.
-    In the psalm God''s own senses convict; in the Quran the sinner''s senses do.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made human hearing and sight: so God sees and hears, or the
     senses themselves testify [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -101,6 +49,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify'
+kinds:
+- divergence
+units:
+- id: hb-ps-94-god-of-vengeance
+  title: Psalm 94, God of vengeance; he who planted the ear
+  tradition: judaism
+- id: quran-41-testifying-skins
+  title: Skins testify; evil companions; the misled ask to trample their misleaders
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'God made human hearing and sight: so God sees and hears, or the senses themselves testify'
+  note: 'Same pair of senses and the same argument from creation, turned around. Ps 94: the wicked say
+    lōʾ yirʾeh yāh, answered by ha-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin hă-lōʾ yabbîṭ (the maker
+    of ear and eye must hear and see). Q 41: the created senses themselves, samʿuhum wa-abṣāruhum wa-julūduhum,
+    testify, and the skins say anṭaqanā llāhu lladhī anṭaqa kulla shayʾin wa-huwa khalaqakum awwala marra.
+    In the psalm God''s own senses convict; in the Quran the sinner''s senses do.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 94:7
+      lang: he
+      text: וַ֭יֹּ֣אמְרוּ לֹ֣א יִרְאֶה יָּ֑הּ וְלֹא יָ֝בִ֗ין אֱלֹהֵ֥י יַעֲקֹֽב
+    - ref: Ps 94:9
+      lang: he
+      text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
+  - tradition: islam
+    passages:
+    - ref: Quran 41:20
+      lang: ar
+      text: حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا
+        كَانُوا۟ يَعْمَلُونَ
+    - ref: Quran 41:21
+      lang: ar
+      text: وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ
+        كُلَّ شَىْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
+    - ref: Quran 41:22
+      lang: ar
+      text: وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا
+        جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ
 ---
 
 ## Questions

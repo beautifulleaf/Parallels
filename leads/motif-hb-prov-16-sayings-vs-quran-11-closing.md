@@ -2,7 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-quran-11-closing
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ Stand firm; prayer times; good deeds
   remove bad
-summary: 'These two units share 1 motifs: good deeds remove evil deeds.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,25 +15,9 @@ layers:
 - motif
 motifs:
 - good-deeds-remove-bad-deeds
-passages:
-- tradition: judaism
-  ref: Prov 16:6
-  note: 'Good deeds remove evil deeds (inna l-ḥasanāti yudhhibna s-sayyiʾāt; bəḥesed weʾĕmet yəkuppar
-    ʿāwōn: good conduct expiates iniquity.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע
-- tradition: islam
-  ref: Quran 11:114
-  note: Good deeds remove evil deeds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
-    ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. inna l-ḥasanāti yudhhibna s-sayyiʾāt; bəḥesed weʾĕmet yəkuppar ʿāwōn: good conduct expiates
-    iniquity.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Good deeds remove evil deeds (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -64,6 +48,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Good deeds remove evil deeds
+kinds:
+- parallel
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-11-closing
+  title: Stand firm; prayer times; good deeds remove bad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Good deeds remove evil deeds
+  note: 'inna l-ḥasanāti yudhhibna s-sayyiʾāt; bəḥesed weʾĕmet yəkuppar ʿāwōn: good conduct expiates iniquity.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:6
+      lang: he
+      text: בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֺ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 11:114
+      lang: ar
+      text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
+        ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
 ---
 
 ## Questions

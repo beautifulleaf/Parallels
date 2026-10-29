@@ -2,8 +2,7 @@
 id: motif-hb-jer-16-no-wife-no-mourning-vs-quran-9-stayers-exempt
 title: Symbolic acts - no wife, no mourning, no feasting ↔ Those who stayed behind, the exempt, and the
   Bedouin
-summary: 'These two units share 1 motifs: the prophet must never pray over a dead hypocrite or stand at
-  his grave.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - no-funeral-prayer-for-hypocrites
-passages:
-- tradition: judaism
-  ref: Jer 16:5
-  note: 'The prophet must never pray over a dead hypocrite or stand at his grave (God forbids his prophet
-    the rites for the dead of a rejected group: wa-lā tuṣalli ʿalā aḥadin minhum māta abadan wa-lā taqum
-    ʿalā qabrihi vs ʾal-tābôʾ bêt marzēaḥ wᵉʾal-tēlēk lispôd wᵉʾal-tānōd lāhem kî-ʾāsaptî ʾet-šᵉlômî mēʾēt
-    hāʿām hazzeh ... lōʾ yiqqābērû wᵉlōʾ-yispᵉdû lāhem.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי כֹ֣ה אָמַ֣ר יְהוָ֗ה אַל תָּבוֹא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל תֵּלֵ֣ךְ לִסְפּ֔וֹד וְאַל תָּנֹ֖ד
-    לָהֶ֑ם כִּֽי אָסַ֨פְתִּי אֶת שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם הַזֶּה֙ נְאֻם יְהוָ֔ה אֶת הַחֶ֖סֶד וְאֶת הָֽרַחֲמִֽים
-- tradition: judaism
-  ref: Jer 16:6
-  note: 'The prophet must never pray over a dead hypocrite or stand at his grave (God forbids his prophet
-    the rites for the dead of a rejected group: wa-lā tuṣalli ʿalā aḥadin minhum māta abadan wa-lā taqum
-    ʿalā qabrihi vs ʾal-tābôʾ bêt marzēaḥ wᵉʾal-tēlēk lispôd wᵉʾal-tānōd lāhem kî-ʾāsaptî ʾet-šᵉlômî mēʾēt
-    hāʿām hazzeh ... lōʾ yiqqābērû wᵉlōʾ-yispᵉdû lāhem.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֵ֨תוּ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את לֹ֣א יִקָּבֵ֑רוּ וְלֹֽא יִסְפְּד֣וּ לָהֶ֔ם
-    וְלֹ֣א יִתְגֹּדַ֔ד וְלֹ֥א יִקָּרֵ֖חַ לָהֶֽם
-- tradition: islam
-  ref: Quran 9:84
-  note: The prophet must never pray over a dead hypocrite or stand at his grave
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ إِنَّهُمْ
-    كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God forbids his prophet the rites for the dead of a rejected group: wa-lā tuṣalli ʿalā aḥadin
-    minhum māta abadan wa-lā taqum ʿalā qabrihi vs ʾal-tābôʾ bêt marzēaḥ wᵉʾal-tēlēk lispôd wᵉʾal-tānōd
-    lāhem kî-ʾāsaptî ʾet-šᵉlômî mēʾēt hāʿām hazzeh ... lōʾ yiqqābērû wᵉlōʾ-yispᵉdû lāhem.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet must never pray over a dead hypocrite or stand at his
     grave (weight 6.7). Pair score 6.7.'
@@ -80,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet must never pray over a dead hypocrite or stand at his grave
+kinds:
+- parallel
+units:
+- id: hb-jer-16-no-wife-no-mourning
+  title: Symbolic acts - no wife, no mourning, no feasting
+  tradition: judaism
+- id: quran-9-stayers-exempt
+  title: Those who stayed behind, the exempt, and the Bedouin
+  tradition: islam
+matches:
+- kind: parallel
+  label: The prophet must never pray over a dead hypocrite or stand at his grave
+  note: 'God forbids his prophet the rites for the dead of a rejected group: wa-lā tuṣalli ʿalā aḥadin
+    minhum māta abadan wa-lā taqum ʿalā qabrihi vs ʾal-tābôʾ bêt marzēaḥ wᵉʾal-tēlēk lispôd wᵉʾal-tānōd
+    lāhem kî-ʾāsaptî ʾet-šᵉlômî mēʾēt hāʿām hazzeh ... lōʾ yiqqābērû wᵉlōʾ-yispᵉdû lāhem.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:5
+      lang: he
+      text: כִּֽי כֹ֣ה אָמַ֣ר יְהוָ֗ה אַל תָּבוֹא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל תֵּלֵ֣ךְ לִסְפּ֔וֹד וְאַל תָּנֹ֖ד
+        לָהֶ֑ם כִּֽי אָסַ֨פְתִּי אֶת שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם הַזֶּה֙ נְאֻם יְהוָ֔ה אֶת הַחֶ֖סֶד וְאֶת
+        הָֽרַחֲמִֽים
+    - ref: Jer 16:6
+      lang: he
+      text: וּמֵ֨תוּ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את לֹ֣א יִקָּבֵ֑רוּ וְלֹֽא יִסְפְּד֣וּ לָהֶ֔ם
+        וְלֹ֣א יִתְגֹּדַ֔ד וְלֹ֥א יִקָּרֵ֖חַ לָהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:84
+      lang: ar
+      text: وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ إِنَّهُمْ
+        كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَٰسِقُونَ
 ---
 
 ## Questions

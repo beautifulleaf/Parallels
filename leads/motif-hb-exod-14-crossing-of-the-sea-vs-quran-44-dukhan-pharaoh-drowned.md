@@ -2,9 +2,7 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-44-dukhan-pharaoh-drowned
 title: The pursuit and the parting of the sea ↔ Moses asks Pharaoh to hand over God's servants; the sea
   left parted; heaven did not weep
-summary: 'These two units share 3 motifs: what moses does with the sea after the crossing [divergence
-  between the texts], the people walk on dry ground through the sea with the waters as a wall on either
-  side, the returning waters drown the pursuing army; not one survives.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,90 +18,9 @@ motifs:
 - moses-and-the-sea-after-crossing-as-divergence
 - walk-on-dry-ground-waters-as-walls
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:21
-  note: 'What Moses does with the sea after the crossing [divergence between the texts] (What Moses does
-    to the sea after crossing. Exodus: wa-yēṭ mōšeh ʾeṯ yāḏô ʿal hay-yām ... wə-yāšuḇû ham-mayim ʿal miṣrayim
-    (he stretches out his hand again to bring the waters back). Quran: wa-truki l-baḥra rahwan innahum
-    jundun mughraqūn (leave the sea as it is, still and parted). The Quran omits the second gesture; the
-    drowning follows without Moses acting. Also absent: the east wind (rûaḥ qāḏîm) and the pillar of fire
-    and cloud (14:24).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
-    כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
-- tradition: judaism
-  ref: Exod 14:26
-  note: 'What Moses does with the sea after the crossing [divergence between the texts] (What Moses does
-    to the sea after crossing. Exodus: wa-yēṭ mōšeh ʾeṯ yāḏô ʿal hay-yām ... wə-yāšuḇû ham-mayim ʿal miṣrayim
-    (he stretches out his hand again to bring the waters back). Quran: wa-truki l-baḥra rahwan innahum
-    jundun mughraqūn (leave the sea as it is, still and parted). The Quran omits the second gesture; the
-    drowning follows without Moses acting. Also absent: the east wind (rûaḥ qāḏîm) and the pillar of fire
-    and cloud (14:24).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: islam
-  ref: Quran 44:24
-  note: 'What Moses does with the sea after the crossing [divergence between the texts] (What Moses does
-    to the sea after crossing. Exodus: wa-yēṭ mōšeh ʾeṯ yāḏô ʿal hay-yām ... wə-yāšuḇû ham-mayim ʿal miṣrayim
-    (he stretches out his hand again to bring the waters back). Quran: wa-truki l-baḥra rahwan innahum
-    jundun mughraqūn (leave the sea as it is, still and parted). The Quran omits the second gesture; the
-    drowning follows without Moses acting. Also absent: the east wind (rûaḥ qāḏîm) and the pillar of fire
-    and cloud (14:24).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
-- tradition: judaism
-  ref: Exod 14:22
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֧אוּ בְנֵֽי יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָׁ֑ה וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם
-    וּמִשְּׂמֹאלָֽם
-- tradition: judaism
-  ref: Exod 14:29
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֣וֹךְ הַיָּ֑ם וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם
-    וּמִשְּׂמֹאלָֽם
-- tradition: islam
-  ref: Quran 44:24
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 44:24
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence, parallel. What Moses does to the sea after crossing. Exodus: wa-yēṭ mōšeh ʾeṯ yāḏô ʿal
-    hay-yām ... wə-yāšuḇû ham-mayim ʿal miṣrayim (he stretches out his hand again to bring the waters
-    back). Quran: wa-truki l-baḥra rahwan innahum jundun mughraqūn (leave the sea as it is, still and
-    parted). The Quran omits the second gesture; the drowning follows without Moses acting. Also absent:
-    the east wind (rûaḥ qāḏîm) and the pillar of fire and cloud (14:24). wa-yirdəp̄û miṣrayim ... lōʾ
-    nišʾar bāhem ʿaḏ ʾeḥāḏ vs. innakum muttabaʿūn ... innahum jundun mughraqūn.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Moses does with the sea after the crossing [divergence between
     the texts] (weight 6.7); The people walk on dry ground through the sea with the waters as a wall on
@@ -140,6 +57,84 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What Moses does with the sea after the crossing
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: divergence
+  label: What Moses does with the sea after the crossing
+  note: 'What Moses does to the sea after crossing. Exodus: wa-yēṭ mōšeh ʾeṯ yāḏô ʿal hay-yām ... wə-yāšuḇû
+    ham-mayim ʿal miṣrayim (he stretches out his hand again to bring the waters back). Quran: wa-truki
+    l-baḥra rahwan innahum jundun mughraqūn (leave the sea as it is, still and parted). The Quran omits
+    the second gesture; the drowning follows without Moses acting. Also absent: the east wind (rûaḥ qāḏîm)
+    and the pillar of fire and cloud (14:24).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:21
+      lang: he
+      text: וַיֵּ֨ט מֹשֶׁ֣ה אֶת יָדוֹ֮ עַל הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה אֶת הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙
+        כָּל הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם
+    - ref: Exod 14:26
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
+        עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
+    - ref: Exod 14:27
+      lang: he
+      text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ
+        וּמִצְרַ֖יִם נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+- kind: parallel
+  label: The returning waters drown the pursuing army; not one survives
+  note: wa-yirdəp̄û miṣrayim ... lōʾ nišʾar bāhem ʿaḏ ʾeḥāḏ vs. innakum muttabaʿūn ... innahum jundun
+    mughraqūn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:23
+      lang: he
+      text: וַיִּרְדְּפ֤וּ מִצְרַ֨יִם֙ וַיָּבֹ֣אוּ אַחֲרֵיהֶ֔ם כֹּ֚ל ס֣וּס פַּרְעֹ֔ה רִכְבּ֖וֹ וּפָרָשָׁ֑יו
+        אֶל תּ֖וֹךְ הַיָּֽם
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+- kind: shared
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:22
+      lang: he
+      text: וַיָּבֹ֧אוּ בְנֵֽי יִשְׂרָאֵ֛ל בְּת֥וֹךְ הַיָּ֖ם בַּיַּבָּשָׁ֑ה וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה
+        מִֽימִינָ֖ם וּמִשְּׂמֹאלָֽם
+    - ref: Exod 14:29
+      lang: he
+      text: וּבְנֵ֧י יִשְׂרָאֵ֛ל הָלְכ֥וּ בַיַּבָּשָׁ֖ה בְּת֣וֹךְ הַיָּ֑ם וְהַמַּ֤יִם לָהֶם֙ חֹמָ֔ה מִֽימִינָ֖ם
+        וּמִשְּׂמֹאלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 ---
 
 ## Questions

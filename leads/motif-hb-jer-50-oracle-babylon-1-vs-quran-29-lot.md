@@ -2,8 +2,7 @@
 id: motif-hb-jer-50-oracle-babylon-1-vs-quran-29-lot
 title: 'Oracle against Babylon (I): Bel and Merodach shamed, the hammer of the earth broken ↔ Lot and
   the destruction of his town'
-summary: 'These two units share 1 motifs: a land will be overthrown like sodom and gomorrah and their
-  neighbors, never inhabited.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - overthrow-of-sodom-and-gomorrah-as-paradigm
-passages:
-- tradition: judaism
-  ref: Jer 50:40
-  note: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּמַהְפֵּכַ֨ת אֱלֹהִ֜ים אֶת סְדֹ֧ם וְאֶת עֲמֹרָ֛ה וְאֶת שְׁכֵנֶ֖יהָ נְאֻם יְהוָ֑ה לֹֽא יֵשֵׁ֥ב
-    שָׁם֙ אִ֔ישׁ וְלֹֽא יָג֥וּר בָּ֖הּ בֶּן אָדָֽם
-- tradition: islam
-  ref: Quran 29:35
-  note: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited (a clear
-    sign left of it for people who reason)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-la-qad taraknā minhā āyatan bayyinatan li-qawmin yaʿqilūna ~ kə-mahpēkhat ʾĕlōhîm ʾet Sədōm
-    wə-ʾet ʿĂmōrâ ... lōʾ yēšēv šām ʾîš: Sodom''s ruin as a lasting lesson; Jeremiah uses it as a model
-    for Babylon''s fate, the Quran as a sign for those who reason.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A land will be overthrown like Sodom and Gomorrah and their neighbors,
     never inhabited (weight 6.0). Pair score 6.0.'
@@ -68,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
+kinds:
+- echo
+units:
+- id: hb-jer-50-oracle-babylon-1
+  title: 'Oracle against Babylon (I): Bel and Merodach shamed, the hammer of the earth broken'
+  tradition: judaism
+- id: quran-29-lot
+  title: Lot and the destruction of his town
+  tradition: islam
+matches:
+- kind: echo
+  label: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
+  note: 'wa-la-qad taraknā minhā āyatan bayyinatan li-qawmin yaʿqilūna ~ kə-mahpēkhat ʾĕlōhîm ʾet Sədōm
+    wə-ʾet ʿĂmōrâ ... lōʾ yēšēv šām ʾîš: Sodom''s ruin as a lasting lesson; Jeremiah uses it as a model
+    for Babylon''s fate, the Quran as a sign for those who reason.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 50:40
+      lang: he
+      text: כְּמַהְפֵּכַ֨ת אֱלֹהִ֜ים אֶת סְדֹ֧ם וְאֶת עֲמֹרָ֛ה וְאֶת שְׁכֵנֶ֖יהָ נְאֻם יְהוָ֑ה לֹֽא יֵשֵׁ֥ב
+        שָׁם֙ אִ֔ישׁ וְלֹֽא יָג֥וּר בָּ֖הּ בֶּן אָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:35
+      lang: ar
+      text: وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

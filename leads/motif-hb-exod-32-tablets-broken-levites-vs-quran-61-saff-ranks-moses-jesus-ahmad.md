@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer ↔ Al-Saff: ranks like a solid
   structure; Moses hurt by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: jesus asks ''who are my helpers to god?'' and the disciples
-  (hawariyyun) answer ''we are god''s helpers''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - disciples-helpers-of-god
-passages:
-- tradition: judaism
-  ref: Exod 32:26
-  note: 'Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun) answer ''We are God''s
-    helpers'' (A rallying call answered by a loyal group: wa-yyaʿămōḏ mōšeh bə-šaʿar ham-maḥăneh wa-yyōʾmer
-    mî la-YHWH ʾēlāy wa-yyēʾāsp̄û ʾēlâw kol bənê lēwî vs. kamā qāla ʿīsā bnu maryama li-l-ḥawāriyyīna
-    man anṣārī ilā llāh, qāla l-ḥawāriyyūna naḥnu anṣāru llāh. ''Who is for YHWH, to me?'' ~ ''Who are
-    my helpers to God?'' (ʾēlāy / ilā). The Levites answer with the sword; the disciples by faith, and
-    God then helps the believing party.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ אֵלָ֖יו
-    כָּל בְּנֵ֥י לֵוִֽי
-- tradition: islam
-  ref: Quran 61:14
-  note: Jesus asks 'Who are my helpers to God?' and the disciples (hawariyyun) answer 'We are God's helpers'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ
-    لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ فَـَٔامَنَت
-    طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ
-    عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A rallying call answered by a loyal group: wa-yyaʿămōḏ mōšeh bə-šaʿar ham-maḥăneh wa-yyōʾmer
-    mî la-YHWH ʾēlāy wa-yyēʾāsp̄û ʾēlâw kol bənê lēwî vs. kamā qāla ʿīsā bnu maryama li-l-ḥawāriyyīna
-    man anṣārī ilā llāh, qāla l-ḥawāriyyūna naḥnu anṣāru llāh. ''Who is for YHWH, to me?'' ~ ''Who are
-    my helpers to God?'' (ʾēlāy / ilā). The Levites answer with the sword; the disciples by faith, and
-    God then helps the believing party.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Jesus asks ''Who are my helpers to God?'' and the disciples (hawariyyun)
     answer ''We are God''s helpers'' (weight 6.3). Pair score 6.3.'
@@ -80,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Jesus asks 'Who are my helpers to God?' and the disciples (hawariyyun) answer 'We are God's helpers'
+kinds:
+- echo
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: Jesus asks 'Who are my helpers to God?' and the disciples (hawariyyun) answer 'We are God's helpers'
+  note: 'A rallying call answered by a loyal group: wa-yyaʿămōḏ mōšeh bə-šaʿar ham-maḥăneh wa-yyōʾmer
+    mî la-YHWH ʾēlāy wa-yyēʾāsp̄û ʾēlâw kol bənê lēwî vs. kamā qāla ʿīsā bnu maryama li-l-ḥawāriyyīna
+    man anṣārī ilā llāh, qāla l-ḥawāriyyūna naḥnu anṣāru llāh. ''Who is for YHWH, to me?'' ~ ''Who are
+    my helpers to God?'' (ʾēlāy / ilā). The Levites answer with the sword; the disciples by faith, and
+    God then helps the believing party.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:26
+      lang: he
+      text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ
+        אֵלָ֖יו כָּל בְּנֵ֥י לֵוִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 61:14
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ
+        لِلْحَوَارِيِّۦنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ
+        فَـَٔامَنَت طَّآئِفَةٌ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌ فَأَيَّدْنَا ٱلَّذِينَ
+        ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَٰهِرِينَ
 ---
 
 ## Questions

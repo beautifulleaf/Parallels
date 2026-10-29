@@ -2,8 +2,7 @@
 id: motif-hb-ezek-9-mark-on-foreheads-vs-quran-68-qalam-the-pen-and-the-slanderer
 title: 'The six executioners and the man in linen who marks the foreheads ↔ Nun: by the pen; the prophet''s
   great character; the swearer, slanderer and base-born man branded on the snout'
-summary: 'These two units share 2 motifs: oath ''nun. by the pen and what they inscribe'', a mark (tav)
-  is put on the foreheads of those who sigh over the city''s abominations so the destroyers spare them.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,56 +15,9 @@ layers:
 motifs:
 - oath-by-the-pen-and-what-they-write
 - tav-mark-on-foreheads-of-mourners
-passages:
-- tradition: judaism
-  ref: Ezek 9:2
-  note: 'Oath ''Nun. By the pen and what they inscribe'' (weak: nūn wa-l-qalami wa-mā yasṭurūn ~ we-qeset
-    ha-ssōfēr be-motnāyw (the heavenly scribe''s writing kit). The hint''s link of a heavenly pen/scribe;
-    no oath in Ezekiel.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּ֣ה שִׁשָּׁ֣ה אֲנָשִׁ֡ים בָּאִ֣ים מִדֶּרֶךְ שַׁ֨עַר הָעֶלְי֜וֹן אֲשֶׁ֣ר מָפְנֶ֣ה צָפ֗וֹנָה
-    וְאִ֨ישׁ כְּלִ֤י מַפָּצוֹ֙ בְּיָד֔וֹ וְאִישׁ אֶחָ֤ד בְּתוֹכָם֙ לָבֻ֣שׁ בַּדִּ֔ים וְקֶ֥סֶת הַסֹּפֵ֖ר
-    בְּמָתְנָ֑יו וַיָּבֹ֨אוּ֙ וַיַּ֣עַמְד֔וּ אֵ֖צֶל מִזְבַּ֥ח הַנְּחֹֽשֶׁת
-- tradition: islam
-  ref: Quran 68:1
-  note: Oath 'Nun. By the pen and what they inscribe'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: نٓ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
-- tradition: judaism
-  ref: Ezek 9:4
-  note: A mark (tav) is put on the foreheads of those who sigh over the city's abominations so the destroyers
-    spare them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אלו אֵלָ֔יו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ
-    תָּ֜ו עַל מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת
-    בְּתוֹכָֽהּ
-- tradition: judaism
-  ref: Ezek 9:6
-  note: A mark (tav) is put on the foreheads of those who sigh over the city's abominations so the destroyers
-    spare them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָקֵ֡ן בָּח֣וּר וּבְתוּלָה֩ וְטַ֨ף וְנָשִׁ֜ים תַּהַרְג֣וּ לְמַשְׁחִ֗ית וְעַל כָּל אִ֨ישׁ אֲשֶׁר
-    עָלָ֤יו הַתָּו֙ אַל תִּגַּ֔שׁוּ וּמִמִּקְדָּשִׁ֖י תָּחֵ֑לּוּ וַיָּחֵ֨לּוּ֙ בָּאֲנָשִׁ֣ים הַזְּקֵנִ֔ים
-    אֲשֶׁ֖ר לִפְנֵ֥י הַבָּֽיִת
-- tradition: islam
-  ref: Quran 68:16
-  note: 'A mark (tav) is put on the foreheads of those who sigh over the city''s abominations so the destroyers
-    spare them (A divine mark on the face, with opposite meaning: sa-nasimuhu ʿalā l-khurṭūm (brand of
-    shame on the denier) ~ we-hitwîtā tāw ʿal miṣḥôt hā-ʾănāšîm ha-nneʾĕnāḥîm (mark of protection on the
-    faithful).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. A divine mark on the face, with opposite meaning: sa-nasimuhu ʿalā l-khurṭūm (brand of shame
-    on the denier) ~ we-hitwîtā tāw ʿal miṣḥôt hā-ʾănāšîm ha-nneʾĕnāḥîm (mark of protection on the faithful).
-    weak: nūn wa-l-qalami wa-mā yasṭurūn ~ we-qeset ha-ssōfēr be-motnāyw (the heavenly scribe''s writing
-    kit). The hint''s link of a heavenly pen/scribe; no oath in Ezekiel.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Oath ''Nun. By the pen and what they inscribe'' (weight 6.7); A
     mark (tav) is put on the foreheads of those who sigh over the city''s abominations so the destroyers
@@ -102,6 +54,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A mark (tav) is put on the foreheads of those who sigh over the city's abominations so the destroyers
+  spare them
+kinds:
+- echo
+units:
+- id: hb-ezek-9-mark-on-foreheads
+  title: The six executioners and the man in linen who marks the foreheads
+  tradition: judaism
+- id: quran-68-qalam-the-pen-and-the-slanderer
+  title: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout'
+  tradition: islam
+matches:
+- kind: echo
+  label: A mark (tav) is put on the foreheads of those who sigh over the city's abominations so the destroyers
+    spare them
+  note: 'A divine mark on the face, with opposite meaning: sa-nasimuhu ʿalā l-khurṭūm (brand of shame
+    on the denier) ~ we-hitwîtā tāw ʿal miṣḥôt hā-ʾănāšîm ha-nneʾĕnāḥîm (mark of protection on the faithful).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 9:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אלו אֵלָ֔יו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ
+        תָּ֜ו עַל מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת
+        בְּתוֹכָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:16
+      lang: ar
+      text: سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+- kind: echo
+  label: Oath 'Nun. By the pen and what they inscribe'
+  note: 'weak: nūn wa-l-qalami wa-mā yasṭurūn ~ we-qeset ha-ssōfēr be-motnāyw (the heavenly scribe''s
+    writing kit). The hint''s link of a heavenly pen/scribe; no oath in Ezekiel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 9:2
+      lang: he
+      text: וְהִנֵּ֣ה שִׁשָּׁ֣ה אֲנָשִׁ֡ים בָּאִ֣ים מִדֶּרֶךְ שַׁ֨עַר הָעֶלְי֜וֹן אֲשֶׁ֣ר מָפְנֶ֣ה צָפ֗וֹנָה
+        וְאִ֨ישׁ כְּלִ֤י מַפָּצוֹ֙ בְּיָד֔וֹ וְאִישׁ אֶחָ֤ד בְּתוֹכָם֙ לָבֻ֣שׁ בַּדִּ֔ים וְקֶ֥סֶת הַסֹּפֵ֖ר
+        בְּמָתְנָ֑יו וַיָּבֹ֨אוּ֙ וַיַּ֣עַמְד֔וּ אֵ֖צֶל מִזְבַּ֥ח הַנְּחֹֽשֶׁת
+  - tradition: islam
+    passages:
+    - ref: Quran 68:1
+      lang: ar
+      text: نٓ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ
 ---
 
 ## Questions

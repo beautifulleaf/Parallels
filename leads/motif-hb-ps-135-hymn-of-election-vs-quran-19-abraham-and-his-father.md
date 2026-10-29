@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-19-abraham-and-his-father
 title: Psalm 135, hymn on God's power, election and the idols ↔ Abraham pleads with his father (Surah
   19:41-50)
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 135:15-17
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (135:15) עֲצַבֵּ֣י הַ֭גּוֹיִם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (135:16) פֶּֽה לָ֭הֶם
-    וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (135:17) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ
-    אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
-- tradition: judaism
-  ref: Ps 135:16
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Adds 'no breath (ruah) in their mouths')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
-- tradition: islam
-  ref: Quran 19:42
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى عَنكَ
-    شَيْـًٔا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʿênayim lāhem wəlōʾ yirʾû ʾoznayim lāhem wəlōʾ yaʾăzînû; mā lā yasmaʿu wa-lā yubṣir.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -74,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- parallel
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-19-abraham-and-his-father
+  title: Abraham pleads with his father (Surah 19:41-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: ʿênayim lāhem wəlōʾ yirʾû ʾoznayim lāhem wəlōʾ yaʾăzînû; mā lā yasmaʿu wa-lā yubṣir.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:16
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 135:17
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יַאֲזִ֑ינוּ אַ֝֗ף אֵין יֶשׁ ר֥וּחַ בְּפִיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 19:42
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ يَٰٓأَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِى
+        عَنكَ شَيْـًٔا
 ---
 
 ## Questions

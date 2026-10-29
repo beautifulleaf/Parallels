@@ -1,10 +1,7 @@
 ---
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-20-moses-pharaoh-magicians
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses and Aaron before Pharaoh; the contest with the magicians'
-summary: 'These two units share 4 motifs: the defeated magicians fall prostrate and declare faith in the
-  lord of moses and aaron [divergence between the texts], prophet delivers god''s demand ''let my people
-  go that they may serve me'', prophet''s wonders are imitated by the king''s magicians in a contest,
-  the king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -19,126 +16,9 @@ motifs:
 - let-my-people-go-demand
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 8:14
-  note: 'The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron [divergence
-    between the texts] (Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing
-    follows and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna
-    wa-Mūsā, and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi
-    l-ḥayāta d-dunyā. Exod''s limited acknowledgment becomes full conversion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
-    הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
-- tradition: judaism
-  ref: Exod 8:15
-  note: 'The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron [divergence
-    between the texts] (Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing
-    follows and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna
-    wa-Mūsā, and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi
-    l-ḥayāta d-dunyā. Exod''s limited acknowledgment becomes full conversion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
-    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 20:70
-  note: 'The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron [divergence
-    between the texts] (Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing
-    follows and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna
-    wa-Mūsā, and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi
-    l-ḥayāta d-dunyā. Exod''s limited acknowledgment becomes full conversion.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:71
-  note: 'The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron [divergence
-    between the texts] (Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing
-    follows and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna
-    wa-Mūsā, and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi
-    l-ḥayāta d-dunyā. Exod''s limited acknowledgment becomes full conversion.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ ٱلنَّخْلِ
-    وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
-- tradition: judaism
-  ref: Exod 7:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֣ אֵלָ֗יו יְהוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֨יךָ֙ לֵאמֹ֔ר שַׁלַּח֙ אֶת עַמִּ֔י
-    וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר וְהִנֵּ֥ה לֹא שָׁמַ֖עְתָּ עַד כֹּֽה
-- tradition: judaism
-  ref: Exod 7:26
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה שַׁלַּ֥ח
-    אֶת עַמִּ֖י וְיַֽעַבְדֻֽנִי
-- tradition: islam
-  ref: Quran 20:47
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('send the children of
-    Israel with us and do not torment them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ
-    قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
-- tradition: judaism
-  ref: Exod 7:22
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:3
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 20:57
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:58
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
-    نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
-- tradition: judaism
-  ref: Exod 7:22
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:11
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
-    כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 20:56
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    all the signs, he denied and refused)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing follows
-    and Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna wa-Mūsā,
-    and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi l-ḥayāta
-    d-dunyā. Exod''s limited acknowledgment becomes full conversion.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The defeated magicians fall prostrate and declare faith in the Lord
     of Moses and Aaron [divergence between the texts] (weight 6.7); Prophet delivers God''s demand ''Let
@@ -177,6 +57,121 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-7-plagues-blood-frogs-lice
+  title: 'Plagues 1-3: blood, frogs, lice'
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: divergence
+  label: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+  note: 'Exod: failing at the lice, the magicians concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, but nothing follows and
+    Pharaoh stays hard. Q: defeated at the staff, they fall prostrate, āmannā bi-rabbi Hārūna wa-Mūsā,
+    and become martyrs facing amputation and crucifixion, fa-qḍi mā anta qāḍin innamā taqḍī hādhihi l-ḥayāta
+    d-dunyā. Exod''s limited acknowledgment becomes full conversion.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:14
+      lang: he
+      text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+        הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:70
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سُجَّدًا قَالُوٓا۟ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ
+    - ref: Quran 20:71
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ فِى جُذُوعِ
+        ٱلنَّخْلِ وَلَتَعْلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابًا وَأَبْقَىٰ
+    - ref: Quran 20:72
+      lang: ar
+      text: قَالُوا۟ لَن نُّؤْثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلْبَيِّنَٰتِ وَٱلَّذِى فَطَرَنَا فَٱقْضِ
+        مَآ أَنتَ قَاضٍ إِنَّمَا تَقْضِى هَٰذِهِ ٱلْحَيَوٰةَ ٱلدُّنْيَآ
+- kind: shared
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:16
+      lang: he
+      text: וְאָמַרְתָּ֣ אֵלָ֗יו יְהוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֨יךָ֙ לֵאמֹ֔ר שַׁלַּח֙ אֶת
+        עַמִּ֔י וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר וְהִנֵּ֥ה לֹא שָׁמַ֖עְתָּ עַד כֹּֽה
+    - ref: Exod 7:26
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה
+        שַׁלַּ֥ח אֶת עַמִּ֖י וְיַֽעַבְדֻֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 20:47
+      lang: ar
+      text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا
+        تُعَذِّبْهُمْ قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
+    note: '''send the children of Israel with us and do not torment them'''
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:22
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
+        אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:3
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 8:14
+      lang: he
+      text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+        הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:57
+      lang: ar
+      text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
+    - ref: Quran 20:58
+      lang: ar
+      text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
+        نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+    - ref: Quran 20:60
+      lang: ar
+      text: فَتَوَلَّىٰ فِرْعَوْنُ فَجَمَعَ كَيْدَهُۥ ثُمَّ أَتَىٰ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:22
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
+        אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:11
+      lang: he
+      text: וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם
+        כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+    note: shown all the signs, he denied and refused
 ---
 
 ## Questions

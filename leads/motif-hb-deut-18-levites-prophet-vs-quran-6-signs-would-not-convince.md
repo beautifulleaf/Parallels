@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-6-signs-would-not-convince
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Sworn oaths for a sign; even the
   dead speaking would not convince
-summary: 'These two units share 1 motifs: whether the dead may be consulted, or would persuade the living
-  if they spoke [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - the-dead-as-source-of-knowledge-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 18:11
-  note: 'Whether the dead may be consulted, or would persuade the living if they spoke [contrast between
-    the texts] (The speaking dead. Deut forbids seeking them: wə-šōʾēl ʾôv wə-yiddəʿōnî wə-dōrēš ʾel-ham-mētîm.
-    Q: wa-law annanā nazzalnā ilayhimu l-malāʾikata wa-kallamahumu l-mawtā ... mā kānū li-yuʾminū. Even
-    if the dead spoke unbidden, they would not convince. Deut shuts the dead out as a source; Q denies
-    they would persuade.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחֹבֵ֖ר חָ֑בֶר וְשֹׁאֵ֥ל אוֹב֙ וְיִדְּעֹנִ֔י וְדֹרֵ֖שׁ אֶל הַמֵּתִֽים
-- tradition: islam
-  ref: Quran 6:111
-  note: 'Whether the dead may be consulted, or would persuade the living if they spoke [contrast between
-    the texts] (The speaking dead. Deut forbids seeking them: wə-šōʾēl ʾôv wə-yiddəʿōnî wə-dōrēš ʾel-ham-mētîm.
-    Q: wa-law annanā nazzalnā ilayhimu l-malāʾikata wa-kallamahumu l-mawtā ... mā kānū li-yuʾminū. Even
-    if the dead spoke unbidden, they would not convince. Deut shuts the dead out as a source; Q denies
-    they would persuade.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا عَلَيْهِمْ
-    كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَٰكِنَّ أَكْثَرَهُمْ
-    يَجْهَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. The speaking dead. Deut forbids seeking them: wə-šōʾēl ʾôv wə-yiddəʿōnî wə-dōrēš ʾel-ham-mētîm.
-    Q: wa-law annanā nazzalnā ilayhimu l-malāʾikata wa-kallamahumu l-mawtā ... mā kānū li-yuʾminū. Even
-    if the dead spoke unbidden, they would not convince. Deut shuts the dead out as a source; Q denies
-    they would persuade.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the dead may be consulted, or would persuade the living
     if they spoke [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -76,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the dead may be consulted, or would persuade the living if they spoke
+kinds:
+- contrast
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-6-signs-would-not-convince
+  title: Sworn oaths for a sign; even the dead speaking would not convince
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the dead may be consulted, or would persuade the living if they spoke
+  note: 'The speaking dead. Deut forbids seeking them: wə-šōʾēl ʾôv wə-yiddəʿōnî wə-dōrēš ʾel-ham-mētîm.
+    Q: wa-law annanā nazzalnā ilayhimu l-malāʾikata wa-kallamahumu l-mawtā ... mā kānū li-yuʾminū. Even
+    if the dead spoke unbidden, they would not convince. Deut shuts the dead out as a source; Q denies
+    they would persuade.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:11
+      lang: he
+      text: וְחֹבֵ֖ר חָ֑בֶר וְשֹׁאֵ֥ל אוֹב֙ וְיִדְּעֹנִ֔י וְדֹרֵ֖שׁ אֶל הַמֵּתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 6:111
+      lang: ar
+      text: وَلَوْ أَنَّنَا نَزَّلْنَآ إِلَيْهِمُ ٱلْمَلَٰٓئِكَةَ وَكَلَّمَهُمُ ٱلْمَوْتَىٰ وَحَشَرْنَا
+        عَلَيْهِمْ كُلَّ شَىْءٍ قُبُلًا مَّا كَانُوا۟ لِيُؤْمِنُوٓا۟ إِلَّآ أَن يَشَآءَ ٱللَّهُ وَلَٰكِنَّ
+        أَكْثَرَهُمْ يَجْهَلُونَ
 ---
 
 ## Questions

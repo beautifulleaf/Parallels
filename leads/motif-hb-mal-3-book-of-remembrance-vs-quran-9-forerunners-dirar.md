@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-9-forerunners-dirar
 title: The book of remembrance and the sun of righteousness ↔ The forerunners, alms that purify, and the
   mosque of harm
-summary: 'These two units share 1 motifs: a book of remembrance is written before god for those who fear
-  him and think on his name.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - book-of-remembrance-for-god-fearers
-passages:
-- tradition: judaism
-  ref: Mal 3:16
-  note: A book of remembrance is written before God for those who fear him and think on his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
-    סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
-- tradition: judaism
-  ref: Mal 3:18
-  note: A book of remembrance is written before God for those who fear him and think on his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א עֲבָדֽוֹ
-- tradition: islam
-  ref: Quran 9:105
-  note: 'A book of remembrance is written before God for those who fear him and think on his name (God
-    sees and records deeds and will distinguish: fa-sa-yarā llāhu ʿamalakum ... wa-saturaddūna ilā ʿālimi
-    l-ghaybi wa-sh-shahāda vs wayyaqšēb YHWH wayyišmāʿ wayyikkātēb sēper zikkārôn lᵉpānāyw ...; wᵉšabtem
-    ûrᵉʾîtem bên ṣaddîq lᵉrāšāʿ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ وَسَتُرَدُّونَ إِلَىٰ
-    عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God sees and records deeds and will distinguish: fa-sa-yarā llāhu ʿamalakum ... wa-saturaddūna
-    ilā ʿālimi l-ghaybi wa-sh-shahāda vs wayyaqšēb YHWH wayyišmāʿ wayyikkātēb sēper zikkārôn lᵉpānāyw
-    ...; wᵉšabtem ûrᵉʾîtem bên ṣaddîq lᵉrāšāʿ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A book of remembrance is written before God for those who fear him
     and think on his name (weight 6.7). Pair score 6.7.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A book of remembrance is written before God for those who fear him and think on his name
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-9-forerunners-dirar
+  title: The forerunners, alms that purify, and the mosque of harm
+  tradition: islam
+matches:
+- kind: echo
+  label: A book of remembrance is written before God for those who fear him and think on his name
+  note: 'God sees and records deeds and will distinguish: fa-sa-yarā llāhu ʿamalakum ... wa-saturaddūna
+    ilā ʿālimi l-ghaybi wa-sh-shahāda vs wayyaqšēb YHWH wayyišmāʿ wayyikkātēb sēper zikkārôn lᵉpānāyw
+    ...; wᵉšabtem ûrᵉʾîtem bên ṣaddîq lᵉrāšāʿ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:16
+      lang: he
+      text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
+        סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
+    - ref: Mal 3:18
+      lang: he
+      text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א
+        עֲבָדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:105
+      lang: ar
+      text: وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ وَسَتُرَدُّونَ
+        إِلَىٰ عَٰلِمِ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

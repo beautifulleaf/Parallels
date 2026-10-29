@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-7-primordial-covenant
 title: Sour grapes - individual responsibility and repentance ↔ The primordial covenant ("Am I not your
   Lord?")
-summary: 'These two units share 1 motifs: no one may excuse himself on judgment day because his ancestors
-  associated partners.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - no-excuse-from-ancestors-sin
-passages:
-- tradition: judaism
-  ref: Ezek 18:2
-  note: 'No one may excuse himself on judgment day because his ancestors associated partners (Both reject
-    an appeal to the fathers'' sin: a-fa-tuhlikunā bi-mā faʿala l-mubṭilūn (our fathers associated others
-    with God) vs ʾābôt yōʾkᵉlû bōser wᵉšinnê habbānîm tiqhênāh, answered by bēn lōʾ-yiśśāʾ baʿăwōn hāʾāb.
-    In Ezek the sons complain that they suffer for their fathers; in Q they would plead their fathers
-    to excuse their own idolatry.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַה לָּכֶ֗ם אַתֶּם֙ מֹֽשְׁלִים֙ אֶת הַמָּשָׁ֣ל הַזֶּ֔ה עַל אַדְמַ֥ת יִשְׂרָאֵ֖ל לֵאמֹ֑ר אָבוֹת֙
-    יֹ֣אכְלוּ בֹ֔סֶר וְשִׁנֵּ֥י הַבָּנִ֖ים תִּקְהֶֽינָה
-- tradition: judaism
-  ref: Ezek 18:20
-  note: 'No one may excuse himself on judgment day because his ancestors associated partners (Both reject
-    an appeal to the fathers'' sin: a-fa-tuhlikunā bi-mā faʿala l-mubṭilūn (our fathers associated others
-    with God) vs ʾābôt yōʾkᵉlû bōser wᵉšinnê habbānîm tiqhênāh, answered by bēn lōʾ-yiśśāʾ baʿăwōn hāʾāb.
-    In Ezek the sons complain that they suffer for their fathers; in Q they would plead their fathers
-    to excuse their own idolatry.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: islam
-  ref: Quran 7:173
-  note: No one may excuse himself on judgment day because his ancestors associated partners
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ
-    أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Both reject an appeal to the fathers'' sin: a-fa-tuhlikunā bi-mā faʿala l-mubṭilūn (our fathers
-    associated others with God) vs ʾābôt yōʾkᵉlû bōser wᵉšinnê habbānîm tiqhênāh, answered by bēn lōʾ-yiśśāʾ
-    baʿăwōn hāʾāb. In Ezek the sons complain that they suffer for their fathers; in Q they would plead
-    their fathers to excuse their own idolatry.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one may excuse himself on judgment day because his ancestors
     associated partners (weight 6.7). Pair score 6.7.'
@@ -84,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one may excuse himself on judgment day because his ancestors associated partners
+kinds:
+- echo
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-7-primordial-covenant
+  title: The primordial covenant ("Am I not your Lord?")
+  tradition: islam
+matches:
+- kind: echo
+  label: No one may excuse himself on judgment day because his ancestors associated partners
+  note: 'Both reject an appeal to the fathers'' sin: a-fa-tuhlikunā bi-mā faʿala l-mubṭilūn (our fathers
+    associated others with God) vs ʾābôt yōʾkᵉlû bōser wᵉšinnê habbānîm tiqhênāh, answered by bēn lōʾ-yiśśāʾ
+    baʿăwōn hāʾāb. In Ezek the sons complain that they suffer for their fathers; in Q they would plead
+    their fathers to excuse their own idolatry.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:2
+      lang: he
+      text: מַה לָּכֶ֗ם אַתֶּם֙ מֹֽשְׁלִים֙ אֶת הַמָּשָׁ֣ל הַזֶּ֔ה עַל אַדְמַ֥ת יִשְׂרָאֵ֖ל לֵאמֹ֑ר אָבוֹת֙
+        יֹ֣אכְלוּ בֹ֔סֶר וְשִׁנֵּ֥י הַבָּנִ֖ים תִּקְהֶֽינָה
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:173
+      lang: ar
+      text: أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ
+        أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
 ---
 
 ## Questions

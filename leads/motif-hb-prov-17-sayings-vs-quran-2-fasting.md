@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-17-sayings-vs-quran-2-fasting
 title: Sayings on strife, bribes, friends and the silent fool ↔ The fast of Ramadan
-summary: 'These two units share 1 motifs: the wicked takes a bribe from the bosom to pervert the ways
-  of justice.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - bribe-from-bosom-perverts-justice
-passages:
-- tradition: judaism
-  ref: Prov 17:23
-  note: The wicked takes a bribe from the bosom to pervert the ways of justice
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֹׁ֣חַד מֵ֭חֵיק רָשָׁ֣ע יִקָּ֑ח לְ֝הַטּ֗וֹת אָרְח֥וֹת מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 2:188
-  note: The wicked takes a bribe from the bosom to pervert the ways of justice (do not offer your wealth
-    to judges to devour others' property)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟
-    فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 17:23 šōḥad mē-ḥêq rāšāʿ yiqqāḥ lĕhaṭṭôt ʾorḥôt mišpāṭ; Q 2:188 wa-tudlū bihā ilā l-ḥukkāmi
-    li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm: the bribe that bends judgment. Proverbs blames the
-    taker; the Quran forbids the giver.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wicked takes a bribe from the bosom to pervert the ways of justice
     (weight 6.7). Pair score 6.7.'
@@ -68,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wicked takes a bribe from the bosom to pervert the ways of justice
+kinds:
+- parallel
+units:
+- id: hb-prov-17-sayings
+  title: Sayings on strife, bribes, friends and the silent fool
+  tradition: judaism
+- id: quran-2-fasting
+  title: The fast of Ramadan
+  tradition: islam
+matches:
+- kind: parallel
+  label: The wicked takes a bribe from the bosom to pervert the ways of justice
+  note: 'Prov 17:23 šōḥad mē-ḥêq rāšāʿ yiqqāḥ lĕhaṭṭôt ʾorḥôt mišpāṭ; Q 2:188 wa-tudlū bihā ilā l-ḥukkāmi
+    li-taʾkulū farīqan min amwāli n-nāsi bi-l-ithm: the bribe that bends judgment. Proverbs blames the
+    taker; the Quran forbids the giver.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 17:23
+      lang: he
+      text: שֹׁ֣חַד מֵ֭חֵיק רָשָׁ֣ע יִקָּ֑ח לְ֝הַטּ֗וֹת אָרְח֥וֹת מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 2:188
+      lang: ar
+      text: وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ
+        لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

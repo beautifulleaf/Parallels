@@ -2,8 +2,7 @@
 id: motif-hb-exod-21-bodily-injury-vs-quran-3-food-bakka
 title: Covenant Code - homicide, injury and the goring ox ↔ Israel's self-imposed food law and the House
   at Bakka
-summary: 'These two units share 1 motifs: whether one who takes refuge at the sanctuary is safe [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - asylum-at-the-sanctuary-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 21:14
-  note: 'Whether one who takes refuge at the sanctuary is safe [contrast between the texts] (Exod 21:14
-    wĕ-kî yāzid ʾîš ʿal rēʿēhû lĕhorgô bĕ-ʿormâ mē-ʿim mizbĕḥî tiqqāḥennû lāmût: even from God''s altar
-    the deliberate murderer is taken to die; Q 3:97 wa-man dakhalahu kāna āminan: whoever enters the House
-    is safe, with no exception stated.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי יָזִ֥ד אִ֛ישׁ עַל רֵעֵ֖הוּ לְהָרְג֣וֹ בְעָרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת
-- tradition: islam
-  ref: Quran 3:97
-  note: 'Whether one who takes refuge at the sanctuary is safe [contrast between the texts] (Exod 21:14
-    wĕ-kî yāzid ʾîš ʿal rēʿēhû lĕhorgô bĕ-ʿormâ mē-ʿim mizbĕḥî tiqqāḥennû lāmût: even from God''s altar
-    the deliberate murderer is taken to die; Q 3:97 wa-man dakhalahu kāna āminan: whoever enters the House
-    is safe, with no exception stated.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ عَلَى
-    ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ
-    ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Exod 21:14 wĕ-kî yāzid ʾîš ʿal rēʿēhû lĕhorgô bĕ-ʿormâ mē-ʿim mizbĕḥî tiqqāḥennû lāmût:
-    even from God''s altar the deliberate murderer is taken to die; Q 3:97 wa-man dakhalahu kāna āminan:
-    whoever enters the House is safe, with no exception stated.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether one who takes refuge at the sanctuary is safe [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -73,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether one who takes refuge at the sanctuary is safe
+kinds:
+- contrast
+units:
+- id: hb-exod-21-bodily-injury
+  title: Covenant Code - homicide, injury and the goring ox
+  tradition: judaism
+- id: quran-3-food-bakka
+  title: Israel's self-imposed food law and the House at Bakka
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether one who takes refuge at the sanctuary is safe
+  note: 'Exod 21:14 wĕ-kî yāzid ʾîš ʿal rēʿēhû lĕhorgô bĕ-ʿormâ mē-ʿim mizbĕḥî tiqqāḥennû lāmût: even
+    from God''s altar the deliberate murderer is taken to die; Q 3:97 wa-man dakhalahu kāna āminan: whoever
+    enters the House is safe, with no exception stated.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:14
+      lang: he
+      text: וְכִֽי יָזִ֥ד אִ֛ישׁ עַל רֵעֵ֖הוּ לְהָרְג֣וֹ בְעָרְמָ֑ה מֵעִ֣ם מִזְבְּחִ֔י תִּקָּחֶ֖נּוּ לָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:97
+      lang: ar
+      text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ
+        عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ
+        غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

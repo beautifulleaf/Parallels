@@ -2,8 +2,7 @@
 id: motif-hb-judg-19-levites-concubine-vs-quran-15-abraham-guests-lot
 title: The Levite's concubine at Gibeah ↔ Abraham's guests and the destruction of Lot's people (Surah
   15:51-77)
-summary: 'These two units share 2 motifs: townsmen surround the house and demand the male guest for sexual
-  abuse, host offers his virgin daughters to the mob to protect his guests.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,64 +16,9 @@ layers:
 motifs:
 - mob-demands-guest
 - host-offers-daughters
-passages:
-- tradition: judaism
-  ref: Judg 19:22
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('sons of Belial' ... 'that
-    we may know him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵמָּה֮ מֵיטִיבִ֣ים אֶת לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי בְלִיַּ֗עַל נָסַ֨בּוּ֙
-    אֶת הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙
-    לֵאמֹ֔ר הוֹצֵ֗א אֶת הָאִ֛ישׁ אֲשֶׁר בָּ֥א אֶל בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ
-- tradition: judaism
-  ref: Judg 19:23
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('sons of Belial' ... 'that
-    we may know him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ נָ֑א
-    אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 15:67
-  note: Townsmen surround the house and demand the male guest for sexual abuse (the townsmen come rejoicing
-    (yastabshirūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
-- tradition: islam
-  ref: Quran 15:68
-  note: Townsmen surround the house and demand the male guest for sexual abuse (the townsmen come rejoicing
-    (yastabshirūn))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
-- tradition: judaism
-  ref: Judg 19:23
-  note: Host offers his virgin daughters to the mob to protect his guests
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ נָ֑א
-    אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: judaism
-  ref: Judg 19:24
-  note: Host offers his virgin daughters to the mob to protect his guests
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם וַעֲשׂ֣וּ
-    לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 15:71
-  note: Host offers his virgin daughters to the mob to protect his guests (hāʾulāʾi banātī)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. nāsabbû ʾet-habbayit ... hôṣēʾ ʾet-hāʾîš ... wənēdāʿennû; ʾal-ʾaḥay ʾal-tārēʿû nāʾ ... hinnēh
-    bittî habbətûlâ ûpîlagšēhû; hāʾulāʾi ḍayfī fa-lā tafḍaḥūn ... hāʾulāʾi banātī: the townsmen demand
-    the guest and the host offers his daughter(s). Judg carries the outrage through (to the concubine);
-    Q''s Lot story ends in the town''s destruction.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Townsmen surround the house and demand the male guest for sexual
     abuse (weight 6.0); Host offers his virgin daughters to the mob to protect his guests (weight 6.0).
@@ -105,6 +49,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Townsmen surround the house and demand the male guest for sexual abuse
+kinds:
+- parallel
+- shared
+units:
+- id: hb-judg-19-levites-concubine
+  title: The Levite's concubine at Gibeah
+  tradition: judaism
+- id: quran-15-abraham-guests-lot
+  title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Townsmen surround the house and demand the male guest for sexual abuse
+  note: 'nāsabbû ʾet-habbayit ... hôṣēʾ ʾet-hāʾîš ... wənēdāʿennû; ʾal-ʾaḥay ʾal-tārēʿû nāʾ ... hinnēh
+    bittî habbətûlâ ûpîlagšēhû; hāʾulāʾi ḍayfī fa-lā tafḍaḥūn ... hāʾulāʾi banātī: the townsmen demand
+    the guest and the host offers his daughter(s). Judg carries the outrage through (to the concubine);
+    Q''s Lot story ends in the town''s destruction.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 19:22
+      lang: he
+      text: הֵמָּה֮ מֵיטִיבִ֣ים אֶת לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי בְלִיַּ֗עַל נָסַ֨בּוּ֙
+        אֶת הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙
+        לֵאמֹ֔ר הוֹצֵ֗א אֶת הָאִ֛ישׁ אֲשֶׁר בָּ֥א אֶל בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ
+    - ref: Judg 19:23
+      lang: he
+      text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ
+        נָ֑א אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
+    - ref: Judg 19:24
+      lang: he
+      text: הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה
+        הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 15:67
+      lang: ar
+      text: وَجَآءَ أَهْلُ ٱلْمَدِينَةِ يَسْتَبْشِرُونَ
+    - ref: Quran 15:68
+      lang: ar
+      text: قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيْفِى فَلَا تَفْضَحُونِ
+    - ref: Quran 15:71
+      lang: ar
+      text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
+- kind: shared
+  label: Host offers his virgin daughters to the mob to protect his guests
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 19:23
+      lang: he
+      text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ
+        נָ֑א אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
+    - ref: Judg 19:24
+      lang: he
+      text: הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה
+        הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 15:71
+      lang: ar
+      text: قَالَ هَٰٓؤُلَآءِ بَنَاتِىٓ إِن كُنتُمْ فَٰعِلِينَ
+    note: hāʾulāʾi banātī
 ---
 
 ## Questions

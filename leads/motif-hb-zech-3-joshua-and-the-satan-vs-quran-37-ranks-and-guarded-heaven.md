@@ -2,8 +2,7 @@
 id: motif-hb-zech-3-joshua-and-the-satan-vs-quran-37-ranks-and-guarded-heaven
 title: Fourth vision, the high priest, the satan and the Branch ↔ The ranks, the guarded heaven and the
   shooting stars
-summary: 'These two units share 2 motifs: the satan or the devils are rebuked and driven off in the heavenly
-  realm, god enthroned with the host of heaven standing at his right and left deliberates.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,73 +15,9 @@ layers:
 motifs:
 - adversary-rebuked-in-heavenly-court
 - divine-council-scene
-passages:
-- tradition: judaism
-  ref: Zech 3:1
-  note: 'The satan or the devils are rebuked and driven off in the heavenly realm (yiḡʿar YHWH bəḵā ha-śśāṭān
-    (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti zajran ... wa-ḥifẓan min kulli shayṭānin
-    mārid: the satan or devils rebuked or driven off in the heavenly realm. gāʿar and zajara both mean
-    ''rebuke, drive off''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְאֵ֗נִי אֶת יְהוֹשֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן
-    עֹמֵ֥ד עַל יְמִינ֖וֹ לְשִׂטְנֽוֹ
-- tradition: judaism
-  ref: Zech 3:2
-  note: 'The satan or the devils are rebuked and driven off in the heavenly realm (yiḡʿar YHWH bəḵā ha-śśāṭān
-    (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti zajran ... wa-ḥifẓan min kulli shayṭānin
-    mārid: the satan or devils rebuked or driven off in the heavenly realm. gāʿar and zajara both mean
-    ''rebuke, drive off''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔
-    הַבֹּחֵ֖ר בִּירֽוּשָׁלִָ֑ם הֲל֧וֹא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ
-- tradition: islam
-  ref: Quran 37:2
-  note: 'The satan or the devils are rebuked and driven off in the heavenly realm (yiḡʿar YHWH bəḵā ha-śśāṭān
-    (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti zajran ... wa-ḥifẓan min kulli shayṭānin
-    mārid: the satan or devils rebuked or driven off in the heavenly realm. gāʿar and zajara both mean
-    ''rebuke, drive off''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلزَّٰجِرَٰتِ زَجْرًا
-- tradition: islam
-  ref: Quran 37:7
-  note: 'The satan or the devils are rebuked and driven off in the heavenly realm (yiḡʿar YHWH bəḵā ha-śśāṭān
-    (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti zajran ... wa-ḥifẓan min kulli shayṭānin
-    mārid: the satan or devils rebuked or driven off in the heavenly realm. gāʿar and zajara both mean
-    ''rebuke, drive off''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ
-- tradition: judaism
-  ref: Zech 3:1
-  note: God enthroned with the host of heaven standing at his right and left deliberates ('those standing
-    before him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְאֵ֗נִי אֶת יְהוֹשֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן
-    עֹמֵ֥ד עַל יְמִינ֖וֹ לְשִׂטְנֽוֹ
-- tradition: judaism
-  ref: Zech 3:4
-  note: God enthroned with the host of heaven standing at his right and left deliberates ('those standing
-    before him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַן וַיֹּ֗אמֶר אֶל הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו
-    וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֨יךָ֙ עֲוֺנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת
-- tradition: islam
-  ref: Quran 37:8
-  note: God enthroned with the host of heaven standing at his right and left deliberates ('the Exalted
-    Assembly' (al-mala' al-a'la))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yiḡʿar YHWH bəḵā ha-śśāṭān (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti
-    zajran ... wa-ḥifẓan min kulli shayṭānin mārid: the satan or devils rebuked or driven off in the heavenly
-    realm. gāʿar and zajara both mean ''rebuke, drive off''.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The satan or the devils are rebuked and driven off in the heavenly
     realm (weight 6.7); God enthroned with the host of heaven standing at his right and left deliberates
@@ -117,6 +52,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The satan or the devils are rebuked and driven off in the heavenly realm
+kinds:
+- echo
+- shared
+units:
+- id: hb-zech-3-joshua-and-the-satan
+  title: Fourth vision, the high priest, the satan and the Branch
+  tradition: judaism
+- id: quran-37-ranks-and-guarded-heaven
+  title: The ranks, the guarded heaven and the shooting stars
+  tradition: islam
+matches:
+- kind: echo
+  label: The satan or the devils are rebuked and driven off in the heavenly realm
+  note: 'yiḡʿar YHWH bəḵā ha-śśāṭān (YHWH rebuke you, satan) in the heavenly court vs. fa-z-zājirāti zajran
+    ... wa-ḥifẓan min kulli shayṭānin mārid: the satan or devils rebuked or driven off in the heavenly
+    realm. gāʿar and zajara both mean ''rebuke, drive off''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 3:1
+      lang: he
+      text: וַיַּרְאֵ֗נִי אֶת יְהוֹשֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן
+        עֹמֵ֥ד עַל יְמִינ֖וֹ לְשִׂטְנֽוֹ
+    - ref: Zech 3:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔
+        הַבֹּחֵ֖ר בִּירֽוּשָׁלִָ֑ם הֲל֧וֹא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:2
+      lang: ar
+      text: فَٱلزَّٰجِرَٰتِ زَجْرًا
+    - ref: Quran 37:7
+      lang: ar
+      text: وَحِفْظًا مِّن كُلِّ شَيْطَٰنٍ مَّارِدٍ
+- kind: shared
+  label: God enthroned with the host of heaven standing at his right and left deliberates
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 3:1
+      lang: he
+      text: וַיַּרְאֵ֗נִי אֶת יְהוֹשֻׁ֨עַ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל עֹמֵ֕ד לִפְנֵ֖י מַלְאַ֣ךְ יְהוָ֑ה וְהַשָּׂטָ֛ן
+        עֹמֵ֥ד עַל יְמִינ֖וֹ לְשִׂטְנֽוֹ
+    - ref: Zech 3:4
+      lang: he
+      text: וַיַּ֣עַן וַיֹּ֗אמֶר אֶל הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו
+        וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֨יךָ֙ עֲוֺנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת
+    - ref: Zech 3:7
+      lang: he
+      text: כֹּה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אִם בִּדְרָכַ֤י תֵּלֵךְ֙ וְאִ֣ם אֶת מִשְׁמַרְתִּ֣י תִשְׁמֹ֔ר
+        וְגַם אַתָּה֙ תָּדִ֣ין אֶת בֵּיתִ֔י וְגַ֖ם תִּשְׁמֹ֣ר אֶת חֲצֵרָ֑י וְנָתַתִּ֤י לְךָ֙ מַהְלְכִ֔ים
+        בֵּ֥ין הָעֹמְדִ֖ים הָאֵֽלֶּה
+    note: '''those standing before him'''
+  - tradition: islam
+    passages:
+    - ref: Quran 37:8
+      lang: ar
+      text: لَّا يَسَّمَّعُونَ إِلَى ٱلْمَلَإِ ٱلْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ
+    note: '''the Exalted Assembly'' (al-mala'' al-a''la)'
 ---
 
 ## Questions

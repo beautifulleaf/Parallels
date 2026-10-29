@@ -2,8 +2,7 @@
 id: motif-hb-exod-37-ark-table-lampstand-made-vs-quran-34-david-solomon
 title: Bezalel makes the ark, table, lampstand and incense altar ↔ David's mountains and mail; Solomon's
   wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: two golden cherubim face each other with wings spread over the
-  ark.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - two-cherubim-facing-with-spread-wings
-passages:
-- tradition: judaism
-  ref: Exod 37:7
-  note: Two golden cherubim face each other with wings spread over the ark
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת
-- tradition: judaism
-  ref: Exod 37:8
-  note: Two golden cherubim face each other with wings spread over the ark
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּרוּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן הַכַּפֹּ֛רֶת עָשָׂ֥ה אֶת
-    הַכְּרֻבִ֖ים מִשְּׁנֵ֥י קצוותו קְצוֹתָֽיו
-- tradition: islam
-  ref: Quran 34:13
-  note: Two golden cherubim face each other with wings spread over the ark ('statues' (tamathil) made
-    for Solomon)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. šənê ḵərūḇîm zāhāḇ ... pōrəśê ḵənāp̄ayim ... û-p̄ənêhem ʾîš ʾel-ʾāḥîw vs. wa-tamāthīl among
-    the works made for Solomon. The Quran names figures (tamāthīl) in a sanctuary context without objecting
-    to them. Identification with the cherubim is the tagger''s proposal.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Two golden cherubim face each other with wings spread over the ark
     (weight 5.4). Pair score 5.4.'
@@ -73,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Two golden cherubim face each other with wings spread over the ark
+kinds:
+- echo
+units:
+- id: hb-exod-37-ark-table-lampstand-made
+  title: Bezalel makes the ark, table, lampstand and incense altar
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: Two golden cherubim face each other with wings spread over the ark
+  note: šənê ḵərūḇîm zāhāḇ ... pōrəśê ḵənāp̄ayim ... û-p̄ənêhem ʾîš ʾel-ʾāḥîw vs. wa-tamāthīl among the
+    works made for Solomon. The Quran names figures (tamāthīl) in a sanctuary context without objecting
+    to them. Identification with the cherubim is the tagger's proposal.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 37:7
+      lang: he
+      text: וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת
+    - ref: Exod 37:9
+      lang: he
+      text: וַיִּהְי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹֽכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל הַכַּפֹּ֔רֶת
+        וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל אָחִ֑יו אֶל הַכַּפֹּ֔רֶת הָי֖וּ פְּנֵ֥י הַכְּרֻבִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 34:13
+      lang: ar
+      text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ
+        رَّاسِيَٰتٍ ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
 ---
 
 ## Questions

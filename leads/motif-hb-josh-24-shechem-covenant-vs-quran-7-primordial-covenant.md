@@ -2,7 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-7-primordial-covenant
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ The
   primordial covenant ("Am I not your Lord?")
-summary: 'These two units share 1 motifs: the people are made witnesses against themselves to their choice.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - people-witnesses-against-themselves
-passages:
-- tradition: judaism
-  ref: Josh 24:22
-  note: The people are made witnesses against themselves to their choice
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל הָעָ֗ם עֵדִ֤ים אַתֶּם֙ בָּכֶ֔ם כִּֽי אַתֶּ֞ם בְּחַרְתֶּ֥ם לָכֶ֛ם אֶת
-    יְהוָ֖ה לַעֲבֹ֣ד אוֹת֑וֹ וַיֹּאמְר֖וּ עֵדִֽים
-- tradition: islam
-  ref: Quran 7:172
-  note: 'The people are made witnesses against themselves to their choice (The covenanting party is made
-    its own witness and answers with one word: wa-ashhadahum ʿalā anfusihim a-lastu bi-rabbikum qālū balā
-    shahidnā vs ʿēdîm ʾattem bākem kî-ʾattem bᵉḥartem lākem ʾet-YHWH ... wayyōʾmᵉrû ʿēdîm. In both the
-    testimony removes any later excuse.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ
-    أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّا
-    كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The covenanting party is made its own witness and answers with one word: wa-ashhadahum ʿalā
-    anfusihim a-lastu bi-rabbikum qālū balā shahidnā vs ʿēdîm ʾattem bākem kî-ʾattem bᵉḥartem lākem ʾet-YHWH
-    ... wayyōʾmᵉrû ʿēdîm. In both the testimony removes any later excuse.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people are made witnesses against themselves to their choice
     (weight 6.7). Pair score 6.7.'
@@ -69,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people are made witnesses against themselves to their choice
+kinds:
+- parallel
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-7-primordial-covenant
+  title: The primordial covenant ("Am I not your Lord?")
+  tradition: islam
+matches:
+- kind: parallel
+  label: The people are made witnesses against themselves to their choice
+  note: 'The covenanting party is made its own witness and answers with one word: wa-ashhadahum ʿalā anfusihim
+    a-lastu bi-rabbikum qālū balā shahidnā vs ʿēdîm ʾattem bākem kî-ʾattem bᵉḥartem lākem ʾet-YHWH ...
+    wayyōʾmᵉrû ʿēdîm. In both the testimony removes any later excuse.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:22
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל הָעָ֗ם עֵדִ֤ים אַתֶּם֙ בָּכֶ֔ם כִּֽי אַתֶּ֞ם בְּחַרְתֶּ֥ם לָכֶ֛ם
+        אֶת יְהוָ֖ה לַעֲבֹ֣ד אוֹת֑וֹ וַיֹּאמְר֖וּ עֵדִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 7:172
+      lang: ar
+      text: وَإِذْ أَخَذَ رَبُّكَ مِنۢ بَنِىٓ ءَادَمَ مِن ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَىٰٓ
+        أَنفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا۟ بَلَىٰ شَهِدْنَآ أَن تَقُولُوا۟ يَوْمَ ٱلْقِيَٰمَةِ
+        إِنَّا كُنَّا عَنْ هَٰذَا غَٰفِلِينَ
 ---
 
 ## Questions

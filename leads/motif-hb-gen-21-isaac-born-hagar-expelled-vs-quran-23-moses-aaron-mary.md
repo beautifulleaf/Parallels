@@ -2,7 +2,7 @@
 id: motif-hb-gen-21-isaac-born-hagar-expelled-vs-quran-23-moses-aaron-mary
 title: Birth of Isaac and expulsion of Hagar and Ishmael ↔ Moses and Aaron rejected; the son of Mary and
   his mother on a height
-summary: 'These two units share 1 motifs: a spring or stream appears for the mother.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - miraculous-spring
-passages:
-- tradition: judaism
-  ref: Gen 21:19
-  note: A spring or stream appears for the mother (for the outcast mother; vocab motif defined for Mary,
-    fits structurally)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
-    מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
-- tradition: islam
-  ref: Quran 23:50
-  note: A spring or stream appears for the mother (maʿīn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ
-    وَمَعِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-āwaynāhumā ilā rabwatin dhāti qarārin wa-maʿīnin ~ wa-yyifqaḥ ʾĕlōhîm ʾet ʿênêhā wat-tēreʾ
-    bəʾēr māyim: a mother and her son, outcasts, are given water by God. Hagar and Ishmael in the wilderness
-    of Beersheba; in the Quran Mary and Jesus on a height with a spring.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A spring or stream appears for the mother (weight 5.6). Pair score
     5.6.'
@@ -65,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A spring or stream appears for the mother
+kinds:
+- echo
+units:
+- id: hb-gen-21-isaac-born-hagar-expelled
+  title: Birth of Isaac and expulsion of Hagar and Ishmael
+  tradition: judaism
+- id: quran-23-moses-aaron-mary
+  title: Moses and Aaron rejected; the son of Mary and his mother on a height
+  tradition: islam
+matches:
+- kind: echo
+  label: A spring or stream appears for the mother
+  note: 'wa-āwaynāhumā ilā rabwatin dhāti qarārin wa-maʿīnin ~ wa-yyifqaḥ ʾĕlōhîm ʾet ʿênêhā wat-tēreʾ
+    bəʾēr māyim: a mother and her son, outcasts, are given water by God. Hagar and Ishmael in the wilderness
+    of Beersheba; in the Quran Mary and Jesus on a height with a spring.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:19
+      lang: he
+      text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
+        מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
+  - tradition: islam
+    passages:
+    - ref: Quran 23:50
+      lang: ar
+      text: وَجَعَلْنَا ٱبْنَ مَرْيَمَ وَأُمَّهُۥٓ ءَايَةً وَءَاوَيْنَٰهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ
+        وَمَعِينٍ
 ---
 
 ## Questions

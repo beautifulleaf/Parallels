@@ -2,7 +2,7 @@
 id: motif-hb-exod-10-locusts-darkness-vs-quran-26-moses-and-pharaoh
 title: 'Plagues 8-9: locusts and darkness ↔ Moses and Pharaoh disputing; the magicians; the sea split
   like mountains'
-summary: 'These two units share 1 motifs: pharaoh''s threat against moses [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - pharaohs-threat-against-moses-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 10:28
-  note: 'Pharaoh''s threat against Moses [divergence between the texts] (Pharaoh''s threat: hiššāmer ləkhā
-    ʾal tōsef rəʾôt pānay kî bə-yôm rəʾōtkā pānay tāmût (death, near the end of the plagues) ~ la-ini
-    ttakhadhta ilāhan ghayrī la-ajʿalannaka mina l-masjūnīna (prison, at the first meeting, and for taking
-    a god other than Pharaoh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּֽאמֶר ל֥וֹ פַרְעֹ֖ה לֵ֣ךְ מֵעָלָ֑י הִשָּׁ֣מֶר לְךָ֗ אֶל תֹּ֨סֶף֙ רְא֣וֹת פָּנַ֔י כִּ֗י בְּי֛וֹם
-    רְאֹתְךָ֥ פָנַ֖י תָּמֽוּת
-- tradition: islam
-  ref: Quran 26:29
-  note: 'Pharaoh''s threat against Moses [divergence between the texts] (Pharaoh''s threat: hiššāmer ləkhā
-    ʾal tōsef rəʾôt pānay kî bə-yôm rəʾōtkā pānay tāmût (death, near the end of the plagues) ~ la-ini
-    ttakhadhta ilāhan ghayrī la-ajʿalannaka mina l-masjūnīna (prison, at the first meeting, and for taking
-    a god other than Pharaoh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَئِنِ ٱتَّخَذْتَ إِلَٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Pharaoh''s threat: hiššāmer ləkhā ʾal tōsef rəʾôt pānay kî bə-yôm rəʾōtkā pānay tāmût
-    (death, near the end of the plagues) ~ la-ini ttakhadhta ilāhan ghayrī la-ajʿalannaka mina l-masjūnīna
-    (prison, at the first meeting, and for taking a god other than Pharaoh).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh''s threat against Moses [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -73,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh's threat against Moses
+kinds:
+- divergence
+units:
+- id: hb-exod-10-locusts-darkness
+  title: 'Plagues 8-9: locusts and darkness'
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh's threat against Moses
+  note: 'Pharaoh''s threat: hiššāmer ləkhā ʾal tōsef rəʾôt pānay kî bə-yôm rəʾōtkā pānay tāmût (death,
+    near the end of the plagues) ~ la-ini ttakhadhta ilāhan ghayrī la-ajʿalannaka mina l-masjūnīna (prison,
+    at the first meeting, and for taking a god other than Pharaoh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 10:28
+      lang: he
+      text: וַיֹּֽאמֶר ל֥וֹ פַרְעֹ֖ה לֵ֣ךְ מֵעָלָ֑י הִשָּׁ֣מֶר לְךָ֗ אֶל תֹּ֨סֶף֙ רְא֣וֹת פָּנַ֔י כִּ֗י
+        בְּי֛וֹם רְאֹתְךָ֥ פָנַ֖י תָּמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 26:29
+      lang: ar
+      text: قَالَ لَئِنِ ٱتَّخَذْتَ إِلَٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ
 ---
 
 ## Questions

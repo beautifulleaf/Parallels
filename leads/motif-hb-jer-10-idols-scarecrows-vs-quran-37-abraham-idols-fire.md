@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-37-abraham-idols-fire
 title: Idols like scarecrows in a cucumber field ↔ Abraham, the stars, the smashed idols and the fire
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,32 +13,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Jer 10:5
-  note: 'Idols of wood and stone that cannot see, hear, eat or smell (kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû
-    ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum lā tanṭiqūn: speechless idols that can do neither
-    harm nor good.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 37:91
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
-- tradition: islam
-  ref: Quran 37:92
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا لَكُمْ لَا تَنطِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum
-    lā tanṭiqūn: speechless idols that can do neither harm nor good.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -68,6 +45,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- echo
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: echo
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: 'kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum lā
+    tanṭiqūn: speechless idols that can do neither harm nor good.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:92
+      lang: ar
+      text: مَا لَكُمْ لَا تَنطِقُونَ
 ---
 
 ## Questions

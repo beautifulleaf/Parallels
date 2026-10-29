@@ -1,8 +1,7 @@
 ---
 id: motif-hb-2kgs-4-shunammite-vs-quran-3-imran-mary-zechariah
 title: The Shunammite woman and her son ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 2 motifs: prophet promises a childless woman with an old husband a son
-  ''at this season next year'', a barren wife is told by a divine messenger that she will bear a son.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,67 +14,9 @@ layers:
 motifs:
 - childless-woman-old-husband-promised-son
 - barren-wife-annunciation
-passages:
-- tradition: judaism
-  ref: 2Kgs 4:14-17
-  note: Prophet promises a childless woman with an old husband a son 'at this season next year' (ka-et
-    hayyah, echoing Gen 18:10, 14)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (4:14) וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן (4:15) וַיֹּ֖אמֶר קְרָא לָ֑הּ וַיִּקְרָא לָ֔הּ וַֽתַּעֲמֹ֖ד בַּפָּֽתַח (4:16) וַיֹּ֗אמֶר לַמּוֹעֵ֤ד
-    הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙ אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב
-    בְּשִׁפְחָתֶֽךָ (4:17) וַתַּ֥הַר הָאִשָּׁ֖ה וַתֵּ֣לֶד בֵּ֑ן לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אֲשֶׁר
-    דִּבֶּ֥ר אֵלֶ֖יהָ אֱלִישָֽׁע
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: Prophet promises a childless woman with an old husband a son 'at this season next year' (ka-et
-    hayyah, echoing Gen 18:10, 14)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 3:40
-  note: 'Prophet promises a childless woman with an old husband a son ''at this season next year'' (2Kgs
-    4:14 ʾăbāl bēn ʾên lāh wĕ-ʾîšāh zāqēn: no son and an old husband; Q 3:40 wa-qad balaghaniya l-kibaru
-    wa-mraʾatī ʿāqirun: old husband, barren wife.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 3:39
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
-    بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 3:40
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 2Kgs 4:14 ʾăbāl bēn ʾên lāh wĕ-ʾîšāh zāqēn: no son and an old husband; Q 3:40 wa-qad balaghaniya
-    l-kibaru wa-mraʾatī ʿāqirun: old husband, barren wife.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet promises a childless woman with an old husband a son ''at
     this season next year'' (weight 6.7); A barren wife is told by a divine messenger that she will bear
@@ -111,6 +52,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet promises a childless woman with an old husband a son 'at this season next year'
+kinds:
+- echo
+- shared
+units:
+- id: hb-2kgs-4-shunammite
+  title: The Shunammite woman and her son
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet promises a childless woman with an old husband a son 'at this season next year'
+  note: '2Kgs 4:14 ʾăbāl bēn ʾên lāh wĕ-ʾîšāh zāqēn: no son and an old husband; Q 3:40 wa-qad balaghaniya
+    l-kibaru wa-mraʾatī ʿāqirun: old husband, barren wife.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+- kind: shared
+  label: A barren wife is told by a divine messenger that she will bear a son
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:39
+      lang: ar
+      text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
+        بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-7-primordial-covenant
 title: The Decalogue restated and the people's fear at Horeb ↔ The primordial covenant ("Am I not your
   Lord?")
-summary: 'These two units share 1 motifs: the covenant is made with those alive today, not only with the
-  fathers.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - covenant-with-living-not-fathers
-passages:
-- tradition: judaism
-  ref: Deut 5:3
-  note: The covenant is made with those alive today, not only with the fathers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א אֶת אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהוָ֖ה אֶת הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֗נוּ אֲנַ֨חְנוּ אֵ֥לֶּה
-    פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים
-- tradition: islam
-  ref: Quran 7:173
-  note: 'The covenant is made with those alive today, not only with the fathers (Each generation is bound
-    directly, not through its fathers: an taqūlū innamā ashraka ābāʾunā min qablu wa-kunnā dhurriyyatan
-    min baʿdihim vs lōʾ ʾet-ʾăbōtênû kārat YHWH ʾet-habbᵉrît hazzōʾt kî ʾittānû ʾănaḥnû ʾēlleh pōh hayyôm
-    kullānû ḥayyîm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ
-    أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Each generation is bound directly, not through its fathers: an taqūlū innamā ashraka ābāʾunā
-    min qablu wa-kunnā dhurriyyatan min baʿdihim vs lōʾ ʾet-ʾăbōtênû kārat YHWH ʾet-habbᵉrît hazzōʾt kî
-    ʾittānû ʾănaḥnû ʾēlleh pōh hayyôm kullānû ḥayyîm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The covenant is made with those alive today, not only with the fathers
     (weight 6.7). Pair score 6.7.'
@@ -67,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The covenant is made with those alive today, not only with the fathers
+kinds:
+- echo
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-7-primordial-covenant
+  title: The primordial covenant ("Am I not your Lord?")
+  tradition: islam
+matches:
+- kind: echo
+  label: The covenant is made with those alive today, not only with the fathers
+  note: 'Each generation is bound directly, not through its fathers: an taqūlū innamā ashraka ābāʾunā
+    min qablu wa-kunnā dhurriyyatan min baʿdihim vs lōʾ ʾet-ʾăbōtênû kārat YHWH ʾet-habbᵉrît hazzōʾt kî
+    ʾittānû ʾănaḥnû ʾēlleh pōh hayyôm kullānû ḥayyîm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:3
+      lang: he
+      text: לֹ֣א אֶת אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהוָ֖ה אֶת הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֗נוּ אֲנַ֨חְנוּ אֵ֥לֶּה
+        פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 7:173
+      lang: ar
+      text: أَوْ تَقُولُوٓا۟ إِنَّمَآ أَشْرَكَ ءَابَآؤُنَا مِن قَبْلُ وَكُنَّا ذُرِّيَّةً مِّنۢ بَعْدِهِمْ
+        أَفَتُهْلِكُنَا بِمَا فَعَلَ ٱلْمُبْطِلُونَ
 ---
 
 ## Questions

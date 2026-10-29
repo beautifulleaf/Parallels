@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Qaf: wonder at the
   warner, the earth that consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 1 motifs: god was not wearied by creating the heavens and earth (polemic
-  against divine rest).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - creator-not-wearied-by-creation
-passages:
-- tradition: judaism
-  ref: Isa 40:28
-  note: God was not wearied by creating the heavens and earth (polemic against divine rest) (bôrēʾ qəṣôṯ
-    hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. a-fa-ʿayīnā bi-l-khalqi l-awwali bal hum fī labsin min khalqin
-    jadīd. Isaiah uses God's tirelessness to promise strength to the weary (40:29); the Quran uses it
-    to argue for a 'new creation' of the dead.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א
-    יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
-- tradition: islam
-  ref: Quran 50:15
-  note: God was not wearied by creating the heavens and earth (polemic against divine rest) ('were we
-    wearied by the first creation?')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. a-fa-ʿayīnā bi-l-khalqi l-awwali bal hum
-    fī labsin min khalqin jadīd. Isaiah uses God''s tirelessness to promise strength to the weary (40:29);
-    the Quran uses it to argue for a ''new creation'' of the dead.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God was not wearied by creating the heavens and earth (polemic against
     divine rest) (weight 6.3). Pair score 6.3.'
@@ -77,6 +56,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God was not wearied by creating the heavens and earth (polemic against divine rest)
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God was not wearied by creating the heavens and earth (polemic against divine rest)
+  note: bôrēʾ qəṣôṯ hā-ʾāreṣ lōʾ yîʿap̄ wə-lōʾ yîḡāʿ vs. a-fa-ʿayīnā bi-l-khalqi l-awwali bal hum fī labsin
+    min khalqin jadīd. Isaiah uses God's tirelessness to promise strength to the weary (40:29); the Quran
+    uses it to argue for a 'new creation' of the dead.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:28
+      lang: he
+      text: הֲל֨וֹא יָדַ֜עְתָּ אִם לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ
+        לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:15
+      lang: ar
+      text: أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ
 ---
 
 ## Questions

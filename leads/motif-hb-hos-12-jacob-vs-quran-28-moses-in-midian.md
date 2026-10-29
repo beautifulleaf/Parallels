@@ -2,7 +2,7 @@
 id: motif-hb-hos-12-jacob-vs-quran-28-moses-in-midian
 title: Jacob's story as indictment; Canaan's false scales ↔ At the water of Midian; the two women, their
   old father and the marriage contract
-summary: 'These two units share 1 motifs: suitor serves the bride''s father seven years for her hand.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - serving-seven-years-for-bride
-passages:
-- tradition: judaism
-  ref: Hos 12:13
-  note: Suitor serves the bride's father seven years for her hand (Israel served for a wife and for a
-    wife he kept sheep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבְרַ֥ח יַעֲקֹ֖ב שְׂדֵ֣ה אֲרָ֑ם וַיַּעֲבֹ֤ד יִשְׂרָאֵל֙ בְּאִשָּׁ֔ה וּבְאִשָּׁ֖ה שָׁמָֽר
-- tradition: islam
-  ref: Quran 28:27
-  note: Suitor serves the bride's father seven years for her hand (compare Jacob's service for Rachel)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى ثَمَٰنِىَ
-    حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ سَتَجِدُنِىٓ
-    إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. ʿalā an taʾjuranī thamāniya ḥijajin ~ wa-yyivraḥ Yaʿăqōv śədēh ʾĂrām wa-yyaʿăvōd Yiśrāʾēl bə-ʾiššâ
-    û-və-ʾiššâ šāmār: flight to a foreign land and herding service for a wife. Hosea''s line fits Moses
-    as well as Jacob.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Suitor serves the bride''s father seven years for her hand (weight
     6.3). Pair score 6.3.'
@@ -67,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Suitor serves the bride's father seven years for her hand
+kinds:
+- echo
+units:
+- id: hb-hos-12-jacob
+  title: Jacob's story as indictment; Canaan's false scales
+  tradition: judaism
+- id: quran-28-moses-in-midian
+  title: At the water of Midian; the two women, their old father and the marriage contract
+  tradition: islam
+matches:
+- kind: echo
+  label: Suitor serves the bride's father seven years for her hand
+  note: 'ʿalā an taʾjuranī thamāniya ḥijajin ~ wa-yyivraḥ Yaʿăqōv śədēh ʾĂrām wa-yyaʿăvōd Yiśrāʾēl bə-ʾiššâ
+    û-və-ʾiššâ šāmār: flight to a foreign land and herding service for a wife. Hosea''s line fits Moses
+    as well as Jacob.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 12:13
+      lang: he
+      text: וַיִּבְרַ֥ח יַעֲקֹ֖ב שְׂדֵ֣ה אֲרָ֑ם וַיַּעֲבֹ֤ד יִשְׂרָאֵל֙ בְּאִשָּׁ֔ה וּבְאִשָּׁ֖ה שָׁמָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 28:27
+      lang: ar
+      text: قَالَ إِنِّىٓ أُرِيدُ أَنْ أُنكِحَكَ إِحْدَى ٱبْنَتَىَّ هَٰتَيْنِ عَلَىٰٓ أَن تَأْجُرَنِى
+        ثَمَٰنِىَ حِجَجٍ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِندِكَ وَمَآ أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ
+        سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ مِنَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

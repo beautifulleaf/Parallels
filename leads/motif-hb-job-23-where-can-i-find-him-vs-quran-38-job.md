@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-23-where-can-i-find-him-vs-quran-38-job
 title: Job - 'Oh that I knew where I might find him' ↔ Job, the spring and the bundle of twigs
-summary: 'These two units share 1 motifs: job calls on god, and whether god answers [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,49 +13,9 @@ layers:
 - motif
 motifs:
 - job-calls-on-god-and-the-response-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 23:3
-  note: 'Job calls on God, and whether God answers [contrast between the texts] (Calling on God. Job:
-    mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case.
-    Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered
-    at once with a healing spring. There is no lawsuit and no divine silence.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי יִתֵּ֣ן יָ֭דַעְתִּי וְאֶמְצָאֵ֑הוּ אָ֝ב֗וֹא עַד תְּכוּנָתֽוֹ
-- tradition: judaism
-  ref: Job 23:8
-  note: 'Job calls on God, and whether God answers [contrast between the texts] (Calling on God. Job:
-    mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case.
-    Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered
-    at once with a healing spring. There is no lawsuit and no divine silence.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤ן קֶ֣דֶם אֶהֱלֹ֣ךְ וְאֵינֶ֑נּוּ וְ֝אָח֗וֹר וְֽלֹא אָבִ֥ין לֽוֹ
-- tradition: islam
-  ref: Quran 38:41
-  note: 'Job calls on God, and whether God answers [contrast between the texts] (Calling on God. Job:
-    mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case.
-    Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered
-    at once with a healing spring. There is no lawsuit and no divine silence.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ وَعَذَابٍ
-- tradition: islam
-  ref: Quran 38:42
-  note: 'Job calls on God, and whether God answers [contrast between the texts] (Calling on God. Job:
-    mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot find God to plead his case.
-    Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb, he calls and is answered
-    at once with a healing spring. There is no lawsuit and no divine silence.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱرْكُضْ بِرِجْلِكَ هَٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Calling on God. Job: mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he
-    cannot find God to plead his case. Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun
-    wa-sharāb, he calls and is answered at once with a healing spring. There is no lawsuit and no divine
-    silence.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Job calls on God, and whether God answers [contrast between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -82,6 +41,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Job calls on God, and whether God answers
+kinds:
+- contrast
+units:
+- id: hb-job-23-where-can-i-find-him
+  title: Job - 'Oh that I knew where I might find him'
+  tradition: judaism
+- id: quran-38-job
+  title: Job, the spring and the bundle of twigs
+  tradition: islam
+matches:
+- kind: contrast
+  label: Job calls on God, and whether God answers
+  note: 'Calling on God. Job: mî-yittēn yāḏaʿtî wə-ʾemṣāʾēhû ... hēn qeḏem ʾehĕlōḵ wə-ʾênennû, he cannot
+    find God to plead his case. Q: idh nādā rabbahu ... urkuḍ bi-rijlika hādhā mughtasalun bāridun wa-sharāb,
+    he calls and is answered at once with a healing spring. There is no lawsuit and no divine silence.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 23:3
+      lang: he
+      text: מִֽי יִתֵּ֣ן יָ֭דַעְתִּי וְאֶמְצָאֵ֑הוּ אָ֝ב֗וֹא עַד תְּכוּנָתֽוֹ
+    - ref: Job 23:8
+      lang: he
+      text: הֵ֤ן קֶ֣דֶם אֶהֱלֹ֣ךְ וְאֵינֶ֑נּוּ וְ֝אָח֗וֹר וְֽלֹא אָבִ֥ין לֽוֹ
+    - ref: Job 23:9
+      lang: he
+      text: שְׂמֹ֣אול בַּעֲשֹׂת֣וֹ וְלֹא אָ֑חַז יַעְטֹ֥ף יָ֝מִ֗ין וְלֹ֣א אֶרְאֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:41
+      lang: ar
+      text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ
+        وَعَذَابٍ
+    - ref: Quran 38:42
+      lang: ar
+      text: ٱرْكُضْ بِرِجْلِكَ هَٰذَا مُغْتَسَلٌۢ بَارِدٌ وَشَرَابٌ
 ---
 
 ## Questions

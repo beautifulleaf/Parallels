@@ -2,8 +2,7 @@
 id: motif-hb-prov-26-sluggard-quarreler-hypocrite-vs-quran-9-hypocrites-mockery
 title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite ↔ Hypocrites who mock and
   the destroyed peoples
-summary: 'These two units share 1 motifs: like a madman shooting firebrands and deadly arrows is a man
-  who deceives his neighbor and says ''i was only joking''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - deceiver-says-only-joking
-passages:
-- tradition: judaism
-  ref: Prov 26:18
-  note: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
-    'I was only joking'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּֽ֭מִתְלַהְלֵהַּ הַיֹּרֶ֥ה זִקִּ֗ים חִצִּ֥ים וָמָֽוֶת
-- tradition: judaism
-  ref: Prov 26:19
-  note: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
-    'I was only joking'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֵּֽן אִ֭ישׁ רִמָּ֣ה אֶת רֵעֵ֑הוּ וְ֝אָמַ֗ר הֲֽלֹא מְשַׂחֵ֥ק אָֽנִי
-- tradition: islam
-  ref: Quran 9:65
-  note: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
-    'I was only joking' ('we were only chatting and playing')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ
-    وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
-- tradition: islam
-  ref: Quran 9:66
-  note: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
-    'I was only joking' ('we were only chatting and playing')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَٰنِكُمْ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ
-    طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The ''only joking'' excuse is rejected: la-yaqūlunna innamā kunnā nakhūḍu wa-nalʿabu ...
-    lā taʿtadhirū vs kᵉmitlahlēah hayyōreh zîqqîm ḥiṣṣîm wāmāwet kēn-ʾîš rimmāh ʾet-rēʿēhû wᵉʾāmar hălōʾ-mᵉśaḥēq
-    ʾānî.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Like a madman shooting firebrands and deadly arrows is a man who
     deceives his neighbor and says ''I was only joking'' (weight 6.7). Pair score 6.7.'
@@ -84,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
+  'I was only joking'
+kinds:
+- parallel
+units:
+- id: hb-prov-26-sluggard-quarreler-hypocrite
+  title: Sayings on the sluggard, the meddler, the whisperer and the hypocrite
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: parallel
+  label: Like a madman shooting firebrands and deadly arrows is a man who deceives his neighbor and says
+    'I was only joking'
+  note: 'The ''only joking'' excuse is rejected: la-yaqūlunna innamā kunnā nakhūḍu wa-nalʿabu ... lā taʿtadhirū
+    vs kᵉmitlahlēah hayyōreh zîqqîm ḥiṣṣîm wāmāwet kēn-ʾîš rimmāh ʾet-rēʿēhû wᵉʾāmar hălōʾ-mᵉśaḥēq ʾānî.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 26:18
+      lang: he
+      text: כְּֽ֭מִתְלַהְלֵהַּ הַיֹּרֶ֥ה זִקִּ֗ים חִצִּ֥ים וָמָֽוֶת
+    - ref: Prov 26:19
+      lang: he
+      text: כֵּֽן אִ֭ישׁ רִמָּ֣ה אֶת רֵעֵ֑הוּ וְ֝אָמַ֗ר הֲֽלֹא מְשַׂחֵ֥ק אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 9:65
+      lang: ar
+      text: وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ قُلْ أَبِٱللَّهِ وَءَايَٰتِهِۦ
+        وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ
+    - ref: Quran 9:66
+      lang: ar
+      text: لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَٰنِكُمْ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ
+        طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-eccl-12-epilogue-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: Epilogue on Qohelet, many books, and the whole duty of man ↔ Refrains over 'Ad, Thamud's she-camel,
   Lot's guests and Pharaoh; everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: everything they did is in the scriptures (zubur); every small
-  and great thing is written down.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - every-deed-small-and-great-recorded
-passages:
-- tradition: judaism
-  ref: Eccl 12:14
-  note: 'Everything they did is in the scriptures (zubur); every small and great thing is written down
-    (Every deed, even hidden or small, comes to judgment: kî ʾeṯ kol maʿăśeh hā-ʾĕlōhîm yāḇîʾ ḇə-mišpāṭ
-    ʿal kol neʿlām ʾim ṭôḇ wə-ʾim rāʿ vs. wa-kullu shayʾin faʿalūhu fī z-zubur, wa-kullu ṣaghīrin wa-kabīrin
-    mustaṭar. Qohelet''s epilogue says God judges; the Quran says it is written down (mustaṭar).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֶת כָּל מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כָּל נֶעְלָ֑ם אִם ט֖וֹב וְאִם רָֽע
-- tradition: islam
-  ref: Quran 54:52
-  note: Everything they did is in the scriptures (zubur); every small and great thing is written down
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ
-- tradition: islam
-  ref: Quran 54:53
-  note: Everything they did is in the scriptures (zubur); every small and great thing is written down
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Every deed, even hidden or small, comes to judgment: kî ʾeṯ kol maʿăśeh hā-ʾĕlōhîm yāḇîʾ
-    ḇə-mišpāṭ ʿal kol neʿlām ʾim ṭôḇ wə-ʾim rāʿ vs. wa-kullu shayʾin faʿalūhu fī z-zubur, wa-kullu ṣaghīrin
-    wa-kabīrin mustaṭar. Qohelet''s epilogue says God judges; the Quran says it is written down (mustaṭar).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Everything they did is in the scriptures (zubur); every small and
     great thing is written down (weight 6.7). Pair score 6.7.'
@@ -76,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Everything they did is in the scriptures (zubur); every small and great thing is written down
+kinds:
+- parallel
+units:
+- id: hb-eccl-12-epilogue
+  title: Epilogue on Qohelet, many books, and the whole duty of man
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: parallel
+  label: Everything they did is in the scriptures (zubur); every small and great thing is written down
+  note: 'Every deed, even hidden or small, comes to judgment: kî ʾeṯ kol maʿăśeh hā-ʾĕlōhîm yāḇîʾ ḇə-mišpāṭ
+    ʿal kol neʿlām ʾim ṭôḇ wə-ʾim rāʿ vs. wa-kullu shayʾin faʿalūhu fī z-zubur, wa-kullu ṣaghīrin wa-kabīrin
+    mustaṭar. Qohelet''s epilogue says God judges; the Quran says it is written down (mustaṭar).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 12:14
+      lang: he
+      text: כִּ֤י אֶת כָּל מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כָּל נֶעְלָ֑ם אִם ט֖וֹב וְאִם
+        רָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 54:52
+      lang: ar
+      text: وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ
+    - ref: Quran 54:53
+      lang: ar
+      text: وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ
 ---
 
 ## Questions

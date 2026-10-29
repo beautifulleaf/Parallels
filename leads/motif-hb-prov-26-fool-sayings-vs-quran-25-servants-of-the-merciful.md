@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-26-fool-sayings-vs-quran-25-servants-of-the-merciful
 title: Sayings on the fool (the 'book of fools') ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 1 motifs: contradictory pair: ''do not answer a fool according to his
-  folly'' / ''answer a fool according to his folly''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - answer-and-do-not-answer-fool
-passages:
-- tradition: judaism
-  ref: Prov 26:4
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּ֣עַן כְּ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּֽן תִּשְׁוֶה לּ֥וֹ גַם אָֽתָּה
-- tradition: judaism
-  ref: Prov 26:5
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲנֵ֣ה כְ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּן יִהְיֶ֖ה חָכָ֣ם בְּעֵינָֽיו
-- tradition: islam
-  ref: Quran 25:63
-  note: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
-    to his folly'' (wa-idhā khāṭabahumu l-jāhilūna qālū salāman ~ ʾal taʿan kəsîl kə-ʾiwwaltô pen tišweh
-    llô gam ʾattâ: do not answer the fool in kind; the Quran supplies the answer, ''Peace''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ
-    قَالُوا۟ سَلَٰمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-idhā khāṭabahumu l-jāhilūna qālū salāman ~ ʾal taʿan kəsîl kə-ʾiwwaltô pen tišweh llô gam
-    ʾattâ: do not answer the fool in kind; the Quran supplies the answer, ''Peace''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Contradictory pair: ''Do not answer a fool according to his folly''
     / ''Answer a fool according to his folly'' (weight 6.3). Pair score 6.3.'
@@ -71,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
+  to his folly'''
+kinds:
+- echo
+units:
+- id: hb-prov-26-fool-sayings
+  title: Sayings on the fool (the 'book of fools')
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Contradictory pair: ''Do not answer a fool according to his folly'' / ''Answer a fool according
+    to his folly'''
+  note: 'wa-idhā khāṭabahumu l-jāhilūna qālū salāman ~ ʾal taʿan kəsîl kə-ʾiwwaltô pen tišweh llô gam
+    ʾattâ: do not answer the fool in kind; the Quran supplies the answer, ''Peace''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 26:4
+      lang: he
+      text: אַל תַּ֣עַן כְּ֭סִיל כְּאִוַּלְתּ֑וֹ פֶּֽן תִּשְׁוֶה לּ֥וֹ גַם אָֽתָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 25:63
+      lang: ar
+      text: وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ
+        قَالُوا۟ سَلَٰمًا
 ---
 
 ## Questions

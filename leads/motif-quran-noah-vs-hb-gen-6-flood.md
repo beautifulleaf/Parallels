@@ -1,8 +1,7 @@
 ---
 id: motif-quran-noah-vs-hb-gen-6-flood
 title: Noah in the Quran ↔ The Flood (full read)
-summary: 'These two units share 9 motifs: waters pour both from the sky and from springs of the earth,
-  animals taken aboard in pairs, vessel comes to rest on a named mountain, deity decides to destroy humankind….'
+summary: 9 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,249 +16,17 @@ motifs:
 - waters-from-above-and-below
 - animals-in-pairs
 - vessel-rests-on-mountain
-- divine-decision-to-destroy
 - hero-righteous
+- divine-decision-to-destroy
 - build-vessel-on-instruction
 - hero-warned-by-deity
 - universal-destruction
 - family-saved
-passages:
-- tradition: islam
-  ref: Quran 54:11
-  note: Waters pour both from the sky and from springs of the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
-- tradition: islam
-  ref: Quran 54:12
-  note: Waters pour both from the sky and from springs of the earth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
-- tradition: judaism
-  ref: Gen 7:11
-  note: Waters pour both from the sky and from springs of the earth (springs of the great deep burst;
-    windows of heaven opened)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר י֖וֹם
-    לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
-    נִפְתָּֽחוּ
-- tradition: judaism
-  ref: Gen 8:2
-  note: Waters pour both from the sky and from springs of the earth (springs of the great deep burst;
-    windows of heaven opened)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 11:40
-  note: Animals taken aboard in pairs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
-    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
-    قَلِيلٌ
-- tradition: islam
-  ref: Quran 23:27
-  note: Animals taken aboard in pairs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: Gen 6:19
-  note: Animals taken aboard in pairs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִכָּל הָ֠חַי מִֽכָּל בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ
-    זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ
-- tradition: judaism
-  ref: Gen 6:20
-  note: Animals taken aboard in pairs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ שְׁנַ֧יִם
-    מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת
-- tradition: islam
-  ref: Quran 11:44
-  note: Vessel comes to rest on a named mountain (al-Jūdī)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ
-    وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
-- tradition: judaism
-  ref: Gen 8:4
-  note: Vessel comes to rest on a named mountain (mountains of Ararat, 7th month 17th day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י אֲרָרָֽט
-- tradition: islam
-  ref: Quran 11:37
-  note: Deity decides to destroy humankind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
-    مُّغْرَقُونَ
-- tradition: islam
-  ref: Quran 23:27
-  note: Deity decides to destroy humankind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: Gen 6:7
-  note: Deity decides to destroy humankind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
-    עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
-- tradition: judaism
-  ref: Gen 6:13
-  note: Deity decides to destroy humankind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 37:81
-  note: Hero singled out as righteous or pious
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
-- tradition: judaism
-  ref: Gen 6:8
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
-- tradition: judaism
-  ref: Gen 6:9
-  note: Hero singled out as righteous or pious (tsaddiq tamim, 'walked with God' like Enoch)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
-    הִֽתְהַלֶּךְ נֹֽחַ
-- tradition: islam
-  ref: Quran 11:37
-  note: Hero builds a vessel on divine instruction
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم
-    مُّغْرَقُونَ
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero builds a vessel on divine instruction
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: Gen 6:14
-  note: Hero builds a vessel on divine instruction (tevah of gopher wood with qinnim (rooms/reeds))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲשֵׂ֤ה לְךָ֙ תֵּבַ֣ת עֲצֵי גֹ֔פֶר קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת הַתֵּבָ֑ה וְכָֽפַרְתָּ֥ אֹתָ֛הּ מִבַּ֥יִת
-    וּמִח֖וּץ בַּכֹּֽפֶר
-- tradition: judaism
-  ref: Gen 6:22
-  note: Hero builds a vessel on divine instruction (tevah of gopher wood with qinnim (rooms/reeds))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה
-- tradition: islam
-  ref: Quran 11:36
-  note: Hero privately warned of the coming flood by a deity
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
-    بِمَا كَانُوا۟ يَفْعَلُونَ
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero privately warned of the coming flood by a deity
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: Gen 6:13
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 6:17
-  note: Hero privately warned of the coming flood by a deity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
-    בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
-- tradition: islam
-  ref: Quran 26:120
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ
-- tradition: islam
-  ref: Quran 71:25
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ ٱللَّهِ
-    أَنصَارًا
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:22
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
-- tradition: islam
-  ref: Quran 11:40
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
-    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
-    قَلِيلٌ
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: Gen 6:18
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי
-    בָנֶ֖יךָ אִתָּֽךְ
-- tradition: judaism
-  ref: Gen 7:7
-  note: Hero's family saved with him (eight persons)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
-    הַמַּבּֽוּל
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Waters pour both from the sky and from springs of the earth (weight
     6.0); Animals taken aboard in pairs (weight 5.8); Vessel comes to rest on a named mountain (weight
-    5.4); Deity decides to destroy humankind (weight 5.3); Hero singled out as righteous or pious (weight
+    5.4); Hero singled out as righteous or pious (weight 5.3); Deity decides to destroy humankind (weight
     5.3); Hero builds a vessel on divine instruction (weight 5.2); Hero privately warned of the coming
     flood by a deity (weight 5.1); All others perish (weight 5.0); Hero''s family saved with him (weight
     4.5). Pair score 47.6.'
@@ -287,6 +54,240 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Waters pour both from the sky and from springs of the earth
+kinds:
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-noah
+  title: Noah in the Quran
+  tradition: islam
+matches:
+- kind: shared
+  label: Waters pour both from the sky and from springs of the earth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:11
+      lang: he
+      text: בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר
+        י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם
+        נִפְתָּֽחוּ
+    - ref: Gen 8:2
+      lang: he
+      text: וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן
+        הַשָּׁמָֽיִם
+    note: springs of the great deep burst; windows of heaven opened
+  - tradition: islam
+    passages:
+    - ref: Quran 54:11
+      lang: ar
+      text: فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ
+    - ref: Quran 54:12
+      lang: ar
+      text: وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ
+- kind: shared
+  label: Animals taken aboard in pairs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:19
+      lang: he
+      text: וּמִכָּל הָ֠חַי מִֽכָּל בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ
+        זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ
+    - ref: Gen 6:20
+      lang: he
+      text: מֵהָע֣וֹף לְמִינֵ֗הוּ וּמִן הַבְּהֵמָה֙ לְמִינָ֔הּ מִכֹּ֛ל רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ
+        שְׁנַ֧יִם מִכֹּ֛ל יָבֹ֥אוּ אֵלֶ֖יךָ לְהַֽחֲיֽוֹת
+    - ref: Gen 7:9
+      lang: he
+      text: שְׁנַ֨יִם שְׁנַ֜יִם בָּ֧אוּ אֶל נֹ֛חַ אֶל הַתֵּבָ֖ה זָכָ֣ר וּנְקֵבָ֑ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה
+        אֱלֹהִ֖ים אֶת נֹֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:40
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+        ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ
+        إِلَّا قَلِيلٌ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- kind: shared
+  label: Vessel comes to rest on a named mountain
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 8:4
+      lang: he
+      text: וַתָּ֤נַח הַתֵּבָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִיעִ֔י בְּשִׁבְעָה עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ עַ֖ל הָרֵ֥י
+        אֲרָרָֽט
+    note: mountains of Ararat, 7th month 17th day
+  - tradition: islam
+    passages:
+    - ref: Quran 11:44
+      lang: ar
+      text: وَقِيلَ يَٰٓأَرْضُ ٱبْلَعِى مَآءَكِ وَيَٰسَمَآءُ أَقْلِعِى وَغِيضَ ٱلْمَآءُ وَقُضِىَ ٱلْأَمْرُ
+        وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ وَقِيلَ بُعْدًا لِّلْقَوْمِ ٱلظَّٰلِمِينَ
+    note: al-Jūdī
+- kind: shared
+  label: Hero singled out as righteous or pious
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:8
+      lang: he
+      text: וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה
+    - ref: Gen 6:9
+      lang: he
+      text: אֵ֚לֶּה תּוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת הָֽאֱלֹהִ֖ים
+        הִֽתְהַלֶּךְ נֹֽחַ
+    - ref: Gen 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי
+        צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה
+    note: tsaddiq tamim, 'walked with God' like Enoch
+  - tradition: islam
+    passages:
+    - ref: Quran 37:81
+      lang: ar
+      text: إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ
+- kind: shared
+  label: Deity decides to destroy humankind
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:7
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת הָאָדָ֤ם אֲשֶׁר בָּרָ֨אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙
+        עַד בְּהֵמָ֔ה עַד רֶ֖מֶשׂ וְעַד ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 11:37
+      lang: ar
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- kind: shared
+  label: Hero builds a vessel on divine instruction
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:14
+      lang: he
+      text: עֲשֵׂ֤ה לְךָ֙ תֵּבַ֣ת עֲצֵי גֹ֔פֶר קִנִּ֖ים תַּֽעֲשֶׂ֣ה אֶת הַתֵּבָ֑ה וְכָֽפַרְתָּ֥ אֹתָ֛הּ
+        מִבַּ֥יִת וּמִח֖וּץ בַּכֹּֽפֶר
+    - ref: Gen 6:22
+      lang: he
+      text: וַיַּ֖עַשׂ נֹ֑חַ כְּ֠כֹל אֲשֶׁ֨ר צִוָּ֥ה אֹת֛וֹ אֱלֹהִ֖ים כֵּ֥ן עָשָֽׂה
+    note: tevah of gopher wood with qinnim (rooms/reeds)
+  - tradition: islam
+    passages:
+    - ref: Quran 11:37
+      lang: ar
+      text: وَٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟
+        إِنَّهُم مُّغْرَقُونَ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- kind: shared
+  label: Hero privately warned of the coming flood by a deity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:13
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
+        מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
+    - ref: Gen 6:17
+      lang: he
+      text: וַאֲנִ֗י הִנְנִי֩ מֵבִ֨יא אֶת הַמַּבּ֥וּל מַ֨יִם֙ עַל הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל בָּשָׂ֗ר אֲשֶׁר
+        בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר בָּאָ֖רֶץ יִגְוָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 11:36
+      lang: ar
+      text: وَأُوحِىَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤْمِنَ مِن قَوْمِكَ إِلَّا مَن قَدْ ءَامَنَ فَلَا تَبْتَئِسْ
+        بِمَا كَانُوا۟ يَفْعَلُونَ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:22
+      lang: he
+      text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:120
+      lang: ar
+      text: ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ
+    - ref: Quran 71:25
+      lang: ar
+      text: مِّمَّا خَطِيٓـَٰٔتِهِمْ أُغْرِقُوا۟ فَأُدْخِلُوا۟ نَارًا فَلَمْ يَجِدُوا۟ لَهُم مِّن دُونِ
+        ٱللَّهِ أَنصَارًا
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:18
+      lang: he
+      text: וַהֲקִמֹתִ֥י אֶת בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל הַתֵּבָ֔ה אַתָּ֕ה וּבָנֶ֛יךָ וְאִשְׁתְּךָ֥
+        וּנְשֵֽׁי בָנֶ֖יךָ אִתָּֽךְ
+    - ref: Gen 7:7
+      lang: he
+      text: וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי בָנָ֛יו אִתּ֖וֹ אֶל הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י
+        הַמַּבּֽוּל
+    - ref: Gen 7:13
+      lang: he
+      text: בְּעֶ֨צֶם הַיּ֤וֹם הַזֶּה֙ בָּ֣א נֹ֔חַ וְשֵׁם וְחָ֥ם וָיֶ֖פֶת בְּנֵי נֹ֑חַ וְאֵ֣שֶׁת נֹ֗חַ
+        וּשְׁלֹ֧שֶׁת נְשֵֽׁי בָנָ֛יו אִתָּ֖ם אֶל הַתֵּבָֽה
+    note: eight persons
+  - tradition: islam
+    passages:
+    - ref: Quran 11:40
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+        ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ
+        إِلَّا قَلِيلٌ
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 ---
 
 ## Questions

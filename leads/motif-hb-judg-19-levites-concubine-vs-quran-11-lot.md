@@ -1,7 +1,7 @@
 ---
 id: motif-hb-judg-19-levites-concubine-vs-quran-11-lot
 title: The Levite's concubine at Gibeah ↔ Lot, his guests, his daughters and the stones of sijjil
-summary: 'These two units share 1 motifs: host offers his virgin daughters to the mob to protect his guests.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - host-offers-daughters
-passages:
-- tradition: judaism
-  ref: Judg 19:23
-  note: Host offers his virgin daughters to the mob to protect his guests
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ נָ֑א
-    אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: judaism
-  ref: Judg 19:24
-  note: Host offers his virgin daughters to the mob to protect his guests
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם וַעֲשׂ֣וּ
-    לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 11:78
-  note: Host offers his virgin daughters to the mob to protect his guests ('they are purer for you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ قَالَ
-    يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ
-    أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
-- tradition: islam
-  ref: Quran 11:79
-  note: Host offers his virgin daughters to the mob to protect his guests ('they are purer for you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The same scene in Gibeah: the mob at the door, the host''s plea and the offer of the women.
-    ʾal-ʾaḥay ʾal-tārēʿû-nāʾ ... hinnēh bittî habbᵉtûlāh ûpîlagšēhû ... wᵉlāʾîš hazzeh lōʾ taʿăśû dᵉbar
-    hannᵉbālāh vs hāʾulāʾi banātī hunna aṭharu lakum ... wa-lā tukhzūni fī ḍayfī.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Host offers his virgin daughters to the mob to protect his guests
     (weight 6.0). Pair score 6.0.'
@@ -75,6 +44,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Host offers his virgin daughters to the mob to protect his guests
+kinds:
+- parallel
+units:
+- id: hb-judg-19-levites-concubine
+  title: The Levite's concubine at Gibeah
+  tradition: judaism
+- id: quran-11-lot
+  title: Lot, his guests, his daughters and the stones of sijjil
+  tradition: islam
+matches:
+- kind: parallel
+  label: Host offers his virgin daughters to the mob to protect his guests
+  note: 'The same scene in Gibeah: the mob at the door, the host''s plea and the offer of the women. ʾal-ʾaḥay
+    ʾal-tārēʿû-nāʾ ... hinnēh bittî habbᵉtûlāh ûpîlagšēhû ... wᵉlāʾîš hazzeh lōʾ taʿăśû dᵉbar hannᵉbālāh
+    vs hāʾulāʾi banātī hunna aṭharu lakum ... wa-lā tukhzūni fī ḍayfī.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 19:22
+      lang: he
+      text: הֵמָּה֮ מֵיטִיבִ֣ים אֶת לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי בְלִיַּ֗עַל נָסַ֨בּוּ֙
+        אֶת הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙
+        לֵאמֹ֔ר הוֹצֵ֗א אֶת הָאִ֛ישׁ אֲשֶׁר בָּ֥א אֶל בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ
+    - ref: Judg 19:23
+      lang: he
+      text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ
+        נָ֑א אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
+    - ref: Judg 19:24
+      lang: he
+      text: הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם
+        וַעֲשׂ֣וּ לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה
+        הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 11:78
+      lang: ar
+      text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ
+        قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
+        فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
 ---
 
 ## Questions

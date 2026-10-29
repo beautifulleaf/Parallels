@@ -2,8 +2,7 @@
 id: motif-hb-deut-28-blessings-curses-vs-quran-56-waqia-left-hand-and-proofs
 title: Blessings and the great curses ↔ The Companions of the Left in smoke and samum; who creates semen,
   crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 1 motifs: have you seen what you sow? do you make it grow, or are we the
-  grower? we could make it chaff.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - do-you-sow-or-do-we
-passages:
-- tradition: judaism
-  ref: Deut 28:38
-  note: 'Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
-    (Sowing without reaping as God''s doing: zeraʿ raḇ tôṣîʾ haś-śāḏeh û-məʿaṭ teʾĕsōp̄ kî yaḥsəlennû
-    hā-ʾarbeh vs. a-fa-raʾaytum mā taḥruthūn, a-antum tazraʿūnahu am naḥnu z-zāriʿūn, law nashāʾu la-jaʿalnāhu
-    ḥuṭāman. Deuteronomy threatens it as a covenant curse; the Quran asks it as a proof that God gives
-    the growth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֶ֥רַע רַ֖ב תּוֹצִ֣יא הַשָּׂדֶ֑ה וּמְעַ֣ט תֶּאֱסֹ֔ף כִּ֥י יַחְסְלֶ֖נּוּ הָאַרְבֶּֽה
-- tradition: judaism
-  ref: Deut 28:39
-  note: 'Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
-    (Sowing without reaping as God''s doing: zeraʿ raḇ tôṣîʾ haś-śāḏeh û-məʿaṭ teʾĕsōp̄ kî yaḥsəlennû
-    hā-ʾarbeh vs. a-fa-raʾaytum mā taḥruthūn, a-antum tazraʿūnahu am naḥnu z-zāriʿūn, law nashāʾu la-jaʿalnāhu
-    ḥuṭāman. Deuteronomy threatens it as a covenant curse; the Quran asks it as a proof that God gives
-    the growth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּרָמִ֥ים תִּטַּ֖ע וְעָבָ֑דְתָּ וְיַ֤יִן לֹֽא תִשְׁתֶּה֙ וְלֹ֣א תֶאֱגֹ֔ר כִּ֥י תֹאכְלֶ֖נּוּ הַתֹּלָֽעַת
-- tradition: islam
-  ref: Quran 56:63
-  note: Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَرَءَيْتُم مَّا تَحْرُثُونَ
-- tradition: islam
-  ref: Quran 56:64
-  note: Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Sowing without reaping as God''s doing: zeraʿ raḇ tôṣîʾ haś-śāḏeh û-məʿaṭ teʾĕsōp̄ kî yaḥsəlennû
-    hā-ʾarbeh vs. a-fa-raʾaytum mā taḥruthūn, a-antum tazraʿūnahu am naḥnu z-zāriʿūn, law nashāʾu la-jaʿalnāhu
-    ḥuṭāman. Deuteronomy threatens it as a covenant curse; the Quran asks it as a proof that God gives
-    the growth.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have you seen what you sow? Do you make it grow, or are we the grower?
     We could make it chaff (weight 6.7). Pair score 6.7.'
@@ -90,6 +53,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
+kinds:
+- echo
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: echo
+  label: Have you seen what you sow? Do you make it grow, or are we the grower? We could make it chaff
+  note: 'Sowing without reaping as God''s doing: zeraʿ raḇ tôṣîʾ haś-śāḏeh û-məʿaṭ teʾĕsōp̄ kî yaḥsəlennû
+    hā-ʾarbeh vs. a-fa-raʾaytum mā taḥruthūn, a-antum tazraʿūnahu am naḥnu z-zāriʿūn, law nashāʾu la-jaʿalnāhu
+    ḥuṭāman. Deuteronomy threatens it as a covenant curse; the Quran asks it as a proof that God gives
+    the growth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:38
+      lang: he
+      text: זֶ֥רַע רַ֖ב תּוֹצִ֣יא הַשָּׂדֶ֑ה וּמְעַ֣ט תֶּאֱסֹ֔ף כִּ֥י יַחְסְלֶ֖נּוּ הָאַרְבֶּֽה
+    - ref: Deut 28:39
+      lang: he
+      text: כְּרָמִ֥ים תִּטַּ֖ע וְעָבָ֑דְתָּ וְיַ֤יִן לֹֽא תִשְׁתֶּה֙ וְלֹ֣א תֶאֱגֹ֔ר כִּ֥י תֹאכְלֶ֖נּוּ
+        הַתֹּלָֽעַת
+  - tradition: islam
+    passages:
+    - ref: Quran 56:63
+      lang: ar
+      text: أَفَرَءَيْتُم مَّا تَحْرُثُونَ
+    - ref: Quran 56:64
+      lang: ar
+      text: ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ
+    - ref: Quran 56:65
+      lang: ar
+      text: لَوْ نَشَآءُ لَجَعَلْنَٰهُ حُطَٰمًا فَظَلْتُمْ تَفَكَّهُونَ
 ---
 
 ## Questions

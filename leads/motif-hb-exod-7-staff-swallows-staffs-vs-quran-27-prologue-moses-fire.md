@@ -2,10 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-27-prologue-moses-fire
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Ta
   Sin; Moses at the fire, the jann-staff and the nine signs
-summary: 'These two units share 4 motifs: why pharaoh and egypt refuse despite the signs [divergence between
-  the texts], a staff thrown down becomes a serpent and turns back into a staff, prophet''s wonders are
-  imitated by the king''s magicians in a contest, the king''s heart is hardened (by himself or by god)
-  so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -20,108 +17,9 @@ motifs:
 - staff-becomes-serpent
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 7:13
-  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Pharaoh''s response
-    to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer dibber YHWH, the heart
-    hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49 has no hardening and no divine
-    agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum innahu la-kabīrukumu lladhī ʿallamakumu
-    s-siḥra, with a threat of amputation and crucifixion.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 27:14
-  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Why Egypt refuses:
-    Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh ... ka-ʾăšer dibber YHWH,
-    the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā anfusuhum ẓulman wa-ʿuluwwan,
-    they rejected the signs though inwardly convinced, out of wrongdoing and arrogance. Refusal by God''s
-    design becomes knowing, self-chosen denial.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ
-    ٱلْمُفْسِدِينَ
-- tradition: judaism
-  ref: Exod 7:9
-  note: A staff thrown down becomes a serpent and turns back into a staff (here tannin (sea-dragon/crocodile),
-    not nahash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל אַהֲרֹ֗ן קַ֧ח
-    אֶֽת מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין
-- tradition: judaism
-  ref: Exod 7:10
-  note: A staff thrown down becomes a serpent and turns back into a staff (here tannin (sea-dragon/crocodile),
-    not nahash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
-    אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
-- tradition: islam
-  ref: Quran 27:10
-  note: A staff thrown down becomes a serpent and turns back into a staff
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
-    يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
-- tradition: judaism
-  ref: Exod 7:11
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: judaism
-  ref: Exod 7:12
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
-- tradition: islam
-  ref: Quran 27:13
-  note: 'Prophet''s wonders are imitated by the king''s magicians in a contest (fa-lammā jāʾathum āyātunā
-    mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm wə-la-mkhaššəfîm wa-yyaʿăśû
-    gam hēm ... bə-lahăṭêhem kēn: Pharaoh''s side treats the signs as magic; Exodus shows it by having
-    the magicians copy them, the Quran by having Pharaoh''s people call them ''clear sorcery''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Exod 7:3
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 27:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (they
-    denied them though their souls were convinced)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 27:14
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (they
-    denied them though their souls were convinced)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ
-    ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-lammā jāʾathum āyātunā mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm
-    wə-la-mkhaššəfîm wa-yyaʿăśû gam hēm ... bə-lahăṭêhem kēn: Pharaoh''s side treats the signs as magic;
-    Exodus shows it by having the magicians copy them, the Quran by having Pharaoh''s people call them
-    ''clear sorcery''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why Pharaoh and Egypt refuse despite the signs [divergence between
     the texts] (weight 6.0); A staff thrown down becomes a serpent and turns back into a staff (weight
@@ -160,6 +58,100 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet's wonders are imitated by the king's magicians in a contest
+kinds:
+- echo
+- shared
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-27-prologue-moses-fire
+  title: Ta Sin; Moses at the fire, the jann-staff and the nine signs
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  note: 'fa-lammā jāʾathum āyātunā mubṣiratan qālū hādhā siḥrun mubīnun ~ wa-yyiqrāʾ gam Parʿōh la-ḥăkhāmîm
+    wə-la-mkhaššəfîm wa-yyaʿăśû gam hēm ... bə-lahăṭêhem kēn: Pharaoh''s side treats the signs as magic;
+    Exodus shows it by having the magicians copy them, the Quran by having Pharaoh''s people call them
+    ''clear sorcery''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 27:13
+      lang: ar
+      text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
+- kind: shared
+  label: Why Pharaoh and Egypt refuse despite the signs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:13
+      lang: he
+      text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    note: 'Pharaoh''s response to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer
+      dibber YHWH, the heart hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49
+      has no hardening and no divine agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum
+      innahu la-kabīrukumu lladhī ʿallamakumu s-siḥra, with a threat of amputation and crucifixion.'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:14
+      lang: ar
+      text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ
+        عَٰقِبَةُ ٱلْمُفْسِدِينَ
+    note: 'Why Egypt refuses: Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh
+      ... ka-ʾăšer dibber YHWH, the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā
+      anfusuhum ẓulman wa-ʿuluwwan, they rejected the signs though inwardly convinced, out of wrongdoing
+      and arrogance. Refusal by God''s design becomes knowing, self-chosen denial.'
+- kind: shared
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:9
+      lang: he
+      text: כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל אַהֲרֹ֗ן
+        קַ֧ח אֶֽת מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין
+    - ref: Exod 7:10
+      lang: he
+      text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
+        אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
+    note: here tannin (sea-dragon/crocodile), not nahash
+  - tradition: islam
+    passages:
+    - ref: Quran 27:10
+      lang: ar
+      text: وَأَلْقِ عَصَاكَ فَلَمَّا رَءَاهَا تَهْتَزُّ كَأَنَّهَا جَآنٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ
+        يَٰمُوسَىٰ لَا تَخَفْ إِنِّى لَا يَخَافُ لَدَىَّ ٱلْمُرْسَلُونَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 7:13
+      lang: he
+      text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 27:13
+      lang: ar
+      text: فَلَمَّا جَآءَتْهُمْ ءَايَٰتُنَا مُبْصِرَةً قَالُوا۟ هَٰذَا سِحْرٌ مُّبِينٌ
+    - ref: Quran 27:14
+      lang: ar
+      text: وَجَحَدُوا۟ بِهَا وَٱسْتَيْقَنَتْهَآ أَنفُسُهُمْ ظُلْمًا وَعُلُوًّا فَٱنظُرْ كَيْفَ كَانَ
+        عَٰقِبَةُ ٱلْمُفْسِدِينَ
+    note: they denied them though their souls were convinced
 ---
 
 ## Questions

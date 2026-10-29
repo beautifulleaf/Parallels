@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-119-pe-tav-vs-quran-3-world-and-witness
 title: Psalm 119, stanzas pe to tav ↔ The two hosts, worldly lures, God's witness
-summary: 'These two units share 1 motifs: the righteous slept little of the night and sought forgiveness
-  in the hours before dawn (ashar).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +13,9 @@ layers:
 - motif
 motifs:
 - righteous-sleep-little-and-pray-before-dawn
-passages:
-- tradition: judaism
-  ref: Ps 119:147
-  note: 'The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar)
-    (Ps 119:147-148 qiddamtî ba-nnešep wā-ʾăšawwēʿâ ... qiddĕmû ʿênay ʾašmurôt: I rise before dawn and
-    cry out, my eyes are awake before the night watches; Q 3:17 wa-l-mustaghfirīna bi-l-asḥār: those who
-    ask forgiveness in the hours before dawn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה לדבריך לִדְבָרְךָ֥ יִחָֽלְתִּי
-- tradition: judaism
-  ref: Ps 119:148
-  note: 'The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar)
-    (Ps 119:147-148 qiddamtî ba-nnešep wā-ʾăšawwēʿâ ... qiddĕmû ʿênay ʾašmurôt: I rise before dawn and
-    cry out, my eyes are awake before the night watches; Q 3:17 wa-l-mustaghfirīna bi-l-asḥār: those who
-    ask forgiveness in the hours before dawn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ
-- tradition: islam
-  ref: Quran 3:17
-  note: The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 119:147-148 qiddamtî ba-nnešep wā-ʾăšawwēʿâ ... qiddĕmû ʿênay ʾašmurôt: I rise before dawn
-    and cry out, my eyes are awake before the night watches; Q 3:17 wa-l-mustaghfirīna bi-l-asḥār: those
-    who ask forgiveness in the hours before dawn.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous slept little of the night and sought forgiveness in
     the hours before dawn (ashar) (weight 6.3). Pair score 6.3.'
@@ -74,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar)
+kinds:
+- echo
+units:
+- id: hb-ps-119-pe-tav
+  title: Psalm 119, stanzas pe to tav
+  tradition: judaism
+- id: quran-3-world-and-witness
+  title: The two hosts, worldly lures, God's witness
+  tradition: islam
+matches:
+- kind: echo
+  label: The righteous slept little of the night and sought forgiveness in the hours before dawn (ashar)
+  note: 'Ps 119:147-148 qiddamtî ba-nnešep wā-ʾăšawwēʿâ ... qiddĕmû ʿênay ʾašmurôt: I rise before dawn
+    and cry out, my eyes are awake before the night watches; Q 3:17 wa-l-mustaghfirīna bi-l-asḥār: those
+    who ask forgiveness in the hours before dawn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:147
+      lang: he
+      text: קִדַּ֣מְתִּי בַ֭נֶּשֶׁף וָאֲשַׁוֵּ֑עָה לדבריך לִדְבָרְךָ֥ יִחָֽלְתִּי
+    - ref: Ps 119:148
+      lang: he
+      text: קִדְּמ֣וּ עֵ֭ינַי אַשְׁמֻר֑וֹת לָ֝שִׂ֗יחַ בְּאִמְרָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:17
+      lang: ar
+      text: ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ
 ---
 
 ## Questions

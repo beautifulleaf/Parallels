@@ -2,8 +2,7 @@
 id: motif-hb-ps-51-miserere-vs-quran-26-revelation-devils-poets
 title: Psalm 51, David's confession after Bathsheba (Miserere) ↔ The Trustworthy Spirit, the scriptures
   of the ancients, devils, kin and poets
-summary: 'These two units share 2 motifs: god''s spirit in relation to a person''s heart [divergence between
-  the texts], god''s ''holy spirit'' (ruah qodesh) is asked not to be taken away from a person.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,66 +15,9 @@ layers:
 motifs:
 - spirit-of-god-and-the-heart-as-divergence
 - holy-spirit-of-god
-passages:
-- tradition: judaism
-  ref: Ps 51:12
-  note: 'God''s spirit in relation to a person''s heart [divergence between the texts] (nazala bihi r-rūḥu
-    l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî: the spirit and
-    the heart. In the Psalm God''s holy spirit is a presence within the penitent that he begs not to lose;
-    in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto the prophet''s
-    heart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣ב טָ֭הוֹר בְּרָא לִ֣י אֱלֹהִ֑ים וְר֥וּחַ נָ֝כ֗וֹן חַדֵּ֥שׁ בְּקִרְבִּֽי
-- tradition: judaism
-  ref: Ps 51:13
-  note: 'God''s spirit in relation to a person''s heart [divergence between the texts] (nazala bihi r-rūḥu
-    l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî: the spirit and
-    the heart. In the Psalm God''s holy spirit is a presence within the penitent that he begs not to lose;
-    in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto the prophet''s
-    heart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
-- tradition: islam
-  ref: Quran 26:193
-  note: 'God''s spirit in relation to a person''s heart [divergence between the texts] (nazala bihi r-rūḥu
-    l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî: the spirit and
-    the heart. In the Psalm God''s holy spirit is a presence within the penitent that he begs not to lose;
-    in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto the prophet''s
-    heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
-- tradition: islam
-  ref: Quran 26:194
-  note: 'God''s spirit in relation to a person''s heart [divergence between the texts] (nazala bihi r-rūḥu
-    l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî: the spirit and
-    the heart. In the Psalm God''s holy spirit is a presence within the penitent that he begs not to lose;
-    in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto the prophet''s
-    heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ
-- tradition: judaism
-  ref: Ps 51:13
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (ruah qodshekha,
-    one of only three HB occurrences (with Isa 63:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
-- tradition: islam
-  ref: Quran 26:193
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. nazala bihi r-rūḥu l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ
-    mimmennî: the spirit and the heart. In the Psalm God''s holy spirit is a presence within the penitent
-    that he begs not to lose; in the Quran the Trustworthy Spirit is an agent who brings the revelation
-    down onto the prophet''s heart.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s spirit in relation to a person''s heart [divergence between
     the texts] (weight 6.7); God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away from a
@@ -111,6 +53,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's spirit in relation to a person's heart
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-51-miserere
+  title: Psalm 51, David's confession after Bathsheba (Miserere)
+  tradition: judaism
+- id: quran-26-revelation-devils-poets
+  title: The Trustworthy Spirit, the scriptures of the ancients, devils, kin and poets
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's spirit in relation to a person's heart
+  note: 'nazala bihi r-rūḥu l-amīnu ʿalā qalbika ~ lēv ṭāhôr bərāʾ lî ... wə-rûaḥ qodšəkā ʾal tiqqaḥ mimmennî:
+    the spirit and the heart. In the Psalm God''s holy spirit is a presence within the penitent that he
+    begs not to lose; in the Quran the Trustworthy Spirit is an agent who brings the revelation down onto
+    the prophet''s heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 51:12
+      lang: he
+      text: לֵ֣ב טָ֭הוֹר בְּרָא לִ֣י אֱלֹהִ֑ים וְר֥וּחַ נָ֝כ֗וֹן חַדֵּ֥שׁ בְּקִרְבִּֽי
+    - ref: Ps 51:13
+      lang: he
+      text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 26:193
+      lang: ar
+      text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
+    - ref: Quran 26:194
+      lang: ar
+      text: عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ
+- kind: shared
+  label: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 51:13
+      lang: he
+      text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
+    note: ruah qodshekha, one of only three HB occurrences (with Isa 63:10-11)
+  - tradition: islam
+    passages:
+    - ref: Quran 26:193
+      lang: ar
+      text: نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ
 ---
 
 ## Questions

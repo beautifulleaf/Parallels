@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-1-two-ways-vs-quran-90-city
 title: 'Psalm 1 - the two ways ↔ The city: the two highways and the steep ascent'
-summary: 'These two units share 1 motifs: i set before you life and death, blessing and curse: choose
-  life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - choose-life
-passages:
-- tradition: judaism
-  ref: Ps 1:6
-  note: 'I set before you life and death, blessing and curse: choose life (an-najdayn; aṣḥābu l-maymana
-    / aṣḥābu l-mashʾama ~ kî yôdēaʿ YHWH derek ṣaddîqîm we-derek rešāʿîm tōʾvēd.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד
-- tradition: islam
-  ref: Quran 90:10
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
-- tradition: islam
-  ref: Quran 90:18
-  note: 'I set before you life and death, blessing and curse: choose life (''we showed him the two highways
-    (al-najdayn)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. an-najdayn; aṣḥābu l-maymana / aṣḥābu l-mashʾama ~ kî yôdēaʿ YHWH derek ṣaddîqîm we-derek rešāʿîm
-    tōʾvēd.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
     (weight 5.6). Pair score 5.6.'
@@ -72,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'I set before you life and death, blessing and curse: choose life'
+kinds:
+- echo
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-90-city
+  title: 'The city: the two highways and the steep ascent'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'I set before you life and death, blessing and curse: choose life'
+  note: an-najdayn; aṣḥābu l-maymana / aṣḥābu l-mashʾama ~ kî yôdēaʿ YHWH derek ṣaddîqîm we-derek rešāʿîm
+    tōʾvēd.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:6
+      lang: he
+      text: כִּֽי יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 90:10
+      lang: ar
+      text: وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ
+    - ref: Quran 90:18
+      lang: ar
+      text: أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+    - ref: Quran 90:19
+      lang: ar
+      text: وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ
 ---
 
 ## Questions

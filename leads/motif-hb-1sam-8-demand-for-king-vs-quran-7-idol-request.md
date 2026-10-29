@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-8-demand-for-king-vs-quran-7-idol-request
 title: Israel demands a king; the 'manner of the king' ↔ Israel asks for a god like the idol-worshipers
-summary: 'These two units share 1 motifs: people demand a king ''like all the nations''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,45 +13,9 @@ layers:
 - motif
 motifs:
 - people-demand-king-like-nations
-passages:
-- tradition: judaism
-  ref: 1Sam 8:5
-  note: People demand a king 'like all the nations'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֣וּ אֵלָ֗יו הִנֵּה֙ אַתָּ֣ה זָקַ֔נְתָּ וּבָנֶ֕יךָ לֹ֥א הָלְכ֖וּ בִּדְרָכֶ֑יךָ עַתָּ֗ה
-    שִֽׂימָה לָּ֥נוּ מֶ֛לֶךְ לְשָׁפְטֵ֖נוּ כְּכָל הַגּוֹיִֽם
-- tradition: judaism
-  ref: 1Sam 8:19
-  note: People demand a king 'like all the nations'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמָאֲנ֣וּ הָעָ֔ם לִשְׁמֹ֖עַ בְּק֣וֹל שְׁמוּאֵ֑ל וַיֹּאמְר֣וּ לֹּ֔א כִּ֥י אִם מֶ֖לֶךְ יִֽהְיֶ֥ה
-    עָלֵֽינוּ
-- tradition: islam
-  ref: Quran 7:138
-  note: 'People demand a king ''like all the nations'' (Same request formula ''give us X like the nations'',
-    with the prophet displeased and the request read as rejecting God: ijʿal lanā ilāhan ka-mā lahum ālihatun
-    / a-ghayra llāhi abghīkum ilāhan vs śîmāh-lānû melek ... kᵉkol-haggôyim / kî ʾōtî māʾăsû mimmᵉlōk
-    ʿălêhem. A god in Q, a king in Samuel.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
-    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: islam
-  ref: Quran 7:140
-  note: 'People demand a king ''like all the nations'' (Same request formula ''give us X like the nations'',
-    with the prophet displeased and the request read as rejecting God: ijʿal lanā ilāhan ka-mā lahum ālihatun
-    / a-ghayra llāhi abghīkum ilāhan vs śîmāh-lānû melek ... kᵉkol-haggôyim / kî ʾōtî māʾăsû mimmᵉlōk
-    ʿălêhem. A god in Q, a king in Samuel.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Same request formula ''give us X like the nations'', with the prophet displeased and the request
-    read as rejecting God: ijʿal lanā ilāhan ka-mā lahum ālihatun / a-ghayra llāhi abghīkum ilāhan vs
-    śîmāh-lānû melek ... kᵉkol-haggôyim / kî ʾōtî māʾăsû mimmᵉlōk ʿălêhem. A god in Q, a king in Samuel.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People demand a king ''like all the nations'' (weight 6.3). Pair
     score 6.3.'
@@ -73,6 +37,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People demand a king 'like all the nations'
+kinds:
+- echo
+units:
+- id: hb-1sam-8-demand-for-king
+  title: Israel demands a king; the 'manner of the king'
+  tradition: judaism
+- id: quran-7-idol-request
+  title: Israel asks for a god like the idol-worshipers
+  tradition: islam
+matches:
+- kind: echo
+  label: People demand a king 'like all the nations'
+  note: 'Same request formula ''give us X like the nations'', with the prophet displeased and the request
+    read as rejecting God: ijʿal lanā ilāhan ka-mā lahum ālihatun / a-ghayra llāhi abghīkum ilāhan vs
+    śîmāh-lānû melek ... kᵉkol-haggôyim / kî ʾōtî māʾăsû mimmᵉlōk ʿălêhem. A god in Q, a king in Samuel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 8:5
+      lang: he
+      text: וַיֹּאמְר֣וּ אֵלָ֗יו הִנֵּה֙ אַתָּ֣ה זָקַ֔נְתָּ וּבָנֶ֕יךָ לֹ֥א הָלְכ֖וּ בִּדְרָכֶ֑יךָ עַתָּ֗ה
+        שִֽׂימָה לָּ֥נוּ מֶ֛לֶךְ לְשָׁפְטֵ֖נוּ כְּכָל הַגּוֹיִֽם
+    - ref: 1Sam 8:7
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל שְׁמוּאֵ֔ל שְׁמַע֙ בְּק֣וֹל הָעָ֔ם לְכֹ֥ל אֲשֶׁר יֹאמְר֖וּ אֵלֶ֑יךָ
+        כִּ֣י לֹ֤א אֹֽתְךָ֙ מָאָ֔סוּ כִּֽי אֹתִ֥י מָאֲס֖וּ מִמְּלֹ֥ךְ עֲלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:138
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ
+        أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ
+        قَوْمٌ تَجْهَلُونَ
+    - ref: Quran 7:140
+      lang: ar
+      text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

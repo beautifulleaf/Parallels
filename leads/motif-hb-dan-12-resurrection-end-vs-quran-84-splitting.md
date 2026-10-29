@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-12-resurrection-end-vs-quran-84-splitting
 title: 'Michael arises, the resurrection, and the sealed book ↔ The splitting: the book in the right hand'
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Dan 12:1
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
-    עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
-    עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
-- tradition: islam
-  ref: Quran 84:7
-  note: 'God keeps a book in which names are written and from which sinners are blotted (man ūtiya kitābahu
-    bi-yamīnihi ... man ūtiya kitābahu warāʾa ẓahrihi ~ yimmālēṭ ʿammekā kol ha-nnimṣāʾ kātûv ba-ssēfer:
-    the book decides who is saved.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ
-- tradition: islam
-  ref: Quran 84:10
-  note: 'God keeps a book in which names are written and from which sinners are blotted (man ūtiya kitābahu
-    bi-yamīnihi ... man ūtiya kitābahu warāʾa ẓahrihi ~ yimmālēṭ ʿammekā kol ha-nnimṣāʾ kātûv ba-ssēfer:
-    the book decides who is saved.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. man ūtiya kitābahu bi-yamīnihi ... man ūtiya kitābahu warāʾa ẓahrihi ~ yimmālēṭ ʿammekā kol
-    ha-nnimṣāʾ kātûv ba-ssēfer: the book decides who is saved.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -79,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-84-splitting
+  title: 'The splitting: the book in the right hand'
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'man ūtiya kitābahu bi-yamīnihi ... man ūtiya kitābahu warāʾa ẓahrihi ~ yimmālēṭ ʿammekā kol ha-nnimṣāʾ
+    kātûv ba-ssēfer: the book decides who is saved.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:1
+      lang: he
+      text: וּבָעֵ֣ת הַהִיא֩ יַעֲמֹ֨ד מִֽיכָאֵ֜ל הַשַּׂ֣ר הַגָּד֗וֹל הָעֹמֵד֮ עַל בְּנֵ֣י עַמֶּךָ֒ וְהָיְתָה֙
+        עֵ֣ת צָרָ֔ה אֲשֶׁ֤ר לֹֽא נִהְיְתָה֙ מִֽהְי֣וֹת גּ֔וֹי עַ֖ד הָעֵ֣ת הַהִ֑יא וּבָעֵ֤ת הַהִיא֙ יִמָּלֵ֣ט
+        עַמְּךָ֔ כָּל הַנִּמְצָ֖א כָּת֥וּב בַּסֵּֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 84:7
+      lang: ar
+      text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ
+    - ref: Quran 84:10
+      lang: ar
+      text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ
 ---
 
 ## Questions

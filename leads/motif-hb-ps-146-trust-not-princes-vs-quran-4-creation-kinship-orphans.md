@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-146-trust-not-princes-vs-quran-4-creation-kinship-orphans
 title: Psalm 146, do not trust in princes ↔ One soul, the wombs, orphans' property and the bride-gift
-summary: 'These two units share 1 motifs: god executes justice for orphan and widow and loves the stranger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,34 +13,9 @@ layers:
 - motif
 motifs:
 - god-loves-stranger-orphan-widow
-passages:
-- tradition: judaism
-  ref: Ps 146:9
-  note: God executes justice for orphan and widow and loves the stranger
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֤ה שֹׁ֘מֵ֤ר אֶת גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת
-- tradition: islam
-  ref: Quran 4:2
-  note: God executes justice for orphan and widow and loves the stranger (care for the weak offspring
-    one leaves behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟
-    أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
-- tradition: islam
-  ref: Quran 4:9
-  note: God executes justice for orphan and widow and loves the stranger (care for the weak offspring
-    one leaves behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟
-    ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 146:9 YHWH šōmēr ʾet gērîm yātôm wĕ-ʾalmānâ yĕʿôdēd; Q 4:2, 6 wa-ātū l-yatāmā amwālahum ...
-    wa-btalū l-yatāmā: God guards the orphan in the psalm; the guardians are given concrete property duties
-    in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
     (weight 5.2). Pair score 5.2.'
@@ -71,6 +46,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God executes justice for orphan and widow and loves the stranger
+kinds:
+- echo
+units:
+- id: hb-ps-146-trust-not-princes
+  title: Psalm 146, do not trust in princes
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: echo
+  label: God executes justice for orphan and widow and loves the stranger
+  note: 'Ps 146:9 YHWH šōmēr ʾet gērîm yātôm wĕ-ʾalmānâ yĕʿôdēd; Q 4:2, 6 wa-ātū l-yatāmā amwālahum ...
+    wa-btalū l-yatāmā: God guards the orphan in the psalm; the guardians are given concrete property duties
+    in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 146:9
+      lang: he
+      text: יְהוָ֤ה שֹׁ֘מֵ֤ר אֶת גֵּרִ֗ים יָת֣וֹם וְאַלְמָנָ֣ה יְעוֹדֵ֑ד וְדֶ֖רֶךְ רְשָׁעִ֣ים יְעַוֵּֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:2
+      lang: ar
+      text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا
+        تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
+    - ref: Quran 4:6
+      lang: ar
+      text: وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ
+        رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟
+        وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ فَإِذَا
+        دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ وَكَفَىٰ بِٱللَّهِ حَسِيبًا
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-gen-29-jacob-rachel-leah-vs-quran-4-marriage-forbidden-degrees
 title: Jacob meets Rachel; Laban's substitution of Leah ↔ Inheriting women, the dowry, and the forbidden
   degrees
-summary: 'These two units share 1 motifs: hero marries two sisters.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - marriage-to-two-sisters
-passages:
-- tradition: judaism
-  ref: Gen 29:28
-  note: Hero marries two sisters
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤עַשׂ יַעֲקֹב֙ כֵּ֔ן וַיְמַלֵּ֖א שְׁבֻ֣עַ זֹ֑את וַיִּתֶּן ל֛וֹ אֶת רָחֵ֥ל בִּתּ֖וֹ ל֥וֹ לְאִשָּֽׁה
-- tradition: judaism
-  ref: Gen 29:30
-  note: Hero marries two sisters
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹא֙ גַּ֣ם אֶל רָחֵ֔ל וַיֶּאֱהַ֥ב גַּֽם אֶת רָחֵ֖ל מִלֵּאָ֑ה וַיַּעֲבֹ֣ד עִמּ֔וֹ ע֖וֹד שֶֽׁבַע
-    שָׁנִ֥ים אֲחֵרֽוֹת
-- tradition: islam
-  ref: Quran 4:23
-  note: 'Hero marries two sisters (Gen 29:28 wa-yyitten lô ʾet rāḥēl bittô lô lĕ-ʾiššâ: Jacob, already
-    married to Leah, also marries her sister Rachel; Q 4:23 wa-an tajmaʿū bayna l-ukhtayni illā mā qad
-    salaf: combining two sisters is forbidden ''except what is past''. The Quran does not name Jacob;
-    the amnesty clause fits the patriarch''s case (lead from the unit''s hint).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
-    وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ
-    ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
-    ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
-    أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ
-    سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 29:28 wa-yyitten lô ʾet rāḥēl bittô lô lĕ-ʾiššâ: Jacob, already married to Leah, also marries
-    her sister Rachel; Q 4:23 wa-an tajmaʿū bayna l-ukhtayni illā mā qad salaf: combining two sisters
-    is forbidden ''except what is past''. The Quran does not name Jacob; the amnesty clause fits the patriarch''s
-    case (lead from the unit''s hint).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero marries two sisters (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -80,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero marries two sisters
+kinds:
+- echo
+units:
+- id: hb-gen-29-jacob-rachel-leah
+  title: Jacob meets Rachel; Laban's substitution of Leah
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: echo
+  label: Hero marries two sisters
+  note: 'Gen 29:28 wa-yyitten lô ʾet rāḥēl bittô lô lĕ-ʾiššâ: Jacob, already married to Leah, also marries
+    her sister Rachel; Q 4:23 wa-an tajmaʿū bayna l-ukhtayni illā mā qad salaf: combining two sisters
+    is forbidden ''except what is past''. The Quran does not name Jacob; the amnesty clause fits the patriarch''s
+    case (lead from the unit''s hint).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 29:28
+      lang: he
+      text: וַיַּ֤עַשׂ יַעֲקֹב֙ כֵּ֔ן וַיְמַלֵּ֖א שְׁבֻ֣עַ זֹ֑את וַיִּתֶּן ל֛וֹ אֶת רָחֵ֥ל בִּתּ֖וֹ ל֥וֹ
+        לְאִשָּֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:23
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
+        وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم
+        مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
+        ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
+        أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا
+        قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-exod-17-water-from-rock-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'Water from the rock at Massah and Meribah ↔ Al-Saff: ranks like a solid structure; Moses hurt
   by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: moses ill-treated by his own people [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - moses-ill-treated-by-his-people-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 17:4
-  note: 'Moses ill-treated by his own people [divergence between the texts] (Moses ill-treated by his
-    own people, with a different addressee. Exodus: wa-yyiṣʿaq mōšeh ʾel YHWH lēʾmōr māh ʾeʿĕśeh lā-ʿām
-    haz-zeh ʿôḏ məʿaṭ û-səqālūnî (he cries to God: they are about to stone me). Quran: wa-idh qāla mūsā
-    li-qawmihi yā qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum (he asks his people
-    directly, appealing to his status as God''s messenger). The Quran adds the outcome: fa-lammā zāghū
-    azāgha llāhu qulūbahum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל יְהוָ֣ה לֵאמֹ֔ר מָ֥ה אֶעֱשֶׂ֖ה לָעָ֣ם הַזֶּ֑ה ע֥וֹד מְעַ֖ט וּסְקָלֻֽנִי
-- tradition: islam
-  ref: Quran 61:5
-  note: 'Moses ill-treated by his own people [divergence between the texts] (Moses ill-treated by his
-    own people, with a different addressee. Exodus: wa-yyiṣʿaq mōšeh ʾel YHWH lēʾmōr māh ʾeʿĕśeh lā-ʿām
-    haz-zeh ʿôḏ məʿaṭ û-səqālūnî (he cries to God: they are about to stone me). Quran: wa-idh qāla mūsā
-    li-qawmihi yā qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi ilaykum (he asks his people
-    directly, appealing to his status as God''s messenger). The Quran adds the outcome: fa-lammā zāghū
-    azāgha llāhu qulūbahum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
-    ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
-    ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Moses ill-treated by his own people, with a different addressee. Exodus: wa-yyiṣʿaq mōšeh
-    ʾel YHWH lēʾmōr māh ʾeʿĕśeh lā-ʿām haz-zeh ʿôḏ məʿaṭ û-səqālūnî (he cries to God: they are about to
-    stone me). Quran: wa-idh qāla mūsā li-qawmihi yā qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu
-    llāhi ilaykum (he asks his people directly, appealing to his status as God''s messenger). The Quran
-    adds the outcome: fa-lammā zāghū azāgha llāhu qulūbahum.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses ill-treated by his own people [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -78,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses ill-treated by his own people
+kinds:
+- divergence
+units:
+- id: hb-exod-17-water-from-rock
+  title: Water from the rock at Massah and Meribah
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Moses ill-treated by his own people
+  note: 'Moses ill-treated by his own people, with a different addressee. Exodus: wa-yyiṣʿaq mōšeh ʾel
+    YHWH lēʾmōr māh ʾeʿĕśeh lā-ʿām haz-zeh ʿôḏ məʿaṭ û-səqālūnî (he cries to God: they are about to stone
+    me). Quran: wa-idh qāla mūsā li-qawmihi yā qawmi li-ma tuʾdhūnanī wa-qad taʿlamūna annī rasūlu llāhi
+    ilaykum (he asks his people directly, appealing to his status as God''s messenger). The Quran adds
+    the outcome: fa-lammā zāghū azāgha llāhu qulūbahum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 17:4
+      lang: he
+      text: וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל יְהוָ֣ה לֵאמֹ֔ר מָ֥ה אֶעֱשֶׂ֖ה לָעָ֣ם הַזֶּ֑ה ע֥וֹד מְעַ֖ט וּסְקָלֻֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 61:5
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ
+        ٱللَّهِ إِلَيْكُمْ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ
+        ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

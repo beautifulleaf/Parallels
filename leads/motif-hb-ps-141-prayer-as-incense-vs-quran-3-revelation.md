@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-141-prayer-as-incense-vs-quran-3-revelation
 title: Psalm 141, prayer as incense, guard on the mouth ↔ Torah, Gospel and the clear and ambiguous verses
-summary: 'These two units share 1 motifs: prayer that god not turn (incline) the petitioner''s heart aside,
-  but toward his way.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - prayer-god-not-turn-heart-astray
-passages:
-- tradition: judaism
-  ref: Ps 141:4
-  note: 'Prayer that God not turn (incline) the petitioner''s heart aside, but toward his way (Ps 141:4
-    ʾal taṭ libbî lĕ-dābār rāʿ: ''do not incline my heart to an evil thing''; Q 3:8 rabbanā lā tuzigh
-    qulūbanā baʿda idh hadaytanā: ''our Lord, do not let our hearts swerve after you have guided us''.
-    A petition that God not turn the heart aside, singular in the psalm, plural in the Quran, linked to
-    the deviant hearts (zaygh) of 3:7.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּט לִבִּ֨י לְדָבָ֪ר רָ֡ע לְהִתְע֘וֹלֵ֤ל עֲלִל֨וֹת בְּרֶ֗שַׁע אֶת אִישִׁ֥ים פֹּֽעֲלֵי אָ֑וֶן
-    וּבַל אֶ֝לְחַ֗ם בְּמַנְעַמֵּיהֶֽם
-- tradition: islam
-  ref: Quran 3:8
-  note: 'Prayer that God not turn (incline) the petitioner''s heart aside, but toward his way (Ps 141:4
-    ʾal taṭ libbî lĕ-dābār rāʿ: ''do not incline my heart to an evil thing''; Q 3:8 rabbanā lā tuzigh
-    qulūbanā baʿda idh hadaytanā: ''our Lord, do not let our hearts swerve after you have guided us''.
-    A petition that God not turn the heart aside, singular in the psalm, plural in the Quran, linked to
-    the deviant hearts (zaygh) of 3:7.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ
-    أَنتَ ٱلْوَهَّابُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 141:4 ʾal taṭ libbî lĕ-dābār rāʿ: ''do not incline my heart to an evil thing''; Q 3:8
-    rabbanā lā tuzigh qulūbanā baʿda idh hadaytanā: ''our Lord, do not let our hearts swerve after you
-    have guided us''. A petition that God not turn the heart aside, singular in the psalm, plural in the
-    Quran, linked to the deviant hearts (zaygh) of 3:7.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer that God not turn (incline) the petitioner''s heart aside,
     but toward his way (weight 6.3). Pair score 6.3.'
@@ -71,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer that God not turn (incline) the petitioner's heart aside, but toward his way
+kinds:
+- parallel
+units:
+- id: hb-ps-141-prayer-as-incense
+  title: Psalm 141, prayer as incense, guard on the mouth
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prayer that God not turn (incline) the petitioner's heart aside, but toward his way
+  note: 'Ps 141:4 ʾal taṭ libbî lĕ-dābār rāʿ: ''do not incline my heart to an evil thing''; Q 3:8 rabbanā
+    lā tuzigh qulūbanā baʿda idh hadaytanā: ''our Lord, do not let our hearts swerve after you have guided
+    us''. A petition that God not turn the heart aside, singular in the psalm, plural in the Quran, linked
+    to the deviant hearts (zaygh) of 3:7.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 141:4
+      lang: he
+      text: אַל תַּט לִבִּ֨י לְדָבָ֪ר רָ֡ע לְהִתְע֘וֹלֵ֤ל עֲלִל֨וֹת בְּרֶ֗שַׁע אֶת אִישִׁ֥ים פֹּֽעֲלֵי
+        אָ֑וֶן וּבַל אֶ֝לְחַ֗ם בְּמַנְעַמֵּיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:8
+      lang: ar
+      text: رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً
+        إِنَّكَ أَنتَ ٱلْوَهَّابُ
 ---
 
 ## Questions

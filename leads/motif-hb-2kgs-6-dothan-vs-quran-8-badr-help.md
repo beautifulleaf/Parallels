@@ -1,8 +1,7 @@
 ---
 id: motif-hb-2kgs-6-dothan-vs-quran-8-badr-help
 title: Elisha at Dothan; the blinded Arameans ↔ Badr - angels, slumber, rain and God's throw
-summary: 'These two units share 1 motifs: god reinforces the believers in battle with a thousand (or more)
-  angels.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,52 +13,9 @@ layers:
 - motif
 motifs:
 - angelic-reinforcement-in-battle
-passages:
-- tradition: judaism
-  ref: 2Kgs 6:17
-  note: 'God reinforces the believers in battle with a thousand (or more) angels (2Kgs 6:17 wĕ-hinnēh
-    hā-hār mālēʾ sûsîm wĕ-rekeb ʾēš sĕbîbōt ʾĕlîšāʿ: the mountain full of fiery horses and chariots around
-    the prophet; Q 3:124-125 an yumiddakum rabbukum bi-thalāthati ālāfin mina l-malāʾikati munzalīn ...
-    bi-khamsati ālāfin mina l-malāʾikati musawwimīn: God reinforces you with three, then five thousand
-    angels, sent down and marked. A heavenly host on the side of God''s party; seen only by the opened
-    eyes in Kings, counted in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֤ל אֱלִישָׁע֙ וַיֹּאמַ֔ר יְהוָ֕ה פְּקַח נָ֥א אֶת עֵינָ֖יו וְיִרְאֶ֑ה וַיִּפְקַ֤ח
-    יְהוָה֙ אֶת עֵינֵ֣י הַנַּ֔עַר וַיַּ֗רְא וְהִנֵּ֨ה הָהָ֜ר מָלֵ֨א סוּסִ֥ים וְרֶ֛כֶב אֵ֖שׁ סְבִיבֹ֥ת
-    אֱלִישָֽׁע
-- tradition: judaism
-  ref: 2Kgs 6:16
-  note: 'God reinforces the believers in battle with a thousand (or more) angels (2Kgs 6:17 wĕ-hinnēh
-    hā-hār mālēʾ sûsîm wĕ-rekeb ʾēš sĕbîbōt ʾĕlîšāʿ: the mountain full of fiery horses and chariots around
-    the prophet; Q 3:124-125 an yumiddakum rabbukum bi-thalāthati ālāfin mina l-malāʾikati munzalīn ...
-    bi-khamsati ālāfin mina l-malāʾikati musawwimīn: God reinforces you with three, then five thousand
-    angels, sent down and marked. A heavenly host on the side of God''s party; seen only by the opened
-    eyes in Kings, counted in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר אַל תִּירָ֑א כִּ֤י רַבִּים֙ אֲשֶׁ֣ר אִתָּ֔נוּ מֵאֲשֶׁ֖ר אוֹתָֽם
-- tradition: islam
-  ref: Quran 8:9
-  note: God reinforces the believers in battle with a thousand (or more) angels (a thousand angels, one
-    after another (murdifin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ
-    مُرْدِفِينَ
-- tradition: islam
-  ref: Quran 8:10
-  note: God reinforces the believers in battle with a thousand (or more) angels (a thousand angels, one
-    after another (murdifin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشْرَىٰ وَلِتَطْمَئِنَّ بِهِۦ قُلُوبُكُمْ وَمَا ٱلنَّصْرُ إِلَّا
-    مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. An unseen heavenly army sides with the few: annī mumiddukum bi-alfin mina l-malāʾikati murdifīn
-    vs kî rabbîm ʾăšer ʾittānû mēʾăšer ʾôtām ... wᵉhinnēh hāhār mālēʾ sûsîm wᵉrekeb ʾēš. In Kings the
-    host is only shown to the servant; in Q the angels fight (fa-ḍribū fawqa l-aʿnāqi).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God reinforces the believers in battle with a thousand (or more)
     angels (weight 6.0). Pair score 6.0.'
@@ -90,6 +46,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God reinforces the believers in battle with a thousand (or more) angels
+kinds:
+- echo
+units:
+- id: hb-2kgs-6-dothan
+  title: Elisha at Dothan; the blinded Arameans
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: echo
+  label: God reinforces the believers in battle with a thousand (or more) angels
+  note: 'An unseen heavenly army sides with the few: annī mumiddukum bi-alfin mina l-malāʾikati murdifīn
+    vs kî rabbîm ʾăšer ʾittānû mēʾăšer ʾôtām ... wᵉhinnēh hāhār mālēʾ sûsîm wᵉrekeb ʾēš. In Kings the
+    host is only shown to the servant; in Q the angels fight (fa-ḍribū fawqa l-aʿnāqi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 6:16
+      lang: he
+      text: וַיֹּ֖אמֶר אַל תִּירָ֑א כִּ֤י רַבִּים֙ אֲשֶׁ֣ר אִתָּ֔נוּ מֵאֲשֶׁ֖ר אוֹתָֽם
+    - ref: 2Kgs 6:17
+      lang: he
+      text: וַיִּתְפַּלֵּ֤ל אֱלִישָׁע֙ וַיֹּאמַ֔ר יְהוָ֕ה פְּקַח נָ֥א אֶת עֵינָ֖יו וְיִרְאֶ֑ה וַיִּפְקַ֤ח
+        יְהוָה֙ אֶת עֵינֵ֣י הַנַּ֔עַר וַיַּ֗רְא וְהִנֵּ֨ה הָהָ֜ר מָלֵ֨א סוּסִ֥ים וְרֶ֛כֶב אֵ֖שׁ סְבִיבֹ֥ת
+        אֱלִישָֽׁע
+  - tradition: islam
+    passages:
+    - ref: Quran 8:9
+      lang: ar
+      text: إِذْ تَسْتَغِيثُونَ رَبَّكُمْ فَٱسْتَجَابَ لَكُمْ أَنِّى مُمِدُّكُم بِأَلْفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ
+        مُرْدِفِينَ
+    - ref: Quran 8:12
+      lang: ar
+      text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟
+        سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟
+        مِنْهُمْ كُلَّ بَنَانٍ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-51-dhariyat-flee-to-god
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ The sky
   expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
-summary: 'These two units share 2 motifs: god built the sky with might (bi-aydin) and is expanding it
-  (inna la-musi''un), god alone stretches out the heavens.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,50 +16,9 @@ layers:
 motifs:
 - sky-built-with-might-and-expanding
 - god-alone-stretches-heavens
-passages:
-- tradition: judaism
-  ref: Isa 45:12
-  note: 'God built the sky with might (bi-aydin) and is expanding it (inna la-musi''un) (Heaven made ''with
-    hands'': ʾănî yāḏay nāṭû šāmayim wə-ḵol ṣəḇāʾām ṣiwwêṯî vs. wa-s-samāʾa banaynāhā bi-aydin wa-innā
-    la-mūsiʿūn (aydin, read ''with might'', is also the plural of ''hand''; yāḏay = my hands). Isaiah''s
-    God stretched (nāṭû) the heavens; the Quran''s built them and ''widens'' them (mūsiʿūn). Modern ''expanding
-    universe'' readings of mūsiʿūn are later; lead on the hands/might wording.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל צְבָאָ֖ם
-    צִוֵּֽיתִי
-- tradition: islam
-  ref: Quran 51:47
-  note: God built the sky with might (bi-aydin) and is expanding it (inna la-musi'un)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
-- tradition: judaism
-  ref: Isa 45:12
-  note: God alone stretches out the heavens
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל צְבָאָ֖ם
-    צִוֵּֽיתִי
-- tradition: islam
-  ref: Quran 51:47
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
-- tradition: islam
-  ref: Quran 51:48
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Heaven made ''with hands'': ʾănî yāḏay nāṭû šāmayim wə-ḵol ṣəḇāʾām ṣiwwêṯî vs. wa-s-samāʾa
-    banaynāhā bi-aydin wa-innā la-mūsiʿūn (aydin, read ''with might'', is also the plural of ''hand'';
-    yāḏay = my hands). Isaiah''s God stretched (nāṭû) the heavens; the Quran''s built them and ''widens''
-    them (mūsiʿūn). Modern ''expanding universe'' readings of mūsiʿūn are later; lead on the hands/might
-    wording.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God built the sky with might (bi-aydin) and is expanding it (inna
     la-musi''un) (weight 6.7); God alone stretches out the heavens (weight 5.3). Pair score 12.0.'
@@ -99,6 +57,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God built the sky with might (bi-aydin) and is expanding it (inna la-musi'un)
+kinds:
+- parallel
+- shared
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: parallel
+  label: God built the sky with might (bi-aydin) and is expanding it (inna la-musi'un)
+  note: 'Heaven made ''with hands'': ʾănî yāḏay nāṭû šāmayim wə-ḵol ṣəḇāʾām ṣiwwêṯî vs. wa-s-samāʾa banaynāhā
+    bi-aydin wa-innā la-mūsiʿūn (aydin, read ''with might'', is also the plural of ''hand''; yāḏay = my
+    hands). Isaiah''s God stretched (nāṭû) the heavens; the Quran''s built them and ''widens'' them (mūsiʿūn).
+    Modern ''expanding universe'' readings of mūsiʿūn are later; lead on the hands/might wording.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:12
+      lang: he
+      text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל
+        צְבָאָ֖ם צִוֵּֽיתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 51:47
+      lang: ar
+      text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
+- kind: shared
+  label: God alone stretches out the heavens
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:12
+      lang: he
+      text: אָֽנֹכִי֙ עָשִׂ֣יתִי אֶ֔רֶץ וְאָדָ֖ם עָלֶ֣יהָ בָרָ֑אתִי אֲנִ֗י יָדַי֙ נָט֣וּ שָׁמַ֔יִם וְכָל
+        צְבָאָ֖ם צִוֵּֽיתִי
+  - tradition: islam
+    passages:
+    - ref: Quran 51:47
+      lang: ar
+      text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
+    - ref: Quran 51:48
+      lang: ar
+      text: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
 ---
 
 ## Questions

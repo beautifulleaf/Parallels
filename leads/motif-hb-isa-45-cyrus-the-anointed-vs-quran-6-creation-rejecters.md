@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-6-creation-rejecters
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Darkness
   and light, clay and two terms, and those who would not believe
-summary: 'These two units share 1 motifs: ''i form light and create darkness, make peace and create evil
-  (ra''); i yhwh do all these''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - god-creates-light-and-darkness-peace-and-evil
-passages:
-- tradition: judaism
-  ref: Isa 45:7
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 6:1
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    (jaʿala l-ẓulumāti wa-l-nūr; Isa 45:7)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ ثُمَّ
-    ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: al-ḥamdu li-llāhi lladhī khalaqa l-samāwāti wa-l-arḍa wa-jaʿala l-ẓulumāti wa-l-nūra. Isa:
-    yôṣēr ʾôr û-vôrēʾ ḥōšekh. Both make God the maker of darkness as well as light. Q has the pair light/darkness
-    only, without Isa''s šālôm / rāʿ.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
     I YHWH do all these'' (weight 6.0). Pair score 6.0.'
@@ -73,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-6-creation-rejecters
+  title: Darkness and light, clay and two terms, and those who would not believe
+  tradition: islam
+matches:
+- kind: echo
+  label: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+  note: 'Q: al-ḥamdu li-llāhi lladhī khalaqa l-samāwāti wa-l-arḍa wa-jaʿala l-ẓulumāti wa-l-nūra. Isa:
+    yôṣēr ʾôr û-vôrēʾ ḥōšekh. Both make God the maker of darkness as well as light. Q has the pair light/darkness
+    only, without Isa''s šālôm / rāʿ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:7
+      lang: he
+      text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל
+        אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:1
+      lang: ar
+      text: ٱلْحَمْدُ لِلَّهِ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ
+        ثُمَّ ٱلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ يَعْدِلُونَ
 ---
 
 ## Questions

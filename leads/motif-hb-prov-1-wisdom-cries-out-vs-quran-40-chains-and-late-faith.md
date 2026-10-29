@@ -2,8 +2,7 @@
 id: motif-hb-prov-1-wisdom-cries-out-vs-quran-40-chains-and-late-faith
 title: Proverbs 1:20-33, Lady Wisdom's speech in the streets ↔ Dragged in chains; messengers told and
   untold; faith on seeing punishment
-summary: 'These two units share 1 motifs: seized at the end, they say ''we believe'', but how can they
-  reach it from a far place?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,48 +15,9 @@ layers:
 - motif
 motifs:
 - faith-at-last-moment-unaccepted
-passages:
-- tradition: judaism
-  ref: Prov 1:26
-  note: 'Seized at the end, they say ''we believe'', but how can they reach it from a far place? (bə-ḇōʾ
-    ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs. fa-lammā raʾaw
-    baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw baʾsanā: a call
-    made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who refuses; in the
-    Quran it is God''s unchanging sunna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם אֲ֭נִי בְּאֵידְכֶ֣ם אֶשְׂחָ֑ק אֶ֝לְעַ֗ג בְּבֹ֣א פַחְדְּכֶֽם
-- tradition: judaism
-  ref: Prov 1:27
-  note: 'Seized at the end, they say ''we believe'', but how can they reach it from a far place? (bə-ḇōʾ
-    ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs. fa-lammā raʾaw
-    baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw baʾsanā: a call
-    made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who refuses; in the
-    Quran it is God''s unchanging sunna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּבֹ֤א כשאוה כְשׁוֹאָ֨ה פַּחְדְּכֶ֗ם וְֽ֭אֵידְכֶם כְּסוּפָ֣ה יֶאֱתֶ֑ה בְּבֹ֥א עֲ֝לֵיכֶ֗ם צָרָ֥ה
-    וְצוּקָֽה
-- tradition: islam
-  ref: Quran 40:84
-  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ
-    مُشْرِكِينَ
-- tradition: islam
-  ref: Quran 40:85
-  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ
-    فِى عِبَادِهِۦ وَخَسِرَ هُنَالِكَ ٱلْكَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. bə-ḇōʾ ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî
-    vs. fa-lammā raʾaw baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā
-    raʾaw baʾsanā: a call made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom
-    who refuses; in the Quran it is God''s unchanging sunna.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seized at the end, they say ''we believe'', but how can they reach
     it from a far place? (weight 6.0). Pair score 6.0.'
@@ -86,6 +46,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+kinds:
+- parallel
+units:
+- id: hb-prov-1-wisdom-cries-out
+  title: Proverbs 1:20-33, Lady Wisdom's speech in the streets
+  tradition: judaism
+- id: quran-40-chains-and-late-faith
+  title: Dragged in chains; messengers told and untold; faith on seeing punishment
+  tradition: islam
+matches:
+- kind: parallel
+  label: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+  note: 'bə-ḇōʾ ḵə-šôʾâ paḥdəḵem ... ʾāz yiqrāʾunənî wə-lōʾ ʾeʿĕneh yəšaḥărunənî wə-lōʾ yimṣāʾunənî vs.
+    fa-lammā raʾaw baʾsanā qālū āmannā bi-llāhi waḥdahu ... fa-lam yaku yanfaʿuhum īmānuhum lammā raʾaw
+    baʾsanā: a call made only when disaster strikes is not answered. In Proverbs it is Lady Wisdom who
+    refuses; in the Quran it is God''s unchanging sunna.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 1:26
+      lang: he
+      text: גַּם אֲ֭נִי בְּאֵידְכֶ֣ם אֶשְׂחָ֑ק אֶ֝לְעַ֗ג בְּבֹ֣א פַחְדְּכֶֽם
+    - ref: Prov 1:27
+      lang: he
+      text: בְּבֹ֤א כשאוה כְשׁוֹאָ֨ה פַּחְדְּכֶ֗ם וְֽ֭אֵידְכֶם כְּסוּפָ֣ה יֶאֱתֶ֑ה בְּבֹ֥א עֲ֝לֵיכֶ֗ם
+        צָרָ֥ה וְצוּקָֽה
+    - ref: Prov 1:28
+      lang: he
+      text: אָ֣ז יִ֭קְרָאֻנְנִי וְלֹ֣א אֶֽעֱנֶ֑ה יְ֝שַׁחֲרֻ֗נְנִי וְלֹ֣א יִמְצָאֻֽנְנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 40:84
+      lang: ar
+      text: فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا
+        بِهِۦ مُشْرِكِينَ
+    - ref: Quran 40:85
+      lang: ar
+      text: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ
+        خَلَتْ فِى عِبَادِهِۦ وَخَسِرَ هُنَالِكَ ٱلْكَٰفِرُونَ
 ---
 
 ## Questions

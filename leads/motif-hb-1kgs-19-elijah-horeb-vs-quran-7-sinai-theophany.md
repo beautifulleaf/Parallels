@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-19-elijah-horeb-vs-quran-7-sinai-theophany
 title: Elijah flees to Horeb; the still small voice ↔ Forty nights, the request to see God and the tablets
-summary: 'These two units share 2 motifs: a mountain is shattered when god passes by or manifests himself
-  [divergence between the texts], a prophet spends forty days and forty nights in a set period.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,63 +14,9 @@ layers:
 motifs:
 - mountain-shattered-as-god-passes-as-divergence
 - forty-days-and-nights
-passages:
-- tradition: judaism
-  ref: 1Kgs 19:11
-  note: 'A mountain is shattered when God passes by or manifests himself [divergence between the texts]
-    (A prophet at the mountain of God, the mountain shattered as God passes: fa-lammā tajallā rabbuhu
-    li-l-jabali jaʿalahu dakkan vs rûaḥ gᵉdôlāh wᵉḥāzāq mᵉpārēq hārîm ûmᵉšabbēr sᵉlāʿîm. Reversed: in
-    Kings God is NOT in the shattering (lōʾ bārûaḥ YHWH ... lōʾ bāraʿaš YHWH), only in qôl dᵉmāmāh daqqāh;
-    in Q the shattering is the very manifestation (tajallī) of God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר צֵ֣א וְעָמַדְתָּ֣ בָהָר֮ לִפְנֵ֣י יְהוָה֒ וְהִנֵּ֧ה יְהוָ֣ה עֹבֵ֗ר וְר֣וּחַ גְּדוֹלָ֡ה
-    וְחָזָ֞ק מְפָרֵק֩ הָרִ֨ים וּמְשַׁבֵּ֤ר סְלָעִים֙ לִפְנֵ֣י יְהוָ֔ה לֹ֥א בָר֖וּחַ יְהוָ֑ה וְאַחַ֤ר הָר֨וּחַ
-    רַ֔עַשׁ לֹ֥א בָרַ֖עַשׁ יְהוָֽה
-- tradition: judaism
-  ref: 1Kgs 19:12
-  note: 'A mountain is shattered when God passes by or manifests himself [divergence between the texts]
-    (A prophet at the mountain of God, the mountain shattered as God passes: fa-lammā tajallā rabbuhu
-    li-l-jabali jaʿalahu dakkan vs rûaḥ gᵉdôlāh wᵉḥāzāq mᵉpārēq hārîm ûmᵉšabbēr sᵉlāʿîm. Reversed: in
-    Kings God is NOT in the shattering (lōʾ bārûaḥ YHWH ... lōʾ bāraʿaš YHWH), only in qôl dᵉmāmāh daqqāh;
-    in Q the shattering is the very manifestation (tajallī) of God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֤ר הָרַ֨עַשׁ֙ אֵ֔שׁ לֹ֥א בָאֵ֖שׁ יְהוָ֑ה וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה
-- tradition: islam
-  ref: Quran 7:143
-  note: 'A mountain is shattered when God passes by or manifests himself [divergence between the texts]
-    (A prophet at the mountain of God, the mountain shattered as God passes: fa-lammā tajallā rabbuhu
-    li-l-jabali jaʿalahu dakkan vs rûaḥ gᵉdôlāh wᵉḥāzāq mᵉpārēq hārîm ûmᵉšabbēr sᵉlāʿîm. Reversed: in
-    Kings God is NOT in the shattering (lōʾ bārûaḥ YHWH ... lōʾ bāraʿaš YHWH), only in qôl dᵉmāmāh daqqāh;
-    in Q the shattering is the very manifestation (tajallī) of God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ
-    قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى
-    فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ
-    قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
-- tradition: judaism
-  ref: 1Kgs 19:8
-  note: A prophet spends forty days and forty nights in a set period
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙
-    וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב
-- tradition: islam
-  ref: Quran 7:142
-  note: A prophet spends forty days and forty nights in a set period (nights)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ
-    أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا تَتَّبِعْ
-    سَبِيلَ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A prophet at the mountain of God, the mountain shattered as God passes: fa-lammā tajallā
-    rabbuhu li-l-jabali jaʿalahu dakkan vs rûaḥ gᵉdôlāh wᵉḥāzāq mᵉpārēq hārîm ûmᵉšabbēr sᵉlāʿîm. Reversed:
-    in Kings God is NOT in the shattering (lōʾ bārûaḥ YHWH ... lōʾ bāraʿaš YHWH), only in qôl dᵉmāmāh
-    daqqāh; in Q the shattering is the very manifestation (tajallī) of God.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A mountain is shattered when God passes by or manifests himself
     [divergence between the texts] (weight 6.7); A prophet spends forty days and forty nights in a set
@@ -107,6 +52,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A mountain is shattered when God passes by or manifests himself
+kinds:
+- divergence
+- shared
+units:
+- id: hb-1kgs-19-elijah-horeb
+  title: Elijah flees to Horeb; the still small voice
+  tradition: judaism
+- id: quran-7-sinai-theophany
+  title: Forty nights, the request to see God and the tablets
+  tradition: islam
+matches:
+- kind: divergence
+  label: A mountain is shattered when God passes by or manifests himself
+  note: 'A prophet at the mountain of God, the mountain shattered as God passes: fa-lammā tajallā rabbuhu
+    li-l-jabali jaʿalahu dakkan vs rûaḥ gᵉdôlāh wᵉḥāzāq mᵉpārēq hārîm ûmᵉšabbēr sᵉlāʿîm. Reversed: in
+    Kings God is NOT in the shattering (lōʾ bārûaḥ YHWH ... lōʾ bāraʿaš YHWH), only in qôl dᵉmāmāh daqqāh;
+    in Q the shattering is the very manifestation (tajallī) of God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:11
+      lang: he
+      text: וַיֹּ֗אמֶר צֵ֣א וְעָמַדְתָּ֣ בָהָר֮ לִפְנֵ֣י יְהוָה֒ וְהִנֵּ֧ה יְהוָ֣ה עֹבֵ֗ר וְר֣וּחַ גְּדוֹלָ֡ה
+        וְחָזָ֞ק מְפָרֵק֩ הָרִ֨ים וּמְשַׁבֵּ֤ר סְלָעִים֙ לִפְנֵ֣י יְהוָ֔ה לֹ֥א בָר֖וּחַ יְהוָ֑ה וְאַחַ֤ר
+        הָר֨וּחַ רַ֔עַשׁ לֹ֥א בָרַ֖עַשׁ יְהוָֽה
+    - ref: 1Kgs 19:12
+      lang: he
+      text: וְאַחַ֤ר הָרַ֨עַשׁ֙ אֵ֔שׁ לֹ֥א בָאֵ֖שׁ יְהוָ֑ה וְאַחַ֣ר הָאֵ֔שׁ ק֖וֹל דְּמָמָ֥ה דַקָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:143
+      lang: ar
+      text: وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ
+        قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى
+        فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ
+        قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
+- kind: shared
+  label: A prophet spends forty days and forty nights in a set period
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:8
+      lang: he
+      text: וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙
+        וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:142
+      lang: ar
+      text: وَوَٰعَدْنَا مُوسَىٰ ثَلَٰثِينَ لَيْلَةً وَأَتْمَمْنَٰهَا بِعَشْرٍ فَتَمَّ مِيقَٰتُ رَبِّهِۦٓ
+        أَرْبَعِينَ لَيْلَةً وَقَالَ مُوسَىٰ لِأَخِيهِ هَٰرُونَ ٱخْلُفْنِى فِى قَوْمِى وَأَصْلِحْ وَلَا
+        تَتَّبِعْ سَبِيلَ ٱلْمُفْسِدِينَ
+    note: nights
 ---
 
 ## Questions

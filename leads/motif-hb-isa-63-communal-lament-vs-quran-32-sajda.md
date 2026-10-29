@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-32-sajda
 title: 'Remembering the days of Moses - O that you would rend the heavens ↔ Al-Sajda: creation, the angel
   of death, and the two fates'
-summary: 'These two units share 1 motifs: no soul knows what delight of the eyes is hidden in store for
-  the righteous.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - hidden-delight-no-soul-knows
-passages:
-- tradition: judaism
-  ref: Isa 64:3
-  note: No soul knows what delight of the eyes is hidden in store for the righteous (ʿayin lōʾ-rāʾāṯâ
-    ʾĕlōhîm zûlāṯəḵā yaʿăśeh li-mḥakkēh-lô vs. fa-lā taʿlamu nafsun mā ukhfiya lahum min qurrati aʿyunin
-    jazāʾan bi-mā kānū yaʿmalūn. Hidden from every eye, prepared for those who wait (məḥakkeh) or those
-    who do good. In Isaiah what no eye has seen is God himself acting; the Quran makes it the 'delight
-    of the eyes' kept in store for the believers. (cf. hadith qudsi and 1 Cor 2:9, outside this pair))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמֵעוֹלָ֥ם לֹא שָׁמְע֖וּ לֹ֣א הֶאֱזִ֑ינוּ עַ֣יִן לֹֽא רָאָ֗תָה אֱלֹהִים֙ זוּלָ֣תְךָ֔ יַעֲשֶׂ֖ה
-    לִמְחַכֵּה לֽוֹ
-- tradition: islam
-  ref: Quran 32:17
-  note: No soul knows what delight of the eyes is hidden in store for the righteous
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʿayin lōʾ-rāʾāṯâ ʾĕlōhîm zûlāṯəḵā yaʿăśeh li-mḥakkēh-lô vs. fa-lā taʿlamu nafsun mā ukhfiya
-    lahum min qurrati aʿyunin jazāʾan bi-mā kānū yaʿmalūn. Hidden from every eye, prepared for those who
-    wait (məḥakkeh) or those who do good. In Isaiah what no eye has seen is God himself acting; the Quran
-    makes it the ''delight of the eyes'' kept in store for the believers. (cf. hadith qudsi and 1 Cor
-    2:9, outside this pair).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No soul knows what delight of the eyes is hidden in store for the
     righteous (weight 6.7). Pair score 6.7.'
@@ -79,6 +56,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No soul knows what delight of the eyes is hidden in store for the righteous
+kinds:
+- parallel
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: parallel
+  label: No soul knows what delight of the eyes is hidden in store for the righteous
+  note: ʿayin lōʾ-rāʾāṯâ ʾĕlōhîm zûlāṯəḵā yaʿăśeh li-mḥakkēh-lô vs. fa-lā taʿlamu nafsun mā ukhfiya lahum
+    min qurrati aʿyunin jazāʾan bi-mā kānū yaʿmalūn. Hidden from every eye, prepared for those who wait
+    (məḥakkeh) or those who do good. In Isaiah what no eye has seen is God himself acting; the Quran makes
+    it the 'delight of the eyes' kept in store for the believers. (cf. hadith qudsi and 1 Cor 2:9, outside
+    this pair)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 64:3
+      lang: he
+      text: וּמֵעוֹלָ֥ם לֹא שָׁמְע֖וּ לֹ֣א הֶאֱזִ֑ינוּ עַ֣יִן לֹֽא רָאָ֗תָה אֱלֹהִים֙ זוּלָ֣תְךָ֔ יַעֲשֶׂ֖ה
+        לִמְחַכֵּה לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 32:17
+      lang: ar
+      text: فَلَا تَعْلَمُ نَفْسٌ مَّآ أُخْفِىَ لَهُم مِّن قُرَّةِ أَعْيُنٍ جَزَآءًۢ بِمَا كَانُوا۟
+        يَعْمَلُونَ
 ---
 
 ## Questions

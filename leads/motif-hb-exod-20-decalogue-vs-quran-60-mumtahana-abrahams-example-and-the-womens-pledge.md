@@ -2,9 +2,7 @@
 id: motif-hb-exod-20-decalogue-vs-quran-60-mumtahana-abrahams-example-and-the-womens-pledge
 title: 'The Ten Words and the people''s fear ↔ Al-Mumtahana: no affection for God''s enemies, Abraham''s
   excellent example, examining emigrant women, and the women''s pledge'
-summary: 'These two units share 3 motifs: prohibitions of murder, adultery, theft and false witness [divergence
-  between the texts], the ten commandments (decalogue), prohibitions of murder, adultery, theft and false
-  witness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,93 +16,9 @@ motifs:
 - prohibition-murder-adultery-theft-false-witness-as-divergence
 - ten-commandments
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Exod 20:3
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: judaism
-  ref: Exod 20:13
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: islam
-  ref: Quran 60:12
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (A short
-    list of apodictic prohibitions, the women''s pledge as a small decalogue. Exodus: lōʾ yihyeh ləḵā
-    ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer. Quran: ʿalā
-    an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna
-    bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf. The same order of
-    other gods, theft, adultery, killing and false speech, but addressed to women as a pledge (bayʿa)
-    to the Prophet: murder narrowed to infanticide, false witness to a slander ''between their hands and
-    feet'' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath, parents or coveting.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Exod 20:2-17
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text_omitted: longer than 12 verses; read it in the source
-- tradition: islam
-  ref: Quran 60:12
-  note: The Ten Commandments (Decalogue) (a short decalogue-like list of prohibitions)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Exod 20:13
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Exod 20:14
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 60:12
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A short list of apodictic prohibitions, the women''s pledge as a small decalogue. Exodus:
-    lōʾ yihyeh ləḵā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer.
-    Quran: ʿalā an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna
-    wa-lā yaʾtīna bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf. The
-    same order of other gods, theft, adultery, killing and false speech, but addressed to women as a pledge
-    (bayʿa) to the Prophet: murder narrowed to infanticide, false witness to a slander ''between their
-    hands and feet'' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath, parents
-    or coveting.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
     between the texts] (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Prohibitions of murder,
@@ -144,6 +58,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibitions of murder, adultery, theft and false witness
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'A short list of apodictic prohibitions, the women''s pledge as a small decalogue. Exodus: lōʾ
+    yihyeh ləḵā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer.
+    Quran: ʿalā an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna
+    wa-lā yaʾtīna bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf. The
+    same order of other gods, theft, adultery, killing and false speech, but addressed to women as a pledge
+    (bayʿa) to the Prophet: murder narrowed to infanticide, false witness to a slander ''between their
+    hands and feet'' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath, parents
+    or coveting.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:3
+      lang: he
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    - ref: Exod 20:13
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Exod 20:14
+      lang: he
+      text: לֹ֖א תִּנְאָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+- kind: shared
+  label: The Ten Commandments (Decalogue)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:2-17
+      lang: he
+      text_omitted: longer than 12 verses; read it in the source
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    note: a short decalogue-like list of prohibitions
 ---
 
 ## Questions

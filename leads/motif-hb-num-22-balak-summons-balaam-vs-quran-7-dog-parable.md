@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-22-balak-summons-balaam-vs-quran-7-dog-parable
 title: Balak sends for Balaam ↔ The man who sloughed off God's signs (the panting dog)
-summary: 'These two units share 1 motifs: a seer faced with payment or worldly gain [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,47 +13,9 @@ layers:
 - motif
 motifs:
 - seer-and-payment-as-contrast
-passages:
-- tradition: judaism
-  ref: Num 22:7
-  note: 'A seer faced with payment or worldly gain [contrast between the texts] (The seer faced with gain:
-    wa-lākinnahu akhlada ilā l-arḍi wa-ttabaʿa hawāhu vs ʾim-yitten-lî bālāq mᵉlōʾ bêtô kesep wᵉzāhāb
-    lōʾ ʾûkal laʿăbōr ʾet-pî YHWH (with the fees of divination, qᵉsāmîm bᵉyādām). If the exegetical identification
-    holds, Q gives the opposite portrait to Num 22''s incorruptible seer. The Q side is unnamed; this
-    is a lead to check.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֨לְכ֜וּ זִקְנֵ֤י מוֹאָב֙ וְזִקְנֵ֣י מִדְיָ֔ן וּקְסָמִ֖ים בְּיָדָ֑ם וַיָּבֹ֨אוּ֙ אֶל בִּלְעָ֔ם
-    וַיְדַבְּר֥וּ אֵלָ֖יו דִּבְרֵ֥י בָלָֽק
-- tradition: judaism
-  ref: Num 22:18
-  note: 'A seer faced with payment or worldly gain [contrast between the texts] (The seer faced with gain:
-    wa-lākinnahu akhlada ilā l-arḍi wa-ttabaʿa hawāhu vs ʾim-yitten-lî bālāq mᵉlōʾ bêtô kesep wᵉzāhāb
-    lōʾ ʾûkal laʿăbōr ʾet-pî YHWH (with the fees of divination, qᵉsāmîm bᵉyādām). If the exegetical identification
-    holds, Q gives the opposite portrait to Num 22''s incorruptible seer. The Q side is unnamed; this
-    is a lead to check.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַן בִּלְעָ֗ם וַיֹּ֨אמֶר֙ אֶל עַבְדֵ֣י בָלָ֔ק אִם יִתֶּן לִ֥י בָלָ֛ק מְלֹ֥א בֵית֖וֹ כֶּ֣סֶף
-    וְזָהָ֑ב לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת פִּי֙ יְהוָ֣ה אֱלֹהָ֔י לַעֲשׂ֥וֹת קְטַנָּ֖ה א֥וֹ גְדוֹלָֽה
-- tradition: islam
-  ref: Quran 7:176
-  note: 'A seer faced with payment or worldly gain [contrast between the texts] (The seer faced with gain:
-    wa-lākinnahu akhlada ilā l-arḍi wa-ttabaʿa hawāhu vs ʾim-yitten-lî bālāq mᵉlōʾ bêtô kesep wᵉzāhāb
-    lōʾ ʾûkal laʿăbōr ʾet-pî YHWH (with the fees of divination, qᵉsāmîm bᵉyādām). If the exegetical identification
-    holds, Q gives the opposite portrait to Num 22''s incorruptible seer. The Q side is unnamed; this
-    is a lead to check.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ
-    فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ذَّٰلِكَ مَثَلُ
-    ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. The seer faced with gain: wa-lākinnahu akhlada ilā l-arḍi wa-ttabaʿa hawāhu vs ʾim-yitten-lî
-    bālāq mᵉlōʾ bêtô kesep wᵉzāhāb lōʾ ʾûkal laʿăbōr ʾet-pî YHWH (with the fees of divination, qᵉsāmîm
-    bᵉyādām). If the exegetical identification holds, Q gives the opposite portrait to Num 22''s incorruptible
-    seer. The Q side is unnamed; this is a lead to check.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A seer faced with payment or worldly gain [contrast between the
     texts] (weight 5.8). Pair score 5.8.'
@@ -78,6 +39,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A seer faced with payment or worldly gain
+kinds:
+- contrast
+units:
+- id: hb-num-22-balak-summons-balaam
+  title: Balak sends for Balaam
+  tradition: judaism
+- id: quran-7-dog-parable
+  title: The man who sloughed off God's signs (the panting dog)
+  tradition: islam
+matches:
+- kind: contrast
+  label: A seer faced with payment or worldly gain
+  note: 'The seer faced with gain: wa-lākinnahu akhlada ilā l-arḍi wa-ttabaʿa hawāhu vs ʾim-yitten-lî
+    bālāq mᵉlōʾ bêtô kesep wᵉzāhāb lōʾ ʾûkal laʿăbōr ʾet-pî YHWH (with the fees of divination, qᵉsāmîm
+    bᵉyādām). If the exegetical identification holds, Q gives the opposite portrait to Num 22''s incorruptible
+    seer. The Q side is unnamed; this is a lead to check.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 22:7
+      lang: he
+      text: וַיֵּ֨לְכ֜וּ זִקְנֵ֤י מוֹאָב֙ וְזִקְנֵ֣י מִדְיָ֔ן וּקְסָמִ֖ים בְּיָדָ֑ם וַיָּבֹ֨אוּ֙ אֶל בִּלְעָ֔ם
+        וַיְדַבְּר֥וּ אֵלָ֖יו דִּבְרֵ֥י בָלָֽק
+    - ref: Num 22:18
+      lang: he
+      text: וַיַּ֣עַן בִּלְעָ֗ם וַיֹּ֨אמֶר֙ אֶל עַבְדֵ֣י בָלָ֔ק אִם יִתֶּן לִ֥י בָלָ֛ק מְלֹ֥א בֵית֖וֹ
+        כֶּ֣סֶף וְזָהָ֑ב לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת פִּי֙ יְהוָ֣ה אֱלֹהָ֔י לַעֲשׂ֥וֹת קְטַנָּ֖ה א֥וֹ גְדוֹלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:176
+      lang: ar
+      text: وَلَوْ شِئْنَا لَرَفَعْنَٰهُ بِهَا وَلَٰكِنَّهُۥٓ أَخْلَدَ إِلَى ٱلْأَرْضِ وَٱتَّبَعَ هَوَىٰهُ
+        فَمَثَلُهُۥ كَمَثَلِ ٱلْكَلْبِ إِن تَحْمِلْ عَلَيْهِ يَلْهَثْ أَوْ تَتْرُكْهُ يَلْهَث ذَّٰلِكَ
+        مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَٱقْصُصِ ٱلْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ
 ---
 
 ## Questions

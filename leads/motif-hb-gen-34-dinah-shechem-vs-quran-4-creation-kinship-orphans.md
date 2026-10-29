@@ -2,7 +2,7 @@
 id: motif-hb-gen-34-dinah-shechem-vs-quran-4-creation-kinship-orphans
 title: Dinah, Shechem and the massacre by Simeon and Levi ↔ One soul, the wombs, orphans' property and
   the bride-gift
-summary: 'These two units share 1 motifs: who receives the marriage payment [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - marriage-payment-recipient-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 34:12
-  note: 'Who receives the marriage payment [divergence between the texts] (Gen 34:12 harbû ʿālay mĕʾōd
-    mōhar û-mattān wĕ-ʾettĕnâ ... û-tĕnû lî ʾet ha-nnaʿărâ lĕ-ʾiššâ: Shechem offers any bride-price and
-    gift to her father and brothers; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan: give the bride-gift
-    to the women themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַרְבּ֨וּ עָלַ֤י מְאֹד֙ מֹ֣הַר וּמַתָּ֔ן וְאֶ֨תְּנָ֔ה כַּאֲשֶׁ֥ר תֹּאמְר֖וּ אֵלָ֑י וּתְנוּ לִ֥י
-    אֶת הַֽנַּעֲרָ֖ לְאִשָּֽׁה
-- tradition: islam
-  ref: Quran 4:4
-  note: 'Who receives the marriage payment [divergence between the texts] (Exod 22:15-16 māhōr yimhārennâ
-    lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price
-    (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in
-    ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women their bride-gifts as a free gift; only
-    if they remit part willingly may you take it. The marriage payment goes to the woman herself, not
-    to her father, and she controls it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
-    فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 34:12 harbû ʿālay mĕʾōd mōhar û-mattān wĕ-ʾettĕnâ ... û-tĕnû lî ʾet ha-nnaʿărâ lĕ-ʾiššâ:
-    Shechem offers any bride-price and gift to her father and brothers; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna
-    niḥlatan: give the bride-gift to the women themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who receives the marriage payment [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -75,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who receives the marriage payment
+kinds:
+- divergence
+units:
+- id: hb-gen-34-dinah-shechem
+  title: Dinah, Shechem and the massacre by Simeon and Levi
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who receives the marriage payment
+  note: 'Gen 34:12 harbû ʿālay mĕʾōd mōhar û-mattān wĕ-ʾettĕnâ ... û-tĕnû lî ʾet ha-nnaʿărâ lĕ-ʾiššâ:
+    Shechem offers any bride-price and gift to her father and brothers; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna
+    niḥlatan: give the bride-gift to the women themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 34:12
+      lang: he
+      text: הַרְבּ֨וּ עָלַ֤י מְאֹד֙ מֹ֣הַר וּמַתָּ֔ן וְאֶ֨תְּנָ֔ה כַּאֲשֶׁ֥ר תֹּאמְר֖וּ אֵלָ֑י וּתְנוּ
+        לִ֥י אֶת הַֽנַּעֲרָ֖ לְאִשָּֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:4
+      lang: ar
+      text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
+        فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
 ---
 
 ## Questions

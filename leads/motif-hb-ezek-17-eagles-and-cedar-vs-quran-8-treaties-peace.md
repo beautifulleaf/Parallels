@@ -2,7 +2,7 @@
 id: motif-hb-ezek-17-eagles-and-cedar-vs-quran-8-treaties-peace
 title: Riddle of the two eagles, the cedar and the vine; the messianic cedar shoot ↔ Treaty-breakers,
   deterrence and peace
-summary: 'These two units share 1 motifs: most of the peoples were found without fidelity to their covenant.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,45 +14,9 @@ layers:
 - motif
 motifs:
 - most-found-faithless-to-covenant
-passages:
-- tradition: judaism
-  ref: Ezek 17:15
-  note: 'Most of the peoples were found without fidelity to their covenant (Breaking a sworn treaty is
-    condemned: alladhīna ʿāhadta minhum thumma yanquḍūna ʿahdahum fī kulli marratin; inna llāha lā yuḥibbu
-    l-khāʾinīn vs wᵉhēpēr bᵉrît wᵉnimlāṭ ... ʾăšer bāzāh ʾet-ʾālātô waʾăšer hēpēr ʾet-bᵉrîtô. In Ezek
-    the breaker is Israel''s own king; in Q it is the enemy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּמְרָד בּ֗וֹ לִשְׁלֹ֤חַ מַלְאָכָיו֙ מִצְרַ֔יִם לָֽתֶת ל֥וֹ סוּסִ֖ים וְעַם רָ֑ב הֲיִצְלָ֤ח
-    הֲיִמָּלֵט֙ הָעֹשֵׂ֣ה אֵ֔לֶּה וְהֵפֵ֥ר בְּרִ֖ית וְנִמְלָֽט
-- tradition: judaism
-  ref: Ezek 17:16
-  note: 'Most of the peoples were found without fidelity to their covenant (Breaking a sworn treaty is
-    condemned: alladhīna ʿāhadta minhum thumma yanquḍūna ʿahdahum fī kulli marratin; inna llāha lā yuḥibbu
-    l-khāʾinīn vs wᵉhēpēr bᵉrît wᵉnimlāṭ ... ʾăšer bāzāh ʾet-ʾālātô waʾăšer hēpēr ʾet-bᵉrîtô. In Ezek
-    the breaker is Israel''s own king; in Q it is the enemy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חַי אָ֗נִי נְאֻם֮ אֲדֹנָ֣י יְהוִה֒ אִם לֹ֗א בִּמְקוֹם֙ הַמֶּ֨לֶךְ֙ הַמַּמְלִ֣יךְ אֹת֔וֹ אֲשֶׁ֤ר
-    בָּזָה֙ אֶת אָ֣לָת֔וֹ וַאֲשֶׁ֥ר הֵפֵ֖ר אֶת בְּרִית֑וֹ אִתּ֥וֹ בְתוֹךְ בָּבֶ֖ל יָמֽוּת
-- tradition: islam
-  ref: Quran 8:56
-  note: Most of the peoples were found without fidelity to their covenant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ عَٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
-- tradition: islam
-  ref: Quran 8:58
-  note: Most of the peoples were found without fidelity to their covenant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ لَا
-    يُحِبُّ ٱلْخَآئِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Breaking a sworn treaty is condemned: alladhīna ʿāhadta minhum thumma yanquḍūna ʿahdahum fī
-    kulli marratin; inna llāha lā yuḥibbu l-khāʾinīn vs wᵉhēpēr bᵉrît wᵉnimlāṭ ... ʾăšer bāzāh ʾet-ʾālātô
-    waʾăšer hēpēr ʾet-bᵉrîtô. In Ezek the breaker is Israel''s own king; in Q it is the enemy.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Most of the peoples were found without fidelity to their covenant
     (weight 6.0). Pair score 6.0.'
@@ -86,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Most of the peoples were found without fidelity to their covenant
+kinds:
+- echo
+units:
+- id: hb-ezek-17-eagles-and-cedar
+  title: Riddle of the two eagles, the cedar and the vine; the messianic cedar shoot
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: echo
+  label: Most of the peoples were found without fidelity to their covenant
+  note: 'Breaking a sworn treaty is condemned: alladhīna ʿāhadta minhum thumma yanquḍūna ʿahdahum fī kulli
+    marratin; inna llāha lā yuḥibbu l-khāʾinīn vs wᵉhēpēr bᵉrît wᵉnimlāṭ ... ʾăšer bāzāh ʾet-ʾālātô waʾăšer
+    hēpēr ʾet-bᵉrîtô. In Ezek the breaker is Israel''s own king; in Q it is the enemy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 17:15
+      lang: he
+      text: וַיִּמְרָד בּ֗וֹ לִשְׁלֹ֤חַ מַלְאָכָיו֙ מִצְרַ֔יִם לָֽתֶת ל֥וֹ סוּסִ֖ים וְעַם רָ֑ב הֲיִצְלָ֤ח
+        הֲיִמָּלֵט֙ הָעֹשֵׂ֣ה אֵ֔לֶּה וְהֵפֵ֥ר בְּרִ֖ית וְנִמְלָֽט
+    - ref: Ezek 17:16
+      lang: he
+      text: חַי אָ֗נִי נְאֻם֮ אֲדֹנָ֣י יְהוִה֒ אִם לֹ֗א בִּמְקוֹם֙ הַמֶּ֨לֶךְ֙ הַמַּמְלִ֣יךְ אֹת֔וֹ אֲשֶׁ֤ר
+        בָּזָה֙ אֶת אָ֣לָת֔וֹ וַאֲשֶׁ֥ר הֵפֵ֖ר אֶת בְּרִית֑וֹ אִתּ֥וֹ בְתוֹךְ בָּבֶ֖ל יָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 8:56
+      lang: ar
+      text: ٱلَّذِينَ عَٰهَدتَّ مِنْهُمْ ثُمَّ يَنقُضُونَ عَهْدَهُمْ فِى كُلِّ مَرَّةٍ وَهُمْ لَا يَتَّقُونَ
+    - ref: Quran 8:58
+      lang: ar
+      text: وَإِمَّا تَخَافَنَّ مِن قَوْمٍ خِيَانَةً فَٱنۢبِذْ إِلَيْهِمْ عَلَىٰ سَوَآءٍ إِنَّ ٱللَّهَ
+        لَا يُحِبُّ ٱلْخَآئِنِينَ
 ---
 
 ## Questions

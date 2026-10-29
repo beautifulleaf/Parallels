@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-1-prologue-first-test-vs-quran-2-charity
 title: Job's piety, the heavenly council and the first test ↔ Parables of charity
-summary: 'These two units share 1 motifs: an old man with weak children loses his garden of palms and
-  vines to a fiery whirlwind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,47 +13,9 @@ layers:
 - motif
 motifs:
 - parable-garden-burnt-by-fiery-whirlwind
-passages:
-- tradition: judaism
-  ref: Job 1:16
-  note: 'An old man with weak children loses his garden of palms and vines to a fiery whirlwind (Job 1:16,
-    19 ʾēš ʾĕlōhîm nāpĕlâ min ha-ššāmayim wa-ttibʿar ... wĕ-hinnēh rûaḥ gĕdôlâ bāʾâ mē-ʿēber ha-mmidbār:
-    fire from heaven burns the flocks, a great wind kills the children; Q 2:266 wa-aṣābahu l-kibaru wa-lahu
-    dhurriyyatun ḍuʿafāʾu fa-aṣābahā iʿṣārun fīhi nārun fa-ḥtaraqat: an old man with weak children loses
-    his garden to a whirlwind of fire. Fire and storm destroy a lifetime''s goods; Job''s is a test of
-    the righteous, the Quran''s a parable of deeds lost through boasting and hurt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ע֣וֹד זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ אֵ֣שׁ אֱלֹהִ֗ים נָֽפְלָה֙ מִן הַשָּׁמַ֔יִם וַתִּבְעַ֥ר
-    בַּצֹּ֛אן וּבַנְּעָרִ֖ים וַתֹּאכְלֵ֑ם וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ
-- tradition: judaism
-  ref: Job 1:19
-  note: 'An old man with weak children loses his garden of palms and vines to a fiery whirlwind (Job 1:16,
-    19 ʾēš ʾĕlōhîm nāpĕlâ min ha-ššāmayim wa-ttibʿar ... wĕ-hinnēh rûaḥ gĕdôlâ bāʾâ mē-ʿēber ha-mmidbār:
-    fire from heaven burns the flocks, a great wind kills the children; Q 2:266 wa-aṣābahu l-kibaru wa-lahu
-    dhurriyyatun ḍuʿafāʾu fa-aṣābahā iʿṣārun fīhi nārun fa-ḥtaraqat: an old man with weak children loses
-    his garden to a whirlwind of fire. Fire and storm destroy a lifetime''s goods; Job''s is a test of
-    the righteous, the Quran''s a parable of deeds lost through boasting and hurt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּה֩ ר֨וּחַ גְּדוֹלָ֜ה בָּ֣אָה מֵעֵ֣בֶר הַמִּדְבָּ֗ר וַיִּגַּע֙ בְּאַרְבַּע֙ פִּנּ֣וֹת הַבַּ֔יִת
-    וַיִּפֹּ֥ל עַל הַנְּעָרִ֖ים וַיָּמ֑וּתוּ וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ
-- tradition: islam
-  ref: Quran 2:266
-  note: An old man with weak children loses his garden of palms and vines to a fiery whirlwind
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِى مِن تَحْتِهَا
-    ٱلْأَنْهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌ ضُعَفَآءُ
-    فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ
-    تَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Job 1:16, 19 ʾēš ʾĕlōhîm nāpĕlâ min ha-ššāmayim wa-ttibʿar ... wĕ-hinnēh rûaḥ gĕdôlâ bāʾâ mē-ʿēber
-    ha-mmidbār: fire from heaven burns the flocks, a great wind kills the children; Q 2:266 wa-aṣābahu
-    l-kibaru wa-lahu dhurriyyatun ḍuʿafāʾu fa-aṣābahā iʿṣārun fīhi nārun fa-ḥtaraqat: an old man with
-    weak children loses his garden to a whirlwind of fire. Fire and storm destroy a lifetime''s goods;
-    Job''s is a test of the righteous, the Quran''s a parable of deeds lost through boasting and hurt.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An old man with weak children loses his garden of palms and vines
     to a fiery whirlwind (weight 6.7). Pair score 6.7.'
@@ -88,6 +49,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An old man with weak children loses his garden of palms and vines to a fiery whirlwind
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: echo
+  label: An old man with weak children loses his garden of palms and vines to a fiery whirlwind
+  note: 'Job 1:16, 19 ʾēš ʾĕlōhîm nāpĕlâ min ha-ššāmayim wa-ttibʿar ... wĕ-hinnēh rûaḥ gĕdôlâ bāʾâ mē-ʿēber
+    ha-mmidbār: fire from heaven burns the flocks, a great wind kills the children; Q 2:266 wa-aṣābahu
+    l-kibaru wa-lahu dhurriyyatun ḍuʿafāʾu fa-aṣābahā iʿṣārun fīhi nārun fa-ḥtaraqat: an old man with
+    weak children loses his garden to a whirlwind of fire. Fire and storm destroy a lifetime''s goods;
+    Job''s is a test of the righteous, the Quran''s a parable of deeds lost through boasting and hurt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:16
+      lang: he
+      text: ע֣וֹד זֶ֣ה מְדַבֵּ֗ר וְזֶה֮ בָּ֣א וַיֹּאמַר֒ אֵ֣שׁ אֱלֹהִ֗ים נָֽפְלָה֙ מִן הַשָּׁמַ֔יִם וַתִּבְעַ֥ר
+        בַּצֹּ֛אן וּבַנְּעָרִ֖ים וַתֹּאכְלֵ֑ם וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד לָֽךְ
+    - ref: Job 1:19
+      lang: he
+      text: וְהִנֵּה֩ ר֨וּחַ גְּדוֹלָ֜ה בָּ֣אָה מֵעֵ֣בֶר הַמִּדְבָּ֗ר וַיִּגַּע֙ בְּאַרְבַּע֙ פִּנּ֣וֹת
+        הַבַּ֔יִת וַיִּפֹּ֥ל עַל הַנְּעָרִ֖ים וַיָּמ֑וּתוּ וָאִמָּ֨לְטָ֧ה רַק אֲנִ֛י לְבַדִּ֖י לְהַגִּ֥יד
+        לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:266
+      lang: ar
+      text: أَيَوَدُّ أَحَدُكُمْ أَن تَكُونَ لَهُۥ جَنَّةٌ مِّن نَّخِيلٍ وَأَعْنَابٍ تَجْرِى مِن تَحْتِهَا
+        ٱلْأَنْهَٰرُ لَهُۥ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَأَصَابَهُ ٱلْكِبَرُ وَلَهُۥ ذُرِّيَّةٌ ضُعَفَآءُ
+        فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ فَٱحْتَرَقَتْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ
+        لَعَلَّكُمْ تَتَفَكَّرُونَ
 ---
 
 ## Questions

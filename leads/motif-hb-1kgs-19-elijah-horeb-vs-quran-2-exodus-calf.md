@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-19-elijah-horeb-vs-quran-2-exodus-calf
 title: Elijah flees to Horeb; the still small voice ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: a prophet spends forty days and forty nights in a set period,
-  israel killed the prophets who warned them.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,44 +15,7 @@ layers:
 motifs:
 - forty-days-and-nights
 - prophets-killed-by-israel
-passages:
-- tradition: judaism
-  ref: 1Kgs 19:8
-  note: A prophet spends forty days and forty nights in a set period
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙
-    וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב
-- tradition: islam
-  ref: Quran 2:51
-  note: A prophet spends forty days and forty nights in a set period (forty nights)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
-    ظَٰلِمُونَ
-- tradition: judaism
-  ref: 1Kgs 19:10
-  note: 'Israel killed the prophets who warned them (1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet
-    nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû ʾet napšî: right after the fire on Carmel, Elijah complains
-    that Israel killed the prophets and seek his life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum
-    fa-li-ma qataltumūhum: prophets came with the fire sign and you killed them. Kings gives the narrative
-    sequence the Quran''s retort assumes.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהוָ֣ה אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל
-    אֶת מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָֽאִוָּתֵ֤ר אֲנִי֙ לְבַדִּ֔י וַיְבַקְשׁ֥וּ
-    אֶת נַפְשִׁ֖י לְקַחְתָּֽהּ
-- tradition: islam
-  ref: Quran 2:61
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
-    لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا قَالَ
-    أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ لَكُم مَّا
-    سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ ذَٰلِكَ
-    بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ ٱلْحَقِّ
-    ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A prophet spends forty days and forty nights in a set period (weight
     5.8); Israel killed the prophets who warned them (weight 5.1). Pair score 10.9.'
@@ -87,6 +49,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A prophet spends forty days and forty nights in a set period
+kinds:
+- shared
+units:
+- id: hb-1kgs-19-elijah-horeb
+  title: Elijah flees to Horeb; the still small voice
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: shared
+  label: A prophet spends forty days and forty nights in a set period
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:8
+      lang: he
+      text: וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙
+        וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 2:51
+      lang: ar
+      text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ
+        وَأَنتُمْ ظَٰلِمُونَ
+    note: forty nights
+- kind: shared
+  label: Israel killed the prophets who warned them
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:10
+      lang: he
+      text: וַיֹּאמֶר֩ קַנֹּ֨א קִנֵּ֜אתִי לַיהוָ֣ה אֱלֹהֵ֣י צְבָא֗וֹת כִּֽי עָזְב֤וּ בְרִֽיתְךָ֙ בְּנֵ֣י
+        יִשְׂרָאֵ֔ל אֶת מִזְבְּחֹתֶ֣יךָ הָרָ֔סוּ וְאֶת נְבִיאֶ֖יךָ הָרְג֣וּ בֶחָ֑רֶב וָֽאִוָּתֵ֤ר אֲנִי֙
+        לְבַדִּ֔י וַיְבַקְשׁ֥וּ אֶת נַפְשִׁ֖י לְקַחְתָּֽהּ
+    note: '1Kgs 19:10 ʿāzĕbû bĕrîtĕkā bĕnê yiśrāʾēl ... wĕ-ʾet nĕbîʾêkā hārĕgû be-ḥāreb ... wa-yĕbaqšû
+      ʾet napšî: right after the fire on Carmel, Elijah complains that Israel killed the prophets and
+      seek his life; Q 3:183 qad jāʾakum rusulun ... wa-bi-lladhī qultum fa-li-ma qataltumūhum: prophets
+      came with the fire sign and you killed them. Kings gives the narrative sequence the Quran''s retort
+      assumes.'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:61
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نَّصْبِرَ عَلَىٰ طَعَامٍ وَٰحِدٍ فَٱدْعُ لَنَا رَبَّكَ يُخْرِجْ
+        لَنَا مِمَّا تُنۢبِتُ ٱلْأَرْضُ مِنۢ بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا
+        قَالَ أَتَسْتَبْدِلُونَ ٱلَّذِى هُوَ أَدْنَىٰ بِٱلَّذِى هُوَ خَيْرٌ ٱهْبِطُوا۟ مِصْرًا فَإِنَّ
+        لَكُم مَّا سَأَلْتُمْ وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ وَبَآءُو بِغَضَبٍ مِّنَ
+        ٱللَّهِ ذَٰلِكَ بِأَنَّهُمْ كَانُوا۟ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ
+        بِغَيْرِ ٱلْحَقِّ ذَٰلِكَ بِمَا عَصَوا۟ وَّكَانُوا۟ يَعْتَدُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-26-isaac-in-gerar-vs-quran-2-charity
 title: Isaac in Gerar, the wife-sister episode, wells and treaty ↔ Parables of charity
-summary: 'These two units share 1 motifs: patriarch reaps a hundredfold in one year.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,28 +13,9 @@ layers:
 - motif
 motifs:
 - hundredfold-harvest
-passages:
-- tradition: judaism
-  ref: Gen 26:12
-  note: Patriarch reaps a hundredfold in one year
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרֲכֵ֖הוּ
-    יְהוָֽה
-- tradition: islam
-  ref: Quran 2:261
-  note: Patriarch reaps a hundredfold in one year
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ
-    سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ
-    عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 26:12 wa-yyizraʿ yiṣḥāq ... wa-yyimṣāʾ ba-ššānâ ha-hîʾ mēʾâ šĕʿārîm wa-yĕbārăkēhû YHWH:
-    Isaac sows and reaps a hundredfold, God''s blessing; Q 2:261 ka-mathali ḥabbatin anbatat sabʿa sanābila
-    fī kulli sunbulatin miʾatu ḥabbatin: one grain, seven ears, a hundred grains each, as a parable of
-    spending in God''s way. Real harvest vs parable; a hundredfold vs seven hundredfold.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Patriarch reaps a hundredfold in one year (weight 6.7). Pair score
     6.7.'
@@ -69,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Patriarch reaps a hundredfold in one year
+kinds:
+- echo
+units:
+- id: hb-gen-26-isaac-in-gerar
+  title: Isaac in Gerar, the wife-sister episode, wells and treaty
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: echo
+  label: Patriarch reaps a hundredfold in one year
+  note: 'Gen 26:12 wa-yyizraʿ yiṣḥāq ... wa-yyimṣāʾ ba-ššānâ ha-hîʾ mēʾâ šĕʿārîm wa-yĕbārăkēhû YHWH: Isaac
+    sows and reaps a hundredfold, God''s blessing; Q 2:261 ka-mathali ḥabbatin anbatat sabʿa sanābila
+    fī kulli sunbulatin miʾatu ḥabbatin: one grain, seven ears, a hundred grains each, as a parable of
+    spending in God''s way. Real harvest vs parable; a hundredfold vs seven hundredfold.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 26:12
+      lang: he
+      text: וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרֲכֵ֖הוּ
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:261
+      lang: ar
+      text: مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ
+        سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ وَٱللَّهُ
+        وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

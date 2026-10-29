@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-72-jinn
 title: Song of the strong city; your dead shall live ↔ The jinn hear the recitation
-summary: 'These two units share 1 motifs: your dead shall live, their corpses rise; dwellers in the dust
-  shall awake and sing.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 72:7
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (jinn and
-    men had thought God would never raise anyone)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-annahum ẓannū kamā ẓanantum an lan yabʿatha llāhu aḥadan (the jinn admit they too had denied
-    resurrection) ~ yiḥyû mētêkā nevēlātî yeqûmûn hāqîṣû we-rannenû šōkenê ʿāfār.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
     awake and sing (weight 4.9). Pair score 4.9.'
@@ -69,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-72-jinn
+  title: The jinn hear the recitation
+  tradition: islam
+matches:
+- kind: echo
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  note: wa-annahum ẓannū kamā ẓanantum an lan yabʿatha llāhu aḥadan (the jinn admit they too had denied
+    resurrection) ~ yiḥyû mētêkā nevēlātî yeqûmûn hāqîṣû we-rannenû šōkenê ʿāfār.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 72:7
+      lang: ar
+      text: وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا
 ---
 
 ## Questions

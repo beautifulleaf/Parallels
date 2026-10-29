@@ -2,7 +2,7 @@
 id: motif-hb-2sam-11-bathsheba-uriah-vs-quran-2-wine-marriage
 title: David and Bathsheba; Uriah carries his own death letter ↔ Wine, gambling, orphans, mixed marriage
   and menstruation
-summary: 'These two units share 1 motifs: a woman is purifying herself from her menstrual impurity.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,23 +15,7 @@ layers:
 - motif
 motifs:
 - purification-after-menstruation
-passages:
-- tradition: judaism
-  ref: 2Sam 11:4
-  note: A woman is purifying herself from her menstrual impurity ('She was purifying herself from her
-    uncleanness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַח֩ דָּוִ֨ד מַלְאָכִ֜ים וַיִּקָּחֶ֗הָ וַתָּב֤וֹא אֵלָיו֙ וַיִּשְׁכַּ֣ב עִמָּ֔הּ וְהִ֥יא
-    מִתְקַדֶּ֖שֶׁת מִטֻּמְאָתָ֑הּ וַתָּ֖שָׁב אֶל בֵּיתָֽהּ
-- tradition: islam
-  ref: Quran 2:222
-  note: A woman is purifying herself from her menstrual impurity
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا
-    تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ
-    إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A woman is purifying herself from her menstrual impurity (weight
     6.7). Pair score 6.7.'
@@ -65,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A woman is purifying herself from her menstrual impurity
+kinds:
+- shared
+units:
+- id: hb-2sam-11-bathsheba-uriah
+  title: David and Bathsheba; Uriah carries his own death letter
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: shared
+  label: A woman is purifying herself from her menstrual impurity
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 11:4
+      lang: he
+      text: וַיִּשְׁלַח֩ דָּוִ֨ד מַלְאָכִ֜ים וַיִּקָּחֶ֗הָ וַתָּב֤וֹא אֵלָיו֙ וַיִּשְׁכַּ֣ב עִמָּ֔הּ וְהִ֥יא
+        מִתְקַדֶּ֖שֶׁת מִטֻּמְאָתָ֑הּ וַתָּ֖שָׁב אֶל בֵּיתָֽהּ
+    note: '''She was purifying herself from her uncleanness'''
+  - tradition: islam
+    passages:
+    - ref: Quran 2:222
+      lang: ar
+      text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ
+        وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ
+        ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 ---
 
 ## Questions

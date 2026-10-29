@@ -2,9 +2,7 @@
 id: motif-hb-prov-19-sayings-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Sayings on the poor, the king''s wrath and the sluggard ↔ Al-Hadid: First and Last, Outward and
   Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 3 motifs: giving as a loan to god, repaid by him [divergence between the
-  texts], he who is gracious to the poor lends to yhwh, and he will repay him, who will lend god a goodly
-  loan (qard hasan), that he may multiply it for him?.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,60 +16,9 @@ motifs:
 - giving-as-loan-to-god-as-divergence
 - lending-to-yhwh-by-giving-to-poor
 - goodly-loan-to-god-doubled
-passages:
-- tradition: judaism
-  ref: Prov 19:17
-  note: 'Giving as a loan to God, repaid by him [divergence between the texts] (Giving as a loan to God,
-    repaid by him. Proverbs: malwēh YHWH ḥônēn dāl û-ḡəmulô yəšallem lô (he who is kind to the poor lends
-    to YHWH, who repays him). Quran: man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahu lahu wa-lahu
-    ajrun karīm. Proverbs'' loan is kindness to the poor; the Quran''s is spending in God''s way (57:10,
-    including before the Victory), and repayment becomes multiplication (yuḍāʿifahu).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 57:11
-  note: 'Giving as a loan to God, repaid by him [divergence between the texts] (Giving as a loan to God,
-    repaid by him. Proverbs: malwēh YHWH ḥônēn dāl û-ḡəmulô yəšallem lô (he who is kind to the poor lends
-    to YHWH, who repays him). Quran: man dhā lladhī yuqriḍu llāha qarḍan ḥasanan fa-yuḍāʿifahu lahu wa-lahu
-    ajrun karīm. Proverbs'' loan is kindness to the poor; the Quran''s is spending in God''s way (57:10,
-    including before the Victory), and repayment becomes multiplication (yuḍāʿifahu).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
-- tradition: judaism
-  ref: Prov 19:17
-  note: He who is gracious to the poor lends to YHWH, and he will repay him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 57:11
-  note: He who is gracious to the poor lends to YHWH, and he will repay him (Prov 19:17)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
-- tradition: judaism
-  ref: Prov 19:17
-  note: 'Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (in tuqriḍū llāha
-    qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô: giving is a loan to God
-    that he repays. The Quran says ''doubles it''; Proverbs specifies the loan is mercy to the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 57:11
-  note: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Giving as a loan to God, repaid by him. Proverbs: malwēh YHWH ḥônēn dāl û-ḡəmulô yəšallem
-    lô (he who is kind to the poor lends to YHWH, who repays him). Quran: man dhā lladhī yuqriḍu llāha
-    qarḍan ḥasanan fa-yuḍāʿifahu lahu wa-lahu ajrun karīm. Proverbs'' loan is kindness to the poor; the
-    Quran''s is spending in God''s way (57:10, including before the Victory), and repayment becomes multiplication
-    (yuḍāʿifahu).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Giving as a loan to God, repaid by him [divergence between the texts]
     (weight 6.7); He who is gracious to the poor lends to YHWH, and he will repay him (weight 5.8); Who
@@ -110,6 +57,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Giving as a loan to God, repaid by him
+kinds:
+- divergence
+- shared
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Giving as a loan to God, repaid by him
+  note: 'Giving as a loan to God, repaid by him. Proverbs: malwēh YHWH ḥônēn dāl û-ḡəmulô yəšallem lô
+    (he who is kind to the poor lends to YHWH, who repays him). Quran: man dhā lladhī yuqriḍu llāha qarḍan
+    ḥasanan fa-yuḍāʿifahu lahu wa-lahu ajrun karīm. Proverbs'' loan is kindness to the poor; the Quran''s
+    is spending in God''s way (57:10, including before the Victory), and repayment becomes multiplication
+    (yuḍāʿifahu).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:11
+      lang: ar
+      text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
+- kind: shared
+  label: He who is gracious to the poor lends to YHWH, and he will repay him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 57:11
+      lang: ar
+      text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
+    note: Prov 19:17
+- kind: shared
+  label: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+    note: 'in tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô:
+      giving is a loan to God that he repays. The Quran says ''doubles it''; Proverbs specifies the loan
+      is mercy to the poor.'
+  - tradition: islam
+    passages:
+    - ref: Quran 57:11
+      lang: ar
+      text: مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًا فَيُضَٰعِفَهُۥ لَهُۥ وَلَهُۥٓ أَجْرٌ كَرِيمٌ
 ---
 
 ## Questions

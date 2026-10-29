@@ -2,8 +2,7 @@
 id: motif-hb-mic-6-covenant-lawsuit-vs-quran-22-fly-parable-abraham
 title: YHWH's lawsuit with his people; what YHWH requires ↔ The parable of the fly; messengers from angels
   and men; the religion of Abraham
-summary: 'These two units share 1 motifs: what god requires: to do justice, love hesed and walk humbly
-  with your god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - do-justice-love-mercy-walk-humbly
-passages:
-- tradition: judaism
-  ref: Mic 6:8
-  note: 'What God requires: to do justice, love hesed and walk humbly with your God'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה טּ֑וֹב וּמָֽה יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם עֲשׂ֤וֹת מִשְׁפָּט֙
-    וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם אֱלֹהֶֽיךָ
-- tradition: islam
-  ref: Quran 22:77
-  note: 'What God requires: to do justice, love hesed and walk humbly with your God (irkaʿū wa-sjudū wa-ʿbudū
-    rabbakum wa-fʿalū l-khayra ~ higgîd ləkā ʾādām mah-ṭṭôv ... ʿăśôt mišpāṭ wə-ʾahăvat ḥesed wə-haṣnēaʿ
-    leket ʿim ʾĕlōhêkā: the summary demand ''do good'' (fʿalū l-khayr ~ mah ṭôv ... ʿăśôt); Micah sets
-    it against sacrifice, the Quran next to bowing and prostrating.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟
-    ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. irkaʿū wa-sjudū wa-ʿbudū rabbakum wa-fʿalū l-khayra ~ higgîd ləkā ʾādām mah-ṭṭôv ... ʿăśôt mišpāṭ
-    wə-ʾahăvat ḥesed wə-haṣnēaʿ leket ʿim ʾĕlōhêkā: the summary demand ''do good'' (fʿalū l-khayr ~ mah
-    ṭôv ... ʿăśôt); Micah sets it against sacrifice, the Quran next to bowing and prostrating.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God requires: to do justice, love hesed and walk humbly with
     your God (weight 6.0). Pair score 6.0.'
@@ -66,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What God requires: to do justice, love hesed and walk humbly with your God'
+kinds:
+- echo
+units:
+- id: hb-mic-6-covenant-lawsuit
+  title: YHWH's lawsuit with his people; what YHWH requires
+  tradition: judaism
+- id: quran-22-fly-parable-abraham
+  title: The parable of the fly; messengers from angels and men; the religion of Abraham
+  tradition: islam
+matches:
+- kind: echo
+  label: 'What God requires: to do justice, love hesed and walk humbly with your God'
+  note: 'irkaʿū wa-sjudū wa-ʿbudū rabbakum wa-fʿalū l-khayra ~ higgîd ləkā ʾādām mah-ṭṭôv ... ʿăśôt mišpāṭ
+    wə-ʾahăvat ḥesed wə-haṣnēaʿ leket ʿim ʾĕlōhêkā: the summary demand ''do good'' (fʿalū l-khayr ~ mah
+    ṭôv ... ʿăśôt); Micah sets it against sacrifice, the Quran next to bowing and prostrating.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 6:8
+      lang: he
+      text: הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה טּ֑וֹב וּמָֽה יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם עֲשׂ֤וֹת מִשְׁפָּט֙
+        וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם אֱלֹהֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:77
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱرْكَعُوا۟ وَٱسْجُدُوا۟ وَٱعْبُدُوا۟ رَبَّكُمْ وَٱفْعَلُوا۟
+        ٱلْخَيْرَ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

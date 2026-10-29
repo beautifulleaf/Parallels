@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-13-messengers-and-mother-of-book
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Messengers, the Mother
   of the Book and the witness of scripture (Surah 13:30-43)
-summary: 'These two units share 1 motifs: those with knowledge of the earlier book are invoked as witnesses
-  to the prophet''s mission [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - scripture-holders-as-witnesses-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 43:9
-  note: 'Those with knowledge of the earlier Book are invoked as witnesses to the prophet''s mission [divergence
-    between the texts] (Isa: Israel is God''s witness to the nations that he alone is God, ʾattem ʿēday
-    nəʾum-YHWH ... kî-ʾănî hûʾ. Q: God and ''whoever has knowledge of the Book'' are witnesses to the
-    messenger, qul kafā bi-llāhi shahīdan baynī wa-baynakum wa-man ʿindahu ʿilmu l-kitāb. The witness
-    is given a new subject: the Book''s people now testify to the new prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: judaism
-  ref: Isa 43:10
-  note: 'Those with knowledge of the earlier Book are invoked as witnesses to the prophet''s mission [divergence
-    between the texts] (Isa: Israel is God''s witness to the nations that he alone is God, ʾattem ʿēday
-    nəʾum-YHWH ... kî-ʾănî hûʾ. Q: God and ''whoever has knowledge of the Book'' are witnesses to the
-    messenger, qul kafā bi-llāhi shahīdan baynī wa-baynakum wa-man ʿindahu ʿilmu l-kitāb. The witness
-    is given a new subject: the Book''s people now testify to the new prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
-    לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
-- tradition: islam
-  ref: Quran 13:43
-  note: 'Those with knowledge of the earlier Book are invoked as witnesses to the prophet''s mission [divergence
-    between the texts] (Isa: Israel is God''s witness to the nations that he alone is God, ʾattem ʿēday
-    nəʾum-YHWH ... kî-ʾănî hûʾ. Q: God and ''whoever has knowledge of the Book'' are witnesses to the
-    messenger, qul kafā bi-llāhi shahīdan baynī wa-baynakum wa-man ʿindahu ʿilmu l-kitāb. The witness
-    is given a new subject: the Book''s people now testify to the new prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًا قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ
-    وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Isa: Israel is God''s witness to the nations that he alone is God, ʾattem ʿēday nəʾum-YHWH
-    ... kî-ʾănî hûʾ. Q: God and ''whoever has knowledge of the Book'' are witnesses to the messenger,
-    qul kafā bi-llāhi shahīdan baynī wa-baynakum wa-man ʿindahu ʿilmu l-kitāb. The witness is given a
-    new subject: the Book''s people now testify to the new prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those with knowledge of the earlier Book are invoked as witnesses
     to the prophet''s mission [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -93,6 +55,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those with knowledge of the earlier Book are invoked as witnesses to the prophet's mission
+kinds:
+- divergence
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-13-messengers-and-mother-of-book
+  title: Messengers, the Mother of the Book and the witness of scripture (Surah 13:30-43)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Those with knowledge of the earlier Book are invoked as witnesses to the prophet's mission
+  note: 'Isa: Israel is God''s witness to the nations that he alone is God, ʾattem ʿēday nəʾum-YHWH ...
+    kî-ʾănî hûʾ. Q: God and ''whoever has knowledge of the Book'' are witnesses to the messenger, qul
+    kafā bi-llāhi shahīdan baynī wa-baynakum wa-man ʿindahu ʿilmu l-kitāb. The witness is given a new
+    subject: the Book''s people now testify to the new prophet.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+    - ref: Isa 43:10
+      lang: he
+      text: אַתֶּ֤ם עֵדַי֙ נְאֻם יְהוָ֔ה וְעַבְדִּ֖י אֲשֶׁ֣ר בָּחָ֑רְתִּי לְמַ֣עַן תֵּ֠דְעוּ וְתַאֲמִ֨ינוּ
+        לִ֤י וְתָבִ֨ינוּ֙ כִּֽי אֲנִ֣י ה֔וּא לְפָנַי֙ לֹא נ֣וֹצַר אֵ֔ל וְאַחֲרַ֖י לֹ֥א יִהְיֶֽה
+    - ref: Isa 43:12
+      lang: he
+      text: אָנֹכִ֞י הִגַּ֤דְתִּי וְהוֹשַׁ֨עְתִּי֙ וְהִשְׁמַ֔עְתִּי וְאֵ֥ין בָּכֶ֖ם זָ֑ר וְאַתֶּ֥ם עֵדַ֛י
+        נְאֻם יְהוָ֖ה וַֽאֲנִי אֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 13:43
+      lang: ar
+      text: وَيَقُولُ ٱلَّذِينَ كَفَرُوا۟ لَسْتَ مُرْسَلًا قُلْ كَفَىٰ بِٱللَّهِ شَهِيدًۢا بَيْنِى وَبَيْنَكُمْ
+        وَمَنْ عِندَهُۥ عِلْمُ ٱلْكِتَٰبِ
 ---
 
 ## Questions

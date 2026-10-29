@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-19-sinai-theophany-vs-quran-7-sinai-theophany
 title: Arrival at Sinai, covenant offer and theophany ↔ Forty nights, the request to see God and the tablets
-summary: 'These two units share 1 motifs: seeing god or breaking through to him brings death.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,38 +13,9 @@ layers:
 - motif
 motifs:
 - danger-of-seeing-god
-passages:
-- tradition: judaism
-  ref: Exod 19:21
-  note: Seeing God or breaking through to him brings death (lest they break through to see and many fall)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן יֶהֶרְס֤וּ אֶל יְהוָה֙ לִרְא֔וֹת וְנָפַ֥ל
-    מִמֶּ֖נּוּ רָֽב
-- tradition: judaism
-  ref: Exod 19:24
-  note: Seeing God or breaking through to him brings death (lest they break through to see and many fall)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֵלָ֤יו יְהוָה֙ לֶךְ רֵ֔ד וְעָלִ֥יתָ אַתָּ֖ה וְאַהֲרֹ֣ן עִמָּ֑ךְ וְהַכֹּהֲנִ֣ים וְהָעָ֗ם
-    אַל יֶֽהֶרְס֛וּ לַעֲלֹ֥ת אֶל יְהוָ֖ה פֶּן יִפְרָץ בָּֽם
-- tradition: islam
-  ref: Quran 7:143
-  note: 'Seeing God or breaking through to him brings death (Sinai quakes when God descends and seeing
-    God fells the onlooker: wayyeḥĕrad kol-hāhār mᵉʾōd; pen-yehersû ʾel-YHWH lirʾôt wᵉnāpal mimmennû rāb
-    vs jaʿalahu dakkan wa-kharra mūsā ṣaʿiqan. In Exod the people are kept back; in Q it is Moses himself
-    who falls.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ
-    قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى
-    فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ
-    قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Sinai quakes when God descends and seeing God fells the onlooker: wayyeḥĕrad kol-hāhār mᵉʾōd;
-    pen-yehersû ʾel-YHWH lirʾôt wᵉnāpal mimmennû rāb vs jaʿalahu dakkan wa-kharra mūsā ṣaʿiqan. In Exod
-    the people are kept back; in Q it is Moses himself who falls.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seeing God or breaking through to him brings death (weight 6.3).
     Pair score 6.3.'
@@ -77,6 +48,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seeing God or breaking through to him brings death
+kinds:
+- echo
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-7-sinai-theophany
+  title: Forty nights, the request to see God and the tablets
+  tradition: islam
+matches:
+- kind: echo
+  label: Seeing God or breaking through to him brings death
+  note: 'Sinai quakes when God descends and seeing God fells the onlooker: wayyeḥĕrad kol-hāhār mᵉʾōd;
+    pen-yehersû ʾel-YHWH lirʾôt wᵉnāpal mimmennû rāb vs jaʿalahu dakkan wa-kharra mūsā ṣaʿiqan. In Exod
+    the people are kept back; in Q it is Moses himself who falls.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:18
+      lang: he
+      text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל
+        עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
+    - ref: Exod 19:21
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רֵ֖ד הָעֵ֣ד בָּעָ֑ם פֶּן יֶהֶרְס֤וּ אֶל יְהוָה֙ לִרְא֔וֹת וְנָפַ֥ל
+        מִמֶּ֖נּוּ רָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 7:143
+      lang: ar
+      text: وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِىٓ أَنظُرْ إِلَيْكَ
+        قَالَ لَن تَرَىٰنِى وَلَٰكِنِ ٱنظُرْ إِلَى ٱلْجَبَلِ فَإِنِ ٱسْتَقَرَّ مَكَانَهُۥ فَسَوْفَ تَرَىٰنِى
+        فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلْجَبَلِ جَعَلَهُۥ دَكًّا وَخَرَّ مُوسَىٰ صَعِقًا فَلَمَّآ أَفَاقَ
+        قَالَ سُبْحَٰنَكَ تُبْتُ إِلَيْكَ وَأَنَا۠ أَوَّلُ ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

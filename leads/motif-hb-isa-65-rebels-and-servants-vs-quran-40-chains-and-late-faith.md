@@ -2,8 +2,7 @@
 id: motif-hb-isa-65-rebels-and-servants-vs-quran-40-chains-and-late-faith
 title: Found by those who did not seek; rebels and servants ↔ Dragged in chains; messengers told and untold;
   faith on seeing punishment
-summary: 'These two units share 1 motifs: seized at the end, they say ''we believe'', but how can they
-  reach it from a far place?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - faith-at-last-moment-unaccepted
-passages:
-- tradition: judaism
-  ref: Isa 65:12
-  note: 'Seized at the end, they say ''we believe'', but how can they reach it from a far place? (yaʿan
-    qārāʾṯî wə-lōʾ ʿănîṯem dibbartî wə-lōʾ šəmaʿtem vs. fa-lammā jāʾathum rusuluhum bi-l-bayyināti fariḥū
-    bi-mā ʿindahum mina l-ʿilm: God called and they did not answer while there was time, and the sword
-    follows.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמָנִ֨יתִי אֶתְכֶ֜ם לַחֶ֗רֶב וְכֻלְּכֶם֙ לַטֶּ֣בַח תִּכְרָ֔עוּ יַ֤עַן קָרָ֨אתִי֙ וְלֹ֣א עֲנִיתֶ֔ם
-    דִּבַּ֖רְתִּי וְלֹ֣א שְׁמַעְתֶּ֑ם וַתַּעֲשׂ֤וּ הָרַע֙ בְּעֵינַ֔י וּבַאֲשֶׁ֥ר לֹֽא חָפַ֖צְתִּי בְּחַרְתֶּֽם
-- tradition: islam
-  ref: Quran 40:84
-  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا بِهِۦ
-    مُشْرِكِينَ
-- tradition: islam
-  ref: Quran 40:85
-  note: Seized at the end, they say 'we believe', but how can they reach it from a far place?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمْ يَكُ يَنفَعُهُمْ إِيمَٰنُهُمْ لَمَّا رَأَوْا۟ بَأْسَنَا سُنَّتَ ٱللَّهِ ٱلَّتِى قَدْ خَلَتْ
-    فِى عِبَادِهِۦ وَخَسِرَ هُنَالِكَ ٱلْكَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yaʿan qārāʾṯî wə-lōʾ ʿănîṯem dibbartî wə-lōʾ šəmaʿtem vs. fa-lammā jāʾathum rusuluhum bi-l-bayyināti
-    fariḥū bi-mā ʿindahum mina l-ʿilm: God called and they did not answer while there was time, and the
-    sword follows.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Seized at the end, they say ''we believe'', but how can they reach
     it from a far place? (weight 6.0). Pair score 6.0.'
@@ -77,6 +49,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+kinds:
+- echo
+units:
+- id: hb-isa-65-rebels-and-servants
+  title: Found by those who did not seek; rebels and servants
+  tradition: judaism
+- id: quran-40-chains-and-late-faith
+  title: Dragged in chains; messengers told and untold; faith on seeing punishment
+  tradition: islam
+matches:
+- kind: echo
+  label: Seized at the end, they say 'we believe', but how can they reach it from a far place?
+  note: 'yaʿan qārāʾṯî wə-lōʾ ʿănîṯem dibbartî wə-lōʾ šəmaʿtem vs. fa-lammā jāʾathum rusuluhum bi-l-bayyināti
+    fariḥū bi-mā ʿindahum mina l-ʿilm: God called and they did not answer while there was time, and the
+    sword follows.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:12
+      lang: he
+      text: וּמָנִ֨יתִי אֶתְכֶ֜ם לַחֶ֗רֶב וְכֻלְּכֶם֙ לַטֶּ֣בַח תִּכְרָ֔עוּ יַ֤עַן קָרָ֨אתִי֙ וְלֹ֣א עֲנִיתֶ֔ם
+        דִּבַּ֖רְתִּי וְלֹ֣א שְׁמַעְתֶּ֑ם וַתַּעֲשׂ֤וּ הָרַע֙ בְּעֵינַ֔י וּבַאֲשֶׁ֥ר לֹֽא חָפַ֖צְתִּי
+        בְּחַרְתֶּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 40:83
+      lang: ar
+      text: فَلَمَّا جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ فَرِحُوا۟ بِمَا عِندَهُم مِّنَ ٱلْعِلْمِ وَحَاقَ
+        بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+    - ref: Quran 40:84
+      lang: ar
+      text: فَلَمَّا رَأَوْا۟ بَأْسَنَا قَالُوٓا۟ ءَامَنَّا بِٱللَّهِ وَحْدَهُۥ وَكَفَرْنَا بِمَا كُنَّا
+        بِهِۦ مُشْرِكِينَ
 ---
 
 ## Questions

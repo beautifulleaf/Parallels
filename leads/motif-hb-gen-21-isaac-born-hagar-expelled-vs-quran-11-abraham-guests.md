@@ -2,9 +2,7 @@
 id: motif-hb-gen-21-isaac-born-hagar-expelled-vs-quran-11-abraham-guests
 title: Birth of Isaac and expulsion of Hagar and Ishmael ↔ Abraham's guests, the roasted calf and the
   laughing wife
-summary: 'These two units share 3 motifs: promised son born to aged parents at the appointed time, when
-  and why sarah laughs, and how it is answered, patriarch or matriarch laughs at the promise of a child
-  in old age.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,88 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- birth-of-promised-son-in-old-age
 - sarahs-laughter
+- birth-of-promised-son-in-old-age
 - patriarch-laughs-at-promise
-passages:
-- tradition: judaism
-  ref: Gen 21:1
-  note: Promised son born to aged parents at the appointed time (Abraham 100)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר וַיַּ֧עַשׂ יְהוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר
-- tradition: judaism
-  ref: Gen 21:2
-  note: Promised son born to aged parents at the appointed time (Abraham 100)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּהַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר דִּבֶּ֥ר אֹת֖וֹ אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 11:72
-  note: Promised son born to aged parents at the appointed time
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
-    عَجِيبٌ
-- tradition: islam
-  ref: Quran 11:73
-  note: Promised son born to aged parents at the appointed time
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ
-    ٱلْبَيْتِ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ
-- tradition: judaism
-  ref: Gen 21:6
-  note: 'When and why Sarah laughs, and how it is answered (Sarah''s laughter tied to Isaac''s coming:
-    wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā
-    bi-isḥāq. Q gives no birth narrative.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כָּל הַשֹּׁמֵ֖עַ יִֽצְחַק לִֽי
-- tradition: islam
-  ref: Quran 11:71
-  note: 'When and why Sarah laughs, and how it is answered (Sarah''s laughter tied to Isaac''s coming:
-    wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā
-    bi-isḥāq. Q gives no birth narrative.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
-- tradition: islam
-  ref: Quran 11:72
-  note: 'When and why Sarah laughs, and how it is answered (Sarah''s laughter tied to Isaac''s coming:
-    wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā
-    bi-isḥāq. Q gives no birth narrative.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
-    عَجِيبٌ
-- tradition: judaism
-  ref: Gen 21:6
-  note: Patriarch or matriarch laughs at the promise of a child in old age ('God made laughter for me;
-    all who hear will laugh')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כָּל הַשֹּׁמֵ֖עַ יִֽצְחַק לִֽי
-- tradition: islam
-  ref: Quran 11:71
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ يَعْقُوبَ
-- tradition: islam
-  ref: Quran 11:72
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
-    عَجِيبٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Sarah''s laughter tied to Isaac''s coming: wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ
-    yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā bi-isḥāq. Q gives no birth narrative.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Promised son born to aged parents at the appointed time (weight
-    6.7); When and why Sarah laughs, and how it is answered (weight 6.7); Patriarch or matriarch laughs
+- text: 'Shared motifs, rarest first: When and why Sarah laughs, and how it is answered (weight 6.7);
+    Promised son born to aged parents at the appointed time (weight 6.7); Patriarch or matriarch laughs
     at the promise of a child in old age (weight 5.6). Pair score 19.0.'
   basis: reading
 - text: 'Only in Birth of Isaac and expulsion of Hagar and Ishmael: Mother lays her dying child under
@@ -127,6 +52,83 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When and why Sarah laughs, and how it is answered
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-21-isaac-born-hagar-expelled
+  title: Birth of Isaac and expulsion of Hagar and Ishmael
+  tradition: judaism
+- id: quran-11-abraham-guests
+  title: Abraham's guests, the roasted calf and the laughing wife
+  tradition: islam
+matches:
+- kind: echo
+  label: When and why Sarah laughs, and how it is answered
+  note: 'Sarah''s laughter tied to Isaac''s coming: wattōʾmer śārāh ṣᵉḥōq ʿāśāh lî ʾĕlōhîm kol-haššōmēaʿ
+    yiṣḥaq-lî (the name yiṣḥāq) vs fa-ḍaḥikat fa-basharnāhā bi-isḥāq. Q gives no birth narrative.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:6
+      lang: he
+      text: וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כָּל הַשֹּׁמֵ֖עַ יִֽצְחַק לִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 11:71
+      lang: ar
+      text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ
+        يَعْقُوبَ
+    - ref: Quran 11:72
+      lang: ar
+      text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
+        عَجِيبٌ
+- kind: shared
+  label: Promised son born to aged parents at the appointed time
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:1
+      lang: he
+      text: וַֽיהוָ֛ה פָּקַ֥ד אֶת שָׂרָ֖ה כַּאֲשֶׁ֣ר אָמָ֑ר וַיַּ֧עַשׂ יְהוָ֛ה לְשָׂרָ֖ה כַּאֲשֶׁ֥ר דִּבֵּֽר
+    - ref: Gen 21:2
+      lang: he
+      text: וַתַּהַר֩ וַתֵּ֨לֶד שָׂרָ֧ה לְאַבְרָהָ֛ם בֵּ֖ן לִזְקֻנָ֑יו לַמּוֹעֵ֕ד אֲשֶׁר דִּבֶּ֥ר אֹת֖וֹ
+        אֱלֹהִֽים
+    - ref: Gen 21:5
+      lang: he
+      text: וְאַבְרָהָ֖ם בֶּן מְאַ֣ת שָׁנָ֑ה בְּהִוָּ֣לֶד ל֔וֹ אֵ֖ת יִצְחָ֥ק בְּנֽוֹ
+    note: Abraham 100
+  - tradition: islam
+    passages:
+    - ref: Quran 11:72
+      lang: ar
+      text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
+        عَجِيبٌ
+    - ref: Quran 11:73
+      lang: ar
+      text: قَالُوٓا۟ أَتَعْجَبِينَ مِنْ أَمْرِ ٱللَّهِ رَحْمَتُ ٱللَّهِ وَبَرَكَٰتُهُۥ عَلَيْكُمْ أَهْلَ
+        ٱلْبَيْتِ إِنَّهُۥ حَمِيدٌ مَّجِيدٌ
+- kind: shared
+  label: Patriarch or matriarch laughs at the promise of a child in old age
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:6
+      lang: he
+      text: וַתֹּ֣אמֶר שָׂרָ֔ה צְחֹ֕ק עָ֥שָׂה לִ֖י אֱלֹהִ֑ים כָּל הַשֹּׁמֵ֖עַ יִֽצְחַק לִֽי
+    note: '''God made laughter for me; all who hear will laugh'''
+  - tradition: islam
+    passages:
+    - ref: Quran 11:71
+      lang: ar
+      text: وَٱمْرَأَتُهُۥ قَآئِمَةٌ فَضَحِكَتْ فَبَشَّرْنَٰهَا بِإِسْحَٰقَ وَمِن وَرَآءِ إِسْحَٰقَ
+        يَعْقُوبَ
+    - ref: Quran 11:72
+      lang: ar
+      text: قَالَتْ يَٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَٰذَا بَعْلِى شَيْخًا إِنَّ هَٰذَا لَشَىْءٌ
+        عَجِيبٌ
 ---
 
 ## Questions

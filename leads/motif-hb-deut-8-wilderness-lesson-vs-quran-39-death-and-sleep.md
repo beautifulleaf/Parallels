@@ -2,8 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-39-death-and-sleep
 title: Lessons of the wilderness; the good land; beware of pride ↔ The prophet's mortality; souls taken
   in sleep; intercession belongs to God
-summary: 'These two units share 1 motifs: given a blessing, man says ''i was given it only because of
-  my knowledge''; it is a trial.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,49 +15,9 @@ layers:
 - motif
 motifs:
 - wealth-gained-through-own-knowledge-claim
-passages:
-- tradition: judaism
-  ref: Deut 8:17
-  note: 'Given a blessing, man says ''I was given it only because of my knowledge''; it is a trial (wə-ʾāmartā
-    bi-lḇāḇeḵā kōḥî wə-ʿōṣem yāḏî ʿāśâ lî ʾeṯ-ha-ḥayil ha-zzeh, wə-zāḵartā ... kî hûʾ ha-nnōṯēn ləḵā kōaḥ
-    vs. thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm, bal hiya fitna. Taking credit
-    for God''s gift: Deut has ''my strength'', the Quran ''my knowledge''. Deut answers that God gave
-    the power; the Quran that the gift is a test.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת הַחַ֥יִל הַזֶּֽה
-- tradition: judaism
-  ref: Deut 8:18
-  note: 'Given a blessing, man says ''I was given it only because of my knowledge''; it is a trial (wə-ʾāmartā
-    bi-lḇāḇeḵā kōḥî wə-ʿōṣem yāḏî ʿāśâ lî ʾeṯ-ha-ḥayil ha-zzeh, wə-zāḵartā ... kî hûʾ ha-nnōṯēn ləḵā kōaḥ
-    vs. thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm, bal hiya fitna. Taking credit
-    for God''s gift: Deut has ''my strength'', the Quran ''my knowledge''. Deut answers that God gave
-    the power; the Quran that the gift is a test.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזָֽכַרְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ כִּ֣י ה֗וּא הַנֹּתֵ֥ן לְךָ֛ כֹּ֖חַ לַעֲשׂ֣וֹת חָ֑יִל לְמַ֨עַן
-    הָקִ֧ים אֶת בְּרִית֛וֹ אֲשֶׁר נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ כַּיּ֥וֹם הַזֶּֽה
-- tradition: islam
-  ref: Quran 39:49
-  note: Given a blessing, man says 'I was given it only because of my knowledge'; it is a trial (same
-    claim as Qarun in 28:78)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ
-    أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ بَلْ هِىَ فِتْنَةٌ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 39:50
-  note: Given a blessing, man says 'I was given it only because of my knowledge'; it is a trial (same
-    claim as Qarun in 28:78)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-ʾāmartā bi-lḇāḇeḵā kōḥî wə-ʿōṣem yāḏî ʿāśâ lî ʾeṯ-ha-ḥayil ha-zzeh, wə-zāḵartā ... kî
-    hûʾ ha-nnōṯēn ləḵā kōaḥ vs. thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm,
-    bal hiya fitna. Taking credit for God''s gift: Deut has ''my strength'', the Quran ''my knowledge''.
-    Deut answers that God gave the power; the Quran that the gift is a test.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Given a blessing, man says ''I was given it only because of my knowledge'';
     it is a trial (weight 6.7). Pair score 6.7.'
@@ -90,6 +49,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Given a blessing, man says 'I was given it only because of my knowledge'; it is a trial
+kinds:
+- parallel
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: parallel
+  label: Given a blessing, man says 'I was given it only because of my knowledge'; it is a trial
+  note: 'wə-ʾāmartā bi-lḇāḇeḵā kōḥî wə-ʿōṣem yāḏî ʿāśâ lî ʾeṯ-ha-ḥayil ha-zzeh, wə-zāḵartā ... kî hûʾ
+    ha-nnōṯēn ləḵā kōaḥ vs. thumma idhā khawwalnāhu niʿmatan minnā qāla innamā ūtītuhu ʿalā ʿilm, bal
+    hiya fitna. Taking credit for God''s gift: Deut has ''my strength'', the Quran ''my knowledge''. Deut
+    answers that God gave the power; the Quran that the gift is a test.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:17
+      lang: he
+      text: וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת הַחַ֥יִל הַזֶּֽה
+    - ref: Deut 8:18
+      lang: he
+      text: וְזָֽכַרְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ כִּ֣י ה֗וּא הַנֹּתֵ֥ן לְךָ֛ כֹּ֖חַ לַעֲשׂ֣וֹת חָ֑יִל
+        לְמַ֨עַן הָקִ֧ים אֶת בְּרִית֛וֹ אֲשֶׁר נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ כַּיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 39:49
+      lang: ar
+      text: فَإِذَا مَسَّ ٱلْإِنسَٰنَ ضُرٌّ دَعَانَا ثُمَّ إِذَا خَوَّلْنَٰهُ نِعْمَةً مِّنَّا قَالَ إِنَّمَآ
+        أُوتِيتُهُۥ عَلَىٰ عِلْمٍۭ بَلْ هِىَ فِتْنَةٌ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ
+    - ref: Quran 39:50
+      lang: ar
+      text: قَدْ قَالَهَا ٱلَّذِينَ مِن قَبْلِهِمْ فَمَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يَكْسِبُونَ
 ---
 
 ## Questions

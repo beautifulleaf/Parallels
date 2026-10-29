@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-11-jeroboam-ahijah-vs-quran-34-david-solomon
 title: Ahijah tears the cloak; Jeroboam flees; Solomon's death ↔ David's mountains and mail; Solomon's
   wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: how solomon died and how his death became known [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - manner-of-solomons-death-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 11:43
-  note: 'How Solomon died and how his death became known [divergence between the texts] (Solomon''s death.
-    1 Kgs: wa-yyiškaḇ šəlōmōh ʿim-ʾăḇōṯâw wa-yyiqqāḇēr bə-ʿîr dāwiḏ, a plain death, burial and succession
-    (after his apostasy and the tearing of the kingdom, 11:11). Q: fa-lammā qaḍaynā ʿalayhi l-mawta mā
-    dallahum ʿalā mawtihi illā dābbatu l-arḍi taʾkulu minsaʾatahu. He dies standing on his staff and the
-    jinn go on working, unaware, until a creature gnaws it through. The Quran''s ending says nothing of
-    judgment on Solomon and turns the death into a proof that the jinn do not know the unseen.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁכַּ֤ב שְׁלֹמֹה֙ עִם אֲבֹתָ֔יו וַיִּ֨קָּבֵ֔ר בְּעִ֖יר דָּוִ֣ד אָבִ֑יו וַיִּמְלֹ֛ךְ רְחַבְעָ֥ם
-    בְּנ֖וֹ תַּחְתָּֽיו
-- tradition: islam
-  ref: Quran 34:14
-  note: 'How Solomon died and how his death became known [divergence between the texts] (Solomon''s death.
-    1 Kgs: wa-yyiškaḇ šəlōmōh ʿim-ʾăḇōṯâw wa-yyiqqāḇēr bə-ʿîr dāwiḏ, a plain death, burial and succession
-    (after his apostasy and the tearing of the kingdom, 11:11). Q: fa-lammā qaḍaynā ʿalayhi l-mawta mā
-    dallahum ʿalā mawtihi illā dābbatu l-arḍi taʾkulu minsaʾatahu. He dies standing on his staff and the
-    jinn go on working, unaware, until a creature gnaws it through. The Quran''s ending says nothing of
-    judgment on Solomon and turns the death into a proof that the jinn do not know the unseen.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ
-    تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ
-    مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Solomon''s death. 1 Kgs: wa-yyiškaḇ šəlōmōh ʿim-ʾăḇōṯâw wa-yyiqqāḇēr bə-ʿîr dāwiḏ, a plain
-    death, burial and succession (after his apostasy and the tearing of the kingdom, 11:11). Q: fa-lammā
-    qaḍaynā ʿalayhi l-mawta mā dallahum ʿalā mawtihi illā dābbatu l-arḍi taʾkulu minsaʾatahu. He dies
-    standing on his staff and the jinn go on working, unaware, until a creature gnaws it through. The
-    Quran''s ending says nothing of judgment on Solomon and turns the death into a proof that the jinn
-    do not know the unseen.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Solomon died and how his death became known [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -80,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Solomon died and how his death became known
+kinds:
+- divergence
+units:
+- id: hb-1kgs-11-jeroboam-ahijah
+  title: Ahijah tears the cloak; Jeroboam flees; Solomon's death
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Solomon died and how his death became known
+  note: 'Solomon''s death. 1 Kgs: wa-yyiškaḇ šəlōmōh ʿim-ʾăḇōṯâw wa-yyiqqāḇēr bə-ʿîr dāwiḏ, a plain death,
+    burial and succession (after his apostasy and the tearing of the kingdom, 11:11). Q: fa-lammā qaḍaynā
+    ʿalayhi l-mawta mā dallahum ʿalā mawtihi illā dābbatu l-arḍi taʾkulu minsaʾatahu. He dies standing
+    on his staff and the jinn go on working, unaware, until a creature gnaws it through. The Quran''s
+    ending says nothing of judgment on Solomon and turns the death into a proof that the jinn do not know
+    the unseen.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 11:43
+      lang: he
+      text: וַיִּשְׁכַּ֤ב שְׁלֹמֹה֙ עִם אֲבֹתָ֔יו וַיִּ֨קָּבֵ֔ר בְּעִ֖יר דָּוִ֣ד אָבִ֑יו וַיִּמְלֹ֛ךְ
+        רְחַבְעָ֥ם בְּנ֖וֹ תַּחְתָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 34:14
+      lang: ar
+      text: فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ
+        تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ
+        مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
 ---
 
 ## Questions

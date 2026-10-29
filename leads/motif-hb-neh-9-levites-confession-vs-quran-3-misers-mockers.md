@@ -2,8 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-3-misers-mockers
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Misers, those who called God
   poor, and the fire-consumed offering
-summary: 'These two units share 2 motifs: people of the book cast god''s book behind their backs, israel
-  killed the prophets who warned them.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,54 +16,9 @@ layers:
 motifs:
 - scripture-cast-behind-backs
 - prophets-killed-by-israel
-passages:
-- tradition: judaism
-  ref: Neh 9:26
-  note: People of the Book cast God's book behind their backs (Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê
-    gawwām 'they cast your Torah behind their backs' (Israel's own confession); Q 2:41-42 lā tashtarū
-    bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqqa, said to the Children of Israel. The exact image
-    'behind their backs' is the Quran's at 3:187 and 2:101.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 3:187
-  note: People of the Book cast God's book behind their backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا
-    تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ مَا
-    يَشْتَرُونَ
-- tradition: judaism
-  ref: Neh 9:26
-  note: Israel killed the prophets who warned them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 3:181
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
-    سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
-- tradition: islam
-  ref: Quran 3:183
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām; Q 3:187 wa-idh akhadha llāhu mīthāqa lladhīna
-    ūtū l-kitāba la-tubayyinunnahu li-n-nāsi wa-lā taktumūnahu fa-nabadhūhu warāʾa ẓuhūrihim: they cast
-    it behind their backs. The same picture in the same words (ʾaḥărê gawwām / warāʾa ẓuhūrihim); the
-    Quran adds a covenant to make the Book clear. Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 3:181 wa-qatlahumu
-    l-anbiyāʾa bi-ghayri ḥaqqin, 3:183 fa-li-ma qataltumūhum.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8);
     Israel killed the prophets who warned them (weight 5.1). Pair score 10.9.'
@@ -100,6 +54,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People of the Book cast God's book behind their backs
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: parallel
+  label: People of the Book cast God's book behind their backs
+  note: 'Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām; Q 3:187 wa-idh akhadha llāhu mīthāqa lladhīna
+    ūtū l-kitāba la-tubayyinunnahu li-n-nāsi wa-lā taktumūnahu fa-nabadhūhu warāʾa ẓuhūrihim: they cast
+    it behind their backs. The same picture in the same words (ʾaḥărê gawwām / warāʾa ẓuhūrihim); the
+    Quran adds a covenant to make the Book clear.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:187
+      lang: ar
+      text: وَإِذْ أَخَذَ ٱللَّهُ مِيثَٰقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَتُبَيِّنُنَّهُۥ لِلنَّاسِ وَلَا
+        تَكْتُمُونَهُۥ فَنَبَذُوهُ وَرَآءَ ظُهُورِهِمْ وَٱشْتَرَوْا۟ بِهِۦ ثَمَنًا قَلِيلًا فَبِئْسَ
+        مَا يَشْتَرُونَ
+- kind: parallel
+  label: Israel killed the prophets who warned them
+  note: Neh 9:26 wĕ-ʾet nĕbîʾêkā hārāgû; Q 3:181 wa-qatlahumu l-anbiyāʾa bi-ghayri ḥaqqin, 3:183 fa-li-ma
+    qataltumūhum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:181
+      lang: ar
+      text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
+        سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ
+        ٱلْحَرِيقِ
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

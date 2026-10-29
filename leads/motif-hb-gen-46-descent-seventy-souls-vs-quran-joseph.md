@@ -2,8 +2,7 @@
 id: motif-hb-gen-46-descent-seventy-souls-vs-quran-joseph
 title: Vision at Beersheba, the seventy who went down, reunion in Goshen ↔ Joseph in the Quran (Surah
   12)
-summary: 'These two units share 2 motifs: hero meets and embraces his father, the whole family moves to
-  egypt.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,49 +16,7 @@ layers:
 motifs:
 - reunion-with-father
 - family-migrates-to-egypt
-passages:
-- tradition: judaism
-  ref: Gen 46:29
-  note: Hero meets and embraces his father (falls on his neck and weeps)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א
-    אֵלָ֗יו וַיִּפֹּל֙ עַל צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל צַוָּארָ֖יו עֽוֹד
-- tradition: islam
-  ref: Quran 12:99
-  note: Hero meets and embraces his father (both parents (abawayhi))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
-- tradition: judaism
-  ref: Gen 46:5
-  note: The whole family moves to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֥קָם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת יַעֲקֹ֣ב אֲבִיהֶ֗ם וְאֶת
-    טַפָּם֙ וְאֶת נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ
-- tradition: judaism
-  ref: Gen 46:6
-  note: The whole family moves to Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְח֣וּ אֶת מִקְנֵיהֶ֗ם וְאֶת רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ
-    מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל זַרְע֥וֹ אִתּֽוֹ
-- tradition: islam
-  ref: Quran 12:93
-  note: The whole family moves to Egypt
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
-    أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 12:99
-  note: The whole family moves to Egypt
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ
-    ٱللَّهُ ءَامِنِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero meets and embraces his father (weight 6.0); The whole family
     moves to Egypt (weight 5.8). Pair score 11.8.'
@@ -87,6 +44,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero meets and embraces his father
+kinds:
+- shared
+units:
+- id: hb-gen-46-descent-seventy-souls
+  title: Vision at Beersheba, the seventy who went down, reunion in Goshen
+  tradition: judaism
+- id: quran-joseph
+  title: Joseph in the Quran (Surah 12)
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero meets and embraces his father
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 46:29
+      lang: he
+      text: וַיֶּאְסֹ֤ר יוֹסֵף֙ מֶרְכַּבְתּ֔וֹ וַיַּ֛עַל לִקְרַֽאת יִשְׂרָאֵ֥ל אָבִ֖יו גֹּ֑שְׁנָה וַיֵּרָ֣א
+        אֵלָ֗יו וַיִּפֹּל֙ עַל צַוָּארָ֔יו וַיֵּ֥בְךְּ עַל צַוָּארָ֖יו עֽוֹד
+    note: falls on his neck and weeps
+  - tradition: islam
+    passages:
+    - ref: Quran 12:99
+      lang: ar
+      text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
+        شَآءَ ٱللَّهُ ءَامِنِينَ
+    note: both parents (abawayhi)
+- kind: shared
+  label: The whole family moves to Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 46:5
+      lang: he
+      text: וַיָּ֥קָם יַעֲקֹ֖ב מִבְּאֵ֣ר שָׁ֑בַע וַיִּשְׂא֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת יַעֲקֹ֣ב אֲבִיהֶ֗ם
+        וְאֶת טַפָּם֙ וְאֶת נְשֵׁיהֶ֔ם בָּעֲגָל֕וֹת אֲשֶׁר שָׁלַ֥ח פַּרְעֹ֖ה לָשֵׂ֥את אֹתֽוֹ
+    - ref: Gen 46:6
+      lang: he
+      text: וַיִּקְח֣וּ אֶת מִקְנֵיהֶ֗ם וְאֶת רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ
+        מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל זַרְע֥וֹ אִתּֽוֹ
+    - ref: Gen 46:7
+      lang: he
+      text: בָּנָ֞יו וּבְנֵ֤י בָנָיו֙ אִתּ֔וֹ בְּנֹתָ֛יו וּבְנ֥וֹת בָּנָ֖יו וְכָל זַרְע֑וֹ הֵבִ֥יא אִתּ֖וֹ
+        מִצְרָֽיְמָה
+  - tradition: islam
+    passages:
+    - ref: Quran 12:93
+      lang: ar
+      text: ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ
+        أَجْمَعِينَ
+    - ref: Quran 12:99
+      lang: ar
+      text: فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن
+        شَآءَ ٱللَّهُ ءَامِنِينَ
 ---
 
 ## Questions

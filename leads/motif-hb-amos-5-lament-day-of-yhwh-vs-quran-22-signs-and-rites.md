@@ -2,7 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-22-signs-and-rites
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Migrants provided for;
   the night and day, the held sky, a rite for every nation
-summary: 'These two units share 1 motifs: god makes the night pass into the day and the day into the night.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - night-merged-into-day
-passages:
-- tradition: judaism
-  ref: Amos 5:8
-  note: 'God makes the night pass into the day and the day into the night (yūliju l-layla fī n-nahāri
-    wa-yūliju n-nahāra fī l-layli ~ wə-hōfēk la-bbōqer ṣalmāwet wə-yôm laylâ heḥšîk: God turns darkness
-    into morning and darkens day into night; in Amos a hymn fragment of power, in the Quran a sign of
-    power and of help to the wronged (22:60-61).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א
-    לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 22:61
-  note: God makes the night pass into the day and the day into the night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَأَنَّ
-    ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yūliju l-layla fī n-nahāri wa-yūliju n-nahāra fī l-layli ~ wə-hōfēk la-bbōqer ṣalmāwet wə-yôm
-    laylâ heḥšîk: God turns darkness into morning and darkens day into night; in Amos a hymn fragment
-    of power, in the Quran a sign of power and of help to the wronged (22:60-61).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes the night pass into the day and the day into the night
     (weight 5.6). Pair score 5.6.'
@@ -71,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes the night pass into the day and the day into the night
+kinds:
+- echo
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-22-signs-and-rites
+  title: Migrants provided for; the night and day, the held sky, a rite for every nation
+  tradition: islam
+matches:
+- kind: echo
+  label: God makes the night pass into the day and the day into the night
+  note: 'yūliju l-layla fī n-nahāri wa-yūliju n-nahāra fī l-layli ~ wə-hōfēk la-bbōqer ṣalmāwet wə-yôm
+    laylâ heḥšîk: God turns darkness into morning and darkens day into night; in Amos a hymn fragment
+    of power, in the Quran a sign of power and of help to the wronged (22:60-61).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:8
+      lang: he
+      text: עֹשֵׂ֨ה כִימָ֜ה וּכְסִ֗יל וְהֹפֵ֤ךְ לַבֹּ֨קֶר֙ צַלְמָ֔וֶת וְי֖וֹם לַ֣יְלָה הֶחְשִׁ֑יךְ הַקּוֹרֵ֣א
+        לְמֵֽי הַיָּ֗ם וַֽיִּשְׁפְּכֵ֛ם עַל פְּנֵ֥י הָאָ֖רֶץ יְהוָ֥ה שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:61
+      lang: ar
+      text: ذَٰلِكَ بِأَنَّ ٱللَّهَ يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ
+        وَأَنَّ ٱللَّهَ سَمِيعٌۢ بَصِيرٌ
 ---
 
 ## Questions

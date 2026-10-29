@@ -2,8 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-16-blessings-of-creation
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The command has come;
   cattle, rain, sea and stars as blessings (Surah 16:1-23)
-summary: 'These two units share 1 motifs: the idols create nothing, are themselves created, and are dead,
-  not living.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - idols-dead-not-living
-passages:
-- tradition: judaism
-  ref: Isa 44:9
-  note: 'The idols create nothing, are themselves created, and are dead, not living (mî-yāṣar ʾēl ûpesel
-    nāsāk ləbiltî hôʿîl; a-fa-man yakhluqu ka-man lā yakhluq ... lā yakhluqūna shayʾan wa-hum yukhlaqūn:
-    a god that is formed (yāṣar / yukhlaqūn) instead of forming.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֹֽצְרֵי פֶ֤סֶל כֻּלָּם֙ תֹּ֔הוּ וַחֲמוּדֵיהֶ֖ם בַּל יוֹעִ֑ילוּ וְעֵדֵיהֶ֣ם הֵׄ֗מָּׄהׄ בַּל יִרְא֛וּ
-    וּבַל יֵדְע֖וּ לְמַ֥עַן יֵבֹֽשׁוּ
-- tradition: judaism
-  ref: Isa 44:10
-  note: 'The idols create nothing, are themselves created, and are dead, not living (mî-yāṣar ʾēl ûpesel
-    nāsāk ləbiltî hôʿîl; a-fa-man yakhluqu ka-man lā yakhluq ... lā yakhluqūna shayʾan wa-hum yukhlaqūn:
-    a god that is formed (yāṣar / yukhlaqūn) instead of forming.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי יָצַ֥ר אֵ֖ל וּפֶ֣סֶל נָסָ֑ךְ לְבִלְתִּ֖י הוֹעִֽיל
-- tradition: islam
-  ref: Quran 16:20
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 16:21
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mî-yāṣar ʾēl ûpesel nāsāk ləbiltî hôʿîl; a-fa-man yakhluqu ka-man lā yakhluq ... lā yakhluqūna
-    shayʾan wa-hum yukhlaqūn: a god that is formed (yāṣar / yukhlaqūn) instead of forming.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idols create nothing, are themselves created, and are dead,
     not living (weight 6.0). Pair score 6.0.'
@@ -90,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The idols create nothing, are themselves created, and are dead, not living
+kinds:
+- parallel
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-16-blessings-of-creation
+  title: The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The idols create nothing, are themselves created, and are dead, not living
+  note: 'mî-yāṣar ʾēl ûpesel nāsāk ləbiltî hôʿîl; a-fa-man yakhluqu ka-man lā yakhluq ... lā yakhluqūna
+    shayʾan wa-hum yukhlaqūn: a god that is formed (yāṣar / yukhlaqūn) instead of forming.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:9
+      lang: he
+      text: יֹֽצְרֵי פֶ֤סֶל כֻּלָּם֙ תֹּ֔הוּ וַחֲמוּדֵיהֶ֖ם בַּל יוֹעִ֑ילוּ וְעֵדֵיהֶ֣ם הֵׄ֗מָּׄהׄ בַּל
+        יִרְא֛וּ וּבַל יֵדְע֖וּ לְמַ֥עַן יֵבֹֽשׁוּ
+    - ref: Isa 44:10
+      lang: he
+      text: מִֽי יָצַ֥ר אֵ֖ל וּפֶ֣סֶל נָסָ֑ךְ לְבִלְתִּ֖י הוֹעִֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 16:17
+      lang: ar
+      text: أَفَمَن يَخْلُقُ كَمَن لَّا يَخْلُقُ أَفَلَا تَذَكَّرُونَ
+    - ref: Quran 16:20
+      lang: ar
+      text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-49-ammon-edom-damascus-kedar-elam-vs-quran-93-94-forenoon-and-expansion
 title: 'Oracles against Ammon, Edom, Damascus, Kedar and Hazor, and Elam ↔ The forenoon and the expansion:
   the orphan prophet consoled'
-summary: 'These two units share 1 motifs: god is father of orphans and defender of widows, who sets the
-  lonely in a home and frees prisoners.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,23 +14,9 @@ layers:
 - motif
 motifs:
 - father-of-orphans-judge-of-widows
-passages:
-- tradition: judaism
-  ref: Jer 49:11
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָזְבָ֥ה יְתֹמֶ֖יךָ אֲנִ֣י אֲחַיֶּ֑ה וְאַלְמְנֹתֶ֖יךָ עָלַ֥י תִּבְטָֽחוּ
-- tradition: islam
-  ref: Quran 93:6
-  note: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
-    (God himself shelters the orphan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-āwā ~ ʿozvāh yetōmêkā ʾănî ʾăḥayyeh: God keeps the orphans alive.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is father of orphans and defender of widows, who sets the lonely
     in a home and frees prisoners (weight 6.0). Pair score 6.0.'
@@ -61,6 +46,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+kinds:
+- echo
+units:
+- id: hb-jer-49-ammon-edom-damascus-kedar-elam
+  title: Oracles against Ammon, Edom, Damascus, Kedar and Hazor, and Elam
+  tradition: judaism
+- id: quran-93-94-forenoon-and-expansion
+  title: 'The forenoon and the expansion: the orphan prophet consoled'
+  tradition: islam
+matches:
+- kind: echo
+  label: God is father of orphans and defender of widows, who sets the lonely in a home and frees prisoners
+  note: 'fa-āwā ~ ʿozvāh yetōmêkā ʾănî ʾăḥayyeh: God keeps the orphans alive.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 49:11
+      lang: he
+      text: עָזְבָ֥ה יְתֹמֶ֖יךָ אֲנִ֣י אֲחַיֶּ֑ה וְאַלְמְנֹתֶ֖יךָ עָלַ֥י תִּבְטָֽחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 93:6
+      lang: ar
+      text: أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ
 ---
 
 ## Questions

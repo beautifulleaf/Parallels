@@ -2,7 +2,7 @@
 id: motif-hb-exod-3-burning-bush-vs-quran-36-bones-and-be
 title: The burning bush and the divine name ↔ Who revives rotten bones? Fire from the green tree; Be and
   it is
-summary: 'These two units share 1 motifs: god made fire for you from the green tree, from which you kindle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - fire-from-green-tree
-passages:
-- tradition: judaism
-  ref: Exod 3:2
-  note: 'God made fire for you from the green tree, from which you kindle (wə-hinnēh ha-ssəneh bōʿēr bā-ʾēš
-    wə-ha-ssəneh ʾênennû ʾukkāl vs. mina sh-shajari l-akhḍari nāran: fire from green wood as a wonder.
-    The bush burns and is not consumed; the green tree yields fire for kindling. Lead only (the exegetes''
-    hint); the Quranic verse concerns the fire drill, not the theophany.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה הַסְּנֶה֙
-    בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
-- tradition: islam
-  ref: Quran 36:80
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
-- tradition: islam
-  ref: Quran 36:74
-  note: God made fire for you from the green tree, from which you kindle
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةً لَّعَلَّهُمْ يُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-hinnēh ha-ssəneh bōʿēr bā-ʾēš wə-ha-ssəneh ʾênennû ʾukkāl vs. mina sh-shajari l-akhḍari nāran:
-    fire from green wood as a wonder. The bush burns and is not consumed; the green tree yields fire for
-    kindling. Lead only (the exegetes'' hint); the Quranic verse concerns the fire drill, not the theophany.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made fire for you from the green tree, from which you kindle
     (weight 6.0). Pair score 6.0.'
@@ -72,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made fire for you from the green tree, from which you kindle
+kinds:
+- echo
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-36-bones-and-be
+  title: Who revives rotten bones? Fire from the green tree; Be and it is
+  tradition: islam
+matches:
+- kind: echo
+  label: God made fire for you from the green tree, from which you kindle
+  note: 'wə-hinnēh ha-ssəneh bōʿēr bā-ʾēš wə-ha-ssəneh ʾênennû ʾukkāl vs. mina sh-shajari l-akhḍari nāran:
+    fire from green wood as a wonder. The bush burns and is not consumed; the green tree yields fire for
+    kindling. Lead only (the exegetes'' hint); the Quranic verse concerns the fire drill, not the theophany.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:2
+      lang: he
+      text: וַ֠יֵּרָא מַלְאַ֨ךְ יְהֹוָ֥ה אֵלָ֛יו בְּלַבַּת אֵ֖שׁ מִתּ֣וֹךְ הַסְּנֶ֑ה וַיַּ֗רְא וְהִנֵּ֤ה
+        הַסְּנֶה֙ בֹּעֵ֣ר בָּאֵ֔שׁ וְהַסְּנֶ֖ה אֵינֶ֥נּוּ אֻכָּֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 36:80
+      lang: ar
+      text: ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ
 ---
 
 ## Questions

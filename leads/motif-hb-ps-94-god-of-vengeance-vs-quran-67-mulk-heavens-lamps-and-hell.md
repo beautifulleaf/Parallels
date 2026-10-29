@@ -2,8 +2,7 @@
 id: motif-hb-ps-94-god-of-vengeance-vs-quran-67-mulk-heavens-lamps-and-hell
 title: 'Psalm 94, God of vengeance; he who planted the ear ↔ Al-Mulk: death and life as test, seven flawless
   heavens, stars as missiles against devils, hell nearly bursting with rage'
-summary: 'These two units share 1 motifs: argument: he who planted the ear, does he not hear? he who formed
-  the eye, does he not see?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - maker-of-eye-and-ear-sees-and-hears
-passages:
-- tradition: judaism
-  ref: Ps 94:9-11
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (94:9) הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט (94:10) הֲיֹסֵ֣ר
-    גּ֭וֹיִם הֲלֹ֣א יוֹכִ֑יחַ הַֽמְלַמֵּ֖ד אָדָ֣ם דָּֽעַת (94:11) יְֽהוָ֗ה יֹ֭דֵעַ מַחְשְׁב֣וֹת אָדָ֑ם
-    כִּי הֵ֥מָּה הָֽבֶל
-- tradition: judaism
-  ref: Ps 94:9
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
-- tradition: islam
-  ref: Quran 67:14
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see? (Ps
-    94:9)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
-- tradition: islam
-  ref: Quran 67:13
-  note: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see? (Ps
-    94:9)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. a-lā yaʿlamu man khalaqa wa-huwa l-laṭīfu l-khabīr ~ hă-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr
-    ʿayin hă-lōʾ yabbîṭ ... YHWH yōdēaʿ maḥševôt ʾādām. Same argument from the creator to his knowledge,
-    answering the doubt of Ps 94:7 lōʾ yirʾeh Yāh. 67:13 asirrū qawlakum aw-jharū bihi parallels maḥševôt.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Argument: He who planted the ear, does he not hear? He who formed
     the eye, does he not see? (weight 6.3). Pair score 6.3.'
@@ -83,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
+kinds:
+- parallel
+units:
+- id: hb-ps-94-god-of-vengeance
+  title: Psalm 94, God of vengeance; he who planted the ear
+  tradition: judaism
+- id: quran-67-mulk-heavens-lamps-and-hell
+  title: 'Al-Mulk: death and life as test, seven flawless heavens, stars as missiles against devils, hell
+    nearly bursting with rage'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Argument: He who planted the ear, does he not hear? He who formed the eye, does he not see?'
+  note: a-lā yaʿlamu man khalaqa wa-huwa l-laṭīfu l-khabīr ~ hă-nōṭaʿ ʾōzen hă-lōʾ yišmāʿ ʾim yōṣēr ʿayin
+    hă-lōʾ yabbîṭ ... YHWH yōdēaʿ maḥševôt ʾādām. Same argument from the creator to his knowledge, answering
+    the doubt of Ps 94:7 lōʾ yirʾeh Yāh. 67:13 asirrū qawlakum aw-jharū bihi parallels maḥševôt.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 94:7
+      lang: he
+      text: וַ֭יֹּ֣אמְרוּ לֹ֣א יִרְאֶה יָּ֑הּ וְלֹא יָ֝בִ֗ין אֱלֹהֵ֥י יַעֲקֹֽב
+    - ref: Ps 94:9
+      lang: he
+      text: הֲנֹ֣טַֽע אֹ֭זֶן הֲלֹ֣א יִשְׁמָ֑ע אִֽם יֹ֥צֵֽר עַ֝֗יִן הֲלֹ֣א יַבִּֽיט
+    - ref: Ps 94:11
+      lang: he
+      text: יְֽהוָ֗ה יֹ֭דֵעַ מַחְשְׁב֣וֹת אָדָ֑ם כִּי הֵ֥מָּה הָֽבֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 67:13
+      lang: ar
+      text: وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+    - ref: Quran 67:14
+      lang: ar
+      text: أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ
 ---
 
 ## Questions

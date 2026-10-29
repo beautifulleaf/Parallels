@@ -1,9 +1,7 @@
 ---
 id: motif-hb-deut-5-decalogue-vs-quran-6-commandments
 title: The Decalogue restated and the people's fear at Horeb ↔ The recited commandments (the Quranic decalogue)
-summary: 'These two units share 6 motifs: honor father and mother, with the promise of long life [divergence
-  between the texts], keep the law, turning neither to the right nor to the left, prohibitions of murder,
-  adultery, theft and false witness [divergence between the texts], the ten commandments (decalogue)….'
+summary: '3 correspondences read side by side: 2 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,202 +15,18 @@ layers:
 - motif
 motifs:
 - honor-parents-long-life-as-divergence
-- turn-neither-right-nor-left
 - prohibition-murder-adultery-theft-false-witness-as-divergence
+- turn-neither-right-nor-left
 - ten-commandments
 - honor-parents-long-life
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Deut 5:16
-  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
-    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
-    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
-    land is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 6:151
-  note: 'Honor father and mother, with the promise of long life [divergence between the texts] (Deut:
-    kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh ʿal-hā-ʾădāmāh.
-    Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of long life in the
-    land is dropped.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: judaism
-  ref: Deut 5:32
-  note: 'Keep the law, turning neither to the right nor to the left (Deut, right after the Decalogue:
-    lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû. Q, right after its list: wa-anna hādhā ṣirāṭī
-    mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa bikum. The single road versus side paths,
-    placed at the same point.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת כַּאֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֶתְכֶ֑ם לֹ֥א תָסֻ֖רוּ יָמִ֥ין
-    וּשְׂמֹֽאל
-- tradition: judaism
-  ref: Deut 5:33
-  note: 'Keep the law, turning neither to the right nor to the left (Deut, right after the Decalogue:
-    lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû. Q, right after its list: wa-anna hādhā ṣirāṭī
-    mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa bikum. The single road versus side paths,
-    placed at the same point.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּכָל הַדֶּ֗רֶךְ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֧ה אֱלֹהֵיכֶ֛ם אֶתְכֶ֖ם תֵּלֵ֑כוּ לְמַ֤עַן תִּֽחְיוּן֙
-    וְט֣וֹב לָכֶ֔ם וְהַאֲרַכְתֶּ֣ם יָמִ֔ים בָּאָ֖רֶץ אֲשֶׁ֥ר תִּֽירָשֽׁוּן
-- tradition: islam
-  ref: Quran 6:153
-  note: Keep the law, turning neither to the right nor to the left
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّ هَٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ بِكُمْ
-    عَن سَبِيلِهِۦ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ
-- tradition: judaism
-  ref: Deut 5:17
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 6:151
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 6:152
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
-- tradition: judaism
-  ref: Deut 5:6
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
-- tradition: judaism
-  ref: Deut 5:7
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 6:151
-  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
-    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
-    path)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 6:152
-  note: The Ten Commandments (Decalogue) (no partners, good to parents, no killing children, no indecency,
-    no killing, orphan's property, full measure, justice in speech, keep God's covenant, follow the straight
-    path)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
-- tradition: judaism
-  ref: Deut 5:16
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 6:151
-  note: Honor father and mother, with the promise of long life
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 6:151
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ وَإِيَّاهُمْ وَلَا
-    تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 6:152
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
-    وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا قُلْتُمْ
-    فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ
-    تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence, parallel. Deut: kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan
-    yîṭav lākh ʿal-hā-ʾădāmāh. Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the
-    promise of long life in the land is dropped. Deut: lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā
-    ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi
-    (with an exception); wa-lā taqrabū l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only
-    adultery); wa-idhā qultum fa-ʿdilū wa-law kāna dhā qurbā (just speech even against kin). Theft is
-    absent. Deut, right after the Decalogue: lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû.
-    Q, right after its list: wa-anna hādhā ṣirāṭī mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa
-    bikum. The single road versus side paths, placed at the same point.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life [divergence
-    between the texts] (weight 6.0); Keep the law, turning neither to the right nor to the left (weight
-    5.8); Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (weight
+    between the texts] (weight 6.0); Prohibitions of murder, adultery, theft and false witness [divergence
+    between the texts] (weight 5.8); Keep the law, turning neither to the right nor to the left (weight
     5.8); The Ten Commandments (Decalogue) (weight 5.4); Honor father and mother, with the promise of
     long life (weight 5.3); Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair
     score 33.4.'
@@ -245,6 +59,124 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-6-commandments
+  title: The recited commandments (the Quranic decalogue)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Honor father and mother, with the promise of long life
+  note: 'Deut: kabbēd ʾet-ʾāvîkhā wə-ʾet-ʾimmekhā ... ləmaʿan yaʾărîkhūn yāmêkhā û-ləmaʿan yîṭav lākh
+    ʿal-hā-ʾădāmāh. Q: wa-bi-l-wālidayni iḥsānan. ''Honour'' becomes ''kindness'', and the promise of
+    long life in the land is dropped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:16
+      lang: he
+      text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+        יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+- kind: divergence
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'Deut: lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and
+    widens: wa-lā taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū
+    l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū
+    wa-law kāna dhā qurbā (just speech even against kin). Theft is absent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:20
+      lang: he
+      text: וְלֹֽא תַעֲנֶ֥ה בְרֵֽעֲךָ֖ עֵ֥ד שָֽׁוְא
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+- kind: parallel
+  label: Keep the law, turning neither to the right nor to the left
+  note: 'Deut, right after the Decalogue: lōʾ tāsurû yāmîn û-śəmōʾl bə-khol-ha-dderekh ... tēlēkhû. Q,
+    right after its list: wa-anna hādhā ṣirāṭī mustaqīman fa-ttabiʿūhu wa-lā tattabiʿū l-subula fa-tafarraqa
+    bikum. The single road versus side paths, placed at the same point.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:32
+      lang: he
+      text: וּשְׁמַרְתֶּ֣ם לַעֲשׂ֔וֹת כַּאֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֶתְכֶ֑ם לֹ֥א תָסֻ֖רוּ יָמִ֥ין
+        וּשְׂמֹֽאל
+    - ref: Deut 5:33
+      lang: he
+      text: בְּכָל הַדֶּ֗רֶךְ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֧ה אֱלֹהֵיכֶ֛ם אֶתְכֶ֖ם תֵּלֵ֑כוּ לְמַ֤עַן תִּֽחְיוּן֙
+        וְט֣וֹב לָכֶ֔ם וְהַאֲרַכְתֶּ֣ם יָמִ֔ים בָּאָ֖רֶץ אֲשֶׁ֥ר תִּֽירָשֽׁוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 6:153
+      lang: ar
+      text: وَأَنَّ هَٰذَا صِرَٰطِى مُسْتَقِيمًا فَٱتَّبِعُوهُ وَلَا تَتَّبِعُوا۟ ٱلسُّبُلَ فَتَفَرَّقَ
+        بِكُمْ عَن سَبِيلِهِۦ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَتَّقُونَ
+- kind: shared
+  label: The Ten Commandments (Decalogue)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:6
+      lang: he
+      text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
+    - ref: Deut 5:7
+      lang: he
+      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    - ref: Deut 5:11
+      lang: he
+      text: לֹ֥א תִשָּׂ֛א אֶת שֵֽׁם יְהוָ֥ה אֱלֹהֶ֖יךָ לַשָּׁ֑וְא כִּ֣י לֹ֤א יְנַקֶּה֙ יְהוָ֔ה אֵ֛ת אֲשֶׁר
+        יִשָּׂ֥א אֶת שְׁמ֖וֹ לַשָּֽׁוְא
+  - tradition: islam
+    passages:
+    - ref: Quran 6:151
+      lang: ar
+      text: قُلْ تَعَالَوْا۟ أَتْلُ مَا حَرَّمَ رَبُّكُمْ عَلَيْكُمْ أَلَّا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا
+        وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُم مِّنْ إِمْلَٰقٍ نَّحْنُ نَرْزُقُكُمْ
+        وَإِيَّاهُمْ وَلَا تَقْرَبُوا۟ ٱلْفَوَٰحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَلَا تَقْتُلُوا۟
+        ٱلنَّفْسَ ٱلَّتِى حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ ذَٰلِكُمْ وَصَّىٰكُم بِهِۦ لَعَلَّكُمْ تَعْقِلُونَ
+    - ref: Quran 6:152
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ مَالَ ٱلْيَتِيمِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ حَتَّىٰ يَبْلُغَ أَشُدَّهُۥ
+        وَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ بِٱلْقِسْطِ لَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَإِذَا
+        قُلْتُمْ فَٱعْدِلُوا۟ وَلَوْ كَانَ ذَا قُرْبَىٰ وَبِعَهْدِ ٱللَّهِ أَوْفُوا۟ ذَٰلِكُمْ وَصَّىٰكُم
+        بِهِۦ لَعَلَّكُمْ تَذَكَّرُونَ
+    note: no partners, good to parents, no killing children, no indecency, no killing, orphan's property,
+      full measure, justice in speech, keep God's covenant, follow the straight path
 ---
 
 ## Questions

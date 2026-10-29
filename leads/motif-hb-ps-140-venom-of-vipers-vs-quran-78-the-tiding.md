@@ -2,7 +2,7 @@
 id: motif-hb-ps-140-venom-of-vipers-vs-quran-78-the-tiding
 title: 'Psalm 140, deliverance from violent men with serpent tongues ↔ The great tiding: signs of creation
   and the day of sorting'
-summary: 'These two units share 1 motifs: god repays each person according to his deeds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - god-repays-according-to-deeds
-passages:
-- tradition: judaism
-  ref: Ps 140:10
-  note: God repays each person according to his deeds (The mischief of their lips covers them; evil hunts
-    the violent man)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֹ֥אשׁ מְסִבָּ֑י עֲמַ֖ל שְׂפָתֵ֣ימוֹ יכסומו יְכַסֵּֽמוֹ
-- tradition: judaism
-  ref: Ps 140:12
-  note: God repays each person according to his deeds (The mischief of their lips covers them; evil hunts
-    the violent man)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֥ישׁ לָשׁוֹן֮ בַּל יִכּ֪וֹן בָּ֫אָ֥רֶץ אִישׁ חָמָ֥ס רָ֑ע יְ֝צוּדֶ֗נּוּ לְמַדְחֵפֹֽת
-- tradition: islam
-  ref: Quran 78:26
-  note: God repays each person according to his deeds (jaza'an wifaqa, a fitting recompense)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَزَآءً وِفَاقًا
-- tradition: islam
-  ref: Quran 78:36
-  note: God repays each person according to his deeds (jaza'an wifaqa, a fitting recompense)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. jazāʾan wifāqan ~ ʿămal śefātêmô yekassēmô: the mischief they did returns upon them.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God repays each person according to his deeds (weight 6.0). Pair
     score 6.0.'
@@ -75,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God repays each person according to his deeds
+kinds:
+- echo
+units:
+- id: hb-ps-140-venom-of-vipers
+  title: Psalm 140, deliverance from violent men with serpent tongues
+  tradition: judaism
+- id: quran-78-the-tiding
+  title: 'The great tiding: signs of creation and the day of sorting'
+  tradition: islam
+matches:
+- kind: echo
+  label: God repays each person according to his deeds
+  note: 'jazāʾan wifāqan ~ ʿămal śefātêmô yekassēmô: the mischief they did returns upon them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 140:10
+      lang: he
+      text: רֹ֥אשׁ מְסִבָּ֑י עֲמַ֖ל שְׂפָתֵ֣ימוֹ יכסומו יְכַסֵּֽמוֹ
+    - ref: Ps 140:12
+      lang: he
+      text: אִ֥ישׁ לָשׁוֹן֮ בַּל יִכּ֪וֹן בָּ֫אָ֥רֶץ אִישׁ חָמָ֥ס רָ֑ע יְ֝צוּדֶ֗נּוּ לְמַדְחֵפֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 78:26
+      lang: ar
+      text: جَزَآءً وِفَاقًا
 ---
 
 ## Questions

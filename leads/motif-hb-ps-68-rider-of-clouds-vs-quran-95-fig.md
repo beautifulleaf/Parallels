@@ -2,8 +2,7 @@
 id: motif-hb-ps-68-rider-of-clouds-vs-quran-95-fig
 title: Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain ↔ The fig and
   the olive, Mount Sinai and the secure city
-summary: 'These two units share 1 motifs: god shines forth from sinai, seir and mount paran with holy
-  myriads.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - god-comes-from-sinai-seir-paran
-passages:
-- tradition: judaism
-  ref: Ps 68:8-9
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (zeh Sinai, 'the One of Sinai',
-    as in Judg 5:5)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (68:8) אֱֽלֹהִ֗ים בְּ֭צֵאתְךָ לִפְנֵ֣י עַמֶּ֑ךָ בְּצַעְדְּךָ֖ בִֽישִׁימ֣וֹן סֶֽלָה (68:9) אֶ֤רֶץ
-    רָעָ֨שָׁה אַף שָׁמַ֣יִם נָטְפוּ֮ מִפְּנֵ֪י אֱלֹ֫הִ֥ים זֶ֥ה סִינַ֑י מִפְּנֵ֥י אֱ֝לֹהִ֗ים אֱלֹהֵ֥י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Ps 68:18
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (zeh Sinai, 'the One of Sinai',
-    as in Judg 5:5)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֶ֤כֶב אֱלֹהִ֗ים רִבֹּתַ֣יִם אַלְפֵ֣י שִׁנְאָ֑ן אֲדֹנָ֥י בָ֝֗ם סִינַ֥י בַּקֹּֽדֶשׁ
-- tradition: islam
-  ref: Quran 95:1
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (a triad of sacred sites with
-    Sinai at the center (tur sinin); exegetes read fig/olive as the Holy Land and the secure city as Mecca)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلتِّينِ وَٱلزَّيْتُونِ
-- tradition: islam
-  ref: Quran 95:2
-  note: God shines forth from Sinai, Seir and Mount Paran with holy myriads (a triad of sacred sites with
-    Sinai at the center (tur sinin); exegetes read fig/olive as the Holy Land and the secure city as Mecca)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَطُورِ سِينِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-ṭūri sīnīn ~ zeh sînay mi-ppenê ʾĕlōhîm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God shines forth from Sinai, Seir and Mount Paran with holy myriads
     (weight 5.6). Pair score 5.6.'
@@ -81,6 +50,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+kinds:
+- echo
+units:
+- id: hb-ps-68-rider-of-clouds
+  title: Psalm 68, let God arise; the rider of the clouds marches from Sinai to his mountain
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: echo
+  label: God shines forth from Sinai, Seir and Mount Paran with holy myriads
+  note: wa-ṭūri sīnīn ~ zeh sînay mi-ppenê ʾĕlōhîm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 68:9
+      lang: he
+      text: אֶ֤רֶץ רָעָ֨שָׁה אַף שָׁמַ֣יִם נָטְפוּ֮ מִפְּנֵ֪י אֱלֹ֫הִ֥ים זֶ֥ה סִינַ֑י מִפְּנֵ֥י אֱ֝לֹהִ֗ים
+        אֱלֹהֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 95:2
+      lang: ar
+      text: وَطُورِ سِينِينَ
 ---
 
 ## Questions

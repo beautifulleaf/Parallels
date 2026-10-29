@@ -2,7 +2,7 @@
 id: motif-hb-jer-2-harlot-vine-camel-vs-quran-3-misers-mockers
 title: Degenerate vine, she-camel in heat, gods of wood and stone ↔ Misers, those who called God poor,
   and the fire-consumed offering
-summary: 'These two units share 1 motifs: israel killed the prophets who warned them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - prophets-killed-by-israel
-passages:
-- tradition: judaism
-  ref: Jer 2:30
-  note: Israel killed the prophets who warned them (your sword devoured your prophets like a destroying
-    lion)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַשָּׁוְא֙ הִכֵּ֣יתִי אֶת בְּנֵיכֶ֔ם מוּסָ֖ר לֹ֣א לָקָ֑חוּ אָכְלָ֧ה חַרְבְּכֶ֛ם נְבִֽיאֵיכֶ֖ם
-    כְּאַרְיֵ֥ה מַשְׁחִֽית
-- tradition: islam
-  ref: Quran 3:181
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ سَمِعَ ٱللَّهُ قَوْلَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ فَقِيرٌ وَنَحْنُ أَغْنِيَآءُ
-    سَنَكْتُبُ مَا قَالُوا۟ وَقَتْلَهُمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ حَقٍّ وَنَقُولُ ذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
-- tradition: islam
-  ref: Quran 3:183
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
-    بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
-    قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Jer 2:30 ʾākĕlâ ḥarbĕkem nĕbîʾêkem; Q 3:183 fa-li-ma qataltumūhum.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1). Pair score
     5.1.'
@@ -78,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel killed the prophets who warned them
+kinds:
+- parallel
+units:
+- id: hb-jer-2-harlot-vine-camel
+  title: Degenerate vine, she-camel in heat, gods of wood and stone
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel killed the prophets who warned them
+  note: Jer 2:30 ʾākĕlâ ḥarbĕkem nĕbîʾêkem; Q 3:183 fa-li-ma qataltumūhum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 2:30
+      lang: he
+      text: לַשָּׁוְא֙ הִכֵּ֣יתִי אֶת בְּנֵיכֶ֔ם מוּסָ֖ר לֹ֣א לָקָ֑חוּ אָכְלָ֧ה חַרְבְּכֶ֛ם נְבִֽיאֵיכֶ֖ם
+        כְּאַרְיֵ֥ה מַשְׁחִֽית
+  - tradition: islam
+    passages:
+    - ref: Quran 3:183
+      lang: ar
+      text: ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ عَهِدَ إِلَيْنَآ أَلَّا نُؤْمِنَ لِرَسُولٍ حَتَّىٰ يَأْتِيَنَا
+        بِقُرْبَانٍ تَأْكُلُهُ ٱلنَّارُ قُلْ قَدْ جَآءَكُمْ رُسُلٌ مِّن قَبْلِى بِٱلْبَيِّنَٰتِ وَبِٱلَّذِى
+        قُلْتُمْ فَلِمَ قَتَلْتُمُوهُمْ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

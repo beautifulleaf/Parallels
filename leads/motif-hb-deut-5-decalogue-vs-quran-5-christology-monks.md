@@ -2,7 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-5-christology-monks
 title: The Decalogue restated and the people's fear at Horeb ↔ Against the deification of Jesus; the weeping
   Christians
-summary: 'These two units share 1 motifs: no other gods before yhwh.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - prohibition-of-other-gods
-passages:
-- tradition: judaism
-  ref: Deut 5:7
-  note: 'No other gods before YHWH (Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad
-    ḥarrama llāhu ʿalayhi l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself
-    proclaim it (uʿbudū llāha rabbī wa-rabbakum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 5:72
-  note: 'No other gods before YHWH (Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad
-    ḥarrama llāhu ʿalayhi l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself
-    proclaim it (uʿbudū llāha rabbī wa-rabbakum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ وَقَالَ ٱلْمَسِيحُ
-    يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ فَقَدْ
-    حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ
-- tradition: islam
-  ref: Quran 5:73
-  note: 'No other gods before YHWH (Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad
-    ḥarrama llāhu ʿalayhi l-janna. Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself
-    proclaim it (uʿbudū llāha rabbī wa-rabbakum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍ وَمَا مِنْ إِلَٰهٍ إِلَّآ
-    إِلَٰهٌ وَٰحِدٌ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ
-    عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad ḥarrama llāhu ʿalayhi l-janna.
-    Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself proclaim it (uʿbudū llāha rabbī
-    wa-rabbakum).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No other gods before YHWH (weight 5.8). Pair score 5.8.'
   basis: reading
@@ -81,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No other gods before YHWH
+kinds:
+- echo
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-5-christology-monks
+  title: Against the deification of Jesus; the weeping Christians
+  tradition: islam
+matches:
+- kind: echo
+  label: No other gods before YHWH
+  note: 'Q: wa-mā min ilāhin illā ilāhun wāḥidun; man yushrik bi-llāhi fa-qad ḥarrama llāhu ʿalayhi l-janna.
+    Deut: lōʾ yihyeh-ləkhā ʾĕlōhîm ʾăḥērîm ʿal-pānāy. Q has Jesus himself proclaim it (uʿbudū llāha rabbī
+    wa-rabbakum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:7
+      lang: he
+      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:72
+      lang: ar
+      text: لَقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلْمَسِيحُ ٱبْنُ مَرْيَمَ وَقَالَ ٱلْمَسِيحُ
+        يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱعْبُدُوا۟ ٱللَّهَ رَبِّى وَرَبَّكُمْ إِنَّهُۥ مَن يُشْرِكْ بِٱللَّهِ
+        فَقَدْ حَرَّمَ ٱللَّهُ عَلَيْهِ ٱلْجَنَّةَ وَمَأْوَىٰهُ ٱلنَّارُ وَمَا لِلظَّٰلِمِينَ مِنْ أَنصَارٍ
+    - ref: Quran 5:73
+      lang: ar
+      text: لَّقَدْ كَفَرَ ٱلَّذِينَ قَالُوٓا۟ إِنَّ ٱللَّهَ ثَالِثُ ثَلَٰثَةٍ وَمَا مِنْ إِلَٰهٍ إِلَّآ
+        إِلَٰهٌ وَٰحِدٌ وَإِن لَّمْ يَنتَهُوا۟ عَمَّا يَقُولُونَ لَيَمَسَّنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ
+        عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

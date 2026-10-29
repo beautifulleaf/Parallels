@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-49-no-ransom-vs-quran-102-104-rivalry-time-slanderer
 title: Psalm 49 - no man can ransom his brother ↔ Rivalry, time and the slanderer
-summary: 'These two units share 1 motifs: riches kept by their owner to his hurt, lost in a bad venture,
-  so that his son has nothing in hand.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - riches-hoarded-to-owners-harm
-passages:
-- tradition: judaism
-  ref: Ps 49:17
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand (yaḥsabu anna mālahu akhladah (he thinks his wealth has made him immortal) ~ kî lōʾ ve-môtô yiqqaḥ
-    ha-kkōl lōʾ yērēd ʾaḥărāyw kevôdô.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תִּ֭ירָא כִּֽי יַעֲשִׁ֣ר אִ֑ישׁ כִּֽי יִ֝רְבֶּה כְּב֣וֹד בֵּיתֽוֹ
-- tradition: judaism
-  ref: Ps 49:18
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand (yaḥsabu anna mālahu akhladah (he thinks his wealth has made him immortal) ~ kî lōʾ ve-môtô yiqqaḥ
-    ha-kkōl lōʾ yērēd ʾaḥărāyw kevôdô.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י לֹ֣א בְ֭מוֹתוֹ יִקַּ֣ח הַכֹּ֑ל לֹא יֵרֵ֖ד אַחֲרָ֣יו כְּבוֹדֽוֹ
-- tradition: islam
-  ref: Quran 104:2
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ
-- tradition: islam
-  ref: Quran 104:3
-  note: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
-    hand
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. yaḥsabu anna mālahu akhladah (he thinks his wealth has made him immortal) ~ kî lōʾ ve-môtô
-    yiqqaḥ ha-kkōl lōʾ yērēd ʾaḥărāyw kevôdô.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Riches kept by their owner to his hurt, lost in a bad venture, so
     that his son has nothing in hand (weight 6.3). Pair score 6.3.'
@@ -82,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
+  hand
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-102-104-rivalry-time-slanderer
+  title: Rivalry, time and the slanderer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Riches kept by their owner to his hurt, lost in a bad venture, so that his son has nothing in
+    hand
+  note: yaḥsabu anna mālahu akhladah (he thinks his wealth has made him immortal) ~ kî lōʾ ve-môtô yiqqaḥ
+    ha-kkōl lōʾ yērēd ʾaḥărāyw kevôdô.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:17
+      lang: he
+      text: אַל תִּ֭ירָא כִּֽי יַעֲשִׁ֣ר אִ֑ישׁ כִּֽי יִ֝רְבֶּה כְּב֣וֹד בֵּיתֽוֹ
+    - ref: Ps 49:18
+      lang: he
+      text: כִּ֤י לֹ֣א בְ֭מוֹתוֹ יִקַּ֣ח הַכֹּ֑ל לֹא יֵרֵ֖ד אַחֲרָ֣יו כְּבוֹדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 104:3
+      lang: ar
+      text: يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ
 ---
 
 ## Questions

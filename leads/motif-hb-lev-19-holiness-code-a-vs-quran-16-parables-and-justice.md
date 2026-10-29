@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-16-parables-and-justice
 title: Be holy - ethical laws and love of neighbor ↔ The slave and the free, the mute man, the woman who
   unravels her yarn (Surah 16:71-100)
-summary: 'These two units share 1 motifs: fulfill god''s covenant and do not break oaths after confirming
-  them or use them for deceit.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - keep-oaths-and-covenants
-passages:
-- tradition: judaism
-  ref: Lev 19:12
-  note: 'Fulfill God''s covenant and do not break oaths after confirming them or use them for deceit (wəlōʾ-tiššābəʿû
-    bišmî laššāqer wəḥillaltā ʾet-šēm ʾĕlōhêkā; wa-lā tanquḍū l-aymāna baʿda tawkīdihā wa-qad jaʿaltumu
-    llāha ʿalaykum kafīlā ... wa-lā tattakhidhū aymānakum dakhalan baynakum: an oath made in God''s name
-    must not be false or used for deceit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא תִשָּׁבְע֥וּ בִשְׁמִ֖י לַשָּׁ֑קֶר וְחִלַּלְתָּ֛ אֶת שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 16:91
-  note: Fulfill God's covenant and do not break oaths after confirming them or use them for deceit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا
-    وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ
-- tradition: islam
-  ref: Quran 16:94
-  note: Fulfill God's covenant and do not break oaths after confirming them or use them for deceit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا وَتَذُوقُوا۟
-    ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wəlōʾ-tiššābəʿû bišmî laššāqer wəḥillaltā ʾet-šēm ʾĕlōhêkā; wa-lā tanquḍū l-aymāna baʿda
-    tawkīdihā wa-qad jaʿaltumu llāha ʿalaykum kafīlā ... wa-lā tattakhidhū aymānakum dakhalan baynakum:
-    an oath made in God''s name must not be false or used for deceit.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Fulfill God''s covenant and do not break oaths after confirming
     them or use them for deceit (weight 6.7). Pair score 6.7.'
@@ -79,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Fulfill God's covenant and do not break oaths after confirming them or use them for deceit
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-16-parables-and-justice
+  title: The slave and the free, the mute man, the woman who unravels her yarn (Surah 16:71-100)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Fulfill God's covenant and do not break oaths after confirming them or use them for deceit
+  note: 'wəlōʾ-tiššābəʿû bišmî laššāqer wəḥillaltā ʾet-šēm ʾĕlōhêkā; wa-lā tanquḍū l-aymāna baʿda tawkīdihā
+    wa-qad jaʿaltumu llāha ʿalaykum kafīlā ... wa-lā tattakhidhū aymānakum dakhalan baynakum: an oath
+    made in God''s name must not be false or used for deceit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:12
+      lang: he
+      text: וְלֹֽא תִשָּׁבְע֥וּ בִשְׁמִ֖י לַשָּׁ֑קֶר וְחִלַּלְתָּ֛ אֶת שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 16:91
+      lang: ar
+      text: وَأَوْفُوا۟ بِعَهْدِ ٱللَّهِ إِذَا عَٰهَدتُّمْ وَلَا تَنقُضُوا۟ ٱلْأَيْمَٰنَ بَعْدَ تَوْكِيدِهَا
+        وَقَدْ جَعَلْتُمُ ٱللَّهَ عَلَيْكُمْ كَفِيلًا إِنَّ ٱللَّهَ يَعْلَمُ مَا تَفْعَلُونَ
+    - ref: Quran 16:94
+      lang: ar
+      text: وَلَا تَتَّخِذُوٓا۟ أَيْمَٰنَكُمْ دَخَلًۢا بَيْنَكُمْ فَتَزِلَّ قَدَمٌۢ بَعْدَ ثُبُوتِهَا
+        وَتَذُوقُوا۟ ٱلسُّوٓءَ بِمَا صَدَدتُّمْ عَن سَبِيلِ ٱللَّهِ وَلَكُمْ عَذَابٌ عَظِيمٌ
 ---
 
 ## Questions

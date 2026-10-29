@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-35-not-equal
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ No soul bears another's burden;
   the blind and the seeing; the colors of creation
-summary: 'These two units share 1 motifs: whether one person (kin, descendants) bears another''s sin [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - liability-for-anothers-sin-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 34:7
-  note: Whether one person (kin, descendants) bears another's sin [contrast between the texts] (pōqēḏ
-    ʿăwōn ʾāḇôṯ ʿal-bānîm wə-ʿal-bənê ḇānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm vs. wa-lā taziru wāziratun wizra
-    ukhrā ... wa-law kāna dhā qurbā. Transgenerational liability in the divine self-description stands
-    against the Quran's flat denial that kin carry any of it (as Ezek 18 and Deut 24:16 already argue
-    within the HB).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹצֵ֥ר חֶ֨סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד
-    עֲוֺ֣ן אָב֗וֹת עַל בָּנִים֙ וְעַל בְּנֵ֣י בָנִ֔ים עַל שִׁלֵּשִׁ֖ים וְעַל רִבֵּעִֽים
-- tradition: islam
-  ref: Quran 35:18
-  note: Whether one person (kin, descendants) bears another's sin [contrast between the texts] (pōqēḏ
-    ʿăwōn ʾāḇôṯ ʿal-bānîm wə-ʿal-bənê ḇānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm vs. wa-lā taziru wāziratun wizra
-    ukhrā ... wa-law kāna dhā qurbā. Transgenerational liability in the divine self-description stands
-    against the Quran's flat denial that kin carry any of it (as Ezek 18 and Deut 24:16 already argue
-    within the HB).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ
-    شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟
-    ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm wə-ʿal-bənê ḇānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm vs. wa-lā taziru
-    wāziratun wizra ukhrā ... wa-law kāna dhā qurbā. Transgenerational liability in the divine self-description
-    stands against the Quran''s flat denial that kin carry any of it (as Ezek 18 and Deut 24:16 already
-    argue within the HB).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether one person (kin, descendants) bears another''s sin [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -77,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether one person (kin, descendants) bears another's sin
+kinds:
+- contrast
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether one person (kin, descendants) bears another's sin
+  note: pōqēḏ ʿăwōn ʾāḇôṯ ʿal-bānîm wə-ʿal-bənê ḇānîm ʿal-šillēšîm wə-ʿal-ribbēʿîm vs. wa-lā taziru wāziratun
+    wizra ukhrā ... wa-law kāna dhā qurbā. Transgenerational liability in the divine self-description
+    stands against the Quran's flat denial that kin carry any of it (as Ezek 18 and Deut 24:16 already
+    argue within the HB).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:7
+      lang: he
+      text: נֹצֵ֥ר חֶ֨סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֺ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד
+        עֲוֺ֣ן אָב֗וֹת עַל בָּנִים֙ וְעַל בְּנֵ֣י בָנִ֔ים עַל שִׁלֵּשִׁ֖ים וְעַל רִבֵּעִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 35:18
+      lang: ar
+      text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ
+        مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ
+        وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

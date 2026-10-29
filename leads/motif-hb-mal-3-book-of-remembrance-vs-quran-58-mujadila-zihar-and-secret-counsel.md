@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'The book of remembrance and the sun of righteousness ↔ Al-Mujadila: the woman who disputed, the
   zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 1 motifs: there is no secret conversation of three but god is the fourth,
-  nor of five but he is the sixth, wherever they are.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - god-fourth-of-three-sixth-of-five
-passages:
-- tradition: judaism
-  ref: Mal 3:16
-  note: 'There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
-    wherever they are (God listens to private conversations and records them: ʾāz nidbərû yirʾê YHWH ʾîš
-    ʾeṯ rēʿēhû wa-yyaqšēḇ YHWH wa-yyišmāʿ wa-yyikkāṯēḇ sēp̄er zikkārôn vs. mā yakūnu min najwā thalāthatin
-    illā huwa rābiʿuhum ... thumma yunabbiʾuhum bi-mā ʿamilū (and 58:6 aḥṣāhu llāh). Malachi: the God-fearers''
-    talk heard and written for their good; Quran: God present in every secret meeting, good or bad. cf.
-    m. Avot 3:2 (the Shekhinah among two who study).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
-    סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 58:7
-  note: There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
-    wherever they are
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَا يَكُونُ مِن نَّجْوَىٰ
-    ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ مِن ذَٰلِكَ
-    وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُوا۟ يَوْمَ
-    ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
-- tradition: islam
-  ref: Quran 58:6
-  note: There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
-    wherever they are
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ
-    وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God listens to private conversations and records them: ʾāz nidbərû yirʾê YHWH ʾîš ʾeṯ rēʿēhû
-    wa-yyaqšēḇ YHWH wa-yyišmāʿ wa-yyikkāṯēḇ sēp̄er zikkārôn vs. mā yakūnu min najwā thalāthatin illā huwa
-    rābiʿuhum ... thumma yunabbiʾuhum bi-mā ʿamilū (and 58:6 aḥṣāhu llāh). Malachi: the God-fearers''
-    talk heard and written for their good; Quran: God present in every secret meeting, good or bad. cf.
-    m. Avot 3:2 (the Shekhinah among two who study).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: There is no secret conversation of three but God is the fourth,
     nor of five but he is the sixth, wherever they are (weight 6.7). Pair score 6.7.'
@@ -92,6 +56,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
+  wherever they are
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: echo
+  label: There is no secret conversation of three but God is the fourth, nor of five but he is the sixth,
+    wherever they are
+  note: 'God listens to private conversations and records them: ʾāz nidbərû yirʾê YHWH ʾîš ʾeṯ rēʿēhû
+    wa-yyaqšēḇ YHWH wa-yyišmāʿ wa-yyikkāṯēḇ sēp̄er zikkārôn vs. mā yakūnu min najwā thalāthatin illā huwa
+    rābiʿuhum ... thumma yunabbiʾuhum bi-mā ʿamilū (and 58:6 aḥṣāhu llāh). Malachi: the God-fearers''
+    talk heard and written for their good; Quran: God present in every secret meeting, good or bad. cf.
+    m. Avot 3:2 (the Shekhinah among two who study).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:16
+      lang: he
+      text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
+        סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 58:6
+      lang: ar
+      text: يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ
+        وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+    - ref: Quran 58:7
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَا يَكُونُ مِن
+        نَّجْوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمْ وَلَا خَمْسَةٍ إِلَّا هُوَ سَادِسُهُمْ وَلَآ أَدْنَىٰ
+        مِن ذَٰلِكَ وَلَآ أَكْثَرَ إِلَّا هُوَ مَعَهُمْ أَيْنَ مَا كَانُوا۟ ثُمَّ يُنَبِّئُهُم بِمَا
+        عَمِلُوا۟ يَوْمَ ٱلْقِيَٰمَةِ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

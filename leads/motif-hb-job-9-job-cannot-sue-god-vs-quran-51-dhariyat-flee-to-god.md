@@ -2,7 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-51-dhariyat-flee-to-god
 title: Job - cosmic power of God and the impossible lawsuit ↔ The sky expanding, all things in pairs,
   'flee to God', and jinn and humans created to worship
-summary: 'These two units share 1 motifs: god alone stretches out the heavens.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - god-alone-stretches-heavens
-passages:
-- tradition: judaism
-  ref: Job 9:8
-  note: God alone stretches out the heavens
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹטֶ֣ה שָׁמַ֣יִם לְבַדּ֑וֹ וְ֝דוֹרֵ֗ךְ עַל בָּ֥מֳתֵי יָֽם
-- tradition: islam
-  ref: Quran 51:47
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
-- tradition: islam
-  ref: Quran 51:48
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. nōṭeh šāmayim ləḇaddô wə-dôrēḵ ʿal bāmŏṯê yām vs. wa-s-samāʾa banaynāhā bi-aydin. Job cites
-    it as overwhelming power before which he cannot argue his case; the Quran as a sign calling to remembrance
-    (laʿallakum tadhakkarūn, 51:49).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone stretches out the heavens (weight 5.3). Pair score 5.3.'
   basis: reading
@@ -71,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone stretches out the heavens
+kinds:
+- echo
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: echo
+  label: God alone stretches out the heavens
+  note: nōṭeh šāmayim ləḇaddô wə-dôrēḵ ʿal bāmŏṯê yām vs. wa-s-samāʾa banaynāhā bi-aydin. Job cites it
+    as overwhelming power before which he cannot argue his case; the Quran as a sign calling to remembrance
+    (laʿallakum tadhakkarūn, 51:49).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:8
+      lang: he
+      text: נֹטֶ֣ה שָׁמַ֣יִם לְבַדּ֑וֹ וְ֝דוֹרֵ֗ךְ עַל בָּ֥מֳתֵי יָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 51:47
+      lang: ar
+      text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
 ---
 
 ## Questions

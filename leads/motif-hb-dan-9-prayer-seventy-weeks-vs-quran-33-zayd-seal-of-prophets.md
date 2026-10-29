@@ -2,8 +2,7 @@
 id: motif-hb-dan-9-prayer-seventy-weeks-vs-quran-33-zayd-seal-of-prophets
 title: Daniel's penitential prayer and the seventy weeks ↔ Zayd's wife, the seal of the prophets, and
   the prophet as a lamp
-summary: 'These two units share 1 motifs: muhammad is not the father of any of your men but the messenger
-  of god and the seal of the prophets (khatam al-nabiyyin).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - seal-of-the-prophets
-passages:
-- tradition: judaism
-  ref: Dan 9:24
-  note: 'Muhammad is not the father of any of your men but the messenger of God and the seal of the prophets
-    (khatam al-nabiyyin) (Cognate seal of prophecy: wə-laḥtōm ḥāzôn wə-nāḇîʾ (to seal vision and prophet,
-    at the end of the seventy weeks) vs. wa-lākin rasūla llāhi wa-khātama n-nabiyyīn. Both use the root
-    ḥ-t-m / kh-t-m with nāḇîʾ / nabī. In Daniel the sealing closes off prophecy at the end time; in the
-    Quran a person is the seal. Lead for verification only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁבֻעִ֨ים שִׁבְעִ֜ים נֶחְתַּ֥ךְ עַֽל עַמְּךָ֣ וְעַל עִ֣יר קָדְשֶׁ֗ךָ לְכַלֵּ֨א הַפֶּ֜שַׁע ולחתם
-    וּלְהָתֵ֤ם חטאות חַטָּאת֙ וּלְכַפֵּ֣ר עָוֺ֔ן וּלְהָבִ֖יא צֶ֣דֶק עֹֽלָמִ֑ים וְלַחְתֹּם֙ חָז֣וֹן וְנָבִ֔יא
-    וְלִמְשֹׁ֖חַ קֹ֥דֶשׁ קָֽדָשִֽׁים
-- tradition: islam
-  ref: Quran 33:40
-  note: Muhammad is not the father of any of your men but the messenger of God and the seal of the prophets
-    (khatam al-nabiyyin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ
-    وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. Cognate seal of prophecy: wə-laḥtōm ḥāzôn wə-nāḇîʾ (to seal vision and prophet, at the end of
-    the seventy weeks) vs. wa-lākin rasūla llāhi wa-khātama n-nabiyyīn. Both use the root ḥ-t-m / kh-t-m
-    with nāḇîʾ / nabī. In Daniel the sealing closes off prophecy at the end time; in the Quran a person
-    is the seal. Lead for verification only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Muhammad is not the father of any of your men but the messenger
     of God and the seal of the prophets (khatam al-nabiyyin) (weight 6.7). Pair score 6.7.'
@@ -77,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Muhammad is not the father of any of your men but the messenger of God and the seal of the prophets
+  (khatam al-nabiyyin)
+kinds:
+- echo
+units:
+- id: hb-dan-9-prayer-seventy-weeks
+  title: Daniel's penitential prayer and the seventy weeks
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: echo
+  label: Muhammad is not the father of any of your men but the messenger of God and the seal of the prophets
+    (khatam al-nabiyyin)
+  note: 'Cognate seal of prophecy: wə-laḥtōm ḥāzôn wə-nāḇîʾ (to seal vision and prophet, at the end of
+    the seventy weeks) vs. wa-lākin rasūla llāhi wa-khātama n-nabiyyīn. Both use the root ḥ-t-m / kh-t-m
+    with nāḇîʾ / nabī. In Daniel the sealing closes off prophecy at the end time; in the Quran a person
+    is the seal. Lead for verification only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 9:24
+      lang: he
+      text: שָׁבֻעִ֨ים שִׁבְעִ֜ים נֶחְתַּ֥ךְ עַֽל עַמְּךָ֣ וְעַל עִ֣יר קָדְשֶׁ֗ךָ לְכַלֵּ֨א הַפֶּ֜שַׁע
+        ולחתם וּלְהָתֵ֤ם חטאות חַטָּאת֙ וּלְכַפֵּ֣ר עָוֺ֔ן וּלְהָבִ֖יא צֶ֣דֶק עֹֽלָמִ֑ים וְלַחְתֹּם֙ חָז֣וֹן
+        וְנָבִ֔יא וְלִמְשֹׁ֖חַ קֹ֥דֶשׁ קָֽדָשִֽׁים
+  - tradition: islam
+    passages:
+    - ref: Quran 33:40
+      lang: ar
+      text: مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّۦنَ
+        وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا
 ---
 
 ## Questions

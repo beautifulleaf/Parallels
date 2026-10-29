@@ -2,8 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-26-salih-thamud
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Salih, the rock-hewn
   houses of Thamud and the she-camel
-summary: 'These two units share 1 motifs: how a people responds to a sign given to prove the messenger
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - response-to-a-confirming-sign-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 4:1
-  note: 'How a people responds to a sign given to prove the messenger [contrast between the texts] (fa-ʾti
-    bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû lî ...
-    wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove the
-    messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive the she-camel,
-    and kill it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י יֹֽאמְר֔וּ
-    לֹֽא נִרְאָ֥ה אֵלֶ֖יךָ יְהוָֽה
-- tradition: judaism
-  ref: Exod 4:8
-  note: 'How a people responds to a sign given to prove the messenger [contrast between the texts] (fa-ʾti
-    bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû lî ...
-    wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove the
-    messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive the she-camel,
-    and kill it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם לֹ֣א יַאֲמִ֣ינוּ לָ֔ךְ וְלֹ֣א יִשְׁמְע֔וּ לְקֹ֖ל הָאֹ֣ת הָרִאשׁ֑וֹן וְהֶֽאֱמִ֔ינוּ
-    לְקֹ֖ל הָאֹ֥ת הָאַחֲרֽוֹן
-- tradition: islam
-  ref: Quran 26:154
-  note: 'How a people responds to a sign given to prove the messenger [contrast between the texts] (fa-ʾti
-    bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû lî ...
-    wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove the
-    messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive the she-camel,
-    and kill it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 26:155
-  note: 'How a people responds to a sign given to prove the messenger [contrast between the texts] (fa-ʾti
-    bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû lî ...
-    wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove the
-    messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive the she-camel,
-    and kill it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. fa-ʾti bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn
-    lōʾ yaʾămînû lî ... wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt)
-    given to prove the messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive
-    the she-camel, and kill it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a people responds to a sign given to prove the messenger [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -98,6 +51,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How a people responds to a sign given to prove the messenger
+kinds:
+- contrast
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-26-salih-thamud
+  title: Salih, the rock-hewn houses of Thamud and the she-camel
+  tradition: islam
+matches:
+- kind: contrast
+  label: How a people responds to a sign given to prove the messenger
+  note: 'fa-ʾti bi-āyatin in kunta mina ṣ-ṣādiqīna qāla hādhihi nāqatun ... fa-ʿaqarūhā ~ wə-hēn lōʾ yaʾămînû
+    lî ... wə-heʾĕmînû lə-qōl hā-ʾōt hā-ʾaḥărôn ... wa-yyaʾămēn hā-ʿām: a sign (āya / ʾôt) given to prove
+    the messenger. In Exodus the signs win the people''s faith; Thamūd demand a sign, receive the she-camel,
+    and kill it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:1
+      lang: he
+      text: וַיַּ֤עַן מֹשֶׁה֙ וַיֹּ֔אמֶר וְהֵן֙ לֹֽא יַאֲמִ֣ינוּ לִ֔י וְלֹ֥א יִשְׁמְע֖וּ בְּקֹלִ֑י כִּ֣י
+        יֹֽאמְר֔וּ לֹֽא נִרְאָ֥ה אֵלֶ֖יךָ יְהוָֽה
+    - ref: Exod 4:8
+      lang: he
+      text: וְהָיָה֙ אִם לֹ֣א יַאֲמִ֣ינוּ לָ֔ךְ וְלֹ֣א יִשְׁמְע֔וּ לְקֹ֖ל הָאֹ֣ת הָרִאשׁ֑וֹן וְהֶֽאֱמִ֔ינוּ
+        לְקֹ֖ל הָאֹ֥ת הָאַחֲרֽוֹן
+    - ref: Exod 4:31
+      lang: he
+      text: וַֽיַּאֲמֵ֖ן הָעָ֑ם וַֽיִּשְׁמְע֡וּ כִּֽי פָקַ֨ד יְהוָ֜ה אֶת בְּנֵ֣י יִשְׂרָאֵ֗ל וְכִ֤י רָאָה֙
+        אֶת עָנְיָ֔ם וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוּֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:154
+      lang: ar
+      text: مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
+    - ref: Quran 26:155
+      lang: ar
+      text: قَالَ هَٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ
+    - ref: Quran 26:157
+      lang: ar
+      text: فَعَقَرُوهَا فَأَصْبَحُوا۟ نَٰدِمِينَ
 ---
 
 ## Questions

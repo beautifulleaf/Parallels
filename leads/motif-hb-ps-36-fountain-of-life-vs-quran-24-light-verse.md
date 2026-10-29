@@ -2,7 +2,7 @@
 id: motif-hb-ps-36-fountain-of-life-vs-quran-24-light-verse
 title: Psalm 36 - transgression's oracle and the fountain of life ↔ The Light Verse; the mirage, the dark
   sea, the praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: with god is the fountain of life; in his light we see light.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - fountain-of-life-light-in-light
-passages:
-- tradition: judaism
-  ref: Ps 36:10
-  note: With God is the fountain of life; in his light we see light
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עִ֭מְּךָ מְק֣וֹר חַיִּ֑ים בְּ֝אוֹרְךָ֗ נִרְאֶה אֽוֹר
-- tradition: islam
-  ref: Quran 24:35
-  note: With God is the fountain of life; in his light we see light ('light upon light' ~ 'in your light
-    we see light' (Ps 36:10))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
-    فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
-    لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
-    عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ وَٱللَّهُ
-    بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. nūrun ʿalā nūrin yahdī llāhu li-nūrihi man yashāʾu ~ bə-ʾôrəkā nirʾeh ʾôr: light by means of
-    light, God''s light giving light to those he guides.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With God is the fountain of life; in his light we see light (weight
     6.7). Pair score 6.7.'
@@ -70,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: With God is the fountain of life; in his light we see light
+kinds:
+- echo
+units:
+- id: hb-ps-36-fountain-of-life
+  title: Psalm 36 - transgression's oracle and the fountain of life
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: With God is the fountain of life; in his light we see light
+  note: 'nūrun ʿalā nūrin yahdī llāhu li-nūrihi man yashāʾu ~ bə-ʾôrəkā nirʾeh ʾôr: light by means of
+    light, God''s light giving light to those he guides.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 36:10
+      lang: he
+      text: כִּֽי עִ֭מְּךָ מְק֣וֹר חַיִּ֑ים בְּ֝אוֹרְךָ֗ נִרְאֶה אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 24:35
+      lang: ar
+      text: ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ مَثَلُ نُورِهِۦ كَمِشْكَوٰةٍ فِيهَا مِصْبَاحٌ ٱلْمِصْبَاحُ
+        فِى زُجَاجَةٍ ٱلزُّجَاجَةُ كَأَنَّهَا كَوْكَبٌ دُرِّىٌّ يُوقَدُ مِن شَجَرَةٍ مُّبَٰرَكَةٍ زَيْتُونَةٍ
+        لَّا شَرْقِيَّةٍ وَلَا غَرْبِيَّةٍ يَكَادُ زَيْتُهَا يُضِىٓءُ وَلَوْ لَمْ تَمْسَسْهُ نَارٌ نُّورٌ
+        عَلَىٰ نُورٍ يَهْدِى ٱللَّهُ لِنُورِهِۦ مَن يَشَآءُ وَيَضْرِبُ ٱللَّهُ ٱلْأَمْثَٰلَ لِلنَّاسِ
+        وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

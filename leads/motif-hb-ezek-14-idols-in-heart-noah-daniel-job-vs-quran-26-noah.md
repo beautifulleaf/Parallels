@@ -2,8 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-26-noah
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ Noah, the lowly followers and
   the laden ark
-summary: 'These two units share 1 motifs: who is saved with the hero from the destruction, and why [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,51 +14,9 @@ layers:
 - motif
 motifs:
 - who-is-saved-from-the-destruction-as-contrast
-passages:
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'Who is saved with the hero from the destruction, and why [contrast between the texts] (hēmmâ
-    və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only himself by his
-    righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya mina l-muʾminīn,
-    and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: judaism
-  ref: Ezek 14:20
-  note: 'Who is saved with the hero from the destruction, and why [contrast between the texts] (hēmmâ
-    və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only himself by his
-    righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya mina l-muʾminīn,
-    and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן אִם
-    בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
-- tradition: islam
-  ref: Quran 26:118
-  note: 'Who is saved with the hero from the destruction, and why [contrast between the texts] (hēmmâ
-    və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only himself by his
-    righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya mina l-muʾminīn,
-    and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 26:119
-  note: 'Who is saved with the hero from the destruction, and why [contrast between the texts] (hēmmâ
-    və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only himself by his
-    righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya mina l-muʾminīn,
-    and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. hēmmâ və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only
-    himself by his righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya
-    mina l-muʾminīn, and God saves him with those with him. In both, salvation goes by righteousness or
-    faith, not kinship.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is saved with the hero from the destruction, and why [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -96,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is saved with the hero from the destruction, and why
+kinds:
+- contrast
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-26-noah
+  title: Noah, the lowly followers and the laden ark
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who is saved with the hero from the destruction, and why
+  note: 'hēmmâ və-ṣidqātām yənaṣṣəlû nafšām ... ʾim bēn ʾim bat yaṣṣîlû: Ezekiel''s Noah saves only himself
+    by his righteousness, not sons or daughters; the Quran''s Noah prays najjinī wa-man maʿiya mina l-muʾminīn,
+    and God saves him with those with him. In both, salvation goes by righteousness or faith, not kinship.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+    - ref: Ezek 14:20
+      lang: he
+      text: וְנֹ֨חַ דנאל דָּנִיֵּ֣אל וְאִיּוֹב֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בֵּ֥ן
+        אִם בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְצִדְקָתָ֖ם יַצִּ֥ילוּ נַפְשָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:118
+      lang: ar
+      text: فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ
+    - ref: Quran 26:119
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
 ---
 
 ## Questions

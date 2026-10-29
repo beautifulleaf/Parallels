@@ -2,8 +2,7 @@
 id: motif-hb-ezek-13-false-prophets-and-prophetesses-vs-quran-9-forerunners-dirar
 title: Against the false prophets and the women who hunt souls ↔ The forerunners, alms that purify, and
   the mosque of harm
-summary: 'These two units share 1 motifs: parable: one who builds on the brink of a crumbling bank falls
-  with it into hell.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - building-on-crumbling-cliff-edge
-passages:
-- tradition: judaism
-  ref: Ezek 13:14
-  note: 'Parable: one who builds on the brink of a crumbling bank falls with it into hell (A false building
-    collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin fa-nhāra bihi fī nāri
-    jahannam vs wᵉhārastî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh ûkᵉlîtem bᵉtôkāh.
-    Both turn on the foundation (assasa / yᵉsōdô).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָ֨רַסְתִּ֜י אֶת הַקִּ֨יר אֲשֶׁר טַחְתֶּ֥ם תָּפֵ֛ל וְהִגַּעְתִּ֥יהוּ אֶל הָאָ֖רֶץ וְנִגְלָ֣ה
-    יְסֹד֑וֹ וְנָֽפְלָה֙ וּכְלִיתֶ֣ם בְּתוֹכָ֔הּ וִֽידַעְתֶּ֖ם כִּֽי אֲנִ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 9:109
-  note: 'Parable: one who builds on the brink of a crumbling bank falls with it into hell'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَمَنْ أَسَّسَ بُنْيَٰنَهُۥ عَلَىٰ تَقْوَىٰ مِنَ ٱللَّهِ وَرِضْوَٰنٍ خَيْرٌ أَم مَّنْ أَسَّسَ
-    بُنْيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ فِى نَارِ جَهَنَّمَ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 9:110
-  note: 'Parable: one who builds on the brink of a crumbling bank falls with it into hell'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يَزَالُ بُنْيَٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ
-    وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A false building collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin
-    fa-nhāra bihi fī nāri jahannam vs wᵉhārastî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh
-    ûkᵉlîtem bᵉtôkāh. Both turn on the foundation (assasa / yᵉsōdô).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Parable: one who builds on the brink of a crumbling bank falls with
     it into hell (weight 6.7). Pair score 6.7.'
@@ -81,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Parable: one who builds on the brink of a crumbling bank falls with it into hell'
+kinds:
+- echo
+units:
+- id: hb-ezek-13-false-prophets-and-prophetesses
+  title: Against the false prophets and the women who hunt souls
+  tradition: judaism
+- id: quran-9-forerunners-dirar
+  title: The forerunners, alms that purify, and the mosque of harm
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Parable: one who builds on the brink of a crumbling bank falls with it into hell'
+  note: 'A false building collapses on its builders: am man assasa bunyānahu ʿalā shafā jurufin hārin
+    fa-nhāra bihi fī nāri jahannam vs wᵉhārastî ʾet-haqqîr ʾăšer-ṭaḥtem tāpēl ... wᵉniglāh yᵉsōdô wᵉnāpᵉlāh
+    ûkᵉlîtem bᵉtôkāh. Both turn on the foundation (assasa / yᵉsōdô).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 13:14
+      lang: he
+      text: וְהָ֨רַסְתִּ֜י אֶת הַקִּ֨יר אֲשֶׁר טַחְתֶּ֥ם תָּפֵ֛ל וְהִגַּעְתִּ֥יהוּ אֶל הָאָ֖רֶץ וְנִגְלָ֣ה
+        יְסֹד֑וֹ וְנָֽפְלָה֙ וּכְלִיתֶ֣ם בְּתוֹכָ֔הּ וִֽידַעְתֶּ֖ם כִּֽי אֲנִ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:109
+      lang: ar
+      text: أَفَمَنْ أَسَّسَ بُنْيَٰنَهُۥ عَلَىٰ تَقْوَىٰ مِنَ ٱللَّهِ وَرِضْوَٰنٍ خَيْرٌ أَم مَّنْ أَسَّسَ
+        بُنْيَٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ فِى نَارِ جَهَنَّمَ وَٱللَّهُ لَا يَهْدِى
+        ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+    - ref: Quran 9:110
+      lang: ar
+      text: لَا يَزَالُ بُنْيَٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ
+        وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

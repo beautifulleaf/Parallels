@@ -2,8 +2,7 @@
 id: motif-hb-isa-3-collapse-and-daughters-of-zion-vs-quran-24-privacy-modesty-marriage
 title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
   one man ↔ Entering houses, lowering the gaze, head-coverings, marriage and manumission
-summary: 'These two units share 1 motifs: women should not strike their feet to make known their hidden
-  ornaments (anklets).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - do-not-stamp-feet-to-reveal-ornaments
-passages:
-- tradition: judaism
-  ref: Isa 3:16
-  note: 'Women should not strike their feet to make known their hidden ornaments (anklets) (wa-lā yaḍribna
-    bi-arjulihinna li-yuʿlama mā yukhfīna min zīnatihinna ~ û-və-raglêhem təʿakkasnâ ... tifʾeret hā-ʿăkhāsîm:
-    women drawing attention with their feet and anklets. Isaiah condemns the haughty daughters of Zion
-    and threatens to strip their finery; the Quran makes it a rule of conduct for believing women.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת גָּר֔וֹן
-    וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
-- tradition: judaism
-  ref: Isa 3:18
-  note: 'Women should not strike their feet to make known their hidden ornaments (anklets) (wa-lā yaḍribna
-    bi-arjulihinna li-yuʿlama mā yukhfīna min zīnatihinna ~ û-və-raglêhem təʿakkasnâ ... tifʾeret hā-ʿăkhāsîm:
-    women drawing attention with their feet and anklets. Isaiah condemns the haughty daughters of Zion
-    and threatens to strip their finery; the Quran makes it a rule of conduct for believing women.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיּ֨וֹם הַה֜וּא יָסִ֣יר אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים
-- tradition: islam
-  ref: Quran 24:31
-  note: Women should not strike their feet to make known their hidden ornaments (anklets)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ
-    زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ
-    زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ
-    أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ
-    أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ
-    مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ
-    بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ
-    ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-lā yaḍribna bi-arjulihinna li-yuʿlama mā yukhfīna min zīnatihinna ~ û-və-raglêhem təʿakkasnâ
-    ... tifʾeret hā-ʿăkhāsîm: women drawing attention with their feet and anklets. Isaiah condemns the
-    haughty daughters of Zion and threatens to strip their finery; the Quran makes it a rule of conduct
-    for believing women.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Women should not strike their feet to make known their hidden ornaments
     (anklets) (weight 6.7). Pair score 6.7.'
@@ -91,6 +54,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Women should not strike their feet to make known their hidden ornaments (anklets)
+kinds:
+- echo
+units:
+- id: hb-isa-3-collapse-and-daughters-of-zion
+  title: Removal of stay and staff; children rule; the finery of the daughters of Zion; seven women and
+    one man
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: echo
+  label: Women should not strike their feet to make known their hidden ornaments (anklets)
+  note: 'wa-lā yaḍribna bi-arjulihinna li-yuʿlama mā yukhfīna min zīnatihinna ~ û-və-raglêhem təʿakkasnâ
+    ... tifʾeret hā-ʿăkhāsîm: women drawing attention with their feet and anklets. Isaiah condemns the
+    haughty daughters of Zion and threatens to strip their finery; the Quran makes it a rule of conduct
+    for believing women.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 3:16
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֨כְנָה֙ נטוות נְטוּי֣וֹת
+        גָּר֔וֹן וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה
+    - ref: Isa 3:18
+      lang: he
+      text: בַּיּ֨וֹם הַה֜וּא יָסִ֣יר אֲדֹנָ֗י אֵ֣ת תִּפְאֶ֧רֶת הָעֲכָסִ֛ים וְהַשְּׁבִיסִ֖ים וְהַשַּׂהֲרֹנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 24:31
+      lang: ar
+      text: وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ
+        زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا
+        يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ
+        أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ
+        أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ
+        غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ
+        ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟
+        إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

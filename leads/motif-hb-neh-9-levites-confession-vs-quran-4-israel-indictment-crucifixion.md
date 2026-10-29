@@ -2,8 +2,7 @@
 id: motif-hb-neh-9-levites-confession-vs-quran-4-israel-indictment-crucifixion
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ The indictment of Israel; the
   Messiah not crucified but raised
-summary: 'These two units share 2 motifs: israel killed the prophets who warned them, people make a molten
-  calf while the leader is on the mountain.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,53 +16,9 @@ layers:
 motifs:
 - prophets-killed-by-israel
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Neh 9:26
-  note: Israel killed the prophets who warned them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 4:155
-  note: Israel killed the prophets who warned them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ بِغَيْرِ
-    حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ
-    إِلَّا قَلِيلًا
-- tradition: judaism
-  ref: Neh 9:18
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֗ף כִּֽי עָשׂ֤וּ לָהֶם֙ עֵ֣גֶל מַסֵּכָ֔ה וַיֹּ֣אמְר֔וּ זֶ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֥ר הֶעֶלְךָ֖ מִמִּצְרָ֑יִם
-    וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדֹלֽוֹת
-- tradition: judaism
-  ref: Neh 9:17
-  note: People make a molten calf while the leader is on the mountain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמָאֲנ֣וּ לִשְׁמֹ֗עַ וְלֹא זָכְר֤וּ נִפְלְאֹתֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ עִמָּהֶ֔ם וַיַּקְשׁוּ֙
-    אֶת עָרְפָּ֔ם וַיִּתְּנוּ רֹ֛אשׁ לָשׁ֥וּב לְעַבְדֻתָ֖ם בְּמִרְיָ֑ם וְאַתָּה֩ אֱל֨וֹהַּ סְלִיח֜וֹת
-    חַנּ֧וּן וְרַח֛וּם אֶֽרֶךְ אַפַּ֥יִם וְרַב וחסד חֶ֖סֶד וְלֹ֥א עֲזַבְתָּֽם
-- tradition: islam
-  ref: Quran 4:153
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟
-    مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ
-    ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ وَءَاتَيْنَا
-    مُوسَىٰ سُلْطَٰنًا مُّبِينًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-qatlihimu l-anbiyāʾa bi-ghayri ḥaqqin, in a list of covenant breaches (naqḍihim mīthāqahum).
-    Neh: wa-yyamrû wa-yyimrədû bākh ... wə-ʾet-nəvîʾêkhā hārāgû ʾăšer hēʿîdû vām. Both put the charge
-    in a historical indictment. Q: thumma ttakhadhū l-ʿijla min baʿdi mā jāʾathumu l-bayyinātu fa-ʿafawnā
-    ʿan dhālika. Neh: ʾaf kî-ʿāśû lāhem ʿēgel massēkhāh ... wə-ʾattāh bə-raḥămêkhā hā-rabbîm lōʾ ʿăzavtām.
-    In both, the calf follows the signs and is forgiven.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel killed the prophets who warned them (weight 5.1); People
     make a molten calf while the leader is on the mountain (weight 4.7). Pair score 9.8.'
@@ -98,6 +53,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel killed the prophets who warned them
+kinds:
+- parallel
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel killed the prophets who warned them
+  note: 'Q: wa-qatlihimu l-anbiyāʾa bi-ghayri ḥaqqin, in a list of covenant breaches (naqḍihim mīthāqahum).
+    Neh: wa-yyamrû wa-yyimrədû bākh ... wə-ʾet-nəvîʾêkhā hārāgû ʾăšer hēʿîdû vām. Both put the charge
+    in a historical indictment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:155
+      lang: ar
+      text: فَبِمَا نَقْضِهِم مِّيثَٰقَهُمْ وَكُفْرِهِم بِـَٔايَٰتِ ٱللَّهِ وَقَتْلِهِمُ ٱلْأَنۢبِيَآءَ
+        بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۢ بَلْ طَبَعَ ٱللَّهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا
+        يُؤْمِنُونَ إِلَّا قَلِيلًا
+- kind: parallel
+  label: People make a molten calf while the leader is on the mountain
+  note: 'Q: thumma ttakhadhū l-ʿijla min baʿdi mā jāʾathumu l-bayyinātu fa-ʿafawnā ʿan dhālika. Neh: ʾaf
+    kî-ʿāśû lāhem ʿēgel massēkhāh ... wə-ʾattāh bə-raḥămêkhā hā-rabbîm lōʾ ʿăzavtām. In both, the calf
+    follows the signs and is forgiven.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:18
+      lang: he
+      text: אַ֗ף כִּֽי עָשׂ֤וּ לָהֶם֙ עֵ֣גֶל מַסֵּכָ֔ה וַיֹּ֣אמְר֔וּ זֶ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֥ר הֶעֶלְךָ֖
+        מִמִּצְרָ֑יִם וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדֹלֽוֹת
+    - ref: Neh 9:19
+      lang: he
+      text: וְאַתָּה֙ בְּרַחֲמֶ֣יךָ הָֽרַבִּ֔ים לֹ֥א עֲזַבְתָּ֖ם בַּמִּדְבָּ֑ר אֶת עַמּ֣וּד הֶ֠עָנָן לֹא
+        סָ֨ר מֵעֲלֵיהֶ֤ם בְּיוֹמָם֙ לְהַנְחֹתָ֣ם בְּהַדֶּ֔רֶךְ וְאֶת עַמּ֨וּד הָאֵ֤שׁ בְּלַ֨יְלָה֙ לְהָאִ֣יר
+        לָהֶ֔ם וְאֶת הַדֶּ֖רֶךְ אֲשֶׁ֥ר יֵֽלְכוּ בָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:153
+      lang: ar
+      text: يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟
+        مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ
+        بِظُلْمِهِمْ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا
+        عَن ذَٰلِكَ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًا مُّبِينًا
 ---
 
 ## Questions

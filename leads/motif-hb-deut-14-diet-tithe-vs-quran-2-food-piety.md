@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-14-diet-tithe-vs-quran-2-food-piety
 title: Mourning rites forbidden; clean and unclean food; tithes ↔ Lawful food and true piety
-summary: 'These two units share 3 motifs: the pig is unclean and forbidden [divergence between the texts],
-  rule on eating an animal that died of itself [contrast between the texts], the pig is unclean and forbidden.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,71 +15,9 @@ motifs:
 - pork-forbidden-as-divergence
 - eating-carrion-as-contrast
 - pork-forbidden
-passages:
-- tradition: judaism
-  ref: Deut 14:8
-  note: 'The pig is unclean and forbidden [divergence between the texts] (Deut 14:8 wĕ-ʾet ha-ḥăzîr kî
-    mapris parsâ hûʾ wĕ-lōʾ gērâ ṭāmēʾ hûʾ lākem: the pig (ḥăzîr) is unclean because it fails the hoof-and-cud
-    test, one case in a long taxonomy; Q 2:173 wa-laḥma l-khinzīri: pork (cognate khinzīr) is one of four
-    named prohibitions, with no taxonomy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙
-    לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ
-- tradition: islam
-  ref: Quran 2:173
-  note: 'The pig is unclean and forbidden [divergence between the texts] (Deut 14:8 wĕ-ʾet ha-ḥăzîr kî
-    mapris parsâ hûʾ wĕ-lōʾ gērâ ṭāmēʾ hûʾ lākem: the pig (ḥăzîr) is unclean because it fails the hoof-and-cud
-    test, one case in a long taxonomy; Q 2:173 wa-laḥma l-khinzīri: pork (cognate khinzīr) is one of four
-    named prohibitions, with no taxonomy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Deut 14:21
-  note: 'Rule on eating an animal that died of itself [contrast between the texts] (Deut 14:21 lōʾ tōʾkĕlû
-    kol nĕbēlâ la-ggēr ... tittĕnennâ waʾăkālāh ʾô mākōr lĕ-nokrî kî ʿam qādôš ʾattâ: carrion forbidden
-    to Israel as a holy people but may be given to the resident alien or sold to a foreigner; Q 2:173
-    al-mayta forbidden to all the believers, with no two-tier rule (and 2:168 addresses yā ayyuhā n-nāsu
-    kulū mimmā fī l-arḍi ḥalālan ṭayyiban to all people).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א תֹאכְל֣וּ כָל נְ֠בֵלָה לַגֵּ֨ר אֲשֶׁר בִּשְׁעָרֶ֜יךָ תִּתְּנֶ֣נָּה וַאֲכָלָ֗הּ א֤וֹ מָכֹר֙
-    לְנָכְרִ֔י כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ
-- tradition: islam
-  ref: Quran 2:173
-  note: 'Rule on eating an animal that died of itself [contrast between the texts] (Lev 17:15 wĕ-kol nepeš
-    ʾăšer tōʾkal nĕbēlâ û-ṭĕrēpâ ... wĕ-kibbes bĕgādāyw wĕ-rāḥaṣ ba-mmayim wĕ-ṭāmēʾ ʿad hā-ʿereb wĕ-ṭāhēr:
-    eating carrion makes one impure until evening, curable by washing; Q 2:173 ḥarrama ʿalaykumu l-maytata:
-    carrion is simply forbidden, with an exemption only for necessity.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Deut 14:8
-  note: The pig is unclean and forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙
-    לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ
-- tradition: islam
-  ref: Quran 2:173
-  note: The pig is unclean and forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast, divergence. Deut 14:8 wĕ-ʾet ha-ḥăzîr kî mapris parsâ hûʾ wĕ-lōʾ gērâ ṭāmēʾ hûʾ lākem: the
-    pig (ḥăzîr) is unclean because it fails the hoof-and-cud test, one case in a long taxonomy; Q 2:173
-    wa-laḥma l-khinzīri: pork (cognate khinzīr) is one of four named prohibitions, with no taxonomy. Deut
-    14:21 lōʾ tōʾkĕlû kol nĕbēlâ la-ggēr ... tittĕnennâ waʾăkālāh ʾô mākōr lĕ-nokrî kî ʿam qādôš ʾattâ:
-    carrion forbidden to Israel as a holy people but may be given to the resident alien or sold to a foreigner;
-    Q 2:173 al-mayta forbidden to all the believers, with no two-tier rule (and 2:168 addresses yā ayyuhā
-    n-nāsu kulū mimmā fī l-arḍi ḥalālan ṭayyiban to all people).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The pig is unclean and forbidden [divergence between the texts]
     (weight 6.7); Rule on eating an animal that died of itself [contrast between the texts] (weight 6.3);
@@ -116,6 +53,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The pig is unclean and forbidden
+kinds:
+- divergence
+- contrast
+units:
+- id: hb-deut-14-diet-tithe
+  title: Mourning rites forbidden; clean and unclean food; tithes
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: divergence
+  label: The pig is unclean and forbidden
+  note: 'Deut 14:8 wĕ-ʾet ha-ḥăzîr kî mapris parsâ hûʾ wĕ-lōʾ gērâ ṭāmēʾ hûʾ lākem: the pig (ḥăzîr) is
+    unclean because it fails the hoof-and-cud test, one case in a long taxonomy; Q 2:173 wa-laḥma l-khinzīri:
+    pork (cognate khinzīr) is one of four named prohibitions, with no taxonomy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:8
+      lang: he
+      text: וְאֶת הַ֠חֲזִיר כִּֽי מַפְרִ֨יס פַּרְסָ֥ה הוּא֙ וְלֹ֣א גֵרָ֔ה טָמֵ֥א ה֖וּא לָכֶ֑ם מִבְּשָׂרָם֙
+        לֹ֣א תֹאכֵ֔לוּ וּבְנִבְלָתָ֖ם לֹ֥א תִגָּֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
+- kind: contrast
+  label: Rule on eating an animal that died of itself
+  note: 'Deut 14:21 lōʾ tōʾkĕlû kol nĕbēlâ la-ggēr ... tittĕnennâ waʾăkālāh ʾô mākōr lĕ-nokrî kî ʿam qādôš
+    ʾattâ: carrion forbidden to Israel as a holy people but may be given to the resident alien or sold
+    to a foreigner; Q 2:173 al-mayta forbidden to all the believers, with no two-tier rule (and 2:168
+    addresses yā ayyuhā n-nāsu kulū mimmā fī l-arḍi ḥalālan ṭayyiban to all people).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 14:21
+      lang: he
+      text: לֹ֣א תֹאכְל֣וּ כָל נְ֠בֵלָה לַגֵּ֨ר אֲשֶׁר בִּשְׁעָרֶ֜יךָ תִּתְּנֶ֣נָּה וַאֲכָלָ֗הּ א֤וֹ מָכֹר֙
+        לְנָכְרִ֔י כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ לֹֽא תְבַשֵּׁ֥ל גְּדִ֖י בַּחֲלֵ֥ב אִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

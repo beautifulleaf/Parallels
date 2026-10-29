@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-26-blessings-vs-quran-5-hand-fettered
 title: Covenant blessings for obedience ↔ 'God's hand is fettered'; the blessings of observing the Torah
-summary: 'These two units share 1 motifs: had they observed the torah and gospel they would have eaten
-  from above them and beneath their feet.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - eat-from-above-and-below
-passages:
-- tradition: judaism
-  ref: Lev 26:3
-  note: 'Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet (Abundance on condition of keeping the law. Q: wa-law annahum aqāmū l-tawrāta wa-l-injīla ...
-    la-akalū min fawqihim wa-min taḥti arjulihim. Lev: ʾim-bə-ḥuqqōtay tēlēkhû ... wə-nātattî gišmêkhem
-    bə-ʿittām wə-nātənāh hā-ʾāreṣ yəvûlāh ... wa-ʾăkhaltem laḥməkhem lā-śōvaʿ. Rain from above, crops
-    from below.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם בְּחֻקֹּתַ֖י תֵּלֵ֑כוּ וְאֶת מִצְוֺתַ֣י תִּשְׁמְר֔וּ וַעֲשִׂיתֶ֖ם אֹתָֽם
-- tradition: judaism
-  ref: Lev 26:4
-  note: 'Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet (Abundance on condition of keeping the law. Q: wa-law annahum aqāmū l-tawrāta wa-l-injīla ...
-    la-akalū min fawqihim wa-min taḥti arjulihim. Lev: ʾim-bə-ḥuqqōtay tēlēkhû ... wə-nātattî gišmêkhem
-    bə-ʿittām wə-nātənāh hā-ʾāreṣ yəvûlāh ... wa-ʾăkhaltem laḥməkhem lā-śōvaʿ. Rain from above, crops
-    from below.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֨רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן
-    פִּרְיֽוֹ
-- tradition: islam
-  ref: Quran 5:66
-  note: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
-    لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ
-    سَآءَ مَا يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Abundance on condition of keeping the law. Q: wa-law annahum aqāmū l-tawrāta wa-l-injīla
-    ... la-akalū min fawqihim wa-min taḥti arjulihim. Lev: ʾim-bə-ḥuqqōtay tēlēkhû ... wə-nātattî gišmêkhem
-    bə-ʿittām wə-nātənāh hā-ʾāreṣ yəvûlāh ... wa-ʾăkhaltem laḥməkhem lā-śōvaʿ. Rain from above, crops
-    from below.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Had they observed the Torah and Gospel they would have eaten from
     above them and beneath their feet (weight 6.0). Pair score 6.0.'
@@ -81,6 +46,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+  feet
+kinds:
+- parallel
+units:
+- id: hb-lev-26-blessings
+  title: Covenant blessings for obedience
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+    feet
+  note: 'Abundance on condition of keeping the law. Q: wa-law annahum aqāmū l-tawrāta wa-l-injīla ...
+    la-akalū min fawqihim wa-min taḥti arjulihim. Lev: ʾim-bə-ḥuqqōtay tēlēkhû ... wə-nātattî gišmêkhem
+    bə-ʿittām wə-nātənāh hā-ʾāreṣ yəvûlāh ... wa-ʾăkhaltem laḥməkhem lā-śōvaʿ. Rain from above, crops
+    from below.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:3
+      lang: he
+      text: אִם בְּחֻקֹּתַ֖י תֵּלֵ֑כוּ וְאֶת מִצְוֺתַ֣י תִּשְׁמְר֔וּ וַעֲשִׂיתֶ֖ם אֹתָֽם
+    - ref: Lev 26:4
+      lang: he
+      text: וְנָתַתִּ֥י גִשְׁמֵיכֶ֖ם בְּעִתָּ֑ם וְנָתְנָ֤ה הָאָ֨רֶץ֙ יְבוּלָ֔הּ וְעֵ֥ץ הַשָּׂדֶ֖ה יִתֵּ֥ן
+        פִּרְיֽוֹ
+    - ref: Lev 26:5
+      lang: he
+      text: וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת בָּצִ֔יר וּבָצִ֖יר יַשִּׂ֣יג אֶת זָ֑רַע וַאֲכַלְתֶּ֤ם לַחְמְכֶם֙
+        לָשֹׂ֔בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח בְּאַרְצְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:66
+      lang: ar
+      text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
+        لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ
+        مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ
 ---
 
 ## Questions

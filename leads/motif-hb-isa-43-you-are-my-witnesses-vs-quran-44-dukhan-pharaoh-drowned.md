@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-44-dukhan-pharaoh-drowned
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Moses asks Pharaoh to
   hand over God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: the people walk on dry ground through the sea with the waters
-  as a wall on either side.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - walk-on-dry-ground-waters-as-walls
-passages:
-- tradition: judaism
-  ref: Isa 43:16-17
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (way in
-    the sea; chariot and horse lie down, quenched like a wick)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (43:16) כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַנּוֹתֵ֥ן בַּיָּ֖ם דָּ֑רֶךְ וּבְמַ֥יִם עַזִּ֖ים נְתִיבָֽה (43:17)
-    הַמּוֹצִ֥יא רֶֽכֶב וָס֖וּס חַ֣יִל וְעִזּ֑וּז יַחְדָּ֤ו יִשְׁכְּבוּ֙ בַּל יָק֔וּמוּ דָּעֲכ֖וּ כַּפִּשְׁתָּ֥ה
-    כָבֽוּ
-- tradition: judaism
-  ref: Isa 43:16
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (way in
-    the sea; chariot and horse lie down, quenched like a wick)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַנּוֹתֵ֥ן בַּיָּ֖ם דָּ֑רֶךְ וּבְמַ֥יִם עַזִּ֖ים נְתִיבָֽה
-- tradition: islam
-  ref: Quran 44:24
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. han-nôṯēn bay-yām dāreḵ ... ham-môṣîʾ reḵeḇ wā-sûs ḥayil wə-ʿizzûz yaḥdāw yiškəḇû bal yāqûmû
-    vs. wa-truki l-baḥra rahwan innahum jundun mughraqūn: the path in the sea and the army laid down in
-    it. Isaiah uses it as a model for a new exodus; the Quran as a warning.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
     a wall on either side (weight 5.3). Pair score 5.3.'
@@ -81,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people walk on dry ground through the sea with the waters as a wall on either side
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: echo
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  note: 'han-nôṯēn bay-yām dāreḵ ... ham-môṣîʾ reḵeḇ wā-sûs ḥayil wə-ʿizzûz yaḥdāw yiškəḇû bal yāqûmû
+    vs. wa-truki l-baḥra rahwan innahum jundun mughraqūn: the path in the sea and the army laid down in
+    it. Isaiah uses it as a model for a new exodus; the Quran as a warning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:16
+      lang: he
+      text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה הַנּוֹתֵ֥ן בַּיָּ֖ם דָּ֑רֶךְ וּבְמַ֥יִם עַזִּ֖ים נְתִיבָֽה
+    - ref: Isa 43:17
+      lang: he
+      text: הַמּוֹצִ֥יא רֶֽכֶב וָס֖וּס חַ֣יִל וְעִזּ֑וּז יַחְדָּ֤ו יִשְׁכְּבוּ֙ בַּל יָק֔וּמוּ דָּעֲכ֖וּ
+        כַּפִּשְׁתָּ֥ה כָבֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 ---
 
 ## Questions

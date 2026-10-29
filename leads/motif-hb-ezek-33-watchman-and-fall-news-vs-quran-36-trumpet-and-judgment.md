@@ -2,8 +2,7 @@
 id: motif-hb-ezek-33-watchman-and-fall-news-vs-quran-36-trumpet-and-judgment
 title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer ↔
   The trumpet, the sleepers raised, the Garden and the witnessing limbs
-summary: 'These two units share 1 motifs: the prophet heard or dismissed as a poet or singer [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-taken-for-a-poet-or-singer-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 33:32
-  note: 'The prophet heard or dismissed as a poet or singer [divergence between the texts] (The prophet
-    taken for a performer. Ezek: wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm yəp̄ēh qôl ... wə-šāməʿû ʾeṯ-dəḇāreyḵā
-    wə-ʿōśîm ʾênām ʾôṯām (to them you are a love song; they hear and do not act). Q: wa-mā ʿallamnāhu
-    sh-shiʿra wa-mā yanbaghī lahu in huwa illā dhikrun wa-qurʾānun mubīn. Ezekiel accepts that he is heard
-    as a singer and condemns the hearers; the Quran denies that the prophet is a poet at all.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנְּךָ֤ לָהֶם֙ כְּשִׁ֣יר עֲגָבִ֔ים יְפֵ֥ה ק֖וֹל וּמֵטִ֣ב נַגֵּ֑ן וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
-    וְעֹשִׂ֥ים אֵינָ֖ם אוֹתָֽם
-- tradition: islam
-  ref: Quran 36:69
-  note: 'The prophet heard or dismissed as a poet or singer [divergence between the texts] (The prophet
-    taken for a performer. Ezek: wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm yəp̄ēh qôl ... wə-šāməʿû ʾeṯ-dəḇāreyḵā
-    wə-ʿōśîm ʾênām ʾôṯām (to them you are a love song; they hear and do not act). Q: wa-mā ʿallamnāhu
-    sh-shiʿra wa-mā yanbaghī lahu in huwa illā dhikrun wa-qurʾānun mubīn. Ezekiel accepts that he is heard
-    as a singer and condemns the hearers; the Quran denies that the prophet is a poet at all.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The prophet taken for a performer. Ezek: wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm yəp̄ēh qôl ...
-    wə-šāməʿû ʾeṯ-dəḇāreyḵā wə-ʿōśîm ʾênām ʾôṯām (to them you are a love song; they hear and do not act).
-    Q: wa-mā ʿallamnāhu sh-shiʿra wa-mā yanbaghī lahu in huwa illā dhikrun wa-qurʾānun mubīn. Ezekiel
-    accepts that he is heard as a singer and condemns the hearers; the Quran denies that the prophet is
-    a poet at all.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet heard or dismissed as a poet or singer [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +58,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet heard or dismissed as a poet or singer
+kinds:
+- divergence
+units:
+- id: hb-ezek-33-watchman-and-fall-news
+  title: The watchman; turn and live; the fugitive's news; Abraham was one; the prophet as love-singer
+  tradition: judaism
+- id: quran-36-trumpet-and-judgment
+  title: The trumpet, the sleepers raised, the Garden and the witnessing limbs
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet heard or dismissed as a poet or singer
+  note: 'The prophet taken for a performer. Ezek: wə-hinnəḵā lāhem kə-šîr ʿăḡāḇîm yəp̄ēh qôl ... wə-šāməʿû
+    ʾeṯ-dəḇāreyḵā wə-ʿōśîm ʾênām ʾôṯām (to them you are a love song; they hear and do not act). Q: wa-mā
+    ʿallamnāhu sh-shiʿra wa-mā yanbaghī lahu in huwa illā dhikrun wa-qurʾānun mubīn. Ezekiel accepts that
+    he is heard as a singer and condemns the hearers; the Quran denies that the prophet is a poet at all.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 33:32
+      lang: he
+      text: וְהִנְּךָ֤ לָהֶם֙ כְּשִׁ֣יר עֲגָבִ֔ים יְפֵ֥ה ק֖וֹל וּמֵטִ֣ב נַגֵּ֑ן וְשָֽׁמְעוּ֙ אֶת דְּבָרֶ֔יךָ
+        וְעֹשִׂ֥ים אֵינָ֖ם אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 36:69
+      lang: ar
+      text: وَمَا عَلَّمْنَٰهُ ٱلشِّعْرَ وَمَا يَنۢبَغِى لَهُۥٓ إِنْ هُوَ إِلَّا ذِكْرٌ وَقُرْءَانٌ مُّبِينٌ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-87-zion-birthplace-vs-quran-83-defrauders
 title: 'Psalm 87, Zion mother of nations; this one was born there ↔ The defrauders: Sijjin and ''Illiyyun'
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 87:6
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 83:18
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ
-- tradition: islam
-  ref: Quran 83:20
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِتَٰبٌ مَّرْقُومٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. kitābun marqūm yashhaduhu l-muqarrabūn ~ YHWH yispōr bi-ktôv ʿammîm.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -72,6 +50,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-87-zion-birthplace
+  title: Psalm 87, Zion mother of nations; this one was born there
+  tradition: judaism
+- id: quran-83-defrauders
+  title: 'The defrauders: Sijjin and ''Illiyyun'
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: kitābun marqūm yashhaduhu l-muqarrabūn ~ YHWH yispōr bi-ktôv ʿammîm.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 83:20
+      lang: ar
+      text: كِتَٰبٌ مَّرْقُومٌ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-29-destroyed-nations
 title: The pursuit and the parting of the sea ↔ Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
-summary: 'These two units share 1 motifs: the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,40 +13,9 @@ layers:
 - motif
 motifs:
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 29:40
-  note: The returning waters drown the pursuing army; not one survives ('some we drowned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ
-    ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ ٱللَّهُ
-    لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: islam
-  ref: Quran 29:39
-  note: The returning waters drown the pursuing army; not one survives ('some we drowned')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
-    فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-Firʿawna wa-Hāmāna ... wa-minhum man aghraqnā ~ lōʾ nišʾar bāhem ʿad ʾeḥād: Pharaoh''s drowning,
-    in the Quran shared with Hāmān.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
     4.5). Pair score 4.5.'
@@ -78,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- echo
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-29-destroyed-nations
+  title: Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
+  tradition: islam
+matches:
+- kind: echo
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'wa-Firʿawna wa-Hāmāna ... wa-minhum man aghraqnā ~ lōʾ nišʾar bāhem ʿad ʾeḥād: Pharaoh''s drowning,
+    in the Quran shared with Hāmān.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 29:39
+      lang: ar
+      text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
+        فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+    - ref: Quran 29:40
+      lang: ar
+      text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ
+        أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

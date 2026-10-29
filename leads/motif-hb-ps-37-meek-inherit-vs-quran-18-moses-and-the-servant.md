@@ -2,8 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-18-moses-and-the-servant
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ Moses and the servant of God
   at the meeting of the two seas (Surah 18:60-82)'
-summary: 'These two units share 1 motifs: because their father was righteous, god protects the orphans''
-  inheritance.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - merit-of-righteous-father-protects-children
-passages:
-- tradition: judaism
-  ref: Ps 37:25
-  note: 'Because their father was righteous, God protects the orphans'' inheritance (naʿar hāyîtî gam-zāqantî
-    wəlōʾ-rāʾîtî ṣaddîq neʿĕzāb wəzarʿô məbaqqeš-lāḥem ... wəzarʿô librākâ; wa-kāna abūhumā ṣāliḥan fa-arāda
-    rabbuka an yablughā ashuddahumā wa-yastakhrijā kanzahumā: a righteous father''s children do not go
-    without, and God keeps their livelihood safe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נַ֤עַר הָיִ֗יתִי גַּם זָ֫קַ֥נְתִּי וְֽלֹא רָ֭אִיתִי צַדִּ֣יק נֶעֱזָ֑ב וְ֝זַרְע֗וֹ מְבַקֶּשׁ לָֽחֶם
-- tradition: judaism
-  ref: Ps 37:26
-  note: 'Because their father was righteous, God protects the orphans'' inheritance (naʿar hāyîtî gam-zāqantî
-    wəlōʾ-rāʾîtî ṣaddîq neʿĕzāb wəzarʿô məbaqqeš-lāḥem ... wəzarʿô librākâ; wa-kāna abūhumā ṣāliḥan fa-arāda
-    rabbuka an yablughā ashuddahumā wa-yastakhrijā kanzahumā: a righteous father''s children do not go
-    without, and God keeps their livelihood safe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל הַ֭יּוֹם חוֹנֵ֣ן וּמַלְוֶ֑ה וְ֝זַרְע֗וֹ לִבְרָכָֽה
-- tradition: islam
-  ref: Quran 18:82
-  note: Because their father was righteous, God protects the orphans' inheritance
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ
-    لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا
-    كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع
-    عَّلَيْهِ صَبْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. naʿar hāyîtî gam-zāqantî wəlōʾ-rāʾîtî ṣaddîq neʿĕzāb wəzarʿô məbaqqeš-lāḥem ... wəzarʿô
-    librākâ; wa-kāna abūhumā ṣāliḥan fa-arāda rabbuka an yablughā ashuddahumā wa-yastakhrijā kanzahumā:
-    a righteous father''s children do not go without, and God keeps their livelihood safe.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Because their father was righteous, God protects the orphans'' inheritance
     (weight 6.7). Pair score 6.7.'
@@ -83,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Because their father was righteous, God protects the orphans' inheritance
+kinds:
+- parallel
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-18-moses-and-the-servant
+  title: Moses and the servant of God at the meeting of the two seas (Surah 18:60-82)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Because their father was righteous, God protects the orphans' inheritance
+  note: 'naʿar hāyîtî gam-zāqantî wəlōʾ-rāʾîtî ṣaddîq neʿĕzāb wəzarʿô məbaqqeš-lāḥem ... wəzarʿô librākâ;
+    wa-kāna abūhumā ṣāliḥan fa-arāda rabbuka an yablughā ashuddahumā wa-yastakhrijā kanzahumā: a righteous
+    father''s children do not go without, and God keeps their livelihood safe.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:25
+      lang: he
+      text: נַ֤עַר הָיִ֗יתִי גַּם זָ֫קַ֥נְתִּי וְֽלֹא רָ֭אִיתִי צַדִּ֣יק נֶעֱזָ֑ב וְ֝זַרְע֗וֹ מְבַקֶּשׁ
+        לָֽחֶם
+    - ref: Ps 37:26
+      lang: he
+      text: כָּל הַ֭יּוֹם חוֹנֵ֣ן וּמַלְוֶ֑ה וְ֝זַרְע֗וֹ לִבְרָכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 18:82
+      lang: ar
+      text: وَأَمَّا ٱلْجِدَارُ فَكَانَ لِغُلَٰمَيْنِ يَتِيمَيْنِ فِى ٱلْمَدِينَةِ وَكَانَ تَحْتَهُۥ كَنزٌ
+        لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحًا فَأَرَادَ رَبُّكَ أَن يَبْلُغَآ أَشُدَّهُمَا وَيَسْتَخْرِجَا
+        كَنزَهُمَا رَحْمَةً مِّن رَّبِّكَ وَمَا فَعَلْتُهُۥ عَنْ أَمْرِى ذَٰلِكَ تَأْوِيلُ مَا لَمْ تَسْطِع
+        عَّلَيْهِ صَبْرًا
 ---
 
 ## Questions

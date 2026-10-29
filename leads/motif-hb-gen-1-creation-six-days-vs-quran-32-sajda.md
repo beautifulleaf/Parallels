@@ -2,8 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-32-sajda
 title: 'Creation in six days and the seventh-day rest ↔ Al-Sajda: creation, the angel of death, and the
   two fates'
-summary: 'These two units share 2 motifs: what god did when the six days of creation were done [divergence
-  between the texts], creation is completed in six days.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,61 +15,9 @@ layers:
 motifs:
 - what-god-did-after-the-six-days-as-divergence
 - creation-in-six-days
-passages:
-- tradition: judaism
-  ref: Gen 2:1
-  note: 'What God did when the six days of creation were done [divergence between the texts] (What follows
-    the six days. Gen: wa-yəḵal ʾĕlōhîm ba-yyôm ha-ššəḇîʿî ... wa-yyišbōṯ (he ceased or rested). Q: fī
-    sittati ayyāmin thumma stawā ʿalā l-ʿarsh. The seventh day of rest is replaced by enthronement, and
-    no sabbath follows. Cf. the explicit response in Q 50:38.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: judaism
-  ref: Gen 2:2
-  note: 'What God did when the six days of creation were done [divergence between the texts] (What follows
-    the six days. Gen: wa-yəḵal ʾĕlōhîm ba-yyôm ha-ššəḇîʿî ... wa-yyišbōṯ (he ceased or rested). Q: fī
-    sittati ayyāmin thumma stawā ʿalā l-ʿarsh. The seventh day of rest is replaced by enthronement, and
-    no sabbath follows. Cf. the explicit response in Q 50:38.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
-    הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
-- tradition: islam
-  ref: Quran 32:4
-  note: 'What God did when the six days of creation were done [divergence between the texts] (What follows
-    the six days. Gen: wa-yəḵal ʾĕlōhîm ba-yyôm ha-ššəḇîʿî ... wa-yyišbōṯ (he ceased or rested). Q: fī
-    sittati ayyāmin thumma stawā ʿalā l-ʿarsh. The seventh day of rest is replaced by enthronement, and
-    no sabbath follows. Cf. the explicit response in Q 50:38.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ
-    ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ
-- tradition: judaism
-  ref: Gen 1:31
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר
-    י֥וֹם הַשִּׁשִּֽׁי
-- tradition: judaism
-  ref: Gen 2:1
-  note: Creation is completed in six days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
-- tradition: islam
-  ref: Quran 32:4
-  note: Creation is completed in six days (then he established himself on the throne)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ
-    ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. What follows the six days. Gen: wa-yəḵal ʾĕlōhîm ba-yyôm ha-ššəḇîʿî ... wa-yyišbōṯ (he
-    ceased or rested). Q: fī sittati ayyāmin thumma stawā ʿalā l-ʿarsh. The seventh day of rest is replaced
-    by enthronement, and no sabbath follows. Cf. the explicit response in Q 50:38.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God did when the six days of creation were done [divergence
     between the texts] (weight 6.7); Creation is completed in six days (weight 5.2). Pair score 11.9.'
@@ -106,6 +53,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What God did when the six days of creation were done
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: divergence
+  label: What God did when the six days of creation were done
+  note: 'What follows the six days. Gen: wa-yəḵal ʾĕlōhîm ba-yyôm ha-ššəḇîʿî ... wa-yyišbōṯ (he ceased
+    or rested). Q: fī sittati ayyāmin thumma stawā ʿalā l-ʿarsh. The seventh day of rest is replaced by
+    enthronement, and no sabbath follows. Cf. the explicit response in Q 50:38.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:1
+      lang: he
+      text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
+    - ref: Gen 2:2
+      lang: he
+      text: וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם
+        הַשְּׁבִיעִ֔י מִכָּל מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 32:4
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ
+- kind: shared
+  label: Creation is completed in six days
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:31
+      lang: he
+      text: וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה ט֖וֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי
+        בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי
+    - ref: Gen 2:1
+      lang: he
+      text: וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל צְבָאָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 32:4
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ مَا لَكُم مِّن دُونِهِۦ مِن وَلِىٍّ وَلَا شَفِيعٍ أَفَلَا تَتَذَكَّرُونَ
+    note: then he established himself on the throne
 ---
 
 ## Questions

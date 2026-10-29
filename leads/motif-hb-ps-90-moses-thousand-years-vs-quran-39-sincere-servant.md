@@ -2,8 +2,7 @@
 id: motif-hb-ps-90-moses-thousand-years-vs-quran-39-sincere-servant
 title: Psalm 90, prayer of Moses; a thousand years as yesterday ↔ The first of those who submit; canopies
   of fire; chambers above chambers
-summary: 'These two units share 1 motifs: humans are like grass that flourishes in the morning and withers
-  by evening.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - humans-like-grass-withering
-passages:
-- tradition: judaism
-  ref: Ps 90:5-6
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (90:5) זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף (90:6) בַּ֭בֹּקֶר יָצִ֣יץ
-    וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ
-- tradition: judaism
-  ref: Ps 90:5
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף
-- tradition: islam
-  ref: Quran 39:21
-  note: Humans are like grass that flourishes in the morning and withers by evening (rain makes crops
-    grow, then they turn yellow and become chaff, a reminder)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ
-    ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ
-    حُطَٰمًا إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ba-bbōqer ka-ḥāṣîr yaḥălōp̄ ... lā-ʿereḇ yəmôlēl wə-yāḇēš vs. yukhriju bihi zarʿan mukhtalifan
-    alwānuhu thumma yahīju fa-tarāhu muṣfarran thumma yajʿaluhu ḥuṭāman. Growth, then yellowing and withering.
-    The psalm applies it explicitly to humans; the Quran sets it out as a lesson for ''those with minds''
-    (dhikrā li-ulī l-albāb).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
     by evening (weight 5.6). Pair score 5.6.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans are like grass that flourishes in the morning and withers by evening
+kinds:
+- parallel
+units:
+- id: hb-ps-90-moses-thousand-years
+  title: Psalm 90, prayer of Moses; a thousand years as yesterday
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: parallel
+  label: Humans are like grass that flourishes in the morning and withers by evening
+  note: ba-bbōqer ka-ḥāṣîr yaḥălōp̄ ... lā-ʿereḇ yəmôlēl wə-yāḇēš vs. yukhriju bihi zarʿan mukhtalifan
+    alwānuhu thumma yahīju fa-tarāhu muṣfarran thumma yajʿaluhu ḥuṭāman. Growth, then yellowing and withering.
+    The psalm applies it explicitly to humans; the Quran sets it out as a lesson for 'those with minds'
+    (dhikrā li-ulī l-albāb).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 90:5
+      lang: he
+      text: זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף
+    - ref: Ps 90:6
+      lang: he
+      text: בַּ֭בֹּקֶר יָצִ֣יץ וְחָלָ֑ף לָ֝עֶ֗רֶב יְמוֹלֵ֥ל וְיָבֵֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:21
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ
+        ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ
+        يَجْعَلُهُۥ حُطَٰمًا إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
 ---
 
 ## Questions

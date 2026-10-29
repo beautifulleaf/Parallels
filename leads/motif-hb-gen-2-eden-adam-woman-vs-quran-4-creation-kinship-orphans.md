@@ -2,9 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-4-creation-kinship-orphans
 title: Second creation account, Eden, and the making of woman ↔ One soul, the wombs, orphans' property
   and the bride-gift
-summary: 'These two units share 3 motifs: how the first woman was made [divergence between the texts],
-  first woman made from the man''s rib or side while he sleeps, humankind is created from a single soul,
-  from which its mate was made to dwell with it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,109 +16,9 @@ motifs:
 - origin-of-first-woman-as-divergence
 - woman-from-rib
 - created-from-single-soul-and-its-mate
-passages:
-- tradition: judaism
-  ref: Gen 2:21
-  note: 'How the first woman was made [divergence between the texts] (Gen 2:21-23 wa-yyappēl ... tardēmâ
-    ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ... ʾet ha-ṣṣēlāʿ ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ
-    zōʾt: God puts the man to sleep and builds the woman from his rib; she is named ''woman'' because
-    taken from ''man''; Q 4:1 khalaqakum min nafsin wāḥidatin wa-khalaqa minhā zawjahā wa-baththa minhumā
-    rijālan kathīran wa-nisāʾan: created from one soul, and from it its mate. Woman from the first human
-    is kept; sleep, rib and the wordplay are left out, the first human is a gender-neutral ''soul'' (nafs,
-    grammatically feminine), and the address is to all people (yā ayyuhā n-nās).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: 'How the first woman was made [divergence between the texts] (Gen 2:21-23 wa-yyappēl ... tardēmâ
-    ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ... ʾet ha-ṣṣēlāʿ ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ
-    zōʾt: God puts the man to sleep and builds the woman from his rib; she is named ''woman'' because
-    taken from ''man''; Q 4:1 khalaqakum min nafsin wāḥidatin wa-khalaqa minhā zawjahā wa-baththa minhumā
-    rijālan kathīran wa-nisāʾan: created from one soul, and from it its mate. Woman from the first human
-    is kept; sleep, rib and the wordplay are left out, the first human is a gender-neutral ''soul'' (nafs,
-    grammatically feminine), and the address is to all people (yā ayyuhā n-nās).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 4:1
-  note: 'How the first woman was made [divergence between the texts] (Gen 2:21-23 wa-yyappēl ... tardēmâ
-    ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ... ʾet ha-ṣṣēlāʿ ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ
-    zōʾt: God puts the man to sleep and builds the woman from his rib; she is named ''woman'' because
-    taken from ''man''; Q 4:1 khalaqakum min nafsin wāḥidatin wa-khalaqa minhā zawjahā wa-baththa minhumā
-    rijālan kathīran wa-nisāʾan: created from one soul, and from it its mate. Woman from the first human
-    is kept; sleep, rib and the wordplay are left out, the first human is a gender-neutral ''soul'' (nafs,
-    grammatically feminine), and the address is to all people (yā ayyuhā n-nās).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا
-    زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
-    بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-- tradition: judaism
-  ref: Gen 2:21
-  note: First woman made from the man's rib or side while he sleeps (God 'built' (wayyiven) the rib into
-    a woman)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: First woman made from the man's rib or side while he sleeps (God 'built' (wayyiven) the rib into
-    a woman)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 4:1
-  note: First woman made from the man's rib or side while he sleeps (wa-khalaqa minhā zawjahā, 'and created
-    from it its mate'; no rib or sleep is named)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا
-    زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
-    بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
-- tradition: judaism
-  ref: Gen 2:21
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
-    וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
-- tradition: judaism
-  ref: Gen 2:22
-  note: 'Humankind is created from a single soul, from which its mate was made to dwell with it (wa-llāhu
-    jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay ûbāśār mibbəśārî:
-    the mate is made from man''s own substance. Gen tells it of the first couple through the rib; Q says
-    it of all spouses (min anfusikum), with no rib.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
-    אֶל הָֽאָדָֽם
-- tradition: islam
-  ref: Quran 4:1
-  note: Humankind is created from a single soul, from which its mate was made to dwell with it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا
-    زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
-    بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 2:21-23 wa-yyappēl ... tardēmâ ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ...
-    ʾet ha-ṣṣēlāʿ ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ zōʾt: God puts the man to sleep and builds the woman
-    from his rib; she is named ''woman'' because taken from ''man''; Q 4:1 khalaqakum min nafsin wāḥidatin
-    wa-khalaqa minhā zawjahā wa-baththa minhumā rijālan kathīran wa-nisāʾan: created from one soul, and
-    from it its mate. Woman from the first human is kept; sleep, rib and the wordplay are left out, the
-    first human is a gender-neutral ''soul'' (nafs, grammatically feminine), and the address is to all
-    people (yā ayyuhā n-nās).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the first woman was made [divergence between the texts] (weight
     6.7); First woman made from the man''s rib or side while he sleeps (weight 6.0); Humankind is created
@@ -156,6 +54,98 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How the first woman was made
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: divergence
+  label: How the first woman was made
+  note: 'Gen 2:21-23 wa-yyappēl ... tardēmâ ... wa-yyiqqaḥ ʾaḥat mi-ṣṣalʿōtāyw ... wa-yyiben ... ʾet ha-ṣṣēlāʿ
+    ... lĕ-ʾiššâ ... kî mē-ʾîš luqŏḥâ zōʾt: God puts the man to sleep and builds the woman from his rib;
+    she is named ''woman'' because taken from ''man''; Q 4:1 khalaqakum min nafsin wāḥidatin wa-khalaqa
+    minhā zawjahā wa-baththa minhumā rijālan kathīran wa-nisāʾan: created from one soul, and from it its
+    mate. Woman from the first human is kept; sleep, rib and the wordplay are left out, the first human
+    is a gender-neutral ''soul'' (nafs, grammatically feminine), and the address is to all people (yā
+    ayyuhā n-nās).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    - ref: Gen 2:23
+      lang: he
+      text: וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א
+        אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה זֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ
+        مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
+        بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+- kind: shared
+  label: First woman made from the man's rib or side while he sleeps
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    note: God 'built' (wayyiven) the rib into a woman
+  - tradition: islam
+    passages:
+    - ref: Quran 4:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ
+        مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
+        بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+    note: wa-khalaqa minhā zawjahā, 'and created from it its mate'; no rib or sleep is named
+- kind: shared
+  label: Humankind is created from a single soul, from which its mate was made to dwell with it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:21
+      lang: he
+      text: וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים תַּרְדֵּמָ֛ה עַל הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו
+        וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה
+    - ref: Gen 2:22
+      lang: he
+      text: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים אֶֽת הַצֵּלָ֛ע אֲשֶׁר לָקַ֥ח מִן הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ
+        אֶל הָֽאָדָֽם
+    - ref: Gen 2:23
+      lang: he
+      text: וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א
+        אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה זֹּֽאת
+    note: 'wa-llāhu jaʿala lakum min anfusikum azwājan; wayyiqqaḥ ʾaḥat miṣṣalʿōtāyw ... ʿeṣem mēʿăṣāmay
+      ûbāśār mibbəśārî: the mate is made from man''s own substance. Gen tells it of the first couple through
+      the rib; Q says it of all spouses (min anfusikum), with no rib.'
+  - tradition: islam
+    passages:
+    - ref: Quran 4:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ
+        مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
+        بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 ---
 
 ## Questions

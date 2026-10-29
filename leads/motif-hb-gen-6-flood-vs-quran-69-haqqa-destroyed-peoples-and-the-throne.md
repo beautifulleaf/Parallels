@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-flood-vs-quran-69-haqqa-destroyed-peoples-and-the-throne
 title: 'The Flood (full read) ↔ Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast,
   the sky split and eight bearing the Throne'
-summary: 'These two units share 1 motifs: when the water overflowed god carried ''you'' in the running
-  ship (al-jariya) as a reminder for retaining ears [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - carried-in-the-running-ship-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 7:17
-  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
-    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
-    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
-    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
-    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙ אֶת
-    הַתֵּבָ֔ה וַתָּ֖רָם מֵעַ֥ל הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 7:18
-  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
-    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
-    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
-    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
-    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְבְּר֥וּ הַמַּ֛יִם וַיִּרְבּ֥וּ מְאֹ֖ד עַל הָאָ֑רֶץ וַתֵּ֥לֶךְ הַתֵּבָ֖ה עַל פְּנֵ֥י הַמָּֽיִם
-- tradition: islam
-  ref: Quran 69:11
-  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
-    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
-    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
-    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
-    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ
-- tradition: islam
-  ref: Quran 69:12
-  note: 'When the water overflowed God carried ''you'' in the running ship (al-jariya) as a reminder for
-    retaining ears [divergence between the texts] (Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû
-    ʾet ha-ttēvāh wa-ttārom (the waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya:
-    God carries, and carries ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira
-    ''for a retaining ear'' (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû ʾet ha-ttēvāh wa-ttārom (the
-    waters lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya: God carries, and carries
-    ''you'' (the hearers, as Noah''s descendants); the ship is kept as a tadhkira ''for a retaining ear''
-    (69:12). ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When the water overflowed God carried ''you'' in the running ship
     (al-jariya) as a reminder for retaining ears [divergence between the texts] (weight 6.7). Pair score
@@ -99,6 +53,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When the water overflowed God carried 'you' in the running ship (al-jariya) as a reminder for
+  retaining ears
+kinds:
+- divergence
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-69-haqqa-destroyed-peoples-and-the-throne
+  title: 'Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast, the sky split and eight
+    bearing the Throne'
+  tradition: islam
+matches:
+- kind: divergence
+  label: When the water overflowed God carried 'you' in the running ship (al-jariya) as a reminder for
+    retaining ears
+  note: 'Who carries the ark: Gen 7:17 wa-yyirbû ha-mmayim wa-yyiśʾû ʾet ha-ttēvāh wa-ttārom (the waters
+    lift the ark). Q 69:11 innā lammā ṭaghā l-māʾu ḥamalnākum fī l-jāriya: God carries, and carries ''you''
+    (the hearers, as Noah''s descendants); the ship is kept as a tadhkira ''for a retaining ear'' (69:12).
+    ṭaghā l-māʾ ~ wa-yyigberû ha-mmayim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:17
+      lang: he
+      text: וַֽיְהִ֧י הַמַּבּ֛וּל אַרְבָּעִ֥ים י֖וֹם עַל הָאָ֑רֶץ וַיִּרְבּ֣וּ הַמַּ֗יִם וַיִּשְׂאוּ֙
+        אֶת הַתֵּבָ֔ה וַתָּ֖רָם מֵעַ֥ל הָאָֽרֶץ
+    - ref: Gen 7:18
+      lang: he
+      text: וַיִּגְבְּר֥וּ הַמַּ֛יִם וַיִּרְבּ֥וּ מְאֹ֖ד עַל הָאָ֑רֶץ וַתֵּ֥לֶךְ הַתֵּבָ֖ה עַל פְּנֵ֥י
+        הַמָּֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 69:11
+      lang: ar
+      text: إِنَّا لَمَّا طَغَا ٱلْمَآءُ حَمَلْنَٰكُمْ فِى ٱلْجَارِيَةِ
+    - ref: Quran 69:12
+      lang: ar
+      text: لِنَجْعَلَهَا لَكُمْ تَذْكِرَةً وَتَعِيَهَآ أُذُنٌ وَٰعِيَةٌ
 ---
 
 ## Questions

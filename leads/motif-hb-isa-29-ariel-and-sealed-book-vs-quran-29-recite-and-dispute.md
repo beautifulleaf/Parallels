@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-29-recite-and-dispute
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Recite
   the Book; dispute with the People of the Book; the unlettered prophet
-summary: 'These two units share 1 motifs: the prophet neither recited any scripture nor wrote one with
-  his right hand before the revelation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - unlettered-prophet-did-not-read-or-write
-passages:
-- tradition: judaism
-  ref: Isa 29:11
-  note: The prophet neither recited any scripture nor wrote one with his right hand before the revelation
-    (wa-mā kunta tatlū min qablihi min kitābin wa-lā takhuṭṭuhu bi-yamīnika vs. wə-nittan ha-sēp̄er ʿal
-    ʾăšer lōʾ yāḏaʿ sēp̄er ... qərāʾ nāʾ zeh wə-ʾāmar lōʾ yāḏaʿtî sēp̄er. Both speak of one who did not
-    know writing before the book; Isaiah's is a figure of blindness to the vision, the Quran's a proof
-    that the book is not forged (la-rtāba l-mubṭilūn). Lead only; the frequent link of Isa 29:12 to Q
-    96:1 iqraʾ is later literature.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר יִתְּנ֣וּ אֹת֗וֹ אֶל
-    יוֹדֵ֥עַ הספר סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא
-- tradition: judaism
-  ref: Isa 29:12
-  note: The prophet neither recited any scripture nor wrote one with his right hand before the revelation
-    (wa-mā kunta tatlū min qablihi min kitābin wa-lā takhuṭṭuhu bi-yamīnika vs. wə-nittan ha-sēp̄er ʿal
-    ʾăšer lōʾ yāḏaʿ sēp̄er ... qərāʾ nāʾ zeh wə-ʾāmar lōʾ yāḏaʿtî sēp̄er. Both speak of one who did not
-    know writing before the book; Isaiah's is a figure of blindness to the vision, the Quran's a proof
-    that the book is not forged (la-rtāba l-mubṭilūn). Lead only; the frequent link of Isa 29:12 to Q
-    96:1 iqraʾ is later literature.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִתַּ֣ן הַסֵּ֗פֶר עַל֩ אֲשֶׁ֨ר לֹֽא יָדַ֥ע סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַ֕ר לֹ֥א יָדַ֖עְתִּי
-    סֵֽפֶר
-- tradition: islam
-  ref: Quran 29:48
-  note: The prophet neither recited any scripture nor wrote one with his right hand before the revelation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ إِذًا لَّٱرْتَابَ
-    ٱلْمُبْطِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-mā kunta tatlū min qablihi min kitābin wa-lā takhuṭṭuhu bi-yamīnika vs. wə-nittan ha-sēp̄er
-    ʿal ʾăšer lōʾ yāḏaʿ sēp̄er ... qərāʾ nāʾ zeh wə-ʾāmar lōʾ yāḏaʿtî sēp̄er. Both speak of one who did
-    not know writing before the book; Isaiah''s is a figure of blindness to the vision, the Quran''s a
-    proof that the book is not forged (la-rtāba l-mubṭilūn). Lead only; the frequent link of Isa 29:12
-    to Q 96:1 iqraʾ is later literature.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet neither recited any scripture nor wrote one with his
     right hand before the revelation (weight 6.7). Pair score 6.7.'
@@ -89,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet neither recited any scripture nor wrote one with his right hand before the revelation
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-29-recite-and-dispute
+  title: Recite the Book; dispute with the People of the Book; the unlettered prophet
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet neither recited any scripture nor wrote one with his right hand before the revelation
+  note: wa-mā kunta tatlū min qablihi min kitābin wa-lā takhuṭṭuhu bi-yamīnika vs. wə-nittan ha-sēp̄er
+    ʿal ʾăšer lōʾ yāḏaʿ sēp̄er ... qərāʾ nāʾ zeh wə-ʾāmar lōʾ yāḏaʿtî sēp̄er. Both speak of one who did
+    not know writing before the book; Isaiah's is a figure of blindness to the vision, the Quran's a proof
+    that the book is not forged (la-rtāba l-mubṭilūn). Lead only; the frequent link of Isa 29:12 to Q
+    96:1 iqraʾ is later literature.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:11
+      lang: he
+      text: וַתְּהִ֨י לָכֶ֜ם חָז֣וּת הַכֹּ֗ל כְּדִבְרֵי֮ הַסֵּ֣פֶר הֶֽחָתוּם֒ אֲשֶֽׁר יִתְּנ֣וּ אֹת֗וֹ
+        אֶל יוֹדֵ֥עַ הספר סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַר֙ לֹ֣א אוּכַ֔ל כִּ֥י חָת֖וּם הֽוּא
+    - ref: Isa 29:12
+      lang: he
+      text: וְנִתַּ֣ן הַסֵּ֗פֶר עַל֩ אֲשֶׁ֨ר לֹֽא יָדַ֥ע סֵ֛פֶר לֵאמֹ֖ר קְרָ֣א נָא זֶ֑ה וְאָמַ֕ר לֹ֥א
+        יָדַ֖עְתִּי סֵֽפֶר
+  - tradition: islam
+    passages:
+    - ref: Quran 29:48
+      lang: ar
+      text: وَمَا كُنتَ تَتْلُوا۟ مِن قَبْلِهِۦ مِن كِتَٰبٍ وَلَا تَخُطُّهُۥ بِيَمِينِكَ إِذًا لَّٱرْتَابَ
+        ٱلْمُبْطِلُونَ
 ---
 
 ## Questions

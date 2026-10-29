@@ -2,7 +2,7 @@
 id: motif-hb-dan-9-prayer-seventy-weeks-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Daniel''s penitential prayer and the seventy weeks ↔ Al-Tahrim: the prohibited thing and the divulged
   secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
-summary: 'These two units share 1 motifs: the angel gabriel is named and sent to explain the vision.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - angel-gabriel-named
-passages:
-- tradition: judaism
-  ref: Dan 9:21
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן בַּתְּחִלָּה֙
-    מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת עָֽרֶב
-- tradition: judaism
-  ref: Dan 9:22
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֖בֶן וַיְדַבֵּ֣ר עִמִּ֑י וַיֹּאמַ֕ר דָּנִיֵּ֕אל עַתָּ֥ה יָצָ֖אתִי לְהַשְׂכִּילְךָ֥ בִינָֽה
-- tradition: islam
-  ref: Quran 66:4
-  note: The angel Gabriel is named and sent to explain the vision
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ
-    هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-jibrīlu wa-ṣāliḥu l-muʾminīna wa-l-malāʾikatu baʿda dhālika ẓahīr ~ we-hā-ʾîš Gavrîʾēl ʾăšer
-    rāʾîtî ve-ḥāzôn. The only named angel shared by both books; in Daniel he comes to explain the vision,
-    in Q 66:4 he is the prophet''s ally (ẓahīr) in a household dispute.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel Gabriel is named and sent to explain the vision (weight
     6.0). Pair score 6.0.'
@@ -79,6 +56,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angel Gabriel is named and sent to explain the vision
+kinds:
+- echo
+units:
+- id: hb-dan-9-prayer-seventy-weeks
+  title: Daniel's penitential prayer and the seventy weeks
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: The angel Gabriel is named and sent to explain the vision
+  note: wa-jibrīlu wa-ṣāliḥu l-muʾminīna wa-l-malāʾikatu baʿda dhālika ẓahīr ~ we-hā-ʾîš Gavrîʾēl ʾăšer
+    rāʾîtî ve-ḥāzôn. The only named angel shared by both books; in Daniel he comes to explain the vision,
+    in Q 66:4 he is the prophet's ally (ẓahīr) in a household dispute.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 9:21
+      lang: he
+      text: וְע֛וֹד אֲנִ֥י מְדַבֵּ֖ר בַּתְּפִלָּ֑ה וְהָאִ֣ישׁ גַּבְרִיאֵ֡ל אֲשֶׁר֩ רָאִ֨יתִי בֶחָז֤וֹן
+        בַּתְּחִלָּה֙ מֻעָ֣ף בִּיעָ֔ף נֹגֵ֣עַ אֵלַ֔י כְּעֵ֖ת מִנְחַת עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 66:4
+      lang: ar
+      text: إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ
+        هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ
 ---
 
 ## Questions

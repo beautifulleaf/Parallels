@@ -2,7 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-2-abrogation-polemic
 title: Psalm 2 - the nations rage; the king as God's son ↔ Ra'ina, abrogation, rival claims and the face
   of God
-summary: 'These two units share 1 motifs: whether god has or begets a son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - god-and-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has or begets a son [contrast between the texts] (Ps 2:7 YHWH ʾāmar ʾēlay bĕnî ʾattâ
-    ʾănî ha-yyôm yĕlidtîkā: God declares the king his son, ''today I have begotten you''; Q 2:116 wa-qālū
-    ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti wa-l-arḍi: God has taken no son, everything
-    is his. The Quran''s denial is aimed at Christian claims, but the psalm is the Hebrew Bible''s clearest
-    divine-begetting formula.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: islam
-  ref: Quran 2:116
-  note: 'Whether God has or begets a son [contrast between the texts] (Ps 2:7 YHWH ʾāmar ʾēlay bĕnî ʾattâ
-    ʾănî ha-yyôm yĕlidtîkā: God declares the king his son, ''today I have begotten you''; Q 2:116 wa-qālū
-    ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti wa-l-arḍi: God has taken no son, everything
-    is his. The Quran''s denial is aimed at Christian claims, but the psalm is the Hebrew Bible''s clearest
-    divine-begetting formula.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    كُلٌّ لَّهُۥ قَٰنِتُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Ps 2:7 YHWH ʾāmar ʾēlay bĕnî ʾattâ ʾănî ha-yyôm yĕlidtîkā: God declares the king his son,
-    ''today I have begotten you''; Q 2:116 wa-qālū ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti
-    wa-l-arḍi: God has taken no son, everything is his. The Quran''s denial is aimed at Christian claims,
-    but the psalm is the Hebrew Bible''s clearest divine-begetting formula.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has or begets a son [contrast between the texts] (weight
     6.7). Pair score 6.7.'
@@ -77,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has or begets a son
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has or begets a son
+  note: 'Ps 2:7 YHWH ʾāmar ʾēlay bĕnî ʾattâ ʾănî ha-yyôm yĕlidtîkā: God declares the king his son, ''today
+    I have begotten you''; Q 2:116 wa-qālū ttakhadha llāhu waladan subḥānahu bal lahu mā fī s-samāwāti
+    wa-l-arḍi: God has taken no son, everything is his. The Quran''s denial is aimed at Christian claims,
+    but the psalm is the Hebrew Bible''s clearest divine-begetting formula.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:116
+      lang: ar
+      text: وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        كُلٌّ لَّهُۥ قَٰنِتُونَ
 ---
 
 ## Questions

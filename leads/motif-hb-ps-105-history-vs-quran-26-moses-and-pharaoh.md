@@ -2,9 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-26-moses-and-pharaoh
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses and Pharaoh
   disputing; the magicians; the sea split like mountains
-summary: 'These two units share 3 motifs: israel will inherit cities, houses, cisterns, vineyards and
-  olives they did not build or plant, the departing slaves ask their neighbors for silver, gold and clothing
-  and so plunder their oppressors, god identifies himself as god of abraham, isaac and jacob.'
+summary: 3 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -19,71 +17,7 @@ motifs:
 - inherit-houses-not-built
 - despoiling-the-egyptians
 - god-of-abraham-isaac-jacob
-passages:
-- tradition: judaism
-  ref: Ps 105:44
-  note: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-    (they inherited the toil of peoples)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתֵּ֣ן לָ֭הֶם אַרְצ֣וֹת גּוֹיִ֑ם וַעֲמַ֖ל לְאֻמִּ֣ים יִירָֽשׁוּ
-- tradition: islam
-  ref: Quran 26:57
-  note: 'Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-    (jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
-    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
-    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
-    Q 26 it is the Egyptians'' own gardens and springs.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
-- tradition: islam
-  ref: Quran 26:58
-  note: 'Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-    (jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
-    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
-    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
-    Q 26 it is the Egyptians'' own gardens and springs.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
-- tradition: judaism
-  ref: Ps 105:37
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽ֭יּוֹצִיאֵם בְּכֶ֣סֶף וְזָהָ֑ב וְאֵ֖ין בִּשְׁבָטָ֣יו כּוֹשֵֽׁל
-- tradition: islam
-  ref: Quran 26:58
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
-- tradition: islam
-  ref: Quran 26:59
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: judaism
-  ref: Ps 105:9-10
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (105:9) אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק (105:10) וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב
-    לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
-- tradition: judaism
-  ref: Ps 105:9
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
-- tradition: islam
-  ref: Quran 26:26
-  note: God identifies himself as God of Abraham, Isaac and Jacob ('your Lord and the Lord of your forefathers')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Israel will inherit cities, houses, cisterns, vineyards and olives
     they did not build or plant (weight 6.0); The departing slaves ask their neighbors for silver, gold
@@ -122,6 +56,78 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
+kinds:
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: shared
+  label: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:44
+      lang: he
+      text: וַיִּתֵּ֣ן לָ֭הֶם אַרְצ֣וֹת גּוֹיִ֑ם וַעֲמַ֖ל לְאֻמִּ֣ים יִירָֽשׁוּ
+    note: they inherited the toil of peoples
+  - tradition: islam
+    passages:
+    - ref: Quran 26:57
+      lang: ar
+      text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
+    - ref: Quran 26:58
+      lang: ar
+      text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+    - ref: Quran 26:59
+      lang: ar
+      text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
+    note: 'jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
+      wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
+      receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan,
+      in Q 26 it is the Egyptians'' own gardens and springs.'
+- kind: shared
+  label: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:37
+      lang: he
+      text: וַֽ֭יּוֹצִיאֵם בְּכֶ֣סֶף וְזָהָ֑ב וְאֵ֖ין בִּשְׁבָטָ֣יו כּוֹשֵֽׁל
+  - tradition: islam
+    passages:
+    - ref: Quran 26:58
+      lang: ar
+      text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+    - ref: Quran 26:59
+      lang: ar
+      text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: God identifies himself as God of Abraham, Isaac and Jacob
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:9-10
+      lang: he
+      text: (105:9) אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק (105:10) וַיַּֽעֲמִידֶ֣הָ
+        לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+    - ref: Ps 105:9
+      lang: he
+      text: אֲשֶׁ֣ר כָּ֭רַת אֶת אַבְרָהָ֑ם וּשְׁב֖וּעָת֣וֹ לְיִשְׂחָֽק
+    - ref: Ps 105:10
+      lang: he
+      text: וַיַּֽעֲמִידֶ֣הָ לְיַעֲקֹ֣ב לְחֹ֑ק לְ֝יִשְׂרָאֵ֗ל בְּרִ֣ית עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:26
+      lang: ar
+      text: قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+    note: '''your Lord and the Lord of your forefathers'''
 ---
 
 ## Questions

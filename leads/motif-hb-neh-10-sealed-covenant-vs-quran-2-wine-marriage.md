@@ -1,9 +1,7 @@
 ---
 id: motif-hb-neh-10-sealed-covenant-vs-quran-2-wine-marriage
 title: The sealed pledge (amanah) and its stipulations ↔ Wine, gambling, orphans, mixed marriage and menstruation
-summary: 'These two units share 2 motifs: ban on marrying outside the community and its criterion [divergence
-  between the texts], prohibition of intermarriage with the peoples of the land lest they turn sons to
-  other gods.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,54 +14,9 @@ layers:
 motifs:
 - marriage-ban-with-outsiders-as-divergence
 - no-intermarriage-with-nations
-passages:
-- tradition: judaism
-  ref: Neh 10:31
-  note: 'Ban on marrying outside the community and its criterion [divergence between the texts] (Neh 10:31
-    wa-ʾăšer lōʾ nittēn bĕnōtênû lĕ-ʿammê hā-ʾāreṣ wĕ-ʾet bĕnōtêhem lōʾ niqqaḥ lĕ-bānênû: both directions
-    banned, by people group; Q 2:221 lā tankiḥū l-mushrikāti ... wa-lā tunkiḥū l-mushrikīna: both directions
-    banned too (taking and giving in marriage), but defined by religion and lifted by belief (ḥattā yuʾminū).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
-- tradition: islam
-  ref: Quran 2:221
-  note: 'Ban on marrying outside the community and its criterion [divergence between the texts] (Deut
-    7:3-4 wĕ-lōʾ titḥattēn bām ... kî yāsîr ʾet binkā mē-ʾaḥăray wĕ-ʿābĕdû ʾĕlōhîm ʾăḥērîm: no marriage
-    with the peoples of Canaan, for they will turn your son to other gods; Q 2:221 wa-lā tankiḥū l-mushrikāti
-    ḥattā yuʾminna ... ulāʾika yadʿūna ilā n-nāri: no marriage with polytheist women or men ''until they
-    believe'', for they call to the Fire. Same reason (being drawn to other gods), but the bar is belief,
-    removable by conversion, not nationhood; and the Quran adds a believing slave is better than a free
-    polytheist.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
-    وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ
-    مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟ إِلَى
-    ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-- tradition: judaism
-  ref: Neh 10:31
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods (pledge
-    not to give or take daughters)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
-- tradition: islam
-  ref: Quran 2:221
-  note: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods (with
-    polytheists, until they believe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
-    وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ خَيْرٌ
-    مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟ إِلَى
-    ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Neh 10:31 wa-ʾăšer lōʾ nittēn bĕnōtênû lĕ-ʿammê hā-ʾāreṣ wĕ-ʾet bĕnōtêhem lōʾ niqqaḥ lĕ-bānênû:
-    both directions banned, by people group; Q 2:221 lā tankiḥū l-mushrikāti ... wa-lā tunkiḥū l-mushrikīna:
-    both directions banned too (taking and giving in marriage), but defined by religion and lifted by
-    belief (ḥattā yuʾminū).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ban on marrying outside the community and its criterion [divergence
     between the texts] (weight 6.3); Prohibition of intermarriage with the peoples of the land lest they
@@ -97,6 +50,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ban on marrying outside the community and its criterion
+kinds:
+- divergence
+- shared
+units:
+- id: hb-neh-10-sealed-covenant
+  title: The sealed pledge (amanah) and its stipulations
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: divergence
+  label: Ban on marrying outside the community and its criterion
+  note: 'Neh 10:31 wa-ʾăšer lōʾ nittēn bĕnōtênû lĕ-ʿammê hā-ʾāreṣ wĕ-ʾet bĕnōtêhem lōʾ niqqaḥ lĕ-bānênû:
+    both directions banned, by people group; Q 2:221 lā tankiḥū l-mushrikāti ... wa-lā tunkiḥū l-mushrikīna:
+    both directions banned too (taking and giving in marriage), but defined by religion and lifted by
+    belief (ḥattā yuʾminū).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 10:31
+      lang: he
+      text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:221
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
+        وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ
+        خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟
+        إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+- kind: shared
+  label: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 10:31
+      lang: he
+      text: וַאֲשֶׁ֛ר לֹא נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ
+    note: pledge not to give or take daughters
+  - tradition: islam
+    passages:
+    - ref: Quran 2:221
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ ٱلْمُشْرِكَٰتِ حَتَّىٰ يُؤْمِنَّ وَلَأَمَةٌ مُّؤْمِنَةٌ خَيْرٌ مِّن مُّشْرِكَةٍ
+        وَلَوْ أَعْجَبَتْكُمْ وَلَا تُنكِحُوا۟ ٱلْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا۟ وَلَعَبْدٌ مُّؤْمِنٌ
+        خَيْرٌ مِّن مُّشْرِكٍ وَلَوْ أَعْجَبَكُمْ أُو۟لَٰٓئِكَ يَدْعُونَ إِلَى ٱلنَّارِ وَٱللَّهُ يَدْعُوٓا۟
+        إِلَى ٱلْجَنَّةِ وَٱلْمَغْفِرَةِ بِإِذْنِهِۦ وَيُبَيِّنُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+    note: with polytheists, until they believe
 ---
 
 ## Questions

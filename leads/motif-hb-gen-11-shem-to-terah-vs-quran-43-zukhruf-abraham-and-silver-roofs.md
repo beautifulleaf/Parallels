@@ -2,8 +2,7 @@
 id: motif-hb-gen-11-shem-to-terah-vs-quran-43-zukhruf-abraham-and-silver-roofs
 title: Generations of Shem to Terah; Terah's family leaves Ur ↔ Abraham disowns his father's worship;
   the great man of the two towns; silver roofs; the devil-companion
-summary: 'These two units share 1 motifs: how abraham parts from his father and his father''s land or
-  gods [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-leaves-fathers-house-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 11:31
-  note: 'How Abraham parts from his father and his father''s land or gods [divergence between the texts]
-    (Who leaves whom. Genesis: wa-yiqqaḥ teraḥ ʾeṯ ʾaḇrām bənô ... wa-yēṣʾû ʾittām mē-ʾûr kaśdîm: the
-    father leads the son out of Ur, with no word on religion or conflict. Quran: Abraham breaks with his
-    father and people over their worship (innanī barāʾun mimmā taʿbudūn). cf. Jub 12 and Gen. Rab. 38:13
-    for Abraham''s break with Terah''s idols; that is not in the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י כַּלָּת֔וֹ
-    אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֥אוּ
-    עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
-- tradition: islam
-  ref: Quran 43:26
-  note: 'How Abraham parts from his father and his father''s land or gods [divergence between the texts]
-    (Who leaves whom. Genesis: wa-yiqqaḥ teraḥ ʾeṯ ʾaḇrām bənô ... wa-yēṣʾû ʾittām mē-ʾûr kaśdîm: the
-    father leads the son out of Ur, with no word on religion or conflict. Quran: Abraham breaks with his
-    father and people over their worship (innanī barāʾun mimmā taʿbudūn). cf. Jub 12 and Gen. Rab. 38:13
-    for Abraham''s break with Terah''s idols; that is not in the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 43:27
-  note: 'How Abraham parts from his father and his father''s land or gods [divergence between the texts]
-    (Who leaves whom. Genesis: wa-yiqqaḥ teraḥ ʾeṯ ʾaḇrām bənô ... wa-yēṣʾû ʾittām mē-ʾûr kaśdîm: the
-    father leads the son out of Ur, with no word on religion or conflict. Quran: Abraham breaks with his
-    father and people over their worship (innanī barāʾun mimmā taʿbudūn). cf. Jub 12 and Gen. Rab. 38:13
-    for Abraham''s break with Terah''s idols; that is not in the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Who leaves whom. Genesis: wa-yiqqaḥ teraḥ ʾeṯ ʾaḇrām bənô ... wa-yēṣʾû ʾittām mē-ʾûr kaśdîm:
-    the father leads the son out of Ur, with no word on religion or conflict. Quran: Abraham breaks with
-    his father and people over their worship (innanī barāʾun mimmā taʿbudūn). cf. Jub 12 and Gen. Rab.
-    38:13 for Abraham''s break with Terah''s idols; that is not in the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Abraham parts from his father and his father''s land or gods
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Abraham parts from his father and his father's land or gods
+kinds:
+- divergence
+units:
+- id: hb-gen-11-shem-to-terah
+  title: Generations of Shem to Terah; Terah's family leaves Ur
+  tradition: judaism
+- id: quran-43-zukhruf-abraham-and-silver-roofs
+  title: Abraham disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Abraham parts from his father and his father's land or gods
+  note: 'Who leaves whom. Genesis: wa-yiqqaḥ teraḥ ʾeṯ ʾaḇrām bənô ... wa-yēṣʾû ʾittām mē-ʾûr kaśdîm:
+    the father leads the son out of Ur, with no word on religion or conflict. Quran: Abraham breaks with
+    his father and people over their worship (innanī barāʾun mimmā taʿbudūn). cf. Jub 12 and Gen. Rab.
+    38:13 for Abraham''s break with Terah''s idols; that is not in the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:31
+      lang: he
+      text: וַיִּקַּ֨ח תֶּ֜רַח אֶת אַבְרָ֣ם בְּנ֗וֹ וְאֶת ל֤וֹט בֶּן הָרָן֙ בֶּן בְּנ֔וֹ וְאֵת֙ שָׂרַ֣י
+        כַּלָּת֔וֹ אֵ֖שֶׁת אַבְרָ֣ם בְּנ֑וֹ וַיֵּצְא֨וּ אִתָּ֜ם מֵא֣וּר כַּשְׂדִּ֗ים לָלֶ֨כֶת֙ אַ֣רְצָה
+        כְּנַ֔עַן וַיָּבֹ֥אוּ עַד חָרָ֖ן וַיֵּ֥שְׁבוּ שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:26
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِيمُ لِأَبِيهِ وَقَوْمِهِۦٓ إِنَّنِى بَرَآءٌ مِّمَّا تَعْبُدُونَ
+    - ref: Quran 43:27
+      lang: ar
+      text: إِلَّا ٱلَّذِى فَطَرَنِى فَإِنَّهُۥ سَيَهْدِينِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-38-patriarchs-and-fates
 title: Concerning the prophets - who has stood in the council of YHWH? ↔ The chosen patriarchs; the Gardens
   of Eden and the quarrel of the damned
-summary: 'These two units share 2 motifs: whether a prophet has first-hand knowledge of the heavenly council
-  [contrast between the texts], god enthroned with the host of heaven standing at his right and left deliberates.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,75 +15,9 @@ layers:
 motifs:
 - prophet-and-the-heavenly-council-as-contrast
 - divine-council-scene
-passages:
-- tradition: judaism
-  ref: Jer 23:18
-  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
-    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
-    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
-    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
-    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
-    וַיִּשְׁמָֽע
-- tradition: judaism
-  ref: Jer 23:22
-  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
-    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
-    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
-    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
-    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
-    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 38:69
-  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
-    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
-    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
-    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
-    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
-- tradition: islam
-  ref: Quran 38:70
-  note: 'Whether a prophet has first-hand knowledge of the heavenly council [contrast between the texts]
-    (The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
-    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
-    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
-    prophet denies any first-hand knowledge of the council; he knows only by waḥy.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Jer 23:18
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
-    וַיִּשְׁמָֽע
-- tradition: judaism
-  ref: Jer 23:22
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
-    וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
-- tradition: islam
-  ref: Quran 38:69
-  note: God enthroned with the host of heaven standing at his right and left deliberates
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
-    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
-    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
-    prophet denies any first-hand knowledge of the council; he knows only by waḥy.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a prophet has first-hand knowledge of the heavenly council
     [contrast between the texts] (weight 6.7); God enthroned with the host of heaven standing at his right
@@ -122,6 +55,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether a prophet has first-hand knowledge of the heavenly council
+kinds:
+- contrast
+- shared
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-38-patriarchs-and-fates
+  title: The chosen patriarchs; the Gardens of Eden and the quarrel of the damned
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether a prophet has first-hand knowledge of the heavenly council
+  note: 'The prophet and the heavenly council. Jer: kî mî ʿāmaḏ bə-sôḏ YHWH wə-yēreʾ wə-yišmaʿ ʾeṯ-dəḇārô
+    ... wə-ʾim-ʿāmḏû bə-sôḏî, standing in the council is the true prophet''s credential. Q: mā kāna liya
+    min ʿilmin bi-l-malaʾi l-aʿlā idh yakhtaṣimūna in yūḥā ilayya illā annamā ana nadhīrun mubīn. The
+    prophet denies any first-hand knowledge of the council; he knows only by waḥy.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:18
+      lang: he
+      text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי
+        דְּבָר֖וֹ וַיִּשְׁמָֽע
+    - ref: Jer 23:22
+      lang: he
+      text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+        וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 38:69
+      lang: ar
+      text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
+    - ref: Quran 38:70
+      lang: ar
+      text: إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ
+- kind: shared
+  label: God enthroned with the host of heaven standing at his right and left deliberates
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:18
+      lang: he
+      text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי
+        דְּבָר֖וֹ וַיִּשְׁמָֽע
+    - ref: Jer 23:22
+      lang: he
+      text: וְאִֽם עָמְד֖וּ בְּסוֹדִ֑י וְיַשְׁמִ֤עוּ דְבָרַי֙ אֶת עַמִּ֔י וִֽישִׁבוּם֙ מִדַּרְכָּ֣ם הָרָ֔ע
+        וּמֵרֹ֖עַ מַֽעַלְלֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 38:69
+      lang: ar
+      text: مَا كَانَ لِىَ مِنْ عِلْمٍۭ بِٱلْمَلَإِ ٱلْأَعْلَىٰٓ إِذْ يَخْتَصِمُونَ
 ---
 
 ## Questions

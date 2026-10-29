@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-1-two-ways-vs-quran-3-closing
 title: Psalm 1 - the two ways ↔ Signs for people of understanding; closing prayer
-summary: 'These two units share 1 motifs: meditate on the book of the torah day and night; it shall not
-  depart from your mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - meditate-on-torah-day-and-night
-passages:
-- tradition: judaism
-  ref: Ps 1:2
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה
-- tradition: islam
-  ref: Quran 3:191
-  note: Meditate on the book of the Torah day and night; it shall not depart from your mouth (cf. Deut
-    6:7 'when you sit, walk, lie down and rise')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ
-    ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 1:2 û-bĕ-tôrātô yehgeh yômām wā-lāylâ; Q 3:191 yadhkurūna llāha qiyāman wa-quʿūdan wa-ʿalā
-    junūbihim wa-yatafakkarūn.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Meditate on the book of the Torah day and night; it shall not depart
     from your mouth (weight 6.0). Pair score 6.0.'
@@ -62,6 +45,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+kinds:
+- echo
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-3-closing
+  title: Signs for people of understanding; closing prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: Meditate on the book of the Torah day and night; it shall not depart from your mouth
+  note: Ps 1:2 û-bĕ-tôrātô yehgeh yômām wā-lāylâ; Q 3:191 yadhkurūna llāha qiyāman wa-quʿūdan wa-ʿalā
+    junūbihim wa-yatafakkarūn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:2
+      lang: he
+      text: כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:191
+      lang: ar
+      text: ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى
+        خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَٰذَا بَٰطِلًا سُبْحَٰنَكَ فَقِنَا عَذَابَ
+        ٱلنَّارِ
 ---
 
 ## Questions

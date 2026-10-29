@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-76-the-human
 title: 'Return from exile; the near commandment; choose life ↔ The human: the mingled drop and the camphor
   cup'
-summary: 'These two units share 1 motifs: i set before you life and death, blessing and curse: choose
-  life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - choose-life
-passages:
-- tradition: judaism
-  ref: Deut 30:15
-  note: 'I set before you life and death, blessing and curse: choose life'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת הָרָֽע
-- tradition: judaism
-  ref: Deut 30:19
-  note: 'I set before you life and death, blessing and curse: choose life'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
-    לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
-- tradition: islam
-  ref: Quran 76:3
-  note: 'I set before you life and death, blessing and curse: choose life (guided on the way, whether
-    grateful or ungrateful)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا هَدَيْنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. innā hadaynāhu s-sabīla immā shākiran wa-immā kafūran ~ reʾēh nātattî le-fānêkā ha-yyôm ʾet
-    ha-ḥayyîm we-ʾet ha-ṭṭôv we-ʾet ha-mmāwet we-ʾet hā-rāʿ: the way is shown and man chooses; the Quran''s
-    alternatives are gratitude and ingratitude (shākir / kafūr).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I set before you life and death, blessing and curse: choose life
     (weight 5.6). Pair score 5.6.'
@@ -73,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'I set before you life and death, blessing and curse: choose life'
+kinds:
+- echo
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-76-the-human
+  title: 'The human: the mingled drop and the camphor cup'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'I set before you life and death, blessing and curse: choose life'
+  note: 'innā hadaynāhu s-sabīla immā shākiran wa-immā kafūran ~ reʾēh nātattî le-fānêkā ha-yyôm ʾet ha-ḥayyîm
+    we-ʾet ha-ṭṭôv we-ʾet ha-mmāwet we-ʾet hā-rāʿ: the way is shown and man chooses; the Quran''s alternatives
+    are gratitude and ingratitude (shākir / kafūr).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:15
+      lang: he
+      text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת
+        הָרָֽע
+    - ref: Deut 30:19
+      lang: he
+      text: הַעִידֹ֨תִי בָכֶ֣ם הַיּוֹם֮ אֶת הַשָּׁמַ֣יִם וְאֶת הָאָרֶץ֒ הַחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי
+        לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 76:3
+      lang: ar
+      text: إِنَّا هَدَيْنَٰهُ ٱلسَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا
 ---
 
 ## Questions

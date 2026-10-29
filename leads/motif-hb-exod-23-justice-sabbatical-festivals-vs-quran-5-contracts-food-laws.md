@@ -2,7 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-5-contracts-food-laws
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ Contracts, pilgrim sanctity
   and the forbidden foods
-summary: 'These two units share 1 motifs: let not hatred of a people move you to injustice; be just.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - hatred-must-not-pervert-justice
-passages:
-- tradition: judaism
-  ref: Exod 23:4
-  note: 'Let not hatred of a people move you to injustice; be just (The cognate root ś-n-ʾ / sh-n-ʾ for
-    enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod:
-    kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô; a duty toward the one who hates you.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ
-- tradition: judaism
-  ref: Exod 23:5
-  note: 'Let not hatred of a people move you to injustice; be just (The cognate root ś-n-ʾ / sh-n-ʾ for
-    enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod:
-    kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô; a duty toward the one who hates you.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
-    תַּעֲזֹ֖ב עִמּֽוֹ
-- tradition: islam
-  ref: Quran 5:2
-  note: Let not hatred of a people move you to injustice; be just (hatred of those who barred you from
-    the sacred mosque)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ
-    وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا مِّن
-    رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ أَن
-    صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ
-    وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The cognate root ś-n-ʾ / sh-n-ʾ for enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum
-    ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod: kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô;
-    a duty toward the one who hates you.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Let not hatred of a people move you to injustice; be just (weight
     6.3). Pair score 6.3.'
@@ -80,6 +49,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Let not hatred of a people move you to injustice; be just
+kinds:
+- echo
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: echo
+  label: Let not hatred of a people move you to injustice; be just
+  note: 'The cognate root ś-n-ʾ / sh-n-ʾ for enmity. Q: wa-lā yajrimannakum shanaʾānu qawmin an ṣaddūkum
+    ʿani l-masjidi l-ḥarāmi an taʿtadū. Exod: kî-tirʾeh ḥămôr śōnaʾăkhā rōvēṣ ... ʿāzōv taʿăzōv ʿimmô;
+    a duty toward the one who hates you.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:4
+      lang: he
+      text: כִּ֣י תִפְגַּ֞ע שׁ֧וֹר אֹֽיִבְךָ֛ א֥וֹ חֲמֹר֖וֹ תֹּעֶ֑ה הָשֵׁ֥ב תְּשִׁיבֶ֖נּוּ לֽוֹ
+    - ref: Exod 23:5
+      lang: he
+      text: כִּֽי תִרְאֶ֞ה חֲמ֣וֹר שֹׂנַאֲךָ֗ רֹבֵץ֙ תַּ֣חַת מַשָּׂא֔וֹ וְחָדַלְתָּ֖ מֵעֲזֹ֣ב ל֑וֹ עָזֹ֥ב
+        תַּעֲזֹ֖ב עִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:2
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُحِلُّوا۟ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهْرَ ٱلْحَرَامَ
+        وَلَا ٱلْهَدْىَ وَلَا ٱلْقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلْبَيْتَ ٱلْحَرَامَ يَبْتَغُونَ فَضْلًا
+        مِّن رَّبِّهِمْ وَرِضْوَٰنًا وَإِذَا حَلَلْتُمْ فَٱصْطَادُوا۟ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ
+        قَوْمٍ أَن صَدُّوكُمْ عَنِ ٱلْمَسْجِدِ ٱلْحَرَامِ أَن تَعْتَدُوا۟ وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ
+        وَٱلتَّقْوَىٰ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ
+        شَدِيدُ ٱلْعِقَابِ
 ---
 
 ## Questions

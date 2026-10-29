@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-11-abraham-guests
 title: Job's oath of innocence ↔ Abraham's guests, the roasted calf and the laughing wife
-summary: 'These two units share 1 motifs: host runs to welcome strangers, washes their feet and feeds
-  them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +13,9 @@ layers:
 - motif
 motifs:
 - hospitality-to-strangers
-passages:
-- tradition: judaism
-  ref: Job 31:32
-  note: Host runs to welcome strangers, washes their feet and feeds them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּ֭חוּץ לֹא יָלִ֣ין גֵּ֑ר דְּ֝לָתַ֗י לָאֹ֥רַח אֶפְתָּֽח
-- tradition: islam
-  ref: Quran 11:69
-  note: Host runs to welcome strangers, washes their feet and feeds them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
-    لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. baḥûṣ lōʾ-yālîn gēr dᵉlātay lāʾōraḥ ʾeptāḥ vs Abraham hastening to serve his unknown guests
-    (fa-mā labitha an jāʾa bi-ʿijlin ḥanīdh).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Host runs to welcome strangers, washes their feet and feeds them
     (weight 5.1). Pair score 5.1.'
@@ -65,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Host runs to welcome strangers, washes their feet and feeds them
+kinds:
+- echo
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-11-abraham-guests
+  title: Abraham's guests, the roasted calf and the laughing wife
+  tradition: islam
+matches:
+- kind: echo
+  label: Host runs to welcome strangers, washes their feet and feeds them
+  note: baḥûṣ lōʾ-yālîn gēr dᵉlātay lāʾōraḥ ʾeptāḥ vs Abraham hastening to serve his unknown guests (fa-mā
+    labitha an jāʾa bi-ʿijlin ḥanīdh).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:32
+      lang: he
+      text: בַּ֭חוּץ לֹא יָלִ֣ין גֵּ֑ר דְּ֝לָתַ֗י לָאֹ֥רַח אֶפְתָּֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 11:69
+      lang: ar
+      text: وَلَقَدْ جَآءَتْ رُسُلُنَآ إِبْرَٰهِيمَ بِٱلْبُشْرَىٰ قَالُوا۟ سَلَٰمًا قَالَ سَلَٰمٌ فَمَا
+        لَبِثَ أَن جَآءَ بِعِجْلٍ حَنِيذٍ
 ---
 
 ## Questions

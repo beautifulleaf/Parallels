@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-21-against-other-gods
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Creation
   not in jest; the unceasing angels and the argument from one God
-summary: 'These two units share 2 motifs: god is not questioned about what he does, but they are questioned,
-  god did not create the heavens and earth and what is between them in play (la''ibin) but in truth.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -17,50 +16,9 @@ layers:
 motifs:
 - god-not-questioned
 - creation-not-in-play
-passages:
-- tradition: judaism
-  ref: Isa 45:9
-  note: 'God is not questioned about what he does, but they are questioned (hăyōʾmar ḥōmer ləyōṣrô mah-ttaʿăśeh;
-    lā yusʾalu ʿammā yafʿal: the creature may not question its maker. Isa uses the image of potter and
-    clay.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֗וֹי רָ֚ב אֶת יֹ֣צְר֔וֹ חֶ֖רֶשׂ אֶת חַרְשֵׂ֣י אֲדָמָ֑ה הֲיֹאמַ֨ר חֹ֤מֶר לְיֹֽצְרוֹ֙ מַֽה תַּעֲשֶׂ֔ה
-    וּפָעָלְךָ֖ אֵין יָדַ֥יִם לֽוֹ
-- tradition: islam
-  ref: Quran 21:23
-  note: God is not questioned about what he does, but they are questioned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
-- tradition: judaism
-  ref: Isa 45:18
-  note: 'God did not create the heavens and earth and what is between them in play (la''ibin) but in truth
-    (lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God
-    did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
-    or pastime (lahw), but with truth.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙ ה֣וּא
-    כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 21:16
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
-- tradition: islam
-  ref: Quran 21:17
-  note: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. hăyōʾmar ḥōmer ləyōṣrô mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿal: the creature may not question
-    its maker. Isa uses the image of potter and clay. lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā
-    s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn: God did not create the world for nothing. Isa: not as
-    tōhû, but to be lived in; Q: not as play (laʿib) or pastime (lahw), but with truth.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God is not questioned about what he does, but they are questioned
     (weight 6.3); God did not create the heavens and earth and what is between them in play (la''ibin)
@@ -97,6 +55,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God is not questioned about what he does, but they are questioned
+kinds:
+- parallel
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-21-against-other-gods
+  title: Creation not in jest; the unceasing angels and the argument from one God
+  tradition: islam
+matches:
+- kind: parallel
+  label: God is not questioned about what he does, but they are questioned
+  note: 'hăyōʾmar ḥōmer ləyōṣrô mah-ttaʿăśeh; lā yusʾalu ʿammā yafʿal: the creature may not question its
+    maker. Isa uses the image of potter and clay.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:9
+      lang: he
+      text: ה֗וֹי רָ֚ב אֶת יֹ֣צְר֔וֹ חֶ֖רֶשׂ אֶת חַרְשֵׂ֣י אֲדָמָ֑ה הֲיֹאמַ֨ר חֹ֤מֶר לְיֹֽצְרוֹ֙ מַֽה
+        תַּעֲשֶׂ֔ה וּפָעָלְךָ֖ אֵין יָדַ֥יִם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:23
+      lang: ar
+      text: لَا يُسْـَٔلُ عَمَّا يَفْعَلُ وَهُمْ يُسْـَٔلُونَ
+- kind: parallel
+  label: God did not create the heavens and earth and what is between them in play (la'ibin) but in truth
+  note: 'lōʾ-tōhû bərāʾāh lāšebet yəṣārāh; wa-mā khalaqnā s-samāʾa wa-l-arḍa wa-mā baynahumā lāʿibīn:
+    God did not create the world for nothing. Isa: not as tōhû, but to be lived in; Q: not as play (laʿib)
+    or pastime (lahw), but with truth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:18
+      lang: he
+      text: כִּ֣י כֹ֣ה אָֽמַר יְ֠הוָה בּוֹרֵ֨א הַשָּׁמַ֜יִם ה֣וּא הָאֱלֹהִ֗ים יֹצֵ֨ר הָאָ֤רֶץ וְעֹשָׂהּ֙
+        ה֣וּא כֽוֹנְנָ֔הּ לֹא תֹ֥הוּ בְרָאָ֖הּ לָשֶׁ֣בֶת יְצָרָ֑הּ אֲנִ֥י יְהוָ֖ה וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 21:16
+      lang: ar
+      text: وَمَا خَلَقْنَا ٱلسَّمَآءَ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا لَٰعِبِينَ
+    - ref: Quran 21:17
+      lang: ar
+      text: لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْوًا لَّٱتَّخَذْنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ
 ---
 
 ## Questions

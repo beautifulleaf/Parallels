@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-5-contracts-food-laws
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ Contracts, pilgrim sanctity and
   the forbidden foods
-summary: 'These two units share 1 motifs: prohibition of intermarriage with the peoples of the land lest
-  they turn sons to other gods [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - no-intermarriage-with-nations-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 34:15
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods [contrast
-    between the texts] (Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît
-    ... wə-qārāʾ ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen.
-    Q: wa-ṭaʿāmu lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so
-    their food is lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s
-    permission concerns the People of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּן תִּכְרֹ֥ת בְּרִ֖ית לְיוֹשֵׁ֣ב הָאָ֑רֶץ וְזָנ֣וּ אַחֲרֵ֣י אֱלֹֽהֵיהֶ֗ם וְזָבְחוּ֙ לֵאלֹ֣הֵיהֶ֔ם
-    וְקָרָ֣א לְךָ֔ וְאָכַלְתָּ֖ מִזִּבְחֽוֹ
-- tradition: judaism
-  ref: Exod 34:16
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods [contrast
-    between the texts] (Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît
-    ... wə-qārāʾ ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen.
-    Q: wa-ṭaʿāmu lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so
-    their food is lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s
-    permission concerns the People of the Book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלָקַחְתָּ֥ מִבְּנֹתָ֖יו לְבָנֶ֑יךָ וְזָנ֣וּ בְנֹתָ֗יו אַחֲרֵי֙ אֱלֹ֣הֵיהֶ֔ן וְהִזְנוּ֙ אֶת בָּנֶ֔יךָ
-    אַחֲרֵ֖י אֱלֹהֵיהֶֽן
-- tradition: islam
-  ref: Quran 5:5
-  note: 'Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods [contrast
-    between the texts] (Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît
-    ... wə-qārāʾ ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen.
-    Q: wa-ṭaʿāmu lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so
-    their food is lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s
-    permission concerns the People of the Book.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ وَطَعَامُكُمْ
-    حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ
-    مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِىٓ
-    أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ مِنَ ٱلْخَٰسِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît ... wə-qārāʾ
-    ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen. Q: wa-ṭaʿāmu
-    lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so their food is
-    lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s permission
-    concerns the People of the Book.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibition of intermarriage with the peoples of the land lest they
     turn sons to other gods [contrast between the texts] (weight 6.3). Pair score 6.3.'
@@ -94,6 +50,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+kinds:
+- contrast
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: contrast
+  label: Prohibition of intermarriage with the peoples of the land lest they turn sons to other gods
+  note: 'Opposite rulings on eating with and marrying outsiders. Exod: pen-tikhrōt bərît ... wə-qārāʾ
+    ləkhā wə-ʾākhaltā mi-zzivḥô; wə-lāqaḥtā mib-bənōtāyw lə-vānêkhā wə-zānû ... ʾaḥărê ʾĕlōhêhen. Q: wa-ṭaʿāmu
+    lladhīna ūtū l-kitāba ḥillun lakum ... wa-l-muḥṣanātu mina lladhīna ūtū l-kitāba, so their food is
+    lawful and their chaste women may be married. The HB ban concerns the Canaanites; Q''s permission
+    concerns the People of the Book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:15
+      lang: he
+      text: פֶּן תִּכְרֹ֥ת בְּרִ֖ית לְיוֹשֵׁ֣ב הָאָ֑רֶץ וְזָנ֣וּ אַחֲרֵ֣י אֱלֹֽהֵיהֶ֗ם וְזָבְחוּ֙ לֵאלֹ֣הֵיהֶ֔ם
+        וְקָרָ֣א לְךָ֔ וְאָכַלְתָּ֖ מִזִּבְחֽוֹ
+    - ref: Exod 34:16
+      lang: he
+      text: וְלָקַחְתָּ֥ מִבְּנֹתָ֖יו לְבָנֶ֑יךָ וְזָנ֣וּ בְנֹתָ֗יו אַחֲרֵי֙ אֱלֹ֣הֵיהֶ֔ן וְהִזְנוּ֙ אֶת
+        בָּנֶ֔יךָ אַחֲרֵ֖י אֱלֹהֵיהֶֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 5:5
+      lang: ar
+      text: ٱلْيَوْمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَطَعَامُ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ حِلٌّ لَّكُمْ
+        وَطَعَامُكُمْ حِلٌّ لَّهُمْ وَٱلْمُحْصَنَٰتُ مِنَ ٱلْمُؤْمِنَٰتِ وَٱلْمُحْصَنَٰتُ مِنَ ٱلَّذِينَ
+        أُوتُوا۟ ٱلْكِتَٰبَ مِن قَبْلِكُمْ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَٰفِحِينَ
+        وَلَا مُتَّخِذِىٓ أَخْدَانٍ وَمَن يَكْفُرْ بِٱلْإِيمَٰنِ فَقَدْ حَبِطَ عَمَلُهُۥ وَهُوَ فِى ٱلْءَاخِرَةِ
+        مِنَ ٱلْخَٰسِرِينَ
 ---
 
 ## Questions

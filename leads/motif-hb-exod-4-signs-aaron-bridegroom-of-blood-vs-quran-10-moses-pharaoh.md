@@ -2,9 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-10-moses-pharaoh
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses, the houses
   as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 2 motifs: how moses'' own people in egypt respond to his message [divergence
-  between the texts], the king''s heart is hardened (by himself or by god) so he refuses to release the
-  people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,47 +15,9 @@ layers:
 motifs:
 - israels-response-to-moses-in-egypt-as-divergence
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 4:31
-  note: How Moses' own people in Egypt respond to his message [divergence between the texts] (wayyaʾămēn
-    hāʿām ... wayyiqqᵉdû wayyištaḥăwû (the whole people believes at first) vs fa-mā āmana li-mūsā illā
-    dhurriyyatun min qawmihi (only a few youths).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּאֲמֵ֖ן הָעָ֑ם וַֽיִּשְׁמְע֡וּ כִּֽי פָקַ֨ד יְהוָ֜ה אֶת בְּנֵ֣י יִשְׂרָאֵ֗ל וְכִ֤י רָאָה֙
-    אֶת עָנְיָ֔ם וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוּֽוּ
-- tradition: islam
-  ref: Quran 10:83
-  note: 'How Moses'' own people in Egypt respond to his message [divergence between the texts] (Israel
-    in Egypt hardly heeds Moses: fa-mā āmana li-mūsā illā dhurriyyatun min qawmihi ʿalā khawfin min firʿawna
-    wa-malaʾihim vs wᵉlōʾ šāmᵉʿû ʾel-mōšeh miqqōṣer rûaḥ ûmēʿăbōdāh qāšāh. The reason differs: in Q fear
-    of persecution by Pharaoh, and some young people do believe; in Exod impatience under hard labour.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ
-    أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
-- tradition: judaism
-  ref: Exod 4:21
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙ אֲשֶׁר
-    שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א יְשַׁלַּ֖ח
-    אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. wayyaʾămēn hāʿām ... wayyiqqᵉdû wayyištaḥăwû (the whole people believes at first) vs fa-mā
-    āmana li-mūsā illā dhurriyyatun min qawmihi (only a few youths).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How Moses'' own people in Egypt respond to his message [divergence
     between the texts] (weight 6.3); The king''s heart is hardened (by himself or by God) so he refuses
@@ -95,6 +55,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How Moses' own people in Egypt respond to his message
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: divergence
+  label: How Moses' own people in Egypt respond to his message
+  note: wayyaʾămēn hāʿām ... wayyiqqᵉdû wayyištaḥăwû (the whole people believes at first) vs fa-mā āmana
+    li-mūsā illā dhurriyyatun min qawmihi (only a few youths).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:31
+      lang: he
+      text: וַֽיַּאֲמֵ֖ן הָעָ֑ם וַֽיִּשְׁמְע֡וּ כִּֽי פָקַ֨ד יְהוָ֜ה אֶת בְּנֵ֣י יִשְׂרָאֵ֗ל וְכִ֤י רָאָה֙
+        אֶת עָנְיָ֔ם וַֽיִּקְּד֖וּ וַיִּֽשְׁתַּחֲוּֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:83
+      lang: ar
+      text: فَمَآ ءَامَنَ لِمُوسَىٰٓ إِلَّا ذُرِّيَّةٌ مِّن قَوْمِهِۦ عَلَىٰ خَوْفٍ مِّن فِرْعَوْنَ وَمَلَإِي۟هِمْ
+        أَن يَفْتِنَهُمْ وَإِنَّ فِرْعَوْنَ لَعَالٍ فِى ٱلْأَرْضِ وَإِنَّهُۥ لَمِنَ ٱلْمُسْرِفِينَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:21
+      lang: he
+      text: וַיֹּ֣אמֶר יְהוָה֮ אֶל מֹשֶׁה֒ בְּלֶכְתְּךָ֙ לָשׁ֣וּב מִצְרַ֔יְמָה רְאֵ֗ה כָּל הַמֹּֽפְתִים֙
+        אֲשֶׁר שַׂ֣מְתִּי בְיָדֶ֔ךָ וַעֲשִׂיתָ֖ם לִפְנֵ֣י פַרְעֹ֑ה וַאֲנִי֙ אֲחַזֵּ֣ק אֶת לִבּ֔וֹ וְלֹ֥א
+        יְשַׁלַּ֖ח אֶת הָעָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

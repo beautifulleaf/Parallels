@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-2-closing
 title: Solomon's prayer of dedication ↔ Closing confession and prayer
-summary: 'These two units share 1 motifs: god alone knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,46 +13,9 @@ layers:
 - motif
 motifs:
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:39
-  note: God alone knows the hearts of all humans
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אַתָּה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֨ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤ לָאִישׁ֙
-    כְּכָל דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת לְבָב֑וֹ כִּֽי אַתָּ֤ה יָדַ֨עְתָּ֙ לְבַדְּךָ֔ אֶת לְבַ֖ב כָּל
-    בְּנֵ֥י הָאָדָֽם
-- tradition: islam
-  ref: Quran 2:284
-  note: 'God alone knows the hearts of all humans (1Kgs 8:39 wĕ-sālaḥtā ... kî ʾattâ yādaʿtā lĕbaddĕkā
-    ʾet lĕbab kol bĕnê hā-ʾādām: forgive, for you alone know every heart; Q 2:284, 286 yuḥāsibkum bihi
-    llāhu fa-yaghfiru li-man yashāʾ ... wa-ʿfu ʿannā wa-ghfir lanā: God reckons what is hidden, and the
-    believers pray for pardon. Both close long prayers asking forgiveness from the God who knows the hidden
-    heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ
-    يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ
-    شَىْءٍ قَدِيرٌ
-- tradition: islam
-  ref: Quran 2:286
-  note: 'God alone knows the hearts of all humans (1Kgs 8:39 wĕ-sālaḥtā ... kî ʾattâ yādaʿtā lĕbaddĕkā
-    ʾet lĕbab kol bĕnê hā-ʾādām: forgive, for you alone know every heart; Q 2:284, 286 yuḥāsibkum bihi
-    llāhu fa-yaghfiru li-man yashāʾ ... wa-ʿfu ʿannā wa-ghfir lanā: God reckons what is hidden, and the
-    believers pray for pardon. Both close long prayers asking forgiveness from the God who knows the hidden
-    heart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
-    رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا
-    كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا
-    بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Kgs 8:39 wĕ-sālaḥtā ... kî ʾattâ yādaʿtā lĕbaddĕkā ʾet lĕbab kol bĕnê hā-ʾādām: forgive, for
-    you alone know every heart; Q 2:284, 286 yuḥāsibkum bihi llāhu fa-yaghfiru li-man yashāʾ ... wa-ʿfu
-    ʿannā wa-ghfir lanā: God reckons what is hidden, and the believers pray for pardon. Both close long
-    prayers asking forgiveness from the God who knows the hidden heart.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
     5.0.'
@@ -82,6 +45,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- echo
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: God alone knows the hearts of all humans
+  note: '1Kgs 8:39 wĕ-sālaḥtā ... kî ʾattâ yādaʿtā lĕbaddĕkā ʾet lĕbab kol bĕnê hā-ʾādām: forgive, for
+    you alone know every heart; Q 2:284, 286 yuḥāsibkum bihi llāhu fa-yaghfiru li-man yashāʾ ... wa-ʿfu
+    ʿannā wa-ghfir lanā: God reckons what is hidden, and the believers pray for pardon. Both close long
+    prayers asking forgiveness from the God who knows the hidden heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:39
+      lang: he
+      text: וְ֠אַתָּה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֨ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤
+        לָאִישׁ֙ כְּכָל דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת לְבָב֑וֹ כִּֽי אַתָּ֤ה יָדַ֨עְתָּ֙ לְבַדְּךָ֔ אֶת
+        לְבַ֖ב כָּל בְּנֵ֥י הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:284
+      lang: ar
+      text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ
+        تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    - ref: Quran 2:286
+      lang: ar
+      text: لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ
+        رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ
+        إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ
+        لَنَا بِهِۦ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ
+        ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

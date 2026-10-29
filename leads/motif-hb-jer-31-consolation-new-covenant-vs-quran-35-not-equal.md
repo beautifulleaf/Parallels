@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-35-not-equal
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ No soul bears another's burden; the blind and the seeing; the colors of creation
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 31:30
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
-- tradition: judaism
-  ref: Jer 31:29
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
-- tradition: islam
-  ref: Quran 35:18
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ
-    شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟
-    ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. lōʾ-yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim-ʾîš ba-ʿăwōnô yāmûṯ vs. lā taziru wāziratun
-    wizra ukhrā. Jeremiah puts it in the days to come (ba-yyāmîm hā-hēm); the Quran states it as always
-    true.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -73,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- parallel
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: parallel
+  label: Each person dies for his own sin
+  note: lōʾ-yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim-ʾîš ba-ʿăwōnô yāmûṯ vs. lā taziru wāziratun wizra
+    ukhrā. Jeremiah puts it in the days to come (ba-yyāmîm hā-hēm); the Quran states it as always true.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:29
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
+    - ref: Jer 31:30
+      lang: he
+      text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 35:18
+      lang: ar
+      text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ
+        مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ
+        وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

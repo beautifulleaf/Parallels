@@ -2,8 +2,7 @@
 id: motif-hb-prov-19-sayings-vs-quran-5-covenant-twelve-chiefs
 title: Sayings on the poor, the king's wrath and the sluggard ↔ Israel's covenant and twelve chiefs; the
   Christians' forgotten portion
-summary: 'These two units share 2 motifs: he who is gracious to the poor lends to yhwh, and he will repay
-  him, who will lend god a goodly loan (qard hasan), that he may multiply it for him?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,47 +16,9 @@ layers:
 motifs:
 - lending-to-yhwh-by-giving-to-poor
 - goodly-loan-to-god-doubled
-passages:
-- tradition: judaism
-  ref: Prov 19:17
-  note: He who is gracious to the poor lends to YHWH, and he will repay him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 5:12
-  note: He who is gracious to the poor lends to YHWH, and he will repay him (aqraḍtumu llāha qarḍan ḥasanan;
-    cf. Prov 19:17)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا
-    وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم
-    بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
-    وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ
-    فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
-- tradition: judaism
-  ref: Prov 19:17
-  note: 'Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (in tuqriḍū llāha
-    qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô: giving is a loan to God
-    that he repays. The Quran says ''doubles it''; Proverbs specifies the loan is mercy to the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 5:12
-  note: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ نَقِيبًا
-    وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ وَءَامَنتُم
-    بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ عَنكُمْ سَيِّـَٔاتِكُمْ
-    وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ
-    فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-aqraḍtumu llāha qarḍan ḥasanan la-ukaffiranna ʿankum sayyiʾātikum (a loan to God repaid
-    with forgiveness and paradise). Prov: malwēh YHWH ḥônēn dāl û-gəmulô yəšallem-lô. Prov repays the
-    loan to the poor; Q lists the loan among covenant terms with prayer and zakāt.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who is gracious to the poor lends to YHWH, and he will repay
     him (weight 5.8); Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (weight
@@ -91,6 +52,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He who is gracious to the poor lends to YHWH, and he will repay him
+kinds:
+- parallel
+- shared
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-5-covenant-twelve-chiefs
+  title: Israel's covenant and twelve chiefs; the Christians' forgotten portion
+  tradition: islam
+matches:
+- kind: parallel
+  label: He who is gracious to the poor lends to YHWH, and he will repay him
+  note: 'Q: wa-aqraḍtumu llāha qarḍan ḥasanan la-ukaffiranna ʿankum sayyiʾātikum (a loan to God repaid
+    with forgiveness and paradise). Prov: malwēh YHWH ḥônēn dāl û-gəmulô yəšallem-lô. Prov repays the
+    loan to the poor; Q lists the loan among covenant terms with prayer and zakāt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:12
+      lang: ar
+      text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ
+        نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ
+        وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ
+        عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن
+        كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
+- kind: shared
+  label: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+    note: 'in tuqriḍū llāha qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô:
+      giving is a loan to God that he repays. The Quran says ''doubles it''; Proverbs specifies the loan
+      is mercy to the poor.'
+  - tradition: islam
+    passages:
+    - ref: Quran 5:12
+      lang: ar
+      text: وَلَقَدْ أَخَذَ ٱللَّهُ مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ وَبَعَثْنَا مِنْهُمُ ٱثْنَىْ عَشَرَ
+        نَقِيبًا وَقَالَ ٱللَّهُ إِنِّى مَعَكُمْ لَئِنْ أَقَمْتُمُ ٱلصَّلَوٰةَ وَءَاتَيْتُمُ ٱلزَّكَوٰةَ
+        وَءَامَنتُم بِرُسُلِى وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ ٱللَّهَ قَرْضًا حَسَنًا لَّأُكَفِّرَنَّ
+        عَنكُمْ سَيِّـَٔاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ فَمَن
+        كَفَرَ بَعْدَ ذَٰلِكَ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-43-zukhruf-jesus-and-paradise
 title: The book of remembrance and the sun of righteousness ↔ The son of Mary as an example and sign of
   the Hour; the Garden with golden dishes; Malik of hell
-summary: 'These two units share 1 motifs: god''s messengers (angels) write down what people plot and do.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - angels-record-deeds
-passages:
-- tradition: judaism
-  ref: Mal 3:16
-  note: 'God''s messengers (angels) write down what people plot and do (A written record before God: wa-yaqšēḇ
-    YHWH wa-yišmāʿ wa-yikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê YHWH vs. am yaḥsabūna annā lā nasmaʿu
-    sirrahum wa-najwāhum balā wa-rusulunā ladayhim yaktubūn. God ''hears'' in both; Malachi''s book records
-    the God-fearers'' speech for their good, the Quran''s angelic scribes record the plotters'' secret
-    talk.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
-    סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 43:80
-  note: God's messengers (angels) write down what people plot and do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ يَكْتُبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A written record before God: wa-yaqšēḇ YHWH wa-yišmāʿ wa-yikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê
-    YHWH vs. am yaḥsabūna annā lā nasmaʿu sirrahum wa-najwāhum balā wa-rusulunā ladayhim yaktubūn. God
-    ''hears'' in both; Malachi''s book records the God-fearers'' speech for their good, the Quran''s angelic
-    scribes record the plotters'' secret talk.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s messengers (angels) write down what people plot and do (weight
     6.3). Pair score 6.3.'
@@ -78,6 +57,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's messengers (angels) write down what people plot and do
+kinds:
+- echo
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-43-zukhruf-jesus-and-paradise
+  title: The son of Mary as an example and sign of the Hour; the Garden with golden dishes; Malik of hell
+  tradition: islam
+matches:
+- kind: echo
+  label: God's messengers (angels) write down what people plot and do
+  note: 'A written record before God: wa-yaqšēḇ YHWH wa-yišmāʿ wa-yikkāṯēḇ sēp̄er zikkārôn ləp̄ānâw lə-yirʾê
+    YHWH vs. am yaḥsabūna annā lā nasmaʿu sirrahum wa-najwāhum balā wa-rusulunā ladayhim yaktubūn. God
+    ''hears'' in both; Malachi''s book records the God-fearers'' speech for their good, the Quran''s angelic
+    scribes record the plotters'' secret talk.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:16
+      lang: he
+      text: אָ֧ז נִדְבְּר֛וּ יִרְאֵ֥י יְהוָ֖ה אִ֣ישׁ אֶת רֵעֵ֑הוּ וַיַּקְשֵׁ֤ב יְהוָה֙ וַיִּשְׁמָ֔ע וַ֠יִּכָּתֵב
+        סֵ֣פֶר זִכָּר֤וֹן לְפָנָיו֙ לְיִרְאֵ֣י יְהוָ֔ה וּלְחֹשְׁבֵ֖י שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 43:80
+      lang: ar
+      text: أَمْ يَحْسَبُونَ أَنَّا لَا نَسْمَعُ سِرَّهُمْ وَنَجْوَىٰهُم بَلَىٰ وَرُسُلُنَا لَدَيْهِمْ
+        يَكْتُبُونَ
 ---
 
 ## Questions

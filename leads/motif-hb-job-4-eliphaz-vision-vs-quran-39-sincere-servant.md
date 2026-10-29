@@ -2,8 +2,7 @@
 id: motif-hb-job-4-eliphaz-vision-vs-quran-39-sincere-servant
 title: Eliphaz's first speech, the night vision ↔ The first of those who submit; canopies of fire; chambers
   above chambers
-summary: 'These two units share 1 motifs: the book in paired repetitions (mathani) makes the skins of
-  the godfearing shiver, then their skins and hearts soften.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - skins-shiver-at-recitation
-passages:
-- tradition: judaism
-  ref: Job 4:15
-  note: 'The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
-    skins and hearts soften (wə-rûaḥ ʿal-pānay yaḥălōp̄ təsammēr śaʿăraṯ bəśārî vs. taqshaʿirru minhu
-    julūdu lladhīna yakhshawna rabbahum thumma talīnu julūduhum wa-qulūbuhum ilā dhikri llāh: the body''s
-    skin creeps at a revelation. Eliphaz''s night spirit only terrifies; the Quran''s recitation makes
-    the skin shiver and then soften.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֭רוּחַ עַל פָּנַ֣י יַחֲלֹ֑ף תְּ֝סַמֵּ֗ר שַֽׂעֲרַ֥ת בְּשָׂרִֽי
-- tradition: islam
-  ref: Quran 39:23
-  note: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
-    skins and hearts soften
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًا مُّتَشَٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ
-    ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ذَٰلِكَ
-    هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-rûaḥ ʿal-pānay yaḥălōp̄ təsammēr śaʿăraṯ bəśārî vs. taqshaʿirru minhu julūdu lladhīna yakhshawna
-    rabbahum thumma talīnu julūduhum wa-qulūbuhum ilā dhikri llāh: the body''s skin creeps at a revelation.
-    Eliphaz''s night spirit only terrifies; the Quran''s recitation makes the skin shiver and then soften.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Book in paired repetitions (mathani) makes the skins of the
     godfearing shiver, then their skins and hearts soften (weight 6.3). Pair score 6.3.'
@@ -68,6 +45,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
+  skins and hearts soften
+kinds:
+- echo
+units:
+- id: hb-job-4-eliphaz-vision
+  title: Eliphaz's first speech, the night vision
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: echo
+  label: The Book in paired repetitions (mathani) makes the skins of the godfearing shiver, then their
+    skins and hearts soften
+  note: 'wə-rûaḥ ʿal-pānay yaḥălōp̄ təsammēr śaʿăraṯ bəśārî vs. taqshaʿirru minhu julūdu lladhīna yakhshawna
+    rabbahum thumma talīnu julūduhum wa-qulūbuhum ilā dhikri llāh: the body''s skin creeps at a revelation.
+    Eliphaz''s night spirit only terrifies; the Quran''s recitation makes the skin shiver and then soften.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 4:15
+      lang: he
+      text: וְ֭רוּחַ עַל פָּנַ֣י יַחֲלֹ֑ף תְּ֝סַמֵּ֗ר שַֽׂעֲרַ֥ת בְּשָׂרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 39:23
+      lang: ar
+      text: ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَٰبًا مُّتَشَٰبِهًا مَّثَانِىَ تَقْشَعِرُّ مِنْهُ جُلُودُ
+        ٱلَّذِينَ يَخْشَوْنَ رَبَّهُمْ ثُمَّ تَلِينُ جُلُودُهُمْ وَقُلُوبُهُمْ إِلَىٰ ذِكْرِ ٱللَّهِ ذَٰلِكَ
+        هُدَى ٱللَّهِ يَهْدِى بِهِۦ مَن يَشَآءُ وَمَن يُضْلِلِ ٱللَّهُ فَمَا لَهُۥ مِنْ هَادٍ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-lev-18-forbidden-unions-vs-quran-2-wine-marriage
 title: Forbidden sexual unions; the land vomits out its inhabitants ↔ Wine, gambling, orphans, mixed marriage
   and menstruation
-summary: 'These two units share 1 motifs: intercourse with a menstruating woman is forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - intercourse-during-menstruation-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 18:19
-  note: Intercourse with a menstruating woman is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶל אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ
-- tradition: islam
-  ref: Quran 2:222
-  note: Intercourse with a menstruating woman is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا
-    تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ
-    إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Same verb of approach: Lev 18:19 wĕ-ʾel ʾiššâ bĕ-niddat ṭumʾātāh lōʾ tiqrab lĕ-gallôt ʿerwātāh;
-    Q 2:222 qul huwa adhan fa-ʿtazilū n-nisāʾa fī l-maḥīḍi wa-lā taqrabūhunna ḥattā yaṭhurna (q-r-b in
-    both). Leviticus calls it impurity (ṭumʾâ); the Quran calls menstruation ''a hurt'' (adhan) and then
-    gives positive permission when they are purified (fa-idhā taṭahharna fa-ʾtūhunna).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercourse with a menstruating woman is forbidden (weight 6.0).
     Pair score 6.0.'
@@ -70,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Intercourse with a menstruating woman is forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-18-forbidden-unions
+  title: Forbidden sexual unions; the land vomits out its inhabitants
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: parallel
+  label: Intercourse with a menstruating woman is forbidden
+  note: 'Same verb of approach: Lev 18:19 wĕ-ʾel ʾiššâ bĕ-niddat ṭumʾātāh lōʾ tiqrab lĕ-gallôt ʿerwātāh;
+    Q 2:222 qul huwa adhan fa-ʿtazilū n-nisāʾa fī l-maḥīḍi wa-lā taqrabūhunna ḥattā yaṭhurna (q-r-b in
+    both). Leviticus calls it impurity (ṭumʾâ); the Quran calls menstruation ''a hurt'' (adhan) and then
+    gives positive permission when they are purified (fa-idhā taṭahharna fa-ʾtūhunna).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 18:19
+      lang: he
+      text: וְאֶל אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:222
+      lang: ar
+      text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ
+        وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ
+        ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 ---
 
 ## Questions

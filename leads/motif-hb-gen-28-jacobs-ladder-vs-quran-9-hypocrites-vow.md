@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-28-jacobs-ladder-vs-quran-9-hypocrites-vow
 title: Jacob's dream at Bethel ↔ The broken vow of charity; seventy prayers in vain
-summary: 'These two units share 1 motifs: hero vows that if god protects and provides for him, he will
-  worship and tithe [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,61 +13,9 @@ layers:
 - motif
 motifs:
 - conditional-vow-to-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 28:20
-  note: 'Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts] (A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi
-    la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî
-    ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers
-    become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in
-    their hearts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּדַּ֥ר יַעֲקֹ֖ב נֶ֣דֶר לֵאמֹ֑ר אִם יִהְיֶ֨ה אֱלֹהִ֜ים עִמָּדִ֗י וּשְׁמָרַ֨נִי֙ בַּדֶּ֤רֶךְ
-    הַזֶּה֙ אֲשֶׁ֣ר אָנֹכִ֣י הוֹלֵ֔ךְ וְנָֽתַן לִ֥י לֶ֛חֶם לֶאֱכֹ֖ל וּבֶ֥גֶד לִלְבֹּֽשׁ
-- tradition: judaism
-  ref: Gen 28:22
-  note: 'Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts] (A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi
-    la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî
-    ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers
-    become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in
-    their hearts.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר שַׂ֨מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים וְכֹל֙ אֲשֶׁ֣ר תִּתֶּן
-    לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ
-- tradition: islam
-  ref: Quran 9:75
-  note: 'Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts] (A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi
-    la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî
-    ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers
-    become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in
-    their hearts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ
-    مِنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 9:76
-  note: 'Hero vows that if God protects and provides for him, he will worship and tithe [divergence between
-    the texts] (A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi
-    la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî
-    ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers
-    become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in
-    their hearts.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi
-    la-naṣṣaddaqanna vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî
-    ʿaśśēr ʾăʿaśśᵉrennû lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers
-    become miserly once enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in
-    their hearts.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero vows that if God protects and provides for him, he will worship
     and tithe [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -97,6 +44,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero vows that if God protects and provides for him, he will worship and tithe
+kinds:
+- divergence
+units:
+- id: hb-gen-28-jacobs-ladder
+  title: Jacob's dream at Bethel
+  tradition: judaism
+- id: quran-9-hypocrites-vow
+  title: The broken vow of charity; seventy prayers in vain
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero vows that if God protects and provides for him, he will worship and tithe
+  note: 'A vow to give to God if God provides: wa-minhum man ʿāhada llāha la-in ātānā min faḍlihi la-naṣṣaddaqanna
+    vs wayyiddar yaʿăqōb neder lēʾmōr ʾim-yihyeh ʾĕlōhîm ʿimmādî ... wᵉkōl ʾăšer titten-lî ʿaśśēr ʾăʿaśśᵉrennû
+    lāk. The outcome differs: Jacob''s vow is a founding act of piety; the Q vowers become miserly once
+    enriched (fa-lammā ātāhum min faḍlihi bakhilū bihi), and God sets hypocrisy in their hearts.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:20
+      lang: he
+      text: וַיִּדַּ֥ר יַעֲקֹ֖ב נֶ֣דֶר לֵאמֹ֑ר אִם יִהְיֶ֨ה אֱלֹהִ֜ים עִמָּדִ֗י וּשְׁמָרַ֨נִי֙ בַּדֶּ֤רֶךְ
+        הַזֶּה֙ אֲשֶׁ֣ר אָנֹכִ֣י הוֹלֵ֔ךְ וְנָֽתַן לִ֥י לֶ֛חֶם לֶאֱכֹ֖ל וּבֶ֥גֶד לִלְבֹּֽשׁ
+    - ref: Gen 28:22
+      lang: he
+      text: וְהָאֶ֣בֶן הַזֹּ֗את אֲשֶׁר שַׂ֨מְתִּי֙ מַצֵּבָ֔ה יִהְיֶ֖ה בֵּ֣ית אֱלֹהִ֑ים וְכֹל֙ אֲשֶׁ֣ר
+        תִּתֶּן לִ֔י עַשֵּׂ֖ר אֲעַשְּׂרֶ֥נּוּ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:75
+      lang: ar
+      text: وَمِنْهُم مَّنْ عَٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ
+        مِنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 9:76
+      lang: ar
+      text: فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-32-wrestling-at-jabbok-vs-quran-3-food-bakka
 title: Jacob wrestles at the Jabbok and becomes Israel ↔ Israel's self-imposed food law and the House
   at Bakka
-summary: 'These two units share 2 motifs: israelites do not eat the sciatic sinew (gid ha-nasheh) because
-  of the wrestling, a food taboo of israel (jacob) before the torah [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,62 +15,9 @@ layers:
 motifs:
 - sinew-taboo
 - food-forbidden-by-israel-before-torah-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 32:33
-  note: Israelites do not eat the sciatic sinew (gid ha-nasheh) because of the wrestling
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל כֵּ֡ן לֹֽא יֹאכְל֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת גִּ֣יד הַנָּשֶׁ֗ה אֲשֶׁר֙ עַל כַּ֣ף הַיָּרֵ֔ךְ
-    עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י נָגַע֙ בְּכַף יֶ֣רֶךְ יַעֲקֹ֔ב בְּגִ֖יד הַנָּשֶֽׁה
-- tradition: islam
-  ref: Quran 3:93
-  note: Israelites do not eat the sciatic sinew (gid ha-nasheh) because of the wrestling (what Israel
-    forbade himself before the Torah)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ
-    نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ
-    صَٰدِقِينَ
-- tradition: judaism
-  ref: Gen 32:33
-  note: 'A food taboo of Israel (Jacob) before the Torah [divergence between the texts] (Gen 32:33 ʿal
-    kēn lōʾ yōʾkĕlû bĕnê yiśrāʾēl ʾet gîd ha-nnāšeh ... kî nāgaʿ bĕ-kap yerek yaʿăqōb: the sons of Israel
-    do not eat the sinew because the divine wrestler struck Jacob''s thigh, a custom ''to this day'';
-    Q 3:93 kullu ṭ-ṭaʿāmi kāna ḥillan li-banī isrāʾīla illā mā ḥarrama isrāʾīlu ʿalā nafsihi min qabli
-    an tunazzala t-tawrātu: all food was lawful to the Children of Israel except what Israel (Jacob) forbade
-    himself before the Torah. A pre-Sinai food taboo tied to Jacob/Israel in both; in Genesis it comes
-    from God''s touch and binds the descendants, in the Quran Israel imposes it on himself, and the point
-    is that the later Torah food laws were not original (fa-ʾtū bi-t-tawrāti fa-tlūhā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַל כֵּ֡ן לֹֽא יֹאכְל֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת גִּ֣יד הַנָּשֶׁ֗ה אֲשֶׁר֙ עַל כַּ֣ף הַיָּרֵ֔ךְ
-    עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י נָגַע֙ בְּכַף יֶ֣רֶךְ יַעֲקֹ֔ב בְּגִ֖יד הַנָּשֶֽׁה
-- tradition: islam
-  ref: Quran 3:93
-  note: 'A food taboo of Israel (Jacob) before the Torah [divergence between the texts] (Gen 32:33 ʿal
-    kēn lōʾ yōʾkĕlû bĕnê yiśrāʾēl ʾet gîd ha-nnāšeh ... kî nāgaʿ bĕ-kap yerek yaʿăqōb: the sons of Israel
-    do not eat the sinew because the divine wrestler struck Jacob''s thigh, a custom ''to this day'';
-    Q 3:93 kullu ṭ-ṭaʿāmi kāna ḥillan li-banī isrāʾīla illā mā ḥarrama isrāʾīlu ʿalā nafsihi min qabli
-    an tunazzala t-tawrātu: all food was lawful to the Children of Israel except what Israel (Jacob) forbade
-    himself before the Torah. A pre-Sinai food taboo tied to Jacob/Israel in both; in Genesis it comes
-    from God''s touch and binds the descendants, in the Quran Israel imposes it on himself, and the point
-    is that the later Torah food laws were not original (fa-ʾtū bi-t-tawrāti fa-tlūhā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ
-    نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن كُنتُمْ
-    صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 32:33 ʿal kēn lōʾ yōʾkĕlû bĕnê yiśrāʾēl ʾet gîd ha-nnāšeh ... kî nāgaʿ bĕ-kap yerek
-    yaʿăqōb: the sons of Israel do not eat the sinew because the divine wrestler struck Jacob''s thigh,
-    a custom ''to this day''; Q 3:93 kullu ṭ-ṭaʿāmi kāna ḥillan li-banī isrāʾīla illā mā ḥarrama isrāʾīlu
-    ʿalā nafsihi min qabli an tunazzala t-tawrātu: all food was lawful to the Children of Israel except
-    what Israel (Jacob) forbade himself before the Torah. A pre-Sinai food taboo tied to Jacob/Israel
-    in both; in Genesis it comes from God''s touch and binds the descendants, in the Quran Israel imposes
-    it on himself, and the point is that the later Torah food laws were not original (fa-ʾtū bi-t-tawrāti
-    fa-tlūhā).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israelites do not eat the sciatic sinew (gid ha-nasheh) because
     of the wrestling (weight 6.7); A food taboo of Israel (Jacob) before the Torah [divergence between
@@ -102,6 +48,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A food taboo of Israel (Jacob) before the Torah
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-32-wrestling-at-jabbok
+  title: Jacob wrestles at the Jabbok and becomes Israel
+  tradition: judaism
+- id: quran-3-food-bakka
+  title: Israel's self-imposed food law and the House at Bakka
+  tradition: islam
+matches:
+- kind: divergence
+  label: A food taboo of Israel (Jacob) before the Torah
+  note: 'Gen 32:33 ʿal kēn lōʾ yōʾkĕlû bĕnê yiśrāʾēl ʾet gîd ha-nnāšeh ... kî nāgaʿ bĕ-kap yerek yaʿăqōb:
+    the sons of Israel do not eat the sinew because the divine wrestler struck Jacob''s thigh, a custom
+    ''to this day''; Q 3:93 kullu ṭ-ṭaʿāmi kāna ḥillan li-banī isrāʾīla illā mā ḥarrama isrāʾīlu ʿalā
+    nafsihi min qabli an tunazzala t-tawrātu: all food was lawful to the Children of Israel except what
+    Israel (Jacob) forbade himself before the Torah. A pre-Sinai food taboo tied to Jacob/Israel in both;
+    in Genesis it comes from God''s touch and binds the descendants, in the Quran Israel imposes it on
+    himself, and the point is that the later Torah food laws were not original (fa-ʾtū bi-t-tawrāti fa-tlūhā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 32:33
+      lang: he
+      text: עַל כֵּ֡ן לֹֽא יֹאכְל֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת גִּ֣יד הַנָּשֶׁ֗ה אֲשֶׁר֙ עַל כַּ֣ף הַיָּרֵ֔ךְ
+        עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י נָגַע֙ בְּכַף יֶ֣רֶךְ יַעֲקֹ֔ב בְּגִ֖יד הַנָּשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:93
+      lang: ar
+      text: كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ
+        نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن
+        كُنتُمْ صَٰدِقِينَ
+- kind: shared
+  label: Israelites do not eat the sciatic sinew (gid ha-nasheh) because of the wrestling
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 32:33
+      lang: he
+      text: עַל כֵּ֡ן לֹֽא יֹאכְל֨וּ בְנֵֽי יִשְׂרָאֵ֜ל אֶת גִּ֣יד הַנָּשֶׁ֗ה אֲשֶׁר֙ עַל כַּ֣ף הַיָּרֵ֔ךְ
+        עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י נָגַע֙ בְּכַף יֶ֣רֶךְ יַעֲקֹ֔ב בְּגִ֖יד הַנָּשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:93
+      lang: ar
+      text: كُلُّ ٱلطَّعَامِ كَانَ حِلًّا لِّبَنِىٓ إِسْرَٰٓءِيلَ إِلَّا مَا حَرَّمَ إِسْرَٰٓءِيلُ عَلَىٰ
+        نَفْسِهِۦ مِن قَبْلِ أَن تُنَزَّلَ ٱلتَّوْرَىٰةُ قُلْ فَأْتُوا۟ بِٱلتَّوْرَىٰةِ فَٱتْلُوهَآ إِن
+        كُنتُمْ صَٰدِقِينَ
+    note: what Israel forbade himself before the Torah
 ---
 
 ## Questions

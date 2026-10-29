@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-3-return-faithless-wife-vs-quran-2-oaths-divorce
 title: Can a divorced wife return? Faithless Israel, treacherous Judah ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 1 motifs: divorced wife who remarried may not return to her first husband.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,31 +13,9 @@ layers:
 - motif
 motifs:
 - no-remarriage-to-first-husband
-passages:
-- tradition: judaism
-  ref: Jer 3:1
-  note: Divorced wife who remarried may not return to her first husband (law of Deut 24:1-4 applied to
-    God and Israel, yet 'return to me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵאמֹ֡ר הֵ֣ן יְשַׁלַּ֣ח אִ֣ישׁ אֶת אִשְׁתּוֹ֩ וְהָלְכָ֨ה מֵאִתּ֜וֹ וְהָיְתָ֣ה לְאִישׁ אַחֵ֗ר הֲיָשׁ֤וּב
-    אֵלֶ֨יהָ֙ ע֔וֹד הֲל֛וֹא חָנ֥וֹף תֶּחֱנַ֖ף הָאָ֣רֶץ הַהִ֑יא וְאַ֗תְּ זָנִית֙ רֵעִ֣ים רַבִּ֔ים וְשׁ֥וֹב
-    אֵלַ֖י נְאֻם יְהֹוָֽה
-- tradition: islam
-  ref: Quran 2:230
-  note: 'Divorced wife who remarried may not return to her first husband (reversed: return to the first
-    husband is allowed only after another marriage)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ فَإِن طَلَّقَهَا
-    فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ وَتِلْكَ حُدُودُ
-    ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 3:1 hēn yĕšallaḥ ʾîš ʾet ʾištô wĕ-hālĕkâ mēʾittô wĕ-hāyĕtâ lĕ-ʾîš ʾaḥēr hă-yāšûb ʾēlêhā
-    ʿôd ... wĕ-šôb ʾēlay: Jeremiah cites the Deut 24 bar and then has God call the ''remarried'' wife
-    back anyway; Q 2:230 an yatarājaʿā: return after another marriage is lawful. Jeremiah''s exceptional
-    divine return is, in the Quran, the general rule.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divorced wife who remarried may not return to her first husband
     (weight 6.3). Pair score 6.3.'
@@ -72,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Divorced wife who remarried may not return to her first husband
+kinds:
+- echo
+units:
+- id: hb-jer-3-return-faithless-wife
+  title: Can a divorced wife return? Faithless Israel, treacherous Judah
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: echo
+  label: Divorced wife who remarried may not return to her first husband
+  note: 'Jer 3:1 hēn yĕšallaḥ ʾîš ʾet ʾištô wĕ-hālĕkâ mēʾittô wĕ-hāyĕtâ lĕ-ʾîš ʾaḥēr hă-yāšûb ʾēlêhā ʿôd
+    ... wĕ-šôb ʾēlay: Jeremiah cites the Deut 24 bar and then has God call the ''remarried'' wife back
+    anyway; Q 2:230 an yatarājaʿā: return after another marriage is lawful. Jeremiah''s exceptional divine
+    return is, in the Quran, the general rule.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 3:1
+      lang: he
+      text: לֵאמֹ֡ר הֵ֣ן יְשַׁלַּ֣ח אִ֣ישׁ אֶת אִשְׁתּוֹ֩ וְהָלְכָ֨ה מֵאִתּ֜וֹ וְהָיְתָ֣ה לְאִישׁ אַחֵ֗ר
+        הֲיָשׁ֤וּב אֵלֶ֨יהָ֙ ע֔וֹד הֲל֛וֹא חָנ֥וֹף תֶּחֱנַ֖ף הָאָ֣רֶץ הַהִ֑יא וְאַ֗תְּ זָנִית֙ רֵעִ֣ים
+        רַבִּ֔ים וְשׁ֥וֹב אֵלַ֖י נְאֻם יְהֹוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:230
+      lang: ar
+      text: فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ فَإِن طَلَّقَهَا
+        فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ وَتِلْكَ
+        حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍ يَعْلَمُونَ
 ---
 
 ## Questions

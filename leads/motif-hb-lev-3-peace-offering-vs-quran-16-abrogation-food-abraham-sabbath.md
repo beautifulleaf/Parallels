@@ -2,7 +2,7 @@
 id: motif-hb-lev-3-peace-offering-vs-quran-16-abrogation-food-abraham-sabbath
 title: The well-being (shelamim) offering and the ban on fat and blood ↔ Abrogation, the foreign teacher,
   coerced unbelief, food law, Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 1 motifs: eating blood is forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,24 +15,9 @@ layers:
 - motif
 motifs:
 - prohibition-of-eating-blood
-passages:
-- tradition: judaism
-  ref: Lev 3:17
-  note: Eating blood is forbidden
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
-- tradition: islam
-  ref: Quran 16:115
-  note: Eating blood is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ
-    ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ḥuqqat ʿôlām lədōrōtêkem ... kol-ḥēleb wəkol-dām lōʾ tōʾkēlû; Q keeps the blood (wa-d-dam)
-    but not the fat, which Q 6:146 assigns to the Jews alone.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 5.6). Pair score 5.6.'
   basis: reading
@@ -65,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eating blood is forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-3-peace-offering
+  title: The well-being (shelamim) offering and the ban on fat and blood
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Eating blood is forbidden
+  note: ḥuqqat ʿôlām lədōrōtêkem ... kol-ḥēleb wəkol-dām lōʾ tōʾkēlû; Q keeps the blood (wa-d-dam) but
+    not the fat, which Q 6:146 assigns to the Jews alone.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 3:17
+      lang: he
+      text: חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶ֑ם כָּל חֵ֥לֶב וְכָל דָּ֖ם לֹ֥א תֹאכֵֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:115
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ
+        ٱللَّهِ بِهِۦ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

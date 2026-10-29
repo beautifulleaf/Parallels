@@ -2,10 +2,7 @@
 id: motif-hb-isa-34-edom-and-lilith-vs-quran-81-folding-up
 title: 'Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins ↔ The folding
   up: twelve signs of the end and the messenger on the horizon'
-summary: 'These two units share 2 motifs: all the host of heaven rot away and the heavens roll up like
-  a scroll; their host falls like withered leaves from vine and fig [divergence between the texts], all
-  the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered leaves
-  from vine and fig.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,59 +15,9 @@ layers:
 motifs:
 - heavens-rolled-up-like-scroll-as-divergence
 - heavens-rolled-up-like-scroll
-passages:
-- tradition: judaism
-  ref: Isa 34:4
-  note: 'All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts] (Sky and scroll: Isa 34:4 we-nāgōllû
-    kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE a scroll). Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat
-    wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds) are spread open and the sky is stripped off. The
-    image is split: the sky is removed, the scroll is opened rather than rolled.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
-    כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
-- tradition: islam
-  ref: Quran 81:10
-  note: 'All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts] (Sky and scroll: Isa 34:4 we-nāgōllû
-    kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE a scroll). Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat
-    wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds) are spread open and the sky is stripped off. The
-    image is split: the sky is removed, the scroll is opened rather than rolled.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلصُّحُفُ نُشِرَتْ
-- tradition: islam
-  ref: Quran 81:11
-  note: 'All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
-    withered leaves from vine and fig [divergence between the texts] (Sky and scroll: Isa 34:4 we-nāgōllû
-    kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE a scroll). Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat
-    wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds) are spread open and the sky is stripped off. The
-    image is split: the sky is removed, the scroll is opened rather than rolled.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلسَّمَآءُ كُشِطَتْ
-- tradition: judaism
-  ref: Isa 34:4
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
-    כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
-- tradition: islam
-  ref: Quran 81:11
-  note: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like withered
-    leaves from vine and fig (the sky stripped away (kushitat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلسَّمَآءُ كُشِطَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Sky and scroll: Isa 34:4 we-nāgōllû kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE
-    a scroll). Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds)
-    are spread open and the sky is stripped off. The image is split: the sky is removed, the scroll is
-    opened rather than rolled.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: All the host of heaven rot away and the heavens roll up like a scroll;
     their host falls like withered leaves from vine and fig [divergence between the texts] (weight 6.7);
@@ -110,6 +57,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+  withered leaves from vine and fig
+kinds:
+- divergence
+units:
+- id: hb-isa-34-edom-and-lilith
+  title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+  tradition: judaism
+- id: quran-81-folding-up
+  title: 'The folding up: twelve signs of the end and the messenger on the horizon'
+  tradition: islam
+matches:
+- kind: divergence
+  label: All the host of heaven rot away and the heavens roll up like a scroll; their host falls like
+    withered leaves from vine and fig
+  note: 'Sky and scroll: Isa 34:4 we-nāgōllû kas-sēfer ha-ššāmāyim (the heavens are rolled up LIKE a scroll).
+    Q 81:10-11 wa-idhā ṣ-ṣuḥufu nushirat wa-idhā s-samāʾu kushiṭat: the scrolls (of deeds) are spread
+    open and the sky is stripped off. The image is split: the sky is removed, the scroll is opened rather
+    than rolled.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 34:4
+      lang: he
+      text: וְנָמַ֨קּוּ֙ כָּל צְבָ֣א הַשָּׁמַ֔יִם וְנָגֹ֥לּוּ כַסֵּ֖פֶר הַשָּׁמָ֑יִם וְכָל צְבָאָ֣ם יִבּ֔וֹל
+        כִּנְבֹ֤ל עָלֶה֙ מִגֶּ֔פֶן וּכְנֹבֶ֖לֶת מִתְּאֵנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 81:10
+      lang: ar
+      text: وَإِذَا ٱلصُّحُفُ نُشِرَتْ
+    - ref: Quran 81:11
+      lang: ar
+      text: وَإِذَا ٱلسَّمَآءُ كُشِطَتْ
 ---
 
 ## Questions

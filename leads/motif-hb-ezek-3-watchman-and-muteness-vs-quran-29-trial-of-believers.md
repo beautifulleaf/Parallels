@@ -2,8 +2,7 @@
 id: motif-hb-ezek-3-watchman-and-muteness-vs-quran-29-trial-of-believers
 title: Ezekiel appointed watchman; bound and struck dumb in his house ↔ Believers tested; parents and
   idolatry; the false offer to carry sins
-summary: 'These two units share 2 motifs: a righteous man who turns to iniquity dies and his former righteousness
-  is not remembered, each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,65 +15,9 @@ layers:
 motifs:
 - righteous-man-who-turns-to-evil-dies
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Ezek 3:20
-  note: A righteous man who turns to iniquity dies and his former righteousness is not remembered (God
-    places a stumbling block (mikhshol) before him)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙ וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת
-    כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ
-    מִיָּדְךָ֥ אֲבַקֵּֽשׁ
-- tradition: islam
-  ref: Quran 29:10
-  note: 'A righteous man who turns to iniquity dies and his former righteousness is not remembered (man
-    yaqūlu āmannā ... fa-idhā ūdhiya ... ~ û-və-šûv ṣaddîq miṣ-ṣidqô wə-ʿāśâ ʿāwel wə-nātattî mikhšôl
-    ləfānāyw: professed righteousness that gives way under a test God places (mikhšôl / fitna).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ
-    كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ
-    ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 29:11
-  note: 'A righteous man who turns to iniquity dies and his former righteousness is not remembered (man
-    yaqūlu āmannā ... fa-idhā ūdhiya ... ~ û-və-šûv ṣaddîq miṣ-ṣidqô wə-ʿāśâ ʿāwel wə-nātattî mikhšôl
-    ləfānāyw: professed righteousness that gives way under a test God places (mikhšôl / fitna).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ
-- tradition: judaism
-  ref: Ezek 3:18-21
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:18) בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר
-    רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥
-    אֲבַקֵּֽשׁ (3:19) וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה
-    ה֚וּא בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ (3:20) וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙
-    וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ
-    יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ (3:21) וְאַתָּ֞ה
-    כִּ֧י הִזְהַרְתּ֣וֹ צַדִּ֗יק לְבִלְתִּ֥י חֲטֹ֛א צַדִּ֖יק וְה֣וּא לֹא חָטָ֑א חָי֤וֹ יִֽחְיֶה֙ כִּ֣י
-    נִזְהָ֔ר וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
-- tradition: judaism
-  ref: Ezek 3:18
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר רָשָׁ֛ע
-    מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ
-- tradition: islam
-  ref: Quran 29:12
-  note: Each person dies for his own sin (the tempters cannot bear the sins of others)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
-    وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. man yaqūlu āmannā ... fa-idhā ūdhiya ... ~ û-və-šûv ṣaddîq miṣ-ṣidqô wə-ʿāśâ ʿāwel wə-nātattî
-    mikhšôl ləfānāyw: professed righteousness that gives way under a test God places (mikhšôl / fitna).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A righteous man who turns to iniquity dies and his former righteousness
     is not remembered (weight 6.7); Each person dies for his own sin (weight 5.0). Pair score 11.7.'
@@ -107,6 +50,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A righteous man who turns to iniquity dies and his former righteousness is not remembered
+kinds:
+- echo
+- shared
+units:
+- id: hb-ezek-3-watchman-and-muteness
+  title: Ezekiel appointed watchman; bound and struck dumb in his house
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: echo
+  label: A righteous man who turns to iniquity dies and his former righteousness is not remembered
+  note: 'man yaqūlu āmannā ... fa-idhā ūdhiya ... ~ û-və-šûv ṣaddîq miṣ-ṣidqô wə-ʿāśâ ʿāwel wə-nātattî
+    mikhšôl ləfānāyw: professed righteousness that gives way under a test God places (mikhšôl / fitna).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:20
+      lang: he
+      text: וּבְשׁ֨וּב צַדִּ֤יק מִצִּדְקוֹ֙ וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת
+        כִּ֣י לֹ֤א הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה
+        וְדָמ֖וֹ מִיָּדְךָ֥ אֲבַקֵּֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:10
+      lang: ar
+      text: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ
+        ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ
+        أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ
+    - ref: Quran 29:11
+      lang: ar
+      text: وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ
+- kind: shared
+  label: Each person dies for his own sin
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:18-21
+      lang: he
+      text: (3:18) בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר
+        רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥
+        אֲבַקֵּֽשׁ (3:19) וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ
+        הָרְשָׁעָ֑ה ה֚וּא בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ (3:20) וּבְשׁ֨וּב
+        צַדִּ֤יק מִצִּדְקוֹ֙ וְעָ֣שָׂה עָ֔וֶל וְנָתַתִּ֥י מִכְשׁ֛וֹל לְפָנָ֖יו ה֣וּא יָמ֑וּת כִּ֣י לֹ֤א
+        הִזְהַרְתּוֹ֙ בְּחַטָּאת֣וֹ יָמ֔וּת וְלֹ֣א תִזָּכַ֗רְןָ צִדְקֹתָו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְדָמ֖וֹ מִיָּדְךָ֥
+        אֲבַקֵּֽשׁ (3:21) וְאַתָּ֞ה כִּ֧י הִזְהַרְתּ֣וֹ צַדִּ֗יק לְבִלְתִּ֥י חֲטֹ֛א צַדִּ֖יק וְה֣וּא לֹא
+        חָטָ֑א חָי֤וֹ יִֽחְיֶה֙ כִּ֣י נִזְהָ֔ר וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
+    - ref: Ezek 3:18
+      lang: he
+      text: בְּאָמְרִ֤י לָֽרָשָׁע֙ מ֣וֹת תָּמ֔וּת וְלֹ֣א הִזְהַרְתּ֗וֹ וְלֹ֥א דִבַּ֛רְתָּ לְהַזְהִ֥יר
+        רָשָׁ֛ע מִדַּרְכּ֥וֹ הָרְשָׁעָ֖ה לְחַיֹּת֑וֹ ה֤וּא רָשָׁע֙ בַּעֲוֺנ֣וֹ יָמ֔וּת וְדָמ֖וֹ מִיָּדְךָ֥
+        אֲבַקֵּֽשׁ
+    - ref: Ezek 3:19
+      lang: he
+      text: וְאַתָּה֙ כִּֽי הִזְהַ֣רְתָּ רָשָׁ֔ע וְלֹא שָׁב֙ מֵֽרִשְׁע֔וֹ וּמִדַּרְכּ֖וֹ הָרְשָׁעָ֑ה ה֚וּא
+        בַּעֲוֺנ֣וֹ יָמ֔וּת וְאַתָּ֖ה אֶֽת נַפְשְׁךָ֥ הִצַּֽלְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:12
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لِلَّذِينَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِيلَنَا وَلْنَحْمِلْ خَطَٰيَٰكُمْ
+        وَمَا هُم بِحَٰمِلِينَ مِنْ خَطَٰيَٰهُم مِّن شَىْءٍ إِنَّهُمْ لَكَٰذِبُونَ
+    note: the tempters cannot bear the sins of others
 ---
 
 ## Questions

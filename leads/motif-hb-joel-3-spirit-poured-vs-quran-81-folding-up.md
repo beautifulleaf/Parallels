@@ -2,7 +2,7 @@
 id: motif-hb-joel-3-spirit-poured-vs-quran-81-folding-up
 title: 'The spirit poured on all flesh and signs before the Day ↔ The folding up: twelve signs of the
   end and the messenger on the horizon'
-summary: 'These two units share 1 motifs: sun and moon are darkened and the stars withdraw their shining.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - sun-moon-darkened-stars-withdraw
-passages:
-- tradition: judaism
-  ref: Joel 3:4
-  note: Sun and moon are darkened and the stars withdraw their shining (idhā sh-shamsu kuwwirat wa-idhā
-    n-nujūmu nkadarat ~ ha-ššemeš yēhāfēk le-ḥōšek we-ha-yyārēaḥ le-dām. kadara (grow dim) ~ qādar of
-    Joel 2:10.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ וְהַיָּרֵ֖חַ לְדָ֑ם לִפְנֵ֗י בּ֚וֹא י֣וֹם יְהוָ֔ה הַגָּד֖וֹל
-    וְהַנּוֹרָֽא
-- tradition: islam
-  ref: Quran 81:1
-  note: Sun and moon are darkened and the stars withdraw their shining (the sun wrapped up (kuwwirat),
-    the stars dimmed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذَا ٱلشَّمْسُ كُوِّرَتْ
-- tradition: islam
-  ref: Quran 81:2
-  note: Sun and moon are darkened and the stars withdraw their shining (the sun wrapped up (kuwwirat),
-    the stars dimmed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. idhā sh-shamsu kuwwirat wa-idhā n-nujūmu nkadarat ~ ha-ššemeš yēhāfēk le-ḥōšek we-ha-yyārēaḥ
-    le-dām. kadara (grow dim) ~ qādar of Joel 2:10.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
     5.8). Pair score 5.8.'
@@ -77,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are darkened and the stars withdraw their shining
+kinds:
+- parallel
+units:
+- id: hb-joel-3-spirit-poured
+  title: The spirit poured on all flesh and signs before the Day
+  tradition: judaism
+- id: quran-81-folding-up
+  title: 'The folding up: twelve signs of the end and the messenger on the horizon'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon are darkened and the stars withdraw their shining
+  note: idhā sh-shamsu kuwwirat wa-idhā n-nujūmu nkadarat ~ ha-ššemeš yēhāfēk le-ḥōšek we-ha-yyārēaḥ le-dām.
+    kadara (grow dim) ~ qādar of Joel 2:10.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 3:4
+      lang: he
+      text: הַשֶּׁ֨מֶשׁ֙ יֵהָפֵ֣ךְ לְחֹ֔שֶׁךְ וְהַיָּרֵ֖חַ לְדָ֑ם לִפְנֵ֗י בּ֚וֹא י֣וֹם יְהוָ֔ה הַגָּד֖וֹל
+        וְהַנּוֹרָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 81:1
+      lang: ar
+      text: إِذَا ٱلشَّمْسُ كُوِّرَتْ
+    - ref: Quran 81:2
+      lang: ar
+      text: وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ
 ---
 
 ## Questions

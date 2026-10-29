@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-27-is-there-a-god-with-god
 title: The Song of Moses (Ha'azinu) ↔ The litany 'Is there a god with God?' and the unseen
-summary: 'These two units share 2 motifs: litany of signs each ending ''is there a god with god?'', declaration
-  that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,64 +15,9 @@ layers:
 motifs:
 - is-there-a-god-with-god-litany
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: 'Litany of signs each ending ''Is there a god with God?'' (a-ilāhun maʿa llāhi ~ wə-ʾên ʾĕlōhîm
-    ʿimmādî: ''a god with God'' answered by ''there is no god with me'' (maʿa ~ ʿim). Deut states it once
-    in God''s voice; the Quran asks it five times as a refrain after each sign.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 27:60
-  note: Litany of signs each ending 'Is there a god with God?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
-    بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
-    بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
-- tradition: islam
-  ref: Quran 27:61
-  note: Litany of signs each ending 'Is there a god with God?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ وَجَعَلَ
-    بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Deut 32:39
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 27:60
-  note: 'Declaration that YHWH is God and there is no other besides him (a-ilāhun maʿa llāhi ... qul hātū
-    burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday:
-    the rhetorical ''is there a god besides / with God?'', set in a trial (Isaiah''s witnesses, the Quran''s
-    ''bring your proof'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
-    بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
-    بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
-- tradition: islam
-  ref: Quran 27:64
-  note: 'Declaration that YHWH is God and there is no other besides him (a-ilāhun maʿa llāhi ... qul hātū
-    burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday:
-    the rhetorical ''is there a god besides / with God?'', set in a trial (Isaiah''s witnesses, the Quran''s
-    ''bring your proof'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَءِلَٰهٌ
-    مَّعَ ٱللَّهِ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. a-ilāhun maʿa llāhi ~ wə-ʾên ʾĕlōhîm ʿimmādî: ''a god with God'' answered by ''there is
-    no god with me'' (maʿa ~ ʿim). Deut states it once in God''s voice; the Quran asks it five times as
-    a refrain after each sign.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of signs each ending ''Is there a god with God?'' (weight
     6.7); Declaration that YHWH is God and there is no other besides him (weight 5.1). Pair score 11.8.'
@@ -107,6 +51,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Litany of signs each ending 'Is there a god with God?'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: parallel
+  label: Litany of signs each ending 'Is there a god with God?'
+  note: 'a-ilāhun maʿa llāhi ~ wə-ʾên ʾĕlōhîm ʿimmādî: ''a god with God'' answered by ''there is no god
+    with me'' (maʿa ~ ʿim). Deut states it once in God''s voice; the Quran asks it five times as a refrain
+    after each sign.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 27:60
+      lang: ar
+      text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
+        بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
+        بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
+    - ref: Quran 27:61
+      lang: ar
+      text: أَمَّن جَعَلَ ٱلْأَرْضَ قَرَارًا وَجَعَلَ خِلَٰلَهَآ أَنْهَٰرًا وَجَعَلَ لَهَا رَوَٰسِىَ
+        وَجَعَلَ بَيْنَ ٱلْبَحْرَيْنِ حَاجِزًا أَءِلَٰهٌ مَّعَ ٱللَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ
+    - ref: Quran 27:62
+      lang: ar
+      text: أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ
+        أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ
+- kind: shared
+  label: Declaration that YHWH is God and there is no other besides him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 27:60
+      lang: ar
+      text: أَمَّنْ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَأَنزَلَ لَكُم مِّنَ ٱلسَّمَآءِ مَآءً فَأَنۢبَتْنَا
+        بِهِۦ حَدَآئِقَ ذَاتَ بَهْجَةٍ مَّا كَانَ لَكُمْ أَن تُنۢبِتُوا۟ شَجَرَهَآ أَءِلَٰهٌ مَّعَ ٱللَّهِ
+        بَلْ هُمْ قَوْمٌ يَعْدِلُونَ
+    - ref: Quran 27:64
+      lang: ar
+      text: أَمَّن يَبْدَؤُا۟ ٱلْخَلْقَ ثُمَّ يُعِيدُهُۥ وَمَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ
+        أَءِلَٰهٌ مَّعَ ٱللَّهِ قُلْ هَاتُوا۟ بُرْهَٰنَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+    note: 'a-ilāhun maʿa llāhi ... qul hātū burhānakum in kuntum ṣādiqīna ~ ha-yēš ʾĕlôah mibbalʿāday
+      wə-ʾên ṣûr bal yādāʿtî ... wə-ʾattem ʿēday: the rhetorical ''is there a god besides / with God?'',
+      set in a trial (Isaiah''s witnesses, the Quran''s ''bring your proof'').'
 ---
 
 ## Questions

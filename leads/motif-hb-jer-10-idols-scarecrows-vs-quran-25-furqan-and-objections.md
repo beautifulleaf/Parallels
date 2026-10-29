@@ -2,8 +2,7 @@
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-25-furqan-and-objections
 title: Idols like scarecrows in a cucumber field ↔ The Criterion sent down; charges of forgery and the
   prophet who eats in markets
-summary: 'These two units share 2 motifs: worshipping what can neither harm nor benefit you, the made
-  idol cannot move from its place, speak or answer and save those who cry to it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,54 +16,9 @@ layers:
 motifs:
 - idols-neither-harm-nor-benefit
 - idol-cannot-move-or-answer
-passages:
-- tradition: judaism
-  ref: Jer 10:5
-  note: 'Worshipping what can neither harm nor benefit you (Q: a-taʿbudūna min dūni llāhi mā lā yamliku
-    lakum ḍarran wa-lā nafʿan. Jer: ʾal-tîrʾû mēhem kî-lōʾ yārēʿû wə-gam-hêṭêv ʾên ʾôtām. The same pair,
-    harm and good. Q turns it against worship of the Messiah and his mother.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: judaism
-  ref: Jer 10:3
-  note: 'Worshipping what can neither harm nor benefit you (Q: a-taʿbudūna min dūni llāhi mā lā yamliku
-    lakum ḍarran wa-lā nafʿan. Jer: ʾal-tîrʾû mēhem kî-lōʾ yārēʿû wə-gam-hêṭêv ʾên ʾôtām. The same pair,
-    harm and good. Q turns it against worship of the Messiah and his mother.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי חֻקּ֥וֹת הָֽעַמִּ֖ים הֶ֣בֶל ה֑וּא כִּֽי עֵץ֙ מִיַּ֣עַר כְּרָת֔וֹ מַעֲשֵׂ֥ה יְדֵ֥י חָרָ֖שׁ
-    בַּֽמַּעֲצָֽד
-- tradition: islam
-  ref: Quran 25:3
-  note: 'Worshipping what can neither harm nor benefit you (wa-hum yukhlaqūna wa-lā yamlikūna li-anfusihim
-    ḍarran wa-lā nafʿan ~ maʿăśê yədê ḥārāš ... kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: idols are things
-    made, which can neither harm nor help.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
-    لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
-- tradition: judaism
-  ref: Jer 10:5
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it ('they
-    can do neither evil nor good')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 25:3
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it (they create
-    nothing and are themselves created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
-    لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-hum yukhlaqūna wa-lā yamlikūna li-anfusihim ḍarran wa-lā nafʿan ~ maʿăśê yədê ḥārāš ...
-    kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: idols are things made, which can neither harm nor help.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
     The made idol cannot move from its place, speak or answer and save those who cry to it (weight 5.4).
@@ -98,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Worshipping what can neither harm nor benefit you
+kinds:
+- parallel
+- shared
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-25-furqan-and-objections
+  title: The Criterion sent down; charges of forgery and the prophet who eats in markets
+  tradition: islam
+matches:
+- kind: parallel
+  label: Worshipping what can neither harm nor benefit you
+  note: 'wa-hum yukhlaqūna wa-lā yamlikūna li-anfusihim ḍarran wa-lā nafʿan ~ maʿăśê yədê ḥārāš ... kî
+    lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: idols are things made, which can neither harm nor help.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:3
+      lang: he
+      text: כִּֽי חֻקּ֥וֹת הָֽעַמִּ֖ים הֶ֣בֶל ה֑וּא כִּֽי עֵץ֙ מִיַּ֣עַר כְּרָת֔וֹ מַעֲשֵׂ֥ה יְדֵ֥י חָרָ֖שׁ
+        בַּֽמַּעֲצָֽד
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 25:3
+      lang: ar
+      text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
+        لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
+- kind: shared
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+    note: '''they can do neither evil nor good'''
+  - tradition: islam
+    passages:
+    - ref: Quran 25:3
+      lang: ar
+      text: وَٱتَّخَذُوا۟ مِن دُونِهِۦٓ ءَالِهَةً لَّا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ وَلَا يَمْلِكُونَ
+        لِأَنفُسِهِمْ ضَرًّا وَلَا نَفْعًا وَلَا يَمْلِكُونَ مَوْتًا وَلَا حَيَوٰةً وَلَا نُشُورًا
+    note: they create nothing and are themselves created
 ---
 
 ## Questions

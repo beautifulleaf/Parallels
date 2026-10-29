@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-20-rules-of-war-vs-quran-8-badr-help
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Badr - angels, slumber, rain and God''s throw'
-summary: 'These two units share 2 motifs: ruling on soldiers who fear battle [contrast between the texts],
-  priest addresses the army before battle: do not fear, god fights for you.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,83 +14,14 @@ traditions:
 layers:
 - motif
 motifs:
-- fearful-soldiers-in-battle-as-contrast
 - priest-addresses-army
-passages:
-- tradition: judaism
-  ref: Deut 20:8
-  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
-    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
-    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
-    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
-    except to manoeuvre or join another unit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
-    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
-- tradition: islam
-  ref: Quran 8:15
-  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
-    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
-    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
-    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
-    except to manoeuvre or join another unit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ زَحْفًا فَلَا تُوَلُّوهُمُ
-    ٱلْأَدْبَارَ
-- tradition: islam
-  ref: Quran 8:16
-  note: 'Ruling on soldiers who fear battle [contrast between the texts] (Opposite rulings on the fearful
-    soldier: Deut sends him home before the battle so he does not melt his brothers'' hearts (mî-hāʾîš
-    hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning one''s back once the ranks meet,
-    on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh),
-    except to manoeuvre or join another unit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ
-    فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ
-- tradition: judaism
-  ref: Deut 20:2
-  note: 'Priest addresses the army before battle: do not fear, God fights for you'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֕ה כְּקָֽרָבְכֶ֖ם אֶל הַמִּלְחָמָ֑ה וְנִגַּ֥שׁ הַכֹּהֵ֖ן וְדִבֶּ֥ר אֶל הָעָֽם
-- tradition: judaism
-  ref: Deut 20:3
-  note: 'Priest addresses the army before battle: do not fear, God fights for you'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַ֤ר אֲלֵהֶם֙ שְׁמַ֣ע יִשְׂרָאֵ֔ל אַתֶּ֨ם קְרֵבִ֥ים הַיּ֛וֹם לַמִּלְחָמָ֖ה עַל אֹיְבֵיכֶ֑ם
-    אַל יֵרַ֣ךְ לְבַבְכֶ֗ם אַל תִּֽירְא֧וּ וְאַֽל תַּחְפְּז֛וּ וְאַל תַּֽעַרְצ֖וּ מִפְּנֵיהֶֽם
-- tradition: islam
-  ref: Quran 8:19
-  note: 'Priest addresses the army before battle: do not fear, God fights for you (''God is with the believers'';
-    your numbers will not avail)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ وَإِن تَعُودُوا۟
-    نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ ٱلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 8:12
-  note: 'Priest addresses the army before battle: do not fear, God fights for you (''God is with the believers'';
-    your numbers will not avail)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟ سَأُلْقِى
-    فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟ مِنْهُمْ كُلَّ
-    بَنَانٍ
+- fearful-soldiers-in-battle-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast, parallel. Assurance before battle that God is with the fighters: annī maʿakum fa-thabbitū
-    lladhīna āmanū; wa-anna llāha maʿa l-muʾminīn vs ʾal-yērak lᵉbabkem ʾal-tîrʾû ... kî YHWH ʾĕlōhêkem
-    hahōlēk ʿimmākem lᵉhillāḥēm lākem. Opposite rulings on the fearful soldier: Deut sends him home before
-    the battle so he does not melt his brothers'' hearts (mî-hāʾîš hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb
-    lᵉbêtô); Q forbids turning one''s back once the ranks meet, on pain of God''s wrath and hell (fa-lā
-    tuwallūhumu l-adbāra ... fa-qad bāʾa bi-ghaḍabin mina llāh), except to manoeuvre or join another unit.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Ruling on soldiers who fear battle [contrast between the texts]
-    (weight 6.7); Priest addresses the army before battle: do not fear, God fights for you (weight 6.7).
+- text: 'Shared motifs, rarest first: Priest addresses the army before battle: do not fear, God fights
+    for you (weight 6.7); Ruling on soldiers who fear battle [contrast between the texts] (weight 6.7).
     Pair score 13.4.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
@@ -125,6 +55,69 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ruling on soldiers who fear battle
+kinds:
+- contrast
+- parallel
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-8-badr-help
+  title: Badr - angels, slumber, rain and God's throw
+  tradition: islam
+matches:
+- kind: contrast
+  label: Ruling on soldiers who fear battle
+  note: 'Opposite rulings on the fearful soldier: Deut sends him home before the battle so he does not
+    melt his brothers'' hearts (mî-hāʾîš hayyārēʾ wᵉrak hallēbāb yēlēk wᵉyāšōb lᵉbêtô); Q forbids turning
+    one''s back once the ranks meet, on pain of God''s wrath and hell (fa-lā tuwallūhumu l-adbāra ...
+    fa-qad bāʾa bi-ghaḍabin mina llāh), except to manoeuvre or join another unit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:8
+      lang: he
+      text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
+        יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:15
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ زَحْفًا فَلَا تُوَلُّوهُمُ
+        ٱلْأَدْبَارَ
+    - ref: Quran 8:16
+      lang: ar
+      text: وَمَن يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفًا لِّقِتَالٍ أَوْ مُتَحَيِّزًا إِلَىٰ
+        فِئَةٍ فَقَدْ بَآءَ بِغَضَبٍ مِّنَ ٱللَّهِ وَمَأْوَىٰهُ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ
+- kind: parallel
+  label: 'Priest addresses the army before battle: do not fear, God fights for you'
+  note: 'Assurance before battle that God is with the fighters: annī maʿakum fa-thabbitū lladhīna āmanū;
+    wa-anna llāha maʿa l-muʾminīn vs ʾal-yērak lᵉbabkem ʾal-tîrʾû ... kî YHWH ʾĕlōhêkem hahōlēk ʿimmākem
+    lᵉhillāḥēm lākem.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:3
+      lang: he
+      text: וְאָמַ֤ר אֲלֵהֶם֙ שְׁמַ֣ע יִשְׂרָאֵ֔ל אַתֶּ֨ם קְרֵבִ֥ים הַיּ֛וֹם לַמִּלְחָמָ֖ה עַל אֹיְבֵיכֶ֑ם
+        אַל יֵרַ֣ךְ לְבַבְכֶ֗ם אַל תִּֽירְא֧וּ וְאַֽל תַּחְפְּז֛וּ וְאַל תַּֽעַרְצ֖וּ מִפְּנֵיהֶֽם
+    - ref: Deut 20:4
+      lang: he
+      text: כִּ֚י יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם הַהֹלֵ֖ךְ עִמָּכֶ֑ם לְהִלָּחֵ֥ם לָכֶ֛ם עִם אֹיְבֵיכֶ֖ם לְהוֹשִׁ֥יעַ
+        אֶתְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:12
+      lang: ar
+      text: إِذْ يُوحِى رَبُّكَ إِلَى ٱلْمَلَٰٓئِكَةِ أَنِّى مَعَكُمْ فَثَبِّتُوا۟ ٱلَّذِينَ ءَامَنُوا۟
+        سَأُلْقِى فِى قُلُوبِ ٱلَّذِينَ كَفَرُوا۟ ٱلرُّعْبَ فَٱضْرِبُوا۟ فَوْقَ ٱلْأَعْنَاقِ وَٱضْرِبُوا۟
+        مِنْهُمْ كُلَّ بَنَانٍ
+    - ref: Quran 8:19
+      lang: ar
+      text: إِن تَسْتَفْتِحُوا۟ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ وَإِن تَنتَهُوا۟ فَهُوَ خَيْرٌ لَّكُمْ وَإِن
+        تَعُودُوا۟ نَعُدْ وَلَن تُغْنِىَ عَنكُمْ فِئَتُكُمْ شَيْـًٔا وَلَوْ كَثُرَتْ وَأَنَّ ٱللَّهَ مَعَ
+        ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

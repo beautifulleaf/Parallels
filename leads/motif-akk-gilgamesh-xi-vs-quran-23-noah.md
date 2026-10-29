@@ -1,8 +1,7 @@
 ---
 id: motif-akk-gilgamesh-xi-vs-quran-23-noah
 title: Utnapishtim's flood (Gilgamesh, Tablet XI) ↔ Noah called a madman; the ark and the boiling oven
-summary: 'These two units share 2 motifs: hero builds a vessel on divine instruction, hero''s family saved
-  with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,29 +15,7 @@ layers:
 motifs:
 - build-vessel-on-instruction
 - family-saved
-passages:
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Hero builds a vessel on divine instruction
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero builds a vessel on divine instruction ('make the ark under our eyes and our revelation')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Hero's family saved with him
-- tradition: islam
-  ref: Quran 23:27
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero builds a vessel on divine instruction (weight 5.2); Hero''s
     family saved with him (weight 4.5). Pair score 9.7.'
@@ -49,6 +26,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero builds a vessel on divine instruction
+kinds:
+- shared
+units:
+- id: akk-gilgamesh-xi
+  title: Utnapishtim's flood (Gilgamesh, Tablet XI)
+  tradition: ane-akkadian
+- id: quran-23-noah
+  title: Noah called a madman; the ark and the boiling oven
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero builds a vessel on divine instruction
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+    note: '''make the ark under our eyes and our revelation'''
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
 ---
 
 ## Questions

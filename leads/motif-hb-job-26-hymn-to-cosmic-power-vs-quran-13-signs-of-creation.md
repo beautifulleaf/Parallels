@@ -2,9 +2,7 @@
 id: motif-hb-job-26-hymn-to-cosmic-power-vs-quran-13-signs-of-creation
 title: Job - the earth hung on nothing; Rahab smitten ↔ The signs of creation, thunder and the parable
   of the foam (Surah 13:1-17)
-summary: 'These two units share 2 motifs: god raised the heavens without pillars that you can see [divergence
-  between the texts], after creating the heavens and earth god established himself on the throne (istawa
-  ''ala l-''arsh).'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,68 +15,9 @@ layers:
 motifs:
 - heavens-raised-without-pillars-as-divergence
 - god-established-on-throne
-passages:
-- tradition: judaism
-  ref: Job 26:7
-  note: 'God raised the heavens without pillars that you can see [divergence between the texts] (Job:
-    the earth hangs on nothing (tōleh ʾereṣ ʿal-bəlî-māh), but the heavens have pillars, ʿammûdê šāmayim
-    yərôpāpû. Q: rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā, the heavens raised without (visible) pillars.
-    Q denies to the sky what Job grants it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹטֶ֣ה צָפ֣וֹן עַל תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל בְּלִי מָֽה
-- tradition: judaism
-  ref: Job 26:11
-  note: 'God raised the heavens without pillars that you can see [divergence between the texts] (Job:
-    the earth hangs on nothing (tōleh ʾereṣ ʿal-bəlî-māh), but the heavens have pillars, ʿammûdê šāmayim
-    yərôpāpû. Q: rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā, the heavens raised without (visible) pillars.
-    Q denies to the sky what Job grants it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַמּוּדֵ֣י שָׁמַ֣יִם יְרוֹפָ֑פוּ וְ֝יִתְמְה֗וּ מִגַּעֲרָתֽוֹ
-- tradition: islam
-  ref: Quran 13:2
-  note: 'God raised the heavens without pillars that you can see [divergence between the texts] (Job:
-    the earth hangs on nothing (tōleh ʾereṣ ʿal-bəlî-māh), but the heavens have pillars, ʿammûdê šāmayim
-    yərôpāpû. Q: rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā, the heavens raised without (visible) pillars.
-    Q denies to the sky what Job grants it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
-    وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ
-    لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
-- tradition: judaism
-  ref: Job 26:7
-  note: 'After creating the heavens and earth God established himself on the Throne (istawa ''ala l-''arsh)
-    (nōṭeh ṣāpôn ʿal-tōhû ... məʾaḥēz pənê-kissēh paršēz ʿālāyw ʿănānô; mimman khalaqa l-arḍa wa-s-samāwāti
-    l-ʿulā ar-Raḥmānu ʿalā l-ʿarshi stawā: the creator of earth and heaven and his throne (kissēʾ / ʿarsh).
-    Job''s throne is veiled in cloud; Q''s Raḥmān is ''established'' on it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹטֶ֣ה צָפ֣וֹן עַל תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל בְּלִי מָֽה
-- tradition: judaism
-  ref: Job 26:9
-  note: 'After creating the heavens and earth God established himself on the Throne (istawa ''ala l-''arsh)
-    (nōṭeh ṣāpôn ʿal-tōhû ... məʾaḥēz pənê-kissēh paršēz ʿālāyw ʿănānô; mimman khalaqa l-arḍa wa-s-samāwāti
-    l-ʿulā ar-Raḥmānu ʿalā l-ʿarshi stawā: the creator of earth and heaven and his throne (kissēʾ / ʿarsh).
-    Job''s throne is veiled in cloud; Q''s Raḥmān is ''established'' on it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מְאַחֵ֥ז פְּנֵי כִסֵּ֑ה פַּרְשֵׁ֖ז עָלָ֣יו עֲנָנֽוֹ
-- tradition: islam
-  ref: Quran 13:2
-  note: After creating the heavens and earth God established himself on the Throne (istawa 'ala l-'arsh)
-    (thumma stawā ʿalā l-ʿarsh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
-    وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ
-    لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Job: the earth hangs on nothing (tōleh ʾereṣ ʿal-bəlî-māh), but the heavens have pillars,
-    ʿammûdê šāmayim yərôpāpû. Q: rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā, the heavens raised without
-    (visible) pillars. Q denies to the sky what Job grants it.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God raised the heavens without pillars that you can see [divergence
     between the texts] (weight 6.7); After creating the heavens and earth God established himself on the
@@ -113,6 +52,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God raised the heavens without pillars that you can see
+kinds:
+- divergence
+- shared
+units:
+- id: hb-job-26-hymn-to-cosmic-power
+  title: Job - the earth hung on nothing; Rahab smitten
+  tradition: judaism
+- id: quran-13-signs-of-creation
+  title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+  tradition: islam
+matches:
+- kind: divergence
+  label: God raised the heavens without pillars that you can see
+  note: 'Job: the earth hangs on nothing (tōleh ʾereṣ ʿal-bəlî-māh), but the heavens have pillars, ʿammûdê
+    šāmayim yərôpāpû. Q: rafaʿa s-samāwāti bi-ghayri ʿamadin tarawnahā, the heavens raised without (visible)
+    pillars. Q denies to the sky what Job grants it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 26:7
+      lang: he
+      text: נֹטֶ֣ה צָפ֣וֹן עַל תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל בְּלִי מָֽה
+    - ref: Job 26:11
+      lang: he
+      text: עַמּוּדֵ֣י שָׁמַ֣יִם יְרוֹפָ֑פוּ וְ֝יִתְמְה֗וּ מִגַּעֲרָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 13:2
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
+        وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ
+        ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+- kind: shared
+  label: After creating the heavens and earth God established himself on the Throne (istawa 'ala l-'arsh)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 26:7
+      lang: he
+      text: נֹטֶ֣ה צָפ֣וֹן עַל תֹּ֑הוּ תֹּ֥לֶה אֶ֝֗רֶץ עַל בְּלִי מָֽה
+    - ref: Job 26:9
+      lang: he
+      text: מְאַחֵ֥ז פְּנֵי כִסֵּ֑ה פַּרְשֵׁ֖ז עָלָ֣יו עֲנָנֽוֹ
+    note: 'nōṭeh ṣāpôn ʿal-tōhû ... məʾaḥēz pənê-kissēh paršēz ʿālāyw ʿănānô; mimman khalaqa l-arḍa wa-s-samāwāti
+      l-ʿulā ar-Raḥmānu ʿalā l-ʿarshi stawā: the creator of earth and heaven and his throne (kissēʾ /
+      ʿarsh). Job''s throne is veiled in cloud; Q''s Raḥmān is ''established'' on it.'
+  - tradition: islam
+    passages:
+    - ref: Quran 13:2
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
+        وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ
+        ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+    note: thumma stawā ʿalā l-ʿarsh
 ---
 
 ## Questions

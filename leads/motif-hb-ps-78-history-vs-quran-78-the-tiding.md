@@ -2,9 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-78-the-tiding
 title: 'Psalm 78, Asaph''s historical recital from Egypt to David ↔ The great tiding: signs of creation
   and the day of sorting'
-summary: 'These two units share 2 motifs: god commanded the skies and opened the doors (or windows) of
-  heaven, god commanded the skies and opened the doors (or windows) of heaven [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- doors-of-heaven-opened
 - doors-of-heaven-opened-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 78:23
-  note: God commanded the skies and opened the doors (or windows) of heaven (ve-daltei shamayim patah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח
-- tradition: islam
-  ref: Quran 78:19
-  note: God commanded the skies and opened the doors (or windows) of heaven (the sky opened and became
-    gates)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا
-- tradition: judaism
-  ref: Ps 78:23
-  note: God commanded the skies and opened the doors (or windows) of heaven [divergence between the texts]
-    (wa-futiḥati s-samāʾu fa-kānat abwāban ~ wa-yeṣaw šeḥāqîm mi-mmāʿal we-daltê šāmayim pātāḥ. The doors
-    of heaven open; in the Psalm to rain manna on Israel, in the Quran as a sign of the end.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח
-- tradition: islam
-  ref: Quran 78:19
-  note: God commanded the skies and opened the doors (or windows) of heaven [divergence between the texts]
-    (wa-futiḥati s-samāʾu fa-kānat abwāban ~ wa-yeṣaw šeḥāqîm mi-mmāʿal we-daltê šāmayim pātāḥ. The doors
-    of heaven open; in the Psalm to rain manna on Israel, in the Quran as a sign of the end.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا
+- doors-of-heaven-opened
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. wa-futiḥati s-samāʾu fa-kānat abwāban ~ wa-yeṣaw šeḥāqîm mi-mmāʿal we-daltê šāmayim pātāḥ.
-    The doors of heaven open; in the Psalm to rain manna on Israel, in the Quran as a sign of the end.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God commanded the skies and opened the doors (or windows) of heaven
-    (weight 6.7); God commanded the skies and opened the doors (or windows) of heaven [divergence between
-    the texts] (weight 6.7). Pair score 13.4.'
+    [divergence between the texts] (weight 6.7); God commanded the skies and opened the doors (or windows)
+    of heaven (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -88,6 +55,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God commanded the skies and opened the doors (or windows) of heaven
+kinds:
+- divergence
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-78-the-tiding
+  title: 'The great tiding: signs of creation and the day of sorting'
+  tradition: islam
+matches:
+- kind: divergence
+  label: God commanded the skies and opened the doors (or windows) of heaven
+  note: wa-futiḥati s-samāʾu fa-kānat abwāban ~ wa-yeṣaw šeḥāqîm mi-mmāʿal we-daltê šāmayim pātāḥ. The
+    doors of heaven open; in the Psalm to rain manna on Israel, in the Quran as a sign of the end.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:23
+      lang: he
+      text: וַיְצַ֣ו שְׁחָקִ֣ים מִמָּ֑עַל וְדַלְתֵ֖י שָׁמַ֣יִם פָּתָֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 78:19
+      lang: ar
+      text: وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا
 ---
 
 ## Questions

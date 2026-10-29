@@ -2,8 +2,7 @@
 id: motif-hb-ps-50-divine-lawsuit-vs-quran-6-mercy-judgment
 title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls ↔ Mercy written on himself;
   the idolaters' denial at the gathering
-summary: 'These two units share 1 motifs: god does not need sacrifices: ''if i were hungry i would not
-  tell you... do i eat the flesh of bulls or drink the blood of goats?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - god-does-not-eat-flesh-of-bulls
-passages:
-- tradition: judaism
-  ref: Ps 50:8-9
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:8) לֹ֣א עַל זְ֭בָחֶיךָ אוֹכִיחֶ֑ךָ וְעוֹלֹתֶ֖יךָ לְנֶגְדִּ֣י תָמִֽיד (50:9) לֹא אֶקַּ֣ח מִבֵּיתְךָ֣
-    פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים
-- tradition: judaism
-  ref: Ps 50:12-13
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:12) אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ (50:13) הַֽ֭אוֹכַל בְּשַׂ֣ר
-    אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
-- tradition: islam
-  ref: Quran 6:14
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'' (wa-huwa yuṭʿimu wa-lā yuṭʿam; cf. Ps 50:12-13)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ وَلَا
-    يُطْعَمُ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلَا تَكُونَنَّ مِنَ ٱلْمُشْرِكِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. God needs no food. Q: wa-huwa yuṭʿimu wa-lā yuṭʿamu. Ps: ʾim-ʾerʿav lōʾ-ʾōmar lākh kî-lî
-    tēvēl û-məlōʾāh; ha-ʾôkhal bəśar ʾabbîrîm. Ps rejects the idea that sacrifice feeds God; Q makes it
-    a divine attribute (he feeds, he is not fed).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not need sacrifices: ''If I were hungry I would not tell
     you... Do I eat the flesh of bulls or drink the blood of goats?'' (weight 5.8). Pair score 5.8.'
@@ -81,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+  of bulls or drink the blood of goats?'''
+kinds:
+- parallel
+units:
+- id: hb-ps-50-divine-lawsuit
+  title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls
+  tradition: judaism
+- id: quran-6-mercy-judgment
+  title: Mercy written on himself; the idolaters' denial at the gathering
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+    of bulls or drink the blood of goats?'''
+  note: 'God needs no food. Q: wa-huwa yuṭʿimu wa-lā yuṭʿamu. Ps: ʾim-ʾerʿav lōʾ-ʾōmar lākh kî-lî tēvēl
+    û-məlōʾāh; ha-ʾôkhal bəśar ʾabbîrîm. Ps rejects the idea that sacrifice feeds God; Q makes it a divine
+    attribute (he feeds, he is not fed).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:12
+      lang: he
+      text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
+    - ref: Ps 50:13
+      lang: he
+      text: הַֽ֭אוֹכַל בְּשַׂ֣ר אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:14
+      lang: ar
+      text: قُلْ أَغَيْرَ ٱللَّهِ أَتَّخِذُ وَلِيًّا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ يُطْعِمُ
+        وَلَا يُطْعَمُ قُلْ إِنِّىٓ أُمِرْتُ أَنْ أَكُونَ أَوَّلَ مَنْ أَسْلَمَ وَلَا تَكُونَنَّ مِنَ
+        ٱلْمُشْرِكِينَ
 ---
 
 ## Questions

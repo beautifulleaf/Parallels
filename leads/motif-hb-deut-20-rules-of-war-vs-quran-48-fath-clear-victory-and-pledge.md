@@ -2,9 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-48-fath-clear-victory-and-pledge
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Al-Fath: the clear opening, the sakina, the
   hand of God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 3 motifs: who is exempted from going out to war [contrast between the
-  texts], messengers offer peace terms before battle, exemptions from war for a new house, unharvested
-  vineyard, betrothed bride, or faintheartedness.'
+summary: '2 correspondences read side by side: 1 opposite ruling, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,121 +15,15 @@ layers:
 - motif
 motifs:
 - exemption-from-going-to-war-as-contrast
-- peace-offer-before-war
 - military-exemptions-house-vineyard-bride
-passages:
-- tradition: judaism
-  ref: Deut 20:8
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
-    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
-- tradition: judaism
-  ref: Deut 20:5
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: islam
-  ref: Quran 48:11
-  note: 'Who is exempted from going out to war [contrast between the texts] (Who may stay home from the
-    campaign. Deuteronomy exempts by circumstance of property and family: mî hā-ʾîš ʾăšer bānâ ḇayiṯ ḥāḏāš
-    ... nāṭaʿ kerem ... ʾēraś ʾiššâ wə-lōʾ ləqāḥāh yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran rejects exactly that
-    excuse: sa-yaqūlu laka l-mukhallafūna mina l-aʿrābi shaghalatnā amwālunā wa-ahlūnā (our property and
-    families kept us busy), and exempts by disability only: laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji
-    ḥarajun wa-lā ʿalā l-marīḍi ḥaraj.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ
-    لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ
-    شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ
-    خَبِيرًۢا
-- tradition: islam
-  ref: Quran 48:17
-  note: 'Who is exempted from going out to war [contrast between the texts] (Who may stay home from the
-    campaign. Deuteronomy exempts by circumstance of property and family: mî hā-ʾîš ʾăšer bānâ ḇayiṯ ḥāḏāš
-    ... nāṭaʿ kerem ... ʾēraś ʾiššâ wə-lōʾ ləqāḥāh yēlēḵ wə-yāšōḇ lə-ḇêṯô. The Quran rejects exactly that
-    excuse: sa-yaqūlu laka l-mukhallafūna mina l-aʿrābi shaghalatnā amwālunā wa-ahlūnā (our property and
-    families kept us busy), and exempts by disability only: laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji
-    ḥarajun wa-lā ʿalā l-marīḍi ḥaraj.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
-    وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ
-    يُعَذِّبْهُ عَذَابًا أَلِيمًا
-- tradition: judaism
-  ref: Deut 20:10
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: Messengers offer peace terms before battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 48:16
-  note: 'Messengers offer peace terms before battle (Two outcomes against a people: fight or submission,
-    with the root š-l-m on both sides: ʾim šālôm taʿanḵā ... wə-ʾim lōʾ ṯašlîm ʿimmāḵ wə-ʿāśəṯâ ʿimməḵā
-    milḥāmâ vs. sa-tudʿawna ilā qawmin ulī baʾsin shadīdin tuqātilūnahum aw yuslimūn. In Deuteronomy submission
-    means forced labor (mas); in the Quran it is islām.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ تُقَٰتِلُونَهُمْ
-    أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟ كَمَا تَوَلَّيْتُم
-    مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
-- tradition: judaism
-  ref: Deut 20:5
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:6
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
-    בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
-- tradition: islam
-  ref: Quran 48:17
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (Quranic exemptions are disability-based)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
-    وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن يَتَوَلَّ
-    يُعَذِّبْهُ عَذَابًا أَلِيمًا
+- peace-offer-before-war
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast, echo. Who may stay home from the campaign. Deuteronomy exempts by circumstance of property
-    and family: mî hā-ʾîš ʾăšer bānâ ḇayiṯ ḥāḏāš ... nāṭaʿ kerem ... ʾēraś ʾiššâ wə-lōʾ ləqāḥāh yēlēḵ
-    wə-yāšōḇ lə-ḇêṯô. The Quran rejects exactly that excuse: sa-yaqūlu laka l-mukhallafūna mina l-aʿrābi
-    shaghalatnā amwālunā wa-ahlūnā (our property and families kept us busy), and exempts by disability
-    only: laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun wa-lā ʿalā l-marīḍi ḥaraj. Two outcomes
-    against a people: fight or submission, with the root š-l-m on both sides: ʾim šālôm taʿanḵā ... wə-ʾim
-    lōʾ ṯašlîm ʿimmāḵ wə-ʿāśəṯâ ʿimməḵā milḥāmâ vs. sa-tudʿawna ilā qawmin ulī baʾsin shadīdin tuqātilūnahum
-    aw yuslimūn. In Deuteronomy submission means forced labor (mas); in the Quran it is islām.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is exempted from going out to war [contrast between the texts]
-    (weight 6.3); Messengers offer peace terms before battle (weight 5.8); Exemptions from war for a new
-    house, unharvested vineyard, betrothed bride, or faintheartedness (weight 5.8). Pair score 17.8.'
+    (weight 6.3); Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+    (weight 5.8); Messengers offer peace terms before battle (weight 5.8). Pair score 17.8.'
   basis: reading
 - text: 'Only in Rules of war: exemptions, peace terms, fruit trees: Whether and when to call the enemy
     to peace [contrast between the texts]; Conditions under which war is waged or stopped [divergence
@@ -164,6 +56,106 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is exempted from going out to war
+kinds:
+- contrast
+- echo
+- shared
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who is exempted from going out to war
+  note: 'Who may stay home from the campaign. Deuteronomy exempts by circumstance of property and family:
+    mî hā-ʾîš ʾăšer bānâ ḇayiṯ ḥāḏāš ... nāṭaʿ kerem ... ʾēraś ʾiššâ wə-lōʾ ləqāḥāh yēlēḵ wə-yāšōḇ lə-ḇêṯô.
+    The Quran rejects exactly that excuse: sa-yaqūlu laka l-mukhallafūna mina l-aʿrābi shaghalatnā amwālunā
+    wa-ahlūnā (our property and families kept us busy), and exempts by disability only: laysa ʿalā l-aʿmā
+    ḥarajun wa-lā ʿalā l-aʿraji ḥarajun wa-lā ʿalā l-marīḍi ḥaraj.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:11
+      lang: ar
+      text: سَيَقُولُ لَكَ ٱلْمُخَلَّفُونَ مِنَ ٱلْأَعْرَابِ شَغَلَتْنَآ أَمْوَٰلُنَا وَأَهْلُونَا فَٱسْتَغْفِرْ
+        لَنَا يَقُولُونَ بِأَلْسِنَتِهِم مَّا لَيْسَ فِى قُلُوبِهِمْ قُلْ فَمَن يَمْلِكُ لَكُم مِّنَ ٱللَّهِ
+        شَيْـًٔا إِنْ أَرَادَ بِكُمْ ضَرًّا أَوْ أَرَادَ بِكُمْ نَفْعًۢا بَلْ كَانَ ٱللَّهُ بِمَا تَعْمَلُونَ
+        خَبِيرًۢا
+    - ref: Quran 48:17
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
+        وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن
+        يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
+- kind: echo
+  label: Messengers offer peace terms before battle
+  note: 'Two outcomes against a people: fight or submission, with the root š-l-m on both sides: ʾim šālôm
+    taʿanḵā ... wə-ʾim lōʾ ṯašlîm ʿimmāḵ wə-ʿāśəṯâ ʿimməḵā milḥāmâ vs. sa-tudʿawna ilā qawmin ulī baʾsin
+    shadīdin tuqātilūnahum aw yuslimūn. In Deuteronomy submission means forced labor (mas); in the Quran
+    it is islām.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+    - ref: Deut 20:12
+      lang: he
+      text: וְאִם לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 48:16
+      lang: ar
+      text: قُل لِّلْمُخَلَّفِينَ مِنَ ٱلْأَعْرَابِ سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُو۟لِى بَأْسٍ شَدِيدٍ
+        تُقَٰتِلُونَهُمْ أَوْ يُسْلِمُونَ فَإِن تُطِيعُوا۟ يُؤْتِكُمُ ٱللَّهُ أَجْرًا حَسَنًا وَإِن تَتَوَلَّوْا۟
+        كَمَا تَوَلَّيْتُم مِّن قَبْلُ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا
+- kind: shared
+  label: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:17
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
+        وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ يُدْخِلْهُ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ وَمَن
+        يَتَوَلَّ يُعَذِّبْهُ عَذَابًا أَلِيمًا
+    note: Quranic exemptions are disability-based
 ---
 
 ## Questions

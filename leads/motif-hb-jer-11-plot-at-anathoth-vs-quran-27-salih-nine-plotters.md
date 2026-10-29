@@ -2,8 +2,7 @@
 id: motif-hb-jer-11-plot-at-anathoth-vs-quran-27-salih-nine-plotters
 title: First confession - a gentle lamb led to slaughter; the men of Anathoth ↔ Salih, the evil omen and
   the nine plotters of Thamud
-summary: 'These two units share 1 motifs: the men of the prophet''s hometown seek his life: ''do not prophesy
-  in yhwh''s name or you will die by our hand''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,53 +15,9 @@ layers:
 - motif
 motifs:
 - hometown-plots-against-prophet
-passages:
-- tradition: judaism
-  ref: Jer 11:21
-  note: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
-    die by our hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֗ן כֹּֽה אָמַ֤ר יְהוָה֙ עַל אַנְשֵׁ֣י עֲנָת֔וֹת הַֽמְבַקְשִׁ֥ים אֶֽת נַפְשְׁךָ֖ לֵאמֹ֑ר לֹ֤א
-    תִנָּבֵא֙ בְּשֵׁ֣ם יְהוָ֔ה וְלֹ֥א תָמ֖וּת בְּיָדֵֽנוּ
-- tradition: judaism
-  ref: Jer 11:22
-  note: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
-    die by our hand'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י פֹקֵ֖ד עֲלֵיהֶ֑ם הַבַּֽחוּרִים֙ יָמֻ֣תוּ בַחֶ֔רֶב
-    בְּנֵיהֶם֙ וּבְנ֣וֹתֵיהֶ֔ם יָמֻ֖תוּ בָּרָעָֽב
-- tradition: islam
-  ref: Quran 27:48
-  note: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
-    die by our hand'' (wa-kāna fī l-madīnati tisʿatu rahṭin ... qālū taqāsamū bi-llāhi la-nubayyitannahu
-    wa-ahlahu ~ wə-lōʾ yādaʿtî kî ʿālay ḥāšvû maḥăšāvôt ... wə-nikhrətennû mē-ʾereṣ ḥayyîm ... ʾanšê ʿĂnātôt
-    ham-məvaqšîm ʾet nafšəkā: men of the prophet''s own town secretly plot to kill him, and he does not
-    know (lā yashʿurūn of the plotters / lōʾ yādaʿtî of the prophet); in both God reveals or overturns
-    the plot and destroys the plotters (Jer 11:22, Q 27:51).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
-- tradition: islam
-  ref: Quran 27:49
-  note: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
-    die by our hand'' (wa-kāna fī l-madīnati tisʿatu rahṭin ... qālū taqāsamū bi-llāhi la-nubayyitannahu
-    wa-ahlahu ~ wə-lōʾ yādaʿtî kî ʿālay ḥāšvû maḥăšāvôt ... wə-nikhrətennû mē-ʾereṣ ḥayyîm ... ʾanšê ʿĂnātôt
-    ham-məvaqšîm ʾet nafšəkā: men of the prophet''s own town secretly plot to kill him, and he does not
-    know (lā yashʿurūn of the plotters / lōʾ yādaʿtî of the prophet); in both God reveals or overturns
-    the plot and destroys the plotters (Jer 11:22, Q 27:51).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ
-    مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-kāna fī l-madīnati tisʿatu rahṭin ... qālū taqāsamū bi-llāhi la-nubayyitannahu wa-ahlahu
-    ~ wə-lōʾ yādaʿtî kî ʿālay ḥāšvû maḥăšāvôt ... wə-nikhrətennû mē-ʾereṣ ḥayyîm ... ʾanšê ʿĂnātôt ham-məvaqšîm
-    ʾet nafšəkā: men of the prophet''s own town secretly plot to kill him, and he does not know (lā yashʿurūn
-    of the plotters / lōʾ yādaʿtî of the prophet); in both God reveals or overturns the plot and destroys
-    the plotters (Jer 11:22, Q 27:51).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The men of the prophet''s hometown seek his life: ''Do not prophesy
     in YHWH''s name or you will die by our hand'' (weight 6.7). Pair score 6.7.'
@@ -89,6 +44,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
+  die by our hand'''
+kinds:
+- parallel
+units:
+- id: hb-jer-11-plot-at-anathoth
+  title: First confession - a gentle lamb led to slaughter; the men of Anathoth
+  tradition: judaism
+- id: quran-27-salih-nine-plotters
+  title: Salih, the evil omen and the nine plotters of Thamud
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The men of the prophet''s hometown seek his life: ''Do not prophesy in YHWH''s name or you will
+    die by our hand'''
+  note: 'wa-kāna fī l-madīnati tisʿatu rahṭin ... qālū taqāsamū bi-llāhi la-nubayyitannahu wa-ahlahu ~
+    wə-lōʾ yādaʿtî kî ʿālay ḥāšvû maḥăšāvôt ... wə-nikhrətennû mē-ʾereṣ ḥayyîm ... ʾanšê ʿĂnātôt ham-məvaqšîm
+    ʾet nafšəkā: men of the prophet''s own town secretly plot to kill him, and he does not know (lā yashʿurūn
+    of the plotters / lōʾ yādaʿtî of the prophet); in both God reveals or overturns the plot and destroys
+    the plotters (Jer 11:22, Q 27:51).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 11:19
+      lang: he
+      text: וַאֲנִ֕י כְּכֶ֥בֶשׂ אַלּ֖וּף יוּבַ֣ל לִטְב֑וֹחַ וְלֹֽא יָדַ֜עְתִּי כִּֽי עָלַ֣י חָשְׁב֣וּ
+        מַחֲשָׁב֗וֹת נַשְׁחִ֨יתָה עֵ֤ץ בְּלַחְמוֹ֙ וְנִכְרְתֶ֨נּוּ֙ מֵאֶ֣רֶץ חַיִּ֔ים וּשְׁמ֖וֹ לֹֽא יִזָּכֵ֥ר
+        עֽוֹד
+    - ref: Jer 11:21
+      lang: he
+      text: לָכֵ֗ן כֹּֽה אָמַ֤ר יְהוָה֙ עַל אַנְשֵׁ֣י עֲנָת֔וֹת הַֽמְבַקְשִׁ֥ים אֶֽת נַפְשְׁךָ֖ לֵאמֹ֑ר
+        לֹ֤א תִנָּבֵא֙ בְּשֵׁ֣ם יְהוָ֔ה וְלֹ֥א תָמ֖וּת בְּיָדֵֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:48
+      lang: ar
+      text: وَكَانَ فِى ٱلْمَدِينَةِ تِسْعَةُ رَهْطٍ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ
+    - ref: Quran 27:49
+      lang: ar
+      text: قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِيِّهِۦ
+        مَا شَهِدْنَا مَهْلِكَ أَهْلِهِۦ وَإِنَّا لَصَٰدِقُونَ
 ---
 
 ## Questions

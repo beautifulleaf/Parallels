@@ -2,7 +2,7 @@
 id: motif-hb-num-35-levitical-cities-refuge-vs-quran-4-indecency-repentance
 title: Levitical cities, cities of refuge and the law of homicide ↔ Indecency, four witnesses, and the
   limits of repentance
-summary: 'These two units share 1 motifs: no one put to death on the testimony of a single witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - two-witnesses-for-capital-case
-passages:
-- tradition: judaism
-  ref: Num 35:30
-  note: No one put to death on the testimony of a single witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
-    לָמֽוּת
-- tradition: islam
-  ref: Quran 4:15
-  note: No one put to death on the testimony of a single witness (Quran raises the number to four for
-    fāḥisha)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 35:30 lĕ-pî ʿēdîm ... wĕ-ʿēd ʾeḥād lōʾ yaʿăneh bĕ-nepeš lāmût; Q 4:15 fa-stashhidū ʿalayhinna
-    arbaʿatan minkum: plural witnesses required before punishment.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one put to death on the testimony of a single witness (weight
     5.4). Pair score 5.4.'
@@ -65,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one put to death on the testimony of a single witness
+kinds:
+- echo
+units:
+- id: hb-num-35-levitical-cities-refuge
+  title: Levitical cities, cities of refuge and the law of homicide
+  tradition: judaism
+- id: quran-4-indecency-repentance
+  title: Indecency, four witnesses, and the limits of repentance
+  tradition: islam
+matches:
+- kind: echo
+  label: No one put to death on the testimony of a single witness
+  note: 'Num 35:30 lĕ-pî ʿēdîm ... wĕ-ʿēd ʾeḥād lōʾ yaʿăneh bĕ-nepeš lāmût; Q 4:15 fa-stashhidū ʿalayhinna
+    arbaʿatan minkum: plural witnesses required before punishment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 35:30
+      lang: he
+      text: כָּל מַ֨כֵּה נֶ֔פֶשׁ לְפִ֣י עֵדִ֔ים יִרְצַ֖ח אֶת הָרֹצֵ֑חַ וְעֵ֣ד אֶחָ֔ד לֹא יַעֲנֶ֥ה בְנֶ֖פֶשׁ
+        לָמֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
 ---
 
 ## Questions

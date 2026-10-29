@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-29-trial-of-believers
 title: Job's piety, the heavenly council and the first test ↔ Believers tested; parents and idolatry;
   the false offer to carry sins
-summary: 'These two units share 1 motifs: piety that holds only while fortune lasts, put to the test by
-  misfortune.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,56 +14,9 @@ layers:
 - motif
 motifs:
 - conditional-piety-tested-by-misfortune
-passages:
-- tradition: judaism
-  ref: Job 1:9
-  note: 'Piety that holds only while fortune lasts, put to the test by misfortune (man yaʿbudu llāha ʿalā
-    ḥarfin fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ʿalā wajhihi ~ ha-ḥinnām
-    yārēʾ ʾIyyôv ʾĕlōhîm ... ʾim lōʾ ʿal pānêkā yəvārăkekkā: the Satan''s suspicion that piety depends
-    on good fortune and will turn into cursing ''to your face'' once loss strikes is what the Quran describes
-    as a real type of worshipper who ''turns over on his face'' (ʿalā wajhihi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧עַן הַשָּׂטָ֛ן אֶת יְהוָ֖ה וַיֹּאמַ֑ר הַֽחִנָּ֔ם יָרֵ֥א אִיּ֖וֹב אֱלֹהִֽים
-- tradition: judaism
-  ref: Job 1:10
-  note: 'Piety that holds only while fortune lasts, put to the test by misfortune (man yaʿbudu llāha ʿalā
-    ḥarfin fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ʿalā wajhihi ~ ha-ḥinnām
-    yārēʾ ʾIyyôv ʾĕlōhîm ... ʾim lōʾ ʿal pānêkā yəvārăkekkā: the Satan''s suspicion that piety depends
-    on good fortune and will turn into cursing ''to your face'' once loss strikes is what the Quran describes
-    as a real type of worshipper who ''turns over on his face'' (ʿalā wajhihi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹֽא את אַ֠תָּה שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד בֵּית֛וֹ וּבְעַ֥ד כָּל אֲשֶׁר ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה
-    יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ
-- tradition: islam
-  ref: Quran 29:10
-  note: 'Piety that holds only while fortune lasts, put to the test by misfortune (wa-mina n-nāsi man
-    yaqūlu āmannā bi-llāhi fa-idhā ūdhiya fī llāhi jaʿala fitnata n-nāsi ka-ʿadhābi llāhi ... wa-la-yaʿlamanna
-    llāhu ... l-munāfiqīn ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... wə-gaʿ bə-khol ʾăšer lô ʾim lōʾ ʿal pānêkā
-    yəvārăkekkā: suffering as the test of whether professed faith is real. In Job the test proves the
-    man true; the Quran''s example is the one who fails.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ ٱلنَّاسِ
-    كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ أَوَلَيْسَ
-    ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 29:11
-  note: 'Piety that holds only while fortune lasts, put to the test by misfortune (wa-mina n-nāsi man
-    yaqūlu āmannā bi-llāhi fa-idhā ūdhiya fī llāhi jaʿala fitnata n-nāsi ka-ʿadhābi llāhi ... wa-la-yaʿlamanna
-    llāhu ... l-munāfiqīn ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... wə-gaʿ bə-khol ʾăšer lô ʾim lōʾ ʿal pānêkā
-    yəvārăkekkā: suffering as the test of whether professed faith is real. In Job the test proves the
-    man true; the Quran''s example is the one who fails.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-mina n-nāsi man yaqūlu āmannā bi-llāhi fa-idhā ūdhiya fī llāhi jaʿala fitnata n-nāsi ka-ʿadhābi
-    llāhi ... wa-la-yaʿlamanna llāhu ... l-munāfiqīn ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... wə-gaʿ bə-khol
-    ʾăšer lô ʾim lōʾ ʿal pānêkā yəvārăkekkā: suffering as the test of whether professed faith is real.
-    In Job the test proves the man true; the Quran''s example is the one who fails.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Piety that holds only while fortune lasts, put to the test by misfortune
     (weight 6.3). Pair score 6.3.'
@@ -99,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Piety that holds only while fortune lasts, put to the test by misfortune
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: echo
+  label: Piety that holds only while fortune lasts, put to the test by misfortune
+  note: 'wa-mina n-nāsi man yaqūlu āmannā bi-llāhi fa-idhā ūdhiya fī llāhi jaʿala fitnata n-nāsi ka-ʿadhābi
+    llāhi ... wa-la-yaʿlamanna llāhu ... l-munāfiqīn ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm ... wə-gaʿ bə-khol
+    ʾăšer lô ʾim lōʾ ʿal pānêkā yəvārăkekkā: suffering as the test of whether professed faith is real.
+    In Job the test proves the man true; the Quran''s example is the one who fails.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:9
+      lang: he
+      text: וַיַּ֧עַן הַשָּׂטָ֛ן אֶת יְהוָ֖ה וַיֹּאמַ֑ר הַֽחִנָּ֔ם יָרֵ֥א אִיּ֖וֹב אֱלֹהִֽים
+    - ref: Job 1:11
+      lang: he
+      text: וְאוּלָם֙ שְֽׁלַֽח נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל אֲשֶׁר ל֑וֹ אִם לֹ֥א עַל פָּנֶ֖יךָ יְבָרֲכֶֽךָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:10
+      lang: ar
+      text: وَمِنَ ٱلنَّاسِ مَن يَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَآ أُوذِىَ فِى ٱللَّهِ جَعَلَ فِتْنَةَ
+        ٱلنَّاسِ كَعَذَابِ ٱللَّهِ وَلَئِن جَآءَ نَصْرٌ مِّن رَّبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ
+        أَوَلَيْسَ ٱللَّهُ بِأَعْلَمَ بِمَا فِى صُدُورِ ٱلْعَٰلَمِينَ
+    - ref: Quran 29:11
+      lang: ar
+      text: وَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَلَيَعْلَمَنَّ ٱلْمُنَٰفِقِينَ
 ---
 
 ## Questions

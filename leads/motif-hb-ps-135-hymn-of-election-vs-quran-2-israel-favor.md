@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-135-hymn-of-election-vs-quran-2-israel-favor
 title: Psalm 135, hymn on God's power, election and the idols ↔ Address to the Children of Israel
-summary: 'These two units share 1 motifs: israel chosen as god''s treasured people (am segullah) out of
-  all peoples.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,24 +14,9 @@ layers:
 - motif
 motifs:
 - chosen-treasured-people
-passages:
-- tradition: judaism
-  ref: Ps 135:4
-  note: Israel chosen as God's treasured people (am segullah) out of all peoples (segullah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יַעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ
-- tradition: islam
-  ref: Quran 2:47
-  note: Israel chosen as God's treasured people (am segullah) out of all peoples (preferred over the worlds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
-    عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 135:4 kî yaʿăqōb bāḥar lô yāh yiśrāʾēl li-sgullātô; Q 2:47 yā banī isrāʾīla dhkurū niʿmatiya
-    ... faḍḍaltukum ʿalā l-ʿālamīn.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel chosen as God''s treasured people (am segullah) out of all
     peoples (weight 5.3). Pair score 5.3.'
@@ -63,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel chosen as God's treasured people (am segullah) out of all peoples
+kinds:
+- parallel
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-2-israel-favor
+  title: Address to the Children of Israel
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel chosen as God's treasured people (am segullah) out of all peoples
+  note: Ps 135:4 kî yaʿăqōb bāḥar lô yāh yiśrāʾēl li-sgullātô; Q 2:47 yā banī isrāʾīla dhkurū niʿmatiya
+    ... faḍḍaltukum ʿalā l-ʿālamīn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:4
+      lang: he
+      text: כִּֽי יַעֲקֹ֗ב בָּחַ֣ר ל֣וֹ יָ֑הּ יִ֝שְׂרָאֵ֗ל לִסְגֻלָּתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:47
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
+        عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

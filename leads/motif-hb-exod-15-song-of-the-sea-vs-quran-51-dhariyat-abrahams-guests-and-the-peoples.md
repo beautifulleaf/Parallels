@@ -2,8 +2,7 @@
 id: motif-hb-exod-15-song-of-the-sea-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: The Song of the Sea and Miriam's song ↔ Abraham's honored guests, the barren old wife striking
   her face, the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 1 motifs: god seized pharaoh and his hosts and cast them into the sea
-  while he was blameworthy.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-cast-into-sea-blameworthy
-passages:
-- tradition: judaism
-  ref: Exod 15:1
-  note: 'God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy (God hurls
-    Pharaoh''s army into the sea: sûs wə-rōḵəḇô rāmâ ḇay-yām; markəḇōṯ parʿōh wə-ḥêlô yārâ ḇay-yām vs.
-    fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi wa-huwa mulīm (yam / yamm, ''the sea'', the same
-    word). The Song celebrates; the Quran adds the verdict: ''he was blameworthy'' (mulīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֣ז יָשִֽׁיר מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהוָ֔ה וַיֹּאמְר֖וּ לֵאמֹ֑ר
-    אָשִׁ֤ירָה לַֽיהוָה֙ כִּֽי גָאֹ֣ה גָּאָ֔ה ס֥וּס וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם
-- tradition: judaism
-  ref: Exod 15:4
-  note: 'God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy (God hurls
-    Pharaoh''s army into the sea: sûs wə-rōḵəḇô rāmâ ḇay-yām; markəḇōṯ parʿōh wə-ḥêlô yārâ ḇay-yām vs.
-    fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi wa-huwa mulīm (yam / yamm, ''the sea'', the same
-    word). The Song celebrates; the Quran adds the verdict: ''he was blameworthy'' (mulīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם סֽוּף
-- tradition: islam
-  ref: Quran 51:40
-  note: God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God hurls Pharaoh''s army into the sea: sûs wə-rōḵəḇô rāmâ ḇay-yām; markəḇōṯ parʿōh wə-ḥêlô
-    yārâ ḇay-yām vs. fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi wa-huwa mulīm (yam / yamm, ''the
-    sea'', the same word). The Song celebrates; the Quran adds the verdict: ''he was blameworthy'' (mulīm).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God seized Pharaoh and his hosts and cast them into the sea while
     he was blameworthy (weight 6.7). Pair score 6.7.'
@@ -81,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy
+kinds:
+- parallel
+units:
+- id: hb-exod-15-song-of-the-sea
+  title: The Song of the Sea and Miriam's song
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: parallel
+  label: God seized Pharaoh and his hosts and cast them into the sea while he was blameworthy
+  note: 'God hurls Pharaoh''s army into the sea: sûs wə-rōḵəḇô rāmâ ḇay-yām; markəḇōṯ parʿōh wə-ḥêlô yārâ
+    ḇay-yām vs. fa-akhadhnāhu wa-junūdahu fa-nabadhnāhum fī l-yammi wa-huwa mulīm (yam / yamm, ''the sea'',
+    the same word). The Song celebrates; the Quran adds the verdict: ''he was blameworthy'' (mulīm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 15:1
+      lang: he
+      text: אָ֣ז יָשִֽׁיר מֹשֶׁה֩ וּבְנֵ֨י יִשְׂרָאֵ֜ל אֶת הַשִּׁירָ֤ה הַזֹּאת֙ לַֽיהוָ֔ה וַיֹּאמְר֖וּ
+        לֵאמֹ֑ר אָשִׁ֤ירָה לַֽיהוָה֙ כִּֽי גָאֹ֣ה גָּאָ֔ה ס֥וּס וְרֹכְב֖וֹ רָמָ֥ה בַיָּֽם
+    - ref: Exod 15:4
+      lang: he
+      text: מַרְכְּבֹ֥ת פַּרְעֹ֛ה וְחֵיל֖וֹ יָרָ֣ה בַיָּ֑ם וּמִבְחַ֥ר שָֽׁלִשָׁ֖יו טֻבְּע֥וּ בְיַם סֽוּף
+  - tradition: islam
+    passages:
+    - ref: Quran 51:40
+      lang: ar
+      text: فَأَخَذْنَٰهُ وَجُنُودَهُۥ فَنَبَذْنَٰهُمْ فِى ٱلْيَمِّ وَهُوَ مُلِيمٌ
 ---
 
 ## Questions

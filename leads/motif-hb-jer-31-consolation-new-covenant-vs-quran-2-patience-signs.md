@@ -2,8 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-2-patience-signs
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Patience, Safa and Marwa, signs of creation
-summary: 'These two units share 1 motifs: god''s covenant with israel is as sure as the fixed order of
-  sun, moon, stars and sea.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - cosmic-ordinances-guarantee-covenant
-passages:
-- tradition: judaism
-  ref: Jer 31:35-37
-  note: God's covenant with Israel is as sure as the fixed order of sun, moon, stars and sea
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (31:35) כֹּ֣ה אָמַ֣ר יְהוָ֗ה נֹתֵ֥ן שֶׁ֨מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם חֻקֹּ֛ת יָרֵ֥חַ וְכוֹכָבִ֖ים לְא֣וֹר
-    לָ֑יְלָה רֹגַ֤ע הַיָּם֙ וַיֶּהֱמ֣וּ גַלָּ֔יו יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ (31:36) אִם יָמֻ֜שׁוּ הַחֻקִּ֥ים
-    הָאֵ֛לֶּה מִלְּפָנַ֖י נְאֻם יְהוָ֑ה גַּם֩ זֶ֨רַע יִשְׂרָאֵ֜ל יִשְׁבְּת֗וּ מִֽהְי֥וֹת גּ֛וֹי לְפָנַ֖י
-    כָּל הַיָּמִֽים (31:37) כֹּ֣ה אָמַ֣ר יְהוָ֗ה אִם יִמַּ֤דּוּ שָׁמַ֨יִם֙ מִלְמַ֔עְלָה וְיֵחָקְר֥וּ מֽוֹסְדֵי
-    אֶ֖רֶץ לְמָ֑טָּה גַּם אֲנִ֞י אֶמְאַ֨ס בְּכָל זֶ֧רַע יִשְׂרָאֵ֛ל עַֽל כָּל אֲשֶׁ֥ר עָשׂ֖וּ נְאֻם יְהוָֽה
-- tradition: judaism
-  ref: Jer 31:35
-  note: God's covenant with Israel is as sure as the fixed order of sun, moon, stars and sea
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה נֹתֵ֥ן שֶׁ֨מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם חֻקֹּ֛ת יָרֵ֥חַ וְכוֹכָבִ֖ים לְא֣וֹר לָ֑יְלָה
-    רֹגַ֤ע הַיָּם֙ וַיֶּהֱמ֣וּ גַלָּ֔יו יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ
-- tradition: islam
-  ref: Quran 2:164
-  note: 'God''s covenant with Israel is as sure as the fixed order of sun, moon, stars and sea (Jer 31:35
-    nōtēn šemeš lĕ-ʾôr yômām ḥuqqōt yārēaḥ wĕ-kôkābîm lĕ-ʾôr laylâ rōgaʿ ha-yyām: the fixed order of day
-    and night and the sea as guarantee of God''s covenant; Q 2:164 ikhtilāfi l-layli wa-n-nahāri ... al-baḥr:
-    the alternation of night and day and the sea as signs of God for the reasoning.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ ٱلَّتِى
-    تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن مَّآءٍ فَأَحْيَا
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ ٱلرِّيَٰحِ وَٱلسَّحَابِ
-    ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 31:35 nōtēn šemeš lĕ-ʾôr yômām ḥuqqōt yārēaḥ wĕ-kôkābîm lĕ-ʾôr laylâ rōgaʿ ha-yyām: the
-    fixed order of day and night and the sea as guarantee of God''s covenant; Q 2:164 ikhtilāfi l-layli
-    wa-n-nahāri ... al-baḥr: the alternation of night and day and the sea as signs of God for the reasoning.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s covenant with Israel is as sure as the fixed order of sun,
     moon, stars and sea (weight 6.3). Pair score 6.3.'
@@ -83,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's covenant with Israel is as sure as the fixed order of sun, moon, stars and sea
+kinds:
+- echo
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: echo
+  label: God's covenant with Israel is as sure as the fixed order of sun, moon, stars and sea
+  note: 'Jer 31:35 nōtēn šemeš lĕ-ʾôr yômām ḥuqqōt yārēaḥ wĕ-kôkābîm lĕ-ʾôr laylâ rōgaʿ ha-yyām: the fixed
+    order of day and night and the sea as guarantee of God''s covenant; Q 2:164 ikhtilāfi l-layli wa-n-nahāri
+    ... al-baḥr: the alternation of night and day and the sea as signs of God for the reasoning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:35
+      lang: he
+      text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה נֹתֵ֥ן שֶׁ֨מֶשׁ֙ לְא֣וֹר יוֹמָ֔ם חֻקֹּ֛ת יָרֵ֥חַ וְכוֹכָבִ֖ים לְא֣וֹר
+        לָ֑יְלָה רֹגַ֤ע הַיָּם֙ וַיֶּהֱמ֣וּ גַלָּ֔יו יְהוָ֥ה צְבָא֖וֹת שְׁמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:164
+      lang: ar
+      text: إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَٱلْفُلْكِ
+        ٱلَّتِى تَجْرِى فِى ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن
+        مَّآءٍ فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِن كُلِّ دَآبَّةٍ وَتَصْرِيفِ
+        ٱلرِّيَٰحِ وَٱلسَّحَابِ ٱلْمُسَخَّرِ بَيْنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
 ---
 
 ## Questions

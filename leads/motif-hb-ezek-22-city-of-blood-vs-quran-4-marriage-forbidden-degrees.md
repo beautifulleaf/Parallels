@@ -2,8 +2,7 @@
 id: motif-hb-ezek-22-city-of-blood-vs-quran-4-marriage-forbidden-degrees
 title: The city of blood; the dross in the furnace; no man in the breach ↔ Inheriting women, the dowry,
   and the forbidden degrees
-summary: 'These two units share 2 motifs: a man must not take his father''s wife (uncover his father''s
-  skirt), list of forbidden close-kin unions (''uncovering nakedness'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,77 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- no-marrying-fathers-wife
 - incest-prohibitions-list
-passages:
-- tradition: judaism
-  ref: Ezek 22:10
-  note: A man must not take his father's wife (uncover his father's skirt) ('they uncovered the father's
-    nakedness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶרְוַת אָ֖ב גִּלָּה בָ֑ךְ טְמֵאַ֥ת הַנִּדָּ֖ה עִנּוּ בָֽךְ
-- tradition: judaism
-  ref: Ezek 22:11
-  note: A man must not take his father's wife (uncover his father's skirt) ('they uncovered the father's
-    nakedness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֣ישׁ אֶת אֵ֣שֶׁת רֵעֵ֗הוּ עָשָׂה֙ תּֽוֹעֵבָ֔ה וְאִ֥ישׁ אֶת כַּלָּת֖וֹ טִמֵּ֣א בְזִמָּ֑ה וְאִ֛ישׁ
-    אֶת אֲחֹת֥וֹ בַת אָבִ֖יו עִנָּה בָֽךְ
-- tradition: islam
-  ref: Quran 4:22
-  note: A man must not take his father's wife (uncover his father's skirt) ('except what is past')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ
-    فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
-- tradition: islam
-  ref: Quran 4:23
-  note: A man must not take his father's wife (uncover his father's skirt) ('except what is past')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
-    وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ
-    ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
-    ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
-    أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ
-    سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
-- tradition: judaism
-  ref: Ezek 22:10
-  note: List of forbidden close-kin unions ('uncovering nakedness') (daughter-in-law, sister the father's
-    daughter; menstruant violated)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶרְוַת אָ֖ב גִּלָּה בָ֑ךְ טְמֵאַ֥ת הַנִּדָּ֖ה עִנּוּ בָֽךְ
-- tradition: judaism
-  ref: Ezek 22:11
-  note: List of forbidden close-kin unions ('uncovering nakedness') (daughter-in-law, sister the father's
-    daughter; menstruant violated)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֣ישׁ אֶת אֵ֣שֶׁת רֵעֵ֗הוּ עָשָׂה֙ תּֽוֹעֵבָ֔ה וְאִ֥ישׁ אֶת כַּלָּת֖וֹ טִמֵּ֣א בְזִמָּ֑ה וְאִ֛ישׁ
-    אֶת אֲחֹת֥וֹ בַת אָבִ֖יו עִנָּה בָֽךְ
-- tradition: islam
-  ref: Quran 4:23
-  note: List of forbidden close-kin unions ('uncovering nakedness') (mothers, daughters, sisters, paternal
-    and maternal aunts, nieces, mothers-in-law, stepdaughters in your care, sons' wives)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
-    وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ
-    ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
-    ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
-    أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ
-    سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+- no-marrying-fathers-wife
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ezek 22:10-11 ʿerwat ʾāb gillâ bāk ... wĕ-ʾîš ʾet kallātô ṭimmēʾ bĕ-zimmâ wĕ-ʾîš ʾet ʾăḥōtô
-    bat ʾābîw: father''s wife, daughter-in-law and half-sister in the city''s crimes; Q 4:22-23 the same
-    three in the list of forbidden women (mā nakaḥa ābāʾukum, ḥalāʾilu abnāʾikum, akhawātukum).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A man must not take his father''s wife (uncover his father''s skirt)
-    (weight 6.0); List of forbidden close-kin unions (''uncovering nakedness'') (weight 6.0). Pair score
+- text: 'Shared motifs, rarest first: List of forbidden close-kin unions (''uncovering nakedness'') (weight
+    6.0); A man must not take his father''s wife (uncover his father''s skirt) (weight 6.0). Pair score
     12.0.'
   basis: reading
 - text: 'Only in The city of blood; the dross in the furnace; no man in the breach: Catalogue of social,
@@ -122,6 +58,72 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man must not take his father's wife (uncover his father's skirt)
+kinds:
+- echo
+- shared
+units:
+- id: hb-ezek-22-city-of-blood
+  title: The city of blood; the dross in the furnace; no man in the breach
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: echo
+  label: A man must not take his father's wife (uncover his father's skirt)
+  note: 'Ezek 22:10-11 ʿerwat ʾāb gillâ bāk ... wĕ-ʾîš ʾet kallātô ṭimmēʾ bĕ-zimmâ wĕ-ʾîš ʾet ʾăḥōtô bat
+    ʾābîw: father''s wife, daughter-in-law and half-sister in the city''s crimes; Q 4:22-23 the same three
+    in the list of forbidden women (mā nakaḥa ābāʾukum, ḥalāʾilu abnāʾikum, akhawātukum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 22:10
+      lang: he
+      text: עֶרְוַת אָ֖ב גִּלָּה בָ֑ךְ טְמֵאַ֥ת הַנִּדָּ֖ה עִנּוּ בָֽךְ
+    - ref: Ezek 22:11
+      lang: he
+      text: וְאִ֣ישׁ אֶת אֵ֣שֶׁת רֵעֵ֗הוּ עָשָׂה֙ תּֽוֹעֵבָ֔ה וְאִ֥ישׁ אֶת כַּלָּת֖וֹ טִמֵּ֣א בְזִמָּ֑ה
+        וְאִ֛ישׁ אֶת אֲחֹת֥וֹ בַת אָבִ֖יו עִנָּה בָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:22
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ
+        كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
+    - ref: Quran 4:23
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
+        وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم
+        مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
+        ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
+        أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا
+        قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+- kind: shared
+  label: List of forbidden close-kin unions ('uncovering nakedness')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 22:10
+      lang: he
+      text: עֶרְוַת אָ֖ב גִּלָּה בָ֑ךְ טְמֵאַ֥ת הַנִּדָּ֖ה עִנּוּ בָֽךְ
+    - ref: Ezek 22:11
+      lang: he
+      text: וְאִ֣ישׁ אֶת אֵ֣שֶׁת רֵעֵ֗הוּ עָשָׂה֙ תּֽוֹעֵבָ֔ה וְאִ֥ישׁ אֶת כַּלָּת֖וֹ טִמֵּ֣א בְזִמָּ֑ה
+        וְאִ֛ישׁ אֶת אֲחֹת֥וֹ בַת אָבִ֖יו עִנָּה בָֽךְ
+    note: daughter-in-law, sister the father's daughter; menstruant violated
+  - tradition: islam
+    passages:
+    - ref: Quran 4:23
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
+        وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم
+        مِّنَ ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
+        ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
+        أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا
+        قَدْ سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+    note: mothers, daughters, sisters, paternal and maternal aunts, nieces, mothers-in-law, stepdaughters
+      in your care, sons' wives
 ---
 
 ## Questions

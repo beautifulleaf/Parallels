@@ -2,8 +2,7 @@
 id: motif-hb-ruth-1-naomi-ruth-return-vs-quran-4-women-orphans-justice
 title: Naomi's losses in Moab and Ruth's vow of loyalty ↔ Orphan girls, reconciliation, the suspended
   wife, and justice against oneself
-summary: 'These two units share 1 motifs: do not leave a wife ''suspended'' (kal-muʿallaqa), neither married
-  nor free.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - wife-left-suspended
-passages:
-- tradition: judaism
-  ref: Ruth 1:13
-  note: 'Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married nor free (Q: fa-tadharūhā
-    ka-l-muʿallaqa, left ''hanging'', neither married nor free. Ruth: ha-lāhēn tēʿāgēnāh lə-viltî hĕyôt
-    lə-ʾîš, ''would you be anchored (ʿ-g-n), not belonging to a man?''. The root of the later rabbinic
-    ʿagunah. cf. (not a match) m. Gittin, ʿagunah law.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלָהֵ֣ן תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ
-    אַ֣ל בְּנֹתַ֗י כִּֽי מַר לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי יָצְאָ֥ה בִ֖י יַד יְהוָֽה
-- tradition: islam
-  ref: Quran 4:129
-  note: Do not leave a wife 'suspended' (kal-muʿallaqa), neither married nor free
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟ كُلَّ
-    ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا
-    رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: fa-tadharūhā ka-l-muʿallaqa, left ''hanging'', neither married nor free. Ruth: ha-lāhēn tēʿāgēnāh
-    lə-viltî hĕyôt lə-ʾîš, ''would you be anchored (ʿ-g-n), not belonging to a man?''. The root of the
-    later rabbinic ʿagunah. cf. (not a match) m. Gittin, ʿagunah law.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not leave a wife ''suspended'' (kal-muʿallaqa), neither married
     nor free (weight 6.7). Pair score 6.7.'
@@ -67,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not leave a wife 'suspended' (kal-muʿallaqa), neither married nor free
+kinds:
+- echo
+units:
+- id: hb-ruth-1-naomi-ruth-return
+  title: Naomi's losses in Moab and Ruth's vow of loyalty
+  tradition: judaism
+- id: quran-4-women-orphans-justice
+  title: Orphan girls, reconciliation, the suspended wife, and justice against oneself
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not leave a wife 'suspended' (kal-muʿallaqa), neither married nor free
+  note: 'Q: fa-tadharūhā ka-l-muʿallaqa, left ''hanging'', neither married nor free. Ruth: ha-lāhēn tēʿāgēnāh
+    lə-viltî hĕyôt lə-ʾîš, ''would you be anchored (ʿ-g-n), not belonging to a man?''. The root of the
+    later rabbinic ʿagunah. cf. (not a match) m. Gittin, ʿagunah law.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ruth 1:13
+      lang: he
+      text: הֲלָהֵ֣ן תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת
+        לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי מַר לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי יָצְאָ֥ה בִ֖י יַד יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:129
+      lang: ar
+      text: وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ فَلَا تَمِيلُوا۟
+        كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ
+        غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-5-sotah-ordeal-vs-quran-5-bequest-witnesses
 title: The suspected adulteress and the bitter water ↔ Witnesses to a bequest made far from home
-summary: 'These two units share 1 motifs: an oath before god settles a suspicion that cannot be proven.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,46 +13,9 @@ layers:
 - motif
 motifs:
 - oath-imposed-on-suspicion
-passages:
-- tradition: judaism
-  ref: Num 5:19
-  note: 'An oath before God settles a suspicion that cannot be proven (An oath before God settles a suspicion
-    that cannot be proven. Q: taḥbisūnahumā min baʿdi l-ṣalāti fa-yuqsimāni bi-llāhi ini rtabtum. Num:
-    wə-hišbîaʿ ʾōtāh hak-kōhēn, with the curse-water ordeal. In Q, if the oath is found false, two heirs
-    swear a counter-oath; there is no ordeal.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ וְאִם
-    לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
-- tradition: islam
-  ref: Quran 5:106
-  note: 'An oath before God settles a suspicion that cannot be proven (An oath before God settles a suspicion
-    that cannot be proven. Q: taḥbisūnahumā min baʿdi l-ṣalāti fa-yuqsimāni bi-llāhi ini rtabtum. Num:
-    wə-hišbîaʿ ʾōtāh hak-kōhēn, with the curse-water ordeal. In Q, if the oath is found false, two heirs
-    swear a counter-oath; there is no ordeal.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
-    ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
-    فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
-    بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ شَهَٰدَةَ
-    ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
-- tradition: islam
-  ref: Quran 5:107
-  note: 'An oath before God settles a suspicion that cannot be proven (An oath before God settles a suspicion
-    that cannot be proven. Q: taḥbisūnahumā min baʿdi l-ṣalāti fa-yuqsimāni bi-llāhi ini rtabtum. Num:
-    wə-hišbîaʿ ʾōtāh hak-kōhēn, with the curse-water ordeal. In Q, if the oath is found false, two heirs
-    swear a counter-oath; there is no ordeal.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ
-    ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن
-    شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. An oath before God settles a suspicion that cannot be proven. Q: taḥbisūnahumā min baʿdi l-ṣalāti
-    fa-yuqsimāni bi-llāhi ini rtabtum. Num: wə-hišbîaʿ ʾōtāh hak-kōhēn, with the curse-water ordeal. In
-    Q, if the oath is found false, two heirs swear a counter-oath; there is no ordeal.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An oath before God settles a suspicion that cannot be proven (weight
     6.7). Pair score 6.7.'
@@ -80,6 +43,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An oath before God settles a suspicion that cannot be proven
+kinds:
+- echo
+units:
+- id: hb-num-5-sotah-ordeal
+  title: The suspected adulteress and the bitter water
+  tradition: judaism
+- id: quran-5-bequest-witnesses
+  title: Witnesses to a bequest made far from home
+  tradition: islam
+matches:
+- kind: echo
+  label: An oath before God settles a suspicion that cannot be proven
+  note: 'An oath before God settles a suspicion that cannot be proven. Q: taḥbisūnahumā min baʿdi l-ṣalāti
+    fa-yuqsimāni bi-llāhi ini rtabtum. Num: wə-hišbîaʿ ʾōtāh hak-kōhēn, with the curse-water ordeal. In
+    Q, if the oath is found false, two heirs swear a counter-oath; there is no ordeal.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:19
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ אֹתָ֜הּ הַכֹּהֵ֗ן וְאָמַ֤ר אֶל הָֽאִשָּׁה֙ אִם לֹ֨א שָׁכַ֥ב אִישׁ֙ אֹתָ֔ךְ
+        וְאִם לֹ֥א שָׂטִ֛ית טֻמְאָ֖ה תַּ֣חַת אִישֵׁ֑ךְ הִנָּקִ֕י מִמֵּ֛י הַמָּרִ֥ים הַֽמְאָרֲרִ֖ים הָאֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:106
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ شَهَٰدَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ ٱلْمَوْتُ حِينَ
+        ٱلْوَصِيَّةِ ٱثْنَانِ ذَوَا عَدْلٍ مِّنكُمْ أَوْ ءَاخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنتُمْ ضَرَبْتُمْ
+        فِى ٱلْأَرْضِ فَأَصَٰبَتْكُم مُّصِيبَةُ ٱلْمَوْتِ تَحْبِسُونَهُمَا مِنۢ بَعْدِ ٱلصَّلَوٰةِ فَيُقْسِمَانِ
+        بِٱللَّهِ إِنِ ٱرْتَبْتُمْ لَا نَشْتَرِى بِهِۦ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ وَلَا نَكْتُمُ
+        شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذًا لَّمِنَ ٱلْءَاثِمِينَ
+    - ref: Quran 5:107
+      lang: ar
+      text: فَإِنْ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسْتَحَقَّآ إِثْمًا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا
+        مِنَ ٱلَّذِينَ ٱسْتَحَقَّ عَلَيْهِمُ ٱلْأَوْلَيَٰنِ فَيُقْسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ
+        مِن شَهَٰدَتِهِمَا وَمَا ٱعْتَدَيْنَآ إِنَّآ إِذًا لَّمِنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

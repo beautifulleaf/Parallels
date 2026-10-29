@@ -2,8 +2,7 @@
 id: motif-hb-jonah-4-qiqayon-vs-quran-68-qalam-shin-and-jonah
 title: Jonah's anger, the qiqayon plant and God's question ↔ Do you have a book or oaths binding God?;
   the shin laid bare; the companion of the fish; the evil eye
-summary: 'These two units share 2 motifs: the prophet is bitterly angry that god has spared the sinners,
-  the prophet is bitterly angry that god has spared the sinners [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,80 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- prophet-angry-at-divine-mercy
 - prophet-angry-at-divine-mercy-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 4:1
-  note: The prophet is bitterly angry that God has spared the sinners ('Is it good that you are angry?'
-    asked twice)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֥רַע אֶל יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ
-- tradition: judaism
-  ref: Jonah 4:4
-  note: The prophet is bitterly angry that God has spared the sinners ('Is it good that you are angry?'
-    asked twice)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר יְהוָ֔ה הַהֵיטֵ֖ב חָ֥רָה לָֽךְ
-- tradition: islam
-  ref: Quran 68:48
-  note: The prophet is bitterly angry that God has spared the sinners (makzum, choked with grief/anger)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: judaism
-  ref: Jonah 4:1
-  note: 'The prophet is bitterly angry that God has spared the sinners [divergence between the texts]
-    (Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s unanswered
-    question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu
-    rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s word for
-    his state, not ḥārāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֥רַע אֶל יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ
-- tradition: judaism
-  ref: Jonah 4:9
-  note: 'The prophet is bitterly angry that God has spared the sinners [divergence between the texts]
-    (Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s unanswered
-    question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu
-    rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s word for
-    his state, not ḥārāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל יוֹנָ֔ה הַהֵיטֵ֥ב חָרָֽה לְךָ֖ עַל הַקִּֽיקָי֑וֹן וַיֹּ֕אמֶר הֵיטֵ֥ב
-    חָֽרָה לִ֖י עַד מָֽוֶת
-- tradition: islam
-  ref: Quran 68:48
-  note: 'The prophet is bitterly angry that God has spared the sinners [divergence between the texts]
-    (Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s unanswered
-    question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu
-    rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s word for
-    his state, not ḥārāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
-- tradition: islam
-  ref: Quran 68:50
-  note: 'The prophet is bitterly angry that God has spared the sinners [divergence between the texts]
-    (Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s unanswered
-    question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu
-    rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s word for
-    his state, not ḥārāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
+- prophet-angry-at-divine-mercy
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s
-    unanswered question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored:
-    fa-jtabāhu rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s
-    word for his state, not ḥārāh.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The prophet is bitterly angry that God has spared the sinners (weight
-    6.7); The prophet is bitterly angry that God has spared the sinners [divergence between the texts]
-    (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The prophet is bitterly angry that God has spared the sinners [divergence
+    between the texts] (weight 6.7); The prophet is bitterly angry that God has spared the sinners (weight
+    6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Jonah''s anger, the qiqayon plant and God''s question: God''s compassion extends to the
     many animals of the city; God argues from the prophet''s pity for a plant that grew and perished in
@@ -124,6 +58,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet is bitterly angry that God has spared the sinners
+kinds:
+- divergence
+units:
+- id: hb-jonah-4-qiqayon
+  title: Jonah's anger, the qiqayon plant and God's question
+  tradition: judaism
+- id: quran-68-qalam-shin-and-jonah
+  title: Do you have a book or oaths binding God?; the shin laid bare; the companion of the fish; the
+    evil eye
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet is bitterly angry that God has spared the sinners
+  note: 'Ending changed: Jonah ends on the prophet still angry (hêṭēv ḥārāh lî ʿad māwet) and God''s unanswered
+    question (wa-ʾănî lōʾ ʾāḥûs ʿal Nînewēh). Q 68:50 closes the story with the prophet restored: fa-jtabāhu
+    rabbuhu fa-jaʿalahu mina ṣ-ṣāliḥīn. makẓūm (choked with suppressed grief) is the Quran''s word for
+    his state, not ḥārāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 4:1
+      lang: he
+      text: וַיֵּ֥רַע אֶל יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ
+    - ref: Jonah 4:9
+      lang: he
+      text: וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל יוֹנָ֔ה הַהֵיטֵ֥ב חָרָֽה לְךָ֖ עַל הַקִּֽיקָי֑וֹן וַיֹּ֕אמֶר הֵיטֵ֥ב
+        חָֽרָה לִ֖י עַד מָֽוֶת
+    - ref: Jonah 4:11
+      lang: he
+      text: וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים
+        עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא יָדַע֙ בֵּין יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 68:48
+      lang: ar
+      text: فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ
+    - ref: Quran 68:50
+      lang: ar
+      text: فَٱجْتَبَٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

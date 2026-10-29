@@ -2,8 +2,7 @@
 id: motif-hb-deut-33-blessing-of-moses-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'The Blessing of Moses on the tribes ↔ Al-Mujadila: the woman who disputed, the zihar formula and
   its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 1 motifs: believers do not love those who oppose god, even fathers, sons,
-  brothers or clan; god writes faith on their hearts and supports them with a spirit.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - no-love-for-enemies-of-god-even-kin
-passages:
-- tradition: judaism
-  ref: Deut 33:9
-  note: 'Believers do not love those who oppose God, even fathers, sons, brothers or clan; God writes
-    faith on their hearts and supports them with a spirit (Disowning kin for God''s covenant: hā-ʾōmēr
-    lə-ʾāḇîw û-lə-ʾimmô lōʾ rəʾîṯîw wə-ʾeṯ ʾeḥâw lōʾ hikkîr wə-ʾeṯ bānâw lōʾ yāḏāʿ kî šāmərû ʾimrāṯeḵā
-    (Levi) vs. wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum. Same three relations: fathers, brothers,
-    sons. Deuteronomy praises a priestly tribe; the Quran makes it the mark of every believer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו בָּנָ֖יו
-    לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ
-- tradition: islam
-  ref: Quran 58:22
-  note: Believers do not love those who oppose God, even fathers, sons, brothers or clan; God writes faith
-    on their hearts and supports them with a spirit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ
-    وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ
-    أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ
-    تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ
-    حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Disowning kin for God''s covenant: hā-ʾōmēr lə-ʾāḇîw û-lə-ʾimmô lōʾ rəʾîṯîw wə-ʾeṯ ʾeḥâw
-    lōʾ hikkîr wə-ʾeṯ bānâw lōʾ yāḏāʿ kî šāmərû ʾimrāṯeḵā (Levi) vs. wa-law kānū ābāʾahum aw abnāʾahum
-    aw ikhwānahum. Same three relations: fathers, brothers, sons. Deuteronomy praises a priestly tribe;
-    the Quran makes it the mark of every believer.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers do not love those who oppose God, even fathers, sons,
     brothers or clan; God writes faith on their hearts and supports them with a spirit (weight 6.7). Pair
@@ -80,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Believers do not love those who oppose God, even fathers, sons, brothers or clan; God writes
+  faith on their hearts and supports them with a spirit
+kinds:
+- parallel
+units:
+- id: hb-deut-33-blessing-of-moses
+  title: The Blessing of Moses on the tribes
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Believers do not love those who oppose God, even fathers, sons, brothers or clan; God writes
+    faith on their hearts and supports them with a spirit
+  note: 'Disowning kin for God''s covenant: hā-ʾōmēr lə-ʾāḇîw û-lə-ʾimmô lōʾ rəʾîṯîw wə-ʾeṯ ʾeḥâw lōʾ
+    hikkîr wə-ʾeṯ bānâw lōʾ yāḏāʿ kî šāmərû ʾimrāṯeḵā (Levi) vs. wa-law kānū ābāʾahum aw abnāʾahum aw
+    ikhwānahum. Same three relations: fathers, brothers, sons. Deuteronomy praises a priestly tribe; the
+    Quran makes it the mark of every believer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 33:9
+      lang: he
+      text: הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו בָּנָ֖יו
+        לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 58:22
+      lang: ar
+      text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ
+        ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ
+        عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ
+        جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟
+        عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

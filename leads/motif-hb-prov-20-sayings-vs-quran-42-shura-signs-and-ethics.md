@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-42-shura-signs-and-ethics
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Provision in measure, rain, ships like
   mountains and the ethics of consultation and pardon
-summary: 'These two units share 1 motifs: without counsel a people falls; in a multitude of counselors
-  there is victory.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - safety-in-many-counselors
-passages:
-- tradition: judaism
-  ref: Prov 20:18
-  note: Without counsel a people falls; in a multitude of counselors there is victory (wage war by guidance
-    (tahbulot))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַ֭חֲשָׁבוֹת בְּעֵצָ֣ה תִכּ֑וֹן וּ֝בְתַחְבֻּל֗וֹת עֲשֵׂ֣ה מִלְחָמָֽה
-- tradition: islam
-  ref: Quran 42:38
-  note: Without counsel a people falls; in a multitude of counselors there is victory (maḥăšāḇôṯ bə-ʿēṣâ
-    tikkôn û-ḇə-ṯaḥbulôṯ ʿăśēh milḥāmâ vs. wa-amruhum shūrā baynahum. A piece of advice for rulers in
-    Proverbs becomes a mark of the believing community in the Quran (beside prayer and almsgiving).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ
-    وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. maḥăšāḇôṯ bə-ʿēṣâ tikkôn û-ḇə-ṯaḥbulôṯ ʿăśēh milḥāmâ vs. wa-amruhum shūrā baynahum. A piece
-    of advice for rulers in Proverbs becomes a mark of the believing community in the Quran (beside prayer
-    and almsgiving).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Without counsel a people falls; in a multitude of counselors there
     is victory (weight 5.8). Pair score 5.8.'
@@ -74,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Without counsel a people falls; in a multitude of counselors there is victory
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: echo
+  label: Without counsel a people falls; in a multitude of counselors there is victory
+  note: maḥăšāḇôṯ bə-ʿēṣâ tikkôn û-ḇə-ṯaḥbulôṯ ʿăśēh milḥāmâ vs. wa-amruhum shūrā baynahum. A piece of
+    advice for rulers in Proverbs becomes a mark of the believing community in the Quran (beside prayer
+    and almsgiving).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:18
+      lang: he
+      text: מַ֭חֲשָׁבוֹת בְּעֵצָ֣ה תִכּ֑וֹן וּ֝בְתַחְבֻּל֗וֹת עֲשֵׂ֣ה מִלְחָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 42:38
+      lang: ar
+      text: وَٱلَّذِينَ ٱسْتَجَابُوا۟ لِرَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ
+        وَمِمَّا رَزَقْنَٰهُمْ يُنفِقُونَ
 ---
 
 ## Questions

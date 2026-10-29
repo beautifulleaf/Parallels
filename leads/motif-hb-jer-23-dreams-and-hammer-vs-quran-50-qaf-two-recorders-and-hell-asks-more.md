@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-dreams-and-hammer-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: A God near and far; dreams versus the word like a hammer ↔ Nearer than the jugular vein; the two
   recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: god created man, knows what his soul whispers to him, and is
-  nearer to him than his jugular vein.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - god-nearer-than-jugular-vein
-passages:
-- tradition: judaism
-  ref: Jer 23:23
-  note: God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein
-    (ha-ʾĕlōhê miq-qārōḇ ʾānî ... wə-lōʾ ʾĕlōhê mē-rāḥōq; ʾim yissāṯēr ʾîš bam-mistārîm wa-ʾănî lōʾ ʾerʾennû
-    vs. wa-naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd. Jeremiah's 'near'
-    God sees what is hidden (and fills heaven and earth); the Quran's knows the soul's whispers from closer
-    than the neck vein.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַאֱלֹהֵ֧י מִקָּרֹ֛ב אָ֖נִי נְאֻם יְהוָ֑ה וְלֹ֥א אֱלֹהֵ֖י מֵרָחֹֽק
-- tradition: judaism
-  ref: Jer 23:24
-  note: God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein
-    (ha-ʾĕlōhê miq-qārōḇ ʾānî ... wə-lōʾ ʾĕlōhê mē-rāḥōq; ʾim yissāṯēr ʾîš bam-mistārîm wa-ʾănî lōʾ ʾerʾennû
-    vs. wa-naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd. Jeremiah's 'near'
-    God sees what is hidden (and fills heaven and earth); the Quran's knows the soul's whispers from closer
-    than the neck vein.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא אֶרְאֶ֖נּוּ נְאֻם יְהוָ֑ה הֲל֨וֹא אֶת הַשָּׁמַ֧יִם
-    וְאֶת הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 50:16
-  note: God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ
-    مِنْ حَبْلِ ٱلْوَرِيدِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. ha-ʾĕlōhê miq-qārōḇ ʾānî ... wə-lōʾ ʾĕlōhê mē-rāḥōq; ʾim yissāṯēr ʾîš bam-mistārîm wa-ʾănî lōʾ
-    ʾerʾennû vs. wa-naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd. Jeremiah''s
-    ''near'' God sees what is hidden (and fills heaven and earth); the Quran''s knows the soul''s whispers
-    from closer than the neck vein.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created man, knows what his soul whispers to him, and is nearer
     to him than his jugular vein (weight 6.7). Pair score 6.7.'
@@ -84,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein
+kinds:
+- echo
+units:
+- id: hb-jer-23-dreams-and-hammer
+  title: A God near and far; dreams versus the word like a hammer
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: echo
+  label: God created man, knows what his soul whispers to him, and is nearer to him than his jugular vein
+  note: ha-ʾĕlōhê miq-qārōḇ ʾānî ... wə-lōʾ ʾĕlōhê mē-rāḥōq; ʾim yissāṯēr ʾîš bam-mistārîm wa-ʾănî lōʾ
+    ʾerʾennû vs. wa-naʿlamu mā tuwaswisu bihi nafsuhu wa-naḥnu aqrabu ilayhi min ḥabli l-warīd. Jeremiah's
+    'near' God sees what is hidden (and fills heaven and earth); the Quran's knows the soul's whispers
+    from closer than the neck vein.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:23
+      lang: he
+      text: הַאֱלֹהֵ֧י מִקָּרֹ֛ב אָ֖נִי נְאֻם יְהוָ֑ה וְלֹ֥א אֱלֹהֵ֖י מֵרָחֹֽק
+    - ref: Jer 23:24
+      lang: he
+      text: אִם יִסָּתֵ֨ר אִ֧ישׁ בַּמִּסְתָּרִ֛ים וַאֲנִ֥י לֹֽא אֶרְאֶ֖נּוּ נְאֻם יְהוָ֑ה הֲל֨וֹא אֶת
+        הַשָּׁמַ֧יִם וְאֶת הָאָ֛רֶץ אֲנִ֥י מָלֵ֖א נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 50:16
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ
+        إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ
 ---
 
 ## Questions

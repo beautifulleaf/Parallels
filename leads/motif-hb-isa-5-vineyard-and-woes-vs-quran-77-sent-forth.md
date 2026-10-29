@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-77-sent-forth
 title: 'Song of the vineyard; six woes; the nation from afar ↔ Those sent forth: the refrain of woe'
-summary: 'These two units share 1 motifs: refrain ''woe that day to the deniers'' (waylun yawma''idhin
-  lil-mukadhdhibin) repeated through a surah.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +13,9 @@ layers:
 - motif
 motifs:
 - woe-to-deniers-refrain
-passages:
-- tradition: judaism
-  ref: Isa 5:8
-  note: 'Refrain ''Woe that day to the deniers'' (waylun yawma''idhin lil-mukadhdhibin) repeated through
-    a surah (Refrain of woe: waylun yawmaʾidhin li-l-mukadhdhibīn (ten times) ~ hôy maggîʿê vayit be-vayit
-    ..., hôy ... (six woes). Isaiah''s woes name social crimes; the Quran''s single target is the deniers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֗וֹי מַגִּיעֵ֥י בַ֨יִת֙ בְּבַ֔יִת שָׂדֶ֥ה בְשָׂדֶ֖ה יַקְרִ֑יבוּ עַ֚ד אֶ֣פֶס מָק֔וֹם וְהֽוּשַׁבְתֶּ֥ם
-    לְבַדְּכֶ֖ם בְּקֶ֥רֶב הָאָֽרֶץ
-- tradition: judaism
-  ref: Isa 5:11
-  note: 'Refrain ''Woe that day to the deniers'' (waylun yawma''idhin lil-mukadhdhibin) repeated through
-    a surah (Refrain of woe: waylun yawmaʾidhin li-l-mukadhdhibīn (ten times) ~ hôy maggîʿê vayit be-vayit
-    ..., hôy ... (six woes). Isaiah''s woes name social crimes; the Quran''s single target is the deniers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֛וֹי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר שֵׁכָ֣ר יִרְדֹּ֑פוּ מְאַחֲרֵ֣י בַנֶּ֔שֶׁף יַ֖יִן יַדְלִיקֵֽם
-- tradition: islam
-  ref: Quran 77:15
-  note: Refrain 'Woe that day to the deniers' (waylun yawma'idhin lil-mukadhdhibin) repeated through a
-    surah
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
-- tradition: islam
-  ref: Quran 77:19
-  note: Refrain 'Woe that day to the deniers' (waylun yawma'idhin lil-mukadhdhibin) repeated through a
-    surah
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. Refrain of woe: waylun yawmaʾidhin li-l-mukadhdhibīn (ten times) ~ hôy maggîʿê vayit be-vayit
-    ..., hôy ... (six woes). Isaiah''s woes name social crimes; the Quran''s single target is the deniers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Refrain ''Woe that day to the deniers'' (waylun yawma''idhin lil-mukadhdhibin)
     repeated through a surah (weight 6.3). Pair score 6.3.'
@@ -86,6 +52,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Refrain 'Woe that day to the deniers' (waylun yawma'idhin lil-mukadhdhibin) repeated through
+  a surah
+kinds:
+- echo
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-77-sent-forth
+  title: 'Those sent forth: the refrain of woe'
+  tradition: islam
+matches:
+- kind: echo
+  label: Refrain 'Woe that day to the deniers' (waylun yawma'idhin lil-mukadhdhibin) repeated through
+    a surah
+  note: 'Refrain of woe: waylun yawmaʾidhin li-l-mukadhdhibīn (ten times) ~ hôy maggîʿê vayit be-vayit
+    ..., hôy ... (six woes). Isaiah''s woes name social crimes; the Quran''s single target is the deniers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:8
+      lang: he
+      text: ה֗וֹי מַגִּיעֵ֥י בַ֨יִת֙ בְּבַ֔יִת שָׂדֶ֥ה בְשָׂדֶ֖ה יַקְרִ֑יבוּ עַ֚ד אֶ֣פֶס מָק֔וֹם וְהֽוּשַׁבְתֶּ֥ם
+        לְבַדְּכֶ֖ם בְּקֶ֥רֶב הָאָֽרֶץ
+    - ref: Isa 5:11
+      lang: he
+      text: ה֛וֹי מַשְׁכִּימֵ֥י בַבֹּ֖קֶר שֵׁכָ֣ר יִרְדֹּ֑פוּ מְאַחֲרֵ֣י בַנֶּ֔שֶׁף יַ֖יִן יַדְלִיקֵֽם
+    - ref: Isa 5:20
+      lang: he
+      text: ה֣וֹי הָאֹמְרִ֥ים לָרַ֛ע ט֖וֹב וְלַטּ֣וֹב רָ֑ע שָׂמִ֨ים חֹ֤שֶׁךְ לְאוֹר֙ וְא֣וֹר לְחֹ֔שֶׁךְ
+        שָׂמִ֥ים מַ֛ר לְמָת֖וֹק וּמָת֥וֹק לְמָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 77:15
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    - ref: Quran 77:19
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
+    - ref: Quran 77:24
+      lang: ar
+      text: وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ
 ---
 
 ## Questions

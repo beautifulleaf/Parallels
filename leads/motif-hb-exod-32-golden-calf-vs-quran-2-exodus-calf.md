@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-32-golden-calf-vs-quran-2-exodus-calf
 title: The golden calf ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 2 motifs: god''s pardon after the golden calf [divergence between the
-  texts], people make a molten calf while the leader is on the mountain [divergence between the texts].'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,71 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- forgiveness-after-the-calf-as-divergence
 - golden-calf-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 32:14
-  note: 'God''s pardon after the golden calf [divergence between the texts] (Exod 32:14 wa-yyinnāḥem YHWH
-    ʿal hā-rāʿâ: God relents only after Moses'' intercession (32:11-13); Q 2:52 thumma ʿafawnā ʿankum
-    min baʿdi dhālika laʿallakum tashkurūn: God pardons with no intercession, so that they might be grateful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּנָּ֖חֶם יְהוָ֑ה עַל הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר לַעֲשׂ֥וֹת לְעַמּֽוֹ
-- tradition: islam
-  ref: Quran 2:52
-  note: 'God''s pardon after the golden calf [divergence between the texts] (Exod 32:14 wa-yyinnāḥem YHWH
-    ʿal hā-rāʿâ: God relents only after Moses'' intercession (32:11-13); Q 2:52 thumma ʿafawnā ʿankum
-    min baʿdi dhālika laʿallakum tashkurūn: God pardons with no intercession, so that they might be grateful.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ
-- tradition: judaism
-  ref: Exod 32:4
-  note: 'People make a molten calf while the leader is on the mountain [divergence between the texts]
-    (Who makes the calf: Exod 32:4 wa-yyiqqaḥ mi-yyādām wa-yyāṣar ʾōtô ba-ḥereṭ wa-yyaʿăśēhû ʿēgel massēkâ:
-    Aaron fashions it, and the people hail it ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā; Q 2:51 thumma ttakhadhtumu
-    l-ʿijla min baʿdihi wa-antum ẓālimūn: ''you took the calf'', the whole people, with Aaron unnamed
-    and no acclamation of the calf as the god of the exodus.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
-    אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 32:8
-  note: 'People make a molten calf while the leader is on the mountain [divergence between the texts]
-    (Who makes the calf: Exod 32:4 wa-yyiqqaḥ mi-yyādām wa-yyāṣar ʾōtô ba-ḥereṭ wa-yyaʿăśēhû ʿēgel massēkâ:
-    Aaron fashions it, and the people hail it ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā; Q 2:51 thumma ttakhadhtumu
-    l-ʿijla min baʿdihi wa-antum ẓālimūn: ''you took the calf'', the whole people, with Aaron unnamed
-    and no acclamation of the calf as the god of the exodus.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֣וּ לָהֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה וַיִּשְׁתַּֽחֲווּ
-    לוֹ֙ וַיִּזְבְּחוּ ל֔וֹ וַיֹּ֣אמְר֔וּ אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶֽעֱל֖וּךָ מֵאֶ֥רֶץ
-    מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 2:51
-  note: 'People make a molten calf while the leader is on the mountain [divergence between the texts]
-    (Who makes the calf: Exod 32:4 wa-yyiqqaḥ mi-yyādām wa-yyāṣar ʾōtô ba-ḥereṭ wa-yyaʿăśēhû ʿēgel massēkâ:
-    Aaron fashions it, and the people hail it ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā; Q 2:51 thumma ttakhadhtumu
-    l-ʿijla min baʿdihi wa-antum ẓālimūn: ''you took the calf'', the whole people, with Aaron unnamed
-    and no acclamation of the calf as the god of the exodus.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ وَأَنتُمْ
-    ظَٰلِمُونَ
+- forgiveness-after-the-calf-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Who makes the calf: Exod 32:4 wa-yyiqqaḥ mi-yyādām wa-yyāṣar ʾōtô ba-ḥereṭ wa-yyaʿăśēhû
-    ʿēgel massēkâ: Aaron fashions it, and the people hail it ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā;
-    Q 2:51 thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn: ''you took the calf'', the whole
-    people, with Aaron unnamed and no acclamation of the calf as the god of the exodus. Exod 32:14 wa-yyinnāḥem
-    YHWH ʿal hā-rāʿâ: God relents only after Moses'' intercession (32:11-13); Q 2:52 thumma ʿafawnā ʿankum
-    min baʿdi dhālika laʿallakum tashkurūn: God pardons with no intercession, so that they might be grateful.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God''s pardon after the golden calf [divergence between the texts]
-    (weight 6.7); People make a molten calf while the leader is on the mountain [divergence between the
-    texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain [divergence
+    between the texts] (weight 6.7); God''s pardon after the golden calf [divergence between the texts]
+    (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in The golden calf: Aaron builds an altar before the calf and proclaims a feast to YHWH;
     Intercessor reminds God of his oath to Abraham, Isaac and Jacob; The people eat, drink and rise up
@@ -107,6 +50,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People make a molten calf while the leader is on the mountain
+kinds:
+- divergence
+units:
+- id: hb-exod-32-golden-calf
+  title: The golden calf
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: divergence
+  label: People make a molten calf while the leader is on the mountain
+  note: 'Who makes the calf: Exod 32:4 wa-yyiqqaḥ mi-yyādām wa-yyāṣar ʾōtô ba-ḥereṭ wa-yyaʿăśēhû ʿēgel
+    massēkâ: Aaron fashions it, and the people hail it ʾēlleh ʾĕlōhêkā yiśrāʾēl ʾăšer heʿĕlûkā; Q 2:51
+    thumma ttakhadhtumu l-ʿijla min baʿdihi wa-antum ẓālimūn: ''you took the calf'', the whole people,
+    with Aaron unnamed and no acclamation of the calf as the god of the exodus.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:4
+      lang: he
+      text: וַיִּקַּ֣ח מִיָּדָ֗ם וַיָּ֤צַר אֹתוֹ֙ בַּחֶ֔רֶט וַֽיַּעֲשֵׂ֖הוּ עֵ֣גֶל מַסֵּכָ֑ה וַיֹּ֣אמְר֔וּ
+        אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם
+    - ref: Exod 32:8
+      lang: he
+      text: סָ֣רוּ מַהֵ֗ר מִן הַדֶּ֨רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֣וּ לָהֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה וַיִּשְׁתַּֽחֲווּ
+        לוֹ֙ וַיִּזְבְּחוּ ל֔וֹ וַיֹּ֣אמְר֔וּ אֵ֤לֶּה אֱלֹהֶ֨יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶֽעֱל֖וּךָ מֵאֶ֥רֶץ
+        מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:51
+      lang: ar
+      text: وَإِذْ وَٰعَدْنَا مُوسَىٰٓ أَرْبَعِينَ لَيْلَةً ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِۦ
+        وَأَنتُمْ ظَٰلِمُونَ
+- kind: divergence
+  label: God's pardon after the golden calf
+  note: 'Exod 32:14 wa-yyinnāḥem YHWH ʿal hā-rāʿâ: God relents only after Moses'' intercession (32:11-13);
+    Q 2:52 thumma ʿafawnā ʿankum min baʿdi dhālika laʿallakum tashkurūn: God pardons with no intercession,
+    so that they might be grateful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:14
+      lang: he
+      text: וַיִּנָּ֖חֶם יְהוָ֑ה עַל הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר לַעֲשׂ֥וֹת לְעַמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:52
+      lang: ar
+      text: ثُمَّ عَفَوْنَا عَنكُم مِّنۢ بَعْدِ ذَٰلِكَ لَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

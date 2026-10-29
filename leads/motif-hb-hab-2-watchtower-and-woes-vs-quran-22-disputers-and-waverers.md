@@ -2,8 +2,7 @@
 id: motif-hb-hab-2-watchtower-and-woes-vs-quran-22-disputers-and-waverers
 title: The vision on tablets; the righteous live by faith; five woes ↔ Those who dispute about God and
   those who worship on an edge
-summary: 'These two units share 2 motifs: worshipping what can neither harm nor benefit you, idols of
-  wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,56 +15,9 @@ layers:
 motifs:
 - idols-neither-harm-nor-benefit
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Hab 2:18
-  note: 'Worshipping what can neither harm nor benefit you (mā lā yanfaʿuhu ~ mâ-hôʿîl pesel ''what profit
-    is an idol?'': the uselessness (lack of benefit, hôʿîl / nafaʿa) of what is worshipped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: islam
-  ref: Quran 22:12
-  note: 'Worshipping what can neither harm nor benefit you (yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā
-    lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: the idol can do neither harm (raʿ / ḍarr) nor
-    good (hêṭîv / nafʿ). Q 22:13 adds a twist: the idol''s harm is nearer than its benefit (ḍarruhu aqrabu
-    min nafʿihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
-- tradition: islam
-  ref: Quran 22:13
-  note: 'Worshipping what can neither harm nor benefit you (yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā
-    lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: the idol can do neither harm (raʿ / ḍarr) nor
-    good (hêṭîv / nafʿ). Q 22:13 adds a twist: the idol''s harm is nearer than its benefit (ḍarruhu aqrabu
-    min nafʿihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
-- tradition: judaism
-  ref: Hab 2:18
-  note: Idols of wood and stone that cannot see, hear, eat or smell (dumb idols (elilim illemim))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: islam
-  ref: Quran 22:12
-  note: Idols of wood and stone that cannot see, hear, eat or smell (they neither harm nor benefit)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
-- tradition: islam
-  ref: Quran 22:13
-  note: Idols of wood and stone that cannot see, hear, eat or smell (they neither harm nor benefit)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. mā lā yanfaʿuhu ~ mâ-hôʿîl pesel ''what profit is an idol?'': the uselessness (lack of benefit,
-    hôʿîl / nafaʿa) of what is worshipped.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
     Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0). Pair score 10.8.'
@@ -97,6 +49,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Worshipping what can neither harm nor benefit you
+kinds:
+- echo
+- shared
+units:
+- id: hb-hab-2-watchtower-and-woes
+  title: The vision on tablets; the righteous live by faith; five woes
+  tradition: judaism
+- id: quran-22-disputers-and-waverers
+  title: Those who dispute about God and those who worship on an edge
+  tradition: islam
+matches:
+- kind: echo
+  label: Worshipping what can neither harm nor benefit you
+  note: 'mā lā yanfaʿuhu ~ mâ-hôʿîl pesel ''what profit is an idol?'': the uselessness (lack of benefit,
+    hôʿîl / nafaʿa) of what is worshipped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 22:12
+      lang: ar
+      text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ
+        ٱلْبَعِيدُ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+    note: dumb idols (elilim illemim)
+  - tradition: islam
+    passages:
+    - ref: Quran 22:12
+      lang: ar
+      text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ
+        ٱلْبَعِيدُ
+    - ref: Quran 22:13
+      lang: ar
+      text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+    note: they neither harm nor benefit
 ---
 
 ## Questions

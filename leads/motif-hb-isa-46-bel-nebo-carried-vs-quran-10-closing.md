@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-46-bel-nebo-carried-vs-quran-10-closing
 title: Bel and Nebo carried off; God who carries Israel ↔ The hanif creed and patience
-summary: 'These two units share 1 motifs: the made idol cannot move from its place, speak or answer and
-  save those who cry to it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - idol-cannot-move-or-answer
-passages:
-- tradition: judaism
-  ref: Isa 46:7
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ לֹ֣א
-    יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
-- tradition: judaism
-  ref: Isa 46:6
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ
-    אֵ֔ל יִסְגְּד֖וּ אַף יִֽשְׁתַּחֲוּֽוּ
-- tradition: islam
-  ref: Quran 10:106
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The false
-    god can do neither harm nor good: wa-lā tadʿu min dūni llāhi mā lā yanfaʿuka wa-lā yaḍurruka vs ʾal-tîrᵉʾû
-    mēhem kî-lōʾ yārēʿû wᵉgam-hêṭêb ʾên ʾôtām (both pair ''harm'' and ''good'').)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ إِذًا
-    مِّنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû vs lā tadʿu min dūni llāhi mā lā yanfaʿuka
-    wa-lā yaḍurruka: calling on what cannot help.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
     those who cry to it (weight 5.4). Pair score 5.4.'
@@ -66,6 +40,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The made idol cannot move from its place, speak or answer and save those who cry to it
+kinds:
+- echo
+units:
+- id: hb-isa-46-bel-nebo-carried
+  title: Bel and Nebo carried off; God who carries Israel
+  tradition: judaism
+- id: quran-10-closing
+  title: The hanif creed and patience
+  tradition: islam
+matches:
+- kind: echo
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  note: 'ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû vs lā tadʿu min dūni llāhi mā lā yanfaʿuka
+    wa-lā yaḍurruka: calling on what cannot help.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 46:7
+      lang: he
+      text: יִ֠שָּׂאֻהוּ עַל כָּתֵ֨ף יִסְבְּלֻ֜הוּ וְיַנִּיחֻ֤הוּ תַחְתָּיו֙ וְיַֽעֲמֹ֔ד מִמְּקוֹמ֖וֹ
+        לֹ֣א יָמִ֑ישׁ אַף יִצְעַ֤ק אֵלָיו֙ וְלֹ֣א יַעֲנֶ֔ה מִצָּרָת֖וֹ לֹ֥א יוֹשִׁיעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:106
+      lang: ar
+      text: وَلَا تَدْعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَ فَإِن فَعَلْتَ فَإِنَّكَ
+        إِذًا مِّنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-15-release-year-vs-quran-2-usury
 title: Release of debts, release of Hebrew slaves, firstlings ↔ Usury
-summary: 'These two units share 1 motifs: relief of debtors: release or respite [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,45 +13,9 @@ layers:
 - motif
 motifs:
 - relief-of-debtors-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 15:1
-  note: 'Relief of debtors: release or respite [divergence between the texts] (Deut 15:2 šāmôṭ kol baʿal
-    maššēh yādô ... lōʾ yiggōś ʾet rēʿēhû: a fixed seventh-year remission, do not press your neighbour;
-    Q 2:280 wa-in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin wa-an taṣaddaqū khayrun lakum: for a debtor
-    in hardship, delay until he can pay; to remit it as charity is better. A calendar release becomes
-    respite by need, and full remission becomes a voluntary alms.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִקֵּ֥ץ שֶֽׁבַע שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה
-- tradition: judaism
-  ref: Deut 15:2
-  note: 'Relief of debtors: release or respite [divergence between the texts] (Deut 15:2 šāmôṭ kol baʿal
-    maššēh yādô ... lōʾ yiggōś ʾet rēʿēhû: a fixed seventh-year remission, do not press your neighbour;
-    Q 2:280 wa-in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin wa-an taṣaddaqū khayrun lakum: for a debtor
-    in hardship, delay until he can pay; to remit it as charity is better. A calendar release becomes
-    respite by need, and full remission becomes a voluntary alms.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כָּל בַּ֨עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ
-    לֹֽא יִגֹּ֤שׂ אֶת רֵעֵ֨הוּ֙ וְאֶת אָחִ֔יו כִּֽי קָרָ֥א שְׁמִטָּ֖ה לַֽיהוָֽה
-- tradition: islam
-  ref: Quran 2:280
-  note: 'Relief of debtors: release or respite [divergence between the texts] (Deut 15:2 šāmôṭ kol baʿal
-    maššēh yādô ... lōʾ yiggōś ʾet rēʿēhû: a fixed seventh-year remission, do not press your neighbour;
-    Q 2:280 wa-in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin wa-an taṣaddaqū khayrun lakum: for a debtor
-    in hardship, delay until he can pay; to remit it as charity is better. A calendar release becomes
-    respite by need, and full remission becomes a voluntary alms.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ إِن كُنتُمْ
-    تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 15:2 šāmôṭ kol baʿal maššēh yādô ... lōʾ yiggōś ʾet rēʿēhû: a fixed seventh-year
-    remission, do not press your neighbour; Q 2:280 wa-in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin
-    wa-an taṣaddaqū khayrun lakum: for a debtor in hardship, delay until he can pay; to remit it as charity
-    is better. A calendar release becomes respite by need, and full remission becomes a voluntary alms.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Relief of debtors: release or respite [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -85,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Relief of debtors: release or respite'
+kinds:
+- divergence
+units:
+- id: hb-deut-15-release-year
+  title: Release of debts, release of Hebrew slaves, firstlings
+  tradition: judaism
+- id: quran-2-usury
+  title: Usury
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Relief of debtors: release or respite'
+  note: 'Deut 15:2 šāmôṭ kol baʿal maššēh yādô ... lōʾ yiggōś ʾet rēʿēhû: a fixed seventh-year remission,
+    do not press your neighbour; Q 2:280 wa-in kāna dhū ʿusratin fa-naẓiratun ilā maysaratin wa-an taṣaddaqū
+    khayrun lakum: for a debtor in hardship, delay until he can pay; to remit it as charity is better.
+    A calendar release becomes respite by need, and full remission becomes a voluntary alms.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:1
+      lang: he
+      text: מִקֵּ֥ץ שֶֽׁבַע שָׁנִ֖ים תַּעֲשֶׂ֥ה שְׁמִטָּֽה
+    - ref: Deut 15:2
+      lang: he
+      text: וְזֶה֮ דְּבַ֣ר הַשְּׁמִטָּה֒ שָׁמ֗וֹט כָּל בַּ֨עַל֙ מַשֵּׁ֣ה יָד֔וֹ אֲשֶׁ֥ר יַשֶּׁ֖ה בְּרֵעֵ֑הוּ
+        לֹֽא יִגֹּ֤שׂ אֶת רֵעֵ֨הוּ֙ וְאֶת אָחִ֔יו כִּֽי קָרָ֥א שְׁמִטָּ֖ה לַֽיהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:280
+      lang: ar
+      text: وَإِن كَانَ ذُو عُسْرَةٍ فَنَظِرَةٌ إِلَىٰ مَيْسَرَةٍ وَأَن تَصَدَّقُوا۟ خَيْرٌ لَّكُمْ إِن
+        كُنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

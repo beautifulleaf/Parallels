@@ -2,8 +2,7 @@
 id: motif-hb-jer-44-queen-of-heaven-vs-quran-43-zukhruf-book-and-daughters
 title: 'The Judeans in Egypt defend their cult of the Queen of Heaven ↔ Ha-Mim: the Mother of the Book,
   the riding prayer and the ''daughters'' of God'
-summary: 'These two units share 1 motifs: opponents refuse the prophet: ''we found our fathers on a way
-  and follow in their footsteps''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - following-the-ways-of-the-fathers
-passages:
-- tradition: judaism
-  ref: Jer 44:17
-  note: 'Opponents refuse the prophet: ''We found our fathers on a way and follow in their footsteps''
-    (The ancestors'' cult defended against a prophet: lə-qaṭṭēr li-mleḵeṯ haš-šāmayim ... kaʾăšer ʿāśînû
-    ʾănaḥnû wa-ʾăḇōṯênû malḵênû wə-śārênû vs. innā wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim
-    muqtadūn (said by its mutrafūn, the well-off). In both the worship goes to female deities: the Queen
-    of Heaven, and the angels made females (43:19).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת הַשָּׁמַיִם֮
-    וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ וְשָׂרֵ֔ינוּ
-    בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה טוֹבִ֔ים וְרָעָ֖ה
-    לֹ֥א רָאִֽינוּ
-- tradition: islam
-  ref: Quran 43:22
-  note: 'Opponents refuse the prophet: ''We found our fathers on a way and follow in their footsteps'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
-- tradition: islam
-  ref: Quran 43:23
-  note: 'Opponents refuse the prophet: ''We found our fathers on a way and follow in their footsteps'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ
-    إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The ancestors'' cult defended against a prophet: lə-qaṭṭēr li-mleḵeṯ haš-šāmayim ... kaʾăšer
-    ʿāśînû ʾănaḥnû wa-ʾăḇōṯênû malḵênû wə-śārênû vs. innā wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim
-    muqtadūn (said by its mutrafūn, the well-off). In both the worship goes to female deities: the Queen
-    of Heaven, and the angels made females (43:19).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents refuse the prophet: ''We found our fathers on a way and
     follow in their footsteps'' (weight 6.7). Pair score 6.7.'
@@ -85,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Opponents refuse the prophet: ''We found our fathers on a way and follow in their footsteps'''
+kinds:
+- parallel
+units:
+- id: hb-jer-44-queen-of-heaven
+  title: The Judeans in Egypt defend their cult of the Queen of Heaven
+  tradition: judaism
+- id: quran-43-zukhruf-book-and-daughters
+  title: 'Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Opponents refuse the prophet: ''We found our fathers on a way and follow in their footsteps'''
+  note: 'The ancestors'' cult defended against a prophet: lə-qaṭṭēr li-mleḵeṯ haš-šāmayim ... kaʾăšer
+    ʿāśînû ʾănaḥnû wa-ʾăḇōṯênû malḵênû wə-śārênû vs. innā wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim
+    muqtadūn (said by its mutrafūn, the well-off). In both the worship goes to female deities: the Queen
+    of Heaven, and the angels made females (43:19).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 44:17
+      lang: he
+      text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת
+        הַשָּׁמַיִם֮ וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ
+        וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה
+        טוֹבִ֔ים וְרָעָ֖ה לֹ֥א רָאִֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 43:22
+      lang: ar
+      text: بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم
+        مُّهْتَدُونَ
+    - ref: Quran 43:23
+      lang: ar
+      text: وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ
+        إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
 ---
 
 ## Questions

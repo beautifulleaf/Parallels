@@ -2,7 +2,7 @@
 id: motif-hb-num-11-taberah-quail-vs-quran-20-sea-crossing-sinai
 title: Taberah, the craving, the seventy elders and the quail ↔ The night departure, the dry road through
   the sea, the mount and manna
-summary: 'These two units share 1 motifs: wind brings quail in vast quantity to feed the people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,44 +15,9 @@ layers:
 - motif
 motifs:
 - quail-miracle
-passages:
-- tradition: judaism
-  ref: Num 11:31
-  note: Wind brings quail in vast quantity to feed the people (two cubits deep, a day's journey around;
-    least gathered ten homers)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְר֜וּחַ נָסַ֣ע מֵאֵ֣ת יְהוָ֗ה וַיָּ֣גָז שַׂלְוִים֮ מִן הַיָּם֒ וַיִּטֹּ֨שׁ עַל הַֽמַּחֲנֶ֜ה כְּדֶ֧רֶךְ
-    י֣וֹם כֹּ֗ה וּכְדֶ֤רֶךְ יוֹם֙ כֹּ֔ה סְבִיב֖וֹת הַֽמַּחֲנֶ֑ה וּכְאַמָּתַ֖יִם עַל פְּנֵ֥י הָאָֽרֶץ
-- tradition: judaism
-  ref: Num 11:32
-  note: Wind brings quail in vast quantity to feed the people (two cubits deep, a day's journey around;
-    least gathered ten homers)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣קָם הָעָ֡ם כָּל הַיּוֹם֩ הַה֨וּא וְכָל הַלַּ֜יְלָה וְכֹ֣ל י֣וֹם הַֽמָּחֳרָ֗ת וַיַּֽאַסְפוּ֙
-    אֶת הַשְּׂלָ֔ו הַמַּמְעִ֕יט אָסַ֖ף עֲשָׂרָ֣ה חֳמָרִ֑ים וַיִּשְׁטְח֤וּ לָהֶם֙ שָׁט֔וֹחַ סְבִיב֖וֹת
-    הַֽמַּחֲנֶֽה
-- tradition: islam
-  ref: Quran 20:80
-  note: Wind brings quail in vast quantity to feed the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
-    ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-- tradition: islam
-  ref: Quran 20:81
-  note: Wind brings quail in vast quantity to feed the people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى وَمَن
-    يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyāgoz śalwîm min-hayyām ... habbāśār ʿôdennû bên šinnêhem ... wəʾap YHWH ḥārâ bāʿām;
-    nazzalnā ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-lā taṭghaw fīhi fa-yaḥilla
-    ʿalaykum ghaḍabī. Quail (śəlāw / salwā, cognate) with God''s anger at excess. In Num the anger strikes
-    while the meat is still in their teeth; Q turns it into a warning given beforehand.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wind brings quail in vast quantity to feed the people (weight 5.8).
     Pair score 5.8.'
@@ -83,6 +48,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wind brings quail in vast quantity to feed the people
+kinds:
+- parallel
+units:
+- id: hb-num-11-taberah-quail
+  title: Taberah, the craving, the seventy elders and the quail
+  tradition: judaism
+- id: quran-20-sea-crossing-sinai
+  title: The night departure, the dry road through the sea, the mount and manna
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wind brings quail in vast quantity to feed the people
+  note: wayyāgoz śalwîm min-hayyām ... habbāśār ʿôdennû bên šinnêhem ... wəʾap YHWH ḥārâ bāʿām; nazzalnā
+    ʿalaykumu l-manna wa-s-salwā kulū min ṭayyibāti mā razaqnākum wa-lā taṭghaw fīhi fa-yaḥilla ʿalaykum
+    ghaḍabī. Quail (śəlāw / salwā, cognate) with God's anger at excess. In Num the anger strikes while
+    the meat is still in their teeth; Q turns it into a warning given beforehand.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 11:31
+      lang: he
+      text: וְר֜וּחַ נָסַ֣ע מֵאֵ֣ת יְהוָ֗ה וַיָּ֣גָז שַׂלְוִים֮ מִן הַיָּם֒ וַיִּטֹּ֨שׁ עַל הַֽמַּחֲנֶ֜ה
+        כְּדֶ֧רֶךְ י֣וֹם כֹּ֗ה וּכְדֶ֤רֶךְ יוֹם֙ כֹּ֔ה סְבִיב֖וֹת הַֽמַּחֲנֶ֑ה וּכְאַמָּתַ֖יִם עַל פְּנֵ֥י
+        הָאָֽרֶץ
+    - ref: Num 11:33
+      lang: he
+      text: הַבָּשָׂ֗ר עוֹדֶ֨נּוּ֙ בֵּ֣ין שִׁנֵּיהֶ֔ם טֶ֖רֶם יִכָּרֵ֑ת וְאַ֤ף יְהוָה֙ חָרָ֣ה בָעָ֔ם וַיַּ֤ךְ
+        יְהוָה֙ בָּעָ֔ם מַכָּ֖ה רַבָּ֥ה מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 20:80
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ قَدْ أَنجَيْنَٰكُم مِّنْ عَدُوِّكُمْ وَوَٰعَدْنَٰكُمْ جَانِبَ ٱلطُّورِ
+        ٱلْأَيْمَنَ وَنَزَّلْنَا عَلَيْكُمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
+    - ref: Quran 20:81
+      lang: ar
+      text: كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَلَا تَطْغَوْا۟ فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِى
+        وَمَن يَحْلِلْ عَلَيْهِ غَضَبِى فَقَدْ هَوَىٰ
 ---
 
 ## Questions

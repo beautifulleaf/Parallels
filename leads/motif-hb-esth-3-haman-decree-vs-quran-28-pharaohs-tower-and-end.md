@@ -2,7 +2,7 @@
 id: motif-hb-esth-3-haman-decree-vs-quran-28-pharaohs-tower-and-end
 title: Mordecai refuses to bow to Haman; the lot is cast and the decree of extermination issued ↔ Pharaoh,
   'no god but me', Haman's tower of fired brick, and the drowning
-summary: 'These two units share 1 motifs: hāmān appears as pharaoh''s minister and partner.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - haman-minister-of-pharaoh
-passages:
-- tradition: judaism
-  ref: Esth 3:1
-  note: 'Hāmān appears as Pharaoh''s minister and partner (yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet
-    Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm:
-    the name Hāmān for the foreign king''s chief minister in a story of persecution of Israel. In the
-    HB he serves the Persian Ahasuerus, in the Quran Pharaoh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַחַ֣ר הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת הָמָ֧ן בֶּֽן הַמְּדָ֛תָא
-    הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֨שֶׂם֙ אֶת כִּסְא֔וֹ מֵעַ֕ל כָּל הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ
-- tradition: judaism
-  ref: Esth 3:6
-  note: 'Hāmān appears as Pharaoh''s minister and partner (yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet
-    Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm:
-    the name Hāmān for the foreign king''s chief minister in a story of persecution of Israel. In the
-    HB he serves the Persian Ahasuerus, in the Quran Pharaoh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֣בֶז בְּעֵינָ֗יו לִשְׁלֹ֤ח יָד֙ בְּמָרְדֳּכַ֣י לְבַדּ֔וֹ כִּֽי הִגִּ֥ידוּ ל֖וֹ אֶת עַ֣ם מָרְדֳּכָ֑י
-    וַיְבַקֵּ֣שׁ הָמָ֗ן לְהַשְׁמִ֧יד אֶת כָּל הַיְּהוּדִ֛ים אֲשֶׁ֛ר בְּכָל מַלְכ֥וּת אֲחַשְׁוֵר֖וֹשׁ עַ֥ם
-    מָרְדֳּכָֽי
-- tradition: islam
-  ref: Quran 28:38
-  note: 'Hāmān appears as Pharaoh''s minister and partner (yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet
-    Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm:
-    the name Hāmān for the foreign king''s chief minister in a story of persecution of Israel. In the
-    HB he serves the Persian Ahasuerus, in the Quran Pharaoh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
-    لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
-    وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm
-    ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm: the name Hāmān for the foreign king''s chief minister
-    in a story of persecution of Israel. In the HB he serves the Persian Ahasuerus, in the Quran Pharaoh.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hāmān appears as Pharaoh''s minister and partner (weight 6.3). Pair
     score 6.3.'
@@ -87,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hāmān appears as Pharaoh's minister and partner
+kinds:
+- echo
+units:
+- id: hb-esth-3-haman-decree
+  title: Mordecai refuses to bow to Haman; the lot is cast and the decree of extermination issued
+  tradition: judaism
+- id: quran-28-pharaohs-tower-and-end
+  title: Pharaoh, 'no god but me', Haman's tower of fired brick, and the drowning
+  tradition: islam
+matches:
+- kind: echo
+  label: Hāmān appears as Pharaoh's minister and partner
+  note: 'yā Hāmānu ~ giddal ham-melekh ʾĂḥašwērôš ʾet Hāmān ... wa-yyāśem ʾet kisʾô mēʿal kol haś-śārîm
+    ... wa-yvaqqēš Hāmān ləhašmîd ʾet kol hay-yəhûdîm: the name Hāmān for the foreign king''s chief minister
+    in a story of persecution of Israel. In the HB he serves the Persian Ahasuerus, in the Quran Pharaoh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Esth 3:1
+      lang: he
+      text: אַחַ֣ר הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת הָמָ֧ן בֶּֽן הַמְּדָ֛תָא
+        הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֨שֶׂם֙ אֶת כִּסְא֔וֹ מֵעַ֕ל כָּל הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ
+    - ref: Esth 3:6
+      lang: he
+      text: וַיִּ֣בֶז בְּעֵינָ֗יו לִשְׁלֹ֤ח יָד֙ בְּמָרְדֳּכַ֣י לְבַדּ֔וֹ כִּֽי הִגִּ֥ידוּ ל֖וֹ אֶת עַ֣ם
+        מָרְדֳּכָ֑י וַיְבַקֵּ֣שׁ הָמָ֗ן לְהַשְׁמִ֧יד אֶת כָּל הַיְּהוּדִ֛ים אֲשֶׁ֛ר בְּכָל מַלְכ֥וּת אֲחַשְׁוֵר֖וֹשׁ
+        עַ֥ם מָרְדֳּכָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 28:38
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰٓأَيُّهَا ٱلْمَلَأُ مَا عَلِمْتُ لَكُم مِّنْ إِلَٰهٍ غَيْرِى فَأَوْقِدْ
+        لِى يَٰهَٰمَٰنُ عَلَى ٱلطِّينِ فَٱجْعَل لِّى صَرْحًا لَّعَلِّىٓ أَطَّلِعُ إِلَىٰٓ إِلَٰهِ مُوسَىٰ
+        وَإِنِّى لَأَظُنُّهُۥ مِنَ ٱلْكَٰذِبِينَ
 ---
 
 ## Questions

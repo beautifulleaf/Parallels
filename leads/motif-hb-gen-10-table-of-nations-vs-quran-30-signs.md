@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-10-table-of-nations-vs-quran-30-signs
 title: The Table of Nations ↔ The Hour, the times of praise, and the signs of God
-summary: 'These two units share 1 motifs: nations distinguished by land, language and clan.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,32 +13,9 @@ layers:
 - motif
 motifs:
 - nations-divided-by-language
-passages:
-- tradition: judaism
-  ref: Gen 10:5
-  note: Nations distinguished by land, language and clan (assumes many languages before Babel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵ֠אֵלֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם אִ֖ישׁ לִלְשֹׁנ֑וֹ לְמִשְׁפְּחֹתָ֖ם בְּגוֹיֵהֶֽם
-- tradition: judaism
-  ref: Gen 10:20
-  note: Nations distinguished by land, language and clan (assumes many languages before Babel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣לֶּה בְנֵי חָ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם
-- tradition: islam
-  ref: Quran 30:22
-  note: Nations distinguished by land, language and clan (diversity of tongues is a sign of God, not a
-    punishment as at Babel)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ
-    إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّلْعَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾîš li-lšōnô lə-mišpəḥōṯām bə-ḡôyēhem (each by his tongue) vs. ikhtilāfu alsinatikum: Gen 10,
-    like the Quran and unlike Gen 11, presents the many languages as a neutral fact of the spread of peoples.
-    lāšôn/lisān are cognate.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nations distinguished by land, language and clan (weight 6.3). Pair
     score 6.3.'
@@ -68,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nations distinguished by land, language and clan
+kinds:
+- echo
+units:
+- id: hb-gen-10-table-of-nations
+  title: The Table of Nations
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Nations distinguished by land, language and clan
+  note: 'ʾîš li-lšōnô lə-mišpəḥōṯām bə-ḡôyēhem (each by his tongue) vs. ikhtilāfu alsinatikum: Gen 10,
+    like the Quran and unlike Gen 11, presents the many languages as a neutral fact of the spread of peoples.
+    lāšôn/lisān are cognate.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 10:5
+      lang: he
+      text: מֵ֠אֵלֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם אִ֖ישׁ לִלְשֹׁנ֑וֹ לְמִשְׁפְּחֹתָ֖ם
+        בְּגוֹיֵהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 30:22
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ
+        إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّلْعَٰلِمِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-12-one-sanctuary-vs-quran-7-idol-request
 title: The chosen place; profane slaughter; blood prohibition ↔ Israel asks for a god like the idol-worshipers
-summary: 'These two units share 1 motifs: after crossing the sea the people see idol-worshipers and ask
-  the prophet for a god like theirs.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +13,9 @@ layers:
 - motif
 motifs:
 - people-ask-for-idol-like-other-nations
-passages:
-- tradition: judaism
-  ref: Deut 12:30
-  note: 'After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
-    (Deut forbids exactly the wish Q puts in Israel''s mouth: ʾêkāh yaʿabdû haggôyim hāʾēlleh ʾet-ʾĕlōhêhem
-    wᵉʾeʿĕśeh-kēn gam-ʾānî (''how do these nations serve their gods? I will do likewise'') vs ijʿal lanā
-    ilāhan ka-mā lahum ālihatun.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִשָּׁ֣מֶר לְךָ֗ פֶּן תִּנָּקֵשׁ֙ אַחֲרֵיהֶ֔ם אַחֲרֵ֖י הִשָּׁמְדָ֣ם מִפָּנֶ֑יךָ וּפֶן תִּדְרֹ֨שׁ
-    לֵֽאלֹהֵיהֶ֜ם לֵאמֹ֨ר אֵיכָ֨ה יַעַבְד֜וּ הַגּוֹיִ֤ם הָאֵ֨לֶּה֙ אֶת אֱלֹ֣הֵיהֶ֔ם וְאֶעֱשֶׂה כֵּ֖ן גַּם
-    אָֽנִי
-- tradition: islam
-  ref: Quran 7:138
-  note: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
-    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: islam
-  ref: Quran 7:139
-  note: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ هَٰٓؤُلَآءِ مُتَبَّرٌ مَّا هُمْ فِيهِ وَبَٰطِلٌ مَّا كَانُوا۟ يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Deut forbids exactly the wish Q puts in Israel''s mouth: ʾêkāh yaʿabdû haggôyim hāʾēlleh ʾet-ʾĕlōhêhem
-    wᵉʾeʿĕśeh-kēn gam-ʾānî (''how do these nations serve their gods? I will do likewise'') vs ijʿal lanā
-    ilāhan ka-mā lahum ālihatun.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After crossing the sea the people see idol-worshipers and ask the
     prophet for a god like theirs (weight 6.3). Pair score 6.3.'
@@ -71,6 +43,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
+kinds:
+- echo
+units:
+- id: hb-deut-12-one-sanctuary
+  title: The chosen place; profane slaughter; blood prohibition
+  tradition: judaism
+- id: quran-7-idol-request
+  title: Israel asks for a god like the idol-worshipers
+  tradition: islam
+matches:
+- kind: echo
+  label: After crossing the sea the people see idol-worshipers and ask the prophet for a god like theirs
+  note: 'Deut forbids exactly the wish Q puts in Israel''s mouth: ʾêkāh yaʿabdû haggôyim hāʾēlleh ʾet-ʾĕlōhêhem
+    wᵉʾeʿĕśeh-kēn gam-ʾānî (''how do these nations serve their gods? I will do likewise'') vs ijʿal lanā
+    ilāhan ka-mā lahum ālihatun.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 12:30
+      lang: he
+      text: הִשָּׁ֣מֶר לְךָ֗ פֶּן תִּנָּקֵשׁ֙ אַחֲרֵיהֶ֔ם אַחֲרֵ֖י הִשָּׁמְדָ֣ם מִפָּנֶ֑יךָ וּפֶן תִּדְרֹ֨שׁ
+        לֵֽאלֹהֵיהֶ֜ם לֵאמֹ֨ר אֵיכָ֨ה יַעַבְד֜וּ הַגּוֹיִ֤ם הָאֵ֨לֶּה֙ אֶת אֱלֹ֣הֵיהֶ֔ם וְאֶעֱשֶׂה כֵּ֖ן
+        גַּם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:138
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ
+        أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ
+        قَوْمٌ تَجْهَلُونَ
 ---
 
 ## Questions

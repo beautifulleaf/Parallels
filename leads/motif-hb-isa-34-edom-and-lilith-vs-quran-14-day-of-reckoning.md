@@ -2,8 +2,7 @@
 id: motif-hb-isa-34-edom-and-lilith-vs-quran-14-day-of-reckoning
 title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins ↔ The day
   eyes stare and the earth is changed (Surah 14:42-52)
-summary: 'These two units share 1 motifs: the damned wear garments of pitch (qatiran), fire covering their
-  faces.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - garments-of-pitch-in-hell
-passages:
-- tradition: judaism
-  ref: Isa 34:9
-  note: 'The damned wear garments of pitch (qatiran), fire covering their faces (sarābīluhum min qaṭirānin
-    wa-taghshā wujūhahumu n-nār; wəhāytâ ʾarṣāh ləzepet bōʿērâ laylâ wəyômām lōʾ tikbeh: burning pitch
-    as the punishing element. Isa makes Edom''s land pitch; Q makes it the clothing of the damned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֶהֶפְכ֤וּ נְחָלֶ֨יהָ֙ לְזֶ֔פֶת וַעֲפָרָ֖הּ לְגָפְרִ֑ית וְהָיְתָ֣ה אַרְצָ֔הּ לְזֶ֖פֶת בֹּעֵרָֽה
-- tradition: judaism
-  ref: Isa 34:10
-  note: 'The damned wear garments of pitch (qatiran), fire covering their faces (sarābīluhum min qaṭirānin
-    wa-taghshā wujūhahumu n-nār; wəhāytâ ʾarṣāh ləzepet bōʿērâ laylâ wəyômām lōʾ tikbeh: burning pitch
-    as the punishing element. Isa makes Edom''s land pitch; Q makes it the clothing of the damned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַ֤יְלָה וְיוֹמָם֙ לֹ֣א תִכְבֶּ֔ה לְעוֹלָ֖ם יַעֲלֶ֣ה עֲשָׁנָ֑הּ מִדּ֤וֹר לָדוֹר֙ תֶּחֱרָ֔ב לְנֵ֣צַח
-    נְצָחִ֔ים אֵ֥ין עֹבֵ֖ר בָּֽהּ
-- tradition: islam
-  ref: Quran 14:50
-  note: The damned wear garments of pitch (qatiran), fire covering their faces (sarābīluhum min qaṭirān)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. sarābīluhum min qaṭirānin wa-taghshā wujūhahumu n-nār; wəhāytâ ʾarṣāh ləzepet bōʿērâ laylâ wəyômām
-    lōʾ tikbeh: burning pitch as the punishing element. Isa makes Edom''s land pitch; Q makes it the clothing
-    of the damned.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned wear garments of pitch (qatiran), fire covering their
     faces (weight 6.7). Pair score 6.7.'
@@ -79,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The damned wear garments of pitch (qatiran), fire covering their faces
+kinds:
+- echo
+units:
+- id: hb-isa-34-edom-and-lilith
+  title: Judgment on the nations and Edom; heavens rolled up like a scroll; Lilith in the ruins
+  tradition: judaism
+- id: quran-14-day-of-reckoning
+  title: The day eyes stare and the earth is changed (Surah 14:42-52)
+  tradition: islam
+matches:
+- kind: echo
+  label: The damned wear garments of pitch (qatiran), fire covering their faces
+  note: 'sarābīluhum min qaṭirānin wa-taghshā wujūhahumu n-nār; wəhāytâ ʾarṣāh ləzepet bōʿērâ laylâ wəyômām
+    lōʾ tikbeh: burning pitch as the punishing element. Isa makes Edom''s land pitch; Q makes it the clothing
+    of the damned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 34:9
+      lang: he
+      text: וְנֶהֶפְכ֤וּ נְחָלֶ֨יהָ֙ לְזֶ֔פֶת וַעֲפָרָ֖הּ לְגָפְרִ֑ית וְהָיְתָ֣ה אַרְצָ֔הּ לְזֶ֖פֶת בֹּעֵרָֽה
+    - ref: Isa 34:10
+      lang: he
+      text: לַ֤יְלָה וְיוֹמָם֙ לֹ֣א תִכְבֶּ֔ה לְעוֹלָ֖ם יַעֲלֶ֣ה עֲשָׁנָ֑הּ מִדּ֤וֹר לָדוֹר֙ תֶּחֱרָ֔ב
+        לְנֵ֣צַח נְצָחִ֔ים אֵ֥ין עֹבֵ֖ר בָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:50
+      lang: ar
+      text: سَرَابِيلُهُم مِّن قَطِرَانٍ وَتَغْشَىٰ وُجُوهَهُمُ ٱلنَّارُ
 ---
 
 ## Questions

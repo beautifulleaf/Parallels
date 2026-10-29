@@ -2,7 +2,7 @@
 id: motif-hb-prov-3-tree-of-life-vs-quran-2-three-groups
 title: Proverbs 3:13-35, wisdom a tree of life; creation by wisdom; neighbor ethics ↔ Believers, unbelievers
   and hypocrites
-summary: 'These two units share 1 motifs: god scorns the scorners but gives grace to the humble.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - god-scorns-scorners-gives-grace-to-humble
-passages:
-- tradition: judaism
-  ref: Prov 3:34
-  note: God scorns the scorners but gives grace to the humble
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם לַלֵּצִ֥ים הֽוּא יָלִ֑יץ ולעניים וְ֝לַעֲנָוִ֗ים יִתֶּן חֵֽן
-- tradition: islam
-  ref: Quran 2:14
-  note: 'God scorns the scorners but gives grace to the humble (Measure for measure on the same verb:
-    Prov 3:34 ʾim la-lēṣîm hûʾ yālîṣ ''the scorners he scorns''; Q 2:14-15 innamā naḥnu mustahziʾūn /
-    allāhu yastahziʾu bihim ''we were only mocking / God mocks them''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ
-    قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
-- tradition: islam
-  ref: Quran 2:15
-  note: 'God scorns the scorners but gives grace to the humble (Measure for measure on the same verb:
-    Prov 3:34 ʾim la-lēṣîm hûʾ yālîṣ ''the scorners he scorns''; Q 2:14-15 innamā naḥnu mustahziʾūn /
-    allāhu yastahziʾu bihim ''we were only mocking / God mocks them''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Measure for measure on the same verb: Prov 3:34 ʾim la-lēṣîm hûʾ yālîṣ ''the scorners he
-    scorns''; Q 2:14-15 innamā naḥnu mustahziʾūn / allāhu yastahziʾu bihim ''we were only mocking / God
-    mocks them''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God scorns the scorners but gives grace to the humble (weight 6.7).
     Pair score 6.7.'
@@ -77,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God scorns the scorners but gives grace to the humble
+kinds:
+- parallel
+units:
+- id: hb-prov-3-tree-of-life
+  title: Proverbs 3:13-35, wisdom a tree of life; creation by wisdom; neighbor ethics
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: parallel
+  label: God scorns the scorners but gives grace to the humble
+  note: 'Measure for measure on the same verb: Prov 3:34 ʾim la-lēṣîm hûʾ yālîṣ ''the scorners he scorns'';
+    Q 2:14-15 innamā naḥnu mustahziʾūn / allāhu yastahziʾu bihim ''we were only mocking / God mocks them''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 3:34
+      lang: he
+      text: אִם לַלֵּצִ֥ים הֽוּא יָלִ֑יץ ולעניים וְ֝לַעֲנָוִ֗ים יִתֶּן חֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 2:14
+      lang: ar
+      text: وَإِذَا لَقُوا۟ ٱلَّذِينَ ءَامَنُوا۟ قَالُوٓا۟ ءَامَنَّا وَإِذَا خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ
+        قَالُوٓا۟ إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِءُونَ
+    - ref: Quran 2:15
+      lang: ar
+      text: ٱللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِى طُغْيَٰنِهِمْ يَعْمَهُونَ
 ---
 
 ## Questions

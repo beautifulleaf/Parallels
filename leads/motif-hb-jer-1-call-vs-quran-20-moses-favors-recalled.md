@@ -2,8 +2,7 @@
 id: motif-hb-jer-1-call-vs-quran-20-moses-favors-recalled
 title: Jeremiah's call - known before the womb, words in his mouth ↔ God recalls his favors to Moses from
   infancy to Midian
-summary: 'These two units share 1 motifs: god calls, forms, knows or consecrates his servant or prophet
-  from the womb, before birth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - called-from-the-womb
-passages:
-- tradition: judaism
-  ref: Jer 1:5
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth ('before
-    I formed you in the belly I knew you; before you came out of the womb I consecrated you')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּטֶ֨רֶם אצורך אֶצָּרְךָ֤ בַבֶּ֨טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ
-    נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ
-- tradition: islam
-  ref: Quran 20:39
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth ('that
-    you be formed under my eye'; 'I made you for myself')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
-    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
-- tradition: islam
-  ref: Quran 20:41
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth ('that
-    you be formed under my eye'; 'I made you for myself')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْطَنَعْتُكَ لِنَفْسِى
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. bəṭerem ʾeṣṣorkā babbeṭen yədaʿtîkā ... hiqdaštîkā nābîʾ; wa-li-tuṣnaʿa ʿalā ʿaynī ... wa-ṣṭanaʿtuka
-    li-nafsī: a prophet shaped by God for his task from the start. Jer says it before birth; Q in Moses''
-    infancy, under God''s eye.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God calls, forms, knows or consecrates his servant or prophet from
     the womb, before birth (weight 6.3). Pair score 6.3.'
@@ -75,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth
+kinds:
+- parallel
+units:
+- id: hb-jer-1-call
+  title: Jeremiah's call - known before the womb, words in his mouth
+  tradition: judaism
+- id: quran-20-moses-favors-recalled
+  title: God recalls his favors to Moses from infancy to Midian
+  tradition: islam
+matches:
+- kind: parallel
+  label: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth
+  note: 'bəṭerem ʾeṣṣorkā babbeṭen yədaʿtîkā ... hiqdaštîkā nābîʾ; wa-li-tuṣnaʿa ʿalā ʿaynī ... wa-ṣṭanaʿtuka
+    li-nafsī: a prophet shaped by God for his task from the start. Jer says it before birth; Q in Moses''
+    infancy, under God''s eye.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 1:5
+      lang: he
+      text: בְּטֶ֨רֶם אצורך אֶצָּרְךָ֤ בַבֶּ֨טֶן֙ יְדַעְתִּ֔יךָ וּבְטֶ֛רֶם תֵּצֵ֥א מֵרֶ֖חֶם הִקְדַּשְׁתִּ֑יךָ
+        נָבִ֥יא לַגּוֹיִ֖ם נְתַתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:39
+      lang: ar
+      text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ
+        يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ
+        عَلَىٰ عَيْنِىٓ
+    - ref: Quran 20:41
+      lang: ar
+      text: وَٱصْطَنَعْتُكَ لِنَفْسِى
 ---
 
 ## Questions

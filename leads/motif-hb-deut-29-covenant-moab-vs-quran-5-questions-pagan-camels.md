@@ -2,8 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-5-questions-pagan-camels
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ Questions not to ask; the freed camels
   of the pagans
-summary: 'These two units share 1 motifs: the secret things belong to god; the revealed things to us and
-  our children.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - secret-things-belong-to-god
-passages:
-- tradition: judaism
-  ref: Deut 29:28
-  note: The secret things belong to God; the revealed things to us and our children (puncta extraordinaria
-    over לנו ולבנינו)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
-    לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 5:101
-  note: 'The secret things belong to God; the revealed things to us and our children (Hidden matters are
-    left with God. Q: lā tasʾalū ʿan ashyāʾa in tubda lakum tasuʾkum ... ʿafā llāhu ʿanhā. Deut: ha-nnistārōt
-    la-YHWH ʾĕlōhênû wə-ha-nniglōt lānû û-lə-vānênû ʿad-ʿôlām laʿăśôt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ
-    وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ
-    غَفُورٌ حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Hidden matters are left with God. Q: lā tasʾalū ʿan ashyāʾa in tubda lakum tasuʾkum ... ʿafā
-    llāhu ʿanhā. Deut: ha-nnistārōt la-YHWH ʾĕlōhênû wə-ha-nniglōt lānû û-lə-vānênû ʿad-ʿôlām laʿăśôt.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
     children (weight 6.0). Pair score 6.0.'
@@ -68,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The secret things belong to God; the revealed things to us and our children
+kinds:
+- echo
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-5-questions-pagan-camels
+  title: Questions not to ask; the freed camels of the pagans
+  tradition: islam
+matches:
+- kind: echo
+  label: The secret things belong to God; the revealed things to us and our children
+  note: 'Hidden matters are left with God. Q: lā tasʾalū ʿan ashyāʾa in tubda lakum tasuʾkum ... ʿafā
+    llāhu ʿanhā. Deut: ha-nnistārōt la-YHWH ʾĕlōhênû wə-ha-nniglōt lānû û-lə-vānênû ʿad-ʿôlām laʿăśôt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:28
+      lang: he
+      text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
+        לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 5:101
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَسْـَٔلُوا۟ عَنْ أَشْيَآءَ إِن تُبْدَ لَكُمْ تَسُؤْكُمْ
+        وَإِن تَسْـَٔلُوا۟ عَنْهَا حِينَ يُنَزَّلُ ٱلْقُرْءَانُ تُبْدَ لَكُمْ عَفَا ٱللَّهُ عَنْهَا وَٱللَّهُ
+        غَفُورٌ حَلِيمٌ
 ---
 
 ## Questions

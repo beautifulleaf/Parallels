@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-18-abraham-bargains-vs-quran-38-david-ewe-parable
 title: Abraham bargains for Sodom ↔ David's mountains, the two litigants and the ninety-nine ewes
-summary: 'These two units share 1 motifs: shall god treat believers like those who spread corruption,
-  the godfearing like the wicked?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - righteous-not-like-corrupt
-passages:
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Shall God treat believers like those who spread corruption, the godfearing like the wicked? (ḥālilâ
-    lləḵā ... ləhāmîṯ ṣaddîq ʿim-rāšāʿ wə-hāyâ ḵa-ṣṣaddîq kā-rāšāʿ ... hă-šōp̄ēṭ kol-hā-ʾāreṣ lōʾ yaʿăśeh
-    mišpāṭ vs. am najʿalu lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti ka-l-mufsidīna fī l-arḍi am najʿalu l-muttaqīna
-    ka-l-fujjār: God cannot treat the righteous like the wicked. Abraham puts it to God as a challenge;
-    in the Quran God says it himself, as a rhetorical question.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 38:28
-  note: Shall God treat believers like those who spread corruption, the godfearing like the wicked?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ أَمْ
-    نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ḥālilâ lləḵā ... ləhāmîṯ ṣaddîq ʿim-rāšāʿ wə-hāyâ ḵa-ṣṣaddîq kā-rāšāʿ ... hă-šōp̄ēṭ kol-hā-ʾāreṣ
-    lōʾ yaʿăśeh mišpāṭ vs. am najʿalu lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti ka-l-mufsidīna fī l-arḍi am
-    najʿalu l-muttaqīna ka-l-fujjār: God cannot treat the righteous like the wicked. Abraham puts it to
-    God as a challenge; in the Quran God says it himself, as a rhetorical question.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Shall God treat believers like those who spread corruption, the
     godfearing like the wicked? (weight 6.7). Pair score 6.7.'
@@ -75,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Shall God treat believers like those who spread corruption, the godfearing like the wicked?
+kinds:
+- parallel
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-38-david-ewe-parable
+  title: David's mountains, the two litigants and the ninety-nine ewes
+  tradition: islam
+matches:
+- kind: parallel
+  label: Shall God treat believers like those who spread corruption, the godfearing like the wicked?
+  note: 'ḥālilâ lləḵā ... ləhāmîṯ ṣaddîq ʿim-rāšāʿ wə-hāyâ ḵa-ṣṣaddîq kā-rāšāʿ ... hă-šōp̄ēṭ kol-hā-ʾāreṣ
+    lōʾ yaʿăśeh mišpāṭ vs. am najʿalu lladhīna āmanū wa-ʿamilū ṣ-ṣāliḥāti ka-l-mufsidīna fī l-arḍi am
+    najʿalu l-muttaqīna ka-l-fujjār: God cannot treat the righteous like the wicked. Abraham puts it to
+    God as a challenge; in the Quran God says it himself, as a rhetorical question.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:25
+      lang: he
+      text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
+        כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 38:28
+      lang: ar
+      text: أَمْ نَجْعَلُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ كَٱلْمُفْسِدِينَ فِى ٱلْأَرْضِ
+        أَمْ نَجْعَلُ ٱلْمُتَّقِينَ كَٱلْفُجَّارِ
 ---
 
 ## Questions

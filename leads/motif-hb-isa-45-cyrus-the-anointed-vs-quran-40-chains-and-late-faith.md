@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-40-chains-and-late-faith
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Dragged
   in chains; messengers told and untold; faith on seeing punishment
-summary: 'These two units share 1 motifs: with collars and chains on their necks the damned are dragged
-  through boiling water and then set ablaze in the fire.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - damned-dragged-in-chains-through-boiling-water
-passages:
-- tradition: judaism
-  ref: Isa 45:14
-  note: 'With collars and chains on their necks the damned are dragged through boiling water and then
-    set ablaze in the fire (ʾaḥărayiḵ yēlēḵû ba-zziqqîm yaʿăḇōrû ... ʾaḵ bāḵ ʾēl wə-ʾên ʿôḏ ʾep̄es ʾĕlōhîm
-    vs. idhi l-aghlālu fī aʿnāqihim wa-s-salāsilu yusḥabūn: the defeated led in chains. In Isaiah the
-    nations in chains confess the one God; in the Quran the chained idolaters confess too late.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה יְגִ֨יעַ מִצְרַ֥יִם וּֽסְחַר כּוּשׁ֮ וּסְבָאִים֮ אַנְשֵׁ֣י מִדָּה֒ עָלַ֤יִךְ
-    יַעֲבֹ֨רוּ֙ וְלָ֣ךְ יִֽהְי֔וּ אַחֲרַ֣יִךְ יֵלֵ֔כוּ בַּזִּקִּ֖ים יַעֲבֹ֑רוּ וְאֵלַ֤יִךְ יִֽשְׁתַּחֲוּוּ֙
-    אֵלַ֣יִךְ יִתְפַּלָּ֔לוּ אַ֣ךְ בָּ֥ךְ אֵ֛ל וְאֵ֥ין ע֖וֹד אֶ֥פֶס אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 40:71
-  note: With collars and chains on their necks the damned are dragged through boiling water and then set
-    ablaze in the fire
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذِ ٱلْأَغْلَٰلُ فِىٓ أَعْنَٰقِهِمْ وَٱلسَّلَٰسِلُ يُسْحَبُونَ
-- tradition: islam
-  ref: Quran 40:72
-  note: With collars and chains on their necks the damned are dragged through boiling water and then set
-    ablaze in the fire
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِى ٱلْحَمِيمِ ثُمَّ فِى ٱلنَّارِ يُسْجَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾaḥărayiḵ yēlēḵû ba-zziqqîm yaʿăḇōrû ... ʾaḵ bāḵ ʾēl wə-ʾên ʿôḏ ʾep̄es ʾĕlōhîm vs. idhi l-aghlālu
-    fī aʿnāqihim wa-s-salāsilu yusḥabūn: the defeated led in chains. In Isaiah the nations in chains confess
-    the one God; in the Quran the chained idolaters confess too late.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With collars and chains on their necks the damned are dragged through
     boiling water and then set ablaze in the fire (weight 6.7). Pair score 6.7.'
@@ -81,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: With collars and chains on their necks the damned are dragged through boiling water and then
+  set ablaze in the fire
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-40-chains-and-late-faith
+  title: Dragged in chains; messengers told and untold; faith on seeing punishment
+  tradition: islam
+matches:
+- kind: echo
+  label: With collars and chains on their necks the damned are dragged through boiling water and then
+    set ablaze in the fire
+  note: 'ʾaḥărayiḵ yēlēḵû ba-zziqqîm yaʿăḇōrû ... ʾaḵ bāḵ ʾēl wə-ʾên ʿôḏ ʾep̄es ʾĕlōhîm vs. idhi l-aghlālu
+    fī aʿnāqihim wa-s-salāsilu yusḥabūn: the defeated led in chains. In Isaiah the nations in chains confess
+    the one God; in the Quran the chained idolaters confess too late.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:14
+      lang: he
+      text: כֹּ֣ה אָמַ֣ר יְהוָ֗ה יְגִ֨יעַ מִצְרַ֥יִם וּֽסְחַר כּוּשׁ֮ וּסְבָאִים֮ אַנְשֵׁ֣י מִדָּה֒ עָלַ֤יִךְ
+        יַעֲבֹ֨רוּ֙ וְלָ֣ךְ יִֽהְי֔וּ אַחֲרַ֣יִךְ יֵלֵ֔כוּ בַּזִּקִּ֖ים יַעֲבֹ֑רוּ וְאֵלַ֤יִךְ יִֽשְׁתַּחֲוּוּ֙
+        אֵלַ֣יִךְ יִתְפַּלָּ֔לוּ אַ֣ךְ בָּ֥ךְ אֵ֛ל וְאֵ֥ין ע֖וֹד אֶ֥פֶס אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 40:71
+      lang: ar
+      text: إِذِ ٱلْأَغْلَٰلُ فِىٓ أَعْنَٰقِهِمْ وَٱلسَّلَٰسِلُ يُسْحَبُونَ
 ---
 
 ## Questions

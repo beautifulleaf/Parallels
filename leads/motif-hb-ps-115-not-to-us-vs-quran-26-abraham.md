@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-115-not-to-us-vs-quran-26-abraham
 title: Psalm 115, not to us, polemic against idols ↔ Abraham's argument against idols and his prayer
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 115:4-7
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (115:4) עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (115:5) פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ
-    עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (115:6) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א
-    יְרִיחֽוּן (115:7) יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
-- tradition: judaism
-  ref: Ps 115:4
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
-- tradition: islam
-  ref: Quran 26:72
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
-- tradition: islam
-  ref: Quran 26:73
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. hal yasmaʿūnakum idh tadʿūna aw yanfaʿūnakum aw yaḍurrūna ~ ʾoznayim lāhem wə-lōʾ yišmāʿû
-    ... maʿăśēh yədê ʾādām: idols do not hear. The Psalm describes the idols, while Abraham questions
-    their worshippers, who can only answer ''we found our fathers doing so'' (26:74).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -82,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- parallel
+units:
+- id: hb-ps-115-not-to-us
+  title: Psalm 115, not to us, polemic against idols
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: 'hal yasmaʿūnakum idh tadʿūna aw yanfaʿūnakum aw yaḍurrūna ~ ʾoznayim lāhem wə-lōʾ yišmāʿû ...
+    maʿăśēh yədê ʾādām: idols do not hear. The Psalm describes the idols, while Abraham questions their
+    worshippers, who can only answer ''we found our fathers doing so'' (26:74).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:4
+      lang: he
+      text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
+    - ref: Ps 115:6
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 26:72
+      lang: ar
+      text: قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ
+    - ref: Quran 26:73
+      lang: ar
+      text: أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ
 ---
 
 ## Questions

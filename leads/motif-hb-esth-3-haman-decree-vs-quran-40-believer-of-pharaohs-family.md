@@ -2,8 +2,7 @@
 id: motif-hb-esth-3-haman-decree-vs-quran-40-believer-of-pharaohs-family
 title: Mordecai refuses to bow to Haman; the lot is cast and the decree of extermination issued ↔ Moses,
   Pharaoh, Haman and the believer of Pharaoh's family
-summary: 'These two units share 1 motifs: where haman and korah belong in the story of god''s people [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,56 +14,9 @@ layers:
 - motif
 motifs:
 - setting-of-haman-and-korah-as-divergence
-passages:
-- tradition: judaism
-  ref: Esth 3:1
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַחַ֣ר הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת הָמָ֧ן בֶּֽן הַמְּדָ֛תָא
-    הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֨שֶׂם֙ אֶת כִּסְא֔וֹ מֵעַ֕ל כָּל הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ
-- tradition: judaism
-  ref: Esth 3:6
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֣בֶז בְּעֵינָ֗יו לִשְׁלֹ֤ח יָד֙ בְּמָרְדֳּכַ֣י לְבַדּ֔וֹ כִּֽי הִגִּ֥ידוּ ל֖וֹ אֶת עַ֣ם מָרְדֳּכָ֑י
-    וַיְבַקֵּ֣שׁ הָמָ֗ן לְהַשְׁמִ֧יד אֶת כָּל הַיְּהוּדִ֛ים אֲשֶׁ֛ר בְּכָל מַלְכ֥וּת אֲחַשְׁוֵר֖וֹשׁ עַ֥ם
-    מָרְדֳּכָֽי
-- tradition: islam
-  ref: Quran 40:24
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌ كَذَّابٌ
-- tradition: islam
-  ref: Quran 40:36
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Haman''s place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia,
-    who seeks ləhašmîḏ ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman
-    is Pharaoh''s builder (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at
-    the Egyptian court; the shared role is the persecutor of God''s people.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where Haman and Korah belong in the story of God''s people [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -102,6 +54,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where Haman and Korah belong in the story of God's people
+kinds:
+- divergence
+units:
+- id: hb-esth-3-haman-decree
+  title: Mordecai refuses to bow to Haman; the lot is cast and the decree of extermination issued
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: divergence
+  label: Where Haman and Korah belong in the story of God's people
+  note: 'Haman''s place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who
+    seeks ləhašmîḏ ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is
+    Pharaoh''s builder (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the
+    Egyptian court; the shared role is the persecutor of God''s people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Esth 3:1
+      lang: he
+      text: אַחַ֣ר הַדְּבָרִ֣ים הָאֵ֗לֶּה גִּדַּל֩ הַמֶּ֨לֶךְ אֲחַשְׁוֵר֜וֹשׁ אֶת הָמָ֧ן בֶּֽן הַמְּדָ֛תָא
+        הָאֲגָגִ֖י וַֽיְנַשְּׂאֵ֑הוּ וַיָּ֨שֶׂם֙ אֶת כִּסְא֔וֹ מֵעַ֕ל כָּל הַשָּׂרִ֖ים אֲשֶׁ֥ר אִתּֽוֹ
+    - ref: Esth 3:6
+      lang: he
+      text: וַיִּ֣בֶז בְּעֵינָ֗יו לִשְׁלֹ֤ח יָד֙ בְּמָרְדֳּכַ֣י לְבַדּ֔וֹ כִּֽי הִגִּ֥ידוּ ל֖וֹ אֶת עַ֣ם
+        מָרְדֳּכָ֑י וַיְבַקֵּ֣שׁ הָמָ֗ן לְהַשְׁמִ֧יד אֶת כָּל הַיְּהוּדִ֛ים אֲשֶׁ֛ר בְּכָל מַלְכ֥וּת אֲחַשְׁוֵר֖וֹשׁ
+        עַ֥ם מָרְדֳּכָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 40:24
+      lang: ar
+      text: إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌ كَذَّابٌ
+    - ref: Quran 40:36
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
 ---
 
 ## Questions

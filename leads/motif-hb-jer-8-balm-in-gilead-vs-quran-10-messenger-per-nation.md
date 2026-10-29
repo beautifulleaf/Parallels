@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-8-balm-in-gilead-vs-quran-10-messenger-per-nation
 title: Is there no balm in Gilead? The prophet's tears ↔ A messenger for every nation; no ransom
-summary: 'These two units share 1 motifs: when punishment comes the doomed can only confess ''we were
-  wrongdoers'', too late.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +13,9 @@ layers:
 - motif
 motifs:
 - doomed-confess-wrongdoing-too-late
-passages:
-- tradition: judaism
-  ref: Jer 8:20
-  note: 'When punishment comes the doomed can only confess ''we were wrongdoers'', too late (The time
-    for rescue has passed: a-thumma idhā mā waqaʿa āmantum bihi āl-āna vs ʿābar qāṣîr kālāh qāyiṣ waʾănaḥnû
-    lôʾ nôšāʿnû.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָבַ֥ר קָצִ֖יר כָּ֣לָה קָ֑יִץ וַאֲנַ֖חְנוּ ל֥וֹא נוֹשָֽׁעְנוּ
-- tradition: islam
-  ref: Quran 10:51
-  note: When punishment comes the doomed can only confess 'we were wrongdoers', too late
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The time for rescue has passed: a-thumma idhā mā waqaʿa āmantum bihi āl-āna vs ʿābar qāṣîr kālāh
-    qāyiṣ waʾănaḥnû lôʾ nôšāʿnû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When punishment comes the doomed can only confess ''we were wrongdoers'',
     too late (weight 6.3). Pair score 6.3.'
@@ -62,6 +45,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When punishment comes the doomed can only confess 'we were wrongdoers', too late
+kinds:
+- echo
+units:
+- id: hb-jer-8-balm-in-gilead
+  title: Is there no balm in Gilead? The prophet's tears
+  tradition: judaism
+- id: quran-10-messenger-per-nation
+  title: A messenger for every nation; no ransom
+  tradition: islam
+matches:
+- kind: echo
+  label: When punishment comes the doomed can only confess 'we were wrongdoers', too late
+  note: 'The time for rescue has passed: a-thumma idhā mā waqaʿa āmantum bihi āl-āna vs ʿābar qāṣîr kālāh
+    qāyiṣ waʾănaḥnû lôʾ nôšāʿnû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 8:20
+      lang: he
+      text: עָבַ֥ר קָצִ֖יר כָּ֣לָה קָ֑יִץ וַאֲנַ֖חְנוּ ל֥וֹא נוֹשָֽׁעְנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:51
+      lang: ar
+      text: أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 ---
 
 ## Questions

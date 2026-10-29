@@ -2,7 +2,7 @@
 id: motif-hb-judg-5-song-of-deborah-vs-quran-47-muhammad-battle-and-rivers
 title: 'The Song of Deborah ↔ Muhammad: deeds nullified, striking necks and freeing captives, and the
   four rivers of the Garden'
-summary: 'These two units share 1 motifs: if you help god he will help you and make your feet firm.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - help-god-and-he-helps-you
-passages:
-- tradition: judaism
-  ref: Judg 5:23
-  note: 'If you help God he will help you and make your feet firm (Fighters spoken of as ''helping'' God:
-    ʾôrû mērôz ... kî lōʾ ḇāʾû lə-ʿezraṯ YHWH lə-ʿezraṯ YHWH bag-gibbôrîm vs. in tanṣurū llāha yanṣurkum
-    wa-yuthabbit aqdāmakum. Deborah curses those who failed to help; the Quran promises help in return
-    to those who help.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ כִּ֤י לֹֽא בָ֨אוּ֙ לְעֶזְרַ֣ת
-    יְהוָ֔ה לְעֶזְרַ֥ת יְהוָ֖ה בַּגִּבּוֹרִֽים
-- tradition: islam
-  ref: Quran 47:7
-  note: If you help God he will help you and make your feet firm
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Fighters spoken of as ''helping'' God: ʾôrû mērôz ... kî lōʾ ḇāʾû lə-ʿezraṯ YHWH lə-ʿezraṯ YHWH
-    bag-gibbôrîm vs. in tanṣurū llāha yanṣurkum wa-yuthabbit aqdāmakum. Deborah curses those who failed
-    to help; the Quran promises help in return to those who help.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If you help God he will help you and make your feet firm (weight
     6.7). Pair score 6.7.'
@@ -70,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If you help God he will help you and make your feet firm
+kinds:
+- echo
+units:
+- id: hb-judg-5-song-of-deborah
+  title: The Song of Deborah
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: If you help God he will help you and make your feet firm
+  note: 'Fighters spoken of as ''helping'' God: ʾôrû mērôz ... kî lōʾ ḇāʾû lə-ʿezraṯ YHWH lə-ʿezraṯ YHWH
+    bag-gibbôrîm vs. in tanṣurū llāha yanṣurkum wa-yuthabbit aqdāmakum. Deborah curses those who failed
+    to help; the Quran promises help in return to those who help.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:23
+      lang: he
+      text: א֣וֹרוּ מֵר֗וֹז אָמַר֙ מַלְאַ֣ךְ יְהוָ֔ה אֹ֥רוּ אָר֖וֹר יֹשְׁבֶ֑יהָ כִּ֤י לֹֽא בָ֨אוּ֙ לְעֶזְרַ֣ת
+        יְהוָ֔ה לְעֶזְרַ֥ת יְהוָ֖ה בַּגִּבּוֹרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 47:7
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن تَنصُرُوا۟ ٱللَّهَ يَنصُرْكُمْ وَيُثَبِّتْ أَقْدَامَكُمْ
 ---
 
 ## Questions

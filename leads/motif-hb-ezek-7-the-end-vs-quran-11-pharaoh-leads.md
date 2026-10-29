@@ -2,8 +2,7 @@
 id: motif-hb-ezek-7-the-end-vs-quran-11-pharaoh-leads
 title: The end has come upon the four corners of the land ↔ Pharaoh leads his people into the fire; the
   towns standing and mown
-summary: 'These two units share 2 motifs: the gods of a people judged by god cannot help them, ''far be
-  it from god to do wickedness, from shaddai to do wrong''; he repays a man according to his deeds.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,51 +15,9 @@ layers:
 motifs:
 - gods-of-the-destroyed-avail-nothing
 - far-be-it-from-god-to-do-wrong
-passages:
-- tradition: judaism
-  ref: Ezek 7:19
-  note: 'The gods of a people judged by God cannot help them (What they relied on cannot save them on
-    the day of wrath: kaspām ûzᵉhābām lōʾ-yûkal lᵉhaṣṣîlām bᵉyôm ʿebrat YHWH vs fa-mā aghnat ʿanhum ālihatuhum
-    ... wa-mā zādūhum ghayra tatbīb. Ezek speaks of their silver and gold (idols, 7:20), Q of their gods.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
-    יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
-    כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
-- tradition: islam
-  ref: Quran 11:101
-  note: 'The gods of a people judged by God cannot help them (The judged people''s gods are powerless:
-    fa-mā aghnat ʿanhum ālihatuhumu llatī yadʿūna min dūni llāhi min shayʾin lammā jāʾa amru rabbik vs
-    ûbᵉkol-ʾĕlōhê miṣrayim ʾeʿĕśeh šᵉpāṭîm ʾănî YHWH. In Exod God judges the gods themselves; in Q they
-    merely fail their worshippers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ ٱلَّتِى
-    يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ
-- tradition: judaism
-  ref: Ezek 7:27
-  note: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
-    to his deeds (They are judged by their own conduct, not wronged: wa-mā ẓalamnāhum wa-lākin ẓalamū
-    anfusahum vs middarkām ʾeʿĕśeh ʾôtām ûbᵉmišpᵉṭêhem ʾešpᵉṭēm.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַמֶּ֣לֶךְ יִתְאַבָּ֗ל וְנָשִׂיא֙ יִלְבַּ֣שׁ שְׁמָמָ֔ה וִידֵ֥י עַם הָאָ֖רֶץ תִּבָּהַ֑לְנָה מִדַּרְכָּ֞ם
-    אֶעֱשֶׂ֤ה אוֹתָם֙ וּבְמִשְׁפְּטֵיהֶ֣ם אֶשְׁפְּטֵ֔ם וְיָדְע֖וּ כִּֽי אֲנִ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 11:101
-  note: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
-    to his deeds (They are judged by their own conduct, not wronged: wa-mā ẓalamnāhum wa-lākin ẓalamū
-    anfusahum vs middarkām ʾeʿĕśeh ʾôtām ûbᵉmišpᵉṭêhem ʾešpᵉṭēm.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ ٱلَّتِى
-    يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ غَيْرَ تَتْبِيبٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. What they relied on cannot save them on the day of wrath: kaspām ûzᵉhābām lōʾ-yûkal lᵉhaṣṣîlām
-    bᵉyôm ʿebrat YHWH vs fa-mā aghnat ʿanhum ālihatuhum ... wa-mā zādūhum ghayra tatbīb. Ezek speaks of
-    their silver and gold (idols, 7:20), Q of their gods. They are judged by their own conduct, not wronged:
-    wa-mā ẓalamnāhum wa-lākin ẓalamū anfusahum vs middarkām ʾeʿĕśeh ʾôtām ûbᵉmišpᵉṭêhem ʾešpᵉṭēm.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The gods of a people judged by God cannot help them (weight 6.3);
     ''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according to his
@@ -91,6 +48,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The gods of a people judged by God cannot help them
+kinds:
+- echo
+units:
+- id: hb-ezek-7-the-end
+  title: The end has come upon the four corners of the land
+  tradition: judaism
+- id: quran-11-pharaoh-leads
+  title: Pharaoh leads his people into the fire; the towns standing and mown
+  tradition: islam
+matches:
+- kind: echo
+  label: The gods of a people judged by God cannot help them
+  note: 'What they relied on cannot save them on the day of wrath: kaspām ûzᵉhābām lōʾ-yûkal lᵉhaṣṣîlām
+    bᵉyôm ʿebrat YHWH vs fa-mā aghnat ʿanhum ālihatuhum ... wa-mā zādūhum ghayra tatbīb. Ezek speaks of
+    their silver and gold (idols, 7:20), Q of their gods.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 7:19
+      lang: he
+      text: כַּסְפָּ֞ם בַּחוּצ֣וֹת יַשְׁלִ֗יכוּ וּזְהָבָם֮ לְנִדָּ֣ה יִֽהְיֶה֒ כַּסְפָּ֨ם וּזְהָבָ֜ם לֹֽא
+        יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה נַפְשָׁם֙ לֹ֣א יְשַׂבֵּ֔עוּ וּמֵעֵיהֶ֖ם לֹ֣א יְמַלֵּ֑אוּ
+        כִּֽי מִכְשׁ֥וֹל עֲוֺנָ֖ם הָיָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:101
+      lang: ar
+      text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ
+        ٱلَّتِى يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ
+        غَيْرَ تَتْبِيبٍ
+- kind: echo
+  label: '''Far be it from God to do wickedness, from Shaddai to do wrong''; he repays a man according
+    to his deeds'
+  note: 'They are judged by their own conduct, not wronged: wa-mā ẓalamnāhum wa-lākin ẓalamū anfusahum
+    vs middarkām ʾeʿĕśeh ʾôtām ûbᵉmišpᵉṭêhem ʾešpᵉṭēm.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 7:27
+      lang: he
+      text: הַמֶּ֣לֶךְ יִתְאַבָּ֗ל וְנָשִׂיא֙ יִלְבַּ֣שׁ שְׁמָמָ֔ה וִידֵ֥י עַם הָאָ֖רֶץ תִּבָּהַ֑לְנָה
+        מִדַּרְכָּ֞ם אֶעֱשֶׂ֤ה אוֹתָם֙ וּבְמִשְׁפְּטֵיהֶ֣ם אֶשְׁפְּטֵ֔ם וְיָדְע֖וּ כִּֽי אֲנִ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:101
+      lang: ar
+      text: وَمَا ظَلَمْنَٰهُمْ وَلَٰكِن ظَلَمُوٓا۟ أَنفُسَهُمْ فَمَآ أَغْنَتْ عَنْهُمْ ءَالِهَتُهُمُ
+        ٱلَّتِى يَدْعُونَ مِن دُونِ ٱللَّهِ مِن شَىْءٍ لَّمَّا جَآءَ أَمْرُ رَبِّكَ وَمَا زَادُوهُمْ
+        غَيْرَ تَتْبِيبٍ
 ---
 
 ## Questions

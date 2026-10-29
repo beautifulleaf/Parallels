@@ -2,8 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-34-intercession-and-judgment
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ Partners own
   nothing; intercession; the weak and the arrogant at judgment
-summary: 'These two units share 1 motifs: on judgment day the weak followers ask the arrogant leaders
-  to avail them; the leaders cannot.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - weak-and-arrogant-dispute-in-judgment
-passages:
-- tradition: judaism
-  ref: Isa 14:9
-  note: 'On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
-    (Speech among the dead between the weak and the once-mighty: kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ
-    ḥullêṯā ḵāmônû (you too are made weak like us) vs. yaqūlu lladhīna stuḍʿifū li-lladhīna stakbarū law-lā
-    antum la-kunnā muʾminīn. In Isaiah the shades taunt the fallen tyrant; in the Quran the weak blame
-    the arrogant, who blame them back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁא֗וֹל מִתַּ֛חַת רָגְזָ֥ה לְךָ֖ לִקְרַ֣את בּוֹאֶ֑ךָ עוֹרֵ֨ר לְךָ֤ רְפָאִים֙ כָּל עַתּ֣וּדֵי
-    אָ֔רֶץ הֵקִים֙ מִכִּסְאוֹתָ֔ם כֹּ֖ל מַלְכֵ֥י גוֹיִֽם
-- tradition: judaism
-  ref: Isa 14:10
-  note: 'On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
-    (Speech among the dead between the weak and the once-mighty: kullām yaʿănû wə-yōʾmərû ʾēleyḵā gam-ʾattâ
-    ḥullêṯā ḵāmônû (you too are made weak like us) vs. yaqūlu lladhīna stuḍʿifū li-lladhīna stakbarū law-lā
-    antum la-kunnā muʾminīn. In Isaiah the shades taunt the fallen tyrant; in the Quran the weak blame
-    the arrogant, who blame them back.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
-- tradition: islam
-  ref: Quran 34:31
-  note: On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ
-    وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ ٱلْقَوْلَ
-    يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا مُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 34:32
-  note: On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ
-    بَعْدَ إِذْ جَآءَكُم بَلْ كُنتُم مُّجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. Speech among the dead between the weak and the once-mighty: kullām yaʿănû wə-yōʾmərû ʾēleyḵā
-    gam-ʾattâ ḥullêṯā ḵāmônû (you too are made weak like us) vs. yaqūlu lladhīna stuḍʿifū li-lladhīna
-    stakbarū law-lā antum la-kunnā muʾminīn. In Isaiah the shades taunt the fallen tyrant; in the Quran
-    the weak blame the arrogant, who blame them back.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day the weak followers ask the arrogant leaders to avail
     them; the leaders cannot (weight 6.0). Pair score 6.0.'
@@ -92,6 +51,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
+kinds:
+- echo
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-34-intercession-and-judgment
+  title: Partners own nothing; intercession; the weak and the arrogant at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: On judgment day the weak followers ask the arrogant leaders to avail them; the leaders cannot
+  note: 'Speech among the dead between the weak and the once-mighty: kullām yaʿănû wə-yōʾmərû ʾēleyḵā
+    gam-ʾattâ ḥullêṯā ḵāmônû (you too are made weak like us) vs. yaqūlu lladhīna stuḍʿifū li-lladhīna
+    stakbarū law-lā antum la-kunnā muʾminīn. In Isaiah the shades taunt the fallen tyrant; in the Quran
+    the weak blame the arrogant, who blame them back.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:9
+      lang: he
+      text: שְׁא֗וֹל מִתַּ֛חַת רָגְזָ֥ה לְךָ֖ לִקְרַ֣את בּוֹאֶ֑ךָ עוֹרֵ֨ר לְךָ֤ רְפָאִים֙ כָּל עַתּ֣וּדֵי
+        אָ֔רֶץ הֵקִים֙ מִכִּסְאוֹתָ֔ם כֹּ֖ל מַלְכֵ֥י גוֹיִֽם
+    - ref: Isa 14:10
+      lang: he
+      text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:31
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ كَفَرُوا۟ لَن نُّؤْمِنَ بِهَٰذَا ٱلْقُرْءَانِ وَلَا بِٱلَّذِى بَيْنَ يَدَيْهِ
+        وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوْقُوفُونَ عِندَ رَبِّهِمْ يَرْجِعُ بَعْضُهُمْ إِلَىٰ بَعْضٍ
+        ٱلْقَوْلَ يَقُولُ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ لَوْلَآ أَنتُمْ لَكُنَّا
+        مُؤْمِنِينَ
+    - ref: Quran 34:32
+      lang: ar
+      text: قَالَ ٱلَّذِينَ ٱسْتَكْبَرُوا۟ لِلَّذِينَ ٱسْتُضْعِفُوٓا۟ أَنَحْنُ صَدَدْنَٰكُمْ عَنِ ٱلْهُدَىٰ
+        بَعْدَ إِذْ جَآءَكُم بَلْ كُنتُم مُّجْرِمِينَ
+    - ref: Quran 34:33
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ
+        إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ
+        لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ
+        إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 ---
 
 ## Questions

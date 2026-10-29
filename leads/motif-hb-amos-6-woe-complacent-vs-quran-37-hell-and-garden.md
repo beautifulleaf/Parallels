@@ -2,8 +2,7 @@
 id: motif-hb-amos-6-woe-complacent-vs-quran-37-hell-and-garden
 title: Woe to the complacent; the marzeah ends; the plague-house ↔ The damned questioned; the blessed
   on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: reclining on couches and drinking wine, and how it is judged
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - reclining-banquet-with-wine-as-contrast
-passages:
-- tradition: judaism
-  ref: Amos 6:4
-  note: 'Reclining on couches and drinking wine, and how it is judged [contrast between the texts] (The
-    reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm bə-mizrəqê
-    yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim bi-kaʾsin
-    min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The same scene
-    is a sin in this life and a reward in the next.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשֹּֽׁכְבִים֙ עַל מִטּ֣וֹת שֵׁ֔ן וּסְרֻחִ֖ים עַל עַרְשׂוֹתָ֑ם וְאֹכְלִ֤ים כָּרִים֙ מִצֹּ֔אן וַעֲגָלִ֖ים
-    מִתּ֥וֹךְ מַרְבֵּֽק
-- tradition: judaism
-  ref: Amos 6:6
-  note: 'Reclining on couches and drinking wine, and how it is judged [contrast between the texts] (The
-    reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm bə-mizrəqê
-    yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim bi-kaʾsin
-    min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The same scene
-    is a sin in this life and a reward in the next.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשֹּׁתִ֤ים בְּמִזְרְקֵי֙ יַ֔יִן וְרֵאשִׁ֥ית שְׁמָנִ֖ים יִמְשָׁ֑חוּ וְלֹ֥א נֶחְל֖וּ עַל שֵׁ֥בֶר
-    יוֹסֵֽף
-- tradition: islam
-  ref: Quran 37:44
-  note: 'Reclining on couches and drinking wine, and how it is judged [contrast between the texts] (The
-    reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm bə-mizrəqê
-    yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim bi-kaʾsin
-    min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The same scene
-    is a sin in this life and a reward in the next.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
-- tradition: islam
-  ref: Quran 37:45
-  note: 'Reclining on couches and drinking wine, and how it is judged [contrast between the texts] (The
-    reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm bə-mizrəqê
-    yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim bi-kaʾsin
-    min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The same scene
-    is a sin in this life and a reward in the next.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. The reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm
-    bə-mizrəqê yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim
-    bi-kaʾsin min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The
-    same scene is a sin in this life and a reward in the next.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Reclining on couches and drinking wine, and how it is judged [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -98,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Reclining on couches and drinking wine, and how it is judged
+kinds:
+- contrast
+units:
+- id: hb-amos-6-woe-complacent
+  title: Woe to the complacent; the marzeah ends; the plague-house
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: contrast
+  label: Reclining on couches and drinking wine, and how it is judged
+  note: 'The reclining banquet. Amos: haš-šōḵəḇîm ʿal-miṭṭôṯ šēn û-sərūḥîm ʿal-ʿarśôṯām ... ha-ššōṯîm
+    bə-mizrəqê yayin, condemned as the luxury of the complacent. Q: ʿalā sururin mutaqābilīna yuṭāfu ʿalayhim
+    bi-kaʾsin min maʿīn, given as the reward of God''s sincere servants (ʿibāda llāhi l-mukhlaṣīn). The
+    same scene is a sin in this life and a reward in the next.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 6:4
+      lang: he
+      text: הַשֹּֽׁכְבִים֙ עַל מִטּ֣וֹת שֵׁ֔ן וּסְרֻחִ֖ים עַל עַרְשׂוֹתָ֑ם וְאֹכְלִ֤ים כָּרִים֙ מִצֹּ֔אן
+        וַעֲגָלִ֖ים מִתּ֥וֹךְ מַרְבֵּֽק
+    - ref: Amos 6:6
+      lang: he
+      text: הַשֹּׁתִ֤ים בְּמִזְרְקֵי֙ יַ֔יִן וְרֵאשִׁ֥ית שְׁמָנִ֖ים יִמְשָׁ֑חוּ וְלֹ֥א נֶחְל֖וּ עַל שֵׁ֥בֶר
+        יוֹסֵֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 37:44
+      lang: ar
+      text: عَلَىٰ سُرُرٍ مُّتَقَٰبِلِينَ
+    - ref: Quran 37:45
+      lang: ar
+      text: يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍۭ
 ---
 
 ## Questions

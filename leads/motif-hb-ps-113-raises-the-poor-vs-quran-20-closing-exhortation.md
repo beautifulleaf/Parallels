@@ -2,9 +2,7 @@
 id: motif-hb-ps-113-raises-the-poor-vs-quran-20-closing-exhortation
 title: Psalm 113, God on high raises the poor and the barren ↔ Destroyed generations, patience, prayer
   times and waiting
-summary: 'These two units share 3 motifs: god''s name is praised from the rising of the sun to its setting
-  [divergence between the texts], god''s name is praised from the rising of the sun to its setting, glorify
-  your lord before the rising of the sun and before its setting, in the night and after prostrations.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,61 +16,9 @@ motifs:
 - praised-from-sunrise-to-sunset-as-divergence
 - praised-from-sunrise-to-sunset
 - glorify-before-sunrise-and-sunset
-passages:
-- tradition: judaism
-  ref: Ps 113:3
-  note: 'God''s name is praised from the rising of the sun to its setting [divergence between the texts]
-    (mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla
-    ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west, everywhere);
-    in Q it is time (before rising, before setting, at night), the fixed times of glorification.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 20:130
-  note: 'God''s name is praised from the rising of the sun to its setting [divergence between the texts]
-    (mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi wa-qabla
-    ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west, everywhere);
-    in Q it is time (before rising, before setting, at night), the fixed times of glorification.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
-    وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
-- tradition: judaism
-  ref: Ps 113:3
-  note: God's name is praised from the rising of the sun to its setting
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 20:130
-  note: God's name is praised from the rising of the sun to its setting
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
-    وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
-- tradition: judaism
-  ref: Ps 113:3
-  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
-    prostrations (mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb.
-    The psalm's sunrise-to-sunset is spatial (from east to west); the Quran's is a time of day.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
-- tradition: islam
-  ref: Quran 20:130
-  note: Glorify your Lord before the rising of the sun and before its setting, in the night and after
-    prostrations
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ غُرُوبِهَا
-    وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi
-    sh-shamsi wa-qabla ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east
-    to west, everywhere); in Q it is time (before rising, before setting, at night), the fixed times of
-    glorification.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s name is praised from the rising of the sun to its setting
     [divergence between the texts] (weight 6.7); God''s name is praised from the rising of the sun to
@@ -100,6 +46,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's name is praised from the rising of the sun to its setting
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-113-raises-the-poor
+  title: Psalm 113, God on high raises the poor and the barren
+  tradition: judaism
+- id: quran-20-closing-exhortation
+  title: Destroyed generations, patience, prayer times and waiting
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's name is praised from the rising of the sun to its setting
+  note: 'mimmizraḥ-šemeš ʿad-məbôʾô məhullāl šēm YHWH; wa-sabbiḥ bi-ḥamdi rabbika qabla ṭulūʿi sh-shamsi
+    wa-qabla ghurūbihā: praise tied to sunrise and sunset. In Ps the span is space (from east to west,
+    everywhere); in Q it is time (before rising, before setting, at night), the fixed times of glorification.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 113:3
+      lang: he
+      text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:130
+      lang: ar
+      text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ
+        غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
+- kind: shared
+  label: Glorify your Lord before the rising of the sun and before its setting, in the night and after
+    prostrations
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 113:3
+      lang: he
+      text: מִמִּזְרַח שֶׁ֥מֶשׁ עַד מְבוֹא֑וֹ מְ֝הֻלָּ֗ל שֵׁ֣ם יְהוָֽה
+    note: mim-mizraḥ šemeš ʿaḏ məḇôʾô məhullāl šēm YHWH vs. qabla ṭulūʿi sh-shamsi wa-qabla l-ghurūb.
+      The psalm's sunrise-to-sunset is spatial (from east to west); the Quran's is a time of day.
+  - tradition: islam
+    passages:
+    - ref: Quran 20:130
+      lang: ar
+      text: فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ
+        غُرُوبِهَا وَمِنْ ءَانَآئِ ٱلَّيْلِ فَسَبِّحْ وَأَطْرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرْضَىٰ
 ---
 
 ## Questions

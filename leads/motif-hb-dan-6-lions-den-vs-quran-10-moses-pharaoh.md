@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-10-moses-pharaoh
 title: Daniel in the lions' den ↔ Moses, the houses as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 1 motifs: moses and aaron are told to make their people''s houses in egypt
-  a qibla (place/direction of prayer).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - houses-in-egypt-as-qibla
-passages:
-- tradition: judaism
-  ref: Dan 6:11
-  note: 'Moses and Aaron are told to make their people''s houses in Egypt a qibla (place/direction of
-    prayer) (Prayer at home oriented to a holy direction under a hostile ruler: wa-jʿalū buyūtakum qiblatan
-    wa-aqīmū ṣ-ṣalāh vs wᵉkawwîn pᵉtîḥān lēh bᵉʿillîtēh neged yᵉrûšᵉlem wᵉzimnîn tᵉlātāh bᵉyômāʾ ... mᵉṣallēʾ
-    (Aramaic, the same verb ṣlʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙
-    בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
-    וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
-- tradition: islam
-  ref: Quran 10:87
-  note: Moses and Aaron are told to make their people's houses in Egypt a qibla (place/direction of prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟
-    بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Prayer at home oriented to a holy direction under a hostile ruler: wa-jʿalū buyūtakum qiblatan
-    wa-aqīmū ṣ-ṣalāh vs wᵉkawwîn pᵉtîḥān lēh bᵉʿillîtēh neged yᵉrûšᵉlem wᵉzimnîn tᵉlātāh bᵉyômāʾ ... mᵉṣallēʾ
-    (Aramaic, the same verb ṣlʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses and Aaron are told to make their people''s houses in Egypt
     a qibla (place/direction of prayer) (weight 6.7). Pair score 6.7.'
@@ -72,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses and Aaron are told to make their people's houses in Egypt a qibla (place/direction of prayer)
+kinds:
+- echo
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: echo
+  label: Moses and Aaron are told to make their people's houses in Egypt a qibla (place/direction of prayer)
+  note: 'Prayer at home oriented to a holy direction under a hostile ruler: wa-jʿalū buyūtakum qiblatan
+    wa-aqīmū ṣ-ṣalāh vs wᵉkawwîn pᵉtîḥān lēh bᵉʿillîtēh neged yᵉrûšᵉlem wᵉzimnîn tᵉlātāh bᵉyômāʾ ... mᵉṣallēʾ
+    (Aramaic, the same verb ṣlʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:11
+      lang: he
+      text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן
+        לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
+        וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:87
+      lang: ar
+      text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوْمِكُمَا بِمِصْرَ بُيُوتًا وَٱجْعَلُوا۟
+        بُيُوتَكُمْ قِبْلَةً وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَبَشِّرِ ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

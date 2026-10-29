@@ -2,8 +2,7 @@
 id: motif-hb-ps-136-great-hallel-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Psalm 136, litany ''for his steadfast love is forever'' (Great Hallel) ↔ Al-Rahman: the Merciful
   taught the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 1 motifs: a creation litany with a refrain after every line [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,64 +14,9 @@ layers:
 - motif
 motifs:
 - creation-litany-with-refrain-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 136:1
-  note: 'A creation litany with a refrain after every line [divergence between the texts] (A creation
-    litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ haš-šemeš lə-memšeleṯ
-    bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān ... fa-bi-ayyi ālāʾi
-    rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens, earth, sun, moon).
-    Changed refrain: the psalm affirms (his love endures for ever) and calls Israel to give thanks (hôḏû);
-    the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s bounties will you
-    deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and hell.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹד֣וּ לַיהוָ֣ה כִּי ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
-- tradition: judaism
-  ref: Ps 136:5
-  note: 'A creation litany with a refrain after every line [divergence between the texts] (A creation
-    litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ haš-šemeš lə-memšeleṯ
-    bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān ... fa-bi-ayyi ālāʾi
-    rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens, earth, sun, moon).
-    Changed refrain: the psalm affirms (his love endures for ever) and calls Israel to give thanks (hôḏû);
-    the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s bounties will you
-    deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and hell.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְעֹשֵׂ֣ה הַ֭שָּׁמַיִם בִּתְבוּנָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
-- tradition: islam
-  ref: Quran 55:5
-  note: 'A creation litany with a refrain after every line [divergence between the texts] (A creation
-    litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ haš-šemeš lə-memšeleṯ
-    bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān ... fa-bi-ayyi ālāʾi
-    rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens, earth, sun, moon).
-    Changed refrain: the psalm affirms (his love endures for ever) and calls Israel to give thanks (hôḏû);
-    the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s bounties will you
-    deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and hell.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ
-- tradition: islam
-  ref: Quran 55:13
-  note: 'A creation litany with a refrain after every line [divergence between the texts] (A creation
-    litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ haš-šemeš lə-memšeleṯ
-    bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān ... fa-bi-ayyi ālāʾi
-    rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens, earth, sun, moon).
-    Changed refrain: the psalm affirms (his love endures for ever) and calls Israel to give thanks (hôḏû);
-    the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s bounties will you
-    deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and hell.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A creation litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ...
-    ʾeṯ haš-šemeš lə-memšeleṯ bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān
-    ... fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens,
-    earth, sun, moon). Changed refrain: the psalm affirms (his love endures for ever) and calls Israel
-    to give thanks (hôḏû); the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s
-    bounties will you deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and
-    hell.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A creation litany with a refrain after every line [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -109,6 +53,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A creation litany with a refrain after every line
+kinds:
+- divergence
+units:
+- id: hb-ps-136-great-hallel
+  title: Psalm 136, litany 'for his steadfast love is forever' (Great Hallel)
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: divergence
+  label: A creation litany with a refrain after every line
+  note: 'A creation litany with a refrain after every line. Ps 136: lə-ʿōśēh hā-ʾôrîm gəḏōlîm ... ʾeṯ
+    haš-šemeš lə-memšeleṯ bay-yôm ... kî lə-ʿôlām ḥasdô (26 times). Q 55: ash-shamsu wa-l-qamaru bi-ḥusbān
+    ... fa-bi-ayyi ālāʾi rabbikumā tukadhdhibān (31 times). Same form and the same first works (heavens,
+    earth, sun, moon). Changed refrain: the psalm affirms (his love endures for ever) and calls Israel
+    to give thanks (hôḏû); the Quran asks a challenge in the dual to jinn and humans: which of your Lord''s
+    bounties will you deny? The psalm goes on to Egypt and Israel''s history; the Quran to heaven and
+    hell.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 136:1
+      lang: he
+      text: הוֹד֣וּ לַיהוָ֣ה כִּי ט֑וֹב כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+    - ref: Ps 136:5
+      lang: he
+      text: לְעֹשֵׂ֣ה הַ֭שָּׁמַיִם בִּתְבוּנָ֑ה כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+    - ref: Ps 136:7
+      lang: he
+      text: לְ֭עֹשֵׂה אוֹרִ֣ים גְּדֹלִ֑ים כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:5
+      lang: ar
+      text: ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ
+    - ref: Quran 55:13
+      lang: ar
+      text: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
+    - ref: Quran 55:16
+      lang: ar
+      text: فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ
 ---
 
 ## Questions

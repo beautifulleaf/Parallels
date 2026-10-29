@@ -2,7 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-31-signs-and-unseen
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ God's signs, the inexhaustible
   words, and the five things only God knows
-summary: 'These two units share 1 motifs: on the day no parent can avail his child, nor child his parent.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,41 +15,9 @@ layers:
 - motif
 motifs:
 - no-parent-avails-child-on-judgment
-passages:
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'On the Day no parent can avail his child, nor child his parent (lā yajzī wālidun ʿan waladihi
-    wa-lā mawlūdun huwa jāzin ʿan wālidihi shayʾan vs. ʾim-bānîm wə-ʾim-bānôṯ yaṣṣîlû hēmmâ ləḇaddām yinnāṣēlû:
-    even Noah, Daniel and Job would save only themselves, not sons or daughters. Ezekiel says it of a
-    land under judgment, the Quran of the Last Day (yawm), and in both directions (child for parent too).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: judaism
-  ref: Ezek 14:16
-  note: 'On the Day no parent can avail his child, nor child his parent (lā yajzī wālidun ʿan waladihi
-    wa-lā mawlūdun huwa jāzin ʿan wālidihi shayʾan vs. ʾim-bānîm wə-ʾim-bānôṯ yaṣṣîlû hēmmâ ləḇaddām yinnāṣēlû:
-    even Noah, Daniel and Job would save only themselves, not sons or daughters. Ezekiel says it of a
-    land under judgment, the Quran of the Last Day (yawm), and in both directions (child for parent too).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁלֹ֨שֶׁת הָאֲנָשִׁ֣ים הָאֵלֶּה֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בָּנִ֥ים
-    וְאִם בָּנ֖וֹת יַצִּ֑ילוּ הֵ֤מָּה לְבַדָּם֙ יִנָּצֵ֔לוּ וְהָאָ֖רֶץ תִּהְיֶ֥ה שְׁמָמָֽה
-- tradition: islam
-  ref: Quran 31:33
-  note: On the Day no parent can avail his child, nor child his parent
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ
-    وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ
-    ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. lā yajzī wālidun ʿan waladihi wa-lā mawlūdun huwa jāzin ʿan wālidihi shayʾan vs. ʾim-bānîm
-    wə-ʾim-bānôṯ yaṣṣîlû hēmmâ ləḇaddām yinnāṣēlû: even Noah, Daniel and Job would save only themselves,
-    not sons or daughters. Ezekiel says it of a land under judgment, the Quran of the Last Day (yawm),
-    and in both directions (child for parent too).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day no parent can avail his child, nor child his parent (weight
     6.7). Pair score 6.7.'
@@ -88,6 +56,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the Day no parent can avail his child, nor child his parent
+kinds:
+- parallel
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: parallel
+  label: On the Day no parent can avail his child, nor child his parent
+  note: 'lā yajzī wālidun ʿan waladihi wa-lā mawlūdun huwa jāzin ʿan wālidihi shayʾan vs. ʾim-bānîm wə-ʾim-bānôṯ
+    yaṣṣîlû hēmmâ ləḇaddām yinnāṣēlû: even Noah, Daniel and Job would save only themselves, not sons or
+    daughters. Ezekiel says it of a land under judgment, the Quran of the Last Day (yawm), and in both
+    directions (child for parent too).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+    - ref: Ezek 14:16
+      lang: he
+      text: שְׁלֹ֨שֶׁת הָאֲנָשִׁ֣ים הָאֵלֶּה֮ בְּתוֹכָהּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם בָּנִ֥ים
+        וְאִם בָּנ֖וֹת יַצִּ֑ילוּ הֵ֤מָּה לְבַדָּם֙ יִנָּצֵ֔לוּ וְהָאָ֖רֶץ תִּהְיֶ֥ה שְׁמָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 31:33
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمْ وَٱخْشَوْا۟ يَوْمًا لَّا يَجْزِى وَالِدٌ عَن وَلَدِهِۦ
+        وَلَا مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيْـًٔا إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ
+        ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-1sam-1-hannah-vs-quran-17-moses-nine-signs-and-close
 title: Hannah's vow and Samuel's birth ↔ Moses' nine signs, the drowning of Pharaoh, the Quran sent in
   portions (Surah 17:101-111)
-summary: 'These two units share 1 motifs: do not be loud in prayer nor too quiet; seek a way between [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - prayer-voice-neither-loud-nor-silent-as-contrast
-passages:
-- tradition: judaism
-  ref: 1Sam 1:13
-  note: Do not be loud in prayer nor too quiet; seek a way between [contrast between the texts] (Hannah
-    prays inaudibly, raq śəpātêhā nāʿôt wəqôlāh lōʾ yiššāmēaʿ, and Eli takes her for drunk. Q forbids
-    both extremes, wa-lā tajhar bi-ṣalātika wa-lā tukhāfit bihā wa-btaghi bayna dhālika sabīlā. Hannah's
-    silent prayer became the rabbinic model for the Amidah (cf.); Q rules out the fully silent form.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
-    וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
-- tradition: islam
-  ref: Quran 17:110
-  note: Do not be loud in prayer nor too quiet; seek a way between [contrast between the texts] (Hannah
-    prays inaudibly, raq śəpātêhā nāʿôt wəqôlāh lōʾ yiššāmēaʿ, and Eli takes her for drunk. Q forbids
-    both extremes, wa-lā tajhar bi-ṣalātika wa-lā tukhāfit bihā wa-btaghi bayna dhālika sabīlā. Hannah's
-    silent prayer became the rabbinic model for the Amidah (cf.); Q rules out the fully silent form.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ
-    وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    contrast. Hannah prays inaudibly, raq śəpātêhā nāʿôt wəqôlāh lōʾ yiššāmēaʿ, and Eli takes her for
-    drunk. Q forbids both extremes, wa-lā tajhar bi-ṣalātika wa-lā tukhāfit bihā wa-btaghi bayna dhālika
-    sabīlā. Hannah''s silent prayer became the rabbinic model for the Amidah (cf.); Q rules out the fully
-    silent form.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not be loud in prayer nor too quiet; seek a way between [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -75,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not be loud in prayer nor too quiet; seek a way between
+kinds:
+- contrast
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: contrast
+  label: Do not be loud in prayer nor too quiet; seek a way between
+  note: Hannah prays inaudibly, raq śəpātêhā nāʿôt wəqôlāh lōʾ yiššāmēaʿ, and Eli takes her for drunk.
+    Q forbids both extremes, wa-lā tajhar bi-ṣalātika wa-lā tukhāfit bihā wa-btaghi bayna dhālika sabīlā.
+    Hannah's silent prayer became the rabbinic model for the Amidah (cf.); Q rules out the fully silent
+    form.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:13
+      lang: he
+      text: וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ
+        וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 17:110
+      lang: ar
+      text: قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَٰنَ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ
+        ٱلْحُسْنَىٰ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا
 ---
 
 ## Questions

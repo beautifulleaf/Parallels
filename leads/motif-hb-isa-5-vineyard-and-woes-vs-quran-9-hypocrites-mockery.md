@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-9-hypocrites-mockery
 title: Song of the vineyard; six woes; the nation from afar ↔ Hypocrites who mock and the destroyed peoples
-summary: 'These two units share 1 motifs: hypocrite men and women enjoin wrong and forbid right and close
-  their hands.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +13,9 @@ layers:
 - motif
 motifs:
 - hypocrites-male-and-female-enjoin-wrong
-passages:
-- tradition: judaism
-  ref: Isa 5:20
-  note: 'Hypocrite men and women enjoin wrong and forbid right and close their hands (Good and evil inverted:
-    yaʾmurūna bi-l-munkari wa-yanhawna ʿani l-maʿrūf vs hôy hāʾōmᵉrîm lāraʿ ṭôb wᵉlaṭṭôb rāʿ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹי הָאֹמְרִ֥ים לָרַ֛ע ט֖וֹב וְלַטּ֣וֹב רָ֑ע שָׂמִ֨ים חֹ֤שֶׁךְ לְאוֹר֙ וְא֣וֹר לְחֹ֔שֶׁךְ שָׂמִ֥ים
-    מַ֛ר לְמָת֖וֹק וּמָת֥וֹק לְמָֽר
-- tradition: islam
-  ref: Quran 9:67
-  note: Hypocrite men and women enjoin wrong and forbid right and close their hands
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ
-    عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ هُمُ
-    ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Good and evil inverted: yaʾmurūna bi-l-munkari wa-yanhawna ʿani l-maʿrūf vs hôy hāʾōmᵉrîm lāraʿ
-    ṭôb wᵉlaṭṭôb rāʿ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hypocrite men and women enjoin wrong and forbid right and close
     their hands (weight 6.7). Pair score 6.7.'
@@ -69,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hypocrite men and women enjoin wrong and forbid right and close their hands
+kinds:
+- echo
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: Hypocrite men and women enjoin wrong and forbid right and close their hands
+  note: 'Good and evil inverted: yaʾmurūna bi-l-munkari wa-yanhawna ʿani l-maʿrūf vs hôy hāʾōmᵉrîm lāraʿ
+    ṭôb wᵉlaṭṭôb rāʿ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:20
+      lang: he
+      text: ה֣וֹי הָאֹמְרִ֥ים לָרַ֛ע ט֖וֹב וְלַטּ֣וֹב רָ֑ע שָׂמִ֨ים חֹ֤שֶׁךְ לְאוֹר֙ וְא֣וֹר לְחֹ֔שֶׁךְ
+        שָׂמִ֥ים מַ֛ר לְמָת֖וֹק וּמָת֥וֹק לְמָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 9:67
+      lang: ar
+      text: ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ
+        عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ
+        هُمُ ٱلْفَٰسِقُونَ
 ---
 
 ## Questions

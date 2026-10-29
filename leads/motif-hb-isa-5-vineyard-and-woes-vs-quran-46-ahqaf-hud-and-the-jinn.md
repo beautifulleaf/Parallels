@@ -2,8 +2,7 @@
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Song of the vineyard; six woes; the nation from afar ↔ Hud warns 'Ad at the dunes; the cloud that
   was not rain; the jinn listen to the Quran
-summary: 'These two units share 1 motifs: scoffers dare god or the prophet to hurry the threatened judgment
-  so they may see it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - scoffers-challenge-god-to-hasten-doom
-passages:
-- tradition: judaism
-  ref: Isa 5:19
-  note: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ vs. fa-ʾtinā
-    bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare to hurry God's
-    plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת קְד֥וֹשׁ
-    יִשְׂרָאֵ֖ל וְנֵדָֽעָה
-- tradition: islam
-  ref: Quran 46:22
-  note: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ vs. fa-ʾtinā
-    bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare to hurry God's
-    plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ
-    ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 46:24
-  note: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ vs. fa-ʾtinā
-    bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare to hurry God's
-    plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا بَلْ
-    هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. hā-ʾōmərîm yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl
-    wə-nēḏāʿâ vs. fa-ʾtinā bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The
-    same dare to hurry God''s plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers dare God or the prophet to hurry the threatened judgment
     so they may see it (weight 6.3). Pair score 6.3.'
@@ -90,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it
+kinds:
+- parallel
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: parallel
+  label: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it
+  note: hā-ʾōmərîm yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ
+    vs. fa-ʾtinā bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare
+    to hurry God's plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:19
+      lang: he
+      text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת
+        קְד֥וֹשׁ יִשְׂרָאֵ֖ל וְנֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 46:22
+      lang: ar
+      text: قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ
+        مِنَ ٱلصَّٰدِقِينَ
+    - ref: Quran 46:24
+      lang: ar
+      text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا
+        بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

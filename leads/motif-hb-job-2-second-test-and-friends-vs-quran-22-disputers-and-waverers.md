@@ -2,8 +2,7 @@
 id: motif-hb-job-2-second-test-and-friends-vs-quran-22-disputers-and-waverers
 title: The second test; Job's wife; the three friends ↔ Those who dispute about God and those who worship
   on an edge
-summary: 'These two units share 1 motifs: how a worshipper responds to good fortune and to misfortune
-  sent by god [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - response-to-good-and-evil-from-god-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 2:10
-  note: 'How a worshipper responds to good fortune and to misfortune sent by God [contrast between the
-    texts] (fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ~ gam ʾet haṭ-ṭôv nəqabbēl
-    mēʾēt hā-ʾĕlōhîm wə-ʾet hā-rāʿ lōʾ nəqabbēl: the same pair, good (khayr / ṭôv) and trial (fitna /
-    rāʿ), with opposite responses: the edge-worshipper accepts only the good, Job accepts both.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלֶ֗יהָ כְּדַבֵּ֞ר אַחַ֤ת הַנְּבָלוֹת֙ תְּדַבֵּ֔רִי גַּ֣ם אֶת הַטּ֗וֹב נְקַבֵּל֙ מֵאֵ֣ת
-    הָאֱלֹהִ֔ים וְאֶת הָרָ֖ע לֹ֣א נְקַבֵּ֑ל בְּכָל זֹ֛את לֹא חָטָ֥א אִיּ֖וֹב בִּשְׂפָתָֽיו
-- tradition: islam
-  ref: Quran 22:11
-  note: 'How a worshipper responds to good fortune and to misfortune sent by God [contrast between the
-    texts] (fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ~ gam ʾet haṭ-ṭôv nəqabbēl
-    mēʾēt hā-ʾĕlōhîm wə-ʾet hā-rāʿ lōʾ nəqabbēl: the same pair, good (khayr / ṭôv) and trial (fitna /
-    rāʿ), with opposite responses: the edge-worshipper accepts only the good, Job accepts both.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ وَإِنْ
-    أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْءَاخِرَةَ ذَٰلِكَ هُوَ ٱلْخُسْرَانُ
-    ٱلْمُبِينُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ~ gam ʾet haṭ-ṭôv
-    nəqabbēl mēʾēt hā-ʾĕlōhîm wə-ʾet hā-rāʿ lōʾ nəqabbēl: the same pair, good (khayr / ṭôv) and trial
-    (fitna / rāʿ), with opposite responses: the edge-worshipper accepts only the good, Job accepts both.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a worshipper responds to good fortune and to misfortune sent
     by God [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -71,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How a worshipper responds to good fortune and to misfortune sent by God
+kinds:
+- contrast
+units:
+- id: hb-job-2-second-test-and-friends
+  title: The second test; Job's wife; the three friends
+  tradition: judaism
+- id: quran-22-disputers-and-waverers
+  title: Those who dispute about God and those who worship on an edge
+  tradition: islam
+matches:
+- kind: contrast
+  label: How a worshipper responds to good fortune and to misfortune sent by God
+  note: 'fa-in aṣābahu khayrun iṭmaʾanna bihi wa-in aṣābathu fitnatun inqalaba ~ gam ʾet haṭ-ṭôv nəqabbēl
+    mēʾēt hā-ʾĕlōhîm wə-ʾet hā-rāʿ lōʾ nəqabbēl: the same pair, good (khayr / ṭôv) and trial (fitna /
+    rāʿ), with opposite responses: the edge-worshipper accepts only the good, Job accepts both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 2:10
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלֶ֗יהָ כְּדַבֵּ֞ר אַחַ֤ת הַנְּבָלוֹת֙ תְּדַבֵּ֔רִי גַּ֣ם אֶת הַטּ֗וֹב נְקַבֵּל֙
+        מֵאֵ֣ת הָאֱלֹהִ֔ים וְאֶת הָרָ֖ע לֹ֣א נְקַבֵּ֑ל בְּכָל זֹ֛את לֹא חָטָ֥א אִיּ֖וֹב בִּשְׂפָתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 22:11
+      lang: ar
+      text: وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ فَإِنْ أَصَابَهُۥ خَيْرٌ ٱطْمَأَنَّ بِهِۦ
+        وَإِنْ أَصَابَتْهُ فِتْنَةٌ ٱنقَلَبَ عَلَىٰ وَجْهِهِۦ خَسِرَ ٱلدُّنْيَا وَٱلْءَاخِرَةَ ذَٰلِكَ
+        هُوَ ٱلْخُسْرَانُ ٱلْمُبِينُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-73-prosperity-of-wicked-vs-quran-43-zukhruf-abraham-and-silver-roofs
 title: Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory ↔ Abraham
   disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
-summary: 'These two units share 1 motifs: the wealth of the wicked: a scandal to be explained, or worthless
-  enjoyment [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,64 +14,9 @@ layers:
 - motif
 motifs:
 - wealth-of-the-wicked-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 73:3
-  note: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
-    the texts] (The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm
-    ʾerʾeh ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ
-    lə-ʾaḥărîṯām; ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs
-    (suqufan min fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would
-    become one community. Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu
-    dhālika lammā matāʿu l-ḥayāti d-dunyā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי קִ֭נֵּאתִי בַּֽהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה
-- tradition: judaism
-  ref: Ps 73:12
-  note: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
-    the texts] (The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm
-    ʾerʾeh ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ
-    lə-ʾaḥărîṯām; ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs
-    (suqufan min fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would
-    become one community. Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu
-    dhālika lammā matāʿu l-ḥayāti d-dunyā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה אֵ֥לֶּה רְשָׁעִ֑ים וְשַׁלְוֵ֥י ע֝וֹלָ֗ם הִשְׂגּוּ חָֽיִל
-- tradition: islam
-  ref: Quran 43:33
-  note: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
-    the texts] (The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm
-    ʾerʾeh ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ
-    lə-ʾaḥărîṯām; ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs
-    (suqufan min fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would
-    become one community. Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu
-    dhālika lammā matāʿu l-ḥayāti d-dunyā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَٰنِ لِبُيُوتِهِمْ
-    سُقُفًا مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ
-- tradition: islam
-  ref: Quran 43:34
-  note: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment [divergence between
-    the texts] (The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm
-    ʾerʾeh ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ
-    lə-ʾaḥărîṯām; ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs
-    (suqufan min fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would
-    become one community. Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu
-    dhālika lammā matāʿu l-ḥayāti d-dunyā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm
-    ʾerʾeh ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ
-    lə-ʾaḥărîṯām; ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs
-    (suqufan min fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would
-    become one community. Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu
-    dhālika lammā matāʿu l-ḥayāti d-dunyā.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wealth of the wicked: a scandal to be explained, or worthless
     enjoyment [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -110,6 +54,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment'
+kinds:
+- divergence
+units:
+- id: hb-ps-73-prosperity-of-wicked
+  title: Psalm 73, Asaph on the prosperity of the wicked; afterward you will take me to glory
+  tradition: judaism
+- id: quran-43-zukhruf-abraham-and-silver-roofs
+  title: Abraham disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The wealth of the wicked: a scandal to be explained, or worthless enjoyment'
+  note: 'The wealth of the wicked, with different answers. Ps 73: qinnēʾṯî ba-hôləlîm šəlôm rəšāʿîm ʾerʾeh
+    ... šalwê ʿôlām hiśgû ḥāyil, a scandal resolved in the sanctuary by their sudden end (ʾāḇînâ lə-ʾaḥărîṯām;
+    ʾêḵ hāyû lə-šammâ ḵə-rāḡaʿ). Q 43:33-35: God would give every unbeliever silver roofs (suqufan min
+    fiḍḍatin), stairs, doors, couches and gold (zukhruf), but for fear that all men would become one community.
+    Wealth is not a scandal to be explained but is worthless in itself: wa-in kullu dhālika lammā matāʿu
+    l-ḥayāti d-dunyā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 73:3
+      lang: he
+      text: כִּֽי קִ֭נֵּאתִי בַּֽהוֹלְלִ֑ים שְׁל֖וֹם רְשָׁעִ֣ים אֶרְאֶֽה
+    - ref: Ps 73:12
+      lang: he
+      text: הִנֵּה אֵ֥לֶּה רְשָׁעִ֑ים וְשַׁלְוֵ֥י ע֝וֹלָ֗ם הִשְׂגּוּ חָֽיִל
+    - ref: Ps 73:17
+      lang: he
+      text: עַד אָ֭בוֹא אֶל מִקְדְּשֵׁי אֵ֑ל אָ֝בִ֗ינָה לְאַחֲרִיתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:33
+      lang: ar
+      text: وَلَوْلَآ أَن يَكُونَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَٰنِ
+        لِبُيُوتِهِمْ سُقُفًا مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ
+    - ref: Quran 43:34
+      lang: ar
+      text: وَلِبُيُوتِهِمْ أَبْوَٰبًا وَسُرُرًا عَلَيْهَا يَتَّكِـُٔونَ
+    - ref: Quran 43:35
+      lang: ar
+      text: وَزُخْرُفًا وَإِن كُلُّ ذَٰلِكَ لَمَّا مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱلْءَاخِرَةُ عِندَ
+        رَبِّكَ لِلْمُتَّقِينَ
 ---
 
 ## Questions

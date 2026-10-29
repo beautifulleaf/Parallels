@@ -2,8 +2,7 @@
 id: motif-hb-dan-3-golden-image-furnace-vs-quran-85-constellations
 title: 'The golden image and the fiery furnace ↔ The constellations: the people of the ditch and the preserved
   tablet'
-summary: 'These two units share 2 motifs: hero thrown into a fire or furnace by a king or people [divergence
-  between the texts], hero thrown into a fire or furnace by a king or people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,94 +15,9 @@ layers:
 motifs:
 - thrown-into-fire-as-divergence
 - thrown-into-fire
-passages:
-- tradition: judaism
-  ref: Dan 3:12
-  note: 'Hero thrown into a fire or furnace by a king or people [divergence between the texts] (Believers
-    thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn û-le-ṣelem
-    dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn (the
-    fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā naqamū
-    minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed (qutila)
-    and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִיתַ֞י גֻּבְרִ֣ין יְהוּדָאיִ֗ן דִּֽי מַנִּ֤יתָ יָתְהוֹן֙ עַל עֲבִידַת֙ מְדִינַ֣ת בָּבֶ֔ל שַׁדְרַ֥ךְ
-    מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ גֻּבְרַיָּ֣א אִלֵּ֗ךְ לָא שָׂ֨מֽוּ עליך עֲלָ֤ךְ מַלְכָּא֙ טְעֵ֔ם לאלהיך
-    לֵֽאלָהָךְ֙ לָ֣א פָלְחִ֔ין וּלְצֶ֧לֶם דַּהֲבָ֛א דִּ֥י הֲקֵ֖ימְתָּ לָ֥א סָגְדִֽין
-- tradition: judaism
-  ref: Dan 3:20
-  note: 'Hero thrown into a fire or furnace by a king or people [divergence between the texts] (Believers
-    thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn û-le-ṣelem
-    dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn (the
-    fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā naqamū
-    minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed (qutila)
-    and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד
-    נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא
-- tradition: islam
-  ref: Quran 85:4
-  note: 'Hero thrown into a fire or furnace by a king or people [divergence between the texts] (Believers
-    thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn û-le-ṣelem
-    dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn (the
-    fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā naqamū
-    minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed (qutila)
-    and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ
-- tradition: islam
-  ref: Quran 85:5
-  note: 'Hero thrown into a fire or furnace by a king or people [divergence between the texts] (Believers
-    thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn û-le-ṣelem
-    dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn (the
-    fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā naqamū
-    minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed (qutila)
-    and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلنَّارِ ذَاتِ ٱلْوَقُودِ
-- tradition: judaism
-  ref: Dan 3:20-23
-  note: Hero thrown into a fire or furnace by a king or people (bound in their trousers, tunics and caps)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:20) וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ
-    וַעֲבֵ֣ד נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא (3:21) בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ
-    כְּפִ֨תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פטישיהון פַּטְּשֵׁיה֔וֹן וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו
-    לְגֽוֹא אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא (3:22) כָּל קֳבֵ֣ל דְּנָ֗ה מִן דִּ֞י מִלַּ֤ת מַלְכָּא֙ מַחְצְפָ֔ה
-    וְאַתּוּנָ֖א אֵזֵ֣ה יַתִּ֑ירָא גֻּבְרַיָּ֣א אִלֵּ֗ךְ דִּ֤י הַסִּ֨קוּ֙ לְשַׁדְרַ֤ךְ מֵישַׁךְ֙ וַעֲבֵ֣ד
-    נְג֔וֹ קַטִּ֣ל הִמּ֔וֹן שְׁבִיבָ֖א דִּ֥י נוּרָֽא (3:23) וְגֻבְרַיָּ֤א אִלֵּךְ֙ תְּלָ֣תֵּה֔וֹן שַׁדְרַ֥ךְ
-    מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ נְפַ֛לוּ לְגֽוֹא אַתּוּן נוּרָ֥א יָֽקִדְתָּ֖א מְכַפְּתִֽין
-- tradition: judaism
-  ref: Dan 3:20
-  note: Hero thrown into a fire or furnace by a king or people (bound in their trousers, tunics and caps)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד
-    נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא
-- tradition: islam
-  ref: Quran 85:4
-  note: Hero thrown into a fire or furnace by a king or people (believers burned in a trench of fuel-fed
-    fire while persecutors sit and watch)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ
-- tradition: islam
-  ref: Quran 85:5
-  note: Hero thrown into a fire or furnace by a king or people (believers burned in a trench of fuel-fed
-    fire while persecutors sit and watch)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلنَّارِ ذَاتِ ٱلْوَقُودِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Believers thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk
-    lāʾ fāleḥîn û-le-ṣelem dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ
-    nûrāʾ be-gešmehôn (the fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti
-    l-waqūd ... wa-mā naqamū minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors
-    who are cursed (qutila) and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero thrown into a fire or furnace by a king or people [divergence
     between the texts] (weight 6.7); Hero thrown into a fire or furnace by a king or people (weight 5.3).
@@ -140,6 +54,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero thrown into a fire or furnace by a king or people
+kinds:
+- divergence
+units:
+- id: hb-dan-3-golden-image-furnace
+  title: The golden image and the fiery furnace
+  tradition: judaism
+- id: quran-85-constellations
+  title: 'The constellations: the people of the ditch and the preserved tablet'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero thrown into a fire or furnace by a king or people
+  note: 'Believers thrown in fire for their faith, with the outcome reversed: Dan 3:12 lēʾlāhāk lāʾ fāleḥîn
+    û-le-ṣelem dahăvāʾ ... lāʾ sāgedîn, cast into ʾattûn nûrāʾ yāqidtāʾ, and 3:27 lāʾ šeleṭ nûrāʾ be-gešmehôn
+    (the fire had no power over them). Q 85:4-8 qutila aṣḥābu l-ukhdūdi n-nāri dhāti l-waqūd ... wa-mā
+    naqamū minhum illā an yuʾminū bi-llāh: the believers die, and it is the persecutors who are cursed
+    (qutila) and promised ʿadhābu l-ḥarīq (85:10). No rescue in this world.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 3:12
+      lang: he
+      text: אִיתַ֞י גֻּבְרִ֣ין יְהוּדָאיִ֗ן דִּֽי מַנִּ֤יתָ יָתְהוֹן֙ עַל עֲבִידַת֙ מְדִינַ֣ת בָּבֶ֔ל
+        שַׁדְרַ֥ךְ מֵישַׁ֖ךְ וַעֲבֵ֣ד נְג֑וֹ גֻּבְרַיָּ֣א אִלֵּ֗ךְ לָא שָׂ֨מֽוּ עליך עֲלָ֤ךְ מַלְכָּא֙
+        טְעֵ֔ם לאלהיך לֵֽאלָהָךְ֙ לָ֣א פָלְחִ֔ין וּלְצֶ֧לֶם דַּהֲבָ֛א דִּ֥י הֲקֵ֖ימְתָּ לָ֥א סָגְדִֽין
+    - ref: Dan 3:20
+      lang: he
+      text: וּלְגֻבְרִ֤ין גִּבָּֽרֵי חַ֨יִל֙ דִּ֣י בְחַיְלֵ֔הּ אֲמַר֙ לְכַפָּתָ֔ה לְשַׁדְרַ֥ךְ מֵישַׁ֖ךְ
+        וַעֲבֵ֣ד נְג֑וֹ לְמִרְמֵ֕א לְאַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא
+    - ref: Dan 3:27
+      lang: he
+      text: וּ֠מִֽתְכַּנְּשִׁין אֲחַשְׁדַּרְפְּנַיָּ֞א סִגְנַיָּ֣א וּפַחֲוָתָא֮ וְהַדָּבְרֵ֣י מַלְכָּא֒
+        חָזַ֣יִן לְגֻבְרַיָּ֣א אִלֵּ֡ךְ דִּי֩ לָֽא שְׁלֵ֨ט נוּרָ֜א בְּגֶשְׁמְה֗וֹן וּשְׂעַ֤ר רֵֽאשְׁהוֹן֙
+        לָ֣א הִתְחָרַ֔ךְ וְסָרְבָּלֵיה֖וֹן לָ֣א שְׁנ֑וֹ וְרֵ֣יחַ נ֔וּר לָ֥א עֲדָ֖ת בְּהֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 85:4
+      lang: ar
+      text: قُتِلَ أَصْحَٰبُ ٱلْأُخْدُودِ
+    - ref: Quran 85:5
+      lang: ar
+      text: ٱلنَّارِ ذَاتِ ٱلْوَقُودِ
+    - ref: Quran 85:6
+      lang: ar
+      text: إِذْ هُمْ عَلَيْهَا قُعُودٌ
 ---
 
 ## Questions

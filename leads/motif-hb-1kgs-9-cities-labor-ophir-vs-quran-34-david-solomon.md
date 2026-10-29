@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-9-cities-labor-ophir-vs-quran-34-david-solomon
 title: Cabul, forced labor, building projects and the Ophir fleet ↔ David's mountains and mail; Solomon's
   wind, copper, jinn and staff
-summary: 'These two units share 1 motifs: devils (shayāṭīn) and jinn labor for solomon, diving and building.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - demons-work-for-solomon
-passages:
-- tradition: judaism
-  ref: 1Kgs 9:21
-  note: 'Devils (shayāṭīn) and jinn labor for Solomon, diving and building (wa-yyaʿălēm šəlōmōh lə-mas
-    ʿōḇēḏ ʿaḏ ha-yyôm ha-zzeh (the remnant peoples made a permanent labour force) vs. mā labithū fī l-ʿadhābi
-    l-muhīn: a subject group kept in lasting servile labour for Solomon, Canaanite survivors in Kings
-    and jinn in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּנֵיהֶ֗ם אֲשֶׁ֨ר נֹתְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֧ר לֹֽא יָכְל֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל לְהַֽחֲרִימָ֑ם
-    וַיַּעֲלֵ֤ם שְׁלֹמֹה֙ לְמַס עֹבֵ֔ד עַ֖ד הַיּ֥וֹם הַזֶּֽה
-- tradition: islam
-  ref: Quran 34:12
-  note: Devils (shayāṭīn) and jinn labor for Solomon, diving and building (jinn build sanctuaries (maharib),
-    statues, basins like reservoirs, fixed cauldrons)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِسُلَيْمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُۥ عَيْنَ ٱلْقِطْرِ
-    وَمِنَ ٱلْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِۦ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا
-    نُذِقْهُ مِنْ عَذَابِ ٱلسَّعِيرِ
-- tradition: islam
-  ref: Quran 34:13
-  note: Devils (shayāṭīn) and jinn labor for Solomon, diving and building (jinn build sanctuaries (maharib),
-    statues, basins like reservoirs, fixed cauldrons)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْمَلُونَ لَهُۥ مَا يَشَآءُ مِن مَّحَٰرِيبَ وَتَمَٰثِيلَ وَجِفَانٍ كَٱلْجَوَابِ وَقُدُورٍ رَّاسِيَٰتٍ
-    ٱعْمَلُوٓا۟ ءَالَ دَاوُۥدَ شُكْرًا وَقَلِيلٌ مِّنْ عِبَادِىَ ٱلشَّكُورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyaʿălēm šəlōmōh lə-mas ʿōḇēḏ ʿaḏ ha-yyôm ha-zzeh (the remnant peoples made a permanent labour
-    force) vs. mā labithū fī l-ʿadhābi l-muhīn: a subject group kept in lasting servile labour for Solomon,
-    Canaanite survivors in Kings and jinn in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Devils (shayāṭīn) and jinn labor for Solomon, diving and building
     (weight 5.8). Pair score 5.8.'
@@ -77,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Devils (shayāṭīn) and jinn labor for Solomon, diving and building
+kinds:
+- echo
+units:
+- id: hb-1kgs-9-cities-labor-ophir
+  title: Cabul, forced labor, building projects and the Ophir fleet
+  tradition: judaism
+- id: quran-34-david-solomon
+  title: David's mountains and mail; Solomon's wind, copper, jinn and staff
+  tradition: islam
+matches:
+- kind: echo
+  label: Devils (shayāṭīn) and jinn labor for Solomon, diving and building
+  note: 'wa-yyaʿălēm šəlōmōh lə-mas ʿōḇēḏ ʿaḏ ha-yyôm ha-zzeh (the remnant peoples made a permanent labour
+    force) vs. mā labithū fī l-ʿadhābi l-muhīn: a subject group kept in lasting servile labour for Solomon,
+    Canaanite survivors in Kings and jinn in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 9:21
+      lang: he
+      text: בְּנֵיהֶ֗ם אֲשֶׁ֨ר נֹתְר֤וּ אַחֲרֵיהֶם֙ בָּאָ֔רֶץ אֲשֶׁ֧ר לֹֽא יָכְל֛וּ בְּנֵ֥י יִשְׂרָאֵ֖ל
+        לְהַֽחֲרִימָ֑ם וַיַּעֲלֵ֤ם שְׁלֹמֹה֙ לְמַס עֹבֵ֔ד עַ֖ד הַיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 34:14
+      lang: ar
+      text: فَلَمَّا قَضَيْنَا عَلَيْهِ ٱلْمَوْتَ مَا دَلَّهُمْ عَلَىٰ مَوْتِهِۦٓ إِلَّا دَآبَّةُ ٱلْأَرْضِ
+        تَأْكُلُ مِنسَأَتَهُۥ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلْجِنُّ أَن لَّوْ كَانُوا۟ يَعْلَمُونَ ٱلْغَيْبَ
+        مَا لَبِثُوا۟ فِى ٱلْعَذَابِ ٱلْمُهِينِ
 ---
 
 ## Questions

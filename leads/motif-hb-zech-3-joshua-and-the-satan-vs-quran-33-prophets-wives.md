@@ -2,8 +2,7 @@
 id: motif-hb-zech-3-joshua-and-the-satan-vs-quran-33-prophets-wives
 title: Fourth vision, the high priest, the satan and the Branch ↔ The prophet's wives, the people of the
   House, and the believers men and women
-summary: 'These two units share 1 motifs: god wishes to remove impurity from you, people of the house
-  (ahl al-bayt), and purify you thoroughly.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - people-of-the-house-purified
-passages:
-- tradition: judaism
-  ref: Zech 3:4
-  note: 'God wishes to remove impurity from you, people of the House (ahl al-bayt), and purify you thoroughly
-    (hāsîrû ha-bbəḡāḏîm ha-ṣṣōʾîm mē-ʿālâw ... rəʾēh heʿĕḇartî mē-ʿāleyḵā ʿăwōneḵā vs. innamā yurīdu llāhu
-    li-yudhhiba ʿankumu r-rijsa ahla l-bayti wa-yuṭahhirakum taṭhīrā: God removes defilement from the
-    sacred household (the high priest; the prophet''s house). Lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַן וַיֹּ֗אמֶר אֶל הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו
-    וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֨יךָ֙ עֲוֺנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת
-- tradition: islam
-  ref: Quran 33:33
-  note: God wishes to remove impurity from you, people of the House (ahl al-bayt), and purify you thoroughly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ ٱلصَّلَوٰةَ
-    وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ
-    ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hāsîrû ha-bbəḡāḏîm ha-ṣṣōʾîm mē-ʿālâw ... rəʾēh heʿĕḇartî mē-ʿāleyḵā ʿăwōneḵā vs. innamā yurīdu
-    llāhu li-yudhhiba ʿankumu r-rijsa ahla l-bayti wa-yuṭahhirakum taṭhīrā: God removes defilement from
-    the sacred household (the high priest; the prophet''s house). Lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God wishes to remove impurity from you, people of the House (ahl
     al-bayt), and purify you thoroughly (weight 6.7). Pair score 6.7.'
@@ -69,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God wishes to remove impurity from you, people of the House (ahl al-bayt), and purify you thoroughly
+kinds:
+- echo
+units:
+- id: hb-zech-3-joshua-and-the-satan
+  title: Fourth vision, the high priest, the satan and the Branch
+  tradition: judaism
+- id: quran-33-prophets-wives
+  title: The prophet's wives, the people of the House, and the believers men and women
+  tradition: islam
+matches:
+- kind: echo
+  label: God wishes to remove impurity from you, people of the House (ahl al-bayt), and purify you thoroughly
+  note: 'hāsîrû ha-bbəḡāḏîm ha-ṣṣōʾîm mē-ʿālâw ... rəʾēh heʿĕḇartî mē-ʿāleyḵā ʿăwōneḵā vs. innamā yurīdu
+    llāhu li-yudhhiba ʿankumu r-rijsa ahla l-bayti wa-yuṭahhirakum taṭhīrā: God removes defilement from
+    the sacred household (the high priest; the prophet''s house). Lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 3:4
+      lang: he
+      text: וַיַּ֣עַן וַיֹּ֗אמֶר אֶל הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו
+        וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֨יךָ֙ עֲוֺנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 33:33
+      lang: ar
+      text: وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ وَأَقِمْنَ
+        ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ
+        عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا
 ---
 
 ## Questions

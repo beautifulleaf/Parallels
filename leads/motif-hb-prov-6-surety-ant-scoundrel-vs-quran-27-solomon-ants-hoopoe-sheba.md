@@ -2,8 +2,7 @@
 id: motif-hb-prov-6-surety-ant-scoundrel-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates ↔ Solomon, the speech of
   birds, the ants, the hoopoe and the Queen of Sheba
-summary: 'These two units share 1 motifs: ''go to the ant, sluggard'': without chief or ruler she stores
-  food in summer and harvest.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - go-to-the-ant-sluggard
-passages:
-- tradition: judaism
-  ref: Prov 6:6-8
-  note: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:6) לֵֽךְ אֶל נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם (6:7) אֲשֶׁ֖ר אֵֽין לָ֥הּ קָצִ֗ין שֹׁטֵ֥ר
-    וּמֹשֵֽׁל (6:8) תָּכִ֣ין בַּקַּ֣יִץ לַחְמָ֑הּ אָגְרָ֥ה בַ֝קָּצִ֗יר מַאֲכָלָֽהּ
-- tradition: judaism
-  ref: Prov 6:6
-  note: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵֽךְ אֶל נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם
-- tradition: islam
-  ref: Quran 27:18
-  note: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest (lēkh
-    ʾel nəmālâ ʿāṣēl rəʾēh dərākhêhā wa-ḥăkhām ~ fa-tabassama ḍāḥikan min qawlihā: the wise ant, a model
-    to learn from; in Proverbs the attributed author is Solomon, in the Quran it is Solomon who listens
-    to an ant.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟
-    مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
-- tradition: islam
-  ref: Quran 27:19
-  note: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest (lēkh
-    ʾel nəmālâ ʿāṣēl rəʾēh dərākhêhā wa-ḥăkhām ~ fa-tabassama ḍāḥikan min qawlihā: the wise ant, a model
-    to learn from; in Proverbs the attributed author is Solomon, in the Quran it is Solomon who listens
-    to an ant.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ
-    أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ
-    فِى عِبَادِكَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. lēkh ʾel nəmālâ ʿāṣēl rəʾēh dərākhêhā wa-ḥăkhām ~ fa-tabassama ḍāḥikan min qawlihā: the wise
-    ant, a model to learn from; in Proverbs the attributed author is Solomon, in the Quran it is Solomon
-    who listens to an ant.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Go to the ant, sluggard'': without chief or ruler she stores food
     in summer and harvest (weight 6.7). Pair score 6.7.'
@@ -91,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest'
+kinds:
+- echo
+units:
+- id: hb-prov-6-surety-ant-scoundrel
+  title: Proverbs 6:1-19, surety, the ant, the scoundrel, six things God hates
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Go to the ant, sluggard'': without chief or ruler she stores food in summer and harvest'
+  note: 'lēkh ʾel nəmālâ ʿāṣēl rəʾēh dərākhêhā wa-ḥăkhām ~ fa-tabassama ḍāḥikan min qawlihā: the wise
+    ant, a model to learn from; in Proverbs the attributed author is Solomon, in the Quran it is Solomon
+    who listens to an ant.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 6:6
+      lang: he
+      text: לֵֽךְ אֶל נְמָלָ֥ה עָצֵ֑ל רְאֵ֖ה דְרָכֶ֣יהָ וַחֲכָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 27:18
+      lang: ar
+      text: حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟
+        مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ
+    - ref: Quran 27:19
+      lang: ar
+      text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ
+        أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ
+        فِى عِبَادِكَ ٱلصَّٰلِحِينَ
 ---
 
 ## Questions

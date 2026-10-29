@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-12-call-of-abram-vs-quran-19-abraham-and-his-father
 title: The call of Abram and his journey through Canaan ↔ Abraham pleads with his father (Surah 19:41-50)
-summary: 'These two units share 1 motifs: abraham withdraws from his people and their gods and is given
-  descendants [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - abraham-separates-from-his-people-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 12:1
-  note: 'Abraham withdraws from his people and their gods and is given descendants [divergence between
-    the texts] (Gen: God commands the departure, lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā, with
-    no reason given. Q: Abraham withdraws after his father rejects him and threatens to stone him (la-arjumannaka
-    wa-hjurnī maliyyā): wa-aʿtazilukum wa-mā tadʿūna min dūni llāh. A divine call becomes a break over
-    idolatry.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
-    אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
-- tradition: islam
-  ref: Quran 19:48
-  note: 'Abraham withdraws from his people and their gods and is given descendants [divergence between
-    the texts] (Gen: God commands the departure, lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā, with
-    no reason given. Q: Abraham withdraws after his father rejects him and threatens to stone him (la-arjumannaka
-    wa-hjurnī maliyyā): wa-aʿtazilukum wa-mā tadʿūna min dūni llāh. A divine call becomes a break over
-    idolatry.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ
-    بِدُعَآءِ رَبِّى شَقِيًّا
-- tradition: islam
-  ref: Quran 19:49
-  note: 'Abraham withdraws from his people and their gods and is given descendants [divergence between
-    the texts] (Gen: God commands the departure, lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā, with
-    no reason given. Q: Abraham withdraws after his father rejects him and threatens to stone him (la-arjumannaka
-    wa-hjurnī maliyyā): wa-aʿtazilukum wa-mā tadʿūna min dūni llāh. A divine call becomes a break over
-    idolatry.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ
-    وَكُلًّا جَعَلْنَا نَبِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: God commands the departure, lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā, with
-    no reason given. Q: Abraham withdraws after his father rejects him and threatens to stone him (la-arjumannaka
-    wa-hjurnī maliyyā): wa-aʿtazilukum wa-mā tadʿūna min dūni llāh. A divine call becomes a break over
-    idolatry.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham withdraws from his people and their gods and is given descendants
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -86,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham withdraws from his people and their gods and is given descendants
+kinds:
+- divergence
+units:
+- id: hb-gen-12-call-of-abram
+  title: The call of Abram and his journey through Canaan
+  tradition: judaism
+- id: quran-19-abraham-and-his-father
+  title: Abraham pleads with his father (Surah 19:41-50)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Abraham withdraws from his people and their gods and is given descendants
+  note: 'Gen: God commands the departure, lek-ləkā mēʾarṣəkā ûmimmôladtəkā ûmibbêt ʾābîkā, with no reason
+    given. Q: Abraham withdraws after his father rejects him and threatens to stone him (la-arjumannaka
+    wa-hjurnī maliyyā): wa-aʿtazilukum wa-mā tadʿūna min dūni llāh. A divine call becomes a break over
+    idolatry.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
+        אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 19:48
+      lang: ar
+      text: وَأَعْتَزِلُكُمْ وَمَا تَدْعُونَ مِن دُونِ ٱللَّهِ وَأَدْعُوا۟ رَبِّى عَسَىٰٓ أَلَّآ أَكُونَ
+        بِدُعَآءِ رَبِّى شَقِيًّا
+    - ref: Quran 19:49
+      lang: ar
+      text: فَلَمَّا ٱعْتَزَلَهُمْ وَمَا يَعْبُدُونَ مِن دُونِ ٱللَّهِ وَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ
+        وَكُلًّا جَعَلْنَا نَبِيًّا
 ---
 
 ## Questions

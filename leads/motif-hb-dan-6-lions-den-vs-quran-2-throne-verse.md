@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-2-throne-verse
 title: Daniel in the lions' den ↔ Ranks of the messengers and the Throne Verse
-summary: 'These two units share 1 motifs: israel''s god is called ''the living god, enduring forever,
-  whose kingdom shall never be destroyed''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - living-god-enduring-forever
-passages:
-- tradition: judaism
-  ref: Dan 6:21
-  note: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּכְמִקְרְבֵ֣הּ לְגֻבָּ֔א לְדָ֣נִיֵּ֔אל בְּקָ֥ל עֲצִ֖יב זְעִ֑ק עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר לְדָנִיֵּ֗אל
-    דָּֽנִיֵּאל֙ עֲבֵד֙ אֱלָהָ֣א חַיָּ֔א אֱלָהָ֗ךְ דִּ֣י אנתה אַ֤נְתְּ פָּֽלַֽח לֵהּ֙ בִּתְדִירָ֔א הַיְכִ֥ל
-    לְשֵׁיזָבוּתָ֖ךְ מִן אַרְיָוָתָֽא
-- tradition: judaism
-  ref: Dan 6:27
-  note: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִן קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י בְּכָל שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֺ֤ן זאעין זָיְעִין֙ וְדָ֣חֲלִ֔ין
-    מִן קֳדָ֖ם אֱלָהֵ֣הּ דִּי דָֽנִיֵּ֑אל דִּי ה֣וּא אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙
-    דִּֽי לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד סוֹפָֽא
-- tradition: islam
-  ref: Quran 2:255
-  note: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Cognate pair of titles: Dan 6:27 dî hûʾ ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn ''the living
-    God, enduring forever''; Q 2:255 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm. Aramaic ḥayyāʾ wĕ-qayyām
-    = Arabic al-ḥayy al-qayyūm. In Daniel the title is spoken by a pagan king''s decree; in the Quran
-    it opens the Throne Verse.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel''s God is called ''the living God, enduring forever, whose
     kingdom shall never be destroyed'' (weight 6.3). Pair score 6.3.'
@@ -78,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
+kinds:
+- parallel
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: parallel
+  label: Israel's God is called 'the living God, enduring forever, whose kingdom shall never be destroyed'
+  note: 'Cognate pair of titles: Dan 6:27 dî hûʾ ʾĕlāhāʾ ḥayyāʾ wĕ-qayyām lĕ-ʿālmîn ''the living God,
+    enduring forever''; Q 2:255 allāhu lā ilāha illā huwa l-ḥayyu l-qayyūm. Aramaic ḥayyāʾ wĕ-qayyām =
+    Arabic al-ḥayy al-qayyūm. In Daniel the title is spoken by a pagan king''s decree; in the Quran it
+    opens the Throne Verse.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:27
+      lang: he
+      text: מִן קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י בְּכָל שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֺ֤ן זאעין זָיְעִין֙ וְדָ֣חֲלִ֔ין
+        מִן קֳדָ֖ם אֱלָהֵ֣הּ דִּי דָֽנִיֵּ֑אל דִּי ה֣וּא אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙
+        דִּֽי לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד סוֹפָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
 ---
 
 ## Questions

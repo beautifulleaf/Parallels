@@ -2,10 +2,7 @@
 id: motif-hb-exod-7-plagues-blood-frogs-lice-vs-quran-26-moses-and-pharaoh
 title: 'Plagues 1-3: blood, frogs, lice ↔ Moses and Pharaoh disputing; the magicians; the sea split like
   mountains'
-summary: 'These two units share 4 motifs: how the defeated court magicians respond [divergence between
-  the texts], why pharaoh and egypt refuse despite the signs [divergence between the texts], prophet delivers
-  god''s demand ''let my people go that they may serve me'', prophet''s wonders are imitated by the king''s
-  magicians in a contest.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,114 +17,9 @@ motifs:
 - cause-of-pharaohs-refusal-as-divergence
 - let-my-people-go-demand
 - contest-with-court-magicians
-passages:
-- tradition: judaism
-  ref: Exod 8:15
-  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
-    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
-    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
-    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
-    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 26:46
-  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
-    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
-    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
-    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 26:47
-  note: 'How the defeated court magicians respond [divergence between the texts] (What the defeated magicians
-    do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing more; Pharaoh''s heart is hardened
-    (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and convert: fa-ulqiya s-saḥaratu sājidīna
-    qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 8:15
-  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Why Egypt refuses:
-    Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh ... ka-ʾăšer dibber YHWH,
-    the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā anfusuhum ẓulman wa-ʿuluwwan,
-    they rejected the signs though inwardly convinced, out of wrongdoing and arrogance. Refusal by God''s
-    design becomes knowing, self-chosen denial.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
-    וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 26:49
-  note: 'Why Pharaoh and Egypt refuse despite the signs [divergence between the texts] (Pharaoh''s response
-    to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer dibber YHWH, the heart
-    hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49 has no hardening and no divine
-    agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum innahu la-kabīrukumu lladhī ʿallamakumu
-    s-siḥra, with a threat of amputation and crucifixion.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
-    أَجْمَعِينَ
-- tradition: judaism
-  ref: Exod 7:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֣ אֵלָ֗יו יְהוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֨יךָ֙ לֵאמֹ֔ר שַׁלַּח֙ אֶת עַמִּ֔י
-    וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר וְהִנֵּ֥ה לֹא שָׁמַ֖עְתָּ עַד כֹּֽה
-- tradition: judaism
-  ref: Exod 7:26
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה שַׁלַּ֥ח
-    אֶת עַמִּ֖י וְיַֽעַבְדֻֽנִי
-- tradition: islam
-  ref: Quran 26:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:17
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: judaism
-  ref: Exod 7:22
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
-    אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: judaism
-  ref: Exod 8:3
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 26:34
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 26:35
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. What the defeated magicians do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then
-    nothing more; Pharaoh''s heart is hardened (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate
-    and convert: fa-ulqiya s-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How the defeated court magicians respond [divergence between the
     texts] (weight 6.7); Why Pharaoh and Egypt refuse despite the signs [divergence between the texts]
@@ -164,6 +56,114 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How the defeated court magicians respond
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-7-plagues-blood-frogs-lice
+  title: 'Plagues 1-3: blood, frogs, lice'
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: divergence
+  label: How the defeated court magicians respond
+  note: 'What the defeated magicians do: Exodus has them concede, ʾeṣbaʿ ʾĕlōhîm hîʾ, and then nothing
+    more; Pharaoh''s heart is hardened (wa-yyeḥĕzaq lēv Parʿōh). In the Quran they fall prostrate and
+    convert: fa-ulqiya s-saḥaratu sājidīna qālū āmannā bi-rabbi l-ʿālamīna rabbi Mūsā wa-Hārūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:46
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+    - ref: Quran 26:47
+      lang: ar
+      text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:48
+      lang: ar
+      text: رَبِّ مُوسَىٰ وَهَٰرُونَ
+- kind: shared
+  label: Why Pharaoh and Egypt refuse despite the signs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:15
+      lang: he
+      text: וַיֹּאמְר֤וּ הַֽחַרְטֻמִּים֙ אֶל פַּרְעֹ֔ה אֶצְבַּ֥ע אֱלֹהִ֖ים הִ֑וא וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙
+        וְלֹֽא שָׁמַ֣ע אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    note: 'Why Egypt refuses: Exod 8:15 the magicians admit ʾeṣbaʿ ʾĕlōhîm hîʾ, yet wa-yyeḥĕzaq lēv Parʿōh
+      ... ka-ʾăšer dibber YHWH, the heart is hardened as God foretold; Q 27:14 wa-jaḥadū bihā wa-staiqanathā
+      anfusuhum ẓulman wa-ʿuluwwan, they rejected the signs though inwardly convinced, out of wrongdoing
+      and arrogance. Refusal by God''s design becomes knowing, self-chosen denial.'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:49
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
+        أَجْمَعِينَ
+    note: 'Pharaoh''s response to the sign: Exod 7:13 wa-yyeḥĕzaq lēv Parʿōh wə-lōʾ šāmaʿ ʾălēhem ka-ʾăšer
+      dibber YHWH, the heart hardened as God foretold (God hardens it himself at 14:4, 14:8); Q 26:49
+      has no hardening and no divine agency, only Pharaoh''s rage: āmantum lahu qabla an ādhana lakum
+      innahu la-kabīrukumu lladhī ʿallamakumu s-siḥra, with a threat of amputation and crucifixion.'
+- kind: shared
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:16
+      lang: he
+      text: וְאָמַרְתָּ֣ אֵלָ֗יו יְהוָ֞ה אֱלֹהֵ֤י הָעִבְרִים֙ שְׁלָחַ֤נִי אֵלֶ֨יךָ֙ לֵאמֹ֔ר שַׁלַּח֙ אֶת
+        עַמִּ֔י וְיַֽעַבְדֻ֖נִי בַּמִּדְבָּ֑ר וְהִנֵּ֥ה לֹא שָׁמַ֖עְתָּ עַד כֹּֽה
+    - ref: Exod 7:26
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה בֹּ֖א אֶל פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה
+        שַׁלַּ֥ח אֶת עַמִּ֖י וְיַֽעַבְדֻֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 26:16
+      lang: ar
+      text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:17
+      lang: ar
+      text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:22
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֛ן חַרְטֻמֵּ֥י מִצְרַ֖יִם בְּלָטֵיהֶ֑ם וַיֶּחֱזַ֤ק לֵב פַּרְעֹה֙ וְלֹא שָׁמַ֣ע
+        אֲלֵהֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+    - ref: Exod 8:3
+      lang: he
+      text: וַיַּֽעֲשׂוּ כֵ֥ן הַֽחֲרְטֻמִּ֖ים בְּלָטֵיהֶ֑ם וַיַּעֲל֥וּ אֶת הַֽצְפַרְדְּעִ֖ים עַל אֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 8:14
+      lang: he
+      text: וַיַּעֲשׂוּ כֵ֨ן הַחַרְטֻמִּ֧ים בְּלָטֵיהֶ֛ם לְהוֹצִ֥יא אֶת הַכִּנִּ֖ים וְלֹ֣א יָכֹ֑לוּ וַתְּהִי֙
+        הַכִּנָּ֔ם בָּאָדָ֖ם וּבַבְּהֵמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:34
+      lang: ar
+      text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
+    - ref: Quran 26:35
+      lang: ar
+      text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+    - ref: Quran 26:36
+      lang: ar
+      text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-obad-1-edom-brought-down-vs-quran-89-dawn
 title: 'Obadiah''s vision against Edom''s pride ↔ The dawn: Iram of the pillars and the soul at peace'
-summary: 'These two units share 1 motifs: edom dwells in the clefts of the rock (sela) and thinks no one
-  can bring it down.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - edom-dwells-in-clefts-of-rock
-passages:
-- tradition: judaism
-  ref: Obad 1:3
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (hagwei sela,
-    punning on Sela/Petra)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
-    מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
-- tradition: judaism
-  ref: Obad 1:4
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (hagwei sela,
-    punning on Sela/Petra)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
-    נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 89:9
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (rock-hewn dwellers
-    destroyed despite their security)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-thamūda lladhīna jābū ṣ-ṣakhra bi-l-wād ~ šōkenî ve-ḥagwê selaʿ merôm šivtô ʾōmēr be-libbô
-    mî yôridēnî ʾāreṣ: a rock-dwelling people brought down despite its security; Thamud in the Quran,
-    Edom in Obadiah (both peoples of the Hejaz-Transjordan rock country).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Edom dwells in the clefts of the rock (sela) and thinks no one can
     bring it down (weight 6.3). Pair score 6.3.'
@@ -74,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down
+kinds:
+- echo
+units:
+- id: hb-obad-1-edom-brought-down
+  title: Obadiah's vision against Edom's pride
+  tradition: judaism
+- id: quran-89-dawn
+  title: 'The dawn: Iram of the pillars and the soul at peace'
+  tradition: islam
+matches:
+- kind: echo
+  label: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down
+  note: 'wa-thamūda lladhīna jābū ṣ-ṣakhra bi-l-wād ~ šōkenî ve-ḥagwê selaʿ merôm šivtô ʾōmēr be-libbô
+    mî yôridēnî ʾāreṣ: a rock-dwelling people brought down despite its security; Thamud in the Quran,
+    Edom in Obadiah (both peoples of the Hejaz-Transjordan rock country).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:3
+      lang: he
+      text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
+        מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 89:9
+      lang: ar
+      text: وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ
 ---
 
 ## Questions

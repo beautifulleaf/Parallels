@@ -2,7 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-4-israel-indictment-crucifixion
 title: Psalm 106, national confession of sins from Egypt to exile ↔ The indictment of Israel; the Messiah
   not crucified but raised
-summary: 'These two units share 1 motifs: people make a molten calf while the leader is on the mountain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Ps 106:19-20
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:19) יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה (106:20) וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם
-    בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
-- tradition: judaism
-  ref: Ps 106:19
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
-- tradition: islam
-  ref: Quran 4:153
-  note: People make a molten calf while the leader is on the mountain
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟
-    مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ بِظُلْمِهِمْ
-    ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا عَن ذَٰلِكَ وَءَاتَيْنَا
-    مُوسَىٰ سُلْطَٰنًا مُّبِينًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Ps: yaʿăśû-ʿēgel bə-Ḥōrēv ... wa-yyāmîrû ʾet-kəvôdām bə-tavnît šôr. Q: ittakhadhū l-ʿijla after
-    the clear signs. Both recite the calf in a list of Israel''s sins.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain (weight
     4.7). Pair score 4.7.'
@@ -75,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People make a molten calf while the leader is on the mountain
+kinds:
+- echo
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: echo
+  label: People make a molten calf while the leader is on the mountain
+  note: 'Ps: yaʿăśû-ʿēgel bə-Ḥōrēv ... wa-yyāmîrû ʾet-kəvôdām bə-tavnît šôr. Q: ittakhadhū l-ʿijla after
+    the clear signs. Both recite the calf in a list of Israel''s sins.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:19
+      lang: he
+      text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
+    - ref: Ps 106:20
+      lang: he
+      text: וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
+  - tradition: islam
+    passages:
+    - ref: Quran 4:153
+      lang: ar
+      text: يَسْـَٔلُكَ أَهْلُ ٱلْكِتَٰبِ أَن تُنَزِّلَ عَلَيْهِمْ كِتَٰبًا مِّنَ ٱلسَّمَآءِ فَقَدْ سَأَلُوا۟
+        مُوسَىٰٓ أَكْبَرَ مِن ذَٰلِكَ فَقَالُوٓا۟ أَرِنَا ٱللَّهَ جَهْرَةً فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ
+        بِظُلْمِهِمْ ثُمَّ ٱتَّخَذُوا۟ ٱلْعِجْلَ مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَٰتُ فَعَفَوْنَا
+        عَن ذَٰلِكَ وَءَاتَيْنَا مُوسَىٰ سُلْطَٰنًا مُّبِينًا
 ---
 
 ## Questions

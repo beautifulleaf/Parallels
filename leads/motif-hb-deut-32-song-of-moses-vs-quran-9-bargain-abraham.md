@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-9-bargain-abraham
 title: The Song of Moses (Ha'azinu) ↔ The bargain of lives for paradise; Abraham's prayer for his father
-summary: 'These two units share 2 motifs: god as purchaser of his people [divergence between the texts],
-  i kill and i make alive, i wound and i heal; there is no god beside me.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,53 +16,9 @@ layers:
 motifs:
 - god-as-purchaser-of-his-people-as-divergence
 - i-kill-and-make-alive
-passages:
-- tradition: judaism
-  ref: Deut 32:6
-  note: 'God as purchaser of his people [divergence between the texts] (God as purchaser of his people:
-    inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā
-    qānekā (qnh, ''acquired''). In Deut the purchase is of Israel at its creation; in Q it is a trade
-    of lives and wealth for paradise, which Q says is promised also in the Torah (waʿdan ʿalayhi ḥaqqan
-    fī t-tawrāti). No Torah verse promises paradise for fighting; check that claim.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲ לַיְהוָה֙ תִּגְמְלוּ זֹ֔את עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם הֲלוֹא הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ ה֥וּא עָֽשְׂךָ֖
-    וַֽיְכֹנְנֶֽךָ
-- tradition: islam
-  ref: Quran 9:111
-  note: 'God as purchaser of his people [divergence between the texts] (God as purchaser of his people:
-    inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā
-    qānekā (qnh, ''acquired''). In Deut the purchase is of Israel at its creation; in Q it is a trade
-    of lives and wealth for paradise, which Q says is promised also in the Torah (waʿdan ʿalayhi ḥaqqan
-    fī t-tawrāti). No Torah verse promises paradise for fighting; check that claim.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ
-    يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ
-    وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ
-    ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
-- tradition: judaism
-  ref: Deut 32:39
-  note: I kill and I make alive, I wound and I heal; there is no god beside me (אני אני הוא)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 9:116
-  note: I kill and I make alive, I wound and I heal; there is no god beside me
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَمَا لَكُم مِّن دُونِ
-    ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, parallel. God as purchaser of his people: inna llāha shtarā mina l-muʾminīna anfusahum
-    wa-amwālahum bi-anna lahumu l-janna vs hălôʾ-hûʾ ʾābîkā qānekā (qnh, ''acquired''). In Deut the purchase
-    is of Israel at its creation; in Q it is a trade of lives and wealth for paradise, which Q says is
-    promised also in the Torah (waʿdan ʿalayhi ḥaqqan fī t-tawrāti). No Torah verse promises paradise
-    for fighting; check that claim. yuḥyī wa-yumītu wa-mā lakum min dūni llāhi min waliyyin wa-lā naṣīr
-    vs ʾănî ʾāmît waʾăḥayyeh ... wᵉʾên miyyādî maṣṣîl.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God as purchaser of his people [divergence between the texts] (weight
     6.7); I kill and I make alive, I wound and I heal; there is no god beside me (weight 5.1). Pair score
@@ -95,6 +50,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God as purchaser of his people
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-9-bargain-abraham
+  title: The bargain of lives for paradise; Abraham's prayer for his father
+  tradition: islam
+matches:
+- kind: divergence
+  label: God as purchaser of his people
+  note: 'God as purchaser of his people: inna llāha shtarā mina l-muʾminīna anfusahum wa-amwālahum bi-anna
+    lahumu l-janna vs hălôʾ-hûʾ ʾābîkā qānekā (qnh, ''acquired''). In Deut the purchase is of Israel at
+    its creation; in Q it is a trade of lives and wealth for paradise, which Q says is promised also in
+    the Torah (waʿdan ʿalayhi ḥaqqan fī t-tawrāti). No Torah verse promises paradise for fighting; check
+    that claim.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:6
+      lang: he
+      text: הֲ לַיְהוָה֙ תִּגְמְלוּ זֹ֔את עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם הֲלוֹא הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ ה֥וּא
+        עָֽשְׂךָ֖ וַֽיְכֹנְנֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:111
+      lang: ar
+      text: إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ
+        يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ
+        وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ
+        ٱلَّذِى بَايَعْتُم بِهِۦ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ
+- kind: parallel
+  label: I kill and I make alive, I wound and I heal; there is no god beside me
+  note: yuḥyī wa-yumītu wa-mā lakum min dūni llāhi min waliyyin wa-lā naṣīr vs ʾănî ʾāmît waʾăḥayyeh ...
+    wᵉʾên miyyādî maṣṣîl.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 9:116
+      lang: ar
+      text: إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يُحْىِۦ وَيُمِيتُ وَمَا لَكُم مِّن دُونِ
+        ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ
 ---
 
 ## Questions

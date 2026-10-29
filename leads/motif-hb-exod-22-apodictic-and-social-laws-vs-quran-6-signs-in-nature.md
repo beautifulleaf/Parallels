@@ -2,7 +2,7 @@
 id: motif-hb-exod-22-apodictic-and-social-laws-vs-quran-6-signs-in-nature
 title: Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ Splitter of seed and dawn; stars
   for navigation; do not revile their gods
-summary: 'These two units share 1 motifs: do not revile god or curse a ruler of your people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - do-not-curse-god-or-ruler
-passages:
-- tradition: judaism
-  ref: Exod 22:27
-  note: Do not revile God or curse a ruler of your people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר
-- tradition: islam
-  ref: Quran 6:108
-  note: Do not revile God or curse a ruler of your people (Exod 22:27 elohim lo tekallel, read in the
-    LXX, Philo and Josephus as 'do not revile the gods of others')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ
-    عِلْمٍ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم
-    بِمَا كَانُوا۟ يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. A ban on reviling. Exod: ʾĕlōhîm lōʾ təqallēl wə-nāśîʾ bə-ʿamməkhā lōʾ tāʾōr, ambiguous between
-    ''God'', ''gods'' and ''judges''. Q: wa-lā tasubbū lladhīna yadʿūna min dūni llāhi fa-yasubbū llāha
-    ʿadwan bi-ghayri ʿilmin. Do not revile others'' gods, lest they revile God. cf. (not a match) LXX
-    Exod 22:27 ''you shall not revile gods'', Philo Spec. Leg. 1.53 and Josephus Ant. 4.207, who read
-    the verse the same way.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not revile God or curse a ruler of your people (weight 6.7).
     Pair score 6.7.'
@@ -69,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not revile God or curse a ruler of your people
+kinds:
+- echo
+units:
+- id: hb-exod-22-apodictic-and-social-laws
+  title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+  tradition: judaism
+- id: quran-6-signs-in-nature
+  title: Splitter of seed and dawn; stars for navigation; do not revile their gods
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not revile God or curse a ruler of your people
+  note: 'A ban on reviling. Exod: ʾĕlōhîm lōʾ təqallēl wə-nāśîʾ bə-ʿamməkhā lōʾ tāʾōr, ambiguous between
+    ''God'', ''gods'' and ''judges''. Q: wa-lā tasubbū lladhīna yadʿūna min dūni llāhi fa-yasubbū llāha
+    ʿadwan bi-ghayri ʿilmin. Do not revile others'' gods, lest they revile God. cf. (not a match) LXX
+    Exod 22:27 ''you shall not revile gods'', Philo Spec. Leg. 1.53 and Josephus Ant. 4.207, who read
+    the verse the same way.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:27
+      lang: he
+      text: אֱלֹהִ֖ים לֹ֣א תְקַלֵּ֑ל וְנָשִׂ֥יא בְעַמְּךָ֖ לֹ֥א תָאֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 6:108
+      lang: ar
+      text: وَلَا تَسُبُّوا۟ ٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ فَيَسُبُّوا۟ ٱللَّهَ عَدْوًۢا بِغَيْرِ
+        عِلْمٍ كَذَٰلِكَ زَيَّنَّا لِكُلِّ أُمَّةٍ عَمَلَهُمْ ثُمَّ إِلَىٰ رَبِّهِم مَّرْجِعُهُمْ فَيُنَبِّئُهُم
+        بِمَا كَانُوا۟ يَعْمَلُونَ
 ---
 
 ## Questions

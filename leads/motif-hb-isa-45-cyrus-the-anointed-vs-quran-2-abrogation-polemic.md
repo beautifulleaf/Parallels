@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-2-abrogation-polemic
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Ra'ina,
   abrogation, rival claims and the face of God
-summary: 'These two units share 1 motifs: god swears by himself: to me every knee shall bow and every
-  tongue swear.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - every-knee-shall-bow
-passages:
-- tradition: judaism
-  ref: Isa 45:23
-  note: 'God swears by himself: to me every knee shall bow and every tongue swear'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּ֣י נִשְׁבַּ֔עְתִּי יָצָ֨א מִפִּ֧י צְדָקָ֛ה דָּבָ֖ר וְלֹ֣א יָשׁ֑וּב כִּי לִי֙ תִּכְרַ֣ע כָּל
-    בֶּ֔רֶךְ תִּשָּׁבַ֖ע כָּל לָשֽׁוֹן
-- tradition: islam
-  ref: Quran 2:116
-  note: 'God swears by himself: to me every knee shall bow and every tongue swear (Isa 45:23 kî lî tikraʿ
-    kol berek tiššābaʿ kol lāšôn: to me every knee shall bow; Q 2:116 kullun lahu qānitūn: all are obedient
-    to him. Universal submission set against rival claims (idols in Isaiah, a son in the Quran).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    كُلٌّ لَّهُۥ قَٰنِتُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 45:23 kî lî tikraʿ kol berek tiššābaʿ kol lāšôn: to me every knee shall bow; Q 2:116 kullun
-    lahu qānitūn: all are obedient to him. Universal submission set against rival claims (idols in Isaiah,
-    a son in the Quran).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God swears by himself: to me every knee shall bow and every tongue
     swear (weight 6.7). Pair score 6.7.'
@@ -76,6 +56,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God swears by himself: to me every knee shall bow and every tongue swear'
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God swears by himself: to me every knee shall bow and every tongue swear'
+  note: 'Isa 45:23 kî lî tikraʿ kol berek tiššābaʿ kol lāšôn: to me every knee shall bow; Q 2:116 kullun
+    lahu qānitūn: all are obedient to him. Universal submission set against rival claims (idols in Isaiah,
+    a son in the Quran).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:23
+      lang: he
+      text: בִּ֣י נִשְׁבַּ֔עְתִּי יָצָ֨א מִפִּ֧י צְדָקָ֛ה דָּבָ֖ר וְלֹ֣א יָשׁ֑וּב כִּי לִי֙ תִּכְרַ֣ע
+        כָּל בֶּ֔רֶךְ תִּשָּׁבַ֖ע כָּל לָשֽׁוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 2:116
+      lang: ar
+      text: وَقَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ بَل لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        كُلٌّ لَّهُۥ قَٰنِتُونَ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-eccl-3-humans-and-beasts-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Injustice, divine judgment, and humans no better than beasts ↔ Desire as god, 'only Time destroys
   us', and every nation kneeling before its book
-summary: 'These two units share 2 motifs: whether death is the end: asked, held by sceptics, or answered
-  by resurrection [response between the texts], do evildoers think god will make them equal to the righteous
-  in life and in death?.'
+summary: '2 correspondences read side by side: 1 answers the other, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,96 +16,9 @@ layers:
 motifs:
 - whether-death-is-the-end-as-response
 - wicked-not-equal-to-righteous-in-life-and-death
-passages:
-- tradition: judaism
-  ref: Eccl 3:19
-  note: 'Whether death is the end: asked, held by sceptics, or answered by resurrection [response between
-    the texts] (The sceptic''s view of death, voiced in the HB and refuted in the Quran. Qohelet: miqreh
-    ʾeḥāḏ lāhem kə-môṯ zeh kēn môṯ zeh ... hak-kōl šāḇ ʾel he-ʿāp̄ār; mî yôḏēaʿ rûaḥ bənê hā-ʾāḏām hā-ʿōlâ
-    hîʾ lə-māʿlâ. Deniers in Q 45:24: mā hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā yuhlikunā illā
-    d-dahr, answered with wa-mā lahum bi-dhālika min ʿilmin in hum illā yaẓunnūn. To Qohelet''s ''who
-    knows?'' (mî yôḏēaʿ) the Quran replies that they have no knowledge (ʿilm), only conjecture, and 45:26
-    affirms the gathering to the Day of Resurrection. Lead: the Quran addresses Arabian dahr-fatalism,
-    not Qohelet directly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ מִקְרֶ֨ה בְֽנֵי הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה וּמִקְרֶ֤ה אֶחָד֙ לָהֶ֔ם כְּמ֥וֹת זֶה֙ כֵּ֣ן
-    מ֣וֹת זֶ֔ה וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל וּמוֹתַ֨ר הָאָדָ֤ם מִן הַבְּהֵמָה֙ אָ֔יִן כִּ֥י הַכֹּ֖ל הָֽבֶל
-- tradition: judaism
-  ref: Eccl 3:20
-  note: 'Whether death is the end: asked, held by sceptics, or answered by resurrection [response between
-    the texts] (The sceptic''s view of death, voiced in the HB and refuted in the Quran. Qohelet: miqreh
-    ʾeḥāḏ lāhem kə-môṯ zeh kēn môṯ zeh ... hak-kōl šāḇ ʾel he-ʿāp̄ār; mî yôḏēaʿ rûaḥ bənê hā-ʾāḏām hā-ʿōlâ
-    hîʾ lə-māʿlâ. Deniers in Q 45:24: mā hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā yuhlikunā illā
-    d-dahr, answered with wa-mā lahum bi-dhālika min ʿilmin in hum illā yaẓunnūn. To Qohelet''s ''who
-    knows?'' (mî yôḏēaʿ) the Quran replies that they have no knowledge (ʿilm), only conjecture, and 45:26
-    affirms the gathering to the Day of Resurrection. Lead: the Quran addresses Arabian dahr-fatalism,
-    not Qohelet directly.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
-- tradition: islam
-  ref: Quran 45:24
-  note: 'Whether death is the end: asked, held by sceptics, or answered by resurrection [response between
-    the texts] (The sceptic''s view of death, voiced in the HB and refuted in the Quran. Qohelet: miqreh
-    ʾeḥāḏ lāhem kə-môṯ zeh kēn môṯ zeh ... hak-kōl šāḇ ʾel he-ʿāp̄ār; mî yôḏēaʿ rûaḥ bənê hā-ʾāḏām hā-ʿōlâ
-    hîʾ lə-māʿlâ. Deniers in Q 45:24: mā hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā yuhlikunā illā
-    d-dahr, answered with wa-mā lahum bi-dhālika min ʿilmin in hum illā yaẓunnūn. To Qohelet''s ''who
-    knows?'' (mî yôḏēaʿ) the Quran replies that they have no knowledge (ʿilm), only conjecture, and 45:26
-    affirms the gathering to the Day of Resurrection. Lead: the Quran addresses Arabian dahr-fatalism,
-    not Qohelet directly.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ
-    وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ
-- tradition: judaism
-  ref: Eccl 3:16
-  note: Do evildoers think God will make them equal to the righteous in life and in death? (ʾeṯ haṣ-ṣaddîq
-    wə-ʾeṯ hā-rāšāʿ yišpōṭ hā-ʾĕlōhîm kî ʿēṯ lə-ḵol ḥēp̄eṣ vs. am ḥasiba lladhīna jtaraḥū s-sayyiʾāti
-    an najʿalahum ka-lladhīna āmanū ... sawāʾan maḥyāhum wa-mamātuhum; wa-li-tujzā kullu nafsin bi-mā
-    kasabat. Qohelet hopes for a judgment then doubts any difference at death (3:19); the Quran denies
-    that their death is the same.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְע֥וֹד רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ מְק֤וֹם הַמִּשְׁפָּט֙ שָׁ֣מָּה הָרֶ֔שַׁע וּמְק֥וֹם הַצֶּ֖דֶק
-    שָׁ֥מָּה הָרָֽשַׁע
-- tradition: judaism
-  ref: Eccl 3:17
-  note: Do evildoers think God will make them equal to the righteous in life and in death? (ʾeṯ haṣ-ṣaddîq
-    wə-ʾeṯ hā-rāšāʿ yišpōṭ hā-ʾĕlōhîm kî ʿēṯ lə-ḵol ḥēp̄eṣ vs. am ḥasiba lladhīna jtaraḥū s-sayyiʾāti
-    an najʿalahum ka-lladhīna āmanū ... sawāʾan maḥyāhum wa-mamātuhum; wa-li-tujzā kullu nafsin bi-mā
-    kasabat. Qohelet hopes for a judgment then doubts any difference at death (3:19); the Quran denies
-    that their death is the same.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָמַ֤רְתִּֽי אֲנִי֙ בְּלִבִּ֔י אֶת הַצַּדִּיק֙ וְאֶת הָ֣רָשָׁ֔ע יִשְׁפֹּ֖ט הָאֱלֹהִ֑ים כִּי עֵ֣ת
-    לְכָל חֵ֔פֶץ וְעַ֥ל כָּל הַֽמַּעֲשֶׂ֖ה שָֽׁם
-- tradition: islam
-  ref: Quran 45:21
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟
-    ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ
-- tradition: islam
-  ref: Quran 45:22
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ
-    وَهُمْ لَا يُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo, response. The sceptic''s view of death, voiced in the HB and refuted in the Quran. Qohelet:
-    miqreh ʾeḥāḏ lāhem kə-môṯ zeh kēn môṯ zeh ... hak-kōl šāḇ ʾel he-ʿāp̄ār; mî yôḏēaʿ rûaḥ bənê hā-ʾāḏām
-    hā-ʿōlâ hîʾ lə-māʿlâ. Deniers in Q 45:24: mā hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā yuhlikunā
-    illā d-dahr, answered with wa-mā lahum bi-dhālika min ʿilmin in hum illā yaẓunnūn. To Qohelet''s ''who
-    knows?'' (mî yôḏēaʿ) the Quran replies that they have no knowledge (ʿilm), only conjecture, and 45:26
-    affirms the gathering to the Day of Resurrection. Lead: the Quran addresses Arabian dahr-fatalism,
-    not Qohelet directly. ʾeṯ haṣ-ṣaddîq wə-ʾeṯ hā-rāšāʿ yišpōṭ hā-ʾĕlōhîm kî ʿēṯ lə-ḵol ḥēp̄eṣ vs. am
-    ḥasiba lladhīna jtaraḥū s-sayyiʾāti an najʿalahum ka-lladhīna āmanū ... sawāʾan maḥyāhum wa-mamātuhum;
-    wa-li-tujzā kullu nafsin bi-mā kasabat. Qohelet hopes for a judgment then doubts any difference at
-    death (3:19); the Quran denies that their death is the same.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether death is the end: asked, held by sceptics, or answered by
     resurrection [response between the texts] (weight 6.7); Do evildoers think God will make them equal
@@ -144,6 +55,75 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Whether death is the end: asked, held by sceptics, or answered by resurrection'
+kinds:
+- response
+- echo
+units:
+- id: hb-eccl-3-humans-and-beasts
+  title: Injustice, divine judgment, and humans no better than beasts
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: response
+  label: 'Whether death is the end: asked, held by sceptics, or answered by resurrection'
+  note: 'The sceptic''s view of death, voiced in the HB and refuted in the Quran. Qohelet: miqreh ʾeḥāḏ
+    lāhem kə-môṯ zeh kēn môṯ zeh ... hak-kōl šāḇ ʾel he-ʿāp̄ār; mî yôḏēaʿ rûaḥ bənê hā-ʾāḏām hā-ʿōlâ hîʾ
+    lə-māʿlâ. Deniers in Q 45:24: mā hiya illā ḥayātunā d-dunyā namūtu wa-naḥyā wa-mā yuhlikunā illā d-dahr,
+    answered with wa-mā lahum bi-dhālika min ʿilmin in hum illā yaẓunnūn. To Qohelet''s ''who knows?''
+    (mî yôḏēaʿ) the Quran replies that they have no knowledge (ʿilm), only conjecture, and 45:26 affirms
+    the gathering to the Day of Resurrection. Lead: the Quran addresses Arabian dahr-fatalism, not Qohelet
+    directly.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 3:19
+      lang: he
+      text: כִּי֩ מִקְרֶ֨ה בְֽנֵי הָאָדָ֜ם וּמִקְרֶ֣ה הַבְּהֵמָ֗ה וּמִקְרֶ֤ה אֶחָד֙ לָהֶ֔ם כְּמ֥וֹת זֶה֙
+        כֵּ֣ן מ֣וֹת זֶ֔ה וְר֥וּחַ אֶחָ֖ד לַכֹּ֑ל וּמוֹתַ֨ר הָאָדָ֤ם מִן הַבְּהֵמָה֙ אָ֔יִן כִּ֥י הַכֹּ֖ל
+        הָֽבֶל
+    - ref: Eccl 3:20
+      lang: he
+      text: הַכֹּ֥ל הוֹלֵ֖ךְ אֶל מָק֣וֹם אֶחָ֑ד הַכֹּל֙ הָיָ֣ה מִן הֶֽעָפָ֔ר וְהַכֹּ֖ל שָׁ֥ב אֶל הֶעָפָֽר
+    - ref: Eccl 3:21
+      lang: he
+      text: מִ֣י יוֹדֵ֗עַ ר֚וּחַ בְּנֵ֣י הָאָדָ֔ם הָעֹלָ֥ה הִ֖יא לְמָ֑עְלָה וְר֨וּחַ֙ הַבְּהֵמָ֔ה הַיֹּרֶ֥דֶת
+        הִ֖יא לְמַ֥טָּה לָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:24
+      lang: ar
+      text: وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا
+        ٱلدَّهْرُ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ
+- kind: echo
+  label: Do evildoers think God will make them equal to the righteous in life and in death?
+  note: ʾeṯ haṣ-ṣaddîq wə-ʾeṯ hā-rāšāʿ yišpōṭ hā-ʾĕlōhîm kî ʿēṯ lə-ḵol ḥēp̄eṣ vs. am ḥasiba lladhīna jtaraḥū
+    s-sayyiʾāti an najʿalahum ka-lladhīna āmanū ... sawāʾan maḥyāhum wa-mamātuhum; wa-li-tujzā kullu nafsin
+    bi-mā kasabat. Qohelet hopes for a judgment then doubts any difference at death (3:19); the Quran
+    denies that their death is the same.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 3:16
+      lang: he
+      text: וְע֥וֹד רָאִ֖יתִי תַּ֣חַת הַשָּׁ֑מֶשׁ מְק֤וֹם הַמִּשְׁפָּט֙ שָׁ֣מָּה הָרֶ֔שַׁע וּמְק֥וֹם הַצֶּ֖דֶק
+        שָׁ֥מָּה הָרָֽשַׁע
+    - ref: Eccl 3:17
+      lang: he
+      text: אָמַ֤רְתִּֽי אֲנִי֙ בְּלִבִּ֔י אֶת הַצַּדִּיק֙ וְאֶת הָ֣רָשָׁ֔ע יִשְׁפֹּ֖ט הָאֱלֹהִ֑ים כִּי
+        עֵ֣ת לְכָל חֵ֔פֶץ וְעַ֥ל כָּל הַֽמַּעֲשֶׂ֖ה שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 45:21
+      lang: ar
+      text: أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟
+        وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ
+    - ref: Quran 45:22
+      lang: ar
+      text: وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ
+        وَهُمْ لَا يُظْلَمُونَ
 ---
 
 ## Questions

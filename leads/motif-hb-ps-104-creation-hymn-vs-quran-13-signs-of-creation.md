@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-13-signs-of-creation
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The signs of creation, thunder
   and the parable of the foam (Surah 13:1-17)
-summary: 'These two units share 3 motifs: thunder is the roaring voice of god [divergence between the
-  texts], god makes the night cover the day, sun and moon are subjected, each running to an appointed
-  term.'
+summary: '3 correspondences read side by side: 1 deliberately changed, 2 same element.'
 status: new
 relations:
 - convergence
@@ -20,74 +18,9 @@ motifs:
 - thunder-as-voice-of-god-as-divergence
 - night-covers-day
 - sun-and-moon-run-to-appointed-term
-passages:
-- tradition: judaism
-  ref: Ps 104:7
-  note: 'Thunder is the roaring voice of God [divergence between the texts] (min-gaʿărātəkā yənûsûn min-qôl
-    raʿamkā yēḥāpēzûn: God''s thunder is his rebuke that drives back the waters; Q: lightning khawfan
-    wa-ṭamaʿan, and thunder that glorifies him (yusabbiḥu r-raʿdu bi-ḥamdih). The same raʿam/raʿd is God''s
-    voice in Ps and a worshipper in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִן גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן מִן ק֥וֹל רַֽ֝עַמְךָ֗ יֵחָפֵזֽוּן
-- tradition: islam
-  ref: Quran 13:12
-  note: 'Thunder is the roaring voice of God [divergence between the texts] (min-gaʿărātəkā yənûsûn min-qôl
-    raʿamkā yēḥāpēzûn: God''s thunder is his rebuke that drives back the waters; Q: lightning khawfan
-    wa-ṭamaʿan, and thunder that glorifies him (yusabbiḥu r-raʿdu bi-ḥamdih). The same raʿam/raʿd is God''s
-    voice in Ps and a worshipper in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
-- tradition: islam
-  ref: Quran 13:13
-  note: 'Thunder is the roaring voice of God [divergence between the texts] (min-gaʿărātəkā yənûsûn min-qôl
-    raʿamkā yēḥāpēzûn: God''s thunder is his rebuke that drives back the waters; Q: lightning khawfan
-    wa-ṭamaʿan, and thunder that glorifies him (yusabbiḥu r-raʿdu bi-ḥamdih). The same raʿam/raʿd is God''s
-    voice in Ps and a worshipper in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ
-    بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ
-- tradition: judaism
-  ref: Ps 104:20
-  note: 'God makes the night cover the day (yughshī l-layla n-nahār; tāšet-ḥōšek wîhî lāylâ: God brings
-    the night down over the day.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 13:3
-  note: God makes the night cover the day
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
-    جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
-    يَتَفَكَّرُونَ
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'Sun and moon are subjected, each running to an appointed term (wa-sakhkhara sh-shamsa wa-l-qamara
-    kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš yādaʿ məbôʾô: sun and moon made subject
-    to fixed times.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: islam
-  ref: Quran 13:2
-  note: Sun and moon are subjected, each running to an appointed term
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
-    وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ ٱلْءَايَٰتِ
-    لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence, parallel. min-gaʿărātəkā yənûsûn min-qôl raʿamkā yēḥāpēzûn: God''s thunder is his rebuke
-    that drives back the waters; Q: lightning khawfan wa-ṭamaʿan, and thunder that glorifies him (yusabbiḥu
-    r-raʿdu bi-ḥamdih). The same raʿam/raʿd is God''s voice in Ps and a worshipper in Q. wa-sakhkhara
-    sh-shamsa wa-l-qamara kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš yādaʿ məbôʾô: sun
-    and moon made subject to fixed times. yughshī l-layla n-nahār; tāšet-ḥōšek wîhî lāylâ: God brings
-    the night down over the day.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Thunder is the roaring voice of God [divergence between the texts]
     (weight 6.7); God makes the night cover the day (weight 6.3); Sun and moon are subjected, each running
@@ -125,6 +58,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Thunder is the roaring voice of God
+kinds:
+- divergence
+- parallel
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-13-signs-of-creation
+  title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Thunder is the roaring voice of God
+  note: 'min-gaʿărātəkā yənûsûn min-qôl raʿamkā yēḥāpēzûn: God''s thunder is his rebuke that drives back
+    the waters; Q: lightning khawfan wa-ṭamaʿan, and thunder that glorifies him (yusabbiḥu r-raʿdu bi-ḥamdih).
+    The same raʿam/raʿd is God''s voice in Ps and a worshipper in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:7
+      lang: he
+      text: מִן גַּעֲרָ֣תְךָ֣ יְנוּס֑וּן מִן ק֥וֹל רַֽ֝עַמְךָ֗ יֵחָפֵזֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 13:12
+      lang: ar
+      text: هُوَ ٱلَّذِى يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ
+    - ref: Quran 13:13
+      lang: ar
+      text: وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِۦ وَٱلْمَلَٰٓئِكَةُ مِنْ خِيفَتِهِۦ وَيُرْسِلُ ٱلصَّوَٰعِقَ
+        فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمْ يُجَٰدِلُونَ فِى ٱللَّهِ وَهُوَ شَدِيدُ ٱلْمِحَالِ
+- kind: parallel
+  label: Sun and moon are subjected, each running to an appointed term
+  note: 'wa-sakhkhara sh-shamsa wa-l-qamara kullun yajrī li-ajalin musammā; ʿāśâ yārēaḥ ləmôʿădîm šemeš
+    yādaʿ məbôʾô: sun and moon made subject to fixed times.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 13:2
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى رَفَعَ ٱلسَّمَٰوَٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ
+        وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى يُدَبِّرُ ٱلْأَمْرَ يُفَصِّلُ
+        ٱلْءَايَٰتِ لَعَلَّكُم بِلِقَآءِ رَبِّكُمْ تُوقِنُونَ
+- kind: parallel
+  label: God makes the night cover the day
+  note: 'yughshī l-layla n-nahār; tāšet-ḥōšek wîhî lāylâ: God brings the night down over the day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+  - tradition: islam
+    passages:
+    - ref: Quran 13:3
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا وَمِن كُلِّ ٱلثَّمَرَٰتِ
+        جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ
+        يَتَفَكَّرُونَ
 ---
 
 ## Questions

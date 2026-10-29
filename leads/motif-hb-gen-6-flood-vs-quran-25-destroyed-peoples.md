@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-flood-vs-quran-25-destroyed-peoples
 title: The Flood (full read) ↔ Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon
   town
-summary: 'These two units share 2 motifs: why god destroyed a generation or a people [divergence between
-  the texts], all others perish.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,62 +15,9 @@ layers:
 motifs:
 - cause-of-the-destruction-as-divergence
 - universal-destruction
-passages:
-- tradition: judaism
-  ref: Gen 6:13
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (Cause of the flood:
-    Gen 6:13 kî mālʾâ hā-ʾāreṣ ḥāmās, the earth filled with violence, and God''s own decision (hinnî mašḥîtām);
-    Q 23:26-27: they are drowned for rejecting the messenger (bimā kadhdhabūni ... alladhīna ẓalamū innahum
-    mughraqūn), and Noah asks for it (rabbi nṣurnī).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס
-    מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 7:21
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (Cause of the flood:
-    Gen 6:13 kî mālʾâ hā-ʾāreṣ ḥāmās, the earth filled with violence, and God''s own decision (hinnî mašḥîtām);
-    Q 23:26-27: they are drowned for rejecting the messenger (bimā kadhdhabūni ... alladhīna ẓalamū innahum
-    mughraqūn), and Noah asks for it (rabbi nṣurnī).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: islam
-  ref: Quran 25:37
-  note: 'Why God destroyed a generation or a people [divergence between the texts] (wa-qawma Nūḥin lammā
-    kadhdhabū r-rusula aghraqnāhum ~ wa-yyimmaḥ ʾet kol hay-yəqûm ... wa-yyiššāʾer ʾak Nōaḥ: Genesis wipes
-    out ''all flesh'' for corruption; the Quran drowns ''the people of Noah'' because they denied the
-    messengers (in the plural, rusul).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَٰهُمْ وَجَعَلْنَٰهُمْ لِلنَّاسِ ءَايَةً
-    وَأَعْتَدْنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمًا
-- tradition: judaism
-  ref: Gen 7:21
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל הַשֶּׁ֖רֶץ
-    הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
-- tradition: judaism
-  ref: Gen 7:22
-  note: All others perish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
-- tradition: islam
-  ref: Quran 25:37
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَٰهُمْ وَجَعَلْنَٰهُمْ لِلنَّاسِ ءَايَةً
-    وَأَعْتَدْنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. wa-qawma Nūḥin lammā kadhdhabū r-rusula aghraqnāhum ~ wa-yyimmaḥ ʾet kol hay-yəqûm ...
-    wa-yyiššāʾer ʾak Nōaḥ: Genesis wipes out ''all flesh'' for corruption; the Quran drowns ''the people
-    of Noah'' because they denied the messengers (in the plural, rusul).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Why God destroyed a generation or a people [divergence between the
     texts] (weight 6.0); All others perish (weight 5.0). Pair score 11.0.'
@@ -104,6 +50,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Why God destroyed a generation or a people
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-6-flood
+  title: The Flood (full read)
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: divergence
+  label: Why God destroyed a generation or a people
+  note: 'wa-qawma Nūḥin lammā kadhdhabū r-rusula aghraqnāhum ~ wa-yyimmaḥ ʾet kol hay-yəqûm ... wa-yyiššāʾer
+    ʾak Nōaḥ: Genesis wipes out ''all flesh'' for corruption; the Quran drowns ''the people of Noah''
+    because they denied the messengers (in the plural, rusul).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 25:37
+      lang: ar
+      text: وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَٰهُمْ وَجَعَلْنَٰهُمْ لِلنَّاسِ ءَايَةً
+        وَأَعْتَدْنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمًا
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 7:21
+      lang: he
+      text: וַיִּגְוַ֞ע כָּל בָּשָׂ֣ר הָרֹמֵ֣שׂ עַל הָאָ֗רֶץ בָּע֤וֹף וּבַבְּהֵמָה֙ וּבַ֣חַיָּ֔ה וּבְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ וְכֹ֖ל הָאָדָֽם
+    - ref: Gen 7:22
+      lang: he
+      text: כֹּ֡ל אֲשֶׁר֩ נִשְׁמַת ר֨וּחַ חַיִּ֜ים בְּאַפָּ֗יו מִכֹּ֛ל אֲשֶׁ֥ר בֶּחָֽרָבָ֖ה מֵֽתוּ
+    - ref: Gen 7:23
+      lang: he
+      text: וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙
+        וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ
+        בַּתֵּבָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 25:37
+      lang: ar
+      text: وَقَوْمَ نُوحٍ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغْرَقْنَٰهُمْ وَجَعَلْنَٰهُمْ لِلنَّاسِ ءَايَةً
+        وَأَعْتَدْنَا لِلظَّٰلِمِينَ عَذَابًا أَلِيمًا
 ---
 
 ## Questions

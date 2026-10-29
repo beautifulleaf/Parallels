@@ -2,8 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-10-friends-of-god
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Healing for hearts,
   the atom's weight, God has no son
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 4:22
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Divine sonship: Exod has God say kōh ʾāmar YHWH bᵉnî bᵉkōrî yiśrāʾēl (Israel as a people, figuratively);
-    Q denies outright that God has a son, qālū ttakhadha llāhu waladan subḥānahu huwa l-ghaniyy. Q''s
-    target is probably not Exod. A lead on the word ''son'' only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֖ אֶל פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 10:68
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Divine sonship: Exod has God say kōh ʾāmar YHWH bᵉnî bᵉkōrî yiśrāʾēl (Israel as a people, figuratively);
-    Q denies outright that God has a son, qālū ttakhadha llāhu waladan subḥānahu huwa l-ghaniyy. Q''s
-    target is probably not Exod. A lead on the word ''son'' only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ هُوَ ٱلْغَنِىُّ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا
-    فِى ٱلْأَرْضِ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Divine sonship: Exod has God say kōh ʾāmar YHWH bᵉnî bᵉkōrî yiśrāʾēl (Israel as a people,
-    figuratively); Q denies outright that God has a son, qālū ttakhadha llāhu waladan subḥānahu huwa l-ghaniyy.
-    Q''s target is probably not Exod. A lead on the word ''son'' only.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [contrast between the texts] (weight 5.4). Pair score 5.4.'
@@ -71,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- contrast
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: 'Divine sonship: Exod has God say kōh ʾāmar YHWH bᵉnî bᵉkōrî yiśrāʾēl (Israel as a people, figuratively);
+    Q denies outright that God has a son, qālū ttakhadha llāhu waladan subḥānahu huwa l-ghaniyy. Q''s
+    target is probably not Exod. A lead on the word ''son'' only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:22
+      lang: he
+      text: וְאָמַרְתָּ֖ אֶל פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 10:68
+      lang: ar
+      text: قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدًا سُبْحَٰنَهُۥ هُوَ ٱلْغَنِىُّ لَهُۥ مَا فِى ٱلسَّمَٰوَٰتِ
+        وَمَا فِى ٱلْأَرْضِ إِنْ عِندَكُم مِّن سُلْطَٰنٍۭ بِهَٰذَآ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا
+        تَعْلَمُونَ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-47-muhammad-hypocrites
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ The sick-hearted faint at the call to fight;
   locks on hearts; the twist of speech; God rich, you poor'
-summary: 'These two units share 3 motifs: whether and when to call the enemy to peace [contrast between
-  the texts], who is exempted from going out to war [contrast between the texts], exemptions from war
-  for a new house, unharvested vineyard, betrothed bride, or faintheartedness.'
+summary: '2 correspondences read side by side: 2 opposite ruling.'
 status: new
 relations:
 - response
@@ -18,125 +16,9 @@ motifs:
 - calling-for-peace-in-war-as-contrast
 - exemption-from-going-to-war-as-contrast
 - military-exemptions-house-vineyard-bride
-passages:
-- tradition: judaism
-  ref: Deut 20:10
-  note: 'Whether and when to call the enemy to peace [contrast between the texts] (Calling for peace in
-    war. Deuteronomy: kî ṯiqraḇ ʾel ʿîr lə-hillāḥēm ʿālêhā wə-qārāʾṯā ʾēlêhā lə-šālôm (offer peace first;
-    if accepted, forced labor). Quran: fa-lā tahinū wa-tadʿū ilā s-salmi wa-antumu l-aʿlawna wa-llāhu
-    maʿakum (do not weaken and call for peace while you have the upper hand). Same expression, qārāʾṯā
-    ... lə-šālôm / tadʿū ilā s-salm, with opposite advice; the settings differ (before a siege; in a war
-    already being won).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:11
-  note: 'Whether and when to call the enemy to peace [contrast between the texts] (Calling for peace in
-    war. Deuteronomy: kî ṯiqraḇ ʾel ʿîr lə-hillāḥēm ʿālêhā wə-qārāʾṯā ʾēlêhā lə-šālôm (offer peace first;
-    if accepted, forced labor). Quran: fa-lā tahinū wa-tadʿū ilā s-salmi wa-antumu l-aʿlawna wa-llāhu
-    maʿakum (do not weaken and call for peace while you have the upper hand). Same expression, qārāʾṯā
-    ... lə-šālôm / tadʿū ilā s-salm, with opposite advice; the settings differ (before a siege; in a war
-    already being won).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: islam
-  ref: Quran 47:35
-  note: 'Whether and when to call the enemy to peace [contrast between the texts] (Calling for peace in
-    war. Deuteronomy: kî ṯiqraḇ ʾel ʿîr lə-hillāḥēm ʿālêhā wə-qārāʾṯā ʾēlêhā lə-šālôm (offer peace first;
-    if accepted, forced labor). Quran: fa-lā tahinū wa-tadʿū ilā s-salmi wa-antumu l-aʿlawna wa-llāhu
-    maʿakum (do not weaken and call for peace while you have the upper hand). Same expression, qārāʾṯā
-    ... lə-šālôm / tadʿū ilā s-salm, with opposite advice; the settings differ (before a siege; in a war
-    already being won).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن
-    يَتِرَكُمْ أَعْمَٰلَكُمْ
-- tradition: judaism
-  ref: Deut 20:8
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
-    יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
-- tradition: judaism
-  ref: Deut 20:5
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: islam
-  ref: Quran 47:20
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ
-    وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ
-    عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ
-- tradition: islam
-  ref: Quran 47:21
-  note: 'Who is exempted from going out to war [contrast between the texts] (The fainthearted man at the
-    call to war, with opposite rulings. Deuteronomy sends him home: mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ
-    yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran rebukes him: raʾayta lladhīna fī qulūbihim
-    maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun
-    maʿrūf. The concern in both is the man''s fear (yārēʾ / maraḍ), but Deuteronomy exempts him and the
-    Quran condemns him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا
-    لَّهُمْ
-- tradition: judaism
-  ref: Deut 20:5
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙ וְלֹ֣א
-    חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
-- tradition: judaism
-  ref: Deut 20:6
-  note: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
-    בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
-- tradition: islam
-  ref: Quran 47:20
-  note: 'Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
-    (contrast: no exemption for the fainthearted here; they are rebuked)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ
-    وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ ٱلْمَغْشِىِّ
-    عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. The fainthearted man at the call to war, with opposite rulings. Deuteronomy sends him home:
-    mî hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran
-    rebukes him: raʾayta lladhīna fī qulūbihim maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina
-    l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun maʿrūf. The concern in both is the man''s fear (yārēʾ
-    / maraḍ), but Deuteronomy exempts him and the Quran condemns him. Calling for peace in war. Deuteronomy:
-    kî ṯiqraḇ ʾel ʿîr lə-hillāḥēm ʿālêhā wə-qārāʾṯā ʾēlêhā lə-šālôm (offer peace first; if accepted, forced
-    labor). Quran: fa-lā tahinū wa-tadʿū ilā s-salmi wa-antumu l-aʿlawna wa-llāhu maʿakum (do not weaken
-    and call for peace while you have the upper hand). Same expression, qārāʾṯā ... lə-šālôm / tadʿū ilā
-    s-salm, with opposite advice; the settings differ (before a siege; in a war already being won).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether and when to call the enemy to peace [contrast between the
     texts] (weight 6.7); Who is exempted from going out to war [contrast between the texts] (weight 6.3);
@@ -176,6 +58,92 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is exempted from going out to war
+kinds:
+- contrast
+- shared
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who is exempted from going out to war
+  note: 'The fainthearted man at the call to war, with opposite rulings. Deuteronomy sends him home: mî
+    hā-ʾîš hay-yārēʾ wə-raḵ hal-lēḇāḇ yēlēḵ wə-yāšōḇ lə-ḇêṯô wə-lōʾ yimmas ʾeṯ ləḇaḇ ʾeḥâw. The Quran
+    rebukes him: raʾayta lladhīna fī qulūbihim maraḍun yanẓurūna ilayka naẓara l-maghshiyyi ʿalayhi mina
+    l-mawt ... fa-awlā lahum; ṭāʿatun wa-qawlun maʿrūf. The concern in both is the man''s fear (yārēʾ
+    / maraḍ), but Deuteronomy exempts him and the Quran condemns him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:8
+      lang: he
+      text: וְיָסְפ֣וּ הַשֹּׁטְרִים֮ לְדַבֵּ֣ר אֶל הָעָם֒ וְאָמְר֗וּ מִי הָאִ֤ישׁ הַיָּרֵא֙ וְרַ֣ךְ הַלֵּבָ֔ב
+        יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ וְלֹ֥א יִמַּ֛ס אֶת לְבַ֥ב אֶחָ֖יו כִּלְבָבֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:20
+      lang: ar
+      text: وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ
+        وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ
+        ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ
+    - ref: Quran 47:21
+      lang: ar
+      text: طَاعَةٌ وَقَوْلٌ مَّعْرُوفٌ فَإِذَا عَزَمَ ٱلْأَمْرُ فَلَوْ صَدَقُوا۟ ٱللَّهَ لَكَانَ خَيْرًا
+        لَّهُمْ
+- kind: contrast
+  label: Whether and when to call the enemy to peace
+  note: 'Calling for peace in war. Deuteronomy: kî ṯiqraḇ ʾel ʿîr lə-hillāḥēm ʿālêhā wə-qārāʾṯā ʾēlêhā
+    lə-šālôm (offer peace first; if accepted, forced labor). Quran: fa-lā tahinū wa-tadʿū ilā s-salmi
+    wa-antumu l-aʿlawna wa-llāhu maʿakum (do not weaken and call for peace while you have the upper hand).
+    Same expression, qārāʾṯā ... lə-šālôm / tadʿū ilā s-salm, with opposite advice; the settings differ
+    (before a siege; in a war already being won).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:35
+      lang: ar
+      text: فَلَا تَهِنُوا۟ وَتَدْعُوٓا۟ إِلَى ٱلسَّلْمِ وَأَنتُمُ ٱلْأَعْلَوْنَ وَٱللَّهُ مَعَكُمْ وَلَن
+        يَتِرَكُمْ أَعْمَٰلَكُمْ
+- kind: shared
+  label: Exemptions from war for a new house, unharvested vineyard, betrothed bride, or faintheartedness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:5
+      lang: he
+      text: וְדִבְּר֣וּ הַשֹּֽׁטְרִים֮ אֶל הָעָ֣ם לֵאמֹר֒ מִֽי הָאִ֞ישׁ אֲשֶׁ֨ר בָּנָ֤ה בַֽיִת חָדָשׁ֙
+        וְלֹ֣א חֲנָכ֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יַחְנְכֶֽנּוּ
+    - ref: Deut 20:6
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר נָטַ֥ע כֶּ֨רֶם֙ וְלֹ֣א חִלְּל֔וֹ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן יָמוּת֙
+        בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יְחַלְּלֶֽנּוּ
+    - ref: Deut 20:7
+      lang: he
+      text: וּמִֽי הָאִ֞ישׁ אֲשֶׁר אֵרַ֤שׂ אִשָּׁה֙ וְלֹ֣א לְקָחָ֔הּ יֵלֵ֖ךְ וְיָשֹׁ֣ב לְבֵית֑וֹ פֶּן
+        יָמוּת֙ בַּמִּלְחָמָ֔ה וְאִ֥ישׁ אַחֵ֖ר יִקָּחֶֽנָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 47:20
+      lang: ar
+      text: وَيَقُولُ ٱلَّذِينَ ءَامَنُوا۟ لَوْلَا نُزِّلَتْ سُورَةٌ فَإِذَآ أُنزِلَتْ سُورَةٌ مُّحْكَمَةٌ
+        وَذُكِرَ فِيهَا ٱلْقِتَالُ رَأَيْتَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ يَنظُرُونَ إِلَيْكَ نَظَرَ
+        ٱلْمَغْشِىِّ عَلَيْهِ مِنَ ٱلْمَوْتِ فَأَوْلَىٰ لَهُمْ
+    note: 'contrast: no exemption for the fainthearted here; they are rebuked'
 ---
 
 ## Questions

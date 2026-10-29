@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-21-isaac-born-hagar-expelled-vs-quran-2-abraham-kaaba
 title: Birth of Isaac and expulsion of Hagar and Ishmael ↔ Abraham, Ishmael and the House
-summary: 'These two units share 2 motifs: whether ishmael is with abraham or sent away [contrast between
-  the texts], abraham prays that the town be made secure and its people provided with fruits.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,89 +14,9 @@ layers:
 motifs:
 - ishmaels-place-with-abraham-as-contrast
 - abraham-prays-for-secure-city
-passages:
-- tradition: judaism
-  ref: Gen 21:13
-  note: 'Whether Ishmael is with Abraham or sent away [contrast between the texts] (Gen 21:14 wa-yyiqqaḥ
-    leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends Ishmael away with his mother,
-    and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy ʾăśîmennû); Q 2:125-128 ʿahidnā
-    ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā muslimayni laka: Ishmael is with
-    Abraham as co-builder and co-petitioner, under the same covenant charge (ʿahidnā). The son sent away
-    becomes the son at his side.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַ֥ם אֶת בֶּן הָאָמָ֖ה לְג֣וֹי אֲשִׂימֶ֑נּוּ כִּ֥י זַרְעֲךָ֖ הֽוּא
-- tradition: judaism
-  ref: Gen 21:14
-  note: 'Whether Ishmael is with Abraham or sent away [contrast between the texts] (Gen 21:14 wa-yyiqqaḥ
-    leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends Ishmael away with his mother,
-    and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy ʾăśîmennû); Q 2:125-128 ʿahidnā
-    ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā muslimayni laka: Ishmael is with
-    Abraham as co-builder and co-petitioner, under the same covenant charge (ʿahidnā). The son sent away
-    becomes the son at his side.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם בַּבֹּ֡קֶר וַיִּֽקַּֽח לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל הָ֠גָר שָׂ֧ם
-    עַל שִׁכְמָ֛הּ וְאֶת הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר שָֽׁבַע
-- tradition: islam
-  ref: Quran 2:125
-  note: 'Whether Ishmael is with Abraham or sent away [contrast between the texts] (Gen 21:14 wa-yyiqqaḥ
-    leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends Ishmael away with his mother,
-    and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy ʾăśîmennû); Q 2:125-128 ʿahidnā
-    ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā muslimayni laka: Ishmael is with
-    Abraham as co-builder and co-petitioner, under the same covenant charge (ʿahidnā). The son sent away
-    becomes the son at his side.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
-    مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ وَٱلْعَٰكِفِينَ
-    وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: islam
-  ref: Quran 2:127
-  note: 'Whether Ishmael is with Abraham or sent away [contrast between the texts] (Gen 21:14 wa-yyiqqaḥ
-    leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends Ishmael away with his mother,
-    and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy ʾăśîmennû); Q 2:125-128 ʿahidnā
-    ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā muslimayni laka: Ishmael is with
-    Abraham as co-builder and co-petitioner, under the same covenant charge (ʿahidnā). The son sent away
-    becomes the son at his side.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ مِنَّآ
-    إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
-- tradition: judaism
-  ref: Gen 21:15
-  note: 'Abraham prays that the town be made secure and its people provided with fruits (Provision in
-    the barren place: wayyipqaḥ ʾĕlōhîm ʾet-ʿênêhā wattēreʾ bəʾēr māyim (God answers Hagar''s weeping);
-    wa-rzuqhum mina th-thamarāt (Abraham asks for it in advance). Cf. the later Zamzam tradition, which
-    links the two; it is not in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְל֥וּ הַמַּ֖יִם מִן הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם
-- tradition: judaism
-  ref: Gen 21:19
-  note: 'Abraham prays that the town be made secure and its people provided with fruits (Provision in
-    the barren place: wayyipqaḥ ʾĕlōhîm ʾet-ʿênêhā wattēreʾ bəʾēr māyim (God answers Hagar''s weeping);
-    wa-rzuqhum mina th-thamarāt (Abraham asks for it in advance). Cf. the later Zamzam tradition, which
-    links the two; it is not in either text.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
-    מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
-- tradition: islam
-  ref: Quran 2:126
-  note: Abraham prays that the town be made secure and its people provided with fruits
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ
-    مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ
-    أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Gen 21:14 wa-yyiqqaḥ leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends
-    Ishmael away with his mother, and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy
-    ʾăśîmennû); Q 2:125-128 ʿahidnā ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā
-    muslimayni laka: Ishmael is with Abraham as co-builder and co-petitioner, under the same covenant
-    charge (ʿahidnā). The son sent away becomes the son at his side.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Ishmael is with Abraham or sent away [contrast between the
     texts] (weight 6.7); Abraham prays that the town be made secure and its people provided with fruits
@@ -131,6 +50,73 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether Ishmael is with Abraham or sent away
+kinds:
+- contrast
+- shared
+units:
+- id: hb-gen-21-isaac-born-hagar-expelled
+  title: Birth of Isaac and expulsion of Hagar and Ishmael
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether Ishmael is with Abraham or sent away
+  note: 'Gen 21:14 wa-yyiqqaḥ leḥem wĕ-ḥēmat mayim ... wĕ-ʾet ha-yyeled wa-yšallĕḥehā: Abraham sends Ishmael
+    away with his mother, and only God''s promise follows him (21:13 gam ʾet ben hā-ʾāmâ lĕ-gôy ʾăśîmennû);
+    Q 2:125-128 ʿahidnā ilā ibrāhīma wa-ismāʿīla an ṭahhirā baytiya ... rabbanā wa-jʿalnā muslimayni laka:
+    Ishmael is with Abraham as co-builder and co-petitioner, under the same covenant charge (ʿahidnā).
+    The son sent away becomes the son at his side.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:13
+      lang: he
+      text: וְגַ֥ם אֶת בֶּן הָאָמָ֖ה לְג֣וֹי אֲשִׂימֶ֑נּוּ כִּ֥י זַרְעֲךָ֖ הֽוּא
+    - ref: Gen 21:14
+      lang: he
+      text: וַיַּשְׁכֵּ֣ם אַבְרָהָ֣ם בַּבֹּ֡קֶר וַיִּֽקַּֽח לֶחֶם֩ וְחֵ֨מַת מַ֜יִם וַיִּתֵּ֣ן אֶל הָ֠גָר
+        שָׂ֧ם עַל שִׁכְמָ֛הּ וְאֶת הַיֶּ֖לֶד וַֽיְשַׁלְּחֶ֑הָ וַתֵּ֣לֶךְ וַתֵּ֔תַע בְּמִדְבַּ֖ר בְּאֵ֥ר
+        שָֽׁבַע
+  - tradition: islam
+    passages:
+    - ref: Quran 2:125
+      lang: ar
+      text: وَإِذْ جَعَلْنَا ٱلْبَيْتَ مَثَابَةً لِّلنَّاسِ وَأَمْنًا وَٱتَّخِذُوا۟ مِن مَّقَامِ إِبْرَٰهِۦمَ
+        مُصَلًّى وَعَهِدْنَآ إِلَىٰٓ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ أَن طَهِّرَا بَيْتِىَ لِلطَّآئِفِينَ
+        وَٱلْعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+    - ref: Quran 2:127
+      lang: ar
+      text: وَإِذْ يَرْفَعُ إِبْرَٰهِۦمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ رَبَّنَا تَقَبَّلْ
+        مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ
+    - ref: Quran 2:128
+      lang: ar
+      text: رَبَّنَا وَٱجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةً مُّسْلِمَةً لَّكَ وَأَرِنَا
+        مَنَاسِكَنَا وَتُبْ عَلَيْنَآ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+- kind: shared
+  label: Abraham prays that the town be made secure and its people provided with fruits
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 21:15
+      lang: he
+      text: וַיִּכְל֥וּ הַמַּ֖יִם מִן הַחֵ֑מֶת וַתַּשְׁלֵ֣ךְ אֶת הַיֶּ֔לֶד תַּ֖חַת אַחַ֥ד הַשִּׂיחִֽם
+    - ref: Gen 21:19
+      lang: he
+      text: וַיִּפְקַ֤ח אֱלֹהִים֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא בְּאֵ֣ר מָ֑יִם וַתֵּ֜לֶךְ וַתְּמַלֵּ֤א אֶת הַחֵ֨מֶת֙
+        מַ֔יִם וַתַּ֖שְׁקְ אֶת הַנָּֽעַר
+    note: 'Provision in the barren place: wayyipqaḥ ʾĕlōhîm ʾet-ʿênêhā wattēreʾ bəʾēr māyim (God answers
+      Hagar''s weeping); wa-rzuqhum mina th-thamarāt (Abraham asks for it in advance). Cf. the later Zamzam
+      tradition, which links the two; it is not in either text.'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:126
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ
+        مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا
+        ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ
 ---
 
 ## Questions

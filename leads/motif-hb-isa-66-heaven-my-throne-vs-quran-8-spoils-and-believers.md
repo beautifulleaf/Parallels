@@ -1,7 +1,7 @@
 ---
 id: motif-hb-isa-66-heaven-my-throne-vs-quran-8-spoils-and-believers
 title: Heaven is my throne; sacrifice as abomination ↔ The question of spoils and the marks of true believers
-summary: 'These two units share 1 motifs: those who tremble at god''s word (haredim) gather to the leader.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - trembling-at-gods-word
-passages:
-- tradition: judaism
-  ref: Isa 66:2
-  note: Those who tremble at God's word (haredim) gather to the leader (ha-haredim el devaro)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת כָּל אֵ֨לֶּה֙ יָדִ֣י עָשָׂ֔תָה וַיִּהְי֥וּ כָל אֵ֖לֶּה נְאֻם יְהוָ֑ה וְאֶל זֶ֣ה אַבִּ֔יט
-    אֶל עָנִי֙ וּנְכֵה ר֔וּחַ וְחָרֵ֖ד עַל דְּבָרִֽי
-- tradition: judaism
-  ref: Isa 66:5
-  note: Those who tremble at God's word (haredim) gather to the leader (ha-haredim el devaro)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ֙ דְּבַר יְהוָ֔ה הַחֲרֵדִ֖ים אֶל דְּבָר֑וֹ אָמְרוּ֩ אֲחֵיכֶ֨ם שֹׂנְאֵיכֶ֜ם מְנַדֵּיכֶ֗ם
-    לְמַ֤עַן שְׁמִי֙ יִכְבַּ֣ד יְהוָ֔ה וְנִרְאֶ֥ה בְשִׂמְחַתְכֶ֖ם וְהֵ֥ם יֵבֹֽשׁוּ
-- tradition: islam
-  ref: Quran 8:2
-  note: 'Those who tremble at God''s word (haredim) gather to the leader (The true believers tremble at
-    God''s word: alladhīna idhā dhukira llāhu wajilat qulūbuhum wa-idhā tuliyat ʿalayhim āyātuhu zādathum
-    īmānan vs wᵉḥārēd ʿal-dᵉbārî; haḥărēdîm ʾel-dᵉbārô.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ
-    ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The true believers tremble at God''s word: alladhīna idhā dhukira llāhu wajilat qulūbuhum
-    wa-idhā tuliyat ʿalayhim āyātuhu zādathum īmānan vs wᵉḥārēd ʿal-dᵉbārî; haḥărēdîm ʾel-dᵉbārô.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who tremble at God''s word (haredim) gather to the leader
     (weight 6.3). Pair score 6.3.'
@@ -65,6 +40,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who tremble at God's word (haredim) gather to the leader
+kinds:
+- parallel
+units:
+- id: hb-isa-66-heaven-my-throne
+  title: Heaven is my throne; sacrifice as abomination
+  tradition: judaism
+- id: quran-8-spoils-and-believers
+  title: The question of spoils and the marks of true believers
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those who tremble at God's word (haredim) gather to the leader
+  note: 'The true believers tremble at God''s word: alladhīna idhā dhukira llāhu wajilat qulūbuhum wa-idhā
+    tuliyat ʿalayhim āyātuhu zādathum īmānan vs wᵉḥārēd ʿal-dᵉbārî; haḥărēdîm ʾel-dᵉbārô.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 66:2
+      lang: he
+      text: וְאֶת כָּל אֵ֨לֶּה֙ יָדִ֣י עָשָׂ֔תָה וַיִּהְי֥וּ כָל אֵ֖לֶּה נְאֻם יְהוָ֑ה וְאֶל זֶ֣ה אַבִּ֔יט
+        אֶל עָנִי֙ וּנְכֵה ר֔וּחַ וְחָרֵ֖ד עַל דְּבָרִֽי
+    - ref: Isa 66:5
+      lang: he
+      text: שִׁמְעוּ֙ דְּבַר יְהוָ֔ה הַחֲרֵדִ֖ים אֶל דְּבָר֑וֹ אָמְרוּ֩ אֲחֵיכֶ֨ם שֹׂנְאֵיכֶ֜ם מְנַדֵּיכֶ֗ם
+        לְמַ֤עַן שְׁמִי֙ יִכְבַּ֣ד יְהוָ֔ה וְנִרְאֶ֥ה בְשִׂמְחַתְכֶ֖ם וְהֵ֥ם יֵבֹֽשׁוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:2
+      lang: ar
+      text: إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ
+        عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 ---
 
 ## Questions

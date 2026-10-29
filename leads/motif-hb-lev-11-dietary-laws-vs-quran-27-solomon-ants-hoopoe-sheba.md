@@ -2,8 +2,7 @@
 id: motif-hb-lev-11-dietary-laws-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Clean and unclean animals; carcass impurity ↔ Solomon, the speech of birds, the ants, the hoopoe
   and the Queen of Sheba
-summary: 'These two units share 2 motifs: the hoopoe is named in a list of birds, the hoopoe is named
-  in a list of birds [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,45 +13,14 @@ traditions:
 layers:
 - motif
 motifs:
-- hoopoe-named
 - hoopoe-named-as-contrast
-passages:
-- tradition: judaism
-  ref: Lev 11:19
-  note: The hoopoe is named in a list of birds
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת הַדּוּכִיפַ֖ת וְאֶת הָעֲטַלֵּֽף
-- tradition: islam
-  ref: Quran 27:20
-  note: The hoopoe is named in a list of birds (al-hudhud ~ dukhifat (Lev 11:19))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ
-- tradition: judaism
-  ref: Lev 11:19
-  note: 'The hoopoe is named in a list of birds [contrast between the texts] (al-hudhud ~ wə-ʾet had-dûkhîfat:
-    the hoopoe appears in the HB only as an unclean bird not to be eaten; in the Quran it is Solomon''s
-    scout and envoy who knows what Solomon does not (aḥaṭtu bimā lam tuḥiṭ bihi).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת הַדּוּכִיפַ֖ת וְאֶת הָעֲטַלֵּֽף
-- tradition: islam
-  ref: Quran 27:20
-  note: 'The hoopoe is named in a list of birds [contrast between the texts] (al-hudhud ~ wə-ʾet had-dûkhîfat:
-    the hoopoe appears in the HB only as an unclean bird not to be eaten; in the Quran it is Solomon''s
-    scout and envoy who knows what Solomon does not (aḥaṭtu bimā lam tuḥiṭ bihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ
+- hoopoe-named
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. al-hudhud ~ wə-ʾet had-dûkhîfat: the hoopoe appears in the HB only as an unclean bird not
-    to be eaten; in the Quran it is Solomon''s scout and envoy who knows what Solomon does not (aḥaṭtu
-    bimā lam tuḥiṭ bihi).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The hoopoe is named in a list of birds (weight 6.7); The hoopoe
-    is named in a list of birds [contrast between the texts] (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The hoopoe is named in a list of birds [contrast between the texts]
+    (weight 6.7); The hoopoe is named in a list of birds (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Clean and unclean animals; carcass impurity: The camel is unclean because it does not
     have a split hoof; Touching or carrying a carcass makes one unclean until evening; Creatures that
@@ -86,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The hoopoe is named in a list of birds
+kinds:
+- contrast
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: contrast
+  label: The hoopoe is named in a list of birds
+  note: 'al-hudhud ~ wə-ʾet had-dûkhîfat: the hoopoe appears in the HB only as an unclean bird not to
+    be eaten; in the Quran it is Solomon''s scout and envoy who knows what Solomon does not (aḥaṭtu bimā
+    lam tuḥiṭ bihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:19
+      lang: he
+      text: וְאֵת֙ הַחֲסִידָ֔ה הָאֲנָפָ֖ה לְמִינָ֑הּ וְאֶת הַדּוּכִיפַ֖ת וְאֶת הָעֲטַלֵּֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 27:20
+      lang: ar
+      text: وَتَفَقَّدَ ٱلطَّيْرَ فَقَالَ مَا لِىَ لَآ أَرَى ٱلْهُدْهُدَ أَمْ كَانَ مِنَ ٱلْغَآئِبِينَ
 ---
 
 ## Questions

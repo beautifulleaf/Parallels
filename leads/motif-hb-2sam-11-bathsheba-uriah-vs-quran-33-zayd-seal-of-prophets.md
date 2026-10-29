@@ -2,8 +2,7 @@
 id: motif-hb-2sam-11-bathsheba-uriah-vs-quran-33-zayd-seal-of-prophets
 title: David and Bathsheba; Uriah carries his own death letter ↔ Zayd's wife, the seal of the prophets,
   and the prophet as a lamp
-summary: 'These two units share 1 motifs: a ruler or prophet marries the wife of a man under him [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,52 +14,9 @@ layers:
 - motif
 motifs:
 - leader-marries-a-subordinates-wife-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Sam 11:27
-  note: 'A ruler or prophet marries the wife of a man under him [contrast between the texts] (A ruler-prophet
-    marries a subordinate''s wife. David: wa-yyaʾaspāh ʾel-bêṯô wa-ttəhî-lô lə-ʾiššâ ... wa-yyēraʿ ha-ddāḇār
-    ʾăšer-ʿāśâ ḏāwiḏ bə-ʿênê YHWH, after adultery and murder. Muhammad: fa-lammā qaḍā zaydun minhā waṭaran
-    zawwajnākahā ... mā kāna ʿalā n-nabiyyi min ḥarajin fīmā faraḍa llāhu lahu, after a divorce and by
-    God''s decree. The textual contrast is real; that the Quran answers 2 Sam is not shown (polemical
-    pairing per the unit hint).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲבֹ֣ר הָאֵ֗בֶל וַיִּשְׁלַ֨ח דָּוִ֜ד וַיַּאַסְפָ֤הּ אֶל בֵּיתוֹ֙ וַתְּהִי ל֣וֹ לְאִשָּׁ֔ה
-    וַתֵּ֥לֶד ל֖וֹ בֵּ֑ן וַיֵּ֧רַע הַדָּבָ֛ר אֲשֶׁר עָשָׂ֥ה דָוִ֖ד בְּעֵינֵ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 33:37
-  note: 'A ruler or prophet marries the wife of a man under him [contrast between the texts] (A ruler-prophet
-    marries a subordinate''s wife. David: wa-yyaʾaspāh ʾel-bêṯô wa-ttəhî-lô lə-ʾiššâ ... wa-yyēraʿ ha-ddāḇār
-    ʾăšer-ʿāśâ ḏāwiḏ bə-ʿênê YHWH, after adultery and murder. Muhammad: fa-lammā qaḍā zaydun minhā waṭaran
-    zawwajnākahā ... mā kāna ʿalā n-nabiyyi min ḥarajin fīmā faraḍa llāhu lahu, after a divorce and by
-    God''s decree. The textual contrast is real; that the Quran answers 2 Sam is not shown (polemical
-    pairing per the unit hint).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ
-    وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ
-    أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ
-    حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
-- tradition: islam
-  ref: Quran 33:38
-  note: 'A ruler or prophet marries the wife of a man under him [contrast between the texts] (A ruler-prophet
-    marries a subordinate''s wife. David: wa-yyaʾaspāh ʾel-bêṯô wa-ttəhî-lô lə-ʾiššâ ... wa-yyēraʿ ha-ddāḇār
-    ʾăšer-ʿāśâ ḏāwiḏ bə-ʿênê YHWH, after adultery and murder. Muhammad: fa-lammā qaḍā zaydun minhā waṭaran
-    zawwajnākahā ... mā kāna ʿalā n-nabiyyi min ḥarajin fīmā faraḍa llāhu lahu, after a divorce and by
-    God''s decree. The textual contrast is real; that the Quran answers 2 Sam is not shown (polemical
-    pairing per the unit hint).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ
-    خَلَوْا۟ مِن قَبْلُ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. A ruler-prophet marries a subordinate''s wife. David: wa-yyaʾaspāh ʾel-bêṯô wa-ttəhî-lô
-    lə-ʾiššâ ... wa-yyēraʿ ha-ddāḇār ʾăšer-ʿāśâ ḏāwiḏ bə-ʿênê YHWH, after adultery and murder. Muhammad:
-    fa-lammā qaḍā zaydun minhā waṭaran zawwajnākahā ... mā kāna ʿalā n-nabiyyi min ḥarajin fīmā faraḍa
-    llāhu lahu, after a divorce and by God''s decree. The textual contrast is real; that the Quran answers
-    2 Sam is not shown (polemical pairing per the unit hint).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ruler or prophet marries the wife of a man under him [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -95,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A ruler or prophet marries the wife of a man under him
+kinds:
+- contrast
+units:
+- id: hb-2sam-11-bathsheba-uriah
+  title: David and Bathsheba; Uriah carries his own death letter
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: contrast
+  label: A ruler or prophet marries the wife of a man under him
+  note: 'A ruler-prophet marries a subordinate''s wife. David: wa-yyaʾaspāh ʾel-bêṯô wa-ttəhî-lô lə-ʾiššâ
+    ... wa-yyēraʿ ha-ddāḇār ʾăšer-ʿāśâ ḏāwiḏ bə-ʿênê YHWH, after adultery and murder. Muhammad: fa-lammā
+    qaḍā zaydun minhā waṭaran zawwajnākahā ... mā kāna ʿalā n-nabiyyi min ḥarajin fīmā faraḍa llāhu lahu,
+    after a divorce and by God''s decree. The textual contrast is real; that the Quran answers 2 Sam is
+    not shown (polemical pairing per the unit hint).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 11:27
+      lang: he
+      text: וַיַּעֲבֹ֣ר הָאֵ֗בֶל וַיִּשְׁלַ֨ח דָּוִ֜ד וַיַּאַסְפָ֤הּ אֶל בֵּיתוֹ֙ וַתְּהִי ל֣וֹ לְאִשָּׁ֔ה
+        וַתֵּ֥לֶד ל֖וֹ בֵּ֑ן וַיֵּ֧רַע הַדָּבָ֛ר אֲשֶׁר עָשָׂ֥ה דָוִ֖ד בְּעֵינֵ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 33:37
+      lang: ar
+      text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ
+        زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ
+        أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ
+        عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ
+        أَمْرُ ٱللَّهِ مَفْعُولًا
+    - ref: Quran 33:38
+      lang: ar
+      text: مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ
+        خَلَوْا۟ مِن قَبْلُ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا
 ---
 
 ## Questions

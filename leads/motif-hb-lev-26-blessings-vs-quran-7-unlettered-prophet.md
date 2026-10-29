@@ -1,8 +1,7 @@
 ---
 id: motif-hb-lev-26-blessings-vs-quran-7-unlettered-prophet
 title: Covenant blessings for obedience ↔ The unlettered prophet foretold in Torah and Gospel
-summary: 'These two units share 1 motifs: god lifts a yoke or burden from his people [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,35 +13,9 @@ layers:
 - motif
 motifs:
 - god-removes-a-yoke-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 26:13
-  note: 'God lifts a yoke or burden from his people [divergence between the texts] (God removes the yoke:
-    wa-yaḍaʿu ʿanhum iṣrahum wa-l-aghlāla llatī kānat ʿalayhim vs wāʾešbōr mōṭōt ʿullᵉkem wāʾôlēk ʾetkem
-    qôməmiyyût. The burden is reversed: in Lev it is Egyptian slavery that God broke; in Q it is the burden
-    of the law itself (iṣr), lifted by the new prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִֽהְיֹ֥ת לָהֶ֖ם עֲבָדִ֑ים
-    וָאֶשְׁבֹּר֙ מֹטֹ֣ת עֻלְּכֶ֔ם וָאוֹלֵ֥ךְ אֶתְכֶ֖ם קֽוֹמְמִיּֽוּת
-- tradition: islam
-  ref: Quran 7:157
-  note: 'God lifts a yoke or burden from his people [divergence between the texts] (God removes the yoke:
-    wa-yaḍaʿu ʿanhum iṣrahum wa-l-aghlāla llatī kānat ʿalayhim vs wāʾešbōr mōṭōt ʿullᵉkem wāʾôlēk ʾetkem
-    qôməmiyyût. The burden is reversed: in Lev it is Egyptian slavery that God broke; in Q it is the burden
-    of the law itself (iṣr), lifted by the new prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
-    فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
-    لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
-    ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ
-    ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God removes the yoke: wa-yaḍaʿu ʿanhum iṣrahum wa-l-aghlāla llatī kānat ʿalayhim vs wāʾešbōr
-    mōṭōt ʿullᵉkem wāʾôlēk ʾetkem qôməmiyyût. The burden is reversed: in Lev it is Egyptian slavery that
-    God broke; in Q it is the burden of the law itself (iṣr), lifted by the new prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God lifts a yoke or burden from his people [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -70,6 +43,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God lifts a yoke or burden from his people
+kinds:
+- divergence
+units:
+- id: hb-lev-26-blessings
+  title: Covenant blessings for obedience
+  tradition: judaism
+- id: quran-7-unlettered-prophet
+  title: The unlettered prophet foretold in Torah and Gospel
+  tradition: islam
+matches:
+- kind: divergence
+  label: God lifts a yoke or burden from his people
+  note: 'God removes the yoke: wa-yaḍaʿu ʿanhum iṣrahum wa-l-aghlāla llatī kānat ʿalayhim vs wāʾešbōr
+    mōṭōt ʿullᵉkem wāʾôlēk ʾetkem qôməmiyyût. The burden is reversed: in Lev it is Egyptian slavery that
+    God broke; in Q it is the burden of the law itself (iṣr), lifted by the new prophet.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:13
+      lang: he
+      text: אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם מִֽהְיֹ֥ת לָהֶ֖ם
+        עֲבָדִ֑ים וָאֶשְׁבֹּר֙ מֹטֹ֣ת עֻלְּכֶ֔ם וָאוֹלֵ֥ךְ אֶתְכֶ֖ם קֽוֹמְמִיּֽוּת
+  - tradition: islam
+    passages:
+    - ref: Quran 7:157
+      lang: ar
+      text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
+        فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
+        لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
+        ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟
+        ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

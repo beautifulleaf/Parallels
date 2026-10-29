@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-5-sotah-ordeal-vs-quran-3-annunciation-jesus
 title: The suspected adulteress and the bitter water ↔ The annunciation and the mission of Jesus
-summary: 'These two units share 1 motifs: challenge to mutual imprecation (mubahala): gather sons, women
-  and selves and invoke god''s curse on the liars.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,45 +13,9 @@ layers:
 - motif
 motifs:
 - mubahala-mutual-curse
-passages:
-- tradition: judaism
-  ref: Num 5:21
-  note: 'Challenge to mutual imprecation (mubahala): gather sons, women and selves and invoke God''s curse
-    on the liars (Num 5:21-22 yittēn YHWH ʾôtāk lĕ-ʾālâ wĕ-li-šbuʿâ ... wĕ-ʾāmĕrâ hā-ʾiššâ ʾāmēn ʾāmēn:
-    a disputed truth settled by a conditional curse invoked in God''s name; Q 3:61 thumma nabtahil fa-najʿal
-    laʿnata llāhi ʿalā l-kādhibīn: a dispute over Jesus to be settled by invoking God''s curse on whichever
-    side lies. One accused woman in Numbers; two whole parties, with their sons and women, in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
-    יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙ נֹפֶ֔לֶת
-    וְאֶת בִּטְנֵ֖ךְ צָבָֽה
-- tradition: judaism
-  ref: Num 5:22
-  note: 'Challenge to mutual imprecation (mubahala): gather sons, women and selves and invoke God''s curse
-    on the liars (Num 5:21-22 yittēn YHWH ʾôtāk lĕ-ʾālâ wĕ-li-šbuʿâ ... wĕ-ʾāmĕrâ hā-ʾiššâ ʾāmēn ʾāmēn:
-    a disputed truth settled by a conditional curse invoked in God''s name; Q 3:61 thumma nabtahil fa-najʿal
-    laʿnata llāhi ʿalā l-kādhibīn: a dispute over Jesus to be settled by invoking God''s curse on whichever
-    side lies. One accused woman in Numbers; two whole parties, with their sons and women, in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֨לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ
-    וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן אָמֵֽן
-- tradition: islam
-  ref: Quran 3:61
-  note: 'Challenge to mutual imprecation (mubahala): gather sons, women and selves and invoke God''s curse
-    on the liars'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا
-    وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل
-    لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 5:21-22 yittēn YHWH ʾôtāk lĕ-ʾālâ wĕ-li-šbuʿâ ... wĕ-ʾāmĕrâ hā-ʾiššâ ʾāmēn ʾāmēn: a disputed
-    truth settled by a conditional curse invoked in God''s name; Q 3:61 thumma nabtahil fa-najʿal laʿnata
-    llāhi ʿalā l-kādhibīn: a dispute over Jesus to be settled by invoking God''s curse on whichever side
-    lies. One accused woman in Numbers; two whole parties, with their sons and women, in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to mutual imprecation (mubahala): gather sons, women and
     selves and invoke God''s curse on the liars (weight 6.7). Pair score 6.7.'
@@ -85,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Challenge to mutual imprecation (mubahala): gather sons, women and selves and invoke God''s
+  curse on the liars'
+kinds:
+- echo
+units:
+- id: hb-num-5-sotah-ordeal
+  title: The suspected adulteress and the bitter water
+  tradition: judaism
+- id: quran-3-annunciation-jesus
+  title: The annunciation and the mission of Jesus
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Challenge to mutual imprecation (mubahala): gather sons, women and selves and invoke God''s
+    curse on the liars'
+  note: 'Num 5:21-22 yittēn YHWH ʾôtāk lĕ-ʾālâ wĕ-li-šbuʿâ ... wĕ-ʾāmĕrâ hā-ʾiššâ ʾāmēn ʾāmēn: a disputed
+    truth settled by a conditional curse invoked in God''s name; Q 3:61 thumma nabtahil fa-najʿal laʿnata
+    llāhi ʿalā l-kādhibīn: a dispute over Jesus to be settled by invoking God''s curse on whichever side
+    lies. One accused woman in Numbers; two whole parties, with their sons and women, in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 5:21
+      lang: he
+      text: וְהִשְׁבִּ֨יעַ הַכֹּהֵ֥ן אֶֽת הָֽאִשָּׁה֮ בִּשְׁבֻעַ֣ת הָאָלָה֒ וְאָמַ֤ר הַכֹּהֵן֙ לָֽאִשָּׁ֔ה
+        יִתֵּ֨ן יְהוָ֥ה אוֹתָ֛ךְ לְאָלָ֥ה וְלִשְׁבֻעָ֖ה בְּת֣וֹךְ עַמֵּ֑ךְ בְּתֵ֨ת יְהוָ֤ה אֶת יְרֵכֵךְ֙
+        נֹפֶ֔לֶת וְאֶת בִּטְנֵ֖ךְ צָבָֽה
+    - ref: Num 5:22
+      lang: he
+      text: וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֨לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ
+        וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן אָמֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:61
+      lang: ar
+      text: فَمَنْ حَآجَّكَ فِيهِ مِنۢ بَعْدِ مَا جَآءَكَ مِنَ ٱلْعِلْمِ فَقُلْ تَعَالَوْا۟ نَدْعُ أَبْنَآءَنَا
+        وَأَبْنَآءَكُمْ وَنِسَآءَنَا وَنِسَآءَكُمْ وَأَنفُسَنَا وَأَنفُسَكُمْ ثُمَّ نَبْتَهِلْ فَنَجْعَل
+        لَّعْنَتَ ٱللَّهِ عَلَى ٱلْكَٰذِبِينَ
 ---
 
 ## Questions

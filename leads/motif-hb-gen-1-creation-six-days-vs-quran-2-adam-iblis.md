@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-1-creation-six-days-vs-quran-2-adam-iblis
 title: Creation in six days and the seventh-day rest ↔ Adam, the angels and Iblis
-summary: 'These two units share 3 motifs: god speaks to heavenly beings about making man [divergence between
-  the texts], the office given to humans on earth at creation [divergence between the texts], god speaks
-  in the plural (us, our) as if to a divine council.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,94 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- god-addresses-heavenly-beings-on-creating-man-as-divergence
 - office-of-humans-on-earth-as-divergence
+- god-addresses-heavenly-beings-on-creating-man-as-divergence
 - divine-plural-speech
-passages:
-- tradition: judaism
-  ref: Gen 1:26
-  note: 'God speaks to heavenly beings about making man [divergence between the texts] (Gen 1:26 wa-yyōʾmer
-    ʾĕlōhîm naʿăśeh ʾādām bĕ-ṣalmēnû: God''s plan for man is spoken to an unnamed ''us'' who never answer;
-    Q 2:30 wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi khalīfatan: the hearers are named
-    as the angels, the speech is first person singular (innī), and the angels reply.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
-    וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:30
-  note: 'God speaks to heavenly beings about making man [divergence between the texts] (Gen 1:26 wa-yyōʾmer
-    ʾĕlōhîm naʿăśeh ʾādām bĕ-ṣalmēnû: God''s plan for man is spoken to an unnamed ''us'' who never answer;
-    Q 2:30 wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi khalīfatan: the hearers are named
-    as the angels, the speech is first person singular (innī), and the angels reply.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
-    فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ
-    إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
-- tradition: judaism
-  ref: Gen 1:26
-  note: 'The office given to humans on earth at creation [divergence between the texts] (Office of man
-    on earth: Gen 1:26-28 bĕ-ṣalmēnû kidmûtēnû wĕ-yirdû ... wĕ-kibšuhā: made in God''s image to rule the
-    animals and subdue the earth; Q 2:30 jāʿilun fī l-arḍi khalīfatan: a successor/deputy on the earth,
-    with no image or likeness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
-    וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 1:28
-  note: 'The office given to humans on earth at creation [divergence between the texts] (Office of man
-    on earth: Gen 1:26-28 bĕ-ṣalmēnû kidmûtēnû wĕ-yirdû ... wĕ-kibšuhā: made in God''s image to rule the
-    animals and subdue the earth; Q 2:30 jāʿilun fī l-arḍi khalīfatan: a successor/deputy on the earth,
-    with no image or likeness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
-    וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:30
-  note: 'The office given to humans on earth at creation [divergence between the texts] (Office of man
-    on earth: Gen 1:26-28 bĕ-ṣalmēnû kidmûtēnû wĕ-yirdû ... wĕ-kibšuhā: made in God''s image to rule the
-    animals and subdue the earth; Q 2:30 jāʿilun fī l-arḍi khalīfatan: a successor/deputy on the earth,
-    with no image or likeness.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
-    فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ
-    إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
-- tradition: judaism
-  ref: Gen 1:26
-  note: God speaks in the plural (us, our) as if to a divine council (na'aseh adam be-tsalmenu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
-    וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 2:34
-  note: God speaks in the plural (us, our) as if to a divine council (God speaks as 'we' (qulna))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ
-    وَكَانَ مِنَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 2:35
-  note: God speaks in the plural (us, our) as if to a divine council (God speaks as 'we' (qulna))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
-    وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Gen 1:26 wa-yyōʾmer ʾĕlōhîm naʿăśeh ʾādām bĕ-ṣalmēnû: God''s plan for man is spoken to
-    an unnamed ''us'' who never answer; Q 2:30 wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi
-    khalīfatan: the hearers are named as the angels, the speech is first person singular (innī), and the
-    angels reply. Office of man on earth: Gen 1:26-28 bĕ-ṣalmēnû kidmûtēnû wĕ-yirdû ... wĕ-kibšuhā: made
-    in God''s image to rule the animals and subdue the earth; Q 2:30 jāʿilun fī l-arḍi khalīfatan: a successor/deputy
-    on the earth, with no image or likeness.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God speaks to heavenly beings about making man [divergence between
-    the texts] (weight 6.7); The office given to humans on earth at creation [divergence between the texts]
+- text: 'Shared motifs, rarest first: The office given to humans on earth at creation [divergence between
+    the texts] (weight 6.7); God speaks to heavenly beings about making man [divergence between the texts]
     (weight 6.7); God speaks in the plural (us, our) as if to a divine council (weight 6.0). Pair score
     19.4.'
   basis: reading
@@ -134,6 +53,82 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God speaks to heavenly beings about making man
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-2-adam-iblis
+  title: Adam, the angels and Iblis
+  tradition: islam
+matches:
+- kind: divergence
+  label: God speaks to heavenly beings about making man
+  note: 'Gen 1:26 wa-yyōʾmer ʾĕlōhîm naʿăśeh ʾādām bĕ-ṣalmēnû: God''s plan for man is spoken to an unnamed
+    ''us'' who never answer; Q 2:30 wa-idh qāla rabbuka li-l-malāʾikati innī jāʿilun fī l-arḍi khalīfatan:
+    the hearers are named as the angels, the speech is first person singular (innī), and the angels reply.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:26
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
+        וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:30
+      lang: ar
+      text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
+        فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+        قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
+- kind: divergence
+  label: The office given to humans on earth at creation
+  note: 'Office of man on earth: Gen 1:26-28 bĕ-ṣalmēnû kidmûtēnû wĕ-yirdû ... wĕ-kibšuhā: made in God''s
+    image to rule the animals and subdue the earth; Q 2:30 jāʿilun fī l-arḍi khalīfatan: a successor/deputy
+    on the earth, with no image or likeness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:26
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
+        וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
+    - ref: Gen 1:28
+      lang: he
+      text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
+        וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:30
+      lang: ar
+      text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى جَاعِلٌ فِى ٱلْأَرْضِ خَلِيفَةً قَالُوٓا۟ أَتَجْعَلُ
+        فِيهَا مَن يُفْسِدُ فِيهَا وَيَسْفِكُ ٱلدِّمَآءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ
+        قَالَ إِنِّىٓ أَعْلَمُ مَا لَا تَعْلَمُونَ
+- kind: shared
+  label: God speaks in the plural (us, our) as if to a divine council
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:26
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם
+        וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל הָאָ֔רֶץ וּבְכָל הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל הָאָֽרֶץ
+    note: na'aseh adam be-tsalmenu
+  - tradition: islam
+    passages:
+    - ref: Quran 2:34
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
+        وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
+    - ref: Quran 2:35
+      lang: ar
+      text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ
+        شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    note: God speaks as 'we' (qulna)
 ---
 
 ## Questions

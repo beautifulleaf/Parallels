@@ -2,7 +2,7 @@
 id: motif-hb-ps-81-new-moon-shofar-vs-quran-17-commandments
 title: Psalm 81, blow the shofar at the new moon; O that my people would listen ↔ The code of commandments
   (Surah 17:22-39)
-summary: 'These two units share 2 motifs: no other gods before yhwh, the ten commandments (decalogue).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,52 +16,9 @@ layers:
 motifs:
 - prohibition-of-other-gods
 - ten-commandments
-passages:
-- tradition: judaism
-  ref: Ps 81:10
-  note: No other gods before YHWH (lo yihyeh vekha el zar)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא יִהְיֶ֣ה בְ֭ךָ אֵ֣ל זָ֑ר וְלֹ֥א תִ֝שְׁתַּחֲוֶ֗ה לְאֵ֣ל נֵכָֽר
-- tradition: islam
-  ref: Quran 17:22
-  note: No other gods before YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
-- tradition: islam
-  ref: Quran 17:23
-  note: No other gods before YHWH
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: judaism
-  ref: Ps 81:11
-  note: The Ten Commandments (Decalogue) (anokhi YHWH elohekha ha-ma'alkha me-erets Mitsrayim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָנֹכִ֨י יְה֘וָ֤ה אֱלֹהֶ֗יךָ הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם הַרְחֶב פִּ֝֗יךָ וַאֲמַלְאֵֽהוּ
-- tradition: islam
-  ref: Quran 17:23
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا يَبْلُغَنَّ
-    عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل
-    لَّهُمَا قَوْلًا كَرِيمًا
-- tradition: islam
-  ref: Quran 17:31
-  note: The Ten Commandments (Decalogue) (parallel content, not a list of ten)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ قَتْلَهُمْ
-    كَانَ خِطْـًٔا كَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. lōʾ-yihyeh bəkā ʾēl zār wəlōʾ tištaḥăweh ləʾēl nēkār; lā tajʿal maʿa llāhi ilāhan ākhar:
-    no foreign god.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No other gods before YHWH (weight 5.8); The Ten Commandments (Decalogue)
     (weight 5.4). Pair score 11.2.'
@@ -95,6 +52,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No other gods before YHWH
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-81-new-moon-shofar
+  title: Psalm 81, blow the shofar at the new moon; O that my people would listen
+  tradition: judaism
+- id: quran-17-commandments
+  title: The code of commandments (Surah 17:22-39)
+  tradition: islam
+matches:
+- kind: parallel
+  label: No other gods before YHWH
+  note: 'lōʾ-yihyeh bəkā ʾēl zār wəlōʾ tištaḥăweh ləʾēl nēkār; lā tajʿal maʿa llāhi ilāhan ākhar: no foreign
+    god.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 81:10
+      lang: he
+      text: לֹֽא יִהְיֶ֣ה בְ֭ךָ אֵ֣ל זָ֑ר וְלֹ֥א תִ֝שְׁתַּחֲוֶ֗ה לְאֵ֣ל נֵכָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 17:22
+      lang: ar
+      text: لَّا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَتَقْعُدَ مَذْمُومًا مَّخْذُولًا
+    - ref: Quran 17:39
+      lang: ar
+      text: ذَٰلِكَ مِمَّآ أَوْحَىٰٓ إِلَيْكَ رَبُّكَ مِنَ ٱلْحِكْمَةِ وَلَا تَجْعَلْ مَعَ ٱللَّهِ إِلَٰهًا
+        ءَاخَرَ فَتُلْقَىٰ فِى جَهَنَّمَ مَلُومًا مَّدْحُورًا
+- kind: shared
+  label: The Ten Commandments (Decalogue)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 81:11
+      lang: he
+      text: אָנֹכִ֨י יְה֘וָ֤ה אֱלֹהֶ֗יךָ הַֽ֭מַּעַלְךָ מֵאֶ֣רֶץ מִצְרָ֑יִם הַרְחֶב פִּ֝֗יךָ וַאֲמַלְאֵֽהוּ
+    note: anokhi YHWH elohekha ha-ma'alkha me-erets Mitsrayim
+  - tradition: islam
+    passages:
+    - ref: Quran 17:23
+      lang: ar
+      text: وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا إِمَّا
+        يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا
+        وَقُل لَّهُمَا قَوْلًا كَرِيمًا
+    - ref: Quran 17:31
+      lang: ar
+      text: وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ إِنَّ
+        قَتْلَهُمْ كَانَ خِطْـًٔا كَبِيرًا
+    - ref: Quran 17:32
+      lang: ar
+      text: وَلَا تَقْرَبُوا۟ ٱلزِّنَىٰٓ إِنَّهُۥ كَانَ فَٰحِشَةً وَسَآءَ سَبِيلًا
+    note: parallel content, not a list of ten
 ---
 
 ## Questions

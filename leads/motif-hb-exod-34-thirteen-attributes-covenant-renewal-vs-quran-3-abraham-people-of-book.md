@@ -2,8 +2,7 @@
 id: motif-hb-exod-34-thirteen-attributes-covenant-renewal-vs-quran-3-abraham-people-of-book
 title: New tablets, the attributes of mercy and the ritual decalogue ↔ The common word; Abraham neither
   Jew nor Christian
-summary: 'These two units share 1 motifs: call to the people of the book to a common word: worship none
-  but god and take none as lords besides him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - common-word-with-people-of-book
-passages:
-- tradition: judaism
-  ref: Exod 34:14
-  note: 'Call to the People of the Book to a common word: worship none but God and take none as lords
-    besides him (Exod 34:14 kî lōʾ tištaḥăweh lĕ-ʾēl ʾaḥēr kî YHWH qannāʾ šĕmô: worship no other god;
-    Q 3:64 taʿālaw ilā kalimatin sawāʾin baynanā wa-baynakum allā naʿbuda illā llāha wa-lā nushrika bihi
-    shayʾan: the ''common word'' offered to the People of the Book is the covenant''s own first demand.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י לֹ֥א תִֽשְׁתַּחֲוֶ֖ה לְאֵ֣ל אַחֵ֑ר כִּ֤י יְהוָה֙ קַנָּ֣א שְׁמ֔וֹ אֵ֥ל קַנָּ֖א הֽוּא
-- tradition: islam
-  ref: Quran 3:64
-  note: 'Call to the People of the Book to a common word: worship none but God and take none as lords
-    besides him'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا
-    نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا
-    مِّن دُونِ ٱللَّهِ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Exod 34:14 kî lōʾ tištaḥăweh lĕ-ʾēl ʾaḥēr kî YHWH qannāʾ šĕmô: worship no other god; Q 3:64
-    taʿālaw ilā kalimatin sawāʾin baynanā wa-baynakum allā naʿbuda illā llāha wa-lā nushrika bihi shayʾan:
-    the ''common word'' offered to the People of the Book is the covenant''s own first demand.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Call to the People of the Book to a common word: worship none but
     God and take none as lords besides him (weight 6.7). Pair score 6.7.'
@@ -71,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Call to the People of the Book to a common word: worship none but God and take none as lords
+  besides him'
+kinds:
+- echo
+units:
+- id: hb-exod-34-thirteen-attributes-covenant-renewal
+  title: New tablets, the attributes of mercy and the ritual decalogue
+  tradition: judaism
+- id: quran-3-abraham-people-of-book
+  title: The common word; Abraham neither Jew nor Christian
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Call to the People of the Book to a common word: worship none but God and take none as lords
+    besides him'
+  note: 'Exod 34:14 kî lōʾ tištaḥăweh lĕ-ʾēl ʾaḥēr kî YHWH qannāʾ šĕmô: worship no other god; Q 3:64 taʿālaw
+    ilā kalimatin sawāʾin baynanā wa-baynakum allā naʿbuda illā llāha wa-lā nushrika bihi shayʾan: the
+    ''common word'' offered to the People of the Book is the covenant''s own first demand.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 34:14
+      lang: he
+      text: כִּ֛י לֹ֥א תִֽשְׁתַּחֲוֶ֖ה לְאֵ֣ל אַחֵ֑ר כִּ֤י יְהוָה֙ קַנָּ֣א שְׁמ֔וֹ אֵ֥ל קַנָּ֖א הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 3:64
+      lang: ar
+      text: قُلْ يَٰٓأَهْلَ ٱلْكِتَٰبِ تَعَالَوْا۟ إِلَىٰ كَلِمَةٍ سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ أَلَّا
+        نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًا
+        مِّن دُونِ ٱللَّهِ فَإِن تَوَلَّوْا۟ فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-6-poor-keys-of-unseen
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Do not
   drive away the poor; the keys of the unseen and the falling leaf
-summary: 'These two units share 1 motifs: with god are the keys of the unseen (mafātiḥ al-ghayb); none
-  knows them but he.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - keys-of-the-unseen
-passages:
-- tradition: judaism
-  ref: Isa 45:3
-  note: 'With God are the keys of the unseen (mafātiḥ al-ghayb); none knows them but he (Isa: wə-nātattî
-    ləkhā ʾôṣərôt ḥōšekh û-maṭmūnê mistārîm, God gives Cyrus the hidden treasures. Q: wa-ʿindahu mafātiḥu
-    l-ghaybi lā yaʿlamuhā illā huwa (mafātiḥ, keys or storehouses). Isa gives the hidden stores away;
-    Q keeps them with God alone.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י לְךָ֙ אוֹצְר֣וֹת חֹ֔שֶׁךְ וּמַטְמֻנֵ֖י מִסְתָּרִ֑ים לְמַ֣עַן תֵּדַ֗ע כִּֽי אֲנִ֧י
-    יְהוָ֛ה הַקּוֹרֵ֥א בְשִׁמְךָ֖ אֱלֹהֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 6:59
-  note: With God are the keys of the unseen (mafātiḥ al-ghayb); none knows them but he
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ
-    وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ
-    وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Isa: wə-nātattî ləkhā ʾôṣərôt ḥōšekh û-maṭmūnê mistārîm, God gives Cyrus the hidden treasures.
-    Q: wa-ʿindahu mafātiḥu l-ghaybi lā yaʿlamuhā illā huwa (mafātiḥ, keys or storehouses). Isa gives the
-    hidden stores away; Q keeps them with God alone.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With God are the keys of the unseen (mafātiḥ al-ghayb); none knows
     them but he (weight 6.7). Pair score 6.7.'
@@ -74,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: With God are the keys of the unseen (mafātiḥ al-ghayb); none knows them but he
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-6-poor-keys-of-unseen
+  title: Do not drive away the poor; the keys of the unseen and the falling leaf
+  tradition: islam
+matches:
+- kind: echo
+  label: With God are the keys of the unseen (mafātiḥ al-ghayb); none knows them but he
+  note: 'Isa: wə-nātattî ləkhā ʾôṣərôt ḥōšekh û-maṭmūnê mistārîm, God gives Cyrus the hidden treasures.
+    Q: wa-ʿindahu mafātiḥu l-ghaybi lā yaʿlamuhā illā huwa (mafātiḥ, keys or storehouses). Isa gives the
+    hidden stores away; Q keeps them with God alone.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:3
+      lang: he
+      text: וְנָתַתִּ֤י לְךָ֙ אוֹצְר֣וֹת חֹ֔שֶׁךְ וּמַטְמֻנֵ֖י מִסְתָּרִ֑ים לְמַ֣עַן תֵּדַ֗ע כִּֽי אֲנִ֧י
+        יְהוָ֛ה הַקּוֹרֵ֥א בְשִׁמְךָ֖ אֱלֹהֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 6:59
+      lang: ar
+      text: وَعِندَهُۥ مَفَاتِحُ ٱلْغَيْبِ لَا يَعْلَمُهَآ إِلَّا هُوَ وَيَعْلَمُ مَا فِى ٱلْبَرِّ وَٱلْبَحْرِ
+        وَمَا تَسْقُطُ مِن وَرَقَةٍ إِلَّا يَعْلَمُهَا وَلَا حَبَّةٍ فِى ظُلُمَٰتِ ٱلْأَرْضِ وَلَا رَطْبٍ
+        وَلَا يَابِسٍ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
 ---
 
 ## Questions

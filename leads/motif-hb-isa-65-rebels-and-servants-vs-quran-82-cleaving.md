@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-65-rebels-and-servants-vs-quran-82-cleaving
 title: 'Found by those who did not seek; rebels and servants ↔ The cleaving: the noble scribes'
-summary: 'These two units share 1 motifs: the people''s deeds are written before god, who will repay them
-  into their bosom.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - deeds-recorded-before-god
-passages:
-- tradition: judaism
-  ref: Isa 65:6
-  note: The people's deeds are written before God, who will repay them into their bosom (your iniquities
-    and your fathers' together)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֥ה כְתוּבָ֖ה לְפָנָ֑י לֹ֤א אֶחֱשֶׂה֙ כִּ֣י אִם שִׁלַּ֔מְתִּי וְשִׁלַּמְתִּ֖י עַל חֵיקָֽם
-- tradition: judaism
-  ref: Isa 65:7
-  note: The people's deeds are written before God, who will repay them into their bosom (your iniquities
-    and your fathers' together)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲ֠וֺנֹתֵיכֶם וַעֲוֺנֹ֨ת אֲבוֹתֵיכֶ֤ם יַחְדָּו֙ אָמַ֣ר יְהוָ֔ה אֲשֶׁ֤ר קִטְּרוּ֙ עַל הֶ֣הָרִ֔ים
-    וְעַל הַגְּבָע֖וֹת חֵרְפ֑וּנִי וּמַדֹּתִ֧י פְעֻלָּתָ֛ם רִֽאשֹׁנָ֖ה על אֶל חֵיקָֽם
-- tradition: islam
-  ref: Quran 82:11
-  note: The people's deeds are written before God, who will repay them into their bosom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِرَامًا كَٰتِبِينَ
-- tradition: islam
-  ref: Quran 82:12
-  note: The people's deeds are written before God, who will repay them into their bosom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْلَمُونَ مَا تَفْعَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-inna ʿalaykum la-ḥāfiẓīna kirāman kātibīna yaʿlamūna mā tafʿalūn ~ hinnēh ketûvāh le-fānay
-    lōʾ ʾeḥĕšeh kî ʾim šillamtî ... ʿal ḥêqām. Deeds written down before God for repayment; the Quran
-    adds named recording angels (kātibīn).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people''s deeds are written before God, who will repay them
     into their bosom (weight 6.0). Pair score 6.0.'
@@ -81,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people's deeds are written before God, who will repay them into their bosom
+kinds:
+- parallel
+units:
+- id: hb-isa-65-rebels-and-servants
+  title: Found by those who did not seek; rebels and servants
+  tradition: judaism
+- id: quran-82-cleaving
+  title: 'The cleaving: the noble scribes'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The people's deeds are written before God, who will repay them into their bosom
+  note: wa-inna ʿalaykum la-ḥāfiẓīna kirāman kātibīna yaʿlamūna mā tafʿalūn ~ hinnēh ketûvāh le-fānay
+    lōʾ ʾeḥĕšeh kî ʾim šillamtî ... ʿal ḥêqām. Deeds written down before God for repayment; the Quran
+    adds named recording angels (kātibīn).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:6
+      lang: he
+      text: הִנֵּ֥ה כְתוּבָ֖ה לְפָנָ֑י לֹ֤א אֶחֱשֶׂה֙ כִּ֣י אִם שִׁלַּ֔מְתִּי וְשִׁלַּמְתִּ֖י עַל חֵיקָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 82:10
+      lang: ar
+      text: وَإِنَّ عَلَيْكُمْ لَحَٰفِظِينَ
+    - ref: Quran 82:11
+      lang: ar
+      text: كِرَامًا كَٰتِبِينَ
+    - ref: Quran 82:12
+      lang: ar
+      text: يَعْلَمُونَ مَا تَفْعَلُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-amos-7-visions-and-amaziah-vs-quran-47-muhammad-battle-and-rivers
 title: 'Visions of locusts, fire and plumb line; Amos and Amaziah ↔ Muhammad: deeds nullified, striking
   necks and freeing captives, and the four rivers of the Garden'
-summary: 'These two units share 1 motifs: mightier towns than the one that drove the prophet out were
-  destroyed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - town-that-expelled-the-prophet
-passages:
-- tradition: judaism
-  ref: Amos 7:12
-  note: 'Mightier towns than the one that drove the prophet out were destroyed (A prophet driven out of
-    a town: lēḵ bəraḥ ləḵā ʾel ʾereṣ yəhûḏâ ... û-ḇêṯ ʾēl lōʾ ṯôsîp̄ ʿôḏ lə-hinnāḇēʾ vs. min qaryatika
-    llatī akhrajatka ahlaknāhum. Amos answers Amaziah with exile for him and Israel (7:17); the Quran
-    reminds the Prophet of stronger towns already destroyed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֲמַצְיָה֙ אֶל עָמ֔וֹס חֹזֶ֕ה לֵ֥ךְ בְּרַח לְךָ֖ אֶל אֶ֣רֶץ יְהוּדָ֑ה וֶאֱכָל שָׁ֣ם
-    לֶ֔חֶם וְשָׁ֖ם תִּנָּבֵֽא
-- tradition: judaism
-  ref: Amos 7:13
-  note: 'Mightier towns than the one that drove the prophet out were destroyed (A prophet driven out of
-    a town: lēḵ bəraḥ ləḵā ʾel ʾereṣ yəhûḏâ ... û-ḇêṯ ʾēl lōʾ ṯôsîp̄ ʿôḏ lə-hinnāḇēʾ vs. min qaryatika
-    llatī akhrajatka ahlaknāhum. Amos answers Amaziah with exile for him and Israel (7:17); the Quran
-    reminds the Prophet of stronger towns already destroyed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבֵֽית אֵ֔ל לֹֽא תוֹסִ֥יף ע֖וֹד לְהִנָּבֵ֑א כִּ֤י מִקְדַּשׁ מֶ֨לֶךְ֙ ה֔וּא וּבֵ֥ית מַמְלָכָ֖ה
-    הֽוּא
-- tradition: islam
-  ref: Quran 47:13
-  note: Mightier towns than the one that drove the prophet out were destroyed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَٰهُمْ
-    فَلَا نَاصِرَ لَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A prophet driven out of a town: lēḵ bəraḥ ləḵā ʾel ʾereṣ yəhûḏâ ... û-ḇêṯ ʾēl lōʾ ṯôsîp̄ ʿôḏ
-    lə-hinnāḇēʾ vs. min qaryatika llatī akhrajatka ahlaknāhum. Amos answers Amaziah with exile for him
-    and Israel (7:17); the Quran reminds the Prophet of stronger towns already destroyed.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mightier towns than the one that drove the prophet out were destroyed
     (weight 6.3). Pair score 6.3.'
@@ -85,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mightier towns than the one that drove the prophet out were destroyed
+kinds:
+- echo
+units:
+- id: hb-amos-7-visions-and-amaziah
+  title: Visions of locusts, fire and plumb line; Amos and Amaziah
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: echo
+  label: Mightier towns than the one that drove the prophet out were destroyed
+  note: 'A prophet driven out of a town: lēḵ bəraḥ ləḵā ʾel ʾereṣ yəhûḏâ ... û-ḇêṯ ʾēl lōʾ ṯôsîp̄ ʿôḏ
+    lə-hinnāḇēʾ vs. min qaryatika llatī akhrajatka ahlaknāhum. Amos answers Amaziah with exile for him
+    and Israel (7:17); the Quran reminds the Prophet of stronger towns already destroyed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 7:12
+      lang: he
+      text: וַיֹּ֤אמֶר אֲמַצְיָה֙ אֶל עָמ֔וֹס חֹזֶ֕ה לֵ֥ךְ בְּרַח לְךָ֖ אֶל אֶ֣רֶץ יְהוּדָ֑ה וֶאֱכָל שָׁ֣ם
+        לֶ֔חֶם וְשָׁ֖ם תִּנָּבֵֽא
+    - ref: Amos 7:13
+      lang: he
+      text: וּבֵֽית אֵ֔ל לֹֽא תוֹסִ֥יף ע֖וֹד לְהִנָּבֵ֑א כִּ֤י מִקְדַּשׁ מֶ֨לֶךְ֙ ה֔וּא וּבֵ֥ית מַמְלָכָ֖ה
+        הֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 47:13
+      lang: ar
+      text: وَكَأَيِّن مِّن قَرْيَةٍ هِىَ أَشَدُّ قُوَّةً مِّن قَرْيَتِكَ ٱلَّتِىٓ أَخْرَجَتْكَ أَهْلَكْنَٰهُمْ
+        فَلَا نَاصِرَ لَهُمْ
 ---
 
 ## Questions

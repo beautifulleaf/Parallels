@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-28-sayings-vs-quran-2-usury
 title: Sayings on torah, rulers, usury and confession ↔ Usury
-summary: 'These two units share 2 motifs: he who increases wealth by interest and usury gathers it for
-  one who is gracious to the poor, do not charge interest to the poor of my people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,47 +15,9 @@ layers:
 motifs:
 - usurers-wealth-goes-to-generous
 - prohibition-of-interest
-passages:
-- tradition: judaism
-  ref: Prov 28:8
-  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
-- tradition: islam
-  ref: Quran 2:276
-  note: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
-- tradition: judaism
-  ref: Prov 28:8
-  note: Do not charge interest to the poor of my people (neshekh and tarbit)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
-- tradition: islam
-  ref: Quran 2:275
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ
-    مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ
-    ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ
-    وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 2:278
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
-    كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Same root, same reversal: Prov 28:8 marbeh hônô bĕ-nešek û-ba-tarbît lĕ-ḥônēn dallîm yiqbĕṣennû:
-    wealth increased (marbeh) by interest and increase (tarbît) ends up with the one kind to the poor;
-    Q 2:276 yamḥaqu llāhu r-ribā wa-yurbī ṣ-ṣadaqāti: God wipes out usury (ribā) and makes alms grow (yurbī).
-    r-b-y in both, turned against the usurer.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who increases wealth by interest and usury gathers it for one
     who is gracious to the poor (weight 6.3); Do not charge interest to the poor of my people (weight
@@ -89,6 +50,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+kinds:
+- parallel
+- shared
+units:
+- id: hb-prov-28-sayings
+  title: Sayings on torah, rulers, usury and confession
+  tradition: judaism
+- id: quran-2-usury
+  title: Usury
+  tradition: islam
+matches:
+- kind: parallel
+  label: He who increases wealth by interest and usury gathers it for one who is gracious to the poor
+  note: 'Same root, same reversal: Prov 28:8 marbeh hônô bĕ-nešek û-ba-tarbît lĕ-ḥônēn dallîm yiqbĕṣennû:
+    wealth increased (marbeh) by interest and increase (tarbît) ends up with the one kind to the poor;
+    Q 2:276 yamḥaqu llāhu r-ribā wa-yurbī ṣ-ṣadaqāti: God wipes out usury (ribā) and makes alms grow (yurbī).
+    r-b-y in both, turned against the usurer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 28:8
+      lang: he
+      text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:276
+      lang: ar
+      text: يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟ وَيُرْبِى ٱلصَّدَقَٰتِ وَٱللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ
+- kind: shared
+  label: Do not charge interest to the poor of my people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 28:8
+      lang: he
+      text: מַרְבֶּ֣ה ה֭וֹנוֹ בְּנֶ֣שֶׁךְ ובתרבית וְתַרְבִּ֑ית לְחוֹנֵ֖ן דַּלִּ֣ים יִקְבְּצֶֽנּוּ
+    note: neshekh and tarbit
+  - tradition: islam
+    passages:
+    - ref: Quran 2:275
+      lang: ar
+      text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ
+        ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟
+        وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ
+        فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ
+        فِيهَا خَٰلِدُونَ
+    - ref: Quran 2:278
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟
+        إِن كُنتُم مُّؤْمِنِينَ
+    - ref: Quran 2:277
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟
+        ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 ---
 
 ## Questions

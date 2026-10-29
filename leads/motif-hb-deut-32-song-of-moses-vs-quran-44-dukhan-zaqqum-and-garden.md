@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-44-dukhan-zaqqum-and-garden
 title: The Song of Moses (Ha'azinu) ↔ Deniers demand their fathers; the people of Tubba'; the tree of
   Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: the tree of zaqqum grows from the bottom of hell; its spathes
-  are like the heads of devils; the damned fill their bellies and drink boiling water.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - tree-of-zaqqum
-passages:
-- tradition: judaism
-  ref: Deut 32:32
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
-    מְרֹרֹ֖ת לָֽמוֹ
-- tradition: judaism
-  ref: Deut 32:33
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
-- tradition: islam
-  ref: Quran 44:43
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
-- tradition: islam
-  ref: Quran 44:44
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: طَعَامُ ٱلْأَثِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A plant whose fruit is poison for the wicked: kî mig-gep̄en səḏōm gap̄nām ... ʿinnəḇê rôš ʾaškəlōṯ
-    mərōrōṯ lāmô; ḥămaṯ tannînim yênām (Sodom''s vine, grapes of gall, wine of serpents'' venom) vs. inna
-    shajarata z-zaqqūmi ṭaʿāmu l-athīm, ka-l-muhli yaghlī fī l-buṭūn. Deuteronomy: an image of the enemies''
-    character; Quran: the actual food of hell.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
     like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8). Pair
@@ -95,6 +53,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+  damned fill their bellies and drink boiling water
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: echo
+  label: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  note: 'A plant whose fruit is poison for the wicked: kî mig-gep̄en səḏōm gap̄nām ... ʿinnəḇê rôš ʾaškəlōṯ
+    mərōrōṯ lāmô; ḥămaṯ tannînim yênām (Sodom''s vine, grapes of gall, wine of serpents'' venom) vs. inna
+    shajarata z-zaqqūmi ṭaʿāmu l-athīm, ka-l-muhli yaghlī fī l-buṭūn. Deuteronomy: an image of the enemies''
+    character; Quran: the actual food of hell.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:32
+      lang: he
+      text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
+        מְרֹרֹ֖ת לָֽמוֹ
+    - ref: Deut 32:33
+      lang: he
+      text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 44:43
+      lang: ar
+      text: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
+    - ref: Quran 44:44
+      lang: ar
+      text: طَعَامُ ٱلْأَثِيمِ
+    - ref: Quran 44:45
+      lang: ar
+      text: كَٱلْمُهْلِ يَغْلِى فِى ٱلْبُطُونِ
 ---
 
 ## Questions

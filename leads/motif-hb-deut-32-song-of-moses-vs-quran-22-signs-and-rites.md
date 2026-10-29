@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-22-signs-and-rites
 title: The Song of Moses (Ha'azinu) ↔ Migrants provided for; the night and day, the held sky, a rite for
   every nation
-summary: 'These two units share 2 motifs: they sacrificed to shedim (demons), no-gods, new gods their
-  fathers did not know, i kill and i make alive, i wound and i heal; there is no god beside me.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,52 +16,9 @@ layers:
 motifs:
 - sacrifice-to-shedim-demons
 - i-kill-and-make-alive
-passages:
-- tradition: judaism
-  ref: Deut 32:16
-  note: They sacrificed to shedim (demons), no-gods, new gods their fathers did not know
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַקְנִאֻ֖הוּ בְּזָרִ֑ים בְּתוֹעֵבֹ֖ת יַכְעִיסֻֽהוּ
-- tradition: judaism
-  ref: Deut 32:17
-  note: They sacrificed to shedim (demons), no-gods, new gods their fathers did not know
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַ אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ לֹ֥א
-    שְׂעָר֖וּם אֲבֹתֵיכֶֽם
-- tradition: islam
-  ref: Quran 22:71
-  note: 'They sacrificed to shedim (demons), no-gods, new gods their fathers did not know (wa-yaʿbudūna
-    min dūni llāhi mā lam yunazzil bihi sulṭānan wa-mā laysa lahum bihi ʿilmun ~ ʾĕlōhîm lōʾ yədāʿûm ḥădāšîm
-    mi-qqārōv bāʾû: gods with no warrant, of whom the worshippers have no knowledge (ʿilm / yādaʿ).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًا وَمَا لَيْسَ لَهُم بِهِۦ عِلْمٌ
-    وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
-- tradition: judaism
-  ref: Deut 32:39
-  note: I kill and I make alive, I wound and I heal; there is no god beside me (אני אני הוא)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 22:66
-  note: 'I kill and I make alive, I wound and I heal; there is no god beside me (huwa lladhī aḥyākum thumma
-    yumītukum thumma yuḥyīkum ~ ʾănî ʾāmît wa-ʾăḥayyeh: God alone kills and gives life (amāta/aḥyā ~ hēmît/ḥiyyâ).
-    The Quran makes it a sequence of life, death and second life (resurrection); Deut sets death first
-    and adds wounding and healing.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ ٱلْإِنسَٰنَ لَكَفُورٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo, parallel. huwa lladhī aḥyākum thumma yumītukum thumma yuḥyīkum ~ ʾănî ʾāmît wa-ʾăḥayyeh: God
-    alone kills and gives life (amāta/aḥyā ~ hēmît/ḥiyyâ). The Quran makes it a sequence of life, death
-    and second life (resurrection); Deut sets death first and adds wounding and healing. wa-yaʿbudūna
-    min dūni llāhi mā lam yunazzil bihi sulṭānan wa-mā laysa lahum bihi ʿilmun ~ ʾĕlōhîm lōʾ yədāʿûm ḥădāšîm
-    mi-qqārōv bāʾû: gods with no warrant, of whom the worshippers have no knowledge (ʿilm / yādaʿ).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They sacrificed to shedim (demons), no-gods, new gods their fathers
     did not know (weight 6.3); I kill and I make alive, I wound and I heal; there is no god beside me
@@ -95,6 +51,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: I kill and I make alive, I wound and I heal; there is no god beside me
+kinds:
+- parallel
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-22-signs-and-rites
+  title: Migrants provided for; the night and day, the held sky, a rite for every nation
+  tradition: islam
+matches:
+- kind: parallel
+  label: I kill and I make alive, I wound and I heal; there is no god beside me
+  note: 'huwa lladhī aḥyākum thumma yumītukum thumma yuḥyīkum ~ ʾănî ʾāmît wa-ʾăḥayyeh: God alone kills
+    and gives life (amāta/aḥyā ~ hēmît/ḥiyyâ). The Quran makes it a sequence of life, death and second
+    life (resurrection); Deut sets death first and adds wounding and healing.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 22:66
+      lang: ar
+      text: وَهُوَ ٱلَّذِىٓ أَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ إِنَّ ٱلْإِنسَٰنَ لَكَفُورٌ
+- kind: echo
+  label: They sacrificed to shedim (demons), no-gods, new gods their fathers did not know
+  note: 'wa-yaʿbudūna min dūni llāhi mā lam yunazzil bihi sulṭānan wa-mā laysa lahum bihi ʿilmun ~ ʾĕlōhîm
+    lōʾ yədāʿûm ḥădāšîm mi-qqārōv bāʾû: gods with no warrant, of whom the worshippers have no knowledge
+    (ʿilm / yādaʿ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:17
+      lang: he
+      text: יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַ אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ
+        לֹ֥א שְׂעָר֖וּם אֲבֹתֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:71
+      lang: ar
+      text: وَيَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَمْ يُنَزِّلْ بِهِۦ سُلْطَٰنًا وَمَا لَيْسَ لَهُم بِهِۦ
+        عِلْمٌ وَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ
 ---
 
 ## Questions

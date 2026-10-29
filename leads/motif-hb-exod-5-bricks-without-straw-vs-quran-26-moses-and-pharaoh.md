@@ -2,9 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-26-moses-and-pharaoh
 title: First audience with Pharaoh; bricks without straw ↔ Moses and Pharaoh disputing; the magicians;
   the sea split like mountains
-summary: 'These two units share 3 motifs: pharaoh''s question about, or claim to know, the god of moses
-  [divergence between the texts], king defies the prophet: ''who is yhwh that i should obey him?'', prophet
-  delivers god''s demand ''let my people go that they may serve me''.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,84 +18,9 @@ motifs:
 - pharaohs-question-about-the-god-as-divergence
 - who-is-yhwh-defiance
 - let-my-people-go-demand
-passages:
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]
-    (Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā
-    rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt
-    will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth,
-    your Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad
-    (la-majnūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 26:23
-  note: 'Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]
-    (Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā
-    rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt
-    will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth,
-    your Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad
-    (la-majnūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:24
-  note: 'Pharaoh''s question about, or claim to know, the god of Moses [divergence between the texts]
-    (Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā
-    rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt
-    will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth,
-    your Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad
-    (la-majnūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ إِن كُنتُم مُّوقِنِينَ
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''I do not know YHWH'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 26:23
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''And what is the Lord of the
-    worlds?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Exod 5:1
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('that they may hold a
-    festival (hag) to me in the wilderness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: islam
-  ref: Quran 26:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:17
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence, parallel. an arsil maʿanā banī Isrāʾīla ~ šallaḥ ʾet ʿammî: the same verb ''send away
-    / release'' (arsala / šillaḥ). Exodus says it in the prophetic formula kōh ʾāmar YHWH ʾĕlōhê Yiśrāʾēl
-    and adds wə-yāḥōggû lî ba-mmidbār; the Quran''s speakers are messengers of the Lord of the worlds.
-    Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā rabbu
-    l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt will
-    know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth, your
-    Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad (la-majnūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh''s question about, or claim to know, the god of Moses [divergence
     between the texts] (weight 6.3); King defies the prophet: ''Who is YHWH that I should obey him?''
@@ -135,6 +58,80 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh's question about, or claim to know, the god of Moses
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh's question about, or claim to know, the god of Moses
+  note: 'Pharaoh''s question about the god: mî YHWH ʾăšer ʾešmaʿ bə-qōlô ... lōʾ yādaʿtî ʾet YHWH ~ wa-mā
+    rabbu l-ʿālamīna. In Exodus Moses gives no answer and God answers through the plagues (so that Egypt
+    will know, 7:5); in the Quran Moses answers at once in a three-step creed (Lord of heavens and earth,
+    your Lord and your fathers'' Lord, Lord of east and west), and Pharaoh mocks him to his court as mad
+    (la-majnūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:23
+      lang: ar
+      text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:24
+      lang: ar
+      text: قَالَ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ إِن كُنتُم مُّوقِنِينَ
+    - ref: Quran 26:25
+      lang: ar
+      text: قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ
+- kind: parallel
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  note: 'an arsil maʿanā banī Isrāʾīla ~ šallaḥ ʾet ʿammî: the same verb ''send away / release'' (arsala
+    / šillaḥ). Exodus says it in the prophetic formula kōh ʾāmar YHWH ʾĕlōhê Yiśrāʾēl and adds wə-yāḥōggû
+    lî ba-mmidbār; the Quran''s speakers are messengers of the Lord of the worlds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:1
+      lang: he
+      text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י
+        יִשְׂרָאֵ֔ל שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 26:16
+      lang: ar
+      text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:17
+      lang: ar
+      text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: 'King defies the prophet: ''Who is YHWH that I should obey him?'''
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+    note: '''I do not know YHWH'''
+  - tradition: islam
+    passages:
+    - ref: Quran 26:23
+      lang: ar
+      text: قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَٰلَمِينَ
+    note: '''And what is the Lord of the worlds?'''
 ---
 
 ## Questions

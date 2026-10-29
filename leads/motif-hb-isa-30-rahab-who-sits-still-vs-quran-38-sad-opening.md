@@ -2,8 +2,7 @@
 id: motif-hb-isa-30-rahab-who-sits-still-vs-quran-38-sad-opening
 title: 'Woe to the rebellious children going down to Egypt; returning and rest; the Teacher; Topheth prepared
   ↔ Sad: the chiefs marvel at one God; the confederates of old'
-summary: 'These two units share 1 motifs: the chiefs marvel ''has he made the gods one god?'' and urge
-  each other to stay patient with their gods.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - chiefs-amazed-gods-made-one-god
-passages:
-- tradition: judaism
-  ref: Isa 30:10
-  note: 'The chiefs marvel ''Has he made the gods one God?'' and urge each other to stay patient with
-    their gods (ʾăšer ʾāmərû lā-rōʾîm lōʾ ṯirʾû ... hašbîṯû mi-pp̄ānênû ʾeṯ-qəḏôš yiśrāʾēl vs. imshū wa-ṣbirū
-    ʿalā ālihatikum ... mā samiʿnā bi-hādhā fī l-millati l-ākhira: leaders tell the people to shut out
-    the message and keep to their own ways. Lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר אָמְר֤וּ לָֽרֹאִים֙ לֹ֣א תִרְא֔וּ וְלַ֣חֹזִ֔ים לֹ֥א תֶחֱזוּ לָ֖נוּ נְכֹח֑וֹת דַּבְּרוּ
-    לָ֣נוּ חֲלָק֔וֹת חֲז֖וּ מַהֲתַלּֽוֹת
-- tradition: judaism
-  ref: Isa 30:11
-  note: 'The chiefs marvel ''Has he made the gods one God?'' and urge each other to stay patient with
-    their gods (ʾăšer ʾāmərû lā-rōʾîm lōʾ ṯirʾû ... hašbîṯû mi-pp̄ānênû ʾeṯ-qəḏôš yiśrāʾēl vs. imshū wa-ṣbirū
-    ʿalā ālihatikum ... mā samiʿnā bi-hādhā fī l-millati l-ākhira: leaders tell the people to shut out
-    the message and keep to their own ways. Lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ס֚וּרוּ מִנֵּי דֶ֔רֶךְ הַטּ֖וּ מִנֵּי אֹ֑רַח הַשְׁבִּ֥יתוּ מִפָּנֵ֖ינוּ אֶת קְד֥וֹשׁ יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 38:5
-  note: The chiefs marvel 'Has he made the gods one God?' and urge each other to stay patient with their
-    gods
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَجَعَلَ ٱلْءَالِهَةَ إِلَٰهًا وَٰحِدًا إِنَّ هَٰذَا لَشَىْءٌ عُجَابٌ
-- tradition: islam
-  ref: Quran 38:6
-  note: The chiefs marvel 'Has he made the gods one God?' and urge each other to stay patient with their
-    gods
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ إِنَّ هَٰذَا لَشَىْءٌ
-    يُرَادُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾăšer ʾāmərû lā-rōʾîm lōʾ ṯirʾû ... hašbîṯû mi-pp̄ānênû ʾeṯ-qəḏôš yiśrāʾēl vs. imshū wa-ṣbirū
-    ʿalā ālihatikum ... mā samiʿnā bi-hādhā fī l-millati l-ākhira: leaders tell the people to shut out
-    the message and keep to their own ways. Lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The chiefs marvel ''Has he made the gods one God?'' and urge each
     other to stay patient with their gods (weight 6.7). Pair score 6.7.'
@@ -94,6 +56,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The chiefs marvel 'Has he made the gods one God?' and urge each other to stay patient with their
+  gods
+kinds:
+- echo
+units:
+- id: hb-isa-30-rahab-who-sits-still
+  title: Woe to the rebellious children going down to Egypt; returning and rest; the Teacher; Topheth
+    prepared
+  tradition: judaism
+- id: quran-38-sad-opening
+  title: 'Sad: the chiefs marvel at one God; the confederates of old'
+  tradition: islam
+matches:
+- kind: echo
+  label: The chiefs marvel 'Has he made the gods one God?' and urge each other to stay patient with their
+    gods
+  note: 'ʾăšer ʾāmərû lā-rōʾîm lōʾ ṯirʾû ... hašbîṯû mi-pp̄ānênû ʾeṯ-qəḏôš yiśrāʾēl vs. imshū wa-ṣbirū
+    ʿalā ālihatikum ... mā samiʿnā bi-hādhā fī l-millati l-ākhira: leaders tell the people to shut out
+    the message and keep to their own ways. Lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 30:10
+      lang: he
+      text: אֲשֶׁ֨ר אָמְר֤וּ לָֽרֹאִים֙ לֹ֣א תִרְא֔וּ וְלַ֣חֹזִ֔ים לֹ֥א תֶחֱזוּ לָ֖נוּ נְכֹח֑וֹת דַּבְּרוּ
+        לָ֣נוּ חֲלָק֔וֹת חֲז֖וּ מַהֲתַלּֽוֹת
+    - ref: Isa 30:11
+      lang: he
+      text: ס֚וּרוּ מִנֵּי דֶ֔רֶךְ הַטּ֖וּ מִנֵּי אֹ֑רַח הַשְׁבִּ֥יתוּ מִפָּנֵ֖ינוּ אֶת קְד֥וֹשׁ יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 38:6
+      lang: ar
+      text: وَٱنطَلَقَ ٱلْمَلَأُ مِنْهُمْ أَنِ ٱمْشُوا۟ وَٱصْبِرُوا۟ عَلَىٰٓ ءَالِهَتِكُمْ إِنَّ هَٰذَا
+        لَشَىْءٌ يُرَادُ
+    - ref: Quran 38:7
+      lang: ar
+      text: مَا سَمِعْنَا بِهَٰذَا فِى ٱلْمِلَّةِ ٱلْءَاخِرَةِ إِنْ هَٰذَآ إِلَّا ٱخْتِلَٰقٌ
 ---
 
 ## Questions

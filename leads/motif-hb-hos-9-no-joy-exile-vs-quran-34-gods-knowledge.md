@@ -2,7 +2,7 @@
 id: motif-hb-hos-9-no-joy-exile-vs-quran-34-gods-knowledge
 title: No rejoicing for Israel; exile, the mad prophet, Baal-peor ↔ Praise, the atom's weight, and mockery
   of resurrection
-summary: 'These two units share 1 motifs: officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: Hos 9:7
-  note: 'Officers call the visiting prophet ''this madman'' (meshugga'') (ʾĕwîl ha-nnāḇîʾ məšuggāʿ ʾîš
-    hā-rûaḥ (the prophet is a fool, the man of spirit mad) vs. aftarā ʿalā llāhi kadhiban am bihi jinnatun:
-    the inspired man dismissed as mad. Hosea quotes the people''s verdict as a sign of their guilt (ʿal
-    rōḇ ʿăwōnḵā), as the Quran answers bali lladhīna lā yuʾminūna ... fī l-ʿadhāb.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּ֣אוּ יְמֵ֣י הַפְּקֻדָּ֗ה בָּ֚אוּ יְמֵ֣י הַשִׁלֻּ֔ם יֵדְע֖וּ יִשְׂרָאֵ֑ל אֱוִ֣יל הַנָּבִ֗יא
-    מְשֻׁגָּע֙ אִ֣ישׁ הָר֔וּחַ עַ֚ל רֹ֣ב עֲוֺנְךָ֔ וְרַבָּ֖ה מַשְׂטֵמָֽה
-- tradition: islam
-  ref: Quran 34:8
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ
-    فِى ٱلْعَذَابِ وَٱلضَّلَٰلِ ٱلْبَعِيدِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾĕwîl ha-nnāḇîʾ məšuggāʿ ʾîš hā-rûaḥ (the prophet is a fool, the man of spirit mad) vs. aftarā
-    ʿalā llāhi kadhiban am bihi jinnatun: the inspired man dismissed as mad. Hosea quotes the people''s
-    verdict as a sign of their guilt (ʿal rōḇ ʿăwōnḵā), as the Quran answers bali lladhīna lā yuʾminūna
-    ... fī l-ʿadhāb.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
     (weight 5.1). Pair score 5.1.'
@@ -65,6 +44,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Officers call the visiting prophet 'this madman' (meshugga')
+kinds:
+- echo
+units:
+- id: hb-hos-9-no-joy-exile
+  title: No rejoicing for Israel; exile, the mad prophet, Baal-peor
+  tradition: judaism
+- id: quran-34-gods-knowledge
+  title: Praise, the atom's weight, and mockery of resurrection
+  tradition: islam
+matches:
+- kind: echo
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  note: 'ʾĕwîl ha-nnāḇîʾ məšuggāʿ ʾîš hā-rûaḥ (the prophet is a fool, the man of spirit mad) vs. aftarā
+    ʿalā llāhi kadhiban am bihi jinnatun: the inspired man dismissed as mad. Hosea quotes the people''s
+    verdict as a sign of their guilt (ʿal rōḇ ʿăwōnḵā), as the Quran answers bali lladhīna lā yuʾminūna
+    ... fī l-ʿadhāb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 9:7
+      lang: he
+      text: בָּ֣אוּ יְמֵ֣י הַפְּקֻדָּ֗ה בָּ֚אוּ יְמֵ֣י הַשִׁלֻּ֔ם יֵדְע֖וּ יִשְׂרָאֵ֑ל אֱוִ֣יל הַנָּבִ֗יא
+        מְשֻׁגָּע֙ אִ֣ישׁ הָר֔וּחַ עַ֚ל רֹ֣ב עֲוֺנְךָ֔ וְרַבָּ֖ה מַשְׂטֵמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 34:8
+      lang: ar
+      text: أَفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَم بِهِۦ جِنَّةٌۢ بَلِ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱلْءَاخِرَةِ
+        فِى ٱلْعَذَابِ وَٱلضَّلَٰلِ ٱلْبَعِيدِ
 ---
 
 ## Questions

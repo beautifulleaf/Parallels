@@ -2,8 +2,7 @@
 id: motif-hb-prov-27-sayings-vs-quran-68-qalam-companions-of-the-garden
 title: Sayings on tomorrow, friends and the care of flocks ↔ The companions of the garden who swore to
   harvest without 'if God wills' and to exclude the poor
-summary: 'These two units share 1 motifs: do not boast about tomorrow, for you do not know what a day
-  may bring forth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - do-not-boast-of-tomorrow
-passages:
-- tradition: judaism
-  ref: Prov 27:1
-  note: Do not boast about tomorrow, for you do not know what a day may bring forth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
-- tradition: islam
-  ref: Quran 68:18
-  note: Do not boast about tomorrow, for you do not know what a day may bring forth (no istithna' (saying
-    'if God wills'))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا يَسْتَثْنُونَ
-- tradition: islam
-  ref: Quran 68:17
-  note: Do not boast about tomorrow, for you do not know what a day may bring forth (no istithna' (saying
-    'if God wills'))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. idh aqsamū la-yaṣrimunnahā muṣbiḥīn wa-lā yastathnūn (they swore to harvest at dawn and
-    made no exception, i.e. did not say in shāʾa llāh) ~ ʾal tithallēl be-yôm māḥār kî lōʾ tēdaʿ mah yēled
-    yôm. Proverbs gives the maxim, the Quran the story that shows it.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not boast about tomorrow, for you do not know what a day may
     bring forth (weight 6.7). Pair score 6.7.'
@@ -75,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not boast about tomorrow, for you do not know what a day may bring forth
+kinds:
+- parallel
+units:
+- id: hb-prov-27-sayings
+  title: Sayings on tomorrow, friends and the care of flocks
+  tradition: judaism
+- id: quran-68-qalam-companions-of-the-garden
+  title: The companions of the garden who swore to harvest without 'if God wills' and to exclude the poor
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not boast about tomorrow, for you do not know what a day may bring forth
+  note: idh aqsamū la-yaṣrimunnahā muṣbiḥīn wa-lā yastathnūn (they swore to harvest at dawn and made no
+    exception, i.e. did not say in shāʾa llāh) ~ ʾal tithallēl be-yôm māḥār kî lōʾ tēdaʿ mah yēled yôm.
+    Proverbs gives the maxim, the Quran the story that shows it.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 27:1
+      lang: he
+      text: אַֽל תִּ֭תְהַלֵּל בְּי֣וֹם מָחָ֑ר כִּ֤י לֹא תֵ֝דַ֗ע מַה יֵּ֥לֶד יֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 68:17
+      lang: ar
+      text: إِنَّا بَلَوْنَٰهُمْ كَمَا بَلَوْنَآ أَصْحَٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا
+        مُصْبِحِينَ
+    - ref: Quran 68:18
+      lang: ar
+      text: وَلَا يَسْتَثْنُونَ
 ---
 
 ## Questions

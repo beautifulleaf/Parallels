@@ -2,8 +2,7 @@
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-5-war-on-god-theft
 title: Zephaniah's Day of YHWH against Judah ↔ Penalty for waging war on God; the ransom of the earth;
   the thief's hand
-summary: 'These two units share 1 motifs: neither their silver nor their gold can save them on the day
-  of yhwh''s wrath.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - silver-gold-cannot-save-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Zeph 1:18
-  note: Neither their silver nor their gold can save them on the day of YHWH's wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙ קִנְאָת֔וֹ
-    תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 5:36
-  note: 'Neither their silver nor their gold can save them on the day of YHWH''s wrath (Zeph: gam-kaspām
-    gam-zəhāvām lōʾ-yûkhal ləhaṣṣîlām bə-yôm ʿebrat YHWH. Q: mā fī l-arḍi jamīʿan wa-mithlahu maʿahu ...
-    mā tuqubbila minhum. Wealth cannot buy rescue on the day of wrath or of resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لِيَفْتَدُوا۟
-    بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَٰمَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Zeph: gam-kaspām gam-zəhāvām lōʾ-yûkhal ləhaṣṣîlām bə-yôm ʿebrat YHWH. Q: mā fī l-arḍi jamīʿan
-    wa-mithlahu maʿahu ... mā tuqubbila minhum. Wealth cannot buy rescue on the day of wrath or of resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Neither their silver nor their gold can save them on the day of
     YHWH''s wrath (weight 6.3). Pair score 6.3.'
@@ -67,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Neither their silver nor their gold can save them on the day of YHWH's wrath
+kinds:
+- echo
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-5-war-on-god-theft
+  title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+  tradition: islam
+matches:
+- kind: echo
+  label: Neither their silver nor their gold can save them on the day of YHWH's wrath
+  note: 'Zeph: gam-kaspām gam-zəhāvām lōʾ-yûkhal ləhaṣṣîlām bə-yôm ʿebrat YHWH. Q: mā fī l-arḍi jamīʿan
+    wa-mithlahu maʿahu ... mā tuqubbila minhum. Wealth cannot buy rescue on the day of wrath or of resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:18
+      lang: he
+      text: גַּם כַּסְפָּ֨ם גַּם זְהָבָ֜ם לֹֽא יוּכַ֣ל לְהַצִּילָ֗ם בְּיוֹם֙ עֶבְרַ֣ת יְהוָ֔ה וּבְאֵשׁ֙
+        קִנְאָת֔וֹ תֵּאָכֵ֖ל כָּל הָאָ֑רֶץ כִּֽי כָלָ֤ה אַךְ נִבְהָלָה֙ יַֽעֲשֶׂ֔ה אֵ֥ת כָּל יֹשְׁבֵ֖י
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:36
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَوْ أَنَّ لَهُم مَّا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ
+        لِيَفْتَدُوا۟ بِهِۦ مِنْ عَذَابِ يَوْمِ ٱلْقِيَٰمَةِ مَا تُقُبِّلَ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

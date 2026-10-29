@@ -2,7 +2,7 @@
 id: motif-hb-ps-135-hymn-of-election-vs-quran-63-munafiqun-propped-timbers
 title: 'Psalm 135, hymn on God''s power, election and the idols ↔ Al-Munafiqun: false testimony, propped-up
   timbers, ''the mightier will expel the meaner'', and the deathbed plea for delay'
-summary: 'These two units share 1 motifs: god opens his good storehouse, the heavens, to give rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-storehouse-of-rain
-passages:
-- tradition: judaism
-  ref: Ps 135:7
-  note: God opens his good storehouse, the heavens, to give rain
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
-- tradition: islam
-  ref: Quran 63:7
-  note: God opens his good storehouse, the heavens, to give rain (God's are the treasuries (khaza'in)
-    of heaven and earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟
-    وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-li-llāhi khazāʾinu s-samāwāti wa-l-arḍ ~ môṣēʾ rûaḥ mē-ʾôṣerôtāyw (wind from his storehouses).
-    Shared image of divine treasuries; the Quran uses it against the hypocrites'' ''do not spend on those
-    with the messenger''.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God opens his good storehouse, the heavens, to give rain (weight
     5.3). Pair score 5.3.'
@@ -72,6 +55,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God opens his good storehouse, the heavens, to give rain
+kinds:
+- echo
+units:
+- id: hb-ps-135-hymn-of-election
+  title: Psalm 135, hymn on God's power, election and the idols
+  tradition: judaism
+- id: quran-63-munafiqun-propped-timbers
+  title: 'Al-Munafiqun: false testimony, propped-up timbers, ''the mightier will expel the meaner'', and
+    the deathbed plea for delay'
+  tradition: islam
+matches:
+- kind: echo
+  label: God opens his good storehouse, the heavens, to give rain
+  note: wa-li-llāhi khazāʾinu s-samāwāti wa-l-arḍ ~ môṣēʾ rûaḥ mē-ʾôṣerôtāyw (wind from his storehouses).
+    Shared image of divine treasuries; the Quran uses it against the hypocrites' 'do not spend on those
+    with the messenger'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 135:7
+      lang: he
+      text: מַֽעֲלֶ֣ה נְשִׂאִים֮ מִקְצֵ֪ה הָ֫אָ֥רֶץ בְּרָקִ֣ים לַמָּטָ֣ר עָשָׂ֑ה מֽוֹצֵא ר֝וּחַ מֵאֽוֹצְרוֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 63:7
+      lang: ar
+      text: هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟
+        وَلِلَّهِ خَزَآئِنُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَٰكِنَّ ٱلْمُنَٰفِقِينَ لَا يَفْقَهُونَ
 ---
 
 ## Questions

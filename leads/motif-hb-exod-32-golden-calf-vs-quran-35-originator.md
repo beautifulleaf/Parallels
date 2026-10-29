@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-32-golden-calf-vs-quran-35-originator
 title: The golden calf ↔ The Originator, winged angels, and the two seas
-summary: 'These two units share 1 motifs: if god willed he could remove you and bring a new creation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,35 +13,9 @@ layers:
 - motif
 motifs:
 - god-can-replace-humanity-with-new-creation
-passages:
-- tradition: judaism
-  ref: Exod 32:10
-  note: 'If God willed he could remove you and bring a new creation (wə-yiḥar-ʾappî ḇāhem wa-ʾăḵallēm
-    wə-ʾeʿĕśeh ʾôṯəḵā lə-ḡôy gāḏôl vs. in yashaʾ yudhhibkum wa-yaʾti bi-khalqin jadīdin wa-mā dhālika
-    ʿalā llāhi bi-ʿazīz: God can do away with a people and start again. In Exodus it is a concrete threat
-    to Israel, turned aside by Moses; in the Quran a general statement about humankind (yā-ayyuhā n-nās,
-    35:15).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּה֙ הַנִּ֣יחָה לִּ֔י וְיִֽחַר אַפִּ֥י בָהֶ֖ם וַאֲכַלֵּ֑ם וְאֶֽעֱשֶׂ֥ה אוֹתְךָ֖ לְג֥וֹי גָּדֽוֹל
-- tradition: islam
-  ref: Quran 35:16
-  note: If God willed he could remove you and bring a new creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
-- tradition: islam
-  ref: Quran 35:17
-  note: If God willed he could remove you and bring a new creation
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-yiḥar-ʾappî ḇāhem wa-ʾăḵallēm wə-ʾeʿĕśeh ʾôṯəḵā lə-ḡôy gāḏôl vs. in yashaʾ yudhhibkum wa-yaʾti
-    bi-khalqin jadīdin wa-mā dhālika ʿalā llāhi bi-ʿazīz: God can do away with a people and start again.
-    In Exodus it is a concrete threat to Israel, turned aside by Moses; in the Quran a general statement
-    about humankind (yā-ayyuhā n-nās, 35:15).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If God willed he could remove you and bring a new creation (weight
     6.3). Pair score 6.3.'
@@ -76,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If God willed he could remove you and bring a new creation
+kinds:
+- echo
+units:
+- id: hb-exod-32-golden-calf
+  title: The golden calf
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: echo
+  label: If God willed he could remove you and bring a new creation
+  note: 'wə-yiḥar-ʾappî ḇāhem wa-ʾăḵallēm wə-ʾeʿĕśeh ʾôṯəḵā lə-ḡôy gāḏôl vs. in yashaʾ yudhhibkum wa-yaʾti
+    bi-khalqin jadīdin wa-mā dhālika ʿalā llāhi bi-ʿazīz: God can do away with a people and start again.
+    In Exodus it is a concrete threat to Israel, turned aside by Moses; in the Quran a general statement
+    about humankind (yā-ayyuhā n-nās, 35:15).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:10
+      lang: he
+      text: וְעַתָּה֙ הַנִּ֣יחָה לִּ֔י וְיִֽחַר אַפִּ֥י בָהֶ֖ם וַאֲכַלֵּ֑ם וְאֶֽעֱשֶׂ֥ה אוֹתְךָ֖ לְג֥וֹי
+        גָּדֽוֹל
+  - tradition: islam
+    passages:
+    - ref: Quran 35:16
+      lang: ar
+      text: إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ
+    - ref: Quran 35:17
+      lang: ar
+      text: وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ
 ---
 
 ## Questions

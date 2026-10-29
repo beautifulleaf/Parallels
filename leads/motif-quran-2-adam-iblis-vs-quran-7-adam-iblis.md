@@ -1,9 +1,7 @@
 ---
 id: motif-quran-2-adam-iblis-vs-quran-7-adam-iblis
 title: Adam, the angels and Iblis ↔ The prostration to Adam, Iblis' refusal and the fall
-summary: 'These two units share 7 motifs: first humans expelled from the garden [divergence between the
-  texts], first humans expelled from the garden, a cunning serpent persuades the woman to eat the forbidden
-  fruit, god commands the angels to prostrate before the first man, and they do….'
+summary: 7 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -16,159 +14,17 @@ motifs:
 - expulsion-from-paradise-as-divergence
 - expulsion-from-paradise
 - serpent-tempter
-- angels-commanded-to-prostrate-to-adam
-- tree-of-knowledge-forbidden
 - devil-refuses-to-bow-to-adam
+- tree-of-knowledge-forbidden
+- angels-commanded-to-prostrate-to-adam
 - garden-of-god-in-east
-passages:
-- tradition: islam
-  ref: Quran 2:36
-  note: 'First humans expelled from the garden [divergence between the texts] (Gen 3:23-24 wa-yšallĕḥēhû
-    YHWH ʾĕlōhîm ... wa-ygāreš ʾet hā-ʾādām, with cherubim and a flaming sword guarding the tree of life:
-    God drives the man out; Q 2:36 fa-akhrajahumā mimmā kānā fīhi: Satan is the subject who ''brought
-    them out'', then God''s ihbiṭū ''go down'' (2:36, 2:38), addressed to a plural. No cherubim, no tree
-    of life.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ
-    لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
-- tradition: islam
-  ref: Quran 2:38
-  note: 'First humans expelled from the garden [divergence between the texts] (Gen 3:23-24 wa-yšallĕḥēhû
-    YHWH ʾĕlōhîm ... wa-ygāreš ʾet hā-ʾādām, with cherubim and a flaming sword guarding the tree of life:
-    God drives the man out; Q 2:36 fa-akhrajahumā mimmā kānā fīhi: Satan is the subject who ''brought
-    them out'', then God''s ihbiṭū ''go down'' (2:36, 2:38), addressed to a plural. No cherubim, no tree
-    of life.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ
-    فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-- tradition: islam
-  ref: Quran 7:24
-  note: 'First humans expelled from the garden [divergence between the texts] (Gen: wa-yšalləḥēhû ...
-    wa-ygāreš ʾet-hā-ʾādām, with cherubim and the flaming sword guarding the tree of life, lest he eat
-    and live forever. Q: ihbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun ilā ḥīnin. A descent to
-    a temporary home, with no guard, no tree of life and no fear of human immortality.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ
-    حِينٍ
-- tradition: islam
-  ref: Quran 2:36
-  note: First humans expelled from the garden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ
-    لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
-- tradition: islam
-  ref: Quran 2:38
-  note: First humans expelled from the garden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ
-    فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
-- tradition: islam
-  ref: Quran 7:24
-  note: First humans expelled from the garden (ihbitu, plural)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ
-    حِينٍ
-- tradition: islam
-  ref: Quran 2:36
-  note: A cunning serpent persuades the woman to eat the forbidden fruit (the tempter is al-shaytan, not
-    a serpent)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟ بَعْضُكُمْ
-    لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
-- tradition: islam
-  ref: Quran 7:20
-  note: A cunning serpent persuades the woman to eat the forbidden fruit (the tempter is al-shaytan, no
-    serpent)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا وَقَالَ
-    مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ تَكُونَا
-    مِنَ ٱلْخَٰلِدِينَ
-- tradition: islam
-  ref: Quran 2:34
-  note: God commands the angels to prostrate before the first man, and they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ
-    وَكَانَ مِنَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 7:11
-  note: God commands the angels to prostrate before the first man, and they do
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 2:35
-  note: A tree of knowledge whose fruit is forbidden ('this tree', unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
-    وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:19
-  note: A tree of knowledge whose fruit is forbidden ('this tree', unnamed; do not even approach it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
-    هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:22
-  note: A tree of knowledge whose fruit is forbidden ('this tree', unnamed; do not even approach it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا يَخْصِفَانِ
-    عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن تِلْكُمَا ٱلشَّجَرَةِ
-    وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ
-- tradition: islam
-  ref: Quran 2:34
-  note: The devil (Iblis) alone refuses to bow to the first man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ وَٱسْتَكْبَرَ
-    وَكَانَ مِنَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 7:11
-  note: The devil (Iblis) alone refuses to bow to the first man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
-    فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
-- tradition: islam
-  ref: Quran 7:12
-  note: The devil (Iblis) alone refuses to bow to the first man
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى مِن
-    نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
-- tradition: islam
-  ref: Quran 2:35
-  note: God plants a garden (Eden) in the east and places the first human there (al-janna; no location)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا
-    وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 7:19
-  note: God plants a garden (Eden) in the east and places the first human there (dwell in the garden;
-    no east, no name Eden here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
-    هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: First humans expelled from the garden [divergence between the texts]
     (weight 6.3); First humans expelled from the garden (weight 6.0); A cunning serpent persuades the
-    woman to eat the forbidden fruit (weight 6.0); God commands the angels to prostrate before the first
-    man, and they do (weight 5.8); A tree of knowledge whose fruit is forbidden (weight 5.8); The devil
-    (Iblis) alone refuses to bow to the first man (weight 5.8); God plants a garden (Eden) in the east
+    woman to eat the forbidden fruit (weight 6.0); The devil (Iblis) alone refuses to bow to the first
+    man (weight 5.8); A tree of knowledge whose fruit is forbidden (weight 5.8); God commands the angels
+    to prostrate before the first man, and they do (weight 5.8); God plants a garden (Eden) in the east
     and places the first human there (weight 5.6). Pair score 41.2.'
   basis: reading
 - text: 'Only in Adam, the angels and Iblis: God teaches Adam all the names and he recites them to the
@@ -202,6 +58,154 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First humans expelled from the garden
+kinds:
+- shared
+units:
+- id: quran-2-adam-iblis
+  title: Adam, the angels and Iblis
+  tradition: islam
+- id: quran-7-adam-iblis
+  title: The prostration to Adam, Iblis' refusal and the fall
+  tradition: islam
+matches:
+- kind: shared
+  label: First humans expelled from the garden
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:36
+      lang: ar
+      text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟
+        بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
+    - ref: Quran 2:38
+      lang: ar
+      text: قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ
+        فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+    note: 'Gen 3:23-24 wa-yšallĕḥēhû YHWH ʾĕlōhîm ... wa-ygāreš ʾet hā-ʾādām, with cherubim and a flaming
+      sword guarding the tree of life: God drives the man out; Q 2:36 fa-akhrajahumā mimmā kānā fīhi:
+      Satan is the subject who ''brought them out'', then God''s ihbiṭū ''go down'' (2:36, 2:38), addressed
+      to a plural. No cherubim, no tree of life.'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:24
+      lang: ar
+      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
+        إِلَىٰ حِينٍ
+    note: 'Gen: wa-yšalləḥēhû ... wa-ygāreš ʾet-hā-ʾādām, with cherubim and the flaming sword guarding
+      the tree of life, lest he eat and live forever. Q: ihbiṭū ... wa-lakum fī l-arḍi mustaqarrun wa-matāʿun
+      ilā ḥīnin. A descent to a temporary home, with no guard, no tree of life and no fear of human immortality.'
+- kind: shared
+  label: First humans expelled from the garden
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:36
+      lang: ar
+      text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟
+        بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
+    - ref: Quran 2:38
+      lang: ar
+      text: قُلْنَا ٱهْبِطُوا۟ مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُم مِّنِّى هُدًى فَمَن تَبِعَ هُدَاىَ
+        فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:24
+      lang: ar
+      text: قَالَ ٱهْبِطُوا۟ بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ
+        إِلَىٰ حِينٍ
+    note: ihbitu, plural
+- kind: shared
+  label: A cunning serpent persuades the woman to eat the forbidden fruit
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:36
+      lang: ar
+      text: فَأَزَلَّهُمَا ٱلشَّيْطَٰنُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا ٱهْبِطُوا۟
+        بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِى ٱلْأَرْضِ مُسْتَقَرٌّ وَمَتَٰعٌ إِلَىٰ حِينٍ
+    note: the tempter is al-shaytan, not a serpent
+  - tradition: islam
+    passages:
+    - ref: Quran 7:20
+      lang: ar
+      text: فَوَسْوَسَ لَهُمَا ٱلشَّيْطَٰنُ لِيُبْدِىَ لَهُمَا مَا وُۥرِىَ عَنْهُمَا مِن سَوْءَٰتِهِمَا
+        وَقَالَ مَا نَهَىٰكُمَا رَبُّكُمَا عَنْ هَٰذِهِ ٱلشَّجَرَةِ إِلَّآ أَن تَكُونَا مَلَكَيْنِ أَوْ
+        تَكُونَا مِنَ ٱلْخَٰلِدِينَ
+    note: the tempter is al-shaytan, no serpent
+- kind: shared
+  label: The devil (Iblis) alone refuses to bow to the first man
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:34
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
+        وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:11
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+        فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+    - ref: Quran 7:12
+      lang: ar
+      text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى
+        مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+- kind: shared
+  label: A tree of knowledge whose fruit is forbidden
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:35
+      lang: ar
+      text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ
+        شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    note: '''this tree'', unnamed'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:19
+      lang: ar
+      text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
+        هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    - ref: Quran 7:22
+      lang: ar
+      text: فَدَلَّىٰهُمَا بِغُرُورٍ فَلَمَّا ذَاقَا ٱلشَّجَرَةَ بَدَتْ لَهُمَا سَوْءَٰتُهُمَا وَطَفِقَا
+        يَخْصِفَانِ عَلَيْهِمَا مِن وَرَقِ ٱلْجَنَّةِ وَنَادَىٰهُمَا رَبُّهُمَآ أَلَمْ أَنْهَكُمَا عَن
+        تِلْكُمَا ٱلشَّجَرَةِ وَأَقُل لَّكُمَآ إِنَّ ٱلشَّيْطَٰنَ لَكُمَا عَدُوٌّ مُّبِينٌ
+    note: '''this tree'', unnamed; do not even approach it'
+- kind: shared
+  label: God commands the angels to prostrate before the first man, and they do
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:34
+      lang: ar
+      text: وَإِذْ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ أَبَىٰ
+        وَٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَٰفِرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:11
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَٰكُمْ ثُمَّ صَوَّرْنَٰكُمْ ثُمَّ قُلْنَا لِلْمَلَٰٓئِكَةِ ٱسْجُدُوا۟ لِءَادَمَ
+        فَسَجَدُوٓا۟ إِلَّآ إِبْلِيسَ لَمْ يَكُن مِّنَ ٱلسَّٰجِدِينَ
+- kind: shared
+  label: God plants a garden (Eden) in the east and places the first human there
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 2:35
+      lang: ar
+      text: وَقُلْنَا يَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ
+        شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    note: al-janna; no location
+  - tradition: islam
+    passages:
+    - ref: Quran 7:19
+      lang: ar
+      text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
+        هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    note: dwell in the garden; no east, no name Eden here
 ---
 
 ## Questions

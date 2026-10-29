@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-4-people-of-book-distortion
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Shifted words, 'we hear and disobey',
   and the people of the Sabbath
-summary: 'These two units share 1 motifs: those who claim to be pure are rebuked: god purifies whom he
-  will.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - self-praise-of-purity-rebuked
-passages:
-- tradition: judaism
-  ref: Prov 20:9
-  note: 'Those who claim to be pure are rebuked: God purifies whom he will (Both use the same root z-k-y/z-k-h
-    for self-purification. Q: alladhīna yuzakkūna anfusahum bali llāhu yuzakkī man yashāʾ. Prov: mî yōʾmar
-    zikkîtî libbî ṭāhartî mē-ḥaṭṭāʾtî (''who can say: I have made my heart pure'').)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי יֹ֭אמַר זִכִּ֣יתִי לִבִּ֑י טָ֝הַ֗רְתִּי מֵחַטָּאתִֽי
-- tradition: islam
-  ref: Quran 4:49
-  note: 'Those who claim to be pure are rebuked: God purifies whom he will'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا يُظْلَمُونَ
-    فَتِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Both use the same root z-k-y/z-k-h for self-purification. Q: alladhīna yuzakkūna anfusahum bali
-    llāhu yuzakkī man yashāʾ. Prov: mî yōʾmar zikkîtî libbî ṭāhartî mē-ḥaṭṭāʾtî (''who can say: I have
-    made my heart pure'').'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who claim to be pure are rebuked: God purifies whom he will
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Those who claim to be pure are rebuked: God purifies whom he will'
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Those who claim to be pure are rebuked: God purifies whom he will'
+  note: 'Both use the same root z-k-y/z-k-h for self-purification. Q: alladhīna yuzakkūna anfusahum bali
+    llāhu yuzakkī man yashāʾ. Prov: mî yōʾmar zikkîtî libbî ṭāhartî mē-ḥaṭṭāʾtî (''who can say: I have
+    made my heart pure'').'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:9
+      lang: he
+      text: מִֽי יֹ֭אמַר זִכִּ֣יתִי לִבִּ֑י טָ֝הַ֗רְתִּי מֵחַטָּאתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:49
+      lang: ar
+      text: أَلَمْ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُم بَلِ ٱللَّهُ يُزَكِّى مَن يَشَآءُ وَلَا
+        يُظْلَمُونَ فَتِيلًا
 ---
 
 ## Questions

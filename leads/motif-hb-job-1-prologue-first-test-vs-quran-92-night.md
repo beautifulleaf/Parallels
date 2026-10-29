@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-1-prologue-first-test-vs-quran-92-night
 title: 'Job''s piety, the heavenly council and the first test ↔ The night: the giver and the miser'
-summary: 'These two units share 1 motifs: the righteous give and feed solely for the face of god, seeking
-  no repayment or thanks.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +13,9 @@ layers:
 - motif
 motifs:
 - giving-for-gods-face-not-repayment
-passages:
-- tradition: judaism
-  ref: Job 1:9
-  note: 'The righteous give and feed solely for the face of God, seeking no repayment or thanks (alladhī
-    yuʾtī mālahu yatazakkā wa-mā li-aḥadin ʿindahu min niʿmatin tujzā illā btighāʾa wajhi rabbihi l-aʿlā
-    ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm: piety without reward as the question. Satan doubts it of Job; the
-    Quran affirms it of the giver who seeks only God''s face.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧עַן הַשָּׂטָ֛ן אֶת יְהוָ֖ה וַיֹּאמַ֑ר הַֽחִנָּ֔ם יָרֵ֥א אִיּ֖וֹב אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 92:18
-  note: The righteous give and feed solely for the face of God, seeking no repayment or thanks
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
-- tradition: islam
-  ref: Quran 92:19
-  note: The righteous give and feed solely for the face of God, seeking no repayment or thanks
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. alladhī yuʾtī mālahu yatazakkā wa-mā li-aḥadin ʿindahu min niʿmatin tujzā illā btighāʾa wajhi
-    rabbihi l-aʿlā ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm: piety without reward as the question. Satan doubts
-    it of Job; the Quran affirms it of the giver who seeks only God''s face.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous give and feed solely for the face of God, seeking
     no repayment or thanks (weight 6.3). Pair score 6.3.'
@@ -70,6 +45,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The righteous give and feed solely for the face of God, seeking no repayment or thanks
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-92-night
+  title: 'The night: the giver and the miser'
+  tradition: islam
+matches:
+- kind: echo
+  label: The righteous give and feed solely for the face of God, seeking no repayment or thanks
+  note: 'alladhī yuʾtī mālahu yatazakkā wa-mā li-aḥadin ʿindahu min niʿmatin tujzā illā btighāʾa wajhi
+    rabbihi l-aʿlā ~ ha-ḥinnām yārēʾ ʾIyyôv ʾĕlōhîm: piety without reward as the question. Satan doubts
+    it of Job; the Quran affirms it of the giver who seeks only God''s face.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:9
+      lang: he
+      text: וַיַּ֧עַן הַשָּׂטָ֛ן אֶת יְהוָ֖ה וַיֹּאמַ֑ר הַֽחִנָּ֔ם יָרֵ֥א אִיּ֖וֹב אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 92:18
+      lang: ar
+      text: ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ
+    - ref: Quran 92:19
+      lang: ar
+      text: وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ
+    - ref: Quran 92:20
+      lang: ar
+      text: إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-6-throne-vision-vs-quran-9-closing
 title: The throne vision and the call of Isaiah ↔ Surahs that increase faith; the compassionate messenger
-summary: 'These two units share 2 motifs: god is ''lord of the mighty throne'' (rabb al-''arsh al-''azim),
-  a revealed surah increases believers in faith and the sick-hearted in filth.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,57 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- lord-of-the-mighty-throne
 - revelation-increases-faith-or-filth
-passages:
-- tradition: judaism
-  ref: Isa 6:1
-  note: 'God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim) (God''s throne marks his supremacy:
-    wa-huwa rabbu l-ʿarshi l-ʿaẓīm vs wāʾerʾeh ʾet-ʾădōnāy yōšēb ʿal-kissēʾ rām wᵉniśśāʾ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בִּשְׁנַת מוֹת֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָאֶרְאֶ֧ה אֶת אֲדֹנָ֛י יֹשֵׁ֥ב עַל כִּסֵּ֖א רָ֣ם וְנִשָּׂ֑א
-    וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת הַהֵיכָֽל
-- tradition: islam
-  ref: Quran 9:129
-  note: God is 'Lord of the mighty Throne' (rabb al-'arsh al-'azim)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
-    رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'A revealed surah increases believers in faith and the sick-hearted in filth (The revelation itself
-    hardens the resistant: fa-zādathum rijsan ilā rijsihim; ṣarafa llāhu qulūbahum bi-annahum qawmun lā
-    yafqahūn vs hašmēn lēb-hāʿām hazzeh ... pen ... ûlᵉbābô yābîn wāšāb wᵉrāpāʾ lô.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 9:124
-  note: A revealed surah increases believers in faith and the sick-hearted in filth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا مَآ أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَٰذِهِۦٓ إِيمَٰنًا
-    فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَٰنًا وَهُمْ يَسْتَبْشِرُونَ
-- tradition: islam
-  ref: Quran 9:125
-  note: A revealed surah increases believers in faith and the sick-hearted in filth
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ
-    كَٰفِرُونَ
+- lord-of-the-mighty-throne
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The revelation itself hardens the resistant: fa-zādathum rijsan ilā rijsihim; ṣarafa llāhu qulūbahum
-    bi-annahum qawmun lā yafqahūn vs hašmēn lēb-hāʿām hazzeh ... pen ... ûlᵉbābô yābîn wāšāb wᵉrāpāʾ lô.
-    God''s throne marks his supremacy: wa-huwa rabbu l-ʿarshi l-ʿaẓīm vs wāʾerʾeh ʾet-ʾădōnāy yōšēb ʿal-kissēʾ
-    rām wᵉniśśāʾ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim)
-    (weight 6.7); A revealed surah increases believers in faith and the sick-hearted in filth (weight
-    6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: A revealed surah increases believers in faith and the sick-hearted
+    in filth (weight 6.7); God is ''Lord of the mighty Throne'' (rabb al-''arsh al-''azim) (weight 6.7).
+    Pair score 13.4.'
   basis: reading
 - text: 'Only in The throne vision and the call of Isaiah: A seraph touches the prophet''s lips with a
     burning coal from the altar, removing his guilt; Six-winged seraphim stand above God: two wings cover
@@ -92,6 +49,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A revealed surah increases believers in faith and the sick-hearted in filth
+kinds:
+- echo
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-9-closing
+  title: Surahs that increase faith; the compassionate messenger
+  tradition: islam
+matches:
+- kind: echo
+  label: A revealed surah increases believers in faith and the sick-hearted in filth
+  note: 'The revelation itself hardens the resistant: fa-zādathum rijsan ilā rijsihim; ṣarafa llāhu qulūbahum
+    bi-annahum qawmun lā yafqahūn vs hašmēn lēb-hāʿām hazzeh ... pen ... ûlᵉbābô yābîn wāšāb wᵉrāpāʾ lô.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:125
+      lang: ar
+      text: وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟
+        وَهُمْ كَٰفِرُونَ
+    - ref: Quran 9:127
+      lang: ar
+      text: وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ
+        ثُمَّ ٱنصَرَفُوا۟ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ
+- kind: echo
+  label: God is 'Lord of the mighty Throne' (rabb al-'arsh al-'azim)
+  note: 'God''s throne marks his supremacy: wa-huwa rabbu l-ʿarshi l-ʿaẓīm vs wāʾerʾeh ʾet-ʾădōnāy yōšēb
+    ʿal-kissēʾ rām wᵉniśśāʾ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:1
+      lang: he
+      text: בִּשְׁנַת מוֹת֙ הַמֶּ֣לֶךְ עֻזִּיָּ֔הוּ וָאֶרְאֶ֧ה אֶת אֲדֹנָ֛י יֹשֵׁ֥ב עַל כִּסֵּ֖א רָ֣ם
+        וְנִשָּׂ֑א וְשׁוּלָ֖יו מְלֵאִ֥ים אֶת הַהֵיכָֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 9:129
+      lang: ar
+      text: فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ
+        رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 ---
 
 ## Questions

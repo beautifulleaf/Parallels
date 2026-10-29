@@ -2,8 +2,7 @@
 id: motif-hb-mal-1-blemished-offerings-vs-quran-2-abrogation-polemic
 title: Priests who despise God's name with blemished offerings ↔ Ra'ina, abrogation, rival claims and
   the face of God
-summary: 'These two units share 1 motifs: from sunrise to sunset god''s name is great among the nations
-  and in every place incense and a pure offering are brought to his name.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - pure-offering-among-nations-in-every-place
-passages:
-- tradition: judaism
-  ref: Mal 1:11
-  note: From sunrise to sunset God's name is great among the nations and in every place incense and a
-    pure offering are brought to his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִמִּזְרַח שֶׁ֜מֶשׁ וְעַד מְבוֹא֗וֹ גָּד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם וּבְכָל מָק֗וֹם מֻקְטָ֥ר
-    מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה כִּֽי גָד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת
-- tradition: islam
-  ref: Quran 2:114
-  note: 'From sunrise to sunset God''s name is great among the nations and in every place incense and
-    a pure offering are brought to his name (Mal 1:11 kî mi-mmizraḥ šemeš wĕ-ʿad mĕbôʾô gādôl šĕmî ba-ggôyim
-    û-bĕ-kol māqôm muqṭār muggāš li-šmî: from sunrise to sunset, in every place, God''s name honoured;
-    Q 2:114-115 masājida llāhi an yudhkara fīhā smuhu ... wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā
-    tuwallū fa-thamma wajhu llāh: God''s name remembered in his places of prayer, east and west his. Both
-    widen worship from one sanctuary to every place.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى خَرَابِهَآ
-    أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا خِزْىٌ وَلَهُمْ
-    فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ
-- tradition: islam
-  ref: Quran 2:115
-  note: 'From sunrise to sunset God''s name is great among the nations and in every place incense and
-    a pure offering are brought to his name (Mal 1:11 kî mi-mmizraḥ šemeš wĕ-ʿad mĕbôʾô gādôl šĕmî ba-ggôyim
-    û-bĕ-kol māqôm muqṭār muggāš li-šmî: from sunrise to sunset, in every place, God''s name honoured;
-    Q 2:114-115 masājida llāhi an yudhkara fīhā smuhu ... wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā
-    tuwallū fa-thamma wajhu llāh: God''s name remembered in his places of prayer, east and west his. Both
-    widen worship from one sanctuary to every place.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ إِنَّ ٱللَّهَ
-    وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Mal 1:11 kî mi-mmizraḥ šemeš wĕ-ʿad mĕbôʾô gādôl šĕmî ba-ggôyim û-bĕ-kol māqôm muqṭār muggāš
-    li-šmî: from sunrise to sunset, in every place, God''s name honoured; Q 2:114-115 masājida llāhi an
-    yudhkara fīhā smuhu ... wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāh:
-    God''s name remembered in his places of prayer, east and west his. Both widen worship from one sanctuary
-    to every place.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From sunrise to sunset God''s name is great among the nations and
     in every place incense and a pure offering are brought to his name (weight 6.7). Pair score 6.7.'
@@ -87,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: From sunrise to sunset God's name is great among the nations and in every place incense and a
+  pure offering are brought to his name
+kinds:
+- echo
+units:
+- id: hb-mal-1-blemished-offerings
+  title: Priests who despise God's name with blemished offerings
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: echo
+  label: From sunrise to sunset God's name is great among the nations and in every place incense and a
+    pure offering are brought to his name
+  note: 'Mal 1:11 kî mi-mmizraḥ šemeš wĕ-ʿad mĕbôʾô gādôl šĕmî ba-ggôyim û-bĕ-kol māqôm muqṭār muggāš
+    li-šmî: from sunrise to sunset, in every place, God''s name honoured; Q 2:114-115 masājida llāhi an
+    yudhkara fīhā smuhu ... wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāh:
+    God''s name remembered in his places of prayer, east and west his. Both widen worship from one sanctuary
+    to every place.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 1:11
+      lang: he
+      text: כִּ֣י מִמִּזְרַח שֶׁ֜מֶשׁ וְעַד מְבוֹא֗וֹ גָּד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם וּבְכָל מָק֗וֹם מֻקְטָ֥ר
+        מֻגָּ֛שׁ לִשְׁמִ֖י וּמִנְחָ֣ה טְהוֹרָ֑ה כִּֽי גָד֤וֹל שְׁמִי֙ בַּגּוֹיִ֔ם אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:114
+      lang: ar
+      text: وَمَنْ أَظْلَمُ مِمَّن مَّنَعَ مَسَٰجِدَ ٱللَّهِ أَن يُذْكَرَ فِيهَا ٱسْمُهُۥ وَسَعَىٰ فِى
+        خَرَابِهَآ أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ لَهُمْ فِى ٱلدُّنْيَا
+        خِزْىٌ وَلَهُمْ فِى ٱلْءَاخِرَةِ عَذَابٌ عَظِيمٌ
+    - ref: Quran 2:115
+      lang: ar
+      text: وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ إِنَّ ٱللَّهَ
+        وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-23-sects-and-the-heedless
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ One community split
   into sects; the heedless rich and the God-fearing
-summary: 'These two units share 1 motifs: nation pictured as a body beaten from sole of foot to head,
-  with untended wounds and sores.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - body-wounded-head-to-foot
-passages:
-- tradition: judaism
-  ref: Isa 1:5-6
-  note: Nation pictured as a body beaten from sole of foot to head, with untended wounds and sores
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (1:5) עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כָּל רֹ֣אשׁ לָחֳלִ֔י וְכָל לֵבָ֖ב דַּוָּֽי (1:6)
-    מִכַּף רֶ֤גֶל וְעַד רֹאשׁ֙ אֵֽין בּ֣וֹ מְתֹ֔ם פֶּ֥צַע וְחַבּוּרָ֖ה וּמַכָּ֣ה טְרִיָּ֑ה לֹא זֹ֨רוּ֙
-    וְלֹ֣א חֻבָּ֔שׁוּ וְלֹ֥א רֻכְּכָ֖ה בַּשָּֽׁמֶן
-- tradition: judaism
-  ref: Isa 1:5
-  note: Nation pictured as a body beaten from sole of foot to head, with untended wounds and sores
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כָּל רֹ֣אשׁ לָחֳלִ֔י וְכָל לֵבָ֖ב דַּוָּֽי
-- tradition: islam
-  ref: Quran 23:76
-  note: 'Nation pictured as a body beaten from sole of foot to head, with untended wounds and sores (akhadhnāhum
-    bi-l-ʿadhābi fa-mā stakānū ~ ʿal meh tukkû ʿôd tôsîfû sārâ: struck again and again, the people do
-    not submit but keep rebelling.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَخَذْنَٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. akhadhnāhum bi-l-ʿadhābi fa-mā stakānū ~ ʿal meh tukkû ʿôd tôsîfû sārâ: struck again and again,
-    the people do not submit but keep rebelling.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Nation pictured as a body beaten from sole of foot to head, with
     untended wounds and sores (weight 6.7). Pair score 6.7.'
@@ -78,6 +53,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nation pictured as a body beaten from sole of foot to head, with untended wounds and sores
+kinds:
+- echo
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-23-sects-and-the-heedless
+  title: One community split into sects; the heedless rich and the God-fearing
+  tradition: islam
+matches:
+- kind: echo
+  label: Nation pictured as a body beaten from sole of foot to head, with untended wounds and sores
+  note: 'akhadhnāhum bi-l-ʿadhābi fa-mā stakānū ~ ʿal meh tukkû ʿôd tôsîfû sārâ: struck again and again,
+    the people do not submit but keep rebelling.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:5
+      lang: he
+      text: עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כָּל רֹ֣אשׁ לָחֳלִ֔י וְכָל לֵבָ֖ב דַּוָּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:76
+      lang: ar
+      text: وَلَقَدْ أَخَذْنَٰهُم بِٱلْعَذَابِ فَمَا ٱسْتَكَانُوا۟ لِرَبِّهِمْ وَمَا يَتَضَرَّعُونَ
 ---
 
 ## Questions

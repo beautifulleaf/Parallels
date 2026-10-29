@@ -2,8 +2,7 @@
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-23-death-barzakh-judgment
 title: Idols like scarecrows in a cucumber field ↔ Repel evil with good; the deathbed plea, the barzakh
   and the scales
-summary: 'These two units share 1 motifs: yhwh is the true god, the living god and everlasting king at
-  whose wrath the earth quakes.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - true-living-god-everlasting-king
-passages:
-- tradition: judaism
-  ref: Jer 10:10
-  note: YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֤ה אֱלֹהִים֙ אֱמֶ֔ת הֽוּא אֱלֹהִ֥ים חַיִּ֖ים וּמֶ֣לֶךְ עוֹלָ֑ם מִקִּצְפּוֹ֙ תִּרְעַ֣שׁ
-    הָאָ֔רֶץ וְלֹֽא יָכִ֥לוּ גוֹיִ֖ם זַעְמֽוֹ
-- tradition: islam
-  ref: Quran 23:116
-  note: 'YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes (fa-taʿālā
-    llāhu l-maliku l-ḥaqqu lā ilāha illā huwa ~ wa-YHWH ʾĕlōhîm ʾĕmet hûʾ ʾĕlōhîm ḥayyîm û-melekh ʿôlām:
-    God as the true King (al-malik al-ḥaqq ~ ʾĕmet ... melekh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. fa-taʿālā llāhu l-maliku l-ḥaqqu lā ilāha illā huwa ~ wa-YHWH ʾĕlōhîm ʾĕmet hûʾ ʾĕlōhîm
-    ḥayyîm û-melekh ʿôlām: God as the true King (al-malik al-ḥaqq ~ ʾĕmet ... melekh).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH is the true God, the living God and everlasting King at whose
     wrath the earth quakes (weight 6.3). Pair score 6.3.'
@@ -70,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes
+kinds:
+- parallel
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: parallel
+  label: YHWH is the true God, the living God and everlasting King at whose wrath the earth quakes
+  note: 'fa-taʿālā llāhu l-maliku l-ḥaqqu lā ilāha illā huwa ~ wa-YHWH ʾĕlōhîm ʾĕmet hûʾ ʾĕlōhîm ḥayyîm
+    û-melekh ʿôlām: God as the true King (al-malik al-ḥaqq ~ ʾĕmet ... melekh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:10
+      lang: he
+      text: וַֽיהוָ֤ה אֱלֹהִים֙ אֱמֶ֔ת הֽוּא אֱלֹהִ֥ים חַיִּ֖ים וּמֶ֣לֶךְ עוֹלָ֑ם מִקִּצְפּוֹ֙ תִּרְעַ֣שׁ
+        הָאָ֔רֶץ וְלֹֽא יָכִ֥לוּ גוֹיִ֖ם זַעְמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:116
+      lang: ar
+      text: فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلْعَرْشِ ٱلْكَرِيمِ
 ---
 
 ## Questions

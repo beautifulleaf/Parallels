@@ -2,8 +2,7 @@
 id: motif-hb-ezek-20-history-of-rebellion-vs-quran-4-israel-indictment-crucifixion
 title: Israel's history of rebellion from Egypt; the second exodus into the wilderness of the peoples
   ↔ The indictment of Israel; the Messiah not crucified but raised
-summary: 'These two units share 1 motifs: god gave the rebellious generation ''statutes that were not
-  good and ordinances by which they could not live'', defiling them through offering their firstborn.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - god-gave-laws-not-good
-passages:
-- tradition: judaism
-  ref: Ezek 20:25
-  note: God gave the rebellious generation 'statutes that were not good and ordinances by which they could
-    not live', defiling them through offering their firstborn
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגַם אֲנִי֙ נָתַ֣תִּי לָהֶ֔ם חֻקִּ֖ים לֹ֣א טוֹבִ֑ים וּמִ֨שְׁפָּטִ֔ים לֹ֥א יִֽחְי֖וּ בָּהֶֽם
-- tradition: judaism
-  ref: Ezek 20:26
-  note: God gave the rebellious generation 'statutes that were not good and ordinances by which they could
-    not live', defiling them through offering their firstborn
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֲטַמֵּ֤א אוֹתָם֙ בְּמַתְּנוֹתָ֔ם בְּהַעֲבִ֖יר כָּל פֶּ֣טֶר רָ֑חַם לְמַ֣עַן אֲשִׁמֵּ֔ם לְמַ֨עַן֙
-    אֲשֶׁ֣ר יֵֽדְע֔וּ אֲשֶׁ֖ר אֲנִ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 4:160
-  note: God gave the rebellious generation 'statutes that were not good and ordinances by which they could
-    not live', defiling them through offering their firstborn (a law given as punishment; cf. Ezek 20:25)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ
-    عَن سَبِيلِ ٱللَّهِ كَثِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Law given as punishment. Ezek: wə-gam-ʾănî nātattî lāhem ḥuqqîm lōʾ ṭôvîm û-mišpāṭîm lōʾ
-    yiḥyû bāhem. Q: fa-bi-ẓulmin mina lladhīna hādū ḥarramnā ʿalayhim ṭayyibātin uḥillat lahum. Ezek has
-    bad laws given; Q has good things forbidden.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gave the rebellious generation ''statutes that were not good
     and ordinances by which they could not live'', defiling them through offering their firstborn (weight
@@ -84,6 +57,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gave the rebellious generation 'statutes that were not good and ordinances by which they
+  could not live', defiling them through offering their firstborn
+kinds:
+- parallel
+units:
+- id: hb-ezek-20-history-of-rebellion
+  title: Israel's history of rebellion from Egypt; the second exodus into the wilderness of the peoples
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: parallel
+  label: God gave the rebellious generation 'statutes that were not good and ordinances by which they
+    could not live', defiling them through offering their firstborn
+  note: 'Law given as punishment. Ezek: wə-gam-ʾănî nātattî lāhem ḥuqqîm lōʾ ṭôvîm û-mišpāṭîm lōʾ yiḥyû
+    bāhem. Q: fa-bi-ẓulmin mina lladhīna hādū ḥarramnā ʿalayhim ṭayyibātin uḥillat lahum. Ezek has bad
+    laws given; Q has good things forbidden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 20:25
+      lang: he
+      text: וְגַם אֲנִי֙ נָתַ֣תִּי לָהֶ֔ם חֻקִּ֖ים לֹ֣א טוֹבִ֑ים וּמִ֨שְׁפָּטִ֔ים לֹ֥א יִֽחְי֖וּ בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:160
+      lang: ar
+      text: فَبِظُلْمٍ مِّنَ ٱلَّذِينَ هَادُوا۟ حَرَّمْنَا عَلَيْهِمْ طَيِّبَٰتٍ أُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ
+        عَن سَبِيلِ ٱللَّهِ كَثِيرًا
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-19-prophets-remembered
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses, Ishmael
   and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 2 motifs: an eloquent brother is appointed to speak for the hero, who
-  is ''as god'' to him [divergence between the texts], an eloquent brother is appointed to speak for the
-  hero, who is ''as god'' to him.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,67 +15,9 @@ layers:
 motifs:
 - brother-as-spokesman-as-divergence
 - brother-as-spokesman
-passages:
-- tradition: judaism
-  ref: Exod 4:14
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (Exod: Aaron is given in God''s anger at Moses'' reluctance, wayyiḥar-ʾap YHWH
-    bəmōšeh wayyōʾmer hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm.
-    Q: Aaron is given ''from our mercy'' (min raḥmatinā). Anger becomes grace, and the ''as God'' formula
-    is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
-    כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
-- tradition: judaism
-  ref: Exod 4:15
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (Exod: Aaron is given in God''s anger at Moses'' reluctance, wayyiḥar-ʾap YHWH
-    bəmōšeh wayyōʾmer hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm.
-    Q: Aaron is given ''from our mercy'' (min raḥmatinā). Anger becomes grace, and the ''as God'' formula
-    is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
-    וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
-- tradition: islam
-  ref: Quran 19:53
-  note: 'An eloquent brother is appointed to speak for the hero, who is ''as God'' to him [divergence
-    between the texts] (nətattîkā ʾĕlōhîm ləparʿōh wəʾahărōn ʾāḥîkā yihyeh nəbîʾekā; wa-wahabnā lahu min
-    raḥmatinā akhāhu Hārūna nabiyyā: Aaron the brother as prophet (nābîʾ / nabiyy). In Exod Aaron is Moses''
-    prophet, with Moses ''as God'' to Pharaoh; in Q God makes him a prophet in his own right, as a gift
-    of mercy to Moses.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
-- tradition: judaism
-  ref: Exod 4:14
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron his 'mouth';
-    Moses 'as God' to him)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
-    כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
-- tradition: judaism
-  ref: Exod 4:15
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron his 'mouth';
-    Moses 'as God' to him)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
-    וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
-- tradition: islam
-  ref: Quran 19:53
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him (Aaron given 'from
-    our mercy' as a prophet)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Exod: Aaron is given in God''s anger at Moses'' reluctance, wayyiḥar-ʾap YHWH bəmōšeh
-    wayyōʾmer hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Aaron
-    is given ''from our mercy'' (min raḥmatinā). Anger becomes grace, and the ''as God'' formula is dropped.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An eloquent brother is appointed to speak for the hero, who is ''as
     God'' to him [divergence between the texts] (weight 6.3); An eloquent brother is appointed to speak
@@ -114,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+kinds:
+- divergence
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: divergence
+  label: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+  note: 'Exod: Aaron is given in God''s anger at Moses'' reluctance, wayyiḥar-ʾap YHWH bəmōšeh wayyōʾmer
+    hălōʾ ʾahărōn ʾāḥîkā ... wəhāyâ-hûʾ yihyeh-ləkā ləpeh wəʾattâ tihyeh-lô lēʾlōhîm. Q: Aaron is given
+    ''from our mercy'' (min raḥmatinā). Anger becomes grace, and the ''as God'' formula is dropped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:14
+      lang: he
+      text: וַיִּֽחַר אַ֨ף יְהוָ֜ה בְּמֹשֶׁ֗ה וַיֹּ֨אמֶר֙ הֲלֹ֨א אַהֲרֹ֤ן אָחִ֨יךָ֙ הַלֵּוִ֔י יָדַ֕עְתִּי
+        כִּֽי דַבֵּ֥ר יְדַבֵּ֖ר ה֑וּא וְגַ֤ם הִנֵּה הוּא֙ יֹצֵ֣א לִקְרָאתֶ֔ךָ וְרָאֲךָ֖ וְשָׂמַ֥ח בְּלִבּֽוֹ
+    - ref: Exod 4:15
+      lang: he
+      text: וְדִבַּרְתָּ֣ אֵלָ֔יו וְשַׂמְתָּ֥ אֶת הַדְּבָרִ֖ים בְּפִ֑יו וְאָנֹכִ֗י אֶֽהְיֶ֤ה עִם פִּ֨יךָ֙
+        וְעִם פִּ֔יהוּ וְהוֹרֵיתִ֣י אֶתְכֶ֔ם אֵ֖ת אֲשֶׁ֥ר תַּעֲשֽׂוּן
+    - ref: Exod 4:16
+      lang: he
+      text: וְדִבֶּר ה֥וּא לְךָ֖ אֶל הָעָ֑ם וְהָ֤יָה הוּא֙ יִֽהְיֶה לְּךָ֣ לְפֶ֔ה וְאַתָּ֖ה תִּֽהְיֶה
+        לּ֥וֹ לֵֽאלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 19:53
+      lang: ar
+      text: وَوَهَبْنَا لَهُۥ مِن رَّحْمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيًّا
 ---
 
 ## Questions

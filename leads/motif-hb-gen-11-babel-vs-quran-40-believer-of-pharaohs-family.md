@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-11-babel-vs-quran-40-believer-of-pharaohs-family
 title: The Tower of Babel ↔ Moses, Pharaoh, Haman and the believer of Pharaoh's family
-summary: 'These two units share 2 motifs: humans build a tower whose top reaches heaven [divergence between
-  the texts], humans build a tower whose top reaches heaven.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,83 +14,9 @@ layers:
 motifs:
 - tower-reaching-heaven-as-divergence
 - tower-reaching-heaven
-passages:
-- tradition: judaism
-  ref: Gen 11:4
-  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
-    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
-    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
-    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
-    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
-    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
-    into Pharaoh''s wish to ascend and inspect God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
-    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
-- tradition: judaism
-  ref: Gen 11:5
-  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower toward
-    heaven: Babel''s builders, all humankind (hāvâ nivneh llānû ʿîr û-migdāl wə-rōʾšô vaš-šāmayim), want
-    to make a name and not be scattered; God comes down to see, and scatters them. In the Quran one king
-    orders it of his minister (fa-jʿal lī ṣarḥan laʿallī aṭṭaliʿu ilā ilāhi Mūsā wa-innī la-aẓunnuhu mina
-    l-kādhibīna): the aim is to climb up and look at Moses'' God, mockingly. The ending is drowning (fa-nabadhnāhum
-    fī l-yamm), not dispersal. God''s descent to inspect the tower (wa-yyēred YHWH lirʾōt) is reversed
-    into Pharaoh''s wish to ascend and inspect God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֣רֶד יְהוָ֔ה לִרְאֹ֥ת אֶת הָעִ֖יר וְאֶת הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם
-- tradition: islam
-  ref: Quran 40:36
-  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower to heaven.
-    Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû šēm, built collectively, to
-    make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ) and scatters them. Q: yā-Hāmānu
-    bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī la-aẓunnuhu
-    kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can look up at Moses'' God whom he calls
-    a liar. The plot ends fī tabāb, with no divine descent and no confusion of tongues.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
-- tradition: islam
-  ref: Quran 40:37
-  note: 'Humans build a tower whose top reaches heaven [divergence between the texts] (A tower to heaven.
-    Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû šēm, built collectively, to
-    make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ) and scatters them. Q: yā-Hāmānu
-    bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa ilā ilāhi Mūsā wa-innī la-aẓunnuhu
-    kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can look up at Moses'' God whom he calls
-    a liar. The plot ends fī tabāb, with no divine descent and no confusion of tongues.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ
-    زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ
-- tradition: judaism
-  ref: Gen 11:4
-  note: Humans build a tower whose top reaches heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה לָּ֖נוּ
-    שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 40:36
-  note: Humans build a tower whose top reaches heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
-- tradition: islam
-  ref: Quran 40:37
-  note: Humans build a tower whose top reaches heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا وَكَذَٰلِكَ
-    زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ إِلَّا فِى تَبَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. A tower to heaven. Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû
-    šēm, built collectively, to make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ)
-    and scatters them. Q: yā-Hāmānu bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa
-    ilā ilāhi Mūsā wa-innī la-aẓunnuhu kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can
-    look up at Moses'' God whom he calls a liar. The plot ends fī tabāb, with no divine descent and no
-    confusion of tongues.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans build a tower whose top reaches heaven [divergence between
     the texts] (weight 6.3); Humans build a tower whose top reaches heaven (weight 6.3). Pair score 12.6.'
@@ -124,6 +49,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans build a tower whose top reaches heaven
+kinds:
+- divergence
+units:
+- id: hb-gen-11-babel
+  title: The Tower of Babel
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: divergence
+  label: Humans build a tower whose top reaches heaven
+  note: 'A tower to heaven. Gen: hāḇâ niḇneh-lānû ʿîr û-miḡdāl wə-rōʾšô ḇa-ššāmayim wə-naʿăśeh-lānû šēm,
+    built collectively, to make a name and avoid scattering; YHWH comes down (wa-yyēreḏ YHWH lirʾōṯ) and
+    scatters them. Q: yā-Hāmānu bni lī ṣarḥan laʿallī ablughu l-asbāba asbāba s-samāwāti fa-aṭṭaliʿa ilā
+    ilāhi Mūsā wa-innī la-aẓunnuhu kādhiban, ordered by Pharaoh, built by Haman, so that Pharaoh can look
+    up at Moses'' God whom he calls a liar. The plot ends fī tabāb, with no divine descent and no confusion
+    of tongues.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 11:4
+      lang: he
+      text: וַיֹּאמְר֞וּ הָ֣בָה נִבְנֶה לָּ֣נוּ עִ֗יר וּמִגְדָּל֙ וְרֹאשׁ֣וֹ בַשָּׁמַ֔יִם וְנַֽעֲשֶׂה
+        לָּ֖נוּ שֵׁ֑ם פֶּן נָפ֖וּץ עַל פְּנֵ֥י כָל הָאָֽרֶץ
+    - ref: Gen 11:5
+      lang: he
+      text: וַיֵּ֣רֶד יְהוָ֔ה לִרְאֹ֥ת אֶת הָעִ֖יר וְאֶת הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 40:36
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
+    - ref: Quran 40:37
+      lang: ar
+      text: أَسْبَٰبَ ٱلسَّمَٰوَٰتِ فَأَطَّلِعَ إِلَىٰٓ إِلَٰهِ مُوسَىٰ وَإِنِّى لَأَظُنُّهُۥ كَٰذِبًا
+        وَكَذَٰلِكَ زُيِّنَ لِفِرْعَوْنَ سُوٓءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِيلِ وَمَا كَيْدُ فِرْعَوْنَ
+        إِلَّا فِى تَبَابٍ
 ---
 
 ## Questions

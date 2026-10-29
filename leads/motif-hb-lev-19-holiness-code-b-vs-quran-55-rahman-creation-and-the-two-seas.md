@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ Al-Rahman: the Merciful taught
   the Quran; sun and moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 2 motifs: just weights and measures, and the ground given for them [divergence
-  between the texts], honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,78 +15,9 @@ layers:
 motifs:
 - just-weighing-and-its-ground-as-divergence
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Lev 19:35
-  note: 'Just weights and measures, and the ground given for them [divergence between the texts] (Just
-    weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq ... ʾănî
-    YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa
-    rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān
-    (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel''s
-    ground in history becomes a cosmic ground.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
-- tradition: judaism
-  ref: Lev 19:36
-  note: 'Just weights and measures, and the ground given for them [divergence between the texts] (Just
-    weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq ... ʾănî
-    YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa
-    rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān
-    (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel''s
-    ground in history becomes a cosmic ground.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם
-    אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 55:7
-  note: 'Just weights and measures, and the ground given for them [divergence between the texts] (Just
-    weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq ... ʾănî
-    YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa
-    rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān
-    (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel''s
-    ground in history becomes a cosmic ground.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
-- tradition: islam
-  ref: Quran 55:8
-  note: 'Just weights and measures, and the ground given for them [divergence between the texts] (Just
-    weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq ... ʾănî
-    YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa
-    rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān
-    (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel''s
-    ground in history becomes a cosmic ground.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
-- tradition: judaism
-  ref: Lev 19:35
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
-- tradition: judaism
-  ref: Lev 19:36
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם
-    אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 55:9
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Just weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq
-    ʾaḇnê ṣeḏeq ... ʾănî YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus).
-    Quran: wa-s-samāʾa rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi
-    wa-lā tukhsirū l-mīzān (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim
-    / mīzān. Israel''s ground in history becomes a cosmic ground.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Just weights and measures, and the ground given for them [divergence
     between the texts] (weight 6.7); Honest balances, weights, ephah and hin are commanded (weight 4.7).
@@ -126,6 +56,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Just weights and measures, and the ground given for them
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Just weights and measures, and the ground given for them
+  note: 'Just weighing commanded. Leviticus: lōʾ ṯaʿăśû ʿāwel ... bam-mišqāl ... mōʾzənê ṣeḏeq ʾaḇnê ṣeḏeq
+    ... ʾănî YHWH ʾĕlōhêḵem ʾăšer hôṣēʾṯî ʾeṯḵem mē-ʾereṣ miṣrāyim (grounded in the exodus). Quran: wa-s-samāʾa
+    rafaʿahā wa-waḍaʿa l-mīzān, allā taṭghaw fī l-mīzān, wa-aqīmū l-wazna bi-l-qisṭi wa-lā tukhsirū l-mīzān
+    (grounded in creation: the same God who raised the sky set the balance). mōʾzənayim / mīzān. Israel''s
+    ground in history becomes a cosmic ground.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:35
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
+    - ref: Lev 19:36
+      lang: he
+      text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה
+        אֱלֹֽהֵיכֶ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 55:7
+      lang: ar
+      text: وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ
+    - ref: Quran 55:8
+      lang: ar
+      text: أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ
+    - ref: Quran 55:9
+      lang: ar
+      text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
+- kind: shared
+  label: Honest balances, weights, ephah and hin are commanded
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:35
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֖וֶל בַּמִּשְׁפָּ֑ט בַּמִּדָּ֕ה בַּמִּשְׁקָ֖ל וּבַמְּשׂוּרָֽה
+    - ref: Lev 19:36
+      lang: he
+      text: מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה
+        אֱלֹֽהֵיכֶ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 55:9
+      lang: ar
+      text: وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ
 ---
 
 ## Questions

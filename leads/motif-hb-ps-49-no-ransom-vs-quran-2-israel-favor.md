@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-49-no-ransom-vs-quran-2-israel-favor
 title: Psalm 49 - no man can ransom his brother ↔ Address to the Children of Israel
-summary: 'These two units share 1 motifs: no man can ransom his brother or give god a ransom (kofer) for
-  him; the redemption of life is too costly.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - no-ransom-for-a-brother
-passages:
-- tradition: judaism
-  ref: Ps 49:8-10
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
-    נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
-- tradition: judaism
-  ref: Ps 49:8
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 2:48
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
-    وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Ps 49:8 ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô; Q 2:48 lā tajzī nafsun ʿan
-    nafsin shayʾan ... wa-lā yuʾkhadhu minhā ʿadlun: no one can pay for another; no ransom/equivalent
-    is taken. The psalm still keeps an exception, 49:16 ʾak ʾĕlōhîm yipdeh napšî; the Quran adds that
-    no intercession (shafāʿa) is accepted.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No man can ransom his brother or give God a ransom (kofer) for him;
     the redemption of life is too costly (weight 5.3). Pair score 5.3.'
@@ -75,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+  too costly
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-2-israel-favor
+  title: Address to the Children of Israel
+  tradition: islam
+matches:
+- kind: parallel
+  label: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+    too costly
+  note: 'Ps 49:8 ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô; Q 2:48 lā tajzī nafsun ʿan nafsin
+    shayʾan ... wa-lā yuʾkhadhu minhā ʿadlun: no one can pay for another; no ransom/equivalent is taken.
+    The psalm still keeps an exception, 49:16 ʾak ʾĕlōhîm yipdeh napšî; the Quran adds that no intercession
+    (shafāʿa) is accepted.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:48
+      lang: ar
+      text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
+        وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
 ---
 
 ## Questions

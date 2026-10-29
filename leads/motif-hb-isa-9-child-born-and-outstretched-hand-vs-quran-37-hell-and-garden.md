@@ -2,8 +2,7 @@
 id: motif-hb-isa-9-child-born-and-outstretched-hand-vs-quran-37-hell-and-garden
 title: Great light; a child is born to us; the outstretched hand against Ephraim ↔ The damned questioned;
   the blessed on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: in the punishment the misled and their misleaders turn on each
-  other in recrimination and share the punishment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - misled-and-misleaders-dispute
-passages:
-- tradition: judaism
-  ref: Isa 9:15
-  note: 'In the punishment the misled and their misleaders turn on each other in recrimination and share
-    the punishment (wa-yyihyû məʾaššərê hā-ʿām ha-zzeh matʿîm û-məʾuššārâw məḇullāʿîm vs. fa-aghwaynākum
-    innā kunnā ghāwīna fa-innahum yawmaʾidhin fī l-ʿadhābi mushtarikūn: misleaders and misled ruined together.
-    Isaiah speaks of the nation''s present ruin; the Quran of a shared punishment in hell, after they
-    quarrel among themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְי֛וּ מְאַשְּׁרֵ֥י הָֽעָם הַזֶּ֖ה מַתְעִ֑ים וּמְאֻשָּׁרָ֖יו מְבֻלָּעִֽים
-- tradition: islam
-  ref: Quran 37:27
-  note: In the punishment the misled and their misleaders turn on each other in recrimination and share
-    the punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ
-- tradition: islam
-  ref: Quran 37:28
-  note: In the punishment the misled and their misleaders turn on each other in recrimination and share
-    the punishment
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyihyû məʾaššərê hā-ʿām ha-zzeh matʿîm û-məʾuššārâw məḇullāʿîm vs. fa-aghwaynākum innā kunnā
-    ghāwīna fa-innahum yawmaʾidhin fī l-ʿadhābi mushtarikūn: misleaders and misled ruined together. Isaiah
-    speaks of the nation''s present ruin; the Quran of a shared punishment in hell, after they quarrel
-    among themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the punishment the misled and their misleaders turn on each other
     in recrimination and share the punishment (weight 6.7). Pair score 6.7.'
@@ -84,6 +55,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In the punishment the misled and their misleaders turn on each other in recrimination and share
+  the punishment
+kinds:
+- echo
+units:
+- id: hb-isa-9-child-born-and-outstretched-hand
+  title: Great light; a child is born to us; the outstretched hand against Ephraim
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: echo
+  label: In the punishment the misled and their misleaders turn on each other in recrimination and share
+    the punishment
+  note: 'wa-yyihyû məʾaššərê hā-ʿām ha-zzeh matʿîm û-məʾuššārâw məḇullāʿîm vs. fa-aghwaynākum innā kunnā
+    ghāwīna fa-innahum yawmaʾidhin fī l-ʿadhābi mushtarikūn: misleaders and misled ruined together. Isaiah
+    speaks of the nation''s present ruin; the Quran of a shared punishment in hell, after they quarrel
+    among themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 9:15
+      lang: he
+      text: וַיִּֽהְי֛וּ מְאַשְּׁרֵ֥י הָֽעָם הַזֶּ֖ה מַתְעִ֑ים וּמְאֻשָּׁרָ֖יו מְבֻלָּעִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 37:28
+      lang: ar
+      text: قَالُوٓا۟ إِنَّكُمْ كُنتُمْ تَأْتُونَنَا عَنِ ٱلْيَمِينِ
+    - ref: Quran 37:32
+      lang: ar
+      text: فَأَغْوَيْنَٰكُمْ إِنَّا كُنَّا غَٰوِينَ
+    - ref: Quran 37:33
+      lang: ar
+      text: فَإِنَّهُمْ يَوْمَئِذٍ فِى ٱلْعَذَابِ مُشْتَرِكُونَ
 ---
 
 ## Questions

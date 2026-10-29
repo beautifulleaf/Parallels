@@ -2,9 +2,7 @@
 id: motif-hb-2kgs-4-shunammite-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: The Shunammite woman and her son ↔ Abraham's honored guests, the barren old wife striking her face,
   the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 3 motifs: a barren wife is told by a divine messenger that she will bear
-  a son, a divine messenger announces a son''s birth and gives his name, host runs to welcome strangers,
-  washes their feet and feeds them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,82 +16,9 @@ motifs:
 - barren-wife-annunciation
 - annunciation-of-son-and-name
 - hospitality-to-strangers
-passages:
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 51:28
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 51:29
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: islam
-  ref: Quran 51:28
-  note: A divine messenger announces a son's birth and gives his name (wə-hinnēh ḇēn lə-śārâ ʾištekā;
-    lam-môʿēḏ ʾāšûḇ ʾēleḵā kā-ʿēṯ ḥayyâ û-lə-śārâ ḇēn vs. wa-bashsharūhu bi-ghulāmin ʿalīm. Genesis promises
-    a son to Sarah with a set time; the Quran gives the good news to Abraham of 'a knowing boy', with
-    no time and no name.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
-- tradition: judaism
-  ref: 2Kgs 4:8
-  note: Host runs to welcome strangers, washes their feet and feeds them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֨י הַיּ֜וֹם וַיַּעֲבֹ֧ר אֱלִישָׁ֣ע אֶל שׁוּנֵ֗ם וְשָׁם֙ אִשָּׁ֣ה גְדוֹלָ֔ה וַתַּחֲזֶק בּ֖וֹ
-    לֶאֱכָל לָ֑חֶם וַֽיְהִי֙ מִדֵּ֣י עָבְר֔וֹ יָסֻ֥ר שָׁ֖מָּה לֶאֱכָל לָֽחֶם
-- tradition: islam
-  ref: Quran 51:26
-  note: Host runs to welcome strangers, washes their feet and feeds them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. An old husband, no son, and the woman''s protest at the announcement: bēn ʾên lāh wə-ʾîšāh zāqēn;
-    lam-môʿēḏ haz-zeh kā-ʿēṯ ḥayyâ ʾatt ḥōḇeqeṯ bēn, wat-tōʾmer ʾal ʾăḏōnî ʾîš hā-ʾĕlōhîm ʾal təḵazzēḇ
-    bə-šip̄ḥāṯeḵā vs. bashsharūhu bi-ghulāmin ʿalīm; fa-ṣakkat wajhahā wa-qālat ʿajūzun ʿaqīm. The Shunammite
-    protests in words (''do not lie''), the Quran''s Sarah by a gesture of dismay; kā-ʿēṯ ḥayyâ repeats
-    Gen 18:10.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
     son (weight 5.8); A divine messenger announces a son''s birth and gives his name (weight 5.2); Host
@@ -131,6 +56,83 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A barren wife is told by a divine messenger that she will bear a son
+kinds:
+- echo
+- shared
+units:
+- id: hb-2kgs-4-shunammite
+  title: The Shunammite woman and her son
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: echo
+  label: A barren wife is told by a divine messenger that she will bear a son
+  note: 'An old husband, no son, and the woman''s protest at the announcement: bēn ʾên lāh wə-ʾîšāh zāqēn;
+    lam-môʿēḏ haz-zeh kā-ʿēṯ ḥayyâ ʾatt ḥōḇeqeṯ bēn, wat-tōʾmer ʾal ʾăḏōnî ʾîš hā-ʾĕlōhîm ʾal təḵazzēḇ
+    bə-šip̄ḥāṯeḵā vs. bashsharūhu bi-ghulāmin ʿalīm; fa-ṣakkat wajhahā wa-qālat ʿajūzun ʿaqīm. The Shunammite
+    protests in words (''do not lie''), the Quran''s Sarah by a gesture of dismay; kā-ʿēṯ ḥayyâ repeats
+    Gen 18:10.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 51:28
+      lang: ar
+      text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+    - ref: Quran 51:29
+      lang: ar
+      text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
+- kind: shared
+  label: A divine messenger announces a son's birth and gives his name
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+    note: bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests
+      ʾal-təkazzēb bəšipḥātekā; nubashshiruka bi-ghulām ... annā yakūnu lī ghulām. A son promised where
+      the husband is old. The disbelief moves from the wife to the husband.
+  - tradition: islam
+    passages:
+    - ref: Quran 51:28
+      lang: ar
+      text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+    note: wə-hinnēh ḇēn lə-śārâ ʾištekā; lam-môʿēḏ ʾāšûḇ ʾēleḵā kā-ʿēṯ ḥayyâ û-lə-śārâ ḇēn vs. wa-bashsharūhu
+      bi-ghulāmin ʿalīm. Genesis promises a son to Sarah with a set time; the Quran gives the good news
+      to Abraham of 'a knowing boy', with no time and no name.
+- kind: shared
+  label: Host runs to welcome strangers, washes their feet and feeds them
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:8
+      lang: he
+      text: וַיְהִ֨י הַיּ֜וֹם וַיַּעֲבֹ֧ר אֱלִישָׁ֣ע אֶל שׁוּנֵ֗ם וְשָׁם֙ אִשָּׁ֣ה גְדוֹלָ֔ה וַתַּחֲזֶק
+        בּ֖וֹ לֶאֱכָל לָ֑חֶם וַֽיְהִי֙ מִדֵּ֣י עָבְר֔וֹ יָסֻ֥ר שָׁ֖מָּה לֶאֱכָל לָֽחֶם
+  - tradition: islam
+    passages:
+    - ref: Quran 51:26
+      lang: ar
+      text: فَرَاغَ إِلَىٰٓ أَهْلِهِۦ فَجَآءَ بِعِجْلٍ سَمِينٍ
 ---
 
 ## Questions

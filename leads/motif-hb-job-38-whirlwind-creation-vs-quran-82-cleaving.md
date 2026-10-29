@@ -2,8 +2,7 @@
 id: motif-hb-job-38-whirlwind-creation-vs-quran-82-cleaving
 title: 'God''s first speech from the whirlwind - foundations of earth, sea, light and the heavens ↔ The
   cleaving: the noble scribes'
-summary: 'These two units share 1 motifs: at the end the seas are set aflame or burst forth (sujjirat,
-  fujjirat).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - seas-burst-or-set-aflame
-passages:
-- tradition: judaism
-  ref: Job 38:8
-  note: 'At the end the seas are set aflame or burst forth (sujjirat, fujjirat) (weak: wa-idhā l-biḥāru
-    fujjirat (seas burst forth, at the end) ~ wa-yyāsek bi-dlātayim yām be-gîḥô mē-reḥem yēṣēʾ (the sea
-    bursting from the womb, at creation, shut in by doors). Creation''s restraint undone.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣סֶךְ בִּדְלָתַ֣יִם יָ֑ם בְּ֝גִיח֗וֹ מֵרֶ֥חֶם יֵצֵֽא
-- tradition: islam
-  ref: Quran 82:3
-  note: At the end the seas are set aflame or burst forth (sujjirat, fujjirat)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلْبِحَارُ فُجِّرَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. weak: wa-idhā l-biḥāru fujjirat (seas burst forth, at the end) ~ wa-yyāsek bi-dlātayim yām be-gîḥô
-    mē-reḥem yēṣēʾ (the sea bursting from the womb, at creation, shut in by doors). Creation''s restraint
-    undone.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the seas are set aflame or burst forth (sujjirat, fujjirat)
     (weight 6.3). Pair score 6.3.'
@@ -68,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At the end the seas are set aflame or burst forth (sujjirat, fujjirat)
+kinds:
+- echo
+units:
+- id: hb-job-38-whirlwind-creation
+  title: God's first speech from the whirlwind - foundations of earth, sea, light and the heavens
+  tradition: judaism
+- id: quran-82-cleaving
+  title: 'The cleaving: the noble scribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: At the end the seas are set aflame or burst forth (sujjirat, fujjirat)
+  note: 'weak: wa-idhā l-biḥāru fujjirat (seas burst forth, at the end) ~ wa-yyāsek bi-dlātayim yām be-gîḥô
+    mē-reḥem yēṣēʾ (the sea bursting from the womb, at creation, shut in by doors). Creation''s restraint
+    undone.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 38:8
+      lang: he
+      text: וַיָּ֣סֶךְ בִּדְלָתַ֣יִם יָ֑ם בְּ֝גִיח֗וֹ מֵרֶ֥חֶם יֵצֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 82:3
+      lang: ar
+      text: وَإِذَا ٱلْبِحَارُ فُجِّرَتْ
 ---
 
 ## Questions

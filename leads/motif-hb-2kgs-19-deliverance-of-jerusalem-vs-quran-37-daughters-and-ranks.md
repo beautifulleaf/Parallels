@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-19-deliverance-of-jerusalem-vs-quran-37-daughters-and-ranks
 title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter ↔ Daughters of
   God denied; the angels' stations; closing doxology
-summary: 'These two units share 1 motifs: when the punishment descends in their courtyard, evil will be
-  the morning of those who were warned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - evil-morning-of-the-warned
-passages:
-- tradition: judaism
-  ref: 2Kgs 19:35
-  note: 'When the punishment descends in their courtyard, evil will be the morning of those who were warned
-    (wa-yyaškîmû ḇa-bbōqer wə-hinnēh ḵullām pəḡārîm mēṯîm vs. fa-idhā nazala bi-sāḥatihim fa-sāʾa ṣabāḥu
-    l-mundharīn: the night blow of God''s punishment discovered in the morning (bōqer / ṣabāḥ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
-    שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
-- tradition: islam
-  ref: Quran 37:177
-  note: When the punishment descends in their courtyard, evil will be the morning of those who were warned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ
-- tradition: islam
-  ref: Quran 37:176
-  note: When the punishment descends in their courtyard, evil will be the morning of those who were warned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yyaškîmû ḇa-bbōqer wə-hinnēh ḵullām pəḡārîm mēṯîm vs. fa-idhā nazala bi-sāḥatihim fa-sāʾa
-    ṣabāḥu l-mundharīn: the night blow of God''s punishment discovered in the morning (bōqer / ṣabāḥ).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When the punishment descends in their courtyard, evil will be the
     morning of those who were warned (weight 6.7). Pair score 6.7.'
@@ -75,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When the punishment descends in their courtyard, evil will be the morning of those who were warned
+kinds:
+- echo
+units:
+- id: hb-2kgs-19-deliverance-of-jerusalem
+  title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+  tradition: judaism
+- id: quran-37-daughters-and-ranks
+  title: Daughters of God denied; the angels' stations; closing doxology
+  tradition: islam
+matches:
+- kind: echo
+  label: When the punishment descends in their courtyard, evil will be the morning of those who were warned
+  note: 'wa-yyaškîmû ḇa-bbōqer wə-hinnēh ḵullām pəḡārîm mēṯîm vs. fa-idhā nazala bi-sāḥatihim fa-sāʾa
+    ṣabāḥu l-mundharīn: the night blow of God''s punishment discovered in the morning (bōqer / ṣabāḥ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 19:35
+      lang: he
+      text: וַיְהִי֮ בַּלַּ֣יְלָה הַהוּא֒ וַיֵּצֵ֣א מַלְאַ֣ךְ יְהוָ֗ה וַיַּךְ֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה
+        שְׁמוֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 37:176
+      lang: ar
+      text: أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ
+    - ref: Quran 37:177
+      lang: ar
+      text: فَإِذَا نَزَلَ بِسَاحَتِهِمْ فَسَآءَ صَبَاحُ ٱلْمُنذَرِينَ
 ---
 
 ## Questions

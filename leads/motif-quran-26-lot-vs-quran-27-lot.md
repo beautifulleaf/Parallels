@@ -1,9 +1,7 @@
 ---
 id: motif-quran-26-lot-vs-quran-27-lot
 title: Lot and his people ↔ Lot and the people who expel the pure
-summary: 'These two units share 7 motifs: lot condemns his people for approaching males and leaving the
-  wives god created for them, lot''s people threaten to expel him, the town that was rained on with an
-  evil rain (lot''s) is passed by travelers, the fate of lot''s wife….'
+summary: 7 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -20,124 +18,7 @@ motifs:
 - wife-turned-to-pillar-of-salt
 - fire-and-brimstone-from-heaven
 - family-saved
-passages:
-- tradition: islam
-  ref: Quran 26:165
-  note: Lot condemns his people for approaching males and leaving the wives God created for them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:166
-  note: Lot condemns his people for approaching males and leaving the wives God created for them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم بَلْ أَنتُمْ قَوْمٌ عَادُونَ
-- tradition: islam
-  ref: Quran 27:54
-  note: Lot condemns his people for approaching males and leaving the wives God created for them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
-- tradition: islam
-  ref: Quran 27:55
-  note: Lot condemns his people for approaching males and leaving the wives God created for them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: islam
-  ref: Quran 26:167
-  note: Lot's people threaten to expel him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ
-- tradition: islam
-  ref: Quran 27:56
-  note: Lot's people threaten to expel him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
-    إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
-- tradition: islam
-  ref: Quran 26:173
-  note: The town that was rained on with an evil rain (Lot's) is passed by travelers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-- tradition: islam
-  ref: Quran 27:58
-  note: The town that was rained on with an evil rain (Lot's) is passed by travelers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-- tradition: islam
-  ref: Quran 26:171
-  note: 'The fate of Lot''s wife (illā ʿajūzan fī l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî
-    nəṣîv melaḥ: the one family member lost. Genesis names her Lot''s wife and says why (she looked back)
-    and how (pillar of salt); the Quran says only ''an old woman among those who stayed behind'', with
-    no looking back and no salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 27:57
-  note: 'The fate of Lot''s wife (Who decides the wife''s fate: Genesis gives her own act, the warning
-    ʾal tabbîṭ ʾaḥărêkā and wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God''s
-    decree, illā mraʾatahu qaddarnāhā mina l-ghābirīna, ''we decreed her among those who stayed behind'',
-    with no looking back and no salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 26:171
-  note: Wife who looks back is turned into a pillar of salt (only 'an old woman among those who lagged
-    behind')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 27:57
-  note: Wife who looks back is turned into a pillar of salt (his wife decreed among those who lagged behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 26:173
-  note: God rains sulfur and fire from heaven on cities ('we rained a rain upon them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-- tradition: islam
-  ref: Quran 26:172
-  note: God rains sulfur and fire from heaven on cities ('we rained a rain upon them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ
-- tradition: islam
-  ref: Quran 27:58
-  note: 'God rains sulfur and fire from heaven on cities (wa-amṭarnā ʿalayhim maṭaran ~ wa-YHWH himṭîr
-    ʿal Sədōm ... gofrît wā-ʾēš: the same verb of ''raining'' destruction.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
-- tradition: islam
-  ref: Quran 26:169
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 26:170
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
-- tradition: islam
-  ref: Quran 27:57
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Lot condemns his people for approaching males and leaving the wives
     God created for them (weight 6.7); Lot''s people threaten to expel him (weight 6.3); The town that
@@ -162,6 +43,134 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Lot condemns his people for approaching males and leaving the wives God created for them
+kinds:
+- shared
+units:
+- id: quran-26-lot
+  title: Lot and his people
+  tradition: islam
+- id: quran-27-lot
+  title: Lot and the people who expel the pure
+  tradition: islam
+matches:
+- kind: shared
+  label: Lot condemns his people for approaching males and leaving the wives God created for them
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:165
+      lang: ar
+      text: أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:166
+      lang: ar
+      text: وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم بَلْ أَنتُمْ قَوْمٌ عَادُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:54
+      lang: ar
+      text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ وَأَنتُمْ تُبْصِرُونَ
+    - ref: Quran 27:55
+      lang: ar
+      text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ بَلْ أَنتُمْ قَوْمٌ تَجْهَلُونَ
+- kind: shared
+  label: Lot's people threaten to expel him
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:167
+      lang: ar
+      text: قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:56
+      lang: ar
+      text: فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوٓا۟ ءَالَ لُوطٍ مِّن قَرْيَتِكُمْ
+        إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ
+- kind: shared
+  label: The town that was rained on with an evil rain (Lot's) is passed by travelers
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:173
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:58
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+- kind: shared
+  label: The fate of Lot's wife
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:171
+      lang: ar
+      text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
+    note: 'illā ʿajūzan fī l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ: the one family
+      member lost. Genesis names her Lot''s wife and says why (she looked back) and how (pillar of salt);
+      the Quran says only ''an old woman among those who stayed behind'', with no looking back and no
+      salt.'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+    note: 'Who decides the wife''s fate: Genesis gives her own act, the warning ʾal tabbîṭ ʾaḥărêkā and
+      wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ; the Quran gives God''s decree, illā mraʾatahu
+      qaddarnāhā mina l-ghābirīna, ''we decreed her among those who stayed behind'', with no looking back
+      and no salt.'
+- kind: shared
+  label: Wife who looks back is turned into a pillar of salt
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:171
+      lang: ar
+      text: إِلَّا عَجُوزًا فِى ٱلْغَٰبِرِينَ
+    note: only 'an old woman among those who lagged behind'
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
+    note: his wife decreed among those who lagged behind
+- kind: shared
+  label: God rains sulfur and fire from heaven on cities
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:173
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+    - ref: Quran 26:172
+      lang: ar
+      text: ثُمَّ دَمَّرْنَا ٱلْءَاخَرِينَ
+    note: '''we rained a rain upon them'''
+  - tradition: islam
+    passages:
+    - ref: Quran 27:58
+      lang: ar
+      text: وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ
+    note: 'wa-amṭarnā ʿalayhim maṭaran ~ wa-YHWH himṭîr ʿal Sədōm ... gofrît wā-ʾēš: the same verb of
+      ''raining'' destruction.'
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 26:169
+      lang: ar
+      text: رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ
+    - ref: Quran 26:170
+      lang: ar
+      text: فَنَجَّيْنَٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 27:57
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ قَدَّرْنَٰهَا مِنَ ٱلْغَٰبِرِينَ
 ---
 
 ## Questions

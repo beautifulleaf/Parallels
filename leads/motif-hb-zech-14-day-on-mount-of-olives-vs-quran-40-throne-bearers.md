@@ -2,8 +2,7 @@
 id: motif-hb-zech-14-day-on-mount-of-olives-vs-quran-40-throne-bearers
 title: 'The final day on the Mount of Olives; living waters; Sukkot for the nations ↔ Ha-Mim: the Forgiver;
   the throne-bearers pray for the believers'
-summary: 'These two units share 1 motifs: on the day god asks ''whose is the kingdom today?'' and answers
-  ''god''s, the one, the overpowering''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - whose-is-the-kingdom-today
-passages:
-- tradition: judaism
-  ref: Zech 14:9
-  note: 'On the Day God asks ''Whose is the kingdom today?'' and answers ''God''s, the One, the Overpowering''
-    (wə-hāyâ YHWH lə-meleḵ ʿal-kol-hā-ʾāreṣ ba-yyôm ha-hûʾ yihyeh YHWH ʾeḥāḏ û-šəmô ʾeḥāḏ vs. li-mani
-    l-mulku l-yawma li-llāhi l-wāḥidi l-qahhār: on that day kingship over all belongs to the One God (meleḵ
-    / mulk, ʾeḥāḏ / wāḥid). In Zechariah God becomes king after the battle for Jerusalem; in the Quran
-    God asks and answers the question himself at the judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
-    אֶחָֽד
-- tradition: islam
-  ref: Quran 40:16
-  note: On the Day God asks 'Whose is the kingdom today?' and answers 'God's, the One, the Overpowering'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ هُم بَٰرِزُونَ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ لِلَّهِ
-    ٱلْوَٰحِدِ ٱلْقَهَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-hāyâ YHWH lə-meleḵ ʿal-kol-hā-ʾāreṣ ba-yyôm ha-hûʾ yihyeh YHWH ʾeḥāḏ û-šəmô ʾeḥāḏ vs.
-    li-mani l-mulku l-yawma li-llāhi l-wāḥidi l-qahhār: on that day kingship over all belongs to the One
-    God (meleḵ / mulk, ʾeḥāḏ / wāḥid). In Zechariah God becomes king after the battle for Jerusalem; in
-    the Quran God asks and answers the question himself at the judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the Day God asks ''Whose is the kingdom today?'' and answers
     ''God''s, the One, the Overpowering'' (weight 6.7). Pair score 6.7.'
@@ -80,6 +57,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the Day God asks 'Whose is the kingdom today?' and answers 'God's, the One, the Overpowering'
+kinds:
+- parallel
+units:
+- id: hb-zech-14-day-on-mount-of-olives
+  title: The final day on the Mount of Olives; living waters; Sukkot for the nations
+  tradition: judaism
+- id: quran-40-throne-bearers
+  title: 'Ha-Mim: the Forgiver; the throne-bearers pray for the believers'
+  tradition: islam
+matches:
+- kind: parallel
+  label: On the Day God asks 'Whose is the kingdom today?' and answers 'God's, the One, the Overpowering'
+  note: 'wə-hāyâ YHWH lə-meleḵ ʿal-kol-hā-ʾāreṣ ba-yyôm ha-hûʾ yihyeh YHWH ʾeḥāḏ û-šəmô ʾeḥāḏ vs. li-mani
+    l-mulku l-yawma li-llāhi l-wāḥidi l-qahhār: on that day kingship over all belongs to the One God (meleḵ
+    / mulk, ʾeḥāḏ / wāḥid). In Zechariah God becomes king after the battle for Jerusalem; in the Quran
+    God asks and answers the question himself at the judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 14:9
+      lang: he
+      text: וְהָיָ֧ה יְהוָ֛ה לְמֶ֖לֶךְ עַל כָּל הָאָ֑רֶץ בַּיּ֣וֹם הַה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּשְׁמ֥וֹ
+        אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 40:16
+      lang: ar
+      text: يَوْمَ هُم بَٰرِزُونَ لَا يَخْفَىٰ عَلَى ٱللَّهِ مِنْهُمْ شَىْءٌ لِّمَنِ ٱلْمُلْكُ ٱلْيَوْمَ
+        لِلَّهِ ٱلْوَٰحِدِ ٱلْقَهَّارِ
 ---
 
 ## Questions

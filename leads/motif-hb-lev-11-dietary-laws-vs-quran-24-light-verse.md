@@ -2,8 +2,7 @@
 id: motif-hb-lev-11-dietary-laws-vs-quran-24-light-verse
 title: Clean and unclean animals; carcass impurity ↔ The Light Verse; the mirage, the dark sea, the praising
   birds, hail and the creatures
-summary: 'These two units share 1 motifs: god created every beast from water: some go on their bellies,
-  some on two legs, some on four.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - animals-on-belly-two-legs-four
-passages:
-- tradition: judaism
-  ref: Lev 11:42
-  note: 'God created every beast from water: some go on their bellies, some on two legs, some on four
-    (fa-minhum man yamshī ʿalā baṭnihi wa-minhum man yamshī ʿalā rijlayni wa-minhum man yamshī ʿalā arbaʿin
-    ~ kōl hôlēkh ʿal gāḥôn wə-khōl hôlēkh ʿal ʾarbaʿ ʿad kol marbēh raglayim: the same classification
-    of animals by how they walk (on the belly, on four, on legs). In Leviticus it decides what is unclean
-    food, in the Quran it is a sign of God''s creative will.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּל֩ הוֹלֵ֨ךְ עַל גָּח֜וֹן וְכֹ֣ל הוֹלֵ֣ךְ עַל אַרְבַּ֗ע עַ֚ד כָּל מַרְבֵּ֣ה רַגְלַ֔יִם לְכָל
-    הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי שֶׁ֥קֶץ הֵֽם
-- tradition: islam
-  ref: Quran 24:45
-  note: 'God created every beast from water: some go on their bellies, some on two legs, some on four'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم
-    مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ
-    إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-minhum man yamshī ʿalā baṭnihi wa-minhum man yamshī ʿalā rijlayni wa-minhum man yamshī ʿalā
-    arbaʿin ~ kōl hôlēkh ʿal gāḥôn wə-khōl hôlēkh ʿal ʾarbaʿ ʿad kol marbēh raglayim: the same classification
-    of animals by how they walk (on the belly, on four, on legs). In Leviticus it decides what is unclean
-    food, in the Quran it is a sign of God''s creative will.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created every beast from water: some go on their bellies, some
     on two legs, some on four (weight 6.7). Pair score 6.7.'
@@ -77,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God created every beast from water: some go on their bellies, some on two legs, some on four'
+kinds:
+- echo
+units:
+- id: hb-lev-11-dietary-laws
+  title: Clean and unclean animals; carcass impurity
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: 'God created every beast from water: some go on their bellies, some on two legs, some on four'
+  note: 'fa-minhum man yamshī ʿalā baṭnihi wa-minhum man yamshī ʿalā rijlayni wa-minhum man yamshī ʿalā
+    arbaʿin ~ kōl hôlēkh ʿal gāḥôn wə-khōl hôlēkh ʿal ʾarbaʿ ʿad kol marbēh raglayim: the same classification
+    of animals by how they walk (on the belly, on four, on legs). In Leviticus it decides what is unclean
+    food, in the Quran it is a sign of God''s creative will.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 11:42
+      lang: he
+      text: כֹּל֩ הוֹלֵ֨ךְ עַל גָּח֜וֹן וְכֹ֣ל הוֹלֵ֣ךְ עַל אַרְבַּ֗ע עַ֚ד כָּל מַרְבֵּ֣ה רַגְלַ֔יִם לְכָל
+        הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי שֶׁ֥קֶץ הֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 24:45
+      lang: ar
+      text: وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم
+        مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ
+        إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

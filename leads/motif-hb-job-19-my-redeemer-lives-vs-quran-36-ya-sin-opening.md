@@ -2,8 +2,7 @@
 id: motif-hb-job-19-my-redeemer-lives-vs-quran-36-ya-sin-opening
 title: Job - abandoned by all; 'I know my redeemer lives' ↔ Ya-Sin; the collars and the barrier; deeds
   recorded
-summary: 'These two units share 1 motifs: god has put collars up to their chins so their heads are forced
-  up, and a barrier before and behind them, covering them so they do not see.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - collars-to-chins-barrier-before-and-behind
-passages:
-- tradition: judaism
-  ref: Job 19:8
-  note: 'God has put collars up to their chins so their heads are forced up, and a barrier before and
-    behind them, covering them so they do not see (ʾorḥî ḡāḏar wə-lōʾ ʾeʿĕḇôr wə-ʿal nəṯîḇôṯay ḥōšeḵ yāśîm
-    vs. wa-jaʿalnā min bayni aydīhim saddan wa-min khalfihim saddan fa-aghshaynāhum fa-hum lā yubṣirūn:
-    God walls in the way and covers the sight. For Job it is the unjust lot of an innocent man; for the
-    Quran the sentence on those ''against whom the word is due'' (ḥaqqa l-qawl, 36:7).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָרְחִ֣י גָ֭דַר וְלֹ֣א אֶעֱב֑וֹר וְעַ֥ל נְ֝תִיבוֹתַ֗י חֹ֣שֶׁךְ יָשִֽׂים
-- tradition: islam
-  ref: Quran 36:8
-  note: God has put collars up to their chins so their heads are forced up, and a barrier before and behind
-    them, covering them so they do not see
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا جَعَلْنَا فِىٓ أَعْنَٰقِهِمْ أَغْلَٰلًا فَهِىَ إِلَى ٱلْأَذْقَانِ فَهُم مُّقْمَحُونَ
-- tradition: islam
-  ref: Quran 36:9
-  note: God has put collars up to their chins so their heads are forced up, and a barrier before and behind
-    them, covering them so they do not see
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾorḥî ḡāḏar wə-lōʾ ʾeʿĕḇôr wə-ʿal nəṯîḇôṯay ḥōšeḵ yāśîm vs. wa-jaʿalnā min bayni aydīhim saddan
-    wa-min khalfihim saddan fa-aghshaynāhum fa-hum lā yubṣirūn: God walls in the way and covers the sight.
-    For Job it is the unjust lot of an innocent man; for the Quran the sentence on those ''against whom
-    the word is due'' (ḥaqqa l-qawl, 36:7).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has put collars up to their chins so their heads are forced
     up, and a barrier before and behind them, covering them so they do not see (weight 6.3). Pair score
@@ -77,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has put collars up to their chins so their heads are forced up, and a barrier before and
+  behind them, covering them so they do not see
+kinds:
+- echo
+units:
+- id: hb-job-19-my-redeemer-lives
+  title: Job - abandoned by all; 'I know my redeemer lives'
+  tradition: judaism
+- id: quran-36-ya-sin-opening
+  title: Ya-Sin; the collars and the barrier; deeds recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: God has put collars up to their chins so their heads are forced up, and a barrier before and
+    behind them, covering them so they do not see
+  note: 'ʾorḥî ḡāḏar wə-lōʾ ʾeʿĕḇôr wə-ʿal nəṯîḇôṯay ḥōšeḵ yāśîm vs. wa-jaʿalnā min bayni aydīhim saddan
+    wa-min khalfihim saddan fa-aghshaynāhum fa-hum lā yubṣirūn: God walls in the way and covers the sight.
+    For Job it is the unjust lot of an innocent man; for the Quran the sentence on those ''against whom
+    the word is due'' (ḥaqqa l-qawl, 36:7).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 19:8
+      lang: he
+      text: אָרְחִ֣י גָ֭דַר וְלֹ֣א אֶעֱב֑וֹר וְעַ֥ל נְ֝תִיבוֹתַ֗י חֹ֣שֶׁךְ יָשִֽׂים
+  - tradition: islam
+    passages:
+    - ref: Quran 36:9
+      lang: ar
+      text: وَجَعَلْنَا مِنۢ بَيْنِ أَيْدِيهِمْ سَدًّا وَمِنْ خَلْفِهِمْ سَدًّا فَأَغْشَيْنَٰهُمْ فَهُمْ
+        لَا يُبْصِرُونَ
 ---
 
 ## Questions

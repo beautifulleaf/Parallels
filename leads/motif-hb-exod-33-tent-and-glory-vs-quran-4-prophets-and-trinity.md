@@ -2,8 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-4-prophets-and-trinity
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ The chain of revelation; Jesus,
   word and spirit; 'say not three'
-summary: 'These two units share 1 motifs: god speaks to the prophet face to face, as a man speaks to his
-  friend.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - god-speaks-face-to-face-as-to-a-friend
-passages:
-- tradition: judaism
-  ref: Exod 33:11
-  note: God speaks to the prophet face to face, as a man speaks to his friend
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙
-    אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל
-- tradition: judaism
-  ref: Exod 33:17
-  note: God speaks to the prophet face to face, as a man speaks to his friend
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה גַּ֣ם אֶת הַדָּבָ֥ר הַזֶּ֛ה אֲשֶׁ֥ר דִּבַּ֖רְתָּ אֶֽעֱשֶׂ֑ה כִּֽי
-    מָצָ֤אתָ חֵן֙ בְּעֵינַ֔י וָאֵדָעֲךָ֖ בְּשֵֽׁם
-- tradition: islam
-  ref: Quran 4:164
-  note: God speaks to the prophet face to face, as a man speaks to his friend (wa-kallama llāhu mūsā taklīman;
-    cf. Num 12:8, Exod 33:11)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ
-    ٱللَّهُ مُوسَىٰ تَكْلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-kallama llāhu Mūsā taklīman, singling out Moses among the prophets as the one God
-    addressed directly. Exod: wə-dibber YHWH ʾel-Mōšeh pānîm ʾel-pānîm kaʾăšer yədabbēr ʾîš ʾel-rēʿēhû.
-    Q omits ''face to face''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God speaks to the prophet face to face, as a man speaks to his friend
     (weight 6.0). Pair score 6.0.'
@@ -77,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God speaks to the prophet face to face, as a man speaks to his friend
+kinds:
+- parallel
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God speaks to the prophet face to face, as a man speaks to his friend
+  note: 'Q: wa-kallama llāhu Mūsā taklīman, singling out Moses among the prophets as the one God addressed
+    directly. Exod: wə-dibber YHWH ʾel-Mōšeh pānîm ʾel-pānîm kaʾăšer yədabbēr ʾîš ʾel-rēʿēhû. Q omits
+    ''face to face''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:11
+      lang: he
+      text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ
+        וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ
+        הָאֹֽהֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 4:164
+      lang: ar
+      text: وَرُسُلًا قَدْ قَصَصْنَٰهُمْ عَلَيْكَ مِن قَبْلُ وَرُسُلًا لَّمْ نَقْصُصْهُمْ عَلَيْكَ وَكَلَّمَ
+        ٱللَّهُ مُوسَىٰ تَكْلِيمًا
 ---
 
 ## Questions

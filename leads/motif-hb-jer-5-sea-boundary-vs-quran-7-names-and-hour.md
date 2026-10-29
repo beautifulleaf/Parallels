@@ -2,8 +2,7 @@
 id: motif-hb-jer-5-sea-boundary-vs-quran-7-names-and-hour
 title: The sea's sand boundary; houses full of deceit ↔ Made for hell, the beautiful names, the unknown
   Hour
-summary: 'These two units share 1 motifs: a foolish people who have eyes but do not see and ears but do
-  not hear.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - eyes-that-do-not-see
-passages:
-- tradition: judaism
-  ref: Jer 5:21
-  note: A foolish people who have eyes but do not see and ears but do not hear
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
-    וְלֹ֥א יִשְׁמָֽעוּ
-- tradition: islam
-  ref: Quran 7:179
-  note: A foolish people who have eyes but do not see and ears but do not hear (hearts that do not understand,
-    eyes, ears)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
-    بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
-    كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Same three-part formula built on lahum / lāhem: lahum qulūbun lā yafqahūna bihā wa-lahum
-    aʿyunun lā yubṣirūna bihā wa-lahum ādhānun lā yasmaʿūna bihā vs ʿam sākāl wᵉʾên lēb ʿênayim lāhem
-    wᵉlōʾ yirʾû ʾoznayim lāhem wᵉlōʾ yišmāʿû. Q adds that God made many of them for hell (dharaʾnā li-jahannama).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A foolish people who have eyes but do not see and ears but do not
     hear (weight 5.4). Pair score 5.4.'
@@ -67,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A foolish people who have eyes but do not see and ears but do not hear
+kinds:
+- parallel
+units:
+- id: hb-jer-5-sea-boundary
+  title: The sea's sand boundary; houses full of deceit
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: parallel
+  label: A foolish people who have eyes but do not see and ears but do not hear
+  note: 'Same three-part formula built on lahum / lāhem: lahum qulūbun lā yafqahūna bihā wa-lahum aʿyunun
+    lā yubṣirūna bihā wa-lahum ādhānun lā yasmaʿūna bihā vs ʿam sākāl wᵉʾên lēb ʿênayim lāhem wᵉlōʾ yirʾû
+    ʾoznayim lāhem wᵉlōʾ yišmāʿû. Q adds that God made many of them for hell (dharaʾnā li-jahannama).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 5:21
+      lang: he
+      text: שִׁמְעוּ נָ֣א זֹ֔את עַ֥ם סָכָ֖ל וְאֵ֣ין לֵ֑ב עֵינַ֤יִם לָהֶם֙ וְלֹ֣א יִרְא֔וּ אָזְנַ֥יִם לָהֶ֖ם
+        וְלֹ֥א יִשְׁמָֽעוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:179
+      lang: ar
+      text: وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَثِيرًا مِّنَ ٱلْجِنِّ وَٱلْإِنسِ لَهُمْ قُلُوبٌ لَّا يَفْقَهُونَ
+        بِهَا وَلَهُمْ أَعْيُنٌ لَّا يُبْصِرُونَ بِهَا وَلَهُمْ ءَاذَانٌ لَّا يَسْمَعُونَ بِهَآ أُو۟لَٰٓئِكَ
+        كَٱلْأَنْعَٰمِ بَلْ هُمْ أَضَلُّ أُو۟لَٰٓئِكَ هُمُ ٱلْغَٰفِلُونَ
 ---
 
 ## Questions

@@ -3,7 +3,7 @@ id: motif-hb-1chr-4-judah-clans-jabez-vs-quran-66-tahrim-wives-and-the-four-wome
 title: 'Clans of Judah; the prayer of Jabez; craft guilds; Bithiah daughter of Pharaoh ↔ Al-Tahrim: the
   prohibited thing and the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s
   wife and Mary daughter of ''Imran'
-summary: 'These two units share 1 motifs: a daughter of pharaoh (bithiah) marries an israelite.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,23 +16,7 @@ layers:
 - motif
 motifs:
 - pharaohs-daughter-marries-israelite
-passages:
-- tradition: judaism
-  ref: 1Chr 4:18
-  note: A daughter of Pharaoh (Bithiah) marries an Israelite
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִשְׁתּ֣וֹ הַיְהֻדִיָּ֗ה יָלְדָ֞ה אֶת יֶ֨רֶד אֲבִ֤י גְדוֹר֙ וְאֶת חֶ֨בֶר֙ אֲבִ֣י שׂוֹכ֔וֹ וְאֶת
-    יְקֽוּתִיאֵ֖ל אֲבִ֣י זָנ֑וֹחַ וְאֵ֗לֶּה בְּנֵי֙ בִּתְיָ֣ה בַת פַּרְעֹ֔ה אֲשֶׁ֥ר לָקַ֖ח מָֽרֶד
-- tradition: islam
-  ref: Quran 66:11
-  note: A daughter of Pharaoh (Bithiah) marries an Israelite (the righteous royal Egyptian woman (Bithiah)
-    as counterpart to Asiya)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ
-    لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ
-    ٱلظَّٰلِمِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A daughter of Pharaoh (Bithiah) marries an Israelite (weight 6.7).
     Pair score 6.7.'
@@ -69,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A daughter of Pharaoh (Bithiah) marries an Israelite
+kinds:
+- shared
+units:
+- id: hb-1chr-4-judah-clans-jabez
+  title: Clans of Judah; the prayer of Jabez; craft guilds; Bithiah daughter of Pharaoh
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: shared
+  label: A daughter of Pharaoh (Bithiah) marries an Israelite
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 4:18
+      lang: he
+      text: וְאִשְׁתּ֣וֹ הַיְהֻדִיָּ֗ה יָלְדָ֞ה אֶת יֶ֨רֶד אֲבִ֤י גְדוֹר֙ וְאֶת חֶ֨בֶר֙ אֲבִ֣י שׂוֹכ֔וֹ
+        וְאֶת יְקֽוּתִיאֵ֖ל אֲבִ֣י זָנ֑וֹחַ וְאֵ֗לֶּה בְּנֵי֙ בִּתְיָ֣ה בַת פַּרְעֹ֔ה אֲשֶׁ֥ר לָקַ֖ח מָֽרֶד
+  - tradition: islam
+    passages:
+    - ref: Quran 66:11
+      lang: ar
+      text: وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ
+        لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ
+        ٱلظَّٰلِمِينَ
+    note: the righteous royal Egyptian woman (Bithiah) as counterpart to Asiya
 ---
 
 ## Questions

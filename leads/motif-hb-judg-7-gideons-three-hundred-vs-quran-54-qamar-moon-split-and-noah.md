@@ -2,8 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-54-qamar-moon-split-and-noah
 title: 'The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ Al-Qamar: the
   moon split, the dead like locusts, and Noah''s ark of planks and fibres'
-summary: 'These two units share 2 motifs: with downcast eyes they come out of the graves like scattered
-  locusts, hastening to the caller, enemies and their camels are as numerous as locusts.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,47 +15,9 @@ layers:
 motifs:
 - dead-emerge-from-graves-like-scattered-locusts
 - enemies-numerous-as-locusts
-passages:
-- tradition: judaism
-  ref: Judg 7:12
-  note: 'With downcast eyes they come out of the graves like scattered locusts, hastening to the caller
-    (Locust simile for a vast crowd: nōp̄əlîm bā-ʿēmeq kā-ʾarbeh lā-rōḇ vs. yakhrujūna mina l-ajdāthi
-    ka-annahum jarādun muntashir. In Judges the locusts are an enemy horde lying in a valley; in the Quran
-    the dead coming out of their graves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכָל בְּנֵי קֶ֨דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙
-    אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל שְׂפַ֥ת הַיָּ֖ם לָרֹֽב
-- tradition: islam
-  ref: Quran 54:7
-  note: With downcast eyes they come out of the graves like scattered locusts, hastening to the caller
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
-- tradition: islam
-  ref: Quran 54:8
-  note: With downcast eyes they come out of the graves like scattered locusts, hastening to the caller
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ
-- tradition: judaism
-  ref: Judg 7:12
-  note: Enemies and their camels are as numerous as locusts (as locusts, camels as sand of the sea)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכָל בְּנֵי קֶ֨דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙
-    אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל שְׂפַ֥ת הַיָּ֖ם לָרֹֽב
-- tradition: islam
-  ref: Quran 54:7
-  note: Enemies and their camels are as numerous as locusts (locust simile for a multitude)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Locust simile for a vast crowd: nōp̄əlîm bā-ʿēmeq kā-ʾarbeh lā-rōḇ vs. yakhrujūna mina l-ajdāthi
-    ka-annahum jarādun muntashir. In Judges the locusts are an enemy horde lying in a valley; in the Quran
-    the dead coming out of their graves.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: With downcast eyes they come out of the graves like scattered locusts,
     hastening to the caller (weight 6.7); Enemies and their camels are as numerous as locusts (weight
@@ -95,6 +56,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: With downcast eyes they come out of the graves like scattered locusts, hastening to the caller
+kinds:
+- echo
+- shared
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-54-qamar-moon-split-and-noah
+  title: 'Al-Qamar: the moon split, the dead like locusts, and Noah''s ark of planks and fibres'
+  tradition: islam
+matches:
+- kind: echo
+  label: With downcast eyes they come out of the graves like scattered locusts, hastening to the caller
+  note: 'Locust simile for a vast crowd: nōp̄əlîm bā-ʿēmeq kā-ʾarbeh lā-rōḇ vs. yakhrujūna mina l-ajdāthi
+    ka-annahum jarādun muntashir. In Judges the locusts are an enemy horde lying in a valley; in the Quran
+    the dead coming out of their graves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:12
+      lang: he
+      text: וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכָל בְּנֵי קֶ֨דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙
+        אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל שְׂפַ֥ת הַיָּ֖ם לָרֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 54:7
+      lang: ar
+      text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+- kind: shared
+  label: Enemies and their camels are as numerous as locusts
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:12
+      lang: he
+      text: וּמִדְיָ֨ן וַעֲמָלֵ֤ק וְכָל בְּנֵי קֶ֨דֶם֙ נֹפְלִ֣ים בָּעֵ֔מֶק כָּאַרְבֶּ֖ה לָרֹ֑ב וְלִגְמַלֵּיהֶם֙
+        אֵ֣ין מִסְפָּ֔ר כַּח֛וֹל שֶׁעַל שְׂפַ֥ת הַיָּ֖ם לָרֹֽב
+    note: as locusts, camels as sand of the sea
+  - tradition: islam
+    passages:
+    - ref: Quran 54:7
+      lang: ar
+      text: خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ
+    note: locust simile for a multitude
 ---
 
 ## Questions

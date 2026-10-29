@@ -2,7 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-20-taha-prologue
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Ta Ha,
   the purpose of the revelation and the throne
-summary: 'These two units share 1 motifs: to god belong the most beautiful names; call on him by them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - most-beautiful-names-of-god
-passages:
-- tradition: judaism
-  ref: Isa 45:5
-  note: 'To God belong the most beautiful names; call on him by them (ʾănî YHWH wəʾên ʿôd zûlātî ʾên ʾĕlōhîm
-    ... kî-ʾepes bilʿādāy; allāhu lā ilāha illā huwa lahu l-asmāʾu l-ḥusnā: there is no god beside him.
-    Isa ties it to the single name YHWH; Q to ''the most beautiful names''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִ֤י יְהוָה֙ וְאֵ֣ין ע֔וֹד זוּלָתִ֖י אֵ֣ין אֱלֹהִ֑ים אֲאַזֶּרְךָ֖ וְלֹ֥א יְדַעְתָּֽנִי
-- tradition: judaism
-  ref: Isa 45:6
-  note: 'To God belong the most beautiful names; call on him by them (ʾănî YHWH wəʾên ʿôd zûlātî ʾên ʾĕlōhîm
-    ... kî-ʾepes bilʿādāy; allāhu lā ilāha illā huwa lahu l-asmāʾu l-ḥusnā: there is no god beside him.
-    Isa ties it to the single name YHWH; Q to ''the most beautiful names''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְמַ֣עַן יֵדְע֗וּ מִמִּזְרַח שֶׁ֨מֶשׁ֙ וּמִמַּ֣עֲרָבָ֔הּ כִּי אֶ֖פֶס בִּלְעָדָ֑י אֲנִ֥י יְהוָ֖ה
-    וְאֵ֥ין עֽוֹד
-- tradition: islam
-  ref: Quran 20:8
-  note: To God belong the most beautiful names; call on him by them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. ʾănî YHWH wəʾên ʿôd zûlātî ʾên ʾĕlōhîm ... kî-ʾepes bilʿādāy; allāhu lā ilāha illā huwa
-    lahu l-asmāʾu l-ḥusnā: there is no god beside him. Isa ties it to the single name YHWH; Q to ''the
-    most beautiful names''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To God belong the most beautiful names; call on him by them (weight
     6.3). Pair score 6.3.'
@@ -76,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: To God belong the most beautiful names; call on him by them
+kinds:
+- parallel
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-20-taha-prologue
+  title: Ta Ha, the purpose of the revelation and the throne
+  tradition: islam
+matches:
+- kind: parallel
+  label: To God belong the most beautiful names; call on him by them
+  note: 'ʾănî YHWH wəʾên ʿôd zûlātî ʾên ʾĕlōhîm ... kî-ʾepes bilʿādāy; allāhu lā ilāha illā huwa lahu
+    l-asmāʾu l-ḥusnā: there is no god beside him. Isa ties it to the single name YHWH; Q to ''the most
+    beautiful names''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:5
+      lang: he
+      text: אֲנִ֤י יְהוָה֙ וְאֵ֣ין ע֔וֹד זוּלָתִ֖י אֵ֣ין אֱלֹהִ֑ים אֲאַזֶּרְךָ֖ וְלֹ֥א יְדַעְתָּֽנִי
+    - ref: Isa 45:6
+      lang: he
+      text: לְמַ֣עַן יֵדְע֗וּ מִמִּזְרַח שֶׁ֨מֶשׁ֙ וּמִמַּ֣עֲרָבָ֔הּ כִּי אֶ֖פֶס בִּלְעָדָ֑י אֲנִ֥י יְהוָ֖ה
+        וְאֵ֥ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 20:8
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-3-moab-campaign-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'Jehoram''s campaign against Mesha of Moab ↔ Al-Hashr: the first gathering and exile of the Banu
   Nadir, the cut palms, and the law of fay'''
-summary: 'These two units share 1 motifs: do not cut down fruit trees during a siege: is the tree of the
-  field a man?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - spare-fruit-trees-in-siege
-passages:
-- tradition: judaism
-  ref: 2Kgs 3:19
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (Contradicts Deut
-    20:19)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִכִּיתֶ֞ם כָּל עִ֤יר מִבְצָר֙ וְכָל עִ֣יר מִבְח֔וֹר וְכָל עֵ֥ץ טוֹב֙ תַּפִּ֔ילוּ וְכָל מַעְיְנֵי
-    מַ֖יִם תִּסְתֹּ֑מוּ וְכֹל֙ הַחֶלְקָ֣ה הַטּוֹבָ֔ה תַּכְאִ֖בוּ בָּאֲבָנִֽים
-- tradition: judaism
-  ref: 2Kgs 3:25
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (Contradicts Deut
-    20:19)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֶעָרִ֣ים יַהֲרֹ֡סוּ וְכָל חֶלְקָ֣ה ט֠וֹבָה יַשְׁלִ֨יכוּ אִישׁ אַבְנ֜וֹ וּמִלְא֗וּהָ וְכָל מַעְיַן
-    מַ֤יִם יִסְתֹּ֨מוּ֙ וְכָל עֵֽץ ט֣וֹב יַפִּ֔ילוּ עַד הִשְׁאִ֧יר אֲבָנֶ֛יהָ בַּקִּ֖יר חֲרָ֑שֶׂת וַיָּסֹ֥בּוּ
-    הַקַּלָּעִ֖ים וַיַּכּֽוּהָ
-- tradition: islam
-  ref: Quran 59:5
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (contrast: cutting
-    the enemy''s palms is permitted by God''s leave (Deut 20:19 forbids))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
-    وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The biblical exception: a prophet''s word authorizes felling good trees: wə-ḵol ʿēṣ ṭôḇ
-    tappîlû wə-ḵol maʿyənê mayim tistōmû (Elisha''s oracle, carried out in 3:25) vs. mā qaṭaʿtum min līnatin
-    ... fa-bi-idhni llāh. In both the destruction of the enemy''s trees is licensed by a divine word;
-    both run against Deut 20:19.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not cut down fruit trees during a siege: is the tree of the field
     a man? (weight 6.3). Pair score 6.3.'
@@ -85,6 +55,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Do not cut down fruit trees during a siege: is the tree of the field a man?'
+kinds:
+- parallel
+units:
+- id: hb-2kgs-3-moab-campaign
+  title: Jehoram's campaign against Mesha of Moab
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Do not cut down fruit trees during a siege: is the tree of the field a man?'
+  note: 'The biblical exception: a prophet''s word authorizes felling good trees: wə-ḵol ʿēṣ ṭôḇ tappîlû
+    wə-ḵol maʿyənê mayim tistōmû (Elisha''s oracle, carried out in 3:25) vs. mā qaṭaʿtum min līnatin ...
+    fa-bi-idhni llāh. In both the destruction of the enemy''s trees is licensed by a divine word; both
+    run against Deut 20:19.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 3:19
+      lang: he
+      text: וְהִכִּיתֶ֞ם כָּל עִ֤יר מִבְצָר֙ וְכָל עִ֣יר מִבְח֔וֹר וְכָל עֵ֥ץ טוֹב֙ תַּפִּ֔ילוּ וְכָל
+        מַעְיְנֵי מַ֖יִם תִּסְתֹּ֑מוּ וְכֹל֙ הַחֶלְקָ֣ה הַטּוֹבָ֔ה תַּכְאִ֖בוּ בָּאֲבָנִֽים
+    - ref: 2Kgs 3:25
+      lang: he
+      text: וְהֶעָרִ֣ים יַהֲרֹ֡סוּ וְכָל חֶלְקָ֣ה ט֠וֹבָה יַשְׁלִ֨יכוּ אִישׁ אַבְנ֜וֹ וּמִלְא֗וּהָ וְכָל
+        מַעְיַן מַ֤יִם יִסְתֹּ֨מוּ֙ וְכָל עֵֽץ ט֣וֹב יַפִּ֔ילוּ עַד הִשְׁאִ֧יר אֲבָנֶ֛יהָ בַּקִּ֖יר חֲרָ֑שֶׂת
+        וַיָּסֹ֥בּוּ הַקַּלָּעִ֖ים וַיַּכּֽוּהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 59:5
+      lang: ar
+      text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
+        وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

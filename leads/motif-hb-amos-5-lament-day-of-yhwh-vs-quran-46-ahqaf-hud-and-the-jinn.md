@@ -2,8 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Hud warns 'Ad at the
   dunes; the cloud that was not rain; the jinn listen to the Quran
-summary: 'These two units share 1 motifs: woe to those who desire the day of yhwh: it is darkness and
-  not light.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - day-of-yhwh-darkness-not-light
-passages:
-- tradition: judaism
-  ref: Amos 5:18-20
-  note: 'Woe to those who desire the Day of YHWH: it is darkness and not light'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (5:18) ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ
-    וְלֹא אֽוֹר (5:19) כַּאֲשֶׁ֨ר יָנ֥וּס אִישׁ֙ מִפְּנֵ֣י הָאֲרִ֔י וּפְגָע֖וֹ הַדֹּ֑ב וּבָ֣א הַבַּ֔יִת
-    וְסָמַ֤ךְ יָדוֹ֙ עַל הַקִּ֔יר וּנְשָׁכ֖וֹ הַנָּחָֽשׁ (5:20) הֲלֹא חֹ֛שֶׁךְ י֥וֹם יְהוָ֖ה וְלֹא א֑וֹר
-    וְאָפֵ֖ל וְלֹא נֹ֥גַֽהּ לֽוֹ
-- tradition: judaism
-  ref: Amos 5:18
-  note: 'Woe to those who desire the Day of YHWH: it is darkness and not light'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
-    אֽוֹר
-- tradition: islam
-  ref: Quran 46:24
-  note: 'Woe to those who desire the Day of YHWH: it is darkness and not light (What they longed for turns
-    out to be ruin: hôy ham-miṯʾawwîm ʾeṯ yôm YHWH ... hûʾ ḥōšeḵ wə-lōʾ ʾôr vs. hādhā ʿāriḍun mumṭirunā
-    bal huwa mā staʿjaltum bihi rīḥun fīhā ʿadhābun alīm. Amos''s hearers expect light; ʿĀd expects rain.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا بَلْ
-    هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. What they longed for turns out to be ruin: hôy ham-miṯʾawwîm ʾeṯ yôm YHWH ... hûʾ ḥōšeḵ
-    wə-lōʾ ʾôr vs. hādhā ʿāriḍun mumṭirunā bal huwa mā staʿjaltum bihi rīḥun fīhā ʿadhābun alīm. Amos''s
-    hearers expect light; ʿĀd expects rain.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who desire the Day of YHWH: it is darkness and not
     light (weight 6.7). Pair score 6.7.'
@@ -84,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Woe to those who desire the Day of YHWH: it is darkness and not light'
+kinds:
+- parallel
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Woe to those who desire the Day of YHWH: it is darkness and not light'
+  note: 'What they longed for turns out to be ruin: hôy ham-miṯʾawwîm ʾeṯ yôm YHWH ... hûʾ ḥōšeḵ wə-lōʾ
+    ʾôr vs. hādhā ʿāriḍun mumṭirunā bal huwa mā staʿjaltum bihi rīḥun fīhā ʿadhābun alīm. Amos''s hearers
+    expect light; ʿĀd expects rain.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:18
+      lang: he
+      text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
+        אֽוֹר
+    - ref: Amos 5:20
+      lang: he
+      text: הֲלֹא חֹ֛שֶׁךְ י֥וֹם יְהוָ֖ה וְלֹא א֑וֹר וְאָפֵ֖ל וְלֹא נֹ֥גַֽהּ לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:24
+      lang: ar
+      text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا
+        بَلْ هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-4-fighting-and-death
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Fighting
   for the oppressed; death in lofty towers
-summary: 'These two units share 2 motifs: ''i form light and create darkness, make peace and create evil
-  (ra''); i yhwh do all these'' [divergence between the texts], ''i form light and create darkness, make
-  peace and create evil (ra''); i yhwh do all these''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,60 +15,9 @@ layers:
 motifs:
 - god-creates-light-and-darkness-peace-and-evil-as-divergence
 - god-creates-light-and-darkness-peace-and-evil
-passages:
-- tradition: judaism
-  ref: Isa 45:7
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    [divergence between the texts] (Q 4:78 qul kullun min ʿindi llāh = Isa yôṣēr ʾôr û-bôrēʾ ḥōšekh ʿōśeh
-    šālôm û-bôrēʾ rāʿ ... ʿōśeh khol-ʾēlleh. But Q 4:79 adds at once mā aṣābaka min ḥasanatin fa-mina
-    llāhi wa-mā aṣābaka min sayyiʾatin fa-min nafsika, assigning evil to the self. Isa says God ''creates
-    evil''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 4:78
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    [divergence between the texts] (Q 4:78 qul kullun min ʿindi llāh = Isa yôṣēr ʾôr û-bôrēʾ ḥōšekh ʿōśeh
-    šālôm û-bôrēʾ rāʿ ... ʿōśeh khol-ʾēlleh. But Q 4:79 adds at once mā aṣābaka min ḥasanatin fa-mina
-    llāhi wa-mā aṣābaka min sayyiʾatin fa-min nafsika, assigning evil to the self. Isa says God ''creates
-    evil''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ
-    حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ
-    عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا
-- tradition: islam
-  ref: Quran 4:79
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    [divergence between the texts] (Q 4:78 qul kullun min ʿindi llāh = Isa yôṣēr ʾôr û-bôrēʾ ḥōšekh ʿōśeh
-    šālôm û-bôrēʾ rāʿ ... ʿōśeh khol-ʾēlleh. But Q 4:79 adds at once mā aṣābaka min ḥasanatin fa-mina
-    llāhi wa-mā aṣābaka min sayyiʾatin fa-min nafsika, assigning evil to the self. Isa says God ''creates
-    evil''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ وَأَرْسَلْنَٰكَ
-    لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا
-- tradition: judaism
-  ref: Isa 45:7
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 4:78
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    (''say: all is from God'' (qul kullun min ʿindi llāh))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ
-    حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ
-    عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Q 4:78 qul kullun min ʿindi llāh = Isa yôṣēr ʾôr û-bôrēʾ ḥōšekh ʿōśeh šālôm û-bôrēʾ rāʿ
-    ... ʿōśeh khol-ʾēlleh. But Q 4:79 adds at once mā aṣābaka min ḥasanatin fa-mina llāhi wa-mā aṣābaka
-    min sayyiʾatin fa-min nafsika, assigning evil to the self. Isa says God ''creates evil''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
     I YHWH do all these'' [divergence between the texts] (weight 6.7); ''I form light and create darkness,
@@ -110,6 +57,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+kinds:
+- divergence
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-4-fighting-and-death
+  title: Fighting for the oppressed; death in lofty towers
+  tradition: islam
+matches:
+- kind: divergence
+  label: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+  note: Q 4:78 qul kullun min ʿindi llāh = Isa yôṣēr ʾôr û-bôrēʾ ḥōšekh ʿōśeh šālôm û-bôrēʾ rāʿ ... ʿōśeh
+    khol-ʾēlleh. But Q 4:79 adds at once mā aṣābaka min ḥasanatin fa-mina llāhi wa-mā aṣābaka min sayyiʾatin
+    fa-min nafsika, assigning evil to the self. Isa says God 'creates evil'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:7
+      lang: he
+      text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל
+        אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:78
+      lang: ar
+      text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن
+        تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟
+        هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ
+        يَفْقَهُونَ حَدِيثًا
+    - ref: Quran 4:79
+      lang: ar
+      text: مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ
+        وَأَرْسَلْنَٰكَ لِلنَّاسِ رَسُولًا وَكَفَىٰ بِٱللَّهِ شَهِيدًا
 ---
 
 ## Questions

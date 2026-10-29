@@ -2,8 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-38-adam-iblis
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Adam made from clay; Iblis refuses and is granted
   respite
-summary: 'These two units share 2 motifs: god created adam ''with my two hands'', first human shaped from
-  dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,49 +15,9 @@ layers:
 motifs:
 - adam-made-by-gods-two-hands
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:8
-  note: 'God created Adam ''with my two hands'' (yāḏeyḵā ʿiṣṣəḇûnî wa-yyaʿăśûnî ... kî-ḵa-ḥōmer ʿăśîṯānî
-    vs. mā manaʿaka an tasjuda li-mā khalaqtu bi-yadayya ... wa-khalaqtahu min ṭīn: a human shaped by
-    God''s two hands (dual yāḏeyḵā / yadayya) out of clay. Job says it as a reproach; God says it as proof
-    of Adam''s dignity.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
-- tradition: judaism
-  ref: Job 10:9
-  note: 'God created Adam ''with my two hands'' (yāḏeyḵā ʿiṣṣəḇûnî wa-yyaʿăśûnî ... kî-ḵa-ḥōmer ʿăśîṯānî
-    vs. mā manaʿaka an tasjuda li-mā khalaqtu bi-yadayya ... wa-khalaqtahu min ṭīn: a human shaped by
-    God''s two hands (dual yāḏeyḵā / yadayya) out of clay. Job says it as a reproach; God says it as proof
-    of Adam''s dignity.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 38:75
-  note: God created Adam 'with my two hands'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ أَسْتَكْبَرْتَ أَمْ كُنتَ
-    مِنَ ٱلْعَالِينَ
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 38:71
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yāḏeyḵā ʿiṣṣəḇûnî wa-yyaʿăśûnî ... kî-ḵa-ḥōmer ʿăśîṯānî vs. mā manaʿaka an tasjuda li-mā khalaqtu
-    bi-yadayya ... wa-khalaqtahu min ṭīn: a human shaped by God''s two hands (dual yāḏeyḵā / yadayya)
-    out of clay. Job says it as a reproach; God says it as proof of Adam''s dignity.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God created Adam ''with my two hands'' (weight 6.7); First human
     shaped from dust, clay or soil (weight 4.6). Pair score 11.2.'
@@ -93,6 +52,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God created Adam 'with my two hands'
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: echo
+  label: God created Adam 'with my two hands'
+  note: 'yāḏeyḵā ʿiṣṣəḇûnî wa-yyaʿăśûnî ... kî-ḵa-ḥōmer ʿăśîṯānî vs. mā manaʿaka an tasjuda li-mā khalaqtu
+    bi-yadayya ... wa-khalaqtahu min ṭīn: a human shaped by God''s two hands (dual yāḏeyḵā / yadayya)
+    out of clay. Job says it as a reproach; God says it as proof of Adam''s dignity.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:8
+      lang: he
+      text: יָדֶ֣יךָ עִ֭צְּבוּנִי וַֽיַּעֲשׂ֑וּנִי יַ֥חַד סָ֝בִ֗יב וַֽתְּבַלְּעֵֽנִי
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 38:75
+      lang: ar
+      text: قَالَ يَٰٓإِبْلِيسُ مَا مَنَعَكَ أَن تَسْجُدَ لِمَا خَلَقْتُ بِيَدَىَّ أَسْتَكْبَرْتَ أَمْ
+        كُنتَ مِنَ ٱلْعَالِينَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    note: '''like clay you made me'''
+  - tradition: islam
+    passages:
+    - ref: Quran 38:71
+      lang: ar
+      text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
 ---
 
 ## Questions

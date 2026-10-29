@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-13-enticers-vs-quran-9-mosques-and-kin
 title: False prophet, enticing kin, and the apostate city ↔ Who maintains the mosques; God above family
-summary: 'These two units share 1 motifs: do not take fathers or brothers as allies against faith; love
-  of god must outweigh family, wealth, trade and homes.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - love-of-god-over-family-and-wealth
-passages:
-- tradition: judaism
-  ref: Deut 13:7
-  note: 'Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
-    trade and homes (Near kin who prefer other gods lose their claim on you, in nearly the same list:
-    ābāʾukum wa-abnāʾukum wa-ikhwānukum wa-azwājukum wa-ʿashīratukum vs ʾāḥîkā ben-ʾimmekā ʾô-binkā ʾô-bittᵉkā
-    ʾô ʾēšet ḥêqekā ʾô rēʿăkā ... lōʾ-tōʾbeh lô ... wᵉlōʾ-taḥmōl. Deut prescribes stoning the enticer;
-    Q forbids taking them as allies (awliyāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
-    רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁר֙
-    לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
-- tradition: judaism
-  ref: Deut 13:9
-  note: 'Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
-    trade and homes (Near kin who prefer other gods lose their claim on you, in nearly the same list:
-    ābāʾukum wa-abnāʾukum wa-ikhwānukum wa-azwājukum wa-ʿashīratukum vs ʾāḥîkā ben-ʾimmekā ʾô-binkā ʾô-bittᵉkā
-    ʾô ʾēšet ḥêqekā ʾô rēʿăkā ... lōʾ-tōʾbeh lô ... wᵉlōʾ-taḥmōl. Deut prescribes stoning the enticer;
-    Q forbids taking them as allies (awliyāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל וְלֹֽא
-    תְכַסֶּ֖ה עָלָֽיו
-- tradition: islam
-  ref: Quran 9:23
-  note: Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
-    trade and homes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
-    إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
-- tradition: islam
-  ref: Quran 9:24
-  note: Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
-    trade and homes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ
-    وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ
-    إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ
-    بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Near kin who prefer other gods lose their claim on you, in nearly the same list: ābāʾukum
-    wa-abnāʾukum wa-ikhwānukum wa-azwājukum wa-ʿashīratukum vs ʾāḥîkā ben-ʾimmekā ʾô-binkā ʾô-bittᵉkā
-    ʾô ʾēšet ḥêqekā ʾô rēʿăkā ... lōʾ-tōʾbeh lô ... wᵉlōʾ-taḥmōl. Deut prescribes stoning the enticer;
-    Q forbids taking them as allies (awliyāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not take fathers or brothers as allies against faith; love of
     God must outweigh family, wealth, trade and homes (weight 6.7). Pair score 6.7.'
@@ -92,6 +46,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
+  trade and homes
+kinds:
+- parallel
+units:
+- id: hb-deut-13-enticers
+  title: False prophet, enticing kin, and the apostate city
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not take fathers or brothers as allies against faith; love of God must outweigh family, wealth,
+    trade and homes
+  note: 'Near kin who prefer other gods lose their claim on you, in nearly the same list: ābāʾukum wa-abnāʾukum
+    wa-ikhwānukum wa-azwājukum wa-ʿashīratukum vs ʾāḥîkā ben-ʾimmekā ʾô-binkā ʾô-bittᵉkā ʾô ʾēšet ḥêqekā
+    ʾô rēʿăkā ... lōʾ-tōʾbeh lô ... wᵉlōʾ-taḥmōl. Deut prescribes stoning the enticer; Q forbids taking
+    them as allies (awliyāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 13:7
+      lang: he
+      text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
+        רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים
+        אֲשֶׁר֙ לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
+    - ref: Deut 13:9
+      lang: he
+      text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל
+        וְלֹֽא תְכַסֶּ֖ה עָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 9:23
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
+        إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
+    - ref: Quran 9:24
+      lang: ar
+      text: قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ
+        وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ
+        إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ
+        ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

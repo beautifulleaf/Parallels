@@ -2,7 +2,7 @@
 id: motif-hb-jer-10-maker-of-all-vs-quran-51-dhariyat-flee-to-god
 title: He made the earth by his power - the Portion of Jacob ↔ The sky expanding, all things in pairs,
   'flee to God', and jinn and humans created to worship
-summary: 'These two units share 1 motifs: god alone stretches out the heavens.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - god-alone-stretches-heavens
-passages:
-- tradition: judaism
-  ref: Jer 10:12
-  note: God alone stretches out the heavens
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹשֵׂ֥ה אֶ֨רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם
-- tradition: islam
-  ref: Quran 51:47
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
-- tradition: islam
-  ref: Quran 51:48
-  note: God alone stretches out the heavens
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. ʿōśēh ʾereṣ bə-ḵōḥô mēḵîn tēḇēl bə-ḥoḵmāṯô û-ḇi-ṯḇûnāṯô nāṭâ šāmāyim vs. wa-s-samāʾa banaynāhā
-    bi-aydin ... wa-l-arḍa farashnāhā fa-niʿma l-māhidūn. Same pair, heaven and earth, by power (kōaḥ
-    / ayd); Jeremiah sets it against the idols (10:11), the Quran against ''another god'' (51:51).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone stretches out the heavens (weight 5.3). Pair score 5.3.'
   basis: reading
@@ -68,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone stretches out the heavens
+kinds:
+- parallel
+units:
+- id: hb-jer-10-maker-of-all
+  title: He made the earth by his power - the Portion of Jacob
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: parallel
+  label: God alone stretches out the heavens
+  note: ʿōśēh ʾereṣ bə-ḵōḥô mēḵîn tēḇēl bə-ḥoḵmāṯô û-ḇi-ṯḇûnāṯô nāṭâ šāmāyim vs. wa-s-samāʾa banaynāhā
+    bi-aydin ... wa-l-arḍa farashnāhā fa-niʿma l-māhidūn. Same pair, heaven and earth, by power (kōaḥ
+    / ayd); Jeremiah sets it against the idols (10:11), the Quran against 'another god' (51:51).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:12
+      lang: he
+      text: עֹשֵׂ֥ה אֶ֨רֶץ֙ בְּכֹח֔וֹ מֵכִ֥ין תֵּבֵ֖ל בְּחָכְמָת֑וֹ וּבִתְבוּנָת֖וֹ נָטָ֥ה שָׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 51:47
+      lang: ar
+      text: وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ
+    - ref: Quran 51:48
+      lang: ar
+      text: وَٱلْأَرْضَ فَرَشْنَٰهَا فَنِعْمَ ٱلْمَٰهِدُونَ
 ---
 
 ## Questions

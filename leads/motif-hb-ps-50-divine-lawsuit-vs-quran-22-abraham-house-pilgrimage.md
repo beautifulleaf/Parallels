@@ -2,9 +2,7 @@
 id: motif-hb-ps-50-divine-lawsuit-vs-quran-22-abraham-house-pilgrimage
 title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls ↔ Abraham, the Ancient House
   and the rites of pilgrimage and sacrifice
-summary: 'These two units share 2 motifs: offer to god a sacrifice of thanksgiving (todah) and pay your
-  vows to elyon, god does not need sacrifices: ''if i were hungry i would not tell you... do i eat the
-  flesh of bulls or drink the blood of goats?''.'
+summary: '2 correspondences read side by side: 1 same element, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,68 +16,9 @@ layers:
 motifs:
 - thanksgiving-sacrifice-preferred
 - god-does-not-eat-flesh-of-bulls
-passages:
-- tradition: judaism
-  ref: Ps 50:14
-  note: Offer to God a sacrifice of thanksgiving (todah) and pay your vows to Elyon
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְבַ֣ח לֵאלֹהִ֣ים תּוֹדָ֑ה וְשַׁלֵּ֖ם לְעֶלְי֣וֹן נְדָרֶֽיךָ
-- tradition: judaism
-  ref: Ps 50:23
-  note: Offer to God a sacrifice of thanksgiving (todah) and pay your vows to Elyon
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֹבֵ֥חַ תּוֹדָ֗ה יְֽכַ֫בְּדָ֥נְנִי וְשָׂ֥ם דֶּ֑רֶךְ אַ֝רְאֶ֗נּוּ בְּיֵ֣שַׁע אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 22:29
-  note: 'Offer to God a sacrifice of thanksgiving (todah) and pay your vows to Elyon (wa-l-yūfū nudhūrahum
-    ... laʿallakum tashkurūn ~ zəvaḥ lēʾlōhîm tôdâ wə-šallēm ləʿelyôn nədārêkā: paying vows (nudhūr /
-    nədārîm) and thanks (shukr / tôdâ) beside the sacrifice.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
-- tradition: islam
-  ref: Quran 22:36
-  note: 'Offer to God a sacrifice of thanksgiving (todah) and pay your vows to Elyon (wa-l-yūfū nudhūrahum
-    ... laʿallakum tashkurūn ~ zəvaḥ lēʾlōhîm tôdâ wə-šallēm ləʿelyôn nədārêkā: paying vows (nudhūr /
-    nədārîm) and thanks (shukr / tôdâ) beside the sacrifice.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ
-    ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ
-    وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
-- tradition: judaism
-  ref: Ps 50:8-9
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:8) לֹ֣א עַל זְ֭בָחֶיךָ אוֹכִיחֶ֑ךָ וְעוֹלֹתֶ֖יךָ לְנֶגְדִּ֣י תָמִֽיד (50:9) לֹא אֶקַּ֣ח מִבֵּיתְךָ֣
-    פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים
-- tradition: judaism
-  ref: Ps 50:12-13
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (50:12) אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ (50:13) הַֽ֭אוֹכַל בְּשַׂ֣ר
-    אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
-- tradition: islam
-  ref: Quran 22:37
-  note: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh of
-    bulls or drink the blood of goats?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ كَذَٰلِكَ
-    سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَبَشِّرِ ٱلْمُحْسِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo, parallel. lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā wa-lākin yanāluhu t-taqwā minkum ~ ha-ʾôkhal
-    bəśar ʾabbîrîm wə-dam ʿattûdîm ʾeštê: the same pair flesh and blood (luḥūm/dimāʾ ~ bəśar/dam) denied
-    to God; the Psalm substitutes thanksgiving (zəvaḥ lēʾlōhîm tôdâ), the Quran piety (taqwā) and gratitude
-    (laʿallakum tashkurūn, 22:36). wa-l-yūfū nudhūrahum ... laʿallakum tashkurūn ~ zəvaḥ lēʾlōhîm tôdâ
-    wə-šallēm ləʿelyôn nədārêkā: paying vows (nudhūr / nədārîm) and thanks (shukr / tôdâ) beside the sacrifice.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Offer to God a sacrifice of thanksgiving (todah) and pay your vows
     to Elyon (weight 6.7); God does not need sacrifices: ''If I were hungry I would not tell you... Do
@@ -117,6 +56,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+  of bulls or drink the blood of goats?'''
+kinds:
+- parallel
+- echo
+units:
+- id: hb-ps-50-divine-lawsuit
+  title: Psalm 50 - God summons heaven and earth; do I eat the flesh of bulls
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'God does not need sacrifices: ''If I were hungry I would not tell you... Do I eat the flesh
+    of bulls or drink the blood of goats?'''
+  note: 'lan yanāla llāha luḥūmuhā wa-lā dimāʾuhā wa-lākin yanāluhu t-taqwā minkum ~ ha-ʾôkhal bəśar ʾabbîrîm
+    wə-dam ʿattûdîm ʾeštê: the same pair flesh and blood (luḥūm/dimāʾ ~ bəśar/dam) denied to God; the
+    Psalm substitutes thanksgiving (zəvaḥ lēʾlōhîm tôdâ), the Quran piety (taqwā) and gratitude (laʿallakum
+    tashkurūn, 22:36).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:9
+      lang: he
+      text: לֹא אֶקַּ֣ח מִבֵּיתְךָ֣ פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים
+    - ref: Ps 50:12
+      lang: he
+      text: אִם אֶ֭רְעַב לֹא אֹ֣מַר לָ֑ךְ כִּי לִ֥י תֵ֝בֵ֗ל וּמְלֹאָֽהּ
+    - ref: Ps 50:13
+      lang: he
+      text: הַֽ֭אוֹכַל בְּשַׂ֣ר אַבִּירִ֑ים וְדַ֖ם עַתּוּדִ֣ים אֶשְׁתֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 22:37
+      lang: ar
+      text: لَن يَنَالَ ٱللَّهَ لُحُومُهَا وَلَا دِمَآؤُهَا وَلَٰكِن يَنَالُهُ ٱلتَّقْوَىٰ مِنكُمْ كَذَٰلِكَ
+        سَخَّرَهَا لَكُمْ لِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَبَشِّرِ ٱلْمُحْسِنِينَ
+- kind: echo
+  label: Offer to God a sacrifice of thanksgiving (todah) and pay your vows to Elyon
+  note: 'wa-l-yūfū nudhūrahum ... laʿallakum tashkurūn ~ zəvaḥ lēʾlōhîm tôdâ wə-šallēm ləʿelyôn nədārêkā:
+    paying vows (nudhūr / nədārîm) and thanks (shukr / tôdâ) beside the sacrifice.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 50:14
+      lang: he
+      text: זְבַ֣ח לֵאלֹהִ֣ים תּוֹדָ֑ה וְשַׁלֵּ֖ם לְעֶלְי֣וֹן נְדָרֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:29
+      lang: ar
+      text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
+    - ref: Quran 22:36
+      lang: ar
+      text: وَٱلْبُدْنَ جَعَلْنَٰهَا لَكُم مِّن شَعَٰٓئِرِ ٱللَّهِ لَكُمْ فِيهَا خَيْرٌ فَٱذْكُرُوا۟ ٱسْمَ
+        ٱللَّهِ عَلَيْهَا صَوَآفَّ فَإِذَا وَجَبَتْ جُنُوبُهَا فَكُلُوا۟ مِنْهَا وَأَطْعِمُوا۟ ٱلْقَانِعَ
+        وَٱلْمُعْتَرَّ كَذَٰلِكَ سَخَّرْنَٰهَا لَكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

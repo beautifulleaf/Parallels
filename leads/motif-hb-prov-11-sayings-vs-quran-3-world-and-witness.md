@@ -2,7 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-3-world-and-witness
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ The two hosts, worldly lures,
   God's witness
-summary: 'These two units share 1 motifs: wealth does not profit on the day of wrath.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +15,9 @@ layers:
 - motif
 motifs:
 - wealth-useless-on-day-of-wrath
-passages:
-- tradition: judaism
-  ref: Prov 11:4
-  note: Wealth does not profit on the day of wrath
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
-- tradition: islam
-  ref: Quran 3:10
-  note: 'Wealth does not profit on the day of wrath (Prov 11:4 lōʾ yôʿîl hôn bĕ-yôm ʿebrâ û-ṣĕdāqâ taṣṣîl
-    mi-māwet; Q 3:10 lan tughniya ʿanhum amwāluhum wa-lā awlāduhum mina llāhi shayʾan wa-ulāʾika hum waqūdu
-    n-nār: wealth (and in the Quran children) will not help against God. Proverbs adds righteousness as
-    the remedy; the Quran adds the fire.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ
-    شَيْـًٔا وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Prov 11:4 lōʾ yôʿîl hôn bĕ-yôm ʿebrâ û-ṣĕdāqâ taṣṣîl mi-māwet; Q 3:10 lan tughniya ʿanhum
-    amwāluhum wa-lā awlāduhum mina llāhi shayʾan wa-ulāʾika hum waqūdu n-nār: wealth (and in the Quran
-    children) will not help against God. Proverbs adds righteousness as the remedy; the Quran adds the
-    fire.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wealth does not profit on the day of wrath (weight 5.4). Pair score
     5.4.'
@@ -72,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wealth does not profit on the day of wrath
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-3-world-and-witness
+  title: The two hosts, worldly lures, God's witness
+  tradition: islam
+matches:
+- kind: parallel
+  label: Wealth does not profit on the day of wrath
+  note: 'Prov 11:4 lōʾ yôʿîl hôn bĕ-yôm ʿebrâ û-ṣĕdāqâ taṣṣîl mi-māwet; Q 3:10 lan tughniya ʿanhum amwāluhum
+    wa-lā awlāduhum mina llāhi shayʾan wa-ulāʾika hum waqūdu n-nār: wealth (and in the Quran children)
+    will not help against God. Proverbs adds righteousness as the remedy; the Quran adds the fire.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:4
+      lang: he
+      text: לֹא יוֹעִ֣יל ה֭וֹן בְּי֣וֹם עֶבְרָ֑ה וּ֝צְדָקָ֗ה תַּצִּ֥יל מִמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:10
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ
+        شَيْـًٔا وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ
 ---
 
 ## Questions

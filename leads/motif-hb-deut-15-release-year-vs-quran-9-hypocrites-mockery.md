@@ -2,8 +2,7 @@
 id: motif-hb-deut-15-release-year-vs-quran-9-hypocrites-mockery
 title: Release of debts, release of Hebrew slaves, firstlings ↔ Hypocrites who mock and the destroyed
   peoples
-summary: 'These two units share 1 motifs: open your hand wide to the poor brother; do not harden your
-  heart or shut your hand.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - open-hand-to-poor
-passages:
-- tradition: judaism
-  ref: Deut 15:7
-  note: Open your hand wide to the poor brother; do not harden your heart or shut your hand
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֨יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן
-- tradition: judaism
-  ref: Deut 15:8
-  note: Open your hand wide to the poor brother; do not harden your heart or shut your hand
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי פָתֹ֧חַ תִּפְתַּ֛ח אֶת יָדְךָ֖ ל֑וֹ וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר
-    יֶחְסַ֖ר לֽוֹ
-- tradition: islam
-  ref: Quran 9:67
-  note: 'Open your hand wide to the poor brother; do not harden your heart or shut your hand (Closing
-    the hand to the poor, with the same image: wa-yaqbiḍūna aydiyahum vs wᵉlōʾ tiqpōṣ ʾet-yādᵉkā mēʾāḥîkā
-    hāʾebyôn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ
-    عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ هُمُ
-    ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Closing the hand to the poor, with the same image: wa-yaqbiḍūna aydiyahum vs wᵉlōʾ tiqpōṣ ʾet-yādᵉkā
-    mēʾāḥîkā hāʾebyôn.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Open your hand wide to the poor brother; do not harden your heart
     or shut your hand (weight 6.3). Pair score 6.3.'
@@ -77,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Open your hand wide to the poor brother; do not harden your heart or shut your hand
+kinds:
+- echo
+units:
+- id: hb-deut-15-release-year
+  title: Release of debts, release of Hebrew slaves, firstlings
+  tradition: judaism
+- id: quran-9-hypocrites-mockery
+  title: Hypocrites who mock and the destroyed peoples
+  tradition: islam
+matches:
+- kind: echo
+  label: Open your hand wide to the poor brother; do not harden your heart or shut your hand
+  note: 'Closing the hand to the poor, with the same image: wa-yaqbiḍūna aydiyahum vs wᵉlōʾ tiqpōṣ ʾet-yādᵉkā
+    mēʾāḥîkā hāʾebyôn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 15:7
+      lang: he
+      text: כִּֽי יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֨יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת יָ֣דְךָ֔ מֵאָחִ֖יךָ
+        הָאֶבְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 9:67
+      lang: ar
+      text: ٱلْمُنَٰفِقُونَ وَٱلْمُنَٰفِقَٰتُ بَعْضُهُم مِّنۢ بَعْضٍ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ
+        عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ إِنَّ ٱلْمُنَٰفِقِينَ
+        هُمُ ٱلْفَٰسِقُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-4-people-of-book-distortion
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Shifted
   words, 'we hear and disobey', and the people of the Sabbath
-summary: 'These two units share 1 motifs: god does not forgive associating partners with him (shirk) but
-  forgives anything less.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - idolatry-unforgivable
-passages:
-- tradition: judaism
-  ref: Josh 24:19
-  note: 'God does not forgive associating partners with him (shirk) but forgives anything less (Q: inna
-    llāha lā yaghfiru an yushraka bihi. Josh: lōʾ yiśśāʾ lə-pišʿăkem ... kî taʿazbû ʾet-YHWH wa-ʿăbadtem
-    ʾĕlōhê nēkār, where the jealous God will not forgive serving foreign gods. Q limits the unforgivable
-    to shirk and forgives ''what is less than that''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל הָעָ֗ם לֹ֤א תֽוּכְלוּ֙ לַעֲבֹ֣ד אֶת יְהוָ֔ה כִּֽי אֱלֹהִ֥ים קְדֹשִׁ֖ים
-    ה֑וּא אֵֽל קַנּ֣וֹא ה֔וּא לֹֽא יִשָּׂ֥א לְפִשְׁעֲכֶ֖ם וּלְחַטֹּאותֵיכֶֽם
-- tradition: judaism
-  ref: Josh 24:20
-  note: 'God does not forgive associating partners with him (shirk) but forgives anything less (Q: inna
-    llāha lā yaghfiru an yushraka bihi. Josh: lōʾ yiśśāʾ lə-pišʿăkem ... kî taʿazbû ʾet-YHWH wa-ʿăbadtem
-    ʾĕlōhê nēkār, where the jealous God will not forgive serving foreign gods. Q limits the unforgivable
-    to shirk and forgives ''what is less than that''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י תַֽעַזְבוּ֙ אֶת יְהוָ֔ה וַעֲבַדְתֶּ֖ם אֱלֹהֵ֣י נֵכָ֑ר וְשָׁ֨ב וְהֵרַ֤ע לָכֶם֙ וְכִלָּ֣ה
-    אֶתְכֶ֔ם אַחֲרֵ֖י אֲשֶׁר הֵיטִ֥יב לָכֶֽם
-- tradition: islam
-  ref: Quran 4:48
-  note: God does not forgive associating partners with him (shirk) but forgives anything less
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ وَمَن
-    يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: inna llāha lā yaghfiru an yushraka bihi. Josh: lōʾ yiśśāʾ lə-pišʿăkem ... kî taʿazbû ʾet-YHWH
-    wa-ʿăbadtem ʾĕlōhê nēkār, where the jealous God will not forgive serving foreign gods. Q limits the
-    unforgivable to shirk and forgives ''what is less than that''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not forgive associating partners with him (shirk) but forgives
     anything less (weight 6.3). Pair score 6.3.'
@@ -84,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not forgive associating partners with him (shirk) but forgives anything less
+kinds:
+- echo
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: echo
+  label: God does not forgive associating partners with him (shirk) but forgives anything less
+  note: 'Q: inna llāha lā yaghfiru an yushraka bihi. Josh: lōʾ yiśśāʾ lə-pišʿăkem ... kî taʿazbû ʾet-YHWH
+    wa-ʿăbadtem ʾĕlōhê nēkār, where the jealous God will not forgive serving foreign gods. Q limits the
+    unforgivable to shirk and forgives ''what is less than that''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:19
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל הָעָ֗ם לֹ֤א תֽוּכְלוּ֙ לַעֲבֹ֣ד אֶת יְהוָ֔ה כִּֽי אֱלֹהִ֥ים קְדֹשִׁ֖ים
+        ה֑וּא אֵֽל קַנּ֣וֹא ה֔וּא לֹֽא יִשָּׂ֥א לְפִשְׁעֲכֶ֖ם וּלְחַטֹּאותֵיכֶֽם
+    - ref: Josh 24:20
+      lang: he
+      text: כִּ֤י תַֽעַזְבוּ֙ אֶת יְהוָ֔ה וַעֲבַדְתֶּ֖ם אֱלֹהֵ֣י נֵכָ֑ר וְשָׁ֨ב וְהֵרַ֤ע לָכֶם֙ וְכִלָּ֣ה
+        אֶתְכֶ֔ם אַחֲרֵ֖י אֲשֶׁר הֵיטִ֥יב לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:48
+      lang: ar
+      text: إِنَّ ٱللَّهَ لَا يَغْفِرُ أَن يُشْرَكَ بِهِۦ وَيَغْفِرُ مَا دُونَ ذَٰلِكَ لِمَن يَشَآءُ
+        وَمَن يُشْرِكْ بِٱللَّهِ فَقَدِ ٱفْتَرَىٰٓ إِثْمًا عَظِيمًا
 ---
 
 ## Questions

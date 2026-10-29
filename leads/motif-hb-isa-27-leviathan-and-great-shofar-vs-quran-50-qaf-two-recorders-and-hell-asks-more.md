@@ -2,7 +2,7 @@
 id: motif-hb-isa-27-leviathan-and-great-shofar-vs-quran-50-qaf-two-recorders-and-hell-asks-more
 title: Leviathan slain; the vineyard of delight; the great shofar ↔ Nearer than the jugular vein; the
   two recorders; driver and witness; Gehenna says 'Is there more?'; creation in six days without weariness
-summary: 'These two units share 1 motifs: the trumpet (ṣūr) is blown and the dead are gathered.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - trumpet-blown-at-resurrection
-passages:
-- tradition: judaism
-  ref: Isa 27:13
-  note: 'The trumpet (ṣūr) is blown and the dead are gathered (A horn blast at the end time. Isa: yittāqaʿ
-    bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the exiles to the holy mountain. Q: yawma yunfakhu fī
-    l-ṣūri, at the resurrection and judgement (ʿālimu l-ghaybi wa-l-shahāda). Isa''s national ingathering
-    becomes the universal resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ אַשּׁ֔וּר
-    וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 50:20
-  note: The trumpet (ṣūr) is blown and the dead are gathered
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
-- tradition: islam
-  ref: Quran 50:21
-  note: The trumpet (ṣūr) is blown and the dead are gathered
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A great horn calls the scattered to gather: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ
-    ʾaššûr wə-han-niddāḥîm bə-ʾereṣ miṣrāyim vs. wa-nufikha fī ṣ-ṣūri dhālika yawmu l-waʿīd; wa-jāʾat
-    kullu nafsin maʿahā sāʾiqun wa-shahīd. Isaiah''s shofar gathers exiles to worship in Jerusalem; the
-    Quran''s trumpet gathers all souls to judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The trumpet (ṣūr) is blown and the dead are gathered (weight 5.0).
     Pair score 5.0.'
@@ -82,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The trumpet (ṣūr) is blown and the dead are gathered
+kinds:
+- echo
+units:
+- id: hb-isa-27-leviathan-and-great-shofar
+  title: Leviathan slain; the vineyard of delight; the great shofar
+  tradition: judaism
+- id: quran-50-qaf-two-recorders-and-hell-asks-more
+  title: Nearer than the jugular vein; the two recorders; driver and witness; Gehenna says 'Is there more?';
+    creation in six days without weariness
+  tradition: islam
+matches:
+- kind: echo
+  label: The trumpet (ṣūr) is blown and the dead are gathered
+  note: 'A great horn calls the scattered to gather: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ
+    ʾaššûr wə-han-niddāḥîm bə-ʾereṣ miṣrāyim vs. wa-nufikha fī ṣ-ṣūri dhālika yawmu l-waʿīd; wa-jāʾat
+    kullu nafsin maʿahā sāʾiqun wa-shahīd. Isaiah''s shofar gathers exiles to worship in Jerusalem; the
+    Quran''s trumpet gathers all souls to judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 27:13
+      lang: he
+      text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ
+        אַשּׁ֔וּר וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 50:20
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ
+    - ref: Quran 50:21
+      lang: ar
+      text: وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ
 ---
 
 ## Questions

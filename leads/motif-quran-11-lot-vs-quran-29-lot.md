@@ -1,9 +1,7 @@
 ---
 id: motif-quran-11-lot-vs-quran-29-lot
 title: Lot, his guests, his daughters and the stones of sijjil ↔ Lot and the destruction of his town
-summary: 'These two units share 5 motifs: a land will be overthrown like sodom and gomorrah and their
-  neighbors, never inhabited, two angels are received as guests by lot in sodom, the fate of lot''s wife,
-  the men of sodom are exceedingly wicked….'
+summary: 5 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -13,112 +11,16 @@ traditions:
 layers:
 - motif
 motifs:
-- overthrow-of-sodom-and-gomorrah-as-paradigm
 - angels-lodge-with-lot
+- overthrow-of-sodom-and-gomorrah-as-paradigm
 - fate-of-lots-wife
 - wicked-sodom
 - fire-and-brimstone-from-heaven
-passages:
-- tradition: islam
-  ref: Quran 11:82
-  note: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited (its top
-    made its bottom)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن
-    سِجِّيلٍ مَّنضُودٍ
-- tradition: islam
-  ref: Quran 29:35
-  note: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited (a clear
-    sign left of it for people who reason)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
-- tradition: islam
-  ref: Quran 11:77
-  note: Two angels are received as guests by Lot in Sodom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
-    عَصِيبٌ
-- tradition: islam
-  ref: Quran 29:33
-  note: Two angels are received as guests by Lot in Sodom
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ
-    وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 11:81
-  note: 'The fate of Lot''s wife (Lot''s wife perishes: Gen, because she looks back and becomes a pillar
-    of salt (wattabbēṭ ʾištô mēʾaḥărāyw wattᵉhî nᵉṣîb melaḥ); Q, excepted in advance and struck with the
-    townsmen (illā mraʾataka innahu muṣībuhā mā aṣābahum), with no salt pillar. Whether illā mraʾataka
-    goes with ''travel with your family'' or ''let none look back'' is debated by exegetes.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ مِّنَ
-    ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ إِنَّ
-    مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
-- tradition: islam
-  ref: Quran 29:32
-  note: 'The fate of Lot''s wife (illā mraʾataka kānat mina l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw
-    wat-təhî nəṣîv melaḥ: the wife''s fate is known in advance and told to Abraham and Lot in the Quran;
-    Genesis tells it as her own act during the flight.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّ فِيهَا لُوطًا قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ
-    إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 29:33
-  note: 'The fate of Lot''s wife (illā mraʾataka kānat mina l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw
-    wat-təhî nəṣîv melaḥ: the wife''s fate is known in advance and told to Abraham and Lot in the Quran;
-    Genesis tells it as her own act during the flight.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا تَخَفْ
-    وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
-- tradition: islam
-  ref: Quran 11:78
-  note: The men of Sodom are exceedingly wicked
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ قَالَ
-    يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ فِى ضَيْفِىٓ
-    أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
-- tradition: islam
-  ref: Quran 29:28
-  note: The men of Sodom are exceedingly wicked ('an abomination no one in the worlds committed before
-    you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ
-    مِّنَ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 29:29
-  note: The men of Sodom are exceedingly wicked ('an abomination no one in the worlds committed before
-    you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
-    فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 11:82
-  note: God rains sulfur and fire from heaven on cities (stones, not sulfur and fire)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً مِّن
-    سِجِّيلٍ مَّنضُودٍ
-- tradition: islam
-  ref: Quran 29:34
-  note: God rains sulfur and fire from heaven on cities (a 'rijz from the sky')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟
-    يَفْسُقُونَ
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A land will be overthrown like Sodom and Gomorrah and their neighbors,
-    never inhabited (weight 6.0); Two angels are received as guests by Lot in Sodom (weight 6.0); The
-    fate of Lot''s wife (weight 5.8); The men of Sodom are exceedingly wicked (weight 5.2); God rains
+- text: 'Shared motifs, rarest first: Two angels are received as guests by Lot in Sodom (weight 6.0);
+    A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited (weight 6.0);
+    The fate of Lot''s wife (weight 5.8); The men of Sodom are exceedingly wicked (weight 5.2); God rains
     sulfur and fire from heaven on cities (weight 4.8). Pair score 27.8.'
   basis: reading
 - text: 'Only in Lot, his guests, his daughters and the stones of sijjil: The angels tell Lot the destruction
@@ -148,6 +50,114 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Two angels are received as guests by Lot in Sodom
+kinds:
+- shared
+units:
+- id: quran-11-lot
+  title: Lot, his guests, his daughters and the stones of sijjil
+  tradition: islam
+- id: quran-29-lot
+  title: Lot and the destruction of his town
+  tradition: islam
+matches:
+- kind: shared
+  label: Two angels are received as guests by Lot in Sodom
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:77
+      lang: ar
+      text: وَلَمَّا جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالَ هَٰذَا يَوْمٌ
+        عَصِيبٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:33
+      lang: ar
+      text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا
+        تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+- kind: shared
+  label: A land will be overthrown like Sodom and Gomorrah and their neighbors, never inhabited
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:82
+      lang: ar
+      text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
+        مِّن سِجِّيلٍ مَّنضُودٍ
+    note: its top made its bottom
+  - tradition: islam
+    passages:
+    - ref: Quran 29:35
+      lang: ar
+      text: وَلَقَد تَّرَكْنَا مِنْهَآ ءَايَةًۢ بَيِّنَةً لِّقَوْمٍ يَعْقِلُونَ
+    note: a clear sign left of it for people who reason
+- kind: shared
+  label: The fate of Lot's wife
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:81
+      lang: ar
+      text: قَالُوا۟ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓا۟ إِلَيْكَ فَأَسْرِ بِأَهْلِكَ بِقِطْعٍ
+        مِّنَ ٱلَّيْلِ وَلَا يَلْتَفِتْ مِنكُمْ أَحَدٌ إِلَّا ٱمْرَأَتَكَ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمْ
+        إِنَّ مَوْعِدَهُمُ ٱلصُّبْحُ أَلَيْسَ ٱلصُّبْحُ بِقَرِيبٍ
+    note: 'Lot''s wife perishes: Gen, because she looks back and becomes a pillar of salt (wattabbēṭ ʾištô
+      mēʾaḥărāyw wattᵉhî nᵉṣîb melaḥ); Q, excepted in advance and struck with the townsmen (illā mraʾataka
+      innahu muṣībuhā mā aṣābahum), with no salt pillar. Whether illā mraʾataka goes with ''travel with
+      your family'' or ''let none look back'' is debated by exegetes.'
+  - tradition: islam
+    passages:
+    - ref: Quran 29:32
+      lang: ar
+      text: قَالَ إِنَّ فِيهَا لُوطًا قَالُوا۟ نَحْنُ أَعْلَمُ بِمَن فِيهَا لَنُنَجِّيَنَّهُۥ وَأَهْلَهُۥٓ
+        إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+    - ref: Quran 29:33
+      lang: ar
+      text: وَلَمَّآ أَن جَآءَتْ رُسُلُنَا لُوطًا سِىٓءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا۟ لَا
+        تَخَفْ وَلَا تَحْزَنْ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا ٱمْرَأَتَكَ كَانَتْ مِنَ ٱلْغَٰبِرِينَ
+    note: 'illā mraʾataka kānat mina l-ghābirīna ~ wat-tabbēṭ ʾištô mē-ʾaḥărāyw wat-təhî nəṣîv melaḥ:
+      the wife''s fate is known in advance and told to Abraham and Lot in the Quran; Genesis tells it
+      as her own act during the flight.'
+- kind: shared
+  label: The men of Sodom are exceedingly wicked
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:78
+      lang: ar
+      text: وَجَآءَهُۥ قَوْمُهُۥ يُهْرَعُونَ إِلَيْهِ وَمِن قَبْلُ كَانُوا۟ يَعْمَلُونَ ٱلسَّيِّـَٔاتِ
+        قَالَ يَٰقَوْمِ هَٰٓؤُلَآءِ بَنَاتِى هُنَّ أَطْهَرُ لَكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَلَا تُخْزُونِ
+        فِى ضَيْفِىٓ أَلَيْسَ مِنكُمْ رَجُلٌ رَّشِيدٌ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:28
+      lang: ar
+      text: وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ إِنَّكُمْ لَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ
+        أَحَدٍ مِّنَ ٱلْعَٰلَمِينَ
+    - ref: Quran 29:29
+      lang: ar
+      text: أَئِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ وَتَقْطَعُونَ ٱلسَّبِيلَ وَتَأْتُونَ فِى نَادِيكُمُ ٱلْمُنكَرَ
+        فَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوا۟ ٱئْتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ
+        ٱلصَّٰدِقِينَ
+    note: '''an abomination no one in the worlds committed before you'''
+- kind: shared
+  label: God rains sulfur and fire from heaven on cities
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 11:82
+      lang: ar
+      text: فَلَمَّا جَآءَ أَمْرُنَا جَعَلْنَا عَٰلِيَهَا سَافِلَهَا وَأَمْطَرْنَا عَلَيْهَا حِجَارَةً
+        مِّن سِجِّيلٍ مَّنضُودٍ
+    note: stones, not sulfur and fire
+  - tradition: islam
+    passages:
+    - ref: Quran 29:34
+      lang: ar
+      text: إِنَّا مُنزِلُونَ عَلَىٰٓ أَهْلِ هَٰذِهِ ٱلْقَرْيَةِ رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟
+        يَفْسُقُونَ
+    note: a 'rijz from the sky'
 ---
 
 ## Questions

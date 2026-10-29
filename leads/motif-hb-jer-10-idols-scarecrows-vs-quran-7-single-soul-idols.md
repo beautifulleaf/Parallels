@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-7-single-soul-idols
 title: Idols like scarecrows in a cucumber field ↔ The single soul, the couple's vow, and powerless idols
-summary: 'These two units share 2 motifs: the made idol cannot move from its place, speak or answer and
-  save those who cry to it, idols of wood and stone that cannot see, hear, eat or smell.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,58 +15,7 @@ layers:
 motifs:
 - idol-cannot-move-or-answer
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Jer 10:5
-  note: The made idol cannot move from its place, speak or answer and save those who cry to it ('they
-    can do neither evil nor good')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 7:191
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The made
-    god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum fa-l-yastajībū
-    lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh
-    miṣṣārātô lōʾ yôšîʿennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 7:194
-  note: 'The made idol cannot move from its place, speak or answer and save those who cry to it (The made
-    god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum fa-l-yastajībū
-    lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw wᵉlōʾ yaʿăneh
-    miṣṣārātô lōʾ yôšîʿennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
-    لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: judaism
-  ref: Jer 10:5
-  note: 'Idols of wood and stone that cannot see, hear, eat or smell (kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû
-    ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum lā tanṭiqūn: speechless idols that can do neither
-    harm nor good.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 7:195
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
-    يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
-    فَلَا تُنظِرُونِ
-- tradition: islam
-  ref: Quran 7:198
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ لَا
-    يُبْصِرُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The made idol cannot move from its place, speak or answer and save
     those who cry to it (weight 5.4); Idols of wood and stone that cannot see, hear, eat or smell (weight
@@ -100,6 +48,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The made idol cannot move from its place, speak or answer and save those who cry to it
+kinds:
+- shared
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-7-single-soul-idols
+  title: The single soul, the couple's vow, and powerless idols
+  tradition: islam
+matches:
+- kind: shared
+  label: The made idol cannot move from its place, speak or answer and save those who cry to it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+    note: '''they can do neither evil nor good'''
+  - tradition: islam
+    passages:
+    - ref: Quran 7:191
+      lang: ar
+      text: أَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 7:194
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمْثَالُكُمْ فَٱدْعُوهُمْ فَلْيَسْتَجِيبُوا۟
+        لَكُمْ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 7:197
+      lang: ar
+      text: وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ لَا يَسْتَطِيعُونَ نَصْرَكُمْ وَلَآ أَنفُسَهُمْ يَنصُرُونَ
+    note: 'The made god cannot answer or save: a-yushrikūna mā lā yakhluqu shayʾan wa-hum yukhlaqūn; fa-dʿūhum
+      fa-l-yastajībū lakum; lā yastaṭīʿūna naṣrakum vs yiśkᵉrû ṣôrēp wᵉyaʿăśēhû ʾēl ... ʾap-yiṣʿaq ʾēlāyw
+      wᵉlōʾ yaʿăneh miṣṣārātô lōʾ yôšîʿennû.'
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+    note: 'kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum
+      lā tanṭiqūn: speechless idols that can do neither harm nor good.'
+  - tradition: islam
+    passages:
+    - ref: Quran 7:195
+      lang: ar
+      text: أَلَهُمْ أَرْجُلٌ يَمْشُونَ بِهَآ أَمْ لَهُمْ أَيْدٍ يَبْطِشُونَ بِهَآ أَمْ لَهُمْ أَعْيُنٌ
+        يُبْصِرُونَ بِهَآ أَمْ لَهُمْ ءَاذَانٌ يَسْمَعُونَ بِهَا قُلِ ٱدْعُوا۟ شُرَكَآءَكُمْ ثُمَّ كِيدُونِ
+        فَلَا تُنظِرُونِ
+    - ref: Quran 7:198
+      lang: ar
+      text: وَإِن تَدْعُوهُمْ إِلَى ٱلْهُدَىٰ لَا يَسْمَعُوا۟ وَتَرَىٰهُمْ يَنظُرُونَ إِلَيْكَ وَهُمْ
+        لَا يُبْصِرُونَ
 ---
 
 ## Questions

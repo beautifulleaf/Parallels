@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-42-epilogue-vs-quran-4-inheritance-shares
 title: Epilogue - the friends rebuked, Job's intercession and restoration ↔ The fixed shares of inheritance
-summary: 'These two units share 1 motifs: three named daughters (jemimah, keziah, keren-happuch), the
-  most beautiful in the land, inherit among their brothers.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - daughters-named-beautiful-heirs
-passages:
-- tradition: judaism
-  ref: Job 42:14-15
-  note: Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit
-    among their brothers (Jemimah ('dove'?), Keziah ('cassia'), Keren-happuch ('horn of eye-paint'))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (42:14) וַיִּקְרָ֤א שֵׁם הָֽאַחַת֙ יְמִימָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית קְצִיעָ֑ה וְשֵׁ֥ם הַשְּׁלִישִׁ֖ית
-    קֶ֥רֶן הַפּֽוּךְ (42:15) וְלֹ֨א נִמְצָ֜א נָשִׁ֥ים יָפ֛וֹת כִּבְנ֥וֹת אִיּ֖וֹב בְּכָל הָאָ֑רֶץ וַיִּתֵּ֨ן
-    לָהֶ֧ם אֲבִיהֶ֛ם נַחֲלָ֖ה בְּת֥וֹךְ אֲחֵיהֶֽם
-- tradition: judaism
-  ref: Job 42:15
-  note: Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit
-    among their brothers (Jemimah ('dove'?), Keziah ('cassia'), Keren-happuch ('horn of eye-paint'))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֨א נִמְצָ֜א נָשִׁ֥ים יָפ֛וֹת כִּבְנ֥וֹת אִיּ֖וֹב בְּכָל הָאָ֑רֶץ וַיִּתֵּ֨ן לָהֶ֧ם אֲבִיהֶ֛ם
-    נַחֲלָ֖ה בְּת֥וֹךְ אֲחֵיהֶֽם
-- tradition: islam
-  ref: Quran 4:11
-  note: 'Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit
-    among their brothers (Job 42:15 wa-yyittēn lāhem ʾăbîhem naḥălâ bĕ-tôk ʾăḥêhem: Job gave his daughters
-    an inheritance among their brothers, the one HB case of daughters inheriting together with sons; Q
-    4:11 yūṣīkumu llāhu fī awlādikum li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: daughters inherit with sons,
-    at half the son''s share, as a general law.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً
-    فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ
-    لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ
-    وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ
-    مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ
-    أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Job 42:15 wa-yyittēn lāhem ʾăbîhem naḥălâ bĕ-tôk ʾăḥêhem: Job gave his daughters an inheritance
-    among their brothers, the one HB case of daughters inheriting together with sons; Q 4:11 yūṣīkumu
-    llāhu fī awlādikum li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: daughters inherit with sons, at half the
-    son''s share, as a general law.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Three named daughters (Jemimah, Keziah, Keren-happuch), the most
     beautiful in the land, inherit among their brothers (weight 6.7). Pair score 6.7.'
@@ -87,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit
+  among their brothers
+kinds:
+- parallel
+units:
+- id: hb-job-42-epilogue
+  title: Epilogue - the friends rebuked, Job's intercession and restoration
+  tradition: judaism
+- id: quran-4-inheritance-shares
+  title: The fixed shares of inheritance
+  tradition: islam
+matches:
+- kind: parallel
+  label: Three named daughters (Jemimah, Keziah, Keren-happuch), the most beautiful in the land, inherit
+    among their brothers
+  note: 'Job 42:15 wa-yyittēn lāhem ʾăbîhem naḥălâ bĕ-tôk ʾăḥêhem: Job gave his daughters an inheritance
+    among their brothers, the one HB case of daughters inheriting together with sons; Q 4:11 yūṣīkumu
+    llāhu fī awlādikum li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: daughters inherit with sons, at half the
+    son''s share, as a general law.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 42:15
+      lang: he
+      text: וְלֹ֨א נִמְצָ֜א נָשִׁ֥ים יָפ֛וֹת כִּבְנ֥וֹת אִיּ֖וֹב בְּכָל הָאָ֑רֶץ וַיִּתֵּ֨ן לָהֶ֧ם אֲבִיהֶ֛ם
+        נַחֲלָ֖ה בְּת֥וֹךְ אֲחֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:11
+      lang: ar
+      text: يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً
+        فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ
+        لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ
+        وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ
+        مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ
+        أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

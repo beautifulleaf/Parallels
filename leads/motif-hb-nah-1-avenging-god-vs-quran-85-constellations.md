@@ -2,8 +2,7 @@
 id: motif-hb-nah-1-avenging-god-vs-quran-85-constellations
 title: 'The jealous and avenging God against Nineveh ↔ The constellations: the people of the ditch and
   the preserved tablet'
-summary: 'These two units share 1 motifs: cluster of divine epithets in sequence (e.g. the forgiving,
-  the loving, lord of the throne, the glorious, doer of what he wills; or lord, king, god of mankind).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - divine-epithet-cluster
-passages:
-- tradition: judaism
-  ref: Nah 1:2
-  note: 'Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
-    Glorious, doer of what he wills; or Lord, King, God of mankind) (inna baṭsha rabbika la-shadīd ...
-    wa-huwa l-ghafūru l-wadūd ~ ʾēl qannôʾ we-nōqēm YHWH ... YHWH ʾerek ʾappayim û-gedol kōaḥ: string
-    of divine epithets uniting severity and forbearance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֣ל קַנּ֤וֹא וְנֹקֵם֙ יְהוָ֔ה נֹקֵ֥ם יְהוָ֖ה וּבַ֣עַל חֵמָ֑ה נֹקֵ֤ם יְהוָה֙ לְצָרָ֔יו וְנוֹטֵ֥ר
-    ה֖וּא לְאֹיְבָֽיו
-- tradition: judaism
-  ref: Nah 1:3
-  note: 'Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
-    Glorious, doer of what he wills; or Lord, King, God of mankind) (inna baṭsha rabbika la-shadīd ...
-    wa-huwa l-ghafūru l-wadūd ~ ʾēl qannôʾ we-nōqēm YHWH ... YHWH ʾerek ʾappayim û-gedol kōaḥ: string
-    of divine epithets uniting severity and forbearance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהֹוָ֗ה אֶ֤רֶךְ אַפַּ֨יִם֙ וגדול וּגְדָל כֹּ֔חַ וְנַקֵּ֖ה לֹ֣א יְנַקֶּ֑ה יְהוָ֗ה בְּסוּפָ֤ה וּבִשְׂעָרָה֙
-    דַּרְכּ֔וֹ וְעָנָ֖ן אֲבַ֥ק רַגְלָֽיו
-- tradition: islam
-  ref: Quran 85:8
-  note: Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
-    Glorious, doer of what he wills; or Lord, King, God of mankind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ
-- tradition: islam
-  ref: Quran 85:9
-  note: Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
-    Glorious, doer of what he wills; or Lord, King, God of mankind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. inna baṭsha rabbika la-shadīd ... wa-huwa l-ghafūru l-wadūd ~ ʾēl qannôʾ we-nōqēm YHWH ... YHWH
-    ʾerek ʾappayim û-gedol kōaḥ: string of divine epithets uniting severity and forbearance.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Cluster of divine epithets in sequence (e.g. the Forgiving, the
     Loving, Lord of the Throne, the Glorious, doer of what he wills; or Lord, King, God of mankind) (weight
@@ -88,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
+  Glorious, doer of what he wills; or Lord, King, God of mankind)
+kinds:
+- echo
+units:
+- id: hb-nah-1-avenging-god
+  title: The jealous and avenging God against Nineveh
+  tradition: judaism
+- id: quran-85-constellations
+  title: 'The constellations: the people of the ditch and the preserved tablet'
+  tradition: islam
+matches:
+- kind: echo
+  label: Cluster of divine epithets in sequence (e.g. the Forgiving, the Loving, Lord of the Throne, the
+    Glorious, doer of what he wills; or Lord, King, God of mankind)
+  note: 'inna baṭsha rabbika la-shadīd ... wa-huwa l-ghafūru l-wadūd ~ ʾēl qannôʾ we-nōqēm YHWH ... YHWH
+    ʾerek ʾappayim û-gedol kōaḥ: string of divine epithets uniting severity and forbearance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Nah 1:2
+      lang: he
+      text: אֵ֣ל קַנּ֤וֹא וְנֹקֵם֙ יְהוָ֔ה נֹקֵ֥ם יְהוָ֖ה וּבַ֣עַל חֵמָ֑ה נֹקֵ֤ם יְהוָה֙ לְצָרָ֔יו וְנוֹטֵ֥ר
+        ה֖וּא לְאֹיְבָֽיו
+    - ref: Nah 1:3
+      lang: he
+      text: יְהֹוָ֗ה אֶ֤רֶךְ אַפַּ֨יִם֙ וגדול וּגְדָל כֹּ֔חַ וְנַקֵּ֖ה לֹ֣א יְנַקֶּ֑ה יְהוָ֗ה בְּסוּפָ֤ה
+        וּבִשְׂעָרָה֙ דַּרְכּ֔וֹ וְעָנָ֖ן אֲבַ֥ק רַגְלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 85:12
+      lang: ar
+      text: إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ
+    - ref: Quran 85:14
+      lang: ar
+      text: وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ
 ---
 
 ## Questions

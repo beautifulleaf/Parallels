@@ -2,8 +2,7 @@
 id: motif-hb-num-16-korah-vs-quran-40-believer-of-pharaohs-family
 title: Korah, Dathan and Abiram rebel; the earth swallows them ↔ Moses, Pharaoh, Haman and the believer
   of Pharaoh's family
-summary: 'These two units share 1 motifs: where haman and korah belong in the story of god''s people [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - setting-of-haman-and-korah-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 16:1
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Korah''s
-    place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the camp against Moses
-    and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees of Moses'' mission,
-    who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers of Egypt, whose
-    sin in the Quran is arrogance of wealth (cf. Q 28:76).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּ֣ח קֹ֔רַח בֶּן יִצְהָ֥ר בֶּן קְהָ֖ת בֶּן לֵוִ֑י וְדָתָ֨ן וַאֲבִירָ֜ם בְּנֵ֧י אֱלִיאָ֛ב
-    וְא֥וֹן בֶּן פֶּ֖לֶת בְּנֵ֥י רְאוּבֵֽן
-- tradition: judaism
-  ref: Num 16:3
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Korah''s
-    place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the camp against Moses
-    and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees of Moses'' mission,
-    who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers of Egypt, whose
-    sin in the Quran is arrogance of wealth (cf. Q 28:76).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽקָּהֲל֞וּ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֗ן וַיֹּאמְר֣וּ אֲלֵהֶם֮ רַב לָכֶם֒ כִּ֤י כָל הָֽעֵדָה֙
-    כֻּלָּ֣ם קְדֹשִׁ֔ים וּבְתוֹכָ֖ם יְהוָ֑ה וּמַדּ֥וּעַ תִּֽתְנַשְּׂא֖וּ עַל קְהַ֥ל יְהוָֽה
-- tradition: islam
-  ref: Quran 40:24
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌ كَذَّابٌ
-- tradition: islam
-  ref: Quran 40:36
-  note: 'Where Haman and Korah belong in the story of God''s people [divergence between the texts] (Haman''s
-    place. Esther: ʾeṯ-hāmān ben-hammədāṯāʾ hā-ʾăḡāḡî, vizier of Ahasuerus in Persia, who seeks ləhašmîḏ
-    ʾeṯ-kol-ha-yyəhûḏîm. Q: Moses is sent ilā Firʿawna wa-Hāmāna wa-Qārūn, and Haman is Pharaoh''s builder
-    (yā-Hāmānu bni lī). The name of Israel''s Persian-era persecutor is placed at the Egyptian court;
-    the shared role is the persecutor of God''s people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ يَٰهَٰمَٰنُ ٱبْنِ لِى صَرْحًا لَّعَلِّىٓ أَبْلُغُ ٱلْأَسْبَٰبَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Korah''s place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the
-    camp against Moses and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees
-    of Moses'' mission, who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers
-    of Egypt, whose sin in the Quran is arrogance of wealth (cf. Q 28:76).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where Haman and Korah belong in the story of God''s people [divergence
     between the texts] (weight 6.3). Pair score 6.3.'
@@ -100,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where Haman and Korah belong in the story of God's people
+kinds:
+- divergence
+units:
+- id: hb-num-16-korah
+  title: Korah, Dathan and Abiram rebel; the earth swallows them
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: divergence
+  label: Where Haman and Korah belong in the story of God's people
+  note: 'Korah''s place. Num: qōraḥ ben-yiṣhār ben-qəhāṯ ben-lēwî, a Levite who rebels inside the camp
+    against Moses and Aaron (rab-lāḵem). Q: Qārūn is named with Pharaoh and Haman as the addressees of
+    Moses'' mission, who call him sāḥirun kadhdhāb. The Israelite rebel becomes one of the three powers
+    of Egypt, whose sin in the Quran is arrogance of wealth (cf. Q 28:76).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 16:1
+      lang: he
+      text: וַיִּקַּ֣ח קֹ֔רַח בֶּן יִצְהָ֥ר בֶּן קְהָ֖ת בֶּן לֵוִ֑י וְדָתָ֨ן וַאֲבִירָ֜ם בְּנֵ֧י אֱלִיאָ֛ב
+        וְא֥וֹן בֶּן פֶּ֖לֶת בְּנֵ֥י רְאוּבֵֽן
+    - ref: Num 16:3
+      lang: he
+      text: וַיִּֽקָּהֲל֞וּ עַל מֹשֶׁ֣ה וְעַֽל אַהֲרֹ֗ן וַיֹּאמְר֣וּ אֲלֵהֶם֮ רַב לָכֶם֒ כִּ֤י כָל הָֽעֵדָה֙
+        כֻּלָּ֣ם קְדֹשִׁ֔ים וּבְתוֹכָ֖ם יְהוָ֑ה וּמַדּ֥וּעַ תִּֽתְנַשְּׂא֖וּ עַל קְהַ֥ל יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 40:24
+      lang: ar
+      text: إِلَىٰ فِرْعَوْنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُوا۟ سَٰحِرٌ كَذَّابٌ
 ---
 
 ## Questions

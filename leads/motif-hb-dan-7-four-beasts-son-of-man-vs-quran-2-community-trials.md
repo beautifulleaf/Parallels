@@ -2,8 +2,7 @@
 id: motif-hb-dan-7-four-beasts-son-of-man-vs-quran-2-community-trials
 title: The four beasts, the Ancient of Days and one like a son of man ↔ The corrupter, God in clouds,
   one community, fighting in the sacred month
-summary: 'These two units share 2 motifs: one like a son of man (kevar enash) comes with the clouds of
-  heaven to the ancient of days, coming with the clouds of heaven [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,58 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- son-of-man-with-clouds
 - coming-with-the-clouds-as-divergence
-passages:
-- tradition: judaism
-  ref: Dan 7:13
-  note: One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of Days
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה
-    הֲוָ֑ה וְעַד עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי
-- tradition: islam
-  ref: Quran 2:210
-  note: One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of Days
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
-    وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
-- tradition: judaism
-  ref: Dan 7:13
-  note: 'Coming with the clouds of heaven [divergence between the texts] (Dan 7:13 wa-ʾărû ʿim ʿănānê
-    šĕmayyāʾ kĕ-bar ʾĕnāš ʾātēh hăwāʾ wĕ-ʿad ʿattîq yômayyāʾ mĕṭāh: one like a human being comes with
-    the clouds of heaven, to the Ancient of Days; Q 2:210 hal yanẓurūna illā an yaʾtiyahumu llāhu fī ẓulalin
-    mina l-ghamāmi wa-l-malāʾikatu: it is God himself who would come in canopies of cloud, with the angels.
-    The figure distinct from God who comes with clouds is gone; the coming in clouds is God''s own, and
-    is put as a rhetorical threat.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה
-    הֲוָ֑ה וְעַד עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי
-- tradition: islam
-  ref: Quran 2:210
-  note: 'Coming with the clouds of heaven [divergence between the texts] (Dan 7:13 wa-ʾărû ʿim ʿănānê
-    šĕmayyāʾ kĕ-bar ʾĕnāš ʾātēh hăwāʾ wĕ-ʿad ʿattîq yômayyāʾ mĕṭāh: one like a human being comes with
-    the clouds of heaven, to the Ancient of Days; Q 2:210 hal yanẓurūna illā an yaʾtiyahumu llāhu fī ẓulalin
-    mina l-ghamāmi wa-l-malāʾikatu: it is God himself who would come in canopies of cloud, with the angels.
-    The figure distinct from God who comes with clouds is gone; the coming in clouds is God''s own, and
-    is put as a rhetorical threat.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
-    وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+- son-of-man-with-clouds
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Dan 7:13 wa-ʾărû ʿim ʿănānê šĕmayyāʾ kĕ-bar ʾĕnāš ʾātēh hăwāʾ wĕ-ʿad ʿattîq yômayyāʾ mĕṭāh:
-    one like a human being comes with the clouds of heaven, to the Ancient of Days; Q 2:210 hal yanẓurūna
-    illā an yaʾtiyahumu llāhu fī ẓulalin mina l-ghamāmi wa-l-malāʾikatu: it is God himself who would come
-    in canopies of cloud, with the angels. The figure distinct from God who comes with clouds is gone;
-    the coming in clouds is God''s own, and is put as a rhetorical threat.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: One like a son of man (kevar enash) comes with the clouds of heaven
-    to the Ancient of Days (weight 6.7); Coming with the clouds of heaven [divergence between the texts]
-    (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Coming with the clouds of heaven [divergence between the texts]
+    (weight 6.7); One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of
+    Days (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in The four beasts, the Ancient of Days and one like a son of man: Thrones are set and the
     Ancient of Days sits, his garment white as snow and his hair like pure wool; The seer asks one of
@@ -98,6 +54,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Coming with the clouds of heaven
+kinds:
+- divergence
+- shared
+units:
+- id: hb-dan-7-four-beasts-son-of-man
+  title: The four beasts, the Ancient of Days and one like a son of man
+  tradition: judaism
+- id: quran-2-community-trials
+  title: The corrupter, God in clouds, one community, fighting in the sacred month
+  tradition: islam
+matches:
+- kind: divergence
+  label: Coming with the clouds of heaven
+  note: 'Dan 7:13 wa-ʾărû ʿim ʿănānê šĕmayyāʾ kĕ-bar ʾĕnāš ʾātēh hăwāʾ wĕ-ʿad ʿattîq yômayyāʾ mĕṭāh: one
+    like a human being comes with the clouds of heaven, to the Ancient of Days; Q 2:210 hal yanẓurūna
+    illā an yaʾtiyahumu llāhu fī ẓulalin mina l-ghamāmi wa-l-malāʾikatu: it is God himself who would come
+    in canopies of cloud, with the angels. The figure distinct from God who comes with clouds is gone;
+    the coming in clouds is God''s own, and is put as a rhetorical threat.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:13
+      lang: he
+      text: חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה
+        הֲוָ֑ה וְעַד עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:210
+      lang: ar
+      text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
+        وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
+- kind: shared
+  label: One like a son of man (kevar enash) comes with the clouds of heaven to the Ancient of Days
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:13
+      lang: he
+      text: חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה
+        הֲוָ֑ה וְעַד עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:210
+      lang: ar
+      text: هَلْ يَنظُرُونَ إِلَّآ أَن يَأْتِيَهُمُ ٱللَّهُ فِى ظُلَلٍ مِّنَ ٱلْغَمَامِ وَٱلْمَلَٰٓئِكَةُ
+        وَقُضِىَ ٱلْأَمْرُ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ
 ---
 
 ## Questions

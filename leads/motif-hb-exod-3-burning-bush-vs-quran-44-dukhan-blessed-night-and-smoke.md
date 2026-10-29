@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-3-burning-bush-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'The burning bush and the divine name ↔ Ha-Mim: the blessed night and the day of the smoke'
-summary: 'These two units share 1 motifs: god identifies himself as god of abraham, isaac and jacob.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,37 +13,9 @@ layers:
 - motif
 motifs:
 - god-of-abraham-isaac-jacob
-passages:
-- tradition: judaism
-  ref: Exod 3:6
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר אָנֹכִי֙ אֱלֹהֵ֣י אָבִ֔יךָ אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֣י יַעֲקֹ֑ב
-    וַיַּסְתֵּ֤ר מֹשֶׁה֙ פָּנָ֔יו כִּ֣י יָרֵ֔א מֵהַבִּ֖יט אֶל הָאֱלֹהִֽים
-- tradition: judaism
-  ref: Exod 3:15
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
-    אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה שְּׁמִ֣י
-    לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
-- tradition: islam
-  ref: Quran 44:8
-  note: 'God identifies himself as God of Abraham, Isaac and Jacob (The God of the ancestors: YHWH ʾĕlōhê
-    ʾăḇōṯêḵem ʾĕlōhê ʾaḇrāhām ... zeh šəmî lə-ʿōlām vs. rabbukum wa-rabbu ābāʾikumu l-awwalīn. In Exodus
-    the formula identifies the God of the fathers by name to Israel; in the Quran it tells Meccan polytheists
-    that their own forefathers'' Lord is the one God, against their appeal to ancestral custom.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The God of the ancestors: YHWH ʾĕlōhê ʾăḇōṯêḵem ʾĕlōhê ʾaḇrāhām ... zeh šəmî lə-ʿōlām vs. rabbukum
-    wa-rabbu ābāʾikumu l-awwalīn. In Exodus the formula identifies the God of the fathers by name to Israel;
-    in the Quran it tells Meccan polytheists that their own forefathers'' Lord is the one God, against
-    their appeal to ancestral custom.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God identifies himself as God of Abraham, Isaac and Jacob (weight
     5.6). Pair score 5.6.'
@@ -76,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God identifies himself as God of Abraham, Isaac and Jacob
+kinds:
+- echo
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: echo
+  label: God identifies himself as God of Abraham, Isaac and Jacob
+  note: 'The God of the ancestors: YHWH ʾĕlōhê ʾăḇōṯêḵem ʾĕlōhê ʾaḇrāhām ... zeh šəmî lə-ʿōlām vs. rabbukum
+    wa-rabbu ābāʾikumu l-awwalīn. In Exodus the formula identifies the God of the fathers by name to Israel;
+    in the Quran it tells Meccan polytheists that their own forefathers'' Lord is the one God, against
+    their appeal to ancestral custom.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:15
+      lang: he
+      text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
+        אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה
+        שְּׁמִ֣י לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 44:8
+      lang: ar
+      text: لَآ إِلَٰهَ إِلَّا هُوَ يُحْىِۦ وَيُمِيتُ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

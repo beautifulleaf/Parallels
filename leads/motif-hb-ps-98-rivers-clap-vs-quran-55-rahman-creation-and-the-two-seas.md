@@ -2,8 +2,7 @@
 id: motif-hb-ps-98-rivers-clap-vs-quran-55-rahman-creation-and-the-two-seas
 title: 'Psalm 98, new song; rivers clap their hands ↔ Al-Rahman: the Merciful taught the Quran; sun and
   moon by reckoning; clay and smokeless fire; the two seas and the barrier'
-summary: 'These two units share 1 motifs: hills, meadows, valleys, sea, rivers or trees rejoice, clap
-  or sing before god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - nature-sings-and-rejoices
-passages:
-- tradition: judaism
-  ref: Ps 98:7-8
-  note: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (98:7) יִרְעַ֣ם הַ֭יָּם וּמְלֹא֑וֹ תֵּ֝בֵ֗ל וְיֹ֣שְׁבֵי בָֽהּ (98:8) נְהָר֥וֹת יִמְחֲאוּ כָ֑ף
-    יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ
-- tradition: judaism
-  ref: Ps 98:8
-  note: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהָר֥וֹת יִמְחֲאוּ כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ
-- tradition: islam
-  ref: Quran 55:6
-  note: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. nəhārôṯ yimḥăʾû ḵāp̄ yaḥaḏ hārîm yərannēnû vs. wa-n-najmu wa-sh-shajaru yasjudān. Nature worships
-    in both; joy (clapping, singing) in the psalm, prostration in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing
     before God (weight 5.3). Pair score 5.3.'
@@ -70,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
+kinds:
+- echo
+units:
+- id: hb-ps-98-rivers-clap
+  title: Psalm 98, new song; rivers clap their hands
+  tradition: judaism
+- id: quran-55-rahman-creation-and-the-two-seas
+  title: 'Al-Rahman: the Merciful taught the Quran; sun and moon by reckoning; clay and smokeless fire;
+    the two seas and the barrier'
+  tradition: islam
+matches:
+- kind: echo
+  label: Hills, meadows, valleys, sea, rivers or trees rejoice, clap or sing before God
+  note: nəhārôṯ yimḥăʾû ḵāp̄ yaḥaḏ hārîm yərannēnû vs. wa-n-najmu wa-sh-shajaru yasjudān. Nature worships
+    in both; joy (clapping, singing) in the psalm, prostration in the Quran.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 98:8
+      lang: he
+      text: נְהָר֥וֹת יִמְחֲאוּ כָ֑ף יַ֝֗חַד הָרִ֥ים יְרַנֵּֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:6
+      lang: ar
+      text: وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ
 ---
 
 ## Questions

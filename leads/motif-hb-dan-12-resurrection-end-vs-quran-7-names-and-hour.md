@@ -2,8 +2,7 @@
 id: motif-hb-dan-12-resurrection-end-vs-quran-7-names-and-hour
 title: Michael arises, the resurrection, and the sealed book ↔ Made for hell, the beautiful names, the
   unknown Hour
-summary: 'These two units share 1 motifs: the seer is told to shut up and seal the vision/book until the
-  end.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - seal-up-the-vision
-passages:
-- tradition: judaism
-  ref: Dan 12:4
-  note: The seer is told to shut up and seal the vision/book until the end
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֣ה דָֽנִיֵּ֗אל סְתֹ֧ם הַדְּבָרִ֛ים וַחֲתֹ֥ם הַסֵּ֖פֶר עַד עֵ֣ת קֵ֑ץ יְשֹׁטְט֥וּ רַבִּ֖ים
-    וְתִרְבֶּ֥ה הַדָּֽעַת
-- tradition: judaism
-  ref: Dan 12:9
-  note: The seer is told to shut up and seal the vision/book until the end
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר לֵ֣ךְ דָּנִיֵּ֑אל כִּֽי סְתֻמִ֧ים וַחֲתֻמִ֛ים הַדְּבָרִ֖ים עַד עֵ֥ת קֵֽץ
-- tradition: islam
-  ref: Quran 7:187
-  note: 'The seer is told to shut up and seal the vision/book until the end (The seer is denied the timing
-    of the end: yasʾalūnaka ʿani s-sāʿati ayyāna mursāhā qul innamā ʿilmuhā ʿinda rabbī; law kuntu aʿlamu
-    l-ghayba vs wāʾōmrāh ʾădōnî māh ʾaḥărît ʾēlleh ... kî-sᵉtumîm waḥătumîm haddᵉbārîm ʿad-ʿēt qēṣ. In
-    Dan the prophet asks; in Q people ask the prophet and he disclaims knowledge.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا يُجَلِّيهَا
-    لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا بَغْتَةً يَسْـَٔلُونَكَ
-    كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 7:188
-  note: 'The seer is told to shut up and seal the vision/book until the end (The seer is denied the timing
-    of the end: yasʾalūnaka ʿani s-sāʿati ayyāna mursāhā qul innamā ʿilmuhā ʿinda rabbī; law kuntu aʿlamu
-    l-ghayba vs wāʾōmrāh ʾădōnî māh ʾaḥărît ʾēlleh ... kî-sᵉtumîm waḥătumîm haddᵉbārîm ʿad-ʿēt qēṣ. In
-    Dan the prophet asks; in Q people ask the prophet and he disclaims knowledge.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ وَلَوْ كُنتُ أَعْلَمُ
-    ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ إِنْ أَنَا۠ إِلَّا نَذِيرٌ وَبَشِيرٌ
-    لِّقَوْمٍ يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The seer is denied the timing of the end: yasʾalūnaka ʿani s-sāʿati ayyāna mursāhā qul innamā
-    ʿilmuhā ʿinda rabbī; law kuntu aʿlamu l-ghayba vs wāʾōmrāh ʾădōnî māh ʾaḥărît ʾēlleh ... kî-sᵉtumîm
-    waḥătumîm haddᵉbārîm ʿad-ʿēt qēṣ. In Dan the prophet asks; in Q people ask the prophet and he disclaims
-    knowledge.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The seer is told to shut up and seal the vision/book until the end
     (weight 6.3). Pair score 6.3.'
@@ -92,6 +52,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The seer is told to shut up and seal the vision/book until the end
+kinds:
+- echo
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-7-names-and-hour
+  title: Made for hell, the beautiful names, the unknown Hour
+  tradition: islam
+matches:
+- kind: echo
+  label: The seer is told to shut up and seal the vision/book until the end
+  note: 'The seer is denied the timing of the end: yasʾalūnaka ʿani s-sāʿati ayyāna mursāhā qul innamā
+    ʿilmuhā ʿinda rabbī; law kuntu aʿlamu l-ghayba vs wāʾōmrāh ʾădōnî māh ʾaḥărît ʾēlleh ... kî-sᵉtumîm
+    waḥătumîm haddᵉbārîm ʿad-ʿēt qēṣ. In Dan the prophet asks; in Q people ask the prophet and he disclaims
+    knowledge.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:8
+      lang: he
+      text: וַאֲנִ֥י שָׁמַ֖עְתִּי וְלֹ֣א אָבִ֑ין וָאֹ֣מְרָ֔ה אֲדֹנִ֕י מָ֥ה אַחֲרִ֖ית אֵֽלֶּה
+    - ref: Dan 12:9
+      lang: he
+      text: וַיֹּ֖אמֶר לֵ֣ךְ דָּנִיֵּ֑אל כִּֽי סְתֻמִ֧ים וַחֲתֻמִ֛ים הַדְּבָרִ֖ים עַד עֵ֥ת קֵֽץ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:187
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَىٰهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ رَبِّى لَا
+        يُجَلِّيهَا لِوَقْتِهَآ إِلَّا هُوَ ثَقُلَتْ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ لَا تَأْتِيكُمْ إِلَّا
+        بَغْتَةً يَسْـَٔلُونَكَ كَأَنَّكَ حَفِىٌّ عَنْهَا قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ وَلَٰكِنَّ
+        أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ
+    - ref: Quran 7:188
+      lang: ar
+      text: قُل لَّآ أَمْلِكُ لِنَفْسِى نَفْعًا وَلَا ضَرًّا إِلَّا مَا شَآءَ ٱللَّهُ وَلَوْ كُنتُ أَعْلَمُ
+        ٱلْغَيْبَ لَٱسْتَكْثَرْتُ مِنَ ٱلْخَيْرِ وَمَا مَسَّنِىَ ٱلسُّوٓءُ إِنْ أَنَا۠ إِلَّا نَذِيرٌ
+        وَبَشِيرٌ لِّقَوْمٍ يُؤْمِنُونَ
 ---
 
 ## Questions

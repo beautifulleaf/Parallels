@@ -2,8 +2,7 @@
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-11-judgment-day
 title: The book of remembrance and the sun of righteousness ↔ The witnessed day; the wretched and the
   blessed
-summary: 'These two units share 1 motifs: on judgment day people are either wretched (shaqi) or blessed
-  (sa''id).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 - motif
 motifs:
 - wretched-and-blessed-on-judgment-day
-passages:
-- tradition: judaism
-  ref: Mal 3:18
-  note: 'On judgment day people are either wretched (shaqi) or blessed (sa''id) (fa-minhum shaqiyyun wa-saʿīd
-    ... fī n-nār ... fī l-janna; ûrəʾîtem bên ṣaddîq lərāšāʿ bên ʿōbēd ʾĕlōhîm laʾăšer lōʾ ʿăbādô, then
-    the day bōʿēr kattannûr for the zēdîm and šemeš ṣədāqâ for those who fear: the coming day splits humanity
-    into two groups. Mal''s criterion is serving God; Q''s is decreed (shaqiyy / saʿīd).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א עֲבָדֽוֹ
-- tradition: judaism
-  ref: Mal 3:19
-  note: 'On judgment day people are either wretched (shaqi) or blessed (sa''id) (fa-minhum shaqiyyun wa-saʿīd
-    ... fī n-nār ... fī l-janna; ûrəʾîtem bên ṣaddîq lərāšāʿ bên ʿōbēd ʾĕlōhîm laʾăšer lōʾ ʿăbādô, then
-    the day bōʿēr kattannûr for the zēdîm and šemeš ṣədāqâ for those who fear: the coming day splits humanity
-    into two groups. Mal''s criterion is serving God; Q''s is decreed (shaqiyy / saʿīd).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הִנֵּ֤ה הַיּוֹם֙ בָּ֔א בֹּעֵ֖ר כַּתַּנּ֑וּר וְהָי֨וּ כָל זֵדִ֜ים וְכָל עֹשֵׂ֤ה רִשְׁעָה֙
-    קַ֔שׁ וְלִהַ֨ט אֹתָ֜ם הַיּ֣וֹם הַבָּ֗א אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲשֶׁ֛ר לֹא יַעֲזֹ֥ב לָהֶ֖ם שֹׁ֥רֶשׁ
-    וְעָנָֽף
-- tradition: islam
-  ref: Quran 11:105
-  note: On judgment day people are either wretched (shaqi) or blessed (sa'id)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِۦ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
-- tradition: islam
-  ref: Quran 11:106
-  note: On judgment day people are either wretched (shaqi) or blessed (sa'id)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. fa-minhum shaqiyyun wa-saʿīd ... fī n-nār ... fī l-janna; ûrəʾîtem bên ṣaddîq lərāšāʿ bên
-    ʿōbēd ʾĕlōhîm laʾăšer lōʾ ʿăbādô, then the day bōʿēr kattannûr for the zēdîm and šemeš ṣədāqâ for
-    those who fear: the coming day splits humanity into two groups. Mal''s criterion is serving God; Q''s
-    is decreed (shaqiyy / saʿīd).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day people are either wretched (shaqi) or blessed (sa''id)
     (weight 6.3). Pair score 6.3.'
@@ -85,6 +48,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On judgment day people are either wretched (shaqi) or blessed (sa'id)
+kinds:
+- parallel
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-11-judgment-day
+  title: The witnessed day; the wretched and the blessed
+  tradition: islam
+matches:
+- kind: parallel
+  label: On judgment day people are either wretched (shaqi) or blessed (sa'id)
+  note: 'fa-minhum shaqiyyun wa-saʿīd ... fī n-nār ... fī l-janna; ûrəʾîtem bên ṣaddîq lərāšāʿ bên ʿōbēd
+    ʾĕlōhîm laʾăšer lōʾ ʿăbādô, then the day bōʿēr kattannûr for the zēdîm and šemeš ṣədāqâ for those
+    who fear: the coming day splits humanity into two groups. Mal''s criterion is serving God; Q''s is
+    decreed (shaqiyy / saʿīd).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:18
+      lang: he
+      text: וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א
+        עֲבָדֽוֹ
+    - ref: Mal 3:19
+      lang: he
+      text: כִּֽי הִנֵּ֤ה הַיּוֹם֙ בָּ֔א בֹּעֵ֖ר כַּתַּנּ֑וּר וְהָי֨וּ כָל זֵדִ֜ים וְכָל עֹשֵׂ֤ה רִשְׁעָה֙
+        קַ֔שׁ וְלִהַ֨ט אֹתָ֜ם הַיּ֣וֹם הַבָּ֗א אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲשֶׁ֛ר לֹא יַעֲזֹ֥ב לָהֶ֖ם שֹׁ֥רֶשׁ
+        וְעָנָֽף
+    - ref: Mal 3:20
+      lang: he
+      text: וְזָרְחָ֨ה לָכֶ֜ם יִרְאֵ֤י שְׁמִי֙ שֶׁ֣מֶשׁ צְדָקָ֔ה וּמַרְפֵּ֖א בִּכְנָפֶ֑יהָ וִֽיצָאתֶ֥ם
+        וּפִשְׁתֶּ֖ם כְּעֶגְלֵ֥י מַרְבֵּֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 11:105
+      lang: ar
+      text: يَوْمَ يَأْتِ لَا تَكَلَّمُ نَفْسٌ إِلَّا بِإِذْنِهِۦ فَمِنْهُمْ شَقِىٌّ وَسَعِيدٌ
+    - ref: Quran 11:106
+      lang: ar
+      text: فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ
+    - ref: Quran 11:108
+      lang: ar
+      text: وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ
+        وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ عَطَآءً غَيْرَ مَجْذُوذٍ
 ---
 
 ## Questions

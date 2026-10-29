@@ -2,8 +2,7 @@
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-21-prophets-answered
 title: Jonah flees to Tarshish and is thrown into the sea ↔ Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun,
   Zechariah and Mary
-summary: 'These two units share 1 motifs: a prophet commissioned by god flees ''from the presence of yhwh''
-  rather than deliver the message.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - prophet-flees-from-gods-commission
-passages:
-- tradition: judaism
-  ref: Jonah 1:3
-  note: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
-    ('from the presence of YHWH' twice in 1:3)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֤קָם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א אָנִיָּ֣ה
-    בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י
-    יְהוָֽה
-- tradition: judaism
-  ref: Jonah 1:10
-  note: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
-    ('from the presence of YHWH' twice in 1:3)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדוֹלָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה זֹּ֣את עָשִׂ֑יתָ כִּֽי
-    יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי מִלִּפְנֵ֤י יְהוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם
-- tradition: islam
-  ref: Quran 21:87
-  note: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
-    (he went off in anger (mughāḍiban), thinking God had no power over him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
-    أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyāqom yônâ librōaḥ taršîšâ millipnê YHWH; wa-dha n-nūni idh dhahaba mughāḍiban fa-ẓanna
-    an lan naqdira ʿalayh: the prophet runs from God, thinking he can escape God''s reach.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A prophet commissioned by God flees ''from the presence of YHWH''
     rather than deliver the message (weight 6.7). Pair score 6.7.'
@@ -80,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
+kinds:
+- parallel
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-21-prophets-answered
+  title: Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary
+  tradition: islam
+matches:
+- kind: parallel
+  label: A prophet commissioned by God flees 'from the presence of YHWH' rather than deliver the message
+  note: 'wayyāqom yônâ librōaḥ taršîšâ millipnê YHWH; wa-dha n-nūni idh dhahaba mughāḍiban fa-ẓanna an
+    lan naqdira ʿalayh: the prophet runs from God, thinking he can escape God''s reach.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:3
+      lang: he
+      text: וַיָּ֤קָם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א
+        אָנִיָּ֣ה בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה
+        מִלִּפְנֵ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:87
+      lang: ar
+      text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
+        أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

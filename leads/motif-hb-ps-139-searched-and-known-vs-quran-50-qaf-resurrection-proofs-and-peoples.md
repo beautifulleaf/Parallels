@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'Psalm 139, God''s all-knowing presence and the embryo ↔ Qaf: wonder at the warner, the earth that
   consumes the dead, the sky without rifts and the destroyed peoples'
-summary: 'These two units share 1 motifs: god knows what the earth diminishes of the dead bodies, and
-  with him is a preserving record.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - god-knows-what-earth-takes-of-them
-passages:
-- tradition: judaism
-  ref: Ps 139:15
-  note: 'God knows what the earth diminishes of the dead bodies, and with him is a preserving record (God''s
-    knowledge of the body in the earth, and a book: lōʾ niḵḥaḏ ʿāṣmî mimmekkā ... ruqqamtî bə-ṯaḥtiyyôṯ
-    ʾāreṣ ... wə-ʿal sip̄rəḵā kullām yikkāṯēḇû vs. qad ʿalimnā mā tanquṣu l-arḍu minhum wa-ʿindanā kitābun
-    ḥafīẓ. The psalm: the embryo formed ''in the depths of the earth''; the Quran: the corpse diminished
-    by the earth. Formation and decay are both known and written.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
-    אָֽרֶץ
-- tradition: judaism
-  ref: Ps 139:16
-  note: 'God knows what the earth diminishes of the dead bodies, and with him is a preserving record (God''s
-    knowledge of the body in the earth, and a book: lōʾ niḵḥaḏ ʿāṣmî mimmekkā ... ruqqamtî bə-ṯaḥtiyyôṯ
-    ʾāreṣ ... wə-ʿal sip̄rəḵā kullām yikkāṯēḇû vs. qad ʿalimnā mā tanquṣu l-arḍu minhum wa-ʿindanā kitābun
-    ḥafīẓ. The psalm: the embryo formed ''in the depths of the earth''; the Quran: the corpse diminished
-    by the earth. Formation and decay are both known and written.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
-    אֶחָ֣ד בָּהֶֽם
-- tradition: islam
-  ref: Quran 50:4
-  note: God knows what the earth diminishes of the dead bodies, and with him is a preserving record
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God''s knowledge of the body in the earth, and a book: lōʾ niḵḥaḏ ʿāṣmî mimmekkā ... ruqqamtî
-    bə-ṯaḥtiyyôṯ ʾāreṣ ... wə-ʿal sip̄rəḵā kullām yikkāṯēḇû vs. qad ʿalimnā mā tanquṣu l-arḍu minhum wa-ʿindanā
-    kitābun ḥafīẓ. The psalm: the embryo formed ''in the depths of the earth''; the Quran: the corpse
-    diminished by the earth. Formation and decay are both known and written.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God knows what the earth diminishes of the dead bodies, and with
     him is a preserving record (weight 6.7). Pair score 6.7.'
@@ -87,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God knows what the earth diminishes of the dead bodies, and with him is a preserving record
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: echo
+  label: God knows what the earth diminishes of the dead bodies, and with him is a preserving record
+  note: 'God''s knowledge of the body in the earth, and a book: lōʾ niḵḥaḏ ʿāṣmî mimmekkā ... ruqqamtî
+    bə-ṯaḥtiyyôṯ ʾāreṣ ... wə-ʿal sip̄rəḵā kullām yikkāṯēḇû vs. qad ʿalimnā mā tanquṣu l-arḍu minhum wa-ʿindanā
+    kitābun ḥafīẓ. The psalm: the embryo formed ''in the depths of the earth''; the Quran: the corpse
+    diminished by the earth. Formation and decay are both known and written.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:15
+      lang: he
+      text: לֹא נִכְחַ֥ד עָצְמִ֗י מִ֫מֶּ֥ךָּ אֲשֶׁר עֻשֵּׂ֥יתִי בַסֵּ֑תֶר רֻ֝קַּ֗מְתִּי בְּֽתַחְתִּיּ֥וֹת
+        אָֽרֶץ
+    - ref: Ps 139:16
+      lang: he
+      text: גָּלְמִ֤י רָ֘א֤וּ עֵינֶ֗יךָ וְעַֽל סִפְרְךָ֮ כֻּלָּ֪ם יִכָּ֫תֵ֥בוּ יָמִ֥ים יֻצָּ֑רוּ ולא וְל֖וֹ
+        אֶחָ֣ד בָּהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 50:4
+      lang: ar
+      text: قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ
 ---
 
 ## Questions

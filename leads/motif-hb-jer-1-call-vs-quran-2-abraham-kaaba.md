@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-1-call-vs-quran-2-abraham-kaaba
 title: Jeremiah's call - known before the womb, words in his mouth ↔ Abraham, Ishmael and the House
-summary: 'These two units share 1 motifs: god will raise up a prophet like moses from among the brothers
-  and put his words in his mouth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,27 +13,9 @@ layers:
 - motif
 motifs:
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Jer 1:9
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    ('I have put my words in your mouth' echoes Deut 18:18)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֤ח יְהוָה֙ אֶת יָד֔וֹ וַיַּגַּ֖ע עַל פִּ֑י וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י הִנֵּ֛ה נָתַ֥תִּי
-    דְבָרַ֖י בְּפִֽיךָ
-- tradition: islam
-  ref: Quran 2:129
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    (a messenger 'from among them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
-    ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 1:9 hinnēh nātattî dĕbāray bĕ-pîkā; Q 2:129 rasūlan minhum yatlū ʿalayhim āyātika wa-yuʿallimuhumu
-    l-kitāba: a messenger who carries God''s words to the people.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will raise up a prophet like Moses from among the brothers and
     put his words in his mouth (weight 5.2). Pair score 5.2.'
@@ -66,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+kinds:
+- echo
+units:
+- id: hb-jer-1-call
+  title: Jeremiah's call - known before the womb, words in his mouth
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: echo
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  note: 'Jer 1:9 hinnēh nātattî dĕbāray bĕ-pîkā; Q 2:129 rasūlan minhum yatlū ʿalayhim āyātika wa-yuʿallimuhumu
+    l-kitāba: a messenger who carries God''s words to the people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 1:9
+      lang: he
+      text: וַיִּשְׁלַ֤ח יְהוָה֙ אֶת יָד֔וֹ וַיַּגַּ֖ע עַל פִּ֑י וַיֹּ֤אמֶר יְהוָה֙ אֵלַ֔י הִנֵּ֛ה נָתַ֥תִּי
+        דְבָרַ֖י בְּפִֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:129
+      lang: ar
+      text: رَبَّنَا وَٱبْعَثْ فِيهِمْ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَٰتِكَ وَيُعَلِّمُهُمُ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَيُزَكِّيهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

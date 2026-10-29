@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-2-fasting
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ The fast of Ramadan
-summary: 'These two units share 1 motifs: a bribe blinds the clear-sighted and perverts the words of the
-  righteous.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - bribe-blinds-the-wise
-passages:
-- tradition: judaism
-  ref: Exod 23:8
-  note: A bribe blinds the clear-sighted and perverts the words of the righteous
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֹׁ֖חַד לֹ֣א תִקָּ֑ח כִּ֤י הַשֹּׁ֨חַד֙ יְעַוֵּ֣ר פִּקְחִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽים
-- tradition: islam
-  ref: Quran 2:188
-  note: 'A bribe blinds the clear-sighted and perverts the words of the righteous (Exod 23:8 wĕ-šōḥad
-    lōʾ tiqqāḥ kî ha-ššōḥad yĕʿawwēr piqḥîm: a ban addressed to judges on taking; Q 2:188 wa-tudlū bihā
-    ilā l-ḥukkām: a ban addressed to litigants on offering wealth to judges.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ لِتَأْكُلُوا۟
-    فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Exod 23:8 wĕ-šōḥad lōʾ tiqqāḥ kî ha-ššōḥad yĕʿawwēr piqḥîm: a ban addressed to judges on
-    taking; Q 2:188 wa-tudlū bihā ilā l-ḥukkām: a ban addressed to litigants on offering wealth to judges.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A bribe blinds the clear-sighted and perverts the words of the righteous
     (weight 5.6). Pair score 5.6.'
@@ -66,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A bribe blinds the clear-sighted and perverts the words of the righteous
+kinds:
+- parallel
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-2-fasting
+  title: The fast of Ramadan
+  tradition: islam
+matches:
+- kind: parallel
+  label: A bribe blinds the clear-sighted and perverts the words of the righteous
+  note: 'Exod 23:8 wĕ-šōḥad lōʾ tiqqāḥ kî ha-ššōḥad yĕʿawwēr piqḥîm: a ban addressed to judges on taking;
+    Q 2:188 wa-tudlū bihā ilā l-ḥukkām: a ban addressed to litigants on offering wealth to judges.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:8
+      lang: he
+      text: וְשֹׁ֖חַד לֹ֣א תִקָּ֑ח כִּ֤י הַשֹּׁ֨חַד֙ יְעַוֵּ֣ר פִּקְחִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:188
+      lang: ar
+      text: وَلَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ وَتُدْلُوا۟ بِهَآ إِلَى ٱلْحُكَّامِ
+        لِتَأْكُلُوا۟ فَرِيقًا مِّنْ أَمْوَٰلِ ٱلنَّاسِ بِٱلْإِثْمِ وَأَنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

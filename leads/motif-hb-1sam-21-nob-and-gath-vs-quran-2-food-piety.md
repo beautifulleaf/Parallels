@@ -2,8 +2,7 @@
 id: motif-hb-1sam-21-nob-and-gath-vs-quran-2-food-piety
 title: David at Nob (showbread and Goliath's sword) and feigning madness at Gath ↔ Lawful food and true
   piety
-summary: 'These two units share 1 motifs: forbidden food is permitted to one compelled by necessity, without
-  desire or transgression.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - necessity-permits-forbidden-food
-passages:
-- tradition: judaism
-  ref: 1Sam 21:5
-  note: 'Forbidden food is permitted to one compelled by necessity, without desire or transgression (1Sam
-    21:7 wa-yyitten lô ha-kkōhēn qōdeš kî lōʾ hāyâ šām leḥem kî ʾim leḥem ha-ppānîm: the hungry fugitive
-    is given holy bread, ''for there was no bread but the showbread''; Q 2:173 fa-mani ḍṭurra ghayra bāghin
-    wa-lā ʿādin fa-lā ithma ʿalayhi: whoever is forced by need may eat forbidden food. A narrative case
-    of need overriding a food rule vs a general legal exemption.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַן הַכֹּהֵ֤ן אֶת דָּוִד֙ וַיֹּ֔אמֶר אֵֽין לֶ֥חֶם חֹ֖ל אֶל תַּ֣חַת יָדִ֑י כִּֽי אִם לֶ֤חֶם
-    קֹ֨דֶשׁ֙ יֵ֔שׁ אִם נִשְׁמְר֥וּ הַנְּעָרִ֖ים אַ֥ךְ מֵאִשָּֽׁה
-- tradition: judaism
-  ref: 1Sam 21:7
-  note: 'Forbidden food is permitted to one compelled by necessity, without desire or transgression (1Sam
-    21:7 wa-yyitten lô ha-kkōhēn qōdeš kî lōʾ hāyâ šām leḥem kî ʾim leḥem ha-ppānîm: the hungry fugitive
-    is given holy bread, ''for there was no bread but the showbread''; Q 2:173 fa-mani ḍṭurra ghayra bāghin
-    wa-lā ʿādin fa-lā ithma ʿalayhi: whoever is forced by need may eat forbidden food. A narrative case
-    of need overriding a food rule vs a general legal exemption.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתֶּן ל֥וֹ הַכֹּהֵ֖ן קֹ֑דֶשׁ כִּי֩ לֹא הָ֨יָה שָׁ֜ם לֶ֗חֶם כִּֽי אִם לֶ֤חֶם הַפָּנִים֙ הַמּֽוּסָרִים֙
-    מִלִּפְנֵ֣י יְהוָ֔ה לָשׂוּם֙ לֶ֣חֶם חֹ֔ם בְּי֖וֹם הִלָּקְחֽוֹ
-- tradition: islam
-  ref: Quran 2:173
-  note: Forbidden food is permitted to one compelled by necessity, without desire or transgression
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ لِغَيْرِ
-    ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Sam 21:7 wa-yyitten lô ha-kkōhēn qōdeš kî lōʾ hāyâ šām leḥem kî ʾim leḥem ha-ppānîm: the hungry
-    fugitive is given holy bread, ''for there was no bread but the showbread''; Q 2:173 fa-mani ḍṭurra
-    ghayra bāghin wa-lā ʿādin fa-lā ithma ʿalayhi: whoever is forced by need may eat forbidden food. A
-    narrative case of need overriding a food rule vs a general legal exemption.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Forbidden food is permitted to one compelled by necessity, without
     desire or transgression (weight 5.8). Pair score 5.8.'
@@ -79,6 +45,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Forbidden food is permitted to one compelled by necessity, without desire or transgression
+kinds:
+- echo
+units:
+- id: hb-1sam-21-nob-and-gath
+  title: David at Nob (showbread and Goliath's sword) and feigning madness at Gath
+  tradition: judaism
+- id: quran-2-food-piety
+  title: Lawful food and true piety
+  tradition: islam
+matches:
+- kind: echo
+  label: Forbidden food is permitted to one compelled by necessity, without desire or transgression
+  note: '1Sam 21:7 wa-yyitten lô ha-kkōhēn qōdeš kî lōʾ hāyâ šām leḥem kî ʾim leḥem ha-ppānîm: the hungry
+    fugitive is given holy bread, ''for there was no bread but the showbread''; Q 2:173 fa-mani ḍṭurra
+    ghayra bāghin wa-lā ʿādin fa-lā ithma ʿalayhi: whoever is forced by need may eat forbidden food. A
+    narrative case of need overriding a food rule vs a general legal exemption.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 21:5
+      lang: he
+      text: וַיַּ֨עַן הַכֹּהֵ֤ן אֶת דָּוִד֙ וַיֹּ֔אמֶר אֵֽין לֶ֥חֶם חֹ֖ל אֶל תַּ֣חַת יָדִ֑י כִּֽי אִם
+        לֶ֤חֶם קֹ֨דֶשׁ֙ יֵ֔שׁ אִם נִשְׁמְר֥וּ הַנְּעָרִ֖ים אַ֥ךְ מֵאִשָּֽׁה
+    - ref: 1Sam 21:7
+      lang: he
+      text: וַיִּתֶּן ל֥וֹ הַכֹּהֵ֖ן קֹ֑דֶשׁ כִּי֩ לֹא הָ֨יָה שָׁ֜ם לֶ֗חֶם כִּֽי אִם לֶ֤חֶם הַפָּנִים֙
+        הַמּֽוּסָרִים֙ מִלִּפְנֵ֣י יְהוָ֔ה לָשׂוּם֙ לֶ֣חֶם חֹ֔ם בְּי֖וֹם הִלָּקְחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:173
+      lang: ar
+      text: إِنَّمَا حَرَّمَ عَلَيْكُمُ ٱلْمَيْتَةَ وَٱلدَّمَ وَلَحْمَ ٱلْخِنزِيرِ وَمَآ أُهِلَّ بِهِۦ
+        لِغَيْرِ ٱللَّهِ فَمَنِ ٱضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَآ إِثْمَ عَلَيْهِ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

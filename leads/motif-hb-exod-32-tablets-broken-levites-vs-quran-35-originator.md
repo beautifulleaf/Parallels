@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-35-originator
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ The Originator, winged angels,
   and the two seas
-summary: 'These two units share 1 motifs: no one is granted long life or has his life shortened except
-  it is in a book.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - lifespan-written-in-book
-passages:
-- tradition: judaism
-  ref: Exod 32:32
-  note: 'No one is granted long life or has his life shortened except it is in a Book (məḥēnî nāʾ mi-ssip̄rəḵā
-    ʾăšer kāṯāḇtā ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû mi-ssip̄rî vs. illā fī kitāb: God''s book of the living.
-    In Exodus a name can be blotted out for sin; in the Quran the length of each life is fixed in the
-    book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
-- tradition: judaism
-  ref: Exod 32:33
-  note: 'No one is granted long life or has his life shortened except it is in a Book (məḥēnî nāʾ mi-ssip̄rəḵā
-    ʾăšer kāṯāḇtā ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû mi-ssip̄rî vs. illā fī kitāb: God''s book of the living.
-    In Exodus a name can be blotted out for sin; in the Quran the length of each life is fixed in the
-    book.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
-- tradition: islam
-  ref: Quran 35:11
-  note: No one is granted long life or has his life shortened except it is in a Book
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ
-    مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ
-    إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. məḥēnî nāʾ mi-ssip̄rəḵā ʾăšer kāṯāḇtā ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû mi-ssip̄rî vs. illā fī
-    kitāb: God''s book of the living. In Exodus a name can be blotted out for sin; in the Quran the length
-    of each life is fixed in the book.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one is granted long life or has his life shortened except it
     is in a Book (weight 6.3). Pair score 6.3.'
@@ -82,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one is granted long life or has his life shortened except it is in a Book
+kinds:
+- echo
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: echo
+  label: No one is granted long life or has his life shortened except it is in a Book
+  note: 'məḥēnî nāʾ mi-ssip̄rəḵā ʾăšer kāṯāḇtā ... mî ʾăšer ḥāṭāʾ-lî ʾemḥennû mi-ssip̄rî vs. illā fī kitāb:
+    God''s book of the living. In Exodus a name can be blotted out for sin; in the Quran the length of
+    each life is fixed in the book.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:32
+      lang: he
+      text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
+    - ref: Exod 32:33
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 35:11
+      lang: ar
+      text: وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ
+        مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ
+        عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-32-golden-calf-vs-quran-7-idol-request
 title: The golden calf ↔ Israel asks for a god like the idol-worshipers
-summary: 'These two units share 1 motifs: israel asks its leader to make them a god [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,50 +13,9 @@ layers:
 - motif
 motifs:
 - demand-for-a-made-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 32:1
-  note: 'Israel asks its leader to make them a god [divergence between the texts] (Same demand ''make
-    us a god'': ijʿal lanā ilāhan ka-mā lahum ālihatun vs qûm ʿăśēh-lānû ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû.
-    Changed: in Q it is put to Moses himself right after the sea crossing (jāwaznā bi-banī isrāʾīla l-baḥra),
-    prompted by a people devoted to idols (yaʿkufūna ʿalā aṣnāmin), and Moses refuses at once (innakum
-    qawmun tajhalūn; a-ghayra llāhi abghīkum ilāhan); in Exod it is put to Aaron during Moses'' absence
-    (kî-bōšēš mōšeh) and Aaron complies.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣רְא הָעָ֔ם כִּֽי בֹשֵׁ֥שׁ מֹשֶׁ֖ה לָרֶ֣דֶת מִן הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל אַהֲרֹ֗ן
-    וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם עֲשֵׂה לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי זֶ֣ה מֹשֶׁ֣ה
-    הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֨נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה הָ֥יָה לֽוֹ
-- tradition: islam
-  ref: Quran 7:138
-  note: 'Israel asks its leader to make them a god [divergence between the texts] (Same demand ''make
-    us a god'': ijʿal lanā ilāhan ka-mā lahum ālihatun vs qûm ʿăśēh-lānû ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû.
-    Changed: in Q it is put to Moses himself right after the sea crossing (jāwaznā bi-banī isrāʾīla l-baḥra),
-    prompted by a people devoted to idols (yaʿkufūna ʿalā aṣnāmin), and Moses refuses at once (innakum
-    qawmun tajhalūn; a-ghayra llāhi abghīkum ilāhan); in Exod it is put to Aaron during Moses'' absence
-    (kî-bōšēš mōšeh) and Aaron complies.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
-    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: islam
-  ref: Quran 7:140
-  note: 'Israel asks its leader to make them a god [divergence between the texts] (Same demand ''make
-    us a god'': ijʿal lanā ilāhan ka-mā lahum ālihatun vs qûm ʿăśēh-lānû ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû.
-    Changed: in Q it is put to Moses himself right after the sea crossing (jāwaznā bi-banī isrāʾīla l-baḥra),
-    prompted by a people devoted to idols (yaʿkufūna ʿalā aṣnāmin), and Moses refuses at once (innakum
-    qawmun tajhalūn; a-ghayra llāhi abghīkum ilāhan); in Exod it is put to Aaron during Moses'' absence
-    (kî-bōšēš mōšeh) and Aaron complies.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Same demand ''make us a god'': ijʿal lanā ilāhan ka-mā lahum ālihatun vs qûm ʿăśēh-lānû
-    ʾĕlōhîm ʾăšer yēlᵉkû lᵉpānênû. Changed: in Q it is put to Moses himself right after the sea crossing
-    (jāwaznā bi-banī isrāʾīla l-baḥra), prompted by a people devoted to idols (yaʿkufūna ʿalā aṣnāmin),
-    and Moses refuses at once (innakum qawmun tajhalūn; a-ghayra llāhi abghīkum ilāhan); in Exod it is
-    put to Aaron during Moses'' absence (kî-bōšēš mōšeh) and Aaron complies.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel asks its leader to make them a god [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +42,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel asks its leader to make them a god
+kinds:
+- divergence
+units:
+- id: hb-exod-32-golden-calf
+  title: The golden calf
+  tradition: judaism
+- id: quran-7-idol-request
+  title: Israel asks for a god like the idol-worshipers
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel asks its leader to make them a god
+  note: 'Same demand ''make us a god'': ijʿal lanā ilāhan ka-mā lahum ālihatun vs qûm ʿăśēh-lānû ʾĕlōhîm
+    ʾăšer yēlᵉkû lᵉpānênû. Changed: in Q it is put to Moses himself right after the sea crossing (jāwaznā
+    bi-banī isrāʾīla l-baḥra), prompted by a people devoted to idols (yaʿkufūna ʿalā aṣnāmin), and Moses
+    refuses at once (innakum qawmun tajhalūn; a-ghayra llāhi abghīkum ilāhan); in Exod it is put to Aaron
+    during Moses'' absence (kî-bōšēš mōšeh) and Aaron complies.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:1
+      lang: he
+      text: וַיַּ֣רְא הָעָ֔ם כִּֽי בֹשֵׁ֥שׁ מֹשֶׁ֖ה לָרֶ֣דֶת מִן הָהָ֑ר וַיִּקָּהֵ֨ל הָעָ֜ם עַֽל אַהֲרֹ֗ן
+        וַיֹּאמְר֤וּ אֵלָיו֙ ק֣וּם עֲשֵׂה לָ֣נוּ אֱלֹהִ֗ים אֲשֶׁ֤ר יֵֽלְכוּ֙ לְפָנֵ֔ינוּ כִּי זֶ֣ה מֹשֶׁ֣ה
+        הָאִ֗ישׁ אֲשֶׁ֤ר הֶֽעֱלָ֨נוּ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לֹ֥א יָדַ֖עְנוּ מֶה הָ֥יָה לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:138
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ
+        أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ
+        قَوْمٌ تَجْهَلُونَ
+    - ref: Quran 7:140
+      lang: ar
+      text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

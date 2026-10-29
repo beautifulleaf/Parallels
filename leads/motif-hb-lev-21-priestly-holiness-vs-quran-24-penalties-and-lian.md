@@ -2,8 +2,7 @@
 id: motif-hb-lev-21-priestly-holiness-vs-quran-24-penalties-and-lian
 title: Priests' mourning and marriage limits; blemished priests ↔ Lashes for fornication, four witnesses
   and the mutual cursing oath
-summary: 'These two units share 1 motifs: who is barred from marrying an unchaste woman [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - marriage-with-unchaste-woman-barred-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 21:7
-  note: 'Who is barred from marrying an unchaste woman [divergence between the texts] (ʾiššâ zōnâ wa-ḥălālâ
-    lōʾ yiqqāḥû ... kî qādōš hûʾ lēʾlōhāyw ~ az-zānī lā yankiḥu illā zāniyatan aw mushrikatan ... wa-ḥurrima
-    dhālika ʿalā l-muʾminīna: a bar on marrying a woman who has been unchaste (zônâ / zāniya). In Leviticus
-    it applies only to priests and is about holiness; in the Quran it applies to all believers, and in
-    both directions (the zānī man too).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ כִּֽי
-    קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו
-- tradition: judaism
-  ref: Lev 21:14
-  note: 'Who is barred from marrying an unchaste woman [divergence between the texts] (ʾiššâ zōnâ wa-ḥălālâ
-    lōʾ yiqqāḥû ... kî qādōš hûʾ lēʾlōhāyw ~ az-zānī lā yankiḥu illā zāniyatan aw mushrikatan ... wa-ḥurrima
-    dhālika ʿalā l-muʾminīna: a bar on marrying a woman who has been unchaste (zônâ / zāniya). In Leviticus
-    it applies only to priests and is about holiness; in the Quran it applies to all believers, and in
-    both directions (the zānī man too).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַלְמָנָ֤ה וּגְרוּשָׁה֙ וַחֲלָלָ֣ה זֹנָ֔ה אֶת אֵ֖לֶּה לֹ֣א יִקָּ֑ח כִּ֛י אִם בְּתוּלָ֥ה מֵעַמָּ֖יו
-    יִקַּ֥ח אִשָּֽׁה
-- tradition: islam
-  ref: Quran 24:3
-  note: 'Who is barred from marrying an unchaste woman [divergence between the texts] (ʾiššâ zōnâ wa-ḥălālâ
-    lōʾ yiqqāḥû ... kî qādōš hûʾ lēʾlōhāyw ~ az-zānī lā yankiḥu illā zāniyatan aw mushrikatan ... wa-ḥurrima
-    dhālika ʿalā l-muʾminīna: a bar on marrying a woman who has been unchaste (zônâ / zāniya). In Leviticus
-    it applies only to priests and is about holiness; in the Quran it applies to all believers, and in
-    both directions (the zānī man too).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ
-    أَوْ مُشْرِكٌ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ʾiššâ zōnâ wa-ḥălālâ lōʾ yiqqāḥû ... kî qādōš hûʾ lēʾlōhāyw ~ az-zānī lā yankiḥu illā
-    zāniyatan aw mushrikatan ... wa-ḥurrima dhālika ʿalā l-muʾminīna: a bar on marrying a woman who has
-    been unchaste (zônâ / zāniya). In Leviticus it applies only to priests and is about holiness; in the
-    Quran it applies to all believers, and in both directions (the zānī man too).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is barred from marrying an unchaste woman [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is barred from marrying an unchaste woman
+kinds:
+- divergence
+units:
+- id: hb-lev-21-priestly-holiness
+  title: Priests' mourning and marriage limits; blemished priests
+  tradition: judaism
+- id: quran-24-penalties-and-lian
+  title: Lashes for fornication, four witnesses and the mutual cursing oath
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who is barred from marrying an unchaste woman
+  note: 'ʾiššâ zōnâ wa-ḥălālâ lōʾ yiqqāḥû ... kî qādōš hûʾ lēʾlōhāyw ~ az-zānī lā yankiḥu illā zāniyatan
+    aw mushrikatan ... wa-ḥurrima dhālika ʿalā l-muʾminīna: a bar on marrying a woman who has been unchaste
+    (zônâ / zāniya). In Leviticus it applies only to priests and is about holiness; in the Quran it applies
+    to all believers, and in both directions (the zānī man too).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 21:7
+      lang: he
+      text: אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ
+        כִּֽי קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו
+    - ref: Lev 21:14
+      lang: he
+      text: אַלְמָנָ֤ה וּגְרוּשָׁה֙ וַחֲלָלָ֣ה זֹנָ֔ה אֶת אֵ֖לֶּה לֹ֣א יִקָּ֑ח כִּ֛י אִם בְּתוּלָ֥ה מֵעַמָּ֖יו
+        יִקַּ֥ח אִשָּֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:3
+      lang: ar
+      text: ٱلزَّانِى لَا يَنكِحُ إِلَّا زَانِيَةً أَوْ مُشْرِكَةً وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا
+        زَانٍ أَوْ مُشْرِكٌ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

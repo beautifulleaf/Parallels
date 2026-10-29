@@ -2,8 +2,7 @@
 id: motif-hb-gen-3-fall-expulsion-vs-quran-46-ahqaf-parents-and-the-scornful-son
 title: The serpent, the eating, the curses and the expulsion ↔ Kindness to parents, thirty months of bearing
   and weaning, the prayer at forty and the son who says 'Uff'
-summary: 'These two units share 1 motifs: the mother''s pain in bearing children: penalty, or ground of
-  gratitude [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - pain-of-childbearing-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 3:16
-  note: 'The mother''s pain in bearing children: penalty, or ground of gratitude [divergence between the
-    texts] (The pain of childbearing, judged differently. Genesis: harbâ ʾarbeh ʿiṣṣəḇônēḵ wə-hērōnēḵ
-    bə-ʿeṣeḇ tēləḏî ḇānîm (a curse on the woman). Quran: ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (the
-    mother''s hardship as the son''s debt of gratitude). A penalty becomes the ground of a duty to her.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶֽל הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים
-    וְאֶל אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל בָּֽךְ
-- tradition: islam
-  ref: Quran 46:15
-  note: 'The mother''s pain in bearing children: penalty, or ground of gratitude [divergence between the
-    texts] (The pain of childbearing, judged differently. Genesis: harbâ ʾarbeh ʿiṣṣəḇônēḵ wə-hērōnēḵ
-    bə-ʿeṣeḇ tēləḏî ḇānîm (a curse on the woman). Quran: ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (the
-    mother''s hardship as the son''s debt of gratitude). A penalty becomes the ground of a duty to her.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ كُرْهًا
-    وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرْبَعِينَ
-    سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ
-    وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى تُبْتُ إِلَيْكَ وَإِنِّى
-    مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The pain of childbearing, judged differently. Genesis: harbâ ʾarbeh ʿiṣṣəḇônēḵ wə-hērōnēḵ
-    bə-ʿeṣeḇ tēləḏî ḇānîm (a curse on the woman). Quran: ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (the
-    mother''s hardship as the son''s debt of gratitude). A penalty becomes the ground of a duty to her.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The mother''s pain in bearing children: penalty, or ground of gratitude
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -81,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The mother''s pain in bearing children: penalty, or ground of gratitude'
+kinds:
+- divergence
+units:
+- id: hb-gen-3-fall-expulsion
+  title: The serpent, the eating, the curses and the expulsion
+  tradition: judaism
+- id: quran-46-ahqaf-parents-and-the-scornful-son
+  title: Kindness to parents, thirty months of bearing and weaning, the prayer at forty and the son who
+    says 'Uff'
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'The mother''s pain in bearing children: penalty, or ground of gratitude'
+  note: 'The pain of childbearing, judged differently. Genesis: harbâ ʾarbeh ʿiṣṣəḇônēḵ wə-hērōnēḵ bə-ʿeṣeḇ
+    tēləḏî ḇānîm (a curse on the woman). Quran: ḥamalathu ummuhu kurhan wa-waḍaʿathu kurhan (the mother''s
+    hardship as the son''s debt of gratitude). A penalty becomes the ground of a duty to her.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:16
+      lang: he
+      text: אֶֽל הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י
+        בָנִ֑ים וְאֶל אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 46:15
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ إِحْسَٰنًا حَمَلَتْهُ أُمُّهُۥ كُرْهًا وَوَضَعَتْهُ
+        كُرْهًا وَحَمْلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهْرًا حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ
+        أَرْبَعِينَ سَنَةً قَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ
+        وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَصْلِحْ لِى فِى ذُرِّيَّتِىٓ إِنِّى
+        تُبْتُ إِلَيْكَ وَإِنِّى مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

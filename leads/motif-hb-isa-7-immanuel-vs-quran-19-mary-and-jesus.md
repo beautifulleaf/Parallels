@@ -2,8 +2,7 @@
 id: motif-hb-isa-7-immanuel-vs-quran-19-mary-and-jesus
 title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign ↔ Mary, the spirit in human form, the birth
   under the palm, the speaking infant (Surah 19:16-40)
-summary: 'These two units share 1 motifs: a divine messenger announces a son to a virgin untouched by
-  any man [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,44 +14,9 @@ layers:
 - motif
 motifs:
 - annunciation-to-virgin-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 7:14
-  note: A divine messenger announces a son to a virgin untouched by any man [divergence between the texts]
-    (hinnēh hāʿalmâ hārâ wəyōledet bēn wəqārāʾt šəmô ʿimmānûʾēl, given as an ʾôt to Ahaz; li-ahaba laki
-    ghulāman zakiyyan ... lam yamsasnī basharun wa-lam aku baghiyyā ... wa-li-najʿalahu āyatan li-n-nās.
-    Both call the child a sign (ʾôt / āya). Isa's ʿalmâ ('young woman') is not said to be untouched and
-    the sign is political; Q states virginity outright and makes the child a sign 'for the people'.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
-    שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
-- tradition: islam
-  ref: Quran 19:19
-  note: A divine messenger announces a son to a virgin untouched by any man [divergence between the texts]
-    (hinnēh hāʿalmâ hārâ wəyōledet bēn wəqārāʾt šəmô ʿimmānûʾēl, given as an ʾôt to Ahaz; li-ahaba laki
-    ghulāman zakiyyan ... lam yamsasnī basharun wa-lam aku baghiyyā ... wa-li-najʿalahu āyatan li-n-nās.
-    Both call the child a sign (ʾôt / āya). Isa's ʿalmâ ('young woman') is not said to be untouched and
-    the sign is political; Q states virginity outright and makes the child a sign 'for the people'.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا
-- tradition: islam
-  ref: Quran 19:20
-  note: A divine messenger announces a son to a virgin untouched by any man [divergence between the texts]
-    (hinnēh hāʿalmâ hārâ wəyōledet bēn wəqārāʾt šəmô ʿimmānûʾēl, given as an ʾôt to Ahaz; li-ahaba laki
-    ghulāman zakiyyan ... lam yamsasnī basharun wa-lam aku baghiyyā ... wa-li-najʿalahu āyatan li-n-nās.
-    Both call the child a sign (ʾôt / āya). Isa's ʿalmâ ('young woman') is not said to be untouched and
-    the sign is political; Q states virginity outright and makes the child a sign 'for the people'.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. hinnēh hāʿalmâ hārâ wəyōledet bēn wəqārāʾt šəmô ʿimmānûʾēl, given as an ʾôt to Ahaz; li-ahaba
-    laki ghulāman zakiyyan ... lam yamsasnī basharun wa-lam aku baghiyyā ... wa-li-najʿalahu āyatan li-n-nās.
-    Both call the child a sign (ʾôt / āya). Isa''s ʿalmâ (''young woman'') is not said to be untouched
-    and the sign is political; Q states virginity outright and makes the child a sign ''for the people''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son to a virgin untouched by any
     man [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son to a virgin untouched by any man
+kinds:
+- divergence
+units:
+- id: hb-isa-7-immanuel
+  title: Ahaz, the Syro-Ephraimite threat and the Immanuel sign
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: divergence
+  label: A divine messenger announces a son to a virgin untouched by any man
+  note: hinnēh hāʿalmâ hārâ wəyōledet bēn wəqārāʾt šəmô ʿimmānûʾēl, given as an ʾôt to Ahaz; li-ahaba
+    laki ghulāman zakiyyan ... lam yamsasnī basharun wa-lam aku baghiyyā ... wa-li-najʿalahu āyatan li-n-nās.
+    Both call the child a sign (ʾôt / āya). Isa's ʿalmâ ('young woman') is not said to be untouched and
+    the sign is political; Q states virginity outright and makes the child a sign 'for the people'.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 7:14
+      lang: he
+      text: לָ֠כֵן יִתֵּ֨ן אֲדֹנָ֥י ה֛וּא לָכֶ֖ם א֑וֹת הִנֵּ֣ה הָעַלְמָ֗ה הָרָה֙ וְיֹלֶ֣דֶת בֵּ֔ן וְקָרָ֥את
+        שְׁמ֖וֹ עִמָּ֥נוּ אֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 19:19
+      lang: ar
+      text: قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا
+    - ref: Quran 19:20
+      lang: ar
+      text: قَالَتْ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَلَمْ يَمْسَسْنِى بَشَرٌ وَلَمْ أَكُ بَغِيًّا
+    - ref: Quran 19:21
+      lang: ar
+      text: قَالَ كَذَٰلِكِ قَالَ رَبُّكِ هُوَ عَلَىَّ هَيِّنٌ وَلِنَجْعَلَهُۥٓ ءَايَةً لِّلنَّاسِ وَرَحْمَةً
+        مِّنَّا وَكَانَ أَمْرًا مَّقْضِيًّا
 ---
 
 ## Questions

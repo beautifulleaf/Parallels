@@ -2,8 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-7-sabbath-town
 title: Exhortation at Horeb's memory; no image; exile and return ↔ The Sabbath-breaking seaside town turned
   into apes
-summary: 'These two units share 1 motifs: in the end of days, in distress, the people will seek god and
-  return.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - return-in-latter-days
-passages:
-- tradition: judaism
-  ref: Deut 4:30
-  note: In the end of days, in distress, the people will seek God and return (באחרית הימים)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּצַּ֣ר לְךָ֔ וּמְצָא֕וּךָ כֹּ֖ל הַדְּבָרִ֣ים הָאֵ֑לֶּה בְּאַחֲרִית֙ הַיָּמִ֔ים וְשַׁבְתָּ֙ עַד
-    יְהוָ֣ה אֱלֹהֶ֔יךָ וְשָׁמַעְתָּ֖ בְּקֹלֽוֹ
-- tradition: judaism
-  ref: Deut 4:31
-  note: In the end of days, in distress, the people will seek God and return (באחרית הימים)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י אֵ֤ל רַחוּם֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לֹ֥א יַרְפְּךָ֖ וְלֹ֣א יַשְׁחִיתֶ֑ךָ וְלֹ֤א יִשְׁכַּח֙ אֶת
-    בְּרִ֣ית אֲבֹתֶ֔יךָ אֲשֶׁ֥ר נִשְׁבַּ֖ע לָהֶֽם
-- tradition: islam
-  ref: Quran 7:168
-  note: 'In the end of days, in distress, the people will seek God and return (Scattering and hoped-for
-    return: qaṭṭaʿnāhum fī l-arḍi umaman ... laʿallahum yarjiʿūn vs wᵉhēpîṣ YHWH ʾetkem bāʿammîm ... bᵉʾaḥărît
-    hayyāmîm wᵉšabtā ʿad-YHWH. Deut promises the return; Q only hopes for it (laʿalla).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
-    بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Scattering and hoped-for return: qaṭṭaʿnāhum fī l-arḍi umaman ... laʿallahum yarjiʿūn vs wᵉhēpîṣ
-    YHWH ʾetkem bāʿammîm ... bᵉʾaḥărît hayyāmîm wᵉšabtā ʿad-YHWH. Deut promises the return; Q only hopes
-    for it (laʿalla).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In the end of days, in distress, the people will seek God and return
     (weight 5.8). Pair score 5.8.'
@@ -76,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In the end of days, in distress, the people will seek God and return
+kinds:
+- echo
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: echo
+  label: In the end of days, in distress, the people will seek God and return
+  note: 'Scattering and hoped-for return: qaṭṭaʿnāhum fī l-arḍi umaman ... laʿallahum yarjiʿūn vs wᵉhēpîṣ
+    YHWH ʾetkem bāʿammîm ... bᵉʾaḥărît hayyāmîm wᵉšabtā ʿad-YHWH. Deut promises the return; Q only hopes
+    for it (laʿalla).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:27
+      lang: he
+      text: וְהֵפִ֧יץ יְהוָ֛ה אֶתְכֶ֖ם בָּעַמִּ֑ים וְנִשְׁאַרְתֶּם֙ מְתֵ֣י מִסְפָּ֔ר בַּגּוֹיִ֕ם אֲשֶׁ֨ר
+        יְנַהֵ֧ג יְהוָ֛ה אֶתְכֶ֖ם שָֽׁמָּה
+    - ref: Deut 4:30
+      lang: he
+      text: בַּצַּ֣ר לְךָ֔ וּמְצָא֕וּךָ כֹּ֖ל הַדְּבָרִ֣ים הָאֵ֑לֶּה בְּאַחֲרִית֙ הַיָּמִ֔ים וְשַׁבְתָּ֙
+        עַד יְהוָ֣ה אֱלֹהֶ֔יךָ וְשָׁמַעְתָּ֖ בְּקֹלֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:168
+      lang: ar
+      text: وَقَطَّعْنَٰهُمْ فِى ٱلْأَرْضِ أُمَمًا مِّنْهُمُ ٱلصَّٰلِحُونَ وَمِنْهُمْ دُونَ ذَٰلِكَ وَبَلَوْنَٰهُم
+        بِٱلْحَسَنَٰتِ وَٱلسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ
 ---
 
 ## Questions

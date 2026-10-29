@@ -2,8 +2,7 @@
 id: motif-hb-ezek-44-closed-gate-priests-vs-quran-4-prayer-intoxication-purity
 title: The shut east gate, foreigners excluded, Levites and Zadokite priests ↔ Prayer not while drunk;
   bathing and dry ablution
-summary: 'These two units share 1 motifs: priests may not drink wine or strong drink when entering the
-  tent.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - priests-forbidden-wine-in-sanctuary
-passages:
-- tradition: judaism
-  ref: Ezek 44:21
-  note: Priests may not drink wine or strong drink when entering the tent
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיַ֥יִן לֹֽא יִשְׁתּ֖וּ כָּל כֹּהֵ֑ן בְּבוֹאָ֖ם אֶל הֶחָצֵ֥ר הַפְּנִימִֽית
-- tradition: islam
-  ref: Quran 4:43
-  note: Priests may not drink wine or strong drink when entering the tent (the priestly rule (Lev 10:9)
-    here applied to every worshipper's prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ تَعْلَمُوا۟
-    مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم مَّرْضَىٰٓ
-    أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ فَلَمْ
-    تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ إِنَّ ٱللَّهَ
-    كَانَ عَفُوًّا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ezek 44:21 wĕ-yayin lōʾ yištû kol kōhēn bĕ-bôʾām ʾel he-ḥāṣēr ha-ppĕnîmît; Q 4:43 lā taqrabū
-    ṣ-ṣalāta wa-antum sukārā: sobriety before approaching God, for priests vs for all.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Priests may not drink wine or strong drink when entering the tent
     (weight 6.3). Pair score 6.3.'
@@ -68,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Priests may not drink wine or strong drink when entering the tent
+kinds:
+- echo
+units:
+- id: hb-ezek-44-closed-gate-priests
+  title: The shut east gate, foreigners excluded, Levites and Zadokite priests
+  tradition: judaism
+- id: quran-4-prayer-intoxication-purity
+  title: Prayer not while drunk; bathing and dry ablution
+  tradition: islam
+matches:
+- kind: echo
+  label: Priests may not drink wine or strong drink when entering the tent
+  note: 'Ezek 44:21 wĕ-yayin lōʾ yištû kol kōhēn bĕ-bôʾām ʾel he-ḥāṣēr ha-ppĕnîmît; Q 4:43 lā taqrabū
+    ṣ-ṣalāta wa-antum sukārā: sobriety before approaching God, for priests vs for all.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 44:21
+      lang: he
+      text: וְיַ֥יִן לֹֽא יִשְׁתּ֖וּ כָּל כֹּהֵ֑ן בְּבוֹאָ֖ם אֶל הֶחָצֵ֥ר הַפְּנִימִֽית
+  - tradition: islam
+    passages:
+    - ref: Quran 4:43
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَقْرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمْ سُكَٰرَىٰ حَتَّىٰ
+        تَعْلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِى سَبِيلٍ حَتَّىٰ تَغْتَسِلُوا۟ وَإِن كُنتُم
+        مَّرْضَىٰٓ أَوْ عَلَىٰ سَفَرٍ أَوْ جَآءَ أَحَدٌ مِّنكُم مِّنَ ٱلْغَآئِطِ أَوْ لَٰمَسْتُمُ ٱلنِّسَآءَ
+        فَلَمْ تَجِدُوا۟ مَآءً فَتَيَمَّمُوا۟ صَعِيدًا طَيِّبًا فَٱمْسَحُوا۟ بِوُجُوهِكُمْ وَأَيْدِيكُمْ
+        إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-89-ethan-davidic-covenant-vs-quran-3-misers-mockers
 title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant ↔
   Misers, those who called God poor, and the fire-consumed offering
-summary: 'These two units share 2 motifs: what man can live and not see death, or deliver his soul from
-  the hand of sheol?, every soul shall taste death.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 motifs:
 - none-escapes-sheol
 - every-soul-tastes-death
-passages:
-- tradition: judaism
-  ref: Ps 89:49
-  note: What man can live and not see death, or deliver his soul from the hand of Sheol?
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
-- tradition: islam
-  ref: Quran 3:185
-  note: 'What man can live and not see death, or deliver his soul from the hand of Sheol? (Ps 89:49 mî
-    geber yiḥyeh wĕ-lōʾ yirʾeh māwet yĕmallēṭ napšô mi-yyad šĕʾôl; Q 3:185 kullu nafsin dhāʾiqatu l-mawti
-    wa-innamā tuwaffawna ujūrakum yawma l-qiyāma: every soul tastes death. The psalm ends in Sheol; the
-    Quran in the reckoning of the Day of Resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن
-    زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ
-    ٱلْغُرُورِ
-- tradition: judaism
-  ref: Ps 89:49
-  note: 'Every soul shall taste death (mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl;
-    wa-mā jaʿalnā li-basharin min qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes
-    death (''see'' death / ''taste'' death).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
-- tradition: islam
-  ref: Quran 3:185
-  note: Every soul shall taste death
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن
-    زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا مَتَٰعُ
-    ٱلْغُرُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 89:49 mî geber yiḥyeh wĕ-lōʾ yirʾeh māwet yĕmallēṭ napšô mi-yyad šĕʾôl; Q 3:185 kullu nafsin
-    dhāʾiqatu l-mawti wa-innamā tuwaffawna ujūrakum yawma l-qiyāma: every soul tastes death. The psalm
-    ends in Sheol; the Quran in the reckoning of the Day of Resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What man can live and not see death, or deliver his soul from the
     hand of Sheol? (weight 6.7); Every soul shall taste death (weight 6.0). Pair score 12.7.'
@@ -92,6 +55,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What man can live and not see death, or deliver his soul from the hand of Sheol?
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-89-ethan-davidic-covenant
+  title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant
+  tradition: judaism
+- id: quran-3-misers-mockers
+  title: Misers, those who called God poor, and the fire-consumed offering
+  tradition: islam
+matches:
+- kind: echo
+  label: What man can live and not see death, or deliver his soul from the hand of Sheol?
+  note: 'Ps 89:49 mî geber yiḥyeh wĕ-lōʾ yirʾeh māwet yĕmallēṭ napšô mi-yyad šĕʾôl; Q 3:185 kullu nafsin
+    dhāʾiqatu l-mawti wa-innamā tuwaffawna ujūrakum yawma l-qiyāma: every soul tastes death. The psalm
+    ends in Sheol; the Quran in the reckoning of the Day of Resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 89:49
+      lang: he
+      text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:185
+      lang: ar
+      text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن
+        زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا
+        مَتَٰعُ ٱلْغُرُورِ
+- kind: shared
+  label: Every soul shall taste death
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 89:49
+      lang: he
+      text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
+    note: 'mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl; wa-mā jaʿalnā li-basharin min
+      qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes death (''see'' death / ''taste''
+      death).'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:185
+      lang: ar
+      text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَإِنَّمَا تُوَفَّوْنَ أُجُورَكُمْ يَوْمَ ٱلْقِيَٰمَةِ فَمَن
+        زُحْزِحَ عَنِ ٱلنَّارِ وَأُدْخِلَ ٱلْجَنَّةَ فَقَدْ فَازَ وَمَا ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا
+        مَتَٰعُ ٱلْغُرُورِ
 ---
 
 ## Questions

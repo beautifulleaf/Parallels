@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-24-privacy-modesty-marriage
 title: Job's oath of innocence ↔ Entering houses, lowering the gaze, head-coverings, marriage and manumission
-summary: 'These two units share 1 motifs: ''i made a covenant with my eyes; how then could i look upon
-  a virgin?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - covenant-with-eyes
-passages:
-- tradition: judaism
-  ref: Job 31:1
-  note: '''I made a covenant with my eyes; how then could I look upon a virgin?'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּ֭רִית כָּרַ֣תִּי לְעֵינָ֑י וּמָ֥ה אֶ֝תְבּוֹנֵ֗ן עַל בְּתוּלָֽה
-- tradition: islam
-  ref: Quran 24:30
-  note: '''I made a covenant with my eyes; how then could I look upon a virgin?'' (qul li-l-muʾminīna
-    yaghuḍḍū min abṣārihim wa-yaḥfaẓū furūjahum ~ bərît kāratî lə-ʿênāy û-māh ʾetbônēn ʿal bətûlâ: men
-    restrain their eyes from looking at women. Job''s is a personal oath of innocence, the Quran''s a
-    command to men and then equally to women (24:31).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ
-    لَهُمْ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. qul li-l-muʾminīna yaghuḍḍū min abṣārihim wa-yaḥfaẓū furūjahum ~ bərît kāratî lə-ʿênāy û-māh
-    ʾetbônēn ʿal bətûlâ: men restrain their eyes from looking at women. Job''s is a personal oath of innocence,
-    the Quran''s a command to men and then equally to women (24:31).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I made a covenant with my eyes; how then could I look upon a virgin?''
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''I made a covenant with my eyes; how then could I look upon a virgin?'''
+kinds:
+- parallel
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''I made a covenant with my eyes; how then could I look upon a virgin?'''
+  note: 'qul li-l-muʾminīna yaghuḍḍū min abṣārihim wa-yaḥfaẓū furūjahum ~ bərît kāratî lə-ʿênāy û-māh
+    ʾetbônēn ʿal bətûlâ: men restrain their eyes from looking at women. Job''s is a personal oath of innocence,
+    the Quran''s a command to men and then equally to women (24:31).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:1
+      lang: he
+      text: בְּ֭רִית כָּרַ֣תִּי לְעֵינָ֑י וּמָ֥ה אֶ֝תְבּוֹנֵ֗ן עַל בְּתוּלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:30
+      lang: ar
+      text: قُل لِّلْمُؤْمِنِينَ يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ وَيَحْفَظُوا۟ فُرُوجَهُمْ ذَٰلِكَ أَزْكَىٰ
+        لَهُمْ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا يَصْنَعُونَ
 ---
 
 ## Questions

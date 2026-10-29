@@ -2,9 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-6-final-reckoning
 title: Sour grapes - individual responsibility and repentance ↔ Tenfold reward; my life and death for
   God; no bearer bears another's burden
-summary: 'These two units share 2 motifs: ''the soul that sins, it shall die'': the son does not bear
-  the father''s iniquity nor the father the son''s, fathers not put to death for children nor children
-  for fathers.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,61 +16,9 @@ layers:
 motifs:
 - soul-that-sins-shall-die
 - individual-responsibility-no-vicarious-death
-passages:
-- tradition: judaism
-  ref: Ezek 18:4
-  note: '''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father
-    the son''s (''all souls are mine'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֤ן כָּל הַנְּפָשׁוֹת֙ לִ֣י הֵ֔נָּה כְּנֶ֧פֶשׁ הָאָ֛ב וּכְנֶ֥פֶשׁ הַבֵּ֖ן לִי הֵ֑נָּה הַנֶּ֥פֶשׁ
-    הַחֹטֵ֖את הִ֥יא תָמֽוּת
-- tradition: judaism
-  ref: Ezek 18:20
-  note: '''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father
-    the son''s (''all souls are mine'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: islam
-  ref: Quran 6:164
-  note: '''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father
-    the son''s'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا
-    عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
-    بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
-- tradition: judaism
-  ref: Ezek 18:17
-  note: Fathers not put to death for children nor children for fathers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵעָנִ֞י הֵשִׁ֣יב יָד֗וֹ נֶ֤שֶׁךְ וְתַרְבִּית֙ לֹ֣א לָקָ֔ח מִשְׁפָּטַ֣י עָשָׂ֔ה בְּחֻקּוֹתַ֖י
-    הָלָ֑ךְ ה֗וּא לֹ֥א יָמ֛וּת בַּעֲוֺ֥ן אָבִ֖יו חָיֹ֥ה יִחְיֶֽה
-- tradition: judaism
-  ref: Ezek 18:19
-  note: Fathers not put to death for children nor children for fathers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲמַרְתֶּ֕ם מַדֻּ֛עַ לֹא נָשָׂ֥א הַבֵּ֖ן בַּעֲוֺ֣ן הָאָ֑ב וְהַבֵּ֞ן מִשְׁפָּ֧ט וּצְדָקָ֣ה עָשָׂ֗ה
-    אֵ֣ת כָּל חֻקּוֹתַ֥י שָׁמַ֛ר וַיַּעֲשֶׂ֥ה אֹתָ֖ם חָיֹ֥ה יִחְיֶֽה
-- tradition: islam
-  ref: Quran 6:164
-  note: 'Fathers not put to death for children nor children for fathers (Deut: lōʾ-yûmətû ʾāvôt ʿal-bānîm
-    û-vānîm lōʾ-yûmətû ʿal-ʾāvôt ʾîš bə-ḥeṭʾô yûmātû, a court rule. Q applies it to the final reckoning:
-    lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ إِلَّا
-    عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
-    بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-lā taksibu kullu nafsin illā ʿalayhā wa-lā taziru wāziratun wizra ukhrā. Ezek: han-nefeš
-    ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ-yiśśāʾ ba-ʿăwōn hā-ʾāv. Both use a verb of carrying (wazara / nāśāʾ) for
-    guilt.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''The soul that sins, it shall die'': the son does not bear the
     father''s iniquity nor the father the son''s (weight 6.3); Fathers not put to death for children nor
@@ -109,6 +55,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father
+  the son''s'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-6-final-reckoning
+  title: Tenfold reward; my life and death for God; no bearer bears another's burden
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''The soul that sins, it shall die'': the son does not bear the father''s iniquity nor the father
+    the son''s'
+  note: 'Q: wa-lā taksibu kullu nafsin illā ʿalayhā wa-lā taziru wāziratun wizra ukhrā. Ezek: han-nefeš
+    ha-ḥōṭēʾt hîʾ tāmût bēn lōʾ-yiśśāʾ ba-ʿăwōn hā-ʾāv. Both use a verb of carrying (wazara / nāśāʾ) for
+    guilt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:164
+      lang: ar
+      text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ
+        إِلَّا عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
+        بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+- kind: shared
+  label: Fathers not put to death for children nor children for fathers
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:17
+      lang: he
+      text: מֵעָנִ֞י הֵשִׁ֣יב יָד֗וֹ נֶ֤שֶׁךְ וְתַרְבִּית֙ לֹ֣א לָקָ֔ח מִשְׁפָּטַ֣י עָשָׂ֔ה בְּחֻקּוֹתַ֖י
+        הָלָ֑ךְ ה֗וּא לֹ֥א יָמ֛וּת בַּעֲוֺ֥ן אָבִ֖יו חָיֹ֥ה יִחְיֶֽה
+    - ref: Ezek 18:19
+      lang: he
+      text: וַאֲמַרְתֶּ֕ם מַדֻּ֛עַ לֹא נָשָׂ֥א הַבֵּ֖ן בַּעֲוֺ֣ן הָאָ֑ב וְהַבֵּ֞ן מִשְׁפָּ֧ט וּצְדָקָ֣ה
+        עָשָׂ֗ה אֵ֣ת כָּל חֻקּוֹתַ֥י שָׁמַ֛ר וַיַּעֲשֶׂ֥ה אֹתָ֖ם חָיֹ֥ה יִחְיֶֽה
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 6:164
+      lang: ar
+      text: قُلْ أَغَيْرَ ٱللَّهِ أَبْغِى رَبًّا وَهُوَ رَبُّ كُلِّ شَىْءٍ وَلَا تَكْسِبُ كُلُّ نَفْسٍ
+        إِلَّا عَلَيْهَا وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ثُمَّ إِلَىٰ رَبِّكُم مَّرْجِعُكُمْ فَيُنَبِّئُكُم
+        بِمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ
+    note: 'Deut: lōʾ-yûmətû ʾāvôt ʿal-bānîm û-vānîm lōʾ-yûmətû ʿal-ʾāvôt ʾîš bə-ḥeṭʾô yûmātû, a court
+      rule. Q applies it to the final reckoning: lā taziru wāziratun wizra ukhrā thumma ilā rabbikum marjiʿukum.'
 ---
 
 ## Questions

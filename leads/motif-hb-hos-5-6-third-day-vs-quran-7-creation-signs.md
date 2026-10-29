@@ -2,8 +2,7 @@
 id: motif-hb-hos-5-6-third-day-vs-quran-7-creation-signs
 title: Judgment on priests and kings; 'on the third day he will raise us' ↔ Six days, the Throne, winds
   and rain as proof of resurrection
-summary: 'These two units share 1 motifs: rain from the sky gives life to the earth after its death, a
-  sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Hos 6:2
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Revival and
-    rain together. Hos: yəḥayyēnû mi-yyōmāyim bay-yôm haš-šəlîšî yəqimēnû ... wə-yāvôʾ khag-gešem lānû
-    kə-malqôš yôreh ʾāreṣ. Q 7:57: rain on dead land, kadhālika nukhriju l-mawtā. Hos uses rain for God''s
-    coming and the people''s restoration; Q for bodily resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְחַיֵּ֖נוּ מִיֹּמָ֑יִם בַּיּוֹם֙ הַשְּׁלִישִׁ֔י יְקִמֵ֖נוּ וְנִחְיֶ֥ה לְפָנָֽיו
-- tradition: judaism
-  ref: Hos 6:3
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Revival and
-    rain together. Hos: yəḥayyēnû mi-yyōmāyim bay-yôm haš-šəlîšî yəqimēnû ... wə-yāvôʾ khag-gešem lānû
-    kə-malqôš yôreh ʾāreṣ. Q 7:57: rain on dead land, kadhālika nukhriju l-mawtā. Hos uses rain for God''s
-    coming and the people''s restoration; Q for bodily resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֵדְעָ֣ה נִרְדְּפָ֗ה לָדַ֨עַת֙ אֶת יְהוָ֔ה כְּשַׁ֖חַר נָכ֣וֹן מֽוֹצָא֑וֹ וְיָב֤וֹא כַגֶּ֨שֶׁם֙
-    לָ֔נוּ כְּמַלְק֖וֹשׁ י֥וֹרֶה אָֽרֶץ
-- tradition: islam
-  ref: Quran 7:57
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
-    سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن
-    كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Revival and rain together. Hos: yəḥayyēnû mi-yyōmāyim bay-yôm haš-šəlîšî yəqimēnû ... wə-yāvôʾ
-    khag-gešem lānû kə-malqôš yôreh ʾāreṣ. Q 7:57: rain on dead land, kadhālika nukhriju l-mawtā. Hos
-    uses rain for God''s coming and the people''s restoration; Q for bodily resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rain from the sky gives life to the earth after its death, a sign
     of resurrection (weight 4.4). Pair score 4.4.'
@@ -81,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rain from the sky gives life to the earth after its death, a sign of resurrection
+kinds:
+- echo
+units:
+- id: hb-hos-5-6-third-day
+  title: Judgment on priests and kings; 'on the third day he will raise us'
+  tradition: judaism
+- id: quran-7-creation-signs
+  title: Six days, the Throne, winds and rain as proof of resurrection
+  tradition: islam
+matches:
+- kind: echo
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  note: 'Revival and rain together. Hos: yəḥayyēnû mi-yyōmāyim bay-yôm haš-šəlîšî yəqimēnû ... wə-yāvôʾ
+    khag-gešem lānû kə-malqôš yôreh ʾāreṣ. Q 7:57: rain on dead land, kadhālika nukhriju l-mawtā. Hos
+    uses rain for God''s coming and the people''s restoration; Q for bodily resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 6:2
+      lang: he
+      text: יְחַיֵּ֖נוּ מִיֹּמָ֑יִם בַּיּוֹם֙ הַשְּׁלִישִׁ֔י יְקִמֵ֖נוּ וְנִחְיֶ֥ה לְפָנָֽיו
+    - ref: Hos 6:3
+      lang: he
+      text: וְנֵדְעָ֣ה נִרְדְּפָ֗ה לָדַ֨עַת֙ אֶת יְהוָ֔ה כְּשַׁ֖חַר נָכ֣וֹן מֽוֹצָא֑וֹ וְיָב֤וֹא כַגֶּ֨שֶׁם֙
+        לָ֔נוּ כְּמַלְק֖וֹשׁ י֥וֹרֶה אָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:57
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
+        سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ
+        مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-37-abraham-idols-fire
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Abraham,
   the stars, the smashed idols and the fire
-summary: 'These two units share 1 motifs: hero''s father makes, sells or worships idols.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,45 +15,9 @@ layers:
 - motif
 motifs:
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Josh 24:2
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:14-15
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:14) וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת
-    אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
-    (24:15) וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
-    אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
-    הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 37:85
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 37:86
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. teraḥ ʾăḇî ʾaḇrāhām ... wa-yyaʿaḇḏû ʾĕlōhîm ʾăḥērîm vs. idh qāla li-abīhi wa-qawmihi mādhā
-    taʿbudūn a-ifkan ālihatan dūna llāhi turīdūn: Abraham''s father worshipped other gods. Joshua states
-    it in one line; Genesis does not say it at all; the Quran makes it a confrontation between son and
-    father.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols (weight 4.8). Pair
     score 4.8.'
@@ -85,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's father makes, sells or worships idols
+kinds:
+- parallel
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: parallel
+  label: Hero's father makes, sells or worships idols
+  note: 'teraḥ ʾăḇî ʾaḇrāhām ... wa-yyaʿaḇḏû ʾĕlōhîm ʾăḥērîm vs. idh qāla li-abīhi wa-qawmihi mādhā taʿbudūn
+    a-ifkan ālihatan dūna llāhi turīdūn: Abraham''s father worshipped other gods. Joshua states it in
+    one line; Genesis does not say it at all; the Quran makes it a confrontation between son and father.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 37:85
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    - ref: Quran 37:86
+      lang: ar
+      text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
 ---
 
 ## Questions

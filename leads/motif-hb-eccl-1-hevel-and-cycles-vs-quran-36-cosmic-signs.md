@@ -2,7 +2,7 @@
 id: motif-hb-eccl-1-hevel-and-cycles-vs-quran-36-cosmic-signs
 title: Superscription, 'vapor of vapors' and the endless cycles of nature ↔ Signs of the dead earth, night,
   sun, moon and the laden ship
-summary: 'These two units share 1 motifs: the sun runs to its resting place (mustaqarr).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - sun-runs-to-resting-place
-passages:
-- tradition: judaism
-  ref: Eccl 1:5
-  note: The sun runs to its resting place (mustaqarr) (wə-zāraḥ ha-ššemeš û-ḇāʾ ha-ššāmeš wə-ʾel-məqômô
-    šôʾēp̄ zôrēaḥ hûʾ šām vs. wa-sh-shamsu tajrī li-mustaqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīm.
-    The sun hurries back to its place (māqôm / mustaqarr). For Qohelet this is the weary round of hevel;
-    for the Quran it is the decree (taqdīr) of the Mighty and is a sign (āya).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזָרַ֥ח הַשֶּׁ֖מֶשׁ וּבָ֣א הַשָּׁ֑מֶשׁ וְאֶ֨ל מְקוֹמ֔וֹ שׁוֹאֵ֛ף זוֹרֵ֥חַֽ ה֖וּא שָֽׁם
-- tradition: islam
-  ref: Quran 36:38
-  note: The sun runs to its resting place (mustaqarr)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-zāraḥ ha-ššemeš û-ḇāʾ ha-ššāmeš wə-ʾel-məqômô šôʾēp̄ zôrēaḥ hûʾ šām vs. wa-sh-shamsu
-    tajrī li-mustaqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīm. The sun hurries back to its place (māqôm
-    / mustaqarr). For Qohelet this is the weary round of hevel; for the Quran it is the decree (taqdīr)
-    of the Mighty and is a sign (āya).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sun runs to its resting place (mustaqarr) (weight 6.7). Pair
     score 6.7.'
@@ -70,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sun runs to its resting place (mustaqarr)
+kinds:
+- parallel
+units:
+- id: hb-eccl-1-hevel-and-cycles
+  title: Superscription, 'vapor of vapors' and the endless cycles of nature
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: parallel
+  label: The sun runs to its resting place (mustaqarr)
+  note: wə-zāraḥ ha-ššemeš û-ḇāʾ ha-ššāmeš wə-ʾel-məqômô šôʾēp̄ zôrēaḥ hûʾ šām vs. wa-sh-shamsu tajrī
+    li-mustaqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīm. The sun hurries back to its place (māqôm / mustaqarr).
+    For Qohelet this is the weary round of hevel; for the Quran it is the decree (taqdīr) of the Mighty
+    and is a sign (āya).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 1:5
+      lang: he
+      text: וְזָרַ֥ח הַשֶּׁ֖מֶשׁ וּבָ֣א הַשָּׁ֑מֶשׁ וְאֶ֨ל מְקוֹמ֔וֹ שׁוֹאֵ֛ף זוֹרֵ֥חַֽ ה֖וּא שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 36:38
+      lang: ar
+      text: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

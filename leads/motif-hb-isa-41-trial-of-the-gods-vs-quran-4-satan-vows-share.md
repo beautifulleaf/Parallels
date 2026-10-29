@@ -2,7 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-4-satan-vows-share
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ Female deities, Satan's vow, slit cattle ears, and Abraham the friend
-summary: 'These two units share 1 motifs: abraham is called god''s friend (ohev, ''lover'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,25 +15,9 @@ layers:
 - motif
 motifs:
 - abraham-friend-of-god
-passages:
-- tradition: judaism
-  ref: Isa 41:8
-  note: Abraham is called God's friend (ohev, 'lover')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי
-- tradition: islam
-  ref: Quran 4:125
-  note: Abraham is called God's friend (ohev, 'lover') (ittakhadha llāhu ibrāhīma khalīlan; cf. Isa 41:8,
-    2 Chr 20:7, Jas 2:23)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ
-    إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-ttakhadha llāhu Ibrāhīma khalīlan. Isa: zeraʿ ʾAvrāhām ʾōhăvî (''Abraham my friend/lover'').
-    The same epithet with different roots: khalīl against ʾōhēv.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham is called God''s friend (ohev, ''lover'') (weight 6.3).
     Pair score 6.3.'
@@ -70,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham is called God's friend (ohev, 'lover')
+kinds:
+- parallel
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-4-satan-vows-share
+  title: Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+  tradition: islam
+matches:
+- kind: parallel
+  label: Abraham is called God's friend (ohev, 'lover')
+  note: 'Q: wa-ttakhadha llāhu Ibrāhīma khalīlan. Isa: zeraʿ ʾAvrāhām ʾōhăvî (''Abraham my friend/lover'').
+    The same epithet with different roots: khalīl against ʾōhēv.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:8
+      lang: he
+      text: וְאַתָּה֙ יִשְׂרָאֵ֣ל עַבְדִּ֔י יַעֲקֹ֖ב אֲשֶׁ֣ר בְּחַרְתִּ֑יךָ זֶ֖רַע אַבְרָהָ֥ם אֹהֲבִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:125
+      lang: ar
+      text: وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ
+        إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-30-return-choose-life-vs-quran-13-covenant-and-paradise
 title: Return from exile; the near commandment; choose life ↔ Those who keep God's covenant and the abode
   of Eden (Surah 13:18-29)
-summary: 'These two units share 1 motifs: those who break god''s covenant and sever ties have the curse
-  and the evil abode.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,48 +15,9 @@ layers:
 - motif
 motifs:
 - curse-on-covenant-breakers
-passages:
-- tradition: judaism
-  ref: Deut 30:15
-  note: 'Those who break God''s covenant and sever ties have the curse and the evil abode (yūfūna bi-ʿahdi
-    llāh ... ulāʾika lahum ʿuqbā d-dār / yanquḍūna ʿahda llāh ... lahumu l-laʿnatu wa-lahum sūʾu d-dār;
-    habbərākâ wəhaqqəlālâ ... haḥayyîm wəhammāwet nātattî ləpānêkā: keeping the covenant leads to blessing
-    and a good outcome, breaking it to the curse. Deut puts it in the land (taʾărîkun yāmîm ʿal-hāʾădāmâ);
-    Q in the final abode (ad-dār).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת הָרָֽע
-- tradition: judaism
-  ref: Deut 30:16
-  note: 'Those who break God''s covenant and sever ties have the curse and the evil abode (yūfūna bi-ʿahdi
-    llāh ... ulāʾika lahum ʿuqbā d-dār / yanquḍūna ʿahda llāh ... lahumu l-laʿnatu wa-lahum sūʾu d-dār;
-    habbərākâ wəhaqqəlālâ ... haḥayyîm wəhammāwet nātattî ləpānêkā: keeping the covenant leads to blessing
-    and a good outcome, breaking it to the curse. Deut puts it in the land (taʾărîkun yāmîm ʿal-hāʾădāmâ);
-    Q in the final abode (ad-dār).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת יְהוָ֤ה אֱלֹהֶ֨יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו
-    וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ
-    בָּאָ֕רֶץ אֲשֶׁר אַתָּ֥ה בָא שָׁ֖מָּה לְרִשְׁתָּֽהּ
-- tradition: islam
-  ref: Quran 13:25
-  note: Those who break God's covenant and sever ties have the curse and the evil abode
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
-    بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ ٱلدَّارِ
-- tradition: islam
-  ref: Quran 13:20
-  note: Those who break God's covenant and sever ties have the curse and the evil abode
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَٰقَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. yūfūna bi-ʿahdi llāh ... ulāʾika lahum ʿuqbā d-dār / yanquḍūna ʿahda llāh ... lahumu l-laʿnatu
-    wa-lahum sūʾu d-dār; habbərākâ wəhaqqəlālâ ... haḥayyîm wəhammāwet nātattî ləpānêkā: keeping the covenant
-    leads to blessing and a good outcome, breaking it to the curse. Deut puts it in the land (taʾărîkun
-    yāmîm ʿal-hāʾădāmâ); Q in the final abode (ad-dār).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who break God''s covenant and sever ties have the curse and
     the evil abode (weight 6.7). Pair score 6.7.'
@@ -89,6 +49,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who break God's covenant and sever ties have the curse and the evil abode
+kinds:
+- parallel
+units:
+- id: hb-deut-30-return-choose-life
+  title: Return from exile; the near commandment; choose life
+  tradition: judaism
+- id: quran-13-covenant-and-paradise
+  title: Those who keep God's covenant and the abode of Eden (Surah 13:18-29)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Those who break God's covenant and sever ties have the curse and the evil abode
+  note: 'yūfūna bi-ʿahdi llāh ... ulāʾika lahum ʿuqbā d-dār / yanquḍūna ʿahda llāh ... lahumu l-laʿnatu
+    wa-lahum sūʾu d-dār; habbərākâ wəhaqqəlālâ ... haḥayyîm wəhammāwet nātattî ləpānêkā: keeping the covenant
+    leads to blessing and a good outcome, breaking it to the curse. Deut puts it in the land (taʾărîkun
+    yāmîm ʿal-hāʾădāmâ); Q in the final abode (ad-dār).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 30:15
+      lang: he
+      text: רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת הַֽחַיִּ֖ים וְאֶת הַטּ֑וֹב וְאֶת הַמָּ֖וֶת וְאֶת
+        הָרָֽע
+    - ref: Deut 30:16
+      lang: he
+      text: אֲשֶׁ֨ר אָנֹכִ֣י מְצַוְּךָ֮ הַיּוֹם֒ לְאַהֲבָ֞ה אֶת יְהוָ֤ה אֱלֹהֶ֨יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו
+        וְלִשְׁמֹ֛ר מִצְוֺתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהוָ֣ה
+        אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר אַתָּ֥ה בָא שָׁ֖מָּה לְרִשְׁתָּֽהּ
+    - ref: Deut 30:17
+      lang: he
+      text: וְאִם יִפְנֶ֥ה לְבָבְךָ֖ וְלֹ֣א תִשְׁמָ֑ע וְנִדַּחְתָּ֗ וְהִֽשְׁתַּחֲוִ֛יתָ לֵאלֹהִ֥ים אֲחֵרִ֖ים
+        וַעֲבַדְתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 13:20
+      lang: ar
+      text: ٱلَّذِينَ يُوفُونَ بِعَهْدِ ٱللَّهِ وَلَا يَنقُضُونَ ٱلْمِيثَٰقَ
+    - ref: Quran 13:22
+      lang: ar
+      text: وَٱلَّذِينَ صَبَرُوا۟ ٱبْتِغَآءَ وَجْهِ رَبِّهِمْ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا
+        رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ أُو۟لَٰٓئِكَ لَهُمْ
+        عُقْبَى ٱلدَّارِ
+    - ref: Quran 13:25
+      lang: ar
+      text: وَٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
+        بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ لَهُمُ ٱللَّعْنَةُ وَلَهُمْ سُوٓءُ
+        ٱلدَّارِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-2kgs-2-ascension-of-elijah-vs-quran-18-moses-and-the-servant
 title: Elijah taken up in the whirlwind ↔ Moses and the servant of God at the meeting of the two seas
   (Surah 18:60-82)
-summary: 'These two units share 1 motifs: the sage lets the prophet accompany him on condition he asks
-  nothing until told.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,53 +14,9 @@ layers:
 - motif
 motifs:
 - disciple-forbidden-to-question-master
-passages:
-- tradition: judaism
-  ref: 2Kgs 2:2
-  note: 'The sage lets the prophet accompany him on condition he asks nothing until told (A disciple insists
-    on staying with a master who has hidden power, and the master''s repeated warning sets a hard condition:
-    šēb-nāʾ pōh ... ḥay-YHWH ... ʾim-ʾeʿezbekkā (three times), hiqšîtā lišʾôl ʾim-tirʾeh ʾōtî ... yəhî-ləkā
-    kēn; hal attabiʿuka ʿalā an tuʿallimani ... innaka lan tastaṭīʿa maʿiya ṣabrā (three times) ... fa-lā
-    tasʾalnī ʿan shayʾ. The roles are reversed: Elisha meets his condition and inherits the spirit, while
-    Moses, the great prophet, fails three times and is sent away (hādhā firāqu baynī wa-baynik).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ אֵלִיָּ֨הוּ אֶל אֱלִישָׁ֜ע שֵֽׁב נָ֣א פֹ֗ה כִּ֤י יְהוָה֙ שְׁלָחַ֣נִי עַד בֵּֽית אֵ֔ל
-    וַיֹּ֣אמֶר אֱלִישָׁ֔ע חַי יְהוָ֥ה וְחֵֽי נַפְשְׁךָ֖ אִם אֶעֶזְבֶ֑ךָּ וַיֵּרְד֖וּ בֵּֽית אֵֽל
-- tradition: judaism
-  ref: 2Kgs 2:9
-  note: 'The sage lets the prophet accompany him on condition he asks nothing until told (A disciple insists
-    on staying with a master who has hidden power, and the master''s repeated warning sets a hard condition:
-    šēb-nāʾ pōh ... ḥay-YHWH ... ʾim-ʾeʿezbekkā (three times), hiqšîtā lišʾôl ʾim-tirʾeh ʾōtî ... yəhî-ləkā
-    kēn; hal attabiʿuka ʿalā an tuʿallimani ... innaka lan tastaṭīʿa maʿiya ṣabrā (three times) ... fa-lā
-    tasʾalnī ʿan shayʾ. The roles are reversed: Elisha meets his condition and inherits the spirit, while
-    Moses, the great prophet, fails three times and is sent away (hādhā firāqu baynī wa-baynik).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י כְעָבְרָ֗ם וְאֵ֨לִיָּ֜הוּ אָמַ֤ר אֶל אֱלִישָׁע֙ שְׁאַל֙ מָ֣ה אֶֽעֱשֶׂה לָּ֔ךְ בְּטֶ֖רֶם
-    אֶלָּקַ֣ח מֵעִמָּ֑ךְ וַיֹּ֣אמֶר אֱלִישָׁ֔ע וִֽיהִי נָ֛א פִּֽי שְׁנַ֥יִם בְּרוּחֲךָ֖ אֵלָֽי
-- tradition: islam
-  ref: Quran 18:66
-  note: The sage lets the prophet accompany him on condition he asks nothing until told ('you will not
-    be able to bear with me patiently')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا
-- tradition: islam
-  ref: Quran 18:67
-  note: The sage lets the prophet accompany him on condition he asks nothing until told ('you will not
-    be able to bear with me patiently')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. A disciple insists on staying with a master who has hidden power, and the master''s repeated
-    warning sets a hard condition: šēb-nāʾ pōh ... ḥay-YHWH ... ʾim-ʾeʿezbekkā (three times), hiqšîtā
-    lišʾôl ʾim-tirʾeh ʾōtî ... yəhî-ləkā kēn; hal attabiʿuka ʿalā an tuʿallimani ... innaka lan tastaṭīʿa
-    maʿiya ṣabrā (three times) ... fa-lā tasʾalnī ʿan shayʾ. The roles are reversed: Elisha meets his
-    condition and inherits the spirit, while Moses, the great prophet, fails three times and is sent away
-    (hādhā firāqu baynī wa-baynik).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sage lets the prophet accompany him on condition he asks nothing
     until told (weight 6.7). Pair score 6.7.'
@@ -95,6 +50,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sage lets the prophet accompany him on condition he asks nothing until told
+kinds:
+- echo
+units:
+- id: hb-2kgs-2-ascension-of-elijah
+  title: Elijah taken up in the whirlwind
+  tradition: judaism
+- id: quran-18-moses-and-the-servant
+  title: Moses and the servant of God at the meeting of the two seas (Surah 18:60-82)
+  tradition: islam
+matches:
+- kind: echo
+  label: The sage lets the prophet accompany him on condition he asks nothing until told
+  note: 'A disciple insists on staying with a master who has hidden power, and the master''s repeated
+    warning sets a hard condition: šēb-nāʾ pōh ... ḥay-YHWH ... ʾim-ʾeʿezbekkā (three times), hiqšîtā
+    lišʾôl ʾim-tirʾeh ʾōtî ... yəhî-ləkā kēn; hal attabiʿuka ʿalā an tuʿallimani ... innaka lan tastaṭīʿa
+    maʿiya ṣabrā (three times) ... fa-lā tasʾalnī ʿan shayʾ. The roles are reversed: Elisha meets his
+    condition and inherits the spirit, while Moses, the great prophet, fails three times and is sent away
+    (hādhā firāqu baynī wa-baynik).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 2:2
+      lang: he
+      text: וַיֹּאמֶר֩ אֵלִיָּ֨הוּ אֶל אֱלִישָׁ֜ע שֵֽׁב נָ֣א פֹ֗ה כִּ֤י יְהוָה֙ שְׁלָחַ֣נִי עַד בֵּֽית
+        אֵ֔ל וַיֹּ֣אמֶר אֱלִישָׁ֔ע חַי יְהוָ֥ה וְחֵֽי נַפְשְׁךָ֖ אִם אֶעֶזְבֶ֑ךָּ וַיֵּרְד֖וּ בֵּֽית אֵֽל
+    - ref: 2Kgs 2:9
+      lang: he
+      text: וַיְהִ֣י כְעָבְרָ֗ם וְאֵ֨לִיָּ֜הוּ אָמַ֤ר אֶל אֱלִישָׁע֙ שְׁאַל֙ מָ֣ה אֶֽעֱשֶׂה לָּ֔ךְ בְּטֶ֖רֶם
+        אֶלָּקַ֣ח מֵעִמָּ֑ךְ וַיֹּ֣אמֶר אֱלִישָׁ֔ע וִֽיהִי נָ֛א פִּֽי שְׁנַ֥יִם בְּרוּחֲךָ֖ אֵלָֽי
+    - ref: 2Kgs 2:10
+      lang: he
+      text: וַיֹּ֖אמֶר הִקְשִׁ֣יתָ לִשְׁא֑וֹל אִם תִּרְאֶ֨ה אֹתִ֜י לֻקָּ֤ח מֵֽאִתָּךְ֙ יְהִֽי לְךָ֣ כֵ֔ן
+        וְאִם אַ֖יִן לֹ֥א יִהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 18:66
+      lang: ar
+      text: قَالَ لَهُۥ مُوسَىٰ هَلْ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا
+    - ref: Quran 18:67
+      lang: ar
+      text: قَالَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا
+    - ref: Quran 18:69
+      lang: ar
+      text: قَالَ سَتَجِدُنِىٓ إِن شَآءَ ٱللَّهُ صَابِرًا وَلَآ أَعْصِى لَكَ أَمْرًا
 ---
 
 ## Questions

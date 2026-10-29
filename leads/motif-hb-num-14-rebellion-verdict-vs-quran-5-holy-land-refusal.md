@@ -2,10 +2,7 @@
 id: motif-hb-num-14-rebellion-verdict-vs-quran-5-holy-land-refusal
 title: Rebellion after the spies' report and the forty-year sentence ↔ The refusal to enter the holy land
   and forty years of wandering
-summary: 'These two units share 5 motifs: after the people''s rebellion the prophet intercedes for them
-  or asks to be separated from them [divergence between the texts], forty years of wandering, a year for
-  each day of scouting [divergence between the texts], two faithful spies dissent from the majority [divergence
-  between the texts], two faithful spies dissent from the majority….'
+summary: '3 correspondences read side by side: 3 deliberately changed.'
 status: new
 relations:
 - response
@@ -21,152 +18,9 @@ motifs:
 - minority-faithful-report-as-divergence
 - minority-faithful-report
 - forty-years-wandering
-passages:
-- tradition: judaism
-  ref: Num 14:5
-  note: 'After the people''s rebellion the prophet intercedes for them or asks to be separated from them
-    [divergence between the texts] (A reversal. In Num God offers to destroy the people (ʾakkennû vad-dever
-    ... wə-ʾeʿĕśeh ʾōtəkhā lə-gôy gādôl), and Moses intercedes (səlaḥ-nāʾ la-ʿăwōn hā-ʿām ha-zzeh). In
-    Q Moses himself asks for separation: rabbi innī lā amliku illā nafsī wa-akhī fa-fruq baynanā wa-bayna
-    l-qawmi l-fāsiqīna. There is no intercession; Aaron appears only as ''my brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּפֹּ֥ל מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל פְּנֵיהֶ֑ם לִפְנֵ֕י כָּל קְהַ֥ל עֲדַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Num 14:12
-  note: 'After the people''s rebellion the prophet intercedes for them or asks to be separated from them
-    [divergence between the texts] (A reversal. In Num God offers to destroy the people (ʾakkennû vad-dever
-    ... wə-ʾeʿĕśeh ʾōtəkhā lə-gôy gādôl), and Moses intercedes (səlaḥ-nāʾ la-ʿăwōn hā-ʿām ha-zzeh). In
-    Q Moses himself asks for separation: rabbi innī lā amliku illā nafsī wa-akhī fa-fruq baynanā wa-bayna
-    l-qawmi l-fāsiqīna. There is no intercession; Aaron appears only as ''my brother''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 5:25
-  note: 'After the people''s rebellion the prophet intercedes for them or asks to be separated from them
-    [divergence between the texts] (A reversal. In Num God offers to destroy the people (ʾakkennû vad-dever
-    ... wə-ʾeʿĕśeh ʾōtəkhā lə-gôy gādôl), and Moses intercedes (səlaḥ-nāʾ la-ʿăwōn hā-ʿām ha-zzeh). In
-    Q Moses himself asks for separation: rabbi innī lā amliku illā nafsī wa-akhī fa-fruq baynanā wa-bayna
-    l-qawmi l-fāsiqīna. There is no intercession; Aaron appears only as ''my brother''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ
-    ٱلْفَٰسِقِينَ
-- tradition: judaism
-  ref: Num 14:33
-  note: 'Forty years of wandering, a year for each day of scouting [divergence between the texts] (Num:
-    arbāʿîm šānāh, a year for each day of scouting (yôm laš-šānāh), until the corpses fall (ʿad-tōm pigrêkhem
-    bam-midbār). Q: fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī l-arḍ. Q drops the day-for-a-year
-    reckoning and the deaths of the generation, and God tells Moses fa-lā taʾsa ʿalā l-qawmi l-fāsiqīna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה וְנָשְׂא֖וּ אֶת זְנוּתֵיכֶ֑ם עַד
-    תֹּ֥ם פִּגְרֵיכֶ֖ם בַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Num 14:34
-  note: 'Forty years of wandering, a year for each day of scouting [divergence between the texts] (Num:
-    arbāʿîm šānāh, a year for each day of scouting (yôm laš-šānāh), until the corpses fall (ʿad-tōm pigrêkhem
-    bam-midbār). Q: fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī l-arḍ. Q drops the day-for-a-year
-    reckoning and the deaths of the generation, and God tells Moses fa-lā taʾsa ʿalā l-qawmi l-fāsiqīna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּמִסְפַּ֨ר הַיָּמִ֜ים אֲשֶׁר תַּרְתֶּ֣ם אֶת הָאָרֶץ֮ אַרְבָּעִ֣ים יוֹם֒ י֣וֹם לַשָּׁנָ֞ה י֣וֹם
-    לַשָּׁנָ֗ה תִּשְׂאוּ֙ אֶת עֲוֺנֹ֣תֵיכֶ֔ם אַרְבָּעִ֖ים שָׁנָ֑ה וִֽידַעְתֶּ֖ם אֶת תְּנוּאָתִֽי
-- tradition: islam
-  ref: Quran 5:26
-  note: 'Forty years of wandering, a year for each day of scouting [divergence between the texts] (Num:
-    arbāʿîm šānāh, a year for each day of scouting (yôm laš-šānāh), until the corpses fall (ʿad-tōm pigrêkhem
-    bam-midbār). Q: fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī l-arḍ. Q drops the day-for-a-year
-    reckoning and the deaths of the generation, and God tells Moses fa-lā taʾsa ʿalā l-qawmi l-fāsiqīna.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ
-    عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
-- tradition: judaism
-  ref: Num 14:6
-  note: Two faithful spies dissent from the majority [divergence between the texts] (Num names Yəhôšuaʿ
-    bin-Nûn wə-Khālēv ben-Yəfunneh, who tear their garments and say YHWH ʾittānû ʾal-tîrāʾum. Q has only
-    rajulāni mina lladhīna yakhāfūna (unnamed). Their advice is tactical, udkhulū ʿalayhimu l-bāba fa-idhā
-    dakhaltumūhu fa-innakum ghālibūna, and ends wa-ʿalā llāhi fa-tawakkalū.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם
-- tradition: judaism
-  ref: Num 14:7
-  note: Two faithful spies dissent from the majority [divergence between the texts] (Num names Yəhôšuaʿ
-    bin-Nûn wə-Khālēv ben-Yəfunneh, who tear their garments and say YHWH ʾittānû ʾal-tîrāʾum. Q has only
-    rajulāni mina lladhīna yakhāfūna (unnamed). Their advice is tactical, udkhulū ʿalayhimu l-bāba fa-idhā
-    dakhaltumūhu fa-innakum ghālibūna, and ends wa-ʿalā llāhi fa-tawakkalū.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְר֔וּ אֶל כָּל עֲדַ֥ת בְּנֵֽי יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֗רֶץ אֲשֶׁ֨ר עָבַ֤רְנוּ בָהּ֙ לָת֣וּר
-    אֹתָ֔הּ טוֹבָ֥ה הָאָ֖רֶץ מְאֹ֥ד מְאֹֽד
-- tradition: islam
-  ref: Quran 5:23
-  note: Two faithful spies dissent from the majority [divergence between the texts] (Num names Yəhôšuaʿ
-    bin-Nûn wə-Khālēv ben-Yəfunneh, who tear their garments and say YHWH ʾittānû ʾal-tîrāʾum. Q has only
-    rajulāni mina lladhīna yakhāfūna (unnamed). Their advice is tactical, udkhulū ʿalayhimu l-bāba fa-idhā
-    dakhaltumūhu fa-innakum ghālibūna, and ends wa-ʿalā llāhi fa-tawakkalū.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ
-    فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Num 14:6
-  note: Two faithful spies dissent from the majority ('they are our bread; their shadow has departed')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם
-- tradition: judaism
-  ref: Num 14:7
-  note: Two faithful spies dissent from the majority ('they are our bread; their shadow has departed')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְר֔וּ אֶל כָּל עֲדַ֥ת בְּנֵֽי יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֗רֶץ אֲשֶׁ֨ר עָבַ֤רְנוּ בָהּ֙ לָת֣וּר
-    אֹתָ֔הּ טוֹבָ֥ה הָאָ֖רֶץ מְאֹ֥ד מְאֹֽד
-- tradition: islam
-  ref: Quran 5:23
-  note: Two faithful spies dissent from the majority ('two men of those who feared' urge entering by the
-    gate)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ ٱلْبَابَ
-    فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Num 14:33
-  note: Forty years of wandering, a year for each day of scouting ('a day for a year')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה וְנָשְׂא֖וּ אֶת זְנוּתֵיכֶ֑ם עַד
-    תֹּ֥ם פִּגְרֵיכֶ֖ם בַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Num 14:34
-  note: Forty years of wandering, a year for each day of scouting ('a day for a year')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּמִסְפַּ֨ר הַיָּמִ֜ים אֲשֶׁר תַּרְתֶּ֣ם אֶת הָאָרֶץ֮ אַרְבָּעִ֣ים יוֹם֒ י֣וֹם לַשָּׁנָ֞ה י֣וֹם
-    לַשָּׁנָ֗ה תִּשְׂאוּ֙ אֶת עֲוֺנֹ֣תֵיכֶ֔ם אַרְבָּעִ֖ים שָׁנָ֑ה וִֽידַעְתֶּ֖ם אֶת תְּנוּאָתִֽי
-- tradition: islam
-  ref: Quran 5:26
-  note: Forty years of wandering, a year for each day of scouting (yatīhūna fī l-arḍ; Moses told not to
-    grieve for them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا تَأْسَ
-    عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Num names Yəhôšuaʿ bin-Nûn wə-Khālēv ben-Yəfunneh, who tear their garments and say YHWH
-    ʾittānû ʾal-tîrāʾum. Q has only rajulāni mina lladhīna yakhāfūna (unnamed). Their advice is tactical,
-    udkhulū ʿalayhimu l-bāba fa-idhā dakhaltumūhu fa-innakum ghālibūna, and ends wa-ʿalā llāhi fa-tawakkalū.
-    A reversal. In Num God offers to destroy the people (ʾakkennû vad-dever ... wə-ʾeʿĕśeh ʾōtəkhā lə-gôy
-    gādôl), and Moses intercedes (səlaḥ-nāʾ la-ʿăwōn hā-ʿām ha-zzeh). In Q Moses himself asks for separation:
-    rabbi innī lā amliku illā nafsī wa-akhī fa-fruq baynanā wa-bayna l-qawmi l-fāsiqīna. There is no intercession;
-    Aaron appears only as ''my brother''. Num: arbāʿîm šānāh, a year for each day of scouting (yôm laš-šānāh),
-    until the corpses fall (ʿad-tōm pigrêkhem bam-midbār). Q: fa-innahā muḥarramatun ʿalayhim arbaʿīna
-    sanatan yatīhūna fī l-arḍ. Q drops the day-for-a-year reckoning and the deaths of the generation,
-    and God tells Moses fa-lā taʾsa ʿalā l-qawmi l-fāsiqīna.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After the people''s rebellion the prophet intercedes for them or
     asks to be separated from them [divergence between the texts] (weight 6.7); Forty years of wandering,
@@ -202,6 +56,91 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Two faithful spies dissent from the majority
+kinds:
+- divergence
+units:
+- id: hb-num-14-rebellion-verdict
+  title: Rebellion after the spies' report and the forty-year sentence
+  tradition: judaism
+- id: quran-5-holy-land-refusal
+  title: The refusal to enter the holy land and forty years of wandering
+  tradition: islam
+matches:
+- kind: divergence
+  label: Two faithful spies dissent from the majority
+  note: Num names Yəhôšuaʿ bin-Nûn wə-Khālēv ben-Yəfunneh, who tear their garments and say YHWH ʾittānû
+    ʾal-tîrāʾum. Q has only rajulāni mina lladhīna yakhāfūna (unnamed). Their advice is tactical, udkhulū
+    ʿalayhimu l-bāba fa-idhā dakhaltumūhu fa-innakum ghālibūna, and ends wa-ʿalā llāhi fa-tawakkalū.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:6
+      lang: he
+      text: וִיהוֹשֻׁ֣עַ בִּן נ֗וּן וְכָלֵב֙ בֶּן יְפֻנֶּ֔ה מִן הַתָּרִ֖ים אֶת הָאָ֑רֶץ קָרְע֖וּ בִּגְדֵיהֶֽם
+    - ref: Num 14:7
+      lang: he
+      text: וַיֹּ֣אמְר֔וּ אֶל כָּל עֲדַ֥ת בְּנֵֽי יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֗רֶץ אֲשֶׁ֨ר עָבַ֤רְנוּ בָהּ֙
+        לָת֣וּר אֹתָ֔הּ טוֹבָ֥ה הָאָ֖רֶץ מְאֹ֥ד מְאֹֽד
+    - ref: Num 14:8
+      lang: he
+      text: אִם חָפֵ֥ץ בָּ֨נוּ֙ יְהוָ֔ה וְהֵבִ֤יא אֹתָ֨נוּ֙ אֶל הָאָ֣רֶץ הַזֹּ֔את וּנְתָנָ֖הּ לָ֑נוּ אֶ֕רֶץ
+        אֲשֶׁר הִ֛וא זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:23
+      lang: ar
+      text: قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنْعَمَ ٱللَّهُ عَلَيْهِمَا ٱدْخُلُوا۟ عَلَيْهِمُ
+        ٱلْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَٰلِبُونَ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓا۟ إِن كُنتُم
+        مُّؤْمِنِينَ
+- kind: divergence
+  label: After the people's rebellion the prophet intercedes for them or asks to be separated from them
+  note: 'A reversal. In Num God offers to destroy the people (ʾakkennû vad-dever ... wə-ʾeʿĕśeh ʾōtəkhā
+    lə-gôy gādôl), and Moses intercedes (səlaḥ-nāʾ la-ʿăwōn hā-ʿām ha-zzeh). In Q Moses himself asks for
+    separation: rabbi innī lā amliku illā nafsī wa-akhī fa-fruq baynanā wa-bayna l-qawmi l-fāsiqīna. There
+    is no intercession; Aaron appears only as ''my brother''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:5
+      lang: he
+      text: וַיִּפֹּ֥ל מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל פְּנֵיהֶ֑ם לִפְנֵ֕י כָּל קְהַ֥ל עֲדַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל
+    - ref: Num 14:12
+      lang: he
+      text: אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ
+    - ref: Num 14:13
+      lang: he
+      text: וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל יְהוָ֑ה וְשָׁמְע֣וּ מִצְרַ֔יִם כִּֽי הֶעֱלִ֧יתָ בְכֹחֲךָ֛ אֶת הָעָ֥ם
+        הַזֶּ֖ה מִקִּרְבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:25
+      lang: ar
+      text: قَالَ رَبِّ إِنِّى لَآ أَمْلِكُ إِلَّا نَفْسِى وَأَخِى فَٱفْرُقْ بَيْنَنَا وَبَيْنَ ٱلْقَوْمِ
+        ٱلْفَٰسِقِينَ
+- kind: divergence
+  label: Forty years of wandering, a year for each day of scouting
+  note: 'Num: arbāʿîm šānāh, a year for each day of scouting (yôm laš-šānāh), until the corpses fall (ʿad-tōm
+    pigrêkhem bam-midbār). Q: fa-innahā muḥarramatun ʿalayhim arbaʿīna sanatan yatīhūna fī l-arḍ. Q drops
+    the day-for-a-year reckoning and the deaths of the generation, and God tells Moses fa-lā taʾsa ʿalā
+    l-qawmi l-fāsiqīna.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 14:33
+      lang: he
+      text: וּ֠בְנֵיכֶם יִהְי֨וּ רֹעִ֤ים בַּמִּדְבָּר֙ אַרְבָּעִ֣ים שָׁנָ֔ה וְנָשְׂא֖וּ אֶת זְנוּתֵיכֶ֑ם
+        עַד תֹּ֥ם פִּגְרֵיכֶ֖ם בַּמִּדְבָּֽר
+    - ref: Num 14:34
+      lang: he
+      text: בְּמִסְפַּ֨ר הַיָּמִ֜ים אֲשֶׁר תַּרְתֶּ֣ם אֶת הָאָרֶץ֮ אַרְבָּעִ֣ים יוֹם֒ י֣וֹם לַשָּׁנָ֞ה
+        י֣וֹם לַשָּׁנָ֗ה תִּשְׂאוּ֙ אֶת עֲוֺנֹ֣תֵיכֶ֔ם אַרְבָּעִ֖ים שָׁנָ֑ה וִֽידַעְתֶּ֖ם אֶת תְּנוּאָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 5:26
+      lang: ar
+      text: قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ أَرْبَعِينَ سَنَةً يَتِيهُونَ فِى ٱلْأَرْضِ فَلَا
+        تَأْسَ عَلَى ٱلْقَوْمِ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

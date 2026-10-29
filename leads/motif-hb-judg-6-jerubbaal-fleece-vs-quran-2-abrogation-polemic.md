@@ -2,8 +2,7 @@
 id: motif-hb-judg-6-jerubbaal-fleece-vs-quran-2-abrogation-polemic
 title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs ↔ Ra'ina, abrogation, rival
   claims and the face of God
-summary: 'These two units share 2 motifs: the called one asks for a sign that it is god who speaks [divergence
-  between the texts], the called one asks for a sign that it is god who speaks.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,74 +15,9 @@ layers:
 motifs:
 - request-for-a-sign-as-divergence
 - request-for-a-sign
-passages:
-- tradition: judaism
-  ref: Judg 6:36
-  note: 'The called one asks for a sign that it is God who speaks [divergence between the texts] (Judg
-    6:36-37 the fleece test, ʾim ṭal yihyeh ʿal ha-ggizzâ lĕbaddāh ... wĕ-yādaʿtî: Gideon twice dictates
-    a sign and God gives it; Q 2:118 lawlā ... taʾtīnā āyatun ... tashābahat qulūbuhum: asking for a sign
-    marks the hearts of the unbelieving. Asking God for a sign is piety in Judges and unbelief in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר גִּדְע֖וֹן אֶל הָאֱלֹהִ֑ים אִם יֶשְׁךָ֞ מוֹשִׁ֧יעַ בְּיָדִ֛י אֶת יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר
-    דִּבַּֽרְתָּ
-- tradition: judaism
-  ref: Judg 6:37
-  note: 'The called one asks for a sign that it is God who speaks [divergence between the texts] (Judg
-    6:36-37 the fleece test, ʾim ṭal yihyeh ʿal ha-ggizzâ lĕbaddāh ... wĕ-yādaʿtî: Gideon twice dictates
-    a sign and God gives it; Q 2:118 lawlā ... taʾtīnā āyatun ... tashābahat qulūbuhum: asking for a sign
-    marks the hearts of the unbelieving. Asking God for a sign is piety in Judges and unbelief in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֣ה אָנֹכִ֗י מַצִּ֛יג אֶת גִּזַּ֥ת הַצֶּ֖מֶר בַּגֹּ֑רֶן אִ֡ם טַל֩ יִהְיֶ֨ה עַֽל הַגִּזָּ֜ה
-    לְבַדָּ֗הּ וְעַל כָּל הָאָ֨רֶץ֙ חֹ֔רֶב וְיָדַעְתִּ֗י כִּֽי תוֹשִׁ֧יעַ בְּיָדִ֛י אֶת יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר
-    דִּבַּֽרְתָּ
-- tradition: islam
-  ref: Quran 2:118
-  note: 'The called one asks for a sign that it is God who speaks [divergence between the texts] (Judg
-    6:17 wĕ-ʿāśîtā llî ʾôt šā-ʾattâ mĕdabbēr ʿimmî: the called man asks for a sign that it is God who
-    speaks, and it is granted (fire from the rock, 6:21); Q 2:118 wa-qāla lladhīna lā yaʿlamūna lawlā
-    yukallimunā llāhu aw taʾtīnā āyatun: unbelievers ask why God does not speak to them or give a sign,
-    and the request is refused (qad bayyannā l-āyāt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
-    قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
-    لِقَوْمٍ يُوقِنُونَ
-- tradition: judaism
-  ref: Judg 6:36-37
-  note: The called one asks for a sign that it is God who speaks
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:36) וַיֹּ֥אמֶר גִּדְע֖וֹן אֶל הָאֱלֹהִ֑ים אִם יֶשְׁךָ֞ מוֹשִׁ֧יעַ בְּיָדִ֛י אֶת יִשְׂרָאֵ֖ל
-    כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ (6:37) הִנֵּ֣ה אָנֹכִ֗י מַצִּ֛יג אֶת גִּזַּ֥ת הַצֶּ֖מֶר בַּגֹּ֑רֶן אִ֡ם טַל֩
-    יִהְיֶ֨ה עַֽל הַגִּזָּ֜ה לְבַדָּ֗הּ וְעַל כָּל הָאָ֨רֶץ֙ חֹ֔רֶב וְיָדַעְתִּ֗י כִּֽי תוֹשִׁ֧יעַ בְּיָדִ֛י
-    אֶת יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ
-- tradition: judaism
-  ref: Judg 6:39
-  note: The called one asks for a sign that it is God who speaks
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר גִּדְעוֹן֙ אֶל הָ֣אֱלֹהִ֔ים אַל יִ֤חַר אַפְּךָ֙ בִּ֔י וַאֲדַבְּרָ֖ה אַ֣ךְ הַפָּ֑עַם
-    אֲנַסֶּ֤ה נָּא רַק הַפַּ֨עַם֙ בַּגִּזָּ֔ה יְהִי נָ֨א חֹ֤רֶב אֶל הַגִּזָּה֙ לְבַדָּ֔הּ וְעַל כָּל הָאָ֖רֶץ
-    יִֽהְיֶה טָּֽל
-- tradition: islam
-  ref: Quran 2:118
-  note: The called one asks for a sign that it is God who speaks (why does God not speak to us or a sign
-    come?)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
-    قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
-    لِقَوْمٍ يُوقِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Judg 6:36-37 the fleece test, ʾim ṭal yihyeh ʿal ha-ggizzâ lĕbaddāh ... wĕ-yādaʿtî: Gideon
-    twice dictates a sign and God gives it; Q 2:118 lawlā ... taʾtīnā āyatun ... tashābahat qulūbuhum:
-    asking for a sign marks the hearts of the unbelieving. Asking God for a sign is piety in Judges and
-    unbelief in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The called one asks for a sign that it is God who speaks [divergence
     between the texts] (weight 5.8); The called one asks for a sign that it is God who speaks (weight
@@ -119,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The called one asks for a sign that it is God who speaks
+kinds:
+- divergence
+units:
+- id: hb-judg-6-jerubbaal-fleece
+  title: Gideon pulls down his father's Baal altar; Jerubbaal; the fleece signs
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: divergence
+  label: The called one asks for a sign that it is God who speaks
+  note: 'Judg 6:36-37 the fleece test, ʾim ṭal yihyeh ʿal ha-ggizzâ lĕbaddāh ... wĕ-yādaʿtî: Gideon twice
+    dictates a sign and God gives it; Q 2:118 lawlā ... taʾtīnā āyatun ... tashābahat qulūbuhum: asking
+    for a sign marks the hearts of the unbelieving. Asking God for a sign is piety in Judges and unbelief
+    in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 6:36
+      lang: he
+      text: וַיֹּ֥אמֶר גִּדְע֖וֹן אֶל הָאֱלֹהִ֑ים אִם יֶשְׁךָ֞ מוֹשִׁ֧יעַ בְּיָדִ֛י אֶת יִשְׂרָאֵ֖ל כַּאֲשֶׁ֥ר
+        דִּבַּֽרְתָּ
+    - ref: Judg 6:37
+      lang: he
+      text: הִנֵּ֣ה אָנֹכִ֗י מַצִּ֛יג אֶת גִּזַּ֥ת הַצֶּ֖מֶר בַּגֹּ֑רֶן אִ֡ם טַל֩ יִהְיֶ֨ה עַֽל הַגִּזָּ֜ה
+        לְבַדָּ֗הּ וְעַל כָּל הָאָ֨רֶץ֙ חֹ֔רֶב וְיָדַעְתִּ֗י כִּֽי תוֹשִׁ֧יעַ בְּיָדִ֛י אֶת יִשְׂרָאֵ֖ל
+        כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:118
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا ٱللَّهُ أَوْ تَأْتِينَآ ءَايَةٌ كَذَٰلِكَ
+        قَالَ ٱلَّذِينَ مِن قَبْلِهِم مِّثْلَ قَوْلِهِمْ تَشَٰبَهَتْ قُلُوبُهُمْ قَدْ بَيَّنَّا ٱلْءَايَٰتِ
+        لِقَوْمٍ يُوقِنُونَ
 ---
 
 ## Questions

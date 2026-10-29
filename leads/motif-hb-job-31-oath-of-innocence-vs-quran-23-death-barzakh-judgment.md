@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-23-death-barzakh-judgment
 title: Job's oath of innocence ↔ Repel evil with good; the deathbed plea, the barzakh and the scales
-summary: 'These two units share 1 motifs: ''let god weigh me in just balances and know my integrity''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,25 +13,9 @@ layers:
 - motif
 motifs:
 - weighed-in-just-balances
-passages:
-- tradition: judaism
-  ref: Job 31:6
-  note: '''Let God weigh me in just balances and know my integrity'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
-- tradition: islam
-  ref: Quran 23:102
-  note: '''Let God weigh me in just balances and know my integrity'' (fa-man thaqulat mawāzīnuhu fa-ulāʾika
-    humu l-mufliḥūna ~ yišqəlēnî və-moʾzənê ṣedeq wə-yēdaʿ ʾĕlôah tummātî: God weighs a person in balances
-    to judge his integrity.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-man thaqulat mawāzīnuhu fa-ulāʾika humu l-mufliḥūna ~ yišqəlēnî və-moʾzənê ṣedeq wə-yēdaʿ
-    ʾĕlôah tummātî: God weighs a person in balances to judge his integrity.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Let God weigh me in just balances and know my integrity'' (weight
     6.3). Pair score 6.3.'
@@ -68,6 +52,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Let God weigh me in just balances and know my integrity'''
+kinds:
+- echo
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Let God weigh me in just balances and know my integrity'''
+  note: 'fa-man thaqulat mawāzīnuhu fa-ulāʾika humu l-mufliḥūna ~ yišqəlēnî və-moʾzənê ṣedeq wə-yēdaʿ
+    ʾĕlôah tummātî: God weighs a person in balances to judge his integrity.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:6
+      lang: he
+      text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:102
+      lang: ar
+      text: فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
 ---
 
 ## Questions

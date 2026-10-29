@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-115-not-to-us-vs-quran-37-abraham-idols-fire
 title: Psalm 115, not to us, polemic against idols ↔ Abraham, the stars, the smashed idols and the fire
-summary: 'These two units share 1 motifs: idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Ps 115:4-7
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (115:4) עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם (115:5) פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ
-    עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ (115:6) אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א
-    יְרִיחֽוּן (115:7) יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
-- tradition: judaism
-  ref: Ps 115:4
-  note: Idols of wood and stone that cannot see, hear, eat or smell (Mouth, eyes, ears, nose, hands, feet,
-    throat listed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
-- tradition: islam
-  ref: Quran 37:91
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ فَقَالَ أَلَا تَأْكُلُونَ
-- tradition: islam
-  ref: Quran 37:92
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا لَكُمْ لَا تَنطِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. pe-lāhem wə-lōʾ yəḏabbērû ... lōʾ-yehgû bi-ḡrônām vs. mā lakum lā tanṭiqūn: mouths that
-    make no sound.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Idols of wood and stone that cannot see, hear, eat or smell (weight
     5.0). Pair score 5.0.'
@@ -77,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Idols of wood and stone that cannot see, hear, eat or smell
+kinds:
+- parallel
+units:
+- id: hb-ps-115-not-to-us
+  title: Psalm 115, not to us, polemic against idols
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: parallel
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  note: 'pe-lāhem wə-lōʾ yəḏabbērû ... lōʾ-yehgû bi-ḡrônām vs. mā lakum lā tanṭiqūn: mouths that make
+    no sound.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:5
+      lang: he
+      text: פֶּֽה לָ֭הֶם וְלֹ֣א יְדַבֵּ֑רוּ עֵינַ֥יִם לָ֝הֶ֗ם וְלֹ֣א יִרְאֽוּ
+    - ref: Ps 115:7
+      lang: he
+      text: יְדֵיהֶ֤ם וְלֹ֬א יְמִישׁ֗וּן רַ֭גְלֵיהֶם וְלֹ֣א יְהַלֵּ֑כוּ לֹֽא יֶ֝הְגּ֗וּ בִּגְרוֹנָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:92
+      lang: ar
+      text: مَا لَكُمْ لَا تَنطِقُونَ
 ---
 
 ## Questions

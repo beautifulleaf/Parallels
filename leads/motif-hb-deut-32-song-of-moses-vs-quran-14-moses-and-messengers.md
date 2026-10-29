@@ -2,7 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-14-moses-and-messengers
 title: The Song of Moses (Ha'azinu) ↔ Messengers in their people's tongue; Moses and the days of God;
   the threatened messengers (Surah 14:1-17)
-summary: 'These two units share 1 motifs: moses is told to remind his people of ''the days of god''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - remember-days-of-god
-passages:
-- tradition: judaism
-  ref: Deut 32:7
-  note: 'Moses is told to remind his people of ''the days of God'' (wa-dhakkirhum bi-ayyāmi llāh, said
-    to Moses; zəkōr yəmôt ʿôlām bînû šənôt dôr-wādôr, in Moses'' own song: Moses is to make the people
-    remember the ''days'' of God''s past deeds.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דּוֹר וָד֑וֹר שְׁאַ֤ל אָבִ֨יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ
-    וְיֹ֥אמְרוּ לָֽךְ
-- tradition: islam
-  ref: Quran 14:5
-  note: Moses is told to remind his people of 'the days of God' (ayyām Allāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ
-    وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
-- tradition: islam
-  ref: Quran 14:6
-  note: Moses is told to remind his people of 'the days of God' (ayyām Allāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ
-    فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ
-    وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-dhakkirhum bi-ayyāmi llāh, said to Moses; zəkōr yəmôt ʿôlām bînû šənôt dôr-wādôr, in
-    Moses'' own song: Moses is to make the people remember the ''days'' of God''s past deeds.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses is told to remind his people of ''the days of God'' (weight
     6.3). Pair score 6.3.'
@@ -79,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses is told to remind his people of 'the days of God'
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-14-moses-and-messengers
+  title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah
+    14:1-17)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Moses is told to remind his people of 'the days of God'
+  note: 'wa-dhakkirhum bi-ayyāmi llāh, said to Moses; zəkōr yəmôt ʿôlām bînû šənôt dôr-wādôr, in Moses''
+    own song: Moses is to make the people remember the ''days'' of God''s past deeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:7
+      lang: he
+      text: זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דּוֹר וָד֑וֹר שְׁאַ֤ל אָבִ֨יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ
+        וְיֹ֥אמְרוּ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 14:5
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى
+        ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
 ---
 
 ## Questions

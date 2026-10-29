@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-24-covenant-ratification-vs-quran-2-closing
 title: Covenant ratified in blood; the elders see God ↔ Closing confession and prayer
-summary: 'These two units share 1 motifs: believers'' confession ''we hear and we obey'' (sami''na wa-ata''na).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - we-hear-and-obey
-passages:
-- tradition: judaism
-  ref: Exod 24:7
-  note: Believers' confession 'we hear and we obey' (sami'na wa-ata'na) (Exod 24:7 kōl ʾăšer dibber YHWH
-    naʿăśeh wĕ-nišmāʿ; Q 2:285 samiʿnā wa-aṭaʿnā. Hearing and doing/obeying as the people's answer to
-    the covenant.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
-    יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
-- tradition: islam
-  ref: Quran 2:285
-  note: Believers' confession 'we hear and we obey' (sami'na wa-ata'na)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ
-    وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟ سَمِعْنَا
-    وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Exod 24:7 kōl ʾăšer dibber YHWH naʿăśeh wĕ-nišmāʿ; Q 2:285 samiʿnā wa-aṭaʿnā. Hearing and
-    doing/obeying as the people''s answer to the covenant.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers'' confession ''we hear and we obey'' (sami''na wa-ata''na)
     (weight 6.0). Pair score 6.0.'
@@ -64,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Believers' confession 'we hear and we obey' (sami'na wa-ata'na)
+kinds:
+- parallel
+units:
+- id: hb-exod-24-covenant-ratification
+  title: Covenant ratified in blood; the elders see God
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: Believers' confession 'we hear and we obey' (sami'na wa-ata'na)
+  note: Exod 24:7 kōl ʾăšer dibber YHWH naʿăśeh wĕ-nišmāʿ; Q 2:285 samiʿnā wa-aṭaʿnā. Hearing and doing/obeying
+    as the people's answer to the covenant.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 24:7
+      lang: he
+      text: וַיִּקַּח֙ סֵ֣פֶר הַבְּרִ֔ית וַיִּקְרָ֖א בְּאָזְנֵ֣י הָעָ֑ם וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר
+        יְהוָ֖ה נַעֲשֶׂ֥ה וְנִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 2:285
+      lang: ar
+      text: ءَامَنَ ٱلرَّسُولُ بِمَآ أُنزِلَ إِلَيْهِ مِن رَّبِّهِۦ وَٱلْمُؤْمِنُونَ كُلٌّ ءَامَنَ بِٱللَّهِ
+        وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِّن رُّسُلِهِۦ وَقَالُوا۟
+        سَمِعْنَا وَأَطَعْنَا غُفْرَانَكَ رَبَّنَا وَإِلَيْكَ ٱلْمَصِيرُ
 ---
 
 ## Questions

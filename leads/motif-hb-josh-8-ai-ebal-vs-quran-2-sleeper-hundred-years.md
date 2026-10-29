@@ -2,8 +2,7 @@
 id: motif-hb-josh-8-ai-ebal-vs-quran-2-sleeper-hundred-years
 title: Ambush and capture of Ai; altar and Torah inscribed on Mount Ebal ↔ The man who passed a ruined
   town
-summary: 'These two units share 2 motifs: a destroyed city is made a perpetual ruin-mound (tel olam),
-  the fate of a destroyed town: lasting ruin or revival [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,53 +15,9 @@ layers:
 motifs:
 - city-made-eternal-tell
 - fate-of-a-ruined-city-as-contrast
-passages:
-- tradition: judaism
-  ref: Josh 8:28
-  note: A destroyed city is made a perpetual ruin-mound (tel olam) (tel olam shemamah; ha-Ai = 'the ruin')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׂרֹ֥ף יְהוֹשֻׁ֖עַ אֶת הָעָ֑י וַיְשִׂימֶ֤הָ תֵּל עוֹלָם֙ שְׁמָמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
-- tradition: islam
-  ref: Quran 2:259
-  note: A destroyed city is made a perpetual ruin-mound (tel olam) (a town fallen down on its roofs)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
-    هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ
-    قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ
-    وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ
-    إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ
-    أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Josh 8:28
-  note: 'The fate of a destroyed town: lasting ruin or revival [contrast between the texts] (Josh 8:28
-    wa-yĕśîmehā tēl ʿôlām šĕmāmâ ʿad ha-yyôm ha-zzeh: Ai made a ruin mound forever; Q 2:259 ʿalā qaryatin
-    wa-hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: a town fallen on its
-    roofs, and the question whether God can revive it. Permanent ruin vs ruin as a test case for resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׂרֹ֥ף יְהוֹשֻׁ֖עַ אֶת הָעָ֑י וַיְשִׂימֶ֤הָ תֵּל עוֹלָם֙ שְׁמָמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
-- tradition: islam
-  ref: Quran 2:259
-  note: 'The fate of a destroyed town: lasting ruin or revival [contrast between the texts] (Josh 8:28
-    wa-yĕśîmehā tēl ʿôlām šĕmāmâ ʿad ha-yyôm ha-zzeh: Ai made a ruin mound forever; Q 2:259 ʿalā qaryatin
-    wa-hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: a town fallen on its
-    roofs, and the question whether God can revive it. Permanent ruin vs ruin as a test case for resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
-    هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ لَبِثْتَ
-    قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ إِلَىٰ طَعَامِكَ
-    وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً لِّلنَّاسِ وَٱنظُرْ
-    إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ لَهُۥ قَالَ أَعْلَمُ
-    أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Josh 8:28 wa-yĕśîmehā tēl ʿôlām šĕmāmâ ʿad ha-yyôm ha-zzeh: Ai made a ruin mound forever;
-    Q 2:259 ʿalā qaryatin wa-hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā:
-    a town fallen on its roofs, and the question whether God can revive it. Permanent ruin vs ruin as
-    a test case for resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A destroyed city is made a perpetual ruin-mound (tel olam) (weight
     6.7); The fate of a destroyed town: lasting ruin or revival [contrast between the texts] (weight 6.3).
@@ -91,6 +46,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The fate of a destroyed town: lasting ruin or revival'
+kinds:
+- contrast
+- shared
+units:
+- id: hb-josh-8-ai-ebal
+  title: Ambush and capture of Ai; altar and Torah inscribed on Mount Ebal
+  tradition: judaism
+- id: quran-2-sleeper-hundred-years
+  title: The man who passed a ruined town
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'The fate of a destroyed town: lasting ruin or revival'
+  note: 'Josh 8:28 wa-yĕśîmehā tēl ʿôlām šĕmāmâ ʿad ha-yyôm ha-zzeh: Ai made a ruin mound forever; Q 2:259
+    ʿalā qaryatin wa-hiya khāwiyatun ʿalā ʿurūshihā qāla annā yuḥyī hādhihi llāhu baʿda mawtihā: a town
+    fallen on its roofs, and the question whether God can revive it. Permanent ruin vs ruin as a test
+    case for resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 8:28
+      lang: he
+      text: וַיִּשְׂרֹ֥ף יְהוֹשֻׁ֖עַ אֶת הָעָ֑י וַיְשִׂימֶ֤הָ תֵּל עוֹלָם֙ שְׁמָמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:259
+      lang: ar
+      text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
+        هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ
+        لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ
+        إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً
+        لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ
+        لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: A destroyed city is made a perpetual ruin-mound (tel olam)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 8:28
+      lang: he
+      text: וַיִּשְׂרֹ֥ף יְהוֹשֻׁ֖עַ אֶת הָעָ֑י וַיְשִׂימֶ֤הָ תֵּל עוֹלָם֙ שְׁמָמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה
+    note: tel olam shemamah; ha-Ai = 'the ruin'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:259
+      lang: ar
+      text: أَوْ كَٱلَّذِى مَرَّ عَلَىٰ قَرْيَةٍ وَهِىَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْىِۦ
+        هَٰذِهِ ٱللَّهُ بَعْدَ مَوْتِهَا فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامٍ ثُمَّ بَعَثَهُۥ قَالَ كَمْ
+        لَبِثْتَ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ قَالَ بَل لَّبِثْتَ مِا۟ئَةَ عَامٍ فَٱنظُرْ
+        إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ وَٱنظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ ءَايَةً
+        لِّلنَّاسِ وَٱنظُرْ إِلَى ٱلْعِظَامِ كَيْفَ نُنشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا فَلَمَّا تَبَيَّنَ
+        لَهُۥ قَالَ أَعْلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    note: a town fallen down on its roofs
 ---
 
 ## Questions

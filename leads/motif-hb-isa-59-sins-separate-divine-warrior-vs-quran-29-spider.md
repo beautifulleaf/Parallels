@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-59-sins-separate-divine-warrior-vs-quran-29-spider
 title: Your sins have separated you; God arms himself ↔ Parable of the spider's house
-summary: 'These two units share 1 motifs: the trust of the godless is a spider''s house that will not
-  stand.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +13,9 @@ layers:
 - motif
 motifs:
 - trust-like-spiders-web
-passages:
-- tradition: judaism
-  ref: Isa 59:5
-  note: The trust of the godless is a spider's house that will not stand (they weave spider webs that
-    will not become clothing)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּיצֵ֤י צִפְעוֹנִי֙ בִּקֵּ֔עוּ וְקוּרֵ֥י עַכָּבִ֖ישׁ יֶאֱרֹ֑גוּ הָאֹכֵ֤ל מִבֵּֽיצֵיהֶם֙ יָמ֔וּת
-    וְהַזּוּרֶ֖ה תִּבָּקַ֥ע אֶפְעֶֽה
-- tradition: judaism
-  ref: Isa 59:6
-  note: The trust of the godless is a spider's house that will not stand (they weave spider webs that
-    will not become clothing)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קֽוּרֵיהֶם֙ לֹא יִהְי֣וּ לְבֶ֔גֶד וְלֹ֥א יִתְכַּסּ֖וּ בְּמַֽעֲשֵׂיהֶ֑ם מַֽעֲשֵׂיהֶם֙ מַֽעֲשֵׂי
-    אָ֔וֶן וּפֹ֥עַל חָמָ֖ס בְּכַפֵּיהֶֽם
-- tradition: islam
-  ref: Quran 29:41
-  note: The trust of the godless is a spider's house that will not stand (those who take protectors besides
-    God are like the spider that takes a house; the frailest house is the spider's)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ
-    بَيْتًا وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ لَوْ كَانُوا۟ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. qûrê ʿakkāḇîš yeʾĕrōḡû ... qûrêhem lōʾ yihyû lə-ḇeḡeḏ (they weave spider threads that will not
-    become clothing) vs. ka-mathali l-ʿankabūti ttakhadhat baytā: Isaiah''s web is the futile deeds (maʿăśêhem)
-    of the wicked, the Quran''s a house, as in Job 8:14.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The trust of the godless is a spider''s house that will not stand
     (weight 6.3). Pair score 6.3.'
@@ -70,6 +42,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The trust of the godless is a spider's house that will not stand
+kinds:
+- echo
+units:
+- id: hb-isa-59-sins-separate-divine-warrior
+  title: Your sins have separated you; God arms himself
+  tradition: judaism
+- id: quran-29-spider
+  title: Parable of the spider's house
+  tradition: islam
+matches:
+- kind: echo
+  label: The trust of the godless is a spider's house that will not stand
+  note: 'qûrê ʿakkāḇîš yeʾĕrōḡû ... qûrêhem lōʾ yihyû lə-ḇeḡeḏ (they weave spider threads that will not
+    become clothing) vs. ka-mathali l-ʿankabūti ttakhadhat baytā: Isaiah''s web is the futile deeds (maʿăśêhem)
+    of the wicked, the Quran''s a house, as in Job 8:14.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 59:5
+      lang: he
+      text: בֵּיצֵ֤י צִפְעוֹנִי֙ בִּקֵּ֔עוּ וְקוּרֵ֥י עַכָּבִ֖ישׁ יֶאֱרֹ֑גוּ הָאֹכֵ֤ל מִבֵּֽיצֵיהֶם֙ יָמ֔וּת
+        וְהַזּוּרֶ֖ה תִּבָּקַ֥ע אֶפְעֶֽה
+    - ref: Isa 59:6
+      lang: he
+      text: קֽוּרֵיהֶם֙ לֹא יִהְי֣וּ לְבֶ֔גֶד וְלֹ֥א יִתְכַּסּ֖וּ בְּמַֽעֲשֵׂיהֶ֑ם מַֽעֲשֵׂיהֶם֙ מַֽעֲשֵׂי
+        אָ֔וֶן וּפֹ֥עַל חָמָ֖ס בְּכַפֵּיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 29:41
+      lang: ar
+      text: مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ
+        بَيْتًا وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ لَوْ كَانُوا۟ يَعْلَمُونَ
 ---
 
 ## Questions

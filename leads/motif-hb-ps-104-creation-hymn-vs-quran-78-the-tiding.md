@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-78-the-tiding
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The great tiding: signs
   of creation and the day of sorting'
-summary: 'These two units share 2 motifs: god made the night a garment, sleep a rest, and the day a rising
-  (nushūr), god pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-  as provision and sign.'
+summary: '2 correspondences read side by side: 2 same element.'
 status: new
 relations:
 - convergence
@@ -18,80 +16,9 @@ layers:
 motifs:
 - night-as-garment-sleep-as-rest
 - rain-and-crops-as-sign
-passages:
-- tradition: judaism
-  ref: Ps 104:23
-  note: 'God made the night a garment, sleep a rest, and the day a rising (nushūr) (jaʿala lakumu l-layla
-    libāsan wa-n-nawma subātan wa-jaʿala n-nahāra nushūran ~ yēṣēʾ ʾādām lə-foʿŏlô wə-laʿăvōdātô ʿădê
-    ʿārev: the day for going out to work after the night; the Quran calls the daily rising nushūr, the
-    word for resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
-- tradition: judaism
-  ref: Ps 104:20
-  note: 'God made the night a garment, sleep a rest, and the day a rising (nushūr) (jaʿala lakumu l-layla
-    libāsan wa-n-nawma subātan wa-jaʿala n-nahāra nushūran ~ yēṣēʾ ʾādām lə-foʿŏlô wə-laʿăvōdātô ʿădê
-    ʿārev: the day for going out to work after the night; the Quran calls the daily rising nushūr, the
-    word for resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 78:9
-  note: God made the night a garment, sleep a rest, and the day a rising (nushūr)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
-- tradition: islam
-  ref: Quran 78:10
-  note: God made the night a garment, sleep a rest, and the day a rising (nushūr)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا
-- tradition: judaism
-  ref: Ps 104:13
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
-- tradition: judaism
-  ref: Ps 104:14
-  note: 'God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (Same catalogue: rain from above for drink and pasture, crops, vine and olive,
-    then the sea with its creatures and ships. maṣmîaḥ ḥāṣîr labbəhēmâ ... yayin ... šemen ... leḥem;
-    minhu shajarun fīhi tusīmūna yunbitu lakum bihi z-zarʿa wa-z-zaytūna wa-n-nakhīla wa-l-aʿnāb; šām
-    ʾŏniyyôt yəhallēkûn / wa-tarā l-fulka mawākhira fīh. Ps sets the sea for Leviathan to play in; Q for
-    fresh meat and ornaments, li-tabtaghū min faḍlih.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 78:14
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (water pouring from the squeezing clouds (mu'sirat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا
-- tradition: islam
-  ref: Quran 78:15
-  note: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
-    as provision and sign (water pouring from the squeezing clouds (mu'sirat))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-jaʿalnā l-layla libāsan wa-jaʿalnā n-nahāra maʿāshan ~ tāšet ḥōšek wî-hî lāylāh ... tizraḥ
-    ha-ššemeš ... yēṣēʾ ʾādām le-foʿŏlô we-la-ʿăvōdātô ʿădê ʿārev: night ordained, day for human livelihood
-    and work. wa-anzalnā mina l-muʿṣirāti māʾan thajjājan li-nukhrija bihi ḥabban wa-nabātan ~ mašqeh
-    hārîm mē-ʿăliyyôtāyw ... maṣmîaḥ ḥāṣîr la-bbehēmāh we-ʿēśev la-ʿăvōdat hā-ʾādām lehôṣîʾ leḥem min
-    hā-ʾāreṣ (both with the causative ''to bring out'' from the earth).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the night a garment, sleep a rest, and the day a rising
     (nushūr) (weight 6.3); God pours down rain, splits the earth and makes grain, grapes, olives, palms
@@ -129,6 +56,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made the night a garment, sleep a rest, and the day a rising (nushūr)
+kinds:
+- parallel
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-78-the-tiding
+  title: 'The great tiding: signs of creation and the day of sorting'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God made the night a garment, sleep a rest, and the day a rising (nushūr)
+  note: 'wa-jaʿalnā l-layla libāsan wa-jaʿalnā n-nahāra maʿāshan ~ tāšet ḥōšek wî-hî lāylāh ... tizraḥ
+    ha-ššemeš ... yēṣēʾ ʾādām le-foʿŏlô we-la-ʿăvōdātô ʿădê ʿārev: night ordained, day for human livelihood
+    and work.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:22
+      lang: he
+      text: תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 78:9
+      lang: ar
+      text: وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+    - ref: Quran 78:10
+      lang: ar
+      text: وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا
+    - ref: Quran 78:11
+      lang: ar
+      text: وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا
+- kind: parallel
+  label: God pours down rain, splits the earth and makes grain, grapes, olives, palms and pasture grow,
+    as provision and sign
+  note: wa-anzalnā mina l-muʿṣirāti māʾan thajjājan li-nukhrija bihi ḥabban wa-nabātan ~ mašqeh hārîm
+    mē-ʿăliyyôtāyw ... maṣmîaḥ ḥāṣîr la-bbehēmāh we-ʿēśev la-ʿăvōdat hā-ʾādām lehôṣîʾ leḥem min hā-ʾāreṣ
+    (both with the causative 'to bring out' from the earth).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+    - ref: Ps 104:14
+      lang: he
+      text: מַצְמִ֤יחַ חָצִ֨יר לַבְּהֵמָ֗ה וְ֭עֵשֶׂב לַעֲבֹדַ֣ת הָאָדָ֑ם לְה֥וֹצִיא לֶ֝֗חֶם מִן הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 78:14
+      lang: ar
+      text: وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا
+    - ref: Quran 78:15
+      lang: ar
+      text: لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا
+    - ref: Quran 78:16
+      lang: ar
+      text: وَجَنَّٰتٍ أَلْفَافًا
 ---
 
 ## Questions

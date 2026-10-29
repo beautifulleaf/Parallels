@@ -2,7 +2,7 @@
 id: motif-hb-jer-29-letter-to-exiles-vs-quran-23-noah
 title: Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah's counter-letter ↔ Noah
   called a madman; the ark and the boiling oven
-summary: 'These two units share 1 motifs: officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: Jer 29:26
-  note: Officers call the visiting prophet 'this madman' (meshugga') (Every mad man (meshugga) who prophesies
-    to be put in stocks and collar (tsinoq))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה נְתָנְךָ֣ כֹהֵ֗ן תַּ֚חַת יְהוֹיָדָ֣ע הַכֹּהֵ֔ן לִֽהְי֤וֹת פְּקִדִים֙ בֵּ֣ית יְהוָ֔ה לְכָל
-    אִ֥ישׁ מְשֻׁגָּ֖ע וּמִתְנַבֵּ֑א וְנָתַתָּ֥ה אֹת֛וֹ אֶל הַמַּהְפֶּ֖כֶת וְאֶל הַצִּינֹֽק
-- tradition: islam
-  ref: Quran 23:25
-  note: Officers call the visiting prophet 'this madman' (meshugga') (bihi jinna, 'there is madness (jinn-possession)
-    in him')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. in huwa illā rajulun bihi jinnatun ~ lə-khol ʾîš məšuggāʿ û-mitnabbēʾ: the prophet dismissed
-    as a madman (jinna / məšuggāʿ).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
     (weight 5.1). Pair score 5.1.'
@@ -67,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Officers call the visiting prophet 'this madman' (meshugga')
+kinds:
+- echo
+units:
+- id: hb-jer-29-letter-to-exiles
+  title: Letter to the exiles; seventy years; Ahab and Zedekiah roasted; Shemaiah's counter-letter
+  tradition: judaism
+- id: quran-23-noah
+  title: Noah called a madman; the ark and the boiling oven
+  tradition: islam
+matches:
+- kind: echo
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  note: 'in huwa illā rajulun bihi jinnatun ~ lə-khol ʾîš məšuggāʿ û-mitnabbēʾ: the prophet dismissed
+    as a madman (jinna / məšuggāʿ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 29:26
+      lang: he
+      text: יְהוָ֞ה נְתָנְךָ֣ כֹהֵ֗ן תַּ֚חַת יְהוֹיָדָ֣ע הַכֹּהֵ֔ן לִֽהְי֤וֹת פְּקִדִים֙ בֵּ֣ית יְהוָ֔ה
+        לְכָל אִ֥ישׁ מְשֻׁגָּ֖ע וּמִתְנַבֵּ֑א וְנָתַתָּ֥ה אֹת֛וֹ אֶל הַמַּהְפֶּ֖כֶת וְאֶל הַצִּינֹֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 23:25
+      lang: ar
+      text: إِنْ هُوَ إِلَّا رَجُلٌۢ بِهِۦ جِنَّةٌ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِينٍ
 ---
 
 ## Questions

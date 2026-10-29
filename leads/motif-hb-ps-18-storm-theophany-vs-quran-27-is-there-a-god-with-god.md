@@ -2,7 +2,7 @@
 id: motif-hb-ps-18-storm-theophany-vs-quran-27-is-there-a-god-with-god
 title: Psalm 18 - David's song of deliverance and the storm theophany ↔ The litany 'Is there a god with
   God?' and the unseen
-summary: 'These two units share 1 motifs: god answers the distressed when he calls and removes the evil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - god-answers-the-distressed
-passages:
-- tradition: judaism
-  ref: Ps 18:7
-  note: 'God answers the distressed when he calls and removes the evil (amman yujību l-muḍṭarra idhā daʿāhu
-    wa-yakshifu s-sūʾa ~ ba-ṣṣar lî ʾeqrāʾ YHWH ... yišmaʿ mē-hêkhālô qôlî: God hears the one in distress
-    (muḍṭarr / ṣar lî) who calls.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּצַּר לִ֤י אֶֽקְרָ֣א יְהוָה֮ וְאֶל אֱלֹהַ֪י אֲשַׁ֫וֵּ֥עַ יִשְׁמַ֣ע מֵהֵיכָל֣וֹ קוֹלִ֑י וְ֝שַׁוְעָתִ֗י
-    לְפָנָ֤יו תָּב֬וֹא בְאָזְנָֽיו
-- tradition: islam
-  ref: Quran 27:62
-  note: God answers the distressed when he calls and removes the evil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ
-    أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. amman yujību l-muḍṭarra idhā daʿāhu wa-yakshifu s-sūʾa ~ ba-ṣṣar lî ʾeqrāʾ YHWH ... yišmaʿ
-    mē-hêkhālô qôlî: God hears the one in distress (muḍṭarr / ṣar lî) who calls.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God answers the distressed when he calls and removes the evil (weight
     6.7). Pair score 6.7.'
@@ -70,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God answers the distressed when he calls and removes the evil
+kinds:
+- parallel
+units:
+- id: hb-ps-18-storm-theophany
+  title: Psalm 18 - David's song of deliverance and the storm theophany
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: parallel
+  label: God answers the distressed when he calls and removes the evil
+  note: 'amman yujību l-muḍṭarra idhā daʿāhu wa-yakshifu s-sūʾa ~ ba-ṣṣar lî ʾeqrāʾ YHWH ... yišmaʿ mē-hêkhālô
+    qôlî: God hears the one in distress (muḍṭarr / ṣar lî) who calls.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 18:7
+      lang: he
+      text: בַּצַּר לִ֤י אֶֽקְרָ֣א יְהוָה֮ וְאֶל אֱלֹהַ֪י אֲשַׁ֫וֵּ֥עַ יִשְׁמַ֣ע מֵהֵיכָל֣וֹ קוֹלִ֑י וְ֝שַׁוְעָתִ֗י
+        לְפָנָ֤יו תָּב֬וֹא בְאָזְנָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 27:62
+      lang: ar
+      text: أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ
+        أَءِلَٰهٌ مَّعَ ٱللَّهِ قَلِيلًا مَّا تَذَكَّرُونَ
 ---
 
 ## Questions

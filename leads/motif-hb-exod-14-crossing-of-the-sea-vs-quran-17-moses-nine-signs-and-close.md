@@ -2,8 +2,7 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-17-moses-nine-signs-and-close
 title: The pursuit and the parting of the sea ↔ Moses' nine signs, the drowning of Pharaoh, the Quran
   sent in portions (Surah 17:101-111)
-summary: 'These two units share 2 motifs: the returning waters drown the pursuing army; not one survives
-  [divergence between the texts], the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,61 +15,9 @@ layers:
 motifs:
 - pursuers-drowned-in-sea-as-divergence
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:5
-  note: 'The returning waters drown the pursuing army; not one survives [divergence between the texts]
-    (Same drowning (lōʾ-nišʾar bāhem ʿad-ʾeḥād / fa-aghraqnāhu wa-man maʿahu jamīʿā), opposite motive.
-    Exod: Pharaoh pursues to get his slaves back, mah-zzōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû.
-    Q: Pharaoh wanted to drive them out of the land, fa-arāda an yastafizzahum mina l-arḍ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙
-    אֶל הָעָ֔ם וַיֹּֽאמרוּ֙ מַה זֹּ֣את עָשִׂ֔ינוּ כִּֽי שִׁלַּ֥חְנוּ אֶת יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ
-- tradition: judaism
-  ref: Exod 14:28
-  note: 'The returning waters drown the pursuing army; not one survives [divergence between the texts]
-    (Same drowning (lōʾ-nišʾar bāhem ʿad-ʾeḥād / fa-aghraqnāhu wa-man maʿahu jamīʿā), opposite motive.
-    Exod: Pharaoh pursues to get his slaves back, mah-zzōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû.
-    Q: Pharaoh wanted to drive them out of the land, fa-arāda an yastafizzahum mina l-arḍ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה הַבָּאִ֥ים
-    אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
-- tradition: islam
-  ref: Quran 17:103
-  note: 'The returning waters drown the pursuing army; not one survives [divergence between the texts]
-    (Same drowning (lōʾ-nišʾar bāhem ʿad-ʾeḥād / fa-aghraqnāhu wa-man maʿahu jamīʿā), opposite motive.
-    Exod: Pharaoh pursues to get his slaves back, mah-zzōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû.
-    Q: Pharaoh wanted to drive them out of the land, fa-arāda an yastafizzahum mina l-arḍ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًا
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 17:103
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Same drowning (lōʾ-nišʾar bāhem ʿad-ʾeḥād / fa-aghraqnāhu wa-man maʿahu jamīʿā), opposite
-    motive. Exod: Pharaoh pursues to get his slaves back, mah-zzōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû.
-    Q: Pharaoh wanted to drive them out of the land, fa-arāda an yastafizzahum mina l-arḍ.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives [divergence
     between the texts] (weight 6.3); The returning waters drown the pursuing army; not one survives (weight
@@ -106,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- divergence
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: divergence
+  label: The returning waters drown the pursuing army; not one survives
+  note: 'Same drowning (lōʾ-nišʾar bāhem ʿad-ʾeḥād / fa-aghraqnāhu wa-man maʿahu jamīʿā), opposite motive.
+    Exod: Pharaoh pursues to get his slaves back, mah-zzōʾt ʿāśînû kî-šillaḥnû ʾet-yiśrāʾēl mēʿobdēnû.
+    Q: Pharaoh wanted to drive them out of the land, fa-arāda an yastafizzahum mina l-arḍ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:5
+      lang: he
+      text: וַיֻּגַּד֙ לְמֶ֣לֶךְ מִצְרַ֔יִם כִּ֥י בָרַ֖ח הָעָ֑ם וַ֠יֵּהָפֵךְ לְבַ֨ב פַּרְעֹ֤ה וַעֲבָדָיו֙
+        אֶל הָעָ֔ם וַיֹּֽאמרוּ֙ מַה זֹּ֣את עָשִׂ֔ינוּ כִּֽי שִׁלַּ֥חְנוּ אֶת יִשְׂרָאֵ֖ל מֵעָבְדֵֽנוּ
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 17:103
+      lang: ar
+      text: فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًا
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-exod-21-bodily-injury-vs-quran-5-war-on-god-theft
 title: Covenant Code - homicide, injury and the goring ox ↔ Penalty for waging war on God; the ransom
   of the earth; the thief's hand
-summary: 'These two units share 1 motifs: the penalty prescribed for theft [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - penalty-for-theft-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 21:37
-  note: 'The penalty prescribed for theft [contrast between the texts] (Exod: ḥămiššāh vāqār yəšallēm
-    taḥat haš-šôr wə-ʾarbaʿ-ṣōʾn taḥat haś-śeh, restitution scaled to the theft. Q 5:38: fa-qṭaʿū aydiyahumā,
-    corporal punishment in place of compensation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י יִגְנֹֽב אִישׁ֙ שׁ֣וֹר אוֹ שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת
-    הַשּׁ֔וֹר וְאַרְבַּע צֹ֖אן תַּ֥חַת הַשֶּֽׂה
-- tradition: islam
-  ref: Quran 5:38
-  note: 'The penalty prescribed for theft [contrast between the texts] (Opposite penalties for theft.
-    Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm šənayim yəšallēm: the thief pays
-    double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bi-mā
-    kasabā nakālan mina llāhi: hand amputation for male and female thief, with repentance after (5:39).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ
-    ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Exod: ḥămiššāh vāqār yəšallēm taḥat haš-šôr wə-ʾarbaʿ-ṣōʾn taḥat haś-śeh, restitution scaled
-    to the theft. Q 5:38: fa-qṭaʿū aydiyahumā, corporal punishment in place of compensation.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The penalty prescribed for theft [contrast between the texts] (weight
     6.3). Pair score 6.3.'
@@ -68,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The penalty prescribed for theft
+kinds:
+- contrast
+units:
+- id: hb-exod-21-bodily-injury
+  title: Covenant Code - homicide, injury and the goring ox
+  tradition: judaism
+- id: quran-5-war-on-god-theft
+  title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+  tradition: islam
+matches:
+- kind: contrast
+  label: The penalty prescribed for theft
+  note: 'Exod: ḥămiššāh vāqār yəšallēm taḥat haš-šôr wə-ʾarbaʿ-ṣōʾn taḥat haś-śeh, restitution scaled
+    to the theft. Q 5:38: fa-qṭaʿū aydiyahumā, corporal punishment in place of compensation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:37
+      lang: he
+      text: כִּ֤י יִגְנֹֽב אִישׁ֙ שׁ֣וֹר אוֹ שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙
+        תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע צֹ֖אן תַּ֥חַת הַשֶּֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:38
+      lang: ar
+      text: وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ
+        ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

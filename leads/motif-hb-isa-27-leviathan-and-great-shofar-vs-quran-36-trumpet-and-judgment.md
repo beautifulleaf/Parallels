@@ -2,8 +2,7 @@
 id: motif-hb-isa-27-leviathan-and-great-shofar-vs-quran-36-trumpet-and-judgment
 title: Leviathan slain; the vineyard of delight; the great shofar ↔ The trumpet, the sleepers raised,
   the Garden and the witnessing limbs
-summary: 'These two units share 2 motifs: a horn blown on the last day, and whom it gathers [divergence
-  between the texts], the trumpet (ṣūr) is blown and the dead are gathered.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,50 +15,9 @@ layers:
 motifs:
 - horn-blown-on-the-last-day-as-divergence
 - trumpet-blown-at-resurrection
-passages:
-- tradition: judaism
-  ref: Isa 27:13
-  note: 'A horn blown on the last day, and whom it gathers [divergence between the texts] (A horn that
-    gathers. Isa: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ ʾaššûr ... wə-hištaḥăwû la-YHWH
-    bə-har ha-qqōḏeš, gathering the lost exiles to worship at Jerusalem. Q: wa-nufikha fī ṣ-ṣūri fa-idhā
-    hum mina l-ajdāthi ilā rabbihim yansilūn, gathering the dead from the graves to judgment. The national
-    ingathering becomes the universal resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ אַשּׁ֔וּר
-    וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 36:51
-  note: 'A horn blown on the last day, and whom it gathers [divergence between the texts] (A horn that
-    gathers. Isa: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ ʾaššûr ... wə-hištaḥăwû la-YHWH
-    bə-har ha-qqōḏeš, gathering the lost exiles to worship at Jerusalem. Q: wa-nufikha fī ṣ-ṣūri fa-idhā
-    hum mina l-ajdāthi ilā rabbihim yansilūn, gathering the dead from the graves to judgment. The national
-    ingathering becomes the universal resurrection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
-- tradition: judaism
-  ref: Isa 27:13
-  note: 'The trumpet (ṣūr) is blown and the dead are gathered (A horn blast at the end time. Isa: yittāqaʿ
-    bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the exiles to the holy mountain. Q: yawma yunfakhu fī
-    l-ṣūri, at the resurrection and judgement (ʿālimu l-ghaybi wa-l-shahāda). Isa''s national ingathering
-    becomes the universal resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ אַשּׁ֔וּר
-    וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
-- tradition: islam
-  ref: Quran 36:51
-  note: The trumpet (ṣūr) is blown and the dead are gathered
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. A horn that gathers. Isa: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ ʾaššûr ...
-    wə-hištaḥăwû la-YHWH bə-har ha-qqōḏeš, gathering the lost exiles to worship at Jerusalem. Q: wa-nufikha
-    fī ṣ-ṣūri fa-idhā hum mina l-ajdāthi ilā rabbihim yansilūn, gathering the dead from the graves to
-    judgment. The national ingathering becomes the universal resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A horn blown on the last day, and whom it gathers [divergence between
     the texts] (weight 6.7); The trumpet (ṣūr) is blown and the dead are gathered (weight 5.0). Pair score
@@ -99,6 +57,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A horn blown on the last day, and whom it gathers
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-27-leviathan-and-great-shofar
+  title: Leviathan slain; the vineyard of delight; the great shofar
+  tradition: judaism
+- id: quran-36-trumpet-and-judgment
+  title: The trumpet, the sleepers raised, the Garden and the witnessing limbs
+  tradition: islam
+matches:
+- kind: divergence
+  label: A horn blown on the last day, and whom it gathers
+  note: 'A horn that gathers. Isa: yittāqaʿ bə-šôp̄ār gāḏôl û-ḇāʾû hā-ʾōḇəḏîm bə-ʾereṣ ʾaššûr ... wə-hištaḥăwû
+    la-YHWH bə-har ha-qqōḏeš, gathering the lost exiles to worship at Jerusalem. Q: wa-nufikha fī ṣ-ṣūri
+    fa-idhā hum mina l-ajdāthi ilā rabbihim yansilūn, gathering the dead from the graves to judgment.
+    The national ingathering becomes the universal resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 27:13
+      lang: he
+      text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ
+        אַשּׁ֔וּר וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+- kind: shared
+  label: The trumpet (ṣūr) is blown and the dead are gathered
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 27:13
+      lang: he
+      text: וְהָיָ֣ה בַּיּ֣וֹם הַה֗וּא יִתָּקַע֮ בְּשׁוֹפָ֣ר גָּדוֹל֒ וּבָ֗אוּ הָאֹֽבְדִים֙ בְּאֶ֣רֶץ
+        אַשּׁ֔וּר וְהַנִּדָּחִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם וְהִשְׁתַּחֲו֧וּ לַיהוָ֛ה בְּהַ֥ר הַקֹּ֖דֶשׁ בִּירוּשָׁלִָֽם
+    note: 'A horn blast at the end time. Isa: yittāqaʿ bə-šôfār gādôl û-vāʾû hā-ʾōvədîm, gathering the
+      exiles to the holy mountain. Q: yawma yunfakhu fī l-ṣūri, at the resurrection and judgement (ʿālimu
+      l-ghaybi wa-l-shahāda). Isa''s national ingathering becomes the universal resurrection.'
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
 ---
 
 ## Questions

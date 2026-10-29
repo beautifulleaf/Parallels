@@ -2,8 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-29-emigrate-and-trust
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ God's earth is wide; every
   soul tastes death; signs and the secure sanctuary
-summary: 'These two units share 2 motifs: god provides prey for the lion and food for the raven''s young
-  that cry to him, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,60 +15,9 @@ layers:
 motifs:
 - god-feeds-wild-animals
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:27
-  note: 'God provides prey for the lion and food for the raven''s young that cry to him (kullām ʾēleykā
-    yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô ... tip̄taḥ yāḏəkā yiśbəʿûn ṭôḇ vs. Allāhu yarzuquhā ... yabsuṭu
-    r-rizqa li-man yashāʾ: the open hand of Ps 104 becomes God ''spreading'' provision for whom he wills.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ
-- tradition: judaism
-  ref: Ps 104:28
-  note: 'God provides prey for the lion and food for the raven''s young that cry to him (kullām ʾēleykā
-    yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô ... tip̄taḥ yāḏəkā yiśbəʿûn ṭôḇ vs. Allāhu yarzuquhā ... yabsuṭu
-    r-rizqa li-man yashāʾ: the open hand of Ps 104 becomes God ''spreading'' provision for whom he wills.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב
-- tradition: islam
-  ref: Quran 29:60
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
-- tradition: islam
-  ref: Quran 29:62
-  note: God provides prey for the lion and food for the raven's young that cry to him (many a creature
-    does not carry its own provision; God provides for it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ بِكُلِّ
-    شَىْءٍ عَلِيمٌ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 29:63
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ مِنۢ بَعْدِ
-    مَوْتِهَا لَيَقُولُنَّ ٱللَّهُ قُلِ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kullām ʾēleykā yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô ... tip̄taḥ yāḏəkā yiśbəʿûn ṭôḇ vs. Allāhu yarzuquhā
-    ... yabsuṭu r-rizqa li-man yashāʾ: the open hand of Ps 104 becomes God ''spreading'' provision for
-    whom he wills.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God provides prey for the lion and food for the raven''s young that
     cry to him (weight 6.0); Rain from the sky gives life to the earth after its death, a sign of resurrection
@@ -106,6 +54,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God provides prey for the lion and food for the raven's young that cry to him
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: echo
+  label: God provides prey for the lion and food for the raven's young that cry to him
+  note: 'kullām ʾēleykā yəśabbērûn lāṯēṯ ʾoḵlām bə-ʿittô ... tip̄taḥ yāḏəkā yiśbəʿûn ṭôḇ vs. Allāhu yarzuquhā
+    ... yabsuṭu r-rizqa li-man yashāʾ: the open hand of Ps 104 becomes God ''spreading'' provision for
+    whom he wills.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:27
+      lang: he
+      text: כֻּ֭לָּם אֵלֶ֣יךָ יְשַׂבֵּר֑וּן לָתֵ֖ת אָכְלָ֣ם בְּעִתּֽוֹ
+    - ref: Ps 104:28
+      lang: he
+      text: תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב
+  - tradition: islam
+    passages:
+    - ref: Quran 29:60
+      lang: ar
+      text: وَكَأَيِّن مِّن دَآبَّةٍ لَّا تَحْمِلُ رِزْقَهَا ٱللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ وَهُوَ
+        ٱلسَّمِيعُ ٱلْعَلِيمُ
+    - ref: Quran 29:62
+      lang: ar
+      text: ٱللَّهُ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ مِنْ عِبَادِهِۦ وَيَقْدِرُ لَهُۥٓ إِنَّ ٱللَّهَ
+        بِكُلِّ شَىْءٍ عَلِيمٌ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 29:63
+      lang: ar
+      text: وَلَئِن سَأَلْتَهُم مَّن نَّزَّلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَحْيَا بِهِ ٱلْأَرْضَ مِنۢ بَعْدِ
+        مَوْتِهَا لَيَقُولُنَّ ٱللَّهُ قُلِ ٱلْحَمْدُ لِلَّهِ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ
 ---
 
 ## Questions

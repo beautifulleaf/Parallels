@@ -2,7 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-10-book-readers-jonah
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Ask the readers of scripture; the people
   of Jonah
-summary: 'These two units share 1 motifs: hero''s family saved with him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 19:16
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:29
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 10:103
-  note: Hero's family saved with him (God saves his messengers and the believers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God rescues his man from a destroyed town: thumma nunajjī rusulanā wa-lladhīna āmanū vs wayyizkōr
-    ʾĕlōhîm ʾet-ʾabrāhām wayᵉšallaḥ ʾet-lôṭ mittôk hahăpēkāh. In Gen Lot is saved for Abraham''s sake;
-    in Q God saves messengers and believers as a rule (ḥaqqan ʿalaynā).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s family saved with him (weight 4.5). Pair score 4.5.'
   basis: reading
@@ -70,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's family saved with him
+kinds:
+- echo
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-10-book-readers-jonah
+  title: Ask the readers of scripture; the people of Jonah
+  tradition: islam
+matches:
+- kind: echo
+  label: Hero's family saved with him
+  note: 'God rescues his man from a destroyed town: thumma nunajjī rusulanā wa-lladhīna āmanū vs wayyizkōr
+    ʾĕlōhîm ʾet-ʾabrāhām wayᵉšallaḥ ʾet-lôṭ mittôk hahăpēkāh. In Gen Lot is saved for Abraham''s sake;
+    in Q God saves messengers and believers as a rule (ḥaqqan ʿalaynā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:29
+      lang: he
+      text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם
+        וַיְשַׁלַּ֤ח אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+  - tradition: islam
+    passages:
+    - ref: Quran 10:103
+      lang: ar
+      text: ثُمَّ نُنَجِّى رُسُلَنَا وَٱلَّذِينَ ءَامَنُوا۟ كَذَٰلِكَ حَقًّا عَلَيْنَا نُنجِ ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-40-call-on-me
 title: Job - 'Your hands fashioned me'; land of darkness ↔ God helps his messengers; call on me; the stages
   of life
-summary: 'These two units share 1 motifs: from dust, then a drop, then a clinging clot (''alaqa), then
-  a child, then full strength, then old age; some die before.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - stages-dust-drop-clot-child-old-age
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: 'From dust, then a drop, then a clinging clot (''alaqa), then a child, then full strength, then
-    old age; some die before (kî-ḵa-ḥōmer ʿăśîṯānî ... hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî
-    ʿôr û-ḇāśār talbîšēnî vs. khalaqakum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma yukhrijukum
-    ṭiflan: human genesis in stages, from earth through seminal fluid to the formed body.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: judaism
-  ref: Job 10:10
-  note: 'From dust, then a drop, then a clinging clot (''alaqa), then a child, then full strength, then
-    old age; some die before (kî-ḵa-ḥōmer ʿăśîṯānî ... hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî
-    ʿôr û-ḇāśār talbîšēnî vs. khalaqakum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma yukhrijukum
-    ṭiflan: human genesis in stages, from earth through seminal fluid to the formed body.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
-- tradition: islam
-  ref: Quran 40:67
-  note: From dust, then a drop, then a clinging clot ('alaqa), then a child, then full strength, then
-    old age; some die before
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ
-    طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًا وَمِنكُم مَّن يُتَوَفَّىٰ مِن
-    قَبْلُ وَلِتَبْلُغُوٓا۟ أَجَلًا مُّسَمًّى وَلَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. kî-ḵa-ḥōmer ʿăśîṯānî ... hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî
-    vs. khalaqakum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma yukhrijukum ṭiflan: human
-    genesis in stages, from earth through seminal fluid to the formed body.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: From dust, then a drop, then a clinging clot (''alaqa), then a child,
     then full strength, then old age; some die before (weight 6.7). Pair score 6.7.'
@@ -80,6 +49,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: From dust, then a drop, then a clinging clot ('alaqa), then a child, then full strength, then
+  old age; some die before
+kinds:
+- echo
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-40-call-on-me
+  title: God helps his messengers; call on me; the stages of life
+  tradition: islam
+matches:
+- kind: echo
+  label: From dust, then a drop, then a clinging clot ('alaqa), then a child, then full strength, then
+    old age; some die before
+  note: 'kî-ḵa-ḥōmer ʿăśîṯānî ... hă-lōʾ ḵe-ḥālāḇ tattîḵēnî wə-ḵa-ggəḇinnâ taqpîʾēnî ʿôr û-ḇāśār talbîšēnî
+    vs. khalaqakum min turābin thumma min nuṭfatin thumma min ʿalaqatin thumma yukhrijukum ṭiflan: human
+    genesis in stages, from earth through seminal fluid to the formed body.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+    - ref: Job 10:10
+      lang: he
+      text: הֲלֹ֣א כֶ֭חָלָב תַּתִּיכֵ֑נִי וְ֝כַגְּבִנָּ֗ה תַּקְפִּיאֵֽנִי
+    - ref: Job 10:11
+      lang: he
+      text: ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 40:67
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ يُخْرِجُكُمْ
+        طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ ثُمَّ لِتَكُونُوا۟ شُيُوخًا وَمِنكُم مَّن يُتَوَفَّىٰ
+        مِن قَبْلُ وَلِتَبْلُغُوٓا۟ أَجَلًا مُّسَمًّى وَلَعَلَّكُمْ تَعْقِلُونَ
 ---
 
 ## Questions

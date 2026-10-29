@@ -2,8 +2,7 @@
 id: motif-hb-neh-2-nehemiah-sent-vs-quran-23-believers-succeed
 title: The king's question, Nehemiah's commission and the night inspection of the walls ↔ The successful
   believers who inherit Firdaws
-summary: 'These two units share 1 motifs: royal letter to the keeper of the king''s park (pardes) for
-  timber.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - keeper-of-the-kings-paradise
-passages:
-- tradition: judaism
-  ref: Neh 2:8
-  note: Royal letter to the keeper of the king's park (pardes) for timber (Asaph, guardian of the pardes
-    (Persian park) supplies timber)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִגֶּ֡רֶת אֶל אָסָף֩ שֹׁמֵ֨ר הַפַּרְדֵּ֜ס אֲשֶׁ֣ר לַמֶּ֗לֶךְ אֲשֶׁ֣ר יִתֶּן לִ֣י עֵצִ֡ים לְ֠קָרוֹת
-    אֶת שַׁעֲרֵ֨י הַבִּירָ֤ה אֲשֶׁר לַבַּ֨יִת֙ וּלְחוֹמַ֣ת הָעִ֔יר וְלַבַּ֖יִת אֲשֶׁר אָב֣וֹא אֵלָ֑יו
-    וַיִּתֶּן לִ֣י הַמֶּ֔לֶךְ כְּיַד אֱלֹהַ֖י הַטּוֹבָ֥ה עָלָֽי
-- tradition: islam
-  ref: Quran 23:11
-  note: Royal letter to the keeper of the king's park (pardes) for timber (firdaws ~ pardes)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. al-firdaws ~ ha-pardēs: the same Persian loanword (pairidaēza). In Nehemiah it is the Persian
-    king''s timber park with its keeper Asaph (šōmēr ha-pardēs ʾăšer la-mmelekh); in the Quran it is the
-    paradise the believers inherit. A lexical lead, not a shared motif.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Royal letter to the keeper of the king''s park (pardes) for timber
     (weight 6.7). Pair score 6.7.'
@@ -65,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Royal letter to the keeper of the king's park (pardes) for timber
+kinds:
+- echo
+units:
+- id: hb-neh-2-nehemiah-sent
+  title: The king's question, Nehemiah's commission and the night inspection of the walls
+  tradition: judaism
+- id: quran-23-believers-succeed
+  title: The successful believers who inherit Firdaws
+  tradition: islam
+matches:
+- kind: echo
+  label: Royal letter to the keeper of the king's park (pardes) for timber
+  note: 'al-firdaws ~ ha-pardēs: the same Persian loanword (pairidaēza). In Nehemiah it is the Persian
+    king''s timber park with its keeper Asaph (šōmēr ha-pardēs ʾăšer la-mmelekh); in the Quran it is the
+    paradise the believers inherit. A lexical lead, not a shared motif.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 2:8
+      lang: he
+      text: וְאִגֶּ֡רֶת אֶל אָסָף֩ שֹׁמֵ֨ר הַפַּרְדֵּ֜ס אֲשֶׁ֣ר לַמֶּ֗לֶךְ אֲשֶׁ֣ר יִתֶּן לִ֣י עֵצִ֡ים
+        לְ֠קָרוֹת אֶת שַׁעֲרֵ֨י הַבִּירָ֤ה אֲשֶׁר לַבַּ֨יִת֙ וּלְחוֹמַ֣ת הָעִ֔יר וְלַבַּ֖יִת אֲשֶׁר אָב֣וֹא
+        אֵלָ֑יו וַיִּתֶּן לִ֣י הַמֶּ֔לֶךְ כְּיַד אֱלֹהַ֖י הַטּוֹבָ֥ה עָלָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 23:11
+      lang: ar
+      text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

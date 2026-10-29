@@ -2,8 +2,7 @@
 id: motif-hb-ps-69-deep-waters-vs-quran-23-sects-and-the-heedless
 title: Psalm 69, the waters have come up to my neck; gall and vinegar ↔ One community split into sects;
   the heedless rich and the God-fearing
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 69:29
-  note: God keeps a book in which names are written and from which sinners are blotted (yimmahu mi-sefer
-    hayyim ve-im tsaddiqim al yikkatevu)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
-- tradition: islam
-  ref: Quran 23:62
-  note: God keeps a book in which names are written and from which sinners are blotted ('a book that speaks
-    the truth')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَلَدَيْنَا كِتَٰبٌ يَنطِقُ بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-ladaynā kitābun yanṭiqu bi-l-ḥaqqi wa-hum lā yuẓlamūna ~ yimmāḥû mis-sēfer ḥayyîm wə-ʿim
-    ṣaddîqîm ʾal yikkātēvû: God''s book records each person. In the Psalm it is a register of the living
-    from which enemies are blotted, in the Quran a book of deeds that ''speaks the truth''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -70,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-69-deep-waters
+  title: Psalm 69, the waters have come up to my neck; gall and vinegar
+  tradition: judaism
+- id: quran-23-sects-and-the-heedless
+  title: One community split into sects; the heedless rich and the God-fearing
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'wa-ladaynā kitābun yanṭiqu bi-l-ḥaqqi wa-hum lā yuẓlamūna ~ yimmāḥû mis-sēfer ḥayyîm wə-ʿim ṣaddîqîm
+    ʾal yikkātēvû: God''s book records each person. In the Psalm it is a register of the living from which
+    enemies are blotted, in the Quran a book of deeds that ''speaks the truth''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 69:29
+      lang: he
+      text: יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל יִכָּתֵֽבוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:62
+      lang: ar
+      text: وَلَا نُكَلِّفُ نَفْسًا إِلَّا وُسْعَهَا وَلَدَيْنَا كِتَٰبٌ يَنطِقُ بِٱلْحَقِّ وَهُمْ لَا
+        يُظْلَمُونَ
 ---
 
 ## Questions

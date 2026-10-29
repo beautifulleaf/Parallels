@@ -2,9 +2,7 @@
 id: motif-hb-isa-42-servant-and-new-song-vs-quran-2-three-groups
 title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
   blind servant ↔ Believers, unbelievers and hypocrites
-summary: 'These two units share 2 motifs: who is called blind and deaf toward god''s word [divergence
-  between the texts], who is blind but my servant, deaf like my messenger? israel sees much but does not
-  observe.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,55 +15,9 @@ layers:
 motifs:
 - who-is-blind-and-deaf-as-divergence
 - blind-and-deaf-servant
-passages:
-- tradition: judaism
-  ref: Isa 42:18
-  note: 'Who is called blind and deaf toward God''s word [divergence between the texts] (Isa 42:19 mî
-    ʿiwwēr kî ʾim ʿabdî wĕ-ḥērēš kĕ-malʾākî ʾešlāḥ: God''s own servant and messenger is blind and deaf;
-    Q 2:18 ṣummun bukmun ʿumyun is said of those who reject the messenger, never of the messenger. The
-    servant''s blindness is moved onto his opponents.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַחֵרְשִׁ֖ים שְׁמָ֑עוּ וְהַעִוְרִ֖ים הַבִּ֥יטוּ לִרְאֽוֹת
-- tradition: judaism
-  ref: Isa 42:19
-  note: 'Who is called blind and deaf toward God''s word [divergence between the texts] (Isa 42:19 mî
-    ʿiwwēr kî ʾim ʿabdî wĕ-ḥērēš kĕ-malʾākî ʾešlāḥ: God''s own servant and messenger is blind and deaf;
-    Q 2:18 ṣummun bukmun ʿumyun is said of those who reject the messenger, never of the messenger. The
-    servant''s blindness is moved onto his opponents.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י עִוֵּר֙ כִּ֣י אִם עַבְדִּ֔י וְחֵרֵ֖שׁ כְּמַלְאָכִ֣י אֶשְׁלָ֑ח מִ֤י עִוֵּר֙ כִּמְשֻׁלָּ֔ם
-    וְעִוֵּ֖ר כְּעֶ֥בֶד יְהוָֽה
-- tradition: islam
-  ref: Quran 2:18
-  note: Who is called blind and deaf toward God's word [divergence between the texts] (Isa 43:8 ʿam ʿiwwēr
-    wĕ-ʿênayim yēš wĕ-ḥērĕšîm wĕ-ʾoznayim lāmô 'a blind people that has eyes, deaf that have ears' (Israel,
-    God's own witnesses); Q 2:18 ṣummun bukmun ʿumyun 'deaf, dumb, blind' of the hypocrites. The target
-    moves from God's people, to be led out, to the unbelievers, who will not return.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
-- tradition: judaism
-  ref: Isa 42:19-20
-  note: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe (meshullam,
-    'the one at peace/covenanted')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (42:19) מִ֤י עִוֵּר֙ כִּ֣י אִם עַבְדִּ֔י וְחֵרֵ֖שׁ כְּמַלְאָכִ֣י אֶשְׁלָ֑ח מִ֤י עִוֵּר֙ כִּמְשֻׁלָּ֔ם
-    וְעִוֵּ֖ר כְּעֶ֥בֶד יְהוָֽה (42:20) ראית רָא֥וֹת רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם וְלֹ֥א
-    יִשְׁמָֽע
-- tradition: islam
-  ref: Quran 2:18
-  note: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 42:19 mî ʿiwwēr kî ʾim ʿabdî wĕ-ḥērēš kĕ-malʾākî ʾešlāḥ: God''s own servant and messenger
-    is blind and deaf; Q 2:18 ṣummun bukmun ʿumyun is said of those who reject the messenger, never of
-    the messenger. The servant''s blindness is moved onto his opponents.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is called blind and deaf toward God''s word [divergence between
     the texts] (weight 6.3); Who is blind but my servant, deaf like my messenger? Israel sees much but
@@ -103,6 +55,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is called blind and deaf toward God's word
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-42-servant-and-new-song
+  title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
+    blind servant
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who is called blind and deaf toward God's word
+  note: 'Isa 42:19 mî ʿiwwēr kî ʾim ʿabdî wĕ-ḥērēš kĕ-malʾākî ʾešlāḥ: God''s own servant and messenger
+    is blind and deaf; Q 2:18 ṣummun bukmun ʿumyun is said of those who reject the messenger, never of
+    the messenger. The servant''s blindness is moved onto his opponents.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 42:18
+      lang: he
+      text: הַחֵרְשִׁ֖ים שְׁמָ֑עוּ וְהַעִוְרִ֖ים הַבִּ֥יטוּ לִרְאֽוֹת
+    - ref: Isa 42:19
+      lang: he
+      text: מִ֤י עִוֵּר֙ כִּ֣י אִם עַבְדִּ֔י וְחֵרֵ֖שׁ כְּמַלְאָכִ֣י אֶשְׁלָ֑ח מִ֤י עִוֵּר֙ כִּמְשֻׁלָּ֔ם
+        וְעִוֵּ֖ר כְּעֶ֥בֶד יְהוָֽה
+    - ref: Isa 42:20
+      lang: he
+      text: ראית רָא֥וֹת רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם וְלֹ֥א יִשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 2:18
+      lang: ar
+      text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
+- kind: shared
+  label: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 42:19-20
+      lang: he
+      text: (42:19) מִ֤י עִוֵּר֙ כִּ֣י אִם עַבְדִּ֔י וְחֵרֵ֖שׁ כְּמַלְאָכִ֣י אֶשְׁלָ֑ח מִ֤י עִוֵּר֙ כִּמְשֻׁלָּ֔ם
+        וְעִוֵּ֖ר כְּעֶ֥בֶד יְהוָֽה (42:20) ראית רָא֥וֹת רַבּ֖וֹת וְלֹ֣א תִשְׁמֹ֑ר פָּק֥וֹחַ אָזְנַ֖יִם
+        וְלֹ֥א יִשְׁמָֽע
+    note: meshullam, 'the one at peace/covenanted'
+  - tradition: islam
+    passages:
+    - ref: Quran 2:18
+      lang: ar
+      text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
 ---
 
 ## Questions

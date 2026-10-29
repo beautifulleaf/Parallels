@@ -2,9 +2,7 @@
 id: motif-hb-ps-91-shelter-of-most-high-vs-quran-112-114-unity-and-refuge
 title: 'Psalm 91, shelter of the Most High; the noonday demon; angels bear you up ↔ Sincerity, daybreak
   and mankind: God''s unity and the two refuges'
-summary: 'These two units share 2 motifs: protection from the terror of the night, the arrow by day, the
-  pestilence (dever) stalking in darkness and qeteb that ravages at noon, psalm used as protection against
-  demons and harm (later amulet and ''song of plagues'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,62 +16,9 @@ layers:
 motifs:
 - night-terror-and-noonday-demon
 - apotropaic-psalm
-passages:
-- tradition: judaism
-  ref: Ps 91:5-6
-  note: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
-    darkness and Qeteb that ravages at noon (pahad laylah, hets ya'uf yomam, dever ba-ofel, qetev yashud
-    tsohorayim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (91:5) לֹא תִ֭ירָא מִפַּ֣חַד לָ֑יְלָה מֵ֝חֵ֗ץ יָע֥וּף יוֹמָֽם (91:6) מִ֭דֶּבֶר בָּאֹ֣פֶל יַהֲלֹ֑ךְ
-    מִ֝קֶּ֗טֶב יָשׁ֥וּד צָהֳרָֽיִם
-- tradition: judaism
-  ref: Ps 91:5
-  note: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
-    darkness and Qeteb that ravages at noon (pahad laylah, hets ya'uf yomam, dever ba-ofel, qetev yashud
-    tsohorayim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תִ֭ירָא מִפַּ֣חַד לָ֑יְלָה מֵ֝חֵ֗ץ יָע֥וּף יוֹמָֽם
-- tradition: islam
-  ref: Quran 113:3
-  note: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
-    darkness and Qeteb that ravages at noon (evil of darkness when it settles)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
-- tradition: islam
-  ref: Quran 113:1
-  note: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
-    darkness and Qeteb that ravages at noon (evil of darkness when it settles)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
-- tradition: judaism
-  ref: Ps 91:1-16
-  note: 'Psalm used as protection against demons and harm (later amulet and ''song of plagues'') (interpretive:
-    the content is protective; Qumran 11Q11 collects it with exorcistic songs)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text_omitted: longer than 12 verses; read it in the source
-- tradition: islam
-  ref: Quran 113:1
-  note: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
-- tradition: islam
-  ref: Quran 113:2
-  note: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِن شَرِّ مَا خَلَقَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. qul aʿūdhu bi-rabbi l-falaq ... wa-min sharri ghāsiqin idhā waqab ~ lōʾ tîrāʾ mi-ppaḥad
-    lāylāh ... mi-ddever bā-ʾōfel yahălōk mi-qqeṭev yāšûd ṣohŏrāyim: refuge in God from the evils of the
-    dark; both later used apotropaically.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Protection from the terror of the night, the arrow by day, the pestilence
     (dever) stalking in darkness and Qeteb that ravages at noon (weight 6.7); Psalm used as protection
@@ -109,6 +54,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
+  darkness and Qeteb that ravages at noon
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-91-shelter-of-most-high
+  title: Psalm 91, shelter of the Most High; the noonday demon; angels bear you up
+  tradition: judaism
+- id: quran-112-114-unity-and-refuge
+  title: 'Sincerity, daybreak and mankind: God''s unity and the two refuges'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Protection from the terror of the night, the arrow by day, the pestilence (dever) stalking in
+    darkness and Qeteb that ravages at noon
+  note: 'qul aʿūdhu bi-rabbi l-falaq ... wa-min sharri ghāsiqin idhā waqab ~ lōʾ tîrāʾ mi-ppaḥad lāylāh
+    ... mi-ddever bā-ʾōfel yahălōk mi-qqeṭev yāšûd ṣohŏrāyim: refuge in God from the evils of the dark;
+    both later used apotropaically.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 91:5
+      lang: he
+      text: לֹא תִ֭ירָא מִפַּ֣חַד לָ֑יְלָה מֵ֝חֵ֗ץ יָע֥וּף יוֹמָֽם
+    - ref: Ps 91:6
+      lang: he
+      text: מִ֭דֶּבֶר בָּאֹ֣פֶל יַהֲלֹ֑ךְ מִ֝קֶּ֗טֶב יָשׁ֥וּד צָהֳרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 113:1
+      lang: ar
+      text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+    - ref: Quran 113:3
+      lang: ar
+      text: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
+- kind: shared
+  label: Psalm used as protection against demons and harm (later amulet and 'song of plagues')
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 91:1-16
+      lang: he
+      text_omitted: longer than 12 verses; read it in the source
+    note: 'interpretive: the content is protective; Qumran 11Q11 collects it with exorcistic songs'
+  - tradition: islam
+    passages:
+    - ref: Quran 113:1
+      lang: ar
+      text: قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ
+    - ref: Quran 113:2
+      lang: ar
+      text: مِن شَرِّ مَا خَلَقَ
+    - ref: Quran 113:3
+      lang: ar
+      text: وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ
 ---
 
 ## Questions

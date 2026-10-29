@@ -2,8 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-47-muhammad-hypocrites
 title: Lessons of the wilderness; the good land; beware of pride ↔ The sick-hearted faint at the call
   to fight; locks on hearts; the twist of speech; God rich, you poor
-summary: 'These two units share 1 motifs: god tests the community ''until we know'' who strive and are
-  patient.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - god-tests-to-know-strivers
-passages:
-- tradition: judaism
-  ref: Deut 8:2
-  note: 'God tests the community ''until we know'' who strive and are patient (God tests in order to ''know'':
-    lə-maʿan ʿannōṯəḵā lə-nassōṯəḵā lāḏaʿaṯ ʾeṯ ʾăšer bi-lḇāḇəḵā vs. wa-la-nabluwannakum ḥattā naʿlama
-    l-mujāhidīna minkum wa-ṣ-ṣābirīn. The same theological point in both texts: testing so that God may
-    know, despite his knowing all. In Deuteronomy the test is the wilderness and the commandments; in
-    the Quran it is fighting and endurance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזָכַרְתָּ֣ אֶת כָּל הַדֶּ֗רֶךְ אֲשֶׁ֨ר הֹלִֽיכֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה
-    בַּמִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְךָ֜ לְנַסֹּֽתְךָ֗ לָדַ֜עַת אֶת אֲשֶׁ֧ר בִּֽלְבָבְךָ֛ הֲתִשְׁמֹ֥ר מצותו
-    מִצְוֺתָ֖יו אִם לֹֽא
-- tradition: islam
-  ref: Quran 47:31
-  note: God tests the community 'until we know' who strive and are patient
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟ أَخْبَارَكُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. God tests in order to ''know'': lə-maʿan ʿannōṯəḵā lə-nassōṯəḵā lāḏaʿaṯ ʾeṯ ʾăšer bi-lḇāḇəḵā
-    vs. wa-la-nabluwannakum ḥattā naʿlama l-mujāhidīna minkum wa-ṣ-ṣābirīn. The same theological point
-    in both texts: testing so that God may know, despite his knowing all. In Deuteronomy the test is the
-    wilderness and the commandments; in the Quran it is fighting and endurance.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the community ''until we know'' who strive and are patient
     (weight 6.7). Pair score 6.7.'
@@ -76,6 +53,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the community 'until we know' who strive and are patient
+kinds:
+- parallel
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-47-muhammad-hypocrites
+  title: The sick-hearted faint at the call to fight; locks on hearts; the twist of speech; God rich,
+    you poor
+  tradition: islam
+matches:
+- kind: parallel
+  label: God tests the community 'until we know' who strive and are patient
+  note: 'God tests in order to ''know'': lə-maʿan ʿannōṯəḵā lə-nassōṯəḵā lāḏaʿaṯ ʾeṯ ʾăšer bi-lḇāḇəḵā
+    vs. wa-la-nabluwannakum ḥattā naʿlama l-mujāhidīna minkum wa-ṣ-ṣābirīn. The same theological point
+    in both texts: testing so that God may know, despite his knowing all. In Deuteronomy the test is the
+    wilderness and the commandments; in the Quran it is fighting and endurance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:2
+      lang: he
+      text: וְזָכַרְתָּ֣ אֶת כָּל הַדֶּ֗רֶךְ אֲשֶׁ֨ר הֹלִֽיכֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ זֶ֛ה אַרְבָּעִ֥ים
+        שָׁנָ֖ה בַּמִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְךָ֜ לְנַסֹּֽתְךָ֗ לָדַ֜עַת אֶת אֲשֶׁ֧ר בִּֽלְבָבְךָ֛ הֲתִשְׁמֹ֥ר
+        מצותו מִצְוֺתָ֖יו אִם לֹֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 47:31
+      lang: ar
+      text: وَلَنَبْلُوَنَّكُمْ حَتَّىٰ نَعْلَمَ ٱلْمُجَٰهِدِينَ مِنكُمْ وَٱلصَّٰبِرِينَ وَنَبْلُوَا۟
+        أَخْبَارَكُمْ
 ---
 
 ## Questions

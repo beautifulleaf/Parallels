@@ -2,8 +2,7 @@
 id: motif-hb-prov-8-wisdom-at-creation-vs-quran-25-signs-shadow-seas
 title: Proverbs 8:22-31, Wisdom before and at creation ↔ The moving shadow, the night garment, the two
   seas and the constellations
-summary: 'These two units share 2 motifs: god has inscribed a circle on the face of the waters at the
-  boundary between light and darkness, a solid firmament (raqia) separates upper waters from lower waters.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,41 +16,7 @@ layers:
 motifs:
 - circle-on-waters-boundary-light-darkness
 - firmament-divides-waters
-passages:
-- tradition: judaism
-  ref: Prov 8:27
-  note: God has inscribed a circle on the face of the waters at the boundary between light and darkness
-    (He inscribed a circle (hug) on the face of the deep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּהֲכִינ֣וֹ שָׁ֭מַיִם שָׁ֣ם אָ֑נִי בְּח֥וּקוֹ ח֝֗וּג עַל פְּנֵ֥י תְהֽוֹם
-- tradition: islam
-  ref: Quran 25:53
-  note: 'God has inscribed a circle on the face of the waters at the boundary between light and darkness
-    (wa-jaʿala baynahumā barzakhan wa-ḥijran maḥjūran ~ ḥōq ḥāg ʿal pənê māyim ʿad taklît ʾôr ʿim ḥōšekh:
-    a boundary God draws on the waters; between light and darkness in Job, between sweet and salt water
-    in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا
-    بَرْزَخًا وَحِجْرًا مَّحْجُورًا
-- tradition: judaism
-  ref: Prov 8:28
-  note: A solid firmament (raqia) separates upper waters from lower waters (He made firm the skies (shehaqim)
-    above)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּאַמְּצ֣וֹ שְׁחָקִ֣ים מִמָּ֑עַל בַּ֝עֲז֗וֹז עִינ֥וֹת תְּהוֹם
-- tradition: islam
-  ref: Quran 25:53
-  note: 'A solid firmament (raqia) separates upper waters from lower waters (marajā l-baḥrayni hādhā ʿadhbun
-    furātun wa-hādhā milḥun ujājun wa-jaʿala baynahumā barzakhan ~ wî-hî mavdîl bên mayim lā-māyim: God
-    sets a barrier dividing two bodies of water. In Genesis the firmament divides upper from lower waters,
-    in the Quran a barzakh divides sweet from salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا
-    بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God has inscribed a circle on the face of the waters at the boundary
     between light and darkness (weight 6.3); A solid firmament (raqia) separates upper waters from lower
@@ -88,6 +53,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has inscribed a circle on the face of the waters at the boundary between light and darkness
+kinds:
+- shared
+units:
+- id: hb-prov-8-wisdom-at-creation
+  title: Proverbs 8:22-31, Wisdom before and at creation
+  tradition: judaism
+- id: quran-25-signs-shadow-seas
+  title: The moving shadow, the night garment, the two seas and the constellations
+  tradition: islam
+matches:
+- kind: shared
+  label: God has inscribed a circle on the face of the waters at the boundary between light and darkness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 8:27
+      lang: he
+      text: בַּהֲכִינ֣וֹ שָׁ֭מַיִם שָׁ֣ם אָ֑נִי בְּח֥וּקוֹ ח֝֗וּג עַל פְּנֵ֥י תְהֽוֹם
+    note: He inscribed a circle (hug) on the face of the deep
+  - tradition: islam
+    passages:
+    - ref: Quran 25:53
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ
+        بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+    note: 'wa-jaʿala baynahumā barzakhan wa-ḥijran maḥjūran ~ ḥōq ḥāg ʿal pənê māyim ʿad taklît ʾôr ʿim
+      ḥōšekh: a boundary God draws on the waters; between light and darkness in Job, between sweet and
+      salt water in the Quran.'
+- kind: shared
+  label: A solid firmament (raqia) separates upper waters from lower waters
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 8:28
+      lang: he
+      text: בְּאַמְּצ֣וֹ שְׁחָקִ֣ים מִמָּ֑עַל בַּ֝עֲז֗וֹז עִינ֥וֹת תְּהוֹם
+    note: He made firm the skies (shehaqim) above
+  - tradition: islam
+    passages:
+    - ref: Quran 25:53
+      lang: ar
+      text: وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ
+        بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا
+    note: 'marajā l-baḥrayni hādhā ʿadhbun furātun wa-hādhā milḥun ujājun wa-jaʿala baynahumā barzakhan
+      ~ wî-hî mavdîl bên mayim lā-māyim: God sets a barrier dividing two bodies of water. In Genesis the
+      firmament divides upper from lower waters, in the Quran a barzakh divides sweet from salt.'
 ---
 
 ## Questions

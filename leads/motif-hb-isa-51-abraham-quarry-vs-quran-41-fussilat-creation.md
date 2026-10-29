@@ -2,7 +2,7 @@
 id: motif-hb-isa-51-abraham-quarry-vs-quran-41-fussilat-creation
 title: 'Look to the rock you were hewn from ↔ Ha-Mim Fussilat: the veil between; creation in days; heaven
   as smoke'
-summary: 'These two units share 1 motifs: heaven likened to or made from smoke [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-and-smoke-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 51:6
-  note: 'Heaven likened to or made from smoke [contrast between the texts] (Heaven and smoke at opposite
-    ends of time. Isa: kî-šāmayim kə-ʿāšān nimlāḥû wə-hā-ʾāreṣ ka-bbeḡeḏ tiḇleh, the heavens will vanish
-    like smoke at the end. Q: thumma stawā ilā s-samāʾi wa-hiya dukhān, heaven was smoke at the beginning,
-    before it was formed into seven.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׂאוּ֩ לַשָּׁמַ֨יִם עֵֽינֵיכֶ֜ם וְֽהַבִּ֧יטוּ אֶל הָאָ֣רֶץ מִתַּ֗חַת כִּֽי שָׁמַ֜יִם כֶּעָשָׁ֤ן
-    נִמְלָ֨חוּ֙ וְהָאָ֨רֶץ֙ כַּבֶּ֣גֶד תִּבְלֶ֔ה וְיֹשְׁבֶ֖יהָ כְּמוֹ כֵ֣ן יְמוּת֑וּן וִישֽׁוּעָתִי֙ לְעוֹלָ֣ם
-    תִּֽהְיֶ֔ה וְצִדְקָתִ֖י לֹ֥א תֵחָֽת
-- tradition: islam
-  ref: Quran 41:11
-  note: 'Heaven likened to or made from smoke [contrast between the texts] (Heaven and smoke at opposite
-    ends of time. Isa: kî-šāmayim kə-ʿāšān nimlāḥû wə-hā-ʾāreṣ ka-bbeḡeḏ tiḇleh, the heavens will vanish
-    like smoke at the end. Q: thumma stawā ilā s-samāʾi wa-hiya dukhān, heaven was smoke at the beginning,
-    before it was formed into seven.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا
-    أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Heaven and smoke at opposite ends of time. Isa: kî-šāmayim kə-ʿāšān nimlāḥû wə-hā-ʾāreṣ
-    ka-bbeḡeḏ tiḇleh, the heavens will vanish like smoke at the end. Q: thumma stawā ilā s-samāʾi wa-hiya
-    dukhān, heaven was smoke at the beginning, before it was formed into seven.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven likened to or made from smoke [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -71,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven likened to or made from smoke
+kinds:
+- contrast
+units:
+- id: hb-isa-51-abraham-quarry
+  title: Look to the rock you were hewn from
+  tradition: judaism
+- id: quran-41-fussilat-creation
+  title: 'Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Heaven likened to or made from smoke
+  note: 'Heaven and smoke at opposite ends of time. Isa: kî-šāmayim kə-ʿāšān nimlāḥû wə-hā-ʾāreṣ ka-bbeḡeḏ
+    tiḇleh, the heavens will vanish like smoke at the end. Q: thumma stawā ilā s-samāʾi wa-hiya dukhān,
+    heaven was smoke at the beginning, before it was formed into seven.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 51:6
+      lang: he
+      text: שְׂאוּ֩ לַשָּׁמַ֨יִם עֵֽינֵיכֶ֜ם וְֽהַבִּ֧יטוּ אֶל הָאָ֣רֶץ מִתַּ֗חַת כִּֽי שָׁמַ֜יִם כֶּעָשָׁ֤ן
+        נִמְלָ֨חוּ֙ וְהָאָ֨רֶץ֙ כַּבֶּ֣גֶד תִּבְלֶ֔ה וְיֹשְׁבֶ֖יהָ כְּמוֹ כֵ֣ן יְמוּת֑וּן וִישֽׁוּעָתִי֙
+        לְעוֹלָ֣ם תִּֽהְיֶ֔ה וְצִדְקָתִ֖י לֹ֥א תֵחָֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 41:11
+      lang: ar
+      text: ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا
+        أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ
 ---
 
 ## Questions

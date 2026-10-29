@@ -2,7 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-quran-26-shuayb-ayka
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ Shuayb and the People of the Thicket;
   the day of the canopy
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 16:11
-  note: Honest balances, weights, ephah and hin are commanded (balance and scales are YHWH's; all the
-    weights of the bag are his work)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
-- tradition: islam
-  ref: Quran 26:181
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ
-- tradition: islam
-  ref: Quran 26:182
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. bi-l-qisṭāsi l-mustaqīm ~ peles û-mōʾzənê mišpāṭ la-YHWH: the just balance belongs to God.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -69,6 +49,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- echo
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-26-shuayb-ayka
+  title: Shuayb and the People of the Thicket; the day of the canopy
+  tradition: islam
+matches:
+- kind: echo
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'bi-l-qisṭāsi l-mustaqīm ~ peles û-mōʾzənê mišpāṭ la-YHWH: the just balance belongs to God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:11
+      lang: he
+      text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
+  - tradition: islam
+    passages:
+    - ref: Quran 26:182
+      lang: ar
+      text: وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ
 ---
 
 ## Questions

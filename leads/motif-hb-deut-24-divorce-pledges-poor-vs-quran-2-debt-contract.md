@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-2-debt-contract
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ The debt verse
-summary: 'These two units share 1 motifs: on a journey without a scribe a pledge in hand (rihan maqbuda)
-  is taken.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - pledge-in-hand-when-no-scribe
-passages:
-- tradition: judaism
-  ref: Deut 24:10
-  note: 'On a journey without a scribe a pledge in hand (rihan maqbuda) is taken (Deut 24:10-11 lōʾ tābōʾ
-    ʾel bêtô laʿăbōṭ ʿăbōṭô ba-ḥûṣ taʿămōd: the creditor waits outside for the pledge; Q 2:283 fa-rihānun
-    maqbūḍatun: a pledge taken in hand when no scribe is found. The HB rules protect the poor pledger;
-    the Quran uses the pledge as a substitute for a written deed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
-- tradition: judaism
-  ref: Deut 24:11
-  note: 'On a journey without a scribe a pledge in hand (rihan maqbuda) is taken (Deut 24:10-11 lōʾ tābōʾ
-    ʾel bêtô laʿăbōṭ ʿăbōṭô ba-ḥûṣ taʿămōd: the creditor waits outside for the pledge; Q 2:283 fa-rihānun
-    maqbūḍatun: a pledge taken in hand when no scribe is found. The HB rules protect the poor pledger;
-    the Quran uses the pledge as a substitute for a written deed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט הַחֽוּצָה
-- tradition: islam
-  ref: Quran 2:283
-  note: On a journey without a scribe a pledge in hand (rihan maqbuda) is taken
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ فَإِنْ أَمِنَ بَعْضُكُم
-    بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا تَكْتُمُوا۟
-    ٱلشَّهَٰدَةَ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 24:10-11 lōʾ tābōʾ ʾel bêtô laʿăbōṭ ʿăbōṭô ba-ḥûṣ taʿămōd: the creditor waits outside for
-    the pledge; Q 2:283 fa-rihānun maqbūḍatun: a pledge taken in hand when no scribe is found. The HB
-    rules protect the poor pledger; the Quran uses the pledge as a substitute for a written deed.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On a journey without a scribe a pledge in hand (rihan maqbuda) is
     taken (weight 6.7). Pair score 6.7.'
@@ -74,6 +44,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On a journey without a scribe a pledge in hand (rihan maqbuda) is taken
+kinds:
+- echo
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-2-debt-contract
+  title: The debt verse
+  tradition: islam
+matches:
+- kind: echo
+  label: On a journey without a scribe a pledge in hand (rihan maqbuda) is taken
+  note: 'Deut 24:10-11 lōʾ tābōʾ ʾel bêtô laʿăbōṭ ʿăbōṭô ba-ḥûṣ taʿămōd: the creditor waits outside for
+    the pledge; Q 2:283 fa-rihānun maqbūḍatun: a pledge taken in hand when no scribe is found. The HB
+    rules protect the poor pledger; the Quran uses the pledge as a substitute for a written deed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:10
+      lang: he
+      text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
+    - ref: Deut 24:11
+      lang: he
+      text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט
+        הַחֽוּצָה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:283
+      lang: ar
+      text: وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا۟ كَاتِبًا فَرِهَٰنٌ مَّقْبُوضَةٌ فَإِنْ أَمِنَ
+        بَعْضُكُم بَعْضًا فَلْيُؤَدِّ ٱلَّذِى ٱؤْتُمِنَ أَمَٰنَتَهُۥ وَلْيَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا
+        تَكْتُمُوا۟ ٱلشَّهَٰدَةَ وَمَن يَكْتُمْهَا فَإِنَّهُۥٓ ءَاثِمٌ قَلْبُهُۥ وَٱللَّهُ بِمَا تَعْمَلُونَ
+        عَلِيمٌ
 ---
 
 ## Questions

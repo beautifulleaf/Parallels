@@ -2,8 +2,7 @@
 id: motif-hb-joel-2-army-and-repentance-vs-quran-40-throne-bearers
 title: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration ↔ Ha-Mim: the Forgiver;
   the throne-bearers pray for the believers'
-summary: 'These two units share 1 motifs: formula: ''gracious and merciful, slow to anger, abounding in
-  steadfast love, relenting of evil''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - gracious-merciful-slow-to-anger-formula
-passages:
-- tradition: judaism
-  ref: Joel 2:13
-  note: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְקִרְע֤וּ לְבַבְכֶם֙ וְאַל בִּגְדֵיכֶ֔ם וְשׁ֖וּבוּ אֶל יְהוָ֣ה אֱלֹֽהֵיכֶ֑ם כִּֽי חַנּ֤וּן וְרַחוּם֙
-    ה֔וּא אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב חֶ֔סֶד וְנִחָ֖ם עַל הָרָעָֽה
-- tradition: islam
-  ref: Quran 40:3
-  note: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil''
-    (forgiving yet severe in punishment, compare Exod 34:6-7)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا هُوَ
-    إِلَيْهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-šûḇû ʾel-YHWH ʾĕlōhêḵem kî-ḥannûn wə-raḥûm hûʾ ... wə-niḥām ʿal-hā-rāʿâ vs. ghāfiri dh-dhanbi
-    wa-qābili t-tawb: the formula tied to the call to repent (šûḇ / tawba).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Formula: ''gracious and merciful, slow to anger, abounding in steadfast
     love, relenting of evil'' (weight 6.3). Pair score 6.3.'
@@ -71,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'''
+kinds:
+- echo
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-40-throne-bearers
+  title: 'Ha-Mim: the Forgiver; the throne-bearers pray for the believers'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Formula: ''gracious and merciful, slow to anger, abounding in steadfast love, relenting of evil'''
+  note: 'wə-šûḇû ʾel-YHWH ʾĕlōhêḵem kî-ḥannûn wə-raḥûm hûʾ ... wə-niḥām ʿal-hā-rāʿâ vs. ghāfiri dh-dhanbi
+    wa-qābili t-tawb: the formula tied to the call to repent (šûḇ / tawba).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:13
+      lang: he
+      text: וְקִרְע֤וּ לְבַבְכֶם֙ וְאַל בִּגְדֵיכֶ֔ם וְשׁ֖וּבוּ אֶל יְהוָ֣ה אֱלֹֽהֵיכֶ֑ם כִּֽי חַנּ֤וּן
+        וְרַחוּם֙ ה֔וּא אֶ֤רֶךְ אַפַּ֨יִם֙ וְרַב חֶ֔סֶד וְנִחָ֖ם עַל הָרָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 40:3
+      lang: ar
+      text: غَافِرِ ٱلذَّنۢبِ وَقَابِلِ ٱلتَّوْبِ شَدِيدِ ٱلْعِقَابِ ذِى ٱلطَّوْلِ لَآ إِلَٰهَ إِلَّا
+        هُوَ إِلَيْهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

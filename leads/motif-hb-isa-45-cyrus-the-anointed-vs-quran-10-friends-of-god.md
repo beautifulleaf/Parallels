@@ -2,8 +2,7 @@
 id: motif-hb-isa-45-cyrus-the-anointed-vs-quran-10-friends-of-god
 title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow ↔ Healing
   for hearts, the atom's weight, God has no son
-summary: 'These two units share 1 motifs: ''i form light and create darkness, make peace and create evil
-  (ra''); i yhwh do all these''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - god-creates-light-and-darkness-peace-and-evil
-passages:
-- tradition: judaism
-  ref: Isa 45:7
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל אֵֽלֶּה
-- tradition: islam
-  ref: Quran 10:67
-  note: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these''
-    (yôṣēr ʾôr ûbôrēʾ ḥōšek vs huwa lladhī jaʿala lakumu l-layla ... wa-n-nahāra mubṣiran: God as maker
-    of both night and day.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. yôṣēr ʾôr ûbôrēʾ ḥōšek vs huwa lladhī jaʿala lakumu l-layla ... wa-n-nahāra mubṣiran: God as
-    maker of both night and day.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''I form light and create darkness, make peace and create evil (ra'');
     I YHWH do all these'' (weight 6.0). Pair score 6.0.'
@@ -69,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+kinds:
+- echo
+units:
+- id: hb-isa-45-cyrus-the-anointed
+  title: Cyrus the anointed; I form light and create darkness; the potter; every knee shall bow
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: echo
+  label: '''I form light and create darkness, make peace and create evil (ra''); I YHWH do all these'''
+  note: 'yôṣēr ʾôr ûbôrēʾ ḥōšek vs huwa lladhī jaʿala lakumu l-layla ... wa-n-nahāra mubṣiran: God as
+    maker of both night and day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 45:7
+      lang: he
+      text: יוֹצֵ֥ר אוֹר֙ וּבוֹרֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁל֖וֹם וּב֣וֹרֵא רָ֑ע אֲנִ֥י יְהוָ֖ה עֹשֶׂ֥ה כָל
+        אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:67
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
 ---
 
 ## Questions

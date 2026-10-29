@@ -2,10 +2,7 @@
 id: motif-hb-2sam-6-ark-uzzah-dance-vs-hb-1chr-13-uzza-and-the-ark
 title: The ark brought to Jerusalem; Uzzah struck; David dances; Michal despises him ↔ The first attempt
   to bring up the ark; Uzza struck down
-summary: 'These two units share 6 motifs: a man who reaches out to steady the ark when the oxen stumble
-  is struck dead, the ark is carried on a new cart drawn by oxen, the ark stays three months in a foreigner''s
-  house and god blesses his household, the ark is brought up in procession with singing, lyres, harps,
-  drums, cymbals and trumpets….'
+summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -15,153 +12,16 @@ traditions:
 layers:
 - motif
 motifs:
-- touching-ark-death
 - ark-on-new-cart
+- touching-ark-death
 - ark-blesses-host-household
 - ark-brought-up-with-music
 - baalah-kiriath-jearim
 - enthroned-on-cherubim
-passages:
-- tradition: judaism
-  ref: 2Sam 6:6
-  note: A man who reaches out to steady the ark when the oxen stumble is struck dead (Uzzah steadies the
-    ark when the oxen stumble at the threshing floor of Nacon; struck 'for the error (shal)')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן נָכ֑וֹן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶל אֲר֤וֹן הָֽאֱלֹהִים֙ וַיֹּ֣אחֶז בּ֔וֹ
-    כִּ֥י שָׁמְט֖וּ הַבָּקָֽר
-- tradition: judaism
-  ref: 2Sam 6:7
-  note: A man who reaches out to steady the ark when the oxen stumble is struck dead (Uzzah steadies the
-    ark when the oxen stumble at the threshing floor of Nacon; struck 'for the error (shal)')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔ה וַיַּכֵּ֥הוּ שָׁ֛ם הָאֱלֹהִ֖ים עַל הַשַּׁ֑ל וַיָּ֣מָת שָׁ֔ם
-    עִ֖ם אֲר֥וֹן הָאֱלֹהִֽים
-- tradition: judaism
-  ref: 1Chr 13:9
-  note: A man who reaches out to steady the ark when the oxen stumble is struck dead (at the threshing
-    floor of Chidon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן כִּידֹ֑ן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶת יָד֗וֹ לֶאֱחֹז֙ אֶת הָ֣אָר֔וֹן כִּ֥י
-    שָֽׁמְט֖וּ הַבָּקָֽר
-- tradition: judaism
-  ref: 1Chr 13:10
-  note: A man who reaches out to steady the ark when the oxen stumble is struck dead (at the threshing
-    floor of Chidon)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔א וַיַּכֵּ֕הוּ עַ֛ל אֲשֶׁר שָׁלַ֥ח יָד֖וֹ עַל הָאָר֑וֹן וַיָּ֥מָת
-    שָׁ֖ם לִפְנֵ֥י אֱלֹהִֽים
-- tradition: judaism
-  ref: 2Sam 6:3
-  note: The ark is carried on a new cart drawn by oxen
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְכִּ֜בוּ אֶת אֲר֤וֹן הָֽאֱלֹהִים֙ אֶל עֲגָלָ֣ה חֲדָשָׁ֔ה וַיִּשָּׂאֻ֔הוּ מִבֵּ֥ית אֲבִינָדָ֖ב
-    אֲשֶׁ֣ר בַּגִּבְעָ֑ה וְעֻזָּ֣א וְאַחְי֗וֹ בְּנֵי֙ אֲבִ֣ינָדָ֔ב נֹהֲגִ֖ים אֶת הָעֲגָלָ֥ה חֲדָשָֽׁה
-- tradition: judaism
-  ref: 1Chr 13:7
-  note: The ark is carried on a new cart drawn by oxen
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְכִּ֜יבוּ אֶת אֲר֤וֹן הָאֱלֹהִים֙ עַל עֲגָלָ֣ה חֲדָשָׁ֔ה מִבֵּ֖ית אֲבִינָדָ֑ב וְעֻזָּ֣א
-    וְאַחְי֔וֹ נֹהֲגִ֖ים בָּעֲגָלָֽה
-- tradition: judaism
-  ref: 2Sam 6:11
-  note: The ark stays three months in a foreigner's house and God blesses his household (Obed-edom the
-    Gittite, three months)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּשֶׁב֩ אֲר֨וֹן יְהוָ֜ה בֵּ֣ית עֹבֵ֥ד אֱדֹ֛ם הַגִּתִּ֖י שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ יְהוָ֛ה
-    אֶת עֹבֵ֥ד אֱדֹ֖ם וְאֶת כָּל בֵּיתֽוֹ
-- tradition: judaism
-  ref: 2Sam 6:12
-  note: The ark stays three months in a foreigner's house and God blesses his household (Obed-edom the
-    Gittite, three months)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֻּגַּ֗ד לַמֶּ֣לֶךְ דָּוִד֮ לֵאמֹר֒ בֵּרַ֣ךְ יְהוָ֗ה אֶת בֵּ֨ית עֹבֵ֤ד אֱדֹם֙ וְאֶת כָּל אֲשֶׁר
-    ל֔וֹ בַּעֲב֖וּר אֲר֣וֹן הָאֱלֹהִ֑ים וַיֵּ֣לֶךְ דָּוִ֗ד וַיַּעַל֩ אֶת אֲר֨וֹן הָאֱלֹהִ֜ים מִבֵּ֨ית
-    עֹבֵ֥ד אֱדֹ֛ם עִ֥יר דָּוִ֖ד בְּשִׂמְחָֽה
-- tradition: judaism
-  ref: 1Chr 13:13
-  note: The ark stays three months in a foreigner's house and God blesses his household (Obed-edom the
-    Gittite)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹֽא הֵסִ֨יר דָּוִ֧יד אֶת הָאָר֛וֹן אֵלָ֖יו אֶל עִ֣יר דָּוִ֑יד וַיַּטֵּ֕הוּ אֶל בֵּ֥ית עֹבֵֽד
-    אֱדֹ֖ם הַגִּתִּֽי
-- tradition: judaism
-  ref: 1Chr 13:14
-  note: The ark stays three months in a foreigner's house and God blesses his household (Obed-edom the
-    Gittite)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּשֶׁב֩ אֲר֨וֹן הָאֱלֹהִ֜ים עִם בֵּ֨ית עֹבֵ֥ד אֱדֹ֛ם בְּבֵית֖וֹ שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ
-    יְהוָ֛ה אֶת בֵּ֥ית עֹבֵֽד אֱדֹ֖ם וְאֶת כָּל אֲשֶׁר לֽוֹ
-- tradition: judaism
-  ref: 2Sam 6:5
-  note: The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets (Cypress
-    instruments, lyres, harps, drums, sistrums (mena'an'im), cymbals; shofar and terua)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָוִ֣ד וְכָל בֵּ֣ית יִשְׂרָאֵ֗ל מְשַֽׂחֲקִים֙ לִפְנֵ֣י יְהוָ֔ה בְּכֹ֖ל עֲצֵ֣י בְרוֹשִׁ֑ים וּבְכִנֹּר֤וֹת
-    וּבִנְבָלִים֙ וּבְתֻפִּ֔ים וּבִמְנַֽעַנְעִ֖ים וּֽבְצֶלְצֶלִֽים
-- tradition: judaism
-  ref: 2Sam 6:14
-  note: The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets (Cypress
-    instruments, lyres, harps, drums, sistrums (mena'an'im), cymbals; shofar and terua)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָוִ֛ד מְכַרְכֵּ֥ר בְּכָל עֹ֖ז לִפְנֵ֣י יְהוָ֑ה וְדָוִ֕ד חָג֖וּר אֵפ֥וֹד בָּֽד
-- tradition: judaism
-  ref: 1Chr 13:8
-  note: The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָוִ֣יד וְכָל יִשְׂרָאֵ֗ל מְשַׂחֲקִ֛ים לִפְנֵ֥י הָאֱלֹהִ֖ים בְּכָל עֹ֑ז וּבְשִׁירִ֤ים וּבְכִנֹּרוֹת֙
-    וּבִנְבָלִ֣ים וּבְתֻפִּ֔ים וּבִמְצִלְתַּ֖יִם וּבַחֲצֹצְרֽוֹת
-- tradition: judaism
-  ref: 2Sam 6:2
-  note: Kiriath-jearim also called Baalah or Kiriath-baal (Baale-judah)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣קָם וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲל֣וֹת מִשָּׁ֗ם
-    אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים אֲשֶׁר נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָא֛וֹת יֹשֵׁ֥ב הַכְּרֻבִ֖ים עָלָֽיו
-- tradition: judaism
-  ref: 1Chr 13:5
-  note: Kiriath-jearim also called Baalah or Kiriath-baal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּקְהֵ֤ל דָּוִיד֙ אֶת כָּל יִשְׂרָאֵ֔ל מִן שִׁיח֥וֹר מִצְרַ֖יִם וְעַד לְב֣וֹא חֲמָ֑ת לְהָבִיא֙
-    אֶת אֲר֣וֹן הָאֱלֹהִ֔ים מִקִּרְיַ֖ת יְעָרִֽים
-- tradition: judaism
-  ref: 1Chr 13:6
-  note: Kiriath-jearim also called Baalah or Kiriath-baal
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַל דָּוִ֤יד וְכָל יִשְׂרָאֵל֙ בַּעֲלָ֔תָה אֶל קִרְיַ֥ת יְעָרִ֖ים אֲשֶׁ֣ר לִיהוּדָ֑ה לְהַעֲל֣וֹת
-    מִשָּׁ֗ם אֵת֩ אֲר֨וֹן הָאֱלֹהִ֧ים יְהוָ֛ה יוֹשֵׁ֥ב הַכְּרוּבִ֖ים אֲשֶׁר נִקְרָ֥א שֵֽׁם
-- tradition: judaism
-  ref: 2Sam 6:2
-  note: God addressed as enthroned (yoshev) on the cherubim ('Name called by the name of YHWH Sabaoth
-    who sits on the cherubim')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֣קָם וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲל֣וֹת מִשָּׁ֗ם
-    אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים אֲשֶׁר נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָא֛וֹת יֹשֵׁ֥ב הַכְּרֻבִ֖ים עָלָֽיו
-- tradition: judaism
-  ref: 1Chr 13:6
-  note: God addressed as enthroned (yoshev) on the cherubim
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַל דָּוִ֤יד וְכָל יִשְׂרָאֵל֙ בַּעֲלָ֔תָה אֶל קִרְיַ֥ת יְעָרִ֖ים אֲשֶׁ֣ר לִיהוּדָ֑ה לְהַעֲל֣וֹת
-    מִשָּׁ֗ם אֵת֩ אֲר֨וֹן הָאֱלֹהִ֧ים יְהוָ֛ה יוֹשֵׁ֥ב הַכְּרוּבִ֖ים אֲשֶׁר נִקְרָ֥א שֵֽׁם
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: A man who reaches out to steady the ark when the oxen stumble is
-    struck dead (weight 6.7); The ark is carried on a new cart drawn by oxen (weight 6.7); The ark stays
+- text: 'Shared motifs, rarest first: The ark is carried on a new cart drawn by oxen (weight 6.7); A man
+    who reaches out to steady the ark when the oxen stumble is struck dead (weight 6.7); The ark stays
     three months in a foreigner''s house and God blesses his household (weight 6.7); The ark is brought
     up in procession with singing, lyres, harps, drums, cymbals and trumpets (weight 6.3); Kiriath-jearim
     also called Baalah or Kiriath-baal (weight 6.0); God addressed as enthroned (yoshev) on the cherubim
@@ -186,6 +46,144 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The ark is carried on a new cart drawn by oxen
+kinds:
+- shared
+units:
+- id: hb-2sam-6-ark-uzzah-dance
+  title: The ark brought to Jerusalem; Uzzah struck; David dances; Michal despises him
+  tradition: judaism
+- id: hb-1chr-13-uzza-and-the-ark
+  title: The first attempt to bring up the ark; Uzza struck down
+  tradition: judaism
+matches:
+- kind: shared
+  label: The ark is carried on a new cart drawn by oxen
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:3
+      lang: he
+      text: וַיַּרְכִּ֜בוּ אֶת אֲר֤וֹן הָֽאֱלֹהִים֙ אֶל עֲגָלָ֣ה חֲדָשָׁ֔ה וַיִּשָּׂאֻ֔הוּ מִבֵּ֥ית אֲבִינָדָ֖ב
+        אֲשֶׁ֣ר בַּגִּבְעָ֑ה וְעֻזָּ֣א וְאַחְי֗וֹ בְּנֵי֙ אֲבִ֣ינָדָ֔ב נֹהֲגִ֖ים אֶת הָעֲגָלָ֥ה חֲדָשָֽׁה
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:7
+      lang: he
+      text: וַיַּרְכִּ֜יבוּ אֶת אֲר֤וֹן הָאֱלֹהִים֙ עַל עֲגָלָ֣ה חֲדָשָׁ֔ה מִבֵּ֖ית אֲבִינָדָ֑ב וְעֻזָּ֣א
+        וְאַחְי֔וֹ נֹהֲגִ֖ים בָּעֲגָלָֽה
+- kind: shared
+  label: A man who reaches out to steady the ark when the oxen stumble is struck dead
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:6
+      lang: he
+      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן נָכ֑וֹן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶל אֲר֤וֹן הָֽאֱלֹהִים֙ וַיֹּ֣אחֶז בּ֔וֹ
+        כִּ֥י שָׁמְט֖וּ הַבָּקָֽר
+    - ref: 2Sam 6:7
+      lang: he
+      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔ה וַיַּכֵּ֥הוּ שָׁ֛ם הָאֱלֹהִ֖ים עַל הַשַּׁ֑ל וַיָּ֣מָת שָׁ֔ם
+        עִ֖ם אֲר֥וֹן הָאֱלֹהִֽים
+    note: Uzzah steadies the ark when the oxen stumble at the threshing floor of Nacon; struck 'for the
+      error (shal)'
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:9
+      lang: he
+      text: וַיָּבֹ֖אוּ עַד גֹּ֣רֶן כִּידֹ֑ן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶת יָד֗וֹ לֶאֱחֹז֙ אֶת הָ֣אָר֔וֹן כִּ֥י
+        שָֽׁמְט֖וּ הַבָּקָֽר
+    - ref: 1Chr 13:10
+      lang: he
+      text: וַיִּֽחַר אַ֤ף יְהוָה֙ בְּעֻזָּ֔א וַיַּכֵּ֕הוּ עַ֛ל אֲשֶׁר שָׁלַ֥ח יָד֖וֹ עַל הָאָר֑וֹן וַיָּ֥מָת
+        שָׁ֖ם לִפְנֵ֥י אֱלֹהִֽים
+    note: at the threshing floor of Chidon
+- kind: shared
+  label: The ark stays three months in a foreigner's house and God blesses his household
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:11
+      lang: he
+      text: וַיֵּשֶׁב֩ אֲר֨וֹן יְהוָ֜ה בֵּ֣ית עֹבֵ֥ד אֱדֹ֛ם הַגִּתִּ֖י שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ
+        יְהוָ֛ה אֶת עֹבֵ֥ד אֱדֹ֖ם וְאֶת כָּל בֵּיתֽוֹ
+    - ref: 2Sam 6:12
+      lang: he
+      text: וַיֻּגַּ֗ד לַמֶּ֣לֶךְ דָּוִד֮ לֵאמֹר֒ בֵּרַ֣ךְ יְהוָ֗ה אֶת בֵּ֨ית עֹבֵ֤ד אֱדֹם֙ וְאֶת כָּל
+        אֲשֶׁר ל֔וֹ בַּעֲב֖וּר אֲר֣וֹן הָאֱלֹהִ֑ים וַיֵּ֣לֶךְ דָּוִ֗ד וַיַּעַל֩ אֶת אֲר֨וֹן הָאֱלֹהִ֜ים
+        מִבֵּ֨ית עֹבֵ֥ד אֱדֹ֛ם עִ֥יר דָּוִ֖ד בְּשִׂמְחָֽה
+    note: Obed-edom the Gittite, three months
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:13
+      lang: he
+      text: וְלֹֽא הֵסִ֨יר דָּוִ֧יד אֶת הָאָר֛וֹן אֵלָ֖יו אֶל עִ֣יר דָּוִ֑יד וַיַּטֵּ֕הוּ אֶל בֵּ֥ית עֹבֵֽד
+        אֱדֹ֖ם הַגִּתִּֽי
+    - ref: 1Chr 13:14
+      lang: he
+      text: וַיֵּשֶׁב֩ אֲר֨וֹן הָאֱלֹהִ֜ים עִם בֵּ֨ית עֹבֵ֥ד אֱדֹ֛ם בְּבֵית֖וֹ שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ
+        יְהוָ֛ה אֶת בֵּ֥ית עֹבֵֽד אֱדֹ֖ם וְאֶת כָּל אֲשֶׁר לֽוֹ
+    note: Obed-edom the Gittite
+- kind: shared
+  label: The ark is brought up in procession with singing, lyres, harps, drums, cymbals and trumpets
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:5
+      lang: he
+      text: וְדָוִ֣ד וְכָל בֵּ֣ית יִשְׂרָאֵ֗ל מְשַֽׂחֲקִים֙ לִפְנֵ֣י יְהוָ֔ה בְּכֹ֖ל עֲצֵ֣י בְרוֹשִׁ֑ים
+        וּבְכִנֹּר֤וֹת וּבִנְבָלִים֙ וּבְתֻפִּ֔ים וּבִמְנַֽעַנְעִ֖ים וּֽבְצֶלְצֶלִֽים
+    - ref: 2Sam 6:14
+      lang: he
+      text: וְדָוִ֛ד מְכַרְכֵּ֥ר בְּכָל עֹ֖ז לִפְנֵ֣י יְהוָ֑ה וְדָוִ֕ד חָג֖וּר אֵפ֥וֹד בָּֽד
+    - ref: 2Sam 6:15
+      lang: he
+      text: וְדָוִד֙ וְכָל בֵּ֣ית יִשְׂרָאֵ֔ל מַעֲלִ֖ים אֶת אֲר֣וֹן יְהוָ֑ה בִּתְרוּעָ֖ה וּבְק֥וֹל שׁוֹפָֽר
+    note: Cypress instruments, lyres, harps, drums, sistrums (mena'an'im), cymbals; shofar and terua
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:8
+      lang: he
+      text: וְדָוִ֣יד וְכָל יִשְׂרָאֵ֗ל מְשַׂחֲקִ֛ים לִפְנֵ֥י הָאֱלֹהִ֖ים בְּכָל עֹ֑ז וּבְשִׁירִ֤ים וּבְכִנֹּרוֹת֙
+        וּבִנְבָלִ֣ים וּבְתֻפִּ֔ים וּבִמְצִלְתַּ֖יִם וּבַחֲצֹצְרֽוֹת
+- kind: shared
+  label: Kiriath-jearim also called Baalah or Kiriath-baal
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:2
+      lang: he
+      text: וַיָּ֣קָם וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲל֣וֹת
+        מִשָּׁ֗ם אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים אֲשֶׁר נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָא֛וֹת יֹשֵׁ֥ב הַכְּרֻבִ֖ים
+        עָלָֽיו
+    note: Baale-judah
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:5
+      lang: he
+      text: וַיַּקְהֵ֤ל דָּוִיד֙ אֶת כָּל יִשְׂרָאֵ֔ל מִן שִׁיח֥וֹר מִצְרַ֖יִם וְעַד לְב֣וֹא חֲמָ֑ת לְהָבִיא֙
+        אֶת אֲר֣וֹן הָאֱלֹהִ֔ים מִקִּרְיַ֖ת יְעָרִֽים
+    - ref: 1Chr 13:6
+      lang: he
+      text: וַיַּ֨עַל דָּוִ֤יד וְכָל יִשְׂרָאֵל֙ בַּעֲלָ֔תָה אֶל קִרְיַ֥ת יְעָרִ֖ים אֲשֶׁ֣ר לִיהוּדָ֑ה
+        לְהַעֲל֣וֹת מִשָּׁ֗ם אֵת֩ אֲר֨וֹן הָאֱלֹהִ֧ים יְהוָ֛ה יוֹשֵׁ֥ב הַכְּרוּבִ֖ים אֲשֶׁר נִקְרָ֥א שֵֽׁם
+- kind: shared
+  label: God addressed as enthroned (yoshev) on the cherubim
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 6:2
+      lang: he
+      text: וַיָּ֣קָם וַיֵּ֣לֶךְ דָּוִ֗ד וְכָל הָעָם֙ אֲשֶׁ֣ר אִתּ֔וֹ מִֽבַּעֲלֵ֖י יְהוּדָ֑ה לְהַעֲל֣וֹת
+        מִשָּׁ֗ם אֵ֚ת אֲר֣וֹן הָאֱלֹהִ֔ים אֲשֶׁר נִקְרָ֣א שֵׁ֗ם שֵׁ֣ם יְהוָ֧ה צְבָא֛וֹת יֹשֵׁ֥ב הַכְּרֻבִ֖ים
+        עָלָֽיו
+    note: '''Name called by the name of YHWH Sabaoth who sits on the cherubim'''
+  - tradition: judaism
+    passages:
+    - ref: 1Chr 13:6
+      lang: he
+      text: וַיַּ֨עַל דָּוִ֤יד וְכָל יִשְׂרָאֵל֙ בַּעֲלָ֔תָה אֶל קִרְיַ֥ת יְעָרִ֖ים אֲשֶׁ֣ר לִיהוּדָ֑ה
+        לְהַעֲל֣וֹת מִשָּׁ֗ם אֵת֩ אֲר֨וֹן הָאֱלֹהִ֧ים יְהוָ֛ה יוֹשֵׁ֥ב הַכְּרוּבִ֖ים אֲשֶׁר נִקְרָ֥א שֵֽׁם
 ---
 
 ## Questions

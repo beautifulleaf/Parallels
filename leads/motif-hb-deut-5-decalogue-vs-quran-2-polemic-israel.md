@@ -1,10 +1,7 @@
 ---
 id: motif-hb-deut-5-decalogue-vs-quran-2-polemic-israel
 title: The Decalogue restated and the people's fear at Horeb ↔ Polemic with the People of the Book
-summary: 'These two units share 4 motifs: worship of god alone joined to duty to parents [divergence between
-  the texts], the people''s answer to the covenant (''we hear ...'') [response between the texts], honor
-  father and mother, with the promise of long life, prohibitions of murder, adultery, theft and false
-  witness.'
+summary: '3 correspondences read side by side: 1 deliberately changed, 1 answers the other, 1 same element.'
 status: new
 relations:
 - convergence
@@ -21,122 +18,9 @@ motifs:
 - peoples-answer-to-the-covenant-as-response
 - honor-parents-long-life
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Deut 5:7
-  note: 'Worship of God alone joined to duty to parents [divergence between the texts] (Deut 5:7, 5:16
-    lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā: no other gods, then honour of
-    parents; Q 2:83 mīthāqa banī isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan: the covenant
-    with Israel starts with the same two, then adds kin, orphans and the poor, kind speech, prayer and
-    alms (ṣalāt, zakāt). The promise of long life in the land is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: judaism
-  ref: Deut 5:16
-  note: 'Worship of God alone joined to duty to parents [divergence between the texts] (Deut 5:7, 5:16
-    lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā: no other gods, then honour of
-    parents; Q 2:83 mīthāqa banī isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan: the covenant
-    with Israel starts with the same two, then adds kin, orphans and the poor, kind speech, prayer and
-    alms (ṣalāt, zakāt). The promise of long life in the land is dropped.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 2:83
-  note: 'Worship of God alone joined to duty to parents [divergence between the texts] (Deut 5:7, 5:16
-    lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā: no other gods, then honour of
-    parents; Q 2:83 mīthāqa banī isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni iḥsānan: the covenant
-    with Israel starts with the same two, then adds kin, orphans and the poor, kind speech, prayer and
-    alms (ṣalāt, zakāt). The promise of long life in the land is dropped.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
-    ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
-- tradition: judaism
-  ref: Deut 5:27
-  note: The people's answer to the covenant ('we hear ...') [response between the texts] (Deut 5:27 ...
-    wĕ-šāmaʿnû wĕ-ʿāśînû 'and we will hear and do'; Q 2:93 khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū
-    samiʿnā wa-ʿaṣaynā 'we hear and we disobey'. The covenant answer is kept in form (š-m-ʿ / s-m-ʿ, first
-    plural) with the second verb turned into its opposite.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קְרַ֤ב אַתָּה֙ וּֽשֲׁמָ֔ע אֵ֛ת כָּל אֲשֶׁ֥ר יֹאמַ֖ר יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאַ֣תְּ תְּדַבֵּ֣ר אֵלֵ֗ינוּ
-    אֵת֩ כָּל אֲשֶׁ֨ר יְדַבֵּ֜ר יְהוָ֧ה אֱלֹהֵ֛ינוּ אֵלֶ֖יךָ וְשָׁמַ֥עְנוּ וְעָשִֽׂינוּ
-- tradition: islam
-  ref: Quran 2:93
-  note: The people's answer to the covenant ('we hear ...') [response between the texts] (Deut 5:27 ...
-    wĕ-šāmaʿnû wĕ-ʿāśînû 'and we will hear and do'; Q 2:93 khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū
-    samiʿnā wa-ʿaṣaynā 'we hear and we disobey'. The covenant answer is kept in form (š-m-ʿ / s-m-ʿ, first
-    plural) with the second verb turned into its opposite.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
-    وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ قُلْ
-    بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
-- tradition: judaism
-  ref: Deut 5:16
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
-    יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: islam
-  ref: Quran 2:83
-  note: 'Honor father and mother, with the promise of long life (covenant: worship only God, be good to
-    parents, kin, orphans, the poor)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
-    ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 2:84
-  note: 'Prohibitions of murder, adultery, theft and false witness (Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā
-    mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum: the covenant ban on bloodshed,
-    applied within the community and joined with a ban on expelling one''s own.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمْ
-    ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
-- tradition: islam
-  ref: Quran 2:85
-  note: 'Prohibitions of murder, adultery, theft and false witness (Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā
-    mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum: the covenant ban on bloodshed,
-    applied within the community and joined with a ban on expelling one''s own.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ
-    تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ
-    مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا
-    جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ
-    يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, parallel, response. Deut 5:27 ... wĕ-šāmaʿnû wĕ-ʿāśînû ''and we will hear and do''; Q
-    2:93 khudhū mā ātaynākum bi-quwwatin wa-smaʿū qālū samiʿnā wa-ʿaṣaynā ''we hear and we disobey''.
-    The covenant answer is kept in form (š-m-ʿ / s-m-ʿ, first plural) with the second verb turned into
-    its opposite. Deut 5:7, 5:16 lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā:
-    no other gods, then honour of parents; Q 2:83 mīthāqa banī isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni
-    iḥsānan: the covenant with Israel starts with the same two, then adds kin, orphans and the poor, kind
-    speech, prayer and alms (ṣalāt, zakāt). The promise of long life in the land is dropped. Deut 5:17
-    lōʾ tirṣāḥ; Q 2:84 akhadhnā mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum:
-    the covenant ban on bloodshed, applied within the community and joined with a ban on expelling one''s
-    own.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Worship of God alone joined to duty to parents [divergence between
     the texts] (weight 6.7); The people''s answer to the covenant (''we hear ...'') [response between
@@ -172,6 +56,103 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Worship of God alone joined to duty to parents
+kinds:
+- divergence
+- response
+- parallel
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: Worship of God alone joined to duty to parents
+  note: 'Deut 5:7, 5:16 lōʾ yihyeh lĕkā ʾĕlōhîm ʾăḥērîm ... kabbēd ʾet ʾābîkā wĕ-ʾet ʾimmekā: no other
+    gods, then honour of parents; Q 2:83 mīthāqa banī isrāʾīla lā taʿbudūna illā llāha wa-bi-l-wālidayni
+    iḥsānan: the covenant with Israel starts with the same two, then adds kin, orphans and the poor, kind
+    speech, prayer and alms (ṣalāt, zakāt). The promise of long life in the land is dropped.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:7
+      lang: he
+      text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    - ref: Deut 5:16
+      lang: he
+      text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+        יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:83
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
+        إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
+        ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
+- kind: response
+  label: The people's answer to the covenant ('we hear ...')
+  note: Deut 5:27 ... wĕ-šāmaʿnû wĕ-ʿāśînû 'and we will hear and do'; Q 2:93 khudhū mā ātaynākum bi-quwwatin
+    wa-smaʿū qālū samiʿnā wa-ʿaṣaynā 'we hear and we disobey'. The covenant answer is kept in form (š-m-ʿ
+    / s-m-ʿ, first plural) with the second verb turned into its opposite.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:27
+      lang: he
+      text: קְרַ֤ב אַתָּה֙ וּֽשֲׁמָ֔ע אֵ֛ת כָּל אֲשֶׁ֥ר יֹאמַ֖ר יְהוָ֣ה אֱלֹהֵ֑ינוּ וְאַ֣תְּ תְּדַבֵּ֣ר
+        אֵלֵ֗ינוּ אֵת֩ כָּל אֲשֶׁ֨ר יְדַבֵּ֜ר יְהוָ֧ה אֱלֹהֵ֛ינוּ אֵלֶ֖יךָ וְשָׁמַ֥עְנוּ וְעָשִֽׂינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:93
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ خُذُوا۟ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ
+        وَٱسْمَعُوا۟ قَالُوا۟ سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+        قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+- kind: parallel
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum
+    min diyārikum: the covenant ban on bloodshed, applied within the community and joined with a ban on
+    expelling one''s own.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+  - tradition: islam
+    passages:
+    - ref: Quran 2:84
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن
+        دِيَٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
+    - ref: Quran 2:85
+      lang: ar
+      text: ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ
+        تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ
+        مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ
+        فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ
+        ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+- kind: shared
+  label: Honor father and mother, with the promise of long life
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:16
+      lang: he
+      text: כַּבֵּ֤ד אֶת אָבִ֨יךָ֙ וְאֶת אִמֶּ֔ךָ כַּאֲשֶׁ֥ר צִוְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ לְמַ֣עַן יַאֲרִיכֻ֣ן
+        יָמֶ֗יךָ וּלְמַ֨עַן֙ יִ֣יטַב לָ֔ךְ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:83
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
+        إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
+        ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
+    note: 'covenant: worship only God, be good to parents, kin, orphans, the poor'
 ---
 
 ## Questions

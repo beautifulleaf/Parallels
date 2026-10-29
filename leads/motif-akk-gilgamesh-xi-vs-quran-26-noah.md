@@ -1,7 +1,7 @@
 ---
 id: motif-akk-gilgamesh-xi-vs-quran-26-noah
 title: Utnapishtim's flood (Gilgamesh, Tablet XI) ↔ Noah, the lowly followers and the laden ark
-summary: 'These two units share 2 motifs: all others perish, hero''s family saved with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,25 +15,7 @@ layers:
 motifs:
 - universal-destruction
 - family-saved
-passages:
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: All others perish
-- tradition: islam
-  ref: Quran 26:120
-  note: All others perish
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ
-- tradition: ane-akkadian
-  ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
-  note: Hero's family saved with him
-- tradition: islam
-  ref: Quran 26:119
-  note: Hero's family saved with him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: All others perish (weight 5.0); Hero''s family saved with him (weight
     4.5). Pair score 9.5.'
@@ -44,6 +26,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: All others perish
+kinds:
+- shared
+units:
+- id: akk-gilgamesh-xi
+  title: Utnapishtim's flood (Gilgamesh, Tablet XI)
+  tradition: ane-akkadian
+- id: quran-26-noah
+  title: Noah, the lowly followers and the laden ark
+  tradition: islam
+matches:
+- kind: shared
+  label: All others perish
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:120
+      lang: ar
+      text: ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: ane-akkadian
+    passages:
+    - ref: 'Utnapishtim''s flood (Gilgamesh, Tablet XI): Tablet XI'
+  - tradition: islam
+    passages:
+    - ref: Quran 26:119
+      lang: ar
+      text: فَأَنجَيْنَٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ
 ---
 
 ## Questions

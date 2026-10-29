@@ -1,9 +1,7 @@
 ---
 id: motif-hb-isa-6-throne-vision-vs-quran-2-three-groups
 title: The throne vision and the call of Isaiah ↔ Believers, unbelievers and hypocrites
-summary: 'These two units share 2 motifs: hardening of the heart, ears and eyes of the hearers [divergence
-  between the texts], prophet commissioned to make the people''s heart fat, ears heavy and eyes shut lest
-  they understand and be healed.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,97 +15,9 @@ layers:
 motifs:
 - hardening-of-heart-ears-eyes-as-divergence
 - commission-to-harden-hearts
-passages:
-- tradition: judaism
-  ref: Isa 6:9
-  note: 'Hardening of the heart, ears and eyes of the hearers [divergence between the texts] (Same triad
-    in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw hāšaʿ (heart, ears,
-    eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun (hearts,
-    hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
-    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
-    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ
-    וְאַל תֵּדָֽעוּ
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'Hardening of the heart, ears and eyes of the hearers [divergence between the texts] (Same triad
-    in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw hāšaʿ (heart, ears,
-    eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun (hearts,
-    hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
-    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
-    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 2:6
-  note: 'Hardening of the heart, ears and eyes of the hearers [divergence between the texts] (Same triad
-    in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw hāšaʿ (heart, ears,
-    eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun (hearts,
-    hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
-    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
-    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 2:7
-  note: 'Hardening of the heart, ears and eyes of the hearers [divergence between the texts] (Same triad
-    in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw hāšaʿ (heart, ears,
-    eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun (hearts,
-    hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
-    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
-    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌ وَلَهُمْ
-    عَذَابٌ عَظِيمٌ
-- tradition: judaism
-  ref: Isa 6:9-10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (6:9) וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
-    רָא֖וֹ וְאַל תֵּדָֽעוּ (6:10) הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע
-    פֶּן יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: judaism
-  ref: Isa 6:10
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 2:6
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (warning makes no difference to them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
-- tradition: islam
-  ref: Quran 2:7
-  note: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
-    and be healed (warning makes no difference to them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌ وَلَهُمْ
-    عَذَابٌ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo. Same triad in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw
-    hāšaʿ (heart, ears, eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun
-    (hearts, hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
-    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
-    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6). Isa 6:10 pen ... ûlĕbābô yābîn
-    wā-šāb wĕ-rāpāʾ lô ''lest it understand, turn and be healed''; Q 2:18 fa-hum lā yarjiʿūn ''so they
-    do not turn back'' and 2:10 fī qulūbihim maraḍun fa-zādahumu llāhu maraḍan ''disease in their hearts,
-    and God increased it'': the turning (šûb / rajaʿa) and the healing (rāpāʾ) of Isaiah reappear as no
-    return and a disease God increases.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hardening of the heart, ears and eyes of the hearers [divergence
     between the texts] (weight 6.7); Prophet commissioned to make the people''s heart fat, ears heavy
@@ -144,6 +54,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hardening of the heart, ears and eyes of the hearers
+kinds:
+- divergence
+- echo
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hardening of the heart, ears and eyes of the hearers
+  note: 'Same triad in the same order: Isa 6:10 hašmēn lēb hā-ʿām ... wĕ-ʾoznāyw hakbēd wĕ-ʿênāyw hāšaʿ
+    (heart, ears, eyes); Q 2:7 khatama llāhu ʿalā qulūbihim wa-ʿalā samʿihim wa-ʿalā abṣārihim ghishāwatun
+    (hearts, hearing, eyes). Who acts changes: in Isaiah the prophet is ordered to do the hardening (imperatives
+    to Isaiah); in the Quran God himself seals, and the prophet''s role is only that his warning makes
+    no difference (sawāʾun ʿalayhim a-andhartahum am lam tundhirhum, 2:6).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9
+      lang: he
+      text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:6
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ كَفَرُوا۟ سَوَآءٌ عَلَيْهِمْ ءَأَنذَرْتَهُمْ أَمْ لَمْ تُنذِرْهُمْ لَا يُؤْمِنُونَ
+    - ref: Quran 2:7
+      lang: ar
+      text: خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰٓ أَبْصَٰرِهِمْ غِشَٰوَةٌ وَلَهُمْ
+        عَذَابٌ عَظِيمٌ
+- kind: echo
+  label: Prophet commissioned to make the people's heart fat, ears heavy and eyes shut lest they understand
+    and be healed
+  note: 'Isa 6:10 pen ... ûlĕbābô yābîn wā-šāb wĕ-rāpāʾ lô ''lest it understand, turn and be healed'';
+    Q 2:18 fa-hum lā yarjiʿūn ''so they do not turn back'' and 2:10 fī qulūbihim maraḍun fa-zādahumu llāhu
+    maraḍan ''disease in their hearts, and God increased it'': the turning (šûb / rajaʿa) and the healing
+    (rāpāʾ) of Isaiah reappear as no return and a disease God increases.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:10
+      lang: ar
+      text: فِى قُلُوبِهِم مَّرَضٌ فَزَادَهُمُ ٱللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟
+        يَكْذِبُونَ
+    - ref: Quran 2:18
+      lang: ar
+      text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
 ---
 
 ## Questions

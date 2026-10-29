@@ -2,7 +2,7 @@
 id: motif-hb-ps-13-how-long-vs-quran-39-death-and-sleep
 title: Psalm 13 - how long, YHWH ↔ The prophet's mortality; souls taken in sleep; intercession belongs
   to God
-summary: 'These two units share 1 motifs: death described as sleep: ''lest i sleep the sleep of death''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - sleep-of-death
-passages:
-- tradition: judaism
-  ref: Ps 13:4
-  note: 'Death described as sleep: ''lest I sleep the sleep of death'' (''lighten my eyes lest I sleep
-    the death'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַבִּ֣יטָֽה עֲ֭נֵנִי יְהוָ֣ה אֱלֹהָ֑י הָאִ֥ירָה עֵ֝ינַ֗י פֶּן אִישַׁ֥ן הַמָּֽוֶת
-- tradition: islam
-  ref: Quran 39:42
-  note: 'Death described as sleep: ''lest I sleep the sleep of death'' (sleep as a temporary taking of
-    the soul)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
-    ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hāʾîrâ ʿênay pen-ʾîšan ha-mmāweṯ vs. allāhu yatawaffā l-anfusa ḥīna mawtihā wa-llatī lam tamut
-    fī manāmihā: sleep and death set side by side. The psalmist fears that sleep will become death; the
-    Quran makes both a taking of the soul, from which God sends some back (yursilu l-ukhrā ilā ajalin
-    musammā).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Death described as sleep: ''lest I sleep the sleep of death'' (weight
     6.7). Pair score 6.7.'
@@ -62,6 +42,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Death described as sleep: ''lest I sleep the sleep of death'''
+kinds:
+- echo
+units:
+- id: hb-ps-13-how-long
+  title: Psalm 13 - how long, YHWH
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Death described as sleep: ''lest I sleep the sleep of death'''
+  note: 'hāʾîrâ ʿênay pen-ʾîšan ha-mmāweṯ vs. allāhu yatawaffā l-anfusa ḥīna mawtihā wa-llatī lam tamut
+    fī manāmihā: sleep and death set side by side. The psalmist fears that sleep will become death; the
+    Quran makes both a taking of the soul, from which God sends some back (yursilu l-ukhrā ilā ajalin
+    musammā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 13:4
+      lang: he
+      text: הַבִּ֣יטָֽה עֲ֭נֵנִי יְהוָ֣ה אֱלֹהָ֑י הָאִ֥ירָה עֵ֝ינַ֗י פֶּן אִישַׁ֥ן הַמָּֽוֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 39:42
+      lang: ar
+      text: ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا فَيُمْسِكُ
+        ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى إِنَّ فِى
+        ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ
 ---
 
 ## Questions

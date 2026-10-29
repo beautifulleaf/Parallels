@@ -2,8 +2,7 @@
 id: motif-hb-ps-103-bless-my-soul-vs-quran-10-opening-creation
 title: Psalm 103, bless YHWH, O my soul; youth renewed like the eagle ↔ The wise Book, creation, sun and
   moon, the prayer of paradise
-summary: 'These two units share 1 motifs: after creating the heavens and earth god established himself
-  on the throne (istawa ''ala l-''arsh).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,27 +15,9 @@ layers:
 - motif
 motifs:
 - god-established-on-throne
-passages:
-- tradition: judaism
-  ref: Ps 103:19
-  note: 'After creating the heavens and earth God established himself on the Throne (istawa ''ala l-''arsh)
-    (God enthroned in heaven governs all: thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs YHWH baššāmayim
-    hēkîn kisʾô ûmalkûtô bakkōl māšālāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה בַּ֭שָּׁמַיִם הֵכִ֣ין כִּסְא֑וֹ וּ֝מַלְכוּת֗וֹ בַּכֹּ֥ל מָשָֽׁלָה
-- tradition: islam
-  ref: Quran 10:3
-  note: After creating the heavens and earth God established himself on the Throne (istawa 'ala l-'arsh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ ٱسْتَوَىٰ
-    عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ ٱللَّهُ
-    رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God enthroned in heaven governs all: thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs YHWH
-    baššāmayim hēkîn kisʾô ûmalkûtô bakkōl māšālāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: After creating the heavens and earth God established himself on
     the Throne (istawa ''ala l-''arsh) (weight 5.2). Pair score 5.2.'
@@ -71,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: After creating the heavens and earth God established himself on the Throne (istawa 'ala l-'arsh)
+kinds:
+- parallel
+units:
+- id: hb-ps-103-bless-my-soul
+  title: Psalm 103, bless YHWH, O my soul; youth renewed like the eagle
+  tradition: judaism
+- id: quran-10-opening-creation
+  title: The wise Book, creation, sun and moon, the prayer of paradise
+  tradition: islam
+matches:
+- kind: parallel
+  label: After creating the heavens and earth God established himself on the Throne (istawa 'ala l-'arsh)
+  note: 'God enthroned in heaven governs all: thumma stawā ʿalā l-ʿarshi yudabbiru l-amra vs YHWH baššāmayim
+    hēkîn kisʾô ûmalkûtô bakkōl māšālāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 103:19
+      lang: he
+      text: יְֽהוָ֗ה בַּ֭שָּׁמַיִם הֵכִ֣ין כִּסְא֑וֹ וּ֝מַלְכוּת֗וֹ בַּכֹּ֥ל מָשָֽׁלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:3
+      lang: ar
+      text: إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ ثُمَّ
+        ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ يُدَبِّرُ ٱلْأَمْرَ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعْدِ إِذْنِهِۦ ذَٰلِكُمُ
+        ٱللَّهُ رَبُّكُمْ فَٱعْبُدُوهُ أَفَلَا تَذَكَّرُونَ
 ---
 
 ## Questions

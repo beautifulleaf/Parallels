@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-17-moses-nine-signs-and-close
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Moses' nine signs, the drowning of Pharaoh,
   the Quran sent in portions (Surah 17:101-111)
-summary: 'These two units share 2 motifs: moses was given nine clear signs [divergence between the texts],
-  the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,52 +15,9 @@ layers:
 motifs:
 - nine-signs-of-moses-as-divergence
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:43
-  note: 'Moses was given nine clear signs [divergence between the texts] (The count of the Egyptian signs
-    differs from text to text: Exod has ten plagues; Ps 78 lists about seven, ʾōtôtāyw ûmôptāyw (blood,
-    ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn); Q says tisʿa āyātin bayyināt. The word is the
-    same, ʾôtôt / āyāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁר שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה צֹֽעַן
-- tradition: judaism
-  ref: Ps 78:44
-  note: 'Moses was given nine clear signs [divergence between the texts] (The count of the Egyptian signs
-    differs from text to text: Exod has ten plagues; Ps 78 lists about seven, ʾōtôtāyw ûmôptāyw (blood,
-    ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn); Q says tisʿa āyātin bayyināt. The word is the
-    same, ʾôtôt / āyāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
-- tradition: islam
-  ref: Quran 17:101
-  note: 'Moses was given nine clear signs [divergence between the texts] (The count of the Egyptian signs
-    differs from text to text: Exod has ten plagues; Ps 78 lists about seven, ʾōtôtāyw ûmôptāyw (blood,
-    ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn); Q says tisʿa āyātin bayyināt. The word is the
-    same, ʾôtôt / āyāt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ جَآءَهُمْ
-    فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 17:103
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. The count of the Egyptian signs differs from text to text: Exod has ten plagues; Ps 78
-    lists about seven, ʾōtôtāyw ûmôptāyw (blood, ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn);
-    Q says tisʿa āyātin bayyināt. The word is the same, ʾôtôt / āyāt.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses was given nine clear signs [divergence between the texts]
     (weight 6.3); The returning waters drown the pursuing army; not one survives (weight 4.5). Pair score
@@ -100,6 +56,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses was given nine clear signs
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-17-moses-nine-signs-and-close
+  title: Moses' nine signs, the drowning of Pharaoh, the Quran sent in portions (Surah 17:101-111)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Moses was given nine clear signs
+  note: 'The count of the Egyptian signs differs from text to text: Exod has ten plagues; Ps 78 lists
+    about seven, ʾōtôtāyw ûmôptāyw (blood, ʿārōb, frogs, ḥāsîl/ʾarbeh, hail, cattle, firstborn); Q says
+    tisʿa āyātin bayyināt. The word is the same, ʾôtôt / āyāt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:43
+      lang: he
+      text: אֲשֶׁר שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה צֹֽעַן
+    - ref: Ps 78:44
+      lang: he
+      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
+    - ref: Ps 78:45
+      lang: he
+      text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:101
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا مُوسَىٰ تِسْعَ ءَايَٰتٍۭ بَيِّنَٰتٍ فَسْـَٔلْ بَنِىٓ إِسْرَٰٓءِيلَ إِذْ
+        جَآءَهُمْ فَقَالَ لَهُۥ فِرْعَوْنُ إِنِّى لَأَظُنُّكَ يَٰمُوسَىٰ مَسْحُورًا
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 17:103
+      lang: ar
+      text: فَأَرَادَ أَن يَسْتَفِزَّهُم مِّنَ ٱلْأَرْضِ فَأَغْرَقْنَٰهُ وَمَن مَّعَهُۥ جَمِيعًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-22-destroyed-towns-satanic-insinuation
 title: Zephaniah's Day of YHWH against Judah ↔ Rejected prophets, ruined towns, the thousand-year day
   and Satan's insertion
-summary: 'These two units share 1 motifs: the day of yhwh: a coming day of divine judgment, terror and
-  darkness.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Zeph 1:7
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֕ס מִפְּנֵ֖י אֲדֹנָ֣י יְהוִ֑ה כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה כִּֽי הֵכִ֧ין יְהוָ֛ה זֶ֖בַח הִקְדִּ֥ישׁ
-    קְרֻאָֽיו
-- tradition: judaism
-  ref: Zeph 1:14
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
-    גִּבּֽוֹר
-- tradition: islam
-  ref: Quran 22:55
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''the punishment of a
-    barren day (yawm ʿaqīm)'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً
-    أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. ʿadhābu yawmin ʿaqīmin ... as-sāʿatu baghtatan ~ qārôv yôm YHWH ha-ggādôl ... yôm ʿevrâ
-    ha-yyôm ha-hûʾ: the coming day of judgment arriving suddenly; Zephaniah''s day is near and hastening
-    (mahēr məʾōd), the Quran''s comes unawares (baghtatan).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
     (weight 5.0). Pair score 5.0.'
@@ -79,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+kinds:
+- parallel
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  note: 'ʿadhābu yawmin ʿaqīmin ... as-sāʿatu baghtatan ~ qārôv yôm YHWH ha-ggādôl ... yôm ʿevrâ ha-yyôm
+    ha-hûʾ: the coming day of judgment arriving suddenly; Zephaniah''s day is near and hastening (mahēr
+    məʾōd), the Quran''s comes unawares (baghtatan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:14
+      lang: he
+      text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
+        גִּבּֽוֹר
+    - ref: Zeph 1:15
+      lang: he
+      text: י֥וֹם עֶבְרָ֖ה הַיּ֣וֹם הַה֑וּא י֧וֹם צָרָ֣ה וּמְצוּקָ֗ה י֤וֹם שֹׁאָה֙ וּמְשׁוֹאָ֔ה י֥וֹם
+        חֹ֨שֶׁךְ֙ וַאֲפֵלָ֔ה י֥וֹם עָנָ֖ן וַעֲרָפֶֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 22:55
+      lang: ar
+      text: وَلَا يَزَالُ ٱلَّذِينَ كَفَرُوا۟ فِى مِرْيَةٍ مِّنْهُ حَتَّىٰ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً
+        أَوْ يَأْتِيَهُمْ عَذَابُ يَوْمٍ عَقِيمٍ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-isa-9-child-born-and-outstretched-hand-vs-quran-2-call-to-worship
 title: Great light; a child is born to us; the outstretched hand against Ephraim ↔ Call to worship the
   Creator; the challenge; paradise and the gnat
-summary: 'These two units share 1 motifs: hell''s fire has men and stones as its fuel.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - hellfire-fueled-by-men-and-stones
-passages:
-- tradition: judaism
-  ref: Isa 9:18
-  note: Hell's fire has men and stones as its fuel (Isa 9:18 wa-yhî hā-ʿām kĕ-maʾăkōlet ʾēš 'the people
-    became fuel for the fire', in the wrath of YHWH on the land; Q 2:24 an-nāra llatī waqūduhā n-nāsu
-    wa-l-ḥijāratu 'the fire whose fuel is people and stones', in the next world for the unbelievers. A
-    historical burning becomes the eschatological fire.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּעֶבְרַ֛ת יְהוָ֥ה צְבָא֖וֹת נֶעְתַּ֣ם אָ֑רֶץ וַיְהִ֤י הָעָם֙ כְּמַאֲכֹ֣לֶת אֵ֔שׁ אִ֥ישׁ אֶל
-    אָחִ֖יו לֹ֥א יַחְמֹֽלוּ
-- tradition: islam
-  ref: Quran 2:24
-  note: Hell's fire has men and stones as its fuel
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ
-    أُعِدَّتْ لِلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 9:18 wa-yhî hā-ʿām kĕ-maʾăkōlet ʾēš ''the people became fuel for the fire'', in the wrath
-    of YHWH on the land; Q 2:24 an-nāra llatī waqūduhā n-nāsu wa-l-ḥijāratu ''the fire whose fuel is people
-    and stones'', in the next world for the unbelievers. A historical burning becomes the eschatological
-    fire.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hell''s fire has men and stones as its fuel (weight 6.3). Pair score
     6.3.'
@@ -75,6 +54,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hell's fire has men and stones as its fuel
+kinds:
+- echo
+units:
+- id: hb-isa-9-child-born-and-outstretched-hand
+  title: Great light; a child is born to us; the outstretched hand against Ephraim
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: echo
+  label: Hell's fire has men and stones as its fuel
+  note: Isa 9:18 wa-yhî hā-ʿām kĕ-maʾăkōlet ʾēš 'the people became fuel for the fire', in the wrath of
+    YHWH on the land; Q 2:24 an-nāra llatī waqūduhā n-nāsu wa-l-ḥijāratu 'the fire whose fuel is people
+    and stones', in the next world for the unbelievers. A historical burning becomes the eschatological
+    fire.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 9:18
+      lang: he
+      text: בְּעֶבְרַ֛ת יְהוָ֥ה צְבָא֖וֹת נֶעְתַּ֣ם אָ֑רֶץ וַיְהִ֤י הָעָם֙ כְּמַאֲכֹ֣לֶת אֵ֔שׁ אִ֥ישׁ
+        אֶל אָחִ֖יו לֹ֥א יַחְמֹֽלוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:24
+      lang: ar
+      text: فَإِن لَّمْ تَفْعَلُوا۟ وَلَن تَفْعَلُوا۟ فَٱتَّقُوا۟ ٱلنَّارَ ٱلَّتِى وَقُودُهَا ٱلنَّاسُ
+        وَٱلْحِجَارَةُ أُعِدَّتْ لِلْكَٰفِرِينَ
 ---
 
 ## Questions

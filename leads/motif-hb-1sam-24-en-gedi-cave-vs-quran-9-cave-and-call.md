@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-24-en-gedi-cave-vs-quran-9-cave-and-call
 title: David spares Saul in the cave at En-gedi ↔ The call to go forth; the second of two in the cave
-summary: 'These two units share 1 motifs: the prophet is ''the second of two'' hiding in the cave, telling
-  his companion ''do not grieve, god is with us''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - second-of-two-in-the-cave
-passages:
-- tradition: judaism
-  ref: 1Sam 24:4
-  note: 'The prophet is ''the second of two'' hiding in the cave, telling his companion ''do not grieve,
-    God is with us'' (God''s chosen hides in a cave from a pursuer who cannot get at him: idh akhrajahu
-    lladhīna kafarū thāniya thnayni idh humā fī l-ghāri vs wᵉšām mᵉʿārāh wayyābōʾ šāʾûl ... wᵉdāwid waʾănāšāyw
-    bᵉyarkᵉtê hammᵉʿārāh yōšᵉbîm. In 1Sam the pursuer enters the cave; Q says nothing of the pursuers''
-    approach (that is in the sira).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַ֠יָּבֹא אֶל גִּדְר֨וֹת הַצֹּ֤אן עַל הַדֶּ֨רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ
-    אֶת רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה יֹשְׁבִֽים
-- tradition: islam
-  ref: Quran 9:40
-  note: The prophet is 'the second of two' hiding in the cave, telling his companion 'do not grieve, God
-    is with us'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
-    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
-    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
-    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s chosen hides in a cave from a pursuer who cannot get at him: idh akhrajahu lladhīna kafarū
-    thāniya thnayni idh humā fī l-ghāri vs wᵉšām mᵉʿārāh wayyābōʾ šāʾûl ... wᵉdāwid waʾănāšāyw bᵉyarkᵉtê
-    hammᵉʿārāh yōšᵉbîm. In 1Sam the pursuer enters the cave; Q says nothing of the pursuers'' approach
-    (that is in the sira).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The prophet is ''the second of two'' hiding in the cave, telling
     his companion ''do not grieve, God is with us'' (weight 6.3). Pair score 6.3.'
@@ -66,6 +40,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet is 'the second of two' hiding in the cave, telling his companion 'do not grieve,
+  God is with us'
+kinds:
+- echo
+units:
+- id: hb-1sam-24-en-gedi-cave
+  title: David spares Saul in the cave at En-gedi
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: echo
+  label: The prophet is 'the second of two' hiding in the cave, telling his companion 'do not grieve,
+    God is with us'
+  note: 'God''s chosen hides in a cave from a pursuer who cannot get at him: idh akhrajahu lladhīna kafarū
+    thāniya thnayni idh humā fī l-ghāri vs wᵉšām mᵉʿārāh wayyābōʾ šāʾûl ... wᵉdāwid waʾănāšāyw bᵉyarkᵉtê
+    hammᵉʿārāh yōšᵉbîm. In 1Sam the pursuer enters the cave; Q says nothing of the pursuers'' approach
+    (that is in the sira).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 24:4
+      lang: he
+      text: וַ֠יָּבֹא אֶל גִּדְר֨וֹת הַצֹּ֤אן עַל הַדֶּ֨רֶךְ֙ וְשָׁ֣ם מְעָרָ֔ה וַיָּבֹ֥א שָׁא֖וּל לְהָסֵ֣ךְ
+        אֶת רַגְלָ֑יו וְדָוִד֙ וַאֲנָשָׁ֔יו בְּיַרְכְּתֵ֥י הַמְּעָרָ֖ה יֹשְׁבִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 9:40
+      lang: ar
+      text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+        إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ
+        ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ
+        كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

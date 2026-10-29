@@ -2,8 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-29-destroyed-nations
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Midian, Ad, Thamud, Korah, Pharaoh
   and Haman punished
-summary: 'These two units share 2 motifs: list of punishment types for the nations: stone-storm, the shout,
-  swallowing by the earth, drowning, the earth opens its mouth and swallows rebels alive into sheol.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,73 +15,9 @@ layers:
 motifs:
 - catalogue-of-punishments-of-nations
 - earth-swallows-rebels
-passages:
-- tradition: judaism
-  ref: Ps 106:11
-  note: 'List of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning
-    (fa-minhum man arsalnā ʿalayhi ḥāṣiban wa-minhum man akhadhathu ṣ-ṣayḥatu wa-minhum man khasafnā bihi
-    l-arḍa wa-minhum man aghraqnā ~ wa-yəkhassû mayim ṣārêhem ʾeḥād mēhem lōʾ nôtār ... tiftaḥ ʾereṣ wat-tivlaʿ
-    Dātān ... wat-tivʿar ʾēš: a recital of punishments by water, earth and fire. In the Psalm they fall
-    on Egypt and on Israel''s own rebels, in the Quran on a series of nations.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַסּוּ מַ֥יִם צָרֵיהֶ֑ם אֶחָ֥ד מֵ֝הֶ֗ם לֹ֣א נוֹתָֽר
-- tradition: judaism
-  ref: Ps 106:17
-  note: 'List of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning
-    (fa-minhum man arsalnā ʿalayhi ḥāṣiban wa-minhum man akhadhathu ṣ-ṣayḥatu wa-minhum man khasafnā bihi
-    l-arḍa wa-minhum man aghraqnā ~ wa-yəkhassû mayim ṣārêhem ʾeḥād mēhem lōʾ nôtār ... tiftaḥ ʾereṣ wat-tivlaʿ
-    Dātān ... wat-tivʿar ʾēš: a recital of punishments by water, earth and fire. In the Psalm they fall
-    on Egypt and on Israel''s own rebels, in the Quran on a series of nations.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
-- tradition: islam
-  ref: Quran 29:40
-  note: 'List of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ
-    ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ ٱللَّهُ
-    لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: judaism
-  ref: Ps 106:17-18
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:17) תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם (106:18) וַתִּבְעַר
-    אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים
-- tradition: judaism
-  ref: Ps 106:17
-  note: The earth opens its mouth and swallows rebels alive into Sheol (Dathan and Abiram named, Korah
-    omitted; fire burns their company)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
-- tradition: islam
-  ref: Quran 29:40
-  note: The earth opens its mouth and swallows rebels alive into Sheol ('some we made the earth swallow'
-    (Korah, cf. 28:81))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ أَخَذَتْهُ
-    ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا كَانَ ٱللَّهُ
-    لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
-- tradition: islam
-  ref: Quran 29:39
-  note: The earth opens its mouth and swallows rebels alive into Sheol ('some we made the earth swallow'
-    (Korah, cf. 28:81))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
-    فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-minhum man arsalnā ʿalayhi ḥāṣiban wa-minhum man akhadhathu ṣ-ṣayḥatu wa-minhum man khasafnā
-    bihi l-arḍa wa-minhum man aghraqnā ~ wa-yəkhassû mayim ṣārêhem ʾeḥād mēhem lōʾ nôtār ... tiftaḥ ʾereṣ
-    wat-tivlaʿ Dātān ... wat-tivʿar ʾēš: a recital of punishments by water, earth and fire. In the Psalm
-    they fall on Egypt and on Israel''s own rebels, in the Quran on a series of nations.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: List of punishment types for the nations: stone-storm, the Shout,
     swallowing by the earth, drowning (weight 6.7); The earth opens its mouth and swallows rebels alive
@@ -115,6 +50,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'List of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning'
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-29-destroyed-nations
+  title: Midian, Ad, Thamud, Korah, Pharaoh and Haman punished
+  tradition: islam
+matches:
+- kind: echo
+  label: 'List of punishment types for the nations: stone-storm, the Shout, swallowing by the earth, drowning'
+  note: 'fa-minhum man arsalnā ʿalayhi ḥāṣiban wa-minhum man akhadhathu ṣ-ṣayḥatu wa-minhum man khasafnā
+    bihi l-arḍa wa-minhum man aghraqnā ~ wa-yəkhassû mayim ṣārêhem ʾeḥād mēhem lōʾ nôtār ... tiftaḥ ʾereṣ
+    wat-tivlaʿ Dātān ... wat-tivʿar ʾēš: a recital of punishments by water, earth and fire. In the Psalm
+    they fall on Egypt and on Israel''s own rebels, in the Quran on a series of nations.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:11
+      lang: he
+      text: וַיְכַסּוּ מַ֥יִם צָרֵיהֶ֑ם אֶחָ֥ד מֵ֝הֶ֗ם לֹ֣א נוֹתָֽר
+    - ref: Ps 106:17
+      lang: he
+      text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
+    - ref: Ps 106:18
+      lang: he
+      text: וַתִּבְעַר אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 29:40
+      lang: ar
+      text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ
+        أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+- kind: shared
+  label: The earth opens its mouth and swallows rebels alive into Sheol
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:17-18
+      lang: he
+      text: (106:17) תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם (106:18) וַתִּבְעַר
+        אֵ֥שׁ בַּעֲדָתָ֑ם לֶ֝הָבָ֗ה תְּלַהֵ֥ט רְשָׁעִֽים
+    - ref: Ps 106:17
+      lang: he
+      text: תִּפְתַּח אֶ֭רֶץ וַתִּבְלַ֣ע דָּתָ֑ן וַ֝תְּכַ֗ס עַל עֲדַ֥ת אֲבִירָֽם
+    note: Dathan and Abiram named, Korah omitted; fire burns their company
+  - tradition: islam
+    passages:
+    - ref: Quran 29:40
+      lang: ar
+      text: فَكُلًّا أَخَذْنَا بِذَنۢبِهِۦ فَمِنْهُم مَّنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُم مَّنْ
+        أَخَذَتْهُ ٱلصَّيْحَةُ وَمِنْهُم مَّنْ خَسَفْنَا بِهِ ٱلْأَرْضَ وَمِنْهُم مَّنْ أَغْرَقْنَا وَمَا
+        كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+    - ref: Quran 29:39
+      lang: ar
+      text: وَقَٰرُونَ وَفِرْعَوْنَ وَهَٰمَٰنَ وَلَقَدْ جَآءَهُم مُّوسَىٰ بِٱلْبَيِّنَٰتِ فَٱسْتَكْبَرُوا۟
+        فِى ٱلْأَرْضِ وَمَا كَانُوا۟ سَٰبِقِينَ
+    note: '''some we made the earth swallow'' (Korah, cf. 28:81)'
 ---
 
 ## Questions

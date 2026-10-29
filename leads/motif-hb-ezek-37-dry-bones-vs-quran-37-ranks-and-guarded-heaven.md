@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ezek-37-dry-bones-vs-quran-37-ranks-and-guarded-heaven
 title: The valley of dry bones ↔ The ranks, the guarded heaven and the shooting stars
-summary: 'These two units share 1 motifs: a single cry or rebuke (zajra) and the dead stand looking.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,45 +13,9 @@ layers:
 - motif
 motifs:
 - single-cry-wakes-the-dead
-passages:
-- tradition: judaism
-  ref: Ezek 37:7
-  note: 'A single cry or rebuke (zajra) and the dead stand looking (wa-yəhî-qôl kə-hinnāḇəʾî wə-hinnēh-raʿaš
-    wa-ttiqrəḇû ʿăṣāmôṯ ... wa-yyaʿamḏû ʿal-raḡlêhem vs. a-idhā mitnā wa-kunnā turāban wa-ʿiẓāman ...
-    fa-innamā hiya zajratun wāḥidatun fa-idhā hum yanẓurūn: a single sound makes bones come together and
-    the dead stand. Ezekiel''s is a prophetic word, the Quran''s a divine cry.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה רַ֔עַשׁ וַתִּקְרְב֣וּ
-    עֲצָמ֔וֹת עֶ֖צֶם אֶל עַצְמֽוֹ
-- tradition: judaism
-  ref: Ezek 37:10
-  note: 'A single cry or rebuke (zajra) and the dead stand looking (wa-yəhî-qôl kə-hinnāḇəʾî wə-hinnēh-raʿaš
-    wa-ttiqrəḇû ʿăṣāmôṯ ... wa-yyaʿamḏû ʿal-raḡlêhem vs. a-idhā mitnā wa-kunnā turāban wa-ʿiẓāman ...
-    fa-innamā hiya zajratun wāḥidatun fa-idhā hum yanẓurūn: a single sound makes bones come together and
-    the dead stand. Ezekiel''s is a prophetic word, the Quran''s a divine cry.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנַּבֵּ֖אתִי כַּאֲשֶׁ֣ר צִוָּ֑נִי וַתָּבוֹא֩ בָהֶ֨ם הָר֜וּחַ וַיִּֽחְי֗וּ וַיַּֽעַמְדוּ֙ עַל
-    רַגְלֵיהֶ֔ם חַ֖יִל גָּד֥וֹל מְאֹד מְאֹֽד
-- tradition: islam
-  ref: Quran 37:19
-  note: A single cry or rebuke (zajra) and the dead stand looking
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ
-- tradition: islam
-  ref: Quran 37:16
-  note: A single cry or rebuke (zajra) and the dead stand looking
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yəhî-qôl kə-hinnāḇəʾî wə-hinnēh-raʿaš wa-ttiqrəḇû ʿăṣāmôṯ ... wa-yyaʿamḏû ʿal-raḡlêhem vs.
-    a-idhā mitnā wa-kunnā turāban wa-ʿiẓāman ... fa-innamā hiya zajratun wāḥidatun fa-idhā hum yanẓurūn:
-    a single sound makes bones come together and the dead stand. Ezekiel''s is a prophetic word, the Quran''s
-    a divine cry.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A single cry or rebuke (zajra) and the dead stand looking (weight
     6.7). Pair score 6.7.'
@@ -88,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A single cry or rebuke (zajra) and the dead stand looking
+kinds:
+- echo
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-37-ranks-and-guarded-heaven
+  title: The ranks, the guarded heaven and the shooting stars
+  tradition: islam
+matches:
+- kind: echo
+  label: A single cry or rebuke (zajra) and the dead stand looking
+  note: 'wa-yəhî-qôl kə-hinnāḇəʾî wə-hinnēh-raʿaš wa-ttiqrəḇû ʿăṣāmôṯ ... wa-yyaʿamḏû ʿal-raḡlêhem vs.
+    a-idhā mitnā wa-kunnā turāban wa-ʿiẓāman ... fa-innamā hiya zajratun wāḥidatun fa-idhā hum yanẓurūn:
+    a single sound makes bones come together and the dead stand. Ezekiel''s is a prophetic word, the Quran''s
+    a divine cry.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:7
+      lang: he
+      text: וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה רַ֔עַשׁ וַתִּקְרְב֣וּ
+        עֲצָמ֔וֹת עֶ֖צֶם אֶל עַצְמֽוֹ
+    - ref: Ezek 37:10
+      lang: he
+      text: וְהִנַּבֵּ֖אתִי כַּאֲשֶׁ֣ר צִוָּ֑נִי וַתָּבוֹא֩ בָהֶ֨ם הָר֜וּחַ וַיִּֽחְי֗וּ וַיַּֽעַמְדוּ֙
+        עַל רַגְלֵיהֶ֔ם חַ֖יִל גָּד֥וֹל מְאֹד מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 37:16
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَٰمًا أَءِنَّا لَمَبْعُوثُونَ
+    - ref: Quran 37:19
+      lang: ar
+      text: فَإِنَّمَا هِىَ زَجْرَةٌ وَٰحِدَةٌ فَإِذَا هُمْ يَنظُرُونَ
 ---
 
 ## Questions

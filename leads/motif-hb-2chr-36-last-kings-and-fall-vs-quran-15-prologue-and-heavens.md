@@ -2,8 +2,7 @@
 id: motif-hb-2chr-36-last-kings-and-fall-vs-quran-15-prologue-and-heavens
 title: Last kings of Judah, burning of the temple, exile and seventy years ↔ The guarded reminder, the
   guarded heaven and the fertilizing winds (Surah 15:1-25)
-summary: 'These two units share 1 motifs: the people mock god''s messengers, despise his words and scoff
-  at his prophets.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - prophets-mocked
-passages:
-- tradition: judaism
-  ref: 2Chr 36:16
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבוֹזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים בִּנְבִאָ֑יו
-    עַ֠ד עֲל֧וֹת חֲמַת יְהוָ֛ה בְּעַמּ֖וֹ עַד לְאֵ֥ין מַרְפֵּֽא
-- tradition: judaism
-  ref: 2Chr 36:15
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֡ח יְהוָה֩ אֱלֹהֵ֨י אֲבוֹתֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁל֑וֹחַ
-    כִּֽי חָמַ֥ל עַל עַמּ֖וֹ וְעַל מְעוֹנֽוֹ
-- tradition: islam
-  ref: Quran 15:10
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ
-- tradition: islam
-  ref: Quran 15:11
-  note: The people mock God's messengers, despise his words and scoff at his prophets
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-lā yaʾtīhim min rasūlin illā kānū bihi yastahziʾūn; wayyihyû malʿibîm bəmalʾăkê hāʾĕlōhîm
-    ûbôzîm dəbārāyw ûmittaʿtəʿîm binbiʾāyw: God''s messengers (malʾākîm / rusul) sent again and again
-    and mocked. Chr makes it the cause of the fall of Jerusalem; Q makes it the custom of the ancients
-    (sunnatu l-awwalīn).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people mock God''s messengers, despise his words and scoff at
     his prophets (weight 5.4). Pair score 5.4.'
@@ -84,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people mock God's messengers, despise his words and scoff at his prophets
+kinds:
+- parallel
+units:
+- id: hb-2chr-36-last-kings-and-fall
+  title: Last kings of Judah, burning of the temple, exile and seventy years
+  tradition: judaism
+- id: quran-15-prologue-and-heavens
+  title: The guarded reminder, the guarded heaven and the fertilizing winds (Surah 15:1-25)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The people mock God's messengers, despise his words and scoff at his prophets
+  note: 'wa-lā yaʾtīhim min rasūlin illā kānū bihi yastahziʾūn; wayyihyû malʿibîm bəmalʾăkê hāʾĕlōhîm
+    ûbôzîm dəbārāyw ûmittaʿtəʿîm binbiʾāyw: God''s messengers (malʾākîm / rusul) sent again and again
+    and mocked. Chr makes it the cause of the fall of Jerusalem; Q makes it the custom of the ancients
+    (sunnatu l-awwalīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 36:15
+      lang: he
+      text: וַיִּשְׁלַ֡ח יְהוָה֩ אֱלֹהֵ֨י אֲבוֹתֵיהֶ֧ם עֲלֵיהֶ֛ם בְּיַ֥ד מַלְאָכָ֖יו הַשְׁכֵּ֣ם וְשָׁל֑וֹחַ
+        כִּֽי חָמַ֥ל עַל עַמּ֖וֹ וְעַל מְעוֹנֽוֹ
+    - ref: 2Chr 36:16
+      lang: he
+      text: וַיִּֽהְי֤וּ מַלְעִבִים֙ בְּמַלְאֲכֵ֣י הָאֱלֹהִ֔ים וּבוֹזִ֣ים דְּבָרָ֔יו וּמִֽתַּעְתְּעִ֖ים
+        בִּנְבִאָ֑יו עַ֠ד עֲל֧וֹת חֲמַת יְהוָ֛ה בְּעַמּ֖וֹ עַד לְאֵ֥ין מַרְפֵּֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 15:10
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا مِن قَبْلِكَ فِى شِيَعِ ٱلْأَوَّلِينَ
+    - ref: Quran 15:11
+      lang: ar
+      text: وَمَا يَأْتِيهِم مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
 ---
 
 ## Questions

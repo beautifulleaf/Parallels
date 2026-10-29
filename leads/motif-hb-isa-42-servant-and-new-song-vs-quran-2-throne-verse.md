@@ -2,8 +2,7 @@
 id: motif-hb-isa-42-servant-and-new-song-vs-quran-2-throne-verse
 title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
   blind servant ↔ Ranks of the messengers and the Throne Verse
-summary: 'These two units share 1 motifs: god brings believers out of darknesses into light; false gods
-  lead others from light into darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - from-darkness-to-light
-passages:
-- tradition: judaism
-  ref: Isa 42:16
-  note: 'God brings believers out of darknesses into light; false gods lead others from light into darkness
-    (Isa 42:16 ʾāśîm maḥšāk lipnêhem lā-ʾôr: God turns darkness into light before the blind; Q 2:257 yukhrijuhum
-    mina ẓ-ẓulumāti ilā n-nūr.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהוֹלַכְתִּ֣י עִוְרִ֗ים בְּדֶ֨רֶךְ֙ לֹ֣א יָדָ֔עוּ בִּנְתִיב֥וֹת לֹֽא יָדְע֖וּ אַדְרִיכֵ֑ם אָשִׂים֩
-    מַחְשָׁ֨ךְ לִפְנֵיהֶ֜ם לָא֗וֹר וּמַֽעֲקַשִּׁים֙ לְמִישׁ֔וֹר אֵ֚לֶּה הַדְּבָרִ֔ים עֲשִׂיתִ֖ם וְלֹ֥א
-    עֲזַבְתִּֽים
-- tradition: islam
-  ref: Quran 2:257
-  note: God brings believers out of darknesses into light; false gods lead others from light into darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَٱلَّذِينَ
-    كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ
-    أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 42:16 ʾāśîm maḥšāk lipnêhem lā-ʾôr: God turns darkness into light before the blind; Q 2:257
-    yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings believers out of darknesses into light; false gods lead
     others from light into darkness (weight 5.4). Pair score 5.4.'
@@ -73,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God brings believers out of darknesses into light; false gods lead others from light into darkness
+kinds:
+- echo
+units:
+- id: hb-isa-42-servant-and-new-song
+  title: First servant song; light to the nations; a new song; God as warrior and as woman in labor; the
+    blind servant
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: echo
+  label: God brings believers out of darknesses into light; false gods lead others from light into darkness
+  note: 'Isa 42:16 ʾāśîm maḥšāk lipnêhem lā-ʾôr: God turns darkness into light before the blind; Q 2:257
+    yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 42:16
+      lang: he
+      text: וְהוֹלַכְתִּ֣י עִוְרִ֗ים בְּדֶ֨רֶךְ֙ לֹ֣א יָדָ֔עוּ בִּנְתִיב֥וֹת לֹֽא יָדְע֖וּ אַדְרִיכֵ֑ם
+        אָשִׂים֩ מַחְשָׁ֨ךְ לִפְנֵיהֶ֜ם לָא֗וֹר וּמַֽעֲקַשִּׁים֙ לְמִישׁ֔וֹר אֵ֚לֶּה הַדְּבָרִ֔ים עֲשִׂיתִ֖ם
+        וְלֹ֥א עֲזַבְתִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 2:257
+      lang: ar
+      text: ٱللَّهُ وَلِىُّ ٱلَّذِينَ ءَامَنُوا۟ يُخْرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَٱلَّذِينَ
+        كَفَرُوٓا۟ أَوْلِيَآؤُهُمُ ٱلطَّٰغُوتُ يُخْرِجُونَهُم مِّنَ ٱلنُّورِ إِلَى ٱلظُّلُمَٰتِ أُو۟لَٰٓئِكَ
+        أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

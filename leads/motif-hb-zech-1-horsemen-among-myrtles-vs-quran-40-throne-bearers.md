@@ -2,8 +2,7 @@
 id: motif-hb-zech-1-horsemen-among-myrtles-vs-quran-40-throne-bearers
 title: 'First night vision, the horsemen among the myrtles ↔ Ha-Mim: the Forgiver; the throne-bearers
   pray for the believers'
-summary: 'These two units share 1 motifs: the angels who bear the throne and those around it glorify god
-  and ask forgiveness for the believers, praying they and their righteous kin enter eden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - throne-bearers-ask-forgiveness-for-believers
-passages:
-- tradition: judaism
-  ref: Zech 1:12
-  note: 'The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
-    praying they and their righteous kin enter Eden (wa-yyaʿan malʾaḵ-YHWH wa-yyōʾmar YHWH ṣəḇāʾôṯ ʿaḏ-māṯay
-    ʾattâ lōʾ-ṯəraḥēm ʾeṯ-yərûšālaim vs. rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilman fa-ghfir li-lladhīna
-    tābū ... wa-adkhilhum jannāti ʿadn: an angel prays to God for mercy (riḥam / raḥma, cognate) on humans.
-    Zechariah''s angel prays for Jerusalem and Judah''s cities; the Quran''s for the repentant believers
-    and their righteous kin.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַן מַלְאַךְ יְהוָה֮ וַיֹּאמַר֒ יְהוָ֣ה צְבָא֔וֹת עַד מָתַ֗י אַתָּה֙ לֹֽא תְרַחֵ֣ם אֶת יְרוּשָׁלִַ֔ם
-    וְאֵ֖ת עָרֵ֣י יְהוּדָ֑ה אֲשֶׁ֣ר זָעַ֔מְתָּה זֶ֖ה שִׁבְעִ֥ים שָׁנָֽה
-- tradition: islam
-  ref: Quran 40:7
-  note: The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
-    praying they and their righteous kin enter Eden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ
-    بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا فَٱغْفِرْ
-    لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
-- tradition: islam
-  ref: Quran 40:8
-  note: The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
-    praying they and their righteous kin enter Eden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ وَأَزْوَٰجِهِمْ
-    وَذُرِّيَّٰتِهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyaʿan malʾaḵ-YHWH wa-yyōʾmar YHWH ṣəḇāʾôṯ ʿaḏ-māṯay ʾattâ lōʾ-ṯəraḥēm ʾeṯ-yərûšālaim
-    vs. rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilman fa-ghfir li-lladhīna tābū ... wa-adkhilhum jannāti
-    ʿadn: an angel prays to God for mercy (riḥam / raḥma, cognate) on humans. Zechariah''s angel prays
-    for Jerusalem and Judah''s cities; the Quran''s for the repentant believers and their righteous kin.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angels who bear the Throne and those around it glorify God and
     ask forgiveness for the believers, praying they and their righteous kin enter Eden (weight 6.7). Pair
@@ -87,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+  praying they and their righteous kin enter Eden
+kinds:
+- parallel
+units:
+- id: hb-zech-1-horsemen-among-myrtles
+  title: First night vision, the horsemen among the myrtles
+  tradition: judaism
+- id: quran-40-throne-bearers
+  title: 'Ha-Mim: the Forgiver; the throne-bearers pray for the believers'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The angels who bear the Throne and those around it glorify God and ask forgiveness for the believers,
+    praying they and their righteous kin enter Eden
+  note: 'wa-yyaʿan malʾaḵ-YHWH wa-yyōʾmar YHWH ṣəḇāʾôṯ ʿaḏ-māṯay ʾattâ lōʾ-ṯəraḥēm ʾeṯ-yərûšālaim vs.
+    rabbanā wasiʿta kulla shayʾin raḥmatan wa-ʿilman fa-ghfir li-lladhīna tābū ... wa-adkhilhum jannāti
+    ʿadn: an angel prays to God for mercy (riḥam / raḥma, cognate) on humans. Zechariah''s angel prays
+    for Jerusalem and Judah''s cities; the Quran''s for the repentant believers and their righteous kin.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 1:12
+      lang: he
+      text: וַיַּ֣עַן מַלְאַךְ יְהוָה֮ וַיֹּאמַר֒ יְהוָ֣ה צְבָא֔וֹת עַד מָתַ֗י אַתָּה֙ לֹֽא תְרַחֵ֣ם אֶת
+        יְרוּשָׁלִַ֔ם וְאֵ֖ת עָרֵ֣י יְהוּדָ֑ה אֲשֶׁ֣ר זָעַ֔מְתָּה זֶ֖ה שִׁבְעִ֥ים שָׁנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 40:7
+      lang: ar
+      text: ٱلَّذِينَ يَحْمِلُونَ ٱلْعَرْشَ وَمَنْ حَوْلَهُۥ يُسَبِّحُونَ بِحَمْدِ رَبِّهِمْ وَيُؤْمِنُونَ
+        بِهِۦ وَيَسْتَغْفِرُونَ لِلَّذِينَ ءَامَنُوا۟ رَبَّنَا وَسِعْتَ كُلَّ شَىْءٍ رَّحْمَةً وَعِلْمًا
+        فَٱغْفِرْ لِلَّذِينَ تَابُوا۟ وَٱتَّبَعُوا۟ سَبِيلَكَ وَقِهِمْ عَذَابَ ٱلْجَحِيمِ
+    - ref: Quran 40:8
+      lang: ar
+      text: رَبَّنَا وَأَدْخِلْهُمْ جَنَّٰتِ عَدْنٍ ٱلَّتِى وَعَدتَّهُمْ وَمَن صَلَحَ مِنْ ءَابَآئِهِمْ
+        وَأَزْوَٰجِهِمْ وَذُرِّيَّٰتِهِمْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

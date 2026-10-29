@@ -2,8 +2,7 @@
 id: motif-hb-jer-44-queen-of-heaven-vs-quran-5-questions-pagan-camels
 title: The Judeans in Egypt defend their cult of the Queen of Heaven ↔ Questions not to ask; the freed
   camels of the pagans
-summary: 'These two units share 1 motifs: unbelievers defend their practice as what they found their fathers
-  doing.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - ancestral-custom-defense
-passages:
-- tradition: judaism
-  ref: Jer 44:17
-  note: 'Unbelievers defend their practice as what they found their fathers doing (Idolaters defend cult
-    by the precedent of their fathers. Q: ḥasbunā mā wajadnā ʿalayhi ābāʾanā. Jer: kaʾăšer ʿāśînû ʾănaḥnû
-    wa-ʾăvōtênû malkhênû wə-śārênû bə-ʿārê Yəhûdāh. Q answers a-wa-law kāna ābāʾuhum lā yaʿlamūna shayʾan.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת הַשָּׁמַיִם֮
-    וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ וְשָׂרֵ֔ינוּ
-    בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה טוֹבִ֔ים וְרָעָ֖ה
-    לֹ֥א רָאִֽינוּ
-- tradition: islam
-  ref: Quran 5:104
-  note: Unbelievers defend their practice as what they found their fathers doing
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا
-    مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا يَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Idolaters defend cult by the precedent of their fathers. Q: ḥasbunā mā wajadnā ʿalayhi ābāʾanā.
-    Jer: kaʾăšer ʿāśînû ʾănaḥnû wa-ʾăvōtênû malkhênû wə-śārênû bə-ʿārê Yəhûdāh. Q answers a-wa-law kāna
-    ābāʾuhum lā yaʿlamūna shayʾan.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers defend their practice as what they found their fathers
     doing (weight 5.1). Pair score 5.1.'
@@ -69,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unbelievers defend their practice as what they found their fathers doing
+kinds:
+- parallel
+units:
+- id: hb-jer-44-queen-of-heaven
+  title: The Judeans in Egypt defend their cult of the Queen of Heaven
+  tradition: judaism
+- id: quran-5-questions-pagan-camels
+  title: Questions not to ask; the freed camels of the pagans
+  tradition: islam
+matches:
+- kind: parallel
+  label: Unbelievers defend their practice as what they found their fathers doing
+  note: 'Idolaters defend cult by the precedent of their fathers. Q: ḥasbunā mā wajadnā ʿalayhi ābāʾanā.
+    Jer: kaʾăšer ʿāśînû ʾănaḥnû wa-ʾăvōtênû malkhênû wə-śārênû bə-ʿārê Yəhûdāh. Q answers a-wa-law kāna
+    ābāʾuhum lā yaʿlamūna shayʾan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 44:17
+      lang: he
+      text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת
+        הַשָּׁמַיִם֮ וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ
+        וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה
+        טוֹבִ֔ים וְרָעָ֖ה לֹ֥א רָאִֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:104
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسْبُنَا
+        مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ءَابَآؤُهُمْ لَا يَعْلَمُونَ شَيْـًٔا وَلَا
+        يَهْتَدُونَ
 ---
 
 ## Questions

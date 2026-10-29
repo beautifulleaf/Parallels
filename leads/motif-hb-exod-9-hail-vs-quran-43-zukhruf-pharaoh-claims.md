@@ -2,8 +2,7 @@
 id: motif-hb-exod-9-hail-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Plague 7: hail and fire ↔ Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh
   and the drowning'
-summary: 'These two units share 1 motifs: the king breaks his promise to release the people once a plague
-  is lifted.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - pharaoh-deceives-again
-passages:
-- tradition: judaism
-  ref: Exod 9:27
-  note: 'The king breaks his promise to release the people once a plague is lifted (Same pattern at the
-    hail: ḥāṭāʾṯî hap-pāʿam YHWH haṣ-ṣaddîq wa-ʾănî wə-ʿammî hā-rəšāʿîm; haʿtîrû ʾel YHWH ... wa-ʾăšalləḥâ
-    ʾeṯḵem vs. dʿu lanā rabbaka ... innanā la-muhtadūn, then yankuthūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
-    יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
-- tradition: judaism
-  ref: Exod 9:28
-  note: 'The king breaks his promise to release the people once a plague is lifted (Same pattern at the
-    hail: ḥāṭāʾṯî hap-pāʿam YHWH haṣ-ṣaddîq wa-ʾănî wə-ʿammî hā-rəšāʿîm; haʿtîrû ʾel YHWH ... wa-ʾăšalləḥâ
-    ʾeṯḵem vs. dʿu lanā rabbaka ... innanā la-muhtadūn, then yankuthūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעְתִּ֨ירוּ֙ אֶל יְהוָ֔ה וְרַ֕ב מִֽהְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּבָרָ֑ד וַאֲשַׁלְּחָ֣ה אֶתְכֶ֔ם וְלֹ֥א
-    תֹסִפ֖וּן לַעֲמֹֽד
-- tradition: islam
-  ref: Quran 43:49
-  note: The king breaks his promise to release the people once a plague is lifted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
-- tradition: islam
-  ref: Quran 43:50
-  note: The king breaks his promise to release the people once a plague is lifted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Same pattern at the hail: ḥāṭāʾṯî hap-pāʿam YHWH haṣ-ṣaddîq wa-ʾănî wə-ʿammî hā-rəšāʿîm;
-    haʿtîrû ʾel YHWH ... wa-ʾăšalləḥâ ʾeṯḵem vs. dʿu lanā rabbaka ... innanā la-muhtadūn, then yankuthūn.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
     is lifted (weight 5.8). Pair score 5.8.'
@@ -88,6 +55,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king breaks his promise to release the people once a plague is lifted
+kinds:
+- parallel
+units:
+- id: hb-exod-9-hail
+  title: 'Plague 7: hail and fire'
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The king breaks his promise to release the people once a plague is lifted
+  note: 'Same pattern at the hail: ḥāṭāʾṯî hap-pāʿam YHWH haṣ-ṣaddîq wa-ʾănî wə-ʿammî hā-rəšāʿîm; haʿtîrû
+    ʾel YHWH ... wa-ʾăšalləḥâ ʾeṯḵem vs. dʿu lanā rabbaka ... innanā la-muhtadūn, then yankuthūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:27
+      lang: he
+      text: וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם
+        יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים
+    - ref: Exod 9:28
+      lang: he
+      text: הַעְתִּ֨ירוּ֙ אֶל יְהוָ֔ה וְרַ֕ב מִֽהְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּבָרָ֑ד וַאֲשַׁלְּחָ֣ה אֶתְכֶ֔ם
+        וְלֹ֥א תֹסִפ֖וּן לַעֲמֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 43:49
+      lang: ar
+      text: وَقَالُوا۟ يَٰٓأَيُّهَ ٱلسَّاحِرُ ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ إِنَّنَا لَمُهْتَدُونَ
+    - ref: Quran 43:50
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلْعَذَابَ إِذَا هُمْ يَنكُثُونَ
 ---
 
 ## Questions

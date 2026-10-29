@@ -2,8 +2,7 @@
 id: motif-hb-ezek-14-idols-in-heart-noah-daniel-job-vs-quran-11-closing
 title: Idols in the heart; Noah, Daniel and Job could not save the land ↔ Stand firm; prayer times; good
   deeds remove bad
-summary: 'These two units share 1 motifs: when a land is destroyed only the righteous few are rescued,
-  by their own righteousness.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 - motif
 motifs:
 - righteous-few-alone-saved
-passages:
-- tradition: judaism
-  ref: Ezek 14:13
-  note: 'When a land is destroyed only the righteous few are rescued, by their own righteousness (illā
-    qalīlan mimman anjaynā minhum (the few who forbade fasād were rescued); hēmmâ bəṣidqātām yənaṣṣəlû
-    napšām: when the land sins, only the righteous save themselves. Ezek denies they could save others;
-    Q laments there were not more such ūlū baqiyya.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֗ם אֶ֚רֶץ כִּ֤י תֶחֱטָא לִי֙ לִמְעָל מַ֔עַל וְנָטִ֤יתִי יָדִי֙ עָלֶ֔יהָ וְשָׁבַ֥רְתִּי
-    לָ֖הּ מַטֵּה לָ֑חֶם וְהִשְׁלַחְתִּי בָ֣הּ רָעָ֔ב וְהִכְרַתִּ֥י מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה
-- tradition: judaism
-  ref: Ezek 14:14
-  note: 'When a land is destroyed only the righteous few are rescued, by their own righteousness (illā
-    qalīlan mimman anjaynā minhum (the few who forbade fasād were rescued); hēmmâ bəṣidqātām yənaṣṣəlû
-    napšām: when the land sins, only the righteous save themselves. Ezek denies they could save others;
-    Q laments there were not more such ūlū baqiyya.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה
-    בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
-- tradition: islam
-  ref: Quran 11:116
-  note: 'When a land is destroyed only the righteous few are rescued, by their own righteousness (illā
-    qalīlan mimman anjaynā minhum (the few who forbade fasād were rescued); hēmmâ bəṣidqātām yənaṣṣəlû
-    napšām: when the land sins, only the righteous save themselves. Ezek denies they could save others;
-    Q laments there were not more such ūlū baqiyya.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَا كَانَ مِنَ ٱلْقُرُونِ مِن قَبْلِكُمْ أُو۟لُوا۟ بَقِيَّةٍ يَنْهَوْنَ عَنِ ٱلْفَسَادِ
-    فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُوا۟ مَآ أُتْرِفُوا۟
-    فِيهِ وَكَانُوا۟ مُجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. illā qalīlan mimman anjaynā minhum (the few who forbade fasād were rescued); hēmmâ bəṣidqātām
-    yənaṣṣəlû napšām: when the land sins, only the righteous save themselves. Ezek denies they could save
-    others; Q laments there were not more such ūlū baqiyya.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When a land is destroyed only the righteous few are rescued, by
     their own righteousness (weight 6.7). Pair score 6.7.'
@@ -86,6 +51,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When a land is destroyed only the righteous few are rescued, by their own righteousness
+kinds:
+- parallel
+units:
+- id: hb-ezek-14-idols-in-heart-noah-daniel-job
+  title: Idols in the heart; Noah, Daniel and Job could not save the land
+  tradition: judaism
+- id: quran-11-closing
+  title: Stand firm; prayer times; good deeds remove bad
+  tradition: islam
+matches:
+- kind: parallel
+  label: When a land is destroyed only the righteous few are rescued, by their own righteousness
+  note: 'illā qalīlan mimman anjaynā minhum (the few who forbade fasād were rescued); hēmmâ bəṣidqātām
+    yənaṣṣəlû napšām: when the land sins, only the righteous save themselves. Ezek denies they could save
+    others; Q laments there were not more such ūlū baqiyya.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 14:13
+      lang: he
+      text: בֶּן אָדָ֗ם אֶ֚רֶץ כִּ֤י תֶחֱטָא לִי֙ לִמְעָל מַ֔עַל וְנָטִ֤יתִי יָדִי֙ עָלֶ֔יהָ וְשָׁבַ֥רְתִּי
+        לָ֖הּ מַטֵּה לָ֑חֶם וְהִשְׁלַחְתִּי בָ֣הּ רָעָ֔ב וְהִכְרַתִּ֥י מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה
+    - ref: Ezek 14:14
+      lang: he
+      text: וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֨לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דנאל דָּנִיֵּ֣אל וְאִיּ֑וֹב
+        הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:116
+      lang: ar
+      text: فَلَوْلَا كَانَ مِنَ ٱلْقُرُونِ مِن قَبْلِكُمْ أُو۟لُوا۟ بَقِيَّةٍ يَنْهَوْنَ عَنِ ٱلْفَسَادِ
+        فِى ٱلْأَرْضِ إِلَّا قَلِيلًا مِّمَّنْ أَنجَيْنَا مِنْهُمْ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُوا۟ مَآ
+        أُتْرِفُوا۟ فِيهِ وَكَانُوا۟ مُجْرِمِينَ
 ---
 
 ## Questions

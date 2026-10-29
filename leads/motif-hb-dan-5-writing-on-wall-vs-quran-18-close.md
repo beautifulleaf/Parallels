@@ -2,8 +2,7 @@
 id: motif-hb-dan-5-writing-on-wall-vs-quran-18-close
 title: Belshazzar's feast and the writing on the wall ↔ Those whose works are weightless; the sea as ink
   (Surah 18:102-110)
-summary: 'These two units share 1 motifs: the deniers'' works are void; no weight is assigned them on
-  the day of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - works-weightless-on-judgment-day
-passages:
-- tradition: judaism
-  ref: Dan 5:27
-  note: 'The deniers'' works are void; no weight is assigned them on the Day of Resurrection (təqēl təqîltâ
-    bəmōʾzanyāʾ wəhištəkaḥat ḥassîr; fa-ḥabiṭat aʿmāluhum fa-lā nuqīmu lahum yawma l-qiyāmati waznā: weighed
-    and found to have no weight (mōʾzanyāʾ / wazn, cognate root w-z-n). Dan''s verdict falls on a king
-    in this life; Q''s on deniers at the resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
-- tradition: islam
-  ref: Quran 18:105
-  note: The deniers' works are void; no weight is assigned them on the Day of Resurrection (falā nuqīmu
-    lahum yawma l-qiyāmati waznā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَٰلُهُمْ
-    فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَزْنًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. təqēl təqîltâ bəmōʾzanyāʾ wəhištəkaḥat ḥassîr; fa-ḥabiṭat aʿmāluhum fa-lā nuqīmu lahum yawma
-    l-qiyāmati waznā: weighed and found to have no weight (mōʾzanyāʾ / wazn, cognate root w-z-n). Dan''s
-    verdict falls on a king in this life; Q''s on deniers at the resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The deniers'' works are void; no weight is assigned them on the
     Day of Resurrection (weight 6.7). Pair score 6.7.'
@@ -69,6 +48,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The deniers' works are void; no weight is assigned them on the Day of Resurrection
+kinds:
+- echo
+units:
+- id: hb-dan-5-writing-on-wall
+  title: Belshazzar's feast and the writing on the wall
+  tradition: judaism
+- id: quran-18-close
+  title: Those whose works are weightless; the sea as ink (Surah 18:102-110)
+  tradition: islam
+matches:
+- kind: echo
+  label: The deniers' works are void; no weight is assigned them on the Day of Resurrection
+  note: 'təqēl təqîltâ bəmōʾzanyāʾ wəhištəkaḥat ḥassîr; fa-ḥabiṭat aʿmāluhum fa-lā nuqīmu lahum yawma
+    l-qiyāmati waznā: weighed and found to have no weight (mōʾzanyāʾ / wazn, cognate root w-z-n). Dan''s
+    verdict falls on a king in this life; Q''s on deniers at the resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 5:27
+      lang: he
+      text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 18:105
+      lang: ar
+      text: أُو۟لَٰٓئِكَ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ رَبِّهِمْ وَلِقَآئِهِۦ فَحَبِطَتْ أَعْمَٰلُهُمْ
+        فَلَا نُقِيمُ لَهُمْ يَوْمَ ٱلْقِيَٰمَةِ وَزْنًا
 ---
 
 ## Questions

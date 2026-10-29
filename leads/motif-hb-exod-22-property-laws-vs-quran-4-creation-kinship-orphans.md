@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-22-property-laws-vs-quran-4-creation-kinship-orphans
 title: Covenant Code - theft, deposits, seduction ↔ One soul, the wombs, orphans' property and the bride-gift
-summary: 'These two units share 2 motifs: a man who seduces an unbetrothed virgin must marry her or pay
-  the bride-price, who receives the marriage payment [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,70 +14,9 @@ layers:
 motifs:
 - seducer-must-marry-or-pay-bride-price
 - marriage-payment-recipient-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 22:15
-  note: A man who seduces an unbetrothed virgin must marry her or pay the bride-price
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה
-    לּ֖וֹ לְאִשָּֽׁה
-- tradition: judaism
-  ref: Exod 22:16
-  note: A man who seduces an unbetrothed virgin must marry her or pay the bride-price
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת
-- tradition: islam
-  ref: Quran 4:4
-  note: 'A man who seduces an unbetrothed virgin must marry her or pay the bride-price (contrast: in Exod
-    22:16 the mohar goes to the father)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
-    فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
-- tradition: judaism
-  ref: Exod 22:15
-  note: 'Who receives the marriage payment [divergence between the texts] (Exod 22:15-16 māhōr yimhārennâ
-    lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price
-    (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in
-    ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women their bride-gifts as a free gift; only
-    if they remit part willingly may you take it. The marriage payment goes to the woman herself, not
-    to her father, and she controls it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה
-    לּ֖וֹ לְאִשָּֽׁה
-- tradition: judaism
-  ref: Exod 22:16
-  note: 'Who receives the marriage payment [divergence between the texts] (Exod 22:15-16 māhōr yimhārennâ
-    lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price
-    (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in
-    ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women their bride-gifts as a free gift; only
-    if they remit part willingly may you take it. The marriage payment goes to the woman herself, not
-    to her father, and she controls it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת
-- tradition: islam
-  ref: Quran 4:4
-  note: 'Who receives the marriage payment [divergence between the texts] (Exod 22:15-16 māhōr yimhārennâ
-    lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price
-    (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in
-    ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women their bride-gifts as a free gift; only
-    if they remit part willingly may you take it. The marriage payment goes to the woman herself, not
-    to her father, and she controls it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
-    فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 22:15-16 māhōr yimhārennâ lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep
-    yišqōl kĕ-mōhar ha-bbĕtûlōt: the bride-price (mōhar) is weighed out, and the father decides; Q 4:4
-    wa-ātū n-nisāʾa ṣaduqātihinna niḥlatan fa-in ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give
-    the women their bride-gifts as a free gift; only if they remit part willingly may you take it. The
-    marriage payment goes to the woman herself, not to her father, and she controls it.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man who seduces an unbetrothed virgin must marry her or pay the
     bride-price (weight 6.7); Who receives the marriage payment [divergence between the texts] (weight
@@ -111,6 +49,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who receives the marriage payment
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-22-property-laws
+  title: Covenant Code - theft, deposits, seduction
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who receives the marriage payment
+  note: 'Exod 22:15-16 māhōr yimhārennâ lô lĕ-ʾiššâ ʾim māʾēn yĕmāʾēn ʾābîhā lĕtittāh lô kesep yišqōl
+    kĕ-mōhar ha-bbĕtûlōt: the bride-price (mōhar) is weighed out, and the father decides; Q 4:4 wa-ātū
+    n-nisāʾa ṣaduqātihinna niḥlatan fa-in ṭibna lakum ʿan shayʾin minhu nafsan fa-kulūhu: give the women
+    their bride-gifts as a free gift; only if they remit part willingly may you take it. The marriage
+    payment goes to the woman herself, not to her father, and she controls it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:15
+      lang: he
+      text: וְכִֽי יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה
+        לּ֖וֹ לְאִשָּֽׁה
+    - ref: Exod 22:16
+      lang: he
+      text: אִם מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:4
+      lang: ar
+      text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
+        فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
+- kind: shared
+  label: A man who seduces an unbetrothed virgin must marry her or pay the bride-price
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:15
+      lang: he
+      text: וְכִֽי יְפַתֶּ֣ה אִ֗ישׁ בְּתוּלָ֛ה אֲשֶׁ֥ר לֹא אֹרָ֖שָׂה וְשָׁכַ֣ב עִמָּ֑הּ מָהֹ֛ר יִמְהָרֶ֥נָּה
+        לּ֖וֹ לְאִשָּֽׁה
+    - ref: Exod 22:16
+      lang: he
+      text: אִם מָאֵ֧ן יְמָאֵ֛ן אָבִ֖יהָ לְתִתָּ֣הּ ל֑וֹ כֶּ֣סֶף יִשְׁקֹ֔ל כְּמֹ֖הַר הַבְּתוּלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:4
+      lang: ar
+      text: وَءَاتُوا۟ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَىْءٍ مِّنْهُ نَفْسًا
+        فَكُلُوهُ هَنِيٓـًٔا مَّرِيٓـًٔا
+    note: 'contrast: in Exod 22:16 the mohar goes to the father'
 ---
 
 ## Questions

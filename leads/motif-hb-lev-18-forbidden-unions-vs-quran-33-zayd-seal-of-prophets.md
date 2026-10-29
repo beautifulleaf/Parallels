@@ -2,8 +2,7 @@
 id: motif-hb-lev-18-forbidden-unions-vs-quran-33-zayd-seal-of-prophets
 title: Forbidden sexual unions; the land vomits out its inhabitants ↔ Zayd's wife, the seal of the prophets,
   and the prophet as a lamp
-summary: 'These two units share 1 motifs: whether a man may marry his son''s (or adopted son''s) wife
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - marrying-a-sons-wife-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 18:15
-  note: 'Whether a man may marry his son''s (or adopted son''s) wife [divergence between the texts] (The
-    son''s wife. Lev: ʿerwaṯ kallāṯəḵā lōʾ ṯəḡalleh ʾēšeṯ binḵā hîʾ (forbidden as the son''s wife). Q:
-    zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥarajun fī azwāji adʿiyāʾihim. The prohibition stands
-    for a real son (cf. Q 4:23 ḥalāʾilu abnāʾikumu lladhīna min aṣlābikum, sons ''from your loins''),
-    but the adopted son''s former wife is declared lawful, because the adoptive tie is not sonship (33:40).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
-- tradition: islam
-  ref: Quran 33:37
-  note: 'Whether a man may marry his son''s (or adopted son''s) wife [divergence between the texts] (The
-    son''s wife. Lev: ʿerwaṯ kallāṯəḵā lōʾ ṯəḡalleh ʾēšeṯ binḵā hîʾ (forbidden as the son''s wife). Q:
-    zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥarajun fī azwāji adʿiyāʾihim. The prohibition stands
-    for a real son (cf. Q 4:23 ḥalāʾilu abnāʾikumu lladhīna min aṣlābikum, sons ''from your loins''),
-    but the adopted son''s former wife is declared lawful, because the adoptive tie is not sonship (33:40).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ
-    وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ
-    أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ
-    حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The son''s wife. Lev: ʿerwaṯ kallāṯəḵā lōʾ ṯəḡalleh ʾēšeṯ binḵā hîʾ (forbidden as the
-    son''s wife). Q: zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥarajun fī azwāji adʿiyāʾihim. The
-    prohibition stands for a real son (cf. Q 4:23 ḥalāʾilu abnāʾikumu lladhīna min aṣlābikum, sons ''from
-    your loins''), but the adopted son''s former wife is declared lawful, because the adoptive tie is
-    not sonship (33:40).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether a man may marry his son''s (or adopted son''s) wife [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -80,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether a man may marry his son's (or adopted son's) wife
+kinds:
+- divergence
+units:
+- id: hb-lev-18-forbidden-unions
+  title: Forbidden sexual unions; the land vomits out its inhabitants
+  tradition: judaism
+- id: quran-33-zayd-seal-of-prophets
+  title: Zayd's wife, the seal of the prophets, and the prophet as a lamp
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether a man may marry his son's (or adopted son's) wife
+  note: 'The son''s wife. Lev: ʿerwaṯ kallāṯəḵā lōʾ ṯəḡalleh ʾēšeṯ binḵā hîʾ (forbidden as the son''s
+    wife). Q: zawwajnākahā li-kay lā yakūna ʿalā l-muʾminīna ḥarajun fī azwāji adʿiyāʾihim. The prohibition
+    stands for a real son (cf. Q 4:23 ḥalāʾilu abnāʾikumu lladhīna min aṣlābikum, sons ''from your loins''),
+    but the adopted son''s former wife is declared lawful, because the adoptive tie is not sonship (33:40).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 18:15
+      lang: he
+      text: עֶרְוַ֥ת כַּלָּֽתְךָ֖ לֹ֣א תְגַלֵּ֑ה אֵ֤שֶׁת בִּנְךָ֙ הִ֔וא לֹ֥א תְגַלֶּ֖ה עֶרְוָתָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 33:37
+      lang: ar
+      text: وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ
+        زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ
+        أَحَقُّ أَن تَخْشَىٰهُ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَٰكَهَا لِكَىْ لَا يَكُونَ
+        عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا وَكَانَ
+        أَمْرُ ٱللَّهِ مَفْعُولًا
 ---
 
 ## Questions

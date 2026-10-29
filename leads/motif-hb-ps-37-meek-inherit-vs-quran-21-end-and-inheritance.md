@@ -2,8 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-21-end-and-inheritance
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ One community, Gog and Magog,
   the rolled heaven and the Zabur''s promise'
-summary: 'These two units share 1 motifs: the meek / those who wait for yhwh / the righteous and their
-  seed shall inherit the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 37:9
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
-- tradition: judaism
-  ref: Ps 37:11
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
-- tradition: islam
-  ref: Quran 21:105
-  note: 'The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) (explicit citation: ''We wrote in the Zabūr after the Reminder that my righteous servants will
-    inherit the earth'' = Ps 37:29)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ ٱلصَّٰلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. Explicit citation with source named: wa-la-qad katabnā fī z-Zabūri min baʿdi dh-dhikri anna
-    l-arḍa yarithuhā ʿibādiya ṣ-ṣāliḥūn; ṣaddîqîm yîrəšû-ʾāreṣ wəyiškənû lāʿad ʿālêhā. The words match
-    closely: ʾereṣ / al-arḍ, yîrəšû / yarithu (cognate y-r-š / w-r-th), ṣaddîqîm / ʿibādiya ṣ-ṣāliḥūn.
-    One of the few places where the Quran quotes a Psalm and names the Zabūr as its source. Q makes ''the
-    land'' read as ''the earth'' in an eschatological frame (after the rolled-up heaven, 21:104).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The meek / those who wait for YHWH / the righteous and their seed
     shall inherit the land (yirshu arets) (weight 5.4). Pair score 5.4.'
@@ -80,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+  arets)
+kinds:
+- parallel
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-21-end-and-inheritance
+  title: One community, Gog and Magog, the rolled heaven and the Zabur's promise
+  tradition: islam
+matches:
+- kind: parallel
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  note: 'Explicit citation with source named: wa-la-qad katabnā fī z-Zabūri min baʿdi dh-dhikri anna l-arḍa
+    yarithuhā ʿibādiya ṣ-ṣāliḥūn; ṣaddîqîm yîrəšû-ʾāreṣ wəyiškənû lāʿad ʿālêhā. The words match closely:
+    ʾereṣ / al-arḍ, yîrəšû / yarithu (cognate y-r-š / w-r-th), ṣaddîqîm / ʿibādiya ṣ-ṣāliḥūn. One of the
+    few places where the Quran quotes a Psalm and names the Zabūr as its source. Q makes ''the land''
+    read as ''the earth'' in an eschatological frame (after the rolled-up heaven, 21:104).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:29
+      lang: he
+      text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
+    - ref: Ps 37:9
+      lang: he
+      text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
+    - ref: Ps 37:11
+      lang: he
+      text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
+  - tradition: islam
+    passages:
+    - ref: Quran 21:105
+      lang: ar
+      text: وَلَقَدْ كَتَبْنَا فِى ٱلزَّبُورِ مِنۢ بَعْدِ ٱلذِّكْرِ أَنَّ ٱلْأَرْضَ يَرِثُهَا عِبَادِىَ
+        ٱلصَّٰلِحُونَ
 ---
 
 ## Questions

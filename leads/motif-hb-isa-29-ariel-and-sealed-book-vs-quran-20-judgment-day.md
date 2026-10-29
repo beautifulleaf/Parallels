@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-20-judgment-day
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ The
   trumpet, the leveled mountains and the hushed judgment
-summary: 'These two units share 1 motifs: on the day of judgment voices are hushed before the merciful;
-  only a faint murmur is heard.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - voices-hushed-to-whisper-at-judgment
-passages:
-- tradition: judaism
-  ref: Isa 29:4
-  note: 'On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard (ûmēʿāpār
-    tiššaḥ ʾimrātēk wəhāyâ kəʾôb mēʾereṣ qôlēk ûmēʿāpār ʾimrātēk təṣapṣēp; fa-lā tasmaʿu illā hamsā, and
-    yatakhāfatūna baynahum (20:103): under God''s judgment speech sinks to a faint murmur. Isa''s humbled
-    Ariel speaks like a ghost from the dust; Q''s crowd whispers before the Merciful.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁפַלְתְּ֙ מֵאֶ֣רֶץ תְּדַבֵּ֔רִי וּמֵֽעָפָ֖ר תִּשַּׁ֣ח אִמְרָתֵ֑ךְ וְֽ֠הָיָה כְּא֤וֹב מֵאֶ֨רֶץ֙
-    קוֹלֵ֔ךְ וּמֵעָפָ֖ר אִמְרָתֵ֥ךְ תְּצַפְצֵֽף
-- tradition: islam
-  ref: Quran 20:108
-  note: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ فَلَا
-    تَسْمَعُ إِلَّا هَمْسًا
-- tradition: islam
-  ref: Quran 20:111
-  note: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَنَتِ ٱلْوُجُوهُ لِلْحَىِّ ٱلْقَيُّومِ وَقَدْ خَابَ مَنْ حَمَلَ ظُلْمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ûmēʿāpār tiššaḥ ʾimrātēk wəhāyâ kəʾôb mēʾereṣ qôlēk ûmēʿāpār ʾimrātēk təṣapṣēp; fa-lā tasmaʿu
-    illā hamsā, and yatakhāfatūna baynahum (20:103): under God''s judgment speech sinks to a faint murmur.
-    Isa''s humbled Ariel speaks like a ghost from the dust; Q''s crowd whispers before the Merciful.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day of judgment voices are hushed before the Merciful; only
     a faint murmur is heard (weight 6.3). Pair score 6.3.'
@@ -80,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-20-judgment-day
+  title: The trumpet, the leveled mountains and the hushed judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day of judgment voices are hushed before the Merciful; only a faint murmur is heard
+  note: 'ûmēʿāpār tiššaḥ ʾimrātēk wəhāyâ kəʾôb mēʾereṣ qôlēk ûmēʿāpār ʾimrātēk təṣapṣēp; fa-lā tasmaʿu
+    illā hamsā, and yatakhāfatūna baynahum (20:103): under God''s judgment speech sinks to a faint murmur.
+    Isa''s humbled Ariel speaks like a ghost from the dust; Q''s crowd whispers before the Merciful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:4
+      lang: he
+      text: וְשָׁפַלְתְּ֙ מֵאֶ֣רֶץ תְּדַבֵּ֔רִי וּמֵֽעָפָ֖ר תִּשַּׁ֣ח אִמְרָתֵ֑ךְ וְֽ֠הָיָה כְּא֤וֹב מֵאֶ֨רֶץ֙
+        קוֹלֵ֔ךְ וּמֵעָפָ֖ר אִמְרָתֵ֥ךְ תְּצַפְצֵֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 20:108
+      lang: ar
+      text: يَوْمَئِذٍ يَتَّبِعُونَ ٱلدَّاعِىَ لَا عِوَجَ لَهُۥ وَخَشَعَتِ ٱلْأَصْوَاتُ لِلرَّحْمَٰنِ
+        فَلَا تَسْمَعُ إِلَّا هَمْسًا
 ---
 
 ## Questions

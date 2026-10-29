@@ -2,8 +2,7 @@
 id: motif-hb-jer-17-heal-me-vs-quran-46-ahqaf-hud-and-the-jinn
 title: Third confession - heal me and I shall be healed ↔ Hud warns 'Ad at the dunes; the cloud that was
   not rain; the jinn listen to the Quran
-summary: 'These two units share 1 motifs: scoffers dare god or the prophet to hurry the threatened judgment
-  so they may see it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - scoffers-challenge-god-to-hasten-doom
-passages:
-- tradition: judaism
-  ref: Jer 17:15
-  note: 'Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hinnēh
-    hēmmâ ʾōmərîm ʾēlay ʾayyēh dəḇar YHWH yāḇôʾ nāʾ vs. fa-ʾtinā bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn:
-    the people taunt the prophet whose threats have not yet come true.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּה הֵ֕מָּה אֹמְרִ֖ים אֵלָ֑י אַיֵּ֥ה דְבַר יְהוָ֖ה יָ֥בוֹא נָֽא
-- tradition: islam
-  ref: Quran 46:22
-  note: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ vs. fa-ʾtinā
-    bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare to hurry God's
-    plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ
-    ٱلصَّٰدِقِينَ
-- tradition: islam
-  ref: Quran 46:24
-  note: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it (hā-ʾōmərîm
-    yəmahēr yāḥîšâ maʿăśēhû ləmaʿan nirʾeh wə-ṯiqraḇ wə-ṯāḇôʾâ ʿăṣaṯ qəḏôš yiśrāʾēl wə-nēḏāʿâ vs. fa-ʾtinā
-    bi-mā taʿidunā in kunta mina ṣ-ṣādiqīn ... bal huwa mā staʿjaltum bihi. The same dare to hurry God's
-    plan; Hud answers innamā l-ʿilmu ʿinda llāh (46:23).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا رَأَوْهُ عَارِضًا مُّسْتَقْبِلَ أَوْدِيَتِهِمْ قَالُوا۟ هَٰذَا عَارِضٌ مُّمْطِرُنَا بَلْ
-    هُوَ مَا ٱسْتَعْجَلْتُم بِهِۦ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. hinnēh hēmmâ ʾōmərîm ʾēlay ʾayyēh dəḇar YHWH yāḇôʾ nāʾ vs. fa-ʾtinā bi-mā taʿidunā in kunta
-    mina ṣ-ṣādiqīn: the people taunt the prophet whose threats have not yet come true.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers dare God or the prophet to hurry the threatened judgment
     so they may see it (weight 6.3). Pair score 6.3.'
@@ -78,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it
+kinds:
+- parallel
+units:
+- id: hb-jer-17-heal-me
+  title: Third confession - heal me and I shall be healed
+  tradition: judaism
+- id: quran-46-ahqaf-hud-and-the-jinn
+  title: Hud warns 'Ad at the dunes; the cloud that was not rain; the jinn listen to the Quran
+  tradition: islam
+matches:
+- kind: parallel
+  label: Scoffers dare God or the prophet to hurry the threatened judgment so they may see it
+  note: 'hinnēh hēmmâ ʾōmərîm ʾēlay ʾayyēh dəḇar YHWH yāḇôʾ nāʾ vs. fa-ʾtinā bi-mā taʿidunā in kunta mina
+    ṣ-ṣādiqīn: the people taunt the prophet whose threats have not yet come true.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:15
+      lang: he
+      text: הִנֵּה הֵ֕מָּה אֹמְרִ֖ים אֵלָ֑י אַיֵּ֥ה דְבַר יְהוָ֖ה יָ֥בוֹא נָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 46:22
+      lang: ar
+      text: قَالُوٓا۟ أَجِئْتَنَا لِتَأْفِكَنَا عَنْ ءَالِهَتِنَا فَأْتِنَا بِمَا تَعِدُنَآ إِن كُنتَ
+        مِنَ ٱلصَّٰدِقِينَ
 ---
 
 ## Questions

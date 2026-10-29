@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-28-jacobs-ladder-vs-quran-22-abraham-house-pilgrimage
 title: Jacob's dream at Bethel ↔ Abraham, the Ancient House and the rites of pilgrimage and sacrifice
-summary: 'These two units share 1 motifs: a place recognized as the house of god and gate of heaven.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -14,34 +14,7 @@ layers:
 - motif
 motifs:
 - house-of-god-gate-of-heaven
-passages:
-- tradition: judaism
-  ref: Gen 28:16
-  note: A place recognized as the house of God and gate of heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒ וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה וְאָנֹכִ֖י
-    לֹ֥א יָדָֽעְתִּי
-- tradition: judaism
-  ref: Gen 28:17
-  note: A place recognized as the house of God and gate of heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּירָא֙ וַיֹּאמַ֔ר מַה נּוֹרָ֖א הַמָּק֣וֹם הַזֶּ֑ה אֵ֣ין זֶ֗ה כִּ֚י אִם בֵּ֣ית אֱלֹהִ֔ים וְזֶ֖ה
-    שַׁ֥עַר הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 22:26
-  note: A place recognized as the house of God and gate of heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ بَيْتِىَ
-    لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
-- tradition: islam
-  ref: Quran 22:29
-  note: A place recognized as the house of God and gate of heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A place recognized as the house of God and gate of heaven (weight
     6.7). Pair score 6.7.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A place recognized as the house of God and gate of heaven
+kinds:
+- shared
+units:
+- id: hb-gen-28-jacobs-ladder
+  title: Jacob's dream at Bethel
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: shared
+  label: A place recognized as the house of God and gate of heaven
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 28:16
+      lang: he
+      text: וַיִּיקַ֣ץ יַעֲקֹב֮ מִשְּׁנָתוֹ֒ וַיֹּ֕אמֶר אָכֵן֙ יֵ֣שׁ יְהוָ֔ה בַּמָּק֖וֹם הַזֶּ֑ה וְאָנֹכִ֖י
+        לֹ֥א יָדָֽעְתִּי
+    - ref: Gen 28:17
+      lang: he
+      text: וַיִּירָא֙ וַיֹּאמַ֔ר מַה נּוֹרָ֖א הַמָּק֣וֹם הַזֶּ֑ה אֵ֣ין זֶ֗ה כִּ֚י אִם בֵּ֣ית אֱלֹהִ֔ים
+        וְזֶ֖ה שַׁ֥עַר הַשָּׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:26
+      lang: ar
+      text: وَإِذْ بَوَّأْنَا لِإِبْرَٰهِيمَ مَكَانَ ٱلْبَيْتِ أَن لَّا تُشْرِكْ بِى شَيْـًٔا وَطَهِّرْ
+        بَيْتِىَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ
+    - ref: Quran 22:29
+      lang: ar
+      text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
 ---
 
 ## Questions

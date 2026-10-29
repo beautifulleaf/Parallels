@@ -2,7 +2,7 @@
 id: motif-hb-deut-10-second-tablets-vs-quran-23-lordship-arguments
 title: Second tablets and ark; Levites set apart; what God requires ↔ Who owns the earth? The fables of
   the ancients and the impossibility of many gods
-summary: 'These two units share 1 motifs: heaven and the heaven of heavens belong to god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-of-heavens
-passages:
-- tradition: judaism
-  ref: Deut 10:14
-  note: Heaven and the heaven of heavens belong to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֚ן לַיהוָ֣ה אֱלֹהֶ֔יךָ הַשָּׁמַ֖יִם וּשְׁמֵ֣י הַשָּׁמָ֑יִם הָאָ֖רֶץ וְכָל אֲשֶׁר בָּֽהּ
-- tradition: islam
-  ref: Quran 23:84
-  note: 'Heaven and the heaven of heavens belong to God (rabbu s-samāwāti s-sabʿi wa-rabbu l-ʿarshi l-ʿaẓīmi
-    ... li-mani l-arḍu wa-man fīhā ~ hēn la-YHWH ʾĕlōhêkā haš-šāmayim û-šəmê haš-šāmāyim hā-ʾāreṣ wə-khol
-    ʾăšer bāh: heavens in the plural, and the earth with all in it, belong to God; Deut''s ''heaven of
-    heavens'' corresponds to the Quran''s ''seven heavens''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: islam
-  ref: Quran 23:86
-  note: 'Heaven and the heaven of heavens belong to God (rabbu s-samāwāti s-sabʿi wa-rabbu l-ʿarshi l-ʿaẓīmi
-    ... li-mani l-arḍu wa-man fīhā ~ hēn la-YHWH ʾĕlōhêkā haš-šāmayim û-šəmê haš-šāmāyim hā-ʾāreṣ wə-khol
-    ʾăšer bāh: heavens in the plural, and the earth with all in it, belong to God; Deut''s ''heaven of
-    heavens'' corresponds to the Quran''s ''seven heavens''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. rabbu s-samāwāti s-sabʿi wa-rabbu l-ʿarshi l-ʿaẓīmi ... li-mani l-arḍu wa-man fīhā ~ hēn la-YHWH
-    ʾĕlōhêkā haš-šāmayim û-šəmê haš-šāmāyim hā-ʾāreṣ wə-khol ʾăšer bāh: heavens in the plural, and the
-    earth with all in it, belong to God; Deut''s ''heaven of heavens'' corresponds to the Quran''s ''seven
-    heavens''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven and the heaven of heavens belong to God (weight 5.4). Pair
     score 5.4.'
@@ -78,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven and the heaven of heavens belong to God
+kinds:
+- echo
+units:
+- id: hb-deut-10-second-tablets
+  title: Second tablets and ark; Levites set apart; what God requires
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: echo
+  label: Heaven and the heaven of heavens belong to God
+  note: 'rabbu s-samāwāti s-sabʿi wa-rabbu l-ʿarshi l-ʿaẓīmi ... li-mani l-arḍu wa-man fīhā ~ hēn la-YHWH
+    ʾĕlōhêkā haš-šāmayim û-šəmê haš-šāmāyim hā-ʾāreṣ wə-khol ʾăšer bāh: heavens in the plural, and the
+    earth with all in it, belong to God; Deut''s ''heaven of heavens'' corresponds to the Quran''s ''seven
+    heavens''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 10:14
+      lang: he
+      text: הֵ֚ן לַיהוָ֣ה אֱלֹהֶ֔יךָ הַשָּׁמַ֖יִם וּשְׁמֵ֣י הַשָּׁמָ֑יִם הָאָ֖רֶץ וְכָל אֲשֶׁר בָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:84
+      lang: ar
+      text: قُل لِّمَنِ ٱلْأَرْضُ وَمَن فِيهَآ إِن كُنتُمْ تَعْلَمُونَ
+    - ref: Quran 23:86
+      lang: ar
+      text: قُلْ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-49-no-ransom-vs-quran-26-abraham
 title: Psalm 49 - no man can ransom his brother ↔ Abraham's argument against idols and his prayer
-summary: 'These two units share 1 motifs: no man can ransom his brother or give god a ransom (kofer) for
-  him; the redemption of life is too costly.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,45 +13,9 @@ layers:
 - motif
 motifs:
 - no-ransom-for-a-brother
-passages:
-- tradition: judaism
-  ref: Ps 49:8-10
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
-    נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
-- tradition: judaism
-  ref: Ps 49:8
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 26:100
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly (fa-mā lanā min shāfiʿīna wa-lā ṣadīqin ḥamīmin ~ ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm
-    kofrô: no brother or friend can save another from God''s judgment; the Psalm speaks of ransom (kofer),
-    the Quran of intercessors and a close friend.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا لَنَا مِن شَٰفِعِينَ
-- tradition: islam
-  ref: Quran 26:101
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly (fa-mā lanā min shāfiʿīna wa-lā ṣadīqin ḥamīmin ~ ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm
-    kofrô: no brother or friend can save another from God''s judgment; the Psalm speaks of ransom (kofer),
-    the Quran of intercessors and a close friend.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا صَدِيقٍ حَمِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-mā lanā min shāfiʿīna wa-lā ṣadīqin ḥamīmin ~ ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm
-    kofrô: no brother or friend can save another from God''s judgment; the Psalm speaks of ransom (kofer),
-    the Quran of intercessors and a close friend.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No man can ransom his brother or give God a ransom (kofer) for him;
     the redemption of life is too costly (weight 5.3). Pair score 5.3.'
@@ -88,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+  too costly
+kinds:
+- echo
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+    too costly
+  note: 'fa-mā lanā min shāfiʿīna wa-lā ṣadīqin ḥamīmin ~ ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm
+    kofrô: no brother or friend can save another from God''s judgment; the Psalm speaks of ransom (kofer),
+    the Quran of intercessors and a close friend.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:100
+      lang: ar
+      text: فَمَا لَنَا مِن شَٰفِعِينَ
+    - ref: Quran 26:101
+      lang: ar
+      text: وَلَا صَدِيقٍ حَمِيمٍ
 ---
 
 ## Questions

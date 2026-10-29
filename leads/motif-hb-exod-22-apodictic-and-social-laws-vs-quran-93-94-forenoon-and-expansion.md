@@ -2,8 +2,7 @@
 id: motif-hb-exod-22-apodictic-and-social-laws-vs-quran-93-94-forenoon-and-expansion
 title: 'Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ The forenoon and the expansion:
   the orphan prophet consoled'
-summary: 'These two units share 1 motifs: the deniers do not honor the orphan, push him away, and do not
-  urge the feeding of the poor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - neglect-of-orphan-and-poor-condemned
-passages:
-- tradition: judaism
-  ref: Exod 22:21
-  note: 'The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor (fa-ammā
-    l-yatīma fa-lā taqhar wa-ammā s-sāʾila fa-lā tanhar ~ kol ʾalmānāh we-yātôm lōʾ teʿannûn: do not oppress
-    the orphan; the Quran pairs him with the beggar, Exodus with the widow.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן
-- tradition: islam
-  ref: Quran 93:9
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor (do
-    not oppress the orphan or repulse the beggar)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ
-- tradition: islam
-  ref: Quran 93:10
-  note: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor (do
-    not oppress the orphan or repulse the beggar)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-ammā l-yatīma fa-lā taqhar wa-ammā s-sāʾila fa-lā tanhar ~ kol ʾalmānāh we-yātôm lōʾ
-    teʿannûn: do not oppress the orphan; the Quran pairs him with the beggar, Exodus with the widow.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The deniers do not honor the orphan, push him away, and do not urge
     the feeding of the poor (weight 5.8). Pair score 5.8.'
@@ -72,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
+kinds:
+- parallel
+units:
+- id: hb-exod-22-apodictic-and-social-laws
+  title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+  tradition: judaism
+- id: quran-93-94-forenoon-and-expansion
+  title: 'The forenoon and the expansion: the orphan prophet consoled'
+  tradition: islam
+matches:
+- kind: parallel
+  label: The deniers do not honor the orphan, push him away, and do not urge the feeding of the poor
+  note: 'fa-ammā l-yatīma fa-lā taqhar wa-ammā s-sāʾila fa-lā tanhar ~ kol ʾalmānāh we-yātôm lōʾ teʿannûn:
+    do not oppress the orphan; the Quran pairs him with the beggar, Exodus with the widow.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:21
+      lang: he
+      text: כָּל אַלְמָנָ֥ה וְיָת֖וֹם לֹ֥א תְעַנּֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 93:9
+      lang: ar
+      text: فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ
+    - ref: Quran 93:10
+      lang: ar
+      text: وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ
 ---
 
 ## Questions

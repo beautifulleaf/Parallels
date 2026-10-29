@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-34-elihu-defends-gods-justice-vs-quran-23-unnamed-messenger-and-succession
 title: Elihu - God cannot do wrong ↔ A later generation's messenger, the Cry, and messengers in succession
-summary: 'These two units share 1 motifs: human comes from dust and returns to dust.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - dust-to-dust
-passages:
-- tradition: judaism
-  ref: Job 34:15
-  note: Human comes from dust and returns to dust
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִגְוַ֣ע כָּל בָּשָׂ֣ר יָ֑חַד וְ֝אָדָ֗ם עַל עָפָ֥ר יָשֽׁוּב
-- tradition: islam
-  ref: Quran 23:35
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
-- tradition: islam
-  ref: Quran 23:42
-  note: Human comes from dust and returns to dust
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. kuntum turāban ~ yigwaʿ kol bāśār yaḥad wə-ʾādām ʿal ʿāfār yāšûv: all flesh perishes and man
-    returns to dust.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Human comes from dust and returns to dust (weight 5.0). Pair score
     5.0.'
@@ -66,6 +46,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Human comes from dust and returns to dust
+kinds:
+- echo
+units:
+- id: hb-job-34-elihu-defends-gods-justice
+  title: Elihu - God cannot do wrong
+  tradition: judaism
+- id: quran-23-unnamed-messenger-and-succession
+  title: A later generation's messenger, the Cry, and messengers in succession
+  tradition: islam
+matches:
+- kind: echo
+  label: Human comes from dust and returns to dust
+  note: 'kuntum turāban ~ yigwaʿ kol bāśār yaḥad wə-ʾādām ʿal ʿāfār yāšûv: all flesh perishes and man
+    returns to dust.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 34:15
+      lang: he
+      text: יִגְוַ֣ע כָּל בָּשָׂ֣ר יָ֑חַד וְ֝אָדָ֗ם עַל עָפָ֥ר יָשֽׁוּב
+  - tradition: islam
+    passages:
+    - ref: Quran 23:35
+      lang: ar
+      text: أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَٰمًا أَنَّكُم مُّخْرَجُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-4-people-of-book-distortion
 title: Arrival at Sinai, covenant offer and theophany ↔ Shifted words, 'we hear and disobey', and the
   people of the Sabbath
-summary: 'These two units share 1 motifs: the people answer as one: all that yhwh has spoken we will do.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - people-accept-covenant-we-will-do
-passages:
-- tradition: judaism
-  ref: Exod 19:8
-  note: 'The people answer as one: all that YHWH has spoken we will do'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲנ֨וּ כָל הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב
-    מֹשֶׁ֛ה אֶת דִּבְרֵ֥י הָעָ֖ם אֶל יְהוָֽה
-- tradition: islam
-  ref: Quran 4:46
-  note: 'The people answer as one: all that YHWH has spoken we will do (parodied: ''we hear and we disobey''
-    instead of ''we hear and we obey'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
-    وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
-    قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ
-    ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Exod 19:8 wayyaʿănû kol-hāʿām yaḥdāw ... naʿăśeh; Q 4:46 has the people''s answer as samiʿnā
-    wa-ʿaṣaynā, with samiʿnā wa-aṭaʿnā as what they should have said.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people answer as one: all that YHWH has spoken we will do (weight
     5.8). Pair score 5.8.'
@@ -69,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The people answer as one: all that YHWH has spoken we will do'
+kinds:
+- echo
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-4-people-of-book-distortion
+  title: Shifted words, 'we hear and disobey', and the people of the Sabbath
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The people answer as one: all that YHWH has spoken we will do'
+  note: Exod 19:8 wayyaʿănû kol-hāʿām yaḥdāw ... naʿăśeh; Q 4:46 has the people's answer as samiʿnā wa-ʿaṣaynā,
+    with samiʿnā wa-aṭaʿnā as what they should have said.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:8
+      lang: he
+      text: וַיַּעֲנ֨וּ כָל הָעָ֤ם יַחְדָּו֙ וַיֹּ֣אמְר֔וּ כֹּ֛ל אֲשֶׁר דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶׂ֑ה וַיָּ֧שֶׁב
+        מֹשֶׁ֛ה אֶת דִּבְרֵ֥י הָעָ֖ם אֶל יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:46
+      lang: ar
+      text: مِّنَ ٱلَّذِينَ هَادُوا۟ يُحَرِّفُونَ ٱلْكَلِمَ عَن مَّوَاضِعِهِۦ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا
+        وَٱسْمَعْ غَيْرَ مُسْمَعٍ وَرَٰعِنَا لَيًّۢا بِأَلْسِنَتِهِمْ وَطَعْنًا فِى ٱلدِّينِ وَلَوْ أَنَّهُمْ
+        قَالُوا۟ سَمِعْنَا وَأَطَعْنَا وَٱسْمَعْ وَٱنظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن
+        لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-7-children-of-adam
 title: Second creation account, Eden, and the making of woman ↔ Children of Adam - clothing, Satan's enmity,
   what God forbids
-summary: 'These two units share 1 motifs: whether the first couple were naked or clothed before the fall
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - first-couple-clothed-or-naked-before-fall-as-contrast
-passages:
-- tradition: judaism
-  ref: Gen 2:25
-  note: 'Whether the first couple were naked or clothed before the fall [contrast between the texts] (Opposite
-    pictures of the first couple before the fall. Gen: wa-yyihyû šənêhem ʿărûmmîm hā-ʾādām wə-ʾištô wə-lōʾ
-    yitbōšāšû, naked and unashamed. Q: ka-mā akhraja abawaykum mina l-jannati yanziʿu ʿanhumā libāsahumā
-    li-yuriyahumā sawʾātihimā, they wore a garment that Satan stripped off. cf. (not a match) rabbinic
-    garments of light (ʾôr / ʿôr), Gen. Rab. 20:12.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ
-- tradition: islam
-  ref: Quran 7:27
-  note: 'Whether the first couple were naked or clothed before the fall [contrast between the texts] (Opposite
-    pictures of the first couple before the fall. Gen: wa-yyihyû šənêhem ʿărûmmîm hā-ʾādām wə-ʾištô wə-lōʾ
-    yitbōšāšû, naked and unashamed. Q: ka-mā akhraja abawaykum mina l-jannati yanziʿu ʿanhumā libāsahumā
-    li-yuriyahumā sawʾātihimā, they wore a garment that Satan stripped off. cf. (not a match) rabbinic
-    garments of light (ʾôr / ʿôr), Gen. Rab. 20:12.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ
-    يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ
-    مِنْ حَيْثُ لَا تَرَوْنَهُمْ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite pictures of the first couple before the fall. Gen: wa-yyihyû šənêhem ʿărûmmîm hā-ʾādām
-    wə-ʾištô wə-lōʾ yitbōšāšû, naked and unashamed. Q: ka-mā akhraja abawaykum mina l-jannati yanziʿu
-    ʿanhumā libāsahumā li-yuriyahumā sawʾātihimā, they wore a garment that Satan stripped off. cf. (not
-    a match) rabbinic garments of light (ʾôr / ʿôr), Gen. Rab. 20:12.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the first couple were naked or clothed before the fall [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -77,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the first couple were naked or clothed before the fall
+kinds:
+- contrast
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-7-children-of-adam
+  title: Children of Adam - clothing, Satan's enmity, what God forbids
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the first couple were naked or clothed before the fall
+  note: 'Opposite pictures of the first couple before the fall. Gen: wa-yyihyû šənêhem ʿărûmmîm hā-ʾādām
+    wə-ʾištô wə-lōʾ yitbōšāšû, naked and unashamed. Q: ka-mā akhraja abawaykum mina l-jannati yanziʿu
+    ʿanhumā libāsahumā li-yuriyahumā sawʾātihimā, they wore a garment that Satan stripped off. cf. (not
+    a match) rabbinic garments of light (ʾôr / ʿôr), Gen. Rab. 20:12.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:25
+      lang: he
+      text: וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:27
+      lang: ar
+      text: يَٰبَنِىٓ ءَادَمَ لَا يَفْتِنَنَّكُمُ ٱلشَّيْطَٰنُ كَمَآ أَخْرَجَ أَبَوَيْكُم مِّنَ ٱلْجَنَّةِ
+        يَنزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْءَٰتِهِمَآ إِنَّهُۥ يَرَىٰكُمْ هُوَ وَقَبِيلُهُۥ
+        مِنْ حَيْثُ لَا تَرَوْنَهُمْ إِنَّا جَعَلْنَا ٱلشَّيَٰطِينَ أَوْلِيَآءَ لِلَّذِينَ لَا يُؤْمِنُونَ
 ---
 
 ## Questions

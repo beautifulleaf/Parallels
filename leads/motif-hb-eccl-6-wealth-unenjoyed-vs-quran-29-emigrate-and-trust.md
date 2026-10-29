@@ -2,8 +2,7 @@
 id: motif-hb-eccl-6-wealth-unenjoyed-vs-quran-29-emigrate-and-trust
 title: Wealth unenjoyed, the stillborn better off, desire unfilled ↔ God's earth is wide; every soul tastes
   death; signs and the secure sanctuary
-summary: 'These two units share 2 motifs: this life is fleeting; whether anything real follows it [divergence
-  between the texts], ''hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience).'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,57 +15,9 @@ layers:
 motifs:
 - fleeting-life-and-what-follows-as-divergence
 - vanity-of-vanities
-passages:
-- tradition: judaism
-  ref: Eccl 6:12
-  note: 'This life is fleeting; whether anything real follows it [divergence between the texts] (Both
-    call this life empty: wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib vs. mispar yəmê ḥayyê heḇlô
-    wə-yaʿăśēm ka-ṣṣēl. Qohelet ends agnostic, mî yaggîd lā-ʾāḏām mah-yihyeh ʾaḥărâw (who will tell man
-    what comes after him; cf. Eccl 9:5, 9:10, no reckoning in Sheol). The Quran answers: inna d-dāra l-ākhirata
-    la-hiya l-ḥayawān, the next abode is the real life.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִֽי יוֹדֵעַ֩ מַה טּ֨וֹב לָֽאָדָ֜ם בַּֽחַיִּ֗ים מִסְפַּ֛ר יְמֵי חַיֵּ֥י הֶבְל֖וֹ וְיַעֲשֵׂ֣ם
-    כַּצֵּ֑ל אֲשֶׁר֙ מִֽי יַגִּ֣יד לָֽאָדָ֔ם מַה יִּהְיֶ֥ה אַחֲרָ֖יו תַּ֥חַת הַשָּֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 29:64
-  note: 'This life is fleeting; whether anything real follows it [divergence between the texts] (Both
-    call this life empty: wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib vs. mispar yəmê ḥayyê heḇlô
-    wə-yaʿăśēm ka-ṣṣēl. Qohelet ends agnostic, mî yaggîd lā-ʾāḏām mah-yihyeh ʾaḥărâw (who will tell man
-    what comes after him; cf. Eccl 9:5, 9:10, no reckoning in Sheol). The Quran answers: inna d-dāra l-ākhirata
-    la-hiya l-ḥayawān, the next abode is the real life.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ لَهِىَ
-    ٱلْحَيَوَانُ لَوْ كَانُوا۟ يَعْلَمُونَ
-- tradition: judaism
-  ref: Eccl 6:2
-  note: '''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִ֣ישׁ אֲשֶׁ֣ר יִתֶּן ל֣וֹ הָאֱלֹהִ֡ים עֹשֶׁר֩ וּנְכָסִ֨ים וְכָב֜וֹד וְֽאֵינֶ֨נּוּ חָסֵ֥ר לְנַפְשׁ֣וֹ
-    מִכֹּ֣ל אֲשֶׁר יִתְאַוֶּ֗ה וְלֹֽא יַשְׁלִיטֶ֤נּוּ הָֽאֱלֹהִים֙ לֶאֱכֹ֣ל מִמֶּ֔נּוּ כִּ֛י אִ֥ישׁ נָכְרִ֖י
-    יֹֽאכֲלֶ֑נּוּ זֶ֥ה הֶ֛בֶל וָחֳלִ֥י רָ֖ע הֽוּא
-- tradition: judaism
-  ref: Eccl 6:4
-  note: '''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי בַהֶ֥בֶל בָּ֖א וּבַחֹ֣שֶׁךְ יֵלֵ֑ךְ וּבַחֹ֖שֶׁךְ שְׁמ֥וֹ יְכֻסֶּֽה
-- tradition: islam
-  ref: Quran 29:64
-  note: '''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience) (worldly life
-    as play; the hereafter is ''the true life'' (al-hayawan))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ لَهِىَ
-    ٱلْحَيَوَانُ لَوْ كَانُوا۟ يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Both call this life empty: wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib vs. mispar
-    yəmê ḥayyê heḇlô wə-yaʿăśēm ka-ṣṣēl. Qohelet ends agnostic, mî yaggîd lā-ʾāḏām mah-yihyeh ʾaḥărâw
-    (who will tell man what comes after him; cf. Eccl 9:5, 9:10, no reckoning in Sheol). The Quran answers:
-    inna d-dāra l-ākhirata la-hiya l-ḥayawān, the next abode is the real life.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: This life is fleeting; whether anything real follows it [divergence
     between the texts] (weight 6.7); ''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility,
@@ -100,6 +51,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: This life is fleeting; whether anything real follows it
+kinds:
+- divergence
+- shared
+units:
+- id: hb-eccl-6-wealth-unenjoyed
+  title: Wealth unenjoyed, the stillborn better off, desire unfilled
+  tradition: judaism
+- id: quran-29-emigrate-and-trust
+  title: God's earth is wide; every soul tastes death; signs and the secure sanctuary
+  tradition: islam
+matches:
+- kind: divergence
+  label: This life is fleeting; whether anything real follows it
+  note: 'Both call this life empty: wa-mā hādhihi l-ḥayātu d-dunyā illā lahwun wa-laʿib vs. mispar yəmê
+    ḥayyê heḇlô wə-yaʿăśēm ka-ṣṣēl. Qohelet ends agnostic, mî yaggîd lā-ʾāḏām mah-yihyeh ʾaḥărâw (who
+    will tell man what comes after him; cf. Eccl 9:5, 9:10, no reckoning in Sheol). The Quran answers:
+    inna d-dāra l-ākhirata la-hiya l-ḥayawān, the next abode is the real life.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 6:12
+      lang: he
+      text: כִּ֣י מִֽי יוֹדֵעַ֩ מַה טּ֨וֹב לָֽאָדָ֜ם בַּֽחַיִּ֗ים מִסְפַּ֛ר יְמֵי חַיֵּ֥י הֶבְל֖וֹ וְיַעֲשֵׂ֣ם
+        כַּצֵּ֑ל אֲשֶׁר֙ מִֽי יַגִּ֣יד לָֽאָדָ֔ם מַה יִּהְיֶ֥ה אַחֲרָ֖יו תַּ֥חַת הַשָּֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:64
+      lang: ar
+      text: وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ
+        لَهِىَ ٱلْحَيَوَانُ لَوْ كَانُوا۟ يَعْلَمُونَ
+- kind: shared
+  label: '''Hevel havalim'': vapor of vapors, all is vapor (vanity, futility, transience)'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 6:2
+      lang: he
+      text: אִ֣ישׁ אֲשֶׁ֣ר יִתֶּן ל֣וֹ הָאֱלֹהִ֡ים עֹשֶׁר֩ וּנְכָסִ֨ים וְכָב֜וֹד וְֽאֵינֶ֨נּוּ חָסֵ֥ר
+        לְנַפְשׁ֣וֹ מִכֹּ֣ל אֲשֶׁר יִתְאַוֶּ֗ה וְלֹֽא יַשְׁלִיטֶ֤נּוּ הָֽאֱלֹהִים֙ לֶאֱכֹ֣ל מִמֶּ֔נּוּ
+        כִּ֛י אִ֥ישׁ נָכְרִ֖י יֹֽאכֲלֶ֑נּוּ זֶ֥ה הֶ֛בֶל וָחֳלִ֥י רָ֖ע הֽוּא
+    - ref: Eccl 6:4
+      lang: he
+      text: כִּֽי בַהֶ֥בֶל בָּ֖א וּבַחֹ֣שֶׁךְ יֵלֵ֑ךְ וּבַחֹ֖שֶׁךְ שְׁמ֥וֹ יְכֻסֶּֽה
+    - ref: Eccl 6:9
+      lang: he
+      text: ט֛וֹב מַרְאֵ֥ה עֵינַ֖יִם מֵֽהֲלָךְ נָ֑פֶשׁ גַּם זֶ֥ה הֶ֖בֶל וּרְע֥וּת רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:64
+      lang: ar
+      text: وَمَا هَٰذِهِ ٱلْحَيَوٰةُ ٱلدُّنْيَآ إِلَّا لَهْوٌ وَلَعِبٌ وَإِنَّ ٱلدَّارَ ٱلْءَاخِرَةَ
+        لَهِىَ ٱلْحَيَوَانُ لَوْ كَانُوا۟ يَعْلَمُونَ
+    note: worldly life as play; the hereafter is 'the true life' (al-hayawan)
 ---
 
 ## Questions

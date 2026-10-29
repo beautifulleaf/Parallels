@@ -2,7 +2,7 @@
 id: motif-hb-neh-8-ezra-reads-torah-vs-quran-5-christology-monks
 title: Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored ↔ Against the deification
   of Jesus; the weeping Christians
-summary: 'These two units share 1 motifs: the people weep on hearing the words of the torah.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - weeping-at-hearing-the-law
-passages:
-- tradition: judaism
-  ref: Neh 8:9
-  note: The people weep on hearing the words of the Torah
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
-    אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל תִּבְכּ֑וּ
-    כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
-- tradition: islam
-  ref: Quran 5:83
-  note: 'The people weep on hearing the words of the Torah (Q: wa-idhā samiʿū mā unzila ilā l-rasūli tarā
-    aʿyunahum tafīḍu mina l-damʿi mimmā ʿarafū mina l-ḥaqq (Christians hearing the Quran). Neh: kî vôkhîm
-    kol-hā-ʿām kə-šomʿām ʾet-divrê hat-tôrāh. Both weep on hearing scripture read. Neh''s leaders forbid
-    the weeping (ʾal-tivkû); Q praises it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا
-    عَرَفُوا۟ مِنَ ٱلْحَقِّ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: wa-idhā samiʿū mā unzila ilā l-rasūli tarā aʿyunahum tafīḍu mina l-damʿi mimmā ʿarafū
-    mina l-ḥaqq (Christians hearing the Quran). Neh: kî vôkhîm kol-hā-ʿām kə-šomʿām ʾet-divrê hat-tôrāh.
-    Both weep on hearing scripture read. Neh''s leaders forbid the weeping (ʾal-tivkû); Q praises it.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people weep on hearing the words of the Torah (weight 6.3).
     Pair score 6.3.'
@@ -73,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people weep on hearing the words of the Torah
+kinds:
+- parallel
+units:
+- id: hb-neh-8-ezra-reads-torah
+  title: Ezra reads the Torah at the Water Gate; the day declared holy; Sukkot restored
+  tradition: judaism
+- id: quran-5-christology-monks
+  title: Against the deification of Jesus; the weeping Christians
+  tradition: islam
+matches:
+- kind: parallel
+  label: The people weep on hearing the words of the Torah
+  note: 'Q: wa-idhā samiʿū mā unzila ilā l-rasūli tarā aʿyunahum tafīḍu mina l-damʿi mimmā ʿarafū mina
+    l-ḥaqq (Christians hearing the Quran). Neh: kî vôkhîm kol-hā-ʿām kə-šomʿām ʾet-divrê hat-tôrāh. Both
+    weep on hearing scripture read. Neh''s leaders forbid the weeping (ʾal-tivkû); Q praises it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 8:9
+      lang: he
+      text: וַיֹּ֣אמֶר נְחֶמְיָ֣ה ה֣וּא הַתִּרְשָׁ֡תָא וְעֶזְרָ֣א הַכֹּהֵ֣ן הַסֹּפֵ֡ר וְהַלְוִיִּם֩ הַמְּבִינִ֨ים
+        אֶת הָעָ֜ם לְכָל הָעָ֗ם הַיּ֤וֹם קָדֹֽשׁ הוּא֙ לַיהוָ֣ה אֱלֹהֵיכֶ֔ם אַל תִּֽתְאַבְּל֖וּ וְאַל
+        תִּבְכּ֑וּ כִּ֤י בוֹכִים֙ כָּל הָעָ֔ם כְּשָׁמְעָ֖ם אֶת דִּבְרֵ֥י הַתּוֹרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:83
+      lang: ar
+      text: وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ
+        مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكْتُبْنَا مَعَ ٱلشَّٰهِدِينَ
 ---
 
 ## Questions

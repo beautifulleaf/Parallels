@@ -2,8 +2,7 @@
 id: motif-hb-isa-44-idol-from-half-a-log-vs-quran-3-world-and-witness
 title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd ↔ The two hosts, worldly
   lures, God's witness
-summary: 'These two units share 1 motifs: who bears witness to god''s oneness [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - who-witnesses-for-god-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 44:8
-  note: 'Who bears witness to God''s oneness [divergence between the texts] (Isa 44:8 wĕ-ʾattem ʿēdāy
-    ha-yēš ʾĕlôah mi-bbalʿāday: Israel are God''s witnesses that there is no god but him; Q 3:18 shahida
-    llāhu annahu lā ilāha illā huwa wa-l-malāʾikatu wa-ulū l-ʿilmi: God himself testifies, with the angels
-    and those with knowledge. The witnesses are no longer the chosen people but God, angels and the learned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַֽל תִּפְחֲדוּ֙ וְאַל תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י
-    הֲיֵ֤שׁ אֱל֨וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל יָדָֽעְתִּי
-- tradition: islam
-  ref: Quran 3:18
-  note: 'Who bears witness to God''s oneness [divergence between the texts] (Isa 44:8 wĕ-ʾattem ʿēdāy
-    ha-yēš ʾĕlôah mi-bbalʿāday: Israel are God''s witnesses that there is no god but him; Q 3:18 shahida
-    llāhu annahu lā ilāha illā huwa wa-l-malāʾikatu wa-ulū l-ʿilmi: God himself testifies, with the angels
-    and those with knowledge. The witnesses are no longer the chosen people but God, angels and the learned.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا
-    بِٱلْقِسْطِ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 44:8 wĕ-ʾattem ʿēdāy ha-yēš ʾĕlôah mi-bbalʿāday: Israel are God''s witnesses that
-    there is no god but him; Q 3:18 shahida llāhu annahu lā ilāha illā huwa wa-l-malāʾikatu wa-ulū l-ʿilmi:
-    God himself testifies, with the angels and those with knowledge. The witnesses are no longer the chosen
-    people but God, angels and the learned.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who bears witness to God''s oneness [divergence between the texts]
     (weight 6.0). Pair score 6.0.'
@@ -78,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who bears witness to God's oneness
+kinds:
+- divergence
+units:
+- id: hb-isa-44-idol-from-half-a-log
+  title: Spirit on your offspring; the idol made from half a log; Cyrus my shepherd
+  tradition: judaism
+- id: quran-3-world-and-witness
+  title: The two hosts, worldly lures, God's witness
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who bears witness to God's oneness
+  note: 'Isa 44:8 wĕ-ʾattem ʿēdāy ha-yēš ʾĕlôah mi-bbalʿāday: Israel are God''s witnesses that there is
+    no god but him; Q 3:18 shahida llāhu annahu lā ilāha illā huwa wa-l-malāʾikatu wa-ulū l-ʿilmi: God
+    himself testifies, with the angels and those with knowledge. The witnesses are no longer the chosen
+    people but God, angels and the learned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 44:8
+      lang: he
+      text: אַֽל תִּפְחֲדוּ֙ וְאַל תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י
+        הֲיֵ֤שׁ אֱל֨וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל יָדָֽעְתִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 3:18
+      lang: ar
+      text: شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا
+        بِٱلْقِسْطِ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-ps-37-meek-inherit-vs-quran-23-believers-succeed
 title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land ↔ The successful believers who
   inherit Firdaws'
-summary: 'These two units share 2 motifs: what the righteous are promised as their inheritance [divergence
-  between the texts], the meek / those who wait for yhwh / the righteous and their seed shall inherit
-  the land (yirshu arets).'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,67 +15,9 @@ layers:
 motifs:
 - what-the-righteous-inherit-as-divergence
 - meek-inherit-the-land
-passages:
-- tradition: judaism
-  ref: Ps 37:29
-  note: 'What the righteous are promised as their inheritance [divergence between the texts] (ulāʾika
-    humu l-wārithūna lladhīna yarithūna l-firdawsa hum fīhā khālidūna ~ ṣaddîqîm yîrəšû ʾāreṣ wə-yiškənû
-    lā-ʿad ʿālêhā: the same verb (waritha / yāraš) and the same ''forever'' (khālidūn / lā-ʿad), but the
-    inheritance moves from the land (ʾereṣ) to paradise (al-firdaws).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
-- tradition: islam
-  ref: Quran 23:10
-  note: 'What the righteous are promised as their inheritance [divergence between the texts] (ulāʾika
-    humu l-wārithūna lladhīna yarithūna l-firdawsa hum fīhā khālidūna ~ ṣaddîqîm yîrəšû ʾāreṣ wə-yiškənû
-    lā-ʿad ʿālêhā: the same verb (waritha / yāraš) and the same ''forever'' (khālidūn / lā-ʿad), but the
-    inheritance moves from the land (ʾereṣ) to paradise (al-firdaws).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
-- tradition: islam
-  ref: Quran 23:11
-  note: 'What the righteous are promised as their inheritance [divergence between the texts] (ulāʾika
-    humu l-wārithūna lladhīna yarithūna l-firdawsa hum fīhā khālidūna ~ ṣaddîqîm yîrəšû ʾāreṣ wə-yiškənû
-    lā-ʿad ʿālêhā: the same verb (waritha / yāraš) and the same ''forever'' (khālidūn / lā-ʿad), but the
-    inheritance moves from the land (ʾereṣ) to paradise (al-firdaws).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: judaism
-  ref: Ps 37:9
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
-- tradition: judaism
-  ref: Ps 37:11
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
-- tradition: islam
-  ref: Quran 23:10
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) ('they are the inheritors (al-wārithūn)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
-- tradition: islam
-  ref: Quran 23:11
-  note: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
-    arets) ('they are the inheritors (al-wārithūn)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. ulāʾika humu l-wārithūna lladhīna yarithūna l-firdawsa hum fīhā khālidūna ~ ṣaddîqîm yîrəšû
-    ʾāreṣ wə-yiškənû lā-ʿad ʿālêhā: the same verb (waritha / yāraš) and the same ''forever'' (khālidūn
-    / lā-ʿad), but the inheritance moves from the land (ʾereṣ) to paradise (al-firdaws).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the righteous are promised as their inheritance [divergence
     between the texts] (weight 6.7); The meek / those who wait for YHWH / the righteous and their seed
@@ -108,6 +48,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What the righteous are promised as their inheritance
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-37-meek-inherit
+  title: 'Psalm 37 - acrostic: do not fret; the meek shall inherit the land'
+  tradition: judaism
+- id: quran-23-believers-succeed
+  title: The successful believers who inherit Firdaws
+  tradition: islam
+matches:
+- kind: divergence
+  label: What the righteous are promised as their inheritance
+  note: 'ulāʾika humu l-wārithūna lladhīna yarithūna l-firdawsa hum fīhā khālidūna ~ ṣaddîqîm yîrəšû ʾāreṣ
+    wə-yiškənû lā-ʿad ʿālêhā: the same verb (waritha / yāraš) and the same ''forever'' (khālidūn / lā-ʿad),
+    but the inheritance moves from the land (ʾereṣ) to paradise (al-firdaws).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:29
+      lang: he
+      text: צַדִּיקִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְיִשְׁכְּנ֖וּ לָעַ֣ד עָלֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:10
+      lang: ar
+      text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
+    - ref: Quran 23:11
+      lang: ar
+      text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+- kind: shared
+  label: The meek / those who wait for YHWH / the righteous and their seed shall inherit the land (yirshu
+    arets)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 37:9
+      lang: he
+      text: כִּֽי מְ֭רֵעִים יִכָּרֵת֑וּן וְקֹוֵ֥י יְ֝הוָ֗ה הֵ֣מָּה יִֽירְשׁוּ אָֽרֶץ
+    - ref: Ps 37:11
+      lang: he
+      text: וַעֲנָוִ֥ים יִֽירְשׁוּ אָ֑רֶץ וְ֝הִתְעַנְּג֗וּ עַל רֹ֥ב שָׁלֽוֹם
+    - ref: Ps 37:22
+      lang: he
+      text: כִּ֣י מְ֭בֹרָכָיו יִ֣ירְשׁוּ אָ֑רֶץ וּ֝מְקֻלָּלָ֗יו יִכָּרֵֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:10
+      lang: ar
+      text: أُو۟لَٰٓئِكَ هُمُ ٱلْوَٰرِثُونَ
+    - ref: Quran 23:11
+      lang: ar
+      text: ٱلَّذِينَ يَرِثُونَ ٱلْفِرْدَوْسَ هُمْ فِيهَا خَٰلِدُونَ
+    note: '''they are the inheritors (al-wārithūn)'''
 ---
 
 ## Questions

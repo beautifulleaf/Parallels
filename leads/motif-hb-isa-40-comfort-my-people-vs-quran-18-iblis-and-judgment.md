@@ -2,8 +2,7 @@
 id: motif-hb-isa-40-comfort-my-people-vs-quran-18-iblis-and-judgment
 title: Comfort my people; a voice in the wilderness; to whom will you liken God ↔ Iblis was of the jinn;
   the partners do not answer (Surah 18:50-59)
-summary: 'These two units share 1 motifs: no one directed the spirit of yhwh or taught him as counselor;
-  god took no advice in creation.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,33 +15,9 @@ layers:
 - motif
 motifs:
 - none-counseled-god
-passages:
-- tradition: judaism
-  ref: Isa 40:13-14
-  note: No one directed the spirit of YHWH or taught him as counselor; God took no advice in creation
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (40:13) מִֽי תִכֵּ֥ן אֶת ר֖וּחַ יְהוָ֑ה וְאִ֥ישׁ עֲצָת֖וֹ יוֹדִיעֶֽנּוּ (40:14) אֶת מִ֤י נוֹעָץ֙
-    וַיְבִינֵ֔הוּ וַֽיְלַמְּדֵ֖הוּ בְּאֹ֣רַח מִשְׁפָּ֑ט וַיְלַמְּדֵ֣הוּ דַ֔עַת וְדֶ֥רֶךְ תְּבוּנ֖וֹת יוֹדִיעֶֽנּוּ
-- tradition: judaism
-  ref: Isa 40:13
-  note: No one directed the spirit of YHWH or taught him as counselor; God took no advice in creation
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי תִכֵּ֥ן אֶת ר֖וּחַ יְהוָ֑ה וְאִ֥ישׁ עֲצָת֖וֹ יוֹדִיעֶֽנּוּ
-- tradition: islam
-  ref: Quran 18:51
-  note: No one directed the spirit of YHWH or taught him as counselor; God took no advice in creation
-    (nor do I take the misleaders as helpers (ʿaḍud))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ
-    ٱلْمُضِلِّينَ عَضُدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mî-tikkēn ʾet-rûaḥ YHWH wəʾîš ʿăṣātô yôdîʿennû ʾet-mî nôʿāṣ; wa-mā kuntu muttakhidha l-muḍillīna
-    ʿaḍudā: God took no counselor or helper in creating. In Q the excluded helpers are the misleaders
-    (Iblis''s offspring); in Isa, any wise advisor.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No one directed the spirit of YHWH or taught him as counselor; God
     took no advice in creation (weight 6.7). Pair score 6.7.'
@@ -79,6 +54,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No one directed the spirit of YHWH or taught him as counselor; God took no advice in creation
+kinds:
+- parallel
+units:
+- id: hb-isa-40-comfort-my-people
+  title: Comfort my people; a voice in the wilderness; to whom will you liken God
+  tradition: judaism
+- id: quran-18-iblis-and-judgment
+  title: Iblis was of the jinn; the partners do not answer (Surah 18:50-59)
+  tradition: islam
+matches:
+- kind: parallel
+  label: No one directed the spirit of YHWH or taught him as counselor; God took no advice in creation
+  note: 'mî-tikkēn ʾet-rûaḥ YHWH wəʾîš ʿăṣātô yôdîʿennû ʾet-mî nôʿāṣ; wa-mā kuntu muttakhidha l-muḍillīna
+    ʿaḍudā: God took no counselor or helper in creating. In Q the excluded helpers are the misleaders
+    (Iblis''s offspring); in Isa, any wise advisor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 40:13
+      lang: he
+      text: מִֽי תִכֵּ֥ן אֶת ר֖וּחַ יְהוָ֑ה וְאִ֥ישׁ עֲצָת֖וֹ יוֹדִיעֶֽנּוּ
+    - ref: Isa 40:14
+      lang: he
+      text: אֶת מִ֤י נוֹעָץ֙ וַיְבִינֵ֔הוּ וַֽיְלַמְּדֵ֖הוּ בְּאֹ֣רַח מִשְׁפָּ֑ט וַיְלַמְּדֵ֣הוּ דַ֔עַת
+        וְדֶ֥רֶךְ תְּבוּנ֖וֹת יוֹדִיעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:51
+      lang: ar
+      text: مَّآ أَشْهَدتُّهُمْ خَلْقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ
+        مُتَّخِذَ ٱلْمُضِلِّينَ عَضُدًا
 ---
 
 ## Questions

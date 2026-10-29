@@ -2,8 +2,7 @@
 id: motif-hb-ezek-3-watchman-and-muteness-vs-quran-19-zechariah-and-john
 title: Ezekiel appointed watchman; bound and struck dumb in his house ↔ Zechariah's secret prayer and
   the birth of John (Surah 19:1-15)
-summary: 'These two units share 1 motifs: god makes the prophet''s tongue cleave to his palate so he is
-  mute except when god speaks.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-struck-dumb
-passages:
-- tradition: judaism
-  ref: Ezek 3:26-27
-  note: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks (Tongue
-    cleaves to his palate except when God opens his mouth)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (3:26) וּלְשֽׁוֹנְךָ֙ אַדְבִּ֣יק אֶל חִכֶּ֔ךָ וְנֶֽאֱלַ֔מְתָּ וְלֹא תִֽהְיֶ֥ה לָהֶ֖ם לְאִ֣ישׁ
-    מוֹכִ֑יחַ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה (3:27) וּֽבְדַבְּרִ֤י אֽוֹתְךָ֙ אֶפְתַּ֣ח אֶת פִּ֔יךָ וְאָמַרְתָּ֣
-    אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהֹוִ֑ה הַשֹּׁמֵ֤עַ יִשְׁמָע֙ וְהֶחָדֵ֣ל יֶחְדָּ֔ל כִּ֛י בֵּ֥ית מְרִ֖י
-    הֵֽמָּה
-- tradition: judaism
-  ref: Ezek 3:26
-  note: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks (Tongue
-    cleaves to his palate except when God opens his mouth)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּלְשֽׁוֹנְךָ֙ אַדְבִּ֣יק אֶל חִכֶּ֔ךָ וְנֶֽאֱלַ֔מְתָּ וְלֹא תִֽהְיֶ֥ה לָהֶ֖ם לְאִ֣ישׁ מוֹכִ֑יחַ
-    כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה
-- tradition: islam
-  ref: Quran 19:10
-  note: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍ سَوِيًّا
-- tradition: islam
-  ref: Quran 19:11
-  note: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً وَعَشِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ûləšônəkā ʾadbîq ʾel-ḥikkekā wəneʾĕlamtā ... ûbədabbərî ʾôtəkā ʾeptaḥ ʾet-pîkā; āyatuka allā
-    tukallima n-nāsa thalātha layālin sawiyyā, fa-awḥā ilayhim an sabbiḥū: God silences a prophet, who
-    can still signal or speak at God''s bidding. Ezek''s muteness marks a rebellious house; Zechariah''s
-    is a sign of the promised birth.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes the prophet''s tongue cleave to his palate so he is mute
     except when God speaks (weight 6.3). Pair score 6.3.'
@@ -86,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks
+kinds:
+- echo
+units:
+- id: hb-ezek-3-watchman-and-muteness
+  title: Ezekiel appointed watchman; bound and struck dumb in his house
+  tradition: judaism
+- id: quran-19-zechariah-and-john
+  title: Zechariah's secret prayer and the birth of John (Surah 19:1-15)
+  tradition: islam
+matches:
+- kind: echo
+  label: God makes the prophet's tongue cleave to his palate so he is mute except when God speaks
+  note: 'ûləšônəkā ʾadbîq ʾel-ḥikkekā wəneʾĕlamtā ... ûbədabbərî ʾôtəkā ʾeptaḥ ʾet-pîkā; āyatuka allā
+    tukallima n-nāsa thalātha layālin sawiyyā, fa-awḥā ilayhim an sabbiḥū: God silences a prophet, who
+    can still signal or speak at God''s bidding. Ezek''s muteness marks a rebellious house; Zechariah''s
+    is a sign of the promised birth.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 3:26
+      lang: he
+      text: וּלְשֽׁוֹנְךָ֙ אַדְבִּ֣יק אֶל חִכֶּ֔ךָ וְנֶֽאֱלַ֔מְתָּ וְלֹא תִֽהְיֶ֥ה לָהֶ֖ם לְאִ֣ישׁ מוֹכִ֑יחַ
+        כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה
+    - ref: Ezek 3:27
+      lang: he
+      text: וּֽבְדַבְּרִ֤י אֽוֹתְךָ֙ אֶפְתַּ֣ח אֶת פִּ֔יךָ וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י
+        יְהֹוִ֑ה הַשֹּׁמֵ֤עַ יִשְׁמָע֙ וְהֶחָדֵ֣ל יֶחְדָּ֔ל כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 19:10
+      lang: ar
+      text: قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٍ
+        سَوِيًّا
+    - ref: Quran 19:11
+      lang: ar
+      text: فَخَرَجَ عَلَىٰ قَوْمِهِۦ مِنَ ٱلْمِحْرَابِ فَأَوْحَىٰٓ إِلَيْهِمْ أَن سَبِّحُوا۟ بُكْرَةً
+        وَعَشِيًّا
 ---
 
 ## Questions

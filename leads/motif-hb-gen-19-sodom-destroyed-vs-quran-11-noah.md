@@ -2,8 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-11-noah
 title: Lot's guests and the destruction of Sodom and Gomorrah ↔ Noah, the boiling oven, the lost son and
   al-Judi
-summary: 'These two units share 2 motifs: a member of the hero''s family is lost, hero''s family saved
-  with him.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,62 +16,7 @@ layers:
 motifs:
 - family-member-lost
 - family-saved
-passages:
-- tradition: judaism
-  ref: Gen 19:16
-  note: A member of the hero's family is lost (wa-ahlaka illā man sabaqa ʿalayhi l-qawlu ~ Lot's household
-    is led out (wa-yyaḥăzîqû ... bə-yad ʾištô û-və-yad šətê vənōtāyw) yet his wife becomes a pillar of
-    salt (wat-təhî nəṣîv melaḥ). The HB has a lost family member in the Sodom story, not in the flood;
-    the Quran gives one to Noah.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:26
-  note: A member of the hero's family is lost (wa-ahlaka illā man sabaqa ʿalayhi l-qawlu ~ Lot's household
-    is led out (wa-yyaḥăzîqû ... bə-yad ʾištô û-və-yad šətê vənōtāyw) yet his wife becomes a pillar of
-    salt (wat-təhî nəṣîv melaḥ). The HB has a lost family member in the Sodom story, not in the flood;
-    the Quran gives one to Noah.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 11:42
-  note: A member of the hero's family is lost
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَٰبُنَىَّ
-    ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 11:43
-  note: A member of the hero's family is lost
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ
-    ٱللَّهِ إِلَّا مَن رَّحِمَ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
-- tradition: judaism
-  ref: Gen 19:16
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:29
-  note: Hero's family saved with him (Lot saved for Abraham's sake)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 11:40
-  note: Hero's family saved with him (except the one against whom the word went; few believed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
-    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
-    قَلِيلٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A member of the hero''s family is lost (weight 5.8); Hero''s family
     saved with him (weight 4.5). Pair score 10.3.'
@@ -107,6 +51,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A member of the hero's family is lost
+kinds:
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-11-noah
+  title: Noah, the boiling oven, the lost son and al-Judi
+  tradition: islam
+matches:
+- kind: shared
+  label: A member of the hero's family is lost
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+    note: wa-ahlaka illā man sabaqa ʿalayhi l-qawlu ~ Lot's household is led out (wa-yyaḥăzîqû ... bə-yad
+      ʾištô û-və-yad šətê vənōtāyw) yet his wife becomes a pillar of salt (wat-təhî nəṣîv melaḥ). The
+      HB has a lost family member in the Sodom story, not in the flood; the Quran gives one to Noah.
+  - tradition: islam
+    passages:
+    - ref: Quran 11:42
+      lang: ar
+      text: وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ
+        يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
+    - ref: Quran 11:43
+      lang: ar
+      text: قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ
+        أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:29
+      lang: he
+      text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם
+        וַיְשַׁלַּ֤ח אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+    note: Lot saved for Abraham's sake
+  - tradition: islam
+    passages:
+    - ref: Quran 11:40
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+        ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ
+        إِلَّا قَلِيلٌ
+    note: except the one against whom the word went; few believed
 ---
 
 ## Questions

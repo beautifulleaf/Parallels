@@ -1,7 +1,7 @@
 ---
 id: motif-hb-jer-32-field-at-anathoth-vs-quran-3-community
 title: Jeremiah buys his cousin's field at Anathoth during the siege ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: god will give his people one heart and one way to fear him always.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,33 +13,9 @@ layers:
 - motif
 motifs:
 - one-heart-and-one-way
-passages:
-- tradition: judaism
-  ref: Jer 32:39
-  note: God will give his people one heart and one way to fear him always
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֨י לָהֶ֜ם לֵ֤ב אֶחָד֙ וְדֶ֣רֶךְ אֶחָ֔ד לְיִרְאָ֥ה אוֹתִ֖י כָּל הַיָּמִ֑ים לְט֣וֹב לָהֶ֔ם
-    וְלִבְנֵיהֶ֖ם אַחֲרֵיהֶֽם
-- tradition: islam
-  ref: Quran 3:103
-  note: 'God will give his people one heart and one way to fear him always (Jer 32:39 wĕ-nātattî lāhem
-    lēb ʾeḥād wĕ-derek ʾeḥād lĕ-yirʾâ ʾôtî: God will give them one heart and one way; Q 3:103 wa-ʿtaṣimū
-    bi-ḥabli llāhi jamīʿan wa-lā tafarraqū ... idh kuntum aʿdāʾan fa-allafa bayna qulūbikum fa-aṣbaḥtum
-    bi-niʿmatihi ikhwānan: hold together, God joined your hearts and made enemies brothers. A promised
-    future unity in Jeremiah; an accomplished one in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ
-    إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ
-    عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ
-    لَعَلَّكُمْ تَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 32:39 wĕ-nātattî lāhem lēb ʾeḥād wĕ-derek ʾeḥād lĕ-yirʾâ ʾôtî: God will give them one heart
-    and one way; Q 3:103 wa-ʿtaṣimū bi-ḥabli llāhi jamīʿan wa-lā tafarraqū ... idh kuntum aʿdāʾan fa-allafa
-    bayna qulūbikum fa-aṣbaḥtum bi-niʿmatihi ikhwānan: hold together, God joined your hearts and made
-    enemies brothers. A promised future unity in Jeremiah; an accomplished one in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will give his people one heart and one way to fear him always
     (weight 6.7). Pair score 6.7.'
@@ -74,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will give his people one heart and one way to fear him always
+kinds:
+- echo
+units:
+- id: hb-jer-32-field-at-anathoth
+  title: Jeremiah buys his cousin's field at Anathoth during the siege
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: echo
+  label: God will give his people one heart and one way to fear him always
+  note: 'Jer 32:39 wĕ-nātattî lāhem lēb ʾeḥād wĕ-derek ʾeḥād lĕ-yirʾâ ʾôtî: God will give them one heart
+    and one way; Q 3:103 wa-ʿtaṣimū bi-ḥabli llāhi jamīʿan wa-lā tafarraqū ... idh kuntum aʿdāʾan fa-allafa
+    bayna qulūbikum fa-aṣbaḥtum bi-niʿmatihi ikhwānan: hold together, God joined your hearts and made
+    enemies brothers. A promised future unity in Jeremiah; an accomplished one in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 32:39
+      lang: he
+      text: וְנָתַתִּ֨י לָהֶ֜ם לֵ֤ב אֶחָד֙ וְדֶ֣רֶךְ אֶחָ֔ד לְיִרְאָ֥ה אוֹתִ֖י כָּל הַיָּמִ֑ים לְט֣וֹב
+        לָהֶ֔ם וְלִבְנֵיהֶ֖ם אַחֲרֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:103
+      lang: ar
+      text: وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ
+        عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا
+        وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ
+        لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ
 ---
 
 ## Questions

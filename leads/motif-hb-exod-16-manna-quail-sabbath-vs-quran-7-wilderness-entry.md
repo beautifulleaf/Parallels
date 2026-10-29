@@ -2,7 +2,7 @@
 id: motif-hb-exod-16-manna-quail-sabbath-vs-quran-7-wilderness-entry
 title: Manna and quail; the first Sabbath ↔ Twelve tribes, twelve springs, and the word changed at the
   gate
-summary: 'These two units share 1 motifs: quail come up in the evening and cover the camp.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,34 +15,9 @@ layers:
 - motif
 motifs:
 - quail-cover-the-camp
-passages:
-- tradition: judaism
-  ref: Exod 16:12
-  note: Quail come up in the evening and cover the camp
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁמַ֗עְתִּי אֶת תְּלוּנֹּת֮ בְּנֵ֣י יִשְׂרָאֵל֒ דַּבֵּ֨ר אֲלֵהֶ֜ם לֵאמֹ֗ר בֵּ֤ין הָֽעַרְבַּ֨יִם֙
-    תֹּאכְל֣וּ בָשָׂ֔ר וּבַבֹּ֖קֶר תִּשְׂבְּעוּ לָ֑חֶם וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם
-- tradition: judaism
-  ref: Exod 16:13
-  note: Quail come up in the evening and cover the camp
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת
-    הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה
-- tradition: islam
-  ref: Quran 7:160
-  note: Quail come up in the evening and cover the camp (al-mann wa-l-salwa)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ ٱسْتَسْقَىٰهُ
-    قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ عَيْنًا قَدْ عَلِمَ
-    كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ
-    كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Names shared: al-manna wa-s-salwā vs mān hûʾ and haśśᵉlāw (salwā is cognate with śᵉlāw).
-    Q adds ''eat of the good things we provided'' (kulū min ṭayyibāti mā razaqnākum).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Quail come up in the evening and cover the camp (weight 6.0). Pair
     score 6.0.'
@@ -75,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Quail come up in the evening and cover the camp
+kinds:
+- parallel
+units:
+- id: hb-exod-16-manna-quail-sabbath
+  title: Manna and quail; the first Sabbath
+  tradition: judaism
+- id: quran-7-wilderness-entry
+  title: Twelve tribes, twelve springs, and the word changed at the gate
+  tradition: islam
+matches:
+- kind: parallel
+  label: Quail come up in the evening and cover the camp
+  note: 'Names shared: al-manna wa-s-salwā vs mān hûʾ and haśśᵉlāw (salwā is cognate with śᵉlāw). Q adds
+    ''eat of the good things we provided'' (kulū min ṭayyibāti mā razaqnākum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 16:13
+      lang: he
+      text: וַיְהִ֣י בָעֶ֔רֶב וַתַּ֣עַל הַשְּׂלָ֔ו וַתְּכַ֖ס אֶת הַֽמַּחֲנֶ֑ה וּבַבֹּ֗קֶר הָֽיְתָה֙ שִׁכְבַ֣ת
+        הַטַּ֔ל סָבִ֖יב לַֽמַּחֲנֶֽה
+    - ref: Exod 16:15
+      lang: he
+      text: וַיִּרְא֣וּ בְנֵֽי יִשְׂרָאֵ֗ל וַיֹּ֨אמְר֜וּ אִ֤ישׁ אֶל אָחִיו֙ מָ֣ן ה֔וּא כִּ֛י לֹ֥א יָדְע֖וּ
+        מַה ה֑וּא וַיֹּ֤אמֶר מֹשֶׁה֙ אֲלֵהֶ֔ם ה֣וּא הַלֶּ֔חֶם אֲשֶׁ֨ר נָתַ֧ן יְהוָ֛ה לָכֶ֖ם לְאָכְלָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:160
+      lang: ar
+      text: وَقَطَّعْنَٰهُمُ ٱثْنَتَىْ عَشْرَةَ أَسْبَاطًا أُمَمًا وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ إِذِ
+        ٱسْتَسْقَىٰهُ قَوْمُهُۥٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْحَجَرَ فَٱنۢبَجَسَتْ مِنْهُ ٱثْنَتَا عَشْرَةَ
+        عَيْنًا قَدْ عَلِمَ كُلُّ أُنَاسٍ مَّشْرَبَهُمْ وَظَلَّلْنَا عَلَيْهِمُ ٱلْغَمَٰمَ وَأَنزَلْنَا
+        عَلَيْهِمُ ٱلْمَنَّ وَٱلسَّلْوَىٰ كُلُوا۟ مِن طَيِّبَٰتِ مَا رَزَقْنَٰكُمْ وَمَا ظَلَمُونَا وَلَٰكِن
+        كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ
 ---
 
 ## Questions

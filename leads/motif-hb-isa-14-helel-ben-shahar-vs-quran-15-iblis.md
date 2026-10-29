@@ -2,8 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-15-iblis
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ Man from black
   mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
-summary: 'These two units share 1 motifs: god expels iblis as accursed (rajim) with a curse until the
-  day of judgment.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - iblis-expelled-and-cursed
-passages:
-- tradition: judaism
-  ref: Isa 14:12
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (ʾêk nāpaltā miššāmayim
-    hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh ləʿelyôn ʾak ʾel-šəʾôl
-    tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A proud being of heaven
-    is cast down for its own self-exaltation. Isa's taunt is over the king of Babylon; Iblis's pride is
-    against man, not God.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל גּוֹיִֽם
-- tradition: judaism
-  ref: Isa 14:13
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (ʾêk nāpaltā miššāmayim
-    hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh ləʿelyôn ʾak ʾel-šəʾôl
-    tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A proud being of heaven
-    is cast down for its own self-exaltation. Isa's taunt is over the king of Babylon; Iblis's pride is
-    against man, not God.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים כִּסְאִ֑י
-    וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
-- tradition: islam
-  ref: Quran 15:34
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (rajīm; the curse
-    until the Day of Judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
-- tradition: islam
-  ref: Quran 15:35
-  note: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment (rajīm; the curse
-    until the Day of Judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʾêk nāpaltā miššāmayim hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh
-    ləʿelyôn ʾak ʾel-šəʾôl tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A
-    proud being of heaven is cast down for its own self-exaltation. Isa''s taunt is over the king of Babylon;
-    Iblis''s pride is against man, not God.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God expels Iblis as accursed (rajim) with a curse until the Day
     of Judgment (weight 6.0). Pair score 6.0.'
@@ -94,6 +54,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+kinds:
+- echo
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-15-iblis
+  title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
+  tradition: islam
+matches:
+- kind: echo
+  label: God expels Iblis as accursed (rajim) with a curse until the Day of Judgment
+  note: ʾêk nāpaltā miššāmayim hêlēl ben-šāḥar ... wəʾattâ ʾāmartā bilbābkā haššāmayim ʾeʿĕleh ... ʾeddammeh
+    ləʿelyôn ʾak ʾel-šəʾôl tûrād; lam akun li-asjuda li-basharin ... fa-khruj minhā fa-innaka rajīm. A
+    proud being of heaven is cast down for its own self-exaltation. Isa's taunt is over the king of Babylon;
+    Iblis's pride is against man, not God.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:12
+      lang: he
+      text: אֵ֛יךְ נָפַ֥לְתָּ מִשָּׁמַ֖יִם הֵילֵ֣ל בֶּן שָׁ֑חַר נִגְדַּ֣עְתָּ לָאָ֔רֶץ חוֹלֵ֖שׁ עַל גּוֹיִֽם
+    - ref: Isa 14:13
+      lang: he
+      text: וְאַתָּ֞ה אָמַ֤רְתָּ בִֽלְבָבְךָ֙ הַשָּׁמַ֣יִם אֶֽעֱלֶ֔ה מִמַּ֥עַל לְכֽוֹכְבֵי אֵ֖ל אָרִ֣ים
+        כִּסְאִ֑י וְאֵשֵׁ֥ב בְּהַר מוֹעֵ֖ד בְּיַרְכְּתֵ֥י צָפֽוֹן
+    - ref: Isa 14:14
+      lang: he
+      text: אֶעֱלֶ֖ה עַל בָּ֣מֳתֵי עָ֑ב אֶדַּמֶּ֖ה לְעֶלְיֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 15:33
+      lang: ar
+      text: قَالَ لَمْ أَكُن لِّأَسْجُدَ لِبَشَرٍ خَلَقْتَهُۥ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+    - ref: Quran 15:34
+      lang: ar
+      text: قَالَ فَٱخْرُجْ مِنْهَا فَإِنَّكَ رَجِيمٌ
+    - ref: Quran 15:35
+      lang: ar
+      text: وَإِنَّ عَلَيْكَ ٱللَّعْنَةَ إِلَىٰ يَوْمِ ٱلدِّينِ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-43-zukhruf-pharaoh-claims
 title: 'First audience with Pharaoh; bricks without straw ↔ Moses before Pharaoh: the laughing courtiers,
   the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 1 motifs: the title of god in whose name moses goes to pharaoh [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - divine-title-sent-to-pharaoh-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 5:1
-  note: 'The title of God in whose name Moses goes to Pharaoh [divergence between the texts] (The title
-    under which Moses goes to Pharaoh. Exodus: kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾeṯ ʿammî; ʾĕlōhê
-    hā-ʿiḇrîm niqrāʾ ʿālênû. Quran: fa-qāla innī rasūlu rabbi l-ʿālamīn. The God of one people becomes
-    the Lord of the worlds, and Moses'' self-description is ''messenger'' (rasūl), not a bearer of ''thus
-    says''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Exod 5:3
-  note: 'The title of God in whose name Moses goes to Pharaoh [divergence between the texts] (The title
-    under which Moses goes to Pharaoh. Exodus: kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾeṯ ʿammî; ʾĕlōhê
-    hā-ʿiḇrîm niqrāʾ ʿālênû. Quran: fa-qāla innī rasūlu rabbi l-ʿālamīn. The God of one people becomes
-    the Lord of the worlds, and Moses'' self-description is ''messenger'' (rasūl), not a bearer of ''thus
-    says''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
-    בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
-- tradition: islam
-  ref: Quran 43:46
-  note: 'The title of God in whose name Moses goes to Pharaoh [divergence between the texts] (The title
-    under which Moses goes to Pharaoh. Exodus: kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾeṯ ʿammî; ʾĕlōhê
-    hā-ʿiḇrîm niqrāʾ ʿālênû. Quran: fa-qāla innī rasūlu rabbi l-ʿālamīn. The God of one people becomes
-    the Lord of the worlds, and Moses'' self-description is ''messenger'' (rasūl), not a bearer of ''thus
-    says''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى رَسُولُ
-    رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The title under which Moses goes to Pharaoh. Exodus: kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ
-    ʾeṯ ʿammî; ʾĕlōhê hā-ʿiḇrîm niqrāʾ ʿālênû. Quran: fa-qāla innī rasūlu rabbi l-ʿālamīn. The God of
-    one people becomes the Lord of the worlds, and Moses'' self-description is ''messenger'' (rasūl),
-    not a bearer of ''thus says''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The title of God in whose name Moses goes to Pharaoh [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -91,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The title of God in whose name Moses goes to Pharaoh
+kinds:
+- divergence
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The title of God in whose name Moses goes to Pharaoh
+  note: 'The title under which Moses goes to Pharaoh. Exodus: kōh ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾeṯ
+    ʿammî; ʾĕlōhê hā-ʿiḇrîm niqrāʾ ʿālênû. Quran: fa-qāla innī rasūlu rabbi l-ʿālamīn. The God of one
+    people becomes the Lord of the worlds, and Moses'' self-description is ''messenger'' (rasūl), not
+    a bearer of ''thus says''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:1
+      lang: he
+      text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י
+        יִשְׂרָאֵ֔ל שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
+    - ref: Exod 5:3
+      lang: he
+      text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
+        בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 43:46
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ فَقَالَ إِنِّى
+        رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-9-noah-drunk-curse-vs-quran-11-noah
 title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death ↔ Noah, the boiling oven, the
   lost son and al-Judi
-summary: 'These two units share 1 motifs: a son of noah is found unworthy, and what follows [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,60 +14,9 @@ layers:
 - motif
 motifs:
 - noahs-unworthy-son-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 9:22
-  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
-    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
-    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
-    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
-    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
-    counterpart; this pair is the nearest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי אֶחָ֖יו בַּחֽוּץ
-- tradition: judaism
-  ref: Gen 9:24
-  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
-    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
-    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
-    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
-    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
-    counterpart; this pair is the nearest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕דַע אֵ֛ת אֲשֶׁר עָ֥שָׂה ל֖וֹ בְּנ֥וֹ הַקָּטָֽן
-- tradition: islam
-  ref: Quran 11:42
-  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
-    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
-    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
-    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
-    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
-    counterpart; this pair is the nearest.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ يَٰبُنَىَّ
-    ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 11:43
-  note: 'A son of Noah is found unworthy, and what follows [divergence between the texts] (One of Noah''s
-    sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and his son Canaan is
-    cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses the ark, drowns
-    before the end of the flood, and God declares him ''not of your family, a deed not righteous'' (innahu
-    laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned son has no biblical
-    counterpart; this pair is the nearest.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ أَمْرِ
-    ٱللَّهِ إِلَّا مَن رَّحِمَ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. One of Noah''s sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness
-    and his son Canaan is cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses
-    the ark, drowns before the end of the flood, and God declares him ''not of your family, a deed not
-    righteous'' (innahu laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned
-    son has no biblical counterpart; this pair is the nearest.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A son of Noah is found unworthy, and what follows [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -98,6 +46,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A son of Noah is found unworthy, and what follows
+kinds:
+- divergence
+units:
+- id: hb-gen-9-noah-drunk-curse
+  title: Noah's vineyard, Ham's sin and the curse of Canaan; Noah's death
+  tradition: judaism
+- id: quran-11-noah
+  title: Noah, the boiling oven, the lost son and al-Judi
+  tradition: islam
+matches:
+- kind: divergence
+  label: A son of Noah is found unworthy, and what follows
+  note: 'One of Noah''s sons is rejected: in Gen, Ham, after the flood, sees his father''s nakedness and
+    his son Canaan is cursed (ʾārûr kᵉnāʿan ʿebed ʿăbādîm yihyeh lᵉʾeḥāyw); in Q an unnamed son refuses
+    the ark, drowns before the end of the flood, and God declares him ''not of your family, a deed not
+    righteous'' (innahu laysa min ahlika innahu ʿamalun ghayru ṣāliḥ). The hint notes that the drowned
+    son has no biblical counterpart; this pair is the nearest.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 9:22
+      lang: he
+      text: וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי אֶחָ֖יו בַּחֽוּץ
+    - ref: Gen 9:24
+      lang: he
+      text: וַיִּ֥יקֶץ נֹ֖חַ מִיֵּינ֑וֹ וַיֵּ֕דַע אֵ֛ת אֲשֶׁר עָ֥שָׂה ל֖וֹ בְּנ֥וֹ הַקָּטָֽן
+    - ref: Gen 9:25
+      lang: he
+      text: וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְאֶחָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 11:42
+      lang: ar
+      text: وَهِىَ تَجْرِى بِهِمْ فِى مَوْجٍ كَٱلْجِبَالِ وَنَادَىٰ نُوحٌ ٱبْنَهُۥ وَكَانَ فِى مَعْزِلٍ
+        يَٰبُنَىَّ ٱرْكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلْكَٰفِرِينَ
+    - ref: Quran 11:43
+      lang: ar
+      text: قَالَ سَـَٔاوِىٓ إِلَىٰ جَبَلٍ يَعْصِمُنِى مِنَ ٱلْمَآءِ قَالَ لَا عَاصِمَ ٱلْيَوْمَ مِنْ
+        أَمْرِ ٱللَّهِ إِلَّا مَن رَّحِمَ وَحَالَ بَيْنَهُمَا ٱلْمَوْجُ فَكَانَ مِنَ ٱلْمُغْرَقِينَ
+    - ref: Quran 11:46
+      lang: ar
+      text: قَالَ يَٰنُوحُ إِنَّهُۥ لَيْسَ مِنْ أَهْلِكَ إِنَّهُۥ عَمَلٌ غَيْرُ صَٰلِحٍ فَلَا تَسْـَٔلْنِ
+        مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ إِنِّىٓ أَعِظُكَ أَن تَكُونَ مِنَ ٱلْجَٰهِلِينَ
 ---
 
 ## Questions

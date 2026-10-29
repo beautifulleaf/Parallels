@@ -1,7 +1,7 @@
 ---
 id: motif-hb-job-31-oath-of-innocence-vs-quran-4-kindness-misers-atom
 title: Job's oath of innocence ↔ The circle of kindness, misers, and the atom's weight
-summary: 'These two units share 1 motifs: god does not wrong anyone by an atom''s weight (mithqāl dharra).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,28 +13,9 @@ layers:
 - motif
 motifs:
 - atoms-weight-of-justice
-passages:
-- tradition: judaism
-  ref: Job 31:6
-  note: 'God does not wrong anyone by an atom''s weight (mithqāl dharra) (Job 31:6 yišqĕlēnî bĕ-mōʾznê
-    ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales; Q 4:40 inna llāha lā yaẓlimu mithqāla
-    dharratin: God does not wrong anyone by an atom''s weight. The divine weighing of deeds (šāqal / mithqāl,
-    cognate weight terms).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
-- tradition: islam
-  ref: Quran 4:40
-  note: God does not wrong anyone by an atom's weight (mithqāl dharra)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ
-    أَجْرًا عَظِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Job 31:6 yišqĕlēnî bĕ-mōʾznê ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales;
-    Q 4:40 inna llāha lā yaẓlimu mithqāla dharratin: God does not wrong anyone by an atom''s weight. The
-    divine weighing of deeds (šāqal / mithqāl, cognate weight terms).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God does not wrong anyone by an atom''s weight (mithqāl dharra)
     (weight 6.7). Pair score 6.7.'
@@ -68,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not wrong anyone by an atom's weight (mithqāl dharra)
+kinds:
+- echo
+units:
+- id: hb-job-31-oath-of-innocence
+  title: Job's oath of innocence
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: echo
+  label: God does not wrong anyone by an atom's weight (mithqāl dharra)
+  note: 'Job 31:6 yišqĕlēnî bĕ-mōʾznê ṣedeq wĕ-yēdaʿ ʾĕlôah tummātî: let God weigh me in just scales;
+    Q 4:40 inna llāha lā yaẓlimu mithqāla dharratin: God does not wrong anyone by an atom''s weight. The
+    divine weighing of deeds (šāqal / mithqāl, cognate weight terms).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 31:6
+      lang: he
+      text: יִשְׁקְלֵ֥נִי בְמֹאזְנֵי צֶ֑דֶק וְיֵדַ֥ע אֱ֝ל֗וֹהַּ תֻּמָּתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:40
+      lang: ar
+      text: إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن
+        لَّدُنْهُ أَجْرًا عَظِيمًا
 ---
 
 ## Questions

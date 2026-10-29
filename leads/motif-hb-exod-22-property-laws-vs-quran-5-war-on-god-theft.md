@@ -2,7 +2,7 @@
 id: motif-hb-exod-22-property-laws-vs-quran-5-war-on-god-theft
 title: Covenant Code - theft, deposits, seduction ↔ Penalty for waging war on God; the ransom of the earth;
   the thief's hand
-summary: 'These two units share 1 motifs: the penalty prescribed for theft [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,43 +14,9 @@ layers:
 - motif
 motifs:
 - penalty-for-theft-as-contrast
-passages:
-- tradition: judaism
-  ref: Exod 22:2
-  note: 'The penalty prescribed for theft [contrast between the texts] (Opposite penalties for theft.
-    Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm šənayim yəšallēm: the thief pays
-    double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bi-mā
-    kasabā nakālan mina llāhi: hand amputation for male and female thief, with repentance after (5:39).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר
-    בִּגְנֵבָתֽוֹ
-- tradition: judaism
-  ref: Exod 22:3
-  note: 'The penalty prescribed for theft [contrast between the texts] (Opposite penalties for theft.
-    Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm šənayim yəšallēm: the thief pays
-    double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bi-mā
-    kasabā nakālan mina llāhi: hand amputation for male and female thief, with repentance after (5:39).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִֽם הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד חֲמ֛וֹר עַד שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם
-    יְשַׁלֵּֽם
-- tradition: islam
-  ref: Quran 5:38
-  note: 'The penalty prescribed for theft [contrast between the texts] (Opposite penalties for theft.
-    Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm šənayim yəšallēm: the thief pays
-    double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu fa-qṭaʿū aydiyahumā jazāʾan bi-mā
-    kasabā nakālan mina llāhi: hand amputation for male and female thief, with repentance after (5:39).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ
-    ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. Opposite penalties for theft. Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ...
-    ḥayyîm šənayim yəšallēm: the thief pays double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu
-    fa-qṭaʿū aydiyahumā jazāʾan bi-mā kasabā nakālan mina llāhi: hand amputation for male and female thief,
-    with repentance after (5:39).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The penalty prescribed for theft [contrast between the texts] (weight
     6.3). Pair score 6.3.'
@@ -80,6 +46,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The penalty prescribed for theft
+kinds:
+- contrast
+units:
+- id: hb-exod-22-property-laws
+  title: Covenant Code - theft, deposits, seduction
+  tradition: judaism
+- id: quran-5-war-on-god-theft
+  title: Penalty for waging war on God; the ransom of the earth; the thief's hand
+  tradition: islam
+matches:
+- kind: contrast
+  label: The penalty prescribed for theft
+  note: 'Opposite penalties for theft. Exod: šallēm yəšallēm ʾim-ʾên lô wə-nimkar bi-gnēvātô; ... ḥayyîm
+    šənayim yəšallēm: the thief pays double and is sold if he cannot pay. Q: wa-l-sāriqu wa-l-sāriqatu
+    fa-qṭaʿū aydiyahumā jazāʾan bi-mā kasabā nakālan mina llāhi: hand amputation for male and female thief,
+    with repentance after (5:39).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:2
+      lang: he
+      text: אִם זָרְחָ֥ה הַשֶּׁ֛מֶשׁ עָלָ֖יו דָּמִ֣ים ל֑וֹ שַׁלֵּ֣ם יְשַׁלֵּ֔ם אִם אֵ֣ין ל֔וֹ וְנִמְכַּ֖ר
+        בִּגְנֵבָתֽוֹ
+    - ref: Exod 22:3
+      lang: he
+      text: אִֽם הִמָּצֵא֩ תִמָּצֵ֨א בְיָד֜וֹ הַגְּנֵבָ֗ה מִשּׁ֧וֹר עַד חֲמ֛וֹר עַד שֶׂ֖ה חַיִּ֑ים שְׁנַ֖יִם
+        יְשַׁלֵּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:38
+      lang: ar
+      text: وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقْطَعُوٓا۟ أَيْدِيَهُمَا جَزَآءًۢ بِمَا كَسَبَا نَكَٰلًا مِّنَ
+        ٱللَّهِ وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-hos-2-unfaithful-wife-vs-quran-4-satan-vows-share
 title: The unfaithful wife and the new betrothal ↔ Female deities, Satan's vow, slit cattle ears, and
   Abraham the friend
-summary: 'These two units share 1 motifs: the faithless wife credits her lovers (the baals) with her bread,
-  water, wool, flax, oil and drink, not knowing god gave them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - lovers-thought-to-give-bread-wool
-passages:
-- tradition: judaism
-  ref: Hos 2:7
-  note: The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and drink,
-    not knowing God gave them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י זָֽנְתָה֙ אִמָּ֔ם הֹבִ֖ישָׁה הֽוֹרָתָ֑ם כִּ֣י אָמְרָ֗ה אֵלְכָ֞ה אַחֲרֵ֤י מְאַהֲבַי֙ נֹתְנֵ֤י
-    לַחְמִי֙ וּמֵימַ֔י צַמְרִ֣י וּפִשְׁתִּ֔י שַׁמְנִ֖י וְשִׁקּוּיָֽי
-- tradition: judaism
-  ref: Hos 2:10
-  note: The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and drink,
-    not knowing God gave them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִיא֙ לֹ֣א יָֽדְעָ֔ה כִּ֤י אָֽנֹכִי֙ נָתַ֣תִּי לָ֔הּ הַדָּגָ֖ן וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֑ר
-    וְכֶ֨סֶף הִרְבֵּ֥יתִי לָ֛הּ וְזָהָ֖ב עָשׂ֥וּ לַבָּֽעַל
-- tradition: islam
-  ref: Quran 4:119
-  note: 'The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and
-    drink, not knowing God gave them (False gods are credited with gifts they do not give. Q: yaʿiduhum
-    wa-yumannīhim wa-mā yaʿiduhumu l-shayṭānu illā ghurūran (Satan''s empty promises). Hos: ʾēlkhāh ʾaḥărê
-    məʾahăvay nōtənê laḥmî û-mêmay ... wə-hîʾ lōʾ yādəʿāh kî ʾānōkhî nātattî lāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ
-    وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّا مِّن دُونِ
-    ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
-- tradition: islam
-  ref: Quran 4:120
-  note: 'The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and
-    drink, not knowing God gave them (False gods are credited with gifts they do not give. Q: yaʿiduhum
-    wa-yumannīhim wa-mā yaʿiduhumu l-shayṭānu illā ghurūran (Satan''s empty promises). Hos: ʾēlkhāh ʾaḥărê
-    məʾahăvay nōtənê laḥmî û-mêmay ... wə-hîʾ lōʾ yādəʿāh kî ʾānōkhî nātattî lāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. False gods are credited with gifts they do not give. Q: yaʿiduhum wa-yumannīhim wa-mā yaʿiduhumu
-    l-shayṭānu illā ghurūran (Satan''s empty promises). Hos: ʾēlkhāh ʾaḥărê məʾahăvay nōtənê laḥmî û-mêmay
-    ... wə-hîʾ lōʾ yādəʿāh kî ʾānōkhî nātattî lāh.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The faithless wife credits her lovers (the Baals) with her bread,
     water, wool, flax, oil and drink, not knowing God gave them (weight 6.7). Pair score 6.7.'
@@ -91,6 +51,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and
+  drink, not knowing God gave them
+kinds:
+- echo
+units:
+- id: hb-hos-2-unfaithful-wife
+  title: The unfaithful wife and the new betrothal
+  tradition: judaism
+- id: quran-4-satan-vows-share
+  title: Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+  tradition: islam
+matches:
+- kind: echo
+  label: The faithless wife credits her lovers (the Baals) with her bread, water, wool, flax, oil and
+    drink, not knowing God gave them
+  note: 'False gods are credited with gifts they do not give. Q: yaʿiduhum wa-yumannīhim wa-mā yaʿiduhumu
+    l-shayṭānu illā ghurūran (Satan''s empty promises). Hos: ʾēlkhāh ʾaḥărê məʾahăvay nōtənê laḥmî û-mêmay
+    ... wə-hîʾ lōʾ yādəʿāh kî ʾānōkhî nātattî lāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 2:7
+      lang: he
+      text: כִּ֤י זָֽנְתָה֙ אִמָּ֔ם הֹבִ֖ישָׁה הֽוֹרָתָ֑ם כִּ֣י אָמְרָ֗ה אֵלְכָ֞ה אַחֲרֵ֤י מְאַהֲבַי֙
+        נֹתְנֵ֤י לַחְמִי֙ וּמֵימַ֔י צַמְרִ֣י וּפִשְׁתִּ֔י שַׁמְנִ֖י וְשִׁקּוּיָֽי
+    - ref: Hos 2:10
+      lang: he
+      text: וְהִיא֙ לֹ֣א יָֽדְעָ֔ה כִּ֤י אָֽנֹכִי֙ נָתַ֣תִּי לָ֔הּ הַדָּגָ֖ן וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֑ר
+        וְכֶ֨סֶף הִרְבֵּ֥יתִי לָ֛הּ וְזָהָ֖ב עָשׂ֥וּ לַבָּֽעַל
+  - tradition: islam
+    passages:
+    - ref: Quran 4:119
+      lang: ar
+      text: وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَءَامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَٰمِ
+        وَلَءَامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ وَمَن يَتَّخِذِ ٱلشَّيْطَٰنَ وَلِيًّا مِّن
+        دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا
+    - ref: Quran 4:120
+      lang: ar
+      text: يَعِدُهُمْ وَيُمَنِّيهِمْ وَمَا يَعِدُهُمُ ٱلشَّيْطَٰنُ إِلَّا غُرُورًا
 ---
 
 ## Questions

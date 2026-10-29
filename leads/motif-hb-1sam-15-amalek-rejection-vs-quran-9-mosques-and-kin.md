@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-15-amalek-rejection-vs-quran-9-mosques-and-kin
 title: War on Amalek, Agag spared, and Saul's rejection ↔ Who maintains the mosques; God above family
-summary: 'These two units share 1 motifs: to obey is better than sacrifice.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - obedience-better-than-sacrifice
-passages:
-- tradition: judaism
-  ref: 1Sam 15:22
-  note: To obey is better than sacrifice (Rebellion as the sin of divination, teraphim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר שְׁמוּאֵ֗ל הַחֵ֤פֶץ לַֽיהוָה֙ בְּעֹל֣וֹת וּזְבָחִ֔ים כִּשְׁמֹ֖עַ בְּק֣וֹל יְהוָ֑ה הִנֵּ֤ה
-    שְׁמֹ֨עַ֙ מִזֶּ֣בַח ט֔וֹב לְהַקְשִׁ֖יב מֵחֵ֥לֶב אֵילִֽים
-- tradition: judaism
-  ref: 1Sam 15:23
-  note: To obey is better than sacrifice (Rebellion as the sin of divination, teraphim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י חַטַּאת קֶ֨סֶם֙ מֶ֔רִי וְאָ֥וֶן וּתְרָפִ֖ים הַפְצַ֑ר יַ֗עַן מָאַ֨סְתָּ֙ אֶת דְּבַ֣ר יְהוָ֔ה
-    וַיִּמְאָסְךָ֖ מִמֶּֽלֶךְ
-- tradition: islam
-  ref: Quran 9:19
-  note: 'To obey is better than sacrifice (Cultic service ranked below inner devotion: a-jaʿaltum siqāyata
-    l-ḥājji wa-ʿimārata l-masjidi l-ḥarāmi ka-man āmana bi-llāhi ... wa-jāhada vs haḥēpeṣ laYHWH bᵉʿōlôt
-    ûzᵉbāḥîm kišmōaʿ bᵉqôl YHWH hinnēh šᵉmōaʿ mizzebaḥ ṭôb.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ
-    وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا يَهْدِى
-    ٱلْقَوْمَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Cultic service ranked below inner devotion: a-jaʿaltum siqāyata l-ḥājji wa-ʿimārata l-masjidi
-    l-ḥarāmi ka-man āmana bi-llāhi ... wa-jāhada vs haḥēpeṣ laYHWH bᵉʿōlôt ûzᵉbāḥîm kišmōaʿ bᵉqôl YHWH
-    hinnēh šᵉmōaʿ mizzebaḥ ṭôb.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: To obey is better than sacrifice (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -68,6 +41,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: To obey is better than sacrifice
+kinds:
+- echo
+units:
+- id: hb-1sam-15-amalek-rejection
+  title: War on Amalek, Agag spared, and Saul's rejection
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: echo
+  label: To obey is better than sacrifice
+  note: 'Cultic service ranked below inner devotion: a-jaʿaltum siqāyata l-ḥājji wa-ʿimārata l-masjidi
+    l-ḥarāmi ka-man āmana bi-llāhi ... wa-jāhada vs haḥēpeṣ laYHWH bᵉʿōlôt ûzᵉbāḥîm kišmōaʿ bᵉqôl YHWH
+    hinnēh šᵉmōaʿ mizzebaḥ ṭôb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 15:22
+      lang: he
+      text: וַיֹּ֣אמֶר שְׁמוּאֵ֗ל הַחֵ֤פֶץ לַֽיהוָה֙ בְּעֹל֣וֹת וּזְבָחִ֔ים כִּשְׁמֹ֖עַ בְּק֣וֹל יְהוָ֑ה
+        הִנֵּ֤ה שְׁמֹ֨עַ֙ מִזֶּ֣בַח ט֔וֹב לְהַקְשִׁ֖יב מֵחֵ֥לֶב אֵילִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 9:19
+      lang: ar
+      text: أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ
+        وَٱلْيَوْمِ ٱلْءَاخِرِ وَجَٰهَدَ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ وَٱللَّهُ لَا
+        يَهْدِى ٱلْقَوْمَ ٱلظَّٰلِمِينَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-exod-20-decalogue-vs-quran-29-trial-of-believers
 title: The Ten Words and the people's fear ↔ Believers tested; parents and idolatry; the false offer to
   carry sins
-summary: 'These two units share 1 motifs: honor father and mother, with the promise of long life.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - honor-parents-long-life
-passages:
-- tradition: judaism
-  ref: Exod 20:12
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: judaism
-  ref: Exod 20:3
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 29:8
-  note: Honor father and mother, with the promise of long life ('We enjoined on man goodness to his parents'
-    without the promise of long life)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حُسْنًا وَإِن جَٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ لَكَ
-    بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-waṣṣaynā l-insāna bi-wālidayhi ḥusnan ~ kabbēd ʾet ʾāvîkā wə-ʾet ʾimmekā: a divine command
-    to honor parents. The Quran leaves out Exodus'' reward (ləmaʿan yaʾărikhûn yāmêkā) and adds the limit:
-    no obedience in idolatry.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3).
     Pair score 5.3.'
@@ -75,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- parallel
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-29-trial-of-believers
+  title: Believers tested; parents and idolatry; the false offer to carry sins
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honor father and mother, with the promise of long life
+  note: 'wa-waṣṣaynā l-insāna bi-wālidayhi ḥusnan ~ kabbēd ʾet ʾāvîkā wə-ʾet ʾimmekā: a divine command
+    to honor parents. The Quran leaves out Exodus'' reward (ləmaʿan yaʾărikhûn yāmêkā) and adds the limit:
+    no obedience in idolatry.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:12
+      lang: he
+      text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 29:8
+      lang: ar
+      text: وَوَصَّيْنَا ٱلْإِنسَٰنَ بِوَٰلِدَيْهِ حُسْنًا وَإِن جَٰهَدَاكَ لِتُشْرِكَ بِى مَا لَيْسَ
+        لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَآ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

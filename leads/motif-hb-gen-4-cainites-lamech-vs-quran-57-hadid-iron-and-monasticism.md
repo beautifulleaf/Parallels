@@ -3,8 +3,7 @@ id: motif-hb-gen-4-cainites-lamech-vs-quran-57-hadid-iron-and-monasticism
 title: Cain's line, the first city, culture heroes and the Song of Lamech ↔ Life like withering plants;
   the Garden as wide as heaven and earth; every calamity written; iron sent down; Jesus' followers and
   invented monasticism
-summary: 'These two units share 1 motifs: where iron and iron-working come from [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - origin-of-iron-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 4:22
-  note: 'Where iron and iron-working come from [divergence between the texts] (Where iron comes from.
-    Genesis: tûḇal qayin lōṭēš kol ḥōrēš nəḥōšeṯ û-ḇarzel (iron-working begins with a descendant of Cain,
-    a human culture hero). Quran: wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun wa-manāfiʿu li-n-nās (God sent
-    iron down, with great might and benefits). A human craft from Cain''s line becomes God''s gift sent
-    down beside the Book and the Balance. cf. 1 Enoch 8:1 (Asael teaches metalworking).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְצִלָּ֣ה גַם הִ֗וא יָֽלְדָה֙ אֶת תּ֣וּבַל קַ֔יִן לֹטֵ֕שׁ כָּל חֹרֵ֥שׁ נְחֹ֖שֶׁת וּבַרְזֶ֑ל וַֽאֲח֥וֹת
-    תּֽוּבַל קַ֖יִן נַֽעֲמָֽה
-- tradition: islam
-  ref: Quran 57:25
-  note: 'Where iron and iron-working come from [divergence between the texts] (Where iron comes from.
-    Genesis: tûḇal qayin lōṭēš kol ḥōrēš nəḥōšeṯ û-ḇarzel (iron-working begins with a descendant of Cain,
-    a human culture hero). Quran: wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun wa-manāfiʿu li-n-nās (God sent
-    iron down, with great might and benefits). A human craft from Cain''s line becomes God''s gift sent
-    down beside the Book and the Balance. cf. 1 Enoch 8:1 (Asael teaches metalworking).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ
-    ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ
-    ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Where iron comes from. Genesis: tûḇal qayin lōṭēš kol ḥōrēš nəḥōšeṯ û-ḇarzel (iron-working
-    begins with a descendant of Cain, a human culture hero). Quran: wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun
-    wa-manāfiʿu li-n-nās (God sent iron down, with great might and benefits). A human craft from Cain''s
-    line becomes God''s gift sent down beside the Book and the Balance. cf. 1 Enoch 8:1 (Asael teaches
-    metalworking).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where iron and iron-working come from [divergence between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -78,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where iron and iron-working come from
+kinds:
+- divergence
+units:
+- id: hb-gen-4-cainites-lamech
+  title: Cain's line, the first city, culture heroes and the Song of Lamech
+  tradition: judaism
+- id: quran-57-hadid-iron-and-monasticism
+  title: Life like withering plants; the Garden as wide as heaven and earth; every calamity written; iron
+    sent down; Jesus' followers and invented monasticism
+  tradition: islam
+matches:
+- kind: divergence
+  label: Where iron and iron-working come from
+  note: 'Where iron comes from. Genesis: tûḇal qayin lōṭēš kol ḥōrēš nəḥōšeṯ û-ḇarzel (iron-working begins
+    with a descendant of Cain, a human culture hero). Quran: wa-anzalnā l-ḥadīda fīhi baʾsun shadīdun
+    wa-manāfiʿu li-n-nās (God sent iron down, with great might and benefits). A human craft from Cain''s
+    line becomes God''s gift sent down beside the Book and the Balance. cf. 1 Enoch 8:1 (Asael teaches
+    metalworking).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 4:22
+      lang: he
+      text: וְצִלָּ֣ה גַם הִ֗וא יָֽלְדָה֙ אֶת תּ֣וּבַל קַ֔יִן לֹטֵ֕שׁ כָּל חֹרֵ֥שׁ נְחֹ֖שֶׁת וּבַרְזֶ֑ל
+        וַֽאֲח֥וֹת תּֽוּבַל קַ֖יִן נַֽעֲמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 57:25
+      lang: ar
+      text: لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ
+        لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ
+        وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-9-hail-vs-quran-40-believer-of-pharaohs-family
 title: 'Plague 7: hail and fire ↔ Moses, Pharaoh, Haman and the believer of Pharaoh''s family'
-summary: 'These two units share 1 motifs: a believing man of pharaoh''s family who concealed his faith
-  defends moses: ''will you kill a man for saying my lord is god?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +13,9 @@ layers:
 - motif
 motifs:
 - believer-of-pharaohs-family
-passages:
-- tradition: judaism
-  ref: Exod 9:20
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'' (ha-yyārēʾ ʾeṯ-dəḇar YHWH mē-ʿaḇdê parʿōh hēnîs ʾeṯ-ʿăḇāḏâw vs. wa-qāla
-    rajulun muʾminun min āli Firʿawna yaktumu īmānahu: God-fearers inside Pharaoh''s household. Exodus
-    has a nameless group that acts quietly; the Quran gives one man a long public speech.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַיָּרֵא֙ אֶת דְּבַ֣ר יְהוָ֔ה מֵֽעַבְדֵ֖י פַּרְעֹ֑ה הֵנִ֛יס אֶת עֲבָדָ֥יו וְאֶת מִקְנֵ֖הוּ אֶל
-    הַבָּתִּֽים
-- tradition: islam
-  ref: Quran 40:28
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا أَن
-    يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ وَإِن يَكُ كَٰذِبًا فَعَلَيْهِ
-    كَذِبُهُۥ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ إِنَّ ٱللَّهَ لَا يَهْدِى مَنْ هُوَ
-    مُسْرِفٌ كَذَّابٌ
-- tradition: islam
-  ref: Quran 40:29
-  note: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill a
-    man for saying my Lord is God?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰقَوْمِ لَكُمُ ٱلْمُلْكُ ٱلْيَوْمَ ظَٰهِرِينَ فِى ٱلْأَرْضِ فَمَن يَنصُرُنَا مِنۢ بَأْسِ ٱللَّهِ
-    إِن جَآءَنَا قَالَ فِرْعَوْنُ مَآ أُرِيكُمْ إِلَّا مَآ أَرَىٰ وَمَآ أَهْدِيكُمْ إِلَّا سَبِيلَ
-    ٱلرَّشَادِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ha-yyārēʾ ʾeṯ-dəḇar YHWH mē-ʿaḇdê parʿōh hēnîs ʾeṯ-ʿăḇāḏâw vs. wa-qāla rajulun muʾminun min
-    āli Firʿawna yaktumu īmānahu: God-fearers inside Pharaoh''s household. Exodus has a nameless group
-    that acts quietly; the Quran gives one man a long public speech.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A believing man of Pharaoh''s family who concealed his faith defends
     Moses: ''Will you kill a man for saying my Lord is God?'' (weight 6.3). Pair score 6.3.'
@@ -84,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill
+  a man for saying my Lord is God?'''
+kinds:
+- echo
+units:
+- id: hb-exod-9-hail
+  title: 'Plague 7: hail and fire'
+  tradition: judaism
+- id: quran-40-believer-of-pharaohs-family
+  title: Moses, Pharaoh, Haman and the believer of Pharaoh's family
+  tradition: islam
+matches:
+- kind: echo
+  label: 'A believing man of Pharaoh''s family who concealed his faith defends Moses: ''Will you kill
+    a man for saying my Lord is God?'''
+  note: 'ha-yyārēʾ ʾeṯ-dəḇar YHWH mē-ʿaḇdê parʿōh hēnîs ʾeṯ-ʿăḇāḏâw vs. wa-qāla rajulun muʾminun min āli
+    Firʿawna yaktumu īmānahu: God-fearers inside Pharaoh''s household. Exodus has a nameless group that
+    acts quietly; the Quran gives one man a long public speech.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 9:20
+      lang: he
+      text: הַיָּרֵא֙ אֶת דְּבַ֣ר יְהוָ֔ה מֵֽעַבְדֵ֖י פַּרְעֹ֑ה הֵנִ֛יס אֶת עֲבָדָ֥יו וְאֶת מִקְנֵ֖הוּ
+        אֶל הַבָּתִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 40:28
+      lang: ar
+      text: وَقَالَ رَجُلٌ مُّؤْمِنٌ مِّنْ ءَالِ فِرْعَوْنَ يَكْتُمُ إِيمَٰنَهُۥٓ أَتَقْتُلُونَ رَجُلًا
+        أَن يَقُولَ رَبِّىَ ٱللَّهُ وَقَدْ جَآءَكُم بِٱلْبَيِّنَٰتِ مِن رَّبِّكُمْ وَإِن يَكُ كَٰذِبًا
+        فَعَلَيْهِ كَذِبُهُۥ وَإِن يَكُ صَادِقًا يُصِبْكُم بَعْضُ ٱلَّذِى يَعِدُكُمْ إِنَّ ٱللَّهَ لَا
+        يَهْدِى مَنْ هُوَ مُسْرِفٌ كَذَّابٌ
 ---
 
 ## Questions

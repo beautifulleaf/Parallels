@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-122-peace-of-jerusalem-vs-quran-2-abraham-kaaba
 title: Psalm 122, pilgrim's song, pray for the peace of Jerusalem ↔ Abraham, Ishmael and the House
-summary: 'These two units share 1 motifs: prayer for the peace and security of the sanctuary city [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,49 +13,9 @@ layers:
 - motif
 motifs:
 - prayer-for-security-of-holy-city-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 122:6
-  note: 'Prayer for the peace and security of the sanctuary city [divergence between the texts] (Ps 122:6-7
-    šaʾălû šĕlôm yĕrûšālāim ... yĕhî šālôm bĕ-ḥêlēk šalwâ bĕ-ʾarmĕnôtāyik: pilgrims pray for peace and
-    security in Jerusalem; Q 2:126 rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāti: Abraham
-    prays that ''this town'' be secure and its people fed. The pilgrim city''s prayer for safety is transferred
-    to Abraham and to the House''s town; Q adds that only believers are to be fed for long (man āmana
-    minhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלִָ֑ם יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ
-- tradition: judaism
-  ref: Ps 122:7
-  note: 'Prayer for the peace and security of the sanctuary city [divergence between the texts] (Ps 122:6-7
-    šaʾălû šĕlôm yĕrûšālāim ... yĕhî šālôm bĕ-ḥêlēk šalwâ bĕ-ʾarmĕnôtāyik: pilgrims pray for peace and
-    security in Jerusalem; Q 2:126 rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāti: Abraham
-    prays that ''this town'' be secure and its people fed. The pilgrim city''s prayer for safety is transferred
-    to Abraham and to the House''s town; Q adds that only believers are to be fed for long (man āmana
-    minhum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהִֽי שָׁל֥וֹם בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנוֹתָֽיִךְ
-- tradition: islam
-  ref: Quran 2:126
-  note: 'Prayer for the peace and security of the sanctuary city [divergence between the texts] (Ps 122:6-7
-    šaʾălû šĕlôm yĕrûšālāim ... yĕhî šālôm bĕ-ḥêlēk šalwâ bĕ-ʾarmĕnôtāyik: pilgrims pray for peace and
-    security in Jerusalem; Q 2:126 rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāti: Abraham
-    prays that ''this town'' be secure and its people fed. The pilgrim city''s prayer for safety is transferred
-    to Abraham and to the House''s town; Q adds that only believers are to be fed for long (man āmana
-    minhum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ
-    مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا ثُمَّ
-    أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ps 122:6-7 šaʾălû šĕlôm yĕrûšālāim ... yĕhî šālôm bĕ-ḥêlēk šalwâ bĕ-ʾarmĕnôtāyik: pilgrims
-    pray for peace and security in Jerusalem; Q 2:126 rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina
-    th-thamarāti: Abraham prays that ''this town'' be secure and its people fed. The pilgrim city''s prayer
-    for safety is transferred to Abraham and to the House''s town; Q adds that only believers are to be
-    fed for long (man āmana minhum).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer for the peace and security of the sanctuary city [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -87,6 +46,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer for the peace and security of the sanctuary city
+kinds:
+- divergence
+units:
+- id: hb-ps-122-peace-of-jerusalem
+  title: Psalm 122, pilgrim's song, pray for the peace of Jerusalem
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prayer for the peace and security of the sanctuary city
+  note: 'Ps 122:6-7 šaʾălû šĕlôm yĕrûšālāim ... yĕhî šālôm bĕ-ḥêlēk šalwâ bĕ-ʾarmĕnôtāyik: pilgrims pray
+    for peace and security in Jerusalem; Q 2:126 rabbi jʿal hādhā baladan āminan wa-rzuq ahlahu mina th-thamarāti:
+    Abraham prays that ''this town'' be secure and its people fed. The pilgrim city''s prayer for safety
+    is transferred to Abraham and to the House''s town; Q adds that only believers are to be fed for long
+    (man āmana minhum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 122:6
+      lang: he
+      text: שַׁ֭אֲלוּ שְׁל֣וֹם יְרוּשָׁלִָ֑ם יִ֝שְׁלָ֗יוּ אֹהֲבָֽיִךְ
+    - ref: Ps 122:7
+      lang: he
+      text: יְהִֽי שָׁל֥וֹם בְּחֵילֵ֑ךְ שַׁ֝לְוָ֗ה בְּאַרְמְנוֹתָֽיִךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:126
+      lang: ar
+      text: وَإِذْ قَالَ إِبْرَٰهِۦمُ رَبِّ ٱجْعَلْ هَٰذَا بَلَدًا ءَامِنًا وَٱرْزُقْ أَهْلَهُۥ مِنَ ٱلثَّمَرَٰتِ
+        مَنْ ءَامَنَ مِنْهُم بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلًا
+        ثُمَّ أَضْطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِ وَبِئْسَ ٱلْمَصِيرُ
 ---
 
 ## Questions

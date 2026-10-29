@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-23-lordship-arguments
 title: The Song of Moses (Ha'azinu) ↔ Who owns the earth? The fables of the ancients and the impossibility
   of many gods
-summary: 'These two units share 2 motifs: i kill and i make alive, i wound and i heal; there is no god
-  beside me, declaration that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,51 +16,9 @@ layers:
 motifs:
 - i-kill-and-make-alive
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Deut 32:39
-  note: I kill and I make alive, I wound and I heal; there is no god beside me (אני אני הוא)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 23:80
-  note: 'I kill and I make alive, I wound and I heal; there is no god beside me (wa-huwa lladhī yuḥyī
-    wa-yumītu ... wa-huwa yujīru wa-lā yujāru ʿalayhi ~ ʾănî ʾāmît wa-ʾăḥayyeh ... wə-ʾên mi-yyādî maṣṣîl:
-    God gives life and death, and no one can rescue from him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَٰفُ ٱلَّيْلِ وَٱلنَّهَارِ أَفَلَا تَعْقِلُونَ
-- tradition: islam
-  ref: Quran 23:88
-  note: 'I kill and I make alive, I wound and I heal; there is no god beside me (wa-huwa lladhī yuḥyī
-    wa-yumītu ... wa-huwa yujīru wa-lā yujāru ʿalayhi ~ ʾănî ʾāmît wa-ʾăḥayyeh ... wə-ʾên mi-yyādî maṣṣîl:
-    God gives life and death, and no one can rescue from him.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
-- tradition: judaism
-  ref: Deut 32:39
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
-    מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
-- tradition: islam
-  ref: Quran 23:91
-  note: 'Declaration that YHWH is God and there is no other besides him (wa-mā kāna maʿahu min ilāhin
-    ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut states it as what Israel was shown; the
-    Quran argues it from the order of the world (la-dhahaba kullu ilāhin bimā khalaqa wa-la-ʿalā baʿḍuhum
-    ʿalā baʿḍin).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
-    بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-huwa lladhī yuḥyī wa-yumītu ... wa-huwa yujīru wa-lā yujāru ʿalayhi ~ ʾănî ʾāmît wa-ʾăḥayyeh
-    ... wə-ʾên mi-yyādî maṣṣîl: God gives life and death, and no one can rescue from him.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: I kill and I make alive, I wound and I heal; there is no god beside
     me (weight 5.1); Declaration that YHWH is God and there is no other besides him (weight 5.1). Pair
@@ -95,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: I kill and I make alive, I wound and I heal; there is no god beside me
+kinds:
+- parallel
+- shared
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: parallel
+  label: I kill and I make alive, I wound and I heal; there is no god beside me
+  note: 'wa-huwa lladhī yuḥyī wa-yumītu ... wa-huwa yujīru wa-lā yujāru ʿalayhi ~ ʾănî ʾāmît wa-ʾăḥayyeh
+    ... wə-ʾên mi-yyādî maṣṣîl: God gives life and death, and no one can rescue from him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 23:80
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُحْىِۦ وَيُمِيتُ وَلَهُ ٱخْتِلَٰفُ ٱلَّيْلِ وَٱلنَّهَارِ أَفَلَا تَعْقِلُونَ
+    - ref: Quran 23:88
+      lang: ar
+      text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ
+        تَعْلَمُونَ
+- kind: shared
+  label: Declaration that YHWH is God and there is no other besides him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:39
+      lang: he
+      text: רְא֣וּ עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה
+        מָחַ֨צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 23:91
+      lang: ar
+      text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
+        بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+    note: 'wa-mā kāna maʿahu min ilāhin ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut states
+      it as what Israel was shown; the Quran argues it from the order of the world (la-dhahaba kullu ilāhin
+      bimā khalaqa wa-la-ʿalā baʿḍuhum ʿalā baʿḍin).'
 ---
 
 ## Questions

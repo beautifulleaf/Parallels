@@ -2,8 +2,7 @@
 id: motif-hb-exod-40-tabernacle-erected-glory-fills-vs-quran-48-fath-clear-victory-and-pledge
 title: 'The tabernacle erected; cloud and glory fill it ↔ Al-Fath: the clear opening, the sakina, the
   hand of God over their hands and the bedouin who stayed behind'
-summary: 'These two units share 1 motifs: the divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary
-  or sent down into hearts [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - divine-presence-dwelling-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 40:34
-  note: 'The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts
-    [divergence between the texts] (Cognate root š-k-n / s-k-n: kî šāḵan ʿālâw he-ʿānān û-ḵəḇôḏ YHWH mālēʾ
-    ʾeṯ ham-miškān (the cloud dwelt on the tent, the glory filled the tabernacle) vs. huwa lladhī anzala
-    s-sakīnata fī qulūbi l-muʾminīna li-yazdādū īmānan (God sent down the sakīna into the believers''
-    hearts). The divine presence dwelling in the sanctuary becomes tranquility sent down into hearts.
-    cf. rabbinic šəḵînâ (later term); the HB has only the verb.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַ֥ס הֶעָנָ֖ן אֶת אֹ֣הֶל מוֹעֵ֑ד וּכְב֣וֹד יְהוָ֔ה מָלֵ֖א אֶת הַמִּשְׁכָּֽן
-- tradition: judaism
-  ref: Exod 40:35
-  note: 'The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts
-    [divergence between the texts] (Cognate root š-k-n / s-k-n: kî šāḵan ʿālâw he-ʿānān û-ḵəḇôḏ YHWH mālēʾ
-    ʾeṯ ham-miškān (the cloud dwelt on the tent, the glory filled the tabernacle) vs. huwa lladhī anzala
-    s-sakīnata fī qulūbi l-muʾminīna li-yazdādū īmānan (God sent down the sakīna into the believers''
-    hearts). The divine presence dwelling in the sanctuary becomes tranquility sent down into hearts.
-    cf. rabbinic šəḵînâ (later term); the HB has only the verb.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹא יָכֹ֣ל מֹשֶׁ֗ה לָבוֹא֙ אֶל אֹ֣הֶל מוֹעֵ֔ד כִּֽי שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן וּכְב֣וֹד יְהוָ֔ה
-    מָלֵ֖א אֶת הַמִּשְׁכָּֽן
-- tradition: islam
-  ref: Quran 48:4
-  note: 'The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts
-    [divergence between the texts] (Cognate root š-k-n / s-k-n: kî šāḵan ʿālâw he-ʿānān û-ḵəḇôḏ YHWH mālēʾ
-    ʾeṯ ham-miškān (the cloud dwelt on the tent, the glory filled the tabernacle) vs. huwa lladhī anzala
-    s-sakīnata fī qulūbi l-muʾminīna li-yazdādū īmānan (God sent down the sakīna into the believers''
-    hearts). The divine presence dwelling in the sanctuary becomes tranquility sent down into hearts.
-    cf. rabbinic šəḵînâ (later term); the HB has only the verb.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ
-    إِيمَٰنِهِمْ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Cognate root š-k-n / s-k-n: kî šāḵan ʿālâw he-ʿānān û-ḵəḇôḏ YHWH mālēʾ ʾeṯ ham-miškān
-    (the cloud dwelt on the tent, the glory filled the tabernacle) vs. huwa lladhī anzala s-sakīnata fī
-    qulūbi l-muʾminīna li-yazdādū īmānan (God sent down the sakīna into the believers'' hearts). The divine
-    presence dwelling in the sanctuary becomes tranquility sent down into hearts. cf. rabbinic šəḵînâ
-    (later term); the HB has only the verb.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary
     or sent down into hearts [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -91,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts
+kinds:
+- divergence
+units:
+- id: hb-exod-40-tabernacle-erected-glory-fills
+  title: The tabernacle erected; cloud and glory fill it
+  tradition: judaism
+- id: quran-48-fath-clear-victory-and-pledge
+  title: 'Al-Fath: the clear opening, the sakina, the hand of God over their hands and the bedouin who
+    stayed behind'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The divine presence (root sh-k-n / s-k-n) dwelling on the sanctuary or sent down into hearts
+  note: 'Cognate root š-k-n / s-k-n: kî šāḵan ʿālâw he-ʿānān û-ḵəḇôḏ YHWH mālēʾ ʾeṯ ham-miškān (the cloud
+    dwelt on the tent, the glory filled the tabernacle) vs. huwa lladhī anzala s-sakīnata fī qulūbi l-muʾminīna
+    li-yazdādū īmānan (God sent down the sakīna into the believers'' hearts). The divine presence dwelling
+    in the sanctuary becomes tranquility sent down into hearts. cf. rabbinic šəḵînâ (later term); the
+    HB has only the verb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 40:34
+      lang: he
+      text: וַיְכַ֥ס הֶעָנָ֖ן אֶת אֹ֣הֶל מוֹעֵ֑ד וּכְב֣וֹד יְהוָ֔ה מָלֵ֖א אֶת הַמִּשְׁכָּֽן
+    - ref: Exod 40:35
+      lang: he
+      text: וְלֹא יָכֹ֣ל מֹשֶׁ֗ה לָבוֹא֙ אֶל אֹ֣הֶל מוֹעֵ֔ד כִּֽי שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן וּכְב֣וֹד יְהוָ֔ה
+        מָלֵ֖א אֶת הַמִּשְׁכָּֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 48:4
+      lang: ar
+      text: هُوَ ٱلَّذِىٓ أَنزَلَ ٱلسَّكِينَةَ فِى قُلُوبِ ٱلْمُؤْمِنِينَ لِيَزْدَادُوٓا۟ إِيمَٰنًا مَّعَ
+        إِيمَٰنِهِمْ وَلِلَّهِ جُنُودُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

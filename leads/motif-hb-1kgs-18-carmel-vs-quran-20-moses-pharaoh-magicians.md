@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-20-moses-pharaoh-magicians
 title: Contest on Mount Carmel ↔ Moses and Aaron before Pharaoh; the contest with the magicians
-summary: 'These two units share 1 motifs: prophet''s wonders are imitated by the king''s magicians in
-  a contest.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,48 +13,9 @@ layers:
 - motif
 motifs:
 - contest-with-court-magicians
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:25-29
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (18:25) וַיֹּ֨אמֶר אֵלִיָּ֜הוּ לִנְבִיאֵ֣י הַבַּ֗עַל בַּחֲר֨וּ לָכֶ֜ם הַפָּ֤ר הָֽאֶחָד֙ וַעֲשׂ֣וּ
-    רִאשֹׁנָ֔ה כִּ֥י אַתֶּ֖ם הָרַבִּ֑ים וְקִרְאוּ֙ בְּשֵׁ֣ם אֱלֹהֵיכֶ֔ם וְאֵ֖שׁ לֹ֥א תָשִֽׂימוּ (18:26)
-    וַ֠יִּקְחוּ אֶת הַפָּ֨ר אֲשֶׁר נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם הַ֠בַּעַל מֵהַבֹּ֨קֶר
-    וְעַד הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ עַל הַמִּזְבֵּ֖חַ
-    אֲשֶׁ֥ר עָשָֽׂה (18:27) וַיְהִ֨י בַֽצָּהֳרַ֜יִם וַיְהַתֵּ֧ל בָּהֶ֣ם אֵלִיָּ֗הוּ וַיֹּ֨אמֶר֙ קִרְא֤וּ
-    בְקוֹל גָּדוֹל֙ כִּֽי אֱלֹהִ֣ים ה֔וּא כִּ֣י שִׂ֧יחַ וְכִֽי שִׂ֛יג ל֖וֹ וְכִֽי דֶ֣רֶךְ ל֑וֹ אוּלַ֛י
-    יָשֵׁ֥ן ה֖וּא וְיִקָֽץ (18:28) וַֽיִּקְרְאוּ֙ בְּק֣וֹל גָּד֔וֹל וַיִּתְגֹּֽדְדוּ֙ כְּמִשְׁפָּטָ֔ם
-    בַּחֲרָב֖וֹת וּבָֽרְמָחִ֑ים עַד שְׁפָךְ דָּ֖ם עֲלֵיהֶֽם (18:29) וַֽיְהִי֙ כַּעֲבֹ֣ר הַֽצָּהֳרַ֔יִם
-    וַיִּֽתְנַבְּא֔וּ עַ֖ד לַעֲל֣וֹת הַמִּנְחָ֑ה וְאֵֽין ק֥וֹל וְאֵין עֹנֶ֖ה וְאֵ֥ין קָֽשֶׁב
-- tradition: judaism
-  ref: 1Kgs 18:21
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
-    הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא עָנ֥וּ
-    הָעָ֛ם אֹת֖וֹ דָּבָֽר
-- tradition: islam
-  ref: Quran 20:57
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَجِئْتَنَا لِتُخْرِجَنَا مِنْ أَرْضِنَا بِسِحْرِكَ يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:58
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
-    نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. A public contest set before the assembled people between God''s prophet and the king''s religious
-    professionals, ending with the people falling down and confessing: wayyippəlû ʿal-pənêhem wayyōʾmərû
-    YHWH hûʾ hāʾĕlōhîm; fa-ulqiya s-saḥaratu sujjadan qālū āmannā bi-rabbi Hārūna wa-Mūsā. At Carmel the
-    losers are killed by Elijah; in Q the converts are threatened by Pharaoh.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet''s wonders are imitated by the king''s magicians in a contest
     (weight 5.1). Pair score 5.1.'
@@ -94,6 +54,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet's wonders are imitated by the king's magicians in a contest
+kinds:
+- echo
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  note: 'A public contest set before the assembled people between God''s prophet and the king''s religious
+    professionals, ending with the people falling down and confessing: wayyippəlû ʿal-pənêhem wayyōʾmərû
+    YHWH hûʾ hāʾĕlōhîm; fa-ulqiya s-saḥaratu sujjadan qālū āmannā bi-rabbi Hārūna wa-Mūsā. At Carmel the
+    losers are killed by Elijah; in Q the converts are threatened by Pharaoh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:21
+      lang: he
+      text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
+        הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא
+        עָנ֥וּ הָעָ֛ם אֹת֖וֹ דָּבָֽר
+    - ref: 1Kgs 18:24
+      lang: he
+      text: וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר
+        יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר
+    - ref: 1Kgs 18:38
+      lang: he
+      text: וַתִּפֹּ֣ל אֵשׁ יְהוָ֗ה וַתֹּ֤אכַל אֶת הָֽעֹלָה֙ וְאֶת הָ֣עֵצִ֔ים וְאֶת הָאֲבָנִ֖ים וְאֶת
+        הֶעָפָ֑ר וְאֶת הַמַּ֥יִם אֲשֶׁר בַּתְּעָלָ֖ה לִחֵֽכָה
+  - tradition: islam
+    passages:
+    - ref: Quran 20:58
+      lang: ar
+      text: فَلَنَأْتِيَنَّكَ بِسِحْرٍ مِّثْلِهِۦ فَٱجْعَلْ بَيْنَنَا وَبَيْنَكَ مَوْعِدًا لَّا نُخْلِفُهُۥ
+        نَحْنُ وَلَآ أَنتَ مَكَانًا سُوًى
+    - ref: Quran 20:59
+      lang: ar
+      text: قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ وَأَن يُحْشَرَ ٱلنَّاسُ ضُحًى
+    - ref: Quran 20:64
+      lang: ar
+      text: فَأَجْمِعُوا۟ كَيْدَكُمْ ثُمَّ ٱئْتُوا۟ صَفًّا وَقَدْ أَفْلَحَ ٱلْيَوْمَ مَنِ ٱسْتَعْلَىٰ
 ---
 
 ## Questions

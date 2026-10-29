@@ -1,9 +1,7 @@
 ---
 id: motif-hb-1sam-9-saul-seeks-donkeys-vs-quran-2-talut-jalut
 title: Saul seeks his father's donkeys and meets Samuel ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 2 motifs: the chosen king is taller than all the people from the shoulders
-  up [divergence between the texts], the chosen king is taller than all the people from the shoulders
-  up.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,65 +14,9 @@ layers:
 motifs:
 - tallest-man-chosen-king-as-divergence
 - tallest-man-chosen-king
-passages:
-- tradition: judaism
-  ref: 1Sam 9:2
-  note: 'The chosen king is taller than all the people from the shoulders up [divergence between the texts]
-    (1Sam 9:2 miššikmô wā-maʿlâ gābōah mi-kkol hā-ʿām: taller than all from the shoulders up, and 9:21
-    Saul himself pleads low birth (mi-qqaṭannê šibṭê yiśrāʾēl ... ha-ṣṣĕʿîrâ); Q 2:247 wa-zādahu basṭatan
-    fī l-ʿilmi wa-l-jism: God increased him in knowledge and in body. Stature is kept and knowledge is
-    added; the low status is now the people''s objection (''he has no wealth''), not Saul''s own modesty.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלוֹ הָיָ֨ה בֵ֜ן וּשְׁמ֤וֹ שָׁאוּל֙ בָּח֣וּר וָט֔וֹב וְאֵ֥ין אִ֛ישׁ מִבְּנֵ֥י יִשְׂרָאֵ֖ל ט֣וֹב
-    מִמֶּ֑נּוּ מִשִּׁכְמ֣וֹ וָמַ֔עְלָה גָּבֹ֖הַּ מִכָּל הָעָֽם
-- tradition: judaism
-  ref: 1Sam 9:21
-  note: 'The chosen king is taller than all the people from the shoulders up [divergence between the texts]
-    (1Sam 9:2 miššikmô wā-maʿlâ gābōah mi-kkol hā-ʿām: taller than all from the shoulders up, and 9:21
-    Saul himself pleads low birth (mi-qqaṭannê šibṭê yiśrāʾēl ... ha-ṣṣĕʿîrâ); Q 2:247 wa-zādahu basṭatan
-    fī l-ʿilmi wa-l-jism: God increased him in knowledge and in body. Stature is kept and knowledge is
-    added; the low status is now the people''s objection (''he has no wealth''), not Saul''s own modesty.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַן שָׁא֜וּל וַיֹּ֗אמֶר הֲל֨וֹא בֶן יְמִינִ֤י אָ֨נֹכִי֙ מִקַּטַנֵּי֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל
-    וּמִשְׁפַּחְתִּי֙ הַצְּעִרָ֔ה מִכָּֽל מִשְׁפְּח֖וֹת שִׁבְטֵ֣י בִנְיָמִ֑ן וְלָ֨מָּה֙ דִּבַּ֣רְתָּ אֵלַ֔י
-    כַּדָּבָ֖ר הַזֶּֽה
-- tradition: islam
-  ref: Quran 2:247
-  note: 'The chosen king is taller than all the people from the shoulders up [divergence between the texts]
-    (1Sam 9:2 miššikmô wā-maʿlâ gābōah mi-kkol hā-ʿām: taller than all from the shoulders up, and 9:21
-    Saul himself pleads low birth (mi-qqaṭannê šibṭê yiśrāʾēl ... ha-ṣṣĕʿîrâ); Q 2:247 wa-zādahu basṭatan
-    fī l-ʿilmi wa-l-jism: God increased him in knowledge and in body. Stature is kept and knowledge is
-    added; the low status is now the people''s objection (''he has no wealth''), not Saul''s own modesty.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
-    يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ
-    قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ وَٱللَّهُ
-    يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
-- tradition: judaism
-  ref: 1Sam 9:2
-  note: The chosen king is taller than all the people from the shoulders up
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלוֹ הָיָ֨ה בֵ֜ן וּשְׁמ֤וֹ שָׁאוּל֙ בָּח֣וּר וָט֔וֹב וְאֵ֥ין אִ֛ישׁ מִבְּנֵ֥י יִשְׂרָאֵ֖ל ט֣וֹב
-    מִמֶּ֑נּוּ מִשִּׁכְמ֣וֹ וָמַ֔עְלָה גָּבֹ֖הַּ מִכָּל הָעָֽם
-- tradition: islam
-  ref: Quran 2:247
-  note: The chosen king is taller than all the people from the shoulders up (basta fil-jism)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
-    يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ
-    قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ وَٱللَّهُ
-    يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. 1Sam 9:2 miššikmô wā-maʿlâ gābōah mi-kkol hā-ʿām: taller than all from the shoulders up,
-    and 9:21 Saul himself pleads low birth (mi-qqaṭannê šibṭê yiśrāʾēl ... ha-ṣṣĕʿîrâ); Q 2:247 wa-zādahu
-    basṭatan fī l-ʿilmi wa-l-jism: God increased him in knowledge and in body. Stature is kept and knowledge
-    is added; the low status is now the people''s objection (''he has no wealth''), not Saul''s own modesty.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The chosen king is taller than all the people from the shoulders
     up [divergence between the texts] (weight 6.7); The chosen king is taller than all the people from
@@ -105,6 +47,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The chosen king is taller than all the people from the shoulders up
+kinds:
+- divergence
+units:
+- id: hb-1sam-9-saul-seeks-donkeys
+  title: Saul seeks his father's donkeys and meets Samuel
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: divergence
+  label: The chosen king is taller than all the people from the shoulders up
+  note: '1Sam 9:2 miššikmô wā-maʿlâ gābōah mi-kkol hā-ʿām: taller than all from the shoulders up, and
+    9:21 Saul himself pleads low birth (mi-qqaṭannê šibṭê yiśrāʾēl ... ha-ṣṣĕʿîrâ); Q 2:247 wa-zādahu
+    basṭatan fī l-ʿilmi wa-l-jism: God increased him in knowledge and in body. Stature is kept and knowledge
+    is added; the low status is now the people''s objection (''he has no wealth''), not Saul''s own modesty.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 9:2
+      lang: he
+      text: וְלוֹ הָיָ֨ה בֵ֜ן וּשְׁמ֤וֹ שָׁאוּל֙ בָּח֣וּר וָט֔וֹב וְאֵ֥ין אִ֛ישׁ מִבְּנֵ֥י יִשְׂרָאֵ֖ל
+        ט֣וֹב מִמֶּ֑נּוּ מִשִּׁכְמ֣וֹ וָמַ֔עְלָה גָּבֹ֖הַּ מִכָּל הָעָֽם
+    - ref: 1Sam 9:21
+      lang: he
+      text: וַיַּ֨עַן שָׁא֜וּל וַיֹּ֗אמֶר הֲל֨וֹא בֶן יְמִינִ֤י אָ֨נֹכִי֙ מִקַּטַנֵּי֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל
+        וּמִשְׁפַּחְתִּי֙ הַצְּעִרָ֔ה מִכָּֽל מִשְׁפְּח֖וֹת שִׁבְטֵ֣י בִנְיָמִ֑ן וְלָ֨מָּה֙ דִּבַּ֣רְתָּ
+        אֵלַ֔י כַּדָּבָ֖ר הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:247
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
+        يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ
+        ٱلْمَالِ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ
+        وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-lev-26-blessings-vs-quran-24-obedience-and-succession
 title: Covenant blessings for obedience ↔ Hypocrites and the call to judgment; 'we hear and obey'; the
   promise of succession
-summary: 'These two units share 1 motifs: blessing: god removes harmful wild beasts from the land.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - wild-beasts-removed-from-land
-passages:
-- tradition: judaism
-  ref: Lev 26:6
-  note: 'Blessing: God removes harmful wild beasts from the land'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתִּ֤י שָׁלוֹם֙ בָּאָ֔רֶץ וּשְׁכַבְתֶּ֖ם וְאֵ֣ין מַחֲרִ֑יד וְהִשְׁבַּתִּ֞י חַיָּ֤ה רָעָה֙
-    מִן הָאָ֔רֶץ וְחֶ֖רֶב לֹא תַעֲבֹ֥ר בְּאַרְצְכֶֽם
-- tradition: judaism
-  ref: Lev 26:5
-  note: 'Blessing: God removes harmful wild beasts from the land'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת בָּצִ֔יר וּבָצִ֖יר יַשִּׂ֣יג אֶת זָ֑רַע וַאֲכַלְתֶּ֤ם לַחְמְכֶם֙
-    לָשֹׂ֔בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח בְּאַרְצְכֶֽם
-- tradition: islam
-  ref: Quran 24:55
-  note: 'Blessing: God removes harmful wild beasts from the land (wa-la-yubaddilannahum min baʿdi khawfihim
-    amnan ~ wi-šavtem lāveṭaḥ bə-ʾarṣəkem wə-nātattî šālôm bā-ʾāreṣ û-šəkhavtem wə-ʾên maḥărîd: obedience
-    is rewarded with security in the land instead of fear. Leviticus lists harvest, peace and no wild
-    beasts or sword; the Quran adds that their religion will be established (yumakkinanna lahum dīnahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ فِى
-    ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى ٱرْتَضَىٰ
-    لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ بِى شَيْـًٔا
-    وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-la-yubaddilannahum min baʿdi khawfihim amnan ~ wi-šavtem lāveṭaḥ bə-ʾarṣəkem wə-nātattî šālôm
-    bā-ʾāreṣ û-šəkhavtem wə-ʾên maḥărîd: obedience is rewarded with security in the land instead of fear.
-    Leviticus lists harvest, peace and no wild beasts or sword; the Quran adds that their religion will
-    be established (yumakkinanna lahum dīnahum).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Blessing: God removes harmful wild beasts from the land (weight
     6.3). Pair score 6.3.'
@@ -75,6 +45,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Blessing: God removes harmful wild beasts from the land'
+kinds:
+- echo
+units:
+- id: hb-lev-26-blessings
+  title: Covenant blessings for obedience
+  tradition: judaism
+- id: quran-24-obedience-and-succession
+  title: Hypocrites and the call to judgment; 'we hear and obey'; the promise of succession
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Blessing: God removes harmful wild beasts from the land'
+  note: 'wa-la-yubaddilannahum min baʿdi khawfihim amnan ~ wi-šavtem lāveṭaḥ bə-ʾarṣəkem wə-nātattî šālôm
+    bā-ʾāreṣ û-šəkhavtem wə-ʾên maḥărîd: obedience is rewarded with security in the land instead of fear.
+    Leviticus lists harvest, peace and no wild beasts or sword; the Quran adds that their religion will
+    be established (yumakkinanna lahum dīnahum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 26:5
+      lang: he
+      text: וְהִשִּׂ֨יג לָכֶ֥ם דַּ֨יִשׁ֙ אֶת בָּצִ֔יר וּבָצִ֖יר יַשִּׂ֣יג אֶת זָ֑רַע וַאֲכַלְתֶּ֤ם לַחְמְכֶם֙
+        לָשֹׂ֔בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח בְּאַרְצְכֶֽם
+    - ref: Lev 26:6
+      lang: he
+      text: וְנָתַתִּ֤י שָׁלוֹם֙ בָּאָ֔רֶץ וּשְׁכַבְתֶּ֖ם וְאֵ֣ין מַחֲרִ֑יד וְהִשְׁבַּתִּ֞י חַיָּ֤ה רָעָה֙
+        מִן הָאָ֔רֶץ וְחֶ֖רֶב לֹא תַעֲבֹ֥ר בְּאַרְצְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 24:55
+      lang: ar
+      text: وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ مِنكُمْ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَيَسْتَخْلِفَنَّهُمْ
+        فِى ٱلْأَرْضِ كَمَا ٱسْتَخْلَفَ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَيُمَكِّنَنَّ لَهُمْ دِينَهُمُ ٱلَّذِى
+        ٱرْتَضَىٰ لَهُمْ وَلَيُبَدِّلَنَّهُم مِّنۢ بَعْدِ خَوْفِهِمْ أَمْنًا يَعْبُدُونَنِى لَا يُشْرِكُونَ
+        بِى شَيْـًٔا وَمَن كَفَرَ بَعْدَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 ---
 
 ## Questions

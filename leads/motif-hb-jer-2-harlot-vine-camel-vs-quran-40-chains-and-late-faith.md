@@ -2,8 +2,7 @@
 id: motif-hb-jer-2-harlot-vine-camel-vs-quran-40-chains-and-late-faith
 title: Degenerate vine, she-camel in heat, gods of wood and stone ↔ Dragged in chains; messengers told
   and untold; faith on seeing punishment
-summary: 'These two units share 1 motifs: asked where their partners are, the damned say ''they have strayed
-  from us; we called on nothing before''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - false-gods-vanish-from-damned
-passages:
-- tradition: judaism
-  ref: Jer 2:28
-  note: 'Asked where their partners are, the damned say ''they have strayed from us; we called on nothing
-    before'' (wə-ʾayyēh ʾĕlōheyḵā ʾăšer ʿāśîṯā lāḵ yāqûmû ʾim-yôšîʿûḵā bə-ʿēṯ rāʿāṯeḵā vs. thumma qīla
-    lahum ayna mā kuntum tushrikūna min dūni llāhi qālū ḍallū ʿannā: ''Where are your gods?'' in the hour
-    of need. Jeremiah''s question is left hanging; in the Quran the damned answer that the gods have vanished,
-    and even that they called on nothing (lam nakun nadʿū min qablu shayʾan).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַיֵּ֤ה אֱלֹהֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ לָּ֔ךְ יָק֕וּמוּ אִם יוֹשִׁיע֖וּךָ בְּעֵ֣ת רָעָתֶ֑ךָ כִּ֚י
-    מִסְפַּ֣ר עָרֶ֔יךָ הָי֥וּ אֱלֹהֶ֖יךָ יְהוּדָֽה
-- tradition: islam
-  ref: Quran 40:73
-  note: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
-    before'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
-- tradition: islam
-  ref: Quran 40:74
-  note: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
-    before'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِن دُونِ ٱللَّهِ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًٔا كَذَٰلِكَ
-    يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-ʾayyēh ʾĕlōheyḵā ʾăšer ʿāśîṯā lāḵ yāqûmû ʾim-yôšîʿûḵā bə-ʿēṯ rāʿāṯeḵā vs. thumma qīla
-    lahum ayna mā kuntum tushrikūna min dūni llāhi qālū ḍallū ʿannā: ''Where are your gods?'' in the hour
-    of need. Jeremiah''s question is left hanging; in the Quran the damned answer that the gods have vanished,
-    and even that they called on nothing (lam nakun nadʿū min qablu shayʾan).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Asked where their partners are, the damned say ''they have strayed
     from us; we called on nothing before'' (weight 6.3). Pair score 6.3.'
@@ -80,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
+  before'
+kinds:
+- parallel
+units:
+- id: hb-jer-2-harlot-vine-camel
+  title: Degenerate vine, she-camel in heat, gods of wood and stone
+  tradition: judaism
+- id: quran-40-chains-and-late-faith
+  title: Dragged in chains; messengers told and untold; faith on seeing punishment
+  tradition: islam
+matches:
+- kind: parallel
+  label: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
+    before'
+  note: 'wə-ʾayyēh ʾĕlōheyḵā ʾăšer ʿāśîṯā lāḵ yāqûmû ʾim-yôšîʿûḵā bə-ʿēṯ rāʿāṯeḵā vs. thumma qīla lahum
+    ayna mā kuntum tushrikūna min dūni llāhi qālū ḍallū ʿannā: ''Where are your gods?'' in the hour of
+    need. Jeremiah''s question is left hanging; in the Quran the damned answer that the gods have vanished,
+    and even that they called on nothing (lam nakun nadʿū min qablu shayʾan).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 2:28
+      lang: he
+      text: וְאַיֵּ֤ה אֱלֹהֶ֨יךָ֙ אֲשֶׁ֣ר עָשִׂ֣יתָ לָּ֔ךְ יָק֕וּמוּ אִם יוֹשִׁיע֖וּךָ בְּעֵ֣ת רָעָתֶ֑ךָ
+        כִּ֚י מִסְפַּ֣ר עָרֶ֔יךָ הָי֥וּ אֱלֹהֶ֖יךָ יְהוּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 40:73
+      lang: ar
+      text: ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
+    - ref: Quran 40:74
+      lang: ar
+      text: مِن دُونِ ٱللَّهِ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًٔا
+        كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
 ---
 
 ## Questions

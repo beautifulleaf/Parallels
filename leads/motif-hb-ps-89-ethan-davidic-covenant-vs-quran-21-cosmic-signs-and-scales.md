@@ -2,7 +2,7 @@
 id: motif-hb-ps-89-ethan-davidic-covenant-vs-quran-21-cosmic-signs-and-scales
 title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant ↔
   The split heavens, water of life, orbits, mortality and the scales
-summary: 'These two units share 1 motifs: every soul shall taste death.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - every-soul-tastes-death
-passages:
-- tradition: judaism
-  ref: Ps 89:49
-  note: 'Every soul shall taste death (mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl;
-    wa-mā jaʿalnā li-basharin min qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes
-    death (''see'' death / ''taste'' death).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
-- tradition: islam
-  ref: Quran 21:34
-  note: Every soul shall taste death
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَٰلِدُونَ
-- tradition: islam
-  ref: Quran 21:35
-  note: Every soul shall taste death
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً وَإِلَيْنَا تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl; wa-mā jaʿalnā li-basharin
-    min qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes death (''see'' death / ''taste''
-    death).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Every soul shall taste death (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -75,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Every soul shall taste death
+kinds:
+- parallel
+units:
+- id: hb-ps-89-ethan-davidic-covenant
+  title: Psalm 89, Ethan's hymn of the divine council, Rahab crushed, and the broken Davidic covenant
+  tradition: judaism
+- id: quran-21-cosmic-signs-and-scales
+  title: The split heavens, water of life, orbits, mortality and the scales
+  tradition: islam
+matches:
+- kind: parallel
+  label: Every soul shall taste death
+  note: 'mî geber yiḥyeh wəlōʾ yirʾeh-māwet yəmallēṭ napšô miyyad-šəʾôl; wa-mā jaʿalnā li-basharin min
+    qablika l-khuld ... kullu nafsin dhāʾiqatu l-mawt: no human escapes death (''see'' death / ''taste''
+    death).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 89:49
+      lang: he
+      text: מִ֤י גֶ֣בֶר יִֽ֭חְיֶה וְלֹ֣א יִרְאֶה מָּ֑וֶת יְמַלֵּ֨ט נַפְשׁ֖וֹ מִיַּד שְׁא֣וֹל סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 21:34
+      lang: ar
+      text: وَمَا جَعَلْنَا لِبَشَرٍ مِّن قَبْلِكَ ٱلْخُلْدَ أَفَإِي۟ن مِّتَّ فَهُمُ ٱلْخَٰلِدُونَ
+    - ref: Quran 21:35
+      lang: ar
+      text: كُلُّ نَفْسٍ ذَآئِقَةُ ٱلْمَوْتِ وَنَبْلُوكُم بِٱلشَّرِّ وَٱلْخَيْرِ فِتْنَةً وَإِلَيْنَا
+        تُرْجَعُونَ
 ---
 
 ## Questions

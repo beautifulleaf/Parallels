@@ -2,7 +2,7 @@
 id: motif-hb-exod-1-oppression-midwives-vs-quran-14-moses-and-messengers
 title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons ↔ Messengers in their
   people's tongue; Moses and the days of God; the threatened messengers (Surah 14:1-17)
-summary: 'These two units share 1 motifs: ruler orders the killing of male infants.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +15,9 @@ layers:
 - motif
 motifs:
 - king-kills-male-infants
-passages:
-- tradition: judaism
-  ref: Exod 1:16
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן
-    אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
-- tradition: judaism
-  ref: Exod 1:22
-  note: Ruler orders the killing of male infants (first via midwives at the birthstool (ovnayim), then
-    all sons thrown into the Nile)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
-    וְכָל הַבַּ֖ת תְּחַיּֽוּן
-- tradition: islam
-  ref: Quran 14:6
-  note: Ruler orders the killing of male infants (they slaughtered your sons and spared your women)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ
-    فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ
-    وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. yudhabbiḥūna abnāʾakum wa-yastaḥyūna nisāʾakum; ʾim-bēn hûʾ wahămitten ʾōtô wəʾim-bat hîʾ
-    wāḥāyâ ... wəkol-habbat təḥayyûn. Cognate root ḥ-y-y on both sides for sparing the females. Exod has
-    the newborn sons thrown into the Nile; Q has them slaughtered (dhabḥ).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ruler orders the killing of male infants (weight 5.1). Pair score
     5.1.'
@@ -81,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ruler orders the killing of male infants
+kinds:
+- parallel
+units:
+- id: hb-exod-1-oppression-midwives
+  title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons
+  tradition: judaism
+- id: quran-14-moses-and-messengers
+  title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah
+    14:1-17)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Ruler orders the killing of male infants
+  note: yudhabbiḥūna abnāʾakum wa-yastaḥyūna nisāʾakum; ʾim-bēn hûʾ wahămitten ʾōtô wəʾim-bat hîʾ wāḥāyâ
+    ... wəkol-habbat təḥayyûn. Cognate root ḥ-y-y on both sides for sparing the females. Exod has the
+    newborn sons thrown into the Nile; Q has them slaughtered (dhabḥ).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 1:16
+      lang: he
+      text: וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל הָאָבְנָ֑יִם אִם בֵּ֥ן הוּא֙
+        וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם בַּ֥ת הִ֖יא וָחָֽיָה
+    - ref: Exod 1:22
+      lang: he
+      text: וַיְצַ֣ו פַּרְעֹ֔ה לְכָל עַמּ֖וֹ לֵאמֹ֑ר כָּל הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֨רָה֙ תַּשְׁלִיכֻ֔הוּ
+        וְכָל הַבַּ֖ת תְּחַיּֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 14:6
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ
+        ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ
+        نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 ---
 
 ## Questions

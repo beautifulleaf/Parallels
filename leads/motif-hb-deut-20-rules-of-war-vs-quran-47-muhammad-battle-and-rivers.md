@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-47-muhammad-battle-and-rivers
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Muhammad: deeds nullified, striking necks
   and freeing captives, and the four rivers of the Garden'
-summary: 'These two units share 1 motifs: what is done with the enemy''s men after battle: killed, or
-  bound and released [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - treatment-of-defeated-enemy-men-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 20:10
-  note: 'What is done with the enemy''s men after battle: killed, or bound and released [contrast between
-    the texts] (The fate of male enemies after the battle. Deuteronomy: first wə-qārāʾṯā ʾēlêhā lə-šālôm;
-    if refused, wə-hikkîṯā ʾeṯ kol zəḵûrāh lə-p̄î ḥāreḇ, and women, children and cattle are spoil (šālāl).
-    Quran: fa-ḍarba r-riqābi ḥattā idhā athkhantumūhum fa-shuddū l-wathāqa fa-immā mannan baʿdu wa-immā
-    fidāʾan ḥattā taḍaʿa l-ḥarbu awzārahā: kill in the fight, but captives taken are freed as a favor
-    or for ransom. No offer of peace beforehand, but no killing of all males afterwards.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
-- tradition: judaism
-  ref: Deut 20:13
-  note: 'What is done with the enemy''s men after battle: killed, or bound and released [contrast between
-    the texts] (The fate of male enemies after the battle. Deuteronomy: first wə-qārāʾṯā ʾēlêhā lə-šālôm;
-    if refused, wə-hikkîṯā ʾeṯ kol zəḵûrāh lə-p̄î ḥāreḇ, and women, children and cattle are spoil (šālāl).
-    Quran: fa-ḍarba r-riqābi ḥattā idhā athkhantumūhum fa-shuddū l-wathāqa fa-immā mannan baʿdu wa-immā
-    fidāʾan ḥattā taḍaʿa l-ḥarbu awzārahā: kill in the fight, but captives taken are freed as a favor
-    or for ransom. No offer of peace beforehand, but no killing of all males afterwards.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּנְתָנָ֛הּ יְהוָ֥ה אֱלֹהֶ֖יךָ בְּיָדֶ֑ךָ וְהִכִּיתָ֥ אֶת כָּל זְכוּרָ֖הּ לְפִי חָֽרֶב
-- tradition: islam
-  ref: Quran 47:4
-  note: 'What is done with the enemy''s men after battle: killed, or bound and released [contrast between
-    the texts] (The fate of male enemies after the battle. Deuteronomy: first wə-qārāʾṯā ʾēlêhā lə-šālôm;
-    if refused, wə-hikkîṯā ʾeṯ kol zəḵûrāh lə-p̄î ḥāreḇ, and women, children and cattle are spoil (šālāl).
-    Quran: fa-ḍarba r-riqābi ḥattā idhā athkhantumūhum fa-shuddū l-wathāqa fa-immā mannan baʿdu wa-immā
-    fidāʾan ḥattā taḍaʿa l-ḥarbu awzārahā: kill in the fight, but captives taken are freed as a favor
-    or for ransom. No offer of peace beforehand, but no killing of all males afterwards.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ فَشُدُّوا۟
-    ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا ذَٰلِكَ
-    وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ وَٱلَّذِينَ
-    قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. The fate of male enemies after the battle. Deuteronomy: first wə-qārāʾṯā ʾēlêhā lə-šālôm;
-    if refused, wə-hikkîṯā ʾeṯ kol zəḵûrāh lə-p̄î ḥāreḇ, and women, children and cattle are spoil (šālāl).
-    Quran: fa-ḍarba r-riqābi ḥattā idhā athkhantumūhum fa-shuddū l-wathāqa fa-immā mannan baʿdu wa-immā
-    fidāʾan ḥattā taḍaʿa l-ḥarbu awzārahā: kill in the fight, but captives taken are freed as a favor
-    or for ransom. No offer of peace beforehand, but no killing of all males afterwards.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What is done with the enemy''s men after battle: killed, or bound
     and released [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -95,6 +53,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What is done with the enemy''s men after battle: killed, or bound and released'
+kinds:
+- contrast
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'What is done with the enemy''s men after battle: killed, or bound and released'
+  note: 'The fate of male enemies after the battle. Deuteronomy: first wə-qārāʾṯā ʾēlêhā lə-šālôm; if
+    refused, wə-hikkîṯā ʾeṯ kol zəḵûrāh lə-p̄î ḥāreḇ, and women, children and cattle are spoil (šālāl).
+    Quran: fa-ḍarba r-riqābi ḥattā idhā athkhantumūhum fa-shuddū l-wathāqa fa-immā mannan baʿdu wa-immā
+    fidāʾan ḥattā taḍaʿa l-ḥarbu awzārahā: kill in the fight, but captives taken are freed as a favor
+    or for ransom. No offer of peace beforehand, but no killing of all males afterwards.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:10
+      lang: he
+      text: כִּֽי תִקְרַ֣ב אֶל עִ֔יר לְהִלָּחֵ֖ם עָלֶ֑יהָ וְקָרָ֥אתָ אֵלֶ֖יהָ לְשָׁלֽוֹם
+    - ref: Deut 20:13
+      lang: he
+      text: וּנְתָנָ֛הּ יְהוָ֥ה אֱלֹהֶ֖יךָ בְּיָדֶ֑ךָ וְהִכִּיתָ֥ אֶת כָּל זְכוּרָ֖הּ לְפִי חָֽרֶב
+    - ref: Deut 20:14
+      lang: he
+      text: רַ֣ק הַ֠נָּשִׁים וְהַטַּ֨ף וְהַבְּהֵמָ֜ה וְכֹל֩ אֲשֶׁ֨ר יִהְיֶ֥ה בָעִ֛יר כָּל שְׁלָלָ֖הּ תָּבֹ֣ז
+        לָ֑ךְ וְאָֽכַלְתָּ֙ אֶת שְׁלַ֣ל אֹיְבֶ֔יךָ אֲשֶׁ֥ר נָתַ֛ן יְהוָ֥ה אֱלֹהֶ֖יךָ לָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:4
+      lang: ar
+      text: فَإِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُوا۟ فَضَرْبَ ٱلرِّقَابِ حَتَّىٰٓ إِذَآ أَثْخَنتُمُوهُمْ
+        فَشُدُّوا۟ ٱلْوَثَاقَ فَإِمَّا مَنًّۢا بَعْدُ وَإِمَّا فِدَآءً حَتَّىٰ تَضَعَ ٱلْحَرْبُ أَوْزَارَهَا
+        ذَٰلِكَ وَلَوْ يَشَآءُ ٱللَّهُ لَٱنتَصَرَ مِنْهُمْ وَلَٰكِن لِّيَبْلُوَا۟ بَعْضَكُم بِبَعْضٍ
+        وَٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ فَلَن يُضِلَّ أَعْمَٰلَهُمْ
 ---
 
 ## Questions

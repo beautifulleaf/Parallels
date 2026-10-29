@@ -2,8 +2,7 @@
 id: motif-hb-gen-6-sons-of-god-vs-quran-21-against-other-gods
 title: Sons of God, daughters of men, and the Nephilim ↔ Creation not in jest; the unceasing angels and
   the argument from one God
-summary: 'These two units share 2 motifs: divine beings take human women as wives, those called god''s
-  offspring are rather honored servants who do not speak before him [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -14,88 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- sons-of-god-marry-human-women
 - angels-honored-servants-not-children-as-response
-passages:
-- tradition: judaism
-  ref: Gen 6:2
-  note: Divine beings take human women as wives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
-    נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
-- tradition: judaism
-  ref: Gen 6:4
-  note: Divine beings take human women as wives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
-    הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י
-    הַשֵּֽׁם
-- tradition: islam
-  ref: Quran 21:26
-  note: 'Divine beings take human women as wives (rejected: the ''sons'' are servants)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ
-- tradition: judaism
-  ref: Gen 6:2
-  note: Those called God's offspring are rather honored servants who do not speak before him [response
-    between the texts] (Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm
-    ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring,
-    wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum
-    bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed
-    or beget.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
-    נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
-- tradition: judaism
-  ref: Gen 6:4
-  note: Those called God's offspring are rather honored servants who do not speak before him [response
-    between the texts] (Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm
-    ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring,
-    wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum
-    bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed
-    or beget.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
-    הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם אַנְשֵׁ֥י
-    הַשֵּֽׁם
-- tradition: islam
-  ref: Quran 21:26
-  note: Those called God's offspring are rather honored servants who do not speak before him [response
-    between the texts] (Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm
-    ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring,
-    wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum
-    bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed
-    or beget.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ
-- tradition: islam
-  ref: Quran 21:27
-  note: Those called God's offspring are rather honored servants who do not speak before him [response
-    between the texts] (Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm
-    ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring,
-    wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum
-    bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed
-    or beget.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ
+- sons-of-god-marry-human-women
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    response. Gen speaks of divine ''sons'' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm
-    ʾet-bənôt hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring,
-    wa-qālū ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum
-    bi-amrihi yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed
-    or beget.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Divine beings take human women as wives (weight 6.7); Those called
-    God''s offspring are rather honored servants who do not speak before him [response between the texts]
-    (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Those called God''s offspring are rather honored servants who do
+    not speak before him [response between the texts] (weight 6.7); Divine beings take human women as
+    wives (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Sons of God, daughters of men, and the Nephilim: God limits human lifespan to 120 years;
     Giants or heroes (Nephilim) born from divine-human unions; Maidens of restrained glance whom no man
@@ -117,6 +43,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those called God's offspring are rather honored servants who do not speak before him
+kinds:
+- response
+- shared
+units:
+- id: hb-gen-6-sons-of-god
+  title: Sons of God, daughters of men, and the Nephilim
+  tradition: judaism
+- id: quran-21-against-other-gods
+  title: Creation not in jest; the unceasing angels and the argument from one God
+  tradition: islam
+matches:
+- kind: response
+  label: Those called God's offspring are rather honored servants who do not speak before him
+  note: Gen speaks of divine 'sons' who take human wives and father heroes, wayyirʾû bənê-hāʾĕlōhîm ʾet-bənôt
+    hāʾādām ... wayyiqḥû lāhem nāšîm ... wəyālədû lāhem. Q rejects the very notion of offspring, wa-qālū
+    ttakhadha r-Raḥmānu waladan subḥānahu bal ʿibādun mukramūn lā yasbiqūnahu bi-l-qawli wa-hum bi-amrihi
+    yaʿmalūn. The heavenly beings are servants who act only on his command; they do not wed or beget.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:2
+      lang: he
+      text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
+        נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
+    - ref: Gen 6:4
+      lang: he
+      text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
+        הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם
+        אַנְשֵׁ֥י הַשֵּֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 21:26
+      lang: ar
+      text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ
+    - ref: Quran 21:27
+      lang: ar
+      text: لَا يَسْبِقُونَهُۥ بِٱلْقَوْلِ وَهُم بِأَمْرِهِۦ يَعْمَلُونَ
+- kind: shared
+  label: Divine beings take human women as wives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 6:2
+      lang: he
+      text: וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙
+        נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ
+    - ref: Gen 6:4
+      lang: he
+      text: הַנְּפִלִ֞ים הָי֣וּ בָאָרֶץ֮ בַּיָּמִ֣ים הָהֵם֒ וְגַ֣ם אַֽחֲרֵי כֵ֗ן אֲשֶׁ֨ר יָבֹ֜אוּ בְּנֵ֤י
+        הָֽאֱלֹהִים֙ אֶל בְּנ֣וֹת הָֽאָדָ֔ם וְיָלְד֖וּ לָהֶ֑ם הֵ֧מָּה הַגִּבֹּרִ֛ים אֲשֶׁ֥ר מֵעוֹלָ֖ם
+        אַנְשֵׁ֥י הַשֵּֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 21:26
+      lang: ar
+      text: وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحْمَٰنُ وَلَدًا سُبْحَٰنَهُۥ بَلْ عِبَادٌ مُّكْرَمُونَ
+    note: 'rejected: the ''sons'' are servants'
 ---
 
 ## Questions

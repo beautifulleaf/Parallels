@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-32-song-of-moses-vs-quran-40-chains-and-late-faith
 title: The Song of Moses (Ha'azinu) ↔ Dragged in chains; messengers told and untold; faith on seeing punishment
-summary: 'These two units share 1 motifs: asked where their partners are, the damned say ''they have strayed
-  from us; we called on nothing before''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - false-gods-vanish-from-damned
-passages:
-- tradition: judaism
-  ref: Deut 32:37
-  note: 'Asked where their partners are, the damned say ''they have strayed from us; we called on nothing
-    before'' (wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû ḇô ... yāqûmû wə-yaʿzəruḵem vs. ayna mā kuntum tushrikūn:
-    God taunts the idolaters to call on their gods (ʾê / ayna).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
-- tradition: judaism
-  ref: Deut 32:38
-  note: 'Asked where their partners are, the damned say ''they have strayed from us; we called on nothing
-    before'' (wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû ḇô ... yāqûmû wə-yaʿzəruḵem vs. ayna mā kuntum tushrikūn:
-    God taunts the idolaters to call on their gods (ʾê / ayna).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י
-    עֲלֵיכֶ֖ם סִתְרָֽה
-- tradition: islam
-  ref: Quran 40:73
-  note: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
-    before'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
-- tradition: islam
-  ref: Quran 40:74
-  note: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
-    before'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مِن دُونِ ٱللَّهِ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمْ نَكُن نَّدْعُوا۟ مِن قَبْلُ شَيْـًٔا كَذَٰلِكَ
-    يُضِلُّ ٱللَّهُ ٱلْكَٰفِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû ḇô ... yāqûmû wə-yaʿzəruḵem vs. ayna mā kuntum tushrikūn:
-    God taunts the idolaters to call on their gods (ʾê / ayna).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Asked where their partners are, the damned say ''they have strayed
     from us; we called on nothing before'' (weight 6.3). Pair score 6.3.'
@@ -82,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
+  before'
+kinds:
+- parallel
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-40-chains-and-late-faith
+  title: Dragged in chains; messengers told and untold; faith on seeing punishment
+  tradition: islam
+matches:
+- kind: parallel
+  label: Asked where their partners are, the damned say 'they have strayed from us; we called on nothing
+    before'
+  note: 'wə-ʾāmar ʾê ʾĕlōhêmô ṣûr ḥāsāyû ḇô ... yāqûmû wə-yaʿzəruḵem vs. ayna mā kuntum tushrikūn: God
+    taunts the idolaters to call on their gods (ʾê / ayna).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:37
+      lang: he
+      text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
+    - ref: Deut 32:38
+      lang: he
+      text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם
+        יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 40:73
+      lang: ar
+      text: ثُمَّ قِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تُشْرِكُونَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-39-death-and-sleep
 title: Joshua commissioned; Torah written and deposited; the Song commanded ↔ The prophet's mortality;
   souls taken in sleep; intercession belongs to God
-summary: 'These two units share 1 motifs: ''you will die and they will die'', said to the prophet.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-is-mortal-will-die
-passages:
-- tradition: judaism
-  ref: Deut 31:14
-  note: '''You will die and they will die'', said to the prophet (hēn qārəḇû yāmeyḵā lāmûṯ vs. innaka
-    mayyitun wa-innahum mayyitūn: God tells his prophet that he will die. For Moses it is near and personal;
-    for Muhammad it is said together with his opponents, who will also die, before the dispute at the
-    judgment (39:31).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה הֵ֣ן קָרְב֣וּ יָמֶיךָ֮ לָמוּת֒ קְרָ֣א אֶת יְהוֹשֻׁ֗עַ וְהִֽתְיַצְּב֛וּ
-    בְּאֹ֥הֶל מוֹעֵ֖ד וַאֲצַוֶּ֑נּוּ וַיֵּ֤לֶךְ מֹשֶׁה֙ וִֽיהוֹשֻׁ֔עַ וַיִּֽתְיַצְּב֖וּ בְּאֹ֥הֶל מוֹעֵֽד
-- tradition: islam
-  ref: Quran 39:30
-  note: '''You will die and they will die'', said to the prophet'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ
-- tradition: islam
-  ref: Quran 39:31
-  note: '''You will die and they will die'', said to the prophet'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَٰمَةِ عِندَ رَبِّكُمْ تَخْتَصِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hēn qārəḇû yāmeyḵā lāmûṯ vs. innaka mayyitun wa-innahum mayyitūn: God tells his prophet that
-    he will die. For Moses it is near and personal; for Muhammad it is said together with his opponents,
-    who will also die, before the dispute at the judgment (39:31).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''You will die and they will die'', said to the prophet (weight
     6.7). Pair score 6.7.'
@@ -75,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''You will die and they will die'', said to the prophet'
+kinds:
+- echo
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: echo
+  label: '''You will die and they will die'', said to the prophet'
+  note: 'hēn qārəḇû yāmeyḵā lāmûṯ vs. innaka mayyitun wa-innahum mayyitūn: God tells his prophet that
+    he will die. For Moses it is near and personal; for Muhammad it is said together with his opponents,
+    who will also die, before the dispute at the judgment (39:31).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:14
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה הֵ֣ן קָרְב֣וּ יָמֶיךָ֮ לָמוּת֒ קְרָ֣א אֶת יְהוֹשֻׁ֗עַ וְהִֽתְיַצְּב֛וּ
+        בְּאֹ֥הֶל מוֹעֵ֖ד וַאֲצַוֶּ֑נּוּ וַיֵּ֤לֶךְ מֹשֶׁה֙ וִֽיהוֹשֻׁ֔עַ וַיִּֽתְיַצְּב֖וּ בְּאֹ֥הֶל
+        מוֹעֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 39:30
+      lang: ar
+      text: إِنَّكَ مَيِّتٌ وَإِنَّهُم مَّيِّتُونَ
 ---
 
 ## Questions

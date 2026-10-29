@@ -2,7 +2,7 @@
 id: motif-hb-isa-10-woe-to-assyria-vs-quran-41-ad-and-thamud
 title: Woe to Assyria, rod of my anger; a remnant will return; the invader's march on Jerusalem ↔ The
   thunderbolt of 'Ad and Thamud
-summary: 'These two units share 1 motifs: ''ad grow arrogant: ''who is mightier than us in strength?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +14,9 @@ layers:
 - motif
 motifs:
 - ad-boast-who-is-mightier
-passages:
-- tradition: judaism
-  ref: Isa 10:13
-  note: '''Ad grow arrogant: ''Who is mightier than us in strength?'' (A boast of one''s own strength
-    answered by the maker/made relation: man ashaddu minnā quwwatan ... a-wa-lam yaraw anna llāha lladhī
-    khalaqahum huwa ashaddu minhum quwwatan vs. Assyria''s bə-ḵōaḥ yāḏî ʿāśîṯî (by the strength of my
-    hand I did it) answered by hă-yiṯpāʾēr ha-garzen ʿal ha-ḥōṣēḇ bô (shall the axe boast over the one
-    who hews with it?). Isaiah''s boaster is God''s tool (šēḇeṭ ʾappî, 10:5) used against Israel; ''Ad
-    is a people destroyed for its boast.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י אָמַ֗ר בְּכֹ֤חַ יָדִי֙ עָשִׂ֔יתִי וּבְחָכְמָתִ֖י כִּ֣י נְבֻנ֑וֹתִי וְאָסִ֣יר גְּבוּלֹ֣ת
-    עַמִּ֗ים ועתידתיהם וַעֲתוּדֽוֹתֵיהֶם֙ שׁוֹשֵׂ֔תִי וְאוֹרִ֥יד כַּאבִּ֖יר יוֹשְׁבִֽים
-- tradition: judaism
-  ref: Isa 10:15
-  note: '''Ad grow arrogant: ''Who is mightier than us in strength?'' (A boast of one''s own strength
-    answered by the maker/made relation: man ashaddu minnā quwwatan ... a-wa-lam yaraw anna llāha lladhī
-    khalaqahum huwa ashaddu minhum quwwatan vs. Assyria''s bə-ḵōaḥ yāḏî ʿāśîṯî (by the strength of my
-    hand I did it) answered by hă-yiṯpāʾēr ha-garzen ʿal ha-ḥōṣēḇ bô (shall the axe boast over the one
-    who hews with it?). Isaiah''s boaster is God''s tool (šēḇeṭ ʾappî, 10:5) used against Israel; ''Ad
-    is a people destroyed for its boast.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיִתְפָּאֵר֙ הַגַּרְזֶ֔ן עַ֖ל הַחֹצֵ֣ב בּ֑וֹ אִם יִתְגַּדֵּ֤ל הַמַּשּׂוֹר֙ עַל מְנִיפ֔וֹ כְּהָנִ֥יף
-    שֵׁ֨בֶט֙ וְאֶת מְרִימָ֔יו כְּהָרִ֥ים מַטֶּ֖ה לֹא עֵֽץ
-- tradition: islam
-  ref: Quran 41:15
-  note: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا
-    قُوَّةً أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا۟
-    بِـَٔايَٰتِنَا يَجْحَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A boast of one''s own strength answered by the maker/made relation: man ashaddu minnā quwwatan
-    ... a-wa-lam yaraw anna llāha lladhī khalaqahum huwa ashaddu minhum quwwatan vs. Assyria''s bə-ḵōaḥ
-    yāḏî ʿāśîṯî (by the strength of my hand I did it) answered by hă-yiṯpāʾēr ha-garzen ʿal ha-ḥōṣēḇ bô
-    (shall the axe boast over the one who hews with it?). Isaiah''s boaster is God''s tool (šēḇeṭ ʾappî,
-    10:5) used against Israel; ''Ad is a people destroyed for its boast.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Ad grow arrogant: ''Who is mightier than us in strength?'' (weight
     6.3). Pair score 6.3.'
@@ -86,6 +49,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
+kinds:
+- echo
+units:
+- id: hb-isa-10-woe-to-assyria
+  title: Woe to Assyria, rod of my anger; a remnant will return; the invader's march on Jerusalem
+  tradition: judaism
+- id: quran-41-ad-and-thamud
+  title: The thunderbolt of 'Ad and Thamud
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
+  note: 'A boast of one''s own strength answered by the maker/made relation: man ashaddu minnā quwwatan
+    ... a-wa-lam yaraw anna llāha lladhī khalaqahum huwa ashaddu minhum quwwatan vs. Assyria''s bə-ḵōaḥ
+    yāḏî ʿāśîṯî (by the strength of my hand I did it) answered by hă-yiṯpāʾēr ha-garzen ʿal ha-ḥōṣēḇ bô
+    (shall the axe boast over the one who hews with it?). Isaiah''s boaster is God''s tool (šēḇeṭ ʾappî,
+    10:5) used against Israel; ''Ad is a people destroyed for its boast.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 10:13
+      lang: he
+      text: כִּ֣י אָמַ֗ר בְּכֹ֤חַ יָדִי֙ עָשִׂ֔יתִי וּבְחָכְמָתִ֖י כִּ֣י נְבֻנ֑וֹתִי וְאָסִ֣יר גְּבוּלֹ֣ת
+        עַמִּ֗ים ועתידתיהם וַעֲתוּדֽוֹתֵיהֶם֙ שׁוֹשֵׂ֔תִי וְאוֹרִ֥יד כַּאבִּ֖יר יוֹשְׁבִֽים
+    - ref: Isa 10:15
+      lang: he
+      text: הֲיִתְפָּאֵר֙ הַגַּרְזֶ֔ן עַ֖ל הַחֹצֵ֣ב בּ֑וֹ אִם יִתְגַּדֵּ֤ל הַמַּשּׂוֹר֙ עַל מְנִיפ֔וֹ
+        כְּהָנִ֥יף שֵׁ֨בֶט֙ וְאֶת מְרִימָ֔יו כְּהָרִ֥ים מַטֶּ֖ה לֹא עֵֽץ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:15
+      lang: ar
+      text: فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا
+        قُوَّةً أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا۟
+        بِـَٔايَٰتِنَا يَجْحَدُونَ
 ---
 
 ## Questions

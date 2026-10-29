@@ -2,8 +2,7 @@
 id: motif-hb-deut-23-assembly-camp-vs-quran-4-marriage-forbidden-degrees
 title: Admission to the assembly; camp purity; slaves, interest, vows ↔ Inheriting women, the dowry, and
   the forbidden degrees
-summary: 'These two units share 1 motifs: a man must not take his father''s wife (uncover his father''s
-  skirt).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - no-marrying-fathers-wife
-passages:
-- tradition: judaism
-  ref: Deut 23:1
-  note: A man must not take his father's wife (uncover his father's skirt)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִקַּ֥ח אִ֖ישׁ אֶת אֵ֣שֶׁת אָבִ֑יו וְלֹ֥א יְגַלֶּ֖ה כְּנַ֥ף אָבִֽיו
-- tradition: islam
-  ref: Quran 4:22
-  note: A man must not take his father's wife (uncover his father's skirt) ('except what is past')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ كَانَ
-    فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
-- tradition: islam
-  ref: Quran 4:23
-  note: A man must not take his father's wife (uncover his father's skirt) ('except what is past')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمْ أُمَّهَٰتُكُمْ وَبَنَاتُكُمْ وَأَخَوَٰتُكُمْ وَعَمَّٰتُكُمْ وَخَٰلَٰتُكُمْ
-    وَبَنَاتُ ٱلْأَخِ وَبَنَاتُ ٱلْأُخْتِ وَأُمَّهَٰتُكُمُ ٱلَّٰتِىٓ أَرْضَعْنَكُمْ وَأَخَوَٰتُكُم مِّنَ
-    ٱلرَّضَٰعَةِ وَأُمَّهَٰتُ نِسَآئِكُمْ وَرَبَٰٓئِبُكُمُ ٱلَّٰتِى فِى حُجُورِكُم مِّن نِّسَآئِكُمُ
-    ٱلَّٰتِى دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا۟ دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَٰٓئِلُ
-    أَبْنَآئِكُمُ ٱلَّذِينَ مِنْ أَصْلَٰبِكُمْ وَأَن تَجْمَعُوا۟ بَيْنَ ٱلْأُخْتَيْنِ إِلَّا مَا قَدْ
-    سَلَفَ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Deut 23:1 lōʾ yiqqaḥ ʾîš ʾet ʾēšet ʾābîw wĕ-lōʾ yĕgalleh kĕnap ʾābîw: no man shall take
-    (marry) his father''s wife; Q 4:22 wa-lā tankiḥū mā nakaḥa ābāʾukum: the same ban phrased as marriage
-    (lāqaḥ / nakaḥa), not as ''uncovering''.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man must not take his father''s wife (uncover his father''s skirt)
     (weight 6.0). Pair score 6.0.'
@@ -83,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man must not take his father's wife (uncover his father's skirt)
+kinds:
+- parallel
+units:
+- id: hb-deut-23-assembly-camp
+  title: Admission to the assembly; camp purity; slaves, interest, vows
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: parallel
+  label: A man must not take his father's wife (uncover his father's skirt)
+  note: 'Deut 23:1 lōʾ yiqqaḥ ʾîš ʾet ʾēšet ʾābîw wĕ-lōʾ yĕgalleh kĕnap ʾābîw: no man shall take (marry)
+    his father''s wife; Q 4:22 wa-lā tankiḥū mā nakaḥa ābāʾukum: the same ban phrased as marriage (lāqaḥ
+    / nakaḥa), not as ''uncovering''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 23:1
+      lang: he
+      text: לֹא יִקַּ֥ח אִ֖ישׁ אֶת אֵ֣שֶׁת אָבִ֑יו וְלֹ֥א יְגַלֶּ֖ה כְּנַ֥ף אָבִֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 4:22
+      lang: ar
+      text: وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَآؤُكُم مِّنَ ٱلنِّسَآءِ إِلَّا مَا قَدْ سَلَفَ إِنَّهُۥ
+        كَانَ فَٰحِشَةً وَمَقْتًا وَسَآءَ سَبِيلًا
 ---
 
 ## Questions

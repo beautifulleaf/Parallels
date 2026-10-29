@@ -2,8 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-9-mosques-and-kin
 title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer ↔ Who maintains the mosques; God
   above family
-summary: 'These two units share 1 motifs: the levites kill idolaters including their own kin and are consecrated
-  for it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,38 +14,9 @@ layers:
 - motif
 motifs:
 - levites-kill-idolaters-kin
-passages:
-- tradition: judaism
-  ref: Exod 32:27
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 9:23
-  note: 'The Levites kill idolaters including their own kin and are consecrated for it (Taking God''s
-    side against one''s own kin: kî ʾîš bibnô ûbᵉʾāḥîw (Levites consecrated for it) vs lā tattakhidhū
-    ābāʾakum wa-ikhwānakum awliyāʾa. Q does not ask for violence against kin, only refusal of their alliance.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
-    إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Taking God''s side against one''s own kin: kî ʾîš bibnô ûbᵉʾāḥîw (Levites consecrated for it)
-    vs lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾa. Q does not ask for violence against kin, only refusal
-    of their alliance.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Levites kill idolaters including their own kin and are consecrated
     for it (weight 5.8). Pair score 5.8.'
@@ -77,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Levites kill idolaters including their own kin and are consecrated for it
+kinds:
+- echo
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: echo
+  label: The Levites kill idolaters including their own kin and are consecrated for it
+  note: 'Taking God''s side against one''s own kin: kî ʾîš bibnô ûbᵉʾāḥîw (Levites consecrated for it)
+    vs lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾa. Q does not ask for violence against kin, only refusal
+    of their alliance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:23
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
+        إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
 ---
 
 ## Questions

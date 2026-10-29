@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-10-opening-creation
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ The wise Book, creation,
   sun and moon, the prayer of paradise
-summary: 'These two units share 2 motifs: god made the sun a radiance and the moon a light with measured
-  stations, to count years and reckoning, sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,67 +16,9 @@ layers:
 motifs:
 - moon-stations-for-reckoning
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
-    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
-    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 10:5
-  note: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
-    عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
-    لِقَوْمٍ يَعْلَمُونَ
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 10:5
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
-    عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
-    لِقَوْمٍ يَعْلَمُونَ
-- tradition: islam
-  ref: Quran 10:6
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
-    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the sun a radiance and the moon a light with measured stations,
     to count years and reckoning (weight 6.3); Sun and moon are set to rule day and night and mark signs
@@ -115,6 +55,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-10-opening-creation
+  title: The wise Book, creation, sun and moon, the prayer of paradise
+  tradition: islam
+matches:
+- kind: parallel
+  label: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+  note: 'The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
+    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
+    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+  - tradition: islam
+    passages:
+    - ref: Quran 10:5
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
+        عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
+        لِقَوْمٍ يَعْلَمُونَ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+    note: moon for appointed times; the sun knows its setting
+  - tradition: islam
+    passages:
+    - ref: Quran 10:5
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟
+        عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ يُفَصِّلُ ٱلْءَايَٰتِ
+        لِقَوْمٍ يَعْلَمُونَ
+    - ref: Quran 10:6
+      lang: ar
+      text: إِنَّ فِى ٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        لَءَايَٰتٍ لِّقَوْمٍ يَتَّقُونَ
 ---
 
 ## Questions

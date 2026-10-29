@@ -2,7 +2,7 @@
 id: motif-hb-deut-23-assembly-camp-vs-quran-68-qalam-the-pen-and-the-slanderer
 title: 'Admission to the assembly; camp purity; slaves, interest, vows ↔ Nun: by the pen; the prophet''s
   great character; the swearer, slanderer and base-born man branded on the snout'
-summary: 'These two units share 1 motifs: mamzer excluded from the assembly to the tenth generation.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - mamzer-excluded-ten-generations
-passages:
-- tradition: judaism
-  ref: Deut 23:3
-  note: Mamzer excluded from the assembly to the tenth generation
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יָבֹ֥א מַמְזֵ֖ר בִּקְהַ֣ל יְהוָ֑ה גַּ֚ם דּ֣וֹר עֲשִׂירִ֔י לֹא יָ֥בֹא ל֖וֹ בִּקְהַ֥ל יְהוָֽה
-- tradition: islam
-  ref: Quran 68:13
-  note: Mamzer excluded from the assembly to the tenth generation (zanim, 'of doubtful descent')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. ʿutullin baʿda dhālika zanīm (base-born, attached to a lineage not his) ~ lōʾ yāvōʾ mamzēr bi-qhal
-    YHWH. In Deuteronomy illegitimate birth is a legal status that excludes; in the Quran it is the last
-    and worst insult in a vice list. Leads only, the sense of zanīm is disputed.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mamzer excluded from the assembly to the tenth generation (weight
     6.7). Pair score 6.7.'
@@ -69,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mamzer excluded from the assembly to the tenth generation
+kinds:
+- echo
+units:
+- id: hb-deut-23-assembly-camp
+  title: Admission to the assembly; camp purity; slaves, interest, vows
+  tradition: judaism
+- id: quran-68-qalam-the-pen-and-the-slanderer
+  title: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout'
+  tradition: islam
+matches:
+- kind: echo
+  label: Mamzer excluded from the assembly to the tenth generation
+  note: ʿutullin baʿda dhālika zanīm (base-born, attached to a lineage not his) ~ lōʾ yāvōʾ mamzēr bi-qhal
+    YHWH. In Deuteronomy illegitimate birth is a legal status that excludes; in the Quran it is the last
+    and worst insult in a vice list. Leads only, the sense of zanīm is disputed.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 23:3
+      lang: he
+      text: לֹא יָבֹ֥א מַמְזֵ֖ר בִּקְהַ֣ל יְהוָ֑ה גַּ֚ם דּ֣וֹר עֲשִׂירִ֔י לֹא יָ֥בֹא ל֖וֹ בִּקְהַ֥ל יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 68:13
+      lang: ar
+      text: عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ
 ---
 
 ## Questions

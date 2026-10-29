@@ -2,8 +2,7 @@
 id: motif-hb-jer-18-plot-and-imprecation-vs-quran-8-meccan-plots
 title: Fourth confession - let us smite him with the tongue ↔ The plot against the prophet and the worship
   of the pagans
-summary: 'These two units share 1 motifs: unbelievers plot to confine, kill or expel the prophet, but
-  god plots too.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - plot-to-imprison-kill-or-expel-prophet
-passages:
-- tradition: judaism
-  ref: Jer 18:18
-  note: 'Unbelievers plot to confine, kill or expel the prophet, but God plots too (A conspiracy against
-    the prophet that dismisses his words: lᵉkû wᵉnaḥšᵉbāh ʿal-yirmᵉyāhû maḥăšābôt ... wᵉʾal-naqšîbāh ʾel-kol-dᵉbārāyw
-    vs yamkuru bika ...; qad samiʿnā law nashāʾu la-qulnā mithla hādhā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֗וּ לְכ֨וּ וְנַחְשְׁבָ֣ה עַֽל יִרְמְיָהוּ֮ מַחֲשָׁבוֹת֒ כִּי֩ לֹא תֹאבַ֨ד תּוֹרָ֜ה מִכֹּהֵ֗ן
-    וְעֵצָה֙ מֵֽחָכָ֔ם וְדָבָ֖ר מִנָּבִ֑יא לְכוּ֙ וְנַכֵּ֣הוּ בַלָּשׁ֔וֹן וְאַל נַקְשִׁ֖יבָה אֶל כָּל
-    דְּבָרָֽיו
-- tradition: islam
-  ref: Quran 8:30
-  note: Unbelievers plot to confine, kill or expel the prophet, but God plots too
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ
-    وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
-- tradition: islam
-  ref: Quran 8:31
-  note: Unbelievers plot to confine, kill or expel the prophet, but God plots too
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ
-    هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A conspiracy against the prophet that dismisses his words: lᵉkû wᵉnaḥšᵉbāh ʿal-yirmᵉyāhû maḥăšābôt
-    ... wᵉʾal-naqšîbāh ʾel-kol-dᵉbārāyw vs yamkuru bika ...; qad samiʿnā law nashāʾu la-qulnā mithla hādhā.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Unbelievers plot to confine, kill or expel the prophet, but God
     plots too (weight 5.8). Pair score 5.8.'
@@ -75,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Unbelievers plot to confine, kill or expel the prophet, but God plots too
+kinds:
+- echo
+units:
+- id: hb-jer-18-plot-and-imprecation
+  title: Fourth confession - let us smite him with the tongue
+  tradition: judaism
+- id: quran-8-meccan-plots
+  title: The plot against the prophet and the worship of the pagans
+  tradition: islam
+matches:
+- kind: echo
+  label: Unbelievers plot to confine, kill or expel the prophet, but God plots too
+  note: 'A conspiracy against the prophet that dismisses his words: lᵉkû wᵉnaḥšᵉbāh ʿal-yirmᵉyāhû maḥăšābôt
+    ... wᵉʾal-naqšîbāh ʾel-kol-dᵉbārāyw vs yamkuru bika ...; qad samiʿnā law nashāʾu la-qulnā mithla hādhā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 18:18
+      lang: he
+      text: וַיֹּאמְר֗וּ לְכ֨וּ וְנַחְשְׁבָ֣ה עַֽל יִרְמְיָהוּ֮ מַחֲשָׁבוֹת֒ כִּי֩ לֹא תֹאבַ֨ד תּוֹרָ֜ה
+        מִכֹּהֵ֗ן וְעֵצָה֙ מֵֽחָכָ֔ם וְדָבָ֖ר מִנָּבִ֑יא לְכוּ֙ וְנַכֵּ֣הוּ בַלָּשׁ֔וֹן וְאַל נַקְשִׁ֖יבָה
+        אֶל כָּל דְּבָרָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 8:30
+      lang: ar
+      text: وَإِذْ يَمْكُرُ بِكَ ٱلَّذِينَ كَفَرُوا۟ لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ
+        وَيَمْكُرُ ٱللَّهُ وَٱللَّهُ خَيْرُ ٱلْمَٰكِرِينَ
+    - ref: Quran 8:31
+      lang: ar
+      text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَٰتُنَا قَالُوا۟ قَدْ سَمِعْنَا لَوْ نَشَآءُ لَقُلْنَا مِثْلَ
+        هَٰذَآ إِنْ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلْأَوَّلِينَ
 ---
 
 ## Questions

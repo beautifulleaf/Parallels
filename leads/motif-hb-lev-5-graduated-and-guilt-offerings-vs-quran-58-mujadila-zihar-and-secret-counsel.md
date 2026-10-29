@@ -2,8 +2,7 @@
 id: motif-hb-lev-5-graduated-and-guilt-offerings-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'Graduated purification offering and the guilt (asham) offering ↔ Al-Mujadila: the woman who disputed,
   the zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 2 motifs: expiation in steps according to what one can afford [divergence
-  between the texts], the offering is reduced for those who cannot afford it.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,94 +15,9 @@ layers:
 motifs:
 - graded-expiation-by-means-as-divergence
 - offering-scaled-to-means
-passages:
-- tradition: judaism
-  ref: Lev 5:7
-  note: 'Expiation in steps according to what one can afford [divergence between the texts] (Expiation
-    in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê ṯōrîm ʾô šənê
-    ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds, then flour). Quran:
-    fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ... fa-man lam yastaṭiʿ
-    fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty poor). The same ''if
-    he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is replaced by manumission,
-    fasting and feeding the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
-    אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
-- tradition: judaism
-  ref: Lev 5:11
-  note: 'Expiation in steps according to what one can afford [divergence between the texts] (Expiation
-    in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê ṯōrîm ʾô šənê
-    ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds, then flour). Quran:
-    fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ... fa-man lam yastaṭiʿ
-    fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty poor). The same ''if
-    he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is replaced by manumission,
-    fasting and feeding the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת קָרְבָּנ֜וֹ
-    אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙
-    לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
-- tradition: islam
-  ref: Quran 58:3
-  note: 'Expiation in steps according to what one can afford [divergence between the texts] (Expiation
-    in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê ṯōrîm ʾô šənê
-    ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds, then flour). Quran:
-    fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ... fa-man lam yastaṭiʿ
-    fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty poor). The same ''if
-    he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is replaced by manumission,
-    fasting and feeding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ
-    مِّن قَبْلِ أَن يَتَمَآسَّا ذَٰلِكُمْ تُوعَظُونَ بِهِۦ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
-- tradition: islam
-  ref: Quran 58:4
-  note: 'Expiation in steps according to what one can afford [divergence between the texts] (Expiation
-    in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê ṯōrîm ʾô šənê
-    ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds, then flour). Quran:
-    fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ... fa-man lam yastaṭiʿ
-    fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty poor). The same ''if
-    he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is replaced by manumission,
-    fasting and feeding the poor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن لَّمْ
-    يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتِلْكَ حُدُودُ
-    ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ
-- tradition: judaism
-  ref: Lev 5:7
-  note: The offering is reduced for those who cannot afford it (lamb, or two birds, or a tenth of an ephah
-    of flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
-    אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
-- tradition: judaism
-  ref: Lev 5:11
-  note: The offering is reduced for those who cannot afford it (lamb, or two birds, or a tenth of an ephah
-    of flour)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת קָרְבָּנ֜וֹ
-    אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙
-    לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
-- tradition: islam
-  ref: Quran 58:4
-  note: The offering is reduced for those who cannot afford it (graded expiation by ability)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن لَّمْ
-    يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَتِلْكَ حُدُودُ
-    ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Expiation in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ...
-    šətê ṯōrîm ʾô šənê ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds,
-    then flour). Quran: fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ...
-    fa-man lam yastaṭiʿ fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty
-    poor). The same ''if he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is
-    replaced by manumission, fasting and feeding the poor.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Expiation in steps according to what one can afford [divergence
     between the texts] (weight 6.7); The offering is reduced for those who cannot afford it (weight 6.3).
@@ -141,6 +55,73 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Expiation in steps according to what one can afford
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-5-graduated-and-guilt-offerings
+  title: Graduated purification offering and the guilt (asham) offering
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Expiation in steps according to what one can afford
+  note: 'Expiation in steps by what one can afford. Leviticus: wə-ʾim lōʾ ṯaggîaʿ yāḏô dê śeh ... šətê
+    ṯōrîm ʾô šənê ḇənê yônâ; wə-ʾim lōʾ ṯaśśîḡ yāḏô ... ʿăśîrīṯ hā-ʾêp̄â sōleṯ (lamb, then two birds,
+    then flour). Quran: fa-taḥrīru raqabatin ... fa-man lam yajid fa-ṣiyāmu shahrayni mutatābiʿayn ...
+    fa-man lam yastaṭiʿ fa-iṭʿāmu sittīna miskīnā (free a slave, then fast two months, then feed sixty
+    poor). The same ''if he cannot'' structure (ʾim lōʾ ṯaggîaʿ yāḏô / fa-man lam yajid); sacrifice is
+    replaced by manumission, fasting and feeding the poor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:7
+      lang: he
+      text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
+        אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
+    - ref: Lev 5:11
+      lang: he
+      text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת
+        קָרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן
+        וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
+  - tradition: islam
+    passages:
+    - ref: Quran 58:3
+      lang: ar
+      text: وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا۟ فَتَحْرِيرُ رَقَبَةٍ
+        مِّن قَبْلِ أَن يَتَمَآسَّا ذَٰلِكُمْ تُوعَظُونَ بِهِۦ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ
+    - ref: Quran 58:4
+      lang: ar
+      text: فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن
+        لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ
+        وَتِلْكَ حُدُودُ ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ
+- kind: shared
+  label: The offering is reduced for those who cannot afford it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 5:7
+      lang: he
+      text: וְאִם לֹ֨א תַגִּ֣יע יָדוֹ֮ דֵּ֣י שֶׂה֒ וְהֵבִ֨יא אֶת אֲשָׁמ֜וֹ אֲשֶׁ֣ר חָטָ֗א שְׁתֵּ֥י תֹרִ֛ים
+        אֽוֹ שְׁנֵ֥י בְנֵֽי יוֹנָ֖ה לַֽיהוָ֑ה אֶחָ֥ד לְחַטָּ֖את וְאֶחָ֥ד לְעֹלָֽה
+    - ref: Lev 5:11
+      lang: he
+      text: וְאִם לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי יוֹנָה֒ וְהֵבִ֨יא אֶת
+        קָרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן
+        וְלֹא יִתֵּ֤ן עָלֶ֨יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא
+    note: lamb, or two birds, or a tenth of an ephah of flour
+  - tradition: islam
+    passages:
+    - ref: Quran 58:4
+      lang: ar
+      text: فَمَن لَّمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِن قَبْلِ أَن يَتَمَآسَّا فَمَن
+        لَّمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا ذَٰلِكَ لِتُؤْمِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ
+        وَتِلْكَ حُدُودُ ٱللَّهِ وَلِلْكَٰفِرِينَ عَذَابٌ أَلِيمٌ
+    note: graded expiation by ability
 ---
 
 ## Questions

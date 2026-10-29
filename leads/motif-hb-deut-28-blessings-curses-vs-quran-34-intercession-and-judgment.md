@@ -2,7 +2,7 @@
 id: motif-hb-deut-28-blessings-curses-vs-quran-34-intercession-and-judgment
 title: Blessings and the great curses ↔ Partners own nothing; intercession; the weak and the arrogant
   at judgment
-summary: 'These two units share 1 motifs: iron collars (aghlal) are put on the necks of the damned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - iron-collars-on-necks-of-damned
-passages:
-- tradition: judaism
-  ref: Deut 28:48
-  note: 'Iron collars (aghlal) are put on the necks of the damned (wə-nāṯan ʿōl barzel ʿal-ṣawwāreḵā vs.
-    wa-jaʿalnā l-aghlāla fī aʿnāqi lladhīna kafarū: iron on the necks of the disobedient, as a historical
-    curse in Deut and as an eschatological punishment in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעָבַדְתָּ֣ אֶת אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם
-    וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ
-- tradition: islam
-  ref: Quran 34:33
-  note: Iron collars (aghlal) are put on the necks of the damned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ إِذْ
-    تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ لَمَّا
-    رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ إِلَّا
-    مَا كَانُوا۟ يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wə-nāṯan ʿōl barzel ʿal-ṣawwāreḵā vs. wa-jaʿalnā l-aghlāla fī aʿnāqi lladhīna kafarū: iron on
-    the necks of the disobedient, as a historical curse in Deut and as an eschatological punishment in
-    the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Iron collars (aghlal) are put on the necks of the damned (weight
     6.3). Pair score 6.3.'
@@ -68,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Iron collars (aghlal) are put on the necks of the damned
+kinds:
+- echo
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-34-intercession-and-judgment
+  title: Partners own nothing; intercession; the weak and the arrogant at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: Iron collars (aghlal) are put on the necks of the damned
+  note: 'wə-nāṯan ʿōl barzel ʿal-ṣawwāreḵā vs. wa-jaʿalnā l-aghlāla fī aʿnāqi lladhīna kafarū: iron on
+    the necks of the disobedient, as a historical curse in Deut and as an eschatological punishment in
+    the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:48
+      lang: he
+      text: וְעָבַדְתָּ֣ אֶת אֹיְבֶ֗יךָ אֲשֶׁ֨ר יְשַׁלְּחֶ֤נּוּ יְהוָה֙ בָּ֔ךְ בְּרָעָ֧ב וּבְצָמָ֛א וּבְעֵירֹ֖ם
+        וּבְחֹ֣סֶר כֹּ֑ל וְנָתַ֞ן עֹ֤ל בַּרְזֶל֙ עַל צַוָּארֶ֔ךָ עַ֥ד הִשְׁמִיד֖וֹ אֹתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 34:33
+      lang: ar
+      text: وَقَالَ ٱلَّذِينَ ٱسْتُضْعِفُوا۟ لِلَّذِينَ ٱسْتَكْبَرُوا۟ بَلْ مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ
+        إِذْ تَأْمُرُونَنَآ أَن نَّكْفُرَ بِٱللَّهِ وَنَجْعَلَ لَهُۥٓ أَندَادًا وَأَسَرُّوا۟ ٱلنَّدَامَةَ
+        لَمَّا رَأَوُا۟ ٱلْعَذَابَ وَجَعَلْنَا ٱلْأَغْلَٰلَ فِىٓ أَعْنَاقِ ٱلَّذِينَ كَفَرُوا۟ هَلْ يُجْزَوْنَ
+        إِلَّا مَا كَانُوا۟ يَعْمَلُونَ
 ---
 
 ## Questions

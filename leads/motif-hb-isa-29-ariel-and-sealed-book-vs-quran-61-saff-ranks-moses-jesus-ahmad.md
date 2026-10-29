@@ -3,8 +3,7 @@ id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-61-saff-ranks-moses-jesus-ahm
 title: 'Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Al-Saff:
   ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the disciples as God''s
   helpers'
-summary: 'These two units share 1 motifs: ''why do you say what you do not do? most hateful to god is
-  saying what you do not do''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - why-say-what-you-do-not-do
-passages:
-- tradition: judaism
-  ref: Isa 29:13
-  note: '''Why do you say what you do not do? Most hateful to God is saying what you do not do'' (Words
-    without the matching deeds or heart: niggaš hā-ʿām haz-zeh bə-p̄îw û-ḇi-śp̄āṯâw kibbəḏûnî wə-libbô
-    riḥaq mimmennî vs. li-ma taqūlūna mā lā tafʿalūn, kabura maqtan ʿinda llāhi an taqūlū mā lā tafʿalūn.
-    Isaiah: lips without heart; Quran: words without deeds.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
-    וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
-- tradition: islam
-  ref: Quran 61:2
-  note: '''Why do you say what you do not do? Most hateful to God is saying what you do not do'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
-- tradition: islam
-  ref: Quran 61:3
-  note: '''Why do you say what you do not do? Most hateful to God is saying what you do not do'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Words without the matching deeds or heart: niggaš hā-ʿām haz-zeh bə-p̄îw û-ḇi-śp̄āṯâw kibbəḏûnî
-    wə-libbô riḥaq mimmennî vs. li-ma taqūlūna mā lā tafʿalūn, kabura maqtan ʿinda llāhi an taqūlū mā
-    lā tafʿalūn. Isaiah: lips without heart; Quran: words without deeds.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Why do you say what you do not do? Most hateful to God is saying
     what you do not do'' (weight 6.7). Pair score 6.7.'
@@ -83,6 +57,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Why do you say what you do not do? Most hateful to God is saying what you do not do'''
+kinds:
+- echo
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Why do you say what you do not do? Most hateful to God is saying what you do not do'''
+  note: 'Words without the matching deeds or heart: niggaš hā-ʿām haz-zeh bə-p̄îw û-ḇi-śp̄āṯâw kibbəḏûnî
+    wə-libbô riḥaq mimmennî vs. li-ma taqūlūna mā lā tafʿalūn, kabura maqtan ʿinda llāhi an taqūlū mā
+    lā tafʿalūn. Isaiah: lips without heart; Quran: words without deeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:13
+      lang: he
+      text: וַיֹּ֣אמֶר אֲדֹנָ֗י יַ֚עַן כִּ֤י נִגַּשׁ֙ הָעָ֣ם הַזֶּ֔ה בְּפִ֤יו וּבִשְׂפָתָיו֙ כִּבְּד֔וּנִי
+        וְלִבּ֖וֹ רִחַ֣ק מִמֶּ֑נִּי וַתְּהִ֤י יִרְאָתָם֙ אֹתִ֔י מִצְוַ֥ת אֲנָשִׁ֖ים מְלֻמָּדָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 61:2
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ
+    - ref: Quran 61:3
+      lang: ar
+      text: كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ
 ---
 
 ## Questions

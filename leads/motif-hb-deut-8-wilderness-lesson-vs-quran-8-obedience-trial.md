@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-8-obedience-trial
 title: Lessons of the wilderness; the good land; beware of pride ↔ Deaf and dumb beasts, heart and trial
-summary: 'These two units share 1 motifs: wealth and children are a trial (fitna).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - wealth-and-children-are-a-trial
-passages:
-- tradition: judaism
-  ref: Deut 8:13
-  note: 'Wealth and children are a trial (fitna) (Possessions as the test that makes people forget God:
-    innamā amwālukum wa-awlādukum fitnatun vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā
-    ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil hazzeh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה לָּ֑ךְ וְכֹ֥ל אֲשֶׁר לְךָ֖ יִרְבֶּֽה
-- tradition: judaism
-  ref: Deut 8:14
-  note: 'Wealth and children are a trial (fitna) (Possessions as the test that makes people forget God:
-    innamā amwālukum wa-awlādukum fitnatun vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā
-    ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil hazzeh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית
-    עֲבָדִֽים
-- tradition: islam
-  ref: Quran 8:28
-  note: Wealth and children are a trial (fitna)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ
-    عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Possessions as the test that makes people forget God: innamā amwālukum wa-awlādukum fitnatun
-    vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil
-    hazzeh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wealth and children are a trial (fitna) (weight 6.3). Pair score
     6.3.'
@@ -73,6 +46,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wealth and children are a trial (fitna)
+kinds:
+- echo
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: echo
+  label: Wealth and children are a trial (fitna)
+  note: 'Possessions as the test that makes people forget God: innamā amwālukum wa-awlādukum fitnatun
+    vs wᵉkesep wᵉzāhāb yirbeh-llāk ... wᵉrām lᵉbābekā wᵉšākaḥtā ʾet-YHWH; kōḥî wᵉʿōṣem yādî ʿāśāh lî ʾet-haḥayil
+    hazzeh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:13
+      lang: he
+      text: וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה לָּ֑ךְ וְכֹ֥ל אֲשֶׁר לְךָ֖
+        יִרְבֶּֽה
+    - ref: Deut 8:14
+      lang: he
+      text: וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם
+        מִבֵּ֥ית עֲבָדִֽים
+    - ref: Deut 8:17
+      lang: he
+      text: וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת הַחַ֥יִל הַזֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:28
+      lang: ar
+      text: وَٱعْلَمُوٓا۟ أَنَّمَآ أَمْوَٰلُكُمْ وَأَوْلَٰدُكُمْ فِتْنَةٌ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ
+        عَظِيمٌ
 ---
 
 ## Questions

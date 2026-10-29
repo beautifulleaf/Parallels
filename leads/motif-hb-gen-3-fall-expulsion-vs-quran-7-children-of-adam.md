@@ -2,8 +2,7 @@
 id: motif-hb-gen-3-fall-expulsion-vs-quran-7-children-of-adam
 title: The serpent, the eating, the curses and the expulsion ↔ Children of Adam - clothing, Satan's enmity,
   what God forbids
-summary: 'These two units share 2 motifs: god makes garments of skin for the first couple, god makes garments
-  of skin for the first couple [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,47 +15,9 @@ layers:
 motifs:
 - garments-of-skin
 - garments-of-skin-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 3:21
-  note: God makes garments of skin for the first couple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם
-- tradition: islam
-  ref: Quran 7:26
-  note: God makes garments of skin for the first couple (God provides clothing, here to all Adam's children)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ
-    ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
-- tradition: judaism
-  ref: Gen 3:21
-  note: 'God makes garments of skin for the first couple [divergence between the texts] (God provides
-    clothing. Gen: wa-yyaʿaś YHWH ʾĕlōhîm lə-ʾādām û-lə-ʾištô kotnôt ʿôr wa-yyalbišēm, for the couple
-    after the sin. Q: yā banī Ādama qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum wa-rīshan wa-libāsu
-    l-taqwā dhālika khayrun, ''sent down'' to all of Adam''s children, with a moral ''garment of piety''
-    added.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם
-- tradition: islam
-  ref: Quran 7:26
-  note: 'God makes garments of skin for the first couple [divergence between the texts] (God provides
-    clothing. Gen: wa-yyaʿaś YHWH ʾĕlōhîm lə-ʾādām û-lə-ʾištô kotnôt ʿôr wa-yyalbišēm, for the couple
-    after the sin. Q: yā banī Ādama qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum wa-rīshan wa-libāsu
-    l-taqwā dhālika khayrun, ''sent down'' to all of Adam''s children, with a moral ''garment of piety''
-    added.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ
-    ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. God provides clothing. Gen: wa-yyaʿaś YHWH ʾĕlōhîm lə-ʾādām û-lə-ʾištô kotnôt ʿôr wa-yyalbišēm,
-    for the couple after the sin. Q: yā banī Ādama qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum wa-rīshan
-    wa-libāsu l-taqwā dhālika khayrun, ''sent down'' to all of Adam''s children, with a moral ''garment
-    of piety'' added.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God makes garments of skin for the first couple (weight 6.7); God
     makes garments of skin for the first couple [divergence between the texts] (weight 6.7). Pair score
@@ -93,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God makes garments of skin for the first couple
+kinds:
+- divergence
+units:
+- id: hb-gen-3-fall-expulsion
+  title: The serpent, the eating, the curses and the expulsion
+  tradition: judaism
+- id: quran-7-children-of-adam
+  title: Children of Adam - clothing, Satan's enmity, what God forbids
+  tradition: islam
+matches:
+- kind: divergence
+  label: God makes garments of skin for the first couple
+  note: 'God provides clothing. Gen: wa-yyaʿaś YHWH ʾĕlōhîm lə-ʾādām û-lə-ʾištô kotnôt ʿôr wa-yyalbišēm,
+    for the couple after the sin. Q: yā banī Ādama qad anzalnā ʿalaykum libāsan yuwārī sawʾātikum wa-rīshan
+    wa-libāsu l-taqwā dhālika khayrun, ''sent down'' to all of Adam''s children, with a moral ''garment
+    of piety'' added.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:21
+      lang: he
+      text: וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:26
+      lang: ar
+      text: يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ
+        ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ
 ---
 
 ## Questions

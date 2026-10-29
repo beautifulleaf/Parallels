@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-2-wine-marriage
 title: Sayings on wine, the king's throne and the lamp of YHWH ↔ Wine, gambling, orphans, mixed marriage
   and menstruation
-summary: 'These two units share 1 motifs: wine and gambling: in both great sin and some benefit, but the
-  sin is greater.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - wine-and-gambling-sin-and-benefit
-passages:
-- tradition: judaism
-  ref: Prov 20:1
-  note: 'Wine and gambling: in both great sin and some benefit, but the sin is greater (Prov 20:1 lēṣ
-    ha-yyayin hōmeh šēkār wĕ-kol šōgeh bô lōʾ yeḥkām; Q 2:219 qul fīhimā ithmun kabīrun wa-manāfiʿu li-n-nāsi
-    wa-ithmuhumā akbaru min nafʿihimā. A wisdom warning in Proverbs; in the Quran a weighing of harm against
-    benefit, the first step toward prohibition.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣ץ הַ֭יַּין הֹמֶ֣ה שֵׁכָ֑ר וְכָל שֹׁ֥גֶה בּ֝֗וֹ לֹ֣א יֶחְכָּֽם
-- tradition: islam
-  ref: Quran 2:219
-  note: 'Wine and gambling: in both great sin and some benefit, but the sin is greater'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ
-    وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ
-    يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Prov 20:1 lēṣ ha-yyayin hōmeh šēkār wĕ-kol šōgeh bô lōʾ yeḥkām; Q 2:219 qul fīhimā ithmun kabīrun
-    wa-manāfiʿu li-n-nāsi wa-ithmuhumā akbaru min nafʿihimā. A wisdom warning in Proverbs; in the Quran
-    a weighing of harm against benefit, the first step toward prohibition.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wine and gambling: in both great sin and some benefit, but the sin
     is greater (weight 6.7). Pair score 6.7.'
@@ -72,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Wine and gambling: in both great sin and some benefit, but the sin is greater'
+kinds:
+- echo
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Wine and gambling: in both great sin and some benefit, but the sin is greater'
+  note: Prov 20:1 lēṣ ha-yyayin hōmeh šēkār wĕ-kol šōgeh bô lōʾ yeḥkām; Q 2:219 qul fīhimā ithmun kabīrun
+    wa-manāfiʿu li-n-nāsi wa-ithmuhumā akbaru min nafʿihimā. A wisdom warning in Proverbs; in the Quran
+    a weighing of harm against benefit, the first step toward prohibition.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:1
+      lang: he
+      text: לֵ֣ץ הַ֭יַּין הֹמֶ֣ה שֵׁכָ֑ר וְכָל שֹׁ֥גֶה בּ֝֗וֹ לֹ֣א יֶחְכָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:219
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْخَمْرِ وَٱلْمَيْسِرِ قُلْ فِيهِمَآ إِثْمٌ كَبِيرٌ وَمَنَٰفِعُ لِلنَّاسِ
+        وَإِثْمُهُمَآ أَكْبَرُ مِن نَّفْعِهِمَا وَيَسْـَٔلُونَكَ مَاذَا يُنفِقُونَ قُلِ ٱلْعَفْوَ كَذَٰلِكَ
+        يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَتَفَكَّرُونَ
 ---
 
 ## Questions

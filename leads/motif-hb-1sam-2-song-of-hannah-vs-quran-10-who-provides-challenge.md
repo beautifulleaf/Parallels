@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-10-who-provides-challenge
 title: Song of Hannah ↔ Who provides and who restores creation; the challenge of the surah
-summary: 'These two units share 1 motifs: god brings the living out of the dead and the dead out of the
-  living.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +13,9 @@ layers:
 - motif
 motifs:
 - god-brings-living-from-dead
-passages:
-- tradition: judaism
-  ref: 1Sam 2:6
-  note: 'God brings the living out of the dead and the dead out of the living (God''s power over life
-    and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita mina l-ḥayy vs YHWH mēmît
-    ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out of the dead; Hannah as bringing
-    down to Sheol and up again.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
-- tradition: islam
-  ref: Quran 10:31
-  note: God brings the living out of the dead and the dead out of the living
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَمَن
-    يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ فَسَيَقُولُونَ
-    ٱللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s power over life and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita
-    mina l-ḥayy vs YHWH mēmît ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out of
-    the dead; Hannah as bringing down to Sheol and up again.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings the living out of the dead and the dead out of the living
     (weight 6.0). Pair score 6.0.'
@@ -62,6 +41,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God brings the living out of the dead and the dead out of the living
+kinds:
+- echo
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-10-who-provides-challenge
+  title: Who provides and who restores creation; the challenge of the surah
+  tradition: islam
+matches:
+- kind: echo
+  label: God brings the living out of the dead and the dead out of the living
+  note: 'God''s power over life and death: wa-man yukhriju l-ḥayya mina l-mayyiti wa-yukhriju l-mayyita
+    mina l-ḥayy vs YHWH mēmît ûmᵉḥayyeh môrîd šᵉʾôl wayyāʿal. Q phrases it as the living brought out of
+    the dead; Hannah as bringing down to Sheol and up again.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:6
+      lang: he
+      text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
+  - tradition: islam
+    passages:
+    - ref: Quran 10:31
+      lang: ar
+      text: قُلْ مَن يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ أَمَّن يَمْلِكُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ
+        وَمَن يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَمَن يُدَبِّرُ ٱلْأَمْرَ
+        فَسَيَقُولُونَ ٱللَّهُ فَقُلْ أَفَلَا تَتَّقُونَ
 ---
 
 ## Questions

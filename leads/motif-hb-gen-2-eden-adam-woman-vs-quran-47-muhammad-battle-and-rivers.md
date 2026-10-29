@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-47-muhammad-battle-and-rivers
 title: 'Second creation account, Eden, and the making of woman ↔ Muhammad: deeds nullified, striking necks
   and freeing captives, and the four rivers of the Garden'
-summary: 'These two units share 2 motifs: four rivers in the garden [divergence between the texts], a
-  river from paradise divides into four named rivers.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,71 +15,9 @@ layers:
 motifs:
 - four-rivers-in-the-garden-as-divergence
 - four-rivers-of-paradise
-passages:
-- tradition: judaism
-  ref: Gen 2:10
-  note: 'Four rivers in the Garden [divergence between the texts] (Four rivers in the Garden. Genesis:
-    wə-nāhār yōṣēʾ mē-ʿēḏen ... wə-hāyâ lə-ʾarbāʿâ rāʾšîm: one river splits into four named geographic
-    rivers, Pishon, Gihon, Ḥiddeqel, Pərāṯ, flowing to lands of gold and onyx. Quran: four rivers of four
-    substances (water that does not go stale, milk, wine, purified honey), with no names or geography.
-    cf. 2 Enoch 8:5 for rivers of honey, milk, oil and wine.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
-    רָאשִֽׁים
-- tradition: judaism
-  ref: Gen 2:11
-  note: 'Four rivers in the Garden [divergence between the texts] (Four rivers in the Garden. Genesis:
-    wə-nāhār yōṣēʾ mē-ʿēḏen ... wə-hāyâ lə-ʾarbāʿâ rāʾšîm: one river splits into four named geographic
-    rivers, Pishon, Gihon, Ḥiddeqel, Pərāṯ, flowing to lands of gold and onyx. Quran: four rivers of four
-    substances (water that does not go stale, milk, wine, purified honey), with no names or geography.
-    cf. 2 Enoch 8:5 for rivers of honey, milk, oil and wine.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כָּל אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר שָׁ֖ם הַזָּהָֽב
-- tradition: islam
-  ref: Quran 47:15
-  note: 'Four rivers in the Garden [divergence between the texts] (Four rivers in the Garden. Genesis:
-    wə-nāhār yōṣēʾ mē-ʿēḏen ... wə-hāyâ lə-ʾarbāʿâ rāʾšîm: one river splits into four named geographic
-    rivers, Pishon, Gihon, Ḥiddeqel, Pərāṯ, flowing to lands of gold and onyx. Quran: four rivers of four
-    substances (water that does not go stale, milk, wine, purified honey), with no names or geography.
-    cf. 2 Enoch 8:5 for rivers of honey, milk, oil and wine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
-- tradition: judaism
-  ref: Gen 2:10
-  note: A river from paradise divides into four named rivers (Pishon, Gihon, Hiddekel (Tigris), Perat
-    (Euphrates))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
-    רָאשִֽׁים
-- tradition: judaism
-  ref: Gen 2:11
-  note: A river from paradise divides into four named rivers (Pishon, Gihon, Hiddekel (Tigris), Perat
-    (Euphrates))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כָּל אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר שָׁ֖ם הַזָּהָֽב
-- tradition: islam
-  ref: Quran 47:15
-  note: A river from paradise divides into four named rivers (four paradisal rivers, here of substances)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
-    وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
-    وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
-    كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Four rivers in the Garden. Genesis: wə-nāhār yōṣēʾ mē-ʿēḏen ... wə-hāyâ lə-ʾarbāʿâ rāʾšîm:
-    one river splits into four named geographic rivers, Pishon, Gihon, Ḥiddeqel, Pərāṯ, flowing to lands
-    of gold and onyx. Quran: four rivers of four substances (water that does not go stale, milk, wine,
-    purified honey), with no names or geography. cf. 2 Enoch 8:5 for rivers of honey, milk, oil and wine.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Four rivers in the Garden [divergence between the texts] (weight
     6.7); A river from paradise divides into four named rivers (weight 6.3). Pair score 13.0.'
@@ -117,6 +54,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Four rivers in the Garden
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Four rivers in the Garden
+  note: 'Four rivers in the Garden. Genesis: wə-nāhār yōṣēʾ mē-ʿēḏen ... wə-hāyâ lə-ʾarbāʿâ rāʾšîm: one
+    river splits into four named geographic rivers, Pishon, Gihon, Ḥiddeqel, Pərāṯ, flowing to lands of
+    gold and onyx. Quran: four rivers of four substances (water that does not go stale, milk, wine, purified
+    honey), with no names or geography. cf. 2 Enoch 8:5 for rivers of honey, milk, oil and wine.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:10
+      lang: he
+      text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
+        רָאשִֽׁים
+    - ref: Gen 2:11
+      lang: he
+      text: שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כָּל אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר שָׁ֖ם הַזָּהָֽב
+    - ref: Gen 2:13
+      lang: he
+      text: וְשֵֽׁם הַנָּהָ֥ר הַשֵּׁנִ֖י גִּיח֑וֹן ה֣וּא הַסּוֹבֵ֔ב אֵ֖ת כָּל אֶ֥רֶץ כּֽוּשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+- kind: shared
+  label: A river from paradise divides into four named rivers
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:10
+      lang: he
+      text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
+        רָאשִֽׁים
+    - ref: Gen 2:11
+      lang: he
+      text: שֵׁ֥ם הָֽאֶחָ֖ד פִּישׁ֑וֹן ה֣וּא הַסֹּבֵ֗ב אֵ֚ת כָּל אֶ֣רֶץ הַֽחֲוִילָ֔ה אֲשֶׁר שָׁ֖ם הַזָּהָֽב
+    - ref: Gen 2:13
+      lang: he
+      text: וְשֵֽׁם הַנָּהָ֥ר הַשֵּׁנִ֖י גִּיח֑וֹן ה֣וּא הַסּוֹבֵ֔ב אֵ֖ת כָּל אֶ֥רֶץ כּֽוּשׁ
+    note: Pishon, Gihon, Hiddekel (Tigris), Perat (Euphrates)
+  - tradition: islam
+    passages:
+    - ref: Quran 47:15
+      lang: ar
+      text: مَّثَلُ ٱلْجَنَّةِ ٱلَّتِى وُعِدَ ٱلْمُتَّقُونَ فِيهَآ أَنْهَٰرٌ مِّن مَّآءٍ غَيْرِ ءَاسِنٍ
+        وَأَنْهَٰرٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُۥ وَأَنْهَٰرٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّٰرِبِينَ
+        وَأَنْهَٰرٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ
+        كَمَنْ هُوَ خَٰلِدٌ فِى ٱلنَّارِ وَسُقُوا۟ مَآءً حَمِيمًا فَقَطَّعَ أَمْعَآءَهُمْ
+    note: four paradisal rivers, here of substances
 ---
 
 ## Questions

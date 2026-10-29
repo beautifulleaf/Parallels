@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-24-king-of-glory-vs-quran-9-mosques-and-kin
 title: Psalm 24 - lift up your heads, O gates ↔ Who maintains the mosques; God above family
-summary: 'These two units share 1 motifs: entrance liturgy: ''who may dwell on your holy mountain?'' answered
-  by a list of ethical qualifications.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - entrance-liturgy-who-may-dwell
-passages:
-- tradition: judaism
-  ref: Ps 24:3-6
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:3) מִֽי יַעֲלֶ֥ה בְהַר יְהוָ֑ה וּמִי יָ֝קוּם בִּמְק֥וֹם קָדְשֽׁוֹ (24:4) נְקִ֥י כַפַּ֗יִם
-    וּֽבַר לֵ֫בָ֥ב אֲשֶׁ֤ר לֹא נָשָׂ֣א לַשָּׁ֣וְא נַפְשִׁ֑י וְלֹ֖א נִשְׁבַּ֣ע לְמִרְמָֽה (24:5) יִשָּׂ֣א
-    בְ֭רָכָה מֵאֵ֣ת יְהוָ֑ה וּ֝צְדָקָ֗ה מֵאֱלֹהֵ֥י יִשְׁעֽוֹ (24:6) זֶ֭ה דּ֣וֹר דרשו דֹּרְשָׁ֑יו מְבַקְשֵׁ֨י
-    פָנֶ֖יךָ יַעֲקֹ֣ב סֶֽלָה
-- tradition: judaism
-  ref: Ps 24:3
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִֽי יַעֲלֶ֥ה בְהַר יְהוָ֑ה וּמִי יָ֝קוּם בִּמְק֥וֹם קָדְשֽׁוֹ
-- tradition: islam
-  ref: Quran 9:18
-  note: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications
-    (Qualifications for whoever may have a place in God''s sanctuary: innamā yaʿmuru masājida llāhi man
-    āmana bi-llāhi wa-l-yawmi l-ākhiri wa-aqāma ṣ-ṣalāta wa-ātā z-zakāta wa-lam yakhsha illā llāh vs mî-yaʿăleh
-    bᵉhar-YHWH ... nᵉqî kappayim ûbar-lēbāb. Ps lists moral purity; Q lists faith, prayer and alms.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ
-    وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Qualifications for whoever may have a place in God''s sanctuary: innamā yaʿmuru masājida llāhi
-    man āmana bi-llāhi wa-l-yawmi l-ākhiri wa-aqāma ṣ-ṣalāta wa-ātā z-zakāta wa-lam yakhsha illā llāh
-    vs mî-yaʿăleh bᵉhar-YHWH ... nᵉqî kappayim ûbar-lēbāb. Ps lists moral purity; Q lists faith, prayer
-    and alms.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Entrance liturgy: ''Who may dwell on your holy mountain?'' answered
     by a list of ethical qualifications (weight 5.8). Pair score 5.8.'
@@ -72,6 +42,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
+kinds:
+- echo
+units:
+- id: hb-ps-24-king-of-glory
+  title: Psalm 24 - lift up your heads, O gates
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Entrance liturgy: ''Who may dwell on your holy mountain?'' answered by a list of ethical qualifications'
+  note: 'Qualifications for whoever may have a place in God''s sanctuary: innamā yaʿmuru masājida llāhi
+    man āmana bi-llāhi wa-l-yawmi l-ākhiri wa-aqāma ṣ-ṣalāta wa-ātā z-zakāta wa-lam yakhsha illā llāh
+    vs mî-yaʿăleh bᵉhar-YHWH ... nᵉqî kappayim ûbar-lēbāb. Ps lists moral purity; Q lists faith, prayer
+    and alms.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 24:3
+      lang: he
+      text: מִֽי יַעֲלֶ֥ה בְהַר יְהוָ֑ה וּמִי יָ֝קוּם בִּמְק֥וֹם קָדְשֽׁוֹ
+    - ref: Ps 24:4
+      lang: he
+      text: נְקִ֥י כַפַּ֗יִם וּֽבַר לֵ֫בָ֥ב אֲשֶׁ֤ר לֹא נָשָׂ֣א לַשָּׁ֣וְא נַפְשִׁ֑י וְלֹ֖א נִשְׁבַּ֣ע
+        לְמִרְמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:18
+      lang: ar
+      text: إِنَّمَا يَعْمُرُ مَسَٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَأَقَامَ
+        ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ فَعَسَىٰٓ أُو۟لَٰٓئِكَ أَن يَكُونُوا۟
+        مِنَ ٱلْمُهْتَدِينَ
 ---
 
 ## Questions

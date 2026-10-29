@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2sam-23-last-words-of-david-vs-quran-4-prophets-and-trinity
 title: The last words of David ↔ The chain of revelation; Jesus, word and spirit; 'say not three'
-summary: 'These two units share 1 motifs: god gave david the psalms (zabur).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - david-given-the-psalms
-passages:
-- tradition: judaism
-  ref: 2Sam 23:1
-  note: 'God gave David the Psalms (Zabur) (David as an inspired psalmist. Q: wa-ātaynā Dāwūda zabūran.
-    2Sam: nəʿîm zəmirôt Yiśrāʾēl; rûaḥ YHWH dibber-bî û-millātô ʿal-ləšônî. zabūr is often linked to Hebrew
-    zəmīrāh/mizmôr (etymology disputed).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵ֛לֶּה דִּבְרֵ֥י דָוִ֖ד הָאַֽחֲרֹנִ֑ים נְאֻ֧ם דָּוִ֣ד בֶּן יִשַׁ֗י וּנְאֻ֤ם הַגֶּ֨בֶר֙ הֻ֣קַם
-    עָ֔ל מְשִׁ֨יחַ֙ אֱלֹהֵ֣י יַֽעֲקֹ֔ב וּנְעִ֖ים זְמִר֥וֹת יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: 2Sam 23:2
-  note: 'God gave David the Psalms (Zabur) (David as an inspired psalmist. Q: wa-ātaynā Dāwūda zabūran.
-    2Sam: nəʿîm zəmirôt Yiśrāʾēl; rûaḥ YHWH dibber-bî û-millātô ʿal-ləšônî. zabūr is often linked to Hebrew
-    zəmīrāh/mizmôr (etymology disputed).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ר֥וּחַ יְהוָ֖ה דִּבֶּר בִּ֑י וּמִלָּת֖וֹ עַל לְשׁוֹנִֽי
-- tradition: islam
-  ref: Quran 4:163
-  note: God gave David the Psalms (Zabur)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّۦنَ مِنۢ بَعْدِهِۦ
-    وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ
-    وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيْمَٰنَ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. David as an inspired psalmist. Q: wa-ātaynā Dāwūda zabūran. 2Sam: nəʿîm zəmirôt Yiśrāʾēl; rûaḥ
-    YHWH dibber-bî û-millātô ʿal-ləšônî. zabūr is often linked to Hebrew zəmīrāh/mizmôr (etymology disputed).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God gave David the Psalms (Zabur) (weight 6.0). Pair score 6.0.'
   basis: reading
@@ -69,6 +42,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God gave David the Psalms (Zabur)
+kinds:
+- echo
+units:
+- id: hb-2sam-23-last-words-of-david
+  title: The last words of David
+  tradition: judaism
+- id: quran-4-prophets-and-trinity
+  title: The chain of revelation; Jesus, word and spirit; 'say not three'
+  tradition: islam
+matches:
+- kind: echo
+  label: God gave David the Psalms (Zabur)
+  note: 'David as an inspired psalmist. Q: wa-ātaynā Dāwūda zabūran. 2Sam: nəʿîm zəmirôt Yiśrāʾēl; rûaḥ
+    YHWH dibber-bî û-millātô ʿal-ləšônî. zabūr is often linked to Hebrew zəmīrāh/mizmôr (etymology disputed).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 23:1
+      lang: he
+      text: וְאֵ֛לֶּה דִּבְרֵ֥י דָוִ֖ד הָאַֽחֲרֹנִ֑ים נְאֻ֧ם דָּוִ֣ד בֶּן יִשַׁ֗י וּנְאֻ֤ם הַגֶּ֨בֶר֙
+        הֻ֣קַם עָ֔ל מְשִׁ֨יחַ֙ אֱלֹהֵ֣י יַֽעֲקֹ֔ב וּנְעִ֖ים זְמִר֥וֹת יִשְׂרָאֵֽל
+    - ref: 2Sam 23:2
+      lang: he
+      text: ר֥וּחַ יְהוָ֖ה דִּבֶּר בִּ֑י וּמִלָּת֖וֹ עַל לְשׁוֹנִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 4:163
+      lang: ar
+      text: إِنَّآ أَوْحَيْنَآ إِلَيْكَ كَمَآ أَوْحَيْنَآ إِلَىٰ نُوحٍ وَٱلنَّبِيِّۦنَ مِنۢ بَعْدِهِۦ
+        وَأَوْحَيْنَآ إِلَىٰٓ إِبْرَٰهِيمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ وَيَعْقُوبَ وَٱلْأَسْبَاطِ وَعِيسَىٰ
+        وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيْمَٰنَ وَءَاتَيْنَا دَاوُۥدَ زَبُورًا
 ---
 
 ## Questions

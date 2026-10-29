@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-17-prayer-spirit-and-challenge
 title: Concerning the prophets - who has stood in the council of YHWH? ↔ Near compromise, prayer times,
   the praised station, the spirit, the challenge and the demanded signs (Surah 17:73-100)
-summary: 'These two units share 1 motifs: opponents nearly lure the prophet into inventing something else;
-  god makes him firm.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-nearly-compromises
-passages:
-- tradition: judaism
-  ref: Jer 23:16
-  note: 'Opponents nearly lure the prophet into inventing something else; God makes him firm (ḥăzôn libbām
-    yədabbērû lōʾ mippî YHWH ... mî ʿāmad bəsôd YHWH; li-taftariya ʿalaynā ghayrahu: a prophet tempted
-    to speak what was not revealed. Jer''s false prophets please the hearers (šālôm yihyeh lākem); in
-    Q the hearers would have made him a friend (la-ttakhadhūka khalīlā), and only God''s steadying (thabbatnāka)
-    prevents it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים לָכֶ֔ם
-    מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
-- tradition: judaism
-  ref: Jer 23:18
-  note: 'Opponents nearly lure the prophet into inventing something else; God makes him firm (ḥăzôn libbām
-    yədabbērû lōʾ mippî YHWH ... mî ʿāmad bəsôd YHWH; li-taftariya ʿalaynā ghayrahu: a prophet tempted
-    to speak what was not revealed. Jer''s false prophets please the hearers (šālôm yihyeh lākem); in
-    Q the hearers would have made him a friend (la-ttakhadhūka khalīlā), and only God''s steadying (thabbatnāka)
-    prevents it.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי דְּבָר֖וֹ
-    וַיִּשְׁמָֽע
-- tradition: islam
-  ref: Quran 17:73
-  note: Opponents nearly lure the prophet into inventing something else; God makes him firm
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن كَادُوا۟ لَيَفْتِنُونَكَ عَنِ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا غَيْرَهُۥ
-    وَإِذًا لَّٱتَّخَذُوكَ خَلِيلًا
-- tradition: islam
-  ref: Quran 17:74
-  note: Opponents nearly lure the prophet into inventing something else; God makes him firm
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ḥăzôn libbām yədabbērû lōʾ mippî YHWH ... mî ʿāmad bəsôd YHWH; li-taftariya ʿalaynā ghayrahu:
-    a prophet tempted to speak what was not revealed. Jer''s false prophets please the hearers (šālôm
-    yihyeh lākem); in Q the hearers would have made him a friend (la-ttakhadhūka khalīlā), and only God''s
-    steadying (thabbatnāka) prevents it.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Opponents nearly lure the prophet into inventing something else;
     God makes him firm (weight 6.3). Pair score 6.3.'
@@ -95,6 +55,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Opponents nearly lure the prophet into inventing something else; God makes him firm
+kinds:
+- echo
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-17-prayer-spirit-and-challenge
+  title: Near compromise, prayer times, the praised station, the spirit, the challenge and the demanded
+    signs (Surah 17:73-100)
+  tradition: islam
+matches:
+- kind: echo
+  label: Opponents nearly lure the prophet into inventing something else; God makes him firm
+  note: 'ḥăzôn libbām yədabbērû lōʾ mippî YHWH ... mî ʿāmad bəsôd YHWH; li-taftariya ʿalaynā ghayrahu:
+    a prophet tempted to speak what was not revealed. Jer''s false prophets please the hearers (šālôm
+    yihyeh lākem); in Q the hearers would have made him a friend (la-ttakhadhūka khalīlā), and only God''s
+    steadying (thabbatnāka) prevents it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:16
+      lang: he
+      text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים
+        לָכֶ֔ם מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
+    - ref: Jer 23:18
+      lang: he
+      text: כִּ֣י מִ֤י עָמַד֙ בְּס֣וֹד יְהוָ֔ה וְיֵ֖רֶא וְיִשְׁמַ֣ע אֶת דְּבָר֑וֹ מִֽי הִקְשִׁ֥יב דברי
+        דְּבָר֖וֹ וַיִּשְׁמָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 17:73
+      lang: ar
+      text: وَإِن كَادُوا۟ لَيَفْتِنُونَكَ عَنِ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ لِتَفْتَرِىَ عَلَيْنَا
+        غَيْرَهُۥ وَإِذًا لَّٱتَّخَذُوكَ خَلِيلًا
+    - ref: Quran 17:74
+      lang: ar
+      text: وَلَوْلَآ أَن ثَبَّتْنَٰكَ لَقَدْ كِدتَّ تَرْكَنُ إِلَيْهِمْ شَيْـًٔا قَلِيلًا
 ---
 
 ## Questions

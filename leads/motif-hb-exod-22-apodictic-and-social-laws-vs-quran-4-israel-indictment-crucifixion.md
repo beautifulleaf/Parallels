@@ -2,8 +2,7 @@
 id: motif-hb-exod-22-apodictic-and-social-laws-vs-quran-4-israel-indictment-crucifixion
 title: Covenant Code - sorceress, stranger, widow, loans, firstborn ↔ The indictment of Israel; the Messiah
   not crucified but raised
-summary: 'These two units share 2 motifs: do not charge interest to the poor of my people [response between
-  the texts], do not charge interest to the poor of my people.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -16,48 +15,9 @@ layers:
 motifs:
 - prohibition-of-interest-as-response
 - prohibition-of-interest
-passages:
-- tradition: judaism
-  ref: Exod 22:24
-  note: 'Do not charge interest to the poor of my people [response between the texts] (Q points to the
-    Torah ban as already given: wa-akhdhihimu l-ribā wa-qad nuhū ʿanhu wa-aklihim amwāla l-nāsi bi-l-bāṭil.
-    Exod: ʾim-kesef talweh ʾet-ʿammî ʾet-heʿānî ʿimmākh ... lōʾ-təśîmûn ʿālāyw nešekh. The HB ban protects
-    ''my people, the poor with you''; Q extends the charge to ''the people''s wealth''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא תְשִׂימ֥וּן
-    עָלָ֖יו נֶֽשֶׁךְ
-- tradition: islam
-  ref: Quran 4:161
-  note: 'Do not charge interest to the poor of my people [response between the texts] (Q points to the
-    Torah ban as already given: wa-akhdhihimu l-ribā wa-qad nuhū ʿanhu wa-aklihim amwāla l-nāsi bi-l-bāṭil.
-    Exod: ʾim-kesef talweh ʾet-ʿammî ʾet-heʿānî ʿimmākh ... lōʾ-təśîmûn ʿālāyw nešekh. The HB ban protects
-    ''my people, the poor with you''; Q extends the charge to ''the people''s wealth''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَأَعْتَدْنَا
-    لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
-- tradition: judaism
-  ref: Exod 22:24
-  note: Do not charge interest to the poor of my people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא תְשִׂימ֥וּן
-    עָלָ֖יו נֶֽשֶׁךְ
-- tradition: islam
-  ref: Quran 4:161
-  note: Do not charge interest to the poor of my people ('their taking ribā though they were forbidden
-    it')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَأَعْتَدْنَا
-    لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    response. Q points to the Torah ban as already given: wa-akhdhihimu l-ribā wa-qad nuhū ʿanhu wa-aklihim
-    amwāla l-nāsi bi-l-bāṭil. Exod: ʾim-kesef talweh ʾet-ʿammî ʾet-heʿānî ʿimmākh ... lōʾ-təśîmûn ʿālāyw
-    nešekh. The HB ban protects ''my people, the poor with you''; Q extends the charge to ''the people''s
-    wealth''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not charge interest to the poor of my people [response between
     the texts] (weight 6.7); Do not charge interest to the poor of my people (weight 5.8). Pair score
@@ -92,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not charge interest to the poor of my people
+kinds:
+- response
+units:
+- id: hb-exod-22-apodictic-and-social-laws
+  title: Covenant Code - sorceress, stranger, widow, loans, firstborn
+  tradition: judaism
+- id: quran-4-israel-indictment-crucifixion
+  title: The indictment of Israel; the Messiah not crucified but raised
+  tradition: islam
+matches:
+- kind: response
+  label: Do not charge interest to the poor of my people
+  note: 'Q points to the Torah ban as already given: wa-akhdhihimu l-ribā wa-qad nuhū ʿanhu wa-aklihim
+    amwāla l-nāsi bi-l-bāṭil. Exod: ʾim-kesef talweh ʾet-ʿammî ʾet-heʿānî ʿimmākh ... lōʾ-təśîmûn ʿālāyw
+    nešekh. The HB ban protects ''my people, the poor with you''; Q extends the charge to ''the people''s
+    wealth''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 22:24
+      lang: he
+      text: אִם כֶּ֣סֶף תַּלְוֶ֣ה אֶת עַמִּ֗י אֶת הֶֽעָנִי֙ עִמָּ֔ךְ לֹא תִהְיֶ֥ה ל֖וֹ כְּנֹשֶׁ֑ה לֹֽא
+        תְשִׂימ֥וּן עָלָ֖יו נֶֽשֶׁךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:161
+      lang: ar
+      text: وَأَخْذِهِمُ ٱلرِّبَوٰا۟ وَقَدْ نُهُوا۟ عَنْهُ وَأَكْلِهِمْ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ
+        وَأَعْتَدْنَا لِلْكَٰفِرِينَ مِنْهُمْ عَذَابًا أَلِيمًا
 ---
 
 ## Questions

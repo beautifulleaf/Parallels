@@ -2,8 +2,7 @@
 id: motif-hb-judg-12-shibboleth-minor-judges-vs-quran-7-wilderness-entry
 title: Ephraim slaughtered at the fords by the Shibboleth test; Ibzan, Elon, Abdon ↔ Twelve tribes, twelve
   springs, and the word changed at the gate
-summary: 'These two units share 1 motifs: the wrongdoers replace the word they were told with another,
-  and a plague falls from heaven.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - wrongdoers-change-the-word
-passages:
-- tradition: judaism
-  ref: Judg 12:6
-  note: 'The wrongdoers replace the word they were told with another, and a plague falls from heaven (A
-    prescribed word altered, with deadly consequence: qūlū ḥiṭṭatun ... fa-baddala lladhīna ẓalamū minhum
-    qawlan ghayra lladhī qīla lahum vs ʾĕmor-nāʾ šibbōlet wayyōʾmer sibbōlet wᵉlōʾ yākîn lᵉdabbēr kēn.
-    A thematic echo only: in Judg the Ephraimites cannot pronounce it, in Q the wrongdoers change it on
-    purpose.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְרוּ לוֹ֩ אֱמָר נָ֨א שִׁבֹּ֜לֶת וַיֹּ֣אמֶר סִבֹּ֗לֶת וְלֹ֤א יָכִין֙ לְדַבֵּ֣ר כֵּ֔ן וַיֹּאחֲז֣וּ
-    אוֹת֔וֹ וַיִּשְׁחָט֖וּהוּ אֶל מַעְבְּר֣וֹת הַיַּרְדֵּ֑ן וַיִּפֹּ֞ל בָּעֵ֤ת הַהִיא֙ מֵֽאֶפְרַ֔יִם אַרְבָּעִ֥ים
-    וּשְׁנַ֖יִם אָֽלֶף
-- tradition: islam
-  ref: Quran 7:162
-  note: The wrongdoers replace the word they were told with another, and a plague falls from heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ
-    رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ
-- tradition: islam
-  ref: Quran 7:161
-  note: The wrongdoers replace the word they were told with another, and a plague falls from heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟
-    حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A prescribed word altered, with deadly consequence: qūlū ḥiṭṭatun ... fa-baddala lladhīna ẓalamū
-    minhum qawlan ghayra lladhī qīla lahum vs ʾĕmor-nāʾ šibbōlet wayyōʾmer sibbōlet wᵉlōʾ yākîn lᵉdabbēr
-    kēn. A thematic echo only: in Judg the Ephraimites cannot pronounce it, in Q the wrongdoers change
-    it on purpose.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wrongdoers replace the word they were told with another, and
     a plague falls from heaven (weight 6.7). Pair score 6.7.'
@@ -78,6 +47,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wrongdoers replace the word they were told with another, and a plague falls from heaven
+kinds:
+- echo
+units:
+- id: hb-judg-12-shibboleth-minor-judges
+  title: Ephraim slaughtered at the fords by the Shibboleth test; Ibzan, Elon, Abdon
+  tradition: judaism
+- id: quran-7-wilderness-entry
+  title: Twelve tribes, twelve springs, and the word changed at the gate
+  tradition: islam
+matches:
+- kind: echo
+  label: The wrongdoers replace the word they were told with another, and a plague falls from heaven
+  note: 'A prescribed word altered, with deadly consequence: qūlū ḥiṭṭatun ... fa-baddala lladhīna ẓalamū
+    minhum qawlan ghayra lladhī qīla lahum vs ʾĕmor-nāʾ šibbōlet wayyōʾmer sibbōlet wᵉlōʾ yākîn lᵉdabbēr
+    kēn. A thematic echo only: in Judg the Ephraimites cannot pronounce it, in Q the wrongdoers change
+    it on purpose.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 12:6
+      lang: he
+      text: וַיֹּ֣אמְרוּ לוֹ֩ אֱמָר נָ֨א שִׁבֹּ֜לֶת וַיֹּ֣אמֶר סִבֹּ֗לֶת וְלֹ֤א יָכִין֙ לְדַבֵּ֣ר כֵּ֔ן
+        וַיֹּאחֲז֣וּ אוֹת֔וֹ וַיִּשְׁחָט֖וּהוּ אֶל מַעְבְּר֣וֹת הַיַּרְדֵּ֑ן וַיִּפֹּ֞ל בָּעֵ֤ת הַהִיא֙
+        מֵֽאֶפְרַ֔יִם אַרְבָּעִ֥ים וּשְׁנַ֖יִם אָֽלֶף
+  - tradition: islam
+    passages:
+    - ref: Quran 7:161
+      lang: ar
+      text: وَإِذْ قِيلَ لَهُمُ ٱسْكُنُوا۟ هَٰذِهِ ٱلْقَرْيَةَ وَكُلُوا۟ مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا۟
+        حِطَّةٌ وَٱدْخُلُوا۟ ٱلْبَابَ سُجَّدًا نَّغْفِرْ لَكُمْ خَطِيٓـَٰٔتِكُمْ سَنَزِيدُ ٱلْمُحْسِنِينَ
+    - ref: Quran 7:162
+      lang: ar
+      text: فَبَدَّلَ ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ قَوْلًا غَيْرَ ٱلَّذِى قِيلَ لَهُمْ فَأَرْسَلْنَا عَلَيْهِمْ
+        رِجْزًا مِّنَ ٱلسَّمَآءِ بِمَا كَانُوا۟ يَظْلِمُونَ
 ---
 
 ## Questions

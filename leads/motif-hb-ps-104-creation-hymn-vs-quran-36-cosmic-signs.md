@@ -2,9 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-36-cosmic-signs
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Signs of the dead earth,
   night, sun, moon and the laden ship
-summary: 'These two units share 3 motifs: god made the sun a radiance and the moon a light with measured
-  stations, to count years and reckoning, sun and moon are set to rule day and night and mark signs and
-  seasons, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,78 +16,9 @@ motifs:
 - moon-stations-for-reckoning
 - luminaries-rule-day-night
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:19
-  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
-    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: 'God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-    (The moon made to measure time, and the alternation of night and day: wa-l-qamara nūran wa-qaddarahu
-    manāzila li-taʿlamū ʿadada s-sinīn; ikhtilāfi l-layli wa-n-nahār vs ʿāśāh yārēaḥ lᵉmôʿădîm šemeš yādaʿ
-    mᵉbôʾô tāšet-ḥōšek wîhî lāylāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 36:39
-  note: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
-- tradition: judaism
-  ref: Ps 104:19
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
-- tradition: judaism
-  ref: Ps 104:20
-  note: Sun and moon are set to rule day and night and mark signs and seasons (moon for appointed times;
-    the sun knows its setting)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
-- tradition: islam
-  ref: Quran 36:37
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
-- tradition: islam
-  ref: Quran 36:40
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
-- tradition: judaism
-  ref: Ps 104:30
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (Ps 104:30
-    tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina s-samāʾi min māʾin
-    fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived by rain after its
-    death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
-- tradition: islam
-  ref: Quran 36:33
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ يَأْكُلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni
-    l-qadīm: the moon set for appointed times and the sun''s fixed setting. The Quran adds the image of
-    the old palm stalk for the waning crescent.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the sun a radiance and the moon a light with measured stations,
     to count years and reckoning (weight 6.3); Sun and moon are set to rule day and night and mark signs
@@ -127,6 +56,78 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: echo
+  label: God made the sun a radiance and the moon a light with measured stations, to count years and reckoning
+  note: 'ʿāśâ yārēaḥ lə-môʿăḏîm šemeš yāḏaʿ məḇôʾô vs. wa-l-qamara qaddarnāhu manāzila ḥattā ʿāda ka-l-ʿurjūni
+    l-qadīm: the moon set for appointed times and the sun''s fixed setting. The Quran adds the image of
+    the old palm stalk for the waning crescent.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:39
+      lang: ar
+      text: وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:19
+      lang: he
+      text: עָשָׂ֣ה יָ֭רֵחַ לְמוֹעֲדִ֑ים שֶׁ֝֗מֶשׁ יָדַ֥ע מְבוֹאֽוֹ
+    - ref: Ps 104:20
+      lang: he
+      text: תָּֽשֶׁת חֹ֭שֶׁךְ וִ֣יהִי לָ֑יְלָה בּֽוֹ תִ֝רְמֹ֗שׂ כָּל חַיְתוֹ יָֽעַר
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+    note: moon for appointed times; the sun knows its setting
+  - tradition: islam
+    passages:
+    - ref: Quran 36:37
+      lang: ar
+      text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
+    - ref: Quran 36:40
+      lang: ar
+      text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
+        فِى فَلَكٍ يَسْبَحُونَ
+    - ref: Quran 36:39
+      lang: ar
+      text: وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ
+- kind: shared
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:30
+      lang: he
+      text: תְּשַׁלַּ֣ח ר֭וּחֲךָ יִבָּרֵא֑וּן וּ֝תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה
+    note: 'Ps 104:30 tĕšallaḥ rûḥăkā yibbārēʾûn û-tĕḥaddēš pĕnê ʾădāmâ; Q 2:164 wa-mā anzala llāhu mina
+      s-samāʾi min māʾin fa-aḥyā bihi l-arḍa baʿda mawtihā: the earth renewed by God''s spirit vs revived
+      by rain after its death.'
+  - tradition: islam
+    passages:
+    - ref: Quran 36:33
+      lang: ar
+      text: وَءَايَةٌ لَّهُمُ ٱلْأَرْضُ ٱلْمَيْتَةُ أَحْيَيْنَٰهَا وَأَخْرَجْنَا مِنْهَا حَبًّا فَمِنْهُ
+        يَأْكُلُونَ
 ---
 
 ## Questions

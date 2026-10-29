@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-41-fussilat-creation
 title: 'Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Ha-Mim Fussilat: the veil
   between; creation in days; heaven as smoke'
-summary: 'These two units share 1 motifs: god set firm mountains on the earth lest it sway with people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - mountains-stabilize-earth
-passages:
-- tradition: judaism
-  ref: Ps 104:5
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
-- tradition: judaism
-  ref: Ps 104:8
-  note: 'God set firm mountains on the earth lest it sway with people (yāsad-ʾereṣ ʿal-məkônêhā bal-timmôṭ
-    ʿôlām wāʿed; wa-alqā fī l-arḍi rawāsiya an tamīda bikum: the earth made unshakable. Ps: on its foundations;
-    Q: by mountains set as anchors.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲל֣וּ הָ֭רִים יֵרְד֣וּ בְקָע֑וֹת אֶל מְ֝ק֗וֹם זֶ֤ה יָסַ֬דְתָּ לָהֶֽם
-- tradition: islam
-  ref: Quran 41:10
-  note: God set firm mountains on the earth lest it sway with people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ أَرْبَعَةِ
-    أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yāsaḏ-ʾereṣ ʿal-məḵôneyhā ... mi-ppərî maʿăśeyḵā tiśbaʿ hā-ʾāreṣ vs. wa-jaʿala fīhā rawāsiya
-    min fawqihā wa-bāraka fīhā wa-qaddara fīhā aqwātahā: the earth made firm and supplied with food.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God set firm mountains on the earth lest it sway with people (weight
     5.6). Pair score 5.6.'
@@ -78,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God set firm mountains on the earth lest it sway with people
+kinds:
+- echo
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-41-fussilat-creation
+  title: 'Ha-Mim Fussilat: the veil between; creation in days; heaven as smoke'
+  tradition: islam
+matches:
+- kind: echo
+  label: God set firm mountains on the earth lest it sway with people
+  note: 'yāsaḏ-ʾereṣ ʿal-məḵôneyhā ... mi-ppərî maʿăśeyḵā tiśbaʿ hā-ʾāreṣ vs. wa-jaʿala fīhā rawāsiya
+    min fawqihā wa-bāraka fīhā wa-qaddara fīhā aqwātahā: the earth made firm and supplied with food.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:5
+      lang: he
+      text: יָֽסַד אֶ֭רֶץ עַל מְכוֹנֶ֑יהָ בַּל תִּ֝מּ֗וֹט עוֹלָ֥ם וָעֶֽד
+    - ref: Ps 104:13
+      lang: he
+      text: מַשְׁקֶ֣ה הָ֭רִים מֵעֲלִיּוֹתָ֑יו מִפְּרִ֥י מַ֝עֲשֶׂ֗יךָ תִּשְׂבַּ֥ע הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:10
+      lang: ar
+      text: وَجَعَلَ فِيهَا رَوَٰسِىَ مِن فَوْقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقْوَٰتَهَا فِىٓ
+        أَرْبَعَةِ أَيَّامٍ سَوَآءً لِّلسَّآئِلِينَ
 ---
 
 ## Questions

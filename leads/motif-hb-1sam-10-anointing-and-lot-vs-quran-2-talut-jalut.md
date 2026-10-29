@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-10-anointing-and-lot-vs-quran-2-talut-jalut
 title: Saul anointed, prophesies, and is chosen by lot at Mizpah ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 2 motifs: objection raised against the newly chosen king [divergence between
-  the texts], the chosen king is taller than all the people from the shoulders up.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,75 +14,9 @@ layers:
 motifs:
 - objection-to-the-new-king-as-divergence
 - tallest-man-chosen-king
-passages:
-- tradition: judaism
-  ref: 1Sam 10:23
-  note: 'Objection raised against the newly chosen king [divergence between the texts] (1Sam 10:27 û-bĕnê
-    bĕliyyaʿal ʾāmĕrû mah yōšīʿēnû zeh wa-yyibzuhû wĕ-lōʾ hēbîʾû lô minḥâ: worthless men scorn him, ''how
-    can this one save us?'', and Saul keeps silent; Q 2:247 qālū annā yakūnu lahu l-mulku ʿalaynā wa-naḥnu
-    aḥaqqu bi-l-mulki minhu wa-lam yuʾta saʿatan mina l-māl: the people object that he has no wealth and
-    they have more right, and the prophet answers inna llāha ṣṭafāhu ʿalaykum. A doubt about saving power
-    becomes a claim of wealth and rank.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּרֻ֨צוּ֙ וַיִּקָּחֻ֣הוּ מִשָּׁ֔ם וַיִּתְיַצֵּ֖ב בְּת֣וֹךְ הָעָ֑ם וַיִּגְבַּהּ֙ מִכָּל הָעָ֔ם
-    מִשִּׁכְמ֖וֹ וָמָֽעְלָה
-- tradition: judaism
-  ref: 1Sam 10:27
-  note: 'Objection raised against the newly chosen king [divergence between the texts] (1Sam 10:27 û-bĕnê
-    bĕliyyaʿal ʾāmĕrû mah yōšīʿēnû zeh wa-yyibzuhû wĕ-lōʾ hēbîʾû lô minḥâ: worthless men scorn him, ''how
-    can this one save us?'', and Saul keeps silent; Q 2:247 qālū annā yakūnu lahu l-mulku ʿalaynā wa-naḥnu
-    aḥaqqu bi-l-mulki minhu wa-lam yuʾta saʿatan mina l-māl: the people object that he has no wealth and
-    they have more right, and the prophet answers inna llāha ṣṭafāhu ʿalaykum. A doubt about saving power
-    becomes a claim of wealth and rank.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵ֧י בְלִיַּ֣עַל אָמְר֗וּ מַה יֹּשִׁעֵ֨נוּ֙ זֶ֔ה וַיִּבְזֻ֕הוּ וְלֹֽא הֵבִ֥יאוּ ל֖וֹ מִנְחָ֑ה
-    וַיְהִ֖י כְּמַחֲרִֽישׁ
-- tradition: islam
-  ref: Quran 2:247
-  note: 'Objection raised against the newly chosen king [divergence between the texts] (1Sam 10:27 û-bĕnê
-    bĕliyyaʿal ʾāmĕrû mah yōšīʿēnû zeh wa-yyibzuhû wĕ-lōʾ hēbîʾû lô minḥâ: worthless men scorn him, ''how
-    can this one save us?'', and Saul keeps silent; Q 2:247 qālū annā yakūnu lahu l-mulku ʿalaynā wa-naḥnu
-    aḥaqqu bi-l-mulki minhu wa-lam yuʾta saʿatan mina l-māl: the people object that he has no wealth and
-    they have more right, and the prophet answers inna llāha ṣṭafāhu ʿalaykum. A doubt about saving power
-    becomes a claim of wealth and rank.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
-    يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ
-    قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ وَٱللَّهُ
-    يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
-- tradition: judaism
-  ref: 1Sam 10:23
-  note: The chosen king is taller than all the people from the shoulders up
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּרֻ֨צוּ֙ וַיִּקָּחֻ֣הוּ מִשָּׁ֔ם וַיִּתְיַצֵּ֖ב בְּת֣וֹךְ הָעָ֑ם וַיִּגְבַּהּ֙ מִכָּל הָעָ֔ם
-    מִשִּׁכְמ֖וֹ וָמָֽעְלָה
-- tradition: judaism
-  ref: 1Sam 10:24
-  note: The chosen king is taller than all the people from the shoulders up
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר שְׁמוּאֵ֜ל אֶל כָּל הָעָ֗ם הַרְּאִיתֶם֙ אֲשֶׁ֣ר בָּֽחַר בּ֣וֹ יְהוָ֔ה כִּ֛י אֵ֥ין כָּמֹ֖הוּ
-    בְּכָל הָעָ֑ם וַיָּרִ֧עוּ כָל הָעָ֛ם וַיֹּאמְר֖וּ יְחִ֥י הַמֶּֽלֶךְ
-- tradition: islam
-  ref: Quran 2:247
-  note: The chosen king is taller than all the people from the shoulders up (basta fil-jism)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
-    يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ ٱلْمَالِ
-    قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ وَٱللَّهُ
-    يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. 1Sam 10:27 û-bĕnê bĕliyyaʿal ʾāmĕrû mah yōšīʿēnû zeh wa-yyibzuhû wĕ-lōʾ hēbîʾû lô minḥâ:
-    worthless men scorn him, ''how can this one save us?'', and Saul keeps silent; Q 2:247 qālū annā yakūnu
-    lahu l-mulku ʿalaynā wa-naḥnu aḥaqqu bi-l-mulki minhu wa-lam yuʾta saʿatan mina l-māl: the people
-    object that he has no wealth and they have more right, and the prophet answers inna llāha ṣṭafāhu
-    ʿalaykum. A doubt about saving power becomes a claim of wealth and rank.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Objection raised against the newly chosen king [divergence between
     the texts] (weight 6.7); The chosen king is taller than all the people from the shoulders up (weight
@@ -117,6 +50,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Objection raised against the newly chosen king
+kinds:
+- divergence
+- shared
+units:
+- id: hb-1sam-10-anointing-and-lot
+  title: Saul anointed, prophesies, and is chosen by lot at Mizpah
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Objection raised against the newly chosen king
+  note: '1Sam 10:27 û-bĕnê bĕliyyaʿal ʾāmĕrû mah yōšīʿēnû zeh wa-yyibzuhû wĕ-lōʾ hēbîʾû lô minḥâ: worthless
+    men scorn him, ''how can this one save us?'', and Saul keeps silent; Q 2:247 qālū annā yakūnu lahu
+    l-mulku ʿalaynā wa-naḥnu aḥaqqu bi-l-mulki minhu wa-lam yuʾta saʿatan mina l-māl: the people object
+    that he has no wealth and they have more right, and the prophet answers inna llāha ṣṭafāhu ʿalaykum.
+    A doubt about saving power becomes a claim of wealth and rank.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 10:23
+      lang: he
+      text: וַיָּרֻ֨צוּ֙ וַיִּקָּחֻ֣הוּ מִשָּׁ֔ם וַיִּתְיַצֵּ֖ב בְּת֣וֹךְ הָעָ֑ם וַיִּגְבַּהּ֙ מִכָּל
+        הָעָ֔ם מִשִּׁכְמ֖וֹ וָמָֽעְלָה
+    - ref: 1Sam 10:27
+      lang: he
+      text: וּבְנֵ֧י בְלִיַּ֣עַל אָמְר֗וּ מַה יֹּשִׁעֵ֨נוּ֙ זֶ֔ה וַיִּבְזֻ֕הוּ וְלֹֽא הֵבִ֥יאוּ ל֖וֹ מִנְחָ֑ה
+        וַיְהִ֖י כְּמַחֲרִֽישׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:247
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
+        يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ
+        ٱلْمَالِ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ
+        وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+- kind: shared
+  label: The chosen king is taller than all the people from the shoulders up
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 10:23
+      lang: he
+      text: וַיָּרֻ֨צוּ֙ וַיִּקָּחֻ֣הוּ מִשָּׁ֔ם וַיִּתְיַצֵּ֖ב בְּת֣וֹךְ הָעָ֑ם וַיִּגְבַּהּ֙ מִכָּל
+        הָעָ֔ם מִשִּׁכְמ֖וֹ וָמָֽעְלָה
+    - ref: 1Sam 10:24
+      lang: he
+      text: וַיֹּ֨אמֶר שְׁמוּאֵ֜ל אֶל כָּל הָעָ֗ם הַרְּאִיתֶם֙ אֲשֶׁ֣ר בָּֽחַר בּ֣וֹ יְהוָ֔ה כִּ֛י אֵ֥ין
+        כָּמֹ֖הוּ בְּכָל הָעָ֑ם וַיָּרִ֧עוּ כָל הָעָ֛ם וַיֹּאמְר֖וּ יְחִ֥י הַמֶּֽלֶךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:247
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا قَالُوٓا۟ أَنَّىٰ
+        يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِّنَ
+        ٱلْمَالِ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةً فِى ٱلْعِلْمِ وَٱلْجِسْمِ
+        وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+    note: basta fil-jism
 ---
 
 ## Questions

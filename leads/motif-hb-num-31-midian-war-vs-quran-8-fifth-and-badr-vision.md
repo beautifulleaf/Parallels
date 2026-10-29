@@ -2,8 +2,7 @@
 id: motif-hb-num-31-midian-war-vs-quran-8-fifth-and-badr-vision
 title: War against Midian and division of the spoils ↔ The fifth of the spoils, the dream of few, Satan's
   desertion
-summary: 'These two units share 2 motifs: god''s share of the spoils of war [divergence between the texts],
-  spoils divided half to warriors, half to community, with a levy for god.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,70 +15,9 @@ layers:
 motifs:
 - gods-share-of-war-booty-as-divergence
 - division-of-spoils
-passages:
-- tradition: judaism
-  ref: Num 31:27
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s claim on the spoils:
-    in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi wa-r-rasūl), with the division
-    of 8:41 still to come; in Num a fixed levy goes to God through the priest (wahărēmōtā mekes laYHWH
-    ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the rest is halved between fighters
-    and community.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כָּל
-    הָעֵדָֽה
-- tradition: judaism
-  ref: Num 31:28
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s claim on the spoils:
-    in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi wa-r-rasūl), with the division
-    of 8:41 still to come; in Num a fixed levy goes to God through the priest (wahărēmōtā mekes laYHWH
-    ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the rest is halved between fighters
-    and community.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ
-    מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
-- tradition: islam
-  ref: Quran 8:41
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s share of the booty is
-    fixed by rule: in Q a fifth (khumusahu); in Num one in five hundred from the fighters'' half for the
-    priest (ʾeḥād nepeš mēḥămēš hammēʾôt) and one in fifty from the community''s half for the Levites
-    (ʾeḥād ʾāḥuz min-haḥămiššîm).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا
-    عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Num 31:27
-  note: Spoils divided half to warriors, half to community, with a levy for God (1/500 from warriors to
-    the priest, 1/50 from community to Levites; 675,000 sheep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כָּל
-    הָעֵדָֽה
-- tradition: judaism
-  ref: Num 31:28
-  note: Spoils divided half to warriors, half to community, with a levy for God (1/500 from warriors to
-    the priest, 1/50 from community to Levites; 675,000 sheep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ
-    מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
-- tradition: islam
-  ref: Quran 8:41
-  note: Spoils divided half to warriors, half to community, with a levy for God (God's levy (cf. Num 31:28-30)
-    here a fifth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا
-    عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God''s share of the booty is fixed by rule: in Q a fifth (khumusahu); in Num one in five
-    hundred from the fighters'' half for the priest (ʾeḥād nepeš mēḥămēš hammēʾôt) and one in fifty from
-    the community''s half for the Levites (ʾeḥād ʾāḥuz min-haḥămiššîm).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s share of the spoils of war [divergence between the texts]
     (weight 6.3); Spoils divided half to warriors, half to community, with a levy for God (weight 6.3).
@@ -111,6 +49,71 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's share of the spoils of war
+kinds:
+- divergence
+- shared
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-8-fifth-and-badr-vision
+  title: The fifth of the spoils, the dream of few, Satan's desertion
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's share of the spoils of war
+  note: 'God''s share of the booty is fixed by rule: in Q a fifth (khumusahu); in Num one in five hundred
+    from the fighters'' half for the priest (ʾeḥād nepeš mēḥămēš hammēʾôt) and one in fifty from the community''s
+    half for the Levites (ʾeḥād ʾāḥuz min-haḥămiššîm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:28
+      lang: he
+      text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד
+        נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
+    - ref: Num 31:30
+      lang: he
+      text: וּמִמַּחֲצִ֨ת בְּנֵֽי יִשְׂרָאֵ֜ל תִּקַּ֣ח אֶחָ֣ד אָחֻ֣ז מִן הַחֲמִשִּׁ֗ים מִן הָאָדָ֧ם מִן
+        הַבָּקָ֛ר מִן הַחֲמֹרִ֥ים וּמִן הַצֹּ֖אן מִכָּל הַבְּהֵמָ֑ה וְנָתַתָּ֤ה אֹתָם֙ לַלְוִיִּ֔ם שֹׁמְרֵ֕י
+        מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:41
+      lang: ar
+      text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ
+        وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+- kind: shared
+  label: Spoils divided half to warriors, half to community, with a levy for God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:27
+      lang: he
+      text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין
+        כָּל הָעֵדָֽה
+    - ref: Num 31:28
+      lang: he
+      text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד
+        נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
+    - ref: Num 31:30
+      lang: he
+      text: וּמִמַּחֲצִ֨ת בְּנֵֽי יִשְׂרָאֵ֜ל תִּקַּ֣ח אֶחָ֣ד אָחֻ֣ז מִן הַחֲמִשִּׁ֗ים מִן הָאָדָ֧ם מִן
+        הַבָּקָ֛ר מִן הַחֲמֹרִ֥ים וּמִן הַצֹּ֖אן מִכָּל הַבְּהֵמָ֑ה וְנָתַתָּ֤ה אֹתָם֙ לַלְוִיִּ֔ם שֹׁמְרֵ֕י
+        מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן יְהוָֽה
+    note: 1/500 from warriors to the priest, 1/50 from community to Levites; 675,000 sheep
+  - tradition: islam
+    passages:
+    - ref: Quran 8:41
+      lang: ar
+      text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ
+        وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+    note: God's levy (cf. Num 31:28-30) here a fifth
 ---
 
 ## Questions

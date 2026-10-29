@@ -2,8 +2,7 @@
 id: motif-hb-ps-29-voice-of-yhwh-vs-quran-11-opening-throne-on-water
 title: Psalm 29 - the voice of YHWH over the waters ↔ The Book made firm, the Throne on the water, the
   challenge of ten surahs
-summary: 'These two units share 1 motifs: yhwh sat enthroned over the flood (mabbul); yhwh sits as king
-  forever.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - enthroned-over-the-flood
-passages:
-- tradition: judaism
-  ref: Ps 29:10
-  note: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְ֭הוָה לַמַּבּ֣וּל יָשָׁ֑ב וַיֵּ֥שֶׁב יְ֝הוָ֗ה מֶ֣לֶךְ לְעוֹלָֽם
-- tradition: judaism
-  ref: Ps 29:3
-  note: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֥וֹל יְהוָ֗ה עַל הַ֫מָּ֥יִם אֵֽל הַכָּב֥וֹד הִרְעִ֑ים יְ֝הוָ֗ה עַל מַ֥יִם רַבִּֽים
-- tradition: islam
-  ref: Quran 11:7
-  note: 'YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever (God enthroned over the
-    waters: wa-kāna ʿarshuhu ʿalā l-māʾ vs YHWH lammabbûl yāšāb wayyēšeb YHWH melek lᵉʿôlām; qôl YHWH
-    ʿal-hammāyim. Ps over the flood-waters (mabbûl); Q over the water before creation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى ٱلْمَآءِ
-    لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ بَعْدِ ٱلْمَوْتِ
-    لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. God enthroned over the waters: wa-kāna ʿarshuhu ʿalā l-māʾ vs YHWH lammabbûl yāšāb wayyēšeb
-    YHWH melek lᵉʿôlām; qôl YHWH ʿal-hammāyim. Ps over the flood-waters (mabbûl); Q over the water before
-    creation.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
     (weight 6.7). Pair score 6.7.'
@@ -78,6 +52,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
+kinds:
+- parallel
+units:
+- id: hb-ps-29-voice-of-yhwh
+  title: Psalm 29 - the voice of YHWH over the waters
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: parallel
+  label: YHWH sat enthroned over the flood (mabbul); YHWH sits as king forever
+  note: 'God enthroned over the waters: wa-kāna ʿarshuhu ʿalā l-māʾ vs YHWH lammabbûl yāšāb wayyēšeb YHWH
+    melek lᵉʿôlām; qôl YHWH ʿal-hammāyim. Ps over the flood-waters (mabbûl); Q over the water before creation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 29:3
+      lang: he
+      text: ק֥וֹל יְהוָ֗ה עַל הַ֫מָּ֥יִם אֵֽל הַכָּב֥וֹד הִרְעִ֑ים יְ֝הוָ֗ה עַל מַ֥יִם רַבִּֽים
+    - ref: Ps 29:10
+      lang: he
+      text: יְ֭הוָה לַמַּבּ֣וּל יָשָׁ֑ב וַיֵּ֥שֶׁב יְ֝הוָ֗ה מֶ֣לֶךְ לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 11:7
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ فِى سِتَّةِ أَيَّامٍ وَكَانَ عَرْشُهُۥ عَلَى
+        ٱلْمَآءِ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا وَلَئِن قُلْتَ إِنَّكُم مَّبْعُوثُونَ مِنۢ
+        بَعْدِ ٱلْمَوْتِ لَيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓا۟ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
 ---
 
 ## Questions

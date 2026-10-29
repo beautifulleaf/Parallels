@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-84-splitting
 title: 'Song of the strong city; your dead shall live ↔ The splitting: the book in the right hand'
-summary: 'These two units share 1 motifs: at the end the earth is stretched out, casts out what is in
-  it (its burdens) and empties itself.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +13,9 @@ layers:
 - motif
 motifs:
 - earth-casts-out-its-contents
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-    (wa-alqat mā fīhā wa-takhallat ~ wā-ʾāreṣ refāʾîm tappîl; we-gilletāh hā-ʾāreṣ ʾet dāmêhā.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: judaism
-  ref: Isa 26:21
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-    (wa-alqat mā fīhā wa-takhallat ~ wā-ʾāreṣ refāʾîm tappîl; we-gilletāh hā-ʾāreṣ ʾet dāmêhā.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
-    הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
-- tradition: islam
-  ref: Quran 84:3
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلْأَرْضُ مُدَّتْ
-- tradition: islam
-  ref: Quran 84:4
-  note: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-alqat mā fīhā wa-takhallat ~ wā-ʾāreṣ refāʾîm tappîl; we-gilletāh hā-ʾāreṣ ʾet dāmêhā.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At the end the earth is stretched out, casts out what is in it (its
     burdens) and empties itself (weight 6.0). Pair score 6.0.'
@@ -81,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-84-splitting
+  title: 'The splitting: the book in the right hand'
+  tradition: islam
+matches:
+- kind: echo
+  label: At the end the earth is stretched out, casts out what is in it (its burdens) and empties itself
+  note: wa-alqat mā fīhā wa-takhallat ~ wā-ʾāreṣ refāʾîm tappîl; we-gilletāh hā-ʾāreṣ ʾet dāmêhā.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+    - ref: Isa 26:21
+      lang: he
+      text: כִּֽי הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֺ֥ן יֹֽשֵׁב הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה
+        הָאָ֨רֶץ֙ אֶת דָּמֶ֔יהָ וְלֹֽא תְכַסֶּ֥ה ע֖וֹד עַל הֲרוּגֶֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 84:3
+      lang: ar
+      text: وَإِذَا ٱلْأَرْضُ مُدَّتْ
+    - ref: Quran 84:4
+      lang: ar
+      text: وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ
 ---
 
 ## Questions

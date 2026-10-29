@@ -2,7 +2,7 @@
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-64-taghabun-day-of-loss-and-household-enemies
 title: 'A new exodus from the north; fishers and hunters ↔ Al-Taghabun: forms made beautiful, the Day
   of Mutual Loss, enemies among wives and children, and the goodly loan'
-summary: 'These two units share 1 motifs: god alone knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: Jer 16:17
-  note: God alone knows the hearts of all humans (my eyes are on all their ways; their iniquity is not
-    hidden)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם מִנֶּ֥גֶד
-    עֵינָֽי
-- tradition: islam
-  ref: Quran 64:4
-  note: God alone knows the hearts of all humans
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ وَٱللَّهُ
-    عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yaʿlamu mā tusirrūna wa-mā tuʿlinūn ~ kî ʿênay ʿal kol darkêhem lōʾ nisterû mi-lpānāy.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
     5.0.'
@@ -68,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- echo
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-64-taghabun-day-of-loss-and-household-enemies
+  title: 'Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
+    and the goodly loan'
+  tradition: islam
+matches:
+- kind: echo
+  label: God alone knows the hearts of all humans
+  note: yaʿlamu mā tusirrūna wa-mā tuʿlinūn ~ kî ʿênay ʿal kol darkêhem lōʾ nisterû mi-lpānāy.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:17
+      lang: he
+      text: כִּ֤י עֵינַי֙ עַל כָּל דַּרְכֵיהֶ֔ם לֹ֥א נִסְתְּר֖וּ מִלְּפָנָ֑י וְלֹֽא נִצְפַּ֥ן עֲוֺנָ֖ם
+        מִנֶּ֥גֶד עֵינָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 64:4
+      lang: ar
+      text: يَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَيَعْلَمُ مَا تُسِرُّونَ وَمَا تُعْلِنُونَ وَٱللَّهُ
+        عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

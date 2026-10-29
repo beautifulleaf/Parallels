@@ -2,8 +2,7 @@
 id: motif-hb-isa-65-new-heavens-new-earth-vs-quran-52-tur-garden-and-challenge
 title: 'New heavens and a new earth ↔ The Garden: offspring joined with parents, the cup without idle
   talk, youths like pearls; the run of ''or...?'' challenges'
-summary: 'These two units share 1 motifs: believers'' offspring who followed them in faith are joined
-  with them in paradise, without loss of reward; each is pledged for what he earned.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - offspring-joined-with-parents-in-paradise
-passages:
-- tradition: judaism
-  ref: Isa 65:23
-  note: 'Believers'' offspring who followed them in faith are joined with them in paradise, without loss
-    of reward; each is pledged for what he earned (The blessed together with their descendants: kî zeraʿ
-    bərûḵê YHWH hēmmâ wə-ṣeʾĕṣāʾêhem ʾittām vs. wa-lladhīna āmanū wa-ttabaʿathum dhurriyyatuhum bi-īmānin
-    alḥaqnā bihim dhurriyyatahum (zeraʿ ~ dhurriyya). Isaiah: the descendants live with them in the renewed
-    Jerusalem; the Quran: believing offspring are joined to them in the Garden, provided they followed
-    in faith, and each is pledged for his own deeds (kullu mriʾin bi-mā kasaba rahīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֤א יִֽיגְעוּ֙ לָרִ֔יק וְלֹ֥א יֵלְד֖וּ לַבֶּהָלָ֑ה כִּ֣י זֶ֜רַע בְּרוּכֵ֤י יְהוָה֙ הֵ֔מָּה וְצֶאֱצָאֵיהֶ֖ם
-    אִתָּֽם
-- tradition: islam
-  ref: Quran 52:21
-  note: Believers' offspring who followed them in faith are joined with them in paradise, without loss
-    of reward; each is pledged for what he earned
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ
-    وَمَآ أَلَتْنَٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. The blessed together with their descendants: kî zeraʿ bərûḵê YHWH hēmmâ wə-ṣeʾĕṣāʾêhem ʾittām
-    vs. wa-lladhīna āmanū wa-ttabaʿathum dhurriyyatuhum bi-īmānin alḥaqnā bihim dhurriyyatahum (zeraʿ
-    ~ dhurriyya). Isaiah: the descendants live with them in the renewed Jerusalem; the Quran: believing
-    offspring are joined to them in the Garden, provided they followed in faith, and each is pledged for
-    his own deeds (kullu mriʾin bi-mā kasaba rahīn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believers'' offspring who followed them in faith are joined with
     them in paradise, without loss of reward; each is pledged for what he earned (weight 6.7). Pair score
@@ -78,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Believers' offspring who followed them in faith are joined with them in paradise, without loss
+  of reward; each is pledged for what he earned
+kinds:
+- echo
+units:
+- id: hb-isa-65-new-heavens-new-earth
+  title: New heavens and a new earth
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: echo
+  label: Believers' offspring who followed them in faith are joined with them in paradise, without loss
+    of reward; each is pledged for what he earned
+  note: 'The blessed together with their descendants: kî zeraʿ bərûḵê YHWH hēmmâ wə-ṣeʾĕṣāʾêhem ʾittām
+    vs. wa-lladhīna āmanū wa-ttabaʿathum dhurriyyatuhum bi-īmānin alḥaqnā bihim dhurriyyatahum (zeraʿ
+    ~ dhurriyya). Isaiah: the descendants live with them in the renewed Jerusalem; the Quran: believing
+    offspring are joined to them in the Garden, provided they followed in faith, and each is pledged for
+    his own deeds (kullu mriʾin bi-mā kasaba rahīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 65:23
+      lang: he
+      text: לֹ֤א יִֽיגְעוּ֙ לָרִ֔יק וְלֹ֥א יֵלְד֖וּ לַבֶּהָלָ֑ה כִּ֣י זֶ֜רַע בְּרוּכֵ֤י יְהוָה֙ הֵ֔מָּה
+        וְצֶאֱצָאֵיהֶ֖ם אִתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 52:21
+      lang: ar
+      text: وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ
+        وَمَآ أَلَتْنَٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ
 ---
 
 ## Questions

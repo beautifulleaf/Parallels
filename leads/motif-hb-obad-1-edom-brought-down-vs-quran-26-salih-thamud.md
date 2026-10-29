@@ -1,8 +1,7 @@
 ---
 id: motif-hb-obad-1-edom-brought-down-vs-quran-26-salih-thamud
 title: Obadiah's vision against Edom's pride ↔ Salih, the rock-hewn houses of Thamud and the she-camel
-summary: 'These two units share 1 motifs: edom dwells in the clefts of the rock (sela) and thinks no one
-  can bring it down.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +14,9 @@ layers:
 - motif
 motifs:
 - edom-dwells-in-clefts-of-rock
-passages:
-- tradition: judaism
-  ref: Obad 1:3
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (hagwei sela,
-    punning on Sela/Petra)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
-    מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
-- tradition: judaism
-  ref: Obad 1:4
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (hagwei sela,
-    punning on Sela/Petra)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
-    נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 26:149
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (rock-cut dwellings
-    (cf. Nabataean Hegra/Petra))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَٰرِهِينَ
-- tradition: islam
-  ref: Quran 26:146
-  note: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down (rock-cut dwellings
-    (cf. Nabataean Hegra/Petra))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتُتْرَكُونَ فِى مَا هَٰهُنَآ ءَامِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. a-tutrakūna fī mā hāhunā āminīna ... wa-tanḥitūna mina l-jibāli buyūtan fārihīna ~ šōkhnî
-    və-ḥagwê selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôrīdēnî ʾāreṣ: a people secure in dwellings cut into
-    the rock who think nothing can reach them, and whom God brings down (miššām ʾôrîdəkā). Edom in Obadiah,
-    Thamūd in the Quran, both peoples of the rock-cut country south and east of Israel.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Edom dwells in the clefts of the rock (sela) and thinks no one can
     bring it down (weight 6.3). Pair score 6.3.'
@@ -80,6 +45,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down
+kinds:
+- parallel
+units:
+- id: hb-obad-1-edom-brought-down
+  title: Obadiah's vision against Edom's pride
+  tradition: judaism
+- id: quran-26-salih-thamud
+  title: Salih, the rock-hewn houses of Thamud and the she-camel
+  tradition: islam
+matches:
+- kind: parallel
+  label: Edom dwells in the clefts of the rock (sela) and thinks no one can bring it down
+  note: 'a-tutrakūna fī mā hāhunā āminīna ... wa-tanḥitūna mina l-jibāli buyūtan fārihīna ~ šōkhnî və-ḥagwê
+    selaʿ mərôm šivtô ʾōmēr bə-libbô mî yôrīdēnî ʾāreṣ: a people secure in dwellings cut into the rock
+    who think nothing can reach them, and whom God brings down (miššām ʾôrîdəkā). Edom in Obadiah, Thamūd
+    in the Quran, both peoples of the rock-cut country south and east of Israel.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:3
+      lang: he
+      text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
+        מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
+    - ref: Obad 1:4
+      lang: he
+      text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
+        נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 26:146
+      lang: ar
+      text: أَتُتْرَكُونَ فِى مَا هَٰهُنَآ ءَامِنِينَ
+    - ref: Quran 26:149
+      lang: ar
+      text: وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَٰرِهِينَ
 ---
 
 ## Questions

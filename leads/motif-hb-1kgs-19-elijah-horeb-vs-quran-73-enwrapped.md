@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1kgs-19-elijah-horeb-vs-quran-73-enwrapped
 title: 'Elijah flees to Horeb; the still small voice ↔ The enwrapped one: the night vigil'
-summary: 'These two units share 1 motifs: prophet wraps his face in his mantle on hearing god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,26 +13,9 @@ layers:
 - motif
 motifs:
 - prophet-wraps-face-in-mantle
-passages:
-- tradition: judaism
-  ref: 1Kgs 19:13
-  note: Prophet wraps his face in his mantle on hearing God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י כִּשְׁמֹ֣עַ אֵלִיָּ֗הוּ וַיָּ֤לֶט פָּנָיו֙ בְּאַדַּרְתּ֔וֹ וַיֵּצֵ֕א וַֽיַּעֲמֹ֖ד פֶּ֣תַח
-    הַמְּעָרָ֑ה וְהִנֵּ֤ה אֵלָיו֙ ק֔וֹל וַיֹּ֕אמֶר מַה לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ
-- tradition: islam
-  ref: Quran 73:1
-  note: Prophet wraps his face in his mantle on hearing God (addressed as al-muzzammil, 'the one wrapped
-    in garments')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yā-ayyuhā l-muzzammil (O you wrapped up) ~ wa-yyālet pānāyw be-ʾaddartô (Elijah wraps his face
-    in his mantle when he hears the voice). The wrapped prophet at the moment of revelation; the Quran
-    names him by it, Kings describes the act.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet wraps his face in his mantle on hearing God (weight 6.3).
     Pair score 6.3.'
@@ -68,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet wraps his face in his mantle on hearing God
+kinds:
+- echo
+units:
+- id: hb-1kgs-19-elijah-horeb
+  title: Elijah flees to Horeb; the still small voice
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet wraps his face in his mantle on hearing God
+  note: yā-ayyuhā l-muzzammil (O you wrapped up) ~ wa-yyālet pānāyw be-ʾaddartô (Elijah wraps his face
+    in his mantle when he hears the voice). The wrapped prophet at the moment of revelation; the Quran
+    names him by it, Kings describes the act.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 19:13
+      lang: he
+      text: וַיְהִ֣י כִּשְׁמֹ֣עַ אֵלִיָּ֗הוּ וַיָּ֤לֶט פָּנָיו֙ בְּאַדַּרְתּ֔וֹ וַיֵּצֵ֕א וַֽיַּעֲמֹ֖ד
+        פֶּ֣תַח הַמְּעָרָ֑ה וְהִנֵּ֤ה אֵלָיו֙ ק֔וֹל וַיֹּ֕אמֶר מַה לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 73:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ
 ---
 
 ## Questions

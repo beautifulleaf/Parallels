@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-19-sayings-vs-quran-73-enwrapped
 title: 'Sayings on the poor, the king''s wrath and the sluggard ↔ The enwrapped one: the night vigil'
-summary: 'These two units share 1 motifs: who will lend god a goodly loan (qard hasan), that he may multiply
-  it for him?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - goodly-loan-to-god-doubled
-passages:
-- tradition: judaism
-  ref: Prov 19:17
-  note: 'Who will lend God a goodly loan (qard hasan), that he may multiply it for him? (in tuqriḍū llāha
-    qarḍan ḥasanan yuḍāʿifhu lakum ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô: giving is a loan to God
-    that he repays. The Quran says ''doubles it''; Proverbs specifies the loan is mercy to the poor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
-- tradition: islam
-  ref: Quran 73:20
-  note: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ
-    وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ
-    فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ
-    وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى
-    سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ
-    وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ
-    ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-aqriḍū llāha qarḍan ḥasanan wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāh
-    ~ malwēh YHWH ḥônēn dāl û-gemulô yešallem lô.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who will lend God a goodly loan (qard hasan), that he may multiply
     it for him? (weight 5.4). Pair score 5.4.'
@@ -75,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+kinds:
+- parallel
+units:
+- id: hb-prov-19-sayings
+  title: Sayings on the poor, the king's wrath and the sluggard
+  tradition: judaism
+- id: quran-73-enwrapped
+  title: 'The enwrapped one: the night vigil'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Who will lend God a goodly loan (qard hasan), that he may multiply it for him?
+  note: wa-aqriḍū llāha qarḍan ḥasanan wa-mā tuqaddimū li-anfusikum min khayrin tajidūhu ʿinda llāh ~
+    malwēh YHWH ḥônēn dāl û-gemulô yešallem lô.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 19:17
+      lang: he
+      text: מַלְוֵ֣ה יְ֭הוָה ח֣וֹנֵֽן דָּ֑ל וּ֝גְמֻל֗וֹ יְשַׁלֶּם לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 73:20
+      lang: ar
+      text: إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ
+        وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن
+        تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ
+        مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ
+        يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟
+        ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ
+        تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ
+        غَفُورٌ رَّحِيمٌۢ
 ---
 
 ## Questions

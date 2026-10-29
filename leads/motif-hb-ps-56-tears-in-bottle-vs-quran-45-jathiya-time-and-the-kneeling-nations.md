@@ -2,8 +2,7 @@
 id: motif-hb-ps-56-tears-in-bottle-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Psalm 56, when the Philistines seized David in Gath ↔ Desire as god, 'only Time destroys us', and
   every nation kneeling before its book
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 56:9
-  note: God keeps a book in which names are written and from which sinners are blotted (God's record (sifrah)
-    of the sufferer's wanderings)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
-- tradition: islam
-  ref: Quran 45:28
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً كُلُّ أُمَّةٍ تُدْعَىٰٓ إِلَىٰ كِتَٰبِهَا ٱلْيَوْمَ تُجْزَوْنَ
-    مَا كُنتُمْ تَعْمَلُونَ
-- tradition: islam
-  ref: Quran 45:29
-  note: God keeps a book in which names are written and from which sinners are blotted (a ledger of deeds
-    rather than of names)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. nōḏî sāp̄artâ ʾāttâ śîmâ ḏimʿāṯî ḇə-nōʾḏeḵā hă-lōʾ bə-sip̄rāṯeḵā (my wanderings counted, my
-    tears in your bottle, in your book) vs. hādhā kitābunā yanṭiqu ʿalaykum bi-l-ḥaqq: God''s record of
-    a sufferer''s tears for his comfort, versus the record of the deniers'' deeds against them.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -76,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-56-tears-in-bottle
+  title: Psalm 56, when the Philistines seized David in Gath
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'nōḏî sāp̄artâ ʾāttâ śîmâ ḏimʿāṯî ḇə-nōʾḏeḵā hă-lōʾ bə-sip̄rāṯeḵā (my wanderings counted, my tears
+    in your bottle, in your book) vs. hādhā kitābunā yanṭiqu ʿalaykum bi-l-ḥaqq: God''s record of a sufferer''s
+    tears for his comfort, versus the record of the deniers'' deeds against them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 56:9
+      lang: he
+      text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:29
+      lang: ar
+      text: هَٰذَا كِتَٰبُنَا يَنطِقُ عَلَيْكُم بِٱلْحَقِّ إِنَّا كُنَّا نَسْتَنسِخُ مَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

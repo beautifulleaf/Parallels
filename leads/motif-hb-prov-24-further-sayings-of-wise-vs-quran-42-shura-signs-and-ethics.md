@@ -2,8 +2,7 @@
 id: motif-hb-prov-24-further-sayings-of-wise-vs-quran-42-shura-signs-and-ethics
 title: '''These also are of the wise'': judgment, retaliation and the sluggard''s field ↔ Provision in
   measure, rain, ships like mountains and the ethics of consultation and pardon'
-summary: 'These two units share 2 motifs: whether one may pay back a wrong in kind [divergence between
-  the texts], do not say ''i will do to him as he has done to me; i will pay the man back for his deed''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,56 +15,9 @@ layers:
 motifs:
 - retaliating-in-kind-as-divergence
 - renounce-retaliation
-passages:
-- tradition: judaism
-  ref: Prov 24:29
-  note: 'Whether one may pay back a wrong in kind [divergence between the texts] (ʾal tōʾmar ka-ʾăšer
-    ʿāśâ lî kēn ʾeʿĕśeh lô ʾāšîḇ lā-ʾîš kə-p̄āʿŏlô forbids repaying in kind. The Quran keeps the right:
-    wa-la-mani ntaṣara baʿda ẓulmihi fa-ulāʾika mā ʿalayhim min sabīl (42:41), and only praises the one
-    who refrains: wa-la-man ṣabara wa-ghafara inna dhālika la-min ʿazmi l-umūr (42:43). A ban in Proverbs,
-    a preference in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה לִ֭י כֵּ֤ן אֶֽעֱשֶׂה לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפָעֳלֽוֹ
-- tradition: islam
-  ref: Quran 42:41
-  note: 'Whether one may pay back a wrong in kind [divergence between the texts] (ʾal tōʾmar ka-ʾăšer
-    ʿāśâ lî kēn ʾeʿĕśeh lô ʾāšîḇ lā-ʾîš kə-p̄āʿŏlô forbids repaying in kind. The Quran keeps the right:
-    wa-la-mani ntaṣara baʿda ẓulmihi fa-ulāʾika mā ʿalayhim min sabīl (42:41), and only praises the one
-    who refrains: wa-la-man ṣabara wa-ghafara inna dhālika la-min ʿazmi l-umūr (42:43). A ban in Proverbs,
-    a preference in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ
-- tradition: islam
-  ref: Quran 42:43
-  note: 'Whether one may pay back a wrong in kind [divergence between the texts] (ʾal tōʾmar ka-ʾăšer
-    ʿāśâ lî kēn ʾeʿĕśeh lô ʾāšîḇ lā-ʾîš kə-p̄āʿŏlô forbids repaying in kind. The Quran keeps the right:
-    wa-la-mani ntaṣara baʿda ẓulmihi fa-ulāʾika mā ʿalayhim min sabīl (42:41), and only praises the one
-    who refrains: wa-la-man ṣabara wa-ghafara inna dhālika la-min ʿazmi l-umūr (42:43). A ban in Proverbs,
-    a preference in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
-- tradition: judaism
-  ref: Prov 24:29
-  note: Do not say 'I will do to him as he has done to me; I will pay the man back for his deed'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה לִ֭י כֵּ֤ן אֶֽעֱשֶׂה לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפָעֳלֽוֹ
-- tradition: islam
-  ref: Quran 42:43
-  note: Do not say 'I will do to him as he has done to me; I will pay the man back for his deed' (patience
-    and forgiveness are 'of the resolve of affairs')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. ʾal tōʾmar ka-ʾăšer ʿāśâ lî kēn ʾeʿĕśeh lô ʾāšîḇ lā-ʾîš kə-p̄āʿŏlô forbids repaying in
-    kind. The Quran keeps the right: wa-la-mani ntaṣara baʿda ẓulmihi fa-ulāʾika mā ʿalayhim min sabīl
-    (42:41), and only praises the one who refrains: wa-la-man ṣabara wa-ghafara inna dhālika la-min ʿazmi
-    l-umūr (42:43). A ban in Proverbs, a preference in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether one may pay back a wrong in kind [divergence between the
     texts] (weight 6.7); Do not say ''I will do to him as he has done to me; I will pay the man back for
@@ -102,6 +54,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether one may pay back a wrong in kind
+kinds:
+- divergence
+- shared
+units:
+- id: hb-prov-24-further-sayings-of-wise
+  title: '''These also are of the wise'': judgment, retaliation and the sluggard''s field'
+  tradition: judaism
+- id: quran-42-shura-signs-and-ethics
+  title: Provision in measure, rain, ships like mountains and the ethics of consultation and pardon
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether one may pay back a wrong in kind
+  note: 'ʾal tōʾmar ka-ʾăšer ʿāśâ lî kēn ʾeʿĕśeh lô ʾāšîḇ lā-ʾîš kə-p̄āʿŏlô forbids repaying in kind.
+    The Quran keeps the right: wa-la-mani ntaṣara baʿda ẓulmihi fa-ulāʾika mā ʿalayhim min sabīl (42:41),
+    and only praises the one who refrains: wa-la-man ṣabara wa-ghafara inna dhālika la-min ʿazmi l-umūr
+    (42:43). A ban in Proverbs, a preference in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 24:29
+      lang: he
+      text: אַל תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה לִ֭י כֵּ֤ן אֶֽעֱשֶׂה לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפָעֳלֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:41
+      lang: ar
+      text: وَلَمَنِ ٱنتَصَرَ بَعْدَ ظُلْمِهِۦ فَأُو۟لَٰٓئِكَ مَا عَلَيْهِم مِّن سَبِيلٍ
+    - ref: Quran 42:43
+      lang: ar
+      text: وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
+- kind: shared
+  label: Do not say 'I will do to him as he has done to me; I will pay the man back for his deed'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 24:29
+      lang: he
+      text: אַל תֹּאמַ֗ר כַּאֲשֶׁ֣ר עָֽשָׂה לִ֭י כֵּ֤ן אֶֽעֱשֶׂה לּ֑וֹ אָשִׁ֖יב לָאִ֣ישׁ כְּפָעֳלֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 42:43
+      lang: ar
+      text: وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ
+    note: patience and forgiveness are 'of the resolve of affairs'
 ---
 
 ## Questions

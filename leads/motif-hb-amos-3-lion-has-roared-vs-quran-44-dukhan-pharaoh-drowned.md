@@ -2,8 +2,7 @@
 id: motif-hb-amos-3-lion-has-roared-vs-quran-44-dukhan-pharaoh-drowned
 title: '''You only have I known''; the lion has roared ↔ Moses asks Pharaoh to hand over God''s servants;
   the sea left parted; heaven did not weep'
-summary: 'These two units share 1 motifs: god chose the children of israel, knowingly, above the worlds
-  and tested them with signs.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - israel-chosen-knowingly-over-worlds
-passages:
-- tradition: judaism
-  ref: Amos 3:2
-  note: 'God chose the Children of Israel, knowingly, above the worlds and tested them with signs (Choice
-    as knowledge: raq ʾeṯḵem yāḏaʿtî mik-kōl mišpəḥôṯ hā-ʾăḏāmâ ʿal kēn ʾep̄qōḏ ʿălêḵem vs. ikhtarnāhum
-    ʿalā ʿilmin ʿalā l-ʿālamīn ... balāʾun mubīn. Both tie election to a heavier trial: Amos to punishment,
-    the Quran to a clear test (balāʾ).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֚ק אֶתְכֶ֣ם יָדַ֔עְתִּי מִכֹּ֖ל מִשְׁפְּח֣וֹת הָאֲדָמָ֑ה עַל כֵּן֙ אֶפְקֹ֣ד עֲלֵיכֶ֔ם אֵ֖ת כָּל
-    עֲוֺנֹֽתֵיכֶֽם
-- tradition: islam
-  ref: Quran 44:30
-  note: God chose the Children of Israel, knowingly, above the worlds and tested them with signs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ نَجَّيْنَا بَنِىٓ إِسْرَٰٓءِيلَ مِنَ ٱلْعَذَابِ ٱلْمُهِينِ
-- tradition: islam
-  ref: Quran 44:32
-  note: God chose the Children of Israel, knowingly, above the worlds and tested them with signs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Choice as knowledge: raq ʾeṯḵem yāḏaʿtî mik-kōl mišpəḥôṯ hā-ʾăḏāmâ ʿal kēn ʾep̄qōḏ ʿălêḵem vs.
-    ikhtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn ... balāʾun mubīn. Both tie election to a heavier trial: Amos
-    to punishment, the Quran to a clear test (balāʾ).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God chose the Children of Israel, knowingly, above the worlds and
     tested them with signs (weight 6.7). Pair score 6.7.'
@@ -76,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God chose the Children of Israel, knowingly, above the worlds and tested them with signs
+kinds:
+- echo
+units:
+- id: hb-amos-3-lion-has-roared
+  title: '''You only have I known''; the lion has roared'
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: echo
+  label: God chose the Children of Israel, knowingly, above the worlds and tested them with signs
+  note: 'Choice as knowledge: raq ʾeṯḵem yāḏaʿtî mik-kōl mišpəḥôṯ hā-ʾăḏāmâ ʿal kēn ʾep̄qōḏ ʿălêḵem vs.
+    ikhtarnāhum ʿalā ʿilmin ʿalā l-ʿālamīn ... balāʾun mubīn. Both tie election to a heavier trial: Amos
+    to punishment, the Quran to a clear test (balāʾ).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 3:2
+      lang: he
+      text: רַ֚ק אֶתְכֶ֣ם יָדַ֔עְתִּי מִכֹּ֖ל מִשְׁפְּח֣וֹת הָאֲדָמָ֑ה עַל כֵּן֙ אֶפְקֹ֣ד עֲלֵיכֶ֔ם אֵ֖ת
+        כָּל עֲוֺנֹֽתֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:32
+      lang: ar
+      text: وَلَقَدِ ٱخْتَرْنَٰهُمْ عَلَىٰ عِلْمٍ عَلَى ٱلْعَٰلَمِينَ
+    - ref: Quran 44:33
+      lang: ar
+      text: وَءَاتَيْنَٰهُم مِّنَ ٱلْءَايَٰتِ مَا فِيهِ بَلَٰٓؤٌا۟ مُّبِينٌ
 ---
 
 ## Questions

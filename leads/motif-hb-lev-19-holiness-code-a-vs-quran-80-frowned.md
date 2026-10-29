@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-19-holiness-code-a-vs-quran-80-frowned
 title: 'Be holy - ethical laws and love of neighbor ↔ He frowned: the blind man and the honored scrolls'
-summary: 'These two units share 1 motifs: judge fairly, favoring neither the poor nor the great.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,35 +13,9 @@ layers:
 - motif
 motifs:
 - impartial-judgment-neither-poor-nor-great
-passages:
-- tradition: judaism
-  ref: Lev 19:15
-  note: Judge fairly, favoring neither the poor nor the great
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַעֲשׂ֥וּ עָ֨וֶל֙ בַּמִּשְׁפָּ֔ט לֹא תִשָּׂ֣א פְנֵי דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל
-    בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ
-- tradition: islam
-  ref: Quran 80:1
-  note: Judge fairly, favoring neither the poor nor the great (ʿabasa wa-tawallā an jāʾahu l-aʿmā ...
-    ammā mani staghnā fa-anta lahu taṣaddā ~ lōʾ tiśśāʾ fenê dāl we-lōʾ tehdar penê gādôl. Favor to the
-    great over the weak forbidden; in the Quran the prophet himself is rebuked for it.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَبَسَ وَتَوَلَّىٰٓ
-- tradition: islam
-  ref: Quran 80:2
-  note: Judge fairly, favoring neither the poor nor the great (ʿabasa wa-tawallā an jāʾahu l-aʿmā ...
-    ammā mani staghnā fa-anta lahu taṣaddā ~ lōʾ tiśśāʾ fenê dāl we-lōʾ tehdar penê gādôl. Favor to the
-    great over the weak forbidden; in the Quran the prophet himself is rebuked for it.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَن جَآءَهُ ٱلْأَعْمَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. ʿabasa wa-tawallā an jāʾahu l-aʿmā ... ammā mani staghnā fa-anta lahu taṣaddā ~ lōʾ tiśśāʾ fenê
-    dāl we-lōʾ tehdar penê gādôl. Favor to the great over the weak forbidden; in the Quran the prophet
-    himself is rebuked for it.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.0).
     Pair score 6.0.'
@@ -73,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Judge fairly, favoring neither the poor nor the great
+kinds:
+- echo
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-80-frowned
+  title: 'He frowned: the blind man and the honored scrolls'
+  tradition: islam
+matches:
+- kind: echo
+  label: Judge fairly, favoring neither the poor nor the great
+  note: ʿabasa wa-tawallā an jāʾahu l-aʿmā ... ammā mani staghnā fa-anta lahu taṣaddā ~ lōʾ tiśśāʾ fenê
+    dāl we-lōʾ tehdar penê gādôl. Favor to the great over the weak forbidden; in the Quran the prophet
+    himself is rebuked for it.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:15
+      lang: he
+      text: לֹא תַעֲשׂ֥וּ עָ֨וֶל֙ בַּמִּשְׁפָּ֔ט לֹא תִשָּׂ֣א פְנֵי דָ֔ל וְלֹ֥א תֶהְדַּ֖ר פְּנֵ֣י גָד֑וֹל
+        בְּצֶ֖דֶק תִּשְׁפֹּ֥ט עֲמִיתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 80:1
+      lang: ar
+      text: عَبَسَ وَتَوَلَّىٰٓ
+    - ref: Quran 80:2
+      lang: ar
+      text: أَن جَآءَهُ ٱلْأَعْمَىٰ
+    - ref: Quran 80:5
+      lang: ar
+      text: أَمَّا مَنِ ٱسْتَغْنَىٰ
 ---
 
 ## Questions

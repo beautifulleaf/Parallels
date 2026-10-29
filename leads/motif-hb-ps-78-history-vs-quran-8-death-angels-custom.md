@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-8-death-angels-custom
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Angels at the death of unbelievers;
   the custom of Pharaoh's people
-summary: 'These two units share 2 motifs: angels take the souls of unbelievers striking their faces and
-  backs, the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,56 +15,9 @@ layers:
 motifs:
 - angels-strike-faces-and-backs-at-death
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:49
-  note: 'Angels take the souls of unbelievers striking their faces and backs (Angels sent to strike the
-    enemies of God, striking from behind: al-malāʾikatu yaḍribūna wujūhahum wa-adbārahum vs mišlaḥat malʾăkê
-    rāʿîm; wayyak-ṣārāyw ʾāḥôr. In Ps it is the Egyptian plague and a later rout; in Q angels strike unbelievers
-    as they take their souls at death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְשַׁלַּח בָּ֨ם חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים
-- tradition: judaism
-  ref: Ps 78:66
-  note: 'Angels take the souls of unbelievers striking their faces and backs (Angels sent to strike the
-    enemies of God, striking from behind: al-malāʾikatu yaḍribūna wujūhahum wa-adbārahum vs mišlaḥat malʾăkê
-    rāʿîm; wayyak-ṣārāyw ʾāḥôr. In Ps it is the Egyptian plague and a later rout; in Q angels strike unbelievers
-    as they take their souls at death.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּךְ צָרָ֥יו אָח֑וֹר חֶרְפַּ֥ת ע֝וֹלָ֗ם נָ֣תַן לָֽמוֹ
-- tradition: islam
-  ref: Quran 8:50
-  note: Angels take the souls of unbelievers striking their faces and backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَٰرَهُمْ
-    وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
-- tradition: islam
-  ref: Quran 8:51
-  note: Angels take the souls of unbelievers striking their faces and backs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ بِمَا قَدَّمَتْ أَيْدِيكُمْ وَأَنَّ ٱللَّهَ لَيْسَ بِظَلَّٰمٍ لِّلْعَبِيدِ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 8:54
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا۟ بِـَٔايَٰتِ رَبِّهِمْ فَأَهْلَكْنَٰهُم
-    بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَكُلٌّ كَانُوا۟ ظَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Angels sent to strike the enemies of God, striking from behind: al-malāʾikatu yaḍribūna wujūhahum
-    wa-adbārahum vs mišlaḥat malʾăkê rāʿîm; wayyak-ṣārāyw ʾāḥôr. In Ps it is the Egyptian plague and a
-    later rout; in Q angels strike unbelievers as they take their souls at death.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels take the souls of unbelievers striking their faces and backs
     (weight 6.3); The returning waters drown the pursuing army; not one survives (weight 4.5). Pair score
@@ -96,6 +48,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Angels take the souls of unbelievers striking their faces and backs
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-8-death-angels-custom
+  title: Angels at the death of unbelievers; the custom of Pharaoh's people
+  tradition: islam
+matches:
+- kind: echo
+  label: Angels take the souls of unbelievers striking their faces and backs
+  note: 'Angels sent to strike the enemies of God, striking from behind: al-malāʾikatu yaḍribūna wujūhahum
+    wa-adbārahum vs mišlaḥat malʾăkê rāʿîm; wayyak-ṣārāyw ʾāḥôr. In Ps it is the Egyptian plague and a
+    later rout; in Q angels strike unbelievers as they take their souls at death.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:49
+      lang: he
+      text: יְשַׁלַּח בָּ֨ם חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים
+    - ref: Ps 78:66
+      lang: he
+      text: וַיַּךְ צָרָ֥יו אָח֑וֹר חֶרְפַּ֥ת ע֝וֹלָ֗ם נָ֣תַן לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:50
+      lang: ar
+      text: وَلَوْ تَرَىٰٓ إِذْ يَتَوَفَّى ٱلَّذِينَ كَفَرُوا۟ ٱلْمَلَٰٓئِكَةُ يَضْرِبُونَ وُجُوهَهُمْ
+        وَأَدْبَٰرَهُمْ وَذُوقُوا۟ عَذَابَ ٱلْحَرِيقِ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:54
+      lang: ar
+      text: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا۟ بِـَٔايَٰتِ رَبِّهِمْ فَأَهْلَكْنَٰهُم
+        بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَكُلٌّ كَانُوا۟ ظَٰلِمِينَ
 ---
 
 ## Questions

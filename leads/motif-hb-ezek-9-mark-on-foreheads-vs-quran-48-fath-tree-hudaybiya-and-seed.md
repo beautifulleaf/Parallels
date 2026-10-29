@@ -3,8 +3,7 @@ id: motif-hb-ezek-9-mark-on-foreheads-vs-quran-48-fath-tree-hudaybiya-and-seed
 title: The six executioners and the man in linen who marks the foreheads ↔ The pledge under the tree,
   the hidden believers in Mecca, the dream of entering the sanctuary, and the seed parable from Torah
   and Gospel
-summary: 'These two units share 1 motifs: a mark on the faces or foreheads of the faithful [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,56 +15,9 @@ layers:
 - motif
 motifs:
 - mark-on-faithful-faces-as-divergence
-passages:
-- tradition: judaism
-  ref: Ezek 9:4
-  note: 'A mark on the faces or foreheads of the faithful [divergence between the texts] (A mark on the
-    faithful''s faces. Ezekiel: wə-hitwîṯā tāw ʿal miṣḥôṯ hā-ʾănāšîm han-neʾĕnāḥîm wə-han-neʾĕnāqîm (a
-    tav put by the man in linen on the foreheads of those who groan; the marked are spared, ʿal kol ʾîš
-    ʾăšer ʿālâw hat-tāw ʾal tiggašû). Quran: sīmāhum fī wujūhihim min athari s-sujūd (their mark on their
-    faces from the trace of prostration). Ezekiel''s mark is put on them by an angel for rescue; the Quran''s
-    comes from their own prayer and identifies them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אלו אֵלָ֔יו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ
-    תָּ֜ו עַל מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת
-    בְּתוֹכָֽהּ
-- tradition: judaism
-  ref: Ezek 9:6
-  note: 'A mark on the faces or foreheads of the faithful [divergence between the texts] (A mark on the
-    faithful''s faces. Ezekiel: wə-hitwîṯā tāw ʿal miṣḥôṯ hā-ʾănāšîm han-neʾĕnāḥîm wə-han-neʾĕnāqîm (a
-    tav put by the man in linen on the foreheads of those who groan; the marked are spared, ʿal kol ʾîš
-    ʾăšer ʿālâw hat-tāw ʾal tiggašû). Quran: sīmāhum fī wujūhihim min athari s-sujūd (their mark on their
-    faces from the trace of prostration). Ezekiel''s mark is put on them by an angel for rescue; the Quran''s
-    comes from their own prayer and identifies them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָקֵ֡ן בָּח֣וּר וּבְתוּלָה֩ וְטַ֨ף וְנָשִׁ֜ים תַּהַרְג֣וּ לְמַשְׁחִ֗ית וְעַל כָּל אִ֨ישׁ אֲשֶׁר
-    עָלָ֤יו הַתָּו֙ אַל תִּגַּ֔שׁוּ וּמִמִּקְדָּשִׁ֖י תָּחֵ֑לּוּ וַיָּחֵ֨לּוּ֙ בָּאֲנָשִׁ֣ים הַזְּקֵנִ֔ים
-    אֲשֶׁ֖ר לִפְנֵ֥י הַבָּֽיִת
-- tradition: islam
-  ref: Quran 48:29
-  note: 'A mark on the faces or foreheads of the faithful [divergence between the texts] (A mark on the
-    faithful''s faces. Ezekiel: wə-hitwîṯā tāw ʿal miṣḥôṯ hā-ʾănāšîm han-neʾĕnāḥîm wə-han-neʾĕnāqîm (a
-    tav put by the man in linen on the foreheads of those who groan; the marked are spared, ʿal kol ʾîš
-    ʾăšer ʿālâw hat-tāw ʾal tiggašû). Quran: sīmāhum fī wujūhihim min athari s-sujūd (their mark on their
-    faces from the trace of prostration). Ezekiel''s mark is put on them by an angel for rescue; the Quran''s
-    comes from their own prayer and identifies them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ بَيْنَهُمْ
-    تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ فِى وُجُوهِهِم
-    مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ كَزَرْعٍ
-    أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ ٱلزُّرَّاعَ لِيَغِيظَ
-    بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ مِنْهُم مَّغْفِرَةً
-    وَأَجْرًا عَظِيمًۢا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A mark on the faithful''s faces. Ezekiel: wə-hitwîṯā tāw ʿal miṣḥôṯ hā-ʾănāšîm han-neʾĕnāḥîm
-    wə-han-neʾĕnāqîm (a tav put by the man in linen on the foreheads of those who groan; the marked are
-    spared, ʿal kol ʾîš ʾăšer ʿālâw hat-tāw ʾal tiggašû). Quran: sīmāhum fī wujūhihim min athari s-sujūd
-    (their mark on their faces from the trace of prostration). Ezekiel''s mark is put on them by an angel
-    for rescue; the Quran''s comes from their own prayer and identifies them.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A mark on the faces or foreheads of the faithful [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -105,6 +57,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A mark on the faces or foreheads of the faithful
+kinds:
+- divergence
+units:
+- id: hb-ezek-9-mark-on-foreheads
+  title: The six executioners and the man in linen who marks the foreheads
+  tradition: judaism
+- id: quran-48-fath-tree-hudaybiya-and-seed
+  title: The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
+    and the seed parable from Torah and Gospel
+  tradition: islam
+matches:
+- kind: divergence
+  label: A mark on the faces or foreheads of the faithful
+  note: 'A mark on the faithful''s faces. Ezekiel: wə-hitwîṯā tāw ʿal miṣḥôṯ hā-ʾănāšîm han-neʾĕnāḥîm
+    wə-han-neʾĕnāqîm (a tav put by the man in linen on the foreheads of those who groan; the marked are
+    spared, ʿal kol ʾîš ʾăšer ʿālâw hat-tāw ʾal tiggašû). Quran: sīmāhum fī wujūhihim min athari s-sujūd
+    (their mark on their faces from the trace of prostration). Ezekiel''s mark is put on them by an angel
+    for rescue; the Quran''s comes from their own prayer and identifies them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 9:4
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אלו אֵלָ֔יו עֲבֹר֙ בְּת֣וֹךְ הָעִ֔יר בְּת֖וֹךְ יְרֽוּשָׁלִָ֑ם וְהִתְוִ֨יתָ
+        תָּ֜ו עַל מִצְח֣וֹת הָאֲנָשִׁ֗ים הַנֶּֽאֱנָחִים֙ וְהַנֶּ֣אֱנָקִ֔ים עַ֚ל כָּל הַתּ֣וֹעֵב֔וֹת הַֽנַּעֲשׂ֖וֹת
+        בְּתוֹכָֽהּ
+    - ref: Ezek 9:6
+      lang: he
+      text: זָקֵ֡ן בָּח֣וּר וּבְתוּלָה֩ וְטַ֨ף וְנָשִׁ֜ים תַּהַרְג֣וּ לְמַשְׁחִ֗ית וְעַל כָּל אִ֨ישׁ אֲשֶׁר
+        עָלָ֤יו הַתָּו֙ אַל תִּגַּ֔שׁוּ וּמִמִּקְדָּשִׁ֖י תָּחֵ֑לּוּ וַיָּחֵ֨לּוּ֙ בָּאֲנָשִׁ֣ים הַזְּקֵנִ֔ים
+        אֲשֶׁ֖ר לִפְנֵ֥י הַבָּֽיִת
+  - tradition: islam
+    passages:
+    - ref: Quran 48:29
+      lang: ar
+      text: مُّحَمَّدٌ رَّسُولُ ٱللَّهِ وَٱلَّذِينَ مَعَهُۥٓ أَشِدَّآءُ عَلَى ٱلْكُفَّارِ رُحَمَآءُ
+        بَيْنَهُمْ تَرَىٰهُمْ رُكَّعًا سُجَّدًا يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا سِيمَاهُمْ
+        فِى وُجُوهِهِم مِّنْ أَثَرِ ٱلسُّجُودِ ذَٰلِكَ مَثَلُهُمْ فِى ٱلتَّوْرَىٰةِ وَمَثَلُهُمْ فِى ٱلْإِنجِيلِ
+        كَزَرْعٍ أَخْرَجَ شَطْـَٔهُۥ فَـَٔازَرَهُۥ فَٱسْتَغْلَظَ فَٱسْتَوَىٰ عَلَىٰ سُوقِهِۦ يُعْجِبُ
+        ٱلزُّرَّاعَ لِيَغِيظَ بِهِمُ ٱلْكُفَّارَ وَعَدَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ
+        مِنْهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًۢا
 ---
 
 ## Questions

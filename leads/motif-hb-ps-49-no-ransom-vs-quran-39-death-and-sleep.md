@@ -2,8 +2,7 @@
 id: motif-hb-ps-49-no-ransom-vs-quran-39-death-and-sleep
 title: Psalm 49 - no man can ransom his brother ↔ The prophet's mortality; souls taken in sleep; intercession
   belongs to God
-summary: 'These two units share 1 motifs: an earthful of gold would not be accepted as ransom from one
-  who dies unbelieving.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,41 +15,9 @@ layers:
 - motif
 motifs:
 - earthful-of-gold-no-ransom
-passages:
-- tradition: judaism
-  ref: Ps 49:7
-  note: 'An earthful of gold would not be accepted as ransom from one who dies unbelieving (Ps 49:7-9
-    ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô wĕ-yēqar pidyôn napšām:
-    those who trust in wealth cannot pay God a ransom, the price of a life is too high; Q 3:91 fa-lan
-    yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful of gold would not be accepted
-    even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts it to those who die unbelievers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַבֹּטְחִ֥ים עַל חֵילָ֑ם וּבְרֹ֥ב עָ֝שְׁרָ֗ם יִתְהַלָּֽלוּ
-- tradition: judaism
-  ref: Ps 49:8
-  note: 'An earthful of gold would not be accepted as ransom from one who dies unbelieving (Ps 49:7-9
-    ha-bbōṭĕḥîm ʿal ḥêlām ... ʾāḥ lōʾ pādōh yipdeh ʾîš lōʾ yittēn lēʾlōhîm kopsrô wĕ-yēqar pidyôn napšām:
-    those who trust in wealth cannot pay God a ransom, the price of a life is too high; Q 3:91 fa-lan
-    yuqbala min aḥadihim milʾu l-arḍi dhahaban wa-law iftadā bihi: an earthful of gold would not be accepted
-    even as ransom (iftadā, cognate p-d-y / f-d-y). The Quran restricts it to those who die unbelievers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 39:47
-  note: An earthful of gold would not be accepted as ransom from one who dies unbelieving (all on earth
-    and as much again would not ransom them)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟
-    بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟ يَحْتَسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾāḥ lōʾ-p̄āḏōh yip̄deh ʾîš lōʾ-yittēn lēʾlōhîm kop̄rô wə-yēqar piḏyôn nap̄šām vs. wa-law
-    anna li-lladhīna ẓalamū mā fī l-arḍi jamīʿan wa-mithlahu maʿahu la-ftadaw bihi: no wealth can ransom
-    a life from God. pāḏâ and fadā are cognate. The psalm speaks of death; the Quran of the punishment
-    of the Day of Resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An earthful of gold would not be accepted as ransom from one who
     dies unbelieving (weight 5.8). Pair score 5.8.'
@@ -83,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+kinds:
+- parallel
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-39-death-and-sleep
+  title: The prophet's mortality; souls taken in sleep; intercession belongs to God
+  tradition: islam
+matches:
+- kind: parallel
+  label: An earthful of gold would not be accepted as ransom from one who dies unbelieving
+  note: 'ʾāḥ lōʾ-p̄āḏōh yip̄deh ʾîš lōʾ-yittēn lēʾlōhîm kop̄rô wə-yēqar piḏyôn nap̄šām vs. wa-law anna
+    li-lladhīna ẓalamū mā fī l-arḍi jamīʿan wa-mithlahu maʿahu la-ftadaw bihi: no wealth can ransom a
+    life from God. pāḏâ and fadā are cognate. The psalm speaks of death; the Quran of the punishment of
+    the Day of Resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 39:47
+      lang: ar
+      text: وَلَوْ أَنَّ لِلَّذِينَ ظَلَمُوا۟ مَا فِى ٱلْأَرْضِ جَمِيعًا وَمِثْلَهُۥ مَعَهُۥ لَٱفْتَدَوْا۟
+        بِهِۦ مِن سُوٓءِ ٱلْعَذَابِ يَوْمَ ٱلْقِيَٰمَةِ وَبَدَا لَهُم مِّنَ ٱللَّهِ مَا لَمْ يَكُونُوا۟
+        يَحْتَسِبُونَ
 ---
 
 ## Questions

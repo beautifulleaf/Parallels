@@ -2,8 +2,7 @@
 id: motif-hb-lev-20-penalties-vs-quran-2-wine-marriage
 title: Penalties for Molech worship, necromancy and sexual offenses ↔ Wine, gambling, orphans, mixed marriage
   and menstruation
-summary: 'These two units share 2 motifs: intercourse with a menstruating woman is forbidden [divergence
-  between the texts], intercourse with a menstruating woman is forbidden.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,48 +15,9 @@ layers:
 motifs:
 - intercourse-during-menstruation-forbidden-as-divergence
 - intercourse-during-menstruation-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 20:18
-  note: 'Intercourse with a menstruating woman is forbidden [divergence between the texts] (Lev 20:18
-    wĕ-ʾîš ʾăšer yiškab ʾet ʾiššâ dāwâ ... wĕ-nikrĕtû šĕnêhem mi-qqereb ʿammām: both cut off from the
-    people; Q 2:222 fa-ʿtazilū ... inna llāha yuḥibbu t-tawwābīna wa-yuḥibbu l-mutaṭahhirīn: no penalty
-    named, and the passage ends with God loving the penitent and those who purify themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אִישׁ אֲשֶׁר יִשְׁכַּ֨ב אֶת אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת עֶרְוָתָהּ֙ אֶת מְקֹרָ֣הּ הֶֽעֱרָ֔ה
-    וְהִ֕יא גִּלְּתָ֖ה אֶת מְק֣וֹר דָּמֶ֑יהָ וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם
-- tradition: islam
-  ref: Quran 2:222
-  note: 'Intercourse with a menstruating woman is forbidden [divergence between the texts] (Lev 20:18
-    wĕ-ʾîš ʾăšer yiškab ʾet ʾiššâ dāwâ ... wĕ-nikrĕtû šĕnêhem mi-qqereb ʿammām: both cut off from the
-    people; Q 2:222 fa-ʿtazilū ... inna llāha yuḥibbu t-tawwābīna wa-yuḥibbu l-mutaṭahhirīn: no penalty
-    named, and the passage ends with God loving the penitent and those who purify themselves.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا
-    تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ
-    إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
-- tradition: judaism
-  ref: Lev 20:18
-  note: Intercourse with a menstruating woman is forbidden ('He has laid bare her fountain')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אִישׁ אֲשֶׁר יִשְׁכַּ֨ב אֶת אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת עֶרְוָתָהּ֙ אֶת מְקֹרָ֣הּ הֶֽעֱרָ֔ה
-    וְהִ֕יא גִּלְּתָ֖ה אֶת מְק֣וֹר דָּמֶ֑יהָ וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם
-- tradition: islam
-  ref: Quran 2:222
-  note: Intercourse with a menstruating woman is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ وَلَا
-    تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ ٱللَّهُ
-    إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 20:18 wĕ-ʾîš ʾăšer yiškab ʾet ʾiššâ dāwâ ... wĕ-nikrĕtû šĕnêhem mi-qqereb ʿammām:
-    both cut off from the people; Q 2:222 fa-ʿtazilū ... inna llāha yuḥibbu t-tawwābīna wa-yuḥibbu l-mutaṭahhirīn:
-    no penalty named, and the passage ends with God loving the penitent and those who purify themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Intercourse with a menstruating woman is forbidden [divergence between
     the texts] (weight 6.7); Intercourse with a menstruating woman is forbidden (weight 6.0). Pair score
@@ -90,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Intercourse with a menstruating woman is forbidden
+kinds:
+- divergence
+units:
+- id: hb-lev-20-penalties
+  title: Penalties for Molech worship, necromancy and sexual offenses
+  tradition: judaism
+- id: quran-2-wine-marriage
+  title: Wine, gambling, orphans, mixed marriage and menstruation
+  tradition: islam
+matches:
+- kind: divergence
+  label: Intercourse with a menstruating woman is forbidden
+  note: 'Lev 20:18 wĕ-ʾîš ʾăšer yiškab ʾet ʾiššâ dāwâ ... wĕ-nikrĕtû šĕnêhem mi-qqereb ʿammām: both cut
+    off from the people; Q 2:222 fa-ʿtazilū ... inna llāha yuḥibbu t-tawwābīna wa-yuḥibbu l-mutaṭahhirīn:
+    no penalty named, and the passage ends with God loving the penitent and those who purify themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 20:18
+      lang: he
+      text: וְ֠אִישׁ אֲשֶׁר יִשְׁכַּ֨ב אֶת אִשָּׁ֜ה דָּוָ֗ה וְגִלָּ֤ה אֶת עֶרְוָתָהּ֙ אֶת מְקֹרָ֣הּ הֶֽעֱרָ֔ה
+        וְהִ֕יא גִּלְּתָ֖ה אֶת מְק֣וֹר דָּמֶ֑יהָ וְנִכְרְת֥וּ שְׁנֵיהֶ֖ם מִקֶּ֥רֶב עַמָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:222
+      lang: ar
+      text: وَيَسْـَٔلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى فَٱعْتَزِلُوا۟ ٱلنِّسَآءَ فِى ٱلْمَحِيضِ
+        وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ
+        ٱللَّهُ إِنَّ ٱللَّهَ يُحِبُّ ٱلتَّوَّٰبِينَ وَيُحِبُّ ٱلْمُتَطَهِّرِينَ
 ---
 
 ## Questions

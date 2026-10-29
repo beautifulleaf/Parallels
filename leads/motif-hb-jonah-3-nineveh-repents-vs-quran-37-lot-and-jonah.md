@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jonah-3-nineveh-repents-vs-quran-37-lot-and-jonah
 title: Jonah preaches and Nineveh repents down to its animals ↔ Lot's old woman; Jonah and the fish
-summary: 'These two units share 1 motifs: the city to which jonah is sent believes and is spared [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,55 +13,9 @@ layers:
 - motif
 motifs:
 - jonahs-city-believes-and-is-spared-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 3:5
-  note: The city to which Jonah is sent believes and is spared [divergence between the texts] (wa-yyaʾămînû
-    ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm ʿal-hā-rāʿâ vs. fa-āmanū
-    fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits the reprieve (ilā ḥīn, for
-    a while), leaves out the fast, the sackcloth, the king and the animals, and has no prophet resentful
-    of God's mercy (Jonah 4:1-3) at all.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽאלֹהִ֑ים וַיִּקְרְאוּ צוֹם֙ וַיִּלְבְּשׁ֣וּ שַׂקִּ֔ים
-    מִגְּדוֹלָ֖ם וְעַד קְטַנָּֽם
-- tradition: judaism
-  ref: Jonah 3:10
-  note: The city to which Jonah is sent believes and is spared [divergence between the texts] (wa-yyaʾămînû
-    ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm ʿal-hā-rāʿâ vs. fa-āmanū
-    fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits the reprieve (ilā ḥīn, for
-    a while), leaves out the fast, the sackcloth, the king and the animals, and has no prophet resentful
-    of God's mercy (Jonah 4:1-3) at all.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶֽת מַ֣עֲשֵׂיהֶ֔ם כִּי שָׁ֖בוּ מִדַּרְכָּ֣ם הָרָעָ֑ה וַיִּנָּ֣חֶם הָאֱלֹהִ֗ים
-    עַל הָרָעָ֛ה אֲשֶׁר דִּבֶּ֥ר לַעֲשׂוֹת לָהֶ֖ם וְלֹ֥א עָשָֽׂה
-- tradition: islam
-  ref: Quran 37:147
-  note: The city to which Jonah is sent believes and is spared [divergence between the texts] (wa-yyaʾămînû
-    ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm ʿal-hā-rāʿâ vs. fa-āmanū
-    fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits the reprieve (ilā ḥīn, for
-    a while), leaves out the fast, the sackcloth, the king and the animals, and has no prophet resentful
-    of God's mercy (Jonah 4:1-3) at all.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
-- tradition: islam
-  ref: Quran 37:148
-  note: The city to which Jonah is sent believes and is spared [divergence between the texts] (wa-yyaʾămînû
-    ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm ʿal-hā-rāʿâ vs. fa-āmanū
-    fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits the reprieve (ilā ḥīn, for
-    a while), leaves out the fast, the sackcloth, the king and the animals, and has no prophet resentful
-    of God's mercy (Jonah 4:1-3) at all.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-yyaʾămînû ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm
-    ʿal-hā-rāʿâ vs. fa-āmanū fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits
-    the reprieve (ilā ḥīn, for a while), leaves out the fast, the sackcloth, the king and the animals,
-    and has no prophet resentful of God''s mercy (Jonah 4:1-3) at all.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The city to which Jonah is sent believes and is spared [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -97,6 +50,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The city to which Jonah is sent believes and is spared
+kinds:
+- divergence
+units:
+- id: hb-jonah-3-nineveh-repents
+  title: Jonah preaches and Nineveh repents down to its animals
+  tradition: judaism
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+matches:
+- kind: divergence
+  label: The city to which Jonah is sent believes and is spared
+  note: wa-yyaʾămînû ʾanšê nînəwēh bē-ʾlōhîm (Nineveh believed in God) ... wa-yyinnāḥem hā-ʾĕlōhîm ʿal-hā-rāʿâ
+    vs. fa-āmanū fa-mattaʿnāhum ilā ḥīn. The same verb (heʾĕmîn / āmana). The Quran limits the reprieve
+    (ilā ḥīn, for a while), leaves out the fast, the sackcloth, the king and the animals, and has no prophet
+    resentful of God's mercy (Jonah 4:1-3) at all.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 3:5
+      lang: he
+      text: וַֽיַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽאלֹהִ֑ים וַיִּקְרְאוּ צוֹם֙ וַיִּלְבְּשׁ֣וּ שַׂקִּ֔ים
+        מִגְּדוֹלָ֖ם וְעַד קְטַנָּֽם
+    - ref: Jonah 3:10
+      lang: he
+      text: וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶֽת מַ֣עֲשֵׂיהֶ֔ם כִּי שָׁ֖בוּ מִדַּרְכָּ֣ם הָרָעָ֑ה וַיִּנָּ֣חֶם
+        הָאֱלֹהִ֗ים עַל הָרָעָ֛ה אֲשֶׁר דִּבֶּ֥ר לַעֲשׂוֹת לָהֶ֖ם וְלֹ֥א עָשָֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 37:147
+      lang: ar
+      text: وَأَرْسَلْنَٰهُ إِلَىٰ مِا۟ئَةِ أَلْفٍ أَوْ يَزِيدُونَ
+    - ref: Quran 37:148
+      lang: ar
+      text: فَـَٔامَنُوا۟ فَمَتَّعْنَٰهُمْ إِلَىٰ حِينٍ
 ---
 
 ## Questions

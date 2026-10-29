@@ -2,8 +2,7 @@
 id: motif-hb-exod-19-sinai-theophany-vs-quran-59-hashr-hypocrites-and-the-names
 title: Arrival at Sinai, covenant offer and theophany ↔ The hypocrites' false promises, Satan's disowning,
   the Quran on a mountain, and the litany of beautiful names
-summary: 'These two units share 2 motifs: a mountain shaken by god''s descent or by his revelation [divergence
-  between the texts], the mountain smokes like a furnace and quakes as god descends in fire.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,62 +13,15 @@ traditions:
 layers:
 - motif
 motifs:
-- mountain-and-gods-descent-as-divergence
 - mountain-smokes-like-furnace-and-quakes
-passages:
-- tradition: judaism
-  ref: Exod 19:18
-  note: 'A mountain shaken by God''s descent or by his revelation [divergence between the texts] (A mountain
-    under the weight of revelation. Exodus: wə-har sînay ʿāšan kullô mip-pənê ʾăšer yāraḏ ʿālâw YHWH bā-ʾēš
-    ... wa-yyeḥĕraḏ kol hā-hār məʾōḏ (Sinai actually smokes and quakes as YHWH descends). Quran: law anzalnā
-    hādhā l-qurʾāna ʿalā jabalin la-raʾaytahu khāshiʿan mutaṣaddiʿan min khashyati llāh (had we sent this
-    Quran down on a mountain, you would see it humbled and split for fear of God). The event at Sinai
-    becomes a counterfactual: what God descends with is the book, and the mountain''s fear shames the
-    unmoved hearer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙
-    כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
-- tradition: islam
-  ref: Quran 59:21
-  note: 'A mountain shaken by God''s descent or by his revelation [divergence between the texts] (A mountain
-    under the weight of revelation. Exodus: wə-har sînay ʿāšan kullô mip-pənê ʾăšer yāraḏ ʿālâw YHWH bā-ʾēš
-    ... wa-yyeḥĕraḏ kol hā-hār məʾōḏ (Sinai actually smokes and quakes as YHWH descends). Quran: law anzalnā
-    hādhā l-qurʾāna ʿalā jabalin la-raʾaytahu khāshiʿan mutaṣaddiʿan min khashyati llāh (had we sent this
-    Quran down on a mountain, you would see it humbled and split for fear of God). The event at Sinai
-    becomes a counterfactual: what God descends with is the book, and the mountain''s fear shames the
-    unmoved hearer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ
-    خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
-- tradition: judaism
-  ref: Exod 19:18
-  note: The mountain smokes like a furnace and quakes as God descends in fire
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל עֲשָׁנוֹ֙
-    כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
-- tradition: islam
-  ref: Quran 59:21
-  note: The mountain smokes like a furnace and quakes as God descends in fire (a mountain splitting before
-    revelation (cf. Sinai, Exod 19:18; Q 7:143))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ
-    خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+- mountain-and-gods-descent-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. A mountain under the weight of revelation. Exodus: wə-har sînay ʿāšan kullô mip-pənê ʾăšer
-    yāraḏ ʿālâw YHWH bā-ʾēš ... wa-yyeḥĕraḏ kol hā-hār məʾōḏ (Sinai actually smokes and quakes as YHWH
-    descends). Quran: law anzalnā hādhā l-qurʾāna ʿalā jabalin la-raʾaytahu khāshiʿan mutaṣaddiʿan min
-    khashyati llāh (had we sent this Quran down on a mountain, you would see it humbled and split for
-    fear of God). The event at Sinai becomes a counterfactual: what God descends with is the book, and
-    the mountain''s fear shames the unmoved hearer.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: A mountain shaken by God''s descent or by his revelation [divergence
-    between the texts] (weight 6.7); The mountain smokes like a furnace and quakes as God descends in
-    fire (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The mountain smokes like a furnace and quakes as God descends in
+    fire (weight 6.7); A mountain shaken by God''s descent or by his revelation [divergence between the
+    texts] (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Arrival at Sinai, covenant offer and theophany: Israel arrives at Sinai in the third
     month after leaving Egypt; God carried Israel on eagles'' wings; Moses speaks and God answers him
@@ -100,6 +52,56 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A mountain shaken by God's descent or by his revelation
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-19-sinai-theophany
+  title: Arrival at Sinai, covenant offer and theophany
+  tradition: judaism
+- id: quran-59-hashr-hypocrites-and-the-names
+  title: The hypocrites' false promises, Satan's disowning, the Quran on a mountain, and the litany of
+    beautiful names
+  tradition: islam
+matches:
+- kind: divergence
+  label: A mountain shaken by God's descent or by his revelation
+  note: 'A mountain under the weight of revelation. Exodus: wə-har sînay ʿāšan kullô mip-pənê ʾăšer yāraḏ
+    ʿālâw YHWH bā-ʾēš ... wa-yyeḥĕraḏ kol hā-hār məʾōḏ (Sinai actually smokes and quakes as YHWH descends).
+    Quran: law anzalnā hādhā l-qurʾāna ʿalā jabalin la-raʾaytahu khāshiʿan mutaṣaddiʿan min khashyati
+    llāh (had we sent this Quran down on a mountain, you would see it humbled and split for fear of God).
+    The event at Sinai becomes a counterfactual: what God descends with is the book, and the mountain''s
+    fear shames the unmoved hearer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:18
+      lang: he
+      text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל
+        עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 59:21
+      lang: ar
+      text: لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ
+        خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+- kind: shared
+  label: The mountain smokes like a furnace and quakes as God descends in fire
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 19:18
+      lang: he
+      text: וְהַ֤ר סִינַי֙ עָשַׁ֣ן כֻּלּ֔וֹ מִ֠פְּנֵי אֲשֶׁ֨ר יָרַ֥ד עָלָ֛יו יְהוָ֖ה בָּאֵ֑שׁ וַיַּ֤עַל
+        עֲשָׁנוֹ֙ כְּעֶ֣שֶׁן הַכִּבְשָׁ֔ן וַיֶּחֱרַ֥ד כָּל הָהָ֖ר מְאֹֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 59:21
+      lang: ar
+      text: لَوْ أَنزَلْنَا هَٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَٰشِعًا مُّتَصَدِّعًا مِّنْ
+        خَشْيَةِ ٱللَّهِ وَتِلْكَ ٱلْأَمْثَٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ
+    note: a mountain splitting before revelation (cf. Sinai, Exod 19:18; Q 7:143)
 ---
 
 ## Questions

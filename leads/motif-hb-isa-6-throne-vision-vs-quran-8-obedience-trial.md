@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-6-throne-vision-vs-quran-8-obedience-trial
 title: The throne vision and the call of Isaiah ↔ Deaf and dumb beasts, heart and trial
-summary: 'These two units share 1 motifs: god has not given the people a heart to know, eyes to see, ears
-  to hear until today [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - god-withheld-understanding-as-divergence
-passages:
-- tradition: judaism
-  ref: Isa 6:9
-  note: 'God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts] (God decides whether they hear: law ʿalima llāhu fīhim khayran la-asmaʿahum wa-law
-    asmaʿahum la-tawallaw vs hašmēn lēb-hāʿām hazzeh wᵉʾoznāyw hakbēd ... pen ... bᵉʾoznāyw yišmāʿ ...
-    wāšāb wᵉrāpāʾ lô. The reason is changed: in Isa God blocks hearing so that they will not turn back
-    and be healed; in Q he withholds it because there is no good in them, and they would turn away anyway.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ רָא֖וֹ
-    וְאַל תֵּדָֽעוּ
-- tradition: judaism
-  ref: Isa 6:10
-  note: 'God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts] (God decides whether they hear: law ʿalima llāhu fīhim khayran la-asmaʿahum wa-law
-    asmaʿahum la-tawallaw vs hašmēn lēb-hāʿām hazzeh wᵉʾoznāyw hakbēd ... pen ... bᵉʾoznāyw yišmāʿ ...
-    wāšāb wᵉrāpāʾ lô. The reason is changed: in Isa God blocks hearing so that they will not turn back
-    and be healed; in Q he withholds it because there is no good in them, and they would turn away anyway.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
-    וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
-- tradition: islam
-  ref: Quran 8:23
-  note: 'God has not given the people a heart to know, eyes to see, ears to hear until today [divergence
-    between the texts] (God decides whether they hear: law ʿalima llāhu fīhim khayran la-asmaʿahum wa-law
-    asmaʿahum la-tawallaw vs hašmēn lēb-hāʿām hazzeh wᵉʾoznāyw hakbēd ... pen ... bᵉʾoznāyw yišmāʿ ...
-    wāšāb wᵉrāpāʾ lô. The reason is changed: in Isa God blocks hearing so that they will not turn back
-    and be healed; in Q he withholds it because there is no good in them, and they would turn away anyway.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًا لَّأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا۟ وَّهُم
-    مُّعْرِضُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God decides whether they hear: law ʿalima llāhu fīhim khayran la-asmaʿahum wa-law asmaʿahum
-    la-tawallaw vs hašmēn lēb-hāʿām hazzeh wᵉʾoznāyw hakbēd ... pen ... bᵉʾoznāyw yišmāʿ ... wāšāb wᵉrāpāʾ
-    lô. The reason is changed: in Isa God blocks hearing so that they will not turn back and be healed;
-    in Q he withholds it because there is no good in them, and they would turn away anyway.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God has not given the people a heart to know, eyes to see, ears
     to hear until today [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +47,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God has not given the people a heart to know, eyes to see, ears to hear until today
+kinds:
+- divergence
+units:
+- id: hb-isa-6-throne-vision
+  title: The throne vision and the call of Isaiah
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: divergence
+  label: God has not given the people a heart to know, eyes to see, ears to hear until today
+  note: 'God decides whether they hear: law ʿalima llāhu fīhim khayran la-asmaʿahum wa-law asmaʿahum la-tawallaw
+    vs hašmēn lēb-hāʿām hazzeh wᵉʾoznāyw hakbēd ... pen ... bᵉʾoznāyw yišmāʿ ... wāšāb wᵉrāpāʾ lô. The
+    reason is changed: in Isa God blocks hearing so that they will not turn back and be healed; in Q he
+    withholds it because there is no good in them, and they would turn away anyway.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 6:9
+      lang: he
+      text: וַיֹּ֕אמֶר לֵ֥ךְ וְאָמַרְתָּ֖ לָעָ֣ם הַזֶּ֑ה שִׁמְע֤וּ שָׁמ֨וֹעַ֙ וְאַל תָּבִ֔ינוּ וּרְא֥וּ
+        רָא֖וֹ וְאַל תֵּדָֽעוּ
+    - ref: Isa 6:10
+      lang: he
+      text: הַשְׁמֵן֙ לֵב הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן יִרְאֶ֨ה בְעֵינָ֜יו
+        וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:23
+      lang: ar
+      text: وَلَوْ عَلِمَ ٱللَّهُ فِيهِمْ خَيْرًا لَّأَسْمَعَهُمْ وَلَوْ أَسْمَعَهُمْ لَتَوَلَّوا۟ وَّهُم
+        مُّعْرِضُونَ
 ---
 
 ## Questions

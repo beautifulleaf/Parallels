@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-2-sihon-vs-quran-8-treaties-peace
 title: Defeat of Sihon king of Heshbon ↔ Treaty-breakers, deterrence and peace
-summary: 'These two units share 2 motifs: peace offered or accepted in war, and its terms, messengers
-  offer peace terms before battle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,54 +14,9 @@ layers:
 motifs:
 - peace-terms-in-war
 - peace-offer-before-war
-passages:
-- tradition: judaism
-  ref: Deut 2:26
-  note: Peace offered or accepted in war, and its terms (wāʾešlaḥ malʾākîm ... ʾel-sîḥôn ... dibrê šālôm
-    vs wa-in janaḥū li-s-salmi fa-jnaḥ lahā; wa-in yurīdū an yakhdaʿūka fa-inna ḥasbaka llāh. The peace
-    overture is the other side's in Q and Moses' in Deut.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶשְׁלַ֤ח מַלְאָכִים֙ מִמִּדְבַּ֣ר קְדֵמ֔וֹת אֶל סִיח֖וֹן מֶ֣לֶךְ חֶשְׁבּ֑וֹן דִּבְרֵ֥י שָׁל֖וֹם
-    לֵאמֹֽר
-- tradition: islam
-  ref: Quran 8:61
-  note: Peace offered or accepted in war, and its terms (wāʾešlaḥ malʾākîm ... ʾel-sîḥôn ... dibrê šālôm
-    vs wa-in janaḥū li-s-salmi fa-jnaḥ lahā; wa-in yurīdū an yakhdaʿūka fa-inna ḥasbaka llāh. The peace
-    overture is the other side's in Q and Moses' in Deut.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
-- tradition: islam
-  ref: Quran 8:62
-  note: Peace offered or accepted in war, and its terms (wāʾešlaḥ malʾākîm ... ʾel-sîḥôn ... dibrê šālôm
-    vs wa-in janaḥū li-s-salmi fa-jnaḥ lahā; wa-in yurīdū an yakhdaʿūka fa-inna ḥasbaka llāh. The peace
-    overture is the other side's in Q and Moses' in Deut.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ
-    وَبِٱلْمُؤْمِنِينَ
-- tradition: judaism
-  ref: Deut 2:26
-  note: Messengers offer peace terms before battle (messengers from the wilderness of Kedemoth with words
-    of peace)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶשְׁלַ֤ח מַלְאָכִים֙ מִמִּדְבַּ֣ר קְדֵמ֔וֹת אֶל סִיח֖וֹן מֶ֣לֶךְ חֶשְׁבּ֑וֹן דִּבְרֵ֥י שָׁל֖וֹם
-    לֵאמֹֽר
-- tradition: islam
-  ref: Quran 8:61
-  note: Messengers offer peace terms before battle (peace accepted when offered by the enemy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
-    ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. wāʾešlaḥ malʾākîm ... ʾel-sîḥôn ... dibrê šālôm vs wa-in janaḥū li-s-salmi fa-jnaḥ lahā; wa-in
-    yurīdū an yakhdaʿūka fa-inna ḥasbaka llāh. The peace overture is the other side''s in Q and Moses''
-    in Deut.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Peace offered or accepted in war, and its terms (weight 6.7); Messengers
     offer peace terms before battle (weight 5.8). Pair score 12.5.'
@@ -88,6 +42,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Peace offered or accepted in war, and its terms
+kinds:
+- echo
+- shared
+units:
+- id: hb-deut-2-sihon
+  title: Defeat of Sihon king of Heshbon
+  tradition: judaism
+- id: quran-8-treaties-peace
+  title: Treaty-breakers, deterrence and peace
+  tradition: islam
+matches:
+- kind: echo
+  label: Peace offered or accepted in war, and its terms
+  note: wāʾešlaḥ malʾākîm ... ʾel-sîḥôn ... dibrê šālôm vs wa-in janaḥū li-s-salmi fa-jnaḥ lahā; wa-in
+    yurīdū an yakhdaʿūka fa-inna ḥasbaka llāh. The peace overture is the other side's in Q and Moses'
+    in Deut.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 2:26
+      lang: he
+      text: וָאֶשְׁלַ֤ח מַלְאָכִים֙ מִמִּדְבַּ֣ר קְדֵמ֔וֹת אֶל סִיח֖וֹן מֶ֣לֶךְ חֶשְׁבּ֑וֹן דִּבְרֵ֥י
+        שָׁל֖וֹם לֵאמֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 8:61
+      lang: ar
+      text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
+    - ref: Quran 8:62
+      lang: ar
+      text: وَإِن يُرِيدُوٓا۟ أَن يَخْدَعُوكَ فَإِنَّ حَسْبَكَ ٱللَّهُ هُوَ ٱلَّذِىٓ أَيَّدَكَ بِنَصْرِهِۦ
+        وَبِٱلْمُؤْمِنِينَ
+- kind: shared
+  label: Messengers offer peace terms before battle
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 2:26
+      lang: he
+      text: וָאֶשְׁלַ֤ח מַלְאָכִים֙ מִמִּדְבַּ֣ר קְדֵמ֔וֹת אֶל סִיח֖וֹן מֶ֣לֶךְ חֶשְׁבּ֑וֹן דִּבְרֵ֥י
+        שָׁל֖וֹם לֵאמֹֽר
+    note: messengers from the wilderness of Kedemoth with words of peace
+  - tradition: islam
+    passages:
+    - ref: Quran 8:61
+      lang: ar
+      text: وَإِن جَنَحُوا۟ لِلسَّلْمِ فَٱجْنَحْ لَهَا وَتَوَكَّلْ عَلَى ٱللَّهِ إِنَّهُۥ هُوَ ٱلسَّمِيعُ
+        ٱلْعَلِيمُ
+    note: peace accepted when offered by the enemy
 ---
 
 ## Questions

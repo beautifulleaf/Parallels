@@ -2,8 +2,7 @@
 id: motif-hb-isa-41-trial-of-the-gods-vs-quran-34-intercession-and-judgment
 title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to foretell
   ↔ Partners own nothing; intercession; the weak and the arrogant at judgment
-summary: 'These two units share 1 motifs: challenge to idolaters: show me what those besides god have
-  created.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 - motif
 motifs:
 - show-me-what-your-gods-created
-passages:
-- tradition: judaism
-  ref: Isa 41:21
-  note: 'Challenge to idolaters: show me what those besides God have created (Trial of the gods: qārəḇû
-    rîḇəḵem ... haggîšû ʿăṣumôṯêḵem ... hēn-ʾattem mēʾayin û-p̄āʿolḵem mē-ʾāp̄aʿ vs. qul idʿū lladhīna
-    zaʿamtum min dūni llāhi lā yamlikūna mithqāla dharratin ... qul arūniya lladhīna alḥaqtum bihi shurakāʾ,
-    kallā. The rival gods are summoned and shown to be nothing.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
-- tradition: judaism
-  ref: Isa 41:24
-  note: 'Challenge to idolaters: show me what those besides God have created (Trial of the gods: qārəḇû
-    rîḇəḵem ... haggîšû ʿăṣumôṯêḵem ... hēn-ʾattem mēʾayin û-p̄āʿolḵem mē-ʾāp̄aʿ vs. qul idʿū lladhīna
-    zaʿamtum min dūni llāhi lā yamlikūna mithqāla dharratin ... qul arūniya lladhīna alḥaqtum bihi shurakāʾ,
-    kallā. The rival gods are summoned and shown to be nothing.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אַתֶּ֣ם מֵאַ֔יִן וּפָעָלְכֶ֖ם מֵאָ֑פַע תּוֹעֵבָ֖ה יִבְחַ֥ר בָּכֶֽם
-- tradition: islam
-  ref: Quran 34:27
-  note: 'Challenge to idolaters: show me what those besides God have created'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ كَلَّا بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ ٱلْحَكِيمُ
-- tradition: islam
-  ref: Quran 34:22
-  note: 'Challenge to idolaters: show me what those besides God have created'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى ٱلسَّمَٰوَٰتِ
-    وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. Trial of the gods: qārəḇû rîḇəḵem ... haggîšû ʿăṣumôṯêḵem ... hēn-ʾattem mēʾayin û-p̄āʿolḵem
-    mē-ʾāp̄aʿ vs. qul idʿū lladhīna zaʿamtum min dūni llāhi lā yamlikūna mithqāla dharratin ... qul arūniya
-    lladhīna alḥaqtum bihi shurakāʾ, kallā. The rival gods are summoned and shown to be nothing.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
     (weight 5.3). Pair score 5.3.'
@@ -86,6 +51,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Challenge to idolaters: show me what those besides God have created'
+kinds:
+- parallel
+units:
+- id: hb-isa-41-trial-of-the-gods
+  title: Trial of the nations; the one from the east; Israel my servant, fear not; gods challenged to
+    foretell
+  tradition: judaism
+- id: quran-34-intercession-and-judgment
+  title: Partners own nothing; intercession; the weak and the arrogant at judgment
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Challenge to idolaters: show me what those besides God have created'
+  note: 'Trial of the gods: qārəḇû rîḇəḵem ... haggîšû ʿăṣumôṯêḵem ... hēn-ʾattem mēʾayin û-p̄āʿolḵem
+    mē-ʾāp̄aʿ vs. qul idʿū lladhīna zaʿamtum min dūni llāhi lā yamlikūna mithqāla dharratin ... qul arūniya
+    lladhīna alḥaqtum bihi shurakāʾ, kallā. The rival gods are summoned and shown to be nothing.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 41:21
+      lang: he
+      text: קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֨ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב
+    - ref: Isa 41:24
+      lang: he
+      text: הֵן אַתֶּ֣ם מֵאַ֔יִן וּפָעָלְכֶ֖ם מֵאָ֑פַע תּוֹעֵבָ֖ה יִבְחַ֥ר בָּכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 34:22
+      lang: ar
+      text: قُلِ ٱدْعُوا۟ ٱلَّذِينَ زَعَمْتُم مِّن دُونِ ٱللَّهِ لَا يَمْلِكُونَ مِثْقَالَ ذَرَّةٍ فِى
+        ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ وَمَا لَهُمْ فِيهِمَا مِن شِرْكٍ وَمَا لَهُۥ مِنْهُم مِّن ظَهِيرٍ
+    - ref: Quran 34:27
+      lang: ar
+      text: قُلْ أَرُونِىَ ٱلَّذِينَ أَلْحَقْتُم بِهِۦ شُرَكَآءَ كَلَّا بَلْ هُوَ ٱللَّهُ ٱلْعَزِيزُ
+        ٱلْحَكِيمُ
 ---
 
 ## Questions

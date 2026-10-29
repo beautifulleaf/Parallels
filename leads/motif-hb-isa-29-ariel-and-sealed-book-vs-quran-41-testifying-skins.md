@@ -2,8 +2,7 @@
 id: motif-hb-isa-29-ariel-and-sealed-book-vs-quran-41-testifying-skins
 title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay ↔ Skins
   testify; evil companions; the misled ask to trample their misleaders
-summary: 'These two units share 1 motifs: woe to those who hide their plans deep from god and say ''who
-  sees us? who knows us?''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - who-sees-us-hidden-plans
-passages:
-- tradition: judaism
-  ref: Isa 29:15
-  note: Woe to those who hide their plans deep from God and say 'Who sees us? Who knows us?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
-    מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
-- tradition: islam
-  ref: Quran 41:22
-  note: 'Woe to those who hide their plans deep from God and say ''Who sees us? Who knows us?'' (Sinners
-    who think they can hide from God: wa-mā kuntum tastatirūna ... wa-lākin ẓanantum anna llāha lā yaʿlamu
-    kathīran mimmā taʿmalūn vs. ha-maʿămîqîm mē-YHWH las-tir ʿēṣâ ... mî rōʾēnû û-mî yôḏəʿēnû. Same root
-    of hiding (istatara / s-t-r, lastir). In Isaiah the prophet answers with the potter and clay (29:16);
-    in the Quran their own skins answer.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا جُلُودُكُمْ
-    وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Sinners who think they can hide from God: wa-mā kuntum tastatirūna ... wa-lākin ẓanantum
-    anna llāha lā yaʿlamu kathīran mimmā taʿmalūn vs. ha-maʿămîqîm mē-YHWH las-tir ʿēṣâ ... mî rōʾēnû
-    û-mî yôḏəʿēnû. Same root of hiding (istatara / s-t-r, lastir). In Isaiah the prophet answers with
-    the potter and clay (29:16); in the Quran their own skins answer.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Woe to those who hide their plans deep from God and say ''Who sees
     us? Who knows us?'' (weight 6.7). Pair score 6.7.'
@@ -79,6 +56,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Woe to those who hide their plans deep from God and say 'Who sees us? Who knows us?'
+kinds:
+- parallel
+units:
+- id: hb-isa-29-ariel-and-sealed-book
+  title: Woe to Ariel; enemies like a dream; the sealed book; lip service; the potter and the clay
+  tradition: judaism
+- id: quran-41-testifying-skins
+  title: Skins testify; evil companions; the misled ask to trample their misleaders
+  tradition: islam
+matches:
+- kind: parallel
+  label: Woe to those who hide their plans deep from God and say 'Who sees us? Who knows us?'
+  note: 'Sinners who think they can hide from God: wa-mā kuntum tastatirūna ... wa-lākin ẓanantum anna
+    llāha lā yaʿlamu kathīran mimmā taʿmalūn vs. ha-maʿămîqîm mē-YHWH las-tir ʿēṣâ ... mî rōʾēnû û-mî
+    yôḏəʿēnû. Same root of hiding (istatara / s-t-r, lastir). In Isaiah the prophet answers with the potter
+    and clay (29:16); in the Quran their own skins answer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 29:15
+      lang: he
+      text: ה֛וֹי הַמַּעֲמִיקִ֥ים מֵֽיהוָ֖ה לַסְתִּ֣ר עֵצָ֑ה וְהָיָ֤ה בְמַחְשָׁךְ֙ מַֽעֲשֵׂיהֶ֔ם וַיֹּ֣אמְר֔וּ
+        מִ֥י רֹאֵ֖נוּ וּמִ֥י יוֹדְעֵֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:22
+      lang: ar
+      text: وَمَا كُنتُمْ تَسْتَتِرُونَ أَن يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ أَبْصَٰرُكُمْ وَلَا
+        جُلُودُكُمْ وَلَٰكِن ظَنَنتُمْ أَنَّ ٱللَّهَ لَا يَعْلَمُ كَثِيرًا مِّمَّا تَعْمَلُونَ
 ---
 
 ## Questions

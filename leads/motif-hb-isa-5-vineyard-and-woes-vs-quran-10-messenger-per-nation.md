@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-5-vineyard-and-woes-vs-quran-10-messenger-per-nation
 title: Song of the vineyard; six woes; the nation from afar ↔ A messenger for every nation; no ransom
-summary: 'These two units share 1 motifs: deniers dare the prophet: ''bring us what you threaten, if you
-  are truthful''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - people-dare-prophet-to-bring-punishment
-passages:
-- tradition: judaism
-  ref: Isa 5:19
-  note: 'Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'' (Scoffers tell
-    God to hurry the threatened judgment: wa-yaqūlūna matā hādhā l-waʿdu in kuntum ṣādiqīn; mādhā yastaʿjilu
-    minhu l-mujrimūn vs hāʾōmᵉrîm yᵉmahēr yāḥîšāh maʿăśēhû lᵉmaʿan nirʾeh wᵉtiqrab wᵉtābôʾāh ʿăṣat qᵉdôš
-    yiśrāʾēl.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת קְד֥וֹשׁ
-    יִשְׂרָאֵ֖ל וְנֵדָֽעָה
-- tradition: islam
-  ref: Quran 10:48
-  note: 'Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: islam
-  ref: Quran 10:50
-  note: 'Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًا مَّاذَا يَسْتَعْجِلُ مِنْهُ
-    ٱلْمُجْرِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Scoffers tell God to hurry the threatened judgment: wa-yaqūlūna matā hādhā l-waʿdu in kuntum
-    ṣādiqīn; mādhā yastaʿjilu minhu l-mujrimūn vs hāʾōmᵉrîm yᵉmahēr yāḥîšāh maʿăśēhû lᵉmaʿan nirʾeh wᵉtiqrab
-    wᵉtābôʾāh ʿăṣat qᵉdôš yiśrāʾēl.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers dare the prophet: ''Bring us what you threaten, if you are
     truthful'' (weight 5.3). Pair score 5.3.'
@@ -77,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'''
+kinds:
+- parallel
+units:
+- id: hb-isa-5-vineyard-and-woes
+  title: Song of the vineyard; six woes; the nation from afar
+  tradition: judaism
+- id: quran-10-messenger-per-nation
+  title: A messenger for every nation; no ransom
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Deniers dare the prophet: ''Bring us what you threaten, if you are truthful'''
+  note: 'Scoffers tell God to hurry the threatened judgment: wa-yaqūlūna matā hādhā l-waʿdu in kuntum
+    ṣādiqīn; mādhā yastaʿjilu minhu l-mujrimūn vs hāʾōmᵉrîm yᵉmahēr yāḥîšāh maʿăśēhû lᵉmaʿan nirʾeh wᵉtiqrab
+    wᵉtābôʾāh ʿăṣat qᵉdôš yiśrāʾēl.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 5:19
+      lang: he
+      text: הָאֹמְרִ֗ים יְמַהֵ֧ר יָחִ֛ישָׁה מַעֲשֵׂ֖הוּ לְמַ֣עַן נִרְאֶ֑ה וְתִקְרַ֣ב וְתָב֗וֹאָה עֲצַ֛ת
+        קְד֥וֹשׁ יִשְׂרָאֵ֖ל וְנֵדָֽעָה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:48
+      lang: ar
+      text: وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 10:50
+      lang: ar
+      text: قُلْ أَرَءَيْتُمْ إِنْ أَتَىٰكُمْ عَذَابُهُۥ بَيَٰتًا أَوْ نَهَارًا مَّاذَا يَسْتَعْجِلُ مِنْهُ
+        ٱلْمُجْرِمُونَ
+    - ref: Quran 10:51
+      lang: ar
+      text: أَثُمَّ إِذَا مَا وَقَعَ ءَامَنتُم بِهِۦٓ ءَآلْـَٰٔنَ وَقَدْ كُنتُم بِهِۦ تَسْتَعْجِلُونَ
 ---
 
 ## Questions

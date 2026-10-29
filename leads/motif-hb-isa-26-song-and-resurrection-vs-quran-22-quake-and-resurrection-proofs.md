@@ -2,8 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-22-quake-and-resurrection-proofs
 title: Song of the strong city; your dead shall live ↔ The quake of the Hour and the proofs from embryo
   and rain
-summary: 'These two units share 2 motifs: your dead shall live, their corpses rise; dwellers in the dust
-  shall awake and sing, rain from the sky gives life to the earth after its death, a sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,56 +15,9 @@ layers:
 motifs:
 - resurrection-of-the-dead
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 22:7
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing ('God raises
-    those in the graves')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ
-- tradition: judaism
-  ref: Isa 26:19
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (yiḥyû mētêkā
-    nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm tappîl; wa-tarā
-    l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu man fī l-qubūr:
-    moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights directly brings
-    up the shades; in Q rain reviving the earth is the analogy that proves resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 22:5
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
-    ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ لِّنُبَيِّنَ
-    لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ طِفْلًا
-    ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرْذَلِ
-    ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً فَإِذَآ أَنزَلْنَا
-    عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
-- tradition: islam
-  ref: Quran 22:6
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّهُۥ يُحْىِ ٱلْمَوْتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ
-    قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. yiḥyû mētêkā nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm
-    tappîl; wa-tarā l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu
-    man fī l-qubūr: moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights
-    directly brings up the shades; in Q rain reviving the earth is the analogy that proves resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
     awake and sing (weight 4.9); Rain from the sky gives life to the earth after its death, a sign of
@@ -100,6 +52,63 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rain from the sky gives life to the earth after its death, a sign of resurrection
+kinds:
+- echo
+- shared
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-22-quake-and-resurrection-proofs
+  title: The quake of the Hour and the proofs from embryo and rain
+  tradition: islam
+matches:
+- kind: echo
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  note: 'yiḥyû mētêkā nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm
+    tappîl; wa-tarā l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu
+    man fī l-qubūr: moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights
+    directly brings up the shades; in Q rain reviving the earth is the analogy that proves resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 22:5
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى رَيْبٍ مِّنَ ٱلْبَعْثِ فَإِنَّا خَلَقْنَٰكُم مِّن تُرَابٍ
+        ثُمَّ مِن نُّطْفَةٍ ثُمَّ مِنْ عَلَقَةٍ ثُمَّ مِن مُّضْغَةٍ مُّخَلَّقَةٍ وَغَيْرِ مُخَلَّقَةٍ
+        لِّنُبَيِّنَ لَكُمْ وَنُقِرُّ فِى ٱلْأَرْحَامِ مَا نَشَآءُ إِلَىٰٓ أَجَلٍ مُّسَمًّى ثُمَّ نُخْرِجُكُمْ
+        طِفْلًا ثُمَّ لِتَبْلُغُوٓا۟ أَشُدَّكُمْ وَمِنكُم مَّن يُتَوَفَّىٰ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ
+        أَرْذَلِ ٱلْعُمُرِ لِكَيْلَا يَعْلَمَ مِنۢ بَعْدِ عِلْمٍ شَيْـًٔا وَتَرَى ٱلْأَرْضَ هَامِدَةً
+        فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ وَأَنۢبَتَتْ مِن كُلِّ زَوْجٍۭ بَهِيجٍ
+    - ref: Quran 22:6
+      lang: ar
+      text: ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلْحَقُّ وَأَنَّهُۥ يُحْىِ ٱلْمَوْتَىٰ وَأَنَّهُۥ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
+    - ref: Quran 22:7
+      lang: ar
+      text: وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ
+- kind: shared
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 22:7
+      lang: ar
+      text: وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ
+    note: '''God raises those in the graves'''
 ---
 
 ## Questions

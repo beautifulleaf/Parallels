@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-15-entrance-liturgy-vs-quran-2-usury
 title: Psalm 15 - who may dwell on your holy mountain ↔ Usury
-summary: 'These two units share 1 motifs: do not charge interest to the poor of my people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - prohibition-of-interest
-passages:
-- tradition: judaism
-  ref: Ps 15:5
-  note: Do not charge interest to the poor of my people (silver not given at neshekh)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּסְפּ֤וֹ לֹא נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל נָקִ֗י לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה אֵ֑לֶּה לֹ֖א יִמּ֣וֹט
-    לְעוֹלָֽם
-- tradition: islam
-  ref: Quran 2:275
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ
-    مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟ وَأَحَلَّ ٱللَّهُ
-    ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ
-    وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 2:278
-  note: Do not charge interest to the poor of my people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَذَرُوا۟ مَا بَقِىَ مِنَ ٱلرِّبَوٰٓا۟ إِن
-    كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 15:5 kaspô lōʾ nātan bĕ-nešek ... ʿōśēh ʾēlleh lōʾ yimmôṭ lĕ-ʿôlām: not lending at interest
-    is a condition for dwelling on God''s mountain; Q 2:275-277 ... fa-ulāʾika aṣḥābu n-nāri ... wa-lladhīna
-    āmanū ... lahum ajruhum: usurers to the Fire, the faithful rewarded. Interest decides who stays near
-    God.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not charge interest to the poor of my people (weight 5.8). Pair
     score 5.8.'
@@ -68,6 +41,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not charge interest to the poor of my people
+kinds:
+- echo
+units:
+- id: hb-ps-15-entrance-liturgy
+  title: Psalm 15 - who may dwell on your holy mountain
+  tradition: judaism
+- id: quran-2-usury
+  title: Usury
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not charge interest to the poor of my people
+  note: 'Ps 15:5 kaspô lōʾ nātan bĕ-nešek ... ʿōśēh ʾēlleh lōʾ yimmôṭ lĕ-ʿôlām: not lending at interest
+    is a condition for dwelling on God''s mountain; Q 2:275-277 ... fa-ulāʾika aṣḥābu n-nāri ... wa-lladhīna
+    āmanū ... lahum ajruhum: usurers to the Fire, the faithful rewarded. Interest decides who stays near
+    God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 15:5
+      lang: he
+      text: כַּסְפּ֤וֹ לֹא נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל נָקִ֗י לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה אֵ֑לֶּה לֹ֖א יִמּ֣וֹט
+        לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:275
+      lang: ar
+      text: ٱلَّذِينَ يَأْكُلُونَ ٱلرِّبَوٰا۟ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِى يَتَخَبَّطُهُ
+        ٱلشَّيْطَٰنُ مِنَ ٱلْمَسِّ ذَٰلِكَ بِأَنَّهُمْ قَالُوٓا۟ إِنَّمَا ٱلْبَيْعُ مِثْلُ ٱلرِّبَوٰا۟
+        وَأَحَلَّ ٱللَّهُ ٱلْبَيْعَ وَحَرَّمَ ٱلرِّبَوٰا۟ فَمَن جَآءَهُۥ مَوْعِظَةٌ مِّن رَّبِّهِۦ فَٱنتَهَىٰ
+        فَلَهُۥ مَا سَلَفَ وَأَمْرُهُۥٓ إِلَى ٱللَّهِ وَمَنْ عَادَ فَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ
+        فِيهَا خَٰلِدُونَ
+    - ref: Quran 2:277
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟
+        ٱلزَّكَوٰةَ لَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-mal-3-book-of-remembrance-vs-quran-2-israel-favor
 title: The book of remembrance and the sun of righteousness ↔ Address to the Children of Israel
-summary: 'These two units share 2 motifs: god''s choosing of israel among the peoples [divergence between
-  the texts], israel chosen as god''s treasured people (am segullah) out of all peoples.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,61 +14,9 @@ layers:
 motifs:
 - election-of-israel-as-divergence
 - chosen-treasured-people
-passages:
-- tradition: judaism
-  ref: Mal 3:17
-  note: 'God''s choosing of Israel among the peoples [divergence between the texts] (Both tie election
-    to the coming day. Mal 3:17 lay-yôm ʾăšer ʾănî ʿōśeh sĕgullâ wĕ-ḥāmaltî ʿălêhem: on God''s day the
-    faithful become his treasure and are spared; Q 2:47-48 faḍḍaltukum ... wa-ttaqū yawman lā tajzī nafsun
-    ʿan nafsin shayʾan: past preference, followed by a day on which no favour, intercession or ransom
-    avails.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָ֣יוּ לִ֗י אָמַר֙ יְהוָ֣ה צְבָא֔וֹת לַיּ֕וֹם אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֣ה סְגֻלָּ֑ה וְחָמַלְתִּ֣י
-    עֲלֵיהֶ֔ם כַּֽאֲשֶׁר֙ יַחְמֹ֣ל אִ֔ישׁ עַל בְּנ֖וֹ הָעֹבֵ֥ד אֹתֽוֹ
-- tradition: islam
-  ref: Quran 2:47
-  note: 'God''s choosing of Israel among the peoples [divergence between the texts] (Both tie election
-    to the coming day. Mal 3:17 lay-yôm ʾăšer ʾănî ʿōśeh sĕgullâ wĕ-ḥāmaltî ʿălêhem: on God''s day the
-    faithful become his treasure and are spared; Q 2:47-48 faḍḍaltukum ... wa-ttaqū yawman lā tajzī nafsun
-    ʿan nafsin shayʾan: past preference, followed by a day on which no favour, intercession or ransom
-    avails.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
-    عَلَى ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 2:48
-  note: 'God''s choosing of Israel among the peoples [divergence between the texts] (Both tie election
-    to the coming day. Mal 3:17 lay-yôm ʾăšer ʾănî ʿōśeh sĕgullâ wĕ-ḥāmaltî ʿălêhem: on God''s day the
-    faithful become his treasure and are spared; Q 2:47-48 faḍḍaltukum ... wa-ttaqū yawman lā tajzī nafsun
-    ʿan nafsin shayʾan: past preference, followed by a day on which no favour, intercession or ransom
-    avails.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
-    وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
-- tradition: judaism
-  ref: Mal 3:17
-  note: Israel chosen as God's treasured people (am segullah) out of all peoples (segullah on the day
-    God acts)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָ֣יוּ לִ֗י אָמַר֙ יְהוָ֣ה צְבָא֔וֹת לַיּ֕וֹם אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֣ה סְגֻלָּ֑ה וְחָמַלְתִּ֣י
-    עֲלֵיהֶ֔ם כַּֽאֲשֶׁר֙ יַחְמֹ֣ל אִ֔ישׁ עַל בְּנ֖וֹ הָעֹבֵ֥ד אֹתֽוֹ
-- tradition: islam
-  ref: Quran 2:47
-  note: Israel chosen as God's treasured people (am segullah) out of all peoples (preferred over the worlds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
-    عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Both tie election to the coming day. Mal 3:17 lay-yôm ʾăšer ʾănî ʿōśeh sĕgullâ wĕ-ḥāmaltî
-    ʿălêhem: on God''s day the faithful become his treasure and are spared; Q 2:47-48 faḍḍaltukum ...
-    wa-ttaqū yawman lā tajzī nafsun ʿan nafsin shayʾan: past preference, followed by a day on which no
-    favour, intercession or ransom avails.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s choosing of Israel among the peoples [divergence between
     the texts] (weight 6.7); Israel chosen as God''s treasured people (am segullah) out of all peoples
@@ -103,6 +50,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's choosing of Israel among the peoples
+kinds:
+- divergence
+- shared
+units:
+- id: hb-mal-3-book-of-remembrance
+  title: The book of remembrance and the sun of righteousness
+  tradition: judaism
+- id: quran-2-israel-favor
+  title: Address to the Children of Israel
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's choosing of Israel among the peoples
+  note: 'Both tie election to the coming day. Mal 3:17 lay-yôm ʾăšer ʾănî ʿōśeh sĕgullâ wĕ-ḥāmaltî ʿălêhem:
+    on God''s day the faithful become his treasure and are spared; Q 2:47-48 faḍḍaltukum ... wa-ttaqū
+    yawman lā tajzī nafsun ʿan nafsin shayʾan: past preference, followed by a day on which no favour,
+    intercession or ransom avails.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:17
+      lang: he
+      text: וְהָ֣יוּ לִ֗י אָמַר֙ יְהוָ֣ה צְבָא֔וֹת לַיּ֕וֹם אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֣ה סְגֻלָּ֑ה וְחָמַלְתִּ֣י
+        עֲלֵיהֶ֔ם כַּֽאֲשֶׁר֙ יַחְמֹ֣ל אִ֔ישׁ עַל בְּנ֖וֹ הָעֹבֵ֥ד אֹתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:47
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
+        عَلَى ٱلْعَٰلَمِينَ
+    - ref: Quran 2:48
+      lang: ar
+      text: وَٱتَّقُوا۟ يَوْمًا لَّا تَجْزِى نَفْسٌ عَن نَّفْسٍ شَيْـًٔا وَلَا يُقْبَلُ مِنْهَا شَفَٰعَةٌ
+        وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنصَرُونَ
+- kind: shared
+  label: Israel chosen as God's treasured people (am segullah) out of all peoples
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mal 3:17
+      lang: he
+      text: וְהָ֣יוּ לִ֗י אָמַר֙ יְהוָ֣ה צְבָא֔וֹת לַיּ֕וֹם אֲשֶׁ֥ר אֲנִ֖י עֹשֶׂ֣ה סְגֻלָּ֑ה וְחָמַלְתִּ֣י
+        עֲלֵיהֶ֔ם כַּֽאֲשֶׁר֙ יַחְמֹ֣ל אִ֔ישׁ עַל בְּנ֖וֹ הָעֹבֵ֥ד אֹתֽוֹ
+    note: segullah on the day God acts
+  - tradition: islam
+    passages:
+    - ref: Quran 2:47
+      lang: ar
+      text: يَٰبَنِىٓ إِسْرَٰٓءِيلَ ٱذْكُرُوا۟ نِعْمَتِىَ ٱلَّتِىٓ أَنْعَمْتُ عَلَيْكُمْ وَأَنِّى فَضَّلْتُكُمْ
+        عَلَى ٱلْعَٰلَمِينَ
+    note: preferred over the worlds
 ---
 
 ## Questions

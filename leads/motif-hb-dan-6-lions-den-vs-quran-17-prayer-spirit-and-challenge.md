@@ -2,7 +2,7 @@
 id: motif-hb-dan-6-lions-den-vs-quran-17-prayer-spirit-and-challenge
 title: Daniel in the lions' den ↔ Near compromise, prayer times, the praised station, the spirit, the
   challenge and the demanded signs (Surah 17:73-100)
-summary: 'These two units share 1 motifs: prayer at evening, morning and noon (three fixed times a day).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,43 +15,9 @@ layers:
 - motif
 motifs:
 - prayer-three-times-daily
-passages:
-- tradition: judaism
-  ref: Dan 6:11
-  note: Prayer at evening, morning and noon (three fixed times a day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙
-    בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
-    וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
-- tradition: judaism
-  ref: Dan 6:14
-  note: Prayer at evening, morning and noon (three fixed times a day)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֵּ֠אדַיִן עֲנ֣וֹ וְאָמְרִין֮ קֳדָ֣ם מַלְכָּא֒ דִּ֣י דָנִיֵּ֡אל דִּי֩ מִן בְּנֵ֨י גָלוּתָ֜א דִּ֣י
-    יְה֗וּד לָא שָׂ֨ם עליך עֲלָ֤ךְ מַלְכָּא֙ טְעֵ֔ם וְעַל אֱסָרָ֖א דִּ֣י רְשַׁ֑מְתָּ וְזִמְנִ֤ין תְּלָתָה֙
-    בְּיוֹמָ֔א בָּעֵ֖א בָּעוּתֵֽהּ
-- tradition: islam
-  ref: Quran 17:78
-  note: 'Prayer at evening, morning and noon (three fixed times a day) (three anchoring times: noon decline,
-    nightfall, dawn)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ قُرْءَانَ
-    ٱلْفَجْرِ كَانَ مَشْهُودًا
-- tradition: islam
-  ref: Quran 17:79
-  note: 'Prayer at evening, morning and noon (three fixed times a day) (three anchoring times: noon decline,
-    nightfall, dawn)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. zimnîn təlātâ bəyômāʾ hûʾ bārēk ʿal-birkôhî ûməṣallēʾ; aqimi ṣ-ṣalāta li-dulūki sh-shams
-    ... wa-mina l-layli fa-tahajjad bihi nāfilatan lak: fixed daily prayer (Aramaic ṣlʾ, Arabic ṣalāt).
-    Dan prays toward Jerusalem (neged yərûšlem); Q adds a voluntary night vigil.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer at evening, morning and noon (three fixed times a day) (weight
     6.0). Pair score 6.0.'
@@ -86,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer at evening, morning and noon (three fixed times a day)
+kinds:
+- parallel
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-17-prayer-spirit-and-challenge
+  title: Near compromise, prayer times, the praised station, the spirit, the challenge and the demanded
+    signs (Surah 17:73-100)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Prayer at evening, morning and noon (three fixed times a day)
+  note: 'zimnîn təlātâ bəyômāʾ hûʾ bārēk ʿal-birkôhî ûməṣallēʾ; aqimi ṣ-ṣalāta li-dulūki sh-shams ...
+    wa-mina l-layli fa-tahajjad bihi nāfilatan lak: fixed daily prayer (Aramaic ṣlʾ, Arabic ṣalāt). Dan
+    prays toward Jerusalem (neged yərûšlem); Q adds a voluntary night vigil.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:11
+      lang: he
+      text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן
+        לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
+        וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 17:78
+      lang: ar
+      text: أَقِمِ ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمْسِ إِلَىٰ غَسَقِ ٱلَّيْلِ وَقُرْءَانَ ٱلْفَجْرِ إِنَّ
+        قُرْءَانَ ٱلْفَجْرِ كَانَ مَشْهُودًا
+    - ref: Quran 17:79
+      lang: ar
+      text: وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةً لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا
+        مَّحْمُودًا
 ---
 
 ## Questions

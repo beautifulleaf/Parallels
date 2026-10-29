@@ -2,8 +2,7 @@
 id: motif-hb-ps-107-four-rescues-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers) ↔ Al-Hadid: First
   and Last, Outward and Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: god brings believers out of darknesses into light; false gods
-  lead others from light into darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - from-darkness-to-light
-passages:
-- tradition: judaism
-  ref: Ps 107:14
-  note: 'God brings believers out of darknesses into light; false gods lead others from light into darkness
-    (Ps 107:14 yôṣîʾēm mē-ḥōšek wĕ-ṣalmāwet: God brings the prisoners out of darkness and death-shadow;
-    Q 2:257 allāhu waliyyu lladhīna āmanū yukhrijuhum mina ẓ-ẓulumāti ilā n-nūr: God brings the believers
-    out of darknesses into light. Rescue from prison becomes coming to faith; the Quran adds the reverse,
-    false gods leading from light to darkness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֽ֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק
-- tradition: islam
-  ref: Quran 57:9
-  note: God brings believers out of darknesses into light; false gods lead others from light into darkness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ
-    إِلَى ٱلنُّورِ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Same verb of bringing out of darkness: yôṣîʾēm mē-ḥōšeḵ wə-ṣalmāweṯ û-môsərôṯêhem yənattēq vs.
-    li-yukhrijakum mina ẓ-ẓulumāti ilā n-nūr (y-ṣ-ʾ hiphil ~ ʾakhraja). The psalm''s darkness is a prison;
-    the Quran''s is unbelief, and the means are the revealed signs.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God brings believers out of darknesses into light; false gods lead
     others from light into darkness (weight 5.4). Pair score 5.4.'
@@ -76,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God brings believers out of darknesses into light; false gods lead others from light into darkness
+kinds:
+- echo
+units:
+- id: hb-ps-107-four-rescues
+  title: Psalm 107, thanksgiving of the redeemed (wanderers, prisoners, sick, seafarers)
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: echo
+  label: God brings believers out of darknesses into light; false gods lead others from light into darkness
+  note: 'Same verb of bringing out of darkness: yôṣîʾēm mē-ḥōšeḵ wə-ṣalmāweṯ û-môsərôṯêhem yənattēq vs.
+    li-yukhrijakum mina ẓ-ẓulumāti ilā n-nūr (y-ṣ-ʾ hiphil ~ ʾakhraja). The psalm''s darkness is a prison;
+    the Quran''s is unbelief, and the means are the revealed signs.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 107:14
+      lang: he
+      text: יֽ֭וֹצִיאֵם מֵחֹ֣שֶׁךְ וְצַלְמָ֑וֶת וּמוֹסְר֖וֹתֵיהֶ֣ם יְנַתֵּֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 57:9
+      lang: ar
+      text: هُوَ ٱلَّذِى يُنَزِّلُ عَلَىٰ عَبْدِهِۦٓ ءَايَٰتٍۭ بَيِّنَٰتٍ لِّيُخْرِجَكُم مِّنَ ٱلظُّلُمَٰتِ
+        إِلَى ٱلنُّورِ وَإِنَّ ٱللَّهَ بِكُمْ لَرَءُوفٌ رَّحِيمٌ
 ---
 
 ## Questions

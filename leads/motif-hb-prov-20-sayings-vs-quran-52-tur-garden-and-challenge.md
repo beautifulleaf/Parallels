@@ -2,8 +2,7 @@
 id: motif-hb-prov-20-sayings-vs-quran-52-tur-garden-and-challenge
 title: 'Sayings on wine, the king''s throne and the lamp of YHWH ↔ The Garden: offspring joined with parents,
   the cup without idle talk, youths like pearls; the run of ''or...?'' challenges'
-summary: 'These two units share 1 motifs: the effects of wine and of the cup: mockery, madness, or none
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - effects-of-wine-and-the-cup-as-contrast
-passages:
-- tradition: judaism
-  ref: Prov 20:1
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (Wine
-    and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker, strong drink
-    a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no idle talk and
-    no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣ץ הַ֭יַּין הֹמֶ֣ה שֵׁכָ֑ר וְכָל שֹׁ֥גֶה בּ֝֗וֹ לֹ֣א יֶחְכָּֽם
-- tradition: islam
-  ref: Quran 52:23
-  note: 'The effects of wine and of the cup: mockery, madness, or none [contrast between the texts] (Wine
-    and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker, strong drink
-    a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no idle talk and
-    no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Wine and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker,
-    strong drink a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no
-    idle talk and no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The effects of wine and of the cup: mockery, madness, or none [contrast
     between the texts] (weight 5.8). Pair score 5.8.'
@@ -76,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The effects of wine and of the cup: mockery, madness, or none'
+kinds:
+- contrast
+units:
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+- id: quran-52-tur-garden-and-challenge
+  title: 'The Garden: offspring joined with parents, the cup without idle talk, youths like pearls; the
+    run of ''or...?'' challenges'
+  tradition: islam
+matches:
+- kind: contrast
+  label: 'The effects of wine and of the cup: mockery, madness, or none'
+  note: 'Wine and its effects: lēṣ hay-yayin hōmeh šēḵār wə-ḵol šōḡeh bô lōʾ yeḥkām (wine is a mocker,
+    strong drink a brawler) vs. yatanāzaʿūna fīhā kaʾsan lā laghwun fīhā wa-lā taʾthīm (a cup with no
+    idle talk and no sin). The Quran''s heavenly cup lacks just the faults Proverbs gives earthly wine.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:1
+      lang: he
+      text: לֵ֣ץ הַ֭יַּין הֹמֶ֣ה שֵׁכָ֑ר וְכָל שֹׁ֥גֶה בּ֝֗וֹ לֹ֣א יֶחְכָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 52:23
+      lang: ar
+      text: يَتَنَٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ
 ---
 
 ## Questions

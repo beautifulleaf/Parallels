@@ -2,8 +2,7 @@
 id: motif-hb-job-9-job-cannot-sue-god-vs-quran-23-lordship-arguments
 title: Job - cosmic power of God and the impossible lawsuit ↔ Who owns the earth? The fables of the ancients
   and the impossibility of many gods
-summary: 'These two units share 1 motifs: sufferer imagines suing god but knows god''s might would silence
-  or condemn him.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - god-as-unanswerable-litigant
-passages:
-- tradition: judaism
-  ref: Job 9:3
-  note: Sufferer imagines suing God but knows God's might would silence or condemn him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יַ֭חְפֹּץ לָרִ֣יב עִמּ֑וֹ לֹֽא יַ֝עֲנֶ֗נּוּ אַחַ֥ת מִנִּי אָֽלֶף
-- tradition: judaism
-  ref: Job 9:14
-  note: Sufferer imagines suing God but knows God's might would silence or condemn him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֭ף כִּֽי אָנֹכִ֣י אֶֽעֱנֶ֑נּוּ אֶבְחֲרָ֖ה דְבָרַ֣י עִמּֽוֹ
-- tradition: islam
-  ref: Quran 23:88
-  note: 'Sufferer imagines suing God but knows God''s might would silence or condemn him (wa-huwa yujīru
-    wa-lā yujāru ʿalayhi ~ hēn yaḥtōf mî yəšîvennû mî yōʾmar ʾēlāyw mah taʿăśeh: no one can protect against
-    God or check him. Job says it in protest, the Quran in confession.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-huwa yujīru wa-lā yujāru ʿalayhi ~ hēn yaḥtōf mî yəšîvennû mî yōʾmar ʾēlāyw mah taʿăśeh:
-    no one can protect against God or check him. Job says it in protest, the Quran in confession.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sufferer imagines suing God but knows God''s might would silence
     or condemn him (weight 6.7). Pair score 6.7.'
@@ -73,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sufferer imagines suing God but knows God's might would silence or condemn him
+kinds:
+- echo
+units:
+- id: hb-job-9-job-cannot-sue-god
+  title: Job - cosmic power of God and the impossible lawsuit
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: echo
+  label: Sufferer imagines suing God but knows God's might would silence or condemn him
+  note: 'wa-huwa yujīru wa-lā yujāru ʿalayhi ~ hēn yaḥtōf mî yəšîvennû mî yōʾmar ʾēlāyw mah taʿăśeh: no
+    one can protect against God or check him. Job says it in protest, the Quran in confession.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 9:12
+      lang: he
+      text: הֵ֣ן יַ֭חְתֹּף מִ֣י יְשִׁיבֶ֑נּוּ מִֽי יֹאמַ֥ר אֵ֝לָ֗יו מַֽה תַּעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 23:88
+      lang: ar
+      text: قُلْ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَىْءٍ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيْهِ إِن كُنتُمْ
+        تَعْلَمُونَ
 ---
 
 ## Questions

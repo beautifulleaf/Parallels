@@ -2,7 +2,7 @@
 id: motif-hb-ps-104-creation-hymn-vs-quran-10-friends-of-god
 title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten) ↔ Healing for hearts, the atom's
   weight, God has no son
-summary: 'These two units share 1 motifs: god made the night for rest and the day for seeing.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,37 +15,9 @@ layers:
 - motif
 motifs:
 - night-for-rest-day-for-seeing
-passages:
-- tradition: judaism
-  ref: Ps 104:22
-  note: 'God made the night for rest and the day for seeing (Night for rest and day for work: jaʿala lakumu
-    l-layla li-taskunū fīhi wa-n-nahāra mubṣiran vs tizraḥ haššemeš yēʾāsēpûn wᵉʾel-mᵉʿônōtām yirbāṣûn
-    yēṣēʾ ʾādām lᵉpāʿŏlô wᵉlaʿăbōdātô ʿădê-ʿāreb. In Ps the night belongs to the beasts; in Q it is for
-    human rest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן
-- tradition: judaism
-  ref: Ps 104:23
-  note: 'God made the night for rest and the day for seeing (Night for rest and day for work: jaʿala lakumu
-    l-layla li-taskunū fīhi wa-n-nahāra mubṣiran vs tizraḥ haššemeš yēʾāsēpûn wᵉʾel-mᵉʿônōtām yirbāṣûn
-    yēṣēʾ ʾādām lᵉpāʿŏlô wᵉlaʿăbōdātô ʿădê-ʿāreb. In Ps the night belongs to the beasts; in Q it is for
-    human rest.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
-- tradition: islam
-  ref: Quran 10:67
-  note: God made the night for rest and the day for seeing
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ
-    لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Night for rest and day for work: jaʿala lakumu l-layla li-taskunū fīhi wa-n-nahāra mubṣiran
-    vs tizraḥ haššemeš yēʾāsēpûn wᵉʾel-mᵉʿônōtām yirbāṣûn yēṣēʾ ʾādām lᵉpāʿŏlô wᵉlaʿăbōdātô ʿădê-ʿāreb.
-    In Ps the night belongs to the beasts; in Q it is for human rest.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made the night for rest and the day for seeing (weight 6.7).
     Pair score 6.7.'
@@ -77,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made the night for rest and the day for seeing
+kinds:
+- parallel
+units:
+- id: hb-ps-104-creation-hymn
+  title: Psalm 104, the great creation hymn (cf. the Great Hymn to the Aten)
+  tradition: judaism
+- id: quran-10-friends-of-god
+  title: Healing for hearts, the atom's weight, God has no son
+  tradition: islam
+matches:
+- kind: parallel
+  label: God made the night for rest and the day for seeing
+  note: 'Night for rest and day for work: jaʿala lakumu l-layla li-taskunū fīhi wa-n-nahāra mubṣiran vs
+    tizraḥ haššemeš yēʾāsēpûn wᵉʾel-mᵉʿônōtām yirbāṣûn yēṣēʾ ʾādām lᵉpāʿŏlô wᵉlaʿăbōdātô ʿădê-ʿāreb. In
+    Ps the night belongs to the beasts; in Q it is for human rest.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 104:22
+      lang: he
+      text: תִּזְרַ֣ח הַ֭שֶּׁמֶשׁ יֵאָסֵפ֑וּן וְאֶל מְ֝עוֹנֹתָ֗ם יִרְבָּצֽוּן
+    - ref: Ps 104:23
+      lang: he
+      text: יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי עָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 10:67
+      lang: ar
+      text: هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلَّيْلَ لِتَسْكُنُوا۟ فِيهِ وَٱلنَّهَارَ مُبْصِرًا إِنَّ فِى ذَٰلِكَ
+        لَءَايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ
 ---
 
 ## Questions

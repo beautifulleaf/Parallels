@@ -2,7 +2,7 @@
 id: motif-hb-1sam-30-ziklag-amalekites-vs-quran-8-spoils-and-believers
 title: Amalekites burn Ziklag; David recovers all and makes the spoil law ↔ The question of spoils and
   the marks of true believers
-summary: 'These two units share 1 motifs: returning warriors divide the spoil with their brothers at home.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,39 +14,9 @@ layers:
 - motif
 motifs:
 - share-spoil-with-those-at-home
-passages:
-- tradition: judaism
-  ref: 1Sam 30:22
-  note: Returning warriors divide the spoil with their brothers at home (Equal share for those who stay
-    with the baggage, made 'a statute and ordinance for Israel to this day')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֜עַן כָּל אִֽישׁ רָ֣ע וּבְלִיַּ֗עַל מֵֽהָאֲנָשִׁים֮ אֲשֶׁ֣ר הָלְכ֣וּ עִם דָּוִד֒ וַיֹּאמְר֗וּ
-    יַ֚עַן אֲשֶׁ֣ר לֹֽא הָלְכ֣וּ עִמִּ֔י לֹֽא נִתֵּ֣ן לָהֶ֔ם מֵהַשָּׁלָ֖ל אֲשֶׁ֣ר הִצַּ֑לְנוּ כִּֽי אִם
-    אִ֤ישׁ אֶת אִשְׁתּוֹ֙ וְאֶת בָּנָ֔יו וְיִנְהֲג֖וּ וְיֵלֵֽכוּ
-- tradition: judaism
-  ref: 1Sam 30:23
-  note: Returning warriors divide the spoil with their brothers at home (Equal share for those who stay
-    with the baggage, made 'a statute and ordinance for Israel to this day')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר דָּוִ֔ד לֹֽא תַעֲשׂ֥וּ כֵ֖ן אֶחָ֑י אֵ֠ת אֲשֶׁר נָתַ֨ן יְהוָ֥ה לָ֨נוּ֙ וַיִּשְׁמֹ֣ר
-    אֹתָ֔נוּ וַיִּתֵּ֗ן אֶֽת הַגְּד֛וּד הַבָּ֥א עָלֵ֖ינוּ בְּיָדֵֽנוּ
-- tradition: islam
-  ref: Quran 8:1
-  note: 'Returning warriors divide the spoil with their brothers at home (A quarrel among the fighters
-    over the booty, settled by the leader as God''s gift: yasʾalūnaka ʿani l-anfāli ... fa-ttaqū llāha
-    wa-aṣliḥū dhāta baynikum vs lōʾ-nittēn lāhem mēhaššālāl ... lōʾ-taʿăśû kēn ʾeḥāy ʾēt ʾăšer-nātan YHWH
-    lānû ... yaḥdāw yaḥălōqû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟
-    ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. A quarrel among the fighters over the booty, settled by the leader as God''s gift: yasʾalūnaka
-    ʿani l-anfāli ... fa-ttaqū llāha wa-aṣliḥū dhāta baynikum vs lōʾ-nittēn lāhem mēhaššālāl ... lōʾ-taʿăśû
-    kēn ʾeḥāy ʾēt ʾăšer-nātan YHWH lānû ... yaḥdāw yaḥălōqû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Returning warriors divide the spoil with their brothers at home
     (weight 6.3). Pair score 6.3.'
@@ -73,6 +43,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Returning warriors divide the spoil with their brothers at home
+kinds:
+- echo
+units:
+- id: hb-1sam-30-ziklag-amalekites
+  title: Amalekites burn Ziklag; David recovers all and makes the spoil law
+  tradition: judaism
+- id: quran-8-spoils-and-believers
+  title: The question of spoils and the marks of true believers
+  tradition: islam
+matches:
+- kind: echo
+  label: Returning warriors divide the spoil with their brothers at home
+  note: 'A quarrel among the fighters over the booty, settled by the leader as God''s gift: yasʾalūnaka
+    ʿani l-anfāli ... fa-ttaqū llāha wa-aṣliḥū dhāta baynikum vs lōʾ-nittēn lāhem mēhaššālāl ... lōʾ-taʿăśû
+    kēn ʾeḥāy ʾēt ʾăšer-nātan YHWH lānû ... yaḥdāw yaḥălōqû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 30:22
+      lang: he
+      text: וַיַּ֜עַן כָּל אִֽישׁ רָ֣ע וּבְלִיַּ֗עַל מֵֽהָאֲנָשִׁים֮ אֲשֶׁ֣ר הָלְכ֣וּ עִם דָּוִד֒ וַיֹּאמְר֗וּ
+        יַ֚עַן אֲשֶׁ֣ר לֹֽא הָלְכ֣וּ עִמִּ֔י לֹֽא נִתֵּ֣ן לָהֶ֔ם מֵהַשָּׁלָ֖ל אֲשֶׁ֣ר הִצַּ֑לְנוּ כִּֽי
+        אִם אִ֤ישׁ אֶת אִשְׁתּוֹ֙ וְאֶת בָּנָ֔יו וְיִנְהֲג֖וּ וְיֵלֵֽכוּ
+    - ref: 1Sam 30:23
+      lang: he
+      text: וַיֹּ֣אמֶר דָּוִ֔ד לֹֽא תַעֲשׂ֥וּ כֵ֖ן אֶחָ֑י אֵ֠ת אֲשֶׁר נָתַ֨ן יְהוָ֥ה לָ֨נוּ֙ וַיִּשְׁמֹ֣ר
+        אֹתָ֔נוּ וַיִּתֵּ֗ן אֶֽת הַגְּד֛וּד הַבָּ֥א עָלֵ֖ינוּ בְּיָדֵֽנוּ
+    - ref: 1Sam 30:24
+      lang: he
+      text: וּמִי֙ יִשְׁמַ֣ע לָכֶ֔ם לַדָּבָ֖ר הַזֶּ֑ה כִּ֞י כְּחֵ֣לֶק הַיֹּרֵ֣ד בַּמִּלְחָמָ֗ה וּֽכְחֵ֛לֶק
+        הַיֹּשֵׁ֥ב עַל הַכֵּלִ֖ים יַחְדָּ֥ו יַחֲלֹֽקוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 8:1
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ
+        وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

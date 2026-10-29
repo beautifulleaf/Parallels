@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-59-hashr-hypocrites-and-the-names
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ The hypocrites' false
   promises, Satan's disowning, the Quran on a mountain, and the litany of beautiful names
-summary: 'These two units share 1 motifs: litany of divine names: king, holy, peace, faithful, guardian,
-  mighty, compeller, proud, creator, maker, fashioner; to him belong the most beautiful names.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - litany-of-beautiful-names
-passages:
-- tradition: judaism
-  ref: Isa 43:1
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names (Creator names from the same roots: kōh ʾāmar
-    YHWH bōrăʾăḵā yaʿăqōḇ wə-yōṣerḵā yiśrāʾēl vs. huwa llāhu l-khāliqu l-bāriʾu l-muṣawwir (bôrēʾ / bāriʾ,
-    same root b-r-ʾ; yōṣēr ''former'' ~ muṣawwir ''fashioner''). Isaiah: creator and former of Jacob-Israel;
-    Quran: of all things, followed by ''to him belong the most beautiful names''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֞ה כֹּֽה אָמַ֤ר יְהוָה֙ בֹּרַאֲךָ֣ יַעֲקֹ֔ב וְיֹצֶרְךָ֖ יִשְׂרָאֵ֑ל אַל תִּירָא֙ כִּ֣י
-    גְאַלְתִּ֔יךָ קָרָ֥אתִי בְשִׁמְךָ֖ לִי אָֽתָּה
-- tradition: islam
-  ref: Quran 59:22
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ عَٰلِمُ ٱلْغَيْبِ وَٱلشَّهَٰدَةِ هُوَ ٱلرَّحْمَٰنُ
-    ٱلرَّحِيمُ
-- tradition: islam
-  ref: Quran 59:23
-  note: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
-    Maker, Fashioner; to him belong the most beautiful names'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ
-    ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ سُبْحَٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Creator names from the same roots: kōh ʾāmar YHWH bōrăʾăḵā yaʿăqōḇ wə-yōṣerḵā yiśrāʾēl vs.
-    huwa llāhu l-khāliqu l-bāriʾu l-muṣawwir (bôrēʾ / bāriʾ, same root b-r-ʾ; yōṣēr ''former'' ~ muṣawwir
-    ''fashioner''). Isaiah: creator and former of Jacob-Israel; Quran: of all things, followed by ''to
-    him belong the most beautiful names''.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty,
     Compeller, Proud, Creator, Maker, Fashioner; to him belong the most beautiful names (weight 5.6).
@@ -89,6 +57,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
+  Maker, Fashioner; to him belong the most beautiful names'
+kinds:
+- parallel
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-59-hashr-hypocrites-and-the-names
+  title: The hypocrites' false promises, Satan's disowning, the Quran on a mountain, and the litany of
+    beautiful names
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Litany of divine names: King, Holy, Peace, Faithful, Guardian, Mighty, Compeller, Proud, Creator,
+    Maker, Fashioner; to him belong the most beautiful names'
+  note: 'Creator names from the same roots: kōh ʾāmar YHWH bōrăʾăḵā yaʿăqōḇ wə-yōṣerḵā yiśrāʾēl vs. huwa
+    llāhu l-khāliqu l-bāriʾu l-muṣawwir (bôrēʾ / bāriʾ, same root b-r-ʾ; yōṣēr ''former'' ~ muṣawwir ''fashioner'').
+    Isaiah: creator and former of Jacob-Israel; Quran: of all things, followed by ''to him belong the
+    most beautiful names''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:1
+      lang: he
+      text: וְעַתָּ֞ה כֹּֽה אָמַ֤ר יְהוָה֙ בֹּרַאֲךָ֣ יַעֲקֹ֔ב וְיֹצֶרְךָ֖ יִשְׂרָאֵ֑ל אַל תִּירָא֙ כִּ֣י
+        גְאַלְתִּ֔יךָ קָרָ֥אתִי בְשִׁמְךָ֖ לִי אָֽתָּה
+  - tradition: islam
+    passages:
+    - ref: Quran 59:24
+      lang: ar
+      text: هُوَ ٱللَّهُ ٱلْخَٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ يُسَبِّحُ لَهُۥ
+        مَا فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

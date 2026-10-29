@@ -2,7 +2,7 @@
 id: motif-hb-job-10-why-did-you-make-me-vs-quran-15-iblis
 title: Job - 'Your hands fashioned me'; land of darkness ↔ Man from black mud, jinn from scorching fire,
   and Iblis's refusal (Surah 15:26-50)
-summary: 'These two units share 1 motifs: first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 10:9
-  note: First human shaped from dust, clay or soil ('like clay you made me')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
-- tradition: islam
-  ref: Quran 15:26
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
-- tradition: islam
-  ref: Quran 15:28
-  note: 'First human shaped from dust, clay or soil (ṣalṣāl min ḥamaʾin masnūn: ringing clay of altered
-    black mud)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. zəkār-nāʾ kî-kaḥōmer ʿăśîtānî wəʾel-ʿāpār təšîbēnî; khalaqnā l-insāna min ṣalṣālin min ḥamaʾin
-    masnūn: man made of clay. Job uses it in a complaint against his maker; Q uses it to set up Iblis''s
-    contempt for clay.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: First human shaped from dust, clay or soil (weight 4.6). Pair score
     4.5.'
@@ -75,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: First human shaped from dust, clay or soil
+kinds:
+- parallel
+units:
+- id: hb-job-10-why-did-you-make-me
+  title: Job - 'Your hands fashioned me'; land of darkness
+  tradition: judaism
+- id: quran-15-iblis
+  title: Man from black mud, jinn from scorching fire, and Iblis's refusal (Surah 15:26-50)
+  tradition: islam
+matches:
+- kind: parallel
+  label: First human shaped from dust, clay or soil
+  note: 'zəkār-nāʾ kî-kaḥōmer ʿăśîtānî wəʾel-ʿāpār təšîbēnî; khalaqnā l-insāna min ṣalṣālin min ḥamaʾin
+    masnūn: man made of clay. Job uses it in a complaint against his maker; Q uses it to set up Iblis''s
+    contempt for clay.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 10:9
+      lang: he
+      text: זְכָר נָ֭א כִּי כַחֹ֣מֶר עֲשִׂיתָ֑נִי וְֽאֶל עָפָ֥ר תְּשִׁיבֵֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 15:26
+      lang: ar
+      text: وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ مِّنْ حَمَإٍ مَّسْنُونٍ
 ---
 
 ## Questions

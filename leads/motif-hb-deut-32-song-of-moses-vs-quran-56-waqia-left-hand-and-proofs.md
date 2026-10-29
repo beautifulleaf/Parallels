@@ -2,9 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-56-waqia-left-hand-and-proofs
 title: The Song of Moses (Ha'azinu) ↔ The Companions of the Left in smoke and samum; who creates semen,
   crops, rain and fire?; the hidden Book; the soul at the throat
-summary: 'These two units share 2 motifs: the tree of zaqqum grows from the bottom of hell; its spathes
-  are like the heads of devils; the damned fill their bellies and drink boiling water, if god wills he
-  takes you away and brings another people in your place.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,61 +16,7 @@ layers:
 motifs:
 - tree-of-zaqqum
 - god-replaces-people
-passages:
-- tradition: judaism
-  ref: Deut 32:32
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
-    מְרֹרֹ֖ת לָֽמוֹ
-- tradition: judaism
-  ref: Deut 32:33
-  note: 'The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water (kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ
-    mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu
-    ruʾūsu sh-shayāṭīn: a plant of the realm of destruction whose fruit is poison. Grapes of gall with
-    the head (rōʾš) of vipers in Deut; spathes like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay
-    is a lead only.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
-- tradition: islam
-  ref: Quran 56:52
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَءَاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ
-- tradition: islam
-  ref: Quran 56:53
-  note: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
-    damned fill their bellies and drink boiling water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
-- tradition: judaism
-  ref: Deut 32:21
-  note: If God wills he takes you away and brings another people in your place (wa-ʾănî ʾaqnîʾēm bə-lōʾ
-    ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm (I will provoke them with a no-people) vs. yastabdil qawman ghayrakum. Deuteronomy
-    uses the other nation to provoke Israel's jealousy; the Quran's other people would replace them. cf.
-    Matt 21:43.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
-    נָבָ֖ל אַכְעִיסֵֽם
-- tradition: islam
-  ref: Quran 56:61
-  note: If God wills he takes you away and brings another people in your place (God could replace you
-    with your likes)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The tree of Zaqqum grows from the bottom of hell; its spathes are
     like the heads of devils; the damned fill their bellies and drink boiling water (weight 5.8); If God
@@ -110,6 +54,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+  damned fill their bellies and drink boiling water
+kinds:
+- shared
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-56-waqia-left-hand-and-proofs
+  title: The Companions of the Left in smoke and samum; who creates semen, crops, rain and fire?; the
+    hidden Book; the soul at the throat
+  tradition: islam
+matches:
+- kind: shared
+  label: The tree of Zaqqum grows from the bottom of hell; its spathes are like the heads of devils; the
+    damned fill their bellies and drink boiling water
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:32
+      lang: he
+      text: כִּֽי מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה עֲנָבֵ֨מוֹ֙ עִנְּבֵי ר֔וֹשׁ אַשְׁכְּלֹ֥ת
+        מְרֹרֹ֖ת לָֽמוֹ
+    - ref: Deut 32:33
+      lang: he
+      text: חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר
+    note: 'kî mi-ggep̄en sədōm gap̄nām ... ʿinnəḇê-rôš ʾaškəlōṯ mərōrōṯ lāmô ... wə-rōʾš pəṯānîm ʾaḵzār
+      vs. shajaratun takhruju fī aṣli l-jaḥīmi ṭalʿuhā ka-annahu ruʾūsu sh-shayāṭīn: a plant of the realm
+      of destruction whose fruit is poison. Grapes of gall with the head (rōʾš) of vipers in Deut; spathes
+      like the heads (ruʾūs) of devils in Q. The rōʾš/raʾs wordplay is a lead only.'
+  - tradition: islam
+    passages:
+    - ref: Quran 56:52
+      lang: ar
+      text: لَءَاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ
+    - ref: Quran 56:53
+      lang: ar
+      text: فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ
+- kind: shared
+  label: If God wills he takes you away and brings another people in your place
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:21
+      lang: he
+      text: הֵ֚ם קִנְא֣וּנִי בְלֹא אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא עָ֔ם בְּג֥וֹי
+        נָבָ֖ל אַכְעִיסֵֽם
+    note: wa-ʾănî ʾaqnîʾēm bə-lōʾ ʿām bə-ḡôy nāḇāl ʾaḵʿîsēm (I will provoke them with a no-people) vs.
+      yastabdil qawman ghayrakum. Deuteronomy uses the other nation to provoke Israel's jealousy; the
+      Quran's other people would replace them. cf. Matt 21:43.
+  - tradition: islam
+    passages:
+    - ref: Quran 56:61
+      lang: ar
+      text: عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ
+    note: God could replace you with your likes
 ---
 
 ## Questions

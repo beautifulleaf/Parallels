@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-44-dukhan-zaqqum-and-garden
 title: Second creation account, Eden, and the making of woman ↔ Deniers demand their fathers; the people
   of Tubba'; the tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: a tree whose fruit is food, in eden or in hell [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - tree-of-food-in-garden-or-hell-as-contrast
-passages:
-- tradition: judaism
-  ref: Gen 2:9
-  note: 'A tree whose fruit is food, in Eden or in hell [contrast between the texts] (Two trees of food:
-    wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān among trees ṭôḇ lə-maʾăḵāl (good for food), in Eden, vs. shajarata
-    z-zaqqūmi ṭaʿāmu l-athīm in the midst of Hell (sawāʾ al-jaḥīm, 44:47). The hell-tree as an inverted
-    tree of life is a modern reading (see hint); the HB has no hell-tree. Weak lead.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
-    וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
-- tradition: islam
-  ref: Quran 44:43
-  note: 'A tree whose fruit is food, in Eden or in hell [contrast between the texts] (Two trees of food:
-    wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān among trees ṭôḇ lə-maʾăḵāl (good for food), in Eden, vs. shajarata
-    z-zaqqūmi ṭaʿāmu l-athīm in the midst of Hell (sawāʾ al-jaḥīm, 44:47). The hell-tree as an inverted
-    tree of life is a modern reading (see hint); the HB has no hell-tree. Weak lead.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
-- tradition: islam
-  ref: Quran 44:44
-  note: 'A tree whose fruit is food, in Eden or in hell [contrast between the texts] (Two trees of food:
-    wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān among trees ṭôḇ lə-maʾăḵāl (good for food), in Eden, vs. shajarata
-    z-zaqqūmi ṭaʿāmu l-athīm in the midst of Hell (sawāʾ al-jaḥīm, 44:47). The hell-tree as an inverted
-    tree of life is a modern reading (see hint); the HB has no hell-tree. Weak lead.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: طَعَامُ ٱلْأَثِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Two trees of food: wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān among trees ṭôḇ lə-maʾăḵāl (good for
-    food), in Eden, vs. shajarata z-zaqqūmi ṭaʿāmu l-athīm in the midst of Hell (sawāʾ al-jaḥīm, 44:47).
-    The hell-tree as an inverted tree of life is a modern reading (see hint); the HB has no hell-tree.
-    Weak lead.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A tree whose fruit is food, in Eden or in hell [contrast between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A tree whose fruit is food, in Eden or in hell
+kinds:
+- contrast
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: contrast
+  label: A tree whose fruit is food, in Eden or in hell
+  note: 'Two trees of food: wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān among trees ṭôḇ lə-maʾăḵāl (good for food),
+    in Eden, vs. shajarata z-zaqqūmi ṭaʿāmu l-athīm in the midst of Hell (sawāʾ al-jaḥīm, 44:47). The
+    hell-tree as an inverted tree of life is a modern reading (see hint); the HB has no hell-tree. Weak
+    lead.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:9
+      lang: he
+      text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
+        וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 44:43
+      lang: ar
+      text: إِنَّ شَجَرَتَ ٱلزَّقُّومِ
+    - ref: Quran 44:44
+      lang: ar
+      text: طَعَامُ ٱلْأَثِيمِ
 ---
 
 ## Questions

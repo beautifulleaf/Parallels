@@ -2,8 +2,7 @@
 id: motif-hb-ps-87-zion-birthplace-vs-quran-27-is-there-a-god-with-god
 title: Psalm 87, Zion mother of nations; this one was born there ↔ The litany 'Is there a god with God?'
   and the unseen
-summary: 'These two units share 2 motifs: god records the peoples in a register, noting where each was
-  born, god keeps a book in which names are written and from which sinners are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 motifs:
 - god-registers-peoples
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 87:6
-  note: God records the peoples in a register, noting where each was born (YHWH yispor bi-khtov ammim)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 27:75
-  note: 'God records the peoples in a register, noting where each was born (illā fī kitābin mubīnin ~
-    YHWH yispōr bi-khtôv ʿammîm: God''s written record; the Psalm''s register lists peoples by birthplace,
-    the Quran''s book holds everything hidden.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
-- tradition: judaism
-  ref: Ps 87:6
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
-- tradition: islam
-  ref: Quran 27:75
-  note: God keeps a book in which names are written and from which sinners are blotted (nothing hidden
-    in heaven or earth but is in a clear book)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. illā fī kitābin mubīnin ~ YHWH yispōr bi-khtôv ʿammîm: God''s written record; the Psalm''s register
-    lists peoples by birthplace, the Quran''s book holds everything hidden.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God records the peoples in a register, noting where each was born
     (weight 6.7); God keeps a book in which names are written and from which sinners are blotted (weight
@@ -79,6 +49,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God records the peoples in a register, noting where each was born
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-87-zion-birthplace
+  title: Psalm 87, Zion mother of nations; this one was born there
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: echo
+  label: God records the peoples in a register, noting where each was born
+  note: 'illā fī kitābin mubīnin ~ YHWH yispōr bi-khtôv ʿammîm: God''s written record; the Psalm''s register
+    lists peoples by birthplace, the Quran''s book holds everything hidden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 27:75
+      lang: ar
+      text: وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
+- kind: shared
+  label: God keeps a book in which names are written and from which sinners are blotted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 87:6
+      lang: he
+      text: יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 27:75
+      lang: ar
+      text: وَمَا مِنْ غَآئِبَةٍ فِى ٱلسَّمَآءِ وَٱلْأَرْضِ إِلَّا فِى كِتَٰبٍ مُّبِينٍ
+    note: nothing hidden in heaven or earth but is in a clear book
 ---
 
 ## Questions

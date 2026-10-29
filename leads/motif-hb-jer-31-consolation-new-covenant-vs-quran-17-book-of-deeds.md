@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-17-book-of-deeds
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,31 +15,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 31:30
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
-- tradition: judaism
-  ref: Jer 31:29
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
-- tradition: islam
-  ref: Quran 17:15
-  note: Each person dies for his own sin (lā taziru wāziratun wizra ukhrā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا وَلَا
-    تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. lōʾ-yōʾmərû ʿôd ʾābôt ʾākəlû bōser ... kî ʾim-ʾîš baʿăwōnô yāmût; wa-lā taziru wāziratun
-    wizra ukhrā: no one bears another''s guilt. In Jer it is a promise for the coming days that ends inherited
-    guilt; in Q it is a rule that has always held.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -75,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- parallel
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-17-book-of-deeds
+  title: The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Each person dies for his own sin
+  note: 'lōʾ-yōʾmərû ʿôd ʾābôt ʾākəlû bōser ... kî ʾim-ʾîš baʿăwōnô yāmût; wa-lā taziru wāziratun wizra
+    ukhrā: no one bears another''s guilt. In Jer it is a promise for the coming days that ends inherited
+    guilt; in Q it is a rule that has always held.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:29
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
+    - ref: Jer 31:30
+      lang: he
+      text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 17:15
+      lang: ar
+      text: مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا
+        وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا
 ---
 
 ## Questions

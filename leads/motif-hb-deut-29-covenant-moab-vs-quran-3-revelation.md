@@ -2,8 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-3-revelation
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ Torah, Gospel and the clear and ambiguous
   verses
-summary: 'These two units share 1 motifs: the secret things belong to god; the revealed things to us and
-  our children.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,39 +15,9 @@ layers:
 - motif
 motifs:
 - secret-things-belong-to-god
-passages:
-- tradition: judaism
-  ref: Deut 29:28
-  note: The secret things belong to God; the revealed things to us and our children (puncta extraordinaria
-    over לנו ולבנינו)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
-    לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 3:7
-  note: 'The secret things belong to God; the revealed things to us and our children (Deut 29:28 ha-nnistārōt
-    la-YHWH ʾĕlōhênû wĕ-ha-nniglōt lānû û-lĕ-bānênû ... laʿăśôt ʾet kol dibrê ha-ttôrâ: hidden things
-    are God''s, revealed things are ours, to do the Torah; Q 3:7 minhu āyātun muḥkamātun hunna ummu l-kitābi
-    wa-ukharu mutashābihātun ... wa-mā yaʿlamu taʾwīlahu illā llāh: decisive verses are the core, the
-    interpretation of ambiguous ones is known only to God. Both divide revelation into a part for human
-    practice and a part reserved for God, and warn against seeking the hidden (Q: those with deviation
-    in their hearts).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ
-    وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ
-    ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ
-    فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟
-    ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Deut 29:28 ha-nnistārōt la-YHWH ʾĕlōhênû wĕ-ha-nniglōt lānû û-lĕ-bānênû ... laʿăśôt ʾet
-    kol dibrê ha-ttôrâ: hidden things are God''s, revealed things are ours, to do the Torah; Q 3:7 minhu
-    āyātun muḥkamātun hunna ummu l-kitābi wa-ukharu mutashābihātun ... wa-mā yaʿlamu taʾwīlahu illā llāh:
-    decisive verses are the core, the interpretation of ambiguous ones is known only to God. Both divide
-    revelation into a part for human practice and a part reserved for God, and warn against seeking the
-    hidden (Q: those with deviation in their hearts).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
     children (weight 6.0). Pair score 6.0.'
@@ -81,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The secret things belong to God; the revealed things to us and our children
+kinds:
+- parallel
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-3-revelation
+  title: Torah, Gospel and the clear and ambiguous verses
+  tradition: islam
+matches:
+- kind: parallel
+  label: The secret things belong to God; the revealed things to us and our children
+  note: 'Deut 29:28 ha-nnistārōt la-YHWH ʾĕlōhênû wĕ-ha-nniglōt lānû û-lĕ-bānênû ... laʿăśôt ʾet kol dibrê
+    ha-ttôrâ: hidden things are God''s, revealed things are ours, to do the Torah; Q 3:7 minhu āyātun
+    muḥkamātun hunna ummu l-kitābi wa-ukharu mutashābihātun ... wa-mā yaʿlamu taʾwīlahu illā llāh: decisive
+    verses are the core, the interpretation of ambiguous ones is known only to God. Both divide revelation
+    into a part for human practice and a part reserved for God, and warn against seeking the hidden (Q:
+    those with deviation in their hearts).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:28
+      lang: he
+      text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
+        לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 3:7
+      lang: ar
+      text: هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ
+        وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ
+        مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا
+        ٱللَّهُ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا
+        يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-23-lordship-arguments
 title: Exhortation at Horeb's memory; no image; exile and return ↔ Who owns the earth? The fables of the
   ancients and the impossibility of many gods
-summary: 'These two units share 1 motifs: declaration that yhwh is god and there is no other besides him.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - strict-monotheism-none-besides
-passages:
-- tradition: judaism
-  ref: Deut 4:35
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּה֙ הָרְאֵ֣תָ לָדַ֔עַת כִּ֥י יְהוָ֖ה ה֣וּא הָאֱלֹהִ֑ים אֵ֥ין ע֖וֹד מִלְבַדּֽוֹ
-- tradition: judaism
-  ref: Deut 4:39
-  note: Declaration that YHWH is God and there is no other besides him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל לְבָבֶךָ֒ כִּ֤י יְהוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם
-    מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד
-- tradition: islam
-  ref: Quran 23:91
-  note: 'Declaration that YHWH is God and there is no other besides him (wa-mā kāna maʿahu min ilāhin
-    ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut states it as what Israel was shown; the
-    Quran argues it from the order of the world (la-dhahaba kullu ilāhin bimā khalaqa wa-la-ʿalā baʿḍuhum
-    ʿalā baʿḍin).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
-    بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-mā kāna maʿahu min ilāhin ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut
-    states it as what Israel was shown; the Quran argues it from the order of the world (la-dhahaba kullu
-    ilāhin bimā khalaqa wa-la-ʿalā baʿḍuhum ʿalā baʿḍin).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Declaration that YHWH is God and there is no other besides him (weight
     5.1). Pair score 5.1.'
@@ -78,6 +52,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Declaration that YHWH is God and there is no other besides him
+kinds:
+- parallel
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-23-lordship-arguments
+  title: Who owns the earth? The fables of the ancients and the impossibility of many gods
+  tradition: islam
+matches:
+- kind: parallel
+  label: Declaration that YHWH is God and there is no other besides him
+  note: 'wa-mā kāna maʿahu min ilāhin ~ YHWH hûʾ hā-ʾĕlōhîm ʾên ʿôd mil-lvaddô: no other god. Deut states
+    it as what Israel was shown; the Quran argues it from the order of the world (la-dhahaba kullu ilāhin
+    bimā khalaqa wa-la-ʿalā baʿḍuhum ʿalā baʿḍin).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:35
+      lang: he
+      text: אַתָּה֙ הָרְאֵ֣תָ לָדַ֔עַת כִּ֥י יְהוָ֖ה ה֣וּא הָאֱלֹהִ֑ים אֵ֥ין ע֖וֹד מִלְבַדּֽוֹ
+    - ref: Deut 4:39
+      lang: he
+      text: וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל לְבָבֶךָ֒ כִּ֤י יְהוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם
+        מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 23:91
+      lang: ar
+      text: مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٍ وَمَا كَانَ مَعَهُۥ مِنْ إِلَٰهٍ إِذًا لَّذَهَبَ كُلُّ إِلَٰهٍۭ
+        بِمَا خَلَقَ وَلَعَلَا بَعْضُهُمْ عَلَىٰ بَعْضٍ سُبْحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ
 ---
 
 ## Questions

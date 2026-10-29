@@ -2,7 +2,7 @@
 id: motif-hb-exod-23-justice-sabbatical-festivals-vs-quran-4-women-orphans-justice
 title: Covenant Code - justice, enemy's animal, sabbatical year, festivals ↔ Orphan girls, reconciliation,
   the suspended wife, and justice against oneself
-summary: 'These two units share 1 motifs: judge fairly, favoring neither the poor nor the great.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - impartial-judgment-neither-poor-nor-great
-passages:
-- tradition: judaism
-  ref: Exod 23:3
-  note: 'Judge fairly, favoring neither the poor nor the great (Exod: wə-dāl lōʾ tehdar bə-rîvô, do not
-    favour even the poor man in his suit. Q 4:135 aw faqīran: justice must not lean toward the poor either.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָ֕ל לֹ֥א תֶהְדַּ֖ר בְּרִיבֽוֹ
-- tradition: islam
-  ref: Quran 4:135
-  note: Judge fairly, favoring neither the poor nor the great ('whether rich or poor, God is nearer to
-    both')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ
-    أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ
-    بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ
-    كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Exod: wə-dāl lōʾ tehdar bə-rîvô, do not favour even the poor man in his suit. Q 4:135 aw faqīran:
-    justice must not lean toward the poor either.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Judge fairly, favoring neither the poor nor the great (weight 6.0).
     Pair score 6.0.'
@@ -68,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Judge fairly, favoring neither the poor nor the great
+kinds:
+- echo
+units:
+- id: hb-exod-23-justice-sabbatical-festivals
+  title: Covenant Code - justice, enemy's animal, sabbatical year, festivals
+  tradition: judaism
+- id: quran-4-women-orphans-justice
+  title: Orphan girls, reconciliation, the suspended wife, and justice against oneself
+  tradition: islam
+matches:
+- kind: echo
+  label: Judge fairly, favoring neither the poor nor the great
+  note: 'Exod: wə-dāl lōʾ tehdar bə-rîvô, do not favour even the poor man in his suit. Q 4:135 aw faqīran:
+    justice must not lean toward the poor either.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:3
+      lang: he
+      text: וְדָ֕ל לֹ֥א תֶהְדַּ֖ר בְּרִיבֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:135
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ
+        عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ
+        أَوْلَىٰ بِهِمَا فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟
+        فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا
 ---
 
 ## Questions

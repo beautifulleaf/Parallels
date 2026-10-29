@@ -2,7 +2,7 @@
 id: motif-hb-2chr-20-battle-won-by-singing-vs-quran-4-satan-vows-share
 title: Jehoshaphat's fast and prayer; the Levite oracle; enemies destroy one another as the choir sings
   ↔ Female deities, Satan's vow, slit cattle ears, and Abraham the friend
-summary: 'These two units share 1 motifs: abraham is called god''s friend (ohev, ''lover'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - abraham-friend-of-god
-passages:
-- tradition: judaism
-  ref: 2Chr 20:7
-  note: Abraham is called God's friend (ohev, 'lover') (zera' Avraham ohavkha, 'your friend/lover')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אַתָּ֣ה אֱלֹהֵ֗ינוּ הוֹרַ֨שְׁתָּ֙ אֶת יֹשְׁבֵי֙ הָאָ֣רֶץ הַזֹּ֔את מִלִּפְנֵ֖י עַמְּךָ֣
-    יִשְׂרָאֵ֑ל וַֽתִּתְּנָ֗הּ לְזֶ֛רַע אַבְרָהָ֥ם אֹֽהַבְךָ֖ לְעוֹלָֽם
-- tradition: islam
-  ref: Quran 4:125
-  note: Abraham is called God's friend (ohev, 'lover') (ittakhadha llāhu ibrāhīma khalīlan; cf. Isa 41:8,
-    2 Chr 20:7, Jas 2:23)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ
-    إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. 2Chr: lə-zeraʿ ʾAvrāhām ʾōhavkhā lə-ʿôlām; Q 4:125 khalīlan. In HB the epithet comes in
-    an appeal about the land given to Abraham''s seed; in Q it is attached to the milla of Abraham ḥanīfan.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham is called God''s friend (ohev, ''lover'') (weight 6.3).
     Pair score 6.3.'
@@ -69,6 +52,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham is called God's friend (ohev, 'lover')
+kinds:
+- parallel
+units:
+- id: hb-2chr-20-battle-won-by-singing
+  title: Jehoshaphat's fast and prayer; the Levite oracle; enemies destroy one another as the choir sings
+  tradition: judaism
+- id: quran-4-satan-vows-share
+  title: Female deities, Satan's vow, slit cattle ears, and Abraham the friend
+  tradition: islam
+matches:
+- kind: parallel
+  label: Abraham is called God's friend (ohev, 'lover')
+  note: '2Chr: lə-zeraʿ ʾAvrāhām ʾōhavkhā lə-ʿôlām; Q 4:125 khalīlan. In HB the epithet comes in an appeal
+    about the land given to Abraham''s seed; in Q it is attached to the milla of Abraham ḥanīfan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 20:7
+      lang: he
+      text: הֲלֹ֣א אַתָּ֣ה אֱלֹהֵ֗ינוּ הוֹרַ֨שְׁתָּ֙ אֶת יֹשְׁבֵי֙ הָאָ֣רֶץ הַזֹּ֔את מִלִּפְנֵ֖י עַמְּךָ֣
+        יִשְׂרָאֵ֑ל וַֽתִּתְּנָ֗הּ לְזֶ֛רַע אַבְרָהָ֥ם אֹֽהַבְךָ֖ לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:125
+      lang: ar
+      text: وَمَنْ أَحْسَنُ دِينًا مِّمَّنْ أَسْلَمَ وَجْهَهُۥ لِلَّهِ وَهُوَ مُحْسِنٌ وَٱتَّبَعَ مِلَّةَ
+        إِبْرَٰهِيمَ حَنِيفًا وَٱتَّخَذَ ٱللَّهُ إِبْرَٰهِيمَ خَلِيلًا
 ---
 
 ## Questions

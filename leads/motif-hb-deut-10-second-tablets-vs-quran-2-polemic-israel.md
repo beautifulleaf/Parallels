@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-10-second-tablets-vs-quran-2-polemic-israel
 title: Second tablets and ark; Levites set apart; what God requires ↔ Polemic with the People of the Book
-summary: 'These two units share 1 motifs: the ''uncircumcised'' or covered heart [divergence between the
-  texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - uncircumcision-of-the-heart-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 10:16
-  note: 'The ''uncircumcised'' or covered heart [divergence between the texts] (Deut 10:16 û-maltem ʾēt
-    ʿorlat lĕbabkem wĕ-ʿorpkem lōʾ taqšû ʿôd: a command to circumcise the heart''s foreskin; Q 2:88 qulūbunā
-    ghulfun: the people declare their hearts covered (ghulf ~ ʿorlâ), the opposite of obeying the command.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמַלְתֶּ֕ם אֵ֖ת עָרְלַ֣ת לְבַבְכֶ֑ם וְעָ֨רְפְּכֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד
-- tradition: islam
-  ref: Quran 2:88
-  note: 'The ''uncircumcised'' or covered heart [divergence between the texts] (Lev 26:41 ʾô ʾāz yikkānaʿ
-    lĕbābām he-ʿārēl: God''s verdict that their uncircumcised heart must be humbled; Q 2:88 wa-qālū qulūbunā
-    ghulfun bal laʿanahumu llāhu: the people themselves say ''our hearts are uncircumcised / wrapped''
-    as a reason not to believe, and God answers with a curse. The divine diagnosis becomes the people''s
-    excuse.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 10:16 û-maltem ʾēt ʿorlat lĕbabkem wĕ-ʿorpkem lōʾ taqšû ʿôd: a command to circumcise
-    the heart''s foreskin; Q 2:88 qulūbunā ghulfun: the people declare their hearts covered (ghulf ~ ʿorlâ),
-    the opposite of obeying the command.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ''uncircumcised'' or covered heart [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -69,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The 'uncircumcised' or covered heart
+kinds:
+- divergence
+units:
+- id: hb-deut-10-second-tablets
+  title: Second tablets and ark; Levites set apart; what God requires
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: divergence
+  label: The 'uncircumcised' or covered heart
+  note: 'Deut 10:16 û-maltem ʾēt ʿorlat lĕbabkem wĕ-ʿorpkem lōʾ taqšû ʿôd: a command to circumcise the
+    heart''s foreskin; Q 2:88 qulūbunā ghulfun: the people declare their hearts covered (ghulf ~ ʿorlâ),
+    the opposite of obeying the command.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 10:16
+      lang: he
+      text: וּמַלְתֶּ֕ם אֵ֖ת עָרְלַ֣ת לְבַבְכֶ֑ם וְעָ֨רְפְּכֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:88
+      lang: ar
+      text: وَقَالُوا۟ قُلُوبُنَا غُلْفٌۢ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفْرِهِمْ فَقَلِيلًا مَّا يُؤْمِنُونَ
 ---
 
 ## Questions

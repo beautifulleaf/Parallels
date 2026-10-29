@@ -2,7 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-9-shirkers-excuses
 title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ The excuses of
   those who stayed behind
-summary: 'These two units share 1 motifs: the fearful are sent home before battle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - fearful-sent-home
-passages:
-- tradition: judaism
-  ref: Judg 7:3
-  note: The fearful are sent home before battle (22,000 return)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאָזְנֵ֤י הָעָם֙ לֵאמֹ֔ר מִֽי יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר מֵהַ֣ר
-    הַגִּלְעָ֑ד וַיָּ֣שָׁב מִן הָעָ֗ם עֶשְׂרִ֤ים וּשְׁנַ֨יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים נִשְׁאָֽרוּ
-- tradition: islam
-  ref: Quran 9:46
-  note: 'The fearful are sent home before battle (Same reasoning for keeping the unwilling out of the
-    army: they would weaken the rest. law kharajū fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata
-    vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô. In Deut the officers send them home; in Q God himself holds
-    them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum wa-qīla qʿudū maʿa l-qāʿidīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ
-    فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
-- tradition: islam
-  ref: Quran 9:47
-  note: 'The fearful are sent home before battle (Same reasoning for keeping the unwilling out of the
-    army: they would weaken the rest. law kharajū fīkum mā zādūkum illā khabālan ... yabghūnakumu l-fitnata
-    vs wᵉlōʾ yimmas ʾet-lᵉbab ʾeḥāyw kilbābô. In Deut the officers send them home; in Q God himself holds
-    them back (kariha llāhu nbiʿāthahum fa-thabbaṭahum wa-qīla qʿudū maʿa l-qāʿidīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَٰلَكُمْ يَبْغُونَكُمُ
-    ٱلْفِتْنَةَ وَفِيكُمْ سَمَّٰعُونَ لَهُمْ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. mî-yārēʾ wᵉḥārēd yāšōb vs wa-qīla qʿudū maʿa l-qāʿidīn: the unwilling are told to stay behind.
-    In Judg it is an honourable release by God''s order; in Q it exposes them.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The fearful are sent home before battle (weight 6.3). Pair score
     6.3.'
@@ -78,6 +49,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The fearful are sent home before battle
+kinds:
+- echo
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-9-shirkers-excuses
+  title: The excuses of those who stayed behind
+  tradition: islam
+matches:
+- kind: echo
+  label: The fearful are sent home before battle
+  note: 'mî-yārēʾ wᵉḥārēd yāšōb vs wa-qīla qʿudū maʿa l-qāʿidīn: the unwilling are told to stay behind.
+    In Judg it is an honourable release by God''s order; in Q it exposes them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:3
+      lang: he
+      text: וְעַתָּ֗ה קְרָ֨א נָ֜א בְּאָזְנֵ֤י הָעָם֙ לֵאמֹ֔ר מִֽי יָרֵ֣א וְחָרֵ֔ד יָשֹׁ֥ב וְיִצְפֹּ֖ר
+        מֵהַ֣ר הַגִּלְעָ֑ד וַיָּ֣שָׁב מִן הָעָ֗ם עֶשְׂרִ֤ים וּשְׁנַ֨יִם֙ אֶ֔לֶף וַעֲשֶׂ֥רֶת אֲלָפִ֖ים
+        נִשְׁאָֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:46
+      lang: ar
+      text: وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ
+        فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَٰعِدِينَ
 ---
 
 ## Questions

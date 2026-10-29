@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-44-national-lament-vs-quran-100-chargers
 title: Psalm 44 - national lament; why do you sleep, O Lord ↔ The chargers
-summary: 'These two units share 1 motifs: god knows the secrets of the heart (ta''alumot lev).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - god-knows-secrets-of-heart
-passages:
-- tradition: judaism
-  ref: Ps 44:22
-  note: God knows the secrets of the heart (ta'alumot lev)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
-- tradition: islam
-  ref: Quran 100:10
-  note: God knows the secrets of the heart (ta'alumot lev)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَحُصِّلَ مَا فِى ٱلصُّدُورِ
-- tradition: islam
-  ref: Quran 100:11
-  note: God knows the secrets of the heart (ta'alumot lev)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-ḥuṣṣila mā fī ṣ-ṣudūr, inna rabbahum bihim yawmaʾidhin la-khabīr ~ kî hûʾ yōdēaʿ taʿălumôt
-    lēv.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God knows the secrets of the heart (ta''alumot lev) (weight 6.0).
     Pair score 6.0.'
@@ -65,6 +45,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God knows the secrets of the heart (ta'alumot lev)
+kinds:
+- echo
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-100-chargers
+  title: The chargers
+  tradition: islam
+matches:
+- kind: echo
+  label: God knows the secrets of the heart (ta'alumot lev)
+  note: wa-ḥuṣṣila mā fī ṣ-ṣudūr, inna rabbahum bihim yawmaʾidhin la-khabīr ~ kî hûʾ yōdēaʿ taʿălumôt
+    lēv.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:22
+      lang: he
+      text: הֲלֹ֣א אֱ֭לֹהִים יַֽחֲקָר זֹ֑את כִּֽי ה֥וּא יֹ֝דֵ֗עַ תַּעֲלֻמ֥וֹת לֵֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 100:10
+      lang: ar
+      text: وَحُصِّلَ مَا فِى ٱلصُّدُورِ
+    - ref: Quran 100:11
+      lang: ar
+      text: إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-13-enticers-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'False prophet, enticing kin, and the apostate city ↔ Al-Hujurat: lowering voices, verifying reports,
   reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: if a corrupt person brings you news, verify it lest you harm
-  a people in ignorance and come to regret it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - verify-report-of-wicked-man
-passages:
-- tradition: judaism
-  ref: Deut 13:15
-  note: 'If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
-    regret it (Check a report before acting against a group: wə-dāraštā wə-ḥāqartā wə-šāʾaltā hêṭēḇ wə-hinnēh
-    ʾĕmeṯ nāḵôn had-dāḇār vs. in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin
-    fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn. In Deuteronomy the report is that a town has turned to idols,
-    and the result if true is ḥērem; in the Quran the warning is against the false report of a fāsiq.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדָרַשְׁתָּ֧ וְחָקַרְתָּ֧ וְשָׁאַלְתָּ֖ הֵיטֵ֑ב וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה
-    הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּקִרְבֶּֽךָ
-- tradition: islam
-  ref: Quran 49:6
-  note: If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
-    regret it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟
-    قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Check a report before acting against a group: wə-dāraštā wə-ḥāqartā wə-šāʾaltā hêṭēḇ wə-hinnēh
-    ʾĕmeṯ nāḵôn had-dāḇār vs. in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin
-    fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn. In Deuteronomy the report is that a town has turned to idols,
-    and the result if true is ḥērem; in the Quran the warning is against the false report of a fāsiq.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If a corrupt person brings you news, verify it lest you harm a people
     in ignorance and come to regret it (weight 6.7). Pair score 6.7.'
@@ -80,6 +56,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
+  regret it
+kinds:
+- parallel
+units:
+- id: hb-deut-13-enticers
+  title: False prophet, enticing kin, and the apostate city
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: parallel
+  label: If a corrupt person brings you news, verify it lest you harm a people in ignorance and come to
+    regret it
+  note: 'Check a report before acting against a group: wə-dāraštā wə-ḥāqartā wə-šāʾaltā hêṭēḇ wə-hinnēh
+    ʾĕmeṯ nāḵôn had-dāḇār vs. in jāʾakum fāsiqun bi-nabaʾin fa-tabayyanū an tuṣībū qawman bi-jahālatin
+    fa-tuṣbiḥū ʿalā mā faʿaltum nādimīn. In Deuteronomy the report is that a town has turned to idols,
+    and the result if true is ḥērem; in the Quran the warning is against the false report of a fāsiq.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 13:15
+      lang: he
+      text: וְדָרַשְׁתָּ֧ וְחָקַרְתָּ֧ וְשָׁאַלְתָּ֖ הֵיטֵ֑ב וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה
+        הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּקִרְבֶּֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 49:6
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِن جَآءَكُمْ فَاسِقٌۢ بِنَبَإٍ فَتَبَيَّنُوٓا۟ أَن تُصِيبُوا۟
+        قَوْمًۢا بِجَهَٰلَةٍ فَتُصْبِحُوا۟ عَلَىٰ مَا فَعَلْتُمْ نَٰدِمِينَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-dan-5-writing-on-wall-vs-quran-7-opening-scales
 title: Belshazzar's feast and the writing on the wall ↔ Opening letters, destroyed towns and the weighing
   of deeds
-summary: 'These two units share 1 motifs: a person is weighed in the balances and found wanting.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,37 +15,9 @@ layers:
 - motif
 motifs:
 - weighed-in-scales-found-wanting
-passages:
-- tradition: judaism
-  ref: Dan 5:27
-  note: A person is weighed in the balances and found wanting
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
-- tradition: islam
-  ref: Quran 7:8
-  note: 'A person is weighed in the balances and found wanting (Judgement by weighing. Dan (Aramaic):
-    təqēl təqîltāh və-mōʾzanyāʾ wə-hištəkhaḥat ḥassîr. Q: wa-l-waznu yawmaʾidhini l-ḥaqqu fa-man thaqulat
-    mawāzīnuhu ... wa-man khaffat mawāzīnuhu. Dan weighs one king and finds him light; Q weighs everyone,
-    and light scales mean loss (khasirū anfusahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
-- tradition: islam
-  ref: Quran 7:9
-  note: 'A person is weighed in the balances and found wanting (Judgement by weighing. Dan (Aramaic):
-    təqēl təqîltāh və-mōʾzanyāʾ wə-hištəkhaḥat ḥassîr. Q: wa-l-waznu yawmaʾidhini l-ḥaqqu fa-man thaqulat
-    mawāzīnuhu ... wa-man khaffat mawāzīnuhu. Dan weighs one king and finds him light; Q weighs everyone,
-    and light scales mean loss (khasirū anfusahum).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟ بِـَٔايَٰتِنَا
-    يَظْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Judgement by weighing. Dan (Aramaic): təqēl təqîltāh və-mōʾzanyāʾ wə-hištəkhaḥat ḥassîr.
-    Q: wa-l-waznu yawmaʾidhini l-ḥaqqu fa-man thaqulat mawāzīnuhu ... wa-man khaffat mawāzīnuhu. Dan weighs
-    one king and finds him light; Q weighs everyone, and light scales mean loss (khasirū anfusahum).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A person is weighed in the balances and found wanting (weight 6.0).
     Pair score 6.0.'
@@ -76,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A person is weighed in the balances and found wanting
+kinds:
+- parallel
+units:
+- id: hb-dan-5-writing-on-wall
+  title: Belshazzar's feast and the writing on the wall
+  tradition: judaism
+- id: quran-7-opening-scales
+  title: Opening letters, destroyed towns and the weighing of deeds
+  tradition: islam
+matches:
+- kind: parallel
+  label: A person is weighed in the balances and found wanting
+  note: 'Judgement by weighing. Dan (Aramaic): təqēl təqîltāh və-mōʾzanyāʾ wə-hištəkhaḥat ḥassîr. Q: wa-l-waznu
+    yawmaʾidhini l-ḥaqqu fa-man thaqulat mawāzīnuhu ... wa-man khaffat mawāzīnuhu. Dan weighs one king
+    and finds him light; Q weighs everyone, and light scales mean loss (khasirū anfusahum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 5:27
+      lang: he
+      text: תְּקֵ֑ל תְּקִ֥ילְתָּה בְמֹֽאזַנְיָ֖א וְהִשְׁתְּכַ֥חַתְּ חַסִּֽיר
+  - tradition: islam
+    passages:
+    - ref: Quran 7:8
+      lang: ar
+      text: وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+    - ref: Quran 7:9
+      lang: ar
+      text: وَمَنْ خَفَّتْ مَوَٰزِينُهُۥ فَأُو۟لَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓا۟ أَنفُسَهُم بِمَا كَانُوا۟
+        بِـَٔايَٰتِنَا يَظْلِمُونَ
 ---
 
 ## Questions

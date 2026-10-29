@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-119-pe-tav-vs-quran-3-badr-uhud
 title: Psalm 119, stanzas pe to tav ↔ Badr and Uhud
-summary: 'These two units share 1 motifs: god tests his people as silver is refined in the crucible.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,36 +13,9 @@ layers:
 - motif
 motifs:
 - tested-like-refined-silver
-passages:
-- tradition: judaism
-  ref: Ps 119:140
-  note: God tests his people as silver is refined in the crucible (God's word is refined (tserufah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד וְֽעַבְדְּךָ֥ אֲהֵבָֽהּ
-- tradition: islam
-  ref: Quran 3:141
-  note: God tests his people as silver is refined in the crucible (li-yumahhisa, to purify the believers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَٰفِرِينَ
-- tradition: islam
-  ref: Quran 3:154
-  note: God tests his people as silver is refined in the crucible (li-yumahhisa, to purify the believers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ
-    وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ
-    يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ فِىٓ
-    أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا قُتِلْنَا
-    هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ إِلَىٰ مَضَاجِعِهِمْ
-    وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ وَٱللَّهُ عَلِيمٌۢ بِذَاتِ
-    ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 119:140 ṣĕrûpâ ʾimrātĕkā mĕʾōd: God''s word is refined; Q 3:154 li-yumaḥḥiṣa mā fī qulūbikum:
-    God refines what is in the hearts. Refining applied to the word in the psalm, to the hearts in the
-    Quran. Weak.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests his people as silver is refined in the crucible (weight
     6.0). Pair score 6.0.'
@@ -73,6 +46,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests his people as silver is refined in the crucible
+kinds:
+- echo
+units:
+- id: hb-ps-119-pe-tav
+  title: Psalm 119, stanzas pe to tav
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: echo
+  label: God tests his people as silver is refined in the crucible
+  note: 'Ps 119:140 ṣĕrûpâ ʾimrātĕkā mĕʾōd: God''s word is refined; Q 3:154 li-yumaḥḥiṣa mā fī qulūbikum:
+    God refines what is in the hearts. Refining applied to the word in the psalm, to the hearts in the
+    Quran. Weak.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:140
+      lang: he
+      text: צְרוּפָ֖ה אִמְרָתְךָ֥ מְאֹ֗ד וְֽעַבְדְּךָ֥ אֲהֵבָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:154
+      lang: ar
+      text: ثُمَّ أَنزَلَ عَلَيْكُم مِّنۢ بَعْدِ ٱلْغَمِّ أَمَنَةً نُّعَاسًا يَغْشَىٰ طَآئِفَةً مِّنكُمْ
+        وَطَآئِفَةٌ قَدْ أَهَمَّتْهُمْ أَنفُسُهُمْ يَظُنُّونَ بِٱللَّهِ غَيْرَ ٱلْحَقِّ ظَنَّ ٱلْجَٰهِلِيَّةِ
+        يَقُولُونَ هَل لَّنَا مِنَ ٱلْأَمْرِ مِن شَىْءٍ قُلْ إِنَّ ٱلْأَمْرَ كُلَّهُۥ لِلَّهِ يُخْفُونَ
+        فِىٓ أَنفُسِهِم مَّا لَا يُبْدُونَ لَكَ يَقُولُونَ لَوْ كَانَ لَنَا مِنَ ٱلْأَمْرِ شَىْءٌ مَّا
+        قُتِلْنَا هَٰهُنَا قُل لَّوْ كُنتُمْ فِى بُيُوتِكُمْ لَبَرَزَ ٱلَّذِينَ كُتِبَ عَلَيْهِمُ ٱلْقَتْلُ
+        إِلَىٰ مَضَاجِعِهِمْ وَلِيَبْتَلِىَ ٱللَّهُ مَا فِى صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِى قُلُوبِكُمْ
+        وَٱللَّهُ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

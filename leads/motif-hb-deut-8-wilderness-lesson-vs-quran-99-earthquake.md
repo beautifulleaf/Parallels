@@ -2,7 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-99-earthquake
 title: 'Lessons of the wilderness; the good land; beware of pride ↔ The earthquake: the earth tells its
   news'
-summary: 'These two units share 1 motifs: heaven and earth called as witnesses against the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-and-earth-as-witnesses
-passages:
-- tradition: judaism
-  ref: Deut 8:19
-  note: Heaven and earth called as witnesses against the people (I testify against you today)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה אִם שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים
-    וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן
-- tradition: islam
-  ref: Quran 99:4
-  note: Heaven and earth called as witnesses against the people (the earth testifies at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
-- tradition: islam
-  ref: Quran 99:5
-  note: Heaven and earth called as witnesses against the people (the earth testifies at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. weak: tuḥaddithu akhbārahā ~ hăʿidōtî vākem ha-yyôm kî ʾāvōd tōʾvēdûn (no explicit earth here;
-    Moses himself testifies).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven and earth called as witnesses against the people (weight
     5.8). Pair score 5.8.'
@@ -65,6 +44,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven and earth called as witnesses against the people
+kinds:
+- echo
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-99-earthquake
+  title: 'The earthquake: the earth tells its news'
+  tradition: islam
+matches:
+- kind: echo
+  label: Heaven and earth called as witnesses against the people
+  note: 'weak: tuḥaddithu akhbārahā ~ hăʿidōtî vākem ha-yyôm kî ʾāvōd tōʾvēdûn (no explicit earth here;
+    Moses himself testifies).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:19
+      lang: he
+      text: וְהָיָ֗ה אִם שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת יְהוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים
+        אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 99:4
+      lang: ar
+      text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
 ---
 
 ## Questions

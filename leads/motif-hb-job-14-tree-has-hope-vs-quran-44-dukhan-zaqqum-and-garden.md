@@ -2,8 +2,7 @@
 id: motif-hb-job-14-tree-has-hope-vs-quran-44-dukhan-zaqqum-and-garden
 title: Job - 'man born of woman'; the tree has hope ↔ Deniers demand their fathers; the people of Tubba';
   the tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: death as final, voiced by a sufferer or by deniers of resurrection
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,58 +14,9 @@ layers:
 - motif
 motifs:
 - death-as-final-voiced-as-divergence
-passages:
-- tradition: judaism
-  ref: Job 14:10
-  note: 'Death as final, voiced by a sufferer or by deniers of resurrection [divergence between the texts]
-    (No rising after death, said by different speakers. Job says it himself in his lament: wə-ʾîš šāḵaḇ
-    wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release, ḥălîp̄āṯî).
-    The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā wa-mā naḥnu
-    bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers'' claim in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ
-- tradition: judaism
-  ref: Job 14:12
-  note: 'Death as final, voiced by a sufferer or by deniers of resurrection [divergence between the texts]
-    (No rising after death, said by different speakers. Job says it himself in his lament: wə-ʾîš šāḵaḇ
-    wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release, ḥălîp̄āṯî).
-    The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā wa-mā naḥnu
-    bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers'' claim in the
-    Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא יָ֫ק֥וּם עַד בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא יֵ֝עֹ֗רוּ מִשְּׁנָתָֽם
-- tradition: islam
-  ref: Quran 44:35
-  note: 'Death as final, voiced by a sufferer or by deniers of resurrection [divergence between the texts]
-    (No rising after death, said by different speakers. Job says it himself in his lament: wə-ʾîš šāḵaḇ
-    wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release, ḥălîp̄āṯî).
-    The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā wa-mā naḥnu
-    bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers'' claim in the
-    Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
-- tradition: islam
-  ref: Quran 44:36
-  note: 'Death as final, voiced by a sufferer or by deniers of resurrection [divergence between the texts]
-    (No rising after death, said by different speakers. Job says it himself in his lament: wə-ʾîš šāḵaḇ
-    wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release, ḥălîp̄āṯî).
-    The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā wa-mā naḥnu
-    bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers'' claim in the
-    Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. No rising after death, said by different speakers. Job says it himself in his lament:
-    wə-ʾîš šāḵaḇ wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release,
-    ḥălîp̄āṯî). The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā
-    wa-mā naḥnu bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers''
-    claim in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Death as final, voiced by a sufferer or by deniers of resurrection
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -103,6 +53,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Death as final, voiced by a sufferer or by deniers of resurrection
+kinds:
+- divergence
+units:
+- id: hb-job-14-tree-has-hope
+  title: Job - 'man born of woman'; the tree has hope
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: divergence
+  label: Death as final, voiced by a sufferer or by deniers of resurrection
+  note: 'No rising after death, said by different speakers. Job says it himself in his lament: wə-ʾîš
+    šāḵaḇ wə-lōʾ yāqûm ʿaḏ bilttî šāmayim ... ʾim yāmûṯ geḇer hă-yiḥyeh (and wishes for a release, ḥălîp̄āṯî).
+    The Quran puts it in the deniers'' mouths, to be refuted: in hiya illā mawtatunā l-ūlā wa-mā naḥnu
+    bi-munsharīn, fa-ʾtū bi-ābāʾinā. A sufferer''s question in Job becomes the scoffers'' claim in the
+    Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 14:10
+      lang: he
+      text: וְגֶ֣בֶר יָ֭מוּת וַֽיֶּחֱלָ֑שׁ וַיִּגְוַ֖ע אָדָ֣ם וְאַיּֽוֹ
+    - ref: Job 14:12
+      lang: he
+      text: וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא יָ֫ק֥וּם עַד בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא יֵ֝עֹ֗רוּ
+        מִשְּׁנָתָֽם
+    - ref: Job 14:14
+      lang: he
+      text: אִם יָמ֥וּת גֶּ֗בֶר הֲיִ֫חְיֶ֥ה כָּל יְמֵ֣י צְבָאִ֣י אֲיַחֵ֑ל עַד בּ֝֗וֹא חֲלִיפָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 44:35
+      lang: ar
+      text: إِنْ هِىَ إِلَّا مَوْتَتُنَا ٱلْأُولَىٰ وَمَا نَحْنُ بِمُنشَرِينَ
+    - ref: Quran 44:36
+      lang: ar
+      text: فَأْتُوا۟ بِـَٔابَآئِنَآ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-prov-28-sayings-vs-quran-2-charity
 title: Sayings on torah, rulers, usury and confession ↔ Parables of charity
-summary: 'These two units share 1 motifs: he who gives to the poor will not lack, but he who hides his
-  eyes will get many curses.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +13,9 @@ layers:
 - motif
 motifs:
 - giver-to-poor-lacks-nothing
-passages:
-- tradition: judaism
-  ref: Prov 28:27
-  note: He who gives to the poor will not lack, but he who hides his eyes will get many curses
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נוֹתֵ֣ן לָ֭רָשׁ אֵ֣ין מַחְס֑וֹר וּמַעְלִ֥ים עֵ֝ינָ֗יו רַב מְאֵרֽוֹת
-- tradition: islam
-  ref: Quran 2:268
-  note: 'He who gives to the poor will not lack, but he who hides his eyes will get many curses (Prov
-    28:27 nôtēn lā-rāš ʾên maḥsôr: whoever gives to the poor will not lack; Q 2:268 ash-shayṭānu yaʿidukumu
-    l-faqra ... wa-llāhu yaʿidukum maghfiratan minhu wa-faḍlan: the fear that giving brings poverty is
-    Satan''s promise, God promises bounty. The Quran gives the fear Proverbs denies a source: Satan.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً
-    مِّنْهُ وَفَضْلًا وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Prov 28:27 nôtēn lā-rāš ʾên maḥsôr: whoever gives to the poor will not lack; Q 2:268 ash-shayṭānu
-    yaʿidukumu l-faqra ... wa-llāhu yaʿidukum maghfiratan minhu wa-faḍlan: the fear that giving brings
-    poverty is Satan''s promise, God promises bounty. The Quran gives the fear Proverbs denies a source:
-    Satan.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He who gives to the poor will not lack, but he who hides his eyes
     will get many curses (weight 6.7). Pair score 6.7.'
@@ -71,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He who gives to the poor will not lack, but he who hides his eyes will get many curses
+kinds:
+- echo
+units:
+- id: hb-prov-28-sayings
+  title: Sayings on torah, rulers, usury and confession
+  tradition: judaism
+- id: quran-2-charity
+  title: Parables of charity
+  tradition: islam
+matches:
+- kind: echo
+  label: He who gives to the poor will not lack, but he who hides his eyes will get many curses
+  note: 'Prov 28:27 nôtēn lā-rāš ʾên maḥsôr: whoever gives to the poor will not lack; Q 2:268 ash-shayṭānu
+    yaʿidukumu l-faqra ... wa-llāhu yaʿidukum maghfiratan minhu wa-faḍlan: the fear that giving brings
+    poverty is Satan''s promise, God promises bounty. The Quran gives the fear Proverbs denies a source:
+    Satan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 28:27
+      lang: he
+      text: נוֹתֵ֣ן לָ֭רָשׁ אֵ֣ין מַחְס֑וֹר וּמַעְלִ֥ים עֵ֝ינָ֗יו רַב מְאֵרֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:268
+      lang: ar
+      text: ٱلشَّيْطَٰنُ يَعِدُكُمُ ٱلْفَقْرَ وَيَأْمُرُكُم بِٱلْفَحْشَآءِ وَٱللَّهُ يَعِدُكُم مَّغْفِرَةً
+        مِّنْهُ وَفَضْلًا وَٱللَّهُ وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

@@ -3,9 +3,7 @@ id: motif-hb-isa-1-indictment-of-judah-vs-quran-51-dhariyat-abrahams-guests-and-
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Abraham's honored
   guests, the barren old wife striking her face, the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud
   and Noah
-summary: 'These two units share 2 motifs: in lot''s town only one house of submitters (muslimin) was found,
-  and the believers were brought out, roll call of destroyed peoples: noah''s, ad, thamud, abraham''s
-  people, midian and the overturned cities.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,65 +16,9 @@ layers:
 motifs:
 - only-one-house-of-muslims-found
 - roll-of-destroyed-peoples
-passages:
-- tradition: judaism
-  ref: Isa 1:9
-  note: 'In Lot''s town only one house of submitters (muslimin) was found, and the believers were brought
-    out (A tiny remnant as the difference from Sodom: lûlê YHWH ṣəḇāʾôṯ hôṯîr lānû śārîḏ ki-mʿaṭ kis-səḏōm
-    hāyînû vs. fa-mā wajadnā fīhā ghayra baytin mina l-muslimīn. Isaiah: Judah saved from becoming Sodom
-    by a few survivors; Quran: in Sodom itself one household.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ
-- tradition: islam
-  ref: Quran 51:35
-  note: In Lot's town only one house of submitters (muslimin) was found, and the believers were brought
-    out
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجْنَا مَن كَانَ فِيهَا مِنَ ٱلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 51:36
-  note: In Lot's town only one house of submitters (muslimin) was found, and the believers were brought
-    out
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ
-- tradition: judaism
-  ref: Isa 1:9
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities (The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
-    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה דָּמִֽינוּ
-- tradition: judaism
-  ref: Isa 1:10
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities (The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
-    dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְע֥וּ דְבַר יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה
-- tradition: islam
-  ref: Quran 51:38
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ
-- tradition: islam
-  ref: Quran 51:41
-  note: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
-    cities'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A tiny remnant as the difference from Sodom: lûlê YHWH ṣəḇāʾôṯ hôṯîr lānû śārîḏ ki-mʿaṭ kis-səḏōm
-    hāyînû vs. fa-mā wajadnā fīhā ghayra baytin mina l-muslimīn. Isaiah: Judah saved from becoming Sodom
-    by a few survivors; Quran: in Sodom itself one household.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: In Lot''s town only one house of submitters (muslimin) was found,
     and the believers were brought out (weight 6.7); Roll call of destroyed peoples: Noah''s, Ad, Thamud,
@@ -116,6 +58,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: In Lot's town only one house of submitters (muslimin) was found, and the believers were brought
+  out
+kinds:
+- echo
+- shared
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: echo
+  label: In Lot's town only one house of submitters (muslimin) was found, and the believers were brought
+    out
+  note: 'A tiny remnant as the difference from Sodom: lûlê YHWH ṣəḇāʾôṯ hôṯîr lānû śārîḏ ki-mʿaṭ kis-səḏōm
+    hāyînû vs. fa-mā wajadnā fīhā ghayra baytin mina l-muslimīn. Isaiah: Judah saved from becoming Sodom
+    by a few survivors; Quran: in Sodom itself one household.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:9
+      lang: he
+      text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה
+        דָּמִֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 51:36
+      lang: ar
+      text: فَمَا وَجَدْنَا فِيهَا غَيْرَ بَيْتٍ مِّنَ ٱلْمُسْلِمِينَ
+- kind: shared
+  label: 'Roll call of destroyed peoples: Noah''s, Ad, Thamud, Abraham''s people, Midian and the overturned
+    cities'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:9
+      lang: he
+      text: לוּלֵי֙ יְהוָ֣ה צְבָא֔וֹת הוֹתִ֥יר לָ֛נוּ שָׂרִ֖יד כִּמְעָ֑ט כִּסְדֹ֣ם הָיִ֔ינוּ לַעֲמֹרָ֖ה
+        דָּמִֽינוּ
+    - ref: Isa 1:10
+      lang: he
+      text: שִׁמְע֥וּ דְבַר יְהוָ֖ה קְצִינֵ֣י סְדֹ֑ם הַאֲזִ֛ינוּ תּוֹרַ֥ת אֱלֹהֵ֖ינוּ עַ֥ם עֲמֹרָֽה
+    note: 'The present generation compared to Sodom and Gomorrah: kisdōm hāyînû laʿămōrāh dāmînû; šimʿû
+      dᵉbar-YHWH qᵉṣînê sᵉdōm vs ka-lladhīna min qablikum ... a-lam yaʾtihim nabaʾu ... wa-l-muʾtafikāt.'
+  - tradition: islam
+    passages:
+    - ref: Quran 51:38
+      lang: ar
+      text: وَفِى مُوسَىٰٓ إِذْ أَرْسَلْنَٰهُ إِلَىٰ فِرْعَوْنَ بِسُلْطَٰنٍ مُّبِينٍ
+    - ref: Quran 51:41
+      lang: ar
+      text: وَفِى عَادٍ إِذْ أَرْسَلْنَا عَلَيْهِمُ ٱلرِّيحَ ٱلْعَقِيمَ
+    - ref: Quran 51:43
+      lang: ar
+      text: وَفِى ثَمُودَ إِذْ قِيلَ لَهُمْ تَمَتَّعُوا۟ حَتَّىٰ حِينٍ
 ---
 
 ## Questions

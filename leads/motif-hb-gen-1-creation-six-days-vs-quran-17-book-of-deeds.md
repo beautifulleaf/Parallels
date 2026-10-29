@@ -2,9 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-17-book-of-deeds
 title: Creation in six days and the seventh-day rest ↔ The bird on the neck, the open book and individual
   responsibility (Surah 17:9-21)
-summary: 'These two units share 2 motifs: night and day are two signs; the sign of night is effaced and
-  that of day made bright for reckoning years, sun and moon are set to rule day and night and mark signs
-  and seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,58 +16,9 @@ layers:
 motifs:
 - night-and-day-as-two-signs
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
-    years (wa-jaʿalnā l-layla wa-n-nahāra āyatayn ... li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb; ləhabdîl
-    bên hayyôm ûbên hallāylâ wəhāyû ləʾōtōt ûləmôʿădîm ûləyāmîm wəšānîm. Cognate sign words (āya / ʾôt):
-    the day-and-night lights are signs for counting years. Gen''s signs are the luminaries; Q''s are night
-    and day themselves, with the night''s sign ''effaced'' (maḥawnā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: islam
-  ref: Quran 17:12
-  note: Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
-    years (the sign of night effaced, the sign of day made sighted, for counting years)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ
-    ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ
-    وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا
-- tradition: judaism
-  ref: Gen 1:14
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין
-    הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
-- tradition: judaism
-  ref: Gen 1:16
-  note: 'Sun and moon are set to rule day and night and mark signs and seasons (sun and moon unnamed:
-    ''the great light'' and ''the small light'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
-    הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
-- tradition: islam
-  ref: Quran 17:12
-  note: Sun and moon are set to rule day and night and mark signs and seasons (for counting years and
-    reckoning)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ
-    ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ
-    وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-jaʿalnā l-layla wa-n-nahāra āyatayn ... li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb; ləhabdîl
-    bên hayyôm ûbên hallāylâ wəhāyû ləʾōtōt ûləmôʿădîm ûləyāmîm wəšānîm. Cognate sign words (āya / ʾôt):
-    the day-and-night lights are signs for counting years. Gen''s signs are the luminaries; Q''s are night
-    and day themselves, with the night''s sign ''effaced'' (maḥawnā).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Night and day are two signs; the sign of night is effaced and that
     of day made bright for reckoning years (weight 6.7); Sun and moon are set to rule day and night and
@@ -104,6 +53,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+  years
+kinds:
+- parallel
+- shared
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-17-book-of-deeds
+  title: The bird on the neck, the open book and individual responsibility (Surah 17:9-21)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Night and day are two signs; the sign of night is effaced and that of day made bright for reckoning
+    years
+  note: 'wa-jaʿalnā l-layla wa-n-nahāra āyatayn ... li-taʿlamū ʿadada s-sinīna wa-l-ḥisāb; ləhabdîl bên
+    hayyôm ûbên hallāylâ wəhāyû ləʾōtōt ûləmôʿădîm ûləyāmîm wəšānîm. Cognate sign words (āya / ʾôt): the
+    day-and-night lights are signs for counting years. Gen''s signs are the luminaries; Q''s are night
+    and day themselves, with the night''s sign ''effaced'' (maḥawnā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 17:12
+      lang: ar
+      text: وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ
+        ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ
+        وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا
+- kind: shared
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:14
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם
+        וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים
+    - ref: Gen 1:16
+      lang: he
+      text: וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת
+        הַיּ֔וֹם וְאֶת הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים
+    - ref: Gen 1:18
+      lang: he
+      text: וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא
+        אֱלֹהִ֖ים כִּי טֽוֹב
+    note: 'sun and moon unnamed: ''the great light'' and ''the small light'''
+  - tradition: islam
+    passages:
+    - ref: Quran 17:12
+      lang: ar
+      text: وَجَعَلْنَا ٱلَّيْلَ وَٱلنَّهَارَ ءَايَتَيْنِ فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ وَجَعَلْنَآ ءَايَةَ
+        ٱلنَّهَارِ مُبْصِرَةً لِّتَبْتَغُوا۟ فَضْلًا مِّن رَّبِّكُمْ وَلِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ
+        وَٱلْحِسَابَ وَكُلَّ شَىْءٍ فَصَّلْنَٰهُ تَفْصِيلًا
+    note: for counting years and reckoning
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-8-wilderness-lesson-vs-quran-55-rahman-judgment-and-the-four-gardens
 title: Lessons of the wilderness; the good land; beware of pride ↔ Passing the regions of heaven, the
   rose-red sky, forelocks and feet, and the two pairs of gardens with secluded maidens
-summary: 'These two units share 2 motifs: springs and fruit of the promised land or of the garden [divergence
-  between the texts], land of wheat, barley, vine, fig, pomegranate, olive and honey.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,72 +15,9 @@ layers:
 motifs:
 - produce-of-promised-land-or-garden-as-divergence
 - seven-species-of-land
-passages:
-- tradition: judaism
-  ref: Deut 8:7
-  note: 'Springs and fruit of the promised land or of the Garden [divergence between the texts] (Springs
-    and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ ... ʾereṣ
-    ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan). Quran:
-    fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens). Springs
-    (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to the Garden;
-    grain and oil drop out, and the palm, which Deut 8 lacks, is added.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת
-    יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר
-- tradition: judaism
-  ref: Deut 8:8
-  note: 'Springs and fruit of the promised land or of the Garden [divergence between the texts] (Springs
-    and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ ... ʾereṣ
-    ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan). Quran:
-    fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens). Springs
-    (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to the Garden;
-    grain and oil drop out, and the palm, which Deut 8 lacks, is added.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
-- tradition: islam
-  ref: Quran 55:66
-  note: 'Springs and fruit of the promised land or of the Garden [divergence between the texts] (Springs
-    and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ ... ʾereṣ
-    ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan). Quran:
-    fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens). Springs
-    (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to the Garden;
-    grain and oil drop out, and the palm, which Deut 8 lacks, is added.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
-- tradition: islam
-  ref: Quran 55:68
-  note: 'Springs and fruit of the promised land or of the Garden [divergence between the texts] (Springs
-    and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ ... ʾereṣ
-    ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan). Quran:
-    fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens). Springs
-    (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to the Garden;
-    grain and oil drop out, and the palm, which Deut 8 lacks, is added.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِمَا فَٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
-- tradition: judaism
-  ref: Deut 8:8
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
-- tradition: islam
-  ref: Quran 55:68
-  note: Land of wheat, barley, vine, fig, pomegranate, olive and honey (palms and pomegranates singled
-    out)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِمَا فَٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Springs and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ
-    û-ṯəhōmōṯ ... ʾereṣ ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good
-    land of Canaan). Quran: fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the
-    two lower gardens). Springs (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from
-    the earthly land to the Garden; grain and oil drop out, and the palm, which Deut 8 lacks, is added.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Springs and fruit of the promised land or of the Garden [divergence
     between the texts] (weight 6.7); Land of wheat, barley, vine, fig, pomegranate, olive and honey (weight
@@ -118,6 +54,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Springs and fruit of the promised land or of the Garden
+kinds:
+- divergence
+- shared
+units:
+- id: hb-deut-8-wilderness-lesson
+  title: Lessons of the wilderness; the good land; beware of pride
+  tradition: judaism
+- id: quran-55-rahman-judgment-and-the-four-gardens
+  title: Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens
+    with secluded maidens
+  tradition: islam
+matches:
+- kind: divergence
+  label: Springs and fruit of the promised land or of the Garden
+  note: 'Springs and fruit of a land promised. Deuteronomy: ʾereṣ ṭôḇâ ʾereṣ naḥălê māyim ʿăyānōṯ û-ṯəhōmōṯ
+    ... ʾereṣ ḥiṭṭâ û-śəʿōrâ wə-ḡep̄en û-ṯəʾēnâ wə-rimmôn ʾereṣ zêṯ šemen û-ḏəḇāš (the good land of Canaan).
+    Quran: fīhimā ʿaynāni naḍḍākhatān ... fīhimā fākihatun wa-nakhlun wa-rummān (the two lower gardens).
+    Springs (ʿăyānōṯ / ʿaynān) and pomegranates (rimmôn / rummān) carry over from the earthly land to
+    the Garden; grain and oil drop out, and the palm, which Deut 8 lacks, is added.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:7
+      lang: he
+      text: כִּ֚י יְהוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת
+        יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר
+    - ref: Deut 8:8
+      lang: he
+      text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:66
+      lang: ar
+      text: فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ
+    - ref: Quran 55:68
+      lang: ar
+      text: فِيهِمَا فَٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+- kind: shared
+  label: Land of wheat, barley, vine, fig, pomegranate, olive and honey
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 8:8
+      lang: he
+      text: אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 55:68
+      lang: ar
+      text: فِيهِمَا فَٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ
+    note: palms and pomegranates singled out
 ---
 
 ## Questions

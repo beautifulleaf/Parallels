@@ -2,7 +2,7 @@
 id: motif-hb-deut-25-lashes-levirate-amalek-vs-quran-24-penalties-and-lian
 title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek ↔ Lashes for fornication, four
   witnesses and the mutual cursing oath
-summary: 'These two units share 1 motifs: how many lashes a flogging may have [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,53 +14,9 @@ layers:
 - motif
 motifs:
 - number-of-lashes-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 25:2
-  note: How many lashes a flogging may have [contrast between the texts] (Flogging before witnesses in
-    both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina l-muʾminīn), but Deut caps it
-    at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded in your eyes' (wə-niqlâ ʾāḥîkā),
-    while the Quran sets a hundred and eighty and forbids pity.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֛ה אִם בִּ֥ן הַכּ֖וֹת הָרָשָׁ֑ע וְהִפִּיל֤וֹ הַשֹּׁפֵט֙ וְהִכָּ֣הוּ לְפָנָ֔יו כְּדֵ֥י רִשְׁעָת֖וֹ
-    בְּמִסְפָּֽר
-- tradition: judaism
-  ref: Deut 25:3
-  note: How many lashes a flogging may have [contrast between the texts] (Flogging before witnesses in
-    both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina l-muʾminīn), but Deut caps it
-    at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded in your eyes' (wə-niqlâ ʾāḥîkā),
-    while the Quran sets a hundred and eighty and forbids pity.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַרְבָּעִ֥ים יַכֶּ֖נּוּ לֹ֣א יֹסִ֑יף פֶּן יֹסִ֨יף לְהַכֹּת֤וֹ עַל אֵ֨לֶּה֙ מַכָּ֣ה רַבָּ֔ה וְנִקְלָ֥ה
-    אָחִ֖יךָ לְעֵינֶֽיךָ
-- tradition: islam
-  ref: Quran 24:2
-  note: How many lashes a flogging may have [contrast between the texts] (Flogging before witnesses in
-    both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina l-muʾminīn), but Deut caps it
-    at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded in your eyes' (wə-niqlâ ʾāḥîkā),
-    while the Quran sets a hundred and eighty and forbids pity.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍ وَلَا تَأْخُذْكُم
-    بِهِمَا رَأْفَةٌ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَلْيَشْهَدْ
-    عَذَابَهُمَا طَآئِفَةٌ مِّنَ ٱلْمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 24:4
-  note: How many lashes a flogging may have [contrast between the texts] (Flogging before witnesses in
-    both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina l-muʾminīn), but Deut caps it
-    at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded in your eyes' (wə-niqlâ ʾāḥîkā),
-    while the Quran sets a hundred and eighty and forbids pity.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
-    ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Flogging before witnesses in both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun
-    mina l-muʾminīn), but Deut caps it at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest ''your brother be degraded
-    in your eyes'' (wə-niqlâ ʾāḥîkā), while the Quran sets a hundred and eighty and forbids pity.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How many lashes a flogging may have [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -95,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How many lashes a flogging may have
+kinds:
+- contrast
+units:
+- id: hb-deut-25-lashes-levirate-amalek
+  title: Forty lashes, muzzled ox, levirate and halitzah, weights, Amalek
+  tradition: judaism
+- id: quran-24-penalties-and-lian
+  title: Lashes for fornication, four witnesses and the mutual cursing oath
+  tradition: islam
+matches:
+- kind: contrast
+  label: How many lashes a flogging may have
+  note: Flogging before witnesses in both (wə-hikkāhû lə-fānāyw ~ wa-l-yashhad ʿadhābahumā ṭāʾifatun mina
+    l-muʾminīn), but Deut caps it at forty (ʾarbāʿîm yakkennû lōʾ yōsîf) lest 'your brother be degraded
+    in your eyes' (wə-niqlâ ʾāḥîkā), while the Quran sets a hundred and eighty and forbids pity.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 25:2
+      lang: he
+      text: וְהָיָ֛ה אִם בִּ֥ן הַכּ֖וֹת הָרָשָׁ֑ע וְהִפִּיל֤וֹ הַשֹּׁפֵט֙ וְהִכָּ֣הוּ לְפָנָ֔יו כְּדֵ֥י
+        רִשְׁעָת֖וֹ בְּמִסְפָּֽר
+    - ref: Deut 25:3
+      lang: he
+      text: אַרְבָּעִ֥ים יַכֶּ֖נּוּ לֹ֣א יֹסִ֑יף פֶּן יֹסִ֨יף לְהַכֹּת֤וֹ עַל אֵ֨לֶּה֙ מַכָּ֣ה רַבָּ֔ה
+        וְנִקְלָ֥ה אָחִ֖יךָ לְעֵינֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:2
+      lang: ar
+      text: ٱلزَّانِيَةُ وَٱلزَّانِى فَٱجْلِدُوا۟ كُلَّ وَٰحِدٍ مِّنْهُمَا مِا۟ئَةَ جَلْدَةٍ وَلَا تَأْخُذْكُم
+        بِهِمَا رَأْفَةٌ فِى دِينِ ٱللَّهِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ وَلْيَشْهَدْ
+        عَذَابَهُمَا طَآئِفَةٌ مِّنَ ٱلْمُؤْمِنِينَ
+    - ref: Quran 24:4
+      lang: ar
+      text: وَٱلَّذِينَ يَرْمُونَ ٱلْمُحْصَنَٰتِ ثُمَّ لَمْ يَأْتُوا۟ بِأَرْبَعَةِ شُهَدَآءَ فَٱجْلِدُوهُمْ
+        ثَمَٰنِينَ جَلْدَةً وَلَا تَقْبَلُوا۟ لَهُمْ شَهَٰدَةً أَبَدًا وَأُو۟لَٰٓئِكَ هُمُ ٱلْفَٰسِقُونَ
 ---
 
 ## Questions

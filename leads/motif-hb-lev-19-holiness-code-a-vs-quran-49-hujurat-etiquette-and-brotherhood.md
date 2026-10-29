@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'Be holy - ethical laws and love of neighbor ↔ Al-Hujurat: lowering voices, verifying reports,
   reconciling believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: do not go about as a talebearer among your people.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - talebearing-forbidden
-passages:
-- tradition: judaism
-  ref: Lev 19:16
-  note: Do not go about as a talebearer among your people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 49:12
-  note: Do not go about as a talebearer among your people
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. lōʾ ṯēlēḵ rāḵîl bə-ʿammeyḵā lōʾ ṯaʿămōḏ ʿal dam rēʿeḵā vs. wa-lā tajassasū wa-lā yaghtab
-    baʿḍukum baʿḍā. Both ban talk against a fellow member of the people; Leviticus pairs it with not standing
-    by a neighbor''s blood, the Quran with suspicion and spying.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not go about as a talebearer among your people (weight 5.8).
     Pair score 5.8.'
@@ -72,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not go about as a talebearer among your people
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do not go about as a talebearer among your people
+  note: lōʾ ṯēlēḵ rāḵîl bə-ʿammeyḵā lōʾ ṯaʿămōḏ ʿal dam rēʿeḵā vs. wa-lā tajassasū wa-lā yaghtab baʿḍukum
+    baʿḍā. Both ban talk against a fellow member of the people; Leviticus pairs it with not standing by
+    a neighbor's blood, the Quran with suspicion and spying.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:16
+      lang: he
+      text: לֹא תֵלֵ֤ךְ רָכִיל֙ בְּעַמֶּ֔יךָ לֹ֥א תַעֲמֹ֖ד עַל דַּ֣ם רֵעֶ֑ךָ אֲנִ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-51-dhariyat-flee-to-god
 title: The Song of Moses (Ha'azinu) ↔ The sky expanding, all things in pairs, 'flee to God', and jinn
   and humans created to worship
-summary: 'These two units share 1 motifs: whether god, or the gods, eat the offerings [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - gods-and-sacrificial-food-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 32:37
-  note: 'Whether God, or the gods, eat the offerings [contrast between the texts] (Gods who feed on offerings
-    vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô yōʾḵēlû yištû yên nəsîḵām (where are
-    their gods who ate the fat of their sacrifices and drank their libations?) vs. wa-mā urīdu an yuṭʿimūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
-- tradition: judaism
-  ref: Deut 32:38
-  note: 'Whether God, or the gods, eat the offerings [contrast between the texts] (Gods who feed on offerings
-    vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô yōʾḵēlû yištû yên nəsîḵām (where are
-    their gods who ate the fat of their sacrifices and drank their libations?) vs. wa-mā urīdu an yuṭʿimūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י
-    עֲלֵיכֶ֖ם סִתְרָֽה
-- tradition: islam
-  ref: Quran 51:57
-  note: 'Whether God, or the gods, eat the offerings [contrast between the texts] (Gods who feed on offerings
-    vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô yōʾḵēlû yištû yên nəsîḵām (where are
-    their gods who ate the fat of their sacrifices and drank their libations?) vs. wa-mā urīdu an yuṭʿimūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Gods who feed on offerings vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô
-    yōʾḵēlû yištû yên nəsîḵām (where are their gods who ate the fat of their sacrifices and drank their
-    libations?) vs. wa-mā urīdu an yuṭʿimūn.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God, or the gods, eat the offerings [contrast between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -79,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God, or the gods, eat the offerings
+kinds:
+- contrast
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-51-dhariyat-flee-to-god
+  title: The sky expanding, all things in pairs, 'flee to God', and jinn and humans created to worship
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God, or the gods, eat the offerings
+  note: 'Gods who feed on offerings vs. God who wants no food: ʾê ʾĕlōhêmô ... ʾăšer ḥēleḇ zəḇāḥêmô yōʾḵēlû
+    yištû yên nəsîḵām (where are their gods who ate the fat of their sacrifices and drank their libations?)
+    vs. wa-mā urīdu an yuṭʿimūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:37
+      lang: he
+      text: וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ
+    - ref: Deut 32:38
+      lang: he
+      text: אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֨ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם יָק֨וּמוּ֙ וְיַעְזְרֻכֶ֔ם
+        יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 51:57
+      lang: ar
+      text: مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-zech-7-fasting-question-vs-quran-4-creation-kinship-orphans
 title: The Bethel delegation's question about fasting ↔ One soul, the wombs, orphans' property and the
   bride-gift
-summary: 'These two units share 1 motifs: god executes justice for orphan and widow and loves the stranger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +14,9 @@ layers:
 - motif
 motifs:
 - god-loves-stranger-orphan-widow
-passages:
-- tradition: judaism
-  ref: Zech 7:9
-  note: God executes justice for orphan and widow and loves the stranger (do not oppress widow, orphan,
-    stranger and poor; do not plot evil against a brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֥ה אָמַ֛ר יְהוָ֥ה צְבָא֖וֹת לֵאמֹ֑ר מִשְׁפַּ֤ט אֱמֶת֙ שְׁפֹ֔טוּ וְחֶ֣סֶד וְרַֽחֲמִ֔ים עֲשׂ֖וּ
-    אִ֥ישׁ אֶת אָחִֽיו
-- tradition: judaism
-  ref: Zech 7:10
-  note: God executes justice for orphan and widow and loves the stranger (do not oppress widow, orphan,
-    stranger and poor; do not plot evil against a brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל תַּחְשְׁב֖וּ
-    בִּלְבַבְכֶֽם
-- tradition: islam
-  ref: Quran 4:2
-  note: God executes justice for orphan and widow and loves the stranger (care for the weak offspring
-    one leaves behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا تَأْكُلُوٓا۟
-    أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
-- tradition: islam
-  ref: Quran 4:9
-  note: God executes justice for orphan and widow and loves the stranger (care for the weak offspring
-    one leaves behind)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلْيَخْشَ ٱلَّذِينَ لَوْ تَرَكُوا۟ مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَٰفًا خَافُوا۟ عَلَيْهِمْ فَلْيَتَّقُوا۟
-    ٱللَّهَ وَلْيَقُولُوا۟ قَوْلًا سَدِيدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Zech 7:10 wĕ-ʾalmānâ wĕ-yātôm gēr wĕ-ʿānî ʾal taʿăšōqû; Q 4:2 wa-lā tatabaddalū l-khabītha bi-ṭ-ṭayyibi
-    wa-lā taʾkulū amwālahum: do not defraud the orphan.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God executes justice for orphan and widow and loves the stranger
     (weight 5.2). Pair score 5.2.'
@@ -83,6 +49,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God executes justice for orphan and widow and loves the stranger
+kinds:
+- echo
+units:
+- id: hb-zech-7-fasting-question
+  title: The Bethel delegation's question about fasting
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: echo
+  label: God executes justice for orphan and widow and loves the stranger
+  note: 'Zech 7:10 wĕ-ʾalmānâ wĕ-yātôm gēr wĕ-ʿānî ʾal taʿăšōqû; Q 4:2 wa-lā tatabaddalū l-khabītha bi-ṭ-ṭayyibi
+    wa-lā taʾkulū amwālahum: do not defraud the orphan.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 7:10
+      lang: he
+      text: וְאַלְמָנָ֧ה וְיָת֛וֹם גֵּ֥ר וְעָנִ֖י אַֽל תַּעֲשֹׁ֑קוּ וְרָעַת֙ אִ֣ישׁ אָחִ֔יו אַֽל תַּחְשְׁב֖וּ
+        בִּלְבַבְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:2
+      lang: ar
+      text: وَءَاتُوا۟ ٱلْيَتَٰمَىٰٓ أَمْوَٰلَهُمْ وَلَا تَتَبَدَّلُوا۟ ٱلْخَبِيثَ بِٱلطَّيِّبِ وَلَا
+        تَأْكُلُوٓا۟ أَمْوَٰلَهُمْ إِلَىٰٓ أَمْوَٰلِكُمْ إِنَّهُۥ كَانَ حُوبًا كَبِيرًا
 ---
 
 ## Questions

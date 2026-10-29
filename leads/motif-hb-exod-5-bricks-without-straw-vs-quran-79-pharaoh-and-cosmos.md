@@ -2,8 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-79-pharaoh-and-cosmos
 title: 'First audience with Pharaoh; bricks without straw ↔ Those who drag forth: Moses at Tuwa, Pharaoh''s
   claim, and the spreading of the earth'
-summary: 'These two units share 1 motifs: pharaoh gathers the people and proclaims ''i am your lord most
-  high'' [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - pharaoh-claims-to-be-supreme-lord-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the
-    texts] (Pharaoh''s answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he does
-    not know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the people
-    and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 79:21
-  note: 'Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the
-    texts] (Pharaoh''s answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he does
-    not know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the people
-    and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَذَّبَ وَعَصَىٰ
-- tradition: islam
-  ref: Quran 79:23
-  note: 'Pharaoh gathers the people and proclaims ''I am your Lord most high'' [divergence between the
-    texts] (Pharaoh''s answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he does
-    not know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the people
-    and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَحَشَرَ فَنَادَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Pharaoh''s answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he
-    does not know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the
-    people and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Pharaoh gathers the people and proclaims ''I am your Lord most high''
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -86,6 +54,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Pharaoh gathers the people and proclaims 'I am your Lord most high'
+kinds:
+- divergence
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-79-pharaoh-and-cosmos
+  title: 'Those who drag forth: Moses at Tuwa, Pharaoh''s claim, and the spreading of the earth'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Pharaoh gathers the people and proclaims 'I am your Lord most high'
+  note: 'Pharaoh''s answer: Exod 5:2 mî YHWH ʾăšer ʾešmaʿ be-qōlô ... lōʾ yādaʿtî ʾet YHWH (he does not
+    know this god). Q 79:23-24 fa-ḥashara fa-nādā fa-qāla anā rabbukumu l-aʿlā: he gathers the people
+    and claims to be their supreme Lord himself; ignorance of a foreign god becomes self-deification.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 79:21
+      lang: ar
+      text: فَكَذَّبَ وَعَصَىٰ
+    - ref: Quran 79:23
+      lang: ar
+      text: فَحَشَرَ فَنَادَىٰ
+    - ref: Quran 79:24
+      lang: ar
+      text: فَقَالَ أَنَا۠ رَبُّكُمُ ٱلْأَعْلَىٰ
 ---
 
 ## Questions

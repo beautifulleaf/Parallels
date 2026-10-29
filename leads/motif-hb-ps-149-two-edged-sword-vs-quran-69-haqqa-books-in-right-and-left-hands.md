@@ -2,8 +2,7 @@
 id: motif-hb-ps-149-two-edged-sword-vs-quran-69-haqqa-books-in-right-and-left-hands
 title: Psalm 149, new song, dance, and the sword of the faithful ↔ The book in the right hand and in the
   left, the seventy-cubit chain, ghislin, and the aorta of a forger
-summary: 'These two units share 1 motifs: kings bound with chains and nobles with fetters of iron to execute
-  ''the judgment written''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - kings-bound-in-chains
-passages:
-- tradition: judaism
-  ref: Ps 149:8-9
-  note: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (149:8) לֶאְסֹ֣ר מַלְכֵיהֶ֣ם בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל (149:9) לַעֲשׂ֤וֹת
-    בָּהֶ֨ם מִשְׁפָּ֬ט כָּת֗וּב הָדָ֣ר ה֭וּא לְכָל חֲסִידָ֗יו הַֽלְלוּ יָֽהּ
-- tradition: judaism
-  ref: Ps 149:8
-  note: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֶאְסֹ֣ר מַלְכֵיהֶ֣ם בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל
-- tradition: islam
-  ref: Quran 69:32
-  note: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ
-- tradition: islam
-  ref: Quran 69:30
-  note: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُذُوهُ فَغُلُّوهُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. khudhūhu fa-ghullūhu ... fī silsilatin dharʿuhā sabʿūna dhirāʿan fa-slukūh ~ leʾsōr malkêhem
-    be-ziqqîm we-nikbedêhem be-kavlê varzel. In the Psalm the faithful bind the kings on earth; in the
-    Quran angels fetter the damned man in hell, whose lost sulṭān (69:29) recalls the kings.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Kings bound with chains and nobles with fetters of iron to execute
     ''the judgment written'' (weight 6.7). Pair score 6.7.'
@@ -77,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
+kinds:
+- echo
+units:
+- id: hb-ps-149-two-edged-sword
+  title: Psalm 149, new song, dance, and the sword of the faithful
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: echo
+  label: Kings bound with chains and nobles with fetters of iron to execute 'the judgment written'
+  note: khudhūhu fa-ghullūhu ... fī silsilatin dharʿuhā sabʿūna dhirāʿan fa-slukūh ~ leʾsōr malkêhem be-ziqqîm
+    we-nikbedêhem be-kavlê varzel. In the Psalm the faithful bind the kings on earth; in the Quran angels
+    fetter the damned man in hell, whose lost sulṭān (69:29) recalls the kings.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 149:8
+      lang: he
+      text: לֶאְסֹ֣ר מַלְכֵיהֶ֣ם בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 69:30
+      lang: ar
+      text: خُذُوهُ فَغُلُّوهُ
+    - ref: Quran 69:32
+      lang: ar
+      text: ثُمَّ فِى سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعًا فَٱسْلُكُوهُ
 ---
 
 ## Questions

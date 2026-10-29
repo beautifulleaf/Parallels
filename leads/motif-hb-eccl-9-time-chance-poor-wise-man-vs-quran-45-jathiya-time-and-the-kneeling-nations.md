@@ -2,8 +2,7 @@
 id: motif-hb-eccl-9-time-chance-poor-wise-man-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Time and chance; the poor wise man who saved the city ↔ Desire as god, 'only Time destroys us',
   and every nation kneeling before its book
-summary: 'These two units share 1 motifs: deniers say there is only this life; we die and live, and only
-  time (al-dahr) destroys us.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - only-time-destroys-us
-passages:
-- tradition: judaism
-  ref: Eccl 9:11
-  note: 'Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys us (Time
-    as the impersonal power over men: kî ʿēṯ wā-p̄egaʿ yiqreh ʾeṯ kullām (time and chance befall them
-    all) vs. wa-mā yuhlikunā illā d-dahr. Qohelet sets this beside faith in God; the Quran treats it as
-    the deniers'' creed.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שַׁ֜בְתִּי וְרָאֹ֣ה תַֽחַת הַשֶּׁ֗מֶשׁ כִּ֣י לֹא֩ לַקַּלִּ֨ים הַמֵּר֜וֹץ וְלֹ֧א לַגִּבּוֹרִ֣ים
-    הַמִּלְחָמָ֗ה וְ֠גַם לֹ֣א לַחֲכָמִ֥ים לֶ֨חֶם֙ וְגַ֨ם לֹ֤א לַנְּבֹנִים֙ עֹ֔שֶׁר וְגַ֛ם לֹ֥א לַיֹּדְעִ֖ים
-    חֵ֑ן כִּי עֵ֥ת וָפֶ֖גַע יִקְרֶ֥ה אֶת כֻּלָּֽם
-- tradition: islam
-  ref: Quran 45:24
-  note: Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys us
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا ٱلدَّهْرُ
-    وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Time as the impersonal power over men: kî ʿēṯ wā-p̄egaʿ yiqreh ʾeṯ kullām (time and chance befall
-    them all) vs. wa-mā yuhlikunā illā d-dahr. Qohelet sets this beside faith in God; the Quran treats
-    it as the deniers'' creed.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers say there is only this life; we die and live, and only Time
     (al-dahr) destroys us (weight 6.3). Pair score 6.3.'
@@ -73,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys us
+kinds:
+- echo
+units:
+- id: hb-eccl-9-time-chance-poor-wise-man
+  title: Time and chance; the poor wise man who saved the city
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: echo
+  label: Deniers say there is only this life; we die and live, and only Time (al-dahr) destroys us
+  note: 'Time as the impersonal power over men: kî ʿēṯ wā-p̄egaʿ yiqreh ʾeṯ kullām (time and chance befall
+    them all) vs. wa-mā yuhlikunā illā d-dahr. Qohelet sets this beside faith in God; the Quran treats
+    it as the deniers'' creed.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 9:11
+      lang: he
+      text: שַׁ֜בְתִּי וְרָאֹ֣ה תַֽחַת הַשֶּׁ֗מֶשׁ כִּ֣י לֹא֩ לַקַּלִּ֨ים הַמֵּר֜וֹץ וְלֹ֧א לַגִּבּוֹרִ֣ים
+        הַמִּלְחָמָ֗ה וְ֠גַם לֹ֣א לַחֲכָמִ֥ים לֶ֨חֶם֙ וְגַ֨ם לֹ֤א לַנְּבֹנִים֙ עֹ֔שֶׁר וְגַ֛ם לֹ֥א לַיֹּדְעִ֖ים
+        חֵ֑ן כִּי עֵ֥ת וָפֶ֖גַע יִקְרֶ֥ה אֶת כֻּלָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 45:24
+      lang: ar
+      text: وَقَالُوا۟ مَا هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا يُهْلِكُنَآ إِلَّا
+        ٱلدَّهْرُ وَمَا لَهُم بِذَٰلِكَ مِنْ عِلْمٍ إِنْ هُمْ إِلَّا يَظُنُّونَ
 ---
 
 ## Questions

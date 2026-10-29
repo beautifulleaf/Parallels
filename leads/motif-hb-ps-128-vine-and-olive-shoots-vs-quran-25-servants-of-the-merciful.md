@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-128-vine-and-olive-shoots-vs-quran-25-servants-of-the-merciful
 title: Psalm 128, blessing of the God-fearer's household ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 1 motifs: your wife a fruitful vine in the recesses of your house, your
-  children like olive shoots around your table.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +13,9 @@ layers:
 - motif
 motifs:
 - wife-as-vine-children-as-olive-shoots
-passages:
-- tradition: judaism
-  ref: Ps 128:3
-  note: Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
-    your table (Wife 'in the recesses (yarketei) of your house')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶשְׁתְּךָ֤ כְּגֶ֥פֶן פֹּרִיָּה֮ בְּיַרְכְּתֵ֪י בֵ֫יתֶ֥ךָ בָּ֭נֶיךָ כִּשְׁתִלֵ֣י זֵיתִ֑ים סָ֝בִ֗יב
-    לְשֻׁלְחָנֶֽךָ
-- tradition: islam
-  ref: Quran 25:74
-  note: 'Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
-    your table (rabbanā hab lanā min azwājinā wa-dhurriyyātinā qurrata aʿyunin ~ ʾeštəkhā kə-gefen pōriyyâ
-    ... bānêkā ki-štilê zêtîm sāvîv lə-šulḥānekā: wife and children as the God-fearer''s blessing; the
-    Psalm promises it, the Quran''s servants pray for it.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ
-    وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. rabbanā hab lanā min azwājinā wa-dhurriyyātinā qurrata aʿyunin ~ ʾeštəkhā kə-gefen pōriyyâ ...
-    bānêkā ki-štilê zêtîm sāvîv lə-šulḥānekā: wife and children as the God-fearer''s blessing; the Psalm
-    promises it, the Quran''s servants pray for it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your wife a fruitful vine in the recesses of your house, your children
     like olive shoots around your table (weight 6.7). Pair score 6.7.'
@@ -63,6 +41,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
+  your table
+kinds:
+- echo
+units:
+- id: hb-ps-128-vine-and-olive-shoots
+  title: Psalm 128, blessing of the God-fearer's household
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: echo
+  label: Your wife a fruitful vine in the recesses of your house, your children like olive shoots around
+    your table
+  note: 'rabbanā hab lanā min azwājinā wa-dhurriyyātinā qurrata aʿyunin ~ ʾeštəkhā kə-gefen pōriyyâ ...
+    bānêkā ki-štilê zêtîm sāvîv lə-šulḥānekā: wife and children as the God-fearer''s blessing; the Psalm
+    promises it, the Quran''s servants pray for it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 128:3
+      lang: he
+      text: אֶשְׁתְּךָ֤ כְּגֶ֥פֶן פֹּרִיָּה֮ בְּיַרְכְּתֵ֪י בֵ֫יתֶ֥ךָ בָּ֭נֶיךָ כִּשְׁתִלֵ֣י זֵיתִ֑ים
+        סָ֝בִ֗יב לְשֻׁלְחָנֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:74
+      lang: ar
+      text: وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ
+        وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
 ---
 
 ## Questions

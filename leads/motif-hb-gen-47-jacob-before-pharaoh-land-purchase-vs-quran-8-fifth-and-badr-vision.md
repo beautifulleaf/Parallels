@@ -2,8 +2,7 @@
 id: motif-hb-gen-47-jacob-before-pharaoh-land-purchase-vs-quran-8-fifth-and-badr-vision
 title: Jacob before Pharaoh; Joseph's famine economics; deathbed oath ↔ The fifth of the spoils, the dream
   of few, Satan's desertion
-summary: 'These two units share 1 motifs: a fixed fifth owed, to the king or to god [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - fixed-fifth-levy-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 47:24
-  note: 'A fixed fifth owed, to the king or to God [divergence between the texts] (A fixed fifth: fa-anna
-    li-llāhi khumusahu wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl vs ûnᵉtattem
-    ḥămîšît lᵉparʿōh. Changed: in Gen a perpetual tax on the harvest owed to the king; in Q a fifth of
-    war booty owed to God and passed on to the messenger, kin, orphans, the poor and the traveller.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ בַּתְּבוּאֹ֔ת וּנְתַתֶּ֥ם חֲמִישִׁ֖ית לְפַרְעֹ֑ה וְאַרְבַּ֣ע הַיָּדֹ֡ת יִהְיֶ֣ה לָכֶם֩
-    לְזֶ֨רַע הַשָּׂדֶ֧ה וּֽלְאָכְלְכֶ֛ם וְלַאֲשֶׁ֥ר בְּבָתֵּיכֶ֖ם וְלֶאֱכֹ֥ל לְטַפְּכֶֽם
-- tradition: islam
-  ref: Quran 8:41
-  note: 'A fixed fifth owed, to the king or to God [divergence between the texts] (A fixed fifth: fa-anna
-    li-llāhi khumusahu wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīl vs ûnᵉtattem
-    ḥămîšît lᵉparʿōh. Changed: in Gen a perpetual tax on the harvest owed to the king; in Q a fifth of
-    war booty owed to God and passed on to the messenger, kin, orphans, the poor and the traveller.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلْنَا
-    عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A fixed fifth: fa-anna li-llāhi khumusahu wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā
-    wa-l-masākīni wa-bni s-sabīl vs ûnᵉtattem ḥămîšît lᵉparʿōh. Changed: in Gen a perpetual tax on the
-    harvest owed to the king; in Q a fifth of war booty owed to God and passed on to the messenger, kin,
-    orphans, the poor and the traveller.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A fixed fifth owed, to the king or to God [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -75,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A fixed fifth owed, to the king or to God
+kinds:
+- divergence
+units:
+- id: hb-gen-47-jacob-before-pharaoh-land-purchase
+  title: Jacob before Pharaoh; Joseph's famine economics; deathbed oath
+  tradition: judaism
+- id: quran-8-fifth-and-badr-vision
+  title: The fifth of the spoils, the dream of few, Satan's desertion
+  tradition: islam
+matches:
+- kind: divergence
+  label: A fixed fifth owed, to the king or to God
+  note: 'A fixed fifth: fa-anna li-llāhi khumusahu wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni
+    wa-bni s-sabīl vs ûnᵉtattem ḥămîšît lᵉparʿōh. Changed: in Gen a perpetual tax on the harvest owed
+    to the king; in Q a fifth of war booty owed to God and passed on to the messenger, kin, orphans, the
+    poor and the traveller.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 47:24
+      lang: he
+      text: וְהָיָה֙ בַּתְּבוּאֹ֔ת וּנְתַתֶּ֥ם חֲמִישִׁ֖ית לְפַרְעֹ֑ה וְאַרְבַּ֣ע הַיָּדֹ֡ת יִהְיֶ֣ה לָכֶם֩
+        לְזֶ֨רַע הַשָּׂדֶ֧ה וּֽלְאָכְלְכֶ֛ם וְלַאֲשֶׁ֥ר בְּבָתֵּיכֶ֖ם וְלֶאֱכֹ֥ל לְטַפְּכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:41
+      lang: ar
+      text: وَٱعْلَمُوٓا۟ أَنَّمَا غَنِمْتُم مِّن شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ إِن كُنتُمْ ءَامَنتُم بِٱللَّهِ
+        وَمَآ أَنزَلْنَا عَلَىٰ عَبْدِنَا يَوْمَ ٱلْفُرْقَانِ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

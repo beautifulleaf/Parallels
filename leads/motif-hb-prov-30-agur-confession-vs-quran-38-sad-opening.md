@@ -2,8 +2,7 @@
 id: motif-hb-prov-30-agur-confession-vs-quran-38-sad-opening
 title: 'Words of Agur son of Yakeh, confession of ignorance and prayer ↔ Sad: the chiefs marvel at one
   God; the confederates of old'
-summary: 'These two units share 1 motifs: if they own heaven and earth, let them ascend by the cords or
-  ways (asbab) to heaven.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - let-them-ascend-by-the-cords
-passages:
-- tradition: judaism
-  ref: Prov 30:4
-  note: 'If they own heaven and earth, let them ascend by the cords or ways (asbab) to heaven (mî ʿālâ-šāmayim
-    wa-yyērad ... mî hēqîm kol-ʾap̄sê-ʾāreṣ mah-šəmô vs. am lahum mulku s-samāwāti wa-l-arḍi wa-mā baynahumā
-    fa-l-yartaqū fī l-asbāb: the rhetorical challenge, who rose to heaven and holds the earth? Agur means
-    that no human did; the Quran dares the opponents to climb.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מִ֤י עָלָֽה שָׁמַ֨יִם וַיֵּרַ֡ד מִ֤י אָֽסַף ר֨וּחַ בְּחָפְנָ֡יו מִ֤י צָֽרַר מַ֨יִם בַּשִּׂמְלָ֗ה
-    מִ֭י הֵקִ֣ים כָּל אַפְסֵי אָ֑רֶץ מַה שְּׁמ֥וֹ וּמַֽה שֶּׁם בְּ֝נ֗וֹ כִּ֣י תֵדָֽע
-- tradition: islam
-  ref: Quran 38:10
-  note: If they own heaven and earth, let them ascend by the cords or ways (asbab) to heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ لَهُم مُّلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. mî ʿālâ-šāmayim wa-yyērad ... mî hēqîm kol-ʾap̄sê-ʾāreṣ mah-šəmô vs. am lahum mulku s-samāwāti
-    wa-l-arḍi wa-mā baynahumā fa-l-yartaqū fī l-asbāb: the rhetorical challenge, who rose to heaven and
-    holds the earth? Agur means that no human did; the Quran dares the opponents to climb.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If they own heaven and earth, let them ascend by the cords or ways
     (asbab) to heaven (weight 6.3). Pair score 6.3.'
@@ -70,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If they own heaven and earth, let them ascend by the cords or ways (asbab) to heaven
+kinds:
+- echo
+units:
+- id: hb-prov-30-agur-confession
+  title: Words of Agur son of Yakeh, confession of ignorance and prayer
+  tradition: judaism
+- id: quran-38-sad-opening
+  title: 'Sad: the chiefs marvel at one God; the confederates of old'
+  tradition: islam
+matches:
+- kind: echo
+  label: If they own heaven and earth, let them ascend by the cords or ways (asbab) to heaven
+  note: 'mî ʿālâ-šāmayim wa-yyērad ... mî hēqîm kol-ʾap̄sê-ʾāreṣ mah-šəmô vs. am lahum mulku s-samāwāti
+    wa-l-arḍi wa-mā baynahumā fa-l-yartaqū fī l-asbāb: the rhetorical challenge, who rose to heaven and
+    holds the earth? Agur means that no human did; the Quran dares the opponents to climb.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 30:4
+      lang: he
+      text: מִ֤י עָלָֽה שָׁמַ֨יִם וַיֵּרַ֡ד מִ֤י אָֽסַף ר֨וּחַ בְּחָפְנָ֡יו מִ֤י צָֽרַר מַ֨יִם בַּשִּׂמְלָ֗ה
+        מִ֭י הֵקִ֣ים כָּל אַפְסֵי אָ֑רֶץ מַה שְּׁמ֥וֹ וּמַֽה שֶּׁם בְּ֝נ֗וֹ כִּ֣י תֵדָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 38:10
+      lang: ar
+      text: أَمْ لَهُم مُّلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا فَلْيَرْتَقُوا۟ فِى ٱلْأَسْبَٰبِ
 ---
 
 ## Questions

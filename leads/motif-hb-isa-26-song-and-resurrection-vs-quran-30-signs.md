@@ -2,8 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-30-signs
 title: Song of the strong city; your dead shall live ↔ The Hour, the times of praise, and the signs of
   God
-summary: 'These two units share 1 motifs: rain from the sky gives life to the earth after its death, a
-  sign of resurrection.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - rain-revives-dead-earth
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: 'Rain from the sky gives life to the earth after its death, a sign of resurrection (yiḥyû mētêkā
-    nəbēlātî yəqûmûn hāqîṣû wərannənû šōknê ʿāpār kî ṭal ʾôrōt ṭallekā wāʾāreṣ rəpāʾîm tappîl; wa-tarā
-    l-arḍa hāmidatan fa-idhā anzalnā ʿalayhā l-māʾa htazzat ... wa-anna llāha yabʿathu man fī l-qubūr:
-    moisture from heaven tied to the dead rising from the dust. In Isa a dew of lights directly brings
-    up the shades; in Q rain reviving the earth is the analogy that proves resurrection.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 30:19
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ
-    مَوْتِهَا وَكَذَٰلِكَ تُخْرَجُونَ
-- tradition: islam
-  ref: Quran 30:24
-  note: Rain from the sky gives life to the earth after its death, a sign of resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِۦ يُرِيكُمُ ٱلْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مَآءً فَيُحْىِۦ
-    بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-yuḥyi l-arḍa baʿda mawtihā wa-ka-dhālika tukhrajūn vs. kî ṭal ʾôrōṯ ṭallekā wā-ʾāreṣ rəp̄āʾîm
-    tappîl: in both, water from heaven reviving the earth is the figure of the dead coming out. Isaiah''s
-    dew makes the earth give up the shades; the Quran''s rain is an analogy (ka-dhālika).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rain from the sky gives life to the earth after its death, a sign
     of resurrection (weight 4.4). Pair score 4.4.'
@@ -81,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rain from the sky gives life to the earth after its death, a sign of resurrection
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-30-signs
+  title: The Hour, the times of praise, and the signs of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Rain from the sky gives life to the earth after its death, a sign of resurrection
+  note: 'wa-yuḥyi l-arḍa baʿda mawtihā wa-ka-dhālika tukhrajūn vs. kî ṭal ʾôrōṯ ṭallekā wā-ʾāreṣ rəp̄āʾîm
+    tappîl: in both, water from heaven reviving the earth is the figure of the dead coming out. Isaiah''s
+    dew makes the earth give up the shades; the Quran''s rain is an analogy (ka-dhālika).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 30:19
+      lang: ar
+      text: يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَيُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَيُحْىِ ٱلْأَرْضَ بَعْدَ
+        مَوْتِهَا وَكَذَٰلِكَ تُخْرَجُونَ
 ---
 
 ## Questions

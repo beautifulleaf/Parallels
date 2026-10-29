@@ -2,10 +2,7 @@
 id: motif-quran-7-moses-pharaoh-vs-quran-26-moses-and-pharaoh
 title: Moses before Pharaoh, the magicians and the plagues ↔ Moses and Pharaoh disputing; the magicians;
   the sea split like mountains
-summary: 'These two units share 8 motifs: the court magicians ask the king for a reward if they win and
-  are promised closeness, the defeated magicians fall prostrate and declare faith in the lord of moses
-  and aaron, the prophet''s staff-serpent swallows the magicians'' staff-serpents, prophet''s hand turns
-  leprous, white as snow, and is restored as a sign….'
+summary: 8 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -23,161 +20,7 @@ motifs:
 - staff-becomes-serpent
 - contest-with-court-magicians
 - pursuers-drowned-in-sea
-passages:
-- tradition: islam
-  ref: Quran 7:113
-  note: The court magicians ask the king for a reward if they win and are promised closeness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
-- tradition: islam
-  ref: Quran 7:114
-  note: The court magicians ask the king for a reward if they win and are promised closeness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ
-- tradition: islam
-  ref: Quran 26:41
-  note: The court magicians ask the king for a reward if they win and are promised closeness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
-- tradition: islam
-  ref: Quran 26:42
-  note: The court magicians ask the king for a reward if they win and are promised closeness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ
-- tradition: islam
-  ref: Quran 7:120
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 7:121
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:46
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 26:47
-  note: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 7:117
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents (talqafu ma ya'fikun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
-- tradition: islam
-  ref: Quran 26:45
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
-- tradition: islam
-  ref: Quran 26:44
-  note: The prophet's staff-serpent swallows the magicians' staff-serpents
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
-- tradition: islam
-  ref: Quran 7:108
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign (hand drawn out white for
-    beholders; no leprosy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
-- tradition: islam
-  ref: Quran 26:33
-  note: Prophet's hand turns leprous, white as snow, and is restored as a sign
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
-- tradition: islam
-  ref: Quran 7:105
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' (fa-arsil ma'iya bani
-    isra'il)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن
-    رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 26:16
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 26:17
-  note: Prophet delivers God's demand 'Let my people go that they may serve me'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 7:107
-  note: A staff thrown down becomes a serpent and turns back into a staff (thu'ban mubin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 26:32
-  note: A staff thrown down becomes a serpent and turns back into a staff
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 7:109
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 7:111
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
-- tradition: islam
-  ref: Quran 26:34
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 26:35
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
-- tradition: islam
-  ref: Quran 7:136
-  note: The returning waters drown the pursuing army; not one survives (al-yamm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟
-    عَنْهَا غَٰفِلِينَ
-- tradition: islam
-  ref: Quran 26:64
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ
-- tradition: islam
-  ref: Quran 26:65
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The court magicians ask the king for a reward if they win and are
     promised closeness (weight 6.7); The defeated magicians fall prostrate and declare faith in the Lord
@@ -220,6 +63,171 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The court magicians ask the king for a reward if they win and are promised closeness
+kinds:
+- shared
+units:
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: shared
+  label: The court magicians ask the king for a reward if they win and are promised closeness
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:113
+      lang: ar
+      text: وَجَآءَ ٱلسَّحَرَةُ فِرْعَوْنَ قَالُوٓا۟ إِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَٰلِبِينَ
+    - ref: Quran 7:114
+      lang: ar
+      text: قَالَ نَعَمْ وَإِنَّكُمْ لَمِنَ ٱلْمُقَرَّبِينَ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:41
+      lang: ar
+      text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ
+        ٱلْغَٰلِبِينَ
+    - ref: Quran 26:42
+      lang: ar
+      text: قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ
+- kind: shared
+  label: The defeated magicians fall prostrate and declare faith in the Lord of Moses and Aaron
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:120
+      lang: ar
+      text: وَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+    - ref: Quran 7:121
+      lang: ar
+      text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 7:122
+      lang: ar
+      text: رَبِّ مُوسَىٰ وَهَٰرُونَ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:46
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+    - ref: Quran 26:47
+      lang: ar
+      text: قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:48
+      lang: ar
+      text: رَبِّ مُوسَىٰ وَهَٰرُونَ
+- kind: shared
+  label: The prophet's staff-serpent swallows the magicians' staff-serpents
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:117
+      lang: ar
+      text: وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَلْقِ عَصَاكَ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
+    note: talqafu ma ya'fikun
+  - tradition: islam
+    passages:
+    - ref: Quran 26:45
+      lang: ar
+      text: فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ
+    - ref: Quran 26:44
+      lang: ar
+      text: فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَٰلِبُونَ
+- kind: shared
+  label: Prophet's hand turns leprous, white as snow, and is restored as a sign
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:108
+      lang: ar
+      text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
+    note: hand drawn out white for beholders; no leprosy
+  - tradition: islam
+    passages:
+    - ref: Quran 26:33
+      lang: ar
+      text: وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّٰظِرِينَ
+- kind: shared
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:105
+      lang: ar
+      text: حَقِيقٌ عَلَىٰٓ أَن لَّآ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ
+        مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِىَ بَنِىٓ إِسْرَٰٓءِيلَ
+    note: fa-arsil ma'iya bani isra'il
+  - tradition: islam
+    passages:
+    - ref: Quran 26:16
+      lang: ar
+      text: فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَٰلَمِينَ
+    - ref: Quran 26:17
+      lang: ar
+      text: أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:107
+      lang: ar
+      text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
+    note: thu'ban mubin
+  - tradition: islam
+    passages:
+    - ref: Quran 26:32
+      lang: ar
+      text: فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:109
+      lang: ar
+      text: قَالَ ٱلْمَلَأُ مِن قَوْمِ فِرْعَوْنَ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
+    - ref: Quran 7:111
+      lang: ar
+      text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَأَرْسِلْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
+    - ref: Quran 7:112
+      lang: ar
+      text: يَأْتُوكَ بِكُلِّ سَٰحِرٍ عَلِيمٍ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:34
+      lang: ar
+      text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
+    - ref: Quran 26:35
+      lang: ar
+      text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+    - ref: Quran 26:36
+      lang: ar
+      text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: islam
+    passages:
+    - ref: Quran 7:136
+      lang: ar
+      text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا
+        وَكَانُوا۟ عَنْهَا غَٰفِلِينَ
+    note: al-yamm
+  - tradition: islam
+    passages:
+    - ref: Quran 26:64
+      lang: ar
+      text: وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ
+    - ref: Quran 26:65
+      lang: ar
+      text: وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ
+    - ref: Quran 26:66
+      lang: ar
+      text: ثُمَّ أَغْرَقْنَا ٱلْءَاخَرِينَ
 ---
 
 ## Questions

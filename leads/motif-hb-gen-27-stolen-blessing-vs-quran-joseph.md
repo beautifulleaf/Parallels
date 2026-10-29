@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-27-stolen-blessing-vs-quran-joseph
 title: Jacob steals Esau's blessing ↔ Joseph in the Quran (Surah 12)
-summary: 'These two units share 2 motifs: father recognizes his son''s scent, the father''s eyesight fails.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,35 +15,7 @@ layers:
 motifs:
 - father-smells-son
 - father-eyesight-fails
-passages:
-- tradition: judaism
-  ref: Gen 27:27
-  note: Father recognizes his son's scent ('the smell of my son is as the smell of a field the LORD has
-    blessed')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙
-    רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה
-- tradition: islam
-  ref: Quran 12:94
-  note: Father recognizes his son's scent (rīḥ Yūsuf, sensed when the caravan sets out with the shirt)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ
-- tradition: judaism
-  ref: Gen 27:1
-  note: The father's eyesight fails
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ כִּֽי זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת עֵשָׂ֣ו בְּנ֣וֹ
-    הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי
-- tradition: islam
-  ref: Quran 12:84
-  note: The father's eyesight fails (from grief)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
-    فَهُوَ كَظِيمٌ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 6.0); The father''s eyesight
     fails (weight 5.8). Pair score 11.8.'
@@ -72,6 +44,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Father recognizes his son's scent
+kinds:
+- shared
+units:
+- id: hb-gen-27-stolen-blessing
+  title: Jacob steals Esau's blessing
+  tradition: judaism
+- id: quran-joseph
+  title: Joseph in the Quran (Surah 12)
+  tradition: islam
+matches:
+- kind: shared
+  label: Father recognizes his son's scent
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 27:27
+      lang: he
+      text: וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙
+        רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה
+    note: '''the smell of my son is as the smell of a field the LORD has blessed'''
+  - tradition: islam
+    passages:
+    - ref: Quran 12:94
+      lang: ar
+      text: وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ
+    note: rīḥ Yūsuf, sensed when the caravan sets out with the shirt
+- kind: shared
+  label: The father's eyesight fails
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 27:1
+      lang: he
+      text: וַיְהִי֙ כִּֽי זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת עֵשָׂ֣ו בְּנ֣וֹ
+        הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 12:84
+      lang: ar
+      text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
+        فَهُوَ كَظِيمٌ
+    note: from grief
 ---
 
 ## Questions

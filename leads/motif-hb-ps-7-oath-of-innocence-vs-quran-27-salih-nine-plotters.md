@@ -2,8 +2,7 @@
 id: motif-hb-ps-7-oath-of-innocence-vs-quran-27-salih-nine-plotters
 title: Psalm 7 - Shiggayon concerning Cush the Benjaminite ↔ Salih, the evil omen and the nine plotters
   of Thamud
-summary: 'These two units share 1 motifs: they plot a plot, and god plots a plot; give the deniers respite
-  a little.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - divine-counter-plot
-passages:
-- tradition: judaism
-  ref: Ps 7:16
-  note: 'They plot a plot, and God plots a plot; give the deniers respite a little (wa-makarū makran wa-makarnā
-    makran ... fa-nẓur kayfa kāna ʿāqibatu makrihim ~ bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥat yifʿāl
-    yāšûv ʿămālô və-rōʾšô: the plot falls back on the plotters. In the Psalm their own deed returns on
-    them, in the Quran God plots against them (makarnā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בּ֣וֹר כָּ֭רָֽה וַֽיַּחְפְּרֵ֑הוּ וַ֝יִּפֹּ֗ל בְּשַׁ֣חַת יִפְעָֽל
-- tradition: judaism
-  ref: Ps 7:17
-  note: 'They plot a plot, and God plots a plot; give the deniers respite a little (wa-makarū makran wa-makarnā
-    makran ... fa-nẓur kayfa kāna ʿāqibatu makrihim ~ bôr kārâ wa-yyaḥpərēhû wa-yyippōl bə-šaḥat yifʿāl
-    yāšûv ʿămālô və-rōʾšô: the plot falls back on the plotters. In the Psalm their own deed returns on
-    them, in the Quran God plots against them (makarnā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָשׁ֣וּב עֲמָל֣וֹ בְרֹאשׁ֑וֹ וְעַ֥ל קָ֝דְקֳד֗וֹ חֲמָס֥וֹ יֵרֵֽד
-- tradition: islam
-  ref: Quran 27:50
-  note: They plot a plot, and God plots a plot; give the deniers respite a little
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-makarū makran wa-makarnā makran ... fa-nẓur kayfa kāna ʿāqibatu makrihim ~ bôr kārâ wa-yyaḥpərēhû
-    wa-yyippōl bə-šaḥat yifʿāl yāšûv ʿămālô və-rōʾšô: the plot falls back on the plotters. In the Psalm
-    their own deed returns on them, in the Quran God plots against them (makarnā).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They plot a plot, and God plots a plot; give the deniers respite
     a little (weight 6.3). Pair score 6.3.'
@@ -75,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They plot a plot, and God plots a plot; give the deniers respite a little
+kinds:
+- echo
+units:
+- id: hb-ps-7-oath-of-innocence
+  title: Psalm 7 - Shiggayon concerning Cush the Benjaminite
+  tradition: judaism
+- id: quran-27-salih-nine-plotters
+  title: Salih, the evil omen and the nine plotters of Thamud
+  tradition: islam
+matches:
+- kind: echo
+  label: They plot a plot, and God plots a plot; give the deniers respite a little
+  note: 'wa-makarū makran wa-makarnā makran ... fa-nẓur kayfa kāna ʿāqibatu makrihim ~ bôr kārâ wa-yyaḥpərēhû
+    wa-yyippōl bə-šaḥat yifʿāl yāšûv ʿămālô və-rōʾšô: the plot falls back on the plotters. In the Psalm
+    their own deed returns on them, in the Quran God plots against them (makarnā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 7:16
+      lang: he
+      text: בּ֣וֹר כָּ֭רָֽה וַֽיַּחְפְּרֵ֑הוּ וַ֝יִּפֹּ֗ל בְּשַׁ֣חַת יִפְעָֽל
+    - ref: Ps 7:17
+      lang: he
+      text: יָשׁ֣וּב עֲמָל֣וֹ בְרֹאשׁ֑וֹ וְעַ֥ל קָ֝דְקֳד֗וֹ חֲמָס֥וֹ יֵרֵֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 27:50
+      lang: ar
+      text: وَمَكَرُوا۟ مَكْرًا وَمَكَرْنَا مَكْرًا وَهُمْ لَا يَشْعُرُونَ
+    - ref: Quran 27:51
+      lang: ar
+      text: فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ مَكْرِهِمْ أَنَّا دَمَّرْنَٰهُمْ وَقَوْمَهُمْ أَجْمَعِينَ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-ps-84-lovely-dwellings-vs-quran-3-food-bakka
 title: Psalm 84, how lovely are your dwellings; the sparrow at the altar ↔ Israel's self-imposed food
   law and the House at Bakka
-summary: 'These two units share 3 motifs: baca / bakka on the pilgrims'' way or as the house [divergence
-  between the texts], pilgrims passing through the valley of baca (weeping/balsam) make it a place of
-  springs, the house (kaaba) made a place of return and security for mankind.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -19,108 +17,9 @@ motifs:
 - baca-bakka-as-divergence
 - valley-of-baca-made-springs
 - house-as-sanctuary-and-place-of-return
-passages:
-- tradition: judaism
-  ref: Ps 84:7
-  note: 'Baca / Bakka on the pilgrims'' way or as the House [divergence between the texts] (Ps 84:7-8
-    ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn: pilgrims cross the valley
-    of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala baytin wuḍiʿa li-n-nāsi la-lladhī
-    bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti: the first House set up for mankind
-    is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ) is a station on the way to Zion;
-    Bakka (bakka) is the goal itself. Name similarity for verification; the Quran''s Bakka is traditionally
-    Mecca.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹבְרֵ֤י בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה
-- tradition: judaism
-  ref: Ps 84:8
-  note: 'Baca / Bakka on the pilgrims'' way or as the House [divergence between the texts] (Ps 84:7-8
-    ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn: pilgrims cross the valley
-    of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala baytin wuḍiʿa li-n-nāsi la-lladhī
-    bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti: the first House set up for mankind
-    is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ) is a station on the way to Zion;
-    Bakka (bakka) is the goal itself. Name similarity for verification; the Quran''s Bakka is traditionally
-    Mecca.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵ֭לְכוּ מֵחַ֣יִל אֶל חָ֑יִל יֵרָאֶ֖ה אֶל אֱלֹהִ֣ים בְּצִיּֽוֹן
-- tradition: islam
-  ref: Quran 3:96
-  note: 'Baca / Bakka on the pilgrims'' way or as the House [divergence between the texts] (Ps 84:7-8
-    ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn: pilgrims cross the valley
-    of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala baytin wuḍiʿa li-n-nāsi la-lladhī
-    bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti: the first House set up for mankind
-    is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ) is a station on the way to Zion;
-    Bakka (bakka) is the goal itself. Name similarity for verification; the Quran''s Bakka is traditionally
-    Mecca.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 3:97
-  note: 'Baca / Bakka on the pilgrims'' way or as the House [divergence between the texts] (Ps 84:7-8
-    ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn: pilgrims cross the valley
-    of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala baytin wuḍiʿa li-n-nāsi la-lladhī
-    bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti: the first House set up for mankind
-    is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ) is a station on the way to Zion;
-    Bakka (bakka) is the goal itself. Name similarity for verification; the Quran''s Bakka is traditionally
-    Mecca.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ عَلَى
-    ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ
-    ٱلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Ps 84:7
-  note: Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place of springs (the early
-    rain (moreh) covers it with blessings)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֹבְרֵ֤י בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה
-- tradition: islam
-  ref: Quran 3:96
-  note: Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place of springs (Bakka)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ
-- tradition: judaism
-  ref: Ps 84:4
-  note: 'The House (Kaaba) made a place of return and security for mankind (Ps 84:4-5 gam ṣippôr māṣĕʾâ
-    bayit û-dĕrôr qēn lāh ... ʾet mizbĕḥôtêkā ... ʾašrê yôšĕbê bêtekā: even the sparrow finds a home and
-    the swallow a nest at God''s altars; happy those who dwell in your house; Q 3:97 wa-man dakhalahu
-    kāna āminan: whoever enters (the House) is safe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גַּם צִפּ֨וֹר מָ֪צְאָה בַ֡יִת וּדְר֤וֹר קֵ֥ן לָהּ֮ אֲשֶׁר שָׁ֪תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת מִ֭זְבְּחוֹתֶיךָ
-    יְהוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי
-- tradition: judaism
-  ref: Ps 84:5
-  note: 'The House (Kaaba) made a place of return and security for mankind (Ps 84:4-5 gam ṣippôr māṣĕʾâ
-    bayit û-dĕrôr qēn lāh ... ʾet mizbĕḥôtêkā ... ʾašrê yôšĕbê bêtekā: even the sparrow finds a home and
-    the swallow a nest at God''s altars; happy those who dwell in your house; Q 3:97 wa-man dakhalahu
-    kāna āminan: whoever enters (the House) is safe.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה
-- tradition: islam
-  ref: Quran 3:97
-  note: The House (Kaaba) made a place of return and security for mankind (whoever enters it is safe)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ عَلَى
-    ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِىٌّ عَنِ
-    ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo. Ps 84:7-8 ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn:
-    pilgrims cross the valley of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala
-    baytin wuḍiʿa li-n-nāsi la-lladhī bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti:
-    the first House set up for mankind is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ)
-    is a station on the way to Zion; Bakka (bakka) is the goal itself. Name similarity for verification;
-    the Quran''s Bakka is traditionally Mecca. Ps 84:4-5 gam ṣippôr māṣĕʾâ bayit û-dĕrôr qēn lāh ... ʾet
-    mizbĕḥôtêkā ... ʾašrê yôšĕbê bêtekā: even the sparrow finds a home and the swallow a nest at God''s
-    altars; happy those who dwell in your house; Q 3:97 wa-man dakhalahu kāna āminan: whoever enters (the
-    House) is safe.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Baca / Bakka on the pilgrims'' way or as the House [divergence between
     the texts] (weight 6.7); Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place
@@ -153,6 +52,83 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Baca / Bakka on the pilgrims' way or as the House
+kinds:
+- divergence
+- echo
+- shared
+units:
+- id: hb-ps-84-lovely-dwellings
+  title: Psalm 84, how lovely are your dwellings; the sparrow at the altar
+  tradition: judaism
+- id: quran-3-food-bakka
+  title: Israel's self-imposed food law and the House at Bakka
+  tradition: islam
+matches:
+- kind: divergence
+  label: Baca / Bakka on the pilgrims' way or as the House
+  note: 'Ps 84:7-8 ʿōbĕrê bĕ-ʿēmeq ha-bbākāʾ maʿyān yĕšîtûhû ... yērāʾeh ʾel ʾĕlōhîm bĕ-ṣiyyôn: pilgrims
+    cross the valley of Baca on their way to appear before God in Zion; Q 3:96-97 inna awwala baytin wuḍiʿa
+    li-n-nāsi la-lladhī bi-bakkata mubārakan ... wa-li-llāhi ʿalā n-nāsi ḥijju l-bayti: the first House
+    set up for mankind is at Bakka, blessed, and pilgrimage to it is a duty. Baca (bākāʾ) is a station
+    on the way to Zion; Bakka (bakka) is the goal itself. Name similarity for verification; the Quran''s
+    Bakka is traditionally Mecca.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 84:7
+      lang: he
+      text: עֹבְרֵ֤י בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה
+    - ref: Ps 84:8
+      lang: he
+      text: יֵ֭לְכוּ מֵחַ֣יִל אֶל חָ֑יִל יֵרָאֶ֖ה אֶל אֱלֹהִ֣ים בְּצִיּֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 3:96
+      lang: ar
+      text: إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ
+    - ref: Quran 3:97
+      lang: ar
+      text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ
+        عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ
+        غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
+- kind: echo
+  label: The House (Kaaba) made a place of return and security for mankind
+  note: 'Ps 84:4-5 gam ṣippôr māṣĕʾâ bayit û-dĕrôr qēn lāh ... ʾet mizbĕḥôtêkā ... ʾašrê yôšĕbê bêtekā:
+    even the sparrow finds a home and the swallow a nest at God''s altars; happy those who dwell in your
+    house; Q 3:97 wa-man dakhalahu kāna āminan: whoever enters (the House) is safe.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 84:4
+      lang: he
+      text: גַּם צִפּ֨וֹר מָ֪צְאָה בַ֡יִת וּדְר֤וֹר קֵ֥ן לָהּ֮ אֲשֶׁר שָׁ֪תָה אֶפְרֹ֫חֶ֥יהָ אֶֽת מִ֭זְבְּחוֹתֶיךָ
+        יְהוָ֣ה צְבָא֑וֹת מַ֝לְכִּ֗י וֵאלֹהָֽי
+    - ref: Ps 84:5
+      lang: he
+      text: אַ֭שְׁרֵי יוֹשְׁבֵ֣י בֵיתֶ֑ךָ ע֝֗וֹד יְֽהַלְל֥וּךָ סֶּֽלָה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:97
+      lang: ar
+      text: فِيهِ ءَايَٰتٌۢ بَيِّنَٰتٌ مَّقَامُ إِبْرَٰهِيمَ وَمَن دَخَلَهُۥ كَانَ ءَامِنًا وَلِلَّهِ
+        عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا وَمَن كَفَرَ فَإِنَّ ٱللَّهَ
+        غَنِىٌّ عَنِ ٱلْعَٰلَمِينَ
+- kind: shared
+  label: Pilgrims passing through the Valley of Baca (weeping/balsam) make it a place of springs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 84:7
+      lang: he
+      text: עֹבְרֵ֤י בְּעֵ֣מֶק הַ֭בָּכָא מַעְיָ֣ן יְשִׁית֑וּהוּ גַּם בְּ֝רָכ֗וֹת יַעְטֶ֥ה מוֹרֶֽה
+    note: the early rain (moreh) covers it with blessings
+  - tradition: islam
+    passages:
+    - ref: Quran 3:96
+      lang: ar
+      text: إِنَّ أَوَّلَ بَيْتٍ وُضِعَ لِلنَّاسِ لَلَّذِى بِبَكَّةَ مُبَارَكًا وَهُدًى لِّلْعَٰلَمِينَ
+    note: Bakka
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-35-not-equal
 title: Sour grapes - individual responsibility and repentance ↔ No soul bears another's burden; the blind
   and the seeing; the colors of creation
-summary: 'These two units share 1 motifs: no burdened soul bears another''s burden; even a relative will
-  not carry any of it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,32 +15,9 @@ layers:
 - motif
 motifs:
 - no-bearer-bears-anothers-burden
-passages:
-- tradition: judaism
-  ref: Ezek 18:20
-  note: No burdened soul bears another's burden; even a relative will not carry any of it (ha-nnep̄eš
-    ha-ḥōṭēʾṯ hîʾ ṯāmûṯ bēn lōʾ-yiśśāʾ ba-ʿăwōn hā-ʾāḇ wə-ʾāḇ lōʾ yiśśāʾ ba-ʿăwōn ha-bbēn vs. wa-lā taziru
-    wāziratun wizra ukhrā wa-in tadʿu muthqalatun ilā ḥimlihā lā yuḥmal minhu shayʾun wa-law kāna dhā
-    qurbā. The same image of carrying (nāśāʾ / wazara, ḥamala). Ezekiel speaks of father and son; the
-    Quran of any near relative, even one who is asked.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: islam
-  ref: Quran 35:18
-  note: No burdened soul bears another's burden; even a relative will not carry any of it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ
-    شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟
-    ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ha-nnep̄eš ha-ḥōṭēʾṯ hîʾ ṯāmûṯ bēn lōʾ-yiśśāʾ ba-ʿăwōn hā-ʾāḇ wə-ʾāḇ lōʾ yiśśāʾ ba-ʿăwōn
-    ha-bbēn vs. wa-lā taziru wāziratun wizra ukhrā wa-in tadʿu muthqalatun ilā ḥimlihā lā yuḥmal minhu
-    shayʾun wa-law kāna dhā qurbā. The same image of carrying (nāśāʾ / wazara, ḥamala). Ezekiel speaks
-    of father and son; the Quran of any near relative, even one who is asked.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No burdened soul bears another''s burden; even a relative will not
     carry any of it (weight 5.8). Pair score 5.8.'
@@ -78,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No burdened soul bears another's burden; even a relative will not carry any of it
+kinds:
+- parallel
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: parallel
+  label: No burdened soul bears another's burden; even a relative will not carry any of it
+  note: ha-nnep̄eš ha-ḥōṭēʾṯ hîʾ ṯāmûṯ bēn lōʾ-yiśśāʾ ba-ʿăwōn hā-ʾāḇ wə-ʾāḇ lōʾ yiśśāʾ ba-ʿăwōn ha-bbēn
+    vs. wa-lā taziru wāziratun wizra ukhrā wa-in tadʿu muthqalatun ilā ḥimlihā lā yuḥmal minhu shayʾun
+    wa-law kāna dhā qurbā. The same image of carrying (nāśāʾ / wazara, ḥamala). Ezekiel speaks of father
+    and son; the Quran of any near relative, even one who is asked.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 35:18
+      lang: ar
+      text: وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ
+        مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ
+        وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ
 ---
 
 ## Questions

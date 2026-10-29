@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1sam-1-hannah-vs-quran-2-oaths-divorce
 title: Hannah's vow and Samuel's birth ↔ Oaths, divorce, nursing and widowhood
-summary: 'These two units share 1 motifs: mothers nurse their children two full years; weaning by mutual
-  consultation; wet-nursing permitted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,49 +13,9 @@ layers:
 - motif
 motifs:
 - nursing-two-full-years
-passages:
-- tradition: judaism
-  ref: 1Sam 1:22
-  note: 'Mothers nurse their children two full years; weaning by mutual consultation; wet-nursing permitted
-    (1Sam 1:22-23 ʿad yiggāmēl ha-nnaʿar ... wa-yyōʾmer lāh ʾelqānâ ʾîšāh ʿăśî ha-ṭṭôb bĕ-ʿênayik ...
-    wa-tteneq ʾet bĕnāh ʿad gomlāh ʾōtô: the mother nurses until weaning, with the husband''s consent;
-    Q 2:233 wa-l-wālidātu yurḍiʿna awlādahunna ḥawlayni kāmilayni ... fa-in arādā fiṣālan ʿan tarāḍin
-    minhumā wa-tashāwurin: nursing for two full years, weaning by mutual consent and consultation. Narrative
-    custom vs fixed term.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֨עַר֙ וַהֲבִאֹתִ֗יו וְנִרְאָה֙
-    אֶת פְּנֵ֣י יְהוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד עוֹלָֽם
-- tradition: judaism
-  ref: 1Sam 1:23
-  note: 'Mothers nurse their children two full years; weaning by mutual consultation; wet-nursing permitted
-    (1Sam 1:22-23 ʿad yiggāmēl ha-nnaʿar ... wa-yyōʾmer lāh ʾelqānâ ʾîšāh ʿăśî ha-ṭṭôb bĕ-ʿênayik ...
-    wa-tteneq ʾet bĕnāh ʿad gomlāh ʾōtô: the mother nurses until weaning, with the husband''s consent;
-    Q 2:233 wa-l-wālidātu yurḍiʿna awlādahunna ḥawlayni kāmilayni ... fa-in arādā fiṣālan ʿan tarāḍin
-    minhumā wa-tashāwurin: nursing for two full years, weaning by mutual consent and consultation. Narrative
-    custom vs fixed term.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד גָּמְלֵ֣ךְ אֹת֔וֹ
-    אַ֛ךְ יָקֵ֥ם יְהוָ֖ה אֶת דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת בְּנָ֔הּ עַד גָּמְלָ֖הּ אֹתֽוֹ
-- tradition: islam
-  ref: Quran 2:233
-  note: Mothers nurse their children two full years; weaning by mutual consultation; wet-nursing permitted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ
-    وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لَا تُكَلَّفُ نَفْسٌ إِلَّا
-    وُسْعَهَا لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌ لَّهُۥ بِوَلَدِهِۦ وَعَلَى ٱلْوَارِثِ
-    مِثْلُ ذَٰلِكَ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا
-    وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ
-    ءَاتَيْتُم بِٱلْمَعْرُوفِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. 1Sam 1:22-23 ʿad yiggāmēl ha-nnaʿar ... wa-yyōʾmer lāh ʾelqānâ ʾîšāh ʿăśî ha-ṭṭôb bĕ-ʿênayik
-    ... wa-tteneq ʾet bĕnāh ʿad gomlāh ʾōtô: the mother nurses until weaning, with the husband''s consent;
-    Q 2:233 wa-l-wālidātu yurḍiʿna awlādahunna ḥawlayni kāmilayni ... fa-in arādā fiṣālan ʿan tarāḍin
-    minhumā wa-tashāwurin: nursing for two full years, weaning by mutual consent and consultation. Narrative
-    custom vs fixed term.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mothers nurse their children two full years; weaning by mutual consultation;
     wet-nursing permitted (weight 6.7). Pair score 6.7.'
@@ -88,6 +47,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mothers nurse their children two full years; weaning by mutual consultation; wet-nursing permitted
+kinds:
+- echo
+units:
+- id: hb-1sam-1-hannah
+  title: Hannah's vow and Samuel's birth
+  tradition: judaism
+- id: quran-2-oaths-divorce
+  title: Oaths, divorce, nursing and widowhood
+  tradition: islam
+matches:
+- kind: echo
+  label: Mothers nurse their children two full years; weaning by mutual consultation; wet-nursing permitted
+  note: '1Sam 1:22-23 ʿad yiggāmēl ha-nnaʿar ... wa-yyōʾmer lāh ʾelqānâ ʾîšāh ʿăśî ha-ṭṭôb bĕ-ʿênayik
+    ... wa-tteneq ʾet bĕnāh ʿad gomlāh ʾōtô: the mother nurses until weaning, with the husband''s consent;
+    Q 2:233 wa-l-wālidātu yurḍiʿna awlādahunna ḥawlayni kāmilayni ... fa-in arādā fiṣālan ʿan tarāḍin
+    minhumā wa-tashāwurin: nursing for two full years, weaning by mutual consent and consultation. Narrative
+    custom vs fixed term.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 1:22
+      lang: he
+      text: וְחַנָּ֖ה לֹ֣א עָלָ֑תָה כִּֽי אָמְרָ֣ה לְאִישָׁ֗הּ עַ֣ד יִגָּמֵ֤ל הַנַּ֨עַר֙ וַהֲבִאֹתִ֗יו
+        וְנִרְאָה֙ אֶת פְּנֵ֣י יְהוָ֔ה וְיָ֥שַׁב שָׁ֖ם עַד עוֹלָֽם
+    - ref: 1Sam 1:23
+      lang: he
+      text: וַיֹּ֣אמֶר לָהּ֩ אֶלְקָנָ֨ה אִישָׁ֜הּ עֲשִׂ֧י הַטּ֣וֹב בְּעֵינַ֗יִךְ שְׁבִי֙ עַד גָּמְלֵ֣ךְ
+        אֹת֔וֹ אַ֛ךְ יָקֵ֥ם יְהוָ֖ה אֶת דְּבָר֑וֹ וַתֵּ֤שֶׁב הָֽאִשָּׁה֙ וַתֵּ֣ינֶק אֶת בְּנָ֔הּ עַד גָּמְלָ֖הּ
+        אֹתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:233
+      lang: ar
+      text: وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَن يُتِمَّ
+        ٱلرَّضَاعَةَ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ لَا تُكَلَّفُ
+        نَفْسٌ إِلَّا وُسْعَهَا لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌ لَّهُۥ بِوَلَدِهِۦ
+        وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍ مِّنْهُمَا وَتَشَاوُرٍ
+        فَلَا جُنَاحَ عَلَيْهِمَا وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ
+        إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ
+        بِمَا تَعْمَلُونَ بَصِيرٌ
 ---
 
 ## Questions

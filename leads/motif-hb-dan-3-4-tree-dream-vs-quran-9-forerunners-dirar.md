@@ -2,8 +2,7 @@
 id: motif-hb-dan-3-4-tree-dream-vs-quran-9-forerunners-dirar
 title: Nebuchadnezzar's letter, the great tree dream and his madness ↔ The forerunners, alms that purify,
   and the mosque of harm
-summary: 'These two units share 1 motifs: take alms from their wealth to purify them; the prophet''s prayer
-  is a comfort to them.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - alms-purify-the-giver
-passages:
-- tradition: judaism
-  ref: Dan 4:24
-  note: 'Take alms from their wealth to purify them; the prophet''s prayer is a comfort to them (Giving
-    to the poor cleanses sins: khudh min amwālihim ṣadaqatan tuṭahhiruhum wa-tuzakkīhim bihā vs (Aramaic)
-    waḥăṭāyāk bᵉṣidqāh pᵉruq waʿăwāyātāk bᵉmiḥan ʿănāyin. ṣidqāh is used for charity here, as Arabic ṣadaqa;
-    Daniel addresses the counsel to a pagan king.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
-    בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
-- tradition: islam
-  ref: Quran 9:103
-  note: Take alms from their wealth to purify them; the prophet's prayer is a comfort to them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ صَلَوٰتَكَ
-    سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 9:104
-  note: Take alms from their wealth to purify them; the prophet's prayer is a comfort to them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَٰتِ
-    وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Giving to the poor cleanses sins: khudh min amwālihim ṣadaqatan tuṭahhiruhum wa-tuzakkīhim
-    bihā vs (Aramaic) waḥăṭāyāk bᵉṣidqāh pᵉruq waʿăwāyātāk bᵉmiḥan ʿănāyin. ṣidqāh is used for charity
-    here, as Arabic ṣadaqa; Daniel addresses the counsel to a pagan king.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Take alms from their wealth to purify them; the prophet''s prayer
     is a comfort to them (weight 6.7). Pair score 6.7.'
@@ -79,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Take alms from their wealth to purify them; the prophet's prayer is a comfort to them
+kinds:
+- parallel
+units:
+- id: hb-dan-3-4-tree-dream
+  title: Nebuchadnezzar's letter, the great tree dream and his madness
+  tradition: judaism
+- id: quran-9-forerunners-dirar
+  title: The forerunners, alms that purify, and the mosque of harm
+  tradition: islam
+matches:
+- kind: parallel
+  label: Take alms from their wealth to purify them; the prophet's prayer is a comfort to them
+  note: 'Giving to the poor cleanses sins: khudh min amwālihim ṣadaqatan tuṭahhiruhum wa-tuzakkīhim bihā
+    vs (Aramaic) waḥăṭāyāk bᵉṣidqāh pᵉruq waʿăwāyātāk bᵉmiḥan ʿănāyin. ṣidqāh is used for charity here,
+    as Arabic ṣadaqa; Daniel addresses the counsel to a pagan king.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 4:24
+      lang: he
+      text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
+        בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:103
+      lang: ar
+      text: خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ إِنَّ
+        صَلَوٰتَكَ سَكَنٌ لَّهُمْ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
 ---
 
 ## Questions

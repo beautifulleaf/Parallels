@@ -2,7 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-4-creation-kinship-orphans
 title: Creation in six days and the seventh-day rest ↔ One soul, the wombs, orphans' property and the
   bride-gift
-summary: 'These two units share 1 motifs: divine blessing: be fruitful, multiply, fill the earth.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,36 +14,9 @@ layers:
 - motif
 motifs:
 - be-fruitful-and-multiply
-passages:
-- tradition: judaism
-  ref: Gen 1:22
-  note: 'Divine blessing: be fruitful, multiply, fill the earth'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף
-    יִ֥רֶב בָּאָֽרֶץ
-- tradition: judaism
-  ref: Gen 1:28
-  note: 'Divine blessing: be fruitful, multiply, fill the earth'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
-    וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל הָאָֽרֶץ
-- tradition: islam
-  ref: Quran 4:1
-  note: 'Divine blessing: be fruitful, multiply, fill the earth (Gen 1:28 pĕrû û-rĕbû û-milʾû ʾet hā-ʾāreṣ:
-    be fruitful, multiply, fill the earth; Q 4:1 wa-baththa minhumā rijālan kathīran wa-nisāʾan: from
-    the pair he spread many men and women. A blessing-command in Genesis, a report in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا
-    زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
-    بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Gen 1:28 pĕrû û-rĕbû û-milʾû ʾet hā-ʾāreṣ: be fruitful, multiply, fill the earth; Q 4:1 wa-baththa
-    minhumā rijālan kathīran wa-nisāʾan: from the pair he spread many men and women. A blessing-command
-    in Genesis, a report in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Divine blessing: be fruitful, multiply, fill the earth (weight 5.8).
     Pair score 5.8.'
@@ -78,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Divine blessing: be fruitful, multiply, fill the earth'
+kinds:
+- echo
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-4-creation-kinship-orphans
+  title: One soul, the wombs, orphans' property and the bride-gift
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Divine blessing: be fruitful, multiply, fill the earth'
+  note: 'Gen 1:28 pĕrû û-rĕbû û-milʾû ʾet hā-ʾāreṣ: be fruitful, multiply, fill the earth; Q 4:1 wa-baththa
+    minhumā rijālan kathīran wa-nisāʾan: from the pair he spread many men and women. A blessing-command
+    in Genesis, a report in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:28
+      lang: he
+      text: וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת הָאָ֖רֶץ
+        וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ
+        مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ
+        بِهِۦ وَٱلْأَرْحَامَ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا
 ---
 
 ## Questions

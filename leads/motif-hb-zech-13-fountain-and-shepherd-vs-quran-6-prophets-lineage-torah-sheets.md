@@ -2,7 +2,7 @@
 id: motif-hb-zech-13-fountain-and-shepherd-vs-quran-6-prophets-lineage-torah-sheets
 title: A cleansing fountain, the end of prophecy, and the struck shepherd ↔ Abraham's line of eighteen
   prophets; Torah in sheets; the false claimant
-summary: 'These two units share 1 motifs: false prophet put to death.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - false-prophet-death
-passages:
-- tradition: judaism
-  ref: Zech 13:3
-  note: False prophet put to death
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֗ה כִּֽי יִנָּבֵ֣א אִישׁ֮ עוֹד֒ וְאָמְר֣וּ אֵ֠לָיו אָבִ֨יו וְאִמּ֤וֹ יֹֽלְדָיו֙ לֹ֣א תִֽחְיֶ֔ה
-    כִּ֛י שֶׁ֥קֶר דִּבַּ֖רְתָּ בְּשֵׁ֣ם יְהוָ֑ה וּדְקָרֻ֜הוּ אָבִ֧יהוּ וְאִמּ֛וֹ יֹלְדָ֖יו בְּהִנָּבְאֽוֹ
-- tradition: islam
-  ref: Quran 6:93
-  note: False prophet put to death (punished in the throes of death (ghamarāt al-mawt))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ يُوحَ
-    إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
-    فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
-    تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
-    ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Zech: lōʾ tiḥyeh kî šeqer dibbartā bə-šēm YHWH; his parents pierce him. Q: iftarā ʿalā llāhi
-    kadhiban; the punishment is the throes of death and the angels.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: False prophet put to death (weight 5.8). Pair score 5.8.'
   basis: reading
@@ -70,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: False prophet put to death
+kinds:
+- echo
+units:
+- id: hb-zech-13-fountain-and-shepherd
+  title: A cleansing fountain, the end of prophecy, and the struck shepherd
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: echo
+  label: False prophet put to death
+  note: 'Zech: lōʾ tiḥyeh kî šeqer dibbartā bə-šēm YHWH; his parents pierce him. Q: iftarā ʿalā llāhi
+    kadhiban; the punishment is the throes of death and the angels.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zech 13:3
+      lang: he
+      text: וְהָיָ֗ה כִּֽי יִנָּבֵ֣א אִישׁ֮ עוֹד֒ וְאָמְר֣וּ אֵ֠לָיו אָבִ֨יו וְאִמּ֤וֹ יֹֽלְדָיו֙ לֹ֣א
+        תִֽחְיֶ֔ה כִּ֛י שֶׁ֥קֶר דִּבַּ֖רְתָּ בְּשֵׁ֣ם יְהוָ֑ה וּדְקָרֻ֜הוּ אָבִ֧יהוּ וְאִמּ֛וֹ יֹלְדָ֖יו
+        בְּהִנָּבְאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:93
+      lang: ar
+      text: وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوْ قَالَ أُوحِىَ إِلَىَّ وَلَمْ
+        يُوحَ إِلَيْهِ شَىْءٌ وَمَن قَالَ سَأُنزِلُ مِثْلَ مَآ أَنزَلَ ٱللَّهُ وَلَوْ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ
+        فِى غَمَرَٰتِ ٱلْمَوْتِ وَٱلْمَلَٰٓئِكَةُ بَاسِطُوٓا۟ أَيْدِيهِمْ أَخْرِجُوٓا۟ أَنفُسَكُمُ ٱلْيَوْمَ
+        تُجْزَوْنَ عَذَابَ ٱلْهُونِ بِمَا كُنتُمْ تَقُولُونَ عَلَى ٱللَّهِ غَيْرَ ٱلْحَقِّ وَكُنتُمْ عَنْ
+        ءَايَٰتِهِۦ تَسْتَكْبِرُونَ
 ---
 
 ## Questions

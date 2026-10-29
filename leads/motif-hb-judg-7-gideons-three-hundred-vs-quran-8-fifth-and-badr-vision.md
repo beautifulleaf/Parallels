@@ -2,8 +2,7 @@
 id: motif-hb-judg-7-gideons-three-hundred-vs-quran-8-fifth-and-badr-vision
 title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns ↔ The fifth of
   the spoils, the dream of few, Satan's desertion
-summary: 'These two units share 1 motifs: a dream before battle gives the leader courage [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - pre-battle-dream-encourages-leader-as-divergence
-passages:
-- tradition: judaism
-  ref: Judg 7:13
-  note: 'A dream before battle gives the leader courage [divergence between the texts] (A dream before
-    the battle gives the leader courage: idh yurīkahumu llāhu fī manāmika qalīlan wa-law arākahum kathīran
-    la-fashiltum vs ḥălôm ḥālamtî wᵉhinnēh ṣᵉlîl leḥem śᵉʿōrîm ... wayᵉhî kišmōaʿ gidʿôn ʾet-mispar haḥălôm
-    ... wayyištāḥû. Who dreams is changed: in Judg an enemy soldier dreams and Gideon overhears; in Q
-    God shows the prophet the enemy as few in his own sleep.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֣א גִדְע֔וֹן וְהִ֨נֵּה אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲל֑וֹם וַיֹּ֜אמֶר הִנֵּ֧ה חֲל֣וֹם חָלַ֗מְתִּי
-    וְהִנֵּ֨ה צלול צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א עַד הָ֠אֹהֶל
-    וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל
-- tradition: judaism
-  ref: Judg 7:14
-  note: 'A dream before battle gives the leader courage [divergence between the texts] (A dream before
-    the battle gives the leader courage: idh yurīkahumu llāhu fī manāmika qalīlan wa-law arākahum kathīran
-    la-fashiltum vs ḥălôm ḥālamtî wᵉhinnēh ṣᵉlîl leḥem śᵉʿōrîm ... wayᵉhî kišmōaʿ gidʿôn ʾet-mispar haḥălôm
-    ... wayyištāḥû. Who dreams is changed: in Judg an enemy soldier dreams and Gideon overhears; in Q
-    God shows the prophet the enemy as few in his own sleep.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֨עַן רֵעֵ֤הוּ וַיֹּ֨אמֶר֙ אֵ֣ין זֹ֔את בִּלְתִּ֗י אִם חֶ֛רֶב גִּדְע֥וֹן בֶּן יוֹאָ֖שׁ אִ֣ישׁ
-    יִשְׂרָאֵ֑ל נָתַ֤ן הָֽאֱלֹהִים֙ בְּיָד֔וֹ אֶת מִדְיָ֖ן וְאֶת כָּל הַֽמַּחֲנֶֽה
-- tradition: islam
-  ref: Quran 8:43
-  note: 'A dream before battle gives the leader courage [divergence between the texts] (A dream before
-    the battle gives the leader courage: idh yurīkahumu llāhu fī manāmika qalīlan wa-law arākahum kathīran
-    la-fashiltum vs ḥălôm ḥālamtî wᵉhinnēh ṣᵉlîl leḥem śᵉʿōrîm ... wayᵉhî kišmōaʿ gidʿôn ʾet-mispar haḥălôm
-    ... wayyištāḥû. Who dreams is changed: in Judg an enemy soldier dreams and Gideon overhears; in Q
-    God shows the prophet the enemy as few in his own sleep.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ يُرِيكَهُمُ ٱللَّهُ فِى مَنَامِكَ قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ وَلَتَنَٰزَعْتُمْ
-    فِى ٱلْأَمْرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A dream before the battle gives the leader courage: idh yurīkahumu llāhu fī manāmika qalīlan
-    wa-law arākahum kathīran la-fashiltum vs ḥălôm ḥālamtî wᵉhinnēh ṣᵉlîl leḥem śᵉʿōrîm ... wayᵉhî kišmōaʿ
-    gidʿôn ʾet-mispar haḥălôm ... wayyištāḥû. Who dreams is changed: in Judg an enemy soldier dreams and
-    Gideon overhears; in Q God shows the prophet the enemy as few in his own sleep.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A dream before battle gives the leader courage [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +50,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A dream before battle gives the leader courage
+kinds:
+- divergence
+units:
+- id: hb-judg-7-gideons-three-hundred
+  title: The army reduced to 300 lappers; the barley-loaf dream; jars, torches and horns
+  tradition: judaism
+- id: quran-8-fifth-and-badr-vision
+  title: The fifth of the spoils, the dream of few, Satan's desertion
+  tradition: islam
+matches:
+- kind: divergence
+  label: A dream before battle gives the leader courage
+  note: 'A dream before the battle gives the leader courage: idh yurīkahumu llāhu fī manāmika qalīlan
+    wa-law arākahum kathīran la-fashiltum vs ḥălôm ḥālamtî wᵉhinnēh ṣᵉlîl leḥem śᵉʿōrîm ... wayᵉhî kišmōaʿ
+    gidʿôn ʾet-mispar haḥălôm ... wayyištāḥû. Who dreams is changed: in Judg an enemy soldier dreams and
+    Gideon overhears; in Q God shows the prophet the enemy as few in his own sleep.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 7:13
+      lang: he
+      text: וַיָּבֹ֣א גִדְע֔וֹן וְהִ֨נֵּה אִ֔ישׁ מְסַפֵּ֥ר לְרֵעֵ֖הוּ חֲל֑וֹם וַיֹּ֜אמֶר הִנֵּ֧ה חֲל֣וֹם
+        חָלַ֗מְתִּי וְהִנֵּ֨ה צלול צְלִ֜יל לֶ֤חֶם שְׂעֹרִים֙ מִתְהַפֵּךְ֙ בְּמַחֲנֵ֣ה מִדְיָ֔ן וַיָּבֹ֣א
+        עַד הָ֠אֹהֶל וַיַּכֵּ֧הוּ וַיִּפֹּ֛ל וַיַּהַפְכֵ֥הוּ לְמַ֖עְלָה וְנָפַ֥ל הָאֹֽהֶל
+    - ref: Judg 7:14
+      lang: he
+      text: וַיַּ֨עַן רֵעֵ֤הוּ וַיֹּ֨אמֶר֙ אֵ֣ין זֹ֔את בִּלְתִּ֗י אִם חֶ֛רֶב גִּדְע֥וֹן בֶּן יוֹאָ֖שׁ
+        אִ֣ישׁ יִשְׂרָאֵ֑ל נָתַ֤ן הָֽאֱלֹהִים֙ בְּיָד֔וֹ אֶת מִדְיָ֖ן וְאֶת כָּל הַֽמַּחֲנֶֽה
+    - ref: Judg 7:15
+      lang: he
+      text: וַיְהִי֩ כִשְׁמֹ֨עַ גִּדְע֜וֹן אֶת מִסְפַּ֧ר הַחֲל֛וֹם וְאֶת שִׁבְר֖וֹ וַיִּשְׁתָּ֑חוּ וַיָּ֨שָׁב֙
+        אֶל מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיֹּ֣אמֶר ק֔וּמוּ כִּֽי נָתַ֧ן יְהוָ֛ה בְּיֶדְכֶ֖ם אֶת מַחֲנֵ֥ה מִדְיָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 8:43
+      lang: ar
+      text: إِذْ يُرِيكَهُمُ ٱللَّهُ فِى مَنَامِكَ قَلِيلًا وَلَوْ أَرَىٰكَهُمْ كَثِيرًا لَّفَشِلْتُمْ
+        وَلَتَنَٰزَعْتُمْ فِى ٱلْأَمْرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

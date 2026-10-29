@@ -2,8 +2,7 @@
 id: motif-hb-jer-10-aramaic-verse-vs-quran-46-ahqaf-gods-and-the-book-of-moses
 title: 'The Aramaic verse - gods who did not make heaven and earth ↔ Ha-Mim: the idols created nothing;
   a witness from Israel; the Book of Moses'
-summary: 'These two units share 1 motifs: challenge to idolaters: show me what those besides god have
-  created.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - show-me-what-your-gods-created
-passages:
-- tradition: judaism
-  ref: Jer 10:11
-  note: 'Challenge to idolaters: show me what those besides God have created (Gods that created nothing:
-    ʾĕlāhayyāʾ dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăḇaḏû yēʾḇaḏû mē-ʾarʿāʾ (Aramaic) vs. arūnī mādhā khalaqū mina
-    l-arḍi am lahum shirkun fī s-samāwāt. Jeremiah''s verse is a formula for Israel to tell the nations;
-    the Quran''s a challenge to produce evidence (iʾtūnī bi-kitābin ... aw athāratin min ʿilm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּדְנָה֙ תֵּאמְר֣וּן לְה֔וֹם אֱלָ֣הַיָּ֔א דִּֽי שְׁמַיָּ֥א וְאַרְקָ֖א לָ֣א עֲבַ֑דוּ יֵאבַ֧דוּ
-    מֵֽאַרְעָ֛א וּמִן תְּח֥וֹת שְׁמַיָּ֖א אֵֽלֶּה
-- tradition: islam
-  ref: Quran 46:4
-  note: 'Challenge to idolaters: show me what those besides God have created'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ
-    لَهُمْ شِرْكٌ فِى ٱلسَّمَٰوَٰتِ ٱئْتُونِى بِكِتَٰبٍ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍ مِّنْ عِلْمٍ
-    إِن كُنتُمْ صَٰدِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Gods that created nothing: ʾĕlāhayyāʾ dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăḇaḏû yēʾḇaḏû mē-ʾarʿāʾ
-    (Aramaic) vs. arūnī mādhā khalaqū mina l-arḍi am lahum shirkun fī s-samāwāt. Jeremiah''s verse is
-    a formula for Israel to tell the nations; the Quran''s a challenge to produce evidence (iʾtūnī bi-kitābin
-    ... aw athāratin min ʿilm).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Challenge to idolaters: show me what those besides God have created
     (weight 5.3). Pair score 5.3.'
@@ -69,6 +46,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Challenge to idolaters: show me what those besides God have created'
+kinds:
+- parallel
+units:
+- id: hb-jer-10-aramaic-verse
+  title: The Aramaic verse - gods who did not make heaven and earth
+  tradition: judaism
+- id: quran-46-ahqaf-gods-and-the-book-of-moses
+  title: 'Ha-Mim: the idols created nothing; a witness from Israel; the Book of Moses'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Challenge to idolaters: show me what those besides God have created'
+  note: 'Gods that created nothing: ʾĕlāhayyāʾ dî šəmayyāʾ wə-ʾarqāʾ lāʾ ʿăḇaḏû yēʾḇaḏû mē-ʾarʿāʾ (Aramaic)
+    vs. arūnī mādhā khalaqū mina l-arḍi am lahum shirkun fī s-samāwāt. Jeremiah''s verse is a formula
+    for Israel to tell the nations; the Quran''s a challenge to produce evidence (iʾtūnī bi-kitābin ...
+    aw athāratin min ʿilm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:11
+      lang: he
+      text: כִּדְנָה֙ תֵּאמְר֣וּן לְה֔וֹם אֱלָ֣הַיָּ֔א דִּֽי שְׁמַיָּ֥א וְאַרְקָ֖א לָ֣א עֲבַ֑דוּ יֵאבַ֧דוּ
+        מֵֽאַרְעָ֛א וּמִן תְּח֥וֹת שְׁמַיָּ֖א אֵֽלֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 46:4
+      lang: ar
+      text: قُلْ أَرَءَيْتُم مَّا تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ
+        أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَٰوَٰتِ ٱئْتُونِى بِكِتَٰبٍ مِّن قَبْلِ هَٰذَآ أَوْ أَثَٰرَةٍ مِّنْ
+        عِلْمٍ إِن كُنتُمْ صَٰدِقِينَ
 ---
 
 ## Questions

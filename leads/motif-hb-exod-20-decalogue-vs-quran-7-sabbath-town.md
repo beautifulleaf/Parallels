@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-7-sabbath-town
 title: The Ten Words and the people's fear ↔ The Sabbath-breaking seaside town turned into apes
-summary: 'These two units share 1 motifs: sabbath rest on the seventh day for all, including servants,
-  animals and strangers.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - sabbath-rest
-passages:
-- tradition: judaism
-  ref: Exod 20:8-11
-  note: Sabbath rest on the seventh day for all, including servants, animals and strangers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (20:8) זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ (20:9) שֵׁ֤שֶׁת יָמִים֙ תַּֽעֲבֹ֔ד וְעָשִׂ֖יתָ
-    כָּל מְלַאכְתֶּֽךָ (20:10) וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א תַעֲשֶׂ֨ה כָל
-    מְלָאכָ֜ה אַתָּ֣ה וּבִנְךָֽ֣ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
-    (20:11) כִּ֣י שֵֽׁשֶׁת יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ אֶת הַיָּם֙ וְאֶת כָּל
-    אֲשֶׁר בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת י֥וֹם הַשַּׁבָּ֖ת וַֽיְקַדְּשֵֽׁהוּ
-- tradition: judaism
-  ref: Exod 20:8
-  note: Sabbath rest on the seventh day for all, including servants, animals and strangers
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ
-- tradition: islam
-  ref: Quran 7:163
-  note: Sabbath rest on the seventh day for all, including servants, animals and strangers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ
-    إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ
-    كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The Sabbath ban on work presupposed: idh yaʿdūna fī s-sabti (they transgressed on the Sabbath)
-    vs yôm haššᵉbîʿî šabbāt ... lōʾ-taʿăśeh kol-mᵉlāʾkāh. Q calls it ''their Sabbath'' (yawma sabtihim),
-    Israel''s own law.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sabbath rest on the seventh day for all, including servants, animals
     and strangers (weight 5.6). Pair score 5.6.'
@@ -76,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sabbath rest on the seventh day for all, including servants, animals and strangers
+kinds:
+- parallel
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-7-sabbath-town
+  title: The Sabbath-breaking seaside town turned into apes
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sabbath rest on the seventh day for all, including servants, animals and strangers
+  note: 'The Sabbath ban on work presupposed: idh yaʿdūna fī s-sabti (they transgressed on the Sabbath)
+    vs yôm haššᵉbîʿî šabbāt ... lōʾ-taʿăśeh kol-mᵉlāʾkāh. Q calls it ''their Sabbath'' (yawma sabtihim),
+    Israel''s own law.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:8
+      lang: he
+      text: זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ
+    - ref: Exod 20:10
+      lang: he
+      text: וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א תַעֲשֶׂ֨ה כָל מְלָאכָ֜ה אַתָּ֣ה
+        וּבִנְךָֽ֣ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:163
+      lang: ar
+      text: وَسْـَٔلْهُمْ عَنِ ٱلْقَرْيَةِ ٱلَّتِى كَانَتْ حَاضِرَةَ ٱلْبَحْرِ إِذْ يَعْدُونَ فِى ٱلسَّبْتِ
+        إِذْ تَأْتِيهِمْ حِيتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَ لَا تَأْتِيهِمْ
+        كَذَٰلِكَ نَبْلُوهُم بِمَا كَانُوا۟ يَفْسُقُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-lev-20-penalties-vs-quran-4-indecency-repentance
 title: Penalties for Molech worship, necromancy and sexual offenses ↔ Indecency, four witnesses, and the
   limits of repentance
-summary: 'These two units share 1 motifs: penalty for adultery or sexual indecency [contrast between the
-  texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,51 +14,9 @@ layers:
 - motif
 motifs:
 - penalty-for-sexual-transgression-as-contrast
-passages:
-- tradition: judaism
-  ref: Lev 20:10
-  note: 'Penalty for adultery or sexual indecency [contrast between the texts] (Lev 20:10 môt yûmat ha-nnōʾēp
-    wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death; Q 4:15-16 fa-amsikūhunna fī l-buyūti
-    ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā
-    fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined to their houses, the pair is punished
-    (unspecified ''harm'') and left alone if they repent. Death penalty vs confinement, punishment and
-    release on repentance.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִ֗ישׁ אֲשֶׁ֤ר יִנְאַף֙ אֶת אֵ֣שֶׁת אִ֔ישׁ אֲשֶׁ֥ר יִנְאַ֖ף אֶת אֵ֣שֶׁת רֵעֵ֑הוּ מֽוֹת יוּמַ֥ת
-    הַנֹּאֵ֖ף וְהַנֹּאָֽפֶת
-- tradition: islam
-  ref: Quran 4:15
-  note: 'Penalty for adultery or sexual indecency [contrast between the texts] (Lev 20:10 môt yûmat ha-nnōʾēp
-    wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death; Q 4:15-16 fa-amsikūhunna fī l-buyūti
-    ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā
-    fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined to their houses, the pair is punished
-    (unspecified ''harm'') and left alone if they repent. Death penalty vs confinement, punishment and
-    release on repentance.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ
-    فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ يَجْعَلَ ٱللَّهُ
-    لَهُنَّ سَبِيلًا
-- tradition: islam
-  ref: Quran 4:16
-  note: 'Penalty for adultery or sexual indecency [contrast between the texts] (Lev 20:10 môt yûmat ha-nnōʾēp
-    wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death; Q 4:15-16 fa-amsikūhunna fī l-buyūti
-    ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā
-    fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined to their houses, the pair is punished
-    (unspecified ''harm'') and left alone if they repent. Death penalty vs confinement, punishment and
-    release on repentance.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ
-    إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast. Lev 20:10 môt yûmat ha-nnōʾēp wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death;
-    Q 4:15-16 fa-amsikūhunna fī l-buyūti ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan
-    wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined
-    to their houses, the pair is punished (unspecified ''harm'') and left alone if they repent. Death
-    penalty vs confinement, punishment and release on repentance.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Penalty for adultery or sexual indecency [contrast between the texts]
     (weight 6.7). Pair score 6.7.'
@@ -89,6 +46,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Penalty for adultery or sexual indecency
+kinds:
+- contrast
+units:
+- id: hb-lev-20-penalties
+  title: Penalties for Molech worship, necromancy and sexual offenses
+  tradition: judaism
+- id: quran-4-indecency-repentance
+  title: Indecency, four witnesses, and the limits of repentance
+  tradition: islam
+matches:
+- kind: contrast
+  label: Penalty for adultery or sexual indecency
+  note: 'Lev 20:10 môt yûmat ha-nnōʾēp wĕ-ha-nnōʾāpet: adulterer and adulteress are both put to death;
+    Q 4:15-16 fa-amsikūhunna fī l-buyūti ḥattā yatawaffāhunna l-mawtu aw yajʿala llāhu lahunna sabīlan
+    wa-lladhāni yaʾtiyānihā minkum fa-ādhūhumā fa-in tābā wa-aṣlaḥā fa-aʿriḍū ʿanhumā: the women are confined
+    to their houses, the pair is punished (unspecified ''harm'') and left alone if they repent. Death
+    penalty vs confinement, punishment and release on repentance.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 20:10
+      lang: he
+      text: וְאִ֗ישׁ אֲשֶׁ֤ר יִנְאַף֙ אֶת אֵ֣שֶׁת אִ֔ישׁ אֲשֶׁ֥ר יִנְאַ֖ף אֶת אֵ֣שֶׁת רֵעֵ֑הוּ מֽוֹת יוּמַ֥ת
+        הַנֹּאֵ֖ף וְהַנֹּאָֽפֶת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:15
+      lang: ar
+      text: وَٱلَّٰتِى يَأْتِينَ ٱلْفَٰحِشَةَ مِن نِّسَآئِكُمْ فَٱسْتَشْهِدُوا۟ عَلَيْهِنَّ أَرْبَعَةً
+        مِّنكُمْ فَإِن شَهِدُوا۟ فَأَمْسِكُوهُنَّ فِى ٱلْبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلْمَوْتُ أَوْ
+        يَجْعَلَ ٱللَّهُ لَهُنَّ سَبِيلًا
+    - ref: Quran 4:16
+      lang: ar
+      text: وَٱلَّذَانِ يَأْتِيَٰنِهَا مِنكُمْ فَـَٔاذُوهُمَا فَإِن تَابَا وَأَصْلَحَا فَأَعْرِضُوا۟ عَنْهُمَآ
+        إِنَّ ٱللَّهَ كَانَ تَوَّابًا رَّحِيمًا
 ---
 
 ## Questions

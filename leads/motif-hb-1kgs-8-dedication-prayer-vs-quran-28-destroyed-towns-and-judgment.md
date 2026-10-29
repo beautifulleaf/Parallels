@@ -2,7 +2,7 @@
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-28-destroyed-towns-and-judgment
 title: Solomon's prayer of dedication ↔ Towns destroyed for ingratitude; 'Where are my partners?'; perpetual
   night and day
-summary: 'These two units share 1 motifs: god alone knows the hearts of all humans.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,25 +15,9 @@ layers:
 - motif
 motifs:
 - god-alone-knows-hearts
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:39
-  note: God alone knows the hearts of all humans
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אַתָּה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֨ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤ לָאִישׁ֙
-    כְּכָל דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת לְבָב֑וֹ כִּֽי אַתָּ֤ה יָדַ֨עְתָּ֙ לְבַדְּךָ֔ אֶת לְבַ֖ב כָּל
-    בְּנֵ֥י הָאָדָֽם
-- tradition: islam
-  ref: Quran 28:69
-  note: God alone knows the hearts of all humans
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-rabbuka yaʿlamu mā tukinnu ṣudūruhum wa-mā yuʿlinūna ~ kî ʾattâ yādaʿtā lə-vaddəkā ʾet
-    ləvav kol bənê hā-ʾādām: God alone knows the hidden heart.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God alone knows the hearts of all humans (weight 5.0). Pair score
     5.0.'
@@ -67,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God alone knows the hearts of all humans
+kinds:
+- parallel
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-28-destroyed-towns-and-judgment
+  title: Towns destroyed for ingratitude; 'Where are my partners?'; perpetual night and day
+  tradition: islam
+matches:
+- kind: parallel
+  label: God alone knows the hearts of all humans
+  note: 'wa-rabbuka yaʿlamu mā tukinnu ṣudūruhum wa-mā yuʿlinūna ~ kî ʾattâ yādaʿtā lə-vaddəkā ʾet ləvav
+    kol bənê hā-ʾādām: God alone knows the hidden heart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:39
+      lang: he
+      text: וְ֠אַתָּה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֨ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤
+        לָאִישׁ֙ כְּכָל דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת לְבָב֑וֹ כִּֽי אַתָּ֤ה יָדַ֨עְתָּ֙ לְבַדְּךָ֔ אֶת
+        לְבַ֖ב כָּל בְּנֵ֥י הָאָדָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 28:69
+      lang: ar
+      text: وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ
 ---
 
 ## Questions

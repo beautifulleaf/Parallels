@@ -1,8 +1,7 @@
 ---
 id: motif-hb-obad-1-edom-brought-down-vs-quran-4-fighting-and-death
 title: Obadiah's vision against Edom's pride ↔ Fighting for the oppressed; death in lofty towers
-summary: 'These two units share 1 motifs: the proud one who builds his nest high as the eagle or among
-  the stars is brought down by god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - proud-nest-among-stars-brought-down
-passages:
-- tradition: judaism
-  ref: Obad 1:3
-  note: The proud one who builds his nest high as the eagle or among the stars is brought down by God
-    ('though you set your nest among the stars, from there I will bring you down')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי סֶּ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ
-    מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ
-- tradition: judaism
-  ref: Obad 1:4
-  note: The proud one who builds his nest high as the eagle or among the stars is brought down by God
-    ('though you set your nest among the stars, from there I will bring you down')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
-    נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 4:78
-  note: 'The proud one who builds his nest high as the eagle or among the stars is brought down by God
-    (Q: wa-law kuntum fī burūjin mushayyadatin. Obad: ʾim-tagbîah kannešer wəʾim-bên kôkhābîm śîm qinnekā
-    miššām ʾôrîdəkā. A high, fortified dwelling is no protection.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن تُصِبْهُمْ
-    حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ
-    عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَدِيثًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Q: wa-law kuntum fī burūjin mushayyadatin. Obad: ʾim-tagbîah kannešer wəʾim-bên kôkhābîm śîm
-    qinnekā miššām ʾôrîdəkā. A high, fortified dwelling is no protection.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The proud one who builds his nest high as the eagle or among the
     stars is brought down by God (weight 6.3). Pair score 6.3.'
@@ -74,6 +45,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The proud one who builds his nest high as the eagle or among the stars is brought down by God
+kinds:
+- echo
+units:
+- id: hb-obad-1-edom-brought-down
+  title: Obadiah's vision against Edom's pride
+  tradition: judaism
+- id: quran-4-fighting-and-death
+  title: Fighting for the oppressed; death in lofty towers
+  tradition: islam
+matches:
+- kind: echo
+  label: The proud one who builds his nest high as the eagle or among the stars is brought down by God
+  note: 'Q: wa-law kuntum fī burūjin mushayyadatin. Obad: ʾim-tagbîah kannešer wəʾim-bên kôkhābîm śîm
+    qinnekā miššām ʾôrîdəkā. A high, fortified dwelling is no protection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:4
+      lang: he
+      text: אִם תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖
+        נְאֻם יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:78
+      lang: ar
+      text: أَيْنَمَا تَكُونُوا۟ يُدْرِككُّمُ ٱلْمَوْتُ وَلَوْ كُنتُمْ فِى بُرُوجٍ مُّشَيَّدَةٍ وَإِن
+        تُصِبْهُمْ حَسَنَةٌ يَقُولُوا۟ هَٰذِهِۦ مِنْ عِندِ ٱللَّهِ وَإِن تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا۟
+        هَٰذِهِۦ مِنْ عِندِكَ قُلْ كُلٌّ مِّنْ عِندِ ٱللَّهِ فَمَالِ هَٰٓؤُلَآءِ ٱلْقَوْمِ لَا يَكَادُونَ
+        يَفْقَهُونَ حَدِيثًا
 ---
 
 ## Questions

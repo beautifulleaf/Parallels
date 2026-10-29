@@ -2,8 +2,7 @@
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-43-zukhruf-book-and-daughters
 title: 'A new exodus from the north; fishers and hunters ↔ Ha-Mim: the Mother of the Book, the riding
   prayer and the ''daughters'' of God'
-summary: 'These two units share 1 motifs: the religion inherited from the fathers, defended or confessed
-  as lies [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,55 +14,9 @@ layers:
 - motif
 motifs:
 - judging-the-fathers-religion-as-divergence
-passages:
-- tradition: judaism
-  ref: Jer 16:19
-  note: 'The religion inherited from the fathers, defended or confessed as lies [divergence between the
-    texts] (The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come and
-    confess: ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā
-    wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā
-    mimmā wajadtum ʿalayhi ābāʾakum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
-    אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
-- tradition: judaism
-  ref: Jer 16:20
-  note: 'The religion inherited from the fathers, defended or confessed as lies [divergence between the
-    texts] (The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come and
-    confess: ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā
-    wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā
-    mimmā wajadtum ʿalayhi ābāʾakum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיַעֲשֶׂה לּ֥וֹ אָדָ֖ם אֱלֹהִ֑ים וְהֵ֖מָּה לֹ֥א אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 43:22
-  note: 'The religion inherited from the fathers, defended or confessed as lies [divergence between the
-    texts] (The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come and
-    confess: ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā
-    wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā
-    mimmā wajadtum ʿalayhi ābāʾakum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهْتَدُونَ
-- tradition: islam
-  ref: Quran 43:23
-  note: 'The religion inherited from the fathers, defended or confessed as lies [divergence between the
-    texts] (The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come and
-    confess: ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā
-    wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā
-    mimmā wajadtum ʿalayhi ābāʾakum.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ
-    إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come
-    and confess: ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā
-    wajadnā ābāʾanā ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā
-    mimmā wajadtum ʿalayhi ābāʾakum.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion inherited from the fathers, defended or confessed as
     lies [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -97,6 +50,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The religion inherited from the fathers, defended or confessed as lies
+kinds:
+- divergence
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-43-zukhruf-book-and-daughters
+  title: 'Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The religion inherited from the fathers, defended or confessed as lies
+  note: 'The fathers'' religion, judged in opposite ways by its heirs. Jeremiah''s nations come and confess:
+    ʾaḵ šeqer nāḥălû ʾăḇôṯênû heḇel wə-ʾên bām môʿîl. The Quran''s opponents defend it: innā wajadnā ābāʾanā
+    ʿalā ummatin wa-innā ʿalā āthārihim muhtadūn; the prophet asks a-wa-law jiʾtukum bi-ahdā mimmā wajadtum
+    ʿalayhi ābāʾakum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:19
+      lang: he
+      text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
+        אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
+    - ref: Jer 16:20
+      lang: he
+      text: הֲיַעֲשֶׂה לּ֥וֹ אָדָ֖ם אֱלֹהִ֑ים וְהֵ֖מָּה לֹ֥א אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 43:22
+      lang: ar
+      text: بَلْ قَالُوٓا۟ إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم
+        مُّهْتَدُونَ
+    - ref: Quran 43:23
+      lang: ar
+      text: وَكَذَٰلِكَ مَآ أَرْسَلْنَا مِن قَبْلِكَ فِى قَرْيَةٍ مِّن نَّذِيرٍ إِلَّا قَالَ مُتْرَفُوهَآ
+        إِنَّا وَجَدْنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٍ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقْتَدُونَ
+    - ref: Quran 43:24
+      lang: ar
+      text: قَٰلَ أَوَلَوْ جِئْتُكُم بِأَهْدَىٰ مِمَّا وَجَدتُّمْ عَلَيْهِ ءَابَآءَكُمْ قَالُوٓا۟ إِنَّا
+        بِمَآ أُرْسِلْتُم بِهِۦ كَٰفِرُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ps-72-solomon-vs-quran-55-rahman-judgment-and-the-four-gardens
 title: Psalm 72, for Solomon; the ideal king; end of Book II ↔ Passing the regions of heaven, the rose-red
   sky, forelocks and feet, and the two pairs of gardens with secluded maidens
-summary: 'These two units share 1 motifs: doxology: ''blessed be the name of your lord, possessor of majesty
-  and honor''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - blessed-be-the-name-of-your-lord
-passages:
-- tradition: judaism
-  ref: Ps 72:19
-  note: 'Doxology: ''Blessed be the name of your Lord, possessor of majesty and honor'' (Closing doxology
-    on the Name: û-ḇārûḵ šēm kəḇôḏô lə-ʿôlām wə-yimmālēʾ ḵəḇôḏô ʾeṯ kōl hā-ʾāreṣ ʾāmēn wə-ʾāmēn vs. tabāraka
-    smu rabbika dhī l-jalāli wa-l-ikrām. Both end a large unit (Book II of Psalms, the sura) with ''blessed
-    be the name'' (bārûḵ šēm / tabāraka sm, the root b-r-k in both); kəḇôḏ ~ jalāl.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָר֤וּךְ שֵׁ֥ם כְּבוֹד֗וֹ לְע֫וֹלָ֥ם וְיִמָּלֵ֣א כְ֭בוֹדוֹ אֶת כֹּ֥ל הָאָ֗רֶץ אָ֘מֵ֥ן וְאָמֵֽן
-- tradition: islam
-  ref: Quran 55:78
-  note: 'Doxology: ''Blessed be the name of your Lord, possessor of majesty and honor'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Closing doxology on the Name: û-ḇārûḵ šēm kəḇôḏô lə-ʿôlām wə-yimmālēʾ ḵəḇôḏô ʾeṯ kōl hā-ʾāreṣ
-    ʾāmēn wə-ʾāmēn vs. tabāraka smu rabbika dhī l-jalāli wa-l-ikrām. Both end a large unit (Book II of
-    Psalms, the sura) with ''blessed be the name'' (bārûḵ šēm / tabāraka sm, the root b-r-k in both);
-    kəḇôḏ ~ jalāl.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Doxology: ''Blessed be the name of your Lord, possessor of majesty
     and honor'' (weight 6.7). Pair score 6.7.'
@@ -74,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Doxology: ''Blessed be the name of your Lord, possessor of majesty and honor'''
+kinds:
+- parallel
+units:
+- id: hb-ps-72-solomon
+  title: Psalm 72, for Solomon; the ideal king; end of Book II
+  tradition: judaism
+- id: quran-55-rahman-judgment-and-the-four-gardens
+  title: Passing the regions of heaven, the rose-red sky, forelocks and feet, and the two pairs of gardens
+    with secluded maidens
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Doxology: ''Blessed be the name of your Lord, possessor of majesty and honor'''
+  note: 'Closing doxology on the Name: û-ḇārûḵ šēm kəḇôḏô lə-ʿôlām wə-yimmālēʾ ḵəḇôḏô ʾeṯ kōl hā-ʾāreṣ
+    ʾāmēn wə-ʾāmēn vs. tabāraka smu rabbika dhī l-jalāli wa-l-ikrām. Both end a large unit (Book II of
+    Psalms, the sura) with ''blessed be the name'' (bārûḵ šēm / tabāraka sm, the root b-r-k in both);
+    kəḇôḏ ~ jalāl.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 72:19
+      lang: he
+      text: וּבָר֤וּךְ שֵׁ֥ם כְּבוֹד֗וֹ לְע֫וֹלָ֥ם וְיִמָּלֵ֣א כְ֭בוֹדוֹ אֶת כֹּ֥ל הָאָ֗רֶץ אָ֘מֵ֥ן וְאָמֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 55:78
+      lang: ar
+      text: تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ
 ---
 
 ## Questions

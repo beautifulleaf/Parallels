@@ -2,8 +2,7 @@
 id: motif-hb-job-14-tree-has-hope-vs-quran-7-creation-signs
 title: Job - 'man born of woman'; the tree has hope ↔ Six days, the Throne, winds and rain as proof of
   resurrection
-summary: 'These two units share 1 motifs: a felled tree sprouts again at the scent of water, but a man
-  dies and does not rise [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - tree-has-hope-man-none-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 14:7
-  note: 'A felled tree sprouts again at the scent of water, but a man dies and does not rise [contrast
-    between the texts] (The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ...
-    mē-rêaḥ mayim yafriaḥ, but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu
-    li-baladin mayyitin fa-anzalnā bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju
-    l-mawtā. Rain on dead land is the proof that the dead will rise.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י יֵ֥שׁ לָעֵ֗ץ תִּ֫קְוָ֥ה אִֽם יִ֭כָּרֵת וְע֣וֹד יַחֲלִ֑יף וְ֝יֹֽנַקְתּ֗וֹ לֹ֣א תֶחְדָּֽל
-- tradition: judaism
-  ref: Job 14:9
-  note: 'A felled tree sprouts again at the scent of water, but a man dies and does not rise [contrast
-    between the texts] (The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ...
-    mē-rêaḥ mayim yafriaḥ, but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu
-    li-baladin mayyitin fa-anzalnā bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju
-    l-mawtā. Rain on dead land is the proof that the dead will rise.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵרֵ֣יחַ מַ֣יִם יַפְרִ֑חַ וְעָשָׂ֖ה קָצִ֣יר כְּמוֹ נָֽטַע
-- tradition: islam
-  ref: Quran 7:57
-  note: 'A felled tree sprouts again at the scent of water, but a man dies and does not rise [contrast
-    between the texts] (The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ...
-    mē-rêaḥ mayim yafriaḥ, but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu
-    li-baladin mayyitin fa-anzalnā bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju
-    l-mawtā. Rain on dead land is the proof that the dead will rise.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
-    سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ مِن
-    كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    contrast. The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ... mē-rêaḥ mayim
-    yafriaḥ, but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu li-baladin mayyitin
-    fa-anzalnā bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju l-mawtā. Rain on
-    dead land is the proof that the dead will rise.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A felled tree sprouts again at the scent of water, but a man dies
     and does not rise [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -86,6 +49,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A felled tree sprouts again at the scent of water, but a man dies and does not rise
+kinds:
+- contrast
+units:
+- id: hb-job-14-tree-has-hope
+  title: Job - 'man born of woman'; the tree has hope
+  tradition: judaism
+- id: quran-7-creation-signs
+  title: Six days, the Throne, winds and rain as proof of resurrection
+  tradition: islam
+matches:
+- kind: contrast
+  label: A felled tree sprouts again at the scent of water, but a man dies and does not rise
+  note: 'The same analogy used for opposite conclusions. Job: kî yēš lā-ʿēṣ tiqwāh ... mē-rêaḥ mayim yafriaḥ,
+    but wə-ʾîš šākhav wə-lōʾ-yāqûm: water revives a tree, not a man. Q: suqnāhu li-baladin mayyitin fa-anzalnā
+    bihi l-māʾa fa-akhrajnā bihi min kulli l-thamarāti kadhālika nukhriju l-mawtā. Rain on dead land is
+    the proof that the dead will rise.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 14:7
+      lang: he
+      text: כִּ֤י יֵ֥שׁ לָעֵ֗ץ תִּ֫קְוָ֥ה אִֽם יִ֭כָּרֵת וְע֣וֹד יַחֲלִ֑יף וְ֝יֹֽנַקְתּ֗וֹ לֹ֣א תֶחְדָּֽל
+    - ref: Job 14:9
+      lang: he
+      text: מֵרֵ֣יחַ מַ֣יִם יַפְרִ֑חַ וְעָשָׂ֖ה קָצִ֣יר כְּמוֹ נָֽטַע
+    - ref: Job 14:12
+      lang: he
+      text: וְאִ֥ישׁ שָׁכַ֗ב וְֽלֹא יָ֫ק֥וּם עַד בִּלְתִּ֣י שָׁ֭מַיִם לֹ֣א יָקִ֑יצוּ וְלֹֽא יֵ֝עֹ֗רוּ
+        מִשְּׁנָתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:57
+      lang: ar
+      text: وَهُوَ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ بُشْرًۢا بَيْنَ يَدَىْ رَحْمَتِهِۦ حَتَّىٰٓ إِذَآ أَقَلَّتْ
+        سَحَابًا ثِقَالًا سُقْنَٰهُ لِبَلَدٍ مَّيِّتٍ فَأَنزَلْنَا بِهِ ٱلْمَآءَ فَأَخْرَجْنَا بِهِۦ
+        مِن كُلِّ ٱلثَّمَرَٰتِ كَذَٰلِكَ نُخْرِجُ ٱلْمَوْتَىٰ لَعَلَّكُمْ تَذَكَّرُونَ
 ---
 
 ## Questions

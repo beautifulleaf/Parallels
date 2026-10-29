@@ -1,8 +1,7 @@
 ---
 id: motif-quran-noah-vs-jud-sanhedrin-108b
 title: Noah in the Quran ↔ The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)
-summary: 'These two units share 3 motifs: the flood waters are hot or boiling, people mock the hero while
-  he builds the vessel, hero warns or preaches to his people before the flood.'
+summary: 3 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,44 +16,7 @@ motifs:
 - boiling-waters
 - people-mock-builder
 - hero-preaches-to-people
-passages:
-- tradition: islam
-  ref: Quran 11:40
-  note: The flood waters are hot or boiling (Reading fāra (boiled) as describing the waters is interpretive;
-    check it.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
-    ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا
-    قَلِيلٌ
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: The flood waters are hot or boiling
-- tradition: islam
-  ref: Quran 11:38
-  note: People mock the hero while he builds the vessel
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ إِن
-    تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: People mock the hero while he builds the vessel
-- tradition: islam
-  ref: Quran 11:25
-  note: Hero warns or preaches to his people before the flood
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
-- tradition: islam
-  ref: Quran 11:26
-  note: Hero warns or preaches to his people before the flood
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: Hero warns or preaches to his people before the flood
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The flood waters are hot or boiling (weight 6.0); People mock the
     hero while he builds the vessel (weight 6.0); Hero warns or preaches to his people before the flood
@@ -67,6 +29,60 @@ evidence:
   basis: scholarship
 origin: pipeline
 added: '2026-10-29'
+finding: The flood waters are hot or boiling
+kinds:
+- shared
+units:
+- id: jud-sanhedrin-108b
+  title: The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)
+  tradition: judaism
+- id: quran-noah
+  title: Noah in the Quran
+  tradition: islam
+matches:
+- kind: shared
+  label: The flood waters are hot or boiling
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  - tradition: islam
+    passages:
+    - ref: Quran 11:40
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَمْرُنَا وَفَارَ ٱلتَّنُّورُ قُلْنَا ٱحْمِلْ فِيهَا مِن كُلٍّ زَوْجَيْنِ
+        ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ ٱلْقَوْلُ وَمَنْ ءَامَنَ وَمَآ ءَامَنَ مَعَهُۥٓ
+        إِلَّا قَلِيلٌ
+    note: Reading fāra (boiled) as describing the waters is interpretive; check it.
+- kind: shared
+  label: People mock the hero while he builds the vessel
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  - tradition: islam
+    passages:
+    - ref: Quran 11:38
+      lang: ar
+      text: وَيَصْنَعُ ٱلْفُلْكَ وَكُلَّمَا مَرَّ عَلَيْهِ مَلَأٌ مِّن قَوْمِهِۦ سَخِرُوا۟ مِنْهُ قَالَ
+        إِن تَسْخَرُوا۟ مِنَّا فَإِنَّا نَسْخَرُ مِنكُمْ كَمَا تَسْخَرُونَ
+- kind: shared
+  label: Hero warns or preaches to his people before the flood
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  - tradition: islam
+    passages:
+    - ref: Quran 11:25
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦٓ إِنِّى لَكُمْ نَذِيرٌ مُّبِينٌ
+    - ref: Quran 11:26
+      lang: ar
+      text: أَن لَّا تَعْبُدُوٓا۟ إِلَّا ٱللَّهَ إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ أَلِيمٍ
+    - ref: Quran 71:5
+      lang: ar
+      text: قَالَ رَبِّ إِنِّى دَعَوْتُ قَوْمِى لَيْلًا وَنَهَارًا
 ---
 
 ## Questions

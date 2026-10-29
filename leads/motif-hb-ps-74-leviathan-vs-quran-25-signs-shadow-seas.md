@@ -2,8 +2,7 @@
 id: motif-hb-ps-74-leviathan-vs-quran-25-signs-shadow-seas
 title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan ↔ The moving shadow,
   the night garment, the two seas and the constellations
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,30 +15,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 74:16
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 25:61
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا
-- tradition: islam
-  ref: Quran 25:62
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ
-    شُكُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. jaʿala l-layla wa-n-nahāra khilfatan ... sirājan wa-qamaran munīran ~ ləkhā yôm ʾap ləkhā
-    lāylâ ʾattâ hăkhînôtā māʾôr wā-šāmeš: day, night and the lights are God''s work.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -75,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- parallel
+units:
+- id: hb-ps-74-leviathan
+  title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan
+  tradition: judaism
+- id: quran-25-signs-shadow-seas
+  title: The moving shadow, the night garment, the two seas and the constellations
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'jaʿala l-layla wa-n-nahāra khilfatan ... sirājan wa-qamaran munīran ~ ləkhā yôm ʾap ləkhā lāylâ
+    ʾattâ hăkhînôtā māʾôr wā-šāmeš: day, night and the lights are God''s work.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 74:16
+      lang: he
+      text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:61
+      lang: ar
+      text: تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا
+    - ref: Quran 25:62
+      lang: ar
+      text: وَهُوَ ٱلَّذِى جَعَلَ ٱلَّيْلَ وَٱلنَّهَارَ خِلْفَةً لِّمَنْ أَرَادَ أَن يَذَّكَّرَ أَوْ أَرَادَ
+        شُكُورًا
 ---
 
 ## Questions

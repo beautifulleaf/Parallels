@@ -2,8 +2,7 @@
 id: motif-hb-dan-3-golden-image-furnace-vs-quran-49-hujurat-etiquette-and-brotherhood
 title: 'The golden image and the fiery furnace ↔ Al-Hujurat: lowering voices, verifying reports, reconciling
   believers, backbiting and the peoples and tribes'
-summary: 'These two units share 1 motifs: avoid suspicion, spying and backbiting: would one of you like
-  to eat the flesh of his dead brother?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - backbiting-as-eating-dead-brothers-flesh
-passages:
-- tradition: judaism
-  ref: Dan 3:8
-  note: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?
-    (Denouncing as ''eating'' a person: qərîḇû gubrîn kaśdāʾîn wa-ʾăḵalû qarṣêhôn dî yəhûḏāyēʾ (they ''ate
-    the pieces'' of the Jews = denounced them) vs. an yaʾkula laḥma akhīhi maytan. The Aramaic idiom is
-    the closest HB wording to the Quran''s image; the Quran turns it into a vivid picture of a brother''s
-    corpse.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל קֳבֵ֤ל דְּנָה֙ בֵּהּ זִמְנָ֔א קְרִ֖בוּ גֻּבְרִ֣ין כַּשְׂדָּאִ֑ין וַאֲכַ֥לוּ קַרְצֵיה֖וֹן
-    דִּ֥י יְהוּדָיֵֽא
-- tradition: islam
-  ref: Quran 49:12
-  note: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ
-    وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ
-    مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Denouncing as ''eating'' a person: qərîḇû gubrîn kaśdāʾîn wa-ʾăḵalû qarṣêhôn dî yəhûḏāyēʾ (they
-    ''ate the pieces'' of the Jews = denounced them) vs. an yaʾkula laḥma akhīhi maytan. The Aramaic idiom
-    is the closest HB wording to the Quran''s image; the Quran turns it into a vivid picture of a brother''s
-    corpse.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Avoid suspicion, spying and backbiting: would one of you like to
     eat the flesh of his dead brother? (weight 6.3). Pair score 6.3.'
@@ -81,6 +57,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
+kinds:
+- echo
+units:
+- id: hb-dan-3-golden-image-furnace
+  title: The golden image and the fiery furnace
+  tradition: judaism
+- id: quran-49-hujurat-etiquette-and-brotherhood
+  title: 'Al-Hujurat: lowering voices, verifying reports, reconciling believers, backbiting and the peoples
+    and tribes'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Avoid suspicion, spying and backbiting: would one of you like to eat the flesh of his dead brother?'
+  note: 'Denouncing as ''eating'' a person: qərîḇû gubrîn kaśdāʾîn wa-ʾăḵalû qarṣêhôn dî yəhûḏāyēʾ (they
+    ''ate the pieces'' of the Jews = denounced them) vs. an yaʾkula laḥma akhīhi maytan. The Aramaic idiom
+    is the closest HB wording to the Quran''s image; the Quran turns it into a vivid picture of a brother''s
+    corpse.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 3:8
+      lang: he
+      text: כָּל קֳבֵ֤ל דְּנָה֙ בֵּהּ זִמְנָ֔א קְרִ֖בוּ גֻּבְרִ֣ין כַּשְׂדָּאִ֑ין וַאֲכַ֥לוּ קַרְצֵיה֖וֹן
+        דִּ֥י יְהוּדָיֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 49:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ
+        إِثْمٌ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ
+        أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ
 ---
 
 ## Questions

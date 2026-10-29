@@ -2,7 +2,7 @@
 id: motif-hb-lev-7-guilt-peace-portions-vs-quran-5-contracts-food-laws
 title: Guilt and well-being offerings; priests' portions; fat and blood bans ↔ Contracts, pilgrim sanctity
   and the forbidden foods
-summary: 'These two units share 1 motifs: eating blood is forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,35 +15,9 @@ layers:
 - motif
 motifs:
 - prohibition-of-eating-blood
-passages:
-- tradition: judaism
-  ref: Lev 7:26
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
-- tradition: judaism
-  ref: Lev 7:27
-  note: Eating blood is forbidden (of bird or beast)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
-- tradition: islam
-  ref: Quran 5:3
-  note: Eating blood is forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
-    بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
-    إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
-    فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
-    أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
-    فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Q: ḥurrimat ʿalaykumu l-maytatu wa-l-damu. Lev: wə-khol-dām lōʾ tōʾkhəlû ... lā-ʿôf wə-lab-bəhēmāh;
-    ḥēlev nəvēlāh wə-ḥēlev ṭərēfāh ... wə-ʾākhōl lōʾ tōʾkhəluhû. Lev forbids only the fat of carrion and
-    torn animals; Q forbids the whole animal.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Eating blood is forbidden (weight 5.6). Pair score 5.6.'
   basis: reading
@@ -76,6 +50,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Eating blood is forbidden
+kinds:
+- parallel
+units:
+- id: hb-lev-7-guilt-peace-portions
+  title: Guilt and well-being offerings; priests' portions; fat and blood bans
+  tradition: judaism
+- id: quran-5-contracts-food-laws
+  title: Contracts, pilgrim sanctity and the forbidden foods
+  tradition: islam
+matches:
+- kind: parallel
+  label: Eating blood is forbidden
+  note: 'Q: ḥurrimat ʿalaykumu l-maytatu wa-l-damu. Lev: wə-khol-dām lōʾ tōʾkhəlû ... lā-ʿôf wə-lab-bəhēmāh;
+    ḥēlev nəvēlāh wə-ḥēlev ṭərēfāh ... wə-ʾākhōl lōʾ tōʾkhəluhû. Lev forbids only the fat of carrion and
+    torn animals; Q forbids the whole animal.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 7:24
+      lang: he
+      text: וְחֵ֤לֶב נְבֵלָה֙ וְחֵ֣לֶב טְרֵפָ֔ה יֵעָשֶׂ֖ה לְכָל מְלָאכָ֑ה וְאָכֹ֖ל לֹ֥א תֹאכְלֻֽהוּ
+    - ref: Lev 7:26
+      lang: he
+      text: וְכָל דָּם֙ לֹ֣א תֹאכְל֔וּ בְּכֹ֖ל מוֹשְׁבֹתֵיכֶ֑ם לָע֖וֹף וְלַבְּהֵמָֽה
+    - ref: Lev 7:27
+      lang: he
+      text: כָּל נֶ֖פֶשׁ אֲשֶׁר תֹּאכַ֣ל כָּל דָּ֑ם וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵֽעַמֶּֽיהָ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:3
+      lang: ar
+      text: حُرِّمَتْ عَلَيْكُمُ ٱلْمَيْتَةُ وَٱلدَّمُ وَلَحْمُ ٱلْخِنزِيرِ وَمَآ أُهِلَّ لِغَيْرِ ٱللَّهِ
+        بِهِۦ وَٱلْمُنْخَنِقَةُ وَٱلْمَوْقُوذَةُ وَٱلْمُتَرَدِّيَةُ وَٱلنَّطِيحَةُ وَمَآ أَكَلَ ٱلسَّبُعُ
+        إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى ٱلنُّصُبِ وَأَن تَسْتَقْسِمُوا۟ بِٱلْأَزْلَٰمِ ذَٰلِكُمْ
+        فِسْقٌ ٱلْيَوْمَ يَئِسَ ٱلَّذِينَ كَفَرُوا۟ مِن دِينِكُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِ ٱلْيَوْمَ
+        أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِى وَرَضِيتُ لَكُمُ ٱلْإِسْلَٰمَ دِينًا
+        فَمَنِ ٱضْطُرَّ فِى مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِّإِثْمٍ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

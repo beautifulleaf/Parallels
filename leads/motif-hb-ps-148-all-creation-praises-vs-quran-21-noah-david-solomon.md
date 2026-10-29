@@ -2,8 +2,7 @@
 id: motif-hb-ps-148-all-creation-praises-vs-quran-21-noah-david-solomon
 title: Psalm 148, praise from heaven and earth ↔ Noah answered; David and Solomon's judgment, the praising
   mountains, mail and wind
-summary: 'These two units share 2 motifs: mountains and birds are made to glorify god together with david
-  [divergence between the texts], mountains and birds are made to glorify god together with david.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,65 +15,9 @@ layers:
 motifs:
 - mountains-and-birds-praise-with-david-as-divergence
 - mountains-and-birds-praise-with-david
-passages:
-- tradition: judaism
-  ref: Ps 148:9
-  note: 'Mountains and birds are made to glorify God together with David [divergence between the texts]
-    (hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa Dāwūda l-jibāla
-    yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned; in Q they are made
-    to join one man, David, in his praise (cf. David as psalmist).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
-- tradition: judaism
-  ref: Ps 148:10
-  note: 'Mountains and birds are made to glorify God together with David [divergence between the texts]
-    (hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa Dāwūda l-jibāla
-    yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned; in Q they are made
-    to join one man, David, in his praise (cf. David as psalmist).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
-- tradition: islam
-  ref: Quran 21:79
-  note: 'Mountains and birds are made to glorify God together with David [divergence between the texts]
-    (hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa Dāwūda l-jibāla
-    yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned; in Q they are made
-    to join one man, David, in his praise (cf. David as psalmist).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ
-    يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
-- tradition: judaism
-  ref: Ps 148:9
-  note: Mountains and birds are made to glorify God together with David (he-hārîm wə-ḵol-gəḇāʿôṯ ... remeś
-    wə-ṣippôr kānāp̄ (mountains and winged birds called to praise) vs. yā-jibālu awwibī maʿahu wa-ṭ-ṭayra.
-    The same pair, mountains and birds, praises God. The psalm calls on them in its own voice; the Quran
-    makes them echo David's praise (awwibī maʿahu).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
-- tradition: judaism
-  ref: Ps 148:10
-  note: Mountains and birds are made to glorify God together with David (he-hārîm wə-ḵol-gəḇāʿôṯ ... remeś
-    wə-ṣippôr kānāp̄ (mountains and winged birds called to praise) vs. yā-jibālu awwibī maʿahu wa-ṭ-ṭayra.
-    The same pair, mountains and birds, praises God. The psalm calls on them in its own voice; the Quran
-    makes them echo David's praise (awwibī maʿahu).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
-- tradition: islam
-  ref: Quran 21:79
-  note: Mountains and birds are made to glorify God together with David
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ ٱلْجِبَالَ
-    يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa
-    Dāwūda l-jibāla yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned;
-    in Q they are made to join one man, David, in his praise (cf. David as psalmist).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mountains and birds are made to glorify God together with David
     [divergence between the texts] (weight 6.7); Mountains and birds are made to glorify God together
@@ -110,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Mountains and birds are made to glorify God together with David
+kinds:
+- divergence
+units:
+- id: hb-ps-148-all-creation-praises
+  title: Psalm 148, praise from heaven and earth
+  tradition: judaism
+- id: quran-21-noah-david-solomon
+  title: Noah answered; David and Solomon's judgment, the praising mountains, mail and wind
+  tradition: islam
+matches:
+- kind: divergence
+  label: Mountains and birds are made to glorify God together with David
+  note: 'hehārîm wəkol-gəbāʿôt ... wəṣippôr kānāp, called on to praise YHWH; wa-sakhkharnā maʿa Dāwūda
+    l-jibāla yusabbiḥna wa-ṭ-ṭayr: mountains and birds praise. In Ps all creation is summoned; in Q they
+    are made to join one man, David, in his praise (cf. David as psalmist).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 148:9
+      lang: he
+      text: הֶהָרִ֥ים וְכָל גְּבָע֑וֹת עֵ֥ץ פְּ֝רִ֗י וְכָל אֲרָזִֽים
+    - ref: Ps 148:10
+      lang: he
+      text: הַֽחַיָּ֥ה וְכָל בְּהֵמָ֑ה רֶ֝֗מֶשׂ וְצִפּ֥וֹר כָּנָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 21:79
+      lang: ar
+      text: فَفَهَّمْنَٰهَا سُلَيْمَٰنَ وَكُلًّا ءَاتَيْنَا حُكْمًا وَعِلْمًا وَسَخَّرْنَا مَعَ دَاوُۥدَ
+        ٱلْجِبَالَ يُسَبِّحْنَ وَٱلطَّيْرَ وَكُنَّا فَٰعِلِينَ
 ---
 
 ## Questions

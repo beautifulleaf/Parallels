@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-4-marriage-forbidden-degrees
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ Inheriting women, the dowry,
   and the forbidden degrees
-summary: 'These two units share 1 motifs: man who lies with a slave woman designated to another man: inquiry
-  and guilt offering, not death, because she is not free.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - betrothed-slave-woman-case
-passages:
-- tradition: judaism
-  ref: Lev 19:20
-  note: 'Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
-    because she is not free (בִּקֹּרֶת - inquiry; not put to death because she was not free)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠אִישׁ כִּֽי יִשְׁכַּ֨ב אֶת אִשָּׁ֜ה שִׁכְבַת זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ וְהָפְדֵּה֙
-    לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖ה לֹ֣א נִתַּן לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ כִּי לֹ֥א חֻפָּֽשָׁה
-- tradition: judaism
-  ref: Lev 19:21
-  note: 'Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
-    because she is not free (בִּקֹּרֶת - inquiry; not put to death because she was not free)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהֵבִ֤יא אֶת אֲשָׁמוֹ֙ לַֽיהוָ֔ה אֶל פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד אֵ֖יל אָשָֽׁם
-- tradition: islam
-  ref: Quran 4:25
-  note: 'Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
-    because she is not free (both laws reduce the penalty because the woman is unfree (Lev 19:20))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا مَلَكَتْ
-    أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم بَعْضُكُم مِّنۢ بَعْضٍ
-    فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ غَيْرَ مُسَٰفِحَٰتٍ
-    وَلَا مُتَّخِذَٰتِ أَخْدَانٍ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا
-    عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ
-    لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Lev 19:20 wĕ-hîʾ šipḥâ neḥĕrepet lĕ-ʾîš ... biqqōret tihyeh lōʾ yûmĕtû kî lōʾ ḥuppāšâ: the
-    slave woman''s case gets an inquiry, not death, ''because she was not free''; Q 4:25 fa-ʿalayhinna
-    niṣfu mā ʿalā l-muḥṣanāti mina l-ʿadhāb: a married slave woman who commits indecency gets half the
-    punishment of a free woman. A lower penalty for the unfree woman in both.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Man who lies with a slave woman designated to another man: inquiry
     and guilt offering, not death, because she is not free (weight 6.7). Pair score 6.7.'
@@ -85,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+  because she is not free'
+kinds:
+- parallel
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-4-marriage-forbidden-degrees
+  title: Inheriting women, the dowry, and the forbidden degrees
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Man who lies with a slave woman designated to another man: inquiry and guilt offering, not death,
+    because she is not free'
+  note: 'Lev 19:20 wĕ-hîʾ šipḥâ neḥĕrepet lĕ-ʾîš ... biqqōret tihyeh lōʾ yûmĕtû kî lōʾ ḥuppāšâ: the slave
+    woman''s case gets an inquiry, not death, ''because she was not free''; Q 4:25 fa-ʿalayhinna niṣfu
+    mā ʿalā l-muḥṣanāti mina l-ʿadhāb: a married slave woman who commits indecency gets half the punishment
+    of a free woman. A lower penalty for the unfree woman in both.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:20
+      lang: he
+      text: וְ֠אִישׁ כִּֽי יִשְׁכַּ֨ב אֶת אִשָּׁ֜ה שִׁכְבַת זֶ֗רַע וְהִ֤וא שִׁפְחָה֙ נֶחֱרֶ֣פֶת לְאִ֔ישׁ
+        וְהָפְדֵּה֙ לֹ֣א נִפְדָּ֔תָה א֥וֹ חֻפְשָׁ֖ה לֹ֣א נִתַּן לָ֑הּ בִּקֹּ֧רֶת תִּהְיֶ֛ה לֹ֥א יוּמְת֖וּ
+        כִּי לֹ֥א חֻפָּֽשָׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:25
+      lang: ar
+      text: وَمَن لَّمْ يَسْتَطِعْ مِنكُمْ طَوْلًا أَن يَنكِحَ ٱلْمُحْصَنَٰتِ ٱلْمُؤْمِنَٰتِ فَمِن مَّا
+        مَلَكَتْ أَيْمَٰنُكُم مِّن فَتَيَٰتِكُمُ ٱلْمُؤْمِنَٰتِ وَٱللَّهُ أَعْلَمُ بِإِيمَٰنِكُم بَعْضُكُم
+        مِّنۢ بَعْضٍ فَٱنكِحُوهُنَّ بِإِذْنِ أَهْلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ بِٱلْمَعْرُوفِ مُحْصَنَٰتٍ
+        غَيْرَ مُسَٰفِحَٰتٍ وَلَا مُتَّخِذَٰتِ أَخْدَانٍ فَإِذَآ أُحْصِنَّ فَإِنْ أَتَيْنَ بِفَٰحِشَةٍ
+        فَعَلَيْهِنَّ نِصْفُ مَا عَلَى ٱلْمُحْصَنَٰتِ مِنَ ٱلْعَذَابِ ذَٰلِكَ لِمَنْ خَشِىَ ٱلْعَنَتَ
+        مِنكُمْ وَأَن تَصْبِرُوا۟ خَيْرٌ لَّكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

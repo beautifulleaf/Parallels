@@ -1,9 +1,7 @@
 ---
 id: motif-hb-1kgs-18-carmel-vs-quran-26-moses-and-pharaoh
 title: Contest on Mount Carmel ↔ Moses and Pharaoh disputing; the magicians; the sea split like mountains
-summary: 'These two units share 2 motifs: how a public contest between god''s prophet and the king''s
-  religious specialists ends [contrast between the texts], prophet''s wonders are imitated by the king''s
-  magicians in a contest.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,96 +14,9 @@ layers:
 motifs:
 - ending-of-contest-with-court-specialists-as-contrast
 - contest-with-court-magicians
-passages:
-- tradition: judaism
-  ref: 1Kgs 18:39
-  note: 'How a public contest between God''s prophet and the king''s religious specialists ends [contrast
-    between the texts] (Ending of a public contest between God''s prophet and the king''s religious specialists.
-    Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the
-    defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
-    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
-    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּרְא֙ כָּל הָעָ֔ם וַֽיִּפְּל֖וּ עַל פְּנֵיהֶ֑ם וַיֹּ֣אמְר֔וּ יְהוָה֙ ה֣וּא הָאֱלֹהִ֔ים יְהוָ֖ה
-    ה֥וּא הָאֱלֹהִֽים
-- tradition: judaism
-  ref: 1Kgs 18:40
-  note: 'How a public contest between God''s prophet and the king''s religious specialists ends [contrast
-    between the texts] (Ending of a public contest between God''s prophet and the king''s religious specialists.
-    Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the
-    defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
-    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
-    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ אֵלִיָּ֨הוּ לָהֶ֜ם תִּפְשׂ֣וּ אֶת נְבִיאֵ֣י הַבַּ֗עַל אִ֛ישׁ אַל יִמָּלֵ֥ט מֵהֶ֖ם וַֽיִּתְפְּשׂ֑וּם
-    וַיּוֹרִדֵ֤ם אֵלִיָּ֨הוּ֙ אֶל נַ֣חַל קִישׁ֔וֹן וַיִּשְׁחָטֵ֖ם שָֽׁם
-- tradition: islam
-  ref: Quran 26:46
-  note: 'How a public contest between God''s prophet and the king''s religious specialists ends [contrast
-    between the texts] (Ending of a public contest between God''s prophet and the king''s religious specialists.
-    Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the
-    defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
-    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
-    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
-- tradition: islam
-  ref: Quran 26:49
-  note: 'How a public contest between God''s prophet and the king''s religious specialists ends [contrast
-    between the texts] (Ending of a public contest between God''s prophet and the king''s religious specialists.
-    Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the
-    defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
-    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
-    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ
-    فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
-    أَجْمَعِينَ
-- tradition: judaism
-  ref: 1Kgs 18:25-29
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (18:25) וַיֹּ֨אמֶר אֵלִיָּ֜הוּ לִנְבִיאֵ֣י הַבַּ֗עַל בַּחֲר֨וּ לָכֶ֜ם הַפָּ֤ר הָֽאֶחָד֙ וַעֲשׂ֣וּ
-    רִאשֹׁנָ֔ה כִּ֥י אַתֶּ֖ם הָרַבִּ֑ים וְקִרְאוּ֙ בְּשֵׁ֣ם אֱלֹהֵיכֶ֔ם וְאֵ֖שׁ לֹ֥א תָשִֽׂימוּ (18:26)
-    וַ֠יִּקְחוּ אֶת הַפָּ֨ר אֲשֶׁר נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם הַ֠בַּעַל מֵהַבֹּ֨קֶר
-    וְעַד הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ עַל הַמִּזְבֵּ֖חַ
-    אֲשֶׁ֥ר עָשָֽׂה (18:27) וַיְהִ֨י בַֽצָּהֳרַ֜יִם וַיְהַתֵּ֧ל בָּהֶ֣ם אֵלִיָּ֗הוּ וַיֹּ֨אמֶר֙ קִרְא֤וּ
-    בְקוֹל גָּדוֹל֙ כִּֽי אֱלֹהִ֣ים ה֔וּא כִּ֣י שִׂ֧יחַ וְכִֽי שִׂ֛יג ל֖וֹ וְכִֽי דֶ֣רֶךְ ל֑וֹ אוּלַ֛י
-    יָשֵׁ֥ן ה֖וּא וְיִקָֽץ (18:28) וַֽיִּקְרְאוּ֙ בְּק֣וֹל גָּד֔וֹל וַיִּתְגֹּֽדְדוּ֙ כְּמִשְׁפָּטָ֔ם
-    בַּחֲרָב֖וֹת וּבָֽרְמָחִ֑ים עַד שְׁפָךְ דָּ֖ם עֲלֵיהֶֽם (18:29) וַֽיְהִי֙ כַּעֲבֹ֣ר הַֽצָּהֳרַ֔יִם
-    וַיִּֽתְנַבְּא֔וּ עַ֖ד לַעֲל֣וֹת הַמִּנְחָ֑ה וְאֵֽין ק֥וֹל וְאֵין עֹנֶ֖ה וְאֵ֥ין קָֽשֶׁב
-- tradition: judaism
-  ref: 1Kgs 18:21
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
-    הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא עָנ֥וּ
-    הָעָ֛ם אֹת֖וֹ דָּבָֽר
-- tradition: islam
-  ref: Quran 26:34
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
-- tradition: islam
-  ref: Quran 26:35
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Ending of a public contest between God''s prophet and the king''s religious specialists.
-    Carmel: the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the
-    defeated prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
-    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
-    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How a public contest between God''s prophet and the king''s religious
     specialists ends [contrast between the texts] (weight 6.7); Prophet''s wonders are imitated by the
@@ -143,6 +54,86 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How a public contest between God's prophet and the king's religious specialists ends
+kinds:
+- contrast
+- shared
+units:
+- id: hb-1kgs-18-carmel
+  title: Contest on Mount Carmel
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: contrast
+  label: How a public contest between God's prophet and the king's religious specialists ends
+  note: 'Ending of a public contest between God''s prophet and the king''s religious specialists. Carmel:
+    the people fall on their faces (wa-yyippəlû ʿal pənêhem) crying YHWH hûʾ hā-ʾĕlōhîm, and the defeated
+    prophets of Baal are slaughtered by the prophet (wa-yyišḥāṭēm šām). Q 26: the defeated specialists
+    themselves fall prostrate and believe, and the tyrant threatens to kill them (la-uqaṭṭiʿanna ... wa-la-uṣallibannakum
+    ajmaʿīn); they answer lā ḍayra innā ilā rabbinā munqalibūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:39
+      lang: he
+      text: וַיַּרְא֙ כָּל הָעָ֔ם וַֽיִּפְּל֖וּ עַל פְּנֵיהֶ֑ם וַיֹּ֣אמְר֔וּ יְהוָה֙ ה֣וּא הָאֱלֹהִ֔ים
+        יְהוָ֖ה ה֥וּא הָאֱלֹהִֽים
+    - ref: 1Kgs 18:40
+      lang: he
+      text: וַיֹּאמֶר֩ אֵלִיָּ֨הוּ לָהֶ֜ם תִּפְשׂ֣וּ אֶת נְבִיאֵ֣י הַבַּ֗עַל אִ֛ישׁ אַל יִמָּלֵ֥ט מֵהֶ֖ם
+        וַֽיִּתְפְּשׂ֑וּם וַיּוֹרִדֵ֤ם אֵלִיָּ֨הוּ֙ אֶל נַ֣חַל קִישׁ֔וֹן וַיִּשְׁחָטֵ֖ם שָֽׁם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:46
+      lang: ar
+      text: فَأُلْقِىَ ٱلسَّحَرَةُ سَٰجِدِينَ
+    - ref: Quran 26:49
+      lang: ar
+      text: قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ
+        ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَٰفٍ وَلَأُصَلِّبَنَّكُمْ
+        أَجْمَعِينَ
+    - ref: Quran 26:50
+      lang: ar
+      text: قَالُوا۟ لَا ضَيْرَ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 18:25-29
+      lang: he
+      text: (18:25) וַיֹּ֨אמֶר אֵלִיָּ֜הוּ לִנְבִיאֵ֣י הַבַּ֗עַל בַּחֲר֨וּ לָכֶ֜ם הַפָּ֤ר הָֽאֶחָד֙ וַעֲשׂ֣וּ
+        רִאשֹׁנָ֔ה כִּ֥י אַתֶּ֖ם הָרַבִּ֑ים וְקִרְאוּ֙ בְּשֵׁ֣ם אֱלֹהֵיכֶ֔ם וְאֵ֖שׁ לֹ֥א תָשִֽׂימוּ (18:26)
+        וַ֠יִּקְחוּ אֶת הַפָּ֨ר אֲשֶׁר נָתַ֣ן לָהֶם֮ וַֽיַּעֲשׂוּ֒ וַיִּקְרְא֣וּ בְשֵׁם הַ֠בַּעַל מֵהַבֹּ֨קֶר
+        וְעַד הַצָּהֳרַ֤יִם לֵאמֹר֙ הַבַּ֣עַל עֲנֵ֔נוּ וְאֵ֥ין ק֖וֹל וְאֵ֣ין עֹנֶ֑ה וַֽיְפַסְּח֔וּ עַל
+        הַמִּזְבֵּ֖חַ אֲשֶׁ֥ר עָשָֽׂה (18:27) וַיְהִ֨י בַֽצָּהֳרַ֜יִם וַיְהַתֵּ֧ל בָּהֶ֣ם אֵלִיָּ֗הוּ
+        וַיֹּ֨אמֶר֙ קִרְא֤וּ בְקוֹל גָּדוֹל֙ כִּֽי אֱלֹהִ֣ים ה֔וּא כִּ֣י שִׂ֧יחַ וְכִֽי שִׂ֛יג ל֖וֹ וְכִֽי
+        דֶ֣רֶךְ ל֑וֹ אוּלַ֛י יָשֵׁ֥ן ה֖וּא וְיִקָֽץ (18:28) וַֽיִּקְרְאוּ֙ בְּק֣וֹל גָּד֔וֹל וַיִּתְגֹּֽדְדוּ֙
+        כְּמִשְׁפָּטָ֔ם בַּחֲרָב֖וֹת וּבָֽרְמָחִ֑ים עַד שְׁפָךְ דָּ֖ם עֲלֵיהֶֽם (18:29) וַֽיְהִי֙ כַּעֲבֹ֣ר
+        הַֽצָּהֳרַ֔יִם וַיִּֽתְנַבְּא֔וּ עַ֖ד לַעֲל֣וֹת הַמִּנְחָ֑ה וְאֵֽין ק֥וֹל וְאֵין עֹנֶ֖ה וְאֵ֥ין
+        קָֽשֶׁב
+    - ref: 1Kgs 18:21
+      lang: he
+      text: וַיִּגַּ֨שׁ אֵלִיָּ֜הוּ אֶל כָּל הָעָ֗ם וַיֹּ֨אמֶר֙ עַד מָתַ֞י אַתֶּ֣ם פֹּסְחִים֮ עַל שְׁתֵּ֣י
+        הַסְּעִפִּים֒ אִם יְהוָ֤ה הָֽאֱלֹהִים֙ לְכ֣וּ אַחֲרָ֔יו וְאִם הַבַּ֖עַל לְכ֣וּ אַחֲרָ֑יו וְלֹֽא
+        עָנ֥וּ הָעָ֛ם אֹת֖וֹ דָּבָֽר
+    - ref: 1Kgs 18:24
+      lang: he
+      text: וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר
+        יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 26:34
+      lang: ar
+      text: قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَٰذَا لَسَٰحِرٌ عَلِيمٌ
+    - ref: Quran 26:35
+      lang: ar
+      text: يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ
+    - ref: Quran 26:36
+      lang: ar
+      text: قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَٰشِرِينَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-dan-2-dream-demand-vs-quran-3-sovereignty
 title: Nebuchadnezzar demands his dream be told; the mystery revealed to Daniel ↔ Owner of sovereignty
-summary: 'These two units share 1 motifs: god changes times and seasons, deposes kings and sets up kings.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,52 +14,9 @@ layers:
 - motif
 motifs:
 - god-changes-times-and-kings
-passages:
-- tradition: judaism
-  ref: Dan 2:21
-  note: God changes times and seasons, deposes kings and sets up kings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠הוּא מְהַשְׁנֵ֤א עִדָּנַיָּא֙ וְזִמְנַיָּ֔א מְהַעְדֵּ֥ה מַלְכִ֖ין וּמְהָקֵ֣ים מַלְכִ֑ין יָהֵ֤ב
-    חָכְמְתָא֙ לְחַכִּימִ֔ין וּמַנְדְּעָ֖א לְיָדְעֵ֥י בִינָֽה
-- tradition: judaism
-  ref: Dan 2:22
-  note: God changes times and seasons, deposes kings and sets up kings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א ונהירא וּנְהוֹרָ֖א עִמֵּ֥הּ
-    שְׁרֵֽא
-- tradition: islam
-  ref: Quran 3:26
-  note: 'God changes times and seasons, deposes kings and sets up kings (Dan 2:21-22 mĕhašnēʾ ʿiddānayyāʾ
-    wĕ-zimnayyāʾ mĕhaʿdēh malkîn û-mĕhāqēm malkîn ... yādaʿ mah ba-ḥăšôkāʾ: God changes times and seasons,
-    removes and sets up kings, knows what is in the darkness; Q 3:26-27, 29 tuʾtī l-mulka ... wa-tanziʿu
-    l-mulka ... tūliju l-layla fī n-nahāri ... in tukhfū mā fī ṣudūrikum aw tubdūhu yaʿlamhu llāh: he
-    gives and removes kingship, makes night enter day, and knows what is hidden in the breast. The same
-    three themes (kings, times, hidden knowledge) in one doxology.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ
-    وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: islam
-  ref: Quran 3:27
-  note: 'God changes times and seasons, deposes kings and sets up kings (Dan 2:21-22 mĕhašnēʾ ʿiddānayyāʾ
-    wĕ-zimnayyāʾ mĕhaʿdēh malkîn û-mĕhāqēm malkîn ... yādaʿ mah ba-ḥăšôkāʾ: God changes times and seasons,
-    removes and sets up kings, knows what is in the darkness; Q 3:26-27, 29 tuʾtī l-mulka ... wa-tanziʿu
-    l-mulka ... tūliju l-layla fī n-nahāri ... in tukhfū mā fī ṣudūrikum aw tubdūhu yaʿlamhu llāh: he
-    gives and removes kingship, makes night enter day, and knows what is hidden in the breast. The same
-    three themes (kings, times, hidden knowledge) in one doxology.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ
-    وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Dan 2:21-22 mĕhašnēʾ ʿiddānayyāʾ wĕ-zimnayyāʾ mĕhaʿdēh malkîn û-mĕhāqēm malkîn ... yādaʿ
-    mah ba-ḥăšôkāʾ: God changes times and seasons, removes and sets up kings, knows what is in the darkness;
-    Q 3:26-27, 29 tuʾtī l-mulka ... wa-tanziʿu l-mulka ... tūliju l-layla fī n-nahāri ... in tukhfū mā
-    fī ṣudūrikum aw tubdūhu yaʿlamhu llāh: he gives and removes kingship, makes night enter day, and knows
-    what is hidden in the breast. The same three themes (kings, times, hidden knowledge) in one doxology.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God changes times and seasons, deposes kings and sets up kings (weight
     6.7). Pair score 6.7.'
@@ -89,6 +46,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God changes times and seasons, deposes kings and sets up kings
+kinds:
+- parallel
+units:
+- id: hb-dan-2-dream-demand
+  title: Nebuchadnezzar demands his dream be told; the mystery revealed to Daniel
+  tradition: judaism
+- id: quran-3-sovereignty
+  title: Owner of sovereignty
+  tradition: islam
+matches:
+- kind: parallel
+  label: God changes times and seasons, deposes kings and sets up kings
+  note: 'Dan 2:21-22 mĕhašnēʾ ʿiddānayyāʾ wĕ-zimnayyāʾ mĕhaʿdēh malkîn û-mĕhāqēm malkîn ... yādaʿ mah
+    ba-ḥăšôkāʾ: God changes times and seasons, removes and sets up kings, knows what is in the darkness;
+    Q 3:26-27, 29 tuʾtī l-mulka ... wa-tanziʿu l-mulka ... tūliju l-layla fī n-nahāri ... in tukhfū mā
+    fī ṣudūrikum aw tubdūhu yaʿlamhu llāh: he gives and removes kingship, makes night enter day, and knows
+    what is hidden in the breast. The same three themes (kings, times, hidden knowledge) in one doxology.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 2:21
+      lang: he
+      text: וְ֠הוּא מְהַשְׁנֵ֤א עִדָּנַיָּא֙ וְזִמְנַיָּ֔א מְהַעְדֵּ֥ה מַלְכִ֖ין וּמְהָקֵ֣ים מַלְכִ֑ין
+        יָהֵ֤ב חָכְמְתָא֙ לְחַכִּימִ֔ין וּמַנְדְּעָ֖א לְיָדְעֵ֥י בִינָֽה
+    - ref: Dan 2:22
+      lang: he
+      text: ה֛וּא גָּלֵ֥א עַמִּיקָתָ֖א וּמְסַתְּרָתָ֑א יָדַע֙ מָ֣ה בַחֲשׁוֹכָ֔א ונהירא וּנְהוֹרָ֖א עִמֵּ֥הּ
+        שְׁרֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 3:26
+      lang: ar
+      text: قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن
+        تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
+    - ref: Quran 3:27
+      lang: ar
+      text: تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ
+        ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ
+    - ref: Quran 3:29
+      lang: ar
+      text: قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ وَيَعْلَمُ مَا فِى
+        ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-44-closed-gate-priests-vs-quran-9-hunayn-jizya
 title: The shut east gate, foreigners excluded, Levites and Zadokite priests ↔ Hunayn, the impurity of
   polytheists, the jizya
-summary: 'These two units share 1 motifs: no foreigner uncircumcised in heart and flesh may enter the
-  sanctuary.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - foreigners-barred-from-sanctuary
-passages:
-- tradition: judaism
-  ref: Ezek 44:7
-  note: No foreigner uncircumcised in heart and flesh may enter the sanctuary (arle lev ve-arle basar)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּהֲבִיאֲכֶ֣ם בְּנֵֽי נֵכָ֗ר עַרְלֵי לֵב֙ וְעַרְלֵ֣י בָשָׂ֔ר לִהְי֥וֹת בְּמִקְדָּשִׁ֖י לְחַלְּל֣וֹ
-    אֶת בֵּיתִ֑י בְּהַקְרִֽיבְכֶ֤ם אֶת לַחְמִי֙ חֵ֣לֶב וָדָ֔ם וַיָּפֵ֨רוּ֙ אֶת בְּרִיתִ֔י אֶ֖ל כָּל תּוֹעֲבוֹתֵיכֶֽם
-- tradition: judaism
-  ref: Ezek 44:9
-  note: No foreigner uncircumcised in heart and flesh may enter the sanctuary (arle lev ve-arle basar)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּה אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כָּל בֶּן נֵכָ֗ר עֶ֤רֶל לֵב֙ וְעֶ֣רֶל בָּשָׂ֔ר לֹ֥א יָב֖וֹא אֶל מִקְדָּשִׁ֑י
-    לְכָל בֶּן נֵכָ֔ר אֲשֶׁ֕ר בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 9:28
-  note: 'No foreigner uncircumcised in heart and flesh may enter the sanctuary (A whole class of outsiders
-    barred from God''s sanctuary: fa-lā yaqrabū l-masjida l-ḥarāma baʿda ʿāmihim hādhā vs kol-ben-nēkār
-    ʿerel lēb wᵉʿerel bāśār lōʾ yābôʾ ʾel-miqdāšî. Ezek bars foreigners uncircumcised in heart and flesh;
-    Q bars polytheists as impure.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
-    ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
-    إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. A whole class of outsiders barred from God''s sanctuary: fa-lā yaqrabū l-masjida l-ḥarāma
-    baʿda ʿāmihim hādhā vs kol-ben-nēkār ʿerel lēb wᵉʿerel bāśār lōʾ yābôʾ ʾel-miqdāšî. Ezek bars foreigners
-    uncircumcised in heart and flesh; Q bars polytheists as impure.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No foreigner uncircumcised in heart and flesh may enter the sanctuary
     (weight 6.7). Pair score 6.7.'
@@ -81,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No foreigner uncircumcised in heart and flesh may enter the sanctuary
+kinds:
+- parallel
+units:
+- id: hb-ezek-44-closed-gate-priests
+  title: The shut east gate, foreigners excluded, Levites and Zadokite priests
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: parallel
+  label: No foreigner uncircumcised in heart and flesh may enter the sanctuary
+  note: 'A whole class of outsiders barred from God''s sanctuary: fa-lā yaqrabū l-masjida l-ḥarāma baʿda
+    ʿāmihim hādhā vs kol-ben-nēkār ʿerel lēb wᵉʿerel bāśār lōʾ yābôʾ ʾel-miqdāšî. Ezek bars foreigners
+    uncircumcised in heart and flesh; Q bars polytheists as impure.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 44:9
+      lang: he
+      text: כֹּה אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כָּל בֶּן נֵכָ֗ר עֶ֤רֶל לֵב֙ וְעֶ֣רֶל בָּשָׂ֔ר לֹ֥א יָב֖וֹא אֶל
+        מִקְדָּשִׁ֑י לְכָל בֶּן נֵכָ֔ר אֲשֶׁ֕ר בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 9:28
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
+        ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
+        إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

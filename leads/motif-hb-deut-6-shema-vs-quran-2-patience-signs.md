@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-6-shema-vs-quran-2-patience-signs
 title: The Shema and the instruction to teach ↔ Patience, Safa and Marwa, signs of creation
-summary: 'These two units share 1 motifs: hear o israel: yhwh our god, yhwh is one.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,24 +14,9 @@ layers:
 - motif
 motifs:
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Deut 6:4
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
-- tradition: islam
-  ref: Quran 2:163
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Deut 6:4 šĕmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād; Q 2:163 wa-ilāhukum ilāhun wāḥidun lā
-    ilāha illā huwa r-raḥmānu r-raḥīm: ''your God is one God''. Address to Israel vs address to all hearers;
-    the Quran adds the r-ḥ-m pair of names.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
     5.4.'
@@ -63,6 +48,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hear O Israel: YHWH our God, YHWH is one'
+kinds:
+- parallel
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-2-patience-signs
+  title: Patience, Safa and Marwa, signs of creation
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: 'Deut 6:4 šĕmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥād; Q 2:163 wa-ilāhukum ilāhun wāḥidun lā ilāha
+    illā huwa r-raḥmānu r-raḥīm: ''your God is one God''. Address to Israel vs address to all hearers;
+    the Quran adds the r-ḥ-m pair of names.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:4
+      lang: he
+      text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 2:163
+      lang: ar
+      text: وَإِلَٰهُكُمْ إِلَٰهٌ وَٰحِدٌ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحْمَٰنُ ٱلرَّحِيمُ
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-ps-105-history-vs-quran-20-moses-pharaoh-magicians
 title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus ↔ Moses and Aaron
   before Pharaoh; the contest with the magicians
-summary: 'These two units share 2 motifs: the king''s heart is hardened (by himself or by god) so he refuses
-  to release the people [divergence between the texts], the king''s heart is hardened (by himself or by
-  god) so he refuses to release the people.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,38 +16,7 @@ layers:
 motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned
-    the Egyptians' heart to hate his people).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 20:56
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq
-    lēb parʿōh ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā
-    fa-kadhdhaba wa-abā, and God''s hand in it is not stated.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
-- tradition: judaism
-  ref: Ps 105:25
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (here
-    God turns the Egyptians' hearts, not Pharaoh's alone)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
-- tradition: islam
-  ref: Quran 20:56
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (shown
-    all the signs, he denied and refused)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The king''s heart is hardened (by himself or by God) so he refuses
     to release the people [divergence between the texts] (weight 5.6); The king''s heart is hardened (by
@@ -89,6 +56,50 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- shared
+units:
+- id: hb-ps-105-history
+  title: Psalm 105, historical hymn from the patriarchs through Joseph and the exodus
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:25
+      lang: he
+      text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+    note: fa-kadhdhaba wa-ʿaṣā (Pharaoh's own act) ~ hāfak libbām liśnōʾ ʿammô (God turned the Egyptians'
+      heart to hate his people).
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+    note: 'Exod: God hardens, waʾănî ʾaqšeh ʾet-lēb parʿōh wəhirbêtî ʾet-ʾōtōtay, and wayyeḥĕzaq lēb parʿōh
+      ... kaʾăšer dibber YHWH. Q: Pharaoh himself refuses, wa-la-qad araynāhu āyātinā kullahā fa-kadhdhaba
+      wa-abā, and God''s hand in it is not stated.'
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 105:25
+      lang: he
+      text: הָפַ֣ךְ לִ֭בָּם לִשְׂנֹ֣א עַמּ֑וֹ לְ֝הִתְנַכֵּ֗ל בַּעֲבָדָֽיו
+    note: here God turns the Egyptians' hearts, not Pharaoh's alone
+  - tradition: islam
+    passages:
+    - ref: Quran 20:56
+      lang: ar
+      text: وَلَقَدْ أَرَيْنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ
+    note: shown all the signs, he denied and refused
 ---
 
 ## Questions

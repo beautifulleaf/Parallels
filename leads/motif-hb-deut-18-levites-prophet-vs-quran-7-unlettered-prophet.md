@@ -2,9 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-7-unlettered-prophet
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ The unlettered prophet foretold
   in Torah and Gospel
-summary: 'These two units share 2 motifs: a future prophet promised in the earlier scripture [response
-  between the texts], god will raise up a prophet like moses from among the brothers and put his words
-  in his mouth.'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -17,76 +15,9 @@ layers:
 motifs:
 - promised-future-prophet-as-response
 - prophet-like-moses
-passages:
-- tradition: judaism
-  ref: Deut 18:15
-  note: 'A future prophet promised in the earlier scripture [response between the texts] (Q says the people
-    of the book find the prophet ''written with them in the Torah'' (yajidūnahu maktūban ʿindahum fī t-tawrāti
-    wa-l-injīl), and Islamic exegesis points to Deut 18. Deut promises nābîʾ ... mēʾaḥêkā kāmōnî / ʾāqîm
-    lāhem miqqereb ʾăḥêhem kāmôkā wᵉnātattî dᵉbāray bᵉpîw. Deut speaks of a prophet ''from among your
-    brothers''; Q identifies him as al-nabī al-ummī, sent beyond Israel. Lead for checking: the Torah
-    text names no one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'A future prophet promised in the earlier scripture [response between the texts] (Q says the people
-    of the book find the prophet ''written with them in the Torah'' (yajidūnahu maktūban ʿindahum fī t-tawrāti
-    wa-l-injīl), and Islamic exegesis points to Deut 18. Deut promises nābîʾ ... mēʾaḥêkā kāmōnî / ʾāqîm
-    lāhem miqqereb ʾăḥêhem kāmôkā wᵉnātattî dᵉbāray bᵉpîw. Deut speaks of a prophet ''from among your
-    brothers''; Q identifies him as al-nabī al-ummī, sent beyond Israel. Lead for checking: the Torah
-    text names no one.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 7:157
-  note: 'A future prophet promised in the earlier scripture [response between the texts] (Q says the people
-    of the book find the prophet ''written with them in the Torah'' (yajidūnahu maktūban ʿindahum fī t-tawrāti
-    wa-l-injīl), and Islamic exegesis points to Deut 18. Deut promises nābîʾ ... mēʾaḥêkā kāmōnî / ʾāqîm
-    lāhem miqqereb ʾăḥêhem kāmôkā wᵉnātattî dᵉbāray bᵉpîw. Deut speaks of a prophet ''from among your
-    brothers''; Q identifies him as al-nabī al-ummī, sent beyond Israel. Lead for checking: the Torah
-    text names no one.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
-    فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
-    لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
-    ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ
-    ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
-- tradition: judaism
-  ref: Deut 18:15
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 7:157
-  note: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
-    (Islamic exegesis applies Deut 18:18)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
-    فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
-    لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
-    ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ
-    ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    response. Q says the people of the book find the prophet ''written with them in the Torah'' (yajidūnahu
-    maktūban ʿindahum fī t-tawrāti wa-l-injīl), and Islamic exegesis points to Deut 18. Deut promises
-    nābîʾ ... mēʾaḥêkā kāmōnî / ʾāqîm lāhem miqqereb ʾăḥêhem kāmôkā wᵉnātattî dᵉbāray bᵉpîw. Deut speaks
-    of a prophet ''from among your brothers''; Q identifies him as al-nabī al-ummī, sent beyond Israel.
-    Lead for checking: the Torah text names no one.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A future prophet promised in the earlier scripture [response between
     the texts] (weight 6.7); God will raise up a prophet like Moses from among the brothers and put his
@@ -117,6 +48,70 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A future prophet promised in the earlier scripture
+kinds:
+- response
+- shared
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-7-unlettered-prophet
+  title: The unlettered prophet foretold in Torah and Gospel
+  tradition: islam
+matches:
+- kind: response
+  label: A future prophet promised in the earlier scripture
+  note: 'Q says the people of the book find the prophet ''written with them in the Torah'' (yajidūnahu
+    maktūban ʿindahum fī t-tawrāti wa-l-injīl), and Islamic exegesis points to Deut 18. Deut promises
+    nābîʾ ... mēʾaḥêkā kāmōnî / ʾāqîm lāhem miqqereb ʾăḥêhem kāmôkā wᵉnātattî dᵉbāray bᵉpîw. Deut speaks
+    of a prophet ''from among your brothers''; Q identifies him as al-nabī al-ummī, sent beyond Israel.
+    Lead for checking: the Torah text names no one.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:157
+      lang: ar
+      text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
+        فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
+        لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
+        ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟
+        ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+- kind: shared
+  label: God will raise up a prophet like Moses from among the brothers and put his words in his mouth
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+    - ref: Deut 18:19
+      lang: he
+      text: וְהָיָ֗ה הָאִישׁ֙ אֲשֶׁ֤ר לֹֽא יִשְׁמַע֙ אֶל דְּבָרַ֔י אֲשֶׁ֥ר יְדַבֵּ֖ר בִּשְׁמִ֑י אָנֹכִ֖י
+        אֶדְרֹ֥שׁ מֵעִמּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:157
+      lang: ar
+      text: ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ
+        فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ
+        لَهُمُ ٱلطَّيِّبَٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَٰلَ
+        ٱلَّتِى كَانَتْ عَلَيْهِمْ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟
+        ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ أُو۟لَٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ
+    note: Islamic exegesis applies Deut 18:18
 ---
 
 ## Questions

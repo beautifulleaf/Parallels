@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-6-prophet-consoled-signs
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ The Prophet consoled; a ladder to the
   sky; animals as communities
-summary: 'These two units share 1 motifs: when harm touches people they turn to god; when he gives them
-  relief a party of them associates partners again.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,45 +15,9 @@ layers:
 - motif
 motifs:
 - distress-prayer-then-ingratitude
-passages:
-- tradition: judaism
-  ref: Ps 78:34
-  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
-    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
-    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ אֵֽל
-- tradition: judaism
-  ref: Ps 78:36
-  note: 'When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again (Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
-    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
-    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ לֽוֹ
-- tradition: islam
-  ref: Quran 6:40
-  note: When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ
-    تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
-- tradition: islam
-  ref: Quran 6:41
-  note: When harm touches people they turn to God; when he gives them relief a party of them associates
-    partners again
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
-    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
-    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: When harm touches people they turn to God; when he gives them relief
     a party of them associates partners again (weight 5.4). Pair score 5.4.'
@@ -90,6 +53,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: When harm touches people they turn to God; when he gives them relief a party of them associates
+  partners again
+kinds:
+- parallel
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-6-prophet-consoled-signs
+  title: The Prophet consoled; a ladder to the sky; animals as communities
+  tradition: islam
+matches:
+- kind: parallel
+  label: When harm touches people they turn to God; when he gives them relief a party of them associates
+    partners again
+  note: 'Turning to God under blows, then relapsing. Ps: ʾim-hărāgām û-dərāšûhû wə-šāvû wə-šiḥărû-ʾēl
+    ... wa-yfattûhû bə-fîhem ... wə-libbām lōʾ-nākhôn ʿimmô. Q: bal iyyāhu tadʿūna fa-yakshifu mā tadʿūna
+    ilayhi ... wa-tansawna mā tushrikūna; 6:43 wa-lākin qasat qulūbuhum.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:34
+      lang: he
+      text: אִם הֲרָגָ֥ם וּדְרָשׁ֑וּהוּ וְ֝שָׁ֗בוּ וְשִֽׁחֲרוּ אֵֽל
+    - ref: Ps 78:36
+      lang: he
+      text: וַיְפַתּ֥וּהוּ בְּפִיהֶ֑ם וּ֝בִלְשׁוֹנָ֗ם יְכַזְּבוּ לֽוֹ
+    - ref: Ps 78:37
+      lang: he
+      text: וְ֭לִבָּם לֹא נָכ֣וֹן עִמּ֑וֹ וְלֹ֥א נֶ֝אֶמְנ֗וּ בִּבְרִיתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:40
+      lang: ar
+      text: قُلْ أَرَءَيْتَكُمْ إِنْ أَتَىٰكُمْ عَذَابُ ٱللَّهِ أَوْ أَتَتْكُمُ ٱلسَّاعَةُ أَغَيْرَ ٱللَّهِ
+        تَدْعُونَ إِن كُنتُمْ صَٰدِقِينَ
+    - ref: Quran 6:41
+      lang: ar
+      text: بَلْ إِيَّاهُ تَدْعُونَ فَيَكْشِفُ مَا تَدْعُونَ إِلَيْهِ إِن شَآءَ وَتَنسَوْنَ مَا تُشْرِكُونَ
+    - ref: Quran 6:43
+      lang: ar
+      text: فَلَوْلَآ إِذْ جَآءَهُم بَأْسُنَا تَضَرَّعُوا۟ وَلَٰكِن قَسَتْ قُلُوبُهُمْ وَزَيَّنَ لَهُمُ
+        ٱلشَّيْطَٰنُ مَا كَانُوا۟ يَعْمَلُونَ
 ---
 
 ## Questions

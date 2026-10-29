@@ -2,8 +2,7 @@
 id: motif-hb-prov-22-solomon-sayings-end-vs-quran-26-abraham
 title: End of the first Solomonic collection (good name, training a child) ↔ Abraham's argument against
   idols and his prayer
-summary: 'These two units share 1 motifs: a good name is to be chosen rather than great riches, favor
-  rather than silver and gold.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,23 +14,9 @@ layers:
 - motif
 motifs:
 - good-name-better-than-riches
-passages:
-- tradition: judaism
-  ref: Prov 22:1
-  note: A good name is to be chosen rather than great riches, favor rather than silver and gold
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נִבְחָ֣ר שֵׁ֭ם מֵעֹ֣שֶׁר רָ֑ב מִכֶּ֥סֶף וּ֝מִזָּהָ֗ב חֵ֣ן טֽוֹב
-- tradition: islam
-  ref: Quran 26:84
-  note: A good name is to be chosen rather than great riches, favor rather than silver and gold
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْءَاخِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-jʿal lī lisāna ṣidqin fī l-ākhirīna ~ nivḥār šēm mē-ʿōšer rāv: a good name (šēm / lisān ṣidq)
-    among others; the Quran''s Abraham asks for it among later generations.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A good name is to be chosen rather than great riches, favor rather
     than silver and gold (weight 6.3). Pair score 6.3.'
@@ -67,6 +52,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A good name is to be chosen rather than great riches, favor rather than silver and gold
+kinds:
+- echo
+units:
+- id: hb-prov-22-solomon-sayings-end
+  title: End of the first Solomonic collection (good name, training a child)
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: echo
+  label: A good name is to be chosen rather than great riches, favor rather than silver and gold
+  note: 'wa-jʿal lī lisāna ṣidqin fī l-ākhirīna ~ nivḥār šēm mē-ʿōšer rāv: a good name (šēm / lisān ṣidq)
+    among others; the Quran''s Abraham asks for it among later generations.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 22:1
+      lang: he
+      text: נִבְחָ֣ר שֵׁ֭ם מֵעֹ֣שֶׁר רָ֑ב מִכֶּ֥סֶף וּ֝מִזָּהָ֗ב חֵ֣ן טֽוֹב
+  - tradition: islam
+    passages:
+    - ref: Quran 26:84
+      lang: ar
+      text: وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْءَاخِرِينَ
 ---
 
 ## Questions

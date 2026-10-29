@@ -2,8 +2,7 @@
 id: motif-hb-jer-23-against-prophets-vs-quran-23-sects-and-the-heedless
 title: Concerning the prophets - who has stood in the council of YHWH? ↔ One community split into sects;
   the heedless rich and the God-fearing
-summary: 'These two units share 1 motifs: god did not send the prophets who promise peace; they prophesy
-  a lying vision, divination and the deceit of their heart.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - false-prophets-not-sent
-passages:
-- tradition: judaism
-  ref: Jer 23:16
-  note: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
-    the deceit of their heart (a vision of their own heart, not from the mouth of YHWH; 'I did not send
-    them, yet they ran')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים לָכֶ֔ם
-    מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
-- tradition: judaism
-  ref: Jer 23:21
-  note: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
-    the deceit of their heart (a vision of their own heart, not from the mouth of YHWH; 'I did not send
-    them, yet they ran')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא שָׁלַ֥חְתִּי אֶת הַנְּבִאִ֖ים וְהֵ֣ם רָ֑צוּ לֹא דִבַּ֥רְתִּי אֲלֵיהֶ֖ם וְהֵ֥ם נִבָּֽאוּ
-- tradition: islam
-  ref: Quran 23:71
-  note: 'God did not send the prophets who promise peace; they prophesy a lying vision, divination and
-    the deceit of their heart (law ittabaʿa l-ḥaqqu ahwāʾahum ~ ḥăzôn libbām yədabbērû lōʾ mip-pî YHWH
-    ... wə-khōl hōlēkh bi-šrīrût libbô ʾāmərû lōʾ tāvôʾ ʿălêkem rāʿâ: a message shaped by the hearers''
-    own heart or desire (ahwāʾ / šərîrût lēv).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ بَلْ
-    أَتَيْنَٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. law ittabaʿa l-ḥaqqu ahwāʾahum ~ ḥăzôn libbām yədabbērû lōʾ mip-pî YHWH ... wə-khōl hōlēkh bi-šrīrût
-    libbô ʾāmərû lōʾ tāvôʾ ʿălêkem rāʿâ: a message shaped by the hearers'' own heart or desire (ahwāʾ
-    / šərîrût lēv).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God did not send the prophets who promise peace; they prophesy a
     lying vision, divination and the deceit of their heart (weight 5.6). Pair score 5.6.'
@@ -85,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
+  the deceit of their heart
+kinds:
+- echo
+units:
+- id: hb-jer-23-against-prophets
+  title: Concerning the prophets - who has stood in the council of YHWH?
+  tradition: judaism
+- id: quran-23-sects-and-the-heedless
+  title: One community split into sects; the heedless rich and the God-fearing
+  tradition: islam
+matches:
+- kind: echo
+  label: God did not send the prophets who promise peace; they prophesy a lying vision, divination and
+    the deceit of their heart
+  note: 'law ittabaʿa l-ḥaqqu ahwāʾahum ~ ḥăzôn libbām yədabbērû lōʾ mip-pî YHWH ... wə-khōl hōlēkh bi-šrīrût
+    libbô ʾāmərû lōʾ tāvôʾ ʿălêkem rāʿâ: a message shaped by the hearers'' own heart or desire (ahwāʾ
+    / šərîrût lēv).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 23:16
+      lang: he
+      text: כֹּֽה אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת אַֽל תִּשְׁמְע֞וּ עַל דִּבְרֵ֤י הַנְּבִאִים֙ הַנִּבְּאִ֣ים
+        לָכֶ֔ם מַהְבִּלִ֥ים הֵ֖מָּה אֶתְכֶ֑ם חֲז֤וֹן לִבָּם֙ יְדַבֵּ֔רוּ לֹ֖א מִפִּ֥י יְהוָֽה
+    - ref: Jer 23:17
+      lang: he
+      text: אֹמְרִ֤ים אָמוֹר֙ לִֽמְנַאֲצַ֔י דִּבֶּ֣ר יְהוָ֔ה שָׁל֖וֹם יִֽהְיֶ֣ה לָכֶ֑ם וְ֠כֹל הֹלֵ֞ךְ
+        בִּשְׁרִר֤וּת לִבּוֹ֙ אָֽמְר֔וּ לֹֽא תָב֥וֹא עֲלֵיכֶ֖ם רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 23:71
+      lang: ar
+      text: وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ وَمَن فِيهِنَّ
+        بَلْ أَتَيْنَٰهُم بِذِكْرِهِمْ فَهُمْ عَن ذِكْرِهِم مُّعْرِضُونَ
 ---
 
 ## Questions

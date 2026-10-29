@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-13-oracle-against-babylon-vs-quran-3-badr-uhud
 title: Oracle against Babylon; the Day of YHWH darkens the heavens ↔ Badr and Uhud
-summary: 'These two units share 1 motifs: god musters his consecrated ones and mighty men; a host from
-  the end of heaven, the weapons of his wrath.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +13,9 @@ layers:
 - motif
 motifs:
 - gods-consecrated-warriors-mustered
-passages:
-- tradition: judaism
-  ref: Isa 13:2-5
-  note: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
-    his wrath (banner on a bare mountain; 'from the end of heaven')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (13:2) עַ֤ל הַר נִשְׁפֶּה֙ שְֽׂאוּ נֵ֔ס הָרִ֥ימוּ ק֖וֹל לָהֶ֑ם הָנִ֣יפוּ יָ֔ד וְיָבֹ֖אוּ פִּתְחֵ֥י
-    נְדִיבִֽים (13:3) אֲנִ֥י צִוֵּ֖יתִי לִמְקֻדָּשָׁ֑י גַּ֣ם קָרָ֤אתִי גִבּוֹרַי֙ לְאַפִּ֔י עַלִּיזֵ֖י
-    גַּאֲוָתִֽי (13:4) ק֥וֹל הָמ֛וֹן בֶּֽהָרִ֖ים דְּמ֣וּת עַם רָ֑ב ק֠וֹל שְׁא֞וֹן מַמְלְכ֤וֹת גּוֹיִם֙
-    נֶֽאֱסָפִ֔ים יְהוָ֣ה צְבָא֔וֹת מְפַקֵּ֖ד צְבָ֥א מִלְחָמָֽה (13:5) בָּאִ֛ים מֵאֶ֥רֶץ מֶרְחָ֖ק מִקְצֵ֣ה
-    הַשָּׁמָ֑יִם יְהוָה֙ וּכְלֵ֣י זַעְמ֔וֹ לְחַבֵּ֖ל כָּל הָאָֽרֶץ
-- tradition: judaism
-  ref: Isa 13:3
-  note: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
-    his wrath (banner on a bare mountain; 'from the end of heaven')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִ֥י צִוֵּ֖יתִי לִמְקֻדָּשָׁ֑י גַּ֣ם קָרָ֤אתִי גִבּוֹרַי֙ לְאַפִּ֔י עַלִּיזֵ֖י גַּאֲוָתִֽי
-- tradition: islam
-  ref: Quran 3:124
-  note: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
-    his wrath (angels sent down, marked (musawwimin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍ
-    مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
-- tradition: islam
-  ref: Quran 3:125
-  note: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
-    his wrath (angels sent down, marked (musawwimin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلَىٰٓ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُم
-    بِخَمْسَةِ ءَالَٰفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ مُسَوِّمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 13:3 ʾănî ṣiwwêtî li-mquddāšāy gam qārāʾtî gibbôray lĕ-ʾappî: God musters his consecrated
-    warriors for his wrath; Q 3:125 yumdidkum rabbukum bi-khamsati ālāfin mina l-malāʾikati musawwimīn:
-    God reinforces with marked angels.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God musters his consecrated ones and mighty men; a host from the
     end of heaven, the weapons of his wrath (weight 6.7). Pair score 6.7.'
@@ -88,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
+  his wrath
+kinds:
+- echo
+units:
+- id: hb-isa-13-oracle-against-babylon
+  title: Oracle against Babylon; the Day of YHWH darkens the heavens
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: echo
+  label: God musters his consecrated ones and mighty men; a host from the end of heaven, the weapons of
+    his wrath
+  note: 'Isa 13:3 ʾănî ṣiwwêtî li-mquddāšāy gam qārāʾtî gibbôray lĕ-ʾappî: God musters his consecrated
+    warriors for his wrath; Q 3:125 yumdidkum rabbukum bi-khamsati ālāfin mina l-malāʾikati musawwimīn:
+    God reinforces with marked angels.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 13:3
+      lang: he
+      text: אֲנִ֥י צִוֵּ֖יתִי לִמְקֻדָּשָׁ֑י גַּ֣ם קָרָ֤אתִי גִבּוֹרַי֙ לְאַפִּ֔י עַלִּיזֵ֖י גַּאֲוָתִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 3:124
+      lang: ar
+      text: إِذْ تَقُولُ لِلْمُؤْمِنِينَ أَلَن يَكْفِيَكُمْ أَن يُمِدَّكُمْ رَبُّكُم بِثَلَٰثَةِ ءَالَٰفٍ
+        مِّنَ ٱلْمَلَٰٓئِكَةِ مُنزَلِينَ
+    - ref: Quran 3:125
+      lang: ar
+      text: بَلَىٰٓ إِن تَصْبِرُوا۟ وَتَتَّقُوا۟ وَيَأْتُوكُم مِّن فَوْرِهِمْ هَٰذَا يُمْدِدْكُمْ رَبُّكُم
+        بِخَمْسَةِ ءَالَٰفٍ مِّنَ ٱلْمَلَٰٓئِكَةِ مُسَوِّمِينَ
 ---
 
 ## Questions

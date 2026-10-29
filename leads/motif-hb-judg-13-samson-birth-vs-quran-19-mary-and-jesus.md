@@ -2,8 +2,7 @@
 id: motif-hb-judg-13-samson-birth-vs-quran-19-mary-and-jesus
 title: Annunciation of Samson's birth to Manoah's wife ↔ Mary, the spirit in human form, the birth under
   the palm, the speaking infant (Surah 19:16-40)
-summary: 'These two units share 1 motifs: god''s spirit appears to a woman in the form of a well-proportioned
-  man.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,51 +14,9 @@ layers:
 - motif
 motifs:
 - divine-spirit-appears-as-perfect-man
-passages:
-- tradition: judaism
-  ref: Judg 13:3
-  note: 'God''s spirit appears to a woman in the form of a well-proportioned man (ʾîš hāʾĕlōhîm bāʾ ʾēlay
-    ûmarʾēhû kəmarʾēh malʾak hāʾĕlōhîm nôrāʾ məʾōd; fa-tamaththala lahā basharan sawiyyā ... innamā ana
-    rasūlu rabbiki li-ahaba laki ghulāmā: God''s messenger comes to a woman alone, looking like a man,
-    to announce a son. Manoah''s wife does not ask where he is from; Maryam takes refuge from him (aʿūdhu
-    bi-r-Raḥmāni minka).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: judaism
-  ref: Judg 13:6
-  note: 'God''s spirit appears to a woman in the form of a well-proportioned man (ʾîš hāʾĕlōhîm bāʾ ʾēlay
-    ûmarʾēhû kəmarʾēh malʾak hāʾĕlōhîm nôrāʾ məʾōd; fa-tamaththala lahā basharan sawiyyā ... innamā ana
-    rasūlu rabbiki li-ahaba laki ghulāmā: God''s messenger comes to a woman alone, looking like a man,
-    to announce a son. Manoah''s wife does not ask where he is from; Maryam takes refuge from him (aʿūdhu
-    bi-r-Raḥmāni minka).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתָּבֹ֣א הָאִשָּׁ֗ה וַתֹּ֣אמֶר לְאִישָׁהּ֮ לֵאמֹר֒ אִ֤ישׁ הָאֱלֹהִים֙ בָּ֣א אֵלַ֔י וּמַרְאֵ֕הוּ
-    כְּמַרְאֵ֛ה מַלְאַ֥ךְ הָאֱלֹהִ֖ים נוֹרָ֣א מְאֹ֑ד וְלֹ֤א שְׁאִלְתִּ֨יהוּ֙ אֵֽי מִזֶּ֣ה ה֔וּא וְאֶת
-    שְׁמ֖וֹ לֹֽא הִגִּ֥יד לִֽי
-- tradition: islam
-  ref: Quran 19:17
-  note: God's spirit appears to a woman in the form of a well-proportioned man (rūḥanā fa-tamaththala
-    lahā basharan sawiyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا
-    سَوِيًّا
-- tradition: islam
-  ref: Quran 19:19
-  note: God's spirit appears to a woman in the form of a well-proportioned man (rūḥanā fa-tamaththala
-    lahā basharan sawiyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʾîš hāʾĕlōhîm bāʾ ʾēlay ûmarʾēhû kəmarʾēh malʾak hāʾĕlōhîm nôrāʾ məʾōd; fa-tamaththala lahā
-    basharan sawiyyā ... innamā ana rasūlu rabbiki li-ahaba laki ghulāmā: God''s messenger comes to a
-    woman alone, looking like a man, to announce a son. Manoah''s wife does not ask where he is from;
-    Maryam takes refuge from him (aʿūdhu bi-r-Raḥmāni minka).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s spirit appears to a woman in the form of a well-proportioned
     man (weight 6.7). Pair score 6.7.'
@@ -91,6 +48,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's spirit appears to a woman in the form of a well-proportioned man
+kinds:
+- echo
+units:
+- id: hb-judg-13-samson-birth
+  title: Annunciation of Samson's birth to Manoah's wife
+  tradition: judaism
+- id: quran-19-mary-and-jesus
+  title: Mary, the spirit in human form, the birth under the palm, the speaking infant (Surah 19:16-40)
+  tradition: islam
+matches:
+- kind: echo
+  label: God's spirit appears to a woman in the form of a well-proportioned man
+  note: 'ʾîš hāʾĕlōhîm bāʾ ʾēlay ûmarʾēhû kəmarʾēh malʾak hāʾĕlōhîm nôrāʾ məʾōd; fa-tamaththala lahā basharan
+    sawiyyā ... innamā ana rasūlu rabbiki li-ahaba laki ghulāmā: God''s messenger comes to a woman alone,
+    looking like a man, to announce a son. Manoah''s wife does not ask where he is from; Maryam takes
+    refuge from him (aʿūdhu bi-r-Raḥmāni minka).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    - ref: Judg 13:6
+      lang: he
+      text: וַתָּבֹ֣א הָאִשָּׁ֗ה וַתֹּ֣אמֶר לְאִישָׁהּ֮ לֵאמֹר֒ אִ֤ישׁ הָאֱלֹהִים֙ בָּ֣א אֵלַ֔י וּמַרְאֵ֕הוּ
+        כְּמַרְאֵ֛ה מַלְאַ֥ךְ הָאֱלֹהִ֖ים נוֹרָ֣א מְאֹ֑ד וְלֹ֤א שְׁאִלְתִּ֨יהוּ֙ אֵֽי מִזֶּ֣ה ה֔וּא וְאֶת
+        שְׁמ֖וֹ לֹֽא הִגִּ֥יד לִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 19:17
+      lang: ar
+      text: فَٱتَّخَذَتْ مِن دُونِهِمْ حِجَابًا فَأَرْسَلْنَآ إِلَيْهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرًا
+        سَوِيًّا
+    - ref: Quran 19:19
+      lang: ar
+      text: قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمًا زَكِيًّا
 ---
 
 ## Questions

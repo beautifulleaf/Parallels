@@ -2,7 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-53-najm-vision-and-lote-tree
 title: 'Second creation account, Eden, and the making of woman ↔ Al-Najm: the star that sets, the mighty
   one on the horizon two bow-lengths away, and the Lote-Tree of the Boundary'
-summary: 'These two units share 1 motifs: a tree whose fruit gives eternal life.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - tree-of-life
-passages:
-- tradition: judaism
-  ref: Gen 2:9
-  note: A tree whose fruit gives eternal life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
-    וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
-- tradition: islam
-  ref: Quran 53:14
-  note: A tree whose fruit gives eternal life (a cosmic tree at the edge of heaven beside the Garden)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ
-- tradition: islam
-  ref: Quran 53:15
-  note: A tree whose fruit gives eternal life (a cosmic tree at the edge of heaven beside the Garden)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A singular tree at the Garden: wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān vs. ʿinda sidrati l-muntahā ʿindahā
-    jannatu l-maʾwā. The Quran''s lote-tree marks the boundary (muntahā) beside the Garden of Refuge and
-    is not said to give life; the tree-of-life reading is the tagger''s, and the closer parallels are
-    in 1 Enoch 24-25. Weak lead.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A tree whose fruit gives eternal life (weight 5.4). Pair score 5.4.'
   basis: reading
@@ -74,6 +51,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A tree whose fruit gives eternal life
+kinds:
+- echo
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-53-najm-vision-and-lote-tree
+  title: 'Al-Najm: the star that sets, the mighty one on the horizon two bow-lengths away, and the Lote-Tree
+    of the Boundary'
+  tradition: islam
+matches:
+- kind: echo
+  label: A tree whose fruit gives eternal life
+  note: 'A singular tree at the Garden: wə-ʿēṣ ha-ḥayyîm bə-ṯôḵ hag-gān vs. ʿinda sidrati l-muntahā ʿindahā
+    jannatu l-maʾwā. The Quran''s lote-tree marks the boundary (muntahā) beside the Garden of Refuge and
+    is not said to give life; the tree-of-life reading is the tagger''s, and the closer parallels are
+    in 1 Enoch 24-25. Weak lead.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:9
+      lang: he
+      text: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן הָ֣אֲדָמָ֔ה כָּל עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל
+        וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 53:14
+      lang: ar
+      text: عِندَ سِدْرَةِ ٱلْمُنتَهَىٰ
+    - ref: Quran 53:15
+      lang: ar
+      text: عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ
 ---
 
 ## Questions

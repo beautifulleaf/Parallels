@@ -2,8 +2,7 @@
 id: motif-jud-jubilees-12-vs-quran-21-abraham-idols-fire
 title: Abraham burns the house of idols (Jubilees 12) ↔ Abraham breaks the idols and is cast into the
   fire
-summary: 'These two units share 2 motifs: hero smashes or burns idols, hero''s father makes, sells or
-  worships idols.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,41 +16,7 @@ layers:
 motifs:
 - hero-smashes-idols
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
-  note: Hero smashes or burns idols (burns the house of idols)
-- tradition: islam
-  ref: Quran 21:57
-  note: Hero smashes or burns idols (after they had turned their backs; 'by God I will plot against your
-    idols')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
-- tradition: islam
-  ref: Quran 21:58
-  note: Hero smashes or burns idols (after they had turned their backs; 'by God I will plot against your
-    idols')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
-  note: Hero's father makes, sells or worships idols
-- tradition: islam
-  ref: Quran 21:52
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
-- tradition: islam
-  ref: Quran 21:53
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero smashes or burns idols (weight 5.6); Hero''s father makes,
     sells or worships idols (weight 4.8). Pair score 10.4.'
@@ -62,6 +27,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero smashes or burns idols
+kinds:
+- shared
+units:
+- id: jud-jubilees-12
+  title: Abraham burns the house of idols (Jubilees 12)
+  tradition: judaism
+- id: quran-21-abraham-idols-fire
+  title: Abraham breaks the idols and is cast into the fire
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero smashes or burns idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
+    note: burns the house of idols
+  - tradition: islam
+    passages:
+    - ref: Quran 21:57
+      lang: ar
+      text: وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ
+    - ref: Quran 21:58
+      lang: ar
+      text: فَجَعَلَهُمْ جُذَٰذًا إِلَّا كَبِيرًا لَّهُمْ لَعَلَّهُمْ إِلَيْهِ يَرْجِعُونَ
+    - ref: Quran 21:59
+      lang: ar
+      text: قَالُوا۟ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ
+    note: after they had turned their backs; 'by God I will plot against your idols'
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:52
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+    - ref: Quran 21:53
+      lang: ar
+      text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+    note: '''these statues (tamāthīl)'', worshipped because ''we found our fathers worshipping them'''
 ---
 
 ## Questions

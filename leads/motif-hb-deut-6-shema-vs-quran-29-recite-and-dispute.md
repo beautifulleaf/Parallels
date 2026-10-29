@@ -2,7 +2,7 @@
 id: motif-hb-deut-6-shema-vs-quran-29-recite-and-dispute
 title: The Shema and the instruction to teach ↔ Recite the Book; dispute with the People of the Book;
   the unlettered prophet
-summary: 'These two units share 1 motifs: hear o israel: yhwh our god, yhwh is one.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - shema-god-is-one
-passages:
-- tradition: judaism
-  ref: Deut 6:4
-  note: 'Hear O Israel: YHWH our God, YHWH is one'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
-- tradition: islam
-  ref: Quran 29:46
-  note: 'Hear O Israel: YHWH our God, YHWH is one (wa-ilāhunā wa-ilāhukum wāḥidun wa-naḥnu lahu muslimūn
-    vs. šəmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥāḏ. The confession of one God is turned outward: Israel''s
-    ''our God'' (ʾĕlōhênû) becomes ''our God and your God'', said to ahl al-kitāb as common ground in
-    a dispute.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تُجَٰدِلُوٓا۟ أَهْلَ ٱلْكِتَٰبِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ إِلَّا ٱلَّذِينَ ظَلَمُوا۟
-    مِنْهُمْ وَقُولُوٓا۟ ءَامَنَّا بِٱلَّذِىٓ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ
-    وَٰحِدٌ وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-ilāhunā wa-ilāhukum wāḥidun wa-naḥnu lahu muslimūn vs. šəmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH
-    ʾeḥāḏ. The confession of one God is turned outward: Israel''s ''our God'' (ʾĕlōhênû) becomes ''our
-    God and your God'', said to ahl al-kitāb as common ground in a dispute.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hear O Israel: YHWH our God, YHWH is one (weight 5.4). Pair score
     5.4.'
@@ -66,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hear O Israel: YHWH our God, YHWH is one'
+kinds:
+- echo
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-29-recite-and-dispute
+  title: Recite the Book; dispute with the People of the Book; the unlettered prophet
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Hear O Israel: YHWH our God, YHWH is one'
+  note: 'wa-ilāhunā wa-ilāhukum wāḥidun wa-naḥnu lahu muslimūn vs. šəmaʿ yiśrāʾēl YHWH ʾĕlōhênû YHWH ʾeḥāḏ.
+    The confession of one God is turned outward: Israel''s ''our God'' (ʾĕlōhênû) becomes ''our God and
+    your God'', said to ahl al-kitāb as common ground in a dispute.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:4
+      lang: he
+      text: שְׁמַ֖ע יִשְׂרָאֵ֑ל יְהוָ֥ה אֱלֹהֵ֖ינוּ יְהוָ֥ה אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 29:46
+      lang: ar
+      text: وَلَا تُجَٰدِلُوٓا۟ أَهْلَ ٱلْكِتَٰبِ إِلَّا بِٱلَّتِى هِىَ أَحْسَنُ إِلَّا ٱلَّذِينَ ظَلَمُوا۟
+        مِنْهُمْ وَقُولُوٓا۟ ءَامَنَّا بِٱلَّذِىٓ أُنزِلَ إِلَيْنَا وَأُنزِلَ إِلَيْكُمْ وَإِلَٰهُنَا
+        وَإِلَٰهُكُمْ وَٰحِدٌ وَنَحْنُ لَهُۥ مُسْلِمُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-2-polemic-israel
 title: The Ten Words and the people's fear ↔ Polemic with the People of the Book
-summary: 'These two units share 2 motifs: honor father and mother, with the promise of long life, prohibitions
-  of murder, adultery, theft and false witness.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,62 +15,7 @@ layers:
 motifs:
 - honor-parents-long-life
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Exod 20:12
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר יְהוָ֥ה
-    אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
-- tradition: judaism
-  ref: Exod 20:3
-  note: Honor father and mother, with the promise of long life
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 2:83
-  note: 'Honor father and mother, with the promise of long life (covenant: worship only God, be good to
-    parents, kin, orphans, the poor)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
-    إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
-    ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
-- tradition: judaism
-  ref: Exod 20:13
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Exod 20:14
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 2:84
-  note: 'Prohibitions of murder, adultery, theft and false witness (Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā
-    mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum: the covenant ban on bloodshed,
-    applied within the community and joined with a ban on expelling one''s own.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمْ
-    ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
-- tradition: islam
-  ref: Quran 2:85
-  note: 'Prohibitions of murder, adultery, theft and false witness (Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā
-    mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum min diyārikum: the covenant ban on bloodshed,
-    applied within the community and joined with a ban on expelling one''s own.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ
-    تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ
-    مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ فَمَا
-    جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ ٱلْقِيَٰمَةِ
-    يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Honor father and mother, with the promise of long life (weight 5.3);
     Prohibitions of murder, adultery, theft and false witness (weight 5.1). Pair score 10.4.'
@@ -104,6 +48,67 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honor father and mother, with the promise of long life
+kinds:
+- shared
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-2-polemic-israel
+  title: Polemic with the People of the Book
+  tradition: islam
+matches:
+- kind: shared
+  label: Honor father and mother, with the promise of long life
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:12
+      lang: he
+      text: כַּבֵּ֥ד אֶת אָבִ֖יךָ וְאֶת אִמֶּ֑ךָ לְמַ֨עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר
+        יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ
+    - ref: Exod 20:3
+      lang: he
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:83
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَ بَنِىٓ إِسْرَٰٓءِيلَ لَا تَعْبُدُونَ إِلَّا ٱللَّهَ وَبِٱلْوَٰلِدَيْنِ
+        إِحْسَانًا وَذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَقُولُوا۟ لِلنَّاسِ حُسْنًا وَأَقِيمُوا۟
+        ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِّنكُمْ وَأَنتُم مُّعْرِضُونَ
+    note: 'covenant: worship only God, be good to parents, kin, orphans, the poor'
+- kind: shared
+  label: Prohibitions of murder, adultery, theft and false witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:13
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Exod 20:14
+      lang: he
+      text: לֹ֖א תִּנְאָֽף
+    - ref: Exod 20:15
+      lang: he
+      text: לֹ֖א תִּגְנֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 2:84
+      lang: ar
+      text: وَإِذْ أَخَذْنَا مِيثَٰقَكُمْ لَا تَسْفِكُونَ دِمَآءَكُمْ وَلَا تُخْرِجُونَ أَنفُسَكُم مِّن
+        دِيَٰرِكُمْ ثُمَّ أَقْرَرْتُمْ وَأَنتُمْ تَشْهَدُونَ
+    - ref: Quran 2:85
+      lang: ar
+      text: ثُمَّ أَنتُمْ هَٰٓؤُلَآءِ تَقْتُلُونَ أَنفُسَكُمْ وَتُخْرِجُونَ فَرِيقًا مِّنكُم مِّن دِيَٰرِهِمْ
+        تَظَٰهَرُونَ عَلَيْهِم بِٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَإِن يَأْتُوكُمْ أُسَٰرَىٰ تُفَٰدُوهُمْ وَهُوَ
+        مُحَرَّمٌ عَلَيْكُمْ إِخْرَاجُهُمْ أَفَتُؤْمِنُونَ بِبَعْضِ ٱلْكِتَٰبِ وَتَكْفُرُونَ بِبَعْضٍ
+        فَمَا جَزَآءُ مَن يَفْعَلُ ذَٰلِكَ مِنكُمْ إِلَّا خِزْىٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَيَوْمَ
+        ٱلْقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلْعَذَابِ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعْمَلُونَ
+    note: 'Deut 5:17 lōʾ tirṣāḥ; Q 2:84 akhadhnā mīthāqakum lā tasfikūna dimāʾakum wa-lā tukhrijūna anfusakum
+      min diyārikum: the covenant ban on bloodshed, applied within the community and joined with a ban
+      on expelling one''s own.'
 ---
 
 ## Questions

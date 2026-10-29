@@ -2,7 +2,7 @@
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-8-death-angels-custom
 title: The pursuit and the parting of the sea ↔ Angels at the death of unbelievers; the custom of Pharaoh's
   people
-summary: 'These two units share 1 motifs: the returning waters drown the pursuing army; not one survives.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Exod 14:26
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה נְטֵ֥ה אֶת יָדְךָ֖ עַל הַיָּ֑ם וְיָשֻׁ֤בוּ הַמַּ֨יִם֙ עַל מִצְרַ֔יִם
-    עַל רִכְבּ֖וֹ וְעַל פָּרָשָֽׁיו
-- tradition: judaism
-  ref: Exod 14:27
-  note: The returning waters drown the pursuing army; not one survives ('not one remained')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּט֩ מֹשֶׁ֨ה אֶת יָד֜וֹ עַל הַיָּ֗ם וַיָּ֨שָׁב הַיָּ֜ם לִפְנ֥וֹת בֹּ֨קֶר֙ לְאֵ֣יתָנ֔וֹ וּמִצְרַ֖יִם
-    נָסִ֣ים לִקְרָאת֑וֹ וַיְנַעֵ֧ר יְהוָ֛ה אֶת מִצְרַ֖יִם בְּת֥וֹךְ הַיָּֽם
-- tradition: islam
-  ref: Quran 8:54
-  note: The returning waters drown the pursuing army; not one survives
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا۟ بِـَٔايَٰتِ رَبِّهِمْ فَأَهْلَكْنَٰهُم
-    بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَكُلٌّ كَانُوا۟ ظَٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. wa-aghraqnā āla firʿawna vs wayyāšūbû hammayim wayᵉkassû ʾet-hārekeb wᵉʾet-happārāšîm lᵉkōl
-    ḥêl parʿōh ... lōʾ nišʾar bāhem ʿad-ʾeḥād. Q makes the drowning a model (ka-daʾbi āli firʿawna) for
-    every people that rejects God''s signs.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The returning waters drown the pursuing army; not one survives (weight
     4.5). Pair score 4.5.'
@@ -70,6 +46,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The returning waters drown the pursuing army; not one survives
+kinds:
+- parallel
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-8-death-angels-custom
+  title: Angels at the death of unbelievers; the custom of Pharaoh's people
+  tradition: islam
+matches:
+- kind: parallel
+  label: The returning waters drown the pursuing army; not one survives
+  note: wa-aghraqnā āla firʿawna vs wayyāšūbû hammayim wayᵉkassû ʾet-hārekeb wᵉʾet-happārāšîm lᵉkōl ḥêl
+    parʿōh ... lōʾ nišʾar bāhem ʿad-ʾeḥād. Q makes the drowning a model (ka-daʾbi āli firʿawna) for every
+    people that rejects God's signs.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:28
+      lang: he
+      text: וַיָּשֻׁ֣בוּ הַמַּ֗יִם וַיְכַסּ֤וּ אֶת הָרֶ֨כֶב֙ וְאֶת הַפָּ֣רָשִׁ֔ים לְכֹל֙ חֵ֣יל פַּרְעֹ֔ה
+        הַבָּאִ֥ים אַחֲרֵיהֶ֖ם בַּיָּ֑ם לֹֽא נִשְׁאַ֥ר בָּהֶ֖ם עַד אֶחָֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 8:54
+      lang: ar
+      text: كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا۟ بِـَٔايَٰتِ رَبِّهِمْ فَأَهْلَكْنَٰهُم
+        بِذُنُوبِهِمْ وَأَغْرَقْنَآ ءَالَ فِرْعَوْنَ وَكُلٌّ كَانُوا۟ ظَٰلِمِينَ
 ---
 
 ## Questions

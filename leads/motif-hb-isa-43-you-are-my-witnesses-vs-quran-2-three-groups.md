@@ -2,9 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-2-three-groups
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ Believers, unbelievers
   and hypocrites
-summary: 'These two units share 2 motifs: who is called blind and deaf toward god''s word [divergence
-  between the texts], who is blind but my servant, deaf like my messenger? israel sees much but does not
-  observe.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,43 +15,9 @@ layers:
 motifs:
 - who-is-blind-and-deaf-as-divergence
 - blind-and-deaf-servant
-passages:
-- tradition: judaism
-  ref: Isa 43:8
-  note: Who is called blind and deaf toward God's word [divergence between the texts] (Isa 43:8 ʿam ʿiwwēr
-    wĕ-ʿênayim yēš wĕ-ḥērĕšîm wĕ-ʾoznayim lāmô 'a blind people that has eyes, deaf that have ears' (Israel,
-    God's own witnesses); Q 2:18 ṣummun bukmun ʿumyun 'deaf, dumb, blind' of the hypocrites. The target
-    moves from God's people, to be led out, to the unbelievers, who will not return.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹצִ֥יא עַם עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאָזְנַ֥יִם לָֽמוֹ
-- tradition: islam
-  ref: Quran 2:18
-  note: Who is called blind and deaf toward God's word [divergence between the texts] (Isa 43:8 ʿam ʿiwwēr
-    wĕ-ʿênayim yēš wĕ-ḥērĕšîm wĕ-ʾoznayim lāmô 'a blind people that has eyes, deaf that have ears' (Israel,
-    God's own witnesses); Q 2:18 ṣummun bukmun ʿumyun 'deaf, dumb, blind' of the hypocrites. The target
-    moves from God's people, to be led out, to the unbelievers, who will not return.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
-- tradition: judaism
-  ref: Isa 43:8
-  note: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוֹצִ֥יא עַם עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאָזְנַ֥יִם לָֽמוֹ
-- tradition: islam
-  ref: Quran 2:18
-  note: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Isa 43:8 ʿam ʿiwwēr wĕ-ʿênayim yēš wĕ-ḥērĕšîm wĕ-ʾoznayim lāmô ''a blind people that has
-    eyes, deaf that have ears'' (Israel, God''s own witnesses); Q 2:18 ṣummun bukmun ʿumyun ''deaf, dumb,
-    blind'' of the hypocrites. The target moves from God''s people, to be led out, to the unbelievers,
-    who will not return.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who is called blind and deaf toward God''s word [divergence between
     the texts] (weight 6.3); Who is blind but my servant, deaf like my messenger? Israel sees much but
@@ -92,6 +56,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who is called blind and deaf toward God's word
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-2-three-groups
+  title: Believers, unbelievers and hypocrites
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who is called blind and deaf toward God's word
+  note: Isa 43:8 ʿam ʿiwwēr wĕ-ʿênayim yēš wĕ-ḥērĕšîm wĕ-ʾoznayim lāmô 'a blind people that has eyes,
+    deaf that have ears' (Israel, God's own witnesses); Q 2:18 ṣummun bukmun ʿumyun 'deaf, dumb, blind'
+    of the hypocrites. The target moves from God's people, to be led out, to the unbelievers, who will
+    not return.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:8
+      lang: he
+      text: הוֹצִ֥יא עַם עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאָזְנַ֥יִם לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:18
+      lang: ar
+      text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
+- kind: shared
+  label: Who is blind but my servant, deaf like my messenger? Israel sees much but does not observe
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:8
+      lang: he
+      text: הוֹצִ֥יא עַם עִוֵּ֖ר וְעֵינַ֣יִם יֵ֑שׁ וְחֵרְשִׁ֖ים וְאָזְנַ֥יִם לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:18
+      lang: ar
+      text: صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ
 ---
 
 ## Questions

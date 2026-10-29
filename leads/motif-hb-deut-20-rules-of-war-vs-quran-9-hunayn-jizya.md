@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-9-hunayn-jizya
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Hunayn, the impurity of polytheists, the
   jizya'
-summary: 'These two units share 1 motifs: city accepting peace becomes forced labor; one resisting has
-  its males killed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,36 +15,9 @@ layers:
 - motif
 motifs:
 - terms-of-peace-forced-labor
-passages:
-- tradition: judaism
-  ref: Deut 20:11
-  note: City accepting peace becomes forced labor; one resisting has its males killed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
-    לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
-- tradition: judaism
-  ref: Deut 20:12
-  note: City accepting peace becomes forced labor; one resisting has its males killed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם לֹ֤א תַשְׁלִים֙ עִמָּ֔ךְ וְעָשְׂתָ֥ה עִמְּךָ֖ מִלְחָמָ֑ה וְצַרְתָּ֖ עָלֶֽיהָּ
-- tradition: islam
-  ref: Quran 9:29
-  note: 'City accepting peace becomes forced labor; one resisting has its males killed (Submission ends
-    the war on terms of subjection: ḥattā yuʿṭū l-jizyata ʿan yadin wa-hum ṣāghirūn vs yihyû lᵉkā lāmas
-    waʿăbādûkā. The subjected differ: in Q the people of the book, paying a tax; in Deut a besieged city,
-    doing forced labour (mas).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ
-    مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ
-    حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَٰغِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Submission ends the war on terms of subjection: ḥattā yuʿṭū l-jizyata ʿan yadin wa-hum ṣāghirūn
-    vs yihyû lᵉkā lāmas waʿăbādûkā. The subjected differ: in Q the people of the book, paying a tax; in
-    Deut a besieged city, doing forced labour (mas).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: City accepting peace becomes forced labor; one resisting has its
     males killed (weight 6.7). Pair score 6.7.'
@@ -78,6 +50,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: City accepting peace becomes forced labor; one resisting has its males killed
+kinds:
+- parallel
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: parallel
+  label: City accepting peace becomes forced labor; one resisting has its males killed
+  note: 'Submission ends the war on terms of subjection: ḥattā yuʿṭū l-jizyata ʿan yadin wa-hum ṣāghirūn
+    vs yihyû lᵉkā lāmas waʿăbādûkā. The subjected differ: in Q the people of the book, paying a tax; in
+    Deut a besieged city, doing forced labour (mas).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:11
+      lang: he
+      text: וְהָיָה֙ אִם שָׁל֣וֹם תַּֽעַנְךָ֔ וּפָתְחָ֖ה לָ֑ךְ וְהָיָ֞ה כָּל הָעָ֣ם הַנִּמְצָא בָ֗הּ יִהְי֥וּ
+        לְךָ֛ לָמַ֖ס וַעֲבָדֽוּךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:29
+      lang: ar
+      text: قَٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْءَاخِرِ وَلَا يُحَرِّمُونَ
+        مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ
+        حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَٰغِرُونَ
 ---
 
 ## Questions

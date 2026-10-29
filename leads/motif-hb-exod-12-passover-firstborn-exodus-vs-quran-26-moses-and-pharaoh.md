@@ -2,9 +2,7 @@
 id: motif-hb-exod-12-passover-firstborn-exodus-vs-quran-26-moses-and-pharaoh
 title: Passover law, matzot, the night of the firstborn, departure from Egypt ↔ Moses and Pharaoh disputing;
   the magicians; the sea split like mountains
-summary: 'These two units share 2 motifs: what israel took from, or inherited of, egypt [divergence between
-  the texts], the departing slaves ask their neighbors for silver, gold and clothing and so plunder their
-  oppressors.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,84 +15,9 @@ layers:
 motifs:
 - what-israel-took-from-egypt-as-divergence
 - despoiling-the-egyptians
-passages:
-- tradition: judaism
-  ref: Exod 12:35
-  note: 'What Israel took from, or inherited of, Egypt [divergence between the texts] (What Israel takes
-    from Egypt: Exodus has portable wealth asked of the neighbors, kəlê kesef û-khəlê zāhāv û-śəmālōt
-    ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians from gardens, springs, treasures
-    and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīm) and ''made the Children
-    of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried out becomes an inheritance
-    of Egypt''s land, which has no counterpart in the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵי יִשְׂרָאֵ֥ל עָשׂ֖וּ כִּדְבַ֣ר מֹשֶׁ֑ה וַֽיִּשְׁאֲלוּ֙ מִמִּצְרַ֔יִם כְּלֵי כֶ֛סֶף וּכְלֵ֥י
-    זָהָ֖ב וּשְׂמָלֹֽת
-- tradition: judaism
-  ref: Exod 12:36
-  note: 'What Israel took from, or inherited of, Egypt [divergence between the texts] (What Israel takes
-    from Egypt: Exodus has portable wealth asked of the neighbors, kəlê kesef û-khəlê zāhāv û-śəmālōt
-    ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians from gardens, springs, treasures
-    and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīm) and ''made the Children
-    of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried out becomes an inheritance
-    of Egypt''s land, which has no counterpart in the HB.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֞ה נָתַ֨ן אֶת חֵ֥ן הָעָ֛ם בְּעֵינֵ֥י מִצְרַ֖יִם וַיַּשְׁאִל֑וּם וַֽיְנַצְּל֖וּ אֶת מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 26:57
-  note: 'What Israel took from, or inherited of, Egypt [divergence between the texts] (What Israel takes
-    from Egypt: Exodus has portable wealth asked of the neighbors, kəlê kesef û-khəlê zāhāv û-śəmālōt
-    ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians from gardens, springs, treasures
-    and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīm) and ''made the Children
-    of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried out becomes an inheritance
-    of Egypt''s land, which has no counterpart in the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
-- tradition: islam
-  ref: Quran 26:58
-  note: 'What Israel took from, or inherited of, Egypt [divergence between the texts] (What Israel takes
-    from Egypt: Exodus has portable wealth asked of the neighbors, kəlê kesef û-khəlê zāhāv û-śəmālōt
-    ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians from gardens, springs, treasures
-    and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīm) and ''made the Children
-    of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried out becomes an inheritance
-    of Egypt''s land, which has no counterpart in the HB.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
-- tradition: judaism
-  ref: Exod 12:35
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְנֵי יִשְׂרָאֵ֥ל עָשׂ֖וּ כִּדְבַ֣ר מֹשֶׁ֑ה וַֽיִּשְׁאֲלוּ֙ מִמִּצְרַ֔יִם כְּלֵי כֶ֛סֶף וּכְלֵ֥י
-    זָהָ֖ב וּשְׂמָלֹֽת
-- tradition: judaism
-  ref: Exod 12:36
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיהוָ֞ה נָתַ֨ן אֶת חֵ֥ן הָעָ֛ם בְּעֵינֵ֥י מִצְרַ֖יִם וַיַּשְׁאִל֑וּם וַֽיְנַצְּל֖וּ אֶת מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 26:58
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
-- tradition: islam
-  ref: Quran 26:59
-  note: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. What Israel takes from Egypt: Exodus has portable wealth asked of the neighbors, kəlê
-    kesef û-khəlê zāhāv û-śəmālōt ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians
-    from gardens, springs, treasures and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin
-    karīm) and ''made the Children of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried
-    out becomes an inheritance of Egypt''s land, which has no counterpart in the HB.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Israel took from, or inherited of, Egypt [divergence between
     the texts] (weight 6.7); The departing slaves ask their neighbors for silver, gold and clothing and
@@ -131,6 +54,68 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What Israel took from, or inherited of, Egypt
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-12-passover-firstborn-exodus
+  title: Passover law, matzot, the night of the firstborn, departure from Egypt
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: divergence
+  label: What Israel took from, or inherited of, Egypt
+  note: 'What Israel takes from Egypt: Exodus has portable wealth asked of the neighbors, kəlê kesef û-khəlê
+    zāhāv û-śəmālōt ... wa-ynaṣṣəlû ʾet Miṣrāyim; the Quran says God expelled the Egyptians from gardens,
+    springs, treasures and noble dwellings (min jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīm) and ''made
+    the Children of Israel inherit them'' (wa-awrathnāhā banī Isrāʾīl). Plunder carried out becomes an
+    inheritance of Egypt''s land, which has no counterpart in the HB.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:35
+      lang: he
+      text: וּבְנֵי יִשְׂרָאֵ֥ל עָשׂ֖וּ כִּדְבַ֣ר מֹשֶׁ֑ה וַֽיִּשְׁאֲלוּ֙ מִמִּצְרַ֔יִם כְּלֵי כֶ֛סֶף
+        וּכְלֵ֥י זָהָ֖ב וּשְׂמָלֹֽת
+    - ref: Exod 12:36
+      lang: he
+      text: וַֽיהוָ֞ה נָתַ֨ן אֶת חֵ֥ן הָעָ֛ם בְּעֵינֵ֥י מִצְרַ֖יִם וַיַּשְׁאִל֑וּם וַֽיְנַצְּל֖וּ אֶת
+        מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:57
+      lang: ar
+      text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
+    - ref: Quran 26:58
+      lang: ar
+      text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+    - ref: Quran 26:59
+      lang: ar
+      text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
+- kind: shared
+  label: The departing slaves ask their neighbors for silver, gold and clothing and so plunder their oppressors
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 12:35
+      lang: he
+      text: וּבְנֵי יִשְׂרָאֵ֥ל עָשׂ֖וּ כִּדְבַ֣ר מֹשֶׁ֑ה וַֽיִּשְׁאֲלוּ֙ מִמִּצְרַ֔יִם כְּלֵי כֶ֛סֶף
+        וּכְלֵ֥י זָהָ֖ב וּשְׂמָלֹֽת
+    - ref: Exod 12:36
+      lang: he
+      text: וַֽיהוָ֞ה נָתַ֨ן אֶת חֵ֥ן הָעָ֛ם בְּעֵינֵ֥י מִצְרַ֖יִם וַיַּשְׁאִל֑וּם וַֽיְנַצְּל֖וּ אֶת
+        מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 26:58
+      lang: ar
+      text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+    - ref: Quran 26:59
+      lang: ar
+      text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

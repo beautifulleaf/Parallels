@@ -2,8 +2,7 @@
 id: motif-hb-lev-25-sabbatical-and-jubilee-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Sabbatical year and the jubilee; the land is mine ↔ Al-Hadid: First and Last, Outward and Inward;
   stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: spend of that over which god has made you stewards/successors
-  (mustakhlafin).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,37 +14,9 @@ layers:
 - motif
 motifs:
 - humans-as-stewards-of-wealth
-passages:
-- tradition: judaism
-  ref: Lev 25:23
-  note: 'Spend of that over which God has made you stewards/successors (mustakhlafin) (Humans hold God''s
-    property as tenants: kî lî hā-ʾāreṣ kî ḡērîm wə-ṯôšāḇîm ʾattem ʿimmāḏî vs. wa-anfiqū mimmā jaʿalakum
-    mustakhlafīna fīhi ... wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ. Leviticus draws a land law from it
-    (no permanent sale); the Quran a duty to spend.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי לִ֖י הָאָ֑רֶץ כִּֽי גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽי
-- tradition: islam
-  ref: Quran 57:7
-  note: Spend of that over which God has made you stewards/successors (mustakhlafin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ
-    ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
-- tradition: islam
-  ref: Quran 57:10
-  note: Spend of that over which God has made you stewards/successors (mustakhlafin)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
-    لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً مِّنَ
-    ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ بِمَا
-    تَعْمَلُونَ خَبِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Humans hold God''s property as tenants: kî lî hā-ʾāreṣ kî ḡērîm wə-ṯôšāḇîm ʾattem ʿimmāḏî vs.
-    wa-anfiqū mimmā jaʿalakum mustakhlafīna fīhi ... wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ. Leviticus
-    draws a land law from it (no permanent sale); the Quran a duty to spend.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Spend of that over which God has made you stewards/successors (mustakhlafin)
     (weight 6.7). Pair score 6.7.'
@@ -78,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Spend of that over which God has made you stewards/successors (mustakhlafin)
+kinds:
+- echo
+units:
+- id: hb-lev-25-sabbatical-and-jubilee
+  title: Sabbatical year and the jubilee; the land is mine
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: echo
+  label: Spend of that over which God has made you stewards/successors (mustakhlafin)
+  note: 'Humans hold God''s property as tenants: kî lî hā-ʾāreṣ kî ḡērîm wə-ṯôšāḇîm ʾattem ʿimmāḏî vs.
+    wa-anfiqū mimmā jaʿalakum mustakhlafīna fīhi ... wa-li-llāhi mīrāthu s-samāwāti wa-l-arḍ. Leviticus
+    draws a land law from it (no permanent sale); the Quran a duty to spend.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 25:23
+      lang: he
+      text: וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי לִ֖י הָאָ֑רֶץ כִּֽי גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם
+        עִמָּדִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 57:7
+      lang: ar
+      text: ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُوا۟ مِمَّا جَعَلَكُم مُّسْتَخْلَفِينَ فِيهِ فَٱلَّذِينَ
+        ءَامَنُوا۟ مِنكُمْ وَأَنفَقُوا۟ لَهُمْ أَجْرٌ كَبِيرٌ
+    - ref: Quran 57:10
+      lang: ar
+      text: وَمَا لَكُمْ أَلَّا تُنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ
+        لَا يَسْتَوِى مِنكُم مَّنْ أَنفَقَ مِن قَبْلِ ٱلْفَتْحِ وَقَٰتَلَ أُو۟لَٰٓئِكَ أَعْظَمُ دَرَجَةً
+        مِّنَ ٱلَّذِينَ أَنفَقُوا۟ مِنۢ بَعْدُ وَقَٰتَلُوا۟ وَكُلًّا وَعَدَ ٱللَّهُ ٱلْحُسْنَىٰ وَٱللَّهُ
+        بِمَا تَعْمَلُونَ خَبِيرٌ
 ---
 
 ## Questions

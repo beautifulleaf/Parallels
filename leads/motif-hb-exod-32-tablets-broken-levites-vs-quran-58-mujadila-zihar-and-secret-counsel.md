@@ -2,9 +2,7 @@
 id: motif-hb-exod-32-tablets-broken-levites-vs-quran-58-mujadila-zihar-and-secret-counsel
 title: 'Tablets broken, calf destroyed, Levites slaughter, Moses'' offer ↔ Al-Mujadila: the woman who
   disputed, the zihar formula and its expiation; God the fourth of three; the party of God'
-summary: 'These two units share 3 motifs: loyalty to god over one''s own kin [divergence between the texts],
-  the levites kill idolaters including their own kin and are consecrated for it, god keeps a book in which
-  names are written and from which sinners are blotted.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,103 +16,9 @@ motifs:
 - loyalty-to-god-against-kin-as-divergence
 - levites-kill-idolaters-kin
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Exod 32:26
-  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
-    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
-    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
-    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
-    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
-    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ אֵלָ֖יו
-    כָּל בְּנֵ֥י לֵוִֽי
-- tradition: judaism
-  ref: Exod 32:27
-  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
-    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
-    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
-    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
-    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
-    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: islam
-  ref: Quran 58:22
-  note: 'Loyalty to God over one''s own kin [divergence between the texts] (Loyalty to God against one''s
-    own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš
-    bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu qawman yuʾminūna bi-llāhi ...
-    yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum aw ikhwānahum aw ʿashīratahum
-    ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks withdrawal of love, not slaughter.
-    Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb Allāh).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ
-    وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ
-    أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ
-    تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ
-    حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
-- tradition: judaism
-  ref: Exod 32:27
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
-    עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ אֶת
-    רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
-- tradition: judaism
-  ref: Exod 32:28
-  note: The Levites kill idolaters including their own kin and are consecrated for it (about three thousand;
-    ordination by killing son and brother)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
-    אַלְפֵ֖י אִֽישׁ
-- tradition: islam
-  ref: Quran 58:22
-  note: The Levites kill idolaters including their own kin and are consecrated for it (loyalty to God
-    over kin (cf. Deut 33:9))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ ٱللَّهَ
-    وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ عَشِيرَتَهُمْ
-    أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ جَنَّٰتٍ
-    تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ أُو۟لَٰٓئِكَ
-    حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
-- tradition: judaism
-  ref: Exod 32:32
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
-- tradition: judaism
-  ref: Exod 32:33
-  note: God keeps a book in which names are written and from which sinners are blotted
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
-- tradition: islam
-  ref: Quran 58:6
-  note: God keeps a book in which names are written and from which sinners are blotted (God has counted
-    (ahsahu) what they did and they forgot it)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ
-    وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Loyalty to God against one''s own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill
-    ʾîš ʾeṯ ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran:
-    lā tajidu qawman yuʾminūna bi-llāhi ... yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum
-    aw abnāʾahum aw ikhwānahum aw ʿashīratahum ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers);
-    the Quran asks withdrawal of love, not slaughter. Moses'' ''who is for YHWH?'' matches the ''party
-    of God'' (ḥizb Allāh).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Loyalty to God over one''s own kin [divergence between the texts]
     (weight 6.7); The Levites kill idolaters including their own kin and are consecrated for it (weight
@@ -154,6 +58,99 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Loyalty to God over one's own kin
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-32-tablets-broken-levites
+  title: Tablets broken, calf destroyed, Levites slaughter, Moses' offer
+  tradition: judaism
+- id: quran-58-mujadila-zihar-and-secret-counsel
+  title: 'Al-Mujadila: the woman who disputed, the zihar formula and its expiation; God the fourth of
+    three; the party of God'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Loyalty to God over one's own kin
+  note: 'Loyalty to God against one''s own kin. Exodus: mî la-YHWH ʾēlāy, and the Levites kill ʾîš ʾeṯ
+    ʾāḥîw wə-ʾîš ʾeṯ rēʿēhû ... kî ʾîš bi-ḇnô û-ḇə-ʾāḥîw (killing even sons and brothers). Quran: lā tajidu
+    qawman yuʾminūna bi-llāhi ... yuwāddūna man ḥādda llāha wa-rasūlahu wa-law kānū ābāʾahum aw abnāʾahum
+    aw ikhwānahum aw ʿashīratahum ... ulāʾika ḥizbu llāh. Same kin list (sons, brothers); the Quran asks
+    withdrawal of love, not slaughter. Moses'' ''who is for YHWH?'' matches the ''party of God'' (ḥizb
+    Allāh).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:26
+      lang: he
+      text: וַיַּעֲמֹ֤ד מֹשֶׁה֙ בְּשַׁ֣עַר הַֽמַּחֲנֶ֔ה וַיֹּ֕אמֶר מִ֥י לַיהוָ֖ה אֵלָ֑י וַיֵּאָסְפ֥וּ
+        אֵלָ֖יו כָּל בְּנֵ֥י לֵוִֽי
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 58:22
+      lang: ar
+      text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ
+        ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ
+        عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ
+        جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟
+        عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
+- kind: shared
+  label: The Levites kill idolaters including their own kin and are consecrated for it
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:27
+      lang: he
+      text: וַיֹּ֣אמֶר לָהֶ֗ם כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל שִׂ֥ימוּ אִישׁ חַרְבּ֖וֹ עַל יְרֵכ֑וֹ
+        עִבְר֨וּ וָשׁ֜וּבוּ מִשַּׁ֤עַר לָשַׁ֨עַר֙ בַּֽמַּחֲנֶ֔ה וְהִרְג֧וּ אִֽישׁ אֶת אָחִ֛יו וְאִ֥ישׁ
+        אֶת רֵעֵ֖הוּ וְאִ֥ישׁ אֶת קְרֹבֽוֹ
+    - ref: Exod 32:28
+      lang: he
+      text: וַיַּֽעֲשׂ֥וּ בְנֵֽי לֵוִ֖י כִּדְבַ֣ר מֹשֶׁ֑ה וַיִּפֹּ֤ל מִן הָעָם֙ בַּיּ֣וֹם הַה֔וּא כִּשְׁלֹ֥שֶׁת
+        אַלְפֵ֖י אִֽישׁ
+    - ref: Exod 32:29
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה מִלְא֨וּ יֶדְכֶ֤ם הַיּוֹם֙ לַֽיהוָ֔ה כִּ֛י אִ֥ישׁ בִּבְנ֖וֹ וּבְאָחִ֑יו
+        וְלָתֵ֧ת עֲלֵיכֶ֛ם הַיּ֖וֹם בְּרָכָֽה
+    note: about three thousand; ordination by killing son and brother
+  - tradition: islam
+    passages:
+    - ref: Quran 58:22
+      lang: ar
+      text: لَّا تَجِدُ قَوْمًا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْءَاخِرِ يُوَآدُّونَ مَنْ حَآدَّ
+        ٱللَّهَ وَرَسُولَهُۥ وَلَوْ كَانُوٓا۟ ءَابَآءَهُمْ أَوْ أَبْنَآءَهُمْ أَوْ إِخْوَٰنَهُمْ أَوْ
+        عَشِيرَتَهُمْ أُو۟لَٰٓئِكَ كَتَبَ فِى قُلُوبِهِمُ ٱلْإِيمَٰنَ وَأَيَّدَهُم بِرُوحٍ مِّنْهُ وَيُدْخِلُهُمْ
+        جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا رَضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟
+        عَنْهُ أُو۟لَٰٓئِكَ حِزْبُ ٱللَّهِ أَلَآ إِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْمُفْلِحُونَ
+    note: loyalty to God over kin (cf. Deut 33:9)
+- kind: shared
+  label: God keeps a book in which names are written and from which sinners are blotted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 32:32
+      lang: he
+      text: וְעַתָּ֖ה אִם תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ
+    - ref: Exod 32:33
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל מֹשֶׁ֑ה מִ֚י אֲשֶׁ֣ר חָֽטָא לִ֔י אֶמְחֶ֖נּוּ מִסִּפְרִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 58:6
+      lang: ar
+      text: يَوْمَ يَبْعَثُهُمُ ٱللَّهُ جَمِيعًا فَيُنَبِّئُهُم بِمَا عَمِلُوٓا۟ أَحْصَىٰهُ ٱللَّهُ وَنَسُوهُ
+        وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ
+    note: God has counted (ahsahu) what they did and they forgot it
 ---
 
 ## Questions

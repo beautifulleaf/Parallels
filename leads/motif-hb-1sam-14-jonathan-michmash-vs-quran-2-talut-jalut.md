@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-14-jonathan-michmash-vs-quran-2-talut-jalut
 title: Jonathan's exploit at Michmash and Saul's rash oath ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: it is the same to god to help the many or the powerless.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - god-saves-by-many-or-few
-passages:
-- tradition: judaism
-  ref: 1Sam 14:6
-  note: It is the same to God to help the many or the powerless (1Sam 14:6 kî ʾên la-YHWH maʿṣôr lĕhôšîaʿ
-    bĕ-rab ʾô bi-mʿāṭ, said by Jonathan; Q 2:249 kam min fiʾatin qalīlatin ghalabat fiʾatan kathīratan
-    bi-idhni llāhi wa-llāhu maʿa ṣ-ṣābirīn, said by those of Saul's men who expect to meet God. The same
-    maxim in the same war setting (Saul's army against the Philistines).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל הַנַּ֣עַר נֹשֵׂ֣א כֵלָ֗יו לְכָה֙ וְנַעְבְּרָ֗ה אֶל מַצַּב֙ הָעֲרֵלִ֣ים
-    הָאֵ֔לֶּה אוּלַ֛י יַעֲשֶׂ֥ה יְהוָ֖ה לָ֑נוּ כִּ֣י אֵ֤ין לַֽיהוָה֙ מַעְצ֔וֹר לְהוֹשִׁ֥יעַ בְּרַ֖ב א֥וֹ
-    בִמְעָֽט
-- tradition: islam
-  ref: Quran 2:249
-  note: It is the same to God to help the many or the powerless
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ مِنْهُ
-    فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ
-    فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ
-    قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُوا۟
-    ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. 1Sam 14:6 kî ʾên la-YHWH maʿṣôr lĕhôšîaʿ bĕ-rab ʾô bi-mʿāṭ, said by Jonathan; Q 2:249 kam
-    min fiʾatin qalīlatin ghalabat fiʾatan kathīratan bi-idhni llāhi wa-llāhu maʿa ṣ-ṣābirīn, said by
-    those of Saul''s men who expect to meet God. The same maxim in the same war setting (Saul''s army
-    against the Philistines).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: It is the same to God to help the many or the powerless (weight
     6.3). Pair score 6.3.'
@@ -74,6 +49,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: It is the same to God to help the many or the powerless
+kinds:
+- parallel
+units:
+- id: hb-1sam-14-jonathan-michmash
+  title: Jonathan's exploit at Michmash and Saul's rash oath
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: parallel
+  label: It is the same to God to help the many or the powerless
+  note: 1Sam 14:6 kî ʾên la-YHWH maʿṣôr lĕhôšîaʿ bĕ-rab ʾô bi-mʿāṭ, said by Jonathan; Q 2:249 kam min
+    fiʾatin qalīlatin ghalabat fiʾatan kathīratan bi-idhni llāhi wa-llāhu maʿa ṣ-ṣābirīn, said by those
+    of Saul's men who expect to meet God. The same maxim in the same war setting (Saul's army against
+    the Philistines).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 14:6
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹנָתָ֜ן אֶל הַנַּ֣עַר נֹשֵׂ֣א כֵלָ֗יו לְכָה֙ וְנַעְבְּרָ֗ה אֶל מַצַּב֙ הָעֲרֵלִ֣ים
+        הָאֵ֔לֶּה אוּלַ֛י יַעֲשֶׂ֥ה יְהוָ֖ה לָ֑נוּ כִּ֣י אֵ֤ין לַֽיהוָה֙ מַעְצ֔וֹר לְהוֹשִׁ֥יעַ בְּרַ֖ב
+        א֥וֹ בִמְעָֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 2:249
+      lang: ar
+      text: فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍ فَمَن شَرِبَ
+        مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ
+        بِيَدِهِۦ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًا مِّنْهُمْ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟
+        مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ قَالَ ٱلَّذِينَ يَظُنُّونَ
+        أَنَّهُم مُّلَٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ
+        وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ
 ---
 
 ## Questions

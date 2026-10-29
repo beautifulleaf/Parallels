@@ -2,8 +2,7 @@
 id: motif-hb-ps-74-leviathan-vs-quran-36-cosmic-signs
 title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan ↔ Signs of the dead earth,
   night, sun, moon and the laden ship
-summary: 'These two units share 1 motifs: sun and moon are set to rule day and night and mark signs and
-  seasons.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - luminaries-rule-day-night
-passages:
-- tradition: judaism
-  ref: Ps 74:16
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 36:37
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
-- tradition: islam
-  ref: Quran 36:40
-  note: Sun and moon are set to rule day and night and mark signs and seasons
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ وَكُلٌّ
-    فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ləḵā yôm ʾap̄-ləḵā lāyəlâ ʾattâ hăḵînôṯā māʾôr wā-šāmeš vs. wa-āyatun lahumu l-laylu naslakhu
-    minhu n-nahār ... wa-sh-shamsu tajrī: day, night and the sun belong to God and were set up by him.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are set to rule day and night and mark signs and seasons
     (weight 4.7). Pair score 4.7.'
@@ -74,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are set to rule day and night and mark signs and seasons
+kinds:
+- echo
+units:
+- id: hb-ps-74-leviathan
+  title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan
+  tradition: judaism
+- id: quran-36-cosmic-signs
+  title: Signs of the dead earth, night, sun, moon and the laden ship
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are set to rule day and night and mark signs and seasons
+  note: 'ləḵā yôm ʾap̄-ləḵā lāyəlâ ʾattâ hăḵînôṯā māʾôr wā-šāmeš vs. wa-āyatun lahumu l-laylu naslakhu
+    minhu n-nahār ... wa-sh-shamsu tajrī: day, night and the sun belong to God and were set up by him.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 74:16
+      lang: he
+      text: לְךָ֣ י֭וֹם אַף לְךָ֥ לָ֑יְלָה אַתָּ֥ה הֲ֝כִינ֗וֹתָ מָא֥וֹר וָשָֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:37
+      lang: ar
+      text: وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ
+    - ref: Quran 36:38
+      lang: ar
+      text: وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ
 ---
 
 ## Questions

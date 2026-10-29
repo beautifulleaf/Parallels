@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-4-cain-abel-vs-quran-99-earthquake
 title: 'Cain and Abel ↔ The earthquake: the earth tells its news'
-summary: 'These two units share 1 motifs: on that day the earth will tell its news, because its lord inspired
-  it.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,43 +13,9 @@ layers:
 - motif
 motifs:
 - earth-tells-its-news
-passages:
-- tradition: judaism
-  ref: Gen 4:10
-  note: 'On that day the earth will tell its news, because its Lord inspired it (tuḥaddithu akhbārahā
-    ~ qôl demê ʾāḥîkā ṣōʿăqîm ʾēlay min hā-ʾădāmāh ... hā-ʾădāmāh ʾăšer pāṣetāh ʾet pîhā: the earth as
-    witness that speaks; in Genesis through the blood it swallowed, in the Quran by God''s inspiration
-    (awḥā lahā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן הָֽאֲדָמָֽה
-- tradition: judaism
-  ref: Gen 4:11
-  note: 'On that day the earth will tell its news, because its Lord inspired it (tuḥaddithu akhbārahā
-    ~ qôl demê ʾāḥîkā ṣōʿăqîm ʾēlay min hā-ʾădāmāh ... hā-ʾădāmāh ʾăšer pāṣetāh ʾet pîhā: the earth as
-    witness that speaks; in Genesis through the blood it swallowed, in the Quran by God''s inspiration
-    (awḥā lahā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֖ה אָר֣וּר אָ֑תָּה מִן הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת פִּ֔יהָ לָקַ֛חַת אֶת דְּמֵ֥י אָחִ֖יךָ
-    מִיָּדֶֽךָ
-- tradition: islam
-  ref: Quran 99:3
-  note: On that day the earth will tell its news, because its Lord inspired it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا
-- tradition: islam
-  ref: Quran 99:4
-  note: On that day the earth will tell its news, because its Lord inspired it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. tuḥaddithu akhbārahā ~ qôl demê ʾāḥîkā ṣōʿăqîm ʾēlay min hā-ʾădāmāh ... hā-ʾădāmāh ʾăšer pāṣetāh
-    ʾet pîhā: the earth as witness that speaks; in Genesis through the blood it swallowed, in the Quran
-    by God''s inspiration (awḥā lahā).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On that day the earth will tell its news, because its Lord inspired
     it (weight 6.3). Pair score 6.3.'
@@ -77,6 +42,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On that day the earth will tell its news, because its Lord inspired it
+kinds:
+- echo
+units:
+- id: hb-gen-4-cain-abel
+  title: Cain and Abel
+  tradition: judaism
+- id: quran-99-earthquake
+  title: 'The earthquake: the earth tells its news'
+  tradition: islam
+matches:
+- kind: echo
+  label: On that day the earth will tell its news, because its Lord inspired it
+  note: 'tuḥaddithu akhbārahā ~ qôl demê ʾāḥîkā ṣōʿăqîm ʾēlay min hā-ʾădāmāh ... hā-ʾădāmāh ʾăšer pāṣetāh
+    ʾet pîhā: the earth as witness that speaks; in Genesis through the blood it swallowed, in the Quran
+    by God''s inspiration (awḥā lahā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 4:10
+      lang: he
+      text: וַיֹּ֖אמֶר מֶ֣ה עָשִׂ֑יתָ ק֚וֹל דְּמֵ֣י אָחִ֔יךָ צֹעֲקִ֥ים אֵלַ֖י מִן הָֽאֲדָמָֽה
+    - ref: Gen 4:11
+      lang: he
+      text: וְעַתָּ֖ה אָר֣וּר אָ֑תָּה מִן הָֽאֲדָמָה֙ אֲשֶׁ֣ר פָּצְתָ֣ה אֶת פִּ֔יהָ לָקַ֛חַת אֶת דְּמֵ֥י
+        אָחִ֖יךָ מִיָּדֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 99:4
+      lang: ar
+      text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
 ---
 
 ## Questions

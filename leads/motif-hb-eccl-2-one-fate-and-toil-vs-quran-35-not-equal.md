@@ -2,8 +2,7 @@
 id: motif-hb-eccl-2-one-fate-and-toil-vs-quran-35-not-equal
 title: Wise and fool share one fate; hatred of toil; eat and drink ↔ No soul bears another's burden; the
   blind and the seeing; the colors of creation
-summary: 'These two units share 1 motifs: whether the seeing and the blind, light and darkness, end alike
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,59 +14,9 @@ layers:
 - motif
 motifs:
 - fate-of-the-seeing-and-the-blind-as-divergence
-passages:
-- tradition: judaism
-  ref: Eccl 2:13
-  note: 'Whether the seeing and the blind, light and darkness, end alike [divergence between the texts]
-    (Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr min-ha-ḥōšeḵ,
-    he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh ʾeḥāḏ yiqreh
-    ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu wa-lā n-nūr
-    ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared end; the Quran
-    insists the two are never equal.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרָאִ֣יתִי אָ֔נִי שֶׁיֵּ֥שׁ יִתְר֛וֹן לַֽחָכְמָ֖ה מִן הַסִּכְל֑וּת כִּֽיתְר֥וֹן הָא֖וֹר מִן הַחֹֽשֶׁךְ
-- tradition: judaism
-  ref: Eccl 2:14
-  note: 'Whether the seeing and the blind, light and darkness, end alike [divergence between the texts]
-    (Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr min-ha-ḥōšeḵ,
-    he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh ʾeḥāḏ yiqreh
-    ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu wa-lā n-nūr
-    ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared end; the Quran
-    insists the two are never equal.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֶֽחָכָם֙ עֵינָ֣יו בְּרֹאשׁ֔וֹ וְהַכְּסִ֖יל בַּחֹ֣שֶׁךְ הוֹלֵ֑ךְ וְיָדַ֣עְתִּי גַם אָ֔נִי שֶׁמִּקְרֶ֥ה
-    אֶחָ֖ד יִקְרֶ֥ה אֶת כֻּלָּֽם
-- tradition: islam
-  ref: Quran 35:19
-  note: 'Whether the seeing and the blind, light and darkness, end alike [divergence between the texts]
-    (Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr min-ha-ḥōšeḵ,
-    he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh ʾeḥāḏ yiqreh
-    ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu wa-lā n-nūr
-    ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared end; the Quran
-    insists the two are never equal.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ
-- tradition: islam
-  ref: Quran 35:20
-  note: 'Whether the seeing and the blind, light and darkness, end alike [divergence between the texts]
-    (Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr min-ha-ḥōšeḵ,
-    he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh ʾeḥāḏ yiqreh
-    ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu wa-lā n-nūr
-    ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared end; the Quran
-    insists the two are never equal.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn
-    hā-ʾôr min-ha-ḥōšeḵ, he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ...
-    še-miqreh ʾeḥāḏ yiqreh ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā
-    ẓ-ẓulumātu wa-lā n-nūr ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to
-    one shared end; the Quran insists the two are never equal.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the seeing and the blind, light and darkness, end alike
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -101,6 +50,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the seeing and the blind, light and darkness, end alike
+kinds:
+- divergence
+units:
+- id: hb-eccl-2-one-fate-and-toil
+  title: Wise and fool share one fate; hatred of toil; eat and drink
+  tradition: judaism
+- id: quran-35-not-equal
+  title: No soul bears another's burden; the blind and the seeing; the colors of creation
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether the seeing and the blind, light and darkness, end alike
+  note: 'Light and darkness, seeing and blind. Qohelet: yeš yiṯrôn la-ḥoḵmâ min-ha-ssiḵlûṯ kîṯrôn hā-ʾôr
+    min-ha-ḥōšeḵ, he-ḥāḵām ʿênâw bə-rōʾšô wə-ha-kkəsîl ba-ḥōšeḵ hôlēḵ, and then wə-yāḏaʿtî ... še-miqreh
+    ʾeḥāḏ yiqreh ʾeṯ-kullām (one fate befalls both). Q: wa-mā yastawī l-aʿmā wa-l-baṣīr wa-lā ẓ-ẓulumātu
+    wa-lā n-nūr ... wa-mā yastawī l-aḥyāʾu wa-lā l-amwāt. The same contrast leads Qohelet to one shared
+    end; the Quran insists the two are never equal.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 2:13
+      lang: he
+      text: וְרָאִ֣יתִי אָ֔נִי שֶׁיֵּ֥שׁ יִתְר֛וֹן לַֽחָכְמָ֖ה מִן הַסִּכְל֑וּת כִּֽיתְר֥וֹן הָא֖וֹר מִן
+        הַחֹֽשֶׁךְ
+    - ref: Eccl 2:14
+      lang: he
+      text: הֶֽחָכָם֙ עֵינָ֣יו בְּרֹאשׁ֔וֹ וְהַכְּסִ֖יל בַּחֹ֣שֶׁךְ הוֹלֵ֑ךְ וְיָדַ֣עְתִּי גַם אָ֔נִי
+        שֶׁמִּקְרֶ֥ה אֶחָ֖ד יִקְרֶ֥ה אֶת כֻּלָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 35:19
+      lang: ar
+      text: وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ
+    - ref: Quran 35:20
+      lang: ar
+      text: وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ
+    - ref: Quran 35:22
+      lang: ar
+      text: وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ وَمَآ
+        أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ
 ---
 
 ## Questions

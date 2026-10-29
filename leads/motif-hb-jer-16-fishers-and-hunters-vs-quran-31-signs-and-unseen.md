@@ -2,8 +2,7 @@
 id: motif-hb-jer-16-fishers-and-hunters-vs-quran-31-signs-and-unseen
 title: A new exodus from the north; fishers and hunters ↔ God's signs, the inexhaustible words, and the
   five things only God knows
-summary: 'These two units share 1 motifs: the religion of the fathers invoked, held to or renounced [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - appeal-to-the-fathers-religion-as-contrast
-passages:
-- tradition: judaism
-  ref: Jer 16:19
-  note: 'The religion of the fathers invoked, held to or renounced [contrast between the texts] (The appeal
-    to ancestors, reversed. Q: bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā, where the rejecters hold to their
-    fathers'' way. Jer: ʾēleyḵā gôyim yāḇōʾû ... wə-yōʾmərû ʾaḵ-šeqer nāḥălû ʾăḇôṯênû heḇel, where the
-    nations repent and confess that their fathers inherited only lies.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
-    אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
-- tradition: islam
-  ref: Quran 31:21
-  note: 'The religion of the fathers invoked, held to or renounced [contrast between the texts] (The appeal
-    to ancestors, reversed. Q: bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā, where the rejecters hold to their
-    fathers'' way. Jer: ʾēleyḵā gôyim yāḇōʾû ... wə-yōʾmərû ʾaḵ-šeqer nāḥălû ʾăḇôṯênû heḇel, where the
-    nations repent and confess that their fathers inherited only lies.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ
-    ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. The appeal to ancestors, reversed. Q: bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā, where the
-    rejecters hold to their fathers'' way. Jer: ʾēleyḵā gôyim yāḇōʾû ... wə-yōʾmərû ʾaḵ-šeqer nāḥălû ʾăḇôṯênû
-    heḇel, where the nations repent and confess that their fathers inherited only lies.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The religion of the fathers invoked, held to or renounced [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -74,6 +50,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The religion of the fathers invoked, held to or renounced
+kinds:
+- contrast
+units:
+- id: hb-jer-16-fishers-and-hunters
+  title: A new exodus from the north; fishers and hunters
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: contrast
+  label: The religion of the fathers invoked, held to or renounced
+  note: 'The appeal to ancestors, reversed. Q: bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā, where the rejecters
+    hold to their fathers'' way. Jer: ʾēleyḵā gôyim yāḇōʾû ... wə-yōʾmərû ʾaḵ-šeqer nāḥălû ʾăḇôṯênû heḇel,
+    where the nations repent and confess that their fathers inherited only lies.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 16:19
+      lang: he
+      text: יְהוָ֞ה עֻזִּ֧י וּמָעֻזִּ֛י וּמְנוּסִ֖י בְּי֣וֹם צָרָ֑ה אֵלֶ֗יךָ גּוֹיִ֤ם יָבֹ֨אוּ֙ מֵֽאַפְסֵי
+        אָ֔רֶץ וְיֹאמְר֗וּ אַךְ שֶׁ֨קֶר֙ נָחֲל֣וּ אֲבוֹתֵ֔ינוּ הֶ֖בֶל וְאֵֽין בָּ֥ם מוֹעִֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 31:21
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا
+        عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
 ---
 
 ## Questions

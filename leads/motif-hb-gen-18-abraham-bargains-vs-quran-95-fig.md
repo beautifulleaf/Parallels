@@ -1,9 +1,7 @@
 ---
 id: motif-hb-gen-18-abraham-bargains-vs-quran-95-fig
 title: Abraham bargains for Sodom ↔ The fig and the olive, Mount Sinai and the secure city
-summary: 'These two units share 2 motifs: hero challenges god: shall the judge of all the earth not do
-  justice? [divergence between the texts], hero challenges god: shall the judge of all the earth not do
-  justice?.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,60 +14,9 @@ layers:
 motifs:
 - judge-of-all-earth-must-be-just-as-divergence
 - judge-of-all-earth-must-be-just
-passages:
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? [divergence between the
-    texts] (a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same rhetorical
-    question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier to affirm judgment
-    (fa-mā yukadhdhibuka baʿdu bi-d-dīn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 95:7
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? [divergence between the
-    texts] (a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same rhetorical
-    question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier to affirm judgment
-    (fa-mā yukadhdhibuka baʿdu bi-d-dīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ
-- tradition: islam
-  ref: Quran 95:8
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? [divergence between the
-    texts] (a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same rhetorical
-    question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier to affirm judgment
-    (fa-mā yukadhdhibuka baʿdu bi-d-dīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
-- tradition: judaism
-  ref: Gen 18:23
-  note: 'Hero challenges God: shall the judge of all the earth not do justice?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Hero challenges God: shall the judge of all the earth not do justice?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 95:8
-  note: 'Hero challenges God: shall the judge of all the earth not do justice? (''is God not the most
-    just of judges?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same
-    rhetorical question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier
-    to affirm judgment (fa-mā yukadhdhibuka baʿdu bi-d-dīn).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero challenges God: shall the judge of all the earth not do justice?
     [divergence between the texts] (weight 6.7); Hero challenges God: shall the judge of all the earth
@@ -101,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Hero challenges God: shall the judge of all the earth not do justice?'
+kinds:
+- divergence
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-95-fig
+  title: The fig and the olive, Mount Sinai and the secure city
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'Hero challenges God: shall the judge of all the earth not do justice?'
+  note: 'a-laysa llāhu bi-aḥkami l-ḥākimīn ~ hă-šōfēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ: the same rhetorical
+    question. Abraham asks it of God to restrain judgment; the Quran asks it of the denier to affirm judgment
+    (fa-mā yukadhdhibuka baʿdu bi-d-dīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:25
+      lang: he
+      text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
+        כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 95:7
+      lang: ar
+      text: فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ
+    - ref: Quran 95:8
+      lang: ar
+      text: أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَٰكِمِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-1kgs-8-dedication-prayer-vs-quran-2-qibla
 title: Solomon's prayer of dedication ↔ The change of qibla
-summary: 'These two units share 2 motifs: the direction faced in prayer [divergence between the texts],
-  prayers made toward the temple (or toward the land, city and house when in exile) are heard in heaven.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,87 +14,9 @@ layers:
 motifs:
 - direction-of-prayer-as-divergence
 - prayer-toward-the-temple
-passages:
-- tradition: judaism
-  ref: 1Kgs 8:48
-  note: The direction faced in prayer [divergence between the texts] (1Kgs 8:48 wĕ-hitpallĕlû ʾēlêkā derek
-    ʾarṣām ... hā-ʿîr ʾăšer bāḥartā wĕ-ha-bbayit ʾăšer bānîtî li-šmekā; Q 2:144 fa-walli wajhaka shaṭra
-    l-masjidi l-ḥarām ... wa-ḥaythu mā kuntum fa-wallū wujūhakum shaṭrahu. The Jerusalem temple as prayer
-    direction is replaced by the Sacred Mosque.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל לְבָבָם֙ וּבְכָל נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר שָׁב֣וּ אֹתָ֑ם
-    וְהִֽתְפַּֽלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר בָּחַ֔רְתָּ
-    וְהַבַּ֖יִת אֲשֶׁר בנית בָּנִ֥יתִי לִשְׁמֶֽךָ
-- tradition: islam
-  ref: Quran 2:142
-  note: 'The direction faced in prayer [divergence between the texts] (Dan 6:11 wĕ-kawwîn pĕtîḥān lēh
-    bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through windows open toward Jerusalem; Q 2:142-144
-    mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli wajhaka shaṭra l-masjidi l-ḥarām: the
-    believers are turned from their former qibla (by tradition Jerusalem) to the Sacred Mosque. The fixed
-    direction of prayer is kept and its goal changed. Note the cognate prayer verb (Aram. mĕṣallēʾ / Ar.
-    ṣallā, muṣallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَيَقُولُ ٱلسُّفَهَآءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمْ عَن قِبْلَتِهِمُ ٱلَّتِى كَانُوا۟ عَلَيْهَا
-    قُل لِّلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ يَهْدِى مَن يَشَآءُ إِلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ
-- tradition: islam
-  ref: Quran 2:144
-  note: 'The direction faced in prayer [divergence between the texts] (Dan 6:11 wĕ-kawwîn pĕtîḥān lēh
-    bĕ-ʿillîtēh neged yĕrûšlem ... mĕṣallēʾ: Daniel prays through windows open toward Jerusalem; Q 2:142-144
-    mā wallāhum ʿan qiblatihimu llatī kānū ʿalayhā ... fa-walli wajhaka shaṭra l-masjidi l-ḥarām: the
-    believers are turned from their former qibla (by tradition Jerusalem) to the Sacred Mosque. The fixed
-    direction of prayer is kept and its goal changed. Note the cognate prayer verb (Aram. mĕṣallēʾ / Ar.
-    ṣallā, muṣallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
-    وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
-    ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
-    عَمَّا يَعْمَلُونَ
-- tradition: judaism
-  ref: 1Kgs 8:29-30
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (8:29) לִהְיוֹת֩ עֵינֶ֨ךָ פְתֻח֜וֹת אֶל הַבַּ֤יִת הַזֶּה֙ לַ֣יְלָה וָי֔וֹם אֶל הַ֨מָּק֔וֹם אֲשֶׁ֣ר
-    אָמַ֔רְתָּ יִהְיֶ֥ה שְׁמִ֖י שָׁ֑ם לִשְׁמֹ֨עַ֙ אֶל הַתְּפִלָּ֔ה אֲשֶׁ֣ר יִתְפַּלֵּ֣ל עַבְדְּךָ֔ אֶל
-    הַמָּק֖וֹם הַזֶּֽה (8:30) וְשָׁ֨מַעְתָּ֜ אֶל תְּחִנַּ֤ת עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר
-    יִֽתְפַּֽלְל֖וּ אֶל הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּה תִּשְׁמַ֞ע אֶל מְק֤וֹם שִׁבְתְּךָ֙ אֶל הַשָּׁמַ֔יִם
-    וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ
-- tradition: judaism
-  ref: 1Kgs 8:35
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל הַמָּק֤וֹם
-    הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם
-- tradition: islam
-  ref: Quran 2:144
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
-    وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
-    ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
-    عَمَّا يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 2:150
-  note: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
-    heaven
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟
-    وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ ظَلَمُوا۟ مِنْهُمْ
-    فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ تَهْتَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. 1Kgs 8:48 wĕ-hitpallĕlû ʾēlêkā derek ʾarṣām ... hā-ʿîr ʾăšer bāḥartā wĕ-ha-bbayit ʾăšer
-    bānîtî li-šmekā; Q 2:144 fa-walli wajhaka shaṭra l-masjidi l-ḥarām ... wa-ḥaythu mā kuntum fa-wallū
-    wujūhakum shaṭrahu. The Jerusalem temple as prayer direction is replaced by the Sacred Mosque.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The direction faced in prayer [divergence between the texts] (weight
     6.0); Prayers made toward the temple (or toward the land, city and house when in exile) are heard
@@ -125,6 +46,80 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The direction faced in prayer
+kinds:
+- divergence
+- shared
+units:
+- id: hb-1kgs-8-dedication-prayer
+  title: Solomon's prayer of dedication
+  tradition: judaism
+- id: quran-2-qibla
+  title: The change of qibla
+  tradition: islam
+matches:
+- kind: divergence
+  label: The direction faced in prayer
+  note: 1Kgs 8:48 wĕ-hitpallĕlû ʾēlêkā derek ʾarṣām ... hā-ʿîr ʾăšer bāḥartā wĕ-ha-bbayit ʾăšer bānîtî
+    li-šmekā; Q 2:144 fa-walli wajhaka shaṭra l-masjidi l-ḥarām ... wa-ḥaythu mā kuntum fa-wallū wujūhakum
+    shaṭrahu. The Jerusalem temple as prayer direction is replaced by the Sacred Mosque.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:48
+      lang: he
+      text: וְשָׁ֣בוּ אֵלֶ֗יךָ בְּכָל לְבָבָם֙ וּבְכָל נַפְשָׁ֔ם בְּאֶ֥רֶץ אֹיְבֵיהֶ֖ם אֲשֶׁר שָׁב֣וּ
+        אֹתָ֑ם וְהִֽתְפַּֽלְל֣וּ אֵלֶ֗יךָ דֶּ֤רֶךְ אַרְצָם֙ אֲשֶׁ֣ר נָתַ֣תָּה לַאֲבוֹתָ֔ם הָעִיר֙ אֲשֶׁ֣ר
+        בָּחַ֔רְתָּ וְהַבַּ֖יִת אֲשֶׁר בנית בָּנִ֥יתִי לִשְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:144
+      lang: ar
+      text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
+        وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
+        ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا يَعْمَلُونَ
+    - ref: Quran 2:150
+      lang: ar
+      text: وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ
+        فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ
+        ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ
+        تَهْتَدُونَ
+- kind: shared
+  label: Prayers made toward the temple (or toward the land, city and house when in exile) are heard in
+    heaven
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 8:29-30
+      lang: he
+      text: (8:29) לִהְיוֹת֩ עֵינֶ֨ךָ פְתֻח֜וֹת אֶל הַבַּ֤יִת הַזֶּה֙ לַ֣יְלָה וָי֔וֹם אֶל הַ֨מָּק֔וֹם
+        אֲשֶׁ֣ר אָמַ֔רְתָּ יִהְיֶ֥ה שְׁמִ֖י שָׁ֑ם לִשְׁמֹ֨עַ֙ אֶל הַתְּפִלָּ֔ה אֲשֶׁ֣ר יִתְפַּלֵּ֣ל עַבְדְּךָ֔
+        אֶל הַמָּק֖וֹם הַזֶּֽה (8:30) וְשָׁ֨מַעְתָּ֜ אֶל תְּחִנַּ֤ת עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל
+        אֲשֶׁ֥ר יִֽתְפַּֽלְל֖וּ אֶל הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּה תִּשְׁמַ֞ע אֶל מְק֤וֹם שִׁבְתְּךָ֙ אֶל
+        הַשָּׁמַ֔יִם וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ
+    - ref: 1Kgs 8:35
+      lang: he
+      text: בְּהֵעָצֵ֥ר שָׁמַ֛יִם וְלֹא יִהְיֶ֥ה מָטָ֖ר כִּ֣י יֶחֶטְאוּ לָ֑ךְ וְהִֽתְפַּֽלְל֞וּ אֶל הַמָּק֤וֹם
+        הַזֶּה֙ וְהוֹד֣וּ אֶת שְׁמֶ֔ךָ וּמֵחַטָּאתָ֥ם יְשׁוּב֖וּן כִּ֥י תַעֲנֵֽם
+    - ref: 1Kgs 8:44
+      lang: he
+      text: כִּי יֵצֵ֨א עַמְּךָ֤ לַמִּלְחָמָה֙ עַל אֹ֣יְב֔וֹ בַּדֶּ֖רֶךְ אֲשֶׁ֣ר תִּשְׁלָחֵ֑ם וְהִתְפַּֽלְל֣וּ
+        אֶל יְהוָ֗ה דֶּ֤רֶךְ הָעִיר֙ אֲשֶׁ֣ר בָּחַ֣רְתָּ בָּ֔הּ וְהַבַּ֖יִת אֲשֶׁר בָּנִ֥תִי לִשְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:144
+      lang: ar
+      text: قَدْ نَرَىٰ تَقَلُّبَ وَجْهِكَ فِى ٱلسَّمَآءِ فَلَنُوَلِّيَنَّكَ قِبْلَةً تَرْضَىٰهَا فَوَلِّ
+        وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ وَإِنَّ
+        ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ لَيَعْلَمُونَ أَنَّهُ ٱلْحَقُّ مِن رَّبِّهِمْ وَمَا ٱللَّهُ بِغَٰفِلٍ
+        عَمَّا يَعْمَلُونَ
+    - ref: Quran 2:150
+      lang: ar
+      text: وَمِنْ حَيْثُ خَرَجْتَ فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ وَحَيْثُ مَا كُنتُمْ
+        فَوَلُّوا۟ وُجُوهَكُمْ شَطْرَهُۥ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَيْكُمْ حُجَّةٌ إِلَّا ٱلَّذِينَ
+        ظَلَمُوا۟ مِنْهُمْ فَلَا تَخْشَوْهُمْ وَٱخْشَوْنِى وَلِأُتِمَّ نِعْمَتِى عَلَيْكُمْ وَلَعَلَّكُمْ
+        تَهْتَدُونَ
 ---
 
 ## Questions

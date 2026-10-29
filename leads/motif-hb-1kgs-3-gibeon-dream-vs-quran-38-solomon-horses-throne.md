@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-3-gibeon-dream-vs-quran-38-solomon-horses-throne
 title: Solomon's dream at Gibeon; he asks for a listening heart ↔ Solomon's steeds, the body on his throne,
   and the unmatched kingdom
-summary: 'These two units share 1 motifs: what solomon asks of god and the gift none after him will match
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,62 +14,9 @@ layers:
 - motif
 motifs:
 - solomons-request-and-unmatched-gift-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 3:9
-  note: 'What Solomon asks of God and the gift none after him will match [divergence between the texts]
-    (What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for
-    not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ
-    ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī.
-    He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability ''after you''
-    is God''s gift in Kings and Solomon''s own request in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָתַתָּ֨ לְעַבְדְּךָ֜ לֵ֤ב שֹׁמֵ֨עַ֙ לִשְׁפֹּ֣ט אֶֽת עַמְּךָ֔ לְהָבִ֖ין בֵּֽין ט֣וֹב לְרָ֑ע
-    כִּ֣י מִ֤י יוּכַל֙ לִשְׁפֹּ֔ט אֶת עַמְּךָ֥ הַכָּבֵ֖ד הַזֶּֽה
-- tradition: judaism
-  ref: 1Kgs 3:11
-  note: 'What Solomon asks of God and the gift none after him will match [divergence between the texts]
-    (What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for
-    not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ
-    ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī.
-    He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability ''after you''
-    is God''s gift in Kings and Solomon''s own request in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר אֱלֹהִ֜ים אֵלָ֗יו יַעַן֩ אֲשֶׁ֨ר שָׁאַ֜לְתָּ אֶת הַדָּבָ֣ר הַזֶּ֗ה וְלֹֽא שָׁאַ֨לְתָּ
-    לְּךָ֜ יָמִ֣ים רַבִּ֗ים וְלֹֽא שָׁאַ֤לְתָּ לְּךָ֙ עֹ֔שֶׁר וְלֹ֥א שָׁאַ֖לְתָּ נֶ֣פֶשׁ אֹיְבֶ֑יךָ וְשָׁאַ֧לְתָּ
-    לְּךָ֛ הָבִ֖ין לִשְׁמֹ֥עַ מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 38:35
-  note: 'What Solomon asks of God and the gift none after him will match [divergence between the texts]
-    (What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for
-    not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ
-    ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī.
-    He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability ''after you''
-    is God''s gift in Kings and Solomon''s own request in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ إِنَّكَ أَنتَ
-    ٱلْوَهَّابُ
-- tradition: islam
-  ref: Quran 38:39
-  note: 'What Solomon asks of God and the gift none after him will match [divergence between the texts]
-    (What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him for
-    not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ
-    ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī.
-    He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability ''after you''
-    is God''s gift in Kings and Solomon''s own request in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هَٰذَا عَطَآؤُنَا فَٱمْنُنْ أَوْ أَمْسِكْ بِغَيْرِ حِسَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises
-    him for not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā
-    lōʾ-hāyâ ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin
-    min baʿdī. He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability
-    ''after you'' is God''s gift in Kings and Solomon''s own request in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Solomon asks of God and the gift none after him will match
     [divergence between the texts] (weight 6.3). Pair score 6.3.'
@@ -100,6 +46,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What Solomon asks of God and the gift none after him will match
+kinds:
+- divergence
+units:
+- id: hb-1kgs-3-gibeon-dream
+  title: Solomon's dream at Gibeon; he asks for a listening heart
+  tradition: judaism
+- id: quran-38-solomon-horses-throne
+  title: Solomon's steeds, the body on his throne, and the unmatched kingdom
+  tradition: islam
+matches:
+- kind: divergence
+  label: What Solomon asks of God and the gift none after him will match
+  note: 'What Solomon asks for. Kings: he asks only lēḇ šōmēaʿ lišpōṭ ʾeṯ-ʿamməḵā, and God praises him
+    for not asking (wə-lōʾ šāʾaltā ləḵā ʿōšer), then grants unasked ʿōšer and kāḇôḏ, ʾăšer kāmôḵā lōʾ-hāyâ
+    ... wə-ʾaḥăreyḵā lōʾ-yāqûm kāmôḵā. Q: rabbi ghfir lī wa-hab lī mulkan lā yanbaghī li-aḥadin min baʿdī.
+    He asks forgiveness, then asks directly for the unmatched kingdom. The incomparability ''after you''
+    is God''s gift in Kings and Solomon''s own request in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 3:9
+      lang: he
+      text: וְנָתַתָּ֨ לְעַבְדְּךָ֜ לֵ֤ב שֹׁמֵ֨עַ֙ לִשְׁפֹּ֣ט אֶֽת עַמְּךָ֔ לְהָבִ֖ין בֵּֽין ט֣וֹב לְרָ֑ע
+        כִּ֣י מִ֤י יוּכַל֙ לִשְׁפֹּ֔ט אֶת עַמְּךָ֥ הַכָּבֵ֖ד הַזֶּֽה
+    - ref: 1Kgs 3:11
+      lang: he
+      text: וַיֹּ֨אמֶר אֱלֹהִ֜ים אֵלָ֗יו יַעַן֩ אֲשֶׁ֨ר שָׁאַ֜לְתָּ אֶת הַדָּבָ֣ר הַזֶּ֗ה וְלֹֽא שָׁאַ֨לְתָּ
+        לְּךָ֜ יָמִ֣ים רַבִּ֗ים וְלֹֽא שָׁאַ֤לְתָּ לְּךָ֙ עֹ֔שֶׁר וְלֹ֥א שָׁאַ֖לְתָּ נֶ֣פֶשׁ אֹיְבֶ֑יךָ
+        וְשָׁאַ֧לְתָּ לְּךָ֛ הָבִ֖ין לִשְׁמֹ֥עַ מִשְׁפָּֽט
+    - ref: 1Kgs 3:12
+      lang: he
+      text: הִנֵּ֥ה עָשִׂ֖יתִי כִּדְבָרֶ֑יךָ הִנֵּ֣ה נָתַ֣תִּי לְךָ֗ לֵ֚ב חָכָ֣ם וְנָב֔וֹן אֲשֶׁ֤ר כָּמ֨וֹךָ֙
+        לֹא הָיָ֣ה לְפָנֶ֔יךָ וְאַחֲרֶ֖יךָ לֹא יָק֥וּם כָּמֽוֹךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:35
+      lang: ar
+      text: قَالَ رَبِّ ٱغْفِرْ لِى وَهَبْ لِى مُلْكًا لَّا يَنۢبَغِى لِأَحَدٍ مِّنۢ بَعْدِىٓ إِنَّكَ
+        أَنتَ ٱلْوَهَّابُ
 ---
 
 ## Questions

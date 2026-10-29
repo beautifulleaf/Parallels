@@ -2,8 +2,7 @@
 id: motif-hb-1kgs-5-dominion-wisdom-vs-quran-27-solomon-ants-hoopoe-sheba
 title: Solomon's dominion, provisions and wisdom ↔ Solomon, the speech of birds, the ants, the hoopoe
   and the Queen of Sheba
-summary: 'These two units share 2 motifs: wise king discourses on trees from cedar to hyssop, and on beasts,
-  birds, creeping things and fish, solomon''s wisdom concerning animals [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,63 +15,9 @@ layers:
 motifs:
 - wise-king-speaks-of-plants-and-animals
 - solomon-and-the-animals-as-divergence
-passages:
-- tradition: judaism
-  ref: 1Kgs 5:13
-  note: Wise king discourses on trees from cedar to hyssop, and on beasts, birds, creeping things and
-    fish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּר֮ עַל הָֽעֵצִים֒ מִן הָאֶ֨רֶז֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וְעַד֙ הָאֵז֔וֹב אֲשֶׁ֥ר יֹצֵ֖א
-    בַּקִּ֑יר וַיְדַבֵּר֙ עַל הַבְּהֵמָ֣ה וְעַל הָע֔וֹף וְעַל הָרֶ֖מֶשׂ וְעַל הַדָּגִֽים
-- tradition: islam
-  ref: Quran 27:16
-  note: Wise king discourses on trees from cedar to hyssop, and on beasts, birds, creeping things and
-    fish (1 Kgs 5:13 (Eng 4:33))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا
-    مِن كُلِّ شَىْءٍ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ
-- tradition: judaism
-  ref: 1Kgs 5:13
-  note: 'Solomon''s wisdom concerning animals [divergence between the texts] (Solomon and the animals:
-    1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś wə-ʿal had-dāgîm, he spoke about beasts
-    and birds (wisdom about them); the Quran has ʿullimnā manṭiqa ṭ-ṭayri, he was taught the speech of
-    birds, and he understands an ant and talks with a hoopoe. Knowledge about animals becomes conversation
-    with them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּר֮ עַל הָֽעֵצִים֒ מִן הָאֶ֨רֶז֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וְעַד֙ הָאֵז֔וֹב אֲשֶׁ֥ר יֹצֵ֖א
-    בַּקִּ֑יר וַיְדַבֵּר֙ עַל הַבְּהֵמָ֣ה וְעַל הָע֔וֹף וְעַל הָרֶ֖מֶשׂ וְעַל הַדָּגִֽים
-- tradition: islam
-  ref: Quran 27:16
-  note: 'Solomon''s wisdom concerning animals [divergence between the texts] (Solomon and the animals:
-    1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś wə-ʿal had-dāgîm, he spoke about beasts
-    and birds (wisdom about them); the Quran has ʿullimnā manṭiqa ṭ-ṭayri, he was taught the speech of
-    birds, and he understands an ant and talks with a hoopoe. Knowledge about animals becomes conversation
-    with them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا
-    مِن كُلِّ شَىْءٍ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ
-- tradition: islam
-  ref: Quran 27:19
-  note: 'Solomon''s wisdom concerning animals [divergence between the texts] (Solomon and the animals:
-    1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś wə-ʿal had-dāgîm, he spoke about beasts
-    and birds (wisdom about them); the Quran has ʿullimnā manṭiqa ṭ-ṭayri, he was taught the speech of
-    birds, and he understands an ant and talks with a hoopoe. Knowledge about animals becomes conversation
-    with them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ
-    أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ
-    فِى عِبَادِكَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Solomon and the animals: 1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś
-    wə-ʿal had-dāgîm, he spoke about beasts and birds (wisdom about them); the Quran has ʿullimnā manṭiqa
-    ṭ-ṭayri, he was taught the speech of birds, and he understands an ant and talks with a hoopoe. Knowledge
-    about animals becomes conversation with them.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wise king discourses on trees from cedar to hyssop, and on beasts,
     birds, creeping things and fish (weight 6.7); Solomon''s wisdom concerning animals [divergence between
@@ -108,6 +53,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Solomon's wisdom concerning animals
+kinds:
+- divergence
+- shared
+units:
+- id: hb-1kgs-5-dominion-wisdom
+  title: Solomon's dominion, provisions and wisdom
+  tradition: judaism
+- id: quran-27-solomon-ants-hoopoe-sheba
+  title: Solomon, the speech of birds, the ants, the hoopoe and the Queen of Sheba
+  tradition: islam
+matches:
+- kind: divergence
+  label: Solomon's wisdom concerning animals
+  note: 'Solomon and the animals: 1Kgs wa-ydabbēr ʿal hab-bəhēmâ wə-ʿal hā-ʿôf wə-ʿal hā-remeś wə-ʿal
+    had-dāgîm, he spoke about beasts and birds (wisdom about them); the Quran has ʿullimnā manṭiqa ṭ-ṭayri,
+    he was taught the speech of birds, and he understands an ant and talks with a hoopoe. Knowledge about
+    animals becomes conversation with them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 5:13
+      lang: he
+      text: וַיְדַבֵּר֮ עַל הָֽעֵצִים֒ מִן הָאֶ֨רֶז֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וְעַד֙ הָאֵז֔וֹב אֲשֶׁ֥ר יֹצֵ֖א
+        בַּקִּ֑יר וַיְדַבֵּר֙ עַל הַבְּהֵמָ֣ה וְעַל הָע֔וֹף וְעַל הָרֶ֖מֶשׂ וְעַל הַדָּגִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 27:16
+      lang: ar
+      text: وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا
+        مِن كُلِّ شَىْءٍ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ
+    - ref: Quran 27:19
+      lang: ar
+      text: فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ
+        أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ
+        فِى عِبَادِكَ ٱلصَّٰلِحِينَ
+- kind: shared
+  label: Wise king discourses on trees from cedar to hyssop, and on beasts, birds, creeping things and
+    fish
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Kgs 5:13
+      lang: he
+      text: וַיְדַבֵּר֮ עַל הָֽעֵצִים֒ מִן הָאֶ֨רֶז֙ אֲשֶׁ֣ר בַּלְּבָנ֔וֹן וְעַד֙ הָאֵז֔וֹב אֲשֶׁ֥ר יֹצֵ֖א
+        בַּקִּ֑יר וַיְדַבֵּר֙ עַל הַבְּהֵמָ֣ה וְעַל הָע֔וֹף וְעַל הָרֶ֖מֶשׂ וְעַל הַדָּגִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 27:16
+      lang: ar
+      text: وَوَرِثَ سُلَيْمَٰنُ دَاوُۥدَ وَقَالَ يَٰٓأَيُّهَا ٱلنَّاسُ عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ وَأُوتِينَا
+        مِن كُلِّ شَىْءٍ إِنَّ هَٰذَا لَهُوَ ٱلْفَضْلُ ٱلْمُبِينُ
+    note: 1 Kgs 5:13 (Eng 4:33)
 ---
 
 ## Questions

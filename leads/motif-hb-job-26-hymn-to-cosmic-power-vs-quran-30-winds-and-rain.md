@@ -2,8 +2,7 @@
 id: motif-hb-job-26-hymn-to-cosmic-power-vs-quran-30-winds-and-rain
 title: Job - the earth hung on nothing; Rahab smitten ↔ Winds and rain; the dead who cannot hear; the
   ages of man
-summary: 'These two units share 1 motifs: god binds up the waters in his thick clouds and the cloud does
-  not burst under them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - waters-bound-in-clouds
-passages:
-- tradition: judaism
-  ref: Job 26:8
-  note: God binds up the waters in his thick clouds and the cloud does not burst under them
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: צֹרֵֽר מַ֥יִם בְּעָבָ֑יו וְלֹא נִבְקַ֖ע עָנָ֣ן תַּחְתָּֽם
-- tradition: islam
-  ref: Quran 30:48
-  note: God binds up the waters in his thick clouds and the cloud does not burst under them (ṣōrēr mayim
-    bə-ʿāḇāw wə-lōʾ-niḇqaʿ ʿānān taḥtām (the cloud does not burst under the water) vs. wa-yajʿaluhu kisafan
-    fa-tarā l-wadqa yakhruju min khilālihi (rain coming out from within the cloud fragments).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ
-    وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ
-    مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ṣōrēr mayim bə-ʿāḇāw wə-lōʾ-niḇqaʿ ʿānān taḥtām (the cloud does not burst under the water) vs.
-    wa-yajʿaluhu kisafan fa-tarā l-wadqa yakhruju min khilālihi (rain coming out from within the cloud
-    fragments).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God binds up the waters in his thick clouds and the cloud does not
     burst under them (weight 6.7). Pair score 6.7.'
@@ -68,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God binds up the waters in his thick clouds and the cloud does not burst under them
+kinds:
+- echo
+units:
+- id: hb-job-26-hymn-to-cosmic-power
+  title: Job - the earth hung on nothing; Rahab smitten
+  tradition: judaism
+- id: quran-30-winds-and-rain
+  title: Winds and rain; the dead who cannot hear; the ages of man
+  tradition: islam
+matches:
+- kind: echo
+  label: God binds up the waters in his thick clouds and the cloud does not burst under them
+  note: ṣōrēr mayim bə-ʿāḇāw wə-lōʾ-niḇqaʿ ʿānān taḥtām (the cloud does not burst under the water) vs.
+    wa-yajʿaluhu kisafan fa-tarā l-wadqa yakhruju min khilālihi (rain coming out from within the cloud
+    fragments).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 26:8
+      lang: he
+      text: צֹרֵֽר מַ֥יִם בְּעָבָ֑יו וְלֹא נִבְקַ֖ע עָנָ֣ן תַּחְתָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 30:48
+      lang: ar
+      text: ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ
+        يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ فَإِذَآ أَصَابَ بِهِۦ
+        مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ
 ---
 
 ## Questions

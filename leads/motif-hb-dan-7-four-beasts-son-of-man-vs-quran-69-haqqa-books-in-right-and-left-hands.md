@@ -2,8 +2,7 @@
 id: motif-hb-dan-7-four-beasts-son-of-man-vs-quran-69-haqqa-books-in-right-and-left-hands
 title: The four beasts, the Ancient of Days and one like a son of man ↔ The book in the right hand and
   in the left, the seventy-cubit chain, ghislin, and the aorta of a forger
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Dan 7:10
-  note: 'God keeps a book in which names are written and from which sinners are blotted (Books at the
-    judgment: kitābahu bi-yamīnihi / bi-shimālihi ~ dînāʾ yetiv we-sifrîn petîḥû (Aramaic: the court sat
-    and the books were opened).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ
-    רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
-- tradition: islam
-  ref: Quran 69:19
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
-- tradition: islam
-  ref: Quran 69:25
-  note: God keeps a book in which names are written and from which sinners are blotted (a personal book
-    of deeds)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. Books at the judgment: kitābahu bi-yamīnihi / bi-shimālihi ~ dînāʾ yetiv we-sifrîn petîḥû (Aramaic:
-    the court sat and the books were opened).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -81,6 +55,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-dan-7-four-beasts-son-of-man
+  title: The four beasts, the Ancient of Days and one like a son of man
+  tradition: judaism
+- id: quran-69-haqqa-books-in-right-and-left-hands
+  title: The book in the right hand and in the left, the seventy-cubit chain, ghislin, and the aorta of
+    a forger
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: 'Books at the judgment: kitābahu bi-yamīnihi / bi-shimālihi ~ dînāʾ yetiv we-sifrîn petîḥû (Aramaic:
+    the court sat and the books were opened).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 7:10
+      lang: he
+      text: נְהַ֣ר דִּי נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן קֳדָמ֔וֹהִי אֶ֤לֶף אלפים אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ
+        וְרִבּ֥וֹ רבון רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 69:19
+      lang: ar
+      text: فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقْرَءُوا۟ كِتَٰبِيَهْ
+    - ref: Quran 69:25
+      lang: ar
+      text: وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيْتَنِى لَمْ أُوتَ كِتَٰبِيَهْ
 ---
 
 ## Questions

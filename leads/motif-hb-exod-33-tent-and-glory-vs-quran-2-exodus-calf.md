@@ -1,7 +1,7 @@
 ---
 id: motif-hb-exod-33-tent-and-glory-vs-quran-2-exodus-calf
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ Exodus, the calf and the wilderness
-summary: 'These two units share 1 motifs: no human can see god''s face and live.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,38 +14,9 @@ layers:
 - motif
 motifs:
 - no-man-sees-god-and-lives
-passages:
-- tradition: judaism
-  ref: Exod 33:20
-  note: No human can see God's face and live
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
-- tradition: judaism
-  ref: Exod 33:22
-  note: No human can see God's face and live
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָה֙ בַּעֲבֹ֣ר כְּבֹדִ֔י וְשַׂמְתִּ֖יךָ בְּנִקְרַ֣ת הַצּ֑וּר וְשַׂכֹּתִ֥י כַפִּ֛י עָלֶ֖יךָ
-    עַד עָבְרִֽי
-- tradition: islam
-  ref: Quran 2:55
-  note: No human can see God's face and live
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ ٱلصَّٰعِقَةُ
-    وَأَنتُمْ تَنظُرُونَ
-- tradition: islam
-  ref: Quran 2:56
-  note: No human can see God's face and live
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Exod 33:20 lōʾ tûkal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy; Q 2:55-56 narā llāha
-    jahratan fa-akhadhatkumu ṣ-ṣāʿiqatu ... thumma baʿathnākum min baʿdi mawtikum: whoever seeks to see
-    God dies; in the Quran the rule is carried out on the people and then undone by resurrection.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No human can see God''s face and live (weight 5.8). Pair score 5.8.'
   basis: reading
@@ -77,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No human can see God's face and live
+kinds:
+- parallel
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-2-exodus-calf
+  title: Exodus, the calf and the wilderness
+  tradition: islam
+matches:
+- kind: parallel
+  label: No human can see God's face and live
+  note: 'Exod 33:20 lōʾ tûkal lirʾōt ʾet pānāy kî lōʾ yirʾanî hā-ʾādām wā-ḥāy; Q 2:55-56 narā llāha jahratan
+    fa-akhadhatkumu ṣ-ṣāʿiqatu ... thumma baʿathnākum min baʿdi mawtikum: whoever seeks to see God dies;
+    in the Quran the rule is carried out on the people and then undone by resurrection.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:20
+      lang: he
+      text: וַיֹּ֕אמֶר לֹ֥א תוּכַ֖ל לִרְאֹ֣ת אֶת פָּנָ֑י כִּ֛י לֹֽא יִרְאַ֥נִי הָאָדָ֖ם וָחָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 2:55
+      lang: ar
+      text: وَإِذْ قُلْتُمْ يَٰمُوسَىٰ لَن نُّؤْمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهْرَةً فَأَخَذَتْكُمُ
+        ٱلصَّٰعِقَةُ وَأَنتُمْ تَنظُرُونَ
+    - ref: Quran 2:56
+      lang: ar
+      text: ثُمَّ بَعَثْنَٰكُم مِّنۢ بَعْدِ مَوْتِكُمْ لَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

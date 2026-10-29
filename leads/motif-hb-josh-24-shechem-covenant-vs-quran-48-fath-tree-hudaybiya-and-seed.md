@@ -3,9 +3,7 @@ id: motif-hb-josh-24-shechem-covenant-vs-quran-48-fath-tree-hudaybiya-and-seed
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ The
   pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary, and the seed
   parable from Torah and Gospel
-summary: 'These two units share 2 motifs: god was pleased with the believers when they pledged allegiance
-  to the prophet under the tree (bay''at al-ridwan), sacred oak or terebinth marks a sanctuary site (moreh,
-  mamre).'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,60 +16,9 @@ layers:
 motifs:
 - pledge-under-the-tree
 - sacred-tree-sanctuary
-passages:
-- tradition: judaism
-  ref: Josh 24:25
-  note: 'God was pleased with the believers when they pledged allegiance to the prophet under the tree
-    (Bay''at al-Ridwan) (A pledge of the people made under a sacred tree: wa-yiḵrōṯ yəhôšuaʿ bərîṯ lā-ʿām
-    ... wa-yqîmehā šām taḥaṯ hā-ʾallâ ʾăšer bə-miqdaš YHWH vs. la-qad raḍiya llāhu ʿani l-muʾminīna idh
-    yubāyiʿūnaka taḥta sh-shajara. At Shechem the tree stands in a sanctuary and a stone witnesses the
-    covenant; under the Quran''s tree the pledge is to the Prophet, and God ''knew what was in their hearts''
-    (fa-ʿalima mā fī qulūbihim).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט בִּשְׁכֶֽם
-- tradition: judaism
-  ref: Josh 24:26
-  note: 'God was pleased with the believers when they pledged allegiance to the prophet under the tree
-    (Bay''at al-Ridwan) (A pledge of the people made under a sacred tree: wa-yiḵrōṯ yəhôšuaʿ bərîṯ lā-ʿām
-    ... wa-yqîmehā šām taḥaṯ hā-ʾallâ ʾăšer bə-miqdaš YHWH vs. la-qad raḍiya llāhu ʿani l-muʾminīna idh
-    yubāyiʿūnaka taḥta sh-shajara. At Shechem the tree stands in a sanctuary and a stone witnesses the
-    covenant; under the Quran''s tree the pledge is to the Prophet, and God ''knew what was in their hearts''
-    (fa-ʿalima mā fī qulūbihim).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙ אֶ֣בֶן
-    גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
-- tradition: islam
-  ref: Quran 48:18
-  note: God was pleased with the believers when they pledged allegiance to the prophet under the tree
-    (Bay'at al-Ridwan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا
-    فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا
-- tradition: judaism
-  ref: Josh 24:26
-  note: Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙ אֶ֣בֶן
-    גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
-- tradition: islam
-  ref: Quran 48:18
-  note: 'Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre) (loose: a covenant made under a
-    tree)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ مَا
-    فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A pledge of the people made under a sacred tree: wa-yiḵrōṯ yəhôšuaʿ bərîṯ lā-ʿām ... wa-yqîmehā
-    šām taḥaṯ hā-ʾallâ ʾăšer bə-miqdaš YHWH vs. la-qad raḍiya llāhu ʿani l-muʾminīna idh yubāyiʿūnaka
-    taḥta sh-shajara. At Shechem the tree stands in a sanctuary and a stone witnesses the covenant; under
-    the Quran''s tree the pledge is to the Prophet, and God ''knew what was in their hearts'' (fa-ʿalima
-    mā fī qulūbihim).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God was pleased with the believers when they pledged allegiance
     to the prophet under the tree (Bay''at al-Ridwan) (weight 6.7); Sacred oak or terebinth marks a sanctuary
@@ -112,6 +59,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God was pleased with the believers when they pledged allegiance to the prophet under the tree
+  (Bay'at al-Ridwan)
+kinds:
+- echo
+- shared
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-48-fath-tree-hudaybiya-and-seed
+  title: The pledge under the tree, the hidden believers in Mecca, the dream of entering the sanctuary,
+    and the seed parable from Torah and Gospel
+  tradition: islam
+matches:
+- kind: echo
+  label: God was pleased with the believers when they pledged allegiance to the prophet under the tree
+    (Bay'at al-Ridwan)
+  note: 'A pledge of the people made under a sacred tree: wa-yiḵrōṯ yəhôšuaʿ bərîṯ lā-ʿām ... wa-yqîmehā
+    šām taḥaṯ hā-ʾallâ ʾăšer bə-miqdaš YHWH vs. la-qad raḍiya llāhu ʿani l-muʾminīna idh yubāyiʿūnaka
+    taḥta sh-shajara. At Shechem the tree stands in a sanctuary and a stone witnesses the covenant; under
+    the Quran''s tree the pledge is to the Prophet, and God ''knew what was in their hearts'' (fa-ʿalima
+    mā fī qulūbihim).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:25
+      lang: he
+      text: וַיִּכְרֹ֨ת יְהוֹשֻׁ֧עַ בְּרִ֛ית לָעָ֖ם בַּיּ֣וֹם הַה֑וּא וַיָּ֥שֶׂם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט
+        בִּשְׁכֶֽם
+    - ref: Josh 24:26
+      lang: he
+      text: וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙
+        אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:18
+      lang: ar
+      text: لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ
+        مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا
+- kind: shared
+  label: Sacred oak or terebinth marks a sanctuary site (Moreh, Mamre)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:26
+      lang: he
+      text: וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙
+        אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 48:18
+      lang: ar
+      text: لَّقَدْ رَضِىَ ٱللَّهُ عَنِ ٱلْمُؤْمِنِينَ إِذْ يُبَايِعُونَكَ تَحْتَ ٱلشَّجَرَةِ فَعَلِمَ
+        مَا فِى قُلُوبِهِمْ فَأَنزَلَ ٱلسَّكِينَةَ عَلَيْهِمْ وَأَثَٰبَهُمْ فَتْحًا قَرِيبًا
+    note: 'loose: a covenant made under a tree'
 ---
 
 ## Questions

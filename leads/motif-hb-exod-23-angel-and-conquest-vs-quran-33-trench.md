@@ -2,8 +2,7 @@
 id: motif-hb-exod-23-angel-and-conquest-vs-quran-33-trench
 title: The angel sent ahead and promises of conquest ↔ The confederates besiege Medina; hypocrites and
   the faithful
-summary: 'These two units share 2 motifs: god casts terror (ru''b) into the hearts of the unbelievers,
-  god sends terror ahead to panic the enemies.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,43 +16,9 @@ layers:
 motifs:
 - terror-cast-into-enemy-hearts
 - divine-terror-precedes-army
-passages:
-- tradition: judaism
-  ref: Exod 23:27
-  note: 'God casts terror (ru''b) into the hearts of the unbelievers (Exod 23:27 ʾet ʾêmātî ʾăšallaḥ lĕpānêkā
-    wĕ-hammōtî ʾet kol hā-ʿām ... wĕ-nātattî ʾet kol ʾōyĕbêkā ʾēlêkā ʿōrep: God sends his terror ahead
-    and makes the enemy turn their backs; Q 3:151 sa-nulqī fī qulūbi lladhīna kafarū r-ruʿba bi-mā ashrakū:
-    God will cast terror into the unbelievers'' hearts because they associated partners with him.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
-    אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
-- tradition: islam
-  ref: Quran 33:26
-  note: God casts terror (ru'b) into the hearts of the unbelievers
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
-    ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
-- tradition: judaism
-  ref: Exod 23:27
-  note: God sends terror ahead to panic the enemies
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
-    אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
-- tradition: islam
-  ref: Quran 33:26
-  note: God sends terror ahead to panic the enemies
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
-    ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾeṯ-ʾêmāṯî ʾăšallaḥ ləp̄āneyḵā wə-hammōṯî ʾeṯ-kol-hā-ʿām vs. wa-qadhafa fī qulūbihimu r-ruʿb:
-    God''s terror (ʾêmâ / ruʿb) sent against the enemy. In Exodus it goes ahead of Israel into Canaan;
-    in the Quran it is cast into the ahl al-kitāb who had sided with the besiegers.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God casts terror (ru''b) into the hearts of the unbelievers (weight
     6.3); God sends terror ahead to panic the enemies (weight 6.0). Pair score 12.3.'
@@ -83,6 +48,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sends terror ahead to panic the enemies
+kinds:
+- parallel
+- shared
+units:
+- id: hb-exod-23-angel-and-conquest
+  title: The angel sent ahead and promises of conquest
+  tradition: judaism
+- id: quran-33-trench
+  title: The confederates besiege Medina; hypocrites and the faithful
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sends terror ahead to panic the enemies
+  note: 'ʾeṯ-ʾêmāṯî ʾăšallaḥ ləp̄āneyḵā wə-hammōṯî ʾeṯ-kol-hā-ʿām vs. wa-qadhafa fī qulūbihimu r-ruʿb:
+    God''s terror (ʾêmâ / ruʿb) sent against the enemy. In Exodus it goes ahead of Israel into Canaan;
+    in the Quran it is cast into the ahl al-kitāb who had sided with the besiegers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:27
+      lang: he
+      text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
+        אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
+  - tradition: islam
+    passages:
+    - ref: Quran 33:26
+      lang: ar
+      text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
+        ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
+- kind: shared
+  label: God casts terror (ru'b) into the hearts of the unbelievers
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 23:27
+      lang: he
+      text: אֶת אֵֽימָתִי֙ אֲשַׁלַּ֣ח לְפָנֶ֔יךָ וְהַמֹּתִי֙ אֶת כָּל הָעָ֔ם אֲשֶׁ֥ר תָּבֹ֖א בָּהֶ֑ם וְנָתַתִּ֧י
+        אֶת כָּל אֹיְבֶ֛יךָ אֵלֶ֖יךָ עֹֽרֶף
+    note: 'Exod 23:27 ʾet ʾêmātî ʾăšallaḥ lĕpānêkā wĕ-hammōtî ʾet kol hā-ʿām ... wĕ-nātattî ʾet kol ʾōyĕbêkā
+      ʾēlêkā ʿōrep: God sends his terror ahead and makes the enemy turn their backs; Q 3:151 sa-nulqī
+      fī qulūbi lladhīna kafarū r-ruʿba bi-mā ashrakū: God will cast terror into the unbelievers'' hearts
+      because they associated partners with him.'
+  - tradition: islam
+    passages:
+    - ref: Quran 33:26
+      lang: ar
+      text: وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ
+        ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا
 ---
 
 ## Questions

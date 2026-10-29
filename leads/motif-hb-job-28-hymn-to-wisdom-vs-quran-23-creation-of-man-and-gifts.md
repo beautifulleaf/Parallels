@@ -2,8 +2,7 @@
 id: motif-hb-job-28-hymn-to-wisdom-vs-quran-23-creation-of-man-and-gifts
 title: The hymn to hidden wisdom ↔ Man from clay through the stages of the womb; seven paths, water, Sinai's
   tree, cattle and ships
-summary: 'These two units share 1 motifs: at creation god fixed the weight of the wind, the measure of
-  the waters, a decree for the rain and a way for the thunderbolt.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - weight-of-wind-measure-of-waters
-passages:
-- tradition: judaism
-  ref: Job 28:25
-  note: At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain
-    and a way for the thunderbolt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַעֲשׂ֣וֹת לָר֣וּחַ מִשְׁקָ֑ל וּ֝מַ֗יִם תִּכֵּ֥ן בְּמִדָּֽה
-- tradition: judaism
-  ref: Job 28:26
-  note: At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain
-    and a way for the thunderbolt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּעֲשֹׂת֣וֹ לַמָּטָ֣ר חֹ֑ק וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת
-- tradition: islam
-  ref: Quran 23:18
-  note: 'At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain
-    and a way for the thunderbolt (wa-anzalnā mina s-samāʾi māʾan bi-qadarin ~ û-mayim tikkēn bə-middâ
-    ba-ʿăśōtô la-mmāṭār ḥōq: rain sent down in fixed measure (qadar / middâ, ḥōq).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ وَإِنَّا عَلَىٰ ذَهَابٍۭ
-    بِهِۦ لَقَٰدِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-anzalnā mina s-samāʾi māʾan bi-qadarin ~ û-mayim tikkēn bə-middâ ba-ʿăśōtô la-mmāṭār ḥōq:
-    rain sent down in fixed measure (qadar / middâ, ḥōq).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: At creation God fixed the weight of the wind, the measure of the
     waters, a decree for the rain and a way for the thunderbolt (weight 6.7). Pair score 6.7.'
@@ -77,6 +51,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain
+  and a way for the thunderbolt
+kinds:
+- echo
+units:
+- id: hb-job-28-hymn-to-wisdom
+  title: The hymn to hidden wisdom
+  tradition: judaism
+- id: quran-23-creation-of-man-and-gifts
+  title: Man from clay through the stages of the womb; seven paths, water, Sinai's tree, cattle and ships
+  tradition: islam
+matches:
+- kind: echo
+  label: At creation God fixed the weight of the wind, the measure of the waters, a decree for the rain
+    and a way for the thunderbolt
+  note: 'wa-anzalnā mina s-samāʾi māʾan bi-qadarin ~ û-mayim tikkēn bə-middâ ba-ʿăśōtô la-mmāṭār ḥōq:
+    rain sent down in fixed measure (qadar / middâ, ḥōq).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 28:25
+      lang: he
+      text: לַעֲשׂ֣וֹת לָר֣וּחַ מִשְׁקָ֑ל וּ֝מַ֗יִם תִּכֵּ֥ן בְּמִדָּֽה
+    - ref: Job 28:26
+      lang: he
+      text: בַּעֲשֹׂת֣וֹ לַמָּטָ֣ר חֹ֑ק וְ֝דֶ֗רֶךְ לַחֲזִ֥יז קֹלֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 23:18
+      lang: ar
+      text: وَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءًۢ بِقَدَرٍ فَأَسْكَنَّٰهُ فِى ٱلْأَرْضِ وَإِنَّا عَلَىٰ
+        ذَهَابٍۭ بِهِۦ لَقَٰدِرُونَ
 ---
 
 ## Questions

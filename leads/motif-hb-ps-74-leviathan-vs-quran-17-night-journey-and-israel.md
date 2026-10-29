@@ -2,9 +2,7 @@
 id: motif-hb-ps-74-leviathan-vs-quran-17-night-journey-and-israel
 title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan ↔ The Night Journey and
   the two corruptions of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 2 motifs: enemies roar in the sanctuary, hack its carved work with axes
-  and burn it to the ground [divergence between the texts], enemies roar in the sanctuary, hack its carved
-  work with axes and burn it to the ground.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,69 +15,9 @@ layers:
 motifs:
 - temple-destroyed-by-enemies-as-divergence
 - temple-destroyed-by-enemies
-passages:
-- tradition: judaism
-  ref: Ps 74:3
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָרִ֣ימָה פְ֭עָמֶיךָ לְמַשֻּׁא֣וֹת נֶ֑צַח כָּל הֵרַ֖ע אוֹיֵ֣ב בַּקֹּֽדֶשׁ
-- tradition: judaism
-  ref: Ps 74:4
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שָׁאֲג֣וּ צֹ֭רְרֶיךָ בְּקֶ֣רֶב מוֹעֲדֶ֑ךָ שָׂ֖מוּ אוֹתֹתָ֣ם אֹתֽוֹת
-- tradition: islam
-  ref: Quran 17:7
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
-- tradition: islam
-  ref: Quran 17:5
-  note: 'Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground [divergence
-    between the texts] (Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا جَآءَ وَعْدُ أُولَىٰهُمَا بَعَثْنَا عَلَيْكُمْ عِبَادًا لَّنَآ أُو۟لِى بَأْسٍ شَدِيدٍ
-    فَجَاسُوا۟ خِلَٰلَ ٱلدِّيَارِ وَكَانَ وَعْدًا مَّفْعُولًا
-- tradition: judaism
-  ref: Ps 74:3-7
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground (axes
-    in a thicket; hatchets and hammers on its carved panels; set their signs as signs)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (74:3) הָרִ֣ימָה פְ֭עָמֶיךָ לְמַשֻּׁא֣וֹת נֶ֑צַח כָּל הֵרַ֖ע אוֹיֵ֣ב בַּקֹּֽדֶשׁ (74:4) שָׁאֲג֣וּ
-    צֹ֭רְרֶיךָ בְּקֶ֣רֶב מוֹעֲדֶ֑ךָ שָׂ֖מוּ אוֹתֹתָ֣ם אֹתֽוֹת (74:5) יִ֭וָּדַע כְּמֵבִ֣יא לְמָ֑עְלָה בִּֽסֲבָךְ
-    עֵ֝֗ץ קַרְדֻּמּֽוֹת (74:6) ועת וְ֭עַתָּה פִּתּוּחֶ֣יהָ יָּ֑חַד בְּכַשִּׁ֥יל וְ֝כֵֽילַפֹּ֗ת יַהֲלֹמֽוּן
-    (74:7) שִׁלְח֣וּ בָ֭אֵשׁ מִקְדָּשֶׁ֑ךָ לָ֝אָ֗רֶץ חִלְּל֥וּ מִֽשְׁכַּן שְׁמֶֽךָ
-- tradition: islam
-  ref: Quran 17:7
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā,
-    and a lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause
-    is Israel''s own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies roar in the sanctuary, hack its carved work with axes and
     burn it to the ground [divergence between the texts] (weight 6.3); Enemies roar in the sanctuary,
@@ -113,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+kinds:
+- divergence
+units:
+- id: hb-ps-74-leviathan
+  title: Psalm 74, the burned sanctuary and God who crushed the heads of Leviathan
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: divergence
+  label: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+  note: 'Same event, opposite framing. Ps: kol-hēraʿ ʾôyēb baqqōdeš ... šiləḥû bāʾēš miqdāšekā, and a
+    lament asking God to act against the enemy. Q: the destroyers are God''s agents and the cause is Israel''s
+    own corruption, la-tufsidunna fī l-arḍi marratayn ... wa-in asaʾtum fa-lahā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 74:3
+      lang: he
+      text: הָרִ֣ימָה פְ֭עָמֶיךָ לְמַשֻּׁא֣וֹת נֶ֑צַח כָּל הֵרַ֖ע אוֹיֵ֣ב בַּקֹּֽדֶשׁ
+    - ref: Ps 74:4
+      lang: he
+      text: שָׁאֲג֣וּ צֹ֭רְרֶיךָ בְּקֶ֣רֶב מוֹעֲדֶ֑ךָ שָׂ֖מוּ אוֹתֹתָ֣ם אֹתֽוֹת
+    - ref: Ps 74:7
+      lang: he
+      text: שִׁלְח֣וּ בָ֭אֵשׁ מִקְדָּשֶׁ֑ךָ לָ֝אָ֗רֶץ חִלְּל֥וּ מִֽשְׁכַּן שְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:7
+      lang: ar
+      text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ
+        ٱلْءَاخِرَةِ لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ
+        وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا
 ---
 
 ## Questions

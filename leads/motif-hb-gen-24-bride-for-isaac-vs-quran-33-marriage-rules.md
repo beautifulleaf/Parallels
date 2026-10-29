@@ -2,8 +2,7 @@
 id: motif-hb-gen-24-bride-for-isaac-vs-quran-33-marriage-rules
 title: Abraham's servant finds Rebekah for Isaac ↔ Divorce before consummation; the prophet's marriages;
   the curtain and the cloaks
-summary: 'These two units share 1 motifs: believing women are to draw their outer cloaks (jalabib) over
-  themselves so they are recognized and not harmed.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,28 +14,9 @@ layers:
 - motif
 motifs:
 - women-draw-cloaks-to-be-recognized
-passages:
-- tradition: judaism
-  ref: Gen 24:65
-  note: 'Believing women are to draw their outer cloaks (jalabib) over themselves so they are recognized
-    and not harmed (wa-ttiqqaḥ ha-ṣṣāʿîp̄ wa-ttiṯkās (Rebekah covers herself before the man) vs. yudnīna
-    ʿalayhinna min jalābībihinna: a woman covering herself before unrelated men as modesty.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר אֶל הָעֶ֗בֶד מִֽי הָאִ֤ישׁ הַלָּזֶה֙ הַהֹלֵ֤ךְ בַּשָּׂדֶה֙ לִקְרָאתֵ֔נוּ וַיֹּ֥אמֶר
-    הָעֶ֖בֶד ה֣וּא אֲדֹנִ֑י וַתִּקַּ֥ח הַצָּעִ֖יף וַתִּתְכָּֽס
-- tradition: islam
-  ref: Quran 33:59
-  note: Believing women are to draw their outer cloaks (jalabib) over themselves so they are recognized
-    and not harmed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ
-    مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. wa-ttiqqaḥ ha-ṣṣāʿîp̄ wa-ttiṯkās (Rebekah covers herself before the man) vs. yudnīna ʿalayhinna
-    min jalābībihinna: a woman covering herself before unrelated men as modesty.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Believing women are to draw their outer cloaks (jalabib) over themselves
     so they are recognized and not harmed (weight 6.7). Pair score 6.7.'
@@ -71,6 +51,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Believing women are to draw their outer cloaks (jalabib) over themselves so they are recognized
+  and not harmed
+kinds:
+- echo
+units:
+- id: hb-gen-24-bride-for-isaac
+  title: Abraham's servant finds Rebekah for Isaac
+  tradition: judaism
+- id: quran-33-marriage-rules
+  title: Divorce before consummation; the prophet's marriages; the curtain and the cloaks
+  tradition: islam
+matches:
+- kind: echo
+  label: Believing women are to draw their outer cloaks (jalabib) over themselves so they are recognized
+    and not harmed
+  note: 'wa-ttiqqaḥ ha-ṣṣāʿîp̄ wa-ttiṯkās (Rebekah covers herself before the man) vs. yudnīna ʿalayhinna
+    min jalābībihinna: a woman covering herself before unrelated men as modesty.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 24:65
+      lang: he
+      text: וַתֹּ֣אמֶר אֶל הָעֶ֗בֶד מִֽי הָאִ֤ישׁ הַלָּזֶה֙ הַהֹלֵ֤ךְ בַּשָּׂדֶה֙ לִקְרָאתֵ֔נוּ וַיֹּ֥אמֶר
+        הָעֶ֖בֶד ה֣וּא אֲדֹנִ֑י וַתִּקַּ֥ח הַצָּעִ֖יף וַתִּתְכָּֽס
+  - tradition: islam
+    passages:
+    - ref: Quran 33:59
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ
+        عَلَيْهِنَّ مِن جَلَٰبِيبِهِنَّ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ وَكَانَ ٱللَّهُ
+        غَفُورًا رَّحِيمًا
 ---
 
 ## Questions

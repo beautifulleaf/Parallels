@@ -2,8 +2,7 @@
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-36-trumpet-and-judgment
 title: Song of the strong city; your dead shall live ↔ The trumpet, the sleepers raised, the Garden and
   the witnessing limbs
-summary: 'These two units share 2 motifs: what the dead say when they wake from the dust [divergence between
-  the texts], your dead shall live, their corpses rise; dwellers in the dust shall awake and sing.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,64 +15,9 @@ layers:
 motifs:
 - first-words-of-the-raised-dead-as-divergence
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: 'What the dead say when they wake from the dust [divergence between the texts] (What the waking
-    dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake and sing for joy. Q: qālū
-    yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah''s ''your dead'' are God''s people;
-    in the Quran the first voice is that of the deniers, who now see hādhā mā waʿada r-raḥmān.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 36:51
-  note: 'What the dead say when they wake from the dust [divergence between the texts] (What the waking
-    dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake and sing for joy. Q: qālū
-    yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah''s ''your dead'' are God''s people;
-    in the Quran the first voice is that of the deniers, who now see hādhā mā waʿada r-raḥmān.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
-- tradition: islam
-  ref: Quran 36:52
-  note: 'What the dead say when they wake from the dust [divergence between the texts] (What the waking
-    dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake and sing for joy. Q: qālū
-    yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah''s ''your dead'' are God''s people;
-    in the Quran the first voice is that of the deniers, who now see hādhā mā waʿada r-raḥmān.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
-    ٱلْمُرْسَلُونَ
-- tradition: judaism
-  ref: Isa 26:19
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 36:51
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (the dead
-    as sleepers who wake from their resting place)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
-- tradition: islam
-  ref: Quran 36:52
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (the dead
-    as sleepers who wake from their resting place)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
-    ٱلْمُرْسَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. What the waking dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake
-    and sing for joy. Q: qālū yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah''s
-    ''your dead'' are God''s people; in the Quran the first voice is that of the deniers, who now see
-    hādhā mā waʿada r-raḥmān.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the dead say when they wake from the dust [divergence between
     the texts] (weight 6.7); Your dead shall live, their corpses rise; dwellers in the dust shall awake
@@ -112,6 +56,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What the dead say when they wake from the dust
+kinds:
+- divergence
+- shared
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-36-trumpet-and-judgment
+  title: The trumpet, the sleepers raised, the Garden and the witnessing limbs
+  tradition: islam
+matches:
+- kind: divergence
+  label: What the dead say when they wake from the dust
+  note: 'What the waking dead say. Isa: hāqîṣû wə-rannənû šōḵnê ʿāp̄ār, the dwellers in dust wake and
+    sing for joy. Q: qālū yā-waylanā man baʿathanā min marqadinā, they wake crying woe. Isaiah''s ''your
+    dead'' are God''s people; in the Quran the first voice is that of the deniers, who now see hādhā mā
+    waʿada r-raḥmān.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+    - ref: Quran 36:52
+      lang: ar
+      text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
+        ٱلْمُرْسَلُونَ
+- kind: shared
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 36:51
+      lang: ar
+      text: وَنُفِخَ فِى ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلْأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ
+    - ref: Quran 36:52
+      lang: ar
+      text: قَالُوا۟ يَٰوَيْلَنَا مَنۢ بَعَثَنَا مِن مَّرْقَدِنَا هَٰذَا مَا وَعَدَ ٱلرَّحْمَٰنُ وَصَدَقَ
+        ٱلْمُرْسَلُونَ
+    note: the dead as sleepers who wake from their resting place
 ---
 
 ## Questions

@@ -2,9 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-32-sajda
 title: 'Elihu - warning dreams and the interceding angel ↔ Al-Sajda: creation, the angel of death, and
   the two fates'
-summary: 'These two units share 3 motifs: the angel of death (malak al-mawt), put in charge of humans,
-  takes their souls, god began man''s creation from clay, then made his progeny from an extract of a despised
-  fluid, then shaped him and breathed of his spirit, first human shaped from dust, clay or soil.'
+summary: '2 correspondences read side by side: 2 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,89 +16,9 @@ motifs:
 - angel-of-death
 - human-from-clay-then-despised-fluid
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:22
-  note: The angel of death (malak al-mawt), put in charge of humans, takes their souls (wa-ttiqraḇ la-ššaḥaṯ
-    nap̄šô wə-ḥayyāṯô la-mməmîṯîm (to the killers, i.e. death-dealing angels), beside a malʾāḵ mēlîṣ who
-    can intercede, vs. yatawaffākum malaku l-mawti lladhī wukkila bikum. Job has unnamed 'bringers of
-    death'; the Quran has one appointed angel of death and, in 32:4, no intercessor (wa-lā shafīʿ).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּקְרַ֣ב לַשַּׁ֣חַת נַפְשׁ֑וֹ וְ֝חַיָּת֗וֹ לַֽמְמִתִֽים
-- tradition: judaism
-  ref: Job 33:23
-  note: The angel of death (malak al-mawt), put in charge of humans, takes their souls (wa-ttiqraḇ la-ššaḥaṯ
-    nap̄šô wə-ḥayyāṯô la-mməmîṯîm (to the killers, i.e. death-dealing angels), beside a malʾāḵ mēlîṣ who
-    can intercede, vs. yatawaffākum malaku l-mawti lladhī wukkila bikum. Job has unnamed 'bringers of
-    death'; the Quran has one appointed angel of death and, in 32:4, no intercessor (wa-lā shafīʿ).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם יֵ֤שׁ עָלָ֨יו מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יָשְׁרֽוֹ
-- tradition: islam
-  ref: Quran 32:11
-  note: The angel of death (malak al-mawt), put in charge of humans, takes their souls
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
-- tradition: judaism
-  ref: Job 33:4
-  note: 'God began man''s creation from clay, then made his progeny from an extract of a despised fluid,
-    then shaped him and breathed of his spirit (rûaḥ-ʾēl ʿāśāṯnî wə-nišmaṯ šadday təḥayyēnî ... mē-ḥōmer
-    qōraṣtî gam-ʾānî vs. min ṭīnin ... wa-nafakha fīhi min rūḥihi: clay plus the divine spirit (rûaḥ/rūḥ),
-    said by Elihu of every human, by the Quran of the first man.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: judaism
-  ref: Job 33:6
-  note: 'God began man''s creation from clay, then made his progeny from an extract of a despised fluid,
-    then shaped him and breathed of his spirit (rûaḥ-ʾēl ʿāśāṯnî wə-nišmaṯ šadday təḥayyēnî ... mē-ḥōmer
-    qōraṣtî gam-ʾānî vs. min ṭīnin ... wa-nafakha fīhi min rūḥihi: clay plus the divine spirit (rûaḥ/rūḥ),
-    said by Elihu of every human, by the Quran of the first man.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: islam
-  ref: Quran 32:7
-  note: God began man's creation from clay, then made his progeny from an extract of a despised fluid,
-    then shaped him and breathed of his spirit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
-- tradition: islam
-  ref: Quran 32:8
-  note: God began man's creation from clay, then made his progeny from an extract of a despised fluid,
-    then shaped him and breathed of his spirit
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَٰلَةٍ مِّن مَّآءٍ مَّهِينٍ
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 32:7
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. rûaḥ-ʾēl ʿāśāṯnî wə-nišmaṯ šadday təḥayyēnî ... mē-ḥōmer qōraṣtî gam-ʾānî vs. min ṭīnin ...
-    wa-nafakha fīhi min rūḥihi: clay plus the divine spirit (rûaḥ/rūḥ), said by Elihu of every human,
-    by the Quran of the first man. wa-ttiqraḇ la-ššaḥaṯ nap̄šô wə-ḥayyāṯô la-mməmîṯîm (to the killers,
-    i.e. death-dealing angels), beside a malʾāḵ mēlîṣ who can intercede, vs. yatawaffākum malaku l-mawti
-    lladhī wukkila bikum. Job has unnamed ''bringers of death''; the Quran has one appointed angel of
-    death and, in 32:4, no intercessor (wa-lā shafīʿ).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The angel of death (malak al-mawt), put in charge of humans, takes
     their souls (weight 6.7); God began man''s creation from clay, then made his progeny from an extract
@@ -139,6 +57,79 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God began man's creation from clay, then made his progeny from an extract of a despised fluid,
+  then shaped him and breathed of his spirit
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-32-sajda
+  title: 'Al-Sajda: creation, the angel of death, and the two fates'
+  tradition: islam
+matches:
+- kind: echo
+  label: God began man's creation from clay, then made his progeny from an extract of a despised fluid,
+    then shaped him and breathed of his spirit
+  note: 'rûaḥ-ʾēl ʿāśāṯnî wə-nišmaṯ šadday təḥayyēnî ... mē-ḥōmer qōraṣtî gam-ʾānî vs. min ṭīnin ... wa-nafakha
+    fīhi min rūḥihi: clay plus the divine spirit (rûaḥ/rūḥ), said by Elihu of every human, by the Quran
+    of the first man.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:4
+      lang: he
+      text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 32:7
+      lang: ar
+      text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
+    - ref: Quran 32:9
+      lang: ar
+      text: ثُمَّ سَوَّىٰهُ وَنَفَخَ فِيهِ مِن رُّوحِهِۦ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَٰرَ وَٱلْأَفْـِٔدَةَ
+        قَلِيلًا مَّا تَشْكُرُونَ
+- kind: echo
+  label: The angel of death (malak al-mawt), put in charge of humans, takes their souls
+  note: wa-ttiqraḇ la-ššaḥaṯ nap̄šô wə-ḥayyāṯô la-mməmîṯîm (to the killers, i.e. death-dealing angels),
+    beside a malʾāḵ mēlîṣ who can intercede, vs. yatawaffākum malaku l-mawti lladhī wukkila bikum. Job
+    has unnamed 'bringers of death'; the Quran has one appointed angel of death and, in 32:4, no intercessor
+    (wa-lā shafīʿ).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:22
+      lang: he
+      text: וַתִּקְרַ֣ב לַשַּׁ֣חַת נַפְשׁ֑וֹ וְ֝חַיָּת֗וֹ לַֽמְמִתִֽים
+    - ref: Job 33:23
+      lang: he
+      text: אִם יֵ֤שׁ עָלָ֨יו מַלְאָ֗ךְ מֵלִ֗יץ אֶחָ֥ד מִנִּי אָ֑לֶף לְהַגִּ֖יד לְאָדָ֣ם יָשְׁרֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 32:11
+      lang: ar
+      text: قُلْ يَتَوَفَّىٰكُم مَّلَكُ ٱلْمَوْتِ ٱلَّذِى وُكِّلَ بِكُمْ ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+    - ref: Job 33:4
+      lang: he
+      text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 32:7
+      lang: ar
+      text: ٱلَّذِىٓ أَحْسَنَ كُلَّ شَىْءٍ خَلَقَهُۥ وَبَدَأَ خَلْقَ ٱلْإِنسَٰنِ مِن طِينٍ
 ---
 
 ## Questions

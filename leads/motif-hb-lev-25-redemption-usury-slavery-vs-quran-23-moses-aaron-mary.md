@@ -2,9 +2,7 @@
 id: motif-hb-lev-25-redemption-usury-slavery-vs-quran-23-moses-aaron-mary
 title: Redemption of land, interest-free loans, and Israelite bondmen ↔ Moses and Aaron rejected; the
   son of Mary and his mother on a height
-summary: 'These two units share 2 motifs: whose slaves or servants the israelites are [contrast between
-  the texts], israelites cannot be sold as slaves because they are god''s servants whom he brought out
-  of egypt.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -17,63 +15,9 @@ layers:
 motifs:
 - whose-servants-are-israel-as-contrast
 - israelites-are-gods-slaves
-passages:
-- tradition: judaism
-  ref: Lev 25:42
-  note: 'Whose slaves or servants the Israelites are [contrast between the texts] (Whose servants are
-    Israel? Pharaoh''s chiefs: a-nuʾminu li-basharayni mithlinā wa-qawmuhumā lanā ʿābidūna, ''their people
-    are our slaves'' (ʿābidūn); Lev 25:55 kî lî vənê Yiśrāʾēl ʿăvādîm ʿăvāday hēm ʾăšer hôṣēʾtî ʾôtām
-    mē-ʾereṣ Miṣrayim. The same root ʿbd: Egypt''s claim in the Quran, God''s claim in Leviticus.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת
-    עָֽבֶד
-- tradition: judaism
-  ref: Lev 25:55
-  note: 'Whose slaves or servants the Israelites are [contrast between the texts] (Whose servants are
-    Israel? Pharaoh''s chiefs: a-nuʾminu li-basharayni mithlinā wa-qawmuhumā lanā ʿābidūna, ''their people
-    are our slaves'' (ʿābidūn); Lev 25:55 kî lî vənê Yiśrāʾēl ʿăvādîm ʿăvāday hēm ʾăšer hôṣēʾtî ʾôtām
-    mē-ʾereṣ Miṣrayim. The same root ʿbd: Egypt''s claim in the Quran, God''s claim in Leviticus.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי לִ֤י בְנֵֽי יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 23:47
-  note: 'Whose slaves or servants the Israelites are [contrast between the texts] (Whose servants are
-    Israel? Pharaoh''s chiefs: a-nuʾminu li-basharayni mithlinā wa-qawmuhumā lanā ʿābidūna, ''their people
-    are our slaves'' (ʿābidūn); Lev 25:55 kî lî vənê Yiśrāʾēl ʿăvādîm ʿăvāday hēm ʾăšer hôṣēʾtî ʾôtām
-    mē-ʾereṣ Miṣrayim. The same root ʿbd: Egypt''s claim in the Quran, God''s claim in Leviticus.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
-- tradition: judaism
-  ref: Lev 25:42
-  note: Israelites cannot be sold as slaves because they are God's servants whom he brought out of Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת
-    עָֽבֶד
-- tradition: judaism
-  ref: Lev 25:55
-  note: Israelites cannot be sold as slaves because they are God's servants whom he brought out of Egypt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי לִ֤י בְנֵֽי יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 23:47
-  note: 'Israelites cannot be sold as slaves because they are God''s servants whom he brought out of Egypt
-    (inverted: Pharaoh''s claim that Israel serves Egypt)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Whose servants are Israel? Pharaoh''s chiefs: a-nuʾminu li-basharayni mithlinā wa-qawmuhumā
-    lanā ʿābidūna, ''their people are our slaves'' (ʿābidūn); Lev 25:55 kî lî vənê Yiśrāʾēl ʿăvādîm ʿăvāday
-    hēm ʾăšer hôṣēʾtî ʾôtām mē-ʾereṣ Miṣrayim. The same root ʿbd: Egypt''s claim in the Quran, God''s
-    claim in Leviticus.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whose slaves or servants the Israelites are [contrast between the
     texts] (weight 6.7); Israelites cannot be sold as slaves because they are God''s servants whom he
@@ -104,6 +48,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whose slaves or servants the Israelites are
+kinds:
+- contrast
+- shared
+units:
+- id: hb-lev-25-redemption-usury-slavery
+  title: Redemption of land, interest-free loans, and Israelite bondmen
+  tradition: judaism
+- id: quran-23-moses-aaron-mary
+  title: Moses and Aaron rejected; the son of Mary and his mother on a height
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whose slaves or servants the Israelites are
+  note: 'Whose servants are Israel? Pharaoh''s chiefs: a-nuʾminu li-basharayni mithlinā wa-qawmuhumā lanā
+    ʿābidūna, ''their people are our slaves'' (ʿābidūn); Lev 25:55 kî lî vənê Yiśrāʾēl ʿăvādîm ʿăvāday
+    hēm ʾăšer hôṣēʾtî ʾôtām mē-ʾereṣ Miṣrayim. The same root ʿbd: Egypt''s claim in the Quran, God''s
+    claim in Leviticus.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 25:42
+      lang: he
+      text: כִּֽי עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת
+        עָֽבֶד
+    - ref: Lev 25:55
+      lang: he
+      text: כִּֽי לִ֤י בְנֵֽי יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם
+        אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:47
+      lang: ar
+      text: فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
+- kind: shared
+  label: Israelites cannot be sold as slaves because they are God's servants whom he brought out of Egypt
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 25:42
+      lang: he
+      text: כִּֽי עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת
+        עָֽבֶד
+    - ref: Lev 25:55
+      lang: he
+      text: כִּֽי לִ֤י בְנֵֽי יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם
+        אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 23:47
+      lang: ar
+      text: فَقَالُوٓا۟ أَنُؤْمِنُ لِبَشَرَيْنِ مِثْلِنَا وَقَوْمُهُمَا لَنَا عَٰبِدُونَ
+    note: 'inverted: Pharaoh''s claim that Israel serves Egypt'
 ---
 
 ## Questions

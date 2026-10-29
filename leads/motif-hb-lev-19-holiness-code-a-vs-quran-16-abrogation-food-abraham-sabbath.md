@@ -2,7 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-16-abrogation-food-abraham-sabbath
 title: Be holy - ethical laws and love of neighbor ↔ Abrogation, the foreign teacher, coerced unbelief,
   food law, Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 1 motifs: if you retaliate, do so in kind; but patience is better.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,35 +14,9 @@ layers:
 - motif
 motifs:
 - retaliation-in-kind-but-patience-better
-passages:
-- tradition: judaism
-  ref: Lev 19:18
-  note: 'If you retaliate, do so in kind; but patience is better (lōʾ-tiqqōm wəlōʾ-tiṭṭōr ʾet-bənê ʿammekā;
-    wa-la-in ṣabartum la-huwa khayr ... wa-ṣbir: restraint from revenge is better. Lev limits it to ''the
-    sons of your people'' and grounds it in love of neighbor; Q states it in general and grounds it in
-    patience ''by God''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא תִקֹּ֤ם וְלֹֽא תִטֹּר֙ אֶת בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י יְהוָֽה
-- tradition: islam
-  ref: Quran 16:126
-  note: If you retaliate, do so in kind; but patience is better (cf. lex talionis)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ
-    لِّلصَّٰبِرِينَ
-- tradition: islam
-  ref: Quran 16:127
-  note: If you retaliate, do so in kind; but patience is better (cf. lex talionis)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ مِّمَّا
-    يَمْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. lōʾ-tiqqōm wəlōʾ-tiṭṭōr ʾet-bənê ʿammekā; wa-la-in ṣabartum la-huwa khayr ... wa-ṣbir: restraint
-    from revenge is better. Lev limits it to ''the sons of your people'' and grounds it in love of neighbor;
-    Q states it in general and grounds it in patience ''by God''.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: If you retaliate, do so in kind; but patience is better (weight
     6.7). Pair score 6.7.'
@@ -78,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: If you retaliate, do so in kind; but patience is better
+kinds:
+- echo
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: echo
+  label: If you retaliate, do so in kind; but patience is better
+  note: 'lōʾ-tiqqōm wəlōʾ-tiṭṭōr ʾet-bənê ʿammekā; wa-la-in ṣabartum la-huwa khayr ... wa-ṣbir: restraint
+    from revenge is better. Lev limits it to ''the sons of your people'' and grounds it in love of neighbor;
+    Q states it in general and grounds it in patience ''by God''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:18
+      lang: he
+      text: לֹֽא תִקֹּ֤ם וְלֹֽא תִטֹּר֙ אֶת בְּנֵ֣י עַמֶּ֔ךָ וְאָֽהַבְתָּ֥ לְרֵעֲךָ֖ כָּמ֑וֹךָ אֲנִ֖י
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 16:126
+      lang: ar
+      text: وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا۟ بِمِثْلِ مَا عُوقِبْتُم بِهِۦ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ
+        لِّلصَّٰبِرِينَ
+    - ref: Quran 16:127
+      lang: ar
+      text: وَٱصْبِرْ وَمَا صَبْرُكَ إِلَّا بِٱللَّهِ وَلَا تَحْزَنْ عَلَيْهِمْ وَلَا تَكُ فِى ضَيْقٍ
+        مِّمَّا يَمْكُرُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-neh-9-levites-confession-vs-quran-2-israel-favor
 title: Fast of the twenty-fourth and the Levites' historical confession ↔ Address to the Children of Israel
-summary: 'These two units share 1 motifs: people of the book cast god''s book behind their backs.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,38 +13,9 @@ layers:
 - motif
 motifs:
 - scripture-cast-behind-backs
-passages:
-- tradition: judaism
-  ref: Neh 9:26
-  note: People of the Book cast God's book behind their backs (Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê
-    gawwām 'they cast your Torah behind their backs' (Israel's own confession); Q 2:41-42 lā tashtarū
-    bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqqa, said to the Children of Israel. The exact image
-    'behind their backs' is the Quran's at 3:187 and 2:101.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
-    הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
-- tradition: islam
-  ref: Quran 2:41
-  note: People of the Book cast God's book behind their backs (selling signs for a small price, concealing
-    truth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ بِهِۦ
-    وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ
-- tradition: islam
-  ref: Quran 2:42
-  note: People of the Book cast God's book behind their backs (selling signs for a small price, concealing
-    truth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām ''they cast your Torah behind their backs''
-    (Israel''s own confession); Q 2:41-42 lā tashtarū bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqqa,
-    said to the Children of Israel. The exact image ''behind their backs'' is the Quran''s at 3:187 and
-    2:101.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People of the Book cast God''s book behind their backs (weight 5.8).
     Pair score 5.8.'
@@ -76,6 +47,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People of the Book cast God's book behind their backs
+kinds:
+- echo
+units:
+- id: hb-neh-9-levites-confession
+  title: Fast of the twenty-fourth and the Levites' historical confession
+  tradition: judaism
+- id: quran-2-israel-favor
+  title: Address to the Children of Israel
+  tradition: islam
+matches:
+- kind: echo
+  label: People of the Book cast God's book behind their backs
+  note: Neh 9:26 wa-yyašlikû ʾet tôrātĕkā ʾaḥărê gawwām 'they cast your Torah behind their backs' (Israel's
+    own confession); Q 2:41-42 lā tashtarū bi-āyātī thamanan qalīlan ... wa-taktumū l-ḥaqqa, said to the
+    Children of Israel. The exact image 'behind their backs' is the Quran's at 3:187 and 2:101.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 9:26
+      lang: he
+      text: וַיַּמְר֨וּ וַֽיִּמְרְד֜וּ בָּ֗ךְ וַיַּשְׁלִ֤כוּ אֶת תּוֹרָֽתְךָ֙ אַחֲרֵ֣י גַוָּ֔ם וְאֶת נְבִיאֶ֣יךָ
+        הָרָ֔גוּ אֲשֶׁר הֵעִ֥ידוּ בָ֖ם לַהֲשִׁיבָ֣ם אֵלֶ֑יךָ וַֽיַּעֲשׂ֔וּ נֶאָצ֖וֹת גְּדוֹלֹֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 2:41
+      lang: ar
+      text: وَءَامِنُوا۟ بِمَآ أَنزَلْتُ مُصَدِّقًا لِّمَا مَعَكُمْ وَلَا تَكُونُوٓا۟ أَوَّلَ كَافِرٍۭ
+        بِهِۦ وَلَا تَشْتَرُوا۟ بِـَٔايَٰتِى ثَمَنًا قَلِيلًا وَإِيَّٰىَ فَٱتَّقُونِ
+    - ref: Quran 2:42
+      lang: ar
+      text: وَلَا تَلْبِسُوا۟ ٱلْحَقَّ بِٱلْبَٰطِلِ وَتَكْتُمُوا۟ ٱلْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 ---
 
 ## Questions

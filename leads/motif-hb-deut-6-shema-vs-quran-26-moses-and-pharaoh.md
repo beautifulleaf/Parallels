@@ -2,8 +2,7 @@
 id: motif-hb-deut-6-shema-vs-quran-26-moses-and-pharaoh
 title: The Shema and the instruction to teach ↔ Moses and Pharaoh disputing; the magicians; the sea split
   like mountains
-summary: 'These two units share 1 motifs: israel will inherit cities, houses, cisterns, vineyards and
-  olives they did not build or plant.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - inherit-houses-not-built
-passages:
-- tradition: judaism
-  ref: Deut 6:10
-  note: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיָ֞ה כִּ֥י יְבִיאֲךָ֣ יְהוָ֣ה אֱלֹהֶ֗יךָ אֶל הָאָ֜רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע לַאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם
-    לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָ֣תֶת לָ֑ךְ עָרִ֛ים גְּדֹלֹ֥ת וְטֹבֹ֖ת אֲשֶׁ֥ר לֹא בָנִֽיתָ
-- tradition: judaism
-  ref: Deut 6:11
-  note: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבָ֨תִּ֜ים מְלֵאִ֣ים כָּל טוּב֮ אֲשֶׁ֣ר לֹא מִלֵּאתָ֒ וּבֹרֹ֤ת חֲצוּבִים֙ אֲשֶׁ֣ר לֹא חָצַ֔בְתָּ
-    כְּרָמִ֥ים וְזֵיתִ֖ים אֲשֶׁ֣ר לֹא נָטָ֑עְתָּ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ
-- tradition: islam
-  ref: Quran 26:57
-  note: 'Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-    (jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
-    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
-    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
-    Q 26 it is the Egyptians'' own gardens and springs.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
-- tradition: islam
-  ref: Quran 26:58
-  note: 'Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
-    (jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
-    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
-    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
-    Q 26 it is the Egyptians'' own gardens and springs.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
-    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
-    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
-    Q 26 it is the Egyptians'' own gardens and springs.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel will inherit cities, houses, cisterns, vineyards and olives
     they did not build or plant (weight 6.0). Pair score 6.0.'
@@ -87,6 +48,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
+kinds:
+- echo
+units:
+- id: hb-deut-6-shema
+  title: The Shema and the instruction to teach
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: echo
+  label: Israel will inherit cities, houses, cisterns, vineyards and olives they did not build or plant
+  note: 'jannātin wa-ʿuyūnin wa-kunūzin wa-maqāmin karīmin ... wa-awrathnāhā banī Isrāʾīla ~ ʿārîm gədōlōt
+    wə-ṭōvōt ʾăšer lōʾ vānîtā û-vāttîm məlēʾîm kol ṭûv ... û-vōrōt ḥăṣûvîm ... kərāmîm wə-zêtîm: Israel
+    receives a ready-made land of fine dwellings, water sources and orchards. In Deut it is Canaan, in
+    Q 26 it is the Egyptians'' own gardens and springs.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 6:10
+      lang: he
+      text: וְהָיָ֞ה כִּ֥י יְבִיאֲךָ֣ יְהוָ֣ה אֱלֹהֶ֗יךָ אֶל הָאָ֜רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע לַאֲבֹתֶ֛יךָ
+        לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָ֣תֶת לָ֑ךְ עָרִ֛ים גְּדֹלֹ֥ת וְטֹבֹ֖ת אֲשֶׁ֥ר לֹא בָנִֽיתָ
+    - ref: Deut 6:11
+      lang: he
+      text: וּבָ֨תִּ֜ים מְלֵאִ֣ים כָּל טוּב֮ אֲשֶׁ֣ר לֹא מִלֵּאתָ֒ וּבֹרֹ֤ת חֲצוּבִים֙ אֲשֶׁ֣ר לֹא חָצַ֔בְתָּ
+        כְּרָמִ֥ים וְזֵיתִ֖ים אֲשֶׁ֣ר לֹא נָטָ֑עְתָּ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:57
+      lang: ar
+      text: فَأَخْرَجْنَٰهُم مِّن جَنَّٰتٍ وَعُيُونٍ
+    - ref: Quran 26:58
+      lang: ar
+      text: وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ
+    - ref: Quran 26:59
+      lang: ar
+      text: كَذَٰلِكَ وَأَوْرَثْنَٰهَا بَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

@@ -2,7 +2,7 @@
 id: motif-hb-gen-24-bride-for-isaac-vs-quran-24-privacy-modesty-marriage
 title: Abraham's servant finds Rebekah for Isaac ↔ Entering houses, lowering the gaze, head-coverings,
   marriage and manumission
-summary: 'These two units share 1 motifs: bride covers herself with a veil on seeing the groom.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - bride-veils-on-seeing-groom
-passages:
-- tradition: judaism
-  ref: Gen 24:64
-  note: Bride covers herself with a veil on seeing the groom (she 'falls' from the camel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּשָּׂ֤א רִבְקָה֙ אֶת עֵינֶ֔יהָ וַתֵּ֖רֶא אֶת יִצְחָ֑ק וַתִּפֹּ֖ל מֵעַ֥ל הַגָּמָֽל
-- tradition: judaism
-  ref: Gen 24:65
-  note: Bride covers herself with a veil on seeing the groom (she 'falls' from the camel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֣אמֶר אֶל הָעֶ֗בֶד מִֽי הָאִ֤ישׁ הַלָּזֶה֙ הַהֹלֵ֤ךְ בַּשָּׂדֶה֙ לִקְרָאתֵ֔נוּ וַיֹּ֥אמֶר
-    הָעֶ֖בֶד ה֣וּא אֲדֹנִ֑י וַתִּקַּ֥ח הַצָּעִ֖יף וַתִּתְכָּֽס
-- tradition: islam
-  ref: Quran 24:31
-  note: 'Bride covers herself with a veil on seeing the groom (wa-l-yaḍribna bi-khumurihinna ʿalā juyūbihinna
-    ~ wat-tiqqaḥ haṣ-ṣāʿîf wat-titkas: a woman covers herself before a man. Rebekah veils on first seeing
-    her future husband; in the Quran the husband (bi-buʿūlatihinna) heads the list of men before whom
-    covering is not required.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ
-    زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا يُبْدِينَ
-    زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ
-    أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ
-    أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ
-    مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ وَلَا يَضْرِبْنَ
-    بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ
-    ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-l-yaḍribna bi-khumurihinna ʿalā juyūbihinna ~ wat-tiqqaḥ haṣ-ṣāʿîf wat-titkas: a woman covers
-    herself before a man. Rebekah veils on first seeing her future husband; in the Quran the husband (bi-buʿūlatihinna)
-    heads the list of men before whom covering is not required.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Bride covers herself with a veil on seeing the groom (weight 6.7).
     Pair score 6.7.'
@@ -84,6 +52,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Bride covers herself with a veil on seeing the groom
+kinds:
+- echo
+units:
+- id: hb-gen-24-bride-for-isaac
+  title: Abraham's servant finds Rebekah for Isaac
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: echo
+  label: Bride covers herself with a veil on seeing the groom
+  note: 'wa-l-yaḍribna bi-khumurihinna ʿalā juyūbihinna ~ wat-tiqqaḥ haṣ-ṣāʿîf wat-titkas: a woman covers
+    herself before a man. Rebekah veils on first seeing her future husband; in the Quran the husband (bi-buʿūlatihinna)
+    heads the list of men before whom covering is not required.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 24:65
+      lang: he
+      text: וַתֹּ֣אמֶר אֶל הָעֶ֗בֶד מִֽי הָאִ֤ישׁ הַלָּזֶה֙ הַהֹלֵ֤ךְ בַּשָּׂדֶה֙ לִקְרָאתֵ֔נוּ וַיֹּ֥אמֶר
+        הָעֶ֖בֶד ה֣וּא אֲדֹנִ֑י וַתִּקַּ֥ח הַצָּעִ֖יף וַתִּתְכָּֽס
+  - tradition: islam
+    passages:
+    - ref: Quran 24:31
+      lang: ar
+      text: وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ
+        زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ وَلَا
+        يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ
+        أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ
+        أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ
+        غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ
+        ٱلنِّسَآءِ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ وَتُوبُوٓا۟
+        إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-gen-27-stolen-blessing-vs-quran-12-joseph-full
 title: Jacob steals Esau's blessing ↔ Joseph and his brothers (Surah 12, full read)
-summary: 'These two units share 2 motifs: father recognizes his son''s scent, the father''s eyesight fails.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 motifs:
 - father-smells-son
 - father-eyesight-fails
-passages:
-- tradition: judaism
-  ref: Gen 27:27
-  note: Father recognizes his son's scent ('the smell of my son is as the smell of a field the LORD has
-    blessed')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙
-    רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה
-- tradition: islam
-  ref: Quran 12:94
-  note: Father recognizes his son's scent (rīḥ Yūsuf, as soon as the caravan departs)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ
-- tradition: judaism
-  ref: Gen 27:1
-  note: The father's eyesight fails
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֙ כִּֽי זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת עֵשָׂ֣ו בְּנ֣וֹ
-    הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי
-- tradition: islam
-  ref: Quran 12:84
-  note: The father's eyesight fails (his eyes whitened from grief)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
-    فَهُوَ كَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. innī la-ajidu rīḥa Yūsuf; wayyāraḥ ʾet-rêaḥ bəgādāyw ... rəʾēh rêaḥ bənî: a father knows a son
-    by his scent and garment. Gen 27 is deceit (Jacob in Esau''s clothes); Q''s scent is true knowledge
-    from God, and Jacob is the one smelling.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Father recognizes his son''s scent (weight 6.0); The father''s eyesight
     fails (weight 5.8). Pair score 11.8.'
@@ -80,6 +49,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Father recognizes his son's scent
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-27-stolen-blessing
+  title: Jacob steals Esau's blessing
+  tradition: judaism
+- id: quran-12-joseph-full
+  title: Joseph and his brothers (Surah 12, full read)
+  tradition: islam
+matches:
+- kind: echo
+  label: Father recognizes his son's scent
+  note: 'innī la-ajidu rīḥa Yūsuf; wayyāraḥ ʾet-rêaḥ bəgādāyw ... rəʾēh rêaḥ bənî: a father knows a son
+    by his scent and garment. Gen 27 is deceit (Jacob in Esau''s clothes); Q''s scent is true knowledge
+    from God, and Jacob is the one smelling.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 27:27
+      lang: he
+      text: וַיִּגַּשׁ֙ וַיִּשַּׁק ל֔וֹ וַיָּ֛רַח אֶת רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרֲכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙
+        רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרֲכ֖וֹ יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 12:94
+      lang: ar
+      text: وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ
+- kind: shared
+  label: The father's eyesight fails
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 27:1
+      lang: he
+      text: וַיְהִי֙ כִּֽי זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת עֵשָׂ֣ו בְּנ֣וֹ
+        הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 12:84
+      lang: ar
+      text: وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ
+        فَهُوَ كَظِيمٌ
+    note: his eyes whitened from grief
 ---
 
 ## Questions

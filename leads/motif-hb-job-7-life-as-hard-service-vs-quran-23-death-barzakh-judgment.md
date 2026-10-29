@@ -2,8 +2,7 @@
 id: motif-hb-job-7-life-as-hard-service-vs-quran-23-death-barzakh-judgment
 title: Job - human life as hard service; 'Am I Sea or Dragon?' ↔ Repel evil with good; the deathbed plea,
   the barzakh and the scales
-summary: 'These two units share 1 motifs: whether those who die and return to dust rise again [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - fate-of-humans-after-death-as-divergence
-passages:
-- tradition: judaism
-  ref: Job 7:9
-  note: 'Whether those who die and return to dust rise again [divergence between the texts] (No return
-    after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi rjiʿūni ... kallā ...
-    wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final; in the Quran the barrier
-    (barzakh) lasts only ''until the day they are raised''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּלָ֣ה עָ֭נָן וַיֵּלַ֑ךְ כֵּ֥ן יוֹרֵ֥ד שְׁ֝א֗וֹל לֹ֣א יַעֲלֶֽה
-- tradition: judaism
-  ref: Job 7:10
-  note: 'Whether those who die and return to dust rise again [divergence between the texts] (No return
-    after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi rjiʿūni ... kallā ...
-    wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final; in the Quran the barrier
-    (barzakh) lasts only ''until the day they are raised''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יָשׁ֣וּב ע֣וֹד לְבֵית֑וֹ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקֹמֽוֹ
-- tradition: islam
-  ref: Quran 23:99
-  note: 'Whether those who die and return to dust rise again [divergence between the texts] (No return
-    after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi rjiʿūni ... kallā ...
-    wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final; in the Quran the barrier
-    (barzakh) lasts only ''until the day they are raised''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
-- tradition: islam
-  ref: Quran 23:100
-  note: 'Whether those who die and return to dust rise again [divergence between the texts] (No return
-    after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi rjiʿūni ... kallā ...
-    wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final; in the Quran the barrier
-    (barzakh) lasts only ''until the day they are raised''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَعَلِّىٓ أَعْمَلُ صَٰلِحًا فِيمَا تَرَكْتُ كَلَّآ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا وَمِن وَرَآئِهِم
-    بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. No return after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi
-    rjiʿūni ... kallā ... wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final;
-    in the Quran the barrier (barzakh) lasts only ''until the day they are raised''.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether those who die and return to dust rise again [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -93,6 +52,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether those who die and return to dust rise again
+kinds:
+- divergence
+units:
+- id: hb-job-7-life-as-hard-service
+  title: Job - human life as hard service; 'Am I Sea or Dragon?'
+  tradition: judaism
+- id: quran-23-death-barzakh-judgment
+  title: Repel evil with good; the deathbed plea, the barzakh and the scales
+  tradition: islam
+matches:
+- kind: divergence
+  label: Whether those who die and return to dust rise again
+  note: 'No return after death in both: kēn yôrēd šəʾôl lōʾ yaʿăleh lōʾ yāšûv ʿôd lə-vêtô ~ rabbi rjiʿūni
+    ... kallā ... wa-min warāʾihim barzakhun ilā yawmi yubʿathūna. For Job the descent is final; in the
+    Quran the barrier (barzakh) lasts only ''until the day they are raised''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 7:9
+      lang: he
+      text: כָּלָ֣ה עָ֭נָן וַיֵּלַ֑ךְ כֵּ֥ן יוֹרֵ֥ד שְׁ֝א֗וֹל לֹ֣א יַעֲלֶֽה
+    - ref: Job 7:10
+      lang: he
+      text: לֹא יָשׁ֣וּב ע֣וֹד לְבֵית֑וֹ וְלֹא יַכִּירֶ֖נּוּ ע֣וֹד מְקֹמֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 23:99
+      lang: ar
+      text: حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلْمَوْتُ قَالَ رَبِّ ٱرْجِعُونِ
+    - ref: Quran 23:100
+      lang: ar
+      text: لَعَلِّىٓ أَعْمَلُ صَٰلِحًا فِيمَا تَرَكْتُ كَلَّآ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَا وَمِن
+        وَرَآئِهِم بَرْزَخٌ إِلَىٰ يَوْمِ يُبْعَثُونَ
 ---
 
 ## Questions

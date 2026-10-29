@@ -2,7 +2,7 @@
 id: motif-hb-num-17-censers-plague-rod-vs-quran-2-talut-jalut
 title: Censers as altar plating, Aaron stops the plague, Aaron's rod blossoms ↔ Talut (Saul), the ark
   and Jalut (Goliath)
-summary: 'These two units share 1 motifs: miraculous rod kept before the testimony as a sign.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - rod-kept-as-sign
-passages:
-- tradition: judaism
-  ref: Num 17:25
-  note: Miraculous rod kept before the Testimony as a sign (a sign 'for the rebels' (benei meri))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה הָשֵׁ֞ב אֶת מַטֵּ֤ה אַהֲרֹן֙ לִפְנֵ֣י הָעֵד֔וּת לְמִשְׁמֶ֥רֶת לְא֖וֹת
-    לִבְנֵי מֶ֑רִי וּתְכַ֧ל תְּלוּנֹּתָ֛ם מֵעָלַ֖י וְלֹ֥א יָמֻֽתוּ
-- tradition: islam
-  ref: Quran 2:248
-  note: 'Miraculous rod kept before the Testimony as a sign (Num 17:25 hāšēb ʾet maṭṭēh ʾahărōn lipnê
-    hā-ʿēdût lĕ-mišmeret lĕ-ʾôt: Aaron''s rod kept before the testimony ''as a sign''; Q 2:248 baqiyyatun
-    mimmā taraka ālu mūsā wa-ālu hārūn ... inna fī dhālika la-āyatan lakum: Moses'' and Aaron''s relics
-    in the ark as a sign (ʾôt / āya).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
-    مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
-    إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Num 17:25 hāšēb ʾet maṭṭēh ʾahărōn lipnê hā-ʿēdût lĕ-mišmeret lĕ-ʾôt: Aaron''s rod kept before
-    the testimony ''as a sign''; Q 2:248 baqiyyatun mimmā taraka ālu mūsā wa-ālu hārūn ... inna fī dhālika
-    la-āyatan lakum: Moses'' and Aaron''s relics in the ark as a sign (ʾôt / āya).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Miraculous rod kept before the Testimony as a sign (weight 6.7).
     Pair score 6.7.'
@@ -68,6 +47,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Miraculous rod kept before the Testimony as a sign
+kinds:
+- echo
+units:
+- id: hb-num-17-censers-plague-rod
+  title: Censers as altar plating, Aaron stops the plague, Aaron's rod blossoms
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: echo
+  label: Miraculous rod kept before the Testimony as a sign
+  note: 'Num 17:25 hāšēb ʾet maṭṭēh ʾahărōn lipnê hā-ʿēdût lĕ-mišmeret lĕ-ʾôt: Aaron''s rod kept before
+    the testimony ''as a sign''; Q 2:248 baqiyyatun mimmā taraka ālu mūsā wa-ālu hārūn ... inna fī dhālika
+    la-āyatan lakum: Moses'' and Aaron''s relics in the ark as a sign (ʾôt / āya).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 17:25
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל מֹשֶׁ֗ה הָשֵׁ֞ב אֶת מַטֵּ֤ה אַהֲרֹן֙ לִפְנֵ֣י הָעֵד֔וּת לְמִשְׁמֶ֥רֶת
+        לְא֖וֹת לִבְנֵי מֶ֑רִי וּתְכַ֧ל תְּלוּנֹּתָ֛ם מֵעָלַ֖י וְלֹ֥א יָמֻֽתוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:248
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
+        مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
+        إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

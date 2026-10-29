@@ -2,8 +2,7 @@
 id: motif-hb-exod-6-name-and-levite-genealogy-vs-quran-43-zukhruf-pharaoh-claims
 title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron ↔ Moses before
   Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 1 motifs: prophet protests he is heavy of mouth and tongue or ''uncircumcised
-  of lips''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-slow-of-speech
-passages:
-- tradition: judaism
-  ref: Exod 6:12
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (aral sefatayim 'uncircumcised
-    of lips')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֣ר מֹשֶׁ֔ה לִפְנֵ֥י יְהוָ֖ה לֵאמֹ֑ר הֵ֤ן בְּנֵֽי יִשְׂרָאֵל֙ לֹֽא שָׁמְע֣וּ אֵלַ֔י וְאֵיךְ֙
-    יִשְׁמָעֵ֣נִי פַרְעֹ֔ה וַאֲנִ֖י עֲרַ֥ל שְׂפָתָֽיִם
-- tradition: judaism
-  ref: Exod 6:30
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' (aral sefatayim 'uncircumcised
-    of lips')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר מֹשֶׁ֖ה לִפְנֵ֣י יְהוָ֑ה הֵ֤ן אֲנִי֙ עֲרַ֣ל שְׂפָתַ֔יִם וְאֵ֕יךְ יִשְׁמַ֥ע אֵלַ֖י פַּרְעֹֽה
-- tradition: islam
-  ref: Quran 43:52
-  note: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips' ('he can scarcely
-    make himself clear' (la yakadu yubin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-ʾêḵ yišmāʿēnî p̄arʿōh wa-ʾănî ʿăral śəp̄āṯāyim: Moses fears Pharaoh will not listen because
-    of his ''uncircumcised lips''; in Q 43:52 Pharaoh indeed dismisses him as one who ''can hardly make
-    himself clear'' (lā yakādu yubīn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prophet protests he is heavy of mouth and tongue or ''uncircumcised
     of lips'' (weight 5.6). Pair score 5.6.'
@@ -80,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips'
+kinds:
+- echo
+units:
+- id: hb-exod-6-name-and-levite-genealogy
+  title: '''I am YHWH'': the name not known to the patriarchs; genealogy of Moses and Aaron'
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: echo
+  label: Prophet protests he is heavy of mouth and tongue or 'uncircumcised of lips'
+  note: 'wə-ʾêḵ yišmāʿēnî p̄arʿōh wa-ʾănî ʿăral śəp̄āṯāyim: Moses fears Pharaoh will not listen because
+    of his ''uncircumcised lips''; in Q 43:52 Pharaoh indeed dismisses him as one who ''can hardly make
+    himself clear'' (lā yakādu yubīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 6:12
+      lang: he
+      text: וַיְדַבֵּ֣ר מֹשֶׁ֔ה לִפְנֵ֥י יְהוָ֖ה לֵאמֹ֑ר הֵ֤ן בְּנֵֽי יִשְׂרָאֵל֙ לֹֽא שָׁמְע֣וּ אֵלַ֔י
+        וְאֵיךְ֙ יִשְׁמָעֵ֣נִי פַרְעֹ֔ה וַאֲנִ֖י עֲרַ֥ל שְׂפָתָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:52
+      lang: ar
+      text: أَمْ أَنَا۠ خَيْرٌ مِّنْ هَٰذَا ٱلَّذِى هُوَ مَهِينٌ وَلَا يَكَادُ يُبِينُ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-18-abraham-bargains-vs-quran-45-jathiya-time-and-the-kneeling-nations
 title: Abraham bargains for Sodom ↔ Desire as god, 'only Time destroys us', and every nation kneeling
   before its book
-summary: 'These two units share 1 motifs: do evildoers think god will make them equal to the righteous
-  in life and in death?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,38 +15,9 @@ layers:
 - motif
 motifs:
 - wicked-not-equal-to-righteous-in-life-and-death
-passages:
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Do evildoers think God will make them equal to the righteous in life and in death? (Treating
-    righteous and wicked alike is unthinkable for God: ḥālilâ lləḵā ... lə-hāmîṯ ṣaddîq ʿim rāšāʿ wə-hāyâ
-    ḵaṣ-ṣaddîq kā-rāšāʿ; hă-šōp̄ēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ vs. an najʿalahum ka-lladhīna āmanū
-    ... sawāʾan; sāʾa mā yaḥkumūn. Abraham puts it to God as a challenge; the Quran puts it as God''s
-    rebuke of the wicked''s presumption.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 45:21
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟
-    ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ
-- tradition: islam
-  ref: Quran 45:22
-  note: Do evildoers think God will make them equal to the righteous in life and in death?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَخَلَقَ ٱللَّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ وَلِتُجْزَىٰ كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ
-    وَهُمْ لَا يُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Treating righteous and wicked alike is unthinkable for God: ḥālilâ lləḵā ... lə-hāmîṯ ṣaddîq
-    ʿim rāšāʿ wə-hāyâ ḵaṣ-ṣaddîq kā-rāšāʿ; hă-šōp̄ēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ vs. an najʿalahum
-    ka-lladhīna āmanū ... sawāʾan; sāʾa mā yaḥkumūn. Abraham puts it to God as a challenge; the Quran
-    puts it as God''s rebuke of the wicked''s presumption.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do evildoers think God will make them equal to the righteous in
     life and in death? (weight 5.6). Pair score 5.6.'
@@ -84,6 +54,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do evildoers think God will make them equal to the righteous in life and in death?
+kinds:
+- parallel
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-45-jathiya-time-and-the-kneeling-nations
+  title: Desire as god, 'only Time destroys us', and every nation kneeling before its book
+  tradition: islam
+matches:
+- kind: parallel
+  label: Do evildoers think God will make them equal to the righteous in life and in death?
+  note: 'Treating righteous and wicked alike is unthinkable for God: ḥālilâ lləḵā ... lə-hāmîṯ ṣaddîq
+    ʿim rāšāʿ wə-hāyâ ḵaṣ-ṣaddîq kā-rāšāʿ; hă-šōp̄ēṭ kol hā-ʾāreṣ lōʾ yaʿăśeh mišpāṭ vs. an najʿalahum
+    ka-lladhīna āmanū ... sawāʾan; sāʾa mā yaḥkumūn. Abraham puts it to God as a challenge; the Quran
+    puts it as God''s rebuke of the wicked''s presumption.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:25
+      lang: he
+      text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
+        כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 45:21
+      lang: ar
+      text: أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ أَن نَّجْعَلَهُمْ كَٱلَّذِينَ ءَامَنُوا۟
+        وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ سَآءَ مَا يَحْكُمُونَ
 ---
 
 ## Questions

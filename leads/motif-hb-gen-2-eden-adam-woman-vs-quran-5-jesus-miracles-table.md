@@ -2,8 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-5-jesus-miracles-table
 title: Second creation account, Eden, and the making of woman ↔ Jesus' miracles, the table from heaven,
   and Jesus questioned at judgment
-summary: 'These two units share 2 motifs: deity breathes the breath of life into the first human''s nostrils,
-  paradise as gardens (of ʿadn) beneath which rivers flow, where the righteous abide forever.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,62 +15,9 @@ layers:
 motifs:
 - breath-of-life-into-nostrils
 - gardens-with-rivers-beneath
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: Deity breathes the breath of life into the first human's nostrils
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 5:110
-  note: 'Deity breathes the breath of life into the first human''s nostrils (Shaping from earth, then
-    blowing to bring life. Q: wa-idh takhluqu mina l-ṭīni ka-hayʾati l-ṭayri bi-idhnī fa-tanfukhu fīhā
-    fa-takūnu ṭayran bi-idhnī. Gen: wa-yyîṣer YHWH ʾĕlōhîm ʾet-hā-ʾādām ʿāfār min-hā-ʾădāmāh wa-yyippaḥ
-    bə-ʾappāyw nišmat ḥayyîm. Jesus repeats God''s creative act, but only ''by my leave'' (bi-idhnī).
-    cf. (not a match) Infancy Gospel of Thomas 2.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ
-    أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ
-    وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى
-    فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ
-    تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ
-    فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
-- tradition: judaism
-  ref: Gen 2:8
-  note: 'Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever (Gen
-    2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden watered
-    by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens and rivers,
-    the reward at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר
-- tradition: judaism
-  ref: Gen 2:10
-  note: 'Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever (Gen
-    2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden watered
-    by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens and rivers,
-    the reward at the end.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
-    רָאשִֽׁים
-- tradition: islam
-  ref: Quran 5:119
-  note: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا
-    ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ذَٰلِكَ ٱلْفَوْزُ
-    ٱلْعَظِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Shaping from earth, then blowing to bring life. Q: wa-idh takhluqu mina l-ṭīni ka-hayʾati l-ṭayri
-    bi-idhnī fa-tanfukhu fīhā fa-takūnu ṭayran bi-idhnī. Gen: wa-yyîṣer YHWH ʾĕlōhîm ʾet-hā-ʾādām ʿāfār
-    min-hā-ʾădāmāh wa-yyippaḥ bə-ʾappāyw nišmat ḥayyîm. Jesus repeats God''s creative act, but only ''by
-    my leave'' (bi-idhnī). cf. (not a match) Infancy Gospel of Thomas 2.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
     (weight 5.3); Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
@@ -107,6 +53,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity breathes the breath of life into the first human's nostrils
+kinds:
+- echo
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-5-jesus-miracles-table
+  title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: Deity breathes the breath of life into the first human's nostrils
+  note: 'Shaping from earth, then blowing to bring life. Q: wa-idh takhluqu mina l-ṭīni ka-hayʾati l-ṭayri
+    bi-idhnī fa-tanfukhu fīhā fa-takūnu ṭayran bi-idhnī. Gen: wa-yyîṣer YHWH ʾĕlōhîm ʾet-hā-ʾādām ʿāfār
+    min-hā-ʾădāmāh wa-yyippaḥ bə-ʾappāyw nišmat ḥayyîm. Jesus repeats God''s creative act, but only ''by
+    my leave'' (bi-idhnī). cf. (not a match) Infancy Gospel of Thomas 2.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:110
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ
+        إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ
+        ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ
+        بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ
+        جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+- kind: shared
+  label: Paradise as gardens (of ʿAdn) beneath which rivers flow, where the righteous abide forever
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:8
+      lang: he
+      text: וַיִּטַּ֞ע יְהוָ֧ה אֱלֹהִ֛ים גַּן בְעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם אֶת הָֽאָדָ֖ם אֲשֶׁ֥ר
+        יָצָֽר
+    - ref: Gen 2:10
+      lang: he
+      text: וְנָהָרּ֙ יֹצֵ֣א מֵעֵ֔דֶן לְהַשְׁק֖וֹת אֶת הַגָּ֑ן וּמִשָּׁם֙ יִפָּרֵ֔ד וְהָיָ֖ה לְאַרְבָּעָ֥ה
+        רָאשִֽׁים
+    note: 'Gen 2:8, 2:10 gan bĕ-ʿēden ... wĕ-nāhār yōṣēʾ mē-ʿēden lĕhašqôt ʾet ha-gān: one garden in Eden
+      watered by one river, at the beginning; Q 2:25 jannātin tajrī min taḥtihā l-anhāru: plural gardens
+      and rivers, the reward at the end.'
+  - tradition: islam
+    passages:
+    - ref: Quran 5:119
+      lang: ar
+      text: قَالَ ٱللَّهُ هَٰذَا يَوْمُ يَنفَعُ ٱلصَّٰدِقِينَ صِدْقُهُمْ لَهُمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا
+        ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًا رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ذَٰلِكَ ٱلْفَوْزُ
+        ٱلْعَظِيمُ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-2kgs-9-jehu-anointed-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'Jehu anointed king ↔ Ha-Mim: the blessed night and the day of the smoke'
-summary: 'These two units share 1 motifs: officers call the visiting prophet ''this madman'' (meshugga'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - prophet-called-madman
-passages:
-- tradition: judaism
-  ref: 2Kgs 9:11
-  note: Officers call the visiting prophet 'this madman' (meshugga')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
-    הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
-- tradition: islam
-  ref: Quran 44:14
-  note: Officers call the visiting prophet 'this madman' (meshugga') (maddûaʿ bāʾ ham-məšuggāʿ haz-zeh
-    ʾēleḵā vs. thumma tawallaw ʿanhu wa-qālū muʿallamun majnūn. The officers' slur is answered by Jehu
-    (ʾattem yəḏaʿtem ʾeṯ hā-ʾîš wə-ʾeṯ śîḥô); the Quran's opponents add 'taught by others' (muʿallam).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. maddûaʿ bāʾ ham-məšuggāʿ haz-zeh ʾēleḵā vs. thumma tawallaw ʿanhu wa-qālū muʿallamun majnūn.
-    The officers'' slur is answered by Jehu (ʾattem yəḏaʿtem ʾeṯ hā-ʾîš wə-ʾeṯ śîḥô); the Quran''s opponents
-    add ''taught by others'' (muʿallam).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Officers call the visiting prophet ''this madman'' (meshugga'')
     (weight 5.1). Pair score 5.1.'
@@ -64,6 +46,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Officers call the visiting prophet 'this madman' (meshugga')
+kinds:
+- parallel
+units:
+- id: hb-2kgs-9-jehu-anointed
+  title: Jehu anointed king
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Officers call the visiting prophet 'this madman' (meshugga')
+  note: maddûaʿ bāʾ ham-məšuggāʿ haz-zeh ʾēleḵā vs. thumma tawallaw ʿanhu wa-qālū muʿallamun majnūn. The
+    officers' slur is answered by Jehu (ʾattem yəḏaʿtem ʾeṯ hā-ʾîš wə-ʾeṯ śîḥô); the Quran's opponents
+    add 'taught by others' (muʿallam).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 9:11
+      lang: he
+      text: וְיֵה֗וּא יָצָא֙ אֶל עַבְדֵ֣י אֲדֹנָ֔יו וַיֹּ֤אמֶר לוֹ֙ הֲשָׁל֔וֹם מַדּ֛וּעַ בָּֽא הַמְשֻׁגָּ֥ע
+        הַזֶּ֖ה אֵלֶ֑יךָ וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֛ם יְדַעְתֶּ֥ם אֶת הָאִ֖ישׁ וְאֶת שִׂיחֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:14
+      lang: ar
+      text: ثُمَّ تَوَلَّوْا۟ عَنْهُ وَقَالُوا۟ مُعَلَّمٌ مَّجْنُونٌ
 ---
 
 ## Questions

@@ -1,9 +1,7 @@
 ---
 id: motif-hb-judg-13-samson-birth-vs-quran-3-imran-mary-zechariah
 title: Annunciation of Samson's birth to Manoah's wife ↔ The family of Imran, Mary and Zechariah
-summary: 'These two units share 3 motifs: a divine messenger announces a son to a barren couple [divergence
-  between the texts], a barren wife is told by a divine messenger that she will bear a son, the patriarch''s
-  wife is barren.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,119 +15,9 @@ motifs:
 - annunciation-of-son-to-barren-couple-as-divergence
 - barren-wife-annunciation
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Judg 13:3
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: judaism
-  ref: Judg 13:5
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא יַעֲלֶ֣ה עַל רֹאשׁ֔וֹ כִּֽי נְזִ֧יר אֱלֹהִ֛ים
-    יִהְיֶ֥ה הַנַּ֖עַר מִן הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת יִשְׂרָאֵ֖ל מִיַּ֥ד פְּלִשְׁתִּֽים
-- tradition: islam
-  ref: Quran 3:39
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
-    بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 3:40
-  note: 'A divine messenger announces a son to a barren couple [divergence between the texts] (Judg 13:3,
-    5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm yihyeh ha-nnaʿar
-    min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated son; Q 3:39-40
-    fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī ʿāqirun:
-    the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr) son,
-    a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
-- tradition: judaism
-  ref: Judg 13:2
-  note: A barren wife is told by a divine messenger that she will bear a son (Angel appears to the woman,
-    not the husband; she is unnamed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה
-    וְלֹ֥א יָלָֽדָה
-- tradition: judaism
-  ref: Judg 13:3
-  note: A barren wife is told by a divine messenger that she will bear a son (Angel appears to the woman,
-    not the husband; she is unnamed)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: islam
-  ref: Quran 3:39
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
-    بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
-- tradition: islam
-  ref: Quran 3:40
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
-- tradition: judaism
-  ref: Judg 13:2
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ עֲקָרָ֖ה
-    וְלֹ֥א יָלָֽדָה
-- tradition: judaism
-  ref: Judg 13:3
-  note: 'The patriarch''s wife is barren (wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ...
-    kî-nəzîr ʾĕlōhîm yihyeh hannaʿar min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām
-    ... wa-ātaynāhu l-ḥukma ṣabiyyā ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated
-    from childhood. In Judg the angel comes to the wife; in Q the announcement goes to the husband.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
-    יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
-- tradition: islam
-  ref: Quran 3:40
-  note: The patriarch's wife is barren
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
-    كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Judg 13:3, 5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr
-    ʾĕlōhîm yihyeh ha-nnaʿar min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces
-    a consecrated son; Q 3:39-40 fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran
-    ... wa-mraʾatī ʿāqirun: the angels speak to the husband while he prays in the sanctuary, and announce
-    a chaste (ḥaṣūr) son, a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A divine messenger announces a son to a barren couple [divergence
     between the texts] (weight 6.0); A barren wife is told by a divine messenger that she will bear a
@@ -161,6 +49,99 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son to a barren couple
+kinds:
+- divergence
+- shared
+units:
+- id: hb-judg-13-samson-birth
+  title: Annunciation of Samson's birth to Manoah's wife
+  tradition: judaism
+- id: quran-3-imran-mary-zechariah
+  title: The family of Imran, Mary and Zechariah
+  tradition: islam
+matches:
+- kind: divergence
+  label: A divine messenger announces a son to a barren couple
+  note: 'Judg 13:3, 5 wa-yyērāʾ malʾak YHWH ʾel hā-ʾiššâ ... hinnēh nāʾ ʾatt ʿăqārâ ... kî nĕzîr ʾĕlōhîm
+    yihyeh ha-nnaʿar min ha-bbeṭen: the angel comes to the barren wife (ʿăqārâ) and announces a consecrated
+    son; Q 3:39-40 fa-nādathu l-malāʾikatu wa-huwa qāʾimun yuṣallī fī l-miḥrābi ... wa-ḥaṣūran ... wa-mraʾatī
+    ʿāqirun: the angels speak to the husband while he prays in the sanctuary, and announce a chaste (ḥaṣūr)
+    son, a prophet. Cognate ʿăqārâ / ʿāqir; recipient moves from wife to husband.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    - ref: Judg 13:5
+      lang: he
+      text: כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא יַעֲלֶ֣ה עַל רֹאשׁ֔וֹ כִּֽי נְזִ֧יר
+        אֱלֹהִ֛ים יִהְיֶ֥ה הַנַּ֖עַר מִן הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת יִשְׂרָאֵ֖ל מִיַּ֥ד
+        פְּלִשְׁתִּֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 3:39
+      lang: ar
+      text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
+        بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+- kind: shared
+  label: A barren wife is told by a divine messenger that she will bear a son
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:2
+      lang: he
+      text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ
+        עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    note: Angel appears to the woman, not the husband; she is unnamed
+  - tradition: islam
+    passages:
+    - ref: Quran 3:39
+      lang: ar
+      text: فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ
+        بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
+- kind: shared
+  label: The patriarch's wife is barren
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 13:2
+      lang: he
+      text: וַיְהִי֩ אִ֨ישׁ אֶחָ֧ד מִצָּרְעָ֛ה מִמִּשְׁפַּ֥חַת הַדָּנִ֖י וּשְׁמ֣וֹ מָנ֑וֹחַ וְאִשְׁתּ֥וֹ
+        עֲקָרָ֖ה וְלֹ֥א יָלָֽדָה
+    - ref: Judg 13:3
+      lang: he
+      text: וַיֵּרָ֥א מַלְאַךְ יְהוָ֖ה אֶל הָאִשָּׁ֑ה וַיֹּ֣אמֶר אֵלֶ֗יהָ הִנֵּה נָ֤א אַתְּ עֲקָרָה֙ וְלֹ֣א
+        יָלַ֔דְתְּ וְהָרִ֖ית וְיָלַ֥דְתְּ בֵּֽן
+    - ref: Judg 13:5
+      lang: he
+      text: כִּי֩ הִנָּ֨ךְ הָרָ֜ה וְיֹלַ֣דְתְּ בֵּ֗ן וּמוֹרָה֙ לֹא יַעֲלֶ֣ה עַל רֹאשׁ֔וֹ כִּֽי נְזִ֧יר
+        אֱלֹהִ֛ים יִהְיֶ֥ה הַנַּ֖עַר מִן הַבָּ֑טֶן וְה֗וּא יָחֵ֛ל לְהוֹשִׁ֥יעַ אֶת יִשְׂרָאֵ֖ל מִיַּ֥ד
+        פְּלִשְׁתִּֽים
+    note: 'wəʾištô ʿăqārâ wəlōʾ yālādâ ... hinnāk hārâ wəyōladt bēn ... kî-nəzîr ʾĕlōhîm yihyeh hannaʿar
+      min-habbeṭen; wa-kānati mraʾatī ʿāqiran ... nubashshiruka bi-ghulām ... wa-ātaynāhu l-ḥukma ṣabiyyā
+      ... wa-kāna taqiyyā: a barren wife, an announced son, consecrated from childhood. In Judg the angel
+      comes to the wife; in Q the announcement goes to the husband.'
+  - tradition: islam
+    passages:
+    - ref: Quran 3:40
+      lang: ar
+      text: قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ
+        كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ
 ---
 
 ## Questions

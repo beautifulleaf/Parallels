@@ -2,7 +2,7 @@
 id: motif-hb-gen-3-fall-expulsion-vs-quran-11-opening-throne-on-water
 title: The serpent, the eating, the curses and the expulsion ↔ The Book made firm, the Throne on the water,
   the challenge of ten surahs
-summary: 'These two units share 1 motifs: sinner hides from god, who calls ''where are you?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - hiding-from-god
-passages:
-- tradition: judaism
-  ref: Gen 3:8
-  note: Sinner hides from God, who calls 'Where are you?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּשְׁמְע֞וּ אֶת ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א
-    הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן
-- tradition: judaism
-  ref: Gen 3:9
-  note: Sinner hides from God, who calls 'Where are you?'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָ֛א יְהוָ֥ה אֱלֹהִ֖ים אֶל הָֽאָדָ֑ם וַיֹּ֥אמֶר ל֖וֹ אַיֶּֽכָּה
-- tradition: islam
-  ref: Quran 11:5
-  note: Sinner hides from God, who calls 'Where are you?' (they fold their breasts and wrap their garments
-    to hide from him)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا۟ مِنْهُ أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ
-    يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Hiding from God, with garments: alā innahum yathnūna ṣudūrahum li-yastakhfū minhu alā ḥīna yastaghshūna
-    thiyābahum yaʿlamu mā yusirrūna vs wayyitpᵉrû ʿălēh tᵉʾēnāh ... wayyitḥabbēʾ hāʾādām wᵉʾištô mippᵉnê
-    YHWH ... wāʾēḥābēʾ. In Gen God has to call ʾayyekkāh; in Q God knows what they hide.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sinner hides from God, who calls ''Where are you?'' (weight 6.3).
     Pair score 6.3.'
@@ -78,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sinner hides from God, who calls 'Where are you?'
+kinds:
+- echo
+units:
+- id: hb-gen-3-fall-expulsion
+  title: The serpent, the eating, the curses and the expulsion
+  tradition: judaism
+- id: quran-11-opening-throne-on-water
+  title: The Book made firm, the Throne on the water, the challenge of ten surahs
+  tradition: islam
+matches:
+- kind: echo
+  label: Sinner hides from God, who calls 'Where are you?'
+  note: 'Hiding from God, with garments: alā innahum yathnūna ṣudūrahum li-yastakhfū minhu alā ḥīna yastaghshūna
+    thiyābahum yaʿlamu mā yusirrūna vs wayyitpᵉrû ʿălēh tᵉʾēnāh ... wayyitḥabbēʾ hāʾādām wᵉʾištô mippᵉnê
+    YHWH ... wāʾēḥābēʾ. In Gen God has to call ʾayyekkāh; in Q God knows what they hide.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 3:7
+      lang: he
+      text: וַתִּפָּקַ֨חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה
+        תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת
+    - ref: Gen 3:8
+      lang: he
+      text: וַֽיִּשְׁמְע֞וּ אֶת ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א
+        הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן
+    - ref: Gen 3:10
+      lang: he
+      text: וַיֹּ֕אמֶר אֶת קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָאִירָ֛א כִּֽי עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 11:5
+      lang: ar
+      text: أَلَآ إِنَّهُمْ يَثْنُونَ صُدُورَهُمْ لِيَسْتَخْفُوا۟ مِنْهُ أَلَا حِينَ يَسْتَغْشُونَ ثِيَابَهُمْ
+        يَعْلَمُ مَا يُسِرُّونَ وَمَا يُعْلِنُونَ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ
 ---
 
 ## Questions

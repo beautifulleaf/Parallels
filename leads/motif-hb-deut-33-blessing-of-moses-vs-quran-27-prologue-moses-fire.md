@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-33-blessing-of-moses-vs-quran-27-prologue-moses-fire
 title: The Blessing of Moses on the tribes ↔ Ta Sin; Moses at the fire, the jann-staff and the nine signs
-summary: 'These two units share 1 motifs: god described as the one who dwells in the bush (seneh).'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -14,21 +14,7 @@ layers:
 - motif
 motifs:
 - dweller-in-the-bush
-passages:
-- tradition: judaism
-  ref: Deut 33:16
-  note: God described as the one who dwells in the bush (seneh)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּמִמֶּ֗גֶד אֶ֚רֶץ וּמְלֹאָ֔הּ וּרְצ֥וֹן שֹׁכְנִ֖י סְנֶ֑ה תָּב֨וֹאתָה֙ לְרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד
-    נְזִ֥יר אֶחָֽיו
-- tradition: islam
-  ref: Quran 27:8
-  note: God described as the one who dwells in the bush (seneh) (man fī l-nār ~ shokhni seneh (Deut 33:16))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ
-    رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: God described as the one who dwells in the bush (seneh) (weight
     6.7). Pair score 6.7.'
@@ -61,6 +47,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God described as the one who dwells in the bush (seneh)
+kinds:
+- shared
+units:
+- id: hb-deut-33-blessing-of-moses
+  title: The Blessing of Moses on the tribes
+  tradition: judaism
+- id: quran-27-prologue-moses-fire
+  title: Ta Sin; Moses at the fire, the jann-staff and the nine signs
+  tradition: islam
+matches:
+- kind: shared
+  label: God described as the one who dwells in the bush (seneh)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 33:16
+      lang: he
+      text: וּמִמֶּ֗גֶד אֶ֚רֶץ וּמְלֹאָ֔הּ וּרְצ֥וֹן שֹׁכְנִ֖י סְנֶ֑ה תָּב֨וֹאתָה֙ לְרֹ֣אשׁ יוֹסֵ֔ף וּלְקָדְקֹ֖ד
+        נְזִ֥יר אֶחָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 27:8
+      lang: ar
+      text: فَلَمَّا جَآءَهَا نُودِىَ أَنۢ بُورِكَ مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا وَسُبْحَٰنَ ٱللَّهِ
+        رَبِّ ٱلْعَٰلَمِينَ
+    note: man fī l-nār ~ shokhni seneh (Deut 33:16)
 ---
 
 ## Questions

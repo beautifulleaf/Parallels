@@ -2,8 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-quran-18-companions-of-the-cave
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ The Companions of the Cave and al-Raqim
   (Surah 18:9-31)
-summary: 'These two units share 1 motifs: the heart of man plans his way but yhwh directs his steps; only
-  yhwh''s counsel stands.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,40 +15,9 @@ layers:
 - motif
 motifs:
 - man-plans-god-disposes
-passages:
-- tradition: judaism
-  ref: Prov 16:1
-  note: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְאָדָ֥ם מַֽעַרְכֵי לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן
-- tradition: judaism
-  ref: Prov 16:9
-  note: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ
-- tradition: islam
-  ref: Quran 18:23
-  note: 'The heart of man plans his way but YHWH directs his steps; only YHWH''s counsel stands (lēb ʾādām
-    yəḥaššēb darkô waYHWH yākîn ṣaʿădô; innī fāʿilun dhālika ghadan illā an yashāʾa llāh: human intention
-    is subject to God''s will.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا
-- tradition: islam
-  ref: Quran 18:24
-  note: 'The heart of man plans his way but YHWH directs his steps; only YHWH''s counsel stands (lēb ʾādām
-    yəḥaššēb darkô waYHWH yākîn ṣaʿădô; innī fāʿilun dhālika ghadan illā an yashāʾa llāh: human intention
-    is subject to God''s will.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ رَبِّى
-    لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. lēb ʾādām yəḥaššēb darkô waYHWH yākîn ṣaʿădô; innī fāʿilun dhālika ghadan illā an yashāʾa
-    llāh: human intention is subject to God''s will.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The heart of man plans his way but YHWH directs his steps; only
     YHWH''s counsel stands (weight 5.8). Pair score 5.8.'
@@ -85,6 +53,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
+kinds:
+- parallel
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: quran-18-companions-of-the-cave
+  title: The Companions of the Cave and al-Raqim (Surah 18:9-31)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
+  note: 'lēb ʾādām yəḥaššēb darkô waYHWH yākîn ṣaʿădô; innī fāʿilun dhālika ghadan illā an yashāʾa llāh:
+    human intention is subject to God''s will.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:1
+      lang: he
+      text: לְאָדָ֥ם מַֽעַרְכֵי לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן
+    - ref: Prov 16:9
+      lang: he
+      text: לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 18:23
+      lang: ar
+      text: وَلَا تَقُولَنَّ لِشَا۟ىْءٍ إِنِّى فَاعِلٌ ذَٰلِكَ غَدًا
+    - ref: Quran 18:24
+      lang: ar
+      text: إِلَّآ أَن يَشَآءَ ٱللَّهُ وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلْ عَسَىٰٓ أَن يَهْدِيَنِ
+        رَبِّى لِأَقْرَبَ مِنْ هَٰذَا رَشَدًا
 ---
 
 ## Questions

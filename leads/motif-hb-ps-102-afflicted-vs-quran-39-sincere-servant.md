@@ -2,8 +2,7 @@
 id: motif-hb-ps-102-afflicted-vs-quran-39-sincere-servant
 title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment ↔ The first of those who
   submit; canopies of fire; chambers above chambers
-summary: 'These two units share 1 motifs: humans are like grass that flourishes in the morning and withers
-  by evening.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - humans-like-grass-withering
-passages:
-- tradition: judaism
-  ref: Ps 102:5
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוּכָּֽה כָ֭עֵשֶׂב וַיִּבַ֣שׁ לִבִּ֑י כִּֽי שָׁ֝כַ֗חְתִּי מֵאֲכֹ֥ל לַחְמִֽי
-- tradition: judaism
-  ref: Ps 102:12
-  note: Humans are like grass that flourishes in the morning and withers by evening
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָ֭מַי כְּצֵ֣ל נָט֑וּי וַ֝אֲנִ֗י כָּעֵ֥שֶׂב אִיבָֽשׁ
-- tradition: islam
-  ref: Quran 39:21
-  note: Humans are like grass that flourishes in the morning and withers by evening (rain makes crops
-    grow, then they turn yellow and become chaff, a reminder)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ
-    ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ يَجْعَلُهُۥ
-    حُطَٰمًا إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. yāmay kə-ṣēl nāṭûy wa-ʾănî kā-ʿēśeḇ ʾîḇāš vs. fa-tarāhu muṣfarran: withering grass as a figure
-    for a life fading.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Humans are like grass that flourishes in the morning and withers
     by evening (weight 5.6). Pair score 5.6.'
@@ -74,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Humans are like grass that flourishes in the morning and withers by evening
+kinds:
+- echo
+units:
+- id: hb-ps-102-afflicted
+  title: Psalm 102, prayer of the afflicted; the heavens wear out like a garment
+  tradition: judaism
+- id: quran-39-sincere-servant
+  title: The first of those who submit; canopies of fire; chambers above chambers
+  tradition: islam
+matches:
+- kind: echo
+  label: Humans are like grass that flourishes in the morning and withers by evening
+  note: 'yāmay kə-ṣēl nāṭûy wa-ʾănî kā-ʿēśeḇ ʾîḇāš vs. fa-tarāhu muṣfarran: withering grass as a figure
+    for a life fading.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 102:12
+      lang: he
+      text: יָ֭מַי כְּצֵ֣ל נָט֑וּי וַ֝אֲנִ֗י כָּעֵ֥שֶׂב אִיבָֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:21
+      lang: ar
+      text: أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَلَكَهُۥ يَنَٰبِيعَ فِى ٱلْأَرْضِ
+        ثُمَّ يُخْرِجُ بِهِۦ زَرْعًا مُّخْتَلِفًا أَلْوَٰنُهُۥ ثُمَّ يَهِيجُ فَتَرَىٰهُ مُصْفَرًّا ثُمَّ
+        يَجْعَلُهُۥ حُطَٰمًا إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَٰبِ
 ---
 
 ## Questions

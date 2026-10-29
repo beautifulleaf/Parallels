@@ -2,8 +2,7 @@
 id: motif-hb-eccl-12-epilogue-vs-quran-99-earthquake
 title: 'Epilogue on Qohelet, many books, and the whole duty of man ↔ The earthquake: the earth tells its
   news'
-summary: 'These two units share 1 motifs: whoever does an atom''s weight (mithqal dharra) of good will
-  see it, and an atom''s weight of evil will see it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - atoms-weight-of-deeds-seen
-passages:
-- tradition: judaism
-  ref: Eccl 12:14
-  note: 'Whoever does an atom''s weight (mithqal dharra) of good will see it, and an atom''s weight of
-    evil will see it (fa-man yaʿmal mithqāla dharratin khayran yarahu wa-man yaʿmal mithqāla dharratin
-    sharran yarah ~ kî ʾet kol maʿăśeh hā-ʾĕlōhîm yāvīʾ ve-mišpāṭ ʿal kol neʿlām ʾim ṭôv we-ʾim rāʿ: every
-    deed, even the hidden/smallest, good or evil, brought to judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֤י אֶת כָּל מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כָּל נֶעְלָ֑ם אִם ט֖וֹב וְאִם רָֽע
-- tradition: islam
-  ref: Quran 99:6
-  note: Whoever does an atom's weight (mithqal dharra) of good will see it, and an atom's weight of evil
-    will see it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ
-- tradition: islam
-  ref: Quran 99:7
-  note: Whoever does an atom's weight (mithqal dharra) of good will see it, and an atom's weight of evil
-    will see it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-man yaʿmal mithqāla dharratin khayran yarahu wa-man yaʿmal mithqāla dharratin sharran
-    yarah ~ kî ʾet kol maʿăśeh hā-ʾĕlōhîm yāvīʾ ve-mišpāṭ ʿal kol neʿlām ʾim ṭôv we-ʾim rāʿ: every deed,
-    even the hidden/smallest, good or evil, brought to judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does an atom''s weight (mithqal dharra) of good will see
     it, and an atom''s weight of evil will see it (weight 6.7). Pair score 6.7.'
@@ -71,6 +44,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever does an atom's weight (mithqal dharra) of good will see it, and an atom's weight of evil
+  will see it
+kinds:
+- parallel
+units:
+- id: hb-eccl-12-epilogue
+  title: Epilogue on Qohelet, many books, and the whole duty of man
+  tradition: judaism
+- id: quran-99-earthquake
+  title: 'The earthquake: the earth tells its news'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Whoever does an atom's weight (mithqal dharra) of good will see it, and an atom's weight of evil
+    will see it
+  note: 'fa-man yaʿmal mithqāla dharratin khayran yarahu wa-man yaʿmal mithqāla dharratin sharran yarah
+    ~ kî ʾet kol maʿăśeh hā-ʾĕlōhîm yāvīʾ ve-mišpāṭ ʿal kol neʿlām ʾim ṭôv we-ʾim rāʿ: every deed, even
+    the hidden/smallest, good or evil, brought to judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 12:14
+      lang: he
+      text: כִּ֤י אֶת כָּל מַֽעֲשֶׂ֔ה הָאֱלֹהִ֛ים יָבִ֥א בְמִשְׁפָּ֖ט עַ֣ל כָּל נֶעְלָ֑ם אִם ט֖וֹב וְאִם
+        רָֽע
+  - tradition: islam
+    passages:
+    - ref: Quran 99:6
+      lang: ar
+      text: يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ
+    - ref: Quran 99:7
+      lang: ar
+      text: فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ
+    - ref: Quran 99:8
+      lang: ar
+      text: وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ
 ---
 
 ## Questions

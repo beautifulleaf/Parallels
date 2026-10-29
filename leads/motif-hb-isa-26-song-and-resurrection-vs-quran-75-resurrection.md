@@ -1,8 +1,7 @@
 ---
 id: motif-hb-isa-26-song-and-resurrection-vs-quran-75-resurrection
 title: 'Song of the strong city; your dead shall live ↔ The resurrection: bones, fingertips and the collarbone'
-summary: 'These two units share 1 motifs: your dead shall live, their corpses rise; dwellers in the dust
-  shall awake and sing.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - resurrection-of-the-dead
-passages:
-- tradition: judaism
-  ref: Isa 26:19
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙
-    טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
-- tradition: islam
-  ref: Quran 75:3
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (God will
-    gather his bones and even restore his fingertips (banan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ
-- tradition: islam
-  ref: Quran 75:4
-  note: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing (God will
-    gather his bones and even restore his fingertips (banan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. a-laysa dhālika bi-qādirin ʿalā an yuḥyiya l-mawtā ~ yiḥyû mētêkā nevēlātî yeqûmûn.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Your dead shall live, their corpses rise; dwellers in the dust shall
     awake and sing (weight 4.9). Pair score 4.9.'
@@ -76,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+kinds:
+- echo
+units:
+- id: hb-isa-26-song-and-resurrection
+  title: Song of the strong city; your dead shall live
+  tradition: judaism
+- id: quran-75-resurrection
+  title: 'The resurrection: bones, fingertips and the collarbone'
+  tradition: islam
+matches:
+- kind: echo
+  label: Your dead shall live, their corpses rise; dwellers in the dust shall awake and sing
+  note: a-laysa dhālika bi-qādirin ʿalā an yuḥyiya l-mawtā ~ yiḥyû mētêkā nevēlātî yeqûmûn.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 26:19
+      lang: he
+      text: יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל
+        אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל
+  - tradition: islam
+    passages:
+    - ref: Quran 75:3
+      lang: ar
+      text: أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ
+    - ref: Quran 75:40
+      lang: ar
+      text: أَلَيْسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحْۦِىَ ٱلْمَوْتَىٰ
 ---
 
 ## Questions

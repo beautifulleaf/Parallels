@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-74-cloaked
 title: 'Levitical dues; forbidden divination; the prophet like Moses ↔ The cloaked one: the call, the
   opponent, and the nineteen'
-summary: 'These two units share 1 motifs: an opponent dismisses the revelation as inherited sorcery (sihr
-  yu''thar) or ''only the word of a mortal''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - scripture-dismissed-as-sorcery-or-human-word
-passages:
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'An opponent dismisses the revelation as inherited sorcery (sihr yu''thar) or ''only the word
-    of a mortal'' (in hādhā illā siḥrun yuʾthar, in hādhā illā qawlu l-bashar (only the word of a mortal)
-    ~ we-nātattî devāray be-fîw ... ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw: the question
-    whether a prophet''s word is God''s or his own; Deuteronomy gives the test, the Quran the opponent''s
-    verdict.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: judaism
-  ref: Deut 18:20
-  note: 'An opponent dismisses the revelation as inherited sorcery (sihr yu''thar) or ''only the word
-    of a mortal'' (in hādhā illā siḥrun yuʾthar, in hādhā illā qawlu l-bashar (only the word of a mortal)
-    ~ we-nātattî devāray be-fîw ... ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw: the question
-    whether a prophet''s word is God''s or his own; Deuteronomy gives the test, the Quran the opponent''s
-    verdict.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙ לְדַבֵּ֔ר
-    וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
-- tradition: islam
-  ref: Quran 74:18
-  note: An opponent dismisses the revelation as inherited sorcery (sihr yu'thar) or 'only the word of
-    a mortal'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّهُۥ فَكَّرَ وَقَدَّرَ
-- tradition: islam
-  ref: Quran 74:22
-  note: An opponent dismisses the revelation as inherited sorcery (sihr yu'thar) or 'only the word of
-    a mortal'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ عَبَسَ وَبَسَرَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. in hādhā illā siḥrun yuʾthar, in hādhā illā qawlu l-bashar (only the word of a mortal) ~ we-nātattî
-    devāray be-fîw ... ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw: the question whether
-    a prophet''s word is God''s or his own; Deuteronomy gives the test, the Quran the opponent''s verdict.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: An opponent dismisses the revelation as inherited sorcery (sihr
     yu''thar) or ''only the word of a mortal'' (weight 6.3). Pair score 6.3.'
@@ -93,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An opponent dismisses the revelation as inherited sorcery (sihr yu'thar) or 'only the word of
+  a mortal'
+kinds:
+- echo
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: echo
+  label: An opponent dismisses the revelation as inherited sorcery (sihr yu'thar) or 'only the word of
+    a mortal'
+  note: 'in hādhā illā siḥrun yuʾthar, in hādhā illā qawlu l-bashar (only the word of a mortal) ~ we-nātattî
+    devāray be-fîw ... ʾăšer yāzîd ledabbēr dāvār bi-šmî ʾēt ʾăšer lōʾ ṣiwwîtîw: the question whether
+    a prophet''s word is God''s or his own; Deuteronomy gives the test, the Quran the opponent''s verdict.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+    - ref: Deut 18:20
+      lang: he
+      text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙
+        לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
+  - tradition: islam
+    passages:
+    - ref: Quran 74:24
+      lang: ar
+      text: فَقَالَ إِنْ هَٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ
+    - ref: Quran 74:25
+      lang: ar
+      text: إِنْ هَٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ
 ---
 
 ## Questions

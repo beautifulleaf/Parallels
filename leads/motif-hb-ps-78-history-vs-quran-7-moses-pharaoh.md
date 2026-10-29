@@ -2,9 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-7-moses-pharaoh
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Moses before Pharaoh, the magicians
   and the plagues
-summary: 'These two units share 5 motifs: frogs swarm out of the river into houses, beds, ovens and kneading-troughs,
-  a poetic list of the egyptian plagues differs in number and order from exodus, nile water is turned
-  to blood, locusts brought by an east wind devour all vegetation left after the hail….'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,109 +13,20 @@ traditions:
 layers:
 - motif
 motifs:
-- plague-of-frogs
 - variant-plague-list
+- plague-of-frogs
 - nile-water-turned-to-blood
 - plague-of-locusts
 - pursuers-drowned-in-sea
-passages:
-- tradition: judaism
-  ref: Ps 78:45
-  note: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
-- tradition: islam
-  ref: Quran 7:133
-  note: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Ps 78:44-51
-  note: A poetic list of the Egyptian plagues differs in number and order from Exodus (blood, swarms,
-    frogs, caterpillar/locust, hail and frost, cattle to hail and fiery bolts, pestilence, firstborn;
-    no lice, boils or darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (78:44) וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן (78:45) יְשַׁלַּ֬ח בָּהֶ֣ם
-    עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם (78:46) וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם
-    לָאַרְבֶּֽה (78:47) יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּֽחֲנָמַֽל (78:48) וַיַּסְגֵּ֣ר
-    לַבָּרָ֣ד בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים (78:49) יְשַׁלַּח בָּ֨ם חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה
-    וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים (78:50) יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא חָשַׂ֣ךְ
-    מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר (78:51) וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּמִצְרָ֑יִם
-    רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאָהֳלֵי חָֽם
-- tradition: judaism
-  ref: Ps 78:44
-  note: A poetic list of the Egyptian plagues differs in number and order from Exodus (blood, swarms,
-    frogs, caterpillar/locust, hail and frost, cattle to hail and fiery bolts, pestilence, firstborn;
-    no lice, boils or darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
-- tradition: islam
-  ref: Quran 7:133
-  note: 'A poetic list of the Egyptian plagues differs in number and order from Exodus (Two short plague
-    lists that differ from Exodus. Ps: wa-yyahăfōkh lə-dām yəʾōrêhem ... ʿārōv ... û-ṣəfardēaʿ ... la-ḥāsîl
-    yəvûlām wî-gîʿām lā-ʾarbeh; yahărōg bab-bārād gafnām. Q: al-ṭūfāna wa-l-jarāda wa-l-qummala wa-l-ḍafādiʿa
-    wa-l-dama. Both have blood, frogs and locusts. Ps adds swarms (ʿārōv) and hail; Q adds ṭūfān and lice.
-    Neither follows Exodus''s order.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Ps 78:44
-  note: Nile water is turned to blood
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
-- tradition: islam
-  ref: Quran 7:133
-  note: Nile water is turned to blood (only 'blood')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Ps 78:46
-  note: Locusts brought by an east wind devour all vegetation left after the hail (hasil and arbeh)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם לָאַרְבֶּֽה
-- tradition: islam
-  ref: Quran 7:133
-  note: Locusts brought by an east wind devour all vegetation left after the hail
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Ps 78:53
-  note: The returning waters drown the pursuing army; not one survives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
-- tradition: islam
-  ref: Quran 7:136
-  note: The returning waters drown the pursuing army; not one survives (al-yamm)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا وَكَانُوا۟
-    عَنْهَا غَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Two short plague lists that differ from Exodus. Ps: wa-yyahăfōkh lə-dām yəʾōrêhem ... ʿārōv
-    ... û-ṣəfardēaʿ ... la-ḥāsîl yəvûlām wî-gîʿām lā-ʾarbeh; yahărōg bab-bārād gafnām. Q: al-ṭūfāna wa-l-jarāda
-    wa-l-qummala wa-l-ḍafādiʿa wa-l-dama. Both have blood, frogs and locusts. Ps adds swarms (ʿārōv) and
-    hail; Q adds ṭūfān and lice. Neither follows Exodus''s order.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
-    (weight 6.0); A poetic list of the Egyptian plagues differs in number and order from Exodus (weight
-    6.0); Nile water is turned to blood (weight 5.8); Locusts brought by an east wind devour all vegetation
-    left after the hail (weight 5.6); The returning waters drown the pursuing army; not one survives (weight
-    4.5). Pair score 27.9.'
+- text: 'Shared motifs, rarest first: A poetic list of the Egyptian plagues differs in number and order
+    from Exodus (weight 6.0); Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
+    (weight 6.0); Nile water is turned to blood (weight 5.8); Locusts brought by an east wind devour all
+    vegetation left after the hail (weight 5.6); The returning waters drown the pursuing army; not one
+    survives (weight 4.5). Pair score 27.9.'
   basis: reading
 - text: 'Only in Psalm 78, Asaph''s historical recital from Egypt to David: God sends a band (mishlahat)
     of ''evil angels'' (mal''akhei ra''im) to execute his wrath; Manna called ''bread of the mighty ones''
@@ -150,6 +59,101 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A poetic list of the Egyptian plagues differs in number and order from Exodus
+kinds:
+- echo
+- shared
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: echo
+  label: A poetic list of the Egyptian plagues differs in number and order from Exodus
+  note: 'Two short plague lists that differ from Exodus. Ps: wa-yyahăfōkh lə-dām yəʾōrêhem ... ʿārōv ...
+    û-ṣəfardēaʿ ... la-ḥāsîl yəvûlām wî-gîʿām lā-ʾarbeh; yahărōg bab-bārād gafnām. Q: al-ṭūfāna wa-l-jarāda
+    wa-l-qummala wa-l-ḍafādiʿa wa-l-dama. Both have blood, frogs and locusts. Ps adds swarms (ʿārōv) and
+    hail; Q adds ṭūfān and lice. Neither follows Exodus''s order.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:44
+      lang: he
+      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
+    - ref: Ps 78:45
+      lang: he
+      text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
+    - ref: Ps 78:46
+      lang: he
+      text: וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם לָאַרְבֶּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+- kind: shared
+  label: Frogs swarm out of the river into houses, beds, ovens and kneading-troughs
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:45
+      lang: he
+      text: יְשַׁלַּ֬ח בָּהֶ֣ם עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+- kind: shared
+  label: Nile water is turned to blood
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:44
+      lang: he
+      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    note: only 'blood'
+- kind: shared
+  label: Locusts brought by an east wind devour all vegetation left after the hail
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:46
+      lang: he
+      text: וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם לָאַרְבֶּֽה
+    note: hasil and arbeh
+  - tradition: islam
+    passages:
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+- kind: shared
+  label: The returning waters drown the pursuing army; not one survives
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:53
+      lang: he
+      text: וַיַּנְחֵ֣ם לָ֭בֶטַח וְלֹ֣א פָחָ֑דוּ וְאֶת א֝וֹיְבֵיהֶ֗ם כִּסָּ֥ה הַיָּֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:136
+      lang: ar
+      text: فَٱنتَقَمْنَا مِنْهُمْ فَأَغْرَقْنَٰهُمْ فِى ٱلْيَمِّ بِأَنَّهُمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا
+        وَكَانُوا۟ عَنْهَا غَٰفِلِينَ
+    note: al-yamm
 ---
 
 ## Questions

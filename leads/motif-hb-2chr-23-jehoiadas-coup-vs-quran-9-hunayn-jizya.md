@@ -2,8 +2,7 @@
 id: motif-hb-2chr-23-jehoiadas-coup-vs-quran-9-hunayn-jizya
 title: Jehoiada's coup with the Levites; Joash crowned, Athaliah killed, Baal temple destroyed ↔ Hunayn,
   the impurity of polytheists, the jizya
-summary: 'These two units share 2 motifs: gatekeepers stationed so that no one unclean enters the temple,
-  those counted impure are kept out of the sanctuary [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,46 +15,9 @@ layers:
 motifs:
 - gatekeepers-bar-the-unclean
 - impure-barred-from-sanctuary-as-divergence
-passages:
-- tradition: judaism
-  ref: 2Chr 23:19
-  note: Gatekeepers stationed so that no one unclean enters the temple
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּעֲמֵד֙ הַשּׁ֣וֹעֲרִ֔ים עַֽל שַׁעֲרֵ֖י בֵּ֣ית יְהוָ֑ה וְלֹֽא יָבֹ֥א טָמֵ֖א לְכָל דָּבָֽר
-- tradition: islam
-  ref: Quran 9:28
-  note: Gatekeepers stationed so that no one unclean enters the temple
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
-    ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
-    إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
-- tradition: judaism
-  ref: 2Chr 23:19
-  note: 'Those counted impure are kept out of the sanctuary [divergence between the texts] (The impure
-    kept from the sanctuary: innamā l-mushrikūna najasun fa-lā yaqrabū l-masjida l-ḥarāma vs wayyaʿămēd
-    haššôʿărîm ʿal-šaʿărê bêt YHWH wᵉlōʾ-yābōʾ ṭāmēʾ lᵉkol-dābār. The impurity is redefined: ritual uncleanness
-    (ṭāmēʾ) in Chr, polytheist belief (najas) in Q.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּעֲמֵד֙ הַשּׁ֣וֹעֲרִ֔ים עַֽל שַׁעֲרֵ֖י בֵּ֣ית יְהוָ֑ה וְלֹֽא יָבֹ֥א טָמֵ֖א לְכָל דָּבָֽר
-- tradition: islam
-  ref: Quran 9:28
-  note: 'Those counted impure are kept out of the sanctuary [divergence between the texts] (The impure
-    kept from the sanctuary: innamā l-mushrikūna najasun fa-lā yaqrabū l-masjida l-ḥarāma vs wayyaʿămēd
-    haššôʿărîm ʿal-šaʿărê bêt YHWH wᵉlōʾ-yābōʾ ṭāmēʾ lᵉkol-dābār. The impurity is redefined: ritual uncleanness
-    (ṭāmēʾ) in Chr, polytheist belief (najas) in Q.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
-    ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
-    إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. The impure kept from the sanctuary: innamā l-mushrikūna najasun fa-lā yaqrabū l-masjida
-    l-ḥarāma vs wayyaʿămēd haššôʿărîm ʿal-šaʿărê bêt YHWH wᵉlōʾ-yābōʾ ṭāmēʾ lᵉkol-dābār. The impurity
-    is redefined: ritual uncleanness (ṭāmēʾ) in Chr, polytheist belief (najas) in Q.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Gatekeepers stationed so that no one unclean enters the temple (weight
     6.7); Those counted impure are kept out of the sanctuary [divergence between the texts] (weight 6.7).
@@ -89,6 +51,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those counted impure are kept out of the sanctuary
+kinds:
+- divergence
+- shared
+units:
+- id: hb-2chr-23-jehoiadas-coup
+  title: Jehoiada's coup with the Levites; Joash crowned, Athaliah killed, Baal temple destroyed
+  tradition: judaism
+- id: quran-9-hunayn-jizya
+  title: Hunayn, the impurity of polytheists, the jizya
+  tradition: islam
+matches:
+- kind: divergence
+  label: Those counted impure are kept out of the sanctuary
+  note: 'The impure kept from the sanctuary: innamā l-mushrikūna najasun fa-lā yaqrabū l-masjida l-ḥarāma
+    vs wayyaʿămēd haššôʿărîm ʿal-šaʿărê bêt YHWH wᵉlōʾ-yābōʾ ṭāmēʾ lᵉkol-dābār. The impurity is redefined:
+    ritual uncleanness (ṭāmēʾ) in Chr, polytheist belief (najas) in Q.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 23:19
+      lang: he
+      text: וַֽיַּעֲמֵד֙ הַשּׁ֣וֹעֲרִ֔ים עַֽל שַׁעֲרֵ֖י בֵּ֣ית יְהוָ֑ה וְלֹֽא יָבֹ֥א טָמֵ֖א לְכָל דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 9:28
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
+        ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
+        إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
+- kind: shared
+  label: Gatekeepers stationed so that no one unclean enters the temple
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 23:19
+      lang: he
+      text: וַֽיַּעֲמֵד֙ הַשּׁ֣וֹעֲרִ֔ים עַֽל שַׁעֲרֵ֖י בֵּ֣ית יְהוָ֑ה וְלֹֽא יָבֹ֥א טָמֵ֖א לְכָל דָּבָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 9:28
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ
+        ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَٰذَا وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ
+        إِن شَآءَ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

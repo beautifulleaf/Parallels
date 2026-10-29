@@ -2,8 +2,7 @@
 id: motif-hb-isa-48-refined-in-affliction-vs-quran-57-hadid-first-and-last-and-the-loan
 title: 'Obstinate Israel, former and new things, flee from Babylon ↔ Al-Hadid: First and Last, Outward
   and Inward; stewards of wealth; the goodly loan'
-summary: 'These two units share 1 motifs: god declares ''i am the first and i am the last'' (or ''with
-  the last'').'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,24 +15,9 @@ layers:
 - motif
 motifs:
 - first-and-last
-passages:
-- tradition: judaism
-  ref: Isa 48:12
-  note: God declares 'I am the first and I am the last' (or 'with the last')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שְׁמַ֤ע אֵלַי֙ יַֽעֲקֹ֔ב וְיִשְׂרָאֵ֖ל מְקֹרָאִ֑י אֲנִי הוּא֙ אֲנִ֣י רִאשׁ֔וֹן אַ֖ף אֲנִ֥י אַחֲרֽוֹן
-- tradition: islam
-  ref: Quran 57:3
-  note: God declares 'I am the first and I am the last' (or 'with the last') (Isa 44:6 / 48:12)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلْأَوَّلُ وَٱلْءَاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. ʾănî hûʾ ʾănî rīšôn ʾap̄ ʾănî ʾaḥărôn vs. huwa l-awwalu wa-l-ākhiru wa-ẓ-ẓāhiru wa-l-bāṭinu.
-    Isaiah''s first-person self-declaration becomes a third-person creed, and the Quran adds a second
-    pair, Outward and Inward.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God declares ''I am the first and I am the last'' (or ''with the
     last'') (weight 6.0). Pair score 6.0.'
@@ -69,6 +53,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God declares 'I am the first and I am the last' (or 'with the last')
+kinds:
+- parallel
+units:
+- id: hb-isa-48-refined-in-affliction
+  title: Obstinate Israel, former and new things, flee from Babylon
+  tradition: judaism
+- id: quran-57-hadid-first-and-last-and-the-loan
+  title: 'Al-Hadid: First and Last, Outward and Inward; stewards of wealth; the goodly loan'
+  tradition: islam
+matches:
+- kind: parallel
+  label: God declares 'I am the first and I am the last' (or 'with the last')
+  note: ʾănî hûʾ ʾănî rīšôn ʾap̄ ʾănî ʾaḥărôn vs. huwa l-awwalu wa-l-ākhiru wa-ẓ-ẓāhiru wa-l-bāṭinu. Isaiah's
+    first-person self-declaration becomes a third-person creed, and the Quran adds a second pair, Outward
+    and Inward.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 48:12
+      lang: he
+      text: שְׁמַ֤ע אֵלַי֙ יַֽעֲקֹ֔ב וְיִשְׂרָאֵ֖ל מְקֹרָאִ֑י אֲנִי הוּא֙ אֲנִ֣י רִאשׁ֔וֹן אַ֖ף אֲנִ֥י
+        אַחֲרֽוֹן
+  - tradition: islam
+    passages:
+    - ref: Quran 57:3
+      lang: ar
+      text: هُوَ ٱلْأَوَّلُ وَٱلْءَاخِرُ وَٱلظَّٰهِرُ وَٱلْبَاطِنُ وَهُوَ بِكُلِّ شَىْءٍ عَلِيمٌ
 ---
 
 ## Questions

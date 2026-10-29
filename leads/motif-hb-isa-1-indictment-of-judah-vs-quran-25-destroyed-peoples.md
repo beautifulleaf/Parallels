@@ -2,8 +2,7 @@
 id: motif-hb-isa-1-indictment-of-judah-vs-quran-25-destroyed-peoples
 title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city ↔ Moses and Aaron,
   Noah, Ad, Thamud, the People of the Rass and the rained-upon town
-summary: 'These two units share 1 motifs: ox knows its owner and the ass its master''s crib, but israel
-  does not know (animals wiser than god''s people).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - ox-knows-its-owner
-passages:
-- tradition: judaism
-  ref: Isa 1:3
-  note: Ox knows its owner and the ass its master's crib, but Israel does not know (animals wiser than
-    God's people)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
-- tradition: islam
-  ref: Quran 25:44
-  note: 'Ox knows its owner and the ass its master''s crib, but Israel does not know (animals wiser than
-    God''s people) (in hum illā ka-l-anʿāmi bal hum aḍallu sabīlan ~ yādaʿ šôr qōnēhû wa-ḥămôr ʾēvûs bəʿālāyw
-    Yiśrāʾēl lōʾ yādaʿ: people who do not know or understand are like cattle, or worse. In Isaiah the
-    animals are better than Israel, which does not know its master; in the Quran the unbelievers who ''do
-    not hear or reason'' are like cattle or further astray.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلَّا كَٱلْأَنْعَٰمِ
-    بَلْ هُمْ أَضَلُّ سَبِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. in hum illā ka-l-anʿāmi bal hum aḍallu sabīlan ~ yādaʿ šôr qōnēhû wa-ḥămôr ʾēvûs bəʿālāyw
-    Yiśrāʾēl lōʾ yādaʿ: people who do not know or understand are like cattle, or worse. In Isaiah the
-    animals are better than Israel, which does not know its master; in the Quran the unbelievers who ''do
-    not hear or reason'' are like cattle or further astray.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ox knows its owner and the ass its master''s crib, but Israel does
     not know (animals wiser than God''s people) (weight 6.7). Pair score 6.7.'
@@ -77,6 +54,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ox knows its owner and the ass its master's crib, but Israel does not know (animals wiser than
+  God's people)
+kinds:
+- parallel
+units:
+- id: hb-isa-1-indictment-of-judah
+  title: Hear, O heavens; the great indictment, sacrifice rejected, the faithful city
+  tradition: judaism
+- id: quran-25-destroyed-peoples
+  title: Moses and Aaron, Noah, Ad, Thamud, the People of the Rass and the rained-upon town
+  tradition: islam
+matches:
+- kind: parallel
+  label: Ox knows its owner and the ass its master's crib, but Israel does not know (animals wiser than
+    God's people)
+  note: 'in hum illā ka-l-anʿāmi bal hum aḍallu sabīlan ~ yādaʿ šôr qōnēhû wa-ḥămôr ʾēvûs bəʿālāyw Yiśrāʾēl
+    lōʾ yādaʿ: people who do not know or understand are like cattle, or worse. In Isaiah the animals are
+    better than Israel, which does not know its master; in the Quran the unbelievers who ''do not hear
+    or reason'' are like cattle or further astray.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 1:3
+      lang: he
+      text: יָדַ֥ע שׁוֹר֙ קֹנֵ֔הוּ וַחֲמ֖וֹר אֵב֣וּס בְּעָלָ֑יו יִשְׂרָאֵל֙ לֹ֣א יָדַ֔ע עַמִּ֖י לֹ֥א הִתְבּוֹנָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 25:44
+      lang: ar
+      text: أَمْ تَحْسَبُ أَنَّ أَكْثَرَهُمْ يَسْمَعُونَ أَوْ يَعْقِلُونَ إِنْ هُمْ إِلَّا كَٱلْأَنْعَٰمِ
+        بَلْ هُمْ أَضَلُّ سَبِيلًا
 ---
 
 ## Questions

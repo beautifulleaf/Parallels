@@ -3,9 +3,7 @@ id: motif-hb-gen-19-sodom-destroyed-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Lot''s guests and the destruction of Sodom and Gomorrah ↔ Al-Tahrim: the prohibited thing and
   the divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter
   of ''Imran'
-summary: 'These two units share 3 motifs: wife who looks back is turned into a pillar of salt [divergence
-  between the texts], wife who looks back is turned into a pillar of salt, hero''s family saved with him
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -19,80 +17,9 @@ motifs:
 - wife-turned-to-pillar-of-salt-as-divergence
 - wife-turned-to-pillar-of-salt
 - family-saved-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 19:26
-  note: 'Wife who looks back is turned into a pillar of salt [divergence between the texts] (Gen: wat-tabbēṭ
-    ʾištô mēʾaḥărāyw wat-təhî nəṣîv melaḥ, she looks back and becomes salt. Q: fa-anjaynāhu wa-ahlahu
-    illā mraʾatahu kānat mina l-ghābirīna, she ''stayed behind'' with the doomed. Q has no looking back
-    and no salt.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 66:10
-  note: 'Wife who looks back is turned into a pillar of salt [divergence between the texts] (Lot''s wife''s
-    fate and fault changed: Gen 19:26 wattabbēṭ ʾištô mē-ʾaḥărāyw wattehî neṣîv melaḥ (she looks back
-    and becomes a pillar of salt). Q 66:10 imraʾata lūṭin ... fa-khānatāhumā ... wa-qīla dkhulā n-nāra
-    maʿa d-dākhilīn: her sin is betrayal (khiyāna) of a righteous husband and her end is the Fire, not
-    salt.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ
-    عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا
-    وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
-- tradition: judaism
-  ref: Gen 19:26
-  note: Wife who looks back is turned into a pillar of salt
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
-- tradition: islam
-  ref: Quran 66:10
-  note: Wife who looks back is turned into a pillar of salt (Lot's wife condemned)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ
-    عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا
-    وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
-- tradition: judaism
-  ref: Gen 19:16
-  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
-    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
-    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
-    (7:80), with no mention of Abraham and no hesitation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י בְנֹתָ֔יו
-    בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
-- tradition: judaism
-  ref: Gen 19:29
-  note: 'Hero''s family saved with him [divergence between the texts] (Why Lot is saved. Gen: bə-ḥemlat
-    YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ ʾet-Lôṭ, rescued for Abraham''s sake,
-    dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu wa-ahlahu, as a messenger who preached
-    (7:80), with no mention of Abraham and no hesitation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 66:10
-  note: 'Hero''s family saved with him [divergence between the texts] (Noah''s wife reversed: in Genesis
-    she is among the saved (wa-yāvōʾ Nōaḥ ... we-ʾištô ... ʾel ha-tēvāh; we-ʾēšet Nōaḥ ... ʾittām ʾel
-    ha-tēvāh). Q 66:10 imraʾata nūḥin ... kānatā taḥta ʿabdayni min ʿibādinā ṣāliḥayni fa-khānatāhumā
-    ... dkhulā n-nār: she betrayed him and is condemned. cf. Gen. Rab. 23:3 on Naamah and Gnostic Norea
-    (not a match).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ
-    عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا
-    وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. Lot''s wife''s fate and fault changed: Gen 19:26 wattabbēṭ ʾištô mē-ʾaḥărāyw wattehî neṣîv
-    melaḥ (she looks back and becomes a pillar of salt). Q 66:10 imraʾata lūṭin ... fa-khānatāhumā ...
-    wa-qīla dkhulā n-nāra maʿa d-dākhilīn: her sin is betrayal (khiyāna) of a righteous husband and her
-    end is the Fire, not salt.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Wife who looks back is turned into a pillar of salt [divergence
     between the texts] (weight 6.3); Wife who looks back is turned into a pillar of salt (weight 5.6);
@@ -134,6 +61,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Wife who looks back is turned into a pillar of salt
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Wife who looks back is turned into a pillar of salt
+  note: 'Lot''s wife''s fate and fault changed: Gen 19:26 wattabbēṭ ʾištô mē-ʾaḥărāyw wattehî neṣîv melaḥ
+    (she looks back and becomes a pillar of salt). Q 66:10 imraʾata lūṭin ... fa-khānatāhumā ... wa-qīla
+    dkhulā n-nāra maʿa d-dākhilīn: her sin is betrayal (khiyāna) of a righteous husband and her end is
+    the Fire, not salt.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:26
+      lang: he
+      text: וַתַּבֵּ֥ט אִשְׁתּ֖וֹ מֵאַחֲרָ֑יו וַתְּהִ֖י נְצִ֥יב מֶֽלַח
+  - tradition: islam
+    passages:
+    - ref: Quran 66:10
+      lang: ar
+      text: ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ
+        عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ
+        شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
+- kind: shared
+  label: Hero's family saved with him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:16
+      lang: he
+      text: וַֽיִּתְמַהְמָ֓הּ וַיַּחֲזִ֨קוּ הָאֲנָשִׁ֜ים בְּיָד֣וֹ וּבְיַד אִשְׁתּ֗וֹ וּבְיַד֙ שְׁתֵּ֣י
+        בְנֹתָ֔יו בְּחֶמְלַ֥ת יְהוָ֖ה עָלָ֑יו וַיֹּצִאֻ֥הוּ וַיַּנִּחֻ֖הוּ מִח֥וּץ לָעִֽיר
+    - ref: Gen 19:29
+      lang: he
+      text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם
+        וַיְשַׁלַּ֤ח אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
+    note: 'Why Lot is saved. Gen: bə-ḥemlat YHWH ʿālāyw, and wa-yyizkōr ʾĕlōhîm ʾet-ʾAvrāhām wa-yšallaḥ
+      ʾet-Lôṭ, rescued for Abraham''s sake, dragged out while he lingers (wa-yyitmahmāh). Q: fa-anjaynāhu
+      wa-ahlahu, as a messenger who preached (7:80), with no mention of Abraham and no hesitation.'
+  - tradition: islam
+    passages:
+    - ref: Quran 66:10
+      lang: ar
+      text: ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ
+        عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ
+        شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ
+    note: 'Noah''s wife reversed: in Genesis she is among the saved (wa-yāvōʾ Nōaḥ ... we-ʾištô ... ʾel
+      ha-tēvāh; we-ʾēšet Nōaḥ ... ʾittām ʾel ha-tēvāh). Q 66:10 imraʾata nūḥin ... kānatā taḥta ʿabdayni
+      min ʿibādinā ṣāliḥayni fa-khānatāhumā ... dkhulā n-nār: she betrayed him and is condemned. cf. Gen.
+      Rab. 23:3 on Naamah and Gnostic Norea (not a match).'
 ---
 
 ## Questions

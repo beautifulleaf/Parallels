@@ -2,8 +2,7 @@
 id: motif-hb-dan-12-resurrection-end-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'Michael arises, the resurrection, and the sealed book ↔ Al-Waqi''a: the Event that abases and
   exalts; the three classes; the Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 1 motifs: into how many groups humankind is sorted at the end [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,61 +14,9 @@ layers:
 - motif
 motifs:
 - groups-at-the-resurrection-as-divergence
-passages:
-- tradition: judaism
-  ref: Dan 12:2
-  note: 'Into how many groups humankind is sorted at the end [divergence between the texts] (Sorting at
-    the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ
-    ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame, with the wise shining
-    as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu l-mashʾama, wa-s-sābiqūna
-    s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost brought near). The maśkîlîm
-    and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah 16b, three groups at judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
-    לְדִרְא֥וֹן עוֹלָֽם
-- tradition: judaism
-  ref: Dan 12:3
-  note: 'Into how many groups humankind is sorted at the end [divergence between the texts] (Sorting at
-    the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ
-    ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame, with the wise shining
-    as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu l-mashʾama, wa-s-sābiqūna
-    s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost brought near). The maśkîlîm
-    and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah 16b, three groups at judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהַ֨מַּשְׂכִּלִ֔ים יַזְהִ֖רוּ כְּזֹ֣הַר הָרָקִ֑יעַ וּמַצְדִּיקֵי֙ הָֽרַבִּ֔ים כַּכּוֹכָבִ֖ים
-    לְעוֹלָ֥ם וָעֶֽד
-- tradition: islam
-  ref: Quran 56:7
-  note: 'Into how many groups humankind is sorted at the end [divergence between the texts] (Sorting at
-    the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ
-    ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame, with the wise shining
-    as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu l-mashʾama, wa-s-sābiqūna
-    s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost brought near). The maśkîlîm
-    and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah 16b, three groups at judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً
-- tradition: islam
-  ref: Quran 56:8
-  note: 'Into how many groups humankind is sorted at the end [divergence between the texts] (Sorting at
-    the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ
-    ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame, with the wise shining
-    as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu l-mashʾama, wa-s-sābiqūna
-    s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost brought near). The maśkîlîm
-    and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah 16b, three groups at judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Sorting at the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê
-    ʿôlām wə-ʾēlleh la-ḥărāp̄ôṯ ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame,
-    with the wise shining as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu
-    l-mashʾama, wa-s-sābiqūna s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost
-    brought near). The maśkîlîm and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah
-    16b, three groups at judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Into how many groups humankind is sorted at the end [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -108,6 +55,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Into how many groups humankind is sorted at the end
+kinds:
+- divergence
+units:
+- id: hb-dan-12-resurrection-end
+  title: Michael arises, the resurrection, and the sealed book
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Into how many groups humankind is sorted at the end
+  note: 'Sorting at the resurrection. Daniel: wə-rabbîm mîšēnê ʾaḏmaṯ ʿāp̄ār yāqîṣû ʾēlleh lə-ḥayyê ʿôlām
+    wə-ʾēlleh la-ḥărāp̄ôṯ ... wə-ham-maśkîlîm yazhirû kə-zōhar hā-rāqîaʿ (two groups, life and shame,
+    with the wise shining as a higher class). Quran: wa-kuntum azwājan thalātha: aṣḥābu l-maymana, aṣḥābu
+    l-mashʾama, wa-s-sābiqūna s-sābiqūn ulāʾika l-muqarrabūn (three classes: right, left, and the foremost
+    brought near). The maśkîlîm and the sābiqūn are both an elite above the saved. cf. b. Rosh Hashanah
+    16b, three groups at judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 12:2
+      lang: he
+      text: וְרַבִּ֕ים מִיְּשֵׁנֵ֥י אַדְמַת עָפָ֖ר יָקִ֑יצוּ אֵ֚לֶּה לְחַיֵּ֣י עוֹלָ֔ם וְאֵ֥לֶּה לַחֲרָפ֖וֹת
+        לְדִרְא֥וֹן עוֹלָֽם
+    - ref: Dan 12:3
+      lang: he
+      text: וְהַ֨מַּשְׂכִּלִ֔ים יַזְהִ֖רוּ כְּזֹ֣הַר הָרָקִ֑יעַ וּמַצְדִּיקֵי֙ הָֽרַבִּ֔ים כַּכּוֹכָבִ֖ים
+        לְעוֹלָ֥ם וָעֶֽד
+  - tradition: islam
+    passages:
+    - ref: Quran 56:7
+      lang: ar
+      text: وَكُنتُمْ أَزْوَٰجًا ثَلَٰثَةً
+    - ref: Quran 56:8
+      lang: ar
+      text: فَأَصْحَٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَٰبُ ٱلْمَيْمَنَةِ
+    - ref: Quran 56:9
+      lang: ar
+      text: وَأَصْحَٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ
 ---
 
 ## Questions

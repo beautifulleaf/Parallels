@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-53-najm-goddesses-and-scrolls
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord of Sirius
-summary: 'These two units share 1 motifs: each person dies for his own sin.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +15,9 @@ layers:
 - motif
 motifs:
 - individual-responsibility-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 31:30
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
-- tradition: judaism
-  ref: Jer 31:29
-  note: Each person dies for his own sin
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
-- tradition: islam
-  ref: Quran 53:38
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
-- tradition: islam
-  ref: Quran 53:39
-  note: Each person dies for his own sin
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا مَا سَعَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. lōʾ yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim ʾîš ba-ʿăwōnô yāmûṯ vs. allā taziru wāziratun
-    wizra ukhrā ... wa-anna saʿyahu sawfa yurā. Jeremiah puts individual responsibility in the future
-    (''in those days''); the Quran says it was already in the old scrolls.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Each person dies for his own sin (weight 5.0). Pair score 5.0.'
   basis: reading
@@ -79,6 +52,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Each person dies for his own sin
+kinds:
+- parallel
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: parallel
+  label: Each person dies for his own sin
+  note: lōʾ yōʾmərû ʿôḏ ʾāḇôṯ ʾāḵəlû ḇōser ... kî ʾim ʾîš ba-ʿăwōnô yāmûṯ vs. allā taziru wāziratun wizra
+    ukhrā ... wa-anna saʿyahu sawfa yurā. Jeremiah puts individual responsibility in the future ('in those
+    days'); the Quran says it was already in the old scrolls.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:29
+      lang: he
+      text: בַּיָּמִ֣ים הָהֵ֔ם לֹא יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה
+    - ref: Jer 31:30
+      lang: he
+      text: כִּ֛י אִם אִ֥ישׁ בַּעֲוֺנ֖וֹ יָמ֑וּת כָּל הָֽאָדָ֛ם הָאֹכֵ֥ל הַבֹּ֖סֶר תִּקְהֶ֥ינָה שִׁנָּֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 53:38
+      lang: ar
+      text: أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ
+    - ref: Quran 53:39
+      lang: ar
+      text: وَأَن لَّيْسَ لِلْإِنسَٰنِ إِلَّا مَا سَعَىٰ
+    - ref: Quran 53:40
+      lang: ar
+      text: وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ
 ---
 
 ## Questions

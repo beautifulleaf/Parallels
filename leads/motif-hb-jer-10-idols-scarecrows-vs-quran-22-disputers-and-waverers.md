@@ -2,8 +2,7 @@
 id: motif-hb-jer-10-idols-scarecrows-vs-quran-22-disputers-and-waverers
 title: Idols like scarecrows in a cucumber field ↔ Those who dispute about God and those who worship on
   an edge
-summary: 'These two units share 2 motifs: worshipping what can neither harm nor benefit you, idols of
-  wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,69 +16,9 @@ layers:
 motifs:
 - idols-neither-harm-nor-benefit
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Jer 10:5
-  note: 'Worshipping what can neither harm nor benefit you (Q: a-taʿbudūna min dūni llāhi mā lā yamliku
-    lakum ḍarran wa-lā nafʿan. Jer: ʾal-tîrʾû mēhem kî-lōʾ yārēʿû wə-gam-hêṭêv ʾên ʾôtām. The same pair,
-    harm and good. Q turns it against worship of the Messiah and his mother.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: judaism
-  ref: Jer 10:3
-  note: 'Worshipping what can neither harm nor benefit you (Q: a-taʿbudūna min dūni llāhi mā lā yamliku
-    lakum ḍarran wa-lā nafʿan. Jer: ʾal-tîrʾû mēhem kî-lōʾ yārēʿû wə-gam-hêṭêv ʾên ʾôtām. The same pair,
-    harm and good. Q turns it against worship of the Messiah and his mother.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי חֻקּ֥וֹת הָֽעַמִּ֖ים הֶ֣בֶל ה֑וּא כִּֽי עֵץ֙ מִיַּ֣עַר כְּרָת֔וֹ מַעֲשֵׂ֥ה יְדֵ֥י חָרָ֖שׁ
-    בַּֽמַּעֲצָֽד
-- tradition: islam
-  ref: Quran 22:12
-  note: 'Worshipping what can neither harm nor benefit you (yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā
-    lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: the idol can do neither harm (raʿ / ḍarr) nor
-    good (hêṭîv / nafʿ). Q 22:13 adds a twist: the idol''s harm is nearer than its benefit (ḍarruhu aqrabu
-    min nafʿihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
-- tradition: islam
-  ref: Quran 22:13
-  note: 'Worshipping what can neither harm nor benefit you (yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā
-    lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām: the idol can do neither harm (raʿ / ḍarr) nor
-    good (hêṭîv / nafʿ). Q 22:13 adds a twist: the idol''s harm is nearer than its benefit (ḍarruhu aqrabu
-    min nafʿihi).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
-- tradition: judaism
-  ref: Jer 10:5
-  note: 'Idols of wood and stone that cannot see, hear, eat or smell (kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû
-    ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum lā tanṭiqūn: speechless idols that can do neither
-    harm nor good.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ אַל
-    תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
-- tradition: islam
-  ref: Quran 22:12
-  note: Idols of wood and stone that cannot see, hear, eat or smell (they neither harm nor benefit)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلْبَعِيدُ
-- tradition: islam
-  ref: Quran 22:13
-  note: Idols of wood and stone that cannot see, hear, eat or smell (they neither harm nor benefit)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên
-    ʾôtām: the idol can do neither harm (raʿ / ḍarr) nor good (hêṭîv / nafʿ). Q 22:13 adds a twist: the
-    idol''s harm is nearer than its benefit (ḍarruhu aqrabu min nafʿihi).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Worshipping what can neither harm nor benefit you (weight 5.8);
     Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0). Pair score 10.8.'
@@ -108,6 +47,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Worshipping what can neither harm nor benefit you
+kinds:
+- parallel
+- shared
+units:
+- id: hb-jer-10-idols-scarecrows
+  title: Idols like scarecrows in a cucumber field
+  tradition: judaism
+- id: quran-22-disputers-and-waverers
+  title: Those who dispute about God and those who worship on an edge
+  tradition: islam
+matches:
+- kind: parallel
+  label: Worshipping what can neither harm nor benefit you
+  note: 'yadʿū min dūni llāhi mā lā yaḍurruhu wa-mā lā yanfaʿuhu ~ kî lōʾ yārēʿû wə-gam hêṭêv ʾên ʾôtām:
+    the idol can do neither harm (raʿ / ḍarr) nor good (hêṭîv / nafʿ). Q 22:13 adds a twist: the idol''s
+    harm is nearer than its benefit (ḍarruhu aqrabu min nafʿihi).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:12
+      lang: ar
+      text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ
+        ٱلْبَعِيدُ
+    - ref: Quran 22:13
+      lang: ar
+      text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 10:5
+      lang: he
+      text: כְּתֹ֨מֶר מִקְשָׁ֥ה הֵ֨מָּה֙ וְלֹ֣א יְדַבֵּ֔רוּ נָשׂ֥וֹא יִנָּשׂ֖וּא כִּ֣י לֹ֣א יִצְעָ֑דוּ
+        אַל תִּֽירְא֤וּ מֵהֶם֙ כִּי לֹ֣א יָרֵ֔עוּ וְגַם הֵיטֵ֖יב אֵ֥ין אוֹתָֽם
+    note: 'kə-ṯōmer miqšâ hēmmâ wə-lōʾ yəḏabbērû ... kî lōʾ yārēʿû wə-ḡam-hêṭêḇ ʾên ʾôṯām vs. mā lakum
+      lā tanṭiqūn: speechless idols that can do neither harm nor good.'
+  - tradition: islam
+    passages:
+    - ref: Quran 22:12
+      lang: ar
+      text: يَدْعُوا۟ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ
+        ٱلْبَعِيدُ
+    - ref: Quran 22:13
+      lang: ar
+      text: يَدْعُوا۟ لَمَن ضَرُّهُۥٓ أَقْرَبُ مِن نَّفْعِهِۦ لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ
+    note: they neither harm nor benefit
 ---
 
 ## Questions

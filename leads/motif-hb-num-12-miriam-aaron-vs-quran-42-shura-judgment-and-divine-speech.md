@@ -2,9 +2,7 @@
 id: motif-hb-num-12-miriam-aaron-vs-quran-42-shura-judgment-and-divine-speech
 title: Miriam and Aaron speak against Moses ↔ The damned seek a way back; God gives children as he wills;
   three ways God speaks to man
-summary: 'These two units share 2 motifs: god speaks to one prophet ''mouth to mouth'', not in dreams
-  or riddles, how god speaks to prophets: face to face, in vision or dream, from behind a veil, or by
-  a messenger [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,72 +15,9 @@ layers:
 motifs:
 - face-to-face-revelation
 - modes-of-divine-speech-to-prophets-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 12:7
-  note: God speaks to one prophet 'mouth to mouth', not in dreams or riddles ('faithful in all my house';
-    beholds the temunah of YHWH)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
-- tradition: judaism
-  ref: Num 12:8
-  note: God speaks to one prophet 'mouth to mouth', not in dreams or riddles ('faithful in all my house';
-    beholds the temunah of YHWH)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
-    לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
-- tradition: islam
-  ref: Quran 42:51
-  note: 'God speaks to one prophet ''mouth to mouth'', not in dreams or riddles (contrast: here no human
-    is spoken to directly; ''from behind a veil'' is the closest (cf. Moses))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
-    رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
-- tradition: judaism
-  ref: Num 12:6
-  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
-    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
-    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
-    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
-    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו אֶתְוַדָּ֔ע
-    בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ
-- tradition: judaism
-  ref: Num 12:7
-  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
-    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
-    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
-    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
-    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
-- tradition: islam
-  ref: Quran 42:51
-  note: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger
-    [divergence between the texts] (Both rank the ways God speaks to a man, with opposite tops. Num 12:
-    to a prophet bam-marʾâ ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ
-    YHWH yabbîṭ (mouth to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu
-    llāhu illā waḥyan aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly;
-    the highest mode, ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ يُرْسِلَ
-    رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Both rank the ways God speaks to a man, with opposite tops. Num 12: to a prophet bam-marʾâ
-    ... ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ YHWH yabbîṭ (mouth
-    to mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu llāhu illā waḥyan
-    aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly; the highest mode,
-    ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God speaks to one prophet ''mouth to mouth'', not in dreams or riddles
     (weight 6.7); How God speaks to prophets: face to face, in vision or dream, from behind a veil, or
@@ -115,6 +50,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-num-12-miriam-aaron
+  title: Miriam and Aaron speak against Moses
+  tradition: judaism
+- id: quran-42-shura-judgment-and-divine-speech
+  title: The damned seek a way back; God gives children as he wills; three ways God speaks to man
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'How God speaks to prophets: face to face, in vision or dream, from behind a veil, or by a messenger'
+  note: 'Both rank the ways God speaks to a man, with opposite tops. Num 12: to a prophet bam-marʾâ ...
+    ba-ḥălôm (vision, dream), but to Moses peh ʾel peh ʾăḏabber bô ... û-ṯəmunaṯ YHWH yabbîṭ (mouth to
+    mouth; he beholds YHWH''s form). Q 42:51: wa-mā kāna li-basharin an yukallimahu llāhu illā waḥyan
+    aw min warāʾi ḥijābin aw yursila rasūlan: no human (bashar) is spoken to directly; the highest mode,
+    ''from behind a veil'', is the one tradition assigns to Moses (cf. Q 4:164, 7:143).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 12:6
+      lang: he
+      text: וַיֹּ֖אמֶר שִׁמְעוּ נָ֣א דְבָרָ֑י אִם יִֽהְיֶה֙ נְבִ֣יאֲכֶ֔ם יְהוָ֗ה בַּמַּרְאָה֙ אֵלָ֣יו
+        אֶתְוַדָּ֔ע בַּחֲל֖וֹם אֲדַבֶּר בּֽוֹ
+    - ref: Num 12:7
+      lang: he
+      text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
+    - ref: Num 12:8
+      lang: he
+      text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
+        לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 42:51
+      lang: ar
+      text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ
+        يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+- kind: shared
+  label: God speaks to one prophet 'mouth to mouth', not in dreams or riddles
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 12:7
+      lang: he
+      text: לֹא כֵ֖ן עַבְדִּ֣י מֹשֶׁ֑ה בְּכָל בֵּיתִ֖י נֶאֱמָ֥ן הֽוּא
+    - ref: Num 12:8
+      lang: he
+      text: פֶּ֣ה אֶל פֶּ֞ה אֲדַבֶּר בּ֗וֹ וּמַרְאֶה֙ וְלֹ֣א בְחִידֹ֔ת וּתְמֻנַ֥ת יְהוָ֖ה יַבִּ֑יט וּמַדּ֨וּעַ֙
+        לֹ֣א יְרֵאתֶ֔ם לְדַבֵּ֖ר בְּעַבְדִּ֥י בְמֹשֶֽׁה
+    note: '''faithful in all my house''; beholds the temunah of YHWH'
+  - tradition: islam
+    passages:
+    - ref: Quran 42:51
+      lang: ar
+      text: وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحْيًا أَوْ مِن وَرَآئِ حِجَابٍ أَوْ
+        يُرْسِلَ رَسُولًا فَيُوحِىَ بِإِذْنِهِۦ مَا يَشَآءُ إِنَّهُۥ عَلِىٌّ حَكِيمٌ
+    note: 'contrast: here no human is spoken to directly; ''from behind a veil'' is the closest (cf. Moses)'
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-gen-25-jacob-esau-birth-vs-quran-21-prophets-answered
 title: Birth of Esau and Jacob; the sale of the birthright ↔ Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun,
   Zechariah and Mary
-summary: 'These two units share 2 motifs: husband prays for his barren wife and she conceives, the patriarch''s
-  wife is barren.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,48 +16,9 @@ layers:
 motifs:
 - husband-prays-for-barren-wife
 - barren-matriarch
-passages:
-- tradition: judaism
-  ref: Gen 25:21
-  note: Husband prays for his barren wife and she conceives
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהוָ֔ה
-    וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
-- tradition: islam
-  ref: Quran 21:89
-  note: Husband prays for his barren wife and she conceives ('do not leave me alone (fardan), you are
-    the best of inheritors'; 'we set his wife right for him')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
-- tradition: islam
-  ref: Quran 21:90
-  note: Husband prays for his barren wife and she conceives ('do not leave me alone (fardan), you are
-    the best of inheritors'; 'we set his wife right for him')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟
-    يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ
-- tradition: judaism
-  ref: Gen 25:21
-  note: The patriarch's wife is barren
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהוָ֔ה
-    וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
-- tradition: islam
-  ref: Quran 21:90
-  note: The patriarch's wife is barren
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟
-    يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wayyeʿtar yiṣḥāq laYHWH lənōkaḥ ʾištô ... wayyēʿāter lô YHWH wattahar; idh nādā rabbahu
-    rabbi lā tadharnī fardan ... fa-stajabnā lahu wa-wahabnā lahu Yaḥyā wa-aṣlaḥnā lahu zawjah: the husband''s
-    prayer answered and the barren wife made able to conceive.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Husband prays for his barren wife and she conceives (weight 6.3);
     The patriarch''s wife is barren (weight 5.2). Pair score 11.5.'
@@ -88,6 +48,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Husband prays for his barren wife and she conceives
+kinds:
+- parallel
+- shared
+units:
+- id: hb-gen-25-jacob-esau-birth
+  title: Birth of Esau and Jacob; the sale of the birthright
+  tradition: judaism
+- id: quran-21-prophets-answered
+  title: Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary
+  tradition: islam
+matches:
+- kind: parallel
+  label: Husband prays for his barren wife and she conceives
+  note: 'wayyeʿtar yiṣḥāq laYHWH lənōkaḥ ʾištô ... wayyēʿāter lô YHWH wattahar; idh nādā rabbahu rabbi
+    lā tadharnī fardan ... fa-stajabnā lahu wa-wahabnā lahu Yaḥyā wa-aṣlaḥnā lahu zawjah: the husband''s
+    prayer answered and the barren wife made able to conceive.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 25:21
+      lang: he
+      text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙
+        יְהוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:89
+      lang: ar
+      text: وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ
+    - ref: Quran 21:90
+      lang: ar
+      text: فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟
+        يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ
+- kind: shared
+  label: The patriarch's wife is barren
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 25:21
+      lang: he
+      text: וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙
+        יְהוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:90
+      lang: ar
+      text: فَٱسْتَجَبْنَا لَهُۥ وَوَهَبْنَا لَهُۥ يَحْيَىٰ وَأَصْلَحْنَا لَهُۥ زَوْجَهُۥٓ إِنَّهُمْ كَانُوا۟
+        يُسَٰرِعُونَ فِى ٱلْخَيْرَٰتِ وَيَدْعُونَنَا رَغَبًا وَرَهَبًا وَكَانُوا۟ لَنَا خَٰشِعِينَ
 ---
 
 ## Questions

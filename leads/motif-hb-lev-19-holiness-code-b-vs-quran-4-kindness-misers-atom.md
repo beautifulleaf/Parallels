@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-b-vs-quran-4-kindness-misers-atom
 title: Mixtures, orlah fruit, mourning cuttings, alien and just weights ↔ The circle of kindness, misers,
   and the atom's weight
-summary: 'These two units share 1 motifs: kindness to the near neighbor, the distant neighbor, the companion
-  at one''s side and the wayfarer.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - neighbor-near-and-far
-passages:
-- tradition: judaism
-  ref: Lev 19:34
-  note: 'Kindness to the near neighbor, the distant neighbor, the companion at one''s side and the wayfarer
-    (Lev 19:34 kĕ-ʾezrāḥ mi-kkem yihyeh lākem ha-ggēr ... wĕ-ʾāhabtā lô kāmôkā: love the resident stranger
-    as yourself; Q 4:36 wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli: the stranger-neighbour,
-    the companion and the wayfarer. Love of neighbour extended to the outsider.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּאֶזְרָ֣ח מִכֶּם֩ יִהְיֶ֨ה לָכֶ֜ם הַגֵּ֣ר הַגָּ֣ר אִתְּכֶ֗ם וְאָהַבְתָּ֥ לוֹ֙ כָּמ֔וֹךָ כִּֽי
-    גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 4:36
-  note: Kindness to the near neighbor, the distant neighbor, the companion at one's side and the wayfarer
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ
-    وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ
-    وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Lev 19:34 kĕ-ʾezrāḥ mi-kkem yihyeh lākem ha-ggēr ... wĕ-ʾāhabtā lô kāmôkā: love the resident
-    stranger as yourself; Q 4:36 wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli: the stranger-neighbour,
-    the companion and the wayfarer. Love of neighbour extended to the outsider.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Kindness to the near neighbor, the distant neighbor, the companion
     at one''s side and the wayfarer (weight 6.7). Pair score 6.7.'
@@ -72,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Kindness to the near neighbor, the distant neighbor, the companion at one's side and the wayfarer
+kinds:
+- echo
+units:
+- id: hb-lev-19-holiness-code-b
+  title: Mixtures, orlah fruit, mourning cuttings, alien and just weights
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: echo
+  label: Kindness to the near neighbor, the distant neighbor, the companion at one's side and the wayfarer
+  note: 'Lev 19:34 kĕ-ʾezrāḥ mi-kkem yihyeh lākem ha-ggēr ... wĕ-ʾāhabtā lô kāmôkā: love the resident
+    stranger as yourself; Q 4:36 wa-l-jāri l-junubi wa-ṣ-ṣāḥibi bi-l-janbi wa-bni s-sabīli: the stranger-neighbour,
+    the companion and the wayfarer. Love of neighbour extended to the outsider.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:34
+      lang: he
+      text: כְּאֶזְרָ֣ח מִכֶּם֩ יִהְיֶ֨ה לָכֶ֜ם הַגֵּ֣ר הַגָּ֣ר אִתְּכֶ֗ם וְאָהַבְתָּ֥ לוֹ֙ כָּמ֔וֹךָ
+        כִּֽי גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 4:36
+      lang: ar
+      text: وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ
+        بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ
+        مُخْتَالًا فَخُورًا
 ---
 
 ## Questions

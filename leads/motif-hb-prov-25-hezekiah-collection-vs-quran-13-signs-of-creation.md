@@ -2,8 +2,7 @@
 id: motif-hb-prov-25-hezekiah-collection-vs-quran-13-signs-of-creation
 title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies) ↔ The signs of creation, thunder
   and the parable of the foam (Surah 13:1-17)
-summary: 'These two units share 1 motifs: remove the dross from silver and a vessel comes out for the
-  smith; remove the wicked and the throne is established.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - dross-removed-from-silver
-passages:
-- tradition: judaism
-  ref: Prov 25:4
-  note: Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the throne
-    is established
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָג֣וֹ סִיגִ֣ים מִכָּ֑סֶף וַיֵּצֵ֖א לַצֹּרֵ֣ף כֶּֽלִי
-- tradition: judaism
-  ref: Prov 25:5
-  note: Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the throne
-    is established
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָג֣וֹ רָ֭שָׁע לִפְנֵי מֶ֑לֶךְ וְיִכּ֖וֹן בַּצֶּ֣דֶק כִּסְאֽוֹ
-- tradition: islam
-  ref: Quran 13:17
-  note: 'Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the
-    throne is established (the smelting half of the parable: metal melted for ornaments raises a scum)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا
-    رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ
-    كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا مَا
-    يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-mimmā yūqidūna ʿalayhi fī n-nāri btighāʾa ḥilyatin ... zabadun mithluh ... fa-ammā z-zabadu
-    fa-yadhhabu jufāʾan; hāgô sîgîm mikkāsep wayyēṣēʾ laṣṣōrēp kelî / hāgô rāšāʿ lipnê-melek: dross is
-    driven off the smelted silver, and the image stands for removing the wicked. Prov applies it to the
-    king''s court; Q to truth and falsehood (al-ḥaqq wa-l-bāṭil).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remove the dross from silver and a vessel comes out for the smith;
     remove the wicked and the throne is established (weight 6.3). Pair score 6.3.'
@@ -83,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the
+  throne is established
+kinds:
+- parallel
+units:
+- id: hb-prov-25-hezekiah-collection
+  title: Proverbs of Solomon copied by Hezekiah's men (king, speech, enemies)
+  tradition: judaism
+- id: quran-13-signs-of-creation
+  title: The signs of creation, thunder and the parable of the foam (Surah 13:1-17)
+  tradition: islam
+matches:
+- kind: parallel
+  label: Remove the dross from silver and a vessel comes out for the smith; remove the wicked and the
+    throne is established
+  note: 'wa-mimmā yūqidūna ʿalayhi fī n-nāri btighāʾa ḥilyatin ... zabadun mithluh ... fa-ammā z-zabadu
+    fa-yadhhabu jufāʾan; hāgô sîgîm mikkāsep wayyēṣēʾ laṣṣōrēp kelî / hāgô rāšāʿ lipnê-melek: dross is
+    driven off the smelted silver, and the image stands for removing the wicked. Prov applies it to the
+    king''s court; Q to truth and falsehood (al-ḥaqq wa-l-bāṭil).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 25:4
+      lang: he
+      text: הָג֣וֹ סִיגִ֣ים מִכָּ֑סֶף וַיֵּצֵ֖א לַצֹּרֵ֣ף כֶּֽלִי
+    - ref: Prov 25:5
+      lang: he
+      text: הָג֣וֹ רָ֭שָׁע לִפְנֵי מֶ֑לֶךְ וְיִכּ֖וֹן בַּצֶּ֣דֶק כִּסְאֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 13:17
+      lang: ar
+      text: أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَسَالَتْ أَوْدِيَةٌۢ بِقَدَرِهَا فَٱحْتَمَلَ ٱلسَّيْلُ زَبَدًا
+        رَّابِيًا وَمِمَّا يُوقِدُونَ عَلَيْهِ فِى ٱلنَّارِ ٱبْتِغَآءَ حِلْيَةٍ أَوْ مَتَٰعٍ زَبَدٌ مِّثْلُهُۥ
+        كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَٰطِلَ فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً وَأَمَّا
+        مَا يَنفَعُ ٱلنَّاسَ فَيَمْكُثُ فِى ٱلْأَرْضِ كَذَٰلِكَ يَضْرِبُ ٱللَّهُ ٱلْأَمْثَالَ
 ---
 
 ## Questions

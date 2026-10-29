@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-14-crossing-of-the-sea-vs-quran-8-fifth-and-badr-vision
 title: The pursuit and the parting of the sea ↔ The fifth of the spoils, the dream of few, Satan's desertion
-summary: 'These two units share 1 motifs: satan promises the army ''no one will defeat you, i am your
-  protector'', then turns on his heels when he sees what they cannot.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - satan-promises-protection-then-deserts
-passages:
-- tradition: judaism
-  ref: Exod 14:25
-  note: 'Satan promises the army ''no one will defeat you, I am your protector'', then turns on his heels
-    when he sees what they cannot (Flight once it is seen that God fights for the other side: nakaṣa ʿalā
-    ʿaqibayhi wa-qāla innī barīʾun minkum innī arā mā lā tarawna innī akhāfu llāha vs wayyōʾmer miṣrayim
-    ʾānûsāh mippᵉnê yiśrāʾēl kî YHWH nilḥām lāhem. In Q it is Satan who sees and deserts his allies; in
-    Exod the Egyptians themselves.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֨וּסָה֙
-    מִפְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֣י יְהוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם
-- tradition: islam
-  ref: Quran 8:48
-  note: Satan promises the army 'no one will defeat you, I am your protector', then turns on his heels
-    when he sees what they cannot
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ
-    وَإِنِّى جَارٌ لَّكُمْ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ
-    مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Flight once it is seen that God fights for the other side: nakaṣa ʿalā ʿaqibayhi wa-qāla innī
-    barīʾun minkum innī arā mā lā tarawna innī akhāfu llāha vs wayyōʾmer miṣrayim ʾānûsāh mippᵉnê yiśrāʾēl
-    kî YHWH nilḥām lāhem. In Q it is Satan who sees and deserts his allies; in Exod the Egyptians themselves.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Satan promises the army ''no one will defeat you, I am your protector'',
     then turns on his heels when he sees what they cannot (weight 6.7). Pair score 6.7.'
@@ -71,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Satan promises the army 'no one will defeat you, I am your protector', then turns on his heels
+  when he sees what they cannot
+kinds:
+- echo
+units:
+- id: hb-exod-14-crossing-of-the-sea
+  title: The pursuit and the parting of the sea
+  tradition: judaism
+- id: quran-8-fifth-and-badr-vision
+  title: The fifth of the spoils, the dream of few, Satan's desertion
+  tradition: islam
+matches:
+- kind: echo
+  label: Satan promises the army 'no one will defeat you, I am your protector', then turns on his heels
+    when he sees what they cannot
+  note: 'Flight once it is seen that God fights for the other side: nakaṣa ʿalā ʿaqibayhi wa-qāla innī
+    barīʾun minkum innī arā mā lā tarawna innī akhāfu llāha vs wayyōʾmer miṣrayim ʾānûsāh mippᵉnê yiśrāʾēl
+    kî YHWH nilḥām lāhem. In Q it is Satan who sees and deserts his allies; in Exod the Egyptians themselves.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 14:25
+      lang: he
+      text: וַיָּ֗סַר אֵ֚ת אֹפַ֣ן מַרְכְּבֹתָ֔יו וַֽיְנַהֲגֵ֖הוּ בִּכְבֵדֻ֑ת וַיֹּ֣אמֶר מִצְרַ֗יִם אָנ֨וּסָה֙
+        מִפְּנֵ֣י יִשְׂרָאֵ֔ל כִּ֣י יְהוָ֔ה נִלְחָ֥ם לָהֶ֖ם בְּמִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 8:48
+      lang: ar
+      text: وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَٰنُ أَعْمَٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ
+        ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ
+        إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ وَٱللَّهُ شَدِيدُ
+        ٱلْعِقَابِ
 ---
 
 ## Questions

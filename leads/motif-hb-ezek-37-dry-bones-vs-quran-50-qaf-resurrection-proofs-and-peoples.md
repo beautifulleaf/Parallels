@@ -2,8 +2,7 @@
 id: motif-hb-ezek-37-dry-bones-vs-quran-50-qaf-resurrection-proofs-and-peoples
 title: 'The valley of dry bones ↔ Qaf: wonder at the warner, the earth that consumes the dead, the sky
   without rifts and the destroyed peoples'
-summary: 'These two units share 1 motifs: deniers ask ''when we are bones and fragments, shall we be raised
-  as a new creation?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - resurrection-from-bones-and-dust-doubted
-passages:
-- tradition: judaism
-  ref: Ezek 37:3
-  note: 'Deniers ask ''When we are bones and fragments, shall we be raised as a new creation?'' (hătiḥyênâ
-    hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman wa-rufātan a-innā
-    la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again? Ezek''s doubters
-    are the exiles in despair, and the bones are a figure for national restoration. Q''s doubters are
-    deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה אַתָּ֥ה
-    יָדָֽעְתָּ
-- tradition: judaism
-  ref: Ezek 37:5
-  note: 'Deniers ask ''When we are bones and fragments, shall we be raised as a new creation?'' (hătiḥyênâ
-    hāʿăṣāmôt hāʾēlleh ... yābəšû ʿaṣmôtênû wəʾābədâ tiqwātēnû; a-idhā kunnā ʿiẓāman wa-rufātan a-innā
-    la-mabʿūthūna khalqan jadīdā: can dry bones (ʿăṣāmôt / ʿiẓām, cognate) live again? Ezek''s doubters
-    are the exiles in despair, and the bones are a figure for national restoration. Q''s doubters are
-    deniers mocking, and the answer is literal: alladhī faṭarakum awwala marra.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה לָעֲצָמ֖וֹת הָאֵ֑לֶּה הִנֵּ֨ה אֲנִ֜י מֵבִ֥יא בָכֶ֛ם ר֖וּחַ וִחְיִיתֶֽם
-- tradition: islam
-  ref: Quran 50:3
-  note: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Can the dead live again? hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh wā-ʾōmar ʾăḏōnāy YHWH ʾattâ yāḏāʿtā
-    vs. a-idhā mitnā wa-kunnā turāban dhālika rajʿun baʿīd; qad ʿalimnā mā tanquṣu l-arḍu minhum. God
-    asks, and the prophet answers ''you know''; in the Quran deniers doubt, and God answers that he knows
-    (qad ʿalimnā). Ezekiel''s revival is a figure for national restoration (37:11); the Quran''s is bodily.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deniers ask ''When we are bones and fragments, shall we be raised
     as a new creation?'' (weight 5.4). Pair score 5.4.'
@@ -84,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'
+kinds:
+- echo
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-50-qaf-resurrection-proofs-and-peoples
+  title: 'Qaf: wonder at the warner, the earth that consumes the dead, the sky without rifts and the destroyed
+    peoples'
+  tradition: islam
+matches:
+- kind: echo
+  label: Deniers ask 'When we are bones and fragments, shall we be raised as a new creation?'
+  note: Can the dead live again? hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh wā-ʾōmar ʾăḏōnāy YHWH ʾattâ yāḏāʿtā vs.
+    a-idhā mitnā wa-kunnā turāban dhālika rajʿun baʿīd; qad ʿalimnā mā tanquṣu l-arḍu minhum. God asks,
+    and the prophet answers 'you know'; in the Quran deniers doubt, and God answers that he knows (qad
+    ʿalimnā). Ezekiel's revival is a figure for national restoration (37:11); the Quran's is bodily.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה
+        אַתָּ֥ה יָדָֽעְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 50:3
+      lang: ar
+      text: أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ
+    - ref: Quran 50:4
+      lang: ar
+      text: قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ
 ---
 
 ## Questions

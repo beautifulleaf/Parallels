@@ -2,10 +2,7 @@
 id: motif-hb-exod-5-bricks-without-straw-vs-quran-20-moses-pharaoh-magicians
 title: First audience with Pharaoh; bricks without straw ↔ Moses and Aaron before Pharaoh; the contest
   with the magicians
-summary: 'These two units share 4 motifs: king defies the prophet: ''who is yhwh that i should obey him?''
-  [divergence between the texts], prophet delivers god''s demand ''let my people go that they may serve
-  me'' [divergence between the texts], king defies the prophet: ''who is yhwh that i should obey him?'',
-  prophet delivers god''s demand ''let my people go that they may serve me''.'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,117 +17,9 @@ motifs:
 - let-my-people-go-demand-as-divergence
 - who-is-yhwh-defiance
 - let-my-people-go-demand
-passages:
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' [divergence between the texts]
-    (mî YHWH ʾăšer ʾešmaʿ bəqōlô ... lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā
-    yā Mūsā, and Moses answers with a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma
-    hadā. Exod''s question is about an unknown name; Q''s is about a Lord, and the answer is a universal
-    creator. Exod''s sequel, the harsher labor (bricks without straw), is left out.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 20:49
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' [divergence between the texts]
-    (mî YHWH ʾăšer ʾešmaʿ bəqōlô ... lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā
-    yā Mūsā, and Moses answers with a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma
-    hadā. Exod''s question is about an unknown name; Q''s is about a Lord, and the answer is a universal
-    creator. Exod''s sequel, the harsher labor (bricks without straw), is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:50
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' [divergence between the texts]
-    (mî YHWH ʾăšer ʾešmaʿ bəqōlô ... lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā
-    yā Mūsā, and Moses answers with a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma
-    hadā. Exod''s question is about an unknown name; Q''s is about a Lord, and the answer is a universal
-    creator. Exod''s sequel, the harsher labor (bricks without straw), is left out.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
-- tradition: judaism
-  ref: Exod 5:1
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Exod 5:3
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (The sender''s title and the demand. Exod: kōh-ʾāmar YHWH ʾĕlōhê Yiśrāʾēl šallaḥ ʾet-ʿammî
-    wə-yāḥōggû lî bam-midbār; ʾĕlōhê hā-ʿivrîm niqrāʾ ʿālênû, God of Israel and of the Hebrews, with a
-    pretext of a three-day festival or sacrifice. Q: yā Firʿawnu innī rasūlun min rabbi l-ʿālamīna ...
-    fa-arsil maʿiya banī Isrāʾīla. ''The Lord of the worlds'', with no festival or three-day journey,
-    and ''the Children of Israel'' instead of ''my people''. Pharaoh''s ''who is YHWH?'' (mî YHWH, 5:2)
-    becomes in fa-ʾti bihā in kunta mina l-ṣādiqīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
-    בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
-- tradition: islam
-  ref: Quran 20:47
-  note: 'Prophet delivers God''s demand ''Let my people go that they may serve me'' [divergence between
-    the texts] (Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû
-    lî bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants
-    a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, ''messengers of your
-    Lord'', Pharaoh''s own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī Isrāʾīla
-    wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ
-    قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
-- tradition: judaism
-  ref: Exod 5:2
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''I do not know YHWH'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
-    יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
-- tradition: islam
-  ref: Quran 20:49
-  note: 'King defies the prophet: ''Who is YHWH that I should obey him?'' (''Who then is the Lord of you
-    two, Moses?'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
-- tradition: judaism
-  ref: Exod 5:1
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('that they may hold a
-    festival (hag) to me in the wilderness')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל
-    שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
-- tradition: islam
-  ref: Quran 20:47
-  note: Prophet delivers God's demand 'Let my people go that they may serve me' ('send the children of
-    Israel with us and do not torment them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا تُعَذِّبْهُمْ
-    قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû
-    lî bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants
-    a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, ''messengers of your
-    Lord'', Pharaoh''s own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī Isrāʾīla
-    wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā. mî YHWH ʾăšer ʾešmaʿ bəqōlô ...
-    lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā yā Mūsā, and Moses answers with
-    a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma hadā. Exod''s question is about
-    an unknown name; Q''s is about a Lord, and the answer is a universal creator. Exod''s sequel, the
-    harsher labor (bricks without straw), is left out.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: King defies the prophet: ''Who is YHWH that I should obey him?''
     [divergence between the texts] (weight 6.7); Prophet delivers God''s demand ''Let my people go that
@@ -169,6 +58,62 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prophet delivers God's demand 'Let my people go that they may serve me'
+kinds:
+- divergence
+units:
+- id: hb-exod-5-bricks-without-straw
+  title: First audience with Pharaoh; bricks without straw
+  tradition: judaism
+- id: quran-20-moses-pharaoh-magicians
+  title: Moses and Aaron before Pharaoh; the contest with the magicians
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prophet delivers God's demand 'Let my people go that they may serve me'
+  note: 'Title and purpose change. Exod: kōh-ʾāmar YHWH ʾĕlōhê yiśrāʾēl šallaḥ ʾet-ʿammî wəyāḥōggû lî
+    bammidbār ... ʾĕlōhê hāʿibrîm niqrāʾ ʿālênû ... wənizbəḥâ: the God of Israel, of the Hebrews, wants
+    a festival and sacrifice three days into the wilderness. Q: innā rasūlā rabbika, ''messengers of your
+    Lord'', Pharaoh''s own Lord, and the purpose is release from oppression, fa-arsil maʿanā banī Isrāʾīla
+    wa-lā tuʿadhdhibhum. Q adds wa-s-salāmu ʿalā mani ttabaʿa l-hudā.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:1
+      lang: he
+      text: וְאַחַ֗ר בָּ֚אוּ מֹשֶׁ֣ה וְאַהֲרֹ֔ן וַיֹּאמְר֖וּ אֶל פַּרְעֹ֑ה כֹּֽה אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י
+        יִשְׂרָאֵ֔ל שַׁלַּח֙ אֶת עַמִּ֔י וְיָחֹ֥גּוּ לִ֖י בַּמִּדְבָּֽר
+    - ref: Exod 5:3
+      lang: he
+      text: וַיֹּ֣אמְר֔וּ אֱלֹהֵ֥י הָעִבְרִ֖ים נִקְרָ֣א עָלֵ֑ינוּ נֵ֣לֲכָה נָּ֡א דֶּרֶךְ֩ שְׁלֹ֨שֶׁת יָמִ֜ים
+        בַּמִּדְבָּ֗ר וְנִזְבְּחָה֙ לַֽיהוָ֣ה אֱלֹהֵ֔ינוּ פֶּ֨ן יִפְגָּעֵ֔נוּ בַּדֶּ֖בֶר א֥וֹ בֶחָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 20:47
+      lang: ar
+      text: فَأْتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ وَلَا
+        تُعَذِّبْهُمْ قَدْ جِئْنَٰكَ بِـَٔايَةٍ مِّن رَّبِّكَ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلْهُدَىٰٓ
+- kind: divergence
+  label: 'King defies the prophet: ''Who is YHWH that I should obey him?'''
+  note: mî YHWH ʾăšer ʾešmaʿ bəqōlô ... lōʾ yādaʿtî ʾet-YHWH, and Moses gives no answer; fa-man rabbukumā
+    yā Mūsā, and Moses answers with a creation creed, rabbunā lladhī aʿṭā kulla shayʾin khalqahu thumma
+    hadā. Exod's question is about an unknown name; Q's is about a Lord, and the answer is a universal
+    creator. Exod's sequel, the harsher labor (bricks without straw), is left out.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 5:2
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֔ה מִ֤י יְהוָה֙ אֲשֶׁ֣ר אֶשְׁמַ֣ע בְּקֹל֔וֹ לְשַׁלַּ֖ח אֶת יִשְׂרָאֵ֑ל לֹ֤א
+        יָדַ֨עְתִּי֙ אֶת יְהוָ֔ה וְגַ֥ם אֶת יִשְׂרָאֵ֖ל לֹ֥א אֲשַׁלֵּֽחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:49
+      lang: ar
+      text: قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ
+    - ref: Quran 20:50
+      lang: ar
+      text: قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ
 ---
 
 ## Questions

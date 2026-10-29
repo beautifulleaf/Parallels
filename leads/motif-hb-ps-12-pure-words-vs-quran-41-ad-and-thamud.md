@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-12-pure-words-vs-quran-41-ad-and-thamud
 title: Psalm 12 - flattering lips and God's pure words ↔ The thunderbolt of 'Ad and Thamud
-summary: 'These two units share 1 motifs: ''ad grow arrogant: ''who is mightier than us in strength?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - ad-boast-who-is-mightier
-passages:
-- tradition: judaism
-  ref: Ps 12:5
-  note: '''Ad grow arrogant: ''Who is mightier than us in strength?'' (Quoted boast of the arrogant: man
-    ashaddu minnā quwwatan vs. li-lšōnēnû naḡbîr ... mî ʾāḏôn lānû (with our tongue we prevail, who is
-    lord over us?). Psalm: boast of the tongue; Quran: boast of bodily strength (quwwa), answered with
-    the creator''s greater strength.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֤ר אָֽמְר֨וּ לִלְשֹׁנֵ֣נוּ נַ֭גְבִּיר שְׂפָתֵ֣ינוּ אִתָּ֑נוּ מִ֖י אָד֣וֹן לָֽנוּ
-- tradition: islam
-  ref: Quran 41:15
-  note: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا
-    قُوَّةً أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا۟
-    بِـَٔايَٰتِنَا يَجْحَدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Quoted boast of the arrogant: man ashaddu minnā quwwatan vs. li-lšōnēnû naḡbîr ... mî ʾāḏôn
-    lānû (with our tongue we prevail, who is lord over us?). Psalm: boast of the tongue; Quran: boast
-    of bodily strength (quwwa), answered with the creator''s greater strength.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Ad grow arrogant: ''Who is mightier than us in strength?'' (weight
     6.3). Pair score 6.3.'
@@ -61,6 +41,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
+kinds:
+- echo
+units:
+- id: hb-ps-12-pure-words
+  title: Psalm 12 - flattering lips and God's pure words
+  tradition: judaism
+- id: quran-41-ad-and-thamud
+  title: The thunderbolt of 'Ad and Thamud
+  tradition: islam
+matches:
+- kind: echo
+  label: '''Ad grow arrogant: ''Who is mightier than us in strength?'''
+  note: 'Quoted boast of the arrogant: man ashaddu minnā quwwatan vs. li-lšōnēnû naḡbîr ... mî ʾāḏôn lānû
+    (with our tongue we prevail, who is lord over us?). Psalm: boast of the tongue; Quran: boast of bodily
+    strength (quwwa), answered with the creator''s greater strength.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 12:5
+      lang: he
+      text: אֲשֶׁ֤ר אָֽמְר֨וּ לִלְשֹׁנֵ֣נוּ נַ֭גְבִּיר שְׂפָתֵ֣ינוּ אִתָּ֑נוּ מִ֖י אָד֣וֹן לָֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:15
+      lang: ar
+      text: فَأَمَّا عَادٌ فَٱسْتَكْبَرُوا۟ فِى ٱلْأَرْضِ بِغَيْرِ ٱلْحَقِّ وَقَالُوا۟ مَنْ أَشَدُّ مِنَّا
+        قُوَّةً أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ ٱلَّذِى خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً وَكَانُوا۟
+        بِـَٔايَٰتِنَا يَجْحَدُونَ
 ---
 
 ## Questions

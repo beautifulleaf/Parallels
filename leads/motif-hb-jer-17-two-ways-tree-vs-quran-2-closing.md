@@ -2,7 +2,7 @@
 id: motif-hb-jer-17-two-ways-tree-vs-quran-2-closing
 title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart ↔ Closing confession
   and prayer
-summary: 'These two units share 1 motifs: god tests the hearts and the kidneys (inner self).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,27 +15,9 @@ layers:
 - motif
 motifs:
 - god-tests-hearts-and-kidneys
-passages:
-- tradition: judaism
-  ref: Jer 17:10
-  note: God tests the hearts and the kidneys (inner self) (to give every man according to his ways)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כדרכו כִּדְרָכָ֔יו כִּפְרִ֖י מַעֲלָלָֽיו
-- tradition: islam
-  ref: Quran 2:284
-  note: God tests the hearts and the kidneys (inner self) (whether you show or hide what is in yourselves,
-    God will reckon)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ تُخْفُوهُ
-    يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ
-    شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Jer 17:10 ʾănî YHWH ḥōqēr lēb bōḥēn kĕlāyôt wĕ-lātēt lĕ-ʾîš ki-drākāw: God searches the
-    heart and repays by conduct; Q 2:284 wa-in tubdū mā fī anfusikum aw tukhfūhu yuḥāsibkum bihi llāhu:
-    whether you show or hide what is in you, God will call you to account.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God tests the hearts and the kidneys (inner self) (weight 5.6).
     Pair score 5.6.'
@@ -67,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God tests the hearts and the kidneys (inner self)
+kinds:
+- parallel
+units:
+- id: hb-jer-17-two-ways-tree
+  title: Cursed who trusts in man, blessed who trusts in YHWH; the deceitful heart
+  tradition: judaism
+- id: quran-2-closing
+  title: Closing confession and prayer
+  tradition: islam
+matches:
+- kind: parallel
+  label: God tests the hearts and the kidneys (inner self)
+  note: 'Jer 17:10 ʾănî YHWH ḥōqēr lēb bōḥēn kĕlāyôt wĕ-lātēt lĕ-ʾîš ki-drākāw: God searches the heart
+    and repays by conduct; Q 2:284 wa-in tubdū mā fī anfusikum aw tukhfūhu yuḥāsibkum bihi llāhu: whether
+    you show or hide what is in you, God will call you to account.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 17:10
+      lang: he
+      text: אֲנִ֧י יְהוָ֛ה חֹקֵ֥ר לֵ֖ב בֹּחֵ֣ן כְּלָי֑וֹת וְלָתֵ֤ת לְאִישׁ֙ כדרכו כִּדְרָכָ֔יו כִּפְרִ֖י
+        מַעֲלָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:284
+      lang: ar
+      text: لِّلَّهِ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَإِن تُبْدُوا۟ مَا فِىٓ أَنفُسِكُمْ أَوْ
+        تُخْفُوهُ يُحَاسِبْكُم بِهِ ٱللَّهُ فَيَغْفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُ وَٱللَّهُ
+        عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

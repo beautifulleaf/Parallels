@@ -2,9 +2,7 @@
 id: motif-hb-ps-49-no-ransom-vs-quran-70-ascending-stairways
 title: 'Psalm 49 - no man can ransom his brother ↔ The ascending stairways: the day of fifty thousand
   years and the steadfast worshippers'
-summary: 'These two units share 2 motifs: no man can ransom his brother or give god a ransom (kofer) for
-  him; the redemption of life is too costly [divergence between the texts], no man can ransom his brother
-  or give god a ransom (kofer) for him; the redemption of life is too costly.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -17,87 +15,9 @@ layers:
 motifs:
 - no-ransom-for-a-brother-as-divergence
 - no-ransom-for-a-brother
-passages:
-- tradition: judaism
-  ref: Ps 49:8
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly [divergence between the texts] (The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh
-    ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī
-    min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner
-    would ransom HIMSELF by giving up his sons, wife, brother and clan; both deny that any ransom works
-    (Ps 49:9 we-yēqar pidyôn nafšām; Q 70:15 kallā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: judaism
-  ref: Ps 49:9
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly [divergence between the texts] (The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh
-    ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī
-    min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner
-    would ransom HIMSELF by giving up his sons, wife, brother and clan; both deny that any ransom works
-    (Ps 49:9 we-yēqar pidyôn nafšām; Q 70:15 kallā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
-- tradition: islam
-  ref: Quran 70:11
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly [divergence between the texts] (The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh
-    ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī
-    min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner
-    would ransom HIMSELF by giving up his sons, wife, brother and clan; both deny that any ransom works
-    (Ps 49:9 we-yēqar pidyôn nafšām; Q 70:15 kallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُبَصَّرُونَهُمْ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ
-- tradition: islam
-  ref: Quran 70:12
-  note: 'No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly [divergence between the texts] (The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh
-    ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī
-    min ʿadhābi yawmiʾidhin bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner
-    would ransom HIMSELF by giving up his sons, wife, brother and clan; both deny that any ransom works
-    (Ps 49:9 we-yēqar pidyôn nafšām; Q 70:15 kallā).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَصَٰحِبَتِهِۦ وَأَخِيهِ
-- tradition: judaism
-  ref: Ps 49:8-10
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (49:8) אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ (49:9) וְ֭יֵקַר פִּדְי֥וֹן
-    נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם (49:10) וִֽיחִי ע֥וֹד לָנֶ֑צַח לֹ֖א יִרְאֶ֣ה הַשָּֽׁחַת
-- tradition: judaism
-  ref: Ps 49:8
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
-- tradition: islam
-  ref: Quran 70:11
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly (the sinner would ransom himself with sons, wife, brother, clan and all on earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُبَصَّرُونَهُمْ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ
-- tradition: islam
-  ref: Quran 70:12
-  note: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
-    too costly (the sinner would ransom himself with sons, wife, brother, clan and all on earth)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَصَٰحِبَتِهِۦ وَأَخِيهِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm kofrô
-    (no one can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī min ʿadhābi yawmiʾidhin
-    bi-banīhi wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner would ransom HIMSELF by
-    giving up his sons, wife, brother and clan; both deny that any ransom works (Ps 49:9 we-yēqar pidyôn
-    nafšām; Q 70:15 kallā).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: No man can ransom his brother or give God a ransom (kofer) for him;
     the redemption of life is too costly [divergence between the texts] (weight 6.7); No man can ransom
@@ -137,6 +57,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+  too costly
+kinds:
+- divergence
+units:
+- id: hb-ps-49-no-ransom
+  title: Psalm 49 - no man can ransom his brother
+  tradition: judaism
+- id: quran-70-ascending-stairways
+  title: 'The ascending stairways: the day of fifty thousand years and the steadfast worshippers'
+  tradition: islam
+matches:
+- kind: divergence
+  label: No man can ransom his brother or give God a ransom (kofer) for him; the redemption of life is
+    too costly
+  note: 'The brother changes place: Ps 49:8 ʾāḥ lōʾ fādōh yifdeh ʾîš lōʾ yittēn lēʾlōhîm kofrô (no one
+    can ransom his BROTHER). Q 70:11-14 yawaddu l-mujrimu law yaftadī min ʿadhābi yawmiʾidhin bi-banīhi
+    wa-ṣāḥibatihi wa-akhīhi ... wa-man fī l-arḍi jamīʿan: the sinner would ransom HIMSELF by giving up
+    his sons, wife, brother and clan; both deny that any ransom works (Ps 49:9 we-yēqar pidyôn nafšām;
+    Q 70:15 kallā).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 49:8
+      lang: he
+      text: אָ֗ח לֹא פָדֹ֣ה יִפְדֶּ֣ה אִ֑ישׁ לֹא יִתֵּ֖ן לֵאלֹהִ֣ים כָּפְרֽוֹ
+    - ref: Ps 49:9
+      lang: he
+      text: וְ֭יֵקַר פִּדְי֥וֹן נַפְשָׁ֗ם וְחָדַ֥ל לְעוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 70:11
+      lang: ar
+      text: يُبَصَّرُونَهُمْ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ
+    - ref: Quran 70:12
+      lang: ar
+      text: وَصَٰحِبَتِهِۦ وَأَخِيهِ
+    - ref: Quran 70:13
+      lang: ar
+      text: وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ
 ---
 
 ## Questions

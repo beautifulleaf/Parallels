@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-78-history-vs-quran-3-badr-uhud
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Badr and Uhud
-summary: 'These two units share 1 motifs: the sons of ephraim, armed archers, turned back on the day of
-  battle.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +13,9 @@ layers:
 - motif
 motifs:
 - ephraimite-archers-turn-back
-passages:
-- tradition: judaism
-  ref: Ps 78:9
-  note: The sons of Ephraim, armed archers, turned back on the day of battle
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּֽנֵי אֶפְרַ֗יִם נוֹשְׁקֵ֥י רוֹמֵי קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב
-- tradition: islam
-  ref: Quran 3:155
-  note: 'The sons of Ephraim, armed archers, turned back on the day of battle (Ps 78:9 bĕnê ʾeprayim nôšĕqê
-    rômê qešet hāpĕkû bĕ-yôm qĕrāb: the armed sons of Ephraim turned back on the day of battle; Q 3:155
-    inna lladhīna tawallaw minkum yawma ltaqā l-jamʿāni innamā stazallahumu sh-shayṭān ... wa-la-qad ʿafā
-    llāhu ʿanhum: those of you who turned back on the day the two hosts met were made to slip by Satan,
-    and God has pardoned them. Turning back in battle in both; the psalm sets it in a list of unfaithfulness,
-    the Quran blames Satan and pardons.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ
-    بِبَعْضِ مَا كَسَبُوا۟ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 78:9 bĕnê ʾeprayim nôšĕqê rômê qešet hāpĕkû bĕ-yôm qĕrāb: the armed sons of Ephraim turned
-    back on the day of battle; Q 3:155 inna lladhīna tawallaw minkum yawma ltaqā l-jamʿāni innamā stazallahumu
-    sh-shayṭān ... wa-la-qad ʿafā llāhu ʿanhum: those of you who turned back on the day the two hosts
-    met were made to slip by Satan, and God has pardoned them. Turning back in battle in both; the psalm
-    sets it in a list of unfaithfulness, the Quran blames Satan and pardons.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The sons of Ephraim, armed archers, turned back on the day of battle
     (weight 6.7). Pair score 6.7.'
@@ -73,6 +49,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The sons of Ephraim, armed archers, turned back on the day of battle
+kinds:
+- echo
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: echo
+  label: The sons of Ephraim, armed archers, turned back on the day of battle
+  note: 'Ps 78:9 bĕnê ʾeprayim nôšĕqê rômê qešet hāpĕkû bĕ-yôm qĕrāb: the armed sons of Ephraim turned
+    back on the day of battle; Q 3:155 inna lladhīna tawallaw minkum yawma ltaqā l-jamʿāni innamā stazallahumu
+    sh-shayṭān ... wa-la-qad ʿafā llāhu ʿanhum: those of you who turned back on the day the two hosts
+    met were made to slip by Satan, and God has pardoned them. Turning back in battle in both; the psalm
+    sets it in a list of unfaithfulness, the Quran blames Satan and pardons.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:9
+      lang: he
+      text: בְּֽנֵי אֶפְרַ֗יִם נוֹשְׁקֵ֥י רוֹמֵי קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 3:155
+      lang: ar
+      text: إِنَّ ٱلَّذِينَ تَوَلَّوْا۟ مِنكُمْ يَوْمَ ٱلْتَقَى ٱلْجَمْعَانِ إِنَّمَا ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ
+        بِبَعْضِ مَا كَسَبُوا۟ وَلَقَدْ عَفَا ٱللَّهُ عَنْهُمْ إِنَّ ٱللَّهَ غَفُورٌ حَلِيمٌ
 ---
 
 ## Questions

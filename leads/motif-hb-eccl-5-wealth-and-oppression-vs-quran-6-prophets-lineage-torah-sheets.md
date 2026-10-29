@@ -2,8 +2,7 @@
 id: motif-hb-eccl-5-wealth-and-oppression-vs-quran-6-prophets-lineage-torah-sheets
 title: Bureaucratic oppression, the love of money and wealth that perishes ↔ Abraham's line of eighteen
   prophets; Torah in sheets; the false claimant
-summary: 'These two units share 1 motifs: ''naked i came from my mother''s womb and naked i shall return
-  there''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,28 +15,9 @@ layers:
 - motif
 motifs:
 - naked-from-womb-naked-return
-passages:
-- tradition: judaism
-  ref: Eccl 5:14
-  note: '''Naked I came from my mother''s womb and naked I shall return there'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כַּאֲשֶׁ֤ר יָצָא֙ מִבֶּ֣טֶן אִמּ֔וֹ עָר֛וֹם יָשׁ֥וּב לָלֶ֖כֶת כְּשֶׁבָּ֑א וּמְא֨וּמָה֙ לֹא יִשָּׂ֣א
-    בַעֲמָל֔וֹ שֶׁיֹּלֵ֖ךְ בְּיָדֽוֹ
-- tradition: islam
-  ref: Quran 6:94
-  note: '''Naked I came from my mother''s womb and naked I shall return there'' (''you have come to Us
-    alone (furādā) as We created you the first time, leaving behind what We gave you'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ
-    وَرَآءَ ظُهُورِكُمْ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ شُرَكَٰٓؤُا۟
-    لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Eccl: ʿārôm yāšûv lāleket kə-šebbāʾ û-məʾûmāh lōʾ-yiśśāʾ va-ʿămālô šeyyōlēkh bə-yādô. Q:
-    wa-taraktum mā khawwalnākum warāʾa ẓuhūrikum. Possessions are left behind; Q adds the absent intercessors
-    (wa-mā narā maʿakum shufaʿāʾakum).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Naked I came from my mother''s womb and naked I shall return there''
     (weight 6.3). Pair score 6.3.'
@@ -72,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Naked I came from my mother''s womb and naked I shall return there'''
+kinds:
+- parallel
+units:
+- id: hb-eccl-5-wealth-and-oppression
+  title: Bureaucratic oppression, the love of money and wealth that perishes
+  tradition: judaism
+- id: quran-6-prophets-lineage-torah-sheets
+  title: Abraham's line of eighteen prophets; Torah in sheets; the false claimant
+  tradition: islam
+matches:
+- kind: parallel
+  label: '''Naked I came from my mother''s womb and naked I shall return there'''
+  note: 'Eccl: ʿārôm yāšûv lāleket kə-šebbāʾ û-məʾûmāh lōʾ-yiśśāʾ va-ʿămālô šeyyōlēkh bə-yādô. Q: wa-taraktum
+    mā khawwalnākum warāʾa ẓuhūrikum. Possessions are left behind; Q adds the absent intercessors (wa-mā
+    narā maʿakum shufaʿāʾakum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Eccl 5:14
+      lang: he
+      text: כַּאֲשֶׁ֤ר יָצָא֙ מִבֶּ֣טֶן אִמּ֔וֹ עָר֛וֹם יָשׁ֥וּב לָלֶ֖כֶת כְּשֶׁבָּ֑א וּמְא֨וּמָה֙ לֹא
+        יִשָּׂ֣א בַעֲמָל֔וֹ שֶׁיֹּלֵ֖ךְ בְּיָדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 6:94
+      lang: ar
+      text: وَلَقَدْ جِئْتُمُونَا فُرَٰدَىٰ كَمَا خَلَقْنَٰكُمْ أَوَّلَ مَرَّةٍ وَتَرَكْتُم مَّا خَوَّلْنَٰكُمْ
+        وَرَآءَ ظُهُورِكُمْ وَمَا نَرَىٰ مَعَكُمْ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمْتُمْ أَنَّهُمْ فِيكُمْ
+        شُرَكَٰٓؤُا۟ لَقَد تَّقَطَّعَ بَيْنَكُمْ وَضَلَّ عَنكُم مَّا كُنتُمْ تَزْعُمُونَ
 ---
 
 ## Questions

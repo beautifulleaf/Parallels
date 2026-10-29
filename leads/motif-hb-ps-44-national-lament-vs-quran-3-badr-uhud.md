@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-44-national-lament-vs-quran-3-badr-uhud
 title: Psalm 44 - national lament; why do you sleep, O Lord ↔ Badr and Uhud
-summary: 'These two units share 2 motifs: explaining a military defeat of god''s people [contrast between
-  the texts], those killed for god''s sake [divergence between the texts].'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -13,73 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- cause-of-defeat-as-contrast
 - those-killed-for-gods-sake-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 44:10
-  note: 'Explaining a military defeat of God''s people [contrast between the texts] (Ps 44:10, 18 ʾap
-    zānaḥtā ... wĕ-lōʾ tēṣēʾ bĕ-ṣibʾôtênû ... kol zōʾt bāʾatnû wĕ-lōʾ šĕkaḥănûkā: God did not go out with
-    our armies, all this came on us though we did not forget you; Q 3:165 qul huwa min ʿindi anfusikum:
-    the defeat is from yourselves. After a defeat, the psalm protests innocence and blames God''s absence;
-    the Quran puts the blame on the fighters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף זָ֭נַחְתָּ וַתַּכְלִימֵ֑נוּ וְלֹא תֵ֝צֵ֗א בְּצִבְאוֹתֵֽינוּ
-- tradition: judaism
-  ref: Ps 44:18
-  note: 'Explaining a military defeat of God''s people [contrast between the texts] (Ps 44:10, 18 ʾap
-    zānaḥtā ... wĕ-lōʾ tēṣēʾ bĕ-ṣibʾôtênû ... kol zōʾt bāʾatnû wĕ-lōʾ šĕkaḥănûkā: God did not go out with
-    our armies, all this came on us though we did not forget you; Q 3:165 qul huwa min ʿindi anfusikum:
-    the defeat is from yourselves. After a defeat, the psalm protests innocence and blames God''s absence;
-    the Quran puts the blame on the fighters.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּל זֹ֣את בָּ֭אַתְנוּ וְלֹ֣א שְׁכַחֲנ֑וּךָ וְלֹֽא שִׁ֝קַּ֗רְנוּ בִּבְרִיתֶֽךָ
-- tradition: islam
-  ref: Quran 3:165
-  note: 'Explaining a military defeat of God''s people [contrast between the texts] (Ps 44:10, 18 ʾap
-    zānaḥtā ... wĕ-lōʾ tēṣēʾ bĕ-ṣibʾôtênû ... kol zōʾt bāʾatnû wĕ-lōʾ šĕkaḥănûkā: God did not go out with
-    our armies, all this came on us though we did not forget you; Q 3:165 qul huwa min ʿindi anfusikum:
-    the defeat is from yourselves. After a defeat, the psalm protests innocence and blames God''s absence;
-    the Quran puts the blame on the fighters.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا قُلْ هُوَ
-    مِنْ عِندِ أَنفُسِكُمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: judaism
-  ref: Ps 44:23
-  note: 'Those killed for God''s sake [divergence between the texts] (Ps 44:23 kî ʿālêkā hōragnû kol ha-yyôm
-    neḥšabnû kĕ-ṣōʾn ṭibḥâ: for your sake we are killed, counted as sheep for slaughter, a complaint;
-    Q 3:169 wa-lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātan bal aḥyāʾun ʿinda rabbihim yurzaqūn:
-    those killed in God''s way are alive and provided for. Death ''for God'' as a reproach vs as a reward.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי עָ֭לֶיךָ הֹרַ֣גְנוּ כָל הַיּ֑וֹם נֶ֝חְשַׁ֗בְנוּ כְּצֹ֣אן טִבְחָֽה
-- tradition: islam
-  ref: Quran 3:169
-  note: 'Those killed for God''s sake [divergence between the texts] (Ps 44:23 kî ʿālêkā hōragnû kol ha-yyôm
-    neḥšabnû kĕ-ṣōʾn ṭibḥâ: for your sake we are killed, counted as sheep for slaughter, a complaint;
-    Q 3:169 wa-lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātan bal aḥyāʾun ʿinda rabbihim yurzaqūn:
-    those killed in God''s way are alive and provided for. Death ''for God'' as a reproach vs as a reward.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا بَلْ أَحْيَآءٌ عِندَ رَبِّهِمْ
-    يُرْزَقُونَ
+- cause-of-defeat-as-contrast
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    contrast, divergence. Ps 44:10, 18 ʾap zānaḥtā ... wĕ-lōʾ tēṣēʾ bĕ-ṣibʾôtênû ... kol zōʾt bāʾatnû
-    wĕ-lōʾ šĕkaḥănûkā: God did not go out with our armies, all this came on us though we did not forget
-    you; Q 3:165 qul huwa min ʿindi anfusikum: the defeat is from yourselves. After a defeat, the psalm
-    protests innocence and blames God''s absence; the Quran puts the blame on the fighters. Ps 44:23 kî
-    ʿālêkā hōragnû kol ha-yyôm neḥšabnû kĕ-ṣōʾn ṭibḥâ: for your sake we are killed, counted as sheep for
-    slaughter, a complaint; Q 3:169 wa-lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātan bal aḥyāʾun
-    ʿinda rabbihim yurzaqūn: those killed in God''s way are alive and provided for. Death ''for God''
-    as a reproach vs as a reward.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Explaining a military defeat of God''s people [contrast between
-    the texts] (weight 6.7); Those killed for God''s sake [divergence between the texts] (weight 6.7).
-    Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Those killed for God''s sake [divergence between the texts] (weight
+    6.7); Explaining a military defeat of God''s people [contrast between the texts] (weight 6.7). Pair
+    score 13.4.'
   basis: reading
 - text: 'Only in Psalm 44 - national lament; why do you sleep, O Lord: Our fathers told us what you did
     in their days: you dispossessed nations and planted them; God made his people a byword (mashal) among
@@ -108,6 +49,57 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those killed for God's sake
+kinds:
+- divergence
+- contrast
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: divergence
+  label: Those killed for God's sake
+  note: 'Ps 44:23 kî ʿālêkā hōragnû kol ha-yyôm neḥšabnû kĕ-ṣōʾn ṭibḥâ: for your sake we are killed, counted
+    as sheep for slaughter, a complaint; Q 3:169 wa-lā taḥsabanna lladhīna qutilū fī sabīli llāhi amwātan
+    bal aḥyāʾun ʿinda rabbihim yurzaqūn: those killed in God''s way are alive and provided for. Death
+    ''for God'' as a reproach vs as a reward.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:23
+      lang: he
+      text: כִּֽי עָ֭לֶיךָ הֹרַ֣גְנוּ כָל הַיּ֑וֹם נֶ֝חְשַׁ֗בְנוּ כְּצֹ֣אן טִבְחָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 3:169
+      lang: ar
+      text: وَلَا تَحْسَبَنَّ ٱلَّذِينَ قُتِلُوا۟ فِى سَبِيلِ ٱللَّهِ أَمْوَٰتًۢا بَلْ أَحْيَآءٌ عِندَ
+        رَبِّهِمْ يُرْزَقُونَ
+- kind: contrast
+  label: Explaining a military defeat of God's people
+  note: 'Ps 44:10, 18 ʾap zānaḥtā ... wĕ-lōʾ tēṣēʾ bĕ-ṣibʾôtênû ... kol zōʾt bāʾatnû wĕ-lōʾ šĕkaḥănûkā:
+    God did not go out with our armies, all this came on us though we did not forget you; Q 3:165 qul
+    huwa min ʿindi anfusikum: the defeat is from yourselves. After a defeat, the psalm protests innocence
+    and blames God''s absence; the Quran puts the blame on the fighters.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:10
+      lang: he
+      text: אַף זָ֭נַחְתָּ וַתַּכְלִימֵ֑נוּ וְלֹא תֵ֝צֵ֗א בְּצִבְאוֹתֵֽינוּ
+    - ref: Ps 44:18
+      lang: he
+      text: כָּל זֹ֣את בָּ֭אַתְנוּ וְלֹ֣א שְׁכַחֲנ֑וּךָ וְלֹֽא שִׁ֝קַּ֗רְנוּ בִּבְרִיתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:165
+      lang: ar
+      text: أَوَلَمَّآ أَصَٰبَتْكُم مُّصِيبَةٌ قَدْ أَصَبْتُم مِّثْلَيْهَا قُلْتُمْ أَنَّىٰ هَٰذَا قُلْ
+        هُوَ مِنْ عِندِ أَنفُسِكُمْ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

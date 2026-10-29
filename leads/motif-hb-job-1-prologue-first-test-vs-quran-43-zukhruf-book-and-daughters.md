@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-43-zukhruf-book-and-daughters
 title: 'Job''s piety, the heavenly council and the first test ↔ Ha-Mim: the Mother of the Book, the riding
   prayer and the ''daughters'' of God'
-summary: 'These two units share 1 motifs: whether heavenly beings are god''s sons or daughters, or his
-  servants [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - heavenly-beings-as-gods-children-as-contrast
-passages:
-- tradition: judaism
-  ref: Job 1:6
-  note: 'Whether heavenly beings are God''s sons or daughters, or his servants [contrast between the texts]
-    (Heavenly beings as God''s offspring: Job''s heavenly council is bənê hā-ʾĕlōhîm (''sons of God'')
-    standing before YHWH. The Quran denies the angels any filial status, male or female: wa-jaʿalū l-malāʾikata
-    lladhīna hum ʿibādu r-raḥmāni ināthan; a-mi ttakhadha mimmā yakhluqu banātin. Lead only: Q 43 attacks
-    the Arabian banāt Allāh, not Job; the contrast is between ''sons of God'' and ''servants of the Merciful''
-    for the same class of beings.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֨אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל יְהוָ֑ה וַיָּב֥וֹא גַֽם הַשָּׂטָ֖ן
-    בְּתוֹכָֽם
-- tradition: islam
-  ref: Quran 43:16
-  note: 'Whether heavenly beings are God''s sons or daughters, or his servants [contrast between the texts]
-    (Heavenly beings as God''s offspring: Job''s heavenly council is bənê hā-ʾĕlōhîm (''sons of God'')
-    standing before YHWH. The Quran denies the angels any filial status, male or female: wa-jaʿalū l-malāʾikata
-    lladhīna hum ʿibādu r-raḥmāni ināthan; a-mi ttakhadha mimmā yakhluqu banātin. Lead only: Q 43 attacks
-    the Arabian banāt Allāh, not Job; the contrast is between ''sons of God'' and ''servants of the Merciful''
-    for the same class of beings.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمِ ٱتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَىٰكُم بِٱلْبَنِينَ
-- tradition: islam
-  ref: Quran 43:19
-  note: 'Whether heavenly beings are God''s sons or daughters, or his servants [contrast between the texts]
-    (Heavenly beings as God''s offspring: Job''s heavenly council is bənê hā-ʾĕlōhîm (''sons of God'')
-    standing before YHWH. The Quran denies the angels any filial status, male or female: wa-jaʿalū l-malāʾikata
-    lladhīna hum ʿibādu r-raḥmāni ināthan; a-mi ttakhadha mimmā yakhluqu banātin. Lead only: Q 43 attacks
-    the Arabian banāt Allāh, not Job; the contrast is between ''sons of God'' and ''servants of the Merciful''
-    for the same class of beings.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا أَشَهِدُوا۟ خَلْقَهُمْ
-    سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Heavenly beings as God''s offspring: Job''s heavenly council is bənê hā-ʾĕlōhîm (''sons
-    of God'') standing before YHWH. The Quran denies the angels any filial status, male or female: wa-jaʿalū
-    l-malāʾikata lladhīna hum ʿibādu r-raḥmāni ināthan; a-mi ttakhadha mimmā yakhluqu banātin. Lead only:
-    Q 43 attacks the Arabian banāt Allāh, not Job; the contrast is between ''sons of God'' and ''servants
-    of the Merciful'' for the same class of beings.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether heavenly beings are God''s sons or daughters, or his servants
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -94,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether heavenly beings are God's sons or daughters, or his servants
+kinds:
+- contrast
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-43-zukhruf-book-and-daughters
+  title: 'Ha-Mim: the Mother of the Book, the riding prayer and the ''daughters'' of God'
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether heavenly beings are God's sons or daughters, or his servants
+  note: 'Heavenly beings as God''s offspring: Job''s heavenly council is bənê hā-ʾĕlōhîm (''sons of God'')
+    standing before YHWH. The Quran denies the angels any filial status, male or female: wa-jaʿalū l-malāʾikata
+    lladhīna hum ʿibādu r-raḥmāni ināthan; a-mi ttakhadha mimmā yakhluqu banātin. Lead only: Q 43 attacks
+    the Arabian banāt Allāh, not Job; the contrast is between ''sons of God'' and ''servants of the Merciful''
+    for the same class of beings.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:6
+      lang: he
+      text: וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֨אוּ֙ בְּנֵ֣י הָאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל יְהוָ֑ה וַיָּב֥וֹא גַֽם
+        הַשָּׂטָ֖ן בְּתוֹכָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 43:16
+      lang: ar
+      text: أَمِ ٱتَّخَذَ مِمَّا يَخْلُقُ بَنَاتٍ وَأَصْفَىٰكُم بِٱلْبَنِينَ
+    - ref: Quran 43:19
+      lang: ar
+      text: وَجَعَلُوا۟ ٱلْمَلَٰٓئِكَةَ ٱلَّذِينَ هُمْ عِبَٰدُ ٱلرَّحْمَٰنِ إِنَٰثًا أَشَهِدُوا۟ خَلْقَهُمْ
+        سَتُكْتَبُ شَهَٰدَتُهُمْ وَيُسْـَٔلُونَ
 ---
 
 ## Questions

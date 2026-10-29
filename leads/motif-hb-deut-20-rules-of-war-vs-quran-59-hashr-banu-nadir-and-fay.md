@@ -2,8 +2,7 @@
 id: motif-hb-deut-20-rules-of-war-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'Rules of war: exemptions, peace terms, fruit trees ↔ Al-Hashr: the first gathering and exile of
   the Banu Nadir, the cut palms, and the law of fay'''
-summary: 'These two units share 2 motifs: whether the enemy''s trees may be cut down in a siege [contrast
-  between the texts], do not cut down fruit trees during a siege: is the tree of the field a man?.'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -16,74 +15,9 @@ layers:
 motifs:
 - cutting-trees-in-a-siege-as-contrast
 - spare-fruit-trees-in-siege
-passages:
-- tradition: judaism
-  ref: Deut 20:19
-  note: 'Whether the enemy''s trees may be cut down in a siege [contrast between the texts] (Cutting the
-    enemy''s trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr ... lōʾ ṯašḥîṯ ʾeṯ
-    ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ kî lōʾ ʿēṣ maʾăḵāl
-    hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāhi wa-li-yukhziya
-    l-fāsiqīn (whatever palms you cut or left standing was by God''s leave). Date palms are fruit trees;
-    the Quran sanctions what Deuteronomy forbids, for a given siege.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תָצ֣וּר אֶל עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתָפְשָׂ֗הּ לֹֽא תַשְׁחִ֤ית אֶת
-    עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י הָֽאָדָם֙
-    עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר
-- tradition: judaism
-  ref: Deut 20:20
-  note: 'Whether the enemy''s trees may be cut down in a siege [contrast between the texts] (Cutting the
-    enemy''s trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr ... lōʾ ṯašḥîṯ ʾeṯ
-    ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ kî lōʾ ʿēṣ maʾăḵāl
-    hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāhi wa-li-yukhziya
-    l-fāsiqīn (whatever palms you cut or left standing was by God''s leave). Date palms are fruit trees;
-    the Quran sanctions what Deuteronomy forbids, for a given siege.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֞ק עֵ֣ץ אֲשֶׁר תֵּדַ֗ע כִּֽי לֹא עֵ֤ץ מַאֲכָל֙ ה֔וּא אֹת֥וֹ תַשְׁחִ֖ית וְכָרָ֑תָּ וּבָנִ֣יתָ
-    מָצ֗וֹר עַל הָעִיר֙ אֲשֶׁר הִ֨וא עֹשָׂ֧ה עִמְּךָ֛ מִלְחָמָ֖ה עַ֥ד רִדְתָּֽהּ
-- tradition: islam
-  ref: Quran 59:5
-  note: 'Whether the enemy''s trees may be cut down in a siege [contrast between the texts] (Cutting the
-    enemy''s trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr ... lōʾ ṯašḥîṯ ʾeṯ
-    ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ kî lōʾ ʿēṣ maʾăḵāl
-    hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni llāhi wa-li-yukhziya
-    l-fāsiqīn (whatever palms you cut or left standing was by God''s leave). Date palms are fruit trees;
-    the Quran sanctions what Deuteronomy forbids, for a given siege.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
-    وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
-- tradition: judaism
-  ref: Deut 20:19
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (כי האדם עץ השדה)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תָצ֣וּר אֶל עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתָפְשָׂ֗הּ לֹֽא תַשְׁחִ֤ית אֶת
-    עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י הָֽאָדָם֙
-    עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר
-- tradition: judaism
-  ref: Deut 20:20
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (כי האדם עץ השדה)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֞ק עֵ֣ץ אֲשֶׁר תֵּדַ֗ע כִּֽי לֹא עֵ֤ץ מַאֲכָל֙ ה֔וּא אֹת֥וֹ תַשְׁחִ֖ית וְכָרָ֑תָּ וּבָנִ֣יתָ
-    מָצ֗וֹר עַל הָעִיר֙ אֲשֶׁר הִ֨וא עֹשָׂ֧ה עִמְּךָ֛ מִלְחָמָ֖ה עַ֥ד רִדְתָּֽהּ
-- tradition: islam
-  ref: Quran 59:5
-  note: 'Do not cut down fruit trees during a siege: is the tree of the field a man? (contrast: cutting
-    the enemy''s palms is permitted by God''s leave (Deut 20:19 forbids))'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
-    وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. Cutting the enemy''s trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr
-    ... lōʾ ṯašḥîṯ ʾeṯ ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ
-    kî lōʾ ʿēṣ maʾăḵāl hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni
-    llāhi wa-li-yukhziya l-fāsiqīn (whatever palms you cut or left standing was by God''s leave). Date
-    palms are fruit trees; the Quran sanctions what Deuteronomy forbids, for a given siege.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the enemy''s trees may be cut down in a siege [contrast
     between the texts] (weight 6.7); Do not cut down fruit trees during a siege: is the tree of the field
@@ -123,6 +57,65 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the enemy's trees may be cut down in a siege
+kinds:
+- contrast
+- shared
+units:
+- id: hb-deut-20-rules-of-war
+  title: 'Rules of war: exemptions, peace terms, fruit trees'
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the enemy's trees may be cut down in a siege
+  note: 'Cutting the enemy''s trees during a siege: opposite rulings. Deuteronomy: kî ṯāṣûr ʾel ʿîr ...
+    lōʾ ṯašḥîṯ ʾeṯ ʿēṣāh ... kî mimmennû ṯōʾḵēl, only non-fruit trees may be cut (raq ʿēṣ ʾăšer tēḏaʿ
+    kî lōʾ ʿēṣ maʾăḵāl hûʾ). Quran: mā qaṭaʿtum min līnatin aw taraktumūhā qāʾimatan ʿalā uṣūlihā fa-bi-idhni
+    llāhi wa-li-yukhziya l-fāsiqīn (whatever palms you cut or left standing was by God''s leave). Date
+    palms are fruit trees; the Quran sanctions what Deuteronomy forbids, for a given siege.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:19
+      lang: he
+      text: כִּֽי תָצ֣וּר אֶל עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתָפְשָׂ֗הּ לֹֽא תַשְׁחִ֤ית
+        אֶת עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י
+        הָֽאָדָם֙ עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר
+    - ref: Deut 20:20
+      lang: he
+      text: רַ֞ק עֵ֣ץ אֲשֶׁר תֵּדַ֗ע כִּֽי לֹא עֵ֤ץ מַאֲכָל֙ ה֔וּא אֹת֥וֹ תַשְׁחִ֖ית וְכָרָ֑תָּ וּבָנִ֣יתָ
+        מָצ֗וֹר עַל הָעִיר֙ אֲשֶׁר הִ֨וא עֹשָׂ֧ה עִמְּךָ֛ מִלְחָמָ֖ה עַ֥ד רִדְתָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 59:5
+      lang: ar
+      text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
+        وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
+- kind: shared
+  label: 'Do not cut down fruit trees during a siege: is the tree of the field a man?'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 20:19
+      lang: he
+      text: כִּֽי תָצ֣וּר אֶל עִיר֩ יָמִ֨ים רַבִּ֜ים לְֽהִלָּחֵ֧ם עָלֶ֣יהָ לְתָפְשָׂ֗הּ לֹֽא תַשְׁחִ֤ית
+        אֶת עֵצָהּ֙ לִנְדֹּ֤חַ עָלָיו֙ גַּרְזֶ֔ן כִּ֚י מִמֶּ֣נּוּ תֹאכֵ֔ל וְאֹת֖וֹ לֹ֣א תִכְרֹ֑ת כִּ֤י
+        הָֽאָדָם֙ עֵ֣ץ הַשָּׂדֶ֔ה לָבֹ֥א מִפָּנֶ֖יךָ בַּמָּצֽוֹר
+    - ref: Deut 20:20
+      lang: he
+      text: רַ֞ק עֵ֣ץ אֲשֶׁר תֵּדַ֗ע כִּֽי לֹא עֵ֤ץ מַאֲכָל֙ ה֔וּא אֹת֥וֹ תַשְׁחִ֖ית וְכָרָ֑תָּ וּבָנִ֣יתָ
+        מָצ֗וֹר עַל הָעִיר֙ אֲשֶׁר הִ֨וא עֹשָׂ֧ה עִמְּךָ֛ מִלְחָמָ֖ה עַ֥ד רִדְתָּֽהּ
+    note: כי האדם עץ השדה
+  - tradition: islam
+    passages:
+    - ref: Quran 59:5
+      lang: ar
+      text: مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ
+        وَلِيُخْزِىَ ٱلْفَٰسِقِينَ
+    note: 'contrast: cutting the enemy''s palms is permitted by God''s leave (Deut 20:19 forbids)'
 ---
 
 ## Questions

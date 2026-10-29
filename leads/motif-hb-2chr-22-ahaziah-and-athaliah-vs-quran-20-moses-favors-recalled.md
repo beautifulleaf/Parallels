@@ -2,7 +2,7 @@
 id: motif-hb-2chr-22-ahaziah-and-athaliah-vs-quran-20-moses-favors-recalled
 title: Ahaziah counselled by his mother, killed by Jehu; Athaliah's purge and Joash hidden ↔ God recalls
   his favors to Moses from infancy to Midian
-summary: 'These two units share 1 motifs: infant found by members of a royal household.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,50 +14,9 @@ layers:
 - motif
 motifs:
 - found-by-royal-household
-passages:
-- tradition: judaism
-  ref: 2Chr 22:10
-  note: 'Infant found by members of a royal household (An infant saved from a royal massacre by a woman''s
-    ruse and hidden with his nurse: wattignōb ʾōtô mittôk bənê-hammelek hammûmātîm wattittēn ʾōtô wəʾet-mêniqtô
-    ... wattastîrēhû; rajaʿnāka ilā ummika ... hal adullukum ʿalā man yakfuluh. Joash is hidden from the
-    queen in God''s house; Moses is raised inside the killer''s own house.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַעֲתַלְיָ֨הוּ֙ אֵ֣ם אֲחַזְיָ֔הוּ רָאֲתָ֖ה כִּ֣י מֵ֣ת בְּנָ֑הּ וַתָּ֗קָם וַתְּדַבֵּ֛ר אֶת כָּל
-    זֶ֥רַע הַמַּמְלָכָ֖ה לְבֵ֥ית יְהוּדָֽה
-- tradition: judaism
-  ref: 2Chr 22:11
-  note: 'Infant found by members of a royal household (An infant saved from a royal massacre by a woman''s
-    ruse and hidden with his nurse: wattignōb ʾōtô mittôk bənê-hammelek hammûmātîm wattittēn ʾōtô wəʾet-mêniqtô
-    ... wattastîrēhû; rajaʿnāka ilā ummika ... hal adullukum ʿalā man yakfuluh. Joash is hidden from the
-    queen in God''s house; Moses is raised inside the killer''s own house.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּקַּח֩ יְהוֹשַׁבְעַ֨ת בַּת הַמֶּ֜לֶךְ אֶת יוֹאָ֣שׁ בֶּן אֲחַזְיָ֗הוּ וַתִּגְנֹ֤ב אֹתוֹ֙ מִתּ֤וֹךְ
-    בְּנֵֽי הַמֶּ֨לֶךְ֙ הַמּ֣וּמָתִ֔ים וַתִּתֵּ֥ן אֹת֛וֹ וְאֶת מֵֽינִקְתּ֖וֹ בַּחֲדַ֣ר הַמִּטּ֑וֹת וַתַּסְתִּירֵ֡הוּ
-    יְהוֹשַׁבְעַ֣ת בַּת הַמֶּ֣לֶךְ יְהוֹרָ֡ם אֵשֶׁת֩ יְהוֹיָדָ֨ע הַכֹּהֵ֜ן כִּ֣י הִיא֩ הָיְתָ֨ה אֲח֧וֹת
-    אֲחַזְיָ֛הוּ מִפְּנֵ֥י עֲתַלְיָ֖הוּ וְלֹ֥א הֱמִיתָֽתְהוּ
-- tradition: islam
-  ref: Quran 20:39
-  note: Infant found by members of a royal household (taken by 'an enemy to me and an enemy to him')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
-    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
-- tradition: islam
-  ref: Quran 20:40
-  note: Infant found by members of a royal household (taken by 'an enemy to me and an enemy to him')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
-    أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ وَفَتَنَّٰكَ
-    فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. An infant saved from a royal massacre by a woman''s ruse and hidden with his nurse: wattignōb
-    ʾōtô mittôk bənê-hammelek hammûmātîm wattittēn ʾōtô wəʾet-mêniqtô ... wattastîrēhû; rajaʿnāka ilā
-    ummika ... hal adullukum ʿalā man yakfuluh. Joash is hidden from the queen in God''s house; Moses
-    is raised inside the killer''s own house.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Infant found by members of a royal household (weight 5.6). Pair
     score 5.6.'
@@ -88,6 +47,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Infant found by members of a royal household
+kinds:
+- echo
+units:
+- id: hb-2chr-22-ahaziah-and-athaliah
+  title: Ahaziah counselled by his mother, killed by Jehu; Athaliah's purge and Joash hidden
+  tradition: judaism
+- id: quran-20-moses-favors-recalled
+  title: God recalls his favors to Moses from infancy to Midian
+  tradition: islam
+matches:
+- kind: echo
+  label: Infant found by members of a royal household
+  note: 'An infant saved from a royal massacre by a woman''s ruse and hidden with his nurse: wattignōb
+    ʾōtô mittôk bənê-hammelek hammûmātîm wattittēn ʾōtô wəʾet-mêniqtô ... wattastîrēhû; rajaʿnāka ilā
+    ummika ... hal adullukum ʿalā man yakfuluh. Joash is hidden from the queen in God''s house; Moses
+    is raised inside the killer''s own house.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Chr 22:10
+      lang: he
+      text: וַעֲתַלְיָ֨הוּ֙ אֵ֣ם אֲחַזְיָ֔הוּ רָאֲתָ֖ה כִּ֣י מֵ֣ת בְּנָ֑הּ וַתָּ֗קָם וַתְּדַבֵּ֛ר אֶת
+        כָּל זֶ֥רַע הַמַּמְלָכָ֖ה לְבֵ֥ית יְהוּדָֽה
+    - ref: 2Chr 22:11
+      lang: he
+      text: וַתִּקַּח֩ יְהוֹשַׁבְעַ֨ת בַּת הַמֶּ֜לֶךְ אֶת יוֹאָ֣שׁ בֶּן אֲחַזְיָ֗הוּ וַתִּגְנֹ֤ב אֹתוֹ֙
+        מִתּ֤וֹךְ בְּנֵֽי הַמֶּ֨לֶךְ֙ הַמּ֣וּמָתִ֔ים וַתִּתֵּ֥ן אֹת֛וֹ וְאֶת מֵֽינִקְתּ֖וֹ בַּחֲדַ֣ר הַמִּטּ֑וֹת
+        וַתַּסְתִּירֵ֡הוּ יְהוֹשַׁבְעַ֣ת בַּת הַמֶּ֣לֶךְ יְהוֹרָ֡ם אֵשֶׁת֩ יְהוֹיָדָ֨ע הַכֹּהֵ֜ן כִּ֣י
+        הִיא֩ הָיְתָ֨ה אֲח֧וֹת אֲחַזְיָ֛הוּ מִפְּנֵ֥י עֲתַלְיָ֖הוּ וְלֹ֥א הֱמִיתָֽתְהוּ
+    - ref: 2Chr 22:12
+      lang: he
+      text: וַיְהִ֤י אִתָּם֙ בְּבֵ֣ית הָֽאֱלֹהִ֔ים מִתְחַבֵּ֖א שֵׁ֣שׁ שָׁנִ֖ים וַעֲתַלְיָ֖ה מֹלֶ֥כֶת עַל
+        הָאָֽרֶץ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:39
+      lang: ar
+      text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ
+        يَأْخُذْهُ عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ
+        عَلَىٰ عَيْنِىٓ
+    - ref: Quran 20:40
+      lang: ar
+      text: إِذْ تَمْشِىٓ أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُۥ فَرَجَعْنَٰكَ إِلَىٰٓ
+        أُمِّكَ كَىْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَٰكَ مِنَ ٱلْغَمِّ
+        وَفَتَنَّٰكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِىٓ أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَٰمُوسَىٰ
 ---
 
 ## Questions

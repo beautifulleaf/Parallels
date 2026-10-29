@@ -2,7 +2,7 @@
 id: motif-hb-jer-31-consolation-new-covenant-vs-quran-2-call-to-worship
 title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
   ↔ Call to worship the Creator; the challenge; paradise and the gnat
-summary: 'These two units share 1 motifs: the people break the covenant god made with them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,30 +14,9 @@ layers:
 - motif
 motifs:
 - people-break-gods-covenant
-passages:
-- tradition: judaism
-  ref: Jer 31:32
-  note: 'The people break the covenant God made with them (Jer 31:32 ʾăšer hēmmâ hēpērû ʾet bĕrîtî; Q
-    2:27 alladhīna yanquḍūna ʿahda llāhi min baʿdi mīthāqihi: those who break God''s covenant after its
-    pledge. Jeremiah answers with a new covenant; the Quran with ''they are the losers'' (humu l-khāsirūn).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א כַבְּרִ֗ית אֲשֶׁ֤ר כָּרַ֨תִּי֙ אֶת אֲבוֹתָ֔ם בְּיוֹם֙ הֶחֱזִיקִ֣י בְיָדָ֔ם לְהוֹצִיאָ֖ם מֵאֶ֖רֶץ
-    מִצְרָ֑יִם אֲשֶׁר הֵ֜מָּה הֵפֵ֣רוּ אֶת בְּרִיתִ֗י וְאָנֹכִ֛י בָּעַ֥לְתִּי בָ֖ם נְאֻם יְהוָֽה
-- tradition: islam
-  ref: Quran 2:27
-  note: 'The people break the covenant God made with them (Jer 31:32 ʾăšer hēmmâ hēpērû ʾet bĕrîtî; Q
-    2:27 alladhīna yanquḍūna ʿahda llāhi min baʿdi mīthāqihi: those who break God''s covenant after its
-    pledge. Jeremiah answers with a new covenant; the Quran with ''they are the losers'' (humu l-khāsirūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
-    بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Jer 31:32 ʾăšer hēmmâ hēpērû ʾet bĕrîtî; Q 2:27 alladhīna yanquḍūna ʿahda llāhi min baʿdi mīthāqihi:
-    those who break God''s covenant after its pledge. Jeremiah answers with a new covenant; the Quran
-    with ''they are the losers'' (humu l-khāsirūn).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people break the covenant God made with them (weight 6.7). Pair
     score 6.7.'
@@ -72,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people break the covenant God made with them
+kinds:
+- echo
+units:
+- id: hb-jer-31-consolation-new-covenant
+  title: Return of Ephraim, Rachel weeping in Ramah, sour grapes, the new covenant and the measured city
+  tradition: judaism
+- id: quran-2-call-to-worship
+  title: Call to worship the Creator; the challenge; paradise and the gnat
+  tradition: islam
+matches:
+- kind: echo
+  label: The people break the covenant God made with them
+  note: 'Jer 31:32 ʾăšer hēmmâ hēpērû ʾet bĕrîtî; Q 2:27 alladhīna yanquḍūna ʿahda llāhi min baʿdi mīthāqihi:
+    those who break God''s covenant after its pledge. Jeremiah answers with a new covenant; the Quran
+    with ''they are the losers'' (humu l-khāsirūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 31:32
+      lang: he
+      text: לֹ֣א כַבְּרִ֗ית אֲשֶׁ֤ר כָּרַ֨תִּי֙ אֶת אֲבוֹתָ֔ם בְּיוֹם֙ הֶחֱזִיקִ֣י בְיָדָ֔ם לְהוֹצִיאָ֖ם
+        מֵאֶ֖רֶץ מִצְרָ֑יִם אֲשֶׁר הֵ֜מָּה הֵפֵ֣רוּ אֶת בְּרִיתִ֗י וְאָנֹכִ֛י בָּעַ֥לְתִּי בָ֖ם נְאֻם
+        יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 2:27
+      lang: ar
+      text: ٱلَّذِينَ يَنقُضُونَ عَهْدَ ٱللَّهِ مِنۢ بَعْدِ مِيثَٰقِهِۦ وَيَقْطَعُونَ مَآ أَمَرَ ٱللَّهُ
+        بِهِۦٓ أَن يُوصَلَ وَيُفْسِدُونَ فِى ٱلْأَرْضِ أُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
 ---
 
 ## Questions

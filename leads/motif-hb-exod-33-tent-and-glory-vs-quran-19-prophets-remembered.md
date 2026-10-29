@@ -2,8 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-19-prophets-remembered
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ Moses, Ishmael and Idris remembered;
   the later generation that neglected prayer (Surah 19:51-65)
-summary: 'These two units share 1 motifs: god called moses and drew him near in confidential converse
-  (najiyy).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,26 +15,9 @@ layers:
 - motif
 motifs:
 - moses-drawn-near-in-confidential-speech
-passages:
-- tradition: judaism
-  ref: Exod 33:11
-  note: 'God called Moses and drew him near in confidential converse (najiyy) (wədibber YHWH ʾel-mōšeh
-    pānîm ʾel-pānîm kaʾăšer yədabbēr ʾîš ʾel-rēʿēhû; wa-qarrabnāhu najiyyā: God speaks to Moses in intimate
-    converse, as with a friend.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ וְשָׁב֙
-    אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ הָאֹֽהֶל
-- tradition: islam
-  ref: Quran 19:52
-  note: God called Moses and drew him near in confidential converse (najiyy) (qarrabnāhu najiyyan)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wədibber YHWH ʾel-mōšeh pānîm ʾel-pānîm kaʾăšer yədabbēr ʾîš ʾel-rēʿēhû; wa-qarrabnāhu najiyyā:
-    God speaks to Moses in intimate converse, as with a friend.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God called Moses and drew him near in confidential converse (najiyy)
     (weight 6.7). Pair score 6.7.'
@@ -69,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God called Moses and drew him near in confidential converse (najiyy)
+kinds:
+- parallel
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-19-prophets-remembered
+  title: Moses, Ishmael and Idris remembered; the later generation that neglected prayer (Surah 19:51-65)
+  tradition: islam
+matches:
+- kind: parallel
+  label: God called Moses and drew him near in confidential converse (najiyy)
+  note: 'wədibber YHWH ʾel-mōšeh pānîm ʾel-pānîm kaʾăšer yədabbēr ʾîš ʾel-rēʿēhû; wa-qarrabnāhu najiyyā:
+    God speaks to Moses in intimate converse, as with a friend.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:11
+      lang: he
+      text: וְדִבֶּ֨ר יְהוָ֤ה אֶל מֹשֶׁה֙ פָּנִ֣ים אֶל פָּנִ֔ים כַּאֲשֶׁ֛ר יְדַבֵּ֥ר אִ֖ישׁ אֶל רֵעֵ֑הוּ
+        וְשָׁב֙ אֶל הַֽמַּחֲנֶ֔ה וּמְשָׁ֨רְת֜וֹ יְהוֹשֻׁ֤עַ בִּן נוּן֙ נַ֔עַר לֹ֥א יָמִ֖ישׁ מִתּ֥וֹךְ
+        הָאֹֽהֶל
+  - tradition: islam
+    passages:
+    - ref: Quran 19:52
+      lang: ar
+      text: وَنَٰدَيْنَٰهُ مِن جَانِبِ ٱلطُّورِ ٱلْأَيْمَنِ وَقَرَّبْنَٰهُ نَجِيًّا
 ---
 
 ## Questions

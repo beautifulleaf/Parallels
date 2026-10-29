@@ -2,8 +2,7 @@
 id: motif-hb-lev-19-holiness-code-a-vs-quran-51-dhariyat-oaths-and-the-righteous
 title: 'Be holy - ethical laws and love of neighbor ↔ Al-Dhariyat: the oath by the winds, the conjecturers,
   the night-wakeful righteous and the beggar''s due'
-summary: 'These two units share 2 motifs: the share of the poor in the owner''s harvest or wealth [divergence
-  between the texts], corners of the field, gleanings and fallen grapes left for the poor and the stranger.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,70 +15,9 @@ layers:
 motifs:
 - poor-share-in-owners-goods-as-divergence
 - gleanings-and-corners-left-for-poor
-passages:
-- tradition: judaism
-  ref: Lev 19:9
-  note: 'The share of the poor in the owner''s harvest or wealth [divergence between the texts] (The poor''s
-    share in the owner''s goods. Leviticus: lōʾ ṯəḵalleh pəʾaṯ śāḏəḵā ... wə-leqeṭ qəṣîrəḵā lōʾ ṯəlaqqēṭ
-    ... le-ʿānî wə-lag-gēr taʿăzōḇ ʾōṯām (corners and gleanings of field and vineyard, for the poor and
-    the stranger). Quran: wa-fī amwālihim ḥaqqun li-s-sāʾili wa-l-maḥrūm (in their wealth a right for
-    the beggar and the deprived). A share of the harvest left in the field becomes a ''right'' (ḥaqq)
-    in property generally; the stranger (gēr) gives way to the beggar and the deprived.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
-    לֹ֥א תְלַקֵּֽט
-- tradition: judaism
-  ref: Lev 19:10
-  note: 'The share of the poor in the owner''s harvest or wealth [divergence between the texts] (The poor''s
-    share in the owner''s goods. Leviticus: lōʾ ṯəḵalleh pəʾaṯ śāḏəḵā ... wə-leqeṭ qəṣîrəḵā lōʾ ṯəlaqqēṭ
-    ... le-ʿānî wə-lag-gēr taʿăzōḇ ʾōṯām (corners and gleanings of field and vineyard, for the poor and
-    the stranger). Quran: wa-fī amwālihim ḥaqqun li-s-sāʾili wa-l-maḥrūm (in their wealth a right for
-    the beggar and the deprived). A share of the harvest left in the field becomes a ''right'' (ḥaqq)
-    in property generally; the stranger (gēr) gives way to the beggar and the deprived.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 51:19
-  note: 'The share of the poor in the owner''s harvest or wealth [divergence between the texts] (The poor''s
-    share in the owner''s goods. Leviticus: lōʾ ṯəḵalleh pəʾaṯ śāḏəḵā ... wə-leqeṭ qəṣîrəḵā lōʾ ṯəlaqqēṭ
-    ... le-ʿānî wə-lag-gēr taʿăzōḇ ʾōṯām (corners and gleanings of field and vineyard, for the poor and
-    the stranger). Quran: wa-fī amwālihim ḥaqqun li-s-sāʾili wa-l-maḥrūm (in their wealth a right for
-    the beggar and the deprived). A share of the harvest left in the field becomes a ''right'' (ḥaqq)
-    in property generally; the stranger (gēr) gives way to the beggar and the deprived.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
-- tradition: judaism
-  ref: Lev 19:9
-  note: Corners of the field, gleanings and fallen grapes left for the poor and the stranger
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
-    לֹ֥א תְלַקֵּֽט
-- tradition: judaism
-  ref: Lev 19:10
-  note: Corners of the field, gleanings and fallen grapes left for the poor and the stranger
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם
-    אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 51:19
-  note: Corners of the field, gleanings and fallen grapes left for the poor and the stranger (the poor's
-    'right' in the owner's property)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. The poor''s share in the owner''s goods. Leviticus: lōʾ ṯəḵalleh pəʾaṯ śāḏəḵā ... wə-leqeṭ
-    qəṣîrəḵā lōʾ ṯəlaqqēṭ ... le-ʿānî wə-lag-gēr taʿăzōḇ ʾōṯām (corners and gleanings of field and vineyard,
-    for the poor and the stranger). Quran: wa-fī amwālihim ḥaqqun li-s-sāʾili wa-l-maḥrūm (in their wealth
-    a right for the beggar and the deprived). A share of the harvest left in the field becomes a ''right''
-    (ḥaqq) in property generally; the stranger (gēr) gives way to the beggar and the deprived.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The share of the poor in the owner''s harvest or wealth [divergence
     between the texts] (weight 6.7); Corners of the field, gleanings and fallen grapes left for the poor
@@ -111,6 +49,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The share of the poor in the owner's harvest or wealth
+kinds:
+- divergence
+- shared
+units:
+- id: hb-lev-19-holiness-code-a
+  title: Be holy - ethical laws and love of neighbor
+  tradition: judaism
+- id: quran-51-dhariyat-oaths-and-the-righteous
+  title: 'Al-Dhariyat: the oath by the winds, the conjecturers, the night-wakeful righteous and the beggar''s
+    due'
+  tradition: islam
+matches:
+- kind: divergence
+  label: The share of the poor in the owner's harvest or wealth
+  note: 'The poor''s share in the owner''s goods. Leviticus: lōʾ ṯəḵalleh pəʾaṯ śāḏəḵā ... wə-leqeṭ qəṣîrəḵā
+    lōʾ ṯəlaqqēṭ ... le-ʿānî wə-lag-gēr taʿăzōḇ ʾōṯām (corners and gleanings of field and vineyard, for
+    the poor and the stranger). Quran: wa-fī amwālihim ḥaqqun li-s-sāʾili wa-l-maḥrūm (in their wealth
+    a right for the beggar and the deprived). A share of the harvest left in the field becomes a ''right''
+    (ḥaqq) in property generally; the stranger (gēr) gives way to the beggar and the deprived.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:9
+      lang: he
+      text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
+        לֹ֥א תְלַקֵּֽט
+    - ref: Lev 19:10
+      lang: he
+      text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב
+        אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 51:19
+      lang: ar
+      text: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
+- kind: shared
+  label: Corners of the field, gleanings and fallen grapes left for the poor and the stranger
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 19:9
+      lang: he
+      text: וּֽבְקֻצְרְכֶם֙ אֶת קְצִ֣יר אַרְצְכֶ֔ם לֹ֧א תְכַלֶּ֛ה פְּאַ֥ת שָׂדְךָ֖ לִקְצֹ֑ר וְלֶ֥קֶט קְצִֽירְךָ֖
+        לֹ֥א תְלַקֵּֽט
+    - ref: Lev 19:10
+      lang: he
+      text: וְכַרְמְךָ֙ לֹ֣א תְעוֹלֵ֔ל וּפֶ֥רֶט כַּרְמְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב
+        אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 51:19
+      lang: ar
+      text: وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ
+    note: the poor's 'right' in the owner's property
 ---
 
 ## Questions

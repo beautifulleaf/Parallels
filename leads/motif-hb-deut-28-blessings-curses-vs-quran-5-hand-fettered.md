@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-28-blessings-curses-vs-quran-5-hand-fettered
 title: Blessings and the great curses ↔ 'God's hand is fettered'; the blessings of observing the Torah
-summary: 'These two units share 1 motifs: had they observed the torah and gospel they would have eaten
-  from above them and beneath their feet.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - eat-from-above-and-below
-passages:
-- tradition: judaism
-  ref: Deut 28:12
-  note: 'Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet (Deut: yiftaḥ YHWH ləkhā ʾet-ʾôṣārô haṭ-ṭôv ʾet-haš-šāmayim lātēt məṭar-ʾarṣəkhā bə-ʿittô. Q:
-    la-akalū min fawqihim wa-min taḥti arjulihim, conditional on aqāmū l-tawrāta.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִפְתַּ֣ח יְהוָ֣ה לְ֠ךָ אֶת אוֹצָר֨וֹ הַטּ֜וֹב אֶת הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר אַרְצְךָ֙ בְּעִתּ֔וֹ
-    וּלְבָרֵ֕ךְ אֵ֖ת כָּל מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֨יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה
-- tradition: islam
-  ref: Quran 5:66
-  note: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
-    feet
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
-    لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ مِّنْهُمْ
-    سَآءَ مَا يَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Deut: yiftaḥ YHWH ləkhā ʾet-ʾôṣārô haṭ-ṭôv ʾet-haš-šāmayim lātēt məṭar-ʾarṣəkhā bə-ʿittô.
-    Q: la-akalū min fawqihim wa-min taḥti arjulihim, conditional on aqāmū l-tawrāta.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Had they observed the Torah and Gospel they would have eaten from
     above them and beneath their feet (weight 6.0). Pair score 6.0.'
@@ -70,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+  feet
+kinds:
+- parallel
+units:
+- id: hb-deut-28-blessings-curses
+  title: Blessings and the great curses
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Had they observed the Torah and Gospel they would have eaten from above them and beneath their
+    feet
+  note: 'Deut: yiftaḥ YHWH ləkhā ʾet-ʾôṣārô haṭ-ṭôv ʾet-haš-šāmayim lātēt məṭar-ʾarṣəkhā bə-ʿittô. Q:
+    la-akalū min fawqihim wa-min taḥti arjulihim, conditional on aqāmū l-tawrāta.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 28:12
+      lang: he
+      text: יִפְתַּ֣ח יְהוָ֣ה לְ֠ךָ אֶת אוֹצָר֨וֹ הַטּ֜וֹב אֶת הַשָּׁמַ֗יִם לָתֵ֤ת מְטַֽר אַרְצְךָ֙ בְּעִתּ֔וֹ
+        וּלְבָרֵ֕ךְ אֵ֖ת כָּל מַעֲשֵׂ֣ה יָדֶ֑ךָ וְהִלְוִ֨יתָ֙ גּוֹיִ֣ם רַבִּ֔ים וְאַתָּ֖ה לֹ֥א תִלְוֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 5:66
+      lang: ar
+      text: وَلَوْ أَنَّهُمْ أَقَامُوا۟ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَمَآ أُنزِلَ إِلَيْهِم مِّن رَّبِّهِمْ
+        لَأَكَلُوا۟ مِن فَوْقِهِمْ وَمِن تَحْتِ أَرْجُلِهِم مِّنْهُمْ أُمَّةٌ مُّقْتَصِدَةٌ وَكَثِيرٌ
+        مِّنْهُمْ سَآءَ مَا يَعْمَلُونَ
 ---
 
 ## Questions

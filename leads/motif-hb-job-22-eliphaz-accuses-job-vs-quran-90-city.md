@@ -2,8 +2,7 @@
 id: motif-hb-job-22-eliphaz-accuses-job-vs-quran-90-city
 title: 'Eliphaz''s third speech - Job accused of social crimes ↔ The city: the two highways and the steep
   ascent'
-summary: 'These two units share 1 motifs: the steep ascent (''aqaba) is freeing a neck (slave), feeding
-  an orphan relative or a needy man in the dust on a day of hunger.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,34 +14,9 @@ layers:
 - motif
 motifs:
 - freeing-a-slave-as-steep-ascent
-passages:
-- tradition: judaism
-  ref: Job 22:7
-  note: 'The steep ascent (''aqaba) is freeing a neck (slave), feeding an orphan relative or a needy man
-    in the dust on a day of hunger (iṭʿāmun fī yawmin dhī masghaba ... miskīnan dhā matraba ~ lōʾ mayim
-    ʿāyēf tašqeh û-mē-rāʿēv timnaʿ lāḥem: feeding the hungry as the test of righteousness (here in the
-    form of an accusation).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא מַ֭יִם עָיֵ֣ף תַּשְׁקֶ֑ה וּ֝מֵרָעֵ֗ב תִּֽמְנַֽע לָֽחֶם
-- tradition: islam
-  ref: Quran 90:11
-  note: The steep ascent ('aqaba) is freeing a neck (slave), feeding an orphan relative or a needy man
-    in the dust on a day of hunger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ
-- tradition: islam
-  ref: Quran 90:13
-  note: The steep ascent ('aqaba) is freeing a neck (slave), feeding an orphan relative or a needy man
-    in the dust on a day of hunger
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكُّ رَقَبَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. iṭʿāmun fī yawmin dhī masghaba ... miskīnan dhā matraba ~ lōʾ mayim ʿāyēf tašqeh û-mē-rāʿēv
-    timnaʿ lāḥem: feeding the hungry as the test of righteousness (here in the form of an accusation).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The steep ascent (''aqaba) is freeing a neck (slave), feeding an
     orphan relative or a needy man in the dust on a day of hunger (weight 6.7). Pair score 6.7.'
@@ -76,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The steep ascent ('aqaba) is freeing a neck (slave), feeding an orphan relative or a needy man
+  in the dust on a day of hunger
+kinds:
+- echo
+units:
+- id: hb-job-22-eliphaz-accuses-job
+  title: Eliphaz's third speech - Job accused of social crimes
+  tradition: judaism
+- id: quran-90-city
+  title: 'The city: the two highways and the steep ascent'
+  tradition: islam
+matches:
+- kind: echo
+  label: The steep ascent ('aqaba) is freeing a neck (slave), feeding an orphan relative or a needy man
+    in the dust on a day of hunger
+  note: 'iṭʿāmun fī yawmin dhī masghaba ... miskīnan dhā matraba ~ lōʾ mayim ʿāyēf tašqeh û-mē-rāʿēv timnaʿ
+    lāḥem: feeding the hungry as the test of righteousness (here in the form of an accusation).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 22:7
+      lang: he
+      text: לֹא מַ֭יִם עָיֵ֣ף תַּשְׁקֶ֑ה וּ֝מֵרָעֵ֗ב תִּֽמְנַֽע לָֽחֶם
+  - tradition: islam
+    passages:
+    - ref: Quran 90:14
+      lang: ar
+      text: أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ
+    - ref: Quran 90:16
+      lang: ar
+      text: أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ
 ---
 
 ## Questions

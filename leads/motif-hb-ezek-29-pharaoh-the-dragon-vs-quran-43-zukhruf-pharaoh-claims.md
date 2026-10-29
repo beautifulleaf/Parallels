@@ -2,9 +2,7 @@
 id: motif-hb-ezek-29-pharaoh-the-dragon-vs-quran-43-zukhruf-pharaoh-claims
 title: 'Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s wages
   ↔ Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
-summary: 'These two units share 2 motifs: pharaoh boasts to his people: is not the kingdom of egypt mine,
-  and these rivers flowing beneath me?, pharaoh is the great tannin (crocodile/dragon) lying in the midst
-  of his nile channels.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,53 +14,15 @@ traditions:
 layers:
 - motif
 motifs:
-- pharaoh-boasts-rivers-flow-beneath-him
 - pharaoh-as-great-tannin-in-nile
-passages:
-- tradition: judaism
-  ref: Ezek 29:3
-  note: 'Pharaoh boasts to his people: is not the kingdom of Egypt mine, and these rivers flowing beneath
-    me? (Pharaoh''s boast of owning the Nile channels: hat-tannîm hag-gāḏôl hā-rōḇēṣ bə-ṯôḵ yəʾōrâw ʾăšer
-    ʾāmar lî yəʾōrî wa-ʾănî ʿăśîṯinî vs. yā qawmi a-laysa lī mulku miṣra wa-hādhihi l-anhāru tajrī min
-    taḥtī. Ezekiel''s Pharaoh claims to have made himself (or the Nile); the Quran''s claims kingship
-    and the rivers. Neither boast is in Exodus.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
-    הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
-- tradition: islam
-  ref: Quran 43:51
-  note: 'Pharaoh boasts to his people: is not the kingdom of Egypt mine, and these rivers flowing beneath
-    me?'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ
-    تَجْرِى مِن تَحْتِىٓ أَفَلَا تُبْصِرُونَ
-- tradition: judaism
-  ref: Ezek 29:3
-  note: Pharaoh is the great tannin (crocodile/dragon) lying in the midst of his Nile channels
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
-    הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
-- tradition: islam
-  ref: Quran 43:51
-  note: Pharaoh is the great tannin (crocodile/dragon) lying in the midst of his Nile channels (cf. Ezek
-    29:3 'my Nile is mine')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ
-    تَجْرِى مِن تَحْتِىٓ أَفَلَا تُبْصِرُونَ
+- pharaoh-boasts-rivers-flow-beneath-him
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Pharaoh''s boast of owning the Nile channels: hat-tannîm hag-gāḏôl hā-rōḇēṣ bə-ṯôḵ yəʾōrâw
-    ʾăšer ʾāmar lî yəʾōrî wa-ʾănî ʿăśîṯinî vs. yā qawmi a-laysa lī mulku miṣra wa-hādhihi l-anhāru tajrī
-    min taḥtī. Ezekiel''s Pharaoh claims to have made himself (or the Nile); the Quran''s claims kingship
-    and the rivers. Neither boast is in Exodus.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Pharaoh boasts to his people: is not the kingdom of Egypt mine,
-    and these rivers flowing beneath me? (weight 6.7); Pharaoh is the great tannin (crocodile/dragon)
-    lying in the midst of his Nile channels (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: Pharaoh is the great tannin (crocodile/dragon) lying in the midst
+    of his Nile channels (weight 6.7); Pharaoh boasts to his people: is not the kingdom of Egypt mine,
+    and these rivers flowing beneath me? (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar''s
     wages: Nebuchadnezzar''s army labored at Tyre till every head was bald and shoulder rubbed, without
@@ -99,6 +59,55 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Pharaoh boasts to his people: is not the kingdom of Egypt mine, and these rivers flowing beneath
+  me?'
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ezek-29-pharaoh-the-dragon
+  title: Pharaoh the great dragon of the Nile; Egypt as a reed; Egypt given as Nebuchadnezzar's wages
+  tradition: judaism
+- id: quran-43-zukhruf-pharaoh-claims
+  title: 'Moses before Pharaoh: the laughing courtiers, the rivers beneath Pharaoh and the drowning'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'Pharaoh boasts to his people: is not the kingdom of Egypt mine, and these rivers flowing beneath
+    me?'
+  note: 'Pharaoh''s boast of owning the Nile channels: hat-tannîm hag-gāḏôl hā-rōḇēṣ bə-ṯôḵ yəʾōrâw ʾăšer
+    ʾāmar lî yəʾōrî wa-ʾănî ʿăśîṯinî vs. yā qawmi a-laysa lī mulku miṣra wa-hādhihi l-anhāru tajrī min
+    taḥtī. Ezekiel''s Pharaoh claims to have made himself (or the Nile); the Quran''s claims kingship
+    and the rivers. Neither boast is in Exodus.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 29:3
+      lang: he
+      text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
+        הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 43:51
+      lang: ar
+      text: وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ
+        تَجْرِى مِن تَحْتِىٓ أَفَلَا تُبْصِرُونَ
+- kind: shared
+  label: Pharaoh is the great tannin (crocodile/dragon) lying in the midst of his Nile channels
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 29:3
+      lang: he
+      text: דַּבֵּ֨ר וְאָמַרְתָּ֜ כֹּֽה אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה הִנְנִ֤י עָלֶ֨יךָ֙ פַּרְעֹ֣ה מֶֽלֶךְ מִצְרַ֔יִם
+        הַתַּנִּים֙ הַגָּד֔וֹל הָרֹבֵ֖ץ בְּת֣וֹךְ יְאֹרָ֑יו אֲשֶׁ֥ר אָמַ֛ר לִ֥י יְאֹרִ֖י וַאֲנִ֥י עֲשִׂיתִֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 43:51
+      lang: ar
+      text: وَنَادَىٰ فِرْعَوْنُ فِى قَوْمِهِۦ قَالَ يَٰقَوْمِ أَلَيْسَ لِى مُلْكُ مِصْرَ وَهَٰذِهِ ٱلْأَنْهَٰرُ
+        تَجْرِى مِن تَحْتِىٓ أَفَلَا تُبْصِرُونَ
+    note: cf. Ezek 29:3 'my Nile is mine'
 ---
 
 ## Questions

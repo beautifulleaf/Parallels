@@ -2,8 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-37-daughters-and-ranks
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Daughters of God denied; the angels'
   stations; closing doxology
-summary: 'These two units share 1 motifs: a closing doxology and the divine title it uses [divergence
-  between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - closing-doxology-divine-title-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 106:48
-  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
-    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
-    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
-    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
-    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בָּר֤וּךְ יְהוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל מִן הָ֤עוֹלָ֨ם וְעַ֬ד הָעוֹלָ֗ם וְאָמַ֖ר כָּל הָעָ֥ם אָמֵ֗ן
-    הַֽלְלוּ יָֽהּ
-- tradition: islam
-  ref: Quran 37:180
-  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
-    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
-    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
-    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
-    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
-- tradition: islam
-  ref: Quran 37:182
-  note: 'A closing doxology and the divine title it uses [divergence between the texts] (Closing doxology,
-    with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām wə-ʿaḏ hā-ʿôlām, closing
-    a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun ʿalā l-mursalīna
-    wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord of the worlds''.
-    The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn) in Arabic.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. Closing doxology, with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām
-    wə-ʿaḏ hā-ʿôlām, closing a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun
-    ʿalā l-mursalīna wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord
-    of the worlds''. The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn)
-    in Arabic.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A closing doxology and the divine title it uses [divergence between
     the texts] (weight 6.3). Pair score 6.3.'
@@ -87,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A closing doxology and the divine title it uses
+kinds:
+- divergence
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-37-daughters-and-ranks
+  title: Daughters of God denied; the angels' stations; closing doxology
+  tradition: islam
+matches:
+- kind: divergence
+  label: A closing doxology and the divine title it uses
+  note: 'Closing doxology, with the divine title changed. Ps: bārûḵ YHWH ʾĕlōhê yiśrāʾēl min-hā-ʿôlām
+    wə-ʿaḏ hā-ʿôlām, closing a book of the Psalter. Q: subḥāna rabbika rabbi l-ʿizzati ʿammā yaṣifūn wa-salāmun
+    ʿalā l-mursalīna wa-l-ḥamdu li-llāhi rabbi l-ʿālamīn, closing a sura. ''God of Israel'' becomes ''Lord
+    of the worlds''. The same root ʿ-l-m serves as ''eternity'' (ʿôlām) in Hebrew and ''worlds'' (ʿālamīn)
+    in Arabic.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:48
+      lang: he
+      text: בָּר֤וּךְ יְהוָ֨ה אֱלֹהֵ֪י יִשְׂרָאֵ֡ל מִן הָ֤עוֹלָ֨ם וְעַ֬ד הָעוֹלָ֗ם וְאָמַ֖ר כָּל הָעָ֥ם
+        אָמֵ֗ן הַֽלְלוּ יָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 37:180
+      lang: ar
+      text: سُبْحَٰنَ رَبِّكَ رَبِّ ٱلْعِزَّةِ عَمَّا يَصِفُونَ
+    - ref: Quran 37:182
+      lang: ar
+      text: وَٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ
 ---
 
 ## Questions

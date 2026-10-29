@@ -2,9 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-21-abraham-idols-fire
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Abraham
   breaks the idols and is cast into the fire
-summary: 'These two units share 3 motifs: isaac given, and jacob in addition as an extra gift (nāfila)
-  [divergence between the texts], hero''s father makes, sells or worships idols [divergence between the
-  texts], hero''s father makes, sells or worships idols.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,128 +16,9 @@ motifs:
 - grandson-as-extra-gift-as-divergence
 - father-serves-idols-as-divergence
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Josh 24:3
-  note: 'Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (wāʾetten-lô
-    ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes
-    Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both to Abraham,
-    as a reward for leaving his people, and drops Esau.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן
-    וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
-- tradition: judaism
-  ref: Josh 24:4
-  note: 'Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (wāʾetten-lô
-    ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb wəʾet-ʿēśāw; wahabnā lahu Isḥāqa wa-Yaʿqūb: the line passes
-    Isaac, then Jacob. Josh gives Jacob (and Esau) to Isaac; Q gives Isaac and Jacob both to Abraham,
-    as a reward for leaving his people, and drops Esau.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֶתֵּ֣ן לְיִצְחָ֔ק אֶֽת יַעֲקֹ֖ב וְאֶת עֵשָׂ֑ו וָאֶתֵּ֨ן לְעֵשָׂ֜ו אֶת הַ֤ר שֵׂעִיר֙ לָרֶ֣שֶׁת
-    אוֹת֔וֹ וְיַעֲקֹ֥ב וּבָנָ֖יו יָרְד֥וּ מִצְרָֽיִם
-- tradition: islam
-  ref: Quran 21:52
-  note: Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (teraḥ
-    ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm ... wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb;
-    qāla li-abīhi wa-qawmihi ... wajadnā ābāʾanā lahā ʿābidīn ... wa-wahabnā lahu Isḥāqa wa-Yaʿqūba nāfilatan.
-    The idolatrous fathers and the gift of descendants are the same. Josh gives Jacob to Isaac; Q gives
-    Jacob to Abraham as an 'extra gift' (nāfila).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
-- tradition: islam
-  ref: Quran 21:53
-  note: Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence between the texts] (teraḥ
-    ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm ... wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq ʾet-yaʿăqōb;
-    qāla li-abīhi wa-qawmihi ... wajadnā ābāʾanā lahā ʿābidīn ... wa-wahabnā lahu Isḥāqa wa-Yaʿqūba nāfilatan.
-    The idolatrous fathers and the gift of descendants are the same. Josh gives Jacob to Isaac; Q gives
-    Jacob to Abraham as an 'extra gift' (nāfila).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
-- tradition: judaism
-  ref: Josh 24:2
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s father
-    served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm
-    ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār. Q: wa-idh qāla Ibrāhīmu
-    li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar and confronted, and Abraham
-    reasons his own way out (6:76-79).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:3
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s father
-    served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm
-    ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār. Q: wa-idh qāla Ibrāhīmu
-    li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar and confronted, and Abraham
-    reasons his own way out (6:76-79).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן
-    וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
-- tradition: islam
-  ref: Quran 21:52
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (ûləṣelem dahăbāʾ
-    dî hăqêmtā lāʾ nisgud; mā hādhihi t-tamāthīlu llatī antum lahā ʿākifūn: refusing to worship images
-    (ṣelem / timthāl). Dan''s three refuse quietly before a king; Abraham mocks and destroys the images
-    of his own father and people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
-- tradition: islam
-  ref: Quran 21:53
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (ûləṣelem dahăbāʾ
-    dî hăqêmtā lāʾ nisgud; mā hādhihi t-tamāthīlu llatī antum lahā ʿākifūn: refusing to worship images
-    (ṣelem / timthāl). Dan''s three refuse quietly before a king; Abraham mocks and destroys the images
-    of his own father and people.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
-- tradition: judaism
-  ref: Josh 24:2
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:14-15
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:14) וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת
-    אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
-    (24:15) וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
-    אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
-    הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 21:52
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
-- tradition: islam
-  ref: Quran 21:53
-  note: Hero's father makes, sells or worships idols ('these statues (tamāthīl)', worshipped because 'we
-    found our fathers worshipping them')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. teraḥ ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm ... wāʾetten-lô ʾet-yiṣḥāq wāʾetten
-    ləyiṣḥāq ʾet-yaʿăqōb; qāla li-abīhi wa-qawmihi ... wajadnā ābāʾanā lahā ʿābidīn ... wa-wahabnā lahu
-    Isḥāqa wa-Yaʿqūba nāfilatan. The idolatrous fathers and the gift of descendants are the same. Josh
-    gives Jacob to Isaac; Q gives Jacob to Abraham as an ''extra gift'' (nāfila).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Isaac given, and Jacob in addition as an extra gift (nāfila) [divergence
     between the texts] (weight 6.3); Hero''s father makes, sells or worships idols [divergence between
@@ -173,6 +52,112 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Isaac given, and Jacob in addition as an extra gift (nāfila)
+kinds:
+- divergence
+- shared
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-21-abraham-idols-fire
+  title: Abraham breaks the idols and is cast into the fire
+  tradition: islam
+matches:
+- kind: divergence
+  label: Isaac given, and Jacob in addition as an extra gift (nāfila)
+  note: teraḥ ʾăbî ʾabrāhām ... wayyaʿabdû ʾĕlōhîm ʾăḥērîm ... wāʾetten-lô ʾet-yiṣḥāq wāʾetten ləyiṣḥāq
+    ʾet-yaʿăqōb; qāla li-abīhi wa-qawmihi ... wajadnā ābāʾanā lahā ʿābidīn ... wa-wahabnā lahu Isḥāqa
+    wa-Yaʿqūba nāfilatan. The idolatrous fathers and the gift of descendants are the same. Josh gives
+    Jacob to Isaac; Q gives Jacob to Abraham as an 'extra gift' (nāfila).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+    - ref: Josh 24:3
+      lang: he
+      text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ
+        כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
+    - ref: Josh 24:4
+      lang: he
+      text: וָאֶתֵּ֣ן לְיִצְחָ֔ק אֶֽת יַעֲקֹ֖ב וְאֶת עֵשָׂ֑ו וָאֶתֵּ֨ן לְעֵשָׂ֜ו אֶת הַ֤ר שֵׂעִיר֙ לָרֶ֣שֶׁת
+        אוֹת֔וֹ וְיַעֲקֹ֥ב וּבָנָ֖יו יָרְד֥וּ מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 21:52
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+    - ref: Quran 21:53
+      lang: ar
+      text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+    - ref: Quran 21:72
+      lang: ar
+      text: وَوَهَبْنَا لَهُۥٓ إِسْحَٰقَ وَيَعْقُوبَ نَافِلَةً وَكُلًّا جَعَلْنَا صَٰلِحِينَ
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+    - ref: Josh 24:3
+      lang: he
+      text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ
+        כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
+    note: 'Abraham''s father served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām
+      ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār.
+      Q: wa-idh qāla Ibrāhīmu li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar
+      and confronted, and Abraham reasons his own way out (6:76-79).'
+  - tradition: islam
+    passages:
+    - ref: Quran 21:52
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+    - ref: Quran 21:53
+      lang: ar
+      text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+    note: 'ûləṣelem dahăbāʾ dî hăqêmtā lāʾ nisgud; mā hādhihi t-tamāthīlu llatī antum lahā ʿākifūn: refusing
+      to worship images (ṣelem / timthāl). Dan''s three refuse quietly before a king; Abraham mocks and
+      destroys the images of his own father and people.'
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+    - ref: Josh 24:14-15
+      lang: he
+      text: (24:14) וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ
+        אֶת אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת
+        יְהוָֽה (24:15) וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת
+        מִ֣י תַעֲבֹדוּן֒ אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר
+        וְאִם֙ אֶת אֱלֹהֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד
+        אֶת יְהוָֽה
+    - ref: Josh 24:3
+      lang: he
+      text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ
+        כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
+    note: Terah, father of Abraham and Nahor, served other gods beyond the River
+  - tradition: islam
+    passages:
+    - ref: Quran 21:52
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِىٓ أَنتُمْ لَهَا عَٰكِفُونَ
+    - ref: Quran 21:53
+      lang: ar
+      text: قَالُوا۟ وَجَدْنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ
+    note: '''these statues (tamāthīl)'', worshipped because ''we found our fathers worshipping them'''
 ---
 
 ## Questions

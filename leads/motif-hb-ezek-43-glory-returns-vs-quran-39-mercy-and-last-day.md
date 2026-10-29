@@ -2,8 +2,7 @@
 id: motif-hb-ezek-43-glory-returns-vs-quran-39-mercy-and-last-day
 title: The glory of God returns to the temple ↔ Do not despair of mercy; the earth in God's grip; the
   throngs to hell and Garden
-summary: 'These two units share 2 motifs: the earth shines (lit up) with god''s glory [divergence between
-  the texts], the earth shines (lit up) with god''s glory.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,47 +15,9 @@ layers:
 motifs:
 - earth-shines-with-gods-glory-as-divergence
 - earth-shines-with-gods-glory
-passages:
-- tradition: judaism
-  ref: Ezek 43:2
-  note: 'The earth shines (lit up) with God''s glory [divergence between the texts] (wə-hinnēh kəḇôḏ ʾĕlōhê
-    yiśrāʾēl bāʾ mi-dderek ha-qqāḏîm ... wə-hā-ʾāreṣ hēʾîrâ mik-kəḇōḏô vs. wa-ashraqati l-arḍu bi-nūri
-    rabbihā: the earth lit up by God''s radiance. In Ezekiel it is the glory of the God of Israel returning
-    to his temple; in the Quran it is the light of the earth''s Lord at the universal judgment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּ֗ה כְּבוֹד֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בָּ֖א מִדֶּ֣רֶךְ הַקָּדִ֑ים וְקוֹל֗וֹ כְּקוֹל֙ מַ֣יִם
-    רַבִּ֔ים וְהָאָ֖רֶץ הֵאִ֥ירָה מִכְּבֹדֽוֹ
-- tradition: islam
-  ref: Quran 39:69
-  note: 'The earth shines (lit up) with God''s glory [divergence between the texts] (wə-hinnēh kəḇôḏ ʾĕlōhê
-    yiśrāʾēl bāʾ mi-dderek ha-qqāḏîm ... wə-hā-ʾāreṣ hēʾîrâ mik-kəḇōḏô vs. wa-ashraqati l-arḍu bi-nūri
-    rabbihā: the earth lit up by God''s radiance. In Ezekiel it is the glory of the God of Israel returning
-    to his temple; in the Quran it is the light of the earth''s Lord at the universal judgment.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ
-    وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
-- tradition: judaism
-  ref: Ezek 43:2
-  note: The earth shines (lit up) with God's glory
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִנֵּ֗ה כְּבוֹד֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בָּ֖א מִדֶּ֣רֶךְ הַקָּדִ֑ים וְקוֹל֗וֹ כְּקוֹל֙ מַ֣יִם
-    רַבִּ֔ים וְהָאָ֖רֶץ הֵאִ֥ירָה מִכְּבֹדֽוֹ
-- tradition: islam
-  ref: Quran 39:69
-  note: The earth shines (lit up) with God's glory (the earth shines with the light of its Lord)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ
-    وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wə-hinnēh kəḇôḏ ʾĕlōhê yiśrāʾēl bāʾ mi-dderek ha-qqāḏîm ... wə-hā-ʾāreṣ hēʾîrâ mik-kəḇōḏô
-    vs. wa-ashraqati l-arḍu bi-nūri rabbihā: the earth lit up by God''s radiance. In Ezekiel it is the
-    glory of the God of Israel returning to his temple; in the Quran it is the light of the earth''s Lord
-    at the universal judgment.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The earth shines (lit up) with God''s glory [divergence between
     the texts] (weight 6.7); The earth shines (lit up) with God''s glory (weight 6.7). Pair score 13.4.'
@@ -92,6 +53,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The earth shines (lit up) with God's glory
+kinds:
+- divergence
+units:
+- id: hb-ezek-43-glory-returns
+  title: The glory of God returns to the temple
+  tradition: judaism
+- id: quran-39-mercy-and-last-day
+  title: Do not despair of mercy; the earth in God's grip; the throngs to hell and Garden
+  tradition: islam
+matches:
+- kind: divergence
+  label: The earth shines (lit up) with God's glory
+  note: 'wə-hinnēh kəḇôḏ ʾĕlōhê yiśrāʾēl bāʾ mi-dderek ha-qqāḏîm ... wə-hā-ʾāreṣ hēʾîrâ mik-kəḇōḏô vs.
+    wa-ashraqati l-arḍu bi-nūri rabbihā: the earth lit up by God''s radiance. In Ezekiel it is the glory
+    of the God of Israel returning to his temple; in the Quran it is the light of the earth''s Lord at
+    the universal judgment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 43:2
+      lang: he
+      text: וְהִנֵּ֗ה כְּבוֹד֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל בָּ֖א מִדֶּ֣רֶךְ הַקָּדִ֑ים וְקוֹל֗וֹ כְּקוֹל֙ מַ֣יִם
+        רַבִּ֔ים וְהָאָ֖רֶץ הֵאִ֥ירָה מִכְּבֹדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:69
+      lang: ar
+      text: وَأَشْرَقَتِ ٱلْأَرْضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلْكِتَٰبُ وَجِا۟ىٓءَ بِٱلنَّبِيِّۦنَ وَٱلشُّهَدَآءِ
+        وَقُضِىَ بَيْنَهُم بِٱلْحَقِّ وَهُمْ لَا يُظْلَمُونَ
 ---
 
 ## Questions

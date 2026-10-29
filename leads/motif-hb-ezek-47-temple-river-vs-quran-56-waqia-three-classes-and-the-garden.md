@@ -2,8 +2,7 @@
 id: motif-hb-ezek-47-temple-river-vs-quran-56-waqia-three-classes-and-the-garden
 title: 'The river from the temple and the healing of the sea ↔ Al-Waqi''a: the Event that abases and exalts;
   the three classes; the Foremost, the Companions of the Right and their Garden'
-summary: 'These two units share 1 motifs: abundant fruit in paradise, neither cut off (seasonless) nor
-  forbidden.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,35 +15,9 @@ layers:
 - motif
 motifs:
 - fruit-neither-cut-off-nor-forbidden
-passages:
-- tradition: judaism
-  ref: Ezek 47:12
-  note: 'Abundant fruit in paradise, neither cut off (seasonless) nor forbidden (Fruit that never fails:
-    kol ʿēṣ maʾăḵāl lōʾ yibbôl ʿālēhû wə-lōʾ yittōm piryô lə-ḥŏḏāšâw yəḇakkēr vs. wa-fākihatin kathīratin
-    lā maqṭūʿatin wa-lā mamnūʿa. Ezekiel''s trees grow by the temple river and their leaves heal; the
-    Quran adds that the fruit is not forbidden.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַל הַנַּ֣חַל יַעֲלֶ֣ה עַל שְׂפָת֣וֹ מִזֶּ֣ה וּמִזֶּ֣ה כָּל עֵֽץ מַ֠אֲכָל לֹא יִבּ֨וֹל עָלֵ֜הוּ
-    וְלֹֽא יִתֹּ֣ם פִּרְי֗וֹ לָֽחֳדָשָׁיו֙ יְבַכֵּ֔ר כִּ֣י מֵימָ֔יו מִן הַמִּקְדָּ֖שׁ הֵ֣מָּה יֽוֹצְאִ֑ים
-    והיו וְהָיָ֤ה פִרְיוֹ֙ לְמַֽאֲכָ֔ל וְעָלֵ֖הוּ לִתְרוּפָֽה
-- tradition: islam
-  ref: Quran 56:33
-  note: Abundant fruit in paradise, neither cut off (seasonless) nor forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
-- tradition: islam
-  ref: Quran 56:32
-  note: Abundant fruit in paradise, neither cut off (seasonless) nor forbidden
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَفَٰكِهَةٍ كَثِيرَةٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Fruit that never fails: kol ʿēṣ maʾăḵāl lōʾ yibbôl ʿālēhû wə-lōʾ yittōm piryô lə-ḥŏḏāšâw
-    yəḇakkēr vs. wa-fākihatin kathīratin lā maqṭūʿatin wa-lā mamnūʿa. Ezekiel''s trees grow by the temple
-    river and their leaves heal; the Quran adds that the fruit is not forbidden.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abundant fruit in paradise, neither cut off (seasonless) nor forbidden
     (weight 6.7). Pair score 6.7.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abundant fruit in paradise, neither cut off (seasonless) nor forbidden
+kinds:
+- parallel
+units:
+- id: hb-ezek-47-temple-river
+  title: The river from the temple and the healing of the sea
+  tradition: judaism
+- id: quran-56-waqia-three-classes-and-the-garden
+  title: 'Al-Waqi''a: the Event that abases and exalts; the three classes; the Foremost, the Companions
+    of the Right and their Garden'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Abundant fruit in paradise, neither cut off (seasonless) nor forbidden
+  note: 'Fruit that never fails: kol ʿēṣ maʾăḵāl lōʾ yibbôl ʿālēhû wə-lōʾ yittōm piryô lə-ḥŏḏāšâw yəḇakkēr
+    vs. wa-fākihatin kathīratin lā maqṭūʿatin wa-lā mamnūʿa. Ezekiel''s trees grow by the temple river
+    and their leaves heal; the Quran adds that the fruit is not forbidden.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 47:12
+      lang: he
+      text: וְעַל הַנַּ֣חַל יַעֲלֶ֣ה עַל שְׂפָת֣וֹ מִזֶּ֣ה וּמִזֶּ֣ה כָּל עֵֽץ מַ֠אֲכָל לֹא יִבּ֨וֹל עָלֵ֜הוּ
+        וְלֹֽא יִתֹּ֣ם פִּרְי֗וֹ לָֽחֳדָשָׁיו֙ יְבַכֵּ֔ר כִּ֣י מֵימָ֔יו מִן הַמִּקְדָּ֖שׁ הֵ֣מָּה יֽוֹצְאִ֑ים
+        והיו וְהָיָ֤ה פִרְיוֹ֙ לְמַֽאֲכָ֔ל וְעָלֵ֖הוּ לִתְרוּפָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 56:32
+      lang: ar
+      text: وَفَٰكِهَةٍ كَثِيرَةٍ
+    - ref: Quran 56:33
+      lang: ar
+      text: لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ
 ---
 
 ## Questions

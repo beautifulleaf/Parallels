@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-3-burning-bush-vs-quran-2-abraham-kaaba
 title: The burning bush and the divine name ↔ Abraham, Ishmael and the House
-summary: 'These two units share 2 motifs: the list of fathers in ''god of your fathers'' [divergence between
-  the texts], god identifies himself as god of abraham, isaac and jacob.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,58 +14,9 @@ layers:
 motifs:
 - god-of-the-fathers-list-as-divergence
 - god-of-abraham-isaac-jacob
-passages:
-- tradition: judaism
-  ref: Exod 3:15
-  note: 'The list of fathers in ''God of your fathers'' [divergence between the texts] (Exod 3:15 YHWH
-    ʾĕlōhê ʾăbōtêkem ʾĕlōhê ʾabrāhām ʾĕlōhê yiṣḥāq wē-ʾlōhê yaʿăqōb: the God of the fathers, three names;
-    Q 2:133 naʿbudu ilāhaka wa-ilāha ābāʾika ibrāhīma wa-ismāʿīla wa-isḥāqa ilāhan wāḥidan: the sons''
-    confession counts Ishmael among Jacob''s fathers (properly his uncle), before Isaac.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
-    אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה שְּׁמִ֣י
-    לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
-- tradition: islam
-  ref: Quran 2:133
-  note: 'The list of fathers in ''God of your fathers'' [divergence between the texts] (Exod 3:15 YHWH
-    ʾĕlōhê ʾăbōtêkem ʾĕlōhê ʾabrāhām ʾĕlōhê yiṣḥāq wē-ʾlōhê yaʿăqōb: the God of the fathers, three names;
-    Q 2:133 naʿbudu ilāhaka wa-ilāha ābāʾika ibrāhīma wa-ismāʿīla wa-isḥāqa ilāhan wāḥidan: the sons''
-    confession counts Ishmael among Jacob''s fathers (properly his uncle), before Isaac.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
-- tradition: judaism
-  ref: Exod 3:6
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר אָנֹכִי֙ אֱלֹהֵ֣י אָבִ֔יךָ אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֣י יַעֲקֹ֑ב
-    וַיַּסְתֵּ֤ר מֹשֶׁה֙ פָּנָ֔יו כִּ֣י יָרֵ֔א מֵהַבִּ֖יט אֶל הָאֱלֹהִֽים
-- tradition: judaism
-  ref: Exod 3:15
-  note: God identifies himself as God of Abraham, Isaac and Jacob
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
-    אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה שְּׁמִ֣י
-    לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
-- tradition: islam
-  ref: Quran 2:133
-  note: God identifies himself as God of Abraham, Isaac and Jacob (Ishmael included among the fathers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنۢ
-    بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
-    إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Exod 3:15 YHWH ʾĕlōhê ʾăbōtêkem ʾĕlōhê ʾabrāhām ʾĕlōhê yiṣḥāq wē-ʾlōhê yaʿăqōb: the God
-    of the fathers, three names; Q 2:133 naʿbudu ilāhaka wa-ilāha ābāʾika ibrāhīma wa-ismāʿīla wa-isḥāqa
-    ilāhan wāḥidan: the sons'' confession counts Ishmael among Jacob''s fathers (properly his uncle),
-    before Isaac.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The list of fathers in ''God of your fathers'' [divergence between
     the texts] (weight 6.7); God identifies himself as God of Abraham, Isaac and Jacob (weight 5.6). Pair
@@ -101,6 +51,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The list of fathers in 'God of your fathers'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-3-burning-bush
+  title: The burning bush and the divine name
+  tradition: judaism
+- id: quran-2-abraham-kaaba
+  title: Abraham, Ishmael and the House
+  tradition: islam
+matches:
+- kind: divergence
+  label: The list of fathers in 'God of your fathers'
+  note: 'Exod 3:15 YHWH ʾĕlōhê ʾăbōtêkem ʾĕlōhê ʾabrāhām ʾĕlōhê yiṣḥāq wē-ʾlōhê yaʿăqōb: the God of the
+    fathers, three names; Q 2:133 naʿbudu ilāhaka wa-ilāha ābāʾika ibrāhīma wa-ismāʿīla wa-isḥāqa ilāhan
+    wāḥidan: the sons'' confession counts Ishmael among Jacob''s fathers (properly his uncle), before
+    Isaac.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:15
+      lang: he
+      text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
+        אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה
+        שְּׁמִ֣י לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+- kind: shared
+  label: God identifies himself as God of Abraham, Isaac and Jacob
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 3:6
+      lang: he
+      text: וַיֹּ֗אמֶר אָנֹכִי֙ אֱלֹהֵ֣י אָבִ֔יךָ אֱלֹהֵ֧י אַבְרָהָ֛ם אֱלֹהֵ֥י יִצְחָ֖ק וֵאלֹהֵ֣י יַעֲקֹ֑ב
+        וַיַּסְתֵּ֤ר מֹשֶׁה֙ פָּנָ֔יו כִּ֣י יָרֵ֔א מֵהַבִּ֖יט אֶל הָאֱלֹהִֽים
+    - ref: Exod 3:15
+      lang: he
+      text: וַיֹּאמֶר֩ ע֨וֹד אֱלֹהִ֜ים אֶל מֹשֶׁ֗ה כֹּֽה תֹאמַר֮ אֶל בְּנֵ֣י יִשְׂרָאֵל֒ יְהוָ֞ה אֱלֹהֵ֣י
+        אֲבֹתֵיכֶ֗ם אֱלֹהֵ֨י אַבְרָהָ֜ם אֱלֹהֵ֥י יִצְחָ֛ק וֵאלֹהֵ֥י יַעֲקֹ֖ב שְׁלָחַ֣נִי אֲלֵיכֶ֑ם זֶה
+        שְּׁמִ֣י לְעֹלָ֔ם וְזֶ֥ה זִכְרִ֖י לְדֹ֥ר דֹּֽר
+    - ref: Exod 3:16
+      lang: he
+      text: לֵ֣ךְ וְאָֽסַפְתָּ֞ אֶת זִקְנֵ֣י יִשְׂרָאֵ֗ל וְאָמַרְתָּ֤ אֲלֵהֶם֙ יְהוָ֞ה אֱלֹהֵ֤י אֲבֹֽתֵיכֶם֙
+        נִרְאָ֣ה אֵלַ֔י אֱלֹהֵ֧י אַבְרָהָ֛ם יִצְחָ֥ק וְיַעֲקֹ֖ב לֵאמֹ֑ר פָּקֹ֤ד פָּקַ֨דְתִּי֙ אֶתְכֶ֔ם
+        וְאֶת הֶעָשׂ֥וּי לָכֶ֖ם בְּמִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:133
+      lang: ar
+      text: أَمْ كُنتُمْ شُهَدَآءَ إِذْ حَضَرَ يَعْقُوبَ ٱلْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ
+        مِنۢ بَعْدِى قَالُوا۟ نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبْرَٰهِۦمَ وَإِسْمَٰعِيلَ وَإِسْحَٰقَ
+        إِلَٰهًا وَٰحِدًا وَنَحْنُ لَهُۥ مُسْلِمُونَ
+    note: Ishmael included among the fathers
 ---
 
 ## Questions

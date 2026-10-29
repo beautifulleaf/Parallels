@@ -1,8 +1,7 @@
 ---
 id: motif-hb-jer-14-drought-vs-quran-11-hud
 title: The drought - the doe forsakes her fawn; lying prophets ↔ Hud and Ad
-summary: 'These two units share 1 motifs: heaven is shut and no rain falls because of the people''s sin;
-  repentance brings rain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - drought-as-punishment-for-sin
-passages:
-- tradition: judaism
-  ref: Jer 14:1
-  note: Heaven is shut and no rain falls because of the people's sin; repentance brings rain (divrei ha-batstsarot,
-    'words concerning the droughts')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֨ר הָיָ֤ה דְבַר יְהוָה֙ אֶֽל יִרְמְיָ֔הוּ עַל דִּבְרֵ֖י הַבַּצָּרֽוֹת
-- tradition: judaism
-  ref: Jer 14:4
-  note: Heaven is shut and no rain falls because of the people's sin; repentance brings rain (divrei ha-batstsarot,
-    'words concerning the droughts')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּעֲב֤וּר הָאֲדָמָה֙ חַ֔תָּה כִּ֛י לֹא הָיָ֥ה גֶ֖שֶׁם בָּאָ֑רֶץ בֹּ֥שׁוּ אִכָּרִ֖ים חָפ֥וּ רֹאשָֽׁם
-- tradition: islam
-  ref: Quran 11:52
-  note: 'Heaven is shut and no rain falls because of the people''s sin; repentance brings rain (positive
-    form: repentance brings rain and strength)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا
-    وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Rain withheld for sin, confession for its return: ʾim-ʿăwōnênû ʿānû bānû ... kî-rabbû mᵉšûbōtênû
-    lᵉkā ḥāṭāʾnû (with the parched ground, kî lōʾ-hāyāh gešem) vs istaghfirū rabbakum ... yursili s-samāʾa
-    ʿalaykum midrāran.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven is shut and no rain falls because of the people''s sin; repentance
     brings rain (weight 6.0). Pair score 6.0.'
@@ -73,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
+kinds:
+- echo
+units:
+- id: hb-jer-14-drought
+  title: The drought - the doe forsakes her fawn; lying prophets
+  tradition: judaism
+- id: quran-11-hud
+  title: Hud and Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Heaven is shut and no rain falls because of the people's sin; repentance brings rain
+  note: 'Rain withheld for sin, confession for its return: ʾim-ʿăwōnênû ʿānû bānû ... kî-rabbû mᵉšûbōtênû
+    lᵉkā ḥāṭāʾnû (with the parched ground, kî lōʾ-hāyāh gešem) vs istaghfirū rabbakum ... yursili s-samāʾa
+    ʿalaykum midrāran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 14:4
+      lang: he
+      text: בַּעֲב֤וּר הָאֲדָמָה֙ חַ֔תָּה כִּ֛י לֹא הָיָ֥ה גֶ֖שֶׁם בָּאָ֑רֶץ בֹּ֥שׁוּ אִכָּרִ֖ים חָפ֥וּ
+        רֹאשָֽׁם
+    - ref: Jer 14:7
+      lang: he
+      text: אִם עֲוֺנֵ֨ינוּ֙ עָ֣נוּ בָ֔נוּ יְהוָ֕ה עֲשֵׂ֖ה לְמַ֣עַן שְׁמֶ֑ךָ כִּֽי רַבּ֥וּ מְשׁוּבֹתֵ֖ינוּ
+        לְךָ֥ חָטָֽאנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:52
+      lang: ar
+      text: وَيَٰقَوْمِ ٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم
+        مِّدْرَارًا وَيَزِدْكُمْ قُوَّةً إِلَىٰ قُوَّتِكُمْ وَلَا تَتَوَلَّوْا۟ مُجْرِمِينَ
 ---
 
 ## Questions

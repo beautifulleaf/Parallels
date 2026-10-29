@@ -2,8 +2,7 @@
 id: motif-jud-jubilees-12-vs-quran-37-abraham-idols-fire
 title: Abraham burns the house of idols (Jubilees 12) ↔ Abraham, the stars, the smashed idols and the
   fire
-summary: 'These two units share 3 motifs: hero reasons from the stars, moon and sun to the one god, hero
-  smashes or burns idols, hero''s father makes, sells or worships idols.'
+summary: 3 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -18,46 +17,7 @@ motifs:
 - heavenly-bodies-argument
 - hero-smashes-idols
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:16–18'
-  note: Hero reasons from the stars, moon and sun to the one God
-- tradition: islam
-  ref: Quran 37:88
-  note: Hero reasons from the stars, moon and sun to the one God (he glances at the stars)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
-  note: Hero smashes or burns idols (burns the house of idols)
-- tradition: islam
-  ref: Quran 37:93
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
-- tradition: islam
-  ref: Quran 37:85
-  note: Hero smashes or burns idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
-- tradition: judaism
-  ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
-  note: Hero's father makes, sells or worships idols
-- tradition: islam
-  ref: Quran 37:85
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 37:86
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Hero reasons from the stars, moon and sun to the one God (weight
     5.8); Hero smashes or burns idols (weight 5.6); Hero''s father makes, sells or worships idols (weight
@@ -69,6 +29,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero reasons from the stars, moon and sun to the one God
+kinds:
+- shared
+units:
+- id: jud-jubilees-12
+  title: Abraham burns the house of idols (Jubilees 12)
+  tradition: judaism
+- id: quran-37-abraham-idols-fire
+  title: Abraham, the stars, the smashed idols and the fire
+  tradition: islam
+matches:
+- kind: shared
+  label: Hero reasons from the stars, moon and sun to the one God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham burns the house of idols (Jubilees 12): 12:16–18'
+  - tradition: islam
+    passages:
+    - ref: Quran 37:88
+      lang: ar
+      text: فَنَظَرَ نَظْرَةً فِى ٱلنُّجُومِ
+    note: he glances at the stars
+- kind: shared
+  label: Hero smashes or burns idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham burns the house of idols (Jubilees 12): 12:12'
+    note: burns the house of idols
+  - tradition: islam
+    passages:
+    - ref: Quran 37:93
+      lang: ar
+      text: فَرَاغَ عَلَيْهِمْ ضَرْبًۢا بِٱلْيَمِينِ
+    - ref: Quran 37:85
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    - ref: Quran 37:97
+      lang: ar
+      text: قَالُوا۟ ٱبْنُوا۟ لَهُۥ بُنْيَٰنًا فَأَلْقُوهُ فِى ٱلْجَحِيمِ
+- kind: shared
+  label: Hero's father makes, sells or worships idols
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'Abraham burns the house of idols (Jubilees 12): 12:1–8'
+  - tradition: islam
+    passages:
+    - ref: Quran 37:85
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَاذَا تَعْبُدُونَ
+    - ref: Quran 37:86
+      lang: ar
+      text: أَئِفْكًا ءَالِهَةً دُونَ ٱللَّهِ تُرِيدُونَ
 ---
 
 ## Questions

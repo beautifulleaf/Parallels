@@ -2,7 +2,7 @@
 id: motif-hb-dan-3-4-tree-dream-vs-quran-11-closing
 title: Nebuchadnezzar's letter, the great tree dream and his madness ↔ Stand firm; prayer times; good
   deeds remove bad
-summary: 'These two units share 1 motifs: good deeds remove evil deeds.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +15,9 @@ layers:
 - motif
 motifs:
 - good-deeds-remove-bad-deeds
-passages:
-- tradition: judaism
-  ref: Dan 4:24
-  note: 'Good deeds remove evil deeds (inna l-ḥasanāti yudhhibna s-sayyiʾāt; waḥăṭāʾāk bəṣidqâ pərūq waʿăwāyātāk
-    bəmiḥan ʿănāyin: righteousness/almsgiving removes (redeems) sins.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
-    בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
-- tradition: islam
-  ref: Quran 11:114
-  note: Good deeds remove evil deeds
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
-    ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. inna l-ḥasanāti yudhhibna s-sayyiʾāt; waḥăṭāʾāk bəṣidqâ pərūq waʿăwāyātāk bəmiḥan ʿănāyin:
-    righteousness/almsgiving removes (redeems) sins.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Good deeds remove evil deeds (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -67,6 +50,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Good deeds remove evil deeds
+kinds:
+- parallel
+units:
+- id: hb-dan-3-4-tree-dream
+  title: Nebuchadnezzar's letter, the great tree dream and his madness
+  tradition: judaism
+- id: quran-11-closing
+  title: Stand firm; prayer times; good deeds remove bad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Good deeds remove evil deeds
+  note: 'inna l-ḥasanāti yudhhibna s-sayyiʾāt; waḥăṭāʾāk bəṣidqâ pərūq waʿăwāyātāk bəmiḥan ʿănāyin: righteousness/almsgiving
+    removes (redeems) sins.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 4:24
+      lang: he
+      text: לָהֵ֣ן מַלְכָּ֗א מִלְכִּי֙ יִשְׁפַּ֣ר עליך עֲלָ֔ךְ וחטיך וַחֲטָאָךְ֙ בְּצִדְקָ֣ה פְרֻ֔ק וַעֲוָיָתָ֖ךְ
+        בְּמִחַ֣ן עֲנָ֑יִן הֵ֛ן תֶּהֱוֵ֥א אַרְכָ֖ה לִשְׁלֵוְתָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:114
+      lang: ar
+      text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
+        ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
 ---
 
 ## Questions

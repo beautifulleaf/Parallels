@@ -2,8 +2,7 @@
 id: motif-hb-ps-11-flee-like-bird-vs-quran-44-dukhan-zaqqum-and-garden
 title: Psalm 11 - in YHWH I take refuge ↔ Deniers demand their fathers; the people of Tubba'; the tree
   of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: angels drag the sinner into the midst of hellfire and pour boiling
-  water (hamim) over his head.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - boiling-water-poured-on-head
-passages:
-- tradition: judaism
-  ref: Ps 11:6
-  note: 'Angels drag the sinner into the midst of hellfire and pour boiling water (hamim) over his head
-    (Punishment rained down as the wicked''s portion: yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ wə-rûaḥ
-    zilʿāp̄ôṯ mənāṯ kôsām vs. thumma ṣubbū fawqa raʾsihi min ʿadhābi l-ḥamīm. The psalm''s fire and sulfur
-    fall on earth (as at Sodom); the Quran''s boiling water is poured in hell.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
-- tradition: islam
-  ref: Quran 44:47
-  note: Angels drag the sinner into the midst of hellfire and pour boiling water (hamim) over his head
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ
-- tradition: islam
-  ref: Quran 44:48
-  note: Angels drag the sinner into the midst of hellfire and pour boiling water (hamim) over his head
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Punishment rained down as the wicked''s portion: yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ wə-rûaḥ
-    zilʿāp̄ôṯ mənāṯ kôsām vs. thumma ṣubbū fawqa raʾsihi min ʿadhābi l-ḥamīm. The psalm''s fire and sulfur
-    fall on earth (as at Sodom); the Quran''s boiling water is poured in hell.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Angels drag the sinner into the midst of hellfire and pour boiling
     water (hamim) over his head (weight 6.7). Pair score 6.7.'
@@ -74,6 +49,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Angels drag the sinner into the midst of hellfire and pour boiling water (hamim) over his head
+kinds:
+- echo
+units:
+- id: hb-ps-11-flee-like-bird
+  title: Psalm 11 - in YHWH I take refuge
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: echo
+  label: Angels drag the sinner into the midst of hellfire and pour boiling water (hamim) over his head
+  note: 'Punishment rained down as the wicked''s portion: yamṭēr ʿal rəšāʿîm paḥîm ʾēš wə-ḡop̄rîṯ wə-rûaḥ
+    zilʿāp̄ôṯ mənāṯ kôsām vs. thumma ṣubbū fawqa raʾsihi min ʿadhābi l-ḥamīm. The psalm''s fire and sulfur
+    fall on earth (as at Sodom); the Quran''s boiling water is poured in hell.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 11:6
+      lang: he
+      text: יַמְטֵ֥ר עַל רְשָׁעִ֗ים פַּ֫חִ֥ים אֵ֣שׁ וְ֭גָפְרִית וְר֥וּחַ זִלְעָפ֗וֹת מְנָ֣ת כּוֹסָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 44:47
+      lang: ar
+      text: خُذُوهُ فَٱعْتِلُوهُ إِلَىٰ سَوَآءِ ٱلْجَحِيمِ
+    - ref: Quran 44:48
+      lang: ar
+      text: ثُمَّ صُبُّوا۟ فَوْقَ رَأْسِهِۦ مِنْ عَذَابِ ٱلْحَمِيمِ
 ---
 
 ## Questions

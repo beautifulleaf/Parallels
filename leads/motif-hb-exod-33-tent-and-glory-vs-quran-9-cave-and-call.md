@@ -2,7 +2,7 @@
 id: motif-hb-exod-33-tent-and-glory-vs-quran-9-cave-and-call
 title: Mourning, the tent outside the camp, and Moses sees God's back ↔ The call to go forth; the second
   of two in the cave
-summary: 'These two units share 1 motifs: god''s own presence (face) will go with the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +14,9 @@ layers:
 - motif
 motifs:
 - divine-presence-panim-goes-with-them
-passages:
-- tradition: judaism
-  ref: Exod 33:14
-  note: God's own Presence (face) will go with the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר פָּנַ֥י יֵלֵ֖כוּ וַהֲנִחֹ֥תִי לָֽךְ
-- tradition: judaism
-  ref: Exod 33:15
-  note: God's own Presence (face) will go with the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֖אמֶר אֵלָ֑יו אִם אֵ֤ין פָּנֶ֨יךָ֙ הֹלְכִ֔ים אַֽל תַּעֲלֵ֖נוּ מִזֶּֽה
-- tradition: islam
-  ref: Quran 9:40
-  note: 'God''s own Presence (face) will go with the people (God''s presence going with the leader is
-    the assurance: inna llāha maʿanā fa-anzala llāhu sakīnatahu ʿalayhi vs pānay yēlēkû wahănīḥōtî lāk;
-    hălôʾ bᵉlektᵉkā ʿimmānû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
-    إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ ٱللَّهُ
-    سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟
-    ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. God''s presence going with the leader is the assurance: inna llāha maʿanā fa-anzala llāhu sakīnatahu
-    ʿalayhi vs pānay yēlēkû wahănīḥōtî lāk; hălôʾ bᵉlektᵉkā ʿimmānû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s own Presence (face) will go with the people (weight 6.7).
     Pair score 6.7.'
@@ -72,6 +47,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's own Presence (face) will go with the people
+kinds:
+- echo
+units:
+- id: hb-exod-33-tent-and-glory
+  title: Mourning, the tent outside the camp, and Moses sees God's back
+  tradition: judaism
+- id: quran-9-cave-and-call
+  title: The call to go forth; the second of two in the cave
+  tradition: islam
+matches:
+- kind: echo
+  label: God's own Presence (face) will go with the people
+  note: 'God''s presence going with the leader is the assurance: inna llāha maʿanā fa-anzala llāhu sakīnatahu
+    ʿalayhi vs pānay yēlēkû wahănīḥōtî lāk; hălôʾ bᵉlektᵉkā ʿimmānû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 33:14
+      lang: he
+      text: וַיֹּאמַ֑ר פָּנַ֥י יֵלֵ֖כוּ וַהֲנִחֹ֥תִי לָֽךְ
+    - ref: Exod 33:16
+      lang: he
+      text: וּבַמֶּ֣ה יִוָּדַ֣ע אֵפ֗וֹא כִּֽי מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֨יךָ֙ אֲנִ֣י וְעַמֶּ֔ךָ הֲל֖וֹא בְּלֶכְתְּךָ֣
+        עִמָּ֑נוּ וְנִפְלֵ֨ינוּ֙ אֲנִ֣י וְעַמְּךָ֔ מִכָּ֨ל הָעָ֔ם אֲשֶׁ֖ר עַל פְּנֵ֥י הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 9:40
+      lang: ar
+      text: إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ
+        إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا فَأَنزَلَ
+        ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ
+        كَفَرُوا۟ ٱلسُّفْلَىٰ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا وَٱللَّهُ عَزِيزٌ حَكِيمٌ
 ---
 
 ## Questions

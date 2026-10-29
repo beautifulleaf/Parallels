@@ -2,8 +2,7 @@
 id: motif-hb-isa-14-helel-ben-shahar-vs-quran-44-dukhan-zaqqum-and-garden
 title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn) ↔ Deniers demand
   their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the houris
-summary: 'These two units share 1 motifs: the damned man is taunted: ''taste! you are the mighty, the
-  noble!''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,37 +15,9 @@ layers:
 - motif
 motifs:
 - ironic-taunt-to-damned
-passages:
-- tradition: judaism
-  ref: Isa 14:10
-  note: 'The damned man is taunted: ''Taste! You are the mighty, the noble!'' (The mighty mocked in the
-    underworld: gam ʾattâ ḥullêṯā ḵāmônû ... hûraḏ šəʾôl gəʾônəḵā (you too have become weak like us; your
-    pride is brought down to Sheol) vs. dhuq innaka anta l-ʿazīzu l-karīm (taste! you are the mighty,
-    the noble!). Isaiah''s mockers are the dead kings in Sheol; the Quran''s are the angels of hell.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
-- tradition: judaism
-  ref: Isa 14:11
-  note: 'The damned man is taunted: ''Taste! You are the mighty, the noble!'' (The mighty mocked in the
-    underworld: gam ʾattâ ḥullêṯā ḵāmônû ... hûraḏ šəʾôl gəʾônəḵā (you too have become weak like us; your
-    pride is brought down to Sheol) vs. dhuq innaka anta l-ʿazīzu l-karīm (taste! you are the mighty,
-    the noble!). Isaiah''s mockers are the dead kings in Sheol; the Quran''s are the angels of hell.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הוּרַ֥ד שְׁא֛וֹל גְּאוֹנֶ֖ךָ הֶמְיַ֣ת נְבָלֶ֑יךָ תַּחְתֶּ֨יךָ֙ יֻצַּ֣ע רִמָּ֔ה וּמְכַסֶּ֖יךָ תּוֹלֵעָֽה
-- tradition: islam
-  ref: Quran 44:49
-  note: 'The damned man is taunted: ''Taste! You are the mighty, the noble!'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. The mighty mocked in the underworld: gam ʾattâ ḥullêṯā ḵāmônû ... hûraḏ šəʾôl gəʾônəḵā (you
-    too have become weak like us; your pride is brought down to Sheol) vs. dhuq innaka anta l-ʿazīzu l-karīm
-    (taste! you are the mighty, the noble!). Isaiah''s mockers are the dead kings in Sheol; the Quran''s
-    are the angels of hell.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The damned man is taunted: ''Taste! You are the mighty, the noble!''
     (weight 6.7). Pair score 6.7.'
@@ -86,6 +57,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The damned man is taunted: ''Taste! You are the mighty, the noble!'''
+kinds:
+- parallel
+units:
+- id: hb-isa-14-helel-ben-shahar
+  title: Restoration of Jacob and the taunt over the king of Babylon (Helel son of Dawn)
+  tradition: judaism
+- id: quran-44-dukhan-zaqqum-and-garden
+  title: Deniers demand their fathers; the people of Tubba'; the tree of Zaqqum; silk, brocade and the
+    houris
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The damned man is taunted: ''Taste! You are the mighty, the noble!'''
+  note: 'The mighty mocked in the underworld: gam ʾattâ ḥullêṯā ḵāmônû ... hûraḏ šəʾôl gəʾônəḵā (you too
+    have become weak like us; your pride is brought down to Sheol) vs. dhuq innaka anta l-ʿazīzu l-karīm
+    (taste! you are the mighty, the noble!). Isaiah''s mockers are the dead kings in Sheol; the Quran''s
+    are the angels of hell.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 14:10
+      lang: he
+      text: כֻּלָּ֣ם יַֽעֲנ֔וּ וְיֹאמְר֖וּ אֵלֶ֑יךָ גַּם אַתָּ֛ה חֻלֵּ֥יתָ כָמ֖וֹנוּ אֵלֵ֥ינוּ נִמְשָֽׁלְתָּ
+    - ref: Isa 14:11
+      lang: he
+      text: הוּרַ֥ד שְׁא֛וֹל גְּאוֹנֶ֖ךָ הֶמְיַ֣ת נְבָלֶ֑יךָ תַּחְתֶּ֨יךָ֙ יֻצַּ֣ע רִמָּ֔ה וּמְכַסֶּ֖יךָ
+        תּוֹלֵעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 44:49
+      lang: ar
+      text: ذُقْ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْكَرِيمُ
 ---
 
 ## Questions

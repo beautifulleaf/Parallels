@@ -2,8 +2,7 @@
 id: motif-hb-exod-20-decalogue-vs-quran-16-abrogation-food-abraham-sabbath
 title: The Ten Words and the people's fear ↔ Abrogation, the foreign teacher, coerced unbelief, food law,
   Abraham the hanif and the Sabbath (Surah 16:101-128)
-summary: 'These two units share 1 motifs: the sabbath was imposed only on those who differed about it
-  [response between the texts].'
+summary: '1 correspondence read side by side: 1 answers the other.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - sabbath-imposed-on-those-who-differed-as-response
-passages:
-- tradition: judaism
-  ref: Exod 20:8
-  note: The Sabbath was imposed only on those who differed about it [response between the texts] (Exod
-    grounds the Sabbath in creation, kî šēšet-yāmîm ʿāśâ YHWH ... wayyānaḥ bayyôm haššəbîʿî ʿal-kēn bērak
-    YHWH ʾet-yôm haššabbāt. Q makes it a particular imposition, innamā juʿila s-sabtu ʿalā lladhīna khtalafū
-    fīh, coming right after Abraham the ḥanīf (16:120-123), who has no Sabbath.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ
-- tradition: judaism
-  ref: Exod 20:10
-  note: The Sabbath was imposed only on those who differed about it [response between the texts] (Exod
-    grounds the Sabbath in creation, kî šēšet-yāmîm ʿāśâ YHWH ... wayyānaḥ bayyôm haššəbîʿî ʿal-kēn bērak
-    YHWH ʾet-yôm haššabbāt. Q makes it a particular imposition, innamā juʿila s-sabtu ʿalā lladhīna khtalafū
-    fīh, coming right after Abraham the ḥanīf (16:120-123), who has no Sabbath.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א תַעֲשֶׂ֨ה כָל מְלָאכָ֜ה אַתָּ֣ה וּבִנְךָֽ֣
-    וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
-- tradition: islam
-  ref: Quran 16:124
-  note: The Sabbath was imposed only on those who differed about it [response between the texts] (Exod
-    grounds the Sabbath in creation, kî šēšet-yāmîm ʿāśâ YHWH ... wayyānaḥ bayyôm haššəbîʿî ʿal-kēn bērak
-    YHWH ʾet-yôm haššabbāt. Q makes it a particular imposition, innamā juʿila s-sabtu ʿalā lladhīna khtalafū
-    fīh, coming right after Abraham the ḥanīf (16:120-123), who has no Sabbath.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ
-    يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    response. Exod grounds the Sabbath in creation, kî šēšet-yāmîm ʿāśâ YHWH ... wayyānaḥ bayyôm haššəbîʿî
-    ʿal-kēn bērak YHWH ʾet-yôm haššabbāt. Q makes it a particular imposition, innamā juʿila s-sabtu ʿalā
-    lladhīna khtalafū fīh, coming right after Abraham the ḥanīf (16:120-123), who has no Sabbath.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Sabbath was imposed only on those who differed about it [response
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -85,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Sabbath was imposed only on those who differed about it
+kinds:
+- response
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-16-abrogation-food-abraham-sabbath
+  title: Abrogation, the foreign teacher, coerced unbelief, food law, Abraham the hanif and the Sabbath
+    (Surah 16:101-128)
+  tradition: islam
+matches:
+- kind: response
+  label: The Sabbath was imposed only on those who differed about it
+  note: Exod grounds the Sabbath in creation, kî šēšet-yāmîm ʿāśâ YHWH ... wayyānaḥ bayyôm haššəbîʿî ʿal-kēn
+    bērak YHWH ʾet-yôm haššabbāt. Q makes it a particular imposition, innamā juʿila s-sabtu ʿalā lladhīna
+    khtalafū fīh, coming right after Abraham the ḥanīf (16:120-123), who has no Sabbath.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:8
+      lang: he
+      text: זָכ֛וֹר אֶת י֥וֹם הַשַּׁבָּ֖ת לְקַדְּשֽׁוֹ
+    - ref: Exod 20:10
+      lang: he
+      text: וְי֨וֹם֙ הַשְּׁבִיעִ֔י שַׁבָּ֖ת לַיהוָ֣ה אֱלֹהֶ֑יךָ לֹֽ֣א תַעֲשֶׂ֨ה כָל מְלָאכָ֜ה אַתָּ֣ה
+        וּבִנְךָֽ֣ וּבִתֶּ֗ךָ עַבְדְּךָ֤ וַאֲמָֽתְךָ֙ וּבְהֶמְתֶּ֔ךָ וְגֵרְךָ֖ אֲשֶׁ֥ר בִּשְׁעָרֶֽיךָ
+    - ref: Exod 20:11
+      lang: he
+      text: כִּ֣י שֵֽׁשֶׁת יָמִים֩ עָשָׂ֨ה יְהוָ֜ה אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ אֶת הַיָּם֙ וְאֶת כָּל
+        אֲשֶׁר בָּ֔ם וַיָּ֖נַח בַּיּ֣וֹם הַשְּׁבִיעִ֑י עַל כֵּ֗ן בֵּרַ֧ךְ יְהוָ֛ה אֶת י֥וֹם הַשַּׁבָּ֖ת
+        וַֽיְקַדְּשֵֽׁהוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:124
+      lang: ar
+      text: إِنَّمَا جُعِلَ ٱلسَّبْتُ عَلَى ٱلَّذِينَ ٱخْتَلَفُوا۟ فِيهِ وَإِنَّ رَبَّكَ لَيَحْكُمُ بَيْنَهُمْ
+        يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟ فِيهِ يَخْتَلِفُونَ
 ---
 
 ## Questions

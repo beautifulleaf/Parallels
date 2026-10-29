@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-56-tears-in-bottle-vs-quran-83-defrauders
 title: 'Psalm 56, when the Philistines seized David in Gath ↔ The defrauders: Sijjin and ''Illiyyun'
-summary: 'These two units share 1 motifs: god keeps a book in which names are written and from which sinners
-  are blotted.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +13,9 @@ layers:
 - motif
 motifs:
 - heavenly-book-of-life
-passages:
-- tradition: judaism
-  ref: Ps 56:9
-  note: God keeps a book in which names are written and from which sinners are blotted (God's record (sifrah)
-    of the sufferer's wanderings)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
-- tradition: islam
-  ref: Quran 83:18
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ
-- tradition: islam
-  ref: Quran 83:20
-  note: God keeps a book in which names are written and from which sinners are blotted (the record of
-    the righteous is an inscribed book in 'Illiyyun)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كِتَٰبٌ مَّرْقُومٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. kitābun marqūm ~ hă-lōʾ be-sifrātekā.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God keeps a book in which names are written and from which sinners
     are blotted (weight 4.6). Pair score 4.5.'
@@ -71,6 +48,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God keeps a book in which names are written and from which sinners are blotted
+kinds:
+- echo
+units:
+- id: hb-ps-56-tears-in-bottle
+  title: Psalm 56, when the Philistines seized David in Gath
+  tradition: judaism
+- id: quran-83-defrauders
+  title: 'The defrauders: Sijjin and ''Illiyyun'
+  tradition: islam
+matches:
+- kind: echo
+  label: God keeps a book in which names are written and from which sinners are blotted
+  note: kitābun marqūm ~ hă-lōʾ be-sifrātekā.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 56:9
+      lang: he
+      text: נֹדִי֮ סָפַ֪רְתָּ֫ה אָ֥תָּה שִׂ֣ימָה דִמְעָתִ֣י בְנֹאדֶ֑ךָ הֲ֝לֹ֗א בְּסִפְרָתֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 83:9
+      lang: ar
+      text: كِتَٰبٌ مَّرْقُومٌ
 ---
 
 ## Questions

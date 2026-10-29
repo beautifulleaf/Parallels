@@ -3,8 +3,7 @@ id: motif-hb-num-26-second-census-vs-quran-66-tahrim-wives-and-the-four-women
 title: 'Census of the second generation on the plains of Moab ↔ Al-Tahrim: the prohibited thing and the
   divulged secret; fire fed with stones; the wives of Noah and Lot, Pharaoh''s wife and Mary daughter
   of ''Imran'
-summary: 'These two units share 2 motifs: mother of moses, aaron and miriam named (jochebed, born to levi
-  in egypt), miriam / maryam named as the daughter of amram / ʿimran.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -17,47 +16,9 @@ layers:
 motifs:
 - mother-of-the-prophets-named
 - daughter-of-amram-named-miriam
-passages:
-- tradition: judaism
-  ref: Num 26:59
-  note: Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
-    וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
-- tradition: islam
-  ref: Quran 66:12
-  note: Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt) (Mary as 'daughter of
-    'Imran' (Amram), father of Miriam)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ
-    بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
-- tradition: judaism
-  ref: Num 26:59
-  note: 'Miriam / Maryam named as the daughter of Amram / ʿImran (maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām
-    ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The Hebrew Bible''s only Miriam is the daughter of
-    Amram and sister of Aaron; the Quran gives the mother of Jesus the same name and father. Leads only:
-    the identification question is for the checkers.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
-    וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
-- tradition: islam
-  ref: Quran 66:12
-  note: 'Miriam / Maryam named as the daughter of Amram / ʿImran (maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām
-    ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The Hebrew Bible''s only Miriam is the daughter of
-    Amram and sister of Aaron; the Quran gives the mother of Jesus the same name and father. Leads only:
-    the identification question is for the checkers.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ
-    بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The
-    Hebrew Bible''s only Miriam is the daughter of Amram and sister of Aaron; the Quran gives the mother
-    of Jesus the same name and father. Leads only: the identification question is for the checkers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi
     in Egypt) (weight 6.7); Miriam / Maryam named as the daughter of Amram / ʿImran (weight 6.3). Pair
@@ -95,6 +56,53 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Miriam / Maryam named as the daughter of Amram / ʿImran
+kinds:
+- echo
+- shared
+units:
+- id: hb-num-26-second-census
+  title: Census of the second generation on the plains of Moab
+  tradition: judaism
+- id: quran-66-tahrim-wives-and-the-four-women
+  title: 'Al-Tahrim: the prohibited thing and the divulged secret; fire fed with stones; the wives of
+    Noah and Lot, Pharaoh''s wife and Mary daughter of ''Imran'
+  tradition: islam
+matches:
+- kind: echo
+  label: Miriam / Maryam named as the daughter of Amram / ʿImran
+  note: 'maryama bnata ʿimrāna ~ wa-tēled le-ʿAmrām ʾet ʾAhărōn we-ʾet Mōšeh we-ʾēt Miryām ʾăḥōtām. The
+    Hebrew Bible''s only Miriam is the daughter of Amram and sister of Aaron; the Quran gives the mother
+    of Jesus the same name and father. Leads only: the identification question is for the checkers.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 26:59
+      lang: he
+      text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
+        וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 66:12
+      lang: ar
+      text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا
+        وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
+- kind: shared
+  label: Mother of Moses, Aaron and Miriam named (Jochebed, born to Levi in Egypt)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 26:59
+      lang: he
+      text: וְשֵׁ֣ם אֵ֣שֶׁת עַמְרָ֗ם יוֹכֶ֨בֶד֙ בַּת לֵוִ֔י אֲשֶׁ֨ר יָלְדָ֥ה אֹתָ֛הּ לְלֵוִ֖י בְּמִצְרָ֑יִם
+        וַתֵּ֣לֶד לְעַמְרָ֗ם אֶֽת אַהֲרֹן֙ וְאֶת מֹשֶׁ֔ה וְאֵ֖ת מִרְיָ֥ם אֲחֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 66:12
+      lang: ar
+      text: وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا
+        وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ
+    note: Mary as 'daughter of 'Imran' (Amram), father of Miriam
 ---
 
 ## Questions

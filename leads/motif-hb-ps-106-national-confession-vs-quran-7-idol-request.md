@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-106-national-confession-vs-quran-7-idol-request
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Israel asks for a god like the idol-worshipers
-summary: 'These two units share 1 motifs: people make a molten calf while the leader is on the mountain.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,39 +13,9 @@ layers:
 - motif
 motifs:
 - golden-calf
-passages:
-- tradition: judaism
-  ref: Ps 106:19-20
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (106:19) יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה (106:20) וַיָּמִ֥ירוּ אֶת כְּבוֹדָ֑ם
-    בְּתַבְנִ֥ית שׁ֝֗וֹר אֹכֵ֥ל עֵֽשֶׂב
-- tradition: judaism
-  ref: Ps 106:19
-  note: People make a molten calf while the leader is on the mountain (Located at Horeb)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
-- tradition: islam
-  ref: Quran 7:138
-  note: People make a molten calf while the leader is on the mountain (foreshadows; cf. Exod 32:1 'make
-    us gods')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ أَصْنَامٍ
-    لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ قَوْمٌ تَجْهَلُونَ
-- tradition: islam
-  ref: Quran 7:140
-  note: People make a molten calf while the leader is on the mountain (foreshadows; cf. Exod 32:1 'make
-    us gods')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Both set the turn to an idol right after the sea rescue and charge forgetting the saviour: wa-huwa
-    faḍḍalakum ... wa-idh anjaynākum vs šākᵉḥû ʾēl môšîʿām ʿōśeh gᵉdōlôt bᵉmiṣrāyim (after wayyigʿar bᵉyam-sûp).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: People make a molten calf while the leader is on the mountain (weight
     4.7). Pair score 4.7.'
@@ -73,6 +43,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: People make a molten calf while the leader is on the mountain
+kinds:
+- echo
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-7-idol-request
+  title: Israel asks for a god like the idol-worshipers
+  tradition: islam
+matches:
+- kind: echo
+  label: People make a molten calf while the leader is on the mountain
+  note: 'Both set the turn to an idol right after the sea rescue and charge forgetting the saviour: wa-huwa
+    faḍḍalakum ... wa-idh anjaynākum vs šākᵉḥû ʾēl môšîʿām ʿōśeh gᵉdōlôt bᵉmiṣrāyim (after wayyigʿar bᵉyam-sûp).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:9
+      lang: he
+      text: וַיִּגְעַ֣ר בְּיַם ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר
+    - ref: Ps 106:19
+      lang: he
+      text: יַעֲשׂוּ עֵ֥גֶל בְּחֹרֵ֑ב וַ֝יִּשְׁתַּחֲו֗וּ לְמַסֵּכָֽה
+    - ref: Ps 106:21
+      lang: he
+      text: שָׁ֭כְחוּ אֵ֣ל מוֹשִׁיעָ֑ם עֹשֶׂ֖ה גְדֹל֣וֹת בְּמִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:138
+      lang: ar
+      text: وَجَٰوَزْنَا بِبَنِىٓ إِسْرَٰٓءِيلَ ٱلْبَحْرَ فَأَتَوْا۟ عَلَىٰ قَوْمٍ يَعْكُفُونَ عَلَىٰٓ
+        أَصْنَامٍ لَّهُمْ قَالُوا۟ يَٰمُوسَى ٱجْعَل لَّنَآ إِلَٰهًا كَمَا لَهُمْ ءَالِهَةٌ قَالَ إِنَّكُمْ
+        قَوْمٌ تَجْهَلُونَ
+    - ref: Quran 7:140
+      lang: ar
+      text: قَالَ أَغَيْرَ ٱللَّهِ أَبْغِيكُمْ إِلَٰهًا وَهُوَ فَضَّلَكُمْ عَلَى ٱلْعَٰلَمِينَ
+    - ref: Quran 7:141
+      lang: ar
+      text: وَإِذْ أَنجَيْنَٰكُم مِّنْ ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ يُقَتِّلُونَ
+        أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 ---
 
 ## Questions

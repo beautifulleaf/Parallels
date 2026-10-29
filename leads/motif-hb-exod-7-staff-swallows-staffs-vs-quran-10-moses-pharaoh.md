@@ -2,10 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-10-moses-pharaoh
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Moses,
   the houses as qibla, and Pharaoh's drowning faith
-summary: 'These two units share 5 motifs: who throws the staff before pharaoh and what it becomes, who
-  causes pharaoh''s refusal: god hardening his heart, or pharaoh and his people themselves, god sends
-  moses and aaron together, with his signs, to pharaoh, prophet''s wonders are imitated by the king''s
-  magicians in a contest….'
+summary: '3 correspondences read side by side: 2 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -23,179 +20,9 @@ motifs:
 - moses-and-aaron-sent-with-signs
 - contest-with-court-magicians
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 7:10
-  note: 'Who throws the staff before Pharaoh and what it becomes (The contest with Pharaoh''s magicians,
-    with the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha
-    sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem
-    kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his
-    staff swallows theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their
-    magic.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
-    אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
-- tradition: judaism
-  ref: Exod 7:11
-  note: 'Who throws the staff before Pharaoh and what it becomes (The contest with Pharaoh''s magicians,
-    with the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha
-    sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem
-    kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his
-    staff swallows theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their
-    magic.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: islam
-  ref: Quran 10:79
-  note: 'Who throws the staff before Pharaoh and what it becomes (The contest with Pharaoh''s magicians,
-    with the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha
-    sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem
-    kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his
-    staff swallows theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their
-    magic.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 10:80
-  note: 'Who throws the staff before Pharaoh and what it becomes (The contest with Pharaoh''s magicians,
-    with the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha
-    sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem
-    kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his
-    staff swallows theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their
-    magic.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
-- tradition: judaism
-  ref: Exod 7:3
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (waʾănî ʾaqšeh ʾet-lēb parʿōh (God announces it unasked) and wayyeḥĕzaq lēb parʿōh vs Moses'' petition
-    wa-shdud ʿalā qulūbihim, granted (ujībat daʿwatukumā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (waʾănî ʾaqšeh ʾet-lēb parʿōh (God announces it unasked) and wayyeḥĕzaq lēb parʿōh vs Moses'' petition
-    wa-shdud ʿalā qulūbihim, granted (ujībat daʿwatukumā).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 10:88
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
-- tradition: islam
-  ref: Quran 10:89
-  note: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
-    (Pharaoh''s heart is made hard so that he will not let go or believe: rabbanā ṭmis ʿalā amwālihim
-    wa-shdud ʿalā qulūbihim fa-lā yuʾminū ḥattā yarawu l-ʿadhāba l-alīm; qāla qad ujībat daʿwatukumā vs
-    wayyōsep laḥăṭōʾ wayyakbēd libbô hûʾ waʿăbādāyw wayyeḥĕzaq lēb parʿōh. Who causes it changes: in Exod
-    Pharaoh hardens his own heart or God does so on his own initiative (Exod 7:3 waʾănî ʾaqšeh); in Q
-    God hardens it at the prayer of Moses and Aaron.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ قَدْ أُجِيبَت دَّعْوَتُكُمَا فَٱسْتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعْلَمُونَ
-- tradition: judaism
-  ref: Exod 7:1
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (Moses and Aaron sent together
-    to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi
-    bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה
-    נְבִיאֶֽךָ
-- tradition: judaism
-  ref: Exod 7:2
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (Moses and Aaron sent together
-    to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi
-    bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה וְשִׁלַּ֥ח
-    אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
-- tradition: islam
-  ref: Quran 10:75
-  note: 'God sends Moses and Aaron together, with his signs, to Pharaoh (Moses and Aaron sent together
-    to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi
-    bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا
-    فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Exod 7:11
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
-    מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
-- tradition: judaism
-  ref: Exod 7:12
-  note: Prophet's wonders are imitated by the king's magicians in a contest (hakhamim, mekhashshefim,
-    hartummim with their lahatim (secret arts))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת מַטֹּתָֽם
-- tradition: islam
-  ref: Quran 10:79
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 10:80
-  note: Prophet's wonders are imitated by the king's magicians in a contest
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
-- tradition: judaism
-  ref: Exod 7:3
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם
-- tradition: judaism
-  ref: Exod 7:13
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
-- tradition: islam
-  ref: Quran 10:88
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (at Moses'
-    own prayer)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى ٱلْحَيَوٰةِ
-    ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ وَٱشْدُدْ عَلَىٰ
-    قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence, parallel. Moses and Aaron sent together to Pharaoh with God''s signs: thumma baʿathnā
-    min baʿdihim mūsā wa-hārūna ilā firʿawna wa-malaʾihi bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā
-    ... wᵉhirbêtî ʾet-ʾōtōtay wᵉʾet-môpᵉtay (āyāt = ʾōtōt). The contest with Pharaoh''s magicians, with
-    the same verb ''throw'' (alqā / hišlîk): qāla lahum mūsā alqū mā antum mulqūn ... inna llāha sa-yubṭiluhu
-    vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem kēn ... wayyiblaʿ
-    maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change: in Exod Aaron throws first and his staff swallows
-    theirs; in Q Moses speaks and invites the magicians to throw first, and God voids their magic. waʾănî
-    ʾaqšeh ʾet-lēb parʿōh (God announces it unasked) and wayyeḥĕzaq lēb parʿōh vs Moses'' petition wa-shdud
-    ʿalā qulūbihim, granted (ujībat daʿwatukumā).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who throws the staff before Pharaoh and what it becomes (weight
     6.7); Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves
@@ -237,6 +64,146 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who throws the staff before Pharaoh and what it becomes
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-10-moses-pharaoh
+  title: Moses, the houses as qibla, and Pharaoh's drowning faith
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who throws the staff before Pharaoh and what it becomes
+  note: 'The contest with Pharaoh''s magicians, with the same verb ''throw'' (alqā / hišlîk): qāla lahum
+    mūsā alqū mā antum mulqūn ... inna llāha sa-yubṭiluhu vs wayyašlēk ʾahărōn ʾet-maṭṭēhû ... wayyaʿăśû
+    gam-hēm ḥarṭummê miṣrayim bᵉlahăṭêhem kēn ... wayyiblaʿ maṭṭēh-ʾahărōn ʾet-maṭṭōtām. The actors change:
+    in Exod Aaron throws first and his staff swallows theirs; in Q Moses speaks and invites the magicians
+    to throw first, and God voids their magic.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:10
+      lang: he
+      text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
+        אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+    - ref: Exod 7:12
+      lang: he
+      text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת
+        מַטֹּתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:79
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍ
+    - ref: Quran 10:80
+      lang: ar
+      text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
+    - ref: Quran 10:81
+      lang: ar
+      text: فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ
+        إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
+- kind: divergence
+  label: 'Who causes Pharaoh''s refusal: God hardening his heart, or Pharaoh and his people themselves'
+  note: waʾănî ʾaqšeh ʾet-lēb parʿōh (God announces it unasked) and wayyeḥĕzaq lēb parʿōh vs Moses' petition
+    wa-shdud ʿalā qulūbihim, granted (ujībat daʿwatukumā).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 7:13
+      lang: he
+      text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+- kind: parallel
+  label: God sends Moses and Aaron together, with his signs, to Pharaoh
+  note: 'Moses and Aaron sent together to Pharaoh with God''s signs: thumma baʿathnā min baʿdihim mūsā
+    wa-hārūna ilā firʿawna wa-malaʾihi bi-āyātinā vs wᵉʾahărōn ʾāḥîkā yihyeh nᵉbîʾekā ... wᵉhirbêtî ʾet-ʾōtōtay
+    wᵉʾet-môpᵉtay (āyāt = ʾōtōt).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ
+        יִהְיֶ֥ה נְבִיאֶֽךָ
+    - ref: Exod 7:2
+      lang: he
+      text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה
+        וְשִׁלַּ֥ח אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:75
+      lang: ar
+      text: ثُمَّ بَعَثْنَا مِنۢ بَعْدِهِم مُّوسَىٰ وَهَٰرُونَ إِلَىٰ فِرْعَوْنَ وَمَلَإِي۟هِۦ بِـَٔايَٰتِنَا
+        فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+- kind: shared
+  label: Prophet's wonders are imitated by the king's magicians in a contest
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:11
+      lang: he
+      text: וַיִּקְרָא֙ גַּם פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם הֵ֜ם חַרְטֻמֵּ֥י
+        מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן
+    - ref: Exod 7:12
+      lang: he
+      text: וַיַּשְׁלִ֨יכוּ֙ אִ֣ישׁ מַטֵּ֔הוּ וַיִּהְי֖וּ לְתַנִּינִ֑ם וַיִּבְלַ֥ע מַטֵּֽה אַהֲרֹ֖ן אֶת
+        מַטֹּתָֽם
+    note: hakhamim, mekhashshefim, hartummim with their lahatim (secret arts)
+  - tradition: islam
+    passages:
+    - ref: Quran 10:79
+      lang: ar
+      text: وَقَالَ فِرْعَوْنُ ٱئْتُونِى بِكُلِّ سَٰحِرٍ عَلِيمٍ
+    - ref: Quran 10:80
+      lang: ar
+      text: فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ
+    - ref: Quran 10:81
+      lang: ar
+      text: فَلَمَّآ أَلْقَوْا۟ قَالَ مُوسَىٰ مَا جِئْتُم بِهِ ٱلسِّحْرُ إِنَّ ٱللَّهَ سَيُبْطِلُهُۥٓ
+        إِنَّ ٱللَّهَ لَا يُصْلِحُ عَمَلَ ٱلْمُفْسِدِينَ
+- kind: shared
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:3
+      lang: he
+      text: וַאֲנִ֥י אַקְשֶׁ֖ה אֶת לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת אֹתֹתַ֛י וְאֶת מוֹפְתַ֖י בְּאֶ֥רֶץ
+        מִצְרָֽיִם
+    - ref: Exod 7:13
+      lang: he
+      text: וַיֶּחֱזַק֙ לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:88
+      lang: ar
+      text: وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيْتَ فِرْعَوْنَ وَمَلَأَهُۥ زِينَةً وَأَمْوَٰلًا فِى
+        ٱلْحَيَوٰةِ ٱلدُّنْيَا رَبَّنَا لِيُضِلُّوا۟ عَن سَبِيلِكَ رَبَّنَا ٱطْمِسْ عَلَىٰٓ أَمْوَٰلِهِمْ
+        وَٱشْدُدْ عَلَىٰ قُلُوبِهِمْ فَلَا يُؤْمِنُوا۟ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ
+    note: at Moses' own prayer
 ---
 
 ## Questions

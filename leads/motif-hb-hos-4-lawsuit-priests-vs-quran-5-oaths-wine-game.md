@@ -2,8 +2,7 @@
 id: motif-hb-hos-4-lawsuit-priests-vs-quran-5-oaths-wine-game
 title: YHWH's lawsuit; priests, divination and cultic harlotry ↔ Lawful good things, oath expiation, wine
   and gambling, game in iḥrām
-summary: 'These two units share 1 motifs: the people consult their piece of wood and their staff (rhabdomancy)
-  gives them oracles.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - divination-by-wood-and-staff
-passages:
-- tradition: judaism
-  ref: Hos 4:12
-  note: The people consult their piece of wood and their staff (rhabdomancy) gives them oracles
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַמִּי֙ בְּעֵצ֣וֹ יִשְׁאָ֔ל וּמַקְל֖וֹ יַגִּ֣יד ל֑וֹ כִּ֣י ר֤וּחַ זְנוּנִים֙ הִתְעָ֔ה וַיִּזְנ֖וּ
-    מִתַּ֥חַת אֱלֹהֵיהֶֽם
-- tradition: judaism
-  ref: Hos 4:11
-  note: The people consult their piece of wood and their staff (rhabdomancy) gives them oracles
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זְנ֛וּת וְיַ֥יִן וְתִיר֖וֹשׁ יִֽקַּֽח לֵֽב
-- tradition: islam
-  ref: Quran 5:90
-  note: 'The people consult their piece of wood and their staff (rhabdomancy) gives them oracles (Wine
-    paired with divination by wood. Q: innamā l-khamru wa-l-maysiru wa-l-anṣābu wa-l-azlāmu rijsun ...
-    wa-yaṣuddakum ʿan dhikri llāhi. Hos: zənût wə-yayin wə-tîrôš yiqqaḥ-lēv; ʿammî bə-ʿēṣô yišʾāl û-maqlô
-    yaggîd lô. Wine ''takes the heart'' and the people consult their stick, as Q pairs wine with divining
-    arrows.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ
-    رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
-- tradition: islam
-  ref: Quran 5:91
-  note: 'The people consult their piece of wood and their staff (rhabdomancy) gives them oracles (Wine
-    paired with divination by wood. Q: innamā l-khamru wa-l-maysiru wa-l-anṣābu wa-l-azlāmu rijsun ...
-    wa-yaṣuddakum ʿan dhikri llāhi. Hos: zənût wə-yayin wə-tîrôš yiqqaḥ-lēv; ʿammî bə-ʿēṣô yišʾāl û-maqlô
-    yaggîd lô. Wine ''takes the heart'' and the people consult their stick, as Q pairs wine with divining
-    arrows.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا يُرِيدُ ٱلشَّيْطَٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ
-    وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ فَهَلْ أَنتُم مُّنتَهُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Wine paired with divination by wood. Q: innamā l-khamru wa-l-maysiru wa-l-anṣābu wa-l-azlāmu
-    rijsun ... wa-yaṣuddakum ʿan dhikri llāhi. Hos: zənût wə-yayin wə-tîrôš yiqqaḥ-lēv; ʿammî bə-ʿēṣô
-    yišʾāl û-maqlô yaggîd lô. Wine ''takes the heart'' and the people consult their stick, as Q pairs
-    wine with divining arrows.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people consult their piece of wood and their staff (rhabdomancy)
     gives them oracles (weight 6.7). Pair score 6.7.'
@@ -91,6 +51,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people consult their piece of wood and their staff (rhabdomancy) gives them oracles
+kinds:
+- echo
+units:
+- id: hb-hos-4-lawsuit-priests
+  title: YHWH's lawsuit; priests, divination and cultic harlotry
+  tradition: judaism
+- id: quran-5-oaths-wine-game
+  title: Lawful good things, oath expiation, wine and gambling, game in iḥrām
+  tradition: islam
+matches:
+- kind: echo
+  label: The people consult their piece of wood and their staff (rhabdomancy) gives them oracles
+  note: 'Wine paired with divination by wood. Q: innamā l-khamru wa-l-maysiru wa-l-anṣābu wa-l-azlāmu
+    rijsun ... wa-yaṣuddakum ʿan dhikri llāhi. Hos: zənût wə-yayin wə-tîrôš yiqqaḥ-lēv; ʿammî bə-ʿēṣô
+    yišʾāl û-maqlô yaggîd lô. Wine ''takes the heart'' and the people consult their stick, as Q pairs
+    wine with divining arrows.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 4:11
+      lang: he
+      text: זְנ֛וּת וְיַ֥יִן וְתִיר֖וֹשׁ יִֽקַּֽח לֵֽב
+    - ref: Hos 4:12
+      lang: he
+      text: עַמִּי֙ בְּעֵצ֣וֹ יִשְׁאָ֔ל וּמַקְל֖וֹ יַגִּ֣יד ל֑וֹ כִּ֣י ר֤וּחַ זְנוּנִים֙ הִתְעָ֔ה וַיִּזְנ֖וּ
+        מִתַּ֥חַת אֱלֹהֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 5:90
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْخَمْرُ وَٱلْمَيْسِرُ وَٱلْأَنصَابُ وَٱلْأَزْلَٰمُ
+        رِجْسٌ مِّنْ عَمَلِ ٱلشَّيْطَٰنِ فَٱجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ
+    - ref: Quran 5:91
+      lang: ar
+      text: إِنَّمَا يُرِيدُ ٱلشَّيْطَٰنُ أَن يُوقِعَ بَيْنَكُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ فِى ٱلْخَمْرِ
+        وَٱلْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ ٱللَّهِ وَعَنِ ٱلصَّلَوٰةِ فَهَلْ أَنتُم مُّنتَهُونَ
 ---
 
 ## Questions

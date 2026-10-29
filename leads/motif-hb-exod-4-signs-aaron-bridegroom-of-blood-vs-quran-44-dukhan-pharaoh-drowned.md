@@ -2,8 +2,7 @@
 id: motif-hb-exod-4-signs-aaron-bridegroom-of-blood-vs-quran-44-dukhan-pharaoh-drowned
 title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood ↔ Moses asks Pharaoh
   to hand over God's servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: what moses demands of pharaoh in god''s name [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - demand-made-of-pharaoh-as-divergence
-passages:
-- tradition: judaism
-  ref: Exod 4:22
-  note: 'What Moses demands of Pharaoh in God''s name [divergence between the texts] (What Moses demands,
-    and in whose name Israel is claimed. Exodus: kōh ʾāmar YHWH bənî ḇəḵōrî yiśrāʾēl ... šallaḥ ʾeṯ bənî
-    wə-yaʿaḇḏēnî (Israel is God''s firstborn son; release him to serve me). Quran: an addū ilayya ʿibāda
-    llāhi innī lakum rasūlun amīn (hand over to me the servants of God). Son (bēn) becomes servants (ʿibād),
-    and they are to be handed over to the messenger. Exodus'' threat on Pharaoh''s firstborn has no counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאָמַרְתָּ֖ אֶל פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Exod 4:23
-  note: 'What Moses demands of Pharaoh in God''s name [divergence between the texts] (What Moses demands,
-    and in whose name Israel is claimed. Exodus: kōh ʾāmar YHWH bənî ḇəḵōrî yiśrāʾēl ... šallaḥ ʾeṯ bənî
-    wə-yaʿaḇḏēnî (Israel is God''s firstborn son; release him to serve me). Quran: an addū ilayya ʿibāda
-    llāhi innī lakum rasūlun amīn (hand over to me the servants of God). Son (bēn) becomes servants (ʿibād),
-    and they are to be handed over to the messenger. Exodus'' threat on Pharaoh''s firstborn has no counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּח֑וֹ הִנֵּה֙ אָנֹכִ֣י
-    הֹרֵ֔ג אֶת בִּנְךָ֖ בְּכֹרֶֽךָ
-- tradition: islam
-  ref: Quran 44:18
-  note: 'What Moses demands of Pharaoh in God''s name [divergence between the texts] (What Moses demands,
-    and in whose name Israel is claimed. Exodus: kōh ʾāmar YHWH bənî ḇəḵōrî yiśrāʾēl ... šallaḥ ʾeṯ bənî
-    wə-yaʿaḇḏēnî (Israel is God''s firstborn son; release him to serve me). Quran: an addū ilayya ʿibāda
-    llāhi innī lakum rasūlun amīn (hand over to me the servants of God). Son (bēn) becomes servants (ʿibād),
-    and they are to be handed over to the messenger. Exodus'' threat on Pharaoh''s firstborn has no counterpart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. What Moses demands, and in whose name Israel is claimed. Exodus: kōh ʾāmar YHWH bənî ḇəḵōrî
-    yiśrāʾēl ... šallaḥ ʾeṯ bənî wə-yaʿaḇḏēnî (Israel is God''s firstborn son; release him to serve me).
-    Quran: an addū ilayya ʿibāda llāhi innī lakum rasūlun amīn (hand over to me the servants of God).
-    Son (bēn) becomes servants (ʿibād), and they are to be handed over to the messenger. Exodus'' threat
-    on Pharaoh''s firstborn has no counterpart.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What Moses demands of Pharaoh in God''s name [divergence between
     the texts] (weight 6.7). Pair score 6.7.'
@@ -91,6 +54,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What Moses demands of Pharaoh in God's name
+kinds:
+- divergence
+units:
+- id: hb-exod-4-signs-aaron-bridegroom-of-blood
+  title: Signs for Moses, Aaron as mouthpiece, return to Egypt, the bridegroom of blood
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: divergence
+  label: What Moses demands of Pharaoh in God's name
+  note: 'What Moses demands, and in whose name Israel is claimed. Exodus: kōh ʾāmar YHWH bənî ḇəḵōrî yiśrāʾēl
+    ... šallaḥ ʾeṯ bənî wə-yaʿaḇḏēnî (Israel is God''s firstborn son; release him to serve me). Quran:
+    an addū ilayya ʿibāda llāhi innī lakum rasūlun amīn (hand over to me the servants of God). Son (bēn)
+    becomes servants (ʿibād), and they are to be handed over to the messenger. Exodus'' threat on Pharaoh''s
+    firstborn has no counterpart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 4:22
+      lang: he
+      text: וְאָמַרְתָּ֖ אֶל פַּרְעֹ֑ה כֹּ֚ה אָמַ֣ר יְהוָ֔ה בְּנִ֥י בְכֹרִ֖י יִשְׂרָאֵֽל
+    - ref: Exod 4:23
+      lang: he
+      text: וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּח֑וֹ הִנֵּה֙ אָנֹכִ֣י
+        הֹרֵ֔ג אֶת בִּנְךָ֖ בְּכֹרֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 44:18
+      lang: ar
+      text: أَنْ أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ إِنِّى لَكُمْ رَسُولٌ أَمِينٌ
 ---
 
 ## Questions

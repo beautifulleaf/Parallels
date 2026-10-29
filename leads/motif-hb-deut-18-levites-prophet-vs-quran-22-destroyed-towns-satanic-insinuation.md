@@ -2,8 +2,7 @@
 id: motif-hb-deut-18-levites-prophet-vs-quran-22-destroyed-towns-satanic-insinuation
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Rejected prophets, ruined towns,
   the thousand-year day and Satan's insertion
-summary: 'These two units share 1 motifs: where false words in a prophet''s message come from, and what
-  becomes of them [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,51 +14,9 @@ layers:
 - motif
 motifs:
 - source-of-false-words-in-prophecy-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 18:20
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [contrast between
-    the texts] (Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall
-    die (û-mēt ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô).
-    Q 22:52: before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā
-    sh-shayṭānu fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the
-    prophet''s capital guilt in Deut, a universal hazard that God himself cancels in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙ לְדַבֵּ֔ר
-    וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
-- tradition: judaism
-  ref: Deut 18:22
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [contrast between
-    the texts] (Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall
-    die (û-mēt ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô).
-    Q 22:52: before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā
-    sh-shayṭānu fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the
-    prophet''s capital guilt in Deut, a universal hazard that God himself cancels in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁר֩ יְדַבֵּ֨ר הַנָּבִ֜יא בְּשֵׁ֣ם יְהוָ֗ה וְלֹֽא יִהְיֶ֤ה הַדָּבָר֙ וְלֹ֣א יָב֔וֹא ה֣וּא הַדָּבָ֔ר
-    אֲשֶׁ֥ר לֹא דִבְּר֖וֹ יְהוָ֑ה בְּזָדוֹן֙ דִּבְּר֣וֹ הַנָּבִ֔יא לֹ֥א תָג֖וּר מִמֶּֽנּוּ
-- tradition: islam
-  ref: Quran 22:52
-  note: 'Where false words in a prophet''s message come from, and what becomes of them [contrast between
-    the texts] (Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall
-    die (û-mēt ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô).
-    Q 22:52: before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā
-    sh-shayṭānu fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the
-    prophet''s capital guilt in Deut, a universal hazard that God himself cancels in the Quran.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى ٱلشَّيْطَٰنُ
-    فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ ءَايَٰتِهِۦ
-    وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall
-    die (û-mēt ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô).
-    Q 22:52: before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā
-    sh-shayṭānu fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the
-    prophet''s capital guilt in Deut, a universal hazard that God himself cancels in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Where false words in a prophet''s message come from, and what becomes
     of them [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -95,6 +52,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Where false words in a prophet's message come from, and what becomes of them
+kinds:
+- contrast
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-22-destroyed-towns-satanic-insinuation
+  title: Rejected prophets, ruined towns, the thousand-year day and Satan's insertion
+  tradition: islam
+matches:
+- kind: contrast
+  label: Where false words in a prophet's message come from, and what becomes of them
+  note: 'Deut 18:20-22: a prophet who presumes (yāzîd) to speak a word God did not command shall die (û-mēt
+    ha-nnāvîʾ ha-hûʾ); the word is known false when it does not come to pass (bə-zādôn dibbərô). Q 22:52:
+    before you no messenger or prophet was sent but when he wished Satan cast into his wish (alqā sh-shayṭānu
+    fī umniyyatihi), and God abrogates (yansakhu) what Satan casts. A false insertion is the prophet''s
+    capital guilt in Deut, a universal hazard that God himself cancels in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:20
+      lang: he
+      text: אַ֣ךְ הַנָּבִ֡יא אֲשֶׁ֣ר יָזִיד֩ לְדַבֵּ֨ר דָּבָ֜ר בִּשְׁמִ֗י אֵ֣ת אֲשֶׁ֤ר לֹֽא צִוִּיתִיו֙
+        לְדַבֵּ֔ר וַאֲשֶׁ֣ר יְדַבֵּ֔ר בְּשֵׁ֖ם אֱלֹהִ֣ים אֲחֵרִ֑ים וּמֵ֖ת הַנָּבִ֥יא הַהֽוּא
+    - ref: Deut 18:22
+      lang: he
+      text: אֲשֶׁר֩ יְדַבֵּ֨ר הַנָּבִ֜יא בְּשֵׁ֣ם יְהוָ֗ה וְלֹֽא יִהְיֶ֤ה הַדָּבָר֙ וְלֹ֣א יָב֔וֹא ה֣וּא
+        הַדָּבָ֔ר אֲשֶׁ֥ר לֹא דִבְּר֖וֹ יְהוָ֑ה בְּזָדוֹן֙ דִּבְּר֣וֹ הַנָּבִ֔יא לֹ֥א תָג֖וּר מִמֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:52
+      lang: ar
+      text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ مِن رَّسُولٍ وَلَا نَبِىٍّ إِلَّآ إِذَا تَمَنَّىٰٓ أَلْقَى
+        ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ فَيَنسَخُ ٱللَّهُ مَا يُلْقِى ٱلشَّيْطَٰنُ ثُمَّ يُحْكِمُ ٱللَّهُ
+        ءَايَٰتِهِۦ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

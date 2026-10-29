@@ -2,7 +2,7 @@
 id: motif-hb-ps-1-two-ways-vs-quran-25-hell-and-the-day-of-angels
 title: Psalm 1 - the two ways ↔ Raging hell, the disowning of false gods, the split sky and the regretful
   wrongdoer
-summary: 'These two units share 1 motifs: the wicked are like chaff driven by the wind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - wicked-as-chaff
-passages:
-- tradition: judaism
-  ref: Ps 1:4
-  note: The wicked are like chaff driven by the wind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
-- tradition: islam
-  ref: Quran 25:23
-  note: 'The wicked are like chaff driven by the wind (fa-jaʿalnāhu habāʾan manthūran ~ kam-mōṣ ʾăšer
-    tiddəfennû rûaḥ: what is worthless scatters like dust or chaff in the wind; in the Psalm the wicked
-    themselves, in the Quran their deeds.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَٰهُ هَبَآءً مَّنثُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. fa-jaʿalnāhu habāʾan manthūran ~ kam-mōṣ ʾăšer tiddəfennû rûaḥ: what is worthless scatters like
-    dust or chaff in the wind; in the Psalm the wicked themselves, in the Quran their deeds.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
     score 5.6.'
@@ -66,6 +50,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wicked are like chaff driven by the wind
+kinds:
+- echo
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-25-hell-and-the-day-of-angels
+  title: Raging hell, the disowning of false gods, the split sky and the regretful wrongdoer
+  tradition: islam
+matches:
+- kind: echo
+  label: The wicked are like chaff driven by the wind
+  note: 'fa-jaʿalnāhu habāʾan manthūran ~ kam-mōṣ ʾăšer tiddəfennû rûaḥ: what is worthless scatters like
+    dust or chaff in the wind; in the Psalm the wicked themselves, in the Quran their deeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:4
+      lang: he
+      text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:23
+      lang: ar
+      text: وَقَدِمْنَآ إِلَىٰ مَا عَمِلُوا۟ مِنْ عَمَلٍ فَجَعَلْنَٰهُ هَبَآءً مَّنثُورًا
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-33-elihu-dreams-and-angel-vs-quran-6-creation-rejecters
 title: Elihu - warning dreams and the interceding angel ↔ Darkness and light, clay and two terms, and
   those who would not believe
-summary: 'These two units share 2 motifs: the speaker too was ''pinched off from clay'' (qoratsti), like
-  a figure nipped from a lump of clay, first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,43 +15,9 @@ layers:
 motifs:
 - pinched-off-from-clay
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Job 33:6
-  note: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: islam
-  ref: Quran 6:2
-  note: 'The speaker too was ''pinched off from clay'' (qoratsti), like a figure nipped from a lump of
-    clay (Job: mē-ḥōmer qōraṣtî gam-ʾānî. Q: khalaqakum min ṭīnin. Human origin in clay (ḥōmer = ṭīn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ أَنتُمْ
-    تَمْتَرُونَ
-- tradition: judaism
-  ref: Job 33:6
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
-- tradition: judaism
-  ref: Job 33:4
-  note: First human shaped from dust, clay or soil
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
-- tradition: islam
-  ref: Quran 6:2
-  note: First human shaped from dust, clay or soil (min ṭīn)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ أَنتُمْ
-    تَمْتَرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Job: mē-ḥōmer qōraṣtî gam-ʾānî. Q: khalaqakum min ṭīnin. Human origin in clay (ḥōmer = ṭīn).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The speaker too was ''pinched off from clay'' (qoratsti), like a
     figure nipped from a lump of clay (weight 6.3); First human shaped from dust, clay or soil (weight
@@ -89,6 +54,51 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
+kinds:
+- echo
+- shared
+units:
+- id: hb-job-33-elihu-dreams-and-angel
+  title: Elihu - warning dreams and the interceding angel
+  tradition: judaism
+- id: quran-6-creation-rejecters
+  title: Darkness and light, clay and two terms, and those who would not believe
+  tradition: islam
+matches:
+- kind: echo
+  label: The speaker too was 'pinched off from clay' (qoratsti), like a figure nipped from a lump of clay
+  note: 'Job: mē-ḥōmer qōraṣtî gam-ʾānî. Q: khalaqakum min ṭīnin. Human origin in clay (ḥōmer = ṭīn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 6:2
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ
+        أَنتُمْ تَمْتَرُونَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 33:6
+      lang: he
+      text: הֵן אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם אָֽנִי
+    - ref: Job 33:4
+      lang: he
+      text: רֽוּחַ אֵ֥ל עָשָׂ֑תְנִי וְנִשְׁמַ֖ת שַׁדַּ֣י תְּחַיֵּֽנִי
+  - tradition: islam
+    passages:
+    - ref: Quran 6:2
+      lang: ar
+      text: هُوَ ٱلَّذِى خَلَقَكُم مِّن طِينٍ ثُمَّ قَضَىٰٓ أَجَلًا وَأَجَلٌ مُّسَمًّى عِندَهُۥ ثُمَّ
+        أَنتُمْ تَمْتَرُونَ
+    note: min ṭīn
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-24-privacy-modesty-marriage
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ Entering houses, lowering the gaze, head-coverings,
   marriage and manumission
-summary: 'These two units share 1 motifs: creditor must wait outside for the pledge and return a poor
-  man''s cloak by sunset.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - pledge-collected-outside-door
-passages:
-- tradition: judaism
-  ref: Deut 24:10
-  note: Creditor must wait outside for the pledge and return a poor man's cloak by sunset (widow's garment
-    may not be taken at all)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
-- tradition: judaism
-  ref: Deut 24:11
-  note: Creditor must wait outside for the pledge and return a poor man's cloak by sunset (widow's garment
-    may not be taken at all)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט הַחֽוּצָה
-- tradition: islam
-  ref: Quran 24:27
-  note: 'Creditor must wait outside for the pledge and return a poor man''s cloak by sunset (lā tadkhulū
-    buyūtan ghayra buyūtikum ḥattā tastaʾnisū ... wa-in qīla lakumu rjiʿū fa-rjiʿū ~ lōʾ tāvōʾ ʾel bêtô
-    laʿăvōṭ ʿăvōṭô ba-ḥûṣ taʿămōd: the privacy of another''s house; Deut forbids it to the creditor only,
-    the Quran makes asking permission a general rule.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟
-    وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-- tradition: islam
-  ref: Quran 24:28
-  note: 'Creditor must wait outside for the pledge and return a poor man''s cloak by sunset (lā tadkhulū
-    buyūtan ghayra buyūtikum ḥattā tastaʾnisū ... wa-in qīla lakumu rjiʿū fa-rjiʿū ~ lōʾ tāvōʾ ʾel bêtô
-    laʿăvōṭ ʿăvōṭô ba-ḥûṣ taʿămōd: the privacy of another''s house; Deut forbids it to the creditor only,
-    the Quran makes asking permission a general rule.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ وَإِن قِيلَ لَكُمُ
-    ٱرْجِعُوا۟ فَٱرْجِعُوا۟ هُوَ أَزْكَىٰ لَكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. lā tadkhulū buyūtan ghayra buyūtikum ḥattā tastaʾnisū ... wa-in qīla lakumu rjiʿū fa-rjiʿū ~
-    lōʾ tāvōʾ ʾel bêtô laʿăvōṭ ʿăvōṭô ba-ḥûṣ taʿămōd: the privacy of another''s house; Deut forbids it
-    to the creditor only, the Quran makes asking permission a general rule.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Creditor must wait outside for the pledge and return a poor man''s
     cloak by sunset (weight 6.3). Pair score 6.3.'
@@ -91,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Creditor must wait outside for the pledge and return a poor man's cloak by sunset
+kinds:
+- echo
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-24-privacy-modesty-marriage
+  title: Entering houses, lowering the gaze, head-coverings, marriage and manumission
+  tradition: islam
+matches:
+- kind: echo
+  label: Creditor must wait outside for the pledge and return a poor man's cloak by sunset
+  note: 'lā tadkhulū buyūtan ghayra buyūtikum ḥattā tastaʾnisū ... wa-in qīla lakumu rjiʿū fa-rjiʿū ~
+    lōʾ tāvōʾ ʾel bêtô laʿăvōṭ ʿăvōṭô ba-ḥûṣ taʿămōd: the privacy of another''s house; Deut forbids it
+    to the creditor only, the Quran makes asking permission a general rule.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:10
+      lang: he
+      text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
+    - ref: Deut 24:11
+      lang: he
+      text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט
+        הַחֽוּצָה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:27
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتًا غَيْرَ بُيُوتِكُمْ حَتَّىٰ تَسْتَأْنِسُوا۟
+        وَتُسَلِّمُوا۟ عَلَىٰٓ أَهْلِهَا ذَٰلِكُمْ خَيْرٌ لَّكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
+    - ref: Quran 24:28
+      lang: ar
+      text: فَإِن لَّمْ تَجِدُوا۟ فِيهَآ أَحَدًا فَلَا تَدْخُلُوهَا حَتَّىٰ يُؤْذَنَ لَكُمْ وَإِن قِيلَ
+        لَكُمُ ٱرْجِعُوا۟ فَٱرْجِعُوا۟ هُوَ أَزْكَىٰ لَكُمْ وَٱللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ
 ---
 
 ## Questions

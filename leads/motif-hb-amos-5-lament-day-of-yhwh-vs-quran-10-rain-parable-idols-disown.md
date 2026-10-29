@@ -2,7 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-10-rain-parable-idols-disown
 title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Life like a crop, the
   abode of peace, darkened faces
-summary: 'These two units share 1 motifs: the faces of evildoers are covered as with pieces of dark night.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,44 +14,9 @@ layers:
 - motif
 motifs:
 - faces-covered-with-night-darkness
-passages:
-- tradition: judaism
-  ref: Amos 5:18
-  note: 'The faces of evildoers are covered as with pieces of dark night (Darkness falls on the wicked
-    on God''s day: ka-annamā ughshiyat wujūhuhum qiṭaʿan mina l-layli muẓliman vs yôm YHWH hûʾ-ḥōšek wᵉlōʾ-ʾôr
-    ... wᵉʾāpēl wᵉlōʾ-nōgah lô. Amos makes the day itself dark; Q darkens the evildoers'' faces.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
-    אֽוֹר
-- tradition: judaism
-  ref: Amos 5:20
-  note: 'The faces of evildoers are covered as with pieces of dark night (Darkness falls on the wicked
-    on God''s day: ka-annamā ughshiyat wujūhuhum qiṭaʿan mina l-layli muẓliman vs yôm YHWH hûʾ-ḥōšek wᵉlōʾ-ʾôr
-    ... wᵉʾāpēl wᵉlōʾ-nōgah lô. Amos makes the day itself dark; Q darkens the evildoers'' faces.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹא חֹ֛שֶׁךְ י֥וֹם יְהוָ֖ה וְלֹא א֑וֹר וְאָפֵ֖ל וְלֹא נֹ֥גַֽהּ לֽוֹ
-- tradition: islam
-  ref: Quran 10:26
-  note: The faces of evildoers are covered as with pieces of dark night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لِّلَّذِينَ أَحْسَنُوا۟ ٱلْحُسْنَىٰ وَزِيَادَةٌ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ
-    أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْجَنَّةِ هُمْ فِيهَا خَٰلِدُونَ
-- tradition: islam
-  ref: Quran 10:27
-  note: The faces of evildoers are covered as with pieces of dark night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ مَّا
-    لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ مُظْلِمًا
-    أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Darkness falls on the wicked on God''s day: ka-annamā ughshiyat wujūhuhum qiṭaʿan mina l-layli
-    muẓliman vs yôm YHWH hûʾ-ḥōšek wᵉlōʾ-ʾôr ... wᵉʾāpēl wᵉlōʾ-nōgah lô. Amos makes the day itself dark;
-    Q darkens the evildoers'' faces.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The faces of evildoers are covered as with pieces of dark night
     (weight 6.7). Pair score 6.7.'
@@ -83,6 +48,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The faces of evildoers are covered as with pieces of dark night
+kinds:
+- echo
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-10-rain-parable-idols-disown
+  title: Life like a crop, the abode of peace, darkened faces
+  tradition: islam
+matches:
+- kind: echo
+  label: The faces of evildoers are covered as with pieces of dark night
+  note: 'Darkness falls on the wicked on God''s day: ka-annamā ughshiyat wujūhuhum qiṭaʿan mina l-layli
+    muẓliman vs yôm YHWH hûʾ-ḥōšek wᵉlōʾ-ʾôr ... wᵉʾāpēl wᵉlōʾ-nōgah lô. Amos makes the day itself dark;
+    Q darkens the evildoers'' faces.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:18
+      lang: he
+      text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
+        אֽוֹר
+    - ref: Amos 5:20
+      lang: he
+      text: הֲלֹא חֹ֛שֶׁךְ י֥וֹם יְהוָ֖ה וְלֹא א֑וֹר וְאָפֵ֖ל וְלֹא נֹ֥גַֽהּ לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 10:27
+      lang: ar
+      text: وَٱلَّذِينَ كَسَبُوا۟ ٱلسَّيِّـَٔاتِ جَزَآءُ سَيِّئَةٍۭ بِمِثْلِهَا وَتَرْهَقُهُمْ ذِلَّةٌ
+        مَّا لَهُم مِّنَ ٱللَّهِ مِنْ عَاصِمٍ كَأَنَّمَآ أُغْشِيَتْ وُجُوهُهُمْ قِطَعًا مِّنَ ٱلَّيْلِ
+        مُظْلِمًا أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ هُمْ فِيهَا خَٰلِدُونَ
 ---
 
 ## Questions

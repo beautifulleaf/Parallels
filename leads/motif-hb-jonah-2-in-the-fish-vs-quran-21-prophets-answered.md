@@ -2,8 +2,7 @@
 id: motif-hb-jonah-2-in-the-fish-vs-quran-21-prophets-answered
 title: Jonah swallowed by the great fish and his psalm ↔ Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah
   and Mary
-summary: 'These two units share 1 motifs: the man of the fish (dhū l-nūn) cries from the darknesses ''there
-  is no god but you; i was a wrongdoer'' and is saved [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,60 +14,9 @@ layers:
 - motif
 motifs:
 - jonah-cries-from-darknesses-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 2:2
-  note: 'The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a
-    wrongdoer'' and is saved [divergence between the texts] (Same setting and answer: wayyitpallēl yônâ
-    ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī
-    ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm. The prayer itself changes: Jonah''s psalm
-    is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and no confession; Q''s is a confession of
-    God''s oneness and his own guilt, lā ilāha illā anta subḥānaka innī kuntu mina ẓ-ẓālimīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
-- tradition: judaism
-  ref: Jonah 2:3
-  note: 'The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a
-    wrongdoer'' and is saved [divergence between the texts] (Same setting and answer: wayyitpallēl yônâ
-    ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī
-    ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm. The prayer itself changes: Jonah''s psalm
-    is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and no confession; Q''s is a confession of
-    God''s oneness and his own guilt, lā ilāha illā anta subḥānaka innī kuntu mina ẓ-ẓālimīn.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי
-    שָׁמַ֥עְתָּ קוֹלִֽי
-- tradition: islam
-  ref: Quran 21:87
-  note: 'The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a
-    wrongdoer'' and is saved [divergence between the texts] (Same setting and answer: wayyitpallēl yônâ
-    ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī
-    ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm. The prayer itself changes: Jonah''s psalm
-    is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and no confession; Q''s is a confession of
-    God''s oneness and his own guilt, lā ilāha illā anta subḥānaka innī kuntu mina ẓ-ẓālimīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
-    أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
-- tradition: islam
-  ref: Quran 21:88
-  note: 'The man of the fish (Dhū l-Nūn) cries from the darknesses ''There is no god but you; I was a
-    wrongdoer'' and is saved [divergence between the texts] (Same setting and answer: wayyitpallēl yônâ
-    ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī
-    ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm. The prayer itself changes: Jonah''s psalm
-    is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and no confession; Q''s is a confession of
-    God''s oneness and his own guilt, lā ilāha illā anta subḥānaka innī kuntu mina ẓ-ẓālimīn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Same setting and answer: wayyitpallēl yônâ ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî
-    ʾel-YHWH wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu
-    mina l-ghamm. The prayer itself changes: Jonah''s psalm is a thanksgiving with a vow (ʾăšer nādartî
-    ʾăšallēmâ) and no confession; Q''s is a confession of God''s oneness and his own guilt, lā ilāha illā
-    anta subḥānaka innī kuntu mina ẓ-ẓālimīn.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The man of the fish (Dhū l-Nūn) cries from the darknesses ''There
     is no god but you; I was a wrongdoer'' and is saved [divergence between the texts] (weight 6.7). Pair
@@ -103,6 +51,49 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
+  and is saved
+kinds:
+- divergence
+units:
+- id: hb-jonah-2-in-the-fish
+  title: Jonah swallowed by the great fish and his psalm
+  tradition: judaism
+- id: quran-21-prophets-answered
+  title: Job, Ishmael, Idris, Dhul-Kifl, Dhul-Nun, Zechariah and Mary
+  tradition: islam
+matches:
+- kind: divergence
+  label: The man of the fish (Dhū l-Nūn) cries from the darknesses 'There is no god but you; I was a wrongdoer'
+    and is saved
+  note: 'Same setting and answer: wayyitpallēl yônâ ... mimməʿê haddāgâ ... qārāʾtî miṣṣārâ lî ʾel-YHWH
+    wayyaʿănēnî ... wayyāqēʾ ʾet-yônâ; fa-nādā fī ẓ-ẓulumāti ... fa-stajabnā lahu wa-najjaynāhu mina l-ghamm.
+    The prayer itself changes: Jonah''s psalm is a thanksgiving with a vow (ʾăšer nādartî ʾăšallēmâ) and
+    no confession; Q''s is a confession of God''s oneness and his own guilt, lā ilāha illā anta subḥānaka
+    innī kuntu mina ẓ-ẓālimīn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:2
+      lang: he
+      text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
+    - ref: Jonah 2:3
+      lang: he
+      text: וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי
+        שָׁמַ֥עְתָּ קוֹלִֽי
+    - ref: Jonah 2:4
+      lang: he
+      text: וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר יְסֹבְבֵ֑נִי כָּל מִשְׁבָּרֶ֥יךָ וְגַלֶּ֖יךָ
+        עָלַ֥י עָבָֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:87
+      lang: ar
+      text: وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ
+        أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ
+    - ref: Quran 21:88
+      lang: ar
+      text: فَٱسْتَجَبْنَا لَهُۥ وَنَجَّيْنَٰهُ مِنَ ٱلْغَمِّ وَكَذَٰلِكَ نُۨجِى ٱلْمُؤْمِنِينَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-amos-5-lament-day-of-yhwh-vs-quran-38-sad-opening
 title: 'Lament for virgin Israel; seek me and live; the Day of YHWH is darkness ↔ Sad: the chiefs marvel
   at one God; the confederates of old'
-summary: 'These two units share 1 motifs: scoffers ask ''lord, hasten to us our share (qittana) before
-  the day of reckoning''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - hasten-our-share-before-reckoning
-passages:
-- tradition: judaism
-  ref: Amos 5:18
-  note: 'Scoffers ask ''Lord, hasten to us our share (qittana) before the Day of Reckoning'' (hôy ha-mmiṯʾawwîm
-    ʾeṯ-yôm YHWH ... hûʾ-ḥōšeḵ wə-lōʾ-ʾôr vs. ʿajjil lanā qiṭṭanā qabla yawmi l-ḥisāb: wishing for the
-    Day without knowing it is darkness.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
-    אֽוֹר
-- tradition: islam
-  ref: Quran 38:16
-  note: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hôy ha-mmiṯʾawwîm ʾeṯ-yôm YHWH ... hûʾ-ḥōšeḵ wə-lōʾ-ʾôr vs. ʿajjil lanā qiṭṭanā qabla yawmi
-    l-ḥisāb: wishing for the Day without knowing it is darkness.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Scoffers ask ''Lord, hasten to us our share (qittana) before the
     Day of Reckoning'' (weight 6.3). Pair score 6.3.'
@@ -70,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
+kinds:
+- echo
+units:
+- id: hb-amos-5-lament-day-of-yhwh
+  title: Lament for virgin Israel; seek me and live; the Day of YHWH is darkness
+  tradition: judaism
+- id: quran-38-sad-opening
+  title: 'Sad: the chiefs marvel at one God; the confederates of old'
+  tradition: islam
+matches:
+- kind: echo
+  label: Scoffers ask 'Lord, hasten to us our share (qittana) before the Day of Reckoning'
+  note: 'hôy ha-mmiṯʾawwîm ʾeṯ-yôm YHWH ... hûʾ-ḥōšeḵ wə-lōʾ-ʾôr vs. ʿajjil lanā qiṭṭanā qabla yawmi l-ḥisāb:
+    wishing for the Day without knowing it is darkness.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Amos 5:18
+      lang: he
+      text: ה֥וֹי הַמִּתְאַוִּ֖ים אֶת י֣וֹם יְהוָ֑ה לָמָּה זֶּ֥ה לָכֶ֛ם י֥וֹם יְהוָ֖ה הוּא חֹ֥שֶׁךְ וְלֹא
+        אֽוֹר
+  - tradition: islam
+    passages:
+    - ref: Quran 38:16
+      lang: ar
+      text: وَقَالُوا۟ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ
 ---
 
 ## Questions

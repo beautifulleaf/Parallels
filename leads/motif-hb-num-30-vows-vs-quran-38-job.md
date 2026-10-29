@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-30-vows-vs-quran-38-job
 title: Vows of men and women ↔ Job, the spring and the bundle of twigs
-summary: 'These two units share 1 motifs: a man''s vow or oath must be fulfilled as uttered.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - binding-vows
-passages:
-- tradition: judaism
-  ref: Num 30:3
-  note: A man's vow or oath must be fulfilled as uttered (lo yahel devaro)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
-    לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
-- tradition: islam
-  ref: Quran 38:44
-  note: A man's vow or oath must be fulfilled as uttered (the oath is kept by a legal device)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ ٱلْعَبْدُ
-    إِنَّهُۥٓ أَوَّابٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾô-hiššāḇaʿ šəḇuʿâ ... lōʾ yaḥēl dəḇārô kə-ḵol-ha-yyōṣēʾ mip-pîw yaʿăśeh vs. wa-khudh bi-yadika
-    ḍighthan fa-ḍrib bihi wa-lā taḥnath: an oath must not be broken. Numbers requires literal fulfilment;
-    the Quran lets Job keep the oath through a token fulfilment (one blow with a bundle). The content
-    of the oath is not stated in either text (cf. the exegetes'' story of the wife, outside the pair).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A man''s vow or oath must be fulfilled as uttered (weight 6.7).
     Pair score 6.7.'
@@ -59,6 +41,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A man's vow or oath must be fulfilled as uttered
+kinds:
+- parallel
+units:
+- id: hb-num-30-vows
+  title: Vows of men and women
+  tradition: judaism
+- id: quran-38-job
+  title: Job, the spring and the bundle of twigs
+  tradition: islam
+matches:
+- kind: parallel
+  label: A man's vow or oath must be fulfilled as uttered
+  note: 'ʾô-hiššāḇaʿ šəḇuʿâ ... lōʾ yaḥēl dəḇārô kə-ḵol-ha-yyōṣēʾ mip-pîw yaʿăśeh vs. wa-khudh bi-yadika
+    ḍighthan fa-ḍrib bihi wa-lā taḥnath: an oath must not be broken. Numbers requires literal fulfilment;
+    the Quran lets Job keep the oath through a token fulfilment (one blow with a bundle). The content
+    of the oath is not stated in either text (cf. the exegetes'' story of the wife, outside the pair).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 30:3
+      lang: he
+      text: אִישׁ֩ כִּֽי יִדֹּ֨ר נֶ֜דֶר לַֽיהוָ֗ה אֽוֹ הִשָּׁ֤בַע שְׁבֻעָה֙ לֶאְסֹ֤ר אִסָּר֙ עַל נַפְשׁ֔וֹ
+        לֹ֥א יַחֵ֖ל דְּבָר֑וֹ כְּכָל הַיֹּצֵ֥א מִפִּ֖יו יַעֲשֶֽׂה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:44
+      lang: ar
+      text: وَخُذْ بِيَدِكَ ضِغْثًا فَٱضْرِب بِّهِۦ وَلَا تَحْنَثْ إِنَّا وَجَدْنَٰهُ صَابِرًا نِّعْمَ
+        ٱلْعَبْدُ إِنَّهُۥٓ أَوَّابٌ
 ---
 
 ## Questions

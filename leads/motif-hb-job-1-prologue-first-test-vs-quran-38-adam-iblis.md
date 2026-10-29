@@ -2,8 +2,7 @@
 id: motif-hb-job-1-prologue-first-test-vs-quran-38-adam-iblis
 title: Job's piety, the heavenly council and the first test ↔ Adam made from clay; Iblis refuses and is
   granted respite
-summary: 'These two units share 1 motifs: the devil asks for and is granted respite until the day the
-  dead are raised.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - devil-granted-respite-until-resurrection
-passages:
-- tradition: judaism
-  ref: Job 1:12
-  note: 'The devil asks for and is granted respite until the day the dead are raised (hinnēh ḵol-ʾăšer-lô
-    bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ... la-ughwiyannahum ajmaʿīna
-    illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within a limit. In Job the licence
-    is a single test of one man by a member of the court; in the Quran it is respite until the Day for
-    a cursed rebel, limited by the sincere servants.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
-    יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
-- tradition: islam
-  ref: Quran 38:79
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
-- tradition: islam
-  ref: Quran 38:80
-  note: The devil asks for and is granted respite until the day the dead are raised
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. hinnēh ḵol-ʾăšer-lô bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ...
-    la-ughwiyannahum ajmaʿīna illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within
-    a limit. In Job the licence is a single test of one man by a member of the court; in the Quran it
-    is respite until the Day for a cursed rebel, limited by the sincere servants.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The devil asks for and is granted respite until the day the dead
     are raised (weight 5.8). Pair score 5.8.'
@@ -78,6 +50,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The devil asks for and is granted respite until the day the dead are raised
+kinds:
+- echo
+units:
+- id: hb-job-1-prologue-first-test
+  title: Job's piety, the heavenly council and the first test
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: echo
+  label: The devil asks for and is granted respite until the day the dead are raised
+  note: 'hinnēh ḵol-ʾăšer-lô bə-yāḏeḵā raq ʾēlâw ʾal-tišlaḥ yāḏeḵā vs. fa-innaka mina l-munẓarīn ... la-ughwiyannahum
+    ajmaʿīna illā ʿibādaka minhumu l-mukhlaṣīn: God grants the adversary licence within a limit. In Job
+    the licence is a single test of one man by a member of the court; in the Quran it is respite until
+    the Day for a cursed rebel, limited by the sincere servants.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 1:12
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוָ֜ה אֶל הַשָּׂטָ֗ן הִנֵּ֤ה כָל אֲשֶׁר לוֹ֙ בְּיָדֶ֔ךָ רַ֣ק אֵלָ֔יו אַל תִּשְׁלַ֖ח
+        יָדֶ֑ךָ וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵעִ֖ם פְּנֵ֥י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:79
+      lang: ar
+      text: قَالَ رَبِّ فَأَنظِرْنِىٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+    - ref: Quran 38:80
+      lang: ar
+      text: قَالَ فَإِنَّكَ مِنَ ٱلْمُنظَرِينَ
+    - ref: Quran 38:82
+      lang: ar
+      text: قَالَ فَبِعِزَّتِكَ لَأُغْوِيَنَّهُمْ أَجْمَعِينَ
 ---
 
 ## Questions

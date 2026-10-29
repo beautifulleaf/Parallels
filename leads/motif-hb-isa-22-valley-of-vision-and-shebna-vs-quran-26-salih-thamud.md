@@ -2,8 +2,7 @@
 id: motif-hb-isa-22-valley-of-vision-and-shebna-vs-quran-26-salih-thamud
 title: Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David ↔ Salih,
   the rock-hewn houses of Thamud and the she-camel
-summary: 'These two units share 1 motifs: thamūd hew houses out of the mountains, among gardens, springs
-  and palms with tender spathes.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - thamud-carve-houses-in-mountains
-passages:
-- tradition: judaism
-  ref: Isa 22:16
-  note: 'Thamūd hew houses out of the mountains, among gardens, springs and palms with tender spathes
-    (wa-tanḥitūna mina l-jibāli buyūtan ~ ḥōṣəvî mārôm qivrô ḥōqəqî vas-selaʿ miškān lô: cutting a dwelling
-    into the rock on the heights as a mark of arrogance; Shebna''s is a tomb, Thamūd''s are houses.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַה לְּךָ֥ פֹה֙ וּמִ֣י לְךָ֣ פֹ֔ה כִּֽי חָצַ֧בְתָּ לְּךָ֛ פֹּ֖ה קָ֑בֶר חֹצְבִ֤י מָרוֹם֙ קִבְר֔וֹ
-    חֹקְקִ֥י בַסֶּ֖לַע מִשְׁכָּ֥ן לֽוֹ
-- tradition: islam
-  ref: Quran 26:146
-  note: Thamūd hew houses out of the mountains, among gardens, springs and palms with tender spathes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَتُتْرَكُونَ فِى مَا هَٰهُنَآ ءَامِنِينَ
-- tradition: islam
-  ref: Quran 26:147
-  note: Thamūd hew houses out of the mountains, among gardens, springs and palms with tender spathes
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فِى جَنَّٰتٍ وَعُيُونٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-tanḥitūna mina l-jibāli buyūtan ~ ḥōṣəvî mārôm qivrô ḥōqəqî vas-selaʿ miškān lô: cutting
-    a dwelling into the rock on the heights as a mark of arrogance; Shebna''s is a tomb, Thamūd''s are
-    houses.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Thamūd hew houses out of the mountains, among gardens, springs and
     palms with tender spathes (weight 6.7). Pair score 6.7.'
@@ -79,6 +54,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Thamūd hew houses out of the mountains, among gardens, springs and palms with tender spathes
+kinds:
+- echo
+units:
+- id: hb-isa-22-valley-of-vision-and-shebna
+  title: Valley of vision; let us eat and drink; Shebna deposed, Eliakim given the key of David
+  tradition: judaism
+- id: quran-26-salih-thamud
+  title: Salih, the rock-hewn houses of Thamud and the she-camel
+  tradition: islam
+matches:
+- kind: echo
+  label: Thamūd hew houses out of the mountains, among gardens, springs and palms with tender spathes
+  note: 'wa-tanḥitūna mina l-jibāli buyūtan ~ ḥōṣəvî mārôm qivrô ḥōqəqî vas-selaʿ miškān lô: cutting a
+    dwelling into the rock on the heights as a mark of arrogance; Shebna''s is a tomb, Thamūd''s are houses.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 22:16
+      lang: he
+      text: מַה לְּךָ֥ פֹה֙ וּמִ֣י לְךָ֣ פֹ֔ה כִּֽי חָצַ֧בְתָּ לְּךָ֛ פֹּ֖ה קָ֑בֶר חֹצְבִ֤י מָרוֹם֙ קִבְר֔וֹ
+        חֹקְקִ֥י בַסֶּ֖לַע מִשְׁכָּ֥ן לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:149
+      lang: ar
+      text: وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَٰرِهِينَ
 ---
 
 ## Questions

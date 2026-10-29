@@ -2,8 +2,7 @@
 id: motif-hb-ps-150-final-hallelujah-vs-quran-17-polemic-and-resurrection
 title: Psalm 150, everything that breathes, praise Yah ↔ Daughters of God, all things glorify him, bones
   and dust, the cursed tree (Surah 17:40-60)
-summary: 'These two units share 2 motifs: ''let everything that has breath (neshamah) praise yah'', ''let
-  everything that has breath (neshamah) praise yah'' [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,41 +15,9 @@ layers:
 motifs:
 - everything-that-breathes-praise
 - everything-that-breathes-praise-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 150:6
-  note: '''Let everything that has breath (neshamah) praise Yah'''
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ יָֽהּ
-- tradition: islam
-  ref: Quran 17:44
-  note: '''Let everything that has breath (neshamah) praise Yah'''
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ
-    بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
-- tradition: judaism
-  ref: Ps 150:6
-  note: '''Let everything that has breath (neshamah) praise Yah'' [divergence between the texts] (kōl
-    hannəšāmâ təhallēl yāh, limited to what breathes; wa-in min shayʾin illā yusabbiḥu bi-ḥamdih, every
-    thing whatever. Ps ends with a command; Q states a fact.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ יָֽהּ
-- tradition: islam
-  ref: Quran 17:44
-  note: '''Let everything that has breath (neshamah) praise Yah'' [divergence between the texts] (kōl
-    hannəšāmâ təhallēl yāh, limited to what breathes; wa-in min shayʾin illā yusabbiḥu bi-ḥamdih, every
-    thing whatever. Ps ends with a command; Q states a fact.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا يُسَبِّحُ
-    بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. kōl hannəšāmâ təhallēl yāh, limited to what breathes; wa-in min shayʾin illā yusabbiḥu
-    bi-ḥamdih, every thing whatever. Ps ends with a command; Q states a fact.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: ''Let everything that has breath (neshamah) praise Yah'' (weight
     6.7); ''Let everything that has breath (neshamah) praise Yah'' [divergence between the texts] (weight
@@ -83,6 +50,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: '''Let everything that has breath (neshamah) praise Yah'''
+kinds:
+- divergence
+units:
+- id: hb-ps-150-final-hallelujah
+  title: Psalm 150, everything that breathes, praise Yah
+  tradition: judaism
+- id: quran-17-polemic-and-resurrection
+  title: Daughters of God, all things glorify him, bones and dust, the cursed tree (Surah 17:40-60)
+  tradition: islam
+matches:
+- kind: divergence
+  label: '''Let everything that has breath (neshamah) praise Yah'''
+  note: kōl hannəšāmâ təhallēl yāh, limited to what breathes; wa-in min shayʾin illā yusabbiḥu bi-ḥamdih,
+    every thing whatever. Ps ends with a command; Q states a fact.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 150:6
+      lang: he
+      text: כֹּ֣ל הַ֭נְּשָׁמָה תְּהַלֵּ֥ל יָ֗הּ הַֽלְלוּ יָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:44
+      lang: ar
+      text: تُسَبِّحُ لَهُ ٱلسَّمَٰوَٰتُ ٱلسَّبْعُ وَٱلْأَرْضُ وَمَن فِيهِنَّ وَإِن مِّن شَىْءٍ إِلَّا
+        يُسَبِّحُ بِحَمْدِهِۦ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
 ---
 
 ## Questions

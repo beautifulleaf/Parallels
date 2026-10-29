@@ -2,8 +2,7 @@
 id: motif-hb-ezek-18-sour-grapes-vs-quran-45-jathiya-signs-and-israel
 title: 'Sour grapes - individual responsibility and repentance ↔ Ha-Mim: the signs, the scornful liar,
   Israel''s book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: whoever does good does it for his own soul; whoever does evil,
-  it is against it.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,34 +15,9 @@ layers:
 - motif
 motifs:
 - each-soul-bears-own-deeds
-passages:
-- tradition: judaism
-  ref: Ezek 18:20
-  note: Whoever does good does it for his own soul; whoever does evil, it is against it (han-nep̄eš ha-ḥōṭēʾṯ
-    hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw tihyeh vs. man ʿamila ṣāliḥan
-    fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֺ֣ן
-    הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
-- tradition: judaism
-  ref: Ezek 18:10
-  note: Whoever does good does it for his own soul; whoever does evil, it is against it (han-nep̄eš ha-ḥōṭēʾṯ
-    hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw tihyeh vs. man ʿamila ṣāliḥan
-    fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהוֹלִ֥יד בֵּן פָּרִ֖יץ שֹׁפֵ֣ךְ דָּ֑ם וְעָ֣שָׂה אָ֔ח מֵאַחַ֖ד מֵאֵֽלֶּה
-- tradition: islam
-  ref: Quran 45:15
-  note: Whoever does good does it for his own soul; whoever does evil, it is against it
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَنْ عَمِلَ صَٰلِحًا فَلِنَفْسِهِۦ وَمَنْ أَسَآءَ فَعَلَيْهَا ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. han-nep̄eš ha-ḥōṭēʾṯ hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw
-    tihyeh vs. man ʿamila ṣāliḥan fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whoever does good does it for his own soul; whoever does evil, it
     is against it (weight 6.0). Pair score 6.0.'
@@ -85,6 +59,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whoever does good does it for his own soul; whoever does evil, it is against it
+kinds:
+- parallel
+units:
+- id: hb-ezek-18-sour-grapes
+  title: Sour grapes - individual responsibility and repentance
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Whoever does good does it for his own soul; whoever does evil, it is against it
+  note: han-nep̄eš ha-ḥōṭēʾṯ hîʾ ṯāmûṯ ... ṣiḏqaṯ haṣ-ṣaddîq ʿālâw tihyeh wə-rišʿaṯ hā-rāšāʿ ʿālâw tihyeh
+    vs. man ʿamila ṣāliḥan fa-li-nafsihi wa-man asāʾa fa-ʿalayhā (ʿālâw ~ ʿalayhā).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 18:20
+      lang: he
+      text: הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא יִשָּׂ֣א בַּעֲוֺ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙
+        בַּעֲוֺ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת רשע הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 45:15
+      lang: ar
+      text: مَنْ عَمِلَ صَٰلِحًا فَلِنَفْسِهِۦ وَمَنْ أَسَآءَ فَعَلَيْهَا ثُمَّ إِلَىٰ رَبِّكُمْ تُرْجَعُونَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-22-balaams-donkey-vs-quran-7-dog-parable
 title: Balaam's donkey and the angel ↔ The man who sloughed off God's signs (the panting dog)
-summary: 'These two units share 1 motifs: a ''satan'' on the seer''s way: god''s adversary-angel or the
-  tempter [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -14,42 +13,9 @@ layers:
 - motif
 motifs:
 - satan-on-the-seers-road-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 22:22
-  note: 'A ''satan'' on the seer''s way: God''s adversary-angel or the tempter [divergence between the
-    texts] (A satan on the seer''s road: fa-atbaʿahu sh-shayṭānu (Satan followed him) vs wayyityaṣṣēb
-    malʾak YHWH baddérek lᵉśāṭān lô; ʾānōkî yāṣāʾtî lᵉśāṭān. In Num the ''satan'' is God''s angel blocking
-    the seer; in Q it is Satan who leads him astray.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽחַר אַ֣ף אֱלֹהִים֮ כִּֽי הוֹלֵ֣ךְ הוּא֒ וַיִּתְיַצֵּ֞ב מַלְאַ֧ךְ יְהוָ֛ה בַּדֶּ֖רֶךְ לְשָׂטָ֣ן
-    ל֑וֹ וְהוּא֙ רֹכֵ֣ב עַל אֲתֹנ֔וֹ וּשְׁנֵ֥י נְעָרָ֖יו עִמּֽוֹ
-- tradition: judaism
-  ref: Num 22:32
-  note: 'A ''satan'' on the seer''s way: God''s adversary-angel or the tempter [divergence between the
-    texts] (A satan on the seer''s road: fa-atbaʿahu sh-shayṭānu (Satan followed him) vs wayyityaṣṣēb
-    malʾak YHWH baddérek lᵉśāṭān lô; ʾānōkî yāṣāʾtî lᵉśāṭān. In Num the ''satan'' is God''s angel blocking
-    the seer; in Q it is Satan who leads him astray.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר אֵלָיו֙ מַלְאַ֣ךְ יְהוָ֔ה עַל מָ֗ה הִכִּ֨יתָ֙ אֶת אֲתֹ֣נְךָ֔ זֶ֖ה שָׁל֣וֹשׁ רְגָלִ֑ים
-    הִנֵּ֤ה אָנֹכִי֙ יָצָ֣אתִי לְשָׂטָ֔ן כִּֽי יָרַ֥ט הַדֶּ֖רֶךְ לְנֶגְדִּֽי
-- tradition: islam
-  ref: Quran 7:175
-  note: 'A ''satan'' on the seer''s way: God''s adversary-angel or the tempter [divergence between the
-    texts] (A satan on the seer''s road: fa-atbaʿahu sh-shayṭānu (Satan followed him) vs wayyityaṣṣēb
-    malʾak YHWH baddérek lᵉśāṭān lô; ʾānōkî yāṣāʾtî lᵉśāṭān. In Num the ''satan'' is God''s angel blocking
-    the seer; in Q it is Satan who leads him astray.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ ٱلشَّيْطَٰنُ
-    فَكَانَ مِنَ ٱلْغَاوِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. A satan on the seer''s road: fa-atbaʿahu sh-shayṭānu (Satan followed him) vs wayyityaṣṣēb
-    malʾak YHWH baddérek lᵉśāṭān lô; ʾānōkî yāṣāʾtî lᵉśāṭān. In Num the ''satan'' is God''s angel blocking
-    the seer; in Q it is Satan who leads him astray.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A ''satan'' on the seer''s way: God''s adversary-angel or the tempter
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -73,6 +39,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'A ''satan'' on the seer''s way: God''s adversary-angel or the tempter'
+kinds:
+- divergence
+units:
+- id: hb-num-22-balaams-donkey
+  title: Balaam's donkey and the angel
+  tradition: judaism
+- id: quran-7-dog-parable
+  title: The man who sloughed off God's signs (the panting dog)
+  tradition: islam
+matches:
+- kind: divergence
+  label: 'A ''satan'' on the seer''s way: God''s adversary-angel or the tempter'
+  note: 'A satan on the seer''s road: fa-atbaʿahu sh-shayṭānu (Satan followed him) vs wayyityaṣṣēb malʾak
+    YHWH baddérek lᵉśāṭān lô; ʾānōkî yāṣāʾtî lᵉśāṭān. In Num the ''satan'' is God''s angel blocking the
+    seer; in Q it is Satan who leads him astray.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 22:22
+      lang: he
+      text: וַיִּֽחַר אַ֣ף אֱלֹהִים֮ כִּֽי הוֹלֵ֣ךְ הוּא֒ וַיִּתְיַצֵּ֞ב מַלְאַ֧ךְ יְהוָ֛ה בַּדֶּ֖רֶךְ
+        לְשָׂטָ֣ן ל֑וֹ וְהוּא֙ רֹכֵ֣ב עַל אֲתֹנ֔וֹ וּשְׁנֵ֥י נְעָרָ֖יו עִמּֽוֹ
+    - ref: Num 22:32
+      lang: he
+      text: וַיֹּ֤אמֶר אֵלָיו֙ מַלְאַ֣ךְ יְהוָ֔ה עַל מָ֗ה הִכִּ֨יתָ֙ אֶת אֲתֹ֣נְךָ֔ זֶ֖ה שָׁל֣וֹשׁ רְגָלִ֑ים
+        הִנֵּ֤ה אָנֹכִי֙ יָצָ֣אתִי לְשָׂטָ֔ן כִּֽי יָרַ֥ט הַדֶּ֖רֶךְ לְנֶגְדִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:175
+      lang: ar
+      text: وَٱتْلُ عَلَيْهِمْ نَبَأَ ٱلَّذِىٓ ءَاتَيْنَٰهُ ءَايَٰتِنَا فَٱنسَلَخَ مِنْهَا فَأَتْبَعَهُ
+        ٱلشَّيْطَٰنُ فَكَانَ مِنَ ٱلْغَاوِينَ
 ---
 
 ## Questions

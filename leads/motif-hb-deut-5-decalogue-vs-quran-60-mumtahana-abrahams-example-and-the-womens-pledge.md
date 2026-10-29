@@ -2,9 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-60-mumtahana-abrahams-example-and-the-womens-pledge
 title: 'The Decalogue restated and the people''s fear at Horeb ↔ Al-Mumtahana: no affection for God''s
   enemies, Abraham''s excellent example, examining emigrant women, and the women''s pledge'
-summary: 'These two units share 3 motifs: prohibitions of murder, adultery, theft and false witness [divergence
-  between the texts], the ten commandments (decalogue), prohibitions of murder, adultery, theft and false
-  witness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,89 +16,9 @@ motifs:
 - prohibition-murder-adultery-theft-false-witness-as-divergence
 - ten-commandments
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Deut 5:17
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (Deut:
-    lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies and widens: wa-lā
-    taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā taqrabū l-fawāḥisha
-    mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum fa-ʿdilū wa-law kāna
-    dhā qurbā (just speech even against kin). Theft is absent.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 60:12
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (A short
-    list of apodictic prohibitions, the women''s pledge as a small decalogue. Exodus: lōʾ yihyeh ləḵā
-    ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer. Quran: ʿalā
-    an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna wa-lā yaʾtīna
-    bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf. The same order of
-    other gods, theft, adultery, killing and false speech, but addressed to women as a pledge (bayʿa)
-    to the Prophet: murder narrowed to infanticide, false witness to a slander ''between their hands and
-    feet'' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath, parents or coveting.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Deut 5:6
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָֽנֹכִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֲשֶׁ֧ר הוֹצֵאתִ֛יךָ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים
-- tradition: judaism
-  ref: Deut 5:7
-  note: The Ten Commandments (Decalogue)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא יִהְיֶ֥ה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: islam
-  ref: Quran 60:12
-  note: The Ten Commandments (Decalogue) (a short decalogue-like list of prohibitions)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Deut 5:17
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Deut 5:18
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְלֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 60:12
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
-    بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
-    بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ فَبَايِعْهُنَّ
-    وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Deuteronomy''s Decalogue joins the prohibitions with wə- (lōʾ tirṣāḥ wə-lōʾ tinʾāp̄ wə-lōʾ tiḡnōḇ
-    ...), like the Quran''s chain wa-lā ... wa-lā ...; see the Exodus match for the differences.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
     between the texts] (weight 5.8); The Ten Commandments (Decalogue) (weight 5.4); Prohibitions of murder,
@@ -141,6 +59,99 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Ten Commandments (Decalogue)
+kinds:
+- echo
+- shared
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-60-mumtahana-abrahams-example-and-the-womens-pledge
+  title: 'Al-Mumtahana: no affection for God''s enemies, Abraham''s excellent example, examining emigrant
+    women, and the women''s pledge'
+  tradition: islam
+matches:
+- kind: echo
+  label: The Ten Commandments (Decalogue)
+  note: Deuteronomy's Decalogue joins the prohibitions with wə- (lōʾ tirṣāḥ wə-lōʾ tinʾāp̄ wə-lōʾ tiḡnōḇ
+    ...), like the Quran's chain wa-lā ... wa-lā ...; see the Exodus match for the differences.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:19
+      lang: he
+      text: וְלֹ֖א תִּגְנֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+- kind: shared
+  label: Prohibitions of murder, adultery, theft and false witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:20
+      lang: he
+      text: וְלֹֽא תַעֲנֶ֥ה בְרֵֽעֲךָ֖ עֵ֥ד שָֽׁוְא
+    note: 'Deut: lōʾ tirṣāḥ; wə-lōʾ tinʾāf; wə-lōʾ-taʿăneh və-rēʿăkhā ʿēd šāwʾ, absolute. Q qualifies
+      and widens: wa-lā taqtulū l-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi (with an exception); wa-lā
+      taqrabū l-fawāḥisha mā ẓahara minhā wa-mā baṭana (all indecency, not only adultery); wa-idhā qultum
+      fa-ʿdilū wa-law kāna dhā qurbā (just speech even against kin). Theft is absent.'
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+    note: 'A short list of apodictic prohibitions, the women''s pledge as a small decalogue. Exodus: lōʾ
+      yihyeh ləḵā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāp̄ lōʾ tiḡnōḇ lōʾ ṯaʿăneh ḇə-rēʿăḵā ʿēḏ šāqer.
+      Quran: ʿalā an lā yushrikna bi-llāhi shayʾan wa-lā yasriqna wa-lā yaznīna wa-lā yaqtulna awlādahunna
+      wa-lā yaʾtīna bi-buhtānin yaftarīnahu bayna aydīhinna wa-arjulihinna wa-lā yaʿṣīnaka fī maʿrūf.
+      The same order of other gods, theft, adultery, killing and false speech, but addressed to women
+      as a pledge (bayʿa) to the Prophet: murder narrowed to infanticide, false witness to a slander ''between
+      their hands and feet'' (false paternity, in tafsir), obedience to the Prophet added; no Sabbath,
+      parents or coveting.'
+- kind: shared
+  label: Prohibitions of murder, adultery, theft and false witness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:17
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Deut 5:18
+      lang: he
+      text: וְלֹ֖א תִּנְאָֽף
+    - ref: Deut 5:19
+      lang: he
+      text: וְלֹ֖א תִּגְנֹֽב
+  - tradition: islam
+    passages:
+    - ref: Quran 60:12
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ
+        بِٱللَّهِ شَيْـًٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَٰدَهُنَّ وَلَا يَأْتِينَ
+        بِبُهْتَٰنٍ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍ
+        فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

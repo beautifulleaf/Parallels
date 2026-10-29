@@ -2,7 +2,7 @@
 id: motif-hb-jer-44-queen-of-heaven-vs-quran-31-signs-and-unseen
 title: The Judeans in Egypt defend their cult of the Queen of Heaven ↔ God's signs, the inexhaustible
   words, and the five things only God knows
-summary: 'These two units share 1 motifs: rejecters reply ''we follow what we found our fathers upon''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - following-ancestors-blindly
-passages:
-- tradition: judaism
-  ref: Jer 44:17
-  note: 'Rejecters reply ''we follow what we found our fathers upon'' (Answer to the prophet''s call:
-    la-qaṭṭēr li-mleḵeṯ ha-ššāmayim ... kaʾăšer ʿāśînû ʾănaḥnû wa-ʾăḇōṯênû vs. bal nattabiʿu mā wajadnā
-    ʿalayhi ābāʾanā: the fathers'' cult is the defence against the prophet''s word.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת הַשָּׁמַיִם֮
-    וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ וְשָׂרֵ֔ינוּ
-    בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה טוֹבִ֔ים וְרָעָ֖ה
-    לֹ֥א רָאִֽינוּ
-- tradition: islam
-  ref: Quran 31:21
-  note: Rejecters reply 'we follow what we found our fathers upon'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ
-    ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. Answer to the prophet''s call: la-qaṭṭēr li-mleḵeṯ ha-ššāmayim ... kaʾăšer ʿāśînû ʾănaḥnû
-    wa-ʾăḇōṯênû vs. bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā: the fathers'' cult is the defence against
-    the prophet''s word.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rejecters reply ''we follow what we found our fathers upon'' (weight
     5.8). Pair score 5.8.'
@@ -74,6 +53,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rejecters reply 'we follow what we found our fathers upon'
+kinds:
+- parallel
+units:
+- id: hb-jer-44-queen-of-heaven
+  title: The Judeans in Egypt defend their cult of the Queen of Heaven
+  tradition: judaism
+- id: quran-31-signs-and-unseen
+  title: God's signs, the inexhaustible words, and the five things only God knows
+  tradition: islam
+matches:
+- kind: parallel
+  label: Rejecters reply 'we follow what we found our fathers upon'
+  note: 'Answer to the prophet''s call: la-qaṭṭēr li-mleḵeṯ ha-ššāmayim ... kaʾăšer ʿāśînû ʾănaḥnû wa-ʾăḇōṯênû
+    vs. bal nattabiʿu mā wajadnā ʿalayhi ābāʾanā: the fathers'' cult is the defence against the prophet''s
+    word.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 44:17
+      lang: he
+      text: כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת כָּל הַדָּבָ֣ר אֲשֶׁר יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת
+        הַשָּׁמַיִם֮ וְהַסֵּֽיךְ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֨ינוּ֙ מְלָכֵ֣ינוּ
+        וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע לֶ֨חֶם֙ וַנִּֽהְיֶ֣ה
+        טוֹבִ֔ים וְרָעָ֖ה לֹ֥א רָאִֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 31:21
+      lang: ar
+      text: وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا
+        عَلَيْهِ ءَابَآءَنَآ أَوَلَوْ كَانَ ٱلشَّيْطَٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ
 ---
 
 ## Questions

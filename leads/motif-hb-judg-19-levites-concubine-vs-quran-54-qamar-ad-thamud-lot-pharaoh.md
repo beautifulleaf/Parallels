@@ -2,8 +2,7 @@
 id: motif-hb-judg-19-levites-concubine-vs-quran-54-qamar-ad-thamud-lot-pharaoh
 title: The Levite's concubine at Gibeah ↔ Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh;
   everything by measure; the seat of truth
-summary: 'These two units share 1 motifs: townsmen surround the house and demand the male guest for sexual
-  abuse.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,35 +14,9 @@ layers:
 - motif
 motifs:
 - mob-demands-guest
-passages:
-- tradition: judaism
-  ref: Judg 19:22
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('sons of Belial' ... 'that
-    we may know him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֵמָּה֮ מֵיטִיבִ֣ים אֶת לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי בְלִיַּ֗עַל נָסַ֨בּוּ֙
-    אֶת הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙
-    לֵאמֹ֔ר הוֹצֵ֗א אֶת הָאִ֛ישׁ אֲשֶׁר בָּ֥א אֶל בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ
-- tradition: judaism
-  ref: Judg 19:23
-  note: Townsmen surround the house and demand the male guest for sexual abuse ('sons of Belial' ... 'that
-    we may know him')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּצֵ֣א אֲלֵיהֶ֗ם הָאִישׁ֙ בַּ֣עַל הַבַּ֔יִת וַיֹּ֣אמֶר אֲלֵהֶ֔ם אַל אַחַ֖י אַל תָּרֵ֣עוּ נָ֑א
-    אַ֠חֲרֵי אֲשֶׁר בָּ֞א הָאִ֤ישׁ הַזֶּה֙ אַל בֵּיתִ֔י אַֽל תַּעֲשׂ֖וּ אֶת הַנְּבָלָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 54:37
-  note: Townsmen surround the house and demand the male guest for sexual abuse
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. anšê ḇənê ḇəliyyaʿal nāsabbû ʾeṯ hab-bayiṯ ... hôṣēʾ ʾeṯ hā-ʾîš ʾăšer bāʾ ʾel bêṯəḵā wə-nēḏāʿennû
-    vs. wa-la-qad rāwadūhu ʿan ḍayfihi. The Gibeah story repeats Sodom''s demand but has no miraculous
-    rescue; the Quran''s version has God blinding the mob.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Townsmen surround the house and demand the male guest for sexual
     abuse (weight 6.0). Pair score 6.0.'
@@ -73,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Townsmen surround the house and demand the male guest for sexual abuse
+kinds:
+- echo
+units:
+- id: hb-judg-19-levites-concubine
+  title: The Levite's concubine at Gibeah
+  tradition: judaism
+- id: quran-54-qamar-ad-thamud-lot-pharaoh
+  title: Refrains over 'Ad, Thamud's she-camel, Lot's guests and Pharaoh; everything by measure; the seat
+    of truth
+  tradition: islam
+matches:
+- kind: echo
+  label: Townsmen surround the house and demand the male guest for sexual abuse
+  note: anšê ḇənê ḇəliyyaʿal nāsabbû ʾeṯ hab-bayiṯ ... hôṣēʾ ʾeṯ hā-ʾîš ʾăšer bāʾ ʾel bêṯəḵā wə-nēḏāʿennû
+    vs. wa-la-qad rāwadūhu ʿan ḍayfihi. The Gibeah story repeats Sodom's demand but has no miraculous
+    rescue; the Quran's version has God blinding the mob.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 19:22
+      lang: he
+      text: הֵמָּה֮ מֵיטִיבִ֣ים אֶת לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי בְלִיַּ֗עַל נָסַ֨בּוּ֙
+        אֶת הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙
+        לֵאמֹ֔ר הוֹצֵ֗א אֶת הָאִ֛ישׁ אֲשֶׁר בָּ֥א אֶל בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 54:37
+      lang: ar
+      text: وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ
 ---
 
 ## Questions

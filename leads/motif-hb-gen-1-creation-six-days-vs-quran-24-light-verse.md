@@ -2,7 +2,7 @@
 id: motif-hb-gen-1-creation-six-days-vs-quran-24-light-verse
 title: Creation in six days and the seventh-day rest ↔ The Light Verse; the mirage, the dark sea, the
   praising birds, hail and the creatures
-summary: 'These two units share 1 motifs: god made every living thing from water.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - every-living-thing-from-water
-passages:
-- tradition: judaism
-  ref: Gen 1:20
-  note: 'God made every living thing from water (wa-llāhu khalaqa kulla dābbatin min māʾin ~ yišrəṣû ha-mmayim
-    šereṣ nefeš ḥayyâ: living creatures come from water; in Genesis only the swarming things and birds
-    of day five, in the Quran every creature.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל הָאָ֔רֶץ
-    עַל פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם
-- tradition: islam
-  ref: Quran 24:45
-  note: God made every living thing from water
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم
-    مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ
-    إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. wa-llāhu khalaqa kulla dābbatin min māʾin ~ yišrəṣû ha-mmayim šereṣ nefeš ḥayyâ: living creatures
-    come from water; in Genesis only the swarming things and birds of day five, in the Quran every creature.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God made every living thing from water (weight 6.3). Pair score
     6.3.'
@@ -72,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God made every living thing from water
+kinds:
+- echo
+units:
+- id: hb-gen-1-creation-six-days
+  title: Creation in six days and the seventh-day rest
+  tradition: judaism
+- id: quran-24-light-verse
+  title: The Light Verse; the mirage, the dark sea, the praising birds, hail and the creatures
+  tradition: islam
+matches:
+- kind: echo
+  label: God made every living thing from water
+  note: 'wa-llāhu khalaqa kulla dābbatin min māʾin ~ yišrəṣû ha-mmayim šereṣ nefeš ḥayyâ: living creatures
+    come from water; in Genesis only the swarming things and birds of day five, in the Quran every creature.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 1:20
+      lang: he
+      text: וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל הָאָ֔רֶץ
+        עַל פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 24:45
+      lang: ar
+      text: وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٍ مِّن مَّآءٍ فَمِنْهُم مَّن يَمْشِى عَلَىٰ بَطْنِهِۦ وَمِنْهُم
+        مَّن يَمْشِى عَلَىٰ رِجْلَيْنِ وَمِنْهُم مَّن يَمْشِى عَلَىٰٓ أَرْبَعٍ يَخْلُقُ ٱللَّهُ مَا يَشَآءُ
+        إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
 ---
 
 ## Questions

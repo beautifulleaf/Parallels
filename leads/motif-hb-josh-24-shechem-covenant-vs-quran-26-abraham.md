@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-26-abraham
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Abraham's
   argument against idols and his prayer
-summary: 'These two units share 2 motifs: hero''s father makes, sells or worships idols [divergence between
-  the texts], hero''s father makes, sells or worships idols.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,91 +15,9 @@ layers:
 motifs:
 - father-serves-idols-as-divergence
 - father-serves-idols
-passages:
-- tradition: judaism
-  ref: Josh 24:2
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s father
-    served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm
-    ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār. Q: wa-idh qāla Ibrāhīmu
-    li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar and confronted, and Abraham
-    reasons his own way out (6:76-79).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:3
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s father
-    served other gods. The name and the agent differ. Josh: Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm
-    ʾăḥērîm, and God acts: wā-ʾeqqaḥ ʾet-ʾăvîkhem ʾet-ʾAvrāhām mē-ʿēver han-nāhār. Q: wa-idh qāla Ibrāhīmu
-    li-abīhi Āzara a-tattakhidhu aṣnāman ālihatan. The father is named Āzar and confronted, and Abraham
-    reasons his own way out (6:76-79).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ כְּנָ֑עַן
-    וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
-- tradition: islam
-  ref: Quran 26:70
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s idolatrous
-    father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm
-    ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away
-    (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham
-    argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares
-    their gods his enemy (fa-innahum ʿaduwwun lī).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 26:71
-  note: 'Hero''s father makes, sells or worships idols [divergence between the texts] (Abraham''s idolatrous
-    father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm
-    ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua God takes Abraham away
-    (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues. In the Quran Abraham
-    argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā), and he declares
-    their gods his enemy (fa-innahum ʿaduwwun lī).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
-- tradition: judaism
-  ref: Josh 24:2
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר הַנָּהָ֗ר
-    יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ אֱלֹהִ֥ים
-    אֲחֵרִֽים
-- tradition: judaism
-  ref: Josh 24:14-15
-  note: Hero's father makes, sells or worships idols (Terah, father of Abraham and Nahor, served other
-    gods beyond the River)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:14) וְעַתָּ֞ה יְר֧אוּ אֶת יְהוָ֛ה וְעִבְד֥וּ אֹת֖וֹ בְּתָמִ֣ים וּבֶֽאֱמֶ֑ת וְהָסִ֣ירוּ אֶת
-    אֱלֹהִ֗ים אֲשֶׁר֩ עָבְד֨וּ אֲבוֹתֵיכֶ֜ם בְּעֵ֤בֶר הַנָּהָר֙ וּבְמִצְרַ֔יִם וְעִבְד֖וּ אֶת יְהוָֽה
-    (24:15) וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת מִ֣י תַעֲבֹדוּן֒
-    אִ֣ם אֶת אֱלֹהִ֞ים אֲשֶׁר עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ בעבר מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת אֱלֹהֵ֣י
-    הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת יְהוָֽה
-- tradition: islam
-  ref: Quran 26:70
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
-- tradition: islam
-  ref: Quran 26:71
-  note: Hero's father makes, sells or worships idols
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. Abraham''s idolatrous father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām
-    ... wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman.
-    In Joshua God takes Abraham away (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks
-    nor argues. In the Quran Abraham argues with his father and people, who appeal to ancestral custom
-    (wajadnā ābāʾanā), and he declares their gods his enemy (fa-innahum ʿaduwwun lī).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Hero''s father makes, sells or worships idols [divergence between
     the texts] (weight 5.4); Hero''s father makes, sells or worships idols (weight 4.8). Pair score 10.3.'
@@ -137,6 +54,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Hero's father makes, sells or worships idols
+kinds:
+- divergence
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-26-abraham
+  title: Abraham's argument against idols and his prayer
+  tradition: islam
+matches:
+- kind: divergence
+  label: Hero's father makes, sells or worships idols
+  note: 'Abraham''s idolatrous father: bə-ʿēver han-nāhār yāšvû ʾăvôtêkem ... Teraḥ ʾăvî ʾAvrāhām ...
+    wa-yyaʿavdû ʾĕlōhîm ʾăḥērîm ~ idh qāla li-abīhi wa-qawmihi mā taʿbudūna qālū naʿbudu aṣnāman. In Joshua
+    God takes Abraham away (wā-ʾeqqaḥ ʾet ʾăvîkem ʾet ʾAvrāhām), and Abraham neither speaks nor argues.
+    In the Quran Abraham argues with his father and people, who appeal to ancestral custom (wajadnā ābāʾanā),
+    and he declares their gods his enemy (fa-innahum ʿaduwwun lī).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:2
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם כֹּֽה אָמַ֣ר יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ בְּעֵ֣בֶר
+        הַנָּהָ֗ר יָשְׁב֤וּ אֲבֽוֹתֵיכֶם֙ מֵֽעוֹלָ֔ם תֶּ֛רַח אֲבִ֥י אַבְרָהָ֖ם וַאֲבִ֣י נָח֑וֹר וַיַּעַבְד֖וּ
+        אֱלֹהִ֥ים אֲחֵרִֽים
+    - ref: Josh 24:3
+      lang: he
+      text: וָ֠אֶקַּח אֶת אֲבִיכֶ֤ם אֶת אַבְרָהָם֙ מֵעֵ֣בֶר הַנָּהָ֔ר וָאוֹלֵ֥ךְ אוֹת֖וֹ בְּכָל אֶ֣רֶץ
+        כְּנָ֑עַן וארב וָאַרְבֶּה֙ אֶת זַרְע֔וֹ וָֽאֶתֶּן ל֖וֹ אֶת יִצְחָֽק
+  - tradition: islam
+    passages:
+    - ref: Quran 26:70
+      lang: ar
+      text: إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ
+    - ref: Quran 26:71
+      lang: ar
+      text: قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَٰكِفِينَ
+    - ref: Quran 26:74
+      lang: ar
+      text: قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ
 ---
 
 ## Questions

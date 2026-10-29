@@ -2,8 +2,7 @@
 id: motif-hb-isa-13-oracle-against-babylon-vs-quran-77-sent-forth
 title: 'Oracle against Babylon; the Day of YHWH darkens the heavens ↔ Those sent forth: the refrain of
   woe'
-summary: 'These two units share 1 motifs: stars and constellations (kesilim) give no light, the sun is
-  dark at its rising and the moon does not shine.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,25 +15,9 @@ layers:
 - motif
 motifs:
 - stars-sun-and-moon-darkened
-passages:
-- tradition: judaism
-  ref: Isa 13:10
-  note: Stars and constellations (kesilim) give no light, the sun is dark at its rising and the moon does
-    not shine (kesilim, plural of Kesil (Orion), 'their Orions')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי כוֹכְבֵ֤י הַשָּׁמַ֨יִם֙ וּכְסִ֣ילֵיהֶ֔ם לֹ֥א יָהֵ֖לּוּ אוֹרָ֑ם חָשַׁ֤ךְ הַשֶּׁ֨מֶשׁ֙ בְּצֵאת֔וֹ
-    וְיָרֵ֖חַ לֹֽא יַגִּ֥יהַ אוֹרֽוֹ
-- tradition: islam
-  ref: Quran 77:8
-  note: Stars and constellations (kesilim) give no light, the sun is dark at its rising and the moon does
-    not shine (the stars effaced)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا ٱلنُّجُومُ طُمِسَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-idhā n-nujūmu ṭumisat ~ kî kôkevê ha-ššāmayim û-kesîlêhem lōʾ yāhēllû ʾôrām.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Stars and constellations (kesilim) give no light, the sun is dark
     at its rising and the moon does not shine (weight 6.3). Pair score 6.3.'
@@ -71,6 +54,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Stars and constellations (kesilim) give no light, the sun is dark at its rising and the moon
+  does not shine
+kinds:
+- parallel
+units:
+- id: hb-isa-13-oracle-against-babylon
+  title: Oracle against Babylon; the Day of YHWH darkens the heavens
+  tradition: judaism
+- id: quran-77-sent-forth
+  title: 'Those sent forth: the refrain of woe'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Stars and constellations (kesilim) give no light, the sun is dark at its rising and the moon
+    does not shine
+  note: fa-idhā n-nujūmu ṭumisat ~ kî kôkevê ha-ššāmayim û-kesîlêhem lōʾ yāhēllû ʾôrām.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 13:10
+      lang: he
+      text: כִּֽי כוֹכְבֵ֤י הַשָּׁמַ֨יִם֙ וּכְסִ֣ילֵיהֶ֔ם לֹ֥א יָהֵ֖לּוּ אוֹרָ֑ם חָשַׁ֤ךְ הַשֶּׁ֨מֶשׁ֙
+        בְּצֵאת֔וֹ וְיָרֵ֖חַ לֹֽא יַגִּ֥יהַ אוֹרֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 77:8
+      lang: ar
+      text: فَإِذَا ٱلنُّجُومُ طُمِسَتْ
 ---
 
 ## Questions

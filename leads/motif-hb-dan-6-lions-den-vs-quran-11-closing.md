@@ -1,8 +1,7 @@
 ---
 id: motif-hb-dan-6-lions-den-vs-quran-11-closing
 title: Daniel in the lions' den ↔ Stand firm; prayer times; good deeds remove bad
-summary: 'These two units share 1 motifs: perform prayer at the two ends of the day and in the near hours
-  of the night.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - prayer-at-two-ends-of-day-and-night
-passages:
-- tradition: judaism
-  ref: Dan 6:11
-  note: 'Perform prayer at the two ends of the day and in the near hours of the night (zimnîn təlātâ bəyômāʾ
-    hûʾ bārēk ... ûməṣallēʾ (Aramaic ṣlʾ, cognate of ṣalāt); aqimi ṣ-ṣalāta ṭarafayi n-nahār: fixed daily
-    prayer; Daniel three times a day, Q the two ends of the day and part of the night.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙
-    בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
-    וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
-- tradition: islam
-  ref: Quran 11:114
-  note: Perform prayer at the two ends of the day and in the near hours of the night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
-    ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. zimnîn təlātâ bəyômāʾ hûʾ bārēk ... ûməṣallēʾ (Aramaic ṣlʾ, cognate of ṣalāt); aqimi ṣ-ṣalāta
-    ṭarafayi n-nahār: fixed daily prayer; Daniel three times a day, Q the two ends of the day and part
-    of the night.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Perform prayer at the two ends of the day and in the near hours
     of the night (weight 6.3). Pair score 6.3.'
@@ -67,6 +46,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Perform prayer at the two ends of the day and in the near hours of the night
+kinds:
+- parallel
+units:
+- id: hb-dan-6-lions-den
+  title: Daniel in the lions' den
+  tradition: judaism
+- id: quran-11-closing
+  title: Stand firm; prayer times; good deeds remove bad
+  tradition: islam
+matches:
+- kind: parallel
+  label: Perform prayer at the two ends of the day and in the near hours of the night
+  note: 'zimnîn təlātâ bəyômāʾ hûʾ bārēk ... ûməṣallēʾ (Aramaic ṣlʾ, cognate of ṣalāt); aqimi ṣ-ṣalāta
+    ṭarafayi n-nahār: fixed daily prayer; Daniel three times a day, Q the two ends of the day and part
+    of the night.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Dan 6:11
+      lang: he
+      text: וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן
+        לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא בָּרֵ֣ךְ עַל בִּרְכ֗וֹהִי
+        וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל קֳבֵל֙ דִּֽי הֲוָ֣א עָבֵ֔ד מִן קַדְמַ֖ת דְּנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 11:114
+      lang: ar
+      text: وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَىِ ٱلنَّهَارِ وَزُلَفًا مِّنَ ٱلَّيْلِ إِنَّ ٱلْحَسَنَٰتِ يُذْهِبْنَ
+        ٱلسَّيِّـَٔاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّٰكِرِينَ
 ---
 
 ## Questions

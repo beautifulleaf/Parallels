@@ -2,10 +2,7 @@
 id: motif-hb-gen-18-visitors-at-mamre-vs-quran-15-abraham-guests-lot
 title: Three visitors at Mamre and the promise of Isaac ↔ Abraham's guests and the destruction of Lot's
   people (Surah 15:51-77)
-summary: 'These two units share 5 motifs: the patriarch tells his unknown guests ''we are afraid of you''
-  [divergence between the texts], patriarch or matriarch laughs at the promise of a child in old age [divergence
-  between the texts], god appears as three men who visit the patriarch, patriarch or matriarch laughs
-  at the promise of a child in old age….'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,169 +13,18 @@ traditions:
 layers:
 - motif
 motifs:
-- patriarch-afraid-of-guests-as-divergence
 - patriarch-laughs-at-promise-as-divergence
+- patriarch-afraid-of-guests-as-divergence
 - three-divine-visitors
 - patriarch-laughs-at-promise
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: Gen 18:2
-  note: 'The patriarch tells his unknown guests ''we are afraid of you'' [divergence between the texts]
-    (Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal, and they
-    eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn. Hospitality
-    and a shared meal become fear; there is no meal in this telling.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ
-    לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
-- tradition: judaism
-  ref: Gen 18:3
-  note: 'The patriarch tells his unknown guests ''we are afraid of you'' [divergence between the texts]
-    (Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal, and they
-    eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn. Hospitality
-    and a shared meal become fear; there is no meal in this telling.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמַ֑ר אֲדֹנָ֗י אִם נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל נָ֥א תַעֲבֹ֖ר מֵעַ֥ל עַבְדֶּֽךָ
-- tradition: islam
-  ref: Quran 15:51
-  note: 'The patriarch tells his unknown guests ''we are afraid of you'' [divergence between the texts]
-    (Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal, and they
-    eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn. Hospitality
-    and a shared meal become fear; there is no meal in this telling.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
-- tradition: islam
-  ref: Quran 15:52
-  note: 'The patriarch tells his unknown guests ''we are afraid of you'' [divergence between the texts]
-    (Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal, and they
-    eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn. Hospitality
-    and a shared meal become fear; there is no meal in this telling.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
-- tradition: judaism
-  ref: Gen 18:10
-  note: 'Patriarch or matriarch laughs at the promise of a child in old age [divergence between the texts]
-    (Who doubts. Gen: Sarah, listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî zāqēn)
-    and is rebuked: hăyippālēʾ mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an massaniya
-    l-kibaru fa-bima tubashshirūn, and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man yaqnaṭu
-    min raḥmati rabbihi illā ḍ-ḍāllūn. Sarah, the laughter and the name Isaac are absent (the son is only
-    ghulām ʿalīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
-    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
-- tradition: judaism
-  ref: Gen 18:12
-  note: 'Patriarch or matriarch laughs at the promise of a child in old age [divergence between the texts]
-    (Who doubts. Gen: Sarah, listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî zāqēn)
-    and is rebuked: hăyippālēʾ mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an massaniya
-    l-kibaru fa-bima tubashshirūn, and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man yaqnaṭu
-    min raḥmati rabbihi illā ḍ-ḍāllūn. Sarah, the laughter and the name Isaac are absent (the son is only
-    ghulām ʿalīm).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 15:53
-  note: 'Patriarch or matriarch laughs at the promise of a child in old age [divergence between the texts]
-    (Who doubts. Gen: Sarah, listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî zāqēn)
-    and is rebuked: hăyippālēʾ mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an massaniya
-    l-kibaru fa-bima tubashshirūn, and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man yaqnaṭu
-    min raḥmati rabbihi illā ḍ-ḍāllūn. Sarah, the laughter and the name Isaac are absent (the son is only
-    ghulām ʿalīm).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
-- tradition: islam
-  ref: Quran 15:54
-  note: 'Patriarch or matriarch laughs at the promise of a child in old age [divergence between the texts]
-    (Who doubts. Gen: Sarah, listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî zāqēn)
-    and is rebuked: hăyippālēʾ mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an massaniya
-    l-kibaru fa-bima tubashshirūn, and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man yaqnaṭu
-    min raḥmati rabbihi illā ḍ-ḍāllūn. Sarah, the laughter and the name Isaac are absent (the son is only
-    ghulām ʿalīm).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
-- tradition: judaism
-  ref: Gen 18:1
-  note: God appears as three men who visit the patriarch (YHWH appears; Abraham sees three men)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם
-- tradition: judaism
-  ref: Gen 18:2
-  note: God appears as three men who visit the patriarch (YHWH appears; Abraham sees three men)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ
-    לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
-- tradition: islam
-  ref: Quran 15:51
-  note: God appears as three men who visit the patriarch (ḍayf Ibrāhīm; their number is not given)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
-- tradition: islam
-  ref: Quran 15:52
-  note: God appears as three men who visit the patriarch (ḍayf Ibrāhīm; their number is not given)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
-- tradition: judaism
-  ref: Gen 18:12
-  note: Patriarch or matriarch laughs at the promise of a child in old age
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 15:54
-  note: Patriarch or matriarch laughs at the promise of a child in old age (here astonishment at old age,
-    not laughter)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
-- tradition: judaism
-  ref: Gen 18:10
-  note: A divine messenger announces a son's birth and gives his name ('at this time next year' (ka-et
-    hayyah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
-    שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
-- tradition: judaism
-  ref: Gen 18:14
-  note: A divine messenger announces a son's birth and gives his name ('at this time next year' (ka-et
-    hayyah))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
-- tradition: islam
-  ref: Quran 15:53
-  note: A divine messenger announces a son's birth and gives his name (a knowing boy (ghulām ʿalīm), unnamed
-    here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    divergence. Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal,
-    and they eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn.
-    Hospitality and a shared meal become fear; there is no meal in this telling. Who doubts. Gen: Sarah,
-    listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî zāqēn) and is rebuked: hăyippālēʾ
-    mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an massaniya l-kibaru fa-bima tubashshirūn,
-    and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man yaqnaṭu min raḥmati rabbihi illā ḍ-ḍāllūn.
-    Sarah, the laughter and the name Isaac are absent (the son is only ghulām ʿalīm).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: The patriarch tells his unknown guests ''we are afraid of you''
-    [divergence between the texts] (weight 6.7); Patriarch or matriarch laughs at the promise of a child
-    in old age [divergence between the texts] (weight 6.7); God appears as three men who visit the patriarch
+- text: 'Shared motifs, rarest first: Patriarch or matriarch laughs at the promise of a child in old age
+    [divergence between the texts] (weight 6.7); The patriarch tells his unknown guests ''we are afraid
+    of you'' [divergence between the texts] (weight 6.7); God appears as three men who visit the patriarch
     (weight 5.8); Patriarch or matriarch laughs at the promise of a child in old age (weight 5.6); A divine
     messenger announces a son''s birth and gives his name (weight 5.2). Pair score 29.9.'
   basis: reading
@@ -212,6 +58,119 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The patriarch tells his unknown guests 'we are afraid of you'
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-18-visitors-at-mamre
+  title: Three visitors at Mamre and the promise of Isaac
+  tradition: judaism
+- id: quran-15-abraham-guests-lot
+  title: Abraham's guests and the destruction of Lot's people (Surah 15:51-77)
+  tradition: islam
+matches:
+- kind: divergence
+  label: The patriarch tells his unknown guests 'we are afraid of you'
+  note: 'Gen: Abraham runs to meet the three men, bows (wayyištaḥû ʾārṣâ) and serves them a meal, and
+    they eat (wayyōʾkēlû). Q 15: the guests say salāman, and Abraham answers innā minkum wajilūn. Hospitality
+    and a shared meal become fear; there is no meal in this telling.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:2
+      lang: he
+      text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא
+        וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
+    - ref: Gen 18:3
+      lang: he
+      text: וַיֹּאמַ֑ר אֲדֹנָ֗י אִם נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל נָ֥א תַעֲבֹ֖ר מֵעַ֥ל עַבְדֶּֽךָ
+    - ref: Gen 18:5
+      lang: he
+      text: וְאֶקְחָ֨ה פַת לֶ֜חֶם וְסַעֲד֤וּ לִבְּכֶם֙ אַחַ֣ר תַּעֲבֹ֔רוּ כִּֽי עַל כֵּ֥ן עֲבַרְתֶּ֖ם
+        עַֽל עַבְדְּכֶ֑ם וַיֹּ֣אמְר֔וּ כֵּ֥ן תַּעֲשֶׂ֖ה כַּאֲשֶׁ֥ר דִּבַּֽרְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 15:51
+      lang: ar
+      text: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
+    - ref: Quran 15:52
+      lang: ar
+      text: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
+- kind: divergence
+  label: Patriarch or matriarch laughs at the promise of a child in old age
+  note: 'Who doubts. Gen: Sarah, listening at the tent door, laughs (wattiṣḥaq śārâ bəqirbāh ... waʾdōnî
+    zāqēn) and is rebuked: hăyippālēʾ mēYHWH dābār. Q: Abraham himself doubts, a-bashshartumūnī ʿalā an
+    massaniya l-kibaru fa-bima tubashshirūn, and is told fa-lā takun mina l-qāniṭīn. Abraham replies wa-man
+    yaqnaṭu min raḥmati rabbihi illā ḍ-ḍāllūn. Sarah, the laughter and the name Isaac are absent (the
+    son is only ghulām ʿalīm).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:10
+      lang: he
+      text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+        שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+    - ref: Gen 18:12
+      lang: he
+      text: וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י
+        זָקֵֽן
+    - ref: Gen 18:13
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה אֶל אַבְרָהָ֑ם לָ֣מָּה זֶּה֩ צָחֲקָ֨ה שָׂרָ֜ה לֵאמֹ֗ר הַאַ֥ף אֻמְנָ֛ם אֵלֵ֖ד
+        וַאֲנִ֥י זָקַֽנְתִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 15:53
+      lang: ar
+      text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
+    - ref: Quran 15:54
+      lang: ar
+      text: قَالَ أَبَشَّرْتُمُونِى عَلَىٰٓ أَن مَّسَّنِىَ ٱلْكِبَرُ فَبِمَ تُبَشِّرُونَ
+    - ref: Quran 15:55
+      lang: ar
+      text: قَالُوا۟ بَشَّرْنَٰكَ بِٱلْحَقِّ فَلَا تَكُن مِّنَ ٱلْقَٰنِطِينَ
+- kind: shared
+  label: God appears as three men who visit the patriarch
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:1
+      lang: he
+      text: וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה בְּאֵלֹנֵ֖י מַמְרֵ֑א וְה֛וּא יֹשֵׁ֥ב פֶּֽתַח הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם
+    - ref: Gen 18:2
+      lang: he
+      text: וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלֹשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא
+        וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה
+    note: YHWH appears; Abraham sees three men
+  - tradition: islam
+    passages:
+    - ref: Quran 15:51
+      lang: ar
+      text: وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَٰهِيمَ
+    - ref: Quran 15:52
+      lang: ar
+      text: إِذْ دَخَلُوا۟ عَلَيْهِ فَقَالُوا۟ سَلَٰمًا قَالَ إِنَّا مِنكُمْ وَجِلُونَ
+    note: ḍayf Ibrāhīm; their number is not given
+- kind: shared
+  label: A divine messenger announces a son's birth and gives his name
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:10
+      lang: he
+      text: וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה
+        שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַחֲרָֽיו
+    - ref: Gen 18:14
+      lang: he
+      text: הֲיִפָּלֵ֥א מֵיְהוָ֖ה דָּבָ֑ר לַמּוֹעֵ֞ד אָשׁ֥וּב אֵלֶ֛יךָ כָּעֵ֥ת חַיָּ֖ה וּלְשָׂרָ֥ה בֵֽן
+    note: '''at this time next year'' (ka-et hayyah)'
+  - tradition: islam
+    passages:
+    - ref: Quran 15:53
+      lang: ar
+      text: قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٍ
+    note: a knowing boy (ghulām ʿalīm), unnamed here
 ---
 
 ## Questions

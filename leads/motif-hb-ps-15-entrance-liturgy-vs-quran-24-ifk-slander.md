@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-15-entrance-liturgy-vs-quran-24-ifk-slander
 title: Psalm 15 - who may dwell on your holy mountain ↔ The affair of the lie (ifk) against a chaste woman
-summary: 'These two units share 1 motifs: the righteous does not slander with his tongue or take up reproach
-  against his neighbor.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - no-slander
-passages:
-- tradition: judaism
-  ref: Ps 15:3
-  note: The righteous does not slander with his tongue or take up reproach against his neighbor
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽא רָגַ֨ל עַל לְשֹׁנ֗וֹ לֹא עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא נָשָׂ֥א עַל קְרֹֽבוֹ
-- tradition: islam
-  ref: Quran 24:15
-  note: The righteous does not slander with his tongue or take up reproach against his neighbor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
-    وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
-- tradition: islam
-  ref: Quran 24:19
-  note: The righteous does not slander with his tongue or take up reproach against his neighbor
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلْفَٰحِشَةُ فِى ٱلَّذِينَ ءَامَنُوا۟ لَهُمْ عَذَابٌ أَلِيمٌ
-    فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. lōʾ rāgal ʿal ləšōnô ... wə-ḥerpâ lōʾ nāśāʾ ʿal qərōvô ~ idh talaqqawnahu bi-alsinatikum
-    ... hādhā buhtānun ʿaẓīmun: the tongue (lāšôn / alsina) does not take up a reproach (ḥerpâ / buhtān)
-    against a neighbor.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The righteous does not slander with his tongue or take up reproach
     against his neighbor (weight 6.7). Pair score 6.7.'
@@ -64,6 +40,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The righteous does not slander with his tongue or take up reproach against his neighbor
+kinds:
+- parallel
+units:
+- id: hb-ps-15-entrance-liturgy
+  title: Psalm 15 - who may dwell on your holy mountain
+  tradition: judaism
+- id: quran-24-ifk-slander
+  title: The affair of the lie (ifk) against a chaste woman
+  tradition: islam
+matches:
+- kind: parallel
+  label: The righteous does not slander with his tongue or take up reproach against his neighbor
+  note: 'lōʾ rāgal ʿal ləšōnô ... wə-ḥerpâ lōʾ nāśāʾ ʿal qərōvô ~ idh talaqqawnahu bi-alsinatikum ...
+    hādhā buhtānun ʿaẓīmun: the tongue (lāšôn / alsina) does not take up a reproach (ḥerpâ / buhtān) against
+    a neighbor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 15:3
+      lang: he
+      text: לֹֽא רָגַ֨ל עַל לְשֹׁנ֗וֹ לֹא עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא נָשָׂ֥א עַל קְרֹֽבוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 24:15
+      lang: ar
+      text: إِذْ تَلَقَّوْنَهُۥ بِأَلْسِنَتِكُمْ وَتَقُولُونَ بِأَفْوَاهِكُم مَّا لَيْسَ لَكُم بِهِۦ عِلْمٌ
+        وَتَحْسَبُونَهُۥ هَيِّنًا وَهُوَ عِندَ ٱللَّهِ عَظِيمٌ
+    - ref: Quran 24:16
+      lang: ar
+      text: وَلَوْلَآ إِذْ سَمِعْتُمُوهُ قُلْتُم مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَٰذَا سُبْحَٰنَكَ
+        هَٰذَا بُهْتَٰنٌ عَظِيمٌ
 ---
 
 ## Questions

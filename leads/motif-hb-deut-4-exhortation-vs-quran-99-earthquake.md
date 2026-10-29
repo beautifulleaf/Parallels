@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-99-earthquake
 title: 'Exhortation at Horeb''s memory; no image; exile and return ↔ The earthquake: the earth tells its
   news'
-summary: 'These two units share 1 motifs: heaven and earth called as witnesses against the people.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - heaven-and-earth-as-witnesses
-passages:
-- tradition: judaism
-  ref: Deut 4:26
-  note: Heaven and earth called as witnesses against the people
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַעִידֹתִי֩ בָכֶ֨ם הַיּ֜וֹם אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ כִּֽי אָבֹ֣ד תֹּאבֵדוּן֮ מַהֵר֒ מֵעַ֣ל
-    הָאָ֔רֶץ אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ לֹֽא תַאֲרִיכֻ֤ן יָמִים֙
-    עָלֶ֔יהָ כִּ֥י הִשָּׁמֵ֖ד תִּשָּׁמֵדֽוּן
-- tradition: islam
-  ref: Quran 99:4
-  note: Heaven and earth called as witnesses against the people (the earth testifies at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
-- tradition: islam
-  ref: Quran 99:5
-  note: Heaven and earth called as witnesses against the people (the earth testifies at judgment)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. tuḥaddithu akhbārahā ~ hăʿîdōtî vākem ha-yyôm ʾet ha-ššāmayim we-ʾet hā-ʾāreṣ: earth as witness;
-    summoned to the covenant in Deuteronomy, testifying at the Judgment in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Heaven and earth called as witnesses against the people (weight
     5.8). Pair score 5.8.'
@@ -67,6 +45,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Heaven and earth called as witnesses against the people
+kinds:
+- echo
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-99-earthquake
+  title: 'The earthquake: the earth tells its news'
+  tradition: islam
+matches:
+- kind: echo
+  label: Heaven and earth called as witnesses against the people
+  note: 'tuḥaddithu akhbārahā ~ hăʿîdōtî vākem ha-yyôm ʾet ha-ššāmayim we-ʾet hā-ʾāreṣ: earth as witness;
+    summoned to the covenant in Deuteronomy, testifying at the Judgment in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:26
+      lang: he
+      text: הַעִידֹתִי֩ בָכֶ֨ם הַיּ֜וֹם אֶת הַשָּׁמַ֣יִם וְאֶת הָאָ֗רֶץ כִּֽי אָבֹ֣ד תֹּאבֵדוּן֮ מַהֵר֒
+        מֵעַ֣ל הָאָ֔רֶץ אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ לֹֽא תַאֲרִיכֻ֤ן
+        יָמִים֙ עָלֶ֔יהָ כִּ֥י הִשָּׁמֵ֖ד תִּשָּׁמֵדֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 99:4
+      lang: ar
+      text: يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا
+    - ref: Quran 99:5
+      lang: ar
+      text: بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا
 ---
 
 ## Questions

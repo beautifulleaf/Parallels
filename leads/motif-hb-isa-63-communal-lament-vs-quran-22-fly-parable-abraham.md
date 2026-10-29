@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-22-fly-parable-abraham
 title: Remembering the days of Moses - O that you would rend the heavens ↔ The parable of the fly; messengers
   from angels and men; the religion of Abraham
-summary: 'These two units share 1 motifs: whether abraham is the father of the community addressed [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - abraham-as-father-of-the-community-as-contrast
-passages:
-- tradition: judaism
-  ref: Isa 63:16
-  note: 'Whether Abraham is the father of the community addressed [contrast between the texts] (kî ʾAvrāhām
-    lōʾ yədāʿānû ... ʾattâ YHWH ʾāvînû: Isaiah turns from Abraham to God as father; Q 22:78 milla abīkum
-    Ibrāhīm, Abraham is the father and God the patron (huwa mawlākum). The Quran never calls God father.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי אַתָּ֣ה אָבִ֔ינוּ כִּ֤י אַבְרָהָם֙ לֹ֣א יְדָעָ֔נוּ וְיִשְׂרָאֵ֖ל לֹ֣א יַכִּירָ֑נוּ אַתָּ֤ה
-    יְהוָה֙ אָבִ֔ינוּ גֹּאֲלֵ֥נוּ מֵֽעוֹלָ֖ם שְׁמֶֽךָ
-- tradition: islam
-  ref: Quran 22:78
-  note: 'Whether Abraham is the father of the community addressed [contrast between the texts] (kî ʾAvrāhām
-    lōʾ yədāʿānû ... ʾattâ YHWH ʾāvînû: Isaiah turns from Abraham to God as father; Q 22:78 milla abīkum
-    Ibrāhīm, Abraham is the father and God the patron (huwa mawlākum). The Quran never calls God father.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ
-    مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا
-    لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ
-    وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ ٱلنَّصِيرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. kî ʾAvrāhām lōʾ yədāʿānû ... ʾattâ YHWH ʾāvînû: Isaiah turns from Abraham to God as father;
-    Q 22:78 milla abīkum Ibrāhīm, Abraham is the father and God the patron (huwa mawlākum). The Quran
-    never calls God father.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether Abraham is the father of the community addressed [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -74,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether Abraham is the father of the community addressed
+kinds:
+- contrast
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-22-fly-parable-abraham
+  title: The parable of the fly; messengers from angels and men; the religion of Abraham
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether Abraham is the father of the community addressed
+  note: 'kî ʾAvrāhām lōʾ yədāʿānû ... ʾattâ YHWH ʾāvînû: Isaiah turns from Abraham to God as father; Q
+    22:78 milla abīkum Ibrāhīm, Abraham is the father and God the patron (huwa mawlākum). The Quran never
+    calls God father.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:16
+      lang: he
+      text: כִּֽי אַתָּ֣ה אָבִ֔ינוּ כִּ֤י אַבְרָהָם֙ לֹ֣א יְדָעָ֔נוּ וְיִשְׂרָאֵ֖ל לֹ֣א יַכִּירָ֑נוּ אַתָּ֤ה
+        יְהוָה֙ אָבִ֔ינוּ גֹּאֲלֵ֥נוּ מֵֽעוֹלָ֖ם שְׁמֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 22:78
+      lang: ar
+      text: وَجَٰهِدُوا۟ فِى ٱللَّهِ حَقَّ جِهَادِهِۦ هُوَ ٱجْتَبَىٰكُمْ وَمَا جَعَلَ عَلَيْكُمْ فِى ٱلدِّينِ
+        مِنْ حَرَجٍ مِّلَّةَ أَبِيكُمْ إِبْرَٰهِيمَ هُوَ سَمَّىٰكُمُ ٱلْمُسْلِمِينَ مِن قَبْلُ وَفِى هَٰذَا
+        لِيَكُونَ ٱلرَّسُولُ شَهِيدًا عَلَيْكُمْ وَتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ فَأَقِيمُوا۟ ٱلصَّلَوٰةَ
+        وَءَاتُوا۟ ٱلزَّكَوٰةَ وَٱعْتَصِمُوا۟ بِٱللَّهِ هُوَ مَوْلَىٰكُمْ فَنِعْمَ ٱلْمَوْلَىٰ وَنِعْمَ
+        ٱلنَّصِيرُ
 ---
 
 ## Questions

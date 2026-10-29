@@ -2,7 +2,7 @@
 id: motif-hb-ps-19-heavens-and-torah-vs-quran-21-cosmic-signs-and-scales
 title: Psalm 19 - the heavens declare; the Torah is perfect ↔ The split heavens, water of life, orbits,
   mortality and the scales
-summary: 'These two units share 1 motifs: sun and moon each swim in an orbit (falak).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,36 +15,9 @@ layers:
 - motif
 motifs:
 - celestial-bodies-swim-in-orbit
-passages:
-- tradition: judaism
-  ref: Ps 19:5
-  note: 'Sun and moon each swim in an orbit (falak) (laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ
-    ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed
-    circuit (təqûpâ / falak). Ps gives the sun alone, a tent and a joyful runner; Q makes sun and moon
-    ''swim'' each in its orbit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּכָל הָאָ֨רֶץ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּהֶֽם
-- tradition: judaism
-  ref: Ps 19:6
-  note: 'Sun and moon each swim in an orbit (falak) (laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ
-    ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed
-    circuit (təqûpâ / falak). Ps gives the sun alone, a tent and a joyful runner; Q makes sun and moon
-    ''swim'' each in its orbit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
-- tradition: islam
-  ref: Quran 21:33
-  note: Sun and moon each swim in an orbit (falak)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô
-    ʿal-qəṣôtām; kullun fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûpâ / falak). Ps gives the
-    sun alone, a tent and a joyful runner; Q makes sun and moon ''swim'' each in its orbit.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon each swim in an orbit (falak) (weight 6.0). Pair score
     6.0.'
@@ -77,6 +50,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon each swim in an orbit (falak)
+kinds:
+- parallel
+units:
+- id: hb-ps-19-heavens-and-torah
+  title: Psalm 19 - the heavens declare; the Torah is perfect
+  tradition: judaism
+- id: quran-21-cosmic-signs-and-scales
+  title: The split heavens, water of life, orbits, mortality and the scales
+  tradition: islam
+matches:
+- kind: parallel
+  label: Sun and moon each swim in an orbit (falak)
+  note: 'laššemeš śām-ʾōhel bāhem ... yāśîś kəgibbôr lārûṣ ʾōraḥ miqṣēh haššāmayim môṣāʾô ûtəqûpātô ʿal-qəṣôtām;
+    kullun fī falakin yasbaḥūn: the sun runs a fixed circuit (təqûpâ / falak). Ps gives the sun alone,
+    a tent and a joyful runner; Q makes sun and moon ''swim'' each in its orbit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 19:5
+      lang: he
+      text: בְּכָל הָאָ֨רֶץ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם אֹ֥הֶל בָּהֶֽם
+    - ref: Ps 19:6
+      lang: he
+      text: וְה֗וּא כְּ֭חָתָן יֹצֵ֣א מֵחֻפָּת֑וֹ יָשִׂ֥ישׂ כְּ֝גִבּ֗וֹר לָר֥וּץ אֹֽרַח
+    - ref: Ps 19:7
+      lang: he
+      text: מִקְצֵ֤ה הַשָּׁמַ֨יִם מֽוֹצָא֗וֹ וּתְקוּפָת֥וֹ עַל קְצוֹתָ֑ם וְאֵ֥ין נִ֝סְתָּ֗ר מֵֽחַמָּתוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 21:33
+      lang: ar
+      text: وَهُوَ ٱلَّذِى خَلَقَ ٱلَّيْلَ وَٱلنَّهَارَ وَٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ فِى فَلَكٍ يَسْبَحُونَ
 ---
 
 ## Questions

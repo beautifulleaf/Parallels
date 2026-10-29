@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-25-furqan-and-objections
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ The Criterion sent down; charges of
   forgery and the prophet who eats in markets
-summary: 'These two units share 1 motifs: whether old tradition handed down from the ancients carries
-  authority [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - words-of-the-ancients-as-authority-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 78:2
-  note: 'Whether old tradition handed down from the ancients carries authority [contrast between the texts]
-    (asāṭīru l-awwalīna ~ ʾabbîʿâ ḥîdôt minnî qedem ʾăšer šāmaʿnû wa-nnēdāʿēm wa-ʾăvôtênû sippərû lānû:
-    in the Psalm ''riddles of old'' handed down by the fathers are a claim to authority; in the Quran
-    ''tales of the ancients'' is the opponents'' dismissal.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי קֶֽדֶם
-- tradition: judaism
-  ref: Ps 78:3
-  note: 'Whether old tradition handed down from the ancients carries authority [contrast between the texts]
-    (asāṭīru l-awwalīna ~ ʾabbîʿâ ḥîdôt minnî qedem ʾăšer šāmaʿnû wa-nnēdāʿēm wa-ʾăvôtênû sippərû lānû:
-    in the Psalm ''riddles of old'' handed down by the fathers are a claim to authority; in the Quran
-    ''tales of the ancients'' is the opponents'' dismissal.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ לָֽנוּ
-- tradition: islam
-  ref: Quran 25:5
-  note: 'Whether old tradition handed down from the ancients carries authority [contrast between the texts]
-    (asāṭīru l-awwalīna ~ ʾabbîʿâ ḥîdôt minnî qedem ʾăšer šāmaʿnû wa-nnēdāʿēm wa-ʾăvôtênû sippərû lānû:
-    in the Psalm ''riddles of old'' handed down by the fathers are a claim to authority; in the Quran
-    ''tales of the ancients'' is the opponents'' dismissal.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. asāṭīru l-awwalīna ~ ʾabbîʿâ ḥîdôt minnî qedem ʾăšer šāmaʿnû wa-nnēdāʿēm wa-ʾăvôtênû sippərû
-    lānû: in the Psalm ''riddles of old'' handed down by the fathers are a claim to authority; in the
-    Quran ''tales of the ancients'' is the opponents'' dismissal.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether old tradition handed down from the ancients carries authority
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -83,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether old tradition handed down from the ancients carries authority
+kinds:
+- contrast
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-25-furqan-and-objections
+  title: The Criterion sent down; charges of forgery and the prophet who eats in markets
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether old tradition handed down from the ancients carries authority
+  note: 'asāṭīru l-awwalīna ~ ʾabbîʿâ ḥîdôt minnî qedem ʾăšer šāmaʿnû wa-nnēdāʿēm wa-ʾăvôtênû sippərû
+    lānû: in the Psalm ''riddles of old'' handed down by the fathers are a claim to authority; in the
+    Quran ''tales of the ancients'' is the opponents'' dismissal.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:2
+      lang: he
+      text: אֶפְתְּחָ֣ה בְמָשָׁ֣ל פִּ֑י אַבִּ֥יעָה חִ֝יד֗וֹת מִנִּי קֶֽדֶם
+    - ref: Ps 78:3
+      lang: he
+      text: אֲשֶׁ֣ר שָׁ֭מַעְנוּ וַנֵּדָעֵ֑ם וַ֝אֲבוֹתֵ֗ינוּ סִפְּרוּ לָֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:5
+      lang: ar
+      text: وَقَالُوٓا۟ أَسَٰطِيرُ ٱلْأَوَّلِينَ ٱكْتَتَبَهَا فَهِىَ تُمْلَىٰ عَلَيْهِ بُكْرَةً وَأَصِيلًا
 ---
 
 ## Questions

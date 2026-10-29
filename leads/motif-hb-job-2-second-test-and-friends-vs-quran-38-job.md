@@ -1,8 +1,7 @@
 ---
 id: motif-hb-job-2-second-test-and-friends-vs-quran-38-job
 title: The second test; Job's wife; the three friends ↔ Job, the spring and the bundle of twigs
-summary: 'These two units share 1 motifs: the satan (the adversary) appears in the heavenly court as an
-  accusing member.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +14,9 @@ layers:
 - motif
 motifs:
 - satan-as-heavenly-accuser
-passages:
-- tradition: judaism
-  ref: Job 2:1
-  note: The Satan (the adversary) appears in the heavenly court as an accusing member
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֣י הַיּ֔וֹם וַיָּבֹ֨אוּ֙ בְּנֵ֣י הָֽאֱלֹהִ֔ים לְהִתְיַצֵּ֖ב עַל יְהוָ֑ה וַיָּב֤וֹא גַֽם
-    הַשָּׂטָן֙ בְּתֹכָ֔ם לְהִתְיַצֵּ֖ב עַל יְהוָֽה
-- tradition: judaism
-  ref: Job 2:4
-  note: The Satan (the adversary) appears in the heavenly court as an accusing member
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧עַן הַשָּׂטָ֛ן אֶת יְהוָ֖ה וַיֹּאמַ֑ר ע֣וֹר בְּעַד ע֗וֹר וְכֹל֙ אֲשֶׁ֣ר לָאִ֔ישׁ יִתֵּ֖ן
-    בְּעַ֥ד נַפְשֽׁוֹ
-- tradition: islam
-  ref: Quran 38:41
-  note: The Satan (the adversary) appears in the heavenly court as an accusing member (Satan causes the
-    affliction, no heavenly court scene)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ وَعَذَابٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyēṣēʾ ha-śśāṭān mē-ʾēṯ pənê YHWH wa-yyak ʾeṯ-ʾiyyôḇ bi-šḥîn rāʿ vs. massaniya sh-shayṭānu
-    bi-nuṣbin wa-ʿadhāb: the satan is the agent of Job''s bodily affliction. The narrator of Job knows
-    it; in the Quran Job himself says it. There is no heavenly wager.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Satan (the adversary) appears in the heavenly court as an accusing
     member (weight 6.0). Pair score 6.0.'
@@ -72,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The Satan (the adversary) appears in the heavenly court as an accusing member
+kinds:
+- parallel
+units:
+- id: hb-job-2-second-test-and-friends
+  title: The second test; Job's wife; the three friends
+  tradition: judaism
+- id: quran-38-job
+  title: Job, the spring and the bundle of twigs
+  tradition: islam
+matches:
+- kind: parallel
+  label: The Satan (the adversary) appears in the heavenly court as an accusing member
+  note: 'wa-yyēṣēʾ ha-śśāṭān mē-ʾēṯ pənê YHWH wa-yyak ʾeṯ-ʾiyyôḇ bi-šḥîn rāʿ vs. massaniya sh-shayṭānu
+    bi-nuṣbin wa-ʿadhāb: the satan is the agent of Job''s bodily affliction. The narrator of Job knows
+    it; in the Quran Job himself says it. There is no heavenly wager.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 2:7
+      lang: he
+      text: וַיֵּצֵא֙ הַשָּׂטָ֔ן מֵאֵ֖ת פְּנֵ֣י יְהוָ֑ה וַיַּ֤ךְ אֶת אִיּוֹב֙ בִּשְׁחִ֣ין רָ֔ע מִכַּ֥ף
+        רַגְל֖וֹ עד וְעַ֥ד קָדְקֳדֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 38:41
+      lang: ar
+      text: وَٱذْكُرْ عَبْدَنَآ أَيُّوبَ إِذْ نَادَىٰ رَبَّهُۥٓ أَنِّى مَسَّنِىَ ٱلشَّيْطَٰنُ بِنُصْبٍ
+        وَعَذَابٍ
 ---
 
 ## Questions

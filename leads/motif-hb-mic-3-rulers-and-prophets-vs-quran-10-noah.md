@@ -1,8 +1,7 @@
 ---
 id: motif-hb-mic-3-rulers-and-prophets-vs-quran-10-noah
 title: Cannibal rulers, hireling prophets and Zion plowed as a field ↔ Noah's challenge to his people
-summary: 'These two units share 1 motifs: a seer faced with payment or worldly gain [contrast between
-  the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,39 +13,9 @@ layers:
 - motif
 motifs:
 - seer-and-payment-as-contrast
-passages:
-- tradition: judaism
-  ref: Mic 3:5
-  note: A seer faced with payment or worldly gain [contrast between the texts] (The true messenger asks
-    no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the false prophets prophesy for pay
-    (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn ʿal-pîhem).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל הַנְּבִיאִ֖ים הַמַּתְעִ֣ים אֶת עַמִּ֑י הַנֹּשְׁכִ֤ים בְּשִׁנֵּיהֶם֙ וְקָרְא֣וּ
-    שָׁל֔וֹם וַאֲשֶׁר֙ לֹא יִתֵּ֣ן עַל פִּיהֶ֔ם וְקִדְּשׁ֥וּ עָלָ֖יו מִלְחָמָֽה
-- tradition: judaism
-  ref: Mic 3:11
-  note: A seer faced with payment or worldly gain [contrast between the texts] (The true messenger asks
-    no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the false prophets prophesy for pay
-    (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn ʿal-pîhem).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ
-    וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ רָעָֽה
-- tradition: islam
-  ref: Quran 10:72
-  note: A seer faced with payment or worldly gain [contrast between the texts] (The true messenger asks
-    no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the false prophets prophesy for pay
-    (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn ʿal-pîhem).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
-    أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. The true messenger asks no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the
-    false prophets prophesy for pay (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn
-    ʿal-pîhem).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A seer faced with payment or worldly gain [contrast between the
     texts] (weight 5.8). Pair score 5.8.'
@@ -77,6 +46,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A seer faced with payment or worldly gain
+kinds:
+- contrast
+units:
+- id: hb-mic-3-rulers-and-prophets
+  title: Cannibal rulers, hireling prophets and Zion plowed as a field
+  tradition: judaism
+- id: quran-10-noah
+  title: Noah's challenge to his people
+  tradition: islam
+matches:
+- kind: contrast
+  label: A seer faced with payment or worldly gain
+  note: The true messenger asks no wage (fa-mā saʾaltukum min ajrin in ajriya illā ʿalā llāh); the false
+    prophets prophesy for pay (ûnᵉbîʾêhā bᵉkesep yiqsōmû; wᵉqārᵉʾû šālôm ... waʾăšer lōʾ-yittēn ʿal-pîhem).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 3:5
+      lang: he
+      text: כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל הַנְּבִיאִ֖ים הַמַּתְעִ֣ים אֶת עַמִּ֑י הַנֹּשְׁכִ֤ים בְּשִׁנֵּיהֶם֙
+        וְקָרְא֣וּ שָׁל֔וֹם וַאֲשֶׁר֙ לֹא יִתֵּ֣ן עַל פִּיהֶ֔ם וְקִדְּשׁ֥וּ עָלָ֖יו מִלְחָמָֽה
+    - ref: Mic 3:11
+      lang: he
+      text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף
+        יִקְסֹ֑מוּ וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ
+        רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 10:72
+      lang: ar
+      text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
+        أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

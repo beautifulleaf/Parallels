@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-31-joshua-torah-song-vs-quran-3-badr-uhud
 title: Joshua commissioned; Torah written and deposited; the Song commanded ↔ Badr and Uhud
-summary: 'These two units share 1 motifs: muhammad is only a messenger; messengers passed before him;
-  if he died or were killed would you turn on your heels?.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - muhammad-only-a-messenger
-passages:
-- tradition: judaism
-  ref: Deut 31:29
-  note: 'Muhammad is only a messenger; messengers passed before him; if he died or were killed would you
-    turn on your heels? (Deut 31:29 kî yādaʿtî ʾaḥărê môtî kî hašḥēt tašḥitûn wĕ-sartem min ha-dderek:
-    Moses knows that after his death they will turn from the way; Q 3:144 a-fa-in māta aw qutila nqalabtum
-    ʿalā aʿqābikum: if the messenger dies or is killed, will you turn on your heels? The fear of apostasy
-    after the prophet''s death; foretold as certain in Deut, put as a warning question in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יָדַ֗עְתִּי אַחֲרֵ֤י מוֹתִי֙ כִּֽי הַשְׁחֵ֣ת תַּשְׁחִת֔וּן וְסַרְתֶּ֣ם מִן הַדֶּ֔רֶךְ אֲשֶׁ֥ר
-    צִוִּ֖יתִי אֶתְכֶ֑ם וְקָרָ֨את אֶתְכֶ֤ם הָֽרָעָה֙ בְּאַחֲרִ֣ית הַיָּמִ֔ים כִּֽי תַעֲשׂ֤וּ אֶת הָרַע֙
-    בְּעֵינֵ֣י יְהוָ֔ה לְהַכְעִיס֖וֹ בְּמַעֲשֵׂ֥ה יְדֵיכֶֽם
-- tradition: islam
-  ref: Quran 3:144
-  note: Muhammad is only a messenger; messengers passed before him; if he died or were killed would you
-    turn on your heels?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ
-    ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا
-    وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Deut 31:29 kî yādaʿtî ʾaḥărê môtî kî hašḥēt tašḥitûn wĕ-sartem min ha-dderek: Moses knows that
-    after his death they will turn from the way; Q 3:144 a-fa-in māta aw qutila nqalabtum ʿalā aʿqābikum:
-    if the messenger dies or is killed, will you turn on your heels? The fear of apostasy after the prophet''s
-    death; foretold as certain in Deut, put as a warning question in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Muhammad is only a messenger; messengers passed before him; if he
     died or were killed would you turn on your heels? (weight 6.7). Pair score 6.7.'
@@ -74,6 +48,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Muhammad is only a messenger; messengers passed before him; if he died or were killed would you
+  turn on your heels?
+kinds:
+- echo
+units:
+- id: hb-deut-31-joshua-torah-song
+  title: Joshua commissioned; Torah written and deposited; the Song commanded
+  tradition: judaism
+- id: quran-3-badr-uhud
+  title: Badr and Uhud
+  tradition: islam
+matches:
+- kind: echo
+  label: Muhammad is only a messenger; messengers passed before him; if he died or were killed would you
+    turn on your heels?
+  note: 'Deut 31:29 kî yādaʿtî ʾaḥărê môtî kî hašḥēt tašḥitûn wĕ-sartem min ha-dderek: Moses knows that
+    after his death they will turn from the way; Q 3:144 a-fa-in māta aw qutila nqalabtum ʿalā aʿqābikum:
+    if the messenger dies or is killed, will you turn on your heels? The fear of apostasy after the prophet''s
+    death; foretold as certain in Deut, put as a warning question in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 31:29
+      lang: he
+      text: כִּ֣י יָדַ֗עְתִּי אַחֲרֵ֤י מוֹתִי֙ כִּֽי הַשְׁחֵ֣ת תַּשְׁחִת֔וּן וְסַרְתֶּ֣ם מִן הַדֶּ֔רֶךְ
+        אֲשֶׁ֥ר צִוִּ֖יתִי אֶתְכֶ֑ם וְקָרָ֨את אֶתְכֶ֤ם הָֽרָעָה֙ בְּאַחֲרִ֣ית הַיָּמִ֔ים כִּֽי תַעֲשׂ֤וּ
+        אֶת הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה לְהַכְעִיס֖וֹ בְּמַעֲשֵׂ֥ה יְדֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 3:144
+      lang: ar
+      text: وَمَا مُحَمَّدٌ إِلَّا رَسُولٌ قَدْ خَلَتْ مِن قَبْلِهِ ٱلرُّسُلُ أَفَإِي۟ن مَّاتَ أَوْ قُتِلَ
+        ٱنقَلَبْتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ وَمَن يَنقَلِبْ عَلَىٰ عَقِبَيْهِ فَلَن يَضُرَّ ٱللَّهَ شَيْـًٔا
+        وَسَيَجْزِى ٱللَّهُ ٱلشَّٰكِرِينَ
 ---
 
 ## Questions

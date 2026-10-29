@@ -2,7 +2,7 @@
 id: motif-hb-joel-4-valley-of-jehoshaphat-vs-quran-52-tur-oaths-and-judgment
 title: 'Judgment of the nations in the Valley of Jehoshaphat; the fountain from the temple ↔ Al-Tur: the
   oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
-summary: 'These two units share 1 motifs: on the day the sky heaves (tamur) and the mountains move away.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,41 +14,9 @@ layers:
 - motif
 motifs:
 - sky-heaves-mountains-move
-passages:
-- tradition: judaism
-  ref: Joel 4:15
-  note: On the day the sky heaves (tamur) and the mountains move away (wə-rāʿăšû šāmayim wā-ʾāreṣ (heaven
-    and earth shake) when YHWH roars from Zion vs. yawma tamūru s-samāʾu mawran. Joel adds a refuge for
-    Israel (wa-YHWH maḥăseh lə-ʿammô); the Quran a woe on the deniers (fa-waylun yawmaʾidhin li-l-mukadhdhibīn).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שֶׁ֥מֶשׁ וְיָרֵ֖חַ קָדָ֑רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם
-- tradition: judaism
-  ref: Joel 4:16
-  note: On the day the sky heaves (tamur) and the mountains move away (wə-rāʿăšû šāmayim wā-ʾāreṣ (heaven
-    and earth shake) when YHWH roars from Zion vs. yawma tamūru s-samāʾu mawran. Joel adds a refuge for
-    Israel (wa-YHWH maḥăseh lə-ʿammô); the Quran a woe on the deniers (fa-waylun yawmaʾidhin li-l-mukadhdhibīn).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיהוָ֞ה מִצִּיּ֣וֹן יִשְׁאָ֗ג וּמִירוּשָׁלִַ֨ם֙ יִתֵּ֣ן קוֹל֔וֹ וְרָעֲשׁ֖וּ שָׁמַ֣יִם וָאָ֑רֶץ
-    וַֽיהוָה֙ מַֽחֲסֶ֣ה לְעַמּ֔וֹ וּמָע֖וֹז לִבְנֵ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 52:9
-  note: On the day the sky heaves (tamur) and the mountains move away
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا
-- tradition: islam
-  ref: Quran 52:10
-  note: On the day the sky heaves (tamur) and the mountains move away
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَسِيرُ ٱلْجِبَالُ سَيْرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-rāʿăšû šāmayim wā-ʾāreṣ (heaven and earth shake) when YHWH roars from Zion vs. yawma tamūru
-    s-samāʾu mawran. Joel adds a refuge for Israel (wa-YHWH maḥăseh lə-ʿammô); the Quran a woe on the
-    deniers (fa-waylun yawmaʾidhin li-l-mukadhdhibīn).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On the day the sky heaves (tamur) and the mountains move away (weight
     6.3). Pair score 6.3.'
@@ -82,6 +50,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On the day the sky heaves (tamur) and the mountains move away
+kinds:
+- echo
+units:
+- id: hb-joel-4-valley-of-jehoshaphat
+  title: Judgment of the nations in the Valley of Jehoshaphat; the fountain from the temple
+  tradition: judaism
+- id: quran-52-tur-oaths-and-judgment
+  title: 'Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
+  tradition: islam
+matches:
+- kind: echo
+  label: On the day the sky heaves (tamur) and the mountains move away
+  note: wə-rāʿăšû šāmayim wā-ʾāreṣ (heaven and earth shake) when YHWH roars from Zion vs. yawma tamūru
+    s-samāʾu mawran. Joel adds a refuge for Israel (wa-YHWH maḥăseh lə-ʿammô); the Quran a woe on the
+    deniers (fa-waylun yawmaʾidhin li-l-mukadhdhibīn).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 4:15
+      lang: he
+      text: שֶׁ֥מֶשׁ וְיָרֵ֖חַ קָדָ֑רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם
+    - ref: Joel 4:16
+      lang: he
+      text: וַיהוָ֞ה מִצִּיּ֣וֹן יִשְׁאָ֗ג וּמִירוּשָׁלִַ֨ם֙ יִתֵּ֣ן קוֹל֔וֹ וְרָעֲשׁ֖וּ שָׁמַ֣יִם וָאָ֑רֶץ
+        וַֽיהוָה֙ מַֽחֲסֶ֣ה לְעַמּ֔וֹ וּמָע֖וֹז לִבְנֵ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 52:9
+      lang: ar
+      text: يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا
 ---
 
 ## Questions

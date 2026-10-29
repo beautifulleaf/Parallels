@@ -2,7 +2,7 @@
 id: motif-hb-ps-44-national-lament-vs-quran-14-moses-and-messengers
 title: Psalm 44 - national lament; why do you sleep, O Lord ↔ Messengers in their people's tongue; Moses
   and the days of God; the threatened messengers (Surah 14:1-17)
-summary: 'These two units share 1 motifs: moses is told to remind his people of ''the days of god''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,46 +14,9 @@ layers:
 - motif
 motifs:
 - remember-days-of-god
-passages:
-- tradition: judaism
-  ref: Ps 44:2
-  note: 'Moses is told to remind his people of ''the days of God'' (ʾăbôtênû sippərû-lānû pōʿal pāʿaltā
-    bîmêhem bîmê qedem; dhakkirhum bi-ayyāmi llāh ... idh anjākum min āli Firʿawn: God''s past deeds,
-    called his ''days'', are recalled. In Ps they are recalled as a complaint against the present; in
-    Q as a call to gratitude.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֱלֹהִ֤ים בְּאָזְנֵ֬ינוּ שָׁמַ֗עְנוּ אֲבוֹתֵ֥ינוּ סִפְּרוּ לָ֑נוּ פֹּ֥עַל פָּעַ֥לְתָּ בִֽ֝ימֵיהֶ֗ם
-    בִּ֣ימֵי קֶֽדֶם
-- tradition: judaism
-  ref: Ps 44:3
-  note: 'Moses is told to remind his people of ''the days of God'' (ʾăbôtênû sippərû-lānû pōʿal pāʿaltā
-    bîmêhem bîmê qedem; dhakkirhum bi-ayyāmi llāh ... idh anjākum min āli Firʿawn: God''s past deeds,
-    called his ''days'', are recalled. In Ps they are recalled as a complaint against the present; in
-    Q as a call to gratitude.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֤ה יָדְךָ֡ גּוֹיִ֣ם ה֭וֹרַשְׁתָּ וַתִּטָּעֵ֑ם תָּרַ֥ע לְ֝אֻמִּ֗ים וַֽתְּשַׁלְּחֵֽם
-- tradition: islam
-  ref: Quran 14:5
-  note: Moses is told to remind his people of 'the days of God' (ayyām Allāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ
-    وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
-- tradition: islam
-  ref: Quran 14:6
-  note: Moses is told to remind his people of 'the days of God' (ayyām Allāh)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ ءَالِ
-    فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ نِسَآءَكُمْ
-    وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ʾăbôtênû sippərû-lānû pōʿal pāʿaltā bîmêhem bîmê qedem; dhakkirhum bi-ayyāmi llāh ... idh anjākum
-    min āli Firʿawn: God''s past deeds, called his ''days'', are recalled. In Ps they are recalled as
-    a complaint against the present; in Q as a call to gratitude.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Moses is told to remind his people of ''the days of God'' (weight
     6.3). Pair score 6.3.'
@@ -89,6 +52,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Moses is told to remind his people of 'the days of God'
+kinds:
+- echo
+units:
+- id: hb-ps-44-national-lament
+  title: Psalm 44 - national lament; why do you sleep, O Lord
+  tradition: judaism
+- id: quran-14-moses-and-messengers
+  title: Messengers in their people's tongue; Moses and the days of God; the threatened messengers (Surah
+    14:1-17)
+  tradition: islam
+matches:
+- kind: echo
+  label: Moses is told to remind his people of 'the days of God'
+  note: 'ʾăbôtênû sippərû-lānû pōʿal pāʿaltā bîmêhem bîmê qedem; dhakkirhum bi-ayyāmi llāh ... idh anjākum
+    min āli Firʿawn: God''s past deeds, called his ''days'', are recalled. In Ps they are recalled as
+    a complaint against the present; in Q as a call to gratitude.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 44:2
+      lang: he
+      text: אֱלֹהִ֤ים בְּאָזְנֵ֬ינוּ שָׁמַ֗עְנוּ אֲבוֹתֵ֥ינוּ סִפְּרוּ לָ֑נוּ פֹּ֥עַל פָּעַ֥לְתָּ בִֽ֝ימֵיהֶ֗ם
+        בִּ֣ימֵי קֶֽדֶם
+    - ref: Ps 44:3
+      lang: he
+      text: אַתָּ֤ה יָדְךָ֡ גּוֹיִ֣ם ה֭וֹרַשְׁתָּ וַתִּטָּעֵ֑ם תָּרַ֥ע לְ֝אֻמִּ֗ים וַֽתְּשַׁלְּחֵֽם
+    - ref: Ps 44:4
+      lang: he
+      text: כִּ֤י לֹ֪א בְחַרְבָּ֡ם יָ֥רְשׁוּ אָ֗רֶץ וּזְרוֹעָם֮ לֹא הוֹשִׁ֪יעָ֫ה לָּ֥מוֹ כִּֽי יְמִֽינְךָ֣
+        וּ֭זְרוֹעֲךָ וְא֥וֹר פָּנֶ֗יךָ כִּ֣י רְצִיתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 14:5
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنْ أَخْرِجْ قَوْمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى
+        ٱلنُّورِ وَذَكِّرْهُم بِأَيَّىٰمِ ٱللَّهِ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍ لِّكُلِّ صَبَّارٍ شَكُورٍ
+    - ref: Quran 14:6
+      lang: ar
+      text: وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ أَنجَىٰكُم مِّنْ
+        ءَالِ فِرْعَوْنَ يَسُومُونَكُمْ سُوٓءَ ٱلْعَذَابِ وَيُذَبِّحُونَ أَبْنَآءَكُمْ وَيَسْتَحْيُونَ
+        نِسَآءَكُمْ وَفِى ذَٰلِكُم بَلَآءٌ مِّن رَّبِّكُمْ عَظِيمٌ
 ---
 
 ## Questions

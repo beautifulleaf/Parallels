@@ -2,7 +2,7 @@
 id: motif-hb-lam-5-prayer-remember-vs-quran-9-three-left-behind
 title: 'Lamentations 5: communal prayer ''Remember, O LORD'', renew our days as of old ↔ The three who
   were left behind; every step recorded'
-summary: 'These two units share 1 motifs: prayer ''turn us back to you, yhwh, and we shall return''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - turn-us-and-we-shall-turn
-passages:
-- tradition: judaism
-  ref: Lam 5:21
-  note: Prayer 'Turn us back to you, YHWH, and we shall return' ('Renew our days as of old')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲשִׁיבֵ֨נוּ יְהוָ֤ה אֵלֶ֨יךָ֙ ונשוב וְֽנָשׁ֔וּבָה חַדֵּ֥שׁ יָמֵ֖ינוּ כְּקֶֽדֶם
-- tradition: islam
-  ref: Quran 9:118
-  note: 'Prayer ''Turn us back to you, YHWH, and we shall return'' (God''s turning comes first and makes
-    the sinner''s turning possible: thumma tāba ʿalayhim li-yatūbū (he turned to them so that they might
-    turn) vs hăšîbēnî wᵉʾāšûbāh kî ʾattāh YHWH ʾĕlōhāy; kî-ʾaḥărê šûbî niḥamtî. The same verb pair: tāba
-    ... yatūbū and šûb ... ʾāšûbāh.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ
-    وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ
-    تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. hăšîbēnû YHWH ʾēlêkā wᵉnāšûbāh vs thumma tāba ʿalayhim li-yatūbū. Lam is a prayer for it; Q
-    reports that it happened.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prayer ''Turn us back to you, YHWH, and we shall return'' (weight
     6.3). Pair score 6.3.'
@@ -64,6 +45,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prayer 'Turn us back to you, YHWH, and we shall return'
+kinds:
+- echo
+units:
+- id: hb-lam-5-prayer-remember
+  title: 'Lamentations 5: communal prayer ''Remember, O LORD'', renew our days as of old'
+  tradition: judaism
+- id: quran-9-three-left-behind
+  title: The three who were left behind; every step recorded
+  tradition: islam
+matches:
+- kind: echo
+  label: Prayer 'Turn us back to you, YHWH, and we shall return'
+  note: hăšîbēnû YHWH ʾēlêkā wᵉnāšûbāh vs thumma tāba ʿalayhim li-yatūbū. Lam is a prayer for it; Q reports
+    that it happened.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lam 5:21
+      lang: he
+      text: הֲשִׁיבֵ֨נוּ יְהוָ֤ה אֵלֶ֨יךָ֙ ונשוב וְֽנָשׁ֔וּבָה חַדֵּ֥שׁ יָמֵ֖ינוּ כְּקֶֽדֶם
+  - tradition: islam
+    passages:
+    - ref: Quran 9:118
+      lang: ar
+      text: وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا
+        رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ
+        ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ
 ---
 
 ## Questions

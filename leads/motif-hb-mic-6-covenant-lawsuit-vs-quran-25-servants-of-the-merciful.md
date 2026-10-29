@@ -1,8 +1,7 @@
 ---
 id: motif-hb-mic-6-covenant-lawsuit-vs-quran-25-servants-of-the-merciful
 title: YHWH's lawsuit with his people; what YHWH requires ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 1 motifs: what god requires: to do justice, love hesed and walk humbly
-  with your god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,26 +14,9 @@ layers:
 - motif
 motifs:
 - do-justice-love-mercy-walk-humbly
-passages:
-- tradition: judaism
-  ref: Mic 6:8
-  note: 'What God requires: to do justice, love hesed and walk humbly with your God'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה טּ֑וֹב וּמָֽה יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם עֲשׂ֤וֹת מִשְׁפָּט֙
-    וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם אֱלֹהֶֽיךָ
-- tradition: islam
-  ref: Quran 25:63
-  note: 'What God requires: to do justice, love hesed and walk humbly with your God'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ
-    قَالُوا۟ سَلَٰمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. wa-ʿibādu r-raḥmāni lladhīna yamshūna ʿalā l-arḍi hawnan ~ wə-haṣnēaʿ leket ʿim ʾĕlōhêkā:
-    walking humbly (mashā hawnan / haṣnēaʿ leket) is what God asks. Micah asks it instead of sacrifice;
-    the Quran opens its portrait of the servants of the Merciful with it.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What God requires: to do justice, love hesed and walk humbly with
     your God (weight 6.0). Pair score 6.0.'
@@ -65,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'What God requires: to do justice, love hesed and walk humbly with your God'
+kinds:
+- parallel
+units:
+- id: hb-mic-6-covenant-lawsuit
+  title: YHWH's lawsuit with his people; what YHWH requires
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'What God requires: to do justice, love hesed and walk humbly with your God'
+  note: 'wa-ʿibādu r-raḥmāni lladhīna yamshūna ʿalā l-arḍi hawnan ~ wə-haṣnēaʿ leket ʿim ʾĕlōhêkā: walking
+    humbly (mashā hawnan / haṣnēaʿ leket) is what God asks. Micah asks it instead of sacrifice; the Quran
+    opens its portrait of the servants of the Merciful with it.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 6:8
+      lang: he
+      text: הִגִּ֥יד לְךָ֛ אָדָ֖ם מַה טּ֑וֹב וּמָֽה יְהוָ֞ה דּוֹרֵ֣שׁ מִמְּךָ֗ כִּ֣י אִם עֲשׂ֤וֹת מִשְׁפָּט֙
+        וְאַ֣הֲבַת חֶ֔סֶד וְהַצְנֵ֥עַ לֶ֖כֶת עִם אֱלֹהֶֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 25:63
+      lang: ar
+      text: وَعِبَادُ ٱلرَّحْمَٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَٰهِلُونَ
+        قَالُوا۟ سَلَٰمًا
 ---
 
 ## Questions

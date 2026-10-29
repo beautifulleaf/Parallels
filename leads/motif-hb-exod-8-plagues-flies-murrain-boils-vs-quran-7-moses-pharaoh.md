@@ -2,10 +2,7 @@
 id: motif-hb-exod-8-plagues-flies-murrain-boils-vs-quran-7-moses-pharaoh
 title: 'Plagues 4-6: swarms, pestilence of livestock, boils ↔ Moses before Pharaoh, the magicians and
   the plagues'
-summary: 'These two units share 4 motifs: the king breaks his promise to release the people once a plague
-  is lifted, the king''s heart is hardened (by himself or by god) so he refuses to release the people
-  [divergence between the texts], king asks the prophet to intercede with god to remove a plague, the
-  king''s heart is hardened (by himself or by god) so he refuses to release the people.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -20,125 +17,9 @@ motifs:
 - hardening-of-pharaohs-heart-as-divergence
 - king-asks-prophet-to-pray
 - hardening-of-pharaohs-heart
-passages:
-- tradition: judaism
-  ref: Exod 8:25
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר הֶעָרֹ֗ב
-    מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙ שַׁלַּ֣ח אֶת
-    הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
-- tradition: judaism
-  ref: Exod 8:28
-  note: The king breaks his promise to release the people once a plague is lifted (hatel)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 7:135
-  note: The king breaks his promise to release the people once a plague is lifted
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
-- tradition: judaism
-  ref: Exod 8:28
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: judaism
-  ref: Exod 9:12
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה אֶל
-    מֹשֶֽׁה
-- tradition: islam
-  ref: Quran 7:132
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 7:133
-  note: 'The king''s heart is hardened (by himself or by God) so he refuses to release the people [divergence
-    between the texts] (Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
-- tradition: judaism
-  ref: Exod 8:24
-  note: King asks the prophet to intercede with God to remove a plague
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר פַּרְעֹ֗ה אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ וּזְבַחְתֶּ֞ם לַיהוָ֤ה אֱלֹֽהֵיכֶם֙ בַּמִּדְבָּ֔ר
-    רַ֛ק הַרְחֵ֥ק לֹא תַרְחִ֖יקוּ לָלֶ֑כֶת הַעְתִּ֖ירוּ בַּעֲדִֽי
-- tradition: islam
-  ref: Quran 7:134
-  note: King asks the prophet to intercede with God to remove a plague
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
-    لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 7:135
-  note: King asks the prophet to intercede with God to remove a plague
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
-- tradition: judaism
-  ref: Exod 8:28
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
-    9:12 YHWH hardens)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: judaism
-  ref: Exod 9:7
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (from
-    9:12 YHWH hardens)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּשְׁלַ֣ח פַּרְעֹ֔ה וְהִנֵּ֗ה לֹא מֵ֛ת מִמִּקְנֵ֥ה יִשְׂרָאֵ֖ל עַד אֶחָ֑ד וַיִּכְבַּד֙ לֵ֣ב
-    פַּרְעֹ֔ה וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
-- tradition: islam
-  ref: Quran 7:132
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
-- tradition: islam
-  ref: Quran 7:133
-  note: The king's heart is hardened (by himself or by God) so he refuses to release the people (self-arrogance
-    rather than divine hardening)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
-    مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam
-    haz-zōʾt), then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā
-    bihā fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud
-    and break their word (yankuthūna). God never hardens them in this unit.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The king breaks his promise to release the people once a plague
     is lifted (weight 5.8); The king''s heart is hardened (by himself or by God) so he refuses to release
@@ -174,6 +55,87 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The king's heart is hardened (by himself or by God) so he refuses to release the people
+kinds:
+- divergence
+- shared
+units:
+- id: hb-exod-8-plagues-flies-murrain-boils
+  title: 'Plagues 4-6: swarms, pestilence of livestock, boils'
+  tradition: judaism
+- id: quran-7-moses-pharaoh
+  title: Moses before Pharaoh, the magicians and the plagues
+  tradition: islam
+matches:
+- kind: divergence
+  label: The king's heart is hardened (by himself or by God) so he refuses to release the people
+  note: 'Who hardens the heart. Exod: first Pharaoh (wa-yyakhbēd Parʿōh ʾet-libbô gam bap-paʿam haz-zōʾt),
+    then God (wa-yḥazzēq YHWH ʾet-lēv Parʿōh, 9:12). Q: mahmā taʾtinā bihi min āyatin li-tasḥaranā bihā
+    fa-mā naḥnu laka bi-muʾminīna; fa-stakbarū wa-kānū qawman mujrimīna. Pharaoh''s people are proud and
+    break their word (yankuthūna). God never hardens them in this unit.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 9:12
+      lang: he
+      text: וַיְחַזֵּ֤ק יְהוָה֙ אֶת לֵ֣ב פַּרְעֹ֔ה וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהוָ֖ה
+        אֶל מֹשֶֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:132
+      lang: ar
+      text: وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ
+    - ref: Quran 7:133
+      lang: ar
+      text: فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ وَٱلْجَرَادَ وَٱلْقُمَّلَ وَٱلضَّفَادِعَ وَٱلدَّمَ ءَايَٰتٍ
+        مُّفَصَّلَٰتٍ فَٱسْتَكْبَرُوا۟ وَكَانُوا۟ قَوْمًا مُّجْرِمِينَ
+    - ref: Quran 7:135
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
+- kind: shared
+  label: The king breaks his promise to release the people once a plague is lifted
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:25
+      lang: he
+      text: וַיֹּ֣אמֶר מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י יוֹצֵ֤א מֵֽעִמָּךְ֙ וְהַעְתַּרְתִּ֣י אֶל יְהוָ֔ה וְסָ֣ר
+        הֶעָרֹ֗ב מִפַּרְעֹ֛ה מֵעֲבָדָ֥יו וּמֵעַמּ֖וֹ מָחָ֑ר רַ֗ק אַל יֹסֵ֤ף פַּרְעֹה֙ הָתֵ֔ל לְבִלְתִּי֙
+        שַׁלַּ֣ח אֶת הָעָ֔ם לִזְבֹּ֖חַ לַֽיהוָֽה
+    - ref: Exod 8:28
+      lang: he
+      text: וַיַּכְבֵּ֤ד פַּרְעֹה֙ אֶת לִבּ֔וֹ גַּ֖ם בַּפַּ֣עַם הַזֹּ֑את וְלֹ֥א שִׁלַּ֖ח אֶת הָעָֽם
+    - ref: Exod 8:24
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֗ה אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ וּזְבַחְתֶּ֞ם לַיהוָ֤ה אֱלֹֽהֵיכֶם֙ בַּמִּדְבָּ֔ר
+        רַ֛ק הַרְחֵ֥ק לֹא תַרְחִ֖יקוּ לָלֶ֑כֶת הַעְתִּ֖ירוּ בַּעֲדִֽי
+    note: hatel
+  - tradition: islam
+    passages:
+    - ref: Quran 7:135
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
+- kind: shared
+  label: King asks the prophet to intercede with God to remove a plague
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 8:24
+      lang: he
+      text: וַיֹּ֣אמֶר פַּרְעֹ֗ה אָנֹכִ֞י אֲשַׁלַּ֤ח אֶתְכֶם֙ וּזְבַחְתֶּ֞ם לַיהוָ֤ה אֱלֹֽהֵיכֶם֙ בַּמִּדְבָּ֔ר
+        רַ֛ק הַרְחֵ֥ק לֹא תַרְחִ֖יקוּ לָלֶ֑כֶת הַעְתִּ֖ירוּ בַּעֲדִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 7:134
+      lang: ar
+      text: وَلَمَّا وَقَعَ عَلَيْهِمُ ٱلرِّجْزُ قَالُوا۟ يَٰمُوسَى ٱدْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِندَكَ
+        لَئِن كَشَفْتَ عَنَّا ٱلرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَنِىٓ إِسْرَٰٓءِيلَ
+    - ref: Quran 7:135
+      lang: ar
+      text: فَلَمَّا كَشَفْنَا عَنْهُمُ ٱلرِّجْزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمْ يَنكُثُونَ
 ---
 
 ## Questions

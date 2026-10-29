@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-18-abraham-bargains-vs-quran-8-obedience-trial
 title: Abraham bargains for Sodom ↔ Deaf and dumb beasts, heart and trial
-summary: 'These two units share 1 motifs: whether punishment strikes the innocent together with the guilty
-  [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,41 +13,9 @@ layers:
 - motif
 motifs:
 - innocent-swept-with-guilty-as-contrast
-passages:
-- tradition: judaism
-  ref: Gen 18:23
-  note: 'Whether punishment strikes the innocent together with the guilty [contrast between the texts]
-    (Will punishment sweep away the innocent with the guilty? Q warns that it will: wa-ttaqū fitnatan
-    lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan. Abraham protests that God must not: haʾap tispeh ṣaddîq
-    ʿim-rāšāʿ ... ḥālilāh llᵉkā ... lᵉhāmît ṣaddîq ʿim-rāšāʿ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
-- tradition: judaism
-  ref: Gen 18:25
-  note: 'Whether punishment strikes the innocent together with the guilty [contrast between the texts]
-    (Will punishment sweep away the innocent with the guilty? Q warns that it will: wa-ttaqū fitnatan
-    lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan. Abraham protests that God must not: haʾap tispeh ṣaddîq
-    ʿim-rāšāʿ ... ḥālilāh llᵉkā ... lᵉhāmît ṣaddîq ʿim-rāšāʿ.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
-    כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
-- tradition: islam
-  ref: Quran 8:25
-  note: 'Whether punishment strikes the innocent together with the guilty [contrast between the texts]
-    (Will punishment sweep away the innocent with the guilty? Q warns that it will: wa-ttaqū fitnatan
-    lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan. Abraham protests that God must not: haʾap tispeh ṣaddîq
-    ʿim-rāšāʿ ... ḥālilāh llᵉkā ... lᵉhāmît ṣaddîq ʿim-rāšāʿ.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً وَٱعْلَمُوٓا۟ أَنَّ
-    ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    contrast. Will punishment sweep away the innocent with the guilty? Q warns that it will: wa-ttaqū
-    fitnatan lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan. Abraham protests that God must not: haʾap
-    tispeh ṣaddîq ʿim-rāšāʿ ... ḥālilāh llᵉkā ... lᵉhāmît ṣaddîq ʿim-rāšāʿ.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether punishment strikes the innocent together with the guilty
     [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -78,6 +45,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether punishment strikes the innocent together with the guilty
+kinds:
+- contrast
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-8-obedience-trial
+  title: Deaf and dumb beasts, heart and trial
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether punishment strikes the innocent together with the guilty
+  note: 'Will punishment sweep away the innocent with the guilty? Q warns that it will: wa-ttaqū fitnatan
+    lā tuṣībanna lladhīna ẓalamū minkum khāṣṣatan. Abraham protests that God must not: haʾap tispeh ṣaddîq
+    ʿim-rāšāʿ ... ḥālilāh llᵉkā ... lᵉhāmît ṣaddîq ʿim-rāšāʿ.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:23
+      lang: he
+      text: וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם רָשָֽׁע
+    - ref: Gen 18:25
+      lang: he
+      text: חָלִ֨לָה לְּךָ֜ מֵעֲשֹׂ֣ת כַּדָּבָ֣ר הַזֶּ֗ה לְהָמִ֤ית צַדִּיק֙ עִם רָשָׁ֔ע וְהָיָ֥ה כַצַּדִּ֖יק
+        כָּרָשָׁ֑ע חָלִ֣לָה לָּ֔ךְ הֲשֹׁפֵט֙ כָּל הָאָ֔רֶץ לֹ֥א יַעֲשֶׂ֖ה מִשְׁפָּֽט
+  - tradition: islam
+    passages:
+    - ref: Quran 8:25
+      lang: ar
+      text: وَٱتَّقُوا۟ فِتْنَةً لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُوا۟ مِنكُمْ خَآصَّةً وَٱعْلَمُوٓا۟ أَنَّ
+        ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 ---
 
 ## Questions

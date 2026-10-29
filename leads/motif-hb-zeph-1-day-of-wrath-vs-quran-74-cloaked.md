@@ -1,8 +1,7 @@
 ---
 id: motif-hb-zeph-1-day-of-wrath-vs-quran-74-cloaked
 title: 'Zephaniah''s Day of YHWH against Judah ↔ The cloaked one: the call, the opponent, and the nineteen'
-summary: 'These two units share 1 motifs: the day of yhwh: a coming day of divine judgment, terror and
-  darkness.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,40 +14,9 @@ layers:
 - motif
 motifs:
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Zeph 1:7
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֕ס מִפְּנֵ֖י אֲדֹנָ֣י יְהוִ֑ה כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה כִּֽי הֵכִ֧ין יְהוָ֛ה זֶ֖בַח הִקְדִּ֥ישׁ
-    קְרֻאָֽיו
-- tradition: judaism
-  ref: Zeph 1:14
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
-    גִּבּֽוֹר
-- tradition: islam
-  ref: Quran 74:9
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
-- tradition: islam
-  ref: Quran 74:10
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. fa-idhā nuqira fī n-nāqūri fa-dhālika yawmaʾidhin yawmun ʿasīrun ʿalā l-kāfirīna ghayru
-    yasīr ~ yôm ʿevrāh ha-yyôm ha-hûʾ yôm ṣārāh û-meṣûqāh ... yôm šôfār û-terûʿāh. The day of distress
-    announced by a horn; Zephaniah aims it at Judah''s fortified cities, the Quran at the unbelievers.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The Day of YHWH: a coming day of divine judgment, terror and darkness
     (weight 5.0). Pair score 5.0.'
@@ -85,6 +53,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+kinds:
+- parallel
+units:
+- id: hb-zeph-1-day-of-wrath
+  title: Zephaniah's Day of YHWH against Judah
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: parallel
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  note: fa-idhā nuqira fī n-nāqūri fa-dhālika yawmaʾidhin yawmun ʿasīrun ʿalā l-kāfirīna ghayru yasīr
+    ~ yôm ʿevrāh ha-yyôm ha-hûʾ yôm ṣārāh û-meṣûqāh ... yôm šôfār û-terûʿāh. The day of distress announced
+    by a horn; Zephaniah aims it at Judah's fortified cities, the Quran at the unbelievers.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Zeph 1:14
+      lang: he
+      text: קָר֤וֹב יוֹם יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם
+        גִּבּֽוֹר
+    - ref: Zeph 1:15
+      lang: he
+      text: י֥וֹם עֶבְרָ֖ה הַיּ֣וֹם הַה֑וּא י֧וֹם צָרָ֣ה וּמְצוּקָ֗ה י֤וֹם שֹׁאָה֙ וּמְשׁוֹאָ֔ה י֥וֹם
+        חֹ֨שֶׁךְ֙ וַאֲפֵלָ֔ה י֥וֹם עָנָ֖ן וַעֲרָפֶֽל
+    - ref: Zeph 1:16
+      lang: he
+      text: י֥וֹם שׁוֹפָ֖ר וּתְרוּעָ֑ה עַ֚ל הֶעָרִ֣ים הַבְּצֻר֔וֹת וְעַ֖ל הַפִּנּ֥וֹת הַגְּבֹהֽוֹת
+  - tradition: islam
+    passages:
+    - ref: Quran 74:8
+      lang: ar
+      text: فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ
+    - ref: Quran 74:9
+      lang: ar
+      text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
+    - ref: Quran 74:10
+      lang: ar
+      text: عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-37-ark-table-lampstand-made-vs-quran-2-talut-jalut
 title: Bezalel makes the ark, table, lampstand and incense altar ↔ Talut (Saul), the ark and Jalut (Goliath)
-summary: 'These two units share 1 motifs: the ark of the covenant: a gold-plated acacia chest with rings
-  and poles.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,37 +13,9 @@ layers:
 - motif
 motifs:
 - ark-of-the-covenant
-passages:
-- tradition: judaism
-  ref: Exod 37:1-5
-  note: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (37:1) וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה
-    וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ (37:2) וַיְצַפֵּ֛הוּ זָהָ֥ב טָה֖וֹר מִבַּ֣יִת וּמִח֑וּץ
-    וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב (37:3) וַיִּצֹ֣ק ל֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב עַ֖ל אַרְבַּ֣ע
-    פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּע֔וֹת עַל צַלְע֖וֹ הַשֵּׁנִֽית
-    (37:4) וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב (37:5) וַיָּבֵ֤א אֶת הַבַּדִּים֙
-    בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֖את אֶת הָאָרֹֽן
-- tradition: judaism
-  ref: Exod 37:1
-  note: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה
-    וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ
-- tradition: islam
-  ref: Quran 2:248
-  note: 'The ark of the covenant: a gold-plated acacia chest with rings and poles (al-tabut)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
-    مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
-    إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Exod 37:1 wa-yyaʿaś bĕṣalʾēl ʾet hā-ʾārōn ʿăṣê šiṭṭîm; Q 2:248 at-tābūtu ... taḥmiluhu l-malāʾikatu:
-    made by a craftsman vs borne by angels.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The ark of the covenant: a gold-plated acacia chest with rings and
     poles (weight 5.6). Pair score 5.6.'
@@ -76,6 +47,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
+kinds:
+- echo
+units:
+- id: hb-exod-37-ark-table-lampstand-made
+  title: Bezalel makes the ark, table, lampstand and incense altar
+  tradition: judaism
+- id: quran-2-talut-jalut
+  title: Talut (Saul), the ark and Jalut (Goliath)
+  tradition: islam
+matches:
+- kind: echo
+  label: 'The ark of the covenant: a gold-plated acacia chest with rings and poles'
+  note: 'Exod 37:1 wa-yyaʿaś bĕṣalʾēl ʾet hā-ʾārōn ʿăṣê šiṭṭîm; Q 2:248 at-tābūtu ... taḥmiluhu l-malāʾikatu:
+    made by a craftsman vs borne by angels.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 37:1
+      lang: he
+      text: וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אָרְכּ֗וֹ וְאַמָּ֤ה
+        וָחֵ֨צִי֙ רָחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:248
+      lang: ar
+      text: وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌ
+        مِّن رَّبِّكُمْ وَبَقِيَّةٌ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحْمِلُهُ ٱلْمَلَٰٓئِكَةُ
+        إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

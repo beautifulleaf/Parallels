@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-1-two-ways-vs-quran-105-elephant
 title: Psalm 1 - the two ways ↔ The companions of the elephant
-summary: 'These two units share 1 motifs: the wicked are like chaff driven by the wind.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,22 +13,9 @@ layers:
 - motif
 motifs:
 - wicked-as-chaff
-passages:
-- tradition: judaism
-  ref: Ps 1:4
-  note: The wicked are like chaff driven by the wind
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
-- tradition: islam
-  ref: Quran 105:5
-  note: The wicked are like chaff driven by the wind ('like devoured straw/leaves ('asf ma'kul)')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ kî ʾim ka-mmōṣ ʾăšer tiddefennû rûaḥ.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The wicked are like chaff driven by the wind (weight 5.6). Pair
     score 5.6.'
@@ -57,6 +44,31 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The wicked are like chaff driven by the wind
+kinds:
+- echo
+units:
+- id: hb-ps-1-two-ways
+  title: Psalm 1 - the two ways
+  tradition: judaism
+- id: quran-105-elephant
+  title: The companions of the elephant
+  tradition: islam
+matches:
+- kind: echo
+  label: The wicked are like chaff driven by the wind
+  note: fa-jaʿalahum ka-ʿaṣfin maʾkūl ~ kî ʾim ka-mmōṣ ʾăšer tiddefennû rûaḥ.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 1:4
+      lang: he
+      text: לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ
+  - tradition: islam
+    passages:
+    - ref: Quran 105:5
+      lang: ar
+      text: فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ
 ---
 
 ## Questions

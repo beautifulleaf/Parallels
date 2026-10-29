@@ -2,9 +2,7 @@
 id: motif-hb-gen-2-eden-adam-woman-vs-quran-38-adam-iblis
 title: Second creation account, Eden, and the making of woman ↔ Adam made from clay; Iblis refuses and
   is granted respite
-summary: 'These two units share 3 motifs: deity breathes the breath of life into the first human''s nostrils
-  [divergence between the texts], deity breathes the breath of life into the first human''s nostrils,
-  first human shaped from dust, clay or soil.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -18,71 +16,9 @@ motifs:
 - breath-of-life-into-nostrils-as-divergence
 - breath-of-life-into-nostrils
 - human-formed-from-earth
-passages:
-- tradition: judaism
-  ref: Gen 2:7
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wayyippaḥ bəʾappāyw nišmat ḥayyîm; fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn.
-    Same verb (npḥ / nfkh). In Gen, breath of life; in Q, 'of my spirit'. In Q the breathing is the cue
-    for the angels' prostration, which has no counterpart in Gen 2.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 38:71
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī
-    khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The
-    same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
-    in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
-- tradition: islam
-  ref: Quran 38:72
-  note: Deity breathes the breath of life into the first human's nostrils [divergence between the texts]
-    (wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs. innī
-    khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn. The
-    same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
-    in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: judaism
-  ref: Gen 2:7
-  note: Deity breathes the breath of life into the first human's nostrils
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 38:72
-  note: Deity breathes the breath of life into the first human's nostrils ('I breathed into him of my
-    spirit')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
-- tradition: judaism
-  ref: Gen 2:7
-  note: First human shaped from dust, clay or soil (adam from adamah; animals also formed from the ground,
-    Gen 2:19)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
-    חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
-- tradition: islam
-  ref: Quran 38:71
-  note: First human shaped from dust, clay or soil
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm
-    vs. innī khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn.
-    The same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
-    in Q the act is announced to the angels, and the breath of ''my spirit'' is the cue for them to prostrate.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Deity breathes the breath of life into the first human''s nostrils
     [divergence between the texts] (weight 6.3); Deity breathes the breath of life into the first human''s
@@ -115,6 +51,54 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Deity breathes the breath of life into the first human's nostrils
+kinds:
+- divergence
+- shared
+units:
+- id: hb-gen-2-eden-adam-woman
+  title: Second creation account, Eden, and the making of woman
+  tradition: judaism
+- id: quran-38-adam-iblis
+  title: Adam made from clay; Iblis refuses and is granted respite
+  tradition: islam
+matches:
+- kind: divergence
+  label: Deity breathes the breath of life into the first human's nostrils
+  note: wa-yyîṣer YHWH ʾĕlōhîm ʾeṯ-hā-ʾāḏām ʿāp̄ār min hā-ʾăḏāmâ wa-yyippaḥ bə-ʾappâw nišmaṯ ḥayyîm vs.
+    innī khāliqun basharan min ṭīnin fa-idhā sawwaytuhu wa-nafakhtu fīhi min rūḥī fa-qaʿū lahu sājidīn.
+    The same sequence of forming from earth and breathing (nāp̄aḥ / nafakha). In Gen there is no audience;
+    in Q the act is announced to the angels, and the breath of 'my spirit' is the cue for them to prostrate.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:71
+      lang: ar
+      text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
+    - ref: Quran 38:72
+      lang: ar
+      text: فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ
+- kind: shared
+  label: First human shaped from dust, clay or soil
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 2:7
+      lang: he
+      text: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת הָֽאָדָ֗ם עָפָר֙ מִן הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת
+        חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה
+    note: adam from adamah; animals also formed from the ground, Gen 2:19
+  - tradition: islam
+    passages:
+    - ref: Quran 38:71
+      lang: ar
+      text: إِذْ قَالَ رَبُّكَ لِلْمَلَٰٓئِكَةِ إِنِّى خَٰلِقٌۢ بَشَرًا مِّن طِينٍ
 ---
 
 ## Questions

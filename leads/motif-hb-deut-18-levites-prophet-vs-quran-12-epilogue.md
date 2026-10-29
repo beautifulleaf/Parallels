@@ -1,7 +1,7 @@
 ---
 id: motif-hb-deut-18-levites-prophet-vs-quran-12-epilogue
 title: Levitical dues; forbidden divination; the prophet like Moses ↔ Epilogue to the Joseph surah
-summary: 'These two units share 1 motifs: god sent before only men, inspired, from the people of the towns.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,40 +14,9 @@ layers:
 - motif
 motifs:
 - messengers-are-men-from-towns
-passages:
-- tradition: judaism
-  ref: Deut 18:15
-  note: 'God sent before only men, inspired, from the people of the towns (wa-mā arsalnā min qablika illā
-    rijālan nūḥī ilayhim min ahli l-qurā; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem kāmôkā wənātattî dəbāray
-    bəpîw: the prophet is a man raised from among his own people and given the divine word. Deut promises
-    one prophet like Moses for Israel; Q makes it the rule for all messengers before Muhammad.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
-- tradition: judaism
-  ref: Deut 18:18
-  note: 'God sent before only men, inspired, from the people of the towns (wa-mā arsalnā min qablika illā
-    rijālan nūḥī ilayhim min ahli l-qurā; nābîʾ ʾāqîm lāhem miqqereb ʾăḥêhem kāmôkā wənātattî dəbāray
-    bəpîw: the prophet is a man raised from among his own people and given the divine word. Deut promises
-    one prophet like Moses for Israel; Q makes it the rule for all messengers before Muhammad.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר אֲלֵיהֶ֔ם
-    אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
-- tradition: islam
-  ref: Quran 12:109
-  note: God sent before only men, inspired, from the people of the towns (rijālan ... min ahl al-qurā)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ أَفَلَمْ
-    يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَدَارُ ٱلْءَاخِرَةِ
-    خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ أَفَلَا تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. wa-mā arsalnā min qablika illā rijālan nūḥī ilayhim min ahli l-qurā; nābîʾ ʾāqîm lāhem miqqereb
-    ʾăḥêhem kāmôkā wənātattî dəbāray bəpîw: the prophet is a man raised from among his own people and
-    given the divine word. Deut promises one prophet like Moses for Israel; Q makes it the rule for all
-    messengers before Muhammad.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God sent before only men, inspired, from the people of the towns
     (weight 6.3). Pair score 6.3.'
@@ -77,6 +46,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God sent before only men, inspired, from the people of the towns
+kinds:
+- parallel
+units:
+- id: hb-deut-18-levites-prophet
+  title: Levitical dues; forbidden divination; the prophet like Moses
+  tradition: judaism
+- id: quran-12-epilogue
+  title: Epilogue to the Joseph surah
+  tradition: islam
+matches:
+- kind: parallel
+  label: God sent before only men, inspired, from the people of the towns
+  note: 'wa-mā arsalnā min qablika illā rijālan nūḥī ilayhim min ahli l-qurā; nābîʾ ʾāqîm lāhem miqqereb
+    ʾăḥêhem kāmôkā wənātattî dəbāray bəpîw: the prophet is a man raised from among his own people and
+    given the divine word. Deut promises one prophet like Moses for Israel; Q makes it the rule for all
+    messengers before Muhammad.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 18:15
+      lang: he
+      text: נָבִ֨יא מִקִּרְבְּךָ֤ מֵאַחֶ֨יךָ֙ כָּמֹ֔נִי יָקִ֥ים לְךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ אֵלָ֖יו תִּשְׁמָעֽוּן
+    - ref: Deut 18:18
+      lang: he
+      text: נָבִ֨יא אָקִ֥ים לָהֶ֛ם מִקֶּ֥רֶב אֲחֵיהֶ֖ם כָּמ֑וֹךָ וְנָתַתִּ֤י דְבָרַי֙ בְּפִ֔יו וְדִבֶּ֣ר
+        אֲלֵיהֶ֔ם אֵ֖ת כָּל אֲשֶׁ֥ר אֲצַוֶּֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 12:109
+      lang: ar
+      text: وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ
+        أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ
+        وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ أَفَلَا تَعْقِلُونَ
 ---
 
 ## Questions

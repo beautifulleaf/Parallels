@@ -2,8 +2,7 @@
 id: motif-hb-mic-2-land-grabbers-vs-quran-4-wealth-household
 title: Woe to those who seize fields; the breaker goes before the flock ↔ Wealth by consent, major sins,
   and discord in marriage
-summary: 'These two units share 2 motifs: do not consume one another''s wealth wrongfully (bil-bāṭil),
-  only by trade with mutual consent, prohibition of coveting the neighbor''s wife and property.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,55 +15,9 @@ layers:
 motifs:
 - consuming-wealth-falsely-forbidden
 - covet-prohibition
-passages:
-- tradition: judaism
-  ref: Mic 2:2
-  note: 'Do not consume one another''s wealth wrongfully (bil-bāṭil), only by trade with mutual consent
-    (Mic 2:2 wĕ-ḥāmĕdû śādôt wĕ-gāzālû û-bāttîm wĕ-nāśāʾû wĕ-ʿāšĕqû geber û-bêtô: they covet fields and
-    seize them, oppress a man and his house; Q 4:29-30 lā taʾkulū amwālakum baynakum bi-l-bāṭil ... wa-man
-    yafʿal dhālika ʿudwānan wa-ẓulman fa-sawfa nuṣlīhi nāran: wrongful seizure of property under threat
-    of divine punishment.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָמְד֤וּ שָׂדוֹת֙ וְגָזָ֔לוּ וּבָתִּ֖ים וְנָשָׂ֑אוּ וְעָֽשְׁקוּ֙ גֶּ֣בֶר וּבֵית֔וֹ וְאִ֖ישׁ
-    וְנַחֲלָתֽוֹ
-- tradition: islam
-  ref: Quran 4:29
-  note: Do not consume one another's wealth wrongfully (bil-bāṭil), only by trade with mutual consent
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
-    أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ بِكُمْ
-    رَحِيمًا
-- tradition: islam
-  ref: Quran 4:30
-  note: Do not consume one another's wealth wrongfully (bil-bāṭil), only by trade with mutual consent
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ
-    يَسِيرًا
-- tradition: judaism
-  ref: Mic 2:2
-  note: Prohibition of coveting the neighbor's wife and property (hamedu sadot)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָמְד֤וּ שָׂדוֹת֙ וְגָזָ֔לוּ וּבָתִּ֖ים וְנָשָׂ֑אוּ וְעָֽשְׁקוּ֙ גֶּ֣בֶר וּבֵית֔וֹ וְאִ֖ישׁ
-    וְנַחֲלָתֽוֹ
-- tradition: islam
-  ref: Quran 4:32
-  note: Prohibition of coveting the neighbor's wife and property (do not covet (lā tatamannaw) what God
-    preferred some with; ask God of his bounty)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ مِّمَّا
-    ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ إِنَّ
-    ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Mic 2:2 wĕ-ḥāmĕdû śādôt wĕ-gāzālû û-bāttîm wĕ-nāśāʾû wĕ-ʿāšĕqû geber û-bêtô: they covet fields
-    and seize them, oppress a man and his house; Q 4:29-30 lā taʾkulū amwālakum baynakum bi-l-bāṭil ...
-    wa-man yafʿal dhālika ʿudwānan wa-ẓulman fa-sawfa nuṣlīhi nāran: wrongful seizure of property under
-    threat of divine punishment.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Do not consume one another''s wealth wrongfully (bil-bāṭil), only
     by trade with mutual consent (weight 6.3); Prohibition of coveting the neighbor''s wife and property
@@ -94,6 +47,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Do not consume one another's wealth wrongfully (bil-bāṭil), only by trade with mutual consent
+kinds:
+- echo
+- shared
+units:
+- id: hb-mic-2-land-grabbers
+  title: Woe to those who seize fields; the breaker goes before the flock
+  tradition: judaism
+- id: quran-4-wealth-household
+  title: Wealth by consent, major sins, and discord in marriage
+  tradition: islam
+matches:
+- kind: echo
+  label: Do not consume one another's wealth wrongfully (bil-bāṭil), only by trade with mutual consent
+  note: 'Mic 2:2 wĕ-ḥāmĕdû śādôt wĕ-gāzālû û-bāttîm wĕ-nāśāʾû wĕ-ʿāšĕqû geber û-bêtô: they covet fields
+    and seize them, oppress a man and his house; Q 4:29-30 lā taʾkulū amwālakum baynakum bi-l-bāṭil ...
+    wa-man yafʿal dhālika ʿudwānan wa-ẓulman fa-sawfa nuṣlīhi nāran: wrongful seizure of property under
+    threat of divine punishment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 2:2
+      lang: he
+      text: וְחָמְד֤וּ שָׂדוֹת֙ וְגָזָ֔לוּ וּבָתִּ֖ים וְנָשָׂ֑אוּ וְעָֽשְׁקוּ֙ גֶּ֣בֶר וּבֵית֔וֹ וְאִ֖ישׁ
+        וְנַחֲלָתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:29
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَأْكُلُوٓا۟ أَمْوَٰلَكُم بَيْنَكُم بِٱلْبَٰطِلِ إِلَّآ
+        أَن تَكُونَ تِجَٰرَةً عَن تَرَاضٍ مِّنكُمْ وَلَا تَقْتُلُوٓا۟ أَنفُسَكُمْ إِنَّ ٱللَّهَ كَانَ
+        بِكُمْ رَحِيمًا
+    - ref: Quran 4:30
+      lang: ar
+      text: وَمَن يَفْعَلْ ذَٰلِكَ عُدْوَٰنًا وَظُلْمًا فَسَوْفَ نُصْلِيهِ نَارًا وَكَانَ ذَٰلِكَ عَلَى
+        ٱللَّهِ يَسِيرًا
+- kind: shared
+  label: Prohibition of coveting the neighbor's wife and property
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 2:2
+      lang: he
+      text: וְחָמְד֤וּ שָׂדוֹת֙ וְגָזָ֔לוּ וּבָתִּ֖ים וְנָשָׂ֑אוּ וְעָֽשְׁקוּ֙ גֶּ֣בֶר וּבֵית֔וֹ וְאִ֖ישׁ
+        וְנַחֲלָתֽוֹ
+    note: hamedu sadot
+  - tradition: islam
+    passages:
+    - ref: Quran 4:32
+      lang: ar
+      text: وَلَا تَتَمَنَّوْا۟ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعْضَكُمْ عَلَىٰ بَعْضٍ لِّلرِّجَالِ نَصِيبٌ
+        مِّمَّا ٱكْتَسَبُوا۟ وَلِلنِّسَآءِ نَصِيبٌ مِّمَّا ٱكْتَسَبْنَ وَسْـَٔلُوا۟ ٱللَّهَ مِن فَضْلِهِۦٓ
+        إِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا
+    note: do not covet (lā tatamannaw) what God preferred some with; ask God of his bounty
 ---
 
 ## Questions

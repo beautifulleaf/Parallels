@@ -2,8 +2,7 @@
 id: motif-hb-hos-10-vine-and-calves-vs-quran-4-kindness-misers-atom
 title: The luxuriant vine, the calves of Beth-aven, sow righteousness ↔ The circle of kindness, misers,
   and the atom's weight
-summary: 'These two units share 1 motifs: they will say to the mountains ''cover us'' and to the hills
-  ''fall on us''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,29 +15,9 @@ layers:
 - motif
 motifs:
 - mountains-cover-us
-passages:
-- tradition: judaism
-  ref: Hos 10:8
-  note: They will say to the mountains 'Cover us' and to the hills 'Fall on us'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנִשְׁמְד֞וּ בָּמ֣וֹת אָ֗וֶן חַטַּאת֙ יִשְׂרָאֵ֔ל ק֣וֹץ וְדַרְדַּ֔ר יַעֲלֶ֖ה עַל מִזְבְּחוֹתָ֑ם
-    וְאָמְר֤וּ לֶֽהָרִים֙ כַּסּ֔וּנוּ וְלַגְּבָע֖וֹת נִפְל֥וּ עָלֵֽינוּ
-- tradition: islam
-  ref: Quran 4:42
-  note: They will say to the mountains 'Cover us' and to the hills 'Fall on us' (law tusawwā bihimu l-arḍ;
-    compare Hos 10:8)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا
-    يَكْتُمُونَ ٱللَّهَ حَدِيثًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    parallel. Hos 10:8 wĕ-ʾāmĕrû le-hārîm kassûnû wĕ-la-gĕbāʿôt nipĕlû ʿālênû: they will say to the mountains
-    ''cover us'', to the hills ''fall on us''; Q 4:42 yawmaʾidhin yawaddu lladhīna kafarū ... law tusawwā
-    bihimu l-arḍu: on that day the unbelievers will wish the earth were levelled over them. Wish to be
-    buried under the land to escape judgment; Hosea''s is the fall of Samaria''s shrines, the Quran''s
-    the Last Day.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: They will say to the mountains ''Cover us'' and to the hills ''Fall
     on us'' (weight 6.7). Pair score 6.7.'
@@ -68,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: They will say to the mountains 'Cover us' and to the hills 'Fall on us'
+kinds:
+- parallel
+units:
+- id: hb-hos-10-vine-and-calves
+  title: The luxuriant vine, the calves of Beth-aven, sow righteousness
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: parallel
+  label: They will say to the mountains 'Cover us' and to the hills 'Fall on us'
+  note: 'Hos 10:8 wĕ-ʾāmĕrû le-hārîm kassûnû wĕ-la-gĕbāʿôt nipĕlû ʿālênû: they will say to the mountains
+    ''cover us'', to the hills ''fall on us''; Q 4:42 yawmaʾidhin yawaddu lladhīna kafarū ... law tusawwā
+    bihimu l-arḍu: on that day the unbelievers will wish the earth were levelled over them. Wish to be
+    buried under the land to escape judgment; Hosea''s is the fall of Samaria''s shrines, the Quran''s
+    the Last Day.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 10:8
+      lang: he
+      text: וְנִשְׁמְד֞וּ בָּמ֣וֹת אָ֗וֶן חַטַּאת֙ יִשְׂרָאֵ֔ל ק֣וֹץ וְדַרְדַּ֔ר יַעֲלֶ֖ה עַל מִזְבְּחוֹתָ֑ם
+        וְאָמְר֤וּ לֶֽהָרִים֙ כַּסּ֔וּנוּ וְלַגְּבָע֖וֹת נִפְל֥וּ עָלֵֽינוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 4:42
+      lang: ar
+      text: يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ
+        وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا
 ---
 
 ## Questions

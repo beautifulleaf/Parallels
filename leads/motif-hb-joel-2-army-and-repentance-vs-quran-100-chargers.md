@@ -1,7 +1,7 @@
 ---
 id: motif-hb-joel-2-army-and-repentance-vs-quran-100-chargers
 title: The locust army of the Day of YHWH; 'rend your hearts'; restoration ↔ The chargers
-summary: 'These two units share 1 motifs: the hoofbeats of galloping horses depicted in poetry.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,38 +13,9 @@ layers:
 - motif
 motifs:
 - galloping-of-horses
-passages:
-- tradition: judaism
-  ref: Joel 2:4
-  note: The hoofbeats of galloping horses depicted in poetry (fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan
-    ~ ke-marʾēh sûsîm marʾēhû û-kefārāšîm kēn yerûṣûn ... ke-ʿam ʿāṣûm ʿărûk milḥāmāh.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּמַרְאֵ֥ה סוּסִ֖ים מַרְאֵ֑הוּ וּכְפָרָשִׁ֖ים כֵּ֥ן יְרוּצֽוּן
-- tradition: judaism
-  ref: Joel 2:5
-  note: The hoofbeats of galloping horses depicted in poetry (fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan
-    ~ ke-marʾēh sûsîm marʾēhû û-kefārāšîm kēn yerûṣûn ... ke-ʿam ʿāṣûm ʿărûk milḥāmāh.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כְּק֣וֹל מַרְכָּב֗וֹת עַל רָאשֵׁ֤י הֶֽהָרִים֙ יְרַקֵּד֔וּן כְּקוֹל֙ לַ֣הַב אֵ֔שׁ אֹכְלָ֖ה קָ֑שׁ
-    כְּעַ֣ם עָצ֔וּם עֱר֖וּךְ מִלְחָמָֽה
-- tradition: islam
-  ref: Quran 100:1
-  note: The hoofbeats of galloping horses depicted in poetry
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْعَٰدِيَٰتِ ضَبْحًا
-- tradition: islam
-  ref: Quran 100:2
-  note: The hoofbeats of galloping horses depicted in poetry
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْمُورِيَٰتِ قَدْحًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan ~ ke-marʾēh sûsîm marʾēhû û-kefārāšîm kēn yerûṣûn
-    ... ke-ʿam ʿāṣûm ʿărûk milḥāmāh.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 6.3).
     Pair score 6.3.'
@@ -75,6 +46,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The hoofbeats of galloping horses depicted in poetry
+kinds:
+- echo
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-100-chargers
+  title: The chargers
+  tradition: islam
+matches:
+- kind: echo
+  label: The hoofbeats of galloping horses depicted in poetry
+  note: fa-l-mughīrāti ṣubḥan fa-atharna bihi naqʿan ~ ke-marʾēh sûsîm marʾēhû û-kefārāšîm kēn yerûṣûn
+    ... ke-ʿam ʿāṣûm ʿărûk milḥāmāh.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:4
+      lang: he
+      text: כְּמַרְאֵ֥ה סוּסִ֖ים מַרְאֵ֑הוּ וּכְפָרָשִׁ֖ים כֵּ֥ן יְרוּצֽוּן
+    - ref: Joel 2:5
+      lang: he
+      text: כְּק֣וֹל מַרְכָּב֗וֹת עַל רָאשֵׁ֤י הֶֽהָרִים֙ יְרַקֵּד֔וּן כְּקוֹל֙ לַ֣הַב אֵ֔שׁ אֹכְלָ֖ה
+        קָ֑שׁ כְּעַ֣ם עָצ֔וּם עֱר֖וּךְ מִלְחָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 100:3
+      lang: ar
+      text: فَٱلْمُغِيرَٰتِ صُبْحًا
+    - ref: Quran 100:4
+      lang: ar
+      text: فَأَثَرْنَ بِهِۦ نَقْعًا
 ---
 
 ## Questions

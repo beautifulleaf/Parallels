@@ -2,8 +2,7 @@
 id: motif-hb-ps-106-national-confession-vs-quran-44-dukhan-pharaoh-drowned
 title: Psalm 106, national confession of sins from Egypt to exile ↔ Moses asks Pharaoh to hand over God's
   servants; the sea left parted; heaven did not weep
-summary: 'These two units share 1 motifs: the people walk on dry ground through the sea with the waters
-  as a wall on either side.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,36 +14,9 @@ layers:
 - motif
 motifs:
 - walk-on-dry-ground-waters-as-walls
-passages:
-- tradition: judaism
-  ref: Ps 106:9
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (wa-yiḡʿar
-    bə-yam sûp̄ wa-yeḥĕrāḇ ... wa-yḵassû mayim ṣārêhem ʾeḥāḏ mēhem lōʾ nôṯār vs. wa-truki l-baḥra rahwan
-    innahum jundun mughraqūn. In the psalm God rebukes the sea himself; in the Quran Moses is told to
-    leave it.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּגְעַ֣ר בְּיַם ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר
-- tradition: judaism
-  ref: Ps 106:11
-  note: The people walk on dry ground through the sea with the waters as a wall on either side (wa-yiḡʿar
-    bə-yam sûp̄ wa-yeḥĕrāḇ ... wa-yḵassû mayim ṣārêhem ʾeḥāḏ mēhem lōʾ nôṯār vs. wa-truki l-baḥra rahwan
-    innahum jundun mughraqūn. In the psalm God rebukes the sea himself; in the Quran Moses is told to
-    leave it.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְכַסּוּ מַ֥יִם צָרֵיהֶ֑ם אֶחָ֥ד מֵ֝הֶ֗ם לֹ֣א נוֹתָֽר
-- tradition: islam
-  ref: Quran 44:24
-  note: The people walk on dry ground through the sea with the waters as a wall on either side
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wa-yiḡʿar bə-yam sûp̄ wa-yeḥĕrāḇ ... wa-yḵassû mayim ṣārêhem ʾeḥāḏ mēhem lōʾ nôṯār vs. wa-truki
-    l-baḥra rahwan innahum jundun mughraqūn. In the psalm God rebukes the sea himself; in the Quran Moses
-    is told to leave it.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The people walk on dry ground through the sea with the waters as
     a wall on either side (weight 5.3). Pair score 5.3.'
@@ -80,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The people walk on dry ground through the sea with the waters as a wall on either side
+kinds:
+- echo
+units:
+- id: hb-ps-106-national-confession
+  title: Psalm 106, national confession of sins from Egypt to exile
+  tradition: judaism
+- id: quran-44-dukhan-pharaoh-drowned
+  title: Moses asks Pharaoh to hand over God's servants; the sea left parted; heaven did not weep
+  tradition: islam
+matches:
+- kind: echo
+  label: The people walk on dry ground through the sea with the waters as a wall on either side
+  note: wa-yiḡʿar bə-yam sûp̄ wa-yeḥĕrāḇ ... wa-yḵassû mayim ṣārêhem ʾeḥāḏ mēhem lōʾ nôṯār vs. wa-truki
+    l-baḥra rahwan innahum jundun mughraqūn. In the psalm God rebukes the sea himself; in the Quran Moses
+    is told to leave it.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 106:9
+      lang: he
+      text: וַיִּגְעַ֣ר בְּיַם ס֭וּף וַֽיֶּחֱרָ֑ב וַיּוֹלִיכֵ֥ם בַּ֝תְּהֹמ֗וֹת כַּמִּדְבָּֽר
+    - ref: Ps 106:11
+      lang: he
+      text: וַיְכַסּוּ מַ֥יִם צָרֵיהֶ֑ם אֶחָ֥ד מֵ֝הֶ֗ם לֹ֣א נוֹתָֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 44:24
+      lang: ar
+      text: وَٱتْرُكِ ٱلْبَحْرَ رَهْوًا إِنَّهُمْ جُندٌ مُّغْرَقُونَ
 ---
 
 ## Questions

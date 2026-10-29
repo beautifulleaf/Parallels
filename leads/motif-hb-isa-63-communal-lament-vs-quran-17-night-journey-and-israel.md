@@ -2,8 +2,7 @@
 id: motif-hb-isa-63-communal-lament-vs-quran-17-night-journey-and-israel
 title: Remembering the days of Moses - O that you would rend the heavens ↔ The Night Journey and the two
   corruptions of the Children of Israel (Surah 17:1-8)
-summary: 'These two units share 1 motifs: enemies roar in the sanctuary, hack its carved work with axes
-  and burn it to the ground.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,32 +14,9 @@ layers:
 - motif
 motifs:
 - temple-destroyed-by-enemies
-passages:
-- tradition: judaism
-  ref: Isa 63:18
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground (our holy
-    house became a burning of fire; Zion a wilderness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לַמִּצְעָ֕ר יָרְשׁ֖וּ עַם קָדְשֶׁ֑ךָ צָרֵ֕ינוּ בּוֹסְס֖וּ מִקְדָּשֶֽׁךָ
-- tradition: judaism
-  ref: Isa 64:9
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground (our holy
-    house became a burning of fire; Zion a wilderness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עָרֵ֥י קָדְשְׁךָ֖ הָי֣וּ מִדְבָּ֑ר צִיּוֹן֙ מִדְבָּ֣ר הָיָ֔תָה יְרוּשָׁלִַ֖ם שְׁמָמָֽה
-- tradition: islam
-  ref: Quran 17:7
-  note: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ ٱلْءَاخِرَةِ
-    لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ وَلِيُتَبِّرُوا۟
-    مَا عَلَوْا۟ تَتْبِيرًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    echo. ṣārênû bôsəsû miqdāšekā; wa-li-yadkhulū l-masjida ... wa-li-yutabbirū: enemies trample the sanctuary.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Enemies roar in the sanctuary, hack its carved work with axes and
     burn it to the ground (weight 6.0). Pair score 6.0.'
@@ -77,6 +53,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+kinds:
+- echo
+units:
+- id: hb-isa-63-communal-lament
+  title: Remembering the days of Moses - O that you would rend the heavens
+  tradition: judaism
+- id: quran-17-night-journey-and-israel
+  title: The Night Journey and the two corruptions of the Children of Israel (Surah 17:1-8)
+  tradition: islam
+matches:
+- kind: echo
+  label: Enemies roar in the sanctuary, hack its carved work with axes and burn it to the ground
+  note: 'ṣārênû bôsəsû miqdāšekā; wa-li-yadkhulū l-masjida ... wa-li-yutabbirū: enemies trample the sanctuary.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 63:18
+      lang: he
+      text: לַמִּצְעָ֕ר יָרְשׁ֖וּ עַם קָדְשֶׁ֑ךָ צָרֵ֕ינוּ בּוֹסְס֖וּ מִקְדָּשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 17:7
+      lang: ar
+      text: إِنْ أَحْسَنتُمْ أَحْسَنتُمْ لِأَنفُسِكُمْ وَإِنْ أَسَأْتُمْ فَلَهَا فَإِذَا جَآءَ وَعْدُ
+        ٱلْءَاخِرَةِ لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ وَلِيَدْخُلُوا۟ ٱلْمَسْجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٍ
+        وَلِيُتَبِّرُوا۟ مَا عَلَوْا۟ تَتْبِيرًا
 ---
 
 ## Questions

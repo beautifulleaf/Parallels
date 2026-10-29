@@ -2,8 +2,7 @@
 id: motif-hb-num-36-heiresses-vs-quran-4-women-orphans-justice
 title: Marriage of heiresses within the tribe; colophon of Numbers ↔ Orphan girls, reconciliation, the
   suspended wife, and justice against oneself
-summary: 'These two units share 1 motifs: the marriage of fatherless girls is tied to their inheritance
-  [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - marriage-of-orphan-heiresses-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 36:6
-  note: 'The marriage of fatherless girls is tied to their inheritance [divergence between the texts]
-    (In both, a female orphan''s inheritance is tied to her marriage. Num makes marriage within the father''s
-    clan a duty, so the naḥălāh does not pass to another tribe: ʾakh lə-mišpaḥat maṭṭēh ʾăvîhem tihyênāh
-    lə-nāšîm. Q censures guardians who wish to marry orphan girls while withholding what is written for
-    them: allātī lā tuʾtūnahunna mā kutiba lahunna wa-targhabūna an tankiḥūhunna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זֶ֣ה הַדָּבָ֞ר אֲשֶׁר צִוָּ֣ה יְהוָ֗ה לִבְנ֤וֹת צְלָפְחָד֙ לֵאמֹ֔ר לַטּ֥וֹב בְּעֵינֵיהֶ֖ם תִּהְיֶ֣ינָה
-    לְנָשִׁ֑ים אַ֗ךְ לְמִשְׁפַּ֛חַת מַטֵּ֥ה אֲבִיהֶ֖ם תִּהְיֶ֥ינָה לְנָשִֽׁים
-- tradition: judaism
-  ref: Num 36:8
-  note: 'The marriage of fatherless girls is tied to their inheritance [divergence between the texts]
-    (In both, a female orphan''s inheritance is tied to her marriage. Num makes marriage within the father''s
-    clan a duty, so the naḥălāh does not pass to another tribe: ʾakh lə-mišpaḥat maṭṭēh ʾăvîhem tihyênāh
-    lə-nāšîm. Q censures guardians who wish to marry orphan girls while withholding what is written for
-    them: allātī lā tuʾtūnahunna mā kutiba lahunna wa-targhabūna an tankiḥūhunna.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכָל בַּ֞ת יֹרֶ֣שֶׁת נַחֲלָ֗ה מִמַּטּוֹת֮ בְּנֵ֣י יִשְׂרָאֵל֒ לְאֶחָ֗ד מִמִּשְׁפַּ֛חַת מַטֵּ֥ה
-    אָבִ֖יהָ תִּהְיֶ֣ה לְאִשָּׁ֑ה לְמַ֗עַן יִֽירְשׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אִ֖ישׁ נַחֲלַ֥ת אֲבֹתָֽיו
-- tradition: islam
-  ref: Quran 4:127
-  note: 'The marriage of fatherless girls is tied to their inheritance [divergence between the texts]
-    (In both, a female orphan''s inheritance is tied to her marriage. Num makes marriage within the father''s
-    clan a duty, so the naḥălāh does not pass to another tribe: ʾakh lə-mišpaḥat maṭṭēh ʾăvîhem tihyênāh
-    lə-nāšîm. Q censures guardians who wish to marry orphan girls while withholding what is written for
-    them: allātī lā tuʾtūnahunna mā kutiba lahunna wa-targhabūna an tankiḥūhunna.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ
-    فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ
-    أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ
-    وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. In both, a female orphan''s inheritance is tied to her marriage. Num makes marriage within
-    the father''s clan a duty, so the naḥălāh does not pass to another tribe: ʾakh lə-mišpaḥat maṭṭēh
-    ʾăvîhem tihyênāh lə-nāšîm. Q censures guardians who wish to marry orphan girls while withholding what
-    is written for them: allātī lā tuʾtūnahunna mā kutiba lahunna wa-targhabūna an tankiḥūhunna.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The marriage of fatherless girls is tied to their inheritance [divergence
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +44,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The marriage of fatherless girls is tied to their inheritance
+kinds:
+- divergence
+units:
+- id: hb-num-36-heiresses
+  title: Marriage of heiresses within the tribe; colophon of Numbers
+  tradition: judaism
+- id: quran-4-women-orphans-justice
+  title: Orphan girls, reconciliation, the suspended wife, and justice against oneself
+  tradition: islam
+matches:
+- kind: divergence
+  label: The marriage of fatherless girls is tied to their inheritance
+  note: 'In both, a female orphan''s inheritance is tied to her marriage. Num makes marriage within the
+    father''s clan a duty, so the naḥălāh does not pass to another tribe: ʾakh lə-mišpaḥat maṭṭēh ʾăvîhem
+    tihyênāh lə-nāšîm. Q censures guardians who wish to marry orphan girls while withholding what is written
+    for them: allātī lā tuʾtūnahunna mā kutiba lahunna wa-targhabūna an tankiḥūhunna.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 36:6
+      lang: he
+      text: זֶ֣ה הַדָּבָ֞ר אֲשֶׁר צִוָּ֣ה יְהוָ֗ה לִבְנ֤וֹת צְלָפְחָד֙ לֵאמֹ֔ר לַטּ֥וֹב בְּעֵינֵיהֶ֖ם
+        תִּהְיֶ֣ינָה לְנָשִׁ֑ים אַ֗ךְ לְמִשְׁפַּ֛חַת מַטֵּ֥ה אֲבִיהֶ֖ם תִּהְיֶ֥ינָה לְנָשִֽׁים
+    - ref: Num 36:8
+      lang: he
+      text: וְכָל בַּ֞ת יֹרֶ֣שֶׁת נַחֲלָ֗ה מִמַּטּוֹת֮ בְּנֵ֣י יִשְׂרָאֵל֒ לְאֶחָ֗ד מִמִּשְׁפַּ֛חַת מַטֵּ֥ה
+        אָבִ֖יהָ תִּהְיֶ֣ה לְאִשָּׁ֑ה לְמַ֗עַן יִֽירְשׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אִ֖ישׁ נַחֲלַ֥ת אֲבֹתָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 4:127
+      lang: ar
+      text: وَيَسْتَفْتُونَكَ فِى ٱلنِّسَآءِ قُلِ ٱللَّهُ يُفْتِيكُمْ فِيهِنَّ وَمَا يُتْلَىٰ عَلَيْكُمْ
+        فِى ٱلْكِتَٰبِ فِى يَتَٰمَى ٱلنِّسَآءِ ٱلَّٰتِى لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ
+        أَن تَنكِحُوهُنَّ وَٱلْمُسْتَضْعَفِينَ مِنَ ٱلْوِلْدَٰنِ وَأَن تَقُومُوا۟ لِلْيَتَٰمَىٰ بِٱلْقِسْطِ
+        وَمَا تَفْعَلُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِيمًا
 ---
 
 ## Questions

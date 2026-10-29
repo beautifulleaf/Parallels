@@ -2,7 +2,7 @@
 id: motif-hb-neh-13-nehemiahs-final-reforms-vs-quran-2-qibla
 title: Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites' portions, Sabbath and
   mixed marriages ↔ The change of qibla
-summary: 'These two units share 1 motifs: leader prays ''remember me, my god, for good'' for his deeds.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - remember-me-for-good-formula
-passages:
-- tradition: judaism
-  ref: Neh 13:14
-  note: Leader prays 'remember me, my God, for good' for his deeds ('do not wipe out my good deeds')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: זָכְרָה לִּ֥י אֱלֹהַ֖י עַל זֹ֑את וְאַל תֶּ֣מַח חֲסָדַ֗י אֲשֶׁ֥ר עָשִׂ֛יתִי בְּבֵ֥ית אֱלֹהַ֖י וּבְמִשְׁמָרָֽיו
-- tradition: judaism
-  ref: Neh 13:22
-  note: Leader prays 'remember me, my God, for good' for his deeds ('do not wipe out my good deeds')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וָאֹמְרָ֣ה לַלְוִיִּ֗ם אֲשֶׁ֨ר יִֽהְי֤וּ מִֽטַּהֲרִים֙ וּבָאִים֙ שֹׁמְרִ֣ים הַשְּׁעָרִ֔ים לְקַדֵּ֖שׁ
-    אֶת י֣וֹם הַשַּׁבָּ֑ת גַּם זֹאת֙ זָכְרָה לִּ֣י אֱלֹהַ֔י וְח֥וּסָה עָלַ֖י כְּרֹ֥ב חַסְדֶּֽךָ
-- tradition: islam
-  ref: Quran 2:152
-  note: Leader prays 'remember me, my God, for good' for his deeds ('remember me and I will remember you')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Neh 13:14 zokrâ llî ʾĕlōhay ʿal zōʾt wĕ-ʾal temaḥ ḥăsāday; Q 2:152 fa-dhkurūnī adhkurkum.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader prays ''remember me, my God, for good'' for his deeds (weight
     6.3). Pair score 6.3.'
@@ -69,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader prays 'remember me, my God, for good' for his deeds
+kinds:
+- echo
+units:
+- id: hb-neh-13-nehemiahs-final-reforms
+  title: Ammonites and Moabites excluded; Tobiah expelled from the temple; Levites' portions, Sabbath
+    and mixed marriages
+  tradition: judaism
+- id: quran-2-qibla
+  title: The change of qibla
+  tradition: islam
+matches:
+- kind: echo
+  label: Leader prays 'remember me, my God, for good' for his deeds
+  note: Neh 13:14 zokrâ llî ʾĕlōhay ʿal zōʾt wĕ-ʾal temaḥ ḥăsāday; Q 2:152 fa-dhkurūnī adhkurkum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Neh 13:14
+      lang: he
+      text: זָכְרָה לִּ֥י אֱלֹהַ֖י עַל זֹ֑את וְאַל תֶּ֣מַח חֲסָדַ֗י אֲשֶׁ֥ר עָשִׂ֛יתִי בְּבֵ֥ית אֱלֹהַ֖י
+        וּבְמִשְׁמָרָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:152
+      lang: ar
+      text: فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ
 ---
 
 ## Questions

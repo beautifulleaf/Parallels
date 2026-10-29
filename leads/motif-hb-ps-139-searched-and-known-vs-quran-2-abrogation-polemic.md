@@ -2,8 +2,7 @@
 id: motif-hb-ps-139-searched-and-known-vs-quran-2-abrogation-polemic
 title: Psalm 139, God's all-knowing presence and the embryo ↔ Ra'ina, abrogation, rival claims and the
   face of God
-summary: 'These two units share 1 motifs: east and west belong to god; wherever you turn, there is the
-  face of god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - wherever-you-turn-face-of-god
-passages:
-- tradition: judaism
-  ref: Ps 139:7
-  note: 'East and west belong to God; wherever you turn, there is the face of God (Ps 139:7-9 ʾānâ mi-ppāneykā
-    ʾebrāḥ ʾim ʾessaq šāmayim šām ʾāttâ ... ʾeśśāʾ kanpê šaḥar ʾeškĕnâ bĕ-ʾaḥărît yām: no place to flee
-    your face, east (wings of dawn) to the far west (end of the sea); Q 2:115 wa-li-llāhi l-mashriqu wa-l-maghribu
-    fa-aynamā tuwallū fa-thamma wajhu llāhi: east and west are God''s, wherever you turn there is God''s
-    face. In the psalm an inescapable presence; in the Quran a ruling on the direction of prayer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
-- tradition: judaism
-  ref: Ps 139:8
-  note: 'East and west belong to God; wherever you turn, there is the face of God (Ps 139:7-9 ʾānâ mi-ppāneykā
-    ʾebrāḥ ʾim ʾessaq šāmayim šām ʾāttâ ... ʾeśśāʾ kanpê šaḥar ʾeškĕnâ bĕ-ʾaḥărît yām: no place to flee
-    your face, east (wings of dawn) to the far west (end of the sea); Q 2:115 wa-li-llāhi l-mashriqu wa-l-maghribu
-    fa-aynamā tuwallū fa-thamma wajhu llāhi: east and west are God''s, wherever you turn there is God''s
-    face. In the psalm an inescapable presence; in the Quran a ruling on the direction of prayer.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ
-- tradition: islam
-  ref: Quran 2:115
-  note: East and west belong to God; wherever you turn, there is the face of God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ إِنَّ ٱللَّهَ
-    وَٰسِعٌ عَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 139:7-9 ʾānâ mi-ppāneykā ʾebrāḥ ʾim ʾessaq šāmayim šām ʾāttâ ... ʾeśśāʾ kanpê šaḥar ʾeškĕnâ
-    bĕ-ʾaḥărît yām: no place to flee your face, east (wings of dawn) to the far west (end of the sea);
-    Q 2:115 wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāhi: east and west
-    are God''s, wherever you turn there is God''s face. In the psalm an inescapable presence; in the Quran
-    a ruling on the direction of prayer.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: East and west belong to God; wherever you turn, there is the face
     of God (weight 6.7). Pair score 6.7.'
@@ -87,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: East and west belong to God; wherever you turn, there is the face of God
+kinds:
+- echo
+units:
+- id: hb-ps-139-searched-and-known
+  title: Psalm 139, God's all-knowing presence and the embryo
+  tradition: judaism
+- id: quran-2-abrogation-polemic
+  title: Ra'ina, abrogation, rival claims and the face of God
+  tradition: islam
+matches:
+- kind: echo
+  label: East and west belong to God; wherever you turn, there is the face of God
+  note: 'Ps 139:7-9 ʾānâ mi-ppāneykā ʾebrāḥ ʾim ʾessaq šāmayim šām ʾāttâ ... ʾeśśāʾ kanpê šaḥar ʾeškĕnâ
+    bĕ-ʾaḥărît yām: no place to flee your face, east (wings of dawn) to the far west (end of the sea);
+    Q 2:115 wa-li-llāhi l-mashriqu wa-l-maghribu fa-aynamā tuwallū fa-thamma wajhu llāhi: east and west
+    are God''s, wherever you turn there is God''s face. In the psalm an inescapable presence; in the Quran
+    a ruling on the direction of prayer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 139:7
+      lang: he
+      text: אָ֭נָ֥ה אֵלֵ֣ךְ מֵרוּחֶ֑ךָ וְ֝אָ֗נָה מִפָּנֶ֥יךָ אֶבְרָֽח
+    - ref: Ps 139:8
+      lang: he
+      text: אִם אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ
+    - ref: Ps 139:9
+      lang: he
+      text: אֶשָּׂ֥א כַנְפֵי שָׁ֑חַר אֶ֝שְׁכְּנָ֗ה בְּאַחֲרִ֥ית יָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:115
+      lang: ar
+      text: وَلِلَّهِ ٱلْمَشْرِقُ وَٱلْمَغْرِبُ فَأَيْنَمَا تُوَلُّوا۟ فَثَمَّ وَجْهُ ٱللَّهِ إِنَّ ٱللَّهَ
+        وَٰسِعٌ عَلِيمٌ
 ---
 
 ## Questions

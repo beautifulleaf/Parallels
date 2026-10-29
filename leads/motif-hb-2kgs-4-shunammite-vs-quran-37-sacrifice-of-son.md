@@ -1,8 +1,7 @@
 ---
 id: motif-hb-2kgs-4-shunammite-vs-quran-37-sacrifice-of-son
 title: The Shunammite woman and her son ↔ Abraham's dream and the near-sacrifice of his son
-summary: 'These two units share 2 motifs: a barren wife is told by a divine messenger that she will bear
-  a son, a divine messenger announces a son''s birth and gives his name.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -16,62 +15,7 @@ layers:
 motifs:
 - barren-wife-annunciation
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A barren wife is told by a divine messenger that she will bear a son
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: islam
-  ref: Quran 37:112
-  note: A barren wife is told by a divine messenger that she will bear a son (Isaac announced as 'a prophet
-    among the righteous')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
-- tradition: judaism
-  ref: 2Kgs 4:14
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
-    זָקֵֽן
-- tradition: judaism
-  ref: 2Kgs 4:16
-  note: A divine messenger announces a son's birth and gives his name (bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd
-    hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests ʾal-təkazzēb bəšipḥātekā; nubashshiruka
-    bi-ghulām ... annā yakūnu lī ghulām. A son promised where the husband is old. The disbelief moves
-    from the wife to the husband.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
-    אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
-- tradition: islam
-  ref: Quran 37:101
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ
-- tradition: islam
-  ref: Quran 37:112
-  note: A divine messenger announces a son's birth and gives his name (good news of 'a forbearing boy'
-    (ghulam halim), unnamed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: A barren wife is told by a divine messenger that she will bear a
     son (weight 5.8); A divine messenger announces a son''s birth and gives his name (weight 5.2). Pair
@@ -106,6 +50,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A barren wife is told by a divine messenger that she will bear a son
+kinds:
+- shared
+units:
+- id: hb-2kgs-4-shunammite
+  title: The Shunammite woman and her son
+  tradition: judaism
+- id: quran-37-sacrifice-of-son
+  title: Abraham's dream and the near-sacrifice of his son
+  tradition: islam
+matches:
+- kind: shared
+  label: A barren wife is told by a divine messenger that she will bear a son
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 37:112
+      lang: ar
+      text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    note: Isaac announced as 'a prophet among the righteous'
+- kind: shared
+  label: A divine messenger announces a son's birth and gives his name
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Kgs 4:14
+      lang: he
+      text: וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין לָ֖הּ וְאִישָׁ֥הּ
+        זָקֵֽן
+    - ref: 2Kgs 4:16
+      lang: he
+      text: וַיֹּ֗אמֶר לַמּוֹעֵ֤ד הַזֶּה֙ כָּעֵ֣ת חַיָּ֔ה אתי אַ֖תְּ חֹבֶ֣קֶת בֵּ֑ן וַתֹּ֗אמֶר אַל אֲדֹנִי֙
+        אִ֣ישׁ הָאֱלֹהִ֔ים אַל תְּכַזֵּ֖ב בְּשִׁפְחָתֶֽךָ
+    note: bēn ʾên-lāh wəʾîšāh zāqēn ... lammôʿēd hazzeh kāʿēt ḥayyâ ʾatt ḥōbeqet bēn, and the woman protests
+      ʾal-təkazzēb bəšipḥātekā; nubashshiruka bi-ghulām ... annā yakūnu lī ghulām. A son promised where
+      the husband is old. The disbelief moves from the wife to the husband.
+  - tradition: islam
+    passages:
+    - ref: Quran 37:101
+      lang: ar
+      text: فَبَشَّرْنَٰهُ بِغُلَٰمٍ حَلِيمٍ
+    - ref: Quran 37:112
+      lang: ar
+      text: وَبَشَّرْنَٰهُ بِإِسْحَٰقَ نَبِيًّا مِّنَ ٱلصَّٰلِحِينَ
+    - ref: Quran 37:100
+      lang: ar
+      text: رَبِّ هَبْ لِى مِنَ ٱلصَّٰلِحِينَ
+    note: good news of 'a forbearing boy' (ghulam halim), unnamed
 ---
 
 ## Questions

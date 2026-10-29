@@ -2,8 +2,7 @@
 id: motif-hb-deut-21-heifer-captive-son-vs-quran-4-inheritance-shares
 title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body ↔ The fixed shares
   of inheritance
-summary: 'These two units share 1 motifs: who receives a double share of inheritance [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - double-share-in-inheritance-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 21:17
-  note: 'Who receives a double share of inheritance [divergence between the texts] (Deut 21:17 kî ʾet
-    ha-bbĕkōr ... yakkîr lātet lô pî šĕnayim bĕ-kōl ʾăšer yimmāṣēʾ lô: the firstborn son gets a double
-    portion; Q 4:11 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: each son gets double a daughter''s share.
-    The double share moves from the firstborn over his brothers to the male over the female; primogeniture
-    is not mentioned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ אֶת הַבְּכֹ֨ר בֶּן הַשְּׂנוּאָ֜ה יַכִּ֗יר לָ֤תֶת לוֹ֙ פִּ֣י שְׁנַ֔יִם בְּכֹ֥ל אֲשֶׁר יִמָּצֵ֖א
-    ל֑וֹ כִּי הוּא֙ רֵאשִׁ֣ית אֹנ֔וֹ ל֖וֹ מִשְׁפַּ֥ט הַבְּכֹרָֽה
-- tradition: islam
-  ref: Quran 4:11
-  note: 'Who receives a double share of inheritance [divergence between the texts] (Deut 21:17 kî ʾet
-    ha-bbĕkōr ... yakkîr lātet lô pî šĕnayim bĕ-kōl ʾăšer yimmāṣēʾ lô: the firstborn son gets a double
-    portion; Q 4:11 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: each son gets double a daughter''s share.
-    The double share moves from the firstborn over his brothers to the male over the female; primogeniture
-    is not mentioned.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً
-    فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ
-    لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ
-    وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ
-    مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ
-    أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Deut 21:17 kî ʾet ha-bbĕkōr ... yakkîr lātet lô pî šĕnayim bĕ-kōl ʾăšer yimmāṣēʾ lô: the
-    firstborn son gets a double portion; Q 4:11 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: each son gets
-    double a daughter''s share. The double share moves from the firstborn over his brothers to the male
-    over the female; primogeniture is not mentioned.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who receives a double share of inheritance [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -84,6 +53,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who receives a double share of inheritance
+kinds:
+- divergence
+units:
+- id: hb-deut-21-heifer-captive-son
+  title: Broken-necked heifer; captive bride; firstborn; rebellious son; hanged body
+  tradition: judaism
+- id: quran-4-inheritance-shares
+  title: The fixed shares of inheritance
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who receives a double share of inheritance
+  note: 'Deut 21:17 kî ʾet ha-bbĕkōr ... yakkîr lātet lô pî šĕnayim bĕ-kōl ʾăšer yimmāṣēʾ lô: the firstborn
+    son gets a double portion; Q 4:11 li-dh-dhakari mithlu ḥaẓẓi l-unthayayn: each son gets double a daughter''s
+    share. The double share moves from the firstborn over his brothers to the male over the female; primogeniture
+    is not mentioned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 21:17
+      lang: he
+      text: כִּי֩ אֶת הַבְּכֹ֨ר בֶּן הַשְּׂנוּאָ֜ה יַכִּ֗יר לָ֤תֶת לוֹ֙ פִּ֣י שְׁנַ֔יִם בְּכֹ֥ל אֲשֶׁר
+        יִמָּצֵ֖א ל֑וֹ כִּי הוּא֙ רֵאשִׁ֣ית אֹנ֔וֹ ל֖וֹ מִשְׁפַּ֥ט הַבְּכֹרָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 4:11
+      lang: ar
+      text: يُوصِيكُمُ ٱللَّهُ فِىٓ أَوْلَٰدِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ ٱلْأُنثَيَيْنِ فَإِن كُنَّ نِسَآءً
+        فَوْقَ ٱثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَ وَإِن كَانَتْ وَٰحِدَةً فَلَهَا ٱلنِّصْفُ وَلِأَبَوَيْهِ
+        لِكُلِّ وَٰحِدٍ مِّنْهُمَا ٱلسُّدُسُ مِمَّا تَرَكَ إِن كَانَ لَهُۥ وَلَدٌ فَإِن لَّمْ يَكُن لَّهُۥ
+        وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ فَلِأُمِّهِ ٱلثُّلُثُ فَإِن كَانَ لَهُۥٓ إِخْوَةٌ فَلِأُمِّهِ ٱلسُّدُسُ
+        مِنۢ بَعْدِ وَصِيَّةٍ يُوصِى بِهَآ أَوْ دَيْنٍ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ لَا تَدْرُونَ أَيُّهُمْ
+        أَقْرَبُ لَكُمْ نَفْعًا فَرِيضَةً مِّنَ ٱللَّهِ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا
 ---
 
 ## Questions

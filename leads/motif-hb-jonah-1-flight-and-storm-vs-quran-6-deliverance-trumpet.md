@@ -2,8 +2,7 @@
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-6-deliverance-trumpet
 title: Jonah flees to Tarshish and is thrown into the sea ↔ Rescue in the darkness of land and sea; the
   bewildered man; the trumpet
-summary: 'These two units share 1 motifs: sailors in a storm call on god sincerely, vow thanks, and transgress
-  once saved [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,50 +14,9 @@ layers:
 - motif
 motifs:
 - sea-peril-sincere-prayer-then-ingratitude-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 1:14
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Jonah: wa-yyiqrəʾû ʾel-YHWH ... wa-yyîrʾû hā-ʾănāšîm yirʾāh gədôlāh ʾet-YHWH wa-yyizbəḥû-zevaḥ
-    ... wa-yyiddərû nədārîm. The rescued sailors keep their vows. Q 6:64: the rescued ''associate partners''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
-    הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
-- tradition: judaism
-  ref: Jonah 1:16
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Jonah: wa-yyiqrəʾû ʾel-YHWH ... wa-yyîrʾû hā-ʾănāšîm yirʾāh gədôlāh ʾet-YHWH wa-yyizbəḥû-zevaḥ
-    ... wa-yyiddərû nədārîm. The rescued sailors keep their vows. Q 6:64: the rescued ''associate partners''.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת יְהוָ֑ה וַיִּֽזְבְּחוּ זֶ֨בַח֙ לַֽיהוָ֔ה וַֽיִּדְּר֖וּ
-    נְדָרִֽים
-- tradition: islam
-  ref: Quran 6:63
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً لَّئِنْ
-    أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
-- tradition: islam
-  ref: Quran 6:64
-  note: 'Sailors in a storm call on God sincerely, vow thanks, and transgress once saved [divergence between
-    the texts] (Rescue at sea after crying out. Ps: wa-yyiṣʿăqû ʾel-YHWH baṣ-ṣar lāhem ... yāqēm səʿārāh
-    li-dmāmāh, and the psalm ends in thanks (yôdû la-YHWH ḥasdô). Q: man yunajjīkum min ẓulumāti l-barri
-    wa-l-baḥri tadʿūnahu taḍarruʿan wa-khufyatan la-in anjānā ... la-nakūnanna mina l-shākirīn, then thumma
-    antum tushrikūna. The vow of thanks is made and then broken.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    divergence. Jonah: wa-yyiqrəʾû ʾel-YHWH ... wa-yyîrʾû hā-ʾănāšîm yirʾāh gədôlāh ʾet-YHWH wa-yyizbəḥû-zevaḥ
-    ... wa-yyiddərû nədārîm. The rescued sailors keep their vows. Q 6:64: the rescued ''associate partners''.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sailors in a storm call on God sincerely, vow thanks, and transgress
     once saved [divergence between the texts] (weight 6.3). Pair score 6.3.'
@@ -93,6 +51,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
+kinds:
+- divergence
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-6-deliverance-trumpet
+  title: Rescue in the darkness of land and sea; the bewildered man; the trumpet
+  tradition: islam
+matches:
+- kind: divergence
+  label: Sailors in a storm call on God sincerely, vow thanks, and transgress once saved
+  note: 'Jonah: wa-yyiqrəʾû ʾel-YHWH ... wa-yyîrʾû hā-ʾănāšîm yirʾāh gədôlāh ʾet-YHWH wa-yyizbəḥû-zevaḥ
+    ... wa-yyiddərû nədārîm. The rescued sailors keep their vows. Q 6:64: the rescued ''associate partners''.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:14
+      lang: he
+      text: וַיִּקְרְא֨וּ אֶל יְהוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהוָה֙ אַל נָ֣א נֹאבְדָ֗ה בְּנֶ֨פֶשׁ֙ הָאִ֣ישׁ
+        הַזֶּ֔ה וְאַל תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי אַתָּ֣ה יְהוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ
+    - ref: Jonah 1:16
+      lang: he
+      text: וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת יְהוָ֑ה וַיִּֽזְבְּחוּ זֶ֨בַח֙ לַֽיהוָ֔ה
+        וַֽיִּדְּר֖וּ נְדָרִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 6:63
+      lang: ar
+      text: قُلْ مَن يُنَجِّيكُم مِّن ظُلُمَٰتِ ٱلْبَرِّ وَٱلْبَحْرِ تَدْعُونَهُۥ تَضَرُّعًا وَخُفْيَةً
+        لَّئِنْ أَنجَىٰنَا مِنْ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ
+    - ref: Quran 6:64
+      lang: ar
+      text: قُلِ ٱللَّهُ يُنَجِّيكُم مِّنْهَا وَمِن كُلِّ كَرْبٍ ثُمَّ أَنتُمْ تُشْرِكُونَ
 ---
 
 ## Questions

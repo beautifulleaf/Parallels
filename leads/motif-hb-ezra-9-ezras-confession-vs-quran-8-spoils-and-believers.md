@@ -2,7 +2,7 @@
 id: motif-hb-ezra-9-ezras-confession-vs-quran-8-spoils-and-believers
 title: Report of intermarriage; Ezra's mourning and confession ↔ The question of spoils and the marks
   of true believers
-summary: 'These two units share 1 motifs: those who tremble at god''s word (haredim) gather to the leader.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,28 +14,9 @@ layers:
 - motif
 motifs:
 - trembling-at-gods-word
-passages:
-- tradition: judaism
-  ref: Ezra 9:4
-  note: Those who tremble at God's word (haredim) gather to the leader (haredim - origin of the term for
-    the strictly pious)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֵלַ֣י יֵאָסְפ֗וּ כֹּ֤ל חָרֵד֙ בְּדִבְרֵ֣י אֱלֹהֵֽי יִשְׂרָאֵ֔ל עַ֖ל מַ֣עַל הַגּוֹלָ֑ה וַאֲנִי֙
-    יֹשֵׁ֣ב מְשׁוֹמֵ֔ם עַ֖ד לְמִנְחַ֥ת הָעָֽרֶב
-- tradition: islam
-  ref: Quran 8:2
-  note: 'Those who tremble at God''s word (haredim) gather to the leader (The true believers tremble at
-    God''s word: alladhīna idhā dhukira llāhu wajilat qulūbuhum wa-idhā tuliyat ʿalayhim āyātuhu zādathum
-    īmānan vs wᵉḥārēd ʿal-dᵉbārî; haḥărēdîm ʾel-dᵉbārô.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ
-    ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. kōl ḥārēd bᵉdibrê ʾĕlōhê-yiśrāʾēl vs wajilat qulūbuhum: those who tremble at God''s words as
-    the mark of the faithful.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Those who tremble at God''s word (haredim) gather to the leader
     (weight 6.3). Pair score 6.3.'
@@ -63,6 +44,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Those who tremble at God's word (haredim) gather to the leader
+kinds:
+- echo
+units:
+- id: hb-ezra-9-ezras-confession
+  title: Report of intermarriage; Ezra's mourning and confession
+  tradition: judaism
+- id: quran-8-spoils-and-believers
+  title: The question of spoils and the marks of true believers
+  tradition: islam
+matches:
+- kind: echo
+  label: Those who tremble at God's word (haredim) gather to the leader
+  note: 'kōl ḥārēd bᵉdibrê ʾĕlōhê-yiśrāʾēl vs wajilat qulūbuhum: those who tremble at God''s words as
+    the mark of the faithful.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezra 9:4
+      lang: he
+      text: וְאֵלַ֣י יֵאָסְפ֗וּ כֹּ֤ל חָרֵד֙ בְּדִבְרֵ֣י אֱלֹהֵֽי יִשְׂרָאֵ֔ל עַ֖ל מַ֣עַל הַגּוֹלָ֑ה וַאֲנִי֙
+        יֹשֵׁ֣ב מְשׁוֹמֵ֔ם עַ֖ד לְמִנְחַ֥ת הָעָֽרֶב
+  - tradition: islam
+    passages:
+    - ref: Quran 8:2
+      lang: ar
+      text: إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ
+        عَلَيْهِمْ ءَايَٰتُهُۥ زَادَتْهُمْ إِيمَٰنًا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ
 ---
 
 ## Questions

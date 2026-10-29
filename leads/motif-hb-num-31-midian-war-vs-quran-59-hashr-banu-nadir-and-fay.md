@@ -2,8 +2,7 @@
 id: motif-hb-num-31-midian-war-vs-quran-59-hashr-banu-nadir-and-fay
 title: 'War against Midian and division of the spoils ↔ Al-Hashr: the first gathering and exile of the
   Banu Nadir, the cut palms, and the law of fay'''
-summary: 'These two units share 2 motifs: how spoil taken from the enemy is distributed [divergence between
-  the texts], spoils divided half to warriors, half to community, with a levy for god.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,99 +15,9 @@ layers:
 motifs:
 - distribution-of-spoil-as-divergence
 - division-of-spoils
-passages:
-- tradition: judaism
-  ref: Num 31:27
-  note: 'How spoil taken from the enemy is distributed [divergence between the texts] (Sharing out spoil.
-    Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ, wa-hărēmōṯā meḵes
-    la-YHWH, given to Eleazar the priest (half to the fighters, half to the people, a levy for God through
-    the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi min khaylin wa-lā rikāb
-    ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīli kay lā
-    yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives the fighters no share:
-    all goes to God, the Prophet, kin and the needy, so that wealth does not circulate among the rich.
-    The priest''s levy becomes the Prophet''s share.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כָּל
-    הָעֵדָֽה
-- tradition: judaism
-  ref: Num 31:28
-  note: 'How spoil taken from the enemy is distributed [divergence between the texts] (Sharing out spoil.
-    Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ, wa-hărēmōṯā meḵes
-    la-YHWH, given to Eleazar the priest (half to the fighters, half to the people, a levy for God through
-    the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi min khaylin wa-lā rikāb
-    ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīli kay lā
-    yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives the fighters no share:
-    all goes to God, the Prophet, kin and the needy, so that wealth does not circulate among the rich.
-    The priest''s levy becomes the Prophet''s share.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ
-    מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
-- tradition: islam
-  ref: Quran 59:6
-  note: 'How spoil taken from the enemy is distributed [divergence between the texts] (Sharing out spoil.
-    Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ, wa-hărēmōṯā meḵes
-    la-YHWH, given to Eleazar the priest (half to the fighters, half to the people, a levy for God through
-    the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi min khaylin wa-lā rikāb
-    ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīli kay lā
-    yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives the fighters no share:
-    all goes to God, the Prophet, kin and the needy, so that wealth does not circulate among the rich.
-    The priest''s levy becomes the Prophet''s share.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا
-    رِكَابٍ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ
-- tradition: islam
-  ref: Quran 59:7
-  note: 'How spoil taken from the enemy is distributed [divergence between the texts] (Sharing out spoil.
-    Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ, wa-hărēmōṯā meḵes
-    la-YHWH, given to Eleazar the priest (half to the fighters, half to the people, a levy for God through
-    the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi min khaylin wa-lā rikāb
-    ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni wa-bni s-sabīli kay lā
-    yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives the fighters no share:
-    all goes to God, the Prophet, kin and the needy, so that wealth does not circulate among the rich.
-    The priest''s levy becomes the Prophet''s share.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
-    ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ
-    مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
-- tradition: judaism
-  ref: Num 31:27
-  note: Spoils divided half to warriors, half to community, with a levy for God (1/500 from warriors to
-    the priest, 1/50 from community to Levites; 675,000 sheep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כָּל
-    הָעֵדָֽה
-- tradition: judaism
-  ref: Num 31:28
-  note: Spoils divided half to warriors, half to community, with a levy for God (1/500 from warriors to
-    the priest, 1/50 from community to Levites; 675,000 sheep)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ
-    מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
-- tradition: islam
-  ref: Quran 59:7
-  note: Spoils divided half to warriors, half to community, with a levy for God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
-    ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ
-    مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ وَٱتَّقُوا۟ ٱللَّهَ
-    إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Sharing out spoil. Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên
-    kol hā-ʿēḏâ, wa-hărēmōṯā meḵes la-YHWH, given to Eleazar the priest (half to the fighters, half to
-    the people, a levy for God through the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum
-    ʿalayhi min khaylin wa-lā rikāb ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni
-    wa-bni s-sabīli kay lā yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives
-    the fighters no share: all goes to God, the Prophet, kin and the needy, so that wealth does not circulate
-    among the rich. The priest''s levy becomes the Prophet''s share.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How spoil taken from the enemy is distributed [divergence between
     the texts] (weight 6.7); Spoils divided half to warriors, half to community, with a levy for God (weight
@@ -146,6 +55,81 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How spoil taken from the enemy is distributed
+kinds:
+- divergence
+- shared
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-59-hashr-banu-nadir-and-fay
+  title: 'Al-Hashr: the first gathering and exile of the Banu Nadir, the cut palms, and the law of fay'''
+  tradition: islam
+matches:
+- kind: divergence
+  label: How spoil taken from the enemy is distributed
+  note: 'Sharing out spoil. Numbers: wə-ḥāṣîṯā ʾeṯ ham-malqôaḥ bên tōp̄śê ham-milḥāmâ ... û-ḇên kol hā-ʿēḏâ,
+    wa-hărēmōṯā meḵes la-YHWH, given to Eleazar the priest (half to the fighters, half to the people,
+    a levy for God through the priest). Quran: mā afāʾa llāhu ʿalā rasūlihi ... fa-mā awjaftum ʿalayhi
+    min khaylin wa-lā rikāb ... fa-li-llāhi wa-li-r-rasūli wa-li-dhī l-qurbā wa-l-yatāmā wa-l-masākīni
+    wa-bni s-sabīli kay lā yakūna dūlatan bayna l-aghniyāʾi minkum. Spoil taken without fighting gives
+    the fighters no share: all goes to God, the Prophet, kin and the needy, so that wealth does not circulate
+    among the rich. The priest''s levy becomes the Prophet''s share.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:27
+      lang: he
+      text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין
+        כָּל הָעֵדָֽה
+    - ref: Num 31:28
+      lang: he
+      text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד
+        נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
+    - ref: Num 31:29
+      lang: he
+      text: מִמַּֽחֲצִיתָ֖ם תִּקָּ֑חוּ וְנָתַתָּ֛ה לְאֶלְעָזָ֥ר הַכֹּהֵ֖ן תְּרוּמַ֥ת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 59:6
+      lang: ar
+      text: وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ
+        وَلَا رِكَابٍ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ وَٱللَّهُ عَلَىٰ كُلِّ
+        شَىْءٍ قَدِيرٌ
+    - ref: Quran 59:7
+      lang: ar
+      text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ
+        ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
+- kind: shared
+  label: Spoils divided half to warriors, half to community, with a levy for God
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:27
+      lang: he
+      text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין
+        כָּל הָעֵדָֽה
+    - ref: Num 31:28
+      lang: he
+      text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד
+        נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
+    - ref: Num 31:30
+      lang: he
+      text: וּמִמַּחֲצִ֨ת בְּנֵֽי יִשְׂרָאֵ֜ל תִּקַּ֣ח אֶחָ֣ד אָחֻ֣ז מִן הַחֲמִשִּׁ֗ים מִן הָאָדָ֧ם מִן
+        הַבָּקָ֛ר מִן הַחֲמֹרִ֥ים וּמִן הַצֹּ֖אן מִכָּל הַבְּהֵמָ֑ה וְנָתַתָּ֤ה אֹתָם֙ לַלְוִיִּ֔ם שֹׁמְרֵ֕י
+        מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן יְהוָֽה
+    note: 1/500 from warriors to the priest, 1/50 from community to Levites; 675,000 sheep
+  - tradition: islam
+    passages:
+    - ref: Quran 59:7
+      lang: ar
+      text: مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى
+        ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ
+        ٱلْأَغْنِيَآءِ مِنكُمْ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟
+        وَٱتَّقُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ
 ---
 
 ## Questions

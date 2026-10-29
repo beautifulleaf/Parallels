@@ -2,8 +2,7 @@
 id: motif-hb-isa-37-deliverance-vs-quran-68-qalam-the-pen-and-the-slanderer
 title: 'Hezekiah''s prayer, Isaiah''s oracle against Sennacherib and the angel''s slaughter ↔ Nun: by
   the pen; the prophet''s great character; the swearer, slanderer and base-born man branded on the snout'
-summary: 'These two units share 1 motifs: god will put his hook in the enemy king''s nose and his bit
-  in his lips and lead him back.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,25 +14,9 @@ layers:
 - motif
 motifs:
 - hook-in-nose-bridle-in-lips
-passages:
-- tradition: judaism
-  ref: Isa 37:29
-  note: God will put his hook in the enemy king's nose and his bit in his lips and lead him back
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יַ֚עַן הִתְרַגֶּזְךָ֣ אֵלַ֔י וְשַׁאֲנַנְךָ֖ עָלָ֣ה בְאָזְנָ֑י וְשַׂמְתִּ֨י חַחִ֜י בְּאַפֶּ֗ךָ
-    וּמִתְגִּי֙ בִּשְׂפָתֶ֔יךָ וַהֲשִׁ֣יבֹתִ֔יךָ בַּדֶּ֖רֶךְ אֲשֶׁר בָּ֥אתָ בָּֽהּ
-- tradition: islam
-  ref: Quran 68:16
-  note: God will put his hook in the enemy king's nose and his bit in his lips and lead him back (humiliation
-    through the nose)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. sa-nasimuhu ʿalā l-khurṭūm (we shall brand him on the snout) ~ we-śamtî ḥaḥî be-ʾappekā û-mitgî
-    bi-śfātêkā: God humiliates the arrogant boaster through his nose, as one treats an animal.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God will put his hook in the enemy king''s nose and his bit in his
     lips and lead him back (weight 5.8). Pair score 5.8.'
@@ -72,6 +55,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God will put his hook in the enemy king's nose and his bit in his lips and lead him back
+kinds:
+- echo
+units:
+- id: hb-isa-37-deliverance
+  title: Hezekiah's prayer, Isaiah's oracle against Sennacherib and the angel's slaughter
+  tradition: judaism
+- id: quran-68-qalam-the-pen-and-the-slanderer
+  title: 'Nun: by the pen; the prophet''s great character; the swearer, slanderer and base-born man branded
+    on the snout'
+  tradition: islam
+matches:
+- kind: echo
+  label: God will put his hook in the enemy king's nose and his bit in his lips and lead him back
+  note: 'sa-nasimuhu ʿalā l-khurṭūm (we shall brand him on the snout) ~ we-śamtî ḥaḥî be-ʾappekā û-mitgî
+    bi-śfātêkā: God humiliates the arrogant boaster through his nose, as one treats an animal.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 37:29
+      lang: he
+      text: יַ֚עַן הִתְרַגֶּזְךָ֣ אֵלַ֔י וְשַׁאֲנַנְךָ֖ עָלָ֣ה בְאָזְנָ֑י וְשַׂמְתִּ֨י חַחִ֜י בְּאַפֶּ֗ךָ
+        וּמִתְגִּי֙ בִּשְׂפָתֶ֔יךָ וַהֲשִׁ֣יבֹתִ֔יךָ בַּדֶּ֖רֶךְ אֲשֶׁר בָּ֥אתָ בָּֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 68:16
+      lang: ar
+      text: سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ
 ---
 
 ## Questions

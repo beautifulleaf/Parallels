@@ -2,7 +2,7 @@
 id: motif-hb-isa-50-servant-struck-vs-quran-5-hand-fettered
 title: No bill of divorce; third servant song ↔ 'God's hand is fettered'; the blessings of observing the
   Torah
-summary: 'These two units share 1 motifs: leader doubts god can supply; god replies ''is my hand too short?''.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,31 +14,9 @@ layers:
 - motif
 motifs:
 - divine-power-questioned
-passages:
-- tradition: judaism
-  ref: Isa 50:2
-  note: Leader doubts God can supply; God replies 'Is my hand too short?' ('Is my hand too short to redeem?')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַדּ֨וּעַ בָּ֜אתִי וְאֵ֣ין אִ֗ישׁ קָרָֽאתִי֮ וְאֵ֣ין עוֹנֶה֒ הֲקָצ֨וֹר קָצְרָ֤ה יָדִי֙ מִפְּד֔וּת
-    וְאִם אֵֽין בִּ֥י כֹ֖חַ לְהַצִּ֑יל הֵ֣ן בְּגַעֲרָתִ֞י אַחֲרִ֣יב יָ֗ם אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר
-    תִּבְאַ֤שׁ דְּגָתָם֙ מֵאֵ֣ין מַ֔יִם וְתָמֹ֖ת בַּצָּמָֽא
-- tradition: islam
-  ref: Quran 5:64
-  note: 'Leader doubts God can supply; God replies ''Is my hand too short?'' (Isa: ha-qāṣôr qāṣərāh yādî
-    mip-pədût wə-ʾim-ʾên-bî khōaḥ ləhaṣṣîl. God rejects the idea that his hand is shortened. Q: bal yadāhu
-    mabsūṭatāni against the claim yadu llāhi maghlūla.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟ بَلْ
-    يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ إِلَيْكَ
-    مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ إِلَىٰ يَوْمِ
-    ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ فِى ٱلْأَرْضِ
-    فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Isa: ha-qāṣôr qāṣərāh yādî mip-pədût wə-ʾim-ʾên-bî khōaḥ ləhaṣṣîl. God rejects the idea that
-    his hand is shortened. Q: bal yadāhu mabsūṭatāni against the claim yadu llāhi maghlūla.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader doubts God can supply; God replies ''Is my hand too short?''
     (weight 5.8). Pair score 5.8.'
@@ -71,6 +49,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader doubts God can supply; God replies 'Is my hand too short?'
+kinds:
+- echo
+units:
+- id: hb-isa-50-servant-struck
+  title: No bill of divorce; third servant song
+  tradition: judaism
+- id: quran-5-hand-fettered
+  title: '''God''s hand is fettered''; the blessings of observing the Torah'
+  tradition: islam
+matches:
+- kind: echo
+  label: Leader doubts God can supply; God replies 'Is my hand too short?'
+  note: 'Isa: ha-qāṣôr qāṣərāh yādî mip-pədût wə-ʾim-ʾên-bî khōaḥ ləhaṣṣîl. God rejects the idea that
+    his hand is shortened. Q: bal yadāhu mabsūṭatāni against the claim yadu llāhi maghlūla.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 50:2
+      lang: he
+      text: מַדּ֨וּעַ בָּ֜אתִי וְאֵ֣ין אִ֗ישׁ קָרָֽאתִי֮ וְאֵ֣ין עוֹנֶה֒ הֲקָצ֨וֹר קָצְרָ֤ה יָדִי֙ מִפְּד֔וּת
+        וְאִם אֵֽין בִּ֥י כֹ֖חַ לְהַצִּ֑יל הֵ֣ן בְּגַעֲרָתִ֞י אַחֲרִ֣יב יָ֗ם אָשִׂ֤ים נְהָרוֹת֙ מִדְבָּ֔ר
+        תִּבְאַ֤שׁ דְּגָתָם֙ מֵאֵ֣ין מַ֔יִם וְתָמֹ֖ת בַּצָּמָֽא
+  - tradition: islam
+    passages:
+    - ref: Quran 5:64
+      lang: ar
+      text: وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا۟ بِمَا قَالُوا۟
+        بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنفِقُ كَيْفَ يَشَآءُ وَلَيَزِيدَنَّ كَثِيرًا مِّنْهُم مَّآ أُنزِلَ
+        إِلَيْكَ مِن رَّبِّكَ طُغْيَٰنًا وَكُفْرًا وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَٰوَةَ وَٱلْبَغْضَآءَ
+        إِلَىٰ يَوْمِ ٱلْقِيَٰمَةِ كُلَّمَآ أَوْقَدُوا۟ نَارًا لِّلْحَرْبِ أَطْفَأَهَا ٱللَّهُ وَيَسْعَوْنَ
+        فِى ٱلْأَرْضِ فَسَادًا وَٱللَّهُ لَا يُحِبُّ ٱلْمُفْسِدِينَ
 ---
 
 ## Questions

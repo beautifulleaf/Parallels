@@ -1,7 +1,7 @@
 ---
 id: motif-hb-1sam-12-samuel-farewell-vs-quran-10-noah
 title: Samuel's farewell speech and the sign of thunder ↔ Noah's challenge to his people
-summary: 'These two units share 1 motifs: leader protests he never took so much as a donkey from anyone.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,30 +13,9 @@ layers:
 - motif
 motifs:
 - leader-denies-taking-anything
-passages:
-- tradition: judaism
-  ref: 1Sam 12:3
-  note: 'Leader protests he never took so much as a donkey from anyone (The prophet''s integrity: he took
-    nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā
-    saʾaltukum min ajr.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנְנִ֣י עֲנ֣וּ בִי֩ נֶ֨גֶד יְהוָ֜ה וְנֶ֣גֶד מְשִׁיח֗וֹ אֶת שׁוֹר֩ מִ֨י לָקַ֜חְתִּי וַחֲמ֧וֹר
-    מִ֣י לָקַ֗חְתִּי וְאֶת מִ֤י עָשַׁ֨קְתִּי֙ אֶת מִ֣י רַצּ֔וֹתִי וּמִיַּד מִי֙ לָקַ֣חְתִּי כֹ֔פֶר וְאַעְלִ֥ים
-    עֵינַ֖י בּ֑וֹ וְאָשִׁ֖יב לָכֶֽם
-- tradition: islam
-  ref: Quran 10:72
-  note: 'Leader protests he never took so much as a donkey from anyone (The prophet''s integrity: he took
-    nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā
-    saʾaltukum min ajr.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
-    أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. The prophet''s integrity: he took nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî
-    ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā saʾaltukum min ajr.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Leader protests he never took so much as a donkey from anyone (weight
     6.3). Pair score 6.3.'
@@ -61,6 +40,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Leader protests he never took so much as a donkey from anyone
+kinds:
+- echo
+units:
+- id: hb-1sam-12-samuel-farewell
+  title: Samuel's farewell speech and the sign of thunder
+  tradition: judaism
+- id: quran-10-noah
+  title: Noah's challenge to his people
+  tradition: islam
+matches:
+- kind: echo
+  label: Leader protests he never took so much as a donkey from anyone
+  note: 'The prophet''s integrity: he took nothing from the people. ʾet-šôr mî lāqaḥtî waḥămôr mî lāqaḥtî
+    ... ûmiyyad-mî lāqaḥtî kōper vs fa-mā saʾaltukum min ajr.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 12:3
+      lang: he
+      text: הִנְנִ֣י עֲנ֣וּ בִי֩ נֶ֨גֶד יְהוָ֜ה וְנֶ֣גֶד מְשִׁיח֗וֹ אֶת שׁוֹר֩ מִ֨י לָקַ֜חְתִּי וַחֲמ֧וֹר
+        מִ֣י לָקַ֗חְתִּי וְאֶת מִ֤י עָשַׁ֨קְתִּי֙ אֶת מִ֣י רַצּ֔וֹתִי וּמִיַּד מִי֙ לָקַ֣חְתִּי כֹ֔פֶר
+        וְאַעְלִ֥ים עֵינַ֖י בּ֑וֹ וְאָשִׁ֖יב לָכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:72
+      lang: ar
+      text: فَإِن تَوَلَّيْتُمْ فَمَا سَأَلْتُكُم مِّنْ أَجْرٍ إِنْ أَجْرِىَ إِلَّا عَلَى ٱللَّهِ وَأُمِرْتُ
+        أَنْ أَكُونَ مِنَ ٱلْمُسْلِمِينَ
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-121-keeper-of-israel-vs-quran-2-throne-verse
 title: Psalm 121, the keeper who does not sleep ↔ Ranks of the messengers and the Throne Verse
-summary: 'These two units share 2 motifs: god does not slumber or sleep [divergence between the texts],
-  the guardian of israel neither slumbers nor sleeps.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,65 +12,14 @@ traditions:
 layers:
 - motif
 motifs:
-- god-never-sleeps-as-divergence
 - guardian-of-israel-never-sleeps
-passages:
-- tradition: judaism
-  ref: Ps 121:3
-  note: God does not slumber or sleep [divergence between the texts] (Ps 121:4 hinnēh lōʾ yānûm wĕ-lōʾ
-    yîšān šômēr yiśrāʾēl; Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun ... wa-lā yaʾūduhu ḥifẓuhumā. Both
-    verbs have cognates (nûm / nawm, yāšēn / sina) and the guarding returns (šômēr / ḥifẓ). But the psalm's
-    keeper guards Israel; the Quran's God guards 'the heavens and the earth' (ḥifẓuhumā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל יָ֝נ֗וּם שֹֽׁמְרֶֽךָ
-- tradition: judaism
-  ref: Ps 121:4
-  note: God does not slumber or sleep [divergence between the texts] (Ps 121:4 hinnēh lōʾ yānûm wĕ-lōʾ
-    yîšān šômēr yiśrāʾēl; Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun ... wa-lā yaʾūduhu ḥifẓuhumā. Both
-    verbs have cognates (nûm / nawm, yāšēn / sina) and the guarding returns (šômēr / ḥifẓ). But the psalm's
-    keeper guards Israel; the Quran's God guards 'the heavens and the earth' (ḥifẓuhumā).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 2:255
-  note: God does not slumber or sleep [divergence between the texts] (Ps 121:4 hinnēh lōʾ yānûm wĕ-lōʾ
-    yîšān šômēr yiśrāʾēl; Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun ... wa-lā yaʾūduhu ḥifẓuhumā. Both
-    verbs have cognates (nûm / nawm, yāšēn / sina) and the guarding returns (šômēr / ḥifẓ). But the psalm's
-    keeper guards Israel; the Quran's God guards 'the heavens and the earth' (ḥifẓuhumā).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
-- tradition: judaism
-  ref: Ps 121:3-4
-  note: The guardian of Israel neither slumbers nor sleeps
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (121:3) אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל יָ֝נ֗וּם שֹֽׁמְרֶֽךָ (121:4) הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א
-    יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 2:255
-  note: The guardian of Israel neither slumbers nor sleeps (la ta'khudhuhu sinatun wa-la nawm, cf. Ps
-    121:4)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ لَّهُۥ
-    مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ يَعْلَمُ
-    مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ
-    وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ
+- god-never-sleeps-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Ps 121:4 hinnēh lōʾ yānûm wĕ-lōʾ yîšān šômēr yiśrāʾēl; Q 2:255 lā taʾkhudhuhu sinatun
-    wa-lā nawmun ... wa-lā yaʾūduhu ḥifẓuhumā. Both verbs have cognates (nûm / nawm, yāšēn / sina) and
-    the guarding returns (šômēr / ḥifẓ). But the psalm''s keeper guards Israel; the Quran''s God guards
-    ''the heavens and the earth'' (ḥifẓuhumā).'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: God does not slumber or sleep [divergence between the texts] (weight
-    6.7); The guardian of Israel neither slumbers nor sleeps (weight 6.7). Pair score 13.4.'
+- text: 'Shared motifs, rarest first: The guardian of Israel neither slumbers nor sleeps (weight 6.7);
+    God does not slumber or sleep [divergence between the texts] (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in Psalm 121, the keeper who does not sleep: God will guard your going out and your coming
     in from now and forever; ''I lift my eyes to the mountains: from where will my help come?''; Protective
@@ -99,6 +47,61 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God does not slumber or sleep
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ps-121-keeper-of-israel
+  title: Psalm 121, the keeper who does not sleep
+  tradition: judaism
+- id: quran-2-throne-verse
+  title: Ranks of the messengers and the Throne Verse
+  tradition: islam
+matches:
+- kind: divergence
+  label: God does not slumber or sleep
+  note: Ps 121:4 hinnēh lōʾ yānûm wĕ-lōʾ yîšān šômēr yiśrāʾēl; Q 2:255 lā taʾkhudhuhu sinatun wa-lā nawmun
+    ... wa-lā yaʾūduhu ḥifẓuhumā. Both verbs have cognates (nûm / nawm, yāšēn / sina) and the guarding
+    returns (šômēr / ḥifẓ). But the psalm's keeper guards Israel; the Quran's God guards 'the heavens
+    and the earth' (ḥifẓuhumā).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:3
+      lang: he
+      text: אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל יָ֝נ֗וּם שֹֽׁמְרֶֽךָ
+    - ref: Ps 121:4
+      lang: he
+      text: הִנֵּ֣ה לֹֽא יָ֭נוּם וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
+- kind: shared
+  label: The guardian of Israel neither slumbers nor sleeps
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 121:3-4
+      lang: he
+      text: (121:3) אַל יִתֵּ֣ן לַמּ֣וֹט רַגְלֶ֑ךָ אַל יָ֝נ֗וּם שֹֽׁמְרֶֽךָ (121:4) הִנֵּ֣ה לֹֽא יָ֭נוּם
+        וְלֹ֣א יִישָׁ֑ן שׁ֝וֹמֵ֗ר יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 2:255
+      lang: ar
+      text: ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ
+        لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ
+        يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا
+        بِمَا شَآءَ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا وَهُوَ
+        ٱلْعَلِىُّ ٱلْعَظِيمُ
+    note: la ta'khudhuhu sinatun wa-la nawm, cf. Ps 121:4
 ---
 
 ## Questions

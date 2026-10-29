@@ -2,7 +2,7 @@
 id: motif-hb-1sam-2-song-of-hannah-vs-quran-53-najm-goddesses-and-scrolls
 title: Song of Hannah ↔ Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses;
   the Lord of Sirius
-summary: 'These two units share 1 motifs: god kills and makes alive, brings down to sheol and raises up.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - god-kills-and-makes-alive
-passages:
-- tradition: judaism
-  ref: 1Sam 2:6
-  note: God kills and makes alive, brings down to Sheol and raises up
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
-- tradition: islam
-  ref: Quran 53:44
-  note: God kills and makes alive, brings down to Sheol and raises up
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا
-- tradition: islam
-  ref: Quran 53:43
-  note: God kills and makes alive, brings down to Sheol and raises up
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Polar pairs of what God does: YHWH mēmîṯ û-məḥayyeh môrîḏ šəʾôl wa-yyāʿal (and 2:7 poor/rich,
-    low/high) vs. wa-annahu huwa aḍḥaka wa-abkā wa-annahu huwa amāta wa-aḥyā. Hannah''s list of reversals
-    celebrates a birth; the Quran''s continues with creating the pairs from a drop (53:45-46).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God kills and makes alive, brings down to Sheol and raises up (weight
     5.8). Pair score 5.8.'
@@ -68,6 +47,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God kills and makes alive, brings down to Sheol and raises up
+kinds:
+- parallel
+units:
+- id: hb-1sam-2-song-of-hannah
+  title: Song of Hannah
+  tradition: judaism
+- id: quran-53-najm-goddesses-and-scrolls
+  title: Al-Lat, al-'Uzza and Manat; angelic intercession; the scrolls of Abraham and Moses; the Lord
+    of Sirius
+  tradition: islam
+matches:
+- kind: parallel
+  label: God kills and makes alive, brings down to Sheol and raises up
+  note: 'Polar pairs of what God does: YHWH mēmîṯ û-məḥayyeh môrîḏ šəʾôl wa-yyāʿal (and 2:7 poor/rich,
+    low/high) vs. wa-annahu huwa aḍḥaka wa-abkā wa-annahu huwa amāta wa-aḥyā. Hannah''s list of reversals
+    celebrates a birth; the Quran''s continues with creating the pairs from a drop (53:45-46).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 2:6
+      lang: he
+      text: יְהוָ֖ה מֵמִ֣ית וּמְחַיֶּ֑ה מוֹרִ֥יד שְׁא֖וֹל וַיָּֽעַל
+  - tradition: islam
+    passages:
+    - ref: Quran 53:43
+      lang: ar
+      text: وَأَنَّهُۥ هُوَ أَضْحَكَ وَأَبْكَىٰ
+    - ref: Quran 53:44
+      lang: ar
+      text: وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحْيَا
 ---
 
 ## Questions

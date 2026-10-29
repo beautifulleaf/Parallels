@@ -1,7 +1,7 @@
 ---
 id: motif-hb-lev-16-day-of-atonement-vs-quran-2-fasting
 title: The Day of Atonement and the goat for Azazel ↔ The fast of Ramadan
-summary: 'These two units share 1 motifs: what the annual fast is tied to [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,58 +13,9 @@ layers:
 - motif
 motifs:
 - occasion-of-the-annual-fast-as-divergence
-passages:
-- tradition: judaism
-  ref: Lev 16:29
-  note: 'What the annual fast is tied to [divergence between the texts] (Lev 16:29 lĕ-ḥuqqat ʿôlām ...
-    beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr: the fast is tied to atonement and
-    purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila fīhi l-qurʾānu ... la-ʿallakum
-    tattaqūn: the fast is tied to the month in which scripture was sent down, for piety (taqwā). The fast''s
-    occasion moves from atonement to revelation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהָיְתָ֥ה לָכֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם בַּחֹ֣דֶשׁ הַ֠שְּׁבִיעִי בֶּֽעָשׂ֨וֹר לַחֹ֜דֶשׁ תְּעַנּ֣וּ
-    אֶת נַפְשֹֽׁתֵיכֶ֗ם וְכָל מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם
-- tradition: judaism
-  ref: Lev 16:31
-  note: 'What the annual fast is tied to [divergence between the texts] (Lev 16:29 lĕ-ḥuqqat ʿôlām ...
-    beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr: the fast is tied to atonement and
-    purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila fīhi l-qurʾānu ... la-ʿallakum
-    tattaqūn: the fast is tied to the month in which scripture was sent down, for piety (taqwā). The fast''s
-    occasion moves from atonement to revelation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת נַפְשֹׁתֵיכֶ֑ם חֻקַּ֖ת עוֹלָֽם
-- tradition: islam
-  ref: Quran 2:183
-  note: 'What the annual fast is tied to [divergence between the texts] (Lev 16:29 lĕ-ḥuqqat ʿôlām ...
-    beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr: the fast is tied to atonement and
-    purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila fīhi l-qurʾānu ... la-ʿallakum
-    tattaqūn: the fast is tied to the month in which scripture was sent down, for piety (taqwā). The fast''s
-    occasion moves from atonement to revelation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن
-    قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
-- tradition: islam
-  ref: Quran 2:185
-  note: 'What the annual fast is tied to [divergence between the texts] (Lev 16:29 lĕ-ḥuqqat ʿôlām ...
-    beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr: the fast is tied to atonement and
-    purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila fīhi l-qurʾānu ... la-ʿallakum
-    tattaqūn: the fast is tied to the month in which scripture was sent down, for piety (taqwā). The fast''s
-    occasion moves from atonement to revelation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ
-    وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ
-    فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ وَلِتُكْمِلُوا۟
-    ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence. Lev 16:29 lĕ-ḥuqqat ʿôlām ... beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr:
-    the fast is tied to atonement and purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila
-    fīhi l-qurʾānu ... la-ʿallakum tattaqūn: the fast is tied to the month in which scripture was sent
-    down, for piety (taqwā). The fast''s occasion moves from atonement to revelation.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: What the annual fast is tied to [divergence between the texts] (weight
     6.7). Pair score 6.7.'
@@ -96,6 +47,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: What the annual fast is tied to
+kinds:
+- divergence
+units:
+- id: hb-lev-16-day-of-atonement
+  title: The Day of Atonement and the goat for Azazel
+  tradition: judaism
+- id: quran-2-fasting
+  title: The fast of Ramadan
+  tradition: islam
+matches:
+- kind: divergence
+  label: What the annual fast is tied to
+  note: 'Lev 16:29 lĕ-ḥuqqat ʿôlām ... beʿāśôr la-ḥōdeš tĕʿannû ʾet napšōtêkem ... hā-ʾezrāḥ wĕ-ha-ggēr:
+    the fast is tied to atonement and purging of the sanctuary; Q 2:183, 185 shahru ramaḍāna lladhī unzila
+    fīhi l-qurʾānu ... la-ʿallakum tattaqūn: the fast is tied to the month in which scripture was sent
+    down, for piety (taqwā). The fast''s occasion moves from atonement to revelation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 16:29
+      lang: he
+      text: וְהָיְתָ֥ה לָכֶ֖ם לְחֻקַּ֣ת עוֹלָ֑ם בַּחֹ֣דֶשׁ הַ֠שְּׁבִיעִי בֶּֽעָשׂ֨וֹר לַחֹ֜דֶשׁ תְּעַנּ֣וּ
+        אֶת נַפְשֹֽׁתֵיכֶ֗ם וְכָל מְלָאכָה֙ לֹ֣א תַעֲשׂ֔וּ הָֽאֶזְרָ֔ח וְהַגֵּ֖ר הַגָּ֥ר בְּתוֹכְכֶֽם
+    - ref: Lev 16:31
+      lang: he
+      text: שַׁבַּ֨ת שַׁבָּת֥וֹן הִיא֙ לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת נַפְשֹׁתֵיכֶ֑ם חֻקַּ֖ת עוֹלָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 2:183
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ
+        مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ
+    - ref: Quran 2:185
+      lang: ar
+      text: شَهْرُ رَمَضَانَ ٱلَّذِىٓ أُنزِلَ فِيهِ ٱلْقُرْءَانُ هُدًى لِّلنَّاسِ وَبَيِّنَٰتٍ مِّنَ ٱلْهُدَىٰ
+        وَٱلْفُرْقَانِ فَمَن شَهِدَ مِنكُمُ ٱلشَّهْرَ فَلْيَصُمْهُ وَمَن كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ
+        فَعِدَّةٌ مِّنْ أَيَّامٍ أُخَرَ يُرِيدُ ٱللَّهُ بِكُمُ ٱلْيُسْرَ وَلَا يُرِيدُ بِكُمُ ٱلْعُسْرَ
+        وَلِتُكْمِلُوا۟ ٱلْعِدَّةَ وَلِتُكَبِّرُوا۟ ٱللَّهَ عَلَىٰ مَا هَدَىٰكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ
 ---
 
 ## Questions

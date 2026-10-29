@@ -2,7 +2,7 @@
 id: motif-hb-prov-11-sayings-vs-quran-11-shuayb
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ Shu'ayb - measures, the prayer
   that commands, the clan
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,33 +15,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 11:1
-  note: Honest balances, weights, ephah and hin are commanded (false balances are an abomination; a full
-    stone (even shelemah) his delight)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
-- tradition: islam
-  ref: Quran 11:84
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ وَلَا تَنقُصُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ إِنِّىٓ أَرَىٰكُم بِخَيْرٍ وَإِنِّىٓ أَخَافُ
-    عَلَيْكُمْ عَذَابَ يَوْمٍ مُّحِيطٍ
-- tradition: islam
-  ref: Quran 11:85
-  note: Honest balances, weights, ephah and hin are commanded
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
-    وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. mōʾznê mirmāh tôʿăbat YHWH wᵉʾeben šᵉlēmāh rᵉṣônô vs awfū l-mikyāla wa-l-mīzāna bi-l-qisṭi
-    wa-lā tabkhasū n-nāsa ashyāʾahum.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -76,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-11-shuayb
+  title: Shu'ayb - measures, the prayer that commands, the clan
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: mōʾznê mirmāh tôʿăbat YHWH wᵉʾeben šᵉlēmāh rᵉṣônô vs awfū l-mikyāla wa-l-mīzāna bi-l-qisṭi wa-lā
+    tabkhasū n-nāsa ashyāʾahum.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:1
+      lang: he
+      text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 11:85
+      lang: ar
+      text: وَيَٰقَوْمِ أَوْفُوا۟ ٱلْمِكْيَالَ وَٱلْمِيزَانَ بِٱلْقِسْطِ وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ
+        وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ
 ---
 
 ## Questions

@@ -1,7 +1,7 @@
 ---
 id: motif-hb-num-31-midian-war-vs-quran-8-spoils-and-believers
 title: War against Midian and division of the spoils ↔ The question of spoils and the marks of true believers
-summary: 'These two units share 1 motifs: god''s share of the spoils of war [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -13,46 +13,9 @@ layers:
 - motif
 motifs:
 - gods-share-of-war-booty-as-divergence
-passages:
-- tradition: judaism
-  ref: Num 31:27
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s claim on the spoils:
-    in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi wa-r-rasūl), with the division
-    of 8:41 still to come; in Num a fixed levy goes to God through the priest (wahărēmōtā mekes laYHWH
-    ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the rest is halved between fighters
-    and community.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין כָּל
-    הָעֵדָֽה
-- tradition: judaism
-  ref: Num 31:28
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s claim on the spoils:
-    in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi wa-r-rasūl), with the division
-    of 8:41 still to come; in Num a fixed levy goes to God through the priest (wahărēmōtā mekes laYHWH
-    ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the rest is halved between fighters
-    and community.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד נֶ֔פֶשׁ
-    מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
-- tradition: islam
-  ref: Quran 8:1
-  note: 'God''s share of the spoils of war [divergence between the texts] (God''s claim on the spoils:
-    in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi wa-r-rasūl), with the division
-    of 8:41 still to come; in Num a fixed levy goes to God through the priest (wahărēmōtā mekes laYHWH
-    ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the rest is halved between fighters
-    and community.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ وَأَصْلِحُوا۟
-    ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. God''s claim on the spoils: in Q the whole of the anfāl is God''s and the messenger''s
-    (li-llāhi wa-r-rasūl), with the division of 8:41 still to come; in Num a fixed levy goes to God through
-    the priest (wahărēmōtā mekes laYHWH ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and
-    the rest is halved between fighters and community.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s share of the spoils of war [divergence between the texts]
     (weight 6.3). Pair score 6.3.'
@@ -79,6 +42,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's share of the spoils of war
+kinds:
+- divergence
+units:
+- id: hb-num-31-midian-war
+  title: War against Midian and division of the spoils
+  tradition: judaism
+- id: quran-8-spoils-and-believers
+  title: The question of spoils and the marks of true believers
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's share of the spoils of war
+  note: 'God''s claim on the spoils: in Q the whole of the anfāl is God''s and the messenger''s (li-llāhi
+    wa-r-rasūl), with the division of 8:41 still to come; in Num a fixed levy goes to God through the
+    priest (wahărēmōtā mekes laYHWH ... ʾeḥād nepeš mēḥămēš hammēʾôt ... lᵉʾelʿāzār hakkōhēn) and the
+    rest is halved between fighters and community.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 31:27
+      lang: he
+      text: וְחָצִ֨יתָ֙ אֶת הַמַּלְק֔וֹחַ בֵּ֚ין תֹּפְשֵׂ֣י הַמִּלְחָמָ֔ה הַיֹּצְאִ֖ים לַצָּבָ֑א וּבֵ֖ין
+        כָּל הָעֵדָֽה
+    - ref: Num 31:28
+      lang: he
+      text: וַהֲרֵמֹתָ֨ מֶ֜כֶס לַֽיהוָ֗ה מֵאֵ֞ת אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים לַצָּבָ֔א אֶחָ֣ד
+        נֶ֔פֶשׁ מֵחֲמֵ֖שׁ הַמֵּא֑וֹת מִן הָאָדָם֙ וּמִן הַבָּקָ֔ר וּמִן הַחֲמֹרִ֖ים וּמִן הַצֹּֽאן
+    - ref: Num 31:29
+      lang: he
+      text: מִמַּֽחֲצִיתָ֖ם תִּקָּ֑חוּ וְנָתַתָּ֛ה לְאֶלְעָזָ֥ר הַכֹּהֵ֖ן תְּרוּמַ֥ת יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 8:1
+      lang: ar
+      text: يَسْـَٔلُونَكَ عَنِ ٱلْأَنفَالِ قُلِ ٱلْأَنفَالُ لِلَّهِ وَٱلرَّسُولِ فَٱتَّقُوا۟ ٱللَّهَ
+        وَأَصْلِحُوا۟ ذَاتَ بَيْنِكُمْ وَأَطِيعُوا۟ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

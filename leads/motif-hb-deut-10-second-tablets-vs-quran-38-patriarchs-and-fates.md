@@ -2,8 +2,7 @@
 id: motif-hb-deut-10-second-tablets-vs-quran-38-patriarchs-and-fates
 title: Second tablets and ark; Levites set apart; what God requires ↔ The chosen patriarchs; the Gardens
   of Eden and the quarrel of the damned
-summary: 'These two units share 1 motifs: god''s choice of abraham, isaac and jacob, and what it passes
-  on [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,48 +14,9 @@ layers:
 - motif
 motifs:
 - choice-of-the-patriarchs-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 10:15
-  note: 'God''s choice of Abraham, Isaac and Jacob, and what it passes on [divergence between the texts]
-    (The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem bāḵem mi-kkol-hā-ʿammîm.
-    The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur ʿibādanā Ibrāhīma
-    wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur Ismāʿīla wa-l-Yasaʿa
-    wa-dhā l-kifl. The patriarchs themselves are chosen, for their ''remembrance of the abode'', with
-    no elect seed, and Ishmael stands beside them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רַ֧ק בַּאֲבֹתֶ֛יךָ חָשַׁ֥ק יְהוָ֖ה לְאַהֲבָ֣ה אוֹתָ֑ם וַיִּבְחַ֞ר בְּזַרְעָ֣ם אַחֲרֵיהֶ֗ם בָּכֶ֛ם
-    מִכָּל הָעַמִּ֖ים כַּיּ֥וֹם הַזֶּה
-- tradition: islam
-  ref: Quran 38:45
-  note: 'God''s choice of Abraham, Isaac and Jacob, and what it passes on [divergence between the texts]
-    (The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem bāḵem mi-kkol-hā-ʿammîm.
-    The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur ʿibādanā Ibrāhīma
-    wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur Ismāʿīla wa-l-Yasaʿa
-    wa-dhā l-kifl. The patriarchs themselves are chosen, for their ''remembrance of the abode'', with
-    no elect seed, and Ishmael stands beside them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُرْ عِبَٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَٰرِ
-- tradition: islam
-  ref: Quran 38:46
-  note: 'God''s choice of Abraham, Isaac and Jacob, and what it passes on [divergence between the texts]
-    (The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem bāḵem mi-kkol-hā-ʿammîm.
-    The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur ʿibādanā Ibrāhīma
-    wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur Ismāʿīla wa-l-Yasaʿa
-    wa-dhā l-kifl. The patriarchs themselves are chosen, for their ''remembrance of the abode'', with
-    no elect seed, and Ishmael stands beside them.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّآ أَخْلَصْنَٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem
-    bāḵem mi-kkol-hā-ʿammîm. The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur
-    ʿibādanā Ibrāhīma wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur
-    Ismāʿīla wa-l-Yasaʿa wa-dhā l-kifl. The patriarchs themselves are chosen, for their ''remembrance
-    of the abode'', with no elect seed, and Ishmael stands beside them.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s choice of Abraham, Isaac and Jacob, and what it passes on
     [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -89,6 +49,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's choice of Abraham, Isaac and Jacob, and what it passes on
+kinds:
+- divergence
+units:
+- id: hb-deut-10-second-tablets
+  title: Second tablets and ark; Levites set apart; what God requires
+  tradition: judaism
+- id: quran-38-patriarchs-and-fates
+  title: The chosen patriarchs; the Gardens of Eden and the quarrel of the damned
+  tradition: islam
+matches:
+- kind: divergence
+  label: God's choice of Abraham, Isaac and Jacob, and what it passes on
+  note: 'The chosen fathers. Deut: raq ba-ʾăḇōṯeyḵā ḥāšaq YHWH ... wa-yyiḇḥar bə-zarʿām ʾaḥărêhem bāḵem
+    mi-kkol-hā-ʿammîm. The love of the fathers passes to the choice of their seed, Israel. Q: wa-dhkur
+    ʿibādanā Ibrāhīma wa-Isḥāqa wa-Yaʿqūb ... wa-innahum ʿindanā la-mina l-muṣṭafayna l-akhyār, wa-dhkur
+    Ismāʿīla wa-l-Yasaʿa wa-dhā l-kifl. The patriarchs themselves are chosen, for their ''remembrance
+    of the abode'', with no elect seed, and Ishmael stands beside them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 10:15
+      lang: he
+      text: רַ֧ק בַּאֲבֹתֶ֛יךָ חָשַׁ֥ק יְהוָ֖ה לְאַהֲבָ֣ה אוֹתָ֑ם וַיִּבְחַ֞ר בְּזַרְעָ֣ם אַחֲרֵיהֶ֗ם
+        בָּכֶ֛ם מִכָּל הָעַמִּ֖ים כַּיּ֥וֹם הַזֶּה
+  - tradition: islam
+    passages:
+    - ref: Quran 38:45
+      lang: ar
+      text: وَٱذْكُرْ عِبَٰدَنَآ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ أُو۟لِى ٱلْأَيْدِى وَٱلْأَبْصَٰرِ
+    - ref: Quran 38:46
+      lang: ar
+      text: إِنَّآ أَخْلَصْنَٰهُم بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ
+    - ref: Quran 38:47
+      lang: ar
+      text: وَإِنَّهُمْ عِندَنَا لَمِنَ ٱلْمُصْطَفَيْنَ ٱلْأَخْيَارِ
 ---
 
 ## Questions

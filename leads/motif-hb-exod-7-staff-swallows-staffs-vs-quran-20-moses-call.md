@@ -2,8 +2,7 @@
 id: motif-hb-exod-7-staff-swallows-staffs-vs-quran-20-moses-call
 title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs ↔ Moses
   at the fire in the holy valley Tuwa
-summary: 'These two units share 2 motifs: an eloquent brother is appointed to speak for the hero, who
-  is ''as god'' to him, a staff thrown down becomes a serpent and turns back into a staff.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,63 +16,7 @@ layers:
 motifs:
 - brother-as-spokesman
 - staff-becomes-serpent
-passages:
-- tradition: judaism
-  ref: Exod 7:1
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ יִהְיֶ֥ה
-    נְבִיאֶֽךָ
-- tradition: judaism
-  ref: Exod 7:2
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה וְשִׁלַּ֥ח
-    אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
-- tradition: islam
-  ref: Quran 20:29
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
-- tradition: islam
-  ref: Quran 20:32
-  note: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَشْرِكْهُ فِىٓ أَمْرِى
-- tradition: judaism
-  ref: Exod 7:9
-  note: A staff thrown down becomes a serpent and turns back into a staff (here tannin (sea-dragon/crocodile),
-    not nahash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל אַהֲרֹ֗ן קַ֧ח
-    אֶֽת מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין
-- tradition: judaism
-  ref: Exod 7:10
-  note: A staff thrown down becomes a serpent and turns back into a staff (here tannin (sea-dragon/crocodile),
-    not nahash)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
-    אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
-- tradition: islam
-  ref: Quran 20:19
-  note: A staff thrown down becomes a serpent and turns back into a staff (ḥayya tasʿā, 'a snake moving';
-    'We will restore it to its first state')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ أَلْقِهَا يَٰمُوسَىٰ
-- tradition: islam
-  ref: Quran 20:20
-  note: A staff thrown down becomes a serpent and turns back into a staff (ḥayya tasʿā, 'a snake moving';
-    'We will restore it to its first state')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: An eloquent brother is appointed to speak for the hero, who is ''as
     God'' to him (weight 5.6); A staff thrown down becomes a serpent and turns back into a staff (weight
@@ -112,6 +55,64 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+kinds:
+- shared
+units:
+- id: hb-exod-7-staff-swallows-staffs
+  title: Moses as god to Pharaoh; Aaron's staff becomes a tannin and swallows the magicians' staffs
+  tradition: judaism
+- id: quran-20-moses-call
+  title: Moses at the fire in the holy valley Tuwa
+  tradition: islam
+matches:
+- kind: shared
+  label: An eloquent brother is appointed to speak for the hero, who is 'as God' to him
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל מֹשֶׁ֔ה רְאֵ֛ה נְתַתִּ֥יךָ אֱלֹהִ֖ים לְפַרְעֹ֑ה וְאַהֲרֹ֥ן אָחִ֖יךָ
+        יִהְיֶ֥ה נְבִיאֶֽךָ
+    - ref: Exod 7:2
+      lang: he
+      text: אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל פַּרְעֹ֔ה
+        וְשִׁלַּ֥ח אֶת בְּנֵֽי יִשְׂרָאֵ֖ל מֵאַרְצֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 20:29
+      lang: ar
+      text: وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى
+    - ref: Quran 20:32
+      lang: ar
+      text: وَأَشْرِكْهُ فِىٓ أَمْرِى
+- kind: shared
+  label: A staff thrown down becomes a serpent and turns back into a staff
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 7:9
+      lang: he
+      text: כִּי֩ יְדַבֵּ֨ר אֲלֵכֶ֤ם פַּרְעֹה֙ לֵאמֹ֔ר תְּנ֥וּ לָכֶ֖ם מוֹפֵ֑ת וְאָמַרְתָּ֣ אֶֽל אַהֲרֹ֗ן
+        קַ֧ח אֶֽת מַטְּךָ֛ וְהַשְׁלֵ֥ךְ לִפְנֵֽי פַרְעֹ֖ה יְהִ֥י לְתַנִּֽין
+    - ref: Exod 7:10
+      lang: he
+      text: וַיָּבֹ֨א מֹשֶׁ֤ה וְאַהֲרֹן֙ אֶל פַּרְעֹ֔ה וַיַּ֣עַשׂוּ כֵ֔ן כַּאֲשֶׁ֖ר צִוָּ֣ה יְהוָ֑ה וַיַּשְׁלֵ֨ךְ
+        אַהֲרֹ֜ן אֶת מַטֵּ֗הוּ לִפְנֵ֥י פַרְעֹ֛ה וְלִפְנֵ֥י עֲבָדָ֖יו וַיְהִ֥י לְתַנִּֽין
+    note: here tannin (sea-dragon/crocodile), not nahash
+  - tradition: islam
+    passages:
+    - ref: Quran 20:19
+      lang: ar
+      text: قَالَ أَلْقِهَا يَٰمُوسَىٰ
+    - ref: Quran 20:20
+      lang: ar
+      text: فَأَلْقَىٰهَا فَإِذَا هِىَ حَيَّةٌ تَسْعَىٰ
+    - ref: Quran 20:21
+      lang: ar
+      text: قَالَ خُذْهَا وَلَا تَخَفْ سَنُعِيدُهَا سِيرَتَهَا ٱلْأُولَىٰ
+    note: ḥayya tasʿā, 'a snake moving'; 'We will restore it to its first state'
 ---
 
 ## Questions

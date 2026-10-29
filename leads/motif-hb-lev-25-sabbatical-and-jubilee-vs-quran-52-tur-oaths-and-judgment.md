@@ -2,7 +2,7 @@
 id: motif-hb-lev-25-sabbatical-and-jubilee-vs-quran-52-tur-oaths-and-judgment
 title: 'Sabbatical year and the jubilee; the land is mine ↔ Al-Tur: the oath by the Mount, the inscribed
   parchment and the frequented House; the sky heaves'
-summary: 'These two units share 1 motifs: laws stated to have been given at mount sinai.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,29 +14,9 @@ layers:
 - motif
 motifs:
 - law-given-on-mount-sinai
-passages:
-- tradition: judaism
-  ref: Lev 25:1
-  note: Laws stated to have been given at Mount Sinai
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְדַבֵּ֤ר יְהוָה֙ אֶל מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר
-- tradition: islam
-  ref: Quran 52:1
-  note: Laws stated to have been given at Mount Sinai (the Mount paired with an inscribed book)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلطُّورِ
-- tradition: islam
-  ref: Quran 52:2
-  note: Laws stated to have been given at Mount Sinai (the Mount paired with an inscribed book)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَكِتَٰبٍ مَّسْطُورٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wa-yḏabbēr YHWH ʾel mōšeh bə-har sînay vs. wa-ṭ-ṭūr: the Mount as the place of revelation, named
-    in Leviticus, sworn by in the Quran (cf. ṭūr sīnīn, Q 95:2).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Laws stated to have been given at Mount Sinai (weight 6.7). Pair
     score 6.7.'
@@ -67,6 +47,32 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Laws stated to have been given at Mount Sinai
+kinds:
+- echo
+units:
+- id: hb-lev-25-sabbatical-and-jubilee
+  title: Sabbatical year and the jubilee; the land is mine
+  tradition: judaism
+- id: quran-52-tur-oaths-and-judgment
+  title: 'Al-Tur: the oath by the Mount, the inscribed parchment and the frequented House; the sky heaves'
+  tradition: islam
+matches:
+- kind: echo
+  label: Laws stated to have been given at Mount Sinai
+  note: 'wa-yḏabbēr YHWH ʾel mōšeh bə-har sînay vs. wa-ṭ-ṭūr: the Mount as the place of revelation, named
+    in Leviticus, sworn by in the Quran (cf. ṭūr sīnīn, Q 95:2).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Lev 25:1
+      lang: he
+      text: וַיְדַבֵּ֤ר יְהוָה֙ אֶל מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר
+  - tradition: islam
+    passages:
+    - ref: Quran 52:1
+      lang: ar
+      text: وَٱلطُّورِ
 ---
 
 ## Questions

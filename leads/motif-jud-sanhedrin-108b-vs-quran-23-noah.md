@@ -2,8 +2,7 @@
 id: motif-jud-sanhedrin-108b-vs-quran-23-noah
 title: The generation of the Flood (Babylonian Talmud, Sanhedrin 108b) ↔ Noah called a madman; the ark
   and the boiling oven
-summary: 'These two units share 2 motifs: the flood waters are hot or boiling, hero warns or preaches
-  to his people before the flood.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -17,28 +16,7 @@ layers:
 motifs:
 - boiling-waters
 - hero-preaches-to-people
-passages:
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: The flood waters are hot or boiling
-- tradition: islam
-  ref: Quran 23:27
-  note: The flood waters are hot or boiling (the tannūr fāra)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
-    وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ عَلَيْهِ
-    ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
-- tradition: judaism
-  ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
-  note: Hero warns or preaches to his people before the flood
-- tradition: islam
-  ref: Quran 23:23
-  note: Hero warns or preaches to his people before the flood
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ
-    إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: The flood waters are hot or boiling (weight 6.0); Hero warns or
     preaches to his people before the flood (weight 5.2). Pair score 11.2.'
@@ -50,6 +28,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The flood waters are hot or boiling
+kinds:
+- shared
+units:
+- id: jud-sanhedrin-108b
+  title: The generation of the Flood (Babylonian Talmud, Sanhedrin 108b)
+  tradition: judaism
+- id: quran-23-noah
+  title: Noah called a madman; the ark and the boiling oven
+  tradition: islam
+matches:
+- kind: shared
+  label: The flood waters are hot or boiling
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  - tradition: islam
+    passages:
+    - ref: Quran 23:27
+      lang: ar
+      text: فَأَوْحَيْنَآ إِلَيْهِ أَنِ ٱصْنَعِ ٱلْفُلْكَ بِأَعْيُنِنَا وَوَحْيِنَا فَإِذَا جَآءَ أَمْرُنَا
+        وَفَارَ ٱلتَّنُّورُ فَٱسْلُكْ فِيهَا مِن كُلٍّ زَوْجَيْنِ ٱثْنَيْنِ وَأَهْلَكَ إِلَّا مَن سَبَقَ
+        عَلَيْهِ ٱلْقَوْلُ مِنْهُمْ وَلَا تُخَٰطِبْنِى فِى ٱلَّذِينَ ظَلَمُوٓا۟ إِنَّهُم مُّغْرَقُونَ
+    note: the tannūr fāra
+- kind: shared
+  label: Hero warns or preaches to his people before the flood
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 'The generation of the Flood (Babylonian Talmud, Sanhedrin 108b): Sanhedrin 108b'
+  - tradition: islam
+    passages:
+    - ref: Quran 23:23
+      lang: ar
+      text: وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِۦ فَقَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم
+        مِّنْ إِلَٰهٍ غَيْرُهُۥٓ أَفَلَا تَتَّقُونَ
 ---
 
 ## Questions

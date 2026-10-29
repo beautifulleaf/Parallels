@@ -2,8 +2,7 @@
 id: motif-hb-josh-24-shechem-covenant-vs-quran-41-testifying-skins
 title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar ↔ Skins
   testify; evil companions; the misled ask to trample their misleaders
-summary: 'These two units share 1 motifs: a great stone set up as a witness because it has heard all god''s
-  words.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,58 +14,9 @@ layers:
 - motif
 motifs:
 - witness-stone-that-hears
-passages:
-- tradition: judaism
-  ref: Josh 24:26-27
-  note: 'A great stone set up as a witness because it has heard all God''s words (great stone under the
-    oak (alah) in YHWH''s sanctuary: ''it has heard all the words of YHWH'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (24:26) וַיִּכְתֹּ֤ב יְהוֹשֻׁ֨עַ֙ אֶת הַדְּבָרִ֣ים הָאֵ֔לֶּה בְּסֵ֖פֶר תּוֹרַ֣ת אֱלֹהִ֑ים וַיִּקַּח֙
-    אֶ֣בֶן גְּדוֹלָ֔ה וַיְקִימֶ֣הָ שָּׁ֔ם תַּ֚חַת הָֽאַלָּ֔ה אֲשֶׁ֖ר בְּמִקְדַּ֥שׁ יְהוָֽה (24:27) וַיֹּ֨אמֶר
-    יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם הִנֵּ֨ה הָאֶ֤בֶן הַזֹּאת֙ תִּֽהְיֶה בָּ֣נוּ לְעֵדָ֔ה כִּֽי הִ֣יא שָׁמְעָ֗ה
-    אֵ֚ת כָּל אִמְרֵ֣י יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר עִמָּ֑נוּ וְהָיְתָ֤ה בָכֶם֙ לְעֵדָ֔ה פֶּֽן תְּכַחֲשׁ֖וּן
-    בֵּאלֹהֵיכֶֽם
-- tradition: judaism
-  ref: Josh 24:27
-  note: 'A great stone set up as a witness because it has heard all God''s words (great stone under the
-    oak (alah) in YHWH''s sanctuary: ''it has heard all the words of YHWH'')'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם הִנֵּ֨ה הָאֶ֤בֶן הַזֹּאת֙ תִּֽהְיֶה בָּ֣נוּ לְעֵדָ֔ה כִּֽי
-    הִ֣יא שָׁמְעָ֗ה אֵ֚ת כָּל אִמְרֵ֣י יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר עִמָּ֑נוּ וְהָיְתָ֤ה בָכֶם֙ לְעֵדָ֔ה פֶּֽן
-    תְּכַחֲשׁ֖וּן בֵּאלֹהֵיכֶֽם
-- tradition: islam
-  ref: Quran 41:20
-  note: 'A great stone set up as a witness because it has heard all God''s words (A thing that cannot
-    speak becomes a witness: hā-ʾeḇen ha-zōʾṯ tihyeh bānû lə-ʿēḏâ kî hîʾ šāməʿâ ʾēṯ kol ʾimrê YHWH ...
-    pen təḵaḥăšûn bē-ʾlōhêḵem vs. shahida ʿalayhim ... julūduhum; anṭaqanā llāh. Joshua''s stone ''heard''
-    and will witness against denial (k-ḥ-š); the Quran''s skins are made to speak against those who denied
-    (yajḥadūn, 41:28). cf. b. Hag 16a (a man''s limbs testify against him, citing Isa 43:12), not in the
-    HB itself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا
-    كَانُوا۟ يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 41:21
-  note: 'A great stone set up as a witness because it has heard all God''s words (A thing that cannot
-    speak becomes a witness: hā-ʾeḇen ha-zōʾṯ tihyeh bānû lə-ʿēḏâ kî hîʾ šāməʿâ ʾēṯ kol ʾimrê YHWH ...
-    pen təḵaḥăšûn bē-ʾlōhêḵem vs. shahida ʿalayhim ... julūduhum; anṭaqanā llāh. Joshua''s stone ''heard''
-    and will witness against denial (k-ḥ-š); the Quran''s skins are made to speak against those who denied
-    (yajḥadūn, 41:28). cf. b. Hag 16a (a man''s limbs testify against him, citing Isa 43:12), not in the
-    HB itself.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ
-    كُلَّ شَىْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. A thing that cannot speak becomes a witness: hā-ʾeḇen ha-zōʾṯ tihyeh bānû lə-ʿēḏâ kî hîʾ šāməʿâ
-    ʾēṯ kol ʾimrê YHWH ... pen təḵaḥăšûn bē-ʾlōhêḵem vs. shahida ʿalayhim ... julūduhum; anṭaqanā llāh.
-    Joshua''s stone ''heard'' and will witness against denial (k-ḥ-š); the Quran''s skins are made to
-    speak against those who denied (yajḥadūn, 41:28). cf. b. Hag 16a (a man''s limbs testify against him,
-    citing Isa 43:12), not in the HB itself.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A great stone set up as a witness because it has heard all God''s
     words (weight 6.7). Pair score 6.7.'
@@ -103,6 +53,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A great stone set up as a witness because it has heard all God's words
+kinds:
+- echo
+units:
+- id: hb-josh-24-shechem-covenant
+  title: Covenant at Shechem; 'choose this day whom you will serve'; deaths of Joshua and Eleazar
+  tradition: judaism
+- id: quran-41-testifying-skins
+  title: Skins testify; evil companions; the misled ask to trample their misleaders
+  tradition: islam
+matches:
+- kind: echo
+  label: A great stone set up as a witness because it has heard all God's words
+  note: 'A thing that cannot speak becomes a witness: hā-ʾeḇen ha-zōʾṯ tihyeh bānû lə-ʿēḏâ kî hîʾ šāməʿâ
+    ʾēṯ kol ʾimrê YHWH ... pen təḵaḥăšûn bē-ʾlōhêḵem vs. shahida ʿalayhim ... julūduhum; anṭaqanā llāh.
+    Joshua''s stone ''heard'' and will witness against denial (k-ḥ-š); the Quran''s skins are made to
+    speak against those who denied (yajḥadūn, 41:28). cf. b. Hag 16a (a man''s limbs testify against him,
+    citing Isa 43:12), not in the HB itself.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Josh 24:27
+      lang: he
+      text: וַיֹּ֨אמֶר יְהוֹשֻׁ֜עַ אֶל כָּל הָעָ֗ם הִנֵּ֨ה הָאֶ֤בֶן הַזֹּאת֙ תִּֽהְיֶה בָּ֣נוּ לְעֵדָ֔ה
+        כִּֽי הִ֣יא שָׁמְעָ֗ה אֵ֚ת כָּל אִמְרֵ֣י יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר עִמָּ֑נוּ וְהָיְתָ֤ה בָכֶם֙
+        לְעֵדָ֔ה פֶּֽן תְּכַחֲשׁ֖וּן בֵּאלֹהֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 41:20
+      lang: ar
+      text: حَتَّىٰٓ إِذَا مَا جَآءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَٰرُهُمْ وَجُلُودُهُم بِمَا
+        كَانُوا۟ يَعْمَلُونَ
+    - ref: Quran 41:21
+      lang: ar
+      text: وَقَالُوا۟ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا قَالُوٓا۟ أَنطَقَنَا ٱللَّهُ ٱلَّذِىٓ أَنطَقَ
+        كُلَّ شَىْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ
 ---
 
 ## Questions

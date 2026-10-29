@@ -2,8 +2,7 @@
 id: motif-hb-deut-5-decalogue-vs-quran-28-prophet-not-present-and-the-two-books
 title: The Decalogue restated and the people's fear at Horeb ↔ The prophet was not there; the two books;
   believing People of the Book
-summary: 'These two units share 1 motifs: who was present at the revelation on the mountain, and who knows
-  it only by report [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,60 +14,9 @@ layers:
 - motif
 motifs:
 - presence-at-the-mountain-revelation-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 5:3
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [contrast
-    between the texts] (Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît
-    haz-zōʾt kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The
-    Quran insists its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā
-    kunta mina sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event
-    is revelation, a mercy from God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א אֶת אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהוָ֖ה אֶת הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֗נוּ אֲנַ֨חְנוּ אֵ֥לֶּה
-    פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים
-- tradition: judaism
-  ref: Deut 5:4
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [contrast
-    between the texts] (Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît
-    haz-zōʾt kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The
-    Quran insists its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā
-    kunta mina sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event
-    is revelation, a mercy from God.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פָּנִ֣ים בְּפָנִ֗ים דִּבֶּ֨ר יְהוָ֧ה עִמָּכֶ֛ם בָּהָ֖ר מִתּ֥וֹךְ הָאֵֽשׁ
-- tradition: islam
-  ref: Quran 28:44
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [contrast
-    between the texts] (Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît
-    haz-zōʾt kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The
-    Quran insists its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā
-    kunta mina sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event
-    is revelation, a mercy from God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ
-- tradition: islam
-  ref: Quran 28:46
-  note: 'Who was present at the revelation on the mountain, and who knows it only by report [contrast
-    between the texts] (Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît
-    haz-zōʾt kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The
-    Quran insists its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā
-    kunta mina sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event
-    is revelation, a mercy from God.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ قَوْمًا
-    مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît haz-zōʾt
-    kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The Quran insists
-    its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā kunta mina
-    sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event is revelation,
-    a mercy from God.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who was present at the revelation on the mountain, and who knows
     it only by report [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -104,6 +52,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who was present at the revelation on the mountain, and who knows it only by report
+kinds:
+- contrast
+units:
+- id: hb-deut-5-decalogue
+  title: The Decalogue restated and the people's fear at Horeb
+  tradition: judaism
+- id: quran-28-prophet-not-present-and-the-two-books
+  title: The prophet was not there; the two books; believing People of the Book
+  tradition: islam
+matches:
+- kind: contrast
+  label: Who was present at the revelation on the mountain, and who knows it only by report
+  note: 'Deuteronomy insists its audience was there: lōʾ ʾet ʾăvōtênû kārat YHWH ʾet hab-bərît haz-zōʾt
+    kî ʾittānû ʾănaḥnû ʾēlleh fōh hay-yôm ... pānîm bə-fānîm dibber YHWH ʿimmākhem bāhār. The Quran insists
+    its prophet was not: wa-mā kunta bi-jānibi l-gharbiyyi idh qaḍaynā ilā Mūsā l-amra wa-mā kunta mina
+    sh-shāhidīna ... wa-mā kunta bi-jānibi ṭ-Ṭūri idh nādaynā, so his knowledge of the event is revelation,
+    a mercy from God.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 5:3
+      lang: he
+      text: לֹ֣א אֶת אֲבֹתֵ֔ינוּ כָּרַ֥ת יְהוָ֖ה אֶת הַבְּרִ֣ית הַזֹּ֑את כִּ֣י אִתָּ֗נוּ אֲנַ֨חְנוּ אֵ֥לֶּה
+        פֹ֛ה הַיּ֖וֹם כֻּלָּ֥נוּ חַיִּֽים
+    - ref: Deut 5:4
+      lang: he
+      text: פָּנִ֣ים בְּפָנִ֗ים דִּבֶּ֨ר יְהוָ֧ה עִמָּכֶ֛ם בָּהָ֖ר מִתּ֥וֹךְ הָאֵֽשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 28:44
+      lang: ar
+      text: وَمَا كُنتَ بِجَانِبِ ٱلْغَرْبِىِّ إِذْ قَضَيْنَآ إِلَىٰ مُوسَى ٱلْأَمْرَ وَمَا كُنتَ مِنَ
+        ٱلشَّٰهِدِينَ
+    - ref: Quran 28:46
+      lang: ar
+      text: وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذْ نَادَيْنَا وَلَٰكِن رَّحْمَةً مِّن رَّبِّكَ لِتُنذِرَ
+        قَوْمًا مَّآ أَتَىٰهُم مِّن نَّذِيرٍ مِّن قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ
 ---
 
 ## Questions

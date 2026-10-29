@@ -2,8 +2,7 @@
 id: motif-hb-ps-51-miserere-vs-quran-5-jesus-miracles-table
 title: Psalm 51, David's confession after Bathsheba (Miserere) ↔ Jesus' miracles, the table from heaven,
   and Jesus questioned at judgment
-summary: 'These two units share 1 motifs: god''s ''holy spirit'' (ruah qodesh) is asked not to be taken
-  away from a person.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - holy-spirit-of-god
-passages:
-- tradition: judaism
-  ref: Ps 51:13
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (ruah qodshekha,
-    one of only three HB occurrences (with Isa 63:10-11))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
-- tradition: islam
-  ref: Quran 5:110
-  note: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person (ayyadtuka bi-rūḥ
-    al-qudus)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ إِذْ
-    أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ ٱلْكِتَٰبَ
-    وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ بِإِذْنِى
-    فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ بِإِذْنِى وَإِذْ
-    تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ جِئْتَهُم بِٱلْبَيِّنَٰتِ
-    فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. The same construct, rūḥ al-qudus = rûaḥ qodšəkhā. Q: idh ayyadtuka bi-rūḥi l-qudusi, a holy
-    spirit that strengthens Jesus. Ps: wə-rûaḥ qodšəkhā ʾal-tiqqaḥ mimmennî, prayed for so that it is
-    not taken away.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God''s ''holy spirit'' (ruah qodesh) is asked not to be taken away
     from a person (weight 6.0). Pair score 6.0.'
@@ -73,6 +50,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+kinds:
+- echo
+units:
+- id: hb-ps-51-miserere
+  title: Psalm 51, David's confession after Bathsheba (Miserere)
+  tradition: judaism
+- id: quran-5-jesus-miracles-table
+  title: Jesus' miracles, the table from heaven, and Jesus questioned at judgment
+  tradition: islam
+matches:
+- kind: echo
+  label: God's 'holy spirit' (ruah qodesh) is asked not to be taken away from a person
+  note: 'The same construct, rūḥ al-qudus = rûaḥ qodšəkhā. Q: idh ayyadtuka bi-rūḥi l-qudusi, a holy spirit
+    that strengthens Jesus. Ps: wə-rûaḥ qodšəkhā ʾal-tiqqaḥ mimmennî, prayed for so that it is not taken
+    away.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 51:13
+      lang: he
+      text: אַל תַּשְׁלִיכֵ֥נִי מִלְּפָנֶ֑יךָ וְר֥וּחַ קָ֝דְשְׁךָ֗ אַל תִּקַּ֥ח מִמֶּֽנִּי
+  - tradition: islam
+    passages:
+    - ref: Quran 5:110
+      lang: ar
+      text: إِذْ قَالَ ٱللَّهُ يَٰعِيسَى ٱبْنَ مَرْيَمَ ٱذْكُرْ نِعْمَتِى عَلَيْكَ وَعَلَىٰ وَٰلِدَتِكَ
+        إِذْ أَيَّدتُّكَ بِرُوحِ ٱلْقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَإِذْ عَلَّمْتُكَ
+        ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ وَإِذْ تَخْلُقُ مِنَ ٱلطِّينِ كَهَيْـَٔةِ
+        ٱلطَّيْرِ بِإِذْنِى فَتَنفُخُ فِيهَا فَتَكُونُ طَيْرًۢا بِإِذْنِى وَتُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ
+        بِإِذْنِى وَإِذْ تُخْرِجُ ٱلْمَوْتَىٰ بِإِذْنِى وَإِذْ كَفَفْتُ بَنِىٓ إِسْرَٰٓءِيلَ عَنكَ إِذْ
+        جِئْتَهُم بِٱلْبَيِّنَٰتِ فَقَالَ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ إِنْ هَٰذَآ إِلَّا سِحْرٌ مُّبِينٌ
 ---
 
 ## Questions

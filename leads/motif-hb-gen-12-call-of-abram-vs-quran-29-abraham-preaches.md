@@ -2,8 +2,7 @@
 id: motif-hb-gen-12-call-of-abram-vs-quran-29-abraham-preaches
 title: The call of Abram and his journey through Canaan ↔ Abraham preaches against idols, is saved from
   the fire, and Lot believes
-summary: 'These two units share 1 motifs: who leads abraham''s departure from his homeland, with lot,
-  and why [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - why-abraham-leaves-his-homeland-as-divergence
-passages:
-- tradition: judaism
-  ref: Gen 12:1
-  note: 'Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]
-    (lekh ləkhā mē-ʾarṣəkhā ... wa-yyēlekh ʾAvrām ka-ʾăšer dibber ʾēlāyw YHWH wa-yyēlekh ʾittô Lôṭ ~ fa-āmana
-    lahu Lūṭun wa-qāla innī muhājirun ilā rabbī: Abraham leaves with Lot. In Genesis God''s command starts
-    it and the goal is a land (ʾel hā-ʾāreṣ ʾăšer ʾarʾekkā); in the Quran the emigrant goes ''to my Lord'',
-    and no command or land is mentioned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
-    אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
-- tradition: judaism
-  ref: Gen 12:4
-  note: 'Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]
-    (lekh ləkhā mē-ʾarṣəkhā ... wa-yyēlekh ʾAvrām ka-ʾăšer dibber ʾēlāyw YHWH wa-yyēlekh ʾittô Lôṭ ~ fa-āmana
-    lahu Lūṭun wa-qāla innī muhājirun ilā rabbī: Abraham leaves with Lot. In Genesis God''s command starts
-    it and the goal is a land (ʾel hā-ʾāreṣ ʾăšer ʾarʾekkā); in the Quran the emigrant goes ''to my Lord'',
-    and no command or land is mentioned.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה וַיֵּ֥לֶךְ אִתּ֖וֹ ל֑וֹט וְאַבְרָ֗ם בֶּן
-    חָמֵ֤שׁ שָׁנִים֙ וְשִׁבְעִ֣ים שָׁנָ֔ה בְּצֵאת֖וֹ מֵחָרָֽן
-- tradition: islam
-  ref: Quran 29:26
-  note: 'Who leads Abraham''s departure from his homeland, with Lot, and why [divergence between the texts]
-    (Who leads the departure: Genesis has the father, wa-yyiqqaḥ Teraḥ ʾet ʾAvrām bənô wə-ʾet Lôṭ ben
-    Hārān ... wa-yyēṣəʾû ʾittām mē-ʾÛr Kaśdîm, a family migration led by the idolater Terah (Josh 24:2);
-    the Quran has a religious emigration after Abraham''s people reject him, fa-āmana lahu Lūṭun wa-qāla
-    innī muhājirun ilā rabbī. Lot goes because he believes, not as Terah''s grandson.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. lekh ləkhā mē-ʾarṣəkhā ... wa-yyēlekh ʾAvrām ka-ʾăšer dibber ʾēlāyw YHWH wa-yyēlekh ʾittô
-    Lôṭ ~ fa-āmana lahu Lūṭun wa-qāla innī muhājirun ilā rabbī: Abraham leaves with Lot. In Genesis God''s
-    command starts it and the goal is a land (ʾel hā-ʾāreṣ ʾăšer ʾarʾekkā); in the Quran the emigrant
-    goes ''to my Lord'', and no command or land is mentioned.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Who leads Abraham''s departure from his homeland, with Lot, and
     why [divergence between the texts] (weight 6.3). Pair score 6.3.'
@@ -86,6 +49,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Who leads Abraham's departure from his homeland, with Lot, and why
+kinds:
+- divergence
+units:
+- id: hb-gen-12-call-of-abram
+  title: The call of Abram and his journey through Canaan
+  tradition: judaism
+- id: quran-29-abraham-preaches
+  title: Abraham preaches against idols, is saved from the fire, and Lot believes
+  tradition: islam
+matches:
+- kind: divergence
+  label: Who leads Abraham's departure from his homeland, with Lot, and why
+  note: 'lekh ləkhā mē-ʾarṣəkhā ... wa-yyēlekh ʾAvrām ka-ʾăšer dibber ʾēlāyw YHWH wa-yyēlekh ʾittô Lôṭ
+    ~ fa-āmana lahu Lūṭun wa-qāla innī muhājirun ilā rabbī: Abraham leaves with Lot. In Genesis God''s
+    command starts it and the goal is a land (ʾel hā-ʾāreṣ ʾăšer ʾarʾekkā); in the Quran the emigrant
+    goes ''to my Lord'', and no command or land is mentioned.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 12:1
+      lang: he
+      text: וַיֹּ֤אמֶר יְהוָה֙ אֶל אַבְרָ֔ם לֶךְ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ
+        אֶל הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ
+    - ref: Gen 12:4
+      lang: he
+      text: וַיֵּ֣לֶךְ אַבְרָ֗ם כַּאֲשֶׁ֨ר דִּבֶּ֤ר אֵלָיו֙ יְהוָ֔ה וַיֵּ֥לֶךְ אִתּ֖וֹ ל֑וֹט וְאַבְרָ֗ם
+        בֶּן חָמֵ֤שׁ שָׁנִים֙ וְשִׁבְעִ֣ים שָׁנָ֔ה בְּצֵאת֖וֹ מֵחָרָֽן
+  - tradition: islam
+    passages:
+    - ref: Quran 29:26
+      lang: ar
+      text: فَـَٔامَنَ لَهُۥ لُوطٌ وَقَالَ إِنِّى مُهَاجِرٌ إِلَىٰ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ
 ---
 
 ## Questions

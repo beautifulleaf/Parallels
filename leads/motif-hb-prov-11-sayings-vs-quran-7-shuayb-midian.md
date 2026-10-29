@@ -1,7 +1,7 @@
 ---
 id: motif-hb-prov-11-sayings-vs-quran-7-shuayb-midian
 title: Sayings on honest scales, generosity and the fate of the wicked ↔ Shu'ayb and Midian
-summary: 'These two units share 1 motifs: honest balances, weights, ephah and hin are commanded.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -14,27 +14,9 @@ layers:
 - motif
 motifs:
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 11:1
-  note: Honest balances, weights, ephah and hin are commanded (false balances are an abomination; a full
-    stone (even shelemah) his delight)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
-- tradition: islam
-  ref: Quran 7:85
-  note: Honest balances, weights, ephah and hin are commanded (give full measure (kayl) and weight (mizan))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
-    غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا تَبْخَسُوا۟
-    ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ذَٰلِكُمْ خَيْرٌ لَّكُمْ
-    إِن كُنتُم مُّؤْمِنِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. Prov: mōʾznê mirmāh tôʿăvat YHWH wə-ʾeven šəlēmāh rəṣônô. Q: awfū l-kayla wa-l-mīzāna. Prov''s
-    full stone (ʾeven šəlēmāh) matches Q''s command to give full (awfū).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Honest balances, weights, ephah and hin are commanded (weight 4.7).
     Pair score 4.7.'
@@ -66,6 +48,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Honest balances, weights, ephah and hin are commanded
+kinds:
+- parallel
+units:
+- id: hb-prov-11-sayings
+  title: Sayings on honest scales, generosity and the fate of the wicked
+  tradition: judaism
+- id: quran-7-shuayb-midian
+  title: Shu'ayb and Midian
+  tradition: islam
+matches:
+- kind: parallel
+  label: Honest balances, weights, ephah and hin are commanded
+  note: 'Prov: mōʾznê mirmāh tôʿăvat YHWH wə-ʾeven šəlēmāh rəṣônô. Q: awfū l-kayla wa-l-mīzāna. Prov''s
+    full stone (ʾeven šəlēmāh) matches Q''s command to give full (awfū).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 11:1
+      lang: he
+      text: מֹאזְנֵ֣י מִ֭רְמָה תּוֹעֲבַ֣ת יְהוָ֑ה וְאֶ֖בֶן שְׁלֵמָ֣ה רְצוֹנֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:85
+      lang: ar
+      text: وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا قَالَ يَٰقَوْمِ ٱعْبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ
+        غَيْرُهُۥ قَدْ جَآءَتْكُم بَيِّنَةٌ مِّن رَّبِّكُمْ فَأَوْفُوا۟ ٱلْكَيْلَ وَٱلْمِيزَانَ وَلَا
+        تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تُفْسِدُوا۟ فِى ٱلْأَرْضِ بَعْدَ إِصْلَٰحِهَا ذَٰلِكُمْ
+        خَيْرٌ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ
 ---
 
 ## Questions

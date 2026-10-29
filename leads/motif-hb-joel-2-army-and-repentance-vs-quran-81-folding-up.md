@@ -2,7 +2,7 @@
 id: motif-hb-joel-2-army-and-repentance-vs-quran-81-folding-up
 title: 'The locust army of the Day of YHWH; ''rend your hearts''; restoration ↔ The folding up: twelve
   signs of the end and the messenger on the horizon'
-summary: 'These two units share 1 motifs: sun and moon are darkened and the stars withdraw their shining.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - sun-moon-darkened-stars-withdraw
-passages:
-- tradition: judaism
-  ref: Joel 2:10
-  note: Sun and moon are darkened and the stars withdraw their shining
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֨חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ
-    נָגְהָֽם
-- tradition: islam
-  ref: Quran 81:1
-  note: Sun and moon are darkened and the stars withdraw their shining (the sun wrapped up (kuwwirat),
-    the stars dimmed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذَا ٱلشَّمْسُ كُوِّرَتْ
-- tradition: islam
-  ref: Quran 81:2
-  note: Sun and moon are darkened and the stars withdraw their shining (the sun wrapped up (kuwwirat),
-    the stars dimmed)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. wa-idhā n-nujūmu nkadarat ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû noghām: Arabic inkadara
-    and Hebrew qādar, cognate verbs of darkening.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Sun and moon are darkened and the stars withdraw their shining (weight
     5.8). Pair score 5.8.'
@@ -75,6 +52,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Sun and moon are darkened and the stars withdraw their shining
+kinds:
+- echo
+units:
+- id: hb-joel-2-army-and-repentance
+  title: The locust army of the Day of YHWH; 'rend your hearts'; restoration
+  tradition: judaism
+- id: quran-81-folding-up
+  title: 'The folding up: twelve signs of the end and the messenger on the horizon'
+  tradition: islam
+matches:
+- kind: echo
+  label: Sun and moon are darkened and the stars withdraw their shining
+  note: 'wa-idhā n-nujūmu nkadarat ~ šemeš we-yārēaḥ qādārû we-kôkāvîm ʾāsefû noghām: Arabic inkadara
+    and Hebrew qādar, cognate verbs of darkening.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Joel 2:10
+      lang: he
+      text: לְפָנָיו֙ רָ֣גְזָה אֶ֔רֶץ רָעֲשׁ֖וּ שָׁמָ֑יִם שֶׁ֤מֶשׁ וְיָרֵ֨חַ֙ קָדָ֔רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ
+        נָגְהָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 81:2
+      lang: ar
+      text: وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ
 ---
 
 ## Questions

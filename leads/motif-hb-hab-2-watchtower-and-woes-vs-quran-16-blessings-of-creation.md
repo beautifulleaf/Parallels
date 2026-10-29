@@ -2,8 +2,7 @@
 id: motif-hb-hab-2-watchtower-and-woes-vs-quran-16-blessings-of-creation
 title: The vision on tablets; the righteous live by faith; five woes ↔ The command has come; cattle, rain,
   sea and stars as blessings (Surah 16:1-23)
-summary: 'These two units share 2 motifs: the idols create nothing, are themselves created, and are dead,
-  not living, idols of wood and stone that cannot see, hear, eat or smell.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -17,65 +16,9 @@ layers:
 motifs:
 - idols-dead-not-living
 - idols-cannot-see-hear-eat-smell
-passages:
-- tradition: judaism
-  ref: Hab 2:18
-  note: 'The idols create nothing, are themselves created, and are dead, not living (pāsəlô yōṣərô ...
-    wəkol-rûaḥ ʾên bəqirbô; wa-hum yukhlaqūna amwātun ghayru aḥyāʾ: the idol is shaped by its maker and
-    has no breath. Hab''s yōṣēr yiṣrô (the maker trusts his own creature) is the reverse of Q''s a-fa-man
-    yakhluqu ka-man lā yakhluq (16:17).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: judaism
-  ref: Hab 2:19
-  note: 'The idols create nothing, are themselves created, and are dead, not living (pāsəlô yōṣərô ...
-    wəkol-rûaḥ ʾên bəqirbô; wa-hum yukhlaqūna amwātun ghayru aḥyāʾ: the idol is shaped by its maker and
-    has no breath. Hab''s yōṣēr yiṣrô (the maker trusts his own creature) is the reverse of Q''s a-fa-man
-    yakhluqu ka-man lā yakhluq (16:17).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה ה֗וּא תָּפוּשׂ֙ זָהָ֣ב
-    וָכֶ֔סֶף וְכָל ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ
-- tradition: islam
-  ref: Quran 16:20
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 16:21
-  note: The idols create nothing, are themselves created, and are dead, not living (they create nothing
-    and are created)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
-- tradition: judaism
-  ref: Hab 2:18
-  note: Idols of wood and stone that cannot see, hear, eat or smell (dumb idols (elilim illemim))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
-    יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
-- tradition: islam
-  ref: Quran 16:20
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
-- tradition: islam
-  ref: Quran 16:21
-  note: Idols of wood and stone that cannot see, hear, eat or smell
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. pāsəlô yōṣərô ... wəkol-rûaḥ ʾên bəqirbô; wa-hum yukhlaqūna amwātun ghayru aḥyāʾ: the idol
-    is shaped by its maker and has no breath. Hab''s yōṣēr yiṣrô (the maker trusts his own creature) is
-    the reverse of Q''s a-fa-man yakhluqu ka-man lā yakhluq (16:17).'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The idols create nothing, are themselves created, and are dead,
     not living (weight 6.0); Idols of wood and stone that cannot see, hear, eat or smell (weight 5.0).
@@ -112,6 +55,60 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The idols create nothing, are themselves created, and are dead, not living
+kinds:
+- parallel
+- shared
+units:
+- id: hb-hab-2-watchtower-and-woes
+  title: The vision on tablets; the righteous live by faith; five woes
+  tradition: judaism
+- id: quran-16-blessings-of-creation
+  title: The command has come; cattle, rain, sea and stars as blessings (Surah 16:1-23)
+  tradition: islam
+matches:
+- kind: parallel
+  label: The idols create nothing, are themselves created, and are dead, not living
+  note: 'pāsəlô yōṣərô ... wəkol-rûaḥ ʾên bəqirbô; wa-hum yukhlaqūna amwātun ghayru aḥyāʾ: the idol is
+    shaped by its maker and has no breath. Hab''s yōṣēr yiṣrô (the maker trusts his own creature) is the
+    reverse of Q''s a-fa-man yakhluqu ka-man lā yakhluq (16:17).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+    - ref: Hab 2:19
+      lang: he
+      text: ה֣וֹי אֹמֵ֤ר לָעֵץ֙ הָקִ֔יצָה ע֖וּרִי לְאֶ֣בֶן דּוּמָ֑ם ה֣וּא יוֹרֶ֔ה הִנֵּה ה֗וּא תָּפוּשׂ֙
+        זָהָ֣ב וָכֶ֔סֶף וְכָל ר֖וּחַ אֵ֥ין בְּקִרְבּֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 16:20
+      lang: ar
+      text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 16:21
+      lang: ar
+      text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
+- kind: shared
+  label: Idols of wood and stone that cannot see, hear, eat or smell
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hab 2:18
+      lang: he
+      text: מָֽה הוֹעִ֣יל פֶּ֗סֶל כִּ֤י פְסָלוֹ֙ יֹֽצְר֔וֹ מַסֵּכָ֖ה וּמ֣וֹרֶה שָּׁ֑קֶר כִּ֣י בָטַ֞ח יֹצֵ֤ר
+        יִצְרוֹ֙ עָלָ֔יו לַעֲשׂ֖וֹת אֱלִילִ֥ים אִלְּמִֽים
+    note: dumb idols (elilim illemim)
+  - tradition: islam
+    passages:
+    - ref: Quran 16:20
+      lang: ar
+      text: وَٱلَّذِينَ يَدْعُونَ مِن دُونِ ٱللَّهِ لَا يَخْلُقُونَ شَيْـًٔا وَهُمْ يُخْلَقُونَ
+    - ref: Quran 16:21
+      lang: ar
+      text: أَمْوَٰتٌ غَيْرُ أَحْيَآءٍ وَمَا يَشْعُرُونَ أَيَّانَ يُبْعَثُونَ
 ---
 
 ## Questions

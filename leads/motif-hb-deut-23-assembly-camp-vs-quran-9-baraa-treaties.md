@@ -2,8 +2,7 @@
 id: motif-hb-deut-23-assembly-camp-vs-quran-9-baraa-treaties
 title: Admission to the assembly; camp purity; slaves, interest, vows ↔ The disavowal - treaties, sacred
   months and asylum
-summary: 'These two units share 1 motifs: protection for someone who seeks refuge [divergence between
-  the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,46 +14,9 @@ layers:
 - motif
 motifs:
 - protection-for-a-refugee-as-divergence
-passages:
-- tradition: judaism
-  ref: Deut 23:16
-  note: 'Protection for someone who seeks refuge [divergence between the texts] (Protection for someone
-    who seeks refuge: wa-in aḥadun mina l-mushrikīna stajāraka fa-ajirhu ḥattā yasmaʿa kalāma llāhi thumma
-    ablighhu maʾmanahu vs lōʾ-tasgîr ʿebed ʾel-ʾădōnāyw ... ʿimmᵉkā yēšēb bᵉqirbᵉkā bammāqôm ʾăšer-yibḥar.
-    Changed: the runaway slave in Deut may settle where he likes; the polytheist in Q is protected long
-    enough to hear God''s word, then escorted to his own place of safety.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תַסְגִּ֥יר עֶ֖בֶד אֶל אֲדֹנָ֑יו אֲשֶׁר יִנָּצֵ֥ל אֵלֶ֖יךָ מֵעִ֥ם אֲדֹנָֽיו
-- tradition: judaism
-  ref: Deut 23:17
-  note: 'Protection for someone who seeks refuge [divergence between the texts] (Protection for someone
-    who seeks refuge: wa-in aḥadun mina l-mushrikīna stajāraka fa-ajirhu ḥattā yasmaʿa kalāma llāhi thumma
-    ablighhu maʾmanahu vs lōʾ-tasgîr ʿebed ʾel-ʾădōnāyw ... ʿimmᵉkā yēšēb bᵉqirbᵉkā bammāqôm ʾăšer-yibḥar.
-    Changed: the runaway slave in Deut may settle where he likes; the polytheist in Q is protected long
-    enough to hear God''s word, then escorted to his own place of safety.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עִמְּךָ֞ יֵשֵׁ֣ב בְּקִרְבְּךָ֗ בַּמָּק֧וֹם אֲשֶׁר יִבְחַ֛ר בְּאַחַ֥ד שְׁעָרֶ֖יךָ בַּטּ֣וֹב ל֑וֹ
-    לֹ֖א תּוֹנֶֽנּוּ
-- tradition: islam
-  ref: Quran 9:6
-  note: 'Protection for someone who seeks refuge [divergence between the texts] (Protection for someone
-    who seeks refuge: wa-in aḥadun mina l-mushrikīna stajāraka fa-ajirhu ḥattā yasmaʿa kalāma llāhi thumma
-    ablighhu maʾmanahu vs lōʾ-tasgîr ʿebed ʾel-ʾădōnāyw ... ʿimmᵉkā yēšēb bᵉqirbᵉkā bammāqôm ʾăšer-yibḥar.
-    Changed: the runaway slave in Deut may settle where he likes; the polytheist in Q is protected long
-    enough to hear God''s word, then escorted to his own place of safety.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَٰمَ ٱللَّهِ ثُمَّ
-    أَبْلِغْهُ مَأْمَنَهُۥ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    divergence. Protection for someone who seeks refuge: wa-in aḥadun mina l-mushrikīna stajāraka fa-ajirhu
-    ḥattā yasmaʿa kalāma llāhi thumma ablighhu maʾmanahu vs lōʾ-tasgîr ʿebed ʾel-ʾădōnāyw ... ʿimmᵉkā
-    yēšēb bᵉqirbᵉkā bammāqôm ʾăšer-yibḥar. Changed: the runaway slave in Deut may settle where he likes;
-    the polytheist in Q is protected long enough to hear God''s word, then escorted to his own place of
-    safety.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Protection for someone who seeks refuge [divergence between the
     texts] (weight 6.7). Pair score 6.7.'
@@ -90,6 +52,39 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Protection for someone who seeks refuge
+kinds:
+- divergence
+units:
+- id: hb-deut-23-assembly-camp
+  title: Admission to the assembly; camp purity; slaves, interest, vows
+  tradition: judaism
+- id: quran-9-baraa-treaties
+  title: The disavowal - treaties, sacred months and asylum
+  tradition: islam
+matches:
+- kind: divergence
+  label: Protection for someone who seeks refuge
+  note: 'Protection for someone who seeks refuge: wa-in aḥadun mina l-mushrikīna stajāraka fa-ajirhu ḥattā
+    yasmaʿa kalāma llāhi thumma ablighhu maʾmanahu vs lōʾ-tasgîr ʿebed ʾel-ʾădōnāyw ... ʿimmᵉkā yēšēb
+    bᵉqirbᵉkā bammāqôm ʾăšer-yibḥar. Changed: the runaway slave in Deut may settle where he likes; the
+    polytheist in Q is protected long enough to hear God''s word, then escorted to his own place of safety.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 23:16
+      lang: he
+      text: לֹא תַסְגִּ֥יר עֶ֖בֶד אֶל אֲדֹנָ֑יו אֲשֶׁר יִנָּצֵ֥ל אֵלֶ֖יךָ מֵעִ֥ם אֲדֹנָֽיו
+    - ref: Deut 23:17
+      lang: he
+      text: עִמְּךָ֞ יֵשֵׁ֣ב בְּקִרְבְּךָ֗ בַּמָּק֧וֹם אֲשֶׁר יִבְחַ֛ר בְּאַחַ֥ד שְׁעָרֶ֖יךָ בַּטּ֣וֹב
+        ל֑וֹ לֹ֖א תּוֹנֶֽנּוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:6
+      lang: ar
+      text: وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَٰمَ ٱللَّهِ
+        ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ
 ---
 
 ## Questions

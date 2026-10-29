@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-33-blessing-of-moses-vs-quran-9-mosques-and-kin
 title: The Blessing of Moses on the tribes ↔ Who maintains the mosques; God above family
-summary: 'These two units share 1 motifs: levi says to father and mother ''i do not see you'' and disregards
-  his brothers and children for god''s covenant.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,39 +14,9 @@ layers:
 - motif
 motifs:
 - levi-disowns-kin-for-god
-passages:
-- tradition: judaism
-  ref: Deut 33:9
-  note: Levi says to father and mother 'I do not see you' and disregards his brothers and children for
-    God's covenant
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו בָּנָ֖יו
-    לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ
-- tradition: islam
-  ref: Quran 9:23
-  note: Levi says to father and mother 'I do not see you' and disregards his brothers and children for
-    God's covenant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
-    إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
-- tradition: islam
-  ref: Quran 9:24
-  note: Levi says to father and mother 'I do not see you' and disregards his brothers and children for
-    God's covenant
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ
-    وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ
-    إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ
-    بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Loyalty to God above father, brothers and sons: lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾa
-    ini staḥabbū l-kufra ʿalā l-īmān; in kāna ābāʾukum wa-abnāʾukum wa-ikhwānukum ... aḥabba ilaykum mina
-    llāh vs hāʾōmēr lᵉʾābîw ûlᵉʾimmô lōʾ rᵉʾîtîw wᵉʾet-ʾeḥāyw lōʾ hikkîr wᵉʾet-bānāw lōʾ yādāʿ kî šāmᵉrû
-    ʾimrātekā. Deut praises Levi for it; Q requires it of every believer.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Levi says to father and mother ''I do not see you'' and disregards
     his brothers and children for God''s covenant (weight 6.7). Pair score 6.7.'
@@ -76,6 +45,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Levi says to father and mother 'I do not see you' and disregards his brothers and children for
+  God's covenant
+kinds:
+- parallel
+units:
+- id: hb-deut-33-blessing-of-moses
+  title: The Blessing of Moses on the tribes
+  tradition: judaism
+- id: quran-9-mosques-and-kin
+  title: Who maintains the mosques; God above family
+  tradition: islam
+matches:
+- kind: parallel
+  label: Levi says to father and mother 'I do not see you' and disregards his brothers and children for
+    God's covenant
+  note: 'Loyalty to God above father, brothers and sons: lā tattakhidhū ābāʾakum wa-ikhwānakum awliyāʾa
+    ini staḥabbū l-kufra ʿalā l-īmān; in kāna ābāʾukum wa-abnāʾukum wa-ikhwānukum ... aḥabba ilaykum mina
+    llāh vs hāʾōmēr lᵉʾābîw ûlᵉʾimmô lōʾ rᵉʾîtîw wᵉʾet-ʾeḥāyw lōʾ hikkîr wᵉʾet-bānāw lōʾ yādāʿ kî šāmᵉrû
+    ʾimrātekā. Deut praises Levi for it; Q requires it of every believer.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 33:9
+      lang: he
+      text: הָאֹמֵ֞ר לְאָבִ֤יו וּלְאִמּוֹ֙ לֹ֣א רְאִיתִ֔יו וְאֶת אֶחָיו֙ לֹ֣א הִכִּ֔יר וְאֶת בנו בָּנָ֖יו
+        לֹ֣א יָדָ֑ע כִּ֤י שָֽׁמְרוּ֙ אִמְרָתֶ֔ךָ וּבְרִֽיתְךָ֖ יִנְצֹֽרוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:23
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ
+        إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَٰنِ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَٰٓئِكَ هُمُ
+        ٱلظَّٰلِمُونَ
+    - ref: Quran 9:24
+      lang: ar
+      text: قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ
+        وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَٰكِنُ تَرْضَوْنَهَآ أَحَبَّ
+        إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ
+        ٱللَّهُ بِأَمْرِهِۦ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَٰسِقِينَ
 ---
 
 ## Questions

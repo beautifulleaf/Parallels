@@ -2,8 +2,7 @@
 id: motif-hb-mic-3-rulers-and-prophets-vs-quran-7-later-heirs-mountain
 title: Cannibal rulers, hireling prophets and Zion plowed as a field ↔ Heirs of the book and the mountain
   lifted over Israel
-summary: 'These two units share 1 motifs: later heirs of the scripture take worldly gain and say ''we
-  will be forgiven''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - heirs-of-book-take-worldly-gain
-passages:
-- tradition: judaism
-  ref: Mic 3:11
-  note: 'Later heirs of the scripture take worldly gain and say ''we will be forgiven'' (Custodians of
-    the teaching take money and count on God''s protection: warithū l-kitāba yaʾkhudhūna ʿaraḍa hādhā
-    l-adnā wa-yaqūlūna sa-yughfaru lanā vs kōhănêhā bimḥîr yôrû ûnᵉbîʾêhā bᵉkesep yiqsōmû wᵉʿal-YHWH yiššāʿēnû
-    lēʾmōr ... lōʾ-tābôʾ ʿālênû rāʿāh.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף יִקְסֹ֑מוּ
-    וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ רָעָֽה
-- tradition: islam
-  ref: Quran 7:169
-  note: Later heirs of the scripture take worldly gain and say 'we will be forgiven'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ وَيَقُولُونَ
-    سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ أَلَمْ يُؤْخَذْ عَلَيْهِم مِّيثَٰقُ
-    ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ وَٱلدَّارُ ٱلْءَاخِرَةُ
-    خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. Custodians of the teaching take money and count on God''s protection: warithū l-kitāba yaʾkhudhūna
-    ʿaraḍa hādhā l-adnā wa-yaqūlūna sa-yughfaru lanā vs kōhănêhā bimḥîr yôrû ûnᵉbîʾêhā bᵉkesep yiqsōmû
-    wᵉʿal-YHWH yiššāʿēnû lēʾmōr ... lōʾ-tābôʾ ʿālênû rāʿāh.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Later heirs of the scripture take worldly gain and say ''we will
     be forgiven'' (weight 6.7). Pair score 6.7.'
@@ -71,6 +48,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Later heirs of the scripture take worldly gain and say 'we will be forgiven'
+kinds:
+- parallel
+units:
+- id: hb-mic-3-rulers-and-prophets
+  title: Cannibal rulers, hireling prophets and Zion plowed as a field
+  tradition: judaism
+- id: quran-7-later-heirs-mountain
+  title: Heirs of the book and the mountain lifted over Israel
+  tradition: islam
+matches:
+- kind: parallel
+  label: Later heirs of the scripture take worldly gain and say 'we will be forgiven'
+  note: 'Custodians of the teaching take money and count on God''s protection: warithū l-kitāba yaʾkhudhūna
+    ʿaraḍa hādhā l-adnā wa-yaqūlūna sa-yughfaru lanā vs kōhănêhā bimḥîr yôrû ûnᵉbîʾêhā bᵉkesep yiqsōmû
+    wᵉʿal-YHWH yiššāʿēnû lēʾmōr ... lōʾ-tābôʾ ʿālênû rāʿāh.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 3:11
+      lang: he
+      text: רָאשֶׁ֣יהָ בְּשֹׁ֣חַד יִשְׁפֹּ֗טוּ וְכֹהֲנֶ֨יהָ֙ בִּמְחִ֣יר יוֹר֔וּ וּנְבִיאֶ֖יהָ בְּכֶ֣סֶף
+        יִקְסֹ֑מוּ וְעַל יְהוָה֙ יִשָּׁעֵ֣נוּ לֵאמֹ֔ר הֲל֤וֹא יְהוָה֙ בְּקִרְבֵּ֔נוּ לֹֽא תָב֥וֹא עָלֵ֖ינוּ
+        רָעָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 7:169
+      lang: ar
+      text: فَخَلَفَ مِنۢ بَعْدِهِمْ خَلْفٌ وَرِثُوا۟ ٱلْكِتَٰبَ يَأْخُذُونَ عَرَضَ هَٰذَا ٱلْأَدْنَىٰ
+        وَيَقُولُونَ سَيُغْفَرُ لَنَا وَإِن يَأْتِهِمْ عَرَضٌ مِّثْلُهُۥ يَأْخُذُوهُ أَلَمْ يُؤْخَذْ عَلَيْهِم
+        مِّيثَٰقُ ٱلْكِتَٰبِ أَن لَّا يَقُولُوا۟ عَلَى ٱللَّهِ إِلَّا ٱلْحَقَّ وَدَرَسُوا۟ مَا فِيهِ وَٱلدَّارُ
+        ٱلْءَاخِرَةُ خَيْرٌ لِّلَّذِينَ يَتَّقُونَ أَفَلَا تَعْقِلُونَ
 ---
 
 ## Questions

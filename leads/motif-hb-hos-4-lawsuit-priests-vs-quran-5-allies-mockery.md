@@ -2,8 +2,7 @@
 id: motif-hb-hos-4-lawsuit-priests-vs-quran-5-allies-mockery
 title: YHWH's lawsuit; priests, divination and cultic harlotry ↔ Allies, apostates replaced, the mocked
   call to prayer, apes and swine
-summary: 'These two units share 1 motifs: priests feed on the people''s sin and set their heart on their
-  iniquity.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,45 +14,9 @@ layers:
 - motif
 motifs:
 - priests-feed-on-sin-offerings
-passages:
-- tradition: judaism
-  ref: Hos 4:8
-  note: Priests feed on the people's sin and set their heart on their iniquity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חַטַּ֥את עַמִּ֖י יֹאכֵ֑לוּ וְאֶל עֲוֺנָ֖ם יִשְׂא֥וּ נַפְשֽׁוֹ
-- tradition: judaism
-  ref: Hos 4:6
-  note: Priests feed on the people's sin and set their heart on their iniquity
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּֽי אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן
-    לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם אָֽנִי
-- tradition: islam
-  ref: Quran 5:62
-  note: 'Priests feed on the people''s sin and set their heart on their iniquity (Religious leaders profit
-    from sin instead of stopping it. Q: law-lā yanhāhumu l-rabbāniyyūna wa-l-aḥbāru ʿan qawlihimu l-ithma
-    wa-aklihimu l-suḥta. Hos: ḥaṭṭaʾt ʿammî yōʾkhēlû wə-ʾel-ʿăwōnām yiśʾû nafšô ... wə-hāyāh khā-ʿām kak-kōhēn.
-    Both use the verb ''eat'' (akl / ʾ-k-l).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتَرَىٰ كَثِيرًا مِّنْهُمْ يُسَٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ لَبِئْسَ
-    مَا كَانُوا۟ يَعْمَلُونَ
-- tradition: islam
-  ref: Quran 5:63
-  note: 'Priests feed on the people''s sin and set their heart on their iniquity (Religious leaders profit
-    from sin instead of stopping it. Q: law-lā yanhāhumu l-rabbāniyyūna wa-l-aḥbāru ʿan qawlihimu l-ithma
-    wa-aklihimu l-suḥta. Hos: ḥaṭṭaʾt ʿammî yōʾkhēlû wə-ʾel-ʿăwōnām yiśʾû nafšô ... wə-hāyāh khā-ʿām kak-kōhēn.
-    Both use the verb ''eat'' (akl / ʾ-k-l).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ ٱلسُّحْتَ
-    لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Religious leaders profit from sin instead of stopping it. Q: law-lā yanhāhumu l-rabbāniyyūna
-    wa-l-aḥbāru ʿan qawlihimu l-ithma wa-aklihimu l-suḥta. Hos: ḥaṭṭaʾt ʿammî yōʾkhēlû wə-ʾel-ʿăwōnām
-    yiśʾû nafšô ... wə-hāyāh khā-ʿām kak-kōhēn. Both use the verb ''eat'' (akl / ʾ-k-l).'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Priests feed on the people''s sin and set their heart on their iniquity
     (weight 6.7). Pair score 6.7.'
@@ -83,6 +46,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Priests feed on the people's sin and set their heart on their iniquity
+kinds:
+- echo
+units:
+- id: hb-hos-4-lawsuit-priests
+  title: YHWH's lawsuit; priests, divination and cultic harlotry
+  tradition: judaism
+- id: quran-5-allies-mockery
+  title: Allies, apostates replaced, the mocked call to prayer, apes and swine
+  tradition: islam
+matches:
+- kind: echo
+  label: Priests feed on the people's sin and set their heart on their iniquity
+  note: 'Religious leaders profit from sin instead of stopping it. Q: law-lā yanhāhumu l-rabbāniyyūna
+    wa-l-aḥbāru ʿan qawlihimu l-ithma wa-aklihimu l-suḥta. Hos: ḥaṭṭaʾt ʿammî yōʾkhēlû wə-ʾel-ʿăwōnām
+    yiśʾû nafšô ... wə-hāyāh khā-ʿām kak-kōhēn. Both use the verb ''eat'' (akl / ʾ-k-l).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Hos 4:6
+      lang: he
+      text: נִדְמ֥וּ עַמִּ֖י מִבְּלִ֣י הַדָּ֑עַת כִּֽי אַתָּ֞ה הַדַּ֣עַת מָאַ֗סְתָּ וְאֶמְאָֽסְאךָ֙ מִכַּהֵ֣ן
+        לִ֔י וַתִּשְׁכַּח֙ תּוֹרַ֣ת אֱלֹהֶ֔יךָ אֶשְׁכַּ֥ח בָּנֶ֖יךָ גַּם אָֽנִי
+    - ref: Hos 4:8
+      lang: he
+      text: חַטַּ֥את עַמִּ֖י יֹאכֵ֑לוּ וְאֶל עֲוֺנָ֖ם יִשְׂא֥וּ נַפְשֽׁוֹ
+    - ref: Hos 4:9
+      lang: he
+      text: וְהָיָ֥ה כָעָ֖ם כַּכֹּהֵ֑ן וּפָקַדְתִּ֤י עָלָיו֙ דְּרָכָ֔יו וּמַעֲלָלָ֖יו אָשִׁ֥יב לֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 5:62
+      lang: ar
+      text: وَتَرَىٰ كَثِيرًا مِّنْهُمْ يُسَٰرِعُونَ فِى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ وَأَكْلِهِمُ ٱلسُّحْتَ
+        لَبِئْسَ مَا كَانُوا۟ يَعْمَلُونَ
+    - ref: Quran 5:63
+      lang: ar
+      text: لَوْلَا يَنْهَىٰهُمُ ٱلرَّبَّٰنِيُّونَ وَٱلْأَحْبَارُ عَن قَوْلِهِمُ ٱلْإِثْمَ وَأَكْلِهِمُ
+        ٱلسُّحْتَ لَبِئْسَ مَا كَانُوا۟ يَصْنَعُونَ
 ---
 
 ## Questions

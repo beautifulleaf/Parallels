@@ -2,7 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-44-dukhan-blessed-night-and-smoke
 title: 'Lot''s guests and the destruction of Sodom and Gomorrah ↔ Ha-Mim: the blessed night and the day
   of the smoke'
-summary: 'These two units share 1 motifs: smoke rises from the destroyed land like smoke of a kiln.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,25 +14,9 @@ layers:
 - motif
 motifs:
 - smoke-like-a-furnace
-passages:
-- tradition: judaism
-  ref: Gen 19:28
-  note: Smoke rises from the destroyed land like smoke of a kiln
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּשְׁקֵ֗ף עַל פְּנֵ֤י סְדֹם֙ וַעֲמֹרָ֔ה וְעַֽל כָּל פְּנֵ֖י אֶ֣רֶץ הַכִּכָּ֑ר וַיַּ֗רְא וְהִנֵּ֤ה
-    עָלָה֙ קִיטֹ֣ר הָאָ֔רֶץ כְּקִיטֹ֖ר הַכִּבְשָֽׁן
-- tradition: islam
-  ref: Quran 44:10
-  note: Smoke rises from the destroyed land like smoke of a kiln
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. wə-hinnēh ʿālâ qîṭōr hā-ʾāreṣ kə-qîṭōr hak-kiḇšān (the smoke of the land rising like a kiln''s)
-    vs. taʾtī s-samāʾu bi-dukhānin mubīn. Reversed direction: at Sodom the smoke rises from the destroyed
-    earth after the punishment; in Q 44 it comes from the sky as the punishment.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Smoke rises from the destroyed land like smoke of a kiln (weight
     6.7). Pair score 6.7.'
@@ -67,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Smoke rises from the destroyed land like smoke of a kiln
+kinds:
+- echo
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-44-dukhan-blessed-night-and-smoke
+  title: 'Ha-Mim: the blessed night and the day of the smoke'
+  tradition: islam
+matches:
+- kind: echo
+  label: Smoke rises from the destroyed land like smoke of a kiln
+  note: 'wə-hinnēh ʿālâ qîṭōr hā-ʾāreṣ kə-qîṭōr hak-kiḇšān (the smoke of the land rising like a kiln''s)
+    vs. taʾtī s-samāʾu bi-dukhānin mubīn. Reversed direction: at Sodom the smoke rises from the destroyed
+    earth after the punishment; in Q 44 it comes from the sky as the punishment.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:28
+      lang: he
+      text: וַיַּשְׁקֵ֗ף עַל פְּנֵ֤י סְדֹם֙ וַעֲמֹרָ֔ה וְעַֽל כָּל פְּנֵ֖י אֶ֣רֶץ הַכִּכָּ֑ר וַיַּ֗רְא
+        וְהִנֵּ֤ה עָלָה֙ קִיטֹ֣ר הָאָ֔רֶץ כְּקִיטֹ֖ר הַכִּבְשָֽׁן
+  - tradition: islam
+    passages:
+    - ref: Quran 44:10
+      lang: ar
+      text: فَٱرْتَقِبْ يَوْمَ تَأْتِى ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ
 ---
 
 ## Questions

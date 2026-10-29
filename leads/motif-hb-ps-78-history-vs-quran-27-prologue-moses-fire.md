@@ -2,8 +2,7 @@
 id: motif-hb-ps-78-history-vs-quran-27-prologue-moses-fire
 title: Psalm 78, Asaph's historical recital from Egypt to David ↔ Ta Sin; Moses at the fire, the jann-staff
   and the nine signs
-summary: 'These two units share 1 motifs: a poetic list of the egyptian plagues differs in number and
-  order from exodus.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,42 +14,9 @@ layers:
 - motif
 motifs:
 - variant-plague-list
-passages:
-- tradition: judaism
-  ref: Ps 78:44-51
-  note: A poetic list of the Egyptian plagues differs in number and order from Exodus (blood, swarms,
-    frogs, caterpillar/locust, hail and frost, cattle to hail and fiery bolts, pestilence, firstborn;
-    no lice, boils or darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: (78:44) וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן (78:45) יְשַׁלַּ֬ח בָּהֶ֣ם
-    עָ֭רֹב וַיֹּאכְלֵ֑ם וּ֝צְפַרְדֵּ֗עַ וַתַּשְׁחִיתֵֽם (78:46) וַיִּתֵּ֣ן לֶחָסִ֣יל יְבוּלָ֑ם וִֽ֝יגִיעָ֗ם
-    לָאַרְבֶּֽה (78:47) יַהֲרֹ֣ג בַּבָּרָ֣ד גַּפְנָ֑ם וְ֝שִׁקְמוֹתָ֗ם בַּֽחֲנָמַֽל (78:48) וַיַּסְגֵּ֣ר
-    לַבָּרָ֣ד בְּעִירָ֑ם וּ֝מִקְנֵיהֶ֗ם לָרְשָׁפִֽים (78:49) יְשַׁלַּח בָּ֨ם חֲר֬וֹן אַפּ֗וֹ עֶבְרָ֣ה
-    וָזַ֣עַם וְצָרָ֑ה מִ֝שְׁלַ֗חַת מַלְאֲכֵ֥י רָעִֽים (78:50) יְפַלֵּ֥ס נָתִ֗יב לְאַ֫פּ֥וֹ לֹא חָשַׂ֣ךְ
-    מִמָּ֣וֶת נַפְשָׁ֑ם וְ֝חַיָּתָ֗ם לַדֶּ֥בֶר הִסְגִּֽיר (78:51) וַיַּ֣ךְ כָּל בְּכ֣וֹר בְּמִצְרָ֑יִם
-    רֵאשִׁ֥ית א֝וֹנִ֗ים בְּאָהֳלֵי חָֽם
-- tradition: judaism
-  ref: Ps 78:44
-  note: A poetic list of the Egyptian plagues differs in number and order from Exodus (blood, swarms,
-    frogs, caterpillar/locust, hail and frost, cattle to hail and fiery bolts, pestilence, firstborn;
-    no lice, boils or darkness)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
-- tradition: islam
-  ref: Quran 27:12
-  note: 'A poetic list of the Egyptian plagues differs in number and order from Exodus (tisʿi āyātin ~
-    ʾăšer śām bə-Miṣrayim ʾōtôtāyw û-môftāyw bi-śdēh Ṣōʿan: the wonders in Egypt as ''signs'' (āyāt /
-    ʾōtôt), counted differently in each list.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ إِلَىٰ
-    فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. tisʿi āyātin ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw û-môftāyw bi-śdēh Ṣōʿan: the wonders in Egypt
-    as ''signs'' (āyāt / ʾōtôt), counted differently in each list.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A poetic list of the Egyptian plagues differs in number and order
     from Exodus (weight 6.0). Pair score 6.0.'
@@ -86,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A poetic list of the Egyptian plagues differs in number and order from Exodus
+kinds:
+- echo
+units:
+- id: hb-ps-78-history
+  title: Psalm 78, Asaph's historical recital from Egypt to David
+  tradition: judaism
+- id: quran-27-prologue-moses-fire
+  title: Ta Sin; Moses at the fire, the jann-staff and the nine signs
+  tradition: islam
+matches:
+- kind: echo
+  label: A poetic list of the Egyptian plagues differs in number and order from Exodus
+  note: 'tisʿi āyātin ~ ʾăšer śām bə-Miṣrayim ʾōtôtāyw û-môftāyw bi-śdēh Ṣōʿan: the wonders in Egypt as
+    ''signs'' (āyāt / ʾōtôt), counted differently in each list.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 78:43
+      lang: he
+      text: אֲשֶׁר שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה צֹֽעַן
+    - ref: Ps 78:44
+      lang: he
+      text: וַיַּהֲפֹ֣ךְ לְ֭דָם יְאֹרֵיהֶ֑ם וְ֝נֹזְלֵיהֶ֗ם בַּל יִשְׁתָּיֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 27:12
+      lang: ar
+      text: وَأَدْخِلْ يَدَكَ فِى جَيْبِكَ تَخْرُجْ بَيْضَآءَ مِنْ غَيْرِ سُوٓءٍ فِى تِسْعِ ءَايَٰتٍ
+        إِلَىٰ فِرْعَوْنَ وَقَوْمِهِۦٓ إِنَّهُمْ كَانُوا۟ قَوْمًا فَٰسِقِينَ
 ---
 
 ## Questions

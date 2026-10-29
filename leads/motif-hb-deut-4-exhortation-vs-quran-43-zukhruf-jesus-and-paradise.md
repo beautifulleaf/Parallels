@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-43-zukhruf-jesus-and-paradise
 title: Exhortation at Horeb's memory; no image; exile and return ↔ The son of Mary as an example and sign
   of the Hour; the Garden with golden dishes; Malik of hell
-summary: 'These two units share 1 motifs: he it is who in heaven is god and on earth is god.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,30 +15,9 @@ layers:
 - motif
 motifs:
 - god-is-god-in-heaven-and-on-earth
-passages:
-- tradition: judaism
-  ref: Deut 4:39
-  note: 'He it is who in heaven is God and on earth is God (Nearly the same confession: kî YHWH hûʾ hā-ʾĕlōhîm
-    baš-šāmayim mim-maʿal wə-ʿal hā-ʾāreṣ mit-tāḥaṯ ʾên ʿôḏ vs. wa-huwa lladhī fī s-samāʾi ilāhun wa-fī
-    l-arḍi ilāhun wa-huwa l-ḥakīmu l-ʿalīm. Both pair heaven and earth (fī s-samāʾ / baš-šāmayim; fī l-arḍ
-    / ʿal hā-ʾāreṣ). Deuteronomy ends with ʾên ʿôḏ; the Quran puts it after rejecting a son for the Merciful
-    (43:81).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל לְבָבֶךָ֒ כִּ֤י יְהוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם
-    מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד
-- tradition: islam
-  ref: Quran 43:84
-  note: He it is who in heaven is God and on earth is God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَٰهٌ وَفِى ٱلْأَرْضِ إِلَٰهٌ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Nearly the same confession: kî YHWH hûʾ hā-ʾĕlōhîm baš-šāmayim mim-maʿal wə-ʿal hā-ʾāreṣ
-    mit-tāḥaṯ ʾên ʿôḏ vs. wa-huwa lladhī fī s-samāʾi ilāhun wa-fī l-arḍi ilāhun wa-huwa l-ḥakīmu l-ʿalīm.
-    Both pair heaven and earth (fī s-samāʾ / baš-šāmayim; fī l-arḍ / ʿal hā-ʾāreṣ). Deuteronomy ends with
-    ʾên ʿôḏ; the Quran puts it after rejecting a son for the Merciful (43:81).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: He it is who in heaven is God and on earth is God (weight 6.7).
     Pair score 6.7.'
@@ -75,6 +54,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: He it is who in heaven is God and on earth is God
+kinds:
+- parallel
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-43-zukhruf-jesus-and-paradise
+  title: The son of Mary as an example and sign of the Hour; the Garden with golden dishes; Malik of hell
+  tradition: islam
+matches:
+- kind: parallel
+  label: He it is who in heaven is God and on earth is God
+  note: 'Nearly the same confession: kî YHWH hûʾ hā-ʾĕlōhîm baš-šāmayim mim-maʿal wə-ʿal hā-ʾāreṣ mit-tāḥaṯ
+    ʾên ʿôḏ vs. wa-huwa lladhī fī s-samāʾi ilāhun wa-fī l-arḍi ilāhun wa-huwa l-ḥakīmu l-ʿalīm. Both pair
+    heaven and earth (fī s-samāʾ / baš-šāmayim; fī l-arḍ / ʿal hā-ʾāreṣ). Deuteronomy ends with ʾên ʿôḏ;
+    the Quran puts it after rejecting a son for the Merciful (43:81).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:39
+      lang: he
+      text: וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל לְבָבֶךָ֒ כִּ֤י יְהוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם
+        מִמַּ֔עַל וְעַל הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד
+  - tradition: islam
+    passages:
+    - ref: Quran 43:84
+      lang: ar
+      text: وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَٰهٌ وَفِى ٱلْأَرْضِ إِلَٰهٌ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ
 ---
 
 ## Questions

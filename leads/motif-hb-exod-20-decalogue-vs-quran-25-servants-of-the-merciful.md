@@ -1,8 +1,7 @@
 ---
 id: motif-hb-exod-20-decalogue-vs-quran-25-servants-of-the-merciful
 title: The Ten Words and the people's fear ↔ The virtues of the servants of the Merciful
-summary: 'These two units share 2 motifs: prohibitions of murder, adultery, theft and false witness [divergence
-  between the texts], prohibitions of murder, adultery, theft and false witness.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,91 +14,9 @@ layers:
 motifs:
 - prohibition-murder-adultery-theft-false-witness-as-divergence
 - prohibition-murder-adultery-theft-false-witness
-passages:
-- tradition: judaism
-  ref: Exod 20:3
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
-- tradition: judaism
-  ref: Exod 20:13
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: islam
-  ref: Quran 25:68
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
-- tradition: islam
-  ref: Quran 25:72
-  note: 'Prohibitions of murder, adultery, theft and false witness [divergence between the texts] (The
-    same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi ilāhan
-    ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
-    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
-    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
-    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
-    punishment and an exception for those who repent (25:69-70).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
-- tradition: judaism
-  ref: Exod 20:13
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּרְצָֽח
-- tradition: judaism
-  ref: Exod 20:14
-  note: Prohibitions of murder, adultery, theft and false witness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֖א תִּנְאָֽף
-- tradition: islam
-  ref: Quran 25:68
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى حَرَّمَ
-    ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
-- tradition: islam
-  ref: Quran 25:72
-  note: Prohibitions of murder, adultery, theft and false witness (no other god, no killing except by
-    right, no fornication; they do not witness falsehood (al-zūr))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    divergence. The same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna
-    maʿa llāhi ilāhan ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna
-    ... lā yashhadūna z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh
-    və-rēʿăkā ʿēd šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā
-    bi-l-ḥaqq); theft is left out; the commands become a description of the righteous (alladhīna lā ...),
-    followed by doubled punishment and an exception for those who repent (25:69-70).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Prohibitions of murder, adultery, theft and false witness [divergence
     between the texts] (weight 5.8); Prohibitions of murder, adultery, theft and false witness (weight
@@ -132,6 +49,46 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Prohibitions of murder, adultery, theft and false witness
+kinds:
+- divergence
+units:
+- id: hb-exod-20-decalogue
+  title: The Ten Words and the people's fear
+  tradition: judaism
+- id: quran-25-servants-of-the-merciful
+  title: The virtues of the servants of the Merciful
+  tradition: islam
+matches:
+- kind: divergence
+  label: Prohibitions of murder, adultery, theft and false witness
+  note: 'The same sequence: no other god, no killing, no adultery, no false witness: lā yadʿūna maʿa llāhi
+    ilāhan ākhara wa-lā yaqtulūna n-nafsa llatī ḥarrama llāhu illā bi-l-ḥaqqi wa-lā yaznūna ... lā yashhadūna
+    z-zūra ~ lōʾ yihyeh ləkhā ʾĕlōhîm ʾăḥērîm ... lōʾ tirṣāḥ lōʾ tinʾāf ... lōʾ taʿăneh və-rēʿăkā ʿēd
+    šāqer. Changes: the absolute lōʾ tirṣāḥ gets an exception (''except by right'', illā bi-l-ḥaqq); theft
+    is left out; the commands become a description of the righteous (alladhīna lā ...), followed by doubled
+    punishment and an exception for those who repent (25:69-70).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 20:3
+      lang: he
+      text: לֹֽ֣א יִהְיֶֽה לְךָ֛ אֱלֹהִ֥ים אֲחֵרִ֖ים עַל פָּנָֽיַ
+    - ref: Exod 20:13
+      lang: he
+      text: לֹ֖א תִּרְצָֽח
+    - ref: Exod 20:14
+      lang: he
+      text: לֹ֖א תִּנְאָֽף
+  - tradition: islam
+    passages:
+    - ref: Quran 25:68
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَدْعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقْتُلُونَ ٱلنَّفْسَ ٱلَّتِى
+        حَرَّمَ ٱللَّهُ إِلَّا بِٱلْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا
+    - ref: Quran 25:72
+      lang: ar
+      text: وَٱلَّذِينَ لَا يَشْهَدُونَ ٱلزُّورَ وَإِذَا مَرُّوا۟ بِٱللَّغْوِ مَرُّوا۟ كِرَامًا
 ---
 
 ## Questions

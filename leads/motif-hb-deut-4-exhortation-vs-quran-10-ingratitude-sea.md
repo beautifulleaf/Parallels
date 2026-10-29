@@ -2,7 +2,7 @@
 id: motif-hb-deut-4-exhortation-vs-quran-10-ingratitude-sea
 title: Exhortation at Horeb's memory; no image; exile and return ↔ Prayer in distress, a changed Quran,
   the storm at sea
-summary: 'These two units share 1 motifs: command not to add to or subtract from the divine words.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +15,9 @@ layers:
 - motif
 motifs:
 - no-adding-or-subtracting
-passages:
-- tradition: judaism
-  ref: Deut 4:2
-  note: Command not to add to or subtract from the divine words
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֣א תֹסִ֗פוּ עַל הַדָּבָר֙ אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם וְלֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ לִשְׁמֹ֗ר
-    אֶת מִצְוֺת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֥ה אֶתְכֶֽם
-- tradition: islam
-  ref: Quran 10:15
-  note: 'Command not to add to or subtract from the divine words (The revealed word may not be altered:
-    qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu
-    min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا ٱئْتِ
-    بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ نَفْسِىٓ
-    إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ
-- tradition: islam
-  ref: Quran 10:16
-  note: 'Command not to add to or subtract from the divine words (The revealed word may not be altered:
-    qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu
-    min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ فِيكُمْ
-    عُمُرًا مِّن قَبْلِهِۦٓ أَفَلَا تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    parallel. The revealed word may not be altered: qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin
-    ghayri hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār
-    ʾăšer ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Command not to add to or subtract from the divine words (weight
     6.0). Pair score 6.0.'
@@ -83,6 +54,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Command not to add to or subtract from the divine words
+kinds:
+- parallel
+units:
+- id: hb-deut-4-exhortation
+  title: Exhortation at Horeb's memory; no image; exile and return
+  tradition: judaism
+- id: quran-10-ingratitude-sea
+  title: Prayer in distress, a changed Quran, the storm at sea
+  tradition: islam
+matches:
+- kind: parallel
+  label: Command not to add to or subtract from the divine words
+  note: 'The revealed word may not be altered: qāla lladhīna lā yarjūna liqāʾanā iʾti bi-qurʾānin ghayri
+    hādhā aw baddilhu qul mā yakūnu lī an ubaddilahu min tilqāʾi nafsī vs lōʾ tōsipû ʿal-haddābār ʾăšer
+    ʾānōkî mᵉṣawweh ʾetkem wᵉlōʾ tigrᵉʿû mimmennû.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 4:2
+      lang: he
+      text: לֹ֣א תֹסִ֗פוּ עַל הַדָּבָר֙ אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם וְלֹ֥א תִגְרְע֖וּ מִמֶּ֑נּוּ
+        לִשְׁמֹ֗ר אֶת מִצְוֺת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֥ה אֶתְכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 10:15
+      lang: ar
+      text: وَإِذَا تُتْلَىٰ عَلَيْهِمْ ءَايَاتُنَا بَيِّنَٰتٍ قَالَ ٱلَّذِينَ لَا يَرْجُونَ لِقَآءَنَا
+        ٱئْتِ بِقُرْءَانٍ غَيْرِ هَٰذَآ أَوْ بَدِّلْهُ قُلْ مَا يَكُونُ لِىٓ أَنْ أُبَدِّلَهُۥ مِن تِلْقَآئِ
+        نَفْسِىٓ إِنْ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَىَّ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ
+        يَوْمٍ عَظِيمٍ
+    - ref: Quran 10:16
+      lang: ar
+      text: قُل لَّوْ شَآءَ ٱللَّهُ مَا تَلَوْتُهُۥ عَلَيْكُمْ وَلَآ أَدْرَىٰكُم بِهِۦ فَقَدْ لَبِثْتُ
+        فِيكُمْ عُمُرًا مِّن قَبْلِهِۦٓ أَفَلَا تَعْقِلُونَ
 ---
 
 ## Questions

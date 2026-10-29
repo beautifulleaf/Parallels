@@ -2,7 +2,7 @@
 id: motif-hb-deut-32-song-of-moses-vs-quran-45-jathiya-signs-and-israel
 title: 'The Song of Moses (Ha''azinu) ↔ Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s
   shari''a'
-summary: 'These two units share 1 motifs: vengeance and recompense are mine.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,33 +14,9 @@ layers:
 - motif
 motifs:
 - vengeance-is-mine
-passages:
-- tradition: judaism
-  ref: Deut 32:34
-  note: Vengeance and recompense are mine (sealed up in my treasuries)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הֲלֹא ה֖וּא כָּמֻ֣ס עִמָּדִ֑י חָתֻ֖ם בְּאוֹצְרֹתָֽי
-- tradition: judaism
-  ref: Deut 32:35
-  note: Vengeance and recompense are mine (sealed up in my treasuries)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לִ֤י נָקָם֙ וְשִׁלֵּ֔ם לְעֵ֖ת תָּמ֣וּט רַגְלָ֑ם כִּ֤י קָרוֹב֙ י֣וֹם אֵידָ֔ם וְחָ֖שׁ עֲתִדֹ֥ת לָֽמוֹ
-- tradition: islam
-  ref: Quran 45:14
-  note: 'Vengeance and recompense are mine (Repayment left to God: lî nāqām wə-šillēm lə-ʿēṯ tāmûṭ raḡlām
-    vs. qul li-lladhīna āmanū yaghfirū li-lladhīna lā yarjūna ayyāma llāhi li-yajziya qawman bi-mā kānū
-    yaksibūn. The Quran draws a rule for believers from it: forgive, because God will repay.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ قَوْمًۢا
-    بِمَا كَانُوا۟ يَكْسِبُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Repayment left to God: lî nāqām wə-šillēm lə-ʿēṯ tāmûṭ raḡlām vs. qul li-lladhīna āmanū yaghfirū
-    li-lladhīna lā yarjūna ayyāma llāhi li-yajziya qawman bi-mā kānū yaksibūn. The Quran draws a rule
-    for believers from it: forgive, because God will repay.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Vengeance and recompense are mine (weight 6.3). Pair score 6.3.'
   basis: reading
@@ -76,6 +52,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Vengeance and recompense are mine
+kinds:
+- echo
+units:
+- id: hb-deut-32-song-of-moses
+  title: The Song of Moses (Ha'azinu)
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: echo
+  label: Vengeance and recompense are mine
+  note: 'Repayment left to God: lî nāqām wə-šillēm lə-ʿēṯ tāmûṭ raḡlām vs. qul li-lladhīna āmanū yaghfirū
+    li-lladhīna lā yarjūna ayyāma llāhi li-yajziya qawman bi-mā kānū yaksibūn. The Quran draws a rule
+    for believers from it: forgive, because God will repay.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 32:35
+      lang: he
+      text: לִ֤י נָקָם֙ וְשִׁלֵּ֔ם לְעֵ֖ת תָּמ֣וּט רַגְלָ֑ם כִּ֤י קָרוֹב֙ י֣וֹם אֵידָ֔ם וְחָ֖שׁ עֲתִדֹ֥ת
+        לָֽמוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:14
+      lang: ar
+      text: قُل لِّلَّذِينَ ءَامَنُوا۟ يَغْفِرُوا۟ لِلَّذِينَ لَا يَرْجُونَ أَيَّامَ ٱللَّهِ لِيَجْزِىَ
+        قَوْمًۢا بِمَا كَانُوا۟ يَكْسِبُونَ
 ---
 
 ## Questions

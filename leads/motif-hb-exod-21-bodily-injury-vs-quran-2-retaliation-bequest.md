@@ -1,9 +1,7 @@
 ---
 id: motif-hb-exod-21-bodily-injury-vs-quran-2-retaliation-bequest
 title: Covenant Code - homicide, injury and the goring ox ↔ Retaliation and bequests
-summary: 'These two units share 3 motifs: a negligent owner may pay a ransom for his life, retaliation
-  (talion) for killing or injury [divergence between the texts], eye for an eye, tooth for a tooth (lex
-  talionis).'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -18,99 +16,9 @@ motifs:
 - ransom-for-life-of-negligent-owner
 - retaliation-for-a-life-as-divergence
 - eye-for-eye
-passages:
-- tradition: judaism
-  ref: Exod 21:30
-  note: A negligent owner may pay a ransom for his life (kofer)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר יוּשַׁ֖ת עָלָֽיו
-- tradition: islam
-  ref: Quran 2:178
-  note: 'A negligent owner may pay a ransom for his life (Exod 21:30 ʾim kōper yûšat ʿālāyw wĕ-nātan pidyōn
-    napšô: a payment may redeem the life of the owner of a goring ox; Q 2:178 wa-adāʾun ilayhi bi-iḥsānin:
-    payment in place of retaliation. In Exodus only for indirect killing; in the Quran for any killing,
-    by the kin''s choice.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
-    وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
-    بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
-    ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
-- tradition: judaism
-  ref: Exod 21:20
-  note: 'Retaliation (talion) for killing or injury [divergence between the texts] (Exod 21:23 wĕ-nātattâ
-    nepeš taḥat nāpeš, but a slave killed by his master only ''shall be avenged'' (21:20 nāqōm yinnāqēm)
-    and one who survives a day is not (21:21); Q 2:178 al-ḥurru bi-l-ḥurri wa-l-ʿabdu bi-l-ʿabdi wa-l-unthā
-    bi-l-unthā: talion matched by status class, free for free, slave for slave, female for female. Both
-    grade the victim by status, in different ways.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְכִֽי יַכֶּה֩ אִ֨ישׁ אֶת עַבְדּ֜וֹ א֤וֹ אֶת אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם
-    יִנָּקֵֽם
-- tradition: judaism
-  ref: Exod 21:23
-  note: 'Retaliation (talion) for killing or injury [divergence between the texts] (Exod 21:23 wĕ-nātattâ
-    nepeš taḥat nāpeš, but a slave killed by his master only ''shall be avenged'' (21:20 nāqōm yinnāqēm)
-    and one who survives a day is not (21:21); Q 2:178 al-ḥurru bi-l-ḥurri wa-l-ʿabdu bi-l-ʿabdi wa-l-unthā
-    bi-l-unthā: talion matched by status class, free for free, slave for slave, female for female. Both
-    grade the victim by status, in different ways.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
-- tradition: islam
-  ref: Quran 2:178
-  note: 'Retaliation (talion) for killing or injury [divergence between the texts] (Deut 19:21 wĕ-lōʾ
-    tāḥôs ʿênekā nepeš bĕ-nepeš ʿayin bĕ-ʿayin: talion with the explicit command ''show no pity''; Q 2:178
-    kutiba ʿalaykumu l-qiṣāṣu ... fa-man ʿufiya lahu: talion prescribed, but pardon is offered at once.
-    The deterrent purpose is shared: Deut 19:20 wĕ-ha-nnišʾārîm yišmĕʿû wĕ-yirāʾû wĕ-lōʾ yōsipû vs Q 2:179
-    wa-lakum fī l-qiṣāṣi ḥayātun ''in retaliation there is life for you''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
-    وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
-    بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
-    ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
-- tradition: islam
-  ref: Quran 2:179
-  note: 'Retaliation (talion) for killing or injury [divergence between the texts] (Deut 19:21 wĕ-lōʾ
-    tāḥôs ʿênekā nepeš bĕ-nepeš ʿayin bĕ-ʿayin: talion with the explicit command ''show no pity''; Q 2:178
-    kutiba ʿalaykumu l-qiṣāṣu ... fa-man ʿufiya lahu: talion prescribed, but pardon is offered at once.
-    The deterrent purpose is shared: Deut 19:20 wĕ-ha-nnišʾārîm yišmĕʿû wĕ-yirāʾû wĕ-lōʾ yōsipû vs Q 2:179
-    wa-lakum fī l-qiṣāṣi ḥayātun ''in retaliation there is life for you''.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَكُمْ فِى ٱلْقِصَاصِ حَيَوٰةٌ يَٰٓأُو۟لِى ٱلْأَلْبَٰبِ لَعَلَّكُمْ تَتَّقُونَ
-- tradition: judaism
-  ref: Exod 21:23
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life, eye, tooth, hand, foot, burn, wound, bruise)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
-- tradition: judaism
-  ref: Exod 21:24
-  note: Eye for an eye, tooth for a tooth (lex talionis) (life, eye, tooth, hand, foot, burn, wound, bruise)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל
-- tradition: islam
-  ref: Quran 2:178
-  note: Eye for an eye, tooth for a tooth (lex talionis)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
-    وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
-    بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
-    ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    divergence, echo. Exod 21:23 wĕ-nātattâ nepeš taḥat nāpeš, but a slave killed by his master only ''shall
-    be avenged'' (21:20 nāqōm yinnāqēm) and one who survives a day is not (21:21); Q 2:178 al-ḥurru bi-l-ḥurri
-    wa-l-ʿabdu bi-l-ʿabdi wa-l-unthā bi-l-unthā: talion matched by status class, free for free, slave
-    for slave, female for female. Both grade the victim by status, in different ways. Exod 21:30 ʾim kōper
-    yûšat ʿālāyw wĕ-nātan pidyōn napšô: a payment may redeem the life of the owner of a goring ox; Q 2:178
-    wa-adāʾun ilayhi bi-iḥsānin: payment in place of retaliation. In Exodus only for indirect killing;
-    in the Quran for any killing, by the kin''s choice.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: A negligent owner may pay a ransom for his life (weight 6.3); Retaliation
     (talion) for killing or injury [divergence between the texts] (weight 6.0); Eye for an eye, tooth
@@ -138,6 +46,85 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Retaliation (talion) for killing or injury
+kinds:
+- divergence
+- echo
+- shared
+units:
+- id: hb-exod-21-bodily-injury
+  title: Covenant Code - homicide, injury and the goring ox
+  tradition: judaism
+- id: quran-2-retaliation-bequest
+  title: Retaliation and bequests
+  tradition: islam
+matches:
+- kind: divergence
+  label: Retaliation (talion) for killing or injury
+  note: 'Exod 21:23 wĕ-nātattâ nepeš taḥat nāpeš, but a slave killed by his master only ''shall be avenged''
+    (21:20 nāqōm yinnāqēm) and one who survives a day is not (21:21); Q 2:178 al-ḥurru bi-l-ḥurri wa-l-ʿabdu
+    bi-l-ʿabdi wa-l-unthā bi-l-unthā: talion matched by status class, free for free, slave for slave,
+    female for female. Both grade the victim by status, in different ways.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:20
+      lang: he
+      text: וְכִֽי יַכֶּה֩ אִ֨ישׁ אֶת עַבְדּ֜וֹ א֤וֹ אֶת אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם
+        יִנָּקֵֽם
+    - ref: Exod 21:23
+      lang: he
+      text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 2:178
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
+        وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
+        بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
+        ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
+- kind: echo
+  label: A negligent owner may pay a ransom for his life
+  note: 'Exod 21:30 ʾim kōper yûšat ʿālāyw wĕ-nātan pidyōn napšô: a payment may redeem the life of the
+    owner of a goring ox; Q 2:178 wa-adāʾun ilayhi bi-iḥsānin: payment in place of retaliation. In Exodus
+    only for indirect killing; in the Quran for any killing, by the kin''s choice.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:30
+      lang: he
+      text: אִם כֹּ֖פֶר יוּשַׁ֣ת עָלָ֑יו וְנָתַן֙ פִּדְיֹ֣ן נַפְשׁ֔וֹ כְּכֹ֥ל אֲשֶׁר יוּשַׁ֖ת עָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 2:178
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
+        وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
+        بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
+        ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
+- kind: shared
+  label: Eye for an eye, tooth for a tooth (lex talionis)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 21:23
+      lang: he
+      text: וְאִם אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ
+    - ref: Exod 21:24
+      lang: he
+      text: עַ֚יִן תַּ֣חַת עַ֔יִן שֵׁ֖ן תַּ֣חַת שֵׁ֑ן יָ֚ד תַּ֣חַת יָ֔ד רֶ֖גֶל תַּ֥חַת רָֽגֶל
+    - ref: Exod 21:25
+      lang: he
+      text: כְּוִיָּה֙ תַּ֣חַת כְּוִיָּ֔ה פֶּ֖צַע תַּ֣חַת פָּ֑צַע חַבּוּרָ֕ה תַּ֖חַת חַבּוּרָֽה
+    note: life, eye, tooth, hand, foot, burn, wound, bruise
+  - tradition: islam
+    passages:
+    - ref: Quran 2:178
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِى ٱلْقَتْلَى ٱلْحُرُّ بِٱلْحُرِّ
+        وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلْأُنثَىٰ بِٱلْأُنثَىٰ فَمَنْ عُفِىَ لَهُۥ مِنْ أَخِيهِ شَىْءٌ فَٱتِّبَاعٌۢ
+        بِٱلْمَعْرُوفِ وَأَدَآءٌ إِلَيْهِ بِإِحْسَٰنٍ ذَٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ فَمَنِ
+        ٱعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٌ
 ---
 
 ## Questions

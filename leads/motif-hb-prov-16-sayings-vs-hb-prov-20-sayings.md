@@ -2,10 +2,7 @@
 id: motif-hb-prov-16-sayings-vs-hb-prov-20-sayings
 title: YHWH sayings and royal sayings (man plans, God disposes) ↔ Sayings on wine, the king's throne and
   the lamp of YHWH
-summary: 'These two units share 6 motifs: grey hair is a crown of glory, found in the way of righteousness,
-  getting wisdom is better than gold, understanding than silver or jewels, the throne is established by
-  righteousness (and loyalty), the heart of man plans his way but yhwh directs his steps; only yhwh''s
-  counsel stands….'
+summary: 6 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - internal
@@ -16,116 +13,16 @@ layers:
 - motif
 motifs:
 - grey-hair-crown-of-glory
-- wisdom-better-than-gold
 - throne-established-by-righteousness
+- wisdom-better-than-gold
 - man-plans-god-disposes
 - abomination-to-yhwh-saying
 - just-weights-and-measures
-passages:
-- tradition: judaism
-  ref: Prov 16:31
-  note: Grey hair is a crown of glory, found in the way of righteousness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲטֶ֣רֶת תִּפְאֶ֣רֶת שֵׂיבָ֑ה בְּדֶ֥רֶךְ צְ֝דָקָ֗ה תִּמָּצֵֽא
-- tradition: judaism
-  ref: Prov 20:29
-  note: Grey hair is a crown of glory, found in the way of righteousness
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תִּפְאֶ֣רֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה
-- tradition: judaism
-  ref: Prov 16:16
-  note: Getting wisdom is better than gold, understanding than silver or jewels
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: קְֽנֹה חָכְמָ֗ה מַה טּ֥וֹב מֵחָר֑וּץ וּקְנ֥וֹת בִּ֝ינָ֗ה נִבְחָ֥ר מִכָּֽסֶף
-- tradition: judaism
-  ref: Prov 20:15
-  note: Getting wisdom is better than gold, understanding than silver or jewels (lips of knowledge a precious
-    vessel beyond gold and pearls)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יֵ֣שׁ זָ֭הָב וְרָב פְּנִינִ֑ים וּכְלִ֥י יְ֝קָ֗ר שִׂפְתֵי דָֽעַת
-- tradition: judaism
-  ref: Prov 16:12
-  note: The throne is established by righteousness (and loyalty)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת מְ֭לָכִים עֲשׂ֣וֹת רֶ֑שַׁע כִּ֥י בִ֝צְדָקָ֗ה יִכּ֥וֹן כִּסֵּֽא
-- tradition: judaism
-  ref: Prov 20:28
-  note: The throne is established by righteousness (and loyalty) (hesed and emet guard the king)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֶ֣סֶד וֶ֭אֱמֶת יִצְּרוּ מֶ֑לֶךְ וְסָעַ֖ד בַּחֶ֣סֶד כִּסְאֽוֹ
-- tradition: judaism
-  ref: Prov 16:1
-  note: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לְאָדָ֥ם מַֽעַרְכֵי לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן
-- tradition: judaism
-  ref: Prov 16:9
-  note: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ
-- tradition: judaism
-  ref: Prov 20:24
-  note: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מֵיהוָ֥ה מִצְעֲדֵי גָ֑בֶר וְ֝אָדָ֗ם מַה יָּבִ֥ין דַּרְכּֽוֹ
-- tradition: judaism
-  ref: Prov 16:5
-  note: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת יְ֭הוָה כָּל גְּבַהּ לֵ֑ב יָ֥ד לְ֝יָ֗ד לֹ֣א יִנָּקֶֽה
-- tradition: judaism
-  ref: Prov 16:12
-  note: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת מְ֭לָכִים עֲשׂ֣וֹת רֶ֑שַׁע כִּ֥י בִ֝צְדָקָ֗ה יִכּ֥וֹן כִּסֵּֽא
-- tradition: judaism
-  ref: Prov 20:10
-  note: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
-- tradition: judaism
-  ref: Prov 20:23
-  note: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
-- tradition: judaism
-  ref: Prov 16:11
-  note: Honest balances, weights, ephah and hin are commanded (balance and scales are YHWH's; all the
-    weights of the bag are his work)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
-- tradition: judaism
-  ref: Prov 20:10
-  note: Honest balances, weights, ephah and hin are commanded ('a stone and a stone, an ephah and an ephah'
-    (two standards))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
-- tradition: judaism
-  ref: Prov 20:23
-  note: Honest balances, weights, ephah and hin are commanded ('a stone and a stone, an ephah and an ephah'
-    (two standards))
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Grey hair is a crown of glory, found in the way of righteousness
-    (weight 6.7); Getting wisdom is better than gold, understanding than silver or jewels (weight 6.0);
-    The throne is established by righteousness (and loyalty) (weight 6.0); The heart of man plans his
+    (weight 6.7); The throne is established by righteousness (and loyalty) (weight 6.0); Getting wisdom
+    is better than gold, understanding than silver or jewels (weight 6.0); The heart of man plans his
     way but YHWH directs his steps; only YHWH''s counsel stands (weight 5.8); Saying of the type ''X is
     an abomination (to''evah) to YHWH but Y is his delight'' (weight 5.6); Honest balances, weights, ephah
     and hin are commanded (weight 4.7). Pair score 34.8.'
@@ -160,6 +57,111 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Grey hair is a crown of glory, found in the way of righteousness
+kinds:
+- shared
+units:
+- id: hb-prov-16-sayings
+  title: YHWH sayings and royal sayings (man plans, God disposes)
+  tradition: judaism
+- id: hb-prov-20-sayings
+  title: Sayings on wine, the king's throne and the lamp of YHWH
+  tradition: judaism
+matches:
+- kind: shared
+  label: Grey hair is a crown of glory, found in the way of righteousness
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:31
+      lang: he
+      text: עֲטֶ֣רֶת תִּפְאֶ֣רֶת שֵׂיבָ֑ה בְּדֶ֥רֶךְ צְ֝דָקָ֗ה תִּמָּצֵֽא
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:29
+      lang: he
+      text: תִּפְאֶ֣רֶת בַּחוּרִ֣ים כֹּחָ֑ם וַהֲדַ֖ר זְקֵנִ֣ים שֵׂיבָֽה
+- kind: shared
+  label: The throne is established by righteousness (and loyalty)
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:12
+      lang: he
+      text: תּוֹעֲבַ֣ת מְ֭לָכִים עֲשׂ֣וֹת רֶ֑שַׁע כִּ֥י בִ֝צְדָקָ֗ה יִכּ֥וֹן כִּסֵּֽא
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:28
+      lang: he
+      text: חֶ֣סֶד וֶ֭אֱמֶת יִצְּרוּ מֶ֑לֶךְ וְסָעַ֖ד בַּחֶ֣סֶד כִּסְאֽוֹ
+    note: hesed and emet guard the king
+- kind: shared
+  label: Getting wisdom is better than gold, understanding than silver or jewels
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:16
+      lang: he
+      text: קְֽנֹה חָכְמָ֗ה מַה טּ֥וֹב מֵחָר֑וּץ וּקְנ֥וֹת בִּ֝ינָ֗ה נִבְחָ֥ר מִכָּֽסֶף
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:15
+      lang: he
+      text: יֵ֣שׁ זָ֭הָב וְרָב פְּנִינִ֑ים וּכְלִ֥י יְ֝קָ֗ר שִׂפְתֵי דָֽעַת
+    note: lips of knowledge a precious vessel beyond gold and pearls
+- kind: shared
+  label: The heart of man plans his way but YHWH directs his steps; only YHWH's counsel stands
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:1
+      lang: he
+      text: לְאָדָ֥ם מַֽעַרְכֵי לֵ֑ב וּ֝מֵיְהוָ֗ה מַעֲנֵ֥ה לָשֽׁוֹן
+    - ref: Prov 16:9
+      lang: he
+      text: לֵ֣ב אָ֭דָם יְחַשֵּׁ֣ב דַּרְכּ֑וֹ וַֽ֝יהוָ֗ה יָכִ֥ין צַעֲדֽוֹ
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:24
+      lang: he
+      text: מֵיהוָ֥ה מִצְעֲדֵי גָ֑בֶר וְ֝אָדָ֗ם מַה יָּבִ֥ין דַּרְכּֽוֹ
+- kind: shared
+  label: Saying of the type 'X is an abomination (to'evah) to YHWH but Y is his delight'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:5
+      lang: he
+      text: תּוֹעֲבַ֣ת יְ֭הוָה כָּל גְּבַהּ לֵ֑ב יָ֥ד לְ֝יָ֗ד לֹ֣א יִנָּקֶֽה
+    - ref: Prov 16:12
+      lang: he
+      text: תּוֹעֲבַ֣ת מְ֭לָכִים עֲשׂ֣וֹת רֶ֑שַׁע כִּ֥י בִ֝צְדָקָ֗ה יִכּ֥וֹן כִּסֵּֽא
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:10
+      lang: he
+      text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
+    - ref: Prov 20:23
+      lang: he
+      text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
+- kind: shared
+  label: Honest balances, weights, ephah and hin are commanded
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Prov 16:11
+      lang: he
+      text: פֶּ֤לֶס וּמֹאזְנֵ֣י מִ֭שְׁפָּט לַֽיהוָ֑ה מַ֝עֲשֵׂ֗הוּ כָּל אַבְנֵי כִֽיס
+    note: balance and scales are YHWH's; all the weights of the bag are his work
+  - tradition: judaism
+    passages:
+    - ref: Prov 20:10
+      lang: he
+      text: אֶ֣בֶן וָ֭אֶבֶן אֵיפָ֣ה וְאֵיפָ֑ה תּוֹעֲבַ֥ת יְ֝הוָ֗ה גַּם שְׁנֵיהֶֽם
+    - ref: Prov 20:23
+      lang: he
+      text: תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא טֽוֹב
+    note: '''a stone and a stone, an ephah and an ephah'' (two standards)'
 ---
 
 ## Questions

@@ -2,10 +2,7 @@
 id: motif-hb-mic-7-lament-and-hope-vs-quran-64-taghabun-day-of-loss-and-household-enemies
 title: 'No godly man left; who is a God like you? ↔ Al-Taghabun: forms made beautiful, the Day of Mutual
   Loss, enemies among wives and children, and the goodly loan'
-summary: 'These two units share 2 motifs: son dishonors father, daughter rises against mother, daughter-in-law
-  against mother-in-law; a man''s enemies are his own household [divergence between the texts], son dishonors
-  father, daughter rises against mother, daughter-in-law against mother-in-law; a man''s enemies are his
-  own household.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,71 +13,16 @@ traditions:
 layers:
 - motif
 motifs:
-- family-members-become-enemies-as-divergence
 - family-members-become-enemies
-passages:
-- tradition: judaism
-  ref: Mic 7:5
-  note: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
-    man's enemies are his own household [divergence between the texts] (inna min azwājikum wa-awlādikum
-    ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and mi-ššōkevet ḥêqekā šemōr pitḥê fîkā (guard
-    your mouth from her who lies in your bosom). Same warning about wife and children as enemies; Micah
-    ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū wa-taghfirū (pardon them) and turns it into
-    a trial (fitna, 64:15).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַל תַּאֲמִ֣ינוּ בְרֵ֔עַ אַֽל תִּבְטְח֖וּ בְּאַלּ֑וּף מִשֹּׁכֶ֣בֶת חֵיקֶ֔ךָ שְׁמֹ֖ר פִּתְחֵי פִֽיךָ
-- tradition: judaism
-  ref: Mic 7:6
-  note: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
-    man's enemies are his own household [divergence between the texts] (inna min azwājikum wa-awlādikum
-    ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and mi-ššōkevet ḥêqekā šemōr pitḥê fîkā (guard
-    your mouth from her who lies in your bosom). Same warning about wife and children as enemies; Micah
-    ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū wa-taghfirū (pardon them) and turns it into
-    a trial (fitna, 64:15).)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי בֵן֙ מְנַבֵּ֣ל אָ֔ב בַּ֚ת קָמָ֣ה בְאִמָּ֔הּ כַּלָּ֖ה בַּחֲמֹתָ֑הּ אֹיְבֵ֥י אִ֖ישׁ אַנְשֵׁ֥י
-    בֵיתֽוֹ
-- tradition: islam
-  ref: Quran 64:14
-  note: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
-    man's enemies are his own household [divergence between the texts] (inna min azwājikum wa-awlādikum
-    ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and mi-ššōkevet ḥêqekā šemōr pitḥê fîkā (guard
-    your mouth from her who lies in your bosom). Same warning about wife and children as enemies; Micah
-    ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū wa-taghfirū (pardon them) and turns it into
-    a trial (fitna, 64:15).)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ
-    وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
-- tradition: judaism
-  ref: Mic 7:6
-  note: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
-    man's enemies are his own household
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי בֵן֙ מְנַבֵּ֣ל אָ֔ב בַּ֚ת קָמָ֣ה בְאִמָּ֔הּ כַּלָּ֖ה בַּחֲמֹתָ֑הּ אֹיְבֵ֥י אִ֖ישׁ אַנְשֵׁ֥י
-    בֵיתֽוֹ
-- tradition: islam
-  ref: Quran 64:14
-  note: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
-    man's enemies are his own household (Mic 7:6)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ فَٱحْذَرُوهُمْ
-    وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
+- family-members-become-enemies-as-divergence
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    divergence. inna min azwājikum wa-awlādikum ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and
-    mi-ššōkevet ḥêqekā šemōr pitḥê fîkā (guard your mouth from her who lies in your bosom). Same warning
-    about wife and children as enemies; Micah ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū
-    wa-taghfirū (pardon them) and turns it into a trial (fitna, 64:15).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Son dishonors father, daughter rises against mother, daughter-in-law
-    against mother-in-law; a man''s enemies are his own household [divergence between the texts] (weight
-    6.7); Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law;
-    a man''s enemies are his own household (weight 6.7). Pair score 13.4.'
+    against mother-in-law; a man''s enemies are his own household (weight 6.7); Son dishonors father,
+    daughter rises against mother, daughter-in-law against mother-in-law; a man''s enemies are his own
+    household [divergence between the texts] (weight 6.7). Pair score 13.4.'
   basis: reading
 - text: 'Only in No godly man left; who is a God like you?: ''Do not rejoice over me, my enemy: though
     I fall I shall rise; though I sit in darkness YHWH is my light''; The godly have vanished from the
@@ -111,6 +53,43 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
+  man's enemies are his own household
+kinds:
+- divergence
+units:
+- id: hb-mic-7-lament-and-hope
+  title: No godly man left; who is a God like you?
+  tradition: judaism
+- id: quran-64-taghabun-day-of-loss-and-household-enemies
+  title: 'Al-Taghabun: forms made beautiful, the Day of Mutual Loss, enemies among wives and children,
+    and the goodly loan'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Son dishonors father, daughter rises against mother, daughter-in-law against mother-in-law; a
+    man's enemies are his own household
+  note: inna min azwājikum wa-awlādikum ʿaduwwan lakum fa-ḥdharūhum ~ ʾōyevê ʾîš ʾanšê vêtô, and mi-ššōkevet
+    ḥêqekā šemōr pitḥê fîkā (guard your mouth from her who lies in your bosom). Same warning about wife
+    and children as enemies; Micah ends in distrust, the Quran adds wa-in taʿfū wa-taṣfaḥū wa-taghfirū
+    (pardon them) and turns it into a trial (fitna, 64:15).
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Mic 7:5
+      lang: he
+      text: אַל תַּאֲמִ֣ינוּ בְרֵ֔עַ אַֽל תִּבְטְח֖וּ בְּאַלּ֑וּף מִשֹּׁכֶ֣בֶת חֵיקֶ֔ךָ שְׁמֹ֖ר פִּתְחֵי
+        פִֽיךָ
+    - ref: Mic 7:6
+      lang: he
+      text: כִּֽי בֵן֙ מְנַבֵּ֣ל אָ֔ב בַּ֚ת קָמָ֣ה בְאִמָּ֔הּ כַּלָּ֖ה בַּחֲמֹתָ֑הּ אֹיְבֵ֥י אִ֖ישׁ אַנְשֵׁ֥י
+        בֵיתֽוֹ
+  - tradition: islam
+    passages:
+    - ref: Quran 64:14
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ مِنْ أَزْوَٰجِكُمْ وَأَوْلَٰدِكُمْ عَدُوًّا لَّكُمْ
+        فَٱحْذَرُوهُمْ وَإِن تَعْفُوا۟ وَتَصْفَحُوا۟ وَتَغْفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ
 ---
 
 ## Questions

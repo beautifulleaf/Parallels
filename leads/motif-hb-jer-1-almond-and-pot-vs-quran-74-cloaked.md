@@ -2,7 +2,7 @@
 id: motif-hb-jer-1-almond-and-pot-vs-quran-74-cloaked
 title: 'Visions of the almond branch and the boiling pot ↔ The cloaked one: the call, the opponent, and
   the nineteen'
-summary: 'These two units share 1 motifs: narrative of a prophet''s commissioning by god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,32 +14,9 @@ layers:
 - motif
 motifs:
 - prophetic-call-narrative
-passages:
-- tradition: judaism
-  ref: Jer 1:17
-  note: 'Narrative of a prophet''s commissioning by God (yā-ayyuhā l-muddaththir, qum fa-andhir ~ we-ʾattāh
-    teʾzōr motnêkā we-qamtā we-dibbartā ʾălêhem: ''arise and speak/warn'', with a garment-word in both
-    (girding / cloaking).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאַתָּה֙ תֶּאְזֹ֣ר מָתְנֶ֔יךָ וְקַמְתָּ֙ וְדִבַּרְתָּ֣ אֲלֵיהֶ֔ם אֵ֛ת כָּל אֲשֶׁ֥ר אָנֹכִ֖י אֲצַוֶּ֑ךָּ
-    אַל תֵּחַת֙ מִפְּנֵיהֶ֔ם פֶּֽן אֲחִתְּךָ֖ לִפְנֵיהֶֽם
-- tradition: islam
-  ref: Quran 74:1
-  note: Narrative of a prophet's commissioning by God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ
-- tradition: islam
-  ref: Quran 74:2
-  note: Narrative of a prophet's commissioning by God
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُمْ فَأَنذِرْ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. yā-ayyuhā l-muddaththir, qum fa-andhir ~ we-ʾattāh teʾzōr motnêkā we-qamtā we-dibbartā ʾălêhem:
-    ''arise and speak/warn'', with a garment-word in both (girding / cloaking).'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Narrative of a prophet''s commissioning by God (weight 5.4). Pair
     score 5.4.'
@@ -71,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Narrative of a prophet's commissioning by God
+kinds:
+- echo
+units:
+- id: hb-jer-1-almond-and-pot
+  title: Visions of the almond branch and the boiling pot
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: echo
+  label: Narrative of a prophet's commissioning by God
+  note: 'yā-ayyuhā l-muddaththir, qum fa-andhir ~ we-ʾattāh teʾzōr motnêkā we-qamtā we-dibbartā ʾălêhem:
+    ''arise and speak/warn'', with a garment-word in both (girding / cloaking).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 1:17
+      lang: he
+      text: וְאַתָּה֙ תֶּאְזֹ֣ר מָתְנֶ֔יךָ וְקַמְתָּ֙ וְדִבַּרְתָּ֣ אֲלֵיהֶ֔ם אֵ֛ת כָּל אֲשֶׁ֥ר אָנֹכִ֖י
+        אֲצַוֶּ֑ךָּ אַל תֵּחַת֙ מִפְּנֵיהֶ֔ם פֶּֽן אֲחִתְּךָ֖ לִפְנֵיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 74:1
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلْمُدَّثِّرُ
+    - ref: Quran 74:2
+      lang: ar
+      text: قُمْ فَأَنذِرْ
 ---
 
 ## Questions

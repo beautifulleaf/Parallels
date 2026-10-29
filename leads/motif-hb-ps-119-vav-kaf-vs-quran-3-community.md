@@ -1,7 +1,7 @@
 ---
 id: motif-hb-ps-119-vav-kaf-vs-quran-3-community
 title: Psalm 119, stanzas vav to kaf ↔ Hold fast to the rope of God
-summary: 'These two units share 1 motifs: speaker rises at midnight to give thanks to god.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,25 +13,9 @@ layers:
 - motif
 motifs:
 - rise-at-midnight-to-praise
-passages:
-- tradition: judaism
-  ref: Ps 119:62
-  note: Speaker rises at midnight to give thanks to God
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
-- tradition: islam
-  ref: Quran 3:113
-  note: 'Speaker rises at midnight to give thanks to God (Ps 119:62 ḥăṣôt laylâ ʾāqûm lĕhôdôt lāk: at
-    midnight I rise to give thanks; Q 3:113 yatlūna āyāti llāhi ānāʾa l-layli wa-hum yasjudūn.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ
-    ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Ps 119:62 ḥăṣôt laylâ ʾāqûm lĕhôdôt lāk: at midnight I rise to give thanks; Q 3:113 yatlūna
-    āyāti llāhi ānāʾa l-layli wa-hum yasjudūn.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Speaker rises at midnight to give thanks to God (weight 6.0). Pair
     score 6.0.'
@@ -65,6 +49,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Speaker rises at midnight to give thanks to God
+kinds:
+- echo
+units:
+- id: hb-ps-119-vav-kaf
+  title: Psalm 119, stanzas vav to kaf
+  tradition: judaism
+- id: quran-3-community
+  title: Hold fast to the rope of God
+  tradition: islam
+matches:
+- kind: echo
+  label: Speaker rises at midnight to give thanks to God
+  note: 'Ps 119:62 ḥăṣôt laylâ ʾāqûm lĕhôdôt lāk: at midnight I rise to give thanks; Q 3:113 yatlūna āyāti
+    llāhi ānāʾa l-layli wa-hum yasjudūn.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 119:62
+      lang: he
+      text: חֲצֽוֹת לַ֗יְלָה אָ֭קוּם לְהוֹד֣וֹת לָ֑ךְ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 3:113
+      lang: ar
+      text: لَيْسُوا۟ سَوَآءً مِّنْ أَهْلِ ٱلْكِتَٰبِ أُمَّةٌ قَآئِمَةٌ يَتْلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ
+        ٱلَّيْلِ وَهُمْ يَسْجُدُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-deut-24-divorce-pledges-poor-vs-quran-24-household-etiquette
 title: Divorce, newlyweds, pledges, wages, gleanings ↔ Times of privacy, elderly women, eating in kin
   houses, leave from the messenger
-summary: 'These two units share 1 motifs: creditor must wait outside for the pledge and return a poor
-  man''s cloak by sunset.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,49 +14,9 @@ layers:
 - motif
 motifs:
 - pledge-collected-outside-door
-passages:
-- tradition: judaism
-  ref: Deut 24:10
-  note: Creditor must wait outside for the pledge and return a poor man's cloak by sunset (widow's garment
-    may not be taken at all)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
-- tradition: judaism
-  ref: Deut 24:11
-  note: Creditor must wait outside for the pledge and return a poor man's cloak by sunset (widow's garment
-    may not be taken at all)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט הַחֽוּצָה
-- tradition: islam
-  ref: Quran 24:58
-  note: 'Creditor must wait outside for the pledge and return a poor man''s cloak by sunset (li-yastaʾdhinkumu
-    lladhīna malakat aymānukum ... thalātha marrātin ~ lōʾ tāvōʾ ʾel bêtô ... ba-ḥûṣ taʿămōd: entering
-    someone''s private space only with permission; Deut protects the debtor''s house from the creditor,
-    the Quran the family''s times of undress from slaves and children.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَٰنُكُمْ وَٱلَّذِينَ
-    لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَٰثَ مَرَّٰتٍ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ
-    ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ثَلَٰثُ عَوْرَٰتٍ لَّكُمْ لَيْسَ
-    عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ كَذَٰلِكَ
-    يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
-- tradition: islam
-  ref: Quran 24:59
-  note: 'Creditor must wait outside for the pledge and return a poor man''s cloak by sunset (li-yastaʾdhinkumu
-    lladhīna malakat aymānukum ... thalātha marrātin ~ lōʾ tāvōʾ ʾel bêtô ... ba-ḥûṣ taʿămōd: entering
-    someone''s private space only with permission; Deut protects the debtor''s house from the creditor,
-    the Quran the family''s times of undress from slaves and children.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِذَا بَلَغَ ٱلْأَطْفَٰلُ مِنكُمُ ٱلْحُلُمَ فَلْيَسْتَـْٔذِنُوا۟ كَمَا ٱسْتَـْٔذَنَ ٱلَّذِينَ
-    مِن قَبْلِهِمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    echo. li-yastaʾdhinkumu lladhīna malakat aymānukum ... thalātha marrātin ~ lōʾ tāvōʾ ʾel bêtô ...
-    ba-ḥûṣ taʿămōd: entering someone''s private space only with permission; Deut protects the debtor''s
-    house from the creditor, the Quran the family''s times of undress from slaves and children.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Creditor must wait outside for the pledge and return a poor man''s
     cloak by sunset (weight 6.3). Pair score 6.3.'
@@ -91,6 +50,45 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Creditor must wait outside for the pledge and return a poor man's cloak by sunset
+kinds:
+- echo
+units:
+- id: hb-deut-24-divorce-pledges-poor
+  title: Divorce, newlyweds, pledges, wages, gleanings
+  tradition: judaism
+- id: quran-24-household-etiquette
+  title: Times of privacy, elderly women, eating in kin houses, leave from the messenger
+  tradition: islam
+matches:
+- kind: echo
+  label: Creditor must wait outside for the pledge and return a poor man's cloak by sunset
+  note: 'li-yastaʾdhinkumu lladhīna malakat aymānukum ... thalātha marrātin ~ lōʾ tāvōʾ ʾel bêtô ... ba-ḥûṣ
+    taʿămōd: entering someone''s private space only with permission; Deut protects the debtor''s house
+    from the creditor, the Quran the family''s times of undress from slaves and children.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 24:10
+      lang: he
+      text: כִּֽי תַשֶּׁ֥ה בְרֵֽעֲךָ מַשַּׁ֣את מְא֑וּמָה לֹא תָבֹ֥א אֶל בֵּית֖וֹ לַעֲבֹ֥ט עֲבֹטֽוֹ
+    - ref: Deut 24:11
+      lang: he
+      text: בַּח֖וּץ תַּעֲמֹ֑ד וְהָאִ֗ישׁ אֲשֶׁ֤ר אַתָּה֙ נֹשֶׁ֣ה ב֔וֹ יוֹצִ֥יא אֵלֶ֛יךָ אֶֽת הַעֲב֖וֹט
+        הַחֽוּצָה
+  - tradition: islam
+    passages:
+    - ref: Quran 24:58
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِيَسْتَـْٔذِنكُمُ ٱلَّذِينَ مَلَكَتْ أَيْمَٰنُكُمْ وَٱلَّذِينَ
+        لَمْ يَبْلُغُوا۟ ٱلْحُلُمَ مِنكُمْ ثَلَٰثَ مَرَّٰتٍ مِّن قَبْلِ صَلَوٰةِ ٱلْفَجْرِ وَحِينَ تَضَعُونَ
+        ثِيَابَكُم مِّنَ ٱلظَّهِيرَةِ وَمِنۢ بَعْدِ صَلَوٰةِ ٱلْعِشَآءِ ثَلَٰثُ عَوْرَٰتٍ لَّكُمْ لَيْسَ
+        عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌۢ بَعْدَهُنَّ طَوَّٰفُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ
+        كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
+    - ref: Quran 24:59
+      lang: ar
+      text: وَإِذَا بَلَغَ ٱلْأَطْفَٰلُ مِنكُمُ ٱلْحُلُمَ فَلْيَسْتَـْٔذِنُوا۟ كَمَا ٱسْتَـْٔذَنَ ٱلَّذِينَ
+        مِن قَبْلِهِمْ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ وَٱللَّهُ عَلِيمٌ حَكِيمٌ
 ---
 
 ## Questions

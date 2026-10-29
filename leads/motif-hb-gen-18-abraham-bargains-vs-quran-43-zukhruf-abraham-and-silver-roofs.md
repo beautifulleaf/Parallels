@@ -2,8 +2,7 @@
 id: motif-hb-gen-18-abraham-bargains-vs-quran-43-zukhruf-abraham-and-silver-roofs
 title: Abraham bargains for Sodom ↔ Abraham disowns his father's worship; the great man of the two towns;
   silver roofs; the devil-companion
-summary: 'These two units share 1 motifs: abraham''s confession is left as an enduring word among his
-  descendants (''aqib).'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - word-remaining-among-abrahams-descendants
-passages:
-- tradition: judaism
-  ref: Gen 18:19
-  note: 'Abraham''s confession is left as an enduring word among his descendants (''aqib) (Abraham''s
-    way passed on to his descendants: kî yəḏaʿtîw ləmaʿan ʾăšer yəṣawweh ʾeṯ bānâw wə-ʾeṯ bêṯô ʾaḥărâw
-    wə-šāmərû derek YHWH vs. wa-jaʿalahā kalimatan bāqiyatan fī ʿaqibihi laʿallahum yarjiʿūn. Genesis:
-    the way of YHWH ''to do righteousness and justice''; Quran: the word of disowning false gods, left
-    to his posterity (ʿaqib).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יְדַעְתִּ֗יו לְמַעַן֩ אֲשֶׁ֨ר יְצַוֶּ֜ה אֶת בָּנָ֤יו וְאֶת בֵּיתוֹ֙ אַחֲרָ֔יו וְשָֽׁמְרוּ֙
-    דֶּ֣רֶךְ יְהוָ֔ה לַעֲשׂ֥וֹת צְדָקָ֖ה וּמִשְׁפָּ֑ט לְמַ֗עַן הָבִ֤יא יְהוָה֙ עַל אַבְרָהָ֔ם אֵ֥ת אֲשֶׁר
-    דִּבֶּ֖ר עָלָֽיו
-- tradition: islam
-  ref: Quran 43:28
-  note: Abraham's confession is left as an enduring word among his descendants ('aqib)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Abraham''s way passed on to his descendants: kî yəḏaʿtîw ləmaʿan ʾăšer yəṣawweh ʾeṯ bānâw
-    wə-ʾeṯ bêṯô ʾaḥărâw wə-šāmərû derek YHWH vs. wa-jaʿalahā kalimatan bāqiyatan fī ʿaqibihi laʿallahum
-    yarjiʿūn. Genesis: the way of YHWH ''to do righteousness and justice''; Quran: the word of disowning
-    false gods, left to his posterity (ʿaqib).'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Abraham''s confession is left as an enduring word among his descendants
     (''aqib) (weight 6.7). Pair score 6.7.'
@@ -78,6 +55,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Abraham's confession is left as an enduring word among his descendants ('aqib)
+kinds:
+- parallel
+units:
+- id: hb-gen-18-abraham-bargains
+  title: Abraham bargains for Sodom
+  tradition: judaism
+- id: quran-43-zukhruf-abraham-and-silver-roofs
+  title: Abraham disowns his father's worship; the great man of the two towns; silver roofs; the devil-companion
+  tradition: islam
+matches:
+- kind: parallel
+  label: Abraham's confession is left as an enduring word among his descendants ('aqib)
+  note: 'Abraham''s way passed on to his descendants: kî yəḏaʿtîw ləmaʿan ʾăšer yəṣawweh ʾeṯ bānâw wə-ʾeṯ
+    bêṯô ʾaḥărâw wə-šāmərû derek YHWH vs. wa-jaʿalahā kalimatan bāqiyatan fī ʿaqibihi laʿallahum yarjiʿūn.
+    Genesis: the way of YHWH ''to do righteousness and justice''; Quran: the word of disowning false gods,
+    left to his posterity (ʿaqib).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 18:19
+      lang: he
+      text: כִּ֣י יְדַעְתִּ֗יו לְמַעַן֩ אֲשֶׁ֨ר יְצַוֶּ֜ה אֶת בָּנָ֤יו וְאֶת בֵּיתוֹ֙ אַחֲרָ֔יו וְשָֽׁמְרוּ֙
+        דֶּ֣רֶךְ יְהוָ֔ה לַעֲשׂ֥וֹת צְדָקָ֖ה וּמִשְׁפָּ֑ט לְמַ֗עַן הָבִ֤יא יְהוָה֙ עַל אַבְרָהָ֔ם אֵ֥ת
+        אֲשֶׁר דִּבֶּ֖ר עָלָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 43:28
+      lang: ar
+      text: وَجَعَلَهَا كَلِمَةًۢ بَاقِيَةً فِى عَقِبِهِۦ لَعَلَّهُمْ يَرْجِعُونَ
 ---
 
 ## Questions

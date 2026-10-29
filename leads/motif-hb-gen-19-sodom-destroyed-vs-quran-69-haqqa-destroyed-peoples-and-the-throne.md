@@ -2,7 +2,7 @@
 id: motif-hb-gen-19-sodom-destroyed-vs-quran-69-haqqa-destroyed-peoples-and-the-throne
 title: 'Lot''s guests and the destruction of Sodom and Gomorrah ↔ Al-Haqqa: Thamud and ''Ad, the running
   ship, the single trumpet blast, the sky split and eight bearing the Throne'
-summary: 'These two units share 1 motifs: cities overturned (hafakh) and the plain destroyed.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,38 +15,9 @@ layers:
 - motif
 motifs:
 - cities-overturned
-passages:
-- tradition: judaism
-  ref: Gen 19:25
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים וְצֶ֖מַח
-    הָאֲדָמָֽה
-- tradition: judaism
-  ref: Gen 19:29
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְהִ֗י בְּשַׁחֵ֤ת אֱלֹהִים֙ אֶת עָרֵ֣י הַכִּכָּ֔ר וַיִּזְכֹּ֥ר אֱלֹהִ֖ים אֶת אַבְרָהָ֑ם וַיְשַׁלַּ֤ח
-    אֶת לוֹט֙ מִתּ֣וֹךְ הַהֲפֵכָ֔ה בַּהֲפֹךְ֙ אֶת הֶ֣עָרִ֔ים אֲשֶׁר יָשַׁ֥ב בָּהֵ֖ן לֽוֹט
-- tradition: islam
-  ref: Quran 69:9
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَٰتُ بِٱلْخَاطِئَةِ
-- tradition: islam
-  ref: Quran 69:10
-  note: Cities overturned (hafakh) and the plain destroyed
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    parallel. wa-l-muʾtafikātu bi-l-khāṭiʾa ... fa-ʿaṣaw rasūla rabbihim fa-akhadhahum ~ wa-yyahăfōk ʾet
-    he-ʿārîm hā-ʾēl: the cities named only as ''the overturned ones''. The Quran gives the reason as disobeying
-    ''the messenger of their Lord''; Genesis gives no messenger to Sodom except the visiting angels.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Cities overturned (hafakh) and the plain destroyed (weight 5.6).
     Pair score 5.6.'
@@ -86,6 +57,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Cities overturned (hafakh) and the plain destroyed
+kinds:
+- parallel
+units:
+- id: hb-gen-19-sodom-destroyed
+  title: Lot's guests and the destruction of Sodom and Gomorrah
+  tradition: judaism
+- id: quran-69-haqqa-destroyed-peoples-and-the-throne
+  title: 'Al-Haqqa: Thamud and ''Ad, the running ship, the single trumpet blast, the sky split and eight
+    bearing the Throne'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Cities overturned (hafakh) and the plain destroyed
+  note: 'wa-l-muʾtafikātu bi-l-khāṭiʾa ... fa-ʿaṣaw rasūla rabbihim fa-akhadhahum ~ wa-yyahăfōk ʾet he-ʿārîm
+    hā-ʾēl: the cities named only as ''the overturned ones''. The Quran gives the reason as disobeying
+    ''the messenger of their Lord''; Genesis gives no messenger to Sodom except the visiting angels.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 19:25
+      lang: he
+      text: וַֽיַּהֲפֹךְ֙ אֶת הֶעָרִ֣ים הָאֵ֔ל וְאֵ֖ת כָּל הַכִּכָּ֑ר וְאֵת֙ כָּל יֹשְׁבֵ֣י הֶעָרִ֔ים
+        וְצֶ֖מַח הָאֲדָמָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 69:9
+      lang: ar
+      text: وَجَآءَ فِرْعَوْنُ وَمَن قَبْلَهُۥ وَٱلْمُؤْتَفِكَٰتُ بِٱلْخَاطِئَةِ
+    - ref: Quran 69:10
+      lang: ar
+      text: فَعَصَوْا۟ رَسُولَ رَبِّهِمْ فَأَخَذَهُمْ أَخْذَةً رَّابِيَةً
 ---
 
 ## Questions

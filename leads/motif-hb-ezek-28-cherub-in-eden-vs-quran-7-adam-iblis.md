@@ -2,9 +2,7 @@
 id: motif-hb-ezek-28-cherub-in-eden-vs-quran-7-adam-iblis
 title: Lament over the king of Tyre - the gem-covered cherub in Eden cast from God's mountain ↔ The prostration
   to Adam, Iblis' refusal and the fall
-summary: 'These two units share 2 motifs: god casts the proud being out from the mountain of god and destroys
-  him from among the stones of fire, hurling him to earth before kings, god plants a garden (eden) in
-  the east and places the first human there.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -18,64 +16,9 @@ layers:
 motifs:
 - expulsion-from-mountain-of-god
 - garden-of-god-in-east
-passages:
-- tradition: judaism
-  ref: Ezek 28:16
-  note: God casts the proud being out from the mountain of God and destroys him from among the stones
-    of fire, hurling him to earth before kings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּרֹ֣ב רְכֻלָּתְךָ֗ מָל֧וּ תוֹכְךָ֛ חָמָ֖ס וַֽתֶּחֱטָ֑א וָאֶחַלֶּלְךָ֩ מֵהַ֨ר אֱלֹהִ֤ים וָֽאַבֶּדְךָ֙
-    כְּר֣וּב הַסֹּכֵ֔ךְ מִתּ֖וֹךְ אַבְנֵי אֵֽשׁ
-- tradition: judaism
-  ref: Ezek 28:17
-  note: God casts the proud being out from the mountain of God and destroys him from among the stones
-    of fire, hurling him to earth before kings
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: גָּבַ֤הּ לִבְּךָ֙ בְּיָפְיֶ֔ךָ שִׁחַ֥תָּ חָכְמָתְךָ֖ עַל יִפְעָתֶ֑ךָ עַל אֶ֣רֶץ הִשְׁלַכְתִּ֗יךָ
-    לִפְנֵ֧י מְלָכִ֛ים נְתַתִּ֖יךָ לְרַ֥אֲוָה בָֽךְ
-- tradition: islam
-  ref: Quran 7:13
-  note: God casts the proud being out from the mountain of God and destroys him from among the stones
-    of fire, hurling him to earth before kings (Iblis is told to descend and leave, disgraced, for his
-    pride (an tatakabbara fiha))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ فَٱهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخْرُجْ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ
-- tradition: islam
-  ref: Quran 7:18
-  note: God casts the proud being out from the mountain of God and destroys him from among the stones
-    of fire, hurling him to earth before kings (Iblis is told to descend and leave, disgraced, for his
-    pride (an tatakabbara fiha))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ
-    مِنكُمْ أَجْمَعِينَ
-- tradition: judaism
-  ref: Ezek 28:13
-  note: God plants a garden (Eden) in the east and places the first human there ('in Eden, the garden
-    of God')
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בְּעֵ֨דֶן גַּן אֱלֹהִ֜ים הָיִ֗יתָ כָּל אֶ֨בֶן יְקָרָ֤ה מְסֻכָתֶ֨ךָ֙ אֹ֣דֶם פִּטְדָ֞ה וְיָהֲלֹ֗ם
-    תַּרְשִׁ֥ישׁ שֹׁ֨הַם֙ וְיָ֣שְׁפֵ֔ה סַפִּ֣יר נֹ֔פֶךְ וּבָרְקַ֖ת וְזָהָ֑ב מְלֶ֨אכֶת תֻּפֶּ֤יךָ וּנְקָבֶ֨יךָ֙
-    בָּ֔ךְ בְּי֥וֹם הִבָּרַאֲךָ֖ כּוֹנָֽנוּ
-- tradition: islam
-  ref: Quran 7:19
-  note: God plants a garden (Eden) in the east and places the first human there (dwell in the garden;
-    no east, no name Eden here)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
-    هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    parallel. A being in God''s garden is cast down for pride. Ezek: ʾatt-kərûv ... bə-har qōdeš ʾĕlōhîm
-    hāyîtā bə-tôkh ʾavnê-ʾēš hithallākhtā ... gāvah libbəkhā ... ʿal-ʾereṣ hišlakhtîkhā. Q: anā khayrun
-    minhu khalaqtanī min nārin ... fa-hbiṭ minhā fa-mā yakūnu laka an tatakabbara fīhā fa-khruj innaka
-    mina l-ṣāghirīna. Both have fire (ʾavnê-ʾēš / min nār), pride (gāvah libbəkhā / tatakabbara) and being
-    thrown down. In Ezek it is a lament over the king of Tyre; Q tells it as the fall of Iblis.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God casts the proud being out from the mountain of God and destroys
     him from among the stones of fire, hurling him to earth before kings (weight 6.7); God plants a garden
@@ -113,6 +56,73 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God casts the proud being out from the mountain of God and destroys him from among the stones
+  of fire, hurling him to earth before kings
+kinds:
+- parallel
+- shared
+units:
+- id: hb-ezek-28-cherub-in-eden
+  title: Lament over the king of Tyre - the gem-covered cherub in Eden cast from God's mountain
+  tradition: judaism
+- id: quran-7-adam-iblis
+  title: The prostration to Adam, Iblis' refusal and the fall
+  tradition: islam
+matches:
+- kind: parallel
+  label: God casts the proud being out from the mountain of God and destroys him from among the stones
+    of fire, hurling him to earth before kings
+  note: 'A being in God''s garden is cast down for pride. Ezek: ʾatt-kərûv ... bə-har qōdeš ʾĕlōhîm hāyîtā
+    bə-tôkh ʾavnê-ʾēš hithallākhtā ... gāvah libbəkhā ... ʿal-ʾereṣ hišlakhtîkhā. Q: anā khayrun minhu
+    khalaqtanī min nārin ... fa-hbiṭ minhā fa-mā yakūnu laka an tatakabbara fīhā fa-khruj innaka mina
+    l-ṣāghirīna. Both have fire (ʾavnê-ʾēš / min nār), pride (gāvah libbəkhā / tatakabbara) and being
+    thrown down. In Ezek it is a lament over the king of Tyre; Q tells it as the fall of Iblis.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 28:14
+      lang: he
+      text: אַ֨תְּ כְּר֔וּב מִמְשַׁ֖ח הַסּוֹכֵ֑ךְ וּנְתַתִּ֗יךָ בְּהַ֨ר קֹ֤דֶשׁ אֱלֹהִים֙ הָיִ֔יתָ בְּת֥וֹךְ
+        אַבְנֵי אֵ֖שׁ הִתְהַלָּֽכְתָּ
+    - ref: Ezek 28:16
+      lang: he
+      text: בְּרֹ֣ב רְכֻלָּתְךָ֗ מָל֧וּ תוֹכְךָ֛ חָמָ֖ס וַֽתֶּחֱטָ֑א וָאֶחַלֶּלְךָ֩ מֵהַ֨ר אֱלֹהִ֤ים וָֽאַבֶּדְךָ֙
+        כְּר֣וּב הַסֹּכֵ֔ךְ מִתּ֖וֹךְ אַבְנֵי אֵֽשׁ
+    - ref: Ezek 28:17
+      lang: he
+      text: גָּבַ֤הּ לִבְּךָ֙ בְּיָפְיֶ֔ךָ שִׁחַ֥תָּ חָכְמָתְךָ֖ עַל יִפְעָתֶ֑ךָ עַל אֶ֣רֶץ הִשְׁלַכְתִּ֗יךָ
+        לִפְנֵ֧י מְלָכִ֛ים נְתַתִּ֖יךָ לְרַ֥אֲוָה בָֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:12
+      lang: ar
+      text: قَالَ مَا مَنَعَكَ أَلَّا تَسْجُدَ إِذْ أَمَرْتُكَ قَالَ أَنَا۠ خَيْرٌ مِّنْهُ خَلَقْتَنِى
+        مِن نَّارٍ وَخَلَقْتَهُۥ مِن طِينٍ
+    - ref: Quran 7:13
+      lang: ar
+      text: قَالَ فَٱهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَٱخْرُجْ إِنَّكَ مِنَ ٱلصَّٰغِرِينَ
+    - ref: Quran 7:18
+      lang: ar
+      text: قَالَ ٱخْرُجْ مِنْهَا مَذْءُومًا مَّدْحُورًا لَّمَن تَبِعَكَ مِنْهُمْ لَأَمْلَأَنَّ جَهَنَّمَ
+        مِنكُمْ أَجْمَعِينَ
+- kind: shared
+  label: God plants a garden (Eden) in the east and places the first human there
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 28:13
+      lang: he
+      text: בְּעֵ֨דֶן גַּן אֱלֹהִ֜ים הָיִ֗יתָ כָּל אֶ֨בֶן יְקָרָ֤ה מְסֻכָתֶ֨ךָ֙ אֹ֣דֶם פִּטְדָ֞ה וְיָהֲלֹ֗ם
+        תַּרְשִׁ֥ישׁ שֹׁ֨הַם֙ וְיָ֣שְׁפֵ֔ה סַפִּ֣יר נֹ֔פֶךְ וּבָרְקַ֖ת וְזָהָ֑ב מְלֶ֨אכֶת תֻּפֶּ֤יךָ וּנְקָבֶ֨יךָ֙
+        בָּ֔ךְ בְּי֥וֹם הִבָּרַאֲךָ֖ כּוֹנָֽנוּ
+    note: '''in Eden, the garden of God'''
+  - tradition: islam
+    passages:
+    - ref: Quran 7:19
+      lang: ar
+      text: وَيَٰٓـَٔادَمُ ٱسْكُنْ أَنتَ وَزَوْجُكَ ٱلْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا
+        هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ
+    note: dwell in the garden; no east, no name Eden here
 ---
 
 ## Questions

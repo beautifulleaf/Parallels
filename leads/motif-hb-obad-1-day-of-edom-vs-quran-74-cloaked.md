@@ -2,8 +2,7 @@
 id: motif-hb-obad-1-day-of-edom-vs-quran-74-cloaked
 title: 'Edom''s crimes against Jacob and the Day of YHWH ↔ The cloaked one: the call, the opponent, and
   the nineteen'
-summary: 'These two units share 2 motifs: measure for measure: as you have done, so it shall be done to
-  you; your deed returns on your head, the day of yhwh: a coming day of divine judgment, terror and darkness.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -16,50 +15,9 @@ layers:
 motifs:
 - as-you-have-done-it-shall-be-done-to-you
 - day-of-yhwh
-passages:
-- tradition: judaism
-  ref: Obad 1:15
-  note: 'Measure for measure: as you have done, so it shall be done to you; your deed returns on your
-    head'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי קָר֥וֹב יוֹם יְהוָ֖ה עַל כָּל הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖
-    יָשׁ֥וּב בְּרֹאשֶֽׁךָ
-- tradition: islam
-  ref: Quran 74:38
-  note: 'Measure for measure: as you have done, so it shall be done to you; your deed returns on your
-    head (kullu nafsin bi-mā kasabat rahīna ~ kî qārôv yôm YHWH ʿal kol ha-ggôyim ka-ʾăšer ʿāśîtā yēʿāśeh
-    lāk gemulkā yāšûv be-rōʾšekā: on the Day each is repaid by what he did; Obadiah addresses Edom, the
-    Quran every soul.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ
-- tradition: judaism
-  ref: Obad 1:15
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּֽי קָר֥וֹב יוֹם יְהוָ֖ה עַל כָּל הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖
-    יָשׁ֥וּב בְּרֹאשֶֽׁךָ
-- tradition: islam
-  ref: Quran 74:9
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
-- tradition: islam
-  ref: Quran 74:10
-  note: 'The Day of YHWH: a coming day of divine judgment, terror and darkness (''that day a hard day
-    for the unbelievers'')'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. kullu nafsin bi-mā kasabat rahīna ~ kî qārôv yôm YHWH ʿal kol ha-ggôyim ka-ʾăšer ʿāśîtā yēʿāśeh
-    lāk gemulkā yāšûv be-rōʾšekā: on the Day each is repaid by what he did; Obadiah addresses Edom, the
-    Quran every soul.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Measure for measure: as you have done, so it shall be done to you;
     your deed returns on your head (weight 6.3); The Day of YHWH: a coming day of divine judgment, terror
@@ -94,6 +52,58 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: 'Measure for measure: as you have done, so it shall be done to you; your deed returns on your
+  head'
+kinds:
+- echo
+- shared
+units:
+- id: hb-obad-1-day-of-edom
+  title: Edom's crimes against Jacob and the Day of YHWH
+  tradition: judaism
+- id: quran-74-cloaked
+  title: 'The cloaked one: the call, the opponent, and the nineteen'
+  tradition: islam
+matches:
+- kind: echo
+  label: 'Measure for measure: as you have done, so it shall be done to you; your deed returns on your
+    head'
+  note: 'kullu nafsin bi-mā kasabat rahīna ~ kî qārôv yôm YHWH ʿal kol ha-ggôyim ka-ʾăšer ʿāśîtā yēʿāśeh
+    lāk gemulkā yāšûv be-rōʾšekā: on the Day each is repaid by what he did; Obadiah addresses Edom, the
+    Quran every soul.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:15
+      lang: he
+      text: כִּֽי קָר֥וֹב יוֹם יְהוָ֖ה עַל כָּל הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖
+        יָשׁ֥וּב בְּרֹאשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 74:38
+      lang: ar
+      text: كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ
+- kind: shared
+  label: 'The Day of YHWH: a coming day of divine judgment, terror and darkness'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Obad 1:15
+      lang: he
+      text: כִּֽי קָר֥וֹב יוֹם יְהוָ֖ה עַל כָּל הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֨יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖
+        יָשׁ֥וּב בְּרֹאשֶֽׁךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 74:9
+      lang: ar
+      text: فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ
+    - ref: Quran 74:10
+      lang: ar
+      text: عَلَى ٱلْكَٰفِرِينَ غَيْرُ يَسِيرٍ
+    - ref: Quran 74:8
+      lang: ar
+      text: فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ
+    note: '''that day a hard day for the unbelievers'''
 ---
 
 ## Questions

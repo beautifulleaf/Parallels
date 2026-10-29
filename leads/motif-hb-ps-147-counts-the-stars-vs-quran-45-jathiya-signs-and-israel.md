@@ -2,8 +2,7 @@
 id: motif-hb-ps-147-counts-the-stars-vs-quran-45-jathiya-signs-and-israel
 title: 'Psalm 147, builder of Jerusalem, counter of stars, giver of snow ↔ Ha-Mim: the signs, the scornful
   liar, Israel''s book and the Prophet''s shari''a'
-summary: 'These two units share 1 motifs: israel given god''s law, as a unique gift or followed by a later
-  law [divergence between the texts].'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,61 +14,9 @@ layers:
 - motif
 motifs:
 - law-given-to-israel-and-after-as-divergence
-passages:
-- tradition: judaism
-  ref: Ps 147:19
-  note: 'Israel given God''s law, as a unique gift or followed by a later law [divergence between the
-    texts] (Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw û-mišpāṭâw
-    lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma wa-n-nubuwwata
-    ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min baʿdi mā jāʾahumu
-    l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran ends Israel''s
-    exclusive law by a new sharīʿa for the Prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: מַגִּ֣יד דברו דְּבָרָ֣יו לְיַעֲקֹ֑ב חֻקָּ֥יו וּ֝מִשְׁפָּטָ֗יו לְיִשְׂרָאֵֽל
-- tradition: judaism
-  ref: Ps 147:20
-  note: 'Israel given God''s law, as a unique gift or followed by a later law [divergence between the
-    texts] (Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw û-mišpāṭâw
-    lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma wa-n-nubuwwata
-    ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min baʿdi mā jāʾahumu
-    l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran ends Israel''s
-    exclusive law by a new sharīʿa for the Prophet.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹ֘א עָ֤שָׂה כֵ֨ן לְכָל גּ֗וֹי וּמִשְׁפָּטִ֥ים בַּל יְדָע֗וּם הַֽלְלוּ יָֽהּ
-- tradition: islam
-  ref: Quran 45:16
-  note: 'Israel given God''s law, as a unique gift or followed by a later law [divergence between the
-    texts] (Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw û-mišpāṭâw
-    lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma wa-n-nubuwwata
-    ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min baʿdi mā jāʾahumu
-    l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran ends Israel''s
-    exclusive law by a new sharīʿa for the Prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم
-    مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ
-- tradition: islam
-  ref: Quran 45:17
-  note: 'Israel given God''s law, as a unique gift or followed by a later law [divergence between the
-    texts] (Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw û-mišpāṭâw
-    lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma wa-n-nubuwwata
-    ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min baʿdi mā jāʾahumu
-    l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran ends Israel''s
-    exclusive law by a new sharīʿa for the Prophet.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَءَاتَيْنَٰهُم بَيِّنَٰتٍ مِّنَ ٱلْأَمْرِ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ
-    ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟
-    فِيهِ يَخْتَلِفُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    divergence. Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw
-    û-mišpāṭâw lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma
-    wa-n-nubuwwata ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min
-    baʿdi mā jāʾahumu l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran
-    ends Israel''s exclusive law by a new sharīʿa for the Prophet.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Israel given God''s law, as a unique gift or followed by a later
     law [divergence between the texts] (weight 6.7). Pair score 6.7.'
@@ -105,6 +52,48 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Israel given God's law, as a unique gift or followed by a later law
+kinds:
+- divergence
+units:
+- id: hb-ps-147-counts-the-stars
+  title: Psalm 147, builder of Jerusalem, counter of stars, giver of snow
+  tradition: judaism
+- id: quran-45-jathiya-signs-and-israel
+  title: 'Ha-Mim: the signs, the scornful liar, Israel''s book and the Prophet''s shari''a'
+  tradition: islam
+matches:
+- kind: divergence
+  label: Israel given God's law, as a unique gift or followed by a later law
+  note: 'Israel''s gift of the law, with a sequel added. Ps 147: maggîḏ dəḇārâw lə-yaʿăqōḇ ḥuqqâw û-mišpāṭâw
+    lə-yiśrāʾēl lōʾ ʿāśâ ḵēn lə-ḵol gôy. Quran: wa-la-qad ātaynā banī isrāʾīla l-kitāba wa-l-ḥukma wa-n-nubuwwata
+    ... wa-faḍḍalnāhum ʿalā l-ʿālamīn: the same favor, but then fa-mā khtalafū illā min baʿdi mā jāʾahumu
+    l-ʿilmu baghyan baynahum, and thumma jaʿalnāka ʿalā sharīʿatin mina l-amr. The Quran ends Israel''s
+    exclusive law by a new sharīʿa for the Prophet.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 147:19
+      lang: he
+      text: מַגִּ֣יד דברו דְּבָרָ֣יו לְיַעֲקֹ֑ב חֻקָּ֥יו וּ֝מִשְׁפָּטָ֗יו לְיִשְׂרָאֵֽל
+    - ref: Ps 147:20
+      lang: he
+      text: לֹ֘א עָ֤שָׂה כֵ֨ן לְכָל גּ֗וֹי וּמִשְׁפָּטִ֥ים בַּל יְדָע֗וּם הַֽלְלוּ יָֽהּ
+  - tradition: islam
+    passages:
+    - ref: Quran 45:16
+      lang: ar
+      text: وَلَقَدْ ءَاتَيْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَٰبَ وَٱلْحُكْمَ وَٱلنُّبُوَّةَ وَرَزَقْنَٰهُم
+        مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلْنَٰهُمْ عَلَى ٱلْعَٰلَمِينَ
+    - ref: Quran 45:17
+      lang: ar
+      text: وَءَاتَيْنَٰهُم بَيِّنَٰتٍ مِّنَ ٱلْأَمْرِ فَمَا ٱخْتَلَفُوٓا۟ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ
+        ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ إِنَّ رَبَّكَ يَقْضِى بَيْنَهُمْ يَوْمَ ٱلْقِيَٰمَةِ فِيمَا كَانُوا۟
+        فِيهِ يَخْتَلِفُونَ
+    - ref: Quran 45:18
+      lang: ar
+      text: ثُمَّ جَعَلْنَٰكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلْأَمْرِ فَٱتَّبِعْهَا وَلَا تَتَّبِعْ أَهْوَآءَ
+        ٱلَّذِينَ لَا يَعْلَمُونَ
 ---
 
 ## Questions

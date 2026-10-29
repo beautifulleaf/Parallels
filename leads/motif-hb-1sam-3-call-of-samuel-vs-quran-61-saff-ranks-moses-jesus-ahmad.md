@@ -2,7 +2,7 @@
 id: motif-hb-1sam-3-call-of-samuel-vs-quran-61-saff-ranks-moses-jesus-ahmad
 title: 'The call of Samuel in the temple at Shiloh ↔ Al-Saff: ranks like a solid structure; Moses hurt
   by his people; Jesus foretells Ahmad; the disciples as God''s helpers'
-summary: 'These two units share 1 motifs: the lamp of god had not yet gone out.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,26 +14,9 @@ layers:
 - motif
 motifs:
 - lamp-of-god-not-yet-out
-passages:
-- tradition: judaism
-  ref: 1Sam 3:3
-  note: The lamp of God had not yet gone out
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְנֵ֤ר אֱלֹהִים֙ טֶ֣רֶם יִכְבֶּ֔ה וּשְׁמוּאֵ֖ל שֹׁכֵ֑ב בְּהֵיכַ֣ל יְהוָ֔ה אֲשֶׁר שָׁ֖ם אֲר֥וֹן
-    אֱלֹהִֽים
-- tradition: islam
-  ref: Quran 61:8
-  note: The lamp of God had not yet gone out (God's light cannot be put out)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ
-    ٱلْكَٰفِرُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. God''s light not extinguished: wə-nēr ʾĕlōhîm ṭerem yiḵbeh vs. yurīdūna li-yuṭfiʾū nūra llāhi
-    bi-afwāhihim wa-llāhu mutimmu nūrihi. Samuel''s lamp is the sanctuary lamp of a dark time before the
-    call; the Quran''s light is God''s religion, which the opponents try to blow out.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The lamp of God had not yet gone out (weight 6.7). Pair score 6.7.'
   basis: reading
@@ -65,6 +48,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The lamp of God had not yet gone out
+kinds:
+- echo
+units:
+- id: hb-1sam-3-call-of-samuel
+  title: The call of Samuel in the temple at Shiloh
+  tradition: judaism
+- id: quran-61-saff-ranks-moses-jesus-ahmad
+  title: 'Al-Saff: ranks like a solid structure; Moses hurt by his people; Jesus foretells Ahmad; the
+    disciples as God''s helpers'
+  tradition: islam
+matches:
+- kind: echo
+  label: The lamp of God had not yet gone out
+  note: 'God''s light not extinguished: wə-nēr ʾĕlōhîm ṭerem yiḵbeh vs. yurīdūna li-yuṭfiʾū nūra llāhi
+    bi-afwāhihim wa-llāhu mutimmu nūrihi. Samuel''s lamp is the sanctuary lamp of a dark time before the
+    call; the Quran''s light is God''s religion, which the opponents try to blow out.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 1Sam 3:3
+      lang: he
+      text: וְנֵ֤ר אֱלֹהִים֙ טֶ֣רֶם יִכְבֶּ֔ה וּשְׁמוּאֵ֖ל שֹׁכֵ֑ב בְּהֵיכַ֣ל יְהוָ֔ה אֲשֶׁר שָׁ֖ם אֲר֥וֹן
+        אֱלֹהִֽים
+  - tradition: islam
+    passages:
+    - ref: Quran 61:8
+      lang: ar
+      text: يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ
+        كَرِهَ ٱلْكَٰفِرُونَ
 ---
 
 ## Questions

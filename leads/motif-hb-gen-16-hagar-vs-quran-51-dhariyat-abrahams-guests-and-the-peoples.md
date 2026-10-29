@@ -2,8 +2,7 @@
 id: motif-hb-gen-16-hagar-vs-quran-51-dhariyat-abrahams-guests-and-the-peoples
 title: Hagar and the birth of Ishmael ↔ Abraham's honored guests, the barren old wife striking her face,
   the stones of clay for Lot's people; Pharaoh, 'Ad, Thamud and Noah
-summary: 'These two units share 2 motifs: the patriarch''s wife is barren, a divine messenger announces
-  a son''s birth and gives his name.'
+summary: 2 shared motifs, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,47 +14,12 @@ traditions:
 layers:
 - motif
 motifs:
-- barren-matriarch
 - annunciation-of-son-and-name
-passages:
-- tradition: judaism
-  ref: Gen 16:1
-  note: The patriarch's wife is barren
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְשָׂרַי֙ אֵ֣שֶׁת אַבְרָ֔ם לֹ֥א יָלְדָ֖ה ל֑וֹ וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית וּשְׁמָ֥הּ הָגָֽר
-- tradition: judaism
-  ref: Gen 16:2
-  note: The patriarch's wife is barren
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַתֹּ֨אמֶר שָׂרַ֜י אֶל אַבְרָ֗ם הִנֵּה נָ֞א עֲצָרַ֤נִי יְהוָה֙ מִלֶּ֔דֶת בֹּא נָא֙ אֶל שִׁפְחָתִ֔י
-    אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי
-- tradition: islam
-  ref: Quran 51:29
-  note: The patriarch's wife is barren
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
-- tradition: judaism
-  ref: Gen 16:11
-  note: A divine messenger announces a son's birth and gives his name
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל
-    כִּֽי שָׁמַ֥ע יְהוָ֖ה אֶל עָנְיֵֽךְ
-- tradition: islam
-  ref: Quran 51:28
-  note: A divine messenger announces a son's birth and gives his name (wə-hinnēh ḇēn lə-śārâ ʾištekā;
-    lam-môʿēḏ ʾāšûḇ ʾēleḵā kā-ʿēṯ ḥayyâ û-lə-śārâ ḇēn vs. wa-bashsharūhu bi-ghulāmin ʿalīm. Genesis promises
-    a son to Sarah with a set time; the Quran gives the good news to Abraham of 'a knowing boy', with
-    no time and no name.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+- barren-matriarch
+passages: []
 evidence:
-- text: 'Shared motifs, rarest first: The patriarch''s wife is barren (weight 5.2); A divine messenger
-    announces a son''s birth and gives his name (weight 5.2). Pair score 10.4.'
+- text: 'Shared motifs, rarest first: A divine messenger announces a son''s birth and gives his name (weight
+    5.2); The patriarch''s wife is barren (weight 5.2). Pair score 10.4.'
   basis: reading
 - text: 'Only in Hagar and the birth of Ishmael: An angel meets the outcast woman by a spring or well
     in the wilderness; Woman names God El Roi, ''God who sees'', and the well Beer-lahai-roi; The pregnant
@@ -85,6 +49,52 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: A divine messenger announces a son's birth and gives his name
+kinds:
+- shared
+units:
+- id: hb-gen-16-hagar
+  title: Hagar and the birth of Ishmael
+  tradition: judaism
+- id: quran-51-dhariyat-abrahams-guests-and-the-peoples
+  title: Abraham's honored guests, the barren old wife striking her face, the stones of clay for Lot's
+    people; Pharaoh, 'Ad, Thamud and Noah
+  tradition: islam
+matches:
+- kind: shared
+  label: A divine messenger announces a son's birth and gives his name
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 16:11
+      lang: he
+      text: וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הִנָּ֥ךְ הָרָ֖ה וְיֹלַ֣דְתְּ בֵּ֑ן וְקָרָ֤את שְׁמוֹ֙ יִשְׁמָעֵ֔אל
+        כִּֽי שָׁמַ֥ע יְהוָ֖ה אֶל עָנְיֵֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 51:28
+      lang: ar
+      text: فَأَوْجَسَ مِنْهُمْ خِيفَةً قَالُوا۟ لَا تَخَفْ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٍ
+    note: wə-hinnēh ḇēn lə-śārâ ʾištekā; lam-môʿēḏ ʾāšûḇ ʾēleḵā kā-ʿēṯ ḥayyâ û-lə-śārâ ḇēn vs. wa-bashsharūhu
+      bi-ghulāmin ʿalīm. Genesis promises a son to Sarah with a set time; the Quran gives the good news
+      to Abraham of 'a knowing boy', with no time and no name.
+- kind: shared
+  label: The patriarch's wife is barren
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 16:1
+      lang: he
+      text: וְשָׂרַי֙ אֵ֣שֶׁת אַבְרָ֔ם לֹ֥א יָלְדָ֖ה ל֑וֹ וְלָ֛הּ שִׁפְחָ֥ה מִצְרִ֖ית וּשְׁמָ֥הּ הָגָֽר
+    - ref: Gen 16:2
+      lang: he
+      text: וַתֹּ֨אמֶר שָׂרַ֜י אֶל אַבְרָ֗ם הִנֵּה נָ֞א עֲצָרַ֤נִי יְהוָה֙ מִלֶּ֔דֶת בֹּא נָא֙ אֶל שִׁפְחָתִ֔י
+        אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 51:29
+      lang: ar
+      text: فَأَقْبَلَتِ ٱمْرَأَتُهُۥ فِى صَرَّةٍ فَصَكَّتْ وَجْهَهَا وَقَالَتْ عَجُوزٌ عَقِيمٌ
 ---
 
 ## Questions

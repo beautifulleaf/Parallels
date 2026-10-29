@@ -2,8 +2,7 @@
 id: motif-hb-2sam-5-king-over-all-israel-jerusalem-vs-quran-24-household-etiquette
 title: David king over all Israel; capture of Jebusite Zion ↔ Times of privacy, elderly women, eating
   in kin houses, leave from the messenger
-summary: 'These two units share 1 motifs: whether the blind and the lame may enter the house or share
-  its table [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,41 +14,9 @@ layers:
 - motif
 motifs:
 - blind-and-lame-admitted-or-excluded-as-contrast
-passages:
-- tradition: judaism
-  ref: 2Sam 5:8
-  note: 'Whether the blind and the lame may enter the house or share its table [contrast between the texts]
-    (laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun ... an taʾkulū min buyūtikum ~ ʿal kēn yōʾmərû
-    ʿiwwēr û-fissēaḥ lōʾ yāvôʾ ʾel hab-bāyit: the same pair, blind and lame (aʿmā, aʿraj ~ ʿiwwēr, pissēaḥ).
-    The proverb from David''s capture of Jerusalem bars them from ''the house''; the Quran declares them
-    free of blame when they eat in the houses of kin and friends.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֨אמֶר דָּוִ֜ד בַּיּ֣וֹם הַה֗וּא כָּל מַכֵּ֤ה יְבֻסִי֙ וְיִגַּ֣ע בַּצִּנּ֔וֹר וְאֶת הַפִּסְחִים֙
-    וְאֶת הַ֣עִוְרִ֔ים שנאו שְׂנֻאֵ֖י נֶ֣פֶשׁ דָּוִ֑ד עַל כֵּן֙ יֹֽאמְר֔וּ עִוֵּ֣ר וּפִסֵּ֔חַ לֹ֥א יָב֖וֹא
-    אֶל הַבָּֽיִת
-- tradition: islam
-  ref: Quran 24:61
-  note: 'Whether the blind and the lame may enter the house or share its table [contrast between the texts]
-    (laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun ... an taʾkulū min buyūtikum ~ ʿal kēn yōʾmərû
-    ʿiwwēr û-fissēaḥ lōʾ yāvôʾ ʾel hab-bāyit: the same pair, blind and lame (aʿmā, aʿraj ~ ʿiwwēr, pissēaḥ).
-    The proverb from David''s capture of Jerusalem bars them from ''the house''; the Quran declares them
-    free of blame when they eat in the houses of kin and friends.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
-    وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ
-    أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ أَوْ
-    بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم مَّفَاتِحَهُۥٓ
-    أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا فَإِذَا دَخَلْتُم
-    بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً طَيِّبَةً كَذَٰلِكَ
-    يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    contrast. laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun ... an taʾkulū min buyūtikum ~ ʿal
-    kēn yōʾmərû ʿiwwēr û-fissēaḥ lōʾ yāvôʾ ʾel hab-bāyit: the same pair, blind and lame (aʿmā, aʿraj ~
-    ʿiwwēr, pissēaḥ). The proverb from David''s capture of Jerusalem bars them from ''the house''; the
-    Quran declares them free of blame when they eat in the houses of kin and friends.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether the blind and the lame may enter the house or share its
     table [contrast between the texts] (weight 6.7). Pair score 6.7.'
@@ -79,6 +46,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether the blind and the lame may enter the house or share its table
+kinds:
+- contrast
+units:
+- id: hb-2sam-5-king-over-all-israel-jerusalem
+  title: David king over all Israel; capture of Jebusite Zion
+  tradition: judaism
+- id: quran-24-household-etiquette
+  title: Times of privacy, elderly women, eating in kin houses, leave from the messenger
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether the blind and the lame may enter the house or share its table
+  note: 'laysa ʿalā l-aʿmā ḥarajun wa-lā ʿalā l-aʿraji ḥarajun ... an taʾkulū min buyūtikum ~ ʿal kēn
+    yōʾmərû ʿiwwēr û-fissēaḥ lōʾ yāvôʾ ʾel hab-bāyit: the same pair, blind and lame (aʿmā, aʿraj ~ ʿiwwēr,
+    pissēaḥ). The proverb from David''s capture of Jerusalem bars them from ''the house''; the Quran declares
+    them free of blame when they eat in the houses of kin and friends.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: 2Sam 5:8
+      lang: he
+      text: וַיֹּ֨אמֶר דָּוִ֜ד בַּיּ֣וֹם הַה֗וּא כָּל מַכֵּ֤ה יְבֻסִי֙ וְיִגַּ֣ע בַּצִּנּ֔וֹר וְאֶת הַפִּסְחִים֙
+        וְאֶת הַ֣עִוְרִ֔ים שנאו שְׂנֻאֵ֖י נֶ֣פֶשׁ דָּוִ֑ד עַל כֵּן֙ יֹֽאמְר֔וּ עִוֵּ֣ר וּפִסֵּ֔חַ לֹ֥א
+        יָב֖וֹא אֶל הַבָּֽיִת
+  - tradition: islam
+    passages:
+    - ref: Quran 24:61
+      lang: ar
+      text: لَّيْسَ عَلَى ٱلْأَعْمَىٰ حَرَجٌ وَلَا عَلَى ٱلْأَعْرَجِ حَرَجٌ وَلَا عَلَى ٱلْمَرِيضِ حَرَجٌ
+        وَلَا عَلَىٰٓ أَنفُسِكُمْ أَن تَأْكُلُوا۟ مِنۢ بُيُوتِكُمْ أَوْ بُيُوتِ ءَابَآئِكُمْ أَوْ بُيُوتِ
+        أُمَّهَٰتِكُمْ أَوْ بُيُوتِ إِخْوَٰنِكُمْ أَوْ بُيُوتِ أَخَوَٰتِكُمْ أَوْ بُيُوتِ أَعْمَٰمِكُمْ
+        أَوْ بُيُوتِ عَمَّٰتِكُمْ أَوْ بُيُوتِ أَخْوَٰلِكُمْ أَوْ بُيُوتِ خَٰلَٰتِكُمْ أَوْ مَا مَلَكْتُم
+        مَّفَاتِحَهُۥٓ أَوْ صَدِيقِكُمْ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَأْكُلُوا۟ جَمِيعًا أَوْ أَشْتَاتًا
+        فَإِذَا دَخَلْتُم بُيُوتًا فَسَلِّمُوا۟ عَلَىٰٓ أَنفُسِكُمْ تَحِيَّةً مِّنْ عِندِ ٱللَّهِ مُبَٰرَكَةً
+        طَيِّبَةً كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمُ ٱلْءَايَٰتِ لَعَلَّكُمْ تَعْقِلُونَ
 ---
 
 ## Questions

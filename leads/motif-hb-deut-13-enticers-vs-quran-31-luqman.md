@@ -1,8 +1,7 @@
 ---
 id: motif-hb-deut-13-enticers-vs-quran-31-luqman
 title: False prophet, enticing kin, and the apostate city ↔ Luqman's advice to his son
-summary: 'These two units share 1 motifs: how to treat close kin who urge one to worship other gods [contrast
-  between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -14,52 +13,9 @@ layers:
 - motif
 motifs:
 - kin-who-urge-other-gods-as-contrast
-passages:
-- tradition: judaism
-  ref: Deut 13:7
-  note: 'How to treat close kin who urge one to worship other gods [contrast between the texts] (Kin who
-    urge other gods. Deut: kî yəsîṯəḵā ʾāḥîḵā ... ʾô-ḇinḵā ʾô-ḇittəḵā ʾô ʾēšeṯ ḥêqeḵā ... nēlḵâ wə-naʿaḇḏâ
-    ʾĕlōhîm ʾăḥērîm: lōʾ ṯōʾḇeh lô ... wə-lōʾ-ṯāḥôs ʿênəḵā ʿālâw ... kî hārōḡ tahargennû. Q: if your parents
-    strive to make you associate, fa-lā tuṭiʿhumā but ṣāḥibhumā fī d-dunyā maʿrūfan. One law demands death
-    without pity, the other refusal with continued kindness. Deut''s list leaves out the parents; the
-    Quran''s case is exactly the parents.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
-    רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁר֙
-    לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
-- tradition: judaism
-  ref: Deut 13:9
-  note: 'How to treat close kin who urge one to worship other gods [contrast between the texts] (Kin who
-    urge other gods. Deut: kî yəsîṯəḵā ʾāḥîḵā ... ʾô-ḇinḵā ʾô-ḇittəḵā ʾô ʾēšeṯ ḥêqeḵā ... nēlḵâ wə-naʿaḇḏâ
-    ʾĕlōhîm ʾăḥērîm: lōʾ ṯōʾḇeh lô ... wə-lōʾ-ṯāḥôs ʿênəḵā ʿālâw ... kî hārōḡ tahargennû. Q: if your parents
-    strive to make you associate, fa-lā tuṭiʿhumā but ṣāḥibhumā fī d-dunyā maʿrūfan. One law demands death
-    without pity, the other refusal with continued kindness. Deut''s list leaves out the parents; the
-    Quran''s case is exactly the parents.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל וְלֹֽא
-    תְכַסֶּ֖ה עָלָֽיו
-- tradition: islam
-  ref: Quran 31:15
-  note: 'How to treat close kin who urge one to worship other gods [contrast between the texts] (Kin who
-    urge other gods. Deut: kî yəsîṯəḵā ʾāḥîḵā ... ʾô-ḇinḵā ʾô-ḇittəḵā ʾô ʾēšeṯ ḥêqeḵā ... nēlḵâ wə-naʿaḇḏâ
-    ʾĕlōhîm ʾăḥērîm: lōʾ ṯōʾḇeh lô ... wə-lōʾ-ṯāḥôs ʿênəḵā ʿālâw ... kî hārōḡ tahargennû. Q: if your parents
-    strive to make you associate, fa-lā tuṭiʿhumā but ṣāḥibhumā fī d-dunyā maʿrūfan. One law demands death
-    without pity, the other refusal with continued kindness. Deut''s list leaves out the parents; the
-    Quran''s case is exactly the parents.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا
-    فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
-    بِمَا كُنتُمْ تَعْمَلُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    contrast. Kin who urge other gods. Deut: kî yəsîṯəḵā ʾāḥîḵā ... ʾô-ḇinḵā ʾô-ḇittəḵā ʾô ʾēšeṯ ḥêqeḵā
-    ... nēlḵâ wə-naʿaḇḏâ ʾĕlōhîm ʾăḥērîm: lōʾ ṯōʾḇeh lô ... wə-lōʾ-ṯāḥôs ʿênəḵā ʿālâw ... kî hārōḡ tahargennû.
-    Q: if your parents strive to make you associate, fa-lā tuṭiʿhumā but ṣāḥibhumā fī d-dunyā maʿrūfan.
-    One law demands death without pity, the other refusal with continued kindness. Deut''s list leaves
-    out the parents; the Quran''s case is exactly the parents.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: How to treat close kin who urge one to worship other gods [contrast
     between the texts] (weight 6.7). Pair score 6.7.'
@@ -93,6 +49,47 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: How to treat close kin who urge one to worship other gods
+kinds:
+- contrast
+units:
+- id: hb-deut-13-enticers
+  title: False prophet, enticing kin, and the apostate city
+  tradition: judaism
+- id: quran-31-luqman
+  title: Luqman's advice to his son
+  tradition: islam
+matches:
+- kind: contrast
+  label: How to treat close kin who urge one to worship other gods
+  note: 'Kin who urge other gods. Deut: kî yəsîṯəḵā ʾāḥîḵā ... ʾô-ḇinḵā ʾô-ḇittəḵā ʾô ʾēšeṯ ḥêqeḵā ...
+    nēlḵâ wə-naʿaḇḏâ ʾĕlōhîm ʾăḥērîm: lōʾ ṯōʾḇeh lô ... wə-lōʾ-ṯāḥôs ʿênəḵā ʿālâw ... kî hārōḡ tahargennû.
+    Q: if your parents strive to make you associate, fa-lā tuṭiʿhumā but ṣāḥibhumā fī d-dunyā maʿrūfan.
+    One law demands death without pity, the other refusal with continued kindness. Deut''s list leaves
+    out the parents; the Quran''s case is exactly the parents.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 13:7
+      lang: he
+      text: כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן אִ֠מֶּךָ אֽוֹ בִנְךָ֨ אֽוֹ בִתְּךָ֜ א֣וֹ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ
+        רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים
+        אֲשֶׁר֙ לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ
+    - ref: Deut 13:9
+      lang: he
+      text: לֹא תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא תַחְמֹ֥ל
+        וְלֹֽא תְכַסֶּ֖ה עָלָֽיו
+    - ref: Deut 13:10
+      lang: he
+      text: כִּ֤י הָרֹג֙ תַּֽהַרְגֶ֔נּוּ יָֽדְךָ֛ תִּֽהְיֶה בּ֥וֹ בָרִֽאשׁוֹנָ֖ה לַהֲמִית֑וֹ וְיַ֥ד כָּל
+        הָעָ֖ם בָּאַחֲרֹנָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 31:15
+      lang: ar
+      text: وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشْرِكَ بِى مَا لَيْسَ لَكَ بِهِۦ عِلْمٌ فَلَا تُطِعْهُمَا وَصَاحِبْهُمَا
+        فِى ٱلدُّنْيَا مَعْرُوفًا وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَىَّ ثُمَّ إِلَىَّ مَرْجِعُكُمْ فَأُنَبِّئُكُم
+        بِمَا كُنتُمْ تَعْمَلُونَ
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-job-26-hymn-to-cosmic-power-vs-quran-39-pure-religion
 title: Job - the earth hung on nothing; Rahab smitten ↔ Pure religion; no son for God; creation from one
   soul in three darknesses
-summary: 'These two units share 1 motifs: god wraps (yukawwir) the night around the day and the day around
-  the night.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,29 +14,9 @@ layers:
 - motif
 motifs:
 - night-wound-around-day
-passages:
-- tradition: judaism
-  ref: Job 26:10
-  note: 'God wraps (yukawwir) the night around the day and the day around the night (ḥōq-ḥāḡ ʿal-pənê-māyim
-    ʿaḏ-taḵlîṯ ʾôr ʿim-ḥōšeḵ (he drew a circle on the waters at the boundary of light and darkness) vs.
-    yukawwiru l-layla ʿalā n-nahāri wa-yukawwiru n-nahāra ʿalā l-layl (he wraps night round day): day
-    and night as something curved or circled round.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: חֹֽק חָ֭ג עַל פְּנֵי מָ֑יִם עַד תַּכְלִ֖ית א֣וֹר עִם חֹֽשֶׁךְ
-- tradition: islam
-  ref: Quran 39:5
-  note: God wraps (yukawwir) the night around the day and the day around the night
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ ٱلنَّهَارَ
-    عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى أَلَا هُوَ ٱلْعَزِيزُ
-    ٱلْغَفَّٰرُ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ḥōq-ḥāḡ ʿal-pənê-māyim ʿaḏ-taḵlîṯ ʾôr ʿim-ḥōšeḵ (he drew a circle on the waters at the boundary
-    of light and darkness) vs. yukawwiru l-layla ʿalā n-nahāri wa-yukawwiru n-nahāra ʿalā l-layl (he wraps
-    night round day): day and night as something curved or circled round.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God wraps (yukawwir) the night around the day and the day around
     the night (weight 6.7). Pair score 6.7.'
@@ -72,6 +51,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God wraps (yukawwir) the night around the day and the day around the night
+kinds:
+- echo
+units:
+- id: hb-job-26-hymn-to-cosmic-power
+  title: Job - the earth hung on nothing; Rahab smitten
+  tradition: judaism
+- id: quran-39-pure-religion
+  title: Pure religion; no son for God; creation from one soul in three darknesses
+  tradition: islam
+matches:
+- kind: echo
+  label: God wraps (yukawwir) the night around the day and the day around the night
+  note: 'ḥōq-ḥāḡ ʿal-pənê-māyim ʿaḏ-taḵlîṯ ʾôr ʿim-ḥōšeḵ (he drew a circle on the waters at the boundary
+    of light and darkness) vs. yukawwiru l-layla ʿalā n-nahāri wa-yukawwiru n-nahāra ʿalā l-layl (he wraps
+    night round day): day and night as something curved or circled round.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Job 26:10
+      lang: he
+      text: חֹֽק חָ֭ג עַל פְּנֵי מָ֑יִם עַד תַּכְלִ֖ית א֣וֹר עִם חֹֽשֶׁךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 39:5
+      lang: ar
+      text: خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ يُكَوِّرُ ٱلَّيْلَ عَلَى ٱلنَّهَارِ وَيُكَوِّرُ
+        ٱلنَّهَارَ عَلَى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى أَلَا
+        هُوَ ٱلْعَزِيزُ ٱلْغَفَّٰرُ
 ---
 
 ## Questions

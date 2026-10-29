@@ -2,7 +2,7 @@
 id: motif-hb-ezek-34-shepherds-vs-quran-9-uzayr-clergy
 title: The bad shepherds; God the shepherd; one shepherd David; the covenant of peace ↔ 'Uzayr and the
   Messiah called sons of God; rabbis and monks as lords
-summary: 'These two units share 1 motifs: many rabbis and monks devour people''s wealth wrongfully.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,42 +14,9 @@ layers:
 - motif
 motifs:
 - clergy-devour-peoples-wealth
-passages:
-- tradition: judaism
-  ref: Ezek 34:2
-  note: 'Many rabbis and monks devour people''s wealth wrongfully (Leaders who feed on those in their
-    care: inna kathīran mina l-aḥbāri wa-r-ruhbāni la-yaʾkulūna amwāla n-nāsi bi-l-bāṭil vs hôy rōʿê-yiśrāʾēl
-    ʾăšer hāyû rōʿîm ʾôtām ... ʾet-haḥēleb tōʾkēlû wᵉʾet-haṣṣemer tilbāšû. In Ezek they are kings and
-    shepherds; in Q religious scholars and monks, with the same verb ''eat'' (akala / ʾākal).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: בֶּן אָדָ֕ם הִנָּבֵ֖א עַל רוֹעֵ֣י יִשְׂרָאֵ֑ל הִנָּבֵ֣א וְאָמַרְתָּ֩ אֲלֵיהֶ֨ם לָרֹעִ֜ים כֹּ֥ה
-    אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה ה֤וֹי רֹעֵֽי יִשְׂרָאֵל֙ אֲשֶׁ֤ר הָיוּ֙ רֹעִ֣ים אוֹתָ֔ם הֲל֣וֹא הַצֹּ֔אן יִרְע֖וּ
-    הָרֹעִֽים
-- tradition: judaism
-  ref: Ezek 34:3
-  note: 'Many rabbis and monks devour people''s wealth wrongfully (Leaders who feed on those in their
-    care: inna kathīran mina l-aḥbāri wa-r-ruhbāni la-yaʾkulūna amwāla n-nāsi bi-l-bāṭil vs hôy rōʿê-yiśrāʾēl
-    ʾăšer hāyû rōʿîm ʾôtām ... ʾet-haḥēleb tōʾkēlû wᵉʾet-haṣṣemer tilbāšû. In Ezek they are kings and
-    shepherds; in Q religious scholars and monks, with the same verb ''eat'' (akala / ʾākal).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֶת הַחֵ֤לֶב תֹּאכֵ֨לוּ֙ וְאֶת הַצֶּ֣מֶר תִּלְבָּ֔שׁוּ הַבְּרִיאָ֖ה תִּזְבָּ֑חוּ הַצֹּ֖אן לֹ֥א
-    תִרְעֽוּ
-- tradition: islam
-  ref: Quran 9:34
-  note: Many rabbis and monks devour people's wealth wrongfully
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
-    أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
-    وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Leaders who feed on those in their care: inna kathīran mina l-aḥbāri wa-r-ruhbāni la-yaʾkulūna
-    amwāla n-nāsi bi-l-bāṭil vs hôy rōʿê-yiśrāʾēl ʾăšer hāyû rōʿîm ʾôtām ... ʾet-haḥēleb tōʾkēlû wᵉʾet-haṣṣemer
-    tilbāšû. In Ezek they are kings and shepherds; in Q religious scholars and monks, with the same verb
-    ''eat'' (akala / ʾākal).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Many rabbis and monks devour people''s wealth wrongfully (weight
     6.7). Pair score 6.7.'
@@ -87,6 +54,42 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Many rabbis and monks devour people's wealth wrongfully
+kinds:
+- echo
+units:
+- id: hb-ezek-34-shepherds
+  title: The bad shepherds; God the shepherd; one shepherd David; the covenant of peace
+  tradition: judaism
+- id: quran-9-uzayr-clergy
+  title: '''Uzayr and the Messiah called sons of God; rabbis and monks as lords'
+  tradition: islam
+matches:
+- kind: echo
+  label: Many rabbis and monks devour people's wealth wrongfully
+  note: 'Leaders who feed on those in their care: inna kathīran mina l-aḥbāri wa-r-ruhbāni la-yaʾkulūna
+    amwāla n-nāsi bi-l-bāṭil vs hôy rōʿê-yiśrāʾēl ʾăšer hāyû rōʿîm ʾôtām ... ʾet-haḥēleb tōʾkēlû wᵉʾet-haṣṣemer
+    tilbāšû. In Ezek they are kings and shepherds; in Q religious scholars and monks, with the same verb
+    ''eat'' (akala / ʾākal).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 34:2
+      lang: he
+      text: בֶּן אָדָ֕ם הִנָּבֵ֖א עַל רוֹעֵ֣י יִשְׂרָאֵ֑ל הִנָּבֵ֣א וְאָמַרְתָּ֩ אֲלֵיהֶ֨ם לָרֹעִ֜ים כֹּ֥ה
+        אָמַ֣ר אֲדֹנָ֣י יְהוִ֗ה ה֤וֹי רֹעֵֽי יִשְׂרָאֵל֙ אֲשֶׁ֤ר הָיוּ֙ רֹעִ֣ים אוֹתָ֔ם הֲל֣וֹא הַצֹּ֔אן
+        יִרְע֖וּ הָרֹעִֽים
+    - ref: Ezek 34:3
+      lang: he
+      text: אֶת הַחֵ֤לֶב תֹּאכֵ֨לוּ֙ וְאֶת הַצֶּ֣מֶר תִּלְבָּ֔שׁוּ הַבְּרִיאָ֖ה תִּזְבָּ֑חוּ הַצֹּ֖אן
+        לֹ֥א תִרְעֽוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 9:34
+      lang: ar
+      text: يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ
+        أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ
+        وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ
 ---
 
 ## Questions

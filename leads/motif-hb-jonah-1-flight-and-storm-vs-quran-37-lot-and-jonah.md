@@ -1,10 +1,7 @@
 ---
 id: motif-hb-jonah-1-flight-and-storm-vs-quran-37-lot-and-jonah
 title: Jonah flees to Tarshish and is thrown into the sea ↔ Lot's old woman; Jonah and the fish
-summary: 'These two units share 3 motifs: jonah flees by ship [divergence between the texts], sailors
-  cast lots to learn on whose account the disaster has come, and the lot falls on the prophet, sailors
-  cast lots to learn on whose account the disaster has come, and the lot falls on the prophet [divergence
-  between the texts].'
+summary: '2 correspondences read side by side: 2 deliberately changed.'
 status: new
 relations:
 - response
@@ -15,111 +12,15 @@ traditions:
 layers:
 - motif
 motifs:
-- jonahs-flight-by-ship-as-divergence
 - lots-cast-to-find-culprit-of-storm
+- jonahs-flight-by-ship-as-divergence
 - lots-cast-to-find-culprit-of-storm-as-divergence
-passages:
-- tradition: judaism
-  ref: Jonah 1:2
-  note: 'Jonah flees by ship [divergence between the texts] (The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ
-    taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh. A named destination (Tarshish), a fare paid, fleeing
-    ''from before YHWH''. Q: idh abaqa ilā l-fulki l-mashḥūn, a runaway slave (abaqa) fleeing his master.
-    The prophet''s title comes first (wa-inna Yūnusa la-mina l-mursalīn), and there is no commission to
-    Nineveh before the flight; the mission comes only after the fish (37:147).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: ק֠וּם לֵ֧ךְ אֶל נִֽינְוֵ֛ה הָעִ֥יר הַגְּדוֹלָ֖ה וּקְרָ֣א עָלֶ֑יהָ כִּֽי עָלְתָ֥ה רָעָתָ֖ם לְפָנָֽי
-- tradition: judaism
-  ref: Jonah 1:3
-  note: 'Jonah flees by ship [divergence between the texts] (The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ
-    taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh. A named destination (Tarshish), a fare paid, fleeing
-    ''from before YHWH''. Q: idh abaqa ilā l-fulki l-mashḥūn, a runaway slave (abaqa) fleeing his master.
-    The prophet''s title comes first (wa-inna Yūnusa la-mina l-mursalīn), and there is no commission to
-    Nineveh before the flight; the mission comes only after the fish (37:147).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּ֤קָם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א אָנִיָּ֣ה
-    בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י
-    יְהוָֽה
-- tradition: islam
-  ref: Quran 37:139
-  note: 'Jonah flees by ship [divergence between the texts] (The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ
-    taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh. A named destination (Tarshish), a fare paid, fleeing
-    ''from before YHWH''. Q: idh abaqa ilā l-fulki l-mashḥūn, a runaway slave (abaqa) fleeing his master.
-    The prophet''s title comes first (wa-inna Yūnusa la-mina l-mursalīn), and there is no commission to
-    Nineveh before the flight; the mission comes only after the fish (37:147).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ
-- tradition: islam
-  ref: Quran 37:140
-  note: 'Jonah flees by ship [divergence between the texts] (The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ
-    taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh. A named destination (Tarshish), a fare paid, fleeing
-    ''from before YHWH''. Q: idh abaqa ilā l-fulki l-mashḥūn, a runaway slave (abaqa) fleeing his master.
-    The prophet''s title comes first (wa-inna Yūnusa la-mina l-mursalīn), and there is no commission to
-    Nineveh before the flight; the mission comes only after the fish (37:147).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ
-- tradition: judaism
-  ref: Jonah 1:7
-  note: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ אִ֣ישׁ אֶל רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה
-    הַזֹּ֖את לָ֑נוּ וַיַּפִּ֨לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל יוֹנָֽה
-- tradition: islam
-  ref: Quran 37:141
-  note: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
-    (he drew lots and was among the losers)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ
-- tradition: judaism
-  ref: Jonah 1:7
-  note: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
-    [divergence between the texts] (wa-yyappilû gôrālôṯ wa-yyippōl ha-ggôrāl ʿal-yônâ ... śāʾûnî wa-haṭîlunî
-    ʾel-ha-yyām vs. fa-sāhama fa-kāna mina l-mudḥaḍīn. In Jonah the sailors cast lots and Jonah volunteers
-    to be thrown in; in the Quran Jonah himself takes part in the lot (sāhama) and loses. The storm, the
-    sailors' prayers and their conversion are left out.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמְר֞וּ אִ֣ישׁ אֶל רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה
-    הַזֹּ֖את לָ֑נוּ וַיַּפִּ֨לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל יוֹנָֽה
-- tradition: judaism
-  ref: Jonah 1:12
-  note: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
-    [divergence between the texts] (wa-yyappilû gôrālôṯ wa-yyippōl ha-ggôrāl ʿal-yônâ ... śāʾûnî wa-haṭîlunî
-    ʾel-ha-yyām vs. fa-sāhama fa-kāna mina l-mudḥaḍīn. In Jonah the sailors cast lots and Jonah volunteers
-    to be thrown in; in the Quran Jonah himself takes part in the lot (sāhama) and loses. The storm, the
-    sailors' prayers and their conversion are left out.)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֨וּנִי֙ וַהֲטִילֻ֣נִי אֶל הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם כִּ֚י
-    יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם
-- tradition: islam
-  ref: Quran 37:141
-  note: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
-    [divergence between the texts] (wa-yyappilû gôrālôṯ wa-yyippōl ha-ggôrāl ʿal-yônâ ... śāʾûnî wa-haṭîlunî
-    ʾel-ha-yyām vs. fa-sāhama fa-kāna mina l-mudḥaḍīn. In Jonah the sailors cast lots and Jonah volunteers
-    to be thrown in; in the Quran Jonah himself takes part in the lot (sāhama) and loses. The storm, the
-    sailors' prayers and their conversion are left out.)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh.
-    A named destination (Tarshish), a fare paid, fleeing ''from before YHWH''. Q: idh abaqa ilā l-fulki
-    l-mashḥūn, a runaway slave (abaqa) fleeing his master. The prophet''s title comes first (wa-inna Yūnusa
-    la-mina l-mursalīn), and there is no commission to Nineveh before the flight; the mission comes only
-    after the fish (37:147). wa-yyappilû gôrālôṯ wa-yyippōl ha-ggôrāl ʿal-yônâ ... śāʾûnî wa-haṭîlunî
-    ʾel-ha-yyām vs. fa-sāhama fa-kāna mina l-mudḥaḍīn. In Jonah the sailors cast lots and Jonah volunteers
-    to be thrown in; in the Quran Jonah himself takes part in the lot (sāhama) and loses. The storm, the
-    sailors'' prayers and their conversion are left out.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
-- text: 'Shared motifs, rarest first: Jonah flees by ship [divergence between the texts] (weight 6.7);
-    Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
+- text: 'Shared motifs, rarest first: Sailors cast lots to learn on whose account the disaster has come,
+    and the lot falls on the prophet (weight 6.7); Jonah flees by ship [divergence between the texts]
     (weight 6.7); Sailors cast lots to learn on whose account the disaster has come, and the lot falls
     on the prophet [divergence between the texts] (weight 6.7). Pair score 20.1.'
   basis: reading
@@ -153,6 +54,66 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Jonah flees by ship
+kinds:
+- divergence
+units:
+- id: hb-jonah-1-flight-and-storm
+  title: Jonah flees to Tarshish and is thrown into the sea
+  tradition: judaism
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+matches:
+- kind: divergence
+  label: Jonah flees by ship
+  note: 'The flight. Jonah: wa-yyāqom yônâ liḇrōaḥ taršîšâ mi-lləp̄nê YHWH ... wa-yyittēn śəḵārāh. A named
+    destination (Tarshish), a fare paid, fleeing ''from before YHWH''. Q: idh abaqa ilā l-fulki l-mashḥūn,
+    a runaway slave (abaqa) fleeing his master. The prophet''s title comes first (wa-inna Yūnusa la-mina
+    l-mursalīn), and there is no commission to Nineveh before the flight; the mission comes only after
+    the fish (37:147).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:2
+      lang: he
+      text: ק֠וּם לֵ֧ךְ אֶל נִֽינְוֵ֛ה הָעִ֥יר הַגְּדוֹלָ֖ה וּקְרָ֣א עָלֶ֑יהָ כִּֽי עָלְתָ֥ה רָעָתָ֖ם
+        לְפָנָֽי
+    - ref: Jonah 1:3
+      lang: he
+      text: וַיָּ֤קָם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א
+        אָנִיָּ֣ה בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה
+        מִלִּפְנֵ֖י יְהוָֽה
+  - tradition: islam
+    passages:
+    - ref: Quran 37:139
+      lang: ar
+      text: وَإِنَّ يُونُسَ لَمِنَ ٱلْمُرْسَلِينَ
+    - ref: Quran 37:140
+      lang: ar
+      text: إِذْ أَبَقَ إِلَى ٱلْفُلْكِ ٱلْمَشْحُونِ
+- kind: divergence
+  label: Sailors cast lots to learn on whose account the disaster has come, and the lot falls on the prophet
+  note: wa-yyappilû gôrālôṯ wa-yyippōl ha-ggôrāl ʿal-yônâ ... śāʾûnî wa-haṭîlunî ʾel-ha-yyām vs. fa-sāhama
+    fa-kāna mina l-mudḥaḍīn. In Jonah the sailors cast lots and Jonah volunteers to be thrown in; in the
+    Quran Jonah himself takes part in the lot (sāhama) and loses. The storm, the sailors' prayers and
+    their conversion are left out.
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 1:7
+      lang: he
+      text: וַיֹּאמְר֞וּ אִ֣ישׁ אֶל רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י
+        הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ וַיַּפִּ֨לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל יוֹנָֽה
+    - ref: Jonah 1:12
+      lang: he
+      text: וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֨וּנִי֙ וַהֲטִילֻ֣נִי אֶל הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם
+        כִּ֚י יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:141
+      lang: ar
+      text: فَسَاهَمَ فَكَانَ مِنَ ٱلْمُدْحَضِينَ
 ---
 
 ## Questions

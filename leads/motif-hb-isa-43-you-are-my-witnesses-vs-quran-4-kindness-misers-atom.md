@@ -2,8 +2,7 @@
 id: motif-hb-isa-43-you-are-my-witnesses-vs-quran-4-kindness-misers-atom
 title: I have called you by name; you are my witnesses; behold I do a new thing ↔ The circle of kindness,
   misers, and the atom's weight
-summary: 'These two units share 1 motifs: on judgment day a witness is brought from every nation, and
-  the prophet as witness over them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,30 +14,9 @@ layers:
 - motif
 motifs:
 - witness-from-every-nation
-passages:
-- tradition: judaism
-  ref: Isa 43:9
-  note: 'On judgment day a witness is brought from every nation, and the Prophet as witness over them
-    (Isa 43:9 kol ha-ggôyim niqbĕṣû yaḥdāw ... yittĕnû ʿēdêhem: all nations gathered, let them bring their
-    witnesses; Q 4:41 fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa-jiʾnā bika ʿalā hāʾulāʾi shahīdan:
-    a witness brought from every nation, and the prophet as witness over these. A court of the nations
-    with witnesses; for the nations'' gods in Isaiah, against the nations themselves in the Quran.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את וְרִֽאשֹׁנ֖וֹת
-    יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
-- tradition: islam
-  ref: Quran 4:41
-  note: On judgment day a witness is brought from every nation, and the Prophet as witness over them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/01-hb-quran.yaml):
-    echo. Isa 43:9 kol ha-ggôyim niqbĕṣû yaḥdāw ... yittĕnû ʿēdêhem: all nations gathered, let them bring
-    their witnesses; Q 4:41 fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa-jiʾnā bika ʿalā hāʾulāʾi
-    shahīdan: a witness brought from every nation, and the prophet as witness over these. A court of the
-    nations with witnesses; for the nations'' gods in Isaiah, against the nations themselves in the Quran.'
+- text: Read side by side in both originals (alignments/hb-quran/01-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: On judgment day a witness is brought from every nation, and the
     Prophet as witness over them (weight 6.0). Pair score 6.0.'
@@ -75,6 +53,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: On judgment day a witness is brought from every nation, and the Prophet as witness over them
+kinds:
+- echo
+units:
+- id: hb-isa-43-you-are-my-witnesses
+  title: I have called you by name; you are my witnesses; behold I do a new thing
+  tradition: judaism
+- id: quran-4-kindness-misers-atom
+  title: The circle of kindness, misers, and the atom's weight
+  tradition: islam
+matches:
+- kind: echo
+  label: On judgment day a witness is brought from every nation, and the Prophet as witness over them
+  note: 'Isa 43:9 kol ha-ggôyim niqbĕṣû yaḥdāw ... yittĕnû ʿēdêhem: all nations gathered, let them bring
+    their witnesses; Q 4:41 fa-kayfa idhā jiʾnā min kulli ummatin bi-shahīdin wa-jiʾnā bika ʿalā hāʾulāʾi
+    shahīdan: a witness brought from every nation, and the prophet as witness over these. A court of the
+    nations with witnesses; for the nations'' gods in Isaiah, against the nations themselves in the Quran.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 43:9
+      lang: he
+      text: כָּֽל הַגּוֹיִ֞ם נִקְבְּצ֣וּ יַחְדָּ֗ו וְיֵאָֽסְפוּ֙ לְאֻמִּ֔ים מִ֤י בָהֶם֙ יַגִּ֣יד זֹ֔את
+        וְרִֽאשֹׁנ֖וֹת יַשְׁמִיעֻ֑נוּ יִתְּנ֤וּ עֵֽדֵיהֶם֙ וְיִצְדָּ֔קוּ וְיִשְׁמְע֖וּ וְיֹאמְר֥וּ אֱמֶֽת
+  - tradition: islam
+    passages:
+    - ref: Quran 4:41
+      lang: ar
+      text: فَكَيْفَ إِذَا جِئْنَا مِن كُلِّ أُمَّةٍۭ بِشَهِيدٍ وَجِئْنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدًا
 ---
 
 ## Questions

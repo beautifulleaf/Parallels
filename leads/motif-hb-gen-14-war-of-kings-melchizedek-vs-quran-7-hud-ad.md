@@ -1,8 +1,7 @@
 ---
 id: motif-hb-gen-14-war-of-kings-melchizedek-vs-quran-7-hud-ad
 title: War of the four kings, rescue of Lot, Melchizedek ↔ Hud and the people of Ad
-summary: 'These two units share 1 motifs: ancient giant or rephaite peoples (rephaim, zuzim, emim, horites)
-  defeated.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -14,34 +13,9 @@ layers:
 - motif
 motifs:
 - primeval-giant-peoples
-passages:
-- tradition: judaism
-  ref: Gen 14:5
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדָרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּכּ֤וּ
-    אֶת רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה קִרְיָתָֽיִם
-- tradition: judaism
-  ref: Gen 14:6
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְאֶת הַחֹרִ֖י בְּהַרְרָ֣ם שֵׂעִ֑יר עַ֚ד אֵ֣יל פָּארָ֔ן אֲשֶׁ֖ר עַל הַמִּדְבָּֽר
-- tradition: islam
-  ref: Quran 7:69
-  note: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated (Ad's enlarged stature;
-    interpretation)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ وَٱذْكُرُوٓا۟
-    إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً فَٱذْكُرُوٓا۟
-    ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/02-hb-quran.yaml):
-    echo. Gen: wa-yyakkû ʾet-rəfāʾîm ... wə-ʾet-haz-zûzîm ... wə-ʾēt hā-ʾêmîm, giant peoples of old. Q:
-    Ad, given basṭatan fī l-khalq. Commentators identify Ad with such peoples; Q gives no name of a giant
-    people.'
+- text: Read side by side in both originals (alignments/hb-quran/02-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites)
     defeated (weight 5.1). Pair score 5.1.'
@@ -70,6 +44,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated
+kinds:
+- echo
+units:
+- id: hb-gen-14-war-of-kings-melchizedek
+  title: War of the four kings, rescue of Lot, Melchizedek
+  tradition: judaism
+- id: quran-7-hud-ad
+  title: Hud and the people of Ad
+  tradition: islam
+matches:
+- kind: echo
+  label: Ancient giant or Rephaite peoples (Rephaim, Zuzim, Emim, Horites) defeated
+  note: 'Gen: wa-yyakkû ʾet-rəfāʾîm ... wə-ʾet-haz-zûzîm ... wə-ʾēt hā-ʾêmîm, giant peoples of old. Q:
+    Ad, given basṭatan fī l-khalq. Commentators identify Ad with such peoples; Q gives no name of a giant
+    people.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Gen 14:5
+      lang: he
+      text: וּבְאַרְבַּע֩ עֶשְׂרֵ֨ה שָׁנָ֜ה בָּ֣א כְדָרְלָעֹ֗מֶר וְהַמְּלָכִים֙ אֲשֶׁ֣ר אִתּ֔וֹ וַיַּכּ֤וּ
+        אֶת רְפָאִים֙ בְּעַשְׁתְּרֹ֣ת קַרְנַ֔יִם וְאֶת הַזּוּזִ֖ים בְּהָ֑ם וְאֵת֙ הָֽאֵימִ֔ים בְּשָׁוֵ֖ה
+        קִרְיָתָֽיִם
+  - tradition: islam
+    passages:
+    - ref: Quran 7:69
+      lang: ar
+      text: أَوَعَجِبْتُمْ أَن جَآءَكُمْ ذِكْرٌ مِّن رَّبِّكُمْ عَلَىٰ رَجُلٍ مِّنكُمْ لِيُنذِرَكُمْ
+        وَٱذْكُرُوٓا۟ إِذْ جَعَلَكُمْ خُلَفَآءَ مِنۢ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِى ٱلْخَلْقِ بَصْۜطَةً
+        فَٱذْكُرُوٓا۟ ءَالَآءَ ٱللَّهِ لَعَلَّكُمْ تُفْلِحُونَ
 ---
 
 ## Questions

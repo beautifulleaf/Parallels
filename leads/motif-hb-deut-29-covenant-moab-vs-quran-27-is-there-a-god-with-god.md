@@ -2,8 +2,7 @@
 id: motif-hb-deut-29-covenant-moab-vs-quran-27-is-there-a-god-with-god
 title: Covenant at Moab; the secret apostate; the land like Sodom ↔ The litany 'Is there a god with God?'
   and the unseen
-summary: 'These two units share 1 motifs: the secret things belong to god; the revealed things to us and
-  our children.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - secret-things-belong-to-god
-passages:
-- tradition: judaism
-  ref: Deut 29:28
-  note: The secret things belong to God; the revealed things to us and our children (puncta extraordinaria
-    over לנו ולבנינו)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
-    לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
-- tradition: islam
-  ref: Quran 27:65
-  note: 'The secret things belong to God; the revealed things to us and our children (qul lā yaʿlamu man
-    fī s-samāwāti wa-l-arḍi l-ghayba illā llāhu ~ han-nistārōt la-YHWH ʾĕlōhênû wə-han-niglōt lānû û-lə-vānênû:
-    hidden knowledge belongs to God alone. Deut gives the revealed things to Israel to do the Torah; the
-    Quran ties the hidden things to the time of the resurrection (ayyāna yubʿathūn).)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ وَمَا يَشْعُرُونَ
-    أَيَّانَ يُبْعَثُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. qul lā yaʿlamu man fī s-samāwāti wa-l-arḍi l-ghayba illā llāhu ~ han-nistārōt la-YHWH ʾĕlōhênû
-    wə-han-niglōt lānû û-lə-vānênû: hidden knowledge belongs to God alone. Deut gives the revealed things
-    to Israel to do the Torah; the Quran ties the hidden things to the time of the resurrection (ayyāna
-    yubʿathūn).'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The secret things belong to God; the revealed things to us and our
     children (weight 6.0). Pair score 6.0.'
@@ -75,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The secret things belong to God; the revealed things to us and our children
+kinds:
+- parallel
+units:
+- id: hb-deut-29-covenant-moab
+  title: Covenant at Moab; the secret apostate; the land like Sodom
+  tradition: judaism
+- id: quran-27-is-there-a-god-with-god
+  title: The litany 'Is there a god with God?' and the unseen
+  tradition: islam
+matches:
+- kind: parallel
+  label: The secret things belong to God; the revealed things to us and our children
+  note: 'qul lā yaʿlamu man fī s-samāwāti wa-l-arḍi l-ghayba illā llāhu ~ han-nistārōt la-YHWH ʾĕlōhênû
+    wə-han-niglōt lānû û-lə-vānênû: hidden knowledge belongs to God alone. Deut gives the revealed things
+    to Israel to do the Torah; the Quran ties the hidden things to the time of the resurrection (ayyāna
+    yubʿathūn).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Deut 29:28
+      lang: he
+      text: הַ֨נִּסְתָּרֹ֔ת לַיהוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת לָ֤ׄנׄוּׄ וּׄלְׄבָׄנֵׄ֨יׄנׄוּׄ֙ עַד עוֹלָ֔ם
+        לַעֲשׂ֕וֹת אֶת כָּל דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת
+  - tradition: islam
+    passages:
+    - ref: Quran 27:65
+      lang: ar
+      text: قُل لَّا يَعْلَمُ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ ٱلْغَيْبَ إِلَّا ٱللَّهُ وَمَا يَشْعُرُونَ
+        أَيَّانَ يُبْعَثُونَ
 ---
 
 ## Questions

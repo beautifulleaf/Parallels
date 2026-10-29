@@ -2,8 +2,7 @@
 id: motif-hb-ps-63-thirst-vs-quran-7-closing-recitation
 title: Psalm 63, my soul thirsts for you in the wilderness of Judah ↔ Forbearance, refuge from Satan,
   and the prostration of the near ones
-summary: 'These two units share 1 motifs: remember god within yourself, humbly, without loud speech, morning
-  and evening.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - remember-god-quietly-morning-and-evening
-passages:
-- tradition: judaism
-  ref: Ps 63:7
-  note: 'Remember God within yourself, humbly, without loud speech, morning and evening (Remembering God
-    inwardly at fixed times, with the same root (dhkr / zkr): wa-dhkur rabbaka fī nafsika ... bi-l-ghuduwwi
-    wa-l-āṣāl vs ʾim-zᵉkartîkā ʿal-yᵉṣûʿāy bᵉʾašmurôt ʾehgeh-bāk (night watches, on the bed).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
-- tradition: islam
-  ref: Quran 7:205
-  note: Remember God within yourself, humbly, without loud speech, morning and evening
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
-    وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/03-hb-quran.yaml):
-    echo. Remembering God inwardly at fixed times, with the same root (dhkr / zkr): wa-dhkur rabbaka fī
-    nafsika ... bi-l-ghuduwwi wa-l-āṣāl vs ʾim-zᵉkartîkā ʿal-yᵉṣûʿāy bᵉʾašmurôt ʾehgeh-bāk (night watches,
-    on the bed).'
+- text: Read side by side in both originals (alignments/hb-quran/03-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Remember God within yourself, humbly, without loud speech, morning
     and evening (weight 6.3). Pair score 6.3.'
@@ -66,6 +47,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Remember God within yourself, humbly, without loud speech, morning and evening
+kinds:
+- echo
+units:
+- id: hb-ps-63-thirst
+  title: Psalm 63, my soul thirsts for you in the wilderness of Judah
+  tradition: judaism
+- id: quran-7-closing-recitation
+  title: Forbearance, refuge from Satan, and the prostration of the near ones
+  tradition: islam
+matches:
+- kind: echo
+  label: Remember God within yourself, humbly, without loud speech, morning and evening
+  note: 'Remembering God inwardly at fixed times, with the same root (dhkr / zkr): wa-dhkur rabbaka fī
+    nafsika ... bi-l-ghuduwwi wa-l-āṣāl vs ʾim-zᵉkartîkā ʿal-yᵉṣûʿāy bᵉʾašmurôt ʾehgeh-bāk (night watches,
+    on the bed).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 63:7
+      lang: he
+      text: אִם זְכַרְתִּ֥יךָ עַל יְצוּעָ֑י בְּ֝אַשְׁמֻר֗וֹת אֶהְגֶּה בָּֽךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 7:205
+      lang: ar
+      text: وَٱذْكُر رَّبَّكَ فِى نَفْسِكَ تَضَرُّعًا وَخِيفَةً وَدُونَ ٱلْجَهْرِ مِنَ ٱلْقَوْلِ بِٱلْغُدُوِّ
+        وَٱلْءَاصَالِ وَلَا تَكُن مِّنَ ٱلْغَٰفِلِينَ
 ---
 
 ## Questions

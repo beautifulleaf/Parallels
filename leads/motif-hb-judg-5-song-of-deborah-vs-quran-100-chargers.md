@@ -1,7 +1,7 @@
 ---
 id: motif-hb-judg-5-song-of-deborah-vs-quran-100-chargers
 title: The Song of Deborah ↔ The chargers
-summary: 'These two units share 1 motifs: the hoofbeats of galloping horses depicted in poetry.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -13,29 +13,9 @@ layers:
 - motif
 motifs:
 - galloping-of-horses
-passages:
-- tradition: judaism
-  ref: Judg 5:22
-  note: The hoofbeats of galloping horses depicted in poetry
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָ֥ז הָלְמ֖וּ עִקְּבֵי ס֑וּס מִֽדַּהֲר֖וֹת דַּהֲר֥וֹת אַבִּירָֽיו
-- tradition: islam
-  ref: Quran 100:1
-  note: The hoofbeats of galloping horses depicted in poetry
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱلْعَٰدِيَٰتِ ضَبْحًا
-- tradition: islam
-  ref: Quran 100:2
-  note: The hoofbeats of galloping horses depicted in poetry
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْمُورِيَٰتِ قَدْحًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/08-hb-quran.yaml):
-    echo. fa-l-mūriyāti qadḥan (striking sparks) ~ ʾāz hālemû ʿiqqevê sûs mi-ddahărôt dahărôt ʾabbîrāyw:
-    the hooves of galloping steeds.'
+- text: Read side by side in both originals (alignments/hb-quran/08-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The hoofbeats of galloping horses depicted in poetry (weight 6.3).
     Pair score 6.3.'
@@ -63,6 +43,35 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The hoofbeats of galloping horses depicted in poetry
+kinds:
+- echo
+units:
+- id: hb-judg-5-song-of-deborah
+  title: The Song of Deborah
+  tradition: judaism
+- id: quran-100-chargers
+  title: The chargers
+  tradition: islam
+matches:
+- kind: echo
+  label: The hoofbeats of galloping horses depicted in poetry
+  note: 'fa-l-mūriyāti qadḥan (striking sparks) ~ ʾāz hālemû ʿiqqevê sûs mi-ddahărôt dahărôt ʾabbîrāyw:
+    the hooves of galloping steeds.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Judg 5:22
+      lang: he
+      text: אָ֥ז הָלְמ֖וּ עִקְּבֵי ס֑וּס מִֽדַּהֲר֖וֹת דַּהֲר֥וֹת אַבִּירָֽיו
+  - tradition: islam
+    passages:
+    - ref: Quran 100:1
+      lang: ar
+      text: وَٱلْعَٰدِيَٰتِ ضَبْحًا
+    - ref: Quran 100:2
+      lang: ar
+      text: فَٱلْمُورِيَٰتِ قَدْحًا
 ---
 
 ## Questions

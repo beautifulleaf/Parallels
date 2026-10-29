@@ -2,7 +2,7 @@
 id: motif-hb-exod-1-oppression-midwives-vs-quran-26-moses-and-pharaoh
 title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons ↔ Moses and Pharaoh disputing;
   the magicians; the sea split like mountains
-summary: 'These two units share 1 motifs: egypt reduced the israelites to slavery.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,28 +15,9 @@ layers:
 - motif
 motifs:
 - egypt-enslaved-israel
-passages:
-- tradition: judaism
-  ref: Exod 1:13
-  note: 'Egypt reduced the Israelites to slavery (an ʿabbadta banī Isrāʾīla ~ wa-yyaʿăvidû Miṣrayim ʾet
-    bənê Yiśrāʾēl bə-fārekh: the same root and causative stem (ʿabbada / heʿĕvîd) for Egypt enslaving
-    the sons of Israel; in the Quran Moses throws it back at Pharaoh''s claim of having done him a favor.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ
-- tradition: islam
-  ref: Quran 26:22
-  note: 'Egypt reduced the Israelites to slavery (an ʿabbadta banī Isrāʾīla ~ wa-yyaʿăvidû Miṣrayim ʾet
-    bənê Yiśrāʾēl bə-fārekh: the same root and causative stem (ʿabbada / heʿĕvîd) for Egypt enslaving
-    the sons of Israel; in the Quran Moses throws it back at Pharaoh''s claim of having done him a favor.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/05-hb-quran.yaml):
-    parallel. an ʿabbadta banī Isrāʾīla ~ wa-yyaʿăvidû Miṣrayim ʾet bənê Yiśrāʾēl bə-fārekh: the same
-    root and causative stem (ʿabbada / heʿĕvîd) for Egypt enslaving the sons of Israel; in the Quran Moses
-    throws it back at Pharaoh''s claim of having done him a favor.'
+- text: Read side by side in both originals (alignments/hb-quran/05-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Egypt reduced the Israelites to slavery (weight 6.7). Pair score
     6.7.'
@@ -72,6 +53,33 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Egypt reduced the Israelites to slavery
+kinds:
+- parallel
+units:
+- id: hb-exod-1-oppression-midwives
+  title: Israel multiplies; oppression; the Hebrew midwives; decree to drown sons
+  tradition: judaism
+- id: quran-26-moses-and-pharaoh
+  title: Moses and Pharaoh disputing; the magicians; the sea split like mountains
+  tradition: islam
+matches:
+- kind: parallel
+  label: Egypt reduced the Israelites to slavery
+  note: 'an ʿabbadta banī Isrāʾīla ~ wa-yyaʿăvidû Miṣrayim ʾet bənê Yiśrāʾēl bə-fārekh: the same root
+    and causative stem (ʿabbada / heʿĕvîd) for Egypt enslaving the sons of Israel; in the Quran Moses
+    throws it back at Pharaoh''s claim of having done him a favor.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Exod 1:13
+      lang: he
+      text: וַיַּעֲבִ֧דוּ מִצְרַ֛יִם אֶת בְּנֵ֥י יִשְׂרָאֵ֖ל בְּפָֽרֶךְ
+  - tradition: islam
+    passages:
+    - ref: Quran 26:22
+      lang: ar
+      text: وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ
 ---
 
 ## Questions

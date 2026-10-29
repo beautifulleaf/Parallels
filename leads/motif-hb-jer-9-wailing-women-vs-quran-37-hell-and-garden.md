@@ -2,7 +2,7 @@
 id: motif-hb-jer-9-wailing-women-vs-quran-37-hell-and-garden
 title: Summon the keening women - death has climbed in at our windows ↔ The damned questioned; the blessed
   on facing couches; the tree of Zaqqum
-summary: 'These two units share 1 motifs: rejecters reply ''we follow what we found our fathers upon''.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,32 +15,9 @@ layers:
 - motif
 motifs:
 - following-ancestors-blindly
-passages:
-- tradition: judaism
-  ref: Jer 9:13
-  note: 'Rejecters reply ''we follow what we found our fathers upon'' (wa-yyēləḵû ʾaḥărê šərirûṯ libbām
-    wə-ʾaḥărê ha-bbəʿālîm ʾăšer limmədûm ʾăḇôṯām vs. innahum alfaw ābāʾahum ḍāllīna fa-hum ʿalā āthārihim
-    yuhraʿūn: going after the gods the fathers taught them, hurrying in their footsteps.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֵּ֣לְכ֔וּ אַחֲרֵ֖י שְׁרִר֣וּת לִבָּ֑ם וְאַחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁ֥ר לִמְּד֖וּם אֲבוֹתָֽם
-- tradition: islam
-  ref: Quran 37:69
-  note: Rejecters reply 'we follow what we found our fathers upon'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ
-- tradition: islam
-  ref: Quran 37:70
-  note: Rejecters reply 'we follow what we found our fathers upon'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. wa-yyēləḵû ʾaḥărê šərirûṯ libbām wə-ʾaḥărê ha-bbəʿālîm ʾăšer limmədûm ʾăḇôṯām vs. innahum
-    alfaw ābāʾahum ḍāllīna fa-hum ʿalā āthārihim yuhraʿūn: going after the gods the fathers taught them,
-    hurrying in their footsteps.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Rejecters reply ''we follow what we found our fathers upon'' (weight
     5.8). Pair score 5.8.'
@@ -75,6 +52,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Rejecters reply 'we follow what we found our fathers upon'
+kinds:
+- parallel
+units:
+- id: hb-jer-9-wailing-women
+  title: Summon the keening women - death has climbed in at our windows
+  tradition: judaism
+- id: quran-37-hell-and-garden
+  title: The damned questioned; the blessed on facing couches; the tree of Zaqqum
+  tradition: islam
+matches:
+- kind: parallel
+  label: Rejecters reply 'we follow what we found our fathers upon'
+  note: 'wa-yyēləḵû ʾaḥărê šərirûṯ libbām wə-ʾaḥărê ha-bbəʿālîm ʾăšer limmədûm ʾăḇôṯām vs. innahum alfaw
+    ābāʾahum ḍāllīna fa-hum ʿalā āthārihim yuhraʿūn: going after the gods the fathers taught them, hurrying
+    in their footsteps.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 9:13
+      lang: he
+      text: וַיֵּ֣לְכ֔וּ אַחֲרֵ֖י שְׁרִר֣וּת לִבָּ֑ם וְאַחֲרֵי֙ הַבְּעָלִ֔ים אֲשֶׁ֥ר לִמְּד֖וּם אֲבוֹתָֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 37:69
+      lang: ar
+      text: إِنَّهُمْ أَلْفَوْا۟ ءَابَآءَهُمْ ضَآلِّينَ
+    - ref: Quran 37:70
+      lang: ar
+      text: فَهُمْ عَلَىٰٓ ءَاثَٰرِهِمْ يُهْرَعُونَ
 ---
 
 ## Questions

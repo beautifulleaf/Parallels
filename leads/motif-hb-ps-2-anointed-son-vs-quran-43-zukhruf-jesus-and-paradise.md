@@ -2,8 +2,7 @@
 id: motif-hb-ps-2-anointed-son-vs-quran-43-zukhruf-jesus-and-paradise
 title: Psalm 2 - the nations rage; the king as God's son ↔ The son of Mary as an example and sign of the
   Hour; the Garden with golden dishes; Malik of hell
-summary: 'These two units share 1 motifs: whether god has a son, or calls his anointed king his begotten
-  son [contrast between the texts].'
+summary: '1 correspondence read side by side: 1 opposite ruling.'
 status: new
 relations:
 - response
@@ -15,54 +14,9 @@ layers:
 - motif
 motifs:
 - divine-sonship-as-contrast
-passages:
-- tradition: judaism
-  ref: Ps 2:7
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
-- tradition: judaism
-  ref: Ps 2:2
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (Ps: YHWH ʾāmar ʾēlay bənî ʾattāh ʾănî hay-yôm yəlidtîkhā (to the anointed king, məšîḥô 2:2). Q, of
-    the Messiah (al-masīḥ): subḥānahu an yakūna lahu waladun. HB has God declare sonship and ''begetting''
-    of his anointed; Q flatly denies that God has a son.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
-- tradition: islam
-  ref: Quran 43:59
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî
-    hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah son
-    of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu l-ʿābidīn
-    (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2 directly;
-    lead only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
-- tradition: islam
-  ref: Quran 43:81
-  note: 'Whether God has a son, or calls his anointed king his begotten son [contrast between the texts]
-    (The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî ʾattâ ʾănî
-    hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah son
-    of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu l-ʿābidīn
-    (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2 directly;
-    lead only.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    contrast. The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî
-    ʾattâ ʾănî hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah
-    son of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu
-    l-ʿābidīn (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2
-    directly; lead only.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Whether God has a son, or calls his anointed king his begotten son
     [contrast between the texts] (weight 5.4). Pair score 5.4.'
@@ -99,6 +53,41 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Whether God has a son, or calls his anointed king his begotten son
+kinds:
+- contrast
+units:
+- id: hb-ps-2-anointed-son
+  title: Psalm 2 - the nations rage; the king as God's son
+  tradition: judaism
+- id: quran-43-zukhruf-jesus-and-paradise
+  title: The son of Mary as an example and sign of the Hour; the Garden with golden dishes; Malik of hell
+  tradition: islam
+matches:
+- kind: contrast
+  label: Whether God has a son, or calls his anointed king his begotten son
+  note: 'The anointed and divine sonship. Ps 2: ʿal YHWH wə-ʿal məšîḥô ... YHWH ʾāmar ʾēlay bənî ʾattâ
+    ʾănî hay-yôm yəliḏtîḵā (the anointed king is God''s son, ''begotten today''). Q 43: of the Messiah
+    son of Mary, in huwa illā ʿabdun anʿamnā ʿalayhi; and qul in kāna li-r-raḥmāni waladun fa-ana awwalu
+    l-ʿābidīn (no son: a servant). The Quran is answering the Christian reading of the title, not Ps 2
+    directly; lead only.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 2:2
+      lang: he
+      text: יִ֥תְיַצְּב֨וּ מַלְכֵי אֶ֗רֶץ וְרוֹזְנִ֥ים נֽוֹסְדוּ יָ֑חַד עַל יְ֝הוָה וְעַל מְשִׁיחֽוֹ
+    - ref: Ps 2:7
+      lang: he
+      text: אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ
+  - tradition: islam
+    passages:
+    - ref: Quran 43:59
+      lang: ar
+      text: إِنْ هُوَ إِلَّا عَبْدٌ أَنْعَمْنَا عَلَيْهِ وَجَعَلْنَٰهُ مَثَلًا لِّبَنِىٓ إِسْرَٰٓءِيلَ
+    - ref: Quran 43:81
+      lang: ar
+      text: قُلْ إِن كَانَ لِلرَّحْمَٰنِ وَلَدٌ فَأَنَا۠ أَوَّلُ ٱلْعَٰبِدِينَ
 ---
 
 ## Questions

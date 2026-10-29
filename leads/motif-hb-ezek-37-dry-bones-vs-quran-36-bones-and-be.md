@@ -1,9 +1,7 @@
 ---
 id: motif-hb-ezek-37-dry-bones-vs-quran-36-bones-and-be
 title: The valley of dry bones ↔ Who revives rotten bones? Fire from the green tree; Be and it is
-summary: 'These two units share 2 motifs: the question whether dead bones can live again, and who asks
-  it [divergence between the texts], god asks ''can these bones live?'' and the prophet answers ''lord
-  god, you know''.'
+summary: '1 correspondence read side by side: 1 deliberately changed.'
 status: new
 relations:
 - response
@@ -16,74 +14,9 @@ layers:
 motifs:
 - question-whether-dry-bones-can-live-as-divergence
 - can-these-bones-live
-passages:
-- tradition: judaism
-  ref: Ezek 37:3
-  note: 'The question whether dead bones can live again, and who asks it [divergence between the texts]
-    (The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh
-    and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says yāḇəšû ʿaṣmôṯênû
-    wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the prophet is given
-    the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national restoration; the
-    Quran''s argument is about bodily resurrection from first creation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה אַתָּ֥ה
-    יָדָֽעְתָּ
-- tradition: judaism
-  ref: Ezek 37:11
-  note: 'The question whether dead bones can live again, and who asks it [divergence between the texts]
-    (The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh
-    and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says yāḇəšû ʿaṣmôṯênû
-    wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the prophet is given
-    the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national restoration; the
-    Quran''s argument is about bodily resurrection from first creation.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּאמֶר֮ אֵלַי֒ בֶּן אָדָ֕ם הָעֲצָמ֣וֹת הָאֵ֔לֶּה כָּל בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה אֹמְרִ֗ים
-    יָבְשׁ֧וּ עַצְמוֹתֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ
-- tradition: islam
-  ref: Quran 36:78
-  note: 'The question whether dead bones can live again, and who asks it [divergence between the texts]
-    (The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh
-    and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says yāḇəšû ʿaṣmôṯênû
-    wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the prophet is given
-    the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national restoration; the
-    Quran''s argument is about bodily resurrection from first creation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ
-- tradition: islam
-  ref: Quran 36:79
-  note: 'The question whether dead bones can live again, and who asks it [divergence between the texts]
-    (The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh
-    and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says yāḇəšû ʿaṣmôṯênû
-    wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the prophet is given
-    the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national restoration; the
-    Quran''s argument is about bodily resurrection from first creation.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
-- tradition: judaism
-  ref: Ezek 37:3
-  note: God asks 'Can these bones live?' and the prophet answers 'Lord God, you know'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה אַתָּ֥ה
-    יָדָֽעְתָּ
-- tradition: islam
-  ref: Quran 36:78
-  note: God asks 'Can these bones live?' and the prophet answers 'Lord God, you know' (asked by a skeptic
-    rather than God)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence. The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ
-    hā-ʾēlleh and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says
-    yāḇəšû ʿaṣmôṯênû wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the
-    prophet is given the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national
-    restoration; the Quran''s argument is about bodily resurrection from first creation.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The question whether dead bones can live again, and who asks it
     [divergence between the texts] (weight 6.7); God asks ''Can these bones live?'' and the prophet answers
@@ -116,6 +49,59 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The question whether dead bones can live again, and who asks it
+kinds:
+- divergence
+- shared
+units:
+- id: hb-ezek-37-dry-bones
+  title: The valley of dry bones
+  tradition: judaism
+- id: quran-36-bones-and-be
+  title: Who revives rotten bones? Fire from the green tree; Be and it is
+  tradition: islam
+matches:
+- kind: divergence
+  label: The question whether dead bones can live again, and who asks it
+  note: 'The question about bones, with the speakers swapped. Ezek: God asks hă-ṯiḥyênâ hā-ʿăṣāmôṯ hā-ʾēlleh
+    and the prophet defers, ʾăḏōnāy YHWH ʾattâ yāḏāʿtā. The despairing house of Israel says yāḇəšû ʿaṣmôṯênû
+    wə-ʾāḇəḏâ ṯiqwāṯēnû. Q: the sceptic asks man yuḥyi l-ʿiẓāma wa-hiya ramīm and the prophet is given
+    the answer, yuḥyīhā lladhī anshaʾahā awwala marra. Ezekiel''s vision is a national restoration; the
+    Quran''s argument is about bodily resurrection from first creation.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה
+        אַתָּ֥ה יָדָֽעְתָּ
+    - ref: Ezek 37:11
+      lang: he
+      text: וַיֹּאמֶר֮ אֵלַי֒ בֶּן אָדָ֕ם הָעֲצָמ֣וֹת הָאֵ֔לֶּה כָּל בֵּ֥ית יִשְׂרָאֵ֖ל הֵ֑מָּה הִנֵּ֣ה
+        אֹמְרִ֗ים יָבְשׁ֧וּ עַצְמוֹתֵ֛ינוּ וְאָבְדָ֥ה תִקְוָתֵ֖נוּ נִגְזַ֥רְנוּ לָֽנוּ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:78
+      lang: ar
+      text: وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ
+    - ref: Quran 36:79
+      lang: ar
+      text: قُلْ يُحْيِيهَا ٱلَّذِىٓ أَنشَأَهَآ أَوَّلَ مَرَّةٍ وَهُوَ بِكُلِّ خَلْقٍ عَلِيمٌ
+- kind: shared
+  label: God asks 'Can these bones live?' and the prophet answers 'Lord God, you know'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 37:3
+      lang: he
+      text: וַיֹּ֣אמֶר אֵלַ֔י בֶּן אָדָ֕ם הֲתִחְיֶ֖ינָה הָעֲצָמ֣וֹת הָאֵ֑לֶּה וָאֹמַ֕ר אֲדֹנָ֥י יְהוִ֖ה
+        אַתָּ֥ה יָדָֽעְתָּ
+  - tradition: islam
+    passages:
+    - ref: Quran 36:78
+      lang: ar
+      text: وَضَرَبَ لَنَا مَثَلًا وَنَسِىَ خَلْقَهُۥ قَالَ مَن يُحْىِ ٱلْعِظَٰمَ وَهِىَ رَمِيمٌ
+    note: asked by a skeptic rather than God
 ---
 
 ## Questions

@@ -2,8 +2,7 @@
 id: motif-hb-ezek-8-temple-abominations-vs-quran-41-steadfast-and-repel-evil
 title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship ↔
   Angels descend on the steadfast; repel evil with good; signs on the horizons
-summary: 'These two units share 1 motifs: about twenty-five men with their backs to the temple bow eastward
-  to the sun between the porch and the altar.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,31 +14,9 @@ layers:
 - motif
 motifs:
 - sun-worship-backs-to-temple
-passages:
-- tradition: judaism
-  ref: Ezek 8:16
-  note: About twenty-five men with their backs to the temple bow eastward to the sun between the porch
-    and the altar
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיָּבֵ֣א אֹתִ֗י אֶל חֲצַ֣ר בֵּית יְהוָה֮ הַפְּנִימִית֒ וְהִנֵּה פֶ֜תַח הֵיכַ֣ל יְהוָ֗ה בֵּ֤ין
-    הָֽאוּלָם֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ כְּעֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה אִ֑ישׁ אֲחֹ֨רֵיהֶ֜ם אֶל הֵיכַ֤ל יְהוָה֙
-    וּפְנֵיהֶ֣ם קֵ֔דְמָה וְהֵ֛מָּה מִשְׁתַּחֲוִיתֶ֥ם קֵ֖דְמָה לַשָּֽׁמֶשׁ
-- tradition: islam
-  ref: Quran 41:37
-  note: 'About twenty-five men with their backs to the temple bow eastward to the sun between the porch
-    and the altar (Prostration to the sun: wə-hēmmâ mištaḥăwîṯem qēḏmâ laš-šāmeš vs. lā tasjudū li-sh-shamsi
-    ... wa-sjudū li-llāh. Ezekiel''s sun worshippers turn their backs to the temple of YHWH; the Quran
-    sets prostration to the sun against prostration to its creator.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ وَلَا
-    لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    echo. Prostration to the sun: wə-hēmmâ mištaḥăwîṯem qēḏmâ laš-šāmeš vs. lā tasjudū li-sh-shamsi ...
-    wa-sjudū li-llāh. Ezekiel''s sun worshippers turn their backs to the temple of YHWH; the Quran sets
-    prostration to the sun against prostration to its creator.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: About twenty-five men with their backs to the temple bow eastward
     to the sun between the porch and the altar (weight 6.7). Pair score 6.7.'
@@ -78,6 +55,38 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: About twenty-five men with their backs to the temple bow eastward to the sun between the porch
+  and the altar
+kinds:
+- echo
+units:
+- id: hb-ezek-8-temple-abominations
+  title: Vision of abominations in the temple - image of jealousy, animal chamber, Tammuz, sun worship
+  tradition: judaism
+- id: quran-41-steadfast-and-repel-evil
+  title: Angels descend on the steadfast; repel evil with good; signs on the horizons
+  tradition: islam
+matches:
+- kind: echo
+  label: About twenty-five men with their backs to the temple bow eastward to the sun between the porch
+    and the altar
+  note: 'Prostration to the sun: wə-hēmmâ mištaḥăwîṯem qēḏmâ laš-šāmeš vs. lā tasjudū li-sh-shamsi ...
+    wa-sjudū li-llāh. Ezekiel''s sun worshippers turn their backs to the temple of YHWH; the Quran sets
+    prostration to the sun against prostration to its creator.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ezek 8:16
+      lang: he
+      text: וַיָּבֵ֣א אֹתִ֗י אֶל חֲצַ֣ר בֵּית יְהוָה֮ הַפְּנִימִית֒ וְהִנֵּה פֶ֜תַח הֵיכַ֣ל יְהוָ֗ה בֵּ֤ין
+        הָֽאוּלָם֙ וּבֵ֣ין הַמִּזְבֵּ֔חַ כְּעֶשְׂרִ֥ים וַחֲמִשָּׁ֖ה אִ֑ישׁ אֲחֹ֨רֵיהֶ֜ם אֶל הֵיכַ֤ל יְהוָה֙
+        וּפְנֵיהֶ֣ם קֵ֔דְמָה וְהֵ֛מָּה מִשְׁתַּחֲוִיתֶ֥ם קֵ֖דְמָה לַשָּֽׁמֶשׁ
+  - tradition: islam
+    passages:
+    - ref: Quran 41:37
+      lang: ar
+      text: وَمِنْ ءَايَٰتِهِ ٱلَّيْلُ وَٱلنَّهَارُ وَٱلشَّمْسُ وَٱلْقَمَرُ لَا تَسْجُدُوا۟ لِلشَّمْسِ
+        وَلَا لِلْقَمَرِ وَٱسْجُدُوا۟ لِلَّهِ ٱلَّذِى خَلَقَهُنَّ إِن كُنتُمْ إِيَّاهُ تَعْبُدُونَ
 ---
 
 ## Questions

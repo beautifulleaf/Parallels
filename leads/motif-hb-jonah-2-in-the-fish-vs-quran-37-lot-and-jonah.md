@@ -1,9 +1,7 @@
 ---
 id: motif-hb-jonah-2-in-the-fish-vs-quran-37-lot-and-jonah
 title: Jonah swallowed by the great fish and his psalm ↔ Lot's old woman; Jonah and the fish
-summary: 'These two units share 4 motifs: god appoints a great fish to swallow the prophet, the prophet
-  prays to god from inside the fish [divergence between the texts], the prophet prays to god from inside
-  the fish, at god''s command the fish vomits the prophet onto dry land.'
+summary: '2 correspondences read side by side: 1 deliberately changed, 1 same element.'
 status: new
 relations:
 - convergence
@@ -20,100 +18,9 @@ motifs:
 - prayer-from-belly-of-fish-as-divergence
 - prayer-from-belly-of-fish
 - fish-vomits-prophet-onto-land
-passages:
-- tradition: judaism
-  ref: Jonah 2:1
-  note: God appoints a great fish to swallow the prophet (dag gadol; masculine dag in 2:1, feminine daggah
-    in 2:2)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה
-    יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת
-- tradition: islam
-  ref: Quran 37:142
-  note: God appoints a great fish to swallow the prophet (he was blameworthy)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
-- tradition: judaism
-  ref: Jonah 2:1
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה
-    יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת
-- tradition: judaism
-  ref: Jonah 2:2
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
-- tradition: islam
-  ref: Quran 37:142
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
-- tradition: islam
-  ref: Quran 37:143
-  note: 'The prophet prays to God from inside the fish [divergence between the texts] (In the fish. Jonah:
-    wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî
-    mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa mulīm, fa-law-lā annahu
-    kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish swallows him while blameworthy
-    (mulīm). There is no three-day count, and the psalm is reduced to his being one who glorifies. The
-    counterfactual of staying in the belly until the Resurrection has no Hebrew counterpart.)'
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
-- tradition: judaism
-  ref: Jonah 2:2
-  note: The prophet prays to God from inside the fish
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
-- tradition: islam
-  ref: Quran 37:143
-  note: The prophet prays to God from inside the fish (he was among those who glorify (al-musabbihin))
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
-- tradition: judaism
-  ref: Jonah 2:11
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת יוֹנָ֖ה אֶל הַיַּבָּשָֽׁה
-- tradition: islam
-  ref: Quran 37:145
-  note: At God's command the fish vomits the prophet onto dry land
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    divergence, parallel. In the fish. Jonah: wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm
-    û-šəlōšâ lêlôṯ, then a full psalm (qārāʾṯî mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu
-    l-ḥūtu wa-huwa mulīm, fa-law-lā annahu kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn.
-    The fish swallows him while blameworthy (mulīm). There is no three-day count, and the psalm is reduced
-    to his being one who glorifies. The counterfactual of staying in the belly until the Resurrection
-    has no Hebrew counterpart. wa-yyōʾmer YHWH la-ddāḡ wa-yyāqēʾ ʾeṯ-yônâ ʾel-ha-yyabbāšâ vs. fa-nabadhnāhu
-    bi-l-ʿarāʾi wa-huwa saqīm: thrown out on land at God''s command. The Quran adds that the shore is
-    barren and that Jonah is sick.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God appoints a great fish to swallow the prophet (weight 6.7); The
     prophet prays to God from inside the fish [divergence between the texts] (weight 6.3); The prophet
@@ -151,6 +58,84 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The prophet prays to God from inside the fish
+kinds:
+- divergence
+- parallel
+- shared
+units:
+- id: hb-jonah-2-in-the-fish
+  title: Jonah swallowed by the great fish and his psalm
+  tradition: judaism
+- id: quran-37-lot-and-jonah
+  title: Lot's old woman; Jonah and the fish
+  tradition: islam
+matches:
+- kind: divergence
+  label: The prophet prays to God from inside the fish
+  note: 'In the fish. Jonah: wa-yman YHWH dāḡ gāḏôl liḇlōaʿ ʾeṯ-yônâ ... šəlōšâ yāmîm û-šəlōšâ lêlôṯ,
+    then a full psalm (qārāʾṯî mi-ṣṣārâ lî ... mi-bbeṭen šəʾôl šiwwaʿtî). Q: fa-ltaqamahu l-ḥūtu wa-huwa
+    mulīm, fa-law-lā annahu kāna mina l-musabbiḥīna la-labitha fī baṭnihi ilā yawmi yubʿathūn. The fish
+    swallows him while blameworthy (mulīm). There is no three-day count, and the psalm is reduced to his
+    being one who glorifies. The counterfactual of staying in the belly until the Resurrection has no
+    Hebrew counterpart.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:1
+      lang: he
+      text: וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה
+        יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת
+    - ref: Jonah 2:2
+      lang: he
+      text: וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל יְהוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה
+    - ref: Jonah 2:3
+      lang: he
+      text: וַיֹּ֗אמֶר קָ֠רָאתִי מִצָּ֥רָה לִ֛י אֶל יְהוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי
+        שָׁמַ֥עְתָּ קוֹלִֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 37:142
+      lang: ar
+      text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
+    - ref: Quran 37:143
+      lang: ar
+      text: فَلَوْلَآ أَنَّهُۥ كَانَ مِنَ ٱلْمُسَبِّحِينَ
+    - ref: Quran 37:144
+      lang: ar
+      text: لَلَبِثَ فِى بَطْنِهِۦٓ إِلَىٰ يَوْمِ يُبْعَثُونَ
+- kind: parallel
+  label: At God's command the fish vomits the prophet onto dry land
+  note: 'wa-yyōʾmer YHWH la-ddāḡ wa-yyāqēʾ ʾeṯ-yônâ ʾel-ha-yyabbāšâ vs. fa-nabadhnāhu bi-l-ʿarāʾi wa-huwa
+    saqīm: thrown out on land at God''s command. The Quran adds that the shore is barren and that Jonah
+    is sick.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:11
+      lang: he
+      text: וַיֹּ֥אמֶר יְהוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת יוֹנָ֖ה אֶל הַיַּבָּשָֽׁה
+  - tradition: islam
+    passages:
+    - ref: Quran 37:145
+      lang: ar
+      text: فَنَبَذْنَٰهُ بِٱلْعَرَآءِ وَهُوَ سَقِيمٌ
+- kind: shared
+  label: God appoints a great fish to swallow the prophet
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jonah 2:1
+      lang: he
+      text: וַיְמַ֤ן יְהוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה
+        יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת
+    note: dag gadol; masculine dag in 2:1, feminine daggah in 2:2
+  - tradition: islam
+    passages:
+    - ref: Quran 37:142
+      lang: ar
+      text: فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ
+    note: he was blameworthy
 ---
 
 ## Questions

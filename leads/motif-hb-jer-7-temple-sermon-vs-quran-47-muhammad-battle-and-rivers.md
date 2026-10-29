@@ -2,8 +2,7 @@
 id: motif-hb-jer-7-temple-sermon-vs-quran-47-muhammad-battle-and-rivers
 title: 'The temple sermon - a den of robbers; remember Shiloh ↔ Muhammad: deeds nullified, striking necks
   and freeing captives, and the four rivers of the Garden'
-summary: 'These two units share 1 motifs: have they not traveled in the land and seen the end of those
-  before them?.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,31 +15,9 @@ layers:
 - motif
 motifs:
 - travel-and-see-ruins-of-predecessors
-passages:
-- tradition: judaism
-  ref: Jer 7:12
-  note: 'Have they not traveled in the land and seen the end of those before them? (Go and look at what
-    God did to an earlier place: ləḵû nāʾ ʾel məqômî ʾăšer bə-šîlô ... û-rəʾû ʾēṯ ʾăšer ʿāśîṯî lô mip-pənê
-    rāʿaṯ ʿammî vs. a-fa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu lladhīna min qablihim dammara
-    llāhu ʿalayhim. Jeremiah''s example is Israel''s own ruined sanctuary; the Quran''s are the ruins
-    of earlier peoples.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: כִּ֣י לְכוּ נָ֗א אֶל מְקוֹמִי֙ אֲשֶׁ֣ר בְּשִׁיל֔וֹ אֲשֶׁ֨ר שִׁכַּ֧נְתִּֽי שְׁמִ֛י שָׁ֖ם בָּרִֽאשׁוֹנָ֑ה
-    וּרְאוּ֙ אֵ֣ת אֲשֶׁר עָשִׂ֣יתִי ל֔וֹ מִפְּנֵ֕י רָעַ֖ת עַמִּ֥י יִשְׂרָאֵֽל
-- tradition: islam
-  ref: Quran 47:10
-  note: Have they not traveled in the land and seen the end of those before them?
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ
-    دَمَّرَ ٱللَّهُ عَلَيْهِمْ وَلِلْكَٰفِرِينَ أَمْثَٰلُهَا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/07-hb-quran.yaml):
-    parallel. Go and look at what God did to an earlier place: ləḵû nāʾ ʾel məqômî ʾăšer bə-šîlô ... û-rəʾû
-    ʾēṯ ʾăšer ʿāśîṯî lô mip-pənê rāʿaṯ ʿammî vs. a-fa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu
-    lladhīna min qablihim dammara llāhu ʿalayhim. Jeremiah''s example is Israel''s own ruined sanctuary;
-    the Quran''s are the ruins of earlier peoples.'
+- text: Read side by side in both originals (alignments/hb-quran/07-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: Have they not traveled in the land and seen the end of those before
     them? (weight 6.7). Pair score 6.7.'
@@ -74,6 +51,36 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Have they not traveled in the land and seen the end of those before them?
+kinds:
+- parallel
+units:
+- id: hb-jer-7-temple-sermon
+  title: The temple sermon - a den of robbers; remember Shiloh
+  tradition: judaism
+- id: quran-47-muhammad-battle-and-rivers
+  title: 'Muhammad: deeds nullified, striking necks and freeing captives, and the four rivers of the Garden'
+  tradition: islam
+matches:
+- kind: parallel
+  label: Have they not traveled in the land and seen the end of those before them?
+  note: 'Go and look at what God did to an earlier place: ləḵû nāʾ ʾel məqômî ʾăšer bə-šîlô ... û-rəʾû
+    ʾēṯ ʾăšer ʿāśîṯî lô mip-pənê rāʿaṯ ʿammî vs. a-fa-lam yasīrū fī l-arḍi fa-yanẓurū kayfa kāna ʿāqibatu
+    lladhīna min qablihim dammara llāhu ʿalayhim. Jeremiah''s example is Israel''s own ruined sanctuary;
+    the Quran''s are the ruins of earlier peoples.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Jer 7:12
+      lang: he
+      text: כִּ֣י לְכוּ נָ֗א אֶל מְקוֹמִי֙ אֲשֶׁ֣ר בְּשִׁיל֔וֹ אֲשֶׁ֨ר שִׁכַּ֧נְתִּֽי שְׁמִ֛י שָׁ֖ם בָּרִֽאשׁוֹנָ֑ה
+        וּרְאוּ֙ אֵ֣ת אֲשֶׁר עָשִׂ֣יתִי ל֔וֹ מִפְּנֵ֕י רָעַ֖ת עַמִּ֥י יִשְׂרָאֵֽל
+  - tradition: islam
+    passages:
+    - ref: Quran 47:10
+      lang: ar
+      text: أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ
+        دَمَّرَ ٱللَّهُ عَلَيْهِمْ وَلِلْكَٰفِرِينَ أَمْثَٰلُهَا
 ---
 
 ## Questions

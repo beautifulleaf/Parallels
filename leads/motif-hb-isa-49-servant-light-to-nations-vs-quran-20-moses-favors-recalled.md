@@ -2,8 +2,7 @@
 id: motif-hb-isa-49-servant-light-to-nations-vs-quran-20-moses-favors-recalled
 title: Second servant song - called from the womb, a light to the nations ↔ God recalls his favors to
   Moses from infancy to Midian
-summary: 'These two units share 1 motifs: god calls, forms, knows or consecrates his servant or prophet
-  from the womb, before birth.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -16,42 +15,9 @@ layers:
 - motif
 motifs:
 - called-from-the-womb
-passages:
-- tradition: judaism
-  ref: Isa 49:1
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth (from
-    my mother's belly he named my name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: שִׁמְע֤וּ אִיִּים֙ אֵלַ֔י וְהַקְשִׁ֥יבוּ לְאֻמִּ֖ים מֵרָח֑וֹק יְהוָה֙ מִבֶּ֣טֶן קְרָאָ֔נִי מִמְּעֵ֥י
-    אִמִּ֖י הִזְכִּ֥יר שְׁמִֽי
-- tradition: judaism
-  ref: Isa 49:5
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth (from
-    my mother's belly he named my name)
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְעַתָּ֣ה אָמַ֣ר יְהוָ֗ה יֹצְרִ֤י מִבֶּ֨טֶן֙ לְעֶ֣בֶד ל֔וֹ לְשׁוֹבֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל
-    לא ל֣וֹ יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי
-- tradition: islam
-  ref: Quran 20:39
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth ('that
-    you be formed under my eye'; 'I made you for myself')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: أَنِ ٱقْذِفِيهِ فِى ٱلتَّابُوتِ فَٱقْذِفِيهِ فِى ٱلْيَمِّ فَلْيُلْقِهِ ٱلْيَمُّ بِٱلسَّاحِلِ يَأْخُذْهُ
-    عَدُوٌّ لِّى وَعَدُوٌّ لَّهُۥ وَأَلْقَيْتُ عَلَيْكَ مَحَبَّةً مِّنِّى وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ
-- tradition: islam
-  ref: Quran 20:41
-  note: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth ('that
-    you be formed under my eye'; 'I made you for myself')
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: وَٱصْطَنَعْتُكَ لِنَفْسِى
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/04-hb-quran.yaml):
-    parallel. YHWH mibbeṭen qərāʾānî ... yōṣrî mibbeṭen ləʿebed lô; wa-ṣṭanaʿtuka li-nafsī: formed for
-    God''s service from the beginning.'
+- text: Read side by side in both originals (alignments/hb-quran/04-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God calls, forms, knows or consecrates his servant or prophet from
     the womb, before birth (weight 6.3). Pair score 6.3.'
@@ -82,6 +48,37 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth
+kinds:
+- parallel
+units:
+- id: hb-isa-49-servant-light-to-nations
+  title: Second servant song - called from the womb, a light to the nations
+  tradition: judaism
+- id: quran-20-moses-favors-recalled
+  title: God recalls his favors to Moses from infancy to Midian
+  tradition: islam
+matches:
+- kind: parallel
+  label: God calls, forms, knows or consecrates his servant or prophet from the womb, before birth
+  note: 'YHWH mibbeṭen qərāʾānî ... yōṣrî mibbeṭen ləʿebed lô; wa-ṣṭanaʿtuka li-nafsī: formed for God''s
+    service from the beginning.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 49:1
+      lang: he
+      text: שִׁמְע֤וּ אִיִּים֙ אֵלַ֔י וְהַקְשִׁ֥יבוּ לְאֻמִּ֖ים מֵרָח֑וֹק יְהוָה֙ מִבֶּ֣טֶן קְרָאָ֔נִי
+        מִמְּעֵ֥י אִמִּ֖י הִזְכִּ֥יר שְׁמִֽי
+    - ref: Isa 49:5
+      lang: he
+      text: וְעַתָּ֣ה אָמַ֣ר יְהוָ֗ה יֹצְרִ֤י מִבֶּ֨טֶן֙ לְעֶ֣בֶד ל֔וֹ לְשׁוֹבֵ֤ב יַֽעֲקֹב֙ אֵלָ֔יו וְיִשְׂרָאֵ֖ל
+        לא ל֣וֹ יֵאָסֵ֑ף וְאֶכָּבֵד֙ בְּעֵינֵ֣י יְהוָ֔ה וֵאלֹהַ֖י הָיָ֥ה עֻזִּֽי
+  - tradition: islam
+    passages:
+    - ref: Quran 20:41
+      lang: ar
+      text: وَٱصْطَنَعْتُكَ لِنَفْسِى
 ---
 
 ## Questions

@@ -1,8 +1,7 @@
 ---
 id: motif-hb-ps-115-not-to-us-vs-quran-35-originator
 title: Psalm 115, not to us, polemic against idols ↔ The Originator, winged angels, and the two seas
-summary: 'These two units share 1 motifs: the false gods do not own even the thin skin of a date-stone
-  (qitmir); they cannot hear prayer and will disown it at the resurrection.'
+summary: '1 correspondence read side by side: 1 same element.'
 status: new
 relations:
 - convergence
@@ -15,47 +14,9 @@ layers:
 - motif
 motifs:
 - false-gods-own-not-a-date-skin
-passages:
-- tradition: judaism
-  ref: Ps 115:4
-  note: 'The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
-    and will disown it at the Resurrection (ʾoznayim lāhem wə-lōʾ yišmāʿû vs. in tadʿūhum lā yasmaʿū duʿāʾakum
-    wa-law samiʿū mā stajābū lakum: the false gods cannot hear their worshippers. The Quran adds that
-    at the Resurrection they will deny the worship (yakfurūna bi-shirkikum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
-- tradition: judaism
-  ref: Ps 115:6
-  note: 'The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
-    and will disown it at the Resurrection (ʾoznayim lāhem wə-lōʾ yišmāʿû vs. in tadʿūhum lā yasmaʿū duʿāʾakum
-    wa-law samiʿū mā stajābū lakum: the false gods cannot hear their worshippers. The Quran adds that
-    at the Resurrection they will deny the worship (yakfurūna bi-shirkikum).)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
-- tradition: islam
-  ref: Quran 35:13
-  note: The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
-    and will disown it at the Resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ
-    كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ
-    مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
-- tradition: islam
-  ref: Quran 35:14
-  note: The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
-    and will disown it at the Resurrection
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ وَيَوْمَ
-    ٱلْقِيَٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    parallel. ʾoznayim lāhem wə-lōʾ yišmāʿû vs. in tadʿūhum lā yasmaʿū duʿāʾakum wa-law samiʿū mā stajābū
-    lakum: the false gods cannot hear their worshippers. The Quran adds that at the Resurrection they
-    will deny the worship (yakfurūna bi-shirkikum).'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: The false gods do not own even the thin skin of a date-stone (qitmir);
     they cannot hear prayer and will disown it at the Resurrection (weight 6.7). Pair score 6.7.'
@@ -90,6 +51,44 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
+  and will disown it at the Resurrection
+kinds:
+- parallel
+units:
+- id: hb-ps-115-not-to-us
+  title: Psalm 115, not to us, polemic against idols
+  tradition: judaism
+- id: quran-35-originator
+  title: The Originator, winged angels, and the two seas
+  tradition: islam
+matches:
+- kind: parallel
+  label: The false gods do not own even the thin skin of a date-stone (qitmir); they cannot hear prayer
+    and will disown it at the Resurrection
+  note: 'ʾoznayim lāhem wə-lōʾ yišmāʿû vs. in tadʿūhum lā yasmaʿū duʿāʾakum wa-law samiʿū mā stajābū lakum:
+    the false gods cannot hear their worshippers. The Quran adds that at the Resurrection they will deny
+    the worship (yakfurūna bi-shirkikum).'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Ps 115:4
+      lang: he
+      text: עֲֽ֭צַבֵּיהֶם כֶּ֣סֶף וְזָהָ֑ב מַ֝עֲשֵׂ֗ה יְדֵ֣י אָדָֽם
+    - ref: Ps 115:6
+      lang: he
+      text: אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן
+  - tradition: islam
+    passages:
+    - ref: Quran 35:13
+      lang: ar
+      text: يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ
+        كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ
+        مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ
+    - ref: Quran 35:14
+      lang: ar
+      text: إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ وَيَوْمَ
+        ٱلْقِيَٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ
 ---
 
 ## Questions

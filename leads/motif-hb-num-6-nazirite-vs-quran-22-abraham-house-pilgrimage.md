@@ -1,8 +1,7 @@
 ---
 id: motif-hb-num-6-nazirite-vs-quran-22-abraham-house-pilgrimage
 title: The Nazirite vow ↔ Abraham, the Ancient House and the rites of pilgrimage and sacrifice
-summary: 'These two units share 1 motifs: nazirite brings burnt, sin and well-being offerings with unleavened
-  bread when his term ends.'
+summary: 1 shared motif, found by the separate reads; not yet compared side by side.
 status: new
 relations:
 - transmission
@@ -15,28 +14,7 @@ layers:
 - motif
 motifs:
 - completion-offerings-of-nazirite
-passages:
-- tradition: judaism
-  ref: Num 6:13
-  note: Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל פֶּ֖תַח אֹ֥הֶל
-    מוֹעֵֽד
-- tradition: judaism
-  ref: Num 6:14
-  note: Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: וְהִקְרִ֣יב אֶת קָרְבָּנ֣וֹ לַיהוָ֡ה כֶּבֶשׂ֩ בֶּן שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה
-    אַחַ֧ת בַּת שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים
-- tradition: islam
-  ref: Quran 22:29
-  note: Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends (ending
-    the state of consecration (tafath) and fulfilling vows; compare the Nazirite's completion)
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
+passages: []
 evidence:
 - text: 'Shared motifs, rarest first: Nazirite brings burnt, sin and well-being offerings with unleavened
     bread when his term ends (weight 6.7). Pair score 6.7.'
@@ -72,6 +50,40 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends
+kinds:
+- shared
+units:
+- id: hb-num-6-nazirite
+  title: The Nazirite vow
+  tradition: judaism
+- id: quran-22-abraham-house-pilgrimage
+  title: Abraham, the Ancient House and the rites of pilgrimage and sacrifice
+  tradition: islam
+matches:
+- kind: shared
+  label: Nazirite brings burnt, sin and well-being offerings with unleavened bread when his term ends
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Num 6:13
+      lang: he
+      text: וְזֹ֥את תּוֹרַ֖ת הַנָּזִ֑יר בְּי֗וֹם מְלֹאת֙ יְמֵ֣י נִזְר֔וֹ יָבִ֣יא אֹת֔וֹ אֶל פֶּ֖תַח אֹ֥הֶל
+        מוֹעֵֽד
+    - ref: Num 6:14
+      lang: he
+      text: וְהִקְרִ֣יב אֶת קָרְבָּנ֣וֹ לַיהוָ֡ה כֶּבֶשׂ֩ בֶּן שְׁנָת֨וֹ תָמִ֤ים אֶחָד֙ לְעֹלָ֔ה וְכַבְשָׂ֨ה
+        אַחַ֧ת בַּת שְׁנָתָ֛הּ תְּמִימָ֖ה לְחַטָּ֑את וְאַֽיִל אֶחָ֥ד תָּמִ֖ים לִשְׁלָמִֽים
+    - ref: Num 6:15
+      lang: he
+      text: וְסַ֣ל מַצּ֗וֹת סֹ֤לֶת חַלֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן
+        וּמִנְחָתָ֖ם וְנִסְכֵּיהֶֽם
+  - tradition: islam
+    passages:
+    - ref: Quran 22:29
+      lang: ar
+      text: ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ وَلْيُوفُوا۟ نُذُورَهُمْ وَلْيَطَّوَّفُوا۟ بِٱلْبَيْتِ ٱلْعَتِيقِ
+    note: ending the state of consecration (tafath) and fulfilling vows; compare the Nazirite's completion
 ---
 
 ## Questions

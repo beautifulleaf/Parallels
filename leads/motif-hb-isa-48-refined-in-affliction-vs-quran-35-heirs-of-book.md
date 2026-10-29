@@ -2,8 +2,7 @@
 id: motif-hb-isa-48-refined-in-affliction-vs-quran-35-heirs-of-book
 title: Obstinate Israel, former and new things, flee from Babylon ↔ The heirs of the Book, the Gardens
   of Eden and the cries of the damned
-summary: 'These two units share 1 motifs: god holds the heavens and the earth lest they cease; if they
-  ceased, no one else could hold them.'
+summary: '1 correspondence read side by side: 1 shared wording.'
 status: new
 relations:
 - convergence
@@ -15,27 +14,9 @@ layers:
 - motif
 motifs:
 - god-holds-heavens-and-earth-from-falling
-passages:
-- tradition: judaism
-  ref: Isa 48:13
-  note: 'God holds the heavens and the earth lest they cease; if they ceased, no one else could hold them
-    (ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. inna llāha yumsiku
-    s-samāwāti wa-l-arḍa an tazūlā: heaven and earth stand because God holds them.)'
-  lang: he
-  source: Westminster Leningrad Codex (OSHB)
-  text: אַף יָדִי֙ יָ֣סְדָה אֶ֔רֶץ וִֽימִינִ֖י טִפְּחָ֣ה שָׁמָ֑יִם קֹרֵ֥א אֲנִ֛י אֲלֵיהֶ֖ם יַעַמְד֥וּ
-    יַחְדָּֽו
-- tradition: islam
-  ref: Quran 35:41
-  note: God holds the heavens and the earth lest they cease; if they ceased, no one else could hold them
-  lang: ar
-  source: Quranic Arabic Corpus (Uthmani script)
-  text: إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا
-    مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
+passages: []
 evidence:
-- text: 'Confirmed by a side-by-side reading of both originals (alignments/hb-quran/06-hb-quran.yaml):
-    echo. ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. inna llāha
-    yumsiku s-samāwāti wa-l-arḍa an tazūlā: heaven and earth stand because God holds them.'
+- text: Read side by side in both originals (alignments/hb-quran/06-hb-quran.yaml).
   basis: reading
 - text: 'Shared motifs, rarest first: God holds the heavens and the earth lest they cease; if they ceased,
     no one else could hold them (weight 6.7). Pair score 6.7.'
@@ -70,6 +51,34 @@ evidence:
   basis: reading
 origin: pipeline
 added: '2026-10-29'
+finding: God holds the heavens and the earth lest they cease; if they ceased, no one else could hold them
+kinds:
+- echo
+units:
+- id: hb-isa-48-refined-in-affliction
+  title: Obstinate Israel, former and new things, flee from Babylon
+  tradition: judaism
+- id: quran-35-heirs-of-book
+  title: The heirs of the Book, the Gardens of Eden and the cries of the damned
+  tradition: islam
+matches:
+- kind: echo
+  label: God holds the heavens and the earth lest they cease; if they ceased, no one else could hold them
+  note: 'ʾap̄-yāḏî yāsəḏâ ʾereṣ wî-mînî ṭippəḥâ šāmāyim qōrēʾ ʾănî ʾălêhem yaʿamḏû yaḥdāw vs. inna llāha
+    yumsiku s-samāwāti wa-l-arḍa an tazūlā: heaven and earth stand because God holds them.'
+  sides:
+  - tradition: judaism
+    passages:
+    - ref: Isa 48:13
+      lang: he
+      text: אַף יָדִי֙ יָ֣סְדָה אֶ֔רֶץ וִֽימִינִ֖י טִפְּחָ֣ה שָׁמָ֑יִם קֹרֵ֥א אֲנִ֛י אֲלֵיהֶ֖ם יַעַמְד֥וּ
+        יַחְדָּֽו
+  - tradition: islam
+    passages:
+    - ref: Quran 35:41
+      lang: ar
+      text: إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا
+        مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا
 ---
 
 ## Questions
